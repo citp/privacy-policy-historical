@@ -1,27 +1,36 @@
-> *The following text is extracted and transformed from the simpli.fi privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623233526id_/http%3A//www.simpli.fi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpli.fi privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202142319id_/http%3A//www.simpli.fi/privacy) for the most accurate reproduction.*
 
 # Simpli.fi - Privacy
 
-Simplifi Holdings, Inc. ("Simpli.fi") is a company based in Fort Worth, Texas that provides online advertising services. This Privacy Policy describes our company's overall privacy practices as they pertain to the advertising services that we provide, and to visitors to our web site (www.simpli.fi).
+[ ](https://privacy.truste.com/privacy-seal/Simpli-fi-Holdings-Inc-/validation?rid=9ed34f52-b553-4ed2-b83d-484c05173b21 "TRUSTe online privacy certification")
+
+Simplifi Holdings, Inc. ("Simpli.fi") is a company based in Fort Worth, Texas that provides online advertising services. This Privacy Policy describes our company's privacy practices as they pertain to visitors to our website ([www.simpli.fi](https://web.archive.org/ "Simpli.fi")). 
+
+Simpli.fi has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "Description of TRUSTe program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@simpli.fi](mailto:privacy@simpli.fi?subject=Privacy%20Policy%20Inquiry). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "Contact TRUSTe"). The TRUSTe program only covers information collected through this website, prior to the login feature. 
 
 ## What Information Do We Collect?
 
   * ### Non-Personally Identifiable Information
 
-In performing our advertising services, we collect non-personally identifiable consumer information in multiple ways, including:
+#### Cookies
 
-    * on our own web sites
-    * on the web sites of publishers that call our pixels (or "beacons")
-    * when we serve online advertisements, and
-    * from third party providers
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don't have to enter it more than once. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-This anonymous data includes, but is not limited to, information such as a web visitor's IP address, web pages which have been viewed by a web visitor, date and time, domain type, and responses by a web visitor to an advertisement delivered by us or a third party advertising technology vendor. As the Internet evolves, we may use different types of technologies to collect these types of anonymous, non-personally identifiable information. The collection of this anonymous data allows us and our advertisers to better target advertising to user interests. The data also allows us provide improvements to our services, for example, improving the effectiveness of the advertisements delivered to users and limiting the number of times a person sees a given advertisement. If you do not want us to collect or store anonymous data that relates to your use of the Internet, please click here: [Opt-Out](https://web.archive.org/opt-out). 
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+
+#### Third Party Cookies
+
+The use of cookies by our partners, affiliates, tracking utility company or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
+
+#### Clear Gifs (Web Beacons/Web Bugs)
+
+We employ, and our third party analytics partners, employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Correspondence."
 
   * ### Personally Identifiable Information (PII)
 
-It is our policy not to collect or store personally identifiable information for the purposes of targeting ads to users.
-
-However, we do collect personally identifiable information if that information is necessary to provide a specific service requested by a user (e.g., an address or email so that we can respond to a request for information from that user, billing information so that we may invoice a customer for our services, etc.). If in the future we start to collect PII for advertising purposes, we will make changes to this Privacy Policy to address its protection.
+We collect personally identifiable information if that information is necessary to provide a specific service requested by a user (e.g., name, phone number, an address or email so that we can respond to a request for information from that user, billing information so that we may invoice a customer for our services, etc.).
 
 Please note that at some of Simpli.fi's partner or advertiser properties, users may be asked to register and provide personally identifiable data. Although Simpli.fi is committed to making sure that our partners provide notice and choice to all consumers, the collection and use of such PII is controlled by the policies found on those sites. Since Simpli.fi cannot control those third party sites, we recommend that you to take appropriate steps to control the use of PII on third party sites.
 
@@ -30,7 +39,15 @@ Please note that at some of Simpli.fi's partner or advertiser properties, users 
 
 ## How Do We Use the Information?
 
-Simpli.fi use non-personally identifiable information to improve advertisement targeting, make and create offers, provide reporting to advertisers and clients, and to improve our advertising systems and products. In addition, that data may be combined with information collected from other sources so that we may better serve users with offers that may be of interest to them. We may also share non-personally identifiable information with our subsidiaries and third party partners and agents for similar use.
+We use the information you provide through this website as necessary to provide the services you have requested, such as to receive information about our products and services, to be contacted in regards to an employment opportunity or to provide you with customer service.
+
+## Data Retention
+
+We will retain your information for as long as your account is active, as needed to provide you services and will use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## Disclosure of Information
+
+We may share your personal information with third party companies who provide services on our behalf, such as an email marketing company who distributes our newsletters to our clients. These companies are authorized to use your personal information _only as necessary_ to provide these services to us. We will not sell, trade or share your information with other companies for their promotional purposes. 
 
 Simpli.fi may also disclose any information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on Simpli.fi; (2) protect and defend the rights or property of Simpli.fi; (3) act in urgent circumstances to protect the personal safety of users of Simpli.fi, its websites or the public; or (4) to provide updates and services that may be of interest to the customer.
 
@@ -44,27 +61,37 @@ Our website may contain content and advertisements from third parties that may p
 
 Further, our website may contain links to other websites on the Web. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
 
-This privacy statement applies solely to information collected by Simpli.fi.
+This privacy statement applies solely to information collected on the Simpli.fi website.
 
 ## Correspondence
 
+If you no longer wish to receive our newsletter or promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by contacting us through one of the methods listed in this privacy statement.
+
 If you contact us, we may keep a record of that correspondence and we may collect your email address.
+
+## Public Forums
+
+Our website offers a publicly accessible blog. You should be aware that any information you provide in this area may be read, collected, and used by others who access it. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Children's Privacy
 
-Simpli.fi is sensitive to the issue of children's privacy. Simpli.fi's website, products and services, are not developed for, designed to attract, or directed at, people under the age of thirteen. We will not collect information from users who we know are under the age of 13. If you believe your child under the age of 13 has provided Simpli.fi with personally identifiable data, or registered at Simpli.fi's website, and you would like to have the data removed, please [contact us](https://web.archive.org/contact-us). 
+Simpli.fi is sensitive to the issue of children's privacy. Simpli.fi's website, products and services, are not developed for, designed to attract, or directed at, people under the age of thirteen. We will not collect information from users who we know are under the age of 13. If you believe your child under the age of 13 has provided Simpli.fi with personally identifiable data, or registered at Simpli.fi's website, and you would like to have the data removed, please [contact us](mailto:privacy@simpli.fi?subject=Privacy%20Policy%20Inquiry). 
 
 ## Sale of Assets
 
-In the event that another company acquires all or substantially all of the assets related to the business, we reserve the right to include any or all stored non-personally identifiable and personally identifiable information among the assets transferred to the acquiring company.
+In the event that another company acquires all or substantially all of the assets related to the business, we reserve the right to include any or all stored non-personally identifiable and personally identifiable information among the assets transferred to the acquiring company. If Simpli.fi is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+## Access to Personally Identifiable Information
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by contacting us via the contact information listed within this privacy statement. We will respond to your request to access within 30 days.
 
 ## Changes to Privacy Policy
 
-This privacy policy is subject to change without notice. We may change our policy at any time by posting a new version of it on our website.
+This privacy policy is subject to change without notice. We may change our policy at any time by posting a new version of it on our website. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ## Effective Date
 
-The privacy policy was last revised on April 12, 2010.
+The privacy policy was last revised on December 1, 2011.
 
 ## Questions and Comments
 
