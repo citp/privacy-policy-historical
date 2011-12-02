@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superficialgallery.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129215957id_/http%3A//www.superficialgallery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superficialgallery.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202150828id_/http%3A//www.superficialgallery.com/privacy-policy) for the most accurate reproduction.*
 
-# Superficial Gallery Privacy Policy | Superficial Gallery
+# Superficial Gallery: Privacy Policy
 
 **Privacy Policy for www.superficialgallery.com**
 
@@ -28,6 +28,4 @@ www.superficialgallery.com has no access to or control over these cookies that a
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.superficialgallery.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
-
-No tags for this post. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
