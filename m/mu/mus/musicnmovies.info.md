@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicnmovies.info privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317054852id_/http%3A//www.musicnmovies.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicnmovies.info privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202130817id_/http%3A//www.musicnmovies.info/privacy-policy) for the most accurate reproduction.*
 
 # Bollywood infotainment – scoops, videos, reviews | Privacy Policy
 
