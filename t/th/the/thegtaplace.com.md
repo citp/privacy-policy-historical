@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegtaplace.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601234428id_/http%3A//www.thegtaplace.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegtaplace.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202035431id_/http%3A//www.thegtaplace.com/legal) for the most accurate reproduction.*
 
 # The GTA Place - Legal Information & Privacy Policy
 
