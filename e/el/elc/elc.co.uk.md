@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528101753id_/http%3A//www.elc.co.uk/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elc.co.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203005625id_/http%3A//www.elc.co.uk/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy : Early Learning Centre UK Toy Shop
+
+  * Can I feel secure using this site?
+  * Are my personal details kept private? 
+  * Why does ELC need so much information from me when I order? 
+  * What about entering competitions?
+  * Why would I want to sign up, or set up an account at elc.co.uk? 
+  * I've heard how unsafe the Internet can be – how does elc.co.uk protect my details? 
+  * If I pay by credit card, does ELC keep hold of the details? 
+  * I'm still unhappy about paying online. Can I still order?
+  * Will elc.co.uk disclose my information to outside parties?
+  * What have I agreed to, by using this site?
+  * What about ‘cookies' – how do they affect me?
+  * I've still got questions. Who can I contact?
+
+
 
 Can I feel secure using this site?
 
