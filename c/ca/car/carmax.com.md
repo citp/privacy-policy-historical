@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmax.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427181100id_/http%3A//www.carmax.com/enus/privacy-policy/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmax.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202181020id_/http%3A//www.carmax.com/enus/privacy-policy/default.html) for the most accurate reproduction.*
 
 # CarMax
 
@@ -26,7 +26,7 @@ We take commercially reasonable steps to protect the information we collect onli
 **CALIFORNIA USERS: YOUR CALIFORNIA PRIVACY RIGHTS**  
 _For residents of California Only._ Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of customers' personal information with third-parties. These businesses are required to accept such requests from customers but are only required to honor one request per calendar year. Businesses have thirty (30) days to respond to each inquiry. Each inquiring customer will receive an explanation of the categories of customer information shared and the names and addresses of the third-party businesses. In limited circumstances, customers' failure to submit requests in the manner specified will not require a response from the business. 
 
-**If you are a current CarMax customer in California, you may request such information from CarMax by sending an email correspondence noting your name, address, and email address. You must also include a request that CarMax provide such information to you using the following or similar verbiage. "I request that CarMax provide its third-party information sharing disclosures required by section 1798.83 of the California Civil Code." Press the link at the end of this sentence to create your message: EMAIL. The same request may be made by regular mail by sending the above information to CarMax, 12800 Tuckahoe Creek Parkway, Richmond, VA 23238, ATTENTION: Legal Department.**
+**If you are a current CarMax customer in California, you may request such information from CarMax by sending an email correspondence noting your name, address, and email address. You must also include a request that CarMax provide such information to you using the following or similar verbiage. "I request that CarMax provide its third-party information sharing disclosures required by section 1798.83 of the California Civil Code." Press the link at the end of this sentence to create your message:[WebOptOut@carmax.com](mailto:WebOptOut@carmax.com). The same request may be made by regular mail by sending the above information to CarMax, 12800 Tuckahoe Creek Parkway, Richmond, VA 23238, ATTENTION: Legal Department.**
 
 **FINANCIAL PRIVACY**
 
