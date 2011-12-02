@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animationlibrary.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619045133id_/http%3A//www.animationlibrary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animationlibrary.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202210346id_/http%3A//www.animationlibrary.com/privacy) for the most accurate reproduction.*
 
 # Animation Library | Contact
 
