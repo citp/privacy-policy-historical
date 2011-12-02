@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixfigureincomeplan.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109182339id_/http%3A//sixfigureincomeplan.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfigureincomeplan.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202185220id_/http%3A//sixfigureincomeplan.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy
 
