@@ -1,0 +1,1005 @@
+<!--The following is the downloaded HTML source of the clgaming.net privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202011542id_/http%3A//www.clgaming.net/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" slick-uniqueid="1"><head>
+            <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+            <meta name="description" content="CLGaming.net - Counter Logic Gaming Competitive Community. League of Legends pro streams."> 
+            <meta name="keywords" content="league of legends, online, streams, replays, gaming, competetive, guides, defense of the ancients, dota, lol, heroes of newreth, hon"> 
+            <link rel="shortcut icon" href="/images/clg.ico">
+            <title>Privacy Policy - CLGaming.net</title>
+            
+            <link rel="stylesheet" href="/interface/css/clgaming.css?v=4" type="text/css">
+            <link rel="stylesheet" href="/interface/css/interface.css?v=4" type="text/css">
+            <link rel="stylesheet" href="/interface/css/slideshow.css" type="text/css">
+            
+            <script type="text/javascript" src="/interface/js/mootools-core.js"></script>
+            <script type="text/javascript" src="/interface/js/mootools-more.js"></script>
+            <script type="text/javascript" src="/interface/js/floatingtips.js"></script>
+            <script type="text/javascript" src="/interface/js/slideshow.js"></script>
+            <script type="text/javascript" src="/interface/js/tooltip.js"></script>
+            
+            <script type="text/javascript">
+            <!--
+            
+            function updateClock () {
+                
+                
+
+
+                
+                var currentHours = $('hours').innerHTML;
+                var currentMinutes = $('minutes').innerHTML;
+                var currentSeconds = $('seconds').innerHTML;
+                
+                currentSeconds++;
+                
+                if (currentSeconds > 59) {
+                    currentSeconds = (currentSeconds - 60);
+                    
+                    currentMinutes++;
+                    
+                    
+                    if (currentMinutes > 59) {
+                        currentMinutes = (currentMinutes - 60);
+                        
+                        currentHours++;
+                        
+                        
+                        if (currentHours > 23) {
+                            currentHours = (currentHours - 24);
+                        }
+                        
+                        currentHours = (currentHours < 10 ? "0" : "") + currentHours;
+                    }
+                    
+                    currentMinutes = (currentMinutes < 10 ? "0" : "") + currentMinutes;
+                }
+
+                currentSeconds = ( currentSeconds < 10 ? "0" : "") + currentSeconds;
+
+                $('hours').innerHTML = currentHours;
+                $('minutes').innerHTML = currentMinutes;
+                $('seconds').innerHTML = currentSeconds;
+            }
+            
+            var Tooltip;
+            
+            window.addEvent('domready', function() {
+                updateClock();
+            	setInterval('updateClock()', 1000);
+                
+                Tooltip = new TooltipClass('#calendarInner a', {
+                
+                    
+                    content: function(e) {
+                        
+                        // Data is in an Attribute
+                        if (e.getProperty('data-attribute')) {
+                            return e.getProperty('data-attribute');
+                        }
+                        // Data is in an Element
+                        if (e.getProperty('data-element')) {
+                            if($(e.getProperty('data-element'))) {
+                                return $(e.getProperty('data-element')).get('html');
+                            }
+                            if(Tooltip.GetCache(e.getProperty('data-element'))) {
+                                return Tooltip.GetCache(e.getProperty('data-element'));
+                            }
+                            return 'Could not retrieve data.';
+                        }
+                        // Data needs to be loaded
+                        if (e.getProperty('data-link')) {
+                            if(Tooltip.GetCache(e.getProperty('data-link'))) {
+                                return Tooltip.GetCache(e.getProperty('data-link'));
+                            }
+                            
+                            var request = new Request.JSON({
+                                url: e.getProperty('data-link'),
+                                link: 'chain',
+                                onSuccess: function(jsonObj) {
+                                    
+                                    Tooltip.SetCache(e.getProperty('data-link'), jsonObj.data);
+                                    
+                                    $(e.getProperty('data-link')).set('html', jsonObj.data);
+                                    
+                                    Tooltip.Reposition(e);
+
+                                }
+                            }).send();
+                            return 'loading...';
+                        }
+                    },
+                    
+                    position: 'top',
+                    center: false,
+                    html: true
+                    
+                });
+                
+            });
+            
+            // -->
+            </script>
+
+        </head>
+        <body>
+
+            <div id="error" class="error-wrapper" onmouseover="$('error').fade('out');">
+                <div class="error-title"></div>
+                <div id="errorMessage" class="error-message"></div>
+            </div>
+            <div id="success" class="success-wrapper" onmouseover="$('success').fade('out');">
+                <div class="success-title"></div>
+                <div id="successMessage" class="success-message"></div>
+            </div>
+            <div class="layout-top">
+                <div class="userbar-wrapper">
+                    <div class="userbar">
+                        <a href="http://clgaming.net/">
+                            <div style="float: left; height: 40px; width: 40px; padding: 0px 10px; background-color: #171919; border-left: 1px solid #33373b; background-image: url(http://rog.clgaming.net/interface/img/userbar-clg.png); background-repeat: no-repeat; background-position: center center;"></div>
+                        </a>
+                        <a href="http://rog.clgaming.net/">
+                            <div style="float: left; height: 40px; width: 40px; padding: 0px 10px; background-color: #171919; border-left: 1px solid #33373b; background-image: url(http://rog.clgaming.net/interface/img/userbar-rog.png); background-repeat: no-repeat; background-position: center center;"></div>
+                        </a>
+                        <div style="float: left; font-weight: bold; line-height: 40px; border-right: 1px solid #33373b; color: #8694A1; border-left: 1px solid #33373b; padding: 0px 10px;">
+                            <a href="/board/index.php?form=UserLogin">Log in</a> or <a href="http://clgaming.net/board/index.php?page=Register">Create an Account</a>
+                        </div>
+                        <div class="v4-top-menu" style="float: left; font-weight: bold; line-height: 40px;">
+                            <ul>
+                                <li>
+                                    <a href="/board/index.php?form=UserProfileEdit">Account</a>
+                                    <ul><li class="category">Streams</li><li><a href="/livestream/6-missy/edit">missy</a></li><li><a href="/livestream/7-clg-bigfatjiji/edit">CLG bigfatjiji</a></li><li><a href="/livestream/8-clg-doublelift/edit">CLG Doublelift</a></li><li><a href="/livestream/9-treeeskimo/edit">TreeEskimo</a></li><li><a href="/livestream/10-vodoo/edit">Vodoo</a></li><li><a href="/livestream/11-league-of-legends/edit">League of Legends</a></li><li><a href="/livestream/13-atmozfears/edit">Atmozfears</a></li><li><a href="/livestream/35-mushroom-league-of-legends/edit">MushrooM: League of Legends</a></li><li><a href="/livestream/88-crazyjon31-live-stream/edit">crazyjon31 live stream</a></li><li><a href="/livestream/48-herpaderp-eu-stream/edit">Herpaderp EU Stream</a></li><li><a href="/livestream/51-laionia/edit">LAionia</a></li><li><a href="/livestream/52-hannitah-world/edit">HannitaH WorLD</a></li><li><a href="/livestream/68-team-voz/edit">Team VOZ</a></li><li><a href="/livestream/72-feuchtvonlipwig/edit">FeuchtVonLipwig</a></li><li><a href="/livestream/89-soshi/edit">soshi</a></li><li><a href="/livestream/90-dsolid-live-gaming/edit">dSolid live gaming</a></li><li><a href="/livestream/81-pepino-stream-lol-eu/edit">Pepino Stream || LOL EU</a></li><li><a href="/livestream/85-mortician/edit">Mortician</a></li><li><a href="/livestream/93-talamare/edit">Talamare</a></li><li><a href="/livestream/94-strychnine-rose-fails/edit">Strychnine Rose Fails</a></li><li><a href="/livestream/95-dat-tyhan/edit">dat Tyhan</a></li><li><a href="/livestream/96-grackis/edit">Grackis</a></li><li><a href="/livestream/97-duffy-039-s/edit">Duffy's</a></li><li><a href="/livestream/103-alphacide-live/edit">Alphacide Live</a></li><li><a href="/livestream/99-solomid-2/edit">SoloMid #2</a></li><li><a href="/livestream/101-solomid-3/edit">SoloMid #3</a></li><li><a href="/livestream/102-solomid-4/edit">SoloMid #4</a></li><li><a href="/livestream/108-synthoraz-039-stream/edit">Synthoraz'Stream</a></li><li><a href="/livestream/106-rivertoo/edit">Rivertoo</a></li><li><a href="/livestream/109-cleveradvisor-039-s-fun-house/edit">CleverAdvisor's fun house</a></li><li><a href="/livestream/112-5-vs-5-solo/edit">5 vs 5 solo</a></li><li><a href="/livestream/113-backspace-039-s-lol-stream/edit">Backspace's LoL Stream</a></li><li><a href="/livestream/115-rammus-and-friends/edit">Rammus and Friends</a></li><li><a href="/livestream/156-bantos-lol-normal-livestream/edit">Bantos LoL Normal Livestream</a></li><li><a href="/livestream/123-jglafter-mid-elo-w-commentary/edit">JGLafter:Mid ELO w/ Commentary</a></li><li><a href="/livestream/237-2inches/edit">2Inches</a></li><li><a href="/livestream/228-piloto/edit">Piloto</a></li><li><a href="/livestream/153-low-elo-ranked/edit">Low elo ranked</a></li><li><a href="/livestream/122-kama-toki/edit">Kama Toki</a></li><li><a href="/livestream/124-audacityluck/edit">audacityLuck</a></li><li><a href="/livestream/137-cbr1000rider/edit">Cbr1000Rider</a></li><li><a href="/livestream/128-kevstar-1-stream/edit">KevstaR #1 Stream!</a></li><li><a href="/livestream/134-chauster/edit">Chauster</a></li><li><a href="/livestream/130-eu-elo-hell-whit-eu-trash/edit">Eu elo hell whit eu trash</a></li><li><a href="/livestream/132-bxown3d/edit">BxOwn3d</a></li><li><a href="/livestream/136-lol-for-fun/edit">LoL for Fun</a></li><li><a href="/livestream/141-feel-no-fears/edit">Feel no Fears</a></li><li><a href="/livestream/150-saiyajin-low-elo/edit">Saiyajin Low ELO</a></li><li><a href="/livestream/143-zomfgwtfkthxbye/edit">zomfgwtfkthxbye</a></li><li><a href="/livestream/145-tacoman-039-s-lol-stream/edit">TACOman's LoL Stream</a></li><li><a href="/livestream/144-pwnada-violenta/edit">Pwnada Violenta</a></li><li><a href="/livestream/147-epik-gamer/edit">Epik Gamer</a></li><li><a href="/livestream/149-dotaclinkz-039-s-stream/edit">DotaClinkz's Stream</a></li><li><a href="/livestream/159-mid-eu-ranked/edit">Mid EU ranked</a></li><li><a href="/livestream/158-pleasure-time/edit">Pleasure Time</a></li><li><a href="/livestream/165-elo-hell/edit">Elo Hell</a></li><li><a href="/livestream/162-el-mitos/edit">El Mitos</a></li><li><a href="/livestream/161-leech-gaming-1600-1700-elo/edit">Leech Gaming 1600-1700 elo</a></li><li><a href="/livestream/164-cribisgangsta/edit">CRIBISGANGSTA</a></li><li><a href="/livestream/469-elo-hell-with-bad-player/edit">Elo Hell with bad player :)</a></li><li><a href="/livestream/216-sagesmurf/edit">Sagesmurf</a></li><li><a href="/livestream/175-awpaholica-com-stream/edit">Awpaholica.com Stream</a></li><li><a href="/livestream/174-imgood-click-to-find-out-why/edit">ImGood. Click to find out why!</a></li><li><a href="/livestream/176-itzwarty-039-s-stream/edit">ItzWarty's stream</a></li><li><a href="/livestream/178-the-fmta/edit">The FMTA</a></li><li><a href="/livestream/182-void-gaming/edit">!Void-Gaming</a></li><li><a href="/livestream/187-i-play-evey-champ/edit">I play evey champ</a></li><li><a href="/livestream/190-the-lone-quark/edit">The lone Quark</a></li><li><a href="/livestream/192-zerogaming/edit">ZeroGaming</a></li><li><a href="/livestream/214-a-skillshots-dream-draguny/edit">A Skillshots Dream ~ Draguny</a></li><li><a href="/livestream/196-modestaxis-stream/edit">ModestAxis Stream</a></li><li><a href="/livestream/197-road-to-the-top/edit">Road to the top</a></li><li><a href="/livestream/485-parabolic-ranked-us/edit">Parabolic Ranked US</a></li><li><a href="/livestream/203-neohlithical/edit">Neohlithical</a></li><li><a href="/livestream/212-teenage-boy-039-s-stream/edit">Teenage boy's stream</a></li><li><a href="/livestream/205-meepro/edit">Meepro</a></li><li><a href="/livestream/206-solomid-ashe/edit">Solomid ashe</a></li><li><a href="/livestream/211-darkrambo-swiss/edit">Darkrambo (Swiss) </a></li><li><a href="/livestream/217-golek/edit">Golek</a></li><li><a href="/livestream/220-nub-stream/edit">Nub Stream</a></li><li><a href="/livestream/221-willius/edit">Willius</a></li><li><a href="/livestream/224-the-twiz/edit">The TwiZ</a></li><li><a href="/livestream/225-random-games/edit">random games!!!</a></li><li><a href="/livestream/296-stexer-039-s-livestream/edit">Stexer's Livestream</a></li><li><a href="/livestream/235-elm3ck/edit">Elm3ck</a></li><li><a href="/livestream/256-kanzeon-kamikat/edit">Kanzeon - KamiKat!</a></li><li><a href="/livestream/234-lol-gameplay/edit"> LoL gameplay</a></li><li><a href="/livestream/240-panama-mid-elo/edit">Panama Mid ELO</a></li><li><a href="/livestream/238-cry-me-a-river-hungary/edit">Cry me a River - Hungary</a></li><li><a href="/livestream/242-jedidwag-gaming/edit">JediDwag Gaming</a></li><li><a href="/livestream/247-mercuryred-ranked-stream/edit">MercuryRed Ranked Stream</a></li><li><a href="/livestream/255-stef-ownz-eu/edit">Stef Ownz (EU)</a></li><li><a href="/livestream/343-top-3vs3-stream/edit">Top 3vs3 Stream</a></li><li><a href="/livestream/278-portolet-039-s-nightmare/edit">Portolet's Nightmare</a></li><li><a href="/livestream/260-johnnylode-039-s-carry-shack/edit">JohnnyLode's Carry Shack</a></li><li><a href="/livestream/262-thetreebeard-039-s-stream/edit">TheTreeBeard's Stream</a></li><li><a href="/livestream/264-korean/edit">Korean</a></li><li><a href="/livestream/266-dyaleague-stream/edit">DYALeague Stream</a></li><li><a href="/livestream/269-try-again/edit">Try Again</a></li><li><a href="/livestream/268-khamos-gji-streaming/edit">Khamos GJi Streaming</a></li><li><a href="/livestream/276-warewulf/edit">Warewulf</a></li><li><a href="/livestream/323-iuke/edit">Iuke</a></li><li><a href="/livestream/295-explosion-e-sports/edit">Explosion E-Sports</a></li><li><a href="/livestream/299-love-and-trolls-with-th3rat/edit">Love and Trolls With Th3RaT.</a></li><li><a href="/livestream/301-remove-039-s-stream/edit">Remove's Stream</a></li><li><a href="/livestream/308-shamanens-eu-stream/edit">Shamanens Eu stream</a></li><li><a href="/livestream/317-competitive-online/edit">Competitive Online</a></li><li><a href="/livestream/312-noob-of-legends/edit">Noob of Legends  </a></li><li><a href="/livestream/311-aaa-stream/edit">*aAa* Stream</a></li><li><a href="/livestream/313-noob-of-legends/edit">Noob of Legends</a></li><li><a href="/livestream/326-gametobealive/edit">GameToBeAlive</a></li><li><a href="/livestream/318-love-boy-acute-s-stream/edit">Love Boy´s Stream</a></li><li><a href="/livestream/348-alpha-force-clan-livestream/edit">Alpha Force Clan Livestream</a></li><li><a href="/livestream/325-how-normal-people-play/edit">How normal people play</a></li><li><a href="/livestream/328-exotic-league-of-legends-ii/edit">Exotic - League of Legends II</a></li><li><a href="/livestream/338-valkskorn-039-s-stream/edit">Valkskorn's Stream</a></li><li><a href="/livestream/333-low-elo-soloq-amp-normal-games/edit">Low Elo Soloq&amp;Normal Games</a></li><li><a href="/livestream/336-sologamer/edit">Sologamer</a></li><li><a href="/livestream/341-aaa-english-stream/edit">*aAa* English Stream</a></li><li><a href="/livestream/362-compact-gaming-lol/edit">Compact-gaming LoL</a></li><li><a href="/livestream/342-swordgard-039-s-livestream/edit">Swordgard's livestream</a></li><li><a href="/livestream/344-oophoenixoo-low-elo/edit">oOPhoenixOo Low elo</a></li><li><a href="/livestream/346-live-figoral/edit">Live Figoral</a></li><li><a href="/livestream/347-nceuphoria-039-s-stream/edit">nceuphoria's stream</a></li><li><a href="/livestream/349-nym-gaming-garena/edit">NYM Gaming - Garena.</a></li><li><a href="/livestream/351-wgt-gaming-izinski/edit">WGT Gaming : Izinski</a></li><li><a href="/livestream/352-shlaya/edit">ShLaYa    </a></li><li><a href="/livestream/357-slayzor/edit">Slayzor</a></li><li><a href="/livestream/353-naengmyeon-039-s-stream/edit">NaengMyeon's Stream</a></li><li><a href="/livestream/356-tlg-039-s-nonskilled-stream/edit">TLG's Nonskilled Stream </a></li><li><a href="/livestream/364-berg-039-s-nub-stream/edit">berg's nub stream</a></li><li><a href="/livestream/366-zindwa-elo-hell/edit">Zindwa Elo Hell</a></li><li><a href="/livestream/367-devo/edit">devo</a></li><li><a href="/livestream/368-basickz/edit">Basickz</a></li><li><a href="/livestream/369-truktruk/edit">TRUKTRUK</a></li><li><a href="/livestream/373-altryx-039-s-stream/edit">Altryx's Stream</a></li><li><a href="/livestream/370-krifar/edit">Krifar </a></li><li><a href="/livestream/499-bloodline-champions-ladder/edit">Bloodline Champions ladder</a></li><li><a href="/livestream/381-phoen1x-gaming/edit">Phoen1x Gaming</a></li><li><a href="/livestream/380-climbing-out-of-elo-hell/edit">Climbing out of elo hell</a></li><li><a href="/livestream/391-roflmuffin-039-s-stream/edit">Roflmuffin's Stream</a></li><li><a href="/livestream/395-magixter/edit">Magixter</a></li><li><a href="/livestream/390-althenia/edit">Althenia</a></li><li><a href="/livestream/393-seventy-stream/edit">Seventy Stream</a></li><li><a href="/livestream/407-chaoticwolf-the-noobquest/edit">Chaoticwolf- The NoobQuest</a></li><li><a href="/livestream/400-hartweizen/edit">Hartweizen</a></li><li><a href="/livestream/402-chaoticwolf/edit">Chaoticwolf</a></li><li><a href="/livestream/413-riotrara/edit">RiotRara</a></li><li><a href="/livestream/414-lethalshade-039-s-stream/edit">LethalShade's Stream</a></li><li><a href="/livestream/410-m9chuk-solo-ranked-noranked/edit">M9CHuK Solo Ranked/noRanked</a></li><li><a href="/livestream/416-league-of-legends-normal-games/edit">League of Legends Normal games</a></li><li><a href="/livestream/415-tabuno/edit">Tabuno</a></li><li><a href="/livestream/418-leagu-of-legends-eu-vinoh/edit">Leagu of legends EU - Vinoh</a></li><li><a href="/livestream/419-shendox/edit">Shendox</a></li><li><a href="/livestream/424-online-gamer-chick/edit">Online Gamer Chick</a></li><li><a href="/livestream/426-urinalgaming/edit">Urinalgaming</a></li><li><a href="/livestream/434-valued-dubstep/edit">ValueD + Dubstep</a></li><li><a href="/livestream/430-samakas/edit">Samakas</a></li><li><a href="/livestream/482-k-auml-tzchen-tv/edit">Kätzchen TV</a></li><li><a href="/livestream/438-kama-toki-039-s-livestream/edit">Kama Toki's Livestream</a></li><li><a href="/livestream/468-kiruur-039-s-stream/edit">kiruur's Stream</a></li><li><a href="/livestream/445-orchestra-eu/edit">Orchestra (EU)</a></li><li><a href="/livestream/446-megson-stream/edit">Megson Stream</a></li><li><a href="/livestream/478-issorlol-039-s-badness/edit">Issorlol's badness</a></li><li><a href="/livestream/471-nexus-gaming/edit">Nexus gaming</a></li><li><a href="/livestream/505-lljk-enthe0s/edit">LLJK Enthe0s</a></li><li><a href="/livestream/451-rydzik-show/edit">Rydzik show</a></li><li><a href="/livestream/453-rydzik-show/edit">Rydzik show</a></li><li><a href="/livestream/510-willsmith/edit">WillSmith</a></li><li><a href="/livestream/460-hank-evans-lol-lowwww-elo/edit">Hank Evans LoL - Lowwww ELO</a></li><li><a href="/livestream/481-strichmaennls-hd-gaming/edit">Strichmaennls HD Gaming </a></li><li><a href="/livestream/466-imakeitrain-039-s-stream/edit">iMaKEiTRaiN's Stream</a></li><li><a href="/livestream/476-divinity-woe/edit">Divinity WoE</a></li><li><a href="/livestream/472-powergaming-lol-x1ve/edit">Powergaming.LoL // x1ve</a></li><li><a href="/livestream/463-cekay/edit">Cekay</a></li><li><a href="/livestream/465-iamkillerboy182/edit">iamkillerboy182</a></li><li><a href="/livestream/501-aesin-lol/edit">Aesin @ LoL</a></li><li><a href="/livestream/480-crappyxl/edit">crappyXL</a></li><li><a href="/livestream/489-mr-buy-elo-30000/edit">Mr Buy elo 30000+</a></li><li><a href="/livestream/504-1800-or-bust/edit">1800 or BUST!</a></li><li><a href="/livestream/495-danielle-039-s-stream/edit">Danielle's Stream</a></li><li><a href="/livestream/492-pixelmann/edit">Pixelmann</a></li><li><a href="/livestream/493-low-elo-solo-arranged-games/edit">Low ELO solo/arranged games. </a></li><li><a href="/livestream/494-tw-minimalmindless/edit">TW MinimalMindLess</a></li><li><a href="/livestream/496-tonight-we-dine-in-elo-hell/edit">TONIGHT WE DINE...in elo hell</a></li><li><a href="/livestream/500-idro/edit">idro</a></li><li><a href="/livestream/497-takesolo/edit">TakeSolo</a></li><li><a href="/livestream/509-xraphx-livestream/edit">xRaphx LiveStream!</a></li><li><a href="/livestream/511-rakalakalili-039-s-hd-stream/edit">Rakalakalili's HD Stream</a></li><li><a href="/livestream/523-creppy-poerugueses/edit">Creppy Poerugueses</a></li><li><a href="/livestream/513-lynnn-ranked-eu/edit">Lynnn ranked eu</a></li><li><a href="/livestream/516-als-gaming-tv/edit">aLs Gaming TV</a></li><li><a href="/livestream/534-simoncpl-live-stream-lol/edit">SimonCPL Live Stream LoL</a></li><li><a href="/livestream/517-lemmybhoner-lol-hd-1300-elo/edit">Lemmybhoner LoL HD 1300+ ELO</a></li><li><a href="/livestream/521-jimbeu-eu/edit">Jimbeu EU </a></li><li><a href="/livestream/555-rodo-abad/edit">Rodo Abad</a></li><li><a href="/livestream/519-4zri3l/edit">4zri3l</a></li><li><a href="/livestream/530-einhdeed/edit">Einhdeed</a></li><li><a href="/livestream/529-slackoh/edit">Slackoh</a></li><li><a href="/livestream/541-dktv/edit">DKTV</a></li><li><a href="/livestream/533-toyc-gaming/edit">Toyc Gaming!</a></li><li><a href="/livestream/531-hd-720-zinthros-039-stream/edit">[HD 720] Zinthros' Stream</a></li><li><a href="/livestream/551-multihunter-free-lessons/edit">Multihunter - Free lessons</a></li><li><a href="/livestream/566-furymtx-livestream-ger/edit">furymtx livestream (GER) </a></li><li><a href="/livestream/552-vax/edit">Vax </a></li><li><a href="/livestream/540-vii-syns-stream/edit">VII Syns Stream</a></li><li><a href="/livestream/539-thevipgames/edit">TheVipGames</a></li><li><a href="/livestream/563-medes/edit">Medes</a></li><li><a href="/livestream/550-league-of-legends/edit">League of legends</a></li><li><a href="/livestream/553-fr3shm4gic-low-mid-elo/edit">Fr3shM4gic Low-Mid ELO</a></li><li><a href="/livestream/554-rottich/edit">Rottich</a></li><li><a href="/livestream/556-trylinpl/edit">TrylinPL</a></li><li><a href="/livestream/558-rodo-abad/edit">Rodo Abad</a></li><li><a href="/livestream/560-elo-hell-with-magik-penalva/edit">Elo Hell with Magik Penalva</a></li><li><a href="/livestream/613-ditzy-gaming/edit">Ditzy Gaming </a></li><li><a href="/livestream/562-elo-hell-stream/edit">ELO Hell Stream</a></li><li><a href="/livestream/575-my-bear-tibbers-039-s-stream/edit">My bear Tibbers's stream</a></li><li><a href="/livestream/564-we-ignite-your-heal/edit">We Ignite Your Heal</a></li><li><a href="/livestream/567-geige-039-s-low-elo/edit">Geige's low elo</a></li><li><a href="/livestream/633-schorschi/edit">Schorschi</a></li><li><a href="/livestream/569-elo-hell/edit">ELO Hell</a></li><li><a href="/livestream/574-manomayo/edit">Manomayo</a></li><li><a href="/livestream/580-lol-just-4-fun-german/edit">LoL just 4 fun german</a></li><li><a href="/livestream/583-1-korean-ranker/edit">#1 Korean ranker</a></li><li><a href="/livestream/585-lionkinghoe-hoepfull-stream/edit">LionKingHoe HOEpfull stream.  </a></li><li><a href="/livestream/589-guardsman-bob/edit">Guardsman Bob</a></li><li><a href="/livestream/587-1600-brostream/edit">1600+ brostream</a></li><li><a href="/livestream/668-hkegg/edit">HKEGG</a></li><li><a href="/livestream/612-vincentes-league-games/edit">Vincentes League games</a></li><li><a href="/livestream/631-league-of-legends/edit">League of legends</a></li><li><a href="/livestream/632-lol-eu-games/edit">LOL eu games</a></li><li><a href="/livestream/647-tdarka-eu-player-2k/edit">tDarka Eu player 2k</a></li><li><a href="/livestream/648-lol-skillfake/edit">LoL Skillfake!</a></li><li><a href="/livestream/1203-becca-bear/edit">Becca Bear</a></li>
+                                        <li class="category">User</li>
+                                        <li><a href="/board/index.php?form=UserProfileEdit&amp;category=profile">Personal Details</a></li>
+                                        <li><a href="/board/index.php?form=AccountManagement">User Account</a></li>
+                                        <li><a href="/board/index.php?form=AvatarEdit">Avatar</a></li>
+                                        <li><a href="/board/index.php?form=SignatureEdit">Signature</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="/board/index.php?page=PMList">Messages
+                                    </a>
+                                    <ul>
+                                        <li><a href="/board/index.php?page=PMList">Inbox</a></li>
+                                        <li><a href="/board/index.php?page=PMList&amp;folderID=-1">Outbox</a></li>
+                                        <li><a href="/board/index.php?page=PMList&amp;folderID=-2">Drafts</a></li>
+                                        <li><a href="/board/index.php?form=PMNew">Write</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="/teams">Teams</a>
+                                    <ul>
+                                        <li class="category">Options</li>
+                                        <li><a href="/team/create">Create</a></li>   
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div style="float: right; font-size: 11px; line-height: 40px;"><a href="/timezone" style="color: #fff; border-bottom: 1px dotted #00B6FF;">The time is now <span id="hours">17</span>:<span id="minutes">15</span><span id="seconds" style="display: none;">58</span> PST</a></div>
+                        <div style="float: right; font-size: 11px; margin-right: 12px; line-height: 40px;"><span id="usersOnline">13162</span> Users Online</div>
+                        <div style="float: right; font-size: 11px; margin-right: 12px; line-height: 40px;"><span id="liveStreams">74</span> Streams Live</div>
+                        
+                    </div>
+                </div>
+            
+                <div class="header-wrapper">
+                    <div class="space-wrapper">
+                        <div style="float: right;"><a href="http://www.razerzone.com/" style="display: block; height: 50px; width: 200px; margin-top: 15px; background-image: url(/interface/img/sponsors/razer.png); background-position: center center; background-repeat: no-repeat;"></a></div>
+
+                        <div style="float: right;"><a href="http://www.own3d.tv/" style="display: block; height: 50px; width: 200px; margin-top: 15px; background-image: url(/interface/img/sponsors/own3d.png); background-position: center center; background-repeat: no-repeat;"></a></div>
+                    </div>
+                    <div class="menu-wrapper">
+                        <div style="background-image: url(/interface/img/menu-wrapper_left-angle.png); width: 7px; height: 8px; position: absolute; top: 40px; left: 0px;"></div>
+                        <div style="background-image: url(/interface/img/menu-wrapper_right-angle.png); width: 7px; height: 8px; position: absolute; top: 40px; right: 0px;"></div>
+                        
+                        <ul class="dropdown dropdown-horizontal">  
+                            <li><a href="/" class="dir">News</a>
+                                 
+                            </li>  
+                            <li><a href="javascript: void();" class="dir">CLGaming</a>
+                                <ul>  
+                                    <li><a href="javascript: void();">Players</a></li> 
+                                    <li><a href="/staff">Staff</a></li>
+                                    <li><a href="/partners">Partners</a></li>
+                                    <li><a href="http://twitter.com/clgaming">Twitter</a></li>
+                                    <li><a href="http://youtube.com/counterlogicgaming">Youtube</a></li>
+                                </ul> 
+                            </li> 
+                            <li><a href="/media" class="dir">Media</a>
+                                <ul>  
+                                    <li><a href="/livestreams">Livestreams</a></li>
+                                    <li><a href="javascript: void();">Videos on Demand</a></li>
+                                </ul> 
+                            </li>
+                            <li><a href="/tournaments" class="dir">Tournaments</a>
+                            </li><li><a href="/replays" class="dir">Replays</a>
+                            </li><li><a href="/redtracker" class="dir">Redtracker</a></li>
+                            <li><a href="/guides" class="dir">Guides</a>
+                            </li><li><a href="/board" class="dir">Forums</a></li>
+                            <li><a href="/coaching" class="dir">Coaching</a>
+                        </li></ul> 
+                    </div>
+                </div>
+            
+            </div>    
+            
+            <div class="layout-mid">
+                
+                <div class="content-wrapper">
+                    <div class="leaderboard-wrapper">
+                        <div class="leaderboard"><!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://clgaming.net/clads/www/delivery/...'
+  * to
+  *   'https://clgaming.net/clads/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://clgaming.net/clads/www/delivery/ajs.php':'http://clgaming.net/clads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://clgaming.net/clads/www/delivery/ajs.php?zoneid=1&amp;cb=21470333735&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111202011542id_/http%253A//www.clgaming.net/privacy"></script><noscript><a href='http://clgaming.net/clads/www/delivery/ck.php?n=a2e9b503&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://clgaming.net/clads/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2e9b503' border='0' alt='' /></a></noscript>
+</div>
+                    </div>
+                        <div class="content">
+                        <div style="overflow: hidden; clear: both; position: relative; z-index: 250;">
+                            
+            <div class="breadcrumbs">
+                <ul><li>// <a href="/">Home</a></li><li class="active">// <a href="/privacy">Privacy</a></li></ul>
+            </div>
+                            <div id="notice" style="float: right; padding: 6px; line-height: 22px;"></div>
+                        </div><div class="site-title"><h1></h1></div>
+                        
+                        <div id="dynamic-container">
+            <div style="clear: both; overflow: hidden; padding: 6px 10px;">
+                <div style="float: left; width: 768px;">
+        <div class="content-box">
+        Privacy Policy<br \="">
+        <span style="font-size: 20px; font-weight: bold;">Counter Logic Gaming Web site</span>
+        <br \=""><br \="">
+        <span style="font-size: 20px; font-weight: bold;">1. Our Privacy Commitment</span>
+        <br \=""><br \="">
+        <span style="font-weight: bold;">1.1 Statement of Intent.</span> Counter Logic Gaming(Further referred to as CLG) respects and upholds an individual's right to privacy and to protection of his or her personal information.
+        <br \=""><br \="">
+        This CLG Web Site Privacy Policy (“Policy”) is intended to comply with Canada’s federal privacy laws including the Personal Information Protection and Electronic Documents Act (S.C. 2000, c 5) and the ten key principles of the Canadian Standards Association Model Code for the Protection of Personal Information (CAN/CSA – Q830-96).
+        <br \=""><br \="">
+        This Policy applies to all visitors to the CLG web site  
+        <br \=""><br \="">
+        <span style="font-weight: bold;">1.2 Personal Information.</span> "Personal information" is personally identifiable information such as your name, residential address and email address and includes information about any services or products you may subscribe for or acquire from CLG, credit card information and billing records. Personal Information is collected by CLG only when you, as a visitor to our Web site, specifically and knowingly choose to provide it to us.
+        <br \=""><br \="">
+        Publicly available information, such as a directory listing of your name, address, telephone number and electronic address is not considered personal information.
+        <br \=""><br \="">
+        <span style="font-size: 20px; font-weight: bold;">2. Collection and Use of personal information</span>
+        <br \=""><br \="">
+        <span style="font-weight: bold;">2.1 Non-Personal Information.</span> When you browse through this web site, you do so anonymously. CLG does not collect personal information about you unless you voluntarily provide it to us by interacting with the site or submitting an inquiry to us. Our servers automatically log information about visits to this web site in the normal course of establishing and maintaining web connections.  The server logs record statistical information, such as visitors’ IP addresses, time and duration of visit, and web sites visited.  We collect this information so that we may continuously improve our web site content. These statistics are reported in aggregate form only.  We do not link server log information to any other data in a way that would enable us to identify individual visitors.
+        <br \=""><br \="">
+        <span style="font-weight: bold;">2.2 Submitting Inquiries.</span> You may submit an inquiry to us through the "Contact Us" portion of the site. We may ask for certain personal information such as your name, e-mail address, and so on. We collect this information in order to enable us to respond to your inquiries in as thorough a manner as possible.
+        <br \=""><br \="">
+        <span style="font-weight: bold;">2.3 Purposes for Collection, Use, and Disclosure.</span> If you do provide us with personal information, CLG will use the personal information to communicate with you and provide you with requested information. We may also use personal information to provide you with more information related to our services and organization.
+        <br \=""><br \="">
+        <span style="font-weight: bold;">2.4 Consent.</span> The provision of personal information by a visitor to our web site constitutes consent for CLG to collect, use, and disclose personal information for the purposes stated in this Policy. You may also withdraw your consent to any further collection, use or disclosure of personal information which you may have provided at any time by giving CLG prior reasonable notice.
+        <br \=""><br \="">
+        <span style="font-weight: bold;">2.5 Release of Personal Information.</span> Unless you specifically authorize CLG to release your personal information, or release is required or permitted by law, CLG will not sell, lease or trade your personal information to other third parties. Anonymous or “non-personal” information gathered by CLG through your use of our web site may be used for technical, research and analytical purposes. We do not use or disclose personal information for any purposes other than those for which it was collected, except with your consent or as required by law. Personal information is retained only as long as is necessary for the fulfillment of the purposes for which it was collected, or as required by law.
+        <br \=""><br \="">
+        <span style="font-weight: bold;">2.6 Accuracy.</span> CLG will make all reasonable efforts to ensure that personal information is as accurate, complete, and current as required for the purposes for which it was collected. If you find any inaccuracies in our information, please inform us and we will make the appropriate corrections promptly.
+        <br \=""><br \="">
+        <span style="font-size: 20px; font-weight: bold;">3. Web Site Matters</span>
+        <br \=""><br \="">
+        <span style="font-weight: bold;">3.1 Cookies.</span> "Cookies" are a feature of every Internet software browser and are used to collect information anonymously and to track user patterns on a web site. A cookie is a small text file that is placed on the hard disk drive of your computer by a web site. Cookies contain a unique identification number that identifies your browser, but not the visitor, to our computers each time you visit our web site. Cookies tell us which pages of our web sites are visited and by how many people. The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on CLG's web site. Cookies are used to establish a user session and allow our computers to correctly provide visitors to our web site with the appropriate frames and content. Our cookies will not follow your travels on the World Wide Web.
+        <br \=""><br \="">
+        <span style="font-weight: bold;">3.2 Security.</span> Our web site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, CLG will take all reasonable steps to ensure the safety of your personal information.
+        <br \=""><br \="">
+        <span style="font-weight: bold;">3.3 Links to Other Web Sites.</span> Our web site contains links to other web sites. CLG is not responsible for the privacy practices or the content of such other web sites and expressly disclaims all liability associated with your use of and the content of such other sites.
+        <br \=""><br \="">
+        <span style="font-size: 20px; font-weight: bold;">4. Rights, Access and Changes</span>
+        <br \=""><br \="">
+        <span style="font-weight: bold;">4.1 Accountability.</span> CLG is accountable for all personal information under its control. 
+        <br \=""><br \="">
+        <span style="font-weight: bold;">4.2 Access.</span> You have the right to access your personal information under the control of CLG. Upon request, you will be informed of the existence, use, and disclosure of your personal information and you will be given access to that information. Except in limited circumstances, as specifically provided by applicable privacy legislation, CLG can tell you whether we hold personal information about you. CLG will only refuse access to information about you in those circumstances permitted or required by applicable privacy legislation. If CLG refuses access to you, reasons for such refusal will be provided. Exceptions may include information that contains references to other individuals or information that cannot be disclosed for legal or security reasons.
+        <br \=""><br \="">
+        <span style="font-weight: bold;">4.3 Revisions to this Privacy Policy.</span> The development of CLG policies and procedures for the protection of personal information is an ongoing process. Due to changes in technology and legal requirements, we may revise this policy from time to time. Please ensure that you refer to the current version of the CLG Privacy Policy.
+        
+
+        </div>
+                </div>
+        <script type="text/javascript">
+        
+        function getCalendar(requestMonth, requestYear) {
+            var request = new Request.JSON({
+    			url: '/dynamic/content/calendar/',
+    			onComplete: function(jsonObj) {
+                    Tooltip.detach('#calendarInner a');
+                    $('calendar').set('html', jsonObj.calendar);
+                    $('usersOnline').innerHTML = jsonObj.statistics.usersOnline;
+                    $('liveStreams').innerHTML = jsonObj.statistics.liveStreams;
+                    Tooltip.attach('#calendarInner a');
+                }
+    		}).send('year=' + requestYear + '&month=' + requestMonth);
+
+        }
+        </script>
+        <div style="float: right; width: 300px;">
+            <div style="background-color: #3D3C3C; -moz-box-shadow: 0px 0px 10px #111; -webkit-box-shadow: 0px 0px 10px #111;">
+                <div id="calendar" class="calendar" "="">
+        <div class="calendar-date">
+            <div style="width: 15%; float: left;"><a href="javascript: getCalendar('11', '2011')">«</a></div>
+            <div style="width: 70%; float: left;"><a href="/events/2011/12">December 2011</a></div>
+            <div style="width: 15%; float: right;"><a href="javascript: getCalendar('1', '2012')">»</a></div>
+        </div>
+        <table cellpadding="0" cellspacing="0" id="calendarInner">
+           <tbody><tr class="calendar-label">
+               <td>Mo</td>
+               <td>Tu</td>
+               <td>We</td>
+               <td>Th</td>
+               <td>Fr</td>
+               <td>Sa</td>
+               <td>Su</td>
+           </tr>
+                <tr class="calendar-row">
+                        <td></td>
+                        <td></td>
+                        <td></td><td class="calendar-today">1</td><td>2</td><td>3</td><td><a href="/events/2011/12/4/" data-element="2011124">4</a></td>
+                </tr>
+                <tr class="calendar-row"><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td>
+                </tr>
+                <tr class="calendar-row"><td>12</td><td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td>
+                </tr>
+                <tr class="calendar-row"><td>19</td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td>
+                </tr>
+                <tr class="calendar-row"><td>26</td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+                            <td></td>
+                </tr>
+         </tbody></table>
+                            <div id="2011124" style="display: none;">
+                                <ul style="list-style: none; padding: 0px; margin: 0px;"><li><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Tournamentception (08:15)</li></ul>
+                            </div></div>
+                <div id="events" style="padding: 6px;">
+        <div style="line-height: 20px;">Upcoming Events</div>
+        <ul class="streamList">
+            <li>
+                <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Tournamentception</div>
+                <div style="float: right; font-weight: bold; color: #9d9d9d;">2d 14h</div>
+            </li></ul></div>
+            </div>
+            <div style="background-color: #3D3C3C; -moz-box-shadow: 0px 0px 10px #111; -webkit-box-shadow: 0px 0px 10px #111; margin-top: 20px;">
+                <div id="streambar" style="padding: 6px;">
+                
+        <script type="text/javascript">
+        
+        function toggleLivestreams() {
+            if ($('sidebarToggledStreams').style.display == 'none') {
+            	$('sidebarToggledStreams').setStyle('display', '');
+            } else {
+                $('sidebarToggledStreams').setStyle('display', 'none');
+            }
+        }
+        
+        </script>
+        
+        <div id="sidebarLiveStreams">
+        <div style="line-height: 20px;">Featured Streams</div>
+        <ul class="streamList">
+            
+                <a href="/live/1220-clg-kobe24">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">CLG Kobe24</div>
+                        <div style="float: right; color: #fff;">[128]</div>
+                    </li>
+                </a>
+                <a href="/live/958-clg-saintvicious">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">CLG SaintVicious</div>
+                        <div style="float: right; color: #fff;">[7727]</div>
+                    </li>
+                </a>
+                <a href="/live/4887-kyuubicake">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">kyuubicake</div>
+                        <div style="float: right; color: #fff;">[58]</div>
+                    </li>
+                </a>
+                <a href="/live/2980-scyxs">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">ScYxs</div>
+                        <div style="float: right; color: #fff;">[13]</div>
+                    </li>
+                </a>
+                <a href="/live/227-the-all-mia-podcast">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">The All MIA Podcast</div>
+                        <div style="float: right; color: #fff;">[5]</div>
+                    </li>
+                </a>
+        </ul></div>
+        
+        <div><a href="javascript: toggleLivestreams();" style="color: #fff; line-height: 20px;">[Toggle Livestreams]</a></div>
+        
+        <div id="sidebarToggledStreams" style="display: none;">
+        <ul class="streamList">
+            
+                <a href="/live/4716-7g-salsoul">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">7G Salsoul</div>
+                        <div style="float: right; color: #fff;">[2]</div>
+                    </li>
+                </a>
+                <a href="/live/3827-absolutelegends-eu-method">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">Absolutelegends.eu Method </div>
+                        <div style="float: right; color: #fff;">[2]</div>
+                    </li>
+                </a>
+                <a href="/live/4470-azinee">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">Azinee</div>
+                        <div style="float: right; color: #fff;">[3]</div>
+                    </li>
+                </a>
+                <a href="/live/4006-ballinbeast">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">Ballinbeast</div>
+                        <div style="float: right; color: #fff;">[1]</div>
+                    </li>
+                </a>
+                <a href="/live/4685-bloodboiler">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Bloodboiler</div>
+                        <div style="float: right; color: #fff;">[7]</div>
+                    </li>
+                </a>
+                <a href="/live/3359-chillystarcraft">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">ChillyStarcraft</div>
+                        <div style="float: right; color: #fff;">[12]</div>
+                    </li>
+                </a>
+                <a href="/live/3321-claous">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Claous</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/317-competitive-online">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Competitive Online</div>
+                        <div style="float: right; color: #fff;">[420]</div>
+                    </li>
+                </a>
+                <a href="/live/2523-counter">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Counter</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/2686-dan-dinh">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Dan Dinh</div>
+                        <div style="float: right; color: #fff;">[649]</div>
+                    </li>
+                </a>
+                <a href="/live/5016-danteleet">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/fr.png" style="margin-right: 6px;" \="">Danteleet</div>
+                        <div style="float: right; color: #fff;">[5]</div>
+                    </li>
+                </a>
+                <a href="/live/4404-darhole">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Darhole</div>
+                        <div style="float: right; color: #fff;">[3]</div>
+                    </li>
+                </a>
+                <a href="/live/4831-demisess">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Demisess</div>
+                        <div style="float: right; color: #fff;">[5]</div>
+                    </li>
+                </a>
+                <a href="/live/5171-dvk-gaming">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">DvK gaming</div>
+                        <div style="float: right; color: #fff;">[1]</div>
+                    </li>
+                </a>
+                <a href="/live/1151-dyrus">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Dyrus</div>
+                        <div style="float: right; color: #fff;">[1109]</div>
+                    </li>
+                </a>
+                <a href="/live/944-eladis">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Eladis</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/5361-god-strafeous">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">God Strafeous</div>
+                        <div style="float: right; color: #fff;">[2]</div>
+                    </li>
+                </a>
+                <a href="/live/1062-gokain">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">GokaiN</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/3868-hadumbadum">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">hadumbadum</div>
+                        <div style="float: right; color: #fff;">[2]</div>
+                    </li>
+                </a>
+                <a href="/live/3975-high-elo-smurf-acct">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">high elo smurf acct</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/5086-highdef-simplemind">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">HighDef SimpleMind</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/2654-jestercraft">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">JesterCraft</div>
+                        <div style="float: right; color: #fff;">[15]</div>
+                    </li>
+                </a>
+                <a href="/live/3985-jungle-solo-lane-5s">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">Jungle/ Solo lane 5s </div>
+                        <div style="float: right; color: #fff;">[2]</div>
+                    </li>
+                </a>
+                <a href="/live/2744-kyo90037">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">kyo90037</div>
+                        <div style="float: right; color: #fff;">[18]</div>
+                    </li>
+                </a>
+                <a href="/live/1491-l0g1c4l">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/de.png" style="margin-right: 6px;" \="">l0g1c4l</div>
+                        <div style="float: right; color: #fff;">[20]</div>
+                    </li>
+                </a>
+                <a href="/live/3420-l3ird-gaming-and-commentating">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">l3ird Gaming and Commentating</div>
+                        <div style="float: right; color: #fff;">[4]</div>
+                    </li>
+                </a>
+                <a href="/live/4288-lassiz">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Lassiz</div>
+                        <div style="float: right; color: #fff;">[1]</div>
+                    </li>
+                </a>
+                <a href="/live/5185-lokin-hella-deep">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Lokin Hella Deep </div>
+                        <div style="float: right; color: #fff;">[2]</div>
+                    </li>
+                </a>
+                <a href="/live/5270-lol-fulgen">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/es.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">Lol Fulgen</div>
+                        <div style="float: right; color: #fff;">[4]</div>
+                    </li>
+                </a>
+                <a href="/live/5207-lolpt-tv-ruifr">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">LOLPT-TV - Ruifr</div>
+                        <div style="float: right; color: #fff;">[3]</div>
+                    </li>
+                </a>
+                <a href="/live/5325-lost-concept">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Lost Concept</div>
+                        <div style="float: right; color: #fff;">[1]</div>
+                    </li>
+                </a>
+                <a href="/live/3779-mintograde">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Mintograde</div>
+                        <div style="float: right; color: #fff;">[5]</div>
+                    </li>
+                </a>
+                <a href="/live/372-morecowbell-2">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">MoreCowbell 2</div>
+                        <div style="float: right; color: #fff;">[4]</div>
+                    </li>
+                </a>
+                <a href="/live/4173-mrquackers">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">MrQuackers</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/1683-n2pgaming-com-esuom">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">n2pGaming.com - esuom</div>
+                        <div style="float: right; color: #fff;">[1]</div>
+                    </li>
+                </a>
+                <a href="/live/4918-nekrys">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">Nekrys</div>
+                        <div style="float: right; color: #fff;">[2]</div>
+                    </li>
+                </a>
+                <a href="/live/4168-nvydia-eu-west">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">Nvydia EU - West</div>
+                        <div style="float: right; color: #fff;">[4]</div>
+                    </li>
+                </a>
+                <a href="/live/4693-oniruka">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Oniruka</div>
+                        <div style="float: right; color: #fff;">[1]</div>
+                    </li>
+                </a>
+                <a href="/live/1155-paragus-rants">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Paragus Rants</div>
+                        <div style="float: right; color: #fff;">[2]</div>
+                    </li>
+                </a>
+                <a href="/live/4188-phantoml0rd">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">PhantomL0rd</div>
+                        <div style="float: right; color: #fff;">[47]</div>
+                    </li>
+                </a>
+                <a href="/live/2105-q1imax">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Q1imax</div>
+                        <div style="float: right; color: #fff;">[19]</div>
+                    </li>
+                </a>
+                <a href="/live/750-ragegg">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">RageGG</div>
+                        <div style="float: right; color: #fff;">[470]</div>
+                    </li>
+                </a>
+                <a href="/live/5029-rasifors-spielewiese">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/de.png" style="margin-right: 6px;" \="">Rasifors Spielewiese</div>
+                        <div style="float: right; color: #fff;">[3]</div>
+                    </li>
+                </a>
+                <a href="/live/1147-reginaid">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">ReginaId</div>
+                        <div style="float: right; color: #fff;">[2557]</div>
+                    </li>
+                </a>
+                <a href="/live/5364-riblain">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">Riblain</div>
+                        <div style="float: right; color: #fff;">[1]</div>
+                    </li>
+                </a>
+                <a href="/live/5379-sacred123">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">Sacred123</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/2837-shadowpanda">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">shadowpanda</div>
+                        <div style="float: right; color: #fff;">[3]</div>
+                    </li>
+                </a>
+                <a href="/live/443-shuki-levy">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">Shuki Levy</div>
+                        <div style="float: right; color: #fff;">[2]</div>
+                    </li>
+                </a>
+                <a href="/live/853-sidewinder">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">sidewinder</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/2496-smileh">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">Smileh</div>
+                        <div style="float: right; color: #fff;">[23]</div>
+                    </li>
+                </a>
+                <a href="/live/101-solomid-3">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">SoloMid #3</div>
+                        <div style="float: right; color: #fff;">[203]</div>
+                    </li>
+                </a>
+                <a href="/live/3886-sooner">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Sooner</div>
+                        <div style="float: right; color: #fff;">[178]</div>
+                    </li>
+                </a>
+                <a href="/live/3881-tfb-chowder">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">TFB Chowder</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/2322-thaakillah">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">Thaakillah</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/5224-the-ohr">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">The Ohr</div>
+                        <div style="float: right; color: #fff;">[1]</div>
+                    </li>
+                </a>
+                <a href="/live/1601-the-rain-man">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">The Rain Man</div>
+                        <div style="float: right; color: #fff;">[498]</div>
+                    </li>
+                </a>
+                <a href="/live/4612-theoddone">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">TheOddOne</div>
+                        <div style="float: right; color: #fff;">[7128]</div>
+                    </li>
+                </a>
+                <a href="/live/3908-thepandara">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">ThePandara</div>
+                        <div style="float: right; color: #fff;">[2]</div>
+                    </li>
+                </a>
+                <a href="/live/5052-thevps">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">TheVps</div>
+                        <div style="float: right; color: #fff;">[4]</div>
+                    </li>
+                </a>
+                <a href="/live/4318-thyashes-ranked-scrims">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \=""><img src="/interface/img/isLivenew.png" style="margin-right: 6px;" title="Broadcasting just started." \="">thyAshes Ranked/Scrims</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/4106-tsarenir">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Tsarenir</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/2212-tuck-stream-of-goodness">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Tuck Stream of goodness</div>
+                        <div style="float: right; color: #fff;">[1]</div>
+                    </li>
+                </a>
+                <a href="/live/1980-umadbro">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">UMADBRO</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/3575-valenx-what-the-hell">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">Valenx What The Hell</div>
+                        <div style="float: right; color: #fff;">[38]</div>
+                    </li>
+                </a>
+                <a href="/live/2822-vynzdrix">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Vynzdrix</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/4908-w1nt3rmut3">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">W1nt3rmut3</div>
+                        <div style="float: right; color: #fff;">[0]</div>
+                    </li>
+                </a>
+                <a href="/live/3089-wewillfailer-nr1-troll-of-eu">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/eu.png" style="margin-right: 6px;" \="">wewillfailer nr1 troll of EU</div>
+                        <div style="float: right; color: #fff;">[27]</div>
+                    </li>
+                </a>
+                <a href="/live/3110-yah-buddy">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">Yah buddy</div>
+                        <div style="float: right; color: #fff;">[3]</div>
+                    </li>
+                </a>
+                <a href="/live/4728-yangfushang">
+                    <li>
+                        <div style="float: left;"><img src="/interface/img/us.png" style="margin-right: 6px;" \="">YangFuShang</div>
+                        <div style="float: right; color: #fff;">[99]</div>
+                    </li>
+                </a>
+        </ul>
+        </div>
+                </div>
+                <div style="background-color: #282828; border-top: 1px solid #555; padding: 8px; font-size: 11px; font-weight: bold;"><a href="/livestreams">View all Livestreams</a></div>
+            </div>
+            <div style="height: 250px; margin-top: 20px;">
+                <!--/* OpenX Javascript Tag v2.8.7 */-->
+                <!--/*
+                  * The backup image section of this tag has been generated for use on a
+                  * non-SSL page. If this tag is to be placed on an SSL page, change the
+                  *   'http://clgaming.net/clads/www/delivery/...'
+                  * to
+                  *   'https://clgaming.net/clads/www/delivery/...'
+                  *
+                  * This noscript section of this tag only shows image banners. There
+                  * is no width or height in these banners, so if you want these tags to
+                  * allocate space for the ad before it shows, you will need to add this
+                  * information to the <img> tag.
+                  *
+                  * If you do not want to deal with the intricities of the noscript
+                  * section, delete the tag (from <noscript>... to </noscript>). On
+                  * average, the noscript tag is called from less than 1% of internet
+                  * users.
+                  */-->
+                
+                <script type="text/javascript"><!--//<![CDATA[
+                   var m3_u = (location.protocol=='https:'?'https://clgaming.net/clads/www/delivery/ajs.php':'http://clgaming.net/clads/www/delivery/ajs.php');
+                   var m3_r = Math.floor(Math.random()*99999999999);
+                   if (!document.MAX_used) document.MAX_used = ',';
+                   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                   document.write ("?zoneid=4");
+                   document.write ('&amp;cb=' + m3_r);
+                   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+                   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+                   document.write ("&amp;loc=" + escape(window.location));
+                   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                   if (document.context) document.write ("&context=" + escape(document.context));
+                   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                   document.write ("'><\/scr"+"ipt>");
+                //]]>--></script><script type="text/javascript" src="https://clgaming.net/clads/www/delivery/ajs.php?zoneid=4&amp;cb=3729531750&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111202011542id_/http%253A//www.clgaming.net/privacy"></script><noscript><a href='http://clgaming.net/clads/www/delivery/ck.php?n=adf5d9b7&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://clgaming.net/clads/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adf5d9b7' border='0' alt='' /></a></noscript>
+            </div>
+
+            <div style="background-color: #3D3C3C; -moz-box-shadow: 0px 0px 10px #111; -webkit-box-shadow: 0px 0px 10px #111; padding: 6px 41px; margin-top: 20px; font-size: 11px;">
+                
+        <form name="poll" method="post" action="">
+        <div style="font-weight: bold; line-height: 20px;">Partial removal of RNG?</div>
+        
+                <div style="overflow: hidden; clear: both;">
+                    <div style="float: left; width: 80%; line-height: 18px;">Should stay as it is (283)</div>
+                    <div style="float: right; text-align: right; width: 20%; line-height: 18px;">43%</div>
+                </div>
+                <div style="width: 100%; height: 3px; background-color: #666; margin-bottom: 6px;">
+                    <div style="height: 3px; background-color: #FA7D19; width: 43%;"></div>
+                </div>
+                <div style="overflow: hidden; clear: both;">
+                    <div style="float: left; width: 80%; line-height: 18px;">Finally (262)</div>
+                    <div style="float: right; text-align: right; width: 20%; line-height: 18px;">40%</div>
+                </div>
+                <div style="width: 100%; height: 3px; background-color: #666; margin-bottom: 6px;">
+                    <div style="height: 3px; background-color: #FA7D19; width: 40%;"></div>
+                </div>
+                <div style="overflow: hidden; clear: both;">
+                    <div style="float: left; width: 80%; line-height: 18px;">Don't care (110)</div>
+                    <div style="float: right; text-align: right; width: 20%; line-height: 18px;">17%</div>
+                </div>
+                <div style="width: 100%; height: 3px; background-color: #666; margin-bottom: 6px;">
+                    <div style="height: 3px; background-color: #FA7D19; width: 17%;"></div>
+                </div>
+            <div style="overflow: hidden; clear: both;">
+                <div style="line-height: 20px; float: left;">655 Votes</div>
+                <div style="line-height: 20px; float: right;"><a href="/board/index.php?page=Thread&amp;threadID=4329">11 Comments</a></div>
+            </div>
+        </form>
+            </div>
+            
+        </div>
+            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <div class="layout-bot">
+                    <div class="copyright">
+                        <a href="/contact">Contact</a> | <a href="/privacy">Privacy</a> | <a href="/termsofuse">Terms and Conditions</a> | <a href="javascript: document.paypal.submit();" class="dir">Donate</a> | <a href="http://twitter.com/clgaming" class="dir">Twitter</a> | <a href="http://youtube.com/counterlogicgaming" class="dir">Youtube</a><br \="">
+                        <a href="http://clgaming.net/">© 2011 Counter Logic Gaming</a><br \="">
+                        
+                        
+                    </div>
+                </div>
+            <div style="display: none;" id="tooltip-data"></div>
+            <form name="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+            <input type="hidden" name="cmd" value="_donations">
+            <input type="hidden" name="business" value="TW2277CLT36JY">
+            <input type="hidden" name="lc" value="CA">
+            <input type="hidden" name="item_name" value="CLGaming">
+            <input type="hidden" name="currency_code" value="CAD">
+            <input type="hidden" name="bn" value="PP-DonationsBF:btn_donate_LG.gif:NonHosted">
+            </form><!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://clgaming.net/clads/www/delivery/...'
+  * to
+  *   'https://clgaming.net/clads/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://clgaming.net/clads/www/delivery/ajs.php':'http://clgaming.net/clads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=5");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://clgaming.net/clads/www/delivery/ajs.php?zoneid=5&amp;cb=47005455131&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111202011542id_/http%253A//www.clgaming.net/privacy"></script><noscript><a href='http://clgaming.net/clads/www/delivery/ck.php?n=a508c45d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://clgaming.net/clads/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a508c45d' border='0' alt='' /></a></noscript>
+
+            
+            <script type="text/javascript">
+                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+                </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+                <script type="text/javascript">
+                try {
+                var pageTracker = _gat._getTracker("UA-16221784-1");
+                pageTracker._trackPageview();
+                } catch(err) {}
+            </script>
+        
+
+        
+    </body></html>
