@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fitzvillafuerte.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523184655id_/http%3A//fitzvillafuerte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitzvillafuerte.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202082758id_/http%3A//fitzvillafuerte.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Sponsored Links:
 
 Your privacy is respected here in my site, [fitzvillafuerte.com](http://fitzvillafuerte.com/ "Ready To Be Rich"). Please read below the disclosures regarding information gathering and dissemination practices for this web site.
 
@@ -23,7 +25,7 @@ I use outside ad companies to display ads on my site. These ads may contain cook
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Affiliates**  
-I am also an affiliate for Paypal, dNeero Social Surveys, Amazon Associates and many other affiliate marketing companies. I do not have control over their privacy practices so I would advise that before you sign up for an account in these companies, please check their websites for their respective privacy statements.
+I am also an affiliate for Paypal, Amazon Associates and many other affiliate marketing companies. I do not have control over their privacy practices so I would advise that before you sign up for an account in these companies, please check their websites for their respective privacy statements.
 
 **Contact Information**  
 If users have any questions or suggestions regarding my privacy policy, please contact me by filling up the [contact form](http://fitzvillafuerte.com/contact "Contact Fitz").
