@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013115022id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.se privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203003647id_/http%3A//www.thelocal.se/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Local
 
@@ -29,110 +29,12 @@ You can delete all cookies on your computer via your web browser, as well as swi
 
 [](https://web.archive.org/followsweden/)
 
-## [New media spread Swedish film](https://web.archive.org/followsweden/article/New-media-and-film/)
+[](https://web.archive.org/followsweden/article/20-things-to-know-before-moving-to-Sweden/)
 
-To the average cinemagoer, the film industry is a far-away land, as full of fantasy and intrigue as the storylines of the big screen. But Swedish audiences are getting closer to creating a new world of movies with the might of new media. [Read more »](https://web.archive.org/followsweden/article/New-media-and-film/)
+## [20 things to know before moving to Sweden](https://web.archive.org/followsweden/article/20-things-to-know-before-moving-to-Sweden/)
 
-[](https://web.archive.org/followsweden/article/Swedish-film/)
+As diverse as Sweden is, there are a few societal norms that are distinctly Swedish. Understanding a handful of them will hopefully prepare you culturally before you relocate. When you're invited home to a Swede, you better be on time and take your shoes off, writes expat Lola Akinmade-Åkerström. [Read more »](https://web.archive.org/followsweden/article/20-things-to-know-before-moving-to-Sweden/)
 
-## [Swedish film](https://web.archive.org/followsweden/article/Swedish-film/)
+## [How far can English take you in Sweden?](https://web.archive.org/followsweden/article/How-far-can-English-take-you-in-Sweden/)
 
-Swedes are lining up in front of movie theaters to watch films from Sweden more than from any other country — partially a Millennium effect. But Swedish film cannot and indeed has no ambition to compete with Hollywood, despite one of our more interesting production facilities being dubbed "Trollywood," located in Trollhättan. [Read more »](https://web.archive.org/followsweden/article/Swedish-film/)
-
-Blog Update: 110% LAGOM
-
-[](http://www.thelocal.se/blogs/lagom/2010/10/06/tuesday-to-tuesday/)
-
-[06 October 12:20](http://www.thelocal.se/blogs/lagom/2010/10/06/tuesday-to-tuesday/)
-
-[Tuesday to Tuesday »](http://www.thelocal.se/blogs/lagom/2010/10/06/tuesday-to-tuesday/)
-
-"I'm not sure if the cinema is still standing because of its historical value or because nobody has yet got round to letting the people of Vingåker in on all the wonders of the 21st Century. " [READ »](http://www.thelocal.se/blogs/lagom/2010/10/06/tuesday-to-tuesday/)
-
-Highlights
-
-[](https://web.archive.org/29548/20101011/)
-
-[](https://web.archive.org/29488/20101007/)
-
-[](https://web.archive.org/29428/20101006/)
-
-[](https://web.archive.org/28882/20100924/)
-
-[](https://web.archive.org/followsweden/)
-
-Swedish word of the day
-
-besök
-
-noun
-
-The rainy autumn days are perfect for a **visit** to a museum.
-
-Latest news from The Local in Germany
-
-  * 13/10 [German media roundup: Stepping onto the world stage »](http://www.thelocal.de/politics/20101013-30459.html)
-  * 13/10 [Xenophobia takes root in German mainstream »](http://www.thelocal.de/national/20101013-30455.html)
-  * 13/10 [Poll shows Merkel's coalition at all-time low »](http://www.thelocal.de/politics/20101013-30451.html)
-  * 13/10 [Speak German on school grounds, FDP urges »](http://www.thelocal.de/national/20101013-30449.html)
-  * 13/10 [WWII weapons found under playground »](http://www.thelocal.de/society/20101013-30447.html)
-
-
-
-Blog
-
-[](https://bookshop.si.se/shop/shop/showItem.asp?artnr=1344-1&itemID=1)
-
-New book about Sweden – get to know the country
-
-_Sweden  – Up North, Down to Earth_ is a book about Sweden today. A country of natural beauty and open space, and a society focused on equality, human rights and sustainability. Meet regular and astonishing Swedes, supercars and indie rock bands, vampires and royalties. 
-
-[**Buy your copy of _Sweden  – Up North, Down to Earth_ from Sweden Bookshop**](https://bookshop.si.se/shop/shop/showItem.asp?artnr=1344-1&itemID=1)
-
-Essentials
-
-[**Jobs - in Sweden, in English**](https://web.archive.org/jobs/)  
-[Get your career on track with our job listings from Sweden's top employers.](https://web.archive.org/jobs/)
-
-[**Property - renting or buying in Sweden**](https://web.archive.org/guides/propertyguide/Property+in+Sweden/)  
-[Navigating the minefield of renting or buying an apartment or house in Sweden.](https://web.archive.org/guides/propertyguide/Property+in+Sweden/)
-
-[**Weather**](https://web.archive.org/weather/)  
-["There is no bad weather, just bad clothes," say the Swedes. Here's the forecast for everyone else.](https://web.archive.org/weather/)
-
-[**Introducing...**](https://web.archive.org/guides/introducing/introducing/)  
-[Every week The Local serves up a spicy helping of Swedish celebrity for your delectation.](https://web.archive.org/guides/introducing/introducing/)
-
-[**Stockholm Syndrome**](https://web.archive.org/special/stockholmsyndrome.php)  
-[Tales of crazy Swedish classes, hamfisted attempts to understand - and explain - real Swedes, and varied experiences of fellow foreigners gathered for your amusement.](https://web.archive.org/special/stockholmsyndrome.php)
-
-Register
-
-Register now for:  
-> Free use of noticeboard  
-> Special discounts  
-> Weekly news roundup  
-> Unlimited use of discuss
-
-[REGISTER FOR FREE »](https://web.archive.org/members/register.php)
-
-Jobs in Sweden, in English
-
-**476** jobs available  
-**109** new jobs this week  
-**12** new jobs today 
-
-  * [Category Manager to Services & Marketing Procurement](https://web.archive.org/jobs/?l=91425251&j=67224544&c=190)
-  * [Process Designer (m/f)](https://web.archive.org/jobs/?l=91423629&j=67223111&c=190)
-  * [Sales position to International event company](https://web.archive.org/jobs/?l=91423521&j=67223011&c=190)
-  * [Experienced Mechanical Designer (HWD2)](https://web.archive.org/jobs/?l=91421204&j=67220888&c=190)
-  * [Marketing Director Nordic](https://web.archive.org/jobs/?l=91269505&j=67098228&c=190)
-  * [Trading Risk Controller](https://web.archive.org/jobs/?l=91264840&j=67094560&c=190)
-  * [Sales Representative & Product Manager in Sweden](https://web.archive.org/jobs/?l=91088532&j=66961931&c=190)
-  * [Treasurer](https://web.archive.org/jobs/?l=90446736&j=66449075&c=190)
-  * [Business Controller](https://web.archive.org/jobs/?l=90446734&j=66449073&c=190)
-  * [Enterprise Technologist - SMB Storage Technology Solutions](https://web.archive.org/jobs/?l=90139716&j=66202554&c=190)
-
-
-
-[ALL JOBS »](https://web.archive.org/jobs/)
+Sweden is a country where almost everyone can speak English. So why bother to learn Swedish? Edina Varnagy from Hungary managed with English for a whole year but then found that Swedish could open doors – to a job, a social life and greater understanding. [Read more »](https://web.archive.org/followsweden/article/How-far-can-English-take-you-in-Sweden/)
