@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voscast.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620000901id_/http%3A//voscast.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voscast.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202011444id_/http%3A//www.voscast.com/terms) for the most accurate reproduction.*
 
 # VosCast - SHOUTcast Hosting
 
@@ -9,7 +9,7 @@ By registering, purchasing hosting, or using the site, you are agreeing to the f
 
  **a.** We reserve the full right to terminate your account at any time, with or without given notice. Your account WILL be terminated if you are found in violation of any of these terms. 
 
-**b.** If your account is terminated due to a violation of the Terms of Service, you will not be given a refund. If your account is terminated for some other reason, it is at our sole discretion if a refund will be given. 
+**b.** If your account is terminated due to a violation of the Terms of Service, a refund will not be provided. If your account is terminated for some other reason, it is at our sole discretion if a refund will be given. 
 
 **c.** In order to register on our site, you are required to have a valid unique email address. 
 
@@ -33,9 +33,11 @@ By registering, purchasing hosting, or using the site, you are agreeing to the f
 
 **b.** VosCast.com reserves the right to restrict, alter, or modify fees, benefits, rules, regulations, special offers, membership terms and conditions or terminate services at any time and without notice. 
 
+**c.** VosCast.com is not liable to store any statistical data regarding servers, such as listener information. 
+
 **5\. Unlimited Services**
 
- **a.** In the best interest of our subscribers, VosCast does not put an limit on the amount of listeners that may connect to the server, nor the amount of bandwidth a server uses. 
+ **a.** In the best interest of our subscribers, VosCast does not put an limit on the amount of listeners that may connect to the server, nor the amount of bandwidth a server may use. 
 
 **b.** With SHOUTcast servers, the software requires a maximum number of listeners to be set. By default, your SHOUTcast server will be installed with a limit of 1,000 listeners. If needed, this may be increased at any time by contacting VosCast customer support. 
 
@@ -61,7 +63,7 @@ By registering, purchasing hosting, or using the site, you are agreeing to the f
 
 **b.** We reserve the right to modify any of the information on the site at any given time. 
 
-**These terms of service were last modified on June 15, 2010.**
+**These terms of service were last modified on July 14, 2011.**
 
 **VosCast Privacy Policy**  
 We may be contacted at the following link: [http://voscast.com/support/](https://web.archive.org/support/)
