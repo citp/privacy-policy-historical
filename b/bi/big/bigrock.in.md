@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigrock.in privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501172536id_/http%3A//www.bigrock.in/support.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigrock.in privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202141408id_/http%3A//www.bigrock.in/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
