@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231020850id_/http%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202180332id_/http%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,9 @@ When you visit our website, our server will automatically record your IP address
 You have a right to ask us to provide you with the information we hold about you and to have any inaccuracies corrected. If you would like to do so, of you have any other queries about this policy, please write to 5 Dogleap Road, Limavady, Co. Londonderry, N.Ireland, BT49 9NN. We charge a £10 fee for this to cover our costs.  
 
 
-.
+**5 Credit Checks**
+
+To make sure you get the best deal, verify your identity and to protect their customers from fraud, insurers may use data from a variety of sources which may include a credit check to ascertain the most appropriate payment options for you. This credit check will appear on your credit report whether or not your applications proceed. 
 
   
 
