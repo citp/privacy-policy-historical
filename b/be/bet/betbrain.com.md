@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betbrain.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614234636id_/http%3A//www.betbrain.com/infos/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betbrain.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202225648id_/http%3A//www.betbrain.com/infos/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | BetBrain.com : Sports Betting Odds
 
@@ -10,7 +10,7 @@ We do not collect your personal information where you simply browse our website.
 
 ##  Storage of Personal Information 
 
-The data controller of our website is BetBrain Limited whose registered office is 35 Catherine Place, London SW1E 6DY, United Kingdom, company registration number 04240954, VAT number 805 1539 48. Our nominated data protection representative dealing with data protection issues is Alexandru Teodorescu, who can be contacted at the following email address [alexandru.teodorescu@betbrain.com](mailto:alexandru.teodorescu@betbrain.com). The personal data collected by us on you will be evaluated periodically to determine whether we should continue to hold it. You will be notified from time to time through our mailings of the continued use of your personal data and be given the opportunity to notify us if you do not wish to continue to receive mailings. We will not be exporting your data outside the European Union and will only be storing the information supplied by you together with details of the activities you have undertaken with us and mailings we have sent to you on your data file.
+The data controller of our website is BetBrain Limited whose registered office is 70 Clifton Street, 3rd floor, London EC2A 4HB, United Kingdom, company registration number 04240954, VAT number 805 1539 48. Our nominated data protection representative dealing with data protection issues is Alexandru Teodorescu, who can be contacted at the following email address [alexandru.teodorescu@betbrain.com](mailto:alexandru.teodorescu@betbrain.com). The personal data collected by us on you will be evaluated periodically to determine whether we should continue to hold it. You will be notified from time to time through our mailings of the continued use of your personal data and be given the opportunity to notify us if you do not wish to continue to receive mailings. We will not be exporting your data outside the European Union and will only be storing the information supplied by you together with details of the activities you have undertaken with us and mailings we have sent to you on your data file.
 
 ##  Our use of Personal Information 
 
