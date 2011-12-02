@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311020642id_/http%3A//cudo.com.au/sydney/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202180826id_/http%3A//cudo.com.au/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Cudo | Hot Daily Deals in Australia | Find the Best Deals Online
+# Privacy Policy
 
 At CUDO, we are committed to protecting and maintaining your privacy. As part of our normal operations we may collect your personal information. This Privacy Policy describes the type of personal information we may collect and how we use, store and disclose this personal information.
 
@@ -105,7 +105,7 @@ In striving to ensure that the security, integrity and privacy of personal infor
 
 Where it is lawful and practicable to do so, customers may transact with CUDO without providing personal information. However, if we do not collect personal information about you at (without limitation) the point of a sale, transaction, registration of interest, registration for offer we will not be able to contact you in the case of an change in offer, event cancellation, venue change, cease of offer for example.
 
-  **Non-customer information**
+**Non-customer information**
 
 Sometimes, CUDO needs to collect personal information about individuals who are not Account holders or customers. This will usually arise where we collect the name and business contact details of a person who is the contact in a government agency or company with whom we deal. CUDO's policy is to only use personal information collected from non-customers for the main business purpose for which it was collected.
 
@@ -123,10 +123,28 @@ Under the Privacy Act, you have the right to obtain access to any personal infor
 
 To make a request to access any personal information CUDO holds about you, please contact CUDO in writing as set out below. CUDO will require you to verify your identity and specify what personal information you require. CUDO may charge a fee to cover the cost of verifying your application and locating, retrieving, reviewing and copying any material requested. If the personal information sought is extensive, CUDO will advise of the likely cost in advance and can help to refine your request if required.
 
+**Spam**
+
+CUDO takes its obligations under the _Spam Act 2003_ (Cth) very seriously and has a no tolerance policy when it comes to the sending of unsolicited emails. 
+
+As part of our policy, CUDO ensures that:
+
+·        new subscribers give their consent to receive emails from us, including emails about our daily deals;
+
+·        we send new subscribers a welcome email, and that email contains an unsubscribe option;
+
+·        every group email we send to our customer base also contains an unsubscribe option.
+
+When we are notified by someone that they wish to unsubscribe, they are unsubscribed automatically and within 48 hours of the unsubscribe option being activated (if not sooner). 
+
+If anyone has any difficulty in unsubscribing from our emails via the automatic unsubscribe facility, we ask that they contact CUDO via the details below, and we will investigate the reason for why the unsubscribe facility may not have worked, and arrange for the user to be unsubscribed as a matter of urgency.
+
 **How to contact CUDO  
-**   
-If you would like to make an access request or wish to provide feedback about this policy, please contact CUDO by writing to Privacy Officer, Cudo.com.au Pty Ltd, PO Box 40, Pyrmont NSW 2009, or via e-mail privacyofficer@cudo.com.au  
-The Cudo website www.cudo.com.au is an online service owned and operated by Cudo.com.au Pty Ltd (ACN 145 598 894) of PO Box 40, Pyrmont NSW 2009 (‘CUDO’)
+**  
+If you would like to make an access request or wish to provide feedback about this policy, please contact CUDO by writing to Privacy Officer, Cudo.com.au Pty Ltd, PO Box 40, Pyrmont NSW 2009, via e-mail to privacyofficer@cudo.com.au.  
+
+
+The CUDO website www.cudo.com.au is an online service owned and operated by Cudo.com.au Pty Ltd (ACN 145 598 894) of PO Box 40, Pyrmont NSW 2009 (‘CUDO’)
 
 **Definitions**  
 The terms “Coupon”, “Merchant” and “Deal” are defined in the Terms & Conditions of Use.
