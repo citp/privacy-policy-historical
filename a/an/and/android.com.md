@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the android.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520185405id_/http%3A//www.android.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the android.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202084735id_/http%3A//www.android.com/privacy.html) for the most accurate reproduction.*
 
 # Android.com
 
