@@ -1,100 +1,91 @@
-> *The following text is extracted and transformed from the bettermedicine.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettermedicine.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202145831id_/http%3A//www.bettermedicine.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Better Medicine
 
-**Go Daddy Respects Your Privacy**
+Health Grades, Inc. (" **HealthGrades** ") has developed this privacy policy (the " **Privacy Policy** ") for the benefit of the users (" **Users** " or " **you** ") of its web site, namely, BETTERMEDICINE.COM, to demonstrate our serious commitment to protecting privacy on this Site. The following information summarizes HealthGrades' personal data gathering and distribution practices for [http://www.bettermedicine.com](http://www.bettermedicine.com/ "BetterMedicine") (the " **Site** "). HealthGrades reserves the right to change this Privacy Policy, or any other policy or practice, at any time. Your use, or continued use, of this Site will be conclusively deemed acceptance of this Privacy Policy and any changes or modifications to this Privacy Policy, respectively. Please see HealthGrades' [User Agreement](http://www.healthgrades.com/consumer/index.cfm?fuseaction=modNW&modtype=content&modact=useragreement_full "User Agreement") for more information on the Terms and Conditions governing the use of this Site.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+###  Why does HealthGrades need my personal information?
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+In order to provide our Users with a more personalized, relevant, and intelligent service, HealthGrades regularly makes improvements to this Site. The collection of personal data greatly assists HealthGrades in this improvement process by identifying the interests and needs of the many Users to this Site. Data collection also assists HealthGrades by allowing it and its affiliates to advertise its products and/or services in a more efficient manner.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Through the use of "cookies" (as described below) and on-line data entry, survey, product purchase and registration forms, HealthGrades may collect and/or monitor, in aggregate and individual form, personal identifying facts or data from our Users.  HealthGrades gathers most of this personal information during an initial voluntary User registration process. Accordingly, Users can determine to a large extent what information they wish to submit on a voluntary basis to HealthGrades.  HealthGrades occasionally asks Users for personal information at other times, including when Users complete optional survey forms or fill out optional contact forms for additional information on particular products and services.
 
-**Information Collection and Use**
+Although HealthGrades' primary goal in collecting personal information is to deliver a customized and personalized service to you, HealthGrades may also use the personal information it collects to (i) send Users e-mail notification of new features or information available through the Site or that HealthGrades otherwise feels might be of interest to Users of this Site and (ii) allow third party advertisers and retailers, and their affiliates, offering goods or services that HealthGrades thinks might be of interest to Users of this Site to deliver to you relevant information and offers. HealthGrades also collects IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes, and to report aggregate information to our advertisers and others.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+###  "Cookies"
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+"Cookies" are small pieces of information that are stored by your web browser software on your computer's hard drive or temporarily in your computer’s memory. The use of cookies is now an industry standard, and Users will find them on most major web sites.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+HealthGrades may place and store Internet cookies on a User's hard drive. Cookies can save any of the types of information noted above. Cookies enable HealthGrades to personalize the viewing experience of a User of this Site. When the User revisits this Site, HealthGrades can recognize the User by the cookie and customize the User's experience at this Site accordingly. For example, HealthGrades uses cookies to recognize User access privileges to this Site, track Site usage and traffic patterns, add advertisements for goods or services of interest based on the information submitted by, or inferred by the actions of, the User, and estimate this Site's audience size. HealthGrades also uses cookies to store User names and passwords that are supplied at registration. If HealthGrades utilizes cookies in connection with the collection of information for third parties, i.e., advertisers, the relevant advertiser(s) may receive electronic notification when a User views the advertisement.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+HealthGrades may use third party network advertisers to serve advertisements on the Site and may use a traffic measurement service to analyze traffic on the Site. Network advertisers are third parties that display advertisements based on your visits to the Site and other web sites you have visited, which advertisements might be based on information submitted by, or inferred by the actions of, you on the Site. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Site, the Site's third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser. These third party cookies are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party's specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Site, you may wish to visit <http://www.networkadvertising.org/optout_nonppii.asp>, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Although most web browsers are initially set up to accept cookies, if you prefer, a User may decline the placement of a cookie on his or her hard drive by using the appropriate feature(s) of one’s web browser software (if available) to delete the cookie. Users should understand, however, that certain areas within this Site may not function properly if the web browser will not accept cookies.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+###  What about external web sites?
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+To the extent hyperlinks are utilized to access third party sites, Users should be aware that these third party web sites are not controlled by HealthGrades and, therefore, are not subject to this Privacy Policy. Users should check the privacy policies of these individual sites to see how their personal information will be utilized by the proprietors of those third party web sites. In those cases where HealthGrades has entered into agreements with third parties, where pricing and other tools are made available to HealthGrades users, see "What about information I enter into third party programs included in HealthGrades' Site?," discussed below.
 
-**Security**
+###  What does HealthGrades do to keep this Site secure?
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+HealthGrades has implemented a number of security features throughout the Site designed to prevent the unauthorized release of or access to personal information. For example, HealthGrades grants access to any stored personal information HealthGrades may collect on its Users only to authorized personnel. Moreover, when a User registers on-line or accesses his or her account information through this Site, HealthGrades offers the User the ability to use a secure server. The secure server encrypts all information a User inputs before it is sent to HealthGrades.
 
-**Updating Your Information**
+Please be advised, however, that although HealthGrades has endeavored to create a secure and reliable Site for its Users, the confidentiality of any communication or material transmitted to/from HealthGrades via this Site or E-mail cannot be guaranteed. When disclosing any personal information, all Users should remain mindful of the fact that it is potentially accessible to the public, and consequently, can be collected and used by others without User consent. Accordingly, Users should consider carefully if they want to submit sensitive information that they would not want disclosed to the public and should recognize that their use of the Internet and this Site is solely at their own risk. Users, alone, are ultimately responsible for maintaining the secrecy of their personal information. HealthGrades has no responsibility or liability for the security of personal information transmitted via the Internet. HealthGrades urges all of its Users to be careful and responsible whenever they are on-line.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+###  Can I opt-out of HealthGrades' data collection and/or distribution?
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+As noted earlier, the collection, use, and distribution of personal data greatly assist HealthGrades in creating a more personalized, relevant, and intelligent service. Without the use of personal data, HealthGrades could not deliver its valuable content and services in the most beneficial way. Consequently, HealthGrades does ask for the submission of some personal data, although such submission is not required to use the Site.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Users of this Site have the ability to "opt-out" of having their data shared with third parties or otherwise used as described in this Privacy Policy by requesting removal of the User's personal data record from HealthGrades' database (as described below) or by clicking on the "opt-out" link in any e-mail sent to you by HealthGrades. However, as discussed above, registration and provision of personal information is voluntary.
 
-      iii.      You may call us at: (480) 505-8800
+###  Do I have the ability to access and correct my personal information?
 
-       iv.      You may fax us at: (480) 505-8844
+  * At any time, a User may contact HealthGrades via e-mail to request:
+  * A summary of any personal information retained by HealthGrades on such User,
+  * A change to the User's personal data record maintained by HealthGrades, or
+  * Removal of the User's personal data record from HealthGrades' database
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Users may send their requests to the following e-mail address, [info@healthgrades.com](mailto:info@healthgrades.com). In the event HealthGrades receives such a request, HealthGrades may require the User to confirm or verify any change to the User's personal record.
 
-**Compliance with Laws and Law Enforcement**
+###  What about the collection of personal information from children?
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+This Site is not primarily intended for individuals under the age of eighteen (18) (" **children** "). Accordingly, HealthGrades will not knowingly collect or post information from children without parental or guardian consent. Moreover, HealthGrades will not knowingly collect or use any personal data collected from children for any purpose whatsoever, including disclosure to any third party.
 
-**Third Party Service Providers**
+###  Does HealthGrades disclose personal information to third parties?
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+HealthGrades may share your personal information: (i) with third parties who have agreements with us, including marketers, advertisers and other health service providers, (ii) if HealthGrades is required by law to do so, (iii) in the event of a transfer of ownership of HealthGrades, merger or other similar transaction, or (iv) as otherwise set forth in this Privacy Policy, including as set forth below. Note, however, that HealthGrades is not and cannot be responsible for the activities or privacy policies of any third parties.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * **1.**   With respect to obtaining certain products and/or services from this Site, HealthGrades may disclose to a third party certain registration information you have provided to HealthGrades (" **Registration Information** ") so that you do not have to enter your Registration Information more than once. HealthGrades may also disclose your Registration Information to certain third parties in connection with Third Party Programs as described below.
+  * **2.**   We may provide your Registration Information to our marketing partners with whom you have explicitly authorized us to share your information, and whose offers you have elected to receive via electronic delivery, telemarketing and direct mail.  Additionally, we may employ other third parties to perform services or functions on our behalf in order to improve our Site, merchandising, marketing and promotional efforts, communications or other services, or to facilitate e-commerce transactions, including processing orders placed by credit card. Those third parties may include authorized contractors, consultants and other companies working with us (collectively, " **agents** "). They only have access to your information as needed to perform their functions, and they may not use any of your information for any other purpose than providing or improving HealthGrades' services and offerings.
+  * **3.**   HealthGrades may be obligated to cooperate with various law enforcement inquiries. HealthGrades reserves the right to share or transfer your Registration Information or other information to comply with a legal requirement, disclose any activities or information about you to law enforcement or other government officials as we, in our sole discretion, determine necessary or appropriate, in connection with an investigation of fraud, for the administration of justice, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability.
+  * **4.**   HealthGrades discloses personal information in aggregate form to third parties or advertisers, in a manner by which you will not be personally identifiable. For example, HealthGrades might tell an advertiser how many males between 20 and 30 years in age have visited the site over a period of time.
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
+### How do I distinguish between Advertisements and Editorial Content?
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+HealthGrades knows that it is important that you are able to easily differentiate between advertising and independent, editorial content on the Site; thus, HealthGrades has developed an Advertising Policy that explains HealthGrades' approach to ensure that the advertising you see on the Site has no influence on the quality, accuracy or selection of editorial content that HealthGrades provides.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+HealthGrades clearly identifies all advertising on the Site. When HealthGrades speaks of "advertising" or "advertisements," it refers to all forms of advertising, sponsorships and promotions for which HealthGrades receives compensation.
 
-**Tell-A-Friend**
+HealthGrades has established guidelines on how it labels advertising so that you will know what is an advertisement and what is editorial content. HealthGrades uses clear and consistent language and visual cues to distinguish advertising from editorial content. You will see the following descriptors on the Site for different types of advertising:
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+Advertisement. The word "Advertisement”" is used to label the most common form of advertising on the Site. The content of the banner or similar advertisement itself is controlled by the advertiser. Ads are labeled with the word “Advertisement” adjacent to the advertisement.
 
-**What Happens to my Personal Information if I Opt Out?**
+If you click on an advertisement, it will usually link to a website that is operated by the advertiser. As noted above, HealthGrades has no control over the advertiser’s website or the policies on that site. You should familiarize yourself with the terms of use, privacy policies, and other policies applicable to those sites before using them.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+The fact that an advertisement appears on a page has no bearing or influence on the editorial content on the page outside of the labeled advertisement itself. Other content on the page is under HealthGrades’ editorial control.
 
-**Transfer of Data Abroad**
+Provided By or Sponsored By. “Provided by” or “Sponsored by” are used to identify content that is created or influenced by an advertiser. HealthGrades identifies advertiser-influenced content as “Provided by” or “Sponsored by” type advertising so that you can distinguish such content from editorially independent content for which HealthGrades has sole editorial control. You can recognize advertiser-influenced content on the Site by use of the “Provided by” or “Sponsored by” label and the name of the advertiser, which will appear in the sponsored content.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+###  What about information I enter into third party programs included in HealthGrades' Site?
 
-**Changes in Our Practices**
+As an additional service to its users, HealthGrades has included in its Site various programs and tools created and administered by third parties (" **Third Party Programs** ") whereby, as examples, you can schedule doctor or hospital appointments, receive useful items such as information concerning potential diseases/conditions, information about drug alternatives, and tools whereby you can maintain records relating to your condition. Your use of these Third Party Programs is entirely optional and at your sole discretion. However, if you choose to use them, some or all of these Third Party Programs may require that you provide certain personal information such as your age, current health condition, insurance provider, medical history, prescription history or other health and lifestyle data (collectively, " **Private Information** "). If you elect to use one or more of these Third Party Programs, then any Private Information you provide as part of the Third Party Program, as well as your Registration Information, will be available to the third party administering that Third Party Program. By using any Third Party Program, you acknowledge that any Private Information and Registration Information you provide to the third party does not constitute a violation of HealthGrades' Privacy Policy. HealthGrades will maintain the privacy of your Private Information in HealthGrades' possession in accordance with the Health Insurance Portability and Accountability Act (" **HIPAA** ") Privacy Rule (to the extent it is applicable) and applicable state and federal privacy laws.  HealthGrades cannot guarantee that any third party will maintain the privacy of Private Information, even if the third party has promised to comply with the HIPAA Privacy Rule.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+###  Further Questions?
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+HealthGrades welcomes questions or comments Users may have regarding this Privacy Policy or the use of your personal data. Please send any questions or comments to HealthGrades at the following e-mail address, [info@healthgrades.com](mailto:info@healthgrades.com).
 
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Date Last Updated: July 15, 2011
