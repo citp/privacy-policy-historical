@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2011-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110302062902id_/http%3A//www.kogan.com.au/media/uploads/kogan-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202235252id_/http%3A//c727962.r62.cf2.rackcdn.com/uploads/kogan-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Kogan Privacy Policy
 
                                  Kogan Privacy Policy
 Introduction
-Kogan Technologies Pty Ltd and any of its subsidiaries from time to time (“Kogan”) is
+Kogan Australia Pty Ltd and its related bodies corporate from time to time (“Kogan”) is
 committed to protecting your privacy and respects and upholds your rights under the
 National Privacy Principles contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using
 this website, you agree to and consent to the collection, use and disclosure of personal
