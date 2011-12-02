@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the firstcry.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309073017id_/http%3A//www.firstcry.com/sppolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcry.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202083650id_/http%3A//www.firstcry.com/sppolicy.aspx) for the most accurate reproduction.*
 
-# WWW.FIRSTCRY.COM: Privacy Policy
+# Untitled Page
 
 This Privacy Policy relates solely to the information collection and use practices of our web site located at http://www.firstcry.com (this "Website"). We recognize that many visitors and users of this Website are concerned about the information they provide to us, and how we treat that information. This Privacy Policy, which may be updated from time to time, has been developed to address those concerns. 
 
@@ -47,3 +47,9 @@ This Privacy Policy only addresses the use and disclosure of information we coll
 **Children.** Minors under the age of 18 are not supposed to use the Website. We do not collect or maintain information from anyone known to be under the age of 18, and no part of the Website is designed to attract anyone under the age of 18. If you are under 18 and still want to buy an product, you may use FirstCry only with the involvement of a parent or guardian. 
 
 **Public Areas.** We may provide areas on our Website where you can publicly post information about yourself, can communicate with others, or can review products. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. 
+
+**10\. OPT-OUT of further usage of PERSONAL INFORMATION**  
+If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any PII that we have collected about you, please e-mail your request to [customercare@firstcry.com](mailto:customercare@firstcry.com). 
+
+**11\. OPT-OUT of NPII advertising**  
+If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click <http://www.networkadvertising.org/managing/opt_out.asp>. You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by clicking <http://www.networkadvertising.org/>
