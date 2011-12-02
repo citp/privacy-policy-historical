@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fratmusic.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315200955id_/http%3A//fratmusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fratmusic.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202204451id_/http%3A//fratmusic.com/privacy) for the most accurate reproduction.*
 
-# FratMusic.com | Party Music Internet Radio
+# Fratmusic.com | Party Music Internet Radio
 
-## Last Revised February 9, 2011 
-
-The following Privacy Policy summarizes the various ways that Madd McKenna Ventures, LLC ("Fratmusic", "we" or "our") collects information, and what we do with the information you provide while using www.fratmusic.com ("Website"). Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://www.fratmusic.com/pages/privacy/ Your use of the Website and/or registration with Fratmusic will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. In addition to reviewing this Privacy Policy, please read the http://www.fratmusic.com/pages/terms/. This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
+The following Privacy Policy summarizes the various ways that ("Fratmusic", "we" or "our") collects information, and what we do with the information you provide while using www.fratmusic.com ("Website"). Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://www.fratmusic.com/pages/privacy/ Your use of the Website and/or registration with Fratmusic will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. In addition to reviewing this Privacy Policy, please read the http://www.fratmusic.com/pages/terms/. This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
 ## Children 
 
@@ -29,5 +27,3 @@ Because no data transmission over the Internet is completely secure, and no syst
 ## Contact 
 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact us at the following e-mail address: contact@fratmusic.com 
-
-## updated February 9, 2011
