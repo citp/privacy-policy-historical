@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-company-profile.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604164254id_/http%3A//www.my-company-profile.com/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-company-profile.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203005515id_/http%3A//www.my-company-profile.com/p/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy , Submit Company Profile Free
 
