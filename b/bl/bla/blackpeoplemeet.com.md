@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackpeoplemeet.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630233533id_/http%3A//www.blackpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackpeoplemeet.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202115324id_/http%3A//www.blackpeoplemeet.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # BlackPeopleMeet.com - Privacy Policy
 
