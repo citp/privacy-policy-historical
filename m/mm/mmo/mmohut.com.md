@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmohut.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125214319id_/http%3A//mmohut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmohut.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202180118id_/http%3A//mmohuts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MMO Hut
 
