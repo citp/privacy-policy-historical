@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musixmatch.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522173035id_/http%3A//musixmatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musixmatch.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203000741id_/http%3A//musixmatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ For the purpose of the Legislative Decree of 30 June 2003 No. 196 (the Code conc
 
 **_2\. Information we may collect from you._**
 
-Subject to receiving your prior consent, we may collect and process the following data about you:
+We may collect and process the following data about you:
 
 a) Information that you provide by filling in forms on our site www.musiXmatch.com (our site). This includes information provided at the time of registering to use our site, subscribing to our services, posting material or requesting further services. We may also ask you for information when you report a problem with our site.
 
@@ -92,4 +92,4 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 We will not process any personal data without your prior consent to be given by checking a box on the www.musiXmatch.com website.  In the absence of such consent you will not be able to register as a user of the services on the website.
 
-_This Privacy Policy is effective by May 2010 and was last updated December 29, 2010_
+_This Privacy Policy is effective by May 2010 and was last updated July 17, 2011_
