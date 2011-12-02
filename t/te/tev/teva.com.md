@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teva.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303214827id_/http%3A//www.teva.com/customerservice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teva.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202183414id_/http%3A//www.teva.com/customerservice/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policies – Sandals & Shoes by Teva – Buy Award Winning Sport Sandals Women’s Sandals Leather Sandals Men’s Flip Flops Water Shoes Casual Shoes Trail Running Shoes Hats & more
+# Privacy Policies – Sandals & Shoes by Teva – Buy Award Winning Sport Sandals Women’’s Sandals Leather Sandals Men’’s Flip Flops Water Shoes Casual Shoes Trail Running Shoes Hats & more
 
 Customer Service: 1-800-367-8382
 
@@ -71,8 +71,8 @@ Deckers does not sell products for purchase by children. We sell children’s pr
 
 ## Ethical Supply Chain Guidelines
 
-Deckers respects internationally recognized human rights and environmental standards and places them at the core of our business practices. While we do not own or operate the factories that make our products, we apply a rigorous code of conduct, the Ethical Supply Chain Guidelines, and work with the factories we use to improve their performance over time.[ Find out more](http://www.deckers.com/about/CorporateSocialResponsibility.aspx)
+Deckers respects internationally recognized human rights and environmental standards and places them at the core of our business practices. While we do not own or operate the factories that make our products, we apply a rigorous code of conduct, the Ethical Supply Chain Guidelines, and work with the factories we use to improve their performance over time.[ Find out more](http://www.deckers.com/our-company/csr-ceo-statement.php)
 
 ## Restricted Substances Policy
 
-Deckers is committed to assuring that all of the materials used in its products are safe for workers, consumers and the environment alike. Deckers has established a Restricted Substances Policy that mandates compliance with all international directives, laws and regulations that restrict the type and concentration of potentially hazardous substances. Consistent with our company values, the Restricted Substances Policy goes beyond mandated restrictions and includes some substances such as PVC that are not restricted by law, but that are a cause of concern for many consumers and some Non–Governmental Organizations (NGOs).[ Click here for more information.](http://www.deckers.com/about/CorporateSocialResponsibility.aspx)
+Deckers is committed to assuring that all of the materials used in its products are safe for workers, consumers and the environment alike. Deckers has established a Restricted Substances Policy that mandates compliance with all international directives, laws and regulations that restrict the type and concentration of potentially hazardous substances. Consistent with our company values, the Restricted Substances Policy goes beyond mandated restrictions and includes some substances such as PVC that are not restricted by law, but that are a cause of concern for many consumers and some Non–Governmental Organizations (NGOs).[ Click here for more information.](http://www.deckers.com/our-company/csr-ceo-statement.php)
