@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501094724id_/http%3A//my.monster.com/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202052123id_/http%3A//my.monster.com/privacy/default.aspx) for the most accurate reproduction.*
 
 # Find Jobs: Find your next job and advance your career today | Monster.com
 
@@ -10,7 +10,7 @@ We collect the [personal](https://web.archive.org/privacy/fullstatement.aspx#2) 
 
 Information you post in public areas of the site or placed in the searchable Resume database will be accessed, used, and stored by others around the world. We strive to provide a safe, secure environment by attempting to limit access to our database to legitimate users, but cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized users store or transfer information downloaded from the database, so you should ensure that you do not post sensitive information to Monster.
 
-We use the information we collect about you to deliver the products and services we offer, and to operate and improve our sites. Our services may include the display of personalized content and advertising. We may use your information to contact you about Monster site updates, conduct surveys, or informational and service-related communications, including important security updates.
+We use the information we collect about you to deliver the products and services we offer, and to operate and improve our sites. Our services include the display of personalized content and advertising on our site or other sites with which we have a business relationship. We may use your information to contact you about Monster site updates, conduct surveys, or informational and service-related communications, including important security updates.
 
 ## Disclosure of Information to Others
 
