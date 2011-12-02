@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603214812id_/http%3A//www.vapornation.com/store/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202102141id_/http%3A//www.vapornation.com/store/privacy.php) for the most accurate reproduction.*
 
-# Vaporizer & Accessories Sale | Portable Vaporizers | Digital Hands Free Vaporizor | Volcano Reviews
+# Vaporizer | Vaporizers | Best Vaporizer | Portable Vaporizers | iolite
 
 At VaporNation.com, your privacy is a **TOP** priority. We want our users to be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
