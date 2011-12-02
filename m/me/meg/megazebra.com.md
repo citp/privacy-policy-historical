@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the megazebra.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618072411id_/http%3A//www.megazebra.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megazebra.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202123308id_/http%3A//www.megazebra.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - MegaZebra - Social Games
+# Privacy Policy - MegaZebra
 
-(Last Updated March 11, 2010)
+October 14th, 2011
 
 Welcome to MegaZebra, a personal online service operated by MegaZebra GmbH. ("MegaZebra") which consists of, among other things, software that you have downloaded or are about to download, any software that you have embedded on a web site or are about to embed (“MegaZebra Games”), any applications created by MegaZebra and available through social networking sites (“SNS Apps”), any software running on MegaZebra's servers, (“MegaZebra Software”), content, related documentation, information on the MegaZebra domain, and information made available by users to each other through the MegaZebra Software (collectively, the “Service”). Your privacy is important to us and, as described in this Privacy Policy, we have designed the Service to protect information about you from unauthorized disclosure to others. This Privacy Policy explains how we collect, use and, in certain circumstances, share your personally identifying information. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us.
 
