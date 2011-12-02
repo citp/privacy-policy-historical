@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mad.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503190542id_/http%3A//mad.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mad.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202175818id_/http%3A//www.mad.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
