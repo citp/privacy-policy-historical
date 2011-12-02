@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the banks.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507231914id_/http%3A//www.banks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banks.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202033544id_/http%3A//www.banks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mortgage Rates, Refinance Rates, and CD Rates
+# Privacy Policy | Banks.com
 
 Banks.com, Inc., the owner and operator of Banks.Com, has created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy describes our practices regarding the collection and use of information submitted through our U.S. website, Banks.com (the “Site”). By using our Site, you agree to the collection and use of information as set forth in this Policy. If you do not agree to this Policy, please do not use the Site. This Policy is the sole authorized statement of our practices concerning the collection, use and protection of personal information obtained through this Site.
 
