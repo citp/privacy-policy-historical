@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the datacenterknowledge.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604192209id_/http%3A//www.datacenterknowledge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacenterknowledge.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202222634id_/http%3A//www.datacenterknowledge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Data Center Knowledge
+# Privacy Policy » Data Center Knowledge
 
-  * ## [Privacy Policy](http://www.datacenterknowledge.com/privacy-policy/ "Privacy Policy")
-
-_November 12th, 2008 : Rich Miller_
+  * _November 12th, 2008 : Rich Miller_
 
 **Privacy Policy and Terms of Service**
 
