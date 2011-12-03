@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevenspass.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315145619id_/http%3A//www.stevenspass.com/Stevens/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevenspass.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203034457id_/http%3A//www.stevenspass.com/Stevens/info/privacy.aspx) for the most accurate reproduction.*
 
 # Stevens Pass | Privacy Policy
 
