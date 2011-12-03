@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alawar.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525031832id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alawar.com privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203160527id_/http%3A//www.alawar.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Alawar Online Privacy Policy | Alawar Entertainment</title>
@@ -17,11 +17,18 @@
 	<link rel="alternate" type="application/rss+xml" title="Hidden Object" href="http://www.alawar.com/export/rss_xml/hidden-object.xml">
 	<link rel="alternate" type="application/rss+xml" title="Match 3" href="http://www.alawar.com/export/rss_xml/match-3.xml">
 	<link href="/bitrix/templates/alawar6-en-promo/styles.css?1243485808" type="text/css" rel="stylesheet">
-<link href="/bitrix/templates/alawar6-en-promo/template_styles.css?1296454516" type="text/css" rel="stylesheet">
+<link href="/bitrix/templates/alawar6-en-promo/template_styles.css?1318582276" type="text/css" rel="stylesheet">
+<script src="/bitrix/js/jQuery/jquery-1.2.6.min.js"></script>
+<script src="/bitrix/templates/alawar6-en-promo/js.js"></script>
+<script src="/bitrix/templates/alawar6-en-promo/bottom_banner_lib.js"></script>
+<script src="/bitrix/templates/alawar6-en-promo/js/user-info.js"></script>
+<script src="/bitrix/js/jQuery/jquery.cookie.js"></script>
+<script src="/bitrix/templates/alawar6-en-promo/iepngfix_tilebg.js"></script>
+<script src="/bitrix/templates/alawar6-en-promo/js/swfObject.js"></script>
+<script src=""></script>
 	<script type="text/javascript">
-		document.write('\<script type="text/javascript" src="/bitrix/templates/alawar6-en-promo/skin.js?lang=en&code=&rand=' + Math.round( Math.random() * 10000 ) + '"\>\</script\>');
-	</script><script type="text/javascript" src="/bitrix/templates/alawar6-en-promo/skin.js?lang=en&amp;code=&amp;rand=9875"></script>
-<script src="/assets/static/1305870114/a6.js"></script>
+		document.write('\<script type="text/javascript" src="http://en.skin.partner.services.alawar.com/skin.js?lang=en&code=&skinHit=' + getCookie( 'ALAWAR_SKIN_HIT' ) + '&skinHash=' + getCookie( 'ALAWAR_SKIN_HASH' ) + '&rand=' + Math.round( Math.random() * 10000 ) + '"\>\</script\>');
+	</script><script type="text/javascript" src="http://en.skin.partner.services.alawar.com/skin.js?lang=en&amp;code=&amp;skinHit=null&amp;skinHash=null&amp;rand=3584"></script>
 	<!--[if ie 6]>
 	<style>
 		.index-body-background{height: 880px;}
@@ -43,8 +50,40 @@
 		SetPartnerIdForUser(1660);
 	</script>
 
+
+
+<meta name="application-name" content="Alawar.com">
+<meta name="msapplication-navbutton-color" content="#3480C0">
+<meta name="msapplication-tooltip" content="Play Free Online Games, Free Game Downloads and more...">
+
+<meta name="msapplication-task" content="name=Featured games; action-uri=http://www.alawar.com/; icon-uri=/favicon.ico">
+<meta name="msapplication-task" content="name=New Games; action-uri=http://www.alawar.com/new-games/; icon-uri=/favicon.ico">
+<meta name="msapplication-task" content="name=Top 50; action-uri=http://www.alawar.com/top50/; icon-uri=/favicon.ico">
+<meta name="msapplication-task" content="name=Online Games; action-uri=http://www.alawar.com/online/; icon-uri=/favicon.ico">
+
+
+<script>
+$(document).ready(function(){
+    try {
+    
+        if (window.external.msIsSiteMode()) {
+            window.external.msSiteModeClearJumpList();
+            window.external.msSiteModeCreateJumpList('Genres');
+                $(".genre .buttons,.ac_genre .content01 a").each(function(k, v){
+                    var title = unescape($(this).text());
+                    var href = 'http://www.alawar.com'+$(this).attr('href');
+	            var code = $(this).attr('href').replace('catalog','').replace(/\//g,'');
+	            window.external.msSiteModeAddJumpListItem(title, href, "http://www.alawar.com/bitrix/templates/alawar6-en-promo/images/mspinned/en/"+code+".ico", "self");
+                });
+        }
+    } catch (ex) {}
+});
+</script>
+																													    
+
 </head>
 <body>
+
 
 
 <div class="top-promo-bg">
@@ -80,6 +119,7 @@
 <option value="http://alawar.com.br/?rd=1">Brazilian - Português</option>
 <option value="http://www.alawar.fr/?rd=1">Canadian - Français</option>
 <option value="http://www.alawar.cn/?rd=1">Chinese - 中文</option>
+<option value="http://www.alawar.com.hr/?rd=1">Croatian - Hrvatski</option>
 <option value="http://www.alawarhry.cz/?rd=1">Czech - Česky</option>
 <option value="http://www.alawar.nl/?rd=1">Dutch - Nederlands</option>
 <option value="http://www.alawar.com/?rd=1" selected="selected">English - English</option>
@@ -93,13 +133,17 @@
 <option value="http://www.alawar.jp/?rd=1">Japanese - 日本語</option>
 <option value="http://www.alawar.kr/?rd=1">Korean - 한국어</option>
 <option value="http://www.alawar.md/?rd=1">Moldovan - Română</option>
+<option value="http://www.alawar.mn/?rd=1">Mongolian - Монгол</option>
 <option value="http://www.alawar.pl/?rd=1">Polish - Polski</option>
 <option value="http://alawar.com.pt/?rd=1">Portuguese - Português</option>
 <option value="http://www.alawar.ro/?rd=1">Romanian - Română</option>
 <option value="http://www.alawar.ru/?rd=1">Russian - Русский</option>
+<option value="http://www.alawar.rs/?rd=1">Serbian - Српски</option>
+<option value="http://www.alawar.si/?rd=1">Slovene - Slovenščina</option>
 <option value="http://www.alawar.es/?rd=1">Spanish - Español</option>
 <option value="http://www.alawar.se/?rd=1">Swedish - Svenska</option>
 <option value="http://www.alawar.com.tr/?rd=1">Turkish - Türkçe</option>
+<option value="http://www.alawar.ua/?rd=1">Ukrainian - Українською</option>
 			</select>
 		</form>
 	</div>
@@ -110,9 +154,28 @@
 
 	<div id="auto" class="div-index-banner"></div>
 	<script type="text/javascript">
+	
+		function skinCorrector( result )
+		{
+			if ( !result )
+			{
+				$('.skin-top-fixer').css('margin-top', '-15px');
+			}
+			else
+			{
+				$('.skin-top-fixer').css('margin-top', '-60px');
+				$('.top_panel').css({
+						    'background': 'url(/bitrix/templates/alawar6/images/toppanel/top_panel_skin.png) no-repeat center top',
+						    'margin-bottom': '0px'
+						    });
+			}
+																										}
+																											
+																											
 		if ( function_exists('writeSkinSwfObject') )
 		{
-			writeSkinSwfObject();
+//			writeSkinSwfObject();
+			writeSkinSwfObject( 'top-promo-skin', skinCorrector );
 		}
 	</script>
 
@@ -190,7 +253,15 @@
 		<div><img src="/bitrix/templates/alawar6-en-promo/images/block_b_03.gif" width="210" height="15"></div>
 	</div>
 	
-<a name="vote">&nbsp;</a>	
+<a name="vote">&nbsp;</a>
+<div class="unlimited_block">
+	<p>
+	Why limit yourself to a few hours with a few games?
+    </p>
+	<div class="unlimited_button"><form action="/unlimited.php"><input type="hidden" name="rd" value="1"><input type="submit" value="Read now" style="width: 65px;" class="input_back" name="sign"></form></div>
+</div>
+
+	
 		<div class="block01">
 	<div><img src="/bitrix/templates/alawar6/images/block_b_01.gif" width="210" height="15"></div>
 	<div class="content02">
@@ -429,7 +500,11 @@ Please note that if you provide Alawar with inconsistent privacy preferences (fo
 		<td><a href="http://company.alawar.com/">Company overview, Philosophy, Addresses...</a><br>
 		<a href="http://company.alawar.com/activity/">For Game Developers...</a><br>
 		<a href="http://affiliate.alawar.com">Affiliate Program</a><br>
-		<a href="/support.php">Technical Support</a></td>
+		<a href="/support.php">Technical Support</a><br>
+		<a href="http://mac.alawar.com/">Alawar Games for Mac</a><br>
+		<a href="http://iphone.alawar.com/">Alawar Games for iPhone/iPad </a>
+		</td>
+
 		</tr>
 	</tbody></table>
 
@@ -452,6 +527,7 @@ pageTracker._trackPageview();
 pageTracker._trackPageview("/info_stat/partners/pid:" + (onloadTrackerPID == null ? 'none' : onloadTrackerPID) );
 </script>
 </div></div><!-- div-body-index /div-->
+<div id="page-bottom" style="clear:both"></div>
 
 
 </body></html>
