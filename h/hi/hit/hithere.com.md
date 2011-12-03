@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hithere.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611001751id_/http%3A//www.hithere.com/about/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hithere.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203104252id_/http%3A//www.hithere.com/about/policy.php) for the most accurate reproduction.*
 
 # Privacy policy | HiThere - World Leading Webgame Developer and Operator
 
