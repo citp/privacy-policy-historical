@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ppcgeeks.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604172526id_/http%3A//www.ppcgeeks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcgeeks.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203013740id_/http%3A//www.ppcgeeks.com/privacy-policy) for the most accurate reproduction.*
 
 # PPCGeeks.com » Privacy Policy
 
 Posted on Monday October, 4 2010
 
-PPCGEEKS DOT COM PRIVACY POLICY
+INFITECH INC / PPCGEEKS DOT COM PRIVACY POLICY
 
 **What Do We Gather?**
 
 We gather information from you when you register on the site, send in a contact form, send us an email, or use any other services directly affiliated with our site (Such as donating or entering a contest) you may be asked to provide your name, email address, address, or phone number. However, browsing our site alone does not require you to input such information (though trying to download some content may require registration.) You may, as always, view our site anonymous and not leave any trace to your visit through an anonymity service.
 
-Third Party Vendors, including MobiHand (Our Store Affiliate), Google, Netshelter, Vibrant Media, and other affiliates use cookies to serve ads on our site. If you want to opt out from the Google DART cookie system that is used here, please [click here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). You will need to contact us for information on privacy policy opt-out for our other media companies. Contact information is listed at the end of this page.
+Third Party Vendors, including MobiHand (Our Store Affiliate), Google, Netshelter, Vibrant Media, and other affiliates (including those part of Adchoices) use cookies to serve ads on our site. If you want to opt out from the Google DART cookie system that is used here, please [click here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html"). You will need to contact us for information on privacy policy opt-out for our other media companies. Contact information is listed at the end of this page.
 
 **Why Do We Gather It?**
 
@@ -68,4 +68,4 @@ Updates to our Privacy Policy can be found right here.
 
 **Contacting Us**
 
-For Inquiries about our Privacy Policy not answered here, or for questions on opting out of our advertising partners, Please send an email to [admin@ppcgeeks.com](mailto:admin@ppcgeeks.com "mailto:admin@ppcgeeks.com") and let us know your thoughts, questions, etc.
+For Inquiries about our Privacy Policy not answered here, or for questions on opting out of our advertising partners, Please send an email to [Joshua.Sherman@infitechmedia.com](mailto:admin@ppcgeeks.com "mailto:admin@ppcgeeks.com") and let us know your thoughts, questions, etc.
