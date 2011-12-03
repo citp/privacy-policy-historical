@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the riskiq.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306235049id_/http%3A//www.riskiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riskiq.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203231908id_/http%3A//www.riskiq.com/privacy) for the most accurate reproduction.*
 
 # RiskIQ
 
 ## RiskIQ™ Privacy Policy
-
-\-->
 
 Any information we collect on this website, or that you provide: 
 
