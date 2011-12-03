@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525012328id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoneye.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203090816id_/http%3A//www.londoneye.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -51,7 +51,9 @@ We try to ensure that our web site offers visitors exactly what they are looking
 
 Cookies are small amounts of information which we store on your computer. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. 
 
-You may set up your computer to reject cookies although in that case, you may not be able to use certain features on our site. To disable cookies consult your browsers help files and follow the steps shown. 
+You may set up your computer to reject cookies although in that case, you may not be able to use certain features on our site. To disable cookies consult your browsers help files and follow the steps shown.
+
+[Read more about our Cookie Policy](http://www.londoneye.com/cookies/)
 
 ## Security and Data Retention 
 
