@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicmobile.ca privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410110059id_/http%3A//publicmobile.ca/pmconsumer/images/pmdocuments/en/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicmobile.ca privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203013806id_/http%3A//www.publicmobile.ca/pmconsumer/images/pmdocuments/en/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy with Public Mobile
 
