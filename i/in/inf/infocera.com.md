@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the infocera.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113045407id_/http%3A//www.infocera.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infocera.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203225713id_/http%3A//www.infocera.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Infocera ! The Complete Social and Information Networking Site !
 
-  |  **Contents**
+> **Infocera: Privacy Policy**
+
+**Contents**
 
   1. Scope 
   2. Collection 
@@ -19,6 +21,8 @@
   13. Third Parties 
   14. General 
 
+
+
 **Scope**
 
 This privacy policy describes how we handle your personal information for our services available through the www.infocera.com (the "Site") and applies generally to our subsidiaries and joint venture web sites whose specific privacy policies are available from our Privacy Central pages. Our subsidiaries and joint ventures privacy practices are similar to those described in this Privacy Policy. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the global infocera community. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on March 11, 2006. 
@@ -29,7 +33,17 @@ You can browse the Site without telling us who you are or revealing any personal
 
 We may collect and store the following personal information: 
 
-.email address, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers: .transactional information based on your activities on the Site (such as bidding, buying, selling, item and content you generate or that relates to your account): ..community discussions, chats, dispute resolution, correspondence through the Site, and correspondence sent to us: .computer sign-on data, statistics on page views, traffic to and from the Site, and ad data: .other information, including IP address and standard web log information: and .supplemental information from third parties. (For example, if you incur a debt to infocera, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law. As another example, if the information you provide cannot be verified, we may ask you to send us additional information (such as your driver license, credit card statement, and/or a recent utility bill or other information confirming your address), or to answer additional questions online to help verify your information.
+-email address, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers.
+
+-transactional information based on your activities on the Site (such as bidding, buying, selling, item and content you generate or that relates to your account).
+
+-community discussions, chats, dispute resolution, correspondence through the Site, and correspondence sent to us.
+
+-computer sign-on data, statistics on page views, traffic to and from the Site, and ad data.
+
+-other information, including IP address and standard web log information.
+
+-supplemental information from third parties. (For example, if you incur a debt to infocera, we will generally conduct a credit check by obtaining additional information about you from a credit bureau, as permitted by law. As another example, if the information you provide cannot be verified, we may ask you to send us additional information (such as your driver license, credit card statement, and/or a recent utility bill or other information confirming your address), or to answer additional questions online to help verify your information.
 
 **Marketing**
 
@@ -39,12 +53,14 @@ We don't sell or rent your personal information to third parties for their marke
 
 Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to: 
 
-  * .provide the services and customer support you request; 
-  * .resolve disputes, collect fees, and troubleshoot problems; 
-  * .prevent potentially prohibited or illegal activities, and enforce our User Agreement; 
-  * .customize, measure, and improve our services and the Site's content and layout; 
-  * .tell you about targeted marketing, service updates, and promotional offers based on your communication preferences; and 
-  * .compare information for accuracy, and verify it with third parties. 
+  * -provide the services and customer support you request. 
+  * -resolve disputes, collect fees, and troubleshoot problems. 
+  * -prevent potentially prohibited or illegal activities, and enforce our User Agreement. 
+  * -customize, measure, and improve our services and the Site's content and layout. 
+  * -tell you about targeted marketing, service updates, and promotional offers based on your communication preferences; and 
+  * -compare information for accuracy, and verify it with third parties. 
+
+
 
 **Our Disclosure of Your Information**
 
@@ -52,14 +68,16 @@ We may disclose personal information to respond to legal requirements, enforce o
 
 We may also share your personal information with: 
 
-  * .members of our corporate family to help detect and prevent potentially illegal acts and provide joint services;(Our corporate affiliates will market only to users who request these services.) 
-  * .service providers under contract who help with our business operations; (such as fraud investigations, bill collection, affiliate and rewards programs and co-branded credit cards) 
-  * .other third parties to whom you explicitly ask us to send your information; (or about whom you are otherwise explicitly notified and consent to when using a specific service) 
-  * .law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity; (In such events we will disclose name, city, state, telephone number, email address, User ID history, fraud complaints, and bidding and listing history.) 
-  * .we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity; (In such events we will disclose name, street address, city, state, zip code, country, phone number, email, and company name.) and 
-  * .other business entities, should we plan to merge with, or be acquired by that business entity. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.) 
+  * \- members of our corporate family to help detect and prevent potentially illegal acts and provide joint services;(Our corporate affiliates will market only to users who request these services.) 
+  * \- service providers under contract who help with our business operations; (such as fraud investigations, bill collection, affiliate and rewards programs and co-branded credit cards) 
+  * \- other third parties to whom you explicitly ask us to send your information; (or about whom you are otherwise explicitly notified and consent to when using a specific service) 
+  * \- law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity; (In such events we will disclose name, city, state, telephone number, email address, User ID history, fraud complaints, and bidding and listing history). 
+  * \- we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity; (In such events we will disclose name, street address, city, state, zip code, country, phone number, email, and company name). 
+  * \- other business entities, should we plan to merge with, or be acquired by that business entity. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice). 
 
-Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+
+
+\- Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 
 **Activity Associated with User IDs/identities**
 
@@ -71,9 +89,11 @@ Our Site enables you to share personal and financial information in order to com
 
  **You agree to use user information only for:**
 
-  * .infocera-transaction-related purposes that are not unsolicited commercial messages. 
-  * .Using services offered through infocera (e.g. escrow, insurance, shipping and fraud complaints). 
-  * .Other purposes that a user expressly chooses. 
+  * \- infocera-transaction-related purposes that are not unsolicited commercial messages. 
+  * \- Using services offered through infocera (e.g. escrow, insurance, shipping and fraud complaints). 
+  * \- Other purposes that a user expressly chooses. 
+
+
 
 **Cookies**
 
@@ -81,11 +101,13 @@ We use "cookies" (small files placed on your hard drive) on certain pages of the
 
 A few important things you should know about cookies are that:
 
-  * .We offer certain features that are only available through the use of cookies.
-  * .We use cookies to help identify you and maintain your signed-in status. 
-  * .Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. 
-  * .You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of the Site. 
-  * .You may encounter cookies from third parties on certain pages of the Site that we do not control. (For example, if you view a web page created by another user, there may be a "cookie" placed by that web page.). 
+  * \- We offer certain features that are only available through the use of cookies.
+  * \- We use cookies to help identify you and maintain your signed-in status. 
+  * \- Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. 
+  * \- You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of the Site. 
+  * \- You may encounter cookies from third parties on certain pages of the Site that we do not control. (For example, if you view a web page created by another user, there may be a "cookie" placed by that web page.). 
+
+
 
 **No Spam, Spyware or Cookies**
 
