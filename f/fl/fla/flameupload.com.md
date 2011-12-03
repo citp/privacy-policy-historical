@@ -1,49 +1,22 @@
-> *The following text is extracted and transformed from the flameupload.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518211436id_/http%3A//flameupload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flameupload.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203120113id_/http%3A//flameupload.com/privacy.php) for the most accurate reproduction.*
 
 # FlameUpload | Upload Everywhere!
 
 ## Privacy Policy
 
-**What information do we collect?**   
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.   
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.   
-Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them. 
+**Google Advertising Cookie** Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to the users based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
 
-**What do we use your information for?**   
-Any of the information we collect from you may be used in one of the following ways:   
-� To administer a contest, promotion, survey or other site feature   
-� To send periodic emails 
+**Logging IP Addresses** For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by FlameUpload for measuring usage. 
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+**Certain Exceptional Disclosures** We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process. 
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.   
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+**Use of Cookies** FlameUpload.com may use cookies to store the preferences of users. 
 
-**How do we protect your information?**   
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+**File Transfer Security** We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. All files stored for delivery are deleted when they have been uploaded to third-party websites. 
 
-**Do we use cookies?**   
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits. 
+**Third Party Advertising** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
 
-**Do we disclose any information to outside parties?**   
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
-
-**Childrens Online Privacy Protection Act Compliance**   
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
-
-**Online Privacy Policy Only**   
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Your Consent**   
-By using our site, you consent to our websites privacy policy. 
-
-**Changes to our Privacy Policy**   
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below.   
-This policy was last modified on 01/01/2009 
-
-**Contacting Us**   
-If there are any questions regarding this privacy policy you may contact us using the information below.   
-flameupload@gmail.com 
+**Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
   
 A free online file upload distribution service..to help you keep your shared files using several different web hosting providers. 
