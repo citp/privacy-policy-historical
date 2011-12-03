@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pritikin.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514142515id_/http%3A//pritikin.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1045%26Itemid%3D481) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pritikin.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203201429id_/http%3A//www.pritikin.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Pritikin Privacy Policy
 
