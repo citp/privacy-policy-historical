@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630125432id_/http%3A//usfirst.org/aboutus/content.aspx%3Fid%3D868) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203055343id_/http%3A//www.usfirst.org/aboutus/privacy-policy) for the most accurate reproduction.*
 
-# USFIRST.org
+# FIRST Privacy Policy and User Agreement | USFIRST.org
 
 _FIRST_ Privacy Policy and User Agreement
 
-We, at _FIRST,_ take privacy and security of personal information very seriously. This Privacy Policy discloses the privacy practices for _FIRST_ (“ _FIRST_ ”, “Our”, “We”, “Us”) its web site [_www.usfirst.org_](https://web.archive.org/ "www.usfirst.org") and various related services (together referred to as the “Site”). 
+We, at _FIRST,_ take privacy and security of personal information very seriously. This Privacy Policy discloses the privacy practices for _FIRST_ (" _FIRST_ ", "Our", "We", "Us") its web site [www.usfirst.org](https://web.archive.org/ "www.usfirst.org") and various related services (together referred to as the "Site"). 
 
 Participants and parents, and other persons entering any _FIRST_ online system or database understand and agree to the following terms:
 
-**_Youth under 13 (COPPA Compliancy)_**
+**Youth under 13 (COPPA Compliancy)**
 
 If you are under the age of 13, you need your parent’s permission to use this site (which throughout this Policy refers to all _FIRST_ websites) at all, and, unless we receive your parent’s verifiable consent (e.g. initials on your on-line registration form or an email from your parents to the _FIRST_ Webmaster) before you can enter any personal information (such as name, address, email address, pictures of yourself) in any of our online systems.
 
@@ -16,11 +16,11 @@ You may not enter personal information (such as name, address, email address) in
 
 If we learn that we have information from a child under 13 without the required parental consent, we will delete that information as soon as possible. 
 
-**_Youth 13 - 18_**
+**Youth 13 - 18**
 
 If you are 13 to 18 years of age we expect you to have your parent’s permission before participating on this site, and particularly before submitting any pictures or personal information about yourself.
 
-_**Terms of the**   **Policy**_
+**Terms of the**   **Policy**
 
 You acknowledge that this Privacy Policy is part of Our Site Terms of Use, and by accessing or using Our Site, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not access or use this Site.
 
@@ -28,13 +28,13 @@ We reserve the right to change this Privacy Policy at any time. Such changes, mo
 
 **1.  Types of Information Collected**
 
-We collect Personally Identifiable Information (“PII”) and Non-Personally Identifiable Information (“Non-PII”) to facilitate the operation, funding, and management of _FIRST_ programs. We do not rent or sell this information to others. We may share your information with partners or others who are acting on our behalf to help conduct _FIRST_ programs. We hold them to the same standards of privacy and security as we hold our own staff.
+We collect Personally Identifiable Information ("PII") and Non-Personally Identifiable Information ("Non-PII") to facilitate the operation, funding, and management of _FIRST_ programs. We do not rent or sell this information to others. We may share your information with partners or others who are acting on our behalf to help conduct _FIRST_ programs. We hold them to the same standards of privacy and security as we hold our own staff.
 
 Personally Identifiable Information:  This refers to information that lets Us know the specifics of who you are.  It includes personal information, such as your first and last name, title, mailing address (including zip code),email address, age, team affiliation, phone number and, to facilitate certain transactions, credit card information. 
 
 When you engage in certain activities on this Site, such as registering for a an event, ordering a subscription to Our newsletter, ordering products (e.g. the _FIRST_  LEGO League mission mat), submitting content and/or posting content in forums on forums.us _FIRST_.org or other public areas, filling out a survey, or sending Us feedback, we may ask you to provide PII by filling out and submitting an online form. Depending upon the activity, some of the information We ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
 
-Non-Personally Identifiable Information (“Non-PII”):  This refers to information that does not by itself identify any specific person. This includes the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and/or your Internet Protocol ("IP") address. (A URL is the global address of documents and other resources on the World Wide Web.  An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer.  Computers require IP addresses in order for users to communicate on the Internet.) For information on cookies, see section 7 below.
+Non-Personally Identifiable Information ("Non-PII"):  This refers to information that does not by itself identify any specific person. This includes the Web site''s Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and/or your Internet Protocol ("IP") address. (A URL is the global address of documents and other resources on the World Wide Web.  An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer.  Computers require IP addresses in order for users to communicate on the Internet.) For information on cookies, see section 7 below.
 
 We gather Non-PII at different places on Our Web Site in several ways. This information is compiled and analyzed on both an individual (anonymous) and an aggregated basis. 
 
@@ -86,7 +86,7 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 
 **7.  Cookies**
 
-When you use Our Site, We may store cookies on your computer in order to facilitate and customize your use of Our Site. A cookie is a small data text file, which a Web site stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you to Us. Our cookies store randomly assigned user identification numbers, the country where you are located, and your log-in name to welcome you back to Our Site. Our cookies (i) make your use of the Site easier, (ii) make the Site run more smoothly, (iii) track authenticated users visiting Our Site, and (iv) help Us to maintain a secure Site. You are always free to decline Our cookies if your browser permits, but some parts of Our Site may not work properly in that case.  Once you leave Our Web site and close your browser, the “cookie” disappears. 
+When you use Our Site, We may store cookies on your computer in order to facilitate and customize your use of Our Site. A cookie is a small data text file, which a Web site stores on your computer''s hard drive (if your Web browser permits) that can later be retrieved to identify you to Us. Our cookies store randomly assigned user identification numbers, the country where you are located, and your log-in name to welcome you back to Our Site. Our cookies (i) make your use of the Site easier, (ii) make the Site run more smoothly, (iii) track authenticated users visiting Our Site, and (iv) help Us to maintain a secure Site. You are always free to decline Our cookies if your browser permits, but some parts of Our Site may not work properly in that case.  Once you leave Our Web site and close your browser, the "cookie" disappears. 
 
 Although we do not do so presently, We may use an outside ad serving company to display banner advertisements on Our Site. As part of their service, they will place a separate cookie on your computer.  We will not provide any third-party ad server with any of your PII or information about your purchases. We and Our third-party ad server will collect and use Non-PII about you, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and whether you responded to a particular ad.  Other advertisers may also place banner ads on Our Site in the same manner as above, but We will not disclose any PII to them.
 
@@ -94,15 +94,15 @@ Although we do not do so presently, We may use an outside ad serving company to 
 
 As a public service, We may maintain links to other Web sites. Links to sponsoring organizations are an example of these links. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information We collect from you. Other sites accessible through Our Site have their own privacy policies and data collection, use, and disclosure practices. Please consult each site’s privacy policy. We are not responsible for the policies or practices of third parties.
 
-We welcome links to any part of Our Site from other nonprofits, government agencies, and others who wish to help extend our mission. We ask that you contact us to let us know of your intentions to link to our site, and indicate the purpose of the link. No link may present or display a product or activity in a way that states or implies the _FIRST_ 's endorsement. _FIRST_ does not endorse any commercial organizations, candidates for elected office, or products.
+We welcome links to any part of Our Site from other nonprofits, government agencies, and others who wish to help extend our mission. We ask that you contact us to let us know of your intentions to link to our site, and indicate the purpose of the link. No link may present or display a product or activity in a way that states or implies the _FIRST_ ''s endorsement. _FIRST_ does not endorse any commercial organizations, candidates for elected office, or products.
 
-_FIRST_ 's Web site features links to other organization sites including those of Our corporate sponsors. We do not routinely "out-link" to private, commercial or other similar Web sites, other than current corporate sponsors of the _FIRST_ ’s programs and services. However, on a case-by-case basis, we will consider requests from such groups or persons to out-link to their Web sites. _FIRST_ will grant such requests only where it is determined that such links will clearly support our mission and where we have concluded that such links will not in any way jeopardize our reputation, independence, objectivity, or mission.
+_FIRST_ ''s Web site features links to other organization sites including those of Our corporate sponsors. We do not routinely "out-link" to private, commercial or other similar Web sites, other than current corporate sponsors of the _FIRST_ ’s programs and services. However, on a case-by-case basis, we will consider requests from such groups or persons to out-link to their Web sites. _FIRST_ will grant such requests only where it is determined that such links will clearly support our mission and where we have concluded that such links will not in any way jeopardize our reputation, independence, objectivity, or mission.
 
 From time to time, the _FIRST_ , also, may decide on its own, not based on any request, to out-link to private, commercial or other Web sites. The same criteria described above will apply. Such links may be short or long-term, at the discretion of the organization.
 
 **9.  Privacy Policy and Use of Our Training Library & Forums**
 
-For the educational use of Our members, _FIRST_  offers an online Training Library with Worcester Polytechnic Institute (WPI) containing _FIRST_ original and copyright-protected original works. It, also, maintains forums where training materials are posted. _FIRST_ does not provide the service of registering copyrighted works with the Library of Congress, Copyright Division. Participants who post materials in Our Library and Forums are responsible for their own copyright recordings and legal claims. The comments and opinions expressed in postings to Library and Forums are solely of each individual author and in no way are shared by the _FIRST_. Users of Our Library and Forums, acknowledge and agree at all times to abide by legal protections and a professional honor system. Specifically, users acknowledge and affirm that in downloading, using or referring to the contents of any document included therein--whether in writing or verbally—they will make a full attribution to the author.
+For the educational use of Our members, _FIRST_  offers an online Training Library with Worcester Polytechnic Institute (WPI) containing _FIRST_ original and copyright-protected original works. It, also, maintains forums where training materials are posted. _FIRST_ does not provide the service of registering copyrighted works with the Library of Congress, Copyright Division. Participants who post materials in Our Library and Forums are responsible for their own copyright recordings and legal claims. The comments and opinions expressed in postings to Library and Forums are solely of each individual author and in no way are shared by the _FIRST_. Users of Our Library and Forums, acknowledge and agree at all times to abide by legal protections and a professional honor system. Specifically, users acknowledge and affirm that in downloading, using or referring to the contents of any document included therein--whether in writing or verbally-they will make a full attribution to the author.
 
 **10.  Miscellaneous Privacy Issues**
 
@@ -130,10 +130,10 @@ Everyone should use good judgment when posting images. Images that do not reflec
 
 **13.   Problems, Questions, Complaints, Assistance.**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact Us via our [Contact Us](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=866 "Contact Us") page or by sending a letter to:
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact Us via our [Contact Us](https://web.archive.org/contactform "Contact Us") page or by sending a letter to:
 
   _FIRST_  
  200 Bedford St.  
  Manchester, NH  03101  
  (603) 666-3906   
- customerservice@us _FIRST_.org
+ [customerservice@us _FIRST_.org](mailto:%20customerservice@usFIRST.org)
