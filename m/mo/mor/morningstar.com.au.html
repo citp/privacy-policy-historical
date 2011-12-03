@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the morningstar.com.au privacy policy that was archived on 2011-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605031121id_/http%3A//www.morningstar.com.au/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the morningstar.com.au privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203150331id_/http%3A//www.morningstar.com.au/About/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -18,6 +18,8 @@
     <link rel="SHORTCUT ICON" href="/Content/images/favicon.ico">
     
     <!-- meta name="description" content="Privacy" /-->
+    <meta name="robots" content="NOODP">
+    <meta name="googlebot" content="NOODP">
     <meta name="description" content="Morningstar provides investment research for stocks, funds, ETF's, hybrids, and LIC's as well as financial data, news, and investing articles and videos.">
     
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -238,11 +240,11 @@
         
                     <a href="/SpecialReports" class="tab_n">Special Reports</a>                    
         
+                    <a href="/LICs" class="tab_n">LICs<span style="font-size:11; color:red"><b>&nbsp;New</b></span></a>                    
+        
                     <a href="/Hybrids" class="tab_n">Hybrids</a>                    
         
-
-                    <a href="/TechnicalAnalysis" class="tab_n">&nbsp;Tech Analysis&nbsp;</a>
-
+                    <a href="/TechnicalAnalysis" class="tab_n">Tech Analysis</a>                    
         
                     <a href="/Funds" class="tab_n">Funds</a>                    
         
@@ -255,7 +257,6 @@
                     <a href="/Learn" class="tab_n">Learn</a>                    
         
 </div>        
-
         
         <div id="AutoCompleteMessage" class="AutoCompleteMessage" style="display: none">
             <table border="1px">
@@ -452,13 +453,15 @@
         
                     <a class="leftNavItemFree" href="/Stocks/Huntleys">Introducing YMW</a>                  
         
-                    <a class="leftNavItemPremium" href="/Stocks/YMW">YMW Issue 20</a>                  
+                    <a class="leftNavItemPremium" href="/Stocks/YMW">YMW Issue 46</a>                  
         
                     <a class="leftNavItemFreeRegisteredVisible" href="/Stocks/YMW/Archive">Newsletter Archive</a>                  
         
                     <a class="leftNavItemFreeRegisteredVisible" href="/Stocks/ResearchArchive">Research Archive</a>                  
         
                     <a class="leftNavItemPremium" href="/Stocks/Changes">Recommendation Changes</a>                  
+        
+                    <a class="leftNavItemNewPremium" href="/Stocks/CurrentRecommendations">Current Recommendations <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red"><b>New</b></font></a>                  
         
                     <a class="leftNavItemPremium" href="/Tools/StockScreenerPreset">Analyst Searches</a>                  
         
@@ -482,6 +485,17 @@
         <div id="Special Reports" class="hide">
         
                     <a class="leftNavItemFree" href="/Archive/Articles/SpecialReportArticles">Articles Archive</a>                  
+        
+        </div>
+
+        <span onclick="ShowLICs()" class="leftStockNavArrowRight" id="LICsSect"><a href="/LICs">LICs</a></span>
+        <div id="LICs" class="hide">
+        
+                    <a class="leftNavItemPremium" href="/LICs/ResearchArchive">Research Archive</a>                  
+        
+                    <a class="leftNavItemFree" href="/LICs/Methodology">Research Methodology</a>                  
+        
+                    <a class="leftNavItemFree" href="/LICs/LatestPrices">Latest Prices</a>                  
         
         </div>
 
@@ -510,7 +524,7 @@
         
                     <a class="leftNavItemFreeRegistered" href="/Funds/MorningstarRatings">Ratings Limitations</a>                  
         
-                    <a class="leftNavItemPremium" href="/funds/article/fund-times/3276">Fund Times</a>                  
+                    <a class="leftNavItemPremium" href="/funds/article/fund-times/4070">Fund Times</a>                  
         
                     <a class="leftNavItemPremium" href="/Funds/TimesArchive">Fund Archive</a>                  
         
@@ -625,7 +639,7 @@
         
                     <a class="leftNavItemFree" href="http://corporate.morningstar.com/" target="_blank">Company Site</a>                  
         
-                    <a class="leftNavItemFree" href="/s/pdf/newsletters/Huntleys_Glossary_Of_Terms.pdf">Glossary</a>                  
+                    <a class="leftNavItemFree" href="/s/documents/Glossary_morningstar.pdf">Glossary</a>                  
         
                     <a class="leftNavItemFree" href="/About/Help">Help</a>                  
         
@@ -635,6 +649,12 @@
         
         </div>
 
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('a[href$=CurrentRecommendations]').removeClass("leftNavItemPremium");
+        $('a[href$=CurrentRecommendations]').addClass("leftNavItemNewPremium");
+    });
+</script>
 
 <script type="text/javascript">
 var imgArrowOn, imgArrowOff;
@@ -644,7 +664,6 @@ imgArrowOn.src = "/Content/images/cover_navarrow.gif";
 
 var imgArrowOff = new Image();
 imgArrowOff.src = "/Content/images/arrow_right.gif";
-
 
 </script>
 
@@ -760,7 +779,17 @@ imgArrowOff.src = "/Content/images/arrow_right.gif";
                 });
 
                 $('a[href*=/pdf/]').click(function() {
-                    window.open(this.href);
+                    window.open(this.href, null, 'location=0,status=0,titlebar=0');
+                    return false;
+                });
+
+                $('a[href*=/pdfserver?]').click(function() {
+                    window.open(this.href,null,'location=0, status=0,titlebar=0');
+                    return false;
+                });
+
+                $('a[href*=/PremiumPdf?Url=]').click(function() {
+                    window.open(this.href, null, 'location=0, status=0,titlebar=0');
                     return false;
                 });
             });
@@ -811,7 +840,7 @@ imgArrowOff.src = "/Content/images/arrow_right.gif";
 
         <!-- Morningstar Build -->
         <!--
-			MORNINGSTARAUWEBSITE-QA-752 (Revision: ${custom.svn.revision.number})
+			MORNINGSTARAUWEBSITE-QA-887 (Revision: ${custom.svn.revision.number})
 		-->
     </div>
     <input name="ASXCode_hdn2" type="hidden" id="ASXCode_hdn2">
