@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestjobs.ph privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120014619id_/http%3A//bestjobs.ph/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobs.ph privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204005820id_/http%3A//www.bestjobs.ph/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy :: Best Jobs Philippines
 
@@ -87,7 +87,7 @@ If we ever change this privacy policy, we will post the changes on this page and
 
   *  **Contact**
 
-The **Best Jobs Philippines** website is property of DGNET LTD., private limited company incorporated in Scotland(UK), number 189977, and with registerd office in 12 South Bridge, Edinburgh EH1 1DD (United Kingdom). If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, you can [contact us here (click here)](https://web.archive.org/contact.htm). We welcome your comments concerning this privacy policy. If you believe that we have not adhered to this policy, please let us know and we will make reasonable efforts to promptly determine and solve the problem.
+The **Best Jobs Philippines** website is property of DGNET LTD., private limited company incorporated in Scotland(UK), number 189977, and with registerd office in 10 York Place, Edinburgh EH1 3EP (United Kingdom). If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, you can [contact us here (click here)](https://web.archive.org/contact.htm). We welcome your comments concerning this privacy policy. If you believe that we have not adhered to this policy, please let us know and we will make reasonable efforts to promptly determine and solve the problem.
 
 Thank you for using **Best Jobs Philippines**.
 
