@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imguruplr.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427150103id_/http%3A//www.fastcashcounts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imguruplr.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203134420id_/http%3A//www.fastcashcounts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
