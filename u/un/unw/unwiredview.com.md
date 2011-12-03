@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unwiredview.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605024326id_/http%3A//www.unwiredview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unwiredview.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203031018id_/http%3A//www.unwiredview.com/privacy-policy) for the most accurate reproduction.*
 
 # Unwired View
 
