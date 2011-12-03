@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605042938id_/http%3A//www.365celebrations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204004818id_/http%3A//www.365celebrations.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -74,5 +74,5 @@ Your continued use of the Author's web sites following the posting of changes to
 
 **Copyright © Oleg Moskvine, 2010-2011. All Rights Reserved.**
 
-[Home](https://web.archive.org/web/20110605042938id_/http%3A//www.365celebrations.com/index.htm)  
+[Home](https://web.archive.org/web/20111204004818id_/http%3A//www.365celebrations.com/index.htm)  
 
