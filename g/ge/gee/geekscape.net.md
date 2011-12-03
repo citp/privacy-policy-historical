@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekscape.net privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611044159id_/http%3A//geekscape.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekscape.net privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203145710id_/http%3A//www.geekscape.net/privacy_policy) for the most accurate reproduction.*
 
 # Geekscape
 
