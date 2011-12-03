@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenr.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602045015id_/http%3A//www.screenr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenr.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203090313id_/http%3A//www.screenr.com/privacy) for the most accurate reproduction.*
 
 # Screenr - Privacy
 
