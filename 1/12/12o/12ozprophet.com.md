@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604044143id_/http%3A//12ozprophet.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12ozprophet.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203010552id_/http%3A//12ozprophet.com/index.php/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - 12ozProphet
+# Privacy Policy - 12ozProphet.com
 
-* Our Commitment to Privacy  
-Effective November 30, 2010 
+[](http://www.12ozprophet.com/index.php?ACT=91&ad_id=3 "12oz_banner_3")
+
+**Worldwide Graffiti Scholarship ™**
+
+Our Commitment to Privacy  
+Effective November 6, 2011 
 
 12ozPROPHET values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. 12ozPROPHET recognizes that it must maintain and use customer information responsibly. We do not sell or rent the information you provide to us online to third parties,however, we do share your information with third parties under certain circumstances as detailed below. 
 
-This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, [click here](http://12ozprophet.com/index.php/contact/) to contact 12ozPROPHET via email. 
+This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, [click here](http://www.12ozprophet.com/index.php/contact/ "Contact Us") to contact 12ozPROPHET via email. 
 
 If our information practices change in the future, we will let you know by posting the policy changes on our Web site or by communicating directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information. 
 
@@ -15,11 +19,11 @@ If our information practices change in the future, we will let you know by posti
 
 **HOW WE USE YOUR INFORMATION** When you register with 12ozPROPHET, you will be automatically signed up to receive email updates. If you participate in a contest or promotion (online or over the phone), you may choose to receive email updates about our products, services, contests, and promotions. 
 
-If at any time you would like us to remove you from our email or postal mailing lists, feel free to contact us at [webmaster@12ozprophet.com](mailto:webmaster@12ozprophet). Please be sure to include full name and any other relevant information. If you have previously asked to be removed from our email list, we will not sign you up for email updates if you place an order over the Internet. Please note that it may take from six to eight weeks to remove your from our list. 
+If at any time you would like us to remove you from our email or postal mailing lists, feel free to [contact us](http://www.12ozprophet.com/index.php/contact/ "Contact Us"). Please be sure to include full name and any other relevant information. If you have previously asked to be removed from our email list, we will not sign you up for email updates if you place an order over the Internet. Please note that it may take from six to eight weeks to remove your from our list. 
 
 From time to time, we may also send you emails to help us learn more about your shopping preferences. In addition, we may use information about your product interests and purchases to help us improve our site design and your shopping experience. If you make a purchase online or over the phone, we may also send you notices about our products, services, contests and promotions through postal mail. 
 
-To serve you better, we may combine information you give us online and in our stores as well as information about your product interests and purchases. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your browsing experience with us, and to communicate with you by email or postal mail about our products, services, contests, and promotions that may be of interest to you. If you do not want us to use your information as described above, please [contact us](http://12ozprophet.com/index.php/contact/). 
+To serve you better, we may combine information you give us online and in our stores as well as information about your product interests and purchases. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your browsing experience with us, and to communicate with you by email or postal mail about our products, services, contests, and promotions that may be of interest to you. If you do not want us to use your information as described above, please [contact us](http://www.12ozprophet.com/index.php/contact/ "Contact Us"). 
 
 **THIRD PARTY TRANSACTIONS** We contract with third parties to assist us in maintaining and managing our customer information to fulfill promotions and to communicate with our customers. We do not authorize any of those third parties to make any other use of your information. 
 
@@ -33,9 +37,9 @@ We also may share aggregate, non-personally identifiable information about you (
 
 **ACCESSING YOUR INFORMATION** To access your information online, simply click the ACCOUNT link to sign in, and then choose the appropriate section to review, edit, or delete your personal information. Please note that any requests to change the frequency that we send email updates to you may take up to six to eight weeks. 
 
-If at any time you would like us to remove you from our email or postal mailing lists or if you do not want us to use your information to enhance your shopping experience, feel free to contact 12ozPROPHET customer service via email at [webmaster@12ozprophet.com](mailto:webmaster@12ozprophet). Please be sure to include your email address and full name. 
+If at any time you would like us to remove you from our email or postal mailing lists or if you do not want us to use your information to enhance your shopping experience, feel free to [contact 12ozPROPHET](http://www.12ozprophet.com/index.php/contact/ "Contact Us") via email. Please be sure to include your email address and full name. 
 
-**REMOVING YOURSELF FROM MAILOUTS** We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either through email, postal mail or by phone, please let us know by sending us an email at [webmaster@12ozprophet.com](mailto:webmaster@12ozprophet). You can easily opt out of future emailings by unsubscribing yourself using our registration form. 
+**REMOVING YOURSELF FROM MAILOUTS** We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either through email, postal mail or by phone, please let us know by [sending us an email](http://www.12ozprophet.com/index.php/contact/ "Contact Us"). You can easily opt out of future emailings by unsubscribing yourself using our registration form. 
 
 Please note that such requests may take up to six to eight weeks to become effective. In addition, if you ask us to remove your name and address from our email or postal mailing lists, we will maintain your name in a “do not mail” file to ensure that we can honor your request. Please also note that when you make a purchase, we will send you emails to confirm your order and may also need to contact you via phone, postal mail or email if we have other questions regarding your order. 
 
