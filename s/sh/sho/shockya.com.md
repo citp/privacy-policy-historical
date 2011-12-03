@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shockya.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430220603id_/http%3A//www.shockya.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockya.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203042643id_/http%3A//www.shockya.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Shockya.com - Privacy Policy and Terms of Use
 
@@ -15,7 +15,7 @@ By providing any/all personal information to us, you understand and clearly cons
 
 **Cookies & Tracking**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>
 
 We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," please visit:  
 [http://www.doubleclick.com/privacy/index.aspx.](http://www.doubleclick.com/privacy/index.aspx)
