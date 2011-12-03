@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the circuitcity.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616032900id_/http%3A//www.circuitcity.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuitcity.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203155509id_/http%3A//www.circuitcity.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at CircuitCity.com
-
-ONE DAY EXCLUSIVE OFFER! Sign up for our Circuit City Exclusive Email Offers and get  
-**$10 Off* YOUR NEXT ORDER**
-
-* Requires $100 Minimum Purchase. Cannot be combined with other offers. Limit one discount code per customer. Must validate email address by responding to our confirmation email. After valid email confirmation, please allow up to 2-4 business days to receive your $10 discount via email. Must follow instructions within the email to qualify. To ensure delivery to your inbox, please add CircuitCity@circuitcity-online.com to your address book. 
-
-THANK YOU for your email submission
-
-You have one more step to get your $10 discount. Just confirm your entry via the confirmation email to validate your email address and then we will send you a $10 discount link.   
-
-
-* Requires $100 Minimum Purchase. Cannot be combined with other offers. Limit one discount code per customer. Must validate email address by responding to our confirmation email. After valid email confirmation, please allow up to 2-4 business days to receive your $10 discount via email. Must follow instructions within the email to qualify. To ensure delivery to your inbox, please add CircuitCity@circuitcity-online.com to your address book. 
 
 TV & HOME ENTERTAINMENT
 
@@ -32,18 +20,18 @@ GAMING
 
 |  | 
 
-CircuitCity.com Privacy Policy (Updated 5/20/2009)
+CircuitCity.com Privacy Policy (Updated 8/19/2011)
 
 By visiting the CircuitCity.com website or any other websites operated by CircuitCity.com, Inc. or its affiliates (collectively, the “Site”), you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site. 
 
-CircuitCity.com has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit the Site and provide us with information. This Privacy Notice is posted to demonstrate our leadership in online security and customer service practices. We treat your information with the honesty and sensitivity you would expect of the Circuit City brand.. 
+CircuitCity.com has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit the Site and provide us with information. This Privacy Notice is posted to demonstrate our leadership in online security and customer service practices. We treat your information with the honesty and sensitivity you would expect of the Circuit City brand. 
 
 1\. Personal Information Collected By CircuitCity.com
 
 CircuitCity.com uses information that we collect from our visitors and customers to personalize and improve your visit and shopping experience at the Site. We gather the following types of information:
 
 **Information You Give to Us:**   
-We Collect Personal Information that is provided by Site users. “Personal Information” includes your name, address, telephone number, credit or debit card information, e-mail address, date of birth, IP address and the last four digits of your Social Security number. Personal Information is collected when you establish an account with us, place an order on the Site, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through the Site, telephone, mail or fax. In some instances, we may obtain other people’s names and email addresses that you may choose to provide as part of our “email a friend” feature. 
+We collect Personal Information that is provided by Site users. “Personal Information” includes your name, address, telephone number, credit or debit card information, e-mail address, date of birth, IP address and the last four digits of your Social Security number. Personal Information is collected when you establish an account with us, place an order on the Site, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through the Site, telephone, mail or fax. In some instances, we may obtain other people’s names and email addresses that you may choose to provide as part of our “email a friend” feature. 
 
 **Web Beacons:**   
 We (or service providers on our behalf) may collect information from visits to the Site through the use of “Web Beacons.” Web Beacons are web page elements which may employ cookie technology that enable us to record data about visits to or transactions made on the Site. This information is sometimes known as “clickstream data.” We may use this data to analyze trends and statistics to improve your online experience or our customer service. No Personal Information is collected through the use of Web Beacons on the Site. 
@@ -73,17 +61,20 @@ We may employ other companies or individuals to provide certain services to or o
 **Credit Card Companies:**   
 If you place an order through the Site, the Personal Information you provide is transmitted to your credit card company to verify and authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option, information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing. 
 
-**Fraud Prevention:**  
-We use a third party service provider, Ethoca, Inc., to assist us with preventing and monitoring fraudulent activity on the Site. When you make a purchase on the Site, we may send your Personal Information to Ethoca in order to receive a credit assessment based on such information. Ethoca may also store and use this information in order to expand its fraud prevention database, which may be accessible by other retailers that are part of Ethoca’s anti-fraud network. Ethoca has agreed (i) not to use your Personal Information for any reason except as described in this Privacy Notice, (ii) to maintain the confidentiality of your Personal Information, and (iii) to provide your Personal Information with at least the same level of protection and security as provided on the Site. If you would like more information concerning Ethoca’s privacy practices, go to www.ethoca.com. In the event that your purchase is denied based on a risk assessment provided to us by Ethoca, you may contact us at [ethoca@help.CircuitCity.com](mailto:ethoca@help.CircuitCity.com) to dispute the information contained in such risk assessment. 
-
 **Third Party Marketing Partners:**  
-We will never share any personally identifiable information which you have given us with any third party marketers. Aggregate Information: We provide aggregate information to some of our business partners. This information is used in a collective manner and does not identify you individually in any way. We collect and share aggregate information in order to know more about the general profile of our customers so that we can improve your shopping experience. 
+From time to time we might establish a business relationship with other third parties whom we believe are trustworthy. In such cases we might license, exchange, share and/or cross-reference information, including your name and postal mailing address that will enable such third parties to contact you regarding products and services that may be of interest to you. We will never share any personally identifiabletelephone number(s), e-mail addresses, or credit card information which you have given us with any such third party partner(s). 
+
+**Related Companies:**  
+We may share your postal and e-mail address, telephone number(s), customer preferences, and purchase history with other subsidiaries of our parent company, Systemax Inc. We will never share any credit card information which you have given to us with any of these related companies. 
+
+**Aggregate Information:**  
+We provide aggregate information to some of our business partners. This information is used in a collective manner and does not identify you individually in any way. We collect and share aggregate information in order to know more about the general profile of our customers so that we can improve your shopping experience. 
 
 **Shippers:**  
 If you make a purchase through the Site, your name, telephone number and shipping information must be provided to third party shippers such as UPS, FEDEX, the United States Postal Service, and trucking companies to deliver your purchase. There also may be instances in which we drop-ship orders directly to you from one of our manufacturers or suppliers. These drop-shippers are only given your name, postal address, and telephone number for the sole purpose of fulfilling your order.   
 **  
 Third Party Transaction-Level Data:**  
-If you visit the Site from a third-party website the third-party website may be able to access select information from your individual transaction information. In order to track and credit your transaction the third-party website may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party website to the Site. Any transactions made at the Site while such a code is active will be reported back to the third party website. We will only report non-Personal Information to these websites such as the date of the transaction, the product(s) purchased and the amount spent. We will not report any information to these third party websites that will allow them to personally identify you. The presence of a third party navigation bar at the top of any page on the Site is one indication that the third party website may be able to see your activity on the Site.   
+If you visit the Site from a third-party website the third-party website may be able to access select information from your individual transaction information. In order to track and credit your transaction the third-party website may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party website to the Site. Any transactions made at the Site while such a code is active will be reported back to the third party website. We will only report non-Personal Information to these websites such as the date of the transaction, the product(s) purchased and the amount spent. We will not report any information to these third party websites that will allow them to personally identify you. The presence of a third party navigation bar at the top of any page on the Site is an indication that the third party website may be able to see your activity on the Site.   
 **  
 Links to Third Party Site:**  
 The Site contains certain links to third party websites, such as our vendors. We are not responsible or liable for the privacy practices or content found on these websites. We recommend that you check the privacy notice of each website you visit. Links to third party websites are provided solely for your convenience and any submission of data to such websites shall be at your sole risk. 
@@ -115,4 +106,8 @@ If you have any questions or concerns about this Privacy Notice, please e-mail u
 
 9\. Business Transfer
 
-CircuitCity.com, Inc. is a wholly owned subsidiary of Systemax, Inc., a Fortune 1000 Company (NYSE symbol SYX). However, in the event that CircuitCity.com, Inc. is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any personal information and basic customer information owned or under the control of CircuitCity.com, Inc. may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and other basic customer information we have collected from users of the Site. However, no personal financial information, including credit card information, social security numbers or dates of birth, will ever be part of the information transferred any any such business transfer. 
+CircuitCity.com, Inc. is a wholly owned subsidiary of Systemax, Inc., a Fortune 1000 Company (NYSE symbol SYX). However, in the event that CircuitCity.com, Inc. is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of CircuitCity.com, Inc. may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and aggregate information we have collected from users of the Site. 
+
+10\. Limitations On Liability
+
+IN NO EVENT WILL CircuitCity.com OR ITS PARENT, AFFILIATES, LICENSEES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITE OR ITS PRODUCTS OR SERVICES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITE, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS OF PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF CircuitCity.com OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
