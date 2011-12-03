@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happytreefriends.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605084306id_/http%3A//www.happytreefriends.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happytreefriends.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203215309id_/http%3A//www.happytreefriends.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Happy Tree Friends
 
@@ -60,7 +60,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
   
 **How does Mondo Media protect Children’s Privacy?**  
-The safety of children is very important to us. No information should be submitted to or posted at Mondo Media by children under the age of 13 (”Children”) without the prior consent of their parent or guardian.
+The safety of children is very important to us. No information should be submitted to or posted at Mondo Media by children under the age of 13 (“Children”) without the prior consent of their parent or guardian.
 
 **Verifiable Parental Consent**  
 We are required by law to obtain verifiable parental consent before collecting, using or disclosing personal information from Children. Before we collect any information on a Child, we require the parent or guardian (each a “Parent”) to verify his or her consent by completing a consent form (which may be obtained by sending an e-mail request to us at [safetyforlittleurchins@mondomedia.com](mailto:safetyforlittleurchins@mondomedia.com)). By agreeing to the registration of his or her Child, a Parent: (i) agrees that the Child’s online activities are subject to a number of rules and policies, including without limitation this Privacy Policy and the Terms of Service; and (ii) consents to our collection, use, and disclosure of personal information about the Child solely as described in this Privacy Policy. We make special provisions to allow parents to control the personal information we collect from Children, as described below.
