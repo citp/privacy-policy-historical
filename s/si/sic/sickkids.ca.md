@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sickkids.ca privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523034503id_/http%3A//www.sickkids.ca/VisitingSickKids/information-privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sickkids.ca privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203130658id_/http%3A//www.sickkids.ca/VisitingSickKids/information-privacy/index.html) for the most accurate reproduction.*
 
 # Privacy of your information at SickKids
 
@@ -126,5 +126,11 @@ The Hospital for Sick Children
 555 University Ave.  
 Toronto, ON  
 M5G 1X8
+
+###  **Also see:**
+
+  * [Values and Expectations](https://web.archive.org/VisitingSickKids/values-and-expectations/index.html)
+
+
 
 © Copyright 2005 - 2008, The Hospital for Sick Children (SickKids), Toronto, Ontario. All rights reserved.
