@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caltrain.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508030143id_/http%3A//www.caltrain.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caltrain.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203225646id_/http%3A//www.caltrain.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ This Privacy Policy ("Policy") is effective as of July 1, 2004. This Policy may 
 This site contains links to other sites. Caltrain.com is not responsible for the content or privacy practices of these sites. 
 
 **Contact Us**  
-If you have any additional questions or concerns about our privacy policy, please [contact us](https://web.archive.org/about/Contact_Us.html "Contact Us"). 
+If you have any additional questions or concerns about our privacy policy, please [contact us](https://web.archive.org/about/contact.html "Contact Us"). 
 
 Amended Oct. 21, 2004 + June 30, 2010
 
