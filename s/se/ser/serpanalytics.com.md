@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serpanalytics.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230121245id_/http%3A//www.serpanalytics.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serpanalytics.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203212642id_/http%3A//www.serpanalytics.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — SERP Analytics Help
 
