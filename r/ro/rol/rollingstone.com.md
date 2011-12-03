@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629145308id_/http%3A//www.rollingstone.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingstone.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203221301id_/http%3A//www.rollingstone.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Rolling Stone | Privacy Policy
 
