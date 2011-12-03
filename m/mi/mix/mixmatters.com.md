@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mixmatters.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222033906id_/http%3A//mixmatters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmatters.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203115314id_/http%3A//www.mixmatters.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Welcome to MixMatters
 
-This is the web site of **Mix Matters Inc.**.  
+## Privacy Policy Statement
 
+This is the web site of **Mix Matters Inc.**.
 
-Our postal address is   
-**3371 Glendale Blvd **#30**** **  
-Los Angeles CA 90039**
+Our postal address is  
+**3371 Glendale Blvd #30  
+Los Angeles, CA 90039**
 
-We can be reached via e-mail at [info@mixmatters.com](mailto:info@mixmatters.com)  
-
+We can be reached via e-mail at [info@mixmatters.com](mailto:info@mixmatters.com)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -31,8 +31,7 @@ Please provide us with your name and phone number. We will be sure your name is 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
 
 
-  * [google.com. ](http://www.google.com/privacy.html)Google, as a third party vendor, uses cookies to serve ads on mixmatters.com. Google's use of the DART cookie enables it to serve ads to mixmatters.com users based on their visit to mixmatters.com site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting [the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-  * [amazon.com](http://www.amazon.com/exec/obidos/tg/browse/-/468496/103-7568731-9590244)
+  * [google.com.](http://www.google.com/privacy.html) Google, as a third party vendor, uses cookies to serve ads on mixmatters.com. Google's use of the DART cookie enables it to serve ads to mixmatters.com users based on their visit to mixmatters.com site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting [the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
   * [chitica.com  
 ](http://chitika.com/privacy_policy.php)
   * [linkshare.com  
@@ -52,12 +51,12 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
-Consumers can have this information corrected by sending us e-mail at the above address.
+Consumers can have this information corrected by sending us e-mail at the above address. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau.
 
-[Back](https://web.archive.org/web/20101222033906id_/http%3A//mixmatters.com/index.html)
+[ ](https://web.archive.org/users/sign_up "register to win")
