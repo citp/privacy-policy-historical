@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hants.gov.uk privacy policy that was archived on 2010-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101209163732id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hants.gov.uk privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203094429id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <base href="http://www3.hants.gov.uk/">
@@ -13,17 +13,29 @@
 	<meta name="DC.Title" content="Privacy">
 	<meta name="DC.Subject" content="">
 	<meta name="DC.Description" content="">
-	<meta name="DC.Date" content="20-12-2010">
+	<meta name="DC.Date" content="03-12-2011">
 	<meta name="DC.Type" content="Web Publishing System">
-	<meta name="DC.Creator" content="Hampshire County Council. The Castle, Winchester, Hampshire SO23 8UJ; info.centres@hants.gov.uk">
-	<meta name="DC.Publisher" content="Hampshire County Council. The Castle, Winchester, Hampshire SO23 8UJ; info.centres@hants.gov.uk">
+	<meta name="DC.Creator" content="Hampshire County Council. The Castle, Winchester, Hampshire SO23 8UJ; info@hants.gov.uk">
+	<meta name="DC.Publisher" content="Hampshire County Council. The Castle, Winchester, Hampshire SO23 8UJ; info@hants.gov.uk">
 	<meta name="DC.Identifier" content="http://www3.hants.gov.uk/privacy.htm">
+	<meta name="hwebpid" content="115267">
 	
 	<script type="text/javascript" src="http://www.hants.gov.uk/ajax/libs/jquery/1.1.4/jquery.min.js"></script>
 	<!--  -->
 	<script type="text/javascript" src="http://www.hants.gov.uk/ajax/libs/cookie/1.0/jquery.cookie.min.js"></script>
 	<script type="text/javascript" src="http://www.hants.gov.uk/ajax/libs/json/2.2/jquery.json.min.js"></script>
-	<script type="text/javascript" src="http://www.hants.gov.uk/ajax/libs/hantsweblayout/1.0/hantsweblayout.min.js"></script>
+	<script type="text/javascript">
+	//<![CDATA[
+	var bolHantsdirect = (/(^|\;\s*)HANTSDIRECT(\;|\)|\s*$)/i).test(navigator.userAgent);
+	var bolLaganMedium = (/\/lagan(\/|$)/i).test(document.location.pathname);
+	var bolLagan = bolHantsdirect || bolLaganMedium;
+	var strMobileSwitchSrc = "http://www.hants.gov.uk/ajax/libs/mobileswitch/1.0/mobileswitch.min.js";
+	var strHantswebLayoutSrc = "http://www.hants.gov.uk/ajax/libs/hantsweblayout/1.0/hantsweblayout.min.js";
+	if(bolHantsdirect && !bolLaganMedium) document.write(unescape("%3Cscript src='lagan/laganswitch.js' type='text/javascript'%3E%3C/script%3E"));
+	if(strHantswebLayoutSrc && !bolLagan) document.write(unescape("%3Cscript src='" + strHantswebLayoutSrc + "' type='text/javascript'%3E%3C/script%3E"));
+	if(strMobileSwitchSrc && !bolLagan) document.write(unescape("%3Cscript src='" + strMobileSwitchSrc + "' type='text/javascript'%3E%3C/script%3E"));
+	//]]>
+	</script><script src="http://www.hants.gov.uk/ajax/libs/hantsweblayout/1.0/hantsweblayout.min.js" type="text/javascript"></script><script src="http://www.hants.gov.uk/ajax/libs/mobileswitch/1.0/mobileswitch.min.js" type="text/javascript"></script>
 	
 	
 	<!-- <script type="text/javascript" src=""></script> -->
@@ -31,9 +43,6 @@
 	
 	
 	<title>Privacy</title>
-<meta name="contactname" content="the Hantsweb Team">
-<meta name="contactlink" content="http://www3.hants.gov.uk/contactus/it-contacts">
-
 	<!--  -->
 	<link rel="stylesheet" type="text/css" href="hantsweb-core.css" id="corecss">
 	<link rel="stylesheet" type="text/css" href="hantsweb-core-print.css" media="print" id="corecssprint">
@@ -98,6 +107,7 @@
 				</div>
 				<!-- Search Google -->
 				<ul>
+					<li id="mobileswitchitem"><a rel="nofollow" id="mobileswitchlink" href="mobile/privacy.htm">Mobile <span class="tinytext">(beta)</span></a></li>
 					<li><a href="http://www.hants.gov.uk/" title="Hantsweb home">Hantsweb Home</a></li>
 					<li><a href="http://www3.hants.gov.uk/azindex" accesskey="3">A-Z Services</a></li>
 					<li><a href="http://www.hants.gov.uk/contactus/">Contact us</a></li>
@@ -147,17 +157,11 @@
 	
 	<ul>
 
-		
+		<ul>
 	
-		
+		<ul>
 	
-			
-		
-			
-		
-			
-		
-		
+		<ul>
 	
 			<li><a href="copyrite.htm">Copyright</a></li>
 		
@@ -165,107 +169,51 @@
 		
 			<li><span>Privacy</span></li>
 		
+			<li><a href="advertising.htm">Advertising</a></li>
 		
+		</ul>
 	
-			<li><a href="abouthnt.htm">About Hampshire</a></li>
-		
 		
 	
 		
 	
 	</ul>
 
-					</div>
+					</ul></ul></div>
 					<div id="pageinfowrapper" class="pageinfowrapper">
 						<div id="pageinfo" class="pageinfo">
 							
-							<h1>Privacy Statement</h1>
+							<h1>Privacy and Cookie policy statement</h1>
 <h2>What it covers</h2>
-<p>This policy covers the use of personally identifiable information that 
-Hampshire County Council collects 
-when you visit Hantsweb <a href="http://www.hants.gov.uk/">www.hants.gov.uk</a>.</p><h2>Information 
-collection</h2><p>Hampshire County Council collects and analyses 
-visitor information. However this does not involve collecting personal data and is used to improve the 
-user experience and to measure the number of visitors to our site.</p><p>Hampshire 
-County Council may ask you to submit personal information – for example your name, your postcode and 
-email address.  </p><p>Hampshire County Council does not store this information 
-on its own servers. </p><p>Rather; during the course of a visit 
-to <a href="http://www.hants.gov.uk/">www.hants.gov.uk</a>, a file called a '<a href="privacy#cookie">cookie</a>' 
-may be created on  your computer. If you visit us again, this cookie will mean that you will not need to tell us again 
-information you’ve already provided.  Cookies help us provide you with a better user experience by personalising your visit. By recording 
-details such as your home postcode we can further customise your view of Hantsweb to show local services, 
-news and events.</p><h2>Information use</h2>
-<p>Where you voluntarily choose to give us your personal details the personal 
-data you provide Hampshire County Council will be used exclusively for providing you with the information 
-or service you have requested.</p><p>In some cases we may invite 
-you to sign up for additional services at the same time (for example, a regular mailing list): you can 
-choose not to accept this invitation.</p><h2>Information Sharing 
-and Disclosure</h2>
-<p>Hampshire County Council will only send personally identifiable information 
-about you to other organisations when we have your consent. We will only pass information on  in order to provide the  information or service you have requested or if we are required to by law.</p><h2>Data 
-Protection</h2><p>When you supply personal information to Hampshire 
-County Council we have a legal obligation to you in how we protect and use that information. We must, 
-for example, tell you when we are collecting such data and why, and if we intend to pass this information 
-on to a third party. You must give us your permission if you wish us to pass your details on to a third 
-party partner.</p><p>You have the legal right to request a copy 
-of any information that we hold about you.</p><p>For further information 
-on the Data Protection Act 1998, subject access request forms and contacting the Data Protection Officer, 
-please see the <a href="service826">Hampshire County Council Data Protection pages</a>.</p><h2>Security:</h2><p>While 
-we strive to keep the information that you supply secure, please 
-be aware that the Internet is not a fully secure medium. We use <a href="privacy#secure">secure servers</a> for 
-collecting sensitive information.</p>
-<h4>By using our site you agree to accept this privacy policy and are 
-aware 
-that our policy may change with time. Any changes to this policy will appear on this web page.</h4><h2><br>Summary 
-of terms</h2><h3><a name="cookie"></a><strong>What 
-is a cookie?</strong></h3><p>A cookie is a small amount of text, with 
-a variety of uses such as storing login information, holding the contents of a “shopping basket” on 
-an e-commerce site, or for recording that you have visited a site previously. Websites can only access 
-the cookies that they have previously sent to you, and not other sites’ cookies.</p><p>Cookies 
-are also used to hold preferences for a site that a user has previously selected, such as font size 
-or other aspects of the appearance or layout of a web site. </p><p>There 
-are many misconceptions about cookies – that they carry viruses, that they are a type of Spyware (i.e. 
-they can read personal information on your computer) and that they are only used by advertising companies. 
-In reality, cookies are merely pieces of text and cannot carry out any malicious activity on a computer. 
-However, they are used by some websites to collect anonymous data about user to create a profile which 
-can be used for analysing site usage patterns and for targeted marketing of adverts on a web site. This 
-latter example is known as a third-party cookie.</p><p>Most current 
-web browsers support the use of cookies but users can select whether to accept them or not. Increasingly 
-it is possible to be selective about the activity of cookies (i.e. whether to only allow them from the 
-originating site and not from third parties), to only allow cookies during the active browsing session 
-(i.e. so that the cookies expire when the browser is closed and are not stored on the computer). You 
-can still browse Hantsweb if you have chosen to reject cookies.</p><strong>How 
-to reject cookies</strong><strong><h4>Internet Explorer</h4> 
-</strong><ul><li><p><strong>v.5.0 or 5.5<br></strong>Tools&gt;Internet 
-Options&gt;Security&gt;Custom Level&gt;scroll down to select Accept/Disable/Prompt for cookies as required</p></li><li><p><strong>V.6 
-onwards<br></strong>Tools&gt;Internet Options&gt;Privacy&gt;Advanced&gt;tick “override automatic 
-cookie handling” box and then select Accept/Disable/Prompt for cookies as required</p></li></ul><h4><strong>Netscape</strong></h4><ul><li><p><strong>V.6 
-onwards<br></strong>Edit&gt;Preferences&gt;Privacy and Security&gt;Cookies&gt; select Disable/Enable 
-cookies for the originating site only/Enable all cookies as required</p></li></ul><h4><strong>Firefox</strong></h4><ul><li><p><strong>V1.5<br></strong>Tools&gt;Options&gt;Privacy&gt;un-tick 
-the “allow sites to set Cookies” box</p></li><li><p><strong>V2.x<br></strong>Tools&gt;Options&gt;Privacy&gt;un-tick 
-the “Accept cookies from sites” box</p></li></ul><h4><strong>Opera</strong></h4><ul><li><p><strong>V.6<br></strong>Tools&gt;Preferences&gt;Privacy&gt;Uncheck 
-the “Enable Cookies” box</p></li><li><p><strong>V.8 onwards<br></strong>Tools/Preferences&gt;Advanced&gt;Cookies&gt;choose 
-to "never accept" or “refuse all" cookies (dependant on version).</p></li></ul><h4><a name="browser"></a>Browser</h4><p>Used 
-to locate and display Web pages via a software application. The 
-most popular ones are Netscape Navigator and Microsoft Internet Explorer.</p>
-<h4>IP (Internet Protocol)</h4>
-<p>All networks connected to the internet speak IP, the technical standard 
-which allows data to be transmitted between two devices. TCP/IP (Transmission Control Protocol/Internet 
-Protocol) is responsible for making sure messages get from one host to another and that the messages 
-are understood.</p>
-<h4>IP address</h4>
-<p>If you are connected to the Internet you have one, for example it may 
-look something like this 198.184.98.9</p>
-<h4><a name="secure"></a>Secure Server</h4>
-<p>This allows information to be sent 'securely' by encrypting the information 
-you send. HTTPS (Hypertext Transfer Protocol over Secure Socket Layer, or HTTP over SSL) is a facility 
-built into a browser that encrypts and decrypts user page requests as well as the pages that are returned 
-by the Web server.</p>
-<h4>Web Server</h4>
-<p>Delivers (serves up) web pages to your computer.</p>
+<p>This policy covers the use of personally identifiable information that Hampshire County Council collects when you visit Hantsweb <a href="http://www.hants.gov.uk/">www.hants.gov.uk</a>.</p>
+<h2>Cookies</h2>
+<p>When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.</p>
+<p>These pieces of information are used to improve services for you through, for example:</p>
+<ul><li><p>enabling a service to recognise your device so you don’t have to give the same information several times during one task </p></li>
+<li><p>recognising that you may already have given a username and password so you don’t need to do it for every web page requested </p></li>
+<li><p>measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast </p></li></ul>
+<p>You can manage these small files yourself and learn more about them through Internet browser cookies – what they are and how to manage them</p>
+<h3>Our use of cookies</h3>
+<p><strong>Cookies for improving service</strong></p>
+<p>Google Analytics sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.</p>
+<p>Hantsweb uses cookies for collecting non-personal user information from the site. Hantsweb does not collect any information about you except that required for system administration of the website.</p>
+<p>Cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are stored in the cookie directory of your hard drive, and do not expire at the end of your session. Cookies do not contain any personal information about you and cannot be used to identify an individual user. If you choose not to accept the cookie, this will not affect your access to the majority of facilities available on our website.</p>
+<p>Although your browser may be set up to allow the creation of cookies, you can specify that you be prompted before a site puts a cookie on your hard disk, so that you can decide whether to allow or disallow the cookie. Alternatively, you can set your computer not to accept any cookie.</p>
+<p>This site uses Google Analytics code to gather statistical information. For more information on how Google Analytics processes this information, visit www.google.com/analytics.</p>
+<h2>Information use</h2>
+<p>Where you voluntarily choose to give us your personal details the personal data you provide Hampshire County Council will be used exclusively for providing you with the information or service you have requested.</p>
+<p>In some cases we may invite you to sign up for additional services at the same time (for example, a regular mailing list): you can choose not to accept this invitation.</p>
+<h2>Information Sharing and Disclosure</h2>
+<p>Hampshire County Council will only send personally identifiable information about you to other organisations when we have your consent. We will only pass information on in order to provide the information or service you have requested or if we are required to by law.</p>
+<h2>Data Protection</h2>
+<p>When you supply personal information to Hampshire County Council we have a legal obligation to you in how we protect and use that information. We must, for example, tell you when we are collecting such data and why, and if we intend to pass this information on to a third party. You must give us your permission if you wish us to pass your details on to a third party partner.</p>
+<p>You have the legal right to request a copy of any information that we hold about you.</p>
+<p>For further information on the Data Protection Act 1998, subject access request forms and contacting the Data Protection Officer, please see the <a href="service826">Hampshire County Council Data Protection pages</a>.</p>
+<h2>Security:</h2>
+<p>While we strive to keep the information that you supply secure, please be aware that the Internet is not a fully secure medium. We use secure servers for collecting sensitive information.</p>
+<h4>By using our site you agree to accept this privacy policy and are aware that our policy may change with time. Any changes to this policy will appear on this web page.</h4><p></p>
 <h4>Trademark and Copyright Information</h4>
-<p>Hantsweb is a Registered® Trademark. Please read our Copyright Statement 
-for more information.</p>
+<p>Hantsweb is a Registered® Trademark. Please read our Copyright Statement for more information.</p>
 
 
 							
@@ -295,9 +243,13 @@ for more information.</p>
 	<div id="addThis" class="addthis_toolbox addthis_default_style">
 		<script type="text/javascript">
 		//<![CDATA[
-		var gaJsHost2 = (("https:" == document.location.protocol) ? "https://" : "http://");
+		try
+		{
+			var gaJsHost2 = (("https:" == document.location.protocol) ? "https://" : "http://");
+		}
+		catch(e){};
 		
-		if(gaJsHost2 == 'http://')
+		if(gaJsHost2 == 'http://' && !bolLagan)
 		{
 			document.write(unescape('%3Ca href="' + gaJsHost2 + 'www.addthis.com/bookmark.php?v=250&amp;pub=hccaddthis" class="addthis_button_compact"%3EShare%3C/a%3E'));
 			document.write(unescape('%3Cspan class="addthis_separator"%3E|%3C/span%3E'));
@@ -312,8 +264,7 @@ for more information.</p>
 		</script>
 		
 <script type="text/javascript">
-<!--
-//<![CDATA[
+/* <![CDATA[ */
 var escapedHash = "";
 
 $(function()
@@ -336,47 +287,120 @@ $(function()
 	if(bookmarked) alert("The page has been added to your myHantsweb bookmarks.");
 	*/
 	
-	if(location.hash) escapedHash = escape(location.hash);
-	
-	$("a#myinfo-add").click(function()
+	try
 	{
+		if(location.hash) escapedHash = encodeURIComponent(location.hash);
+	}
+	catch(e){};
+	
+	$("a.myinfo-add").click(function()
+	{
+		var bolPrintList = $(this).attr("class").split(" ")[1] == "printlist-add" ? true : false;
+		$a = $(this);
+		var objParams = {};
+		var arrParams = ($a.attr("href").split("?")[1]).split("&");
+		var arrParam;
+		for(var i = 0; i < arrParams.length; i++)
+		{
+			if(arrParams[i])
+			{
+				arrParam = arrParams[i].split("=");
+				if(arrParam[0] && arrParam[1]) objParams[arrParam[0]] = unescape(arrParam[1]).replace(/\%3A/g, ":");
+			}
+		}
+		// Debugging
+		/*
+		var strParams = "";
+		for(var prop in objParams)
+		{
+			strParams += prop + ": " + objParams[prop] + "\n";
+		}
+		alert(strParams);
+		*/
+		var strBookmarkTitle = objParams.bookmarkTitle ? objParams.bookmarkTitle : objParams.title;
+		var strType = objParams.type ? objParams.type.toUpperCase() : "I";
 		$.get
 		(
-			"addtomyinfo",
+			(bolPrintList ? "addtoprintlist" : "addtomyinfo"),
 			{
-				id	: "115267",
-			 	url	: "http%3A//www3.hants.gov.uk/privacy",
-			 	query	: "" + location.hash,
-			 	title	: "Privacy",
-				ajax	: "yes"
+				id : objParams.id,
+			 	url : objParams.url,
+			 	query : objParams.query + location.hash,
+			 	title : objParams.title,
+				bookmarkTitle :	strBookmarkTitle,
+				type : strType,
+				ajax : "yes"
 			},
 			function(data)
 			{
-				if(parseInt(data)){
-					renderMsg("Bookmark Added!");
-				}else{
-					redirectTo("myhantswebredirectnossl?target=login&returnUrl=http%3A//www3.hants.gov.uk/privacy" + escapedHash + "&returnPageName=Privacy&infoType=I&infoParams=" + escapedHash + "&infoId=115267&bookmark=yes");	
+				if(parseInt(data))
+				{
+					// Debugging
+					/*
+					var strObject = "";
+					for(var prop in $a[0])
+					{
+						strObject += prop + ": " + $a[0][prop] + "\n";
+					}
+					alert(strObject);
+					*/
+					renderMsg(bolPrintList ? (strType == "E" ? 'Link' : 'Page') + " added to print list!" : "Bookmark added!", $a, bolPrintList);
+				}
+				else if(bolPrintList && data && data.split("::")[0] == "null")
+				{
+					renderMsg('You arleady have ' + data.split("::")[1]
+					          + ' ' + (strType == "E" ? 'links' : 'pages') + ' in your print list: '
+							  + '<a href="createbooklet.htm">manage print list and print</a>?',
+							  //+ (bolLagan ? '<a href="createbooklet.htm?preview=yes">manage print list and print</a>' : '<a href="createbooklet.htm">manage print list and print</a>?'),
+							  $a,
+							  bolPrintList,
+							  60000);
+				}
+				else if(!bolPrintList)
+				{
+					strBookmarkTitle = strBookmarkTitle ? "&bookmarkTitle=" + encodeURIComponent(strBookmarkTitle) : "";
+					redirectTo("myhantswebredirectnossl?target=login&returnUrl=" + encodeURIComponent(objParams.url) + escapedHash
+					           + "&returnPageName=" + encodeURIComponent(objParams.title)
+							   + "&infoType=" + encodeURIComponent(strType) + "&infoParams=" + encodeURIComponent(objParams.query) + escapedHash
+							   + "&infoId=" + encodeURIComponent(objParams.id)  + strBookmarkTitle + "&bookmark=yes");	
 				}
 			}
 		);
 		return false;
 	});
 	
-	function renderMsg(msg){
-		$('span#addedOkay').attr('style','padding:5px;background:#ffffcc;font-weight:bold;display:block;position:absolute;top:-20px;left:60px;');
-		$('span#addedOkay').html(msg);
-		$('span#addedOkay').fadeOut(4000, function(){
-					$('span#addedOkay').removeAttr('style');
-					$('span#addedOkay').html('');
-					$('span#addedOkay').hide();
-				});
+	function renderMsg(msg, $a, _printList, _speed)
+	{
+		var strPrintList  = _printList ? "ToPrintList" : "";
+		var strLeftPos  = _printList ? "40px" : "60px";
+		var bolInLaganFooter = false;
+		try
+		{
+			bolInLaganFooter = (_printList && bolLagan && $a.parent().parent().parent().attr("id") == "footer");
+		}
+		catch(e){};
+		var intSpeed = _speed === undefined ? 4000 : _speed;
+		var $msg = bolInLaganFooter ? $a.parent().parent().find("span.addedToPrintListOkay") : $a.next('span.added' + strPrintList + 'Okay');
+		$msg.addClass("activeMsg");
+		$msg.html(msg);
+		$msg.fadeOut(intSpeed, function()
+		{
+			$msg.removeClass("activeMsg");
+			$msg.html('');
+			$msg.hide();
+		});
 	}
 });
-//]]>
-//-->
+/* ]]> */
 </script>
-<a id="myinfo-add" rel="nofollow" href="addtomyinfo?id=115267&amp;url=http%253A%2f%2fwww3.hants.gov.uk%2fprivacy&amp;query=&amp;title=Privacy"><img src="ico-add-my-info.png" width="16" height="16" alt="Add to myHantsweb Information" id="myhantsweb-icon" title="Add to myHantsweb Information" style="vertical-align:middle;"></a>
-<span id="addedOkay"></span>
+
+<a class="myinfo-add myhantsweb-button" rel="nofollow" href="addtomyinfo?id=115267&amp;url=http%253A%2f%2fwww3.hants.gov.uk%2fprivacy.html&amp;query=&amp;type=I&amp;title=Privacy&amp;bookmarkTitle=Privacy"><img src="ico-add-my-info.png" width="16" height="16" alt="Add to myHantsweb Information" class="myhantsweb-icon" title="Add to myHantsweb Information" style="vertical-align:middle;"></a>
+<span class="addedOkay myhantsweb-button"></span>
+<span class="printlist-container">
+	<a class="myinfo-add printlist-add" rel="nofollow" href="addtoprintlist?id=115267&amp;url=http%253A%2f%2fwww3.hants.gov.uk%2fprivacy.html&amp;query=&amp;type=I&amp;title=Privacy&amp;bookmarkTitle=Privacy"><img src="page_white_add.png" width="16" height="16" alt="add to booklet" class="vertimg" title="Add to Booklet"></a>
+	<span class="addedToPrintListOkay"></span>
+</span>
+<a href="createbooklet.htm"><img src="managemybooklet.png" width="19" height="16" alt="Manage Booklet" class="vertimg" id="printlist-manage" title="Manage Booklet"></a>
 	</div>
 	<!-- AddThis Button END -->
 	
@@ -392,12 +416,12 @@ $(function()
 			<ul>
 				<li><a href="http://www3.hants.gov.uk/help/">Accessibility options</a>&nbsp; &nbsp;|</li>
 				<li><a href="http://www.hants.gov.uk/disclaimer.html" accesskey="8">Disclaimer</a>&nbsp; &nbsp;|</li>
-				<li><a href="http://www.hants.gov.uk/privacy.html">Privacy</a>&nbsp; &nbsp;|</li>
+				<li><a href="http://www3.hants.gov.uk/privacy.html">Privacy &amp; Cookies</a>&nbsp; &nbsp;|</li>
 				<li><a href="http://www.hants.gov.uk/hantsweb/outages.html">Service availability</a>&nbsp; &nbsp;|</li>
 				<li><a href="contactus/call-charges.htm">Call charges</a></li>
 			</ul>
-			<p>Hampshire County Council, The Castle, Winchester, Hampshire, SO23 8ZB
-			<br> This page was last updated by <a href="http://www3.hants.gov.uk/contactus/it-contacts">the Hantsweb Team</a> on 21 August 2007. © Copyright Hampshire County Council 2010.</p>	
+			<p>Hampshire County Council, The Castle, Winchester, Hampshire, SO23 8UJ<br>
+			This page was last updated  on 22 August 2011. © Copyright Hampshire County Council 2011.</p>	
 		</div>
 		<!-- end muscat ignore -->
 	</div>
@@ -419,10 +443,10 @@ if (document.getElementsByTagName) {
 	                        var path = hrefs[l].pathname + hrefs[l].search;
 							var isDoc = path.match(/\.(?:doc|eps|jpg|png|svg|xls|ppt|pdf|xls|zip|txt|vsd|vxd|js|css|rar|exe|wma|mov|avi|wmv|mp3)($|\&|\?)/);
 	                        if (isDoc) {
-	                                //startListening(hrefs[l],"click",trackExternalLinks);
+	                                startListening(hrefs[l],"click",trackExternalLinks);
 	                        }
 	                } else {
-	                        //startListening(hrefs[l],"click",trackExternalLinks);
+	                        startListening(hrefs[l],"click",trackExternalLinks);
 	                }
 			}
 			catch(e){
@@ -459,8 +483,12 @@ function trackExternalLinks (evnt) {
 </script>
 <script type="text/javascript">
 //<![CDATA[
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+try
+{
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+}
+catch(e){};
 //]]>
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
