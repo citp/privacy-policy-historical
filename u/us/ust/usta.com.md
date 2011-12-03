@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520232614id_/http%3A//www.usta.com/About-USTA/Organization/Information/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203032359id_/http%3A//www.usta.com/About-USTA/Organization/Information/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | USTA
 
