@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyprofitstrategies.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524145313id_/http%3A//www.easyprofitstrategies.com/step-by-step/privacy_policy_eps.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyprofitstrategies.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203012519id_/http%3A//www.easyprofitstrategies.com/step-by-step/privacy_policy_eps.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
