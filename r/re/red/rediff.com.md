@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rediff.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628075050id_/http%3A//www.rediff.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rediff.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203150726id_/http%3A//www.rediff.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Welcome to rediff.com
 
 |  Rediff.com India Limited and its subsidiaries ("Rediff.com") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Rediff.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Rediff.com you agree to the collection and use of your data by Rediff.com in the manner provided in this Privacy Policy. 
 
-If you have questions or concerns regarding this statement, you should contact Rediff.com Customer Support Desk at [customersupport@rediff.co.in](mailto:customersupport@rediff.co.in) or call on +91 222-444-9144. 
+If you have questions or concerns regarding this statement, you should contact Rediff.com Customer Support Desk at [customersupport@rediff.co.in](mailto:customersupport@rediff.co.in) or call on +91 22-61820000. 
 
 The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Rediff.com or to the people that are not engaged, employed or managed by Rediff.com 
 
@@ -144,10 +144,10 @@ Supplying personally identifiable information is entirely voluntary. You are not
 You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Rediff.com reserves the right to send you certain service related communication, considered to be a part of your rediff account without offering you the facility to opt-out. You may update your information and change your account settings at any time. 
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [customersupport@rediff.co.in](mailto:customersupport@rediff.co.in), or  
-you may contact us at +91-222-444-9144 or   
+you may contact us at +91-22-61820000 or   
 Rediff.com India Limited, Mahalaxmi Engineering Estate, L J First Cross Road, Mahim(West), Mumbai - 400016 to opt-out. 
 
-We provide you the opportunity to 'opt-out' of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference, follow the instructions included in each newsletter or communication or by emailing us at [customersupport@rediff.co.in](mailto:customersupport@rediff.co.in) or you may contact us at +91 222 444 9144 or write to Rediff.com India Limited, Mahalaxmi Engineering Estate, L. J. First Cross Road, Mahim (West), Mumbai 400 016 to opt-out. 
+We provide you the opportunity to 'opt-out' of having your email address used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference, follow the instructions included in each newsletter or communication or by emailing us at [customersupport@rediff.co.in](mailto:customersupport@rediff.co.in) or you may contact us at +91 22 61820000 or write to Rediff.com India Limited, Mahalaxmi Engineering Estate, L. J. First Cross Road, Mahim (West), Mumbai 400 016 to opt-out. 
 
 Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. 
 
@@ -192,7 +192,7 @@ If you have any questions about security on our Web site, you can send email us 
 To correct or update any information you have provided, our sites allow you to do it online. In the event of loss of access details you can use any of the following options: 
 
   * Send an e-mail to [customersupport@rediff.co.in](mailto:customersupport@rediff.co.in)
-  * Call the following telephone number: +91 (22) 2444 9144 
+  * Call the following telephone number: +91 (22) 61820000 
 
 **POLICY UPDATES**
 
@@ -214,6 +214,6 @@ L. J. First Cross Road
 Mahim (West)  
 Mumbai 400 016  
 INDIA  
-Tel: +91 222 444 9144  
+Tel: +91 22 61820000  
 Fax: +91 222 445 5346  
 Email id: [customersupport@rediff.co.in](mailto:customersupport@rediff.co.in)
