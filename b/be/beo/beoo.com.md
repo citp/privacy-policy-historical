@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beoo.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508141410id_/http%3A//www.beoo.com/page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beoo.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203095256id_/http%3A//www.beoo.com/page/privacy) for the most accurate reproduction.*
 
 # Beoo.com | Privacy Policy
 
@@ -70,7 +70,7 @@ This online privacy policy applies only to information collected through our web
 ### Terms and Conditions
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at   
-<http://www.beoo.com/page/terms-of-use>
+<http://www.beoo.com/page/terms>
 
 ### Your Consent
 
@@ -88,3 +88,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 beoo.com  
 privacy@beoo.com
+
+Loading..
