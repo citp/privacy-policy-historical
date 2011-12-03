@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vistapatioumbrellas.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231213445id_/http%3A//www.vistapatioumbrellas.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistapatioumbrellas.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203051449id_/http%3A//www.vistapatioumbrellas.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy
 
 VistaPatioUmbrellas is committed to respecting the privacy rights of our customers and all visitors to our web site. We take this matter very seriously, and have instituted many policies and procedures to insure that none of your privacy rights as stated herein are ever violated. The following outlines VistaPatioUmbrellas's privacy policy and details the measures we have taken to safeguard and protect your privacy, while providing you with a unique and rewarding online shopping experience. By visiting VistaPatioUmbrellas.com, you are agreeing to the policies detailed below. 
 
@@ -63,6 +61,5 @@ Your consent
 You acknowledge that this privacy policy is part of the terms of service and you agree that using this site signifies your assent to VistaPatioUmbrellas's privacy policy. VistaPatioUmbrellas reserves the right to change the terms of service, including this privacy policy, at any time, without advanced notice. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
 **Tell us what you think**  
-If you have any comments or questions about VistaPatioUmbrellas's privacy statement, please e-mail us at [info[@]VistaPatioUmbrellas.com](mailto:info@VistaPatioUmbrellas.com "info@VistaPatioUmbrellas.com")
+If you have any comments or questions about VistaPatioUmbrellas's privacy statement, please e-mail us at [info[@]VistaPatioUmbrellas.com](mailto:info@VistaPatioUmbrellas.com "info@VistaPatioUmbrellas.com")  
 
-VistaPatioUmbrellas.com is a division of Vista Stores. © 2010 - Vista Stores. All rights reserved.
