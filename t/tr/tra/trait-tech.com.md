@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trait-tech.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605155442id_/http%3A//www.trait-tech.com/about/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trait-tech.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203224320id_/http%3A//www.trait-tech.com/about/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy notice - Trait Tech - Wholesale Electronics - China Wholesale - Dropship From China
 
@@ -38,3 +38,7 @@ When you visit our website, we do not collect personally identifiable informatio
 ### UPDATES TO THIS POLICY
 
 If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us.
+
+You can find all contact details at the "[Contact us](https://web.archive.org/about/contact.html)" page or you can leave us a message.
+
+**Fill in the flowing informations ******
