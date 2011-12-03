@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmu.edu privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626031134id_/http%3A//webdev.gmu.edu/Internet_Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmu.edu privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203105344id_/http%3A//webdev.gmu.edu/Internet_Privacy) for the most accurate reproduction.*
 
 # Internet Privacy - Web Development
 
