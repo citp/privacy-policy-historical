@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215134148id_/http%3A//www.visitdublin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203065211id_/http%3A//www.visitdublin.com/StaticPage/Privacy) for the most accurate reproduction.*
 
-# Dublin Tourism - Privacy
+# Dublin Tourism - Dublin Tourism - Official Tourist Information Dublin Hotels and Car Hire
 
 **This privacy statement covers the entire family of Dublin Tourism web sites (visitdublin.com, dublingifts.com, dublinpass.ie, malahidecastle.com, writersmuseum.com, visitdublin.com/trade) and has been prepared in compliance with the Data Protection Acts of 1998 & 2003.**
 
@@ -12,7 +12,7 @@ Dublin Tourism may disclose personal information to our agents for the purpose o
 
 Users have a right to request access to any information about them that is stored by Dublin Tourism. Requests for access must be made in writing to Dublin Tourism at the address above. Dublin Tourism reserves the right to charge an administrative fee of €6.35 for this service.
 
-You have a right to request that any personal information stored by us be corrected or erased. With the exception of email mailing list data, all such requests should be made in writing to Dublin Tourism at the address above. To amend or erase email address information from our email mailing list, please visit the following URL: [http://www.visitdublin.com/newsfromdublin/](https://web.archive.org/web/20101215134148id_/http://newsfromdublin/) and use the form provided.
+You have a right to request that any personal information stored by us be corrected or erased. With the exception of email mailing list data, all such requests should be made in writing to Dublin Tourism at the address above. To amend or erase email address information from our email mailing list, please visit the following URL: <http://www.visitdublin.com/newsfromdublin/> and use the form provided.
 
 Dublin Tourism uses cookies to provide advertising services, track customers being referred by affiliate sites and provide functionality for sales services in some areas of the site. Visitors may refuse to accept cookies; however, this may mean that some services are not available to them.
 
