@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204062139id_/http%3A//www.merrillcorp.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203205311id_/http%3A//www.merrillcorp.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Merrill Corporation
 
@@ -67,7 +67,7 @@ If you are visiting this Web site from a country other than the country in which
 By visiting this Web site and communicating electronically with us, you consent to the processing and transfer of your data as set out in this privacy statement.
 
 **Governing law**  
-This Privacy Statement forms part of our _Web site  [ _Terms of Use_](https://web.archive.org/web/20101204062139id_/http%3A//www.merrillcorp.com/terms-of-use.htm)_ __ and as such shall be governed by and construed in accordance with the laws of the State of Minnesota, United States without regard to any conflict of laws provisions.
+This Privacy Statement forms part of our _Web site  [ _Terms of Use_](https://web.archive.org/web/20111203205311id_/http%3A//www.merrillcorp.com/terms-of-use.htm)_ __ and as such shall be governed by and construed in accordance with the laws of the State of Minnesota, United States without regard to any conflict of laws provisions.
 
 **Contact us; mail unsubscribe**  
 If you no longer wish to receive electronic mail, please reply to the e-mail with the word “remove” in the subject heading, or, by writing to us at: Merrill Corporation, One Merrill Circle, St. Paul, MN 55108, Attn: Opt-Out List Master
