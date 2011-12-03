@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shopadidas.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206182526id_/http%3A//www.shopadidas.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopadidas.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203125429id_/http%3A//www.shopadidas.com/content/privacypolicies) for the most accurate reproduction.*
 
-# adidas - Help Desk -
+# adidas - Help Desk
 
-Privacy Policy
+**Privacy Policy**
 
-adidas takes the security and privacy of you personal information very seriously. We will not trade, sell, or rent your personally identifiable information. For a complete review of shopadidas.com's privacy practices please **click here (or read below)**.
+adidas takes the security and privacy of your personal information very seriously. We will not trade, sell, or rent your personally identifiable information. For a complete review of shopadidas.com's privacy practices please **click here (or read below)**.
 
 **Shopadidas.com Privacy Policy**
 
