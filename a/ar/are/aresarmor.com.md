@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aresarmor.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625003826id_/http%3A//aresarmor.com/install/index.php%3Fapp%3Dcms%26ns%3Ddisplay%26ref%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aresarmor.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203230324id_/http%3A//www.aresarmor.com/install/index.php%3Fapp%3Dcms%26ns%3Ddisplay%26ref%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Information
 
