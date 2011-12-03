@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623064553id_/http%3A//stlyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203065712id_/http%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
 
 # SoundTrack Lyrics Source #1. Privacy
 
@@ -46,4 +46,4 @@ The copyright law of the United States (Title 17, U.S. Code) governs the making 
 or other reproduction. One of these specified conditions is that the photocopy or reproduction is not to be "used for any purpose other than private study, scholarship, or research." If a user makes a request for, or later uses, a photocopy or reproduction for purposes in excess of "fair use," that user may be liable for copyright infringement. 
 
 **Contacting the Web Site  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20110623064553id_/http%3A//stlyrics.com/contact.htm).
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20111203065712id_/http%3A//www.stlyrics.com/contact.htm).
