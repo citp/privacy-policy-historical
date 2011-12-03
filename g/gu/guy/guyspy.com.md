@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307110756id_/http%3A//www.guyspy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guyspy.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203064111id_/http%3A//www.guyspy.com/privacy) for the most accurate reproduction.*
 
 # Privacy | GuySpy
 
