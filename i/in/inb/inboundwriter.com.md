@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inboundwriter.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521011826id_/http%3A//www.inboundwriter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundwriter.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203031841id_/http%3A//www.inboundwriter.com/privacy) for the most accurate reproduction.*
 
-# Default Title
+# InboundWriter: Privacy Policy
 
 Eightfold Logic Privacy Policy - Effective May 19, 2009
 
