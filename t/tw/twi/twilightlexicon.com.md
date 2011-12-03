@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twilightlexicon.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523010000id_/http%3A//www.twilightlexicon.com%3Fpage_id%3D2228) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilightlexicon.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203100303id_/http%3A//www.twilightlexicon.com/administration/privacy-policy) for the most accurate reproduction.*
 
-# Twilight Lexicon » Privacy Policy
+# Privacy Policy | Twilight Lexicon
 
 Privacy Policy for Twilightlexicon.com, Twilightlexiconforum.com and twilightlexicon.com
 
@@ -17,3 +17,7 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements on Twilightlexicon.com, Twilightlexiconforum.com and twilightlexicon.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into accounts.
+
+NAI Opt Out of Behavioral Advertising
+
+The NAI Opt-out Tool was developed in conjunction with our members for the express purpose of allowing consumers to “opt out” of the behavioral advertising delivered by our member companies. Please click here for further information: [NAI Opt Out of Behavioral Advertising](http://www.networkadvertising.org/managing/opt_out.asp "NAI Opt Out of Behavioral Advertising")
