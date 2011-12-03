@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interspire.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522031121id_/http%3A//www.interspire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interspire.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203191728id_/http%3A//www.interspire.com/privacy.php) for the most accurate reproduction.*
 
 # Interspire - Privacy Policy
 
@@ -12,4 +12,4 @@ With respect to Ad Servers: We do not partner with or have special relationships
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us via email at [help@interspire.com](mailto:help@interspire.com) or by mail at Level 9, 162-166 Goulburn St Sydney 2000 NSW Australia.
+If you feel that this site is not following its stated information policy, you may contact us via email at [help@interspire.com](mailto:help@interspire.com) or by mail at Level 4, 91 Reservoir St Surry Hills 2010 NSW Australia.
