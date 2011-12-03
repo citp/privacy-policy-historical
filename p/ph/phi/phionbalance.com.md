@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phionbalance.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603214338id_/http%3A//www.phionbalance.com/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phionbalance.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203230618id_/http%3A//www.phionbalance.com/your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy of pHion, Scottsdale (AZ)
 
