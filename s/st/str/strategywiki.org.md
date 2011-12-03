@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strategywiki.org privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520031211id_/http%3A//strategywiki.org/wiki/StrategyWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategywiki.org privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203140523id_/http%3A//strategywiki.org/wiki/StrategyWiki%3APrivacy_policy) for the most accurate reproduction.*
 
-# StrategyWiki:Privacy policy — StrategyWiki, the free strategy guide and walkthrough wiki
+# StrategyWiki:Privacy policy — StrategyWiki, the video game walkthrough and strategy guide wiki
 
 [](https://web.archive.org/wiki/File:Stop_orange_icon.png "This is a proposed policy. It is not yet binding.")Proposed!
 
