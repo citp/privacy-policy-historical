@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofish.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202031617id_/http%3A//gofish.com/games/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofish.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203132702id_/http%3A//gofish.com/games/info/privacy.html) for the most accurate reproduction.*
 
 # GoFish.com: Privacy Policy
 
