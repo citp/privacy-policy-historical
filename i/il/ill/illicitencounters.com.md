@@ -1,25 +1,6 @@
-> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605014621id_/http%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illicitencounters.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203203127id_/http%3A//www.illicitencounters.com/help/faq/id/3) for the most accurate reproduction.*
 
 # Recommended Site - Married Dating UK - Illicit Encounters® - Extra marital affairs and dating
-
-  * **Free Registration**
-  * **Free Profile**
-  * **Free Search**
-  * **Free Profile Matching**
-
-  
-
-
-I just wanted to say thank you after meeting a couple of nice men I met a very special one. Instant attraction for both of us physically and mentally, we met for 5 times and meeting again tomorrow I can't wait.
-
-Member ***153
-
-[More testimonials](https://web.archive.org/testimonials) ...
-
-  
-
-
-* * *
 
 ## What is your Privacy Policy?
 
@@ -54,5 +35,4 @@ Data Quality/Access : Users can change any information provided by using the "Mo
 Contacting the Web Site : If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please do not hesitate to contact us.  
 
 
-There are 90 registered users online  
-
+[Back]()
