@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tikilive.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202063527id_/http%3A//www.tikilive.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tikilive.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203035603id_/http%3A//www.tikilive.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,23 +68,9 @@ You must promptly notify us if your user account ID, or password is or you have 
 
 For your convenience, Eyepartner contains links to other third party websites. We do not endorse and are not responsible for the privacy practices or the content of such websites. If you choose to link to third party websites, you should review the Privacy Policy posted on this other website in order to understand how the third party collects and uses your Personal Information. 
 
-Please understand that any information that is disclosed in chat rooms, forums, message boards and news group areas on Eyepartner becomes public information. We have no control over the use of such information and you should exercise caution when deciding to disclose your Personal Information on these areas of Eyepartner. Further, it is up to you to take precautions to ensure that whatever links you select or software you download is free of such items as viruses, worms, Trojan horses, date or time bombs and other items of a destructive nature.
-
-**3.4 California Privacy Rights**
-
-California
-
-residents can ask companies with whom they have an established business relationship to provide (a) a list of the categories of Personal Information that a business has disclosed to third parties for direct marketing purposes for the immediately preceding calendar year, and (b) the names and addresses of such third parties. To request this information from EYEPARTNER, please email us at support@Eyepartner.com; or write us at 
-
-633 W. 5th Street
-
-, 68th Floor, 
-
-Los Angeles, CA 90071
-
-. We will respond to such properly addressed written requests. Please note that we are only required to respond to each customer once per calendar year.
-
-**4\. International Users**
+Please understand that any information that is disclosed in chat rooms, forums, message boards and news group areas on Eyepartner becomes public information. We have no control over the use of such information and you should exercise caution when deciding to disclose your Personal Information on these areas of Eyepartner. Further, it is up to you to take precautions to ensure that whatever links you select or software you download is free of such items as viruses, worms, Trojan horses, date or time bombs and other items of a destructive nature.  
+**  
+****4\. International Users**
 
 Eyepartner is hosted in the 
 
@@ -100,4 +86,4 @@ United States
 
 We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Eyepartner and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on Eyepartner. 
 
-Revised: May 25, 2009.
+Revised: August  9, 2010.
