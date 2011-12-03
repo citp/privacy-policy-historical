@@ -1,97 +1,92 @@
-> *The following text is extracted and transformed from the flatworldknowledge.com privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202191652id_/http%3A//www.flatworldknowledge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flatworldknowledge.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203223253id_/http%3A//www.flatworldknowledge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flat World Knowledge
 
-**1\. Acknowledgment and acceptance of terms**
+**PRIVACY POLICY  
+Effective as of March 17th, 2011**
 
-Flat World Knowledge is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing _flatworldknowledge.com_ and its related sites, you acknowledge and fully understand Flat World Knowledge’s Privacy Statement and freely consent to the information collection and use practices described in this Privacy Statement. 
+We at Flat World Knowledge, Inc. (“Flat World Knowledge,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy applies to the online information collection and use practices with respect to flatworldknowledge.com, flatworldstudents.com, and our other websites (collectively, the “Websites”). By visiting our Websites, you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use. 
 
-**2\. Participating Merchant Policies**
+**_The Information We Collect_**
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Flat World Knowledge services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties. 
+  1. _Personal Information_
 
-**3\. Information We Collect and How We Use It**
+When you register to purchase products or services, when you register as an instructor, when you sign up for certain features on the Websites (such as viewing a webinar), and when you contact us through the Websites, you may be required to provide us with personal information about yourself, such as your name, postal address, e-mail address, and year of birth (collectively, the “Personal Information”). We do not collect any Personal Information from you when you visit the Websites unless you provide us with the Personal Information voluntarily. 
 
-Flat World Knowledge collects certain information from and about its users three ways: directly from our Web Server logs, directly from the user, and with Cookies. 
+  2. _Billing Information_
 
-  1. **Web Server Logs**. 
+If you wish to purchase a product or service through the Websites, you may be required to provide certain information in addition to the Personal Information noted above. Such information may include a credit card number, PayPal account number, and similar information (collectively, the “Billing Information).
 
+  3. _Other Information_
 
+In addition to the Personal Information noted above that you voluntarily provide to us, we may collect additional information (collectively, the “Other Information”). Such Other Information may include:
 
+    1. _From You._ Additional information about yourself that you voluntarily provide to us, such as your graduation year, major, courses, gender, hobbies, and interests. As a result of collecting course information, we will be able to discern other information, such as your school/institution, professors, course enrollment, start dates, midterm dates, and final exam dates. 
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+    2. _From Your Activity._ Information that we automatically collect when you visit the Websites, such as your IP addresses, Internet service provider, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections of the Websites you visit, number of links you click while in the Websites, and similar information concerning your use of the Websites.
 
-  * Your Internet protocol address. 
-  * The kind of browser or computer you use. 
-
-  * Number of links you click within the site. 
-
-  * State or country from which you accessed the site. 
-
-  * Date and time of your visit. 
-
-  * Name of your Internet service provider. 
-
-  * Web page you linked to our site from. 
-
-  * Pages you viewed on the site. 
+    3. _From Cookies._ Information that we collect using “cookie” technology. Cookies are small packets of data that a website stores on your computer’s hard drive so that your computer will “remember” information about your visit. We use cookies to help us collect Other Information and to enhance your experience using the Websites. If you do not want the Websites to place a cookie on your hard drive, you may be able to turn that feature off on your computer. Please consult your Internet browser’s documentation for information on how to do this. However, if you decide not to accept cookies from our Websites, the Websites may not function properly. 
 
 
 
 
-**b. Use of Cookies**
+**_The Information Collected by or Through Third-Party Advertising Companies_**
 
-Flat World Knowledge may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
+We may share Other Information about your activity on the Websites with third parties for the purpose of tailoring, analyzing, managing, reporting, and optimizing advertising you see on the Websites and elsewhere. These third parties may use cookies, pixel tags (also called web beacons or clear gifs), and/or other technologies to collect such Other Information for such purposes. Pixel tags enable us and these third-party advertisers to recognize a browser’s cookie when a browser visits the site on which the pixel tag is located in order to learn which advertisement brings a user to a given site. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
+**_Accessing and Modifying Information_**
 
-Flat World Knowledge reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value. 
+If you have registered for the Websites, you may access, review, and make changes to your Personal Information and/or your Billing Information by sending an email to our support attendants at [help@flatworldknowledge.com](mailto:help@flatworldknowledge.com). In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Flat World Knowledge marketing email. Registered users cannot opt out of receiving transactional e-mails related to their account. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases. 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website. 
+**_How We Use and Share the Information_**
 
-  1. **Personal Information Users**
+We use the Personal Information and the Other Information to solicit your feedback, to inform you about our products and services and those of our third-party marketing partners, and to tailor messaging to you, including, without limitation, through the Online Free Reader and on other sections of the Websites. Also, we may use and/or share Personal Information and/or Other Information as described below.
 
+  * We may from time to time share the Personal Information and/or the Other Information with other companies who may provide you information about the products and services they offer. However, to the extent required by law, you will be given the opportunity to opt-out of such sharing. 
 
+  * In an ongoing effort to better understand our users and our products and services, we may analyze the Other Information in aggregate form in order to operate, maintain, manage, and improve the Website and/or our products and services. This aggregate information does not identify you personally. We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and services to current and prospective business partners and to other third parties for other lawful purposes.
 
+  * We may employ other companies and individuals to perform functions on our behalf. Examples may include providing marketing assistance, order fulfillment, billing, and customer service. These other companies will have access to the Personal Information, the Billing Information, and the Other Information only as necessary to perform their functions and to the extent permitted by law. 
 
-Visitors to our website can register to purchase products and services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the products and services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for only the relevant information, in our judgment. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. 
+  * If we or any of our affiliated companies (or all or substantially all of our assets or the assets of any of our affiliated companies) are acquired, we expect that the Personal Information, the Billing Information, and the Other Information would be transferred along with the other business assets. 
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including: 
-
-  * To fulfill your requests for products and/or services; 
-
-  * To protect ourselves from liability; 
-
-  * To respond to legal process or comply with law; or 
-
-  * In connection with a merger, acquisition, or liquidation of the company. 
+  * To the extent permitted by law, we may also disclose Personal Information, the Billing Information, and the Other Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing the Information is necessary or advisable, for example, to protect the rights, property, or safety of Flat World Knowledge or others. 
 
 
 
 
-**4.** **Use of Web Beacons or GIF files**
+**_How We Protect Your Information_**
 
-Flat World Knowledge Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Flat World Knowledge to count users who have visited those pages and to deliver co-branded services. Flat World Knowledge may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
+We strive to maintain reasonable physical, electronic, and procedural safeguards to secure the Personal Information, the Billing Information, and the Other Information from loss, misuse and unauthorized access, disclosure, alteration, and destruction. However, we are unable to guarantee that security measures we take will not be penetrated or compromised or that such information will remain secure under all circumstances. 
 
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Flat World Knowledge prohibits Web beacons from being used to collect or access your personal information. 
+**_Important Notice to Non-U.S. Residents_**
 
-**5\. Accessing Web Account Information**
+The Websites are operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Websites and/or providing us with any information, you consent to this transfer. 
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant – [help@flatworldknowledge.com](mailto:help@flatworldknowledge.com). 
+**_Children_**
 
-**6.** **Changes to this Statement**
+We do not knowingly collect Personal Information from children under the age of 13 through the Websites. If you are under 13, please do not give us any Personal Information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through the Websites without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.
 
-Flat World Knowledge has the discretion to occasionally update this privacy statement. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
+**_California Residents_**
 
-**7\. Contacting Us**
+Under California Civil Code Section 1798.83, California residents who have an established business relationship with Flat World Knowledge may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes. If you are a California resident and you have already granted us this permission and (1) you now wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please contact us as described below.
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us by sending your comments to : 
+**_External Web Websites_**
 
-Flat World Knowledge  
-**Attention: Privacy Statement Personnel**  
+The Websites may contain links to third-party websites. Flat World Knowledge has no control over the privacy practices or the content of any of our business partners, advertisers, sponsors, or other websites to which we provide links. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
+
+**_Changes to This Privacy Policy_**
+
+This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on the Websites as soon as they go into effect. By accessing the Websites after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis. 
+
+**_How to Contact Us_**
+
+If you have questions about this Privacy Policy, please e-mail us at [help@flatworldknowledge.com](mailto:help@flatworldknowledge.com) or write to us at:
+
+Flat World Knowledge, Inc.  
+Attention: Privacy Statement Personnel  
 1 Bridge Street  
 Suite 105  
-Irvington, NY 10533  
+Irvington, NY 10533. 
 
-
-Flat World Knowledge will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
+Previous privacy policy can be found [here](http://www.flatworldknowledge.com/privacy-policy-prior-march-17t)
