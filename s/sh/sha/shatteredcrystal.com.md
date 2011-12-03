@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the shatteredcrystal.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616125338id_/http%3A//www.shatteredcrystal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shatteredcrystal.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203084248id_/http%3A//www.shatteredcrystal.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| 
-
-Privacy Policy
 
 By registering, you will open an account with Markee Dragon INC (MDINC) in the United States. Your data will be stored in the USA. Though MDINC may share your data with MDINC affiliates in countries with varying personal data protection laws, your data is always protected by our Privacy Policy. MDINC and MDINC affiliates use your data to administer your account, provide information of interest to you, and to communicate with you. You may opt out of receiving marketing materials by changing your account preferences to exclude administrator emails for our forums and by writing [support@trustwho.com](mailto:support@trustwho.com) letting them know you wish to never receive any promotional emails. More information about how MDINC uses your data and your related rights can be found in our Privacy Policy below. By registering, you agree that MDINC may process your data in accordance with the following Privacy Policy and that you will abide by Terms & Conditions below.
 
@@ -12,7 +8,7 @@ MDINC ONLINE PRIVACY POLICY: MDINC and its subsidiary companies respect the priv
 
 #### Third Party Sites.
 
-If you click on a link to a third party site, including on an advertisement, you will leave the MDINC site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as MDINC. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to an MDINC site, you should consult that siteâ€™s privacy policy before providing any personal information. 
+If you click on a link to a third party site, including on an advertisement, you will leave the MDINC site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as MDINC. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to an MDINC site, you should consult that site’s privacy policy before providing any personal information. 
 
 #### What is personal information and when does MDINC collect it?
 
@@ -22,11 +18,11 @@ Information collected will vary depending upon the activity and may include your
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. 
 
-If you choose to use our referral service to "tell a friend" about an MDINC product or site, we may ask you for your friendâ€™s name and email address. We will send your friend an email on your behalf inviting him or her to visit the site or check out our product. MDINC stores your friend's name and email for a short period for the sole purpose of sending this email and for redundancy checking, to be sure that your friend does not receive multiple copies of the same email message. We do not keep or use this information for any other purpose. Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives. 
+If you choose to use our referral service to "tell a friend" about an MDINC product or site, we may ask you for your friend’s name and email address. We will send your friend an email on your behalf inviting him or her to visit the site or check out our product. MDINC stores your friend's name and email for a short period for the sole purpose of sending this email and for redundancy checking, to be sure that your friend does not receive multiple copies of the same email message. We do not keep or use this information for any other purpose. Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives. 
 
 #### MDINC's Online Stores
 
-Visitors purchasing goods and services through one of our online stores may need to provide a valid credit card number and expiration date, in addition to name, mailing address(es), phone number and e-mail address. Some of MDINCâ€™s online stores may employ third-party contractors whose opt-out instructions for promotional or marketing communications may vary from our own. 
+Visitors purchasing goods and services through one of our online stores may need to provide a valid credit card number and expiration date, in addition to name, mailing address(es), phone number and e-mail address. Some of MDINC’s online stores may employ third-party contractors whose opt-out instructions for promotional or marketing communications may vary from our own. 
 
 #### Job Postings
 
@@ -34,7 +30,7 @@ MDINC allows for the online submission of resumes and employment related informa
 
 #### Online Chat Rooms and Profiles
 
-You may choose to disclose information, including personal information, about yourself in our online chat rooms, message boards, user â€œprofilesâ€ for public view or in similar forums on our sites. Information that you disclose in any of these forums is public information, and there is no expectation of privacy or confidentiality there. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
+You may choose to disclose information, including personal information, about yourself in our online chat rooms, message boards, user “profiles” for public view or in similar forums on our sites. Information that you disclose in any of these forums is public information, and there is no expectation of privacy or confidentiality there. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. 
 
 #### Public Data
 
@@ -63,42 +59,3 @@ MDINC is a global organization and many of the computer systems on which MDINC c
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
 By using this site, you signify your assent to the MDINC Online Privacy Policy. If you do not agree to this policy, please do not use any MDINC site. If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. If you choose to opt-out of our changed practice, our e-mail will contain instructions on how to opt-out. Your continued use of our site will signify your acceptance of the changes to our Online Privacy Policy. 
-
-|    
-[ ](http://www.trustwho.com/business.php)   
-
-
-Support
-
-» [FAQ's](https://web.archive.org/faq.php)  
-» [Resend your codes](https://web.archive.org/getmycodes.php)  
-» [Email](mailto:support@shatteredcrystal.com)
-
-Policies
-
-» [Payment options](https://web.archive.org/content/payment.php)  
-» [Returns](https://web.archive.org/content/returns.php)  
-» [Defective Codes](https://web.archive.org/content/defective.php)
-
-Contact
-
-» [About Us](https://web.archive.org/about.php)  
-» [Contact Information](https://web.archive.org/contact.php)
-
-Affiliates
-
-» [Learn about the affiliate program](https://web.archive.org/content/affiliateinfo.php) \- Make money from visitors to your site by referring their business to us.  
-» [Join the affiliate program](https://web.archive.org/signup.php) and generate income from your site!  
-» [Login as an Affiliate](https://web.archive.org/affiliate)  
-» [Affiliate Banners](https://web.archive.org/banners.php)
-
-Sites we like
-
-» [FreeGameCam](http://www.freegamecam.com/)  
-» [Markee Dragon](http://www.markeedragon.com/)  
-» [TrustWho](http://www.trustwho.com/)  
-» [UO Brokers](http://www.markeedragon.net/)  
-» [Live MMO Support](http://www.livemmosupport.com/)  
-» [Shattered Crystal Blog](http://gametimecard.blogspot.com/)
-
-[ ](http://www.shatteredcrystal.com/index.php/wallie_card "Pre Paid Wallie Cards")
