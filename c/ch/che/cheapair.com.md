@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapair.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230040156id_/http%3A//www.cheapair.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapair.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203063642id_/http%3A//www.cheapair.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - CheapAir.com
 
@@ -31,6 +31,8 @@ When you register with us or make travel arrangements, we will sometimes share t
 
 We also use your information, with your permission, to occasionally alert you to information and special promotions that we believe will be valuable to you, including e-mails promoting special travel deals. You can unsubscribe to these e-mails at any time by visiting the "My Profile" section of our site.
 
+We do use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
 ## How This Information is Not Used
 
 **We do not sell your name or other private profile information to third parties.**
@@ -57,7 +59,7 @@ This Privacy Policy does not apply to the practices or policies of any companies
 
 ## Questions, Comments or Concerns
 
-If you have additional questions or concerns regarding our Privacy Policy, please e-mail us at [help@cheapair.com](https://web.archive.org/web/20101230040156id_/http%3A//www.cheapair.com/help@cheapair.com).
+If you have additional questions or concerns regarding our Privacy Policy, please e-mail us at [help@cheapair.com](https://web.archive.org/web/20111203063642id_/http%3A//www.cheapair.com/help@cheapair.com).
 
 ## Privacy Policy Updates
 
