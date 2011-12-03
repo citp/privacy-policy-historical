@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solyndra.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601040219id_/http%3A//www.solyndra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solyndra.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203223614id_/http%3A//www.solyndra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solyndra
 
