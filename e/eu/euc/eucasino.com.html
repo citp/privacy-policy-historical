@@ -1,242 +1,480 @@
-<!--The following is the downloaded HTML source of the eucasino.com privacy policy that was archived on 2010-02-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100205024820id_/http%3A//www.eucasino.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eucasino.com privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203220133id_/http%3A//www.eucasino.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="imagetoolbar" content="no">
-		<title>Welcome to EUcasino</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=9">
+	<meta http-equiv="Content-Language" content="en">
+	<title>Play Online Casino Games at EUcasino - Best Internet Casino</title>
+	<meta name="Description" content="Join EUcasino for the best gambling experience. With 80+ Games, highest casino bonuses and the best online casino support team.">
+	<link href="http://kpax-eucasino.s3.amazonaws.com/favicon.ico?version=1322839920" rel="shortcut icon" type="image/x-icon">
+	<link href="http://kpax-eucasino.s3.amazonaws.com/css/style.css?version=1322839920" rel="stylesheet" type="text/css" media="screen">
+	<script src="http://www.eucasino.com/js/jquery.1.6.2.min.js?version=1322839920"></script>
+	<script src="http://kpax-eucasino.s3.amazonaws.com/js/jquery.tools.min.js?version=1322839920"></script>
+	<script src="http://kpax-eucasino.s3.amazonaws.com/js/jquery.collapsor.min.js?version=1322839920"></script>
+	<script src="http://kpax-eucasino.s3.amazonaws.com/js/jquery.simpleFAQ-0.7.min.js?version=1322839920"></script>
+	<script src="http://kpax-eucasino.s3.amazonaws.com/js/jquery.simplemodal.1.4.1.min.js?version=1322839920"></script>
+	<style>
+	#instant-play-window {background:none!important;border:none!important;padding:none!important;position:absolute!important;top:20px!important;witdh:950px!important;height:720px!important;}
+	#instant-play-window .simplemodal-wrap {overflow:hidden!important;}
+	#instant-play-window a.modalCloseImg {background: url("http://d2rxk8rqjhylul.cloudfront.net/img/x.png") no-repeat scroll 0 0 transparent;cursor: pointer;
+    display: inline;height: 29px;position: absolute;right: -18px;top: -15px;width: 25px;z-index: 5200;}
+	</style>
+	<script>
+		var popupStatus = 0;
+		
+		function popupFull(url) {
+			var x=1024, y=768;
+			/* var x=screen.width, y=screen.height; */
+			newwin = window.open(url,'Eucasino','width='+x+',height='+y+',top=0,left=0,fullscreen=yes');
+			if (window.focus) {newwin.focus()}
+			/* var data = '<iframe id="instant-play" src="'+url+'" width="'+x+'" height="'+y+'" scrolling="no" style="border:none!important;"><p>Your browser does not support iframes.</p></iframe>';
+			$.modal(data, {
+				minWidth:x,
+				minHeight:y,
+				containerId:"instant-play-window",
+				zIndex:4000
+			}); */
+			return false;
+		}
 
-		<link href="http://www.eucasino.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
-		                <link href="/resources/eustyle.css" rel="stylesheet" type="text/css">
-	                       
-<style type="text/css">
-html{overflow-x:hidden;}
-</style>
+		function createCookie(name,value,days) {
+			if(days) {
+				var date = new Date();
+				date.setTime(date.getTime()+(days*60*60*1000));
+				var expires = "; expires="+date.toGMTString();
+			} else {
+				var expires = "";
+				document.cookie = name+"="+value+expires+"; path=/";
+			}
+		}
+		
+		function readCookie(name) {
+			var nameEQ = name + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if(c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			}
+			return '';
+		}
+
+		function loadPopup() {
+			if(popupStatus==0) {
+				$("#backgroundPopup").css({ "opacity": "0.7" });
+				$("#backgroundPopup").fadeIn("slow");
+				$("#fr-warning-popup").fadeIn("slow");
+				popupStatus = 1;
+			}
+		}
+
+		function disablePopup() {
+			if(popupStatus==1) {
+				$("#backgroundPopup").fadeOut("slow");
+				$("#fr-warning-popup").fadeOut("slow");
+				popupStatus = 0;
+			}
+		}
+
+		function centerPopup(){
+			var windowWidth = document.documentElement.clientWidth;
+			var windowHeight = document.documentElement.clientHeight;
+			var popupHeight = $("#fr-warning-popup").height();
+			var popupWidth = $("#fr-warning-popup").width();
+			$("#fr-warning-popup").css({
+			"position": "absolute",
+			"top": (windowHeight/2-popupHeight/2)-30,
+			"left": windowWidth/2-popupWidth/2
+			});
+			$("#backgroundPopup").css({
+			"height": windowHeight
+			});
+		}
+
+		function getParameterByName(name) {
+			name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+			var regexS = "[\\?&]"+name+"=([^&#]*)";
+			var regex = new RegExp( regexS );
+			var results = regex.exec( window.location.href );
+			if(results == null)
+				return "";
+			else
+				return decodeURIComponent(results[1].replace(/\+/g, " "));
+		}
+
+		$(document).ready(function() {
+			$.easing.custom = function (x, t, b, c, d) {
+				var s = 1.70158;
+				if((t/=d/2) < 1) return c/2*(t*t*(((s*=(1.525))+1)*t - s)) + b;
+				return c/2*((t-=2)*t*(((s*=(1.525))+1)*t + s) + 2) + b;
+			}
+			$(function() {
+				$("ul#fp_specials_left_menu").tabs("div#fp_specials_content_left > div");
+				$("ul#home_content_news_pages").tabs("div#home_content_panes > div");
+				$("ul#sidebar_news_pagination").tabs("div#sidebar_news_panes > div");
+				$("#jackpot-wrap").scrollable({circular: true, easing: 'custom'}).autoscroll({autoplay: true});
+				var psign=readCookie('RSCountry');
+				var flash1='';
+				if (psign=='GB')
+				flash1='_pound';
+				
+				$("#sidebar_nav a").collapsor();
+				$("#get-mails").simpleFAQ({speed: 100});
+			});
+			if (readCookie('df') != '1') {
+				$.ajax({
+					type: "POST",
+					url: "/fCookie.php?aname="+readCookie('Aname')+"&zone_id="+readCookie('Zone_id')+"&ref="+readCookie('Referer')+"&dyn_id="+readCookie('Dyn_id')+"&skid=eucasino",
+					async: true,
+					success: function(data){
+						document.getElementById('mycookie').innerHTML = data;
+						createCookie('df','1',3);
+					}
+				});
+			}
+			function doSomething(data, textStatus) {
+				//action function code
+			}
+
+			$(".currency_right_cap_main").click(function () { $("#currency-holder").slideToggle("fast"); });
+			$(".currency-middle").click(function () { $("#currency-holder").slideToggle("fast"); });
+			
+			var frCheck = 'CY';
+			if(frCheck == 'FR') {
+				centerPopup();
+				loadPopup();
+			}
+			
+			$(".fr-warning-action-accept").click(function() {
+				disablePopup();
+				return false;
+			});
+			
+			if(readCookie('main_pop') != '1') {
+				var domain = document.domain;
+				var domainChunks = domain.split(".");
+				var lang = '';
+				switch (domainChunks[0]) {
+					case 'danish': lang = 'dk'; break;
+					case 'dutch': lang = 'nl'; break;
+					case 'french': lang = 'fr'; break;
+					case 'german': lang = 'de'; break;
+					case 'italian': lang = 'it'; break;
+					case 'portuguese': lang = 'pt'; break;
+					case 'russian': lang = 'ru'; break;
+					case 'spanish': lang = 'es'; break;
+					case 'bulgarian': lang = 'bg'; break;
+					case 'finnish': lang = 'fi'; break;
+					case 'greek': lang = 'gr'; break;
+					case 'norwegian': lang = 'no'; break;
+					case 'polish': lang = 'pl'; break;
+					case 'romanian': lang = 'ro'; break;
+					case 'swedish': lang = 'se'; break;
+					case 'turkish': lang = 'tr'; break;
+					case 'arabic': lang = 'ar'; break;
+					default:
+						if(domainChunks[0].indexOf("mont") != -1) { 
+							lang = 'it';
+						} else {
+							lang = 'en';
+						}
+					break;
+				}
+				var test = getParameterByName('test');
+				var url = '';
+				if(test == '1') {
+					langtest = getParameterByName('lang');
+					if(langtest != '') { lang = langtest; }
+					url = 'http://www.playeroffers.com/main_pop.php?site=eucasino&lang='+lang+'&test=1&callback=?';
+				} else {
+					url = 'http://www.playeroffers.com/main_pop.php?site=eucasino&lang='+lang+'&callback=?';
+				}
+				$.getJSON(url, function(json) {
+					if(json.msg != '') {
+						$.modal(json.msg, {
+							maxWidth:500,
+							minHeight:150,
+							onClose: function (dialog) {
+								createCookie('main_pop','1',0);
+								$.modal.close();
+							}
+						});
+					}
+				});
+			}
+			
+			if(window.opera) {
+				if ($("a.jqbookmark").attr("rel") != ""){ $("a.jqbookmark").attr("rel","sidebar"); } 
+			}
+
+			$("a.jqbookmark").click(function(event){
+				event.preventDefault();
+				var url = this.href;
+				var title = this.title;
+				
+				if (window.sidebar) { // Mozilla Firefox Bookmark
+					window.sidebar.addPanel(title, url,"");
+				} else if( window.external ) { // IE Favorite
+					window.external.AddFavorite( url, title);
+				} else if(window.opera) { // Opera 7+
+					return false; // do nothing
+				} else { 
+					 alert('Unfortunately, this browser does not support the requested action,'
+					 + ' please bookmark this page manually.');
+				}
+			
+			});
+			
+			var CLOCK=function(){var b=null;var c=true;var a=950;var d=["","","","",""];return{setInterval:function(e){a=parseInt(e)},setContainers:function(e){if(e&&typeof e=="object"&&e.length){d=e}},start:function(){CLOCK.showCurrent();if(this.blur){this.blur()}},showCurrent:function(){clearTimeout(b);var h=new Date();var g=-(h.getTimezoneOffset()/60);var e=h.getHours()-g;var f=h.getMinutes();if(d[1]){$("#"+d[1]).text((e<10)?("0"+e):e)}if(d[2]){$("#"+d[2]).text((f<10)?("0"+f):f)}if(c){b=setTimeout(function(){CLOCK.showCurrent()},a)}}}}();$(document).ready(function(){CLOCK.setInterval(500);CLOCK.setContainers(["clockWrapper","clock_hr","clock_min","clock_sec"]);CLOCK.start()});
+		});
+	</script>
+	<!--[if lt IE 7]>
+	<style type='text/css'>
+		#simplemodal-container a.modalCloseImg {background:none;right:-14px;width:22px;height:26px;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='img/x.png', sizingMethod='scale');}
+	</style>
+	<![endif]-->
 </head>
-	
-	<body lang="en" "="">
-	
-	<a name="top"></a>
+<body class="en">
+<div id="mycookie" style="position:absolute; top:0px; left:0px;"></div>
+<div id="fr-warning-popup" style="display:none;">
+	<h1><img src="http://kpax-eucasino.s3.amazonaws.com/images/dialog_warning.png" style="float:left;margin:-10px 0 0 -5px;">D'avertissement</h1>
+	<p>Afin de respecter la législation en vigueur, le site d’EUcasino.com n’est plus disponible aux joueurs résidant en France. Si vous pensez avoir reçu ce message par erreur, cliquez <a href="#" class="fr-warning-action-accept">ici</a> pour continuer.</p><br>
+	<p>To comply with regulations EUCasino.com site is not available to players residing in France. If you feel you are receiving this message in error click <a href="#" class="fr-warning-action-accept">here</a> to continue.</p>
+	<div id="fr-warning-action">
+		<a href="#" class="fr-warning-action-accept">ACCEPTER - ACCEPT</a>
+	</div>
+</div>
+<div id="backgroundPopup"></div>
 
+<div id="main_wrap">
+	<div id="header">
+		<a href="/index.html" class="logo ltr" title="Welcome to EUcasino"></a>
+		<div class="slogan en"></div>
+		<div id="currency-clock-wrapper">
+			<div id="currency-wrapper">
+				<div id="current-currency-holder">
+					<div id="current-currency-cap-left" class="ltr"></div>
+					<div id="current-currency-middle" class="ltr">Supported Currencies:</div>
+					<div id="current-currency-cap-right" class="ltr"></div>
+					<div class="currency-middle ltr">€ EUR</div>
+					<div class="currency_right_cap_main ltr"></div>
+				</div>
+				<div class="clear"></div>
+				<div id="currency-holder">
+					<div style="float:left">
+						<div class="currency-left-cap"></div>
+						<div class="currency-middle2">$ USD</div>
+						<div class="currency-right-cap"></div>
+						<div class="clear"></div>
+						<div class="currency-left-cap"></div>
+						<div class="currency-middle2">£ GBP</div>
+						<div class="currency-right-cap"></div>
+						<div class="clear"></div>
+						<div class="currency-left-cap"></div>
+						<div class="currency-middle2">$ CAD</div>
+						<div class="currency-right-cap"></div>
+						<div class="clear"></div>
+						<div class="currency-left-cap"></div>
+						<div class="currency-middle2">$ AUD</div>
+						<div class="currency-right-cap"></div>
+						<div class="clear"></div>
+					</div>
+					<div style="float:left;margin-left:10px;">
+						<div class="currency-left-cap"></div>
+						<div class="currency-middle2">SEK</div>
+						<div class="currency-right-cap"></div>
+						<div class="clear"></div>
+						<div class="currency-left-cap"></div>
+						<div class="currency-middle2">DKK</div>
+						<div class="currency-right-cap"></div>
+						<div class="clear"></div>
+						<div class="currency-left-cap"></div>
+						<div class="currency-middle2">NOK</div>
+						<div class="currency-right-cap"></div>
+						<div class="clear"></div>
+						<div class="currency-left-cap"></div>
+						<div class="currency-middle2">RUB</div>
+						<div class="currency-right-cap"></div>
+						<div class="clear"></div>
+					</div>
+				</div>   
+			</div>
+			<div id="clockContainer">
+				<div id="clockCapLeft"></div>
+				<div id="clockWrapper">
+					Casino Time: <span id="clock_hr"></span><span>:</span><span id="clock_min"></span>
+				</div>
+				<div id="clockCapRight"></div>
+				<div class="clear"></div>
+			</div>
+		</div>
+				<div id="langbar">
+	<div id="lang_sel">
+		<ul>
+			<li><a class="lang_sel_sel" href="#">English</a>                
+				<ul>
+					<li><a href="http://bulgarian.eucasino.com/privacy-policy.html">Bulgarian</a></li>
+					<li><a href="http://danish.eucasino.com/privacy-policy.html">Danish</a></li>
+					<li><a href="http://german.eucasino.com/privacy-policy.html">Deutsch</a></li>
+					<li><a href="http://spanish.eucasino.com/privacy-policy.html">Español</a></li>
+					<li><a href="http://greek.eucasino.com/privacy-policy.html">Ελληνικα</a></li>
+					<li><a href="http://finnish.eucasino.com/privacy-policy.html">Suomi</a></li>
+					<li><a href="http://french.eucasino.com/privacy-policy.html">Français</a></li>
+					<li><a href="http://hungarian.eucasino.com/privacy-policy.html">Magyar</a></li>
+					<li><a href="http://it3.eucasino2.com/privacy-policy.html">Italiano</a></li>
+					<li><a href="http://dutch.eucasino.com/privacy-policy.html">Nederlands</a></li>
+					<li><a href="http://norwegian.eucasino.com/privacy-policy.html">Norsk</a></li>
+					<li><a href="http://polish.eucasino.com/privacy-policy.html">Polski</a></li>
+					<li><a href="http://portuguese.eucasino.com/privacy-policy.html">Português</a></li>
+					<li><a href="http://romanian.eucasino.com/privacy-policy.html">Română</a></li>
+					<li><a href="http://russian.eucasino.com/privacy-policy.html">Русский</a></li>
+					<li><a href="http://swedish.eucasino.com/privacy-policy.html">Svenska</a></li>
+					<li><a href="http://tr1.eucasino1.com/privacy-policy.html">Türkçe</a></li>
+					<li><a href="http://arabic.eucasino.com/privacy-policy.html">العربية</a></li>
+					
+				</ul>
+			</li>
+		</ul>    
+	</div>
+</div>
+					</div>
+	<div id="nav">
+		<div class="menu">
+		    		    			<ul>
+				<li><a href="/help/installing-eucasino.html">Getting Started</a></li>
+				<li class="separator"></li>
+				<li><a href="/vip/vip-lounge.html">VIP</a></li>
+				<li class="separator"></li>
+				<li><a href="/help/support.html">24/7 Support</a></li>
+				<li class="separator"></li>
+				<li><a href="/previews.html">Previews</a></li>
+				<li class="separator"></li>
+				<li><a href="/promotions-index.html">Promotions</a></li>
+				<li class="separator"></li>
+				<li><a href="http://download3.eucasino.com/download.php">Download Now!</a></li>
+				<li class="separator"></li>
+				<li><a href="/payment-options.html">Payment Options</a></li>
+			</ul>
+		    		</div>
+	</div>
+ 
+<div class="page-id-49">
+	<div id="single_wrap" class="ltr">
+		<h1 class="ltr">Privicay Policy</h1>
+		<a style="display:block; width:185px; height:35px; background:url(http://kpax-eucasino.s3.amazonaws.com/images/bookmark_this_en.png?version=1.1) 0 0 no-repeat; position:absolute; top:5px; right:10px;" class="jqbookmark" title="Privicay Policy - eucasino.com" href="/privacy-policy.html"></a>		
+		<div id="sidebar" class="ltr">
+	<div id="sidebar_news">
+		<h3 class="ltr">Calendar</h3>
+		<div class="clear"></div>
+		<div id="sidebar_news_panes">
+			<div class="home_content_item_content calendar-widget">
+				<div class="calendar-home-sidebar ltr">
+					<a onclick="window.open('/calendar.html', 'windowname1', 'width=906, height=600, menubar=no, resizable=no, toolbar=no, scrollbars=1'); return false;">
+						<div id="current-date">30</div>
+						<div id="current-month" class="ltr">January</div>
+					</a>
+					<script>
+						var mydate=new Date()
+						var year=mydate.getYear()
+						if (year < 1000) { year+=1900 }
+						var day=mydate.getDay()
+						var month=mydate.getMonth()
+						var daym=mydate.getDate()
+						if (daym<10) { daym="0"+daym; }
+						var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+						document.getElementById("current-date").innerHTML = daym;
+						document.getElementById("current-month").innerHTML = montharray[month];
+					</script>
+				</div>
+				<div class="calendar-home-sidebar-content">
+					<p>Great promotions every day. View our calendar.</p>
+					<a onclick="window.open('/calendar.html', 'windowname1', 'width=906, height=600, menubar=no, resizable=no, toolbar=no, scrollbars=1'); return false;">Click here</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+	<a class="sidebar_dlnow-2" href="/promotions.html">
+		<img src="http://kpax-eucasino.s3.amazonaws.com/images/banners/sidebar_welcome_package_en.jpg?version=3.0">
+	</a>
+</div>		
+		<div id="single_content" class="privicay_policy ltr">
+			<h2>EUcasino Privacy Policy </h2>
+<p>EUcasino values and respects the privacy of each and every one of its members, which we safeguard through our Privacy Policy. Please take the time to read the contents of this policy and familiarize yourself with its contents.</p>
+<h2>Security</h2>
+<p>EUcasino goes to great lengths to guarantee that your personal and financial information remains 100% secure and confidential. We employ industry standard security protocols (128 bit, SSL data encryption technology) to ensure that all transactions including deposits and withdrawals are carried out in a totally secure manner. This technology protects you from having your information intercepted by anyone other than EUcasino while it is being transmitted between you and EUcasino. </p>
+<h2>Personal Information</h2>
+<p>As part of the EUcasino registration process, we ask for a number of personal details, including your first and last name, physical and billing address as well as e-mail address and date of birth. We will need this information to open your account, to process transactions and for customer service purposes. Rest assured that under no circumstances will we pass on or sell these details to a third party. This information may also be used in conjunction with your private Username and Password to verify your identity. The only exception to this policy is if you have a big win – then we may use your username and/or first name for promotional purposes.</p>
+<h2>What are Cookies?</h2>
+<p>Cookies are small files containing information that enables a website to track its visitors. To enable EUcasino to find out which advertisement brought you to our website, we may use the EUcasino cookies on your computer. In the event that we do collect such information, you will remain personally unidentifiable and we will not share this information with any unconnected third party.</p>
+<h2>Advertising System</h2>
+<p>The EUcasino advertising system logs IP addresses in order to supply more accurate marketing features, such as language specific banners. It does NOT record any e-mail addresses, so rest assured that you will not receive any spam mail as a result of giving us your address.</p>
+<h2>User Responsibility</h2>
+<p>As a member of EUcasino, you are solely responsible for all actions taken using your EUcasino account. We advise you to keep your Username and Password secret at all times: under no circumstances should you give out this sensitive information to other players at EUcasino or anywhere else online or offline. If for some reason you believe that your Username or Password have been compromised in any way, you should notify the EUcasino Customer Support team immediately.</p>
+<h2>Limits of Confidentiality</h2>
+<p>For legal reasons, EUcasino may be required under certain circumstances to disclose your personal information. Reasons for this may include:</p>
+<ol>
+<li>to protect and defend our rights or property</li>
+<li>to comply with any legal process served on us. In addition, we reserve the right to disclose your personal information, including player identification, name, physical address, billing address, e-mail and/or phone number, to third parties as we believe necessary or appropriate in connection with any investigation of fraud, intellectual property infringement, piracy or any other unlawful or prohibited activity that might expose us to legal liability.</li>
+</ol>
+<p>EUcasino may occasionally make changes to the above Privacy Policy. Any such changes will be posted on this page and it is the responsibility of the player to visit this page on a regular basis in order to stay informed of changes that may occur. If you have any questions or concerns regarding security and privacy, please do not hesitate to contact our 24/7 Customer Support Team at any time, and they will be happy to assist you.</p>
+     		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="single_content_bottom ltr"></div>
+<div>
 
-	
-        <div id="header_en">
-
-<div id="flags">
-<a class="flagsitem" href="http://www.eucasino.com/"><img src="/resources/flags/en-all.gif" alt="English"></a>
-<a class="flagsitem" href="http://greek.eucasino.com/"><img src="/resources/flags/gr.gif" alt="ελληνικά"></a> 
-<a class="flagsitem" href="http://bulgarian.eucasino.com/"><img src="/resources/flags/bu.gif" alt="Български"></a> 
-<a class="flagsitem" href="http://russian.eucasino.com/"><img src="/resources/flags/ru.gif" alt="Русский"></a> 
-<a class="flagsitem" href="http://german.eucasino.com/"><img src="/resources/flags/de.gif" alt="Deutsch"></a>
-<a class="flagsitem" href="http://dutch.eucasino.com/"><img src="/resources/flags/nl.gif" alt="Nederlands"></a> 
-<a class="flagsitem" href="http://spanish.eucasino.com/"><img src="/resources/flags/es.gif" alt="Español"></a>
-<a class="flagsitem" href="http://italian.eucasino.com/"><img src="/resources/flags/it.gif" alt="Italiano"></a> 
-<a class="flagsitem" href="http://romanian.eucasino.com/"><img src="/resources/flags/ro.gif" alt="Română"></a>			  
-<a class="flagsitem" href="http://french.eucasino.com/"><img src="/resources/flags/fr.gif" alt="Français"></a>
-<a class="flagsitem" href="http://swedish.eucasino.com/"><img src="/resources/flags/sv.gif" alt="Svenska"></a> 
-<a class="flagsitem" href="http://danish.eucasino.com/"><img src="/resources/flags/da.gif" alt="Dansk"></a> 
-<a class="flagsitem" href="http://finnish.eucasino.com/"><img src="/resources/flags/fi.gif" alt="Suomi"></a>
-<a class="flagsitem" href="http://polish.eucasino.com/"><img src="/resources/flags/pl.gif" alt="Polski"></a>
-<a class="flagsitem" href="http://norwegian.eucasino.com/"><img src="/resources/flags/no.gif" alt="Norwegian"></a>
+	<div id="footer">
+		<div id="footer_nav">
+			<div id="footer_nav_left"></div>
+			<div class="menu">
+				<ul>
+					<li><a href="http://www.egamingonline.com">Affiliates</a></li>
+					<li><a href="/privacy-policy.html">Privacy Policy
+</a></li>
+					<li><a href="/terms-and-conditions.html">Terms and Conditions</a></li>
+					<li><a href="/about-us.html">About Us</a></li>
+				</ul>
+			</div>
+			<div id="footer_nav_right"></div>
+		</div>
+                <div id="malta_txt">
+			 EUcasino.com is operated by Skill On Net Limited which is licensed by the Lotteries and Gaming Authority of Malta (LGA) under license number LGA/CL1/563/2009	        </div>
+		<div id="footer_payments">
+			<a href="http://www.egamingonline.com" id="footer-ego" target="_blank"></a>
+			<a href="http://www.skillonnet.com/" id="footer-son" target="_blank"></a>
+			<a href="http://www.gamcare.org.uk" id="footer-gamcare" target="_blank"></a>
+			<a href="http://www.eucasino.com/itech.html" onclick="javascript:window.open('http://www.eucasino.com/itech.html','itech_win','width=340,height=400,statusbar=0,menubar=0');return false;" target="_blank" id="footer-rng"></a>
+			<a href="http://www.lga.org.mt" id="footer-lga" target="_blank"></a>
+			<a href="/payment-options.html" id="footer-topage"></a>
+		</div>
+		<div id="footer-meta">
+			  <h1>Welcome to EUcasino – The Best Online Casino</h1>
+			  <p>Finding a top online casino that is reliable, user friendly and entertaining isn't easy. However, EUcasino offers state of the art games that are wonderfully simple to play as well as the level of security and support you'd expect from one of the best casinos online. You can rest assured that you'll not only find some of the best online casino games but that they also feature terrific graphics and simple navigation.</p>
+			  <p>If you are new to online casino gambling you can get started by trying out all of the best casino games for fun in the free money mode. Just download the casino software, register an account and enjoy the benefits of playing at one of the web's best casinos. </p>
+			  <p>Whether you are totally new to the world of online casinos or you are an experienced pro, you'll be impressed by our huge selection of top online casino games. While they are hundreds if not thousands of casinos online, we can guarantee that EUcasino has the best casino slots anywhere on the web. Not only that, but these are games you won’t see in any other internet casinos since they are exclusive to EUcasino. That's because most of the other casinos online use the same software which means that they all have the same games that you've already seen.</p>
+			  <p>As one of the top online casinos it shouldn't come as a surprise that EUcasino not only offers the most popular online casino gambling games like blackjack, roulette, video poker and online slots but that they also allow players to practice for free until they feel they've perfected their game and there’s no deposit required to get started. </p>
+			  <p>The best way to start is to go slow and play online casino games starting with smaller wagers and then slowly increasing you online betting amounts until you reach a comfortable and affordable level. Make the transition from the free mode to real money at EUcasino at your own pace and above all make sure you enjoy yourself when you play online casino games. Also, be sure to take part in all the fantastic daily and weekly promotions which can only be offered by one of the best online casinos in the business.</p>
+			  <p>The software also features a number of exclusive casino games that are unique to EUcasino and will never be seen at any other internet casinos. So, get ready to experience what it is like to play at one of the top online casinos, download the free EUcasino software for free now and make your first deposit to get a generous welcome deposit.</p>
+			  <p>As a new player you will receive an instant EUcasino bonus!</p>
+			  <p>Already established as one of the best online casinos, EUcasino has a reputation for safe and secure gaming with friendly and professional customer support in many languages. Just hit the Live casino online chat button when you need assistance or pick up the phone if you prefer more personal contact and we will be there for you 7 days a week.</p>
+			  <p>Our software has been provided by SkillOnNet a world leader in creating the best online casino software solutions. EUcasino is proud to partner them to bring you the most exciting casino online.</p>
+		</div>
+	</div>
 </div>
 
-</div>
-
-
-
-<div id="menubar">
-	        <link rel="stylesheet" href="/resources/menubar.css" type="text/css"> 
-<script type="text/javascript" src="/resources/menubar.js"></script> 
-<div class="menubar1"><div id="leftside"></div><div id="inside">
-
-<ul class="menu" id="menu"> 
-		<li style="width:62px;"><a href="/" class="menulink">Home</a></li>
-		<li width="2"><img src="/resources/menu_r2_c5.jpg" border="0"></li>
-		<li style="width:135px"><a href="/gettingstartedplay.html" class="menulink">Getting Started</a></li>
-		<li width="2"><img src="/resources/menu_r2_c5.jpg" border="0"></li>
-	        <li style="width:58px"><a href="/help.html" class="menulink">Help</a></li> 
-	<li width="2"><img src="/resources/menu_r2_c5.jpg" border="0"></li>
-	 <li style="width:55px"><a href="/faq.html" class="menulink">FAQ</a></li> 
-	<li width="2"><img src="/resources/menu_r2_c5.jpg" border="0"></li>
-	<li style="width:85px"><a href="/support.html" class="menulink">Support</a></li>
-	<li width="2"><img src="/resources/menu_r2_c5.jpg" border="0"></li>
-		  <li style="width:95px"><a href="/previews.html" class="menulink">Previews</a></li> 
-	<li width="2"><img src="/resources/menu_r2_c5.jpg" border="0"></li>
-	<li style="width:105px"><a href="/promotions.html" class="menulink">Promotions</a></li>
-	<li width="2"><img src="/resources/menu_r2_c5.jpg" border="0"></li>
-	<li style="width:125px"><a href="/refer_friend.html" class="menulink" style="padding-right:12px;">Refer a Friend</a></li>
-	
-</ul> 
-</div> <!-- of inside -->
-<div id="rightside"></div>
-</div><!-- of menu -->
 <script type="text/javascript"> 
-	var menu=new menu.dd("menu");
-	menu.init("menu","menuhover");
-</script> 
-
-	
-</div>
-
-<div id="main-wrapper">
-
-<div id="leftcolumn-flash"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="160" height="152" id="leftcolumn-flash" align="middle">
-<param name="allowScriptAccess" value="sameDomain">
-<param name="wMode" value="transparent">
-<param name="FlashVars" value="aname=house_eu0210&amp;zone_id=none&amp;ref=aHR0cDovL3d3dy5ldWNhc2luby5jb20v">
-<param name="movie" value="/resources/left_column_flash_en_EUR.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="/resources/left_column_flash_en_EUR.swf" quality="high" bgcolor="#ffffff" width="160" height="152" wmode="transparent" name="leftcolumn-flash" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="aname=house_eu0210&amp;zone_id=none&amp;ref=aHR0cDovL3d3dy5ldWNhc2luby5jb20v">
-</object>
-</div>
-<div style="clear:both"></div>
-<div id="leftcolumn-container1">
-	<div id="leftcolumn-header-left"></div>
-	<div id="leftcolumn-header-mid">News</div>
-	<div id="leftcolumn-header-right"></div>
-	<div style="clear:both"></div>
-	<div id="leftcolumn-mid-mid">
-		<marquee direction="up" scrollamount="1" scrolldelay="5" onmouseover="this.stop();" onmouseout="this.start();">
-               <center><span class="hmpg_title">EUcasino is now open for business!</span></center><br>
-<div id="leftcolumn-header-news">
-<ul>
-<li>Want even more FREE bonus money? It's so easy, <a class="hmpg_title" href="refer_friend.html">click here</a> to invite your friends to join EUcasino, and we will credit both you and your friends with free bonus money, plus chances to win even more cash in our monthly drawing!!</li>
-<li>An Amazing FREE First Deposit Bonus !!!<br> 
-Make a First Time Deposit, minimum €20, maximum €1000 into your Real Money mode account, all of us here at EUcasino will give you an extra First Time Deposit Bonus, equivalent to 100% of the amount you deposit... for FREE!!</li>
-</ul>
-</div>
-
-            </marquee>
-	</div> <!-- leftcolumn-mid-mid -->
-	<div style="clear:both"></div>
-  <div id="leftcolumn-mid-bot"></div>
-
-<a id="leftcolumn-lower_247_en" href="/support.html"></a> <div style="clear:both"></div>
-<a id="leftcolumn-lower_free_download" href="http://site.eucasino.com/download.php"><img src="/resources/free_download_en.jpg" border="0" width="156" height="39"></a> <a id="leftcolumn-lower_free_arrow" href="#"><img src="/resources/arrow_down.jpg" border="0" width="17" height="11"></a> 
-
-</div> <!-- leftcolumn-container -->	
-
- <div id="main-container">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+	<script type="text/javascript"> 
+	try {
+	var pageTracker = _gat._getTracker("UA-16148456-2");
+	pageTracker._setDomainName(".eucasino.com");
+	pageTracker._trackPageview();
+	} catch(err) {}
+</script>
 
 
-
-<!--START CONTENT--><div id="top-header-img"><img src="resources/privacy_policy_header.jpg" border="0" alt="Privacy Policy"></div>
-  <div id="main-content-top"></div>
-<div id="main-content-mid">
-	<div><p style="position:relative;left:10px;font-size:18px;color:#cd0000"><b>EUcasino Privacy Policy</b></p>
-
-<p style="position:relative;left:10px;margin-right:10px;">
-EUcasino values and respects the privacy of each and every one of its members, which we safeguard through our Privacy Policy. Please take the time to read the contents of this policy and familiarize yourself with its contents.
-</p>
-
-<table background="resources/faq_1.jpg" width="549" height="31">
-<tbody><tr>
-<td width="10"></td>
-<td>
-<a name="t3"></a>
-<font style="color:#037bb0">Security</font>
-</td>
-</tr>
-</tbody></table>
-
-<p style="position:relative;left:10px;margin-right:10px;">EUcasino goes to great lengths to guarantee that your personal and financial information remains 100% secure and confidential. We employ industry standard security protocols (128 bit, SSL data encryption technology) to ensure that all transactions including deposits and withdrawals are carried out in a totally secure manner. This technology protects you from having your information intercepted by anyone other than EUcasino while it is being transmitted between you and EUcasino. </p>
-
-<table background="resources/faq_1.jpg" width="549" height="31">
-<tbody><tr>
-<td width="10"></td>
-<td>
-<a name="t3"></a>
-<font style="color:#037bb0">Personal Information</font>
-</td>
-</tr>
-</tbody></table>
-
-<p style="position:relative;left:10px;margin-right:10px;">As part of the EUcasino registration process, we ask for a number of personal details, including your first and last name, physical and billing address as well as e-mail address and date of birth. We will need this information to open your account, to process transactions and for customer service purposes. Rest assured that under no circumstances will we pass on or sell these details to a third party. This information may also be used in conjunction with your private Username and Password to verify your identity. The only exception to this policy is if you have a big win - then we may use your username and or first name for promotional purposes. </p>
-
-<table background="resources/faq_1.jpg" width="549" height="31">
-<tbody><tr>
-<td width="10"></td>
-<td>
-<a name="t3"></a>
-<font style="color:#037bb0">What are Cookies?</font>
-</td>
-</tr>
-</tbody></table>
-
-<p style="position:relative;left:10px;margin-right:10px;">Cookies are small files containing information that enables a website to track its visitors. To enable EUcasino to find out which advertisement brought you to our website, we may use the EUcasino cookies on your computer. In the event that we do collect such information, you will remain personally unidentifiable and we will not share this information with any unconnected third party. </p>
-
-<table background="resources/faq_1.jpg" width="549" height="31">
-<tbody><tr>
-<td width="10"></td>
-<td>
-<a name="t3"></a>
-<font style="color:#037bb0">Advertising System</font>
-</td>
-</tr>
-</tbody></table>
-
-<p style="position:relative;left:10px;margin-right:10px;">The EUcasino advertising system logs IP addresses in order to supply more accurate marketing features, such as language specific banners. It does NOT record any e-mail addresses, so rest assured that you will not receive any spam mail as a result of giving us your address.</p>
-
-<table background="resources/faq_1.jpg" width="549" height="31">
-<tbody><tr>
-<td width="10"></td>
-<td>
-<a name="t3"></a>
-<font style="color:#037bb0">User Responsibility</font>
-</td>
-</tr>
-</tbody></table>
-
-<p style="position:relative;left:10px;margin-right:10px;">As a member of EUcasino, you are solely responsible for all actions taken using your EUcasino account. We advise you to keep your Username and Password secret at all times: under no circumstances should you give out this sensitive information to other players at EUcasino or anywhere else online or offline. If for some reason you believe that your Username or Password have been compromised in any way, you should notify the EUcasino Customer Support team immediately.</p>
-
-<table background="resources/faq_1.jpg" width="549" height="31">
-<tbody><tr>
-<td width="10"></td>
-<td>
-<a name="t3"></a>
-<font style="color:#037bb0">Limits of Confidentiality</font>
-</td>
-</tr>
-</tbody></table>
-
-<p style="position:relative;left:10px;margin-right:10px;">For legal reasons, EUcasino may be required under certain circumstances to disclose your personal information. Reasons for this may include: 1) to protect and defend our rights or property; 2) to comply with any legal process served on us. In addition, we reserve the right to disclose your personal information, including player identification, name, physical address, billing address, e-mail and/or phone number, to third parties as we believe necessary or appropriate in connection with any investigation of fraud, intellectual property infringement, piracy or any other unlawful or prohibited activity that might expose us to legal liability.<br><br>
-EUcasino may occasionally make changes to the above Privacy Policy. Any such changes will be posted on this page and it is the responsibility of the player to visit this page on a regular basis in order to stay informed of changes that may occur. If you have any questions or concerns regarding security and privacy, please do not hesitate to contact our 24/7 Customer Support Team at any time, and they will be happy to assist you.</p>
-
-<div style="text-align:right;margin-top:15px;">
-<a href="#top">
-<img src="resources/button_for_top.jpg" alt="Back to top" style="position:relative;align:right;margin:right:20px;" width="20" height="20" border="0">
-</a>
-</div></div>
- </div>
-<div id="main-content-bottom"></div>
- </div>
-</div>
-
-<div id="footer">
-<div id="footer_main">
-	<div id="footer_main_left"></div>
-	<div id="footer_main_mid">
-<a href="http://www.egamingonline.com/">Affiliates</a> | 
-<a href="/privacy_policy.html">Privacy Policy</a> | 
-<a href="/terms_and_conditions.html">Terms and Conditions</a> | 
-<a href="/about_us.html">About Us</a> 
-</div>
-	<div id="footer_main_right"></div>
-</div>
-
-<a href="http://www.skillonnet.com/" target="_blank"><img class="footer_icons" src="/resources/footer_skillonnet.jpg" border="0" width="92" height="35"> </a>
-<img class="footer_icons" src="/resources/footer_18plus.jpg" border="0" width="30" height="35">
-<img class="footer_icons" src="/resources/footer_pay-icons.gif" border="0" width="92" height="37">
-<img class="footer_icons" src="/resources/footer_thawte_n.jpg" alt="EUcasino.com" border="0" width="84" height="33">
-<a class="footer_icons" href="/itech.html" onclick="javascript:window.open('/itech.html','itech_win','width=340,height=400,statusbar=0,menubar=0');return false;">
-<img src="/resources/footer_itech.jpg" alt="EUcasino.com" border="0" width="98" height="33"></a>
-<img class="footer_icons" src="/resources/footer_securesite_n.jpg" alt="EUcasino.com" border="0" width="59" height="33">
-<a href="http://www.egamingonline.com/" target="_blank"><img class="footer_icons" src="/resources/ego_logo_n.jpg" alt="EGamingOnline" border="0" width="92" height="35"></a>
-<a href="http://www.gamcare.org.uk" target="_blank"><img src="/resources/gamcare.jpg" title="Gamecare" border="0" width="83" height="29"></a>
-<a href="#" target="_blank"><img src="/resources/extra_logo.jpg" border="0" width="31" height="45" title="Licensed"></a>
-<br><br>
-
-</div> 
-
-
-	
-	
-</body></html>
+</div></div></body></html>
