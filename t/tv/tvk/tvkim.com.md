@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvkim.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605023220id_/http%3A//www.komando.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvkim.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203185600id_/http%3A//www.komando.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Komando.com, Website for The Kim Komando Radio Show®
 
@@ -12,7 +12,7 @@ We ask that you read it carefully to understand how we will use and protect your
 
 By using any of our websites or obtaining any of our products or services, you agree to the collection and use of your information as set forth in this Policy. If you do not fully agree to all of the items, terms and conditions of this Policy please do not use any of our websites, products or services.
 
- **You use of any of our websites, products or services in any manner, affirms that you hereby agree to all the terms and conditions as set forth in this Policy.**
+ **Your use of any of our websites, products or services in any manner, affirms that you hereby agree to all the terms and conditions as set forth in this Policy.**
 
 All inquires must be submitted via USPS Certified Mail, Return Receipt Requested to:
 
@@ -187,4 +187,4 @@ The Kim Komando Show – Digital Goddess – Kim Komando – WestStar TalkRadio 
 
 Any rights not granted herein are reserved to and by WestStar TalkRadio Network.
 
-Last modified on: 4/3/2009 |  | 
+Last modified on: 9/19/2011 |  | 
