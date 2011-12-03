@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officialemailmarketing.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414110717id_/http%3A//officialemailmarketing.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialemailmarketing.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203040818id_/http%3A//www.officialemailmarketing.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
