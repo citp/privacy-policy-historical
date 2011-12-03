@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckynugget.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605042748id_/http%3A//www.luckynugget.com/security-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckynugget.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203081748id_/http%3A//www.luckynugget.com/security-and-privacy.aspx) for the most accurate reproduction.*
 
 # The Lucky Nugget Online Casino – Security & Privacy
 
@@ -48,4 +48,4 @@ Where there is a link from this website to another relevant site, this privacy p
 
 ## Your consent
 
-By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20110605042748id_/http%3A//www.luckynugget.com/terms-and-conditions.aspx "Casino Rules") . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
+By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/web/20111203081748id_/http%3A//www.luckynugget.com/terms-and-conditions.aspx "Casino Rules") . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
