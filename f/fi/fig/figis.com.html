@@ -1,584 +1,924 @@
-<!--The following is the downloaded HTML source of the figis.com privacy policy that was archived on 2010-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100420095752id_/http%3A//www.figis.com/orderinfo/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the figis.com privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203222033id_/http%3A//www.figis.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.-->
 
-<html><head>
-<title>Figi's - Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
-  <link rel="stylesheet" href="http://www.figis.com/figis.css" type="text/css">
-<style type="text/css">
-<!--
-.style1 {font-weight: bold}
-body {
-        background-image: url(http://www.figis.com/images/Fbackground.gif);
-}
--->
+    <title>
+      Privacy Policy
+    </title>
+  
+    <meta name="description" content="Privacy Policy">
+  
+    <meta name="keywords" content="Privacy Policy">
+  
+	<link rel="canonical" href="http://www.figis.com/category/customer+service/privacy+policy.do">
+
+<!-- BEGIN RKG Attribution Management Tracking Tag -->
+
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"> 
+			function rkg_track_sid(mid){ 
+			if(!(document.referrer&&document.referrer.match('://([^/]+)')[1].toLowerCase().match(document.domain.match('[^.]*\.[^.]*$')[0].toLowerCase()))){ 
+			var href="http://mct.rkdms.com/sid.gif?mid=figis&ref="+encodeURIComponent(document.referrer); 
+			var src=window.location.href.match(/rkg_src=.*(&|$)/); 
+			if(src&&src[0]){ 
+			var s=src[0].replace('rkg_src=', ''); 
+			href+="&src="+s;} 
+			document.write("<img height='1' width='1' src='"+href+"'/>");}} 
+			try{rkg_track_sid("figis");} catch(e) {} 
+		</script></head><body class="main" id="Figis"><img height="1" width="1" src="http://mct.rkdms.com/sid.gif?mid=figis&amp;ref="> 
+	 
+<!-- END RKG Attribution Management Tracking Tag -->
+
+
+<script type="text/javascript" src="/includes/jquery/jquery-1.4.min.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.popDown.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.autocomplete.js"></script>
+
+<script type="text/javascript" src="http://figis.ugc.bazaarvoice.com/static/2024/bvapi.js"></script>
+
+<script type="text/javascript" src="/includes/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+
+
+	<script src="/mod/productquickview/includes/pqv.compressed.js"></script>
+
+<link href="/mod/productquickview/includes/themes/default.css" rel="stylesheet" type="text/css">
+<link href="/mod/productquickview/includes/themes/pqv.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript">
+$BV.configure("global", {
+submissionContainerUrl: "http://www.figis.com/ReviewSubmit.do"
+});
+</script>
+
+
+<script type="text/javascript"> 
+
+  var _gaq = _gaq || []; 
+  _gaq.push(['_setAccount', "UA-4016400-3"]); 
+  _gaq.push(['_trackPageview']); 
+
+  
+
+
+
+	_gaq.push(['_trackTrans']); //submits transaction to the Analytics servers 
+
+  (function() { 
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+  })(); 
+
+</script> 
+
+
+    <link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
+	<link rel="stylesheet" href="/qas/thickbox.css">
+	<link rel="stylesheet" href="/qas/qas.css">
+  
+<link rel="shortcut icon" href="/images/figis/en_us/favicon.ico" type="image/vnd.microsoft.icon">
+<script type="text/javascript" src="/includes/headerScripts.js"></script>
+
+
+
+
+<div class="headerGroup">
+	<div class="setWidth">
+		<div class="headerTop">
+			<!--TopNav Start-->
+
+<script>
+  function checkKeyword(keyword, defaultText) {
+    var minKeywordLength = 0;
+    var maxKeywordLength = 0;
+    minKeywordLength += 1;
+    maxKeywordLength += 75;
+    var errMsg = '';
+    var searchTerms = '';
+    keyword.value = jQuery.trim(keyword.value);
+    searchTerms = keyword.value;
+    defaultText = "Keyword or Gift #";
+    var noSearchTerm = "Please enter a keyword or item number";
+    var shortSearchTerm = "Your keyword or item number must be at least 1 characters long";
+    if (searchTerms == defaultText) {
+      alert(noSearchTerm);
+      return false;
+    }
+    if (searchTerms == '') {
+      alert(noSearchTerm);
+      return false;
+    } else if ( searchTerms.length < minKeywordLength ) {
+        alert(shortSearchTerm);
+        return false;
+    } else {
+        return true;
+    }
+  }
+
+  function checkIfDefault(keyword) {
+    var defaultSearchTerm = "Keyword or Gift #";
+    if(keyword==defaultSearchTerm) {
+      return '';
+    }
+    else {
+      return keyword;
+    }
+  }
+</script>
+
+
+<script type="text/javascript">
+	var nsAutoComplete = null;
+	jQuery(document).ready(function(){
+		// match the width of the search text field
+		var iSearchBoxWidth = jQuery('#navsearchbox').css("width").replace(/\D/g, "")/1;
+		var widthDiff = (jQuery("#navsearchboxwrapper").width() - iSearchBoxWidth)/2;
+		if (widthDiff%2 != 0) widthDiff = widthDiff + 1;
+		if (widthDiff < iSearchBoxWidth) {		  
+			iSearchBoxWidth = jQuery("#navsearchbox").width() + widthDiff;
+		} else {
+			iSearchBoxWidth = iSearchBoxWidth + 4;
+		}
+		
+		// init the autocomplete
+		nsAutoComplete = jQuery('#navsearchbox').autocomplete({
+            serviceUrl: '/search.do',
+            params: { action:'ac' },
+			width: (iSearchBoxWidth),
+			minChars: 3
+		});
+	});
+</script>
+
+<div class="topNavGroup">
+	<div class="GlobalCartTopNav">
+		<ul id="sel_100062">
+			
+						<li>
+							<div id="tnc_1" class="catNav">
+								
+										<a class="current" href="/home.do?"><span>Figi's</span></a>
+									
+							</div>
+						</li>
+					
+						<li>
+							<div id="tnc_2" class="catNav">
+								
+										<a href="/category/gallery.do?"><span>Gallery</span></a>
+									
+							</div>
+						</li>
+					
+		</ul>
+	</div>
+<script type="text/javascript">
+jQuery( document ).ready( function ( $ ) {
+	// Add first and last menu item classes
+	$('ul.utility li:first-child').addClass( 'first' );
+	$('ul.utility li:last-child').addClass( 'last' );
+});
+</script>
+	<div class="topNavLinks">
+		
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery("#globalBasket").popDown({navLink:"/basket.do?nav=%2Fcategory%2Fid%2F202&gc=1",navOverClass:"globalCartNavOver",closeDelay:300});
+});
+</script>
+
+
+<div id="globalBasket" class="popDownWrapper globalCartWrapper">
+	<div class="popDownNav globalCartNav" id="topGlobalCartNav">
+		<div class="globalCartBasketImg">
+			<img src="/images/figis/en_us/global/globalgraphics/basketicon.gif" border="0" alt="Shopping" cart="">
+		</div>
+		<div class="globalCartBasketInfo">
+			<span class="navHeader"><b>Shopping Cart</b></span>
+			<span class="navQty"><b>0</b> items</span>
+			<span class="navTotal"><b>$0.00</b></span>
+		</div>
+	</div>
+
+
+	<div class="popDownLayer globalCartLayer" id="topGlobalCartLayer">
+
+		
+			<div class="globalCartEmpty">Your Shopping Cart is Empty</div>
+		  
+
+	</div>
+</div>
+ 
+		<ul class="utility">
+			<li class="first"><a href="/account.do?method=start">
+				My Account
+				</a></li>
+			<li><a href="/ancillary/orderstatus.do?method=view">
+				Order Status
+				</a></li>
+			<li><a href="/category/customer+service.do">
+				Customer Help
+				</a></li>
+			<li class="secureMessage last">100% Safe &amp; Secure</li>
+
+		</ul>
+	</div>
+</div>
+<div class="topNavHome">
+	
+	<div class="topNavHomeBanner">
+	    
+				<a href="/home.do?">
+			<img src="/images/figis/en_us/global/globalgraphics/spacer01.gif" border="0" title="Figi's Inc." id="logo" width="422" height="102">
+		</a>
+	</div>
+	<div class="searchForm">
+		<form class="navsearchform" name="searchForm" method="post" action="http://www.figis.com/search.do" onsubmit="document.searchForm.pageName.value=getVariableValue('pageName');return checkKeyword(this.keyword);">
+			
+			<input type="hidden" name="pageName" value="">
+			<input type="text" name="keyword" value="Keyword or Gift #" size="10" maxlength="75" class="navsearchbox" id="navsearchbox" onfocus="this.value=checkIfDefault(this.value);" align="absMiddle" autocomplete="off">
+			
+				<input class="navsearchbutton" type="image" name="Search" src="/images/figis/en_us/global/globalgraphics/search_btn.gif" alt="Search
+				" align="absMiddle">
+		</form>
+	</div>
+</div>
+<div>
+	
+</div>
+
+<!--TopNav End--> 
+
+		</div>
+		
+			<div class="headerNav">
+				
+	<!--CatNav Start-->
+	
+		<div id="sf-menu-text-nav">
+			
+
+<!-- dhtml menu start -->
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/superfish.js"></script>
+<script type="text/javascript" src="/includes/jquery/plugins/supersubs.js"></script>
+
+<ul class="sf-menu sf-js-enabled sf-shadow"><li><div id="nc_1">
+								<a class="sf-top-level-link" href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts.do?nType&#10;&#9;&#10;&#9;=1"><span>Cheese &amp; Meat</span></a>
+							</div>
+							<ul style="float: none; width: 17.2308em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Features</div> </li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/cheese+meat+best+sellers+gifts.do?nType=1" style="float: none; width: auto;">Best Sellers</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/cheese+meat+new+gifts.do?nType=1" style="float: none; width: auto;">New Arrivals</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/cheese+meat+gifts+under+20.do?nType=1" style="float: none; width: auto;">Gifts Under $20</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/cheese+club+gifts.do?nType=1" style="float: none; width: auto;">Cheese Club</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/cheese+meat+web+exclusives+gifts.do?nType=1" style="float: none; width: auto;">Web Exclusives</a></li><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Cheese</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/cheese+assortments+gifts.do?nType=1" style="float: none; width: auto;">Cheese Assortments</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/cheese+wheels+blocks+gifts.do?nType=1" style="float: none; width: auto;">Cheese Wheels &amp; Blocks</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/cheese+spreads+tortes+logs+gifts.do?nType=1" style="float: none; width: auto;">Cheese Spreads, Tortes &amp; Logs</a></li><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Meat</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/meat+assortments+gifts.do?nType=1" style="float: none; width: auto;">Meat Assortments</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/poultry+fish+wild+game+gifts.do?nType=1" style="float: none; width: auto;">Poultry, Fish &amp; Wild Game</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/cheese+meat+gifts/sausage+smokehouse+meat+gifts.do?nType=1" style="float: none; width: auto;">Sausage &amp; Smokehouse Meat</a></li></ul></li><li>
+							<div id="nc_2">
+								<a class="sf-top-level-link" href="http://www.figis.com/category/figis+gifts/bakery+gifts.do?nType&#10;&#9;&#10;&#9;=1"><span>Bakery</span></a>
+							</div>
+							<ul style="float: none; width: 17.2308em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Features</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/bakery+gifts/bakery+best+sellers.do?nType=1" style="float: none; width: auto;">Best Sellers</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/bakery+gifts/bakery+new+gifts.do?nType=1" style="float: none; width: auto;">New Arrivals</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/bakery+gifts/bakery+gifts+under+20+dollars.do?nType=1" style="float: none; width: auto;">Gifts Under $20</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/bakery+gifts/bakery+web+exclusives+gifts.do?nType=1" style="float: none; width: auto;">Web Exclusives</a></li><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Shop by Category</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/bakery+gifts/petits+fours+gifts.do?nType=1" style="float: none; width: auto;">Petits Fours</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/bakery+gifts/cookies+gifts.do?nType=1" style="float: none; width: auto;">Cookies</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/bakery+gifts/fruitcakes+gifts.do?nType=1" style="float: none; width: auto;">Fruitcakes</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/bakery+gifts/cakes+desserts+gifts.do?nType=1" style="float: none; width: auto;">Cakes &amp; Desserts</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/bakery+gifts/breads+gifts.do?nType=1" style="float: none; width: auto;">Breads</a></li></ul></li><li>
+							<div id="nc_3">
+								<a class="sf-top-level-link" href="http://www.figis.com/category/figis+gifts/nuts+snacks+gifts.do?nType&#10;&#9;&#10;&#9;=1"><span>Nuts &amp; Snacks</span></a>
+							</div>
+							<ul style="float: none; width: 17.2308em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Features</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/nuts+snacks+gifts/nuts+and+snacks+best+sellers+gifts.do?nType=1" style="float: none; width: auto;">Best Sellers</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/nuts+snacks+gifts/nuts+snacks+new+gifts.do?nType=1" style="float: none; width: auto;">New Arrivals</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/nuts+snacks+gifts/nuts+snacks+gifts+under+20+dollars.do?nType=1" style="float: none; width: auto;">Gifts Under $20</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/nuts+snacks+gifts/moo+mix+gifts.do?nType=1" style="float: none; width: auto;">Moo Mix</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/nuts+snacks+gifts/nuts+snacks+web+exclusives+gifts.do?nType=1" style="float: none; width: auto;">Web Exclusives</a></li><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Shop by Category</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/nuts+snacks+gifts/nuts+gifts.do?nType=1" style="float: none; width: auto;">Nuts</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/nuts+snacks+gifts/snacks+gifts.do?nType=1" style="float: none; width: auto;">Snacks</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/nuts+snacks+gifts/dried+fresh+fruit+gifts.do?nType=1" style="float: none; width: auto;">Dried &amp; Fresh Fruit</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/nuts+snacks+gifts/drinks+soups+appetizers+gifts.do?nType=1" style="float: none; width: auto;">Drinks, Soups &amp; Appetizers</a></li></ul></li><li>
+							<div id="nc_4">
+								<a class="sf-top-level-link" href="http://www.figis.com/category/figis+gifts/candy+chocolates+gifts.do?nType&#10;&#9;&#10;&#9;=1"><span>Candy &amp; Chocolates</span></a>
+							</div>
+							<ul style="float: none; width: 17.2308em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Features</div> </li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/candy+chocolates+gifts/candy+chocolates+best+sellers+gifts.do?nType=1" style="float: none; width: auto;">Best Sellers</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/candy+chocolates+gifts/candy+chocolates+new+gifts.do?nType=1" style="float: none; width: auto;">New Arrivals</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/candy+chocolates+gifts/candy+chocolates+gifts+under+20+dollars.do?nType=1" style="float: none; width: auto;">Gifts Under $20</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/candy+chocolates+gifts/candy+chocolates+web+exclusives+gifts.do?nType=1" style="float: none; width: auto;">Web Exclusives</a></li><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Shop by Category</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/candy+chocolates+gifts/chocolates+gifts.do?nType=1" style="float: none; width: auto;">Chocolates</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/candy+chocolates+gifts/fudge+gifts.do?nType=1" style="float: none; width: auto;">Fudge</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/candy+chocolates+gifts/hard+candy+gifts.do?nType=1" style="float: none; width: auto;">Hard Candy</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/candy+chocolates+gifts/chewy+candy+gifts.do?nType=1" style="float: none; width: auto;">Chewy Candy</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/candy+chocolates+gifts/sugar+free+candy+chocolates+gifts.do?nType=1" style="float: none; width: auto;">Sugar Free</a></li></ul></li><li>
+							<div id="nc_5">
+								<a class="sf-top-level-link" href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts.do?nType&#10;&#9;&#10;&#9;=1"><span>Gift Baskets &amp; Assortments</span></a>
+							</div>
+							<ul style="float: none; width: 17.2308em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Features</div> </li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/gift+baskets+assortments+best+sellers+gifts.do?nType=1" style="float: none; width: auto;">Best Sellers</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/gift+baskets+assortments+new+gifts.do?nType=1" style="float: none; width: auto;">New Arrivals</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/gift+baskets+assortments+gifts+under+20+dollars.do?nType=1" style="float: none; width: auto;">Gifts Under $20</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/gift+baskets+assortments+web+exclusives+gifts.do?nType=1" style="float: none; width: auto;">Web Exclusives</a></li><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Gift Baskets</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/holidays+occasions+gift+baskets.do?nType=1" style="float: none; width: auto;">Holidays &amp; Occasions Gift Baskets</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/cheese+meat+gift+baskets.do?nType=1" style="float: none; width: auto;">Cheese &amp; Meat Gift Baskets</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/candy+chocolates+gift+baskets.do?nType=1" style="float: none; width: auto;">Candy &amp; Chocolates Gift Baskets</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/personalized+gift+baskets.do?nType=1" style="float: none; width: auto;">Personalized Gift Baskets</a></li><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Gift Assortments</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/cheese+meat+assortments+gifts.do?nType=1" style="float: none; width: auto;">Cheese &amp; Meat Assortments</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/candy+chocolates+assortments+gifts.do?nType=1" style="float: none; width: auto;">Candy &amp; Chocolates Assortments</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/gift+baskets+assortments+gifts/towers+gifts.do?nType=1" style="float: none; width: auto;">Towers</a></li></ul></li><li>
+							<div id="nc_6">
+								<a class="sf-top-level-link" href="http://www.figis.com/category/figis+gifts/sugar+free+gluten+free+low+sodium+gifts.do?nType&#10;&#9;&#10;&#9;=1"><span>Sugar Free &amp; More  </span></a>
+							</div>
+							<ul style="float: none; width: 17.2308em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Features</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/sugar+free+gluten+free+low+sodium+gifts/sugar+free+best+sellers+gifts.do?nType=1" style="float: none; width: auto;">Best Sellers</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/sugar+free+gluten+free+low+sodium+gifts/sugar+free+gifts+under+twenty+dollars.do?nType=1" style="float: none; width: auto;">Gifts Under $20</a></li><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Shop by Category</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/sugar+free+gluten+free+low+sodium+gifts/sugar+free+gifts.do?nType=1" style="float: none; width: auto;">Sugar Free</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/sugar+free+gluten+free+low+sodium+gifts/no+sugar+added+reduced+sugar+gifts.do?nType=1" style="float: none; width: auto;">No Sugar Added &amp; Reduced Sugar</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/sugar+free+gluten+free+low+sodium+gifts/low+sodium+no+sodium+gifts.do?nType=1" style="float: none; width: auto;">Low &amp; No Sodium</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/sugar+free+gluten+free+low+sodium+gifts/reduced+fat+fat+free+gifts.do?nType=1" style="float: none; width: auto;">Reduced Fat &amp; Fat Free</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/sugar+free+gluten+free+low+sodium+gifts/gluten+free+gifts.do?nType=1" style="float: none; width: auto;">Gluten Free</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/sugar+free+gluten+free+low+sodium+gifts/calorie+free+gifts.do?nType=1" style="float: none; width: auto;">Calorie Free</a></li></ul></li><li>
+							<div id="nc_7">
+								<a class="sf-top-level-link" href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts.do?nType&#10;&#9;&#10;&#9;=1"><span>Holidays &amp; Occasions</span></a>
+							</div>
+							<ul style="float: none; width: 17.2308em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Features</div> </li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/holidays+occasions+best+sellers+gifts.do?nType=1" style="float: none; width: auto;">Best Sellers</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/holidays+occasions+new+gifts.do?nType=1" style="float: none; width: auto;">New Arrivals</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/holidays+occasions+gifts+under+20+dollars.do?nType=1" style="float: none; width: auto;">Gifts Under $20</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/personalized+holiday+occasions+gifts.do?nType=1" style="float: none; width: auto;">Personalized </a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/holidays+occasions+web+exclusives+gifts.do?nType=1" style="float: none; width: auto;">Web Exclusives</a></li><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Shop by Category</div>  </li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/christmas+gifts.do?nType=1" style="float: none; width: auto;">Christmas</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/birthday+gifts.do?nType=1" style="float: none; width: auto;">Birthday</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/thank+you+gifts.do?nType=1" style="float: none; width: auto;">Thank You</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/hanukkah+gifts.do?nType=1" style="float: none; width: auto;">Hanukkah</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/holiday+brunch+gifts.do?nType=1" style="float: none; width: auto;">Holiday Brunch</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/gifts+of+faith.do?nType=1" style="float: none; width: auto;">Gifts of Faith</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/gifts+for+children.do?nType=1" style="float: none; width: auto;">Gifts For Children</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/holidays+occasions+gifts/international+foods+gifts.do?nType=1" style="float: none; width: auto;">International Foods</a></li></ul></li><li>
+							<div id="nc_8">
+								<a class="sf-top-level-link" href="http://www.figis.com/category/figis+gifts/home+decor+accessories+gifts.do?nType&#10;&#9;&#10;&#9;=1"><span>Home Decor &amp; Accessories</span></a>
+							</div>
+							<ul style="float: none; width: 17.2308em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Features</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/home+decor+accessories+gifts/home+decor+accessories+best+sellers+gifts.do?nType=1" style="float: none; width: auto;">Best Sellers</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/home+decor+accessories+gifts/home+decor+accessories+new+arrivals+gifts.do?nType=1" style="float: none; width: auto;">New Arrivals</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/home+decor+accessories+gifts/home+decor+accessories+gifts+under+20+dollars.do?nType=1" style="float: none; width: auto;">Gifts Under $20</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/home+decor+accessories+gifts/home+decor+accessories+personalized+gifts.do?nType=1" style="float: none; width: auto;">Personalized</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/home+decor+accessories+gifts/home+decor+accessories+web+exclusives+gifts.do?nType=1" style="float: none; width: auto;">Web Exclusives</a></li><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Shop by Category</div></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/home+decor+accessories+gifts/collectibles+gifts.do?nType=1" style="float: none; width: auto;">Collectibles</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/home+decor+accessories+gifts/home+accents+gifts.do?nType=1" style="float: none; width: auto;">Home Accents</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/home+decor+accessories+gifts/apparel+gifts.do?nType=1" style="float: none; width: auto;">Apparel</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/home+decor+accessories+gifts/jewelry+gifts.do?nType=1" style="float: none; width: auto;">Jewelry</a></li></ul></li><li>
+							<div id="nc_9">
+								<a class="sf-top-level-link" href="http://www.figis.com/category/figis+gifts/figis+on+sale.do?nType&#10;&#9;&#10;&#9;=1"><span>SALE</span></a>
+							</div>
+							<ul style="float: none; width: 17.2308em; display: none; visibility: hidden;"><li style="white-space: normal; float: left; width: 100%;"><div class="primaryNavSnippet">Shop by Category</div>  </li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/figis+on+sale/figis+weekly+specials+gifts.do?nType=1" style="float: none; width: auto;">Weekly Specials</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/figis+on+sale/figis+buy+more+save+more+gifts.do?nType=1" style="float: none; width: auto;">Buy More Save More</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/figis+on+sale/free+shipping+%26+handling+gift.do?nType=1" style="float: none; width: auto;">Free Shipping &amp; Handling</a></li><li style="white-space: normal; float: left; width: 100%;"><a href="http://www.figis.com/category/figis+gifts/figis+on+sale/figis+sale+gifts.do?nType=1" style="float: none; width: auto;">Sale</a></li></ul></li></ul>
+
+<script type="text/javascript">
+	jQuery(document).ready(function($){
+	
+		jQuery("ul.sf-menu").supersubs({ 
+			minWidth:    12,   // minimum width of sub-menus in em units 
+			maxWidth:    27,   // maximum width of sub-menus in em units 
+			extraWidth:  1     										// extra width can ensure lines don't sometimes turn over 
+							   														// due to slight rounding differences and font-family 
+		}).superfish({ 
+			delay:       450,   // millisecond delay on mouseout 
+			animation:   {opacity:'show'},							// animation style 
+			speed:       1,															// animation speed 
+			autoArrows:  false,                         // arrow mark-up config 
+			dropShadows: true       // drop shadow config 
+		}).find('ul').bgIframe({opacity:false});
+
+		// make top cats stay 'on' when hovering over their subs 
+		jQuery("ul.sf-menu").find("a[onmouseover]").each(function (i){
+			jQuery(this).parent("li").find("ul:first").hover(jQuery(this).attr("onmouseover"), jQuery(this).attr("onmouseout"));
+		});
+	});
+</script>
+<!-- dhtml menu end -->
+		</div>
+	
+	<!--CatNav End-->
+<script>
+jQuery( document ).ready( function ( $ ) {	// Add 'last' class to final category item
+	if ($(window).width() < 1236){
+		$('ul.sf-menu li:last-child').addClass( 'last' );
+	}
+});
+</script>
+			</div>
+		
+	</div>
+</div>
+
+<div>
+	
+<div class="GlobalPromo">
+           <style type="text/css">
+   /*<![CDATA[*/
+	a.include:link {
+		  text-decoration:none;
+		  } 
+	a.include:hover {
+		text-decoration:underline;
+		}
+   /*]]>*/
 </style>
 
- 
-<meta name="keywords" content="figi's, figis, gifts, baskets, gourmet, food, gift baskets, assortments, holiday, gourmet">
-<meta name="description" content="Figi's features food gifts, Wisconsin cheese, sausage, unique gift baskets and an assortment of great gift ideas. Serving your gift giving needs for over 60 years!">
-<meta name="ROBOTS" content="INDEX,FOLLOW">
- 
-<meta http-equiv="refresh" content="1800; url=http://www.figis.com/customerrors/redirect.asp?pagen=/orderinfo/privacy.asp&amp;ssurl=off">
 
 
-<meta name="verify-v1" content="XUC3b00HPjUDezYHNdFvhU1l8qb5u6lQXN6UAJqmrGY=">
+<div class="mboxDefault" style="visibility: visible; display: block;">
+		<div align="center" style="font-family:Arial, Verdana, Helvetica, sans-serif; background-color:#afd1df; text-decoration:none; font-size:10pt; color:#561b0b; width: 370px; height: 35px; float:left; line-height:35px;">
+        
+<a href="/category/quick+link+figis+gifts+under+twenty+dollars.do" title="Top 20 Under $20" class="include" style=" color: #561b0b;">Top 20 Under $20 </a>| <a href="/category/figis+signature+gifts.do" title="Figi's Signature Gifts" class="include" style=" color: #561b0b;">Figi's Signature Gifts</a> | <a href="/category/figis+top+rated+gifts.do" title="Top Rated Gifts" class="include" style=" color: #561b0b;">Top Rated Gifts</a></div>
+  
+  		<div style="width: 620px; height: 35px; float:left;"><a href="/category/figis+gifts/holidays+occasions+gifts/christmas+gifts.do"><img src="/text/figis/content/globalpromoimgs/fall11/ffh1113_02.gif" alt="Shop Christmas Gifts" title="Shop Christmas Gifts" width="620" height="35" border="0"></a></div>
+	<div style="clear: both;"></div><!-- new row -->
+</div><script language="JavaScript">mboxCreate('globalBanner');</script><div id="mboxMarker-default-globalBanner-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://figis.tt.omtrdc.net/m2/figis/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580464501637-928401&amp;mboxPage=1580464505238-465870&amp;mboxCount=1&amp;mbox=globalBanner&amp;mboxId=0&amp;mboxTime=1580464505419&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111203222033id_%2Fhttp%253A%2F%2Fwww.figis.com%2Fcategory%2Fcustomer%252Bservice%2Fprivacy%252Bpolicy.do&amp;mboxReferrer=&amp;mboxVersion=38" language="JavaScript"></script>
 
-    <link rel="shortcut icon" type="image/ico" href="http://www.figis.com/images/figisicon.ico">
+</div>
+</div>
 
-<script type="text/javascript" src="https://Figis-ac.celebros-analytics.com/AutoComplete/CelebrosAutoCompleteV2.js"></script>
-<link type="text/css" rel="stylesheet" href="http://www.figis.com/autocomplete.css">
-
-
-
-<!-- Start MBox Library  -->
-<script src="http://www.figis.com/includes/scripts/mbox.js" language="JavaScript"></script>
-<!-- End MBox Library  -->
-
-
-
-<script type="text/javascript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script><script language="JavaScript">
-function doSubmitemail(){
-
-    document.Formem.action = "https://www.figis.com/emails/new.asp";
-    document.Formem.submit();
-}
-
-function popupwin(windown,wid,hgt)
-{
- window.open(windown,null,"height="+hgt+",width="+wid+",status=yes,resizable=yes,toolbar=yes,menubar=yes,location=no");
-return false;
-}
-
-function checkFieldsrc() 
-{
-    var searchtxt=trimit(document.searchForm.query.value);
-        document.searchForm.query.value = searchtxt;
-        return true;
-}
-
-function trimit(inString){
-  return lTrim(rTrim(inString));
-}
-
-function lTrim(inString){
-  return inString.replace(/'/g,'');
-}
-function rTrim(inString)
-{
-    return inString.replace(/</g,'');
-}
-</script></head>
+<div class="mainLayoutTable">
+	
+	<div class="
+		colHeight">
+		<div class="bodyContent">
+			
 
 
 
 
+        <table border="0" cellpadding="0" cellspacing="0" width="990">
+          <tbody><tr>
+            <td>
+              <table border="0" cellpadding="0" cellspacing="0">				
+								<tbody><tr>
+                  <td>
+										
+												<div><img src="/images//figis/en_us/local/headers/main/customerservice_mhd.gif" border="0" alt="Customer Help"></div>
+															  
+								  </td>
+                  <td>
 
 
-<body onload="MM_preloadImages('http://www.figis.com/images/head/foodgifts2.gif','http://www.figis.com/images/head/holidayoccasions2.gif','http://www.figis.com/images/head/recipient2.gif','http://www.figis.com/images/head/newgifts2.gif','http://www.figis.com/images/head/webexclusives2.gif','http://www.figis.com/images/head/specialoffers2.gif')">
+<script>
+  function changeCat(frm, thisbox) {
+     var optiontxt = thisbox.options[thisbox.selectedIndex].value;
+     if (optiontxt == "0") return;
+     else location.href = optiontxt
+  }
+</script>
 
 
+<select name="subCatdd" onchange="changeCat(this.form,this)">
+    
+            <option value="/category/customer+service/faq.do">FAQ</option>
+        
+            <option value="/category/customer+service/contact+us.do">Contact Us</option>
+        
+            <option value="/category/customer+service/figis+guarantee.do">Figis Guarantee</option>
+        
+            <option value="/category/customer+service/shipping+information.do">Shipping Information</option>
+        
+            <option value="/category/customer+service/low+payments.do">Low Payments</option>
+        
+            <option value="/category/customer+service/ordering+is+easy.do">Ordering is Easy</option>
+        
+            <option value="/category/customer+service/free+gifts.do">Free Gifts</option>
+        
+            <option value="/category/customer+service/safe+%26+secure.do">Safe &amp; Secure</option>
+        
+            <option value="/category/customer+service/returns+policy.do">Returns Policy</option>
+        
+            <option value="/category/customer+service/privacy+policy.do?sortby=ourPicks" selected="">Privacy Policy</option>
+        
+            <option value="/category/customer+service/credit+details.do">Credit Details</option>
+        
+            <option value="/category/customer+service/terms+of+use.do">Terms of Use</option>
+        
+            <option value="/category/customer+service/email+us.do">Email Us</option>
+        
+</select>
 
-<div id="font">
-
-
-
-
-
-
-
-
-<table width="960" border="0" align="center" cellpadding="0" cellspacing="5" class="white" height="100%">
- <tbody><tr>
-    <td width="30" rowspan="4" align="left" valign="top"><img src="http://www.figis.com/images/HP-template-for-HTML_27.jpg" alt="" border="0" width="30" height="5"></td>
-      <td colspan="3">
-         <table width="880" border="0" cellpadding="0" cellspacing="0">
-           <tbody><tr align="left">
-           
-           <td width="267" height="81"><a href="http://www.figis.com/"><img src="http://www.figis.com/images/figis_logo.gif" alt="Figi's Gifts in Good Taste" title="Figi's Gifts in Good Taste" width="267" height="75" border="0"></a></td>
-           
-            <td width="638" height="81" align="right" valign="middle"><p><span class="topNum">1-800-422-3444<span class="bottnavgreen"> |</span></span> <a href="http://www.figis.com/orderinfo/custserv.asp" class="topnav" title="Customer Help">Customer <b>Help</b></a><span class="bottnavgreen"> |</span> <span class="topnav"><a href="https://www.figis.com/orderstatus/order_status.asp" class="topnav" title="Order Status">Order <b>Status</b></a> <span class="bottnavgreen">| </span><span class="topnav"><a href="https://www.figis.com/bcclub/signup.asp" class="topnav" title="My Account">My <b>Account</b></a></span><span class="topnav"></span></span></p>
-             <p class="linkbetweentxt">Welcome, please  <a href="https://www.figis.com/bcclub/signup.asp" title="sign in" class="signin"> sign in</a> or start a <a href="https://www.figis.com/bcclub/signup.asp" title="new My Account" class="signin">new My Account</a></p>     
-           </td>
+</td>
+                </tr>
+              </tbody></table>
+            </td>
           </tr>
-         </tbody></table>
-      </td>
-      <td width="30" rowspan="4">&nbsp;</td>
-  </tr>
-  
- 
-<!--h3-->
-<tr height="95">
-  <td height="95" valign="bottom">
-    <table width="188" border="0" cellspacing="0" cellpadding="0" class="leftnavback" height="95">
-      <tbody><tr>
-              <td height="14" valign="bottom" bgcolor="#FFFFFF"><img src="http://www.figis.com/images/spacer.gif"></td>
-      </tr>
-      <tr>
-        <form id="Form1" name="searchForm" action="http://www.figis.com/search/search.aspx" method="POST"></form>
-          <td class="searchaheader" valign="middle" align="center">
-            <span class="linkbetweentxt">Looking for something special?</span>
-            <span class="bottnavgreen">&nbsp;SEARCH</span>
-            
-              <span class="body"> - Keyword or Gift#</span>
-            
-      
-      
-            <table border="0" cellspacing="0" cellpadding="0" valign="middle" align="center"><tbody><tr>
-            <td class="searchaheader" valign="middle" align="center">
-              <input name="query" autocomplete="off" id="query" type="text" class="searchalign" size="15" maxlength="75">
-            </td>
-            <td class="searchaheader" valign="middle" align="center">
-              <img src="http://www.figis.com/images/spacer.gif" alt="" border="0" width="1" height="1">
-              <input type="image" src="http://www.figis.com/images/go.gif" border="0" width="25" height="22" onclick="return checkFieldsrc();">
-              <input type="hidden" name="go" value="true" id="Hidden1">
-            </td>
-           </tr></tbody></table>
-        
-           </td></tr>
-           
-           
-           
-       
-        <script language="javascript">
-          CelebrosAutoComplete("Figis","query",onSelect);
-          function onSelect(aParameter)
-          {
-            Form1.query.value=aParameter["SelectedQuery"];
-            Form1.submit();
-          }
-        </script>
-      
-    </tbody></table>
-  </td>
-  <td height="95" valign="top" align="left" width="690"> 
-    <table height="60" cellspacing="0" cellpadding="0" border="0" width="690">
-      <tbody><tr>
-        
-            <td nowrap="" valign="bottom" height="60"><a class="top" href="http://www.figis.com/categories.asp?h1=1">Food Gifts</a></td>
-            
-            <td nowrap="" valign="bottom" height="60"><a class="top" href="http://www.figis.com/categories.asp?h1=2">Holiday &amp; Occasions</a></td>
-            
-            <td nowrap="" valign="bottom" height="60"><a class="top" href="http://www.figis.com/categories.asp?h1=3">By Recipient</a></td>
-            
-            <td nowrap="" valign="bottom" height="60"><a class="top" href="http://www.figis.com/categories.asp?h1=4">Unique Gifts</a></td>
-            
-            <td nowrap="" valign="bottom" height="60"><a class="top" href="http://www.figis.com/categories.asp?h1=5">Web Exclusives</a></td>
-            
-            <td nowrap="" valign="bottom" height="60"><a class="top" href="http://www.figis.com/categories.asp?h1=6">Special Offers</a></td>
-            
-        <td width="1" height="1"><img src="http://www.figis.com/images/spacer.gif" alt="" border="0"></td>
-        <td align="right" width="104" height="54">
-          <table border="0" cellspacing="0" cellpadding="0" width="100%" height="100%" bgcolor="#990000" style="BORDER: #990000 2px solid;">
-     <!--     <table border="1" cellSpacing="0" cellPadding="0" width="100%" height="100%" >-->
-            <tbody><tr>
-              <td height="17" valign="bottom" colspan="2"><img src="http://www.figis.com/images/safesecure.gif"></td>
-                  </tr>
-                  
-            <tr>
-              <td align="left" bgcolor="#efeccb" class="body">
-               <a href="http://www.figis.com/online/giftlist.asp?cartType=p&amp;type=view">
-               <img border="0" height="41" width="104" src="http://www.figis.com/images/head/cart_23.gif"></a>
-              </td>
-            </tr>
-             
-          </tbody></table>
-        </td>
-      </tr>
-      <tr>
-        <td height="3" colspan="13" class="style1"><img src="http://www.figis.com/images/spacer.gif" border="0" width="83" height="3"></td>
-      </tr>                      
-    </tbody></table>
-   
-    <table height="35" width="690" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr align="left" valign="top">
-        <td width="690" height="35" colspan="13">
-        <!-- Start MBox Promo Banner  -->
-        <div class="mboxDefault"><a href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1215"><img src="http://www.figis.com/images/fmh103_03.gif" alt="" width="690" height="35" border="0"></a></div><script language="JavaScript">mboxCreate('promoBanner');</script></td>
-                    
-      </tr>
-    </tbody></table>
-  </td>
-</tr>
-
-<tr>
-  <td valign="top" class="leftnavback">
-          
-  <table width="100%" border="0" align="left" cellpadding="5" cellspacing="0" bgcolor="#eeeddb">
-    <tbody><tr><td colspan="2" class="searchaheader"><a class="leftheaders" href="http://www.figis.com/categories.asp?h1=1">Food Gifts</a></td></tr><tr><td width="8" class="left"></td><td width="165" class="left"><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1178&amp;hd=1">New Gifts<br></a><a class="left" href="http://www.figis.com/categories.asp?h2=1&amp;categoryID=1080">Bakery Shop<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1234&amp;hd=1">Breakfast<br></a><a class="left" href="http://www.figis.com/categories.asp?h2=1&amp;categoryID=1087">Candy Store<br></a><a class="left" href="http://www.figis.com/categories.asp?h2=1&amp;categoryID=1093">Cheese<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1238&amp;hd=1">Drinks, Soups, Etc.<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=900&amp;hd=1">Figis Signature®  Gifts<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1098&amp;hd=1">Gift Baskets<br></a><a class="left" href="http://www.figis.com/categories.asp?h2=1&amp;categoryID=1103">Meat<br></a><a class="left" href="http://www.figis.com/categories.asp?h2=1&amp;categoryID=1109">Nuts/Snacks/Fruits<br></a><a class="left" href="http://www.figis.com/categories.asp?h2=1&amp;categoryID=1113">Sugarfree<br></a></td></tr><tr><td colspan="2" class="searchaheader"><a class="leftheaders" href="http://www.figis.com/categories.asp?h1=2">Holiday &amp; Occasions</a></td></tr><tr><td width="8" class="left"></td><td width="165" class="left"><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1123&amp;hd=2">Birthday<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1217&amp;hd=2">Father's Day<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1124&amp;hd=2">Gifts of Faith<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1218&amp;hd=2">Graduation<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1215&amp;hd=2">Mother's Day<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1221&amp;hd=2">Thank You<br></a></td></tr><tr><td colspan="2" class="searchaheader"><a class="leftheaders" href="http://www.figis.com/categories.asp?h1=3">By Recipient</a></td></tr><tr><td width="8" class="left"></td><td width="165" class="left"><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1127&amp;hd=3">Gifts for Children<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1128&amp;hd=3">Gifts for Family<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1126&amp;hd=3">Gifts for Her<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1125&amp;hd=3">Gifts for Him<br></a><a class="left" href="http://www.figis.com/categories.asp?h2=3&amp;categoryID=1129">Military APO/FPO<br></a></td></tr><tr><td colspan="2" class="searchaheader"><a class="leftheaders" href="http://www.figis.com/categories.asp?h1=4">Unique Gifts</a></td></tr><tr><td width="8" class="left"></td><td width="165" class="left"><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1131&amp;hd=4">Apparel<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1132&amp;hd=4">Collectibles<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1133&amp;hd=4">Florals<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1136&amp;hd=4">Home Accents<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1137&amp;hd=4">Jewelry<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1231&amp;hd=4">Personalized Gifts<br></a></td></tr><tr><td colspan="2" class="searchaheader"><a class="leftheaders" href="http://www.figis.com/categories.asp?h1=5">Web Exclusives</a></td></tr><tr><td width="8" class="left"></td><td width="165" class="left"><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1156&amp;hd=5">Appetizers &amp; Entree<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1157&amp;hd=5">Collectibles<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1166&amp;hd=5">Gift Baskets<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1174&amp;hd=5">Holiday Gifts<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1170&amp;hd=5">Tasteful Food Gifts<br></a></td></tr><tr><td colspan="2" class="searchaheader"><a class="leftheaders" href="http://www.figis.com/categories.asp?h1=6">Special Offers</a></td></tr><tr><td width="8" class="left"></td><td width="165" class="left"><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1230&amp;hd=6">Buy More Save More<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1035&amp;hd=6">Gift Certificates<br></a><a class="left" href="http://www.figis.com/categories.asp?h2=6&amp;categoryID=1222">Gifts Under $20<br></a><a class="left" href="http://www.figis.com/categories.asp?h2=6&amp;categoryID=1247">Last Chance<br></a><a class="left" href="http://www.figis.com/gifts/subcat.asp?ctype=1&amp;categoryID=1205&amp;hd=6">Weekly Specials<br></a><a class="left" href="http://www.figis.com/categories.asp?h2=6&amp;categoryID=671">Clearance<br></a></td></tr>
-  </tbody></table>
-    
-  
-  </td>
-    <!---pre_content_inc ---start-->
-     <td width="617" height="256" valign="top"> 
-     <table width="690" height="450" align="top" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="top">
-  <!---pre_content_inc ---end-->
-      
-<table cellspacing="0" cellpadding="0" width="100%" border="0">
-<tbody><tr>
-<td width="617" align="left" valign="top">
- <table height="36" cellspacing="2" cellpadding="2" width="617" border="0">
-   <tbody><tr>
-      <td width="3%" align="RIGHT"><img src="http://www.figis.com/images/greenarrow.gif" width="9" height="13"></td>
-      <td><p><span class="orderHead">Customer Service : </span><span class="orderHeadred">Internet Privacy Policy </span></p></td>
-   </tr>
-</tbody></table>
-
-            </td>
-            </tr>
-          
           <tr>
-            <td width="627" height="128" align="center" valign="top"> 
-<table border="0" cellspacing="0" cellpadding="0" width="690"><tbody><tr><td valign="top">&nbsp;&nbsp;&nbsp;&nbsp;</td><td valign="top"><p>
-</p><ul><font face="verdana,geneva,arial,sans-serif" size="1">
-<li><a href="#pp1">What is your&nbsp;Internet Privacy Policy?</a></li>
-<li><a href="#pp2">What information do you collect when I visit your Web sites?</a></li>
-<li><a href="#pp3">What is your e-mail policy?</a></li>
-<li><a href="#pp4">How do you use my information?</a></li>
-<li><a href="#pp5">What if my information changes?</a></li>
-<li><a href="#pp6">How do I opt out of sharing of my information?</a></li>
-<li><a href="#pp7">What is your position on children's privacy?</a></li>
-<li><a href="#pp8">What is your security policy?</a></li>
-<li><a href="#pp10">What are cookies, and do you use them?</a></li>
-<li><a href="#pp11">Will your privacy and security policies ever change?</a></li>
-<li><a href="#pp12">How can I contact you with my suggestions or questions?</a></li></font></ul><font face="verdana,geneva,arial,sans-serif" size="1">
-<p></p>
-</font><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong>This policy was last updated and posted in April 2010.</strong></font></p><font face="geneva,arial,sans-serif" size="2">
-<p><font face="verdana,geneva,arial,sans-serif" size="1">This Web site is operated by Charming Direct, Inc. on behalf of Figi's, Inc. Figi's, Inc. and its affiliates are committed to respecting your privacy and recognize the need for appropriate protection and management of the personally identifiable and personal information you share with us.</font></p></font><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong><a name="pp1">What is your Internet Privacy Policy?</a></strong><br>This Privacy Policy tells you what personally identifiable information and personal information we may collect from our customers and investors, how we may share this information, and how you can limit our sharing of your information. "Personally identifiable information" and "personal information" mean any information by which you can be identified, such as your name, address and telephone number.</font></p>
-<p><font face="Verdana" size="1">As a part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the Direct Marketing Association Privacy Promise to American consumers <a href="https://www.dmachoice.org/dma/static/privacy_policy.jsp">Direct Marketing Association Privacy Promise to American consumers.</a> Accordingly, we have agreed to (1) provide customers with notice of their ability to opt out of information exchanges with other marketers; (2) honor customer requests not to have their information transferred to others for marketing purposes; and (3) accept and honor customer requests not to receive solicitations from our brand.</font></p><p><font face="verdana,geneva,arial,sans-serif"><font size="1">Our Web site may contain links to other Web sites that are not under our control. Those Web sites may have their own policies regarding privacy. We have no control of or responsibility for linked Web sites and provide these links solely for the convenience and information of our visitors. Those Web sites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual Web sites to see how the operators of those third-party Web sites will utilize your personal information. In addition, this Web sites may contain a link to Web sites of our affiliates. The Web sites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such Web sites will utilize your personal information. </font></font></p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a><br></p><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong><a name="pp2">What information do you collect?</a></strong><br>Generally, our customers can visit our Web site without providing or revealing any personal or personally identifiable information. We receive and store certain types of information whenever visitors interact with our Web site. We may track the Internet domain address from which our visitors visit our Web site and analyze this data for trends and statistics. Unless a visitor to our Web site voluntarily provides personal information to us, each individual customer remains anonymous.</font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">We receive and may store certain personal information that our visitors enter when visiting our Web site or provide to us in other ways. For instance, we collect the information you provide to us when you place an order, register with us, send an e-mail or call us, enter a sweepstakes or contest, subscribe to a service, enroll in a club, request to receive direct mail, or participate in a promotion. This information may include your name, shipping/billing address, telephone number, e-mail address, credit card information, product purchases, birth date, gender, occupation, personal interests, and other similar personal or preference data that you provide to us. It may also include information you submit about other people such as the name and address of a gift recipient. Whether or not you provide such information to us is completely your own choice.</font></p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a><br></p><p><font face="Verdana, Arial, Helvetica, sans-serif"><font size="1"><strong><a name="pp3">What is your e-mail policy?</a></strong><br>We will not sell, rent, or trade your e-mail address to any unaffiliated third party without your permission. We believe that your e-mail address is personal and should be kept that way. We use your e-mail address to provide better customer service, to facilitate your transactions, and to inform you of internet offers and promotions and updates from Figi's, Inc. and its affiliates. </font></font></p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a><br></p><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong><a name="pp4">How do you use my information?</a></strong><br>We use the personal and/or personally identifiable information you provide for our internal purposes, such as confirming, and tracking your order, subscription or registration, analyzing trends and statistics, informing you of our new products (including products of our affiliates), services and offers, and providing you with information from our Web site.&nbsp; When you place an order we also use your personal and/or personally identifiable information to fulfill your order.</font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">From time to time, we may also work with other non-affiliated organizations that we believe are trustworthy and offer products or services that may be of interest to you. In such instances, we might share limited information (such as your name and/or postal address) that we have collected from you, including personally identifiable information, so that such organizations may contact you with offers that may interest you. Be assured, however, that we will not share your information with these organizations if you have requested that we refrain from doing so.</font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">On our Web site, we may provide links to other Web sites that are not owned or controlled by Figi's, Inc. While we select these associations carefully, we are not responsible for the security and privacy policies or practices of the Web sites accessed through these links. You should refer to these Web sites for their respective privacy and security policies. You access such linked Web sites at your own risk.</font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">To serve you better, we may combine the information you give us online, publicly available information; and information we receive from others. We use that combined information to enhance and personalize your experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.</font></p><p><font face="verdana,geneva,arial,sans-serif" size="1">Also, we may contract with third-party service providers to provide certain services for our business, such as credit card processing, order processing and management, computer system services, shipping, data management, or promotional services. We provide the information needed for these service providers to perform these services. The information we provide may include some of our customers' personal and personally identifiable information. However, these service providers are not authorized to use any of the information we share with them for any purposes other than to provide services to us.</font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">We may share information that we have collected with governmental agencies and other organizations assisting us in fraud prevention or for investigative purposes. We may do so when permitted or mandated by law; trying to protect against or prevent fraud; attempting to prevent unauthorized or improper transactions; or investigating fraud or improper conduct that has already taken place. In these instances, the information is not provided to these agencies or organizations for marketing or any other unrelated purposes.</font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">Additionally, we may share your e-mail address, name, telephone number, and postal address within the Figi's, Inc. family (including our parent Charming Shoppes, Inc.). Also, when you purchase from us our Web site we&nbsp; may need to contact you via phone, e-mail, or mail to address issues specific to your order, even if you have opted to not receive communications from us. From time to time we may also market certain third party services through our site. Should you choose to accept an offer from a third party, we will pass your relevant personal information, including your name, postal address, credit/debit card number and any other required billing information to that specific third party.</font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">Finally, if some or all of the business assets of Figi's, Inc. are sold or transferred, we generally would transfer the corresponding information regarding our customers and visitors to the purchaser. We also may retain a copy of that information.</font></p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a><br></p><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong><a name="pp5">What if my information changes?&nbsp;</a></strong><br>You may update your registered personal information at any time. This includes your name, password, e-mail, and postal address. You may also manage your mailing preferences and e-mail formats. <a href="https://www.figis.com/bcclub/signup.asp">Update your information or change your mailing preferences.</a></font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, or if you need assistance with the modification of your information, <a href="https://www.figis.com/orderinfo/contact.asp">send us an e-mail</a> with your request or write to us at Figi's, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.</font></p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a><br></p><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong><a name="pp6">How do I opt out of sharing of my information?</a></strong><br>You may opt out of future unaffiliated third-party disclosures of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, order processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your orders and/or requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent orders, contests or promotions you may choose to enter, or third party offers you may choose to accept.</font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">If at any time you need assistance with opting out of the sharing of information with unrelated third parties, <a href="https://www.figis.com/orderinfo/contact.asp">send us an e-mail</a> with your request or write to us at&nbsp;Figi's Inc.,&nbsp;Opt Out Department, 3200 S.&nbsp;Central Ave.,&nbsp;Marshfield, WI 54449&nbsp;USA.</font></p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a><br></p><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong><a name="pp7">What is your position as to children's privacy?</a></strong><br>Our Web site is a general-audience Web site and is not directed to anyone under the age of thirteen ("Children"). We do not seek to solicit information from Children. If Children submit information to us and we know that the individuals submitting the information are indeed Children, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. We urge parents and guardians to participate in their Children's online activities and use parental control or Web filtering technology to supervise Children's access to the Internet.</font></p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a><br></p><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong><a name="pp8">What is your security policy?</a></strong><br>Because we all benefit from secure online shopping, we have taken steps to build and manage a system that you can use with confidence. We use sophisticated encryption and authentication tools to protect the security of the personal information that you share with us. The personal information you provide to us is preserved behind a firewall, instead of being directly connected to the Internet. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. Once we receive your transmission, we have appropriate security measures in place within our physical facilities to protect against the loss, misuse, or alteration of the personal information you have provided to us.</font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">We urge you to keep your password for our Web site in a safe place and not divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit to any of our Web sites. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.</font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">We use industry-standard efforts such as firewalls, data-encryption methods and password-protected data sources to safeguard the confidentiality of your information. To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to reasonably safeguard and secure the information we collect online. If sensitive data is collected through this Web site, we will encrypt your personal information before it travels over the Internet using industry standards for secure online transactions</font><font face="verdana,geneva,arial,sans-serif" size="1">.</font> </p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a><br></p><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong><a name="pp10">What are cookies, and do you use them?</a></strong><a name="pp10"><br>Our Web site uses cookies. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Generally, we use cookies to remind us who you are; tailor our products and services to suit your personal interests; estimate the number of visitors to our Web sites; track visits to and sales at the stores referenced on our Web site; process your order; track your status in our promotions, contests, and sweepstakes; and/or analyze our customers' visiting patterns. You can generally set your browser to refuse to accept cookies, or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. We do not use cookies to store any of your personal or financial information on your computer.</a></font></p>
-<p><font face="verdana,geneva,arial,sans-serif" size="1">In addition, we use third-party companies to help us gather data to assist us in improving your shopping experience and the quality of our Web site. Some of these companies may use cookies on our behalf to conduct this analysis.</font></p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a><br></p><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong><a name="pp11">Will your privacy and security policies ever change?</a></strong><br>From time to time, our privacy and security practices may change. If we modify our Privacy Policy, in whole or in part, to address these changes, we will indicate when such changes are made by changing the "Last Updated" date at the beginning of this Policy. Those changes will be effective as of the Last Updated date. The new policy will apply to all current and past users of our Web site and will replace any prior policies that are inconsistent. We may change or add to this Policy, so we encourage you to review it periodically.</font></p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a><br></p><p><font face="verdana,geneva,arial,sans-serif" size="1"><strong><a name="pp12">How can I contact you with my suggestions or questions?</a></strong><br>To help us improve our privacy and security policies and practices, please send us your questions and feedback. <a href="https://www.figis.com/orderinfo/contact.asp">Send us an e-mail</a>.</font></p>
-<p><a href="#top"><font face="verdana,geneva,arial,sans-serif" size="1">[top]</font></a></p></td><td valign="top"><img border="0" src="http://www.figis.com/images/orderinfo/privacy/" height="0" width="0" alt="" align="right"></td></tr></tbody></table></td></tr></tbody></table>    </td>
-  </tr>
-</tbody></table>
-
-<table width="10" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr><td><img src="http://www.figis.com/images/spacer.gif" alt="" width="10" height="10"></td></tr>
-</tbody></table>
-    
-<table width="690" border="0" cellspacing="0" cellpadding="0">
+            <td class="headerrule"><img src="/images/figis/en_us/global/globalgraphics/spacer01.gif" width="1" height="1" border="0"></td>
+          </tr>
+          <tr>
+            <td><img src="/images/figis/en_us/global/globalgraphics/spacer01.gif" width="1" height="15" border="0"></td>
+          </tr>
+          <tr valign="top">
+            <td>
+              <div class="default"><style type="text/css">
+h1 {
+	letter-spacing: 2px;
+	font-size:16pt;
+	text-align:left;
+	text-transform: uppercase;
+	color:#41733f;
+}
+ul {
+     font-family:  Arial, Verdana, Helvetica, san-serif;
+	 font-size:10pt;
+	 padding:0px 20px 15px 20px;
+}
+body {
+	text-align: left;
+	color: #000000;
+	text-decoration:none;
+	font-size:10pt;
+	font-family:  Arial, Verdana, Helvetica, san-serif;
+}
+p {
+	margin: 0;
+	padding:0px 20px 15px 20px;
+	font-family:  Arial, Verdana, Helvetica, sans-serif;
+	font-size:10pt;
+}
+a {
+	color: #000000;
+	font-family:  Arial, Verdana, Helvetica, sans-serif;
+	font-size:10pt;
+	text-decoration: underline
+}
+</style>
+<script>
+  var aSubCatImgs = new Array();
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/faq_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/faq_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/contactus_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/contactus_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/figisguarantee_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/figisguarantee_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/shippinginformation_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/shippinginformation_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/lowpayments_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/lowpayments_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/orderingiseasy_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/orderingiseasy_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/freegift_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/freegift_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/Safe_Secure_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/Safe_Secure_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/returnsexchanges_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/returnsexchanges_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/privacypolicy_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/privacypolicy_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/creditdetails_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/creditdetails_on.gif";
+  
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/termsofuse_off.gif";
+    aSubCatImgs[aSubCatImgs.length] = "/images//figis/en_us/local/page_specific/customerservice/termsofuse_on.gif";
+  
+  preload(aSubCatImgs);
+</script>
+<table width="990" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    
-      <td width="355" height="35">
-	    
-	        <a onclick="return popupwin('https://www.mcafeesecure.com/RatingVerify?ref=www.figis.com',900,900)"><img src="http://www.figis.com/images/fsh095_24.gif" alt="" width="340" height="35" border="0"></a>
-	      
-      </td>
-    
-    <td width="10"><img src="http://www.figis.com/images/spacer.gif" alt="" width="10" height="10"></td>
-    
-    
-      <td width="355" height="35">
-	    
-	        <a href="http://www.figis.com/default.asp?landing=figisonline&amp;type=1"><img src="http://www.figis.com/images/fmh103_24.gif" alt="" width="340" height="35" border="0"></a>
-	      
-      </td>
-    
-  </tr>
-</tbody></table>
-
-
-
-<table width="690" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="85%"><img src="http://www.figis.com/images/spacer.gif" alt="" height="10" width="10">
-    </td>
-  </tr>        
-  <tr>
-    <td colspan="2">                
-      <table width="99%" height="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#eeeddb">                   
+      <td width="202" rowspan="3" align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td width="56"><img src="http://www.figis.com/images/loadimage/hp_updates_03.gif" width="56" height="60">
-          </td>                      
-          <td width="2000" valign="top" class="linkbetweentxt" style="color:#000000"><br><font size="2">Sign up for Email Offers and <b>SAVE!</b></font>
-          <a href="https://www.figis.com/emails/new.asp" style="color:#999999;  text-decoration:none"> Email <b>Benefits</b>&nbsp;&nbsp;</a><a style="color:#999999;  text-decoration:none"> |&nbsp;</a> <a href="http://www.figis.com/orderinfo/privacy.asp" style="color:#999999;  text-decoration:none">Your <b>Privacy Rights</b></a>
-          </td>
-          <td width="204" height="45" class="linkbetweentxt">
-            <form id="Formem" name="emailForm" action="https://www.figis.com/emails/new.asp" method="POST">
-               &nbsp;&nbsp;<input name="newsemail" class="emailbox" type="text" value="Email Address" size="25" maxlength="75" onfocus="clearSearchTxt()">
-          </form></td>
-   <script> function clearSearchTxt() { if (Formem.newsemail.value == "Email Address") { Formem.newsemail.value = ""; } }</script>          
+          <td width="202" height="30" valign="top"><a href="/category/customer+service/faq.do?nType=3" onmouseover="rollover('subCat_206','/images//figis/en_us/local/page_specific/customerservice/faq_on.gif');" onmouseout="rollover('subCat_206','/images//figis/en_us/local/page_specific/customerservice/faq_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/faq_off.gif" alt="FAQ" name="subCat_206" height="30" border="0" id="subCat_206"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/contact+us.do?nType=3" onmouseover="rollover('subCat_207','/images//figis/en_us/local/page_specific/customerservice/contactus_on.gif');" onmouseout="rollover('subCat_207','/images//figis/en_us/local/page_specific/customerservice/contactus_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/contactus_off.gif" alt="Contact Us" name="subCat_207" height="30" border="0" id="subCat_207"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/figis+guarantee.do?nType=3" onmouseover="rollover('subCat_100371','/images//figis/en_us/local/page_specific/customerservice/figisguarantee_on.gif');" onmouseout="rollover('subCat_100371','/images//figis/en_us/local/page_specific/customerservice/figisguarantee_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/figisguarantee_off.gif" alt="Figis Guarantee" name="subCat_100371" height="30" border="0" id="subCat_100371"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/shipping+information.do?nType=3" onmouseover="rollover('subCat_205','/images//figis/en_us/local/page_specific/customerservice/shippinginformation_on.gif');" onmouseout="rollover('subCat_205','/images//figis/en_us/local/page_specific/customerservice/shippinginformation_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/shippinginformation_off.gif" alt="Shipping Information" name="subCat_205" height="30" border="0" id="subCat_205"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/low+payments.do?nType=3" onmouseover="rollover('subCat_100373','/images//figis/en_us/local/page_specific/customerservice/lowpayments_on.gif');" onmouseout="rollover('subCat_100373','/images//figis/en_us/local/page_specific/customerservice/lowpayments_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/lowpayments_off.gif" alt="Low Payments" name="subCat_100373" height="30" border="0" id="subCat_100373"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/ordering+is+easy.do?nType=3" onmouseover="rollover('subCat_204','/images//figis/en_us/local/page_specific/customerservice/orderingiseasy_on.gif');" onmouseout="rollover('subCat_204','/images//figis/en_us/local/page_specific/customerservice/orderingiseasy_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/orderingiseasy_off.gif" alt="Ordering is Easy" name="subCat_204" height="30" border="0" id="subCat_204"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/free+gifts.do?nType=3" onmouseover="rollover('subCat_100375','/images//figis/en_us/local/page_specific/customerservice/freegift_off.gif');" onmouseout="rollover('subCat_100375','/images//figis/en_us/local/page_specific/customerservice/freegift_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/freegift_off.gif" alt="Free Gifts" name="subCat_100375" height="30" border="0" id="subCat_100375"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/safe+%26+secure.do?nType=3" onmouseover="rollover('subCat_100378','/images//figis/en_us/local/page_specific/customerservice/Safe_Secure_on.gif');" onmouseout="rollover('subCat_100378','/images//figis/en_us/local/page_specific/customerservice/Safe_Secure_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/Safe_Secure_off.gif" alt="Safe &amp; Secure" name="subCat_100378" height="30" border="0" id="subCat_100378"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/returns+policy.do?nType=3" onmouseover="rollover('subCat_203','/images//figis/en_us/local/page_specific/customerservice/returnsexchanges_on.gif');" onmouseout="rollover('subCat_203','/images//figis/en_us/local/page_specific/customerservice/returnsexchanges_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/returnsexchanges_off.gif" alt="Returns Policy" name="subCat_203" height="30" border="0" id="subCat_203"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/privacy+policy.do?nType=3" onmouseover="rollover('subCat_202','/images//figis/en_us/local/page_specific/customerservice/privacypolicy_on.gif');" onmouseout="rollover('subCat_202','/images//figis/en_us/local/page_specific/customerservice/privacypolicy_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/privacypolicy_off.gif" alt="Privacy Policy" name="subCat_202" height="30" border="0" id="subCat_202"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/credit+details.do?nType=3" onmouseover="rollover('subCat_100361','/images//figis/en_us/local/page_specific/customerservice/creditdetails_on.gif');" onmouseout="rollover('subCat_100361','/images//figis/en_us/local/page_specific/customerservice/creditdetails_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/creditdetails_off.gif" alt="Credit Details" name="subCat_100361" height="30" border="0" id="subCat_100361"></a></td>
+        </tr>
+        <tr valign="top">
+          <td width="202" height="30"><a href="/category/customer+service/terms+of+use.do?nType=3" onmouseover="rollover('subCat_208','/images//figis/en_us/local/page_specific/customerservice/termsofuse_on.gif');" onmouseout="rollover('subCat_208','/images//figis/en_us/local/page_specific/customerservice/termsofuse_off.gif');"><img src="/images//figis/en_us/local/page_specific/customerservice/termsofuse_off.gif" alt="Terms of Use" name="subCat_208" height="30" border="0" id="subCat_208"></a></td>
+        </tr>
+</tbody></table></td>
+   				<td width="790">
+                    <h1><a name="top"></a>Internet Privacy Policy</h1>
+<div style="margin-left:20px">
+<ul>
+<li><a href="#PP1" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">What is your Internet Privacy Policy?</a></li>
+<li><a href="#PP2" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">What information do you collect when I visit your Web sites?</a></li>
+<li><a href="#PP3" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">What is your e-mail policy?</a></li>
+<li><a href="#PP4" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">How do you use my information?</a></li>
+<li><a href="#PP5" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">What if my information changes?</a></li>
+<li><a href="#PP6" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">How do I opt out of sharing of my information?</a></li>
+<li><a href="#PP7" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">What is your position on children's privacy?</a></li>
+<li><a href="#PP8" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">What is your security policy?</a></li>
+<li><a href="#PP9" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">What are cookies, and do you use them?</a></li>
+<li><a href="#PP10" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">Will your privacy and security policies ever change?</a></li>
+<li><a href="#PP11" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">How can I contact you with my suggestions or questions?</a><br>
+</li>
+</ul>
+</div>
+<p>
+<b>This policy was last updated and posted in February 2011.</b></p>
+<p>This Web site is operated by Figi's, Inc., an affiliate of Charming Shoppes, Inc. Figi's and its affiliates are committed to respecting your privacy and recognize the need for appropriate protection and management of the personally identifiable and personal information you share with us.</p>
+
+<h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP1"></a>What is your Internet Privacy Policy?</h3>
+<p>This Privacy Policy tells you what personally identifiable information and personal information we may collect from our customers and investors, how we may share this information, and how you can limit our sharing of your information. "Personally identifiable information" and "personal information" mean any information by which you can be identified, such as your name, address and telephone number.</p>
+
+<p>As a part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the Direct Marketing Association Privacy Promise to American consumers <a href="https://www.dmachoice.org/dma/static/privacy_policy.jsp" title="Direct Marketing Association Privacy Promise to American consumers" target="_blank" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif; font-size:10pt; text-decoration: underline">Direct Marketing Association Privacy Promise to American consumers</a>. Accordingly, we have agreed to (1) provide customers with notice of their ability to opt out of information exchanges with other marketers; (2) honor customer requests not to have their information transferred to others for marketing purposes; and (3) accept and honor customer requests not to receive solicitations from our brand.</p>
+
+<p>Our Web site may contain links to other Web sites that are not under our control. Those Web sites may have their own policies regarding privacy. We have no control of or responsibility for linked Web sites and provide these links solely for the convenience and information of our visitors. Those Web sites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual Web sites to see how the operators of those third-party Web site will utilize your personal information. In addition, this Web site may contain a link to Web sites of our affiliates. The Web sites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such Web sites will utilize your personal information.</p>
+<p><a href="#top">[top]</a></p>
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP2"></a>What information do you collect when I visit your Web site?</h3>
+<p>Generally, our customers can visit our Web site without providing or revealing any personal or personally identifiable information. We receive and store certain types of information whenever visitors interact with our Web site. We may track the Internet domain address from which our visitors visit our Web site and analyze this data for trends and statistics. Unless a visitor to our Web site voluntarily provides personal information to us, each individual customer remains anonymous.</p>
+<p>We receive and may store certain personal information that our visitors enter when visiting our Web site or provide to us in other ways. For instance, we collect the information you provide to us when you place an order, register with us, send an e-mail or call us, enter a sweepstakes or contest, subscribe to a service, enroll in a club, request to receive a catalog or direct mail, or participate in a promotion. This information may include your name, shipping/billing address, telephone number, e-mail address, credit card information, product purchases, birth date, gender, occupation, personal interests, and other similar personal or preference data that you provide to us. It may also include information you submit about other people such as the name and address of a gift recipient. Whether or not you provide such information to us is completely your own choice.</p>
+<p><a href="#top">[top]</a></p>
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP3"></a>What is your e-mail policy?</h3>
+<p>We will not sell, rent, or trade your e-mail address to any unaffiliated third party without your permission. We believe that your e-mail address is personal and should be kept that way. We use your e-mail address to provide better customer service, to facilitate your transactions, and to be able to inform you of internet offers, promotions and updates from Figi's, Inc. and its affiliates and partners.</p>
+<p><a href="#top">[top]</a></p>
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP4"></a>How do you use my information?</h3>
+<p>We use the personal and/or personally identifiable information you provide for our internal purposes, such as confirming, fulfilling and tracking your order, subscription or registration, analyzing trends and statistics, informing you of our new products (including products of our affiliates), services and offers, and providing you with information from and about our catalogs and Web site.  When you place an order we also use your personal and/or personally identifiable information to fulfill your order.  When you place an order, we may also provide your personal and/or personally identifiable information to our marketing partners to enable them to fulfill your order.</p>
+<p>From time to time, we may also work with other organizations that we believe are trustworthy and offer products or services that may be of interest to you. In such instances, we might share limited information (such as your name and/or postal address) that we have collected from you, including personally identifiable information, so that such organizations may contact you with offers that may interest you. Be assured, however, that we will not share your information with these organizations if you have requested that we refrain from doing so.</p>
+<p>On our Web site, we may provide links to other Web sites that are not owned or controlled by Figi's, Inc. While we select these associations carefully, we are not responsible for the security and privacy policies or practices of the Web sites accessed through these links. You should refer to these Web sites for their respective privacy and security policies. You access such linked Web sites at your own risk.</p>
+<p>To serve you better, we may combine the information you give us online, through our catalogs and order forms; publicly available information; and information we receive from others. We use that combined information to enhance and personalize your experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.</p>
+<p>Also, we may contract with third-party service providers to provide certain services for our business, such as credit card processing, order processing, fulfillment and management, computer system services, web site operation services, shipping, data management, or promotional services. We provide the information needed for these service providers to perform these services. The information we provide may include some of our customers' personal and personally identifiable information. However, these service providers are not authorized to use any of the information we share with them for any purposes other than to provide services to us.</p>
+<p>We may share information that we have collected with governmental agencies and other organizations assisting us in fraud prevention or for investigative purposes. We may do so when permitted or mandated by law; trying to protect against or prevent fraud; attempting to prevent unauthorized or improper transactions; or investigating fraud or improper conduct that has already taken place. In these instances, the information is not provided to these agencies or organizations for marketing or any other unrelated purposes.</p>
+<p>Additionally, we may share your e-mail address, name, telephone number, and postal address within the Figi's, Inc. family (including our parent Charming Shoppes, Inc. and its affiliates). Also, when you purchase from us through our catalog or our Web site we may need to contact you via phone, e-mail, or mail to address issues specific to your order, even if you have opted to not receive communications from us. From time to time we may also market certain third party services through our site. Should you choose to accept an offer from a third party, we will pass your relevant personal information, including your name, postal address, credit/debit card number and any other required billing information to that specific third party.</p>
+<p>Finally, if some or all of the business assets of Figi's, Inc. are sold or transferred, we generally would transfer the corresponding information regarding our customers and visitors to the purchaser. We also may retain a copy of that information.</p>
+
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;">Mobile Marketing</h3>
+<p>We may distribute advertising messages via text message to mobile devices to customers that have provided us permission via an opt in request.  The opportunity to opt out of a specific text message marketing campaign will be made available with the messages we send.</p>
+<p>Please note that, with text message campaigns, an opt-in or opt-out request is currently associated only with a specific marketing campaign and a specific mobile phone number.  As a result, a request associated with one campaign and phone number will not apply to other campaigns or numbers.</p>
+
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;">Aggregate Information</h3>
+<p>We collect non-personal information about how users navigate through our web site. We aggregate this information in order to improve our site, and we may share this information with our affiliates or other outside companies. This aggregated information does not include individual names or personal data, so it does not identify you or any other customer.</p>
+<p><a href="#top">[top]</a></p>
+
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP5"></a>What if my information changes?</h3>
+<p>You may update your registered personal information at any time. This includes your name, password, e-mail, and postal address. You may also manage your mailing preferences and e-mail formats. <a href="/account/login.do" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">Update your information or change your mailing preferences</a>.</p>
+<p>If at any time you would like us to update your personal information or remove you from our e-mail or postal mailing lists, or if you need assistance with the modification of your information, <a href="/category/customer+service/contact+us.do" title="send us an e-mail" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">send us an e-mail</a> with your request or write to us at Figi's, Inc., Legal Department, 450 Winks Lane, Bensalem, PA 19020 USA.</p>
+<p><a href="#top">[top]</a></p>
+
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP6"></a>How do I opt out of sharing of my information?</h3>
+<p>You may opt out of future unaffiliated third-party disclosures of your information. Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, order processing and fulfillment, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your orders and/or requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent orders, contests or promotions you may choose to enter, or third party offers you may choose to accept.</p>
+<p>If at any time you need assistance with opting out of the sharing of information with unrelated third parties, <a href="/category/customer+service/contact+us.do" title="send us an e-mail" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">send us an e-mail</a> with your request or write to us at Figi's Inc., Opt Out Department, 3200 S. Central Ave., Marshfield, WI 54449 USA.</p>
+
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;">Notice to California Residents - Your California Privacy Rights</h3>
+<p>Under California law, a California resident with whom Charming Shoppes has an established relationship has the right to request certain information with respect to the types of personal information Charming Shoppes has shared with third parties for their direct marketing purposes, and the identities of those third parties, within the immediately preceding calendar year, subject to certain exceptions. All requests for such information must be in writing and sent to:  Charming Direct, Inc., 3750 State Street, Bensalem, PA 19020, Attention: Corporate Customer Relations.</p>
+<p>This same California law permits Charming Shoppes to provide you, in response to your written request, with a cost-free means to choose not to have your information shared rather than providing the above described information. You may exercise that choice by the means described under "How do I opt out of sharing of my information?"</p>
+<p><a href="#top">[top]</a></p>
+
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP7"></a>What is your position as to children's privacy?</h3>
+<p>Our Web site is a general-audience Web site and is not directed to anyone under the age of thirteen ("Children"). We do not seek to solicit information from Children. If Children submit information to us and we know that the individuals submitting the information are indeed Children, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. We urge parents and guardians to participate in their Children's online activities and use parental control or Web filtering technology to supervise Children's access to the Internet.</p>
+
+<p><a href="#top">[top]</a></p>
+
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP8"></a>What is your security policy?</h3>
+<p>Because we all benefit from secure online shopping, we have taken steps to build and manage a system that you can use with confidence. We use sophisticated encryption and authentication tools to protect the security of the personal information that you share with us. The personal information you provide to us is preserved behind a firewall, instead of being directly connected to the Internet. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. Once we receive your transmission, we have appropriate security measures in place within our physical facilities to protect against the loss, misuse, or alteration of the personal information you have provided to us.</p>
+<p>We urge you to keep your password for our Web site in a safe place and not divulge it to anyone. Also remember to sign off your account and close your browser window when you have finished your visit to any of our Web sites. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.</p>
+<p>We use industry-standard efforts such as firewalls, data-encryption methods and password-protected data sources to safeguard the confidentiality of your information. To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to reasonably safeguard and secure the information we collect online. If sensitive data is collected through this Web site, we will encrypt your personal information before it travels over the Internet using industry standards for secure online transactions.</p>
+
+<p><a href="#top">[top]</a></p>
+
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP9"></a>What are cookies, and do you use them?</h3>
+<p>Our Web site uses cookies. A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Generally, we use cookies to remind us who you are; tailor our products and services to suit your personal interests; estimate the number of visitors to our Web sites; track visits to and sales at the stores referenced on our Web site; process your order; track your status in our promotions, contests, and sweepstakes; and/or analyze our customers' visiting patterns. You can generally set your browser to refuse to accept cookies, or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. We do not use cookies to store any of your personal or financial information on your computer.</p>
+<p>In addition, we use third-party companies to help us gather data to assist us in improving your shopping experience and the quality of our Web site. Some of these companies may use cookies on our behalf to conduct this analysis.</p>
+<p>Web beacons may also be used to review how visitors to our Web sites navigate our site or interact with our email advertising. Third-party companies assist in the collection and analysis of this data.  These companies may access your email address through these web beacons.  Your name, street address or credit card number is not accessed by or shared with other companies through these web beacons.</p>
+
+<p><a href="#top">[top]</a></p>
+
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP10"></a>Will your privacy and security policies ever change?</h3>
+<p>From time to time, our privacy and security practices may change. If we modify our Privacy Policy, in whole or in part, to address these changes, we will indicate when such changes are made by changing the "Last Updated" date at the beginning of this Policy. Those changes will be effective as of the Last Updated date. The new policy will apply to all current and past users of our Web site and will replace any prior policies that are inconsistent. We may change or add to this Policy, so we encourage you to review it periodically.</p>
+
+<p><a href="#top">[top]</a></p>
+
+ <h3 style="border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #000000; font-size:12pt;"><a name="PP11"></a>How can I contact you with my suggestions or questions?</h3>
+<p>To help us improve our privacy and security policies and practices, please send us your questions and feedback. <a href="/category/customer+service/contact+us.do" title="Send us an e-mail" style="color: #000000; font-family:  Arial, Verdana, Helvetica, sans-serif;	font-size:10pt; text-decoration: underline">Send us an e-mail</a>.</p>
+<p><a href="#top">[top]</a></p>
+			  </td>
+		  </tr>
+		</tbody></table>
+</div>
+            </td>
+          </tr>
+        </tbody></table>
     
-    <td width="128" align="center" valign="middle"><input src="http://www.figis.com/images/loadimage/hp_updates_06.gif " onclick="doSubmitemail();" type="image" border="0" height="60" width="115">
-    </td> 
-                       
-  </tr>                 
-  </tbody></table>  
-    
-</td><td><img src="http://www.figis.com/images/spacer.gif" border="0" width="1" height="1"></td>
+		</div>
+	</div>
+</div>
+<!--BottomNav Start-->
+
+<div id="multiColumnFooter">
+	
+	<div class="emailSignUpBlock">
+		<div class="footerSetWidth">
+			<form id="emailSignUp" method="post" action="/ancillary/emailsignup.do">
+				<div class="emailSignLabel">
+					<img src="/images/figis/en_us//global/globalgraphics/emailsignup.gif" alt="Sign up and receive 20% off your first order!">
+				</div>
+				<div class="emailSignField">
+					<input name="emailAddress" type="text" value="Your Email Address" size="12" maxlength="100" class="navemailbox" onfocus="if(this.value=='Your Email Address')this.value='';" onfocusout="if(this.value=='')this.value='Your Email Address';">
+				</div>
+				<div class="emailSignUpBtn">
+					
+						<input type="image" name="emailSubmit" src="/images/figis/en_us/global/globalgraphics/emailsignup_btn.gif" border="0" alt="Submit">
+				</div>
+			</form>
+			<ul class="emailSignupLinks">
+				<li><a href="/category/customer+service/privacy+policy.do" title="Privacy Policy">
+					Privacy Policy
+					</a></li>
+			</ul>
+			<div class="globalCartBottomContainer">
+				<div class="secureMessage">
+					100% Safe &amp; Secure
+				</div>
+				
+	<div id="globalBasket" class="popDownWrapper globalCartWrapper">
+		<div class="popDownNav globalCartNav" id="bottomGlobalCartNav">
+			<div class="globalCartBasketImg">
+				<img src="/images/figis/en_us/global/globalgraphics/basketicon.gif" border="0" alt="Shopping" cart="">
+			</div>
+			<div class="globalCartBasketInfo">
+				<span class="navHeader">
+				<b>Shopping Cart</b>
+				</span> <span class="navQty"><b>0</b> items</span> <span class="navTotal"><b>$0.00</b></span>
+			</div>
+			<div class="globalCartView">
+				<a href="/basket.do">view cart</a>
+			</div>
+		</div>
+	</div>
+
+			</div>
+		</div>
+	</div>
+	<div style="clear:both;"></div>
+	
+	<div class="contentSectionBlock">
+		<div class="footerSetWidth">
+			
+					<div class="contentSectionContainer">
+						<span id="footerColumn-1" class="contentSection">
+						
+						<h3>About Us »</h3>
+						<ul>
+							
+									<li><a class="footer" href="/category/misc+pages/about+us.do">About Figis</a></li>
+								
+									<li><a class="footer" href="/category/customer+service/figis+guarantee.do">100% Guaranteed</a></li>
+								
+									<li><a class="footer" href="/category/misc+pages/employment.do">Employment</a></li>
+								
+									<li><a class="footer" href="/category/misc+pages/become+an+affiliate.do">Become an Affiliate</a></li>
+								
+									<li><a class="footer" href="/category/misc+pages/environmental+policy.do">Environmental Policy</a></li>
+								
+						</ul>
+						</span>
+					</div>
+				
+					<div class="contentSectionContainer">
+						<span id="footerColumn-2" class="contentSection">
+						
+						<h3>Shop Figi's »</h3>
+						<ul>
+							
+									<li><a class="footer" href="/category/customer+service/safe+%26+secure.do">Safe &amp; Secure</a></li>
+								
+									<li><a class="footer" href="/ancillary/catalogrequest.do">Catalog Request</a></li>
+								
+									<li><a class="footer" href="/category/customer+service/returns+policy.do">Return Policy</a></li>
+								
+									<li><a class="footer" href="/ancillary/sitemap.do">Site Map</a></li>
+								
+									<li><a class="footer" href="/category/misc+pages/product+reviews.do">Product Reviews</a></li>
+								
+						</ul>
+						</span>
+					</div>
+				
+					<div class="contentSectionContainer">
+						<span id="footerColumn-3" class="contentSection">
+						
+						<h3>Gift Services »</h3>
+						<ul>
+							
+									<li><a class="footer" href="/category/misc+pages/online+catalogs.do">View Catalogs Online</a></li>
+								
+									<li><a class="footer" href="/category/misc+pages/greeting+cards.do">Greeting Cards</a></li>
+								
+									<li><a class="footer" href="/ancillary/giftcertificate.do">Gift Certificates</a></li>
+								
+									<li><a class="footer" href="/category/misc+pages/gift+reminder+service.do">Gift Reminder Service</a></li>
+								
+									<li><a class="footer" href="/category/military+food+gifts.do">APO-FPO Delivery</a></li>
+								
+						</ul>
+						</span>
+					</div>
+				
+					<div class="contentSectionContainer">
+						<span id="footerColumn-4" class="contentSection">
+						
+						<h3>Customer Help »</h3>
+						<ul>
+							
+									<li><a class="footer" href="/category/customer+service/faq.do">FAQ</a></li>
+								
+									<li><a class="footer" href="/category/customer+service/contact+us.do">Contact Us</a></li>
+								
+									<li><a class="footer" href="/ancillary/orderstatus.do">Order Status</a></li>
+								
+									<li><a class="footer" href="/account.do?method=start">My Account</a></li>
+								
+									<li><a class="footer" href="/category/customer+service/shipping+information.do">Shipping Info</a></li>
+								
+									<li><a class="footer" href="/category/customer+service/privacy+policy.do"><span class="privacyLink">Privacy Policy</span></a></li>
+								
+						</ul>
+						</span>
+					</div>
+				
+			<div class="contentSectionContainer last">
+				<h3>
+					Keep Connected »
+				</h3>
+				<!-- AddThis Button BEGIN -->
+				<div>
+					<ul class="socialLinks">
+						<li><a href="http://www.facebook.com/figis" target="_blank"><img src="/images/figis/en_us/global/globalgraphics/facebook.gif" alt="" border="0" align="absmiddle"><span>Facebook</span></a></li>
+						<li><a href="http://twitter.com/figis" target="_blank"><img src="/images/figis/en_us/global/globalgraphics/twitter.gif" alt="" border="0" align="absmiddle"><span>Twitter</span></a></li>
+					</ul>
+				</div>
+				<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script> 
+				
+						<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d6738c5399ea58b"></script>
+                                       					
+				<!-- AddThis Button END -->
+			</div>
+			<br style="clear:both;">
+			
+				<div class="rssBlock">
+					<a href="/ancillary/rsssitemap.do"><img src="/images/figis/en_us/global/globalgraphics/feed-icon-14x14.png" alt="RSS 2.0 Feeds" border="0"></a>
+				</div>
+			
+		</div>
+	</div>
+	<div style="background-color:#fff;height:25px;">
+	<div class="footerSetWidth">
+		
+			<div class="securityBlock" style="float:left;">
+				<center>
+<a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.figis.com&amp;lang=en" onclick="return popup(this, 'notes')"><img src="https://trustsealinfo.verisign.com/images/vseal.gif" alt="VeriSign Trusted" width="100" height="58" border="0"></a>
+</center>
+			</div>
+		
+		<ul class="footerUtility" style="float:right;">
+			<li><a href="#" title="Terms of Use">
+				Terms of Use
+				</a></li>
+			<li>©2011 Figi's</li>
+		</ul>
+	</div>
+	</div>
+</div>
+
+
+<!-- Start Nextaction event tag.  Do not remove -->
  
-    <td align="right" width="104" height="54">
-      <table cellspacing="0" cellpadding="0" width="100%" height="100%" bgcolor="#990000" style="BORDER: #990000 2px solid;">
-        <tbody><tr>
-          <td height="17" valign="bottom" colspan="2"><img src="http://www.figis.com/images/safesecure.gif"></td>
-	      </tr>
-        
-            <tr>
-              <td align="left" bgcolor="#efeccb" class="body">
-               <a href="http://www.figis.com/online/giftlist.asp?cartType=p">
-               <img border="0" height="41" width="104" src="http://www.figis.com/images/head/cart_23.gif"></a>
-              </td>
-            </tr>
-            
-  </tbody></table>
-    </td>         
- 
- </tr><tr>                      
-   <td height="10" colspan="2"><img src="http://www.figis.com/images/spacer.gif" alt="" width="5" height="10" border="0">
-   </td>                    
-</tr> 
-    
-</tbody></table><table width="690" border="0" cellpadding="0" cellspacing="0" bgcolor="#fffff0">
-  <tbody><tr class="leftnavback">
-    <td width="15" height="63" rowspan="2" align="center" valign="middle" class="leftnavback">&nbsp;</td>
-    <td width="210" height="20" align="left" valign="middle" class="bottnavgreen">Customer Help</td>
-    <td width="15" height="63" rowspan="2" align="center" valign="middle" class="leftnavback"><img src="http://www.figis.com/images/bottnavline_65.gif" width="1" height="63"></td>
-    <td width="130" align="left" valign="middle" class="bottnavgreen">Gift Services</td>
-    <td width="9" height="63" rowspan="2" align="left" valign="middle"><img src="http://www.figis.com/images/bottnavline_65.gif" width="1" height="63"></td>
-    <td width="130" align="left" valign="middle" class="bottnavgreen">Customer Favorites</td>
-    <td width="15" height="63" rowspan="2" align="center" valign="middle" class="leftnavback"><img src="http://www.figis.com/images/bottnavline_65.gif" width="1" height="63" align="middle"></td>
-    <td width="130" align="left" valign="middle" class="bottnavgreen">Company</td>
-  </tr>
 
-  <tr class="leftnavback">
-    <td height="40" width="210" align="left" valign="top">
-      <table border="0" cellpadding="0" cellspacing="0" class="leftnavback">
-        <tbody><tr>
-          <td align="left" valign="top">
-            <span class="bottbull">• </span><span class="bott"><a href="https://www.figis.com/faq/faq.asp" class="bott">FAQ</a></span><br>
-            <span class="bottbull">• </span><a href="http://www.figis.com/orderinfo/contact_details.asp" class="bott">Contact Us</a><br>
-            <span class="bottbull">• </span><a href="https://www.figis.com/orderstatus/order_status.asp" class="bott">Order Status</a>
-          </td>
-          <td><img src="http://www.figis.com/images/spacer.gif" alt="" width="25" border="0"></td>
-          <td align="left" valign="top">
-            <span class="bottbull">• </span><a href="https://www.figis.com/bcclub/signup.asp" class="bott">My Account</a><br>
-            <span class="bottbull">• </span><a href="https://www.figis.com/catalog/request.asp" class="bott">Request a Catalog</a><br>
-            <span class="bottbull">• </span><a href="http://www.figis.com/orderinfo/shipping.asp" class="bott">Shipping Info</a><br>
-            <span class="bottbull">• </span><a href="https://www.figis.com/ratesite/ratesite.asp" class="bott">Rate our Site<br></a><br>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-    
-    <td align="left" valign="top">
-      <table width="130" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td align="left" valign="top">
-            <span class="bottbull">• </span><a href="http://www.figis.com/default.asp?landing=giftcertificate&amp;type=1" class="bott">Gift Certificates</a><br>
-            <span class="bottbull">• </span><a href="http://www.figis.com/default.asp?landing=CITB&amp;type=1" class="bott">Greeting Cards</a><br>
-            
-              <span class="bottbull">• </span><a href="http://www.figis.com/default.asp?landing=figisonline&amp;type=1" class="bott">View Catalog Online</a><br>
-            
-            <span class="bottbull">• </span><a href="https://www.figis.com/sproducts/sprodname.asp" class="bott">Suggest a Product</a>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-
-    <td align="left" valign="top" width="130">
-      
-        <span class="bottbull">• </span><a href="http://www.figis.com/cheesegifts" class="bott">Cheese Gifts</a><br>
-        <span class="bottbull">• </span><a href="http://www.figis.com/foodgifts" class="bott">Food Gifts</a><br>
-        <span class="bottbull">• </span><a href="http://www.figis.com/giftideas" class="bott">Gift Ideas</a><br>
-        <span class="bottbull">• </span><a href="http://www.figis.com/giftbaskets" class="bott">Gift Baskets</a><br>
-      
-    </td>
-
-    <!-- Company -->
-    <td align="left" valign="top" width="130">
-      <span class="bottbull">• </span><a href="http://www.figis.com/about/about.asp" class="bott">About Figi's</a><br>
-      <span class="bottbull">• </span><a href="http://www.figis.com/jobs/jobs.asp" class="bott">Employment</a><br>
-      <span class="bottbull">• </span><a href="http://www.figis.com/orderinfo/guarantee.asp" class="bott">100% Guaranteed</a><br>
-      
-        		<span class="bottbull">• </span><a href="http://www.figis.com/default.asp?landing=environmental_policy&amp;type=1" class="bott">Environmental Policy</a>
-        	
-    </td>
-  </tr>
-</tbody></table>
+<script type="text/javascript">
+  na_oi='';
+   na_ov='';
+      na_ev='N';
+       na_ct='0';
+</script>
 
 
-<table border="0" cellpadding="0" cellspacing="0" width="690">
-      <tbody>
-        <tr>
-          <td height="10"><img src="http://www.figis.com/images/spacer.gif" alt="" height="10" width="10"></td>
-        </tr>
-      <tr>
-          <td height="5"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td width="52%" align="right" style="font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: #000000; font-weight:normail">Stay Connected with Figi's!&nbsp;&nbsp;</td>
-        <td width="14%" align="left"><a href="http://www.facebook.com/pages/Figis-Gifts-in-Good-Taste/107250039122?ref=ts" target="_blank"><img src="http://www.figis.com/images/loadimage/email_template_09.gif" alt="Become a Fan on Facebook" width="98" height="34" border="0" title="Become a Fan on Facebook"></a></td>
-        <td width="34%" align="left"><a href="http://www.twitter.com/figis" target="_blank"><img src="http://www.figis.com/images/loadimage/email_template_10.gif" alt="Follow us on Twitter" width="88" height="34" border="0" title="Follow us on Twitter"></a></td>
-      </tr>
-      <tr>
-        <td colspan="3" align="center" valign="middle"><hr width="70%"></td>
-        </tr>
-      <tr>
-        <td height="6"><img src="http://www.figis.com/images/spacer.gif" alt="" height="6" width="10"></td>
-      </tr>
-    </tbody></table>
+		<script type="text/javascript" src="http://e.nexac.com/e/a-1123/s-870.js"></script>
+		<noscript>
+        	<iframe src="http://f.nexac.com/e/a-1123/s-870.xgi" name ="naframe2" height="0" width="0" frameborder="0" ></iframe>
+		</noscript>
+	
 
-     
-<table width="690" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="715" align="center" valign="middle">
-      <div align="center">
-        
-          <span class="linkbetweentxt">Visit <a href="http://www.figis.com/default.asp?landing=F2G&amp;type=1" class="gal">Figi’s® Gallery</a> and discover a great variety of items for home decor, great values, and so much more.</span>
-        
-        <br>
-        <span class="body">
-        ©2010 Figi's® Gifts in Good Taste®&nbsp;•&nbsp;1-800-422-3444
-        <br>
-        
-          <a href="http://www.figis.com/default.asp?landing=affiliateprogram&amp;type=1" class="bottnav">Affiliate Program</a>
-          |&nbsp;<a href="http://www.figis.com/orderinfo/privacy.asp" class="privacy">Your Privacy Rights</a>
-        
-        |&nbsp;<a href="http://www.figis.com/about/terms.asp" class="bottnav">Terms of Use</a>
-        |&nbsp;<a href="http://www.figis.com/about/sitemap.asp" class="bottnav">Site Map</a></span>
-      </div>   
-    </td>
-  </tr>
-  <tr>
-  </tr><tr>
-    <td height="10" colspan="2">&nbsp;</td>
-  </tr>
-    <tr><td width="715" align="center" valign="middle">
-      <div align="center">
-        
-	     <a target="_parent" href="http://www.figis.com/default.asp?landing=environmental_policy&amp;type=1"> <img src="http://www.figis.com/images/green_logo.gif" width="67" height="66" alt="" border="0"></a>
-          
-	  &nbsp;&nbsp;&nbsp;
-          <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.figis.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.figis.com/13.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud,spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.');return false;"></a>
-          <script language="javascript" src="https://seal.entrust.net/seal.js?domain=www.figis.com&amp;img=0"></script><a href="https://www.entrust.net/customer/profile.cfm?domain=figis.com" target="_blank"><img src="http://www.figis.com/images/ecs_seal.gif" width="100" height="63" border="0"></a>
-        
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-</td></tr></tbody></table>
-
-      
-   
- 
-
-      <!---post_content_inc ---start-->
-          </td>
-        </tr>
-<!---post_content_inc ---end-->
- 
-</tbody></table>
-<br></div>
+<!-- End Nextaction event tag -->
+<!-- Start ChannelIntelligence tag.  Do not remove -->
 
 
+	<script language="JavaScript">
+
+	var CI_PageType = 'CAT';
+
+	var CI_CatName = 'Privacy Policy';
+	var CI_CatID = 'Privacy Policy';
+
+</script>
+
+		<script src="http://cts.channelintelligence.com/16040347_landing.js">
+		</script>
+	
+
+<!--BottomNav End--> 
+
+<!-- Omniture Reporting Support -->
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+<script language="JavaScript">
+function getId() {
+  return "figismlfigisprod"
+}
+function getSerializationID() {
+  return "1576010"
+}
+</script>
+			
+				<script language="JavaScript" type="text/javascript" src="/omniture/s_code.js"></script>
+			
+<script language="JavaScript" type="text/javascript" src="/omniture/parseOmnitureJSON.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
 
 
+    var oOmnitureJSON = {"eVar4":"figis - Product Groups","eVar5":"figis - Product Groups: Customer Help","pageName":"Site\/figis - Product Groups\/Customer Help\/Privacy Policy","eVar15":"Browse","eVar3":"Shop","prop2":"figis - Product Groups: Customer Help","prop1":"figis - Product Groups","eVar6":"figis - Product Groups: Customer Help: Privacy Policy","prop3":"figis - Product Groups: Customer Help: Privacy Policy","channel":"Shop"};
 
+    parseOmnitureJSON(oOmnitureJSON);
 
-      
-<!-- SiteCatalyst code version: H.20.3. Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
- 
-      <script language="JavaScript" src="//www.figis.com/includes/scripts/s_code_figis_prod.js"></script>
-    <script language="JavaScript"><!--
-
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-
-s.pageName="Privacy Policy"
-s.server=""
-s.channel=""
-s.pageType=""
-s.products=""
-
-
-s.eVar1=""
-s.eVar3=""
-s.eVar4=""
-
-
-
-
-s.state=""
-s.zip=""
-s.events=""
-s.prop1=""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
-s.purchaseID=""
-
-if(window.mboxLoadSCPlugin)
- mboxLoadSCPlugin(s);
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-
-   var s_code=s.t();if(s_code)document.write(s_code)//--></script>
- 
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://figismlfigisprod.122.2O7.net/b/ss/figismlfigisprod/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.3. -->
-
-
-<!-- Start Google Analytics tag -->
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ?
-"https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost +
-"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-4016400-3");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
-<!-- End Google Analytics tag -->
+<!-- End, Omniture Reporting Support -->
 
 
 
 
 
-</body></html>
+<script type="text/javascript" src="/includes/footerScripts.js"></script>
+
+<div id="AutocompleteContainter_ddd01" style="position: absolute; z-index: 9999; top: 148px; left: 827.281px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_ddd01" style="display: none; width: 137.5px; max-height: 300px;"></div></div></div></body></html>
