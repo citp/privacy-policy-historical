@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b20vtec.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404225100id_/http%3A//www.b20vtec.com/forums/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b20vtec.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203213820id_/http%3A//www.b20vtec.com/forums/privacy_policy.php) for the most accurate reproduction.*
 
 # B20Vtec.Com...... B Series and Beyond - Privacy Policy
 
