@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618034052id_/https%3A//www.tacobell.com/company/legalnotices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tacobell.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203174014id_/http%3A//www.tacobell.com/company/legalnotices) for the most accurate reproduction.*
 
 # Taco Bell® | Legal Notices
 
