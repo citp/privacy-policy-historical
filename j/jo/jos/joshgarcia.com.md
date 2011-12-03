@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joshgarcia.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605043453id_/http%3A//www.joshgarcia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshgarcia.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203225216id_/http%3A//www.joshgarcia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JoshGarcia.com
 
@@ -25,3 +25,14 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 Contact Information
 
 Concerns or questions about this privacy policy can be directed to us via our[ contact page](http://www.joshgarcia.com/contant-josh/) for further clarification.
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.joshgarcia.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.joshgarcia.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.joshgarcia.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.joshgarcia.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.joshgarcia.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=JoshGarcia.com%20takes%20your%20privacy%20seriously.%20This%20privacy%20policy%20describes%20what%20personal%20information%20we%20collect%20and%20how%20we%20use%20it.%20See%20this%20privacy%20policy%20primer%20to%20learn%20more%20about%20privacy%20policies%20in%20general.%0D%0A%0D%0ARoutine%20Information%20Collection%0D%0A%0D%0AAl "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.joshgarcia.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.joshgarcia.com%2Fprivacy-policy%2F&srcTitle=JoshGarcia.com+Designed+To+Help+You+Grow+Your+Business... "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.joshgarcia.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=JoshGarcia.com+Designed+To+Help+You+Grow+Your+Business...&summary=JoshGarcia.com%20takes%20your%20privacy%20seriously.%20This%20privacy%20policy%20describes%20what%20personal%20information%20we%20collect%20and%20how%20we%20use%20it.%20See%20this%20privacy%20policy%20primer%20to%20learn%20more%20about%20privacy%20policies%20in%20general.%0D%0A%0D%0ARoutine%20Information%20Collection%0D%0A%0D%0AAl "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.joshgarcia.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
