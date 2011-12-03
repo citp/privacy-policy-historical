@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the axigen.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101192307id_/http%3A//www.axigen.com/mail-server/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axigen.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203223234id_/http%3A//www.axigen.com/mail-server/privacy-policy.php) for the most accurate reproduction.*
 
 # AXIGEN Mail Server - Privacy Policy
 
 Last updated: June 30, 2005
 
-**GECAD TECHNOLOGIES** has created this privacy statement in order to demonstrate our company commitment to privacy. This page describes our policy regarding information gathering and dissemination practices for this website: **AXIGEN Mail Server**. 
+**GECAD TECHNOLOGIES** has created this privacy statement in order to demonstrate our company commitment to privacy. This page describes our policy regarding information gathering and dissemination practices for this website: **Axigen Mail Server**. 
 
 ## Download Registration Form
 
@@ -20,21 +20,21 @@ In various places on our site, you will find links for sending us an email messa
 
 ## Feedback Contact Form
 
-If you decide to contact us through our [Feedback](https://web.archive.org/about-us/feedback-form/ "AXIGEN Contact Form") form, we will use your email address to send you a reply. We will store your email address and message only for later referral, in case you decide to contact us again. 
+If you decide to contact us through our [Feedback](https://web.archive.org/about-us/feedback-form/ "Axigen Contact Form") form, we will use your email address to send you a reply. We will store your email address and message only for later referral, in case you decide to contact us again. 
 
 ## Newsletter Subscription
 
-By subscribing to our [email newsletter](https://web.archive.org/newsletter/ "AXIGEN Newsletters"), you agree to occasionally receive a newsletter containing updates about our company and products until you unsubscribe. You may unsubscribe at any time by sending and empty email message to: [news-unsubscribe@lists.axigen.com](mailto:news-unsubscribe@lists.axigen.com "Unsubscribe"). Subscription to our newsletter is optional and requires your consent. 
+By subscribing to our [email newsletter](https://web.archive.org/newsletter/ "Axigen Newsletters"), you agree to occasionally receive a newsletter containing updates about our company and products until you unsubscribe. You may unsubscribe at any time by sending and empty email message to: [news-unsubscribe@lists.axigen.com](mailto:news-unsubscribe@lists.axigen.com "Unsubscribe"). Subscription to our newsletter is optional and requires your consent. 
 
 If you sign up for a specific e-mail newsletter on one of GECAD TECHNOLOGIES sites, you will only receive the e-mail newsletter you have requested. You may receive occasionally an offer to sign up for a different newsletter, but you will not receive additional newsletters unless your specifically request them. 
 
 ## External Links
 
-This site contains links to other sites, outside the control of GECAD TECHNOLOGIES, that we think you may find useful. If you click on these links, you will leave AXIGEN Mail Server Website and enter sites that may have different privacy policies that AXIGEN Mail Server Website. AXIGEN Mail Server Website is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites, outside the control of GECAD TECHNOLOGIES, that we think you may find useful. If you click on these links, you will leave Axigen Mail Server Website and enter sites that may have different privacy policies that Axigen Mail Server Website. Axigen Mail Server Website is not responsible for the privacy practices or the content of such Web sites. 
 
 ## Sharing of Information and Unsolicited Communications
 
-Aside from the third party involved in the processing your order, or an AXIGEN partner in your local area, we do not share your personally identifiable information with any other entities. In addition, we will not send you any communications that you do not explicitly request from us. For example, the only way for you to receive our email newsletter is if you choose to subscribe, either through the form on our AXIGEN Newsletter page or by checking the appropriate box during the download process. 
+Aside from the third party involved in the processing your order, or an Axigen partner in your local area, we do not share your personally identifiable information with any other entities. In addition, we will not send you any communications that you do not explicitly request from us. For example, the only way for you to receive our email newsletter is if you choose to subscribe, either through the form on our Axigen Newsletter page or by checking the appropriate box during the download process. 
 
 ## Choice/Opt-Out
 
@@ -51,4 +51,4 @@ If we are going to use your personally identifiable information in a manner diff
 
 ## Contacting the Web Site
 
-If you have any further questions about this privacy statement, the practices of this site, or your interactions with this Web site, you can contact us by using the [contact page](https://web.archive.org/about-us/contact/ "Contact AXIGEN Team"). 
+If you have any further questions about this privacy statement, the practices of this site, or your interactions with this Web site, you can contact us by using the [contact page](https://web.archive.org/about-us/contact/ "Contact Axigen Team"). 
