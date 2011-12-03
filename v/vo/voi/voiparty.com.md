@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the voiparty.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521124054id_/http%3A//www.voiparty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiparty.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203010457id_/http%3A//voiparty.com/privacy.php) for the most accurate reproduction.*
 
-# VOiParty - Generate Residual Income Automatically Using Your Home Phone & Internet
+# vipiam - Switch & Save - Earn Call Termination Revenue
 
-Welcome and Thank You for visiting us at VOIParty.com or the Personal Wedsite of your authorized VOIParty Independent Member ("IM"). The Founders and Management Team of VOIParty believe in leadership by example and creating a friends and family environment, which consist of the people we care about the most. VOIParty has a strong emphasis on integrity and the success of its distributors. Additionally it is our Policy to maintain your personal information confidential. Your Privacy is very important to us and we are committed to protecting and safeguarding it. 
+Welcome and Thank You for visiting us at Vipiam.com or the Personal Wedsite of your authorized Vipiam Independent Member ("IM"). The Founders and Management Team of Vipiam believe in leadership by example and creating a friends and family environment, which consist of the people we care about the most. Vipiam has a strong emphasis on integrity and the success of its distributors. Additionally it is our Policy to maintain your personal information confidential. Your Privacy is very important to us and we are committed to protecting and safeguarding it. 
 
 **You may _"Contact Us"_ at: **(239) 945-VOIP (8647) Fax: (239) 471-0738
 
 ### E-mail Addresses
 
-**Customer Service:** [customer_service@voiparty.com](mailto:customer_service@voiparty.com?subject=Replying%20From%20Privacy%20Statement)  
-**Technical Support:** [support@voiparty.com](mailto:support@voiparty.com?subject=Replying%20From%20Privacy%20Statement)
+**Customer Service:** [customer_service@vipiam.com](mailto:customer_service@Vipiam.com?subject=Replying%20From%20Privacy%20Statement)  
+**Technical Support:** [support@vipiam.com](mailto:support@Vipiam.com?subject=Replying%20From%20Privacy%20Statement)
 
 ### Headquarters Address:
 
 4423 Del Prado Blvd South  
 Cape Coral, Florida 33904
 
-VOIParty's purpose of providing you with this Privacy Policy is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.
+Vipiam's purpose of providing you with this Privacy Policy is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, that information.
 
-VOIParty does not collect personal information about individuals who visit our site except when the information is specifically provided on a voluntary basis.
+Vipiam does not collect personal information about individuals who visit our site except when the information is specifically provided on a voluntary basis.
 
 **The information we collect on our Site generally falls into the following two categories:** Personally Identifiable Information or Aggregate Information
 
@@ -32,7 +32,7 @@ You may browse our Site without revealing any Personally Identifiable Informatio
 
 #### Registration
 
-When you register to become an IM and start your own I-commerce business powered by VOIParty, or when you register to shop online as a Customer, enjoying full access to the many products and services available on our Site, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored. You are assigned a VIP/Member Number and select your own password � both are needed to enter the Site and to access your Contact Information.
+When you register to become an IM and start your own I-commerce business powered by Vipiam, or when you register to shop online as a Customer, enjoying full access to the many products and services available on our Site, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored. You are assigned a VIP/Member Number and select your own password � both are needed to enter the Site and to access your Contact Information.
 
 #### Placing Orders
 
@@ -58,7 +58,7 @@ Except as disclosed in this Privacy Policy, we do not sell trade, rent, or other
 
     1. #### IMs
 
-A business powered by VOIParty, will provide you with advice and information from your own personal business advisory team � a support network consisting of your sponsoring IM and upline organization. To allow such communication, we may share limited contact information with your sponsoring IM and upline organization. They have agreed not to share your information with any non-affiliated third parties, and are obligated to observe the intent of this Privacy Policy. 
+A business powered by Vipiam, will provide you with advice and information from your own personal business advisory team � a support network consisting of your sponsoring IM and upline organization. To allow such communication, we may share limited contact information with your sponsoring IM and upline organization. They have agreed not to share your information with any non-affiliated third parties, and are obligated to observe the intent of this Privacy Policy. 
 
     2. #### Customers
 
@@ -66,11 +66,11 @@ In order to assure the highest level of personal service, we may share Personall
 
     3. #### General
 
-We may share Personally Identifiable Information with other VOIParty-related entities and/or trusted business partners with whom we collaborate, as well as those that provide services to our Site. When we engage non-affiliated third-party agents or contractors, we require them also to observe the intent of this Privacy Policy.
+We may share Personally Identifiable Information with other Vipiam-related entities and/or trusted business partners with whom we collaborate, as well as those that provide services to our Site. When we engage non-affiliated third-party agents or contractors, we require them also to observe the intent of this Privacy Policy.
 
 From time to time, we may be required to provide Personally Identifiable Information in response to court order, subpoena, or government investigation. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release Personally Identifiable Information when we believe that such release is reasonably necessary to enforce or apply our Policies and Procedures or to protect the rights, property, and safety of others and ourselves.
 
-In the event that VOIParty or its related entities merge with or be acquired by another business entity, or its respective assets be acquired, you should expect that we would share some or all of your Personally Identifiable Information to companies assuming the role of serving you and other users of our Site. 
+In the event that Vipiam or its related entities merge with or be acquired by another business entity, or its respective assets be acquired, you should expect that we would share some or all of your Personally Identifiable Information to companies assuming the role of serving you and other users of our Site. 
 
 Your permission is always secured first. We will not use or share the Personally Identifiable Information collected on our Site in ways unrelated to the purpose for which you provided the information, including those described above, without providing you an option whether to permit any such unrelated uses. 
 
@@ -85,11 +85,11 @@ We take reasonable measures to ensure that any Personally Identifiable Informati
 
 We acknowledge your trust and are committed to take reasonable steps to protect Personally Identifiable Information you provide online from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.
 
-It is your responsibility to safeguard the password you use to access our Site, and to promptly advise VOIParty or your IM if you ever suspect that your password has been compromised. We strongly encourage you to change your password regularly to prevent unauthorized access. Because your VIP/Member Number and password are specific to you, you acknowledge sole responsibility for any and all use of our Site conducted with your identification number and password. 
+It is your responsibility to safeguard the password you use to access our Site, and to promptly advise Vipiam or your IM if you ever suspect that your password has been compromised. We strongly encourage you to change your password regularly to prevent unauthorized access. Because your VIP/Member Number and password are specific to you, you acknowledge sole responsibility for any and all use of our Site conducted with your identification number and password. 
 
 ### The use of Cookies on This Site
 
-A "cookie" is a small data file transferred to your computer's hard drive that allows a website to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes, and dislikes. Cookies also enable an Internet retailer like VOIParty to keep track of a consumer's electronic "shopping cart" before completing a purchase. Overall, cookies are safe, as they only identify your computer to customize your web experience. Accepting a cookie does not provide us access to your computer or any Personally Identifiable Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.
+A "cookie" is a small data file transferred to your computer's hard drive that allows a website to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes, and dislikes. Cookies also enable an Internet retailer like Vipiam to keep track of a consumer's electronic "shopping cart" before completing a purchase. Overall, cookies are safe, as they only identify your computer to customize your web experience. Accepting a cookie does not provide us access to your computer or any Personally Identifiable Information about you, other than the information you choose to share. Other servers cannot read them, nor can they be used to deliver a virus.
 
 Most browsers automatically accept cookies, but you can usually adjust yours (Microsoft Internet Explorer, Firefox, or Netscape Navigator) to notify you of cookie placement requests, refuse certain cookies, or decline cookies completely. If you turn off cookies completely, there may be some website features that will not be available to you, and some web pages may not display properly.
 
@@ -101,7 +101,7 @@ Active-X programs and JAVA applets are executable programs that can be transferr
 
 ### Use of Third-party Media
 
-The VOIParty Site may run limited third-party ads only for those Merchant and Services Partners with whom we link. We will additionally use third-party media and research companies to place ads for us on other parties' websites. 
+The Vipiam Site may run limited third-party ads only for those Merchant and Services Partners with whom we link. We will additionally use third-party media and research companies to place ads for us on other parties' websites. 
 
 ### Links to Other Websites
 
@@ -117,6 +117,6 @@ As stated in our Policies and Procedures minors must be of the age of majority i
 
 Any updates or changes to the terms of this Privacy Policy will be posted here on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Policy has changed. By using our Site, you acknowledge acceptance of this Privacy Policy in effect at the time of use. 
 
-**_Updated and effective January 1, 2010._**
+**_Updated and effective January 1, 2011._**
 
-_Copyright �2010 VOIParty, Inc._ All rights reserved. 
+_Copyright �2011 Vipiam, Inc._ All rights reserved. 
