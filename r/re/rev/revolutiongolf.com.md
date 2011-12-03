@@ -1,55 +1,103 @@
-> *The following text is extracted and transformed from the revolutiongolf.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629044825id_/http%3A//blog.revolutiongolf.com/ppgs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolutiongolf.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203212658id_/http%3A//www.revolutiongolf.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Revolution Golf
+# RevolutionGolf.com Privacy Policy
 
-**PRIVACY POLICY**
+_Last updated: May 5, 2011_
 
-*Maven Marketing LLC along with any sites or individuals associated with these sites strive to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. 
+Thanks you for visiting and using the RevolutionGolf.com website (hereinafter referred to as the "Site"). We sincerely respect your privacy and assure you we will take every measure to protect your privacy and personal information. We are here to serve you as highly valued members, so your peace of mind and confidence while using the Site are our highest concern.
 
-**How we gather information from users**
+This Privacy Policy applies to this Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You can rest assured that everything below represents an Internet industry standard set of policies just as you will see at other highly reputable websites, so you can trust there is no mysterious "small print." By using the Site, you agree that your use signifies your assent to this Privacy Policy.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, Maven Marketing LLC, and any other site or individual associated with these sites also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+### Information Collection and Use
 
-**What we do with the information we collect**
+We collect two types of information from you: i) information that you voluntarily provide to us (e.g. through a voluntary registration process, sign-ups or emails); and ii) information that is derived through automated mechanisms.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. Contact information may be shared between Maven Marketing LLC and registered affiliates of Maven Marketing LLC.
+### Voluntary Registration Information.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+In order to fully access this Site, you must first complete the registration process, during which we will collect personal information about you. The information will include your name, address, and email address along with several optional fields to help us better service your needs. We do not collect personally identifiable information about you except when you specifically provide such information to us on a voluntary basis.
 
-We may use Personally Identifiable Information collected on revolutiongolf.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Maven Marketing LLC and other topics we think you might find of interest.
+By registering with us, you consent to the use and method of disclosure as described in this Privacy Policy.
 
-Personally Identifiable Information collected by Maven Marketing LLC may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, offers, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+### Voluntary Information for Services and Features
 
-**Affiliated sites, linked sites and advertisements**
+We also collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases, ii) consenting to receive email or text alerts about upcoming promotions or events, iii) consenting to receive email, iv) participating in our forum and blogs, iv) commenting on articles, and others. When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information. Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our others users in the future.
 
-Maven Marketing LLC expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on revolutiongolf.com or any site associated with, certain content that is actually created or hosted by a third party. Also, through Maven Marketing LLC you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Maven Marketing LLC is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+### What are Cookies?
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Maven Marketing LLC does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+As is common practice among major member services and information related websites (i.e. Amazon.com, USAtoday.com, ESPN.com, Zappos.com) our Site uses cookies and other similar technologies that help us better customize your experience. For example, cookies are that technology that enables a site to recognize you as soon as you visit the site, thus giving you immediate access without requiring you to sign in repeatedly. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. If a user's system is idle for a defined time, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user's information while they are away from their computer.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Maven Marketing LLC and this policy.
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Site every time you visit those pages.
 
-**Children**
+In the course of serving their own videos and advertisements to this site, our third-party affiliates and advertisers and may use cookies for the same customer experience enhancing purposes outlined above.
 
-Maven Marketing LLC does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Maven Marketing LLC or any site associated with has any information from or about anyone under 13, please contact us at the address listed below.
+### Referrals
 
-**Contacting Us.**
+You may choose to invite friends to join the Site by sending invitation emails via our invite feature. The Site stores the email addresses you provide so that the respondents may be added to your social network, confirm orders/purchases and also to send reminders of the invitations. The Site does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations may contact us to request removal of their information from our database.
 
-We can be reached by contacting:  
-Peak Performance Golf Swing  
-Maven Marketing LLC  
-611 Bay Street  
-Beaufort, South Carolina 29902-5554  
-Phone: 1-800-428-1897  
-Email: [support@revolutiongolf.com](mailto:support@revolutiongolf.com)
+### How We Use Your Information
 
-**Changes to this Policy**
+The Site only uses your personal information for the original purposes it was given... PERIOD. Your personal information will not be sold or otherwise transferred to unaffiliated third parties without your request/consent at the time of collection.
 
-Maven Marketing LLC reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+RevolutionGolf.com will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services on behalf of the Site unless required to do so by law. Further, RevolutionGolf.com reserves the right to contact you regarding matters relevant to the underlying service provided and/or the information collected.
 
-**Governing law**
+Please note that personally identifiable information is used only to provide you with a more enjoyable, convenient online experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site.
 
-This policy and the use of this Site are governed by south carolina law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Austin. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+The Site may use your personal information to better deliver information and promotional offers based on data such as region, gender, interests, goals, habits, etc.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+Likewise, when it is deemed advantageous to your Site experience by information you provide, to better enhance your experience the Site may engage certain trusted third parties to track usage, analyze data such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site. We may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders.
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+Also, we may share personally identifiable or other information with our parent company Maven Marketing, LLC; our subsidiaries, divisions, affiliates, and assigns.
+
+We may transfer personally identifiable information in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.
+
+The Site may disclose Contact Information in special cases where we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our terms and conditions of use or may be causing injury or interference with our rights, property, our customers or anyone who could be harmed by such activities.
+
+WE ARE NOT LIABLE OR RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE OR OTHER INFORMATION YOU CHOOSE TO SUBMIT IN BLOG THREADS, COMMENTS, AND FORUMS SUCH AS A BULLETIN BOARD, CHAT ROOM OR ANY OTHER PUBLICLY ACCESSIBLE AREA OF THE SITE.
+
+You will receive notice when your personally identifiable information might be provided to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information.
+
+We use non-identifying and aggregate information to better design our website and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
+
+### How RevolutionGolf.com Protects Your Information
+
+We are committed to protecting the information we receive from you. We take appropriate security measures to protect your information against unauthorized access to or unauthorized alteration, disclosure or destruction of data. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
+
+### Third Party Advertising
+
+Advertisements appearing on this Site may be delivered to you by RevolutionGolf.com or one of our Web advertising partners. As noted above, our Web advertising partners may use cookies to enhance your user experience by recognizing your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising partner to deliver targeted advertisements that they believe will be of most interest to you. RevolutionGolf.com does not have access to or control of the cookies that may be placed by the third party advertising servers of ad partners.
+
+This privacy statement covers the use of cookies by RevolutionGolf.com and does not cover the use of cookies by any of its advertisers.
+
+### Accessing and Updating Your Personal Information and Preferences
+
+We provide mechanisms for updating and correcting your personal information for many of our services. You may modify or remove any of your personal information at any time by logging into your account and accessing features such as edit and account.
+
+### Email Choice/Opt-out
+
+If you no longer wish to receive updates or notifications may opt-out of receiving these communications by changing your Alert settings and/or Preferences in your Account controls.
+
+### Children's Privacy and Parental Controls
+
+We do not request or accept any personal information from minor children. If you are not 18 or older, you are not authorized to register as a user/member of the Site without written permission from a parent or legal guardian. Please contact us for more information.
+
+### The Obligatory Disclaimer
+
+By consenting to the Terms and Conditions of the Site ad thereby this Privacy Policy as well, you consent to the simple fact that no data transmission over the Internet is completely secure. For that, we cannot guarantee or warrant the security of any information you provide to us and you transmit such information to us at your own risk.
+
+### Notification of Changes
+
+RevolutionGolf.com reserves the right to edit this Privacy Policy from time to time at its sole discretion, and we will note each change with a dateline in the heading if ever such a change occurs. If at some point in the future there is a change to our Privacy Policy, unless we obtain your express consent, such change will only apply to information collected after the revised Privacy Policy takes effect. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
+
+### CONTACT INFORMATION:
+
+If you have any questions or concerns regarding this Privacy Policy please contact:
+
+RevolutionGolf.com
+
+Maven Marketing, LLC
+
+602 Prince Street
+
+Beaufort, SC 29902
+
+[legal@RevolutionGolf.com](mailto:legal@RevolutionGolf.com)
