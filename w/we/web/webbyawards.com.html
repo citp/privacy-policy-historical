@@ -1,315 +1,133 @@
-<!--The following is the downloaded HTML source of the webbyawards.com privacy policy that was archived on 2011-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110428030503id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webbyawards.com privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203015158id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome to the Webby Awards</title>
-
-<link href="/css/screen.css" rel="stylesheet" type="text/css" media="screen">
-<!--[if lte IE 7]>
-<link href="/css/screen-ie.css" rel="stylesheet" type="text/css" media="screen" />
-<![endif]-->
-
-<!--[if lte IE 6]>
-<link href="/css/screen-ie6.css" rel="stylesheet" type="text/css" media="screen" />
-<![endif]-->
-
-
-
-<link rel="shortcut icon" href="/images/favicon.ico">
-
-
-
-<script language="javascript" type="text/javascript" src="/script/rotate_quote.js"></script>
-<script language="javascript" type="text/javascript" src="/script/site_globals.js"></script>
-<script language="javascript" type="text/javascript" src="/script/swfobject.js"></script>
-
-
-<style type="text/css">
-		    #bottom{ display: block; height:  300px; width: 400px; z-index: 10000; }
-		</style>
-		<script type="text/javascript" src="/takeover/js/swfobject.js"></script>
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+<!DOCTYPE html><html><head>
+		<meta charset="utf-8">
+		<title>Welcome to the Webby Awards</title>
 		
-		<!--for homepage carousel -->
-		<script type="text/javascript" src="/index-slider/js/jquery.jcarousel.js"></script>
-        <script type="text/javascript" src="/index-slider/js/jquery.cycle.all.js"></script>
-		<link rel="stylesheet" type="text/css" href="/index-slider/css/skin.css">
+		<link href="/css/screen.css" rel="stylesheet" type="text/css" media="screen">
+
+		<!--[if lte IE 7]>
+		<link href="/css/screen-ie.css" rel="stylesheet" type="text/css" media="screen" />
+		<![endif]-->
+
+		<!--[if lte IE 6]>
+		<link href="/css/screen-ie6.css" rel="stylesheet" type="text/css" media="screen" />
+		<![endif]-->
+
 		
-		
-    
-	    <script type="text/javascript">
-	    var flashvars = {
-		};
-		var params = {
-		};
-		var attributes = {
-		    wmode: "transparent"
-		};
-	    swfobject.embedSWF("/takeover/media/webbys.swf", "myContent", "400", "300", "9.0.0", flashvars, params, attributes);
-	    $(document).ready(function(){
-	        $("#close-flash").hide();
-	        $("#close-flash").delay(6000).show("slow");
-	        
-	        $("#close-flash").click(function(event){
-	            event.preventDefault();
-	            $("#bottom").hide("slide", { direction: "down" }, 1000);
-	        });
-	        
-	        positionFooter(); 
-			function positionFooter(){
-				$("#bottom").css({bottom:0,position: "absolute",top:($(window).scrollTop()+$(window).height()-$("#bottom").height())+"px"})	
-			}
-		 
-			$(window)
-				.scroll(positionFooter)
-				.resize(positionFooter)
+			<link rel="shortcut icon" href="/images/favicon.ico">
+
 			
-			jQuery("#mycarousel").jcarousel({
-			    auto:5,
-			    buttonNextHTML: null,
-			    buttonPrevHTML: null,
-			    scroll: 1,
-			    wrap: "both",
-			    itemVisibleInCallback: {
-			      onBeforeAnimation: carousel_before
-			    },
-			    initCallback: mycarousel_initCallback
-			});
-			
-//			jQuery("#silver-carousel").jcarousel({
-//			    auto:5,
-//			    buttonNextHTML: null,
-//			    buttonPrevHTML: null,
-//			    scroll: 1,
-//			    wrap: "both",
-//			    itemVisibleInCallback: {
-//			      onBeforeAnimation: silver_carousel_before
-//			    },
-//			    initCallback: silvercarousel_initCallback
-//			});
-			
-			$('#s2').before('<div id="nav">') 
-			.cycle({ 
-			    fx:     'fade', 
-			    speed:   300, 
-			    timeout: 0, 
-			    pager:  '#nav' 
-			});
-			
-			
-	    });
-	    
-	    function silver_carousel_before(carousel){
-	        jQuery('.silver-light .jcarousel-control a').removeClass('carousel-on');
-	        jQuery('.silver-light .jcarousel-control a').each(function(){
-	            if(jQuery(this).text()==carousel.first){
-	                jQuery(this).addClass('carousel-on');
-	            }
-	        });
-	        
-	    }
-	    
-	    function carousel_before(carousel){
-	        jQuery('.jcarousel-skin-tango .jcarousel-control a').removeClass('carousel-on');
-	        jQuery('.jcarousel-skin-tango .jcarousel-control a').each(function(){
-	            if(jQuery(this).text()==carousel.first){
-	                jQuery(this).addClass('carousel-on');
-	            }
-	        });
-	    }
-	    
-	    
-	    function mycarousel_initCallback(carousel) {
-	        jQuery('.jcarousel-skin-tango .jcarousel-control a').bind('click', function() {
-	            carousel.scroll(jQuery.jcarousel.intval(jQuery(this).text()));
-	            jQuery('.jcarousel-skin-tango .jcarousel-control a').removeClass('carousel-on');
-	            jQuery(this).addClass('carousel-on');
-	            carousel.startAuto(0);
-	            return false;
-	        });
-	    
-	        jQuery('.jcarousel-skin-tango .jcarousel-scroll select').bind('change', function() {
-	            carousel.options.scroll = jQuery.jcarousel.intval(this.options[this.selectedIndex].value);
-	            return false;
-	        });
-	    
-	    };
-	    
-	    function silvercarousel_initCallback(carousel) {
-	        jQuery('.silver-light .jcarousel-control a').bind('click', function() {
-	            carousel.scroll(jQuery.jcarousel.intval(jQuery(this).text()));
-	            jQuery('.silver-light .jcarousel-control a').removeClass('carousel-on');
-	            jQuery(this).addClass('carousel-on');
-	            carousel.startAuto(0);
-	            return false;
-	        });
-	    
-	        jQuery('.silver-light .jcarousel-scroll select').bind('change', function() {
-	            carousel.options.scroll = jQuery.jcarousel.intval(this.options[this.selectedIndex].value);
-	            return false;
-	        });
-	    
-	    };
-	    
-	    
-	    
-	    </script><style type="text/css" media="screen">#myContent {visibility:hidden}#myContent {visibility:visible}</style>
 
+	<script src="/script/site_globals.js"></script>
+	<script src="/script/swfobject.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+	<!-- Homepage carousel -->
+	<script src="/index-slider/js/jquery.cycle.all.js"></script>
+	<!-- Homepage modal windows -->
+	<script src="/script/jqModal.js"></script>
+	<!-- Quotes -->
+	<script src="/script/rotate_quote.js"></script>	
+	<!-- Scripts -->
+	<script src="/script/scripts.js"></script>
+	
 
-
-<script type="text/javascript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-
-
-
-
-<!--<script type="text/javascript" src="http://www.internetweekny.com/banner/banner_2009.js"></script><noscript><a href="http://www.internetweekny.com/">http://www.internetweekny.com</a></noscript>
-<script type="text/javascript" src="http://www.internetweekeurope.com/banner/banner_2010.js"></script><noscript><a href="http://www.internetweekeurope.com/">http://www.internetweekeurope.com</a></noscript>-->
-
-<!--
-<link rel="stylesheet" type="text/css" href="/nettedsplashpage/css/jquery.interstitial.css" />
-<script language="javascript" type="text/javascript" src="/nettedsplashpage/scripts/jquery.cookie.js"></script>
-<script language="javascript" type="text/javascript" src="/nettedsplashpage/scripts/jquery.interstitial.js"></script>
-<script type="text/javascript">
-	$(document).ready(function(){
-	  if (!$.cookie('nettedsplashpage')) {
-	    if ($(window).width() > 851 && $(window).height() > 649) {
-		  $().interstitial('open', {
-        	'url'     : '../nettedsplashpage/nettediframe.htm',
-        	'width'	  : 831,
-        	'height'  : 662
-        	
-          });
-        } else {
-          $().interstitial('open', {
-        	'url'     : '../nettedsplashpage/nettediframe-small.htm',
-        	'width'	  : 524,
-        	'height'  : 430
-        	
-          });
-        };
-        
-        //Create a cookie
-	    $.cookie('nettedsplashpage', 'viewed', {expires: 365, path: '/'});
-      };
-	});
-</script>
--->
 
 </head>
 
 <body onload="loadText();">
 
-
-
-
-
-
 <div class="container">
 
 	<!-- Begin header -->
 	<div class="header">
-	  <div class="branding"><a href="/index.php" tabindex="1"><img src="/images/logo_webbyawards_md.png" alt="The Webby Awards Logo" title="Click here to return to the Webby Awards homepage"></a>	  </div>
-
-	  <!-- Begin skip to the content -->
-<a href="#contentMain" title="Skip to the Content" accesskey="1" tabindex="2" class="skipToContent">Skip to the Content</a>
+		
+		<div class="branding">
+			<a href="/index.php" tabindex="1">
+				<img src="/images/new/logo_webbyawards.png" alt="The Webby Awards Logo" title="Click here to return to the Webby Awards homepage">
+			</a>
+		</div>
+		
+		<!-- Begin skip to the content -->
+		<a href="#contentMain" title="Skip to the Content" accesskey="1" tabindex="2" class="skipToContent">Skip to the Content</a>
 
 		<div class="nav">
 			<ul>
-			<!-- About -->
-				<li><a href="/about/" class="activePage">About</a>
-										<ul>
-						<li class="firstLink"><a href="/about/webbyfact.php">Quick Facts</a></li>
-						<li><a href="/about/team.php">Team</a></li>
-						<li><a href="/about/history.php">History</a></li>
-						<li><a href="/about/awardevent.php">Awards Event</a></li>
-						<li><a href="/about/judges.php">Judges</a></li>
-						<li><a href="/webby_global/">Webby Global</a></li>
-					</ul>				</li>
-
-
-			<!-- Entries -->
-
-
-				<li><a href="/entries/closed.php">Enter Now</a>
-									</li>
-
-			<!-- Winners -->
-				<li><a href="/webbys/current.php?season=CURRENT_SEASON">Winners</a>
-									</li>
-
-			<!-- Press -->
-				<li><a href="/press/">Press</a>
-									</li>
-
-			<!-- Winners Resources & Store -->
-				<li><a href="/resource_center/">Winner Resources &amp; Store</a>
-									</li>
-
-			<!-- Sponsors -->
-				<li><a href="/sponsors/">Sponsors &amp; Partners</a>
-					
+				<!-- About -->
+				<li class="activePage">
+					<a href="/about/">About</a>
 				</li>
-				
-				
+				<!-- Entries -->
+				<li>
+					<a href="http://entries.webbyawards.com">Enter Now</a>
+				</li>
+				<!-- Winners -->
+				<li>
+					<a href="/webbys/current.php?season=CURRENT_SEASON">Winners</a>
+				</li>
+				<!-- Press -->
+				<li>
+					<a href="/press/">Press</a>
+				</li>
+				<!-- Winners Resources & Store -->
+				<li>
+				  <a href="/resource_center/">Winner<br>Resources<br> &amp; Store</a>
+				</li>
+				<!-- Sponsors -->
+				<li>
+					<a href="/sponsors/">Sponsors<br>&amp; Partners</a>
+				</li>
 				<!-- Search -->
-				<li><a href="/sitesearch.php">Search</a>
-					
-					
-					
-				</li>
-				
+				<li>
+					<a href="/sitesearch.php">Search</a>
+				</li>	
 			</ul>
-	  </div>
-  <!-- End header -->
-  </div>
+		</div>
+		
+		<p class="tagline">Honoring the best<br> of the web</p>
+		
+		<div class="subnav">
+		  <!-- About Subnav -->
+		  			<ul>
+				<li class="firstLink"><a href="/about/webbyfact.php">Quick Facts</a></li>
+				<li><a href="/about/team.php">Team</a></li>
+				<li><a href="/about/history.php">History</a></li>
+				<li><a href="/about/awardevent.php">Awards Event</a></li>
+				<li><a href="/about/judges.php">Judges</a></li>
+				<li><a href="/webby_global/">Webby Global</a></li>
+			</ul>
+						
+			<!-- Enter subnav -->
+			<!-- <ul>
+				<li class="firstLink"><a href="http://entries.webbyawards.com/home/eligibility">Eligibility &amp; Guidelines</a></li>
+				<li><a href="http://entries.webbyawards.com/home/judging">Judging Process</a></li>
+				<li><a href="http://entries.webbyawards.com/home/criteria">Judging Criteria</a></li>
+				<li><a href="http://entries.webbyawards.com/home/awarding">Awarding</a></li>
+				<li><a href="http://entries.webbyawards.com/categories">Categories</a></li>
+				<li><a href="http://entries.webbyawards.com/home/faq"><acronym title="Frequently Asked Questions">FAQ</acronym></a></li>
+			</ul> -->
+			
+			<!-- Winners subnav -->
+					
+			<!-- Press subnav -->
+						
+			<!-- Store subnav -->
+							
+		</div><!-- End subnav -->
+		
+		<!-- End header -->
+		
+	</div>
 
   	<!-- Begin content -->
 	<div class="content">
-
-		<!-- Begin contentMain -->
-		<div class="contentMain" id="contentMain">
 		
+				
+		<div class="contentMain" id="contentMain">		
 <div class="pageIntro">
-	<img src="/images/about2009.gif" width="698" height="153" border="0" usemap="#Map">
-	
-	<!-- <div class="introHeader"><img src="/images/head_about_08.jpg" alt="" />
-		<h1>About</h1>
-	</div>
-	<div class="introPara">
-			<p>The leading international award honoring excellence on the Internet
-including Websites, Interactive Advertising, Online Film &amp; Video and Mobile
-content. In its 12th year, The Webby Awards is presented by <a href="http://www.iadas.net" target="_blank">The
-International Academy of Digital Arts and Sciences</a>, a 550-member body of
-leading Web experts, business figures, luminaries, and creative celebrities.</p>
-
-	</div>-->
+	<img src="/images/page_headers/about.jpg" alt="ABOUT">
 </div>			
 			<h2>Privacy Policy</h2>
 
@@ -403,176 +221,150 @@ leading Web experts, business figures, luminaries, and creative celebrities.</p>
 			<h3 class="eight">Your thoughts?</h3>
 			<p>The Webby Awards welcomes your questions and comments about privacy. To contact us, please send email to <a href="mailto:jcollins@webbyawards.com">jcollins@webbyawards.com</a>. You will receive a confirmation from us via email within 2 business days of receipt of your email.</p>
 			
-		<!-- End contentMain -->
 		</div>
+		<!-- END contentMain -->
 		
-	  	<!-- Begin contentSidebar -->
+		<!-- BEGIN contentSidebar -->
 		<div class="contentSidebar">
-		
+			
+			<h3>Follow us</h3>
+			<ul>
+				<li class="twitter">
+					<a href="http://www.twitter.com/thewebbyawards">
+						<span class="icon">Twitter</span>
+					</a>
+					<a href="https://twitter.com/TheWebbyAwards" class="twitter-follow-button" data-show-count="false">Follow @TheWebbyAwards</a>
+				</li>
+				<li class="facebook">
+					<a href="http://www.facebook.com/thewebbyawards">
+						<span class="icon">Facebook</span>
+					</a>
+					<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fthewebbyawards&amp;layout=button_count&amp;show_faces=false&amp;width=164&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+				</li>
+				<li class="tumblr">
+					<a href="http://www.webbys.tumblr.com">
+						<span class="icon">Tumblr</span>
+						<p>Go behind the scenes on our blog</p>
+					</a>
+				</li>
+				<li class="youtube">
+					<a href="http://www.youtube.com/user/TheWebbyAwards">
+						<span class="icon">YouTube</span>
+						<p>Watch our YouTube Channel</p>
+					</a>
+				</li>
+				<li class="flickr last">
+					<a href="http://www.flickr.com/photos/webbys/">
+						<span class="icon">Flickr</span>
+						<p>See all our images on Flickr</p>
+					</a>
+				</li>
+			</ul>
+			
+			<h3>Subscribe</h3>
+			<ul>
+				<li class="newsletter">
+					<a href="#" class="view-webby-newsletter" title="Sign up for our Monthly newsletter">
+						<span class="icon">Newsletter</span>
+						<p><span class="underline">Subscribe</span> to The Webbys' monthly newsletter, the <span>011</span>.</p>
 	
-			<h3>Follow:</h3>	  
-
-
-		<a href="http://www.twitter.com/thewebbyawards"><img src="http://img.kbmla.com/upload/webby1/images/twitter_icon.gif" img="" style="border: 0px;"></a>
-		<a href="http://www.flickr.com/photos/webbys/"><img src="http://img.kbmla.com/upload/webby1/images/flickr_icon.gif" img="" style="border: 0px;"></a>
-		<a href="http://www.youtube.com/user/TheWebbyAwards"><img src="http://www.webbyawards.com/images/email/you_tube_icon.png" img="" style="border: 0px;"></a>
-		<a href="http://www.webbys.tumblr.com"><img src="http://www.webbyawards.com/images/email/tumblr_icon.png" img="" style="border: 0px;"></a>
-		
-			<p></p>
-		<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fthewebbyawards&amp;layout=standard&amp;show_faces=false&amp;width=160&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180px; height:35px;" allowtransparency="true"></iframe>
-
-	
-		
-
-
-
-
-<!-- Begin MailChimp Signup Form -->
-<!--[if IE]>
-<style type="text/css" media="screen">
-	#mc_embed_signup fieldset {position: relative;}
-	#mc_embed_signup legend {position: absolute; top: -1em; left: .2em;}
-</style>
-<![endif]--> 
-<!--[if IE 7]>
-<style type="text/css" media="screen">
-	.mc-field-group {overflow:visible;}
-</style>
-<![endif]-->
-
-<div id="mc_embed_signup" style="width: 170px;">
-<form action="/subscribe/subscribe.php" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" style="font: normal 100% Arial, sans-serif;font-size: 10px;">
-<!--	<fieldset style="-moz-border-radius: 4px;border-radius: 4px;-webkit-border-radius: 4px;border: 0px solid #ccc;padding-top: 1.5em;margin: .5em 0;background-color: #fff;color: #000;text-align: left;">
-	<legend style="white-space: normal;text-transform: capitalize;font-weight: bold;color: #000;background: #fff;padding: .5em 1em;border: 1px solid #ccc;-moz-border-radius: 4px;border-radius: 4px;-webkit-border-radius: 4px;font-size: 1.2em;"><span>Get the 011</span></legend>
--->
-<div class="indicate-required" style="text-align: left;font-style: normal;overflow: hidden;color: #000;margin: 0 9% 0 1%;font-size: 1.17em;"><strong>Get the 011</strong></div>
-<div class="indicate-required" style="text-align: left;font-style: normal;overflow: hidden;color: #000;margin: 0 9% 0 1%;font-size: 1.17em;">Sign up for the monthly newsletter of the Webby Awards</div>
-<div class="mc-field-group" style="margin: 1.3em 5%;clear: both;overflow: hidden;">
-<label for="mce-EMAIL" style="display: block;margin: .3em 0;line-height: 1em;font-weight: bold;">Email Address <strong class="note-required"></strong>
-</label>
-<input type="text" value="" name="mce-EMAIL" class="required email" id="mce-EMAIL" style="margin-right: 1.5em;padding: .2em .3em;width: 90%;float: left;z-index: 999;">
-</div>
-		<div id="mce-responses" style="float: left;top: -1.4em;padding: 0em .5em 0em .5em;overflow: hidden;width: 90%;margin: 0 5%;clear: both;">
-			<div class="response" id="mce-error-response" style="display: none;margin: 1em 0;padding: 1em .5em .5em 0;font-weight: bold;float: left;top: -1.5em;z-index: 1;width: 80%;background: FBE3E4;color: #D12F19;"></div>
-			<div class="response" id="mce-success-response" style="display: none;margin: 1em 0;padding: 1em .5em .5em 0;font-weight: bold;float: left;top: -1.5em;z-index: 1;width: 80%;background: #E3FBE4;color: #529214;"></div>
+					</a>
+					<!-- Webbys newsletter modal -->
+					<div class="jqmWindow" id="webby-newsletter">
+						<a href="#" class="jqmClose"></a>
+						<div class="modal">
+							<div id="mc_embed_signup">
+								<form action="http://www.webbyawards.com/subscribe/subscribe.php" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">
+									<h2>
+										The Webby Awards<br>
+										011 Newsletter
+									</h2>
+									<div class="mc-field-group">
+										<label for="mce-EMAIL">To sign up, please enter your email address: <strong class="note-required"></strong></label>
+										<input type="text" value="" name="mce-EMAIL" class="required email" id="mce-EMAIL">
+									</div>
+									<div>
+										<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+									</div>                                                                                           
+								</form>
+							</div>
+						</div>
+					</div>
+				</li>
+				<li class="netted last">
+					<a href="#" class="view-netted-newsletter" title="Sign up for Netted">
+						<span class="icon"></span>
+						<p><span class="underline">Get Netted</span>, our daily email dedicated to better living through the Internet.</p>
+					</a>
+					<!-- Netted newsletter modal -->
+					<div class="jqmWindow" id="netted-newsletter">
+						<a href="#" class="jqmClose"></a>
+						<div class="modal">
+							<div id="mc_embed_signup">
+								<form action="http://www.webbyawards.com/subscribe/subscribe-netted.php" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">
+									<h2>
+										<img src="images/new/netted.gif" alt="Netted by The Webby Awards">
+									</h2>
+									<div class="mc-field-group">
+										<label for="mce-EMAIL">To sign up for Netted, please enter your email address: <strong class="note-required"></strong></label>
+										<input type="text" value="" name="mce-EMAIL" class="required email" id="mce-EMAIL">
+									</div>
+									<div>
+										<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe">
+									</div>                                                                                           
+								</form>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+			
+			<div class="banner-skyscraper">
+				<a href="http://entries.webbyawards.com">
+					<img src="/images/new/banner_vertical.gif" alt="Enter the Webby's - Early Entry Deadline: October 28, 2011. Enter now.">
+				</a>
+			</div>
+			
+			<!-- 
+			Example of a smaller square banner ad
+			<div class="banner">
+				<a href="#">
+					<img src="/images/new/banner_vertical_small.gif" alt="Enter the Webby's - Early Entry Deadline: October 28, 2011. Enter now."/>
+				</a>
+			</div>
+			-->
+			
 		</div>
-		<div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn" style="clear: both;width: auto;display: block;margin: 1em 0 1em 5%;"></div>
-		
-	<a href="#" id="mc_embed_close" class="mc_embed_close" style="display: none;">Close</a>
-</form>
-</div>
-
-
-<!--End mc_embed_signup-->
-
-		
-			
-			<!--NETTED-->
-			
-			<h3></h3>
-			
-			<a href="http://www.netted.net"><img src="/images/netted-logo.jpg" img="" style="border: 0px; padding: 0px 0px 0px 5px;"></a>
-		
-			<p>Our new daily email devoted to better living through the Internet.<br> <a href="http://www.netted.net">Sign up for Netted now!</a></p>
-			
-			
-		
-			
-			<blockquote>
-				<p id="quote">“Better than the Oscars.”</p></blockquote>
-			<cite id="attribution">- Vanity Fair</cite><br>
-			
-			<h3></h3>
-			
-						<p>Official stock photo provider of the Webbys:</p>
-
-			<p><a href="http://www.corbisimages.com"><img src="/images/corbis-sidebar.jpg" img="" style="border: 0px;"></a></p>
-		<h3></h3>
-		
-		<!--	
-		<h3>Follow the Webbys</h3>	  
-		
-		<center>
-		<a href="http://www.facebook.com/pages/The-Webby-Awards/23837858270"><img src="http://img.kbmla.com/upload/webby1/images/facebook_icon.gif" img style="border: 0px;"></a>
-		<a href="http://www.twitter.com/thewebbyawards"><img src="http://img.kbmla.com/upload/webby1/images/twitter_icon.gif" img style="border: 0px;"></a>
-		<a href="http://www.flickr.com/photos/webbys/"><img src="http://img.kbmla.com/upload/webby1/images/flickr_icon.gif" img style="border: 0px;"></a>
-		<a href="http://www.youtube.com/user/TheWebbyAwards"><img src="http://www.webbyawards.com/images/email/you_tube_icon.png" img style="border: 0px;"></a>
-		<a href="http://www.webbys.tumblr.com"><img src="http://www.webbyawards.com/images/email/tumblr_icon.png" img style="border: 0px;"></a></td>
-		</center><p></p>
-		-->
-		<!--
-			<h3>Tell - A - Friend</h3>
-			<p>Want to tell a friend about the Webby Awards? <a href="/misc/send-to-friend.php">click here</a>.</p>
-			
-		
-		
-					
-	  	  
-			
-			<div class="sectionBlock"><a href="/sponsors/"><img src="/images/sponsorlogos_anim.gif" alt="Sponsors header image" id="sponsor" /></a>
-			  <h3><a href="/sponsors/">Sponsors &amp; Partners </a></h3>
-	  	  </div>
-			
-	  
-		  	 <h3></h3>
+		<!-- END contentSidebar -->
 	
-		-->
-	
-	<!-- End content -->
-	</div>
-	
-	  
-<!-- Begin footer -->
-	<div class="footer">
-		<ul class="footerNav">
-			<li class="firstLink"><acronym title="Frequently Asked Questions"><a href="/entries/faq.php">FAQ</a></acronym></li>
-			<li><a href="/about/contact.php">Contact Us</a></li>
-			<li><a href="/about/privacy-policy.php">Privacy Policy</a></li>
-			<li><a href="http://iadas.net" target="_blank"><acronym title="The International Academy of Digital Arts and Sciences">IADAS</acronym></a></li>
-			<li><a href="/debates/">Webby Debates</a></li>
-		</ul>
-		<ul class="partners">
-			<li><a href="http://www.2advanced.com" title="Link to the 2advanced website" target="_blank"><img src="/images/icon_foot_2advanced.png" alt="2 Advanced Logo"></a></li>
-			<!--<li><a href="http://www.adobe.com" title="Link to the Adobe website" target="_blank"><img src="/images/icon_foot_adobe.png" alt="Adobe Logo" /></a></li>-->
-			<!--<li><a href="http://www.thebarbariangroup.com" title="Link to the Barbarian Group website" target="_blank"><img src="/images/icon_foot_tbg.png" alt="The Barbarian Group Logo" /></a></li>-->
-		</ul>
+	<!-- END content -->
 	</div>
 
-</div>
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-11774933-4']);
-  _gaq.push(['_trackPageview']);
+		<!-- BEGIN footer -->
+		<div class="footer">
+			<ul class="footerNav">
+				<li class="firstLink"><abbr title="Frequently Asked Questions"><a href="/entries/faq.php">FAQ</a></abbr></li>
+				<li><a href="/about/contact.php">Contact Us</a></li>
+				<li><a href="/about/privacy-policy.php">Privacy Policy</a></li>
+				<li><a href="http://www.iadas.net" target="_blank"><abbr title="The International Academy of Digital Arts and Sciences">IADAS</abbr></a></li>
+				<li><a href="http://webbytalks.com">Webby Talks</a></li>
+				<li><a href="/education/">Webby University</a></li>
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+			</ul>
+			<ul class="partners">
+				<li><a href="http://www.theatomgroup.com/" title="Link to The Atom Group website" target="_blank"><img src="/images/new/icon_foot_atom.gif" alt="atom Logo"></a></li>
+				<li><a href="http://www.2advanced.com" title="Link to the 2advanced website" target="_blank"><img src="/images/icon_foot_2advanced.png" alt="2 Advanced Logo"></a></li>
+				<li><a href="http://nytm.org/made/" title="Link to the NY Tech Meetup website" target="_blank"><b>Made in New York</b></a></li>
+			</ul>
+			<p class="copyright">© 2011 The Webby Awards. All rights reserved.</p>
+		</div>
+		<!-- END footer -->
 
-</script>
-<script type="text/javascript">
-var _sf_async_config={uid:22484,domain:"webbyawards.com"};
-(function(){
- function loadChartbeat() {
-   window._sf_endpt=(new Date()).getTime();
-   var e = document.createElement('script');
-   e.setAttribute('language', 'javascript');
-   e.setAttribute('type', 'text/javascript');
-   e.setAttribute('src',
-      (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-      "js/chartbeat.js");
-   document.body.appendChild(e);
- }
- var oldonload = window.onload;
- window.onload = (typeof window.onload != 'function') ?
-    loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
+	</div>
+	<!-- END container -->
 
-</script>
+	<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+	
 
-
-
-
-</div><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+</body></html>
