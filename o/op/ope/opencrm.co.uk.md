@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604120428id_/http%3A//opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencrm.co.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203062045id_/http%3A//opencrm.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Delivery Policy
 
-Last updated 11th October 2010
+Last updated 1st July 2011
 
-Copyright © 2005 - 2010. Software Add-ons Limited - The Home of OpenCRM, The Sanctuary, Aislabeck Plantation, Richmond , North Yorkshire , DL10 4SG. All rights reserved.
+Copyright © 2005 - 2011. Software Add-ons Limited - The Home of OpenCRM, The Sanctuary, Aislabeck Plantation, Richmond , North Yorkshire , DL10 4SG. All rights reserved.
 
 We at OpenCRM and Software Add-ons Limited ("Software Add-ons") are constantly striving to provide excellent service to our customers and business partners, while building long-lasting relationships with them. To achieve these goals, we occasionally need information about you when you visit our Web site.
 
@@ -30,7 +30,11 @@ We  do:
 
 We have always valued your privacy, and we reinforce this belief throughout our organisation. Your information will be protected as described unless the specific Web page says otherwise. If you have further questions about our privacy policy, please contact us .
 
-### Information this Site Gathers/Tracks
+### Delivery of products purchased through our website
+
+When you purchase OpenCRM subscriptions from this website your payment is made made using the PayPal payment gateway, on successful payment you will be directed to a page that commissions your OpenCRM subscription immediately. Once you enter your user name and system details your OpenCRM system is created with all URL, Username and Password details being emailed to you within a few minutes. This is an automated delivery service. Should you have any problems with your delivery please contact [support@opencrm.co.uk](mailto:support@opencrm.co.uk) with URGENT in the subject line and one of our customer service representatives will be notified immediately, this includes 365/24/7 notification and escalation procedures.
+
+### _Information this Site Gathers/Tracks_
 
 ### Statistics Collected as You Browse Our Web Site
 
@@ -62,6 +66,12 @@ We encourage all visitors to register on our Web site, though registration is on
 Our order forms securely collect contact information and financial information (like your credit card number and other billing information). Contact information on the order form is used for order fulfilment and may be shared with our Partners or Resellers if that is necessary to fulfil your order. The information that we require in our order form is only used to process your order quickly and accurately. Your contact information will only be used to send you the product that you purchase and your billing information will only be used to bill you for that product.
 
 During the purchasing process, additional information may be added to your profile to make it easier for you to purchase products/services from us in the future. This may include order history and billing information. You may opt out of this feature at any time by changing your profile or cancelling an on-line account.
+
+### Credit Card Details when subscribing  
+
+
+We do not store your credit card details with any OpenCRM or Software Add-ons system, however if you sign up to an OpenCRM subscription from this website (http://opencrm.co.uk) we use PayPal as our payment gateway who also provide recurring subscription payment services and as part of their service they will hold details of the credit card that will be charged. This information is held securely and in accordance with PayPals terms and conditions.  
+
 
 ### Cookies
 
