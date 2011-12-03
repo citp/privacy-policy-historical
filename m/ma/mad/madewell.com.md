@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113123127id_/http%3A//www.madewell.com/footer/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madewell.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203073502id_/http%3A//www.madewell.com/footer/privacy.jsp) for the most accurate reproduction.*
 
-# Our Privacy Policy - Madewell
+# Our Privacy Policy - Madewell Private Policy - Madewell
 
 PLEASE NOTE that our privacy policy has changed, effective June 23, 2010.
 
