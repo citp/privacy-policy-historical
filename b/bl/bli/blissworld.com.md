@@ -1,30 +1,12 @@
-> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225065412id_/http%3A//www.blissworld.com/t-customerserviceprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204001207id_/http%3A//www.blissworld.com/t-customerserviceprivacy.aspx) for the most accurate reproduction.*
 
-# Customer Service - Privacy and Security - Blissworld
-
-  
-|  |   
-  
----  
-| 
-
-[Home](https://web.archive.org/) > Customer Service - Privacy and Security 
-
-|   
----  
-|  |  | 
-
-privacy + security
-
-We are a part of BlissWorld, LLC which includes [www.blissworld.com](http://www.blissworld.com/), Bliss Spa and Bliss Catalog brands. We are committed to respecting your privacy and recognizing your need for appropriate protection and management of personally identifiable information you share with us (the phrases 'personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, address, telephone number, etc.). The purpose of this privacy policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information. 
-
-As part of our commitment to your privacy, BlissWorld LLC brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale exchange with other marketers: (2) honor customer requests not to share their information with other marketers and (3) honor customers' request not to receive mail, telephone or other solicitations from BlissWorld LLC.
+# Customer Service - Privacy and Security - http://www.blissworld
 
 In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. For each visitor to our web page, our web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). We may track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are. 
 
 There may be times (such as when you purchase or order a product, subscribe to service, register to receive catalogs, or to participate in contests, or promotions etc) at which we ask you to provide certain information about yourself such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, etc. We also maintain a record of your online product purchases. Whether or not to provide such information is completely your own choice. But if you choose not to provide this information we request, you may be unable to purchase products, or access certain services, offers and content on our website. 
 
-Your e-mail information is not shared with other organizations for commercial purposes. We do not partner with or have special relationships with any ad server companies. We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing tends and statistics, informing you of our new products, services and offers, and providing you with information from and about Bliss brands. To serve you better, we may combine information you give us online, in our spas or through our catalogs.
+Your e-mail information is not shared with other organizations for commercial purposes. We do not collaborate with or have special relationships with any ad server companies. We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing tends and statistics, informing you of our new products, services and offers, and providing you with information from and about Bliss brands. To serve you better, we may combine information you give us online, in our spas or through our catalogs.
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, contacting us online at [http://www.blissworld.com/contactus.aspx](https://web.archive.org/contactus.aspx), writing to us at BlissWorld.com, 75 Varick Street, New York, NY 10013 Attention: Customer Service, or faxing us at 212-380-4644. 
 
@@ -61,9 +43,4 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 To help us improve our privacy policy and practice, please give us your feedback. You may email us or write to us at Blissworld.com, 75 Varick Street, New York, NY 10013, Attention: Direct Marketing Dept.
 
-_Privacy statement updated October 13, 2009_  
-  
-  
-  
-  
-
+_Privacy statement updated October 13, 2009_
