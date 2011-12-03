@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertmytube.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429234409id_/http%3A//www.convertmytube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertmytube.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203194104id_/http%3A//www.convertmytube.com/privacy) for the most accurate reproduction.*
 
 # Free YouTube Converter
 
