@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishgas.co.uk privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704163517id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishgas.co.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203155422id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - British Gas
 
@@ -60,7 +60,7 @@ When we contact you, we may use any information we hold about you to do so. So w
 
 3.6 | We may pass your address, property and postcode, and details of your gas appliances, flue, hot-water cylinder, system controls and electrical installations (including details of any repairs or removals) to organisations that supervise these activities including GasSafe (previously CORGI) and the ECA (Electrical Contractors Association). These organisations may pass this information to local authorities to meet building regulations. They may also use this information to contact you to inspect appliances or systems, recall faulty products and carry out audits, and for health and safety purposes. Where appropriate, we will give you or the property owner (or both) a certificate to show that your appliances and so on meet building regulations.  
 ---|---  
-3.7 | We will check your details with one or more credit-reference and fraud-prevention agencies to help us make decisions about your ability to make payments and the goods and services we can offer you. Below, we have given a brief guide to how we, the credit-reference and fraud-prevention agencies will use your information. If you would like more information about this, you can find the full version at [www.britishgas.co.uk/termsandconditions](https://web.archive.org/web/20100704163517id_/http%3A//www.britishgas.co.uk/terms-and-conditions.html). Or, phone us on 0800 048 0202 and we will send you a leaflet.  
+3.7 | We will check your details with one or more credit-reference and fraud-prevention agencies to help us make decisions about your ability to make payments and the goods and services we can offer you. Below, we have given a brief guide to how we, the credit-reference and fraud-prevention agencies will use your information. If you would like more information about this, you can find the full version at [www.britishgas.co.uk/termsandconditions](https://web.archive.org/web/20111203155422id_/http%3A//www.britishgas.co.uk/terms-and-conditions.html). Or, phone us on 0800 048 0202 and we will send you a leaflet.  
 ---|---  
 a. | We will search at credit-reference and fraud-prevention agencies for information about you and all the people you are applying with. If you are providing information about other people on a joint application, you must make sure they agree that we can use their information to do this. If you give us false or inaccurate information and we suspect fraud, we will pass your details to credit-reference and fraud-prevention agencies. Law-enforcement agencies (such as the police and HM Revenue & Customs) may receive and use this information.  
 ---|---  
@@ -127,6 +127,8 @@ Please remember that communications over the Internet, such as e-mails and webma
 We may use 'cookies' to monitor how people use our site. This helps us to understand how our customers and potential customers use our website so we can develop and improve the design, layout and function of the sites. A cookie is a piece of information that is stored on your computer's hard drive which records how you have used a website. This means that when you go back to that website, it can give you tailored options based on the information it has stored about your last visit. You can normally alter the settings of your browser to prevent it from accepting cookies.
 
 If you do not want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.
+
+[Click here to read our policy on cookies](https://web.archive.org/cookies-policy.html "Click here to read our policy on cookies")
 
 ### 6\. Turning off cookies in different browsers
 
