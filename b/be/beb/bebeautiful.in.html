@@ -1,0 +1,365 @@
+<!--The following is the downloaded HTML source of the bebeautiful.in privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203061515id_/http%3A//www.bebeautiful.in/footer/privacypolicy.aspx) for the most accurate reproduction.-->
+
+<html class=" webkit chrome linux js"><head><title>
+	PrivacyPolicy Page
+</title><link rel="SHORTCUT ICON" href="../images/favicon.ico">
+    <!-- MAIN STYLESHEETS & SCRIPTS-->
+    <link href="../css/style.css" rel="stylesheet" type="text/css" media="all">
+
+    <script type="text/javascript" src="../js/browsers.js"></script>
+    <script type="text/javascript" src="../js/Ajax.js"></script>
+    <script type="text/javascript" src="../js/imagesover.js"></script>
+
+    <!-- MAIN STYLESHEETS & SCRIPTS-->
+    <!-- PNG FIX SCRIPT-->
+
+    <script type="text/javascript" src="../js/iepngfix_tilebg.js"></script>
+
+    <!-- PNG FIX SCRIPT-->
+    <!-- DROPDOWN MAIN MENU-->
+     
+    <link rel="stylesheet" type="text/css" href="../css/chromestyle_new.css">
+    <script type="text/javascript" src="../js/chrome.js">
+/***********************************************
+* Chrome CSS Drop Down Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+    </script>
+
+    <!-- DROPDOWN MAIN MENU-->
+    <!-- SHOW HIDE DIV FOR TIP OF THE DAY & BOTTOM LINKS-->
+
+    <script type="text/javascript" language="JavaScript">
+function HideContent(menuid)
+{
+document.getElementById(menuid).style.display = "none";
+}
+function ShowContent(menuid)
+{
+document.getElementById(menuid).style.display = "block";
+}
+    </script>
+    
+    
+<style type="text/css">
+.ftpgtxt{width:1000px; font-size:11px;}
+.ftpgtxt h6{font-size:11px;}
+ol, ul {list-style-type:decimal; padding:0 0 0 0; margin:0 0 0 30px;}
+ul{list-style-type:lower-alpha;}
+li{padding:5px 0 5px 0; margin:auto;}
+</style>
+
+</head>
+<body>
+
+
+
+
+   <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+        <script type="text/javascript">
+            var button;
+            var userInfo;
+ 
+            window.fbAsyncInit = function() {
+                FB.init({ appId: '237373682968625',
+                    status: true,
+                    cookie: true,
+                    xfbml: true,
+                    oauth: true});
+ 
+               showLoader(true);
+ 
+               function updateButton(response) {
+                    button       =   document.getElementById('fb-auth');
+                    //userInfo     =   document.getElementById('user-info');
+ 
+                    if (response.authResponse) {
+                        //user is already logged in and connected
+                        FB.api('/me', function(info) {
+                            login(response, info);
+                           
+              
+                 
+                        });
+ 
+                        button.onclick = function() {
+                            FB.logout(function(response) {
+                                logout(response);
+                            });
+                        };
+                    } else {
+                        //user is not connected to your app or logged out
+                        button.src = '../images/fbLogin.gif';
+                        button.onclick = function() {
+                            showLoader(true);
+                            FB.login(function(response) {
+                                if (response.authResponse) {
+                                    FB.api('/me', function(info) {
+					//alert(info.name);
+
+                       // document.getElementById('login').innerHTML = info.first_name +":"+ info.last_name+":"+info.birthday+":"+info.gender+":"+info.email+":"+info.current_location+":"+info.id;
+                     //  alert(document.getElementById('login').innerHTML);                      
+                        AddFbUser(info.first_name +":"+ info.last_name+":"+info.birthday+":"+info.gender+":"+info.email+":"+info.current_location+":"+info.id,"FBuser"); 
+
+                                        login(response, info);
+                              window.location.href=document.URL;                                    });
+                                } else {
+                                    //user cancelled login or did not grant authorization
+                                    showLoader(false);
+                                }
+                            }, {scope:'email,user_birthday,status_update,publish_stream,user_about_me'});
+                        }
+                    }
+                }
+ 
+                // run once with current status and whenever the status changes
+                FB.getLoginStatus(updateButton);
+                FB.Event.subscribe('auth.statusChange', updateButton);
+            };
+            (function() {
+                var e = document.createElement('script'); e.async = true;
+                e.src = document.location.protocol
+                    + '//connect.facebook.net/en_US/all.js';
+                document.getElementById('fb-root').appendChild(e);
+            }());
+ 
+            function login(response, info){
+                if (response.authResponse) {
+                    var accessToken                                 =   response.authResponse.accessToken;
+ 
+                 //   userInfo.innerHTML                             = '<img src="https://graph.facebook.com/' + info.id + '/picture">' + info.name
+                                                                     + "<br /> Your Access Token: " + accessToken;
+                   // button.src                               = 'Logout';
+                        button.src = '../images/fbLogout.gif';
+
+                    showLoader(false);
+                         
+                     //  alert("completed");                 
+              // document.getElementById('other').style.display = "block";
+                }
+            }
+ 
+            function logout(response){
+                //userInfo.innerHTML                             =   "";
+               // document.getElementById('debug').innerHTML     =   "";
+              //  document.getElementById('other').style.display =   "none";
+                showLoader(false);
+                FBlogout();
+                   window.location.href=document.URL;
+            }
+  
+            
+           
+           
+ 
+            function setStatus(){
+                showLoader(true);
+ 
+                status1 = document.getElementById('status').value;
+                FB.api(
+                  {
+                    method: 'status.set',
+                    status: status1
+                  },
+                  function(response) {
+                    if (response == 0){
+                        alert('Your facebook status not updated. Give Status Update Permission.');
+                    }
+                    else{
+                        alert('Your facebook status updated');
+                    }
+                    showLoader(false);
+                  }
+                );
+            }
+ 
+            function showLoader(status){
+               // if (status)
+                  //  document.getElementById('loader').style.display = 'block';
+               // else
+                   // document.getElementById('loader').style.display = 'none';
+            }
+ 
+        </script>
+
+    
+    <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAw9kFgYCAw8WAh4HVmlzaWJsZWhkAgkPFgIeCWlubmVyaHRtbAWDLjxkaXYgY2xhc3M9J2hkbWVudSc+PGRpdj48ZGl2IGNsYXNzPSJjaHJvbWVzdHlsZSIgaWQ9ImNocm9tZW1lbnUiPjx1bD48bGk+PGEgaHJlZj0iLi4vSG9tZS5hc3B4IiByZWw9ImRyb3BtZW51MTAiIGNsYXNzPSJobWJ0Ij4gSG9tZSA8L2E+PC9saT4gPGxpIHN0eWxlPSd3aWR0aDo5M3B4O2hlaWdodDoyMHB4Oyc+PGEgaHJlZj0iLi4vTG9naW4uYXNweCIgcmVsPSJkcm9wbWVudTExIiBjbGFzcz0ibXByb2J0IGV4YW1wbGUyIiAgc3R5bGU9J3dpZHRoOjkzcHg7aGVpZ2h0OjIwcHg7Jz5NeSBQcm9maWxlPC9hPjwvbGk+IDxsaSBjbGFzcz0ibWVudTEiPjxhIGhyZWY9Ii4uL0JlYXV0eUZhc2hpb24vRmFzaGlvbkhvbWUuYXNweCIgcmVsPSJkcm9wbWVudTEiIGNsYXNzPSJiZnNodHNwb3QiPkJlYXV0eSAmYW1wOyBGYXNoaW9uIEhvdHNwb3Q8L2E+PC9saT48bGkgY2xhc3M9Im1lbnUyIj48YSBocmVmPSIuLi9ESVkvRElZSG9tZS5hc3B4IiByZWw9ImRyb3BtZW51MiIgY2xhc3M9ImRvaXRidHQiPkRvIGl0IHlvdXJzZWxmPC9hPjwvbGk+PGxpIGNsYXNzPSJtZW51MyI+PGEgaHJlZj0iLi4vbWVldGd1cnVzL21lZXRndXJ1cy5hc3B4IiByZWw9ImRyb3BtZW51MyIgY2xhc3M9Im10Z3JidCI+TWVldCB0aGUgZXhwZXJ0czwvYT48L2xpPjxsaSBjbGFzcz0ibWVudTQiPjxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSIgcmVsPSJkcm9wbWVudTUiIGNsYXNzPSJzb2NsYnQiPlNvY2lhbGlzZTwvYT48L2xpPjxsaT48YSBocmVmPSIuLi9qdXN0bGF1bmNoL2p1c3RsYXVuY2guYXNweCIgcmVsPSJkcm9wbWVudTYiIGNsYXNzPSJqdXN0bGF1Y2hidCI+SnVzdCBMYXVuY2hlZDwvYT48L2xpPjxsaSBjbGFzcz0ibWVudTYiIGlkPSJMaTEiIHN0eWxlPSJiYWNrZ3JvdW5kOm5vbmU7Ij48YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCkiIHJlbD0iRGl2MTAiIGNsYXNzPSJta3N0YnQiPk1ha2VvdmVyIFN0dWRpbzwvYT48L2xpPjwvdWw+PC9kaXY+PCEtLU1haW4gbWVudSBFTkQtLT48IS0tQmVhdXR5ICYgZmFzaGlvbiBob3RzcG90IG1lbnUgZHJvcCBkb3duIG1lbnUgU1RBUlQtLT48ZGl2IGlkPSJkcm9wbWVudTEwIiBjbGFzcz0iZHJvcG1lbnVkaXYiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+PC9kaXY+PGRpdiBpZD0iZHJvcG1lbnUxMSIgY2xhc3M9ImRyb3BtZW51ZGl2IiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPjwvZGl2PjxkaXYgaWQ9ImRyb3BtZW51MSIgY2xhc3M9ImRyb3BtZW51ZGl2Ij48dGFibGUgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIj48dHIgdmFsaWduPSJ0b3AiPjx0ZCBjbGFzcz0ibWVudXRwYmciPjxzcGFuIGNsYXNzPSdub2xua3MnPkJlYXV0eSBEaWFyaWVzPC9zcGFuPjxkaXYgY2xhc3M9InN1YmxuayI+PGEgaHJlZj0iLi4vQmVhdXR5RmFzaGlvbi9CZWF1dHlBcnRpY2xlTGlzdC5hc3B4P2NhdD0xJkFydGljbGVpZD0wIj4tIFNraW48L2E+PGEgaHJlZj0iLi4vQmVhdXR5RmFzaGlvbi9CZWF1dHlBcnRpY2xlTGlzdC5hc3B4P2NhdD0yJkFydGljbGVpZD0wIj4tIEhhaXI8L2E+PGEgaHJlZj0iLi4vQmVhdXR5RmFzaGlvbi9CZWF1dHlBcnRpY2xlTGlzdC5hc3B4P2NhdD0zJkFydGljbGVpZD0wIj4tIE1ha2V1cDwvYT48L2Rpdj48YSBocmVmPSIuLi9CZWF1dHlGYXNoaW9uL1RyZW5kcy5hc3B4Ij5CZWF1dHkgVHJlbmRzPC9hPjxhIGhyZWY9Ii4uL0JlYXV0eUZhc2hpb24vZmFzaGlvbmd1aWRlLmFzcHgiPiBGYXNoaW9uIFN0eWxlIEd1aWRlPC9hPjxhIGhyZWY9Ii4uL0JlYXV0eUZhc2hpb24vU3BvdExpZ2h0LmFzcHgiPkZhc2hpb24gU3BvdGxpZ2h0PC9hPjxhIGhyZWY9Ii4uL0JlYXV0eUZhc2hpb24vRmFzaGlvbkJvZHlUeXBlLmFzcHgiIGNsYXNzPSJsc3QiPkZhc2hpb24gRm9yIFlvdXIgQm9keSBUeXBlPC9hPjwvdGQ+PC90cj48dHIgdmFsaWduPSJ0b3AiPjx0ZCBjbGFzcz0ibWVudWJ0YmciPjwhLS1baWYgbHRlIElFIDZdPjxpbWcgc3JjPSJpbWFnZXMvbWVudWJ0YmcuZ2lmIiBoZWlnaHQ9IjE1IiB3aWR0aD0iMTY1IiBhbHQ9IiIgYm9yZGVyPSIwIi8+PCFbZW5kaWZdLS0+PC90ZD48L3RyPjwvdGFibGU+PC9kaXY+PCEtLUJlYXV0eSAmIGZhc2hpb24gaG90c3BvdCBtZW51IGRyb3AgZG93biBtZW51IEVORC0tPjwhLS1ESVkgZHJvcCBkb3duIG1lbnUgU1RBUlQtLT48ZGl2IGlkPSJkcm9wbWVudTIiIGNsYXNzPSJkcm9wbWVudWRpdiBkaXltbiI+PHRhYmxlIHdpZHRoPSIxMDAlIiBib3JkZXI9IjAiIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCI+PHRyIHZhbGlnbj0idG9wIj48dGQgY2xhc3M9Im1lbnV0cGJnIj48YSBocmVmPSIuLi9teXByb2ZpbGUvc29jaWFsaXNlLmFzcHgiIGNsYXNzPSJmc3QiPkhvdyB0byB2aWRlbydzPC9hPjxkaXYgY2xhc3M9InN1YmxuayI+PGEgaHJlZj0iLi4vRElZL0RJWVZpZGVvcy5hc3B4P2NhdD1za2luIj4tIFNraW48L2E+PGEgaHJlZj0iLi4vRElZL0RJWVZpZGVvcy5hc3B4P2NhdD1oYWlyIj4tIEhhaXI8L2E+PGEgaHJlZj0iLi4vRElZL0RJWVZpZGVvcy5hc3B4P2NhdD1tYWtldXAiPi0gTWFrZXVwPC9hPjwvZGl2PjxhIGhyZWY9Ii4uL0RJWS9jZWxlYnN0eWxlZGVjb2RlLmFzcHgiPkNlbGViIFN0eWxlIERlY29kZWQ8L2E+PGEgaHJlZj0iLi4vRElZL01ha2V1cFRyZW5kLmFzcHgiIGNsYXNzPSJsc3QiPkRlc2lnbmVyIE1ha2V1cCBUcmVuZHM8L2E+PC90ZD48L3RyPjx0ciB2YWxpZ249InRvcCI+PHRkIGNsYXNzPSJtZW51YnRiZyI+PCEtLVtpZiBsdGUgSUUgNl0+PGltZyBzcmM9ImltYWdlcy9tZW51YnRiZy5naWYiIGhlaWdodD0iMTUiIHdpZHRoPSIxNjUiIGFsdD0iIiBib3JkZXI9IjAiLz48IVtlbmRpZl0tLT48L3RkPjwvdHI+PC90YWJsZT48L2Rpdj48IS0tRElZIGRyb3AgZG93biBtZW51IEVORC0tPjwhLS1NZWV0IHRoZSBHdXJ1cyBkcm9wIGRvd24gbWVudSBTVEFSVC0tPjxkaXYgaWQ9ImRyb3BtZW51MyIgY2xhc3M9ImRyb3BtZW51ZGl2IG1ndXJ1c21uIj48dGFibGUgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIj48dHIgdmFsaWduPSJ0b3AiPjx0ZCBjbGFzcz0ibWVudXRwYmciPjxzcGFuIGNsYXNzPSdub2xua3MnPkFzayBhbiBleHBlcnQ8L3NwYW4+PGRpdiBjbGFzcz0ic3VibG5rIj48YSBocmVmPSIuLi9tZWV0Z3VydXMvQXNrRXhwZXJ0LmFzcHg/aWQ9MSI+LSBTa2luPC9hPjxhIGhyZWY9Ii4uL21lZXRndXJ1cy9Bc2tFeHBlcnQuYXNweD9pZD0yIj4tIEhhaXI8L2E+PGEgaHJlZj0iLi4vbWVldGd1cnVzL0Fza0V4cGVydC5hc3B4P2lkPTMiPi0gTWFrZSB1cDwvYT4gPGEgaHJlZj0iLi4vbWVldGd1cnVzL0Fza0V4cGVydC5hc3B4P2lkPTQiPi0gRmFzaGlvbjwvYT48L2Rpdj48c3BhbiBjbGFzcz0nbm9sbmtzJz5CZWF1dHkgRkFRJ3M8L3NwYW4+PGRpdiBjbGFzcz0ic3VibG5rIj48YSBocmVmPSIuLi9tZWV0Z3VydXMvRmFxLmFzcHg/Y2F0aWQ9MSI+LSBTa2luPC9hPiA8YSBocmVmPSIuLi9tZWV0Z3VydXMvRmFxLmFzcHg/Y2F0aWQ9MiI+LSBIYWlyPC9hPiA8YSBocmVmPSIuLi9tZWV0Z3VydXMvRmFxLmFzcHg/Y2F0aWQ9MyI+LSBNYWtlIHVwPC9hPjxhIGhyZWY9Ii4uL21lZXRndXJ1cy9GYXEuYXNweD9jYXRpZD00Ij4tIEZhc2hpb248L2E+PC9kaXY+PGEgaHJlZj0iLi4vbWVldGd1cnVzL2xpdmVjaGF0LmFzcHgiIGNsYXNzPSJsc3QiPkxpdmUgQ2hhdDwvYT48L3RkPjwvdHI+PHRyIHZhbGlnbj0idG9wIj48dGQgY2xhc3M9Im1lbnVidGJnIj48IS0tW2lmIGx0ZSBJRSA2XT48aW1nIHNyYz0iaW1hZ2VzL21lbnVidGJnLmdpZiIgaGVpZ2h0PSIxNSIgd2lkdGg9IjE2NSIgYWx0PSIiIGJvcmRlcj0iMCIvPjwhW2VuZGlmXS0tPjwvdGQ+PC90cj48L3RhYmxlPjwvZGl2PjwhLS1NZWV0IHRoZSBHdXJ1cyBkcm9wIGRvd24gbWVudSBFTkQtLT48IS0tSGFpciAmIFNraW4gRmFjdGZpbGVzIGRyb3AgZG93biBtZW51IFNUQVJULS0+PGRpdiBpZD0iZHJvcG1lbnU0IiBjbGFzcz0iZHJvcG1lbnVkaXYgaHNmYWN0bW4iPjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiPjx0ciB2YWxpZ249InRvcCI+PHRkIGNsYXNzPSJtZW51dHBiZyI+PGEgaHJlZj0iLi4vbXlwcm9maWxlL3NvY2lhbGlzZS5hc3B4IiBjbGFzcz0iZnN0Ij5IYWlyIFNjaWVuY2U8L2E+PGEgaHJlZj0iLi4vbXlwcm9maWxlL3NvY2lhbGlzZS5hc3B4IiBjbGFzcz0ibHN0Ij5Ta2luIFNjaWVuY2U8L2E+PC90ZD48L3RyPjx0ciB2YWxpZ249InRvcCI+PHRkIGNsYXNzPSJtZW51YnRiZyI+PCEtLVtpZiBsdGUgSUUgNl0+PGltZyBzcmM9ImltYWdlcy9tZW51YnRiZy5naWYiIGhlaWdodD0iMTUiIHdpZHRoPSIxNjUiIGFsdD0iIiBib3JkZXI9IjAiLz48IVtlbmRpZl0tLT48L3RkPjwvdHI+PC90YWJsZT48L2Rpdj48IS0tSGFpciAmIFNraW4gRmFjdGZpbGVzIGRyb3AgZG93biBtZW51IEVORC0tPjwhLS1Tb2NpYWxpc2UgZHJvcCBkb3duIG1lbnUgU1RBUlQtLT48ZGl2IGlkPSJkcm9wbWVudTUiIGNsYXNzPSJkcm9wbWVudWRpdiBzYmttbiI+PHRhYmxlIHdpZHRoPSIxMDAlIiBib3JkZXI9IjAiIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCI+PHRyIHZhbGlnbj0idG9wIj48dGQgY2xhc3M9Im1lbnV0cGJnIj48c3BhbiBjbGFzcz0nbm9sbmtzJz5DT01NVU5JVFk8L3NwYW4+PGRpdiBjbGFzcz0ic3VibG5rIj48YSBocmVmPSIuLi9teXByb2ZpbGUvc29jaWFsaXNlLmFzcHgiPi0gU2tpbjwvYT4gPGEgaHJlZj0iLi4vbXlwcm9maWxlL3NvY2lhbGlzZS5hc3B4Ij4tIEhhaXI8L2E+PGEgaHJlZj0iLi4vbXlwcm9maWxlL3NvY2lhbGlzZS5hc3B4Ij4tIE1ha2UgdXA8L2E+IDxhIGhyZWY9Ii4uL215cHJvZmlsZS9zb2NpYWxpc2UuYXNweCI+LSBGYXNoaW9uPC9hPjwvZGl2PjxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSI+VG9waWMgT2YgVGhlIFdlZWs8L2E+PGEgaHJlZj0iLi4vbXlwcm9maWxlL3NvY2lhbGlzZS5hc3B4IiBjbGFzcz0ibHN0Ij5Db250ZXN0czwvYT48L3RkPjwvdHI+PHRyIHZhbGlnbj0idG9wIj48dGQgY2xhc3M9Im1lbnVidGJnIj48IS0tW2lmIGx0ZSBJRSA2XT48aW1nIHNyYz0iaW1hZ2VzL21lbnVidGJnLmdpZiIgaGVpZ2h0PSIxNSIgd2lkdGg9IjE2NSIgYWx0PSIiIGJvcmRlcj0iMCIvPjwhW2VuZGlmXS0tPjwvdGQ+PC90cj48L3RhYmxlPjwvZGl2PjwhLS1Tb2NpYWxpc2UgZHJvcCBkb3duIG1lbnUgRU5ELS0+PCEtLUJlYXV0eSBLaXQgZHJvcCBkb3duIG1lbnUgU1RBUlQtLT48ZGl2IGlkPSJkcm9wbWVudTYiIGNsYXNzPSJkcm9wbWVudWRpdiBzYmttbiI+PC9kaXY+PCEtLUJlYXV0eSBLaXQgZHJvcCBkb3duIG1lbnUgRU5ELS0+PCEtLU1ha2VvdmVyIFN0dWRpbyBkcm9wIGRvd24gbWVudSBTVEFSVC0tPjxkaXYgaWQ9IkRpdjEwIiBjbGFzcz0iZHJvcG1lbnVkaXYgbXN0bW4iPjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiPjx0ciB2YWxpZ249InRvcCI+PHRkIGNsYXNzPSJtZW51dHBiZyI+PGEgaHJlZj0iLi4vbXlwcm9maWxlL3NvY2lhbGlzZS5hc3B4IiBjbGFzcz0iZnN0Ij5NeSBNYWtlb3ZlcjwvYT48L3RyPjx0ciB2YWxpZ249InRvcCI+PHRkIGNsYXNzPXNiLkFwcGVuZCAoIm1lbnVidGJnIj48IS0tW2lmIGx0ZSBJRSA2XT48aW1nIHNyYz0iaW1hZ2VzL21lbnVidGJnLmdpZiIgaGVpZ2h0PSIxNSIgd2lkdGg9IjE2NSIgYWx0PSIiIGJvcmRlcj0iMCIvPjwhW2VuZGlmXS0tPjwvdGQ+PC90cj48L3RhYmxlPjwvZGl2PjwhLS1NYWtlb3ZlciBTdHVkaW8gZHJvcCBkb3duIG1lbnUgRU5ELS0+PC9kaXY+PC9kaXY+ZAIPDxYCHgVjbGFzcwUIZnRsbmtzZWxkZA==">
+
+        <div align="center">
+            <!--Header table-->
+<div class="nhead" style="width:auto; background:url(../images/inhead.gif) no-repeat center top;">
+<table width="1045" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr>
+ 
+
+                 <td height="25" colspan="2" align="right">
+                        <a href="javascript:void(0);" class="fr">
+                        <img src="../images/gobt.gif" alt="" width="26" height="18" hspace="0" vspace="0" border="0"></a>
+                        <input type="text" name="srch" id="Text2" value="Keyword Search" class="inputlnk fr" style="margin-right:5px;">
+                        <a href="javascript:void(0);" id="ctl00_loginfblink" class="fr" style="margin-right:10px;">
+                         
+                         
+                    <img src="../images/fbLogin.gif" id="fb-auth">
+
+                         </a>
+                         
+                        <img src="../images/nhome/or.gif" id="ctl00_or" width="28" height="20" hspace="0" vspace="0" border="0" class="fr">
+                        <a href="../Login.aspx" id="ctl00_loginlink" class="example2 fr">
+                        <img src="../images/nhome/loginsign.gif" alt="Sign In" width="84" height="20" hspace="0" vspace="0" border="0" title="Sign In">
+                        </a> 
+                
+</td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="bottom"><a href="../Home.aspx" class="inlogo" title="BeBeautiful"></a></td>
+</tr>
+<tr>
+<td colspan="2" align="left" valign="top"><!--Main menu START-->
+
+ 
+
+<!--Main menu END-->
+ 
+ 
+<!--Makeover Studio drop down menu END--></td>
+</tr>
+</tbody></table>
+</div>
+ <div id="ctl00_menuData"><div class="hdmenu"><div><div class="chromestyle" id="chromemenu"><ul><li><a href="../Home.aspx" rel="dropmenu10" class="hmbt"> Home  </a></li> <li style="width:93px;height:20px;"><a href="../Login.aspx" rel="dropmenu11" class="mprobt example2" style="width:93px;height:20px;">My Profile </a></li> <li class="menu1"><a href="../BeautyFashion/FashionHome.aspx" rel="dropmenu1" class="bfshtspot">Beauty &amp; Fashion Hotspot </a></li><li class="menu2"><a href="../DIY/DIYHome.aspx" rel="dropmenu2" class="doitbtt">Do it yourself </a></li><li class="menu3"><a href="../meetgurus/meetgurus.aspx" rel="dropmenu3" class="mtgrbt">Meet the experts </a></li><li class="menu4"><a href="javascript:void(0)" rel="dropmenu5" class="soclbt">Socialise </a></li><li><a href="../justlaunch/justlaunch.aspx" rel="dropmenu6" class="justlauchbt">Just Launched </a></li><li class="menu6" id="Li1" style="background:none;"><a href="javascript:void(0)" rel="Div10" class="mkstbt">Makeover Studio </a></li></ul></div><!--Main menu END--><!--Beauty & fashion hotspot menu drop down menu START--><div id="dropmenu10" class="dropmenudiv" style="display: none;"></div><div id="dropmenu11" class="dropmenudiv" style="display: none;"></div><div id="dropmenu1" class="dropmenudiv"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td class="menutpbg"><span class="nolnks">Beauty Diaries</span><div class="sublnk"><a href="../BeautyFashion/BeautyArticleList.aspx?cat=1&amp;Articleid=0">- Skin</a><a href="../BeautyFashion/BeautyArticleList.aspx?cat=2&amp;Articleid=0">- Hair</a><a href="../BeautyFashion/BeautyArticleList.aspx?cat=3&amp;Articleid=0">- Makeup</a></div><a href="../BeautyFashion/Trends.aspx">Beauty Trends</a><a href="../BeautyFashion/fashionguide.aspx"> Fashion Style Guide</a><a href="../BeautyFashion/SpotLight.aspx">Fashion Spotlight</a><a href="../BeautyFashion/FashionBodyType.aspx" class="lst">Fashion For Your Body Type</a></td></tr><tr valign="top"><td class="menubtbg"><!--[if lte IE 6]><img src="images/menubtbg.gif" height="15" width="165" alt="" border="0"/><![endif]--></td></tr></tbody></table></div><!--Beauty & fashion hotspot menu drop down menu END--><!--DIY drop down menu START--><div id="dropmenu2" class="dropmenudiv diymn"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td class="menutpbg"><a href="../myprofile/socialise.aspx" class="fst">How to video's</a><div class="sublnk"><a href="../DIY/DIYVideos.aspx?cat=skin">- Skin</a><a href="../DIY/DIYVideos.aspx?cat=hair">- Hair</a><a href="../DIY/DIYVideos.aspx?cat=makeup">- Makeup</a></div><a href="../DIY/celebstyledecode.aspx">Celeb Style Decoded</a><a href="../DIY/MakeupTrend.aspx" class="lst">Designer Makeup Trends</a></td></tr><tr valign="top"><td class="menubtbg"><!--[if lte IE 6]><img src="images/menubtbg.gif" height="15" width="165" alt="" border="0"/><![endif]--></td></tr></tbody></table></div><!--DIY drop down menu END--><!--Meet the Gurus drop down menu START--><div id="dropmenu3" class="dropmenudiv mgurusmn"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td class="menutpbg"><span class="nolnks">Ask an expert</span><div class="sublnk"><a href="../meetgurus/AskExpert.aspx?id=1">- Skin</a><a href="../meetgurus/AskExpert.aspx?id=2">- Hair</a><a href="../meetgurus/AskExpert.aspx?id=3">- Make up</a> <a href="../meetgurus/AskExpert.aspx?id=4">- Fashion</a></div><span class="nolnks">Beauty FAQ's</span><div class="sublnk"><a href="../meetgurus/Faq.aspx?catid=1">- Skin</a> <a href="../meetgurus/Faq.aspx?catid=2">- Hair</a> <a href="../meetgurus/Faq.aspx?catid=3">- Make up</a><a href="../meetgurus/Faq.aspx?catid=4">- Fashion</a></div><a href="../meetgurus/livechat.aspx" class="lst">Live Chat</a></td></tr><tr valign="top"><td class="menubtbg"><!--[if lte IE 6]><img src="images/menubtbg.gif" height="15" width="165" alt="" border="0"/><![endif]--></td></tr></tbody></table></div><!--Meet the Gurus drop down menu END--><!--Hair & Skin Factfiles drop down menu START--><div id="dropmenu4" class="dropmenudiv hsfactmn"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td class="menutpbg"><a href="../myprofile/socialise.aspx" class="fst">Hair Science</a><a href="../myprofile/socialise.aspx" class="lst">Skin Science</a></td></tr><tr valign="top"><td class="menubtbg"><!--[if lte IE 6]><img src="images/menubtbg.gif" height="15" width="165" alt="" border="0"/><![endif]--></td></tr></tbody></table></div><!--Hair & Skin Factfiles drop down menu END--><!--Socialise drop down menu START--><div id="dropmenu5" class="dropmenudiv sbkmn"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td class="menutpbg"><span class="nolnks">COMMUNITY</span><div class="sublnk"><a href="../myprofile/socialise.aspx">- Skin</a> <a href="../myprofile/socialise.aspx">- Hair</a><a href="../myprofile/socialise.aspx">- Make up</a> <a href="../myprofile/socialise.aspx">- Fashion</a></div><a href="javascript:void(0)">Topic Of The Week</a><a href="../myprofile/socialise.aspx" class="lst">Contests</a></td></tr><tr valign="top"><td class="menubtbg"><!--[if lte IE 6]><img src="images/menubtbg.gif" height="15" width="165" alt="" border="0"/><![endif]--></td></tr></tbody></table></div><!--Socialise drop down menu END--><!--Beauty Kit drop down menu START--><div id="dropmenu6" class="dropmenudiv sbkmn"></div><!--Beauty Kit drop down menu END--><!--Makeover Studio drop down menu START--><div id="Div10" class="dropmenudiv mstmn"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td class="menutpbg"><a href="../myprofile/socialise.aspx" class="fst">My Makeover</a></td></tr><tr valign="top"><td class="sb.Append" ("menubtbg"=""><!--[if lte IE 6]><img src="images/menubtbg.gif" height="15" width="165" alt="" border="0"/><![endif]--></td></tr></tbody></table></div><!--Makeover Studio drop down menu END--></div></div></div>
+
+<!--Header table-->
+            <img src="../images/spacer.gif" width="1" height="30" hspace="0" vspace="0" border="0" alt=""><br clear="all">
+            <!--Content table-->
+            
+<style type="text/css">
+.ftpgtxt{width:1000px; font-size:11px;}
+.ftpgtxt h6{font-size:11px;}
+</style>
+<table width="1000" border="0" cellspacing="0" cellpadding="0" class="content">
+<tbody><tr valign="top" align="left">
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="577" colspan="2" align="left" valign="top"> <h1 class="phead">PRIVACY POLICY</h1> <img src="../images/spacer.gif" width="100%" height="5" hspace="0" vspace="0" border="0" alt=""><br clear="all">
+<div class="pathway"><a href="../Home.aspx">Home</a> &gt; <strong>Privacy Policy</strong></div>
+<img src="../images/spacer.gif" width="100%" height="10" hspace="0" vspace="0" border="0" alt=""><br clear="all">
+<div class="ftpgtxt">
+<h6>Privacy Policy</h6>
+By using or accessing this Site, you accept the practices described in this Privacy Policy. This Privacy Policy describes how we collect and treat your personal information when you use this Site. Your information, as collected by Hindustan Unilever Ltd (herein referred to as HUL) is: (a) information supplied by users and (b) information automatically tracked while navigation<br>
+<br>
+<h6>Information supplied by users</h6>
+To avail the Service of this Site, you are required to provide variety of information about yourself for the registration process and while using several other features of the website. The information as supplied by you enables us to improve our sites and provide you the most user-friendly experience. We may use your details to send you notifications regarding varied services within this Site.<br>
+<br>
+<h6>Cookies</h6>
+To improve the responsiveness of the Site for you, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. A cookie cannot read data off your hard drive.<br>
+<br>
+<h6>IP Addresses</h6>
+Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver the web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site, to identify any abuse of the Site and let advertisers know the geographic locations from where our visitors come.<br>
+<br>
+<h6>Others</h6>
+In addition, we collect information that you post to set up your personal profile, send messages, ask queries, perform searches and queries, invite new members to the site, add applications, transmit information through various channels, etc., so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list.<br>
+<br>
+<h6>Limitation</h6>
+You post your personal information on the Site at your own risk. Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share information. Therefore, we cannot and do not guarantee that your personal information that you post on the Site will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your information may remain viewable in cached and archived pages or if other users have copied or stored your information.<br>
+<br>
+<h6>Sharing Information</h6>
+When you post queries on this website or forward content from the website, your name and email address will be identified in the message. When you invite another person to visit the website or register on the website, we use the name and email address you provide us to contact that person and, if necessary, remind that person that he or she has been invited to join this website.<br>
+<br>
+<h6>Profile Edit</h6>
+Access and control over most personal information on the Site is readily available through the profile editing tools. You may modify your profile information at any time by logging into your account. Information will be updated immediately.<br>
+<br>
+<h6>Alerts</h6>
+BeBeautiful.in may send you service-related announcements from time to time through the general operation of the service and you may receive an email alerting you to that fact.<br>
+<br>
+<h6>Links to other Site/s</h6>
+The Site includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. HUL is not responsible for the privacy practices of other web sites. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's, you should contact the site directly for more information.<br>
+<br>
+<h6>Third Party Advertising Companies</h6>
+We use third-party advertising companies to serve ads when you visit our Site. These parties automatically receive your IP address. These third party advertisers may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize advertising content. These companies may use information (including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. HUL does not have access to or control of this activity of third party advertiser.<br>
+<br>
+<h6>Changes</h6>
+Since, the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.<br>
+<br>
+<h6>Termination</h6>
+You can terminate your account at any time. If you terminate your account, your profile, including any messages in your inbox, will be removed from the site and deleted from BeBeautiful's servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup media. Any improper collection or misuse of information provided on this Site is a violation of the Terms of Service and should be reported to <a href="mailto:info@bebeautiful.in" style="text-decoration:underline;">info@bebeautiful.in</a><br>
+<br>
+<h6>Disputes</h6>
+Your use of this Site/Services and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law.<br>
+<br>
+<h6>Contact</h6>
+If you have any questions about this privacy policy, please contact us at <a href="mailto:info@bebeautiful.in" style="text-decoration:underline;">info@bebeautiful.in</a>
+</div></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+
+            <!--Content table-->
+            <img src="../images/spacer.gif" width="100%" height="50" hspace="0" vspace="0" border="0" alt=""><br clear="all">
+            <!--Footer table-->
+            <table width="1000" border="0" cellspacing="0" cellpadding="0" class="footer">
+                <tbody><tr>
+                    <td width="425" align="left" valign="top" class="spnrs">
+                       <!-- <a href="http://www.ponds.in" target="_blank">
+                            <img src="../images/footer/pondsftlg.gif" alt="" width="40" height="26" hspace="0"
+                                vspace="0" border="0" />
+                        </a>
+                        <a href="http://www.dove.in" target="_blank">
+                            <img src="../images/footer/doveftlg.gif" width="37" height="26" alt="" hspace="0"
+                                vspace="0" border="0" /></a>
+                        <a href="http://www.lakmeindia.com" target="_blank">
+                            <img src="../images/footer/lakmeftlg.gif" width="64" height="26" />
+                        </a><a href="http://www.sunsilkgangofgirls.com" target="_blank">
+                                    <img src="../images/footer/sunslikftlg.gif" width="29" height="70" alt="" hspace="0"
+                                        vspace="0" border="0"  style="margin-top: -39px; position: relative;" /></a>
+                        <a href="http://www.vaseline.in" target="_blank">
+                            <img src="../images/footer/vaslineftlg.gif" width="32" height="31" alt="" hspace="0"
+                                vspace="0" border="0" /></a>!--></td>
+                        
+    <td width="250" align="left" valign="top" class="social">
+                        <a href="http://twitter.com/#!/BeBeautiful2010" target="_blank">
+                            <img src="../images/followus.jpg" alt="Follow Us" title="Follow Us" width="70" height="19" border="0"></a> <a href="http://www.facebook.com/BeBeautifulIndia?" target="_blank">
+                                    <img src="../images/joinus.jpg" alt="Join Us" title="Join Us" width="58" height="19" border="0"></a></td>
+
+
+
+                    <td align="right" valign="middle">
+                        <div class="fr">
+                            <a href="../footer/AboutUs.aspx" id="ctl00_abtus" title="About Us">About Us</a>&nbsp;
+                            | &nbsp;<a href="../footer/ContactUs.aspx" title="Contact Us">Contact Us</a>&nbsp;
+                            | &nbsp;<a href="../footer/privacypolicy.aspx" id="ctl00_privacy" title="Privacy Policy" class="ftlnksel">Privacy
+                                Policy</a>&nbsp; | &nbsp;<a href="../footer/terms.aspx" id="ctl00_terms" title="Terms and Conditions">Terms &amp; Conditions</a></div>
+                    </td>
+                </tr>
+            </tbody></table>
+            <!--Footer table-->
+        </div>
+    </form>
+    <!--MAIN DROPDOWN MENU-->
+
+    <script type="text/javascript">
+cssdropdown.startchrome("chromemenu")
+    </script>
+    
+     <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+        <script type="text/javascript">
+        try
+        {
+                var pageTracker = _gat._getTracker("UA-11729277-2");
+                pageTracker._trackPageview();
+        } 
+        catch(err) 
+        {
+        }
+        </script>
+
+    <!--MAIN DROPDOWN MENU-->
+
+
+</body></html>
