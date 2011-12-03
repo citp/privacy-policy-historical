@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605052258id_/http%3A//www.islandtrends.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandtrends.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203224735id_/http%3A//www.islandtrends.com/privacypolicy) for the most accurate reproduction.*
 
-# Island Trends Website
+# Island Trends - Robert Graham - FitFlop - FitFlops - Tommy Bahama
 
 Privacy Policy-Contact Us At 1-877-342-8615 or 1-239.963.8564 between 9am & 6pm EST Daily For Assistance. Email help@islandtrends.com 24 Hours A Day 7 Days A Week 
 
