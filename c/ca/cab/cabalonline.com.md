@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabalonline.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624110707id_/http%3A//cabalonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabalonline.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203233859id_/http%3A//www.cabalonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Cabal Online » Terms of Service
 
