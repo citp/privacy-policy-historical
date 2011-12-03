@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmediainfo.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504120957id_/http%3A//www.bestmediainfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmediainfo.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203234337id_/http%3A//www.bestmediainfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Best Media Info, News and Analysis on Indian Advertising, Marketing and Media Industry.
 
@@ -33,11 +33,11 @@ This site gives users the following options for removing their information from 
 
 
 
-**Correct/Update** This site gives users the following options for changing and modifying information previously provided.
+ **Correct/Update** This site gives users the following options for changing and modifying information previously provided.
 
   1. You can send email to Info@BestMediaInfo.com
   2. You may re-subscribe to our services after making the required changes. Please **[click here](http://www.bestmediainfo.com/Homepage/Register.aspx)** to register again.
 
 
 
-**Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact [Info@BestMediaInfo.com.](mailto:Info@BestMediaInfo.com?subject=News%20Releases)
+ **Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact [Info@BestMediaInfo.com.](mailto:Info@BestMediaInfo.com?subject=News%20Releases)
