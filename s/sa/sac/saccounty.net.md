@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the saccounty.net privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628231341id_/http%3A//www.saccounty.net/PrivacyPolicy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saccounty.net privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203193155id_/http%3A//www.saccounty.net/PrivacyPolicy/default.htm) for the most accurate reproduction.*
 
 # Privacy Policy, County of Sacramento, California, USA
 
 ## Privacy Policy
-
-Inquire about the availability of documents in [alternate formats.](https://web.archive.org/accessibility)
 
 Thank you for visiting the County of Sacramento website. This Privacy Policy outlines the types of information we gather when you visit our website, how that information is used as well as some of the steps we take to safeguard it.
 
