@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offers4u.org privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125181447id_/http%3A//www.offers4u.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offers4u.org privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203230848id_/http%3A//www.offers4u.org/privacy.php) for the most accurate reproduction.*
 
 # Free Gift Cards Worth Over $70,000
 
