@@ -1,33 +1,9 @@
-> *The following text is extracted and transformed from the brainhost.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630070417id_/http%3A//www.brainhost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainhost.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203165047id_/http%3A//www.brainhost.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-This is the web site of Brain Host (BrainHost.com).
+## For legal and privacy issues, please address queries to:
 
-For legal and privacy issues, please address queries to:
+Brain Host, LLC 3660 Center Rd Suite 363 Brunswick, Ohio 44212
 
-Brain Host, LLC
-
-3660 Center Rd Suite 363
-
-Brunswick, Ohio 44212
-
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
-
-We collect only the domain name, but not the e-mail address of visitors to our Web page, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
-
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor.
-
-With respect to cookies: we use cookies to ensure that visitors are not repeatedly sent the same banner ads.
-
-If you do not want to receive e-mail from us in the future, please let us know by contacting us at support [@] brainhost.com
-
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mail us at the above address.
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
-
-If you feel that this site is not following its stated information policy, you may contacting us at support [@] brainhost.com.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. We will only retain personal information as long as necessary for the fulfillment of those purposes. We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up to date. We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. With respect to cookies: We use cookies to ensure that visitors are not repeatedly sent the same banner ads. If you do not want to receive email from us in the future, please let us know by contacting us at support [@] brainhost.com If you supply us with your postal address online you will only receive the information for which you provided us your address. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mail us at the above address. With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. If you feel that this site is not following its stated information policy, you may contacting us at **support [@] brainhost.com**. 
