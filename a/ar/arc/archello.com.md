@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archello.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125080456id_/http%3A//archello.com/en/page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archello.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203143016id_/http%3A//www.archello.com/en/page/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
