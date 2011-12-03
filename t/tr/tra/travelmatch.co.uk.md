@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmatch.co.uk privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615001433id_/http%3A//www.travelmatch.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmatch.co.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203035510id_/http%3A//www.travelmatch.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # travelmatch privacy policy
 
