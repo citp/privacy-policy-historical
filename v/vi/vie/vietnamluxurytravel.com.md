@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vietnamluxurytravel.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130093345id_/http%3A//vietnamluxurytravel.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vietnamluxurytravel.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203150910id_/http%3A//www.vietnamluxurytravel.com/privacy_policy.html) for the most accurate reproduction.*
 
-# ®VietnamLuxuryTravel.Com - Signatures of Asia Travel Service, Best Deals for Private Tours in Vietnam and Indochina, Leading Tour Operator in South East Asia, Asia Luxury Tour Company, Best Tour Company in Vietnam, Vietnam Luxury Travel, Thailand Luxury Travel, Laos Luxury Travel, Lao Luxury Travel, Cambodia Luxury Travel, Myanmar Luxury Travel, Burma Luxury TRavel, Vietnam Tour Package, Vietnam Travel, Vietnam Tours, Vietnam Hotels, Vietnam 5 Star Tours, Vietnam Deluxe Tours, Thailand Travel, Thailand Tours, Cambodia Travel, Cambodia Hotels, Cambodia Tours, Laos Tours, Laos Travel, Laos Hotels, Laos Visa, Vietnam Visa, Vietnam Luxury Cruises, Thailand Luxury Tours, Thailand Luxury Cruises, Thailand Luxury Holidays, Thailand Luxury Journeys, Vietnam Luxury Journeys, Vietnam Journeys, Travel Vietnam, Traveling Vietnam, Cambodia Traveling
+# Privacy Policy| Tour Booking Privacy Policy | Signatures of Asia Privacy Policy
 
 **Privacy Policy**
 
