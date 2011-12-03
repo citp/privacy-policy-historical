@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603201605id_/http%3A//www.outreach.com/print/articlef.asp%3Farticle_name%3Da-privacypolicy%26N%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outreach.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203032611id_/http%3A//www.outreach.com/print/articlef.asp%3Farticle_name%3Da-privacypolicy%26N%3D41) for the most accurate reproduction.*
 
 # Outreach: Church communication and marketing tools
 
 ## Privacy Policy
 
-We respect the privacy of our website visitors, newsletter subscribers, those who answer our surveys, and those who fill out our questionnaires.
-
-  This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [_Privacy Policy for Information Collected by the ClickTale Web Analytics Service_](http://www.clicktale.com/privacy_service.aspx?nop=1). We are using the information collected by ClickTale service to help serve our customers by making the Outreach.com user experience the best possible and to provide customers with easy access to the best products and services. You can choose to disable the Service at [_http://www.clicktale.net/disable.html_](http://www.clicktale.net/disable.html?nop=1).
+We respect the privacy of our website visitors, newsletter subscribers, those who answer our surveys, and those who fill out our questionnaires.  
+ 
 
 **It is our policy:**  
 
@@ -63,6 +62,6 @@ Our site may, from time to time, contain links to and from websites for advertis
 
 **Contact**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [outreach support].
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [customerservice@outreach.com](mailto:customerservice@outreach.com?subject=Privacy%20Policy%20Inquiry&nop=1). 
 
 * * *
