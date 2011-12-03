@@ -1,21 +1,30 @@
-> *The following text is extracted and transformed from the fultoncountyga.gov privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604165600id_/http%3A//www.fultoncountyga.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fultoncountyga.gov privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203211132id_/http%3A//fultoncountyga.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Thank you for visiting myfultoncountyga.us. The myfultoncountyga.us portal is designed to make it easier and more efficient for Fulton County citizens and businesses to interact with their County Government. Fulton County government strives to provide online resources in a safe, secure manner that respects your privacy when you visit our sites.
+### Audio News
 
-This Privacy Statement addresses the collection, use, disclosure, and security of information that may be obtained from Fulton County through the use of the myfultoncountyga.us portal.
+_Hear County Manager Zach Williams discussing ¢itizen $ense on WCLK_  
+[Download](http://www.fultoncountyga.gov/plugins/content/jw_allvideos/includes/download.php?file=images/audio/Fulton_Focus.mp3 "Click to download media")
+
+|  |   
+|  Privacy Statement  |  [| Print |](http://www.fultoncountyga.gov/privacy?tmpl=component&print=1&page= "Print")  
+---|---  
+  
+Thank you for visiting [www.FultonCountyGa.gov](http://www.fultoncountyga.gov/). The [www.FultonCountyGa.gov](http://www.fultoncountyga.gov/) portal is designed to make it easier and more efficient for Fulton County citizens and businesses to interact with their County Government. Fulton County government strives to provide online resources in a safe, secure manner that respects your privacy when you visit our sites.
+
+This Privacy Statement addresses the collection, use, disclosure, and security of information that may be obtained from Fulton County through the use of the [www.FultonCountyGa.gov](http://www.fultoncountyga.gov/) portal.
 
   
 **Information Collected** **  
-**Fulton County may collect some or all of the following information from visitors to myfultoncountyga.us portal websites:
+**Fulton County may collect some or all of the following information from visitors to[www.FultonCountyGa.gov](http://www.fultoncountyga.gov/) portal websites:
 
-  * Domain names; for example, "xyzcompany.com" if you use a private Internet access account; 
-  * An IP address, which is a number automatically assigned to your computer when you are using the Internet; 
-  * The type of browser and operating system used to access our site; 
-  * The Internet address of the website from which users linked directly to our site; 
-  * The pages visited within the portal; and 
-  * The links made to other websites through the portal. 
+  * Domain names; for example, "xyzcompany.com" if you use a private Internet access account;
+  * An IP address, which is a number automatically assigned to your computer when you are using the Internet;
+  * The type of browser and operating system used to access our site;
+  * The Internet address of the website from which users linked directly to our site;
+  * The pages visited within the portal; and
+  * The links made to other websites through the portal.
 
 
 
@@ -24,10 +33,10 @@ This information is collected for statistical analysis using third-party or prop
 
 If, during your visit to Fulton County.gov, you voluntarily provide personally identifiable information, we will collect such information. Examples of personally identifiable information may include:
 
-  * Your name, address, or phone number; 
-  * An e-mail address if you are communicating to us through e-mail; 
-  * Information you voluntarily submit to the Fulton County for the purposes of completing or submitting an application or form online; and 
-  * Other information volunteered, such as vendor profile/contact information, survey information or content of e-mail. 
+  * Your name, address, or phone number;
+  * An e-mail address if you are communicating to us through e-mail;
+  * Information you voluntarily submit to the Fulton County for the purposes of completing or submitting an application or form online; and
+  * Other information volunteered, such as vendor profile/contact information, survey information or content of e-mail.
 
 
 
@@ -42,13 +51,13 @@ Information collected from the Fulton County website is considered public inform
 
   
 **Cookies**  
-The Myfultoncountyga.us portal may occasionally use "cookies" to customize your browsing experience. Cookies are simple text files stored by your web browser and they provide a method of distinguishing among visitors to the websites, and allowing customized features such as a "shopping cart" feature for online purchasing. Cookies created on your computer by using our websites do not contain personally identifiable information and do not compromise your privacy or security. You can refuse the cookie or delete the cookie file from your computer at any time by using any one of a number of widely available methods.
+The [www.FultonCountyGa.gov](http://www.fultoncountyga.gov/) portal may occasionally use "cookies" to customize your browsing experience. Cookies are simple text files stored by your web browser and they provide a method of distinguishing among visitors to the websites, and allowing customized features such as a "shopping cart" feature for online purchasing. Cookies created on your computer by using our websites do not contain personally identifiable information and do not compromise your privacy or security. You can refuse the cookie or delete the cookie file from your computer at any time by using any one of a number of widely available methods.
 
   
 **Security**  
 Several tools, policies and protocols are used to safeguard the submission of information through the portal. Security measures have been integrated into the design, implementation and day-to-day operations of the entire operating environment as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information.
 
-For services requiring online financial transactions, myfultoncountyga.us uses the Secure Sockets Layer (SSL) encryption protocol to safeguard your sensitive personal information, including your credit card number. Information is encrypted from your computer to the Portal computer processing your request.
+For services requiring online financial transactions, [www.FultonCountyGa.gov](http://www.fultoncountyga.gov/) uses the Secure Sockets Layer (SSL) encryption protocol to safeguard your sensitive personal information, including your credit card number. Information is encrypted from your computer to the Portal computer processing your request.
 
 In order to further secure your privacy, do not divulge any passwords or sensitive information (e.g. credit card number) to anyone in a phone call or e-mail. When you are finished with those applications that are password protected or required the input of your credit card information, it is always recommended that you close or otherwise exit the browser page.
 
@@ -57,3 +66,5 @@ In order to further secure your privacy, do not divulge any passwords or sensiti
 Revisions to this Privacy Statement will be posted to this location so that you will know the type of information we collect and how that information is used. Updates will include the last date of revision.
 
 The goal of this website is to provide information in an accurate and efficient manner. If you have comments or questions regarding privacy at [www.FultonCountyGa.gov](http://www.fultoncountyga.gov/) , please contact us at [webmaster@FultonCountyGa.gov](mailto:webmaster@FultonCountyGa.gov)
+
+    | 
