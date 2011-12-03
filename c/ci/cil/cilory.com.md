@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514165010id_/http%3A//www.cilory.com/cms.php%3Fid_cms%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203043521id_/http%3A//www.cilory.com/cms.php%3Fid_cms%3D3) for the most accurate reproduction.*
 
-# Cilory - Privacy Policy
-
-[Home](http://www.cilory.com/ "return to Home") >Privacy Policy
+# Privacy Policy - Cilory
 
 PRIVACY POLICY
 
@@ -110,6 +108,3 @@ If we merge with, or are acquired by another company, the resulting combined com
 Remember, your secrets are safe with us!!
 
 We are confident that you agree that we have the BEST privacy policy in the industry. You are welcome to write to us at customerservice@cilory.com for any clarifications.
-
-  
-
