@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630233622id_/http%3A//www.nabiscoworld.com/misccontent/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabiscoworld.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203155258id_/http%3A//www.nabiscoworld.com/misccontent/privacy_policy.aspx) for the most accurate reproduction.*
 
 # NabiscoWorld.com
 
