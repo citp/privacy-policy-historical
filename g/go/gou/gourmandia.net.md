@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gourmandia.net privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829170933id_/http%3A//www.gourmandia.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmandia.net privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203215426id_/http%3A//www.gourmandia.net/privacy_policy.php) for the most accurate reproduction.*
 
-# Les grands chefs et leurs recettes en video
+# Gourmet Recipe videos from Michelin Ranked Epicurean Chefs- Gourmandia, easy french recipes
 
 #### Gourmandia Privacy Policy
 
@@ -19,6 +19,8 @@ Similarly, when you register to receive services on Gourmandia.com, we require t
 **Anonymous Information.** Gourmandia.com may also gather anonymous information, which may be used by Gourmandia.com or shared with third parties. This is information which does not personally identify you, but which may be helpful for marketing purposes or for improving the services we offer. Generally this information is collected through "traffic data" and may entail the use of "cookies," "IP addresses," or other numeric codes used to identify a computer. 
 
 **Cookies.** Gourmandia.com employs cookies to recognize you and your access privileges on the Web site, as well as to track site usage. Subscribers who do not accept cookies from the domain (e.g. "Gourmandia.com") cannot access most areas of Gourmandia.com's Web site. 
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://valueclickmedia.com/member_privacy.shtml 
 
 **IP Addresses.** Gourmandia.com also logs IP addresses for systems administration and troubleshooting purposes. (Your IP address indicates the location of your computer on the Internet). We do not log IP addresses to track your session. 
 
