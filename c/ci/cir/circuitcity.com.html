@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the circuitcity.com privacy policy that was archived on 2011-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616032900id_/http%3A//www.circuitcity.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the circuitcity.com privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203155509id_/http%3A//www.circuitcity.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Policy at CircuitCity.com</title>
@@ -52,7 +52,7 @@ if(parent.frames.length > 0) {
 }
 </script>
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 
 <script type="text/javascript" language="javascript">
 sfHover = function() {
@@ -132,7 +132,7 @@ margin:7px 0 0;
 height:107px;
 font-family:Arial, Helvetica, sans-serif;
 position:relative;
-z-index:9999;
+z-index:999;
 margin-bottom:0px;
 }
 
@@ -365,6 +365,18 @@ margin-bottom:2px;
 	padding-right:8px;
 }*/
 
+
+.dealAlertscir{
+	background-color: #CCCCCC;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 1px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	padding-left: 5px;
+	border: 1px solid #999999;
+	margin-bottom: 12px;
+}
 
 .circuitCurrent{
 height:20px;
@@ -604,7 +616,7 @@ width:941px;
 
 
 div#hom_24Ex_wrapper{display:none; position:absolute; top:0%; left: 0%; z-index:9991; width:100%; height:2150px; background-color:black; z-index:99990; -moz-opacity:0.8; opacity:.80; filter:alpha(opacity=80);}
-#ccExO_wrapper{display:none; position:absolute; top:5%; left: 30%; z-index:99990; width:450px; height:500px; background:#121212; border:1px solid #888; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; padding:28px 0;}
+#ccExO_wrapper{display:none; position:absolute; top:5%; left: 30%; z-index:99990; width:450px; height:525px; background:#121212; border:1px solid #888; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; padding:28px 0;}
 #ccExO_wrapper2{display:none; position:absolute; top:5%; left: 30%; z-index:99990; width:450px; height:500px; background:#121212; border:1px solid #888; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; padding:28px 0;}
 span#ccExO_title{text-align:center; letter-spacing:-2px; color:#cc0331; font-size:26px; font-weight:bold; display:block; margin:0; padding:25px 0 0 0;}
 span#ccExO_subtitle{text-align:center; letter-spacing:-1px; font-size:18px; display:block; margin:0 0 3px 0}
@@ -627,125 +639,25 @@ span#ccExO_mid_inner{ display:block; padding:20px; font-size:22px; letter-spacin
 
 </style>
 
-<script type="text/javascript" language="javascript">
-
-function displayemailadd(){
-var emailID=document.ccExForm.email;
-document.write(emailID);
-}
-
-function setCookie(c_name,value,expiredays)
-{
-var exdate=new Date();
-exdate.setDate(exdate.getDate()+expiredays);
-document.cookie=c_name+ "=" +escape(value)+
-((expiredays==null) ? "" : ";expires="+exdate.toUTCString());
-}
-
-function lightbox(div,action){
-
-	if ((div=="ccExO_wrapper") && (action == "close")){
-	
-	document.getElementById('ccExO_wrapper').style.display='none';
-	document.getElementById('hom_24Ex_wrapper').style.display='none';
-	setCookie('visited','yes',30);
-	}
-
-	else if ((div=="ccExO_wrapper") && (action == "open"))  {
-	document.getElementById('ccExO_wrapper').style.display='block';
-	document.getElementById('hom_24Ex_wrapper').style.display='block';
-	}
-	
-	if ((div=="ccExO_wrapper2") && (action == "close")){
-	document.getElementById('ccExO_wrapper2').style.display='none';
-	document.getElementById('hom_24Ex_wrapper').style.display='none';
-	}
-	else if ((div=="ccExO_wrapper2") && (action == "open"))  {
-	document.getElementById('ccExO_wrapper2').style.display='block';
-	document.getElementById('hom_24Ex_wrapper').style.display='block';
-	setCookie('visited','yes',30);
-	setTimeout("lightbox('ccExO_wrapper2','close')",10000);
-	}
-
+<style type="text/css">
+<!--
+/* Special CSS to add Bill Me Later banner to masthead... Disable when no longer in use. 
+#circuit_searchCont {width:355px; position:relative;}*/
+#circuit_input {width:239px;}
+#circuit_bmlBanner {
+	width:245px;
+	height:35px;
+	text-indent:-9999px;
+	display:block;
+	background:url(http://images.highspeedbackbone.net/email/topbannerb2ssweeps.jpg) left top no-repeat;
+	position:absolute;
+	left:208px;
+	top:-7px;
 	
 }
+-->
+</style>
 
-function overlay_emailcheck(str) {
-		var emailID=document.ccExForm.email;
-		var at="@"
-		var dot="."
-		var lat=str.indexOf(at)
-		var lstr=str.length
-		var ldot=str.indexOf(dot)
-		alertxr = "Sorry, please enter a valid e-mail address, for example, johnsmith@gmail.com"
-	
-		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
-		    alert(alertxr);
-			lightbox("open");
-			emailID.focus();
-		    return false
-		}
-
-		 if (str.indexOf(at,(lat+1))!=-1){
-		    alert(alertxr);
-			lightbox("open");
-			emailID.focus();
-		    return false
-		 }
-
-		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
-		    alert(alertxr);
-			lightbox("open");
-			emailID.focus();
-		    return false
-		 }
-
-		 if (str.indexOf(dot,(lat+2))==-1){
-		    alert(alertxr);
-			lightbox("open");
-			emailID.focus();
-		    return false
-		 }
-		
-		 if (str.indexOf(" ")!=-1){
-		    alert(alertxr);
-			lightbox("open");
-			emailID.focus();
-		    return false
-		 }
-
- 		 return true					
-	}
-function overlay_ValidateForm(){
-	
-	var emailID=document.ccExForm.email;
-    var CaptchaStrID=document.ccExForm.CaptchaStr;
-	
-
-	if ((emailID.value==null)||(emailID.value=="") || (emailID.value=="Email Address")){
-		lightbox("open");
-		alert("Please Enter your Email Address");
-		emailID.focus();
-		return false;
-	}
-    
-	if (overlay_emailcheck(emailID.value)==false){
-		lightbox("open");
-		emailID.focus();
-		return false;
-	}
-	
-	if ((CaptchaStrID.value==null)||(CaptchaStrID.value=="")){
-		lightbox("open");
-		alert("Please enter the text contained in the image to the left.");
-		CaptchaStrID.focus();
-		return false;
-	}
-	
-	return true
-	
- }
-</script>
 
 
 <div id="circuitmain_container">
@@ -758,10 +670,8 @@ function overlay_ValidateForm(){
 	
   <a href="http://www.circuitcity.com"><img src="http://images.highspeedbackbone.net/masthead/circuit/circuit_logo.gif" alt="Circuit City Home" width="94" height="103" border="0"></a></div>
 
-  <div id="circuit_mastTop">
-    
-  <!--right container with search boxk-->   	        
-   <div id="circuit_searchCont" class="circuit_right">
+  <div id="circuit_mastTop"><!--right container with search boxk-->
+    <div id="circuit_searchCont" class="circuit_right">
       <div>
          <form action="http://www.circuitcity.com/applications/SearchTools/search.asp" name="searchFRM" id="searchFRM" onsubmit="return chkSrch(this.keywords)">
             <div class="circuit_left"><img src="http://images.highspeedbackbone.net/masthead/circuit/search_left.gif" width="7" height="28"></div>
@@ -830,6 +740,7 @@ function overlay_ValidateForm(){
     
       <div class="circuitv3_tabbedouter">
     <ul class="circuitv3_tabbedmenu" id="circuitv3_tabbedmenu">
+    
      
         <!---------------------TV & Home Entertainment----------------->   
           
@@ -847,7 +758,18 @@ function overlay_ValidateForm(){
           <li><a href="/applications/category/category_slc.asp?CatId=79&amp;name=Cables&amp;Nav=|c:384|&amp;Sort=0&amp;Recs=10&amp;cm_sp=Header-_-HE-_-CatID_79" title="Audio / Video Cables">Audio / Video Cables</a></li>
           <li><a href="/applications/category/category_tlc.asp?CatId=2038&amp;name=DVD-Movies&amp;cm_sp=Header-_-HE-_-CatID_2038" title="DVD &amp; Blu-Ray Movies">DVD &amp; Blu-Ray Movies</a></li>
            <li><a href="/applications/category/category_slc.asp?CatId=384&amp;name=Plasma-TV-Accessories&amp;cm_sp=Header-_-HE-_-CatID_384" title="Accessories &amp; Extras">Accessories &amp; Extras</a></li>
-          <li><a style="border-bottom:none;" href="/applications/category/category_tlc.asp?CatId=5235&amp;name=Car-Audio&amp;cm_sp=Header-_-EL-_-CatID_5235" title="Car Audio">Car Audio</a></li>         </ul>
+          <li><a style="border-bottom:none;" href="/applications/category/category_tlc.asp?CatId=5235&amp;name=Car-Audio&amp;cm_sp=Header-_-EL-_-CatID_5235" title="Car Audio">Car Audio</a></li><li><div class="dealAlertscir">
+                                	<form name="subscribe" id="subscribe" method="post" action="http://www.circuitcity.com/applications/email/d_subscribe.asp" onsubmit="return emailChk(this.email.value)">
+                                    <h3>Deal Alerts</h3>
+                                    <p>Receive the latest Computer news and deals.</p>
+                                    <p>
+                                      <input name="email" type="text" onfocus="if(this.value=='Enter email address')this.value='';" onblur="if(this.value=='')this.value='Enter email address';" value="Enter email address">
+                                    </p>
+                                    <input type="hidden" name="listcode" value="MH"><input type="hidden" name="LyrisType2" value="SUBSCRIBE"><input type="hidden" name="Additional_" value="pc">
+                                    <p><input name="signUp" type="image" value="submit" src="http://images.highspeedbackbone.net/homepage/circuithome/dropdownemailbutton.gif" alt="Signup" title="Signup"></p>                                                                       
+                                	</form>
+                                </div>
+</li>         </ul>
       </li>
      
      
@@ -866,7 +788,18 @@ function overlay_ValidateForm(){
           <li><a href="/applications/Category/category_tlc.asp?CatId=19&amp;cm_sp=Header-_-EL-_-CatID_19" title="PDAs">PDAs</a></li>
          <li><a href="/applications/category/category_tlc.asp?CatId=42&amp;cm_sp=Header-_-EL-_-CatID_42" title="Headphones">Headphones</a></li>
          <li><a style="border-bottom:none;" href="/applications/category/category_tlc.asp?CatId=2900&amp;cm_sp=Header-_-EL-_-CatID_2900" title="Video Gaming">Video Gaming</a></li>
-          
+          <li><div class="dealAlertscir">
+                                	<form name="subscribe" id="subscribe" method="post" action="http://www.circuitcity.com/applications/email/d_subscribe.asp" onsubmit="return emailChk(this.email.value)">
+                                    <h3>Deal Alerts</h3>
+                                    <p>Receive the latest Computer news and deals.</p>
+                                    <p>
+                                      <input name="email" type="text" onfocus="if(this.value=='Enter email address')this.value='';" onblur="if(this.value=='')this.value='Enter email address';" value="Enter email address">
+                                    </p>
+                                    <input type="hidden" name="listcode" value="MH"><input type="hidden" name="LyrisType2" value="SUBSCRIBE"><input type="hidden" name="Additional_" value="TV">
+                                    <p><input name="signUp" type="image" value="submit" src="http://images.highspeedbackbone.net/homepage/circuithome/dropdownemailbutton.gif" alt="Signup" title="Signup"></p>                                                                       
+                                	</form>
+                                </div>
+</li> 
          </ul>
       </li>
       
@@ -896,6 +829,19 @@ function overlay_ValidateForm(){
 		  <li><a href="/applications/category/category_slc.asp?CatId=326&amp;cm_sp=Header-_-CO-_-CatID_326" title="Paper Supplies">Paper Supplies</a></li>
           <li><a href="/applications/Category/category_tlc.asp?CatId=221&amp;name=Furniture&amp;cm_sp=Header-_-CO-_-CatID_221" title="Furniture">Furniture</a></li>
           <li><a style="border-bottom:none;" href="/applications/Category/category_tlc.asp?CatId=1&amp;name=Accessories&amp;cm_sp=Header-_-CO-_-CatID_1" title="Accessories &amp; Extras">Accessories &amp; Extras</a></li>
+          
+          <li><div class="dealAlertscir">
+                                	<form name="subscribe" id="subscribe" method="post" action="http://www.circuitcity.com/applications/email/d_subscribe.asp" onsubmit="return emailChk(this.email.value)">
+                                    <h3>Deal Alerts</h3>
+                                    <p>Receive the latest Computer news and deals.</p>
+                                    <p>
+                                      <input name="email" type="text" onfocus="if(this.value=='Enter email address')this.value='';" onblur="if(this.value=='')this.value='Enter email address';" value="Enter email address">
+                                    </p>
+                                    <input type="hidden" name="listcode" value="MH"><input type="hidden" name="LyrisType2" value="SUBSCRIBE"><input type="hidden" name="Additional_" value="Portable">
+                                    <p><input name="signUp" type="image" value="submit" src="http://images.highspeedbackbone.net/homepage/circuithome/dropdownemailbutton.gif" alt="Signup" title="Signup"></p>                                                                       
+                                	</form>
+                                </div>
+</li> 
         </ul>
       </li>
       <!-- Computer & Office Submenu Ends -->
@@ -934,7 +880,18 @@ function overlay_ValidateForm(){
           <li id="rightside"><a href="/applications/category/category_tlc.asp?CatId=4462&amp;cm_sp=Header-_-PAR-_-CatID_4462" title="Webcams">Webcams</a></li>
           <li id="leftside"><a style="border-bottom:none;" href="/applications/Category/category_tlc.asp?CatId=13&amp;name=Motherboards&amp;cm_sp=Header-_-PAR-_-CatID_13" title="Motherboards">Motherboards</a></li>
           <li id="rightside"><a style="border-bottom:none;" href="/applications/category/category_tlc.asp?CatId=35&amp;cm_sp=Header-_-PAR-_-CatID_35" title="Wireless Networking">Wireless Networking</a></li>
-       
+       <li><div class="dealAlertscir">
+                                	<form name="subscribe" id="subscribe" method="post" action="http://www.circuitcity.com/applications/email/d_subscribe.asp" onsubmit="return emailChk(this.email.value)">
+                                    <h3>Deal Alerts</h3>
+                                    <p>Receive the latest Computer news and deals.</p>
+                                    <p>
+                                      <input name="email" type="text" onfocus="if(this.value=='Enter email address')this.value='';" onblur="if(this.value=='')this.value='Enter email address';" value="Enter email address">
+                                    </p>
+                                    <input type="hidden" name="listcode" value="MH"><input type="hidden" name="LyrisType2" value="SUBSCRIBE"><input type="hidden" name="Additional_" value="PC">
+                                    <p><input name="signUp" type="image" value="submit" src="http://images.highspeedbackbone.net/homepage/circuithome/dropdownemailbutton.gif" alt="Signup" title="Signup"></p>                                                                       
+                                	</form>
+                                </div>
+</li> 
         </ul>
       </li>
       
@@ -952,7 +909,18 @@ function overlay_ValidateForm(){
           <li><a href="/applications/category/category_slc.asp?CatId=5230&amp;cm_sp=Header-_-DC-_-CatID_5230" title="Digital Picture Frames">Digital Picture Frames</a></li>
           <li><a href="/applications/Category/category_tlc.asp?CatId=36&amp;name=Flash-Memory-Cards&amp;cm_sp=Header-_-DC-_-CatID_36" title="Flash Memory">Flash Memory</a></li>
           <li><a href="/applications/Category/category_tlc.asp?CatId=21&amp;name=Printers&amp;cm_sp=Header-_-DC-_-CatID_21" title="Printers, Scanners &amp; Fax">Printers, Scanners &amp; Fax</a></li>
-           <li><a style="border-bottom:none;" href="/applications/category/category_slc.asp?CatId=131&amp;name=Digital-Camera-Accessories&amp;cm_sp=Header-_-DC-_-CatID_131" title="Accessories &amp; Extras">Accessories &amp; Extras</a></li>
+           <li><a style="border-bottom:none;" href="/applications/category/category_slc.asp?CatId=131&amp;name=Digital-Camera-Accessories&amp;cm_sp=Header-_-DC-_-CatID_131" title="Accessories &amp; Extras">Accessories &amp; Extras</a></li><li><div class="dealAlertscir">
+                                	<form name="subscribe" id="subscribe" method="post" action="http://www.circuitcity.com/applications/email/d_subscribe.asp" onsubmit="return emailChk(this.email.value)">
+                                    <h3>Deal Alerts</h3>
+                                    <p>Receive the latest Computer news and deals.</p>
+                                    <p>
+                                      <input name="email" type="text" onfocus="if(this.value=='Enter email address')this.value='';" onblur="if(this.value=='')this.value='Enter email address';" value="Enter email address">
+                                    </p>
+                                    <input type="hidden" name="listcode" value="MH"><input type="hidden" name="LyrisType2" value="SUBSCRIBE"><input type="hidden" name="Additional_" value="Cameras">
+                                    <p><input name="signUp" type="image" value="submit" src="http://images.highspeedbackbone.net/homepage/circuithome/dropdownemailbutton.gif" alt="Signup" title="Signup"></p>                                                                       
+                                	</form>
+                                </div>
+</li> 
         </ul>
 
       </li>
@@ -1027,9 +995,20 @@ function overlay_ValidateForm(){
           
           <li id="rightside"><a style="border-bottom:none;" href="/applications/category/category_slc.asp?CatId=4630&amp;name=Water-&amp;-Filtration&amp;cm_sp=Header-_-HW-_-CatID_4630" title="Water &amp; Filtration">Water &amp; Filtration</a>
           
-          
+          </li><li><div class="dealAlertscir">
+                                	<form name="subscribe" id="subscribe" method="post" action="http://www.circuitcity.com/applications/email/d_subscribe.asp" onsubmit="return emailChk(this.email.value)">
+                                    <h3>Deal Alerts</h3>
+                                    <p>Receive the latest Computer news and deals.</p>
+                                    <p>
+                                      <input name="email" type="text" onfocus="if(this.value=='Enter email address')this.value='';" onblur="if(this.value=='')this.value='Enter email address';" value="Enter email address">
+                                    </p>
+                                    <input type="hidden" name="listcode" value="MH"><input type="hidden" name="LyrisType2" value="SUBSCRIBE"><input type="hidden" name="Additional_" value="Housewares">
+                                    <p><input name="signUp" type="image" value="submit" src="http://images.highspeedbackbone.net/homepage/circuithome/dropdownemailbutton.gif" alt="Signup" title="Signup"></p>                                                                       
+                                	</form>
+                                </div>
+</li>
        
-        </li></ul>
+        </ul>
       </li>
       
      
@@ -1048,13 +1027,26 @@ function overlay_ValidateForm(){
          <li><a href="/applications/category/category_slc.asp?CatId=141&amp;cm_sp=Header-_-VG-_-CatID_141" title="Joysticks &amp; Gamepads">Joysticks &amp; Gamepads</a></li>
          <li><a href="/applications/category/category_tlc.asp?CatId=3035&amp;cm_sp=Header-_-VG-_-CatID_3035" title="PC Games">PC Games</a></li>
          <li><a style="border-bottom:none;" href="/applications/SearchTools/search.asp?keywords=gaming+accessories&amp;cm_sp=Header-_-VG-_-CatID_Extras" title="Accessories &amp; Extras">Accessories &amp; Extras</a></li>
-        </ul>
+         <li><div class="dealAlertscir">
+                                	<form name="subscribe" id="subscribe" method="post" action="http://www.circuitcity.com/applications/email/d_subscribe.asp" onsubmit="return emailChk(this.email.value)">
+                                    <h3>Deal Alerts</h3>
+                                    <p>Receive the latest Computer news and deals.</p>
+                                    <p>
+                                      <input name="email" type="text" onfocus="if(this.value=='Enter email address')this.value='';" onblur="if(this.value=='')this.value='Enter email address';" value="Enter email address">
+                                    </p>
+                                    <input type="hidden" name="listcode" value="MH"><input type="hidden" name="LyrisType2" value="SUBSCRIBE"><input type="hidden" name="Additional_" value="Gaming">
+                                    <p><input name="signUp" type="image" value="submit" src="http://images.highspeedbackbone.net/homepage/circuithome/dropdownemailbutton.gif" alt="Signup" title="Signup"></p>                                                                       
+                                	</form>
+                                </div>
+</li> 
+        </ul>  
       </li>
   <!--back to school promotion-->       
       
         
       
     </ul>
+    
   </div>
     
     
@@ -1064,84 +1056,6 @@ function overlay_ValidateForm(){
 </div>
 
 
-<div id="hom_24Ex_wrapper">
-        &nbsp;
-    </div>
-<div id="ccExO_wrapper">
-	<a id="ccExo_wrapbtn" href="#" onclick="lightbox('ccExO_wrapper','close')"></a>
-	<div id="ccExO_top">
-    	<div id="site_logo"><img src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/ccLogo_overlay.png"></div>
-        <div id="closebuttonPos"><a href="#" onclick="lightbox('ccExO_wrapper','close')"><img src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/closeButton.png" alt="Close Overlay" border="0"></a></div>
-    <span id="ccExO_title">ONE DAY EXCLUSIVE OFFER!</span>
-    <span id="ccExO_subtitle">Sign up for our Circuit City Exclusive Email Offers and get<br>
-    <b>$10 Off* YOUR NEXT ORDER</b></span>
-    </div>
-    <div id="ccExO_mid">
-    <form id="ccExForm" name="ccExForm" method="post" action="http://www.circuitcity.com/include/LyrisProxy.asp">
-    	<div id="ccExForm_textInput"><span class="ccExForm_text">Please enter your email address:</span><br>
-        <input id="ccExForm_email" onfocus="if(this.value=='Email Address')this.value='';" onblur="if(this.value=='')this.value='Email Address';" value="Email Address" name="email"></div>
-        <div id="ccExForm_CaptchWrap">
-            <div id="ccExForm_CaptchImg">
-             	<iframe src="https://www.circuitcity.com/secure/captcha/Default.aspx" width="220" height="95" frameborder="0" scrolling="NO" allowtransparency="true" id="captchaframe"></iframe>
-            </div>
-            <div id="ccExForm_CaptchInput">
-            <span class="ccExForm_text">Enter the text you see on the left:</span><br>
-            <input id="ccExForm_captcha" name="CaptchaStr"><br>
-            </div>
-        </div><br clear="all">
-        <input type="hidden" name="ListCode" value="CO">
-        <input name="list" type="hidden" value="ccoverlay">
-        <input type="hidden" name="SrcCode" value="CCEM620TT" size="10" maxlength="100">
-        <input type="hidden" name="demographics" value="ListCode SrcCode">
-        <input type="hidden" name="confirm" value="one">
-        <input type="hidden" name="showconfirm" value="F">
-        <center><input id="ccExForm_submit" type="image" onclick="return overlay_ValidateForm()" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/submitbtn.jpg"></center>
-        <input type="hidden" name="url" value="http://www.circuitcity.com/sectors/aboutus/privacy.asp?page=ty&amp;">        
-    </form>
-       
-    <br clear="all">
-    </div>
-    <div id="ccExO_bottom">
-        <center><a href="javascript:void(0)" onclick="lightbox('ccExO_wrapper','close')"> <img id="ccExButton_no" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/nothanksBtn.jpg" border="0"></a></center>
-        <div id="ccEx_TC">
-        	* Requires $100 Minimum Purchase. Cannot be combined with other offers. Limit one discount code per customer. Must validate email address by responding to our confirmation email. After valid email confirmation, please allow up to 2-4 business days to receive your $10 discount via email. Must follow instructions within the email to qualify. To ensure delivery to your inbox, please add CircuitCity@circuitcity-online.com to your address book.
-        </div>
-    </div>
-</div>
-
-
-<div id="ccExO_wrapper2">
-	<div id="ccExO_top">
-    <span id="ccExO_title">THANK YOU</span>
-    <span id="ccExO_subtitle">for your email submission</span>
-    </div>
-    <div id="ccExO_mid">
-  	<span id="ccExO_mid_inner">You have one more step to get your $10 discount. Just confirm your entry via the confirmation email to validate your email address and then we will send you a $10 discount link.</span>
-    <br clear="all">
-    </div>
-    <div id="ccExO_bottom">
-        <center><a href="javascript:void(0)" onclick="lightbox('ccExO_wrapper2','close')"> <img id="ccExButton_no" src="http://images.highspeedbackbone.net/homepage/promotions/exclusive_24hour/closeBtn.jpg" border="0"></a></center>
-        <div id="ccEx_TC">
-        	* Requires $100 Minimum Purchase. Cannot be combined with other offers. Limit one discount code per customer. Must validate email address by responding to our confirmation email. After valid email confirmation, please allow up to 2-4 business days to receive your $10 discount via email. Must follow instructions within the email to qualify. To ensure delivery to your inbox, please add CircuitCity@circuitcity-online.com to your address book.
-        </div>
-    </div>
-</div>
-
-
-	
-    <script language="javascript" type="text/javascript">
-    $("#hom_24Ex_wrapper").click(function () { 
-     lightbox('ccExO_wrapper','close');
-    });
-	
-	$("#hom_24Ex_wrapper").click(function () { 
-     lightbox('ccExO_wrapper2','close');
-    });
-	
-	</script>
-
-	
-	
 
 <!--latest-->
 <!--latest-->
@@ -1425,13 +1339,13 @@ h2{
 </style>
 <div style="width:620px; font-family:Arial, Helvetica, sans-serif;">
 	<div>
-        <div class="redBar">CircuitCity.com Privacy Policy (Updated 5/20/2009)</div>
+        <div class="redBar">CircuitCity.com Privacy Policy (Updated 8/19/2011)</div>
         
 		<div class="copy">
-        By visiting the CircuitCity.com website or any other websites operated by CircuitCity.com, Inc. or its affiliates (collectively, the “Site”), you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site. 
+        By visiting the CircuitCity.com website or any other websites operated by CircuitCity.com, Inc. or its affiliates (collectively, the “Site”), you agree to accept the practices described in this Privacy Notice. If you do not agree to the terms of this Privacy Notice, please do not use the Site. Each time you use the Site, you should check the date of this Privacy Notice (which appears above) and review any changes that have been made since your last visit to the Site.  
         <br>
 <br>
-CircuitCity.com has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit the Site and provide us with information. This Privacy Notice is posted to demonstrate our leadership in online security and customer service practices. We treat your information with the honesty and sensitivity you would expect of the Circuit City brand.. 
+CircuitCity.com has developed relationships with our customers based on respect and integrity. We're aware of the trust and confidence you demonstrate when you visit the Site and provide us with information. This Privacy Notice is posted to demonstrate our leadership in online security and customer service practices. We treat your information with the honesty and sensitivity you would expect of the Circuit City brand. 
     	</div>
     </div>    
 
@@ -1441,7 +1355,7 @@ CircuitCity.com has developed relationships with our customers based on respect 
         CircuitCity.com uses information that we collect from our visitors and customers to personalize and improve your visit and shopping experience at the Site. We gather the following types of information:<br>
         <br>
         <strong> Information You Give to Us:</strong> <br>
-        We Collect Personal Information that is provided by Site users. “Personal Information” includes your name, address, telephone number, credit or debit card information, e-mail address, date of birth, IP address and the last four digits of your Social Security number. Personal Information is collected when you establish an account with us, place an order on the Site, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through the Site, telephone, mail or fax. In some instances, we may obtain other people’s names and email addresses that you may choose to provide as part of our “email a friend” feature. 
+        We collect Personal Information that is provided by Site users. “Personal Information” includes your name, address, telephone number, credit or debit card information, e-mail address, date of birth, IP address and the last four digits of your Social Security number. Personal Information is collected when you establish an account with us, place an order on the Site, participate in a contest, sweepstakes or on-line survey, or when you communicate with any of our departments such as customer service, sales or technical services through the Site, telephone, mail or fax. In some instances, we may obtain other people’s names and email addresses that you may choose to provide as part of our “email a friend” feature. 
         <br>
 		<br>
 		<strong>Web Beacons:</strong> <br>
@@ -1485,21 +1399,27 @@ We may employ other companies or individuals to provide certain services to or o
 If you place an order through the Site, the Personal Information you provide is transmitted to your credit card company to verify and authorize your purchase. At certain times we may offer financing options with or without third party participation. If you use a financing option, information provided by you (such as your address, birth date, social security number, and credit card number) may be used to request a credit report from third parties or may be sent to a third party for processing.
 <br>
 <br>
-        <strong>Fraud Prevention:</strong><br>
- We use a third party service provider, Ethoca, Inc., to assist us with preventing and monitoring fraudulent activity on the Site. When you make a purchase on the Site, we may send your Personal Information to Ethoca in order to receive a credit assessment based on such information. Ethoca may also store and use this information in order to expand its fraud prevention database, which may be accessible by other retailers that are part of Ethoca’s anti-fraud network. Ethoca has agreed (i) not to use your Personal Information for any reason except as described in this Privacy Notice, (ii) to maintain the confidentiality of your Personal Information, and (iii) to provide your Personal Information with at least the same level of protection and security as provided on the Site. If you would like more information concerning Ethoca’s privacy practices, go to www.ethoca.com. In the event that your purchase is denied based on a risk assessment provided to us by Ethoca, you may contact us at <a href="mailto:ethoca@help.CircuitCity.com">ethoca@help.CircuitCity.com</a> to dispute the information contained in such risk assessment. 
-<br>
-<br>
         <strong>Third Party Marketing Partners: </strong><br>
-We will never share any personally identifiable information which you have given us with any third party marketers.
-        Aggregate Information: We provide aggregate information to some of our business partners. This information is used in a collective manner and does not identify you individually in any way. We collect and share aggregate information in order to know more about the general profile of our customers so that we can improve your shopping experience. 
+From time to time we might establish a business relationship with other third parties whom we believe are  trustworthy.  In such cases we might license, exchange, share and/or cross-reference information, including your name and postal mailing address that will enable such third parties to contact you regarding products and services that may be of interest to you. We will never share any personally identifiabletelephone number(s), e-mail addresses, or credit card information which you have given us with any such third party partner(s). 
 <br>
 <br>
+
+        <strong>Related Companies: </strong><br>
+We may share your postal and e-mail address, telephone number(s), customer preferences, and purchase history with other subsidiaries of our parent company, Systemax Inc. We will never share any credit card information which you have given to us with any of these related companies. 
+<br>
+<br>
+
+		 <strong>Aggregate Information: </strong><br>
+We provide aggregate information to some of our business partners. This information is used in a collective manner and does not identify you individually in any way. We collect and share aggregate information in order to know more about the general profile of our customers so that we can improve your shopping experience.
+<br>
+<br>
+
         <strong>Shippers:</strong><br>
  If you make a purchase through the Site, your name, telephone number and shipping information must be provided to third party shippers such as UPS, FEDEX, the United States Postal Service, and trucking companies to deliver your purchase. There also may be instances in which we drop-ship orders directly to you from one of our manufacturers or suppliers. These drop-shippers are only given your name, postal address, and telephone number for the sole purpose of fulfilling your order.
         <br>
 <strong><br>
 Third Party Transaction-Level Data:</strong><br>
- If you visit the Site from a third-party website the third-party website may be able to access select information from your individual transaction information. In order to track and credit your transaction the third-party website may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party website to the Site. Any transactions made at the Site while such a code is active will be reported back to the third party website. We will only report non-Personal Information to these websites such as the date of the transaction, the product(s) purchased and the amount spent. We will not report any information to these third party websites that will allow them to personally identify you. The presence of a third party navigation bar at the top of any page on the Site is one indication that the third party website may be able to see your activity on the Site. 
+ If you visit the Site from a third-party website the third-party website may be able to access select information from your individual transaction information. In order to track and credit your transaction the third-party website may give you a unique code, cookie or graphic which will uniquely identify you. This will only happen if you link directly from a third party website to the Site. Any transactions made at the Site while such a code is active will be reported back to the third party website. We will only report non-Personal Information to these websites such as the date of the transaction, the product(s) purchased and the amount spent. We will not report any information to these third party websites that will allow them to personally identify you. The presence of a third party navigation bar at the top of any page on the Site is an indication that the third party website may be able to see your activity on the Site. 
 <br>
         <strong><br>
         Links to Third Party Site:</strong><br>
@@ -1557,9 +1477,14 @@ You should recognize, however, that no computer system is fully secure and that 
    	<div>    
         <div class="redBar">9. Business Transfer</div>
 		<div class="copy">        
-        CircuitCity.com, Inc.  is a wholly owned subsidiary of Systemax, Inc., a Fortune 1000 Company (NYSE symbol SYX). However, in the event that CircuitCity.com, Inc. is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any personal information and basic customer information owned or under the control of CircuitCity.com, Inc. may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and other basic customer information we have collected from users of the Site.  However, no personal financial information, including credit card information, social security numbers or dates of birth, will ever be part of the information transferred any any such business transfer.
-		</div>        
-	</div>        
+        CircuitCity.com, Inc.  is a wholly owned subsidiary of Systemax, Inc., a Fortune 1000 Company (NYSE symbol SYX). However, in the event that CircuitCity.com, Inc. is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of CircuitCity.com, Inc. may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and aggregate information we have collected from users of the Site.  </div>        
+	</div>   
+    
+   	<div>    
+        <div class="redBar">10. Limitations On Liability</div>
+		<div class="copy">        
+        IN NO EVENT WILL CircuitCity.com OR ITS PARENT, AFFILIATES, LICENSEES OR ANY PARTY INVOLVED IN CREATING, PRODUCING OR DELIVERING THE SITE OR ITS PRODUCTS OR SERVICES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, SPECIAL OR PUNITIVE DAMAGES ARISING OUT OF YOUR ACCESS, USE OR INABILITY TO USE THE SITE, OR IN CONNECTION WITH ANY FAILURE OR PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE (INCLUDING LOSS OF PROFITS, LOSS OF BUSINESS OR DATA, BUSINESS INTERRUPTION, AND DAMAGES THAT RESULT FROM INACCURACY OF THE INFORMATION OR INCONVENIENCE, DELAY, OR LOSS OF THE USE OF THE SITE). THE FOREGOING LIMITATIONS APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER BASIS, EVEN IF CircuitCity.com OR ITS AFFILIATES OR ANY OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. </div>        
+	</div>            
 </div>
 
 
@@ -1711,7 +1636,7 @@ You should recognize, however, that no computer system is fully secure and that 
 			document.getElementById("layer1").style.left = GetLeftPos();
 		}
 	
-		position = "<div id=\"layer1\" style=\"position: absolute; left:"+GetLeftPos()+"; top:110px; width:166px; height:300px; z-index:1\">"
+		position = "<div id=\"layer1\" style=\"position: absolute; left:"+GetLeftPos()+"px; top:110px; width:166px; height:300px; z-index:1\">"
 		
 		
 		document.write(position)
@@ -1797,7 +1722,7 @@ You should recognize, however, that no computer system is fully secure and that 
 		function process() {
 		   return checksubmit();
 		}
-</script><div id="layer1" style="position: absolute; left:780; top:110px; width:166px; height:300px; z-index:1">
+</script><div id="layer1" style="position: absolute; left:780px; top:110px; width:166px; height:300px; z-index:1">
 
 <style type="text/css">
     .navBullet
@@ -2001,7 +1926,7 @@ a.sidebox-buy-link { color:#cc0000 !important; }
   <div class="sideboxCC">
   
   
-  	<a href="/email/circuitCity/CCEM664.asp?cm_sp=Right Nav-_-Email-_-CCEM664"><img src="http://images.highspeedbackbone.net/homepage/circuitEmail/cc_subfeature_CCEM664RN.jpg" border="0"></a>
+  	<a href="/email/circuitCity/CCEM786.asp?cm_sp=Right Nav-_-Email-_-CCEM786"><img src="http://images.highspeedbackbone.net/homepage/circuitEmail/cc_subfeature_CCEM786RN.jpg" border="0"></a>
     
   </div>
 <!--end email spot -->
@@ -2013,24 +1938,24 @@ a.sidebox-buy-link { color:#cc0000 !important; }
     <div class="sidebox-content-hot-deals">
     
       <div class="sidebox-hot-deal">
-        <strong>Flip UltraHD Pocket Digital Camcorder</strong>
-        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=5531983&amp;sku=P229-1058&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_4441_P229-1058"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_P229-1058.jpg" alt="Flip UltraHD Pocket Digital Camcorder" width="140" height="100" border="0"></a>
-        <p class="circuit_Detail">120 Minute Video Capture, 8GB HDD, 2.0-inch LCD, Black, Refurbished</p>
-        <span class="price"><strong>$89.96</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=5531983&amp;sku=P229-1058&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_4441_P229-1058">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=5531983&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_4441_P229-1058">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
+        <strong>Canon VIXIA Dual Flash Memory HD Camcorder </strong>
+        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=7337563&amp;sku=C925-1513&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_4451_C925-1513"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_C925-1513.jpg" alt="Canon VIXIA Dual Flash Memory HD Camcorder " width="140" height="100" border="0"></a>
+        <p class="circuit_Detail">2.39 MegaPixels, 20X Optical Zoom, 2.7-inch LCD, 32GB, Refurbished</p>
+        <span class="price"><strong>$229.99</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=7337563&amp;sku=C925-1513&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_4451_C925-1513">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=7337563&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2001-_-CatID_4451_C925-1513">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
       </div>
       
       <div class="sidebox-hot-deal">
-        <strong>Verbatim 50-Pack 16X DVD-R Spindle</strong>
-        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=7335385&amp;sku=V34-2910&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_2_V34-2910"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_V34-2910.jpg" alt="Verbatim 50-Pack 16X DVD-R Spindle" width="140" height="100" border="0"></a>
-        <p class="circuit_Detail">Ideal for recording up to 2 hours of DVD quality home movies and video clips</p>
-        <span class="price"><strong>$9.99</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=7335385&amp;sku=V34-2910&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_2_V34-2910">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=7335385&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_2_V34-2910">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
+        <strong>VuePoint F58 Large Tilt Wall Mount</strong>
+        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=4496407&amp;sku=S123-2014&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_717_S123-2014"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_S123-2014.jpg" alt="VuePoint F58 Large Tilt Wall Mount" width="140" height="100" border="0"></a>
+        <p class="circuit_Detail">Tilt Mount for 32-55-inch TVs</p>
+        <span class="price"><strong>$99.99</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=4496407&amp;sku=S123-2014&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_717_S123-2014">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=4496407&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2002-_-CatID_717_S123-2014">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
       </div>
       
       <div class="sidebox-hot-deal last-hot-deal">
-        <strong>Samsung 1080p Blu-ray Player</strong>
-        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=6307010&amp;sku=S223-1306&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_54670_S223-1306"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_S223-1306.jpg" alt="Samsung 1080p Blu-ray Player" width="140" height="100" border="0"></a>
-        <p class="circuit_Detail">1080p, 1920x1080, Internet@TV, BD-Live, Wireless LAN-ready, 2x USB, HDMI, (Refurbished)</p>
-        <span class="price"><strong>$89.99</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=6307010&amp;sku=S223-1306&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_54670_S223-1306">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=6307010&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_54670_S223-1306">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
+        <strong>Samsung 3D Blu-ray Disc Player </strong>
+        <a href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=7287944&amp;sku=S252-1632&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_4670_S252-1632"> <img src="http://images.highspeedbackbone.net/homepage/homepageCC/rightNav/rightNav_S252-1632.jpg" alt="Samsung 3D Blu-ray Disc Player " width="140" height="100" border="0"></a>
+        <p class="circuit_Detail">1080p, 2D to 3D Upconversion, HDMI, Smart TV, Wi-Fi, USB </p>
+        <span class="price"><strong>$129.99</strong></span> <a class="info" href="http://www.circuitcity.com/applications/SearchTools/item-details.asp?EdpNo=7287944&amp;sku=S252-1632&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_4670_S252-1632">INFO</a> | <a class="info sidebox-buy-link" href="http://www.circuitcity.com/cgi-bin/order.asp?EdpNo=7287944&amp;qty=1&amp;cm_sp=Right%20Nav-_-Spot%2003-_-CatID_4670_S252-1632">BUY <img src="http://images.highspeedbackbone.net/frontproducts/greybubblearrow.gif" align="absmiddle" border="0" height="13" hspace="1" width="12"></a>
       </div>
       
 		
@@ -2065,7 +1990,7 @@ a.sidebox-buy-link { color:#cc0000 !important; }
                 </td>
             </tr>
         </tbody></table>
-        
+
     <img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" width="10" height="3"><br>
     
     <img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" height="2" width="1"><br>
@@ -2077,24 +2002,19 @@ a.sidebox-buy-link { color:#cc0000 !important; }
     <img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" height="2" width="1"><br>
     <center>
     
-        <img src="http://images.highspeedbackbone.net/misc/pixel-clr.gif" height="2" width="1"><br>
-        <center>
-        
-        </center>
-    
     <center>
         <img src="http://images.highspeedbackbone.net/rightnav/h_advert.gif" width="70" height="5" style="margin-bottom: 1px;
             margin-top: 20px;"><br>
     </center>
     <!-- begin ad tag-->
-    <iframe src="http://ad.doubleclick.net/adi/CircuitCity/ROS_160x600;sz=160x600;ord=1884467601776?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-        <script language="JavaScript" src="http://ad.doubleclick.net/adj/CircuitCity/ROS_160x600;sz=160x600;abr=!ie;ord=1884467601776?"
+    <iframe src="http://ad.doubleclick.net/adi/CircuitCity/ROS_160x600;sz=160x600;ord=3207862377166?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+    <script language="JavaScript" src="http://ad.doubleclick.net/adj/CircuitCity/ROS_160x600;sz=160x600;abr=!ie;ord=3207862377166?"
             type="text/javascript"></script>
     </iframe>
     <noscript>
-        <a href="http://ad.doubleclick.net/jump/CircuitCity/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=1884467601776?"
+        <a href="http://ad.doubleclick.net/jump/CircuitCity/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=3207862377166?"
             target="_blank">
-            <img src="http://ad.doubleclick.net/ad/CircuitCity/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=1884467601776?"
+            <img src="http://ad.doubleclick.net/ad/CircuitCity/ROS_160x600;sz=160x600;abr=!ie4;abr=!ie5;abr=!ie6;ord=3207862377166?"
                 width="160" height="600" border="0" alt=""></a></noscript>
     <!-- End ad tag -->
 
@@ -2117,7 +2037,7 @@ a.sidebox-buy-link { color:#cc0000 !important; }
 
 <!--
 .circuit_FooterContainer {
-	height: 199px;
+	height: 230px;
 	width: 933px;
 	#width: 933px;
 	background-color: #E3E3E3;
@@ -2140,13 +2060,15 @@ width: 933px;
 	float: left;
 	width: 933px;
 	position: relative;
+	height:210px;
 }
 .circuit_FootCategories {
-	height: 125px;
 	width: 520px;
 	position: relative;
 	margin-left: 11px;
 	font-family: arial;
+	height:183px;
+	float:left;
 }
 #circuitPriorityCode {
 	font-weight: bold;
@@ -2155,10 +2077,10 @@ width: 933px;
 	margin-left: 21px;
 	font-family: Arial, Helvetica, sans-serif;
 	margin-bottom: 1px;
-	position: relative;
-	width: 100%;
+	position: absolute;
 	height: 21px;
-	margin-top: 32px;
+	top:190px;
+	left:0px;
 }
 .circuit_FootCategoryTitle {
 	font-size: 9pt;
@@ -2233,7 +2155,7 @@ width: 933px;
 	top:10px;
 }
 #circuit_ShopCategory, #foot_serv,  #circuit_InfoCategory, #circuit_DealsCategory {width:20%; text-align:left;}
-#circuit_ShopCategory a, #foot_serv a, #circuit_InfoCategory a, #circuit_DealsCategory a {white-space:nowrap; line-height:12pt; display:block;}
+#circuit_ShopCategory a, #foot_serv a, #circuit_InfoCategory a, #circuit_DealsCategory a {line-height:12pt; display:block;}
 
 a.circuitFooter:link   {color:#336699; text-decoration:underline;}
 a.circuitFooter:visited{color:#336699; text-decoration:underline;}
@@ -2265,10 +2187,25 @@ float:left;
 #bAd728{
 	width:728px; text-align:center; float:left;
 }
+.dealAlertsfooter{
+	background-image: url(http://images.highspeedbackbone.net/footer-circuit/dealsalertsFooter.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 171px;
+	width: 215px;
+	font-size: 12px;
+	position: absolute;
+	left: 55%;
+	top: 5px;
+	padding-top: 8px;
+	padding-left: 20px;
+}
+
+.dealAlertsfooter p{text-align:left;}
 -->
 </style>
 
-<div id="bannerAdWrapper">
+<div id="bannerAdWrapper" class="circuitFooterBanner">
 		
 	<br clear="all">        
     <div style="width:5px; height:70px; float:left; margin:10px 0 0 25px;"> <img src="http://images.highspeedbackbone.net/masthead/v_advert.gif"> </div>
@@ -2304,8 +2241,8 @@ float:left;
 <div id="circuit_ShopCategory"> 
     <div class="circuit_FootCategoryTitle">Shopping</div>
     <a href="/cgi-bin/ShoppingCart.asp" class="circuitFooter" rel="nofollow">View Cart</a> <a href="/secure/orderlogin.asp?PG=1" class="circuitFooter" rel="nofollow">My 
-    Account</a> <a href="/cgisec/orderTrack.asp" class="circuitFooter" rel="nofollow">Order Status</a><a href="/rss/index.asp" class="circuitFooter">RSS Feeds</a><a href="/sectors/campaigns/shopbybrand/" class="circuitFooter">Shop By Brand</a><a href="http://circuitcity.cexchange.com" class="circuitFooter" target="_blank">Trade-in Program</a><a href="http://circuitcity.brtpartstore.com" class="circuitFooter" target="_blank">Hard to Find Parts</a></div>      
-
+    Account</a> <a href="/cgisec/orderTrack.asp" class="circuitFooter" rel="nofollow">Order Status</a><a href="https://circuitcity.mypreferredaccount.com/index.xhtml" target="_blank" class="circuitFooter">CircuitCity.com Preferred Account</a><a href="/rss/index.asp" class="circuitFooter">RSS Feeds</a><a href="/sectors/campaigns/shopbybrand/" class="circuitFooter">Shop By Brand</a><a href="http://circuitcity.cexchange.com" class="circuitFooter" target="_blank">Trade-in Program</a><a href="http://circuitcity.brtpartstore.com" class="circuitFooter" target="_blank">Hard to Find Parts</a></div>      
+	<br clear="all">
 <!--     
    <div id="circuit_DealsCategory"> 
     <div class="circuit_FootCategoryTitle">Deals</div>
@@ -2326,13 +2263,30 @@ float:left;
     and Conditions</a><a href="/sectors/Affiliate/index.asp" class="circuitFooter">Affiliates</a>
     <a href="/applications/reviews/sitereviews/main.asp" class="circuitFooter">Testimonials</a>
     </div>
+    <div class="dealAlertsfooter">
+                                	<form name="subscribe" id="subscribe" method="post" action="http://www.circuitcity.com/applications/email/d_subscribe.asp" onsubmit="return emailChk(this.email.value)">
+      <br>
+<br>
+<br>
+
+                                    <p>Receive the latest <br> news and deals.</p>
+                                    <p>
+                                      <input name="email" type="text" onfocus="if(this.value=='Enter email address')this.value='';" onblur="if(this.value=='')this.value='Enter email address';" value="Enter email address">
+                                    </p>
+                                    <input type="hidden" name="listcode" value="MH"><input type="hidden" name="LyrisType" value="SUBSCRIBE"><input type="hidden" name="Additional_" value="footer">
+                                    <p><input name="signUp" type="image" value="submit" src="http://images.highspeedbackbone.net/homepage/circuithome/dropdownemailbutton.gif" alt="Signup" title="Signup"></p>                                                                       
+                                	</form>
+                                </div>
+
 </div>  
 
-  <div id="circuitPriorityCode">Priority Code: <span id="priorityBox">CCEM620TT</span>  </div>
+  <div id="circuitPriorityCode">Priority Code: <span id="priorityBox">CCITYWEB</span>  </div>
   <div class="circuit_BottomLinks">
+  
   <a href="http://www.twitter.com/circuitcity" target="_blank"><img src="http://images.highspeedbackbone.net/footer-circuit/circuit_Twitter3.gif" alt="Add to Twitter" width="189" height="46" border="0" class="circuit_Links"></a><a href="http://www.facebook.com/CircuitCity" target="_blank"><img src="http://images.highspeedbackbone.net/footer-circuit/circuit_Facebook2.gif" alt="Add to Facebook" width="189" height="46" border="0" class="circuit_Links"></a><br>
 
     <a href="/rss/index.asp" target="_blank"><img src="http://images.highspeedbackbone.net/footer-circuit/circuit_RSS.gif" alt="RSS Feeds" width="189" height="46" border="0" class="circuit_Links"></a><a href="/applications/campaigns/campaigntemplate.asp?CampaignID=738" rel="”nofollow”"><img src="http://images.highspeedbackbone.net/footer-circuit/circuit_DealAlert.gif" alt="Deal Alerts!" width="189" height="46" border="0" class="circuit_Links"></a></div>
+ <br clear="all">
   </div>
 	<div style="float:left; width:10px;"><img src="http://images.highspeedbackbone.net/footer-circuit/BotLeft.gif"></div>
 	<div style="float:right; width:10px;"><img src="http://images.highspeedbackbone.net/footer-circuit/BotRight.gif"></div>    
@@ -2412,25 +2366,18 @@ cmCreatePageviewTag('Legal : Privacy Rights','LEGAL',null,null);
 cmSendTagSet();
 -->
 </script>
-<!--Cart(PHRoutine)     :10-->
-<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Product-->
+<!--Cart(rNavEdpDesc)   :^D>>Fantom GD2000Q GreenDrive Quad Interface HD>>EdpNo=6247444^D>>Fantom Drive Quad 1TB Drive>>EdpNo=4695366^D>>Ultra Neck Strap/Lanyard f-->
 <!--Cart(rNavLastVisit) :-->
-<!--Cart(rNavCatId)     :^C>>Laptops & Notebooks>>guidedsearch.asp?CatId=17^C>>MP3 Players>>category_tlc.asp?CatId=15-->
-<!--Cart(rNavEdpDesc)   :^D>>Logitech - V220 - Cordless Optical Mouse>>EdpNo=3198091^D>>Garmin Nuvi 265WT 4.3" GPS, TTS/BT - Refurbished>>EdpNo=4942688^D>>Fantom 2TB GreenDrive External Hard Drive>>EdpNo=5384379-->
-<!--visited             :tempyes-->
-<!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150C.jpg-->
-<!--DB(Sidenav)         :B-->
-<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150C.jpg-->
-<!--DB(ItemDetailsBeta) :Y-->
+<!--Cart(rNavCatId)     :^D>>Desktop Computers>>category_tlc.asp?CatId=6^D>>Monitors>>category_tlc.asp?CatId=12^D>>Laptops &amp; Notebooks>>category_tlc.asp?CatId=17-->
+<!--Cart(rNavSearch)    :^D>>Top Product: >>^D>>Top Product: >>^D>>Top Product: >>-->
+<!--DB(msRandX)         :100-->
 <!--DB(msProduct)       :1782427-->
-<!--DB(PageSize)        :10-->
-<!--DB(gq)              :-->
-<!--DB(msRandX)         :84-->
-<!--DB(GuidSort)        :-->
-<!--SRVR                :WEBX54--->
-<!--beta                :Y-->
-<!--SessionId           :2504340820110615232502204236226210-->
-<!--SRCCODE             :CCEM620TT-->
+<!--DB(msImageID)       :/microsoft/MSelasticity-bnr_430x150C.jpg-->
+<!--DB(Sidenav)         :A-->
+<!--DB(msImageSC)       :/microsoft/MSelasticity-bnr_620x150C.jpg-->
+<!--SRVR                :WEBX52--->
+<!--SessionId           :3320775420111203105504204236226210-->
+<!--SRCCODE             :CCITYWEB-->
 
 
 
