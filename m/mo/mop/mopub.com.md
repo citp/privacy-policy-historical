@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mopub.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312094338id_/http%3A//www.mopub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mopub.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203214845id_/http%3A//www.mopub.com/legal/privacy) for the most accurate reproduction.*
 
-# MoPub
+# Privacy | MoPub
 
 ### COLLECTION AND USE OF PERSONAL INFORMATION
 
