@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the e2rm.com privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407025341id_/http%3A//www.e2rm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e2rm.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203113943id_/http%3A//www.artez.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Artez Interactive
+# Privacy Policy - Artez Interactive
 
-_Last updated November 25th, 2009_
+## Artez Interactive Privacy Policy
+
+ _Last updated November 25th, 2009_
 
 ### General Privacy Statement
 
@@ -18,7 +20,8 @@ Personal information is defined as any information that can be used to distingui
 
 #### III. Privacy Practices
 
-ARTEZ INTERACTIVE adheres to the following privacy practices:   
+ARTEZ INTERACTIVE adheres to the following privacy practices:
+
 • Personal information gathered by ARTEZ INTERACTIVE is held in the strictest confidence and is protected by industry standard best practices.  
 • ARTEZ INTERACTIVE collects information for expressly identified purposes.  
 • Safeguards are in place to ensure that the information is disclosed only on a need to know basis and only for the purpose for which it was gathered.  
@@ -28,13 +31,12 @@ ARTEZ INTERACTIVE adheres to the following privacy practices:
 o at the time they register, or access a product or service as appropriate  
 o on the website in the form of an online privacy statement
 
-#### IV. ARTEZ INTERACTIVE Application Websites
+#### IV. ARTEZ INTERACTIVE Application Websites **  
+1\. Anonymous Non-Personal Information**
 
- **1\. Anonymous Non-Personal Information**  
 When our clients' donors, volunteers, and other constituents access the secure section of our website, anonymous, non personal information about their visit is automatically collected. Such information may include the length and date of the visit, how the visitor navigated the Website, what pages the visitor viewed, the type of browser being used by the visitor, the type of operating system used by the visitor and the domain name of the visitor's Internet service provider. This information is used, in aggregate form, to provide statistical measures about usage of our site. This allows us to continually improve the functionality, content and design of websites we empower. This Anonymous Non-Personal Information may be shared with other parties, such as sponsors and partners.
 
- **2\. Cookie-based Information**
-
+ **2\. Cookie-based Information**  
 When our clients' donors, volunteers, and other constituents access the secure section of our website, a small text file called a "cookie" is sent from our web server to their web browser and is stored on their computer. Cookies allow us to recognize you while you are logged into the ARTEZ INTERACTIVE website and expire when you close your browser window. The ARTEZ INTERACTIVE websites contains links to other websites owned and operated by external parties. ARTEZ INTERACTIVE is not responsible for the content or privacy practices of such sites.
 
 #### V. Ten Basic Privacy Principles
@@ -60,7 +62,7 @@ When a client contracts with ARTEZ INTERACTIVE to develop an online application 
 and for sharing with clients and partners. These reports will not contain any information that could identify you personally.
 
  **3\. Consent**  
-a. ARTEZ INTERACTIVE collects personal information by fair and lawful means and obtains the individual's consent for the collection, use or disclosure of his or her personal information as required by PIPEDA or by other applicable law.   
+a. ARTEZ INTERACTIVE collects personal information by fair and lawful means and obtains the individual's consent for the collection, use or disclosure of his or her personal information as required by PIPEDA or by other applicable law.  
 b. The consent may be expressed, implied or given through an authorized representative.  
 By visiting and using this website, the visitor agrees to the Privacy Policy and the terms of use linked to this Privacy Policy. If you do not agree to the Privacy Policy do not use this Website or provide Personal Information to ARTEZ INTERACTIVE.  
 c. A user may withdraw consent to use his or her personal information at any time, subject to any legal or contractual restrictions upon giving ARTEZ INTERACTIVE reasonable notice. ARTEZ INTERACTIVE will inform individuals of the implications, if any, of withdrawing consent and how to do so.
@@ -73,7 +75,7 @@ a. ARTEZ INTERACTIVE does not use or disclose personal information for purposes 
 b. ARTEZ INTERACTIVE retains personal information only as long as is necessary for the fulfillment of those purposes or as required by law.  
 c. ARTEZ INTERACTIVE does not disclose credit card account information provided by users except to the appropriate banking institutions and/or clearinghouses in order to obtain debit authorization and payment. The Client may request personal account information. In that event, ARTEZ INTERACTIVE will only transmit or relinquish this data to any organization (including  
 the Client itself) that is also accredited by the Payment Card Industry at Level 1 certification.  
-d. ARTEZ INTERACTIVE reserves the right to change this Privacy Policy at any time. We also reserve the right at any time to disclose any information in an individual's registration and / or donation:   
+d. ARTEZ INTERACTIVE reserves the right to change this Privacy Policy at any time. We also reserve the right at any time to disclose any information in an individual's registration and / or donation:  
 i. to satisfy any law, regulation or government request;  
 ii. if such disclosure is necessary or appropriate to site operation; or  
 iii. To protect the rights or property of ARTEZ INTERACTIVE and its users,providers, licensors or merchants.
