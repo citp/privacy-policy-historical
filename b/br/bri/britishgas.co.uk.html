@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the britishgas.co.uk privacy policy that was archived on 2010-07-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100704163517id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the britishgas.co.uk privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203155422id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 	<title>Privacy Policy - British Gas </title>
@@ -11,33 +11,33 @@
 	<meta name="robots" content="all,index,follow">
 	<meta name="distribution" content="global">
 	<meta name="rating" content="general">
-	
-	
-	
+
+
+
 	<link href="" title="" rev="">
-	
+
 	<link href="/style/content-screen.css" media="screen" type="text/css" rel="stylesheet">
 	<link href="/style/print/content-print.css" media="print" type="text/css" rel="stylesheet">
 	<link href="/style/marketing-content.css" type="text/css" rel="stylesheet">
-	
+
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/vnd.microsoft.icon">
-	
+
 	<!--[if gte IE 7]><link href="/style/ie7.css" media="all" type="text/css" rel="stylesheet" /><![endif]-->
 	<!--[if lte IE 6]><link href="/style/ie6.css" media="all" type="text/css" rel="stylesheet" /><![endif]-->
 	<!--[if IE 5]><link href="/style/ie5.css" media="all" type="text/css" rel="stylesheet" /><![endif]-->
 	<!--[if lte IE 6]><link rel="stylesheet" href="/style/form_styles/ie.css" type="text/css" media="screen" /><![endif]-->
 	<!-- marketing landing specific styles -->
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
 	<!-- External style sheet area -->
-	
-	
-	
-	
+
+
+
+
 </head>
 
 
@@ -49,8 +49,7 @@
 
 
 
-<span>
-</span>
+
 <!--div id="whole"-->
 <div id="outer">
 	<div id="inner">
@@ -62,6 +61,7 @@
 
 
 
+<script src="/script/checkXSS.js" type="text/javascript"></script>
 
 	
 		<!-- START HEADER -->
@@ -69,16 +69,50 @@
 
 			<!--Fragment Name :logo.html-->
 
+<script type="text/javascript" src="/script/jquery-search.js"></script>
 
-			<!-- START LOGO AREA -->
-			<div class="logo">
-			<a class="flame" href="/" title="British Gas">British Gas</a>
-			<ul>
-			<li class="at-home" id="at-home-off"><a href="/">At home</a></li>
-			<li class="for-business" id="at-business-off"><a href="/business">For business</a></li>
-			</ul>
-			</div>
-			<!-- END LOGO AREA -->
+<script type="text/javascript" src="/script/jquery-autocomplete.js"></script>
+
+<script type="text/javascript" src="/script/jquery-csv.js"></script>
+
+<script type="text/javascript">
+
+(function($) {
+
+$(document).ready(function(){
+
+$.get("/pdf/csv/predictive_search.csv", function(data) {
+
+var arrayData = jq.csv(",","'\"","\n")(data);
+
+$("#site-search-input").autocomplete(arrayData);
+
+});
+
+});
+
+})(jq);
+
+</script>
+
+<!-- START LOGO AREA -->
+
+<div class="logo">
+
+<a class="flame" href="/" title="British Gas">British Gas</a>
+
+<ul>
+
+<li class="at-home" id="at-home-off"><a href="/">At home</a></li>
+
+<li class="for-business" id="at-business-off"><a href="/business">For business</a></li>
+
+</ul>
+
+</div>
+
+<!-- END LOGO AREA -->
+
   
 
 			<!-- START SEARCH AREA -->
@@ -120,10 +154,10 @@
 
 			<!-- START MASTER SEARCH FORM -->
 			<div class="search-form">
-	<form method="post" action="/Site-Search/" id="site-search-form">
+	<form method="post" action="/Site-Search/" id="site-search-form" name="site-search-form">
 				<ul>
 				<li class="field"><label><input type="text" name="site_search" id="site-search-input" value="Search" onclick="if (this.value=='Search'){this.value='';} " onfocus="if (this.value=='Search'){this.value='';this.style.color='black';};return false;" onblur="if (this.value==''){this.value='Search';this.style.color='#999999';return false;}"></label></li>
-				<li class="button"><label><input type="image" src="/images/rose/bu_search.png" alt="Search" id="site-search-submit"></label></li>
+				<li class="button"><label><input type="image" src="/images/rose/bu_search.png" alt="Search" id="site-search-submit" onclick="return checkValidSearch(this.form.elements[&quot;site_search&quot;].value);"></label></li>
 				</ul>
 	</form>
 	<!-- RFC 692 End -->
@@ -147,135 +181,135 @@
 		
 
 <!-- HPOV 2695079 End -->
- 
 
-				
-				
-			
-			
+
+
+
+
+
 
 			<!-- START Primary navigation module -->
 			<div class="primary-navigation">
 			<ul>
 			<li class="home"><a href="/" rel="nofollow">Home</a></li>
-				
-				
+
+
 				<li class="products-services"><a href="/products-and-services.html">Products &amp; Services</a></li>
-				
-				
-				
-				
+
+
+
+
 				<li class="account"><a rel="nofollow" href="/Your_Account/Account_Details/?loginarea=youraccountbutton">Your Account</a></li>
-				
-				
-				
-				
-				<li class="help-advice"><a href="/ManageQueries/HelpAndAdvice/">Help &amp; Advice</a></li>
-				
-				
-				
+
+
+
+
+				<li class="help-advice"><a href="/HelpAndAdvice/LookUp/">Help &amp; Advice</a></li>
+
+
+
 				<li class="energy-efficiency"><a href="/energy-efficiency.html">Energy Efficiency</a></li>
-				
-				
-				
+
+
+
 				<li class="about-us"><a href="/about-british-gas.html">About Us</a></li>
-				
+
 			</ul>
 			</div>
-			
+
 			<!-- End Primary navigation module	-->
-				
-				
-				
-				
+
+
+
+
   		</div>
 		<!-- [/HM] End Header module -->
 		<!-- [CM] Central module -->
 
 		<div id="central-wrapper">
-		
+
 		<div id="breadcrumbs">
 			<ul>
 				<li>You are here:</li>
-				
-				
-					
+
+
+
 					<li><a href="/">British Gas Home</a> &gt;</li>
-				
 
-			
-				
-				
+
+
+
+
 				<li>Privacy Policy</li>
-				
 
-			
-			
+
+
+
 			</ul>
-			
+
 		</div>
-		
+
 		<div id="primary-wrapper">
-		
-		
+
+
 			<div id="sidebar">
 
 				<p class="back-to-home"><a href="/">Back to Home</a></p>
 				<div id="sidebar-navigation-list">
 				<ul>
-				
-				
-				
+
+
+
 				<li><a href="/products-and-services.html">Products &amp; Services
 				</a></li>
-				
-				
-				
+
+
+
 				<li><a href="/Your_Account/Account_Details/?loginarea=youraccountbutton">Your Account
 				</a></li>
-				
-				
-				
-				<li><a href="/ManageQueries/HelpAndAdvice/">Help &amp; Advice
+
+
+
+				<li><a href="/HelpAndAdvice/LookUp/">Help &amp; Advice
 				</a></li>
-				
-				
-				
+
+
+
 				<li><a href="/energy-efficiency.html">Energy Efficiency
 				</a></li>
-				
-				
-				
+
+
+
 				<li><a href="/about-british-gas.html">About Us
 				</a></li>
-				
-				
+
+
 				</ul>
-				
-				
+
+
 				</div><!-- end sidebar-navigation-list -->
 
 				<div class="sidebar-gradient">
-				
+
 
 				</div>
 
 			</div>
 	<!-- END sidebar -->
-		
+
 
 
 				<div id="primary-content">
-					
+
 					<h1>BRITISH GAS WEBSITE PRIVACY POLICY</h1>
-					
-					
+
+
 
 					<!--Added for Content without Right Column -->
-					
+
 					<!--Added for Content without Right Column -->
 
-					
+
 						<!-- main content -->
 
 						<div class="inner-content">
@@ -283,9 +317,9 @@
 
 
 
-							
-							 	
-							 									
+
+
+
 								<p>This policy applies to personal information we hold about individuals, sole traders and partnerships. It does not apply to information we hold about companies and other organisations.</p>
 
 <p>Britishgas.co.uk is brought to you by British Gas, which is owned by Centrica plc. Centrica plc and its subsidiary companies believe it is important to protect your privacy, and so we are committed to giving you a personalised service that meets your needs in a way that also protects that privacy</p>
@@ -400,7 +434,10 @@ Website: <a href="http://www.myequifax.co.uk/" target="_blank">www.myequifax.co.
 
 <p>If you do not want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.</p>
 
+<p><a href="/cookies-policy.html" title="Click here to read our policy on cookies">Click here to read our policy on cookies</a></p>
+
 <h3>6. Turning off cookies in different browsers</h3>
+
 <p>You can find information on <strong>disabling cookies at  <a href="http://www.allaboutcookies.org/" target="_blank">www.allaboutcookies.org</a></strong></p>
 
 <h3>7. Links</h3>
@@ -411,9 +448,10 @@ This website may contain links to other sites or recommended suppliers. Please r
 <p>If you would like any more information or you have any comments about our privacy policy, please either write to us at Data Protection Manager, Privacy Unit - Legal, Centrica plc, Lakeside West, 30 The Causeway, Staines, Middlesex, TW18 3BY, United Kingdom or email us at <a href="mailto:CentricaDataProtection@centrica.com">CentricaDataProtection@centrica.com</a>. </p>
 <p>We may amend this policy from time to time, in which case we will publish the amended version on our website, and you can ask us for a copy by writing to the above address or by e-mailing us at <a href="mailto:CentricaDataProtection@centrica.com">CentricaDataProtection@centrica.com</a>.</p>
 
+
 <a href="javascript:history.back()" target="_self"><img height="24" alt="Back Button Image" src="/images/forms/gen-form-back.gif" width="60" class="embedded-left" border="0"></a>
 
-								
+
 
 						 <!-- Middle Region Iterate End -->
 
@@ -421,16 +459,16 @@ This website may contain links to other sites or recommended suppliers. Please r
 
 
 
- 						
-						
-					
 
 
 
-						 </div> 
+
+
+
+						 </div>
 
 					<!--Added for Content without Right Column -->
-					
+
 
 				</div><!-- End of primary content-->
 
@@ -440,8 +478,10 @@ This website may contain links to other sites or recommended suppliers. Please r
 
 
 		<!-- [/CM] Central module -->
+
 		
-		
+
+
 
 
 
@@ -451,313 +491,29 @@ This website may contain links to other sites or recommended suppliers. Please r
   <div id="footer">
   			
 			
-			<!--Fragment Name :footercontentanonymous.html-->
-
-
-
-<div class="secondary-navigation">
-
-		<div class="products-services">
-
-			<h3>Products &amp; Services</h3>
-
-			<ul>
-
-
-
-
-
-
-
-			<li><a href="/products-and-services/energy.html">Gas and Electricity</a></li>
-
-
-
-
-
-			<li><a href="/products-and-services/boilers.html">Boilers</a></li>
-
-
-
-
-
-			<li><a href="/products-and-services/maintenance-and-repair.html">Maintenance &amp; Repair</a></li>
-
-
-
-			<li><a href="/products-and-services/energy-savers.htm">Energy Savers Store</a></li>
-
-
-
-			</ul>
-
-	</div>
-
-
-
-		<div class="account">
-
-
-
-			<h3>Your Account</h3>
-
-			<ul>
-
-				<li><a href="/Login/Login-Verify/" rel="nofollow">Login</a></li>
-
-				<li><a href="/Registration/Account-Details-Entry/Link/ID/Register/" rel="nofollow">Register</a></li>
-
-				<li><a href="/Make-A-Payment/Personnel-Details-Entry/" rel="nofollow">Make a Payment</a></li>
-
-				<li><a href="/submit-reading.html?WT.seg_3=i100195" rel="nofollow">Submit Meter Readings</a></li>
-
-				<li><a href="/HomeMove/Home-Move-Services/" rel="nofollow">Move Home</a></li>
-
-				<li><a href="/Login/Login-Verify/demo-landing.html" rel="nofollow">View an online account demo</a></li>
-
-			</ul>
-
-		</div>
-
-		<div class="help-advice">
-
-			<h3>Help &amp; Advice</h3>
-
-			<ul>
-
-
-
-
-
-
-
-			<li><a href="/HelpAndAdvice/ProblemContactUs/?problemID=283" rel="nofollow">Energy Bill Queries</a></li>
-
-
-
-
-
-			<li><a href="/HelpAndAdvice/ProblemContactUs/?problemID=284" rel="nofollow">Pay As You Go</a></li>
-
-
-
-
-
-			<li><a href="/HelpAndAdvice/ProblemContactUs/?problemID=285" rel="nofollow">Boiler Repair and Maintenance</a></li>
-
-
-
-
-
-			<li><a href="/energysmart-help.html" rel="nofollow">EnergySmart</a></li>
-
-
-
-			<li><a href="/emergency-numbers.html" rel="nofollow">In an Emergency</a></li>
-
-			<li><a href="/HelpAndAdvice/ProblemContactUs/?problemID=274" rel="nofollow">Online Account</a></li>
-
-			<li><a href="/Help_Advice/ContactUs/" rel="nofollow">Contact us</a></li>
-
-
-
-
-
-			</ul>
-
-		</div>
-
-		<div class="energy-efficiency">
-
-			<h3>Energy Efficiency</h3>
-
-			<ul>
-
-				 <li><a href="/energy-efficiency/renewable-energy.html">Renewable Energy</a></li>
-
-
-
-				 <li><a href="/energy-efficiency/energy-savers-report.html">Energy Savers Report</a></li>
-
-
-
-				 <li><a href="/energy-efficiency/top-energy-saving-tips.html">Top Energy Saving Tips</a></li>
-
-
-
-			 	<li><a href="/energy-efficiency/products/home-insulation.html">Home Insulation</a></li>
-
-
-
-			 	<li><a href="/energy-efficiency/products.html">Energy Savers Store</a></li>
-
-
-
-			 	<li><a href="/energy-efficiency/products/energy-innovation/green-streets.html">Green Streets</a></li>
-
-
-</ul>
-		</div>
-
-
-
-		<div class="about">
-
-			<h3>About Us</h3>
-
-			<ul>
-
-
-
-
-
-<li><a href="/about-british-gas/british-swimming.html" rel="nofollow">British Gas Sponsors British Swimming</a></li>
-
-			<li><a href="/about-british-gas/our-business.html" rel="nofollow">Our Business</a></li>
-
-
-
-
-
-			<li><a href="/about-british-gas/what's-important-to-us.html" rel="nofollow">Corporate Responsibility</a></li>
-
-
-
-
-
-			<li><a href="/about-british-gas/careers.html" rel="nofollow">Careers with British Gas</a></li>
-
-
-
-
-
-			<li><a href="/about-british-gas/investor-relations.html" rel="nofollow">Investor Relations</a></li>
-
-
-
-
-
-			<li><a href="/about-british-gas/news.html" rel="nofollow">News &amp; Media Centre</a></li>
-
-
-
-
-
-			<li><a href="/about-british-gas/awards.html" rel="nofollow">Awards &amp; Achievements</a></li>
-
-
-
-
-
-			<li><a href="/about-british-gas/our-vision.html" rel="nofollow">Our Vision</a></li>
-
-
-
-
-
-			<li><a href="/about-british-gas/in-your-region.html" rel="nofollow">In Your Region</a></li>
-
-
-
-			</ul>
-
-		</div>
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-<div class="seo-bar">
-
-<h3>Your energy experts for:</h3>
-
-<ul>
-
-<li><a href="/products-and-services/energy.html">Energy</a></li>
-
-<li><a href="/products-and-services/energy/gas.html">Gas</a></li>
-
-<li><a href="/products-and-services/energy/electricity.html">Electricity</a></li>
-
-<li><a href="/products-and-services/energy/dual.html">Dual Fuel</a></li>
-
-<li><a href="/products-and-services/energy/dual.html">Power</a></li>
-
-<li><a href="/products-and-services/maintenance-and-repair/central-heating-repairs.html">Central Heating</a></li>
-
-<li><a href="/products-and-services/maintenance-and-repair/boilers-and-heating.html">Boiler &amp; heating</a></li>
-
-<li><a href="/products-and-services/maintenance-and-repair/plumbing-and-drains/plumbing-and-drains-care.html">Plumbing</a></li>
-
-<li><a href="/products-and-services/maintenance-and-repair/plumbing-and-drains.html">Drains</a></li>
-
-<li><a href="/products-and-services/maintenance-and-repair/boilers-and-heating/boiler-and-heating-cover/homecare.html">HomeCare®</a></li>
-
-<li><a href="/products-and-services/maintenance-and-repair/electrics.html">Electrics</a></li>
-
-<li><a href="/products-and-services/maintenance-and-repair/home-appliances.html">Home appliances</a></li>
-
-<li><a href="/products-and-services/boilers.html">Cheap Boilers</a></li>
-
-<li><a href="/products-and-services/maintenance-and-repair/why-british-gas/gas-safe-register.html">Gas Safe Register</a></li>
-
-<li style="border-right:1px solid #999999;"><a href="/products-and-services/maintenance-and-repair/home-electrics/home-electrical-care.html">Electrical Engineers</a></li>
-
-</ul>
-
-</div>
-
-
-
-
-
-
-
-<div class="footer">
-
-<ul>
-
-<li><a rel="nofollow" href="/terms-and-conditions.html">Terms &amp; Conditions</a></li>
-
-<li><a rel="nofollow" href="/privacy-policy.html">Privacy Policy</a></li>
-
-<li><a rel="nofollow" href="/accessibility.html">Accessibility</a></li>
-
-<li><a rel="nofollow" href="/welsh-speaking.html">Cymraeg</a></li>
-
-<li><a rel="nofollow" href="/affiliates.html">Affiliates</a></li>
-
-<li><a href="/sitemap.html">Sitemap</a></li>
-
-<li style="border-right:1px solid #999999;"><a rel="nofollow" href="http://www.centrica.com" id="CentricaFooterLink">Centrica</a></li>
-
-<li><a rel="nofollow" href="/legal-information.html">Legal Information</a></li>
-
-</ul>
-
-<div class="copyright">© British Gas 2010</div>
-
-</div>
+			<!--Fragment Name :footercontentanonymous.html--><div class="secondary-navigation">		<div class="products-services">			<h3>Products &amp; Services</h3>			<ul>			<li><a href="/products-and-services/energy.html">Gas and Electricity</a></li>			<li><a href="/products-and-services/boilers.html">Boilers</a></li>			<li><a href="/products-and-services/insurance-and-repair.html">Insurance &amp; Repair</a></li>			<li><a href="/products-and-services/energy-savers.html">Energy Savers Store</a></li><li><a href="/products-and-services/nectar.html">Nectar Points</a></li>			</ul>	</div>		<div class="account">			<h3>Your Account</h3>			<ul>				<li><a href="/Login/Login-Verify/" rel="nofollow">Login</a></li>				<li><a href="/Registration/Account-Details-Entry/Link/ID/Register/" rel="nofollow">Register</a></li>				<li><a href="/Make-A-Payment/Personnel-Details-Entry/" rel="nofollow">Make a Payment</a></li>				<li><a href="/submit-reading.html?WT.seg_3=i100195" rel="nofollow">Submit Meter Readings</a></li>				<li><a href="/HomeMove/Home-Move-Services/?WT.mc_id=i100429" rel="nofollow">Move Home</a></li>				<li><a href="/Login/Login-Verify/demo-landing.html" rel="nofollow">View an online account demo</a></li>				<li><a rel="nofollow" href="/products-and-services/energy/our-products/essentials-programme.html">Customers needing extra support</a></li>			</ul>		</div>		<div class="help-advice">			<h3>Help &amp; Advice</h3>			<ul>			<li><a href="/HelpAndAdvice/ProblemContactUs/?problemID=283" rel="nofollow">Energy Bill Queries</a></li>			<li><a href="/HelpAndAdvice/ProblemContactUs/?problemID=284" rel="nofollow">Pay As You Go</a></li>			<li><a href="/HelpAndAdvice/ProblemContactUs/?problemID=285" rel="nofollow">Boiler Repair and Maintenance</a></li>			<li><a href="/energysmart-help.html" rel="nofollow">EnergySmart</a></li>			<li><a href="/emergency-numbers.html" rel="nofollow">In an Emergency</a></li>			<li><a href="/HelpAndAdvice/ProblemContactUs/?problemID=274" rel="nofollow">Online Account</a></li>			<li><a href="/Help_Advice/ContactUs/" rel="nofollow">Contact us</a></li>			</ul>		</div>		<div class="energy-efficiency">			<h3>Energy Efficiency</h3>			<ul>				 <li><a href="/energy-efficiency/renewable-energy.html">Renewable Energy</a></li>				 <li><a href="/energy-efficiency/smart-meters.html">Smart Meters</a></li>				 <li><a href="/energy-efficiency/energy-savers-report.html">Energy Savers Report</a></li>				 <li><a href="/energy-efficiency/top-energy-saving-tips.html">Top Energy Saving Tips</a></li>			 	<li><a href="/energy-efficiency/products/home-insulation.html">Home Insulation</a></li>			 	<li><a href="/energy-efficiency/products.html">Energy Savers Store</a></li>			 	<li><a href="/energy-efficiency/products/energy-innovation/green-streets.html">Green Streets</a></li>				<li><a href="/energy-efficiency/1010.html">Supporting 10:10</a></li></ul>		</div>		<div class="about">			<h3>About Us</h3>			<ul><li><a href="/about-british-gas/british-swimming.html" rel="nofollow">British Gas Sponsors British Swimming</a></li>			<li><a href="/about-british-gas/our-business.html" rel="nofollow">Our Business</a></li>			<li><a href="/about-british-gas/what's-important-to-us.html" rel="nofollow">Corporate Responsibility</a></li>			<li><a href="/about-british-gas/careers.html" rel="nofollow">Careers with British Gas</a></li>			<li><a href="/about-british-gas/investor-relations.html" rel="nofollow">Investor Relations</a></li>			<li><a href="/about-british-gas/news.html" rel="nofollow">British Gas Customer Newsroom</a></li>			<li><a href="/about-british-gas/awards.html" rel="nofollow">Awards &amp; Achievements</a></li>			<li><a href="/about-british-gas/our-vision.html" rel="nofollow">Our Vision</a></li>			<li><a href="/about-british-gas/in-your-region.html" rel="nofollow">In Your Region</a></li>			</ul>		</div></div><div class="seo-bar"><h3>Your energy experts for:</h3><ul><li><a href="/products-and-services/energy.html">Energy</a></li><li><a href="/products-and-services/energy/gas.html">Gas</a></li><li><a href="/products-and-services/energy/electricity.html">Electricity</a></li><li><a href="/products-and-services/energy/dual.html">Dual Fuel</a></li><li><a href="/products-and-services/energy/dual.html">Power</a></li><li><a href="/products-and-services/insurance-and-repair/boilers-and-heating/central-heating-efficiency-improvements.html">Central Heating</a></li><li><a href="/products-and-services/insurance-and-repair/boilers-and-heating.html">Boiler &amp; heating</a></li><li><a href="/ViewQuoteDetails/coverPlumbingAndDrains/">Plumbing</a></li><li><a href="/products-and-services/insurance-and-repair/plumbing-and-drains.html">Drains</a></li><li><a href="/products-and-services/insurance-and-repair/homecare.html">HomeCare®</a></li><li><a href="/products-and-services/insurance-and-repair/home-electrics.html">Electrics</a></li><li><a href="/products-and-services/insurance-and-repair/home-appliances.html">Home appliances</a></li><li><a href="/products-and-services/boilers.html">Cheap Boilers</a></li><li><a href="/products-and-services/insurance-and-repair/why-british-gas/gas-safe-register.html">Gas Safe Register</a></li><li><a href="/ViewQuoteDetails/repairHomeElectrics/">Electricians</a></li><li><a href="/products-and-services/insurance-and-repair/boilers-and-heating/product-chooser.html">Boiler Cover</a></li><li style="border-right:1px solid #999999;"><a href="products-and-services/insurance-and-repair/boilers-and-heating/boilers-and-heating-repair.html">Boiler Breakdown</a></li></ul></div><div class="footer"><ul><li><a rel="nofollow" href="/terms-and-conditions.html">Terms &amp; Conditions</a></li><li><a rel="nofollow" href="/privacy-policy.html">Privacy Policy</a></li><li><a rel="nofollow" href="/accessibility.html">Accessibility</a></li><li><a rel="nofollow" href="/welsh-speaking.html">Cymraeg</a></li><li><a rel="nofollow" href="/affiliates.html">Affiliates</a></li><li><a href="/sitemap.html">Sitemap</a></li><li style="border-right:1px solid #999999;"><a rel="nofollow" href="http://www.centrica.com" id="CentricaFooterLink">Centrica</a></li><li><a rel="nofollow" href="/legal-information.html">Legal Information</a></li><li><a rel="nofollow" href="/cookies-policy.html">How we use cookies</a></li></ul><div class="copyright">© British Gas 2011</div></div>
 	
 			
 	
 	</div>
 		<!-- end footer-->
 
+		
+			
+	<script type="text/javascript" src="/script/feedback.js"></script>
+	  <link href="/style/feedback.css" media="screen" type="text/css" rel="stylesheet">
+
+	<div id="fixme-bottom">
+
+	<a href="javascript:websiteFeedbackPopup();"><img style="float:right" src="/images/home-overlay/feedback.gif"></a>
+
+	</div>
+
+
+
 
   </div><!-- end inner-->
 </div><!-- end outer-->
-<noscript> <img alt="" border="0" name="DCSIMG" width="1" height="1"
-src="http://webtrends1.britishgas.co.uk/dcsmr656mag8nkxiychwyxtff_7w2q/njs.gif?d
-csuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.0" /> </noscript>
 
 
 
