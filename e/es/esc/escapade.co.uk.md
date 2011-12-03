@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapade.co.uk privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513221434id_/http%3A//www.escapade.co.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapade.co.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203060209id_/http%3A//www.escapade.co.uk/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Escapade - Escapade Fancy Dress
 
@@ -6,9 +6,13 @@
 
 At Escapade we are committed to protecting your privacy and we comply with the data protection laws applicable to the UK. This Privacy Policy outlines how your personal information is treated and forms part of our Terms and Conditions. (We may occasionally modify our Privacy Policy; when this happens we will notify you via our terms and conditions page). 
 
+* * *
+
 ## What information do we collect?
 
 When you order we need to know your name, e-mail address, delivery/billing address. This allows us to process and fulfill your order and notify you of the order status. We also ask you for your telephone number(s) so that we can contact you easily if required. As an extra measure of secureity we do not collect/store any credit card information. 
+
+* * *
 
 ## How do we use your information?
 
@@ -16,9 +20,13 @@ Any personal data relating to you will be used and recorded by us in accordance 
 
 We do not sell, trade or rent your personal information to others unless you have consented to us making your name and address available to carefully vetted companies. 
 
+* * *
+
 ## In Addition
 
 We would also like to send you offers for goods or services from Escapade or others from time to time which we think you may find of interest. If you do not wish to receive this information, do not tick the opt-in box on our checkout page before submitting your order. 
+
+* * *
 
 ## Cookies
 
