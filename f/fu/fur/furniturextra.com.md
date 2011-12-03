@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniturextra.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303205359id_/http%3A//www.furniturextra.com/Privacy-Policy_ep_38-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniturextra.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203223206id_/http%3A//www.furniturextra.com/Privacy-Policy_ep_38-1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
