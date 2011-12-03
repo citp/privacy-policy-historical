@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604154853id_/http%3A//www.nonprofitquarterly.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1293%26Itemid%3D122) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonprofitquarterly.org privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203081629id_/http%3A//www.nonprofitquarterly.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1293%26Itemid%3D122) for the most accurate reproduction.*
 
 # The Nonprofit Quarterly | @npquarterly | Privacy Policy
-
-[](https://web.archive.org/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL3d3dy5ub25wcm9maXRxdWFydGVybHkub3JnL2luZGV4LnBocD9vcHRpb249Y29tX2NvbnRlbnQmdmlldz1hcnRpY2xlJmlkPTEyOTM6cHJpdmFjeS1wb2xpY3kmSXRlbWlkPTEyMg== "E-mail") [](https://web.archive.org/index.php?view=article&id=1293%3Aprivacy-policy&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=122 "Print")
 
 May 18, 2009  
 
@@ -27,7 +25,7 @@ From time to time, we will send you e-mail announcements on new features, produc
 
 We publish the [NPQ e-Newsletter](http://oldsite.nonprofitquarterly.org/section/70.html) on a monthly basis, and the [Nonprofit Newswire](http://www.nonprofitquarterly.org/index.php?option=com_content&view=category&layout=blog&id=155&Itemid=136) daily. The e-newsletter is distributed by email, although [back issues](https://web.archive.org/section/70.html) may also be viewed on our website. You may [subscribe to](https://web.archive.org/scripts/enews/sub) or [unsubscribe from](https://web.archive.org/scripts/enews/un) the email list at any time. Occasionally we may send announcements about NPQ events or products to the mailing list. We do not rent our email list, although we may occasionally send an announcement, event or product offering that we think may be of interest on behalf of a partner.
 
-**Social Media & Comments**
+**Social Media& Comments**
 
 NPQ uses social media such as website comments, and networks like Facebook and Twitter to engage readers in dialogue.  As mentioned above, NPQ makes use of data collected via these functions on our website.  On other networks, we abide by the terms and conditions of that website/service, and reserve the right to use those networks for marketing purposes.  Comments made on NonprofitQuarterly.org and NPQ's Facebook account are reviewed and published at our discretion, and through the use of these functions, you accept that NPQ is permitted to edit, moderate, and re-use comments for in-house promotional materials.  Promotions and advertising are not permitted in this medium, nor is derogatory or hateful speech.
 
