@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueskyfactory.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523175042id_/http%3A//www.blueskyfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueskyfactory.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203211800id_/http%3A//www.blueskyfactory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -8,7 +8,7 @@ We understand the importance of privacy in today’s world. Blue Sky Factory is 
 
 Blue Sky Factory abides by the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. For more information on how Blue Sky Factory implements our Safe Harbor Privacy Policy, please see our Safe Harbor Privacy Policy.
 
-We uphold the highest industry standards in online privacy and permission marketing. For more information on how Blue Sky Factory enforces [permission email marketing](http://www.blueskyfactory.com/quicktour/) with our clients, please see our Anti-spam Policy.
+We uphold the highest industry standards in online privacy and permission marketing. For more information on how Blue Sky Factory enforces permission [email marketing](http://www.whatcounts.com/) with our clients, please see our Anti-spam Policy.
 
 ### Table of Contents
 
@@ -114,7 +114,7 @@ Back to top
 
 ### Anti-Spam Policy
 
-Blue Sky Factory is an electronic mail service provider that provides web-based software enabling organizations of all sizes to send permission-based emails to their subscribers. Blue Sky Factory believes, practices, and requires our clients to practice only permission-based [email marketing](http://www.blueskyfactory.com/). Our clients certify that they will only use our software to send emails to customers and prospects that have directly consented to receive email from them (“opt-in”).
+Blue Sky Factory is an electronic mail service provider that provides web-based software enabling organizations of all sizes to send permission-based emails to their subscribers. Blue Sky Factory believes, practices, and requires our clients to practice only permission-based email marketing. Our clients certify that they will only use our software to send emails to customers and prospects that have directly consented to receive email from them (“opt-in”).
 
 Back to top
 
@@ -158,7 +158,7 @@ Back to top
 
 **Introduction**
 
-Blue Sky Factory, Inc. (the “Company”) is an industry-leading [email service provider](http://www.blueskyfactory.com/) based in Baltimore, MD. Founded in 2001, for the past 9 years we have been assisting our clients with a combination of both service and technology solutions that help them maximize the email marketing channel. Blue Sky Factory provides both full service and self service [email marketing solutions](http://www.blueskyfactory.com/quicktour/) to our global client base of over 600. Our leading web based platform. Protecting consumer privacy is important to the Company. The Company and its affiliated United States subsidiaries (hereinafter collectively referred to as the “Company,” “we,” “us” or “our”) adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles shall govern. This Privacy Policy outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it, and the notice and choice affected individuals have regarding our use of and their ability to correct that information. This Privacy Policy applies to all personal information received by the Company whether in electronic, paper, or verbal format.
+Blue Sky Factory, Inc. (the “Company”) is an industry-leading [email service provider](http://www.whatcounts.com/) based in Baltimore, MD. Founded in 2001, for the past 9 years we have been assisting our clients with a combination of both service and technology solutions that help them maximize the email marketing channel. Blue Sky Factory provides both full service and self service email marketing solutions to our global client base of over 600. Our leading web based platform. Protecting consumer privacy is important to the Company. The Company and its affiliated United States subsidiaries (hereinafter collectively referred to as the “Company,” “we,” “us” or “our”) adhere to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America. Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. If there is any conflict between the policies in this Privacy Policy and the Principles, the Principles shall govern. This Privacy Policy outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it, and the notice and choice affected individuals have regarding our use of and their ability to correct that information. This Privacy Policy applies to all personal information received by the Company whether in electronic, paper, or verbal format.
 
 Back to top
 
