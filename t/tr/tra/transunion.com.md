@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transunion.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606015244id_/http%3A//www.transunion.com/corporate/privacyPolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transunion.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203154222id_/http%3A//www.transunion.com/corporate/privacyPolicy.page) for the most accurate reproduction.*
 
 # Privacy Policy - TransUnion
 
