@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524151116id_/http%3A//www.mamma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203165112id_/http%3A//www.mamma.com/privacy.php) for the most accurate reproduction.*
 
 # mamma privacy
 
