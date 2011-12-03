@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106193659id_/http%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203200702id_/http%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
 
 # MLBTradeRumors.com Privacy Policy: MLB Rumors - MLBTradeRumors.com
 
@@ -10,7 +10,7 @@ Our postal address is
 **P.O. Box 72523  
 Roselle, IL 60172**
 
-We can be reached via e-mail [via the site's contact form](http://www.mlbtraderumors.com/contact.html).
+We can be reached via e-mail [via the site's contact form](http://www.mlbtraderumors.com/contact.html) or at mlbtrhelp@gmail.com, or via phone at 630-671-0158.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
