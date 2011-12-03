@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readthehook.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605044523id_/http%3A//www.readthehook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readthehook.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203083108id_/http%3A//www.readthehook.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Hook - Charlottesville's weekly newspaper, news magazine
 
@@ -8,7 +8,7 @@ The website contains many hyperlinks to advertisers and to other sites we believ
 
 We reserve the right to change this policy at any time without notice of any kind.
 
-The Hook uses outside service providers for some of our Web site services-- including, but not limited to-- electronic personal ads. We do not control their privacy policies.
+The Hook uses outside service providers for some of our Web site services– including, but not limited to– electronic personal ads. We do not control their privacy policies.
 
 While our site's statistical tracking software monitors IP addresses and referring URLs, along with other information about what you view on the site, we do not routinely collect individual information out of these logs. We use the general statistical information to help us understand how users view our site, and we reserve the right to collect and distribute IP addresses, email addresses, and other data whenever sock puppetry or other potential abuse is suspected.
 
