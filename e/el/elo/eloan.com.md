@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eloan.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313114904id_/http%3A//labs2.popular.com/fatwire/pdf/2011_ELOAN-BPNA_Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloan.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203111708id_/http%3A//labs2.popular.com/fatwire/pdf/2011_ELOAN-BPNA_Privacy.pdf) for the most accurate reproduction.*
 
 # FAC TS
 
