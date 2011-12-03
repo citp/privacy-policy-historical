@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersup.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605060240id_/http%3A//www.supersup.com/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersup.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203082707id_/http%3A//www.supersup.com/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy
 
