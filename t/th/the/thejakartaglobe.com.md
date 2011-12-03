@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejakartaglobe.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601173651id_/http%3A//www.thejakartaglobe.com/pages/content/%3Fprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejakartaglobe.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203011853id_/http%3A//www.thejakartaglobe.com/pages/content/%3Fprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Jakarta Globe
 
