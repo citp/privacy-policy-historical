@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605220811id_/http%3A//www.jokeroo.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203161147id_/http%3A//www.jokeroo.com/s/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jokeroo
 
@@ -29,6 +29,10 @@ We collect the domain name and e-mail address (where possible) of visitors to ou
  **Cookies**
 
 We use cookies to store visitors preferences, record session information. If you are interested in **opting-out** , please visit [networkadvertising.org](http://http//www.networkadvertising.org/managing/opt_out.asp)
+
+ **Third Party Cookies**
+
+Notwithstanding any other provision in this policy, in visiting this site or opening an email you have received from us, a third-party advertiser (or its partners) may place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or "hashed" (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <http://www.privacychoice.org/companies> or <http://www.aboutads.info/choices>.
 
  **Security**
 
