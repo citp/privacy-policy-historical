@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replaceyoursalary.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622122321id_/http%3A//www.replaceyoursalary.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replaceyoursalary.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203113000id_/http%3A//www.replaceyoursalary.com/privacy.htm) for the most accurate reproduction.*
 
 # ReplaceYourSalary.com - Privacy Statement
 
