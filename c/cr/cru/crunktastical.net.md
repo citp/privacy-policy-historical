@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crunktastical.net privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605071814id_/http%3A//www.crunktastical.net/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunktastical.net privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203210629id_/http%3A//www.crunktastical.net/privacy-policy-statement) for the most accurate reproduction.*
 
-# Crunk + Disorderly: Now Run Tell That, Homeboi! » Privacy Policy Statement
+# Crunk + Disorderly » Privacy Policy Statement
 
 **What information do we collect?**
 
