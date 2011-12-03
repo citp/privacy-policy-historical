@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tractionplatform.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221080138id_/http%3A//www.tractionplatform.com/Footer_right/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractionplatform.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203092134id_/http%3A//tractionplatform.com/Footer_right/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Traction – Privacy Policy
 
@@ -6,13 +6,13 @@
 
 This privacy policy has been created in order to disclose the information gathering and dissemination practices for this web site, [www.tractionplatform.com](http://www.tractionplatform.com/) ("Website"). Questions regarding this policy should be directed in the first instance to the Privacy Coordinator by writing to us at the following address:
 
-Traction  
-c/o MassMedia Studios Pty Ltd.  
-68-72 Wentworth Avenue  
-Surry Hills NSW 2021  
+Traction Digital Pty Ltd.  
+Level 1, Building 1   
+85 O'Riordan Street  
+Alexandria NSW 2015   
 Australia  
-Phone: +612 9211 4344  
-Fax: +612 9211 6566 
+Phone: +61 2 9469 5777  
+Fax: +61 2 9469 5778
 
 The Website is owned and operated by MassMedia Studios Pty Ltd. Information provided by you to the Website will be used soley for the purpose of communicating information regarding MassMedia's Traction and other MassMedia related products and services. 
 
@@ -62,4 +62,4 @@ If we decide to change our privacy policy, we will post those changes on the Web
 
 ### Additional Privacy Information
 
-If you are interested in obtaining additional information on privacy, you can visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au%20/).
+If you are interested in obtaining additional information on privacy, you can visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/).
