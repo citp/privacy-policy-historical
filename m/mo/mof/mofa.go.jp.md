@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofa.go.jp privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624023123id_/http%3A//www.mofa.go.jp/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofa.go.jp privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203012713id_/http%3A//www.mofa.go.jp/about/privacy.html) for the most accurate reproduction.*
 
 # MOFA: Privacy Policy
 
