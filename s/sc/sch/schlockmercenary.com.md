@@ -1,28 +1,53 @@
-> *The following text is extracted and transformed from the schlockmercenary.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305114511id_/http%3A//www.keenspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schlockmercenary.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203161939id_/http%3A//www.schlockmercenary.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Keenspot.com: Privacy Policy
+# Schlock Mercenary - Privacy Policy
 
-PRIVACY POLICY  
-Keenspot does not collect information from its visitors without their knowledge. Keenspot may request demographic and poll information from its visitors, but participation is completely optional. Whatever the case, the personal information you supply, if you choose to do so, will not be given out or sold under any circumstances.
+This policy covers both the comic site found at [schlockmercenary.com](http://www.schlockmercenary.com/) and the store found at [store.schlockmercenary.com](http://store.schlockmercenary.com/). If you haven't shopped with us, much of this material will not apply to you.
 
-Occasionally we will ask you for personal information, such as your name, email address, address, etc. when you sign up for various services such as 
+How do we protect visitor information?
 
-[Keenspot PREMIUM](https://premium/), or an account on our [Forums](http://forums.keenspot.com/) or when you buy items from our Store. This information is only used for your security to identify you and protect your account access and information. It is never shared or sold to any other company.Keenspot works with a number of third party companies that serve ads to our network of sites. To find out more about how these companies manage the privacy of information in conjunction with serving ads on this site, please go to:  
-[Burst Media's Privacy Policy](http://www.burstmedia.com/release/privacy.asp)  
-[L90's Privacy Policy](http://www.l90.com/corporate/privacy_policy/index.html)  
-[Doubleclick's Privacy Policy](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)  
-[Adtegrity's Privacy Policy](http://www.adtegrity.com/privacy.asp)
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
-We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our advertisers, and we do not have access to this information. These companies may use the information (which does not include your name, address, email, or telephone number) collected in these cookies to provide you advertisements for goods and services which most appropriately suit your interests. You may choose not to have your information shared through these cookies to third party advertisers through their various opt-out programs. For information on opting out of the Doubleclick program, go to their [Opt Out](http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&) webpage.
+Do we use "cookies"?
 
-This site contains links to other sites. 
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Keenspot is not responsible for the privacy practices or the content of such Web sites. Contacting the Web Site - If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [keenspot @keenspot.com](mailto:keenspot@keenspot.com "email us.")
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**3/19/2002 ADDENDUM:** In the interests of meeting Doubleclick's and/or MaxWorldWide's privacy policy policies more expediently, we have inserted the following required verbiage, which may be highly redundant with the information above: 
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly.
 
-**Third Party Advertising:** We use MaxWorldWide, DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [Here.](http://www.networkadvertising.org/optout_nonppii.asp)
+Do we disclose the information we collect to outside parties?
 
-**Third Party Cookies:** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include The Tayler Corporation. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-Keenspot.com welcomes your questions and comments about privacy. Please send e-mail to [privacy @keenspot.com](mailto:privacy@keenspot.com "email us.")
+Non-personally identifiable visitor information, like aggregated statistical data, may be provided to other parties for marketing, advertising, or other uses.
+
+How can you opt-out, remove or modify information you have provided to us?
+
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+
+Third party links
+
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+
+Changes to our policy
+
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on September 16, 2011.
+
+Questions and feedback
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+
+Online Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions
+
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20111203161939id_/http%3A//www.schlockmercenary.com/pages/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+Your consent
+
+By using our site, you consent to our privacy policy.
