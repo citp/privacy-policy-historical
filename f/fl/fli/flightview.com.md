@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightview.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514182445id_/http%3A//www.flightview.com/corporate/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightview.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203221252id_/http%3A//www.flightview.com/corporate/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # FlightView Inc. - Privacy Policy
 
@@ -24,7 +24,7 @@ This web site contains links to other sites. Users should be aware that such sit
 
 #### Third Party Advertising
 
-FlightView.com uses third-party advertising companies to serve ads when you visit portions of our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit Google (http://www.google.com/privacy.html), CitySearch (http://national.citysearch.com/templates/profile/policy.html?) or Travel Ad Network (http://www.traveladnetwork.com/content/view/56/79/).
+FlightView.com uses third-party advertising companies to serve ads when you visit portions of our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 #### Third Party Cookies
 
