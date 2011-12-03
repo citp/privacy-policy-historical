@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vastvision.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108153139id_/http%3A//www.vastvision.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vastvision.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203105913id_/http%3A//www.vastvision.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - VastVision Company
+# Privacy Policy | VastVision.com
 
-### PRIVACY POLICY 
+### PRIVACY POLICY
 
 This is the Privacy Policy governing your use of the VastVision Group INC. / **VastVision.com** (site) and the collection, use, transfer and processing of your Collected Information by VastVision.com and those affiliates which provide the relevant Premium Services (collectively referred to as "VastVision.com", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and VastVision.com which by use of this Site you agree to accept. 
 
