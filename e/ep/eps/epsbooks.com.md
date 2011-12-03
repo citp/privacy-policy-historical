@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epsbooks.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523134637id_/http%3A//eps.schoolspecialty.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epsbooks.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203085800id_/http%3A//eps.schoolspecialty.com/cs/privacy) for the most accurate reproduction.*
 
 # SS—LI » Customer Service » Policies: Privacy Policy
 
