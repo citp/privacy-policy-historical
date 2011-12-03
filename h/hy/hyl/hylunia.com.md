@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hylunia.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123103921id_/http%3A//www.hylunia.com/v2/apps/data/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hylunia.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203115733id_/http%3A//www.hylunia.com/v2/apps/data/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Hylunia Skin Care - Privacy Policy
 
