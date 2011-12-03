@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-legal-document.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231000520id_/http%3A//www.free-legal-document.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-legal-document.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203230234id_/http%3A//www.free-legal-document.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Free-Legal-Document.com
 
@@ -64,7 +64,17 @@ If you do not agree to www.free-legal-document.com's Privacy Policy as posted he
 
 Your use of this site indicates acceptance of this privacy policy.
 
-[Return to Free Legal Documents](http://www.free-legal-document.com/index.html "Free Legal Documents")
+[Return to Free Legal Documents](http://www.free-legal-document.com/index.html "Free Legal Documents")   
 
-[](http://www.free-legal-document.com/index.html)  
 
+### Let's hear your verdict about what you've read here!
+
+**Share this page:  **  
+
+
+What's This?
+
+| |   
+---|---|---  
+  
+Enjoy this page and want to spread the word? Here's how...
