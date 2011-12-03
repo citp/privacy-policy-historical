@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the logogarden.com privacy policy that was archived on 2011-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605014610id_/http%3A//www.logogarden.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the logogarden.com privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204001048id_/http%3A//www.logogarden.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -89,6 +89,8 @@ function toggle_details(id,link_id)
   	{
 	  e.style.display = 'block';
 	}
+	
+	return false;
 }
 
 function show_sample_logo_box(sample_logo_ID,testimonial_pic_image_name)
@@ -108,6 +110,30 @@ function show_sample_logo_box(sample_logo_ID,testimonial_pic_image_name)
 	return false;
 }
 
+function show_video_popup(video_url)
+{
+	var thediv=window.document.getElementById('display_box');
+	
+	if(thediv.style.display == "none")
+	{
+		thediv.style.display = "";
+		thediv.innerHTML = '<div id="video_popup_box"><iframe src="'+video_url+'" width="800" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"></div>';
+	}
+	else
+	{
+		thediv.style.display = "none";
+		thediv.innerHTML = '';
+	}
+
+	return false;
+}
+
+function show_top_video_popup()
+{
+	//launch the video popup
+	show_video_popup("/lg_promo_video.php");
+}
+
 function open_new_window(theURL,winName,features)
 {
 	window.open(theURL,winName,features);
@@ -125,9 +151,7 @@ function open_live_chat()
 
 <script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-16635899-2']);
-  _gaq.push(['_setDomainName', 'none']);
-  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_setAccount', 'UA-16635899-1']);
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -139,20 +163,38 @@ function open_live_chat()
 <link type="text/css" rel="stylesheet" href="/stylesheet.css"><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=16855056"></script></head>
 
 <body bgcolor="#FFFFFF">
-<div id="display_box" style="display: none;">here is the display box</div>
+<div id="display_box" style="display: none;"></div>
 <div id="flash_bar"></div>
+<div id="logo_details_popup" style="display: none;">
+    <strong>Logo &amp; Business Card Package</strong>
+    <ul>
+        <li>Instantly download your logo</li>
+        <li>10,000+ symbols designed for logos</li>
+        <li>Make unlimited changes after purchase </li>
+        <li>File size (All you need for print &amp; web)<br>
+            - High resolution: 300-dpi (jpg &amp; png)<br>  
+            - Low resolution:  72-dpi (jpg &amp; png)</li>   
+        <li>You can trademark your new logo</li>
+        <li>Automated business card generator matches<br>your new logo</li>
+        <li><strong>BONUS:</strong> 100 FREE Premium Business Cards</li>
+    </ul>
+</div>
  
 <div id="page_container">
 	<div id="page_main_container">
     	<div id="top_bar_container">
             <div id="top_logo">
-                <a href="http://www.logogarden.com"><img src="/images/logo.png" alt="LogoGarden.com" title="LogoGarden.com" border="0"></a></div> 
+                <a href="http://www.logogarden.com"><img src="/images/logo.png" alt="LogoGarden.com: The fastest growing LOGO site in the world." title="LogoGarden.com: The fastest growing LOGO site in the world." border="0"></a>
+           	</div> 
         	<div id="top_bar_nav">
-           	  <table width="725" height="75" border="0" align="right" cellpadding="0" cellspacing="0" class="main_text">
+           	  <table width="770" height="79" border="0" align="right" cellpadding="0" cellspacing="0" class="main_text">
                     <tbody><tr>
-                    <td widt="300" align="left" valign="bottom"><img src="/images/icon_flag_uk.png" alt="United Kingdom" title="United Kingdom" align="absmiddle"> United Kingdom</td>
-                        <td align="right" valign="bottom"><span class="top_phone">+1.888.533.LOGO</span><br>
-                         <a href="/blog" class="link_top_bar">Blog</a> &nbsp;&nbsp; <a href="/our-story.php" class="link_top_bar">Our Story</a> &nbsp;&nbsp; <a href="/contact.php" class="link_top_bar">Contact</a> &nbsp;&nbsp; <a href="/account" class="link_top_bar">Sign In</a></td>
+                    <td width="280" align="right" valign="bottom" class="top_site_statement">
+                        <a href="/index.php?cID=1"><img src="/images/icon_flag_us.png" alt="United States" title="United States" align="absmiddle" border="0"></a> &nbsp; <a href="/index.php?cID=4"><img src="/images/icon_flag_uk.png" alt="United Kingdom" title="United Kingdom" align="absmiddle" border="0"></a>&nbsp;<br>
+                    	The fastest growing LOGO site in the world.
+                    </td>
+                        <td align="right" valign="bottom"><span class="top_phone">+1.888.533.LOGO</span> &nbsp;&nbsp; <a href="/account" class="link_top_bar">Sign In</a><br>
+                         <a href="/custom-logo.php" class="link_top_bar_custom_logos">Custom Logos</a> &nbsp;&nbsp; <a href="/blog" class="link_top_bar">Blog</a> &nbsp;&nbsp; <a href="/our-story.php" class="link_top_bar">Our Story</a> &nbsp;&nbsp; <a href="/contact.php" class="link_top_bar">Contact</a></td>
                          <td width="100" align="right" valign="bottom">&nbsp;</td>
                     </tr>
               </tbody></table>
@@ -165,10 +207,10 @@ function open_live_chat()
                                <table width="100%" height="200" border="0" align="center" cellpadding="0" cellspacing="0" class="main_text">
                         	<tbody><tr>
                             	<td width="95" align="left" valign="top">&nbsp;</td>
-                                <td width="420" align="left" valign="middle">
+                                <td width="430" align="left" valign="middle">
 									<script type="text/javascript">
-            AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','400','height','240','src','/flower_animation_subpages','wmode','transparent','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','/flower_animation_subpages' ); //end AC code
-            </script><embed width="400" height="240" src="/flower_animation_subpages.swf" wmode="transparent" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="400" height="240" wmode="transparent">
+            AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','id','promovid','width','400','height','240','src','/flower_animation_subpages','wmode','transparent','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','/flower_animation_subpages' ); //end AC code
+            </script><embed width="400" height="240" src="/flower_animation_subpages.swf" wmode="transparent" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="400" height="240" wmode="transparent" id="promovid">
                 <param name="movie" value="flower_animation_subpages.swf" />
                  <param name="quality" value="high" />
                  <param name="wmode" value="transparent" />
@@ -181,10 +223,11 @@ function open_live_chat()
                                             <td align="left" valign="top">
                                                 <br>
                                                 <br>
-                                                <span class="flash_bar_header_1">Make a Logo<br>
-                                                as Unique as You Are.</span><br>
                                                 <br>
-                                                &nbsp;&nbsp;&nbsp;&nbsp;<span class="flash_bar_try_it_free">Try it FREE</span> <a href="/diy.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('bt_get_started','','/images/bt_get_started_1_on.png',1)"><img src="/images/bt_get_started_1_off.png" alt="Get Started" title="Get Started" name="bt_get_started" border="0" id="bt_get_started" align="absmiddle"></a>
+                                                <span class="flash_bar_header_1"><i>Do-it-Yourself Logos<br>
+                                                for Entrepreneurs.</i></span><br>
+                                                <br>
+                                                <a href="/diy.php" id="bt_try_it_free">Try It Free!</a>
                                             </td>
                                         </tr>
                                     </tbody></table>
@@ -196,9 +239,10 @@ function open_live_chat()
             </tbody></table>
         </div>
         <div id="main_area">
+        	<a name="sample_logos"></a>
 			<div id="left_nav">
             	<div id="left_nav_header_1">Browse LOGOS by Topic</div>
-<div class="left_nav_border"><a href="/sample-logos/accounting-finance-logos" class="link_left_nav">Accounting &amp; Finance LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/animal-pet-logos" class="link_left_nav">Animal &amp; Pet LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/arts-entertainment-logos" class="link_left_nav">Arts &amp; Entertainment LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/automotive-logos" class="link_left_nav">Automotive LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/beauty-logos" class="link_left_nav">Beauty LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/business-consulting-logos" class="link_left_nav">Business Consulting LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/children-logos" class="link_left_nav">Children LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/cleaning-domestic-logos" class="link_left_nav">Cleaning &amp; Domestic LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/clothes-jewelry-logos" class="link_left_nav">Clothes &amp; Jewelry LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/computer-internet-logos" class="link_left_nav">Computer &amp; Internet LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/construction-handyman-logos" class="link_left_nav">Construction &amp; Handyman LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/craft-hobby-logos" class="link_left_nav">Craft &amp; Hobby LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/dcor-furniture-logos" class="link_left_nav">Décor &amp; Furniture LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/delivery-storage-logos" class="link_left_nav">Delivery &amp; Storage LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/education-counseling-logos" class="link_left_nav">Education &amp; Counseling LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/energy-engineering-logos" class="link_left_nav">Energy &amp; Engineering LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/environmental-logos" class="link_left_nav">Environmental LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/event-planning-gift-logos" class="link_left_nav">Event Planning &amp; Gift LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/food-beverage-logos" class="link_left_nav">Food &amp; Beverage LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/health-nutrition-logos" class="link_left_nav">Health &amp; Nutrition LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/landscaping-gardening-logos" class="link_left_nav">Landscaping &amp; Gardening LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/legal-logos" class="link_left_nav">Legal LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/marketing-communication-logos" class="link_left_nav">Marketing &amp; Communication LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/printing-copying-logos" class="link_left_nav">Printing &amp; Copying LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/real-estate-logos" class="link_left_nav">Real Estate LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/religion-spirituality-logos" class="link_left_nav">Religion &amp; Spirituality LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/security-surveillance-logos" class="link_left_nav">Security &amp; Surveillance LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/sports-leisure-logos" class="link_left_nav">Sports &amp; Leisure LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/technology-science-logos" class="link_left_nav">Technology &amp; Science LOGOS</a></div><br><div class="left_nav_border"><a href="/sample-logos/travel-transportation-logos" class="link_left_nav">Travel &amp; Transportation LOGOS</a></div><br>        </div>
+<div class="left_nav_border"><a href="/sample-logos/accounting-finance-logos#sample_logos" class="link_left_nav">Accounting &amp; Finance Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/animal-pet-logos#sample_logos" class="link_left_nav">Animal &amp; Pet Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/arts-entertainment-logos#sample_logos" class="link_left_nav">Arts &amp; Entertainment Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/automotive-logos#sample_logos" class="link_left_nav">Automotive Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/beauty-logos#sample_logos" class="link_left_nav">Beauty Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/business-consulting-logos#sample_logos" class="link_left_nav">Business Consulting Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/children-logos#sample_logos" class="link_left_nav">Children Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/cleaning-domestic-logos#sample_logos" class="link_left_nav">Cleaning &amp; Domestic Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/clothes-jewelry-logos#sample_logos" class="link_left_nav">Clothes &amp; Jewelry Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/computer-internet-logos#sample_logos" class="link_left_nav">Computer &amp; Internet Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/construction-handyman-logos#sample_logos" class="link_left_nav">Construction &amp; Handyman Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/craft-hobby-logos#sample_logos" class="link_left_nav">Craft &amp; Hobby Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/dcor-furniture-logos#sample_logos" class="link_left_nav">Décor &amp; Furniture Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/delivery-storage-logos#sample_logos" class="link_left_nav">Delivery &amp; Storage Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/education-counseling-logos#sample_logos" class="link_left_nav">Education &amp; Counseling Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/energy-engineering-logos#sample_logos" class="link_left_nav">Energy &amp; Engineering Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/environmental-logos#sample_logos" class="link_left_nav">Environmental Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/event-planning-gift-logos#sample_logos" class="link_left_nav">Event Planning &amp; Gift Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/food-beverage-logos#sample_logos" class="link_left_nav">Food &amp; Beverage Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/health-nutrition-logos#sample_logos" class="link_left_nav">Health &amp; Nutrition Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/landscaping-gardening-logos#sample_logos" class="link_left_nav">Landscaping &amp; Gardening Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/legal-logos#sample_logos" class="link_left_nav">Legal Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/marketing-communication-logos#sample_logos" class="link_left_nav">Marketing &amp; Communication Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/printing-copying-logos#sample_logos" class="link_left_nav">Printing &amp; Copying Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/real-estate-logos#sample_logos" class="link_left_nav">Real Estate Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/religion-spirituality-logos#sample_logos" class="link_left_nav">Religion &amp; Spirituality Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/security-surveillance-logos#sample_logos" class="link_left_nav">Security &amp; Surveillance Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/sports-leisure-logos#sample_logos" class="link_left_nav">Sports &amp; Leisure Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/technology-science-logos#sample_logos" class="link_left_nav">Technology &amp; Science Logos</a></div><br><div class="left_nav_border"><a href="/sample-logos/travel-transportation-logos#sample_logos" class="link_left_nav">Travel &amp; Transportation Logos</a></div><br>        </div>
         <div id="main_content">
         	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="main_text">
             	<tbody><tr>
@@ -213,8 +257,7 @@ LogoGarden.com/LLC privacy practices are aimed to be consistent with U.S.-E.U. S
 <br>
 If you have questions or concerns regarding this statement, please contact LogoGarden.com, LLC using the contact information at the end of this statement. <br>
 <br>
-How LOGOGARDEN.COM, LLC uses automatic data collection tools: <br>
-&nbsp;<p></p>
+How LOGOGARDEN.COM, LLC uses automatic data collection tools:&nbsp; <p></p>
 <ul>
     <li>Cookies</li>
     <li>Web beacons</li>
@@ -309,11 +352,12 @@ Wilmington, Delaware, 19805</p></div>
                     -->
                     <div class="footer_links">
                         <br>
-                        <a href="http://www.logogarden.com/de" class="link_footer"><img src="/images/icon_flag_de.png" alt="Germany" title="Germany" align="absmiddle" border="0"> Germany</a> &nbsp; | &nbsp; <a href="/index.php?cID=4" class="link_footer"><img src="/images/icon_flag_uk.png" alt="United Kingdom" title="United Kingdom" align="absmiddle" border="0"> United Kingdom</a> &nbsp; | &nbsp; <a href="/index.php?cID=3" class="link_footer"><img src="/images/icon_flag_ca.png" alt="Canada" title="Canada" align="absmiddle" border="0"> Canada</a><br>
-                        <a href="/index.php" class="link_footer">Home</a> &nbsp;&nbsp; <a href="/our-story.php" class="link_footer">Our Story</a> &nbsp;&nbsp; <a href="/contact.php" class="link_footer">Contact</a> &nbsp;&nbsp; <a href="/account" class="link_footer">Sign In</a> &nbsp;&nbsp; <a href="/site-map.php" class="link_footer">Site Map</a><br>
-                        <a href="/terms-of-service.php" class="link_footer">Terms Of Service</a> &nbsp;&nbsp; <a href="/privacy-policy.php" class="link_footer">Privacy Policy</a><br>
+                        <a href="/index.php?cID=1" class="link_footer"><img src="/images/icon_flag_us.png" alt="United States" title="United States" align="absmiddle" border="0"> United States</a> &nbsp; | &nbsp; <a href="/index.php?cID=4" class="link_footer"><img src="/images/icon_flag_uk.png" alt="United Kingdom" title="United Kingdom" align="absmiddle" border="0"> United Kingdom</a><br>
+                        <a href="/index.php" class="link_footer">Home</a> &nbsp;&nbsp; <a href="/custom-logo.php" class="link_footer">Custom Logos</a> &nbsp;&nbsp; <a href="/blog" class="link_footer">Blog</a> &nbsp;&nbsp; <a href="/our-story.php" class="link_footer">Our Story</a> &nbsp;&nbsp; <a href="/contact.php" class="link_footer">Contact</a> &nbsp;&nbsp; <a href="/account" class="link_footer">Sign In</a> &nbsp;&nbsp; <a href="/site-map.php" class="link_footer">Site Map</a><br>
+                        <a href="/terms-of-service.php" class="link_footer">Terms Of Service</a> &nbsp;&nbsp; <a href="/privacy-policy.php" class="link_footer">Privacy Policy</a>...<br><a href="http://www.prchecker.info/" title="Check Google Page Rank" target="_blank">
+<img src="http://pr.prchecker.info/getpr.php?codex=aHR0cDovL3d3dy5Mb2dvR2FyZGVuLmNvbQ==&amp;tag=1" alt="Check Google Page Rank" style="border:0;"></a><br><br>
                     </div>
-                                        </td>
+                    </td>
                 </tr>
             </tbody></table>
             <br>
@@ -329,5 +373,24 @@ Wilmington, Delaware, 19805</p></div>
     </div>
 </div>
 <!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "16855056",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+
+<!-- Google Code for Home page Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1017644328;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "D61nCMCz4QEQqIqg5QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1017644328/?label=D61nCMCz4QEQqIqg5QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 </body></html>
