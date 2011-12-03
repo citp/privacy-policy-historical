@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logogarden.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605014610id_/http%3A//www.logogarden.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logogarden.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204001048id_/http%3A//www.logogarden.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ LogoGarden.com/LLC privacy practices are aimed to be consistent with U.S.-E.U. S
 
 If you have questions or concerns regarding this statement, please contact LogoGarden.com, LLC using the contact information at the end of this statement. 
 
-How LOGOGARDEN.COM, LLC uses automatic data collection tools: 
+How LOGOGARDEN.COM, LLC uses automatic data collection tools: 
 
   * Cookies
   * Web beacons
