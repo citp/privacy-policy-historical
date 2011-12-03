@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pokerschoolonline.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228131620id_/http%3A//www.pokerschoolonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerschoolonline.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203211459id_/http%3A//www.pokerschoolonline.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Poker School Online: Learn Poker Strategy, Odds and Tells
+# Privacy Policy – Poker School Online: Learn Poker Strategy, Odds and Tells
 
 Your privacy on the Internet is very important to Rational Content  Ltd. (referred to herein as "PokerSchoolOnline", "us" or "we") which owns and operates the Internet site found at www.PokerSchoolOnline.Com (the "Site").
 
@@ -10,7 +10,7 @@ We are committed to maintaining the confidentiality of personal information that
 
 #### 1\. What information is collected and for what purpose
 
-By registering on the Site you grant PokerSchoolOnline the right to provide to Rational Entertainment Enterprises Limited (referred to herein as "PokerStars"), an affiliate company of PokerSchoolOnline, which owns and operates the Internet site found at www.pokerstars.com (the "PokerStars Site"), all the personal information about you collected by PokerSchoolOnline. You also grant PokerStars the right to provide to PokerSchoolOnline all the personal information about you collected by PokerStars.
+By registering on the Site you grant PokerSchoolOnline the right to provide to Rational Entertainment Enterprises Limited (referred to herein as "PokerStars"), an affiliate company of PokerSchoolOnline, which owns and operates the Internet site found at www.pokerstars.eu (the "PokerStars Site"), all the personal information about you collected by PokerSchoolOnline. You also grant PokerStars the right to provide to PokerSchoolOnline all the personal information about you collected by PokerStars.
 
 We may use your personal information to occasionally send you events and news information and to provide you with customer support services. If you no longer wish to receive our newsletters, you may opt-out of receiving them by following the instructions included in each newsletter.
 
@@ -48,8 +48,19 @@ By registering with PokerSchoolOnline or by using the Site without prior registr
 
 #### 8\. Who are we?
 
-Rational Instructional Services Ltd.  
+PokerSchoolOnline is an offering of
+
+RATIONAL CONTENT LTD.  
 33 Athol Street  
 Douglas  
 Isle of Man  
-IM1 1LB
+IM1 1LB  
+Listed in the register of companies under 119373C 
+
+E-Mail: [support@pokerschoolonline.com](mailto:support@pokerschoolonline.com)
+
+All rights reserved. PokerSchoolOnline is a registered trademark of Rational Content Ltd.
+
+**Important note concerning all links to other websites**
+
+Links to web sites of third parties from PokerSchoolOnline pages are purely as a service to our users. We stress that we have no influence on the layout or content of third party pages. Rational Content Ltd. hereby distances itself from all content on linked pages. This statement is valid for all the links on our website, and for all the content of the pages our links lead to.
