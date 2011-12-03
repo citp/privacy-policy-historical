@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keystonerv.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230143434id_/http%3A//www.keystonerv.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keystonerv.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203024435id_/http%3A//www.keystonerv.com/%3Fpage%3Dprivacy%26PHPSESSID%3Dd41537180f4cbd1441e9d15e4ec71f8a) for the most accurate reproduction.*
 
 # Keystone | Privacy Policy
 
