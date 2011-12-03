@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetoad.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523145834id_/http%3A//bluetoad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetoad.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203144810id_/http%3A//bluetoad.com/BlueToad/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BlueToad | Digital Edition, Digital Publishing, Flip Book, iPhone Apps, iPad Apps
 
