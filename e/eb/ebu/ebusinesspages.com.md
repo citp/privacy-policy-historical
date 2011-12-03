@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebusinesspages.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620010041id_/http%3A//ebusinesspages.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebusinesspages.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203105203id_/http%3A//ebusinesspages.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # eBusinessPages - Privacy Policy
 
