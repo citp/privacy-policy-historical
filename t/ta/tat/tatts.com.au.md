@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatts.com.au privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604142608id_/http%3A//www.tattsgroup.com/home/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatts.com.au privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203040333id_/http%3A//www.tattsgroup.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -72,7 +72,7 @@ Tatts Group will only transfer personal information overseas in circumstances wh
 
 ## 12\. Changes in the Future
 
-Tatts Group reserves the right to change this Privacy Policy at any time and to notify you by posting an updated version of the policy on our website, [www.tattsgroup.com](https://web.archive.org/sitecore/shell/Controls/home/default.aspx).
+Tatts Group reserves the right to change this Privacy Policy at any time and to notify you by posting an updated version of the policy on our website, [www.tattsgroup.com](https://web.archive.org/sitecore/shell/Controls/home/default.aspx?CSRT=16682486393375864295).
 
 ## 13\. Additional Information on Privacy
 
