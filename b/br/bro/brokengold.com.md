@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131195011id_/http%3A//www.brokengold.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204001002id_/http%3A//www.brokengold.com/privacy-policy.php) for the most accurate reproduction.*
 
 # BrokenGold.com Privacy Policy - Sell Scrap Gold & Broken Jewelry Online
 
@@ -113,7 +113,10 @@ If you have any questions or concerns, please feel free to contact us at: Broken
 
 We may, from time to time, amend this Policy, in whole or part, in our sole discretion. Any changes to this Policy will be effective immediately upon the posting of the revised policy on the Site. Depending on the nature of the change, we may announce the change (1) on the home page of the Site, or (2) provide such notice via e-mail to users. By continuing to use the Site following any changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Policy, as it may be amended from time to time, in whole or part, you must terminate your site usage.
 
-**Detailed Wireless Policy**
+**California Residents Privacy Rights:**  
+Companies that collect personally identifiable information ("PII") from California residents and disclose such information to Third Parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your PII not be shared with Third Parties by sending your request, including your full name, email address and postal address to: BrokenGold.com Unsubscribe 2533 N. Carson St., Suite 3927 Carson City, NV 89706. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at info@BrokenGold.com
+
+ **Detailed Wireless Policy**
 
 Data obtained from you in connection with this SMS service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. In addition to any fee of which you are notified, your provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence. All charges are billed by and payable to your mobile service provider. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis.
 
@@ -125,9 +128,5 @@ Presented by:
 Brokengold.com  
 1648 Memorial Dr  
 Burlington NC 27215
-
-## Sell scrap gold, silver, jewelry and more.
-
-To get started selling gold, fill out the form below.
 
 ©2008 BGC MANAGEMENT, INC. - Sell Gold, Scrap Silver, Old Jewelry & More at BrokenGold.com
