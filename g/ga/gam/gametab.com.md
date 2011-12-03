@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametab.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615185329id_/http%3A//www.ugo.com/ugo/html/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametab.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203014005id_/http%3A//www.ugo.com/ugo/html/static/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy – UGO Entertainment - UGO.com
 
