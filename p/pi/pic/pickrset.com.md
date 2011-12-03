@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickrset.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628092059id_/http%3A//www.pickrset.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickrset.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203213826id_/http%3A//pickrset.com/privacy.php) for the most accurate reproduction.*
 
 # pickRset: Privacy Policy
 
