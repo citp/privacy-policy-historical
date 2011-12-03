@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228150349id_/http%3A//www.pheaa.org/about/Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203154909id_/http%3A//pheaa.org/about/privacy-policy.shtml) for the most accurate reproduction.*
 
-# PHEAA - Privacy Policy
+# Privacy Policy
+
+## Main Content
 
 [  
 ](https://smp-01.verizonbusiness.com/certinfo/certified.do?CERTID=100909RT800)
@@ -9,7 +11,7 @@ The Pennsylvania Higher Education Assistance Agency, also conducting operations 
 
 This Privacy Policy applies to individuals whose loans have been made or are owned by PHEAA, or whose loans are guaranteed by PHEAA but owned by another entity. If your loans are serviced by PHEAA, but owned or guaranteed by a lender or guarantor other than PHEAA we will comply with that lender's or guarantor's privacy policy with respect to personal information about you that we receive through our relationship with that lender or guarantor.
 
-## Section 1. Information We Collect and Share
+### Section 1. Information We Collect and Share
 
 We collect and share personal information about you in order to identify you as our customer, to establish and manage customer accounts, to complete customer transactions, to provide information to you about our products and services, and to comply with legal and regulatory requirements. Examples of the types of personal information that we collect:
 
@@ -29,7 +31,7 @@ We collect personal information about you from sources that include, but are not
 
 We may share all of the information we collect, as described below.
 
-## Section 2. Disclosure of Personal Information
+### Section 2. Disclosure of Personal Information
 
 All financial companies need to share their customers' personal information to run their everyday business. Below, we explain how and why we may share your personal information.
 
@@ -46,17 +48,17 @@ Additionally, PHEAA sometimes shares your personal information with nonaffiliate
 
 PHEAA may share your information with nonaffiliated vendors that market PHEAA products and services to you. Generally, we only provide these vendors with customer contact information, although we might provide limited account information in some circumstances, such as account balances or status, payment amount or transaction history. Such nonaffiliated marketers must agree via contract with PHEAA to keep your information confidential and to use the information only to market PHEAA products and services.
 
-In compliance with United States Department of Education requirements under the Higher Education Act, PHEAA is required to collect and disclose the Social Security Numbers of applicants for Federal student loans. The primary use of this information is to verify customer identity, determine program eligibility and benefits, permit the servicing of financial aid, and certify attendance and status at an approved higher education institution. Disclosure of your Social Security Number is mandatory for participation in Federal student loan programs under the Higher Education Act. For information on how the Department of Education treats the privacy of Social Security Numbers, please link to the following website to see the Department of Education's privacy policy: <http://www.fafsa.ed.gov/secpriv.htm>.
+In compliance with United States Department of Education requirements under the Higher Education Act, PHEAA is required to collect and disclose the Social Security Numbers of applicants for Federal student loans. The primary use of this information is to verify customer identity, determine program eligibility and benefits, permit the servicing of financial aid, and certify attendance and status at an approved higher education institution. Disclosure of your Social Security Number is mandatory for participation in Federal student loan programs under the Higher Education Act. For information on how the Department of Education treats the privacy of Social Security Numbers, please link to the following website to see the Department of Education's privacy policy: [http://www.fafsa.ed.gov/privacy.htm](http://www.fafsa.ed.gov/privacy.htm).
 
-Finally, consistent with student loan industry practice, PHEAA shares customer information with industry aggregators for the benefit of students. Such industry aggregators include the National Student Clearinghouse1, ELM Resources2, and MeteorTM 3.
+Finally, consistent with student loan industry practice, PHEAA shares customer information with industry aggregators for the benefit of students. Such industry aggregators include the National Student Clearinghouse1, ELM Resources2, and Meteor™ 3.
 
 Consistent with the Children's Online Privacy Protection Act (COPPA), PHEAA will not knowingly collect or retain information submitted by children under the age of 13. If PHEAA learns that we unknowingly collected personally identifying information from children under 13 years of age, we will immediately take all reasonable measures to delete the information from our computer systems and all other data systems.
 
-## Section 3. Data Security
+### Section 3. Data Security
 
 To protect your personal information from unauthorized access and use, we use security measures that comply with federal law and regulations. These measures include computer safeguards and secured files and buildings. We restrict access to nonpublic personal information about you to those employees who we have determined have a legitimate business need for the information in order to provide our products and services.
 
-## Section 4. Online Privacy Practices
+### Section 4. Online Privacy Practices
 
 PHEAA protects the privacy of your personal information on our websites using the same standards and care that we utilize for all PHEAA communications and transactions.
 
@@ -66,17 +68,15 @@ PHEAA uses cookies to enhance the delivery of products, services, and informatio
 
 PHEAA provides links from its websites to other vendors and third parties. Because PHEAA cannot guarantee how these third parties use or collect personally identifying information, you are encouraged to fully review the privacy statements of these other websites to determine whether or not your use of these websites comports with your desire to maintain the privacy of personally identifying information.
 
-## Section 5. How to Contact PHEAA
+### Section 5. How to Contact PHEAA
 
 If you have questions, concerns, or if you desire additional information concerning the PHEAA Privacy Policy, please contact PHEAA using the following email address:
 
 **Email** : [eso@pheaa.org](mailto:eso@pheaa.org)
 
-## Section 6. Changes to Our Privacy Policy
+### Section 6. Changes to Our Privacy Policy
 
 This Privacy Policy replaces all prior Privacy Policies issued by PHEAA. We reserve the right to modify our Privacy Policy at any time. We will notify you if we make changes to our Privacy Policy that significantly impact how we collect, use or protect your personal information. In addition, our current Privacy Policy may be viewed at any time on our websites: [www.pheaa.org](http://www.pheaa.org/); [www.aesSuccess.org](http://www.aessuccess.org/); [www.MyFedLoan.org](http://www.myfedloan.org/).
-
-* * *
 
   1. The National Student Clearinghouse is a source for post-secondary student degree and enrollment verification.
   2. The ELM Resources system provides students, schools and lenders with automated Federal Family Education Loan Program (FFELP) and alternative loan data, processing, and information.
@@ -84,8 +84,18 @@ This Privacy Policy replaces all prior Privacy Policies issued by PHEAA. We rese
 
 
 
-* * *
-
 **Originally Adopted** : February 2, 2001
 
 **Date Last Modified** : September 2, 2010
+  *[PHEAA]: Pennsylvania Higher Education Assistance Agency
+  *[U.S.]: United States
+  *[http://www.fafsa.ed.gov/privacy.htm]: h t t p : / / w w w dot fafsa dot ed dot gov / privacy dot h t m
+  *[ELM]: E L M
+  *[COPPA]: C O P P A
+  *[IP]: I P
+  *[eso@pheaa.org]: e s o at pheaa dot org
+  *[www.pheaa.org]: w w w dot pheaa dot org
+  *[www.aesSuccess.org]: w w w dot a e s success dot org
+  *[www.MyFedLoan.org]: my fed loan dot org
+  *[FFELP]: F F E L P
+  *[TM]: Trademark
