@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182529id_/http%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203213837id_/http%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
 
 # Your privacy with Jetabroad AU
 
-Jetabroad is committed to protecting your privacy.
+**Jetabroad is committed to protecting your privacy.**
+
+**Jetabroad operates in accordance with the National Privacy Principles**
 
 The personal information you provide to Jetabroad is collected and held in accordance with the National Privacy Principles which form part of the _Privacy Act 1988_ (Cth).
+
+**Why does Jetabroad collect personal information?**
 
 The information we collect is for the purposes of providing the travel and related services to you. You are entitled to access the information Jetabroad holds about you by contacting the privacy officer whose details are provided below. 
 
@@ -28,9 +32,15 @@ We collect the personal information for the following reasons:
 
 Links may be present on the Jetabroad site, which may result in you leaving the Jetabroad site and being taken to third party web sites. You should note that any information that you provide to these third party web sites is not subject to the Jetabroad Privacy Statement.
 
+**Accessing your information**
+
 If you would like to access, update or correct your personal information held by Jetabroad please contact the privacy officer whose details are provided below. 
 
+**Minors**
+
 As we cannot distinguish the age of persons who access our site, a blanket privacy policy is applied. Jetabroad does not intend nor does it seek to receive any personal information from minors. Should a parent or guardian have reason to believe that a minor has provided Jetabroad with personal information without their prior consent, please contact the privacy officer whose details are provided below to ensure that the information is removed from our database.
+
+**Security of your information**
 
 Jetabroad uses technology and security features to safeguard the privacy of your personal information. A secure server protects your personal information. In addition, you may complete bookings with Jetabroad using Secure Socket Layer (SSL) encryption with Extended Validation. If you become aware of any security breach, please let us know as soon as possible.
 
@@ -39,6 +49,8 @@ Procedures and training ensure that Jetabroad staff continuously respect the con
 Jetabroad will make best endeavours to keep any information which we hold about you secure. As the Internet data transmission cannot be guaranteed to be 100%, we cannot be responsible for any event arising from unauthorised access to your personal information. Jetabroad will not be held responsible for events arising from third parties gaining unauthorised access to your personal information.
 
 Please note also that Jetabroad may use overseas facilities to process or back up its information. As a result, we may transfer and store your personal information to our overseas facilities. However, this does not change any of our commitments to safeguard your privacy.
+
+**This Privacy Statement**
 
 This privacy statement may be changed without notice, as a result of legislative changes or Jetabroad's internal changes. Please ensure you visit the Jetabroad website for the latest version of the privacy statement.
 
