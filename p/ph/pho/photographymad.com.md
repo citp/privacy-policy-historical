@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photographymad.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605043620id_/http%3A//www.photographymad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographymad.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203081516id_/http%3A//www.photographymad.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Photography Mad
 
-If you require any more information or have any questions about this privacy policy, please feel free to [contact me](https://web.archive.org/contact).
+_If you require any more information or have any questions about this privacy policy, please feel free to[contact me](https://web.archive.org/contact)._
 
 At PhotographyMad.com, the privacy of visitors is of extreme importance. This privacy policy document outlines the types of personal information is received and collected by PhotographyMad.com and how it is used.
 
@@ -16,7 +16,7 @@ PhotographyMad.com does not use cookies or web beacons.
 
 ##  DoubleClick DART Cookie
 
-Google, as a third party vendor, uses cookies to serve ads on PhotographyMad.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to PhotographyMad.com and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on PhotographyMad.com. Google's use of the DART cookie enables it to serve ads to users based on their visit to PhotographyMad.com and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html).
 
 Some of PhotographyMad.com's advertising partners may use cookies and web beacons on our site. PhotographyMad.com's advertising partners include Google Adsense.
 
