@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addedsuccess.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727065237id_/http%3A//www.addedsuccess.com/inner.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addedsuccess.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203200252id_/http%3A//www.addedsuccess.com/inner.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Addedsuccess.com
+# Addedsuccess - inner
 
 We at LJC Media are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites. 
 
@@ -34,13 +34,13 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 
 California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
 
-If you are a California resident you may request this information from LJC Media or any of its affiliates by writing to us via email at privacy@ljcmedia.com. LJC Media is not obligated to respond to more than one such request from a customer per calendar year. 
+If you are a California resident you may request this information from LJC Media or any of its affiliates by writing to us [via email](https://web.archive.org/contact.php). LJC Media is not obligated to respond to more than one such request from a customer per calendar year. 
 
 ### Commitment
 
 Protecting your privacy online is an evolving area, and LJC Media's web sites are constantly changing to meet these demands. 
 
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at privacy@ljcmedia.com. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention. 
+If you have any comments or questions regarding our Online Privacy Policy, please [contact us](https://web.archive.org/contact.php). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention. 
 
 ### Your Consent
 
@@ -48,4 +48,4 @@ By using this web site, you consent to the terms of our Privacy Policy and to LJ
 
 ### Contacting Us
 
-For more information, or if you have questions or concerns regarding LJC Media's Privacy Policy, you may email us privacy@ljcmedia.com. 
+For more information, or if you have questions or concerns regarding LJC Media's Privacy Policy, you may [email us](https://web.archive.org/contact.php). 
