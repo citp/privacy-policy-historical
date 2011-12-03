@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressreleasespider.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605072319id_/http%3A//www.pressreleasespider.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressreleasespider.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203213353id_/http%3A//www.pressreleasespider.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PressReleaseSpider - Privacy Policy
 
