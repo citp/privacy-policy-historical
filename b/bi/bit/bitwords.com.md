@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitwords.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501121938id_/http%3A//www.bitwords.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitwords.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203041227id_/http%3A//www.bitwords.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Bitwords media privacy policy
 
