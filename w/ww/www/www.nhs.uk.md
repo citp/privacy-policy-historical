@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614154748id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203011550id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy on NHS Choices
 
 We collect information indirectly and directly.
 
-When you access [www.nhs.uk](http://www.nhs.uk/), we use technology to collect information indirectly, such as your internet address, which is then kept in our internet access logs.
+When you access [www.nhs.uk](https://web.archive.org/), we use technology to collect information indirectly, such as your internet address, which is then kept in our internet access logs.
 
 We collect information directly from you in a number of ways. One way is by using cookies. Cookies are small files of information that save and retrieve information about your visit to our site, such as how you entered our site, how you navigated through the site and what information was of interest to you. In addition to this, if you customise the homepage, we will store the information you give us in a cookie.
 
@@ -22,6 +22,6 @@ If you choose to access these sites using the links provided, the operators of t
 
 You should read their respective privacy policies carefully to find out what happens to any information that is collected by these services when you use them.
 
-Videos from NHS Choices, whether viewed on [www.nhs.uk](http://www.nhs.uk/) or embedded in third-party sites, are supplied (streamed) to users by a third-party company, Brightcove. A product called TubeMogul is used by Brightcove to compile statistics for NHS Choices; it uses an anonymous tracking cookie and stores no personal data. For more information see the [Brightcove privacy policy](http://www.brightcove.com/en/privacy/ "Brightcove privacy policy") and the [TubeMogul privacy policy](http://www.tubemogul.com/company/privacy "Tube Mogul privacy policy").
+Videos from NHS Choices, whether viewed on [www.nhs.uk](https://web.archive.org/) or embedded in third-party sites, are supplied (streamed) to users by a third-party company, Brightcove. A product called TubeMogul is used by Brightcove to compile statistics for NHS Choices; it uses an anonymous tracking cookie and stores no personal data. For more information see the [Brightcove privacy policy](http://www.brightcove.com/en/privacy/ "Brightcove privacy policy") and the [TubeMogul privacy policy](http://www.tubemogul.com/company/privacy "Tube Mogul privacy policy").
 
 Use of NHS Choices tools on third-party sites will be tracked. No personal data is collected by the tools. Information gathered by NHS Choices includes the user’s IP address, the web page a tool is accessed from, and how many times it is accessed. In some cases, tracking is used to show user journeys through a tool. This information is the sole property of NHS Choices and will not be shared with third parties. All NHS Choices tools store the number of times a user has visited the tool. Some tools also store ‘state’ information so that when a user returns to a tool it is in the ‘state’ they left it in. 
