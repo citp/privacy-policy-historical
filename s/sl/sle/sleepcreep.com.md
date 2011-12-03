@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepcreep.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122102307id_/http%3A//www.pornprosnetwork.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepcreep.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203052447id_/http%3A//www.pornpros.com/terms_conditions/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
