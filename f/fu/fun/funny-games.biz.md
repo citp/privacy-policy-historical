@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny-games.biz privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614231812id_/http%3A//www.funny-games.biz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-games.biz privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203044845id_/http%3A//www.funny-games.biz/privacy-policy.html) for the most accurate reproduction.*
 
 # Funny-Games.biz Privacy Policy
 
