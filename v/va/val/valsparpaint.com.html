@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the valsparpaint.com privacy policy that was archived on 2010-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101118012855id_/http%3A//www.valsparpaint.com/en/privacy-policy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valsparpaint.com privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203114943id_/http%3A//www.valsparpaint.com/en/privacy-policy/index.html%3Fref%3Dprivacypolicy_homepage_menu) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -22,47 +22,45 @@
 <title>Privacy Policy</title>
 
 
-<script type="text/javascript" src="/resources/valspar/js/jQuery.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/jquery.json-2.2.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/vServices.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/overlayWindow.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/master.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/iepngfix_tilebg.js"></script>
 
-
-<script type="text/javascript" src="/resources/valspar/js/emailPopup.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/printPopup.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/topNav.js"></script>
-
-<script type="text/javascript" src="/resources/valspar/js/swfobject.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/jquery.anchor.js"></script>
-
-<script type="text/javascript" src="/resources/valspar/js/estimator.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/shoppingList.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/dimensions.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/accordion.js"></script>
-
-<script type="text/javascript" src="/resources/valspar/js/oo_engine_c.js"></script>
-<script type="text/javascript" src="/resources/valspar/js/oo_conf_en-US_float.js"></script>
-<script type="text/javascript" src="/en/other/omniture.js"></script>
-
-
-<script type="text/javascript" src="/resources/valspar/js/AC_RunActiveContent.js"></script>
-
-<script type="text/javascript" src="/resources/valspar/js/carousel.js"></script>
- <script type="text/javascript" src="/en/other/s_code.js"></script> 
 
 <link href="/resources/valspar/css/estimator.css" rel="stylesheet" type="text/css">
 <link href="/resources/valspar/css/shopping.css" rel="stylesheet" type="text/css">
 <link href="/resources/valspar/css/findTheRightProduct.css" rel="stylesheet" type="text/css">
-<link href="/resources/valspar/css/oo_style.css" rel="stylesheet" type="text/css">
+
 <link href="/resources/valspar/css/master.css" rel="stylesheet" type="text/css">
 <link href="/resources/valspar/css/topNav.css" rel="stylesheet" type="text/css">
 <link href="/resources/valspar/css/valspar.css" rel="stylesheet" type="text/css">
 <link href="/resources/valspar/css/iframe-page.css" rel="stylesheet" type="text/css">
 
+<link href="/resources/valspar/css/print.css" rel="stylesheet" type="text/css" media="print">
+
+<!--[if IE]>
+	<link href="/resources/valspar/css/print_IE.css" rel="stylesheet" type="text/css" media="print">
+<![endif]-->
+
+
 <link href="/resources/valspar/img/favicon.ico" rel="shortcut icon">
 
+<script type="text/javascript">
+var valOmniture = {hier1: "",channel: "",prop2: "",prop3: "",evar5: "",evar6: "",events: "",products: "",evar11: ""}
+function trackInternalPromoImpression(str) {
+    var track = (typeof s == "undefined") ? valOmniture: s;
+    var evt = "event6";
+    if (typeof track.events == "undefined")
+    	track.events = evt;
+    if (((track.events).indexOf(evt) < 0) && (track.events.length > 0))
+    	track.events = track.events + "," + evt;
+    else if (track.events.length == 0)
+    	track.events = evt;
+    if (typeof track.products == "undefined")
+    	track.products = ';' + str;
+    if ((track.products.indexOf(str) < 0) && ((track.products).length > 0))
+    	track.products = track.products + ",;" + str;
+    else if (track.products.length == 0)
+    	track.products = ';' + str;
+}
+</script>
 
 
 
@@ -80,8 +78,9 @@
 
 
 <body bgcolor="#dbd8d2" onload="" onunload="">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 
-      
+
 <table width="1000" border="0" cellspacing="0" cellpadding="0" class="rightProductWin" align="center">
   <tbody><tr>
         <td align="left" valign="top" width="100%">
@@ -102,7 +101,7 @@
 <!--           Initialize the template and set the Locale and user        -->
 <!-- ******************************************************************** -->
 
- 
+
 
 <script type="text/javascript" language="javascript">
     function keyhandler(e) {
@@ -115,7 +114,7 @@
     }
 
     document.onkeypress = keyhandler;
-    
+
       function validateCart() {
       	 var items = 0; //"0";
       	 var colorTranslate = "color";
@@ -125,7 +124,7 @@
       	 }
          if(getCookie('valpaintcart')!="")  {
                items = getCookie('valpaintcart')>items?getCookie('valpaintcart'):items;
-         }      	 
+         }
       	 var empty = "/en/explore-"+colorTranslate+"s/sample-store/index.html";
       	 var full = "http://"+serverName+"/valpaint/store/showCart.html?back="+location.href;
       	 //alert("vReqBean.getUserCartCount:"+items + " " + ct + "; cookie value from javascript" + getCookie('valpaintcart'));
@@ -133,68 +132,71 @@
 	 window.location = empty;
 	 else
 	 window.location = full;
-      }   
-    
+      }
+
+      function ukLink() {
+          window.location = "/en/explore-colours/tester-pots/index.html";
+      }
+
+      function caLink() {
+          window.location = "/en/explore-colours/sample-store/index.html";
+      }
+
 </script>
-<table width="1000" border="0" cellspacing="0" cellpadding="0" class="rightProductWin" align="center">
-<tbody><tr><td valign="top" width="100%">
+
     <!-- top navigation about us | find retailer ..........   -->
 
     <div class="topNavBtnRow">
-    	<div class="row100PercFNAR">
-        <div class="topNavBG">
-            <div class="welcomeMSG" id="welcomeMessage">Welcome back, Valspar Generic (<a href="javascript: topNav.signOutNotMe(); void(0);">Not Valspar Generic?</a>)</div>
-            &nbsp;<!--CR508567-startslash-->
-        </div>
-		
-        <div id="topNavBtnRetailer" class="topNavBtnRetailer ">
-            <!--  <img src="/resources/valspar/img/btn_topNavRetailer3.gif">-->
-            &nbsp;<!--CR508567-startslash-->
-        </div>
-        <div class="topNavBtnDiv2">
-            &nbsp;<!--CR508567-startslash-->
-
+         
+        <div class="welcomeMSG" id="welcomeMessage">Welcome back, Valspar Generic (<a href="javascript: topNav.signOutNotMe(); void(0);">Not Valspar Generic?</a>)</div>
+        
+        
+        <div id="topNavBtnRetailer" class="topNavBtnRetailer">
+        	
+				Find a Retailer
+			
+			
         </div>
         
-      
-            <div class="cartRow" onmousedown="javascript:validateCart();">
-                <div class="cart-A" style="display:none;"><img src="/resources/valspar/img/aniA.gif" alt="Cart" width="54" height="17"></div>
-                <div class="cart-B" style="display:none; ">[ 0 ]</div>
+		
+			<div class="cartRow" onmousedown="javascript:validateCart();">
+                <span class="cart-A" style="display:none;"><img src="/resources/valspar/img/aniA.png" alt="Cart" width="27" height="17"> Cart</span>
+                <span class="cart-B" style="display:none; ">[0]</span>
                 <!-- aniC.gif = Item Added -->
-                <div class="cart-C" style="display:none;"><img src="/resources/valspar/img/aniC.gif" alt="Item Added" width="61" height="7"></div>
-                <div class="cart-D" style="display:none">]</div>
+                <span class="cart-C" style="display:none;">Item Added</span>
+                <!-- <span class="cart-D" style="display:none">]</span> -->
                 <!-- aniE.gif = Purchase Samples -->
-                
-                	<div class="cart-E" style="display:block;" title="Cart Empty"><img src="/resources/valspar/img/aniE.gif" alt="Purchase Samples" width="94" height="7"></div>
-                
+                <span class="cart-E" style="display:block;">Purchase Samples</span>
             </div>
-        <!--</div>-->
-        <div class="topNavBtnDiv3">
-            &nbsp;<!--CR508567-startslash-->
-        </div>
-      
+         
+            
 
-        <div class="topNavBtnPainter" onmousedown="javascript: checkValsparUserCookie ( '/en/explore-colors/color-selector/index.html?screen=painterScreen' ); void(0);">
-            <img src="/resources/valspar/img/btn_topNavPainter3.gif" width="139" height="39" alt="Virtual Painter">
+        <div class="topNavBtnPainter">
+        	<a href="javascript:void(0)" onmousedown="javascript: checkValsparUserCookie ( '/en/explore-colors/color-selector/index.html?screen=painterScreen' );">
+            Virtual Painter
+            </a>
         </div>
-        <div class="topNavBtnDiv">
-            &nbsp;<!--CR508567-startslash-->
-        </div>
-        <div id="btnCreateProfile" class="topNavBtnProjects" onmousedown="javascript: checkValsparUserCookie ( '/en/my-projects/index.html' ); void(0);">
-            <img src="/resources/valspar/img/topNavBtnProjectsAdded.gif" class="topNavBtnProjectsAdded" width="140" height="39" alt="Item Added">
+        
+        <div id="btnCreateProfile" class="topNavBtnProjects">
+        	<a href="javascript:void(0)" onmousedown="javascript: checkValsparUserCookie ( '/en/my-projects/index.html' )">
+        	My Projects
+            <img src="/resources/valspar/img/topNavBtnProjectsAdded.gif" class="topNavBtnProjectsAdded" width="95" height="39" alt="Item Added">
+            </a>
         </div>
 
-        <div class="topNavBtnDiv">
-            &nbsp;<!--CR508567-startslash-->
-        </div>
-        <div id="topNavBtnSearch" class="topNavBtnSearch">
-            &nbsp;<!--CR508567-startslash-->
-        </div>
+        
+        <div class="topNavBtnSearch">
+				<form action="/en/search/search.html" method="post" name="topnavSearch" id="topnavSearch">
+	                <input type="hidden" value="valspar_com" name="index">
+	                <input type="text" name="query" id="searchString" class="searchThis" value="Search" onfocus="javascript: inputFields.onFocus(this, {label:'Search', value:this.value})" onblur="javascript: inputFields.onBlur(this, {label:'Search', value:this.value})" tabindex="1">
+	                <button name="submit" class="formBtn" type="submit"></button>
+			            
+			</form>
         </div>
     </div>
     <!-- end top navigation about us | find retailer ..........   -->
-    
-    
+
+
 <!-- top navigation B    explore colors  | find the right product  | paint like a pro -->
 
 <div class="navBLogo">
@@ -209,30 +211,29 @@
         <div onmousedown="javascript: window.location='/en/explore-colors/'" class="navB1Home" id="navB-A">&nbsp;<!--CR508567-/2 --></div>
         <div onmousedown="javascript: window.location='/en/find-the-right-product/'" class="navB2Home" id="navB-B">&nbsp;<!--CR508567-/2 --></div>
         <div onmousedown="javascript: window.location='/en/how-to/'" class="navB3Home" id="navB-C">&nbsp;<!--CR508567-/2 --></div>
-            
+
     </div>
     <div class="navB">
         <div class="navB4BG">&nbsp;<!--CR508567-/2 --></div>
         <div class="navB4Home">&nbsp;<!--CR508567-/2 --></div>
     </div>
 </div>
-    
-    
 
-    
-    
-    
-    
-    
-    
-    
-    
-</td></tr>
-<tr><td valign="top" width="100%">
+
+
+
+
+
+
+
+
+
+
+
     <!-- local  -->
     <div class="topNavSubNavRow">
         <!-- bread-crumb forms here -->
-         
+        
                 <div id="breadCrumb-1" class="mainLocalPainter">
                     &nbsp;<a href="/en/index.html" class="bclink">home</a> &gt;
                 </div>
@@ -241,60 +242,18 @@
                             &nbsp;<a href="/en/privacy-policy/index.html" class="bclink">Privacy Policy</a> &gt;
                         </div>
                         
-<script type="text/javascript">
-//JT: set omniture variables
-(function(){
-	var arrB = $(".bclink");
-	for(var i=0;i<arrB.length;i++){
-	  var h = $(arrB[i]).html();
-	  valOmniture.hier1 += ((valOmniture.hier1 === "")?"":"|")+h;
-	  if(i==1) valOmniture.prop2 = h; //site section
-	  else if(i==2) valOmniture.prop3 = h; //sub section
-	}
-})();
-//JT: cart caching
-$(document).ready(function(){ 
-   function checkCartCache() 
-   {
-	//alert( isNaN( getCookie('valpaintcart') ) );
-	if( getCookie('valpaintcart') != "") {
-	           var items = 0;//0;
-		items = (items < getCookie('valpaintcart'))?getCookie('valpaintcart'):items;
-		if((items > 0)&&(getCookie('valpaintcart')!="")) {
-			$(".cart-E").css('display','none');
-		        $(".cart-B").css('display','block');
-		        $(".cart-A").css('display','block');
-		        $(".cart-B").html('['+items+']').attr('title','Cart Items:'+items);
-	        } else {
-	            $(".cart-E").css('display','block').attr('title','Cart Items:'+items);
-                    $(".cart-B").css('display','none');
-                    $(".cart-A").css('display','none');
-	        }
-        } else {
-        
-                $(".cart-E").css('display','block').attr('title','Cart Empty');
-                    $(".cart-B").css('display','none');
-                    $(".cart-A").css('display','none');        
-        }
-        
-    }
-    
-    checkCartCache();
-        
-});
-</script>
+
 
 		<div id="extraBreadCrumb" class="mainLocalPainter"></div>
         <div class="mainLocalColB">
              <a href="javascript: trackEmailToFriend(); emailPopup.display(location.href,'Privacy Policy');void(0);"><img src="/resources/valspar/img/icon_localEmail.gif" alt="Email" title="Email" width="20" height="17"></a> 
-            <a href="javascript: trackPrinted(); printPopup.display('http://www.valsparpaint.com/system/modules/com.valspar/jsp/printPreview/preview.jsp?url=%2Fen%2Fprivacy-policy%2Findex.html&amp;viewType=GENERIC_PAGE');void(0);"><img src="/resources/valspar/img/icon_localPrint.gif" alt="Print" title="Print" width="20" height="17"></a>
+            <a href="javascript: trackPrinted(); printPopup.display('http://www.valsparpaint.com/system/modules/com.valspar/jsp/printPreview/preview.jsp?viewType=GENERIC_PAGE&amp;url=%2Fen%2Fprivacy-policy%2Findex.html');void(0);"><img src="/resources/valspar/img/icon_localPrint.gif" alt="Print" title="Print" width="20" height="17"></a>
             <a href="javascript: trackSaveToMyProjects(); saveItemToRootProject('opencms_article','c21948ba-2e12-11df-95dc-876ca188610e',itemAdded);void(0);"><img src="/resources/valspar/img/icon_localSave.gif" alt="Save" title="Save" width="20" height="17"></a>
 
         </div>
     </div>
-    
-</td></tr>
-</tbody></table>
+
+
 <!-- end top navigation -->
 
 
@@ -302,7 +261,7 @@ $(document).ready(function(){
 
 <!--  create profile dropDown  -->
 
-<div id="menuCreateProfile" class="menuCreateProfile" style="position: absolute; visibility: hidden;">
+<div id="menuCreateProfile" class="menuCreateProfile">
 <table width="312" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td width="20" height="20"><img src="/resources/valspar/img/BG_topDropTL.png" width="20" height="20" alt=""><br></td>
@@ -313,21 +272,64 @@ $(document).ready(function(){
   <tr>
     <td class="topDropTDL">&nbsp;<!--CR508567-/2 --></td>
     <td class="topDropTDM">
-    
-    
-    
+
+
+
     <!-- content  -->
 
         <div>
-            <a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html' ); void(0);">My Recently Saved Items </a><a id="topNavRootProjectAmount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html' ); void(0);">[13]</a>
+            <a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html' ); void(0);">My Recently Saved Items </a><a id="topNavRootProjectAmount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html' ); void(0);">[859]</a>
+        </div>
+
+
+        
+        <div id="myProjectsBlock">
+	        <div>My Projects</div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5851542' ); void(0);">Barn </a><a id="topNavProject5851542amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5851542' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5743642' ); void(0);">EXTERIOR PAINT </a><a id="topNavProject5743642amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5743642' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5546645' ); void(0);">House paint </a><a id="topNavProject5546645amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5546645' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5718090' ); void(0);">Living Room </a><a id="topNavProject5718090amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5718090' ); void(0);">[2]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5919282' ); void(0);">Southland </a><a id="topNavProject5919282amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5919282' ); void(0);">[1]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5191580' ); void(0);">Test </a><a id="topNavProject5191580amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5191580' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5485447' ); void(0);">barnette </a><a id="topNavProject5485447amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5485447' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5202710' ); void(0);">bathroom </a><a id="topNavProject5202710amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5202710' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5746004' ); void(0);">ceiling </a><a id="topNavProject5746004amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5746004' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5177347' ); void(0);">collins living room </a><a id="topNavProject5177347amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5177347' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5896206' ); void(0);">den </a><a id="topNavProject5896206amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5896206' ); void(0);">[1]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5527300' ); void(0);">exterior 50 East </a><a id="topNavProject5527300amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5527300' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5179674' ); void(0);">hallway </a><a id="topNavProject5179674amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5179674' ); void(0);">[4]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5178823' ); void(0);">hargis bathroom </a><a id="topNavProject5178823amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5178823' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5714203' ); void(0);">house </a><a id="topNavProject5714203amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5714203' ); void(0);">[1]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5756244' ); void(0);">house painting </a><a id="topNavProject5756244amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5756244' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5714555' ); void(0);">interior home </a><a id="topNavProject5714555amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5714555' ); void(0);">[1]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5835090' ); void(0);">kassidys room </a><a id="topNavProject5835090amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5835090' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5783253' ); void(0);">kitchen </a><a id="topNavProject5783253amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5783253' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5819060' ); void(0);">kitchen </a><a id="topNavProject5819060amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5819060' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5183957' ); void(0);">laundry room </a><a id="topNavProject5183957amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5183957' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5190925' ); void(0);">liv </a><a id="topNavProject5190925amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5190925' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5188165' ); void(0);">living room </a><a id="topNavProject5188165amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5188165' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=6188121' ); void(0);">living room </a><a id="topNavProject6188121amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=6188121' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5938254' ); void(0);">michele </a><a id="topNavProject5938254amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5938254' ); void(0);">[1]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5725891' ); void(0);">my home </a><a id="topNavProject5725891amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5725891' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5653834' ); void(0);">paint </a><a id="topNavProject5653834amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5653834' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5798799' ); void(0);">paint </a><a id="topNavProject5798799amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5798799' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5936091' ); void(0);">paint </a><a id="topNavProject5936091amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5936091' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5663737' ); void(0);">paint mckinney </a><a id="topNavProject5663737amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5663737' ); void(0);">[5]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5502005' ); void(0);">rOS </a><a id="topNavProject5502005amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5502005' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5829946' ); void(0);">rental </a><a id="topNavProject5829946amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5829946' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5888902' ); void(0);">room </a><a id="topNavProject5888902amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5888902' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5610682' ); void(0);">shed </a><a id="topNavProject5610682amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5610682' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5205017' ); void(0);">shekia's </a><a id="topNavProject5205017amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5205017' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5196751' ); void(0);">wall </a><a id="topNavProject5196751amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5196751' ); void(0);">[0]</a></div>
+	        <div class="topDropProjects"><a href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5895664' ); void(0);">walls </a><a id="topNavProject5895664amount" href="javascript: checkValsparUserCookie ( '/en/my-projects/index.html?projectId=5895664' ); void(0);">[0]</a></div>
+	        
+	        <div class="topDropHline">&nbsp;<!--CR508567-/2 --></div>
         </div>
         
-        
-        
-        
-        
+
+
         <!-- sign in  menu -->
-        <div id="signIn" class="signIn" style="display: none;">
+        <div id="signIn" class="signIn">
           
             <div class="topDropH">
                 Sign In
@@ -342,13 +344,13 @@ $(document).ready(function(){
 
                 <span id="signInPWDInput">
                 <input type="text" name="signInPWD" id="signInPWD" class="topDropInput" value="Password" onfocus="javascript: topNav.signInPWDOnFocus(1,this, 'signInError')" onblur="javascript: topNav.signInPWDOnBlur(1,this, 'signInError')">
-                </span> 
+                </span>
             </div>
-                    
+
             <div class="topDropPrivacy">
                 <a href="javascript: topNav.myProfileShowHide('forgetPWD','signIn'); void(0);">Forgot your password?</a>
             </div>
-            
+
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
             <div class="topDropBtns">
 
@@ -360,10 +362,10 @@ $(document).ready(function(){
                  <div class="buttonsLM25CN" onmousedown="javascript: topNav.signIn(); void(0);">
                     sign in
                  </div>
-                 
-                 
+
+
             </div>
-            
+
             <div class="topDropHline">&nbsp;<!--CR508567-/2 --></div>
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
             <div class="topDropHref">
@@ -378,9 +380,9 @@ $(document).ready(function(){
             <div class="spacer5PX">&nbsp;<!--CR508567-/2 --></div>
         </div>
         <!-- end sign in  -->
-        
+
         <!-- sign in confirmation   -->
-        <div id="signInConf" class="signInConf" style="display: block;">
+        <div id="signInConf" class="signInConf">
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
             <div id="signOutError1" class="topNavErrorDivOff"></div>
             <div class="topDropHref">
@@ -394,8 +396,8 @@ $(document).ready(function(){
             <div class="spacer5PX">&nbsp;<!--CR508567-/2 --></div>
         </div>
         <!-- end sign in confirmation -->
-        
-        
+
+
         <!-- create profile   -->
         <div id="createProfile" class="createProfile">
           
@@ -420,43 +422,44 @@ $(document).ready(function(){
 
                 </span>
             </div>
-                    
-            
+
+			<input type="hidden" name="createProfileChannelId" id="createProfileChannelId" value="1001">
+
             <div class="topDropPrivacy">
                 Our <a href="/en/privacy-policy/index.html">Privacy Policy</a> protects you.
             </div>
             <div class="spacer5PX">&nbsp;<!--CR508567-/2 --></div>
             <div class="row100Perc">
-                <input type="checkbox" name="createProfileMe" id="createProfileMe" value="true" checked="checked" class="topDropCB"> 
+                <input type="checkbox" name="createProfileMe" id="createProfileMe" value="true" checked="checked" class="topDropCB">
                 <div class="topDropCBTxt">
 
                     Remember me when I return
                 </div>
              </div>
              <div class="row100Perc">
-                <input type="checkbox" name="createProfileOffers" id="createProfileOffers" class="topDropCB"> 
+                <input type="checkbox" name="createProfileOffers" id="createProfileOffers" class="topDropCB">
                 <div class="topDropCBTxt">
                     Sign me up for Valspar Coupons, offers and news
                 </div>
-            </div>  
-                
-            
+            </div>
+
+
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
             <div class="topDropBtns">
-                
+
                 <div class="cancelBtn" onmousedown="javascript: topNav.myProfileShowHide('signIn','createProfile'); void(0);">
                     cancel
                  </div>
-                 
+
                  <div class="topNavVSpacer">&nbsp;<!--CR508567-/2 --></div>
-                 
+
                 <div class="buttonsLM25CN" onmousedown="javascript: topNav.createProfile();void(0);">
                     create profile
                  </div>
-            
+
             </div>
-            
-            
+
+
             <div class="topDropHline">&nbsp;<!--CR508567-/2 --></div>
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
             <div class="topDropHref">
@@ -466,7 +469,7 @@ $(document).ready(function(){
           
         </div>
         <!-- end create profile  -->
-        
+
         <!-- create profile confirmation   -->
         <div id="createProfileConf" class="createProfileConf">
             <div class="topDropConfTxt">
@@ -477,8 +480,8 @@ $(document).ready(function(){
                 <div class="topDropTxt11PX">
                      Your Projects Profile has been set up and you can now save items around the site and they will be saved beyond this session!
                 </div>
-                    
-                
+
+
             </div>
             <div class="topDropHline">&nbsp;<!--CR508567-/2 --></div>
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
@@ -494,9 +497,9 @@ $(document).ready(function(){
             <div class="spacer5PX">&nbsp;<!--CR508567-/2 --></div>
         </div>
         <!-- end create profile confirmation   -->
-        
-        
-        
+
+
+
         <!-- change profile   -->
         <div id="changeProfile" class="changeProfile">
             <div class="topDropH">
@@ -515,7 +518,7 @@ $(document).ready(function(){
                         To change your <strong>password</strong>, enter your old password and a new one and click Update Profile.
                     </div>
                 </div>
-                
+
                 <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
                 <span id="changeProfilePWDInput0">
                 <input type="text" name="changeProfileOldPWD" id="changeProfileOldPWD" class="topDropInput" value="Old Password" onfocus="javascript: topNav.changeProfilePWDOnFocus(1,this, 'changeProfileError')" onblur="javascript: topNav.changeProfilePWDOnBlur(1,this, 'changeProfileError')">
@@ -524,22 +527,22 @@ $(document).ready(function(){
                 <input type="text" name="changeProfileNewPWD" id="changeProfileNewPWD" class="topDropInput" value="New Password" onfocus="javascript: topNav.changeProfilePWDOnFocus(2,this, 'changeProfileError')" onblur="javascript: topNav.changeProfilePWDOnBlur(2,this, 'changeProfileError')">
                 </span>
                 <span id="changeProfilePWDInput2">
-                <input type="text" name="changeProfileConfPWD" id="changeProfileConfPWD" class="topDropInput" value="Confirm New Password" onfocus="javascript: topNav.changeProfilePWDOnFocus(3,this, 'changeProfileError')" onblur="javascript: topNav.changeProfilePWDOnBlur(3,this, 'changeProfileError')">  
+                <input type="text" name="changeProfileConfPWD" id="changeProfileConfPWD" class="topDropInput" value="Confirm New Password" onfocus="javascript: topNav.changeProfilePWDOnFocus(3,this, 'changeProfileError')" onblur="javascript: topNav.changeProfilePWDOnBlur(3,this, 'changeProfileError')">
                 </span>
-                
+
                 <div class="spacer5PX">&nbsp;<!--CR508567-/2 --></div>
                 <div class="row100Perc">
                     <div class="topDropTxt11PX">
                         To change your <strong>name</strong> enter a new first or last name and click Update Profile.
                     </div>
                 </div>
-                
+
                 <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
                 <input type="text" name="changeProfileFN" id="changeProfileFN" class="topDropInput" value="First Name" onfocus="javascript: topNav.changeProfileClearFields(0,this, 'changeProfileError')" onblur="javascript: topNav.changeProfileClearFields(0,this, 'changeProfileError')">
                 <input type="text" name="changeProfileLN" id="changeProfileLN" class="topDropInput" value="Last Name" onfocus="javascript: topNav.changeProfileClearFields(1,this, 'changeProfileError')" onblur="javascript: topNav.changeProfileClearFields(1,this, 'changeProfileError')">
-                
+
             </div>
-                    
+
             <div class="topDropPrivacy">
                 Our <a href="/en/privacy-policy/index.html">Privacy Policy</a> protects you.
             </div>
@@ -549,33 +552,33 @@ $(document).ready(function(){
             </div>
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
             <div class="row100Perc">
-                <input type="checkbox" name="changeProfileMe" id="changeProfileMe" value="true" checked="checked" class="topDropCB"> 
+                <input type="checkbox" name="changeProfileMe" id="changeProfileMe" value="true" checked="checked" class="topDropCB">
                 <div class="topDropCBTxt">
                     Remember me when I return
                 </div>
             </div>
             <div class="row100Perc">
-                <input type="checkbox" name="changeProfileOffers" id="changeProfileOffers" class="topDropCB"> 
+                <input type="checkbox" name="changeProfileOffers" id="changeProfileOffers" class="topDropCB">
                 <div class="topDropCBTxt">
                     Sign me up for Valspar Coupons, offers and news
                 </div>
             </div>
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
             <div class="topDropBtns">
-                
+
                 <div class="cancelBtn" onmousedown="javascript: topNav.myProfileShowHide('signInConf','changeProfile'); void(0);">
                     cancel
                  </div>
-                 
+
                  <div class="topNavVSpacer">&nbsp;<!--CR508567-/2 --></div>
-                 
+
                 <div class="buttonsLM25CN" onmousedown="javascript: topNav.changeProfile();void(0);">
                     update profile
                  </div>
-            
+
             </div>
-            
-            
+
+
             <div class="topDropHline">&nbsp;<!--CR508567-/2 --></div>
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
             <div id="signOutError3" class="topNavErrorDivOff"></div>
@@ -585,8 +588,8 @@ $(document).ready(function(){
             <div class="spacer5PX">&nbsp;<!--CR508567-/2 --></div>
         </div>
         <!-- end change profile  -->
-        
-        
+
+
         <!-- change profile confirmation   -->
         <div id="changeProfileConf" class="changeProfileConf">
 
@@ -608,9 +611,9 @@ $(document).ready(function(){
             <div class="spacer5PX">&nbsp;<!--CR508567-/2 --></div>
         </div>
         <!-- end change profile confirmation   -->
-        
-        
-        
+
+
+
         <!-- Forget Password   -->
 
         <div id="forgetPWD" class="forgetPWD">
@@ -621,28 +624,28 @@ $(document).ready(function(){
                 To retrieve your password and have it emailed to you, please, enter the email address you used when you set up your Profile.    </div>
             <div id="forgetPWDError" class="topNavErrorDivOff"></div>
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
-            <input type="text" name="forgetPWDEmail" id="forgetPWDEmail" class="topDropInput" value="Email Address" onfocus="javascript: topNav.forgetPWDClear(0,this, 'forgetPWDError')" onblur="javascript: topNav.forgetPWDClear(0,this, 'forgetPWDError')">         
+            <input type="text" name="forgetPWDEmail" id="forgetPWDEmail" class="topDropInput" value="Email Address" onfocus="javascript: topNav.forgetPWDClear(0,this, 'forgetPWDError')" onblur="javascript: topNav.forgetPWDClear(0,this, 'forgetPWDError')">
             <div class="topDropPrivacy">
 
                 Our <a href="/en/privacy-policy/index.html">Privacy Policy</a> protects you.
             </div>
-            
+
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
             <div class="topDropBtns">
-                
+
                 <div class="cancelBtn" onmousedown="javascript: topNav.myProfileShowHide('signIn','forgetPWD'); void(0);">
                     cancel
                  </div>
-                 
+
                  <div class="topNavVSpacer">&nbsp;<!--CR508567-/2 --></div>
-                 
+
                 <div class="buttonsLM25CN" onmousedown="javascript: topNav.forgetPWD();void(0);">
                     submit
                  </div>
-            
+
             </div>
-            
-            
+
+
             <div class="topDropHline">&nbsp;<!--CR508567-/2 --></div>
 
             <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
@@ -652,7 +655,7 @@ $(document).ready(function(){
             <div class="spacer5PX">&nbsp;<!--CR508567-/2 --></div>
         </div>
         <!-- end Forget Password  -->
-        
+
         <!-- Forget Password confirmation   -->
         <div id="forgetPWDConf" class="forgetPWDConf">
             <div class="topDropConfTxt">
@@ -671,9 +674,9 @@ $(document).ready(function(){
             <div class="spacer5PX">&nbsp;<!--CR508567-/2 --></div>
         </div>
         <!-- end Forget Password confirmation   -->
-    
-    <!-- end content  -->    
-    
+
+    <!-- end content  -->
+
     </td>
 
     <td class="topDropTDR">&nbsp;<!--CR508567-/2 --></td>
@@ -690,63 +693,8 @@ $(document).ready(function(){
 
 
 
-<!-- search DropDown menu -->
-<div id="menuSearch" class="menuSearch" style="position: absolute; visibility: hidden;">
-<table width="263" height="100%" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="20" height="20"><img src="/resources/valspar/img/BG_topDropTL.png" width="20" height="20" alt=""><br></td>
-    <td><img src="/resources/valspar/img/BG_topDropSearchT.png" width="232" height="20" alt=""><br></td>
-    <td width="20" height="20"><img src="/resources/valspar/img/BG_topDropTR.png" width="20" height="20" alt=""><br></td>
-  </tr>
-
-  <tr>
-    <td class="topDropTDL" height="100%">&nbsp;<!--CR508567-/2 --></td>
-    <td class="topDropTDMB">
-    <!-- content  -->
-    
- 
-
-	<form action=" http://search.valspar.com:8765/c001_valsparpaint_query.html" method="POST" name="topnavSearch" id="topnavSearch">
-   
-            <div class="row100Perc">
-                <input type="hidden" name="si" value="0">
-                <input type="hidden" value="valpaint" name="col">
-                
-                
-                	<input type="hidden" value="site:www.valsparpaint.com" name="qp">
-                
-                <input type="text" name="qt" id="searchString" class="searchThis" value="Enter search keywords" onfocus="javascript: inputFields.onFocus(this, {label:'Enter search keywords', value:this.value})" onblur="javascript: inputFields.onBlur(this, {label:'Enter search keywords', value:this.value})" tabindex="1">
-                <div class="spacer5PX">&nbsp;<!--CR508567-/2 --></div>
-            </div>
-
-			<div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
-            <div class="row100PercAR">
-              	<button type="RESET" class="cancelBtnFN">clear</button>
-            	<button class="buttonsFN" type="submit">go</button>
-            </div>
-</form>            
-            
-        
-        
-        
-<!-- end content  -->    
-</td>
-
-    <td class="topDropTDR" height="100%">&nbsp;<!--CR508567-/2 --></td>
-  </tr>
-  <tr>
-    <td width="20" height="20"><img src="/resources/valspar/img/BG_topDropBL.png" width="20" height="20" alt=""><br></td>
-    <td background="/resources/valspar/img/BG_topDropB.png">&nbsp;<!--CR508567-/2 --></td>
-    <td width="20" height="20"><img src="/resources/valspar/img/BG_topDropBR.png" width="20" height="20" alt=""><br></td>
-  </tr>
-</tbody></table>
-</div>
-
-<!-- end search DropDown menu -->
-
-
 <!-- end Retail locator menu -->
-<div id="menuRetail" class="menuRetail" style="position: absolute; visibility: hidden;">
+<div id="menuRetail" class="menuRetail">
 <table width="263" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td width="20" height="20"><img src="/resources/valspar/img/BG_topDropTL.png" width="20" height="20" alt=""><br></td>
@@ -759,25 +707,16 @@ $(document).ready(function(){
     <td class="topDropTDMB">
     <!-- content  -->
       <form name="topNavDealer" method="get" action="/en/search/find-a-retailer.html" onsubmit="return topNav.findARetailer('Enter ZIP Code');">
-            <div class="row100Perc">
-                
-                <input type="text" name="zip" id="findARetailerZipCode" class="searchThis" value="Enter ZIP Code" onfocus="javascript: inputFields.onFocus(this, {label:'Enter ZIP Code', value:this.value})" onblur="javascript: inputFields.onBlur(this, {label:'Enter ZIP Code', value:this.value})" tabindex="1">
-                 
-            </div>
-            <div class="spacer10PX">&nbsp;<!--CR508567-/2 --></div>
-            <div class="row100PercAR">
-                
-                
-                    
+
+         <input type="text" name="zip" id="findARetailerZipCode" class="searchThis" value="Enter ZIP Code" onfocus="javascript: inputFields.onFocus(this, {label:'Enter ZIP Code', value:this.value})" onblur="javascript: inputFields.onBlur(this, {label:'Enter ZIP Code', value:this.value})" tabindex="1">
+
           <button class="buttonsFN" type="submit">
           	go
-          </button>             
-                 
-                 <div class="spacer15PX">&nbsp;<!--CR508567-/2 --></div>
-             </div>
-      </form>    
-        
- <!-- end content  -->    
+          </button>
+
+      </form>
+
+ <!-- end content  -->
 </td>
 
     <td class="topDropTDR">&nbsp;<!--CR508567-/2 --></td>
@@ -795,7 +734,7 @@ $(document).ready(function(){
 
 
 <!--  explore colors dropdown menu -->
-<div id="menuNavB-A" class="menuPaintLikePro" style="position: absolute; visibility: hidden;">
+<div id="menuNavB-A" class="menuPaintLikePro">
     <div class="BG_navB-ATop">&nbsp;<!--CR508567-/2 --></div>
     <div class="BG_navB-AMiddle">
         <a href="javascript: checkValsparUserCookie ( '/en/explore-colors/color-selector/index.html' ); void(0);" class="navBHref">Color Selector</a>
@@ -805,44 +744,59 @@ $(document).ready(function(){
         <a href="/en/explore-colors/find-ideas/index.html" class="navBHref">Find Ideas</a>
         <div class="navB-AHline">&nbsp;<!--CR508567-/2 --></div>
         
-        <a href="/en/explore-colors/sample-store/index.html" class="navBHrefBottom">Purchase Samples</a>
+        <a href="/en/explore-colors/sample-store/index.html" class="navBHref">Purchase Samples</a>
+     	
+     	
+     		<div class="navB-AHline">&nbsp;<!--CR508567-/2 --></div>
+     		<a href="/en/explore-colors/find-ideas/find-ideas-search.html" class="navBHrefBottom">Search Ideas Library</a>
+
      	
      </div>
-    
+
     <div class="BG_navB-ABottom">&nbsp;<!--CR508567-/2 --></div>
 </div>
 <!-- end  explore colors dropdown menu -->
 
 <!-- find the right product dropdown menu -->
-<div id="menuNavB-B" class="menuPaintLikePro" style="position: absolute; visibility: hidden;">
+<div id="menuNavB-B" class="menuPaintLikePro">
     <div class="BG_navB-BTop">&nbsp;<!--CR508567-/2 --></div>
     <div class="BG_navB-BMiddle">
         <a href="/en/find-the-right-product/interior/" class="navBHref">Interior</a>
         <div class="navB-BHline">&nbsp;<!--CR508567-/2 --></div>
+      
         <a href="/en/find-the-right-product/exterior/" class="navBHref">exterior</a>
         <div class="navB-BHline">&nbsp;<!--CR508567-/2 --></div>
-        
       
-        <a href="/en/find-the-right-product/contractor-products/" class="navBHrefBottom">contractor</a>
+      
+        <a href="/en/find-the-right-product/contractor-products/" class="navBHref">contractor</a>
         <div class="navB-BHline">&nbsp;<!--CR508567-/2 --></div>
       
-        
-        <a href="/en/find-the-right-product/video.html" class="navBHrefBottom">Product Videos</a>     </div>
+      
+        <a href="/en/find-the-right-product/video.html" class="navBHref">Product Videos</a>
+        <div class="navB-BHline">&nbsp;<!--CR508567-/2 --></div>
+      	<a href="/en/find-the-right-product/product-search.html" class="navBHrefBottom">Search Product Library</a>
+      
+    </div>
     <div class="BG_navB-BBottom">&nbsp;<!--CR508567-/2 --></div>
 </div>
 <!-- end find the right product dropdown menu -->
 
 <!-- paint like a pro dropdown menu -->
-<div id="menuNavB-C" class="menuPaintLikePro" style="position: absolute; visibility: hidden;">
+<div id="menuNavB-C" class="menuPaintLikePro">
     <div class="BG_navB-CTop">&nbsp;<!--CR508567-/2 --></div>
     <div class="BG_navB-CMiddle">
         <a href="/en/how-to/interior/index.html" class="navBHref">interior</a>
+        
+        	<div class="navB-CHline">&nbsp;<!--CR508567-/2 --></div>
+        	<a href="/en/how-to/exterior/index.html" class="navBHref">exterior</a>
+        
         <div class="navB-CHline">&nbsp;<!--CR508567-/2 --></div>
-        <a href="/en/how-to/exterior/index.html" class="navBHref">exterior</a>
-        <div class="navB-CHline">&nbsp;<!--CR508567-/2 --></div>
-        <a href="javascript: trackPaintCalculatorClicked(); createNewEstimator();void(0);" class="navBHrefBottom">paint calculator</a>
-        <div class="navB-CHline">&nbsp;<!--CR508567-/2 --></div>
-        <a href="/en/how-to/videos/index.html" class="navBHrefBottom">How-to Videos</a>
+        <a href="javascript: void(0);" onclick="trackPaintCalculatorClicked(); createNewEstimator();" id="paintCalc" class="navBHrefBottom">paint calculator</a>
+
+        
+        	<div class="navB-CHline">&nbsp;<!--CR508567-/2 --></div>
+        	<a href="/en/how-to/videos/index.html" class="navBHrefBottom">How-to Videos</a>
+        
     </div>
     <div class="BG_navB-CBottom">&nbsp;<!--CR508567-/2 --></div>
 </div>
@@ -851,16 +805,307 @@ $(document).ready(function(){
 
 
 
+<!-- end top navigation -->
+
+	        
+        </td>
+  </tr>
+  <tr>
+        <td align="left" valign="top" width="100%">
+            
+
+
+
+
+
+
+
+	<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center" class="rightProductWin">
+		<tbody><tr>
+			<td valign="top" width="100%">
+				<div class="privacyRow">
+					<div class="h2Header">Privacy Policy</div>
+					<div class="privacyTxt">
+						<p>
+							We respect your right to privacy. This policy summarizes what personally identifiable 
+							information we may collect, and how we might use this information. This policy also 
+							describes other important topics relating to your privacy.
+						</p>
+						<p>
+							<strong>Information Collection</strong><br>
+							We will collect personally identifiable information (such as name, title, company name, 
+							address, telephone number, or e-mail address) that you voluntarily provide through our 
+							web site, computer application or e-mail correspondence. We will collect general 
+							information (such as the type of browser you use, the files you request, and the 
+							domain name and country from which you request information) to improve our web site 
+							and better meet your needs.
+						</p>
+						<p>
+							If you enter into a transaction (such as a purchase) at this website or via our 
+							computer application, you will be required to provide information that is needed to 
+							complete the transaction, including your name, shipping address, product selection(s), 
+							and your payment information. We do not keep any credit or other payment information 
+							longer than is necessary in order to comply with legal, tax, and auditing requirements. 
+							In some instances, your payment information may be handled by a third party provider. 
+							When this occurs, we will never receive that information.
+						</p>
+						<p>
+							Other information you provide may be added to our company database(s) and shared with 
+							our affiliates or third parties including contractors, dealers, distributors and retailers.
+						</p>
+						<p>
+							We may passively collect information that is automatically sent to us by your web 
+							browser, this application or your internet service provider or mobile carrier. This 
+							information typically includes your domain name, your user name, and your numerical IP 
+							address. The amount of information sent by your web browser depends on its settings. 
+							Please refer to your browser if you want to learn what information it sends. We use 
+							this type of information to see which web pages you visit at our website, which 
+							website you visited before coming to our website, and where you go after you leave our 
+							website. We can then develop statistics that help us understand how our visitors use 
+							our website and how we can improve it.
+						</p>
+						<p>
+							We may actively obtain information about you by installing a marker on your computer 
+							commonly called a "cookie." Cookies enable us to know you by a computer-generated, 
+							unique identifier. By providing you with a unique cookie, we are able to create a 
+							database of your previous choices and preferences, and in situations where these 
+							choices or preferences need to be collected again; they can be supplied by us 
+							automatically, saving you time and effort. For example, after you purchase a product 
+							once, if you need to purchase it again, your previous selections for color or other 
+							features will have been retained, and can be reentered more quickly. Your computer may 
+							be specially configured to reject cookies; please refer to your browser for more 
+							information. Many of our websites will allow you to visit without accepting cookies, 
+							but some features of our websites may not work properly if you choose to reject cookies.
+						</p>
+						<p>
+							Some of our sites and our computer applications may use third-party advertising 
+							technology to serve ads when you visit our website and sites upon which we advertise. 
+							This technology uses information about your visits to this website, your use of our 
+							application and the sites upon which we advertise, to serve our ads to you. In the 
+							course of serving our advertisements to you, a unique third-party cookie may be placed 
+							or recognized on your browser or device. In addition, these sites may use web beacons, 
+							provided by our third-party ad server, to help manage and optimize our online 
+							advertising. These web beacons enable our ad server, on our behalf or on behalf of our 
+							agent, to recognize a browser's cookie when a browser visits this site, and to learn 
+							which banner ads bring users to our website. Our third-party ad server is performing 
+							its functions on our behalf or on behalf of our agent, and we may, directly or 
+							indirectly, instruct such ad server to enable other service providers to receive 
+							information about our site related to our online advertising.
+						</p>
+						<p>
+							<strong>Use of Information</strong><br>
+							The information will be used by us, e.g., to respond to your inquiries, supply you 
+							with requested information on our products and services or track orders you place with 
+							us. In addition, authorized third parties may be utilized by us to collect, track and 
+							process such information. If you have submitted personal information to us 
+							electronically and would like it removed or modified, please contact us by 
+							<a href="mailto:privacy@valspar.com">clicking here</a>. We will use 
+							reasonable efforts to comply with your request. It may be necessary, if required by 
+							law or if pertinent to judicial or governmental investigations, to release your 
+							personally identifiable information. Although we have taken reasonable and prudent 
+							measures to protect its computer systems from unauthorized third parties, we are not 
+							responsible for unauthorized use by such third parties of your personally identifiable 
+							information.
+						</p>
+						<p>
+							We may use any of the information gathered at this website (other than credit 
+							information) for any legal purpose. We may analyze personal information for historical, 
+							statistical or scientific purposes, or we may store the personal information for your 
+							convenience should you return to this website or our computer applications in the 
+							future. In the course of any of these activities, we may transmit any of the 
+							information we have collected to another country or share it with our affiliates or 
+							third parties including contractors, dealers, distributors and retailers. An example 
+							of a third party that could receive your personal information is a data processing 
+							contractor that operates computer systems on our behalf. Whenever any personal 
+							information is transferred to an affiliate or third party, that party will be 
+							contractually bound to abide by our privacy policy.
+						</p>
+						<p>
+							We may also use your personal information to investigate security breaches or 
+							cooperate with government authorities pursuant to a legal matter. Personal information 
+							collected online may also be combined with information you have provided to us through 
+							other sources such as product registrations, call centers, or publicly such as at 
+							trade shows or seminars.
+						</p>
+						<p>
+							In addition, we may have collected similar information from you in the past, before 
+							our Privacy Policy took effect. By using this website or our computer application you 
+							agree to the terms of this privacy policy. By agreeing to the terms of this privacy 
+							policy you are consenting to our continued use of previously collected information 
+							under the terms of this privacy policy.
+						</p>
+						<p>
+							<strong>Children and Parents</strong><br>
+							We do not intend to collect personally identifiable information from children without 
+							permission of the child's parent or legal guardian. Children should submit personally 
+							identifiable information to us only with the explicit permission of their parent or 
+							legal guardian. Where appropriate, we will instruct children not to submit personal 
+							information. If your child has submitted personal information and you would like to 
+							request that such information be removed, you may do so as indicated above, and we 
+							will use reasonable efforts to comply with your request.
+						</p>
+						<p>
+							<strong>Other Important Information</strong><br>
+							This web site or computer application may contain links to other sites. We do not endorse 
+							or otherwise accept responsibility for the content or privacy policies of those sites.
+						</p>
+						<p>
+							We are a global company with websites and computer facilities located in many 
+							countries. People from almost anywhere in the world can access our websites or 
+							computer applications. We comply with the law of the country where our websites or 
+							computer applications are located or directed. You should be aware, however, that when 
+							you submit your Personal Information to one of our websites or via a computer 
+							application, (a) that information may go to a country that has different privacy laws 
+							than your home country, and (b) it will be handled in accordance with the laws of the 
+							country where the site or computer application is hosted, but not necessarily with the 
+							law of your country.
+						</p>
+						<p>
+							We reserve the right to modify this privacy policy at any time. We will promptly 
+							reflect any such modifications in these Web pages.
+						</p>
+						<p>
+							To learn more about our third-party ad-serving partner, cookies and how to "Opt-out", 
+							please <a href="http://www.google.com/privacy/ads/" target="_blank">click here</a>.
+						</p>
+					</div>
+				</div>
+			</td>
+		</tr>
+	</tbody></table>
+
+        </td>
+  </tr>
+  <tr>
+        <td valign="top" width="100%">
+      		
+        	    
+
+<!-- bottom navigation  -->
+<div class="footer">
+	<ul class="topFooterRow">
+		<li class="socmed">
+			<!-- AddThis Button BEGIN -->
+			<div class="addthis_toolbox addthis_default_style " addthis:url="http://www.valsparpaint.com">
+				
+					<a id="fb1" onclick="trackFBClicks(this.href);" class="addthis_button_facebook" addthis:url="http://facebook.com/valsparpaint"></a>
+		    		<a id="tw1" onclick="trackTweedClicks(this.href);" class="addthis_button_twitter" addthis:url="http://twitter.com/Valspar_Paint"></a>
+				
+					<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+					<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+					<a class="addthis_button_compact"></a>
+			</div>
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e67aae47555c245"></script>
+			<!-- AddThis Button END -->
+		</li>
+		
+			<li class="emailsubscribe">
+				<form onsubmit="return false;">
+					<label>For e-news &amp; special offers </label>
+					<input type="text" name="emailsignup" onfocus="this.value='';" value="Enter Email Address"><button id="emailButton" class="formBtn"></button>
+				</form>
+			</li>
+		
+		<li><a href="/en/about-us/index.html">About Us</a></li>
+		
+			<li><a href="/en/about-us/news/index.html">News</a></li>
+		
+		<li><a href="/en/safety-info/index.html">Safety</a></li>
+		<li><a href="/en/contact-us/index.html">Contact Us</a></li>
+		
+		
+		<li class="pullDown">
+			<form id="chooseCountry" name="chooseCountry">
+				<select id="Country" onchange="javascript:document.location.href = this.options[this.selectedIndex].value" class="formsMenuContent" name="Country">
+					<option selected="" value="#">Choose Country</option>
+					<option value="http://www.valsparpaint.co.uk/en/index.html">United Kingdom</option>
+					<option value="http://www.valsparpaint.com/en/index.html">United States</option>					
+				</select>
+			</form>
+		</li>
+		
+	</ul>
+	<div class="clearLeft"></div>		
+	<div class="bottomNavHline"></div>
+	<p class="copyrightLine">©
+		<script language="JavaScript">var now=new Date();document.write(now.getFullYear());</script>2020
+		Valspar Corporation. All Rights Reserved.
+	</p>
+	
+		<ul class="bttmFooterRow">
+			<li><a href="/en/site-map/index.html">Sitemap</a></li>
+			<li><a href="/en/terms-of-use/index.html">Terms of Use</a></li>
+			<li><a href="/en/privacy-policy/index.html">Privacy</a></li>
+			<li id="bottomNavCorp" class="bottomNavHrefCorp"><a href="http://valsparglobal.com">Valspar Corporate</a></li>
+		</ul>
+	
+	<div class="clearLeft"></div>			
+	<p>
+		
+			Computer screens and printers vary in how colors are displayed. Colors which display on
+			the screen and printed colors may not match the paint's actual color.
+		
+	</p>
+				
+</div>
+
+<!-- dropdown menu for valspar corporate  -->
+<div id="menuCorporate" class="menuCorporate">
+	<div class="spacer3PX">&nbsp;<!--CR508567-startslash--></div>
+	<div class="menuCorporateHref"><a href="javascript:void(0);" onclick="window.open('http://www.valsparglobal.com/careers/');">Careers</a></div>
+	<div class="menuCorporateHref"><a href="javascript:void(0);" onclick="window.open('http://myaccount.valspar.com');">Corporate Login</a></div>
+	<div class="menuCorporateHref"><a href="javascript:void(0);" onclick="window.open('http://investors.valspar.com/phoenix.zhtml?c=80086&amp;p=irol-irhome');">Investors</a></div>
+	<div class="menuCorporateHref"><a href="javascript:void(0);" onclick="window.open('http://www.valsparglobal.com/about/social_responsibility_sustainability.jsp');">Social Responsibility &amp; Sustainability</a></div>
+	<div class="menuCorporateHref"><a href="javascript:void(0);" onclick="window.open('http://www.valsparglobal.com/brands/');">Valspar Products &amp; Services</a></div>
+	<div class="spacer3PX">&nbsp;<!--CR508567-startslash--></div>
+	<div class="menuCorporateHline">&nbsp;<!--CR508567-startslash--></div>
+</div>
+
+
+            
+
+        </td>
+  </tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- top nav in header main -->
+
+<script type="text/javascript" src="/resources/valspar/js/topNav-min.js"></script>
+<script type="text/javascript" src="/resources/valspar/js/vServices-min.js"></script>
+
+
 <script language="javascript">
+	$('#emailButton').click(function(){VServiceOptIn('1001', $('input[name=emailsignup]').val())});
+
+
     topNav.attach("btnCreateProfile", "menuCreateProfile", "hover", "y", "hand");
-    topNav.attach("topNavBtnSearch", "menuSearch", "hover", "y", "hand");
+    //topNav.attach("topNavBtnSearch", "menuSearch", "hover", "y", "hand");
+    
+    topNav.attach("bottomNavCorp", "menuCorporate", "hover", "y", "hand");
+    
 	 topNav.attach("topNavBtnRetailer", "menuRetail", "hover", "y", "hand");  
     topNavB.attach("navB-A", "menuNavB-A", "hover", "y", "hand");
     topNavB.attach("navB-B", "menuNavB-B", "hover", "y", "hand");
     topNavB.attach("navB-C", "menuNavB-C", "hover", "y", "hand");
+
 </script>
-
-
 
 <script language="javascript">
     // sets the top nav welcome message
@@ -880,180 +1125,77 @@ $(document).ready(function(){
                                             1001 );
 
         topNav.setUserWelcome();
-        
+
         if (vReqBean.isUserLoggedIn()) {
         	    (function(){  valOmniture.evar11 = "18769166"; })(); //JT: set user id
-           topNav.myProfileShowHide('signInConf','signIn');
+           topNav.myProfileShowHide('signInConf','signIn');  //display signout if logged in
         }
     
 
     // sets the quick look hover action for all the panels
-    
-    
+</script>
+<script type="text/javascript">
+//JT: set omniture variables
+(function(){
+	var arrB = $(".bclink");
+	for(var i=0;i<arrB.length;i++){
+	  var h = $(arrB[i]).html();
+	  valOmniture.hier1 += ((valOmniture.hier1 === "")?"":"|")+h;
+	  if(i==1) valOmniture.prop2 = h; //site section
+	  else if(i==2) valOmniture.prop3 = h; //sub section
+	}
+})();
+//JT: cart caching
+$(document).ready(function(){
+   function checkCartCache()
+   {
+	//alert( isNaN( getCookie('valpaintcart') ) );
+	if( getCookie('valpaintcart') != "") {
+	           var items = 0;//0;
+		items = (items < getCookie('valpaintcart'))?getCookie('valpaintcart'):items;
+		if((items > 0)&&(getCookie('valpaintcart')!="")) {
+			$(".cart-E").css('display','none');
+		        $(".cart-B").css('display','inline');
+		        $(".cart-A").css('display','inline');
+		        $(".cart-B").html('['+items+']').attr('title','Cart Items:'+items);
+	        } else {
+	            $(".cart-E").css('display','block').attr('title','Cart Items:'+items);
+                    $(".cart-B").css('display','none');
+                    $(".cart-A").css('display','none');
+	        }
+        } else {
 
+                $(".cart-E").css('display','block').attr('title','Cart Empty');
+                    $(".cart-B").css('display','none');
+                    $(".cart-A").css('display','none');
+        }
+
+    }
+
+    checkCartCache();
+
+});
 </script>
 
-<!-- end top navigation -->
- 
-	        
-        </td>
-  </tr>
-  <tr>
-        <td align="left" valign="top" width="100%">
-            
+<!-- ************************* end top nav ************************************ -->
+
+
+<script type="text/javascript" src="/resources/valspar/js/master-min.js"></script> <!-- get cookie -->
+<script type="text/javascript" src="/resources/valspar/js/overlayWindow-min.js"></script>
+<!-- paint calculator : links to print, shopping list, save, email -->
+<script type="text/javascript" src="/resources/valspar/js/emailPopup-min.js"></script>
+<script type="text/javascript" src="/resources/valspar/js/printPopup-min.js"></script>
+<script type="text/javascript" src="/resources/valspar/js/shoppingList-min.js"></script>
+<script type="text/javascript" src="/resources/valspar/js/jquery.json-2.2.min.js"></script>
+<script type="text/javascript" src="/resources/valspar/js/estimator-min.js"></script> 
+<!-- misc -->
+<script type="text/javascript" src="/resources/valspar/js/iepngfix_tilebg-min.js"></script>
 
 
 
 
-
-
-
-<table width="1000" border="0" cellspacing="0" cellpadding="0" align="center" class="rightProductWin">
-<tbody><tr><td valign="top" width="100%">
-    
-   <div class="privacyRow">
-        <div class="h2Header">
-            Privacy Policy
-        </div>
-        <div class="privacyTxt">
-            <p>
-                Valspar respects your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy.
-            </p>
-            <p>
-                <strong>Information Collection</strong><br>
-Valspar will collect personally identifiable information (such as name, title, company name, address, telephone number, or e-mail address) that you voluntarily provide through our web site or e-mail correspondence. We will collect general information (such as the type of browser you use, the files you request, and the domain name and country from which you request information) to improve our web site and better meet your needs.
-            </p>
-            <p>
- If you enter into a transaction (such as a purchase) at this website, you will be required to provide information that is needed to complete the transaction, including your name, shipping address, product selection(s), and your payment information. We do not keep any credit or other payment information longer than is necessary in order to comply with legal, tax, and auditing requirements. 
-            </p>
-            <p>
- Other information you provide may be added to our company database(s) and shared with Valspar affiliates or third parties including contractors, dealers, distributors and retailers.
-            </p>
-            <p>
- We may passively collect information that is automatically sent to us by your web browser or your internet service provider. This information typically includes your domain name, your user name, and your numerical IP address. The amount of information sent by your web browser depends on its settings. Please refer to your browser if you want to learn what information it sends. We use this type of information to see which web pages you visit at our website, which website you visited before coming to our website, and where you go after you leave our website. We can then develop statistics that help us understand how our visitors use our website and how we can improve it.
-            </p>
-            <p>
- We may actively obtain information about you by installing a marker on your computer commonly called a "cookie." Cookies enable us to know you by a computer-generated, unique identifier. By providing you with a unique cookie, we are able to create a database of your previous choices and preferences, and in situations where these choices or preferences need to be collected again; they can be supplied by us automatically, saving you time and effort. For example, after you purchase a product once, if you need to purchase it again, your previous selections for color or other features will have been retained, and can be reentered more quickly. Your computer may be specially configured to reject cookies; please refer to your browser for more information. Many Valspar websites will allow you to visit without accepting cookies, but some features of our websites may not work properly if you choose to reject cookies.
-            </p>
-            <p>
- Some of our sites may use third-party advertising technology to serve ads when you visit our website and sites upon which we advertise. This technology uses information about your visits to this website and the sites upon which we advertise, to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, these sites may use web beacons, provided by our third-party ad server, to help manage and optimize our online advertising. These web beacons enable our ad server, on our behalf or on behalf of our agent, to recognize a browser's cookie when a browser visits this site, and to learn which banner ads bring users to our website. Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising.           
-            </p>
-            <p>
-                <strong>Use of Information</strong><br>
-The information will be used by Valspar, e.g., to respond to your inquiries, supply you with requested information on Valspar products and services or track orders you place with Valspar. In addition, authorized third parties may be utilized by Valspar to collect, track and process such information at <a href="mailto:privacy@valspar.com">privacy@valspar.com</a>. If you have submitted personal information to Valspar electronically and would like it removed or modified, please <a href="../../../en/contact-us/index.html">contact us</a>. We will use reasonable efforts to comply with your request. It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information. Although Valspar has taken reasonable and prudent measures to protect its computer systems from unauthorized third parties, Valspar is not responsible for unauthorized use by such third parties of your personally identifiable information.
-            </p>
-            <p>
- Valspar may use any of the information gathered at this website (other than credit information) for any legal purpose. We may analyze personal information for historical, statistical or scientific purposes, or we may store the personal information for your convenience should you return to this website in the future. In the course of any of these activities, we may transmit any of the information we have collected to another country or share it with Valspar affiliates or third parties including contractors, dealers, distributors and retailers. An example of a third party that could receive your personal information is a data processing contractor that operates computer systems on our behalf. Whenever any personal information is transferred to an affiliate or third party, that party will be contractually bound to abide by our privacy policy.
-            </p>
-            <p>
- We may also use your personal information to investigate security breaches or cooperate with government authorities pursuant to a legal matter. Personal information collected online may also be combined with information you have provided to Valspar through other sources such as product registrations, call centers, or publicly such as at trade shows or seminars.
-            </p>
-            <p>
- In addition, we may have collected similar information from you in the past, before our Privacy Policy took effect. By using this website you agree to the terms of this privacy policy. By agreeing to the terms of this privacy policy you are consenting to our continued use of previously collected information under the terms of this privacy policy.
-            </p>
-            <p>
-                <strong>Children And Parents</strong><br>
-Valspar does not intend to collect personally identifiable information from children without permission of the child's parent or legal guardian. Children should submit personally identifiable information to Valspar only with the explicit permission of their parent or legal guardian. Where appropriate, Valspar will instruct children not to submit personal information. If your child has submitted personal information and you would like to request that such information be removed, you may do so as indicated above, and Valspar will use reasonable efforts to comply with your request.
-            </p>
-            <p>
-                <strong>Other Important Information</strong><br>
-The Valspar web site may contain links to other sites. We do not endorse or otherwise accept responsibility for the content or privacy policies of those sites.
-            </p>
-            <p>
-Valspar is a global company with websites and computer facilities located in many countries. People from almost anywhere in the world can access our websites. We comply with the law of the country where our websites are located or directed. You should be aware, however, that when you submit your Personal Information to a Valspar website, (a) that information may go to a country that has different privacy laws than your home country, and (b) it will be handled in accordance with the laws of the country where the site is located, but not necessarily with the law of your country.
-            </p>
-            <p>
- Valspar reserves the right to modify this privacy policy at any time. We will promptly reflect any such modifications in these Web pages.
-            </p>
-            <p>
- To learn more about our third-party ad-serving partner, cookies and how to "Opt-out", please <a href="http://www.doubleclick.com ">click here</a>.
-            </p>
-        </div>
-  
-   </div>
-
-
-</td></tr></tbody></table>
-
-
-
-        </td>
-  </tr>
-  <tr>
-        <td valign="top" width="100%">
-      		
-        	    
-
-
-<!-- bottom navigation  -->
-<table width="1000" border="0" cellspacing="0" cellpadding="0" class="rightProductWin" align="center">
-<tbody><tr><td valign="top">
-
-
-    <div class="bottomNavRow">
-        <div class="bottomNavCol">
-            <div class="bottomNavHref"><a href="/en/index.html">Home</a></div>
-          
-            <div class="bottomNavHref"><a href="/en/about-us/index.html">About Us</a></div>
-          
-            <div class="bottomNavHref"><a href="/en/site-map/index.html">Sitemap</a></div>
-          
-            <div class="bottomNavHref"><a href="/en/about-us/news/index.html">News</a></div>
-          
-            <div class="bottomNavHref"><a href="/en/safety-info/index.html">Safety</a></div>
-            <div class="bottomNavHref"><a href="/en/terms-of-use/index.html">Terms of Use</a></div>
-            <div class="bottomNavHref"><a href="/en/privacy-policy/index.html">Privacy</a></div>
-            <div class="bottomNavHref"><a href="/en/contact-us/index.html">Contact Us</a></div>
-          
-            <div id="bottomNavCorp" class="bottomNavHrefCorp"><a href="http://valsparglobal.com">Valspar Corporate</a></div>
-          
-
-        </div>
-        <div class="bottomNavHline">&nbsp;<!--CR508567-startslash--></div>
-        
-        <div class="bottomNavTxt">
-            <p>
-                Computer screens and printers vary in how colors are displayed. Colors which display on the screen and printed colors may not match the paint's actual color. 
-            </p>
-        </div>
-        
-    </div>
-    
-
-</td></tr>
-
-</tbody></table>
-
-
-<!-- dropdown menu for valspar corporate  -->
-<div id="menuCorporate" class="menuCorporate" style="position: absolute; visibility: hidden;">
-    <div class="spacer3PX">&nbsp;<!--CR508567-startslash--></div>
-    <div class="menuCorporateHref"><a href="#" onclick="javascript: window.open('http://www.valsparglobal.com/careers/');void(0);">Careers</a></div>
-    <div class="menuCorporateHref"><a href="#" onclick="javascript: window.open('http://myaccount.valspar.com/val/fcc/login.jsp');void(0);">Corporate Login</a></div>
-    <div class="menuCorporateHref"><a href="#" onclick="javascript: window.open('http://investors.valspar.com/phoenix.zhtml?c=80086&amp;p=irol-irhome');void(0);">Investors</a></div>
-    <div class="menuCorporateHref"><a href="#" onclick="javascript: window.open('http://www.valsparglobal.com/about/social_responsibility_sustainability.jsp');void(0);">Social Responsibility &amp; Sustainability</a></div>
-    <div class="menuCorporateHref"><a href="#" onclick="javascript: window.open('http://www.valsparglobal.com/brands/');void(0);">Valspar Products &amp; Services</a></div>
-
-    <div class="spacer3PX">&nbsp;<!--CR508567-startslash--></div>
-    <div class="menuCorporateHline">&nbsp;<!--CR508567-startslash--></div>
-</div>
-<script language="javascript">
-    topNav.attach("bottomNavCorp", "menuCorporate", "hover", "y", "hand");
-</script>
-
-
-
-
-            
-	        
-        </td>
-  </tr>
-</tbody></table>
-
-
-
-
-
+	 <script type="text/javascript" src="/en/other/s_code.js"></script> 
+	<script type="text/javascript" src="/en/other/omniture-min.js"></script> <!-- breadcrumbs,internal promo --> 
 <!-- SiteCatalyst code version: H.21.
 Copyright 1996-2010 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
@@ -1066,11 +1208,13 @@ the next lines. */
 s.hier1 = (valOmniture.hier1==="")?"home":valOmniture.hier1.toLowerCase(); // Site Hierarchy, Tracking traffic by location/breadcrumbs, Generated server side from Breadcrumb
 
   
-  
+
 s.pageName =  document.title;
 s.server = "";
-s.channel = (valOmniture.channel!="")?valOmniture.channel:"both";  
+if(typeof s.channel == "undefined") s.channel = (valOmniture.channel!="")?valOmniture.channel:"both";
 
+
+s.pageName = ((typeof(s.pageName)=="undefined")||(s.pageName === ""))?document.title:s.pageName;
 
 s.pageType = "";
 
@@ -1078,18 +1222,24 @@ s.prop1 = s.pageName;
 s.prop2 = valOmniture.prop2;  // Generated server side from Breadcrumb: site Section
 s.prop3 = valOmniture.prop3;  // Generated server side from Breadcrumb: site Sub-Section
 
+s.prop4 = (typeof(valOmniture.prop4)!="undefined")?valOmniture.prop4:"";  //Color Names
+s.prop12 = (typeof(valOmniture.prop12)!="undefined")?valOmniture.prop12:"";  //Color Numbers
+s.prop6 = (!document.searchForm)?"": (  !document.searchForm.query?"":(document.searchForm.query.value==document.topnavSearch.query.value?"":document.searchForm.query.value.toLowerCase()) ); //search
 /* Conversion Variables */
 s.campaign = "";
-s.events = "event1";
-s.purchaseID = "";
-s.product = ""; //(promotions) syntax     "PromotionA;New Life to Homey Cupboards,PromotionB;Successfully Painting with Reds" 
-
+s.events = (typeof(s.events)=="undefined")?"event1":"event1,"+s.events;
+s.events = (valOmniture.events!="")?s.events + "," +valOmniture.events:s.events;
+s.products = (typeof(s.products)=="undefined")?"":s.products; //(promotions) syntax     "PromotionA;New Life to Homey Cupboards,PromotionB;Successfully Painting with Reds"
+s.products = (valOmniture.products!="")?(s.products.length==0?"":s.products+",") +valOmniture.products:s.products;
 
 s.eVar1 = s.pageName; // Page Name, Pull from s.pageName
 s.eVar2 = s.prop2; // Site Section, Pull from s.prop2
 s.eVar3 = s.prop3; // Sub Section, Pull from s.prop3
+s.eVar4 = s.prop4;  //Color Names
 s.eVar5  = valOmniture.evar5; //Retail code
 s.eVar11 = (valOmniture.evar11.length==0)?"Non-Registered":"Registered"; //user id
+s.eVar12 = s.prop12;  //Color Numbers
+s.eVar24 = "privacypolicy_homepage_menu";       //referrer
 
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
@@ -1100,31 +1250,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.22.1. -->
 
-
-
-
-
-<!-- INSTALLED IN THE FOOTER OF THE PAGE: -->
-
-<!-- BEGIN: OnlineOpinion v4.1.6.5
-* The following code is Copyright 1998-2010 Opinionlab, Inc.
-* All rights reserved. Unauthorized use is prohibited.
-* This product and other products of OpinionLab, Inc. are protected by U.S. Patent No. US 6606581, 6421724, 6785717 B1 and other patents pending.
-* http://www.opinionlab.com
--->
-<!-- MAIN OL STYLESHEET; NECESSARY FOR FLOATING AND ANY ON PAGE CARD IMPLEMENTATIONS -->
-<link rel="stylesheet" type="text/css" href="/resources/valspar/css/oo_style.css">
-<!-- MAIN OL ENGINE; NECESSARY FOR ALL IMPLEMENTATIONS -->
-<script language="javascript" type="text/javascript" charset="windows-1252" src="/resources/valspar/js/oo_engine_c.js"></script>
-<!-- FEEDBACK PLUG-IN; FLOATING -->
-<script language="javascript" type="text/javascript" charset="windows-1252" src="/resources/valspar/js/oo_conf_en-US_float.js"></script>
-<!-- END: OnlineOpinion v4.1.6.5 -->
-
-
-
-
-
-<!-- 
+<!--
 	SPOTLIGHT TRACKING
  -->
 	
@@ -1135,10 +1261,32 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 
 
 
+<div id="dockwrap" class="dockhide">
+	<div class="dockinner"></div>
+</div>
 
 
 
 
+
+
+<!-- survey -->
+
+
+<!-- BEGIN: OnlineOpinion v4.1.6.5
+* The following code is Copyright 1998-2010 Opinionlab, Inc.
+* All rights reserved. Unauthorized use is prohibited.
+* This product and other products of OpinionLab, Inc. are protected by U.S. Patent No. US 6606581, 6421724, 6785717 B1 and other patents pending.
+* http://www.opinionlab.com
+-->
+<!-- MAIN OL STYLESHEET; NECESSARY FOR FLOATING AND ANY ON PAGE CARD IMPLEMENTATIONS -->
+
+<link rel="stylesheet" type="text/css" href="/resources/valspar/css/oo_style.css">
+<!-- MAIN OL ENGINE; NECESSARY FOR ALL IMPLEMENTATIONS -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/resources/valspar/js/oo_engine_c.js"></script>
+<!-- FEEDBACK PLUG-IN; FLOATING -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/resources/valspar/js/oo_conf_en-US_float.js"></script>
+<!-- END: OnlineOpinion v4.1.6.5 -->
 
 
 
