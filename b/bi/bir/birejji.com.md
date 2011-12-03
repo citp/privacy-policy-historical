@@ -1,5 +1,37 @@
-> *The following text is extracted and transformed from the birejji.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619045648id_/http%3A//birejji.com/guide.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birejji.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203231414id_/http%3A//www.birejji.com/privacy.php) for the most accurate reproduction.*
 
-# Birejji.com - Get Paid To Socialize - How It Works
+# Birejji
 
-The only information that is publicly displayed is the username set by the user upon registration. All other information collected (E-Mail, Password, etc.) will never be shared or used in any way besides identification purposes. 
+Birejji Privacy Policy
+
+If you have questions or comments regarding this Privacy Policy, please contact us: support@birejji.com
+
+Information Collection and Usage
+
+Registration
+
+When you create an account on Birejji, some personal information is collected. The information collected is as follows: Your Birejji account username, e-mail address, IP address, and the password associated with your account. The only information that will be publicly visible is your account username.
+
+Usage
+
+The information collected from you is solely used for identification purposes. Personal information is not shared with any third party entities. Your e-mail address is serves as your payment processor's payment address as well as the only means Birejji has of contacting you outside of Birejji.
+
+Contact
+
+Birejji may contact you to inform you of changes to our policies or to inform you of any changes regarding your account with Birejji. Birejji may also send you an e-mail requesting that you verify any changes made to your account (Example: Requesting a new password). However, at no time will Birejji contact you prompting you for any personal information or passwords.
+
+Updating Information
+
+You may request a new password through the "I Forgot My Password" link on the login page. You may update your payment/personal e-mail while logged into your account through the "Account" link.
+
+Our Policy Towards Minors
+
+Under 13
+
+Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at support@birejji.com. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+
+Privacy Policy Changes
+
+Changes to this Policy
+
+Birejji reserves the right to modify this privacy policy to ensure the protection of its members and to enhance the understanding of our policies.
