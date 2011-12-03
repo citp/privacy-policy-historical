@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangabit.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421082724id_/http%3A//www.mangabit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangabit.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204001038id_/http%3A//www.mangabit.com/privacy-policy) for the most accurate reproduction.*
 
 # MangaBit.com - Read Manga Online For Free
 
