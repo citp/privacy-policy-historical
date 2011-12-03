@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 91mobiles.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625204639id_/http%3A//www.91mobiles.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 91mobiles.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203164221id_/http%3A//www.91mobiles.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 91Mobiles
 
@@ -46,103 +46,105 @@ If you have any questions about this summary, our Privacy Policy or our informat
 
 ## 
 
-  * [ Samsung E2550 Monte Slider @ **Rs. 2,999/-**](http://www.91mobiles.com/mobile/Samsung/E2550+Monte+Slider/5277.html#prices)
-  * [ Samsung Galaxy Fit S5670 @ **Rs. 9,975/-**](http://www.91mobiles.com/mobile/Samsung/Galaxy+Fit+S5670/8918.html#prices)
-  * [ HTC Mobiles Wildfire S @ **Rs. 13,499/-**](http://www.91mobiles.com/mobile/HTC+Mobiles/Wildfire+S/9145.html#prices)
-  * [ Samsung Galaxy S II I9100 @ **Rs. 28,399/-**](http://www.91mobiles.com/mobile/Samsung/Galaxy+S+II+I9100/8374.html#prices)
-  * [ Spice Mi-410 @ **Rs. 13,999/-**](http://www.91mobiles.com/mobile/Spice/Mi-410/8101.html#prices)
-  * [ Motorola DEFY @ **Rs. 14,913/-**](http://www.91mobiles.com/mobile/Motorola/DEFY/7553.html#prices)
-  * [ Samsung Star II Duos C6712 @ **Rs. 5,990/-**](http://www.91mobiles.com/mobile/Samsung/Star+II+Duos+C6712/9860.html#prices)
-  * [ Samsung Galaxy Ace S5830 @ **Rs. 14,490/-**](http://www.91mobiles.com/mobile/Samsung/Galaxy+Ace+S5830/8914.html#prices)
-  * [ Lava KKT 70 @ **Rs. 2,871/-**](http://www.91mobiles.com/mobile/Lava/KKT+70/8600.html#prices)
-  * [ Samsung I9003 Galaxy SL @ **Rs. 19,900/-**](http://www.91mobiles.com/mobile/Samsung/I9003+Galaxy+SL/9071.html#prices)
+  * [ Sony Ericsson XPERIA Arc @ **Rs. 21,620/-**](http://www.91mobiles.com/sony-ericsson-xperia-arc-price-in-india#pricepart)
+  * [ Beetel GT1800 @ **Rs. 2,460/-**](http://www.91mobiles.com/beetel-gt1800-price-in-india#pricepart)
+  * [ Samsung Galaxy Y @ **Rs. 6,768/-**](http://www.91mobiles.com/samsung-galaxy-y-price-in-india#pricepart)
+  * [ Samsung Star II Duos C6712 @ **Rs. 5,899/-**](http://www.91mobiles.com/samsung-star-ii-duos-c6712-price-in-india#pricepart)
+  * [ Samsung Galaxy Y @ **Rs. 7,090/-**](http://www.91mobiles.com/samsung-galaxy-y-price-in-india#pricepart)
+  * [ Karbonn A1 @ **Rs. 4,790/-**](http://www.91mobiles.com/karbonn-a1-price-in-india#pricepart)
+  * [ Samsung Galaxy Y @ **Rs. 7,349/-**](http://www.91mobiles.com/samsung-galaxy-y-price-in-india#pricepart)
+  * [ Sony Ericsson Xperia Ray @ **Rs. 17,995/-**](http://www.91mobiles.com/sony-ericsson-xperia-ray-price-in-india#pricepart)
+  * [ Samsung Galaxy S II I9100 @ **Rs. 28,106/-**](http://www.91mobiles.com/samsung-galaxy-s-ii-i9100-price-in-india#pricepart)
   * [Compare mobile phones easily now!](http://www.91mobiles.com/compare-mobile-phones.html)
 
 
 
   
+
+
+**Register for Exclusive**  
+Deals & Discounts
+
+  
   
 
 
-[Try our New Phone Finder!](http://www.91mobiles.com/phonefinder.php)
+  * ### 
 
-  
-  
+ [prakash](http://www.91mobiles.com/reviews/Fujezone/True+Touch/nononnonoon/21681.html#jsid-1322921483-851) -this is really fantabolous phone beter than nokia&samsun;g  
 
 
   * ### 
 
- [Marketing Research](http://www.91mobiles.com/blog/5366/Apple+to+officially+launch+iPad+in+India+tomorrow.html#jsid-1308917998-235) -what about the desi tablet to be launched in near future. lets start a discussion on this with some expert advise on the innovation.
+  * ### 
 
-[Visha Consultants](http://www.vc-india.com/)
+ [vikas](http://www.91mobiles.com/reviews/Fujezone/True+Touch/nononnonoon/21681.html#jsid-1322921413-897) -man this phone is better than apple iphone 3gs it's touch awesum....
 
   * ### 
 
- [Guest](http://www.91mobiles.com/reviews/Micromax/Q7/Complaints/22423.html#jsid-1308824092-91) -to use lock when your typing messge it will work ok .
+ [ gunal2@rediffmail.com](http://www.91mobiles.com/blog/9210/Buy+Samsung+Galaxy+Note+for+Rs+31+999++Snapdeal+com.html#jsid-1322905084-915) -Have you ever tried www.MyDeals247.com? Its a real-time and the most innovative ecommerce website. you can buy and sell any items best price ever.... do not chase sellers... let sellers chase you and offer the best price....
+
+you may check this out...  
+http://www.youtube.com/watch?v=9olj1uJ_k7I
 
   * ### 
 
- [mvithya109@yahoo.com](http://www.91mobiles.com/video/35648/Melkco+Leather+Case+for+Samsung+Galaxy+S++GT+I9003++++Flip+Type++++.html#jsid-1308822485-604) -samsung galaxy s lcd i9003 is one of the best mobile ever i ve used, this mobile have got almost all the best feature,  
-i feel highly satisfied with this mobile, another site that also shows me more information about samsung galaxy tab is http://www.computertroubletips.com/2011/06/samsung-galaxy-s-lcd-gt-i9003-review.html
+ [B-BOM@](http://www.91mobiles.com/blog/9280/LG+Nitro+HD+announced+for+AT+T+in+US.html#jsid-1322905004-322) -Is this phone availablein India?? If not than when is it coming??  
+Plzzzz..Respond...
 
   * ### 
 
- [ashish pal](http://www.91mobiles.com/blog/1825/BSNL+Introduces+New+Recharge+Plans+in+Rajasthan+Circle.html#jsid-1308755215-81) -is any available in rajasthan circle that we can activate my tariff through sms
+ [MD Rizwan alam](http://www.91mobiles.com/blog/9132/ENMAC+MQ3500++India+s+first+Quran+Mobile+Phone.html#jsid-1322810057-878) -hello sir,  
+mai is mobile ko kharidna chata hu.so iske liye mere no,9955404567,&8092395841 per call kare,aur is mobile ko bechna chahata hu ,kiu ke mai ek mobile ka dukandar hu, 
 
   * ### 
 
- [Katongole Loius](http://www.91mobiles.com/reviews/Tecno/T59/cool+phone+i+like+it/24183.html#jsid-1308748662-957) -pipo this kaphone is kawa. Just give it time
+ [91mobiles](http://www.91mobiles.com/video/56494/Android+4+0+Ice+Cream+Sandwich+Tips.html#jsid-1322792561-109) -A good compilation of tips and tricks about Android Icecream sandwich..the latest mobile os from google!
 
   * ### 
 
- [williamjames75@yahoo.com](http://www.91mobiles.com/blog/6098/Samsung+Galaxy+S+i9003+price+in+india.html#jsid-1308744483-182) -samsung galaxy s lcd i9003 is one of the best mobile ever i ve used, this mobile have got almost all the best feature,  
-i feel highly satisfied with this mobile, another site that also shows me more information about samsung galaxy tab is http://www.computertroubletips.com/2011/06/samsung-galaxy-s-lcd-gt-i9003-review.html
+ [91mobiles](http://www.91mobiles.com/video/56504/Samsung+Galaxy+Nexus+vs+Samsung+Galaxy+S+II.html#jsid-1322792178-576) -Finally, a face-off video between galaxy nexus and the much popular galaxy s II!
 
   * ### 
 
- [johnsmith](http://www.91mobiles.com/blog/6098/Samsung+Galaxy+S+i9003+price+in+india.html#jsid-1308743623-129) -samsung galaxy s lcd i9003 is one of the best mobile ever i ve used, this mobile have got almost all the best feature,  
-i feel highly satisfied with this mobile, another site that also shows me more information about samsung galaxy tab is http://www.computertroubletips.com/2011/06/samsung-galaxy-s-lcd-gt-i9003-review.html
+ [91mobiles](http://www.91mobiles.com/video/56510/Huawei+U8860+Honor+user+interface.html#jsid-1322792000-364) -Huawei Honor interface is not so bad!
 
   * ### 
 
- [nitu](http://www.91mobiles.com/blog/979/Samsung+Corby+Pro+++A+detailed+Review.html#jsid-1308741200-382) -no u cannot install 3rd party , the samsum guys are telling the same
+ [91mobiles](http://www.91mobiles.com/video/56520/Penny+auction+warning+from+Consumer+Reports.html#jsid-1322791975-70) -Beware of the penny auction sites..you could potentially lose more than you gain!
 
   * ### 
 
- [Qui nini](http://www.91mobiles.com/reviews/Pantech/Ease/pantech+ease/24245.html#jsid-1308680706-661) -i think this is a very good review good job
+ [Vijay Sharma](http://www.91mobiles.com/blog/6557/Tata+Docomo+3G+WiFi+Hub+++Rs++5999.html#jsid-1322767260-16) -If you are thinking to buy the product please follow my advice and say TATA to it. I have purchased the device on 30th Oct 2011. Today is 1st Dec and still my Photon Plus SIM has not been activated by company. I have made 50 calls to customer care,nodal officer and appellate authorities but every time they made an excuse that the problem will be fixed in 4-5 hours. They have made no mistake in generation of the bill and sent me a bill of Rs 1150 for the services that very never provided.
+
+Call Center staff has no knowledge about product. Docomo Call center ask you to call Photon Call center and vice-versa.
+
+Even executive promises are fake and nobody listens.
+
+Also Tata Docomo 3G services are very poor and many time there is network congestion and you are unable to connect to internet.
+
+I strongly recommend not to think about buying this product.
 
   * ### 
 
- [Qui nini](http://www.91mobiles.com/reviews/Pantech/Ease/pantech+ease/24245.html#jsid-1308680686-671) -i think this is a very good review good job
+ [Rahul Bansal](http://www.91mobiles.com/blog/7779/Tikona+Bill+Free+Wireless+Broadband+Plan+brings+convenience.html#jsid-1322734329-451) -One of the leading broadband offering companies, Tikona has indeed proved its worth as being a reliable partner when it comes to broadband connections. I have had the internet connection for quite some time and I am pretty satisfied.   
+I use Tikona wi fi service, and it has exceeded my expectations in the last few months. Quite strangely some of the best names in the industry could not delight me as much as this connection did. Looking forward to up gradation though!   
+Superior speed, no security hassles and control on bills. Tikona takes care of every aspect that a customer faces while hiring any broadband connection. They have indeed evolved out to be one of the leading players in the market.   
+Lets Congratulate our Team mate â€œMayuri Changle â€ for solving customer â€˜s problem in such a wonderful way with such great follow-up and prompt service that customer is bound to Appreciate her.
 
   * ### 
 
- [Qui nini](http://www.91mobiles.com/reviews/Pantech/Ease/pantech+ease/24245.html#jsid-1308680666-699) -i think this is a very good review good job
+ [Saravanan](http://www.91mobiles.com/reviews/Lava/B5+Qwerty/Lava+B5+Qwerty/21701.html#jsid-1322673117-59) -Can You advise little deeper about this phone as I planning to own the same for me also.
 
   * ### 
 
- [amitava dasgupta](http://www.91mobiles.com/video/36280/Case+Mate+Monsta+Case+Review+for+iPhone+4.html#jsid-1308672856-712) -I want to know is there any dealer in India for case mate fuel max....battery extended case for iphone4....kindly let me know my mobile no is 09811088174 
+ [Amit Raj](http://www.91mobiles.com/blog/6407/India+Mobile+Survey+2011+by+CMR.html#jsid-1322580536-613) -For All who is employed in Mobile Industry
 
   * ### 
 
- [umair](http://www.91mobiles.com/blog/7463/Huawei+MediaPad+is+now+official.html#jsid-1308652604-662) -very nice and very beautifull mobile  
+ [Amit Raj](http://www.91mobiles.com/blog/7564/Indian+Mobile+Phone+Industry+2011++ndash++An+outlook.html#jsid-1322580194-476) -See The Pictures Of Mobile Industry in India...!!! 
 
-
-  * ### 
-
- [bluechiptechnosys@gmail.com](http://www.91mobiles.com/blog/693/Olive+Launches+India+s+First+3G+Tablet+++Rs+25+000.html#jsid-1308638611-725) -Great Blog with very good posts .Can you please tell me that how much time you take to create this wonderful blog,although i am new on internet but your work is very good and i appreciate your work.  
-[Company India](http://www.bluechiptechnosys.com/)  
-
-
-  * ### 
-
- [shadab](http://www.91mobiles.com/reviews/Ajanta/A-30/Lowest+cost+Qwert+mobile+in+India/16015.html#jsid-1308572028-473) -this is the original spec which i got in my phone  
-220*176 screen  
-build quality worst ever seen ,even Chinese phones are far better  
-ones dropped and body damages certainly  
-battery backup ---good enough
-
-over all --no no to buy 
+@Micromax Team...We are maiking India Proud with the tremendous growth of 43% over last year within others Foreign Players...!!!Cheers!!!
 
 
 
