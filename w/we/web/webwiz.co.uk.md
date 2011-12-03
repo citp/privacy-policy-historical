@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwiz.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605024907id_/http%3A//www.webwiz.co.uk/legal/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwiz.co.uk privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203032546id_/http%3A//www.webwiz.co.uk/legal/privacy-statement.htm) for the most accurate reproduction.*
 
 # Web Wiz Data Protection and Privacy Policy
 
@@ -7,10 +7,10 @@
   
 
 
-'Web Wiz' is committed to respecting the privacy of individuals who use the 'Web Wiz' websites and operate and are registered under the The UK Data Protection Act, registration number Z9639938, you can view the full Privacy Statement below. 
+'Web Wiz' is committed to respecting the privacy of individuals who use the 'Web Wiz' websites and operate and are registered under the The UK Data Protection Act, registration number Z2859497, you can view the full Privacy Statement below. 
 
   1. **Please find below our privacy policy for 'Web Wiz'**  
-We are 'Web Wiz' and our registered address is Unit 10E Dawkins Road Industrial Estate, Poole, Dorset, England. Web Wiz takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of this website.
+We are 'Web Wiz Ltd' a company registered in England & Wales (Company Reg. 5977755) and our registered address is Unit 10E Dawkins Road Industrial Estate, Poole, Dorset, England. Web Wiz takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of this website.
   2. **When do we collect data?**  
 We can collect data on you from a variety of different sources these include. 
     1. When you purchase products or services from the site or via any of our other distribution channels. 
