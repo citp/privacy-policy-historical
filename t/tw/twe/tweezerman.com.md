@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweezerman.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031082820id_/http%3A//www.tweezerman.com/pages/index.cfm%3Fpg%3D84%26ca%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweezerman.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203042744id_/http%3A//www.tweezerman.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Tweezerman - Award Winning Beauty Tools
+# Tweezerman - The Beauty Tools Experts
 
 **Privacy Policy**  
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
@@ -11,7 +11,7 @@ When you visit our Web site you may provide us with two types of information: pe
 **Email Information**  
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
-How Do We Use the Information That You Provide to Us? Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us. 
+How Do We Use the Information That You Provide to Us? Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us.
 
 **What Are Cookies?**  
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
