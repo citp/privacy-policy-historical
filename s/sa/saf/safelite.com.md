@@ -1,53 +1,111 @@
-> *The following text is extracted and transformed from the safelite.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104090524id_/http%3A//www.safelite.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safelite.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203110013id_/http%3A//www.safelite.com/privacy.jsp) for the most accurate reproduction.*
 
 # Safelite AutoGlass - Privacy Policy
 
-What does Safelite® Group do with my personal information?
+### **What does Safelite** ® **Group do with my personal information?**
 
-Safelite® Group, parent company of Safelite AutoGlass®, recognizes that your right to privacy is very important. We recognize that when you choose to provide us with information about yourself, you trust us to act responsibly. That's why we have prepared this Privacy Policy to describe the types of personal and non-personal information we collect through our various Web sites (collectively, "Web sites"), how we use such information, and to whom we disclose such information.
+Three steps to find out:  
 
-What information do we collect?
 
-**Personal Information**  
-In general, we collect personal information from you when you voluntarily provide it to us by registering on any of our Web sites; signing up to enter a promotion, participate in an event or survey, receive newsletters or other literature; making product, project, or service inquiries; and contacting us (including our webmaster, customer service representatives, or other employees) by e-mail.
+  1. Review each fact to learn what Safelite® does with your personal information.
+  2. Use the table to understand Safelite's® sharing practices and if it offers the option to limit sharing.
+  3. Read the frequently asked questions for additional information.
 
-In connection with these activities, we may collect personal information from you, including, but not limited to, your name, physical address, e-mail address, age, gender, telephone number, fax number, user name and/or password associated with the use of any of our Web sites or web portal(s), occupation, company name, name of position within company, whether you are a customer, how you heard about the Safelite® Group family of brands, and other demographic information.
 
-**Non-personal information**  
-As part of the standard operation of our Web sites and in order to better serve you, we may collect/obtain certain non-personal information from you including, but not limited to, your browser type (e.g., Internet Explorer or Mozilla Firefox), operating system (e.g., Windows or Macintosh), Internet service provider, IP address, Web sites visited, and the domain name from which you accessed the Web sites (e.g., yahoo.com).
 
-In addition, we may collect information about your browsing behavior, such as the date and time you visited our Web sites, the areas or pages of our Web sites that you visit, the amount of time spent viewing our Web sites, the number of times you return to our Web sites, and other click-stream data. We may use cookies to collect this information which may be combined with your personal information. A cookie is a small text file that may be stored on the hard drive of your computer which enables us to recognize your computer when you return to our Web sites.
+**Fact One**  
+Companies can share customers’ personal information for particular reasons.
 
-You are always free to decline cookies, but in doing so you may not be able to use certain features on our Web sites. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from a computer's hard drive.
+**Fact Two**  
+Many companies share customers’ personal information to run their everyday business.
 
-We may use web beacons to assist us in understanding how visitors to our Web Sites use such sites and/or to collect information regarding users' activities on the web. We may utilize the services of a third party to collect such information for us. 
+**Fact Three**  
+Companies choose the reason they share customers’ personal information.
 
-How do we use your information?
+**Fact Four**  
+If a company shares your personal information, you may have the option to limit sharing.
 
-We may use the information we collect from you for any of the following purposes: to facilitate your use of our Web sites and better understand your needs; to fulfill your requests for information related to our company, products and services; to send you information, promotional materials, and offers from our company as well as from our subsidiaries and affiliates; to contact visitors to our Web sites when necessary; to help address problems with our Web sites; to administer our Web sites; to conduct internal reviews of our Web sites (e.g., to determine the number of visitors to specific pages within the site); to help us better understand visitors' use of our Web sites; to protect the security or integrity of our Web sites; to consider your request for consideration of employment with the Safelite® Group family of companies; and for such other purposes provided in this Privacy Policy. Non-personal information will be used for these purposes as well to monitor our Web sites and provide a greater online experience for our visitors.
+| Reasons we can share your personal information | Does Safelite® share? | Can you limit the sharing?  
+---|---|---  
+**For our everyday business purposes** , such as to make an appointment, fix your auto glass, or interview you for a job. | No | N/A  
+**To complete an insurance claim** on your behalf | Yes | No  
+**For our marketing purposes** to offer our products and services to you
 
-Will we disclose information we collect from you? 
+We contract with Dotomi to serve ads on our behalf across the Internet and sometimes on this site. They will collect anonymous information about your visits to our Website, and your interaction with our products and services. They may also use information about your visits to this and other Websites to target advertisements for goods and services. These targeted advertisements may appear on our site or on other sites that you visit. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected in this process. If you do not want Dotomi to collect this information you may opt-out. Opting-out will not in any way affect your use of our site. In order to opt-out please click on Ad Info. 
 
-We may disclose information collected from you to the following entities for the following purposes: to Safelite® Group employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, and suppliers, if the disclosure will enable that entity to perform a business, professional, or technical support function for us; to employees, independent contractors, service providers, and suppliers of Safelite® Group to fulfill a product or service request; to satisfy any applicable law, regulation, legal process or governmental request and/or to cooperate with law enforcement and other authorities in investigating a claim of illegal activity.
+| Yes | [Ad Info](http://www.networkadvertising.org/managing/opt_out.asp)  
+  
+**Frequently asked Questions**
 
-We may use IP addresses to identify a user when we feel it is necessary to protect our service, Web sites, customers, or others; and/or to our third-party marketing or service providers who may use such information in their business operations or who may contact you with information they feel may be useful to you.
+### Who is providing this notice?
 
-Do we collect information from children?
+Safelite® Group which consists of Safelite Fulfillment, Inc., Safelite Class Corp. and Safelite Solutions LLC. 
 
-We do not direct our Web sites to, nor do we knowingly collect any personal information from children.
+### When is Safelite® providing this notice?
 
-Does this privacy policy cover practices on third-party Web sites? 
+Federal law requires some companies to tell you how the company collects, shares and protects your personal information.
 
-Our Web sites may contain links to other third-party Web sites (including but not limited to those of our marketing partners), which may have privacy policies that differ from our own. We are not responsible for the content, safety, privacy or accessibility of any information provided on third-party Web sites. Accordingly, we recommend you review the privacy policy posted on any Web site that you may access through our Web sites.
+### What types of personal information does Safelite® Group collect and share?
 
-How do we protect your information?
+The types of personal information we collect and share depend on whether we are working with your insurance company to serve you. 
 
-While we strive to safeguard your personal information, data transmissions over the Internet, including e-mail, cannot be guaranteed 100 percent secure. Therefore, we cannot ensure or warrant the security of any information you transmit, and any information you transmit is done at your own risk. We cannot be responsible for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties, and we encourage you to exercise prudence in selecting the information you send via the Internet, including via e-mail.
+This information can include:
 
-Will there be changes to this privacy policy in the future? 
+  * Your name and address
+  * Your policy number
+  * The VIN of your vehicle
 
-To improve our ability to serve you, we may make modifications, improvements, deletions, or amendments to the Web sites at any time we deem appropriate. We recommend that you revisit this Privacy Policy periodically to ensure that you are aware of our current privacy practices. Your continued use of our services following any changes signifies your acceptance of these changes.
 
-How can I contact Safelite® Group?
 
-If you have questions or concerns about this Privacy Policy, please contact OnlineHelp@safelite.com.
+### Can I limit sharing of my personal information?
+
+If we do not process your insurance claim or do work in fulfillment of an insurance claim, we will not share your information and you do not need to limit it.
+
+You cannot limit sharing if your insurance claim is processed or fulfilled through us. We have to communicate the claim and work information to your insurance company in order to complete the work.
+
+### When does Safelite® Group begin sharing my personal information if I am a new customer?
+
+If you are a new customer who contacts us directly and wants to complete insurance-related work, Safelite® Group will share your information with your insurance company immediately. 
+
+If you contact your insurance company first and they refer you to us, the insurance company may have already provided your personal information to us.
+
+### Why can't I limit sharing of my personal information? 
+
+Federal law gives you the right to limit only
+
+  * Sharing for affiliates’ everyday business purposes – information about your creditworthiness
+  * Affiliates from using your information to market to you
+  * Sharing for nonaffiliates to market to you.
+
+State laws and individual companies may give you rights to limit sharing.
+
+Safelite® Group has chosen not to share your personal information in these ways to protect you. 
+
+### What does Safelite® Group do with my personal information when I am no longer a customer?
+
+When you are no longer our customer, Safelite® Group no longer has a reason to share your data. 
+
+### How does Safelite® Group protect my personal information? 
+
+To protect your personal information from unauthorized access and use, we maintain corporate and computer security measures. These measures include computer safeguards and secured files and buildings.
+
+### How does Safelite® Group collect my personal information?
+
+We collect your personal information, for example, when you
+
+  * Make an appointment for services with Safelite® Group
+  * Apply for a job here
+  * Contact us for assistance
+
+
+
+### How do you notify customers of changes to this notice? 
+
+Changes will be posted on this website.
+
+### When will this notice go into effect?
+
+The effective date of this notice is June 2, 2011.
+
+**Questions?**  
+Email: [onlinehelp@safelite.com](mailto:onlinehelp@safelite.com)
