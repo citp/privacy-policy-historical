@@ -1,19 +1,23 @@
-<!--The following is the downloaded HTML source of the localvigyapan.com privacy policy that was archived on 2010-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100502081957id_/http%3A//www.localvigyapan.com/static/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the localvigyapan.com privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203231752id_/http%3A//www.localvigyapan.com/static/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Local Vigyapan Privacy Policy</title>
 
 <!-- Start Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-7588607-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16426488-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 <!-- End Google Analytics -->
 
 	
@@ -27,6 +31,8 @@ pageTracker._trackPageview();
                 }
 </style>
 
+<meta name="y_key" content="c20d2fbb3ca6af3b">
+
 </head> 
 
 
@@ -36,8 +42,10 @@ pageTracker._trackPageview();
 <div class="FR PR5">
 <div class="FL hpbg h_tgrbg2 gL2_11">
 <div style="padding: 12px 8px 0px;">
- <div id="topsignin"><a href="/users/signin" class="b_11">Sign in</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="/users/register" class="b_11">Register</a></div>
-</div></div></div></div>
+<cake:nocache>
+ 		<div id="topsignin"><a href="/users/signin" class="b_11">Sign in</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="/users/register" class="b_11">Register</a> 
+</div>
+</cake:nocache></div></div></div></div>
 <div class="CL"></div></div>
 <div class="contT">
 <div class="contTL"><a href="/"><img src="/img/nlogo.gif" border="0" alt=""></a> </div>
@@ -59,32 +67,36 @@ pageTracker._trackPageview();
 <form name="search" id="search" method="post" action="" onsubmit="return doSearch();">
 <div class="FL PT5 PR3 PL5">
 
-<input name="q" id="q" class="hpSIn" type="text" value="">
+<input name="q" id="q" class="hpSIn" type="text" value="Enter your search term" onblur="if(this.value=='')this.value='Enter your search term'" onfocus="if(this.value=='Enter your search term')this.value=''">
 </div>
 <div class="FL PT5 PR5"> <img src="/img/h_find.jpg" onclick="return doSearch();" alt=""></div>
 <input type="hidden" id="qSearchCity" value="">
+
 <div class="CL"></div></form></div>
 </div>
 <script>
 function doSearch(){
 	var keyword = document.getElementById('q').value;
-	keyword= keyword.replace(/\s/g,'-');
-	var sfrm = document.getElementById('search');
-	//var city = document.getElementById('qSearchCity').value;
-	var sText;
-	
-	/*if(city != null){
-	 
-		sfrm.action = '/localvigyapan/'+city+'/'+keyword+'/sqx';
+	if(keyword != '' && keyword != 'Enter your search term')
+	{
+		keyword= keyword.replace(/\s|&/g,'-');
+		keyword= keyword.replace(/\/|&/g,'-');
+		var sfrm = document.getElementById('search');
+		
+		var sText;
+		
+		
+		
+		sfrm.action = '/search/query/q:'+keyword;
+		//alert("search term:("+keyword+"}");
+		sfrm.submit();
+		return true;
 	}else{
 		
-       sfrm.action = '/'+keyword+'/sqx';
-	} */
-	sfrm.action = '/'+keyword+'/sqx';
-	//alert("{"+sfrm.action+"}");
-	sfrm.submit();
-	return true;
+		return false;
+	}
 }
+
 
 </script>
 <!--
@@ -228,9 +240,61 @@ We may also share personal information with:<br>
 <!--END OF CONTENT BODY--> 
 
 <!-- START OF FOOTER -->
-           
-  <div class="mcont"><div style="padding: 8px 10px;"><div class="FL gL_11">© 2009 Localvigyapan.com India</div>
+ <!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8756687" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8756687&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<div class="mcont"><div style="padding: 8px 10px;">
+  <div class="FL gL_12">
+   <div class="FL"><a href="/ahmedabad/29" class="gL_12">Ahmedabad Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/bangalore/65" class="gL_12">Bangalore Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/chandigarh/17" class="gL_12">Chandigarh Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/chennai/132" class="gL_12">Chennai Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/coimbatore/133" class="gL_12">Coimbatore Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/delhi/26" class="gL_12">Delhi Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/goa/170" class="gL_12">Goa Classifieds </a> &nbsp;|&nbsp; </div>
+  </div><div class="CL"></div>
+  </div>
+  <div style="padding: 8px 10px;">
+  <div class="FL gL_12">
+   <div class="FL"><a href="/gurgaon/47" class="gL_12">Gurgaon Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/hyderabad/2" class="gL_12">Hyderabad Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/indore/81" class="gL_12">Indore Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/jaipur/118" class="gL_12">Jaipur Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/kochi/73" class="gL_12">Kochi Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/kolkata/154" class="gL_12">Kolkata Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/lucknow/142" class="gL_12">Lucknow Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/mumbai/91" class="gL_12">Mumbai Classifieds </a> &nbsp;|&nbsp; </div>
+	</div><div class="CL"></div>
+	</div>
+	<div style="padding: 8px 10px;">
+  <div class="FL gL_12">
+   <div class="FL"><a href="/mysore/67" class="gL_12">Mysore Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/nagpur/92" class="gL_12">Nagpur Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/noida/143" class="gL_12">Noida Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/pune/95" class="gL_12">Pune Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="/surat/42" class="gL_12">Surat Classifieds </a> &nbsp;|&nbsp; </div>
+   <div class="FL"><a href="http://www.localvigyapan.com/" class="gL_12">Free Online Classifieds </a> &nbsp;|&nbsp; </div>
+	</div>
+	<div class="CL"></div>
+	</div>
   
+
+  
+  <div class="mcont"><div style="padding: 8px 10px;">
+  
+  <div class="FL gL_11">© 2009-2010 Localvigyapan.com India</div>
   <div class="FR gL_12">
     <div class="FL"><a href="/static/aboutus" class="gL_12">About Us </a> &nbsp;|&nbsp; </div>
     <div class="FL"><a href="/static/contactus" class="gL_12">Contact Us</a> &nbsp;|&nbsp; </div>
@@ -244,4 +308,4 @@ We may also share personal information with:<br>
 		<!-- END OF FOOTER-->
 	
 
-</div></div></body></html>
+</div></div></div></body></html>
