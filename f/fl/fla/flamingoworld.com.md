@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616050145id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204215550id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
 
 # FlamingoWorld.com Privacy Policy
 
@@ -18,7 +18,7 @@ We may ask for your name and email address in order to register you to use our b
 
 If your browser is set up to accept them, our bulletin boards use a feature known as a "cookie." Our forums use cookies which are associated with your email address. Cookies are used to automatically access your previously stored account preferences when you log in to our forums. These are used only when you log in and are only used to log you in to your account so you may change information and post in our forums. When you log out of your account in the forums, all personally identifiable information is removed from the cookies.
 
-Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you've d one. If you reject cookies, though, you will not be able to use certain areas of our site. Even if you accept our cookies, unless you tell us, we cannot find out who you are.
+Most browsers are set up to accept cookies, but you can configure your browser to refuse cookies or to notify you when you've gotten one. If you reject cookies, though, you will not be able to use certain areas of our site. Even if you accept our cookies, unless you tell us, we cannot find out who you are.
 
 **How Does FlamingoWorld.com Use Your Personal Information?**
 
@@ -30,11 +30,11 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 **All users may at any time opt-out of our marketing by the following methods:** **Our newsletters include a link at the bottom to click on to automatically unsubscribe you.**
 
-To opt out of our Forums and Emails, [log in to your account here](http://www.flamingoworld.com/member/menu) and in your main configuration area you have the option to opt out and or unsubscribe at any time.
+To opt out of our Forums and Emails, [log in to your account here](http://www.flamingoworld.com/login) and in your main configuration area you have the option to opt out and or unsubscribe at any time.
 
 **Will We Disclose Any of Your Personal Information?**
 
-flamingoworld.com will not sell or rent your personally identifiable information to anyone. We do not provide individual information to our advertisers. We will occassionally provide general demographic information of our site to perspective advertisers. For example, we might tell our advertiser that out of our 100,000 subscribers, 20,000 of which are female living in San Francisco. The advertiser will never know that Mary is one of them and she is a female lives in San Francisco.
+FlamingoWorld.com will not sell or rent your personally identifiable information to anyone. We do not provide individual information to our advertisers. We will occassionally provide general demographic information of our site to prospective advertisers. For example, we might tell our advertiser that out of our 100,000 subscribers, 20,000 are females living in San Francisco. The advertiser will never know that Mary is one of them or that she is a female lives in San Francisco.
 
 We will only disclose your personal information when:
 
@@ -54,13 +54,13 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How You Can Access Or Correct Your Information**
 
-You can access to review all your personally identifiable information that we collect online and maintain by [logging in to your account](http://www.flamingoworld.com/forum/login.php). We use this procedure to better safeguard your information.
+You can access and review all your personally identifiable information that we collect and maintain online by [logging in to your account](http://www.flamingoworld.com/login). We use this procedure to better safeguard your information.
 
-**To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.**
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-**Who has access to your information?**
+**Who Has Access To Your Information?**
 
-No one has access to your information given to FlamingoWorld except you and FlamingoWorld.com. No outside contractors or agent of FlamingoWorld will ever have access to your information. All your information is password protected and cannot be accessed by anyone but you or FlamingoWorld.com.<
+No one has access to your information given to FlamingoWorld except you and FlamingoWorld.com. No outside contractors or agents of FlamingoWorld will ever have access to your information. All your information is password protected and cannot be accessed by anyone but you or FlamingoWorld.com.<
 
 **How To Contact Us**
 
