@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshdesignweb.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605200228id_/http%3A//www.freshdesignweb.com/privacy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshdesignweb.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204133348id_/http%3A//www.freshdesignweb.com/privacy-2) for the most accurate reproduction.*
 
-# Privacy | FreshDesignWeb
+# Privacy | Fresh Design Web
 
 ## Privacy
 
