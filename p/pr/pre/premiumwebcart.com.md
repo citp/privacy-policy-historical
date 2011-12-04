@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiumwebcart.com privacy policy that was archived on 2010-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100313050737id_/http%3A//premiumwebcart.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwebcart.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204092541id_/http%3A//www.premiumwebcart.com/privacy-policy.html) for the most accurate reproduction.*
 
-# PremiumWebCart.com - A Complete Marketing Solution
+# Premium Web Cart
 
 This Privacy Policy governs our policies and practices regarding the collection, use, and disclosure of your personal information that is disclosed via our websites.
 
@@ -63,5 +63,5 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 
 PremiumWebCart.com  
 Privacy Officer  
-1740 H Dell Range Blvd Suite, 281  
-Cheyenne, WY 82009 
+878 Tower Rd.   
+Mundelein, IL 60060. 
