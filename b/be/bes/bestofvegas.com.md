@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestofvegas.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612204450id_/http%3A//www.bestofvegas.com/pages/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofvegas.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204161339id_/http%3A//www.bestofvegas.com/pages/Privacy_Policy) for the most accurate reproduction.*
 
-# Las Vegas Hotels, Vacations, Travel Deals & Show Tickets, Nevada
+# BestOfVegas.com Privacy Policy, Las Vegas Nevada
 
 |  |   
 ---|---  
