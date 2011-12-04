@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsubscribers.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418204041id_/http%3A//www.wpsubscribers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsubscribers.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204213504id_/http%3A//www.wpsubscribers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WPSubscriber - Premium Wordpress Subscription Plugin
 
@@ -14,7 +14,7 @@ WPSubscribers collects two different types of information from You when You use 
 
 ### Personal Information
 
-Personal Information In order to create an Account You will have to provide Personal Information that may include: name, address, telephone number, billing information (such as a credit card number), the type of personal computer being used to access the services, payment and tax withholding information
+Personal Information In order to create an Account You will have to provide Personal Information that may include: name, address, email address, telephone number, billing information (such as a credit card number), the type of personal computer being used to access the services, payment and tax withholding information… and WPSubscribers have a right to email you for our notification.
 
 ### Traffic Data
 
