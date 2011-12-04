@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamptons.co.uk privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521092414id_/http%3A//www.hamptons.co.uk/en-gb/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamptons.co.uk privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204231259id_/http%3A//www.hamptons.co.uk/en-gb/Privacy-Policy) for the most accurate reproduction.*
 
 # Hamptons - Privacy Policy - Hamptons International Real Estate Agents
 
