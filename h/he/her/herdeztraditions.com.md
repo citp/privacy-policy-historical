@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herdeztraditions.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512060850id_/http%3A//herdeztraditions.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herdeztraditions.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204070939id_/http%3A//www.herdeztraditions.com/privacy.aspx) for the most accurate reproduction.*
 
 # Herdez® Traditions
 
