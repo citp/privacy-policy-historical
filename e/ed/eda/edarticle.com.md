@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edarticle.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605152638id_/http%3A//www.edarticle.com/page.php%3Fp%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edarticle.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204151819id_/http%3A//www.edarticle.com/page.php%3Fp%3D4) for the most accurate reproduction.*
 
-# Privacy Policy - Education Articles
+# Education Articles
 
 Privacy Policy - www.edarticle.com
 
