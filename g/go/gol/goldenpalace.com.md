@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenpalace.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225091531id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenpalace.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204194755id_/http%3A//www.goldenpalace.com/privacy.php) for the most accurate reproduction.*
 
 # Online Casino - Play Free Online Casino Games at GoldenPalace.com - Internet Casinos
 
