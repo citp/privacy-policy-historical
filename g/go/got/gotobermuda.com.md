@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotobermuda.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605200855id_/http%3A//www.gotobermuda.com/terms-of-use-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotobermuda.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204151025id_/http%3A//www.gotobermuda.com/terms-of-use-and-privacy) for the most accurate reproduction.*
 
 # Bermuda Department of Tourism Privacy Policy | Bermuda Tourism
 
