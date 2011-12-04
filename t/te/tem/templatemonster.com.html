@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the templatemonster.com privacy policy that was archived on 2011-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422002227id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the templatemonster.com privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204231200id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <!-- Common Header Start-->
@@ -8,44 +8,37 @@
     var d=new Date();
     var __jsStartTime = d.getTime();
 
-    </script>
-<title>Privacy Policy</title>
+    </script><title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="fb:page_id" content="240734989375">
 
-		<link type="text/css" href="http://images.templatemonster.com/themes/default/css/main.css" rel="stylesheet">
-		<link type="text/css" href="http://images.templatemonster.com/themes/default/css/search_form.css" rel="stylesheet">
-<!--[if IE]> 
-		<link type="text/css" href="http://images.templatemonster.com/themes/default/css/ie.css" rel="stylesheet"/>
-<![endif]-->
 
+		<!-- ACDN-TCSS --><link type="text/css" href="http://t.tmimgcdn.com/themes/default/css/main.css?5932" rel="stylesheet">
 <link rel="icon" href="http://images.templatemonster.com/images/favicon.ico" type="image/x-icon">
-                <link rel="shortcut icon" href="http://images.templatemonster.com/images/favicon.ico" type="image/x-icon">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-		<script type="text/javascript" src="http://images.templatemonster.com/js/jquery/plugins/jajax-0.1/jajax.js"></script>
-		<script type="text/javascript" src="http://images.templatemonster.com/js/jquery/plugins/alttitle/alttitle.minimized.js"></script>
-
-		<script type="text/javascript" src="http://images.templatemonster.com/js/cufon/cufon-yui.js"></script>
-
-		<script type="text/javascript" src="http://images.templatemonster.com/js/common.js"></script>
-		<script type="text/javascript" src="http://images.templatemonster.com/js/dynwindow.js"></script>
-		<script type="text/javascript" src="http://images.templatemonster.com/js/preview_templates.js"></script>
-
-		<script type="text/javascript" src="http://images.templatemonster.com/js/AC_RunActiveContent.js"></script>
-
-		<script type="text/javascript" src="http://images.templatemonster.com/js/formsubmit.js"></script>
-
-		<script type="text/javascript" src="http://images.templatemonster.com/js/wac.js"></script>
+                <link rel="shortcut icon" href="http://images.templatemonster.com/images/favicon.ico" type="image/x-icon"><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+		<!-- ACDN-RJS --><script type="text/javascript" src="http://j.tmimgcdn.com/main.js?5932"></script>
 
 <script language="javascript" type="text/javascript">
-	function buy(id) {
+	function buy(id, checkout) {
 		var url = '/cart.php?add=' + id
-						   + '&PHPSESSID=cad62660aa6b026e068b0f62fd590616';
+						   + '&PHPSESSID=68f6b572bd1b795bcdf25412b42f5e6e';
 		var priceVariantElement = $('input[name=price_variant]:checked');
+		var offers = '';
+		$('#preview_page_offers li input:checked').each(function() {
+			var el = $(this);
+			var oid = el.val();
+			if ('installation' == oid) {
+				oid = el.attr('offer');
+			}
+			offers += ('' == offers ? '' : '&') + 'offers[]=' + oid;
+		});
 		if ('undefined' != typeof priceVariantElement && priceVariantElement.length) {
 			url = url + "&price_variant="+priceVariantElement.val();
 		}
-		window.location.href = url;
+		if ('' != offers) {
+			url += '&' + offers;
+		}
+		window.location.href = url + (('boolean' == typeof checkout) && checkout ? '&action=checkout' : '');
 	}
 	
 function cart(s) {
@@ -62,13 +55,13 @@ function cart(s) {
     $.ajax({type: "POST",url: "/particles.php",data: "mode=add-to-cart&id="+s+priceStr,success: function(html){$('#add-to-cart').html(html).fadeIn(1000);}
     });
   } else {
-      window.location.href = "/cart.php?" + s + priceStr + "&PHPSESSID=cad62660aa6b026e068b0f62fd590616";
+      window.location.href = "/cart.php?" + s + priceStr + "&PHPSESSID=68f6b572bd1b795bcdf25412b42f5e6e";
   }
 }
 
 function cartWithYourPrice(id, price) {
   window.location.href = "/cart.php?add="+ id + "&price="+ price
-                       + "&PHPSESSID=cad62660aa6b026e068b0f62fd590616";
+                       + "&PHPSESSID=68f6b572bd1b795bcdf25412b42f5e6e";
 }
 
     function timeMeasurement()
@@ -82,10 +75,10 @@ function cartWithYourPrice(id, price) {
 
             if(__jsEndTime > __jsStartTime)
             {
-                _gaq.push(['_trackEvent', 'Time Spent', 'Output Generation', '/privacy-policy.php', execJsTime]);            } else
+                _gaq.push(['b._trackEvent', 'Time Spent', 'Output Generation', '/privacy-policy.php', execJsTime]);            } else
             {
-                _gaq.push(['_trackEvent', 'Time Spent', 'Output Generation Error', '/privacy-policy.php start', __jsStartTime]);                _gaq.push(['_trackEvent', 'Time Spent', 'Output Generation Error', '/privacy-policy.php stop', __jsEndTime]);            }
-           _gaq.push(['_trackPageview']);
+                _gaq.push(['b._trackEvent', 'Time Spent', 'Output Generation Error', '/privacy-policy.php start', __jsStartTime]);                _gaq.push(['b._trackEvent', 'Time Spent', 'Output Generation Error', '/privacy-policy.php stop', __jsEndTime]);            }
+           _gaq.push(['a._trackPageview']);
         } catch(err) {
             //alert(err);
         }
@@ -95,149 +88,98 @@ function cartWithYourPrice(id, price) {
 <!-- ============================================================================ -->
 
 </head>
-<!--[if gte IE 9]><body class="gteIE9" id='breadTab_body_id_privacy_policy'><![endif]-->
-<!--[if IE 8]><body class="isIE8" id='breadTab_body_id_privacy_policy'><![endif]-->
-<!--[if IE 7]><body class="isIE" id='breadTab_body_id_privacy_policy'><![endif]-->
-<!--[if IE 6]><body class="isIE6" id='breadTab_body_id_privacy_policy'><![endif]-->
+<!--[if gte IE 9]><body class="gteIE9 " id='breadTab_body_id_privacy_policy'><![endif]-->
+<!--[if IE 8]><body class="isIE8 " id='breadTab_body_id_privacy_policy'><![endif]-->
+<!--[if IE 7]><body class="isIE " id='breadTab_body_id_privacy_policy'><![endif]-->
+<!--[if IE 6]><body class="isIE6 " id='breadTab_body_id_privacy_policy'><![endif]-->
 <!--[if !IE]>--><body id="breadTab_body_id_privacy_policy"><!--<![endif]-->
 <a name="top"></a>
 <div style="display: none; position: absolute;" id="altDiv"></div>
 
-<!-- Network bar -->
-<div id="networkBar">
-
-  <div id="networkBarPopup" style="display: none;">
-    <div id="networkBarBanners">
-      <a id="uptt-banner" target="_blank" href="/network.php?to=3" class="first_popup_banner" onmouseover="this.style.cursor=&quot;pointer&quot;"></a>
-      <a id="upwdl-banner" target="_blank" href="/network.php?to=4"></a>
-      <a id="upmts-banner" target="_blank" href="/network.php?to=2"></a>
-      <a id="ups2u-banner" target="_blank" href="/network.php?to=5" class="last_popup_banner"></a>
-      <div class="clear"></div>
-    </div>
-  </div>
-
-  <div id="networkBarControls">
-    <a href="#" id="networkBarButton">
-        <span id="networkBarButtonArrow"></span>
-    </a>
-  </div>
-</div>
-<!--[if lt IE 7]>
+	<!--[if lt IE 7]>
     <div style='clear: both; height: 30px; position: absolute; top:0; text-align:center; width:100%;'>
-        <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode" onclick="_gaq.push(['_trackPageview', '/out/links/upgradeIE6']);"><img src = "http://images.templatemonster.com/themes/default/images/ie6-countdown-bg.png"  alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."    /></a>
+        <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode" onclick="_gaq.push(['a._trackPageview', '/out/links/upgradeIE6']);"><img src = "http://t.tmimgcdn.com/themes/default/images/ie6-countdown-bg.png"  alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."    /></a>
     </div>
 <![endif]-->
-<!--// Network bar -->
 
 <table id="page">
-  <tbody>
-    <tr>
-      <td id="page_header">
-        <div class="leftbox">
-          <a href="http://www.templatemonster.com/"><img src="http://images.templatemonster.com/themes/default/images/logo_tm.jpg" alt="Website Templates" id="logo" border="0"></a>          <a href="http://www.templatemonster.com/"><img src="http://images.templatemonster.com/themes/default/images/logo_tm_text.png" alt="Flash Templates" id="logo_description" border="0"></a>        </div>
+    <tbody>
+        <tr>
+            <td id="page_header">
 
-        <div class="rightbox">
-          <span class="button"><a id="help" href="/support.php">Support</a></span>
+                <div class="leftbox">
+                  <a id="logo" href="http://www.templatemonster.com/"><img src="http://i.tmimgcdn.com/library/Logo.jpg" alt="Website Templates"></a>                  <a id="logo_description" href="http://www.templatemonster.com/"><img src="http://i.tmimgcdn.com/library/logo-description.png" alt="Flash Templates"></a>                </div>
+
+                <div class="rightbox">
+                    <span class="button"><a id="help" href="/support.php">Support</a></span>
 	<span class="button"><a id="site_map" href="/sitemap.php">Site Map</a></span>
 	<span class="button"><a id="about_us_page" href="/about.php">About Us</a></span>
-	<span class="button"><a id="shopping_cart" href="/cart.php" onclick="javascript: cart(''); return false;" rel="nofollow">Shopping Cart</a></span>          <div class="banner affiliate_banner">
-          <!-- Banner -->
-            <div class="lbg"></div>
-                <div class="banner_content">
-                                            <p><span>Affiliate Program</span><br>Sell Web Templates and  Earn 20% Commission!</p>
-                        
-                        <a href="/register_aff.php">
+	<span class="button"><a id="shopping_cart" href="/cart.php" rel="nofollow">Shopping Cart</a></span>                    <div class="banner">
+                        <!-- Banner -->
+                        <div class="lbg"></div>
+                        <div class="banner_content">
+                                                    <span id="account_icon"></span>
+			<div><p class="account_title">Have an Account?</p></div>				<a href="https://wac.templatemonster.com/register.html?ps=cD1odHRwOi8vd3d3LnRlbXBsYXRlbW9uc3Rlci5jb20vcHJpdmFjeS1wb2xpY3kucGhwJms9MjBGREYwOTE3NzY2NjYzMjk2OEM0REEzNkQ4RjRGMTI=" rel="nofollow">
+									<span class="join_lbg"></span>
+									<span class="join_rbg"></span>
+									Register Now!
+				</a>
+			<a href="https://wac.templatemonster.com/signin.html?ps=cG9wdXA9dHJ1ZSZwPWh0dHA6Ly93d3cudGVtcGxhdGVtb25zdGVyLmNvbS9wcml2YWN5LXBvbGljeS5waHAmaz0yMEZERjA5MTc3NjY2NjMyOTY4QzREQTM2RDhGNEYxMg==" rel="nofollow" id="sign_in" onclick="return false;">
                             <span class="join_lbg"></span>
                             <span class="join_rbg"></span>
-                            Join Now!
+                            Sign In
                         </a>
-                                    </div>
-            <div class="rbg"></div>
-          <!--// Banner -->
-          </div>
-          <div class="clear"></div>
-        </div>
-        <div class="clear"></div>
-      </td>
-    </tr>
+                        </div>
+                        <div class="rbg"></div>
+                        <!--// Banner -->
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="clear"></div>
+            </td>
+        </tr>
 	    <tr>
       <td>
         <div id="page_header_menu">
-          <div class="top">
-            <ul>
-            <li id="web-design_nav" class="">
-                <div>
-                  <a href="http://www.templatemonster.com/"><span>Web Templates</span></a>
-                </div>
+            <ul class="top">
+                <li id="web-design_nav" class="">
+                  <a href="/templates.php"><span>Web Templates</span></a>
               </li><li id="ecommerce_nav" class="">
-                <div>
                   <a href="/ecommerce-templates.php"><span>E-commerce Templates</span></a>
-                </div>
               </li><li class="">
-                <div>
                   <a href="/cms-blog-templates.php"><span>CMS &amp; Blog Templates</span></a>
-                </div>
               </li><li id="corporate_nav" class="">
-                <div>
                   <a href="/corporate-design.php"><span>Corporate Design</span></a>
-                </div>
               </li><li class="">
-                <div>
                   <a href="/facebook-layouts.php"><span>Facebook Layouts</span></a>
-                </div>
               </li><li class="">
-                <div>
                   <a href="/video-templates.php"><span>Video Templates</span></a>
-                </div>
-              </li>             
-            </ul>
-            <div class="clear"></div>
-          </div>
+              </li>            </ul>
 
           <div class="bot">
             <ul class="subnav_support"><li class="">
-                                    <div class="submenu_div_firstchild">
-                                        <a href="/free-templates.php" title="Sample Free Templates">Sample Free Templates</a>
-                                    </div>
+                                    <a href="/free-templates.php" title="Sample Free Templates">Sample Free Templates</a>
                               </li><li class="">
-                                    <div>
-                                        <a href="/support_index.php" title="Support Chat" target="_blank">Support Chat</a>
-                                    </div>
+                                    <a href="/support_index.php" title="Support Chat" target="_blank">Support Chat</a>
                               </li><li class="">
-                                    <div>
-                                        <a href="/help" title="Help Center">Help Center</a>
-                                    </div>
+                                    <a href="/help" title="Help Center">Help Center</a>
                               </li><li class="">
-                                    <div>
-                                        <a href="http://esupport.template-help.com/index.php?_m=tickets&amp;_a=submit" title="Submit a ticket" target="_blank">Submit a ticket</a>
-                                    </div>
+                                    <a href="http://esupport.template-help.com/index.php?_m=tickets&amp;_a=submit" title="Submit a ticket" target="_blank">Submit a ticket</a>
                               </li><li class="">
-                                    <div>
-                                        <a href="/license_faq.php" title="Licensing FAQ">Licensing FAQ</a>
-                                    </div>
+                                    <a href="/license_faq.php" title="Licensing FAQ">Licensing FAQ</a>
                               </li><li class="">
-                                    <div>
-                                        <a href="/faq.php" title="FAQ">FAQ</a>
-                                    </div>
+                                    <a href="/faq.php" title="FAQ">FAQ</a>
                               </li><li class="">
-                                    <div>
-                                        <a href="/terms.php" title="Terms of Use">Terms of Use</a>
-                                    </div>
+                                    <a href="/terms.php" title="Terms of Use">Terms of Use</a>
                               </li><li class="">
-                                    <div>
-                                        <a href="/refund-policy.php" title="Refund Policy">Refund Policy</a>
-                                    </div>
-                              </li><li class="act_sub_menu submenu_li_lastchild">
-                                    <div>
-                                        <a href="/privacy-policy.php" title="Privacy Policy">Privacy Policy</a>
-                                    </div>
-                              </li></ul>            <div class="clear"></div>
+                                    <a href="/refund-policy.php" title="Refund Policy">Refund Policy</a>
+                              </li><li class="act_sub_menu ">
+                                    <a href="/privacy-policy.php" title="Privacy Policy">Privacy Policy<span class="tab_lbg"></span><span class="tab_rbg"></span></a>
+                              </li></ul>
           </div>
-          <div class="clear"></div>
                     <div id="titlebar" class="wide">
             <!-- Breadcrumb --><ul class="breadcrumbs"> <li><a href="http://www.templatemonster.com/">Home</a></li>  <li><a href="/support.php">Support</a></li>  <li>Privacy Policy</li> </ul><!--// Breadcrumb -->
-          </div>
-                      <div class="clear"></div>
+                      </div>
         </div>
       </td>
     </tr>
@@ -363,21 +305,16 @@ function cartWithYourPrice(id, price) {
           <a href="/silverlight.php">Silverlight</a>
           
                                           </div>
-        <!-- START SCANALERT CODE -->
-		<div id="McAfeeBox"></div><!-- END SCANALERT CODE -->
-		<script type="text/javascript">
-                    initializeMcAfeeBanner()
-		</script>
-			
-				<br class="clear">
+        <div id="McAfeeBox"></div>
+	<br class="clear">
                 <br>
         <div style="text-align: center;">
-			Copyright © 2003-2011 Templatemonster.com. All Rights Reserved. Payments are carried out by Colerno Trade Limited.
+            	Copyright © 2003-2011 Templatemonster.com. All Rights Reserved. Payments are carried out by Colerno Trade Limited.
         <br>
 	<a href="/privacy-policy.php">Privacy Policy</a> |
 	<a href="/report-spam.php" rel="nofollow">Report spam</a><br>
 	Template Monster - Website Templates &nbsp;|&nbsp; Flash Templates &nbsp;|&nbsp; Web Templates Design
-			</div>
+	        </div>
         <div id="aff_holder" style="visibility:hidden;"></div>
         
       </td>
@@ -386,11 +323,7 @@ function cartWithYourPrice(id, price) {
 
   </tbody>
 </table>
-<script type="text/javascript">
-
-var templatesArray=new Array();
-    
-</script>
+<!-- BINGo -->
 
 <!-- Google analytics -->
 <script type="text/javascript">
@@ -400,17 +333,39 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try {
-	_gaq.push(['_setAccount', 'UA-1217838-2']);
-	_gaq.push(['_setDomainName', '.templatemonster.com']);
-	_gaq.push(['_setAllowLinker', true]);
-	_gaq.push(['_setAllowHash', false]);
-	_gaq.push(['_trackEvent', 'Time Spent', 'Server Generation', '/privacy-policy.php', 109]);
+	_gaq.push(['a._setAccount', 'UA-1217838-2']);
+    
+        _gaq.push(['a._setDomainName', '.templatemonster.com']);
+        _gaq.push(['a._addIgnoredRef', 'templatemonster.com']);
+_gaq.push(['a._setAllowLinker', true]);
+        _gaq.push(['a._setAllowHash', false]);
+        
+        _gaq.push(['a._setSessionCookieTimeout', 180000000]);
+        _gaq.push(['a._setVisitorCookieTimeout', 63072000000]);
+
+         _gaq.push(['a._trackPageLoadTime']);
+
+    _gaq.push(['b._setAccount', 'UA-1217838-16']);
+
+    
+        _gaq.push(['b._setDomainName', '.templatemonster.com']);
+        _gaq.push(['b._addIgnoredRef', 'templatemonster.com']);
+_gaq.push(['b._setAllowLinker', true]);
+        _gaq.push(['b._setAllowHash', false]);
+        
+        _gaq.push(['b._setSessionCookieTimeout', 180000000]);
+        _gaq.push(['b._setVisitorCookieTimeout', 63072000000]);
+
+         
+	_gaq.push(['a._setCustomVar', "1", "Account", "No", "2"]);
+	_gaq.push(['b._trackEvent', 'Time Spent', 'Server Generation', '/privacy-policy.php', 68]);
+    
+
 } catch (err) {}
 </script>
 <!--// Google analytics -->
-<div id="popup_back_layout"></div>
 <script type="text/javascript">
-window.onload = timeMeasurement;
+    window.onload = timeMeasurement;
 </script>
 
 
