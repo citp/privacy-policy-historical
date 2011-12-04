@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cinefundas.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423095615id_/http%3A//www.cinefundas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinefundas.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205003115id_/http%3A//www.cinefundas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cinefundas.com - One Stop Cinema Portal
 
 **At Cinefundas.com, we are very committed to your privacy, Cinefundas.com will never sell, exchange, or release any of your individual personal information to a third party without your express permission.**
 
-**INFORMATION WE MAY COLLECT**
+ **INFORMATION WE MAY COLLECT**
 
 At our site, we do not collect personally identifiable information from individuals unless they are voluntarily and knowingly willing to participate in contests. This means we do not require you to register or provide information to us in order to view our site. We only gather personally identifiable data, such as names, addresses, phone numbers, zip/postal codes, e-mail addresses, etc., when a user voluntarily submits to participate in our contests.
 
@@ -14,15 +14,15 @@ Like other web sites, your IP number is visible to us when you visit our web sit
 
 We may share personally identifiable information with third parties when the person submitting the information authorizes us to share it or we are required to by law.
 
-**COOKIES**  
+ **COOKIES**  
 Like many sites, Cinefundas.com uses cookies. Cookies are data files that are stored on your computer. They contain identification information that enables us to see how our users are interacting with our site and how frequently they are returning. Cookies do not contain any personally identifiable information.
 
 We use cookies for the benefit of our users. Cookies let us know if we have repeat visitors (a strong indication of happy consumers) and if we are delivering a quality product to our consumers. We also use cookies to identify which sites our repeat visitors are coming from, so that we can place more of our online advertising on those sites. Cinefundas.com does not use cookies to identify specific individuals, except in such cases as contest registration (where a cookie allows to you to enter a contest every day without registering again each time) and personalization features where a guest requests certain information. Cinefundas.com never uses cookies to retrieve information from your computer that was not originally sent in a cookie. Cinefundas.com does not use information transferred through cookies for any promotional or marketing purposes. Essentially, it is an anonymous way to survey how we are doing and to look for other consumers who we think will like our site. Cookies are not programs that come onto a visitor’s system and damage files. Generally, cookies work by assigning a unique number to the visitor that has no meaning outside the assigning site. If a visitor does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the visitor to deny or accept the cookie feature.
 
-**LINKS TO OTHER WEB SITES**  
+ **LINKS TO OTHER WEB SITES**  
 Cinefundas.com contains many links to other sites. Cinefundas.com is not responsible for the privacy practices or the content of such Web sites. Cinefundas.com does not share any of the individual personal information you provide Cinefundas.com with the sites to which Cinefundas.com links, although Cinefundas.com may share aggregate data with such sites (such as how many people use our site). This includes other third party sites on the Internet for which Cinefundas.com provides search services. Please check with those sites to determine their privacy policy.
 
-**THIRD PARTY ADVERTISING**  
+ **THIRD PARTY ADVERTISING**  
 We use Axill, Google and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/optout_nonppii.asp) ****
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
@@ -31,7 +31,7 @@ We use Axill, Google and other third-party advertising companies to serve ads wh
 
 
 
-**THIRD PARTY COOKIES**  
+ **THIRD PARTY COOKIES**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 If you have any questions about this privacy policy, the practices of this site, or your dealings with Cinefundas.com, please write to: info@cinefundas.com
