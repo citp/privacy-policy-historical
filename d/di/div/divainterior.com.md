@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divainterior.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122061746id_/http%3A//divainterior.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divainterior.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204042648id_/http%3A//divainterior.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Interior Design
 
