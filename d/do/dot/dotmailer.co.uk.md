@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229214450id_/http%3A//www.dotmailer.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotmailer.co.uk privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204100040id_/http%3A//www.dotmailer.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | dotMailer
+# Privacy Policy | Email Marketing | dotMailer
 
 dotMailer whose registered office is at No 1 Croydon, 12-16 Addiscombe Road, Croydon, CR0 0XT England Registered No. 03762341 has created this privacy statement because we take your privacy seriously.  The statement sets out, who we are, what information we collect from you, and how we use it. 
 
@@ -96,9 +96,11 @@ dotMailer currently operates the following websites:
   * www.dotMailer.co.uk 
   * www.dotMailer.com 
   * www.dotAgency.co.uk
-  * www.dotSEO.co.uk
+  * www.dotSearch.co.uk
   * www.dotCommerce.co.uk
   * www.dotEditor.co.uk
   * www.dotDigitalGroup.com
+  * www.dotSurvey.com
+  * www.dotDigitalBlog.com
 
 
