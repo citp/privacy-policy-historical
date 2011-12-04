@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-news.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514054456id_/http%3A//www.seo-news.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-news.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204145955id_/http%3A//www.seo-news.com/privacy.html) for the most accurate reproduction.*
 
 # SEO News: Privacy Statement
 
@@ -16,7 +16,7 @@ SEO-News collects minimal personal information when you subscribe to our newslet
 
 SEO-News uses email address information to deliver newsletters to your Inbox and to send you announcements and carefully screened offers and information from our partners and certain vendors.
 
-Subscriber information is received through the Jayde Online Network of web sites which include ExactSeek.com, SiteProNews.com, Dropjack.com, Blog-Search.com, EzineHub.com, GoArticles.com, Aesop.com, SitesOnDisplay.com and, of course, SEO-News.com, as well as through partner sites such as SubmitPlus.com, FreeTechMail.org and hundreds of other sites carrying our subscriber form.
+Subscriber information is received through the Jayde Online Network of web sites which include ExactSeek.com, SiteProNews.com, Dropjack.com, Blog-Search.com, EzineHub.com, SitesOnDisplay.com and, of course, SEO-News.com, as well as through partner sites such as SubmitPlus.com, FreeTechMail.org and hundreds of other sites carrying our subscriber form.
 
 Webmasters who submit web sites to ExactSeek.com should familiarize themselves with ExactSeek.com privacy policy which specifically outlines that contact information collected during the site submission process may be used to provide them with free newsletters such as SiteProNews and SEO-News as well as for announcements, carefully screened offers etc. Details regarding ExactSeek's privacy policy can be found by clicking the link below:
 
@@ -40,7 +40,7 @@ SEO-News may amend this policy from time to time. If significant changes are mad
 
 ## Questions or Suggestions
 
-Questions or suggestions may be sent to: [**Feedback**](mailto:info@seo-news.com?subject=RE:Feedback)
+Questions or suggestions may be sent to: [**Feedback**](mailto:inquiry\[at\]seo-news.com?subject=RE:Feedback)
 
   
 
