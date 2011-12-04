@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514002427id_/http%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204091631id_/http%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Healing Natural Oils - Amoils.com
 
@@ -6,13 +6,13 @@
 
   * [Home](http://www.amoils.com/)
   * [About](http://www.amoils.com/about.html)
-  * [Testimonials](http://www.amoils.com/testimonial.html)
   * [FAQs](http://www.amoils.com/faq.html)
   * [Shipping](http://www.amoils.com/shipping.html)
   * [Contact Us](http://www.amoils.com/contact.html)
   
 
-  *   * [All Products](http://www.amoils.com/products.html)
+  *   * [Bundle Packs](http://www.amoils.com/bundle-packs.html)
+  * [All Products](http://www.amoils.com/products.html)
 
 
   * Treatments
@@ -25,7 +25,6 @@
     * [Eczema](http://www.amoils.com/eczema.html "Eczema")
     * [Fissures](http://www.amoils.com/anal-fissures.html "Fissures")
     * [Headaches](http://www.amoils.com/headaches.html "Headaches")
-    * [Head Lice](http://www.amoils.com/head-lice.html "Head Lice")
     * [Hemorrhoids](http://www.amoils.com/hemorrhoids.html "Hemorrhoids")
     * [Insomnia](http://www.amoils.com/insomnia-treatment.html "Insomnia")
     * [Jock Itch](http://www.amoils.com/jock-itch.html "Jock Itch")
@@ -70,9 +69,9 @@ Healing Natural Oils will not obtain personally-identifying information about yo
 
 | 
 
-[ Over  
+Over  
 500,000  
 Sold  
-testimonials ](http://www.amoils.com/testimonial.html)  
+  
   
 ---|---|---
