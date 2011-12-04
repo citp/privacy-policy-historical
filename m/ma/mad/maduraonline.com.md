@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maduraonline.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217214315id_/http%3A//maduraonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maduraonline.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204164917id_/http%3A//www.maduraonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
