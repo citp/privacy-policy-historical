@@ -1,203 +1,80 @@
-<!--The following is the downloaded HTML source of the modnique.com privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624142032id_/http%3A//www.modnique.com/bzJApp/ViewContent.action%3Fsid%3D300%26tid%3D100%26pageName%3Dmodnique_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modnique.com privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204162918id_/http%3A//www.modnique.com/faqs/modnique_faq_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-                <title>Online Sample Sales of Authentic Brand Name and Designer Merchandise.</title>
-<meta name="description" content="Modnique.com is an exclusive private brand name sample sale website. We sell designer apparel, clothes, jewelry, watches, handbags, sunglasses and other premium, quality, brand name products at low discount price. Modnique offers its member access to brand name sale and designer sale events of authentic, brand new and hand-picked designer merchandise. Modnique's prices are lower than found at regular stores because we buy inventory directly from designers and manufacturers. Members save 50-85% or even more.">        <link rel="stylesheet" type="text/css" href="/bzJApp/views/site/modnique/css/main.css">
-        <link rel="shortcut icon" type="image/ico" href="/bzJApp/views/site/modnique/images/favicon.ico">
-        <link rel="stylesheet" type="text/css" href="/bzJApp/views/site/modnique/css/modnique_theme/jquery-ui-1.7.2.custom.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <title>Online Sample Sales of Authentic Brand Name and Designer Merchandise.</title>
+<meta name="description" content="Modnique.com is an exclusive private brand name sample sale website. We sell designer apparel, clothes, jewelry, watches, handbags, sunglasses and other premium, quality, brand name products at low discount price. Modnique offers its member access to brand name sale and designer sale events of authentic, brand new and hand-picked designer merchandise. Modnique's prices are lower than found at regular stores because we buy inventory directly from designers and manufacturers. Members save 50-85% or even more.">    <link rel="stylesheet" type="text/css" media="screen, projection" href="/combinefilescss/GeneralCSS/site/300/filever/filever89/">
 
-        <script type="text/javascript" async="" src="//d2f7h8c8hc0u7y.cloudfront.net/performable/pax/4hbqiP.js"></script><script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery-1.4.3.min.js"></script>
-        <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery-ui-1.8.13.custom.min.js"></script>
-        <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery.tools.min.js"></script>
-        <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery.dialogs.js" language="javascript"></script>
+    <link rel="shortcut icon" type="image/ico" href="/bzJApp/views/site/modnique/images/favicon.ico">
 
-        <script type="text/javascript">
-            // global.inc variables converted into js
+    <script type="text/javascript" src="/combinefiles/OpenBlock/site/300/filever/filever89/" language="javascript"></script>
+    <script type="text/javascript">
+        // global.inc variables converted into js
 var hostName = "http://www.modnique.com/";
 var SiteID = "300";
 var TenantID = "100";
 var cookieDomain = ".modnique.com";
 var securePrefix = "https://checkout.modnique.com";
 var nonsecurePrefix = "http://checkout.modnique.com";
-        </script>
-        <script type="text/javascript" language="JavaScript">
-            $(function(){
-                //Include for JQuery onload function ONLY.
-//Init login dialog
+var usernameCookie = "usernamecookie";
+var userCountryCookie='userCountryCookie';
+var itemEarliestExpirationTimeCookie='itemEarliestExpirationTimeCookie';
+
+// used in jquery_login_init.inc
+var salesEventAccess = "PUBLIC";
 var redirecturl = '';
+var requestURI = '/bzJApp/ViewContent.action?sid=300&tid=100&pageName=modnique_privacy'; // line 57
+var defaultSize = '';
+var defaultExternalColorId = '';
+var modAddToCartLink = "https://checkout.modnique.com/bzJApp/AddSalesEventItemToCart.action";
+var parentURLPrefix = '$parentURLPrefix';
+var salesEventItemId = '';
+var salesEventId= '$saleEvent.getSaleEventId()';
+var eventProductId = '$saleEventItem.getSaleEventItem().getProductDao().getProdId()';
+var RandomNumber = '1531';
+var enableOneClickCheckout = "Y"; 
+var enableOneClickCheckoutUI = "Y"; 
+var numberOfItemsInCartCheckInterval="6000000";
+var getCart= "$cart"=="$"+"cart"?false:true;
 
-$("#login_dialog").dialog({
-	bgiframe: true,
-	width: 675,
-	height: 330,
-	modal: true,
-	draggable: false,
-	position: 'center',
-	autoOpen: false,
-	zindex: 1003,
-	show: 'fade',
-	hide: 'fade',
-	resizable: false,
-	open: function() {
-        $('.ui-dialog-titlebar-close').css('right', '3px');
-        $('.ui-dialog').css({
-            position:'fixed',
-            top: '25%'
-        });
-	},
-	beforeclose: function() {
-	}
-});
+var enableGigyaLoginFunctionality = "Y";
+var gigyaLicenseKey = "2_591RXtKeCRbsDbcqH9vy8k_X6zFqhAClWJOM0jfanjaiw-oHh0xtFLXyXqwc3WSl";
+var enableLazyLoading = "Y";
+var fileVersion = "filever89/";
+var usePersistentLoginCookie = "Y";
+var checkoutCookieName= "cctpsc";
+var displayTouchPointSurvey = "Y"; 
+var hostPrefix = window.location.protocol + '//' + window.location.hostname;
+    </script>
+    <script type="text/javascript" src="/bzJApp/views/filever89/site/modnique/js/jquery_login_init.js" language="javascript"></script>
 
-$('#open_login_button').click(function(event) {
-	
-	var returnUrl = escape(document.location.href);
-	var iframeSrc = 'https://checkout.modnique.com/bzJApp/ViewDialog.action?sid=300&tid=100&pageName=loginiframe&returnURL='+returnUrl;
-					
-	// Append the iframe into the dialog
-	var iframe = $( '<iframe " src="' + iframeSrc + '" width="675" height="330" scrolling="no" frameborder="0"><\/iframe>' );
-	iframe.appendTo( $("#login_dialog") );
-	
-	$("#login_dialog").dialog('open');
-	$('div#login_error_message').text('');
-	event.preventDefault();
-});
-
-$('#inviteamember a').click(function(event) {
-
-	var returnUrl = escape(document.location.href);
-	var iframeSrc = 'https://checkout.modnique.com/bzJApp/ViewDialog.action?sid=300&tid=100&pageName=loginiframe&returnURL='+returnUrl;
-
-	// Append the iframe into the dialog
-	var iframe = $( '<iframe " src="' + iframeSrc + '" width="675" height="330" scrolling="no" frameborder="0"><\/iframe>' );
-	iframe.appendTo( $("#login_dialog") );
-
-	$("#login_dialog").dialog('open');
-	$('div#login_error_message').text('');
-	event.preventDefault();
-});
-
-
-$('#invite_login_button').click(function(event) {
-	$("#login_dialog").dialog('open');
-	$('div#login_error_message').text('');
-	redirecturl = event.target.href;
-	event.preventDefault();
-});
-
-$('#makeanoffer_button').click(function(event) {
-	$("#login_dialog").dialog('open');
-	$('div#login_error_message').text('');
-	event.preventDefault();
-});
-
-$('#cart_login_button').click(function(event) {
-	$("#login_dialog").dialog('open');
-	$('div#login_error_message').text('');
-	event.preventDefault();
-});
-
-$('.make_offer_button').click(function(event) {
-
-	var returnUrl = escape(document.location.href);
-	var iframeSrc = 'https://checkout.modnique.com/bzJApp/ViewDialog.action?sid=300&tid=100&pageName=loginiframe&returnURL='+returnUrl;
-
-	// Append the iframe into the dialog
-	var iframe = $( '<iframe " src="' + iframeSrc + '" width="675" height="330" scrolling="no" frameborder="0"><\/iframe>' );
-	iframe.appendTo( $("#login_dialog") );
-
-	$("#login_dialog").dialog('open');
-	$('div#login_error_message').text('');
-	event.preventDefault();
-});
-
-	$('.bag_button').click(function (event){
-		// empty dialog
-		$("#login_dialog").html('');
-		
-		if( trim(selectedSize) == "" ){
-			selectedSize = "";
-		}
-		if( trim(selectedColor) == "" ){
-			externalColorId = "";
-		}else{
-			externalColorId = itemAvailabilityChecker.getColorIdByColorName(trim(selectedColor));
-		}
-		quantity = "1";
-		if( $('#quantity').length > 0 ){
-			quantity = $('#quantity').val();
-		}
-		
-		// define returnURL  
-		var returnUrl = escape(document.location.href);
-						   
-		// define redirectUrl
-				var redirectUrl = "https://checkout.modnique.com/bzJApp/AddSalesEventItemToCart.action?sid=300&salesEventItemId=&salesEventId=$saleEvent.getSaleEventId()&productId=$saleEventItem.getSaleEventItem().getProductDao().getProdId()&size="+selectedSize+"&externalColorId="+externalColorId+"&quantity="+quantity;
-		redirectUrl = escape(redirectUrl);
-		
-		// define src
-		var iframeSrc = 'https://checkout.modnique.com/bzJApp/ViewDialog.action?sid=300&tid=100&pageName=loginiframe&returnURL='+returnUrl+'&redirectURL='+redirectUrl;
-		
-		// Append the iframe into the dialog
-		var iframe = $( '<iframe id="loginDialogIframe" src="' + iframeSrc + '" width="675" height="330" scrolling="no" frameborder="0"><\/iframe>' );
-		iframe.appendTo( $("#login_dialog") );
-	
-		// display the dialog
-		$("#login_dialog").dialog('open');
-		
-		$('div#login_error_message').text('');
-		event.preventDefault();
-	});
-
-$('#ajax_login_button').click(function(event) {
-	querystring = "/bzJApp/Proxy.action?actionName=XMLLogon&dest=c&sid=300&tid=100&pageload=1990&params=";
-	param = "sid=300&tid=100&loginname=" + $('#ajax_username').val() + "&loginpwd=" + $('#ajax_password').val();
-	param = escape(param);
-	querystring = querystring + param;
-	//alert(querystring+param);
-	$('div#login_error_message').text('Processing login...');
-	$('div#login_error_message').load(querystring, loginCallback);
-});
-
-function loginCallback(data, status){
-	//alert('Request complete with status "' + status + '", response: ' + data);
-	if(data == 'true'){
-		$('div#login_error_message').text('You are in! Welcome.');
-		if(redirecturl != ''){
-			location.href = redirecturl;
-		} else {
-			location.reload(true);
-		}
-	} else {
-		$('div#login_error_message').text('Please enter a valid username and password.');
-	}
-}            });
-        </script>
-    </head>
-    <body id="content_page">
-        <!--var securePrefix = "https://checkout.modnique.com";-->
+</head>
+<body id="content_page">
 <div style="display:none;visibility:hidden;">
-<div id="login_dialog" class="ajax_form"></div></div>
+	<div id="oneClickCheckout_dialog" class="ajax_oneClickCheckout"></div></div>
 <div style="display:none;visibility:hidden;">
-<div id="signup_dialog" class="ajax_form"></div></div>
+	<div id="login_dialog" class="ajax_form"></div></div>
 <div style="display:none;visibility:hidden;">
-<div id="vertical_signup_dialog" class="ajax_form"></div></div>
+	<div id="signup_dialog" class="ajax_form" style="overflow: hidden;"></div></div>
 <div style="display:none;visibility:hidden;">
-<div id="email_link_dialog" class="ajaxemail_form"></div></div>
+	<div id="vertical_signup_dialog" class="ajax_form" style="overflow: hidden;"></div></div>
 <div style="display:none;visibility:hidden;">
-<div id="dialog_confirmation">
-		<div id="confirmation_popup">
+	<div id="email_link_dialog" class="ajaxemail_form"></div></div>
+<div style="display:none;visibility:hidden;">
+	<div id="invite_dialog" class="ajax_invite"></div></div>
+<div style="display:none;visibility:hidden;">
+	<div id="dialog_confirmation">
+				<div id="confirmation_popup">
 							  <br><br><br>
                         <h1>Invite Sent</h1>
                         
         
-				</div></div>
+				</div>	</div>
 </div>
+
 	
-				
-	
+					
 	<!--[if IE 7]>
 		<link href="/bzJApp/views/site/modnique/css/ie7.css" type="text/css" rel="stylesheet" />
 	<![endif]-->
@@ -205,696 +82,641 @@ function loginCallback(data, status){
         <link rel="stylesheet" type="text/css" href="/bzJApp/views/site/modnique/css/all-ie-only.css" />
     <![endif]-->
 
-	<script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery.hoverIntent.js" language="javascript"></script>
-	<script type="text/javascript" src="/bzJApp/views/site/modnique/js/postMessage.js" language="javascript"></script>
-    <script type="text/javascript" src="/bzJApp/views/site/modnique/js/displayFunctions.js" language="javascript"></script>
-    <script type="text/javascript" src="/bzJApp/views/filever28/site/bidz2010/js/cookieFunctions.js" language="javascript"></script>
-    <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery_signup.js" language="javascript"></script>
-    <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery_signup_vertical.js" language="javascript"></script>
-    <script type="text/javascript" src="/bzJApp/views/site/modnique/js/jquery_email_link.js" language="javascript"></script>
-	<script type="text/javascript" language="JavaScript">
-				
-			function stripUrlParam(url, name){
-				url = url.replace("&"+name, "");
-				url = url.replace("="+name, "");
-				
-				return url;
-			}
-			
-			function redirectPage(topUrl){
-				// get browser and version
-				var userBrowser = navigator.appName;
-				var ver = navigator.appVersion;
-				var thestart = parseFloat(ver.indexOf("MSIE"))+1
-				var brow_ver = parseFloat(ver.substring(thestart+4,thestart+7))
-			
-				if((userBrowser=="Microsoft Internet Explorer") && (brow_ver < 8)){
-					// remove all parameters from url
-					topUrl = topUrl.split('#');
-					topUrl = topUrl[0];
-					
-					if(topUrl == "http://www.modnique.com/"){
-						topUrl = "http://www.modnique.com/" + "saleevents";
-					}
-					
-					window.location = topUrl;
-					//location.reload(true);
-				}else{
-					if(topUrl == "http://www.modnique.com/"){
-						topUrl = "http://www.modnique.com/" + "saleevents";
-					}
-					document.location = topUrl;
-				}
-			}
-		
-	
-		jQuery(document).ready(function($) {
-			
-						function megaHoverOver(){
-				$(this).find(".nav_tab").stop().fadeTo(50, 1).show(); //find .sub and fade it in
-			}
-			//#nav out function
-			function megaHoverOut(){
-			  $(this).find(".nav_tab").stop().fadeTo(50, 0, function() { //Fade to 0 opactiy
-				  $(this).hide();  //after fading, hide it
-			  });
-			}
-			
-			//#nav hoverIntent configuration and trigger
-			var hoverIntentConfig = {
-				 sensitivity: 3, //number = sensitivity threshold (must be 1 or higher)
-				 interval: 50, //number = milliseconds for onMouseOver polling interval
-				 over: megaHoverOver, //function = onMouseOver callback (REQUIRED)
-				 timeout: 50, //number = milliseconds delay before onMouseOut
-				 out: megaHoverOut //function = onMouseOut callback (REQUIRED)
-			};
-	
-			$("ul#nav li .nav_tab").css("opacity",0.9); //fade sub nav to 0 opacity by default
-			
-			$("ul#nav li").hoverIntent(hoverIntentConfig); //trigger hoverIntent with custom configurations
-			
-			$("ul.tabs").tabs("div.panes > div"); //trigger brand navigation
-			
-			$("ul.tabs").tabs("div.panes > div", {
-				initialIndex: 100
-			});
-						
-			
-						// Process Object based responses from child frame
-			function callMethodWithParam(str){
-				//alert("callmethodwithparam " + str);
-				
-				var params = str.split("&");
-				var redirectURL = "";
-				var actionToReturn = "";
-				for(i=0; i<params.length; i++){
-					var fields = params[i].split("=");
-					var field = fields[0];
-					var field_value = fields[1];
-					
-					if(field == "action1"){
-						if(field_value=="rememberUsername"){
-							var username = params[i+1].split("=");
-							var username = username[1];
-							setBidzCookieWithDomain("rememberUser", username, 100, cookieDomain);
-						}
-						else if (field_value=="forgetUsername")
-						{
-							setBidzCookieWithDomain("rememberUser", "", -10, cookieDomain);
-						}
-					}else if(field == "action2"){
-						actionToReturn = field_value;
-					}
-					else if (field == "redirectURL")
-					{
-						redirectURL = field_value;
-					}
-				}
-				return actionToReturn + "&redirectURL="+redirectURL
-			}
-			
-				// Establish bridge between parent and child
-				$.receiveMessage(function(e){
-					var str = e.data;
-					//alert(str);
-					if (str.indexOf("action1")>-1){
-						str = "action2="+callMethodWithParam(str);
-						//alert("action " + str);
-					}
-					//alert("string: " + str);
-					if (str.indexOf("action2")>-1){
-						//alert(str);
-						// get the action
-						var action = str.split("action2=");
-						action = action[1].split("&");
-						action = action[0];
-						
-						// use the action to parse the proper parameters
-						switch (action){
-							case 'closeLoginDialogGoToCart': 
-								var redirectURL = str.split("redirectURL=");
-								redirectURL = unescape(unescape(redirectURL[1]));
-								redirectPage(redirectURL);
-								break;
-						}
-						
-						str = action;
-					}
-					
-					// Process actions
-					// alert(str);
-					switch (str){
-						// Basic
-						case 'closeLoginDialog': 
-							var topUrl = stripUrlParam(top.location.href, 'userLoggedIn');
-							redirectPage(topUrl);
-							break;
-						case 'openSignup': 
-							var refreshURL = "http://www.modnique.com/bzJApp/ViewNewCustRegistrationForm.action?sid=300&tid=100&returnURL=http%3A%2F%2Fwww.modnique.com%2FbzJApp%2FViewContent.action%3Fsid%3D300%26tid%3D100%26pageName%3Dmodnique_privacy";
-							redirectPage(refreshURL);
-							break;
-						case 'openForgotPassword': 
-							var refreshURL = "http://www.modnique.com/bzJApp/ViewRememberPasswordForm.action?sid=300&tid=100";
-							redirectPage(refreshURL);
-							break;
-						// Default
-						 default:
-							break;
-					}
-				},
-				  'https://checkout.modnique.com'
-				);
-					});
-	</script>
-	
-	<script type="text/javascript">
-		var fieldCleared = false;
-		function clearOnInitialFocus ( field ) {
-		   if (!fieldCleared) {
-				  field.value = '';
-				  fieldCleared = true;
-			   }
-				   return true;
-			} //END: clearOnInitialFocus
-			
-			function sendToSalesEventsHome(categoryId)
-			{
-				//check if sale_thumb elements are on the page.if they are not, 
-				//redirect to sales event home page.
-				if ($('div.sale_thumb').length == 0)
-				{
-					return true;
-				}
-				else
-				{
-					showHideEventsByCategory(categoryId);
-				}
-				return false;
-			}
-			
-			function showHideEventsByCategory(categoryId)
-			{
-				//alert("showHideEventsByCategory - categoryId " + categoryId);
-				if (!categoryId)
-				{
-					$('#noEventsFound').hide();
-					showAllEvents();
-				}
-				else
-				{
-					//hide elements that don't contain the category id
-					categoryId = "|" + categoryId + "|";
-					//find elements that have the category id in the name
-					$('div.sale_thumb').hide();
-					$('div.sale_thumb2').hide();
-					$('div[name*='+categoryId+']').show();
-					
-					//alert("size" + $('div[name*='+categoryId+']').size());
-					
-					$('#noEventsFound').hide();
-					//if no sales events are available for the provided category id
-					//show a message div and all sales events and 
-					if (noSalesEventsFoundInTheCategory(categoryId))
-					{
-						$('#noEventsFound').show();
-						showAllEvents();
-					}
-				}
-				return false;
-			}
-			
-			function noSalesEventsFoundInTheCategory(categoryId)
-			{
-				if ($('div[name*='+categoryId+'][name$=activeEvent]').size()==0)
-				{
-					//alert("category " + categoryId + " has no active events");
-					return true;
-				}
-				else
-				{
-					return false;
-				}
-			}
-			
-			
-			function showAllEvents()
-			{
-				$('div.sale_thumb').show();
-				$('div.sale_thumb2').show();
-				return false;
-			}
-			
-		
-			
-			function showEventsByCategory(cat)
-			{
-				for (i = 0;i<=7;i++)
-				{
-					$('#menuByCategory'+i).hide();
-				}
-				$('#menuByCategory'+cat).show();
-			}
-			
-			function hideEventsByCategory(cat)
-			{
-				$('#menuByCategory'+cat).hide();
-			}
-	</script>
-	
-	
-	<script type="text/javascript">
-	$(function() {
-	$("#dialog_confirmation").dialog({
-		bgiframe: true,
-		width: 320,
-		height: 100,
-		modal: true,
-		draggable: false,
-		position: 'center',
-		autoOpen: false,
-		resizable: false
-	})
-	});
-	</script>
-	
-	<script src="/bzJApp/views/site/modnique/js/login.js" language="JavaScript" type="text/javascript"></script>		
-	<script src="/bzJApp/views/site/modnique/js/storeCredit.js" language="JavaScript" type="text/javascript"></script>
+	<script type="text/javascript" src="/combinefiles/Header/site/300/filever/filever89/" language="javascript"></script>
+			<script type="text/javascript">
+			var gigyaHost = (("https:" == document.location.protocol) ? "https://" : "http://"); 
+			document.write("<scr" + "ipt type='text/javascript' src='" + gigyaHost + "cdns.gigya.com/JS/socialize.js?apikey=2_591RXtKeCRbsDbcqH9vy8k_X6zFqhAClWJOM0jfanjaiw-oHh0xtFLXyXqwc3WSl'></scr" + "ipt>");
+		</script><script type="text/javascript" src="https://cdns.gigya.com/JS/socialize.js?apikey=2_591RXtKeCRbsDbcqH9vy8k_X6zFqhAClWJOM0jfanjaiw-oHh0xtFLXyXqwc3WSl"></script>
+	    <script type="text/javascript" src="/bzJApp/views/site/modnique/js/templates/header.js" language="javascript"></script>
 
-                <script type="text/javascript">
-            var gigyaHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-            document.write("<scr" + "ipt type='text/javascript' src='" + gigyaHost + "cdns.gigya.com/JS/socialize.js?apikey=2_591RXtKeCRbsDbcqH9vy8k_X6zFqhAClWJOM0jfanjaiw-oHh0xtFLXyXqwc3WSl'></scr" + "ipt>");
-        </script><script type="text/javascript" src="https://cdns.gigya.com/JS/socialize.js?apikey=2_591RXtKeCRbsDbcqH9vy8k_X6zFqhAClWJOM0jfanjaiw-oHh0xtFLXyXqwc3WSl"></script>
-        <script type="text/javascript">
-            //Define a configuration object. Insert your Gigya APIKey below:
-            var signup_conf = {APIKey: "2_591RXtKeCRbsDbcqH9vy8k_X6zFqhAClWJOM0jfanjaiw-oHh0xtFLXyXqwc3WSl"};
-            // Changing the default look and behavior of the Plugin using the 'params' object:
-            var signup_params =
-                {
-                    showTermsLink: 'false',
-                    hideGigyaLink:true,
-                    height: 40,
-                    width: 100,
-                    containerID: 'gigya_header',             // The Plugin will embed itself inside the "gygia_header" DIV
-                    autoDetectUserProviders: '',
-                    facepilePosition: 'none',
-                    lastLoginIndication: 'none',
-                    //Change button size to 40
-                    UIConfig:'<config><body><controls><snbuttons buttonsize="40"></snbuttons></controls></body></config>'
-                    // After successful login - the user will be redirected to:
-                    // redirectURL: "www.modnique.com/"
-                }
-
-    // jquery on DOM ready global
-    jQuery(document).ready(function($) {
-
-            var gigyaEventObj;
-
-            function onLoginHandler(eventObj) {
-                gigyaEventObj = eventObj;
-                querystring = "/bzJApp/Proxy.action?actionName=GigyaLogon&method=p&dest=c&sid=300&tid=100&pageload=9592&params=";
-                                param = "&sid=300&tid=100";
-                                param = escape(param);
-                                querystring = querystring + param;
-                jQuery.ajax({
-                            url: querystring,
-                            type:"POST",
-                            data: {'gigyaJson' : JSON.stringify(eventObj)},
-                            success: gigyaLoginCallback
-                        });
-            }
-
-            // onLogout Event handler
-            function onLogoutHandler(eventObj) {
-            }
-
-            gigya.services.socialize.addEventHandlers(signup_conf, {
-                        context: { str: 'Logged in.' }
-                        , onLogin: onLoginHandler
-                        , onLogout: onLogoutHandler
-                    });
-
-            function gigyaLoginCallback(eventObj) {
-                var gigyaResponse = JSON.parse(eventObj);
-                switch (gigyaResponse.action) {
-                    case "LOGGED_IN" :
-                        window.location.reload();
-                        break;
-                    case "REGISTERED" :
-                        window.location.replace(gigyaResponse.nextPage);
-                        break;
-                    case "LINKING_REQUIRED" :
-                        emailLinkDialog(encodeURIComponent(gigyaEventObj.UID), encodeURIComponent(gigyaEventObj.user.email));
-                        break;
-                    case "EMAIL_UNAVAILABLE" :
-                        emailLinkDialog(encodeURIComponent(gigyaEventObj.UID), encodeURIComponent(gigyaEventObj.user.email));
-                        break;
-                }
-            }
-
-    });
-</script>
-
-
-<div id="main_wrapper">
-<div id="header_wrapper">
-	<div id="login_status">
-                        <div class="userLoggedOut">
-                <div id="gigya_header"></div>
-                <script type="text/javascript">
-                        gigya.services.socialize.showLoginUI(signup_conf, signup_params);
-                </script>
+        <div id="newHeader">
+        <div id="newHeader_top_wrapper">
+            <div id="newHeader_loader">
+                <span id="loader">Loading</span>
             </div>
-                        <div id="login_links">
-		<div class="tagline1">
-		
-				<a class="userLoggedIn" href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_shipping"><strong>WE SHIP WORLDWIDE!</strong></a>
-    	
-				<a class="userLoggedOut" href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_shipping"><strong>WE SHIP WORLDWIDE!</strong></a>
-		
-			    			<a id="open_login_button2" class="userLoggedIn" href="http://www.modnique.com/bzJApp/CustomerLogout.action?sid=300&amp;tid=100&amp;returnURL=http%253A%252F%252Fwww.modnique.com%252FbzJApp%252FViewContent.action%253Fsid%253D300%2526tid%253D100%2526pageName%253Dmodnique_privacy"><strong>LOGOUT</strong></a>
-				<a id="open_login_button" class="userLoggedOut" onclick="document.getElementById('hlogin_wrapper'); return false;"><strong>LOG IN</strong></a>
-    				</div>
-                <div id="headerlinks10">
-                        <div class="userLoggedIn">
-                        <a id="headerlinks2" href="http://checkout.modnique.com/bzJApp/ViewAccount.action?sid=300&amp;tid=100">WELCOME</a>
-                        <a href="http://checkout.modnique.com/bzJApp/ViewAccount.action?sid=300&amp;tid=100">CREDITS:</a>
-                        <span id="store_credit">
-                                <script type="text/javascript">
-                                        getStoreCreditValueWithJQuery("https://checkout.modnique.com","ShowStoreCashCredit","sid=300&tid=100","span#store_credit");
-                                </script>
-                        </span>
+            <div id="newHeader_logo">
+                <a id="newHeader_logolink" href="http://www.modnique.com/">Modnique - Boutique Events</a>
+            </div>
+            <div id="newHeader_usernav_wrapper">
+                <ul class="userLoggedOut">
+                    <li class="mod_contact">
+                        <a class="usernav_contact" href="http://www.modnique.com/contact/modnique_contact">contact</a>
+                        <div class="header_nav">
+                            <div class="header_subnav">
+                                <h2>Contacts</h2>
+                                <p>
+                                    We are here to help!<br>
+                                    24/7 response by e-mail:<br>
+                                    <a class="contact" href="mailto:service@modnique.com">service@modnique.com</a>
+                                    7am to 5pm PST<br>
+                                    1-888-857-8557<br>
+                                    1-310-280-7380<br>
+                                </p>
+                            </div>
                         </div>
-                        <div id="notamember" class="userLoggedOut"><h2><a href="http://www.modnique.com/bzJApp/ViewNewCustRegistrationForm.action?sid=300&amp;tid=100"></a></h2></div>
-                </div>
+                    </li>
+                    <li>
+                        <a class="signupLink usernav_signup">not a member? register &amp; get $5 instantly</a>
+                    </li>
+                    <li id="usernav_loginlink">
+                        <a id="usernav_login" onclick="document.getElementById('hlogin_wrapper'); return false;">log in</a>
+                    </li>
+                    <li id="usernav_gigya_wrapper">
+                                                <div class="userLoggedOut">
+                            <div id="usernav_gigya_login"></div>
+                            <script type="text/javascript">
+                                    gigya.services.socialize.showLoginUI(signup_conf, login_params); 
+                            </script>
+                        </div>
+                                            </li>
+                </ul>
+                <ul class="userLoggedIn">
+                    <li>
+                        <div id="profile">
+                            <a id="gig_avatar">
+                                <img id="photo" src="/" width="30">
+                            </a>
+                            <div id="gig_welcomeuser">
+                                <strong>Welcome, <span id="name"></span></strong>
+								<a class="logout">(log out)</a>
+                            </div>
+                        </div>
+                        <div id="noprofile" style="min-width: 200px;">
+                            <span id="usernav_welcome"></span>
+                            <a class="logout">(log out)</a>
+                        </div>
+                    </li>
+                    
+                    <li class="myaccount">
+                        <a href="https://checkout.modnique.com/my-account" id="account">account</a>
+                        <div id="myaccount_nav" class="header_nav">
+                            <div class="header_subnav">
+                                <h2>Personal Settings</h2>
+                                <a href="http://checkout.modnique.com/bzJApp/UpdatePersonalInfo.action?sid=300&amp;tid=100" class="openPersistentLoginDialog">Personal Information</a>
+                                <a href="http://checkout.modnique.com/bzJApp/ViewChangePasswordForm.action?sid=300&amp;tid=100" class="openPersistentLoginDialog">Change Password</a>
+                                <a href="http://checkout.modnique.com/bzJApp/UpdateAddressInfo.action?sid=300&amp;tid=100" class="openPersistentLoginDialog">Billing Address</a>
+                                <a href="https://checkout.modnique.com/bzJApp/ManageSavedCC.action?sid=300&amp;tid=100" class="openPersistentLoginDialog">Manage Credit Cards</a>
+                                <a href="http://checkout.modnique.com/bzJApp/ViewMyCredits.action?sid=300&amp;tid=100" class="openPersistentLoginDialog">My Credits</a>
+                                <a href="http://checkout.modnique.com/bzJApp/SubscribeCustAction.action?sid=300&amp;tid=100" class="openPersistentLoginDialog">Subscribe</a>
+                                <a href="http://checkout.modnique.com/bzJApp/UnsubscribeCustAction.action?sid=300&amp;tid=100" class="openPersistentLoginDialog">Unsubscribe</a>
+                            </div>
+                            <div class="header_subnav">
+                                <h2>Manage Purchases</h2>
+                                <a href="https://checkout.modnique.com/bzJApp/ShoppingCartAction.action?sid=300&amp;tid=100">Shopping Bag</a>
+                                <a href="http://checkout.modnique.com/bzJApp/ViewPaymentHistory.action?sid=300&amp;tid=100" class="openPersistentLoginDialog">Orders</a>
+                                <a href="http://checkout.modnique.com/bzJApp/ViewPaidItems.action?sid=300&amp;tid=100" class="openPersistentLoginDialog">Returns</a>
+                                <a href="http://checkout.modnique.com/bzJApp/ViewRefunds.action?sid=300&amp;tid=100" class="openPersistentLoginDialog">Refunds</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="mod_contact">
+                        <a class="usernav_contact" href="http://www.modnique.com/contact/modnique_contact">contact</a>
+                        <div class="header_nav">
+                            <div class="header_subnav">
+                                <h2>Contacts</h2>
+                                <p>
+                                    We are here to help!<br>
+                                    24/7 response by e-mail:<br>
+                                    <a class="contact" href="mailto:service@modnique.com">service@modnique.com</a>
+                                    7am to 5pm PST<br>
+                                    1-888-857-8557<br>
+                                    1-310-280-7380<br>
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a id="header_itemsnumber" href="https://checkout.modnique.com/bzJApp/ShoppingCartAction.action?sid=300&amp;tid=100">
+                            shopping bag
+                        </a>
+                    </li>
+                    <li id="usernav_credits_wrapper">
+                        <a href="https://checkout.modnique.com/my-account/credits">
+                            credits
+                            <span id="usernav_credit"></span>
+                        </a>
+                    </li>
+                </ul>
+                <div class="clearer"></div>
             </div>
-	</div>
-					<h1><a href="http://www.modnique.com/"><span>modnique.com</span></a></h1>
-			<div id="header">
-                        <div id="livechat">
-		
-			<div id="headerlinks"> 
-				<div class="userLoggedIn">
-					<form action="http://checkout.modnique.com/bzJApp/InviteArbitraryUser.action" method="post">
-						<input type="hidden" name="tid" value="100">
-						<input type="hidden" name="sid" value="300">
-						<input type="hidden" name="inviteeFirstName" value="Friend">
-						<input type="hidden" name="personalMessage" value="Please accept my invitation to join Modnique.">
-							<input type="button" value="" onclick="jQuery('#dialog_confirmation').dialog('open'); submit()" class="buttonheader" border="0">
-						<input id="headerinput" type="text" maxlength="150" name="inviteeEmailAddress" onclick="clearOnInitialFocus(this)" value="email address">
-						<label>
-							<div id="inviteamember2"><h2><a href="http://checkout.modnique.com/bzJApp/ViewAccount.action?sid=300&amp;tid=100"></a></h2></div>
-			
-						</label>
-					</form>
-			</div>
-			</div>
-					<div id="inviteamember" class="userLoggedOut"><h2><a></a></h2></div>
-			</div>
-	</div>
-</div>
-</div>
-
-
-<div id="menuheader">
-	<ul id="nav" class="group">
-		<li>
-			<div id="allevents"><h2><a href="http://www.modnique.com/all-sale-events" onmouseover="javascript:showEventsByCategory(0)" onclick="javascript:return sendToSalesEventsHome(0)"></a></h2></div>
-			<div style="opacity: 0.9;" id="first" class="nav_tab group">
-				<ul>
-					<li><h2></h2></li>						
-					<li>		
-																																				<a href="http://www.modnique.com/saleevent/Degree-6-Women-s-and-Men-s-Apparel/2732">Degree 6 Women's and Men's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Degree-6-Children-s-Apparel/2734">Degree 6 Children's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Chaudry/2729">Chaudry</a>
-																																<a href="http://www.modnique.com/saleevent/Bass-shoes/2731">Bass shoes</a>
-																																<a href="http://www.modnique.com/saleevent/Mon-Platin-Dead-Sea-Minerals-Skincare/2730">Mon Platin Dead Sea Minerals Skincare</a>
-																																<a href="http://www.modnique.com/saleevent/K-and-Bros-watches/2726">K and Bros watches</a>
-																																<a href="http://www.modnique.com/saleevent/PREZIOSI-DAL-MASO-jewelry/2727">PREZIOSI DAL MASO jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Techno-Master-watches/2728">Techno Master watches</a>
-																																<a href="http://www.modnique.com/saleevent/Silver-necklaces-under-50/2716">Silver necklaces under $50</a>
-																																<a href="http://www.modnique.com/saleevent/Kenneth-Cole-Gentle-Souls-Women-s-Shoes/2724">Kenneth Cole Gentle Souls Women's Shoes</a>
-																																<a href="http://www.modnique.com/saleevent/Luxury-Women-s/2722">Luxury Women's</a>
-																																<a href="http://www.modnique.com/saleevent/Luxury-Men-s/2721">Luxury Men's</a>
-																																<a href="http://www.modnique.com/saleevent/Luxury-Handbags-Accessories/2723">Luxury Handbags &amp; Accessories</a>
-																																<a href="http://www.modnique.com/saleevent/Gym-Time-Apparel/2720">Gym Time Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Valentino-handbags/2717">Valentino handbags</a>
-																																<a href="http://www.modnique.com/saleevent/Piero-Milano-jewelry/2718">Piero Milano jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Corvette-Watches/2719">Corvette Watches</a>
-																																<a href="http://www.modnique.com/saleevent/Designer-jewelry/2755">Designer jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Chez-by-Cheryl-Bags/2713">Chez by Cheryl Bags</a>
-																																<a href="http://www.modnique.com/saleevent/Panitti-Women-s-Apparel/2712">Panitti Women's Apparel</a>
-																										</li>
-				</ul>
-				<ul>
-					<li><h6><a href="http://www.modnique.com/all-sale-events" onclick="javascript:return sendToSalesEventsHome(0)"></a></h6>
-					</li>
-				</ul>
-			</div>
-		</li>
-				<li>				
-			<div id="apparel"><h2><a href="http://www.modnique.com/apparel" onmouseover="javascript:showEventsByCategory(1)" onclick="javascript:return sendToSalesEventsHome(1)"></a></h2></div>
-			<div style="opacity: 0.9;" id="second" class="nav_tab group">
-				<ul>
-					<li><h2></h2></li>						
-					<li>		
-																																				<a href="http://www.modnique.com/saleevent/Degree-6-Women-s-and-Men-s-Apparel/2732">Degree 6 Women's and Men's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Degree-6-Children-s-Apparel/2734">Degree 6 Children's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Chaudry/2729">Chaudry</a>
-																																<a href="http://www.modnique.com/saleevent/Luxury-Women-s/2722">Luxury Women's</a>
-																																<a href="http://www.modnique.com/saleevent/Luxury-Men-s/2721">Luxury Men's</a>
-																																<a href="http://www.modnique.com/saleevent/Gym-Time-Apparel/2720">Gym Time Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Panitti-Women-s-Apparel/2712">Panitti Women's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Rich-Skinny-Women-s-Apparel/2715">Rich &amp; Skinny Women's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Highstreet-Women-s-Apparel/2711">Highstreet Women's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Rivet-de-Cru-Men-s-Denim/2714">Rivet de Cru Men's Denim</a>
-																																																																	</li>
-				</ul>
-				<ul>
-					<li><h6><a href="http://www.modnique.com/apparel" onclick="javascript:return sendToSalesEventsHome(1)"></a></h6>
-					</li>
-				</ul>
-											
-			</div>
-		</li>				
-		<li>				
-			<div id="acc"><h2><a href="http://www.modnique.com/accessories" onmouseover="javascript:showEventsByCategory(2)" onclick="javascript:return sendToSalesEventsHome(2)"></a></h2></div>
-			<div style="opacity: 0.9;" id="third" class="nav_tab group">
-				<ul>
-					<li><h2></h2></li>						
-					<li>		
-												 																								<a href="http://www.modnique.com/saleevent/K-and-Bros-watches/2726">K and Bros watches</a>
-																																<a href="http://www.modnique.com/saleevent/PREZIOSI-DAL-MASO-jewelry/2727">PREZIOSI DAL MASO jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Techno-Master-watches/2728">Techno Master watches</a>
-																																<a href="http://www.modnique.com/saleevent/Silver-necklaces-under-50/2716">Silver necklaces under $50</a>
-																																<a href="http://www.modnique.com/saleevent/Luxury-Handbags-Accessories/2723">Luxury Handbags &amp; Accessories</a>
-																																<a href="http://www.modnique.com/saleevent/Gym-Time-Apparel/2720">Gym Time Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Valentino-handbags/2717">Valentino handbags</a>
-																																<a href="http://www.modnique.com/saleevent/Piero-Milano-jewelry/2718">Piero Milano jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Corvette-Watches/2719">Corvette Watches</a>
-																																<a href="http://www.modnique.com/saleevent/Designer-jewelry/2755">Designer jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Chez-by-Cheryl-Bags/2713">Chez by Cheryl Bags</a>
-																																<a href="http://www.modnique.com/saleevent/LeZ-Oro-Jewelry/2709">LeZ'Oro Jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Burgi-Watches/2710">Burgi Watches</a>
-																																<a href="http://www.modnique.com/saleevent/Key-Jewelry/2708">Key Jewelry</a>
-																																																																																																														</li>
-				</ul>
-				<ul>
-					<li><h6><a href="http://www.modnique.com/accessories" onclick="javascript:return sendToSalesEventsHome(2)"></a></h6>
-					</li>
-				</ul>
-									</div>
-		</li>						
-		<li>				
-			<div id="shoes"><h2><a href="http://www.modnique.com/shoes" onmouseover="javascript:showEventsByCategory(3)" onclick="javascript:return sendToSalesEventsHome(3)"></a></h2></div>
-			<div style="opacity: 0;" id="fourth" class="nav_tab group">
-				<ul>
-					<li><h2></h2></li>						
-					<li>		
-																																				<a href="http://www.modnique.com/saleevent/Bass-shoes/2731">Bass shoes</a>
-																																<a href="http://www.modnique.com/saleevent/Kenneth-Cole-Gentle-Souls-Women-s-Shoes/2724">Kenneth Cole Gentle Souls Women's Shoes</a>
-																			</li>
-				</ul>
-				<ul>
-					<li><h6><a href="http://www.modnique.com/shoes" onclick="javascript:return sendToSalesEventsHome(3)"></a></h6>
-					</li>
-				</ul>
-											
-			</div>
-		</li>	
-		<li>				
-			<div id="home"><h2><a href="http://www.modnique.com/home-goods" onmouseover="javascript:showEventsByCategory(4)" onclick="javascript:return sendToSalesEventsHome(4)"></a></h2></div>
-			<div style="opacity: 0;" id="fifth" class="nav_tab group">
-				<ul>
-					<li><h2></h2></li>						
-					<li>		
-																																				<a href="http://www.modnique.com/saleevent/Mon-Platin-Dead-Sea-Minerals-Skincare/2730">Mon Platin Dead Sea Minerals Skincare</a>
-																																																																	</li>
-				</ul>
-				<ul>
-					<li><h6><a href="http://www.modnique.com/home-goods" onclick="javascript:return sendToSalesEventsHome(4)"></a></h6>
-					</li>
-				</ul>
-									</div>
-		</li>	
-
-		<li>				
-			<div id="women"><h2><a href="http://www.modnique.com/women" onmouseover="javascript:showEventsByCategory(5)" onclick="javascript:return sendToSalesEventsHome(5)"></a></h2></div>
-			<div style="opacity: 0;" id="sixth" class="nav_tab group">
-				<ul>
-					<li><h2></h2></li>						
-					<li>		
-																																				<a href="http://www.modnique.com/saleevent/Degree-6-Women-s-and-Men-s-Apparel/2732">Degree 6 Women's and Men's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Chaudry/2729">Chaudry</a>
-																																<a href="http://www.modnique.com/saleevent/Bass-shoes/2731">Bass shoes</a>
-																																<a href="http://www.modnique.com/saleevent/K-and-Bros-watches/2726">K and Bros watches</a>
-																																<a href="http://www.modnique.com/saleevent/PREZIOSI-DAL-MASO-jewelry/2727">PREZIOSI DAL MASO jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Techno-Master-watches/2728">Techno Master watches</a>
-																																<a href="http://www.modnique.com/saleevent/Silver-necklaces-under-50/2716">Silver necklaces under $50</a>
-																																<a href="http://www.modnique.com/saleevent/Kenneth-Cole-Gentle-Souls-Women-s-Shoes/2724">Kenneth Cole Gentle Souls Women's Shoes</a>
-																																<a href="http://www.modnique.com/saleevent/Luxury-Women-s/2722">Luxury Women's</a>
-																																<a href="http://www.modnique.com/saleevent/Luxury-Handbags-Accessories/2723">Luxury Handbags &amp; Accessories</a>
-																																<a href="http://www.modnique.com/saleevent/Gym-Time-Apparel/2720">Gym Time Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Valentino-handbags/2717">Valentino handbags</a>
-																																<a href="http://www.modnique.com/saleevent/Piero-Milano-jewelry/2718">Piero Milano jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Designer-jewelry/2755">Designer jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Chez-by-Cheryl-Bags/2713">Chez by Cheryl Bags</a>
-																																<a href="http://www.modnique.com/saleevent/Panitti-Women-s-Apparel/2712">Panitti Women's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Rich-Skinny-Women-s-Apparel/2715">Rich &amp; Skinny Women's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Highstreet-Women-s-Apparel/2711">Highstreet Women's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/LeZ-Oro-Jewelry/2709">LeZ'Oro Jewelry</a>
-																																<a href="http://www.modnique.com/saleevent/Burgi-Watches/2710">Burgi Watches</a>
-																				</li>
-				</ul>
-				<ul>
-					<li><h6><a href="http://www.modnique.com/women" onclick="javascript:return sendToSalesEventsHome(5)"></a></h6>
-					</li>
-				</ul>
-									
-			</div>
-		</li>	
-
-		<li>				
-			<div id="men"><h2><a href="http://www.modnique.com/men" onmouseover="javascript:showEventsByCategory(6)" onclick="javascript:return sendToSalesEventsHome(6)"></a></h2></div>
-			<div style="opacity: 0;" id="seventh" class="nav_tab group">
-				<ul>
-					<li><h2></h2></li>						
-					<li>		
-																																				<a href="http://www.modnique.com/saleevent/Degree-6-Women-s-and-Men-s-Apparel/2732">Degree 6 Women's and Men's Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/K-and-Bros-watches/2726">K and Bros watches</a>
-																																<a href="http://www.modnique.com/saleevent/Techno-Master-watches/2728">Techno Master watches</a>
-																																<a href="http://www.modnique.com/saleevent/Luxury-Men-s/2721">Luxury Men's</a>
-																																<a href="http://www.modnique.com/saleevent/Gym-Time-Apparel/2720">Gym Time Apparel</a>
-																																<a href="http://www.modnique.com/saleevent/Corvette-Watches/2719">Corvette Watches</a>
-																																<a href="http://www.modnique.com/saleevent/Rivet-de-Cru-Men-s-Denim/2714">Rivet de Cru Men's Denim</a>
-																																<a href="http://www.modnique.com/saleevent/Burgi-Watches/2710">Burgi Watches</a>
-																																																																																</li>
-				</ul>
-				<ul>
-					<li><h6><a href="http://www.modnique.com/men" onclick="javascript:return sendToSalesEventsHome(6)"></a></h6>
-					</li>
-				</ul>
-									
-			</div>
-		</li>	
-
-		<li>				
-			<div id="kids"><h2><a href="http://www.modnique.com/kids" onmouseover="javascript:showEventsByCategory(7)" onclick="javascript:return sendToSalesEventsHome(7)"></a></h2></div>
-			<div style="opacity: 0;" id="eighth" class="nav_tab group">
-				<ul>
-					<li><h2></h2></li>						
-					<li>		
-																															<a href="http://www.modnique.com/saleevent/Degree-6-Children-s-Apparel/2734">Degree 6 Children's Apparel</a>
-																		</li>
-				</ul>
-				<ul>
-					<li><h6><a href="http://www.modnique.com/kids" onclick="javascript:return sendToSalesEventsHome(7)"></a></h6>
-					</li>
-				</ul>
-								</div>
-		</li>	
-		<li>	
-			<div id="gifts"><h2><a href="http://www.modnique.com/gifts-for-all-occasions"></a></h2></div>
-		</li>
-	</ul>
-</div>
-	
-				
-<div id="headerbottom">
-	<div class="userLoggedIn">
-		<div id="bag"><h2><a href="https://checkout.modnique.com/bzJApp/ShoppingCartAction.action?sid=300&amp;tid=100"></a></h2></div>
-		<div id="account"><h2><a href="https://checkout.modnique.com/bzJApp/ViewMyCredits.action?sid=300&amp;tid=100"></a></h2></div>
-		<div id="number2"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a></h2></div>
-		<div id="number"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a></h2></div>
-		<div id="service"><h2><a href="mailto:service@modnique.com"></a></h2></div>
-		<div id="faq"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq"></a></h2></div>
-		<div id="contact"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a></h2></div>
-		<div id="face"><h2><a href="http://www.facebook.com/modnique" onclick="window.open(this.href); return false"></a></h2></div>
-		<div id="blog"><h2><a href="http://editorial.modnique.com/" onclick="window.open(this.href); return false"></a></h2></div>
-	</div>
-	<div class="userLoggedOut">	
-		<div id="number2"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a></h2></div>
-		<div id="number"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a></h2></div>
-		<div id="service"><h2><a href="mailto:service@modnique.com"></a></h2></div>
-		<div id="faq"><h2><a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq"></a></h2></div>
-		<div id="face"><h2><a href="http://www.facebook.com/modnique" onclick="window.open(this.href); return false"></a></h2></div>
-		<div id="blog"><h2><a href="http://editorial.modnique.com/" onclick="window.open(this.href); return false"></a></h2></div>			
-	</div>						
-</div>	
-
-        <div id="content_wrapper">
-            <div id="contentwhite">
-                <div id="helpdocument">					
-	<img style="margin: 0 0 10px 70px;" src="http://images.modnique.com/bidz_banner/privacy.png"><br>
+        </div>
+        <div id="newHeader_nav_wrapper">
+            <ul id="nav_menu">
+                                    <li class="nav_links_wrapper">
+                                                                                                <a class="nav_links" href="http://www.modnique.com/all-sale-events" onmouseover="javascript:showEventsByCategory(0)" onclick="javascript:return sendToSalesEventsHome(0)">
+                            all events
+                        </a>
+                        <div class="nav_tab group">
+                            <div class="submenu_divider">
+                                <span class="submenu_divider_arrow"></span>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h3 class="submenu_title">happening now</h3>
+                                </li>
+                                                                                                                                                        <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Chronograph-watches/4597/seeac/gseeac">Chronograph watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Cool-Animal-Hat-and-Hat-Mohawk/4604/seeac/gseeac">Cool Animal Hat and Hat "Mohawk"</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/D-G-Jewelry/4599/seeac/gseeac">D&amp;G Jewelry</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Enjoy-winter-cold-apparel-accessories/4613/seeac/gseeac">Enjoy winter cold: apparel &amp; accessories</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Find-your-style-women-s-men-s-apparel/4612/seeac/gseeac">Find your style: women's &amp; men's apparel</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Fluff-Accessories/4589/seeac/gseeac">Fluff Accessories</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-bracelets/4585/seeac/gseeac">Gold jewelry weekend: bracelets</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-earrings/4584/seeac/gseeac">Gold jewelry weekend: earrings</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-necklaces/4596/seeac/gseeac">Gold jewelry weekend: necklaces</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-rings/4595/seeac/gseeac">Gold jewelry weekend: rings</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Holiday-Gifts-for-Her/4611/seeac/gseeac">Holiday Gifts for Her</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Holiday-Gifts-for-Him/4610/seeac/gseeac">Holiday Gifts for Him</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Juliet-dreams-women-s-apparel/4603/seeac/gseeac">Juliet dreams women's apparel</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Music-and-jewelry-boxes/4601/seeac/gseeac">Music and jewelry boxes</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Nue-by-Shani/4602/seeac/gseeac">Nue by Shani</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Recognition-and-Recognition-Kids/4593/seeac/gseeac">Recognition and Recognition Kids</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/RipStyle-shoes/4623/seeac/gseeac">RipStyle shoes</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Swiss-Army-Swiss-Eagle-watches/4598/seeac/gseeac">Swiss Army &amp; Swiss Eagle watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Trash-and-luxury/4592/seeac/gseeac">Trash and luxury</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Violet-Del-Mar-Leg-Warmers/4590/seeac/gseeac">Violet Del Mar "Leg Warmers"</a>
+                                            </li>
+                                                                                                                <li>
+                                        <a class="submenu_more" href="http://www.modnique.com/all-sale-events" onclick="javascript:return sendToSalesEventsHome(0)">and many more...</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </li>
+                                                        <li class="nav_links_wrapper">
+                                                                                                <a class="nav_links" href="http://www.modnique.com/apparel" onmouseover="javascript:showEventsByCategory(1)" onclick="javascript:return sendToSalesEventsHome(1)">
+                            apparel
+                        </a>
+                        <div class="nav_tab group">
+                            <div class="submenu_divider">
+                                <span class="submenu_divider_arrow"></span>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h3 class="submenu_title">happening now</h3>
+                                </li>
+                                                                                                                                                                                                                                    <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Cool-Animal-Hat-and-Hat-Mohawk/4604/seeac/gseeac">Cool Animal Hat and Hat "Mohawk"</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Cyrus-knits/4570/seeac/gseeac">Cyrus knits</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/DII-aprons/4594/seeac/gseeac">DII aprons</a>
+                                            </li>
+                                                                                                                                                                                                                                            <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Enjoy-winter-cold-apparel-accessories/4613/seeac/gseeac">Enjoy winter cold: apparel &amp; accessories</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Find-your-style-women-s-men-s-apparel/4612/seeac/gseeac">Find your style: women's &amp; men's apparel</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Holiday-Gifts-for-Him/4610/seeac/gseeac">Holiday Gifts for Him</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Holiday-Party-dresses/4605/seeac/gseeac">Holiday Party dresses</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Juliet-dreams-women-s-apparel/4603/seeac/gseeac">Juliet dreams women's apparel</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Kenneth-Cole-Men-s-Women-s-Coats/4578/seeac/gseeac">Kenneth Cole Men's &amp; Women's Coats</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Nue-by-Shani/4602/seeac/gseeac">Nue by Shani</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Recognition-and-Recognition-Kids/4593/seeac/gseeac">Recognition and Recognition Kids</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Reneta-J-women-s-apparel/4581/seeac/gseeac">Reneta J women's apparel</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Trash-and-luxury/4592/seeac/gseeac">Trash and luxury</a>
+                                            </li>
+                                                                                                                <li>
+                                        <a class="submenu_more" href="http://www.modnique.com/apparel" onclick="javascript:return sendToSalesEventsHome(1)">and many more...</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </li>
+                                                        <li class="nav_links_wrapper">
+                                                                                                <a class="nav_links" href="http://www.modnique.com/accessories" onmouseover="javascript:showEventsByCategory(2)" onclick="javascript:return sendToSalesEventsHome(2)">
+                            accessories
+                        </a>
+                        <div class="nav_tab group">
+                            <div class="submenu_divider">
+                                <span class="submenu_divider_arrow"></span>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h3 class="submenu_title">happening now</h3>
+                                </li>
+                                                                                                                                                        <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Adee-Kaye-women-s-men-s-watches/4586/seeac/gseeac">Adee Kaye women's &amp; men's watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Christmas-gifts-under-100/4609/seeac/gseeac">Christmas gifts under $100</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Chronograph-watches/4597/seeac/gseeac">Chronograph watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/D-G-Jewelry/4599/seeac/gseeac">D&amp;G Jewelry</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/DV-ITALY-jewelry/4575/seeac/gseeac">DV ITALY jewelry</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Fluff-Accessories/4589/seeac/gseeac">Fluff Accessories</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-bracelets/4585/seeac/gseeac">Gold jewelry weekend: bracelets</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-earrings/4584/seeac/gseeac">Gold jewelry weekend: earrings</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-necklaces/4596/seeac/gseeac">Gold jewelry weekend: necklaces</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-rings/4595/seeac/gseeac">Gold jewelry weekend: rings</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Holiday-Gifts-for-Her/4611/seeac/gseeac">Holiday Gifts for Her</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Holiday-Gifts-for-Him/4610/seeac/gseeac">Holiday Gifts for Him</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Izak-accessories/4579/seeac/gseeac">Izak accessories</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/STUHRLING-ORIGINAL-Steinhausen-watches/4587/seeac/gseeac">STUHRLING ORIGINAL &amp; Steinhausen watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Soho-hearts-holiday-jewelry/4591/seeac/gseeac">Soho hearts holiday jewelry</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Swiss-Army-Swiss-Eagle-watches/4598/seeac/gseeac">Swiss Army &amp; Swiss Eagle watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Violet-Del-Mar-Leg-Warmers/4590/seeac/gseeac">Violet Del Mar "Leg Warmers"</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Visage-Men-s-Watches/4580/seeac/gseeac">Visage Men's Watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Visage-Women-s-Watches/4622/seeac/gseeac">Visage Women's Watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Week-In-Rewind/4588/seeac/gseeac">Week In Rewind</a>
+                                            </li>
+                                                                                                                <li>
+                                        <a class="submenu_more" href="http://www.modnique.com/accessories" onclick="javascript:return sendToSalesEventsHome(2)">and many more...</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </li>
+                                                        <li class="nav_links_wrapper">
+                                                                                                <a class="nav_links" href="http://www.modnique.com/shoes" onmouseover="javascript:showEventsByCategory(3)" onclick="javascript:return sendToSalesEventsHome(3)">
+                            shoes
+                        </a>
+                        <div class="nav_tab group">
+                            <div class="submenu_divider">
+                                <span class="submenu_divider_arrow"></span>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h3 class="submenu_title">happening now</h3>
+                                </li>
+                                                                                                                                                        <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/RipStyle-shoes/4623/seeac/gseeac">RipStyle shoes</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Shoe-Scandal/4583/seeac/gseeac">Shoe Scandal</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Week-In-Rewind/4588/seeac/gseeac">Week In Rewind</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Winter-Footwear/4606/seeac/gseeac">Winter Footwear</a>
+                                            </li>
+                                                                                                                <li>
+                                        <a class="submenu_more" href="http://www.modnique.com/shoes" onclick="javascript:return sendToSalesEventsHome(3)">and many more...</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </li>
+                                                        <li class="nav_links_wrapper">
+                                                                                                <a class="nav_links" href="http://www.modnique.com/home-goods" onmouseover="javascript:showEventsByCategory(4)" onclick="javascript:return sendToSalesEventsHome(4)" style="display: none;">
+                            home
+                        </a>
+                        <div class="nav_tab group">
+                            <div class="submenu_divider">
+                                <span class="submenu_divider_arrow"></span>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h3 class="submenu_title">happening now</h3>
+                                </li>
+                                                                                                                                                        <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Music-and-jewelry-boxes/4601/seeac/gseeac">Music and jewelry boxes</a>
+                                            </li>
+                                                                                                                <li>
+                                        <a class="submenu_more" href="http://www.modnique.com/home-goods" onclick="javascript:return sendToSalesEventsHome(4)">and many more...</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </li>
+                                                        <li class="nav_links_wrapper">
+                                                                                                <a class="nav_links" href="http://www.modnique.com/women" onmouseover="javascript:showEventsByCategory(5)" onclick="javascript:return sendToSalesEventsHome(5)">
+                            women
+                        </a>
+                        <div class="nav_tab group">
+                            <div class="submenu_divider">
+                                <span class="submenu_divider_arrow"></span>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h3 class="submenu_title">happening now</h3>
+                                </li>
+                                                                                                                                                        <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Adee-Kaye-women-s-men-s-watches/4586/seeac/gseeac">Adee Kaye women's &amp; men's watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Chronograph-watches/4597/seeac/gseeac">Chronograph watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Cool-Animal-Hat-and-Hat-Mohawk/4604/seeac/gseeac">Cool Animal Hat and Hat "Mohawk"</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/D-G-Jewelry/4599/seeac/gseeac">D&amp;G Jewelry</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/DII-aprons/4594/seeac/gseeac">DII aprons</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Enjoy-winter-cold-apparel-accessories/4613/seeac/gseeac">Enjoy winter cold: apparel &amp; accessories</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Find-your-style-women-s-men-s-apparel/4612/seeac/gseeac">Find your style: women's &amp; men's apparel</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Fluff-Accessories/4589/seeac/gseeac">Fluff Accessories</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-bracelets/4585/seeac/gseeac">Gold jewelry weekend: bracelets</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-earrings/4584/seeac/gseeac">Gold jewelry weekend: earrings</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-necklaces/4596/seeac/gseeac">Gold jewelry weekend: necklaces</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Gold-jewelry-weekend-rings/4595/seeac/gseeac">Gold jewelry weekend: rings</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Holiday-Gifts-for-Her/4611/seeac/gseeac">Holiday Gifts for Her</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Juliet-dreams-women-s-apparel/4603/seeac/gseeac">Juliet dreams women's apparel</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Nue-by-Shani/4602/seeac/gseeac">Nue by Shani</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/STUHRLING-ORIGINAL-Steinhausen-watches/4587/seeac/gseeac">STUHRLING ORIGINAL &amp; Steinhausen watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Soho-hearts-holiday-jewelry/4591/seeac/gseeac">Soho hearts holiday jewelry</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Swiss-Army-Swiss-Eagle-watches/4598/seeac/gseeac">Swiss Army &amp; Swiss Eagle watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Trash-and-luxury/4592/seeac/gseeac">Trash and luxury</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Violet-Del-Mar-Leg-Warmers/4590/seeac/gseeac">Violet Del Mar "Leg Warmers"</a>
+                                            </li>
+                                                                                                                <li>
+                                        <a class="submenu_more" href="http://www.modnique.com/women" onclick="javascript:return sendToSalesEventsHome(5)">and many more...</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </li>
+                                                        <li class="nav_links_wrapper">
+                                                						                        <a class="nav_links" href="http://www.modnique.com/men" onmouseover="javascript:showEventsByCategory(6)" onclick="javascript:return sendToSalesEventsHome(6)">
+                            men
+                        </a>
+                        <div class="nav_tab group">
+                            <div class="submenu_divider">
+                                <span class="submenu_divider_arrow"></span>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h3 class="submenu_title">happening now</h3>
+                                </li>
+                                                                                                                                                        <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/AcQuatech-Chronotech-Watches/4573/seeac/gseeac">AcQuatech &amp; Chronotech Watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Adee-Kaye-women-s-men-s-watches/4586/seeac/gseeac">Adee Kaye women's &amp; men's watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Affordable-jewelry/2818/seeac/gseeac">Affordable jewelry</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Byzantine-Jewelry/4565/seeac/gseeac">Byzantine Jewelry</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Christmas-gifts-under-100/4609/seeac/gseeac">Christmas gifts under $100</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Chronograph-watches/4597/seeac/gseeac">Chronograph watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Cool-Animal-Hat-and-Hat-Mohawk/4604/seeac/gseeac">Cool Animal Hat and Hat "Mohawk"</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/DEX-Men-s-apparel/4568/seeac/gseeac">DEX Men's apparel</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Enjoy-winter-cold-apparel-accessories/4613/seeac/gseeac">Enjoy winter cold: apparel &amp; accessories</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Find-your-style-women-s-men-s-apparel/4612/seeac/gseeac">Find your style: women's &amp; men's apparel</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Holiday-Gifts-for-Him/4610/seeac/gseeac">Holiday Gifts for Him</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Kenneth-Cole-Men-s-Women-s-Coats/4578/seeac/gseeac">Kenneth Cole Men's &amp; Women's Coats</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Michael-Stars-Sunglasses/4566/seeac/gseeac">Michael Stars Sunglasses</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Recognition-and-Recognition-Kids/4593/seeac/gseeac">Recognition and Recognition Kids</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/RipStyle-shoes/4623/seeac/gseeac">RipStyle shoes</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/STUHRLING-ORIGINAL-Steinhausen-watches/4587/seeac/gseeac">STUHRLING ORIGINAL &amp; Steinhausen watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Swiss-Army-Swiss-Eagle-watches/4598/seeac/gseeac">Swiss Army &amp; Swiss Eagle watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Techno-Master-Techno-Com-watches/4576/seeac/gseeac">Techno Master &amp; Techno Com watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Visage-Men-s-Watches/4580/seeac/gseeac">Visage Men's Watches</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Week-In-Rewind/4588/seeac/gseeac">Week In Rewind</a>
+                                            </li>
+                                                                                                                <li>
+                                        <a class="submenu_more" href="http://www.modnique.com/men" onclick="javascript:return sendToSalesEventsHome(6)">and many more...</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </li>
+                                                        <li class="nav_links_wrapper">
+                                                                                                <a class="nav_links" href="http://www.modnique.com/beauty" onmouseover="javascript:showEventsByCategory(7)" onclick="javascript:return sendToSalesEventsHome(7)">
+                            beauty
+                        </a>
+                        <div class="nav_tab group">
+                            <div class="submenu_divider">
+                                <span class="submenu_divider_arrow"></span>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h3 class="submenu_title">happening now</h3>
+                                </li>
+                                                                                                                                                        <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Hydra-Mar-Skincare/4569/seeac/gseeac">Hydra Mar Skincare</a>
+                                            </li>
+                                                                                                                                                                <li class="submenu_events_wrapper">
+                                                <a class="submenu_events" href="http://www.modnique.com/saleevent/Strivectin-skincare-made-in-USA/4582/seeac/gseeac">Strivectin skincare made in USA</a>
+                                            </li>
+                                                                                                                <li>
+                                        <a class="submenu_more" href="http://www.modnique.com/beauty" onclick="javascript:return sendToSalesEventsHome(7)">and many more...</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </li>
+                                                    <li class="nav_links_wrapper" style="position: static;">
+                    <a class="nav_links" href="http://www.modnique.com/gifts-for-all-occasions">gifts</a>
+                </li>
+                <li class="nav_links_wrapper" style="position: static;">
+                    <a id="nav_dailydeal" class="nav_links" href="http://www.modnique.com/saleevent/Daily-Deal/2000/seeac/gseeac">daily deal</a>
+                </li>
+                <li class="userLoggedOut">
+                    <a id="nav_invite_login" class="nav_links" onclick="document.getElementById('hlogin_wrapper'); return false;">+ invite friends, earn credit</a>
+                </li>
+                <li class="userLoggedIn">
+                    <a id="nav_invite" class="nav_links" href="https://checkout.modnique.com/taf/invitefriends">+ invite friends, earn credit</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="content_wrapper">
+    <div id="contentwhite">
+        <div id="helpdocument">					
+	<div style="margin: 0 0 10px 65px;">
+<font face="Trebuchet MS, arial, Helvetica, sans-serif" size="6" color="#000000"><strong>PRIVACY POLICY</strong></font></div>
 <table width="940" border="0">
   <tbody><tr>
     <td width="40">&nbsp;</td>
-    <td width="940"><p><font face="sans-serif,verdana,arial" size="2" color="#000000"><strong>This is the web site of Modnique.com</strong><strong></strong></font>
+    <td width="900"><p><font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000"><strong>This is the web site of Modnique.com</strong><strong></strong></font>
       <br>
       <br>
       
-      <font face="sans-serif,verdana,arial" size="2" color="#000000"><strong>Our postal address is: </strong></font><br> 
+      <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000"><strong>Our postal address is: </strong></font><br> 
       
-      <font face="sans-serif,verdana,arial" size="2" color="#000000">12901 Coral Tree Place<br>
+      <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">12901 Coral Tree Place<br>
         Los Angeles, CA 90066</font>
       <br>
       <br>
       
-      <font face="sans-serif,verdana,arial" size="2" color="#000000">We can be reached via e-mail at <a href="mailto:service@modnique.com">service@modnique.com</a> or you can reach us by telephone at 1-888-857-8557</font><br><br>
+      <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">We can be reached via e-mail at <a href="mailto:service@modnique.com" style="color:#CA2A71;">service@modnique.com</a> or you can reach us by telephone at 1-888-857-8557</font><br><br>
       
-      <font face="sans-serif,verdana,arial" size="2" color="#000000">For each visitor to our Web page, our Web server automatically   recognizes the consumer's domain name and e-mail address (where   possible).</font><br><br>
+      <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">For each visitor to our Web page, our Web server automatically   recognizes the consumer's domain name and e-mail address (where   possible).</font><br><br>
       
-       <font face="sans-serif,verdana,arial" size="2" color="#000000">We collect the domain name and e-mail address (where possible) of   visitors to our Web page, the e-mail addresses of those who post   messages to our bulletin board, the e-mail addresses of those who   communicate with us via e-mail, the e-mail addresses of those who make   postings to our chat areas, aggregate information on what pages   consumers access or visit, user-specific information on what pages   consumers access or visit, information volunteered by the consumer, such   as survey information and/or site registrations, name and address,   telephone number, payment information (e.g., credit card number and   billing address). </font><br><br>
+       <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">We collect the domain name and e-mail address (where possible) of   visitors to our Web page, the e-mail addresses of those who post   messages to our bulletin board, the e-mail addresses of those who   communicate with us via e-mail, the e-mail addresses of those who make   postings to our chat areas, aggregate information on what pages   consumers access or visit, user-specific information on what pages   consumers access or visit, information volunteered by the consumer, such   as survey information and/or site registrations, name and address,   telephone number, payment information (e.g., credit card number and   billing address). </font><br><br>
        
-        <font face="sans-serif,verdana,arial" size="2" color="#000000">The information we collect is used to improve the content of our Web   page, used to customize the content and/or layout of our page for each   individual visitor, used to notify consumers about updates to our Web   site, used by us to contact consumers for marketing purposes, disclosed   when legally required to do so, at the request of governmental   authorities conducting an investigation, to verify or enforce compliance   with the policies governing our Website and applicable laws or to   protect against misuse or unauthorized use of our Website.</font><br><br>
+        <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">The information we collect is used to improve the content of our Web   page, used to customize the content and/or layout of our page for each   individual visitor, used to notify consumers about updates to our Web   site, used by us to contact consumers for marketing purposes, disclosed   when legally required to do so, at the request of governmental   authorities conducting an investigation, to verify or enforce compliance   with the policies governing our Website and applicable laws or to   protect against misuse or unauthorized use of our Website.</font><br><br>
         
-         <font face="sans-serif,verdana,arial" size="2" color="#000000">With respect to cookies: We use cookies to store visitors   preferences, record session information, such as items that consumers   add to their shopping cart, record user-specific information on what   pages users access or visit, alert visitors to new areas that we think   might be of interest to them when they return to our site, record past   activity at a site in order to provide better service when visitors   return to our site , customize Web page content based on visitors'   browser type or other information that the visitor sends.</font><br><br>
+         <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">With respect to cookies: We use cookies to store visitors   preferences, record session information, such as items that consumers   addto their shopping cart, record user-specific information on what   pages users access or visit, alert visitors to new areas that we think   might be of interest to them when they return to our site, record past   activity at a site in order to provide better service when visitors   return to our site , customize Web page content based on visitors'   browser type or other information that the visitor sends.</font><br><br>
          
-          <font face="sans-serif,verdana,arial" size="2" color="#000000">If you do not want to receive e-mail from us in the future, please   let us know by sending us e-mail at the above address, calling us at the   above telephone number, writing to us at the above address.</font><br><br>
+          <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">If you do not want to receive e-mail from us in the future, please   let us know by sending us e-mail at the above address, calling us at the   above telephone number, writing to us at the above address.</font><br><br>
           
-           <font face="sans-serif,verdana,arial" size="2" color="#000000">If you supply us with your postal address on-line you may receive   periodic mailings from us with information on new products and services   or upcoming events.   If you do not wish to receive such mailings,   please let us know by writing to us at the above address.</font><br><br>
+           <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">If you supply us with your postal address on-line you may receive   periodic mailings from us with information on new products and services   or upcoming events.   If you do not wish to receive such mailings,   please let us know by writing to us at the above address.</font><br><br>
            
-            <font face="sans-serif,verdana,arial" size="2" color="#000000">Please provide us with your exact name and address. We will be sure   your name is removed from the list we share with other organizations.</font><br><br>
+            <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">Please provide us with your exact name and address. We will be sure   your name is removed from the list we share with other organizations.</font><br><br>
             
-             <font face="sans-serif,verdana,arial" size="2" color="#000000">Persons   who supply us with their telephone numbers on-line will only receive   telephone contact from us with information regarding orders they have   placed on-line.</font><br><br>
+             <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">Persons   who supply us with their telephone numbers on-line will only receive   telephone contact from us with information regarding orders they have   placed on-line.</font><br><br>
              
-              <font face="sans-serif,verdana,arial" size="2" color="#000000">Please provide us with your name and phone number. We will be sure   your name is removed from the list we share with other organizations.</font><br><br>
+              <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">Please provide us with your name and phone number. We will be sure   your name is removed from the list we share with other organizations.</font><br><br>
               
-               <font face="sans-serif,verdana,arial" size="2" color="#000000">With respect to Ad Servers: We do not partner with or have special   relationships with any ad server companies.</font><br><br>
+               <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">With respect to Ad Servers: We do not partner with or have special   relationships with any ad server companies.</font><br><br>
                
-                <font face="sans-serif,verdana,arial" size="2" color="#000000">From time to time,   we may use customer information for new, unanticipated uses not   previously disclosed in our privacy notice.  If our information   practices change at some time in the future we will post the policy   changes to our Web site to notify you of these changes and we will use   for these new purposes only data collected from the time of the policy   change forward. If you are concerned about how your information is used,   you should check back at our Web site periodically.</font><br><br>
+                <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">From time to time,   we may use customer information for new, unanticipated uses not   previously disclosed in our privacy notice.  If our information   practices change at some time in the future we will post the policy   changes to our Web site to notify you of these changes and we will use   for these new purposes only data collected from the time of the policy   change forward. If you are concerned about how your information is used,   you should check back at our Web site periodically.</font><br><br>
                 
-                 <font face="sans-serif,verdana,arial" size="2" color="#000000">Upon request we provide site visitors with access to all information   [including proprietary information] that we maintain about them,   transaction information (e.g., dates on which customers made purchases,   amounts and types of purchases) that we maintain about them,communications that the consumer/visitor has directed to our site (e.g.,   e-mails, customer inquiries), contact information (e.g., name, address,   phone number)that we maintain about them.</font><br><br>
+                 <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">Upon request we provide sitevisitors with access to all information   [including proprietary information] that we maintain about them,   transaction information (e.g., dates on which customers made purchases,   amounts and types of purchases) that we maintain about them,communications that the consumer/visitor has directed to our site (e.g.,   e-mails, customer inquiries), contact information (e.g., name, address,   phone number)that we maintain about them.</font><br><br>
                  
-                  <font face="sans-serif,verdana,arial" size="2" color="#000000">Consumers can access this information by writing to us at the above   address. </font><br><br>
+                  <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">Consumers can access this information by writing to us at the above   address. </font><br><br>
                   
-                   <font face="sans-serif,verdana,arial" size="2" color="#000000">Upon request we offer visitors the ability to have inaccuracies   corrected in contact information, communications that the   consumer/visitor has directed to the site.</font><br><br>
+                   <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">Upon request we offer visitors the ability to have inaccuracies   corrected in contact information, communications that the   consumer/visitor has directed to the site.</font><br><br>
                    
-                    <font face="sans-serif,verdana,arial" size="2" color="#000000">Consumers can have this information corrected by calling us at the   above telephone number.</font><br><br>
+                    <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">Consumers can have this information corrected by calling us at the   above telephone number.</font><br><br>
                     
-                     <font face="sans-serif,verdana,arial" size="2" color="#000000">With respect to security: We have appropriate security measures in   place in our physical facilities to protect against the loss, misuse or   alteration of information that we have collected from you at our site.</font><br><br>
+                     <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">With respect to security: We have appropriate security measures in   place in our physical facilities to protect against the loss, misuse or   alteration of information that we have collected from you at our site.</font><br><br>
                      
-                      <font face="sans-serif,verdana,arial" size="2" color="#000000">If you feel that this site is not following its stated information   policy, you may contact us at the above addresses or phone number, The   DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org">mgoldberger@the-dma.org</a>, state   or local chapters of the Better Business Bureau, state or local   consumer protection office, The Federal Trade Commission by phone at   202.FTC-HELP (202.382.4357) or electronically at <a href="http://www.ftc.gov/ftc/complaint.htm">http://www.ftc.gov/ftc/complaint.htm</a>.</font><br>
+                      <font face="Trebuchet MS, arial, Helvetica, sans-serif" size="2" color="#000000">If you feel that this site is not following its stated information   policy, you may contact us at the above addresses or phone number, The   DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org" style="color:#CA2A71;">mgoldberger@the-dma.org</a>, state   or local chapters of the Better Business Bureau, state or local   consumer protection office, The Federal Trade Commission by phone at   202.FTC-HELP (202.382.4357) or electronically at <a href="http://www.ftc.gov/ftc/complaint.htm" style="color:#CA2A71;">http://www.ftc.gov/ftc/complaint.htm</a>.</font><br>
     </p></td>
+    <td width="10">&nbsp;</td>
   </tr>
 </tbody></table>		</div>	
 	</div>
@@ -902,80 +724,96 @@ function loginCallback(data, status){
 </div>
 
 <script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><!-- Begin Monetate tag, place before end of document body. DO NOT ALTER. -->
+<script type="text/javascript">
+	$(window).load(function() {
+		var monetateT = new Date().getTime();
+		if (document.location.protocol == "http:" || document.location.protocol == "https:") { 
+		
+			loadjscssfile((document.location.protocol == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-11b484a1/p/modnique.com/" + Math.floor(monetateT / 3600000), "js", "");
+			
+			//document.write(unescape("%3Cscript type='text/javascript' src='" + (document.location.protocol == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-11b484a1/p/modnique.com/" + Math.floor(monetateT / 3600000) + "'%3E%3C/script%3E")); 
+		}
+
+		if (this.monetate) { monetate.a(); }
+	});
+</script>
+<!-- End Monetate tag. -->
+<script type="text/javascript">
 //<![CDATA[
 	$(document).ready(function() {
-	var textoDefault = $('#formulario label').remove().text();
-	$('#MERGE0')
-	.val(textoDefault)
-	.css('color', '#999')
+	var textoDefault = $('form#formulario label').remove().text();
+	$('input#MERGE0')
+		.val(textoDefault)
+		.css('color', '#0d1b2a')
 		.focus(function(){
 			if ($(this).val() == textoDefault){
 			$(this).css('color', '').val('');
 			}
 		}).blur(function(){
 			if ($(this).val() == '' ){
-			$(this).val(textoDefault).css('color', '#999');
+			$(this).val(textoDefault).css('color', '#0d1b2a');
 			}
 		});
 	});
 // ]]>	
 </script>
+
 <div id="spacer"></div>
 <div id="nav_footer">
-    <div id="menufooter">
-        <div id="allevents_footer">
-            <h2>
-                <a href="http://www.modnique.com/saleevents"></a>
-            </h2>
-        </div>
-        <div id="lookbook">
-            <h2>
-                <a href="http://lookbook.modnique.com/" onclick="window.open(this.href); return false"></a>
-            </h2>
-        </div>
-        <div id="aboutus">
-            <h2>
-                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_about"></a>
-            </h2>
-        </div>
-        <div id="faq_footer">
-            <h2>
-                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq"></a>
-            </h2>
-        </div>
-        <div id="contactus">
-            <h2>
-                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a>
-            </h2>
-        </div>
-        <div id="shipping_footer">
-            <h2>
-                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_shipping"></a>
-            </h2>
-        </div>
-        <div id="returns_footer">
-            <h2>
-                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_returns"></a>
-            </h2>
-        </div>
+<div id="menufooter">
+	<ul id="nav_menu">       
+		<li class="nav_links_wrapper_footer">
+			<a class="nav_links_footer" href="http://www.modnique.com/saleevents">all events</a>
+		</li>
+		<li class="nav_links_wrapper_footer">
+			<a class="nav_links_footer" href="http://lookbook.modnique.com/" onclick="window.open(this.href); return false">lookbook</a>
+		</li>
+		<li class="nav_links_wrapper_footer">
+			<a class="nav_links_footer" href="http://www.modnique.com/testimonials">testimonials</a>
+		</li>
+		<li class="nav_links_wrapper_footer">
+			<a class="nav_links_footer" href="http://www.modnique.com/faqs/modnique_faq">faq</a>
+		</li>
+		<li class="nav_links_wrapper_footer">
+			<a class="nav_links_footer" href="http://www.modnique.com/contact/modnique_contact">contact us</a>
+		</li>
+		<li class="nav_links_wrapper_footer">
+			<a class="nav_links_footer" href="http://www.modnique.com/faqs/modnique_faq_shipping">shipping</a>
+		</li>
+		<li class="nav_links_wrapper_footer">
+			<a class="nav_links_footer" href="http://www.modnique.com/faqs/modnique_faq_returns">returns</a>
+		</li>
+		<li class="nav_links_wrapper_footer">
+			<a class="nav_links_footer" href="http://www.modnique.com/saleevent/Daily-Deal/2000/seeac/gseeac">daily deal</a>
+		</li>
+		<li class="userLoggedOut">
+			<a id="nav_invite_login" class="nav_links" onclick="document.getElementById('hlogin_wrapper'); return false;">+ invite friends, earn credit</a>
+		</li>
+		<li class="userLoggedIn">
+			<a id="nav_invite" class="nav_links" href="#">+ invite friends, earn credit</a>
+		</li>
+	</ul>
+
     </div>
 </div>
-<div id="spacer"></div>
 <div id="nav_sales_promo2">
-	<div id="menufooter">
+<div id="menufooter">
         <div id="whatismodnique">
             <h2>
-                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_about"></a>
+                <a href="http://www.modnique.com/about_modnique">what is modnique?</a>
             </h2>
             <p>
                 What is Modnique?
-                Modnique.com is an exclusive private sale website for all members of your family.
+				Modnique.com is a boutique sale event website for all members of your family.
                 Modnique offers access to brand name sale events of hand-picked designer merchandise.
                 Members save 50-85% or more.
                 Modnique sells designer apparel, jewelry, watches, sunglasses, handbags, home goods, and other premium quality brand name products at discounted prices.
             </p>
             <div id="asseenon">
-                <h2></h2>
+                <h2>as seen on...</h2>
                 <ul>
                     <li id="fox"></li>
                     <li id="tmz"></li>
@@ -987,33 +825,44 @@ function loginCallback(data, status){
         </div>
         <div id="myacc" class="userLoggedIn">
             <h2>
-                <a href="https://checkout.modnique.com/bzJApp/ViewMyCredits.action?sid=300&amp;tid=100"></a>
+                <a href="https://checkout.modnique.com/my-account">my account</a>
             </h2>
-            <a href="https://checkout.modnique.com/bzJApp/ViewPaymentHistory.action?sid=300&amp;tid=100">My Orders</a>
-            <a href="https://checkout.modnique.com/bzJApp/UpdatePersonalInfo.action?sid=300&amp;tid=100">Member Profile</a>
-            <a href="https://checkout.modnique.com/bzJApp/ViewMyCredits.action?sid=300&amp;tid=100">Invitations</a>
-            <a href="https://checkout.modnique.com/bzJApp/ViewMyCredits.action?sid=300&amp;tid=100">Account Credits</a>
-            <a href="http://checkout.modnique.com/bzJApp/ViewAccount.action?sid=300&amp;tid=100">Invite a Friend</a>
+            <a href="https://checkout.modnique.com/my-account/orders">My Orders</a>
+            <a href="https://checkout.modnique.com/my-account/personal_information">Member Profile</a>
+            <a href="https://checkout.modnique.com/my-account">Invitations</a>
+            <a href="https://checkout.modnique.com/my-account/credits">Account Credits</a>
+            <a href="http://checkout.modnique.com/taf/invitefriends" class="nav_invite">Invite a Friend</a>
             <h3></h3>
             <h4>
-                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a>
+                <a href="http://www.modnique.com/contact/modnique_contact">contact us</a>
             </h4>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact">1-888-857-8557</a>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact">1-310-280-7380</a>
+            <a href="http://www.modnique.com/contact/modnique_contact">1-888-857-8557</a>
+            <a href="http://www.modnique.com/contact/modnique_contact">1-310-280-7380</a>
             <a href="mailto:service@modnique.com">service@modnique.com</a>
             <a class="bizrate_logo" href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--227677.html" target="_blank">
-                <script type="text/javascript">
-                    var bizRateHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-                    document.write("<img" + " src='" + bizRateHost + "medals.bizrate.com/medals/dynamic/227677_medal.gif' alt='BizRate Customer Certified (GOLD) Site - Modnique.com Reviews at Bizrate' width='125' height='73' align='top' border='0' />");
-                </script><img src="https://medals.bizrate.com/medals/dynamic/227677_medal.gif" alt="BizRate Customer Certified (GOLD) Site - Modnique.com Reviews at Bizrate" width="125" height="73" align="top" border="0">
+				<script type="text/javascript">
+					$(window).load(function() {
+						var bizRateHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+						
+						loadjscssfile( bizRateHost + "medals.bizrate.com/medals/dynamic/227677_medal.gif","img","BizRate Customer Certified (GOLD) Site - Modnique.com Reviews at Bizrate","0","125","73");
+						//document.write("<img" + " src='" + bizRateHost + "medals.bizrate.com/medals/dynamic/227677_medal.gif' alt='BizRate Customer Certified (GOLD) Site - Modnique.com Reviews at Bizrate' width='125' height='73' align='top' border='0' />");
+					});
+                </script>
             </a>
+			
+			<a class="pci_logo" href="http://www.hostedpci.com" target="_blank">
+                <span>PCI Compliant - 100% Credit Card Security</span>
+            </a>	
+			
+			<a href="http://www.consumerguildofamerica.com/" target="_blank" style="padding-top: 10px;">Consumer Guild of America</a>			
+			
         </div>
         <div id="myacc" class="userLoggedOut">
             <h4>
-                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact"></a>
+                <a href="http://www.modnique.com/contact/modnique_contact">contact us</a>
             </h4>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact">1-888-857-8557</a>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_contact">1-310-280-7380</a>
+            <a href="http://www.modnique.com/contact/modnique_contact">1-888-857-8557</a>
+            <a href="http://www.modnique.com/contact/modnique_contact">1-310-280-7380</a>
             <a href="mailto:service@modnique.com">service@modnique.com</a>
             <a class="bizrate_logo" href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--227677.html" target="_blank">
                 <script type="text/javascript">
@@ -1021,32 +870,41 @@ function loginCallback(data, status){
                     document.write("<img" + " src='" + bizRateHost + "medals.bizrate.com/medals/dynamic/227677_medal.gif' alt='BizRate Customer Certified (GOLD) Site - Modnique.com Reviews at Bizrate' width='125' height='73' align='top' border='0' />");
                 </script><img src="https://medals.bizrate.com/medals/dynamic/227677_medal.gif" alt="BizRate Customer Certified (GOLD) Site - Modnique.com Reviews at Bizrate" width="125" height="73" align="top" border="0">
             </a>
+			<a class="pci_logo" href="http://www.hostedpci.com" target="_blank">
+                <span>PCI Compliant - 100% Credit Card Security</span>
+            </a>
+			
+			<a href="http://www.consumerguildofamerica.com/" target="_blank" style="padding-top: 10px;">Consumer Guild of America</a>	
+			
         </div>
-
         <div id="helpfooter">
             <h2>
-                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq"></a>
+                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq">help</a>
             </h2>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_aboutsales">About the Sales</a>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_shipping">Shipping</a>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_returns">Returns</a>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq">FAQ</a>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_faq_contact">Contacting Us</a>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_privacy">Privacy Policy</a>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_terms">Terms &amp; Conditions</a>
+            <a href="http://www.modnique.com/faqs/modnique_faq_aboutsales">About the Sales</a>
+            <a href="http://www.modnique.com/faqs/modnique_faq_shipping">Shipping</a>
+            <a href="http://www.modnique.com/faqs/modnique_faq_returns">Returns</a>
+            <a href="http://www.modnique.com/faqs/modnique_faq">FAQ</a>
+            <a href="http://www.modnique.com/faqs/modnique_faq_contact">Contacting Us</a>
+            <a href="http://www.modnique.com/faqs/modnique_faq_privacy">Privacy Policy</a>
+            <a href="http://www.modnique.com/faqs/modnique_faq_terms">Terms &amp; Conditions</a>
+			<a href="http://www.modnique.com/testimonials">Testimonials</a>
             <h3></h3>
-            <h4></h4>
+            <h4>follow us</h4>
             <a href="http://editorial.modnique.com/" onclick="window.open(this.href); return false">Blog</a>
             <a href="http://www.facebook.com/modnique" onclick="window.open(this.href); return false">Facebook</a>
             <a href="http://twitter.com/shopmodnique" onclick="window.open(this.href); return false">Twitter</a>
-            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_press">Press</a>
+            <a href="http://www.modnique.com/modnique_press">Press</a>
             <a href="http://lookbook.modnique.com/" onclick="window.open(this.href); return false">Lookbook</a>
+			<h3></h3>
+            <h4>join us</h4>
+            <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=affiliate_program">Affiliate Program</a>
+			<a href="http://www.modnique.com/bzJApp/SubmitForm.action?sid=300&amp;tid=100">Suppliers</a>
         </div>
-
 
         <div id="sitemap_footer">
             <h2>
-                <a href="http://www.modnique.com/sitemap/sitemap.html"></a>
+                <a href="http://www.modnique.com/sitemap/sitemap.html">site map</a>
             </h2>
             <a href="http://www.modnique.com/sitemap/private_sale.html">Private Sale</a>
             <a href="http://www.modnique.com/sitemap/sample_sale.html">Sample Sale</a>
@@ -1058,7 +916,7 @@ function loginCallback(data, status){
             <a href="http://www.modnique.com/sitemap/designer_jewelry.html">Jewelry</a>
             <a href="http://www.modnique.com/sitemap/designer_dresses.html">Dresses</a>
             <h3></h3>
-            <h4></h4>
+            <h4>categories</h4>
             <a href="http://www.modnique.com/all-sale-events">All Sale Events</a>
             <a href="http://www.modnique.com/apparel">Apparel</a>
             <a href="http://www.modnique.com/accessories">Accessories</a>
@@ -1066,31 +924,32 @@ function loginCallback(data, status){
             <a href="http://www.modnique.com/home-goods">Home Goods</a>
             <a href="http://www.modnique.com/women">Women</a>
             <a href="http://www.modnique.com/men">Men</a>
-            <a href="http://www.modnique.com/kids">Kids</a>
+            <a href="http://www.modnique.com/beauty">Beauty</a>
+			<a href="http://www.modnique.com/saleevent/Daily-Deal/2000/seeac/gseeac">Daily Deal</a>
             <a href="http://www.modnique.com/gifts-for-all-occasions">Gifts</a>
         </div>
         <div id="nevermiss">
-            <h2></h2>
+            <h2>never miss a deal!</h2>
             <p>
                 Subscribe to our emails and get early access every morning at 6am PST.
                 Shop an hour early - never miss a deal!
             </p>
             <div id="formfooter">
-                <form action="just_a_place_holder" method="post" id="formulario">
+                <form action="SignUp" method="post" id="formulario">
                     <label for="MERGE0">Email Address</label>
-                    <input style="margin-left: 0px;" name="email" id="MERGE0" type="text" maxlength="150">
-                    <input type="button" onclick="submit" class="buttonfooter ajax_subscription_button" value="" border="0">
+                    <input name="email" id="MERGE0" type="text" maxlength="150">
+                    <input type="submit" class="buttonfooter ajax_subscription_button" value="SIGN UP!" border="0">
                 </form>
             </div>
             <p>
                 Want a test ride?
-                <a class="sample_email" href="http://images.modnique.com/email/sales/0401/20110406mcam.html" onclick="window.open(this.href); return false">View a sample email</a>
+                <a class="sample_email" href="http://images.modnique.com/email/sales/0401/20110406mcam.html" onclick="window.open(this.href); return false">View a sample</a>
             </p>
             <p>
                 Rest easy - Modnique respects your privacy and will never give or sell your personal information to outside parties.
             </p>
             <p>
-                <a href="http://www.modnique.com/bzJApp/ViewContent.action?sid=300&amp;tid=100&amp;pageName=modnique_privacy">Read our Privacy Policy</a>
+                <a href="http://www.modnique.com/faqs/modnique_faq_privacy">Read our Privacy Policy</a>
                 <a href="http://www.modnique.com/email">UNSUBSCRIBE</a>
             </p>
         </div>
@@ -1102,414 +961,347 @@ function loginCallback(data, status){
                     </div>
         <div id="footer_catseo">
                     </div>
-        <div id="footer_copyright">
-            <p>Copyright © 2010 MODNIQUE.COM | All Rights Reserved.</p>
+        <p style="font: 14px Trebuchet Ms,Arial,Verdana,Helvetica; color:#435676; padding-bottom: 5px; text-align: justify;">What is Modnique? Modnique.com is a boutique sale event website for all members of your family. Modnique offers access to brand name sale events of hand-picked designer merchandise. Members save 50-85% or more. Modnique sells designer apparel, jewelry, watches, sunglasses, handbags, home goods, and other premium quality brand name products at discounted prices.</p>        <div id="footer_copyright">
+            <p>Copyright © 2011 MODNIQUE.COM | All Rights Reserved.</p>
         </div>
     </div>
 </div>
 
-<!-- Performable Tracking Code -->
-<script type="text/javascript">
-    (function() {
-        var p = document.createElement('script');
-        p.type = 'text/javascript'; p.async = true;
-        p.src = '//d2f7h8c8hc0u7y.cloudfront.net/performable/pax/4hbqiP.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(p, s);
-    })();
-</script>
-<!-- END: Performable Tracking Code -->
-<!-- Google Analytics Code-->
-<script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 	function displayLoggedInUtilities(cookieName){
 		if(getCookie(cookieName) && getCookie(cookieName)!="" && getCookie(cookieName)!='""'){
-			$('.userLoggedIn').show();
-			}else{
-			$('.userLoggedOut').show();
+			$('div.userLoggedIn, a.userLoggedIn, ul.userLoggedIn, li.userLoggedIn').show();
+		}else{
+			$('div.userLoggedOut, a.userLoggedOut, ul.userLoggedOut, li.userLoggedOut').show();
 		}
 	}
 	displayLoggedInUtilities("customer");
-    try{
+</script><a id="tour_tab"></a>
+<script type="text/javascript">
+	//Show modnique tour tab
+    if(getCookie('cookie') && getCookie('cookie')!="" && getCookie('cookie')!='""'){
+        if( checkUserRegistrationDays(getCookie('registrationDate')) <= 5 ){
+			var tour_tabObj = $('a#tour_tab');
+            tour_tabObj.show();
+            tour_tabObj.click(function(){
+                var hostPrefix = window.location.protocol + '//' + window.location.hostname;
+                jQuery.ajax({
+                    type: 'GET',
+                    url: hostPrefix+"/bzJApp/views/site/modnique/include/jquery_tour.inc",
+                    dataType: 'html',
+                    async: true,
+                    success: function(data){
+                        $('body').append(data);
+                    }
+                });
+            });
+        }
+    }
+	  try{
         var pageTracker = _gat._getTracker("UA-3362914-19");
         pageTracker._trackPageview();
     } catch(err) {}
-</script>
-<!-- Begin Bold Chat tracking code -->
-                <!-- Bold Software Visitor Monitor HTML v3.00 (Website=Modnique Website,ChatWindow=My Chat Window,ChatInvitation=Modnique Auto-Invite Ruleset) -->
-<script language="JavaScript" type="text/javascript">
-document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/3333949615246538959/bc.vms3/vms.js"%3E%3C/script%3E'));
-</script><script language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/3333949615246538959/bc.vms3/vms.js"></script>
-<script language="JavaScript" type="text/javascript">
-try {
-  var pageViewer = _bcvm.getPageViewer("3333949615246538959");
-  pageViewer.setParameter("WebsiteDefID", "3539153898215358846");
-  pageViewer.setParameter("ChatWindowDefID", "7324910002380983021");
-  pageViewer.setParameter("ChatWidth", "640");
-  pageViewer.setParameter("ChatHeight", "480");
-  pageViewer.setParameter("InvitationDefID", "875049675584229851");
-  pageViewer.setParameter("WindowScheme", "https");
-  pageViewer.setParameter("VisitName", "unknown");
-  pageViewer.setParameter("VisitPhone", "");
-  pageViewer.setParameter("VisitEmail", "unknown");
-  pageViewer.setParameter("VisitRef", "unknown");
-  pageViewer.setParameter("VisitInfo", " ");
-  pageViewer.setParameter("CustomUrl", "");
-  pageViewer.pageViewed();
-} catch(error) {}
-</script>
-<noscript>
-<a href="http://www.boldchat.com" title="Visitor Monitoring" target="_blank"><img alt="Visitor Monitoring" src="https://vms.boldchat.com/aid/3333949615246538959/bc.vmi?wdid=4335837010085532791&amp;vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;curl=" border="0" width="1" height="1" /></a>
-</noscript>
-<!-- /Bold Software Visitor Monitor HTML v3.00 -->
-<!-- End Bold Chat tracking code --><div id="dialogWrapper"></div><script type="text/javascript">
-      // Functions to find dialog URL parameters
-	function getUrlParam(name){
-		var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
-		for(var i = 0; i < hashes.length; i++){
-			hash = hashes[i].split('=');
-			if(hash[0] == name){
-				return hash[1];
+</script>    <div id="expiring_item_wrapper">
+	<div id="expiring_item_header">
+		<h3>items expiring!</h3>
+		<a id="expiring_close"></a>
+	</div>
+	<div id="expiring_item_content">
+		<h3>time remaining:</h3>
+		<p>
+			 <span class="expiring_minutes" id="countdown2"></span>
+		</p>
+		<p>
+			my bag: <span class="expiring_numcartitems"></span>
+		</p>
+		<a id="expiring_occcheckout" class="checkout">
+			<span>checkout</span>
+		</a>
+		<a id="expiring_checkout" class="checkout" href="https://checkout.modnique.com/bzJApp/ShoppingCartAction.action?sid=300&amp;tid=100">
+			<span>checkout</span>
+		</a>
+		<div class="clearer"></div>
+	</div>
+	<div id="expiring_item_content_expired">
+		<h3>expired.</h3>
+		<a id="expiring_occcheckout_expired" class="checkout" href="https://checkout.modnique.com/bzJApp/ShoppingCartAction.action?sid=300&amp;tid=100">
+			<span>add back</span>
+		</a>
+		<a id="expiring_checkout" class="checkout" href="https://checkout.modnique.com/bzJApp/ShoppingCartAction.action?sid=300&amp;tid=100">
+			<span>add back</span>
+		</a>
+		<div class="clearer"></div>
+	</div>
+	<div class="clearer"></div>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+                                                    countdown2('countdown2');
+                                                });
+	$(window).load(function() {
+		if(getCookie('cookie') && getCookie('cookie')!="" && getCookie('cookie')!='""'){
+			if(getCookie('numOfItemsInCart') > 0){
+				//add number of cart items
+				$('span.expiring_numcartitems').text(getCookie('numOfItemsInCart'));
+
+				if(getCookie('itemEarliestExpirationTimeCookie') && getCookie('itemEarliestExpirationTimeCookie') != "" && getCookie('itemEarliestExpirationTimeCookie') != '""'){
+					if ( getExpireItemsTime(getCookie('itemEarliestExpirationTimeCookie')) <= 5 ){
+						//show expiring items pop
+						$('div#expiring_item_wrapper').show();
+						
+					}
+				}
 			}
+		}else {
+			$('div#expiring_item_wrapper').hide();
 		}
-		return false;
-	}
-	function stripUrlParam(url, name){
-		// split parameters from url
-		var hashes = url.slice(url.indexOf('?') + 1).split('&');
+
+		$('a#expiring_close').click(function(){
+			$('div#expiring_item_wrapper').fadeOut('fast');
+		});
+	});
+	
+		var d = Math.floor(getExpireItemsTimemilliseconds(getCookie('itemEarliestExpirationTimeCookie')) / 86400);
+		var h = Math.floor((getExpireItemsTimemilliseconds(getCookie('itemEarliestExpirationTimeCookie')) - d*86400) / 3600);
+		var m = Math.floor((getExpireItemsTimemilliseconds(getCookie('itemEarliestExpirationTimeCookie')) - d*86400 - h*3600) / 60);
+		var s = getExpireItemsTimemilliseconds(getCookie('itemEarliestExpirationTimeCookie')) - d*86400 - h*3600 - m*60;
 		
-		// start a rewrite of the url
-		urlRewrite = url.slice(0, url.indexOf('?') + 1);
+		function countdown2(element) { 
+				interval = setInterval(function() { 
+	            var el = document.getElementById(element); 
+				if (s < 10) {s = "0"+s;};
+				 
+				if(s == 0) { 
+	                if(m == 0) { 
+	                    el.innerHTML = document.getElementById("expiring_item_content").style.display='none'; 
+						$('div#expiring_item_content_expired').show();                  
+	                    clearInterval(interval); 
+	                    return; 
+	                } else { 
+	                    m--; 
+	                    s = 60;
+	                } 
+	            } 
+	            if(m >= 10) { 
+	                var m_text = m + (m > 1 ? ':' : ':'); 
+	            } 
 				
-		if(urlRewrite.length > 0){
-			url = urlRewrite
+				else if(m < 10) { 
+	                var m_text = "0"+m + (m > 1 ? ':' : ':'); 
+	            }
+				else if(m == 0) { 
+	                var m_text = '00:';  
+	            }
+	            var s_text = s > 1 ? 's' : 's'; 
+	            el.innerHTML = m_text + s + ' ' ; 
+	            s--; 
+				}, 1000); 
+				} 
+				
+</script>    <div id="OCCtab" style="border-bottom: 2px solid #b22564;">
+        <div id="OCCtab_close_wrapper">
+            <a id="OCCtab_close">X</a>
+        </div>
+        <a id="oneClickCheckout_link" href="#">
+            <span id="you_have">You have items<br> in your bag!</span>
+            <span id="express">Click here for<br>EXPRESS CHECKOUT</span>
+        </a>
+    </div>
+    <script type="text/javascript">
+        $(window).load(function() {
+            $('a#OCCtab_close').click(function(){
+                $('div#OCCtab').hide();
+            });
+
+            var hostPrefix = window.location.protocol + '//' + window.location.hostname;
+            if(enableOneClickCheckout=='Y' && enableOneClickCheckoutUI && isCustomerLoggedIn() == true && getCookie('oneclickcheckout') == 'Y' && (getCookie('numOfItemsInCart')*1) > 0 && getCookie('supressOCC') != 'Y' && getCart == false){
+                $('a#expiring_occcheckout').show();
+                $('a#expiring_checkout').hide();
+                $('div#OCCtab').fadeIn();
+            }else{
+                $('a#expiring_checkout').show();
+                $('a#expiring_occcheckout').hide();
+                $('div#OCCtab').hide();
+            }
+        });
+		
+		$(window).load(function() {
+            if( $('div#toolbar').length > 0 || $('#toolbut').length > 0 ) {
+                $('div#OCCtab').css({ bottom : "32px", "border-bottom" : "0"});
+				var showNewsletterBar = getCookie('Mod_toolbar');
+				if(showNewsletterBar == "expanded"){
+					$('div#OCCtab').css({
+						'border-bottom' : '2px solid #b22564',
+						bottom: '0'
+					});
+				}
+				
+				$('#toolbarbut .showbar a').click(function(){
+                    $('div#OCCtab').css({ 'border-bottom': '0'});
+                    $('div#OCCtab').animate({bottom: '+=32px'}, {duration: 200});
+                });
+            }
+        });
+    </script>
+<!-- Begin Bold Chat tracking code -->
+		
+												
+		<!-- Bold Software Visitor Monitor HTML v3.00 (Website=Modnique Website,ChatWindow=My Chat Window,ChatInvitation=Modnique Auto-Invite Ruleset) -->
+			<script language="JavaScript" type="text/javascript">
+				$(window).load(function() {
+					loadjscssfile("https://vms.boldchat.com/aid/3333949615246538959/bc.vms3/vms.js", "js", "");
+					//document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/3333949615246538959/bc.vms3/vms.js"%3E%3C/script%3E'));
+					
+					try {
+						var uName = "unknown";
+						var uEmail = "unknown";
+						var uFLName = "unknown";
+						
+						//set customer info if customer is logged in
+						if(isCustomerLoggedIn())
+						{
+							//get username from username cookie
+							uName = getCookie(usernameCookie);
+							
+							//get email from logged in customer obj. if page is cahced and customer obj is not available
+							//then leave it to be unknown
+							uEmail = "";
+							if (!uEmail || uEmail=="")
+							{
+								uEmail = "unknown"
+							}
+							
+							//get firstname from logged in customer obj. if page is cahced and customer obj is not available
+							//then leave it to be unknown
+							uFLName = "";
+							if (!uFLName || uFLName=="")
+							{
+								uFLName = "unknown"
+							}
+						}
+					
+						  var pageViewer = _bcvm.getPageViewer("3333949615246538959");
+						  pageViewer.setParameter("WebsiteDefID", "3539153898215358846");
+						  pageViewer.setParameter("ChatWindowDefID", "7324910002380983021");
+						  pageViewer.setParameter("ChatWidth", "640");
+						  pageViewer.setParameter("ChatHeight", "480");
+						  pageViewer.setParameter("InvitationDefID", "875049675584229851");
+						  pageViewer.setParameter("WindowScheme", "https");
+						  pageViewer.setParameter("VisitName", uEmail);
+						  pageViewer.setParameter("VisitPhone", "");
+						  pageViewer.setParameter("VisitEmail", uEmail);
+						  pageViewer.setParameter("VisitRef", uName);
+						  pageViewer.setParameter("VisitInfo", " ");
+						  pageViewer.setParameter("CustomUrl", "");
+						  pageViewer.pageViewed();
+						  
+					} catch(error) {}
+				});
+			</script>
 			
-			// append parameters to clean url and exclude the parameter that matches the name/dialog passed into the function
+			<noscript>
+				<a href="http://www.boldchat.com" title="Visitor Monitoring" target="_blank"><img alt="Visitor Monitoring" src="https://vms.boldchat.com/aid/3333949615246538959/bc.vmi?wdid=4335837010085532791&amp;vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;curl=" border="0" width="1" height="1" /></a>
+			</noscript>
+		<!-- /Bold Software Visitor Monitor HTML v3.00 -->
+	<!-- End Bold Chat tracking code --><div id="dialogWrapper"></div>
+<div id="dialogWrapperNonFloating"></div><script type="text/javascript">
+	// Functions to find dialog URL parameters
+		function getUrlParam(name){
+			var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
 			for(var i = 0; i < hashes.length; i++){
-			
 				hash = hashes[i].split('=');
-				if(hash[0] != name && hash[1] != null){
-					if(i > 0){
-						url = url + "&";
+				if(hash[0] == name){
+					return hash[1];
+				}
+			}
+			return false;
+		}
+		function stripUrlParam(url, name){
+			// split parameters from url
+			var hashes = url.slice(url.indexOf('?') + 1).split('&');
+			
+			// start a rewrite of the url
+			urlRewrite = url.slice(0, url.indexOf('?') + 1);
+					
+			if(urlRewrite.length > 0){
+				url = urlRewrite
+				
+				// append parameters to clean url and exclude the parameter that matches the name/dialog passed into the function
+				for(var i = 0; i < hashes.length; i++){
+				
+					hash = hashes[i].split('=');
+					if(hash[0] != name && hash[1] != null){
+						if(i > 0){
+							url = url + "&";
+						}
+						
+						url = url + hash[0] + '=' + hash[1];
 					}
 					
-					url = url + hash[0] + '=' + hash[1];
 				}
-				
 			}
+			
+			// strip ? from url if it is at the very end
+			var last_char = url.charAt(url.length-1);
+			if(last_char == '?'){
+				url = url.slice(0,url.length-1); 
+			}
+			
+			return url;
 		}
-		
-		// strip ? from url if it is at the very end
-		var last_char = url.charAt(url.length-1);
-		if(last_char == '?'){
-			url = url.slice(0,url.length-1); 
-		}
-		
-		return url;
-	}
-	function getUrlPrefix(isSecure, url){
-		// Get mode http or https directly from url
-		// var prefix = url.slice(0, url.indexOf(':') + 3);
-		
-		// Get mode http or https from parameter
-		/*
-		if(isSecure == true){
-			var prefix = 'https://checkout.modnique.com';
-		}else{
-			alert('iframe is being built with nonesecurePrefix');
-			var prefix = 'http://checkout.modnique.com';
-		}
-		*/
-		var prefix = 'http://';
-		
-		// Get domain
-		prefix = prefix + document.domain;
-		
-		return prefix;
-	}
-// END Functions
-
-
-
-// Overlay data object
-	$("#dialogWrapper").overlay({ //setting up jquery.tools overlay
-		speed: 200,
-		mask: {
-			color: '#000',
-			loadSpeed: 0,
-			opacity: 0.6
-		},
-		onBeforeClose: function(){
-			$('.error').hide();
-			$('div#dialog_error_message').hide();
-		},
-		onLoad: function(){
-			$('#ajax_username').focus();
-		}
-	});
-// END Overlay data object
-
-
-
-// Dynamic Dialog Builder	
-	function loadDialogContent(div, dialog, closeClass, topPos, dialogWidth, isSecure){
-		var dialogBox = div;
-		var returnURL = topUrl;
-		
-		$('#dialogWrapper').html('')
-		
-		// get url prefix
-		var prefix = getUrlPrefix(isSecure, topUrl);
-		
-		// content
-		var dialogContent = prefix + "/bzJApp/ViewDialog.action?sid=300&tid=100&pageName="+dialog;
-		
-		// build div
-		var appendHTML = ''
-			+ '<div id="' + div + '" class="modal_form">'
-				+ '<div class="' + closeClass + ' close_button"></div>'
-				+ '<div class="modal_form_content">';
-		$('#dialogWrapper').html(appendHTML);
-			$('#dialogWrapper').append(function(){
-				$('#' + div + ' .modal_form_content').load(dialogContent);
-			});
-		$('#dialogWrapper').append('</div></div>');
-		
-		// overlay
-		$('#dialogWrapper').data('overlay').load();
-		$('#dialogWrapper').css('top', topPos + '%');
+		function getUrlPrefix(isSecure, url){
+			// Get mode http or https directly from url
+			// var prefix = url.slice(0, url.indexOf(':') + 3);
 			
-		if(dialogWidth != ''){
-			$('#dialogWrapper').css('width', dialogWidth);
-		}else{
-			// default width
-			$('#dialogWrapper').css('width', 500);
-		}
-	}
-	
-	// Form action
-		function closeDynamicFormRedirect(openNewDialog, returnToHome){
-			$('#close_dynamic_dialog').append('<div id="closeWithDynamicForm"></div>');
-			
-			$('#closeWithDynamicForm').append(function(){
-
-				// build new returnURL to use
-				var returnURL = 'http%3A%2F%2Fwww.modnique.com%2FbzJApp%2FSalesEventsHome.action%3Fsid%3D300%26tid%3D100';
-				// used for the return path when login form is submitted from dialog popup
-				var originalReturnURL = returnURL;
-				
-				// used as the return path when login form is submitted from static default page
-				if(returnToHome == true){
-					returnURL = "http://www.modnique.com";
-					originalReturnURL = returnURL;
-				}
-				
-				// assign a ? if this is a category or other rewritten url
-				var query = returnURL;
-				var vars = query.split("?");
-				if(vars.length > 1){
-					returnURL = returnURL + '&';
-				}else{
-					returnURL = returnURL + '?';
-				}
-				
-				// build the rest of the returnURL with parameters for the iframe build in next step
-				returnURL = returnURL + 'openNewDialog=' + openNewDialog + '&originalReturnURL=' + originalReturnURL;
-				
-				// encode the url
-				var returnURLEncoded = escape(returnURL);
-				
-				// load the content into div
-				$('#closeWithDynamicForm').load('https://checkout.modnique.com/bzJApp/ViewDialog.action?sid=300&tid=100&pageName=dialog_close&returnURL=' + returnURLEncoded);
-			});
-			
-			
-			
-			
+			// Get mode http or https from parameter
 			/*
-			// create dynamic form variables
-			var formHTML = '';
-			var formVariables = '';
-			
-			// build form hidden fields
-			var query = 'http%3A%2F%2Fwww.modnique.com%2FbzJApp%2FSalesEventsHome.action%3Fsid%3D300%26tid%3D100';
-			var vars = query.split("?");
-			if(vars.length > 1){
-				query = vars[1];
-				vars = query.split("&");
-				
-				for (var i=0;i<vars.length;i++) {
-					var pair = vars[i].split("=");
-					if(pair[0] != 'dialog'){
-						formVariables = formVariables + '<input type="hidden" name="' + pair[0] + '" value="' + pair[1] + '">';
-					}
-				}
+			if(isSecure == true){
+				var prefix = 'https://checkout.modnique.com';
+			}else{
+				alert('iframe is being built with nonesecurePrefix');
+				var prefix = 'http://checkout.modnique.com';
 			}
-			
-			if(openNewDialog != ''){
-				formVariables = formVariables + '<input type="hidden" name="dialog" value="' + openNewDialog + '">';
-			}
-			
-			// build form with returnURL, target and get method
-			var formHTML=''
-				+ '<form id="closeLoginForm" action="http%3A%2F%2Fwww.modnique.com%2FbzJApp%2FSalesEventsHome.action%3Fsid%3D300%26tid%3D100" target="_top" method="get">'
-					+ formVariables
-				+ '</form>';
-				
-			// submit form in order to close window despite domains
-			$('body').append(formHTML);
-			$('#closeLoginForm').submit();
 			*/
+			var prefix = 'http://';
 			
+			// Get domain
+			prefix = prefix + document.domain;
+			
+			return prefix;
 		}
-		
-	// Set src of dialog iframe
-		function setDialogIframeSrc(url, src, frame){
-			var append = escape(url);
-		
-			$('#' + frame).attr('src', src + append);
-		}
-// END Dynamic Dialog Builder</script>
-<!-- Begin Monetate tag, place before end of document body. DO NOT ALTER. -->
-<script type="text/javascript">
-var monetateT = new Date().getTime();
-if (document.location.protocol == "http:" || document.location.protocol == "https:") { document.write(unescape("%3Cscript type='text/javascript' src='" + (document.location.protocol == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-11b484a1/p/modnique.com/" + Math.floor(monetateT / 3600000) + "'%3E%3C/script%3E")); }
-</script><script type="text/javascript" src="https://sb.monetate.net/js/1/a-11b484a1/p/modnique.com/439591"></script>
-<script type="text/javascript">
-if (this.monetate) { monetate.a(); }
+	// END Functions
+	
+	
+	
+	// Overlay data object
+		$("div#dialogWrapper").overlay({ //setting up jquery.tools overlay
+			speed: 200,
+			mask: {
+				color: '#000',
+				loadSpeed: 0,
+				opacity: 0.6
+			},
+			onBeforeClose: function(){
+				$('.error').hide();
+				$('div#dialog_error_message').hide();
+			},
+			onLoad: function(){
+				$('input#ajax_username').focus();
+			}
+		});
+	// END Overlay data object
 </script>
-<!-- End Monetate tag. --><!-- ************************************************************************************ -->
-<link rel="stylesheet" type="text/css" href="/bzJApp/views/site/modnique/css/main_new.css">
-<!--[if IE 7]>
-<link href="/bzJApp/views/site/modnique/css/ie7.css" type="text/css" rel="stylesheet" />
-<![endif]-->
-<!--[if IE 6]>
-<link href="/bzJApp/views/site/modnique/css/ie6.css" type="text/css" rel="stylesheet" />
-<![endif]-->
-<script src="/bzJApp/views/site/modnique/js/jquery.cookie.js" language="JavaScript" type="text/javascript"></script>
+	<script type="text/javascript">
+		$(window).load(function(){
+			var params = "sid=300&tid=100"
+			if ((getSpecificUrlValue('subid') != "" && getSpecificUrlValue('comp') != "")) {
+				params += "&subid=" + getSpecificUrlValue('subid') + "&comp=" + getSpecificUrlValue('comp');
+			}
+			if(getSpecificUrlValue('promo') != ""){
+				params += "&promo=" + getSpecificUrlValue('promo');
+			}
+			getStoreCreditValueWithJQuery("https://checkout.modnique.com","ShowStoreCashCredit",params,"span#usernav_credit#and#span#usernav_welcome");
+		});
+	</script>
 
-<script type="text/javascript">
-document.cookie = 'name=value; expires=Thu, 2 Aug 2011 20:00:00 UTC; path=/'
-$(document).ready(function(){
-var leftCol = jQuery.cookie('leftCol');
-    // Right column state
-    // Set the user's selection for the left column
-    if (leftCol == 'expanded') {
-       $("#toolbar").slideToggle("fast");
-    $("#toolbarbut").fadeIn("slow");
-       
-    };
-
-  //hide toolbar and make visible the 'show' button
-	$("span.downarr a").click(function() {
-    $("#toolbar").slideToggle("fast");
-    $("#toolbarbut").fadeIn("slow");
-	jQuery.cookie('leftCol', 'expanded');  
-	   return false;      
-  });
-  
-    //show toolbar and hide the 'show' button
-  $("span.showbar a").click(function() {
-    $("#toolbar").slideToggle("fast");
-    $("#toolbarbut").fadeOut(); 
-	  jQuery.cookie('leftCol', 'collapsed'); 
-	     return false;   
-  });
-});
-</script>
-
-<script type="text/javascript">
-// submit subscription
-$('#send_toolbar').live("click", function(event) {
-	//alert("click detected!");
-	event.preventDefault();
-	var urlPath = location.protocol + '//' + window.location.hostname;
-	querystring = urlPath + "/bzJApp/Proxy.action?actionName=XMLSubscribeCustAction&dest=c&sid=" + SiteID + "&tid=" + TenantID + "&params=";					
-	param = "sid=" + SiteID + "&tid=" + TenantID + "&email=" + $('#name').val();
-	param = escape(param);
-	querystring = querystring + param;
-	//alert("querystring = " + querystring);
-	$('#dialogWrapper').load(querystring, subscriptionCallback2);
-});
-
-// close subscription
-$('.closeSubscriptionDialog').live("click", function(){
-	$("#dialogWrapper").overlay().close();
-})
-// END Subscription Confirmation Dialog
-
-// Subscription Confirmation Dialog
-// process subscription
-function subscriptionCallback2(data, status){
-	//if(data == 'true'){
-	// Open Dialog with subscription
-	var divId			=	'subscription_dialog';
-	var title			=	'Newsletter';
-	var closeButton		=	'closeSubscriptionDialog';
-	var iframeSrc 		=	securePrefix + "/bzJApp/ViewDialog.action?sid=" + SiteID + "&tid=" + TenantID + "&pageName=dialog_subscription";
-	var iframeWidth 	=	500;
-	var iframeHeight	=	200;
-	buildDialog2(divId, title, closeButton, iframeSrc, iframeWidth, iframeHeight);
-	var positionFromTop	=	20;
-	displayDialog2(positionFromTop);
-}
-
-// Build Dialog
-function buildDialog2(divId, title, closeButton, iframeSrc, iframeWidth, iframeHeight){
-	var returnURL = document.location.href;
-	// if this is IE6 or 7 we need to clean up the returnURL just in case there was some lingering postMessage logic from a previous action
-	returnURL = returnURL.split('#');
-	returnURL = returnURL[0];
-	returnURL = escape(returnURL);
-	iframeSrc+='&returnURL=' + returnURL;
-	var dialogWrapper = $('#dialogWrapper');
-	dialogWrapper.html('');
-	var htmlAppend = ''
-		+ '<div id="' + divId + '" class="modal_form" style="width:' + iframeWidth + 'px; height:' + (iframeHeight) + 'px">'
-			+' <div class="' + closeButton + ' close close_button"></div>'
-			+ '<div class="modal_form_content">'
-			+ '<div class="modal_form_header"><span class="modal_form_header_text">' + title + '</span></div>'
-				+ '<iframe id="iframe_' + divId + '" src="' + iframeSrc + '" width="' + iframeWidth + '" height="' + (iframeHeight-40) + '" scrolling="no" frameborder="0"><\/iframe>'
-			+ '</div>'
-		+ '</div>';
-	dialogWrapper.append(htmlAppend);
-	//alert("Appended htmlAppend = " + htmlAppend);
-}
-
-//Display Dialog
-function displayDialog2(positionFromTop){
-	var dialogWrapper = $('#dialogWrapper');
-	//alert("dialogWrapper.data = " + dialogWrapper.data('overlay'));
-	dialogWrapper.data('overlay').load();
-	dialogWrapper.css('top', positionFromTop + '%');
-}
-</script>
-
-<form action="SignUp" method="post">
-<input type="hidden" name="u" value="5d78315470b2beb14498444b2">
-<input type="hidden" name="id" value="7b2f384920">
-<div id="toolbarbut"> <!-- hide button -->
-<span class="showbar"><a href="#">show bar</a></span>
-</div>
-<div id="toolbar"> <!-- toolbar container -->
-  <div class="rightside"> <!-- all things in floating left side -->
-  <span class="downarr"> <!-- hide button -->
-  <a href="#"></a>
-  </span>
- </div>
- <div class="center"> <!-- all things in floating left side -->
-<span class="menu_title">
-<a class="menutit" href="#">NEVER MISS A DEAL - SIGN UP FOR OUR NEWSLETTER:</a>
-</span>
-<span>
-<input name="MERGE0" class="text_input_toolbar" type="text" id="name" value="">
-<input name="Send" type="submit" value="SIGN UP" id="send_toolbar">
-</span>
-</div>
-</div>
-</form>
-<!-- ************************************************************************************ -->
 </body></html>
