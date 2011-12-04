@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the lasvegasadvisor.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825081458id_/http%3A//www.lasvegasadvisor.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegasadvisor.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204071905id_/http%3A//www.lasvegasadvisor.com/privacy.cfm) for the most accurate reproduction.*
 
-# Anthony Curtis' Las Vegas Advisor - Privacy Policy: Privacy Policy, Las Vegas Advisor Privacy Policy, Adware policy
+# Anthony Curtis' Las Vegas Advisor - Privacy Policy
 
 Huntington Press is committed to protecting your privacy. The following discloses our information collection and use practices for our Website.
 
 \--------------------------------
 
-**WHAT INFORMATION DOES** HUNTINGTON PRESS, LASVEGASADVISOR.COM AND SHOPLVA.COM (the "SITE") COLLECT AND HOW IS IT USED?  
+**WHAT INFORMATION DOES** HUNTINGTON PRESS, COUPONSINVEGAS.COM, LASVEGASADVISOR.COM AND SHOPLVA.COM (the "SITE") COLLECT AND HOW IS IT USED?  
 When you place an order, download an evaluation, join a discussion list, subscribe to a newsletter, or contact us for support (technical or customer), we ask for your contact or billing information which is used for internal operations and/or to provide you with updated information on our products.  
 We do not sell, trade, or rent your personal information to others.  
 If you contact us for technical support, we may invite you afterwards to let us know how we're doing by participating in an online survey.  
@@ -37,7 +37,7 @@ You may also remove yourself from our marketing list by sending an e-mail to [cs
 If you opt out or unsubscribe, we may, in compliance with the United States CAN SPAM Act of 2003, run our suppression list (addresses not to be emailed) against another list of names for an Huntington Press mailing or provide our suppression list to a third party for such verification.  
 When you opt-out or unsubscribe, you are doing so from our marketing messages. Huntington Press may continue to send you transactional messages relevant to our business relationship. Transactional messages include information on product updates and upgrades, Service Agreement and subscription expirations and renewals, responses to inquiries, surveys and other information related to the product you downloaded or purchased.
 
-**CAN I CHANGE/MODIFY MY CONTACT INFO?** Huntington Press gives users the option to modify their contact information previously provided. Send e-mail to: davidm@HuntingtonPress.com
+**CAN I CHANGE/MODIFY MY CONTACT INFO?** Huntington Press gives users the option to modify their contact information previously provided.
 
 \--------------------------------
 
