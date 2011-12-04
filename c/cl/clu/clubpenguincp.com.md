@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clubpenguincp.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521092501id_/http%3A//clubpenguincp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubpenguincp.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204040534id_/http%3A//clubpenguincp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Club Penguin Cheats 2011 - CP Cheats, Trackers, Codes
 
-[Club Penguin](http://clubpenguincp.com/ "Club Penguin") CP operates  [http://clubpenguincp.com](http://clubpenguincp.com/). It is my policy to respect your privacy regarding any information I may collect while operating my websites.
+[Club Penguin](http://www.kqzyfj.com/click-5325105-10916658 "Club Penguin") CP operates  [http://clubpenguincp.com](http://clubpenguincp.com/). It is my policy to respect your privacy regarding any information I may collect while operating my websites.
 
 ### Website Visitors
 
