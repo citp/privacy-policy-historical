@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediatrust.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312185822id_/http%3A//www.mediatrust.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatrust.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to MediaTrust - The Platform for Performance Marketing
 
@@ -83,12 +83,29 @@ Updated July 16, 2009
 
 
 
-Welcome to Media Trust. We are the only source you need for performance advertising and deliver the results you are seeking. Our platform facilitates all types of advertising campaigns, including affiliate marketing programs, email marketing, lead generation, paid search advertising, social media, pay per click services and more.
+Welcome to MediaTrust. We are the only source you need for performance advertising and deliver the results you are seeking. Our platform facilitates all types of advertising campaigns, including affiliate marketing programs, email marketing, lead generation, paid search advertising, social media, pay per click services and more.
 
-Media Trust's advertising network includes the best publishers and direct response advertisers to create pay for performance advertising campaigns that will generate quality leads and increase online sales. Our innovative online platform has everything advertisers and publishers need to create, track and manage performance advertising campaigns.
+MediaTrust's advertising network includes the best publishers and direct response advertisers to create pay for performance advertising campaigns that will generate quality leads and increase online sales. Our innovative online platform has everything advertisers and publishers need to create, track and manage performance advertising campaigns.
 
 Our service team and publishers are experts at utilizing search engine marketing, affiliate advertising, pay per click services, display advertising, email marketing and social media to bring results. Advertisers and publishers have access to a wide range of tracking and reporting tools that provide statistics about your campaigns and expert advice to help you create campaigns that will increase online sales.
 
 Performance advertising allows you to easily manage your marketing budget with costs that are easy to determine and delivers results. We deliver value by focusing on helping you increase online sales and leads, not just driver generic traffic to your website. Our pay for performance business model is designed so we get paid a commission for each lead or sale, so you pay for results.
 
-If you are an advertiser interested in pay for or a publisher interested in increasing your performance marketing revenue, sign up with Media Trust for the best technology and expert advice and service.
+If you are an advertiser interested in pay for or a publisher interested in increasing your performance marketing revenue, sign up with MediaTrust for the best technology and expert advice and service.
+
+  * [Ad Network](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/ad-network.php)
+  * [Affiliate Advertising](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/affiliate-advertising.php)
+  * [Affiliate Marketing](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/affiliate-marketing.php)
+  * [Affiliate Network](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/affiliate-network.php)
+  * [Increase Online Sales](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/increase-online-sales.php)
+  * [Advertising On Social Networks](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/advertising-on-social-networks.php)
+  * [Pay Per Click Advertising](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/pay-per-click-advertising.php)
+
+
+  * [Pay For Performance](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/pay-for-performance.php)
+  * [Performance Advertising](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/performance-advertising.php)
+  * [Search Engine Marketing](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/search-engine-marketing.php)
+  * [Direct Mail Marketing](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/direct-mail-marketing.php)
+  * [Display Advertising](https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/display-advertising.php)
+
+
