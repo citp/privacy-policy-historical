@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626022821id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204092506id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
 # Forex Privacy Policy - eToro's Forex Account Privacy | eToro
 
