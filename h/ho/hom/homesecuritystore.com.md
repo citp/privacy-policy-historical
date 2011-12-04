@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416171335id_/http%3A//www.homesecuritystore.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesecuritystore.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204065756id_/http%3A//www.homesecuritystore.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,11 +51,10 @@ Back to Top
 * * *
 
 **Your Security**  
-We employ strict guidelines and use every reasonable effort to ensure the highest level of integrity across our organization; for the common purpose of safeguarding your personal information. Our shopping cart, and subsequently the entire transaction process is secured by a Secure Socket Layer (SSL) Certificate which employs 1024-bit public key encryption, the highest standard available. The Home Security Store, Inc. website uses this method throughout the entire transaction process, from the time that your personal information is requested, to the end of the transaction. For further information regarding our use of SSL Certification, we recommend that you contact the certificate issuer: 
+We employ strict guidelines and use every reasonable effort to ensure the highest level of integrity across our organization; for the common purpose of safeguarding your personal information. Our shopping cart, and subsequently the entire transaction process is secured by a Secure Socket Layer (SSL) Certificate which employs 2048-bit public key encryption, the highest standard available. The Home Security Store, Inc. website uses this method throughout the entire transaction process, from the time that your personal information is requested, to the end of the transaction. For further information regarding our use of SSL Certification, we recommend that you contact the certificate issuer: 
 
-> Thawte Premium Server CA  
-> email: [premium-server@thawte.com](mailto:premium-server@thawte.com)  
-> website: [http://www.thawte.org ](http://www.thawte.org/)
+> **VeriSign**  
+>  Website: [www.VeriSign.com](http://www.verisign.com/)
 
 Back to Top
 
@@ -68,4 +67,4 @@ Back to Top
 
 * * *
 
-**This document was last revised: June 25, 2008**
+**This document was last revised: September 19, 2011**
