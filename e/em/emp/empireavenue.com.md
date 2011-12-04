@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the empireavenue.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430133307id_/http%3A//www.empireavenue.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empireavenue.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204174044id_/http%3A//www.empireavenue.com/legal/privacy) for the most accurate reproduction.*
 
-# Empire Avenue | Privacy Policy
+# Empire Avenue | Build Your Empire
+
+  * [About](https://web.archive.org/about)
+  * [Help & Support](https://web.archive.org/support)
+  * [Privacy Policy](https://web.archive.org/legal/privacy)
+  * [Blog](http://blog.empireavenue.com/)
+  * [API](http://apidocs.empireavenue.com/)
+  * [Contact Us](https://web.archive.org/contacts)
+
+
 
 _This document updated: 19/04/2011_
 
@@ -46,7 +55,7 @@ If the ownership of all or substantially all of the Empire Avenue business, or i
 
 **Links**
 
-The Web Site may contain links to other websites. We are not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Empire Avenue. 
+The Web Site may contain links to other websites. We are not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Empire Avenue.
 
 **Changing or Removing Information**
 
