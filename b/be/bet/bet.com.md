@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bet.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522045544id_/http%3A//www.bet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bet.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204070118id_/http%3A//www.bet.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | BET
 
