@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotivehelper.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630021349id_/http%3A//www.automotiveforums.com/corporate/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotivehelper.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204043445id_/http%3A//www.automotiveforums.com/corporate/privacy.php) for the most accurate reproduction.*
 
 # AutomotiveForums.com - Corporate - Privacy Statement
 
