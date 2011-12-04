@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the dailywealth.com privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729193934id_/http%3A//www.dailywealth.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailywealth.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204220005id_/http%3A//www.dailywealth.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # DailyWealth | Privacy Policy
 
 We take your privacy very seriously.
 
-If you have any questions on our privacy policy that are not addressed below, contact Stansberry & Associates customer service at 1-888-261-2693, Monday through Friday, 9 a.m.-5 p.m. EST.
+If you have any questions on our privacy policy that are not addressed below, contact Stansberry & Associates customer service at 1-888-261-2693, Monday through Friday, 9 a.m. to 5 p.m. ET.
 
 **E-mail Address**
 
-When you subscribe, your e-mail address is placed in a database and used to send your issues, special notices, from the service or publication you subscribed to, and occasional advertisements. We will not add your name to our e-mail list without your permission. We will not sell, rent, or otherwise share your e-mail address with anyone.
+When you subscribe, we use your e-mail address is to send you your DailyWealth issues,  special notices, and occasional advertisements. We will not add your name to our e-mail list without your permission. We will not sell, rent, or otherwise share your e-mail address with anyone.
 
-You can remove your address from our e-mailing list by following the instructions at the end of every e-mail we send.
+You can remove your address from our e-mail list by following the instructions at the end of every e-mail we send.
 
 **Personal Information**
 
@@ -20,17 +20,12 @@ We will never ask you for personal information – your credit card number, for 
 
 When you give us your mailing address, we will use this information to fulfill your order or subscription and to send you information on other products that may suit your interests. If you don't want us to send you this other information, please contact our customer service department:
 
+Stansberry & Associates  
 Attn: Customer Service
 
 1217 St. Paul Street
 
-Baltimore, Maryland 21202 USA
-
-**Cookies**
-
-Cookies are small files placed on your computer by a web page when you visit it. They can be used to store all sorts of useful information to make your next visit easier and more convenient, but some people are uncomfortable not knowing what information is in a cookie.
-
-Stansberry & Associates websites only use cookies to allow authentication for access to the Subscriber Only areas of our sites.
+Baltimore, Maryland 21202
 
 **Copyright and Disclaimer**
 
