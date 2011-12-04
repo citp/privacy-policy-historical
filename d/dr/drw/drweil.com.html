@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the drweil.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623031102id_/http%3A//www.drweil.com/drw/u/id/PAG00003) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drweil.com privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204102642id_/http%3A//www.drweil.com/drw/u/id/PAG00003) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="jsclass"><head>
 	
 	<meta name="description" content="">
 	<meta name="keywords" content=",,">
@@ -18,7 +18,7 @@ Privacy Policy
   
 <link rel="stylesheet" type="text/css" href="/drw/ecs/css/main.css">
 
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="/drw/ecs/javascript/MenuGenerator.js" type="text/javascript"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script language="javascript" src="/drw/ecs/javascript/MenuGenerator.js" type="text/javascript"></script>
   <script language="javascript" src="/drw/ecs/javascript/menu.js" type="text/javascript"></script>
   <script language="javascript" src="/drw/ecs/javascript/docbar.js" type="text/javascript"></script>
   <script src="/drw/ecs/javascript/bookmark.js"></script>
@@ -38,6 +38,101 @@ function getDateString(nodeId){
 </script>
 <script language="JavaScript" type="text/javascript">
 ord=Math.random()*10000000000000000;
+</script>
+
+
+<style type="text/css">
+
+.jsclass body .randomcontent{ /*Do NOT remove! CSS to hide random contents in JS enabled browsers*/
+display: none;
+}
+
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Random Content (from DIVs) script- by JavaScript Kit (www.javascriptkit.com)
+* This notice must stay intact for usage
+* Visit JavaScript Kit at http://www.javascriptkit.com/ for this script and 100s more
+***********************************************/
+
+if (document.getElementById)
+document.documentElement.className = 'jsclass'; //hide content for DOM capable browsers
+
+
+var randomcontentdisplay={
+	divholders:new Object(),
+	masterclass: "randomcontent",
+
+	init:function(){
+		if (!document.getElementById)
+			return
+		var alldivs=document.getElementsByTagName("div")
+		var randomcontentsearch=new RegExp(this.masterclass+"\\s+(group\\d+)", "i") //check for CSS class="randomcontent groupX" (x=integer)
+		for (var i=0; i<alldivs.length; i++){
+			if (randomcontentsearch.test(alldivs[i].className)){
+				if (typeof this.divholders[RegExp.$1]=="undefined") //if array to hold this group of divs doesn't exist yet
+					this.divholders[RegExp.$1]=new Array() //create array first
+					this.divholders[RegExp.$1].push(alldivs[i]) //add this div to the array
+			}
+		}
+	this.showone()
+	},
+
+	showone:function(){
+		for (group in this.divholders){ //loop thru each array within object
+			var chosenOne=Math.floor(Math.random()*this.divholders[group].length) //randomly pick one entry from array
+			this.divholders[group][chosenOne].style.display="block" //display content corresponding to the chosen entry
+		}
+	}
+}
+
+</script>
+
+
+<style type="text/css">
+.gateway1{
+visibility: hidden;
+}
+</style>
+
+<script type="text/javascript">
+
+/***********************************************
+* Random Content Order script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+function randomizeContent(classname){
+var contents=randomizeContent.collectElementbyClass(classname)
+contents.text.sort(function() {return 0.5 - Math.random();})
+var tbodyref=contents.ref[0].tagName=="TR"? contents.ref[0].parentNode : new Object()
+for (var i=0; i<contents.ref.length; i++){
+if (tbodyref.moveRow) //if IE
+tbodyref.moveRow(0, Math.round(Math.random()*(tbodyref.rows.length-1)))
+else
+contents.ref[i].innerHTML=contents.text[i]
+contents.ref[i].style.visibility="visible"
+}
+}
+
+randomizeContent.collectElementbyClass=function(classname){ //return two arrays containing elements with specified classname, plus their innerHTML content
+var classnameRE=new RegExp("(^|\\s+)"+classname+"($|\\s+)", "i") //regular expression to screen for classname within element
+var contentobj=new Object()
+contentobj.ref=new Array() //array containing references to the participating contents
+contentobj.text=new Array() //array containing participating contents' contents (innerHTML property)
+var alltags=document.all? document.all : document.getElementsByTagName("*")
+for (var i=0; i<alltags.length; i++){
+if (typeof alltags[i].className=="string" && alltags[i].className.search(classnameRE)!=-1){
+contentobj.ref[contentobj.ref.length]=alltags[i]
+contentobj.text[contentobj.text.length]=alltags[i].innerHTML
+}
+}
+return contentobj
+}
+
 </script>
 
 <style type="text/css">
@@ -76,6 +171,10 @@ ord=Math.random()*10000000000000000;
     <link type="text/css" rel="stylesheet" href="/drw/ecs/css/social_media_icons.css" />
 <![endif]-->
 
+<!--[if lte IE 9]>
+    <link type="text/css" rel="stylesheet" href="/drw/ecs/css/social_media_icons.css" />
+<![endif]-->
+
 <div class="logoImage">
 	<a href="/drw/ecs/index.html">
 		<img alt="Andrew Weil, M.D." src="/drw/ecs/images/logo08.jpg" border="0">
@@ -88,9 +187,9 @@ ord=Math.random()*10000000000000000;
 		
 	
 
-	<a href="/drw/ecs/account/register.html"><strong>Register</strong></a> | <a class="login" href="/drw/ecs/account/login.html"><strong>Sign In</strong></a>
+	<span style="font-family:Arial, Helvetica, sans-serif; font-size:12px"><a href="/drw/ecs/account/register.html">Register</a> | <a class="login" href="/drw/ecs/account/login.html">Sign In</a></span>
 
-    <span style="margin-left:25px"><a href="/drw/ecs/account/register.html"><img alt="Dr. Weil free newsletters" src="/drw/ecs/images/favicon_newsletter.gif" border="0"> Newsletters</a></span>
+    <span style="margin-left:25px; font-family:Arial, Helvetica, sans-serif; font-size:12px"><a href="/drw/ecs/account/register.html"><img alt="Dr. Weil free newsletters" src="/drw/ecs/images/favicon_newsletter.gif" border="0"> Newsletters</a></span>
 
 
         <img src="/drw/ecs/images/login_bkgd.png" height="5" width="330" border="0">
@@ -116,14 +215,14 @@ ord=Math.random()*10000000000000000;
 		<input type="submit" name="btn_search" id="btn_search" value="SEARCH" accesskey="s" tabindex="10" style="width: auto; margin: 0px; padding: 0px;">
 	</form>
 
-    <div id="icons"><img src="/drw/ecs/images/login_bkgd.png" height="5" width="330" border="0"><span style="color:#000;"><b>Join the conversation!</b>&nbsp;&nbsp;
+    <div id="icons"><img src="/drw/ecs/images/login_bkgd.png" height="5" width="330" border="0"><span style="color:#000; font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold">Join the conversation!&nbsp;&nbsp;
 <a href="http://www.drweilblog.com/" target="_blank"><img alt="Dr. Weil's Daily Blog" src="/drw/ecs/images/favicon_weil.gif" border="0"></a>&nbsp;
 <a href="http://www.facebook.com/DrWeil" target="_blank"><img alt="Dr. Weil on Facebook" src="/drw/ecs/images/favicon_facebook.gif" border="0"></a>&nbsp;
 <a href="http://twitter.com/drweil" target="_blank"><img alt="Dr. Weil on Twitter" src="/drw/ecs/images/favicon_twitter.gif" border="0"></a>&nbsp;
 <a href="http://www.youtube.com/user/DrWeil" target="_blank"><img alt="Dr. Weil on YouTube" src="/drw/ecs/images/favicon_youtube.gif" border="0"></a>&nbsp;
 <a href="http://www.vimeo.com/drweil" target="_blank"><img alt="Dr. Weil on Vimeo" src="/drw/ecs/images/favicon_vimeo.gif" border="0"></a>&nbsp;
 <a href="http://www.flickr.com/photos/DrWeil" target="_blank"><img alt="Dr. Weil on Flickr" src="/drw/ecs/images/favicon_flicker.gif" border="0"></a>&nbsp;
-<a href="http://www.weilpod.com/" target="_blank" onmouseover=""><img alt="Weilpod" src="/drw/ecs/images/favicon_weilpod.gif" border="0"></a></span></div>
+<a href="http://about.me/drweil" target="_blank" onmouseover=""><img alt="Weilpod" src="/drw/ecs/images/favicon_aboutme.png" border="0"></a></span></div>
 </div>
 </div>
 
@@ -132,10 +231,9 @@ ord=Math.random()*10000000000000000;
   </div>
   <div align="center" id="product_menu">
 	  <ul style="text-align:center">
-  	<li style="border-left: none;"><strong>Product Sites:</strong></li>
-  
   	<li style="border-left: none;"><a href="https://www.drweilvitaminadvisor.com/?aid=333316&amp;aparam=VArosnav" target="_blank">Vitamin Advisor</a></li>
-  	<li><a href="http://www.drweilonhealthyaging.com/hya/ecs/init.do?atc=drwrosnav" target="_blank">Dr. Weil On Healthy Aging</a></li>
+  	<li><a href="http://www.spontaneoushappiness.com?atc=drwrosnav" target="_blank">Spontaneous Happiness</a></li>
+    <li><a href="http://www.drweilonhealthyaging.com/hya/ecs/init.do?atc=drwrosnav" target="_blank">Healthy Aging</a></li>
     <li><a href="http://ad.doubleclick.net/clk;204542921;27785482;l" target="_blank">Dr. Weil's Optimum Health Plan</a></li>
   	<li><a href="http://weiljuvenon.com/" target="_blank">Weil Juvenon</a></li>
 	<li><a href="http://www.drweilproducts.com/drw/ecs/mp/products.html?aid=333316&amp;aparam=CnBuyROSNAV" target="_blank">Vitamin Packs</a></li>
@@ -235,31 +333,45 @@ Privacy Policy
 			
 			<td id="content" style="padding-left: 10px; padding-right: 0px; border-right-color: #ABA996; border-right-width: 1px; border-right-style:solid; vertical-align:top; width:460px" width="460">
 <!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style" style="padding-bottom:10px">
-<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_counter addthis_pill_style"></a></div>
+<div class="addthis_toolbox addthis_default_style" style="padding-bottom:10px; padding-right:17px">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_counter addthis_pill_style"></a><img src="/ecs/images/spacer.gif" height="5" width="17"><g:plusone size="medium"></g:plusone>
+</div>
+
+
 <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4d9b8fd81b686464"></script>
+
+<script type="text/javascript">
+     var addthis_config = {
+        data_ga_property: 'UA-2357069-1',
+        data_track_clickback: true
+     };
+</script>
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 <!-- AddThis Button END -->
+
 
             
 <div>
 <table cellspacing="0" cellpadding="0" border="0" style="padding: 15px">
 	<tbody><tr>
 		<td width="100%" valign="top" class="txtHomeMainCopy">
-			<p><style type="text/css">@font-face {
-  font-family: "Arial";
-}@font-face {
-  font-family: "Calibri";
-}p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0in 0in 10pt; line-height: 115%; font-size: 11pt; font-family: Calibri; }a:link, span.MsoHyperlink { color: rgb(0, 90, 156); text-decoration: underline; }a:visited, span.MsoHyperlinkFollowed { color: purple; text-decoration: underline; }p.FreeForm, li.FreeForm, div.FreeForm { margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: Helvetica; color: black; }.MsoChpDefault { font-size: 11pt; font-family: Calibri; }.MsoPapDefault { margin-bottom: 10pt; line-height: 115%; }div.WordSection1 { page: WordSection1; }</style></p><p class="MsoNormal"><b style="">Privacy Policy</b></p><p class="MsoNormal"><b style="">This privacy policy was last updated April, 7 2011.</b></p><p class="MsoNormal">Weil Lifestyle, LLC, an Arizona limited liability company that owns and operates www.drweil.com, www.drweilonhealthyaging.com, www.drweilvitaminadvisor.com, www.drweilproducts.com, www.drweilblog.com and www.weiljuvenon.com (known hereafter collectively as “Weil Lifestyle, LLC”, “Websites,” “we” or “us”) cares about the privacy of each user of our Websites.</p><p class="FreeForm"><span style="font-size: 9pt;">The TRUSTe certification covers the following Websites:</span><a href="http://www.drweilonhealthyaging.com/"><span style="font-size: 9pt; font-family: Arial; color: windowtext;">www.drweilonhealthyaging.com</span></a><span style="font-size: 9pt; font-family: Arial; color: windowtext;">, </span><a href="http://www.drweilvitaminadvisor.com/"><span style="font-size: 9pt; font-family: Arial; color: windowtext;">www.drweilvitaminadvisor.com</span></a><span style="font-size: 9pt; font-family: Arial; color: windowtext;">, </span><a href="http://www.drweilproducts.com/"><span style="font-size: 9pt; font-family: Arial; color: windowtext;">www.drweilproducts.com</span></a><span style="font-size: 9pt; font-family: Arial; color: windowtext;">, and </span><a href="http://www.weiljuvenon.com/"><span style="font-size: 9pt; font-family: Arial; color: windowtext;">www.weiljuvenon.com</span></a></p><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">Weil Lifestyle, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.<span style="">&nbsp; </span>TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.</p><p class="MsoNormal">If you have any questions or concerns regarding this statement, you should first contact <a href="mailto:Webmaster@DrWeil.com">Webmaster@DrWeil.com</a> . You can also contact us via regular mail at: Weil Lifestyle, LLC, 3104 East Camelback Road, #758, Phoenix, Arizona 85016.</p><p class="MsoNormal">If you are not satisfied with our response you can contact TRUSTe here.</p><p class="MsoNormal"><b style="">Notification by our Websites<br></b>By applying for the TRUSTe trustmark, the Weil Lifestyle, LLC, Websites have agreed to notify each user of the following:</p><p class="MsoNormal">1.&nbsp; What personal information of yours or a third party is collected from you by the Weil Lifestyle, LLC, Websites</p><p class="MsoNormal">2.&nbsp; The name of the organization collecting such information.</p><p class="MsoNormal">3.&nbsp; How the information is or may be used.</p><p class="MsoNormal">4.&nbsp; With whom the information may be shared.</p><p class="MsoNormal">5.&nbsp; What choices are available to you regarding the collection, use and distribution of such information.</p><p class="MsoNormal">6.&nbsp; The security procedures that are in place to protect against the loss, misuse or alteration of the information which is under the control of the Weil Lifestyle, LLC, Websites.</p><p class="MsoNormal">7.&nbsp; How you can correct any inaccuracies in the information.</p><p class="MsoNormal"><b style=""><br>
-Information Collection and Use<br></b>The Weil Lifestyle, LLC, Websites<span style="">&nbsp; </span>(including www.drweil.com, www.drweilonhealthyaging.com, www.drweilvitaminadvisor.com, www.drweilproducts.com, www.drweilblog.com and www.weiljuvenon.com) collectively the “Websites” collect information from our users at several different points on our Websites. When you use any of the Websites, some basic, general information is collected. This general information is used internally in connection with our business to improve the Websites, including our marketing and advertising efforts, and to make your use of the Websites as enjoyable and efficient as possible.</p><p class="MsoNormal"><b style="">Information Voluntarily Provided by You<br></b>When you set up an account on our Websites or purchase an item from our Websites, we collect personal information provided by you voluntarily that may include your: (i) first and last name; (ii) billing address; (iii) shipping address; (iv) other shipping addresses; (v) email address; (vi) phone number; (vii) credit card account number; (viii) items purchased from us. We use this personal information in order to provide you with the content, subscriptions, goods and services that you request or purchase on our Websites. We use your email address to provide you with information about your order and its status and we may occasionally send out emails, including newsletters, to people who have placed an order on-line, with information about other goods and services available on our Websites. Your phone number may be used by us in the event that our customer service representatives need to contact you about an order you have placed or to contact you regarding customer offers or information you have requested or we need to provide to you.</p><p class="MsoNormal"><b style="">Information We Automatically Collect Through Your Use of the Websites<br></b>As you use the Websites and services, certain information may also be passively collected. Through cookies, pixels, beacons, log files and other technologies, we may collect information about how you use the Websites and services. By knowing about you, we can deliver more helpful information, programs, tools and advertisements. Please see the Third Party Advertising on Weil Lifestyle, LLC and Targeted Advertising sections below for more information.</p><p class="MsoNormal"><b style="">How We Use Your Information<br></b>Weil Lifestyle, LLC, owns and operates the Weil Lifestyle, LLC, Websites and we are the sole owner of this information collected on them. We will not sell, share, or rent this information to a third party in any way other than as disclosed in this privacy policy without your opt-in agreement. We may share this information to a 3rd party or vendor in ways disclosed in this privacy policy.</p><p class="MsoNormal">We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities and may, in our sole discretion, disclose personal information or other information to satisfy any law, regulation, subpoena, or government request. We reserve the right to release personal information or other information about users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Service, even without a subpoena, warrant or court order, if we believe, in our sole discretion, that such disclosure is necessary or appropriate to operate our Websites or to protect the rights or property of Weil Lifestyle, LLC, our affiliates, or our officers, directors, employees, agents, third-party content providers, suppliers, sponsors, or licensors. We also reserve the right to report to law enforcement agencies any activities we reasonably believe in our sole discretion to be unlawful. If we are legally compelled to disclose information about you to a third party, we will attempt to notify you by sending an email to the email address in our records unless doing so would violate the law or unless you have not provided your email address to us.</p><p class="MsoNormal"><b style="">Registration</b><br>
+			<p><b>Privacy Policy</b></p><p><b>This privacy policy was last updated April, 7 2011.</b></p><p>Weil Lifestyle, LLC, an Arizona limited liability company that owns and operates www.drweil.com, www.drweilonhealthyaging.com, www.drweilvitaminadvisor.com, www.drweilproducts.com, www.drweilblog.com and www.weiljuvenon.com (known hereafter collectively as “Weil Lifestyle, LLC”, “Websites,” “we” or “us”) cares about the privacy of each user of our Websites.</p><p class="FreeForm"><span style="font-size: 9pt;">The TRUSTe certification covers the following Websites:</span><a href="http://www.drweilonhealthyaging.com/"><span style="font-size: 9pt; font-family: Arial; color: windowtext;">www.drweilonhealthyaging.com</span></a><span style="font-size: 9pt; font-family: Arial; color: windowtext;">, </span><a href="http://www.drweilvitaminadvisor.com/"><span style="font-size: 9pt; font-family: Arial; color: windowtext;">www.drweilvitaminadvisor.com</span></a><span style="font-size: 9pt; font-family: Arial; color: windowtext;">, </span><a href="http://www.drweilproducts.com/"><span style="font-size: 9pt; font-family: Arial; color: windowtext;">www.drweilproducts.com</span></a><span style="font-size: 9pt; font-family: Arial; color: windowtext;">, and </span><a href="http://www.weiljuvenon.com/"><span style="font-size: 9pt; font-family: Arial; color: windowtext;">www.weiljuvenon.com</span></a></p><p class="MsoNormal">Weil Lifestyle, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.<span style="">&nbsp; </span>TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.</p><p>If you have any questions or concerns regarding this statement, you should first contact <a href="mailto:Webmaster@DrWeil.com">Webmaster@DrWeil.com</a>. You can also contact us via regular mail at: Weil Lifestyle, LLC, 3104 East Camelback Road, #758, Phoenix, Arizona 85016.</p><p>If you are not satisfied with our response you can contact TRUSTe here.</p><p><b>Notification by our Websites<br></b>By applying for the TRUSTe trustmark, the Weil Lifestyle, LLC, Websites have agreed to notify each user of the following:</p><p>1.&nbsp; What personal information of yours or a third party is collected from you by the Weil Lifestyle, LLC, Websites</p><p>2.&nbsp; The name of the organization collecting such information.</p><p>3.&nbsp; How the information is or may be used.</p><p>4.&nbsp; With whom the information may be shared.</p><p>5.&nbsp; What choices are available to you regarding the collection, use and distribution of such information.</p><p>6.&nbsp; The security procedures that are in place to protect against the loss, misuse or alteration of the information which is under the control of the Weil Lifestyle, LLC, Websites.</p><p>7.&nbsp; How you can correct any inaccuracies in the information.</p><p><b style="">Information Collection and Use<br></b>The Weil Lifestyle, LLC, Websites<span style="">&nbsp; </span>(including www.drweil.com, www.drweilonhealthyaging.com, www.drweilvitaminadvisor.com, www.drweilproducts.com, www.drweilblog.com and www.weiljuvenon.com) collectively the “Websites” collect information from our users at several different points on our Websites. When you use any of the Websites, some basic, general information is collected. This general information is used internally in connection with our business to improve the Websites, including our marketing and advertising efforts, and to make your use of the Websites as enjoyable and efficient as possible.</p><p><b style="">Information Voluntarily Provided by You<br></b>When you set up an account on our Websites or purchase an item from our Websites, we collect personal information provided by you voluntarily that may include your: (i) first and last name; (ii) billing address; (iii) shipping address; (iv) other shipping addresses; (v) email address; (vi) phone number; (vii) credit card account number; (viii) items purchased from us. We use this personal information in order to provide you with the content, subscriptions, goods and services that you request or purchase on our Websites. We use your email address to provide you with information about your order and its status and we may occasionally send out emails, including newsletters, to people who have placed an order on-line, with information about other goods and services available on our Websites. Your phone number may be used by us in the event that our customer service representatives need to contact you about an order you have placed or to contact you regarding customer offers or information you have requested or we need to provide to you.</p><p class="MsoNormal"><b style="">Information We Automatically Collect Through Your Use of the Websites<br></b>As you use the Websites and services, certain information may also be passively collected. Through cookies, pixels, beacons, log files and other technologies, we may collect information about how you use the Websites and services. By knowing about you, we can deliver more helpful information, programs, tools and advertisements. Please see the Third Party Advertising on Weil Lifestyle, LLC and Targeted Advertising sections below for more information.</p><p class="MsoNormal"><b style="">How We Use Your Information<br></b>Weil Lifestyle, LLC, owns and operates the Weil Lifestyle, LLC, Websites and we are the sole owner of this information collected on them. We will not sell, share, or rent this information to a third party in any way other than as disclosed in this privacy policy without your opt-in agreement. We may share this information to a 3rd party or vendor in ways disclosed in this privacy policy.</p><p class="MsoNormal">We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities and may, in our sole discretion, disclose personal information or other information to satisfy any law, regulation, subpoena, or government request. We reserve the right to release personal information or other information about users who we believe are engaged in illegal activities or are otherwise in violation of our Terms of Service, even without a subpoena, warrant or court order, if we believe, in our sole discretion, that such disclosure is necessary or appropriate to operate our Websites or to protect the rights or property of Weil Lifestyle, LLC, our affiliates, or our officers, directors, employees, agents, third-party content providers, suppliers, sponsors, or licensors. We also reserve the right to report to law enforcement agencies any activities we reasonably believe in our sole discretion to be unlawful. If we are legally compelled to disclose information about you to a third party, we will attempt to notify you by sending an email to the email address in our records unless doing so would violate the law or unless you have not provided your email address to us.</p><p class="MsoNormal"><b style="">Registration</b><br>
 To use some features on the Weil Lifestyle, LLC, Websites, a user must first complete a registration form on the Website. During registration, a user is required to give contact information, such as name and email address. This information is used to contact users about the services on our Websites for which they have indicated interest. In some cases, except for www.drweilvitaminadvisor.com Website, it is optional for users to provide additional, demographic information, such as age and gender, but we encourage our users to provide such information so that we can provide a more personalized experience for our users on our Websites.</p><p class="MsoNormal"><b style="">Vitamin Advisor Questionnaire</b><br>
 When completing the initial Vitamin Advisor questionnaire, we ask general questions about your lifestyle, family history, medical history, and current medications.<span style="">&nbsp; </span>This information is used to develop a personalized supplement program recommendation for you.<span style="">&nbsp; </span>There is no cost to you and you may use this recommendation as you choose.<span style="">&nbsp; </span>While our goal is to provide you with our CustomPak™ Product, you have no obligation to purchase products from us.<span style="">&nbsp; </span>We provide the Vitamin Advisor free of charge.<span style="">&nbsp; </span>The information is provided for informational purposes only and is not intended as a substitute for any information contained on or in any product label or packaging. You should not use the information from any Weil Lifestyle, LLC, Websites for diagnosing or treating any health problem or disease, or prescribing any medication or other treatment.</p><p class="MsoNormal"><b style="">Cookies</b><br>
-A cookie is a text file stored on the user's hard drive containing information about the user. Websites create cookies to record information about a user's preferences, such as the items you add to your shopping cart, and for security purposes (see Security below). Cookies are also used to help us determine the various services you use and the support you may need, and to help us detect and solve any problems you may have while using our Websites. In addition, the use of a cookie on our Websites will enable users to log on without having to reenter their password on each visit and to fully participate in our Community discussions. Most cookies expire after a certain time period. If you wish, you may set your browser to reject all cookies and still view our Websites. Cookies placed by Weil Lifestyle, LLC, Websites are not tied to any personally identifiable information.</p><p class="MsoNormal">Also, in the course of serving advertisements to our Websites, our third-party advertisers may place or recognize a unique cookie on your browser.</p><p class="MsoNormal"><b style="">Third Party Advertising on Weil Lifestyle, LLC</b><a name="adchoice"></a><br>
+A cookie is a text file stored on the user's hard drive containing information about the user. Websites create cookies to record information about a user's preferences, such as the items you add to your shopping cart, and for security purposes (see Security below). Cookies are also used to help us determine the various services you use and the support you may need, and to help us detect and solve any problems you may have while using our Websites. In addition, the use of a cookie on our Websites will enable users to log on without having to reenter their password on each visit and to fully participate in our Community discussions. Most cookies expire after a certain time period. If you wish, you may set your browser to reject all cookies and still view our Websites. Cookies placed by Weil Lifestyle, LLC, Websites are not tied to any personally identifiable information.</p><p class="MsoNormal">Also, in the course of serving advertisements to our Websites, our third-party advertisers may place or recognize a unique cookie on your browser.</p><p class="MsoNormal"><b style="">Third Party Advertising on Weil Lifestyle, LLC</b><br>
 Banner Advertisements appearing on these Websites are delivered to you by third-party Ad-servers (AdJuggler, DART). Information about your visits to these Websites, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you.</p><p class="MsoNormal"><b style="">Targeted Advertising</b><br>
 Weil Lifestyle, LLC, Websites third party vendors may use cookies to understand Web usage patterns of users who see advertisements on the Websites, to control the sequence of advertisements you see, to make sure you don't see the same advertisement too many times, to determine your interests and to target advertisements and promotions based on those interests. These third party vendors may connect information about pages you visit on our Websites with information about pages you visit on other Websites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of the Websites, another Site or any other website on the Internet if the website also has a relationship with our vendor.</p><p class="MsoNormal"><b style="">Information Collected by Third Party Advertisers</b><br>
 Advertisers on the Websites may also engage in Behavioral Advertising and use cookies and web beacons in the manner described above. We do not control these third parties' use of cookies or web beacons or what they do with the information they collect. Many third party vendors that engage in Behavioral Advertising participate in the Network Advertising Initiative (NAI) and abide by NAI principles, which prohibit members from connecting Personal Information to information they collect through cookies without your explicit consent. If you wish to opt out of participating in advertising programs conducted by NAI members or learn more about the NAI, please go to the NAI Opt-Out website and follow the instructions. After you opt-out, you will still see advertisements from NAI members, but the advertising will not be tailored to your web preferences and usage patterns.</p><p class="MsoNormal">If you would like more information about these practices and to know your choices about not having this information used, please visit <a href="http://www.doubleclick.com/privacy/opting_out.aspx">http://www.doubleclick.com/privacy/opting_out.aspx</a> .</p><p class="MsoNormal"><b style="">Behavioral Advertising Cookies</b><br>
-Weil Lifestyle, LLC and Websites display Retargeted ads to our site prospects, on our behalf, across the Internet by the use of the services of Advertising partners who collect Non-Personally Identifiable Information about your visits to our Websites, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag which is industry standard technology used by most major Websites. No Personally Identifiable Information is collected during this process. If you do not want the Advertising partners of Weil Lifestyle, LLC and Websites to collect this information, you may opt out of their services. Opting out will not affect your use of the Weil Lifestyle, LLC and Websites.</p><p class="MsoNormal">If you wish to opt out of participating in advertising programs conducted by NAI members or learn more about the NAI, please go to the <a target="_blank" href="http://www.networkadvertising.org/managing/opt_out.asp">NAI Opt-Out website</a> and follow the instructions. After you opt-out, you will still see advertisements from NAI members, but the advertising will not be tailored to your web preferences and usage patterns.</p><p class="MsoNormal"><b style="">Disclosure of Information to Third Party Advertisers and Partners</b><br>
-We know how important it is to keep the information you've entrusted to us confidential. We will not rent, sell or share your Personal Information with third parties except as specifically approved or under the circumstances described below. If you do not want us to use or disclose Personal Information collected about you in the ways identified in this Policy, you should not use the Websites or Services.</p><p style="margin-left: 0.5in;" class="MsoNormal"><b style="">A. Disclosure for Legal reasons</b><br>
-We may disclose and release your Personal Information to third parties: (a) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (b) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, illegal conduct or a violation or alleged violation of this Policy or other agreement we may have with you.</p><p style="margin-left: 0.5in;" class="MsoNormal"><b style="">B.<span style="">&nbsp; </span>Disclosure for Shipping and Billing reasons</b><br>
+Weil Lifestyle, LLC and Websites display Retargeted ads to our site prospects, on our behalf, across the Internet by the use of the services of Advertising partners who collect Non-Personally Identifiable Information about your visits to our Websites, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag which is industry standard technology used by most major Websites. No Personally Identifiable Information is collected during this process. If you do not want the Advertising partners of Weil Lifestyle, LLC and Websites to collect this information, you may opt out of their services. Opting out will not affect your use of the Weil Lifestyle, LLC and Websites.</p><p class="MsoNormal">If you wish to opt out of participating in advertising programs conducted by NAI members or learn more about the NAI, please go to the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">NAI Opt-Out website</a> and follow the instructions. After you opt-out, you will still see advertisements from NAI members, but the advertising will not be tailored to your web preferences and usage patterns.</p><p class="MsoNormal"><b style="">Disclosure of Information to Third Party Advertisers and Partners</b><br>
+We know how important it is to keep the information you've entrusted to us confidential. We will not rent, sell or share your Personal Information with third parties except as specifically approved or under the circumstances described below. If you do not want us to use or disclose Personal Information collected about you in the ways identified in this Policy, you should not use the Websites or Services.</p><p class="MsoNormal" style="margin-left: 0.5in;"><b style="">A. Disclosure for Legal reasons</b><br>
+We may disclose and release your Personal Information to third parties: (a) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (b) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, illegal conduct or a violation or alleged violation of this Policy or other agreement we may have with you.</p><p class="MsoNormal" style="margin-left: 0.5in;"><b style="">B.<span style="">&nbsp; </span>Disclosure for Shipping and Billing reasons</b><br>
 We use an outside shipping company to ship orders placed on our Websites, and a credit card processing company to bill users for goods and services purchased on our Websites. These companies will not retain, share, store or use any of our user's personal information for any secondary purposes. We partner with other parties to provide specific services that are available on our Websites. When a user signs up for these services, we will share the user's name or other contact information that is necessary for the third party to provide these services to the use. These parties are not allowed to use such personal information except for the purpose of providing these services.</p><p class="MsoNormal"><b style="">Log Files</b><br>
 Like most standard Websites, we use log files on our servers. These log files store information regarding IP (internet protocol) addresses, browser type, ISP (internet service provider), referring/exit pages, platform type, date/time stamp, and number of clicks. These log files are used to analyze trends, administer the Websites, track user's movements in the aggregate, and gather broad demographic information for our use. IP addresses, etc. are not linked to personal information.</p><p class="MsoNormal"><b style="">Co-Branded Relationships</b><br>
 Below are some examples of our co-branded relationships.</p><p class="MsoNormal">When accessing certain areas of the Websites, please be aware that even though the pages may have the same look and feel of these Websites, you are actually entering your personal information on the co-branded partner Website. You may reference their privacy policy in these areas.</p><p class="MsoNormal">Weil Lifestyle partners with Drugstore.com for the fulfillment and shipment of orders placed through the Dr. Weil Vitamin Advisor and Dr. Weil on Healthy Aging. Drugstore.com and Weil Lifestyle do share personally identifiable information to fulfill and ship orders only for those customers who have purchased through the Dr. Weil Vitamin Advisor. Drugstore.com does not use this personal information for their own purposes. They only use it as needed to provide this service to our customers.</p><p class="MsoNormal">Weil Lifestyle partners with Everyday Health, Inc. for the "My Optimum Health Plan" offered to our users as a premium membership product and available for purchase from Everyday Health, Inc. Everyday Health, Inc. and Weil Lifestyle, LLC do share personally identifiable information to provide this premium service only to those members who have purchased the product. However, Everyday Health, Inc. does not use this personal information for their own purposes. They only use it as needed to provide this service to our members.</p><p class="MsoNormal">Weil Lifestyle partners with Juvenon for the Weil Juvenon supplement product. When accessing the Weil Juvenon purchase page, please be aware that even though the pages may have the same look and feel of this Website, you are actually entering your personal information on the co-branded partner website. You may reference their privacy policy in these areas.</p><p class="MsoNormal">Weil Juvenon partners with the Yahoo, Inc Small Business e-commerce platform to operate the online shopping cart which sells Weil Juvenon. Some Licensees in the marketplace partner with Amazon or their own shopping cart engine to sell their products.</p><p class="MsoNormal">Weil Lifestyle, LLC partners with UClick for the puzzles provided on www.drweilonhealthyaging.com.<span style="">&nbsp; </span>Please be aware that the puzzle pages have the same look and feel of this Website, however, you are actually on the UClick site and no personally identifiable information is required or passed to UClick.</p><p class="MsoNormal">Weil Lifestyle, LLC partners with Amazon.com and Sounds True, Inc to sell books, CD's, tapes and Weil branded retail vitamins. Weil Lifestyle, LLC does not pass or share any personal information with Amazon.com or Sounds True, Inc. Amazon.com and Sounds True, Inc may share aggregate purchase information with Weil Lifestyle, LLC for the purpose of determining revenue share.</p><p class="MsoNormal"><b style="">Web Analytics Services &amp; Tracking</b><br>
@@ -273,9 +385,9 @@ The security of your personal information is important to us. When you enter sen
 We send all new members a welcoming email to verify their password and user name. Established members will occasionally receive information on products, services, special deals, and the e-bulletins. Each user has the option to not receive these types of communications (see Choice/Opt-Out below).</p><p class="MsoNormal">Occasionally, it is necessary to send out service-related announcements. For instance, if our service is temporarily suspended for maintenance, we might send you an email informing you of such service interruption. Generally, users may not opt-out of receiving these service-related communications. In addition, we communicate with our users on a regular basis to provide requested services and regarding issues relating to their account via email.</p><p class="MsoNormal"><b style="">Correction/Updating Personal Information</b><br>
 If a user's personal information changes or if a user no longer desires our service, we will enable our users to correct, update or remove from our Websites the personal data they provided to us. Such changes can be made either through the member information page on our Websites or by emailing our Webmaster at <a href="mailto:Webmaster@DrWeil.com">Webmaster@DrWeil.com</a> .<span style="">&nbsp;&nbsp; </span></p><p class="MsoNormal"><b style="">Choice/Opt-out</b><br>
 Our users are given the opportunity when registering with our Websites to opt-out of having their information used for purposes not directly related to the provision of goods or services through our Websites and for each Web newsletter, publication or special edition. Our membership form has an opt-out mechanism so, users purchasing a product, newsletter or membership from us may elect to not have their email address added to our marketing and promotional address lists.</p><p class="MsoNormal">Users who no longer wish to receive our e-bulletins or other marketing and promotional materials from our partners or us may opt-out of receiving these communications by replying to any such promotional email indicating your desire to no longer receive such emails or by emailing our Webmaster at <a href="mailto:Webmaster@DrWeil.com">Webmaster@DrWeil.com</a> .<span style="">&nbsp; </span>Users of our Websites will be notified if, in connection with the use of a particular service on our Websites, their information will be collected by any outside third-party. At such time, the user can determine whether they wish to proceed with a service that will involve an outside party having access to their information.</p><p class="MsoNormal"><b style="">Collecting Information from Children Younger than 13 years of age</b><br>
-The Websites are not directed or intended for children under 13 years of age. We do not knowingly collect Personal Information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide Personal Information on the Websites or through the services. If we later obtain actual knowledge that a user is under 13 years of age, we will take steps to remove that user's Personal Information from our systems. If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us at <a href="mailto:Webmaster@DrWeil.com">Webmaster@DrWeil.com</a> so that we may delete and remove such child's information from our systems.</p><p class="MsoNormal"><b style="">Data Retention</b><br>
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:Webmaster@DrWeil.com">Webmaster@DrWeil.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p><p class="MsoNormal"><b style="">Notification of Changes in Use of Information</b><br>
-Our privacy policy is subject to change. In the event of any change, we will provide notice of such change on our Websites. If we want to use your personal information in a manner different from that stated to you at the time you provided such information to us, we will notify you of such change by posting notification of such change on our Websites. At such time, you can determine whether you wish to allow us to use your information in this different manner. If you have opted out of all communication with our Websites or have deleted or deactivated your account with us, then you will not be contacted and your personal information will not be used.</p><p class="MsoNormal">If you have any questions about this privacy policy or believe that the Weil Lifestyle, LLC, Websites are not abiding by our privacy policy, please contact our Webmaster by e-mail at <a href="mailto:Webmaster@DrWeil.com">Webmaster@DrWeil.com</a> . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "TRUSTe Watchdog Dispute Resolution Form" at: <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url">http://watchdog.truste.com/pvr.php?page=complaint&amp;url</a> .</p><p class="MsoNormal">TRUSTe will serve as a liaison with the Weil Lifestyle, LLC, and Websites to resolve your concerns.</p>
+The Websites are not directed or intended for children under 13 years of age. We do not knowingly collect Personal Information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide Personal Information on the Websites or through the services. If we later obtain actual knowledge that a user is under 13 years of age, we will take steps to remove that user's Personal Information from our systems. If you are the parent or guardian of a child whom you believe has disclosed Personal Information to us, please contact us at <a href="mailto:Webmaster@DrWeil.com">Webmaster@DrWeil.com</a> so that we may delete and remove such child's information from our systems.</p><p><b>Data Retention</b><br>
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:Webmaster@DrWeil.com">Webmaster@DrWeil.com</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p><p><b>Notification of Changes in Use of Information</b><br>
+Our privacy policy is subject to change. In the event of any change, we will provide notice of such change on our Websites. If we want to use your personal information in a manner different from that stated to you at the time you provided such information to us, we will notify you of such change by posting notification of such change on our Websites. At such time, you can determine whether you wish to allow us to use your information in this different manner. If you have opted out of all communication with our Websites or have deleted or deactivated your account with us, then you will not be contacted and your personal information will not be used.</p><p>If you have any questions about this privacy policy or believe that the Weil Lifestyle, LLC, Websites are not abiding by our privacy policy, please contact our Webmaster by e-mail at <a href="mailto:Webmaster@DrWeil.com">Webmaster@DrWeil.com</a> . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the "TRUSTe Watchdog Dispute Resolution Form" at: <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url">http://watchdog.truste.com/pvr.php?page=complaint&amp;url</a> .</p><p>TRUSTe will serve as a liaison with the Weil Lifestyle, LLC, and Websites to resolve your concerns.</p>
 		</td>
 	</tr>
 </tbody></table>
@@ -316,35 +428,56 @@ Our privacy policy is subject to change. In the event of any change, we will pro
                 
                 
                 
-                <img src="http://www.drweil.com/drw/ecs/images/dtlp_HealthfulTools.gif">
-                <div style="width:300px; border-bottom: rgb(213,161,15) 1px solid">
-                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px; line-height:14px; font-size:12px; color:#000000">
-
-                    <img src="http://www.drweil.com/drw/ecs/images/dtlp_VitaminAdvisor.gif" align="left" style="padding-right:18px">
+               <div class="gateway1" style="visibility: visible;">
+                <div style="width: 300px; border-bottom: 1px solid rgb(213, 161, 15); display: block;" class="randomcontent group7">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="https://www.drweilvitaminadvisor.com/?aid=333333&amp;aparam=DT_Gateway"><img src="/drw/ecs/images/dtlp_VitaminAdvisor.gif" align="left" style="padding-right:18px" border="0"></a>
                     <b>Dr. Weil's Vitamin Advisor</b><br>
-                    Receive Your FREE Personalized <a href="https://www.drweilvitaminadvisor.com/?aid=333333&amp;aparam=drwsitesearch_gateway">Vitamin Recommendation</a> &amp; <a href="https://www.drweilvitaminadvisor.com/?aid=333333&amp;aparam=drwsitesearch_gateway">Supplement Plan</a> Today!</p>
+                    Receive Your FREE Personalized <a href="https://www.drweilvitaminadvisor.com/?aid=333333&amp;aparam=DT_Gateway">Vitamin Recommendation</a> &amp; <a href="https://www.drweilvitaminadvisor.com/?aid=333333&amp;aparam=DT_Gateway">Supplement Plan</a> Today!</p>
               	</div>
+                
+                
+                <div style="width:300px; border-bottom: rgb(213,161,15) 1px solid" class="randomcontent group7">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="https://www.drweilvitaminadvisor.com/?aid=333333&amp;aparam=DT_Gateway2"><img src="/drw/ecs/images/dtlp_VitaminAdvisorALT.gif" align="left" style="padding-right:18px" border="0"></a>
+                    <b>Free Vitamin Recommendation</b><br>
+                    Let Dr. Weil customize a free <a href="https://www.drweilvitaminadvisor.com/?aid=333333&amp;aparam=DT_Gateway2">vitamin &amp; supplement</a> plan for you. Take the <a href="https://www.drweilvitaminadvisor.com/?aid=333333&amp;aparam=DT_Gateway2">Vitamin Advisor</a> questionnaire today!</p>
+              	</div>
+             </div>
+               
+                <div class="gateway1" style="visibility: visible;">
                 <div style="width:300px; border-bottom: rgb(213,161,15) 1px solid">
-
-                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px; line-height:14px; font-size:12px; color:#000000">
-                    <img src="http://www.drweil.com/drw/ecs/images/healthyaging_thumb.gif" align="left" style="padding-right:18px">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="http://www.spontaneoushappiness.com/?atc=drwGateway"><img src="/drw/ecs/images/sh_gateway.gif" align="left" style="padding-right:18px" border="0"></a>
+                    <b>Dr. Weil's Spontaneous Happiness</b><br>
+                    Based on his new book, this online<br>
+                   plan helps chart your 8-week path to<br><a href="http://www.spontaneoushappiness.com/?atc=drwGateway">optimum emotional well-being.</a>
+                	</p>
+              	</div>
+                </div>
+                
+                 <div style="width:300px; border-bottom: rgb(213,161,15) 1px solid" class="randomcontent group2">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="/drw/u/PAG00361/anti-inflammatory-food-pyramid.html"><img src="/drw/ecs/images/gateway_pyramid.gif" align="left" style="padding-right:18px" border="0"></a>
+                    <b>Dr. Weil's Anti-Inflammatory Diet Food Pyramid</b><br>
+					<a href="/drw/u/PAG00361/anti-inflammatory-food-pyramid.html">Our interactive tool can help improve overall health through diet.</a></p>
+              	</div>
+                
+                <div style="width: 300px; border-bottom: 1px solid rgb(213, 161, 15); display: block;" class="randomcontent group2">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="http://www.drweilonhealthyaging.com/hya/ecs/a/home_ns.html?atc=DT_Gateway"><img src="/drw/ecs/images/healthyaging_thumb.gif" align="left" style="padding-right:18px" border="0"></a>
                     <b>Dr. Weil on Healthy Aging</b><br>
-                    Your Online Guide to the Anti -Inflammatory Diet. Start eating for your health - <a href="http://www.drweilonhealthyaging.com/hya/ecs/a/home_ns.html?atc=drwsitesearch_gateway">begin your free trial.</a></p>
+                    Your Online Guide to the Anti-Inflammatory Diet. Start eating for your health - <a href="http://www.drweilonhealthyaging.com/hya/ecs/a/home_ns.html?atc=DT_Gateway">begin your free trial now.</a></p>
               	</div>
-                <div style="width:300px; border-bottom: rgb(213,161,15) 1px solid">
-                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px; line-height:14px; font-size:12px; color:#000000">
+                
+                <script type="text/javascript">
 
-                    <img src="http://www.drweil.com/drw/ecs/images/sh_promo.gif" align="left" style="padding-right:18px">
-                    <b>Dr. Weil's Optimum Health Plan</b><br>
-                    Your 8-week plan to wellness.<br>
-                    <a href="http://ad.doubleclick.net/clk;204542934;27785482;p ">Begin your journey today!</a><br>
-					<xsl:call-template name="nbsp">
-                	</xsl:call-template></p>
-              	</div>
+//randomize order of contents with DIV class="gateway1"
+randomizeContent("gateway1")
 
-                
-                
-                
+</script>
+           
+              
                 
                
                 
@@ -352,9 +485,9 @@ Our privacy policy is subject to change. In the event of any change, we will pro
                 
                 
                 
-                <div class="sponsor" style="width:300px; padding-top:10px"><span class="sponsorLabel">advertisement</span><br>
-	            
-	            <!-- AdJuggler 7 request
+                <div class="sponsor" style="width:300px; padding-top:10px; padding-bottom:10px"><span class="sponsorLabel">advertisement</span><br>
+	            	
+	            	<!-- AdJuggler 7 request
 Type: Single Ad
 Ad Placement: ROS 300x250
 Channel: 
@@ -366,44 +499,82 @@ Position: 0
   aj_zone = 'weil'; aj_adspot = '235936'; aj_page = '0'; aj_dim ='235960'; aj_ch = ''; aj_ct = ''; aj_kw = '';
   aj_pv = true; aj_click = '';
 </script><script type="text/javascript" language="JavaScript" src="http://img1.cdn.adjuggler.com/banners/ajtg.js"></script>
+</div>
 
-	            	
-
-			</div>
-<br><br>
-				<img src="http://www.drweil.com/drw/ecs/images/dtlp_HealthfulContent.gif" style="padding-top:15px">
-                <div style="width:300px; border-bottom: rgb(60,87,80) 1px solid">
-                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px; line-height:14px; font-size:12px; color:#000000">
-                    <img src="http://www.drweil.com/drw/ecs/images/weil_dtgateway.jpg" align="left" style="padding-right:18px">
-
-                    <b>Free Health Emails from Dr. Weil!</b><br>
-					Daily tips and weekly newsletters.<br>
-                   <a href="http://www.drweil.com/drw/ecs/account/register.html?aparam=drwsitesearch_gateway">Sign up for your free emails today!</a><br>
-					<xsl:call-template name="nbsp">
-                	</xsl:call-template></p>
+                <div class="gateway2" style="visibility: visible;">
+                <div style="width: 300px; border-bottom: 1px solid rgb(60, 87, 80); display: block;" class="randomcontent group5">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="/drw/ecs/ask_dr_weil/qa_library.html"><img src="/drw/ecs/images/qa_gateway.gif" align="left" style="padding-right:18px" border="0"></a>
+                    <b>Q&amp;A Library</b><br>
+                    Over 2,000 questions from you<br>
+                    and their corresponding <a href="/drw/ecs/ask_dr_weil/qa_library.html">answers<br>
+                    from Dr. Weil.</a></p>
               	</div>
-                <div style="width:300px; border-bottom: rgb(60,87,80) 1px solid">
-
-                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px; line-height:14px; font-size:12px; color:#000000">
-                    <img src="http://www.drweil.com/drw/ecs/images/dtlp_HTTGuide.gif" align="left" style="padding-right:18px">
+                <div style="width:300px; border-bottom: rgb(60,87,80) 1px solid" class="randomcontent group5">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="/drw/u/PAG00321/Vitamin-Library-Supplement-Facts.html"><img src="/drw/ecs/images/vl_gateway.gif" align="left" style="padding-right:18px" border="0"></a>
+                    <b>Vitamin Library</b><br>         
+                    Supplement your knowledge within Dr. Weil's vitamin compendium. <a href="/drw/u/PAG00321/Vitamin-Library-Supplement-Facts.html">Learn why they are necessary and more.</a></p>
+              	</div>
+                </div>
+                
+                <div class="gateway2" style="visibility: visible;">
+                <div style="width: 300px; border-bottom: 1px solid rgb(60, 87, 80); display: block;" class="randomcontent group4">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="/drw/u/id/PAG00082"><img src="/drw/ecs/images/ccg_gateway.gif" align="left" style="padding-right:18px" border="0"></a>
+                    <b>Condition Care Guide</b><br>
+                    Learn about health conditions from acne to vertigo, and Dr. Weil's view of <a href="/drw/u/id/PAG00082">the best treatment options for each.</a></p>
+              	</div>
+                <div style="width:300px; border-bottom: rgb(60,87,80) 1px solid" class="randomcontent group4">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="/drw/ecs/common/recipe.html"><img src="/drw/ecs/images/recipes_gateway.gif" align="left" style="padding-right:18px" border="0"></a>
+                    <b>Healthy Recipes</b><br>         
+                    Discover a treasure trove of healthy, healing foods and creative, <a href="/drw/ecs/common/recipe.html">delicious ways to prepare them.</a> </p>
+              	</div>
+                </div>
+                
+                <div class="gateway2" style="visibility: visible;">
+                <div style="width: 300px; border-bottom: 1px solid rgb(60, 87, 80); display: block;" class="randomcontent group3">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="http://ad.doubleclick.net/clk;204542934;27785482;p "><img src="/drw/ecs/images/sh_promo.gif" align="left" style="padding-right:18px" border="0"></a>
+                    <b>Dr. Weil's Optimum Health Plan</b><br>
+                    Your 8-week plan to wellness.<br>
+                    <a href="http://ad.doubleclick.net/clk;204542934;27785482;p ">Begin your journey today!</a><br>&nbsp;</p>
+              	</div>
+                <div style="width:300px; border-bottom: rgb(60,87,80) 1px solid" class="randomcontent group3">
+                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px">
+                    <a href="/drw/u/PAG00363/Dr-Weil-Head-to-Toe-Wellness-Guide.html"><img src="/drw/ecs/images/dtlp_HTTGuide.gif" align="left" style="padding-right:18px" border="0"></a>
                     <b>Dr. Weil's Head-to-Toe<br>
                     Wellness Guide</b><br>         
                     Your guide to natural health.<br>
-				  <a href="http://www.drweil.com/drw/u/PAG00363/Dr-Weil-Head-to-Toe-Wellness-Guide.html">Use the Wellness Guide today!</a></p>
+				  <a href="/drw/u/PAG00363/Dr-Weil-Head-to-Toe-Wellness-Guide.html">Use the Wellness Guide today!</a></p>
               	</div>
+                </div>
+                
+                
+     
+                
+                <script type="text/javascript">
 
-                <div style="width:300px; border-bottom: rgb(60,87,80) 1px solid">
-                	<p style="padding-top:6px; padding-bottom:6px; padding-left:13px; padding-right:13px; line-height:14px; font-size:12px; color:#000000">
-                    <img src="http://www.drweil.com/drw/ecs/images/gateway_pyramid.gif" align="left" style="padding-right:18px">
-                    <b>Dr. Weil's Anti-Inflammatory Diet Food Pyramid</b><br>
-					<a href="http://www.drweil.com/drw/u/PAG00361/anti-inflammatory-food-pyramid.html">Our interactive tool can help improve overall health through diet.</a></p>
-              	</div>
+//randomize order of contents with DIV class="gateway1"
+randomizeContent("gateway2")
 
-					
-	            
+</script>
+
+
+           
+                
+ <script type="text/javascript">
+//Call this following all random contents HTML on the page:
+randomcontentdisplay.init()
+
+</script> 
+                
+                
+                
                 <div class="sponsor" style="width:300px; padding-top:10px"><span class="sponsorLabel">advertisement</span><br>
-	            
-	            <!-- AdJuggler 7 request
+	            	
+	            	<!-- AdJuggler 7 request
 Type: Single Ad
 Ad Placement: ROS 300x250 #2
 Channel: 
@@ -416,11 +587,7 @@ Position: 0
   aj_pv = true; aj_click = '';
 </script><script type="text/javascript" language="JavaScript" src="http://img1.cdn.adjuggler.com/banners/ajtg.js"></script>
 
-
-	            	
-
-			</div>
-
+</div>
 
 </xsl:template>
 </div>
