@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the answerable.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212172349id_/http%3A//www.answerable.com/content.php%3Faction%3Dmypages%26page%3DPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerable.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205004122id_/http%3A//www.bigrock.com/support/privacy.php) for the most accurate reproduction.*
 
-# Answerable.com Privacy Policy
+# Privacy Policy
 
-At Answerable.com we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us ("Answerable.com Services").
+At BigRock.com we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us ("BigRock.com Services").
 
 ### Collection of Information
 
@@ -23,7 +23,7 @@ We only use and process personal information for the purposes described in this 
   * Ensuring the technical functioning of our network
   * Protecting our rights or property and that of our users
   * Developing new services
-  * As described in the respective terms of service of each of our services and in the Answerable.com Customer Master Agreement
+  * As described in the respective terms of service of each of our services and in the BigRock.com Customer Master Agreement
 
 
 
@@ -47,7 +47,7 @@ We only share personal information with other companies or individuals in the fo
 (c) detect, prevent, or otherwise address fraud, security or technical issues, or  
 (d) protect against harm to rights, property or safety, of our users, us or the public as required or permitted by law.
   * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users by demographic. Such information does not identify you individually.
-  * As permitted and described in the respective terms of service of each of our services and in the Answerable.com Customer Master Agreement
+  * As permitted and described in the respective terms of service of each of our services and in the BigRock.com Customer Master Agreement
 
 
 
