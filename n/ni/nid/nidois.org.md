@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nidois.org privacy policy that was archived on 2011-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110121035732id_/http%3A//www.nidois.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nidois.org privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204115003id_/http%3A//www.nidois.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | nidois.org
 
