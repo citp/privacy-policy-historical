@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513044309id_/http%3A//www.thorpepark.com/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204083834id_/http%3A//www.thorpepark.com/misc/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for THORPEPARK.com
 
@@ -19,7 +19,7 @@ We will use the information you enter at the site for administration purposes an
 We may also disclose your personal information to third parties:
 
   1. in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets 
-  2. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](https://web.archive.org/web/20110513044309id_/http%3A//www.thorpepark.com/misc/terms-and-conditions.aspx) of use or terms and conditions of supply and other agreements, or to protect the rights, property or safety of the Merlin Entertainments Group, our customers, or others. This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction.
+  2. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](https://web.archive.org/web/20111204083834id_/http%3A//www.thorpepark.com/misc/terms-and-conditions.aspx) of use or terms and conditions of supply and other agreements, or to protect the rights, property or safety of the Merlin Entertainments Group, our customers, or others. This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction.
 
 
 
@@ -49,7 +49,9 @@ We try to ensure that our web site offers visitors exactly what they are looking
 
 ## Cookies
 
-Cookies are small amounts of information which we store on your computer. Unless you have indicated your objection when disclosing your details to us, our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although in that case, you may not be able to use certain features on our site. To disable cookies consult your browsers help files and follow the steps shown.
+We use cookies on our websites. Cookies are small data files that your browser places on your computer or device. A cookie itself does not contain or collect personal information about you or your use of the web. However, when you visit a website the cookies on your computer or device can enable the website to deliver a more tailored service or experience – for example, by remembering your product choices or preferences. 
+
+[Find out more...](https://web.archive.org/misc/cookies.aspx)
 
 ## Security and Data Retention
 
