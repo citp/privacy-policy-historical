@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lemonfree.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623172033id_/http%3A//www.lemonfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonfree.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204011643id_/http%3A//www.lemonfree.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Lemon Free Classifieds
+# Privacy Policy - LemonFree.com
 
 Sign Up / Login to LemonFree.com
 
@@ -63,6 +63,6 @@ If you wish to contact us to:
 
 
 
-Email: [privacyofficer@LemonFree.com](mailto:privacyofficer@LemonFree.com)
+Email: [privacyofficer@lemonfree.com](mailto:privacyofficer@lemonfree.com)
 
 This site contains links to other sites. LemonFree.com **** is not responsible for the privacy practices or the content of such websites.
