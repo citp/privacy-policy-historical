@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the procore.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606045133id_/http%3A//www.procore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the procore.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204063633id_/http%3A//www.procore.com/privacy.html) for the most accurate reproduction.*
 
 # Construction Project Management Software - About Procore
 
