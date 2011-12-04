@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xi3.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605214445id_/http%3A//xi3.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xi3.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204154049id_/http%3A//www.xi3.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Xi3 | Privacy Policy
 
@@ -29,4 +29,4 @@ We use this information, which does not identify individual users, to analyze tr
 If you have questions or concerns about the Xi3 Privacy Policy or data processing, please use our contact form Labeling it Xi3 Privacy Policy Question in the description.
 
   
-© 2010 Xi3 Corporation, Inc. All rights reserved.
+© 2010 Xi3 Corporation. All rights reserved.
