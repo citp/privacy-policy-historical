@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreepaysite.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622030719id_/http%3A//www.myfreepaysite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreepaysite.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204155250id_/http%3A//myfreepaysite.com/privacy.html) for the most accurate reproduction.*
 
 # MYFREEPAYSITE.COM - PRIVACY POLICY
 
