@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astatalk.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518164415id_/http%3A//astatalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astatalk.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204084628id_/http%3A//astatalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Astatalk - Privacy Policy
 
