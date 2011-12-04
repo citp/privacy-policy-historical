@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autosurfmyth.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506062846id_/http%3A//www.autosurfmyth.com/signup.php%3Fshow%3Dprivacy%26PHPSESSID%3Dc506c97e1ca2e7aec745eb99459181ce) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosurfmyth.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204085006id_/http%3A//www.autosurfmyth.com/signup.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # autosurfmyth.com: Surf
 
