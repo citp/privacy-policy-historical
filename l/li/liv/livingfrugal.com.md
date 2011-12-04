@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingfrugal.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430174347id_/http%3A//livingfrugal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingfrugal.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204030301id_/http%3A//www.livingfrugal.com/privacy.html) for the most accurate reproduction.*
 
 # Living Frugal | Privacy Policy
 
@@ -9,6 +9,8 @@ Living Frugal collects some personal information for user experience, submission
 Your Account Information: If you use Facebook to login, we will keep record of your personal information, including your email address and name. Through this, we are able to give our users the best possible experience.
 
 User Submissions: Any submissions you contribute to Living Frugal may be stored or publically displayed. When you submit through Facebook, this includes your first and last name, profile picture and your current location. However, you can edit your account settings to not display these details. Submissions include anything you post to Living Frugal or your public profile.
+
+Unsubscribe: To unsubscribe from Livng Frugal mailling lists please use [www.LivingFrugal.com/unsubscribe/](http://www.livingfrugal.com/unsubscribe/).
 
 Feedback: Living Frugal will make record of personal information and other content when you offer us feedback, ask questions or leave a complaint. This way, we are able to address user issues and compliments quickly and effectively.
 
