@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hl.co.uk privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521143652id_/http%3A//www.hl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hl.co.uk privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204234854id_/http%3A//www.hl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Hargreaves Lansdown
 
