@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the ctuonline.edu privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404055028id_/http%3A//www.coloradotech.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctuonline.edu privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204182830id_/http%3A//www.ctuonline.edu/privacy.aspx) for the most accurate reproduction.*
 
 # Colorado Technical University - CTU
-
-  * Print
-  * Bookmark
-
-
 
 The Effective Date of this Privacy Policy is April 13, 2009.
 
