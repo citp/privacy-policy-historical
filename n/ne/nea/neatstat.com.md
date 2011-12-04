@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neatstat.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627104013id_/http%3A//www.neatstat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatstat.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204182939id_/http%3A//www.neatstat.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Website Worth Calculator, Website Value Calculator, Domain Worth
+# Our Privacy Policy : Website worth Estimator : Calculate Website Worth : Neatstat.com
 
 **The privacy of our visitors to NeatStat.com is important to us.**
 
