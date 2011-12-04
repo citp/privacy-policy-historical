@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the peekshows.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605201458id_/http%3A//www.peekshows.com/privacy.phtml%3Fwmcode%3Dpeek123-lncentry) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peekshows.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204073749id_/http%3A//www.peekshows.com/privacy.phtml%3Fwmcode%3Dpeek123-lncentry) for the most accurate reproduction.*
 
 # PeekShows.com takes your Privacy Seriously! Secure and Encrypted Website and Servers with Green Bar Protection through Geotrust Extended Validation.
+
+### EXCEPTION:  
+This Privacy Policy is null and void in cases of maliciously intentional fraud!
+
+This means that if you intentionally supply us with fraudulent information or attempt to defraud us, this privacy policy will not be honored. This exception is in place to help defeat internet fraudsters which use stolen credit card information in an attempt to steal money from the credit card holders, credit card companies, and merchants. In cases where we are supplied with fraudulent information, we may supply that information to the authorities in an attempt to help catch the crooks. We have been successful in getting internet fraudsters and hackers apprehended! 
 
 The peekshows Network respects and safeguards the privacy of every individual who visits our website. This Privacy Policy is a formal document that outlines the privacy practices of the Peekshows Network. In this policy, the information we collect about you and how that information may be used will be explained.
 
@@ -19,6 +24,8 @@ The Peekshows Network may utilize electronic newsletters to reach all or a subse
 Under no circumstances, unless required to do so by subpoena or court order by an authorized law enforcement agent or appointed Officer of the Court, will the Peekshows Network release any personally-identifiable information, in whole or in part, to any third party, without first obtaining the express consent of the individual user.
 
 Broadcasting Concepts, Inc. and PeekShows.com is the sole owner of the information collected on its sites. Broadcasting Concepts, Inc. and Peekshows.com has never sold, shared nor rented this information to any third parties.
+
+Broadcasting Concepts, Inc. does utilize Google Analytics on PeekShows.com. 
 
 **IV. Public Forums**
 
