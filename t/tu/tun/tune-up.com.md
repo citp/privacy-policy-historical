@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606152714id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tune-up.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204062742id_/http%3A//www.tune-up.com/company/privacy) for the most accurate reproduction.*
 
-# TuneUp America - Company - Privacy policy
+# TuneUp Utilities™ 2012 - Company - Privacy Policy
 
 This privacy policy is designed to inform users of TuneUp websites about how TuneUp (“TuneUp” or “we”) gathers and uses anonymous and profile information, and in what circumstances TuneUp will disclose such information. TuneUp will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws.
 
@@ -10,10 +10,10 @@ If you believe that TuneUp has not complied with this Privacy Policy, or if you 
 
 TuneUp Corporation 1221 Brickell Avenue, 9th floor, Ste 900, Florida 33131  
 Fax: +1 (305) 374-6146  
-E-mail: [support_en@tune-up.com](mailto:support_en@tune-up.com)  
+E-mail: support_en(at)tune-up.com  
 TuneUp will investigate your complaint and respond to you promptly.
 
-Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an [e-mail](mailto:support_en@tune-up.com). 
+Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an e-mail. 
 
 ## What Information Do We Collect and How Do We Use It?
 
@@ -38,7 +38,7 @@ In order to permit full use of the functionality of its internet offerings, Tune
 
 _Forwarding to Google Analytics_
 
-Our website uses Google Analytics, an internet evaluation service of Google, Inc. (“Google”). Google uses the information stored by cookies (as described above) to evaluate your use of the website, to prepare reports of website activities for website operators and to provide other services associated with website and internet usage. Google processes data on its servers in the United States and in certain circumstances provides compiled, anonymized information to third party developers. You can obtain information about the scope and purpose of the analyses at http://www.google.com/analytics/tos.html, and you can find Google’s data privacy policies at http://www.google.com/privacy.html. By using this website, you agree to the forwarding of data to Google and the processing by Google of the data collected from you in the manner and for the purposes described above. If you disagree with this, you may refuse to allow cookies to be saved.  
+Our website uses Google Analytics, an internet evaluation service of Google, Inc. (“Google”). Google uses the information stored by cookies (as described above) to evaluate your use of the website, to prepare reports of website activities for website operators and to provide other services associated with website and internet usage. Google processes data on its servers in the United States and in certain circumstances provides compiled, anonymized information to third party developers. You can obtain information about the scope and purpose of the analyses at [www.google.com/analytics/tos.html](http://www.google.com/analytics/tos.html), and you can find Google’s data privacy policies at [www.google.com/privacy.html](http://www.google.com/privacy.html). By using this website, you agree to the forwarding of data to Google and the processing by Google of the data collected from you in the manner and for the purposes described above. If you disagree with this, you may refuse to allow cookies to be saved.  
 Profile information provided to us by you is, however, subject to disclosure pursuant to any applicable laws.
 
 _Third Party Service Providers to TuneUp_
@@ -50,11 +50,11 @@ Please note that personal information provided to this site may be subject to di
 
 TuneUp will only use your user profile information for the purposes described in this Privacy Policy or subsequently authorized by you.
 
-If you would like information about you (that is not necessary for the completion of a transaction you initiated) to be deleted from the TuneUp database, please contact us at [support_en@tune-up.com](mailto:support_en@tune-up.com) and we will remove your user profile information.
+If you would like information about you (that is not necessary for the completion of a transaction you initiated) to be deleted from the TuneUp database, please contact us at support_en(at)tune-up.com and we will remove your user profile information.
 
 _Access and Updating of Information_
 
-The instructions to review, amend, or delete your information may be found [support_en@tune-up.com](mailto:support_en@tune-up.com). Users may change information at any time and as often as necessary, including by withdrawing your consent to use your data to the extent you had previously consented to such use (such as subscribing to the TuneUp newsletter).
+The instructions to review, amend, or delete your information may be found support_en(at)tune-up.com. Users may change information at any time and as often as necessary, including by withdrawing your consent to use your data to the extent you had previously consented to such use (such as subscribing to the TuneUp newsletter).
 
 ## General
 
@@ -72,7 +72,7 @@ We are always seeking to improve our website and our business. If all or part of
 
 _Amendments_
 
-TuneUp may modify or amend this policy from time to time. If we make any material changes in the way in which your profile information is collected, used or transferred, we will notify you of these changes on our website or by e-mail and provide a link to the new privacy statement. If you object to any of the changes, you can have us delete your information from our database by contacting [support_en@tune-up.com](mailto:support_en@tune-up.com).
+TuneUp may modify or amend this policy from time to time. If we make any material changes in the way in which your profile information is collected, used or transferred, we will notify you of these changes on our website or by e-mail and provide a link to the new privacy statement. If you object to any of the changes, you can have us delete your information from our database by contacting support_en(at)tune-up.com.
 
 _Options_
 
