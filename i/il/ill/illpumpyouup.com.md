@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the illpumpyouup.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503103405id_/http%3A//www.illpumpyouup.com/support-center/privacy-and-security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illpumpyouup.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204155906id_/http%3A//www.illpumpyouup.com/support-center/privacy-and-security.htm) for the most accurate reproduction.*
 
 # Privacy & Security - IllPumpYouUp.com
 
 ** Privacy**
 
-At IllPumpYouUp.com we protect your privacy as if it were our own. We will never give, sell, or rent your personal information or specific account activity to anyone for any reason except as required by law. We do use an outside shipping services to ship orders (USPS and UPS), and our credit card processing company to bill users for their order. These companies may receive personally identifiable information to help us process your order. These companies will not retain, share, store or use personally identifiable information for any secondary purposes. 
+At IllPumpYouUp.com we protect your privacy as if it were our own. We will never give, sell, or rent your personal information or specific account activity to anyone for any reason except as required by law. We do use an outside shipping services to ship orders (USPS and UPS), and our credit card processing company to bill users for their order. These companies may receive personally identifiable information to help us process your order. These companies will not retain, share, store or use personally identifiable information for any secondary purposes.
 
-** Security**
+**  
+Trust**
+
+Did you know that we have an **A+ rating** (highest rating you can have) with the **Better Business Bureau** with zero complaints? Yep, that's right, you can trust us and count on us to provide top notch customer service!
+
+**  
+Security**
 
 One of our most important goals at IllPumpYouup.com is to make shopping with us a 100% secures. In all of the years we have been in business with tens of thousands of online orders, we have never had a security problem. No stolen credit cards or leaked transactions... nothing. 
 
