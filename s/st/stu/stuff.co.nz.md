@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuff.co.nz privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516021946id_/http%3A//www.stuff.co.nz/about-stuff/legal/25044/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuff.co.nz privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204164812id_/http%3A//www.stuff.co.nz/about-stuff/legal/25044/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - legal - about-stuff | Stuff.co.nz
 
@@ -20,9 +20,9 @@ a) the date and time of your visit
 
 b) the URL address of the pages accessed and the documents downloaded. 
 
-This information does not personally identify you.  We analyse this non-personal information for certain trends and statistics, such as which parts of the Site users are visiting, which features or services are most popular and to measure the effectiveness of advertising. We do not disclose information about individuals except for the reasons set out below. 
+This information does not personally identify you. For example we may collect data relating to activites on our websites via tracking technologies such as cookies. We analyse this non-personal information for certain trends and statistics, such as which parts of the Site users are visiting, which features or services are most popular and to measure the effectiveness of advertising. We do not disclose information about individuals except for the reasons set out below. 
 
-We also monitor interactions with our Site using Nielson//Net Ratings Limited to provide tracking and auditing services in respect of the Site. More information about Net Ratings Limited can be found here: http://www.nielsen-netratings.com/ 
+We also monitor interactions with our Site using third parties such as Nielson//Net Ratings Limited, Google Analytics and Adobe Limited  to provide tracking and auditing services in respect of the Site. These parties may collect non -personal data relating to your activities on our websites on our behalf. More information about  these companies is available at  Net Ratings Limited ([http://www.nielsen-netratings.com](http://www.nielsen-netratings.com/)) Omniture (<http://www.omniture.com/en/privacy/policy>) and Google Analytics (<http://www.google.com/intl/en/privacy>). 
 
 **Personal Information**
 
