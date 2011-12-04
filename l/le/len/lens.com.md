@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309065431id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lens.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204194706id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.*
 
-# Lens.com ® - Privacy Policy
+# Lens.com Ž - Privacy Policy
 
 Our store maintains a strong commitment to your privacy. Lens.com considers the responsible use of personal information to be a critical element in enabling the Internet to reach its potential as a serious tool for personal and professional activities. As the Internet changes our lives in a number of ways, Lens.com is committed to respecting your privacy.
 
