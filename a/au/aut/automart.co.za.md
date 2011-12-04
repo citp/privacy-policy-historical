@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automart.co.za privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220025057id_/http%3A//www.automart.co.za/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automart.co.za privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204093550id_/http%3A//www.automart.co.za/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Automart
 
 **Privacy Statement from** **Alli-Cat Publishing (Pty) Ltd., Registration Number 2002/025202/07, t/a SA AutoMart, Truck and Trailer, Bike & Quad Mart and Buy and Sell 4x4 (herein after referred to as "The Company")**
 
