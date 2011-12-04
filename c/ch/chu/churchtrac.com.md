@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchtrac.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120234331id_/http%3A//churchtrac.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchtrac.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205000925id_/http%3A//www.churchtrac.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,4 +24,4 @@ Your purchase information and customer data is not accessible via the internet. 
 
 If you subscribe to the ChurchTrac data sharing service, you will have a secure account set up on our server to assist the software in sharing data between all your computers. Access to the server is extremely limited and safeguarded.
 
-If you wish to stop receiving information from us, [contact us](https://web.archive.org/web/20101120234331id_/http%3A//churchtrac.com/support.htm), or reply to an email from our domain with the subject "Remove". If you have any questions regarding this privacy policy or our use of your information, please contact us.
+If you wish to stop receiving information from us, [contact us](https://web.archive.org/web/20111205000925id_/http%3A//www.churchtrac.com/support.htm), or reply to an email from our domain with the subject "Remove". If you have any questions regarding this privacy policy or our use of your information, please contact us.
