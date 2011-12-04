@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.com.sg privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630130507id_/http%3A//sg.jobsdb.com/SG/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.com.sg privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204054716id_/http%3A//sg.jobsdb.com/SG/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # None
 
@@ -14,7 +14,7 @@ _If you do not receive acknowledgement of your inquiry or your inquiry has not b
 
 ## Purpose Of Collection Of Personal Data
 
-Personal data submitted by Jobseeker will be used for the sole purpose of assisting him/her to find appropriate employment with Employer and assisting Employer to assess the suitability of candidates for a job vacancy in the manner specified on our [Job Seekers - Service Guide](https://web.archive.org/web/20110630130507id_/http%3A//sg.jobsdb.com/SG/en/StaticContentContainer/ServiceGuide.htm) web page.
+Personal data submitted by Jobseeker will be used for the sole purpose of assisting him/her to find appropriate employment with Employer and assisting Employer to assess the suitability of candidates for a job vacancy in the manner specified on our [Job Seekers - Service Guide](https://web.archive.org/web/20111204054716id_/http%3A//sg.jobsdb.com/SG/en/StaticContentContainer/ServiceGuide.htm) web page.
 
 The Company collects information about the user that is personally identifiable like name, address, email address, phone number and demographic information including country, age, sex that is not otherwise publicly available. Occasionally, the Company may also collect additional personal data from user in connection with contests, surveys, or special offers.
 
