@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winggirlmethod.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605072426id_/http%3A//www.winggirlmethod.com/the-wing-girl-method-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winggirlmethod.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204091135id_/http%3A//www.winggirlmethod.com/the-wing-girl-method-privacy-policy) for the most accurate reproduction.*
 
-# The Wing Girl Method Privacy Policy | Learn How To Attract Women
+# The Wing Girl Method Privacy Policy | Learn How To Attract Women - The Wing Girl Method
 
 **WingGirlMethod.com** (The Wing Girl Method, Wing Girls ™)
 
