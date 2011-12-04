@@ -1,29 +1,23 @@
-> *The following text is extracted and transformed from the newsgator.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612232708id_/http%3A//www.newsgator.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsgator.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204221210id_/http%3A//www.newsgator.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# NewsGator - Privacy Policy
+# Privacy Policy - NewsGator Technologies
 
-## 
+**Our Commitment to Privacy  
+**NewsGator Technologies is committed to protecting your privacy. To better protect your privacy we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. We are not responsible for the content or the privacy policies of Websites to which we may link.
 
-  
+**The Way We Use Information  
+**We use your email address to answer the email we receive and to communicate with you regarding your purchases. We may also use your email information to solicit feedback from you or alert you to new products, new features in our products, and upcoming webinars and events that we think may be of interest. You will always have the option to opt out of such communications. Your email address and other contact information are not used for any other purpose. We may utilize an external service for sending and tracking email communications and unsubscribe requests. These third parties may not share or use your email address for any other purpose.
 
+We use non-identifying and aggregate information to better design our website and to share with partners. For example, we may tell a partner company that we have X number of customers and may provide aggregate demographic information about these X customers, but we would not disclose anything that could be used to identify those organizations or individuals.
 
-##### The Information We Collect
+**Use of Cookies  
+**We use persistent cookies (cookies which are stored on your computer) for tracking referral sources for affiliate marketing and for measuring ad performance. No personally identifiable information is stored in this cookie.
 
-This notice applies to all information collected or submitted.
+**How to Contact Us  
+**Should you have any questions or concerns about these privacy policies, please send us email at [info@newsgator.com](mailto:info@newsgator.com).
 
-Product Usage  
-Through the usage of any of our client products or web-based readers, you create data. The primary purpose of storing this data is to present the correct view in your reader (e.g. your subscriptions, your read and unread items). The types of personal information that may be collected in this process include:  
-Subscriptions  
-Data from actions you take on posts (for example marking read, saving, forwarding via email, etc)
+**Updates & Effective Date  
+**From time to time, we may update this privacy notice, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-##### The Way We Use Information
-
-We use the information you provide about yourself when placing an order to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-
-We use your email address to answer the email we receive and to communicate with you regarding your purchases. We may also use your email information to solicit feedback from you or alert you to new features in our products that we think may be of interest. You will always have the option to opt out of such communications. Your email address and other contact information are not used for any other purpose. We may utilize an external service for sending and tracking email communications and unsubscribe requests. These third parties may not share or use your email address for any other purpose.
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers and content partners. For example, we may tell a partner company that X number of individuals subscribe to a certain content feed and may provide aggregate demographic information about these X individuals, but we would not disclose anything that could be used to identify those individuals.
-
-We collect information on viewing and interacting with content to produce relevance ranking on articles. Personally identifiable information is not displayed or shared outside of NewsGator’s systems without your explicit permission (for example if you choose to make a clipping folder public).
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
+The Privacy Notice posted on this site was updated on or about March 10, 2011.  
+ 
