@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebook.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311141758id_/http%3A//www.ebook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebook.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204165721id_/http%3A//www.ebook.com/privacy) for the most accurate reproduction.*
 
 # eBook - ebooks
 
