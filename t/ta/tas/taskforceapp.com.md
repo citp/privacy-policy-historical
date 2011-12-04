@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taskforceapp.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218172722id_/http%3A//www.taskforceapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taskforceapp.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204195047id_/http%3A//www.taskforceapp.com/privacy) for the most accurate reproduction.*
 
 # Taskforce · Privacy
 
