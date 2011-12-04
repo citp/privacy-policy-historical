@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anytimehealth.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507234938id_/http%3A//www.anytimehealth.com/site-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimehealth.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205004340id_/http%3A//www.anytimehealth.com/site-links/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Anytime Health
 
