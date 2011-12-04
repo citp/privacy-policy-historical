@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skykingscasino.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529103806id_/http%3A//www.skykingscasino.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skykingscasino.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204183729id_/http%3A//www.skykingscasino.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security - Keeping Online Casino Players Safe
 
