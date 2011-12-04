@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netfirms.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425003918id_/http%3A//www2.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netfirms.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204174213id_/http%3A//www2.netfirms.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # Netfirms' Privacy Policy
 
@@ -45,13 +45,10 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
   13. **netfirms.com and netfirms.ca Statistics.** We use information gathered from our site statistics (for example, User IP addresses) to help diagnose problems with our servers, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. 
   
 
-  14. **Netfirms' Commitment to Children's Privacy.** Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. While we make every effort to ensure that our web sites are fun and age-appropriate for our younger audience, we believe that there is no substitute for proper parental supervision. Netfirms recommends that children ask a parent for permission before sending personal information to Netfirms, or to anyone online.
+  14. **Public Forums.** Please remember that any information you may disclose in our User Directory, Spotlights/case studies, testimonials, Forums, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
   
 
-  15. **Public Forums.** Please remember that any information you may disclose in our User Directory, Spotlights/case studies, testimonials, Forums, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
-  
-
-  16. **Netfirms' Commitment to Data Security.** We have implemented measures designed to protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts. 
+  15. **Netfirms' Commitment to Data Security.** We have implemented measures designed to protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts. 
 
 Your online access to certain personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages).
 
@@ -59,16 +56,16 @@ Data related to the services will be maintained in the US. We have personal info
 
   
 
-  17. **How to Access or Modify Your Information.** You have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information we have in our custody or control by accessing your personal profile in your account or by contacting support via email, phone or online chat.. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records. 
+  16. **How to Access or Modify Your Information.** You have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information we have in our custody or control by accessing your personal profile in your account or by contacting support via email, phone or online chat.. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records. 
 
 To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Control Panel. Alternatively, you can contact Netfirms Support by phone or through our online support form.
 
   
 
-  18. **Where to Direct Questions About Netfirms' Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, Netfirms, 70 Blanchard Rd 3rd Floor, Burlington, MA 01803 or support@netfirms-inc.com.
+  17. **Where to Direct Questions About Netfirms' Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, Netfirms, 70 Blanchard Rd 3rd Floor, Burlington, MA 01803 or support@netfirms-inc.com.
   
 
-  19. **Choice/Opt-Out**
+  18. **Choice/Opt-Out**
 
 When you become a User of Netfirms, You are automatically subscribed to receive notices about Your account, e-mail newsletters and news of special promotions offered through Netfirms and/or in conjunction with partners.
 
@@ -80,9 +77,9 @@ Please note: Netfirms reserves the right to send e-mail communications relating 
 
   
 
-  20. **Revisions to This Policy.** Netfirms reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
+  19. **Revisions to This Policy.** Netfirms reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
   
 
 
 
-This file was last modified March 15, 2011.
+This file was last modified June 14, 2011.
