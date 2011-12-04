@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myinterestingfiles.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811010747id_/http%3A//www.myinterestingfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinterestingfiles.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204042559id_/http%3A//www.myinterestingfiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,13 +55,3 @@ When we makes changes to this privacy policy we will post those changes here.
 Contact Information
 
 If you have any questions regarding our privacy policy, please contact us.
-
-[RSS feed](http://www.myinterestingfiles.com/privacy-policy/feed) | [Trackback URI](http://www.myinterestingfiles.com/privacy-policy/trackback)
-
-No comments yet.
-
-### Trackback responses to this post
-
-
-
-  *[RSS]: Really Simple Syndication
