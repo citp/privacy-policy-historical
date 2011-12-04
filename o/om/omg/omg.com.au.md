@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omg.com.au privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615083810id_/http%3A//www.omg.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omg.com.au privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204035007id_/http%3A//www.omg.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OMG
 
