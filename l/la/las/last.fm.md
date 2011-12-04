@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the last.fm privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624043213id_/http%3A//www.last.fm/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the last.fm privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204192731id_/http%3A//www.last.fm/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Last.fm
 
