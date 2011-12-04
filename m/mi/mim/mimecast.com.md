@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605075510id_/http%3A//www.mimecast.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimecast.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204015929id_/http%3A//www.mimecast.com/privacy-statement) for the most accurate reproduction.*
 
 # Mimecast Privacy Statement
-
-### Privacy
 
 ### Privacy Policy
 
@@ -49,6 +47,8 @@ You can tell us not to contact you with information regarding our products and s
 ### Non-personal information  
 
 When you visit the Site, we may automatically collect non-personal information about you, such as the type of internet browser you use, the website from which you have come to the Site and your IP address (the unique address which identifies your computer on the internet) which is automatically recognised by our web server. You cannot be identified from this information and it is only used to assist us in providing an effective service on the Site and to collect broad demographic information for aggregate use.
+
+If you refer a third party to the Site, you will need to provide the third party’s details. We may send the third party an email on your behalf and invite the third party such to visit the Site. Mimecast does not store this information.
 
 ### Cookies
 
