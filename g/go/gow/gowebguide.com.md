@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowebguide.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605221730id_/http%3A//gowebguide.com/page.php%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowebguide.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204083507id_/http%3A//gowebguide.com/page.php%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
