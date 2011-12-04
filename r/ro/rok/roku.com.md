@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the roku.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425111250id_/http%3A//www.roku.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roku.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204072551id_/http%3A//www.roku.com/about/privacy) for the most accurate reproduction.*
 
 # Roku | Roku Player Privacy Policy
 
-## Privacy Policy (Updated July 2008)
+## Roku Privacy-Policy
 
 This Privacy Policy statement describes our practices regarding how information we collect on the Roku Web sites and via Roku products ("Roku Devices") is used and shared with third parties. By visiting the Roku Web sites or using Roku Devices, you accept the practices described in this statement. This statement applies to anonymous data and personal information collected at the Roku Web sites and via Roku Devices. This statement also applies to personally identifiable customer information collected in connection with the sale, support and use of Roku Products.
 
