@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamesfrancis.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605193035id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesfrancis.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204152614id_/http%3A//www.jamesfrancis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Marketing Blog - By James Francis
+# Privacy Policy | Internet Marketing Blog By Marketing Guru James Francis
 
 Our Commitment To Privacy   
 The Information We Collect   
@@ -54,7 +54,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### How You Can Access Or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by [sending us an email](mailto:support@jamesfrancissupport.com) or visiting our [Support Desk](http://www.jamesfrancissupport.com/). We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by [sending us an email](mailto:support@jamesfrancis.com) or visiting our [Support Desk](http://www.jamesfrancissupport.com/). We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
@@ -62,6 +62,6 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please [contact us here](mailto:support@jamesfrancissupport.com).
+Should you have other questions or concerns about these privacy policies, please [contact us here](mailto:support@jamesfrancis.com).
 
 © James Francis 2011.
