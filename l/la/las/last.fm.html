@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the last.fm privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624043213id_/http%3A//www.last.fm/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the last.fm privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204192731id_/http%3A//www.last.fm/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" lastfmjs"><head>
+<!DOCTYPE html><html lang="en" class="js lastfm"><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7,chrome=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=7,9; chrome=1">
     <link rel="profile" href="http://purl.org/uF/2008/03/">
     
         <!--–[if IE]--><!--[endif]–-->
     
             <title>Privacy Policy – Last.fm</title>        
-        <script async="" src="https://ssl.google-analytics.com/ga.js"></script><script>(function(e) { e.className = e.className.replace(/\bno-js\b/,'') + 'js'; })(document.documentElement)</script>
+        <script async="" src="https://ssl.google-analytics.com/ga.js"></script><script>(function(e) { e.className = e.className.replace(/\bno-js\b/,'js'); })(document.documentElement)</script>
 
     <link rel="search" type="application/opensearchdescription+xml" href="http://cdn.last.fm/opensearch.xml" title="Last.fm">
             <meta name="description" content="The world’s largest online music catalogue, powered by your scrobbles. Free internet radio, videos, photos, stats, charts, biographies and concerts.">
@@ -36,7 +36,7 @@
                 <link type="text/html" rel="alternate" hreflang="ru" href="http://www.lastfm.ru/legal/privacy">
                 <link type="text/html" rel="alternate" hreflang="sv" href="http://www.lastfm.se/legal/privacy">
                 <link type="text/html" rel="alternate" hreflang="tr" href="http://www.lastfm.com.tr/legal/privacy">
-                <link type="text/html" rel="alternate" hreflang="cn" href="http://cn.last.fm/legal/privacy">
+                <link type="text/html" rel="alternate" hreflang="zh" href="http://cn.last.fm/legal/privacy">
             
     
         <style> html { zoom: 1; } </style>
@@ -55,19 +55,32 @@
         }
 </script>
 
-                                        <link rel="stylesheet" href="http://cdn.last.fm/css/css/195751/master.css">
-                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/195751/legal/overview.css">
+                                        <link rel="stylesheet" href="http://cdn.last.fm/css/css/206147/master.css">
+                            <link rel="stylesheet" href="http://cdn.last.fm/css/css/206147/legal/overview.css">
                         
-        
-<script src="http://cdn.last.fm/javascript/javascript/195751/lib/prototype.js"></script>
-<script src="http://cdn.last.fm/javascript/javascript/195751/lib/scriptaculous.js"></script>
-<script src="http://cdn.last.fm/javascript/javascript/195751/lib/sm2-min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js"></script>
+<script>
+    if(typeof Prototype === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/206141/lib/prototype.js' type='text/javascript'%3E%3C/script%3E"));
+    }
+</script><script src="http://cdn.last.fm/javascript/javascript/206141/lib/prototype.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js"></script>
+<script>
+    if(typeof Scriptaculous === 'undefined') {
+        document.write(unescape("%3Cscript src='http://cdn.last.fm/javascript/javascript/206141/lib/scriptaculous/scriptaculous.js' type='text/javascript'%3E%3C/script%3E"));
+    }
+</script><script src="http://cdn.last.fm/javascript/javascript/206141/lib/scriptaculous/scriptaculous.js" type="text/javascript"></script>
+<script>
+    /* We like defered loading of SoundManager2 */
+    SM2_DEFER = true;
+</script>
+<script src="http://cdn.last.fm/javascript/javascript/206141/lib/sm2-min.js"></script>
 
-<script src="http://cdn.last.fm/javascript/javascript/195751/LFM.js"></script>
+<script src="http://cdn.last.fm/javascript/javascript/206141/LFM.js"></script>
 
 <script>
     LFM.Adserver.showAds = true;
-    LFM.set("Session", {"cookieHost":".last.fm","host":"www.last.fm","staticHost":"http:\/\/cdn.last.fm","wsHost":"ws.audioscrobbler.com","userserveHost":"http:\/\/userserve-ak.last.fm","wsKey":"ceec2bb03d4c5929f0d6667fc266dc75","formtoken":"2bcd67b944b9e63a7fd1b2c0c95a8d55947c66b3","location":"us","language":"en","loggedIn":false});
+    LFM.set("Session", {"cookieHost":".last.fm","host":"www.last.fm","staticHost":"http:\/\/cdn.last.fm","wsHost":"ws.audioscrobbler.com","userserveHost":"http:\/\/userserve-ak.last.fm","wsKey":"ceec2bb03d4c5929f0d6667fc266dc75","formtoken":"4af68664f9d3b1b95c82a9327fb1282f0ad170fa","location":"us","language":"en","loggedIn":false});
     LFM.set("resTypes", {
         EVENT: 29,
         ARTIST: 6,
@@ -88,22 +101,47 @@
         4: "User",
         10: "Label"
     });
-    LFM.set("String", {toRedStr: "Simply Red",toBlackStr: "Paint it Black",okText: "OK",cancelText: "Cancel",clickToEditText: "Click to edit",savingText: "Saving…",loadingText: "Loading…",deletingText: "Deleting…",thereWasAnError: "There was an error.",dialogLoadError: "There was an error loading this dialog.",fileTooBig: "Sorry, the file is too big.",noFile: "Please choose a file.",uploadCancelled: "Upload Cancelled.",deleteMessageTitle: "Delete Message",deleteMessagePrompt: "Are you sure you want to delete this message?",deleteFriendPrompt: "Are you sure you want to delete this friend?",deleteImage: "Are you sure you want to delete this image?",deleteButtonText: "Delete",done: "Done",backText: "Back",yesText: "Yes",noText: "No",saveText: "Save",saveTitle: "Add to profile",sendText: "Send",sendTitle: "Share with friends",addTitle: "Add to library",tagTitle: "Add tags",playlistTitle: "Add to playlist",obsessionTitle: "Personalise your obsession",befriendTitle: "Add a friend",joinTitle: "Join this group",loved: "Loved",RemoveFromLibraryTitle: "Remove from library",uploadImageTitle: "Upload Image",uploadVideoTitle: "Upload Video",usernoteTitle: "Add a note",flageventTitle: "Flag for review",setLocationTitle: "Set your Location",newWindowTooltip: "This link will open in a new window",unloadWarningMessage: "This will stop Radio Playback",trackLoved: "You loved this track",playbackStopped: "Playback stopped",loadingTrackInfo: "Loading track information",errorLoadingTrackInfo: "Error loading track information",emailLineup: "Email this",uploadMessages: {mayTakeLonger: "Sorry, this may take slightly longer than usual. Hold on a couple of seconds.",uploading: "Uploading…",endUploading: "Done",progressDisplay: "PERCENTUPLOADED% complete (TRANSFERRATE kb/s) – TIMEREMAINING seconds remaining",progressComplete: "100% complete",failedRetrying: "Failed retrying upload, bailed.",processingMedia: "Processing media…",unsupportedFormat: "Sorry, the file you uploaded isn’t encoded in a supported format. Please try again.",uploadError: "There was an error uploading your video, please verify that the file you are uploading is not too large or of an incorrect format and try again."},shortMonths: {'1': "Jan",'2': "Feb",'3': "Mar",'4': "Apr",'5': "May",'6': "Jun",'7': "Jul",'8': "Aug",'9': "Sep",'10': "Oct",'11': "Nov",'12': "Dec"},resTypePlural: {29: "Events",6: "Artists",8: "Albums",9: "Tracks",20: "Groups",32: "Tags",4: "Users","friends":   "Friends",10: "Labels"}});LFM.set("Element", {icon_loved_indicator: "<img class=\"icon loved_indicator_icon\" width=\"11\" height=\"9\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" \/>",icon_tag: "<img class=\"icon tag_icon\" width=\"14\" height=\"14\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" \/>",icon_dismiss: "<img class=\"icon dismiss_icon\" width=\"13\" height=\"13\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" \/>",icon_play: "<img class=\"transparent_png play_icon\" width=\"13\" height=\"13\" alt=\"Play\" src=\"http:\/\/cdn.last.fm\/flatness\/preview\/play_indicator.png\" \/>"});
+    LFM.set("String", {toRedStr: "Simply Red",toBlackStr: "Paint it Black",okText: "OK",cancelText: "Cancel",clickToEditText: "Click to edit",savingText: "Saving…",loadingText: "Loading…",deletingText: "Deleting…",thereWasAnError: "There was an error.",dialogLoadError: "There was an error loading this dialog.",fileTooBig: "Sorry, the file is too big.",noFile: "Please choose a file.",uploadCancelled: "Upload Cancelled.",deleteMessageTitle: "Delete Message",deleteMessagePrompt: "Are you sure you want to delete this message?",deleteFriendPrompt: "Are you sure you want to delete this friend?",deleteImage: "Are you sure you want to delete this image?",deleteButtonText: "Delete",done: "Done",backText: "Back",yesText: "Yes",noText: "No",saveText: "Save",saveTitle: "Add to profile",sendText: "Send",sendTitle: "Share with friends",addTitle: "Add to library",tagTitle: "Add tags",playlistTitle: "Add to playlist",obsessionTitle: "Personalise your obsession",befriendTitle: "Add a friend",joinTitle: "Join this group",loved: "Loved",RemoveFromLibraryTitle: "Remove from library",uploadImageTitle: "Upload Image",uploadVideoTitle: "Upload Video",usernoteTitle: "Add a note",cleanupBioTitle: "Cleanup Bio",flageventTitle: "Flag for review",setLocationTitle: "Set your Location",newWindowTooltip: "This link will open in a new window",unloadWarningMessage: "This will stop Radio Playback",trackLoved: "You loved this track",playbackStopped: "Playback stopped",loadingTrackInfo: "Loading track information",errorLoadingTrackInfo: "Error loading track information",emailLineup: "Email this",uploadMessages: {mayTakeLonger: "Sorry, this may take slightly longer than usual. Hold on a couple of seconds.",uploading: "Uploading…",endUploading: "Done",progressDisplay: "PERCENTUPLOADED% complete (TRANSFERRATE kb/s) – TIMEREMAINING seconds remaining",progressComplete: "100% complete",failedRetrying: "Failed retrying upload, bailed.",processingMedia: "Processing media…",unsupportedFormat: "Sorry, the file you uploaded isn’t encoded in a supported format. Please try again.",uploadError: "There was an error uploading your video, please verify that the file you are uploading is not too large or of an incorrect format and try again."},shortMonths: {'1': "Jan",'2': "Feb",'3': "Mar",'4': "Apr",'5': "May",'6': "Jun",'7': "Jul",'8': "Aug",'9': "Sep",'10': "Oct",'11': "Nov",'12': "Dec"},resTypePlural: {29: "Events",6: "Artists",8: "Albums",9: "Tracks",20: "Groups",32: "Tags",4: "Users","friends":   "Friends",10: "Labels"}});LFM.set("Element", {icon_loved_indicator: "<img class=\"icon loved_indicator_icon\" width=\"11\" height=\"9\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" \/>",icon_tag: "<img class=\"icon tag_icon\" width=\"14\" height=\"14\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" \/>",icon_dismiss: "<img class=\"icon dismiss_icon\" width=\"13\" height=\"13\" src=\"http:\/\/cdn.last.fm\/flatness\/clear.gif\" \/>",icon_play: "<img class=\"transparent_png play_icon\" width=\"13\" height=\"13\" alt=\"Play\" src=\"http:\/\/cdn.last.fm\/flatness\/preview\/play_indicator.png\" \/>"});
 </script>
 
-    <script src="http://cdn.last.fm/javascript/javascript/195751/components.js"></script>
-    <script src="http://cdn.last.fm/javascript/javascript/195751/dialog.js"></script>
-    <script src="http://cdn.last.fm/javascript/javascript/195751/form/typeahead.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/206141/components.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/206141/dialog.js"></script>
+    <script src="http://cdn.last.fm/javascript/javascript/206141/form/typeahead.js"></script>
 
 <script>
 
 
-LFM.Page.Tracker = new LFM.Analytics.Tracker('Legal/Privacy/', window.location.host, document);
+LFM.Page.Tracker = new LFM.Analytics.Tracker('Legal/Privacy/', window.location.host);
+
+document.observe('dom:loaded', function() {
+    
+    LFM.Page.Tracker.bindOutboundLinkListener();
+    LFM.Page.Tracker.bindEventListener();
+
+});
 
 </script>
 
 
+
+
         
+        <script src="http://cdn.last.fm/javascript/javascript/206141/lib/boomerang-min.js"></script>
+    <script>
+        BOOMR.init({
+            beacon_url: '/boomerang.php',
+            site_domain: 'www.last.fm',
+            BW: {
+                enabled: false,
+                base_url: 'http://cdn.last.fm/flatness/boomerang/images/'
+            }
+        });
+                                BOOMR.addVar({
+            anon_user: true,
+            country_code: 'us',
+            page_name: 'Legal/Privacy/'
+        });
+</script>
         
     <script>document.observe("dom:loaded", function () { if (typeof ieHover !== 'undefined') ieHover.setUp(); });</script>
     
@@ -151,11 +189,11 @@ _gaq.push(['pT._trackPageLoadTime']);
 
 
 
-<!--[if lt IE 7 ]> <body class="a-privacy lang-en ie ie6"> <![endif]-->
-<!--[if IE 7 ]>    <body class="a-privacy lang-en ie ie7"> <![endif]-->
-<!--[if IE 8 ]>    <body class="a-privacy lang-en ie ie7"> <![endif]-->
-<!--[if IE 9 ]>    <body class="a-privacy lang-en ie ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <body class="a-privacy lang-en"> <!--<![endif]-->
+<!--[if lt IE 7 ]> <body class="c-privacy  lang-en ie ie6"> <![endif]-->
+<!--[if IE 7 ]>    <body class="c-privacy  lang-en ie ie7"> <![endif]-->
+<!--[if IE 8 ]>    <body class="c-privacy  lang-en ie ie7"> <![endif]-->
+<!--[if IE 9 ]>    <body class="c-privacy  lang-en ie ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body class="c-privacy  lang-en"> <!--<![endif]-->
     
                 <div id="fauxHeaderContainer" class="clearit">
             <div id="fauxHeader"></div>
@@ -165,8 +203,7 @@ _gaq.push(['pT._trackPageLoadTime']);
             
 
 
-<div id="header" class="clearit">
-    <div id="headerWrapper">
+<div id="header" class="clearit"> <div id="headerWrapper">
         
         <a href="/" id="lastfmLogo">Last.fm</a>
         
@@ -215,17 +252,17 @@ _gaq.push(['pT._trackPageLoadTime']);
         </form>
         
         <div id="headerPromo">
-                                                                            
+                                                            
                                                 
                 
-                <a href="/festivals">Start planning your Festival season »</a>
-                        
+                <a href="/about/jobs">Come work with us! Last.fm is hiring »</a>                        
         </div>
         
     </div><!-- #headerWrapper -->
 </div><!-- #header -->
 
-<script>
+
+ <script>
     LFM.set('String', {
         'siteSearchViewAll': "Search for ‘QUERY’",
         'siteSearchSuggestions': "Popular suggestions",
@@ -235,20 +272,22 @@ _gaq.push(['pT._trackPageLoadTime']);
     LFM.Display.setupHeader();
     new LFM.Activityfeed.DeleteListener();
 </script>
+
+<div id="LastAd_beacon" class="LastAd">
+    <div align="center">
+        
+                                    
+    </div>
+</div>
     <div id="LastAd_skin" class="LastAd">
     <div align="center">
         
-        <script>document.write('<scri' + 'pt src="http://ad.doubleclick.net/adj/CBS.LASTFM.US/legal/legal/privacy;source=;established=;ontour=0;ontourinusercountry=0;referer=www.last.fm;lang=en;geo=us;mmuser=0;loggedin=0;sz=1x1;tile=3;ar=;ord=362264537?"' + '><' + '\/script>');</script><script src="http://ad.doubleclick.net/adj/CBS.LASTFM.US/legal/legal/privacy;source=;established=;ontour=0;ontourinusercountry=0;referer=www.last.fm;lang=en;geo=us;mmuser=0;loggedin=0;sz=1x1;tile=3;ar=;ord=362264537?"></script>
-        
+                    <script>document.write('<scri' + 'pt src="http://ad.doubleclick.net/adj/CBS.LASTFM.US/legal/legal/privacy;source=;established=;ontour=0;ontourinusercountry=0;lang=en;geo=us;mmuser=0;loggedin=0;sz=1x1;tile=3;ar=;ord=287650311?"' + '><' + '\/script>');</script><script src="http://ad.doubleclick.net/adj/CBS.LASTFM.US/legal/legal/privacy;source=;established=;ontour=0;ontourinusercountry=0;lang=en;geo=us;mmuser=0;loggedin=0;sz=1x1;tile=3;ar=;ord=287650311?"></script>
+                
     </div>
 </div>
     
-
-
-        
-
-
-<ul id="langSelector" style="display: none; visibility: hidden;" class="nojs">
+<ul id="langSelector" style="display: none;" class="nojs">
                 
         
                 <li class="de">
@@ -301,7 +340,7 @@ _gaq.push(['pT._trackPageLoadTime']);
                                 <img class="icon flag_tr_icon" alt="Türkçe" width="16" height="11" src="http://cdn.last.fm/flatness/clear.gif">                <span>Türkçe</span>
             </a>
         </li>
-                    <li class="cn">
+                    <li class="zh">
             <a href="http://cn.last.fm/legal/privacy?setlang=zh" class="icon">
                                 <img class="icon flag_zh_icon" alt="简体中文" width="16" height="11" src="http://cdn.last.fm/flatness/clear.gif">                <span>简体中文</span>
             </a>
@@ -322,9 +361,7 @@ _gaq.push(['pT._trackPageLoadTime']);
                     dropdown.ddbody.setStyle({
                         top: (dropdown.ddbody.getStyle("top").toPixels() + 3) + "px"
                     });
-                },
-                trackToggle: true,
-                trackItemClick: true
+                }
             }
         )
     });
@@ -509,19 +546,19 @@ _gaq.push(['pT._trackPageLoadTime']);
 
             <div id="LastAd_Footer1" class="LastAd">
     <div align="center">
-        <a target="_blank" href="http://www.last.fm/community">            <img src="http://cdn.last.fm/footerads/xx_1_1296580787.gif" title="Advertise on Last.fm" border="0" width="192" height="64">
+        <a target="_blank" href="https://market.android.com/details?id=fm.last.android.festivals">            <img src="http://cdn.last.fm/footerads/us_1_1310125351.jpg" title="" border="0" width="192" height="64">
         </a>    </div>
 </div>            <div id="LastAd_Footer2" class="LastAd">
     <div align="center">
-        <a target="_blank" href="http://lastfmdiscover.radio.com/2011/05/09/jarrod-gorbel-ten-years-older-live-at-last-fm-discover/">            <img src="http://cdn.last.fm/footerads/us_2_1305045830.gif" title="" border="0" width="192" height="64">
+        <a target="_blank" href="http://lastfmdiscover.radio.com/tag/yuck/">            <img src="http://cdn.last.fm/footerads/us_2_1321955786.gif" title="" border="0" width="192" height="64">
         </a>    </div>
 </div>            <div id="LastAd_Footer3" class="LastAd">
     <div align="center">
-        <a target="_blank" href="http://www.cbsradio.com/contests/jimmy-johns-ticket-giveaway/index_html">            <img src="http://cdn.last.fm/footerads/us_3_1300968500.gif" title="Advertise on Last.fm" border="0" width="192" height="64">
+        <a target="_blank" href="http://www.last.fm/group/Does+It+Scrobble">            <img src="http://cdn.last.fm/footerads/xx_3_1296580681.gif" title="Advertise on Last.fm" border="0" width="192" height="64">
         </a>    </div>
 </div>            <div id="LastAd_Footer4" class="LastAd last">
     <div align="center">
-        <a target="_blank" href="http://lastfmdiscover.radio.com/2011/03/28/lelia-broussard-satellite/">            <img src="http://cdn.last.fm/footerads/us_4_1301481765.gif" title="" border="0" width="192" height="64">
+        <a target="_blank" href="http://lastfmdiscover.radio.com/tag/daniela-brooker/">            <img src="http://cdn.last.fm/footerads/us_4_1322587088.gif" title="" border="0" width="192" height="64">
         </a>    </div>
 </div>            
         </div><!-- .footer_ad_wrapper -->
@@ -588,7 +625,7 @@ _gaq.push(['pT._trackPageLoadTime']);
         </ul><!-- #footerLinks -->
         
         <div id="justCantGetEnough" class="clearit">
-            <blockquote>“Men Can't Help Acting On Last.fm.”</blockquote>
+            <blockquote>“Mild Green Last.fm Liquid.”</blockquote>
             <p>
                 <strong>More Last.fm Sites:</strong>
                 <a href="http://blog.last.fm/">Blog</a>
@@ -663,14 +700,11 @@ document.write(unescape("%3Cscript src='" + (document.location.protocol == "http
 </noscript>
 
 
+
+
+
 <div id="siteSearchAutocomplete" class="autocomplete" style="display: none;"></div>
 
-<div id="LastAd_footerbeacon" class="LastAd">
-    <div align="center">
-        
-                
-    </div>
-</div>
 <script>
 // Search autocomplete
 new LFM.Ajax.SideGroupedMulticompleter('siteSearchBox', 'siteSearchAutocomplete', '/search/autocomplete', {
