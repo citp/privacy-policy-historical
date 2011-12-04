@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625023026id_/http%3A//www.vitamintalent.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitamintalent.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204181926id_/http%3A//vitamintalent.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
-# Vitamin T : Privacy Policy
+# Privacy Policy : Vitamin T
 
-**Please read this Privacy Policy carefully. When you submit your Personal Data to Vitamin T via and by using the Websites and Vitamin T services, you are giving your consent to the use of your Personal Data in the manner described in this Privacy Policy and to the transfer of Personal Data outside the European Economic Area (“EEA”) to a country or territory whose laws may not provide adequate levels of protection to Personal Data.**
+**Please read this Privacy Policy carefully. When you submit your Personal Data to Vitamin T, a division of Aquent LLC, via and by using the Websites and Vitamin T services, you are giving your consent to the use of your Personal Data in the manner described in this Privacy Policy and to the transfer of Personal Data outside the European Economic Area (“EEA”) to a country or territory whose laws may not provide adequate levels of protection to Personal Data.**
 
 Vitamin T is committed to safeguarding the privacy of its employees, applicants, clients, and users of its website. Vitamin T adheres to the Safe Harbor Agreement concerning the transfer of Personal Data from the European Union (“EU”) to the United States of America. Accordingly, Vitamin T follows the Safe Harbor Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. This Policy outlines our general policy and practices for implementing the Principles. 
 
@@ -19,8 +19,6 @@ Vitamin T collects and uses Personal Data to provide services for its employees,
 The Vitamin T website acts as a venue for 1) individuals currently working with Vitamin T to interact with Vitamin T’s database and enter timecards, create and manage their Vitamin T profiles, check benefits information, view schedules and assignment information, and process other information; 2) Vitamin T to process orders, send newsletters, perform customer service, and qualify applicants for possible employment; 3) Vitamin T’s clients to search portfolios, run financial reports, and sign timecards; and, 4) members of the public to receive marketing information, submit inquiries, and generally learn about Vitamin T.
 
 Vitamin T may provide links to the websites of a limited number of third parties. This Privacy Policy applies to the Vitamin T website, not to third party websites. Vitamin T is not responsible for the content, reliability, security, or privacy practices of these third party websites
-
-### Principles
 
 ### Notice
 
@@ -52,7 +50,7 @@ In disclosing Personal Data in any of the circumstances described above, Vitamin
 
 When hiring employees Vitamin T must collect and transfer Personal Data in order to comply with statutes, rules and regulations pertaining to employment. It is necessary for Vitamin T to collect, store and in some cases transfer personal data to third parties such as payroll service companies, health insurance organizations or government agencies as required by law. Any such transfers will be solely for the purposes of fulfilling Vitamin T’s obligations to its employees, such as payroll and insurance. Concerned individuals may withhold consent to such transfers and will be informed of the impact such opt-out will have on their employment within Vitamin T (ex. inability to process benefits or payroll data in a timely or appropriate fashion).
 
-Individuals may “opt out” of having their Personal Data used in Vitamin T promotions by emailing [unsubscribe@vitamintalent.com](mailto:unsubscribe@vitamintalent.com).
+Individuals may “opt out” of having their Personal Data used in Vitamin T promotions by clicking [here](http://forms.aquent.com/manage/subscription/unsubscribe).
 
 ### Data Integrity
 
@@ -74,4 +72,4 @@ This Privacy Policy may be amended from time to time consistent with the require
 
 Questions or concerns regarding this Privacy Policy can be directed to the Site Coordinator by e-mail at [privacy@vitamintalent.com](mailto:privacy@vitamintalent.com).
 
-Effective Date: 2 May 2011
+Effective Date: 18 July 2011
