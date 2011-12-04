@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cosplay.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521091553id_/http%3A//www.cosplay.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosplay.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204211924id_/http%3A//www.cosplay.com/info/privacy) for the most accurate reproduction.*
 
 # Cosplay.com -
 
-**Updated March 1, 2009**
+**Updated August 10, 2011**
 
 **Our Commitment To Privacy**
 
@@ -34,6 +34,10 @@ We may share your personally identifying information if you specifically allow u
 We will disclose personal information when required by law, or if we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on us, protect and defend our rights, or protect the rights, property, and other interests of our users or others.
 
 In the event Cosplay.com becomes part of another organization either through acquisition, sale of assets or merger, your user information and all personally identifying information may be transferred the successor entity, and your information would remain subject to the pre-existing privacy policy.
+
+**Third Party Advertisers**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 **Publicly Posted Information**
 
