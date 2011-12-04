@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aromatools.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605155157id_/http%3A//www.aromatools.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aromatools.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204063417id_/http%3A//www.aromatools.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -33,19 +33,19 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Firefox, Google Chrome or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
  **Do we disclose the information we collect to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Abundant Health LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include AromaTools. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
  **How can you opt-out, remove or modify information you have provided to us?**
 
-To modify your e-mail subscriptions, please let us know by emailing us at [webmaster@abundant-health4u.com](mailto:webmaster@abundant-health4u.com). Please note that due to email production schedules you may receive any emails already in production.
+To modify your e-mail subscriptions, please let us know by emailing us at [service@aromatools.com](mailto:service@aromatools.com). Please note that due to email production schedules you may receive any emails already in production.
 
-To delete all of your online account information from our database, please either call us at 1-888-718-3068, or email us at [webmaster@abundant-health4u.com](mailto:webmaster@abundant-health4u.com). 
+To delete all of your online account information from our database, please either call us at 1-866-728-0070, or email us at [service@aromatools.com](mailto:service@aromatools.com). 
 
 **Third party links**
 
@@ -53,7 +53,7 @@ In an attempt to provide you with increased value, we may include third party li
 
  **Changes to our policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on November 23, 2005.**
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on November 9,2011.**
 
  **Questions and feedback**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20110605155157id_/http%3A//www.aromatools.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20111204063417id_/http%3A//www.aromatools.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
