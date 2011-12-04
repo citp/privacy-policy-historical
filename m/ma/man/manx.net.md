@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manx.net privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621002523id_/http%3A//www.manxtelecom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manx.net privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204092521id_/http%3A//www.manxtelecom.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy :: Manx Telecom
 
 Manx Telecom will not pass your personal details to anyone outside of Manx Telecom. Any information given by Manx Telecom to companies felt by Manx Telecom to be reputable will only be "aggregated" statistics. This means that none of the data includes information that would enable you or any other individual to be identified.
 
