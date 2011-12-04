@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624111503id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204125653id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # ACUVUE® Brand Privacy Policy | ACUVUE® Brand
 
-[Safe Harbor Privacy Policy](https://web.archive.org/web/20110624111503id_/http%3A//www.acuvue.com/safe_harbor.htm "Safe Harbor Privacy Policy")
+[Safe Harbor Privacy Policy](https://web.archive.org/web/20111204125653id_/http%3A//www.acuvue.com/safe_harbor.htm "Safe Harbor Privacy Policy")
 
 v 6.0
 
@@ -79,7 +79,7 @@ This site may contain links or references to other Web sites. Please be aware th
 
 #### Other Terms
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20110624111503id_/http%3A//www.acuvue.com/legal_notice.htm "Legal Notice").
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20111204125653id_/http%3A//www.acuvue.com/legal_notice.htm "Legal Notice").
 
 #### How to Contact Us
 
