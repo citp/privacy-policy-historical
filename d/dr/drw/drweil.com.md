@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drweil.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623031102id_/http%3A//www.drweil.com/drw/u/id/PAG00003) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drweil.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204102642id_/http%3A//www.drweil.com/drw/u/id/PAG00003) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ The TRUSTe certification covers the following Websites:[www.drweilonhealthyaging
 
 Weil Lifestyle, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
-If you have any questions or concerns regarding this statement, you should first contact [Webmaster@DrWeil.com](mailto:Webmaster@DrWeil.com) . You can also contact us via regular mail at: Weil Lifestyle, LLC, 3104 East Camelback Road, #758, Phoenix, Arizona 85016.
+If you have any questions or concerns regarding this statement, you should first contact [Webmaster@DrWeil.com](mailto:Webmaster@DrWeil.com). You can also contact us via regular mail at: Weil Lifestyle, LLC, 3104 East Camelback Road, #758, Phoenix, Arizona 85016.
 
 If you are not satisfied with our response you can contact TRUSTe here.
 
@@ -33,8 +33,7 @@ If you are not satisfied with our response you can contact TRUSTe here.
 
 7.  How you can correct any inaccuracies in the information.
 
- **  
-Information Collection and Use  
+ **Information Collection and Use  
 ** The Weil Lifestyle, LLC, Websites  (including www.drweil.com, www.drweilonhealthyaging.com, www.drweilvitaminadvisor.com, www.drweilproducts.com, www.drweilblog.com and www.weiljuvenon.com) collectively the “Websites” collect information from our users at several different points on our Websites. When you use any of the Websites, some basic, general information is collected. This general information is used internally in connection with our business to improve the Websites, including our marketing and advertising efforts, and to make your use of the Websites as enjoyable and efficient as possible.
 
  **Information Voluntarily Provided by You  
