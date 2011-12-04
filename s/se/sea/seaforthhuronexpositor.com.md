@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seaforthhuronexpositor.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613154201id_/http%3A//www.seaforthhuronexpositor.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seaforthhuronexpositor.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204052425id_/http%3A//www.seaforthhuronexpositor.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -105,6 +105,3 @@ Any rights not expressly granted herein are reserved.
 * * *
 
 COPYRIGHT NOTICE.© 1999-2011 [PriorityDigital.com](http://209.204.219.152/) Prepared for: www.seaforthhuronexpositor.com ,All rights reserved. 
-
-  
-
