@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blubrry.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513203217id_/http%3A//www.blubrry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blubrry.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204132911id_/http%3A//www.blubrry.com/privacy) for the most accurate reproduction.*
 
-# Blubrry - Privacy Statement
+# Privacy Statement - Blubrry
 
 **Privacy**  
 At Blubrry.com, we are committed to protecting your privacy. We use the limited amount of information collected about you to enable the functionality of the Blubrry website. These functions include letting you log in, design a MyCast feed and keeping you notified of news and changes to Blubrry. We internally use personally identifiable information about you to improve our service, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content and layout. We believe this use allows us to improve our site and better tailor it to meet our users' needs.  
