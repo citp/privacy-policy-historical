@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlacode.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204092009id_/http%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlacode.org privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204190459id_/http%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,7 +39,7 @@ Cookies are used to store visitors' preferences and record past activity at a si
 
   * Should you choose to edit or create wiki pages at docs.joomla.org your identity is recorded and your username is viewable by those who look at the history of the pages you have worked on. Your IP address may be used to identify possible abuse and may be blocked if abuse is detected. On docs.joomla.org you can choose to allow other users to send you email.  This feature can be disabled in your user profile.  Wiki administrators may still use your email address to contact you if necessary.  Your email address is not revealed when sending or receiving messages in this way. 
 
-  * On joomlacode.org, we use aggregate IP information to help us understand the geographic distribution of those downloading Joomla! and other packages. Users who are logged in to Joomlacode.org who take specific actions such as submitting an issue to a tracker or downloading a release package have their identities recorded as part of the operation of Gforge. If you submit an issue to the tracker your name, email address and any information you have provided in the "My Account" page is publicly viewable.This is part of theGforge application that we cannot modify. We suggest that you only fill in the required name and email fields.  Your email address will be used to inform you of progress on the issue you submitted. 
+  * On joomlacode.org, we use aggregate IP information to help us understand the geographic distribution of those downloading Joomla! and other packages. Users who are logged in to Joomlacode.org who take specific actions such as submitting an issue to a tracker or downloading a release package have their identities recorded as part of the operation of Gforge. When you register as a user on joomlacode.org or submit an issue to the tracker, your name, email address and any information you have provided during registration, and in the "My Account" page, is publicly viewable. This is part of theGforge application that we cannot modify. We suggest that you only fill in the required name and email fields.  Your email address will be used to inform you of progress on the issue you submitted. 
 
   * On any of the sites with commenting features your name, email address, and IP address will be recorded when you make a comment. This information will not be published or shared with any third parties. 
 
@@ -64,4 +64,4 @@ From time to time, we may use user information for new, unanticipated uses not p
 
 ##  Questions or comments 
 
-If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at [privacy@opensourcematters.org](mailto:privacy@opensourcematters.org). 
+If you have questions or comments about this policy or if you feel that this site is not following its stated information policy please contact us at privacy@opensourcematters.org. 
