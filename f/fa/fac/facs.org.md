@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the facs.org privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217031028id_/http%3A//www.facs.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facs.org privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204145118id_/http%3A//www.facs.org/privacy.html) for the most accurate reproduction.*
 
 # American College of Surgeons: Privacy Policy
-
-  
-
-
-### American College of Surgeon's Privacy Policy
 
 The American College of Surgeons ("ACS") is committed to protecting the privacy and security of each and every user of our Web site and interactive educational products. Please take a moment to carefully read and understand our Privacy Policy. If you have any questions or comments regarding this Policy, we invite you to contact ACS using the contact information below.
 
@@ -47,14 +42,7 @@ Privacy Policy Coordinator
 633 North Saint Clair Street  
 Chicago, Illinois 60611-3211  
 Tel: 312.202.5000  
-E-Mail: [_postmaster@facs.org_](mailto:postmaster@facs.org)  
+E-mail: [postmaster@facs.org](mailto:postmaster@facs.org)  
 
 
-The ACS Privacy Policy was effective as of April 8, 2005. This page was last updated April 29, 2005.
-
-Revised March 2, 2010
-
-* * *
-
-##### This page and all contents are Copyright © 2005-2010  
-by the American College of Surgeons, Chicago, IL 60611-3211
+The ACS Privacy Policy was effective as of April 8, 2005. This page was last updated April 29, 2005. 
