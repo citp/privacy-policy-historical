@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beyondretro.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606041114id_/http%3A//www.beyondretro.com/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondretro.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204170938id_/http%3A//www.beyondretro.com/help/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Vintage Clothing | Beyond Retro
 
 The purpose of this statement is to tell you what Personal Information we collect about you during your visit to this Website and what we do with that information. Your visit to www.beyondretro.com and the sale of our goods to you via www.beyondretro.com are subject to this Privacy Policy and our Terms and Conditions.
 
