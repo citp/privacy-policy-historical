@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226094320id_/http%3A//www.fxcm.co.uk/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcm.co.uk privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204215656id_/http%3A//www.fxcm.co.uk/privacy-policy.jsp) for the most accurate reproduction.*
 
 # FXCM
 
-**Forex Capital Markets ("FXCM") respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients.**
+**Forex Capital Markets ("FXCM") respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients, current clients, and applicants.**
 
 Under the terms of the Data Protection Act, you are entitled to a copy of the personal data held by us on payment of a fee to cover the cost of locating, retrieving, reviewing and copying any material requested.
 
@@ -10,7 +10,7 @@ Under the terms of the Data Protection Act, you are entitled to a copy of the pe
 
 When you apply for or maintain a live account with FXCM, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. Such information may include:
 
-  * Application information: Information you provide to us on applications and other forms, such as your name, address, birth date, Social Security number, occupation, assets, and income
+  * Application information: Information you provide to us on applications and other forms, such as your name, address, birth date, Government Issued Identification , occupation, assets, and income
   * Transaction information: Information about your transactions with us and with our affiliates as well as information about our communications with you. Examples include your account balances, trading activity, your inquiries, and our responses;
   * Verification information: Information necessary to verify your identity, such as a passport or driving licence. Examples also include background information about you we receive from public records or from other entities not affiliated with FXCM. UK Money Laundering Regulations require us to collect information and take actions necessary to verify your identity.
 
