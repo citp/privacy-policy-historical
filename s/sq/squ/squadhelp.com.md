@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squadhelp.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206113516id_/http%3A//www.squadhelp.com/AboutUs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squadhelp.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204084623id_/http%3A//www.squadhelp.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Branding, Marketing, Naming Consultants, Freelancers and Contests
 
