@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hootsuite.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519134625id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hootsuite.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204063159id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
 
-# HootSuite - Social Media Dashboard for Teams using Twitter, Facebook, Linkedin
+# Privacy Policy – HootSuite Social Media Dashboard
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -40,4 +40,4 @@ HootSuite Media Inc. may periodically update this policy. We will notify you abo
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to support at [HootSuite.com](https://hootsuite.com/) or by mail at: HootSuite Media Inc., 37 Dunlevy Ave., Vancouver, BC, Canada V6A 3A3
+Any questions about this Privacy Policy should be addressed to support at [HootSuite.com](http://hootsuite.com/) or by mail at: HootSuite Media Inc., 37 Dunlevy Ave., Vancouver, BC, Canada V6A 3A3
