@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getpakistan.tv privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318121130id_/http%3A//getkarachionline.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpakistan.tv privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204090340id_/http%3A//www.getpakistan.tv/privacypolicy.php) for the most accurate reproduction.*
 
-# Online Privacy Policy listing Info by get getkarachionline.com
+# get Phili Online- Privacy Policy
 
 We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. By visiting our website, you are accepting the practices described herein. 
 
