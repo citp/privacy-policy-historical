@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nisbets.co.uk privacy policy that was archived on 2010-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100212170235id_/http%3A//www.nisbets.co.uk/content/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nisbets.co.uk privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204045022id_/http%3A//www.nisbets.co.uk/content/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Nisbets Next Day Catering Equipment
 
-Andrew Nisbet & Co Ltd trading as Nisbets is committed to ensuring that your privacy is protected. This policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. 
+Nisbets Plc is committed to ensuring that your privacy is protected. This policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. 
 
 ## 1\. The information we collect and how we use it
 
@@ -32,3 +32,16 @@ By submitting your information you consent to the use of that information as set
 ## 7\. How to contact Nisbets Ltd.
 
 We welcome your views about our website and our Privacy Policy. If you would like to contact us with any queries or comments please send an e-mail to [sales@nisbets.co.uk](mailto:sales@nisbets.co.uk)
+
+## Disclaimer - use of this website:
+
+**Accuracy of information**  
+The Company uses its best endeavours to ensure that the information contained on its website and publications is accurate and not misleading. Accordingly The Company reserves the right, without obligation, to amend or delete product information without notice.   
+**Passwords**  
+On registration The Customer will be required to submit a password which is needed to access their account. The Customer will be responsible for the security of this password and The Company advises that The Customer does not disclose it to third parties and that The Customer changes it on a regular basis. The Company will not be liable for any loss resulting from the misuse of The Customer's password.   
+**Customer use**  
+The information provided on this website is intended to be used only by The Customer. The Company does not authorise the use of such information for any purpose other than The Customer's use as immediate consumer, and prohibits to the maximum extent allowable the resale, redistribution, and use of this information for commercial purposes.   
+**Copyright**  
+All website design, text, graphics, the selection and arrangement thereof, and all software compilations, underlying source code, software (including applets) and all other materials on this site are the property of The Company. All rights are reserved.   
+**Trademarks**  
+The Company owns the trademark and "Nisbets" logo. Other product and company names mentioned on this website are or may be the trademarks or registered or unregistered trademarks of their respective owners.
