@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisistrue.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521202719id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisistrue.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204045302id_/http%3A//www.thisistrue.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Statement: Randy Cassingham's Weird News
 
@@ -22,5 +22,5 @@ Google is one of these third-party vendors, and they use cookies to serve ads he
 
 If you don't want to have this DART cookie on your computer, you can [opt out](http://www.google.com/privacy_ads.html). We feel you'll be making a mistake by doing that, as you'll then see ads for random goods or services that won't be of much use to you.
 
-**Note Regarding Online Credit Card Security:** We use industry-standard SSL security on all our online order forms. Any data entered by customers, including credit card numbers, are processed immediately _and are not kept_ on file by us for _any_ length of time. We are _quite_ serious about the security of your data, and use the best methods available to us. We simply use what _we_ expect from the online merchants we buy things from.  
+**Note Regarding Online Credit Card Security:** We use industry-standard SSL security on all our online order forms. Any credit card data entered by customers, including account numbers, are processed immediately _and are not kept_ on file by us for _any_ length of time. We are _quite_ serious about the security of your data, and use the best methods available to us. We simply use what _we_ expect from the online merchants we buy things from.  
 
