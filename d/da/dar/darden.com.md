@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the darden.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230071207id_/http%3A//darden.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darden.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204104404id_/http%3A//www.darden.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# Darden Restaurants - Privacy Policy
+# Privacy Policy - Darden Restaurants
 
 Darden Restaurants respects the privacy of every individual who visits our website. We do not sell or rent your personal information to third parties for marketing purposes. Please read this Privacy Policy carefully to learn more about the ways in which we use and protect your personal information. **By visiting our website, you are accepting the practices described in this Privacy Policy.**
 
 **If you visit our website:**  
 In general, you can visit our website without telling us who you are or revealing any personally identifiable information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors.
 
-In some cases, we may collect information about you that is not personally identifiable. This information is collected using a “cookie” that enables us to learn which advertisements bring users to our website. Cookies are small files placed on your hard drive that allow us to collect that information. Darden Restaurants, along with our ad management partner uses this information to help us manage online advertising. None of the information collected by a cookie is personally identifiable, i.e., does not contain your name, address or e-mail address.
+In some cases, we may collect information about you that is not personally identifiable. This information is collected using a “cookie” that enables us to learn which advertisements bring users to our website. Cookies are small files placed on your hard drive that allow us to collect that information. Darden Restaurants, along with our ad management partner, uses this information to help us manage online advertising. None of the information collected by a cookie is personally identifiable, i.e., does not contain your name, address or e-mail address. 
 
 Darden Restaurants also utilizes a third party to track and analyze usage and volume statistical information from our website customers in order to constantly improve the quality of our website. No data collected by a third party on behalf of Darden Restaurants may be owned or used by such third party. Darden Restaurants reserves the right to publish nonpersonally identifiable, summary information regarding its website customers for promotional purposes and as a representative audience for advertisers.
 
@@ -31,5 +31,5 @@ Darden Restaurants has no intention of collecting any personally identifiable in
 Darden Restaurants may, at any time, amend the provisions in this Privacy Policy. Changes to this policy will be reflected by the “Effective Date” as displayed in the upper left hand corner of this policy.  
 **How to Contact Us**  
 If you have questions or concerns regarding our Privacy Policy or use of your information, please contact us at: [dardeninfo@darden.com](mailto:dardeninfo@darden.com) or by mail at  
-P.O. Box 593330  
-Orlando, FL 32859-3330 
+P.O. Box 695019  
+Orlando, FL 32869-5019
