@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531031024id_/http%3A//www.newstimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204042925id_/http%3A//www.newstimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsTimes
 
@@ -150,7 +150,11 @@ By signing up for the SMS Service, you consent to receive, from time to time, fu
 
 When you are on our Web Sites you may have the opportunity to visit, or link to, other web sites not operated by the Newspaper, including other web sites operated by our affiliates, by service vendors, or by unaffiliated third parties. These web sites may collect personal information about you. The Newspaper does not control web sites that are operated by these entities and is not responsible for the information practices of these web sites. This Privacy Policy does not address the information practices of those other web sites. The privacy policies of web sites operated by other affiliates of the Newspaper are located on those web sites.
 
-**K. Miscellaneous**
+**K. News Registry**
+
+We participate in the News Registry, a service operated by the News Licensing Group, LLC (NLG). The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the NLG News Registry. Please refer to the NLG News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
+
+**L. Miscellaneous**
 
 **(i) Consent to Processing**
 
