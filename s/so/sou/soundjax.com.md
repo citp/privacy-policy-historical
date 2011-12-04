@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soundjax.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202003503id_/http%3A//soundjax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundjax.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204160736id_/http%3A//soundjax.com/privacy.html) for the most accurate reproduction.*
 
-# SoundJax.com | Sound Search Engine
+# Sound Search Engine | SoundJax.com
 
 Privacy Policy for soundjax.com 
 
