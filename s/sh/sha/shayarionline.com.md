@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the shayarionline.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230192939id_/http%3A//www.shayarionline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shayarionline.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204145040id_/http%3A//www.shayarionline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for ShayariOnline.com | Urdu Shayari,Urdu SMS,Hindi Shayari,Hindi SMS,Urdu Sher,Shaeri SMS,Sad Shayari,Love Hindi Shayari,Romantic Poetry SMS,Urdu Ghazals,ShairoShayari SMS
 
 ## Privacy Policy
+
+Advetisement  
+
 
 **Privacy Policy** for ShayariOnline.com
 
@@ -28,3 +31,27 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+Advetisement  
+
+
+#### Incoming search terms:
+
+  * [Hindi Non Vegas sms](http://www.shayarionline.com/search/hindi-non-vegas-sms/ "Hindi Non Vegas sms")
+  * [personal shayari](http://www.shayarionline.com/search/personal-shayari/ "personal shayari")
+  * [Cookies mean urdu](http://www.shayarionline.com/search/cookies-mean-urdu/ "Cookies mean urdu")
+  * [urdu shayari contact number](http://www.shayarionline.com/search/urdu-shayari-contact-number/ "urdu shayari contact number")
+  * [shayarionline forum](http://www.shayarionline.com/search/shayarionline-forum/ "shayarionline forum")
+  * [shayari of phone no](http://www.shayarionline.com/search/shayari-of-phone-no/ "shayari of phone no")
+  * [Shayari bank com](http://www.shayarionline.com/search/shayari-bank-com/ "Shayari bank com")
+  * [phoon numbr shariy](http://www.shayarionline.com/search/phoon-numbr-shariy/ "phoon numbr shariy")
+  * [phone number in shayari](http://www.shayarionline.com/search/phone-number-in-shayari/ "phone number in shayari")
+  * [phone no shayari](http://www.shayarionline.com/search/phone-no-shayari/ "phone no shayari")
+  * [phne no shayari](http://www.shayarionline.com/search/phne-no-shayari/ "phne no shayari")
+  * [non Vegas sms Hindi](http://www.shayarionline.com/search/non-vegas-sms-hindi/ "non Vegas sms Hindi")
+  * [non vages sms](http://www.shayarionline.com/search/non-vages-sms/ "non vages sms")
+  * [hotel advertisements in urdu](http://www.shayarionline.com/search/hotel-advertisements-in-urdu/ "hotel advertisements in urdu")
+  * [hindi peronal card shayari](http://www.shayarionline.com/search/hindi-peronal-card-shayari/ "hindi peronal card shayari")
+  * [Www google shyari com](http://www.shayarionline.com/search/www-google-shyari-com/ "Www google shyari com")
+
+
