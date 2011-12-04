@@ -1,0 +1,948 @@
+<!--The following is the downloaded HTML source of the catholichealth.net privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204044049id_/http%3A//www.catholichealth.net/body.cfm%3Fid%3D39479) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<title>Website Privacy Policy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<style type="text/css">
+		@import url(default.css);
+	</style>
+	
+	
+				
+<script type="text/javascript">
+//<!--
+var ns4 = (document.layers);
+var ie  = (document.all);
+var ie4 = (ie && !document.getElementById);
+var ie5 = (ie && document.getElementById);
+var ns6 = (!ie && document.getElementById);
+
+var aryMoused = new Array();
+var aryLayerMoused = new Array();
+var aryMoImages = new Array();
+var imageList = new Array();
+var runMouseOvers = true;
+var TimerID = null;
+var iLimit = 25;
+var itmp = 0;
+
+var nbTime = 100;
+var nbTimes = 2;
+var nbThisLoc = 325;
+var aryLayerNames = new Array();
+var aryNavBarLayerInfo = new Array();
+var aryNavBarLayers = new Array();
+
+var registeredObjects = new Array();
+var viz = "hide";
+
+function MOImage() {
+	var arg = MOImage.arguments;
+	this.ptrImage = BillzNavBarMM_findObj(arg[0]);
+	this.imageMO = new Image();
+	this.imageMO.src = arg[1];
+	this.HTMLname = arg[0];
+	this.Moused = false;
+	this.OriginalSrc = '';
+	return true;
+}
+
+function BillzImagePreload() {
+	// 0) html image name 1) mo image src 2)image Name for rollover key (rollover may have multiple mos for one html Image) 
+	var arg = BillzImagePreload.arguments;
+	nbImagePreload(arg[0], arg[1], arg[2]);
+}
+
+function nbImagePreload(img_name, mo_img_src, rollover_key_img_name) {
+	var imageKey = (rollover_key_img_name.length > 0) ? rollover_key_img_name : img_name;
+	imageList[imageList.length] = imageKey;
+	if (!(aryMoImages[imageKey])) aryMoImages[imageKey] = new MOImage(img_name, mo_img_src);
+}
+
+function BillzMouseover() {
+	var arg = null;
+	if (runMouseOvers) {		
+		arg = BillzMouseover.arguments; //args 0)ImageName 1)OriginalSrc 2)array index (caller imagename)		
+		nbMouseover(arg[0], arg[1], arg[2]);
+	}
+	return true;
+}
+// args 1) ImageName 2) OriginalSrc 3) array index (caller imagename)
+function nbMouseover(img_name, orig_src, img_key) {
+	var imageKey = null;
+	var o = null;
+	if (runMouseOvers) 
+	{				
+		imageKey = (img_key.length > 0) ? img_key : img_name;
+		if (!(aryMoImages[imageKey].ptrImage)) aryMoImages[imageKey].ptrImage = BillzNavBarMM_findObj(img_name);		
+		if (aryMoImages[imageKey] && (o = aryMoImages[imageKey].ptrImage)) {
+			aryMoImages[imageKey].OriginalSrc = orig_src;
+			aryMoImages[imageKey].Moused = true;
+			o.src = aryMoImages[imageKey].imageMO.src;
+		}
+	}
+	return true;
+}
+
+function navbarMouseover(bar,linkId,row){
+	var ListElement = document.getElementById('Link1_' + bar);
+	var ItemElement = document.getElementById('Link2_' + bar + '_' + linkId);
+	var LinkElement = document.getElementById('Link3_' + bar + '_' + linkId);
+	var theClass = ' hover';	
+	if(ListElement){
+		ListElement.className = ListElement.className + theClass;
+	}
+	if(ItemElement){
+		ItemElement.className = ItemElement.className + theClass;
+	}
+	if(LinkElement){
+		LinkElement.className = LinkElement.className + theClass;
+	}
+}
+function navbarMouseout(bar,linkId,row){
+	var ListElement = document.getElementById('Link1_' + bar + '_' + row);
+	var ItemElement = document.getElementById('Link2_' + bar + '_' + linkId);
+	var LinkElement = document.getElementById('Link3_' + bar + '_' + linkId);
+	var theClass = ' hover';	
+	if(ListElement){
+		ListElement.className = ListElement.className.replace(theClass,"");		
+	}
+	if(ItemElement){
+		ItemElement.className = ItemElement.className.replace(theClass,"");
+	}
+	if(LinkElement){
+		LinkElement.className = LinkElement.className.replace(theClass,"");
+	}
+}
+
+var NavBarTempOnload = null;
+if (window.onload && window.onload != null) NavBarTempOnload = window.onload;
+
+function FullyLoaded() {
+	if (NavBarTempOnload != null) NavBarTempOnload();
+	runMouseOvers = true;
+	return true;
+}
+
+function BillzMouseOutTimer() {
+	return nbMouseOutTimer();
+}
+
+function nbMouseOutTimer() {
+	if (TimerID) clearTimeout(TimerID);
+	TimerID = setTimeout("nbLayerRestore()",5000);
+	return true;
+}
+
+function RestoreAll() {
+	nbMouseoverRestore();
+	nbLayerRestore();
+	return true;
+}
+
+function BillzMouseoverRestore() {
+	return nbMouseoverRestore();
+}
+
+function nbMouseoverRestore() {
+	var i = 0;
+	var o = null;
+	if (runMouseOvers) {
+		for (i = 0; i < imageList.length; i++) {
+			if (aryMoImages[imageList[i]].Moused && (o = aryMoImages[imageList[i]].ptrImage)) {
+				o.src = aryMoImages[imageList[i]].OriginalSrc;
+				aryMoImages[imageList[i]].Moused = false;
+			}
+		}
+	}
+	return true;
+}
+
+function BillzLayerRestore() {
+	return nbLayerRestore();
+}
+
+function nbLayerRestore() {
+	var i = 0;
+	for (i = 0; i < aryLayerNames.length; i++) {
+		if (!aryNavBarLayerInfo[aryLayerNames[i]].isDefault) BillzNavBarRestoreLayers(aryLayerNames[i]);	
+	}
+	return true;
+}
+
+function BillzArrayPushUnique(aryArray, varNewElement) { //only pushes if unique value
+	var pushIt = true;
+	var i = 0;
+	for (i = 0; i < aryArray.length && pushIt; i++) {
+		pushIt = (varNewElement != aryArray[i]);
+	}
+	if (pushIt) BillzArrayPush(aryArray, varNewElement);
+	return pushIt;
+}
+
+function BillzArrayPush(aryArray, varNewElement) { //Implement Array Push 'cause IE cant handle it
+	aryArray[aryArray.length] = varNewElement;
+	return true;
+}
+function BillzArrayPop(aryArray) { //Implement Array Pop 'cause IE cant handle it before 5.5
+	var varItemToPop = null;
+	if (aryArray[aryArray.length - 1]) {
+		varItemToPop = aryArray[aryArray.length - 1];
+		aryArray[aryArray.length] = null;
+	}
+	return varItemToPop;
+}
+
+function getDivRef(id) {
+	var divref;
+	if(ns4) divref = document.layers[id];
+	else if(ie4) divref = document.all[id];
+	else if(ie5 || ns6) divref = document.getElementById(id);	
+	return divref;
+}
+
+//v3.0 name changed to avoid clash with possible other JS in content, this function complements of MM Dreamweaver
+function NavBarSwapRollover(swapimage,defaultimage,imageID) {
+	if(imageID.length > 0 && document.getElementById(imageID))
+	{
+		if(swapimage.length > 0) 
+			document.getElementById(imageID).src = "images/" + swapimage;
+		else
+			document.getElementById(imageID).src = "images/" + defaultimage;		
+	}
+}
+function BillzNavBarMM_findObj(n, d) {
+	var p,i,x;
+	if (ns6) x = document.getElementById(n);
+	else {		
+		if (registeredObjects[n]) return registeredObjects[n];
+		if (!(d)) d = document;
+		try {
+			p = n.indexOf("?");
+		}
+		catch(e) {
+			p = 0;
+		}
+		if (p > 0 && parent.frames.length) {
+			d = parent.frames[n.substring(p+1)].document;
+			n = n.substring(0,p);
+		}
+		if (!(x = d[n]) && d.all) x = d.all[n];	
+		for (i = 0; !x && i < d.forms.length; i++) {
+			x = d.forms[i][n];
+		}
+		for (i=0; !x && d.layers && i < d.layers.length; i++) {
+			if (d.layers[i].id.indexOf("external_") == -1) x = BillzNavBarMM_findObj(n, d.layers[i].document);	
+		}
+		registeredObjects[n] = x;
+	}				
+	return x;
+}
+
+function BillzArrayContains() {
+	var arg = BillzArrayContains.arguments;
+	var foundit = false;
+	var i = 0;
+	for (i = 0; i < arg[0].length && !foundit; i++) {
+		foundit = (arg[1] == arg[0][i]);
+	}
+	return foundit;
+}
+
+function NavBarRegisterLayer() {
+	var arg = NavBarRegisterLayer.arguments;
+	var n = arg[0];
+	var d = arg[1];
+	var mo = false;
+	var o = null;
+	if (arg[2] && arg[2] == 'MOutLayer') mo = true;
+	else mo = false;
+	
+	if (!(BillzArrayContains(aryLayerNames, n))) {
+		if (o = BillzNavBarMM_findObj(n)) {
+			aryNavBarLayers[n] = o;
+			BillzArrayPushUnique(aryLayerNames, n);
+			aryNavBarLayerInfo[n] = new NavBarLayer(n, d, mo);
+		}
+	}
+	return true;
+}
+
+function BillzNavBarMM_showHideLayers() {
+	//v3.0 name changed, this function complements of MM Dreamweaver with customizations by Bill Heller
+	var i = 0;
+	var x = "";
+	var obj = null;
+	var v = null;
+	var p = null;
+	var args = BillzNavBarMM_showHideLayers.arguments;
+	
+	if (args[args.length - 1] != "menu") nbMouseOutTimer();
+	for (i = 0; i < (args.length - 2); i += 3) {
+		if (!aryNavBarLayers[args[i]]) {
+			x = (args[i + 2] == 'show') ? 'hide' : 'show';
+			NavBarRegisterLayer(args[i], x);
+		}
+		if ((obj = aryNavBarLayers[args[i]]) != null) {
+			v = args[i + 2];
+			aryNavBarLayerInfo[args[i]].isDefault = false;
+			if (args[args.length - 1] == "restore") v = (v == 'show') ? 'hide' : 'show';
+			
+			if (obj.style) obj.style.visibility = (v == 'show') ? 'visible' : ((v == 'hide') ? 'hidden' : v);
+			else obj.visibility = v;
+		}
+	}
+	return true;
+}
+
+function BillzNavBarRestoreLayers() {
+	var i = 0;
+	var x = "";
+	var obj = null;
+	var v = null;
+	var p = null;
+	var args = BillzNavBarRestoreLayers.arguments;
+	for (i = 0; i < (args.length); i++) {
+		if (obj = aryNavBarLayers[args[i]]) {
+			v = aryNavBarLayerInfo[args[i]].defaultVisibility;
+			if (obj.style) {
+				obj = obj.style;
+				v = (v == 'show' ) ? 'visible' : ((v == 'hide') ? 'hidden' : v);
+			}
+			obj.visibility = v;
+			if (!aryNavBarLayerInfo[args[i]].MOutLayer) aryNavBarLayerInfo[args[i]].isDefault = true;			
+		}
+	}
+	return true;
+}
+
+function NavBarLayer() {
+	var arg = NavBarLayer.arguments;
+	this.defaultVisibility = arg[1];
+	this.isDefault = true;
+	this.MOutLayer = arg[2];
+	return true;
+}
+
+function BillzNavMove() {
+	return nbNavMove();
+}
+
+function nbNavMove() {
+	var thisl = null;
+	var otherl = null;
+	if (thisl = BillzNavBarMM_findObj("nbScrollLayer")) {
+		if (thisl.style) {
+			thisl = thisl.style;
+			viz = "hidden";
+		} 
+		thisl.top = nbThisLoc -= 3;
+		if (nbThisLoc < -750) {
+			nbThisLoc = 325;
+			nbTimes--;
+		}
+	}
+	if (nbTimes <= 0) {
+		otherl = BillzNavBarMM_findObj("BillzLayer");
+		otherl.visibility = viz;
+	} else {
+		setTimeout("nbNavMove()", nbTime);
+	}	
+	return true;
+}
+
+function NavBar_openadmin() {
+	window.open('admin/','SiteAdmin','height=screen.availheight,width=screen.availwidth,scrollbars=1,toolbar=0,directories=0,status=0,menubar=0,resizable=1');
+	return true;
+}
+
+window.onload = FullyLoaded;
+//-->
+</script>
+						
+<script type="text/javascript">
+//<!--
+				
+nbImagePreload('btn_celebrating_1_1','images/btn_celebrating_on.gif', '');
+nbImagePreload('btn_building_1_2','images/btn_building_on.gif', '');
+nbImagePreload('btn_creating_1_3','images/btn_creating_on.gif', '');
+nbImagePreload('btn_providing_1_4','images/btn_providing_on.gif', '');
+
+//-->
+</script>
+<script type="text/javascript">
+//<!--
+function NavBar_setCookie(cookievalue,navVersion,linkID) 
+{	
+	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
+	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
+	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
+	document.cookie = cookieClear.toUpperCase() + "=false";
+	if(cookievalue.length > 0)
+		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
+	if(navVersion.length > 0)	
+		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);		
+}
+function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
+{
+	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
+	if(cookievalue.length > 0)
+		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
+}
+function NavBar_setPLinkIDCookie(linkID,navVersion)
+{	
+	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
+}
+function NavBar_deleteCookie() 
+{
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var check_name = "SLIDINGTABLE_NAVBAR";	
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f	
+
+	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
+	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
+	for (i = 0; i < a_all_cookies.length; i++)
+	{		
+		a_temp_cookie = a_all_cookies[i].split( '=' );			
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		
+		//expire all cookies for every slidingTable_navbar intances.			
+		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
+			document.cookie = cookie_name.toUpperCase() + "=";			 	
+	}	
+}
+		
+//-->
+</script>
+			
+				
+<script type="text/javascript">
+//<!--
+				
+nbImagePreload('navleft_who_2_1','images/navleft_who_on.gif', '');
+nbImagePreload('navleft_where_2_2','images/navleft_where_on.gif', '');
+nbImagePreload('navleft_advocacy_2_3','images/navleft_advocacy_on.gif', '');
+nbImagePreload('navleft_RandD_2_4','images/navleft_RandD_on.gif', '');
+nbImagePreload('navleft_strategic_2_5','images/navleft_strategic_on.gif', '');
+nbImagePreload('Navleft_careers_2_6','images/Navleft_careers_on.gif', '');
+nbImagePreload('navleft_physician_2_7','images/navleft_physician_on.gif', '');
+nbImagePreload('navleft_financial_2_8','images/navleft_financial_on.gif', '');
+nbImagePreload('navleft_initiatives_2_9','images/navleft_initiatives_on.gif', '');
+nbImagePreload('nav_left_presscenter_2_10','images/nav_left_presscenter_on.gif', '');
+
+//-->
+</script>
+<script type="text/javascript">
+//<!--
+function NavBar_setCookie(cookievalue,navVersion,linkID) 
+{	
+	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
+	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
+	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
+	document.cookie = cookieClear.toUpperCase() + "=false";
+	if(cookievalue.length > 0)
+		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
+	if(navVersion.length > 0)	
+		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);		
+}
+function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
+{
+	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
+	if(cookievalue.length > 0)
+		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
+}
+function NavBar_setPLinkIDCookie(linkID,navVersion)
+{	
+	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
+}
+function NavBar_deleteCookie() 
+{
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var check_name = "SLIDINGTABLE_NAVBAR";	
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f	
+
+	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
+	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
+	for (i = 0; i < a_all_cookies.length; i++)
+	{		
+		a_temp_cookie = a_all_cookies[i].split( '=' );			
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		
+		//expire all cookies for every slidingTable_navbar intances.			
+		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
+			document.cookie = cookie_name.toUpperCase() + "=";			 	
+	}	
+}
+		
+//-->
+</script>
+			
+				
+<script type="text/javascript">
+//<!--
+function NavBar_setCookie(cookievalue,navVersion,linkID) 
+{	
+	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
+	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
+	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
+	document.cookie = cookieClear.toUpperCase() + "=false";
+	if(cookievalue.length > 0)
+		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
+	if(navVersion.length > 0)	
+		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);		
+}
+function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
+{
+	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
+	if(cookievalue.length > 0)
+		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
+}
+function NavBar_setPLinkIDCookie(linkID,navVersion)
+{	
+	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
+}
+function NavBar_deleteCookie() 
+{
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var check_name = "SLIDINGTABLE_NAVBAR";	
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f	
+
+	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
+	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
+	for (i = 0; i < a_all_cookies.length; i++)
+	{		
+		a_temp_cookie = a_all_cookies[i].split( '=' );			
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		
+		//expire all cookies for every slidingTable_navbar intances.			
+		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
+			document.cookie = cookie_name.toUpperCase() + "=";			 	
+	}	
+}
+		
+//-->
+</script>
+			
+<script src="dynamicfiles/NavBar4_body669D644C018707589DBA06B465D667BD.JS" type="text/javascript"></script>
+				
+<script type="text/javascript">
+//<!--
+function NavBar_setCookie(cookievalue,navVersion,linkID) 
+{	
+	var cookiename = "SLIDINGTABLE_NAVBAR" + navVersion;
+	var cookieVersionname = "SLIDINGTBL_NAVBAR_VERSION";
+	var cookieClear = "SLIDINGTBL_NAVBAR_CLEARCOOKIES";	
+	document.cookie = cookieClear.toUpperCase() + "=false";
+	if(cookievalue.length > 0)
+		document.cookie = cookiename.toUpperCase() + "=" + escape(cookievalue);
+	if(navVersion.length > 0)	
+		document.cookie = cookieVersionname.toUpperCase() + "=" + navVersion;	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);		
+}
+function NavBar_setoLevelIDCookie(cookievalue,linkID,navVersion) 
+{
+	var name = "SLIDINGTBL_NAVBAR_OLEVELID";		
+	if(cookievalue.length > 0)
+		document.cookie = name.toUpperCase() + "=" + escape(cookievalue);	
+	if(linkID.length > 0)
+		NavBar_setPLinkIDCookie(linkID,navVersion);	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;		
+}
+function NavBar_setPLinkIDCookie(linkID,navVersion)
+{	
+	document.cookie = "SLIDINGTBL_NAVBAR_PLINKID=" + linkID;	
+	if(navVersion.length > 0)	
+		document.cookie = "SLIDINGTBL_NAVBAR_VERSION=" + navVersion;
+}
+function NavBar_deleteCookie() 
+{
+	// first we'll split this cookie up into name/value pairs
+	// note: document.cookie only returns name=value, not the other components
+	var check_name = "SLIDINGTABLE_NAVBAR";	
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; // set boolean t/f default f	
+
+	document.cookie = "SLIDINGTBL_NAVBAR_VERSION=0";	
+	document.cookie = "SLIDINGTBL_NAVBAR_OLEVELID=";	
+	for (i = 0; i < a_all_cookies.length; i++)
+	{		
+		a_temp_cookie = a_all_cookies[i].split( '=' );			
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+		
+		//expire all cookies for every slidingTable_navbar intances.			
+		if (cookie_name.toUpperCase().indexOf(check_name) == 0)		
+			document.cookie = cookie_name.toUpperCase() + "=";			 	
+	}	
+}
+		
+//-->
+</script>
+			<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script></head>
+
+ 
+
+
+<body bgcolor="#DAD9D9" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images/navleft_home_on.gif')">
+
+<table bgcolor="#FFFFFF" width="980" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr> 
+      <td width="100%" valign="top" bgcolor="ffffff"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td width="100%" valign="top">
+			
+<!-- Begin NavBar Bar #1 Content Output... -->
+
+			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
+	<tbody><tr class="">
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37548" onmouseover="RestoreAll();nbMouseover('btn_celebrating_1_1','images/btn_celebrating.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37548','');" class=""><img src="images/btn_celebrating.gif" border="0" alt="Celebrating Our Mission and Values" id="btn_celebrating_1_1" name="btn_celebrating_1_1"></a></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37891" onmouseover="RestoreAll();nbMouseover('btn_building_1_2','images/btn_building.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37891','');" class=""><img src="images/btn_building.gif" border="0" alt="Building Healthy Communities" id="btn_building_1_2" name="btn_building_1_2"></a></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37892" onmouseover="RestoreAll();nbMouseover('btn_creating_1_3','images/btn_creating.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37892','');" class=""><img src="images/btn_creating.gif" border="0" alt="Creating Work Communities of Choice" id="btn_creating_1_3" name="btn_creating_1_3"></a></td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37893" onmouseover="RestoreAll();nbMouseover('btn_providing_1_4','images/btn_providing.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37893','');" class=""><img src="images/btn_providing.gif" border="0" alt="Providing Quality Care" id="btn_providing_1_4" name="btn_providing_1_4"></a></td>
+	</tr>
+
+</tbody></table>		
+				
+			
+<!-- End NavBar Output -->
+		
+</td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+    <tr> 
+      <td valign="top" style="background-image:url(images/2008/leftnavtile_body.gif); background-repeat: repeat-y; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td width="0%" valign="top" style="background-image:url(images/2008/leftnavtile.gif); background-repeat: repeat-y; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="0%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr> 
+                        <td width="0%" valign="top"><img src="images/body_photo_chapel.jpg"></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+                <tr> 
+                  <td valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr> 
+                        
+                      <td width="0%" valign="top"><br><a href="default.cfm" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/navleft_home_on.gif',1)"><img src="images/navleft_home.gif" alt="To Homepage" name="Image6" width="209" height="24" border="0"></a><br><img src="images/2008/leftnavtile.gif"><br>
+                        
+			
+<!-- Begin NavBar Bar #2 Content Output... -->
+
+			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
+	<tbody><tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=36917" onmouseover="RestoreAll();nbMouseover('navleft_who_2_1','images/navleft_who.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('36917','');" class=""><img src="images/navleft_who.gif" border="0" alt="Who We Are" id="navleft_who_2_1" name="navleft_who_2_1"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=36926" onmouseover="RestoreAll();nbMouseover('navleft_where_2_2','images/navleft_where.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('36926','');" class=""><img src="images/navleft_where.gif" border="0" alt="Where We Are" id="navleft_where_2_2" name="navleft_where_2_2"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37895" onmouseover="RestoreAll();nbMouseover('navleft_advocacy_2_3','images/navleft_advocacy.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37895','');" class=""><img src="images/navleft_advocacy.gif" border="0" alt="Advocacy" id="navleft_advocacy_2_3" name="navleft_advocacy_2_3"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39436" onmouseover="RestoreAll();nbMouseover('navleft_RandD_2_4','images/navleft_RandD.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('39436','');" class=""><img src="images/navleft_RandD.gif" border="0" alt="CHI Institute for Research and Innovation" id="navleft_RandD_2_4" name="navleft_RandD_2_4"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=38500" onmouseover="RestoreAll();nbMouseover('navleft_strategic_2_5','images/navleft_strategic.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('38500','');" class=""><img src="images/navleft_strategic.gif" border="0" alt="Strategic Vision" id="navleft_strategic_2_5" name="navleft_strategic_2_5"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37510" onmouseover="RestoreAll();nbMouseover('Navleft_careers_2_6','images/Navleft_careers.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37510','');" class=""><img src="images/Navleft_careers.gif" border="0" alt="Overview of Career Opportunities" id="Navleft_careers_2_6" name="Navleft_careers_2_6"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39460" onmouseover="RestoreAll();nbMouseover('navleft_physician_2_7','images/navleft_physician.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('39460','');" class=""><img src="images/navleft_physician.gif" border="0" alt="Physician Opportunities" id="navleft_physician_2_7" name="navleft_physician_2_7"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="blank.cfm?id=37580" onmouseover="RestoreAll();nbMouseover('navleft_financial_2_8','images/navleft_financial.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37580','');" class=""><img src="images/navleft_financial.gif" border="0" alt="Financial Information" id="navleft_financial_2_8" name="navleft_financial_2_8"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37784" onmouseover="RestoreAll();nbMouseover('navleft_initiatives_2_9','images/navleft_initiatives.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('37784','');" class=""><img src="images/navleft_initiatives.gif" border="0" alt="Initiatives Newsletter" id="navleft_initiatives_2_9" name="navleft_initiatives_2_9"></a></td>
+	</tr>
+	<tr>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39376" onmouseover="RestoreAll();nbMouseover('nav_left_presscenter_2_10','images/nav_left_presscenter.gif','');" onmouseout="nbMouseoverRestore();" onclick="NavBar_setPLinkIDCookie('39376','');" class=""><img src="images/nav_left_presscenter.gif" border="0" alt="Media Center" id="nav_left_presscenter_2_10" name="nav_left_presscenter_2_10"></a></td>
+	</tr>
+</tbody></table>		
+				
+			
+<!-- End NavBar Output -->
+		
+</td>
+                      </tr>
+					  <tr> 
+					    <td width="0%" valign="top"><br><br>
+					      
+
+
+	<style name="text/css" class="search">		
+		td.search {background-color: ; background-image: URL(images/clear.gif); font-family: verdana,arial; font-weight: 700; font-size: 12px; font-color: 000000;}
+				
+	</style>
+
+		<table border="0" cellpadding="0" cellspacing="0" background="" align="center" class="search">		
+		<form action="body.cfm?id=37888" method="POST"></form>		
+		<input type="hidden" name="action" value="list">	
+		<input type="hidden" name="search_areas_id" value="">	
+		<input type="hidden" name="includewhat" value="">
+		<input type="hidden" name="keywords_required" value="You must enter a keyword to search.<br>To search for a specific phrase enclose that phrase in quotes.<br>To search for documents containing all of your keywords simply enter the words.<br><br><a href='javascript:history.back()'>Back</a>">	
+			<tbody><tr class="search">							
+				
+					<td class="search">&nbsp;&nbsp;</td>
+				
+				
+					<td class="search"><input type="text" name="keywords" size="20" value="Search Intranet"></td>
+							
+				
+					<td class="search"><input type="IMAGE" src="images/Go.gif" border="0" width="26" height="19" style=" border: 0px;"></td>
+				
+			</tr>
+		
+		</tbody></table>
+	 
+<br></td>
+                     </tr>
+					 <tr>
+					    <td width="0%" valign="top" style="padding: 0px 0px 0px 31px;">
+					      
+			
+<!-- Begin NavBar Bar #3 Content Output... -->
+
+			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
+	<tbody><tr class="">
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39479" onclick="NavBar_setPLinkIDCookie('39479','');" class="">Website Privacy Policy</a></td>
+	</tr>
+
+</tbody></table><table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
+</table>		
+				
+			
+<!-- End NavBar Output -->
+		
+
+					    </td>
+					 </tr>
+                    </tbody></table></td>
+                </tr>
+              </tbody></table></td>
+            <td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr> 
+                        <td width="100%" valign="top" style="background-image:url(images/2008/body_header_tile.gif); background-repeat: repeat-x; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tbody><tr> 
+                              <td width="100%" valign="top" bgcolor="86adba"><div style="padding-left: 15px; padding-top: 35px;"><span class="title">Website Privacy Policy</span></div><br><br></td>
+                            </tr>
+                          </tbody></table></td>
+                        <td width="0%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tbody><tr> 
+                              <td width="0%" valign="top" bgcolor="86adba"><img src="images/2008/logo_body.gif" alt="CHI Homepage" border="0"></td>
+                            </tr>
+                          </tbody></table></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+				 <tr> 
+                  <td width="100%" height="52" valign="top" bgcolor="EFEFEC"><table width="100%" border="0" cellpadding="10" cellspacing="0">
+                      <tbody><tr> 
+                        <td width="100%" valign="top">
+													
+													
+													
+													
+														
+															
+															
+														
+													
+													
+													
+			
+<!-- Begin NavBar Bar #4 Content Output... -->
+
+			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
+	<tbody><tr>
+		<td class="" valign="top" align="left"><a href="body.cfm?id=39479" onclick="NavBar_setPLinkIDCookie('39479','');" class="">Website Privacy Policy</a><img src="images/bullet.gif" alt=""><a href="body.cfm?id=37887" onclick="NavBar_setPLinkIDCookie('37887','');" class="">Contact Us</a><img src="images/bullet.gif" alt=""><a href="body.cfm?id=39432" onclick="NavBar_setPLinkIDCookie('39432','');" class="">Corporate Responsibility</a><img src="images/bullet.gif" alt=""><a href="body.cfm?id=37586" onclick="NavBar_setPLinkIDCookie('37586','');" class="">Terms and Conditions</a></td>
+	</tr>
+
+</tbody></table>		
+				
+			
+<!-- End NavBar Output -->
+		
+
+													
+												</td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+                <tr> 
+                  <td width="100%" height="426" valign="top"><table width="100%" border="0" cellpadding="10" cellspacing="0">
+                      <tbody><tr> 
+                        <td width="100%" height="426" valign="top"><br>
+
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	 
+
+
+
+
+
+
+
+
+<font face="verdana" size="2" color="#333333">
+
+<h3><b>Privacy Policy</b></h3><p>
+</p><p class="MsoNormal"><b>Last Updated: September 1, 2011</b><i></i></p><p>
+</p><p class="MsoNormal">&nbsp;</p><p>
+</p><p class="MsoNormal">This Privacy Policy governs the manner in which Catholic Health Initiatives (“<b>CHI</b>”) collects, uses, maintains and discloses information collected from users (each, a “<b>User</b>”) of its websites, including www.catholichealthinitiatives.org or home.catholichealth.net (collectively, the “<b>Site</b>”).&nbsp; CHI reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy at any time by posting such changes to this page.&nbsp; Such changes apply prospectively.&nbsp; Please check this Privacy Policy periodically for changes.&nbsp; The Last Updated date at the top of the page accurately reflects the most recent update to the Privacy Policy.&nbsp; The continued use of the Site following the posting of changes to these terms constitutes an acceptance of those changes.</p><p>
+</p><h1>Privacy</h1><p>
+</p><p class="MsoNormal">CHI is committed to safeguarding the information Users entrust to CHI and believes every User should know how CHI utilizes the information collected from Users.&nbsp; The Site is not directed at children less than 13 years of age.</p><p>
+</p><h1>The Information We Collect</h1><p>
+</p><p class="MsoBodyText2">CHI may collect personally identifiable information from Users in a variety of ways.&nbsp; Personally identifiable information may include (i)&nbsp;contact data (such as a User’s name, mailing and email addresses); (ii)&nbsp;financial data (such as a User’s account or credit card number); and (iii)&nbsp;demographic data (such as a User’s zip code, age and income).&nbsp; If you communicate with CHI by email or otherwise complete online forms, surveys or contest entries, any information provided in such communication may be collected by CHI.&nbsp; CHI may also collect information about how Users use our Site, for example, by tracking the number of unique views received by the pages of the Site, or the domains from which Users originate. We may use “<b>cookies</b>” to track how Users use our Site.&nbsp; A cookie is a piece of software that a Web server can store on the User’s computer and use to identify the User should they visit the Site again.&nbsp; While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Site.&nbsp; CHI may also collect information about how Users use the Site, for example, by tracking the number of unique views received by the pages of the Site, or the domains and Internet Protocol (“<b>IP</b>”) addresses from which Users originate.&nbsp; While not all of the information that CHI collects from Users is personally identifiable, it may be associated with personally identifiable information that Users provide CHI through the Site or otherwise.&nbsp; Additionally, certain information regarding your computer systems, network locations, IP address and software may be communicated to CHI in certain circumstances by the digital rights management systems associated with certain content that you download or access via the Site in order to prevent unauthorized use or distribution of the associated content.&nbsp; Non-personally identifiable information collected by CHI (such as patterns of utilization) is exclusively owned by CHI and may be used as it sees fit in accordance with applicable law.</p><p>
+</p><p class="MsoNormal"><b>How We Use Information</b></p><p>
+</p><p class="MsoBodyText2">CHI may use personally identifiable information collected through our Site to contact Users regarding products and services offered by CHI and its trusted affiliates, independent contractors and business partners and otherwise to enhance Users’ experience with CHI and such affiliates, independent contractors and business partners.&nbsp; CHI may also use information collected through the Site for research regarding the effectiveness of the Site and the marketing, advertising and sales efforts of CHI, its trusted affiliates, independent contractors and business partners.</p><p>
+</p><p class="MsoNormal"><b>Disclosure of Information</b></p><p>
+</p><p class="MsoNormal">CHI may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above.&nbsp; We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners.&nbsp; We may disclose information if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order or another valid legal process.&nbsp; We may disclose information in special circumstances we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Site policies or to protect the safety and security of our users, our Site, and the general public.&nbsp; Finally, we may transfer information collected from Users in connection with or in contemplation of a sale of its assets or business or a merger, consolidation or other reorganization of its business.</p><p>
+</p><p class="MsoNormal"><b>Security of Information</b></p><p>
+</p><p class="MsoNormal">Information about Users that is maintained on our systems is protected using industry standard security measures.&nbsp; In order to secure your personal information, access to your data is password-protected, and sensitive data is protected by SSL encryption when it is exchanged between your web browser and the Site.&nbsp; However, no security measures are perfect or impenetrable, and CHI cannot guarantee that the information submitted to, maintained on or transmitted from its systems will be completely secure.&nbsp; &nbsp;&nbsp;</p><p>
+</p><h1>Correcting/Updating Personal Information</h1><p>
+</p><p class="MsoNormal">If a User’s personally identifiable information changes (such as your zip code), or if a User no longer desires to receive non-account specific information from us, we will endeavor to provide a way to correct, update or remove that User’s personal data provided to us.&nbsp; Please email us at news@catholichealth.net if you would like your information updated or removed from our systems.</p>
+
+</font>
+
+
+
+
+
+
+
+
+
+
+
+</td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+     <tr> 
+    <td bgcolor="#DAD9D9" height="35" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td width="100%" height="35" valign="top" align="center" style="padding: 6px 0px 0px 0px;">
+			
+<!-- Begin NavBar Bar #5 Content Output... -->
+
+			<table border="0" cellspacing="0" cellpadding="0" onclick="NavBar_deleteCookie();">
+	<tbody><tr class="">
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39479" onclick="NavBar_setPLinkIDCookie('39479','');" class="">Website Privacy Policy</a></td>
+		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37887" onclick="NavBar_setPLinkIDCookie('37887','');" class="">Contact Us</a></td>
+		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=39432" onclick="NavBar_setPLinkIDCookie('39432','');" class="">Corporate Responsibility</a></td>
+		<td class="" valign="top" align="left" title="">&nbsp;|&nbsp;</td>
+		<td class="" valign="top" align="left" title=""><a href="body.cfm?id=37586" onclick="NavBar_setPLinkIDCookie('37586','');" class="">Terms and Conditions</a></td>
+	</tr>
+
+</tbody></table>		
+				
+			
+<!-- End NavBar Output -->
+		
+</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  </tbody></table>
+  
+ 
+</body></html>
