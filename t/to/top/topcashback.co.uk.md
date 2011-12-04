@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606151624id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcashback.co.uk privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204055922id_/http%3A//www.topcashback.co.uk/Privacy) for the most accurate reproduction.*
 
-# Top CashBack - Privacy
+# Top Cashback - Privacy
 
 We hold only a minimal amount of information on each registered client. In order to register, we only require an email address (and a password). Prior to sending any payments, we will also require details in order to make payment. 
 
 We only hold information in order to allow users to log into and run their accounts. We will also keep accounts updated with cashback levels. Registered users may update their account details online by following the relevant links from within their account page. 
 
-Member nicknames & basic related statistics may occassionally be exposed, where a person has followed your referral link they may see your name when they follow the link. A members balance where the member was referred to TopCashBack and is under the referral threshold amount (currently £5) may be visible to the referring member. If you were referred to TopCashBack, this fact will be made clear in your account details page, from which you may opt out of them being able to see your account balance. Where selected (default), account balances are only displayed until you reach the referral threshold (currently £5). Once this is reached your account balance will no longer be visible. 
+Member usernames & basic related statistics may occassionally be exposed, where a person has followed your referral link they may see your name when they follow the link. A members balance where the member was referred to TopCashBack and is under the referral threshold amount (currently £10.00) may be visible to the referring member. If you were referred to TopCashBack, this fact will be made clear in your account details page, from which you may opt out of them being able to see your account balance. Where selected (default), account balances are only displayed until you reach the referral threshold (currently £10.00). Once this is reached your account balance will no longer be visible. 
 
   * We may monitor traffic patterns in order to improve our services, to help monitor purchases and cashback and keep accounts up to date.
   * We do not send Junk Email or Spam. We may send emails with site updates or offers, but users will be able to specify the type of emails received.
@@ -15,7 +15,7 @@ Member nicknames & basic related statistics may occassionally be exposed, where 
 
 
 
-Users may request to see any information that we hold on them. This may include purchase information, account totals, contact details and other information. Users may request this information by using our ‘Contact Us’ form. There may be a small administration fee for using this service, which will be no more than £10. 
+Users may request to see any information that we hold on them. This may include purchase information, account totals, contact details and other information. Users may request this information by using our ‘Contact Us’ form. There may be a small administration fee for using this service, which will be no more than £5. 
 
 It is possible that we will wish to use customer information in unanticipated ways, not stated in our Privacy Policy. In this event, we will contact individuals before using the data for new purposes, so that the individual users may opt-out if they wish. 
 
@@ -23,18 +23,36 @@ We aim to be very flexible and transparent in the use of users details. If users
 
 If any user feels this site is not following its stated information policy, then they may inform us through our ‘Contact Us’ form. 
 
-## Cookie Policy
+Cookie Policy
 
 We recommend that all users enable cookies in their browsers in order to make full use of the site and in order to ensure that any purchases on third party sites are recorded. Cookies are small pieces of data or information that are stored by a users browser onto their hard-drive. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party merchants will not record some of their purchases. 
 
 If a user can sign-in to our site, then they most likely have cookies enabled. Users may also check if they have cookies enabled using our ‘Tracking Test’ page.
 
-## Subscription
+Subscription
 
-We do not share or rent email addresses or information, further you are able to unsubscribe at any time from our various email types which range from service emails through to offers, newsletters and blog updates. You are also able to unsubscribe from our site at any time. Please visit your account settings to view these preferences. 
+We do not share or rent email addresses or information, further you are able to unsubscribe at any time from our various email types which range from service emails through to offers, newsletters and blog updates. You are also able to unsubscribe from our site at any time. Please visit your account settings to view these preferences.
 
-## Contact
+Contact
 
-Should you wish to contact us then please visit our [contact page](http://www.topcashback.co.uk/contact)
+Should you wish to contact us then please visit our [ contact page](https://web.archive.org/contact)
 
-Users 
+Telephone: 
+
+Email: 
+
+Mailing Address:
+
+TopCashBack
+
+UKC Systems Ltd
+
+Lion Buildings
+
+Uttoxeter
+
+Staffordshire
+
+ST14 8HP
+
+United Kingdom
