@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the astemplates.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612062335id_/http%3A//www.astemplates.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astemplates.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204034452id_/http%3A//www.astemplates.com/policy.php) for the most accurate reproduction.*
 
 # AS Templates - Professional Website Templates
 
 ### 1\. Advertisement
 
-Some of the advertisements on our site are provided by outside advertisement companies and may contain cookies. While we use cookies on our site, the cookies associated with these advertisements are collected by their respective companies and are therefore not accessible to us.
+Some of the advertisements on our site are provided by outside advertisement companies and may contain cookies. While we use cookies on our site, the cookies associated with these advertisements are collected by their respective companies and are therefore not accessible to us. 
 
 ### 2\. Cookies
 
-Cookies are small data files that websites can write to your hard drive when you visit them. Once written, the cookie can only be accessed by the site that originally created it. Our site uses cookies to store personal site preferences, session information, and ordering information specific to you (such as the contents of your shopping cart).
+Cookies are small data files that websites can write to your hard drive when you visit them. Once written, the cookie can only be accessed by the site that originally created it. Our site uses cookies to store personal site preferences, session information, and ordering information specific to you (such as the contents of your shopping cart). 
 
 ### 2\. Membership
 
@@ -29,4 +29,4 @@ All online transactions through our website are handled with industry-standard S
 ### 4\. Disclaimer
 
 Our site contains links to other sites. While we provide links to them, we are not responsible for their content or privacy policies. We strongly recommend that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you.  
-We are not responsible for the content of any websites where our templates/designs used.
+We are not responsible for the content of any websites where our templates/designs used. 
