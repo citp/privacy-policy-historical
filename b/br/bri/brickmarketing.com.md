@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brickmarketing.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619112837id_/http%3A//www.brickmarketing.com/content/brick-marketing-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickmarketing.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204155942id_/http%3A//www.brickmarketing.com/content/brick-marketing-privacy-policy) for the most accurate reproduction.*
 
 # Brick Marketing Privacy Policy
 
-Effective August 2010 
+Effective September 2011
 
 At Brick Marketing, we respect the privacy of our web site visitors. We do use information you provide to better serve your business needs. We also recognize that this information belongs to you and that we must treat it accordingly. The following statement spells out our privacy policy in more detail. The policy applies to [www.BrickMarketing.com](http://www.brickmarketing.com/ "www.BrickMarketing.com") and other sites on the World Wide Web owned and operated by Brick Marketing. If there are material changes to this policy in the future, information concerning any such change will be posted on this webpage.
 
@@ -29,7 +29,7 @@ Questions?
 If you have any questions regarding our Privacy Policy, please contact:
 
 Brick Marketing, LLC  
-200 Boston Ave. Suite 2530  
-Medford, MA 02474  
-781-350-4365  
+101 Federal Street., Suite 1900  
+Boston Massachusetts 02110 USA  
+781-999-1222  
 [info@brickmarketing.com](mailto:info@brickmarketing.com)
