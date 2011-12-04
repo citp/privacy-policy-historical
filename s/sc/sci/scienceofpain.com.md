@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceofpain.com privacy policy that was archived on 2011-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110115204228id_/http%3A//www.bayerus.com/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceofpain.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204161134id_/http%3A//www.bayerus.com/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # BayerUS - Privacy Statement
 
@@ -98,7 +98,7 @@ Building K56
 51368 Leverkusen, Germany  
 Phone: +49 (0) 214 30 2 05 22  
 Fax: +49 (0) 214 30 2 03 46  
-E-mail: cor.privacy@bayer-ag.de
+E-mail: cor.privacy@bayer.com
 
 Questions, comments or complaints regarding Bayer’s Safe Harbor statement or program can be submitted to:  
 Bayer Business & Technology Services LLC  
