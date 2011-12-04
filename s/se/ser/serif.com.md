@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105123053id_/http%3A//www.serif.com/Company/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204202425id_/http%3A//www.serif.com/Company/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy – Serif
 
@@ -62,9 +62,9 @@ You can request and obtain details of the Personal Data we may hold about you by
 
 Data Protection Manager  
 Serif  
-13 Columbia Drive  
-Suite 5  
-Amherst NH 03031
+12 Wilford Ind Est  
+Nottingham  
+NG11 7EP
 
 Please quote your name and address together with your Customer ID. We would be grateful if you could also provide brief details of the information required as this will help us to accurately respond to your request.
 
