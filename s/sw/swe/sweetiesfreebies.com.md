@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sweetiesfreebies.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606110547id_/http%3A//sweetiesfreebies.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetiesfreebies.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204155028id_/http%3A//sweetiesfreebies.com/about) for the most accurate reproduction.*
 
-# About : Sweeties Freebies
+# About — Sweeties Freebies
 
-You are here: [Home](http://sweetiesfreebies.com/) / About
+Sweeties Freebies is part of [Sweeties Brand, Inc](http://www.thesweetiesbrand.com/). Wendy Limauge, aka Sweetie, created Sweeties Freebies for the hottest freebies, coupons, and shopping deals to help readers save money.
 
-Sweeties Freebies is the latest site in the Sweeties brand of sites. Wendy Limauge, aka Sweetie, has created a place where visitors can find the hottest freebies, coupons, and shopping deals to help readers save money. Her popular site, [Sweeties Sweeps](http://www.sweetiessweeps.com/), helps readers “win what they can’t afford” and her site [Sweeties Reviews](http://www.sweetiesreviews.com/) introduces readers to brands and campaigns to get involved with.
+**Our views on Extreme Couponing:** We don’t really agree with the whole concept but rather focus more on saving the “casual couponer” money each week through store sales and coupon matchups. There is not need for a huge stockpile to keep extra food in your house. Most of us don’t have 30 or more hours to spend getting all of the groceries we buy for free but we can all spend a little time each week to save money on our grocery bill.
 
   * Sweeties Freebies is located at [www.sweetiesfreebies.com](http://www.sweetiesfreebies.com/)
   * Email: [sweetiesfreebies@gmail.com](mailto:sweetiesfreebies@gmail.com)
@@ -18,8 +18,6 @@ Sweeties Freebies is the latest site in the Sweeties brand of sites. Wendy Limau
 Sometimes we find great offers that do require a purchase or they are free when you pay for shipping. We like to pass these along to our readers as well. These offers will always indicate if a purchase if required so you will know they are not 100% free.
 
 We don’t actually send you the freebies and samples you see listed on our site. We scour the web to find free stuff for you and put them all in one place on Sweeties Freebies so you don’t have to do the work of finding them.
-
-Extreme Couponing: We don’t really agree with the whole concept but rather focus more on saving the “casual couponer” money each week through store sales and coupon matchups. There is not need for a huge stockpile to keep extra food in your house. Most of us don’t have 30 or more hours to spend getting all of the groceries we buy for free but we can all spend a little time each week to save money on our grocery bill.
 
 We post freebies for the United States and Canada.
 
