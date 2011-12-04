@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the fastlaneentrepreneurs.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511090016id_/http%3A//www.fastlaneentrepreneurs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastlaneentrepreneurs.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204145324id_/http%3A//www.fastlaneentrepreneurs.com/privacy-policy) for the most accurate reproduction.*
 
-# Fastlane Entrepreneurs | Privacy Statement
+# Privacy Statement
 
-**[Fastlane](http://www.fastlaneentrepreneurs.com/about "Fastlane") Business (FastlaneBusiness.com) – Privacy Policy**
+**[Fastlane](http://www.fastlaneentrepreneurs.com/about "Fastlane") Entrepreneurs || Viperion Publishing Corp.  
+(FastlaneEntrepreneurs.com) – Privacy Policy**
 
 I hate spam and I don’t sell your name and information. I know, that isn’t enough. I have to put everything in legal terms to make it all kosher. So here goes…
 
