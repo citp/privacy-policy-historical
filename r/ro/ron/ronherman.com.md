@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404082814id_/https%3A//www.ronherman.com/content/4/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ronherman.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204145552id_/http%3A//www.ronherman.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy & Security
-
-
-
+# Shop Womens & Mens Clothes and Accessories Online from L.A.'s Ron Herman Boutique (www.RonHerman.com)
 
 **Privacy Policy**
 
-At Ron Herman, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to Ron Herman. If you have questions or concerns regarding this statement, you should contact us by sending an email to [customer service](https://web.archive.org/content/8/contact-us.html) . 
+At Ron Herman, we are committed to protecting the privacy of our customers, which is why we do not sell, rent, or loan any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to Ron Herman. If you have questions or concerns regarding this statement, you should contact us by sending an email to [customer service](https://web.archive.org/web/20111204145552id_/http%3A//www.ronherman.com/8/contact-us.html) . 
 
 **Information Collection and Use**
 
-Ron Herman collects personally identifiable information when you request information from Ron Herman. On such occasions, Ron Herman asks for your name, email address, zip code and personal information concerning your interests, occupation, gender and other demographic information. Ron Herman also receives and records information from server logs from your browser including cookie information relation to pages requested and the like. This helps us better understand what our customers would like to see from us. We use this information internally regarding what our customers want and mailing of circulars and special offers from Ron Herman. We do not give or sell Personal Information to any other party. If at any time you do not want to receive offers and/or circulars from us. You can always remove yourself from our mailing list by sending an e-mail to [contact us](https://web.archive.org/content/8/contact-us.html). 
+Ron Herman collects personally identifiable information when you request information from Ron Herman. On such occasions, Ron Herman asks for your name, email address, zip code and personal information concerning your interests, occupation, gender and other demographic information. Ron Herman also receives and records information from server logs from your browser including cookie information relation to pages requested and the like. This helps us better understand what our customers would like to see from us. We use this information internally regarding what our customers want and mailing of circulars and special offers from Ron Herman. We do not give or sell Personal Information to any other party. If at any time you do not want to receive offers and/or circulars from us. You can always remove yourself from our mailing list by sending an e-mail to [contact us](https://web.archive.org/web/20111204145552id_/http%3A//www.ronherman.com/8/contact-us.html). 
 
 **Protecting Children**
 
@@ -19,7 +16,7 @@ Ron Herman is committed to protecting the privacy of children. Ron Herman recomm
 
 **Opt-out Email policy**
 
-We ask that you tell us when you do not wish to receive periodic emails from us. We will only send email for customer service purposes and to those visitors who have indicated that they wish to receive other types of email from us. If at any time you wish to stop receiving email from us, you can always remove your name from our mailing list by sending an email to [contact us](https://web.archive.org/content/8/contact-us.html) stating that you wish to unsubscribe. 
+We ask that you tell us when you do not wish to receive periodic emails from us. We will only send email for customer service purposes and to those visitors who have indicated that they wish to receive other types of email from us. If at any time you wish to stop receiving email from us, you can always remove your name from our mailing list by sending an email to [contact us](https://web.archive.org/web/20111204145552id_/http%3A//www.ronherman.com/8/contact-us.html) stating that you wish to unsubscribe. 
 
 **Use of Cookies**
 
@@ -49,6 +46,6 @@ Notwithstanding the foregoing, Ron Herman hereby authorizes you only to copy the
 
 In the event, this site contains hypertext links to sites that are not created or maintained by Ron Herman, this Privacy Policy applies only to this Web site and not to any of these third party Web sites. Ron Herman is not responsible for the accuracy, relevance, timeliness, or completeness of those third party sites. The inclusion of any link to such sites does not imply endorsement, sponsorship, or recommendation by Ron Herman of the site. Ron Herman disclaims any liability for links (1) from another Web site to www.Ron Herman and (2) to another Web site from www.torreyronherman.info.torreyronherman.info cannot guarantee the standards of any Web site to which links are provided on this site nor shall Ron Herman be held responsible for the contents of non-Ron Herman sites, or any subsequent links. For this reason, Ron Herman does not represent or warrant that the contents of any third party Web site is accurate, compliant with state or federal law, or compliant with copyright or other intellectual property laws. Ron Herman does not endorse the contents of these third party Web sites in any way. Also, Ron Herman is not responsible for web casting or any other form of transmission received from any linked Web site. Any reliance on the contents of a third party Web site is done at your own risk and you assume all responsibilities and consequences resulting from such reliance.
 
-**Your Acceptance of these Terms**
+ **Your Acceptance of these Terms**
 
 By using our Web site, you agree to accept the Ron Herman privacy policy. Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy. If you do not agree to this policy, please do not use our Web site. 
