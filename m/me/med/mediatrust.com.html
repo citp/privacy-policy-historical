@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mediatrust.com privacy policy that was archived on 2011-03-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110312185822id_/http%3A//www.mediatrust.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mediatrust.com privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204174203id_/http%3A//www.mediatrust.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,67 +9,86 @@
 <link rel="shortcut icon" href="img/favicon.ico">
 <link href="/reset.css" rel="stylesheet" type="text/css" media="all">
 <link href="/global.css" rel="stylesheet" type="text/css" media="all">
+<link href="/uniform.aristo.css" rel="stylesheet" type="text/css" media="all">
 <link href="/site_library/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" media="screen">
+<link rel="stylesheet" type="text/css" href="http://static.flowplayer.org/tools/css/overlay-apple.css">
+<!--[if IE]> <link href="/ie_only.css" rel="stylesheet" type="text/css"> <![endif]-->
 </head>
 <body>
-<div id="pageContainer"> 
-  <!-- LOGO / LOG IN FORM -->
-  <div id="MTheader">
-    <div class="lft"><a href="/" title="MediaTrust - Performance Marketing Solutions">
-      <div class="MTlogo">MediaTrust™</div>
-      </a>
-    </div>
-    <div class="rt"> 
-      <!-- LOG IN FORM -->
-      <div id="container">
-        <div id="topnav"><a class="topNav" href="/contact.php" title="Contact MediaTrust" style="color:#666">contact</a>&nbsp;&nbsp;&nbsp;&nbsp;<span class="mailmt">sales at mediatrust dot com</span>&nbsp;&nbsp;&nbsp;&nbsp; <a href="login" class="mtlogin"><span>Log in</span></a> 
-        </div>
-        <fieldset id="mtlogin_menu">
-          <div style="background-color:#fff; padding:15px">
-            <form method="post" id="mtloginForm" action="https://publisher.mediatrust.com/Login.aspx">
-              <div>
-                <label for="username">Username:</label>
-                <input class="requiredfld" id="ctl00_MainContentPlaceHolder_Login1_UserName" name="ctl00$MainContentPlaceHolder$Login1$UserName" tabindex="1" type="text" maxlength="50">
-              </div>
-              <div>
-                <label for="password">Password:</label>
-                <input class="requiredfld" id="ctl00_MainContentPlaceHolder_Login1_Password" name="ctl00$MainContentPlaceHolder$Login1$Password" tabindex="2" type="password">
-              </div>
-              <div>
-                <select id="loginSelect">
-                  <option selected="selected" value="Publisher">Publisher</option>
-                  <option value="Advertiser">Advertiser</option>
-                </select>
-              </div>
-              <div class="remember">
-				<input value="Sign in" class="mtlogin_submit" type="submit" id="ctl00_MainContentPlaceHolder_Login1_LoginButton" name="ctl00$MainContentPlaceHolder$Login1$LoginButton" tabindex="3">
-              </div>
-            </form>
-          </div>
-        </fieldset>
-      </div>
-      <!-- /end -->      
-    </div>
-  </div>
-  <!-- /end --> 
-	<div class="clear"></div>
-  <!-- MENU -->
-  <div id="MTnavContainer">
-    <div class="MTTabs">
-      <ul class="MTNav">
-        <li class="mtStart"><a href="/" title="MediaTrust - Performance Marketing Solutions"><img src="images/MTIcon.png"></a></li>
-        <li class="mtOverview"><a href="/overview.php" title="Overview">Overview</a></li>
-        <li class="mtPublishers"><a href="/publishers.php" title="Publishers">Publishers</a></li>
-        <li class="mtAdvertisers"><a href="/advertisers.php" title="Advertisers">Advertisers</a></li>
-        <li class="mtPerfEx"><a href="/performanceexchange.php" title="PerformanceExchange">PerformanceExchange</a></li>
-        <li class="mtAbout"><a href="/about.php" title="About MediaTrust" class="activePage">About</a></li>
-        <li class="mtEnd"><a href="http://blog.mediatrust.com" title="Blog">Blog</a></li>
+<div id="pageContainer">
+<!-- LOGO / LOG IN FORM -->
+<div id="MTheader">
+  <div class="lft"><a href="/" title="MediaTrust - Performance Marketing Solutions">
+    <div class="MTlogo">MediaTrust™</div>
+    </a> </div>
+  <div class="rt"> 
+    <!-- LOG IN FORM -->
+    <div id="container">
+      <div id="topnav">
+      <ul>
+      <li class="toplinks"><a class="toplink" href="/about.php#tab9" title="Contact MediaTrust" style="color:#666">contact</a></li>
+      <li class="toplinks"><span class="mailmt">sales at mediatrust dot com</span></li>
+      <li><a href="#" class="mtlogin">Log in</a> </li>
       </ul>
+      </div>
+      <!-- Login content -->
+      <div id="loginContainer">
+        <div class="mtLogin loginWrapper">
+          <div class="mtLoginTitle">
+            <h1>Log in</h1>
+          </div>
+          <form method="post" id="mtloginForm" action="https://publisher.mediatrust.com/Login.aspx">
+            <div class="loginFields">
+              <fieldset>
+                <label for="username">Username:</label>
+                <div>
+                  <input id="ctl00_MainContentPlaceHolder_Login1_UserName" name="ctl00$MainContentPlaceHolder$Login1$UserName" tabindex="1" type="text" maxlength="50">
+                </div>
+              </fieldset>
+              <fieldset>
+                <label for="password">Password:</label>
+                <div>
+                  <input id="ctl00_MainContentPlaceHolder_Login1_Password" name="ctl00$MainContentPlaceHolder$Login1$Password" tabindex="2" type="password">
+                </div>
+              </fieldset>
+              <fieldset>
+                <label></label>
+                <div>
+                  <select id="loginSelect">
+                    <option selected="selected" value="Publisher">Publisher</option>
+                    <option value="Advertiser">Advertiser</option>
+                  </select>
+                </div>
+              </fieldset>
+            </div>
+            <div class="mtSubmit">
+              <input value="Sign in" type="submit" id="ctl00_MainContentPlaceHolder_Login1_LoginButton" name="ctl00$MainContentPlaceHolder$Login1$LoginButton" tabindex="3">
+              <a class="simplemodal-close" href="#cancel">Cancel</a> </div>
+          </form>
+        </div>
+      </div>
     </div>
+    <!-- /end --> 
   </div>
-  <!-- /end --> 
+</div>
+<!-- /end -->
+<div class="clear"></div>
+<!-- MENU -->
+<div id="MTnavContainer">
+  <div class="MTTabs">
+    <ul class="MTNav">
+      <li class="mtStart"><a href="/" title="MediaTrust - Performance Marketing Solutions"><img src="/images/MTIcon.png"></a></li>
+      <li class="mtPerfEx"><a href="/performanceexchange.php" title="PerformanceExchange">PerformanceExchange</a></li>
+      <li class="mtPublishers"><a href="/publishers.php" title="Publishers">Publishers</a></li>
+      <li class="mtAdvertisers"><a href="/advertisers.php" title="Advertisers">Advertisers</a></li>
+      <li class="mtAbout"><a href="/about.php" title="About MediaTrust" class="activePage">About</a></li>
+      <li class="mtEnd"><a href="http://blog.mediatrust.com" title="Blog">Blog</a></li>
+    </ul>
+  </div>
+</div>
+<!-- /end --> 
 <div id="contentContainer">
-  <div id="subNavBlock2"> <span class="sectionTitle">GUIDELINES FOR:</span>
+  <div id="subNavBlock"> <span class="sectionTitle">Guidelines For:</span>
   <ul class="subNav">
     <li class="subNav"><a href="privacy.php" class="activeSub">Privacy Policy</a></li>
     <li class="subNav"><a href="termsandconditions.php">Terms &amp; Conditions</a></li>
@@ -83,7 +102,12 @@
   
   <!-- start of hero billboard -->
   
-  <div id="heroBillboardFOLDER"></div>
+  <div id="heroBillboardFOLDER">
+    <div id="heroContent">
+      <h1> Media + Trust</h1>
+      <h2>Performance + Compliance</h2>
+    </div>
+  </div>
   <!-- end of HeroBillboard -->
   
   <div class="clear"></div>
@@ -159,13 +183,15 @@
 <div id="footer">
   <div id="footercolumn1">
     <div class="copyright">Copyright © 2006-2011 MediaTrust. ALL RIGHTS RESERVED </div>
+    <span style="display:block; float:left; width:100px; padding:15px 15px 0px 0px; float:left"><a href="http://performancemarketingassociation.com/" target="_blank"><img src="/images/plat150x105.jpg" alt="PMA - Performance Marketing Association" border="0" width="100" height="100"></a></span>
+    <span style="display:block; float:left; width:176px; padding-top:35px"><a href="http://www.leadscouncil.com/content/members/" target="_blank"><img src="/images/leadscouncilseal.gif" alt="LeadsCouncil Member" border="0" width="176" height="54"></a></span>
   </div>
   <div id="footercolumn2">
     <div class="footerText">
       <ul class="footerText">
         COMPLIANCE CENTER
         <li><a href="/privacy.php" title="Privacy Policy">Privacy Policy</a></li>
-        <li><a href="/termsandconditions.php" title="Terms And Conditions">Terms And Conditions</a></li>
+        <li><a href="/publishers.php#tab4" title="Terms And Conditions">Terms And Conditions</a></li>
         <li><a href="/email_guidelines.php" title="Email Code of Conduct">Email Code of Conduct</a></li>
         <li><a href="/blog_guidelines.php" title="Blogging and Social Media Guidelines">Blogging and Social Media Guidelines</a></li>
       </ul>
@@ -176,9 +202,10 @@
       <ul class="footerText">
         COMPANY
         <li><a href="/about.php" title="About MediaTrust">About MediaTrust</a></li>
-        <li><a href="/values.php" title="Core Values">Core Values</a></li>
-        <li><a href="/press.php" title="Press / Events">Press / Events</a></li>
-        <li><a href="/contact.php" title="Contact MediaTrust">Contact MediaTrust</a></li>
+        <li><a href="/about.php#tab4" title="Careers">Careers</a></li>
+        <li><a href="/about.php#tab2" title="Core Values">Core Values</a></li>
+        <li><a href="/about.php#tab7" title="Press / Events">Press / Events</a></li>
+        <li><a href="/about.php#tab9" title="Contact MediaTrust">Contact MediaTrust</a></li>
         <li><a href="http://blog.mediatrust.com" title="MediaTrust Blog">MediaTrust Blog</a></li>
         <li><a href="http://twitter.com/mediatrust" title="MediaTrust on Twitter">MediaTrust on Twitter</a></li>
       </ul>
@@ -189,40 +216,57 @@
       <ul class="footerText">
         CLIENT
         <li><a href="https://publisher.mediatrust.com/Members/Login.aspx" title="Log in to your account">Log in to your account</a></li>
-        <li><a href="/pubform.php" title="Apply to be a Publisher">Apply to be a publisher</a></li>
-        <li><a href="/contactsales.php" title="Advertise with us">Advertise with us</a></li>
+        <li><a href="/publishers.php#tab5" title="Apply to be a Publisher">Apply to be a publisher</a></li>
+        <li><a href="/advertisers.php#tab5" title="Advertise with us">Advertise with us</a></li>
         <li><a href="mailto:report@mediatrust.com?subject=Network%20Fraud" title="Report Fraud">Report Fraud</a></li>
       </ul>
     </div>
   </div>
-  <div class="smallLogo"><a href="/"><img src="/images/smallLogo.jpg" alt="MediaTrust - Performance Marketing Solutions" width="100" height="20"></a><br>
-    <a href="/pr/2010_mediatrust_inc_500_second_year.php"><img src="/images/sminc500.gif" width="100" height="81"></a></div>
+  <div class="smallLogo">
+  <a href="/"><img src="/images/smallLogo.jpg" alt="MediaTrust - Performance Marketing Solutions" width="100" height="20"></a><br>
+  <a href="http://www.lead411.com/tech200/2011/" target="_blank"><img src="/images/smtech200.gif" width="100" height="87"></a>
+    </div>
 </div>
 <div style="margin-bottom:45px">
-  <p style="margin:0; padding:0 0 10px 0; font-size:11px; color:#999">Welcome to Media Trust. We are the only source you need for performance advertising and deliver the results you are seeking. Our platform facilitates all types of advertising campaigns, including affiliate marketing programs, email marketing, lead generation, paid search advertising, social media, pay per click services and more.</p>
-  <p style="margin:0; padding:0 0 10px 0; font-size:11px; color:#999">Media Trust's advertising network includes the best publishers and direct response advertisers to create pay for performance advertising campaigns that will generate quality leads and increase online sales. Our innovative online platform has everything advertisers and publishers need to create, track and manage performance advertising campaigns.</p>
+  <p style="margin:0; padding:0 0 10px 0; font-size:11px; color:#999">Welcome to MediaTrust. We are the only source you need for performance advertising and deliver the results you are seeking. Our platform facilitates all types of advertising campaigns, including affiliate marketing programs, email marketing, lead generation, paid search advertising, social media, pay per click services and more.</p>
+  <p style="margin:0; padding:0 0 10px 0; font-size:11px; color:#999">MediaTrust's advertising network includes the best publishers and direct response advertisers to create pay for performance advertising campaigns that will generate quality leads and increase online sales. Our innovative online platform has everything advertisers and publishers need to create, track and manage performance advertising campaigns.</p>
   <p style="margin:0; padding:0 0 10px 0; font-size:11px; color:#999">Our service team and publishers are experts at utilizing search engine marketing, affiliate advertising, pay per click services, display advertising, email marketing and social media to bring results. Advertisers and publishers have access to a wide range of tracking and reporting tools that provide statistics about your campaigns and expert advice to help you create campaigns that will increase online sales.</p>
   <p style="margin:0; padding:0 0 10px 0; font-size:11px; color:#999">Performance advertising allows you to easily manage your marketing budget with costs that are easy to determine and delivers results. We deliver value by focusing on helping you increase online sales and leads, not just driver generic traffic to your website. Our pay for performance business model is designed so we get paid a commission for each lead or sale, so you pay for results.</p>
-  <p style="margin:0; padding:0 0 10px 0; font-size:11px; color:#999">If you are an advertiser interested in pay for or a publisher interested in increasing your performance marketing revenue, sign up with Media Trust for the best technology and expert advice and service.</p>
+  <p style="margin:0; padding:0 0 10px 0; font-size:11px; color:#999">If you are an advertiser interested in pay for or a publisher interested in increasing your performance marketing revenue, sign up with MediaTrust for the best technology and expert advice and service.</p>
+  <ul class="MTSEO-links1">
+    <li><a href="ad-network.php">Ad Network</a></li>
+    <li><a href="affiliate-advertising.php">Affiliate Advertising</a></li>
+    <li><a href="affiliate-marketing.php">Affiliate Marketing</a></li>
+    <li><a href="affiliate-network.php">Affiliate Network</a></li>
+    <li><a href="increase-online-sales.php">Increase Online Sales</a></li>
+    <li><a href="advertising-on-social-networks.php">Advertising On Social Networks</a></li>
+    <li class="end"><a href="pay-per-click-advertising.php">Pay Per Click Advertising</a></li>
+  </ul>
+  <ul class="MTSEO-links2">
+    <li><a href="pay-for-performance.php">Pay For Performance</a></li>
+    <li><a href="performance-advertising.php">Performance Advertising</a></li>
+    <li><a href="search-engine-marketing.php">Search Engine Marketing</a></li>
+    <li><a href="direct-mail-marketing.php">Direct Mail Marketing</a></li>
+    <li class="end"><a href="display-advertising.php">Display Advertising</a></li>
+  </ul>
 </div>
 <!-- BOTTOM SOCIAL ICON BAR -->
 <div id="MTSocialBar">
   <div class="shareToolbar"> 
     <!-- AddThis Button BEGIN -->
-    <div class="addthis_toolbox addthis_default_style "> <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> <a class="addthis_button_tweet"></a> <a class="addthis_counter addthis_pill_style"></a> </div>
-    <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script> 
-    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=mtadmin"></script> 
-    <!-- /end --> 
+    <div class="addthis_toolbox addthis_default_style "> <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> <a class="addthis_button_tweet"></a> <a class="addthis_button_google_plusone" g:plusone:size="medium"></a> <a class="addthis_counter addthis_pill_style"></a> </div>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=mtadmin"></script> 
+    <!-- AddThis Button END --> <!-- /end --> 
   </div>
   <ul>
     <li class="firsticon"><span>Connect with us</span></li>
     <li><a href="http://www.twitter.com/mediatrust" class="twitterIcon">Twitter</a></li>
-    <li><a href="http://www.facebook.com/PayForResults" class="facebookIcon">Facebook</a></li>
+    <li><a href="http://www.facebook.com/mediatrust" class="facebookIcon">Facebook</a></li>
     <li><a href="http://friendfeed.com/mediatrust" class="friendIcon">FriendFeed</a></li>
     <li><a href="http://www.linkedin.com/companies/mediatrust" class="linkedinIcon">LinkedIn</a></li>
     <li><a href="http://www.slideshare.net/mediatrust" class="slideIcon">SlideShare</a></li>
     <li><a href="http://www.flickr.com/photos/performancemarketing" class="flickrIcon">Flickr</a></li>
-    <li><a href="http://www.youtube.com/user/mediatrustblog" class="youtubeIcon">YouTube</a></li>
+    <li><a href="http://www.youtube.com/mediatrust" class="youtubeIcon">YouTube</a></li>
     <li><a href="http://blog.mediatrust.com/feed/" class="bloggIcon">Blog</a></li>
   </ul>
 </div>
@@ -230,58 +274,50 @@
 
 </div>
 <script type="text/javascript" src="/site_library/js/jquery-1.5.min.js"></script> 
-<script type="text/javascript" src="/site_library/js/form.validation.js"></script> 
-<script type="text/javascript" src="/site_library/fancybox/jquery.mousewheel-3.0.4.pack.js"></script> 
-<script type="text/javascript" src="/site_library/fancybox/jquery.fancybox-1.3.4.pack.js"></script> 
-<script type="text/javascript" src="/site_library/js/jquery.featureList-1.0.0.js"></script> 
+<script type="text/javascript" src="/site_library/fancybox/jquery.pack.js"></script> 
+<script type="text/javascript" src="/site_library/js/mtbase.js"></script> 
 <script type="text/javascript">
-	$(document).ready(function() {
-		$(".mtlogin").click(function(e) {
-			e.preventDefault();
-			$("fieldset#mtlogin_menu").toggle();
-			$(".mtlogin").toggleClass("menu-open");
-		});
-
-			$("fieldset#mtlogin_menu").mouseup(function() {
-				return false
-		});
-		$('#mtloginForm').ketchup({}, {
-			'.requiredfld'    : 'required'
-});
-	$(document).mouseup(function(e) {
-		if($(e.target).parent("a.mtlogin").length==0) {
-			$(".mtlogin").removeClass("menu-open");
-			$("fieldset#mtlogin_menu").hide();
-			}
-		});            
-	$("#loginSelect").change(function() {
-		var action = $(this).val() == "Publisher" ? "publisher" : "advertiser";
-	$("#mtloginForm").attr("action", "https://" + action + ".mediatrust.com/Login.aspx");
+$(document).ready(function(){
+	// handle tabs
+	$("[id^='tab_']").bind('click', function(){
+		var container_id = ($(this).attr('id').split('_'))[1];
+		var container = $("#"+container_id);
+		
+		// toggle containers
+		container.show().siblings().hide();
+		
+		// toggle selected state
+		$(this).parent().addClass('selected').siblings().removeClass('selected');
 	});
-	var spt = $('span.mailmt');
-	var at = / at /;
-	var dot = / dot /g;
-	var addr = $(spt).text().replace(at,"@").replace(dot,".");
-	$(spt).after('<a href="mailto:'+addr+'" title="Send an email" style="color:#666">'+ addr +'</a>')
-	.hover(function(){window.status="Send a letter!";}, function(){window.status="";});
-	$(spt).remove();
 
+// detect hash, show appropriate tab
+//if ( window.location.hash ){
+//		var state = window.location.hash;
+//		switch ( state ){
+//			case '#about':
+//				$("#tab_mt-culture").click();
+//				break;
+//			default:
+//				break;
+//		}
+//	}
 });
 </script> 
 <!-- Start Google Analytics container --> 
 <script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
 
-<script type="text/javascript">
-	try {
-		var pageTracker = _gat._getTracker("UA-6740093-4");
-			pageTracker._trackPageview();
-		} catch(err) {}
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10099492-10']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script> 
 <!-- end container --> 
 
 <script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=avBpFWpcGr3715adbiUzgI&amp;s=151&amp;cc=1&amp;lang=en"></script>
-
 </div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
