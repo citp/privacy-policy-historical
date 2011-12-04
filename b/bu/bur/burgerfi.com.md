@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burgerfi.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505040426id_/http%3A//www.burgerfi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burgerfi.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204175507id_/http%3A//www.burgerfi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Burgerfi
 
