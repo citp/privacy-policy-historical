@@ -1,26 +1,26 @@
-<!--The following is the downloaded HTML source of the soulstrut.com privacy policy that was archived on 2011-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606062225id_/http%3A//www.soulstrut.com/index.php/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soulstrut.com privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204195652id_/http%3A//www.soulstrut.com/index.php/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="robots" content="NOODP">
-<meta name="Description" content="Soul Strut is a user-driven community built for the discerning DJ, Musician, and Collector. We'd ♥ to have you join us!">
+<title>Soul Strut | A Vinyl Record Community</title>
+<meta name="Description" content="Soul Strut is a community for vinyl loving collectors, DJs, and musicians">
 <meta name="keywords" content="youtube music videos, music, listen to music online, music community, music downloads, free music download, free music, youtube music, iTunes music, free music downloads for itunes, listen to free music online,brazilian music,rap music,new music releases ,record collectors, reggae, vinyl records, funk, soul, old school, psych, DJ mixes, record stores, classifieds, trip hop, samples, breaks,  drums">
-<meta name="revisit-after" content="31 Days">
-<title>Today's DJ, Musician, and Collector | Soul Strut</title>
-<link rel="SHORTCUT ICON" href="http://www.soulstrut.com/favicon.ico">
-<!-- Style Sheets -->
-<link rel="stylesheet" type="text/css" media="all" href="http://www.soulstrut.com/css/main.css">
+<link rel="SHORTCUT ICON" href="http://www.soulstrut.com/favicon2012.ico">
+<!-- Javascript Buffet -->
+<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" src="http://js.soulstrut.com/js/combined.js"></script> 
+<!-- TYPE KIT -->
+<script type="text/javascript" src="http://use.typekit.com/ahu1qrl.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <!-- Jquery is GOD!-->
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.4.1.min.js"></script>
-<!-- Javascript Buffet -->
-<script type="text/javascript" src="http://js.soulstrut.com/js/combined.js"></script> 
+<!-- PROFILE DROP DOWN -->
 <script type="text/javascript">
 var anylinkmenu1={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} //First menu variable. Make sure "anylinkmenu1" is a unique name!
 anylinkmenu1.items=[
 	["Control Panel", "http://www.soulstrut.com/index.php/community/control_panel/"],
-	["Edit Profile", "http://www.soulstrut.com/index.php/forums/profile/member/edit_profile/"],
-	["Public Profile", "http://www.soulstrut.com/index.php/forums/member/0/"],
+	["Edit Profile", "http://www.soulstrut.com/index.php/forums/profile/strutter/edit_profile/"],
+	["Public Profile", "http://www.soulstrut.com/index.php/forums/strutter/0/"],
 	["View the Memberlist", "http://www.soulstrut.com/index.php/Community/Member_List/"],
         ["Help Documentation", "http://www.soulstrut.com/index.php/guide/"],
         ["Support / Feedback", "http://www.soulstrut.com/index.php/forums/viewforum/11/"],
@@ -31,60 +31,194 @@ anylinkmenu1.items=[
 anylinkmenu.init("menuanchorclass")
 </script>
 
-<!-- Cufon -->
-<script type="text/javascript" src="http://ilkinulassandbox.googlecode.com/files/jquery.divroller.js"></script>
+<!-- FEATURE ROLL OVER -->
+<script>
+
+$(document).ready(function() {
+
+	//move the image in pixel
+	var move = -15;
+	
+	//zoom percentage, 1.2 =105%
+	var zoom = 1.2;
+
+	//On mouse over those thumbnail
+	$('.item').hover(function() {
+		
+		//Set the width and height according to the zoom percentage
+		width = $('.item').width() * zoom;
+		height = $('.item').height() * zoom;
+		
+		//Move and zoom the image
+		$(this).find('img').stop(false,true).animate({'width':width, 'height':height, 'top':move, 'left':move}, {duration:200});
+		
+		//Display the caption
+		$(this).find('div.caption').stop(false,true).fadeIn(200);
+	},
+	function() {
+		//Reset the image
+		$(this).find('img').stop(false,true).animate({'width':$('.item').width(), 'height':$('.item').height(), 'top':'0', 'left':'0'}, {duration:100});	
+
+		//Hide the caption
+		$(this).find('div.caption').stop(false,true).fadeOut(200);
+	});
+
+});
+
+</script>
+
+<!-- SLIDER -->
+
+<script type="text/javascript">
+$(document).ready(function() {	
+
+	//Show Banner
+	$(".main_image .desc").show(); //Show Banner
+	$(".main_image .block").animate({ opacity: 0.85 }, 1 ); //Set Opacity
+
+	//Click and Hover events for thumbnail list
+	$(".image_thumb ul li:first").addClass('active'); 
+	$(".image_thumb ul li").click(function(){ 
+		//Set Variables
+		var imgAlt = $(this).find('img').attr("alt"); //Get Alt Tag of Image
+		var imgTitle = $(this).find('a').attr("href"); //Get Main Image URL
+		var imgDesc = $(this).find('.block').html(); 	//Get HTML of block
+		var imgDescHeight = $(".main_image").find('.block').height();	//Calculate height of block	
+		
+		if ($(this).is(".active")) {  //If it's already active, then...
+			return false; // Don't click through
+		} else {
+			//Animate the Teaser				
+			$(".main_image .block").animate({ opacity: 0, marginBottom: -imgDescHeight }, 250 , function() {
+				$(".main_image .block").html(imgDesc).animate({ opacity: 0.85,	marginBottom: "0" }, 250 );
+				$(".main_image img").attr({ src: imgTitle , alt: imgAlt});
+			});
+		}
+		
+		$(".image_thumb ul li").removeClass('active'); //Remove class of 'active' on all lists
+		$(this).addClass('active');  //add class of 'active' on this list only
+		return false;
+		
+	}) .hover(function(){$(this).addClass('hover');}, function() {$(this).removeClass('hover');});
+			
+	//Toggle Teaser
+	$("a.collapse").click(function(){
+		$(".main_image .block").slideToggle();
+		$("a.collapse").toggleClass("show");
+	});
+	
+});//Close Function
+</script>
+<!-- TABS JS -->
+<script type="text/javascript" charset="utf-8">
+		$(function () {
+			var tabContainers = $('div.tabs > div');
+			tabContainers.hide().filter(':first').show();
+			
+			$('div.tabs ul.tabNavigation a').click(function () {
+				tabContainers.hide();
+				tabContainers.filter(this.hash).show();
+				$('div.tabs ul.tabNavigation a').removeClass('selected');
+				$(this).addClass('selected');
+				return false;
+			}).filter(':first').click();
+		});
+	</script>
+<link rel="stylesheet" type="text/css" media="all" href="http://www.soulstrut.com/css/2012.css">
+<!--[if lte IE 7]>
+<style>
+.content { margin-right: -1px; } /* this 1px negative margin can be placed on any of the columns in this layout with the same corrective effect. */
+ul.nav a { zoom: 1; }  /* the zoom property gives IE the hasLayout trigger it needs to correct extra whiltespace between the links */
+</style>
+<![endif]-->
+
+<!-- Mobile Detection -->
+
+<script type="text/javascript">
+<!--
+if (screen.width <= 699) {
+document.location = "http://www.soulstrut.com/index.php/iphone/";
+}
+//-->
+</script>
 
 
-</head><body id="secondary">
-
-<!-- Main Nav -->
-<div id="header-outer">
-
-      <div id="header">
-
-
-<ul id="nav">
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="login-header"> <div id="login-nav"><ul>
 
 
 
 
        
 <li>
-           <a href="http://www.soulstrut.com/index.php/community/login/">Login</a></li><li>or</li>
-            <li><a href="http://www.soulstrut.com/index.php/community/register/">Join the Strut!</a></li>
+           <a href="http://www.soulstrut.com/index.php/community/login/">LOGIN</a></li>
+            <li><a href="http://www.soulstrut.com/index.php/community/Become_a_Strutter/">REGISTER</a></li>
 
 
  	
 
-</ul>
-          
-        <div class="clear"></div>
-      </div>
-    </div>
-    <div id="main-nav-outer">
+</ul></div></div>
+<!-- Start Content Container -->
+<div class="container">
+<a href="http://www.soulstrut.com/"><div id="logo"></div></a>
+<div id="bannerad"><!--<script type='text/javascript' src='http://server.bittads.com/js/bitt.js'>
+</script>
+<script type='text/javascript'>
+  bitt.instance = '2359';
+  bitt.zone = 'soulstrut';
+  bitt.location = 'frontpage';
+  bitt.keywords = [];
+  bitt.showAdOnLoad('leaderboard');
+</script>
+<a href="http://www.soulstrut.com/index.php/products/advertise/" target="_blank"><img src="http://files.adbrite.com/mb/images/adbrite-your-ad-here-leaderboard.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="14" height="90" border="0" /></a></span>
+</span>
+ End: Local Ads -->
 
-<div id="main-nav-wrapper">
-  <div id="main-nav">
-<ul>
-      <li><a href="http://www.soulstrut.com/">Home</a></li>
-
-<li><a href="http://www.soulstrut.com/index.php/City_Guide/">City Guide</a></li>	
-                <li><a href="http://www.soulstrut.com/index.php/classifieds/">Classifieds</a></li>
-<li><a href="http://www.soulstrut.com/index.php/blog/">Features</a></li>
-				<li><a href="http://www.soulstrut.com/index.php/forums/">Forums</a></li>
-				<li><a href="http://www.soulstrut.com/index.php/mixes/">Mixes</a></li>
-						
-				<li><a href="http://www.soulstrut.com/index.php/reviews/">Reviews</a></li>
-<li><a href="http://www.soulstrut.com/index.php/shop/">Shop</a></li>
-      </ul>
-
+<!-- Begin: adBrite, Generated: 2011-04-02 20:16:31  -->
+<script type="text/javascript">
+var AdBrite_Title_Color = '269412';
+var AdBrite_Text_Color = '333333';
+var AdBrite_Background_Color = 'FFFFFF';
+var AdBrite_Border_Color = 'CCCCCC';
+var AdBrite_URL_Color = 'ff6600';
+try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+</script>
+<span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=1902772&zs=3732385f3930&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=1902772&amp;zs=3732385f3930&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111204195652id_%2Fhttp%3A%2F%2Fwww.soulstrut.com%2Findex.php%2Fprivacy%2F" type="text/javascript"></script>
+<a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1902772&amp;afsid=1"><img src="http://files.adbrite.com/mb/images/adbrite-your-ad-here-leaderboard.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="14" height="90" border="0"></a></span>
+<!-- End: adBrite -->
 </div>
 
-<!-- Search Box -->
+<div class="clear"></div>
 
-<div id="search_box">
+<div id="navcontainer">
+<!--Nav List -->
+<div id="navlist">
+<ul>
+<li><a href="http://www.soulstrut.com/index.php/forums/">Community</a></li>
+<li><a href="http://www.soulstrut.com/index.php/classifieds/">Classifieds</a></li>
+<li><a href="http://www.soulstrut.com/index.php/mixes/">Mixes</a></li>
+<li><a href="http://www.soulstrut.com/index.php/City_Guide/">City Guide</a></li>
+<li><a href="http://www.soulstrut.com/index.php/reviews/">Reviews</a></li>
+<li><a href="http://www.soulstrut.com/index.php/blog/">Blog / Features</a></li>
+<li><a href="http://www.soulstrut.com/index.php/shop/">Shop</a></li>
 
-<form method="post" action="http://www.soulstrut.com/index.php">
+</ul>
+</div>
+<div id="social"><ul id="social_icons">
+  <li><a class="twitter" href="http://www.facebook.com/pages/Soul-Strut/58357893720" target="_blank">twitter</a></li>
+<li><a class="facebook" href="http://twitter.com/soulstrutcom" target="_blank">facebook</a></li>
+
+</ul>   </div>
+<div id="search"><div id="searchwrapper"><form method="post" action="http://www.soulstrut.com/index.php">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="19">
 <input type="hidden" name="XID" value="">
@@ -98,50 +232,15 @@ anylinkmenu.init("menuanchorclass")
 <input type="hidden" name="site_id" value="1">
 </div>
 
-<input id="search" type="text" name="keywords" value="" size="18" maxlength="60"></form>
-
-</div>
-
-<!-- End Search Box -->
-
-</div>
+<input id="search" type="text" class="searchboxx" name="keywords" value="" size="8" maxlength="50"></form>
+</div></div>
 <div class="clear"></div>
-    </div>
-
-<!-- End Main Nav -->
-<div id="terms">
-
-		<div id="wrap">
-        
-                 
-        
-       
-  <div id="adwrapper">
-   <div id="logo"><a href="http://www.soulstrut.com/"><div class="sprites" id="logo2_png"></div></a></div>
-  <div id="bannerad"><script type="text/javascript" src="http://server.bittads.com/js/bitt.js">
-</script>
-<script type="text/javascript">
-  bitt.instance = '2359';
-  bitt.zone = 'soulstrut';
-  bitt.location = 'frontpage';
-  bitt.keywords = [];
-  bitt.showAdOnLoad('leaderboard');
-</script>
-<a href="http://www.soulstrut.com/index.php/products/advertise/" target="_blank"><img src="http://files.adbrite.com/mb/images/adbrite-your-ad-here-leaderboard.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="14" height="90" border="0"></a>
-
-<!-- End: adBrite -->
 </div>
-  <div class="clear"></div>
-  </div>
 
-		
-		<!-- Content Container -->
-        
-        <div id="content-container">
-    <!-- Begin Feature Content -->
-		<div id="content">
 
-<h2>Privacy Policy</h2>
+ <div id="main_content">
+<!-- BEGIN Main Content -->	
+<h1>Privacy Policy</h1>
  
 
 
@@ -170,54 +269,29 @@ anylinkmenu.init("menuanchorclass")
 <p><span>This Privacy Policy was derived from Wordpress’s version&nbsp;which is available under a Creative Commons Sharealike license.</span></p>
 
 
-
+<!-- END Main Content Here-->			
 </div>
+<div id="right_side">
+<!-- BEGIN Side Content -->
 
-<!-- End Feature Content --> 
-
-<!-- Sidebar --> 
-        
-<div id="sidebar">
-
-##	
-</div>
-<!-- End Sidebar --> 
-	
-</div>
-<div class="clear"></div> 
-
-        
-        <!-- End Content Container -->
-<!-- Footer -->
-<div id="footer">
-      
-   
-   
-     
- 
-
-<ul id="social_icons">
-
-<li>1999-2011 © Soul Strut (a sole proprietorship) Version 10.0.0</li><li> | </li><li><a href="http://www.soulstrut.com/index.php/home/about/">About</a></li><li> | </li><li>   <a href="http://www.soulstrut.com/index.php/privacy/">Privacy</a> </li><li> | </li><li>   <a href="http://www.soulstrut.com/index.php/terms/">Terms of Service</a></li><li> | </li><li> <a href="http://www.soulstrut.com/index.php/products/advertise/">Purchase a Classified Ad</a> </li>
-
-<li> | </li><li>    <a href="http://www.soulstrut.com/index.php/contact/">Contact</a>  </li>
-
-<li><a href="http://twitter.com/soulstrutcom" target="_blank"><img src="http://www.soulstrut.com/themes/forum_themes/soulstrut/images/twitter_16.png" width="16" height="16" border="0"></a></li>
-<li><a href="http://www.facebook.com/pages/Soul-Strut/58357893720" target="_blank"><img src="http://www.soulstrut.com/themes/forum_themes/soulstrut/images/facebook_16.png" width="16" height="16" border="0"></a></li>
-
-<li><a href="http://www.flickr.com/groups/soulstrut/" target="_blank"><img src="http://www.soulstrut.com/themes/forum_themes/soulstrut/images/flickr_16.png" width="16" height="16" border="0"></a></li>
-</ul>
-
-   </div>
-
+<!-- END Side Content Here-->	
+ </div>
 <div class="clear"></div>
-<script type="text/javascript"> Cufon.now(); </script>
-<!-- End Footer -->
-        </div> 
-		<!-- End Wrap-->
-
-</div>
 
 
-	
+  <!-- end .container --></div>
+ <div id="footer"><div id="footer-nav"><div id="about"><div id="btm_logo"></div>
+  Soul Strut is a community built for the vinyl loving collector, DJ, and musician.
+  
+  <br><br><div class="fb-like" data-href="http://www.facebook.com/pages/Soul-Strut/58357893720" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="arial"></div> <br><br>© 1999-2012 Soul Strut, Inc.</div> <div class="specifics"><h2>CREDITS</h2><ul><li><a href="http://www.soulstrut.com/index.php/home/about/">About</a></li><li>   <a href="http://www.soulstrut.com/index.php/privacy/">Privacy</a> </li><li>   <a href="http://www.soulstrut.com/index.php/terms/">Terms of Service</a></li><li> <a href="http://www.soulstrut.com/index.php/products/advertise/">Advertise</a> </li>
+
+<li>    <a href="http://www.soulstrut.com/index.php/contact/">Contact Us</a>  </li></ul></div><div class="specifics"><h2>PLACES</h2><ul><li><a href="http://www.soulstrut.com/index.php/forums/">Community</a></li>
+<li><a href="http://www.soulstrut.com/index.php/classifieds/">Classifieds</a></li>
+<li><a href="http://www.soulstrut.com/index.php/mixes/">Mixes</a></li>
+<li><a href="http://www.soulstrut.com/index.php/City_Guide/">City Guide</a></li>
+<li><a href="http://www.soulstrut.com/index.php/reviews/">Reviews</a></li>
+<li><a href="http://www.soulstrut.com/index.php/blog/">Blog / Features</a></li>
+<li><a href="http://www.soulstrut.com/index.php/shop/">Shop</a></li></ul></div><div class="specifics"><h2>SOCIAL</h2><ul><li><a href="http://www.facebook.com/pages/Soul-Strut/58357893720" target="_blank">Soul Strut @ Facebook</a></li><li><a href="http://twitter.com/soulstrutcom" target="_blank">Soul Strut @ Twitter</a></li><li><a href="https://plus.google.com/110102582547484289336/posts" target="_blank">Soul Strut @ Google Plus</a></li></ul></div></div></div>
+
+
 </body></html>
