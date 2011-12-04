@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcasd.net privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603122723id_/http%3A//www.wcasd.net/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcasd.net privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204094114id_/http%3A//www.wcasd.net/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
