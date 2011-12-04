@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the soulstrut.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606062225id_/http%3A//www.soulstrut.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulstrut.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204195652id_/http%3A//www.soulstrut.com/index.php/privacy) for the most accurate reproduction.*
 
-# Today's DJ, Musician, and Collector | Soul Strut
-
-## Privacy Policy
+# Soul Strut | A Vinyl Record Community
 
 UPDATED June 1, 2010
 
