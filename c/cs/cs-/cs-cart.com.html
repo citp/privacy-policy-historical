@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cs-cart.com privacy policy that was archived on 2011-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422032957id_/http%3A//www.cs-cart.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cs-cart.com privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204172024id_/http%3A//www.cs-cart.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Resources :: Privacy Policy - </title>
@@ -12,18 +12,17 @@
 
 <link href="/skins/base/customer/addons/cscart_site/overrides/images/icons/favicon.ico" rel="shortcut icon">
 
-<link href="/skins/base/customer/css/ui/jqueryui.css" rel="stylesheet" type="text/css">
-<link href="/skins/base/customer/addons/cscart_site/overrides/styles.css" rel="stylesheet" type="text/css">
+<link href="/var/cache/css/style_c_801edb2ce500cd22afe5c67849d09c3e.css" rel="stylesheet" type="text/css">
+
 <link href="/skins/base/customer/print.css" rel="stylesheet" media="print" type="text/css">
-<link href="/skins/base/customer/addons/cscart_site/overrides/dropdown.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
 <link href="/skins/base/customer/addons/cscart_site/overrides/styles_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/skins/base/customer/addons/helpdesk/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/base/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css"><link href="/skins/base/customer/addons/cscart_site/styles.css" rel="stylesheet" type="text/css">
+
 <script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
 <script type="text/javascript" src="/lib/js/jqueryui/jquery-ui.custom.min.js"></script>
 <script type="text/javascript" src="/lib/js/tools/tooltip.min.js"></script>
+<script type="text/javascript" src="/lib/js/appear/jquery.appear-1.1.1.js"></script>
 
 <script type="text/javascript" src="/js/core.js"></script>
 <script type="text/javascript" src="/js/ajax.js"></script>
@@ -71,7 +70,7 @@ var lang = {
 	product_added_to_cl: 'Product was added to your Compare list',
 	close: 'Close',
 	error: 'Error',
-	error_ajax: 'Oops, something goes wrong ([error]). Please try again.',
+	error_ajax: 'Oops, something went wrong ([error]). Please try again.',
 	text_changes_not_saved: 'Your changes have not been saved.',
 	text_data_changed: 'Your changes have not been saved.\n\nPress OK to continue, or Cancel to stay on the current page.'
 }
@@ -128,28 +127,19 @@ $(document).ready(function(){
 </script>
 <![endif]-->
 
-<script type="text/javascript" src="/lib/js/appear/jquery.appear-1.1.1.js"></script>
-
 <script type="text/javascript" src="/addons/helpdesk/js/func.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
 	lang.dear = 'Dear';
+	lang.preview = 'Preview';
 	
 	var defined_company_id = '';
 	var area = 'C';
-	
-	//Wysiwyg
-	var skin_name_customer = 'base';
-	$(document).ready(function(){
-		$('textarea.cm-wysiwyg').appear(function() {
-			$(this).ceEditor();
-		});
-	});
 //]]>
 </script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
-<body>
+<body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 
 
 
@@ -324,20 +314,17 @@ $(document).ready(function(){
 					<li class="">
 		<a href="/faq.html">FAQ</a>
 			</li>
-					<li class=" m-last-items">
+					<li class="">
 		<a href="/authorized-resellers.html">Regional Resellers</a>
 			</li>
-		<li class="tm-shadow">&nbsp;</li>		</ul>
-</li><li class="has-subitems "><span><a href="/support-item.html">Services</a></span>
-<ul>
-			<li class="dir">
-		<a href="/support-item.html">Technical Support</a>
-					
-<ul>
-			<li class=" m-last-items">
-		<a href="/live-chat-support.html">Technical Support via Live Chat</a>
+					<li class=" m-last-items">
+		<a href="/check-your-license.html">Check your license</a>
 			</li>
 		<li class="tm-shadow">&nbsp;</li>		</ul>
+</li><li class="has-subitems "><span><a href="/support-service.html">Services</a></span>
+<ul>
+			<li class="">
+		<a href="/support-service.html">Technical Support</a>
 			</li>
 					<li class="">
 		<a href="/custom-development.html">Custom Development</a>
@@ -394,16 +381,34 @@ $(document).ready(function(){
 		<a href="http://docs.cs-cart.com">Developer Documentation</a>
 			</li>
 		<li class="tm-shadow">&nbsp;</li>		</ul>
-</li><li class="has-subitems "><span><a href="/hosting.html">Marketplace</a></span>
+</li><li class="has-subitems "><span><a href="about-marketplace.html">Marketplace</a></span>
 <ul>
 			<li class="">
-		<a href="/hosting.html">Compatible Hosting</a>
+		<a href="/about-marketplace.html">About Marketplace</a>
+			</li>
+					<li class="dir">
+		<a href="compatible-hosting.html">Third-party solutions</a>
+					
+<ul>
+			<li class="">
+		<a href="/compatible-hosting.html">Compatible hosting</a>
 			</li>
 					<li class="">
-		<a href="/partners.html">Companion Solutions</a>
+		<a href="/design-templates.html">Design Templates</a>
+			</li>
+					<li class="">
+		<a href="/companion-solutions.html">Companion Solutions</a>
 			</li>
 					<li class=" m-last-items">
 		<a href="/free-hosting-by-siteground.html">Free Hosting by SiteGround</a>
+			</li>
+		<li class="tm-shadow">&nbsp;</li>		</ul>
+			</li>
+					<li class="">
+		<a href="/apply-for-a-partner-account.html">Apply for a partner account</a>
+			</li>
+					<li class=" m-last-items">
+		<a href="/disclaimer.html">Disclaimer</a>
 			</li>
 		<li class="tm-shadow">&nbsp;</li>		</ul>
 </li><li class="has-subitems "><span><a href="/affiliate-program.html">Partner Zone</a></span>
@@ -427,7 +432,7 @@ $(document).ready(function(){
 		<a href="http://cscart.uservoice.com/" target="_blank">Suggest a Feature</a>
 			</li>
 					<li class="">
-		<a href="http://forum.cs-cart.com/vbugs.php" target="_blank">Report a Bug</a>
+		<a href="http://forum.cs-cart.com/tracker/project-1-cs-cart/" target="_blank">Report a Bug</a>
 			</li>
 					<li class=" m-last-items">
 		<a href="/shopping-cart-labs.html">CS-Cart Labs</a>
@@ -444,55 +449,10 @@ $(document).ready(function(){
 	<div class="top-tools-helper">
 		<div class="float-right" id="sign_io"><!--dynamic:sign_io-->
 														 
-				<a id="sw_login" class="cm-combination">Sign in</a>
+				<a id="sw_login" href="/index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D98">Sign in</a>
 				or
 				<a href="/index.php?dispatch=profiles.add">Register</a>
 						
-						<div id="login" class="cm-popup-box hidden">
-				<div class="login-popup">
-					<h1>Sign in</h1>
-					
-
-
-	<form name="login_popup_form" action="/" method="post">
-<input type="hidden" name="form_name" value="login_popup_form">
-<input type="hidden" name="return_url" value="index.php?dispatch=pages.view&amp;page_id=98">
-
-<div class="form-field">
-	<label for="login_popup" class="cm-required cm-trim cm-email">Email:</label>
-	<input type="text" id="login_popup" name="user_login" size="30" value="" class="input-text cm-focus">
-</div>
-
-<div class="form-field">
-	<label for="psw_popup" class="cm-required">Password:</label>
-	<input type="password" id="psw_popup" name="password" size="30" value="" class="input-text password">
-</div>
-
-
-<input type="hidden" name="gmt_offset" id="gmt_19f3cd308f1455b3fa09a282e0d496f4" value="">
-
-<script language="javascript" type="text/javascript">
-var date = new Date();
-$('#gmt_19f3cd308f1455b3fa09a282e0d496f4').val(-(date.getTimezoneOffset() / 60));
-</script>
-<div class="clear">
-	<div class="float-left">
-		<input class="valign checkbox" type="checkbox" name="remember_me" id="remember_me_popup" value="Y">
-		<label for="remember_me_popup" class="valign lowercase">Remember me</label>
-	</div>
-
-	<div class="float-right">
-		
-		
- 	<span class="button-submit-action"><input type="submit" name="dispatch[auth.login]" value="Sign in"></span>
-
-	</div>
-</div>
-<p class="center"><a href="/index.php?dispatch=auth.recover_password">Forgot your password?</a></p>
-</form>
-
-				</div>
-			</div>
 					<!--/dynamic--><!--sign_io--></div>
 	</div>
 </div>
@@ -587,18 +547,10 @@ $('#gmt_19f3cd308f1455b3fa09a282e0d496f4').val(-(date.getTimezoneOffset() / 60))
 	<div class="sidebox-body">
 <ul class="p-navigation">
 
-									
+											
 	
 	<li class="">
 		<a href="/license.html">CS-Cart License Agreement</a>
-</li>
-	
-	<li class="">
-		<a href="/cooperation-agreement.html">Cooperation Agreement</a>
-</li>
-	
-	<li class="">
-		<a href="/development-services-agreement.html">Development Services Agreement</a>
 </li>
 	
 	<li class="">
@@ -606,11 +558,27 @@ $('#gmt_19f3cd308f1455b3fa09a282e0d496f4').val(-(date.getTimezoneOffset() / 60))
 </li>
 	
 	<li class="">
+		<a href="/development-services-agreement.html">Development Services Agreement</a>
+</li>
+	
+	<li class="">
 		<a href="/design-agreement.html">Web Design Agreement</a>
 </li>
 	
 	<li class="">
+		<a href="/software-distribution-agreement.html">Software Distribution Agreement</a>
+</li>
+	
+	<li class="">
 		<a href="/web-design-integration-agreement.html">Web Design Integration Agreement</a>
+</li>
+	
+	<li class="">
+		<a href="/software-upgrade-agreement.html">Software Upgrade  Agreement</a>
+</li>
+	
+	<li class="">
+		<a href="/cooperation-agreement.html">Cooperation Agreement</a>
 </li>
 	
 	<li class=" active">
@@ -649,9 +617,9 @@ $('#gmt_19f3cd308f1455b3fa09a282e0d496f4').val(-(date.getTimezoneOffset() / 60))
 			<a href="/privacy-policy.html">Privacy Policy</a>&nbsp;&nbsp;
 			<a href="money-back.html">Refund Policy</a>&nbsp;&nbsp;
 			<a href="/upgrade-policy.html">Upgrade Policy</a>&nbsp;&nbsp;
-			<a href="http://helpdesk.cs-cart.com/">Support Help Desk</a>&nbsp;&nbsp;
+			<a href="http://cs-cart.com/helpdesk">Support Help Desk</a>&nbsp;&nbsp;
 	</p>
-<p class="bottom-copyright class">© 2004-2011 Simbirsk Technologies Ltd.</p>
+<p class="bottom-copyright class">© 2004-2011 CS-Cart.com (Simbirsk Technologies Ltd).</p>
 
 
 
@@ -674,6 +642,212 @@ $('#gmt_19f3cd308f1455b3fa09a282e0d496f4').val(-(date.getTimezoneOffset() / 60))
 	})();
 //]]>
 </script>
+	<!-- begin olark code --><script type="text/javascript">/*<![CDATA[*/window.olark||(function(i){var e=window,h=document,a=e.location.protocol=="https:"?"https:":"http:",g=i.name,b="load";(function(){e[g]=function(){(c.s=c.s||[]).push(arguments)};var c=e[g]._={},f=i.methods.length; while(f--){(function(j){e[g][j]=function(){e[g]("call",j,arguments)}})(i.methods[f])} c.l=i.loader;c.i=arguments.callee;c.f=setTimeout(function(){if(c.f){(new Image).src=a+"//"+c.l.replace(".js",".png")+"&"+escape(e.location.href)}c.f=null},20000);c.p={0:+new Date};c.P=function(j){c.p[j]=new Date-c.p[0]};function d(){c.P(b);e[g](b)}e.addEventListener?e.addEventListener(b,d,false):e.attachEvent("on"+b,d); (function(){function l(j){j="head";return["<",j,"></",j,"><",z,' onl'+'oad="var d=',B,";d.getElementsByTagName('head')[0].",y,"(d.",A,"('script')).",u,"='",a,"//",c.l,"'",'"',"></",z,">"].join("")}var z="body",s=h[z];if(!s){return setTimeout(arguments.callee,100)}c.P(1);var y="appendChild",A="createElement",u="src",r=h[A]("div"),G=r[y](h[A](g)),D=h[A]("iframe"),B="document",C="domain",q;r.style.display="none";s.insertBefore(r,s.firstChild).id=g;D.frameBorder="0";D.id=g+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){D.src="javascript:false"} D.allowTransparency="true";G[y](D);try{D.contentWindow[B].open()}catch(F){i[C]=h[C];q="javascript:var d="+B+".open();d.domain='"+h.domain+"';";D[u]=q+"void(0);"}try{var H=D.contentWindow[B];H.write(l());H.close()}catch(E){D[u]=q+'d.write("'+l().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}c.P(2)})()})()})({loader:(function(a){return "static.olark.com/jsclient/loader0.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+
+(function($) {
+
+	var registredUserData = null;
+	var unregistredUserData = {};
+	var operatorsAvailable = false;
+	var conversationStarted = false;
+
+	
+		if ($.cookie.get('pre_chat_info_user_purchased_license') == 'Y') {
+			olark.configure('box.start_hidden', true);
+		}
+	
+
+	olark('api.chat.onOperatorsAway', function () {
+		operatorsAvailable = false;
+	});
+
+	olark('api.chat.onOperatorsAvailable', function () {
+		operatorsAvailable = true;
+
+		olark('api.chat.onOperatorsAway', function() {
+			if ($.cookie.get('pre_chat_info_user_purchased_license') != 'Y') {
+				olark('api.box.shrink');
+			}
+		});
+
+		if (registredUserData != null) {
+
+			olark('api.visitor.updateEmailAddress', {
+				emailAddress: registredUserData.email
+			});
+			olark('api.visitor.updateFullName', { 
+				fullName: registredUserData.firstname + ' ' + registredUserData.lastname 
+			});
+
+			var userPurchasedLicense = '';
+			var prefix = '';
+
+			if (userPurchasedLicense == 'Y') {
+				prefix = '[~]';
+				$.cookie.set('pre_chat_info_user_purchased_license', 'Y');
+			} else {
+				prefix = '[!]';
+			}
+
+			olark('api.chat.updateVisitorNickname', {
+				snippet: prefix + ' ' + registredUserData.firstname + ' ' + registredUserData.lastname
+					+ ' (' + registredUserData.email + ')'
+			});
+			olark('api.chat.updateVisitorStatus', { snippet: [
+				"This customer is logged in",
+				"This customer hasn't purchased a license yet!"
+			]});
+
+			$.cookie.set('pre_chat_info_status_updated', 'Y');
+
+		}
+
+		olark('api.visitor.getDetails', function(details) {
+			var prefix = '';
+			if ($.cookie.get('pre_chat_info_user_purchased_license') == 'Y') {
+				prefix = '[~]';
+			} else if ($.cookie.get('pre_chat_info_status_updated') == 'Y') {
+				prefix = '[!]';
+			} else {
+				prefix = '[?]';
+			}
+			olark('api.chat.updateVisitorNickname', {
+				snippet: prefix + ' ' + (details.fullName || 'Anonymous') + ' (' + (details.emailAddress || '-') + ')'
+			});
+		});
+
+	});
+
+	olark('api.box.onExpand', function() {
+
+		if (conversationStarted && operatorsAvailable) {
+			return;
+		}
+
+		if (
+			!operatorsAvailable
+			|| (!registredUserData && !unregistredUserData)
+			|| (!registredUserData && !unregistredUserData.email)
+			|| (registredUserData && !operatorsAvailable)
+		) {
+			olark('api.box.shrink');
+		}
+
+		olark('api.visitor.getDetails', function(details) {
+
+			if (operatorsAvailable && (details.isConversing || $.cookie.get('pre_chat_info_status_updated') == 'Y')) {
+				conversationStarted = true;
+				olark('api.box.expand');
+				return;
+			}
+
+			if ($.cookie.get('pre_chat_info_status_updated') != 'Y' || !operatorsAvailable) {
+
+				var params = {
+					dialogParams: {
+						width: 500,
+						height: 350
+					},
+					requestParams: {
+						url: fn_url('chat.pre_chat_questions'),
+						result_ids: 'pre_chat_dialog',
+						callback: function (data) {
+
+							if (data.user_is_logged_in == true) {
+								return;
+							}
+
+							unregistredUserData = data.user_data;
+
+							if (!unregistredUserData) {
+
+								$('#pre_chat_dialog').specDialog(params);
+								
+							} else {
+
+								if (unregistredUserData.email) {
+
+									if (operatorsAvailable) {
+										olark('api.visitor.updateEmailAddress', { emailAddress: unregistredUserData.email });
+										olark('api.visitor.updateFullName', { fullName: unregistredUserData.name });
+										olark('api.chat.updateVisitorNickname', { 
+											snippet: '[!] ' + unregistredUserData.name + ' (' + unregistredUserData.email + ')'
+										});
+										olark('api.chat.updateVisitorStatus', { snippet: data.statusMessages });
+
+										$.cookie.set('pre_chat_info_status_updated', 'Y');
+
+										olark('api.box.expand');
+									}
+
+								} else if (unregistredUserData.is_signed_out_customer == 'Y') {
+
+									olark('api.box.hide');
+									olark('api.chat.updateVisitorStatus', { snippet: data.statusMessages });
+
+									$.cookie.set('pre_chat_info_user_purchased_license', 'Y');
+
+								}
+							}
+						}
+					}
+				};
+
+				$('#pre_chat_dialog').specDialog('close');
+
+				$('#pre_chat_dialog').remove();
+				$('body').append('<div class="hidden" title="Welcome to sales chat" id="pre_chat_dialog"><!--pre_chat_dialog--></div>');
+
+				$.ajaxRequest(fn_url('chat.pre_chat_questions'), {
+					data: { operators_available: (operatorsAvailable == true ? 'Y' : 'N') },
+					result_ids: 'pre_chat_dialog',
+					skip_result_ids_check: true,
+					callback: function() {
+						$('#pre_chat_dialog').specDialog(params);
+					}
+				});
+			}
+		});
+
+	});
+
+	
+		var invitationDelay = 180;
+		var invitationMsg = 'Our operators are online and would be glad to help you. Please, don&#039;t hesitate to ask us if you have any questions';
+
+		olark('api.rules.defineRule', {
+			id: '1',
+			description: 'invite a user to the chat after he has been online for some time',
+			condition: function(pass) {
+				olark('api.visitor.getDetails', function(details) {
+					if (
+						details.secondsSpentForThisVisit > invitationDelay
+						&& !details.isConversing
+						&& operatorsAvailable
+						&& $.cookie.get('pre_chat_info_user_purchased_license') != 'Y'
+					) {
+						pass();
+					}
+				});
+			},
+			action: function() {
+				$.showNotifications({ invitationNote: {
+					message: invitationMsg + '<br /><a href="" onclick="olark(\'api.box.expand\');jQuery.closeNotification(\'invitationNote__1\'); return false;">Enter chat</a>',
+					message_state: 'K',
+					title: 'Notice',
+					type: 'N'
+				}});
+			},
+			perVisit: true,
+		});
+	
+})(jQuery);
+
+olark.identify('6665-966-10-7594');
+/*]]>*/
+</script>
+<!-- end olark code -->
 
 
 
