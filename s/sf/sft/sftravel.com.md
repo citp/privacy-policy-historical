@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sftravel.com privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219142436id_/http%3A//www.sftravel.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sftravel.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205000350id_/http%3A//www.sftravel.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy SFTRAVEL
 
 **_Privacy Policy_**
 
-Our business name is **SFTRAVEL, LLC (hereafter “SFTRAVEL” or “Company”)**. We are the owner of the trademark and web site [www.SFTRAVEL.com](http://www.sftravel.coom/) **®** , as well as other web sites located on the Internet. All information provided in this Privacy Policy pertains to **SFTRAVEL, LLC,** [www.SFTRAVEL.com](http://www.sftravel.com/) **®** (hereafter “web site”) **** and our other web sites, either existing now or created in the future. SFTRAVEL provides a collection of online resources, including classified listings, advertising, email services and links to third party web sites (hereafter "Services")
+Our business name is **SFTRAVEL, LLC (hereafter “SFTRAVEL” or “Company”)**. We are the owner of the trademark and web site [www.SFTRAVEL.com](http://www.sftravel.com/) **®** , as well as other web sites located on the Internet. All information provided in this Privacy Policy pertains to **SFTRAVEL, LLC,** [www.SFTRAVEL.com](http://www.sftravel.com/) **®** (hereafter “web site”) **** and our other web sites, either existing now or created in the future. SFTRAVEL provides a collection of online resources, including classified listings, advertising, email services and links to third party web sites (hereafter "Services")
 
 **_I. General_**
 
