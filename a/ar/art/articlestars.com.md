@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlestars.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108143235id_/http%3A//articlestars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlestars.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204035036id_/http%3A//articlestars.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory Submission | Submit Quality Original Articles
 
