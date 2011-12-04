@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moremoneyreview.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513072525id_/http%3A//www.moremoneyreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moremoneyreview.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204140857id_/http%3A//www.moremoneyreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | More Money Review
 
-This is the privacy policy of More Money Review. It was last updated on 24th July 2009. If we change our privacy policy, we will notify you of those changes here.
+This is the privacy policy of More Money Review Ltd. It was last updated on 24th July 2009. If we change our privacy policy, we will notify you of those changes here.
 
 **Links to other sites**
 
@@ -47,4 +47,4 @@ The Help menu on the menu bar of most browsers will tell you how to prevent your
 
 You have the right to ask us for a copy of the personal information we hold about you, and to correct any inaccuracies in that information.
 
-If you have any queries regarding this privacy statement, please contact customer services by email at [moremoneyreview@moremoneyreview.com](mailto:cservice@agorapub.co.uk)
+If you have any queries regarding this privacy statement, please contact customer services by email at [moremoneyreview@moremoneyreview.com](mailto:moremoneyreview@moremoneyreview.com)
