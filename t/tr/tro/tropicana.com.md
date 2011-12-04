@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tropicana.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601010418id_/http%3A//www.tropicana.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropicana.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204041210id_/http%3A//www.tropicana.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Tropicana Privacy Policy
 
