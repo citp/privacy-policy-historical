@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carlist.my privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310000253id_/http%3A//www.carlist.my/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlist.my privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204045307id_/http%3A//www.carlist.my/privacy.php) for the most accurate reproduction.*
 
-# Welcome to http://www.carlist.my
+# Cars for Sale | Used Cars | Car Price | Malaysia Car Classified : Carlist.my
 
 Carlist.my is committed to the privacy of all users to its Website www.carlist.my ("Site"). This Privacy Policy forms part of the User Agreement that can be found at www.carlist.my. By using and visiting the Site, you agree to this Policy and the uses made of personal information as set forth herein or amended hereafter.
 
