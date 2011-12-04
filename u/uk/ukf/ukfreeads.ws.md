@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukfreeads.ws privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616071831id_/http%3A//www.ukfreeads.ws/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukfreeads.ws privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204180817id_/http%3A//www.ukfreeads.ws/info/privacy.php) for the most accurate reproduction.*
 
 # UK Free Classifieds at UKFreeAds.ws - Privacy Policy
 
