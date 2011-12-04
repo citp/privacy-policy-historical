@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myinterestingfiles.com privacy policy that was archived on 2010-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100811010747id_/http%3A//www.myinterestingfiles.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myinterestingfiles.com privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204042559id_/http%3A//www.myinterestingfiles.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 <title>  Privacy Policy</title>
@@ -7,279 +7,78 @@
 
 
 <link rel="alternate" type="application/rss+xml" title="My Interesting Files » Privacy Policy Comments Feed" href="http://www.myinterestingfiles.com/privacy-policy/feed">
-<script type="text/javascript" src="http://www.myinterestingfiles.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
-<script type="text/javascript" src="http://www.myinterestingfiles.com/wp-content/themes/options/library/js/options.js?ver=1.3"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.myinterestingfiles.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.myinterestingfiles.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.myinterestingfiles.com/wp-content/themes/options_1.3/options/library/js/options.js?ver=1.3"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.myinterestingfiles.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.myinterestingfiles.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="My Interesting Files" href="http://www.myinterestingfiles.com">
-<meta name="generator" content="WordPress 2.9.2">
+<link rel="prev" title="About" href="http://www.myinterestingfiles.com/about">
+<link rel="next" title="Comment Policy" href="http://www.myinterestingfiles.com/comment-policy">
+<meta name="generator" content="WordPress 3.2.1">
 <link rel="canonical" href="http://www.myinterestingfiles.com/privacy-policy">
-
-<!-- Powered by AdSense-Deluxe WordPress Plugin v0.8 - http://www.acmetech.com/blog/adsense-deluxe/ -->
-<script language="javascript" type="text/javascript">
-<!--
-		function collapseThread( theId ) {
-			var comment = document.getElementById(theId);
-			if(!comment)
-			{
-				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
-				return;
-			}
-			var theBody = findBody(comment);
-			if(comment.className.indexOf("collapsed") > -1) {
-				comment.className = comment.className.replace(" collapsed", "");;
-			} else {
-				comment.className += " collapsed";
-			}
-		}
-
-		function expandThread( theId ) {
-			var comment = document.getElementById(theId);
-			if(!comment)
-			{
-				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
-				return;
-			}
-			var theBody = findBody(comment);
-			if(comment.className.indexOf("collapsed") > -1) {
-				comment.className = comment.className.replace(" collapsed", "");;
-			} 
-		}
-		
-		function findBody(el)
-		{
-			var divs = el.getElementsByTagName("div");
-			var ret;
-			for(var i = 0; i < divs.length; ++i) {
-				if(divs.item(i).className.indexOf("body") > -1)
-					return divs.item(i);
-			}
-			return false;
-		}
-	
-		function onAddComment() {
-			//checkDocumentIntegrity();
-			var el = document.getElementById("commentform");
-			// Future release: Check if form is filled correctly and mark the form fields.
-			el.submit();
-		}
-		
-		function moveAddCommentBelow(theId, threadId, collapse)
-		{
-			expandThread( theId );
-			var addComment = document.getElementById("addcomment");
-			if(!addComment)
-			{
-			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
-				return
-			}
-			var comment = document.getElementById(theId);
-			if(collapse)
-			{
-				for(var i = 0; i < comment.childNodes.length; ++i) {
-					var c = comment.childNodes.item(i);
-					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
-						c.className += " collapsed";
-					}
-				}
-			}
-			addComment.parentNode.removeChild(addComment);
-
-			comment.appendChild(addComment);
-			if(comment.className.indexOf("alt")>-1) {
-				addComment.className = addComment.className.replace(" alt", "");					
-			} else {
-				addComment.className += " alt";
-			}
-		        var replyId = document.getElementById("comment_reply_ID");
-			if(replyId == null)
-			{
-				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
-			}
-			replyId.value = threadId;
-			var reRootElement = document.getElementById("reroot");
-			if(reRootElement == null)
-			{
-				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
-			}
-			reRootElement.style.display = "block";
-			var aTags = comment.getElementsByTagName("A");
-			var anc = aTags.item(0).id;
-			//document.location.href = "#"+anc;
-			document.getElementById("comment").focus();
-		}
-
-		function checkDocumentIntegrity()
-		{
-			str = "";
-			
-			str += checkElement("reroot","div tag");
-			str += checkElement("addcomment", "div tag");
-			str += checkElement("comment_reply_ID", "hidden form field");
-			str += checkElement("content", "div tag");
-			str += checkElement("comment", "textfield");
-			str += checkElement("addcommentanchor", "anchor tag");
-			
-			if(str != "")
-			{
-				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
-				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
-
-				alert(str);
-			}
-		}
-               
-		function checkElement(theId, elDesc)
-		{
-			var el = document.getElementById(theId);
-			if(!el)
-			{
-				if(elDesc == null)
-					elDesc = "element";
-				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
-			}
-			else 
-				return "";
-		}
-		
-		function reRoot()
-		{
-			var addComment = document.getElementById("addcomment");			
-			var reRootElement = document.getElementById("reroot");
-			reRootElement.style.display = "none";
-			var content = document.getElementById("content-main");
-			if( !content )
-				content = document.getElementById("content");
-			if( content )
-			{
-				addComment.parentNode.removeChild(addComment);
-				content.appendChild(addComment);
-			}
-			addComment.className = addComment.className.replace(" alt", "");
-			document.location.href = "#addcommentanchor";
-			document.getElementById("comment").focus();				
-			document.getElementById("comment_reply_ID").value = "0";
-		}			
-		
-		function changeCommentSize(d)
-		{
-			var el = document.getElementById("comment");
-			var height = parseInt(el.style.height);
-			if(!height && el.offsetHeight)
-				height = el.offsetHeight;
-			height += d;
-			if(height < 20) 
-				height = 20;
-			el.style.height = height+"px";
-		}		
--->
-</script>
-<style type="text/css">
-.comment 
-{
-	position: 				relative;
-	margin:					3px;
-	margin-top:				6px;
-/*	border: 				1px solid #666; */
-	padding:				4px 4px 4px 8px;
-	background-color:		#fff;
-}
-
-.odd
-{
-	background-color: #f8f8f8;
-}
-
-.comment div {
-	position: 				relative;
-}
-
-.comment .comment img
-{
-	margin: 				0px;
-}
-
-.comment .collapseicon 
-{
-	width: 					13px;
-	height: 				13px;
-	overflow:				hidden;
-	background-image: 		url(http://www.myinterestingfiles.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
-}
-
-.collapsed .collapseicon 
-{
-	background-image: 		url(http://www.myinterestingfiles.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
-}
-
-
-.comment .reply {
-	text-align: 			right;
-	font-size: 				80%;
-	padding: 				0px 6px 6px 0px;
-}
-
-.comment
-{
-	border: 	1px solid #ddd;
-	margin-top: 			10px;
-}
-
-input#subscribe
-{
-	width: auto;
-}
-
-.comment .body .content
-{
-	padding:				0px 3px 0px 3px;
-	/*width: 					100%;	*/
-	overflow: 				auto; 
-}
-
-.comment .title abbr
-{
-	border: none;
-}
-
-.collapsed .body, .collapsed .comment
-{
-	display:				none;
-}
- 
-#commentform textarea {
-	width: 97%;
-}
-
-.btc_gravatar {
-	float: right;
-	margin: 3px 3px 4px 4px;
-}
-</style>
-<script type="text/javascript" charset="utf-8" src="http://w.sharethis.com/button/sharethis.js#wp=2.3.3&amp;publisher=7da29628-7215-43f6-b3ba-0a7d9220f254&amp;amp;type=wordpress2.8.2&amp;wp=2.9.2"></script>
-
-<!-- GBCF -->
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.myinterestingfiles.com/wp-content/plugins/wp-gbcf/wp-gbcf_themes/default.css">
-<!--[if IE]><script src="http://www.myinterestingfiles.com/wp-content/plugins/wp-gbcf/wp-gbcf_focus.js" type="text/javascript"></script><![endif]-->
-<!-- GBCF -->
-
-<meta name="wordpress_theme" content="Options 1.3">
+<link rel="shortlink" href="http://wp.me/P1h8Ef-6o">
+<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'7da29628-7215-43f6-b3ba-0a7d9220f254'});var st_type='wordpress3.0.1';</script><meta name="wordpress_theme" content="Options 1.3">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.myinterestingfiles.com/feed">
 <link rel="alternate" type="text/xml" title="RSS .92" href="http://www.myinterestingfiles.com/feed/rss">
 <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.myinterestingfiles.com/feed/atom">
 <link rel="pingback" href="http://www.myinterestingfiles.com/xmlrpc.php">
 <meta name="generator" content="WordPress <?php bloginfo('version'); ?>">
-<meta name="description" content=" The fun pages feature hilarious jokes, funny video clips, pictures, random interesting  facts, extra-ordinary stuff, humorous pictures, personality tests, and more popular and entertaining humor">
 <meta name="keywords" content="funny, humor, pics, pictures, picture, photos, free, photo, humour, pic, bizarre, wierd, art, videos, video, photography, interesting, files, unique, antique ">
 
 <!--Google Webmaster-->
 <meta name="verify-v1" content="saH7Q9dBwbz2xvORTDGk6ddSpjbR6UTOm2QJVm9R9kI=">
 <!--End Google Webmaster-->
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- wp thread comment 1.4.9.4.002 -->
+<style type="text/css" media="screen">
+.editComment, .editableComment, .textComment{
+	display: inline;
+}
+.comment-childs{
+	border: 1px solid #999;
+	margin: 5px 2px 2px 4px;
+	padding: 4px 2px 2px 4px;
+	background-color: white;
+}
+.chalt{
+	background-color: #E2E2E2;
+}
+#newcomment{
+	border:1px dashed #777;width:90%;
+}
+#newcommentsubmit{
+	color:red;
+}
+.adminreplycomment{
+	border:1px dashed #777;
+	width:99%;
+	margin:4px;
+	padding:4px;
+}
+.mvccls{
+	color: #999;
+}
+			
+</style>
 
-<link rel="stylesheet" href="http://www.myinterestingfiles.com/wp-content/themes/options-light/style.css" type="text/css" media="screen">
-<!--favicon-->
-<link rel="shortcut icon" href="http://www.myinterestingfiles.com/images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="http://www.myinterestingfiles.com/wp-content/themes/options_1.3/options-light/style.css" type="text/css" media="screen">
+
+<!--Google Analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18323419-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
 </head>
 <body>
 <div id="body-container">
@@ -301,6 +100,11 @@ input#subscribe
 			</h1>
 
 			<h2 id="site-description"><span>The archives of my files that I found interesting and entertaining.</span></h2>
+
+<!--Technorati Media Tag-->
+<!-- BEGIN UAT - 728x90 - MyInterestingFiles: MyInterestingFiles - DO NOT MODIFY -->
+<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/75/47/uat_14775.js?ad_size=728x90"></script>
+<!-- END TAG -->
 
 		</div>
 
@@ -355,67 +159,56 @@ input#subscribe
 
 	</div>
 
+	<div id="comments-template">
+
+
+	<h3 id="respond">Leave a Reply</h3>
+
 	
-<!-- You can start editing here. -->
+		<form action="http://www.myinterestingfiles.com/wp-comments-post.php" method="post" id="commentform">
 
-<p><a href="http://www.myinterestingfiles.com/privacy-policy/feed"><abbr title="Really Simple Syndication">RSS</abbr> feed</a> 
-| <a href="http://www.myinterestingfiles.com/privacy-policy/trackback">Trackback <acronym title="\&quot;Uniform" resource="" identifier\"="">URI</acronym></a>
-</p>
+		
+			<p>
+				<input type="text" name="author" id="author" value="" size="40" tabindex="1">
+				<label for="author">Name Required</label>
+			</p>
+			<p>
+				<input type="text" name="email" id="email" value="" size="40" tabindex="2">
+				<label for="email">Email (not published) Required</label>
+			</p>
+			<p>
+				<input type="text" name="url" id="url" value="" size="40" tabindex="3">
+				<label for="url">Website</label>
+			</p>
 
-<h2 id="comments">Comments 
-<a href="#postcomment" title="Leave a comment">»</a>
-</h2>
-<div class="#commentlist">
-	<p>No comments yet.</p>
-</div>
-<div id="addcomment" class="comment">
-<a id="addcommentanchor" name="addcommentanchor"></a>
-<form action="http://www.myinterestingfiles.com/wp-comments-post.php" method="post" id="commentform">
-<div class="add">
-	<div id="reroot" style="display: none;">
-		<small><a href="#" onclick="reRoot(); return false;">
-			Click here to cancel "reply".
-		</a></small>
-	</div>
-	<small>
-		Name (required)	</small>
-	<div>
-		<input type="text" name="author" id="author" class="textarea" value="" size="28" tabindex="1">
-	</div>
-	<small>
-		E-mail (required - never shown publicly)	</small>
-	<div>
-		<input type="text" name="email" id="email" value="" size="28" tabindex="2">
-	</div>
-	<small>
-		<acronym title="Uniform Resource Identifier">URI</acronym>	</small>
-	<div>
-		<input type="text" name="url" id="url" value="" size="28" tabindex="3">	
-	</div>
-		<small>
-		Your Comment (<a href="#" onclick="changeCommentSize(-80); return false;">smaller size</a> | <a href="#" onclick="changeCommentSize(80); return false;">larger size</a>)
-	</small>
-	<div style="width: 100%;">
-		<textarea name="comment" id="comment" cols="60" rows="14" tabindex="4"></textarea>
-	</div>
-	<small>
-		Comments will be moderated due to our <a href="http://www.myinterestingfiles.com/comment-policy">Comment Policy</a>.<br>
-                You may use 
-		&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; 		in your comment.
-	</small>
-	<div>
-		<input type="hidden" name="comment_post_ID" value="396">
-		<input type="hidden" name="redirect_to" value="/privacy-policy">
-		<input onclick="if(typeof(onAddComment) == 'function') { onAddComment(); } else { alert('ERROR:\nIt looks like the website administrator hasn\'t activated the Brians Threaded Comments plugin from the plugin page'); };" name="addcommentbutton" type="button" id="addcommentbutton" value="Add comment" tabindex="5">
-	</div>
-</div>
-<input type="hidden" id="comment_reply_ID" name="comment_reply_ID" value="0"></form>
-</div>
-<h3>Trackback responses to this post</h3>
-  <ul>
-  </ul>
+		
+			<p>
+				<textarea name="comment" id="comment" cols="60" rows="10" tabindex="4"></textarea>
+			</p>
+			<p>
+				<input class="submit-comment" name="submit" type="submit" id="submit" tabindex="5" value="Submit">
+				<input class="reset-comment" name="reset" type="reset" id="reset" tabindex="6" value="Reset">
+				<input type="hidden" name="comment_post_ID" value="396">
+			</p>
+			<div>
+				<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="3d23db18bd"></p><p><input type="hidden" id="comment_reply_ID" name="comment_reply_ID" value="0"><input type="hidden" id="comment_reply_dp" name="comment_reply_dp" value="0"></p><div id="cancel_reply" style="display:none;"><a href="javascript:void(0)" onclick="movecfm(null,0,1,null);" style="color:red;">Click to cancel reply</a></div><p><input type="checkbox" name="comment_mail_notify" id="comment_mail_notify" value="comment_mail_notify" checked="checked" style="width: auto;"><label for="comment_mail_notify" style="display: inline;">Notify me of follow-up comments via e-mail</label></p><script type="text/javascript">
+/* <![CDATA[ */
+var commentformid = "commentform";
+var USERINFO = false;
+var atreply = "none";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.myinterestingfiles.com/wp-content/plugins/wordpress-thread-comment/wp-thread-comment.js.php?jsver=common"></script>
+			</div>
 
+<p>Comments will be moderated due to our <a href="http://www.myinterestingfiles.com/comment-policy">Comment Policy</a>.</p>
+			<p>
+				<strong>You can use these XHTML tags:</strong> &lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;blockquote cite=""&gt; &lt;code&gt; &lt;em&gt; &lt;strong&gt;
+			</p>
 
+		</form>
+
+	</div>
 	
 
 		</div>
@@ -471,26 +264,27 @@ input#subscribe
 			<div class="t1 tab-content">
 
 			<ul class="latest">
-				<li><a href="http://www.myinterestingfiles.com/2010/08/paper-fold-art.html" title="Paper Fold Art">Paper Fold Art</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/08/inspiration-by-nick-vujicic.html" title="Inspiration by Nick Vujicic">Inspiration by Nick Vujicic</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/08/rape-axe-female-condom-with-teeth-to-fight-rape.html" title="Rape-aXe : Female Condom With “Teeth” To Fight Rape">Rape-aXe : Female Condom With “Teeth” To Fight Rape</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/08/a-glimpse-ahead-microsoft-office-labs-vision-2019.html" title="A Glimpse Ahead Microsoft Office Labs vision 2019">A Glimpse Ahead Microsoft Office Labs vision 2019</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/07/one-day-poem-pavilion.html" title="One Day Poem Pavilion">One Day Poem Pavilion</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/07/impossible-motion-magnet-like-slopes.html" title="Impossible Motion: Magnet-Like Slopes">Impossible Motion: Magnet-Like Slopes</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/07/fish-with-hands.html" title="Fish with Hands">Fish with Hands</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/07/wobbly-bridge.html" title="Wobbly Bridge">Wobbly Bridge</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/06/20000-dog-house.html" title="$20,000 Dog House">$20,000 Dog House</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/06/tankpitstop-car-refuelling-robot.html" title="Tankpitstop : Car Refuelling Robot">Tankpitstop : Car Refuelling Robot</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/06/the-cockroach-hall-of-fame-museum.html" title="The Cockroach Hall of Fame &amp; Museum">The Cockroach Hall of Fame &amp; Museum</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/05/espresso-book-machine-atm-for-books.html" title="Espresso Book Machine : ATM for Books">Espresso Book Machine : ATM for Books</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/05/a-boy-with-15-fingers-and-16-toes.html" title="A Boy With 15 Fingers And 16 Toes">A Boy With 15 Fingers And 16 Toes</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/04/next-generation-paint-brush.html" title="Next Generation Paint Brush">Next Generation Paint Brush</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/03/tugboat-incident.html" title="Tugboat Incident">Tugboat Incident</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/03/amazing-ball-girl-catch.html" title="Amazing Ball Girl Catch">Amazing Ball Girl Catch</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/03/sandcastle-hotel.html" title="Sandcastle Hotel">Sandcastle Hotel</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/02/how-to-save-a-wet-phone.html" title="How To Save A Wet Phone">How To Save A Wet Phone</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/02/underwater-river-in-cenote-angelita-mexico.html" title="Underwater River in Cenote Angelita, Mexico">Underwater River in Cenote Angelita, Mexico</a></li>
-	<li><a href="http://www.myinterestingfiles.com/2010/02/sand-dancer.html" title="Sand Dancer">Sand Dancer</a></li>
+				<li><a href="http://www.myinterestingfiles.com/2011/11/baby-born-with-second-penis-on-his-back.html" title="Baby Born with Second Penis on His Back">Baby Born with Second Penis on His Back</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/09/magician-chainsaw-accident-the-illusion-becomes-real.html" title="Magician Chainsaw Accident – The illusion becomes REAL!">Magician Chainsaw Accident – The illusion becomes REAL!</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/08/worlds-smallest-origami-by-anja-markiewicz.html" title="World’s Smallest Origami by  Anja Markiewicz">World’s Smallest Origami by  Anja Markiewicz</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/08/gas-station-worker-strangled-in-gas-hose.html" title="Gas Station Worker Strangled in Gas Hose">Gas Station Worker Strangled in Gas Hose</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/07/the-gold-car-audy-r8.html" title="The Gold Car Audi R8">The Gold Car Audi R8</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/06/shampoo-prank.html" title="Shampoo Prank">Shampoo Prank</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/04/amazing-castle-from-around-the-world.html" title="Amazing Castle from Around The World">Amazing Castle from Around The World</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/04/beer-pong.html" title="Beer Pong">Beer Pong</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/03/books-of-art-by-isaac-salazar.html" title="Books of Art by Isaac Salazar">Books of Art by Isaac Salazar</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/03/new-species-discovered.html" title="New Species Discovered">New Species Discovered</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/03/how-not-to-put-a-boat-in-the-sea.html" title="How NOT To Put A Boat In The Sea">How NOT To Put A Boat In The Sea</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/03/creative-barcode-designs.html" title="Creative Barcode Designs">Creative Barcode Designs</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/03/stupid-robbery.html" title="Stupid Robbery">Stupid Robbery</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/02/bent-objects.html" title="Bent Objects">Bent Objects</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/02/girl-falls-into-mall-fountain-while-texting.html" title="Girl Falls Into Mall Fountain While Texting">Girl Falls Into Mall Fountain While Texting</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/01/strangest-things-at-atms.html" title="Strangest Things at ATMs">Strangest Things at ATMs</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/01/how-to-teach-your-baby-to-swim.html" title="How To Teach Your Baby To Swim">How To Teach Your Baby To Swim</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/01/madagascar-stone-forest.html" title="Madagascar Stone Forest">Madagascar Stone Forest</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/01/blonde-in-a-library.html" title="Blonde in a Library">Blonde in a Library</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/01/steven-cloak-survives-after-forehead-removed-by-surgeons.html" title="Steven Cloak Survives After Forehead Removed by Surgeons">Steven Cloak Survives After Forehead Removed by Surgeons</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/01/caravan-with-balcony.html" title="Caravan with Balcony">Caravan with Balcony</a></li>
 		</ul>
 		
 	</div>
@@ -498,26 +292,27 @@ input#subscribe
 			<div class="t2 tab-content">
 
 			<ul class="random">
-										<li><a href="http://www.myinterestingfiles.com/2008/11/how-to-tackle-roommate-who-snores.html" title="How To Tackle Roommate Who Snores">How To Tackle Roommate Who Snores</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2008/12/japan-underground-bicycle-parking.html" title="Japan Underground Bicycle Parking">Japan Underground Bicycle Parking</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2007/03/nokia-aeon.html" title="Nokia Aeon">Nokia Aeon</a></li>
+										<li><a href="http://www.myinterestingfiles.com/2008/09/mind-blowing-photos-from-national-geographic.html" title="Mind Blowing Photos from National Geographic">Mind Blowing Photos from National Geographic</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/04/top-9-unique-structures.html" title="Top 9 Unique Structures">Top 9 Unique Structures</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2009/01/cat-with-cerebellar-hypoplasia.html" title="Cat with Cerebellar Hypoplasia">Cat with Cerebellar Hypoplasia</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/04/is-china-really-ready-for-the-2008-olympics.html" title="Is China really ready for the 2008 Olympics?">Is China really ready for the 2008 Olympics?</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2011/09/magician-chainsaw-accident-the-illusion-becomes-real.html" title="Magician Chainsaw Accident – The illusion becomes REAL!">Magician Chainsaw Accident – The illusion becomes REAL!</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/02/woman-drivers-award.html" title="Woman Drivers Award">Woman Drivers Award</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/02/affair.html" title="Affair">Affair</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2007/04/unusual-buildings.html" title="Unusual Buildings">Unusual Buildings</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/04/creative-gardening.html" title="Creative Gardening">Creative Gardening</a></li>
 							<li><a href="http://www.myinterestingfiles.com/2007/08/will-you-marry-me.html" title="Will You Marry Me?">Will You Marry Me?</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2007/08/parking-garage.html" title="Parking Garage">Parking Garage</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2007/11/does-america-want-a-female-president.html" title="Does America Want A Female President ?!">Does America Want A Female President ?!</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2007/06/wonderful-art-of-paper.html" title="Wonderful Art Of Paper">Wonderful Art Of Paper</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2007/05/vegetable-carving.html" title="Vegetable Carving">Vegetable Carving</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2008/01/watch-your-kids-on-the-escalator.html" title="Watch Your Kids On The Escalator">Watch Your Kids On The Escalator</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2010/02/underwater-river-in-cenote-angelita-mexico.html" title="Underwater River in Cenote Angelita, Mexico">Underwater River in Cenote Angelita, Mexico</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2008/05/smallest-girl-in-the-world.html" title="Smallest Girl In The World">Smallest Girl In The World</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2008/10/mobile-internet-search.html" title="Mobile Internet Search">Mobile Internet Search</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2008/04/recent-photos-of-faith.html" title="Recent photos of Faith">Recent photos of Faith</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2007/08/in-china-everything-is-possible.html" title="In China Everything Is Possible">In China Everything Is Possible</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2009/04/maid-abused-3-years-old-little-girl.html" title="Maid Abused 3 Years Old Little Girl">Maid Abused 3 Years Old Little Girl</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2008/10/invisible-water-effect.html" title="Invisible Water Effect">Invisible Water Effect</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2007/11/transformer-market-place.html" title="Transformer Market Place">Transformer Market Place</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2007/07/cute-lovers.html" title="Cute Lovers">Cute Lovers</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2007/11/the-axe-effect.html" title="The AXE Effect">The AXE Effect</a></li>
-							<li><a href="http://www.myinterestingfiles.com/2007/03/mommys-good-girl.html" title="Mommy’s Good GirL">Mommy’s Good GirL</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2007/11/an-atheist-in-the-wood.html" title="An Atheist In The Wood">An Atheist In The Wood</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/02/when-dad-is-a-graphic-designer.html" title="When Dad is a Graphic Designer">When Dad is a Graphic Designer</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2009/09/the-power-of-twitter-made-a-famous-director-showed-up-naked-in-circle-k.html" title="The Power of Twitter Made A Famous Director Showed Up Naked in Circle K">The Power of Twitter Made A Famous Director Showed Up Naked in Circle K</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2010/06/20000-dog-house.html" title="$20,000 Dog House">$20,000 Dog House</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/10/german-tech-parking.html" title="German Tech Parking">German Tech Parking</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/04/new-eye-shadows.html" title="New Eye Shadows">New Eye Shadows</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/07/the-wave-budweiser-commercial.html" title="The Wave – Budweiser Commercial">The Wave – Budweiser Commercial</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/01/cool-ads.html" title="Cool Ads">Cool Ads</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/08/pot-business.html" title="Pot Business">Pot Business</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2008/10/a-true-love-story-of-a-bird.html" title="A True Love Story Of A Bird">A True Love Story Of A Bird</a></li>
+							<li><a href="http://www.myinterestingfiles.com/2007/10/ripleys-believe-it-or-not.html" title="Ripley’s Believe it or not">Ripley’s Believe it or not</a></li>
 					</ul>
 				
 	</div>
@@ -525,7 +320,9 @@ input#subscribe
 			<div class="t3 tab-content">
 
 			<ul class="categories">
-				<li class="cat-item cat-item-9"><a href="http://www.myinterestingfiles.com/category/ads" title="View all posts filed under Ads">Ads</a>
+				<li class="cat-item cat-item-187"><a href="http://www.myinterestingfiles.com/category/accident" title="View all posts filed under Accident">Accident</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.myinterestingfiles.com/category/ads" title="View all posts filed under Ads">Ads</a>
 </li>
 	<li class="cat-item cat-item-25"><a href="http://www.myinterestingfiles.com/category/amazing" title="View all posts filed under Amazing">Amazing</a>
 </li>
@@ -560,6 +357,8 @@ input#subscribe
 	<li class="cat-item cat-item-312"><a href="http://www.myinterestingfiles.com/category/engineering" title="View all posts filed under Engineering">Engineering</a>
 </li>
 	<li class="cat-item cat-item-704"><a href="http://www.myinterestingfiles.com/category/event" title="View all posts filed under Event">Event</a>
+</li>
+	<li class="cat-item cat-item-1040"><a href="http://www.myinterestingfiles.com/category/failed" title="View all posts filed under Failed">Failed</a>
 </li>
 	<li class="cat-item cat-item-32"><a href="http://www.myinterestingfiles.com/category/fashion" title="View all posts filed under Fashion">Fashion</a>
 </li>
@@ -597,6 +396,8 @@ input#subscribe
 </li>
 	<li class="cat-item cat-item-22"><a href="http://www.myinterestingfiles.com/category/places" title="View all posts filed under Places">Places</a>
 </li>
+	<li class="cat-item cat-item-1004"><a href="http://www.myinterestingfiles.com/category/plant" title="View all posts filed under Plant">Plant</a>
+</li>
 	<li class="cat-item cat-item-46"><a href="http://www.myinterestingfiles.com/category/prank" title="View all posts filed under Prank">Prank</a>
 </li>
 	<li class="cat-item cat-item-24"><a href="http://www.myinterestingfiles.com/category/science" title="View all posts filed under Science">Science</a>
@@ -626,7 +427,19 @@ input#subscribe
 			<div class="t4 tab-content">
 
 			<ul class="archives">
-				<li><a href="http://www.myinterestingfiles.com/2010/08" title="August 2010">August 2010</a></li>
+				<li><a href="http://www.myinterestingfiles.com/2011/11" title="November 2011">November 2011</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/09" title="September 2011">September 2011</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/08" title="August 2011">August 2011</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/07" title="July 2011">July 2011</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/06" title="June 2011">June 2011</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/04" title="April 2011">April 2011</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/03" title="March 2011">March 2011</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/02" title="February 2011">February 2011</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2011/01" title="January 2011">January 2011</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2010/11" title="November 2010">November 2010</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2010/10" title="October 2010">October 2010</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2010/09" title="September 2010">September 2010</a></li>
+	<li><a href="http://www.myinterestingfiles.com/2010/08" title="August 2010">August 2010</a></li>
 	<li><a href="http://www.myinterestingfiles.com/2010/07" title="July 2010">July 2010</a></li>
 	<li><a href="http://www.myinterestingfiles.com/2010/06" title="June 2010">June 2010</a></li>
 	<li><a href="http://www.myinterestingfiles.com/2010/05" title="May 2010">May 2010</a></li>
@@ -686,54 +499,72 @@ input#subscribe
 		
 					<div class="v1 video-sidebar">
 				
-		<object class="left" type="application/x-shockwave-flash" data="http://www.youtube.com/v/Gc4HGQHgeFE" width="298" height="250">
-			<param name="movie" value="http://www.youtube.com/v/Gc4HGQHgeFE">
+		<object class="left" type="application/x-shockwave-flash" data="http://www.youtube.com/v/Iw69ZRp77k8?version=3" width="298" height="250">
+			<param name="movie" value="http://www.youtube.com/v/Iw69ZRp77k8?version=3">
 			<param name="wmode" value="transparent">
 		</object>			</div>
 			<h3 class="post-title">
-				<a href="http://www.myinterestingfiles.com/2010/08/inspiration-by-nick-vujicic.html" title="Inspiration by Nick Vujicic">Inspiration by Nick Vujicic</a>
+				<a href="http://www.myinterestingfiles.com/2011/09/magician-chainsaw-accident-the-illusion-becomes-real.html" title="Magician Chainsaw Accident – The illusion becomes REAL!">Magician Chainsaw Accident – The illusion becomes REAL!</a>
 			</h3>
 		
 		</div>
-<div class="menu"><h2 class="section-header">		<a href="http://www.myinterestingfiles.com/2010/08/paper-fold-art.html" title="Paper Fold Art">Paper Fold Art</a>
+<div class="menu"><h2 class="section-header">		<a href="http://www.myinterestingfiles.com/2011/11/baby-born-with-second-penis-on-his-back.html" title="Baby Born with Second Penis on His Back">Baby Born with Second Penis on His Back</a>
 	</h2><div class="gallery-stream">
-<a href="http://www.myinterestingfiles.com/2010/08/paper-fold-art.html/paper_fold_art_1" title="Paper Fold Art"><img width="150" height="150" src="http://www.myinterestingfiles.com/images/2010/08/paper_fold_art_1-150x150.jpg" class="attachment-thumbnail" alt="" title="Paper Fold Art"></a><a href="http://www.myinterestingfiles.com/2010/08/paper-fold-art.html/paper_fold_art_2" title="Paper Fold Art"><img width="150" height="150" src="http://www.myinterestingfiles.com/images/2010/08/paper_fold_art_2-150x150.jpg" class="attachment-thumbnail" alt="" title="Paper Fold Art"></a><a href="http://www.myinterestingfiles.com/2010/08/paper-fold-art.html/paper_fold_art_3" title="Paper Fold Art"><img width="150" height="150" src="http://www.myinterestingfiles.com/images/2010/08/paper_fold_art_3-150x150.jpg" class="attachment-thumbnail" alt="" title="Paper Fold Art"></a><a href="http://www.myinterestingfiles.com/2010/08/paper-fold-art.html/paper_fold_art_4" title="Paper Fold Art"><img width="150" height="150" src="http://www.myinterestingfiles.com/images/2010/08/paper_fold_art_4-150x150.jpg" class="attachment-thumbnail" alt="" title="Paper Fold Art"></a><a href="http://www.myinterestingfiles.com/2010/08/paper-fold-art.html/paper_fold_art_5" title="Paper Fold Art"><img width="150" height="150" src="http://www.myinterestingfiles.com/images/2010/08/paper_fold_art_5-150x150.jpg" class="attachment-thumbnail" alt="" title="Paper Fold Art"></a><a href="http://www.myinterestingfiles.com/2010/08/paper-fold-art.html/paper_fold_art_6" title="Paper Fold Art"><img width="150" height="150" src="http://www.myinterestingfiles.com/images/2010/08/paper_fold_art_6-150x150.jpg" class="attachment-thumbnail" alt="" title="Paper Fold Art"></a></div>
+<a href="http://www.myinterestingfiles.com/2011/11/baby-born-with-second-penis-on-his-back.html/baby-born-with-penis-on-his-back" title="Baby Born with Penis on His Back"><img width="150" height="150" src="http://www.myinterestingfiles.com/images/2011/11/baby-born-with-penis-on-his-back-150x150.jpg" class="attachment-thumbnail" alt="Baby Born with Penis on His Back" title="Baby Born with Penis on His Back"></a></div>
 </div><div class="menu">			<div class="textwidget"><center>
 <!--EntreCard-->
 <script src="http://entrecard.s3.amazonaws.com/widget.js?user_id=645&amp;type=standard_250" type="text/javascript" id="ecard_widget"></script>
 </center></div>
 		</div><div class="menu">			<div class="textwidget"><center>
-<!--Adsense Sidebar Image-->
-<script type="text/javascript"><!--
-google_ad_client = "pub-6083794698191823";
-/* mif image sidebar 300x250, created 8/13/08 */
-google_ad_slot = "9107949586";
-google_ad_width = 300;
-google_ad_height = 250;
-//-->
+<!--Adbrite Sidebar-->
+<!-- Begin: adBrite, Generated: 2011-08-10 6:21:44  -->
+<script type="text/javascript">
+var AdBrite_Title_Color = '660000';
+var AdBrite_Text_Color = '000000';
+var AdBrite_Background_Color = 'FFFFFF';
+var AdBrite_Border_Color = 'CCCCCC';
+var AdBrite_URL_Color = '7F0202';
+try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=1989342&zs=3330305f323530&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=1989342&amp;zs=3330305f323530&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111204042559id_%2Fhttp%253A%2F%2Fwww.myinterestingfiles.com%2Fprivacy-policy" type="text/javascript"></script>
+<div><a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1989342&amp;afsid=1" style="font-weight:bold;font-family:Arial;font-size:13px;">Your Ad Here</a></div>
+<!-- End: adBrite -->
+</center></div>
+		</div><div class="menu"><h2 class="section-header">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments">Fullraph on <a href="http://www.myinterestingfiles.com/2010/09/6-million-home-theater.html#comment-58007">$6 Million Home Theater</a></li><li class="recentcomments"><a href="http://flooringrexburgid.com" rel="external nofollow" class="url">Vienna</a> on <a href="http://www.myinterestingfiles.com/2011/09/magician-chainsaw-accident-the-illusion-becomes-real.html#comment-57969">Magician Chainsaw Accident – The illusion becomes REAL!</a></li><li class="recentcomments"><a href="http://woodworkingprojectsblog.org/" rel="external nofollow" class="url">Joe Anderson</a> on <a href="http://www.myinterestingfiles.com/2011/11/baby-born-with-second-penis-on-his-back.html#comment-57931">Baby Born with Second Penis on His Back</a></li><li class="recentcomments"><a href="http://www.iloveilikecheese.blogspot.com" rel="external nofollow" class="url">Doug Stephens</a> on <a href="http://www.myinterestingfiles.com/2010/11/a-baby-born-with-facial-cleft-in-china.html#comment-57924">A Baby Born with Facial Cleft in China</a></li><li class="recentcomments">Timothy Smith on <a href="http://www.myinterestingfiles.com/2008/04/1-year-old-child-is-pregnant.html#comment-57923">1 Year Old Child is Pregnant</a></li><li class="recentcomments">Justfer on <a href="http://www.myinterestingfiles.com/2008/09/the-new-titanic.html#comment-57918">The New Titanic</a></li><li class="recentcomments"><a href="http://www.doleluxurycarservices.com" rel="external nofollow" class="url">Alesha</a> on <a href="http://www.myinterestingfiles.com/2011/08/gas-station-worker-strangled-in-gas-hose.html#comment-57917">Gas Station Worker Strangled in Gas Hose</a></li><li class="recentcomments"><a href="http://google" rel="external nofollow" class="url">sucharith</a> on <a href="http://www.myinterestingfiles.com/2007/04/world-largest-liger.html#comment-57913">World Largest Liger</a></li><li class="recentcomments">Kiya on <a href="http://www.myinterestingfiles.com/2008/04/1-year-old-child-is-pregnant.html#comment-57903">1 Year Old Child is Pregnant</a></li><li class="recentcomments"><a href="http://www.homefrontcharm.com" rel="external nofollow" class="url">Daniel</a> on <a href="http://www.myinterestingfiles.com/2011/03/stupid-robbery.html#comment-57902">Stupid Robbery</a></li><li class="recentcomments"><a href="http://www.robertjturner.com/mammatus-clouds-rare-beautiful/" rel="external nofollow" class="url">Mammatus Clouds, Rare &amp; Beautiful | Robert J Turner</a> on <a href="http://www.myinterestingfiles.com/2007/12/mammatus-clouds-rare-beautiful.html#comment-57871">Mammatus Clouds, Rare &amp; Beautiful</a></li><li class="recentcomments">Jim on <a href="http://www.myinterestingfiles.com/2009/02/10-physically-modified-people.html#comment-57869">10 Physically Modified People</a></li><li class="recentcomments"><a href="http://www.rfpssuckthebook.com" rel="external nofollow" class="url">Chita</a> on <a href="http://www.myinterestingfiles.com/2011/11/baby-born-with-second-penis-on-his-back.html#comment-57862">Baby Born with Second Penis on His Back</a></li><li class="recentcomments">Anon on <a href="http://www.myinterestingfiles.com/2008/10/the-penis-restaurant.html#comment-57860">The Penis Restaurant</a></li><li class="recentcomments">nai on <a href="http://www.myinterestingfiles.com/2007/05/unforgettable-photos.html#comment-57858">Unforgettable Photos</a></li></ul></div><div class="menu"><h2 class="section-header">Twitter</h2>			<div class="textwidget"><center>
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 18,
+  interval: 6000,
+  width: 280,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#ffffff',
+      color: '#000000'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#9d0000'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('interestingfile').start();
 </script>
 </center></div>
-		</div>		<div class="menu">			<h2 class="section-header">Recent Comments</h2>			<ul id="recentcomments"><li class="recentcomments">Tom on <a href="http://www.myinterestingfiles.com/2007/08/beautiful-dog-named-faith.html#comment-52340">Beautiful Dog Named Faith</a></li><li class="recentcomments"><a href="http://www.astronomylasers.com/" rel="external nofollow" class="url">alex bony</a> on <a href="http://www.myinterestingfiles.com/2007/12/clever-inventions.html#comment-52331">Clever Inventions</a></li><li class="recentcomments"><a href="http://www.imadethisinc.com" rel="external nofollow" class="url">Jim</a> on <a href="http://www.myinterestingfiles.com/2008/02/when-dad-is-a-graphic-designer.html#comment-52327">When Dad is a Graphic Designer</a></li><li class="recentcomments">sammy chege on <a href="http://www.myinterestingfiles.com/2007/04/top-10-most-expensive-mobile-phones.html#comment-52323">Top 10 Most Expensive Mobile Phones</a></li><li class="recentcomments">Bruce on <a href="http://www.myinterestingfiles.com/2008/08/devils-swimming-pool.html#comment-52316">Devil’s Swimming Pool</a></li><li class="recentcomments"><a href="http://www.mamarazzi.wordpress.com" rel="external nofollow" class="url">Christy aka Mamarazzi</a> on <a href="http://www.myinterestingfiles.com/2010/06/20000-dog-house.html#comment-52315">$20,000 Dog House</a></li><li class="recentcomments"><a href="http://pinkycharm.blogspot.com" rel="external nofollow" class="url">charmie</a> on <a href="http://www.myinterestingfiles.com/2010/08/inspiration-by-nick-vujicic.html#comment-52313">Inspiration by Nick Vujicic</a></li><li class="recentcomments"><a href="http://ibagensdaweb.wordpress.com/2010/08/07/a-piscina-de-natacao-mais-profunda-do-mundo/" rel="external nofollow" class="url">A piscina de natação mais profunda do mundo « Ibagens da Web</a> on <a href="http://www.myinterestingfiles.com/2008/08/the-deepest-swimming-pool-in-the-world.html#comment-52310">The Deepest Swimming Pool in The World</a></li><li class="recentcomments"><a href="http://www.myinterestingfiles.com" rel="external nofollow" class="url">Dunn</a> on <a href="http://www.myinterestingfiles.com/2008/08/the-deepest-swimming-pool-in-the-world.html#comment-52306">The Deepest Swimming Pool in The World</a></li></ul>
 		</div><div class="menu">			<div class="textwidget"><center>
-<!--TWITTER WIDGET-->
-<script type="text/javascript" language="JavaScript" src="http://twittercounter.com/remote/?username_owner=interestingfile&amp;users_id=283987&amp;width=250&amp;nr_show=6&amp;hr_color=cccccc&amp;a_color=709cb2&amp;bg_color=ffffff"></script>
-<br>
-<!--MYBLOGLOG WIDGET-->
-<script type="text/javascript" src="http://pub.mybloglog.com/comm2.php?mblID=2007031510354008&amp;c_width=280&amp;c_sn_opt=n&amp;c_rows=3&amp;c_img_size=f&amp;c_heading_text=Recent+Readers&amp;c_color_heading_bg=FFFFFF&amp;c_color_heading=333333&amp;c_color_link_bg=FFFFFF&amp;c_color_link=333333&amp;c_color_bottom_bg=FFFFFF"></script>
-<br>
-<!--BLOG CATALOG WIDGET-->
-<script type="text/javascript" src="http://www.blogcatalog.com/w/recent.php?id=4269835&amp;width=290&amp;rows=3&amp;bgcolor=EEEEEE&amp;bcolor=FFFFFF&amp;lcolor=333333&amp;hcolor=333333&amp;htext=Recent%20Viewers&amp;name=1&amp;img=l"></script>
-<br>
-<table>
-<tbody><tr>
-<!--FUEL MY BLOG-->
-<td><div> <a href="http://www.fuelmyblog.com/?c=/pages/vote.jsp?vt=fuel&amp;id=1646"><img src="http://www.fuelmyblog.com/assets/files/0/20070628151023827_4512.png" border="0"></a> </div></td>
-<!--SPICY PAGE-->
-<td><a href="http://www.spicypage.com/search.cfm?section=search&amp;segment=site&amp;site_id=2674"><img border="0" src="http://www.myinterestingfiles.com/images/spicypage.gif"></a></td>
-</tr>
-</tbody></table>
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fmyinterestingfiles&amp;width=292&amp;connections=1&amp;stream=false&amp;header=false&amp;height=110" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:110px;" allowtransparency="true"></iframe>
 </center></div>
 		</div><div class="menu">			<div class="textwidget"><center>
 <table>
@@ -766,6 +597,19 @@ src="http://e2.extreme-dm.com/s11.g?login=mifdunn&amp;j=n&amp;jv=n" />
 
 </tr>
 </tbody></table>
+</center>
+<center>
+<!--Adsense Sidebar Image-->
+<script type="text/javascript"><!--
+google_ad_client = "pub-6083794698191823";
+/* New MIF sidebar 300x250, created 7/21/11 */
+google_ad_slot = "1544947742";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 </center></div>
 		</div>
 		
@@ -777,8 +621,26 @@ src="http://e2.extreme-dm.com/s11.g?login=mifdunn&amp;j=n&amp;jv=n" />
 	<div id="footer">
 
 		<!-- MYBLOGLOG -->
-<script type="text/javascript" src="http://track3.mybloglog.com/js/jsserv.php?mblID=2007031510354008"></script>                
-		<p class="left">Copyright © 2010 <a href="http://www.myinterestingfiles.com" title="My Interesting Files">My Interesting Files</a>. Powered by <a class="wp-icon" href="http://wordpress.org" title="Powered by WordPress, state-of-the-art semantic personal publishing platform"><span>WordPress</span></a>.</p><p class="right credit"><a class="credit" href="http://themehybrid.com/themes/options" title="Options Theme"><span>Options Theme</span></a> by <a href="http://justintadlock.com" title="Justin Tadlock"> Justin Tadlock</a></p><!-- Hybrid -->
+<script type="text/javascript" src="http://track3.mybloglog.com/js/jsserv.php?mblID=2007031510354008"></script>
+			<!-- Kontera ContentLink -->
+    <script type="text/javascript">
+	var dc_UnitID = 14;
+	var dc_PublisherID = 40363;
+	var dc_AdLinkColor = '#960000';
+	var dc_isBoldActive = 'no';
+	var dc_open_new_win = 'yes';
+	var dc_adprod='ADL';
+    </script>
+    <script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js"></script>
+    <!-- Kontera ContentLink -->
+    <p class="left">Copyright © 2011 <a href="http://www.myinterestingfiles.com" title="My Interesting Files">My Interesting Files</a>. Powered by <a class="wp-icon" href="http://wordpress.org" title="Powered by WordPress, state-of-the-art semantic personal publishing platform"><span>WordPress</span></a>.</p><p class="right credit"><a class="credit" href="http://themehybrid.com/themes/options" title="Options Theme"><span>Options Theme</span></a> by <a href="http://justintadlock.com" title="Justin Tadlock"> Justin Tadlock</a></p><!-- Hybrid --><!--stats_footer_test--><script src="http://stats.wordpress.com/e-201148.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'18861159',v:'ext',post:'396'});
+var load_cmc = function(){linktracker_init(18861159,396,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+
 	</div>
 
 </div>
