@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameteam.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522202940id_/http%3A//www.gameteam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameteam.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204043426id_/http%3A//www.gameteam.com/privacy.html) for the most accurate reproduction.*
 
 # MEDIA CONTACT LLC WEB SITE PRIVACY STATEMENT
 
