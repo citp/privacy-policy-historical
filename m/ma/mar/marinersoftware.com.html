@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the marinersoftware.com privacy policy that was archived on 2011-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606073227id_/http%3A//www.marinersoftware.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marinersoftware.com privacy policy that was archived on 2011-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111204204402id_/http%3A//www.marinersoftware.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 	<meta charset="UTF-8">
 	<meta name="Description" content="Mariner Software, Mac, iOS, and Windows Software.">
 	<title>
 	Privacy Policy | Mariner Software	</title>
-	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<!-- iCbL3t1xbkxw7uLbh9sp_UUsIYk -->
+	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<link rel="stylesheet" type="text/css" media="all" href="http://www.marinersoftware.com/wp-content/themes/thirdstreet/style.css">
 	<link rel="pingback" href="http://www.marinersoftware.com/xmlrpc.php">
-	<link href="http://fonts.googleapis.com/css?family=Cabin:regular,regularitalic,bold,bolditalic" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Cabin:regular,regularitalic,bold,bolditalic" rel="stylesheet" type="text/css">
 
 	<!-- Begin jQuery Scripts -->
 	<script src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/js/jquery-1.4.2.min.js" type="text/javascript" charset="utf-8"></script>
@@ -19,12 +20,16 @@
 	<script src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/js/jquery.validate.min.js" type="text/javascript" charset="utf-8"></script>
 	<script src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/js/jqModal.js" type="text/javascript" charset="utf-8"></script>
 	<script src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/js/jquery-ui.js" type="text/javascript" charset="utf-8"></script>
+	<script src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/js/showHide.js" type="text/javascript" charset="utf-8"></script>
+	
+	<script type="text/javascript" src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/js/orangebox.min.js"></script>
+	<link rel="stylesheet" href="http://www.marinersoftware.com/wp-content/themes/thirdstreet/css/orangebox.css" type="text/css">
 	
 	<script src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
-	<link rel="stylesheet" href="http://www.marinersoftware.com/wp-content/themes/thirdstreet/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
+	<link rel="stylesheet" href="https://www.marinersoftware.com/wp-content/themes/thirdstreet/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
 	<!-- End jQuery Scripts -->
 	<!-- jqModal CSS -->
-	<link rel="stylesheet" type="text/css" href="http://www.marinersoftware.com/wp-content/themes/thirdstreet/css/jqModal.css">
+	<link rel="stylesheet" type="text/css" href="https://www.marinersoftware.com/wp-content/themes/thirdstreet/css/jqModal.css">
 
 	<!-- End jqModal CSS -->		
 	<!-- Begin Press Loader -->
@@ -34,12 +39,13 @@
 			$("h2 a").click(function(){
 				var post_id = $(this).attr("rel")
 			$("#your_post_here").html("Loading...");
-			$("#your_post_here").load("http://www.marinersoftware.com/press-loader/",{id:post_id});
+			$("#your_post_here").load("https://www.marinersoftware.com/press-loader/",{id:post_id});
 				return false;
 			});
 		});
 	</script>
 	<!-- End Press Loader -->
+
 	
 	<script type="text/javascript">
 	$(document).ready(function(){
@@ -148,7 +154,46 @@
 
       $(document).ready(page.init);    
     </script>	 
-       
+    
+    <script type="text/javascript">
+$(document).ready(function(){
+
+   $('.show_hide').showHide({
+		speed: 1000,  // speed you want the toggle to happen
+		changeText: 0, // if you dont want the button text to change, set this to 0
+	});
+
+});
+</script>
+    
+       <script>
+// This script sets OSName variable as follows:
+// "Windows"    for all versions of Windows
+// "MacOS"      for all versions of Macintosh OS
+// "Linux"      for all versions of Linux
+// "UNIX"       for all other UNIX flavors 
+// "Unknown OS" indicates failure to detect the OS
+
+var OSName="Unknown OS";
+if (navigator.appVersion.indexOf("Win")!=-1) OSName="Windows";
+if (navigator.appVersion.indexOf("Mac")!=-1) OSName="MacOS";
+if (navigator.appVersion.indexOf("X11")!=-1) OSName="UNIX";
+if (navigator.appVersion.indexOf("Linux")!=-1) OSName="Linux";
+
+function togglelink(){
+	if (OSName=='Windows'){
+		//show
+	    document.getElementById("WinImage").style.display='';
+	    document.getElementById("MacImage").style.display='none';
+	}
+	else{
+		//show
+	    document.getElementById("MacImage").style.display='';
+	    document.getElementById("WinImage").style.display='none';
+	}
+}
+
+</script>
 		<link rel="alternate" type="application/rss+xml" title="Mariner Software » Feed" href="http://www.marinersoftware.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Mariner Software » Comments Feed" href="http://www.marinersoftware.com/comments/feed/">
 <script type="text/javascript" src="http://www.marinersoftware.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
@@ -162,42 +207,44 @@
 <link rel="canonical" href="http://www.marinersoftware.com/about/privacy/">
 </head>
 
-<body class="page page-id-52 page-child parent-pageid-39 page-template page-template-pg-about-php">
+<body class="page page-id-52 page-child parent-pageid-39 page-template page-template-pg-about-php" onload="togglelink();">
 <div id="pageflip">
-	<a href="http://www.marinersoftware.com/special-offers">
-		<img src="http://www.marinersoftware.com/media/images/page_flip.png" alt="">
+	<a href="https://www.marinersoftware.com/special-offers">
+		<img src="https://www.marinersoftware.com/media/images/page_flip.png" alt="">
 		<span class="msg_block">Subscribe to Special Offers</span>
 	</a>
 </div>
 <div id="wrapper">
+
 	<div id="header">
-		<a href="http://www.marinersoftware.com/"><img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/site-marinerlogo.png" alt="Mariner Software" width="300" height="91" class="imglogo"></a>
+		<a href="https://www.marinersoftware.com/"><img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/site-marinerlogo.png" alt="Mariner Software" width="300" height="91" class="imglogo"></a>
 		<div class="socialbox">
-			<a href="http://facebook.com/marinersoftware" target="_blank"><img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/social/social-facebook.png" width="25" height="25"></a>
-			<a href="http://twitter.com/marinersoftware" target="_blank"><img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/social/social-twitter.png" width="25" height="25"></a>
-			<a href="http://itunes.apple.com/us/artist/mariner-software/id305946857" target="_blank"><img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/social/social-apple.png" width="25" height="25"></a>
-			<a href="http://writerspub.com" target="_blank"><img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/social/social-writerspub.png" width="25" height="25"></a><br>
-			<img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/site-tagline.png" alt="Mariner - people who love everything Apple." width="238" height="51">
+			<a href="https://facebook.com/marinersoftware" target="_blank"><img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/social/social-facebook.png" width="25" height="25"></a>
+			<a href="https://twitter.com/marinersoftware" target="_blank"><img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/social/social-twitter.png" width="25" height="25"></a>
+			<a href="https://itunes.apple.com/us/artist/mariner-software/id305946857" target="_blank"><img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/social/social-apple.png" width="25" height="25"></a>
+			<a href="https://writerspub.com" target="_blank"><img src="http://www.marinersoftware.com/wp-content/themes/thirdstreet/images/site/social/social-writerspub.png" width="25" height="25"></a><br>
+			<div id="MacImage" style=""><img src="https://www.marinersoftware.com/media/images/website/website-tagline-mac.png" alt="Mariner - people who love everything Apple." width="238" height="51"></div>
+			<div id="WinImage" style="display:none;"><img src="https://www.marinersoftware.com/media/images/website/website-tagline-win.png" alt="Mariner - discover your world." width="238" height="51"></div>
 		</div>
 		
-		
+
 		<div id="access" role="navigation">
 			<div class="menu-header"><ul id="menu-main-navigation" class="menu"><li id="menu-item-657" class="menu-item menu-item-type-post_type menu-item-657"><a href="http://www.marinersoftware.com/"><img src="https://www.marinersoftware.com/media/images/menu-home.png" width="16" height="16" alt="Home"></a></li>
 <li id="menu-item-601" class="menu-item menu-item-type-post_type current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-601"><a title="About" href="http://www.marinersoftware.com/about/">About <img src="http://marinersoftware.com/media/images/site/downarrow.png"></a>
 <ul class="sub-menu">
 	<li id="menu-item-604" class="menu-item menu-item-type-post_type current-page-ancestor current-page-parent menu-item-604"><a href="http://www.marinersoftware.com/about/">About Us</a></li>
-	<li id="menu-item-828" class="menu-item menu-item-type-post_type menu-item-828"><a href="http://www.marinersoftware.com/about/contact/">Contact Us</a></li>
+	<li id="menu-item-3256" class="menu-item menu-item-type-custom menu-item-3256"><a href="http://marinersoftware.corphelp.com/newticket.php">Contact Us</a></li>
 	<li id="menu-item-1938" class="menu-item menu-item-type-post_type menu-item-1938"><a href="http://www.marinersoftware.com/about/management/">Management Team</a></li>
 	<li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-654"><a href="http://www.marinersoftware.com/about/ideas/">Submit Product Idea</a></li>
 	<li id="menu-item-603" class="menu-item menu-item-type-post_type current-menu-item page_item page-item-52 current_page_item menu-item-603"><a href="http://www.marinersoftware.com/about/privacy/">Privacy Policy</a></li>
 </ul>
 </li>
 <li id="menu-item-1968" class="menu-item menu-item-type-post_type menu-item-1968"><a href="http://www.marinersoftware.com/blog/">Blog</a></li>
-<li id="menu-item-650" class="menu-item menu-item-type-post_type menu-item-650"><a href="http://www.marinersoftware.com/press/">Press</a></li>
+<li id="menu-item-3973" class="menu-item menu-item-type-custom menu-item-3973"><a href="https://www.marinersoftware.com/press/">Press</a></li>
 <li id="menu-item-651" class="menu-item menu-item-type-post_type menu-item-651"><a href="http://www.marinersoftware.com/products/">Products <img src="https://marinersoftware.com/media/images/site/downarrow.png"></a>
 <ul class="sub-menu">
 	<li id="menu-item-635" class="menu-item menu-item-type-post_type menu-item-635"><a href="http://www.marinersoftware.com/products/contour/">Contour</a></li>
-	<li id="menu-item-636" class="menu-item menu-item-type-post_type menu-item-636"><a href="http://www.marinersoftware.com/products/contouriphone/">Contour for iPhone</a></li>
+	<li id="menu-item-636" class="menu-item menu-item-type-post_type menu-item-636"><a href="http://www.marinersoftware.com/products/contourios/">Contour for iPad/iPhone</a></li>
 	<li id="menu-item-637" class="menu-item menu-item-type-post_type menu-item-637"><a href="http://www.marinersoftware.com/products/desktoppoet/">Desktop Poet</a></li>
 	<li id="menu-item-640" class="menu-item menu-item-type-post_type menu-item-640"><a href="http://www.marinersoftware.com/products/macgourmet/">MacGourmet Deluxe</a></li>
 	<li id="menu-item-641" class="menu-item menu-item-type-post_type menu-item-641"><a href="http://www.marinersoftware.com/products/macjournal/">MacJournal</a></li>
@@ -209,7 +256,8 @@
 	<li id="menu-item-647" class="menu-item menu-item-type-post_type menu-item-647"><a href="http://www.marinersoftware.com/products/marinerwrite/">Mariner Write</a></li>
 	<li id="menu-item-648" class="menu-item menu-item-type-post_type menu-item-648"><a href="http://www.marinersoftware.com/products/montage/">Montage</a></li>
 	<li id="menu-item-1380" class="menu-item menu-item-type-post_type menu-item-1380"><a href="http://www.marinersoftware.com/products/narrator/">Narrator</a></li>
-	<li id="menu-item-649" class="menu-item menu-item-type-post_type menu-item-649"><a href="http://www.marinersoftware.com/products/paperless/">Paperless</a></li>
+	<li id="menu-item-649" class="menu-item menu-item-type-post_type menu-item-649"><a href="http://www.marinersoftware.com/products/paperless/">Paperless for Mac</a></li>
+	<li id="menu-item-3510" class="menu-item menu-item-type-post_type menu-item-3510"><a href="http://www.marinersoftware.com/products/paperless-win/">Paperless for Windows</a></li>
 	<li id="menu-item-653" class="menu-item menu-item-type-post_type menu-item-653"><a href="http://www.marinersoftware.com/products/storymill/">StoryMill</a></li>
 	<li id="menu-item-656" class="menu-item menu-item-type-post_type menu-item-656"><a href="http://www.marinersoftware.com/products/winjournal/">WinJournal</a></li>
 </ul>
@@ -218,9 +266,8 @@
 <li id="menu-item-177" class="menu-item menu-item-type-custom menu-item-177"><a href="http://marinersoftware.com/store">eStore</a></li>
 <li id="menu-item-3154" class="menu-item menu-item-type-custom menu-item-3154"><a href="http://marinersoftware.corphelp.com/">Support <img src="https://marinersoftware.com/media/images/site/downarrow.png"></a>
 <ul class="sub-menu">
-	<li id="menu-item-3155" class="menu-item menu-item-type-custom menu-item-3155"><a href="http://marinersoftware.corphelp.com/">Mariner Support</a></li>
-	<li id="menu-item-3156" class="menu-item menu-item-type-custom menu-item-3156"><a href="http://marinersoftware.corphelp.com/newticket.php">Contact Support</a></li>
-	<li id="menu-item-726" class="menu-item menu-item-type-custom menu-item-726"><a href="http://www.marinersoftware.com/discussions">Support Forum</a></li>
+	<li id="menu-item-3155" class="menu-item menu-item-type-custom menu-item-3155"><a href="http://marinersoftware.corphelp.com/">Support Center</a></li>
+	<li id="menu-item-726" class="menu-item menu-item-type-custom menu-item-726"><a href="http://www.marinersoftware.com/discussions">Community Forums</a></li>
 	<li id="menu-item-727" class="menu-item menu-item-type-custom menu-item-727"><a href="http://marinersoftware.corphelp.com/kb.php">Knowledgebase</a></li>
 	<li id="menu-item-734" class="menu-item menu-item-type-custom menu-item-734"><a href="https://www.marinersoftware.com/store/secure/login.php?m=client_login">View Account Info</a></li>
 	<li id="menu-item-858" class="menu-item menu-item-type-custom menu-item-858"><a href="http://www.marinersoftware.com/store/cart.php?m=account">Register Product</a></li>
@@ -231,7 +278,7 @@
 </ul>
 </li>
 <li id="menu-item-1591" class="menu-item menu-item-type-post_type menu-item-1591"><a href="http://www.marinersoftware.com/retailers/">Retailers</a></li>
-</ul></div>			<div class="accountbar"><a href="http://www.marinersoftware.com/store/cart.php?m=view" class="accountlink">View Cart</a>&nbsp;&nbsp;&nbsp;<a href="https://www.marinersoftware.com/store/secure/account.php" class="accountlink">eStore Account</a></div>
+</ul></div>			<div class="accountbar"><a href="https://www.marinersoftware.com/store/cart.php?m=view" class="accountlink">View Cart</a>&nbsp;&nbsp;&nbsp;<a href="https://www.marinersoftware.com/store/secure/account.php" class="accountlink">eStore Account</a></div>
 		</div>
 	</div>
 
@@ -239,7 +286,7 @@
 	<div id="subnav">
 		<ul>
 			<li><a href="http://www.marinersoftware.com/about/">About Us</a></li>
-			<li><a href="http://www.marinersoftware.com/about/contact">Contact Us</a></li>
+			<li><a href="http://marinersoftware.corphelp.com/newticket.php">Contact Us</a></li>
 			<li><a href="http://www.marinersoftware.com/about/betateam/">Join Our Beta Team</a></li>
 			<li><a href="http://www.marinersoftware.com/about/ideas/">Submit Product Idea</a></li>
 			<li><a href="http://www.marinersoftware.com/about/returnpolicy/">Return Policy</a></li>
