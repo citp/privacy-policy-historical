@@ -1,47 +1,84 @@
-> *The following text is extracted and transformed from the opentracker.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612002553id_/http%3A//www.opentracker.net/en/support/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentracker.net privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204083024id_/http%3A//www.opentracker.net/article/how-write-website-privacy-policy) for the most accurate reproduction.*
 
-# opentracker PRIVACY STATEMENT
+# How to write a website Privacy Policy | Opentracker.net
 
-## Your privacy
+###  Summarized overview
 
-Most importantly: we will not sell, trade, give, etc., the statistics that we collect on your site to any third party, without your express permission. The data that we collect is not mined or used for marketing purposes in any way. The data that we collect is used solely for purposes of web metrics and traffic analysis by Opentracker.net. Be assured that safeguarding the contents of your website traffic is our priority.
+In this article you will find information about:
 
-Opentracker.net, is committed to safeguarding your privacy on-line. The following statement sets our privacy policy. For the purposes of this privacy statement "Opentracker.net" shall mean Opentracker.net. This policy may change from time to time so please re-read this policy periodically. 
+  * What a privacy policy is
+  * Why you should have one
+  * Guidelines for creating a policy
+  * A sample privacy policy specific to setting cookies
+  * Link to an automated policy generator
 
-## What we gather from you
 
-Our site collects information in several ways. When you order information, registrations and services from us you are required to complete a client order form. Opentracker.net requests your name, e-mail address, financial information (such as payment details and credit card details) and your contact information ("Customer Information").
 
-As part of our service, Opentracker.net also uses cookies to track your IP address to help identify you and access your account data, to track you, to track traffic patterns and for system administration. A cookie is a small amount of data that is sent to your browser from a web server and is stored on your computer's hard drive.
+###  a Privacy policy is
 
-##  Contact information
+A privacy policy is a document telling visitors to your site what information you collect and what you do with that information.  Very simply: it is a short explanation of what you are doing to observe visitors to your website.
 
-Our site's registration form requires users to give us contact information (like email address) and financial information (like their account or credit card numbers). Contact information is used to get in touch with them when necessary. Financial information collected is used to bill the user for products and services.
+###  Information to include in a Cookie Specific Privacy Policy:
 
-## Third Party Intermediaries
+  1. What cookies are
+  2. What info is collected
+  3. What is done with the information
+  4. How to reject / delete / accept cookies
+  5. Explain there are no harmful technical consequences/risks
 
-Opentracker.net verifies the credit card information given by you through a 3rd party clearing company "PayPal". This clearing company is solely a link in the distribution chain, and do not store, retain, or in any other way use the information they obtain from us.
 
-## Parties to whom we disclose your information
 
-The data that we collect on your site will not be transmitted to a 3rd party without your express permission. Meaning, that we will not, and do not, mine your data for marketing purposes, nor disclose the details of your traffic to a third party, without your express permission.
+###  Two good reasons to develop a privacy policy
 
-Opentracker.net may disclose Customer Information in special cases where Opentracker.net has reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our terms and conditions of use or may be causing injury or interference with our rights, property, our customers or anyone who could be harmed by such activities. We may also disclose Customer Information when we believe, in good faith, that the law requires it and for administrative and other purposes necessary to maintain services and improve our products and services.
+  1. Create a better electronic environment on the internet
+  2. Laws / legislation may pertain to your business
 
-You should also note that the servers hosting our systems are located in a number of different countries including The Netherlands and the United States. This means that the information you provide will be transferred to and hosted on servers in these countries and by submitting the requested information you hereby expressly consent to such transfers. 
 
-## Security
 
-This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. A password must be entered to log in to your account and in order to manage your domain name(s). All personal information is fully encrypted during all transactions. Please note, however, that no data transmission over the Internet is completely secure. As a result, while we endeavour to protect your personal information, we cannot ensure or warrant the security of any information you provide to us and you transmit such information to us at your own risk. Once we receive your transmission we endeavour to ensure the security of your personal information on our systems. Please note that Opentracker.net will never ask for any personal information via email (e.g. marriage status, income, etc.).
+By letting people know what info is collected and what is done with that information, you can create a transparent environment in which people / consumers are more confident. You can eliminate stress and concerns about abuse of personal info.
 
-##  Correct/Update
+Various legislations and legal guidelines, for example in the US and in the UK, are being developed and may affect your website, depending on what information you collect, how you do it, and what you do with it. The European Union has developed similar guidelines that contain a bit too much legal rhetoric to be completely useful.  
+See resource list below for reference websites.
 
-If you wish to correct, update or otherwise modify the information that you have provided to us please visit the Profile section on our web site and correct, update or modify the relevant information.
+###  Formatting an Online Privacy Policy
 
-## Contacting the Web Site
+Your policy should be written in plain readable language. Consider the policy to be a part of your site. Design the policy and publish it like the rest of your site. Design it as if you actually want people to read it. Make it short, friendly & intuitive. It should be easily accessible throughout your site.
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please e-mail [privacy@Opentracker.net](mailto:privacy@Opentracker.net)
+###  A Sample Privacy Policy
 
-## Links
+[www.mysite.com](http://www.mysite.com/ "www.mysite.com") uses [www.opentracker.net](http://www.opentracker.net/) to collect visitor data and analyze traffic on our site. This information helps us understand customer interests and helps us improve our website. When you visit our site, the pages that you look at, and a short text file called a cookie, are downloaded to your computer. A cookie is used to store small amounts of information. This information is collected for traffic analysis only. The cookie does not contain personal details. Depending on the browser that you use, you can set your preferences to block/ refuse cookies, and/ or notify you before they are placed. Opentracker does not sell, give, or trade the statistics they store to any 3rd parties for data-mining or marketing purposes. Please visit [www.opentracker.net](http://www.opentracker.net/pages/support.jsp) for their privacy policy.
 
-This web site contains links to other web sites. Please note that when you click on one of these links, you are 'clicking' to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
+###  Designing your privacy policy
+
+Tell your visitors why tracking cookies are good, why the information is beneficial, that it is used to improve websites and their content. Give an example. If you are collecting information, tell them what you do with that information. Give people an opportunity not to have their info collected, for example by blocking cookies. Explain how people can block cookies. Also explain that cookies are not harmful and cannot introduce viruses or extract personal contact information.
+
+###  Why all the fuss?
+
+There is an important distinction to be made here between cookies and spyware. Spyware collects information about your surfing habits across the internet and sends this information out from your computer. Cookies collect information about your surfing habits only on the site of the provider of the cookie, in other words just on one site.
+
+From our research it appears that most people are concerned that their personal information may be passed on. In this case, there is an important distinction to make between Two Types of Information which are collected:
+
+  1. Personally identifiable info/ personal contact info
+  2. Clickstream/ navigation info
+
+
+
+Specific to concerns about cookies, the information being collected does not contain personally identifiable information. Clickstreams are used to see if people return to the same sites, and identify patterns. 
+
+When databases are combined, for example a membership & login base, with a clickstream tracking system, it is possible to combine personal information, such as an email address, with clickstreams. This is where the main cause for concern seems to lie.
+
+The companies that do this; with the resources to combine clickstreams, past purchases, and personal information, are household names, such as amazon.com, ebay, bbc, yahoo, etc.
+
+###  Further Reading
+
+We also recommend taking a look at the privacy policy of a company or website that you like or respect to see what information they consider to be important.
+
+Here is a privacy policy generator where you can also find information about legislation in the US (specific to California):
+
+<http://www.the-dma.org/privacy/creating.shtml>
+
+Legislation in the UK:
+
+<http://www.aboutcookies.org/howtocomply.asp>
+
+Obviously there is a very real concern for a lot of people that their privacy is being abused. We would like to respond to these concerns, primarily through education, but also by opening up a dialogue on any related questions or ideas. Please feel free to write us, or post feedback on our [forum.](https://web.archive.org/forum)
