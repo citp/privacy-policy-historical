@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urologychannel.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605090004id_/http%3A//www.healthcommunities.com/policies/privacy-statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urologychannel.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204043928id_/http%3A//www.healthcommunities.com/policies/privacy-statement.shtml) for the most accurate reproduction.*
 
-# Privacy Statement - Remedy Health Media and Healthcommunities.com - Healthcommunities.com, Inc.
+# Privacy Statement - Remedy Health Media and HealthCommunities.com Policies - HealthCommunities.com
 
 ## Remedy Health Media Privacy Policy
 
@@ -23,7 +23,7 @@ Remedy Health Media Websites comply with the CAN-SPAM Act of 2003 and include th
   * [**dermatology** channel](http://www.dermatologychannel.net/)
   * [**flu** channel](http://www.fluchannel.com/)
   * [**gi** channel](http://www.gichannel.com/)
-  * [Healthcommunities.com](http://www.healthcommunities.com/)
+  * [HealthCommunities.com](http://www.healthcommunities.com/)
   * [**healthinfo** channel](http://www.healthinfochannel.com/)
   * [**hiv** channel](http://www.hivchannel.com/)
   * [**lgbthealth** channel](http://www.lgbthealthchannel.com/)
@@ -130,10 +130,8 @@ The foregoing statements, terms and conditions contained in this Privacy Policy 
 This Privacy Policy was last modified on September 29, 2009 and is effective immediately.  
 © Copyright 2010 Remedy Health Media. All Rights Reserved.
 
-Physician-developed and -monitored.  
-Original Date of Publication:   
-Reviewed by:   
-Last Reviewed:   
-Last Modified:25 Oct 2010 
+**Publication Review By:**
 
-© 1998-2011 Healthcommunities.com, Inc. All Rights Reserved.
+**Published:**
+
+**Last Modified:** 25 Oct 2010
