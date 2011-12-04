@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getaround.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425200803id_/http%3A//www.getaround.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaround.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204233459id_/http%3A//www.getaround.com/privacy) for the most accurate reproduction.*
 
 # Getaround
 
