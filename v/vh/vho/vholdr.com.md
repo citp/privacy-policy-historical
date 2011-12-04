@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vholdr.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304172332id_/http%3A//contour.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vholdr.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204231517id_/http%3A//contour.com/legal/privacy) for the most accurate reproduction.*
 
-# Contour >> Privacy Policy
+# Contour | Privacy Policy
 
 Effective August 25, 2010 
 
@@ -52,7 +52,7 @@ _Business Transfers._ Contour may sell, transfer or otherwise share some or all 
 
 ## Changing or Deleting Your Information
 
-All members may review, update, correct or delete the Personal Information in their profile by contacting us or by updating the "Settings" and "Profile" areas of the Site. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us at [admin@contour.com](mailto:admin@contour.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
+All members may review, update, correct or delete the Personal Information in their profile by contacting us or by updating the "Settings" and "Profile" areas of the Site. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us at [info@contour.com](mailto:contour.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
 
 ## Security
 
@@ -68,8 +68,8 @@ Our Site may contain links to other websites. If you choose to visit an advertis
 
 ## Our Policy Toward Children
 
-This Site is not directed to individuals under 18. We do not knowingly collect personally identifiable information from individuals under 18. If a parent or guardian becomes aware that his or her minor child under 18 has provided us with Personal Information without their consent, he or she should contact us at [admin@contour.com](mailto:admin@contour.com). If we become aware that a person under 18 has provided us with Personal Information, we will delete such information from our files. 
+This Site is not directed to individuals under 18. We do not knowingly collect personally identifiable information from individuals under 18. If a parent or guardian becomes aware that his or her minor child under 18 has provided us with Personal Information without their consent, he or she should contact us at [info@contour.com](mailto:info@contour.com). If we become aware that a person under 18 has provided us with Personal Information, we will delete such information from our files. 
 
 ## Contacting Us 
 
-If you have any questions about this Privacy Policy, please contact us at [admin@contour.com](mailto:admin@contour.com) or at: Contour, Inc. 3131 Western Ave. Suite 410 Seattle, WA 98122. 
+If you have any questions about this Privacy Policy, please contact us at [info@contour.com](mailto:info@contour.com) or at: Contour, Inc. 3131 Western Ave. Suite 410 Seattle, WA 98122. 
