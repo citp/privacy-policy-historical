@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mostca.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412082705id_/http%3A//www.mostca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostca.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204050137id_/http%3A//www.mostca.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy on Mostca.com
-
-| 
 
 ## Information about our Web site
 
@@ -69,6 +67,3 @@ You can ask us to change personally identifiable information (such as zip code, 
 ## Policy Changes
 
 Any changes to the privacy policy will be posted within this document as well as on the homepage and any other pertinent location. It is important to us that our users be aware of any and all policies regarding the policies for collection and use of their information. Information will be used in the manner under which it was originally collected.
-
-  
-
