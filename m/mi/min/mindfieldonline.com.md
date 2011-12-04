@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516122615id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204201321id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
 
 # MindField - What's on Your Mind?
 
@@ -41,6 +41,10 @@ McMillion Research is the sole owner of the information collected on MindField O
 **Surveys**
 
 We provide you the opportunity to participate in multiple surveys on our site. We may use a third-party service provider to conduct these surveys; however, we will not share the personally identifiable information you provide through a survey with other third parties unless we give you prior notice and choice. For example, if you agree to participate in a product test, we may need to share your personal information such as your name and mailing address with our client in order for the client to send you the product that you will be testing. In these cases you will be notified prior to our sharing the information and you can choose whether to in the product test. We would not allow our clients to use your information for any other purpose other than to send you the product to be tested. For reward purposes, a randomly generated unique identifier will be used for completion tracking.
+
+**Facebook**
+
+Information obtained via Facebook integration is the sole property of McMillion Research as long as the member chooses to associate the information. The member has complete control within the Facebook application of what information is shared and integration with MindField Online. This information is not required for MindField Online membership. All privacy statements, policies, and business related actions with information obtained via Facebook fall under the same distinctions as the remainder of this privacy policy, in full and in part.
 
 **Referral System**
 
