@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610024336id_/http%3A//www.citizensinformation.ie/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204193356id_/http%3A//www.citizensinformation.ie/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,7 +22,7 @@ We may collect the following information from each user of this site:
 
 ### What we use the information for 
 
-Any personal information you provide will be used only for the purpose supplied. If you make a request for a form, the details supplied will be passed to the Department or Agency responsible. Queries submitted are handled by the Citizens Information Phone Service which provides a confidential information service. Your details will be deleted from the system after a set period of time. Any other information collected, is used only for analysing usage patterns, in order to guide us in improving the site.
+Any personal information you provide will be used only for the purpose supplied. If you make a request for a form, the details supplied will be passed to the Department or Agency responsible. Queries submitted are handled by the Citizens Information Board. Your details will be deleted from the system after a set period of time. Any other information collected, is used only for analysing usage patterns, in order to guide us in improving the site.
 
 Citizens Information will neither make attempts to identify individual visitors, nor associate the technical details listed above with any individual. It is our policy never to disclose such technical information in respect of individual website visitors to any third party unless obliged to disclose such information by a rule of law. The technical information will be used only by only for statistical and other administrative purposes.
 
@@ -53,7 +53,3 @@ The identifying details for your computer (or your internet companys computer), 
 ### Cookies
 
 Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can 'remember' you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.
-
-## Contact Us
-
-If you have a question relating to this topic you can contact the Citizens Information Phone Service on lo-call 1890 777 121* or on +353 (0) 21 452 1600 (Monday to Friday, 9am to 9pm) or you can visit your local [Citizens Information Centre](http://centres.citizensinformation.ie/). *Please note that the rates charged for the use of 1890 numbers may vary among different service providers.
