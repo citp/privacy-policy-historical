@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumecigarette.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926111007id_/http%3A//www.premiumecigarette.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumecigarette.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204094040id_/http%3A//www.premiumecigarette.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PremiumECigarette.com
 
