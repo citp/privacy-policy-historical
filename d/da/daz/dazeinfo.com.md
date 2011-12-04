@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605195106id_/http%3A//www.dazeinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazeinfo.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204145019id_/http%3A//www.dazeinfo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dazeinfo
+# Privacy Policy - Dazeinfo
 
 Dazeinfo.com is a Technology analysis blog which showcases amazing insights of IT Industry. Dazeinfo is committed to safeguard privacy of its users while online at Dazeinfo.com. We have right to collect information (whenever necessary) from our users like name, email address, etc. And we abide by the terms and conditions and we never share/sell any of your information to any third party authority by any means. Like most web services we keep track of visitor logs which involves information like IP address, Browser Info, Operating System Info, [Internet](http://dazeinfo.com/tag/internet/ "Internet") Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze [trends](http://dazeinfo.com/tag/trends/ "trends"), administer the site, track user’s movement around the site, and gather demographic information. and other such information are not linked to any information that is personally identifiable. This log may be used to improve service offered by us and to find copyright violators. These logs will not be made public unless required by law.
 
