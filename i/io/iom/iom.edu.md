@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the iom.edu privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426182401id_/http%3A//www.nationalacademies.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iom.edu privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204220523id_/http%3A//www.nationalacademies.org/legal/privacy.html) for the most accurate reproduction.*
 
 # National-Academies.org | Where the Nation Turns for Independent, Expert Advice
 
-### **Privacy Statement**
+_**Privacy Statement**  
+_
 
 **About our Web site**
 
