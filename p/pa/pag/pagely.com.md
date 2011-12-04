@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagely.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406002703id_/http%3A//page.ly/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagely.com privacy policy that was archived on 2011-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111204202115id_/http%3A//page.ly/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress Hosting | Page.ly
 
