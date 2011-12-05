@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornparks.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106085557id_/http%3A//wm.pornparks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornparks.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205025826id_/http%3A//wm.pornparks.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome To Porn Parks - Free Adult Hosting For Webmasters!
 
