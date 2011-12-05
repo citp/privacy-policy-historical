@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castamp.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616170533id_/http%3A//castamp.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castamp.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205061124id_/http%3A//castamp.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CastAMP - DMCA Guidelines
 
