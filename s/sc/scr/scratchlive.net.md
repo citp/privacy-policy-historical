@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scratchlive.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630020548id_/http%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratchlive.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205045157id_/http%3A//serato.com/legal/website-privacy-policy) for the most accurate reproduction.*
 
 # Serato Websites Privacy Policy | Serato Audio Research
 
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Serato Inc Limited Partnership, "Serato", own and run several websites, namely [Serato.com](http://serato.com/), [ScratchLive.net](http://scratchlive.net/) and [Whitelabel.net](http://whitelabel.net/), collectively "Serato Websites".
+Serato Inc Limited Partnership, "Serato", own and run several websites, namely Serato.com, [ScratchLive.net](http://scratchlive.net/) and [Whitelabel.net](http://whitelabel.net/), collectively "Serato Websites".
 
 Serato Websites are run on a number of servers leased by Serato and located in the USA, collectively "Serato Servers". During your use of Serato Websites, Serato collects assorted information about your specific website usage. Additionally, you may be asked to provide us with personally identifying information that enables us to provide you with website personalisation options and/or various online services. This document describes what information we collect, when we collect it, what we use the information for and to whom we may disclose it.  Serato may update this statement from time to time so you are encouraged to periodically revisit this page for the latest Serato Website Privacy Policy.
 
@@ -43,7 +43,9 @@ This information is considered non-personal because it provides no uniquely iden
 
 Participation in certain Serato Websites services requires certain Identifiable Information from you. Examples of services requiring Identifiable Information include participating in forum discussions, making online product purchases and downloading certain content.
 
-The provision of Identifiable Information is left to your the discretion. However, by not providing certain information we may be unable to provide you with certain services.
+The provision of Identifiable Information is left to your discretion. However, by not providing certain information we may be unable to provide you with certain services.
+
+If you use the "Facebook Connect" feature with our website, you give Serato permission to access personal details that you have provided to Facebook. This includes your name, country and email address. This data is treated as outlined in the section below titled "What is your Identifiable Information used for?". Serato complies with Facebook's [Platform Policy](http://developers.facebook.com/policy/) in order to provide this feature to our customers.
 
 Identifiable Information is comprised of **Personal Information** and **Activity Information**.
 
@@ -63,9 +65,15 @@ For further information about DPS please read their [Privacy Policy](http://www.
 
 ## How is the information collected?
 
-Non-Identifiable Information is collected via Google Inc.'s Google Analytics web analysis service. Google Analytics uses "cookies", which are small text files stored on your computer that can identify your web usage patterns throughout our websites from one page visit to another. Google stores your usage information on the their own servers and uses it to generate reports of activity on our websites. This information is made available to Serato and may also be used in reports provided to third parties at Google's discretion. Google may also provide this information to third parties if required to do so by law. Google do not associate IP address collected via Google Analytics with IP addresses collected via other Google services (eg. Gmail).
+Non-Identifiable Information is collected via two different services: 1) Google Inc.'s Google Analytics web analysis service and 2) Chartbeat Inc.'s real-time analytics service.
+
+Google Analytics uses "cookies", which are small text files stored on your computer that can identify your web usage patterns throughout our websites from one page visit to another. Google stores your usage information on the their own servers and uses it to generate reports of activity on our websites. This information is made available to Serato and may also be used in reports provided to third parties at Google's discretion. Google may also provide this information to third parties if required to do so by law. Google do not associate IP address collected via Google Analytics with IP addresses collected via other Google services (eg. Gmail).
 
 For further information on Google Analytics please read Google's [Terms of Service](http://www.google.com/analytics/tos.html) and [Privacy Statement](http://www.google.com/privacy.html).
+
+Chartbeat Inc collects certain information regarding your use of our websites, such as your IP address and browser type. Your session on our websites will be tracked, but you will remain anonymous. Chartbeat gathers this information for systems administration purposes, abuse prevention and to track user trends. Chartbeat may also use your IP address to identify the general geographic area from which you are accessing our websites. Chartbeat does not link IP addresses to any personally identifiable information.
+
+For further information on Chartbeat's real-time analytics service, please read Chartbeat's [Privacy Policy](http://chartbeat.com/privacy/).
 
 Identifiable Information is collected via web forms that require your direct input, and stored on Serato Servers. Ownership and control of all data provided to Serato Websites is covered in our [Website Terms and Conditions](https://web.archive.org/legal/website-terms-and-conditions).
 
@@ -108,3 +116,29 @@ Serato can, at their discretion, continue to store your Personal Information bey
 ## Private Messages
 
 Serato websites provide the means for users to send messages to one another such that they are visible only to a selected group of users. Serato will endeavor to honor the private nature of these messages but reserve the right to read them if they have reason to suspect that they are being used for purposes which violate the [Website Terms and Conditions](https://web.archive.org/legal/website-terms-and-conditions), [Whitelabel.net End User Agreement](https://web.archive.org/legal/whitelabel-end-user-agreement), [Playlists Terms and Conditions](https://web.archive.org/legal/playlists-terms-and-conditions) or [Forum Rules](https://web.archive.org/legal/website-forum-rules).
+
+Processing Facebook authorization... Cancel
+
+Logging in... 
+
+## Already a Serato.com member?
+
+[Yeah](https://web.archive.org/login/facebook) Nah
+
+Link Facebook to your existing account.
+
+Just let me in.
+
+Creating Serato.com account... 
+
+Linking Serato.com & Facebook accounts... 
+
+Your Facebook account is already linked to another Serato.com account.
+
+If you believe this is an error, [email us](mailto:web@serato.com?Subject=Facebook%20Account%20Error) with the details.
+
+Close
+
+There may have been an error communicating with Facebook. Please try again later.
+
+Close
