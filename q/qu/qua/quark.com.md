@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131114616id_/http%3A//www.quark.com/About_Quark/Legal/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quark.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205144844id_/http%3A//www.quark.com/About_Quark/Legal/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Quark - Privacy Policy
-
-[Home](https://web.archive.org/) / About Quark / [Legal](https://web.archive.org/About_Quark/Legal/) / Privacy Policy
 
 **Effective Date: November 1, 2009**
 
