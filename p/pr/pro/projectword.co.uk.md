@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectword.co.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607035252id_/http%3A//www.projectword.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectword.co.uk privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205132428id_/http%3A//www.projectword.co.uk/privacy_policy.php) for the most accurate reproduction.*
 
 # Project WORD Business Directory - Privacy Policy
 
