@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basegear.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501052328id_/http%3A//www.basegear.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basegear.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205230736id_/http%3A//www.basegear.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Base Gear | Privacy Policy
 
@@ -8,7 +8,7 @@ BaseGear.com takes your privacy seriously. We respect your right to enjoy a priv
 
 **Information We Collect**
 
-When you purchase a product on BaseGear.com, we ask for your name, address, phone number, e-mail address and credit card information. This information is used to process and to fill your order. All information we collect from you is stored in a secure database. 
+When you place an order with BaseGear.com, we ask for your name, address, phone number, e-mail address and credit card information. This information is used to process and to fill your order. All information we collect from you is stored in a secure Yahoo! database. 
 
 **Information Policy**
 
@@ -20,7 +20,7 @@ For their protection, we ask that children not submit any information to us with
 
 Yahoo!'s ordering system uses cookies to keep track of each shopper's shopping cart. When a shopper arrives at a store, Yahoo! assigns that shopper a unique cookie. When the shopper clicks on an Order button, we use the cookie to decide what shopping cart to put the product into. 
 
-Without using cookie technology, there is simply no way to make any online shopping cart work. Using cookies does not give the server _any_ personal information about the person visiting the Web site.
+Without using cookie technology, there is simply no way to make any online shopping cart work. Using cookies does not give the server _any_ personal information about the person visiting the website.
 
 To learn more about cookies, please see Netscape's document entitled Cookies and Privacy or their technical specification for cookies if you would like a more in-depth treatment.
 
@@ -34,12 +34,10 @@ If you would like more information about this practice and and/or to opt out, pl
 
 All online transactions at our store are processed with the latest industry-standard, high-grade 256-bit SSL encryption. When you enter your credit card number into the order form, it is transmitted across the Internet in an encrypted (scrambled) form, then decoded only when it arrives to us.
 
-For added security, Yahoo!'s ordering system also encrypts the credit card number when it is stored on disk, and when we receive it. In addition, your credit card number is permanently deleted from our ordering system database 30 days after the date you place your order. (We retain credit card numbers for 30 days in order to process any refunds, credits or exchanges.)
+For added security, Yahoo!'s ordering system also encrypts the credit card number when it is stored on disk, and when we receive it. In addition, your credit card number is permanently deleted from Yahoo!'s ordering system 30 days after the date you place your order.
 
 According to CNN, "The prevalent opinion...is that on-line credit card use is actually no riskier for consumers than traditional 'low-tech' transactions."
 
 **Notification of Changes**
 
 If we decide to make changes to our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If, however, we intend to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users by email and/or by posting a notice on our Web Site for 30 days.
