@@ -1,11 +1,17 @@
-> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101124249id_/http%3A//oilprice.com/Site-Info/About-Oil-Price/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilprice.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205100707id_/http%3A//oilprice.com/Site-Info/About-Oil-Price/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Oil Price.com
+# Privacy Policy at Oil Price
 
 Written by Editorial Dept      
-Monday, 12 April 2010 20:12   
+|  Monday, 12 April 2010 20:12 |   
+---|---  
+  
 Message :  
-Receive a Free copy of our Report: **Investing in Oil** and learn how to minimise your risk and maximise your profits when investing in the Oil Markets. [**Click here**](http://oilprice.com/popup.html) OilPrice.com respects and values the privacy of our visitors and members. This privacy policy covers how OilPrice.com treats personal information collected and received.
+**Investors:** Get a free copy of our latest investment report: **_The Biggest Upside Stock in the Bakken Oil Formation._** This junior company already has great operational success on its huge Bakken land position… and could very well be the next "Bakken Buyout." 
+
+[CLICK HERE FOR THE FULL 12-PAGE REPORT.](http://oilprice.com/popup7.html)
+
+OilPrice.com respects and values the privacy of our visitors and members. This privacy policy covers how OilPrice.com treats personal information collected and received.
 
 ### What This Privacy Policy Covers
 
