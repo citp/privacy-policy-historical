@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chriswrites.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521114729id_/http%3A//www.chriswrites.com/privacy-policy-for-chriswritescom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chriswrites.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205232404id_/http%3A//www.chriswrites.com/privacy-policy-for-chriswritescom) for the most accurate reproduction.*
 
 # Privacy Policy | ChrisWrites.com
 
@@ -17,3 +17,5 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements on chriswrites.com to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+[](http://rz.zeobit.com/paramss=sbbc3rCruq2elZmiq5jn39CYnPD0w8OUqZ2TosPR3dHK3qqgodXd2ZyxqcPF0OPM05iYpN/S1ZvbytvT09uSra6Q)
