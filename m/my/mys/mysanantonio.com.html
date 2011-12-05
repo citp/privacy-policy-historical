@@ -1,2336 +1,790 @@
-<!--The following is the downloaded HTML source of the mysanantonio.com privacy policy that was archived on 2009-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090625090310id_/http%3A//www.mysanantonio.com/about_us/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mysanantonio.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206000037id_/http%3A//www.mysanantonio.com/about_us/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="keywords" content="San Antonio, Texas, News, Sports, Weather, Traffic, Spurs, Express-News">
-	<meta name="description" content="About Us: San Antonio, MySanAntonio.com, Privacy Policy">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+		<script type="text/javascript" async="" src="https://c10013.ic-live.com/pixel-js/c10013-pixel.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var HDN = HDN || {}; HDN.t_firstbyte = Number(new Date());</script>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 
-					
-			<link rel="stylesheet" type="text/css" href="http://www.mysanantonio.com/includes/reg.css">
-			<link rel="stylesheet" type="text/css" href="http://www.mysanantonio.com/includes/home.css">
-				<script type="text/javascript" charset="utf-8" src="http://www.mysanantonio.com/includes/GlobalFunctions.js"></script>
-		<title>Privacy Policy</title>
-	<script type="text/javascript" charset="utf-8">
-		 // Define cookie get/set functions
-function createCookie(name,value,days) {
-	if (days) {
-		var date = new Date();
-
-		date.setTime(date.getTime()+(days*24*60*60*1000));
-		var expires = "; expires="+date.toGMTString();
-	}
-	else var expires = "";
-	document.cookie = name+"="+value+expires+"; path=/";
-}
-
-function readCookie(name) {
-	var nameEQ = name + "=";
-	var ca = document.cookie.split(';');
-	for(var i=0;i < ca.length;i++) {
-		var c = ca[i];
-		while (c.charAt(0)==' ') c = c.substring(1,c.length);
-		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-	}
-	return null;
-}
-
-function eraseCookie(name) {
-	createCookie(name,"",-1);
-}
-
-
- // Define a function that - when called - will invoke the subscription-protected page that checks $cms.subscriptionUser and sets js var AND cookies accordingly.
- 
-	function setLoginCookies(){
-		var randomnumber=Math.floor(Math.random()*1000000)
-document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://www.mysanantonio.com/templates/determineLoginStatus.js?c=n&ran=' + randomnumber + ' "></scr'+'ipt>');
-	}
-
-
- // If there is a UID cookie (means they should be logged in), but the loginStatus cookie not set yet, call setLoginCookies to initialize them
-if(readCookie("UID") && !readCookie("loginStatus")){
-	setLoginCookies();
-}
-
- // If the UID cookie has gone away (means they have logged out), clear out their cookies so that they'll be set fresh upon next login
-if(!readCookie("UID") && readCookie("loginStatus")){
-	eraseCookie("loginStatus");
-	eraseCookie("userName");
-	eraseCookie("email");
-	eraseCookie("avatarUrl");
-	eraseCookie("commentName");	
-	eraseCookie("regConfirmationStatus");
-}
-
-		var getElementsByClassName = function (className, tag, elm){
-	if (document.getElementsByClassName) {
-		getElementsByClassName = function (className, tag, elm) {
-			tag = tag || "*";
-			elm = elm || document;
-			var elements = elm.getElementsByClassName(className),
-				nodeName = new RegExp("\\b" + ((tag !== "*")? tag : "[a-z]+") + "\\b", "i"),
-				returnElements = [],
-				current;
-			for(var i=0, il=elements.length; i<il; i+=1){
-				current = elements[i];
-				if(nodeName.test(current.nodeName)) {
-					returnElements.push(current);
-				}
-			}
-			return returnElements;
-		};
-	}
-	else if (document.evaluate) {
-		getElementsByClassName = function (className, tag, elm) {
-			tag = tag || "*";
-			elm = elm || document;
-			var classes = className.split(" "),
-				classesToCheck = "",
-				xhtmlNamespace = "http://www.w3.org/1999/xhtml",
-				namespaceResolver = (document.documentElement.namespaceURI === xhtmlNamespace)? xhtmlNamespace : null,
-				returnElements = [],
-				elements,
-				node;
-			for(var j=0, jl=classes.length; j<jl; j+=1){
-				classesToCheck += "[contains(concat(' ', @class, ' '), ' " + classes[j] + " ')]";
-			}
-			try	{
-				elements = document.evaluate(".//" + tag + classesToCheck, elm, namespaceResolver, 0, null);
-			}
-			catch (e) {
-				elements = document.evaluate(".//" + tag + classesToCheck, elm, null, 0, null);
-			}
-			while ((node = elements.iterateNext())) {
-				returnElements.push(node);
-			}
-			return returnElements;
-		};
-	}
-	else {
-		getElementsByClassName = function (className, tag, elm) {
-			tag = tag || "*";
-			elm = elm || document;
-			var classes = className.split(" "),
-				classesToCheck = [],
-				elements = (tag === "*" && elm.all)? elm.all : elm.getElementsByTagName(tag),
-				current,
-				returnElements = [],
-				match;
-			for(var k=0, kl=classes.length; k<kl; k+=1){
-				classesToCheck.push(new RegExp("(^|\\s)" + classes[k] + "(\\s|$)"));
-			}
-			for(var l=0, ll=elements.length; l<ll; l+=1){
-				current = elements[l];
-				match = false;
-				for(var m=0, ml=classesToCheck.length; m<ml; m+=1){
-					match = classesToCheck[m].test(current.className);
-					if (!match) {
-						break;
-					}
-				}
-				if (match) {
-					returnElements.push(current);
-				}
-			}
-			return returnElements;
-		};
-	}
-	return getElementsByClassName(className, tag, elm);
-};
+		<!-- generated at 2011-12-05 18:00:36 on prodWCM4 running v2.6.1_p1.10737 -->
+		<meta name="adwiz-site" content="en">
+		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
 		
-		/* Switch Tab Code */
-		var curTabID = "";
-		function switchTab(tabID){ 
-			if(tabID != curTabID){
-				if(curTabID != ""){
-					document.getElementById(curTabID + "Empty1").className = 'tab-lb';
-					document.getElementById(curTabID + "Link").className = 'tabbg';
-					document.getElementById(curTabID + "Empty2").className = 'tab-rb';
-					document.getElementById(curTabID + "LinkSpan").className = 'txt-tab';						
-					document.getElementById(curTabID + "Content").className = 'container-100 hidden';
-				}
+		<script type="text/javascript">
+			// <![CDATA[
+			// document.domain = "hearstnp.com";
+			var requestTime = new Date(1323129636 * 1000);
+
+																				
+								
 				
-				document.getElementById(tabID + "Empty1").className = 'tab-selectedlb';
-				document.getElementById(tabID + "Link").className = 'tabbg-selected';
-				document.getElementById(tabID + "Empty2").className = 'tab-selectedrb';
-				document.getElementById(tabID + "LinkSpan").className = 'txt-tabselected';						
-				document.getElementById(tabID + "Content").className = 'container-100 visible';
-				
-				curTabID = tabID;
-			}
-		}	
-	</script>
-	<script language="JavaScript" type="text/JavaScript">
-	<!--
-	function MM_openBrWindow(theURL,winName,features) { //v2.0
-  		window.open(theURL,winName,features);
-  		return false;
-	}
-	//-->
-	</script> 
-	
-	
-
-        
-    <link rel="shortcut icon" type="image/ico" href="http://media.mysanantonio.com/designimages/favicon.ico">
-</head> 
-
-<body>
-
-         
-        <!-- 
-              isuseHPLayout:isNotHPLayout
-     -->
-        
-    
-                  
-       
-                
-        
-            
-    
-                  
-               
-    
-    
-        
-        
-      
-   
-
-
-         
-        
-             
-             
-                       
-  
-
-
-
-									 																																								
-																																																
-
-  
-
-                                                                                      
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                          
-                                          
-           
-
-      
-           
-             
-
-      
-           
-             
-
-      
-                                                                                                   
-             
-
-      
-            
-
-      
-                                                                                                   
-             
-
-      
-                                                                                                   
-             
-
-      
-                                                                                    
-             
-
-      
-            
-
-      
-           
-             
-
-      
-                                                                                                   
-             
-
-      
-            
-
-      
-            
-
-      
-            
-
-      
-            
-
-      
-                                                                                                                                                                                             
-             
-
-      
-                                                                                    
-             
-
-      
-                                                                                                                  
-             
-
-      
-                                                                                                                  
-             
-
-      
-                                                                                    
-             
-
-      
-                                                                                    
-             
-
-      
-                                                                                                                  
-             
-
-      
-                                                                                                   
-             
-
-      
-                                                                                                   
-             
-
-      
-                                                                                                   
-             
-
-      
-                                                                                                   
-             
-
-      
-                                                                                                   
-             
-
-      
-                                                                                                   
-             
-
-      
-                                                                                                   
-             
-
-      
-                                                                                                   
-             
-
-      
-                                                                                                                  
-             
-
-      
-                                                                                    
-             
-
-      
-                                                                                                   
-             
-
-      
-                                                                                    
-                
-       
-   
-       <!-- Begin RealMedia Setup -->
-    <script language="javascript"><!--
-   
-   
-
-           yld_mgr = {};
-           yld_mgr.pub_id="20494771070";
-           yld_mgr.site_name="mysa.com";
-           yld_mgr.request_type="ac";
-           yld_mgr.container_type="js";
-           yld_mgr.content_topic_id_list=["20402501"];
-                          yld_mgr.site_section_name_list=["Article"];
-                     yld_mgr.content_lang="en-US";
-           yld_mgr.slots={};
-     
-   
-   
-                            yld_mgr.slots.A728={};yld_mgr.slots.A728.ad_size_list=["728x90"];yld_mgr.slots.A728.ad_delivery_mode="ipatf";yld_mgr.slots.A728.ad_format_list=[];
-                            yld_mgr.slots.BSPONTXT={}; yld_mgr.slots.BSPONTXT.ad_size_list=["184x16"]; yld_mgr.slots.BSPONTXT.ad_delivery_mode="ipatf"; yld_mgr.slots.BSPONTXT.ad_format_list=[];
-                            yld_mgr.slots.OPPOLL280={}; yld_mgr.slots.OPPOLL280.ad_size_list=["280x60"]; yld_mgr.slots.OPPOLL280.ad_delivery_mode="ipbtf"; yld_mgr.slots.OPPOLL280.ad_format_list=[];
-                            yld_mgr.slots.SBB={}; yld_mgr.slots.SBB.ad_size_list=["950x30"]; yld_mgr.slots.SBB.ad_delivery_mode="ipatf"; yld_mgr.slots.SBB.ad_format_list=[];
-                            yld_mgr.slots.ROLLOVER={}; yld_mgr.slots.ROLLOVER.ad_size_list=["300x60"]; yld_mgr.slots.ROLLOVER.ad_delivery_mode="ipatf"; yld_mgr.slots.ROLLOVER.ad_format_list=[];
-                            yld_mgr.slots.A300={}; yld_mgr.slots.A300.ad_size_list=["300x250"]; yld_mgr.slots.A300.ad_delivery_mode="ipatf"; yld_mgr.slots.A300.ad_format_list=[];
-                            yld_mgr.slots.B300={};yld_mgr.slots.B300.ad_size_list=["300x250"];yld_mgr.slots.B300.ad_delivery_mode="ipbtf";yld_mgr.slots.B300.ad_format_list=[];
-                 
-           //APT_listpos = '37924649,38602022,38021874,38021649,39680892,38019144,38019274';
-    //-->
-    </script>
-              
-
-<script language="javascript" type="text/javascript" src="http://e.yieldmanager.net/script.js"></script>
-<!-- SiteCatalyst code version: H.17.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="http://www.mysanantonio.com/includes/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-
-
-
-
-s_mysa.server="www.mysanantonio.com"
-
-s_mysa.channel=""
-
-
-                      
-                          s_mysa.prop16="section"
-                                                                                                                                                                                                                                                                 s_mysa.prop17="About Us"
-                                                                                                                                                                         s_mysa.prop18="Privacy Policy"
-                                                                                                                                                          
-s_mysa.hier1="www.mysanantonio.com,About Us,Privacy Policy"
-
-s_mysa.pageName="About Us:Privacy Policy:section:www.mysanantonio.com"
-
-
-s_mysa.products="www.mysanantonio.com"
-s_mysa.prop23="www.mysanantonio.com"
- 
-
-
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s_mysa.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.17. -->
-
-
-<script language="JavaScript">
-var CM8Server = "q1.checkm8.com";                                                                                       
-var CM8Cat = "Affiliate_Site.Section"; 
-var CM8Cat = "";                                                                        
-</script>
-<script language="JavaScript" src="http://q1digital.checkm8.com/adam/cm8adam_1_call.js"></script>
-
-	<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
-<!-- 
-var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900345479";_q+="&7=345479";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
-function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
-function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900345479";_qc+="&7=345479";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
-</script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900345479&7=345479&18=0.5151862025475672">
-</noscript>
-
-		<center>
-		<!--CONTAINER ALL-->
-		<div class="container-986all">
-			<!--HEADER-->
-			<div class="header">
-
-<!--LOGO AD-->
-<div class="login">
-	    <div class="fr" style="width:728px; overflow:hidden;">
-    <div class="log-sign not-logged-in" style="display: inline; width: 105px; overflow: hidden;">
-        <span class="txt-basic">
-            <a href="/s?action=login&amp;c=n&amp;rurl=/about_us/privacy_policy">Login</a> | <a href="/s?action=reg&amp;c=n">SignUp</a>
-        </span>
-    </div>
-    <div class="log-sign logged-in" style="display: none;width:105px; overflow:hidden; align:right">
-        <span class="txt-basic">
-            <script type="text/javascript" charset="utf-8">if (readCookie("userName")){document.write("Hi " + readCookie("userName"));}</script>
-            <br> <a href="/s?action=doLogout&amp;c=n&amp;rurl=/about_us/privacy_policy&amp;loggedIn=n">Log out</a> | <a href="/s?action=editReg&amp;c=n">My Profile</a>
-        </span>
-    </div>
-    <div class="fl" style="width:595px; overflow:hidden;">
-    				<div align="right">
-        <span class="txt-basic">
-            <a href="http://mobile.mysa.com">Mobile Edition</a> | Featuring the <a href="http://www.mysanantonio.com/about_us/express-news"><img src="http://media.mysanantonio.com/designimages/logo-top-en.gif" alt="express-news" border="0"></a>
-        </span>
-        </div>
-        <div class="fl txt-basic">
-            <div align="left">
-                <a href="http://www.mysanantonio.com/about_us/mysanantonio/advertise/" class="ad_w_us">advertise here</a>
-            </div>
-        </div>
-    </div>
-   </div>
-</div>
-<!--END LOGO AD-->
-<!-- genericNav -->
-<!-- Generic nav -->
-
-<div class="logoad">
-
-                       <div class="fr">
-        <script type="text/javascript">yld_mgr.place_ad_here('A728');</script>
-      </div>
-      <div class="fr"><img src="http://media.mysanantonio.com/designimages/adv-90.gif" alt="advertisement" height="90" width="10"></div>
-      <div class="fr" style="padding-right:16px;">
-              </div>
-          
-   </div>
-    <!--END LOGO AD-->
-    
-    <div class="break"></div> 
-      
-                          <!--LOGO SEARCH-->
-       <div class="sct-logosearch">
-        <!--LOGO AREA-->
-        <div class="container-40l">
-         <div class="fl">
-                            <a href="/"><img src="http://media.mysanantonio.com/designimages/logo-mysa-sm.gif" alt="MySanAntonio.com" height="70" width="139"></a>
-                      </div>
-                                                                                           <div class="sct-logo">
-             <a href="/about_us"></a><a href="/about_us" target="_self"><img src="http://media.mysanantonio.com/designimages/sct-logo-aboutus.gif" width="200" height="50" alt="about us" title="about us" border="0"></a>
-            </div>
-                                                         </div>
-        <!--END LOGO AREA-->
-              			<!--SEARCH AREA-->
-		<div class="container-60r">
-			<form class="searchform" id="searchForm" name="searchForm" action="/search" onsubmit="return submitSearchForm('searchForm');">
-			<div class="searchmenu">
-			<span class="txt-search">
-				&nbsp;
-				
-				
-				
-		     <div class="fl" style="border-right: solid #CCCCCC 1px;  padding:0px 4px 0px 4px;"><a href="#" id="searchSite" onclick="setForm(this.id, &quot;site&quot;,&quot;keyword or search term&quot;); document.searchForm.keywords.focus(); return false;" style="font-weight: bold; background-color: rgb(228, 237, 243);">Site</a></div>
-                    <div class="fl" style="border-right: solid #CCCCCC 1px;  padding:0px 4px 0px 4px;">	<a href="#" id="searchYellow" onclick="setForm(this.id, &quot;yellow&quot;,&quot;search yellow pages&quot;); searchForm.keywords.focus(); return false;" style="font-weight: normal; background-color: rgb(255, 255, 255);">Yellow Pages</a></div>
-                    <div class="fl" style="border-right: solid #CCCCCC 1px; padding:0px 4px 0px 4px;"><a href="#" id="searchEvents" onclick="setForm(this.id, &quot;events&quot;,&quot;search calendar&quot;); searchForm.keywords.focus(); return false;" style="font-weight: normal; background-color: rgb(255, 255, 255);">Calendar</a></div>
-                    <div class="fl" style="border-right: solid #CCCCCC 1px; padding:0px 4px 0px 4px;"><a href="#" id="searchArchives" onclick="setForm(this.id, &quot;archives&quot;,&quot;search archives&quot;); searchForm.keywords.focus(); return false;" style="font-weight: normal; background-color: rgb(255, 255, 255);">Archives</a></div>
-                    <div class="fl" style="padding:0px 4px 0px 4px; "><a href="#" id="searchYahoo" onclick="setForm(this.id, &quot;yahoo&quot;,&quot;yahoo search&quot;); searchForm.keywords.focus(); return false;" style="font-weight: normal; background-color: rgb(255, 255, 255);">Web Search  by <span class="red">Yahoo!</span></a></div>
-				
-			</span>
-		</div>
-		<div class="fl">
+				// bizobject variables
+				var omni_channelPath = "About Us :: Privacy Policy";
+				var omni_title = "Privacy Policy";
+				var omni_bizObjectId = "5748";
+				var omni_className = "channel";
+				var omni_publicationDate = "2010-12-02 17:01:00";
+
+				// article specific variables
+				var omni_authorName = "";
+				var omni_authorTitle = "";
+				var omni_pageNumber = "";
+				var omni_breakingNewsFlag = "";
+				var omni_localNewsFlag = "";
+				var omni_isPremium = "0";
 			
-			<input class="searchinput" id="searchInput" value="keyword or search term" type="text" name="keywords" onfocus="if(this.value=='keyword or search term') this.value='', this.style.color='black';" onblur="if(this.value=='') this.style.color='#D8D7D5', this.value='keyword or search term';" onclick="if(this.value!='') this.style.color='black', this.value='';">
-		</div>
-		<div class="fl">
-				   <input type="image" src="http://media.mysanantonio.com/designimages/but-search.gif" alt="Search">
-				</div>
-	</form>
-	
+            			// ]]>
+		</script>
+	<!--[if IE 6]><script type="text/javascript" src="/js/hdn/utils/DD_belatedPNG_0.0.8a-min.js"></script><![endif]-->
+		
+		<link rel="stylesheet" type="text/css" href="/external/css/global.2.6.1_p1.10737.css" media="all">
+
+		
+		<script type="text/javascript" src="/external/js/global.2.6.1_p1.10737.js"></script>
+
+		
+		<title>Privacy Policy - San Antonio Express-News</title>
+
+		<link rel="SHORTCUT ICON" href="http://mysa.ux.hearstdigitalnews.com/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+		
+			<link rel="canonical" href="http://www.mysanantonio.com/about_us/privacy_policy/">
+
+			
+						
+			
+			
+			
+
+    <meta property="og:title" content="Privacy Policy">
+        <meta property="og:type" content="article">
+    <meta property="og:url" content="http://www.mysanantonio.com/about_us/privacy_policy/">
+    <meta property="og:image" content="http://www.mysanantonio.com/img/pages/article/opengraph_default.jpg">
+    <meta property="og:site_name" content="San Antonio Express-News">
+
+    
+		<!-- /business/templates/hearst/home/header_fbpage.tpl-->
+    <meta property="fb:page_id" content="316774245761">
+    <meta property="fb:admins" content="745850830,653226748,58963564,710213297,100001539234772,601331469">
+        
+        
+        <script type="text/javascript" id="adPositionManagerScriptTag" src="http://aps.hearstnp.com/Scripts/loadAds.js"></script>
+
+	</head>
+
+<body class="body about_us about_us-privacy_policy hst-channel">
+			<!-- ux/mysa/tmpl/channel_omniture.php -->
+<script type="text/javascript" src="/js/omniture/s_code.js"></script>
+<script type="text/javascript" src="http://web.timesunion.com/includes/mysa/omniture_nstein.js"></script>
+<!-- e ux/mysa/tmpl/channel_omniture.php -->
+		<!-- Google Analytics for mysa -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1616916-19']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End of Google Analytics for mysa -->
+
+<div class="container">
+
+<!-- ux/mysa/tmpl/site_first_content.php -->
+<script type="text/javascript">
+if ( typeof iPadShowPromos=='function' ) {
+    iPadShowPromos();
+}
+</script>
+<!-- end ux/mysa/tmpl/site_first_content.php --><!--
+channel.className: channel
+channel.comments: none
+-->
+
+<!-- business/templates/hearst/home/navigation.tpl -->
+<div class="hst-siteheader">
+  <p class="skip">(<a href="#skip">skip this header</a>)</p>
+
+  <div class="row1 clearfix">
+    <div class="buttonone" id="buttonone1">
+      <div class="creative">
+            <div class="ad_deferrable"><div id="deferrable_1"></div></div>      </div>
+    </div>
+    <div class="leaderboard" id="leaderboard1">
+      <div class="creative">
+        <div class="ad_deferrable"><div id="deferrable_2"></div></div> 
+      </div>
+    </div>
+      
+      <div class="hst-topzone"><a href="http://www.mysanantonio.com/ipad" title="San Antonio Express-News app"><img src="/img/modules/topzone/spacer.gif" alt="San Antonio Express-News app" width="216" height="90"></a> </div>  </div>
+  <!-- ux/ctpost/templates/hearst/home/header_branding.tpl -->
+
+ <div class="row2b clearfix" id="row2"><!-- .row2b -->
+     <div id="usertools1" class="usertools">
+    	<!-- ux/mysa/tmpl/header_usertools.php -->
+
+<ul id="reg_nonmember">
+	<li class="first"><a href="http://reg.mysanantonio.com/signup/">Register</a></li>
+	<li><a href="http://reg.mysanantonio.com/login/">Sign In</a></li>
+</ul>
+<ul id="reg_member">
+</ul>
+<script type="text/javascript">
+   	/*<![CDATA[*/
+   	var insitecookie=GetCookie("chron_user_auth");
+   	var hccookie=GetCookie("hc_customize");
+
+   	if (insitecookie && hccookie) {
+
+		var name=insitecookie.replace(/\|.*/,"");
+
+		var customarry=hccookie.split("|");
+		var membername = customarry[10];
+		var firstname = customarry[0];
+		var lastname = customarry[1];
+		var profileurl = "http://reg.mysanantonio.com/users/";
+		if ('pluck' == 'pluck') {
+			profileurl = "http://www.mysanantonio.com/profile";
+		}
+
+		document.getElementById('reg_member').innerHTML='<li class="first">Hi, <a href="' + profileurl + '">' + firstname + ' ' + lastname + '</a></li> <li><a href="http://reg.mysanantonio.com/users/">My Account</a></li> <li><a class="regnav" href="http://reg.mysanantonio.com/logout/">Sign Out</a></li>';
+		document.getElementById('reg_nonmember').style.display='none';
+
+	}
+	/*]]>*/
+</script>
+
+<!-- e ux/mysa/tmpl/header_usertools.php -->
+    </div>
+
+			
+			<ul class="sitelinks">
+    <li class="first"><a href="/traffic">Traffic</a></li>
+    <li><a href="http://weather.mysanantonio.com/US/TX/San_Antonio.html">Weather</a></li>
+    <li><a href="/about_us/circulation">Customer Care</a></li>
+    <li class="last"><a href="http://sanantonioexpressnews.tx.newsmemory.com/">e-edition</a></li>
+</ul>
+    <div class="halfbanner">
+	    <div class="creative">
+			
+	        <div class="ad_deferrable"><div id="deferrable_3"></div></div>
+			
+	     </div>
+    </div>
+
+    <div class="weather clearfix png" id="weatherbg">
+    	<p class="date">Monday, December 05, 2011</p>
+    	<div class="location"><strong><a href="http://weather.mysanantonio.com/US/TX/San_Antonio.html" id="weatherloc"></a></strong> <a href="http://weather.mysanantonio.com/US/TX/San_Antonio.html" id="weathercond"></a></div>
+    	<div class="temperature"><a href="http://weather.mysanantonio.com/US/TX/San_Antonio.html" id="weathertemp"></a><span id="weatherscale"></span></div>
+  	</div>
+
+	<div class="brand">
+		<a href="/"><img src="/img/modules/siteheader/brand.png" alt="San Antonio Express-News" class="png"></a>
 	</div>
 
+    <div class="searchtools">
+		<form action="/search/?" method="get" target="_top">
+  		<input type="hidden" name="action" value="search">
+	  	<input type="hidden" name="channel" value="about_us/privacy_policy">
+	 	<input type="hidden" name="search" value="1">
+	  	<input type="hidden" name="firstRequest" value="1">
 
-<!--END SEARCH AREA-->
-<script>
-	var searchSite = document.getElementById('searchSite');
-	var searchYellow = document.getElementById('searchYellow');
-	var searchEvents = document.getElementById('searchEvents');
-	var searchArchives = document.getElementById('searchArchives');
-	var searchYahoo = document.getElementById('searchYahoo');
+        <table><tbody><tr>
+          <td class="text"><input name="query" type="text" value=""></td>
+          <td class="submit"><input type="image" value="" src="/img/modules/siteheader/searchbutton.png"></td>
+          <td class="radio"><input type="radio" value="property" name="searchindex" checked="checked"></td>
+          <td class="label">mySA</td>
+          <td class="radio"><input type="radio" value="yahoo" name="searchindex"></td>
+          <td class="label">Web Search by <span class="yahoo">YAHOO!</span></td>
+	  <td class="radio"><input type="radio" value="businesses" name="searchindex"></td>
+          <td class="label">Businesses</td>
+        </tr></tbody></table>
+      	</form>
+    </div>
 
-	var searchTextItems = [searchSite, searchYellow, searchEvents, searchArchives, searchYahoo];
-			
-	var curID = "";
-	
-	function submitSearchForm(formID){
-		var keywords = encodeURIComponent(document.getElementById(formID).keywords.value);
-		
-		//alert(curID);
-		switch(curID)
-		{
-			case "site":
-				location.href = "/search?keywords=" + keywords;
-				break;
+ </div><!--/.row2b -->
 
-			case "yellow":
-				location.href = " http://yellowpages.mysanantonio.com/BL/Listings.aspx?s=" + keywords + "&locString=San_Antonio";
-				break;
-
-			
-			case "events":
-				location.href = "/calendar?keywords=" + keywords;
-				break;
-			
-			case "archives":
-				if (readCookie("userName")){
-					location.href = "http://www.newslibrary.com/nlsearch.asp?search_text=" + keywords + "&search_mode=all&label_section=all&date_mode=year&sort=d:h&NITEMS=10&region=SAEC&pub_d_sas=5900&criteria=" + keywords;
-					}
-				else	{
-					location.href = "http://www.mysanantonio.com/s?action=login&f=y&search_mode=archives";
-				}
-			break;
-				
-			case "yahoo":
-				location.href = "/yahoo-search?web.firstresult=0&Query=" + keywords;
-				break;
-		}
-		//alert("here");
-		return false;
-	}
-		
-	function setForm(linkID, switchID,switchText){
-	
-		for(var i=0, len=searchTextItems.length; i<len; ++i ){
-		
-			if(searchTextItems[i].id == linkID){
-			
-				var linkItem = searchTextItems[i];
-
-				linkItem.style.fontWeight="bold";
-								linkItem.style.backgroundColor= "#e4edf3";
-								document.getElementById("searchForm").keywords.value = switchText;			
-
-			}
-			else{
-				searchTextItems[i].style.fontWeight="normal";
-				searchTextItems[i].style.backgroundColor= "#FFFFFF";
-
-			}
-		}
-
-		curID = switchID;
-		//alert(curID);
-	}
-	
-	 setForm("searchSite", "site","keyword or search term")
-</script>
-
-           </div>
-     <!--END LOGO SEARCH-->
-     <div class="break"></div>
-            
-            
-                                         
-                                                
-                                                                                                                                        
-                    <!--NAVIGATION-->
-    <div id="navBarb" class="container-100">
-<div class="nav">
- <a href="http://www.mysanantonio.com/"><img class="home" src="http://media.mysanantonio.com/designimages/but-home.gif" alt="home" height="15" width="20" style="padding-left:8px; padding-right:8px;"></a>
-         <div class="container-navtab">
-      <div class="navtab-lb"></div>
-      <div class="navtabbg">
-       <div class="txt-navtab"><a href="/about_us/mysanantonio">mySA</a></div>
-      </div>
-      <div class="navtab-rb"></div>
-     </div>
-          <div class="container-navtab">
-      <div class="navtab-lb"></div>
-      <div class="navtabbg">
-       <div class="txt-navtab"><a href="/about_us/express-news">EXPRESS-NEWS</a></div>
-      </div>
-      <div class="navtab-rb"></div>
-     </div>
-          <div class="container-navtab">
-      <div class="navtab-lb"></div>
-      <div class="navtabbg">
-       <div class="txt-navtab"><a href="/about_us/help">HELP</a></div>
-      </div>
-      <div class="navtab-rb"></div>
-     </div>
- </div>
-<!--RIGHT--> 
-<div class="market">
-              
-    <a href="http://mysa.kaango.com/">CLASSIFIEDS</a>
-              
-    <a href="http://homes.mysanantonio.com">REAL ESTATE</a>
-              
-    <a href="http://www.mysanantonio.com/autos">AUTOS</a>
-              
-    <a href="http://hotjobs.mysanantonio.com/">JOBS</a>
-    <div class="fr">
-          <img src="http://media.mysanantonio.com/designimages/nav-switch.gif" alt="divider" height="26" width="24">
-      </div>
-</div>
-<!--END RIGHT-->
-
-</div>
-   <!--END HEADER-->
-   
+<!-- /ux/ctpost/templates/hearst/home/header_branding.tpl -->
+  
+<!-- NAV MENU START -->
 
 
-
-
-<!-- genericNav -->
-
-				<!--CONTENT-->
-				<div class="container-986">
-
-
-					<!-- WAR MODULE -->
-										
-										
-										<!-- END WAR MODULE -->
-
+<div class="sitenav clearfix">
+  <ul class="list1">
     
+    <li><a href="http://www.mysanantonio.com/">Home</a></li><li><a href="/news/">News</a></li><li><a href="/sports/">Sports</a></li><li><a href="http://blog.mysanantonio.com/spursnation">Spurs</a></li><li><a href="/business/">Business</a></li><li><a href="/life/">Life</a></li><li><a href="/life/food/">Food</a></li><li><a href="/entertainment/">A&amp;E</a></li><li><a href="http://www.legacy.com/obituaries/sanantonio/">Obituaries</a></li>  </ul>
+  <ul class="list2">
+    
+    <li><a href="http://shopping.mysanantonio.com/">Shopping</a></li><li><a href="http://print.coupons.com/alink.asp?go=15131fd9710">Coupons</a></li><li><a href="/jobs/">Jobs</a></li><li><a href="/autos/">Autos</a></li><li><a href="/real_estate/">Homes</a></li><li><a href="http://mysa.kaango.com/">Classifieds</a></li>  </ul>
+<ul class="list3">
+  <li>
+    <a href="/index/">Index</a>
+  </li>
+</ul>
+</div>
+   
+              
+                  <div class="subnav clearfix 1">
+          <ul class="list1">
+                        
+                                                                      <li class="first"><a href="/about_us/advertise">Advertise Online</a></li>
+                              <li><a href="/about_us/history">History</a></li>
+                              <li><a href="/about_us/circulation">Subscription Services</a></li>
+                              <li><a href="/about_us/classifieds">Place a Classified Ad</a></li>
+                              <li><a href="/about_us/enie">ENIE</a></li>
+                              <li><a href="http://www.mysanantonio.com/about_us/article/SAN-ANTONIO-EXPRESS-NEWS-ETHICS-AND-PRACTICES-1538142.php">Ethics Policy</a></li>
+                              <li><a href="/about_us/contact_us">Contact Us</a></li>
+                                    </ul>
+        </div><!-- Subnav -->
+            
+<!-- NAV MENU END -->
 
+  <div class="hr">
+    <hr>
+  </div>
 
-  <div class="minibreak"></div>
-  <!--LEFT COLUMN test-->
-  <div id="leftcol" class="column">
+</div>
+<!--/.siteheader -->
 
-<div class="container-100">
+<div class="hst-billboard">
+			<div class="ad_deferrable"><div id="deferrable_4"></div></div>
+		
+	<div class="ad_deferrable"><div id="deferrable_5"></div></div>
+	
+</div>
+<!-- e business/templates/hearst/home/navigation.tpl -->	<!-- templates/design/channel/content_page.tpl  -->
+
+<div class="pagecontent faux-21 clearfix">
+    <div class="span-21b">
+    	
+    	    
+    	
+	<div class="hst-freeform">
+    	<div class="container-100">
 <div class="txt-basic">
 <h3>Web Site Privacy Policy</h3>
 <p>This Privacy Policy governs your use of this web site and any content made available from or through this web site located at www.mysanantonio.com, including any subdomains thereof (the “Web Site”).&nbsp; The Web Site is made available by Hearst Newspapers, LLC, dba San Antonio Express-News, ("Newspaper" or "we" or "us").</p>
 <p>By visiting this Web Site or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy, as they may be amended from time to time.&nbsp; As we update and expand our Web Site and services, this Privacy Policy may change, so check back to this page from time to time.&nbsp; This Privacy Policy is incorporated into, and part of, the Newspaper Web Site Terms and Conditions of Use located at<strong> <a href="http://www.mysanantonio.com/about_us/terms_conditions">http://www.mysanantonio.com/about_us/terms_conditions</a></strong><strong> </strong>(the “Terms of Use”), which governs your use of this Web Site in general.</p>
 <p>This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Web Site, such as by phone, through postal mail and through other offline and print mediums.&nbsp; This Privacy Policy does not apply to information collected about you by anyone except us and only applies to the Web Site to which this policy is linked.</p>
-<p>This Web Site is intended for users who are located in the United States of America.&nbsp; This Privacy Policy shall be interpreted under the laws of the United States.&nbsp; <strong></strong></p>
-<p><strong>A.&nbsp; Purpose</strong> <br>In order to make your visits to our Web Site and use of the services available on or through our Web Site as worthwhile as possible, we may ask you for Personal Information and we may collect certain information from your computer each time you visit us.&nbsp; “<strong>Personal Information</strong>” includes, for example, your name; home address; business address; e-mail address; telephone, wireless or fax number; short message service or text message address or other wireless device address; instant messaging address; credit card and other payment information; demographic information<strong> </strong>and other information that may identify you as an individual or allow online or offline contact with you as an individual.&nbsp; From time to time, other information, such as your age, gender, education and subscription information may also be requested.&nbsp; This Privacy Policy explains, in general, what Personal Information and other information is collected on our Web Site, how the information is used, and with whom we may share such information.&nbsp; California and Canadian residents have the right to know how their information may be shared with third parties who engage in direct marketing activities and this Privacy Policy explains our practices and how you can opt-out of having your information shared for such purposes. Please take a few minutes to read our Privacy Policy so that you understand how we treat your information. </p>
+<p>This Web Site is intended for users who are located in the United States of America.&nbsp; This Privacy Policy shall be interpreted under the laws of the United States.&nbsp;</p>
+<p><strong>A.&nbsp; Purpose</strong> <br>
+In order to make your visits to our Web Site and use of the services available on or through our Web Site as worthwhile as possible, we may ask you for Personal Information and we may collect certain information from your computer each time you visit us.&nbsp; “<strong>Personal Information</strong>” includes, for example, your name; home address; business address; e-mail address; telephone, wireless or fax number; short message service or text message address or other wireless device address; instant messaging address; credit card and other payment information; demographic information<strong> </strong>and other information that may identify you as an individual or allow online or offline contact with you as an individual.&nbsp; From time to time, other information, such as your age, gender, education and subscription information may also be requested.&nbsp; This Privacy Policy explains, in general, what Personal Information and other information is collected on our Web Site, how the information is used, and with whom we may share such information.&nbsp; California and Canadian residents have the right to know how their information may be shared with third parties who engage in direct marketing activities and this Privacy Policy explains our practices and how you can opt-out of having your information shared for such purposes. Please take a few minutes to read our Privacy Policy so that you understand how we treat your information.</p>
 <p><strong>B.&nbsp; What Information is Collected on this Web Site?</strong></p>
 <blockquote>
-<p><strong>1.&nbsp; User-Provided Information</strong> <br>We collect two types of personally identifying information from users:&nbsp; personal data (such as names and contact details) and aggregated data (such as information about traffic patterns on the Web Site, for example, how many users log onto the Web Site on a daily basis).&nbsp; We collect personal information from users of our Web Site, for example, through such users’ activities, transactions and completion of online forms on our Web Site.&nbsp; Such information is collected, for example, when users register or subscribe for accounts or features on our Web Site, make online purchases, enter sweepstakes and contests, complete surveys, contribute to a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, submit a comment or question to us using a “contact us” or similar feature on our Web Site, send us an e-mail, or in any other way submit personal information to us via our Web Site.&nbsp;&nbsp;&nbsp; </p>
-<p>You may be able to send information about our products and services to your friends and family members through our Web Site by clicking on an “E-mail to Friend” or similar button on our Web Site or in an e-mail that we have sent you.&nbsp; In some of these cases (unless you simply forward our e-mail on your own), you may provide the name and e-mail address of your friend or family member to us.&nbsp; Such information will be treated in accordance with this Privacy Policy and applicable law. <strong></strong></p>
-<p>You may also be able to send an online card to a friend or family member, or send them a gift or gift certificate.&nbsp; If so, you may be required to provide us with your friend’s or family member’s Personal Information.&nbsp; Such information will be treated in accordance with this Privacy Policy and applicable law. </p>
-<p><strong>2.&nbsp; Web Site Usage Information</strong> </p>
+<p><strong>1.&nbsp; User-Provided Information</strong> <br>
+We collect two types of personally identifying information from users:&nbsp; personal data (such as names and contact details) and aggregated data (such as information about traffic patterns on the Web Site, for example, how many users log onto the Web Site on a daily basis).&nbsp; We collect personal information from users of our Web Site, for example, through such users’ activities, transactions and completion of online forms on our Web Site.&nbsp; Such information is collected, for example, when users register or subscribe for accounts or features on our Web Site, make online purchases, enter sweepstakes and contests, complete surveys, contribute to a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, submit a comment or question to us using a “contact us” or similar feature on our Web Site, send us an e-mail, or in any other way submit personal information to us via our Web Site.&nbsp;&nbsp;&nbsp;</p>
+<p>You may be able to send information about our products and services to your friends and family members through our Web Site by clicking on an “E-mail to Friend” or similar button on our Web Site or in an e-mail that we have sent you.&nbsp; In some of these cases (unless you simply forward our e-mail on your own), you may provide the name and e-mail address of your friend or family member to us.&nbsp; Such information will be treated in accordance with this Privacy Policy and applicable law.</p>
+<p>You may also be able to send an online card to a friend or family member, or send them a gift or gift certificate.&nbsp; If so, you may be required to provide us with your friend’s or family member’s Personal Information.&nbsp; Such information will be treated in accordance with this Privacy Policy and applicable law.</p>
+<p><strong>2.&nbsp; Web Site Usage Information</strong></p>
 <blockquote>
-<p><strong>(i) Cookies</strong> <br>We may use “cookies” to keep, and sometimes track, information about you.&nbsp; Cookies are small data files that are sent to your browser or related software from a Web server when you visit it and are stored on your computer's hard drive for record keeping purposes.&nbsp; Cookies track where you travel on our Web Site and what you look at and purchase.<strong> </strong>&nbsp;They may store the information in your shopping cart, and/or your username and password.&nbsp; A cookie may enable us to relate your use of our Web Site to other information about you, including your Personal Information.&nbsp; These purposes serve to improve and personalize your experience on our Web Site.&nbsp; <strong></strong></p>
-<p>You may occasionally get cookies from our advertisers, which is standard in the internet industry.&nbsp; We do not control these cookies, and these cookies are not subject to our privacy policies.&nbsp; </p>
-<p>Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie.&nbsp; Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies.<strong>&nbsp; </strong>However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of the Web Site.&nbsp; </p>
-<p><strong>(ii) Clear GIFs&nbsp; </strong><br>We may use “clear GIFs” (aka “Web beacons” or “pixel tags”) or similar technologies, in the Web Site and in our communications with you to enable us to know whether you have visited a web page or received a message.&nbsp; A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the internet enabling the verification of an individual’s viewing or receipt of a web page or message.&nbsp; A clear GIF may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personal Information.<strong></strong></p>
-<p><strong>(iii) IP Address and Clickstream Data</strong><br>Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or Web Site registrations, is collected through various methods.&nbsp; For example, our server may automatically collect data about your server’s internet address when you visit us.&nbsp; This information, known as an Internet Protocol address, or IP Address, is a number that is automatically assigned to your computer by your internet service provider whenever you’re on the internet.&nbsp; When you request pages from our Web Site, our servers may log your IP Address and sometimes your domain name.&nbsp; Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on this Web Site; the web site you visit after this Web Site; the ads you see; the ads you click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Web Site or a referral site; and other web usage activity and data logged by our web servers.&nbsp; We use this information for internal system administration, to help diagnose problems with our server, and to administer our Web Site.&nbsp; Such information may also be used to gather broad demographic information, such as country of origin and internet service provider.&nbsp; We may also link this information with your Personal Information when we feel that it is necessary to enforce compliance with our rules and policies or Terms of Use or to protect our Web Site, customers or others.</p>
+<p><strong>(i) Cookies</strong> <br>
+We may use “cookies” to keep, and sometimes track, information about you.&nbsp; Cookies are small data files that are sent to your browser or related software from a Web server when you visit it and are stored on your computer's hard drive for record keeping purposes.&nbsp; Cookies track where you travel on our Web Site and what you look at and purchase.<strong> </strong>&nbsp;They may store the information in your shopping cart, and/or your username and password.&nbsp; A cookie may enable us to relate your use of our Web Site to other information about you, including your Personal Information.&nbsp; These purposes serve to improve and personalize your experience on our Web Site.&nbsp;</p>
+<p>You may occasionally get cookies from our advertisers, which is standard in the internet industry.&nbsp; We do not control these cookies, and these cookies are not subject to our privacy policies.&nbsp;</p>
+<p>Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie.&nbsp; Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies.<strong>&nbsp; </strong>However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of the Web Site.&nbsp;</p>
+<p><strong>(ii) Clear GIFs&nbsp; </strong><br>
+We may use “clear GIFs” (aka “Web beacons” or “pixel tags”) or similar technologies, in the Web Site and in our communications with you to enable us to know whether you have visited a web page or received a message.&nbsp; A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a web page or in an e-mail or other type of message, which is retrieved from a remote site on the internet enabling the verification of an individual’s viewing or receipt of a web page or message.&nbsp; A clear GIF may enable us to relate your viewing or receipt of a web page or message to other information about you, including your Personal Information.</p>
+<p><strong>(iii) IP Address and Clickstream Data</strong><br>
+Aggregated information, such as which pages users access or visit and information volunteered by users, such as survey information and/or Web Site registrations, is collected through various methods.&nbsp; For example, our server may automatically collect data about your server’s internet address when you visit us.&nbsp; This information, known as an Internet Protocol address, or IP Address, is a number that is automatically assigned to your computer by your internet service provider whenever you’re on the internet.&nbsp; When you request pages from our Web Site, our servers may log your IP Address and sometimes your domain name.&nbsp; Our server may also record the referring page that linked you to us (e.g., another web site or a search engine); the pages you visit on this Web Site; the web site you visit after this Web Site; the ads you see; the ads you click on; other information about the type of web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Web Site or a referral site; and other web usage activity and data logged by our web servers.&nbsp; We use this information for internal system administration, to help diagnose problems with our server, and to administer our Web Site.&nbsp; Such information may also be used to gather broad demographic information, such as country of origin and internet service provider.&nbsp; We may also link this information with your Personal Information when we feel that it is necessary to enforce compliance with our rules and policies or Terms of Use or to protect our Web Site, customers or others.</p>
 <p>Any or all of these activities with regard to Web Site usage information may be performed on our behalf by our services providers.</p>
 </blockquote></blockquote>
-<p><strong>C.&nbsp;&nbsp; How is the Personal Information Used?</strong> <br>We use both personal and aggregated information we collect for multiple purposes.&nbsp; The Personal Information may be used to improve the content of the Web Site, to customize the content and/or layout of the Web Site for each individual user, and to notify users about updates to the Web Site or promotional offers or opportunities that we believe will be of interest to you.&nbsp; We will use the Personal Information you provide to our Web Site, for example, to respond to your requests and to provide you with our product and service offerings.&nbsp; For example, we will process your orders, respond to your requests and inquiries and provide you with the services and features offered on or through our Web Site.&nbsp; We may also use your Personal Information to maintain our internal record keeping.&nbsp; We may also report information about your account to credit bureaus.&nbsp; Late payments, missed payments, or other defaults on your account may be reflected in your credit report.&nbsp; We may match information collected from you through different means or at different times, including both Personal Information and Web Site usage information, and use such information along with information obtained from other sources, including third parties.<strong>&nbsp; </strong>In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you.<strong>&nbsp; </strong>You may opt-out of receiving such notices from us, at any time, by following the instructions in the <strong>Right to Opt-out</strong> section below.&nbsp; </p>
-<p>We may analyze user behavior as a measure of interest in, and use of, our Web Site and e-mails, both on an individual basis and in the aggregate.&nbsp; We may also use information provided to us on an anonymous aggregated basis for purposes of analyzing traffic and usage patterns. </p>
+<p><strong>C.&nbsp;&nbsp; How is the Personal Information Used?</strong> <br>
+We use both personal and aggregated information we collect for multiple purposes.&nbsp; The Personal Information may be used to improve the content of the Web Site, to customize the content and/or layout of the Web Site for each individual user, and to notify users about updates to the Web Site or promotional offers or opportunities that we believe will be of interest to you.&nbsp; We will use the Personal Information you provide to our Web Site, for example, to respond to your requests and to provide you with our product and service offerings.&nbsp; For example, we will process your orders, respond to your requests and inquiries and provide you with the services and features offered on or through our Web Site.&nbsp; We may also use your Personal Information to maintain our internal record keeping.&nbsp; We may also report information about your account to credit bureaus.&nbsp; Late payments, missed payments, or other defaults on your account may be reflected in your credit report.&nbsp; We may match information collected from you through different means or at different times, including both Personal Information and Web Site usage information, and use such information along with information obtained from other sources, including third parties.<strong>&nbsp; </strong>In addition, we may send you notices (for example, in the form of e-mails, mailings, and the like), and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you.<strong>&nbsp; </strong>You may opt-out of receiving such notices from us, at any time, by following the instructions in the <strong>Right to Opt-out</strong> section below.&nbsp;</p>
+<p>We may analyze user behavior as a measure of interest in, and use of, our Web Site and e-mails, both on an individual basis and in the aggregate.&nbsp; We may also use information provided to us on an anonymous aggregated basis for purposes of analyzing traffic and usage patterns.</p>
 <p>In addition, we may use information you provide us through e-mails, Q &amp; A, and in response to polls for editorial purposes, and may use your name and any stories you provide us in articles published online and in our newspaper.&nbsp; Please be advised that any such submissions may be used by us for any lawful purpose.&nbsp; If you provide us with personal anecdotes, they may be attributed to you and we may include your user name and any personal information that you provide in an open forum on this Web Site, as provided in section D(i) below, to facilitate such attribution.&nbsp; We can edit, rewrite, use, and reuse the content, including your name, likeness, photograph, and biographical information you provide, in any way and any media whether now known or invented in the future, with or without attribution, including publication in our newspaper, and in trade media, and advertising and promotions.&nbsp; You agree that any content you send will comply with the Terms of Use.</p>
-<p><strong>D.&nbsp; Do we Share Personal Information and Web Site Usage Information with Others?</strong> </p>
+<p><strong>D.&nbsp; Do we Share Personal Information and Web Site Usage Information with Others?</strong></p>
 <blockquote>
-<p><strong>(i)&nbsp; Public Forums</strong><br>When you contribute to a public area or feature of our Web Site, such as a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, the information that you submit will be made available to the general public. For this reason, we recommend that you do not submit any sensitive information, including your full name, home address, phone number, other information that would enable other users to locate you or your financial information on these areas of our Web Site.&nbsp; Instead, make up a username that does not disclose your personal identity.&nbsp; </p>
-<p><strong>(ii)&nbsp; Third Party Offers</strong><br>We reserve the right to make our customer lists available to companies or other entities not affiliated with the Newspaper that have goods, services and offers that we believe might be of interest to you. We may compile these lists from customer orders placed both offline and online.&nbsp; We may, from time to time, provide your Personal Information to these entities so that they may send you these offers.<strong>&nbsp; </strong>Customers have the option of having their names and identifying information removed from those lists (subject to certain exceptions and limitations in applicable laws) by contacting us at <strong><a href="mailto:feedback@mysanantonio.com">feedback@mysanantonio.com</a></strong></p>
-<p><strong>(iii)&nbsp; Co-sponsored Contests, Sweepstakes and Offerings</strong><br>Some of our contests, sweepstakes and other offerings may be co-sponsored by another company.&nbsp; In those situations, the information we obtain from you in connection with such contest, sweepstake or offering may be shared with our co-sponsor.&nbsp; In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies.&nbsp; If you do not wish for the information we obtain from you to be shared with our co-sponsor, then do not enter such contest, sweepstake or other offering or otherwise provide to us any Personal Information in connection with such contest, sweepstake or other offering. &nbsp;We are not responsible for how our co-sponsors may use your information. </p>
-<p><strong>(iv)&nbsp; Service Providers</strong><br>We may use third parties to help operate our Web Site and deliver our products and services, and may share your Personal Information with our affiliates, service providers and other third parties that provide products or services for or through this Web Site or for our business (such as Web Site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf).&nbsp; Unless otherwise stated, these companies do not have any right to use the Personal Information we provide to them beyond what is necessary for them to assist us.&nbsp; We may use third parties to provide services in connection with Submitted Materials, as that term is defined in the Terms of Use.&nbsp; In accordance with section D(i) above, information in forums, information submitted for sweepstakes or other offerings, and Submitted Materials (including submitted video and pictures), become publicly available and may be used by us for any lawful purpose.&nbsp; We may share personal information that is included with Submitted Materials with third parties, including, without limitation, vendors or other service providers, affiliates and partners.&nbsp; </p>
-<p>When you conduct e-commerce with one of the e-commerce affiliates or service providers to which the Web Site may be linked, certain personal information such as your e-mail and home address may be collected by the service provider’s server and made available to us.&nbsp; We do not, however, transfer credit card information you may provide to that service provider.&nbsp; </p>
-<p><strong>(v)&nbsp; Aggregate Statistics</strong><br>We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.</p>
-<p><strong>(vi)&nbsp; Legally Compelled Disclosures</strong><br>We may disclose Personal Information to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas.&nbsp; We also may disclose Personal Information when we have reason to believe that someone has committed, or will commit, unlawful acts or acts that endanger the health or safety of another; is causing injury to, or interference with, our rights or property, other users of the Web Site, or anyone else that could be harmed by such activities.&nbsp; In some situations, we may share your Personal Information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending e-mails.</p>
-<p><strong>(vii)&nbsp; Business Transfer</strong><br>In the event that the Newspaper, any affiliate of the Newspaper, or substantially all of its assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, Personal Information may be one of the transferred assets.&nbsp; For purposes of this policy, an “affiliate” of the&nbsp;Newspaper is an entity that is under the control of, or under common control with, the&nbsp;Newspaper (and for these purposes, a company controlling twenty 20% percent or more of the voting stock of another entity shall be deemed to control such entity).</p>
-<p><strong>(viii) Third Party Ad Servers</strong><br>We may use third-party advertising companies to serve ads when you visit our Web Site.&nbsp; If so, a list of these ad serving companies will be available here: &nbsp;3 Howards, Dot Connect, Integrent Media, Intercept Interactive, &nbsp;J. Carter, Marketing Casale media, Quadrant One.&nbsp; These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you.&nbsp; These companies may employ cookies and clear GIFs to measure advertising effectiveness.&nbsp; Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message).&nbsp; We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information.&nbsp; If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer web site at <a href="http://www.networkadvertising.org/consumer/">http://www.networkadvertising.org/consumer/</a>. <br><br>Yahoo! is an ad network partner that displays ads on our Web Site. To improve your ad experience on our Web Site and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. <a href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html">Click here</a> to learn more about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you.</p>
+<p><strong>(i)&nbsp; Public Forums</strong><br>
+When you contribute to a public area or feature of our Web Site, such as a chat room, bulletin board, list serve, blog, wiki or other open forum that we may make available on or through our Web Site, the information that you submit will be made available to the general public. For this reason, we recommend that you do not submit any sensitive information, including your full name, home address, phone number, other information that would enable other users to locate you or your financial information on these areas of our Web Site.&nbsp; Instead, make up a username that does not disclose your personal identity.&nbsp;</p>
+<p><strong>(ii)&nbsp; Third Party Offers</strong><br>
+We reserve the right to make our customer lists available to companies or other entities not affiliated with the Newspaper that have goods, services and offers that we believe might be of interest to you. We may compile these lists from customer orders placed both offline and online.&nbsp; We may, from time to time, provide your Personal Information to these entities so that they may send you these offers.<strong>&nbsp; </strong>Customers have the option of having their names and identifying information removed from those lists (subject to certain exceptions and limitations in applicable laws) by contacting us at <strong><a href="mailto:feedback@mysanantonio.com">feedback@mysanantonio.com</a></strong></p>
+<p><strong>(iii)&nbsp; Co-sponsored Contests, Sweepstakes and Offerings</strong><br>
+Some of our contests, sweepstakes and other offerings may be co-sponsored by another company.&nbsp; In those situations, the information we obtain from you in connection with such contest, sweepstake or offering may be shared with our co-sponsor.&nbsp; In those situations, our co-sponsors will have the right to use your information for their own purposes, in accordance with their own policies.&nbsp; If you do not wish for the information we obtain from you to be shared with our co-sponsor, then do not enter such contest, sweepstake or other offering or otherwise provide to us any Personal Information in connection with such contest, sweepstake or other offering. &nbsp;We are not responsible for how our co-sponsors may use your information.</p>
+<p><strong>(iv)&nbsp; Service Providers</strong><br>
+We may use third parties to help operate our Web Site and deliver our products and services, and may share your Personal Information with our affiliates, service providers and other third parties that provide products or services for or through this Web Site or for our business (such as Web Site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, and other similar service providers that use such information on our behalf).&nbsp; Unless otherwise stated, these companies do not have any right to use the Personal Information we provide to them beyond what is necessary for them to assist us.&nbsp; We may use third parties to provide services in connection with Submitted Materials, as that term is defined in the Terms of Use.&nbsp; In accordance with section D(i) above, information in forums, information submitted for sweepstakes or other offerings, and Submitted Materials (including submitted video and pictures), become publicly available and may be used by us for any lawful purpose.&nbsp; We may share personal information that is included with Submitted Materials with third parties, including, without limitation, vendors or other service providers, affiliates and partners.&nbsp;</p>
+<p>When you conduct e-commerce with one of the e-commerce affiliates or service providers to which the Web Site may be linked, certain personal information such as your e-mail and home address may be collected by the service provider’s server and made available to us.&nbsp; We do not, however, transfer credit card information you may provide to that service provider.&nbsp;</p>
+<p><strong>(v)&nbsp; Aggregate Statistics</strong><br>
+We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Site and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.</p>
+<p><strong>(vi)&nbsp; Legally Compelled Disclosures</strong><br>
+We may disclose Personal Information to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas.&nbsp; We also may disclose Personal Information when we have reason to believe that someone has committed, or will commit, unlawful acts or acts that endanger the health or safety of another; is causing injury to, or interference with, our rights or property, other users of the Web Site, or anyone else that could be harmed by such activities.&nbsp; In some situations, we may share your Personal Information, on a confidential basis, with third parties who perform a particular service on our behalf, such as sending e-mails.</p>
+<p><strong>(vii)&nbsp; Business Transfer</strong><br>
+In the event that the Newspaper, any affiliate of the Newspaper, or substantially all of its assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, Personal Information may be one of the transferred assets.&nbsp; For purposes of this policy, an “affiliate” of the&nbsp;Newspaper is an entity that is under the control of, or under common control with, the&nbsp;Newspaper (and for these purposes, a company controlling twenty 20% percent or more of the voting stock of another entity shall be deemed to control such entity).</p>
+<p><strong>(viii) Third Party Ad Servers</strong><br>
+We may use third-party advertising companies to serve ads when you visit our Web Site.&nbsp; If so, a list of these ad serving companies will be available here: &nbsp;3 Howards, Dot Connect, Integrent Media, Intercept Interactive, &nbsp;J. Carter, Marketing Casale media, Quadrant One.&nbsp; These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you.&nbsp; These companies may employ cookies and clear GIFs to measure advertising effectiveness.&nbsp; Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message).&nbsp; We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information.&nbsp; If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative’s consumer web site at <a href="http://www.networkadvertising.org/consumer/">http://www.networkadvertising.org/consumer/</a>. <br>
+<br>
+Yahoo! is an ad network partner that displays ads on our Web Site. To improve your ad experience on our Web Site and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display.</p>
+<span class="blue"><a name="yahoo" href="http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html"><u>Click here</u></a></span> to learn more about Yahoo!'s ad practices, including how to opt out of using anonymous information to select which ads to show you.
+<p>&nbsp;</p>
 </blockquote>
-<p><strong>E.&nbsp; Right to Opt-out </strong><br>You have the right to “opt-out” of certain of our uses of your Personal Information.&nbsp; For example, at the time you are requested to provide Personal Information on this Web Site, you may have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities affiliated<strong> </strong>or unaffiliated with the Newspaper for their marketing purposes.<strong>&nbsp; </strong>You may also make this request by sending an e-mail to <strong><a href="mailto:feedback@mysanantonio.com">feedback@mysanantonio.com</a> </strong>and indicating that you opt not to receive any marketing correspondence from us or from affiliated and unaffiliated entities.&nbsp; In this e-mail, please indicate whether you would like to opt-out of (i) receiving any correspondence from us or from entities affiliated with us or unaffiliated third parties for their marketing purposes; or (ii) (selectively identify opt-out options, eg., receipt of promotional correspondence, e-newsletters or correspondence, sharing of Personal Information with entities affiliated with you for their marketing purposes, sharing of Personal Information with unaffiliated third parties for their marketing purposes, etc.)&nbsp;&nbsp;You may also request to opt-out of email newsletters or offers by visiting our profile web page at <a href="http://www.mysanantonio.com/s?action=login&amp;rurl=/">http://www.mysanantonio.com/s?action=login&amp;rurl=/</a> and un-checking the newsletters you do not wish to receive and clicking 'Submit'. You may also opt-out of the Newspaper's promotional e-mails by clicking on an opt-out link within the e-mail you receive, or opt-out of the Newspaper’s SMS messages by texting <strong>Opt Out </strong>to<strong> 21011.<br><br></strong>Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.&nbsp; Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will apply as of the date that is [ten (10) business days] after our receipt of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request.&nbsp; In these cases, please contact that entity directly. &nbsp;</p>
-<p><strong>F.&nbsp; Security</strong> </p>
+<p><strong>E.&nbsp; Right to Opt-out </strong><br>
+You have the right to “opt-out” of certain of our uses of your Personal Information.&nbsp; For example, at the time you are requested to provide Personal Information on this Web Site, you may have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities affiliated<strong> </strong>or unaffiliated with the Newspaper for their marketing purposes.<strong>&nbsp; </strong>You may also make this request by sending an e-mail to <strong><a href="mailto:feedback@mysanantonio.com">feedback@mysanantonio.com</a> </strong>and indicating that you opt not to receive any marketing correspondence from us or from affiliated and unaffiliated entities.&nbsp; In this e-mail, please indicate whether you would like to opt-out of (i) receiving any correspondence from us or from entities affiliated with us or unaffiliated third parties for their marketing purposes; or (ii) (selectively identify opt-out options, eg., receipt of promotional correspondence, e-newsletters or correspondence, sharing of Personal Information with entities affiliated with you for their marketing purposes, sharing of Personal Information with unaffiliated third parties for their marketing purposes, etc.)&nbsp;&nbsp;You may also request to opt-out of email newsletters or offers by visiting our profile web page at <a href="http://reg.mysanantonio.com/signup/">http://reg.mysanantonio.com/signup/</a> and un-checking the newsletters you do not wish to receive and clicking 'Submit'. You may also opt-out of the Newspaper's promotional e-mails by clicking on an opt-out link within the e-mail you receive, or opt-out of the Newspaper’s SMS messages by texting <strong>Opt Out </strong>to<strong> 21011.<br>
+<br>
+</strong>Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us.&nbsp; Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will apply as of the date that is [ten (10) business days] after our receipt of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request.&nbsp; In these cases, please contact that entity directly. &nbsp;</p>
+<p><strong>F.&nbsp; Security</strong></p>
 <blockquote>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>1. &nbsp;General </strong><br>No transmission of data over the internet is guaranteed to be completely secure.&nbsp; It may be possible for third parties not under the control of the&nbsp;Newspaper to intercept or access transmissions or private communications unlawfully, including in the case of your contacting us by e-mail or a “contact us” or similar feature on our Web Site.&nbsp; Accordingly, though the&nbsp;Newspaper may take reasonable steps to protect the security and integrity of all Personal Information provided to this Web Site, due to the inherent nature of the internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.&nbsp; Any such transmission is done at your own risk.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>1. &nbsp;General </strong><br>
+No transmission of data over the internet is guaranteed to be completely secure.&nbsp; It may be possible for third parties not under the control of the&nbsp;Newspaper to intercept or access transmissions or private communications unlawfully, including in the case of your contacting us by e-mail or a “contact us” or similar feature on our Web Site.&nbsp; Accordingly, though the&nbsp;Newspaper may take reasonable steps to protect the security and integrity of all Personal Information provided to this Web Site, due to the inherent nature of the internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.&nbsp; Any such transmission is done at your own risk.</p>
 <p>You may be able to create an account on our Web Site with a username and password.&nbsp; If so, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Web Site by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee or agent.&nbsp; You agree to (a) immediately notify the&nbsp;Newspaper of any unauthorized use of your password or account or any other breach of security, and (b) ensure that you exit from your account at the end of each session.&nbsp; It is your sole responsibility to control the dissemination and use of your password, control access to and use of your account, and notify the&nbsp;Newspaper when you desire to cancel your account on this Web Site.&nbsp; We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.</p>
 <p>We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.</p>
-<p>In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development.&nbsp; If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail or by other means as required by law.&nbsp; <strong>You consent to our use of e-mail as a means of such notification.</strong>&nbsp; </p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp; Phishing<br></strong>With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information.&nbsp; Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company.&nbsp; In reality, such sensitive information may be collected by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as "phishing." </p>
-<p>If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at&nbsp;<strong><a href="mailto:feedback@mysanantonio.com">feedback@mysanantonio.com</a>.</strong> <strong></strong></p>
+<p>In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development.&nbsp; If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail or by other means as required by law.&nbsp; <strong>You consent to our use of e-mail as a means of such notification.</strong>&nbsp;</p>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp; Phishing<br>
+</strong>With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information.&nbsp; Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company.&nbsp; In reality, such sensitive information may be collected by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as "phishing."</p>
+<p>If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at&nbsp;<strong><a href="mailto:feedback@mysanantonio.com">feedback@mysanantonio.com</a>.</strong></p>
 </blockquote>
-<p><strong>G.</strong>&nbsp; <strong>Children</strong><br>The Web Site is not intended for use by children under the age of 13 or for children between the ages of 13 and 17, except in accordance with the Terms of Use.&nbsp; No one under age 13 is authorized to provide any Personal Information or use our public discussion areas, forums and chat rooms.&nbsp; The Newspaper does not knowingly collect Personal Information from children under the age of 13.<strong></strong></p>
-<p><strong>H.&nbsp; Wireless Addresses</strong><br>If the e-mail address you provide to us is a wireless e-mail address, you agree to receive messages at such address from the&nbsp;Newspapers or entities affiliated with the&nbsp;Newspaper (unless and until you have elected not to receive such messages by following the instructions in the <strong>Right to Opt-out</strong> section above).&nbsp; You understand that your wireless carrier's standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the <strong>Right to Opt-Out</strong> section above. <strong>&nbsp;</strong>You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.&nbsp;&nbsp; </p>
-<p><strong>I.&nbsp; Short Message Service&nbsp; </strong><br>We may make available a service through which you can receive messages on your wireless device via short message service (“SMS Service”).&nbsp; If you subscribe to one of our SMS Services, you thereby agree to receive SMS Service messages at the address you provide for such purposes.&nbsp; Such messages may come from the&nbsp;Newspaper or the rest of the affiliates of the&nbsp;Newspaper (unless and until you have elected not to receive such messages by following the instructions in the <strong>Right to Opt-out</strong> section above).&nbsp; </p>
-<p>You understand that your wireless carrier's standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the <strong>Right to Opt-out</strong> section above.&nbsp; You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS Service, and that you are authorized to approve the applicable charges.&nbsp; To use the SMS Service, you must be 18 years of age or older and reside in the United States.&nbsp; You must first register and provide all required Personal Information, which may include, for example, your name, SMS address, wireless carrier and, if fees are applicable to the SMS Service you subscribe to, billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier).&nbsp; We may also obtain the date, time and content of your messages in the course of your use of the SMS Service.&nbsp; We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy.&nbsp; If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith.&nbsp; Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.&nbsp; </p>
-<p>You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks.&nbsp; We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience.&nbsp; You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service.&nbsp; We may also access the content of your account and wireless account with your carrier for the purpose of identifying and resolving technical problems and service-related complaints. </p>
-<p>By signing up for the SMS Service, you consent to receive, from time to time, further messages which may include news, promotions and offers from us, our affiliates and partners, and, unless and until you have opted-out of these activities by following the instructions in the <strong>Right to Opt-out</strong> section above.&nbsp; Please follow the instructions provided to you by third parties to unsubscribe from their messages.<strong></strong></p>
-<p><strong>J.&nbsp; Third Party “Linked-To” Web Sites</strong> <br>When you are on our Web Site you may have the opportunity to visit, or link to, other web sites not operated by the Newspaper, including other web sites operated by our affiliates, by service vendors, or by unaffiliated third parties.&nbsp; These web sites may collect personal information about you.&nbsp; The Newspaper does not control web sites that are operated by these entities and is not responsible for the information practices of these web sites.&nbsp; This Privacy Policy does not address the information practices of those other web sites.&nbsp;&nbsp; The privacy policies of web sites operated by other affiliates of the&nbsp;Newspaper are located on those web sites.&nbsp;&nbsp;&nbsp; </p>
-<p><strong>K.&nbsp; Miscellaneous</strong></p>
+<p><strong>G.</strong>&nbsp; <strong>Children</strong><br>
+The Web Site is not intended for use by children under the age of 13 or for children between the ages of 13 and 17, except in accordance with the Terms of Use.&nbsp; No one under age 13 is authorized to provide any Personal Information or use our public discussion areas, forums and chat rooms.&nbsp; The Newspaper does not knowingly collect Personal Information from children under the age of 13.</p>
+<p><strong>H.&nbsp; Wireless Addresses</strong><br>
+If the e-mail address you provide to us is a wireless e-mail address, you agree to receive messages at such address from the&nbsp;Newspapers or entities affiliated with the&nbsp;Newspaper (unless and until you have elected not to receive such messages by following the instructions in the <strong>Right to Opt-out</strong> section above).&nbsp; You understand that your wireless carrier's standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the <strong>Right to Opt-Out</strong> section above. <strong>&nbsp;</strong>You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.&nbsp;&nbsp;</p>
+<p><strong>I.&nbsp; Short Message Service&nbsp; </strong><br>
+We may make available a service through which you can receive messages on your wireless device via short message service (“SMS Service”).&nbsp; If you subscribe to one of our SMS Services, you thereby agree to receive SMS Service messages at the address you provide for such purposes.&nbsp; Such messages may come from the&nbsp;Newspaper or the rest of the affiliates of the&nbsp;Newspaper (unless and until you have elected not to receive such messages by following the instructions in the <strong>Right to Opt-out</strong> section above).&nbsp;</p>
+<p>You understand that your wireless carrier's standard rates apply to these messages, and that you may change your mind at any time by following the instructions in the <strong>Right to Opt-out</strong> section above.&nbsp; You represent that you are the owner or authorized user of the wireless device you use to sign up for the SMS Service, and that you are authorized to approve the applicable charges.&nbsp; To use the SMS Service, you must be 18 years of age or older and reside in the United States.&nbsp; You must first register and provide all required Personal Information, which may include, for example, your name, SMS address, wireless carrier and, if fees are applicable to the SMS Service you subscribe to, billing information (either your credit card information or mobile service carrier information if applicable fees will be billed through your carrier).&nbsp; We may also obtain the date, time and content of your messages in the course of your use of the SMS Service.&nbsp; We will use the information we obtain in connection with our SMS Service in accordance with this Privacy Policy.&nbsp; If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith.&nbsp; Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies.&nbsp;</p>
+<p>You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks.&nbsp; We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience.&nbsp; You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service.&nbsp; We may also access the content of your account and wireless account with your carrier for the purpose of identifying and resolving technical problems and service-related complaints.</p>
+<p>By signing up for the SMS Service, you consent to receive, from time to time, further messages which may include news, promotions and offers from us, our affiliates and partners, and, unless and until you have opted-out of these activities by following the instructions in the <strong>Right to Opt-out</strong> section above.&nbsp; Please follow the instructions provided to you by third parties to unsubscribe from their messages.</p>
+<p><strong>J.&nbsp; Third Party “Linked-To” Web Sites</strong> <br>
+When you are on our Web Site you may have the opportunity to visit, or link to, other web sites not operated by the Newspaper, including other web sites operated by our affiliates, by service vendors, or by unaffiliated third parties.&nbsp; These web sites may collect personal information about you.&nbsp; The Newspaper does not control web sites that are operated by these entities and is not responsible for the information practices of these web sites.&nbsp; This Privacy Policy does not address the information practices of those other web sites.&nbsp;&nbsp; The privacy policies of web sites operated by other affiliates of the&nbsp;Newspaper are located on those web sites.&nbsp;&nbsp;&nbsp;</p>
+
+<p><strong>K.&nbsp; News Registry</strong> <br>
+We participate in the News Registry, a service operated by the News Licensing Group, LLC (NLG). The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the NLG News Registry. Please refer to the NLG News Registry privacy policy at <a href="http://www.newsregistry.com/privacycenter/servicepolicy.aspx">http://www.newsregistry.com/privacycenter/servicepolicy.aspx</a> for further information.
+
+<img src="http://privacy.apnewsregistry.com/privacy/v1/image.svc/E/Prod" alt="" style="display:none" width="1" height="1"></p>
+
+<p><strong>L.&nbsp; Miscellaneous</strong></p>
 <blockquote>
-<p><strong>(i)&nbsp; Consent to Processing</strong><br>We control and operate the Web Site from our offices in the United States of America.&nbsp; By providing Personal Information to this Web Site, you understand and consent to such collection, maintenance, processing and transfer of such information.&nbsp; We do not represent that materials on the Web Site are appropriate or available for use in other locations.&nbsp; Persons who choose to access the Web Site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable.&nbsp; All parties to this Privacy Policy waive their respective rights to a trial by jury.&nbsp; <strong></strong></p>
-<p><strong>(ii)&nbsp; Your Access Rights<br></strong>You may review the Personal Information that is stored in your user account on this Web Site by visiting the [“Member Profile”] or equivalent area of your account on this Web Site or by e-mailing <strong>feedback@mysanantonio.com</strong></p>
-<p><strong>(iii)&nbsp; Changes to this Privacy Policy</strong> <br>The Newspaper reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Privacy Policy on this page.&nbsp; Any changes or updates will be effective immediately upon posting to this Web Site.&nbsp; Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web Site or sending you an e-mail.&nbsp; <strong></strong></p>
-<p><strong>(iv)&nbsp; Contact Us<br></strong>If you have any questions or comments regarding our privacy practices, you may contact us at<strong>&nbsp; <a href="mailto:feedback@mysanantonio.com">feedback@mysanantonio.com</a>.</strong></p>
+<p><strong>(i)&nbsp; Consent to Processing</strong><br>
+We control and operate the Web Site from our offices in the United States of America.&nbsp; By providing Personal Information to this Web Site, you understand and consent to such collection, maintenance, processing and transfer of such information.&nbsp; We do not represent that materials on the Web Site are appropriate or available for use in other locations.&nbsp; Persons who choose to access the Web Site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable.&nbsp; All parties to this Privacy Policy waive their respective rights to a trial by jury.&nbsp;</p>
+<p><strong>(ii)&nbsp; Your Access Rights<br>
+</strong>You may review the Personal Information that is stored in your user account on this Web Site by visiting the [“Member Profile”] or equivalent area of your account on this Web Site or by e-mailing <strong>feedback@mysanantonio.com</strong></p>
+<p><strong>(iii)&nbsp; Changes to this Privacy Policy</strong> <br>
+The Newspaper reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Privacy Policy on this page.&nbsp; Any changes or updates will be effective immediately upon posting to this Web Site.&nbsp; Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web Site or sending you an e-mail.&nbsp;</p>
+<p><strong>(iv)&nbsp; Contact Us<br>
+</strong>If you have any questions or comments regarding our privacy practices, you may contact us at<strong>&nbsp; <a href="mailto:feedback@mysanantonio.com">feedback@mysanantonio.com</a>.</strong></p>
 </blockquote>
 <p><strong><u>Effective Date:&nbsp; December 31, 2008</u></strong></p>
 </div>
 </div>
 <div class="break">&nbsp;</div>
-	
-
-
-
-
-																					            		<div class="break-higher"></div>
-								<div class="borderbot"></div>
-								<div class="break"></div>
-
-								<!--YAHOO ADS-->
-											<div class="container-100">
-
-										
-										<script type="text/javascript">
-										
-											function ShowListings() {
-											var i=6;
-											var j=0;
-											var divText ="";
-
-											divText = divText +'<div style="container-100">';
-											while (i < zSr.length) {
-											//alert("Value of i : "+ i);
-											var descr = zSr[i++]; // listing description
-											var unused1 = zSr[i++]; // (ignore)
-											var clickURL = zSr[i++]; // listing link
-											var title = zSr[i++]; // listing title
-											var sitehost = zSr[i++]; // advertiser’s domain name
-											var unused2 = zSr[i++]; // (ignore)
-											//alert(i);
-
-											//divText = divText +'<div class="yahoo-left">';
-											
-											//alert("value of j in for loop   : " + j);
-											if(j%2==0)
-											{
-											//alert("even j:   " +j + " and value of  i: " + i );
-											//alert("title  in even J: " + title);
-											divText = divText + '<div class="container-325l" style="height:90px;">';
-											divText = divText +'<span class="txt-basicb">';
-											divText = divText +'<a target="_new" href="' + clickURL + '" style="text-decoration:none; font-weight:bold;">' + title + '</a><br>';
-											divText = divText +'<a target="_new" href="' + clickURL + '" style="text-decoration:none; color:rgb(0,0,0); font-weight:normal;" >' + descr + '</a><br>';
-											divText = divText +'<a target="_new" href="' + clickURL + '"style="text-decoration:none; color:rgb(192,192,192)">(' + sitehost + ')</a><br><br>';
-											divText = divText +'</span>';
-											divText = divText +'</div>';
-											//j=1;
-											j++;
-											//break;
-											}
-											else{
-											//alert("odd j : " +j + " and value of  i : " + i );
-											//alert("title  in odd J: " + title);
-											divText = divText + '<div class="container-325r" style="height:90px;">';
-											divText = divText +'<span class="txt-basicb">';
-											divText = divText +'<a target="_new" href="' + clickURL + '" style="text-decoration:none; font-weight:bold;">' + title + '</a><br>';
-
-											divText = divText +'<a target="_new" href="' + clickURL + '" style="text-decoration:none; color:rgb(0,0,0); font-weight:normal;" >' + descr + '</a><br>';
-											divText = divText +'<a target="_new" href="' + clickURL + '"style="text-decoration:none; color:rgb(192,192,192)">(' + sitehost + ')</a><br><br>';
-											divText = divText +'</span>';
-											divText = divText +'</div>';
-											j++;
-											//break;
-											}
-											
-											}
-											document.getElementById('div2').innerHTML = divText;
-											divText = divText +'</div>';
-											}
-											
-											
-										</script>
-										
-										
-
-										
-
-										
-										
-										
-										
-																														
-																							
-																																											
-																							
-												
-																										<script type="text/javascript" src="http://cm.npc-hearst.overture.com/js_flat_1_0/?config=2130893885&amp;source=npc_hearst_sanantonioexpressnews_t2_ctxt&amp;ctxtId=home_page&amp;type=home_page&amp;maxCount=4&amp;outputCharEnc=latin1&amp;ctxtUrl=http%3A%2F%2Fwww.mysanantonio.com/about_us"> </script>
-											
-																																											
-																												
-
-										<div id="div2" class="container-100"></div>
-
-										<script type="text/javascript">
-										<!--
-										ShowListings()
-										// -->
-										</script>
-
-										<div class="container-100">
-											<div class="yahoo-bg">
-												<div class="yahoo-leftw"></div>
-
-												<div class="yahoo-rightw"></div>
-												<div class="fr"><span class="txt-yahoobot"><a href="http://searchmarketing.yahoo.com/srch/contentmatch.php">Ads by Yahoo</a></span></div>
-											</div>
-										</div>
-								</div>
-								<!--END YAHOO ADS--> 
-													</div>
-						<!--END LEFT COLUMN-->
-										
-					
-					<!--RIGHT COLUMN-->
-<div id="rightcol" class="column">
-	<div class="container-100">
-				
-																																																																																																																																								
-																																			<div class="container-100 testing">
-											
-        <script type="text/javascript">yld_mgr.place_ad_here('ROLLOVER');</script>
-
-
-  
-
-
-									</div>
-				<div class="break"></div>
-												<div class="container-100 testing">
-											
-      <div class="ad_w_us_a300 txt-basic">
-<a href="http://www.mysanantonio.com/about_us/mysanantonio/advertise/">advertise here</a>
-</div>
-      <script type="text/javascript">yld_mgr.place_ad_here('A300');</script>
-
-
-  
-
-
-									</div>
-				<div class="break"></div>
-																								
-
-				<div>
-			
-    <div class="minibreak"></div>
-
-<div class="container-100">
-      
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-     <div class="container-100">
-         <script type="text/javascript">
-    function  ValiDate(theForm)
-    { 
-    var searchValue= document.getElementById("crimeSearchText").value;
-    var msg = "Search Cann't have the following special   characters  @,?,/";
-    var charValue ;
-    for(i=0;i<searchValue.length;i++)
-    {
-    charValue = searchValue.charCodeAt(i)
-   // alert(" charValue : " + charValue); 
- 
-      if(charValue==63)
-      {
-    msg= "Search string cannot have '?' ,Please enter a valid value";
-        alert(msg);
-     //  return false;
-      theForm.crimeSearchText.value = "";
-       theForm.crimeSearchText.setFocus();
-       return (false);
-      }
-      else
-      {
-       if(charValue==47)
-       {
-       msg= "Search string cannot have '/' ,Please enter a valid value";
-        alert(msg);
-      // return false;
-       this.crimeSearchText.value = "";
-       this.crimeSearchText.setFocus();
-       return (false);
-       }
-       else
-       {      
-       if(charValue==35)
-       {
-       msg= "Search string cannot have '#' ,Please enter a valid value";
-        alert(msg);
-      // return false;
-       theForm.crimeSearchText.value = "";
-       theForm.crimeSearchText.setFocus();
-       return (false);
-       }
-       
-       }      
-      
-    
-    }  
-    
-    }
-    var v= "/crimebase/crimeBaseSummaries.html?searchValue="+searchValue+"&firstResult=0"; 
-    document.crimeSearch.action = v; 
-    document.crimeSearch.submit();
-    }
-    
-    </script>
-<div class="container-100">
-<div align="left" class="txt-basic">
-<form onsubmit="ValiDate()" method="post" action="" id="crimeSearch" name="crimeSearch">
-	<a href="http://www.mysanantonio.com/crimebase"><h1 class="blue">Crimebase</h1></a>
-    <div align="left">Find police reports by entering Zip code, street name, date or case number:</div>
-    <div class="minibreak">&nbsp;</div>
-    <div align="left"><input type="text" size="40" onclick="if(this.value!='') this.style.color='black', this.value='';" onblur="if(this.value=='') this.style.color='#D8D7D5', this.value='Enter search term here';" onfocus="if(this.value=='Enter search term here') this.value='', this.style.color='black';" name="keywords" value="Enter search term here" class="txt-basic grey" id="crimeSearchText"><input type="submit" name="Search" value="Search"></div>
-</form>
-</div>
-</div> 
-       </div>
-  
-   </div>
-
-       <div class="break"></div>
-        
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-     <div class="container-100">
-         <div class="container-100">
-<div><a href="http://www.mysanantonio.com/about_us/twitter"><img alt="mysa twitter" src="http://media.mysanantonio.com/images/mysatwitter_home.gif"></a></div>
-</div> 
-       </div>
-  
-   </div>
-
-      </div>
-
-		</div>
-		<div class="break"></div>
-	
-												<div class="container-100 testing">
-											
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-              <div class="container-100" style="">
-			<div class="subb">
-                <div class="sub-leftb"></div>
-                    <h2><a href="http://shopping.mysanantonio.com/rop/Categories.aspx">express-news ads</a></h2>
-                <div class="sub-rightb"></div>
-                <div class="right-links"><span class="txt-small"><a href="http://shopping.mysanantonio.com/rop/Categories.aspx">view all</a></span></div>
-			</div>			
-			<div class="subbar"></div>
-
-
-
-<div class="container-100">
-            <div class="txt-basic">
-            	<div class="fl" style="padding-right: 6px; padding-left:3px">
-            		<img src="http://media.mysanantonio.com/images/shoppingbag.gif" width="38" height="75">            	</div>
-              <div class="fl">
-       	    <div align="left"><div class="break"></div>
-            		<h5 align="left" class="blue"><a href="http://shopping.mysanantonio.com/rop/Categories.aspx">New ads everyday</a></h5>more savings for you! 
-             	
-             <form style="margin: 0px;" method="get" action="http://shopping.mysanantonio.com/Shared/Search.aspx">
-            <script language="Javascript" src="../content/search.js"></script>
-            <input id="searchbox" name="s" value="Enter Ad Keyword" onfocus="if(this.value=='Enter Ad Keyword') this.value='', this.style.color='black';" onblur="if(this.value=='') this.style.color='#D8D7D5', this.value='Enter Ad Keyword';" type="text">
-            <input name="submit" src="http://media.mysanantonio.com/images/go_button_green.gif" alt="Submit Search" id="searchbutton" type="image">
-              </form></div>
-              </div>
-
-        </div>
-  </div>
-</div>
-
-<span class="txt-basic"><a href="http://www.itsyourmoneysaveit.net/" target="_blank"><img src="http://media.mysanantonio.com/images/saveit_full.gif" alt="It's YOUR money SAVE IT" width="300" height="71" border="0"></a></span>
-          </div>
-
-									</div>
-				<div class="break"></div>
-																								
-
-				<div>
-			
-   <div class="subb">
-   <div class="sub-leftb"></div>
-  
- <h2>
-     <a href="http://hotjobs.yahoo.com">
-    
-     jobs
-    
-     </a>
-   </h2>
- 
-   <div class="sub-rightb"></div>
- 
-       
- <div class="right-links" style="padding-right:4px;"><span class="txt-small">
-             <a href="http://hotjobs.yahoo.com/create-resume;_ylc=X3oDMTFiNzcyZWcwBF9TAzM5NjUxMTI1MQRwYXJ0bmVyA3NhbmFudG9uaW8Ec3JjA2NvbnNvbGU-?partner=sanantonio">post resume</a>
-            | <a href="http://hotjobs.yahoo.com/job-search;_ylc=X3oDMTFiNzcyZWcwBF9TAzM5NjUxMTI1MQRwYXJ0bmVyA3NhbmFudG9uaW8Ec3JjA2NvbnNvbGU-?partner=sanantonio&amp;kw=&amp;locations=San+Antonio%2C+TX&amp;metro_search_proxy=1&amp;metro_search=1&amp;industry=">view all</a>
-   </span>
-</div>
- 
     </div>
-      
-   <div class="subbar"></div>
-     <div class="minibreak"></div>
-
-<div class="container-100">
-          <div class="container-70l">
-     
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
     
+    	
+<div class="hst-ysm">
+	<script type="text/javascript" src="http://images.chron.com/CDC/elf/js/ysmwrapper.js"></script>
+</div>    	
+    	    	
+    </div><!--/.span-21b-->
     
-    
-              <div class="list"><script language="javascript" src="http://shopping.mysanantonio.com/Class/JTopLiner.aspx?numad=3&amp;linerType=jobs&amp;linerTarget=_blank&amp;sptype=false"></script></div>
-          </div>
-
-    </div>
-            <div class="container-25r">
-     
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-     <div class="container-100">
-         <div align="center"><img alt="jobs" src="http://media.mysanantonio.com/designimages/icon-jobs.gif"></div> 
-       </div>
-  
-   </div>
-
-    </div>
-          
- </div>
-
-		</div>
-		<div class="break"></div>
+    <!-- templates/hearst/home/section_right_content.tpl  -->
+<div class="span-10 last">
 	
-																								
-
-				<div>
-			
-   <div class="subb">
-   <div class="sub-leftb"></div>
-  
- <h2>
-     <a href="http://homes.mysanantonio.com/">
-    
-     real estate
-    
-     </a>
-   </h2>
- 
-   <div class="sub-rightb"></div>
- 
-       
- <div class="right-links" style="padding-right:4px;"><span class="txt-small">
-             <a href="http://www.mysanantonio.com/realestate">for sale</a>
-            | <a href="http://www.mysanantonio.com/realestate/rentals">for rent</a>
-   </span>
+		<!-- ux/mysa/templates/hearst/ads/partial_banner_ad.tpl  -->
+<!-- e ux/mysa/templates/hearst/ads/partial_banner_ad.tpl  -->	
+	    <div id="hst-mediumrectangle1" class="hst-mediumrectangle clearfix">
+<div class="ad_deferrable"><div id="deferrable_6"></div></div>
 </div>
- 
-    </div>
-      
-   <div class="subbar"></div>
-     <div class="minibreak"></div>
 
-<div class="container-100">
-          <div class="container-70l">
-     
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-              <div class="list"><script language="javascript" src="http://shopping.mysanantonio.com/Class/JTopLiner.aspx?numad=3&amp;linerType=homes&amp;linerTarget=_blank&amp;sptype=false"></script></div>
-          </div>
 
-    </div>
-            <div class="container-25r">
-     
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
     
-    
-    
-     <div class="container-100">
-         <div align="center"><img alt="jobs" src="http://media.mysanantonio.com/designimages/icon-realestate.gif"></div> 
-       </div>
-  
-   </div>
+    <!--.hst-mostpopular-->
+<div class="hst-mostpopular tab-set"><div class="edge2"><div class="edge3"><div class="edge4 clearfix">
 
-    </div>
-          
- </div>
+    <ul class="nav-tabs clearfix">
+        <li><a href="#">Most Read</a></li>
+                    <li class="lim">|</li>
+            <li><a href="#">Most Commented</a></li>
+                            <li class="lim">|</li>
+            <li><a href="#">Most Emailed</a></li>
+        	
+    </ul>
 
-		</div>
-		<div class="break"></div>
+
+	    <div class="content-tab"><ol>
+
+    	            <li>
+    			<a href="/sports/college_sports/big_12/article/Baylor-Washington-set-for-Alamo-Bowl-2343472.php" title="Offensive fireworks expected at Alamo Bowl">Offensive fireworks expected at Alamo Bowl</a>
+    		</li>
+    	            <li>
+    			<a href="/sports/college_sports/aggies/article/Several-A-M-candidates-emerge-2342779.php" title="Several A&amp;M candidates emerge">Several A&amp;M candidates emerge</a>
+    		</li>
+    	            <li>
+    			<a href="/news/local_news/article/Woman-shot-inside-Northeast-Side-home-2343092.php" title="Woman shot inside Northeast Side home">Woman shot inside Northeast Side home</a>
+    		</li>
+    	            <li>
+    			<a href="/news/local_news/article/Man-critically-injured-in-crash-involving-school-2345483.php" title="Man killed in crash involving school bus">Man killed in crash involving school bus</a>
+    		</li>
+    	            <li>
+    			<a href="http://blog.mysanantonio.com/aggies/2011/12/insiders-multiple-candidates-will-interview-for-aggies-gig/" title="Insiders: Multiple candidates will interview for Aggies gig">Insiders: Multiple candidates will interview for Aggies gig</a>
+    		</li>
+    	            <li>
+    			<a href="/sports/college_sports/aggies/article/A-M-to-end-year-in-Houston-2344036.php" title="A&amp;M to end year in Houston">A&amp;M to end year in Houston</a>
+    		</li>
+    	            <li class="last">
+    			<a href="http://blog.mysanantonio.com/nfl/2011/12/bailey-bemoans-weird-operation-leading-up-to-missed-field-goal/?utm_source=bleacherreport.com&amp;utm_medium=referral" title="Bailey bemoans ‘weird operation’ leading up to missed field goal">Bailey bemoans ‘weird operation’ leading up to missed field goal</a>
+    		</li>
+    	
+    </ol></div>
 	
-																		
+	    <div class="content-tab"><ol>
 
-				<div>
-			
-   <div class="subb">
-   <div class="sub-leftb"></div>
-  
- <h2>
-     <a href="http://mysanantonio.com/autos">
-    
-     autos
-    
-     </a>
-   </h2>
- 
-   <div class="sub-rightb"></div>
- 
-       
- <div class="right-links" style="padding-right:4px;"><span class="txt-small">
-             <a href="http://mysanantonio.com/autos">view all</a>
-   </span>
-</div>
- 
-    </div>
-      
-   <div class="subbar"></div>
-     <div class="minibreak"></div>
-
-<div class="container-100">
-      
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-              <script language="JavaScript" src="http://images.digitalmediacommunications.com/resources/js/DMCdynamicFlashOJAZ3.js"></script>
-<script>dynamicDMCflash('300','175','no','no','430','drb300x175.swf');</script>
-          </div>
-
-      </div>
-
-		</div>
-		<div class="break"></div>
+    	            <li>
+    			<a href="http://www.mysanantonio.com/opinion/letters_to_the_editor/article/Your-turn-Dec-4-2011-2340922.php" title="Your turn %u2013 Dec. 4, 2011">Your turn %u2013 Dec. 4, 2011</a>
+    		</li>
+    	            <li>
+    			<a href="http://www.mysanantonio.com/opinion/letters_to_the_editor/article/Your-turn-Dec-5-2011-2340978.php" title="Your turn %u2013 Dec. 5, 2011">Your turn %u2013 Dec. 5, 2011</a>
+    		</li>
+    	            <li>
+    			<a href="http://blog.mysanantonio.com/spursnation/2011/12/03/reason-popovich-deserves-amnesty/" title="Reason Popovich deserves amnesty">Reason Popovich deserves amnesty</a>
+    		</li>
+    	            <li>
+    			<a href="http://www.mysanantonio.com/news/article/Border-arrests-see-big-decline-2344154.php" title="Border arrests see big decline">Border arrests see big decline</a>
+    		</li>
+    	            <li>
+    			<a href="http://www.mysanantonio.com/opinion/columnists/maria_anglin/article/Smoking-at-parades-offensive-2340916.php" title="Smoking at parades offensive">Smoking at parades offensive</a>
+    		</li>
+    	            <li>
+    			<a href="http://www.mysanantonio.com/news/article/DREAM-Act-immigration-not-mentioned-in-teen-s-2341291.php" title="DREAM Act, immigration not mentioned in teen's suicide notes">DREAM Act, immigration not mentioned in teen's suicide notes</a>
+    		</li>
+    	            <li>
+    			<a href="http://www.mysanantonio.com/sports/college_sports/big_12/article/Baylor-Washington-set-for-Alamo-Bowl-2343472.php" title="Baylor-Washington set for Alamo Bowl">Baylor-Washington set for Alamo Bowl</a>
+    		</li>
+    	            <li>
+    			<a href="http://www.mysanantonio.com/news/article/Is-global-warming-frenzy-about-science-or-dogma-2340919.php" title="Is global warming frenzy about science or dogma?">Is global warming frenzy about science or dogma?</a>
+    		</li>
+    	            <li>
+    			<a href="http://www.mysanantonio.com/sports/college_sports/aggies/article/Several-A-M-candidates-emerge-2342779.php" title="Several A&amp;M candidates emerge">Several A&amp;M candidates emerge</a>
+    		</li>
+    	            <li class="last">
+    			<a href="http://www.mysanantonio.com/news/local_news/article/Woman-shot-inside-Northeast-Side-home-2343092.php" title="Woman shot inside Northeast Side home">Woman shot inside Northeast Side home</a>
+    		</li>
+    	
+    </ol></div>
 	
-												<div class="container-100 testing">
-											
- 
- 
-	<!--TABS-->
-	<div class="container-100">
-		<div class="fl">
-			<h4 class="mostblue">MOST :</h4>
-		</div>
+	    <div class="content-tab"><ol>
 
-		<!--TAB 1-->
-		<div class="container-tab">
-			<div class="tab-selectedlb" id="mostCommentedEmpty1"></div>
-			<div class="tabbg-selected" id="mostCommentedLink"><span class="txt-tabselected" id="mostCommentedLinkSpan"><a href="javascript:switchMostPopTab('mostCommented');">commented</a></span></div>
-			<div class="tab-selectedrb" id="mostCommentedEmpty2"></div>
-		</div>
-		<!--END TAB 1-->
-
-		<!--TAB 2-->
-		<div class="container-tab">
-			<div class="tab-lb" id="mostEmailedEmpty1"></div>
-			<div class="tabbg" id="mostEmailedLink"><span class="txt-tab" id="mostEmailedLinkSpan"><a href="javascript:switchMostPopTab('mostEmailed');">emailed</a></span></div>
-			<div class="tab-rb" id="mostEmailedEmpty2"></div>
-
-		</div>
-		<!--END TAB 2-->
-
-		<!--TAB 3-->
-		<div class="container-tab">
-			<div class="tab-lb" id="mostViewedEmpty1"></div>
-			<div class="tabbg" id="mostViewedLink"><span class="txt-tab" id="mostViewedLinkSpan"><a href="javascript:switchMostPopTab('mostViewed');">viewed</a></span></div>
-			<div class="tab-rb" id="mostViewedEmpty2"></div>
-		</div>							
-		<!--END TAB 3-->
-
-	</div>	
-
-	<!--END TABS-->
-
-						
-	<!--LINKS-->
-	<div class="container-100">
-		<div class="subb-most">
-			<div class="container-282">
-				<div class="minibreak"></div>
-				<div class="txt-most" id="mostCommentedContent">
-										
-
-
-
-
-
-			
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-							
-
-					    			    												
-			    			    		    								    			    									
-			    			    		    								    			    												
-			    			    		    								    			    															
-			    			    		    								    			    						
-			    			    		    								    			    												
-			    			    		    								    			    									
-			    			    		    								    			    												
-			    			    		    								    			    									
-			    			    		    								    			    									
-			    			    		    																							
-
-
-											<a href="http://www.mysanantonio.com/news/VIA_nixes_texting_by_drivers.html">No phones, texting for VIA drivers</a><br>
-											<a href="http://www.mysanantonio.com/news/national/TVs_Jon_and_Kate_Gosselin_say_theyre_divorcing.html">TV's Jon and Kate Gosselin say they're divorcing</a><br>
-											<a href="http://www.mysanantonio.com/news/Perry_tops_GOP_rival_in_governors_race_poll.html">Perry tops GOP rival in gov race poll</a><br>
-											<a href="http://www.mysanantonio.com/sports/spurs/Bruce_Bowen_Kurt_Thomas_and_Fabricio_Oberto_traded.html">Spurs trade three for one</a><br>
-											<a href="http://www.mysanantonio.com/news/local_news/17-year-old_killed_in_accident_on_South_Side.html">17-year-old killed in accident on South Side</a><br>
-											<a href="http://www.mysanantonio.com/sports/spurs/Bowen_says_San_Antonio_will_always_be_home.html">Bowen says San Antonio will always be home</a><br>
-											<a href="http://www.mysanantonio.com/opinion/letters_to_editor/Your_Turn__June_24_2009.html">Your Turn – June 24, 2009</a><br>
-											<a href="http://www.mysanantonio.com/Mom_who_tried_to_sell_child_gets_20_years_in_prison.html">Mom who tried to sell child gets 20 years in prison</a><br>
-											<a href="http://www.mysanantonio.com/news/Three_arrested_in_attempted_Northeast_Side_burglary.html">Three arrested in attempted Northeast Side burglary</a><br>
-											<a href="http://www.mysanantonio.com/news/local_news/County_burn_ban_limits_fireworks.html">Vendor irked at limits on fireworks</a><br>
-									</div>
-
-				<div class="txt-most hidden" id="mostEmailedContent">
-										
-
-
-
-
-
-			
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-							
-
-					    			    									
-			    			    		    								    			    						
-			    			    		    								    			    															
-			    			    		    								    			    									
-			    			    		    								    			    												
-			    			    		    								    			    																				
-			    			    		    								    			    												
-			    			    		    								    			    									
-			    			    		    								    			    												
-			    			    		    								    			    												
-			    			    		    																							
-
-
-
-											<a href="http://www.mysanantonio.com/life/food/Feed_your_family_for_5.html">Feed your family for $5</a><br>
-											<a href="http://www.mysanantonio.com/life/food/recipe_database/Recipe_Database_Details.html">Recipe Database Details</a><br>
-											<a href="http://www.mysanantonio.com/sports/spurs/Bruce_Bowen_Kurt_Thomas_and_Fabricio_Oberto_traded.html">Spurs trade three for one</a><br>
-											<a href="http://www.mysanantonio.com/business/Briscoe_honored_for_his_service.html">Briscoe honored for his service</a><br>
-											<a href="http://www.mysanantonio.com/news/local_news/Winning_design_for_health_center_nods_to_historic_roots_neighbors.html">Winning health center design nods to history, neighbors</a><br>
-											<a href="http://www.mysanantonio.com/livinggreensa/Christmas_Mountains_Perilous_trek_Hidden_beauty.html">Christmas Mountains: Perilous trek, hidden beauty</a><br>
-											<a href="http://www.mysanantonio.com/news/Flag-burning_man_sues_city.html">Flag-burning man sues city</a><br>
-											<a href="http://www.mysanantonio.com/news/local_news/Digital_billboard_debate_fires_back_up.html">Digital billboard debate fires back up</a><br>
-											<a href="http://www.mysanantonio.com/news/VIA_nixes_texting_by_drivers.html">No phones, texting for VIA drivers</a><br>
-											<a href="http://www.mysanantonio.com/news/Schieffer_plans_three_big_stops_Wednesday_to_launch_candidacy.html">Dem Schieffer launches campaign for governor seat</a><br>
-									</div>
-
-				<div class="txt-most hidden" id="mostViewedContent">
-										
-
-
-
-
-
-			
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-									
-				
-							
-
-					    			    												
-			    			    		    								    			    									
-			    			    		    								    			    																								
-			    			    		    								    			    																		
-			    			    		    								    			    															
-			    			    		    								    			    												
-			    			    		    								    			    																		
-			    			    		    								    			    									
-			    			    		    								    			    									
-			    			    		    								    			    						
-			    			    		    																							
-
-
-
-											<a href="http://www.mysanantonio.com/slideshows/Spurs_trade_3_for_1_062309.html">New Spur: Richard Jefferson</a><br>
-											<a href="http://www.mysanantonio.com/slideshows/Hottest_Latina_09_Fashion_picks.html">Hottest Latina '09: Fashion picks</a><br>
-											<a href="http://www.mysanantonio.com/slideshows/The_Christmas_Mountains_and_Big_Bend_National_Park_.html">The Christmas Mountains and Big Bend National Park </a><br>
-											<a href="http://www.mysanantonio.com/slideshows/Eva_Longoria_visits_Wendys.html">Eva visits local Wendy's</a><br>
-											<a href="http://www.mysanantonio.com/sports/spurs/Bruce_Bowen_Kurt_Thomas_and_Fabricio_Oberto_traded.html">Spurs trade three for one</a><br>
-											<a href="http://www.mysanantonio.com/sports/spurs/Bowen_says_San_Antonio_will_always_be_home.html">Bowen says San Antonio will always be home</a><br>
-											<a href="http://www.mysanantonio.com/sports/spurs/Could_the_Spurs_get_more_from_four.html">Could the Spurs get more from four?</a><br>
-											<a href="http://www.mysanantonio.com/slideshows/USA_defeats_Spain_2-0_062409.html">USA defeats Spain 2-0</a><br>
-											<a href="http://www.mysanantonio.com/slideshows/Conexions_Hottest_Latina_2009_Karen_Villarreal_.html">Conexión's Hottest Latina 2009: Karen Villarreal </a><br>
-											<a href="http://www.mysanantonio.com/news/local_news/17-year-old_killed_in_accident_on_South_Side.html">17-year-old killed in accident on South Side</a><br>
-									</div>
-				<div class="minibreak"></div>
-			</div>
-		</div>
-	</div>
-	<!--END LINKS-->
-
-	<script>
-		var curTabID = "";
-		function switchMostPopTab(tabID){
-			if(tabID != curTabID){
-				if(curTabID != ""){
-					document.getElementById(curTabID + "Empty1").className = 'tab-lb';
-					document.getElementById(curTabID + "Link").className = 'tabbg';
-					document.getElementById(curTabID + "Empty2").className = 'tab-rb';
-					document.getElementById(curTabID + "LinkSpan").className = 'txt-tab';						
-					document.getElementById(curTabID + "Content").className = 'txt-most hidden';
-				}
-
-				document.getElementById(tabID + "Empty1").className = 'tab-selectedlb';
-				document.getElementById(tabID + "Link").className = 'tabbg-selected';
-				document.getElementById(tabID + "Empty2").className = 'tab-selectedrb';
-				document.getElementById(tabID + "LinkSpan").className = 'txt-tabselected';						
-				document.getElementById(tabID + "Content").className = 'txt-most visible';
-
-				curTabID = tabID;
-			}
-		}
-		
-		curTabID = "mostCommented";
-	</script>
+    	            <li>
+    			<a href="/sports/college_sports/big_12/article/Baylor-Washington-set-for-Alamo-Bowl-2343472.php" title="Offensive fireworks expected at Alamo Bowl">Offensive fireworks expected at Alamo Bowl</a>
+    		</li>
+    	            <li>
+    			<a href="/news/education/article/Districts-getting-ready-for-new-test-2342793.php" title="Districts getting ready for new test">Districts getting ready for new test</a>
+    		</li>
+    	            <li>
+    			<a href="/sports/college_sports/aggies/article/Several-A-M-candidates-emerge-2342779.php" title="Several A&amp;M candidates emerge">Several A&amp;M candidates emerge</a>
+    		</li>
+    	            <li>
+    			<a href="/news/article/Fleet-of-Ferraris-ruined-in-Japan-sportscar-pileup-2345325.php" title="Fleet of Ferraris ruined in Japan sportscar pileup">Fleet of Ferraris ruined in Japan sportscar pileup</a>
+    		</li>
+    	            <li>
+    			<a href="/news/article/NASA-finds-planet-that-s-just-about-right-for-life-2345602.php" title="Planet in sweet spot of Goldilocks zone for life">Planet in sweet spot of Goldilocks zone for life</a>
+    		</li>
+    	            <li>
+    			<a href="/news/military/article/Army-s-oldest-general-buried-at-Fort-Sam-2342274.php" title="Army's oldest general buried at Fort Sam">Army's oldest general buried at Fort Sam</a>
+    		</li>
+    	            <li class="last">
+    			<a href="/news/military/article/Wars-taking-toll-on-military-dogs-too-2344156.php" title="Wars taking toll on military dogs, too">Wars taking toll on military dogs, too</a>
+    		</li>
+    	
+    </ol></div>
 	
-	
-
-									</div>
-				<div class="break"></div>
-												<div class="container-100 testing">
-											
-        <script type="text/javascript">yld_mgr.place_ad_here('B300');</script>
-
-
-  
-
-
-									</div>
-				<div class="break"></div>
-																								
-
-				<div>
-			
-   <div class="subb">
-   <div class="sub-leftb"></div>
-  
- <h2>
-     <a href="http://www.mysanantonio.com/news/data_central">
+</div></div></div></div>
+<!-- Social Activity for SeattlePI -->
     
-     data central
-    
-     </a>
-   </h2>
- 
-   <div class="sub-rightb"></div>
- 
-       
- <div class="right-links" style="padding-right:4px;"><span class="txt-small">
-             <a href="http://www.mysanantonio.com/news/data_central">more databases</a>
-   </span>
-</div>
- 
-    </div>
-      
-   <div class="subbar"></div>
-     <div class="minibreak"></div>
-
-<div class="container-100">
-      
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-     <div class="container-100">
-         <h5 class="blue"><a href="http://www.mysanantonio.com/news/data_central/State_Salaries_Database.html">Database: Search Texas state payroll</a></h5>
-<div class="txt-basic">Payroll databases are key government records for public watchdogs.</div> 
-       </div>
-  
-   </div>
-
-       <div class="break"></div>
-        
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-     <div class="container-100">
-         <div class="container-100">
-<div>
-<div class="container-49l">
-<div class="list">
-<ul>
-    <li><a href="http://hosted.ap.org/specials/interactives/_business/foreclosure_map/index.html?SITE=TXSAE">State by state foreclosures</a></li>
-    <li><a href="http://www.mysanantonio.com/news/data_central/Realty_Foreclosures_-_Bexar_County.html">Bexar Co. foreclosures</a></li>
-    <li><a href="http://www.mysanantonio.com/news/data_central/Realty_Foreclosures_-_Texas.html">Texas foreclosures</a></li>
-</ul>
-</div>
-</div>
-<div class="container-49r">
-<div class="list">
-<ul>
-    <li><a href="http://www.mysanantonio.com/news/data_central/Readers_Choice_Awards.html">Readers Choice Awards</a> <!-- <li><a href="http://www.mysanantonio.com/news/data_central/School_Finder.html">School Finder</a></li> --></li>
-    <li><a href="http://www.mysanantonio.com/news/data_central/San_Antonio_city_salaries.html">Search city salaries</a></li>
-    <li><a href="http://www.mysanantonio.com/news/data_central/Troubled_Asset_Relief_Program_Transaction_Report.html">Troubled Asset Relief Program </a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<!--END 3RD COLUMN--> 
-       </div>
-  
-   </div>
-
-      </div>
-
-		</div>
-		<div class="break"></div>
-	
-												<div class="container-100 testing">
-											
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-              <div class="container-300l" style="background-color:#FFFFFF;">
-    <div class="container-100">
-                
-        <div class="subb">
-            <div class="sub-leftb"></div>
-        
-            <h2><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=msa">tv listings</a></h2>
-        
-            <div class="sub-rightb"></div>
-            <div class="right-links" style="padding-right:4px;">
-                <span class="txt-small"><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=msa">view all</a></span></div>
-        </div>
-        
-    </div>
-<div class="container-100" style="height:180px; background-image:url(http://media.mysanantonio.com/images/tv-links-frame.gif); background-repeat:no-repeat;">
-<div class="break"></div>
-
-<div style="width:274px; padding:0px 13px 0px 13px; overflow:hidden; margin:0px;">
-	<div class="container-100">
-		<div class="txt-flinks">
-		<a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?fromTimeInMillis=0">Current Programs</a> | 
-        <a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?fromTimeInMillis=1230685200000">Prime Time</a> |
-		<a href="http://affiliate.zap2it.com/tvlistings/ZCTVHome.do?aid=msa">TV Show News</a> 
-		</div>
-		<div class="txt-flinks">
-        <a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=msa">Complete Listings</a> | <a href="http://affiliate.zap2it.com/tvlistings/ZBSetMyPreferences.do">Customize Listings</a>
-		</div>
-	</div>
-
-	<div class="minibreak"></div>
-	<div class="hline"></div>
-	<div class="minibreak"></div>
-
-	<div class="container-100">
-		<div class="container-25l"><a href="http://blogs.mysanantonio.com/weblogs/jakle06/"><img src="http://media.mysanantonio.com/images/jeannejakle60x60.jpg" alt="Jakle" height="60" width="60"></a></div>
-		<div class="fl">
-		  <div class="txt-flinks"><a href="http://blogs.mysanantonio.com/weblogs/jakle06/">Jeanne Jakle's Blog</a></div>
-		</div>
-	</div>
-    
-	<div class="minibreak"></div>
-
-</div>
-</div>
-</div>
-          </div>
-
-									</div>
-				<div class="break"></div>
-												<div class="container-100 testing">
-											
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-     <div class="container-100">
-         <!--SAN ANTONIO EN-->
-<div>
-<h2>san antonio express-news</h2>
-<div class="container-100">
-<div class="container-50l">
-<div class="txt-smallbasic"><a href="http://www.mysanantonio.com/about_us/express-news/subscriber_services.html">Home delivery</a><br>
-<strong>e-Edition</strong>: <a href="http://e-edition.express-news.net/newsstand/main">Login</a>|<a href="http://www.mysanantonio.com/about_us/express-news/e-edition.html">Subscribe</a><br>
-<a href="/about_us/express-news/subscribe_education.html">Newspapers in Education</a><br>
-<a href="/about_us/express-news/subscribe_back_issues.html">Order back issues</a><br>
-<a href="http://pictopia.com/perl/gal?provider_id=478&amp;process=deliver&amp;page=fullpages">Buy newspaper reprints</a><br>
-<a href="http://pictopia.com/perl/gal?provider_id=478">Buy newspaper photos</a><br>
-<a href="/about_us/express-news/subscribe_customer_service.html">Manage Print Subscription</a><br>
-&nbsp;</div>
-</div>
-<div class="container-50r">
-<div class="editionimg"><a href="http://www.mysanantonio.com/about_us/express-news/e-edition.html"><img border="0" alt="e-edition" src="http://media.mysanantonio.com/images/eedition.gif"></a></div>
-</div>
-</div>
-<div class="break">&nbsp;</div>
-<div class="hline">&nbsp;</div>
-</div>
-<!--END SAN ANTONIO EN--> 
-       </div>
-  
-   </div>
-
-									</div>
-				<div class="break"></div>
-												<div class="container-100 testing">
-											
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-     
-     
-    
-   </div>
-
-									</div>
-				<div class="break"></div>
-												<div class="container-100 testing">
-											
- <div class="container-100" style="padding-top: ; padding-bottom: ; padding-left: ; padding-right: ;">
-     
-    
-    
-    
-     <div class="container-100">
-         <!--DONT MISS-->
-<div>
-<h2>don't miss</h2>
-<div class="container-100">
-<div class="txt-dontmiss"><a target="_new" href="http://www.saws.org/">SAWS.org:</a> Get the latest news about the aquifer and water conservation<br>
-<a target="_new" href="http://www.sanantonioconnect.com/join.asp">SAConnect.com:</a> Providing Single San Antonians with a state of the art online portal to meet other Singles.<br>
-<a href="http://mysanantonio.lawinfo.com">LawInfo</a>: Legal Resources Center features legal forms, analysis, definitions, lists of attorneys and legal services.<br>
-<a href="http://www.mysanantonio.com/s?action=reg">Newsletters:</a> Sign up for mySA's daily, weekly and breaking news e-mails</div>
-</div>
-<div class="break">&nbsp;</div>
-<div class="hline">&nbsp;</div>
-</div>
-<!--END DONT MISS--> 
-       </div>
-  
-   </div>
-
-									</div>
-				<div class="break"></div>
-						</div>
-</div>
-<!--END RIGHT COLUMN-->
-
-
-											<!--END CONTENT-->		
-						<div class="break"></div>
-													
-							<!--FOOTER-->
-				<div id="footer">
-					<!--SITEMAP-->
-					<div>
-						<!--BAR-->
-						<div class="footerbar"></div>
-						<!--BAR-->
-
-						<!--MAP-->
-						<div class="container-sitemap">
-							<div class="container-952">
-																									
-																													
-																				<div class="footer-section">
-											<div class="txt-footer">
-																				
-																													
-										<h4>
-																							mySA
-																					</h4>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/news">News</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/blogs/">Blogs</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/business">Business</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/news/columnists">Columnists</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/corrections">Corrections</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/news/data_central">Data Central</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/opinion/">Editorials</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/news/education">Education</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/entertainment">Entertainment</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/calendar">Events Calendar</a><br>
-
-																		
-																										
-																														</div></div>
-																				
-																				<div class="footer-section">
-											<div class="txt-footer">
-																				
-																			<a href="http://forums.mysanantonio.com">Forums</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/life">Life</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/videos">Multimedia</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/news/national">National | International</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/news/national">News Wires</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.legacy.com/obituaries/sanantonio/ ">Obituaries</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/news/politics">Politics</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/rodeo">Rodeo</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/sports">Sports</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/life/travel">Travel</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/news/traffic">Traffic</a><br>
-
-																		
-																										
-																														</div></div>
-																				
-																				<div class="footer-section">
-											<div class="txt-footer">
-																				
-																			<a href="http://www.mysanantonio.com/videos">Video</a><br>
-
-																		
-																										
-																				
-																			<a href="http://weather.mysanantonio.com/US/TX/San_Antonio.html">Weather</a><br>
-
-																		
-																										
-																				
-																														<br>
-																				
-										<h4>
-																							Topics
-																					</h4>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/community">Community</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/health">Health</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/hunting_fishing">Hunting &amp; Fishing</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.livinggreensa.com/">Living Green SA</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/military">Military</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.momsinsa.com">MomsInSA</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/visitors_guide">Visitors' Guide</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.sapaws.com">SA Paws</a><br>
-
-																		
-																										
-																														</div></div>
-																				
-																				<div class="footer-section">
-											<div class="txt-footer">
-																				
-																			<a href="http://www.sagametime.com">SA Game Time</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.sacultura.com">SA Cultura</a><br>
-
-																		
-																										
-																				
-																			<a href="http://dogood.mysanantonio.com">Do Good</a><br>
-
-																		
-																										
-																				
-																														<br>
-																				
-										<h4>
-																							Marketplace
-																					</h4>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/autos">Autos</a><br>
-
-																		
-																										
-																				
-																			<a href="http://mysa.kaango.com/">Classifieds</a><br>
-
-																		
-																										
-																				
-																			<a href="http://hotjobs.mysanantonio.com/">Jobs</a><br>
-
-																		
-																										
-																				
-																			<a href="http://homes.mysanantonio.com">Real Estate</a><br>
-
-																		
-																										
-																				
-																			<a href="http://shopping.mysanantonio.com/portal/portal.aspx">Shopping</a><br>
-
-																		
-																										
-																				
-																			<a href="http://yellowpages.mysanantonio.com">Yellow Pages</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.itsyourmoneysaveit.net/">It’s Your Money - Save It</a><br>
-
-																		
-																										
-																														</div></div>
-																				
-																				<div class="footer-section">
-											<div class="txt-footer">
-																				
-																			<a href="http://texassportsshop.mysanantonio.com/?sourceid=Marketplace">Fan Shop</a><br>
-
-																		
-																										
-																				
-																														<br>
-																				
-										<h4>
-																							Community Submitted
-																					</h4>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/calendar/submit_calendar">Calendar</a><br>
-
-																		
-																										
-																				
-																			<a href="http://mysa.mycapture.com">Photos</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/news/submit_UGC_stories">Stories</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/videos">Video</a><br>
-
-																		
-																										
-																				
-																														<br>
-																				
-										<h4>
-																							About Us
-																					</h4>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/about_us/mysanantonio">About mySA</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/about_us/mysanantonio/contact_us">Contact Us</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/about_us/mysanantonio/Site_FAQs.html">FAQs</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/about_us/mysanantonio/advertise">Advertise online</a><br>
-
-																		
-																										
-																														</div></div>
-																				
-																				<div class="footer-section">
-											<div class="txt-footer">
-																				
-																			<a href="http://www.mysanantonio.com/entertainment/contests_promotions">Contests &amp; Events</a><br>
-
-																		
-																										
-																				
-																														<br>
-																				
-										<h4>
-																							Express-News
-																					</h4>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/about_us/express-news/express-news_contact.html">Contact Us</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/about_us/express-news">About Express-News</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.hearst.com/">About Hearst</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.express-news.com/advertising/home/index.php">Advertise in print</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/about_us/express-news/subscriber_services.html">Newspaper Delivery</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.saclassifieds.com/orderForm.cfm">Place a classified ad</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/about_us/express-news/subscriber_services.html">EN Subscription Services</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/about_us/express-news/Reprint_Permission_Guidelines.html">Reprint Permission Guidelines</a><br>
-
-																		
-																										
-																				
-																			<a href="http://pictopia.com/perl/gal?provider_id=478">Buy Photos</a><br>
-
-																		
-																										
-																														</div></div>
-																				
-																				<div class="footer-section">
-											<div class="txt-footer">
-																				
-																													
-										<h4>
-																							Other Editions
-																					</h4>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/s?action=reg">Newsletters</a><br>
-
-																		
-																										
-																				
-																			<a href="http://www.mysanantonio.com/rss">RSS</a><br>
-
-																		
-																										
-																				
-																			<a href="http://e-edition.express-news.net">e-Edition</a><br>
-
-																		
-																										
-																				
-																			<a href="http://sanantonio.zebramm.com/">Mobile</a><br>
-
-																		
-																										
-																				
-																			<a href="http://twitter.com/mysa">Follow us on Twitter</a><br>
-
-																		
-																									
-																	</div></div>
-															</div>
-						</div>
-						<!--END MAP-->
-					</div>
-					<!--END SITEMAP-->
-
-					<div class="break"></div>
-
-					<!--COPYRIGHT-->
-					<div>
-						<div class="container-952">
-							<div class="txt-copyright">
-																Portions © 2009 San Antonio Express-News. All rights reserved. 
-																																			<a href="http://www.mysanantonio.com/about_us/feedback">Feedback</a>
-																																			 | <a href="/rss">RSS Feeds</a>
-																																			 | <a href="http://www.mysanantonio.com/about_us/privacy_policy">Privacy Policy</a>
-																																			 | <a href="http://www.mysanantonio.com/about_us/terms_conditions">Terms of Services</a>
-								<br>
-
-								
-<a href="http://www.mysanantonio.com/about_us/express-news"><img src="http://media.mysanantonio.com/designimages/logo-bottom-en.gif" alt="san antonio express-news"></a>
-
-
-<a href="http://www.hearst.com/newspapers/" target="_new"><img src="http://media.mysanantonio.com/designimages/logo-bottom-hearst.gif" alt="hearst"></a>
-
-
-
-						</div>
-						</div>
-					</div>
-					<!--END COPYRIGHT-->
-				</div>
-				<!--END FOOTER-->
-
-			</div>
-			<!--END CONTAINER ALL-->
-		</div></div></center>
-	
-			<script type="text/javascript" charset="utf-8">
-			var notLoggedIn = getElementsByClassName("not-logged-in");
-			var loggedIn = getElementsByClassName("logged-in");
-			if (readCookie("loginStatus")){
-				for (i=0;i<loggedIn.length;i++) {
-					loggedIn[i].style.display = "inline";
-				};
-				for (i=0;i<notLoggedIn.length;i++) {
-					notLoggedIn[i].style.display = "none";
-				};
-			} else {
-				for (i=0;i<loggedIn.length;i++) {
-					loggedIn[i].style.display = "none";
-				};
-				for (i=0;i<notLoggedIn.length;i++) {
-					notLoggedIn[i].style.display = "inline";
-				};
-			}
-		</script>
-		<script type="text/javascript" language="JavaScript" src="http://www.mysanantonio.com/includes/AjaxWrapper.js"></script>
-		
-
-<!-- Start Quantcast HEARST tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qoptions = { labels:"Mysanantonio" }; _qacct="p-18RwvsI7rqyEk";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-18RwvsI7rqyEk" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-18RwvsI7rqyEk.gif?labels=Mysanantonio" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a> </noscript>
-<!-- End Quantcast HEARST tag -->
-
-
-
-	
-	
-<!-- tweetmeme -->
-<script type="text/javascript" charset="utf-8" src="http://bit.ly/javascript-api.js?version=latest&amp;login=mysa&amp;apiKey=R_47eb929915fd4275c8d4c90dd484c99f"></script>
-<script type="text/javascript" charset="utf-8" defer="”defer”">
-  BitlyCB.alertResponse=function(data){
-  var s = '';
-  var first_result;
-  
-  for (var r in data.results){
-   first_result = data.results[r];
-   break;myUrl = first_results[2];
-  }
-  for(var key in first_result){
-   s += key + ":" + first_result[key].toString() + "\n";
-  }
-
-  var myDivText = '';
-  myDivText = myDivText + '<div class="minibreak"></div><div class="list related-share"><a href="http://twitter.com/home/?';
-  myDivText = myDivText + 'status=+'+escape('${cms.content.title}');
-  myDivText = myDivText + '+http://bit.ly/'
-  myDivText = myDivText + first_result[key].toString();
-  myDivText = myDivText + '\" target="_blank"><img src=\"http://media.mysanantonio.com/designimages/blue-bird33.jpg\" alt=\"tweetthis\" border=\"0\"/>Tweet This</a></div>';
-   document.getElementById('tweetthis_place').innerHTML = myDivText;
-
- 
- }
- BitlyClient.call('shorten', {'longUrl':'$cms.content.url'}, 'BitlyCB.alertResponse');
+<script type="text/javascript">
+// <![CDATA[
+jQuery().ready(function() {
+	jQuery('.tab-set').rot(1);
+});
+// ]]>
 </script>
 
+<!--/.hst-mostpopular-->    
+	<div id="hst-mediumrectangle2" class="hst-mediumrectangle clearfix">
+<div class="ad_deferrable"><div id="deferrable_7"></div></div>
+</div>	
+        
+</div><!--/.span-10-->
 
-<!-- tweetmeme -->
-	
+<!-- e templates/hearst/home/section_right_content.tpl  -->    
+</div><!--/.content-->
 
+<!-- e templates/design/channel/content_page.tpl  -->
+	<div class="hst-sitefooter clearfix">
+
+    
+    <div class="navigation">
+
+        <table>
+
+            <tbody><tr>
+
+                <td class="site">
+
+                    <h3>mySA</h3>
+
+                    <ul>
+
+                        <li><a href="/">Home</a></li>
+
+                        <li><a href="/news/">News</a></li>
+
+                        <li><a href="/blogs/">Blogs</a></li>
+
+                        <li><a href="/business/">Business</a></li>
+
+                        <li><a href="/sports/">Sports</a></li>
+
+                        <li><a href="/news/news_columnists/">Columnists</a></li>
+
+                        <li><a href="/opinion/">Editorials</a></li>
+
+                        <li><a href="/news/education/">Education</a></li>
+
+                        <li><a href="/entertainment/">Entertainment</a></li>
+
+                        <li><a href="http://forums.mysanantonio.com/forums/">Forums</a></li>
+
+                    </ul>
+
+                </td>
+
+                <td class="site">
+
+                    <ul>
+
+                        <li><a href="/life/">Life</a></li>
+
+                        <li><a href="http://events.mysanantonio.com/">Events Calendar</a></li>
+
+                        <li><a href="/video/">Multimedia</a></li>
+
+                        <li><a href="/news/national-international/">National/International</a></li>
+
+                        <li><a href="http://www.legacy.com/obituaries/sanantonio/">Obituaries</a></li>
+
+                        <li><a href="/news/politics/">Politics</a></li>
+
+                        <li><a href="/life/travel/">Travel</a></li>
+
+                        <li><a href="/news/traffic/">Traffic</a></li>
+
+                        <li><a href="http://weather.mysanantonio.com/US/TX/San_Antonio.html">Weather</a></li>
+
+                        <li><a href="/life/food/">Food</a></li>
+
+                        <li><a href="http://blog.mysanantonio.com/spursnation/">Spurs</a></li>
+
+                    </ul>
+
+                </td>
+
+                <td class="corp lim">
+
+                    <h3>Topics</h3>
+
+                    <ul>
+
+                        <li><a href="/community/">Community</a></li>
+
+                        <li><a href="/life/health">Health</a></li>
+
+                        <li><a href="http://www.livinggreensa.com/">Living Green SA</a></li>
+
+                        <li><a href="/news/military/">Military</a></li>
+
+                        <li><a href="http://blog.mysanantonio.com/racksnreels/">Outdoors</a></li>
+
+                        <li><a href="/visitors_guide/">Visitors' Guide</a></li>
+
+                        <li><a href="http://www.sapaws.com/">SA Paws</a></li>
+
+                        <li><a href="http://www.sacultura.com/">SA Cultura</a></li>
+
+
+
+                    </ul>
+
+                </td>
+
+                <td class="corp">
+
+                    <h3>Marketplace</h3>
+
+                    <ul>
+
+                        <li><a href="/autos/">Autos</a></li>
+
+                        <li><a href="http://mysa.kaango.com/">Classifieds</a></li>
+
+                        <li><a href="http://jobsearch.local-jobs.monster.com/Search.aspx?wt.mc_n=hjnpsearch&amp;ch=sanantonio&amp;q=&amp;where=San%20Antonio&amp;re=130&amp;cy=us&amp;brd=1">Find San Antonio jobs</a></li>
+
+                        <li><a href="/real_estate/">Real Estate</a></li>
+
+                        <li><a href="http://shopping.mysanantonio.com/">Shopping</a></li>
+
+                        <li><a href="http://local.mysanantonio.com/">Business Directory</a></li>
+
+                        <li><a href="http://texassportsshop.mysanantonio.com/?sourceid=Marketplace">Fan Shop</a></li>
+
+                    </ul>
+
+                </td>
+
+                <td class="corp">
+
+                    <h3>Community</h3>
+
+                    <ul>
+
+                    	<li><a href="http://events.mysanantonio.com/">Calendar</a></li>
+
+                        <li><a href="/contest/">Contests</a></li>
+
+                        <li><a href="http://mysa.mycapture.com/">Photos</a></li>
+                    
+                    </ul>
+
+                        <h3>Other Editions</h3>
+<ul>
+                        <li><a href="http://sanantonioexpressnews.tx.newsmemory.com/">e-Edition</a></li>
+
+                       <li><a href="http://www.mysanantonio.com/ipad">iPad App</a></li>
+
+                        <li><a href="http://mobile.mysa.com/">Mobile</a></li>
+
+                        <li><a href="http://www.facebook.com/pages/San-Antonio/San-Antonio-Express-News/316774245761">Facebook</a></li>
+
+                        <li><a href="http://twitter.com/mysa">Follow us on Twitter</a></li>
+						
+						<li><a href="http://www.mysanantonio.com/about_us/enie/">Express-News in Education</a></li>
+
+                    </ul>
+
+                </td>
+
+				<td class="corp">
+					
+					<h3>Local Services</h3>
+						<ul>
+							<li><a href="http://local.mysanantonio.com/airconditioningcontractors.html">Air Conditioning Contractors in San Antonio</a></li>
+							<li><a href="http://local.mysanantonio.com/cardealerships.html">Car Dealerships in San Antonio</a></li>
+							<li><a href="http://local.mysanantonio.com/cleaningservice.html">Cleaning Services in San Antonio</a></li>
+							<li><a href="http://local.mysanantonio.com/familydoctor.html">Family Doctors in San Antonio</a></li>
+							<li><a href="http://local.mysanantonio.com/furniturestores.html">Furniture Stores in San Antonio</a></li>
+							<li><a href="http://local.mysanantonio.com/injuryattorney.html">Injury Attorneys in San Antonio</a></li>
+							<li><a href="http://local.mysanantonio.com/newcardealer.html">New Car Dealers in San Antonio</a></li>
+							<li><a href="http://local.mysanantonio.com/realestateagents.html">Real Estate Agents in San Antonio</a></li>
+							<li><a href="http://local.mysanantonio.com/realestateattorney.html">Real Estate Attorneys in San Antonio</a></li>
+							<li><a href="http://local.mysanantonio.com/restaurants.html">Restaurants in San Antonio</a></li>
+						</ul>
+					
+				</td>
+
+                <td class="corp last">
+
+                    <h3>About Us</h3>
+
+                    <ul>
+
+                        <li><a href="/about_us/">About Us</a></li>
+
+                        <li><a href="/about_us/advertise">Advertise online</a></li>
+
+                        <li><a href="http://www.express-news.com/advertising/home/index.php">Advertise in print</a></li>
+
+                        <li><a href="/about_us/circulation">Newspaper Delivery</a></li>
+
+                        <li><a href="/about_us/classifieds">Place a classified ad</a></li>
+
+                        <li><a href="http://mysa.mycapture.com/mycapture/">Buy Photos</a></li>
+
+                        <li><a href="/about_us/archives">Archives</a></li>
+
+                        <li><a href="/about_us/privacy_policy">Privacy Policy</a></li>
+
+                        <li><a href="/about_us/terms_conditions">Terms and Conditions</a></li>
+
+<li><a href="http://www.mysanantonio.com/about_us/article/SAN-ANTONIO-EXPRESS-NEWS-ETHICS-AND-PRACTICES-1538142.php">Ethics Policy</a></li>
+
+                    </ul>
+
+                </td>
+
+            </tr>
+
+        </tbody></table>
+
+    </div><!--/.navigation-->
+
+
+
+
+
+<p id="hst-sitefooter_sitelogo"><img alt="San Antonio Express-News" class="png" src="/img/modules/sitefooter/saen-logo.png"></p>
 	
+    <!-- ux/mysa/templates/hearst/common/footer_branding.tpl -->
+	<p>© 2011 Hearst Communications Inc.<br>
+		<img src="/img/modules/sitefooter/hearst_logo.png" class="png" alt="Hearst Newspapers"><!-- src/business/templates/hearst/common/feed.tpl -->
+
+<span class="hst-feed">
+	<a href="/rss"><img src="/img/icons/share/rss.gif"></a> &nbsp;&nbsp;
+
+        
+        
+
+                    <a href="http://add.my.yahoo.com/rss?url=http://www.mysanantonio.com/rss/feed/Breaking-News-236.php"><img src="/img/icons/share/myyahoo.gif"></a>
+        
+    
+</span>
+
+
+<!-- e src/business/templates/hearst/common/feed.tpl --></p>
+		
+<!-- CMP tracking code-->
+<script type="text/javascript">window.IC={};(function(){var p,s;p=document.createElement('script');p.type='text/javascript';p.async=true;p.src=document.location.protocol+'//c10013.ic-live.com/pixel-js/c10013-pixel.js';s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(p,s);})();</script>
+<!-- e ux/chron/templates/hearst/common/footer_branding.tpl -->
+
+	</div><!--/.hst-sitefooter-->
+
+</div><!--/.container-->
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+  (function () {
+    var d = new Image(1, 1);
+    d.onerror = d.onload = function () {
+      d.onerror = d.onload = null;
+    };
+    d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-202808h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+  })();
+</script>
+<noscript>
+  <div>
+    <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-202808h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+  </div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- /src/business/templates/hearst/common/opengraph_load.tpl -->
+  	
+<!-- src/business/templates/hearst/common/footer_bottom.tpl -->
+
+<!-- e src/business/templates/hearst/common/footer_bottom.tpl -->
+
+
+<div id="deferred_1_load"><script type="text/javascript">/*<![CDATA[*/ try{yld_mgr.place_ad_here("A120");}catch(e){} /*]]>*/</script></div><script type="text/javascript">relocateDivContent('deferred_1_load', 'deferrable_1');</script>
+
+<div id="deferred_2_load"><script type="text/javascript">/*<![CDATA[*/ try{yld_mgr.place_ad_here("A728");}catch(e){} /*]]>*/</script></div><script type="text/javascript">relocateDivContent('deferred_2_load', 'deferrable_2');</script>
+
+<div id="deferred_3_load"><script type="text/javascript"> /*<![CDATA[*/ try{yld_mgr.place_ad_here("A234");}catch(e){} /*]]>*/ </script></div><script type="text/javascript">relocateDivContent('deferred_3_load', 'deferrable_3');</script>
+
+<div id="deferred_4_load"><script type="text/javascript">/*<![CDATA[*/ try{yld_mgr.place_ad_here("RM");}catch(e){} /*]]>*/</script></div><script type="text/javascript">relocateDivContent('deferred_4_load', 'deferrable_4');</script>
+
+<div id="deferred_5_load"><script type="text/javascript">/*<![CDATA[*/ try{yld_mgr.place_ad_here("A951");}catch(e){} /*]]>*/</script></div><script type="text/javascript">relocateDivContent('deferred_5_load', 'deferrable_5');</script>
+
+<div id="deferred_6_load"><script type="text/javascript">/*<![CDATA[*/ try{yld_mgr.place_ad_here("A300");}catch(e){} /*]]>*/</script></div><script type="text/javascript">relocateDivContent('deferred_6_load', 'deferrable_6');</script>
+
+<div id="deferred_7_load"><script type="text/javascript"> /*<![CDATA[*/ try{yld_mgr.place_ad_here("B300");}catch(e){} /*]]>*/ </script></div><script type="text/javascript">relocateDivContent('deferred_7_load', 'deferrable_7');</script>
+
+
 </body></html>
