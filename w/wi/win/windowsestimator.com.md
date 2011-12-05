@@ -1,69 +1,62 @@
-> *The following text is extracted and transformed from the windowsestimator.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917153524id_/http%3A//windowsestimator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsestimator.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205033053id_/http%3A//windowsestimator.com/privacy) for the most accurate reproduction.*
 
-# None
+# Windowsestimator.Com Privacy Policy
 
-  
-Last updated 03/19/2010 
+## Our Commitment To Privacy
 
-We realize that you care about the use of your information, and we respect your concerns. We have put strict policies into place to ensure that the privacy of your personal information is protected while still enabling you to make use of the services provided by windowsestimator.com. 
+We at **AL-SADEQOUN LIL-TASWEEQ** are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites. This policy describes what kind of information we collect on Windowsestimator.Com, how we use this information, and your ability of opting-out. 
 
-This Privacy Pledge outlines the steps we've taken to ensure that you have a great experience at windowsestimator.com, and also provides details on how we treat any personal information you may submit to us or third parties. 
+## Personally Identifiable Consumer Information That We Collect
 
-  
+On certain pages on Windowsestimator.Com, you can submit a request for home improvement quotes from our partner's contractors network. We collect several pieces of information including: 
 
+Name (first and last name)  
+Project Address (street address, city, state and zip code)  
+Email address  
+Phone number
 
-## Other Information Collection and Use
+## Non-Personally Identifiable Consumer Information That We Collect
 
-Like many other web-based service providers windowsestimator.com collects limited non-personally identifiable information provided by your browser as you use our website and services. This is done in order to provide the best possible services to you and our other users. This non-personally identifiable information may include (but is not limited to) IP address, browser type, time and date of use, and any activity performed while on our Website or using our services. We may also place and/or read cookies on your computer to help us identify whether you have visited our site in the past so we can customize our services and your experience. Please note that this information is gathered solely during the time you are visiting the windowsestimator.com web site. windowsestimator.com takes note of the web site that referred you to our web site, but otherwise does not gather information about web pages you have visited before or after visiting our web site. 
+To enhance the user experience on Windowsestimator.Com, we collect data about the visitor computer including operating system, web browser, java script enabling status, IP address, and referral URL. We may use this data to re-market our website to those visitors by launching advertising campaigns on reputable advertising companies. 
 
-Additionally, we may capture click-stream data on some of our partner's websites, limited to the activity involved within our website and with the completion of offers listed on our website. This information is used to monitor the performance of our site and partners. 
+## How Do We Use Your Information?
 
-We will collect and use personal information about you to respond to your request for products and services offered through this website. We will also collect information in order to notify you about products, services, and other opportunities we think will be of interest to you. Information we gather and/or you provide directly or indirectly to our website may be shared with third parties. 
+Once you submit a quote request on our website including the information listed above, we will pass this data in real time to one of our partners. At this moment of our business, we have no contractor network. Such that we work with several reputable partners to match our website visitors with local contractors.   
+The selection of the partner usually depends on the partner desire to accept quote requests at the time the user submits the request, and on the type of the project.   
+Once our system selects a partner, we pass the information about the quote request to this partner automatically. The partner will carry out a matching process to determine the most suitable contractors for your project. The matching process depends on many factors including but not limited to the request quote project description determined by the user answers to our form various questions (e.g. install or repair windows).   
+Your quote request usually will be matched to 1-4 contractors. In some cases, the partner will not be able to match your quote with any partner. 
 
-The information we collect may be from the following sources: 
+## Communication After Quote Request Submission
 
-  * Information provided by you in connection with obtaining a certain product or service offered by one our business partners. 
-  * Information you provide us when you register to receive communications from us (such as your email address). 
-  * Information you provide us through telephone and web based surveys, customer service correspondence, and general feedback. 
+Once the matching process has been carried out, the partner and/or matched contractors will attempt to call or email you. The purpose of the communication is to inform you of who you have been matched to, discuss your project and discuss their service cost. In addition, the partner may utilize such information for marketing purposes, including to contact you about your request and other services that they believe may be of interest to you. Windowsestimator.Com will not attempt to carry out any sort of communication with the individuals who submit quote request since our partner companies will carry out the communication including but not limited to an email confirmation after quote request submission. 
 
-  
+## Information Sharing
 
+Windowsestimator.Com will share information immediately with our partners, whom in turn, will share your information with their contractor network. After sending your quote request (which includes Personally Identifiable Consumer Information), Windowsestimator.Com will never attempts to share your personal information with any third party. 
 
-## Marketing Email Options
+## Opting-Out Personally Identifiable Consumer Information
 
-You may register to receive communications from us directly on our website. Upon registering, we will periodically send you newsletters and other e-mails with offers and promotions. If you no longer wish to receive these communications, please let us know by sending an email to [adiadi81@yahoo.com](mailto:adiadi81@yahoo.com) Customer Care (You may also opt-out by clicking on the unsubscribe link in our emails). 
+You have the right to ask for information deletion at anytime from our database. You can email us at info@alsadeqoun.com , and we will delete your data from our servers completely.   
+However, you need to communicate your opting-out request with the contractors who receive your quote request and our partner who matched you with those contractors. The partner will communicate with you directly and offers clear way to opt-out from their systems. 
 
-  
+## Our Commitment To Data Security
 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. For example, we carry out software update for our servers software including but not limited to the database server, web server and operating system. 
 
-## Third Party Link
+## How You Can Access Or Correct Your Information
 
-windowsestimator.com connects consumers with third party links. When you visit websites to which windowsestimator.com links, keep in mind you will be interacting with a third party that operates under its own privacy and security policy. If you choose to obtain certain services or products through a third party site, the data collected by the third party is governed by that third party's privacy policy. A third party site will also have its own policy regarding the use of cookies and clear gifs. These partners will protect your information against distribution, loss, theft, and misuse. We encourage you to review the privacy policies of any other service provider from whom you request services. 
+You can email us info@alsadeqoun.com including the correct information, and we will be happy to pass it to our partners to carry out the contractor-home owner matching process, and update it in our database systems. 
 
-  
+## Your Consent
 
+By using Windowsestimator.Com, you consent to the terms of our Online Privacy Policy. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy. 
 
-## Disclosures Under Law
+## Contact Us
 
-We make every effort to preserve user privacy. We cooperate with legal authorities when we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order or legal process served on LendALot. 
+Should you have other questions or concerns about these privacy policies, please send us an email at info@alsadeqoun.com . Our mailing address is:   
+Husn Municipality Commercial Centre Bldg.  
+South Al-balqa Applied University (Al-husun campus)  
+Wasfi Al-Tall St  
+Al-husn City  
+Irbid, Jordan  
 
-  
-
-
-## Children
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
-
-  
-
-
-## Changes to this Privacy Pledge
-
-windowsestimator.com may update or modify this Privacy Pledge from time to time. If there are material changes to this Privacy Pledge or in how windowsestimator.com will use your personal information, we will post such changes here. You will be notified if any of the material changes that affect the use of your personal information and asked to opt-in to the new use of your personal information. If you do not agree with the changes to how your information will be used, please do not continue to use this website. By using this site, you signify your assent to the windowsestimator.com Privacy Pledge. If you do not agree to this policy, please do not use any of the windowsestimator.com site. We reserve the right to make changes in this policy at any time. Please check the policy each time you use our website to ensure you are aware of any changes in our privacy practices. Our Privacy Pledge will indicate the date it was last updated. Your continued use of our site will signify your acceptance of the changes to our Privacy Pledge. 
-
-  
-
-
-## How to Contact Us
-
-Should you have other questions or concerns about these privacy policies, you should first contact us at: [adiadi81@yahoo.com](mailto:adiadi81@yahoo.com)
