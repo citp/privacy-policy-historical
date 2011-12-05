@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605082044id_/http%3A//www.npdor.com/English/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205114912id_/http%3A//www.npdor.com/English/privacy.asp) for the most accurate reproduction.*
 
 # NPD Online Research - Making your opinions count
 
@@ -49,7 +49,7 @@ At registration and in each communication with you thereafter, you may opt-out o
 
 **Correcting/Updating Your Information**
 
-We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20110605082044id_/http%3A//www.npdor.com/English/memberservices.asp). 
+We encourage our Members to keep their information as up-to-date as possible. To change your e-mail address, Member name, password, or make changes to the demographic and other profile information you provided during the registration process, please visit: http://www.npdor.com and log in. Once you log in, please visit ["Change My Info"](https://web.archive.org/web/20111205114912id_/http%3A//www.npdor.com/English/memberservices.asp). 
 
 If you are a SweepLand member, you may change your name, mailing address and e-mail preferences by visiting [www.sweepland.com](http://www.sweepland.com/). Then, after logging in, please click on 'My Account'. 
 
@@ -75,7 +75,7 @@ NPD surveys collect a wide variety of information on a diverse range of current 
 **Sweepstakes and Rewards**
 
 Panelists who are legal residents of the 50 United States (and the District of Columbia) and 13 years or older at the time of enrollment are eligible to join SweepLand, NPDOR's fee-free Sweepstakes program where panelists earn points for completing eligible surveys and can use those points as entries into sweepstakes on [www.sweepland.com](http://www.sweepland.com/). A NPDOR panelist must complete a one-time SweepLand registration in order to activate their SweepLand account. SweepLand registration information, including your name and mailing address, is collected solely to ensure that we can deliver prizes to sweepstakes winners and to keep members informed of SweepLand program updates / happenings. SweepLand membership is not required to be a member of the NPDOR panel.   
-For complete SweepLand Terms and Conditions, please [click here](http://sweepland.com/Terms/PubIndex.aspx). 
+For complete SweepLand Terms and Conditions, please [click here](http://sweepland.com/Terms_Cond.aspx). 
 
 By responding to a survey which includes a sweepstakes offer, or by enrolling in SweepLand, you agree to let NPD share your contact information (e-mail address) with an independent third-party sweepstakes administrator. Your contact information is used by the administrator only to let you know if you have won a sweepstakes or to communicate program information. To receive your prize, you will be required to submit and/or verify certain information to the administrator (e.g. name and mailing address). This information is used only to mail your prize to you. When claiming prizes, winners also complete an online affidavit, which gives NPD permission to post winners' names and state or country of residence.
 
@@ -107,7 +107,7 @@ NPD and its agents employ physical, electronic and managerial protections and pr
 
 **HOW TO UNSUBSCRIBE**
 
-Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: http://www.npdor.com and visit ["Change My Info"](https://web.archive.org/web/20110605082044id_/http%3A//www.npdor.com/English/memberservices.asp). On the ["Change My Info"](https://web.archive.org/web/20110605082044id_/http%3A//www.npdor.com/English/memberservices.asp) page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. To cancel your SweepLand membership, but remain an NPDOR panelist, please visit [www.sweepland.com](http://sweepland.com/). Then, after logging in, please click on 'My Account'. 
+Registration on our site and participation in our online surveys is voluntary. You can elect to remove your e-mail address from our mailing list at any time. Once it has been removed, you will no longer receive surveys or communications from us, or be entered in, or be eligible for, future Member sweepstakes. To unsubscribe, please log in at: http://www.npdor.com and visit ["Change My Info"](https://web.archive.org/web/20111205114912id_/http%3A//www.npdor.com/English/memberservices.asp). On the ["Change My Info"](https://web.archive.org/web/20111205114912id_/http%3A//www.npdor.com/English/memberservices.asp) page, click on "Unsubscribe" and follow the instructions. Please keep in mind that it may take up to ten business days to complete this process. To cancel your SweepLand membership, but remain an NPDOR panelist, please visit [www.sweepland.com](http://sweepland.com/). Then, after logging in, please click on 'My Account'. 
 
 **NOTIFICATION OF CHANGES**
 
