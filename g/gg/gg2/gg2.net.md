@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gg2.net privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603103510id_/http%3A//www.gg2.net/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gg2.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205231134id_/http%3A//www.gg2.net/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Garavi Gujarat | Latest News, World News, USA News, UK News, India News
 
