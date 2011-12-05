@@ -1,0 +1,1486 @@
+<!--The following is the downloaded HTML source of the geekblogger.org privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205193726id_/http%3A//www.geekblogger.org/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+
+	<meta charset="UTF-8">
+
+<title>Privacy Policy</title> 
+	<link rel="stylesheet" href="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/style.css" type="text/css" media="screen">
+
+    <link rel="shortcut icon" href="http://www.geekblogger.org/wp-content/uploads/images/favicon.ico">
+
+    <link rel="shortcut icon" href="http://www.geekblogger.org/wp-content/uploads/images/favicon.ico" type="image/x-icon">
+
+    <meta name="generator" content="Magazine3 Framework Version 3.0">
+
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="Geek Blogger RSS Feed" href="http://www.geekblogger.org/feed">
+
+	<link rel="pingback" href="http://www.geekblogger.org/xmlrpc.php">
+
+	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/js/jquery-1.4.4.min.js"></script>
+
+	<script type="text/javascript" src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/js/ddsmoothmenu.js"></script> 
+
+    <script type="text/javascript" src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/js/jquery.tools.min.js"></script>
+
+ <script type="text/javascript">
+
+var $ = jQuery.noConflict();
+
+$(document).ready(function() {
+
+
+
+	//When page loads...
+
+	$(".tab_content").hide(); //Hide all content
+
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+
+	$(".tab_content:first").show(); //Show first tab content
+
+
+
+	//On Click Event
+
+	$("ul.tabs li").click(function() {
+
+
+
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+
+		$(this).addClass("active"); //Add "active" class to selected tab
+
+		$(".tab_content").hide(); //Hide all tab content
+
+
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+
+		$(activeTab).fadeIn(); //Fade in the active ID content
+
+		return false;
+
+	});
+
+
+
+});
+
+</script>
+
+ <script type="text/javascript">
+
+$(document).ready(function() {
+
+	//Tooltips
+
+	$(".tip_trigger").hover(function(){
+
+		tip = $(this).find('.tip');
+
+		tip.show(); //Show tooltip
+
+	}, function() {
+
+		tip.hide(); //Hide tooltip		  
+
+	}).mousemove(function(e) {
+
+		var mousex = e.pageX + 20; //Get X coodrinates
+
+		var mousey = e.pageY + 20; //Get Y coordinates
+
+		var tipWidth = tip.width(); //Find width of tooltip
+
+		var tipHeight = tip.height(); //Find height of tooltip
+
+		
+
+		//Distance of element from the right edge of viewport
+
+		var tipVisX = $(window).width() - (mousex + tipWidth);
+
+		//Distance of element from the bottom of viewport
+
+		var tipVisY = $(window).height() - (mousey + tipHeight);
+
+		  
+
+		if ( tipVisX < 20 ) { //If tooltip exceeds the X coordinate of viewport
+
+			mousex = e.pageX - tipWidth - 20;
+
+		} if ( tipVisY < 20 ) { //If tooltip exceeds the Y coordinate of viewport
+
+			mousey = e.pageY - tipHeight - 20;
+
+		} 
+
+		tip.css({  top: mousey, left: mousex });
+
+	});
+
+});
+
+
+
+</script>
+
+	 <script type="text/javascript">
+
+ $(document).ready(function() {
+
+
+
+ $("div.scrollable").scrollable({
+
+
+
+		size: 3,
+
+		items: '#thumbs',   
+
+		hoverClass: 'hover',
+
+		speed: 400,
+
+		keyboard: false,
+
+		clickable: false
+
+
+
+	}).navigator();	
+
+	  
+
+  		
+
+});
+
+</script>
+
+  
+
+ <script type="text/javascript">   
+
+
+
+  // when the DOM is ready...        
+
+
+
+$(document).ready(function () {      
+
+
+
+  // load the ticker                 
+
+
+
+	createTicker();                    
+
+
+
+});                                  
+
+
+
+function createTicker(){             
+
+
+
+	// put all list elements within #ticker-area into array   
+
+
+
+	var tickerLIs = $("#ticker-area ul").children();          
+
+
+
+	tickerItems = new Array();                                
+
+
+
+	tickerLIs.each(function(el) {                             
+
+
+
+		tickerItems.push( jQuery(this).html() );                
+
+
+
+	});                                                       
+
+
+
+	i = 0                                                     
+
+
+
+	rotateTicker();                                           
+
+
+
+}                                                           
+
+
+
+function rotateTicker(){                                    
+
+
+
+	if( i == tickerItems.length ){                            
+
+
+
+	  i = 0;                                                  
+
+
+
+	}                                                         
+
+
+
+  tickerText = tickerItems[i];                              
+
+
+
+	c = 0;                                                    
+
+
+
+	typetext();                                               
+
+
+
+	setTimeout( "rotateTicker()", 5000 );                     
+
+
+
+	i++;                                                      
+
+
+
+}                                                           
+
+
+
+var isInTag = false;                                        
+
+
+
+function typetext() {	                                      
+
+
+
+	var thisChar = tickerText.substr(c, 1);                   
+
+
+
+	if( thisChar == '<' ){ isInTag = true; }                  
+
+
+
+	if( thisChar == '>' ){ isInTag = false; }                 
+
+
+
+	$('#ticker-area').html("&nbsp;" + tickerText.substr(0, c++));   
+
+
+
+	if(c < tickerText.length+1)                                     
+
+
+
+		if( isInTag ){                                                
+
+
+
+			typetext();                                                 
+
+
+
+		}else{                                                        
+
+
+
+			setTimeout("typetext()", 28);                               
+
+
+
+		}                                                             
+
+
+
+	else {                                                          
+
+
+
+		c = 1;                                                        
+
+
+
+		tickerText = "";                                              
+
+
+
+	}	                                                              
+
+
+
+}                                                                 
+
+
+
+  </script> 
+
+			
+
+	
+ 
+  	<link rel="alternate" type="application/rss+xml" title="Geek Blogger » Privacy Policy Comments Feed" href="http://www.geekblogger.org/privacy-policy/feed">
+<script type="text/javascript" src="http://www.geekblogger.org/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.geekblogger.org/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.geekblogger.org/wp-content/plugins/sharebar/js/sharebar.js?ver=3.2.1"></script>
+<script type="text/javascript" src="http://www.geekblogger.org/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.geekblogger.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.geekblogger.org/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Geek Blogger" href="http://www.geekblogger.org">
+<link rel="prev" title="Archives" href="http://www.geekblogger.org/archives">
+<meta name="generator" content="WordPress 3.2.1">
+
+<!-- All in One SEO Pack 1.6.13.4 by Michael Torbert of Semper Fi Web Design[162,204] -->
+<meta name="description" content="The views and opinions expressed on this blog are purely the bloggers' own. Contents of this blog-all texts and images may not be published, rewritten,">
+<link rel="canonical" href="http://www.geekblogger.org/privacy-policy">
+<!-- /all in one seo pack -->
+<script type="text/javascript" src="http://www.geekblogger.org/wp-content/plugins/ncode-image-resizer/js/ncode_imageresizer.js?v=1.0.1"></script>
+<style type="text/css">table.ncode_imageresizer_warning {background: #FFFFE0;color:#333333;border: 1px solid #E6DB55;cursor: pointer;}table.ncode_imageresizer_warning td {font-size: 10px;vertical-align: middle;text-decoration: none; text-align:left; font-family:Verdana, Geneva, sans-serif;}table.ncode_imageresizer_warning td.td1 {padding: 5px;}table.ncode_imageresizer_warning td.td1 {padding: 2px;}
+</style>
+<script type="text/javascript">
+NcodeImageResizer.MODE = 'newwindow';
+NcodeImageResizer.MAXWIDTH = 600;
+NcodeImageResizer.MAXHEIGHT = '';
+NcodeImageResizer.BBURL = 'http://www.geekblogger.org/wp-content/plugins/ncode-image-resizer/images/uyari.gif';
+var vbphrase=new Array;
+vbphrase['ncode_imageresizer_warning_small'] = 'Click this bar to view the full image.';
+vbphrase['ncode_imageresizer_warning_filesize'] = 'This image has been resized. Click this bar to view the full image. The original image is sized %1$sx%2$spx and weights %3$sKB.';
+vbphrase['ncode_imageresizer_warning_no_filesize'] = 'This image has been resized. Click this bar to view the full image. The original image is sized %1$sx%2$spx.';
+vbphrase['ncode_imageresizer_warning_fullsize'] = 'Click this bar to view the small image.';
+</script>
+<link rel="stylesheet" href="http://www.geekblogger.org/wp-content/plugins/sharebar/css/sharebar.css" type="text/css" media="screen">
+<script type="text/javascript">jQuery(document).ready(function($) { $('.sharebar').sharebar({horizontal:'true',swidth:'65',minwidth:1000,position:'left',leftOffset:20,rightOffset:10}); });</script>
+<!-- Sharebar Plugin by Monjurul Dolon (http://mdolon.com/) - more info at: http://devgrow.com/sharebar-wordpress-plugin -->
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>  
+     
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4644194-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<link rel="canonical" href="http://www.geekblogger.org/privacy-policy">
+
+
+</head>
+
+
+
+<body>
+
+
+
+<div id="wrapper">
+
+
+
+	<header><div id="topmenu">
+
+<div id="topmenuleft">
+
+			<div id="topMenu" class="ddsmoothmenu"><ul id="menu-pages" class="menu"><li id="menu-item-2583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2583"><a href="http://www.geekblogger.org">Home</a></li>
+<li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a title="Piyush Dungrani" rel="author" href="http://www.geekblogger.org/about-me">About</a></li>
+<li id="menu-item-2581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2581"><a href="http://www.geekblogger.org/contact-us">Contact</a></li>
+<li id="menu-item-459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-459"><a href="http://www.geekblogger.org/advertise">Advertise</a></li>
+<li id="menu-item-2582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2582"><a href="http://www.geekblogger.org/archives">Archives</a></li>
+<li id="menu-item-2591" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2587 current_page_item menu-item-2591"><a href="http://www.geekblogger.org/privacy-policy">Privacy Policy</a></li>
+</ul></div>
+</div>
+
+<div id="topmenuright">
+
+ <ul>
+
+ <li id="rssb">
+
+ Mon, Dec 2011
+ </li>
+
+ <li class="rssnav"><a href="http://feeds.feedburner.com/geekbloggerorg">RSS</a></li>
+
+ <li><a href="http://feedburner.google.com/fb/a/mailverify?uri=geekbloggerorg">Newsletter</a></li>
+
+ </ul>
+
+</div>
+
+</div>
+
+	 
+
+     <div id="logowrap">
+
+     <div id="logo"><a href="http://www.geekblogger.org"><img src="http://www.geekblogger.org/wp-content/uploads/images/Geek_Blogger_Tech_Blog_Logo.png" alt="Geek Blogger - A Technology Blog"></a></div>
+
+     <div id="logohead">
+
+     <div id="headad">
+  
+
+     
+
+     </div>
+
+     <div id="twfb">
+
+     <ul>   <li>  <a href="http://www.facebook.com/pages/GeekBlogger/147230565327422" target="_blank"><img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/facebook.png" alt="Become a Fan!"></a></li>
+
+ <li> 
+
+   <a href="http://twitter.com/dungrani" class="tip_trigger"><img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/twitter.png" alt="Follow On Twitter"><span class="tip">    <ul id="twitter_update_list">
+
+    </ul>
+
+    <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script><script type="text/javascript" src="http://twitter.com/statuses/user_timeline/dungrani.json?callback=twitterCallback2&amp;count=1"></script>
+
+
+
+</span></a>
+
+     </li>
+
+   
+
+      <li> <a href="http://feeds.feedburner.com/geekbloggerorg"><img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/rssicon.png" alt="Subcribe to Our RSS Feed"></a></li>
+
+     </ul>
+
+     </div>
+
+     </div>
+
+     <div id="cb"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-5820705378592492";
+/* Geek Top Link Unit */
+google_ad_slot = "2383233237";
+google_ad_width = 468;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+     </div>    <div id="cb"></div>
+
+		<nav>
+
+	<div id="navigation">
+
+			<div id="nav" class="ddsmoothmenu1"><ul id="menu-home" class="menu"><li id="menu-item-466" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-466"><a href="http://www.geekblogger.org/category/how-to">How To</a></li>
+<li id="menu-item-461" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-461"><a href="http://www.geekblogger.org/category/apple-products-and-news">Apple</a>
+<ul class="sub-menu">
+	<li id="menu-item-2698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2698"><a href="http://www.geekblogger.org/category/apple-products-and-news/iphone-jailbreak">iPhone JailBreak</a></li>
+	<li id="menu-item-2699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2699"><a href="http://www.geekblogger.org/category/apple-products-and-news/iphone-apps">iPhone Apps</a></li>
+</ul>
+</li>
+<li id="menu-item-473" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-473"><a href="http://www.geekblogger.org/category/internet-tips">Internet</a>
+<ul class="sub-menu">
+	<li id="menu-item-472" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-472"><a href="http://www.geekblogger.org/category/add-ons">Add-ons</a></li>
+	<li id="menu-item-491" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-491"><a href="http://www.geekblogger.org/category/online-streaming">Online Streaming</a></li>
+	<li id="menu-item-475" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-475"><a href="http://www.geekblogger.org/category/youtube">Youtube</a></li>
+</ul>
+</li>
+<li id="menu-item-476" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-476"><a href="http://www.geekblogger.org/category/blogger">Blogger</a>
+<ul class="sub-menu">
+	<li id="menu-item-477" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-477"><a href="http://www.geekblogger.org/category/blogger-hacks">Blogger Hacks</a></li>
+	<li id="menu-item-478" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-478"><a href="http://www.geekblogger.org/category/blogger-templates">Blogger Templates</a></li>
+	<li id="menu-item-479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-479"><a href="http://www.geekblogger.org/category/blogger-tips">Blogger Tips</a></li>
+	<li id="menu-item-480" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="http://www.geekblogger.org/category/blogger-widget">Blogger widget</a></li>
+</ul>
+</li>
+<li id="menu-item-484" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-484"><a href="http://www.geekblogger.org/category/free-softwares">Softwares</a>
+<ul class="sub-menu">
+	<li id="menu-item-483" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-483"><a href="http://www.geekblogger.org/category/free-antivirus">Free Antivirus</a></li>
+</ul>
+</li>
+<li id="menu-item-486" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-486"><a href="http://www.geekblogger.org/category/google">Google</a>
+<ul class="sub-menu">
+	<li id="menu-item-487" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-487"><a href="http://www.geekblogger.org/category/google-adsense">Google Adsense</a></li>
+	<li id="menu-item-492" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-492"><a href="http://www.geekblogger.org/category/search-engine">Search Engine</a></li>
+</ul>
+</li>
+<li id="menu-item-493" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-493"><a href="http://www.geekblogger.org/category/seo">SEO</a></li>
+<li id="menu-item-497" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-497"><a href="http://www.geekblogger.org/category/windows">Windows</a>
+<ul class="sub-menu">
+	<li id="menu-item-474" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-474"><a href="http://www.geekblogger.org/category/microsoft/microsoft-office">Microsoft Office</a>
+	<ul class="sub-menu">
+		<li id="menu-item-482" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-482"><a href="http://www.geekblogger.org/category/excel-tips">Excel Tips</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-498" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-498"><a href="http://www.geekblogger.org/category/wordpress">WordPress</a></li>
+</ul></div>
+</div>
+
+		</nav>
+
+      
+
+	 
+
+	</header>
+
+
+
+
+
+
+
+
+
+
+<section>    
+
+  <div id="headgal">
+
+  	<div id="featured" style="padding-left: 14px !important;">
+
+	<a class="prevPage browse left"></a>
+
+		<div class="scrollable" style="height: 60px !important">	
+
+		<div id="thumbs"> 	
+
+  
+
+   
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/10/reset-ipod-password-without-restoring.html"><img width="50" height="45" src="http://www.geekblogger.org/wp-content/uploads/2011/10/Reset-iPod-Password-Without-Restoring-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Reset iPod Password Without Restoring" title="Reset iPod Password Without Restoring"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/10/reset-ipod-password-without-restoring.html" title="Reset iPod Password Without Restoring">Reset iPod Password Without Restoring</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/08/advantage-of-jailbreaking-iphone.html"><img width="50" height="45" src="http://www.geekblogger.org/wp-content/uploads/2011/08/Advantage_of_Jailbreaking_iPhone-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Advantage_of_Jailbreaking_iPhone" title="Advantage_of_Jailbreaking_iPhone"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/08/advantage-of-jailbreaking-iphone.html" title="Advantage of Jailbreaking iPhone">Advantage of Jailbreaking iPhone</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/08/jailbreak-iphone-4-on-ios-4-3-38j2-using-redsn0w_win_0-9-6rc17.html"><img width="50" height="45" src="http://www.geekblogger.org/wp-content/uploads/2011/08/Jailbreak_iPhone_4_iOS_4.3.38J2-50x45.jpg" class="attachment-singlegalthumb wp-post-image" alt="Jailbreak_iPhone_4_iOS_4.3.3(8J2)" title="Jailbreak_iPhone_4_iOS_4.3.3(8J2)"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/08/jailbreak-iphone-4-on-ios-4-3-38j2-using-redsn0w_win_0-9-6rc17.html" title="Jailbreak iPhone 4 on iOS 4.3.3(8J2) using redsn0w_win_0.9.6rc17">Jailbreak iPhone 4 on iOS 4.3.3(8J2) using redsn0w_win_0.9.6rc17</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/07/how-to-know-iphone-3g-or-3gs.html"><img width="50" height="45" src="http://www.geekblogger.org/wp-content/uploads/2011/07/iPhone_2G-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="iPhone 2G Model" title="iPhone 2G Model"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/07/how-to-know-iphone-3g-or-3gs.html" title="How To Know iPhone 3G or 3GS by Just Looking at the Model Number">How To Know iPhone 3G or 3GS by Just Looking at the Model Number</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/06/how-to-copy-ipa-files-from-installous-iphone-3g-3gs-to-pc.html"><img width="50" height="45" src="http://www.geekblogger.org/wp-content/uploads/2011/06/Installous_by_hackulo-us-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Installous by hackulo.us" title="Installous by hackulo.us"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/06/how-to-copy-ipa-files-from-installous-iphone-3g-3gs-to-pc.html" title="Copy IPA Files From Installous To PC Without iTunes">Copy IPA Files From Installous To PC Without iTunes</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/06/enable-internet-tethering-on-iphone-3g-3gs-solved.html"><img width="50" height="45" src="http://www.geekblogger.org/wp-content/uploads/2011/06/Enable-iPhone-Internet-Tethering-50x45.png" class="attachment-singlegalthumb wp-post-image" alt="Enable Internet Tethering on iPhone 3G-3GS and 4G" title="Enable-iPhone-Internet-Tethering"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/06/enable-internet-tethering-on-iphone-3g-3gs-solved.html" title="Enable Internet Tethering on iPhone 3G-3GS [Solved]">Enable Internet Tethering on iPhone 3G-3GS [Solved]</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/05/top-10-apps-that-every-geek-should-have.html"><img width="43" height="45" src="http://www.geekblogger.org/wp-content/uploads/2011/05/Top-10-iPhone-4-Apps.jpg" class="attachment-singlegalthumb wp-post-image" alt="Top 10 Apps That Every Geek Should Have on the iPhone 4" title="Top 10 iPhone 4 Apps"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/05/top-10-apps-that-every-geek-should-have.html" title="Top 10 Apps That Every Geek Should Have on the iPhone 4">Top 10 Apps That Every Geek Should Have on the iPhone 4</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/05/iphone-4-custom-restore-firmware-421.html"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/05/iphone-4-custom-restore-firmware-421.html" title="iPhone 4 Custom Restore Firmware 4.2.1 with 01.59.00 Baseband">iPhone 4 Custom Restore Firmware 4.2.1 with 01.59.00 Baseband</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/03/different-sim-detected-please-connect.html"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/03/different-sim-detected-please-connect.html" title="Different SIM Detected Please Connect to iTunes Error Message – [iPhone 3G Solution]">Different SIM Detected Please Connect to iTunes Error Message – [iPhone 3G Solution]</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/02/bump-v24-free-iphone-application.html"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/02/bump-v24-free-iphone-application.html" title="Bump v2.4 –  A Free iPhone Application Download from iTuneStore">Bump v2.4 –  A Free iPhone Application Download from iTuneStore</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/01/backup-iphone-contacts-to-outlook-or.html"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/01/backup-iphone-contacts-to-outlook-or.html" title="How to Backup iPhone Contacts to Outlook or vCard">How to Backup iPhone Contacts to Outlook or vCard</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  
+
+				<div class="slidesingle">
+
+			 <span id="slidesingleimg">
+
+<a href="http://www.geekblogger.org/2011/01/full-ragdoll-blaster-2-download-for.html"></a>	</span>		
+
+ 					<h2><a href="http://www.geekblogger.org/2011/01/full-ragdoll-blaster-2-download-for.html" title="Full RagDoll Blaster 2 Download for Free – iPhone Game ipa File Download">Full RagDoll Blaster 2 Download for Free – iPhone Game ipa File Download</a></h2>
+
+					<div id="cb"></div>
+
+			 	</div>
+
+					  	 
+
+			</div><!-- /#thumbs -->			 
+
+		</div> <!-- /#scrollable -->
+
+		<a class="nextPage browse right"></a>
+
+	<div id="theticker">
+
+    <div id="m3ticker">
+
+       <div id="tickimg">        <img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/youarehere.png" alt="">    </div>  
+
+          <div id="m3crumbs">	<div id="crumbs"><a href="http://www.geekblogger.org">Home</a> » <span class="current">Privacy Policy</span></div></div>
+
+   <div id="cb"></div>
+
+    </div>  <div class="navi"></div>  <div id="cb"></div>
+
+    </div>
+
+    </div><!-- /#featured -->        
+
+ <div id="content">	
+
+	
+
+
+		<article class="post">
+
+			<h2>  Privacy Policy</h2>
+
+			<div class="pmetasingle"> Posted By <b><a href="http://www.geekblogger.org/author/admin" title="View all posts by Piyush Dungrani">Piyush Dungrani </a></b>  
+
+            	       On Monday, June 20th, 2011
+
+
+ With <a href="#comments"> 0 Comments</a>  
+
+
+
+        
+
+            </div>
+
+			<div class="entry">
+
+			  <ul id="sharebar" style="background:#;border-color:#;">
+<li><!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="tall"></g:plusone>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="dungrani">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><script src="http://www.stumbleupon.com/hostedbadge.php?s=5"></script></li><li><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.geekblogger.org/privacy-policy&amp;layout=box_count&amp;show_faces=false&amp;width=60&amp;action=like&amp;colorscheme=light&amp;height=45" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:45px; height:60px;" allowtransparency="true"></iframe></li><li><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><span class="st_email" displaytext="Email"></span><span class="st_sharethis" displaytext="Share"></span></li></ul><ul id="sharebarx">
+<li><!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="tall"></g:plusone>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="dungrani">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><script src="http://www.stumbleupon.com/hostedbadge.php?s=2"></script></li><li><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.geekblogger.org/privacy-policy&amp;layout=button_count&amp;show_faces=false&amp;width=85&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowtransparency="true"></iframe></li><li><span class="st_email" displaytext="Email"></span><span class="st_sharethis" displaytext="Share"></span></li></ul><p><strong>The views and opinions expressed on this blog are purely the bloggers’ own. Contents of this blog-all texts and images may not be published, rewritten, broadcast or redistributed anywhere without permission.</strong></p>
+<blockquote><p><strong>Disclaimer</strong></p></blockquote>
+<p>The views expressed in this blog(www.geekblogger.org) are solely mine(Piyush Dungrani) and do not reflect the views of my family, friends, employer or organization. All the thoughts expressed in this blog are true to the best of my knowledge. If you feel that anything is not correct, then do let us know about it.</p>
+<blockquote><p><strong>Privacy Policy</strong></p></blockquote>
+<p>We give utmost priority to our visitors. Your privacy is very important to us. To better protect your privacy we are providing this notice explaining our online information practices so that you can make a better choice while providing your information.</p>
+<blockquote><p><strong>Information we collect</strong></p></blockquote>
+<p>Our servers collect the log information related to your activity on this site. The log file will include your IP address, ISP provider, webbrowser information, OS used, time on the site, entry pages, exit pages etc. All this information is used to provide a better service. Your information is never shared with others. Your data is as safe as mine.  On some pages we might collect your name and email addresses. We will be using this information to contact you incase you need any help from us. We will never sell your information or make it public.</p>
+<blockquote><p><strong>Third party advertising – Cookies</strong></p></blockquote>
+<p>We use third-party advertising companies to serve ads on our website(We do need some money to run the website right?). These companies may use cookies to get information (not including your name, address, email address etc) like IP address, browse patterns etc about your visits to this and other websites in order to provide relevant advertisements. You can however choose to disable or selectively turn off third-party cookies in your browser settings(But in such cases it might cause problems using this website to the fullest).</p>
+<blockquote><p><strong>Commenting Policy</strong></p></blockquote>
+<p>All the comments made on this blog are the views of the respective authors. The author is not responsible for the comments that are made on this blog. While we welcome comments from anyone, we reserve the right to remove or edit any comment that is not suitable for publication. This could include but is not limited to objectionable and abusive comments, hate, racism etc.</p>
+			</div>
+
+			
+			<div class="ptags"></div>
+
+		</article>
+
+	
+<div id="related" class="clearfix">
+
+	<div id="sharemark">
+
+<div style="float: left;"><h1>Share This &gt; </h1></div>
+
+ <div class="share"> <ul>   <li>  <a href="http://delicious.com/save" onclick="window.open('http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url='+encodeURIComponent('http://www.geekblogger.org/privacy-policy')+'&amp;title='+encodeURIComponent('Privacy Policy'),'delicious', 'toolbar=no,width=550,height=550'); return false;"> 
+
+
+
+                        <img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/delicious.png" alt="Add to Delicious" border="0"></a> 
+
+                      </li>  
+
+                      <li>
+
+                      <a href="javascript:var d=document,f='http://www.facebook.com/share',l=d.location,e=encodeURIComponent,p='.php?src=bm&amp;v=4&amp;i=1245532349&amp;u='+e(l.href)+'&amp;t='+e(d.title);1;try{if (!/^(.*\.)?facebook\.[^.]*$/.test(l.host))throw(0);share_internal_bookmarklet(p)}catch(z) {a=function() {if (!window.open(f+'r'+p,'sharer','toolbar=0,status=0,resizable=1,width=626,height=436'))l.href=f+p};if (/Firefox/.test(navigator.userAgent))setTimeout(a,0);else{a()}}void(0)" onclick="return wait_for_load(this, event, function() { return false });" id="share_bookmark" title="Share on Facebook">
+
+                        <img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/facebookicon.png" border="0"></a>
+
+                      </li>
+
+                      <li>
+
+                      <a href="http://friendfeed.com/?url=http://www.geekblogger.org/privacy-policy&amp;title=Privacy Policy" target="_blank">
+
+                        <img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/friendfeed.png" alt="Share on FriendFeed" border="0"></a> </li>
+
+                                          <li>
+
+
+
+                      <a href='javascript:(function(){var a=window,b=document,c=encodeURIComponent,d=a.open("http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk="+c(b.location)+"&amp;title="+c(b.title),"bkmk_popup","left="+((a.screenX||a.screenLeft)+10)+",top="+((a.screenY||a.screenTop)+10)+",height=420px,width=550px,resizable=1,alwaysRaised=1");a.setTimeout(function(){d.focus()},300)})();'> 
+
+
+
+                        <img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/google.png" border="0"> </a>
+
+
+
+                      </li>
+
+
+
+                      
+
+
+
+               <li><a href="http://digg.com/submit?phase=2&amp;url=http://www.geekblogger.org/privacy-policy&amp;title=Privacy Policy"><img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/digg.png" alt="Digg"></a></li>
+
+
+
+                        <li><a href="http://twitter.com/home?status=Currently reading http://www.geekblogger.org/privacy-policy"><img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/twittericon.png" alt="" width="32px" height="32px"></a></li>
+
+
+
+                      <li>  
+
+
+
+                      <a href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"> 
+
+
+
+                        <img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/reddit.png" alt="submit to reddit" border="0"> </a>
+
+
+
+                      </li>
+
+
+
+                   
+
+
+
+                      <li>
+
+
+
+                      <a href="javascript:location.href='http://www.myspace.com/Modules/PostTo/Pages/?c='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title)"> 
+
+
+
+                        <img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/myspace.png" border="0"> </a>
+
+
+
+                      </li>
+
+
+
+                     
+
+                     
+
+                      <li>   
+
+
+
+                      <a href="http://www.stumbleupon.com/submit?url=http://www.geekblogger.org/privacy-policy&amp;title=Privacy Policy">
+
+
+
+                        <img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/stumbleupon.png" border="0"></a>    
+
+                      </li>
+
+                      <li>   
+
+                      <a href="javascript:void(document.location='http://technorati.com/faves?sub=favthis&amp;add='+escape(document.location))">
+
+                        <img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/technorati.png" border="0"></a> 
+
+                      </li>
+
+                        <li>   
+
+                      <a href="RSS">
+
+                        <img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/rssiconsingle.png" border="0"></a> 
+
+                      </li>            </ul>
+
+        </div>
+
+	<div id="cb"></div>
+
+</div>
+
+</div> <div id="cb"></div>
+
+		
+<!-- You can start editing here. --> 
+
+<div class="comments-box"> <a name="comments" id="comments"></a>
+
+  
+  
+  <!-- If comments are open, but there are no comments. -->
+
+  
+  
+     	 
+
+  <div id="respond">     
+
+    <h2>Leave a comment</h2>
+
+    <div class="cancel-comment-reply"> <small>
+
+      <a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy#respond" style="display:none;">Click here to cancel reply.</a>
+      </small> </div>
+
+    
+    <form action="http://www.geekblogger.org/wp-comments-post.php" method="post" id="commentform">
+
+      
+      <p>
+
+        <input class="author" type="text" value="Your Name..." onclick="this.value='';" name="author" id="author" size="22" tabindex="1">
+
+        <label for="author"><small>
+
+        (Required)
+        </small></label>
+
+      </p>
+
+      <p>
+
+        <input class="email" type="text" value="Your Email..." onclick="this.value='';" name="email" id="email" size="22" tabindex="2">
+
+        <label for="email"><small>(Will not be published)
+
+         (Required)
+        </small></label>
+
+      </p>
+
+      <p>
+
+        <input class="url" type="text" value="Your Website..." onclick="this.value='';" name="url" id="url" size="22" tabindex="3">
+
+        <label for="url"><small>(Optional)</small></label>
+
+      </p>
+
+      
+
+
+      <p>
+
+        <textarea name="comment" id="comment" tabindex="4"></textarea>
+
+      </p>
+
+           <p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>
+
+      <p>
+
+        <input class="submit" name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment">
+
+        <input type="hidden" name="comment_post_ID" value="2587" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+
+      </p>
+
+      <p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="1b02529ad0"></p>
+
+	<p style="clear: both;" class="subscribe-to-comments">
+	<input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;">
+	<label for="subscribe">Notify me of followup comments via e-mail</label>
+	</p>
+
+
+
+    </form>
+
+    
+  </div>
+
+  
+</div>
+
+
+ </div>  
+
+     </div><!-- end #content -->
+
+<aside>
+<div id="sidebar">
+<div class="section">
+<div id="sidebartitlewrapper"><h3>Search</h3></div>
+<form method="get" id="footersearch" action="http://www.geekblogger.org/">
+<input type="text" name="s" value="Search Here - Enter Keyword" onblur="if(this.value=='') this.value='Search Here - Enter 
+Keyword';" onfocus="if(this.value=='Search Here - Enter Keyword') this.value='';" id="s">
+<input type="submit" value=" " id="searchsubmit">
+</form></div></div>
+
+<div id="sidebar">
+<div class="section">
+<div id="sidebartitlewrapper"><h3>Stay Connected</h3><br></div>
+<a href="http://feeds.feedburner.com/geekbloggerorg"><img alt="RSS icon" border="0" src="http://4.bp.blogspot.com/_MhvFrz7psjI/S8VTbybJ_RI/AAAAAAAAEPI/OpKeJtEREz8/s1600/rss_32.png"></a>
+<a href="http://feedburner.google.com/fb/a/mailverify?uri=geekbloggerorg" target="_blank"><img alt="Email icon" border="0" src="http://3.bp.blogspot.com/_MhvFrz7psjI/S8VTKTjmdsI/AAAAAAAAEN4/GWfb8kajh6k/s1600/email_32.png"></a>
+<a href="http://delicious.com/dungrani"><img alt="Delicious icon" border="0" src="http://4.bp.blogspot.com/_MhvFrz7psjI/S8VTJrpmm6I/AAAAAAAAENo/hwNA7vvAbUM/s1600/delicious_32.png"></a>
+<a href="http://www.stumbleupon.com/stumbler/dungrani/"><img alt="Stumbleupon icon" border="0" src="http://1.bp.blogspot.com/_MhvFrz7psjI/S8VTjjjzppI/AAAAAAAAEPw/afAqT1Z03dc/s1600/stumbleupon_32.png"></a>
+<a href="http://twitter.com/dungrani"><img alt="Twitter icon" border="0" src="http://4.bp.blogspot.com/_MhvFrz7psjI/S8VToPvwWyI/AAAAAAAAEQI/ldCJzVruIUo/s1600/twitter_32.png"></a>
+<a href="http://www.facebook.com/geekblogger"><img alt="facebook icon" border="0" src="http://3.bp.blogspot.com/_MhvFrz7psjI/S8VTKh_Z61I/AAAAAAAAEOA/jbHEZ8Qbnxs/s1600/facebook_32.png"></a>
+<a href="http://labs.google.co.in/smschannels/channel/geekblogger"><img alt="Subscribe via Google SMS Channel" border="0" src="http://1.bp.blogspot.com/_1fqu8LzmPN8/S_yGe4oHUII/AAAAAAAAFbc/dONGxdHQ_MQ/s1600/Subscibe+to+SMS.jpg"></a>
+<form action="http://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=geekbloggerorg','popupwindow&amp;a
+pos;,'scrollbars=yes,width=550,height=520');return true" style="margin-bottom: 15px;border:1px solid 
+
+#ccc;padding:3px;text-align:center;" target="popupwindow"><p>This service is free. Get up-to-date information directly to your email. Your email address is safe with us:</p><input name="email" style="width:140px;margin-right:5px;" type="text"><input name="uri" type="hidden" value="geekbloggerorg"><input name="loc" type="hidden" value="en_US"><input type="submit" value="Subscribe"><br><br>
+<a href="http://feeds.feedburner.com/geekbloggerorg"><img alt="Feed burner image" height="26" src="http://feeds.feedburner.com/~fc/geekbloggerorg?bg=262626&amp;fg=FFFFFF&amp;anim=0&amp;label=listeners" style="border:0" width="88"></a>
+</form></div></div>
+<div id="mrtindiva">
+<ul class="tabs">
+    <li><a href="#tab1">Topics</a></li>
+    <li><a href="#tab2">Comments</a></li>
+    <li><a href="#tab3">Tags</a></li>
+</ul>
+
+<div class="tab_container">
+    <div id="tab1" class="tab_content">
+<div class="section widget_categories2">	 
+
+			<ul>
+				<li class="cat-item cat-item-13"><a href="http://www.geekblogger.org/category/add-ons" title="All browser Add-ons">Add-ons</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.geekblogger.org/category/apple-products-and-news" title="All news and latest buzz about Apple iPhone, Mac, iPad and Ipods">Apple</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://www.geekblogger.org/category/blogger" title="Blogger">Blogger</a>
+</li>
+	<li class="cat-item cat-item-340"><a href="http://www.geekblogger.org/category/blogger/blogger-gadgets" title="View all posts filed under Blogger Gadgets">Blogger Gadgets</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.geekblogger.org/category/blogger-hacks" title="Blogger Hacks">Blogger Hacks</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.geekblogger.org/category/blogger-templates" title="Blogger Templates">Blogger Templates</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.geekblogger.org/category/blogger-tips" title="Blogger Tips">Blogger Tips</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.geekblogger.org/category/blogger-widget" title="Blogger widget">Blogger widget</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.geekblogger.org/category/browsers" title="Browsers">Browsers</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.geekblogger.org/category/china-mobile" title="China Mobile">China Mobile</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.geekblogger.org/category/dont-crack" title="Dont Crack and Get Full software with serial keys">Dont Crack</a>
+</li>
+	<li class="cat-item cat-item-315"><a href="http://www.geekblogger.org/category/entertainment/download" title="Download Movies, Softwares, Games, Antivirus and more internet stuff.">Download</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://www.geekblogger.org/category/earn-money-online" title="Earn Money Online">Earn Money Online</a>
+</li>
+	<li class="cat-item cat-item-117"><a href="http://www.geekblogger.org/category/entertainment" title="View all posts filed under Entertainment">Entertainment</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.geekblogger.org/category/excel-tips" title="Excel Tips">Excel Tips</a>
+</li>
+	<li class="cat-item cat-item-601"><a href="http://www.geekblogger.org/category/google/feedburner" title="View all posts filed under FeedBurner">FeedBurner</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.geekblogger.org/category/free-antivirus" title="Free Antivirus">Free Antivirus</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://www.geekblogger.org/category/freebies" title="View all posts filed under Freebies">Freebies</a>
+</li>
+	<li class="cat-item cat-item-186"><a href="http://www.geekblogger.org/category/google/gmail-tips" title="View all posts filed under Gmail Tips">Gmail Tips</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://www.geekblogger.org/category/google" title="Google">Google</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://www.geekblogger.org/category/google-adsense" title="Google Adsense Tips and Tricks">Google Adsense</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://www.geekblogger.org/category/how-to" title="How To">How To</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://www.geekblogger.org/category/internet-tips" title="Internet Tips">Internet</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="http://www.geekblogger.org/category/apple-products-and-news/iphone-apps" title="View all posts filed under iPhone Apps">iPhone Apps</a>
+</li>
+	<li class="cat-item cat-item-68"><a href="http://www.geekblogger.org/category/apple-products-and-news/iphone-jailbreak" title="View all posts filed under iPhone JailBreak">iPhone JailBreak</a>
+</li>
+	<li class="cat-item cat-item-73"><a href="http://www.geekblogger.org/category/apple-products-and-news/iphone-unlock" title="Unlock iPhone 2G, 3G, 3GS and 4G">iPhone Unlock</a>
+</li>
+	<li class="cat-item cat-item-763"><a href="http://www.geekblogger.org/category/life-style" title="View all posts filed under Life Style">Life Style</a>
+</li>
+	<li class="cat-item cat-item-335"><a href="http://www.geekblogger.org/category/apple-macintosh" title="Discover the world of Mac. Check out MacBook, iMac, iLife, and more">Mac</a>
+</li>
+	<li class="cat-item cat-item-95"><a href="http://www.geekblogger.org/category/microsoft" title="View all posts filed under Microsoft">Microsoft</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://www.geekblogger.org/category/microsoft/microsoft-office" title="Microsoft Office 2003, MS Office 2007 and MS Office 2010 tips.">Microsoft Office</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://www.geekblogger.org/category/mobile-and-gadgets" title="Mobile and Gadgets">Mobile and Gadgets</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://www.geekblogger.org/category/online-streaming" title="Online Streaming of Music and Videos">Online Streaming</a>
+</li>
+	<li class="cat-item cat-item-297"><a href="http://www.geekblogger.org/category/paypal" title="View all posts filed under PayPal">PayPal</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://www.geekblogger.org/category/pc-games" title="PC Games Download">PC Games</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://www.geekblogger.org/category/phpbb-forum" title="Phpbb forum">Phpbb forum</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://www.geekblogger.org/category/search-engine" title="Search Engine">Search Engine</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://www.geekblogger.org/category/seo" title="SEO">SEO</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://www.geekblogger.org/category/social-media" title="Social Media">Social Media</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://www.geekblogger.org/category/free-softwares" title="Full and Free Softwares for Download">Softwares</a>
+</li>
+	<li class="cat-item cat-item-756"><a href="http://www.geekblogger.org/category/mobile-and-gadgets/tablet-pc" title="View all posts filed under Tablet PC">Tablet PC</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="http://www.geekblogger.org/category/telecom" title="View all posts filed under Telecom">Telecom</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.geekblogger.org/category/uncategorized" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://www.geekblogger.org/category/unlock-data-card" title="Unlock Data Card">Unlock Data Card</a>
+</li>
+	<li class="cat-item cat-item-189"><a href="http://www.geekblogger.org/category/windows/windows-7/wat-remover" title="Windows 7 WAT Remover - Windows 7 Activation Crack">WAT Remover</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.geekblogger.org/category/web-hosting-offers" title="View all posts filed under Web Hosting Offers">Web Hosting Offers</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://www.geekblogger.org/category/windows" title="Windows Tips">Windows</a>
+</li>
+	<li class="cat-item cat-item-434"><a href="http://www.geekblogger.org/category/windows/windows-7" title="View all posts filed under Windows 7">Windows 7</a>
+</li>
+	<li class="cat-item cat-item-485"><a href="http://www.geekblogger.org/category/windows/windows-xp" title="View all posts filed under Windows XP">Windows XP</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://www.geekblogger.org/category/wordpress" title="Wordpress">Wordpress</a>
+</li>
+	<li class="cat-item cat-item-129"><a href="http://www.geekblogger.org/category/wordpress/wordpress-plugins" title="View all posts filed under WordPress Plugins">WordPress Plugins</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://www.geekblogger.org/category/youtube" title="Youtube">Youtube</a>
+</li>
+ 
+			</ul>
+		</div>
+</div>
+
+<div id="tab2" class="tab_content">
+
+<li class=""><a href="http://www.geekblogger.org/" rel="external nofollow" class="url">LAKSHMAN</a> on <a href="http://www.geekblogger.org/2009/11/quick-heal-total-security-10-and-950.html/comment-page-1#comment-1797">Quick Heal Total Security 10 and 9.50 Free Updates Download</a></li><li class=""><a href="http://www.geekblogger.org/" rel="external nofollow" class="url">buy volcano vaporizer</a> on <a href="http://www.geekblogger.org/2011/03/nod32-keys-free-eset-nod32-antivirus.html/comment-page-3#comment-1769">NOD32 Keys | ESET NOD32 Antivirus Username and Password</a></li><li class=""><a href="http://www.geekblogger.org/" rel="external nofollow" class="url">ΜΙΧΑΛΗΣ</a> on <a href="http://www.geekblogger.org/2011/03/nod32-keys-free-eset-nod32-antivirus.html/comment-page-3#comment-1760">NOD32 Keys | ESET NOD32 Antivirus Username and Password</a></li><li class=""><a href="http://www.geekblogger.org/" rel="external nofollow" class="url">Piyush Dungrani</a> on <a href="http://www.geekblogger.org/2011/03/nod32-keys-free-eset-nod32-antivirus.html/comment-page-3#comment-1746">NOD32 Keys | ESET NOD32 Antivirus Username and Password</a></li><li class=""><a href="http://www.geekblogger.org/" rel="external nofollow" class="url">ali</a> on <a href="http://www.geekblogger.org/2011/03/nod32-keys-free-eset-nod32-antivirus.html/comment-page-3#comment-1744">NOD32 Keys | ESET NOD32 Antivirus Username and Password</a></li> 
+
+</div>
+
+<div id="tab3" class="tab_content">
+<a href="http://www.geekblogger.org/tag/apple-iphone" class="tag-link-64" title="8 topics" style="font-size: 14.2820512821pt;">Apple iPhone</a>
+<a href="http://www.geekblogger.org/tag/best-firefox-addons" class="tag-link-178" title="6 topics" style="font-size: 12.4871794872pt;">Best firefox addons</a>
+<a href="http://www.geekblogger.org/tag/blogger" class="tag-link-50" title="23 topics" style="font-size: 22pt;">Blogger</a>
+<a href="http://www.geekblogger.org/tag/blogger-hacks" class="tag-link-17" title="8 topics" style="font-size: 14.2820512821pt;">Blogger Hacks</a>
+<a href="http://www.geekblogger.org/tag/blogger-templates" class="tag-link-18" title="4 topics" style="font-size: 9.79487179487pt;">Blogger Templates</a>
+<a href="http://www.geekblogger.org/tag/blogger-tips" class="tag-link-16" title="19 topics" style="font-size: 20.5641025641pt;">Blogger Tips</a>
+<a href="http://www.geekblogger.org/tag/browser" class="tag-link-307" title="5 topics" style="font-size: 11.2307692308pt;">Browser</a>
+<a href="http://www.geekblogger.org/tag/dont-crack" class="tag-link-24" title="15 topics" style="font-size: 18.7692307692pt;">Dont Crack</a>
+<a href="http://www.geekblogger.org/tag/earn-money-online" class="tag-link-26" title="6 topics" style="font-size: 12.4871794872pt;">Earn Money Online</a>
+<a href="http://www.geekblogger.org/tag/excel-2003" class="tag-link-237" title="4 topics" style="font-size: 9.79487179487pt;">Excel 2003</a>
+<a href="http://www.geekblogger.org/tag/excel-2007" class="tag-link-238" title="5 topics" style="font-size: 11.2307692308pt;">Excel 2007</a>
+<a href="http://www.geekblogger.org/tag/excel-2010" class="tag-link-239" title="5 topics" style="font-size: 11.2307692308pt;">Excel 2010</a>
+<a href="http://www.geekblogger.org/tag/excel-tips" class="tag-link-27" title="5 topics" style="font-size: 11.2307692308pt;">Excel Tips</a>
+<a href="http://www.geekblogger.org/tag/filesonic" class="tag-link-277" title="5 topics" style="font-size: 11.2307692308pt;">FileSonic</a>
+<a href="http://www.geekblogger.org/tag/filesonic-payment-proof" class="tag-link-181" title="4 topics" style="font-size: 9.79487179487pt;">FileSonic Payment Proof</a>
+<a href="http://www.geekblogger.org/tag/free-antivirus" class="tag-link-25" title="10 topics" style="font-size: 15.8974358974pt;">Free Antivirus</a>
+<a href="http://www.geekblogger.org/tag/free-iphone-apps" class="tag-link-65" title="3 topics" style="font-size: 8pt;">Free iPhone Apps</a>
+<a href="http://www.geekblogger.org/tag/free-serial-key" class="tag-link-147" title="6 topics" style="font-size: 12.4871794872pt;">Free Serial key</a>
+<a href="http://www.geekblogger.org/tag/free-software" class="tag-link-148" title="16 topics" style="font-size: 19.3076923077pt;">Free Software</a>
+<a href="http://www.geekblogger.org/tag/games" class="tag-link-157" title="8 topics" style="font-size: 14.2820512821pt;">Games</a>
+<a href="http://www.geekblogger.org/tag/genuine-license-key" class="tag-link-150" title="5 topics" style="font-size: 11.2307692308pt;">Genuine License Key</a>
+<a href="http://www.geekblogger.org/tag/giveaway" class="tag-link-151" title="9 topics" style="font-size: 15.1794871795pt;">Giveaway</a>
+<a href="http://www.geekblogger.org/tag/gmail" class="tag-link-177" title="6 topics" style="font-size: 12.4871794872pt;">Gmail</a>
+<a href="http://www.geekblogger.org/tag/google" class="tag-link-51" title="14 topics" style="font-size: 18.4102564103pt;">Google</a>
+<a href="http://www.geekblogger.org/tag/google-adsense" class="tag-link-31" title="9 topics" style="font-size: 15.1794871795pt;">Google Adsense</a>
+<a href="http://www.geekblogger.org/tag/google-mail" class="tag-link-270" title="4 topics" style="font-size: 9.79487179487pt;">Google Mail</a>
+<a href="http://www.geekblogger.org/tag/how-to" class="tag-link-32" title="8 topics" style="font-size: 14.2820512821pt;">How To</a>
+<a href="http://www.geekblogger.org/tag/how-to-earn-money-online" class="tag-link-183" title="5 topics" style="font-size: 11.2307692308pt;">How To Earn Money Online</a>
+<a href="http://www.geekblogger.org/tag/internet-tips" class="tag-link-34" title="10 topics" style="font-size: 15.8974358974pt;">Internet</a>
+<a href="http://www.geekblogger.org/tag/iphone" class="tag-link-245" title="5 topics" style="font-size: 11.2307692308pt;">iPhone</a>
+<a href="http://www.geekblogger.org/tag/iphone-apps" class="tag-link-63" title="3 topics" style="font-size: 8pt;">iPhone Apps</a>
+<a href="http://www.geekblogger.org/tag/iphone-tips" class="tag-link-250" title="4 topics" style="font-size: 9.79487179487pt;">iPhone Tips</a>
+<a href="http://www.geekblogger.org/tag/microsoft-office" class="tag-link-36" title="4 topics" style="font-size: 9.79487179487pt;">Microsoft Office</a>
+<a href="http://www.geekblogger.org/tag/mobile-and-gadgets" class="tag-link-37" title="9 topics" style="font-size: 15.1794871795pt;">Mobile and Gadgets</a>
+<a href="http://www.geekblogger.org/tag/pen-drive" class="tag-link-228" title="4 topics" style="font-size: 9.79487179487pt;">Pen Drive</a>
+<a href="http://www.geekblogger.org/tag/search-engine" class="tag-link-45" title="4 topics" style="font-size: 9.79487179487pt;">Search Engine</a>
+<a href="http://www.geekblogger.org/tag/seo" class="tag-link-39" title="9 topics" style="font-size: 15.1794871795pt;">SEO</a>
+<a href="http://www.geekblogger.org/tag/software" class="tag-link-166" title="8 topics" style="font-size: 14.2820512821pt;">Software</a>
+<a href="http://www.geekblogger.org/tag/streaming-media" class="tag-link-136" title="3 topics" style="font-size: 8pt;">Streaming Media</a>
+<a href="http://www.geekblogger.org/tag/wat-remover" class="tag-link-189" title="4 topics" style="font-size: 9.79487179487pt;">WAT Remover</a>
+<a href="http://www.geekblogger.org/tag/windows" class="tag-link-43" title="17 topics" style="font-size: 19.8461538462pt;">Windows</a>
+<a href="http://www.geekblogger.org/tag/windows-7-crack" class="tag-link-195" title="4 topics" style="font-size: 9.79487179487pt;">Windows 7 Crack</a>
+<a href="http://www.geekblogger.org/tag/windows-tips" class="tag-link-219" title="4 topics" style="font-size: 9.79487179487pt;">Windows Tips</a>
+<a href="http://www.geekblogger.org/tag/yahoo" class="tag-link-167" title="4 topics" style="font-size: 9.79487179487pt;">Yahoo</a>
+<a href="http://www.geekblogger.org/tag/youtube" class="tag-link-46" title="3 topics" style="font-size: 8pt;">Youtube</a></div>
+
+</div> </div>
+
+			<div id="sidebar">
+
+<div class="section widget_text"><div id="sidebartitlewrapper"><h3>Ad Choices</h3></div><div class="sectioncont">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-5820705378592492";
+/* 300x250, created 1/31/10 */
+google_ad_slot = "7001455714";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div></div><div class="section widget_text">			<div class="textwidget"></div>
+		</div></div>		<div class="section widget_recent_entries">		<div id="sidebartitlewrapper"><h3>Recent Posts</h3></div><div class="sectioncont">		<ul>
+				<li><a href="http://www.geekblogger.org/2011/11/internet-options-for-blog-geeks.html" title="Internet Options for Blog Geeks, Finding the Best Fit">Internet Options for Blog Geeks, Finding the Best Fit</a></li>
+				<li><a href="http://www.geekblogger.org/2011/11/competition-rising-for-capturing-the-smart-tv-market.html" title="Competition Rising For Capturing the Smart TV Market">Competition Rising For Capturing the Smart TV Market</a></li>
+				<li><a href="http://www.geekblogger.org/2011/11/optimize-business-processes-for-huge-profits.html" title="Optimize Business Processes for Huge Profits">Optimize Business Processes for Huge Profits</a></li>
+				<li><a href="http://www.geekblogger.org/2011/11/recent-google-algorithm-changes.html" title="10 Most Recent Google Algorithm Changes">10 Most Recent Google Algorithm Changes</a></li>
+				<li><a href="http://www.geekblogger.org/2011/11/google-pagerank-update-november-2011.html" title="Google PageRank Update – November 2011">Google PageRank Update – November 2011</a></li>
+				<li><a href="http://www.geekblogger.org/2011/11/best-positions-to-place-google-adsense-ads-in-blog.html" title="Best Positions to Place Google Adsense Ads in your Blog">Best Positions to Place Google Adsense Ads in your Blog</a></li>
+				<li><a href="http://www.geekblogger.org/2011/11/sony-ericsson-spiro-contacts-backup-restore.html" title="How to Backup Sony Ericsson Spiro Contacts + Restore Contacts">How to Backup Sony Ericsson Spiro Contacts + Restore Contacts</a></li>
+				<li><a href="http://www.geekblogger.org/2011/10/angry-birds-seasons-game-for-pc-download.html" title="Angry Birds Seasons Game for PC Download">Angry Birds Seasons Game for PC Download</a></li>
+				<li><a href="http://www.geekblogger.org/2011/10/full-download-angry-birds-1-6-2-0-game-for-pc-crack-serial-key.html" title="Dont’ Crack: Download Angry Birds Game for PC + Serial Key">Dont’ Crack: Download Angry Birds Game for PC + Serial Key</a></li>
+				<li><a href="http://www.geekblogger.org/2011/10/angry-birds-costume-for-halloween-2011.html" title="Angry Birds Costume for Halloween 2011">Angry Birds Costume for Halloween 2011</a></li>
+				</ul>
+		</div></div><div class="section widget_text"><div id="sidebartitlewrapper"><h3>Earn Money Online</h3></div><div class="sectioncont">			<div class="textwidget"><a href="http://www.justbeenpaid.com/?r=sFYFadzFH2"> 
+<img src="http://www.justbeenpaid.com/images/banners/jbp_19_160x600.gif" alt="banner"></a></div>
+		</div></div>
+		</aside></section></div><!-- end #r-sidebar -->
+		  
+
+	
+
+<!-- #wrapper -->
+
+	<footer>
+
+    <div id="footer1">     <div id="footerwrapper1"> 
+
+    <div id="fsidebar1">                                            
+
+      <div class="widget"><ul><h3>Find Us on Facebook</h3><iframe src="http://www.facebook.com/plugins/fan.php?id=147230565327422&amp;width=250&amp;connections=10&amp;stream=false&amp;header=false&amp;locale=en_US" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:250px; height:233px"></iframe></ul></div>            
+
+    </div>
+
+    <div id="fsidebar2">                                            
+
+      <div class="widget"><ul><h3>Alexa Stats</h3>			<div class="textwidget"><a href="http://www.alexa.com/siteinfo/www.geekblogger.org"><script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/s/a?url=www.geekblogger.org"></script></a>
+<a href="http://www.dmca.com/Protection/Status.aspx?id=1ea085b3-0508-4afe-a345-70cc5e6bee11" title="DMCA"> <img src="http://images.dmca.com/Badges/dmca_protected_sml_120q.png?id=1ea085b3-0508-4afe-a345-70cc5e6bee11" alt="DMCA.com"></a><a href="http://bloggers.com" rel="dofollow"><img src="http://bloggers.com/b/16145/cm/img_03.png" title="Bloggers - Meet Millions of Bloggers" alt="Bloggers - Meet Millions of Bloggers"></a></div>
+		</ul></div>            
+
+    </div> 
+
+    <div id="fsidebar3">                                            
+
+      <div class="widget"><ul><h3>Our Network</h3><div class="menu-friends-container"><ul id="menu-friends" class="menu"><li id="menu-item-3251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3251"><a title="Modem Unlock" href="http://www.modemunlock.com">Modem Unlock</a></li>
+<li id="menu-item-3252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3252"><a title="Download Over " href="http://downloadover.com">Download Over</a></li>
+<li id="menu-item-3562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3562"><a href="http://www.ravisaive.in/">Technology Blog</a></li>
+<li id="menu-item-3253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3253"><a title="Broadband Services" href="http://www.modemunlock.com/category/huawei/huawei-usb-modem">Broadband Services</a></li>
+</ul></div></ul></div>            
+
+    </div>   
+
+     <div id="fsidebar4">
+
+    <div class="widget">
+
+    <ul>
+
+    <h3>About Our Site</h3>
+
+    <ul>
+  	
+
+<ul id="sharebar" style="background:#;border-color:#;">
+<li><!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="tall"></g:plusone>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="dungrani">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><script src="http://www.stumbleupon.com/hostedbadge.php?s=5"></script></li><li><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.geekblogger.org/about-me&amp;layout=box_count&amp;show_faces=false&amp;width=60&amp;action=like&amp;colorscheme=light&amp;height=45" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:45px; height:60px;" allowtransparency="true"></iframe></li><li><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><span class="st_email" displaytext="Email"></span><span class="st_sharethis" displaytext="Share"></span></li></ul><ul id="sharebarx">
+<li><!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="tall"></g:plusone>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></li><li><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="dungrani">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li><li><script src="http://www.stumbleupon.com/hostedbadge.php?s=2"></script></li><li><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.geekblogger.org/about-me&amp;layout=button_count&amp;show_faces=false&amp;width=85&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowtransparency="true"></iframe></li><li><span class="st_email" displaytext="Email"></span><span class="st_sharethis" displaytext="Share"></span></li></ul><p>“<strong>GeekBlogger.org</strong>” is a technology blog owned by Piyush Dungrani, a 25 year old QA Engineer and tech enthusiast from Ahmedabad (Gujarat-India), who always wants to explore and share interesting tips, tricks, <a title="blogger hacks" href="http://www.geekblogger.org/category/blogger-hacks">blogger hacks</a>, blogspot, SEO, webmaster guides, <a title="google adsense" href="http://www.geekblogger.org/category/google-adsense">google adsense</a> and Web 2.0 tips.<br>
+ <a href="http://www.geekblogger.org/about-me#more-446" class="more-link">(more…)</a></p>		
+
+ </ul>
+
+    </ul>
+
+    </div>
+
+    </div>     <div style="clear: both;"> </div> 
+
+    </div>  </div>
+
+ <div id="footer2">  <div id="footerwrapper2"> 
+
+<div id="fotnav">
+
+		 	<ul id="fnav">  <center> 
+
+<div id="fotnav" class="ddsmoothmenu1"><ul id="menu-home-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-466"><a href="http://www.geekblogger.org/category/how-to">How To</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-461"><a href="http://www.geekblogger.org/category/apple-products-and-news">Apple</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2698"><a href="http://www.geekblogger.org/category/apple-products-and-news/iphone-jailbreak">iPhone JailBreak</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2699"><a href="http://www.geekblogger.org/category/apple-products-and-news/iphone-apps">iPhone Apps</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-473"><a href="http://www.geekblogger.org/category/internet-tips">Internet</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-472"><a href="http://www.geekblogger.org/category/add-ons">Add-ons</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-491"><a href="http://www.geekblogger.org/category/online-streaming">Online Streaming</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-475"><a href="http://www.geekblogger.org/category/youtube">Youtube</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-476"><a href="http://www.geekblogger.org/category/blogger">Blogger</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-477"><a href="http://www.geekblogger.org/category/blogger-hacks">Blogger Hacks</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-478"><a href="http://www.geekblogger.org/category/blogger-templates">Blogger Templates</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-479"><a href="http://www.geekblogger.org/category/blogger-tips">Blogger Tips</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-480"><a href="http://www.geekblogger.org/category/blogger-widget">Blogger widget</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-484"><a href="http://www.geekblogger.org/category/free-softwares">Softwares</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-483"><a href="http://www.geekblogger.org/category/free-antivirus">Free Antivirus</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-486"><a href="http://www.geekblogger.org/category/google">Google</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-487"><a href="http://www.geekblogger.org/category/google-adsense">Google Adsense</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-492"><a href="http://www.geekblogger.org/category/search-engine">Search Engine</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-493"><a href="http://www.geekblogger.org/category/seo">SEO</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-497"><a href="http://www.geekblogger.org/category/windows">Windows</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-474"><a href="http://www.geekblogger.org/category/microsoft/microsoft-office">Microsoft Office</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-482"><a href="http://www.geekblogger.org/category/excel-tips">Excel Tips</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-498"><a href="http://www.geekblogger.org/category/wordpress">WordPress</a></li>
+</ul></div>
+      </center>	</ul> 
+
+         	</div> 
+
+      <div id="fotbot">
+
+      <div class="fotlogoleft"> 
+
+        <div class="fotcopy">
+
+   © 2010  - All Rights Reserved 
+
+        </div>     
+
+		  </div>
+
+	   	<div class="fotlogoright">
+
+	   	 <ul id="skyline"> 
+
+<li id="pad1">  <a href="http://www.facebook.com/pages/GeekBlogger/147230565327422"><img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/fot-fb.png" alt="Become a Fan!"></a></li>
+
+<li id="pad1">  <a href="http://twitter.com/dungrani"><img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/fot-twitter.png" alt="Follow On Twitter"></a></li>
+
+<li id="pad1"> <a href="http://feeds.feedburner.com/geekbloggerorg"><img src="http://www.geekblogger.org/wp-content/themes/techblog_v1.0/images/fot-feed.png" alt="Subcribe to Our RSS Feed"></a></li>
+
+<li>
+
+      	<form method="get" id="footersearch" action="http://www.geekblogger.org/">
+
+			           <input type="text" name="s" value="Search News - Enter Keyword" onblur="if(this.value=='') this.value='Search News - Enter Keyword';" onfocus="if(this.value=='Search News - Enter Keyword') this.value='';" id="s">
+
+			<input type="submit" value=" " id="searchsubmit">
+
+		   </form> 
+
+</li>  
+
+     
+
+       </ul>
+
+	   	</div>
+
+    	<div id="cb"></div>
+
+   </div>
+
+  </div>   
+
+	</div></footer>
+
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+
+
+
+</body></html>
