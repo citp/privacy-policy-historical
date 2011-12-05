@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the thebay.com privacy policy that was archived on 2011-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110314014638id_/http%3A//www.thebay.com/eng/aboutUs/privacylegalinfo.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thebay.com privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205184024id_/http%3A//www.thebay.com/eng/aboutUs/privacylegalinfo.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <title>the Bay</title>
-	<meta name="description" content="the Bay">
+	<meta name="description" content="The Bay is Canada's leading department store, known for quality, service and style. The Bay offers a wide selection of the top names in fashion, beauty, accessories and home in 90 stores across the country. And you can now shop online at TheBay.com!">
 	<meta name="keywords" content="the Bay">
 
 <meta name="author" content="iCongo, Inc.">
@@ -65,7 +65,8 @@
 	<script type="text/javascript" src="http://www.thebay.com/sharedpages/javascript/jquery.js"></script>
 	<script language="javascript" type="text/javascript" src="/sharedpages/javascript/popLight.js"></script>
 	<script language="javascript" type="text/javascript" src="/sharedpages/javascript/popLightSubscribe.js"></script>
-	
+	<script type="text/javascript" src="http://www.thebay.com/sharedpages/javascript/jquery-custom-thebay.js"></script>
+
 	
 
 
@@ -183,10 +184,10 @@
 
 
 
-			
+
 		<script language="javascript" type="text/javascript">
 
-							
+
 			function switchLang(lang) {
 				window.location.href = 'http://www.thebay.com/store.cfm?lang=fre';
 				/*str1 = location.href;
@@ -196,48 +197,48 @@
 				document.switchLang.submit();
 				*/
 			}
-							
+
 			function CloseShoppingCartPopUp() {
-				$('shoppingBagWindow').style.display = 'none';
+				j$('#shoppingBagWindow').hide(1111);
 				}
 
 			function ShoppingBagGoToCheckout()	{
 				window.location.href ='http://www.thebay.com/eng/storeSection/redirect.cfm?sectionID=b2c/shoppingcart/shoppingcartdetails.cfm';
 				}
-	
+
 				var useUrlRewrite = "true";
 				var keyword_search_type = "";
 				
 					var keyword_search_type = "nextopia";
 				
-		
+
 				function trim(str, chars) {
 				    return ltrim(rtrim(str, chars), chars);
 				}
-		
+
 				function ltrim(str, chars) {
 				    chars = chars || "\\s";
 				    return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
 				}
-		
+
 				function rtrim(str, chars) {
 				    chars = chars || "\\s";
 				    return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
 				}
-			
+
 				function submitSearchFormOnTop() {
 					try	{
 						//var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
 						//var actionVal = 'http://www.thebay.com/eng/storeSection/redirect.cfm?sectionID=b2c/search/productSearchResults.cfm&SearchByKeyword=Y';
-		
+
 						var actionVal = 'http://www.thebay.com';
 						var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
 						var keyword = document.getElementById('searchTerm').value;
-		
+
 						while(keyword.indexOf(' ') != -1) {
 							keyword = keyword.replace(' ','_');
 						}
-		
+
 						actionVal = actionVal+'/eng/search/'+selectedValue+'-'+ escape(keyword);
 						document.getElementById('form_search').setAttribute('action',actionVal);
 						document.getElementById('form_search').submit();
@@ -246,17 +247,17 @@
 						document.getElementById('searchTerm').disabled = false;
 					}
 				}
-	
-		
+
+
 				function submitSearchFormOnTopNourlRewrite() {
 					try	{
 						var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
 						var actionVal = 'http://www.thebay.com/eng/storeSection/redirect.cfm?sectionID=b2c/search/productSearchResults.cfm&SearchByKeyword=Y';
-		
+
 						//var actionVal = 'http://www.thebay.com';
 						// selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
 						var keyword = document.getElementById('searchTerm').value;
-		
+
 						while(keyword.indexOf(' ') != -1) {
 							keyword = keyword.replace(' ','_');
 						}
@@ -267,17 +268,17 @@
 						document.getElementById('searchTerm').disabled =false;
 					}
 				}
-	
+
 				function submitSearchFormNexTopia() {
 					var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
 					var actionVal = 'http://www.thebay.com/eng/search/';
 					var keyword = trim(document.getElementById('searchTerm').value);
-		
+
 					if(keyword == '' || keyword == 'search for costumes') {
 						showAlert({message:'Please enter a keyword to search',closeBText:'x',cssClass:'alertboxSmall'});
 					} else {
 						keyword = keyword.replace(/\s+/g,'_').replace(/-/g,'~');
-		
+
 						//actionVal = actionVal+'/eng/search/'+selectedValue+'-'+ escape(keyword);
 						actionVal = actionVal + document.getElementById('searchSection').value;
 						actionVal = actionVal + '-' + keyword;
@@ -285,20 +286,20 @@
 						document.getElementById('form_search').submit();
 					}
 				}
-	
+
 				function submitSearchFormById(id) {
 					var t = 'sel-'+id;
 					var index = document.getElementById(t).index
 					document.getElementById('searchSection').options[index].selected=true;
 					submitSearchFormOnTop();
 				}
-	
+
 				function submitenter(myfield,e) {
 					var keycode;
 					if (window.event) keycode = window.event.keyCode;
 					else if (e) keycode = e.which;
 					else return true;
-		
+
 					if (keycode == 13) {
 						// submitSearchFormOnTop();
 						
@@ -325,9 +326,9 @@
 		</script>
 	
 		<div id="logo"><a href="http://www.thebay.com/store.cfm?ckey=CA&amp;lang=eng"><img src="/_static/images/www/eng/logo.gif" alt=""></a></div>
+
 		
-		
-		<div id="topBanner"> <div id="flash18"></div><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="170" height="65"><param name="movie" value="/_static/webUpload/33/1996_1.swf?bannerID=1996"><param name="menu" value="false" /><param name="quality" value="best" /><param name="scale" value="noscale" /><param name="wmode" value="transparent" /><embed src="/_static/webUpload/33/1996_1.swf?bannerID=1996" wmode="transparent" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="170" height="65"></embed></object></noscript><script type="text/javascript">var so18= new SWFObject("/_static/webUpload/33/1996_1.swf?bannerID=1996", "flash18", "170", "65", "6", "");so18.addParam("wmode", "transparent");so18.write("flash18");</script></div>
+		<div id="topBanner"> <div id="flash18"></div><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="170" height="65"><param name="movie" value="/_static/webUpload/33/4327_1.swf?bannerID=4327"><param name="menu" value="false" /><param name="quality" value="best" /><param name="scale" value="noscale" /><param name="wmode" value="transparent" /><embed src="/_static/webUpload/33/4327_1.swf?bannerID=4327" wmode="transparent" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="170" height="65"></embed></object></noscript><script type="text/javascript">var so18= new SWFObject("/_static/webUpload/33/4327_1.swf?bannerID=4327", "flash18", "170", "65", "6", "");so18.addParam("wmode", "transparent");so18.write("flash18");</script></div>
           
 	
 
@@ -385,19 +386,25 @@
 				<select name="section" id="searchSection">
 					<option selected="selected" value="EntireSite">Entire site</option>
 					
-							<option id="2885" value="beauty">Beauty</option>
+							<option id="2956" value="womens">women's</option>
+						
+							<option id="3800" value="shoes">shoes</option>
+						
+							<option id="3417" value="handbagsjewellery">handbags &amp; jewellery</option>
+						
+							<option id="2885" value="beauty">beauty</option>
+						
+							<option id="2957" value="mens">men's</option>
+						
+							<option id="2958" value="childrens">children's</option>
+						
+							<option id="2959" value="home">Home</option>
+						
+							<option id="3064" value="hbccollections">HBC Collections</option>
 						
 							<option id="2960" value="Gifts">Gifts</option>
 						
-							<option id="2959" value="homefashion">Home Fashion</option>
-						
-							<option id="3064" value="hudsonsbaycompanycollection">Hudson's Bay Company Collection</option>
-						
-							<option id="2956" value="women">Women</option>
-						
-							<option id="3125" value="giftcard">Gift Card</option>
-						
-							<option id="3060" value="olympics">Olympics</option>
+							<option id="3060" value="theroom">The Room</option>
 						
 				</select>
 			</form>
@@ -409,7 +416,7 @@
 			
 				<li class="languageLink"><a href="javascript:switchLang('fre');"></a></li>
 			
-				<li class="flyer"><a href="http://director.flyerservices.com/HBC/PublicationDirector.ashx?BannerName=HBAY&amp;Language=EN"></a></li>
+				<li class="flyer"><a onclick="javascript: pageTracker._trackEvent(&quot;Conversion&quot;, &quot;Button&quot;, &quot;Flyer&quot;); pageTracker._link(&quot;http://director.flyerservices.com/HBC/PublicationDirector.ashx?BannerName=HBAY&amp;Language=EN&quot;);" href="http://director.flyerservices.com/HBC/PublicationDirector.ashx?BannerName=HBAY&amp;Language=EN"></a></li>
 			
 				<li class="loginRegister"><a href="https://www.thebay.com/eng/myaccount/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm"></a></li>
 			
@@ -428,28 +435,871 @@
 		</div>
 	
 <div id="nav" class="clearfix">
-<ul>
-<li id="section1" class="noSubLevel"><a href="http://www.thebay.com/eng/beauty-thebay"></a>
-</li>
-<li id="section2" class="noSubLevel"><a href="http://www.thebay.com/eng/women-thebay"></a>
-</li>
-<li id="section3" class="noSubLevel"><a href="http://www.thebay.com/eng/men-thebay"></a>
-</li>
-<li id="section4" class="noSubLevel"><a href="http://www.thebay.com/eng/kids-thebay"></a>
-</li>
-<li id="section5" class="noSubLevel"><a href="http://www.thebay.com/eng/homefashion-thebay"></a>
-</li>
-<li id="section6" class="noSubLevel"><a href="http://www.thebay.com/eng/giftcard-thebay"></a>
-</li>
-<li id="section7"><a href="http://www.hbc.com/registry" target="_blank"></a></li>
-<li id="sectionBrands"><a href="http://www.thebay.com/eng/brands/"></a></li>
-<li id="sectionSale"><a href="http://www.thebay.com/eng/sale/"></a>
+<ul class="level1">
+<li id="section1" class="level1opt"><a href="http://www.thebay.com/eng/womens-thebay" class="level1"></a>
+<div class="subNav">
+<!-- column 1  -->
 <ul class="level2">
-<li class="lastItem"><a href="http://www.thebay.com/eng/clearance/">Clearance</a></li>
+<li class="level2opt level2title">
+<h2>Shop by Category</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-greatgifts25andunder-thebay">Great gifts $25 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-greatgifts50andunder-thebay">Great gifts $50 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-greatgifts100andunder-thebay">Great gifts $100 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-greatgiftsover100-thebay">Great gifts Over $100</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-accessories-thebay">accessories</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-activewear-thebay">activewear</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-blazerssuits-thebay">blazers &amp; suits</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-coatsjackets-thebay">coats &amp; jackets</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-denim-thebay">denim</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-dressdepartment-thebay">dress department</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-dressescontemporary-thebay">dresses - contemporary</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-intimates-thebay">intimates</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-olympiccollection-thebay">olympic collection</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-outerwear-thebay">outerwear</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-pantsleggings-thebay">pants &amp; leggings</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-petites-thebay">petites</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-plussize-thebay">plus size</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-shortsskirts-thebay">shorts &amp; skirts</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-sleepwear-thebay">sleepwear</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-sweaters-thebay">sweaters</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-tops-thebay">tops</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-clearance-thebay">clearance</a>
+</li>
 </ul>
+<!-- column 2 -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Brands we Love</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/womens-thebay/18789">Lord &amp; Taylor Cashmere</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/womens-thebay/18833">TOPSHOP</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/womens-thebay/12631">EDIT by Jeanne Beker</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/womens-thebay/18760">Denim &amp; Supply Ralph Lauren</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/womens-thebay/18626">Material Girl</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/womens-thebay/18699">Jessica Simpson </a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/womens-thebay/18650">Lauren Ralph Lauren</a>
+</li>
+</ul>
+<!-- column 3  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Spotlight On</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/boutique-FabHolidayFinds-thebay">NEW! Suzanne's Fab Holiday Finds</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/fashionoffice/en/gallery-womens-holiday.html#/?slide=0">Suzanne's Holiday Faves</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/boutique-top10coats-thebay">Top 10 Coats for Women</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/boutique-top10boots-thebay">Top Boots for Women</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/fashionoffice/en/magazine/issue8/default.html#/1/">Holiday Giving</a>
+</li>
+<li class="level2opt">
+<a href="http://www.b-insider.com/">B Insider</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/womens-olympiccollection-thebay">2012 Official Canadian Olympic Replica Apparel</a>
 </li>
 </ul>
 </div>
+<!--  -->
+</li>
+<li id="section2" class="level1opt"><a href="http://www.thebay.com/eng/shoes-thebay" class="level1"></a>
+<div class="subNav">
+<!-- column 1  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Shop by Category</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-greatgifts25andunder-thebay">Great gifts $25 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-shopallshoes-thebay">shop all shoes</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-greatgifts50andunder-thebay">Great gifts $50 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-greatgifts100andunder-thebay">Great gifts $100 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-greatgiftsover100-thebay">Great gifts Over $100</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-athletic-thebay">athletic</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-boots-thebay">boots</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-casual-thebay">casual</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-clogs-thebay">clogs</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-flats-thebay">flats</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-loafersoxfords-thebay">loafers &amp; oxfords</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-pumps-thebay">pumps</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-slingbacks-thebay">slingbacks</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-slippers-thebay">slippers</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-specialoccasion-thebay">special occasion</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-wedges-thebay">wedges</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-uggaustraliashop-thebay">UGG Australia Shop</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-clearance-thebay">clearance</a>
+</li>
+</ul>
+<!-- column 2 -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Brands we Love</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/shoes-thebay/18833">TOPSHOP</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/shoes-uggaustraliashop-thebay">UGG Australia</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/shoes-thebay/18752">Ivanka Trump</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/shoes-thebay/18826">Sorel</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/shoes-thebay/13493">Franco Sarto</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/shoes-thebay/18626">Material Girl</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/shoes-thebay/18475">Hunter</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/shoes-thebay/12810">Nine West</a>
+</li>
+</ul>
+<!-- column 3  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Spotlight On</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/boutique-FabHolidayFinds-thebay">NEW! Suzanne's Fab Holiday Finds</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/fashionoffice/en/gallery-womens-holiday.html#/?slide=0">Suzanne's Holiday Faves</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/boutique-top10boots-thebay">Top Boots for Women</a>
+</li>
+<li class="level2opt">
+<a href="http://www.b-insider.com/">B Insider</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/fashionoffice/en/default.html">The Fashion Office</a>
+</li>
+</ul>
+</div>
+<!--  -->
+</li>
+<li id="section3" class="level1opt"><a href="http://www.thebay.com/eng/handbagsjewellery-thebay" class="level1"></a>
+<div class="subNav">
+<!-- column 1  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Shop by Category</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/handbagsjewellery-greatgifts25andunder-thebay">Great gifts $25 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/handbagsjewellery-greatgifts50andunder-thebay">Great gifts $50 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/handbagsjewellery-greatgifts100andunder-thebay">Great gifts $100 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/handbagsjewellery-greatgiftsover100-thebay">Great gifts Over $100</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/handbagsjewellery-accessories-thebay">accessories</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/handbagsjewellery-handbags-thebay">handbags</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/handbagsjewellery-jewellery-thebay">jewellery</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/handbagsjewellery-watches-thebay">watches</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/handbagsjewellery-clearance-thebay">clearance</a>
+</li>
+</ul>
+<!-- column 2 -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Brands we Love</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/womens-thebay/18833">TOPSHOP</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/handbagsjewellery-thebay/18486">Guess</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/handbagsjewellery-thebay/12810">Nine West</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/handbagsjewellery-thebay/12736">Alex Fraga</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/handbagsjewellery-thebay/12513">Lacoste</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/handbagsjewellery-thebay/18752">Ivanka Trump</a>
+</li>
+</ul>
+<!-- column 3  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Spotlight On</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/boutique-FabHolidayFinds-thebay">NEW! Suzanne's Fab Holiday Finds</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/fashionoffice/en/gallery-womens-holiday.html#/?slide=0">Suzanne's Holiday Faves</a>
+</li>
+<li class="level2opt">
+<a href="http://www.b-insider.com/">B Insider</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/fashionoffice/en/default.html">The Fashion Office</a>
+</li>
+</ul>
+</div>
+<!--  -->
+</li>
+<li id="section4" class="level1opt"><a href="http://www.thebay.com/eng/beauty-thebay" class="level1"></a>
+<div class="subNav">
+<!-- column 1  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Shop by Category</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-bathbody-thebay">bath &amp; body</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-beautytoolsaccessories-thebay">beauty tools &amp; accessories</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-fragrance-thebay">fragrance</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-giftsets-thebay">gift sets</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-haircare-thebay">hair care</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-makeup-thebay">makeup</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-mensgrooming-thebay">men's grooming</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-perfectpicksforher-thebay">Perfect Picks for Her</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-skinsolutions-thebay">skin solutions</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-skincare-thebay">skincare</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-suncare-thebay">sun care</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-perfectpicksforhim-thebay">Perfect Picks for Him</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-greatgifts25andunder-thebay">Great gifts $25 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-greatgifts50andunder-thebay">Great gifts $50 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-greatgifts100andunder-thebay">Great gifts $100 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/beauty-greatgiftsover100-thebay">Great gifts Over $100</a>
+</li>
+</ul>
+<!-- column 2 -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Shop by Brand</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/beauty-thebay/12576">Elizabeth Arden</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/beauty-thebay/18863">Bond No. 9</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/beauty-thebay/14078">Estée Lauder</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/beauty-thebay/18818">philosophy</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/beauty-thebay/14234">Origins</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/beauty-thebay/12568">Clinique</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/beauty-thebay/12499">Dior</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/beauty-thebay/12615">Lancôme</a>
+</li>
+</ul>
+<!-- column 3  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Spotlight On</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.b-insider.com/">B Insider</a>
+</li>
+<li class="level2opt">
+<a href="http://beautytheguide.com/magazine">BEAUTY the GUIDE </a>
+</li>
+<li class="level2opt">
+<a href="http://www.beautytheguide.com/video/">Dino's Beauty Videos</a>
+</li>
+</ul>
+</div>
+<!--  -->
+</li>
+<li id="section5" class="level1opt"><a href="http://www.thebay.com/eng/mens-thebay" class="level1"></a>
+<div class="subNav">
+<!-- column 1  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Shop by Category</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-greatgifts25andunder-thebay">Great gifts $25 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-greatgifts50andunder-thebay">Great gifts $50 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-greatgifts100andunder-thebay">Great gifts $100 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-greatgiftsover100-thebay">Great gifts Over $100</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-accessories-thebay">accessories  </a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-casualpants-thebay">casual pants</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-denim-thebay">denim  </a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-dressshirts-thebay">dress shirts</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-fragrance-thebay">fragrance  </a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-giftsets-thebay">gift sets  </a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-grooming-thebay">grooming  </a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-hoodiesandsweatshirts-thebay">hoodies and sweatshirts</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-jackets-thebay">jackets</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-olympiccollection-thebay">olympic collection</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-outerwear-thebay">outerwear</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-shoes-thebay">shoes</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-shorts-thebay">shorts</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-sleepwear-thebay">sleepwear</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-sportcoatsandblazers-thebay">sportcoats and blazers</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-sportshirts-thebay">sportshirts</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-sweaters-thebay">sweaters</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-teespolosfleece-thebay">tees, polos &amp; fleece</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-underwearandsocks-thebay">underwear and socks</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-watches-thebay">watches</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-sunglasses-thebay">sunglasses</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-clearance-thebay">clearance</a>
+</li>
+</ul>
+<!-- column 2 -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Brands We Love</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/mens-thebay/18834">TOPMAN</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/mens-thebay/18760">Denim &amp; Supply Ralph Lauren</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/mens-thebay/14144">Polo Ralph Lauren</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/mens-thebay/12653">Bench</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/mens-thebay/12641">Buffalo David Bitton</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/mens-thebay/18676">Levi's</a>
+</li>
+</ul>
+<!-- column 3  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Spotlight On</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/boutique-FabHolidayFinds-thebay">NEW! Suzanne's Fab Holiday Finds</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/fashionoffice/en/magazine/issue7/default.html#/1/">Holiday Giving </a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/fashionoffice/en/greatCoatsForGuys/default.html">Top Coats for Men</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/fashionoffice/en/gallery-mens.html#/?slide=0">The Fashion Office</a>
+</li>
+<li class="level2opt">
+<a href="http://www.b-insider.com/">B Insider</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/mens-olympiccollection-thebay">2012 Official Canadian Olympic Replica Apparel</a>
+</li>
+</ul>
+</div>
+<!--  -->
+</li>
+<li id="section6" class="level1opt"><a href="http://www.thebay.com/eng/childrens-thebay" class="level1"></a>
+<div class="subNav">
+<!-- column 1  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Shop by Category</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-_30offchildrensfashion-thebay">30% off childrens fashion</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-greatgifts25andunder-thebay">Great gifts $25 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-baby-thebay">baby</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-girls-thebay">girls</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-greatgifts50andunder-thebay">Great gifts $50 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-boys-thebay">boys</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-greatgifts100andunder-thebay">Great gifts $100 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-greatgiftsover100-thebay">Great gifts Over $100</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-olympiccollection-thebay">olympic collection</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-ralphlaurenchildrenswear-thebay">ralph lauren childrenswear</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-nursery-thebay">nursery</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-clearance-thebay">clearance</a>
+</li>
+</ul>
+<!-- column 2 -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Brands We Love</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/childrens-thebay/18486">Guess</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/childrens-thebay/12665">Gagou Tagou</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/childrens-thebay/18702">Jack and Jill</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/childrens-thebay/18790">Cocalo</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/childrens-thebay/12693">Petit Lem</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-ralphlaurenchildrenswear-rlgang-thebay">RL Gang</a>
+</li>
+</ul>
+<!-- column 3  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Spotlight On</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.b-insider.com/">B Insider</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/childrens-olympiccollection-thebay">2012 Official Canadian Olympic Replica Apparel</a>
+</li>
+</ul>
+</div>
+<!--  -->
+</li>
+<li id="section7" class="level1opt"><a href="http://www.thebay.com/eng/home-thebay" class="level1"></a>
+<div class="subNav">
+<!-- column 1  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Shop by Category</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-greatgifts25andunder-thebay">Great gifts $25 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-greatgifts50andunder-thebay">Great gifts $50 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-greatgifts100andunder-thebay">Great gifts $100 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-greatgiftsover100-thebay">Great gifts Over $100</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-bakeware-thebay">bakeware</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-bath-thebay">bath</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-bed-thebay">bed</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-christmasstreet-thebay">Christmas street</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-cookware-thebay">cookware</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-drinkwarebar-thebay">drinkware &amp; bar</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-electronics-thebay">electronics</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-flatware-thebay">flatware</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-foodandcollectibles-thebay">food and collectibles</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-housewares-thebay">housewares</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-kitchenaccessories-thebay">kitchen accessories</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-knifesets-thebay">knife sets</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-luggage-thebay">luggage</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-smallappliances-thebay">small appliances</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-stationery-thebay">stationery</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-tabletop-thebay">table top</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-tvs-thebay">tv's</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-vacuums-thebay">vacuums</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/home-clearance-thebay">clearance</a>
+</li>
+</ul>
+<!-- column 2 -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Brands We Love</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/home-thebay/18701">DvF Diane von Furstenberg</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/home-thebay/12575">Dyson</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/home-thebay/12714">Breville</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/home-thebay/12719">Cuisinart</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/home-thebay/12622">GlucksteinHome</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/home-thebay/12625">Kate Spade</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/home-thebay/18650">Lauren by Ralph Lauren</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/brands/search/home-thebay/18659">Nespresso</a>
+</li>
+</ul>
+<!-- column 3  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Spotlight On</h2>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/lookbookarchive/the_gift_of_entertainment/default.html#/1/">The Gift of Entertainment</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/holidayhome/en/default.html">Christmas Décor Collection</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/LookbookArchive/homefortheholidays/default.html">Home for the Holidays</a>
+</li>
+<li class="level2opt">
+<a href="http://www.b-insider.com/">B Insider</a>
+</li>
+</ul>
+</div>
+<!--  -->
+</li>
+<li id="section8" class="level1opt"><a href="http://www.thebay.com/eng/hbccollections-thebay" class="level1"></a>
+<div class="subNav">
+<!-- column 1  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Shop by Category</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-blankets-thebay">blankets</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-greatgifts25andunder-thebay">Great gifts $25 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-greatgifts50andunder-thebay">Great gifts $50 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-home-thebay">home</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-greatgifts100andunder-thebay">Great gifts $100 and under</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-greatgiftsover100-thebay">Great gifts Over $100</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-women-thebay">women</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-men-thebay">men</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-children-thebay">children</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-outdoor-thebay">outdoor</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-sale-thebay">sale</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-accessories-thebay">accessories</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-companyofadventurers-thebay">Company of Adventurers</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-dogcollection-thebay">dog collection</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-olympiccollection-thebay">olympic collection</a>
+</li>
+</ul>
+<!-- column 2 -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Featured</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/boutique-Stripes-thebay">Get YOUR stripes!</a>
+</li>
+</ul>
+<!-- column 3  -->
+<ul class="level2">
+<li class="level2opt level2title">
+<h2>Spotlight On</h2>
+</li>
+<li class="level2opt">
+<a href="http://www.b-insider.com/">B Insider</a>
+</li>
+<li class="level2opt">
+<a href="http://www.thebay.com/eng/hbccollections-olympiccollection-thebay">2012 Official Canadian Olympic Replica Apparel</a>
+</li>
+<li class="level2opt">
+<a href="http://www2.thebay.com/fashionoffice/en/heritage/default.html">Gifts for Adventurers: Shop our Heritage book</a>
+</li>
+</ul>
+</div>
+<!--  -->
+</li>
+<li id="section9"><a href="http://www.hbc.com/registry" class="level1"></a>
+</li>
+</ul>
+</div>
+  
 
 
 
@@ -483,7 +1333,7 @@
 					
 					</div>
 			</div>
-			<div class="flyDownBanner"> </div>
+			<div class="flyDownBanner"> <img src="/_static/webUpload/33/4218_1.jpg"></div>
 		</div>
 
 		<div class="myAccountWindow" id="myAccountBox" style="display:none;">
@@ -501,7 +1351,7 @@
 
 	
 		<div id="promoSpace">
-			
+			<div id="flash7"></div><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="960" height="30"><param name="movie" value="/_static/webUpload/33/4440_1.swf?bannerID=4440"><param name="menu" value="false" /><param name="quality" value="best" /><param name="scale" value="noscale" /><param name="wmode" value="transparent" /><embed src="/_static/webUpload/33/4440_1.swf?bannerID=4440" wmode="transparent" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="960" height="30"></embed></object></noscript><script type="text/javascript">var so7= new SWFObject("/_static/webUpload/33/4440_1.swf?bannerID=4440", "flash7", "960", "30", "6", "");so7.addParam("wmode", "transparent");so7.write("flash7");</script>
 		</div>
 	
 		</div>
@@ -523,7 +1373,7 @@
 					<ul>
 
 						
-							<li><a href="/eng/customerservice/freeshipping.cfm">Free Shipping</a></li>
+							<li><a href="/eng/customerservice/freeshipping.cfm">Free Shipping &amp; Easy Returns</a></li>
 						
 							<li><a href="/eng/customerservice/PrivacyPolicy.cfm">Privacy Policy</a></li>
 						
@@ -930,7 +1780,7 @@
 
 
 		<div id="copyright">
-			the Bay © 2010, All rights reserved. ® the Bay &amp; Hudson's Bay Company &amp; associated logos are registered trade-marks of Hudson's Bay Company.<br>
+			the Bay © 2011, All rights reserved. ® the Bay &amp; Hudson's Bay Company &amp; associated logos are registered trade-marks of Hudson's Bay Company.<br>
 			<a href="/eng/aboutUs/privacylegalinfo.cfm">Privacy Policy</a> |
 			<a href="/eng/customerservice/returns.cfm">Return Policy</a>
 		</div>
@@ -979,54 +1829,54 @@ new arrivals, special offers, events, promotions and more!</b></td></tr>
 			<label>Postal code <span>(e.g. L0G 1A0)</span></label>
 		   <input class="smaller" id="Postal_Code" name="POSTAL_CODE" type="text" size="15" maxlength="7" value=""></fieldset></td>
 		
-		
+	
 	<td width="300" valign="top">
 		<fieldset class="title"><label>Gender</label></fieldset>
 		<fieldset class="radio">
 			<input value="F" class="radio" id="GENDER" name="GENDER" type="radio">
 			<label>female</label>
 		</fieldset>
-		
+
 		<fieldset class="radio">
 			<input value="M" class="radio" id="GENDER" name="GENDER" type="radio">
 			<label>male</label>
-		</fieldset>		
-	</td>		
+		</fieldset>
+	</td>
 </tr>
 <tr>
 	<td width="600" valign="top" colspan="2">
 		<fieldset>
 			<label>hbc rewards number</label>
 			<input class="smaller" id="HBC_Rewards_Number" name="HBC_REWARD_NO" type="text" size="15" maxlength="15" value="">
-			<div class="noteForm">Not a Rewards member?&nbsp;<a href="#" target="_blank" style="text-decoration: underline"> Click here</a> to sign up!</div>
+			<div class="noteForm">Not a Rewards member?&nbsp;<a href="https://www.hbc.com/HBCREWARDS/program/enroll/default.asp?#enroll" target="_blank" style="text-decoration: underline"> Click here</a> to sign up!</div>
 		</fieldset>
-	</td>	
+	</td>
 </tr>
 <tr>
 	<td width="600" valign="top" colspan="2">
-		<fieldset style="padding-bottom:10px; width:550px;"><label style="width:400px;">tell us what you are looking for...</label></fieldset>	
-		
+		<fieldset style="padding-bottom:10px; width:550px;"><label style="width:400px;">tell us what you are looking for...</label></fieldset>
+
 		<fieldset class="checkbox">
  			<input type="checkbox" name="BAY_CATEGORY" value="0">
 		 	<label>Beauty &amp; Fragrance</label>
 		 </fieldset>
 
-		<fieldset class="checkbox"> 			
+		<fieldset class="checkbox">
  			<input type="checkbox" name="BAY_CATEGORY" value="1">
 		 	<label>Women's Apparel &amp; Accessories</label>
 		 </fieldset>
-		 
+
 		<fieldset class="checkbox">
  			<input type="checkbox" name="BAY_CATEGORY" value="2">
 		 	<label>Men's Apparel &amp; Accessories</label>
 		 </fieldset>
-		 
+
 		<fieldset class="checkbox">
  			<input type="checkbox" name="BAY_CATEGORY" value="3">
 		 	<label>Kids' Apparel &amp; Accessories</label>
 		 </fieldset>
-		 
-		<fieldset class="checkbox">	 		
+
+		<fieldset class="checkbox">
 	 		<input type="checkbox" name="BAY_CATEGORY" value="4">
 		 	<label>Home</label>
 		 </fieldset>
@@ -1039,7 +1889,7 @@ new arrivals, special offers, events, promotions and more!</b></td></tr>
 <tr>
 	<td colspan="2">
 		
-		<input type="button" value="" id="submit" class="popup_name_mail" onclick="sendForm('39724357','Fill the mandatory fields please','Please enter a valid email adresse');" style="background-image:url('http://www.thebay.com/_static/images/www/eng/thebay_submit.jpg')">
+		<input type="button" value="" id="submit" class="popup_name_mail" onclick="sendForm('63095717','Fill the mandatory fields please','Please enter a valid email adresse');" style="background-image:url('/_static/images/www/eng/thebay_submit.jpg')">
 		<div id="inProgress1" style="display: none;">
 			<img style="float: left;" id="loginUserProgress" src="/_static/images/www/Shared/aniInProgress.gif">
 		</div>
@@ -1067,22 +1917,23 @@ new arrivals, special offers, events, promotions and more!</b></td></tr>
 
 	</div>
 
-
-
-					
-					<script type="text/javascript">
-						var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-						document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-					</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	
-					<script type="text/javascript">
+				<script type="text/javascript">
+					var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+					document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+				</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+				
+				<script type="text/javascript">
+					try {
 						var pageTracker = _gat._getTracker("UA-7525489-1");
+						pageTracker._setDomainName('.thebay.com'); pageTracker._setAllowLinker(true); pageTracker._setAllowHash(false);
+						pageTracker._trackPageview();
 						
 						
-							pageTracker._trackPageview();
 						
-					</script>
-				 
+					} catch(err) {}
+				</script>
+				
+			 
 
 
 
