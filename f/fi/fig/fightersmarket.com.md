@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightersmarket.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521012351id_/http%3A//www.fightersmarket.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightersmarket.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205233407id_/http%3A//www.fightersmarket.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy | FightersMarket.com
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20110521012351id_/http%3A//www.fightersmarket.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20111205233407id_/http%3A//www.fightersmarket.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
