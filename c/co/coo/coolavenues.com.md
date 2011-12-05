@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolavenues.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222154701id_/http%3A//www.coolavenues.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolavenues.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205035005id_/http%3A//www.coolavenues.com/privacy-policy) for the most accurate reproduction.*
 
-# CoolAvenues.com Privacy Policy | XAT, SNAP, MAT, CAT 2010
+# CoolAvenues.com Privacy Policy | CoolAvenues.com
 
 The policies stated below are applicable to **www.coolavenues.com**. CoolAvenues' site is maintained by Zebra Networks, India. We can be reached via e-mail at **editor@coolavenues.com**
 
@@ -21,4 +21,8 @@ CoolAvenues uses third-party advertising companies to serve ads when you visit t
 +  
 Google, as a third party vendor, uses cookies to serve ads on CoolAvenues.com and its associated websites.  
 +  
-Google's use of the DART cookie enables it to serve ads to users, based on their visit to CoolAvenues.com and its associated websites.
+Google's use of the DART cookie enables it to serve ads to users, based on their visit to CoolAvenues.com and its associated websites.  
+ 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here at <http://www.networkadvertising.org/managing/opt_out.asp>.  
+ 
