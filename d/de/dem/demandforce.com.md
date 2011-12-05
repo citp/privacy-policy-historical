@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224230432id_/http%3A//demandforce.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandforce.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205185454id_/http%3A//demandforce.com/privacy.php) for the most accurate reproduction.*
 
 # Creating consumer demand for small business|Demandforce
 
 ### Privacy policy 
 
-Demandforce is a leading provider of automatic email-based customer relationship management solutions for automotive repair facilities and dental practices. Leveraging the industry's best email acquisition and management technology, Demandforce's on-demand solution automates customer communications through strategically timed and targeted emails that increases customer satisfaction and loyalty. Demandforce partners with repair facilities and dental practices to expand relationships with customers and build more profitable businesses. 
+Demandforce is a leading provider of automatic email-based customer relationship management solutions for automotive repair facilities and dental practices. Leveraging the industry's best email acquisition and management technology, Demandforce's on-demand solution automates customer communications through strategically timed and targeted emails that increases customer satisfaction and loyalty. Demandforce partners with repair facilities and dental practices to expand relationships with customers and build more profitable businesses.
 
-Demandforce is committed to protecting your privacy rights. This page is a summary of Demandforce's Privacy policy . It is not intended to modify or amend our full privacy policy, which Demandforce encourages you to review. 
+Demandforce is committed to protecting your privacy rights. This page is a summary of Demandforce's Privacy policy. It is not intended to modify or amend our full privacy policy, which Demandforce encourages you to review.
 
-Demandforce's business is built on establishing trust with both our subscribers and their consumers. That trust is essential to our success. In order to establish trust with our subscribers and their consumers as well as visitors to our corporate website, we intend to communicate openly and directly with each and every Demandforce user whenever possible. 
+Demandforce's business is built on establishing trust with both our subscribers and their consumers. That trust is essential to our success. In order to establish trust with our subscribers and their consumers as well as visitors to our corporate website, we intend to communicate openly and directly with each and every Demandforce user whenever possible.
 
 We treat our users' information as if it were our own personal information.
 
@@ -30,7 +30,7 @@ The Demandforce Privacy policy affects three groups of users: visitors to our co
 
 ##### Consumers
 
-As a customer of a Demandforce subscriber, you are receiving valuable and timely communication, including reminders and "Thank You" notes from a company you have an existing business relationship. You have the right at any time to opt-out from receiving these communications. If you would like to opt-out from receiving these communications please e-mail [privacy@Demandforce.com](mailto:privacy@Demandforce.com).
+As a customer of a Demandforce subscriber, you are receiving valuable and timely communication, including reminders and "Thank You" notes from a company you have an existing business relationship. You have the right at any time to opt-out from receiving these communications. If you would like to opt-out from receiving these communications please e-mail [privacy@Demandforce.com](mailto:privacy@Demandforce.com). You acknowledge that if you transmit personal health information you waive any right to the privacy of such information.
 
 ##### Demandforce subscribers
 
@@ -99,7 +99,7 @@ Subscribers to our service may update their personal information or their custom
 
 Demandforce takes the highest precautions to protect our subscribers' information. When you submit sensitive information via the corporate website or our hosted product, your information is protected both online and offline using standard security best practices such as firewalls, encryption and intrusion detection. Full backups are performed every week on the entire file system and incremental backups are done daily. Finally, all hosted servers are kept physically secure in world-class data centers.
 
-#### Changes to this privacy policy 
+#### Changes to this privacy policy
 
 Demandforce will update this policy from time to time. A "last revised" date will always be included at the top of the statement. To keep up-to-date with Demandforce's privacy policy, please check this page periodically.
 
