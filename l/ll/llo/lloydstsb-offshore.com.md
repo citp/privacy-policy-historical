@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531155043id_/http%3A//www.lloydstsb-offshore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lloydstsb-offshore.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205181945id_/http%3A//www.lloydstsb-offshore.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Lloyds TSB International
 
@@ -54,7 +54,7 @@
     * temporarily to store details input into calculators and other tools on the Website; and
     * If required as a matter of law or regulation, in order to protect our or our other customers' rights.
   3. Cookies themselves only record which areas of the Website have been visited by the computer in question, and for how long. Allowing us or a third party to create a cookie does not give us access to your computer and we will not use cookies to track your online activity once you leave the Website. Cookies are read only by the server that placed them, and are unable to execute any code or virus.
-  4. With most internet browsers, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. If you want to know how to do this please look at the help menu on your web browser. However, please note that switching off or "opting out" of cookies will mean that you may not be able to use certain features of the Website. Find out more about the use of cookies and how to switch of cookies on [www.cookiecentral.com](http://www.cookiecentral.com/) or [www.aboutcookies.org/Default.aspx?page=1](http://www.aboutcookies.org/Default.aspx?page=1). To find out more about Double Click's privacy policy please visit [www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy/).
+  4. With most internet browsers, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. If you want to know how to do this please look at the help menu on your web browser. However, please note that switching off or "opting out" of cookies will mean that you may not be able to use certain features of the Website. Find out more about the use of cookies and how to switch of cookies on [www.cookiecentral.com](http://www.cookiecentral.com/) or <http://www.allaboutcookies.org/>. To find out more about Double Click's privacy policy please visit [www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy/).
 
 
 
