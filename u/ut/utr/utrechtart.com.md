@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utrechtart.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612140726id_/http%3A//www.utrechtart.com/customer_service/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utrechtart.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205075734id_/http%3A//www.utrechtart.com/customer_service/privacy.cfm%3Floc%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy - Art Supplies from Utrecht featuring fine art supplies, school art supplies, discount art supplies, artist paints brushes, acrylics, watercolor supplies, artist oil paints, artist canvas and more
 
@@ -50,18 +50,18 @@ Utrecht Art Supplies
 Cranbury, NJ 08512   
 1-800-223-9132  
 [Customer Service](https://web.archive.org/customer_service/)  
-[www.utrechtart.com](http://www.utrechtart.com/) |   |  Customer Service Quick Links |  | [Contact Us](https://web.archive.org/web/20110612140726id_/http%3A//www.utrechtart.com/customer_service/contact_us.cfm "Send us an email, find our phone number, address, hours of operation")  
+[www.utrechtart.com](https://web.archive.org/) |   |  Customer Service Quick Links |  | [Contact Us](https://web.archive.org/web/20111205075734id_/http%3A//www.utrechtart.com/customer_service/contact_us.cfm "Send us an email, find our phone number, address, hours of operation")  
 ---|---  
-| [General Shipping Information](https://web.archive.org/web/20110612140726id_/http%3A//www.utrechtart.com/customer_service/shipping.cfm "Find out about all our shipping options, rates, terms, restrictions, etc.")  
-| [General Utrecht FAQs](https://web.archive.org/web/20110612140726id_/http%3A//www.utrechtart.com/customer_service/faq.cfm "get answers to questions about doing business with Utrecht.com")  
+| [General Shipping Information](https://web.archive.org/web/20111205075734id_/http%3A//www.utrechtart.com/customer_service/shipping.cfm "Find out about all our shipping options, rates, terms, restrictions, etc.")  
+| [General Utrecht FAQs](https://web.archive.org/web/20111205075734id_/http%3A//www.utrechtart.com/customer_service/faq.cfm "get answers to questions about doing business with Utrecht.com")  
 |  [Product Specific FAQs](https://web.archive.org/ask-the-experts/ "get expert answers to questions about art supplies or craft supplies")  
-| [Ordering & Payment](https://web.archive.org/web/20110612140726id_/http%3A//www.utrechtart.com/customer_service/ordering.cfm "Find Ways to Order, Methods of Payments Accepted, Pay by Purchase Orders, Not Your Order History...")  
+| [Ordering & Payment](https://web.archive.org/web/20111205075734id_/http%3A//www.utrechtart.com/customer_service/ordering.cfm "Find Ways to Order, Methods of Payments Accepted, Pay by Purchase Orders, Not Your Order History...")  
 | [Order History](https://www.utrechtart.com/history/ "See your order history. You must be logged in.")  
-| [Common Promotion Restrictions](https://web.archive.org/web/20110612140726id_/http%3A//www.utrechtart.com/customer_service/index.cfm#promo "Read about our most common restrictions on special offers, coupons, promotion codes")  
-| [Privacy Policy](https://web.archive.org/web/20110612140726id_/http%3A//www.utrechtart.com/customer_service/privacy.cfm "Read our complete privacy policy for protecting your personal information")  
-| [Security Information](https://web.archive.org/web/20110612140726id_/http%3A//www.utrechtart.com/customer_service/security.cfm "Read about the measures we take to secure your personal information")  
+| [Common Promotion Restrictions](https://web.archive.org/web/20111205075734id_/http%3A//www.utrechtart.com/customer_service/index.cfm#promo "Read about our most common restrictions on special offers, coupons, promotion codes")  
+| [Privacy Policy](https://web.archive.org/web/20111205075734id_/http%3A//www.utrechtart.com/customer_service/privacy.cfm "Read our complete privacy policy for protecting your personal information")  
+| [Security Information](https://web.archive.org/web/20111205075734id_/http%3A//www.utrechtart.com/customer_service/security.cfm "Read about the measures we take to secure your personal information")  
 | [Download Credit Application PDF](https://web.archive.org/customer_service/docs/Commercial_Charge_Application.pdf "Download and use this PDF to apply for an open account credit line")  
 | [Request a Catalog](https://web.archive.org/cat_request/dsp_request_catalog.cfm "Request a current seasonal catalog with this form")  
 | [Get Coupons by Email](https://web.archive.org/email/index.cfm "Sign up to receive coupons, special promotions, useful information via email")  
-| [100% Satisfaction Returns Policy](https://web.archive.org/web/20110612140726id_/http%3A//www.utrechtart.com/customer_service/returns.cfm "Read our complete returns policy")  
+| [100% Satisfaction Returns Policy](https://web.archive.org/web/20111205075734id_/http%3A//www.utrechtart.com/customer_service/returns.cfm "Read our complete returns policy")  
 | [Download MSDS Sheets](https://web.archive.org/msds/ "Find & Download MSDS sheets")
