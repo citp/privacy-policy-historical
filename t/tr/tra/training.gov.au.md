@@ -1,58 +1,92 @@
-> *The following text is extracted and transformed from the training.gov.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216080756id_/http%3A//www.dest.gov.au/directory/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the training.gov.au privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205064442id_/http%3A//training.gov.au/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# DEEWR Web Site Privacy Statement
+# training.gov.au - Privacy policy
 
-The Australian Government Department of Education, Employment and Workplace Relations (DEEWR) is committed to protecting the privacy of personal information that DEEWR and DEEWR-funded service providers (collectively, DEWR) receive and collect from you. 
+Privacy Policy for the training.gov.au website (the website)
 
-**Scope**
+© Commonwealth of Australia 2011
 
-This document provides a summary of the full DEEWR Privacy Policy, which describes in detail DEEWR’s privacy practices.. For those who do not wish to use the Internet, DEEWR provides alternative ways of providing information. For example, forms may be printed and lodged by post.
+All personal information collected by the Department of Education, Employment and Workplace Relations is protected by the _Privacy Act 1988_. Information on the Commonwealth _Privacy Act 1988_ can be found on the [Federal Privacy Commissioner’s web site](http://www.privacy.gov.au/).
 
-**
+**Information we collect and how we use it**
 
-Personal information DEEWR collects:
+The Commonwealth of Australia, acting through the Department of Education, Employment and Workplace Relations (the Department) co-ordinates the Training.gov.au website.
 
-**
+The Department helps the Australian Government achieve its overall objective of quality educational, employment and training outcomes for all Australians through:
 
-  * DEEWR collects personal information (such as your name, email address, and date of birth) where that is necessary for performance of its functions.
-  * Generally, DEEWR collects your personal information directly from you. However, there are circumstances where we collect personal information from a third party, such as another Australian Government Department if you have consented or would reasonably expect us to collect the information in this way.
-  * DEEWR’s servers automatically record information when you visit DEEWR’s website and logs certain information, including the uniform resource locators (“URLs”) of web pages that you visit.
-  * DEEWR uses cookies and other technologies to enhance your online experience and to collect data about the use of DEEWR’s web browsers in order to improve the quality of DEEWR’s services. No personal information is stored within DEEWR’s cookies.
-  * Read more in the full privacy policy.
+  * efficient national program management
+  * effective working relationships with state and territory governments, education departments, non-government education, science and training authorities, Indigenous education service providers, industry, community groups and other stakeholders
+  * auditing, research and analysis in order to maintain, protect and improve our services, and
+  * policy advice and other support to the Minister.
 
-**
 
-Use, Sharing of Information and Disclosure:
 
-**
+Generally, the Department collects personal information in order to properly and efficiently carry out its functions, and only uses personal information for the purposes for which it was given to the Department and for directly related purposes (unless otherwise required by or authorised under law).
 
-  * We only use your personal information for the purposes for which you provide it to us and for directly related purposes (unless otherwise required by or authorised under law).
-  * We may share aggregated non-personal information with third parties outside of DEEWR.
-  * When we use third parties to assist DEEWR in processing your personal information, we require that they comply with DEEWR’s Privacy Policy, the Information Privacy Principles in the Commonwealth’s Privacy Act 1988, and any other appropriate confidentiality and security measures.
-  * We may disclose your personal information to third parties in limited circumstances authorised under law, including the Privacy Act 1988 (eg, preventing fraud or imminent threat to the life or health of the individual concerned or another person, ensuring the security of DEEWR statutory functions, and protecting the public revenue).
-  * Read more in the full privacy policy.
+In addition to this general Privacy Policy, where more detailed information is needed to explain our privacy practices, we publish separate privacy notices to describe how we will handle personal information that we collect.
 
-**
+**Communication - emails and Electronic Forms**
 
-Access to your information
+The training.gov.au servers may record your email address if you send us a message online. Your email address will not be added to a mailing list, unless you have provided it to us in order to subscribe to one of the training.gov.au subscription services.
 
-**
+Where you choose to send us a completed electronic form (for example, when you register as a user on the training.gov.au website) that includes your personal details, we collect personally identifiable information, such as name and email address.
 
-We will provide you access to your personal information upon request and let you either correct such information if it is inaccurate or delete it, when reasonably possible. Read more in the full privacy policy. 
+The information collected by email or electronic forms will be used only for the purpose for which you provided it, and we will not disclose it unless one of the circumstances described below under the heading “Information Sharing” has been satisfied.
 
-**
+###  **Log information (Browsing)**
 
-Important information:
+When you access training.gov.au online services, the training.gov.au servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your server address, your top level domain name (for example, .com, .gov, .au, .uk, etc), the date and time of visit to the site, the pages accessed and documents viewed, the previous sites visited, and the browser type, browser language, and one or more cookies that may uniquely identify your browser.
 
-**
+###  **Cookies**
 
-DEEWR is bound by the Information Privacy Principles of the [ Privacy Act 1988](http://www.privacy.gov.au/act/privacyact/). Our website follows the Federal Privacy Commissioner’s [ Guidelines for Federal and ACT Government Worldwide Websites](http://www.privacy.gov.au/internet/web/index.html). For privacy-related information about specific DEEWR programmes/services, please check the relevant privacy notices for those specific programmes. 
+A cookie is a small file containing a string of characters to your computer that uniquely identifies your browser. It is information that your web browser sends back to our web site server whenever you visit it again. We use cookies to ‘remember’ your browser between page visits. In this situation, if you log into the training.gov.au website the cookie will store your user credentials.
 
-For more information about DEEWR’s general privacy practices, go to the full Privacy Policy
+###  **Access and alteration of records containing personal information**
 
-How to contact us:   
-privacy@dest.gov.au or  
-Privacy Contact Officer – Loc 765  
-The Australian Government Department of Education, Employment and Workplace Relations  
-GPO Box 9880 Canberra ACT 2601  
-Australia 
+If you provide personal information in relation to the training.gov.au online services, the Department will allow you access to your personal information and we will correct your personal information if it is inaccurate (subject to restrictions on such access/alteration of records under the applicable provisions of any law of the Commonwealth).
+
+The _Freedom of Information Act 1982_ also provides you with an opportunity to request access to documents in the possession of the Department. For more information visit the Department’s Freedom of Information page at http://foi.deewr.gov.au/.
+
+###  **Information sharing**
+
+The Department only discloses personal information to third parties in the following circumstances:
+
+  * Where you are reasonably likely to have been aware, or made aware by way of a privacy notice, that your personal information is usually passed to the relevant parties
+  * Where you have consented
+  * Where we believe on reasonable grounds that the disclosure is necessary to prevent or lessen a serious and imminent threat to your life or health or that of another person
+  * Where the disclosure is required or authorised by or under law, or 
+  * Where the disclosure is reasonably necessary for the enforcement of the criminal law or of a law imposing a pecuniary penalty, or for the protection of the public revenue.
+
+
+
+###  **Information security**
+
+The Department takes all reasonable steps:
+
+  * to protect the personal information that we hold against loss, against unauthorised access, use, modification or disclosure and against other misuse, and 
+  * to ensure that, where we have given personal information to a contractor (that carries out service for the Department), that contractor complies with the Information Privacy Principles in the Privacy Act.
+
+
+
+###  **Data integrity**
+
+The Department takes reasonable steps to make sure that the personal information we collect and store is accurate, relevant, up to date, complete and not misleading.
+
+###  **Enforcement**
+
+If you have any questions/complaints about privacy, confidentiality or access to your personal information, please [contact](mailto:feedback@deewr.gov.au) the Department’s Privacy Contact Officer by writing to:
+
+  * Privacy Contact Officer – Loc C148CW2  
+Department of Education, Employment and Workplace Relations  
+GPO Box 9880  
+Canberra ACT 2601.
+
+
+
+###  **Changes to this policy**
+
+Please note that this Privacy Policy may change from time to time.
+
+###  **Further Information**
+
+The Department is required to submit a Personal Information Digest (PID) to the Privacy Commissioner each year, which outlines, amongst other things, the sorts of records of personal information that the Department holds. The Department’s PIDs are available from the [Privacy Commissioner’s website](http://www.privacy.gov.au/).
