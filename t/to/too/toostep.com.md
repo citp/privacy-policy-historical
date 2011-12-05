@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the toostep.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412173405id_/http%3A//toostep.com/help/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toostep.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205014526id_/http%3A//toostep.com/help/privacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
 **_Privacy Policy_**
 
-We at TooStep know that you care how information about you is used and shared; we appreciate your trust that we will do so carefully and sensibly. TooStep is an exclusive network of executives for their career enhancement. We combine knowledge sharing, referrals and professional networking channels effectively for your career enhancement and also create a high Return on Investment for strategic hiring need of corporates. When you register with us, you provide personally identifiable information. Your privacy is our top concern. Please go through the details provided below to learn more about how you are identifiable and how your information is used and with whom it is shared and so on.
+We at TooStep know that you care how information about you is used and shared; we appreciate your trust that we will do so carefully and sensibly. TooStep is an exclusive network of executives for their career enhancement. We combine knowledge sharing, referrals, jobs and professional networking channels effectively for your career enhancement and also create a high Return on Investment for strategic hiring need of corporates. Toostep uses various channels like Toostep.com Knowledge exchange network , Toostep JobSites and Toostep applications on social networks to provide these services . When you register with us, you provide personally identifiable information. Your privacy is our top concern. Please go through the details provided below to learn more about how you are identifiable and how your information is used and with whom it is shared and so on.
 
   1. **Information Collection**
 
 
 
-1\. In order to become a TooStep user, you must first be invited to join by an existing member, as TooStep is an invite only network. You have to then create an account on this web site. To create an account you are required to provide the following information: name, email address, country, postal code, a detailed summary of your educational and professional background, your subscription preferences and choose a password.
+1\. In order to become a TooStep user, you have to register using any of TooStep online channels and create a profile.
 
 
 
 
-2\. Once a user, you may provide additional information in the Profile section describing your skills, professional experiences, and networking objectives. Providing additional information beyond what is required at registration enables you to better identify yourself and find new opportunities in the TooStep system. The same shall also be used to customize your experience on the web site. For example, when you login to your account we will display the screen names of new users who have recently joined your network.
+2\. Once a user, you may provide additional information in the Profile section describing your skills, professional experiences, and networking objectives. Providing additional information beyond what is required at registration enables you to better identify yourself and find new opportunities in the TooStep system. The same shall also be used to customize your experience on TooStep. For example, when you login to your account we will display the screen names of new users who have recently joined your network.
 
 
 
 
-3\. In order to invite others to connect with you directly in TooStep, you can either enter their email addresses. This information will be used by TooStep to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders. You may also choose to Import contacts from your other email providers or networking communities. All information which is imported will only be viewable by you and will not be searchable by others in the TooStep network.
+3\. In order to invite others to connect with you directly in TooStep, you can either enter their email addresses or send requests on Social Networks. This information will be used by TooStep to send your invitation and reminders. You may also choose to Import contacts from your other email providers or networking communities. All information which is imported will only be viewable by you and will not be searchable by others in the TooStep network.
 
 
 
@@ -33,12 +33,12 @@ We at TooStep know that you care how information about you is used and shared; w
 
 
 
-Like most web sites, TooStep uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows TooStep to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on the web site.
+Like most web sites, TooStep uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows TooStep to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use TooStep. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on the web site.
 
 
 
 
-One type of cookie, known as a "persistent" cookie, is set once youve logged in to your TooStep account. The next time you visit the TooStep web site, the persistent cookie will allow us to recognize you as an existing user so you will not need to log in before using the service. Additionally, if you log out of the TooStep site you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a "session" cookie, is used to identify a particular visit to the TooStep site. Session cookies expire after a short time or when you close your web browser.
+One type of cookie, known as a "persistent" cookie, is set once you have logged in to your TooStep account. The next time you visit the TooStep web site, the persistent cookie will allow us to recognize you as an existing user so you will not need to log in before using the service. Additionally, if you log out of the TooStep site you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a "session" cookie, is used to identify a particular visit to the TooStep site. Session cookies expire after a short time or when you close your web browser.
 
 
 
@@ -90,7 +90,7 @@ We will transfer information about you if TooStep is acquired by or merged with 
 
 
 
-Many emails you initiate through TooStep, an invitation sent to a non-user for instance, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will never list the people to whom youre directly connected. Other communications that you initiate through the TooStep website, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other.
+Many emails you initiate through TooStep, an invitation sent to a non-user for instance, will list your email address and name in the header of the message. Emails you initiate may also provide aggregate information about your network (for instance how many people are in your network), but will never list the people to whom you are directly connected. Other communications that you initiate through the TooStep, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other.
 
 
 
@@ -114,7 +114,7 @@ TooStep may contain links to other websites. We are of course not responsible fo
 
 
 
-TooStep will communicate with you through email and notices posted on this website. These include a series of welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from TooStep related to the proper functioning of your account, such as email notices when another user in your network sends you an opportunity. TooStep may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to [customerservice@toostep.com](mailto:customerservice@toostep.com).
+TooStep will communicate with you through email and notices posted on its online channels. These include a series of welcome emails which help inform new users about various features of the service. Please be aware that you will always receive certain emails from TooStep related to the proper functioning of your account, such as email notices when another user in your network sends you an opportunity. TooStep may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to [customerservice@toostep.com](mailto:customerservice@toostep.com).
 
 
 
@@ -122,7 +122,7 @@ TooStep will communicate with you through email and notices posted on this websi
 
 
 
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your TooStep account, at any time by logging in to your account on the TooStep website and editing the information on your Profile page. You can also close your account through the TooStep website. If you close your TooStep account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the TooStep Privacy Policy that you have previously agreed to. To close your account and remove your information from the TooStep service, please send your request to [customerservice@toostep.com](mailto:customerservice@toostep.com). Please send your request using the email account that you have registered with TooStep under your name. You will receive a response to requests sent to [customerservice@toostep.com](mailto:customerservice@toostep.com) within three business days of our receiving it.
+You can review the personal information you provided us and make any desired changes to the information, or to the settings for your TooStep account, at any time by logging in to your account on TooStep and editing the information on your Profile page. You can also close your account through the TooStep . If you close your TooStep account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the TooStep Privacy Policy that you have previously agreed to. To close your account and remove your information from the TooStep service, please send your request to [customerservice@toostep.com](mailto:customerservice@toostep.com). Please send your request using the email account that you have registered with TooStep under your name. You will receive a response to requests sent to [customerservice@toostep.com](mailto:customerservice@toostep.com) within three business days of our receiving it.
 
 
 
@@ -130,7 +130,7 @@ You can review the personal information you provided us and make any desired cha
 
 
 
-In order to secure your personal information, access to your data on TooStep is password-protected. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center.
+In order to secure your personal information, access to your data on TooStep requires logging in. To protect any data you store on our servers we also regularly audit our system for possible vulnerabilities and attacks and we use a tier-one secured-access data center.
 
 
 
