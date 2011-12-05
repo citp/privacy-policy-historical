@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poweruprewards.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305005839id_/http%3A//www.poweruprewards.com/Home/LegalAndPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poweruprewards.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205064055id_/http%3A//www.poweruprewards.com/Home/LegalAndPrivacyPolicy) for the most accurate reproduction.*
 
 # PowerUp Rewards - Legal & Privacy Policy
 
