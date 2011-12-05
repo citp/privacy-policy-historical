@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturescapes.net privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417045206id_/http%3A//www.naturescapes.net/docs/index.php/articles/87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturescapes.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205040256id_/http%3A//www.naturescapes.net/docs/index.php/articles/index.php/articles/87) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -25,3 +25,5 @@ We created this Privacy Statement to demonstrate our commitment to your online p
 10\. Assignment. We may assign or transfer this Agreement, Personal Information and our obligations hereunder at any time and without prior consent to any corporate successor in interest, acquiror or other entity that purchases or otherwise obtains substantially all of our business assets or stock, or to any parent corporation or entity, any subsidiary corporation or entity, or any of our divisions that are operated as a separate business. 
 
 11\. Updating Your Personal Information and Contacting Us. We allow you reasonable electronic access to all collected Personal Information that refers or relates to you, to allow you to supplement such Personal Information, to correct all Personal Information that is false, incomplete or outdated, and otherwise for such purposes as permitted or required by applicable law. You can always contact us in order to: (i) update the Personal Information that refers or relates to you; or (ii) direct us to render inactive on our systems your user name, password and all Personal Information that refers or relates to you. We may be reached by emailing us at [editors@naturescapes.net](mailto:editors@naturescapes.net) or by returning to the Website and editing your registration profile. Questions or comments regarding this Privacy Statement should be directed to [editors@naturescapes.net](mailto:editors@naturescapes.net).
+
+You may also wish to read our [store's privacy policy »](http://www.naturescapes.net/store/help.php?section=business)
