@@ -1,353 +1,1184 @@
-<!--The following is the downloaded HTML source of the 4sync.com privacy policy that was archived on 2006-08-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060822160307id_/http%3A//4sync.com/forsync/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4sync.com privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205091034id_/http%3A//www.4sync.com/privacy.jsp) for the most accurate reproduction.-->
 
-<html><head><title>4Sync.com - Privacy Policy</title>
-<link title="new" rel="stylesheet" href="/forsync/design.css" type="text/css">
-<style type="text/css">
-<!--
+<!DOCTYPE html><html><head>
+    <title>4sync - Privacy</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="Description" content="4Sync is an amazing free application that links all of your computers together. It's the easiest way to back up and sync your ?les.  The 4Sync is an app that tracks changes in the folder on your computer and syncs any changes to the web account.">
+    <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, file transfer, file hosting">
+    <meta name="google-site-verification" content="G3X9XGLItUG5ZMFXEQdOb13KR2X2fRI5WvcxVas0Tr0">
+    <link rel="stylesheet" type="text/css" href="4sync.css">
+    <link rel="shortcut icon" href="4sync.ico">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.4sync.com/js/jquery-1.4.4.min.js?ver=9305"></script>
+
+    
+
+      <!--[if lt IE 7]>
+        <script src="/js/IE7.js">IE7_PNG_SUFFIX=".png";</script>
+        <style>
+            .colFooter ul li.header{margin-left: 0;}
+            .colFooter ul li{
+                line-height: 10px;
+                margin: 0;
+            }
+        </style>
+    <![endif]-->
+	
+	<!--[if lte IE 7]>
+    <style type="text/css">
+        .downloadApp, .downloadApp span, .mobileBlock div {
+            display: inline;
+        }
+    </style>
+    <![endif]-->
+	
+	<!--[if ie 9]>
+    <style type="text/css" media="screen">
+       .downloadApp {
+            filter: none;
+            background-image: url("gradient.svg");
+			background-size: 200% 200%;
+			background-repeat: repeat-x;
+			background-position: 0 0;
+        }
+    </style>
+    <![endif]-->
+        
 
 
--->
-</style>
+
+
+
+
+
+
+
+
+
+
+
+<script src="http://static.4sync.com/js/json2.js" type="text/javascript"></script>
+<script src="http://static.4sync.com/js/plugins/jquery.caps.js" type="text/javascript"></script>
+<script src="http://static.4sync.com/js/plugins/jquery.openid.js" type="text/javascript"></script>
+<script src="http://static.4sync.com/js/purchaseStats.js?ver=9305" type="text/javascript"></script>
+<script type="text/javascript" src="http://static.4shared.com/bundles/js/597954717/bundles/js/global.js"></script>
+
+<script type="text/javascript" src="http://static.4shared.com/bundles/js/N984828520/js/Events.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/auth-popup.css">
+
+<script type="text/javascript">
+  var eventObj;
+  var paramsObj;
+
+  var authBox;
+
+  var loginBox;
+  var signUpBox;
+  var df;
+  var sd = '';
+  var su;
+  var sn = '4sync.com';
+
+  function authenticate(e, params){
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+
+    paramsObj = {};
+    for (var p in params) paramsObj[p] = params[p];
+
+    var sp = escape(JSON.stringify(params));
+
+    document.body.style.cursor = 'wait';
+    $('#authBoxDiv').load('/authPopup.jsp',
+        {login : '', password : '', params: sp},
+        function(){
+          $('body').css('cursor', '');
+          writeDrag.hide();
+          authBox = new WriteDrag('authBoxDiv');
+          authBox.set(eventObj, undefined, 522, 'c', 'c');
+          $('#authBoxDiv').show();
+          $('form.openid:eq(0)').openid();
+        }
+    );
+    return false;
+  }
+
+  function authSaveParams(params){
+    $('#authBoxDiv').hide();
+    var sp = escape(JSON.stringify(params));
+    Cookies.create('jsParams', sp, -1, '/', '.4sync.com', false);
+    if(params.returnTo){
+      Cookies.create('returnTo', params.returnTo, -1, '/', '.4sync.com', false);
+    }
+  }
+
+  function authLogin(){
+    var login = $('#loginfield').val();
+    var password = $('#passfield').val();
+    var err = '';
+
+    if(login == ''){
+      err = loginFnc.msgEmptyEmail;
+    }else if (password == ''){
+      err = loginFnc.msgEmptyPassword;
+    }
+
+    $('#authBoxDiv #signupErrorMsg').html('').hide();
+    $('#authBoxDiv #loginErrorMsg').html(err);
+    if(err){
+      $('#authBoxDiv #loginErrorMsg').show();
+      return false;
+    }else{
+      $('#authBoxDiv #loginErrorMsg').hide();
+    }
+
+    var params = {
+        login: login,
+        password: password,
+        remember: false,
+        doNotRedirect: 1
+    };
+    document.body.style.cursor = 'wait';
+    $.get('http://www.4sync.com/login?callback=?',
+      params,
+      function(data){
+        $("body").css("cursor", "auto");
+        if(data.ok){
+          authSaveParams(paramsObj);
+          loginFnc.redirect(data.redirectUrl || loginFnc.getLocation());
+        }else{
+          $('#authBoxDiv #loginErrorMsg').html(data.rejectReason).show();
+        }
+      },
+      "jsonp"
+    );
+    return false;
+  }
+
+  function authSignUp(){
+    var login = $('#signupEmailField').val();
+    var password = $('#signupPassField').val();
+    var password2 = $('#signupPassFieldRepeat').val();
+    var err = '';
+
+    if(login == ''){
+      err = loginFnc.msgEmptyEmail;
+    }else if (password == ''){
+      err = loginFnc.msgEmptyPassword;
+    }else if (password2 == ''){
+      err = loginFnc.msgEmptyPassword2;
+    }else if (password != password2){
+      err = loginFnc.msgPasswordsDontMatch;
+    }else if (!loginFnc.checkEmail(trim(login))){
+      err = loginFnc.msgIncorrectEmail + ' ' + loginFnc.msgTryAgain;
+    }
+
+    $('#authBoxDiv #loginErrorMsg').html('').hide();
+    $('#authBoxDiv #signupErrorMsg').html(err);
+    if(err){
+      $('#authBoxDiv #signupErrorMsg').show();
+      return false;
+    }else{
+      $('#authBoxDiv #signupErrorMsg').hide();
+    }
+
+    var params = {
+      login: login,
+      password: password,
+      password2: password2,
+      successUrl: unescape(paramsObj.returnTo)
+    };
+
+    $("body").css("cursor", "progress");
+    $.get('http://www.4sync.com/signup?callback=?',
+      params,
+      function(data){
+        $("body").css("cursor", "auto");
+        if(data.ok){
+          authSaveParams(paramsObj);
+          loginFnc.redirect(data.redirectUrl || loginFnc.getLocation());
+        }else{
+          $('#authBoxDiv #signupErrorMsg').html(data.error).show();
+        }
+      },
+      "jsonp"
+    );
+    return false;
+  }
+
+  function loadAndShowSignUpBox(e, dfp, sup){
+    var signUpInDiv = true;
+    if(!signUpInDiv){
+      return true;
+    }
+
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+    df = dfp != undefined ? dfp : '';
+    su = sup != undefined ? sup : '';
+    document.body.style.cursor = 'wait';
+    ensureScriptsLoaded(true);
+    return false;
+  }
+
+  function loadAndShowLoginBox(e){
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+    document.body.style.cursor = 'wait';
+    ensureScriptsLoaded(false);
+    addCapsChecking();
+    return false;
+  }
+
+  function ensureScriptsLoaded(signup){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof dragObj == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/dw_event.js?ver=9305')
+              .script('http://static.4sync.com/js/dw_viewport.js?ver=9305')
+              .script('http://static.4sync.com/js/dw_writedrag.js?ver=9305')
+              .script('http://static.4sync.com/js/dw_drag.js?ver=9305')
+              .wait();
+    }
+    if(typeof $.openid == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/plugins/jquery.openid.js?ver=9305')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/login_fnc.js?ver=9305')
+              .wait(function(){
+                loginFnc.msgEmail = 'your e-mail';
+                loginFnc.msgOpenIdAccount = 'your OpenID account';
+                loginFnc.msgEmptyEmail = 'You did not enter your e-mail address';
+                loginFnc.msgEmptyPassword = 'You did not enter your password';
+                loginFnc.msgEmptyPassword2 = 'You did not confirm your password';
+                loginFnc.msgIncorrectEmail = 'Your e-mail address is incorrect.';
+                loginFnc.msgTryAgain = 'Please try again.';
+                if(signup)  ensureSignUpContentLoaded(); else ensureLoginContentLoaded();
+              });
+    }else{
+      if(signup)  ensureSignUpContentLoaded(); else ensureLoginContentLoaded();
+    }
+  }
+
+  function ensureLoginContentLoaded(){
+    if(typeof loginBox == 'undefined'){
+      $('#loginBoxDiv').load('/loginBox.jsp',
+          {
+            login : '',
+            password : '',
+            fpRedirParam : 'http://4sync.com/privacy.jsp',
+            remember : true
+            
+
+            
+          },
+          function(){
+            showLoginBox();
+          }
+      );
+    }else{
+      showLoginBox();
+    }
+  }
+
+  function ensureSignUpContentLoaded(){
+    if(typeof signUpBox == 'undefined'){
+      $('#signUpBoxDiv').load('/signUpBox.jsp',
+          {
+            login : '',
+            password : '',
+            fpRedirParam : 'http://4sync.com/privacy.jsp',
+            remember : true,
+            df : df,
+            sd : sd,
+            su : su
+            
+          },
+          function(){
+            showSignUpBox();
+          }
+      );
+    }else{
+      showSignUpBox();
+    }
+  }
+
+  function loadSignUpBox() {
+    $('#signUpBoxDiv').load('/signUpBox.jsp', {
+      login : '',
+      password : '',
+      fpRedirParam : 'http://4sync.com/privacy.jsp',
+      remember : true,
+      
+      df : df,
+      sd : sd
+    });
+  }
+
+  function showLoginBox(){
+    if(typeof loginBox == 'undefined'){
+      loginBox = new WriteDrag('loginBoxDiv');
+      $('form.openid:eq(0)').openid();
+    }
+    writeDrag.hide();
+    loginFnc.showLoginBox(eventObj);
+
+    addCapsChecking();
+  }
+
+  function showSignUpBox(){
+    if(typeof signUpBox == 'undefined'){
+      signUpBox = new WriteDrag('signUpBoxDiv');
+    }
+    writeDrag.hide();
+    loginFnc.showSignUpBox(eventObj);
+  }
+
+  function signOut(serverURL){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+        .script('http://static.4sync.com/js/login_fnc.js?ver=9305')
+        .wait(function(){
+          loginFnc.signOut(serverURL);
+          if(serverURL != sn){
+            loginFnc.signOut('/');
+          }
+        });
+    }else{
+      loginFnc.signOut(serverURL);
+      if(serverURL != sn){
+        loginFnc.signOut('/');
+      }
+    }
+    return false;
+  }
+
+  function redirectToAccount(){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+        .script('http://static.4sync.com/js/login_fnc.js?ver=9305')
+        .wait(function(){
+          loginFnc.goToAccount();
+        });
+    }else{
+      loginFnc.goToAccount();
+    }
+    return false;
+  }
+
+  function addCapsChecking() {
+    if($('body input[type=password]').length == 0){
+        return;
+    }
+    $('input[type=password]').caps(function(caps) {
+      var form = $(this).parents('form:first');
+      // "this" is current element
+      (caps) ? $('.capsWarning', form).show() : $('.capsWarning', form).hide();
+    });
+  }
+</script>
+
+<script type="text/javascript">
+  $(function(){
+    if(Cookies['jsParams']){
+      var p = JSON.parse(unescape(Cookies['jsParams']));
+      if(p.after){
+        if(!event){
+          var event = {length: 0};
+        }
+        eval(p.after);
+      }
+      Cookies.erase('jsParams', '/', '.4sync.com');
+    }
+  });
+</script>
+
+<script type="text/javascript">
+  $(function() {
+    if(typeof jQuery != 'undefined'){
+      addCapsChecking();
+    }
+    $('#loginfield, #passfield').keypress(function(event) {
+      if (event.which != '13') return true;
+
+      var form = $(this).parents('form:first');
+      $('input[type=submit]', form).click();
+      return false
+    })
+  })
+</script>
+
+
 </head>
-<body bgcolor="#ffffff" topmargin="0" leftmargin="7" marginwidth="0" marginheight="0" link="#0000ff" vlink="#0000ff">
-
-<table width="600" border="0" cellpadding="0" cellspacing="0">
-
-<tbody><tr>
+<body>
+<div id="container">
+ 
 
 
-<td valign="top" width="170" class="sidemenu">
-<script language="javascript">
-<!--
-function getOffset() {
-	x = new Date()
-	c = x.getTimezoneOffset()/60
-	return(c);
-}	
-function OffsetGet() {
-	location.replace("/forsync/reg/register.asp?ost=" + getOffset());
-}
-//-->
-</script>
-
-<table border="0" cellpadding="3" cellspacing="0">
-<tbody><tr><td>
-<img src="/forsync/images/4sync3_opt.gif" width="170" height="38">
-</td></tr></tbody></table>
-<span class="sidemenu"><br>
-<li><b><a href="javascript: OffsetGet();">Register Now!</a></b><br>
-</li><li><a href="/forsync/howitworks.asp">How it Works</a><br>
-</li><li><a href="/forsync/about.asp">About Us</a><br>
-</li><li><a href="/forsync/faq.asp">FAQ</a><br>
-</li><li><a href="/forsync/feedback.asp">Feedback</a><br>
-</li><li><a href="/forsync/contact.asp">Contact Us</a><br>
-</li><li><a href="/forsync/privacy.asp">Privacy Policy</a><br>
-<br>
-<br>
-		<form method="post" action="/forsync/login.asp?" id="form1" name="form1">
 
 
-<table width="90" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="4" valign="top"><img src="/forsync/images/leftcorner_lgrey.gif" width="4" height="16"></td>
-<td width="100%">
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-<td height="1" bgcolor="#000000"><img src="/forsync/images/pixel.gif" height="1" border="0" alt=" "></td></tr>
-<tr><td bgcolor="#efefef" align="center"><span class="tabs" style="color:#ff0000;">members</span></td>
-</tr></tbody></table>
-</td>
-<td width="4" valign="top"><img src="/forsync/images/rightcorner_lgrey.gif" width="4" height="16"></td>
-</tr></tbody></table>
 
-<table width="140" border="0" bgcolor="#000000" cellpadding="1" cellspacing="0">
-<tbody><tr><td width="100%" valign="top" align="center">
-	<table border="0" width="100%" cellpadding="2" cellspacing="0">
-	<tbody><tr><td bgcolor="#efefef" class="smfields">
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="smfields">LOGIN:</span><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" size="10" name="login" value=""><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="smfields">PASSWORD:</span><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="password" size="10" name="password"><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="autologout" checked=""><span class="smfields">Remember me!</span><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit" name="logon" value="Log On!"><br>
-		<span class="smfields">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/forsync/forgot.asp" class="smfields">Forgot your</a><br>
-		<span class="smfields">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/forsync/forgot.asp" class="smfields">password?</a></span>
-	</span></td></tr>
-	</tbody></table>
-</td></tr>
-</tbody></table>
-</form>
-<form action="/forsync/search/search.asp" method="get" id="form2" name="form2">
-<table width="70" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="4" valign="top"><img src="/forsync/images/leftcorner_white.gif" width="4" height="16"></td>
-<td width="100%">
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr>
-<td height="1" bgcolor="#000000"><img src="/forsync/images/pixel.gif" height="1" border="0" alt=" "></td></tr>
-<tr><td bgcolor="#ffffff" align="center"><span class="tabs" style="color:#000000;">search</span></td>
-</tr></tbody></table>
-</td>
-<td width="4" valign="top"><img src="/forsync/images/rightcorner_white.gif" width="4" height="16"></td>
-</tr></tbody></table>
 
-<table width="140" border="0" bgcolor="#000000" cellpadding="1" cellspacing="0">
-<tbody><tr><td width="100%" valign="top" align="center">
-	<table border="0" width="100%" cellpadding="2" cellspacing="0">
-	<tbody><tr><td bgcolor="#ffffff" class="sidemenu">
-<span class="smfields">
-<input type="text" size="10" name="searchparam" value=""><input type="submit" value="Go" id="submit1" name="submit1"><br>
-</span><input type="radio" name="searchtype" value="name" checked="">name
-<input type="radio" name="searchtype" value="uid">userid<br>
-<input type="radio" name="searchtype" value="company">company
-	</td></tr>
-	</tbody></table>
-</td></tr>
-</tbody></table>
-</form>
-<!--&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.microsoft.com/windows/netmeeting" target="_blank" border="0"><img src="/forsync/images/netmeeting.gif" alt="NetMeeting" height="53" width="89" border="0">-->
+<script>
+  $(document).ready(function() {
+    $(".loginbox").click(function(e) {
+      if ($("#hidedLoginForm").is(":hidden")) {
+        ShowLB();
+        $("#iloginfield").focus();
+      } else {
+        HideLB();
+      }
+      e.stopPropagation();
+    });
 
-</li></span></td>
+    $("#hidedLoginForm").click(function(e){
+        e.stopPropagation();
+    });
 
-<td width="430" class="sidemenu" valign="top">
-<script language="javascript">
-<!--
-function getOffsetTop() {
-	x = new Date()
-	c = x.getTimezoneOffset()/60
-	return(c);
-}	
-function OffsetGetTop() {
-	location.replace("/forsync/reg/register.asp?ost=" + getOffsetTop());
-}
-//-->
+    $(document.body).click(function() {
+      HideLB();
+    });
+
+    function ShowLB() {
+      $(".loginbox").addClass("focus");
+      $("#hidedLoginForm").show();
+    }
+
+    function HideLB() {
+      $(".loginbox").removeClass("focus");
+      $("#hidedLoginForm").hide();
+    }
+
+    showLoginInfo()
+  })
+
+  var redirectAfterLogin=false;
+
+  function showLoginInfo() {
+    $.ajax({
+      type: 'get',
+      dataType: 'jsonp',
+      url: 'http://www.4shared.com/rest/user/loggedIn',
+      success: function(data) {
+        if (data.loggedIn) {
+
+            if(redirectAfterLogin){
+                top.location.href=data.accountLink;
+                return;
+            }
+          $('a.userName')
+            .attr('href', data.accountLink)
+            .html(data.userName)
+          $('.loginbox').hide()
+          $('#loggedInInfo').show()
+
+          $('#signout').unbind('click').click(function() {
+            $('<iframe style="display:none">').attr('src', 'http://www.4shared.com/blank.jsp?signout=1')
+              .appendTo($(document.body)).load(function() {
+                showLoginInfo()
+              })
+          })
+        } else {
+          $('.loginbox').show()
+          $('#loggedInInfo').hide()
+        }
+      },
+      error: function() {
+        $('.loginbox').show()
+        $('#loggedInInfo').hide()
+      }
+    })
+  }
+
+  function doLogin() {
+    redirectAfterLogin=true;
+    return loginFnc.doLogin(undefined, 'http://www.4shared.com/', function() {
+      showLoginInfo()
+    }, null, true, true);
+  }
 </script>
 
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="http://static.4sync.com/js/json2.js" type="text/javascript"></script>
+<script src="http://static.4sync.com/js/plugins/jquery.caps.js" type="text/javascript"></script>
+<script src="http://static.4sync.com/js/plugins/jquery.openid.js" type="text/javascript"></script>
+<script src="http://static.4sync.com/js/purchaseStats.js?ver=9305" type="text/javascript"></script>
+
+
+<link rel="stylesheet" type="text/css" href="/auth-popup.css">
+
+<script type="text/javascript">
+  var eventObj;
+  var paramsObj;
+
+  var authBox;
+
+  var loginBox;
+  var signUpBox;
+  var df;
+  var sd = '';
+  var su;
+  var sn = '4sync.com';
+
+  function authenticate(e, params){
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+
+    paramsObj = {};
+    for (var p in params) paramsObj[p] = params[p];
+
+    var sp = escape(JSON.stringify(params));
+
+    document.body.style.cursor = 'wait';
+    $('#authBoxDiv').load('/authPopup.jsp',
+        {login : '', password : '', params: sp},
+        function(){
+          $('body').css('cursor', '');
+          writeDrag.hide();
+          authBox = new WriteDrag('authBoxDiv');
+          authBox.set(eventObj, undefined, 522, 'c', 'c');
+          $('#authBoxDiv').show();
+          $('form.openid:eq(0)').openid();
+        }
+    );
+    return false;
+  }
+
+  function authSaveParams(params){
+    $('#authBoxDiv').hide();
+    var sp = escape(JSON.stringify(params));
+    Cookies.create('jsParams', sp, -1, '/', '.4sync.com', false);
+    if(params.returnTo){
+      Cookies.create('returnTo', params.returnTo, -1, '/', '.4sync.com', false);
+    }
+  }
+
+  function authLogin(){
+    var login = $('#loginfield').val();
+    var password = $('#passfield').val();
+    var err = '';
+
+    if(login == ''){
+      err = loginFnc.msgEmptyEmail;
+    }else if (password == ''){
+      err = loginFnc.msgEmptyPassword;
+    }
+
+    $('#authBoxDiv #signupErrorMsg').html('').hide();
+    $('#authBoxDiv #loginErrorMsg').html(err);
+    if(err){
+      $('#authBoxDiv #loginErrorMsg').show();
+      return false;
+    }else{
+      $('#authBoxDiv #loginErrorMsg').hide();
+    }
+
+    var params = {
+        login: login,
+        password: password,
+        remember: false,
+        doNotRedirect: 1
+    };
+    document.body.style.cursor = 'wait';
+    $.get('http://www.4sync.com/login?callback=?',
+      params,
+      function(data){
+        $("body").css("cursor", "auto");
+        if(data.ok){
+          authSaveParams(paramsObj);
+          loginFnc.redirect(data.redirectUrl || loginFnc.getLocation());
+        }else{
+          $('#authBoxDiv #loginErrorMsg').html(data.rejectReason).show();
+        }
+      },
+      "jsonp"
+    );
+    return false;
+  }
+
+  function authSignUp(){
+    var login = $('#signupEmailField').val();
+    var password = $('#signupPassField').val();
+    var password2 = $('#signupPassFieldRepeat').val();
+    var err = '';
+
+    if(login == ''){
+      err = loginFnc.msgEmptyEmail;
+    }else if (password == ''){
+      err = loginFnc.msgEmptyPassword;
+    }else if (password2 == ''){
+      err = loginFnc.msgEmptyPassword2;
+    }else if (password != password2){
+      err = loginFnc.msgPasswordsDontMatch;
+    }else if (!loginFnc.checkEmail(trim(login))){
+      err = loginFnc.msgIncorrectEmail + ' ' + loginFnc.msgTryAgain;
+    }
+
+    $('#authBoxDiv #loginErrorMsg').html('').hide();
+    $('#authBoxDiv #signupErrorMsg').html(err);
+    if(err){
+      $('#authBoxDiv #signupErrorMsg').show();
+      return false;
+    }else{
+      $('#authBoxDiv #signupErrorMsg').hide();
+    }
+
+    var params = {
+      login: login,
+      password: password,
+      password2: password2,
+      successUrl: unescape(paramsObj.returnTo)
+    };
+
+    $("body").css("cursor", "progress");
+    $.get('http://www.4sync.com/signup?callback=?',
+      params,
+      function(data){
+        $("body").css("cursor", "auto");
+        if(data.ok){
+          authSaveParams(paramsObj);
+          loginFnc.redirect(data.redirectUrl || loginFnc.getLocation());
+        }else{
+          $('#authBoxDiv #signupErrorMsg').html(data.error).show();
+        }
+      },
+      "jsonp"
+    );
+    return false;
+  }
+
+  function loadAndShowSignUpBox(e, dfp, sup){
+    var signUpInDiv = true;
+    if(!signUpInDiv){
+      return true;
+    }
+
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+    df = dfp != undefined ? dfp : '';
+    su = sup != undefined ? sup : '';
+    document.body.style.cursor = 'wait';
+    ensureScriptsLoaded(true);
+    return false;
+  }
+
+  function loadAndShowLoginBox(e){
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+    document.body.style.cursor = 'wait';
+    ensureScriptsLoaded(false);
+    addCapsChecking();
+    return false;
+  }
+
+  function ensureScriptsLoaded(signup){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof dragObj == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/dw_event.js?ver=9305')
+              .script('http://static.4sync.com/js/dw_viewport.js?ver=9305')
+              .script('http://static.4sync.com/js/dw_writedrag.js?ver=9305')
+              .script('http://static.4sync.com/js/dw_drag.js?ver=9305')
+              .wait();
+    }
+    if(typeof $.openid == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/plugins/jquery.openid.js?ver=9305')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/login_fnc.js?ver=9305')
+              .wait(function(){
+                loginFnc.msgEmail = 'your e-mail';
+                loginFnc.msgOpenIdAccount = 'your OpenID account';
+                loginFnc.msgEmptyEmail = 'You did not enter your e-mail address';
+                loginFnc.msgEmptyPassword = 'You did not enter your password';
+                loginFnc.msgEmptyPassword2 = 'You did not confirm your password';
+                loginFnc.msgIncorrectEmail = 'Your e-mail address is incorrect.';
+                loginFnc.msgTryAgain = 'Please try again.';
+                if(signup)  ensureSignUpContentLoaded(); else ensureLoginContentLoaded();
+              });
+    }else{
+      if(signup)  ensureSignUpContentLoaded(); else ensureLoginContentLoaded();
+    }
+  }
+
+  function ensureLoginContentLoaded(){
+    if(typeof loginBox == 'undefined'){
+      $('#loginBoxDiv').load('/loginBox.jsp',
+          {
+            login : '',
+            password : '',
+            fpRedirParam : 'http://4sync.com/privacy.jsp',
+            remember : true
+            
+
+            
+          },
+          function(){
+            showLoginBox();
+          }
+      );
+    }else{
+      showLoginBox();
+    }
+  }
+
+  function ensureSignUpContentLoaded(){
+    if(typeof signUpBox == 'undefined'){
+      $('#signUpBoxDiv').load('/signUpBox.jsp',
+          {
+            login : '',
+            password : '',
+            fpRedirParam : 'http://4sync.com/privacy.jsp',
+            remember : true,
+            df : df,
+            sd : sd,
+            su : su
+            
+          },
+          function(){
+            showSignUpBox();
+          }
+      );
+    }else{
+      showSignUpBox();
+    }
+  }
+
+  function loadSignUpBox() {
+    $('#signUpBoxDiv').load('/signUpBox.jsp', {
+      login : '',
+      password : '',
+      fpRedirParam : 'http://4sync.com/privacy.jsp',
+      remember : true,
+      
+      df : df,
+      sd : sd
+    });
+  }
+
+  function showLoginBox(){
+    if(typeof loginBox == 'undefined'){
+      loginBox = new WriteDrag('loginBoxDiv');
+      $('form.openid:eq(0)').openid();
+    }
+    writeDrag.hide();
+    loginFnc.showLoginBox(eventObj);
+
+    addCapsChecking();
+  }
+
+  function showSignUpBox(){
+    if(typeof signUpBox == 'undefined'){
+      signUpBox = new WriteDrag('signUpBoxDiv');
+    }
+    writeDrag.hide();
+    loginFnc.showSignUpBox(eventObj);
+  }
+
+  function signOut(serverURL){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+        .script('http://static.4sync.com/js/login_fnc.js?ver=9305')
+        .wait(function(){
+          loginFnc.signOut(serverURL);
+          if(serverURL != sn){
+            loginFnc.signOut('/');
+          }
+        });
+    }else{
+      loginFnc.signOut(serverURL);
+      if(serverURL != sn){
+        loginFnc.signOut('/');
+      }
+    }
+    return false;
+  }
+
+  function redirectToAccount(){
+    var $lab = $LAB;
+    if(typeof jQuery == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4sync.com/js/jquery-1.4.4.min.js')
+              .wait();
+    }
+    if(typeof loginFnc == 'undefined'){
+      $lab = $LAB
+        .script('http://static.4sync.com/js/login_fnc.js?ver=9305')
+        .wait(function(){
+          loginFnc.goToAccount();
+        });
+    }else{
+      loginFnc.goToAccount();
+    }
+    return false;
+  }
+
+  function addCapsChecking() {
+    if($('body input[type=password]').length == 0){
+        return;
+    }
+    $('input[type=password]').caps(function(caps) {
+      var form = $(this).parents('form:first');
+      // "this" is current element
+      (caps) ? $('.capsWarning', form).show() : $('.capsWarning', form).hide();
+    });
+  }
+</script>
+
+<script type="text/javascript">
+  $(function(){
+    if(Cookies['jsParams']){
+      var p = JSON.parse(unescape(Cookies['jsParams']));
+      if(p.after){
+        if(!event){
+          var event = {length: 0};
+        }
+        eval(p.after);
+      }
+      Cookies.erase('jsParams', '/', '.4sync.com');
+    }
+  });
+</script>
+
+<script type="text/javascript">
+  $(function() {
+    if(typeof jQuery != 'undefined'){
+      addCapsChecking();
+    }
+    $('#loginfield, #passfield').keypress(function(event) {
+      if (event.which != '13') return true;
+
+      var form = $(this).parents('form:first');
+      $('input[type=submit]', form).click();
+      return false
+    })
+  })
+</script>
+
+
+
+<div class="topMenu">
+  <table class="tmlarea">
+    <tbody><tr>
+      <td>
+        <div id="loginarea">
+        <div class="loginbox" style="display: none;-moz-user-select: none;" onselectstart="return false;">
+          <a id="login">Login</a>
+          <img src="images/arrow_down.png" alt="Login">
+
+          <div class="coverfw"></div>
+          <div id="hidedLoginForm" style="display:none">
+            <form class="openid" method="post" action="">
+              <div style="display:none;" id="iloginRejectReason" class="small alert">&nbsp;</div>
+                           <span id="userNameAndPasswordForm">
+                               <label for="iloginfield">Username or email</label><br>
+                               <input type="text" value="" class="f" name="login" id="iloginfield"><br>
+                               <label for="ipassfield">Password</label><br>
+                               <input type="password" value="" class="f" name="password" id="ipassfield"><br>
+                               <div style="display: none;width:194px" class="capsWarning small red">You are having Caps
+                                 Lock on, please turn it off before entering your password
+                               </div>
+                           </span>
+                           <span style="display: none;" id="openid_identifier">
+                               <label for="loginfield">Your OpenID account</label><br>
+                               <input type="text" onblur="loginFnc.showOpenId();" onfocus="" style="width:184px;margin-bottom:10px" class="field openid_url" id="openid" name="openid">
+                           </span>
+              <input type="submit" value="Login" class="loginButton" onclick="return doLogin()">
+              <br>
+              <br>
+              <table cellspacing="0" cellpadding="0" width="100%">
+                <tbody>
+                <tr>
+                  <td>
+                    <input type="checkbox" value="true" checked="" id="remember" name="iremember">
+                    <label class="small green" for="iremember">Remember me</label>
+                  </td>
+                  <td class="alignRight">
+                    <a class="small greylink" href="">Forgot password</a>
+                  </td>
+                </tr>
+                </tbody>
+              </table>
+            </form>
+          </div>
+        </div>
+
+        <div id="loggedInInfo" style="display: none;">
+          <a href="#" class="userName"></a>
+          <a href="#" id="signout">Sign out</a>
+        </div>
+        </div>
+      </td>
+
+      <td>
+
+
+
+
+        <div class="langbox" style="z-index:999">&nbsp;
+        
+
+
+
+
+
+
+
+<script type="text/javascript">
+  var newLang="www";
+  function selectLang(lang){
+    newLang=lang;
+    window.langSelectorChangeCalled=true;
+    document.getElementById('iapHiddenFrame').src = "http://www.4sync.com/main/translate/setLang.jsp?silent=true&lang="+lang;
+  }
+  function iapHiddenFrameOnload(){
+    if( window.langSelectorChangeCalled ){
+      var str=top.location.href;
+      var shortLang= newLang;
+      if(shortLang.length>2){
+          shortLang=shortLang.substr(0,2).toLowerCase();
+      }
+        str=str.replace("en.4shared.com", shortLang+"."+"4shared.com")
+        if(str.indexOf('#')>0){
+            str=str.substr(0,str.indexOf('#'));
+        }
+        top.location.href=str;
+    }
+  }
+    document.write('<iframe width="0" height="0" id="iapHiddenFrame" name="iapHiddenFrame" style="display:none;" onload="iapHiddenFrameOnload()" ><'+'/iframe>')
+</script><iframe width="0" height="0" id="iapHiddenFrame" name="iapHiddenFrame" style="display:none;" onload="iapHiddenFrameOnload()"></iframe>
+
+
+<div class="langboxabs">
+<table cellpadding="0" cellspacing="0" id="langtbl" onmouseover="document.getElementById('lang1').style.display='block'" onmouseout="document.getElementById('lang1').style.display='none'">
 <tbody><tr>
-<td valign="top" width="100%">
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td valign="top" align="right">
+    <td class="langtl"></td>
+    <td class="langt"></td>
+    <td class="langtr"></td>
+</tr>
+<tr>
+    <td class="langl"></td>
+    <td> 
+        <div class="langcont">
+        <div class="langsel">English</div>
+        <div style="display:none" id="lang1">
+            <ul>
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td>
-<table width="90" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="4" valign="top"><img src="/forsync/images/rightupside_blue.gif" width="4" height="16"></td>
-<td width="100%">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td bgcolor="#3366cc" align="center"><a class="tabs" style="color:#ffffff; text-decoration:none;" href="/forsync/default.asp">home</a></td>
-</tr><tr>
-<td height="1" bgcolor="#000000"><img src="/forsync/images/pixel.gif" height="1" border="0" alt=" "></td></tr></tbody></table>
-</td>
-<td width="4" valign="top"><img src="/forsync/images/leftupside_blue.gif" width="4" height="16"></td>
-</tr></tbody></table>
+              
+                <li><a href="javascript:void(selectLang('pt-BR'));"><span>Brazilian Portuguese</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('es'));"><span>Espa�ol</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('ar'));"><span>???????</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('fr'));"><span>Fran�ais</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('pl'));"><span>Polski</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('fa'));"><span>?????</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('tr'));"><span>T�rk�e</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('in'));"><span>Bahasa Indonesia</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('th'));"><span>???</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('de'));"><span>Deutsch</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('it'));"><span>Italiano</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('zh'));"><span>??</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('ja'));"><span>???</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('ko'));"><span>???</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('vi'));"><span>Ti?ng Vi?t</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('ms'));"><span>Bahasa Melayu</span></a></li>
+              
+                <li><a href="javascript:void(selectLang('ru'));"><span>???????</span></a></li>
+              
 
-
-</td><td>
-
-
-<table width="90" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="4" valign="top"><img src="/forsync/images/rightupside_blue.gif" width="4" height="16"></td>
-<td width="100%">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td bgcolor="#3366cc" align="center"><a class="tabs" style="color:#ffffff; text-decoration:none;" href="javascript: OffsetGetTop();">register</a></td>
-</tr><tr>
-<td height="1" bgcolor="#000000"><img src="/forsync/images/pixel.gif" height="1" border="0" alt=" "></td></tr></tbody></table>
-</td>
-<td width="4" valign="top"><img src="/forsync/images/leftupside_blue.gif" width="4" height="16"></td>
-</tr></tbody></table>
-
-</td><td>
-
-
-
-<table width="90" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="4" valign="top"><img src="/forsync/images/rightupside_blue.gif" width="4" height="16"></td>
-<td width="100%">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td bgcolor="#3366cc" align="center"><a class="tabs" style="color:#ffffff; text-decoration:none;" href="/forsync/howitworks.asp">how it works</a></td>
-</tr><tr>
-<td height="1" bgcolor="#000000"><img src="/forsync/images/pixel.gif" height="1" border="0" alt=" "></td></tr></tbody></table>
-</td>
-<td width="4" valign="top"><img src="/forsync/images/leftupside_blue.gif" width="4" height="16"></td>
-</tr></tbody></table>
-
-</td><td>
-
-<table width="90" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td width="4" valign="top"><img src="/forsync/images/rightupside_blue.gif" width="4" height="16"></td>
-<td width="100%">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td bgcolor="#3366cc" align="center"><a class="tabs" style="color:#ffffff; text-decoration:none;" href="/forsync/feedback.asp">feedback</a></td>
-</tr><tr>
-<td height="1" bgcolor="#000000"><img src="/forsync/images/pixel.gif" height="1" border="0" alt=" "></td></tr></tbody></table>
-</td>
-<td width="4" valign="top"><img src="/forsync/images/leftupside_blue.gif" width="4" height="16"></td>
-</tr></tbody></table>
-
-</td>
+            </ul>
+        </div>
+        </div>
+    </td>
+    <td class="langr"></td>
+</tr>
+<tr>
+    <td class="langbl"></td>
+    <td class="langb"></td>
+    <td class="langbr"></td>
 </tr>
 </tbody></table>
-
-</td></tr>
-
-
-</tbody></table>
+</div>
 
 
 
-</td>
-
-</tr></tbody></table>
-<br>
-<center><span class="tabs">Privacy Policy</span></center>
-<br>
-<span class="sidemenu">
-4Sync.com respects the privacy of every one of its users.  This statement gives an
-overview on how we gather information and how we use it.  Privacy is an
-important concern in today's online world, and it is our policy to protect
-the privacy of all visitors to the best of our ability.
-<br><br>
-<i>Cookies -</i> 
-4Sync.com uses cookies to hold your authentication information, such as userid and
-password, and to remember your preferences between pages.  This lets us
-optimize application performance and your online experience.  4Sync.com does not
-use cookies in any other way, such as obtaining information from its
-visitors.  
-<br><br>
-Site usage statistics.com are also tracked for the usergroup as a whole.  We do
-not collect data on single user actions and preferences, but rather actions
-and preferences for the entire group of 4Sync.com users as a whole.  This allows us
-to improve our site and optimize functionality for our members, and also as
-demographic information that we can present to others who visit the site.
-Personally identifiable information is not collected.
-<br><br>
-4Sync.com collects personally identifiable data, such as names, addresses, and
-email addresses, etc. purely on a voluntary basis.  Any visitor can use
-browse 4Sync.com anonymously.  An email address is required for any user wishing to
-schedule an appointment with another 4Sync.com member.  If a visitor decides to
-join 4Sync.com and take full advantage of all 4Sync.com features, we do require them to
-register.  The contact information that is required are name and email
-address.  Optional demographic information, such as zip code, age, and
-hobbies help us optimize our services to members.
-<br>
-The information we collect helps us make the 4Sync.com experience better for users.
-It helps us improve our content, customize our functionality, and target
-advertising and special offers from 4Sync.com and our partners.  At our discretion,
-we will make the information about 4Sync.com users in aggregate form available to
-business partners, the industry and public at large, and to our advertisers.
-We will not share individual information without permission from the member.
-<br><br>
-4Sync.com is not responsible for the content or policies of other sites,
-including any that may be linked to from a 4Sync.com page.
-<br><br>
-Occasionally 4Sync.com will have surveys, in which we may ask for contact
-information.  This information is purely voluntary, and is only used for the
-purposes of contacting the participant when necessary.  This information
-will not be shared.
-<br><br>
-Occasionally, 4Sync.com will run contests, in which we ask for contact information.
-This information is used for the purposes of contacting the participant when
-necessary.  Submitting contact information is purely voluntary, but may be
-required for participation in some contests.
-<br><br>
-4Sync.com sites may contain advertisements placed by outside ad companies.  In many
-cases, these ads will contain cookies.  These cookies are not associated
-with 4Sync.com, and 4Sync.com does not have access to this information, nor can we control
-the number of cookies that may be sent.
-<br><br>
-<i>Public Forums</i> - 
-4Sync.com makes public forums, such as newsgroups and messageboards, available to
-its users.  Please use caution when posting to these forums, remembering
-that they are public.  
-<br><br>
-<i>Security</i> - 
-This site has security measures in place to protect the loss, misuse and
-alteration of the information under our control.
-<br><br>
-
-<i>Opt-in/out (don't need?)</i> - 
-4Sync.com lets users decide if they want to be included on mailings, including newsletters.  
-<br><br>
-4Sync.com collects personally identifiable information, such as email, address,
-name, etc. only when voluntarily submitted.  The information we collect
-helps us make the 4Sync.com experience better for users.  It helps us improve our
-content, customize our functionality, and target advertising and special
-offers from 4Sync.com and our partners.  At our discretion, we will make the
-information about 4Sync.com users in aggregate form available to business partners,
-the industry and public at large, and to our advertisers.  We will not share
-individual information without permission from the member.
-<br><br>
-<br>
-
-Neither 4Sync.com, its partners, advertisers or third party content providers make any 
-warranty with respect to any content, information or services provided through or in 
-conjunction with our site. 4Sync.com, its partners, advertisers or third party content 
-providers are not liable for conduct by any user in chat rooms, auditoriums, private messages, 
-web pages, profiles or message boards. 
-<br>
-4Sync.com, its partners, advertisers or third party 
-content providers make no guarantee of the accuracy, correctness or completeness of any 
-information on the site, and are not responsible for: (i) any errors of omission arising 
-from the use of such information; (ii) any failures, delays or interruptions in the delivery 
-of any content or service contained within the site; (iii) any libelous or unlawful material 
-contained within user web pages, resumes, profiles or postings. 
-<br><br>
-As a user, you agree to 
-indemnify 4Sync.com, its partners, advertisers or third party content providers against any 
-and all claims and expenses, including attorney's fees, arising from the use of chat rooms 
-and site. This expressly includes: (i) user responsibility for any and all liability arising 
-from the violation or infringement of proprietary rights or copyrights, and (ii) any libelous 
-or unlawful material contained within user chat comments, web pages, resumes, profiles or 
-message board postings.  4Sync.com reserves the right to terminate an account at any time.
-<br><br>
+        </div>
 
 
 
 
+      </td>
 
 
-
-</span></td>
-
-</tr>
-</tbody></table>
-<br>
-<table width="600" cellpadding="0" cellspacing="3"><tbody><tr><td bgcolor="#ffffff">
-<center>
-<span class="smfields">
-<a href="/forsync/default.asp">4Sync.com</a> | 
-<a href="/forsync/about.asp">About 4Sync.com</a> | 
-<a href="/forsync/feedback.asp?func=help">Help</a> | 
-<a href="/forsync/feedback.asp">Feedback</a> | 
-<a href="/forsync/termsofuse.asp" target="_blank">Terms of Use</a><br>
-<a href="/forsync/privacy.asp" target="_blank">Privacy</a> | 
-<a href="#">Site Map</a> | 
-<a href="#">International</a> | 
-<a href="#">Job Openings</a>
-<br>
-</span>
-<br>
-<span class="smfields">
-<a href="/forsync/termsofuse.asp" target="_blank">Copyright © 1999-2000 4Sync.com</a><br>
-All Rights Reserved
-</span>
+    </tr>
+  </tbody></table>
 
 
-</center></td></tr></tbody></table>
-<script language="Javascript">
-<!--
-function popupPAGE(page) {
-	var popupURL = page;
-	var popup=window.open(popupURL,"EasySpacePopup",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0,width=350,height=385');
-	if( navigator.appName.substring(0,8) == "Netscape" )
-		{
-	         popup.location = popupURL;
-	         popup.opener = self;
-		}
-	}
-//-->
-</script>
+</div>
 
+    <div id="innerLogo">
+        <a href="index.jsp"><img src="images/4sync_logo2.png" width="678" height="204" alt="4Sync Home"></a>
+    </div>
+    <div id="topLine">
+        <div class="bl"></div>
+        <div class="br"></div>
+        <div class="shadow"></div>
+    </div>
+    <div class="innerContent">
+        <span id="syncHeader">P rivacy</span>
+        <div class="stext">
+            <p>4Sync is the official trademark of New IT Solutions LTD. Your use of the www.4Sync.com site is governed by 4Sync Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what services we provide, how the information you store at 4Sync may be used, and how such information is both protected and made available on our Web site. </p>
+            <p>This privacy policy may change from time to time, so you are encouraged to check the page regularly. New IT Solutions LTD will operate this Web site according to the Privacy Policy that is posted at the time.</p>
+            <h4>Information we Receive When you Register</h4>
+            <p>New IT Solutions LTD stores your E-mail and Password you create for yourself when you register with 4Sync and First and Last Names if they are indicated in the User Profile. We also use your IP address for internal purposes (for covering the download limitation and user sessions).</p>
+			<h4>Your Virtual Drive</h4>
+            <p>When you upload your files to the 4Sync server, we will provide you with a unique URL to download your file. 4Sync will not provide this URL to any other person or entity, but will provide your file to any web browser requesting your unique URL. 4Sync has the right to review your file contents for violations of our Terms of Use. If 4Sync determines your files are in violation of 4Sync Terms of Use we will ban your account and will attempt to contact you. We reserve the right to cancel your account and files from our systems.</p>
+			<p>4Sync will not attempt to access your files at any time unless explicitly instructed to do so by you. We do not own the contents of your virtual drive. 4Sync will only have access to your files for purposes of troubleshooting. When 4Sync receives your files, we will store them in your virtual drive. We will allow your files to be downloaded according to your security settings. 4Sync has extensive security measures in place to protect your files while stored on our servers and we will prosecute any attempt to access this information without authorization.</p>
+			<h4>Web-Server Log and Cookies</h4>
+			<p>New IT Solutions LTD collects information about the areas and pages of the 4Sync website you visit. We also collect information such as your operating system, browser version and the size of your screen. We analyze this data to determine what is of interest to our users as a group, and thereby improve our website. This information is collected in the form of the usual web server logs and cookies. 4Sync also collects this information to make the website viewable and useful for the majority of our clients. </p>
+			<p>Our website utilizes a non-persistent cookie to track your session with our web site. This is an encrypted number, generated when you visit any site that supports sessions. This is a session cookie. It helps 4Sync track your sessions and store persistent information to make your visit to our site smoother. This cookie is saved permanently on your PC. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. At no time are cookies used to track where you have been either before or after your visit to our website. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies. </p>
+			<h4>Access to your information</h4>
+			<p>You have the right to access, upload and download your files and access and correct your personal information at any time. You may also grant access to your drive to other persons through folder sharing or providing the download link to your audience.</p>
+			<p>If for some reason you cannot access your virtual drive on the 4Sync or you want to change other information you provided to us, please contact us at <a href="mailto:support@4Sync.com">support@4Sync.com</a>.</p>
+			<h4>How we protect your information</h4>
+			<p>Any information collected and processed with New IT Solutions LTD is treated with the utmost confidentiality. New IT Solutions LTD will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through New IT Solutions LTD will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data.</p>
+			<p>Automated and scheduled backups for premium users make the service considerably more reliable. Daily copying of the information will help you avoid any unpleasant consequences.</p>
+			<p>On-site security includes closed circuit video monitoring, alarmed doors with secure card-key access, monitored 24x7. </p>
+			<h4>E-mail non-disclosure</h4>
+			<p>Our system stores your e-mail addresses on our server in a secured location. These e-mail addresses are kept on the server for granting access to the account. These addresses are yours, not the property of 4Sync.</p>
+			<p>4Sync Customer Support team may examine these lists as well as the account files for support and troubleshooting purposes. They also may examine the files stored by the users in case of abuse reporting. </p>
+			<p>4Sync will never use or sell these e-mail addresses and files to anyone; any attempt to access your e-mail addresses without your authorization will be prosecuted. </p>
+			<p>We will only use your email to send the service and support letters. You may address the <a href="mailto:support@4Sync.com">support team</a> with any questions and problems. We will make sure to process your request as soon as possible. </p>
+			<h4>Anti SPAM Policy</h4>
+			<p>The e-mail information we collect is never sold, rented out, leased, traded, swapped, marketed, exchanged, bartered, distributed, or disclosed in any way. 4Sync and its users agree to never initiate any SPAM emailing. </p>
+			<h4>Third Party Web Sites</h4>
+			<p>The 4Sync website may contain links to Internet sites and services that are maintained by third parties. These sites may have privacy and security policies that are different from those followed by New IT Solutions LTD. New IT Solutions LTD has no control over these sites and is not responsible or liable for the policies and practices followed by such third parties. When you visit any site outside www.4Sync.com this Privacy Policy is no longer valid, while the Privacy Policy of the current site you are visiting comes into force.</p>
+			<h4></h4>
+            <p>If you have gigs of music and are afraid of losing them, your kids are future inventors and start
+                their career with your PC, so that after their experiments you can't find your docs there... 4Sync solves
+                those problems. Be sure, that 4Sync takes care about the backup copy. Simplicity is secure with 4Sync.</p>
+			<h4>The Feedback Form</h4>
+			<p>The Feedback Form is an online tool that allows you to report violations of 4Sync Services privacy statements and specific privacy concerns pertaining to 4Sync.com. </p>
+			<p>To access feedback form use the Feedback link at the top right of the screen of our web service.</p>
+			<h4>Contact Us</h4>
+			<p>If you have any questions or comments about our Privacy Policy, please contact us at <a href="mailto:support@4Sync.com">support@4Sync.com</a>.</p>
+		</div>
+        <img src="images/vignette.png" width="499" height="48">
+		<div class="clearfix"></div>
+        <span class="downloadApp">
+            <span>
+                
+                    <img class="absmid" src="images/cloud_download.png" width="62" height="38" alt="Download 4Sync">
+                
+            </span>
+        </span>
+        <div class="versionText">
+            <a href="http://dc407.4shared.com/download/i6VQkuc5">Windows</a>,
+            <a href="http://dc399.4shared.com/download/x3JqSRo1/desktop4shared-13_1-all.deb">Linux</a>,
+            <a href="http://dc428.4shared.com/download/TgM-MWn8/4Sync-10751.dmg">Mac </a><sup>beta</sup> or
+            <a href="mobile.jsp">Mobile</a>
+        </div>
+    </div>
+    <div id="footerLine">
+        <div class="bl"></div>
+        <div class="br"></div>
+        <div class="shadow"></div>
+    </div>
+
+
+</div>
+  
+
+<div id="footer-old">
+	<a href="index.jsp">Home</a>&nbsp; |&nbsp;
+	<a href="features.jsp">Features</a>&nbsp; |&nbsp;
+	<a href="tour.jsp">Tour</a>&nbsp; |&nbsp;
+	<a href="about.jsp">About Us</a>&nbsp; |&nbsp;
+	<a href="terms.jsp">Terms</a>&nbsp; |&nbsp;
+	<a href="privacy.jsp">Privacy</a>&nbsp; |&nbsp;
+	<a href="contacts.jsp">Contact Us</a>&nbsp; |&nbsp;
+    <img class="absmid" style="margin: 0 2px 2px 0;" src="images/4sync.png" width="16" height="16">
+    <a href="http://blog.4sync.com/" target="_blank">Blog</a>&nbsp; |&nbsp;
+    <img class="absmid" style="margin: 0 2px 2px 0;" src="images/twitter.png" width="16" height="16">
+    <a href="https://twitter.com/#!/4sync" target="_blank">Twitter</a>&nbsp; |&nbsp;
+    <img class="absmid" style="margin: 0 2px 2px 0;" src="images/facebook.png" width="14" height="14">
+    <a href="http://www.facebook.com/4Sync" target="_blank">Facebook</a>
+</div>
+<div id="copyright">
+    <span>Copyright © 4sync Inc. All Rights Reserved</span>
+</div>
+
+    <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-25209864-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+
+    </script>
 
 
 </body></html>
