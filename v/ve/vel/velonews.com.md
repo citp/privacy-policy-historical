@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velonews.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621053435id_/http%3A//competitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velonews.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205092716id_/http%3A//competitor.com/privacy-policy/%3Futm-medium%3Dcgifootnav) for the most accurate reproduction.*
 
 # Privacy Policy – Competitor.com
 
@@ -43,7 +43,7 @@ Competitor Group has established and maintains reasonable security procedures to
 ### Contact Us
 
 Competitor Group, Inc.  
-9401 Waples Street, Suite 150  
+9477 Waples Street, Suite 150  
 San Diego, CA 92121  
 (800)-311-1255  
 [customerservice@competitorgroup.com](mailto:customerservice@competitorgroup.com)
