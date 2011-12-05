@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourtango.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202012407id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtango.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205211720id_/http%3A//www.yourtango.com/tango-publishing-corporation-privacy-policy) for the most accurate reproduction.*
 
-# Tango Publishing Corporation Privacy Policy | YourTango | smart talk about love
+# Tango Publishing Corporation Privacy Policy | YourTango
 
 Tango is deeply committed to protecting your privacy and security when you access our website. Please read the following to learn more about our privacy policy. Please note that Tango is not responsible for the content or the privacy policies of websites to which our website may link.
 
