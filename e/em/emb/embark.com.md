@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427134823id_/http%3A//www.embark.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205235746id_/http%3A//www.embark.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Embark.com Privacy Policy
 
