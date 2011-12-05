@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anjolee.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222193927id_/http%3A//www.anjolee.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anjolee.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205013215id_/http%3A//www.anjolee.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Anjolee.com Privacy Policy – Committed to Protect Your Privacy Online
 
