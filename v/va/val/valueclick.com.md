@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valueclick.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618061038id_/http%3A//www.valueclick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueclick.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205090110id_/http%3A//www.valueclick.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ValueClick US
 
@@ -22,7 +22,7 @@ ValueClick, Inc. is the corporate entity that manages the ValueClick marketing a
 
 Like most standard website servers, we use log files to collect Internet protocol (IP) addresses, browser type, referring/exit pages, platform type, third party web analytic tools, and date/time stamp. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.  
 ValueClick Media may use cookies to collect data from this website to enable it to more effectively match advertisements to your interests.  For more information on ValueClick Media’s privacy practices, please click on the following link: <http://www.valueclickmedia.com/about/privacy/display-web-user>.   
-If you would like to opt-out of such interest-based advertising from ValueClick Media, please click on the following link:  <https://admin.valueclickmedia.com/corp/optout>.
+If you would like to opt-out of such interest-based advertising from ValueClick Media, please click on the following link:  <http://www.valueclickmedia.com/about/privacy/opt-out>.
 
 **II. INFORMATION MANAGEMENT**
 
