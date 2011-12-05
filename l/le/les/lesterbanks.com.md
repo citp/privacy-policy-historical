@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lesterbanks.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606064422id_/http%3A//lesterbanks.com/lxb_site_images/Privacy_Policy_for_Lesterbanks.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesterbanks.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205070251id_/http%3A//lesterbanks.com/lxb_site_images/Privacy_Policy_for_Lesterbanks.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.lesterbanks.com
 
