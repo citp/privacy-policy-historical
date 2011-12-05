@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ed4.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624201510id_/http%3A//www.e-dialog.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ed4.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205161408id_/http%3A//www.e-dialog.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - e-Dialog.com - e-Dialog - Integrated E-Mail & Cross-Channel Marketing Solutions
 
@@ -27,9 +27,10 @@ e-Dialog is a licensee of the TRUSTe Privacy Program and has been certified comp
 
 
 
-  
 If you feel that this company is not abiding by its posted privacy policy, you should first contact e-Dialog by e-mail at e-Dialog privacy. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve   
 your concerns.
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.e-dialog.com&sealid=101)
 
 **Safe Harbor**  
 e-Dialog abides by the principles of the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. If you feel that this company is not abiding by its posted privacy policy or is not in compliance with the Safe Harbor principles, you should first contact e-Dialog’s privacy manager by e-mail at e-Dialog privacy.
