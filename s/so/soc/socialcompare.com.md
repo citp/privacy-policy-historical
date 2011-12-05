@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialcompare.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606153813id_/http%3A//socialcompare.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialcompare.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205034749id_/http%3A//socialcompare.com/en/privacy) for the most accurate reproduction.*
 
 # SocialCompare
 
@@ -44,3 +44,5 @@ External sites
     Under no circumstances may SocialCompare be held liable for the processing of personal data carried out by external sites listed on the Website platform.
 Contact
     If you have any questions about this privacy policy, please [contact us](https://web.archive.org/en/contact).
+
+### Featured tables
