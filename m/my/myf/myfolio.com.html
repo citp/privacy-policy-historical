@@ -1,22 +1,37 @@
-<!--The following is the downloaded HTML source of the myfolio.com privacy policy that was archived on 2011-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607022258id_/http%3A//myfolio.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myfolio.com privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205110126id_/http%3A//www.myfolio.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="google-site-verification" content="GPK3An6K-Vzwa9mv9qPPxfl0vtLZ_pvue-qg2PiC_Ss">
+<style type="text/css">
+.bodydiv_outer {
+/*-moz-border-radius:8px;
+-webkit-border-radius:8px;*/
+width:820px;
+background-color:#FFF;
+min-height:AUTO;
+margin:0 auto;
+padding:25px;
+}
+</style>
 	 <!-- google_ad_section_start(weight=ignore) --><title>Privacy Policy | MyFolio</title><!-- google_ad_section_end -->
         <link rel="stylesheet" href="/gz.php?reset.css|global.css|modalbox.css|niceforms.css|temp_browse.css|jquery.notifications.css|jquery.ui.theme.css|tooltips.css||css" type="text/css">
     <script src="/gz.php?jquery.js|cpaint/cpaint2.inc.js|shadedborder.js|myjavascriptfx.js|201a.js|jquery.easing.1.3.js|jquery.animThumb.js|niceforms.js|header_init.js|jsfunctions.js|jquery.notifications.js|jquery.labelOver.js|common.js|jquery.ui.core.js|jquery.ui.widget.js|jquery.ui.button.js|disable_console.js|js" type="text/javascript"></script>
     <link rel="alternate" type="application/rss+xml" title="RSS Feed for MyFolio" href="/rss_feed">
 
+                
 <!--[if lte IE 6]><style type="text/css">
 .headerdiv,.header .searchbox div,.view_comment_box, img {
 	behavior: url(css/iepngfix.htc);
 } 
 </style><![endif]-->
 
+
+
 <style type="text/css">
 /*START::LOGIN POPUP*/
+
 #container_login {
     margin:0 auto;
 	z-index:999;
@@ -27,13 +42,13 @@
 	float:left;
 }
 #login_menu_li.menu-open {
-    background-color:#e7e7e7;
+    /*background-color:#e7e7e7;*/
 }
 #login_holder {
-    -moz-border-radius-bottomleft:5px;
+    /*-moz-border-radius-bottomleft:5px;
     -moz-border-radius-bottomright:5px;
     -webkit-border-bottom-left-radius:5px;
-    -webkit-border-bottom-right-radius:5px;
+    -webkit-border-bottom-right-radius:5px;*/
     display:none;
     background-color:#e7e7e7;
     position:absolute;
@@ -49,7 +64,7 @@
 	*margin-left: 0px;
     color:#789;
     font-size:11px;
-	right:0px;
+	right:22px;
 }
 
 #login_holder input[type=text], #login_holder input[type=password] {
@@ -58,7 +73,7 @@
     -webkit-border-radius:4px;
     border:0px solid #ACE;
     font-size:13px;
-    margin:5px 0 5px 0px;
+    margin:0px 0 5px 0px;
     padding:5px;
     width:203px;
 		
@@ -74,12 +89,19 @@
     font-weight:normal;
 }
 #login_holder p.remember {
-    padding:10px 0;
+    padding:5px 0 10px 0;
+	float:left;
+	width:100%;
 }
-#login_holder p.forgot, #login_holder p.complete {
+#login_holder p.remember input{ float:left; margin:5px 0px 0px 0px;}
+
+#login_holder span.remember_text{ float:left; padding:5px 0px 0px 5px; line-height:normal;}
+#login_holder p.forgot-username, #login_holder p.forgot{ float:left; width:100%;}
+#login_holder p.complete {
     clear:both;
     margin:5px 0;
 }
+
 #login_holder p a {
     color:#27B!important;
 }
@@ -125,9 +147,9 @@ margin-top:20px;
 #msg_close{
 	float:right;
 }
-.searchbox label{ color: #999; position: absolute; margin:0px;	font-size: 16px; font-weight:normal; display:none; }
-label.over1 { color: #999; position: absolute; margin:0px; top:84px !important; font-size: 16px; font-weight:normal; display:block;}
-#header_go_button{ float:right; padding:.4em; font-size:1em;}
+.searchbox label{ color: #999; position: absolute; margin:0px;	font-size: 15px; font-weight:normal; display:none; }
+label.over1 { color: #999; position: absolute; margin:0px 0px 0px 7px; top:130px !important; font-size: 15px; font-weight:normal; display:block;}
+#header_go_button{ float:right; padding:.4em; font-size:1em; margin:0px 3px 0px 0px !important;}
 .popup_form span.ui-button-text{ padding:4px; font-size:14px;}
 .ui-button{ -moz-border-radius: 4px 4px 4px 4px !important; -webkit-border-radius:4px!important;}
 
@@ -199,29 +221,94 @@ $("#header_loginForm").submit(function(){
 			});*/			
 		//This is for login popup
 			
-            $("#login_menu_li").click(function(e) {          
-			setTimeout(function() { $("input.username").focus();},10);
+            $("#login_menu_li").mouseover(function(e) {          
+				setTimeout(function() { $("input.username").focus();},10);
 				e.preventDefault();
-                $("fieldset#login_holder").toggle();
+                $("fieldset#login_holder").show();
 				$("#login_menu_li").toggleClass("menu-open");
 				//alert($("#login_menu_li").Class());
             });	
+            $("#login_menu").mouseover(function(e) {          
+				setTimeout(function() { $("input.username").focus();},10);
+				e.preventDefault();
+                $("fieldset#login_holder").show();
+				$("#login_menu_li").toggleClass("menu-open");
+				//alert($("#login_menu_li").Class());
+            });				
+			
+
+            $("#login_menu_li").mouseout(function(e) {          
+				//setTimeout(function() { $("input.username").focus();},10);
+				e.preventDefault();
+                $("fieldset#login_holder").hide();
+				$("#login_menu_li").removeClass("menu-open");
+				//alert($("#login_menu_li").Class());
+            });	
+            $("#login_menu").mouseout(function(e) {          
+				//setTimeout(function() { $("input.username").focus();},10);
+				e.preventDefault();
+                $("fieldset#login_holder").hide();
+				$("#login_menu_li").removeClass("menu-open");
+				//alert($("#login_menu_li").Class());
+            });				
+
+
+            $("fieldset#login_holder").mouseover(function(e) {          
+				setTimeout(function() { $("input.username").focus();},10);
+				e.preventDefault();
+                $("fieldset#login_holder").show();
+				$("#login_menu_li").toggleClass("menu-open");
+				//alert($("#login_menu_li").Class());
+            });				
+            $("fieldset#login_holder").mouseout(function(e) {          
+				//setTimeout(function() { $("input.username").focus();},10);
+				e.preventDefault();
+                $("fieldset#login_holder").hide();
+				$("#login_menu_li").removeClass("menu-open");
+				//alert($("#login_menu_li").Class());
+            });				
+
+
+			
 			$("fieldset#login_holder").mouseup(function() {
 				return false
 			});
+			
 			$(document).mouseup(function(e) {
+				//alert($("#login_holder").length );
 				//alert($(e.target).parent("a.login").length);
 				//alert($(e.target).parent("a.login"));
-				if($(e.target).parent("a.login").length==0) {
+				if($(e.target).parent("a.login").length==0 ) {
 					$("#login_menu_li").removeClass("menu-open");
 					$("fieldset#login_holder").hide();
 				}
 			});	
 
+
+            $("#user_login").mouseover(function(e) {          
+		e.preventDefault();
+		$("#user_options").show();
+            });	
+            $("#user_login").mouseout(function(e) {          
+		e.preventDefault();
+                $("#user_options").hide();
+            });	
+            $("#user_options").mouseover(function(e) {          
+		e.preventDefault();
+		$("#user_options").show();
+            });	
+            $("#user_options").mouseout(function(e) {          
+		e.preventDefault();
+                $("#user_options").hide();
+            });	
+
         });
-</script>	
+</script>
+
+    
 <script type="text/javascript" async="" src="//s3.buysellads.com/ac/bsa.js"></script><script type="text/javascript" async="" src="https://static.getclicky.com/js"></script></head>
-<body>
+<body class="page_default">
+
 <!-- BuySellAds.com Ad Code -->
 <script type="text/javascript">
 (function(){
@@ -236,20 +323,15 @@ $("#header_loginForm").submit(function(){
 <div class="header_navigator">
 	<div class="header_navigator_outer">
 	<div class="header_navigator_left">
-        <ul>
-                    <li><img src="/images/blank.gif" alt=""></li>
-                </ul>
-        <div class="clear"></div>
-	</div>
-	<div class="header_navigator_right">
-		<ul>
-			
+        
+        <ul class="top_userid">
+		             
 		<!--<li class="header_navigator_welcome_guest"> </li>-->
-  <li class="header_navigator_signupstatus" style="padding-top:10px;"><a href="http://myfolio.com/signup">Free Signup!</a> </li>
-<li class="header_navigator_logstatus" id="login_menu_li" style="padding-top:10px;"><a id="login_menu">Login</a>  </li><!--href='http://myfolio.com/login.php'-->
-      
+  <li class="header_navigator_signupstatus"><a href="http://myfolio.com/signup">Free Signup!</a> </li>
+<li class="header_navigator_logstatus" id="login_menu_li"><a href="http://myfolio.com/login" id="login_menu">Login</a>  </li><!--href='http://myfolio.com/login.php'-->
+
 <div id="container_login">
-<fieldset id="login_holder" style="border-bottom:1px solid #ccc; width:216px; position:absolute; border-right:1px solid #ccc; border-left:1px solid #ccc">
+<fieldset id="login_holder" style="border:2px solid #fff; width:216px; position:absolute;">
 <form name="header_loginForm" id="header_loginForm"><!--action="/login" method="post"-->
 <p><label for="username_popup">Username or Email</label>
 <input id="username_popup" name="username_popup" value="" title="username" tabindex="100" type="text" class="username">
@@ -260,48 +342,58 @@ $("#header_loginForm").submit(function(){
 </p>
 <p class="remember">
 <button alt="Login" type="submit" name="header_go_button" value="Log In" tabindex="103" id="header_go_button" style="margin-top:-5px;" class="ui-button">Log In</button>
-<input id="remember" name="remember" value="1" tabindex="102" type="checkbox"> <span style="margin-top:-5px">Remember me</span>
+<input id="remember" name="remember" value="1" tabindex="102" type="checkbox"> <span class="remember_text">Remember me</span>
 </p>
 <p class="forgot" style="border-top:1px dashed #888;padding-top:8px"> <a href="/lost" id="resend_password_link">Forgot your password or username?</a></p>
-<p class="forgot-username"> </p><!--title="If you remember your password, try logging in with your email"-->
+<p class="forgot-username"></p><!--title="If you remember your password, try logging in with your email"-->
 </form>
 </fieldset>
-</div>        	
-				
+</div>
+            				
 		</ul>
-		<div class="clear"></div>
-	</div>
 
+        	
+                                
+	</div>
+    <!--
+	<div class="header_navigator_right">
+		
+	
+	</div>
+-->
 	<div class="clear"></div>
 	</div>
 </div>
 <div id="main_container">
+<div class="container_box">
 <div class="space_before_header"></div>
-		<div class="headerdiv">
+				<div class="headerdiv">
 			<ul class="header">
-				<li class="logo"><a href="http://myfolio.com"><img width="139" height="44" src="http://myfolio.com/images/myfolioLogo_default.png" alt="MyFolio"></a></li>
-				<li class="header_upload"><a href="http://myfolio.com/art"><img width="54" height="32" src="/images/header_btn_art.png" onmouseover="this.src='/images/header_btn_art.png'" onmouseout="this.src='/images/header_btn_art.png'" alt="Art"></a></li>
-				<li class="header_artwork"><a href="http://myfolio.com/artists"><img width="66" height="32" src="/images/header_btn_artists.png" onmouseover="this.src='/images/header_btn_artists.png'" onmouseout="this.src='/images/header_btn_artists.png'" alt="Artists"></a></li>
-
-				<li class="searchbox"><form id="frmsearch" name="frmsearch" action="/search_results" method="get">	
+				<li class="logo"><a href="http://myfolio.com"><img width="189" height="57" src="http://myfolio.com/images/myfolio_default.png" alt="MyFolio"></a></li>
+                <li class="searchbox"><form id="frmsearch" name="frmsearch" action="/search_results" method="get">	
 					<div class="searchbox-holder">
 						
 							<label for="search_id" class="over1">Search Art or People</label><input type="text" id="search_id" name="search_id" tabindex="1">	
-							
+
 					</div>	</form>				
 				</li>
+				<li class="header_artwork"><a href="http://myfolio.com/artists"><img width="92" height="34" src="/images/header_btn_artists.png" onmouseover="this.src='/images/header_btn_artists.png'" onmouseout="this.src='/images/header_btn_artists.png'" alt="Artists"></a></li>
+                <li class="header_upload"><a href="http://myfolio.com/art"><img width="127" height="34" src="/images/header_btn_art.png" onmouseover="this.src='/images/header_btn_art.png'" onmouseout="this.src='/images/header_btn_art.png'" alt="Art"></a></li>
+
+				
 			</ul>
 			<div class="clear"></div>
 <div id="outer_msgbox" style="display:none; ">
 	<p id="msgbox"></p><label id="msg_close" style="color:#98964f">x</label>
 </div>	
-		</div>	
+		</div>
+
+			
 <div class="space_after_header">
 
               
 </div>
-<div class="bodydiv_outer">
- 
+<div class="bodydiv_outer"> 
   <h1>Privacy Policy</h1>
     	<div id="content_left_menu">
     <ul>
@@ -344,20 +436,63 @@ $("#header_loginForm").submit(function(){
 		<div class="clear"></div>
 </div> 
 </div> 
-<div id="footer"> 
-    <a href="http://myfolio.com/about">About MyFolio</a> 
+</div> 
+<div id="footer">
+    <div class="footer_content"> 
+      <ul class="footer_welcome">
+        <li class="footer_heading">Welcome</li>
+        <li class="footer_user_icon">
+        	<span><a href="http://myfolio.com/user/seth"><img src="http://media1.myfolio.com/users/seth/profile/profileicon_small.png"></a></span>
+            <span><a href="http://myfolio.com/user/nkurtz"><img src="http://media-cia.myfolio.com/users/nkurtz/profile/profileicon_small.png"></a></span>
+            <span><a href="http://myfolio.com/user/mprunka"><img src="http://media1.myfolio.com/users/mprunka/profile/profileicon_small.png"></a></span>
+            <span><a href="http://myfolio.com/user/avasquez"><img src="http://media-cia.myfolio.com/users/avasquez/profile/profileicon_small.png"></a></span>
+            <span><a href="http://myfolio.com/user/Eamon"><img src="http://media1.myfolio.com/users/Eamon/profile/profileicon_small.png"></a></span>
+            <span><a href="http://myfolio.com/user/brentonpowell"><img src="http://media1.myfolio.com/users/brentonpowell/profile/profileicon_small.png"></a></span>
+            <span><a href="http://myfolio.com/user/monkey121212"><img src="http://media1.myfolio.com/users/monkey121212/profile/profileicon_small.jpg"></a></span>
+         <span><a href="http://myfolio.com/user/fitzsimons"><img src="http://media1.myfolio.com/users/fitzsimons/profile/profileicon_small.png"></a></span>
+        <span><a href="http://myfolio.com/user/Angel9109"><img src="http://media1.myfolio.com/users/Angel9109/profile/profileicon_small.png"></a></span>
+        <span><a href="http://myfolio.com/user/graphicwhack"><img src="http://media1.myfolio.com/users/graphicwhack/profile/profileicon_small.png"></a></span>
+		</li>
+        <li class="footer_text">MyFolio gives artists and companies a place to upload &amp; share their art.</li>
+        <li><a href="http://myfolio.com/about">About MyFolio</a></li>
+        <li><a href="http://myfolio.com/help">Helpdesk</a></li> 
+        <li><a href="http://myfolio.com/contact">Contact Us</a></li> 
+      </ul> 
+      <ul class="footer_explore">
+        <li class="footer_heading">Explore</li>
+        <li class="footer_text">Many free tools &amp; features for every kind of artist</li>
+                 <li><a href="http://myfolio.com/signup">Sign Up - Free</a></li>
+                  
+         <li><a href="http://myfolio.com/features">Take a Tour</a></li>
+         <li><a href="http://myfolio.com/art">Browse Art</a></li>
+         <li><a href="http://myfolio.com/artists">Browse Artists</a></li>
+      </ul> 
+     <ul class="footer_universities">
+        <li class="footer_heading">Universities</li>
+        <li class="footer_text">Schools can now add &amp; manage all their students, faculty &amp; alumni in MyFolio!</li>
+<li><a href="http://myfolio.com/contact">Contact Us</a> to learn more</li>
+     </ul>
+ 
+  <div class="sub_navigaton">
+  <span><a href="http://myfolio.com/terms">Website Terms of Use</a>  |  <a href="http://myfolio.com/privacy">Privacy Policy</a>  |  Copyright 2011.  All Rights Reserved.</span> 
+<img src="/images/twitter_small.png" style="vertical-align:middle;margin-top:-2px" alt="Twitter"> &nbsp; <a href="http://twitter.com/#!/myfolio">Follow Us on Twitter</a>
 
+     </div>    
+    </div>    
+    
+    
+    <!-- 
+    <a href="http://myfolio.com/about">About MyFolio</a>
     <a href="http://myfolio.com/help">Helpdesk</a> 
 		<a href="http://myfolio.com/terms">Terms of Use</a> 
-    <a href="http://myfolio.com/privacy">Privacy Policy</a> 
+    <a href="http://myfolio.com/privacy">Privacy Policy</a>  -->
 	<!--	<img src="http://myfolio.com/images/icons/16x/ladybug.gif" style="margin-right:2px;vertical-align:text-bottom; width:16px; height:14px;" /> <a id="page_feedback" title="Feedback" href="/feedback.php?url=http://myfolio.com%2Fprivacy">Report a Bug or Give Feedback</a> -->
-    <a href="http://myfolio.com/contact">Contact Us</a> 
+   <!-- <a href="http://myfolio.com/contact">Contact Us</a> 
 
-  <br><br> 
-© 2011 MyFolio, LLC - All Rights Reserved. For any questions, please email us at <a href="mailto:help@myfolio.com">help@myfolio.com</a><br><br>
-<img src="/images/twitter_small.png" style="vertical-align:middle;margin-top:-2px" alt="Twitter"> &nbsp; <a href="http://twitter.com/myfolio" style="color:#377CC0">Follow Us on Twitter</a>
+  <br/><br/> 
+&copy; 2011 MyFolio, LLC - All Rights Reserved. For any questions, please email us at <a href="mailto:help@myfolio.com">help@myfolio.com</a><br/><br/>
+<img src="/images/twitter_small.png" style="vertical-align:middle;margin-top:-2px" alt="Twitter" /> &nbsp; <a href="http://twitter.com/myfolio" style="color:#377CC0">Follow Us on Twitter</a>-->
 </div>
-
 
 <script type="text/javascript">
 var clicky = { log: function(){ return; }, goal: function(){ return; }};
@@ -371,6 +506,7 @@ var clicky_site_id = 38642;
 })();
 </script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/38642ns.gif" /></p></noscript>
+
 
 
 
