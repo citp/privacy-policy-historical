@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerbookmedic.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606125024id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbookmedic.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205100415id_/http%3A//www.powerbookmedic.com/Privacy-p-16.html) for the most accurate reproduction.*
 
 # Privacy
 
