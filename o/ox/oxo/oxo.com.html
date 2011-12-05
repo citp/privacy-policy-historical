@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oxo.com privacy policy that was archived on 2010-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101022154148id_/http%3A//www.oxo.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oxo.com privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205010609id_/http%3A//www.oxo.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><link href="App_Themes/Skin_2/lightbox.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_2/prettyPhoto.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_2/reset.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_2/style.css" type="text/css" rel="stylesheet"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="App_Templates/Skin_2/favicon.ico" rel="SHORTCUT ICON"><title>
 	OXO - Tools you hold on to.
@@ -17,47 +17,65 @@
     <script type="text/javascript" src="jscripts/jquery.lightbox-0.5.js"></script>
     <script type="text/javascript" src="jscripts/simple_dropdown.js"></script>
     <script type="text/javascript" src="jscripts/productDetail.js"></script>
+    <script type="text/javascript" src="jscripts/slide.js"></script>
     <script type="text/javascript" src="jscripts/slideshow.js"></script>
-    <script type="text/javascript" src="jscripts/jquery.jqzoom1.0.1.js"></script>
-    <script type="text/javascript" src="jscripts/jquery.prettyPhoto.js" charset="utf-8"></script>
     <script type="text/javascript" src="jscripts/oxominicart.js"></script>
     <script type="text/javascript" src="jscripts/jquery.oxo.js"></script>
-	<script type="text/javascript" src="jscripts/imageRemove.js"></script>
+    <script type="text/javascript" src="jscripts/imageRemove.js"></script>
+    <script type="text/javascript" src="jscripts/jquery.js"></script>
+    <script type="text/javascript" src="jscripts/jquery.autocomplete.js"></script>
+    <script type="text/javascript" src="jscripts/jquery.jqzoom1.0.1.js"></script>
+    <script type="text/javascript" src="jscripts/jquery.prettyPhoto.js" charset="utf-8"></script>
+    <style type="text/css">
+        .ac_even {background:#FFFFFF;}
+        .ac_odd {background:#FFFFFF;}
+        .ac_results { text-align: left;padding: 0px; border: 1px solid black; background-color: white; overflow: hidden; z-index: 99999; }
+        .ac_results ul { text-align: left;width: 100%; list-style-position: outside; list-style: none; padding: 0; margin: 0; }
+        .ac_results li { text-align: left;margin: 0px; padding: 2px 5px; cursor: default; display: block; font: arial; font-size:12px; line-height: 16px; overflow: hidden; }
+        .ac_loading { background:url(images/loading.jpg) right no-repeat; }
+        .ac_over { background-color: #0A246A; color: white; }
+    </style>
     
+    <script type="text/javascript">
+ $(document).ready(function(){
+	$(".slidingDiv").hide();
+	$(".show_hide").show();
+	$('.show_hide').click(function(){
+	$(".slidingDiv").slideToggle();
+	});
+  });
+
+</script>
+<script type="text/javascript">
+ $(document).ready(function(){
+	    $("#ctl00_ctrlSearch_SearchText").autocomplete("AutoComplete.aspx");			
+  });
+</script>
 <script type="text/javascript">
 
-	$(document).ready(function(){
-			var options = {
-	   		xOffset: 0,
-            yOffset: 32,
-			title: false,
-			zoomWidth: 443,
-			zoomHeight: 240,
-			showEffect: 'fadein',
-			hideEffect: 'fadeout',
-			fadeinSpeed: 'slow',
-			fadeoutSpeed: 'slow'
-		           
-		    };
+ $(document).ready(function(){
+		var options = {
+		xOffset: 0,
+		yOffset: 32,
+		title: false,
+		zoomWidth: 443,
+		zoomHeight: 240,
+		showEffect: 'fadein',
+		hideEffect: 'fadeout',
+		fadeinSpeed: 'slow',
+		fadeoutSpeed: 'slow'
+		   
+	    };
 		
-						
-		    $('.detailImageBox').jqzoom(options);
+	    $('.detailImageBox').jqzoom(options);
 
 		
 $('.locatorLeft').keypress(function(event) {
 if (event.keyCode == '13') {
      event.preventDefault();
 searchLocations();	
-   }
-
-
-  		
-
-		});
+}});
 		
-		
-
-
 
 function clickrecall(thisfield, defaulttext) {
 if (thisfield.value == "") {
@@ -67,28 +85,30 @@ thisfield.value = defaulttext;
 
 $("#ctl00_ctrlSearch_SearchText").click(
 	function(){
-	
 	if(this.value == "SEARCH"){
 	this.value = "";
 	};
-
 });
 
 $("#ctl00_ctrlSearch_SearchText").blur(
 	function(){
 	if(this.value == ""){
 		this.value = "SEARCH";
-}
-	
-}
-
-);
+}});
 	
 
 		
 	    
 		});
 		
+
+            function searchblur(obj){
+		if (obj.value==""){obj.value="SEARCH";}
+	    }
+	    function searchfocus(obj){
+		if (obj.value=="SEARCH"){obj.value="";}
+	    }
+	   
 	
 	   //$('document').keypress(function(e){
             //var code = null;
@@ -96,6 +116,17 @@ $("#ctl00_ctrlSearch_SearchText").blur(
            //return code == 13 ? false : true;
         //});
         
+function showhidemincart(){
+   if (document.getElementById("mcart").style.visibility == "hidden"){
+	document.getElementById("mcart").style.display = "inline";
+	document.getElementById("mcart").style.visibility = "visible";
+   }
+   else{
+	document.getElementById("mcart").style.display = "inline";
+	document.getElementById("mcart").style.visibility = "hidden";
+   }
+}
+
 </script>
 
 
@@ -125,34 +156,55 @@ CACHE MENUS: False
 -->
 
     <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICBg9kFgICBQ9kFgYCAQ8WAh4EVGV4dAXnCDxsaT48YSBocmVmPSJjLTMzLUNvb2tpbmcgICBCYWtpbmcuYXNweCI+Q29va2luZyAmIEJha2luZzwvYT48aW1nIHNyYz0iL2ltYWdlcy9jYXRlZ29yeS9pY29uLzMzLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9ImMtOTYtU2VydmluZyAgIEVudGVydGFpbmluZy5hc3B4Ij5TZXJ2aW5nICYgRW50ZXJ0YWluaW5nPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL2NhdGVnb3J5L2ljb24vOTYuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0iYy0xMTItU3RvcmFnZSAgIE9yZ2FuaXphdGlvbi5hc3B4Ij5TdG9yYWdlICYgT3JnYW5pemF0aW9uPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL2NhdGVnb3J5L2ljb24vMTEyLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9ImMtMTM4LU9mZmljZS5hc3B4Ij5PZmZpY2U8L2E+PGltZyBzcmM9Ii9pbWFnZXMvY2F0ZWdvcnkvaWNvbi8xMzguanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0iYy0xNDItQ2xlYW5pbmcgICBMYXVuZHJ5LmFzcHgiPkNsZWFuaW5nICYgTGF1bmRyeTwvYT48aW1nIHNyYz0iL2ltYWdlcy9jYXRlZ29yeS9pY29uLzE0Mi5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CjxsaT48YSBocmVmPSJjLTE1NC1HYXJkZW5pbmcuYXNweCI+R2FyZGVuaW5nPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL2NhdGVnb3J5L2ljb24vMTU0LmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9ImMtNTk4LVNldHMuYXNweCI+U2V0czwvYT48aW1nIHNyYz0iL2ltYWdlcy9jYXRlZ29yeS9pY29uLzU5OC5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CjxsaT48YSBocmVmPSJjLTU5OS1SZXBsYWNlbWVudCBQYXJ0cyAgIFJlZmlsbHMuYXNweCI+UmVwbGFjZW1lbnQgUGFydHMgJiBSZWZpbGxzPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL2NhdGVnb3J5L2ljb24vNTk5LmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9ImMtMTU5LUJhYnkgICBUb2RkbGVyLmFzcHgiPkJhYnkgJiBUb2RkbGVyPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL2NhdGVnb3J5L2ljb24vMTU5LmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KZAIDDxYCHwAFsAQ8bGk+PGEgaHJlZj0icy0yMS1Hb29kIEdyaXBzLmFzcHgiPkdvb2QgR3JpcHM8L2E+PGltZyBzcmM9Ii9pbWFnZXMvc2VjdGlvbi9pY29uLzIxLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InMtNjEtU3RlZUwuYXNweCI+U3RlZUw8L2E+PGltZyBzcmM9Ii9pbWFnZXMvc2VjdGlvbi9pY29uLzYxLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InMtMTQ4LUNhbmRlbGEuYXNweCI+Q2FuZGVsYTwvYT48aW1nIHNyYz0iL2ltYWdlcy9zZWN0aW9uL2ljb24vMTQ4LmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InMtMTQ5LVRvdC5hc3B4Ij5Ub3Q8L2E+PGltZyBzcmM9Ii9pbWFnZXMvc2VjdGlvbi9pY29uLzE0OS5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CjxsaT48YSBocmVmPSJzLTE1NS1FeGNsdXNpdmVseSBhdCBTdGFwbGVzLmFzcHgiPkV4Y2x1c2l2ZWx5IGF0IFN0YXBsZXM8L2E+PGltZyBzcmM9Ii9pbWFnZXMvc2VjdGlvbi9pY29uLzE1NS5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CmQCBQ8WAh8ABa4KPGxpPjxhIGhyZWY9InAtOTc3LVNpcHB5IEN1cCB3aXRoIEhhbmRsZXMgLSA3IG96LmFzcHgiPlNpcHB5IEN1cCB3aXRoIEhhbmRsZXMgLSA3IG96PC9hPjxpbWcgc3JjPSIvaW1hZ2VzL3Byb2R1Y3QvaWNvbi82MTAyOTAwLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InAtOTkwLVRyYWluaW5nIEN1cCAtIDcgb3ouYXNweCI+VHJhaW5pbmcgQ3VwIC0gNyBvejwvYT48aW1nIHNyYz0iL2ltYWdlcy9wcm9kdWN0L2ljb24vNjEwMjQwMC5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CjxsaT48YSBocmVmPSJwLTEwMTMtNCBQaWVjZSBGZWVkaW5nIFNldC5hc3B4Ij40IFBpZWNlIEZlZWRpbmcgU2V0PC9hPjxpbWcgc3JjPSIvaW1hZ2VzL3Byb2R1Y3QvaWNvbi82MTA3MjAwLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InAtMTAzMi1Cb3R0bGUgQnJ1c2ggd2l0aCBOaXBwbGUgQ2xlYW5lciAgIFN0YW5kLmFzcHgiPkJvdHRsZSBCcnVzaCB3aXRoIE5pcHBsZSBDbGVhbmVyICYgU3RhbmQ8L2E+PGltZyBzcmM9Ii9pbWFnZXMvcHJvZHVjdC9pY29uLzYyMDc3MDAuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0icC0xMDMzLUJvdHRsZSBEcnlpbmcgUmFjay5hc3B4Ij5Cb3R0bGUgRHJ5aW5nIFJhY2s8L2E+PGltZyBzcmM9Ii9pbWFnZXMvcHJvZHVjdC9pY29uLzYyMDE3MDAuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0icC0xMDM4LVdoYWxlIFBhaWzihKIuYXNweCI+V2hhbGUgUGFpbOKEojwvYT48aW1nIHNyYz0iL2ltYWdlcy9wcm9kdWN0L2ljb24vNjIwMTUwMC5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CjxsaT48YSBocmVmPSJwLTcxOC1DbGFzc2ljIEtldHRsZSAtIEJydXNoZWQgU3RhaW5sZXNzIFN0ZWVsLmFzcHgiPkNsYXNzaWMgS2V0dGxlIC0gQnJ1c2hlZCBTdGFpbmxlc3MgU3RlZWw8L2E+PGltZyBzcmM9Ii9pbWFnZXMvcHJvZHVjdC9pY29uLzE0Nzk1MDAuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0icC04NzgtQ29ybiBQZWVsZXIuYXNweCI+Q29ybiBQZWVsZXI8L2E+PGltZyBzcmM9Ii9pbWFnZXMvcHJvZHVjdC9pY29uLzExOTIxMDAuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0icC03MzMtU3RhaW5sZXNzIFN0ZWVsIEljZSBDcmVhbSBTY29vcC5hc3B4Ij5TdGFpbmxlc3MgU3RlZWwgSWNlIENyZWFtIFNjb29wPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL3Byb2R1Y3QvaWNvbi8xMTkxMDAwLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUdY3RsMDAkY3RybFNlYXJjaCRTZWFyY2hCdXR0b26I/Ds1cy2qflw2a9Cxj24QkCcD0g==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICBg9kFgQCAQ9kFgJmD2QWAgIBD2QWAgIBDzwrAA0BAA8WBB4LXyFEYXRhQm91bmRnHgtfIUl0ZW1Db3VudGZkZAIGD2QWBgIBDxYCHgRUZXh0BdoJPGxpPjxhIGhyZWY9ImMtMzMtQ29va2luZyAgIEJha2luZy5hc3B4Ij5Db29raW5nICYgQmFraW5nPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL2NhdGVnb3J5L2ljb24vMzMuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0iYy05Ni1TZXJ2aW5nICAgRW50ZXJ0YWluaW5nLmFzcHgiPlNlcnZpbmcgJiBFbnRlcnRhaW5pbmc8L2E+PGltZyBzcmM9Ii9pbWFnZXMvY2F0ZWdvcnkvaWNvbi85Ni5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CjxsaT48YSBocmVmPSJjLTExMi1TdG9yYWdlICAgT3JnYW5pemF0aW9uLmFzcHgiPlN0b3JhZ2UgJiBPcmdhbml6YXRpb248L2E+PGltZyBzcmM9Ii9pbWFnZXMvY2F0ZWdvcnkvaWNvbi8xMTIuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0iYy0xMzgtT2ZmaWNlLmFzcHgiPk9mZmljZTwvYT48aW1nIHNyYz0iL2ltYWdlcy9jYXRlZ29yeS9pY29uLzEzOC5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CjxsaT48YSBocmVmPSJjLTE0Mi1DbGVhbmluZyAgIExhdW5kcnkuYXNweCI+Q2xlYW5pbmcgJiBMYXVuZHJ5PC9hPjxpbWcgc3JjPSIvaW1hZ2VzL2NhdGVnb3J5L2ljb24vMTQyLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9ImMtMTU0LUdhcmRlbmluZy5hc3B4Ij5HYXJkZW5pbmc8L2E+PGltZyBzcmM9Ii9pbWFnZXMvY2F0ZWdvcnkvaWNvbi8xNTQuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0iYy0xNTktQmFieSAgIFRvZGRsZXIuYXNweCI+QmFieSAmIFRvZGRsZXI8L2E+PGltZyBzcmM9Ii9pbWFnZXMvY2F0ZWdvcnkvaWNvbi8xNTkuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0iYy01OTgtU2V0cy5hc3B4Ij5TZXRzPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL2NhdGVnb3J5L2ljb24vNTk4LmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9ImMtNTk5LVJlcGxhY2VtZW50IFBhcnRzICAgUmVmaWxscy5hc3B4Ij5SZXBsYWNlbWVudCBQYXJ0cyAmIFJlZmlsbHM8L2E+PGltZyBzcmM9Ii9pbWFnZXMvY2F0ZWdvcnkvaWNvbi81OTkuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0iYy02MDItR2lmdCBJZGVhcy5hc3B4Ij5HaWZ0IElkZWFzPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL2NhdGVnb3J5L2ljb24vNjAyLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KZAIDDxYCHwIFsAQ8bGk+PGEgaHJlZj0icy0yMS1Hb29kIEdyaXBzLmFzcHgiPkdvb2QgR3JpcHM8L2E+PGltZyBzcmM9Ii9pbWFnZXMvc2VjdGlvbi9pY29uLzIxLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InMtNjEtU3RlZUwuYXNweCI+U3RlZUw8L2E+PGltZyBzcmM9Ii9pbWFnZXMvc2VjdGlvbi9pY29uLzYxLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InMtMTQ4LUNhbmRlbGEuYXNweCI+Q2FuZGVsYTwvYT48aW1nIHNyYz0iL2ltYWdlcy9zZWN0aW9uL2ljb24vMTQ4LmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InMtMTQ5LVRvdC5hc3B4Ij5Ub3Q8L2E+PGltZyBzcmM9Ii9pbWFnZXMvc2VjdGlvbi9pY29uLzE0OS5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CjxsaT48YSBocmVmPSJzLTE1NS1FeGNsdXNpdmVseSBhdCBTdGFwbGVzLmFzcHgiPkV4Y2x1c2l2ZWx5IGF0IFN0YXBsZXM8L2E+PGltZyBzcmM9Ii9pbWFnZXMvc2VjdGlvbi9pY29uLzE1NS5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CmQCBQ8WAh8CBZ4KPGxpPjxhIGhyZWY9InAtMTE0Ny1TcHJvdXQgSGlnaCBDaGFpciBQaW5rL1dhbG51dC5hc3B4Ij5TcHJvdXQgSGlnaCBDaGFpciBQaW5rL1dhbG51dDwvYT48aW1nIHNyYz0iL2ltYWdlcy9wcm9kdWN0L2ljb24vNjMzNTUwMC5qcGciIGNsYXNzPSJkZFRodW1iIiAvPjwvbGk+CjxsaT48YSBocmVmPSJwLTExNDQtNSBQaWVjZSBTdGVlTCBQT1AgQ29udGFpbmVyIFNldC5hc3B4Ij41IFBpZWNlIFN0ZWVMIFBPUCBDb250YWluZXIgU2V0PC9hPjxpbWcgc3JjPSIvaW1hZ2VzL3Byb2R1Y3QvaWNvbi8zMTA5MzAwLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InAtMTE0My01IFBpZWNlIFN0ZWVMIFByZXNzVG9wIENvbnRhaW5lciBTZXQuYXNweCI+NSBQaWVjZSBTdGVlTCBQcmVzc1RvcCBDb250YWluZXIgU2V0PC9hPjxpbWcgc3JjPSIvaW1hZ2VzL3Byb2R1Y3QvaWNvbi8zMTA2MDAwLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InAtMTE0Mi0zIFBpZWNlIFBlZWxlciBTZXQuYXNweCI+MyBQaWVjZSBQZWVsZXIgU2V0PC9hPjxpbWcgc3JjPSIvaW1hZ2VzL3Byb2R1Y3QvaWNvbi8xMTM3NjgwLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InAtMTE0MC1Ud28tRm9sZCBHcmF0ZXIuYXNweCI+VHdvLUZvbGQgR3JhdGVyPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL3Byb2R1Y3QvaWNvbi8xMTI4NDgwLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InAtMTEzOS1Db250YWluZXIgR3JhdGVyLmFzcHgiPkNvbnRhaW5lciBHcmF0ZXI8L2E+PGltZyBzcmM9Ii9pbWFnZXMvcHJvZHVjdC9pY29uLzExMjIyODAuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0icC0xMTM4LU1lZGljaW5lIENhYmluZXQgVG9vdGhicnVzaCAgIFRvb3RocGFzdGUgT3JnYW5pemVyLmFzcHgiPk1lZGljaW5lIENhYmluZXQgVG9vdGhicnVzaCAmIFRvb3RocGFzdGUgT3JnYW5pemVyPC9hPjxpbWcgc3JjPSIvaW1hZ2VzL3Byb2R1Y3QvaWNvbi8xMzI5MzgwLmpwZyIgY2xhc3M9ImRkVGh1bWIiIC8+PC9saT4KPGxpPjxhIGhyZWY9InAtMTEzNy1BcHJvbiwgQ2hlZuKAmXMgSGF0ICAgU3Bvb24gU2V0LmFzcHgiPkFwcm9uLCBDaGVm4oCZcyBIYXQgJiBTcG9vbiBTZXQ8L2E+PGltZyBzcmM9Ii9pbWFnZXMvcHJvZHVjdC9pY29uLzExMzcuanBnIiBjbGFzcz0iZGRUaHVtYiIgLz48L2xpPgo8bGk+PGEgaHJlZj0iYy0xNjUtbmV3LXByb2R1Y3RzLmFzcHgiPlZpZXcgQWxsIE5ldyBQcm9kdWN0czwvYT48L2xpPgpkGAIFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRVjdGwwMCRjdGwxMCRVcGRhdGVCdG4FHWN0bDAwJGN0cmxTZWFyY2gkU2VhcmNoQnV0dG9uBRhjdGwwMCRjdGwxMCRncmRfbWluaWNhcnQPPCsACgEIZmSDyVhkKXPsNqfkZcasqCuEC/qX/A==">
 
 
 <script src="jscripts/formvalidate.js" type="text/javascript"></script>
 <script src="jscripts/core.js" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=X8vHn8lxHnrGaP2FCrzehI_Pn8TiT5Qk7p3NDJRM8960BDZfvbFW038hHNcngphSDHggzHamlfy6yv80tMWV5aOUlIWS8duqlozIJFkNfJX_9CB9qRzsCEepAtEk_iBQ0ehrFc1-0bHqkoYkxrZ1GLGEZJbnz48VaOGaq7LTs9d5atJV0&amp;t=541b13cf" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=6XRNymidzoTM-lTRckOmlMyA125r4QYLnze6xbNoDiE5HzhX_RoDzkG2HjxQ6jkdVJAta2v9ZOxsgH_iw6QX85hQ1lLS3bdbICzw3MIPvuAgVSVgJN8ktRWCg_uTZxfAkCYlPJOTNP0Z_sU3sovg-cq9UcJT64E4GuET-Tc2xOTejyLp0&amp;t=ffffffffb6577bf7" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLk+tHnDQLFvpKdAwLfieCKBCsbjlgH7AopLrB/8rDBcm806HPg">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKM7+XoCwLFvpKdAwLfieCKBBzMBYs6I9iywakTZFatI5kvz1TC">
      
     <div id="mainContainer">
-        
-        
+        <div id="showminicart">
+             
+
+<script language="JavaScript" type="text/javascript">
+    function chkqty(objqty)
+	{
+		if(objqty.value!='' && objqty.value>0){
+			if(objqty.value.indexOf(".")>=0)
+				objqty.value=Math.round(objqty.value);
+			if(objqty.value<1)   
+				objqty.value=1;
+		}else
+			objqty.value=1;
+	}
+</script>
+
+<div id="ctl00_ctl10_pnlMiniCart">
+	
+    
+</div>
+
+        </div>
         <div id="header">
             <a href="default.aspx" alt="OXO Logo"><img src="app_themes/skin_2/images/oxo/logo.jpg" id="logo"></a>
     		<ul id="topSubNav">
 	    		<li><a href="aboutOXO.aspx" class="subNav1">About OXO</a></li>
 		    	<li><a href="storeLocator.aspx" class="subNav2">Store Locator</a></li>
-			    <li><a href="internationalInquiries.aspx" class="subNav3">International Inquiries</a></li>
-			    <li><a href="contactUs.aspx" class="subNav4">Contact Us</a></li>
+			<li><a href="internationalInquiries.aspx" class="subNav3">International Inquiries</a></li>
+                        <li><a href="Registrywedding.aspx" class="subNav5">Reqistries</a></li>
+			<li><a href="contactUs.aspx" class="subNav4">Contact Us</a></li>
 		    </ul>
 		
 		    <span id="ctl00_ctrlSearch" class="searchForm"><div id="ctl00_ctrlSearch_SearchPanel">
-	<input name="ctl00$ctrlSearch$SearchText" type="text" value="SEARCH" id="ctl00_ctrlSearch_SearchText" class="text" onclick="javascript:ClearInputTextBox(this);">&nbsp;<input type="image" name="ctl00$ctrlSearch$SearchButton" id="ctl00_ctrlSearch_SearchButton" class="searchButton" src="app_themes/skin_2/images/oxo/search.jpg" border="0">
+	<input name="ctl00$ctrlSearch$SearchText" type="text" value="SEARCH" id="ctl00_ctrlSearch_SearchText" class="text ac_input" onfocus="javascript:searchfocus(this);" onblur="javascript:searchblur(this);" autocomplete="off">&nbsp;<input type="image" name="ctl00$ctrlSearch$SearchButton" id="ctl00_ctrlSearch_SearchButton" class="searchButton" src="app_themes/skin_2/images/oxo/search.jpg" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctrlSearch$SearchButton&quot;, &quot;&quot;, true, &quot;searchgp&quot;, &quot;&quot;, false, false))" border="0">
 </div></span>
 
             
@@ -167,9 +219,10 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <li><a href="c-138-Office.aspx">Office</a><img src="/images/category/icon/138.jpg" class="ddThumb"></li>
 <li><a href="c-142-Cleaning   Laundry.aspx">Cleaning &amp; Laundry</a><img src="/images/category/icon/142.jpg" class="ddThumb"></li>
 <li><a href="c-154-Gardening.aspx">Gardening</a><img src="/images/category/icon/154.jpg" class="ddThumb"></li>
+<li><a href="c-159-Baby   Toddler.aspx">Baby &amp; Toddler</a><img src="/images/category/icon/159.jpg" class="ddThumb"></li>
 <li><a href="c-598-Sets.aspx">Sets</a><img src="/images/category/icon/598.jpg" class="ddThumb"></li>
 <li><a href="c-599-Replacement Parts   Refills.aspx">Replacement Parts &amp; Refills</a><img src="/images/category/icon/599.jpg" class="ddThumb"></li>
-<li><a href="c-159-Baby   Toddler.aspx">Baby &amp; Toddler</a><img src="/images/category/icon/159.jpg" class="ddThumb"></li>
+<li><a href="c-602-Gift Ideas.aspx">Gift Ideas</a><img src="/images/category/icon/602.jpg" class="ddThumb"></li>
 
 					</ul>
 					<img src="app_themes/skin_2/images/oxo//bottomShadow.png" class="bottomShadow">
@@ -192,15 +245,15 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 				<div class="ddWrapper">
 					<ul class="dropdown">
-						<li><a href="p-977-Sippy Cup with Handles - 7 oz.aspx">Sippy Cup with Handles - 7 oz</a><img src="/images/product/icon/6102900.jpg" class="ddThumb"></li>
-<li><a href="p-990-Training Cup - 7 oz.aspx">Training Cup - 7 oz</a><img src="/images/product/icon/6102400.jpg" class="ddThumb"></li>
-<li><a href="p-1013-4 Piece Feeding Set.aspx">4 Piece Feeding Set</a><img src="/images/product/icon/6107200.jpg" class="ddThumb"></li>
-<li><a href="p-1032-Bottle Brush with Nipple Cleaner   Stand.aspx">Bottle Brush with Nipple Cleaner &amp; Stand</a><img src="/images/product/icon/6207700.jpg" class="ddThumb"></li>
-<li><a href="p-1033-Bottle Drying Rack.aspx">Bottle Drying Rack</a><img src="/images/product/icon/6201700.jpg" class="ddThumb"></li>
-<li><a href="p-1038-Whale Pail™.aspx">Whale Pail™</a><img src="/images/product/icon/6201500.jpg" class="ddThumb"></li>
-<li><a href="p-718-Classic Kettle - Brushed Stainless Steel.aspx">Classic Kettle - Brushed Stainless Steel</a><img src="/images/product/icon/1479500.jpg" class="ddThumb"></li>
-<li><a href="p-878-Corn Peeler.aspx">Corn Peeler</a><img src="/images/product/icon/1192100.jpg" class="ddThumb"></li>
-<li><a href="p-733-Stainless Steel Ice Cream Scoop.aspx">Stainless Steel Ice Cream Scoop</a><img src="/images/product/icon/1191000.jpg" class="ddThumb"></li>
+						<li><a href="p-1147-Sprout High Chair Pink/Walnut.aspx">Sprout High Chair Pink/Walnut</a><img src="/images/product/icon/6335500.jpg" class="ddThumb"></li>
+<li><a href="p-1144-5 Piece SteeL POP Container Set.aspx">5 Piece SteeL POP Container Set</a><img src="/images/product/icon/3109300.jpg" class="ddThumb"></li>
+<li><a href="p-1143-5 Piece SteeL PressTop Container Set.aspx">5 Piece SteeL PressTop Container Set</a><img src="/images/product/icon/3106000.jpg" class="ddThumb"></li>
+<li><a href="p-1142-3 Piece Peeler Set.aspx">3 Piece Peeler Set</a><img src="/images/product/icon/1137680.jpg" class="ddThumb"></li>
+<li><a href="p-1140-Two-Fold Grater.aspx">Two-Fold Grater</a><img src="/images/product/icon/1128480.jpg" class="ddThumb"></li>
+<li><a href="p-1139-Container Grater.aspx">Container Grater</a><img src="/images/product/icon/1122280.jpg" class="ddThumb"></li>
+<li><a href="p-1138-Medicine Cabinet Toothbrush   Toothpaste Organizer.aspx">Medicine Cabinet Toothbrush &amp; Toothpaste Organizer</a><img src="/images/product/icon/1329380.jpg" class="ddThumb"></li>
+<li><a href="p-1137-Apron, Chef’s Hat   Spoon Set.aspx">Apron, Chef’s Hat &amp; Spoon Set</a><img src="/images/product/icon/1137.jpg" class="ddThumb"></li>
+<li><a href="c-165-new-products.aspx">View All New Products</a></li>
 
 					</ul>
 
@@ -211,8 +264,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             
 		    <div id="accountArea">
 			    <a href="account.aspx" class="yourAccount">Your Account</a>
-			    <a href="shoppingcart.aspx" class="headerCart">Cart</a>
-			    
+			    <a href="#" onclick="showhidemincart();" class="headerCartArrow">Arrow</a>
+			    <div class="CartCount">(0)</div>
+			    <a href="#" onclick="showhidemincart();" class="headerCart">Cart</a>
 		    </div>
 		</div>
 
@@ -326,23 +380,25 @@ All website design, graphics, text selections arrangement, and software are Copy
 			    <div id="social">
 				    <img src="app_themes/skin_2/images/oxo/connectWithUs.jpg">
 				    <a href="http://www.facebook.com/OXO" target="_blank" id="facebook">Facebook</a>
-				    <a href="http://twitter.com/oxogoodgrips" target="_blank" id="twitter">Twitter</a>
+				    <a href="http://twitter.com/oxo" target="_blank" id="twitter">Twitter</a>
 				 </div>
 			    <div id="newsletter">			
 				    <img src="app_themes/skin_2/images/oxo/signUp.jpg">
 				    <span action="">
-					    <input type="text" class="text" value="Enter Email Address" id="subscriptionemail" onclick="javascript:ClearInputTextBox(this);">
+					    <input type="text" class="text" value="Enter Email Address" id="subscriptionemail" onfocus="this.value='';" onblur="checkblur(this)">
 					    <input type="button" class="mainButton" value="subscribe" onclick="Subscribe()">
 					    <script type="text/javascript">
 					    function Subscribe() {
 					         window.location = 'subscribeConfirm.aspx?addr=' + document.getElementById('subscriptionemail').value;
-					         }
+					    }
+                                            function checkblur(obj){
+					    if (obj.value==""){obj.value="Enter Email Address";}
+					    }
 					    </script>
 				    </span>
 			    </div>
 			    <div id="stores">
-				    <a href="http://www.oxo-uk.com" id="england" target="_blank">OXO U.K.</a>
-
+				    <a href="http://www.oxouk.com" id="england" target="_blank">OXO U.K.</a>
 				    <a href="http://www.oxojapan.com" id="japan" target="_blank">OXO Japan</a>
 			    </div>
 			    <span id="freeShipping">Free Shipping</span>
@@ -351,7 +407,6 @@ All website design, graphics, text selections arrangement, and software are Copy
 		    <div id="footerLinks">
 			    <ul>
 				    <li><h4><a href="ContactUs.aspx">Contact Us</a></h4></li>
-
 				    <li><a href="ContactUs.aspx">Customer Service</a></li>
 				    <li><a href="StoreLocator.aspx">Store Locator</a></li>
 				    <li><a href="MediaInquiries.aspx">Media Inquiries</a></li>
@@ -370,23 +425,44 @@ All website design, graphics, text selections arrangement, and software are Copy
 				    <li><a href="http://www.hotus.com/inv/index.cfm?id=INS" target="_blank">Investor Relations</a></li>
     				
 			    </ul>
+    			<ul>
+    			    <li><h4><a href="Recipes.aspx">Interactive Content</a></h4></li>
+				    <li><a href="bloggeroutreach/" target="_blank">Blogger Outreach</a></li>
+				    <li><a href="Videos.aspx">Videos</a></li>
+				    <li><a href="Recipes.aspx">Recipes</a></li>
+			            <li><a class="show_hide" style="cursor:pointer;">Registries</a></li>
+			            <div class="slidingDiv" style="display: none;"><ul>
+		                    <li>&nbsp;&nbsp;&nbsp;<a href="Registrywedding.aspx">Wedding</a></li>
+				    <li>&nbsp;&nbsp;&nbsp;<a href="Registrybaby.aspx">Baby</a></li>
+				    <li>&nbsp;&nbsp;&nbsp;<a href="RegistryRegister.aspx">Where to Register</a></li>
+				    </ul>
+				    </div>
+
+    			</ul>
     			
     			<ul>
     			    <li><h4><a href="privacypolicy.aspx">Privacy Policy</a></h4></li>
     			</ul>
-			    
 			    <ul>
 				    <li><h4><a href="Terms.aspx">Terms &amp; Conditions</a></h4></li>
-    				
 			    </ul>
+<table id="veriTable" width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
+<tbody><tr>
+<td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.oxo.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
+<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
+</tr>
+</tbody></table>
+
 		    </div>
 		
 	    </div>
+        
 	</div>
 
     
     <!-- wrapper -->
     </form>
+
     <table border="0" width="100%">
         <tbody><tr>
             <td align="center" width="100%">
