@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopruger.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606131111id_/http%3A//shopruger.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopruger.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205021805id_/http%3A//shopruger.com/privacy.asp) for the most accurate reproduction.*
 
 # -Sturm, Ruger & Co., Inc.
 
