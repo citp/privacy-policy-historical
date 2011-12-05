@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softbuy.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605071836id_/http%3A//www.softbuy.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softbuy.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205215616id_/http%3A//www.softbuy.com/policy) for the most accurate reproduction.*
 
 # 
 
