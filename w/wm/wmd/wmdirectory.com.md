@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmdirectory.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527233721id_/http%3A//www.wmdirectory.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmdirectory.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205140304id_/http%3A//www.wmdirectory.com/privacy.htm) for the most accurate reproduction.*
 
 # WMDirectory - Privacy Policy
 
