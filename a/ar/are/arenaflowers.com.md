@@ -1,33 +1,7 @@
-> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227125122id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206005406id_/http%3A//www.arenaflowers.com./privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| 
-
-|   | 
-
-[](http://www.arenaflowers.com/flowers/winter-flowers?utm_medium=grid-banner&utm_source=special-offer-banner)
-
-|    
----|---|---  
-|  | 
-
-[](http://www.arenaflowers.com/flowers/bright_and_cheery?utm_medium=grid-banner&utm_source=special-offer-banner)
-
-|  | 
-
-Special Offer
-
-Bright And Cheery
-
-  
-~~~~**£34.99**  
-  
----  
-[](http://www.arenaflowers.com/flowers/bright_and_cheery?utm_medium=grid-banner&utm_source=special-offer-banner)  
-[](http://www.arenaflowers.com/flowers/price/gift_ideas_special_offers?utm_medium=grid-banner&utm_source=special-offer-banner)  
-[](http://www.arenaflowers.com/flowers/winter-flowers?utm_medium=grid-banner&utm_source=special-offer-banner)  
-  
   
 1\. Arena Online Limited, trading as “ArenaFlowers.com” (“Arena Flowers”or "we") is committed to protecting your privacy.  We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 & subsequent revisions thereof).  We are registered with the Data Controller, in accordance with  the Data Protection Act.  We collect information about you for three reasons:
 
@@ -73,7 +47,13 @@ W3 0TJ
 
 10\. If we intend to transfer your information outside the EEA (European Economic Area) for uses other than order fulfillment, we will always obtain your consent first. 
 
-11\. We may use technology to track the patterns of behaviour of registered and non-registered visitors to our site. This can include using a "cookie" which would be stored on your computer.  You can usually modify your browser to prevent this happening (for example, using Internet Explorer select 'internet options' from the 'tools' menu, then click 'security', followed by 'custom level' and select 'disable cookies').  The information collected in this way can be used to identify you unless you modify your browser settings.  We may also aggregate this data to perform statistical analyses of the characteristics and behaviour of our registered users and non-registered visitors, in order to help us improve the functionality of our site for our users.  Cookies are also used as a further means of ensuring private and secure purchase sessions are operated within the site. 
+11\. We use cookies on this website in a number of ways including the checkout process so the page remembers the product(s) you have chosen. We also use cookies to help tailor your shopping experience to your needs whilst also making your visit to our website more efficient. This is done by collecting certain pieces of personal data about you in a small data file known as a cookie and stored on your computer / internet device. Please note that this is a very common practice with websites and that a cookie cannot harm your computer in any way. The data we store does NOT contain transactional information such as credit card details and is also encrypted.
+
+It is important to understand that you will not be able to order from our website if you do not accept the cookie we place on your computer. To make sure you can accept cookies, you can check your browser settings [here](http://www.arenaflowers.com/privacy_policy/browser_settings). 
+
+Arena Flowers considers the settings you have selected in your browser as your consent for us to issue you with cookies. If however you decide you do not want to order from us and also want to turn off the ability to accept cookies you can find details on how cookies are enabled on your browser by clicking [here](http://www.arenaflowers.com/privacy_policy/browser_settings). By doing this you will still be able to browse our website and contact our customer service team in order to place the order on: 0800 0350 581 (Free) International: +44 (0)20 8993 5400 or via email on [customer @ arenaflowers.com](mailto:customer@arenaflowers.com)
+
+For more information regarding cookies and how the affect you please visit this site: http://www.youronlinechoices.com 
 
 12\. We may use third-party advertising companies to serve advertisements on our behalf.  These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness.  Any information that these third parties collect via cookies and action tags is completely anonymous.  Your browser can be modified to not accept cookies - guidance for which is provided in the paragraph above. 
 
@@ -95,7 +75,7 @@ Thank you for visiting Arena Flowers.
 
 ## The Arena Flowers Team
 
-[](https://web.archive.org/web/) |    
+|    
 ---|---  
 **An experience delivered**  
   
