@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cantonrep.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611031857id_/http%3A//www.gatehousemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cantonrep.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205110928id_/http%3A//www.gatehousemedia.com/privacy) for the most accurate reproduction.*
 
-# GateHouse Media, Inc. - Privacy Policy
+# GateHouse Media, Inc. Publications
 
 This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. ("Gatehouse") and certain of Gatehouse's subsidiaries, including this website (the "websites").   
 
@@ -73,12 +73,16 @@ If you have any questions about this Privacy Policy or you wish to make changes 
 
 E-mail us at: [webmaster@gatehousemedia.com ](mailto:webmaster@gatehousemedia.com?subject=Privacy%20Policy)
 
-[Write to us at:   
+Write to us at:   
 Webmaster  
 GateHouse Media, Inc.  
 350 WillowBrook Office Park  
-Fairport, NY 14450](mailto:webmaster@gatehousemedia.com?subject=Privacy%20Policy)
+Fairport, NY 14450
 
-[Call us at: (585) 598-0030 and ask for the GateHouse webmaster](mailto:webmaster@gatehousemedia.com?subject=Privacy%20Policy)
+Call us at: (585) 598-0030 and ask for the GateHouse webmaster
 
-[Last revised April 2010](mailto:webmaster@gatehousemedia.com?subject=Privacy%20Policy)
+Last revised April 2010
+
+GateHouse Media, Inc.   
+350 WillowBrook Office Park, Fairport, NY 14450  
+Phone: (585) 598-0030 | Fax: (585) 248-2631
