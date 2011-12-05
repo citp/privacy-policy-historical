@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bodylogicmd.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224180642id_/http%3A//www.bodylogicmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodylogicmd.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205172609id_/http%3A//www.bodylogicmd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective 11/10/2010**
+**Effective 02/08/2011**
 
 ## Privacy Notice Table Of Contents:
 
@@ -17,11 +17,11 @@
 
 ## Our Commitment To Privacy:
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our [homepage](http://www.bodylogicmd.com/) and at every point where personally identifiable information may be requested.
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our [homepage](https://web.archive.org/) and at every point where personally identifiable information may be requested.
 
 ## The Information We Collect:
 
-This notice applies to all information collected or submitted on [www.bodylogicmd.com](http://www.bodylogicmd.com/). On some pages you may request additional information. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on [www.bodylogicmd.com](https://web.archive.org/). On some pages you may request additional information. The types of personal information collected at these pages are:
 
   * Full Name
   * Email address
@@ -42,9 +42,7 @@ On some pages, you can submit information about other people. In this circumstan
 
 ## The Way We Use Information:
 
-We use the information you provide about yourself to contact you regarding your interest in bioidentical hormone replacement with BodyLogicMD’s customized programs. We do not share this information with outside parties except to the extent necessary to complete that order.
-
-We use the information you provide about someone else to pay out as described in our Share the Health program. We do not share this information with outside parties except to the extent necessary to complete that order.
+We use the information you provide about yourself to contact you regarding your interest in bioidentical hormone replacement with BodyLogicMD's customized programs. We do not share this information with outside parties except to the extent necessary to complete that order.
 
 We use return email addresses to answer the email and requests we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
@@ -74,4 +72,4 @@ Or contact us at our physical address:
 Suite 200  
 Boca Raton, FL 33431
 
- _Note: Personal information consists of anything that would be used to uniquely identify, contact or locate a single person._
+_Note: Personal information consists of anything that would be used to uniquely identify, contact or locate a single person._
