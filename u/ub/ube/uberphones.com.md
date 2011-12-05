@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the uberphones.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508053723id_/http%3A//www.uberphones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberphones.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205232416id_/http%3A//www.uberphones.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Uberphones
-
-  
-
+# Privacy Policy | Uberphones
 
 **Uberphones.com Privacy Statement**
 
@@ -54,5 +51,3 @@ Whenever Uberphones changes our privacy policy, we will post those changes to th
 **Contact Information**
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at contact@Uberphones.com
-
-Link | [Add a Comment](http://www.uberphones.com/2006/01/privacy-policy/#comments)
