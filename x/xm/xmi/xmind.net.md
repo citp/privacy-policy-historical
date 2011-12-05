@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210213id_/http%3A//www.xmind.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205144014id_/http%3A//www.xmind.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - XMind - Mind Mapping and Storming
 
@@ -27,7 +27,7 @@ We may also ask for personal information related to your use of our products and
 
 
 
-### INFORMATION THAT IS PUBLICLY AVAILAB
+### INFORMATION THAT IS PUBLICLY AVAILABLE
 
   * When you create an account on the Site, some information about your account and your account activity will be provided to other users of the Site. This may include the date you opened your account, the date you last logged into your account, your age (if you choose to make it public), the country and the number of content items you have viewed.
   * Your account name (not your email address) is displayed to other users when you engage in certain activity on the Site, such as when you upload content or send messages through the Site. Other users can contact you through messages and comments.
