@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgalley.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607033508id_/http%3A//www.netgalley.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgalley.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205135257id_/http%3A//www.netgalley.com/about/privacy) for the most accurate reproduction.*
 
 # NetGalley : Privacy Policy
 
@@ -60,7 +60,7 @@ Please remember that any information or images that you share in public areas su
 
 **Governing Law and Assignment**
 
-This Website is published in the United States and is intended for users in the United States. U.S. law will govern in any and all disputes arising out of or relating to this Policy or use of this Website.
+This Website is published in the United States. U.S. law will govern in any and all disputes arising out of or relating to this Policy or use of this Website.
 
 NetGalley LLC may change ownership or corporate organization while providing this Website and related services. As a result, NetGalley LLC may sell, transfer, assign, or otherwise share your information to another entity that is affiliated with NetGalley LLC, with which it has merged, or to which NetGalley LLC, or the portion of NetGalley LLC's assets related to this Policy, are sold. Under such circumstances, NetGalley LLC would, to the extent possible, require the acquiring party to follow the practices described in this Policy, as it may be amended from time to time.
 
