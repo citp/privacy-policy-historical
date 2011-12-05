@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the i-newswire.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623055214id_/http%3A//www.i-newswire.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-newswire.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205220118id_/http%3A//www.i-newswire.com/privacy-policy.php) for the most accurate reproduction.*
 
 # I-Newswire.com Privacy Policy
 
 I-Newswire.com staff and editors can be reached via e-mail at [inewswiresupport@gmail.com](mailto:inewswiresupport@gmail.com)  
-or you can reach us by telephone at 347-789-7774
+or you can reach us by telephone at 347-789-7779
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
