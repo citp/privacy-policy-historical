@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deployhq.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509012925id_/http%3A//www.deployhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deployhq.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205110637id_/http%3A//www.deployhq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Deploy
 
@@ -39,5 +39,3 @@ Deploy does not store your payment card details on it's system and Deploy staff 
 ### Feedback
 
 Please send any comments, suggestions or complaints to support@deployhq.com.
-
-Hosting provided by the awesome guys at [serverlove](http://www.serverlove.com/) — the scalable cloud hosting platform you'll love.
