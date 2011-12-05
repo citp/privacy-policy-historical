@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futegoal.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521010953id_/http%3A//www.futegoal.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futegoal.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205224501id_/http%3A//www.futegoal.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Live Highlights
+# Privacy Policy - Live Free
 
 At futegoal.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by futegoal.com and how it is used.
 
