@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicelectronix.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518192037id_/http%3A//www.sonicelectronix.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicelectronix.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205051444id_/http%3A//www.sonicelectronix.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ We ask you for certain kinds of personal information in order to provide you wit
 
 In addition, our site utilizes 'cookies.' Cookies do not gather any of your personally identifiable information. They do allow us to provide you with a more personalized shopping experience and enable you to fully interact with and complete your transaction on our site.
 
-We don't sell or rent your personal information to third parties for their marketing purposes under any circumstances.
+We may partner with companies to display ads on third-party sites. The partners' applications may use cookies and other code to measure the effectiveness of our ads and to determine the display of ads to you based on your interests both on our site, as well as third party sites you may visit. The information collected is always anonymous, and does not enable any third party to identify you individually. If you prefer not to participate in these services, you can opt-out of this activity by visiting our partner's Opt-Out page by [clicking here](http://www.owneriq.com/opt-out).
 
 **What are cookies?**
 
