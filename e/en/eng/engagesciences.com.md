@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engagesciences.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503155252id_/http%3A//engagesciences.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagesciences.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205143735id_/http%3A//www.engagesciences.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | EngageSciences
 
@@ -12,6 +12,7 @@ We may collect the following information:
   * contact information including email address
   * demographic information such as postcode, preferences and interests
   * other information relevant to customer surveys and/or offers
+  * If you submit an order on-line with us, we will ask you for information necessary to complete the transaction – such as your name, address, and credit card number, and to allow you to purchase and download products, obtain access to service and technical support, or otherwise utilize products or services that you have selected, as well as technical data concerning your computer or traffic data incidental to your Internet connection. Additionally, you may be asked in cases where software is sold pursuant to subscription, to establish an account with us in order to obtain the software.
 
 
 
@@ -23,6 +24,7 @@ We require this information to understand your needs and provide you with a bett
   * We may use the information to improve our products and services.
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+  * The processing and transfer of the purchase data are limited to the following purposes: fulfillment of your order(s)/contract(s), extension/delivering product updates/service-subscriptions, product activation, customer and technical support as you may request it from time to time, processing subscription renewals as you may request it from time to time, and internal (compliance) audits and fraud prevention.
 
 
 
