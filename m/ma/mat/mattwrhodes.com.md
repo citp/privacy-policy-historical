@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mattwrhodes.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606125105id_/http%3A//mattwrhodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattwrhodes.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205025741id_/http%3A//mattwrhodes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Matt W. Rhodes
+# Privacy Policy « Matt Rhodes Internet Marketing
 
 **1\. Our Commitment to Privacy.** This notice describes the Privacy Policy of [Matt W. Rhodes](http://mattwrhodes.com/) and [MattWRhodes.com](http://mattwrhodes.com/). Our Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy.
 
