@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icould.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514023258id_/http%3A//icould.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icould.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205010408id_/http%3A//icould.com/privacy-policy) for the most accurate reproduction.*
 
 # icould.com’s Privacy Policy
 
