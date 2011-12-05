@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxo.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022154148id_/http%3A//www.oxo.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxo.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205010609id_/http%3A//www.oxo.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # OXO - Tools you hold on to.
 
