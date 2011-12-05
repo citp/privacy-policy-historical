@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the classifiedads.com privacy policy that was archived on 2011-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629061720id_/http%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the classifiedads.com privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205021758id_/http%3A//www.classifiedads.com/info.php%3Fprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>Privacy Policy</title>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 <meta name="description" content="Free classified ads for cars, jobs, real estate, and everything else. Find what you are looking for or create your own ad for free!">
 <meta name="keywords" content="free, classifieds, classified ads">
-<meta name="viewport" content="initial-scale=1.0, width=divice-width, user-scalable=yes">
-<link rel="stylesheet" type="text/css" media="screen" href="/css-default_b.css?v=17">
-<link rel="alternate stylesheet" type="text/css" media="screen" title="mobile" href="/mobile-default_b.css?v=17" disabled="">
-<link rel="stylesheet" type="text/css" media="handheld, only screen and (max-device-width: 640px)" href="/mobile-default_b.css?v=17">
-<script src="http://static.chartbeat.com/js/chartbeat.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/codecache/cache.js?v=17"></script>
+<meta name="viewport" content="initial-scale=1.0, width=device-width, user-scalable=yes">
+<link rel="stylesheet" type="text/css" media="screen" href="/css-26-default.css">
+<link rel="alternate stylesheet" type="text/css" media="screen" title="mobile" href="/mobile-26-default.css">
+<link rel="stylesheet" type="text/css" media="handheld, only screen and (max-device-width: 640px)" href="/mobile-26-default.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/codecache/26/cache.js"></script>
 <script>var _sf_startpt=(new Date()).getTime()</script>
 <link href="http://www.classifiedads.com/search.rss?keywords=" type="application/rss+xml" rel="alternate" title="ClassifiedAds.com RSS Feed">
 <script>
@@ -28,7 +28,7 @@ _gaq.push(['_trackPageview']);
  <div class="titleend">
   <a class="ceilingcat" rel="nofollow" href="http://www.classifiedads.com/login.php">Log in</a>
   <a class="ceilingcat" rel="nofollow" href="http://www.classifiedads.com/info.php?help">Help</a>
-  <a class="ceilingcat" rel="nofollow" href="http://www.classifiedads.com/post.php" id="postlink">Post an Ad (free)</a>
+  <a class="ceilingcat" rel="nofollow" href="http://www.classifiedads.com/post.php">Post an Ad (free)</a>
  </div>
  <div class="clearer"></div>
 </div>
@@ -97,25 +97,21 @@ try{ template_endbody(); }catch(e){ }
 
 <script>
 var _sf_async_config={uid:7230,domain:"classifiedads.com"};
-window.onload=function(){
- var posta = document.getElementById("postlink");
- if( posta ) posta.href="http://www.classifiedads.com/post.php";
+$(document).ready(function(){
 
  sizecheck();
+ try{secret_docready();}catch(e){};
  //CHARTBEAT:
  window._sf_endpt=(new Date()).getTime();
  var ref = document.getElementsByTagName("script")[0];
  var e = document.createElement("script"); e.src = "http://static.chartbeat.com/js/chartbeat.js";
  ref.parentNode.insertBefore(e, ref);
-}
+});
 function setstyle(title){
- var ss=document.getElementsByTagName("link");
- for(var i=0,n=ss.length;i<n;i++) {
-  var a=ss[i], atitle= a.getAttribute("title");
-  if(a.getAttribute("rel").indexOf("style")!=-1 && atitle) {
-   a.disabled = (atitle != title);
-  }
- }
+ var altsheet=$('link[rel*=style][title=mobile]');
+ altsheet.attr('disabled','disabled');
+ if(title=='mobile')
+  altsheet.removeAttr('disabled');
 }
 function sizecheck(){
  var w=800;
@@ -142,7 +138,7 @@ _qoptions={ qacct:"p-faUaWlqsyFbsE" };
 <script>
 var Tynt=Tynt||[];Tynt.push("biQTSuyxur4kGJadbi-bpO");Tynt.i={"ap":"Read more:"};
 $(document).ready(function() {
-  $("#round1form")
+  $("#round1form, #round1form-low")
     .submit(function() {
       var i = $(this).find("input[data-suggest]");
       i.val() == i.data("suggest") && i.val("");
@@ -165,7 +161,7 @@ $(document).ready(function() {
   }
 });
 </script>
-<script src="/_/awstats_misc_tracker.js"></script><img src="/_/tracker.gif?screen=800x600&amp;win=1366x768&amp;cdi=24&amp;java=false&amp;shk=n&amp;svg=n&amp;fla=n&amp;rp=n&amp;mov=n&amp;wma=n&amp;pdf=n&amp;uid=awsuser_id1580463160755r1500&amp;sid=awssession_id1580463160755r1500" height="0" width="0" border="0">
+<script src="/_/awstats_misc_tracker.js"></script><img src="/_/tracker.gif?screen=800x600&amp;win=1366x768&amp;cdi=24&amp;java=false&amp;shk=n&amp;svg=n&amp;fla=n&amp;rp=n&amp;mov=n&amp;wma=n&amp;pdf=n&amp;uid=awsuser_id1580463162356r9666&amp;sid=awssession_id1580463162356r9666" height="0" width="0" border="0">
 <noscript><img src="/_/tracker.gif?nojs=y" height=0 width=0 border=0 style="display:none;"></noscript>
 
 
