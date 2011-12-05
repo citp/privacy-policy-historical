@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimey.tv privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207060428id_/http%3A//jimey.tv/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimey.tv privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205125820id_/http%3A//jimey.tv/privacy-policy.php) for the most accurate reproduction.*
 
 # Live video - Live streaming - Jimey.tv
 
