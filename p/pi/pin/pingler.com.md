@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pingler.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219223957id_/http%3A//pingler.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingler.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205010204id_/http%3A//www.pingler.com/information/privacy-policy.html) for the most accurate reproduction.*
 
-# Blog and Ping Tool - Use Pingler.com to Drive Traffic your Blogs and Websites
+# Privacy Policy
 
 We respect your privacy and are committed to safeguarding your privacy while online at pingler.com. The following discloses the information gathering and dissemination practices for pingler.com. 
 
@@ -46,5 +46,5 @@ pingler.com uses outside ad companies to display ads, such as Google Adsense. Th
 
 ### Links to Advertisers and Affiliate Companies Privacy Policies
 
-[Google's privacy policy](http://www.google.com/privacypolicy.html)  
-
+  
+[Google's privacy policy](http://www.google.com/privacypolicy.html)
