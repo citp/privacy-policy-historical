@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221185603id_/http%3A//www.chefscatalog.com/service/security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chefscatalog.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205172400id_/http%3A//www.chefscatalog.com/service/security.aspx) for the most accurate reproduction.*
 
 # CHEFS: The Best Kitchen Starts Here
 
@@ -27,7 +27,7 @@ From your purchases and other interactions with us, we obtain information concer
 
 To improve our Web site, we collect non-personal information about how users navigate through the site. We may share this non-personally identifiable information with our affiliates or other outside companies.
 
-**How we use the information we collect**  
+ **How we use the information we collect**  
 We use the information we collect for various purposes, including:  
 to complete your purchase transactions  
 to provide the services you request  
@@ -56,14 +56,14 @@ Please note that many promotions and mailings are completed well in advance, so 
 
 Further, you can visit the [NAI's Web Site](http://www.networkadvertising.org/managing/opt_out.asp) to opt out of having all NAI member advertising networks collect non-personally identifiable information for use in targeted advertising. When you opt-out using this method an opt-out cookie will be placed on your browser. You should note that if you delete, block or otherwise restrict cookies, or if you use a different computer or browser, you may need to renew your opt-out choice. Once you have opted out, information that was collected to help deliver targeted advertisements will no longer be used. However, we may use such information for related purposes described above, including to support and complete current on-line interactions, to facilitate Web site and system administration, and for research and development, as well as for other purposes unrelated to targeted advertising outside of www.chefscatalog.com.
 
-**Cookies and how we use them**  
+ **Cookies and how we use them**  
 A "cookie" is a small data file stored by your Web browser on your computer's hard drive. It allows us to recognize your computer (but not specifically who is using it) upon entering our site by associating the identification numbers in the cookie with other customer information you have provided us. That customer information is stored on our secured database.
 
 We use cookies to identify the pages you click on during your visit to our site and the name of the Web site you visited immediately before clicking to chefscatalog.com. We use this information to improve our site design, product assortments, customer service, and special promotions.
 
 We may contract with third parties who may use cookies and collect information on our behalf or provide services such as credit card processing, shipping, promotional services or data management.
 
-**Children's privacy**  
+ **Children's privacy**  
 The Children's Online Privacy Protection Act took effect on April 21, 2000. It imposes certain requirements on Web sites directed at children under 13 that collect information on those children, and on Web sites that knowingly collect information on children under 13.
 
 We do not knowingly collect any personal information from children under the age of 13 on our Web site, and our online sweepstakes are restricted to entrants who are at least 18 years old.
