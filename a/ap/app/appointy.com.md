@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appointy.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120162004id_/http%3A//appointy.com/newweb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointy.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205184607id_/http%3A//www.appointy.com/newweb/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Appointy :: Privacy Policy
 
 Appointy, Inc. owns and provides various websites, services, and software that facilitate online scheduling of appointments (collectively, the “Services”).  Appointy, Inc. respects your privacy and values your trust.  In this Privacy Policy, we may refer to Appointy, Inc. as “Appointy,” “us,” or “we.” “Business User” shall refer to any business using the Services for online scheduling and appointment management purposes.    “Consumer” shall refer to an end consumer using the Services to schedule or modify an appointment, provide feedback or submit a review, or utilize any other aspect of the Services.  “You” shall refer to both Consumers and Business Users.  The following Privacy Policy outlines how Appointy will treat information as you use the Services. BY USING THE SERVICES, YOU ACCEPT THE TERMS SET FORTH IN THIS PRIVACY POLICY AND IN OUR TERMS OR USE.    
 Appointy reserves the right, at its sole discretion, to change, modify, update, add, or remove portions of this Privacy Policy at any time, with or without notice to you. Please check this Privacy Policy periodically for changes.  For Business Users, this Privacy Policy will be available in the “My Account” section of the Appointy website.  Your continued use of the Services after the posting of any changes to the Privacy Policy will signify your acceptance of those changes.    
@@ -49,7 +49,7 @@ Appointy will not share a Business User schedule with anyone, except to the exte
 
   
 _Other Sharing of Information_   
-We may release information when necessary to comply with the law or a court order or an investigation.  We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our Terms of Use (at [http://www.Appointy.com/newweb/Terms-of-use.html](https://web.archive.org/web/20110120162004id_/http%3A//appointy.com/newweb/Terms-of-use.html)).     
+We may release information when necessary to comply with the law or a court order or an investigation.  We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our Terms of Use (at [http://www.Appointy.com/newweb/Terms-of-use.html](https://web.archive.org/web/20111205184607id_/http%3A//www.appointy.com/newweb/Terms-of-use.html)).     
 In the event that we, in whole or in part, establish a partnership with another company, or are acquired by or merged with another company, information we collect may be transferred to the partner or the acquiring or merging company at time such merger, acquisition, or partnership is closed and to the extent necessary to fulfill our obligations under such merger, acquisition, or partnership.  
 
   
