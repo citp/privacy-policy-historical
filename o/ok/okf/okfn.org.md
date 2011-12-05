@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the okfn.org privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504125527id_/http%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okfn.org privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205151931id_/http%3A//okfn.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Open Knowledge Foundation
 
@@ -32,7 +32,7 @@ Page edits, comments, trackbacks, and pingbacks and other activity on our websit
 
 If you are concerned about attempts to match your IP address to your identity, you may wish to use an anonymous browsing service or attempt some means to obfuscate your real IP address.
 
-If so, you might like to try Tor, an anonymous browsing service. Please see http://tor.eff.org/ for more details.
+If so, you might like to try Tor, an anonymous browsing service. Please see <http://tor.eff.org/> for more details.
 
 ## Cookies
 
