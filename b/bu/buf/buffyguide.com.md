@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffyguide.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610025448id_/http%3A//buffyguide.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffyguide.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205235349id_/http%3A//www.buffyguide.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - BuffyGuide.com
 
