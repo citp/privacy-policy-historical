@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightstart.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230004554id_/http%3A//www.rightstart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightstart.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205201728id_/http%3A//www.rightstart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rightstart.com
 
