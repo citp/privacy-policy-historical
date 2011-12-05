@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miami.edu privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609195934id_/http%3A//www.miami.edu/index.php/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miami.edu privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205224123id_/http%3A//www.miami.edu/index.php/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement and Legal Notices | University of Miami
 
