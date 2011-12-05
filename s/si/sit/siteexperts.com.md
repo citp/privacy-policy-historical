@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteexperts.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621062013id_/http%3A//www.siteexperts.com/info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteexperts.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205082700id_/http%3A//www.siteexperts.com/info/Privacy.asp) for the most accurate reproduction.*
 
 # SiteExperts.com Privacy Statement
 
@@ -73,4 +73,4 @@ A _cookie_ is a small file that can be written and accessed by the site that cre
 
 
 
-Please direct any questions about the SiteExperts.com Privacy Policy to [Privacy@SiteExperts.com](https://web.archive.org/web/20110621062013id_/http%3A//www.siteexperts.com/info/privacy@SiteExperts.com). 
+Please direct any questions about the SiteExperts.com Privacy Policy to [Privacy@SiteExperts.com](https://web.archive.org/web/20111205082700id_/http%3A//www.siteexperts.com/info/privacy@SiteExperts.com). 
