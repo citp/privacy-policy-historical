@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preyproject.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612145841id_/http%3A//preyproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preyproject.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205023804id_/http%3A//preyproject.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Prey
 
@@ -31,3 +31,11 @@ We will not sell or share any of your personal information or information collec
 We may occasionally send you administrative communications regarding your account or the Service via email, to inform you of upgrades, outages and other product related information. 
 
 For further information you can contact us to **questions@usefork.com**.
+
+## It's Cyber Monday!
+
+Upgrade to Pro today and you'll get **35% off** any Pro plan, for lifetime, in addition to a 10% discount you get if you choose to pay by year. Just enter the following code on the Reference Box when [upgrading to Pro](http://panel.preyproject.com/subscription/new): **CYBERMONDAY**. 
+
+Offer expires on midnight today so hurry!
+
+Close
