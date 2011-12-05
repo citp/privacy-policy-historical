@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitydesu.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604060405id_/http%3A//forums.realitydesu.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitydesu.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205225508id_/http%3A//forums.realitydesu.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Reality Desu Community Forums - A Games and Anime Resource Center
 
@@ -7,7 +7,7 @@ and
   
 Last Updated: 5th September 2009 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at kazeari@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at cubedadmin@chencubed.com.
 
 The privacy of our visitors to http://forums.realitydesu.com is important to us.
 
@@ -60,7 +60,7 @@ To try and bring you offers that are of interest to you, we have relationships w
 [vBulletin](http://www.vbulletin.org/forum/info.php?do=privacy)**[](http://www.vbulletin.org/forum/info.php?do=privacy)
 
 **If you have any questions about security on our Web site, you can send email us at:**  
-kazeari@gmail.com
+cubedadmin@chencubed.com
 
 We give users options wherever necessary and practical. Such choices include:  
 Opting not to register to receive our electronic newsletters.  
