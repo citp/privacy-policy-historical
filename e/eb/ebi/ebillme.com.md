@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebillme.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606070601id_/http%3A//www.ebillme.com/legal/privacy-policy-for-shoppers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebillme.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205102112id_/http%3A//www.ebillme.com/legal/privacy-policy-for-shoppers) for the most accurate reproduction.*
 
 # eBillme Privacy Policy: For Shoppers
 
