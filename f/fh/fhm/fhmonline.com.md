@@ -1,26 +1,63 @@
-> *The following text is extracted and transformed from the fhmonline.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215140514id_/http%3A//www.fhmonline.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhmonline.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206003753id_/http%3A//www.fhm.com/privacy) for the most accurate reproduction.*
 
-# FHM.com
+# Privacy Policy | HOME | FHM.com
 
-FHMOnline.com  
-Privacy Policy  
+We’re aware that privacy and security concerns are a major issue so here’s complete clarity on how we will look after any data you provide to FHM.com.
+
+Our privacy policy is actually remarkably simple: you give us your personal data, we will store it securely and never disclose it to any third parties. And we’re fully compliant with all the legal stuff.
+
+Sometimes, we’ll ask you for some personal information and we do this for a variety of reasons, such as:
+
+  * providing personalised services
+  * so we can send out email alerts you may have signed up for
+  * so we can send you promotional emails we think you might like
+  * to help us improve our services
+  * to sell appropriate advertising
 
 
-FHMonline.com is committed to protecting the privacy of personally identifiable information collected about you. We have established this Privacy Policy to help you understand how we intend to treat the personally identifiable information you provide to FHMonline.com. 
 
- We do not control the privacy policies of our advertisers or other web sites to which we provide hyperlinks. You should consult the privacy policies of these other web sites, as we have no control over personally identifiable information that is submitted to, or collected by, these third parties. These other web sites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you.   
-You should also be aware that if you choose to voluntarily disclose personally identifiable information in chat, bulletin board, forum facilities, or through similar means of communication, such personally identifiable information may be collected by others and may result in your receipt of unsolicited messages. 
+You can update your preferences at any time - just login to your account and go to the Settings tab.
 
- FHMonline.com collects information in several ways.  FHMonline.com’s registration and personalization forms may ask users to provide contact information such as their name, email address and zip code. We may ask users to voluntarily provide certain demographic and interest information such as gender and lifestyle interests. Demographic and interest profile data is used to tailor your experience at our web site by showing you content we think you may be interested in, and by displaying the content according to your preferences. We also track the Internet address of the domains from which users access FHMonline.com. We do not collect personally identifiable information from users other than what is supplied to us on a voluntary basis. 
+So basically, whatever you tell us, we won’t tell anyone unless you say we can. It’s that simple. Please take some time to read through our privacy and cookie policy.
 
-FHMonline.com may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to FHMonline.com, and understanding how visitors use the web site. Cookies can also help customize the web site for visitors.  Personally identifiable information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Cookie and tracking information may be shared with third parties.  
-We may use personally identifiable information you provide to send you information about FHMonline.com and promotional materials from third parties whose products and services FHMonline.com believes you may be interested in purchasing, obtaining, or learning more about.  Unless you provide an "opt-out" notice, we may (and you authorize us to) provide your personally identifiable information as part of our visitor and subscriber lists for each such third party to use, if we believe you would be interested in receiving an e-mail or other written or electronic correspondence from any such third party.  Regardless of any opt-out notice, we will provide your personally identifiable information to third parties if we have a good faith belief that the use of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce the FHMonline.com Terms and Conditions of Use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of FHMonline.com, its users or the public as required or permitted by law.   
-FHMonline.com may also contact you regarding your account status, to confirm registration, to notify you when you have won one of our contests or sweepstakes, and for other administrative purposes.  
+## Privacy & Cookie Policy
 
-FHMonline.com takes great care to maintain the security of your personal information and in preventing unauthorized access to it through the use of appropriate technology and internal procedures. However, FHMonline.com does not guarantee that unauthorized access will never occur. 
+  1. Bauer Consumer Media Limited (Bauer) is responsible for the [www.fhm.com](http://www.fhm.com/) website and is committed to protecting your privacy and security.
+  2. From time to time we may invite you to supply personal information in order for us to authenticate your identity or to provide you with services. In order to deliver such services, we will need to process and store your personal information and may need to transfer it to the relevant partner(s), to Bauer’s for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy.
+  3. Bauer is registered in accordance with and seeks to comply with the UK Data Protection Act 1998. We follow appropriate security procedures in the storage and disclosure of personal information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, the Internet is not a totally secure medium and you acknowledge and agree that Bauer shall not be responsible for any unauthorised use, distribution, damage or destruction of personal data, except to the extent We are required to accept such responsibility by the Data Protection Act 1998.
+  4. This Policy only applies to the use that we make of data provided to us via the Internet and email. Other uses may be made of data provided to Bauer in correspondence, by telephone or by other means not detailed in this Policy. These terms apply in addition to [Terms & Conditions Of Use](https://web.archive.org/terms) for the website
+  5. ### Why We Need To Collect Information From You
 
- Children under the age of thirteen should not submit personally identifiable information about themselves to this web site or to any of its associated services.  FHMonline.com is not directed to children under the age of thirteen nor do we knowingly collect personally identifiable information from children under the age of thirteen. If we learn that we have collected any such information without verification of parental consent, we will delete that information from our database as quickly as possible. 
+We will notify you as to the types of information we are collecting about you as well as the uses we intend to make of that information. We may use the information we collect about you to notify you from time to time about important new features and changes to our online services or special offers, competitions or promotions we think you'll find of interest.
+  6. ### Special Promotions
 
- FHMonline.com reserves the right to modify its Privacy Policy at any time.  If we change or update our Privacy Policy, we will post the revised Privacy Policy on this page.  Your continued use of FHMonline.com after FHMonline.com posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy.  As a result, it is important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If FHMonline.com materially changes its practices regarding collection or use of your personally identifiable information, your personally identifiable information will continue to be governed by the Privacy Policy under which it was collected unless you have been provided notice of the change.
+Occasionally a third party may sponsor a promotion, offer, competition or page of the website and you may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. In those circumstances we may wish to provide your personal information to those named third parties. It will be clear at the point of collection who is collecting the personal information and whose privacy policy will apply. You will need to give permission at the time for us to do this.
+  7. ### Who Else Will We Provide Your Data To?
 
-Effective Date: 7/7/08 
+In order to provide goods and services e.g. subscriptions to you we may need to provide your data to our agents and service providers. We may provide aggregate statistics about our users, sales, traffic patterns and related site information to our third-party partners (if any), but these statistics will not contain any information about you from which you could be identified.
+  8. If you enter any competitions on this website it may be necessary for us to provide your personal information to the promoters of the competition or to others that are involved in the organisation of the competition or the prize-giving. You will be asked for permission at the time.
+  9. Also, we may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if Bauer acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with Bauer despite a change of ownership.
+  10. ### Content Posted by You
+
+Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world who may use it to send you unsolicited communications. Furthermore, in some circumstances we may display some of your personal information (name data) when you post material to the website to allow users to identify each other. Also, if you post any content in breach of our Terms & Conditions Of Use we may inform any relevant third parties such as your employer, school e-mail/Internet provider and law enforcement agencies about the content and your behaviour.
+  11. ### Security and possibility of international transfer.
+
+Please note that countries outside the EEA may not have the same level of protection as countries within the EEA, but we always demand that those parties to whom we transfer data adhere to the same security procedures that we follow ourselves. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information.
+  12. ### The Use Of 'Cookies'
+
+In order to enable us to provide you with a personalised browsing experience, this site uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to this website, and to ascertain the most popular features of this website.
+  13. ### Why Do We Use Cookies
+
+Like many other websites, this website uses cookies as they enable us to identify your computer when you visit this website. For example, cookies can make it possible for us to identify and automatically log in registered users of certain services on this website without the need for us to ask users for their registration details and password each time they visit. We also use cookies to develop a clearer picture of which parts of this website are the most popular to its visitors, and your preferences. You are not obliged to accept cookies and you may amend your browser's settings to prevent it from accepting cookies. The Internet Advertising Bureau provides more information on how to manage cookies on your computer. Please be aware that if you do disable cookies, certain services on this website may not be available to you and your enjoyment of this website may be impaired.
+  14. ### Links and Third Party Advertising
+
+Any links on the website may take you to third party sites over which we have no control. Similarly, advertisements appearing on this website may be posted by third parties who may use their own cookies and have their own privacy policies. When linking to another website you should read the privacy policy stated on that website. This privacy policy covers the use made of cookies and personal data by Bauer and does not cover the use made of cookies and personal data by any third parties.
+  15. ### Feedback, Comments & Suggestions
+
+If you have any queries about Our Privacy Policy or any queries about the protection of personal information We hold about you, please do not hesitate to contact us: Our address is FHM.com, Mappin House, 4 Winsley Street, London, United Kingdom, W1W 8HF or [email feedback@fhm.com](mailto:feedback@fhm.com).
+
+
+
+**If you do not agree with this Privacy Policy you should not submit your personal information on this website.**
+
+Please note, this Privacy Policy Statement does not apply to websites or text services operated by third parties.
