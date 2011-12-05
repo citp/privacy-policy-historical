@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tobri.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316105553id_/http%3A//www.tobri.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobri.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205132015id_/http%3A//www.tobri.com/help/privacy) for the most accurate reproduction.*
 
 # Tobri - Visual Connections for a social world. Not just more connections, better connections.
 
