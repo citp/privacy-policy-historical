@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tradedirectory.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106030834id_/http%3A//www.tradedirectory.com/bottom/26/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradedirectory.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205174613id_/http%3A//tradedirectory.com/bottom/26/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Trade Directory - Manufacturers, Suppliers, Traders, Importers, Exporters
+# Trade Directory - Manufacturers, Exporters, Importers, International Suppliers, Traders and Trade Shows
 
-_Effective and Last Updated: 21 November 2010_
+_Effective and Last Updated:  12 March 2011_
 
 This website is owned and operated by TradeDirectory.com Ltd. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”). This Privacy Policy applies to the Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
@@ -42,11 +42,15 @@ Third-Party Cookies: In the course of serving advertisements to this site, our 
 
 **3)  Referrals**
 
-You may choose to invite friends to join TradeDirectory.com by sending invitation emails via our invite feature. TradeDirectory.com stores the email addresses you provide so that the respondents may be added to your social network and also to send reminders of the invitations. TradeDirectory.com does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations may contact TradeDirectory.com to request removal of their information from our database. 
+You may choose to invite friends to join TradeDirectory.com by sending invitation emails via our invite feature. TradeDirectory.com stores the email addresses you provide so that the respondents may be added to your social network and also to send reminders of the invitations. TradeDirectory.com does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. Recipients of invitations may contact TradeDirectory.com to request removal of their information from our database.
 
-**4)  How We Use Your Information**
+**4)  Credit Card Information**
 
-4.1 Personal Information
+_We do not store your credit card details._
+
+**5)  How We Use Your Information**
+
+5.1 Personal Information
 
 TradeDirectory.com only uses your personal information for the original purposes it was given. Your personal information will not be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection.
 
@@ -68,46 +72,46 @@ You will receive notice when your personally identifiable information might be p
 
 We use non-identifying and aggregate information to better design our website and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
 
-4.2. Business Information
+5.2. Business Information
 
 TradeDirectory.com is a business to business portal. The sole purpose of our Site is to disseminate information about manufacturers, exporters, importers, distributors, wholesalers, sellers and buyers to the interested parties. TradeDirectory.com provides space to the registered users to publish information about their businesses, events and shows and also upload images and catalogues of their products. Any information collected through these features will be immediately available for and accessible by both guest and registered users of the Site.
 
-4.3. Site Usage Information  
+5.3. Site Usage Information  
 
 Site statistics are collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site. We may use third parties to host the Site; operate various features available on the Site; send emails; analyse data; provide search results and links and assist in fulfilling your orders.  
  
 
-**5) How We Protect Your Information**
+**6) How We Protect Your Information**
 
 We are committed to protecting the information we receive from you. We take appropriate security measures to protect your information against unauthorised access to or unauthorised alteration, disclosure or destruction of data. To prevent unauthorised access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
 
-**6) Third Party Advertising**
+**7) Third Party Advertising**
 
 Advertisements appearing on this Site may be delivered to you by TradeDirectory.com or one of our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the advertising partners to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising partner to deliver targeted advertisements that they believe will be of most interest to you. TradeDirectory.com does not have access to or control of the cookies that may be placed by the third party advertising servers of ad partners.  
 
 This privacy statement covers the use of cookies by TradeDirectory.com and does not cover the use of cookies by any of its advertisers.  
 
-**7)  Accessing and Updating Your Personal and Business Information and Preferences**
+**8)  Accessing and Updating Your Personal and Business Information and Preferences**
 
 We provide mechanisms for updating and correcting your personal and business information for many of our services.  You may modify or remove any of your personal or business information at any time by logging into your account and accessing features such as Account Settings and Business Profile, etc.  
 
-**8)  Email Choice/Opt-out**
+**9)  Email Choice/Opt-out**
 
 If you no longer wish to receive updates, notifications or newsletters may opt-out of receiving these communications by changing your “Email Notifications” settings in your “Account Settings.”  
 
-**9) Children's Privacy and Parental Controls**
+**10) Children's Privacy and Parental Controls**
 
 We do not solicit any personal information from children. If you are not 18 or older, you are not authorised to use the Site. Parents should be aware that there are parental control tools available online that can be used to prevent children from submitting information online without parental permission or from accessing material that is harmful to minors.
 
-**10) Disclaimer to Security**
+**11) Disclaimer to Security**
 
 By consenting to the Terms and Conditions of the Site and hence the Privacy Policy, you consent that no data transmission over the Internet is completely secure. We cannot guarantee or warrant the security of any information you provide to us and you transmit such information to us at your own risk.
 
-**11) Notification of Changes**
+**12) Notification of Changes**
 
 TradeDirectory.com reserves the right to change this Privacy Policy from time to time at its sole discretion. If at some point in the future, there is a change to our Privacy Policy, unless we obtain your express consent, such change will only apply to information collected after the revised Privacy Policy took effect. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
 
-**12)  Contact Information**
+**13)  Contact Information**
 
  If you have any questions or concerns regarding this Privacy Policy please contact:
 
