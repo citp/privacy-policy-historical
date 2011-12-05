@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121011350id_/http%3A//collegerecruiter.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206001632id_/http%3A//www.collegerecruiter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CollegeRecruiter.com
+# Privacy Policy | CollegeRecruiter.com
 
 Visitors to this and other websites owned or powered by CollegeRecruiter.com, LLC can engage in a variety of activities such as post a resume, apply to a job, request information about continuing your education, request scholarship information, participate in surveys, enter contests, order products and/or services, and more. Job boards such as we operate cannot be well used by their visitors unless those visitors choose to provide information about themselves to us and the third party organizations that use our site to help them offer employment, educational, and other opportunities to our visitors.
 
@@ -19,6 +19,8 @@ Like most commercial websites, our site collects information about our visitors 
 In order to better understand the people using our sites, we may supplement the information you provide to us with information from third party organizations. For example, you may accidentally provide to us an invalid zip code. We may correct that information with zip code information that we obtain from a third party.
 
 Some of the advertising appearing on our sites is served by Google, Inc. and its affiliates. Some of their advertising is [ interest-based](https://www.google.com/adsense/support/bin/answer.py?answer=100557).
+
+Some of the job seekers using our site use services provided by third parties, including but not limited to job match alerts delivered by [Job Rooster](http://www.jobrooster.com/corporate/privacy-policy/). Your use of any such third party site means you accept their privacy policy and any changes they may make to it.
 
 Any information that you post to content pages such as the blogs, our resume bank, or other pages on our site may become available to third parties. We may use that information for a variety of purposes including promoting the products we offer. Any information posted online should always be considered as being publicly posted so that information may be re-posted elsewhere without your knowledge or consent.
 
