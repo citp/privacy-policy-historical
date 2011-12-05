@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infochoice.com.au privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407093324id_/http%3A//www.infochoice.com.au/infochoice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infochoice.com.au privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206003802id_/http%3A//www.infochoice.com.au/infochoice/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | InfoChoice
 
