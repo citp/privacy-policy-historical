@@ -1,37 +1,47 @@
-> *The following text is extracted and transformed from the otherarticles.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629042042id_/http%3A//www.otherarticles.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otherarticles.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205121636id_/http%3A//www.otherarticles.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Other Articles
+# Privacy Policy
 
-### General.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.otherarticles.com/contact-us.html?pf=1).  
 
-Otherarticles places great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which Otherarticles collects, uses, and discloses the personal information provided by you as a result of the use of Otherarticle's Web Site and the content, information and services provided through the Web Site by Otherarticles.
 
-### Users' Consent.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.OTHERARTICLES.COM AND/OR ANY OTHER SITE PROVIDED BY Otherarticles (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. Otherarticles reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by Otherarticles will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please contact us if you have any questions about our privacy policy.
+  1. Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  2. We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  3. We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  4. We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  5. Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  6. We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  7. We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
-### Collection and Use of Information.
 
-In order for you to access certain materials or pages (i.e. author signup, tell a friend, and the like) and to register as a user on this Site, this Site requires that you provide certain personal information, including, but not limited to, your name, phone number and e-mail address. We use this information in order to contact you to provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our Site visitors and potential customers and partners. We may share this information with our authorized partners and/or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors.
 
-### User Tracking.
 
-This Site implements a user tracking feature, whereby the activities of each unique visitor to the Site are monitored. This is done regardless of whether the visitor has registered on the Site or is visiting the Site anonymously. If you do not register on this Site or fill in your personal details on any forms, you do remain anonymous and we do not discover your identity. If you do register on this Site, our use of user tracking enables us to identify your future and prior activities on the Site, including your activity before you registered. This includes pages on our Site that you visited. User tracking also allows us to determine through which means you have reached our Site (i.e. which search engines or links) up to one web page back. The purpose of our user tracking is to analyze our visitors' actions in order to improve the user experience of visitors to our Site, as well as to better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-### Use of Cookies.
+### Log Files
 
-A "cookie" is a small text file transferred by a Web Site to a computer that is browsing the Web Site. Even if you do not register on this Site, upon your first visit to this Site (or subsequent visits if you delete the cookie), a cookie is stored on your computer, which automatically identifies you to the Site. This is done for several technical reasons, including enabling the "User Tracking" described above. In addition, for your convenience, the cookie can "autofill" information on forms on the Site, precluding the need for you to fill out the same information on our registration forms each time you want to access information that requires registration. However, cookies by themselves cannot be used to discover the identity of the user; the only personal information we learn about you is that which you provide to us, as described above. If you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. In addition, you can delete any cookies that have already been placed on your computer.
+Like many other Web sites, Other Articles makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-### Internet Protocol Addresses.
+### Cookies and Web Beacons
 
-We collect the IP addresses of all visitors to our Site. We use your IP address in order to administer the Site, help diagnose problems with our server, to gather broad demographic information, and for the "User Tracking" described above.
+Other Articles does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-### Hyperlinks.
+### DoubleClick DART Cookie
 
-This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. Otherarticles has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over the privacy policies of any of these sites. When you leave the Otherarticles Site via one of the links then you should read the privacy policy, if any, provided by the site that you have visited.
+.:: Google, as a third party vendor, uses cookies to serve ads on Other Articles.  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to Other Articles and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
-The applicable law and exclusive jurisdiction for settling any disputes in connection with the use of the Site shall be the laws and jurisdiction of the state of Israel according to the provisions of the then policy in effect.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
-Otherarticles will accumulate and process your personal information in the USA, Israel or, from time to time, in other locations at its discretion in order to provide you with competent and effective service.
+ _Google Adsense_
 
-In order to assist in protecting the confidentiality of your personal information, Otherarticles applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, Otherarticles cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on Other Articles send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+Other Articles has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Other Articles's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
