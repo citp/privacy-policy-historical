@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604214037id_/http%3A//www.apartments.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205071153id_/http%3A//www.apartments.com/privacy.htm) for the most accurate reproduction.*
 
 # Apartments.com Private Policy
 
@@ -18,7 +18,7 @@ The policy that follows is applicable to CV’s information collection, use and 
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.apartments.com/seal_s "Validate TRUSTe privacy certification")
 
-Classified Ventures has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [legal@classfiedventures.com](mailto:legal@classfiedventures.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint&url=).
+Classified Ventures has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [legal@classifiedventures.com](mailto:legal@classifiedventures.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint&url=).
 
 ### **Collection of Personally Identifiable Information**
 
@@ -84,7 +84,7 @@ Your location is obtained from the mobile device or the network, or directly fro
 
    **Other information about your device:** We collect non-personally identifiable information from your mobile device in order to provide our services to you. Information may include device type and mobile service carrier. No information, including location information, is shared with any third parties for marketing purposes. Our apps do not interact or share information with any other applications installed on your mobile device.
 
-### **“For Rent By Owner” Ads**
+### **?For Rent By Owner? Ads**
 
 When purchasing a “For Rent By Owner” online classified listing (a “ **FRBO Ad** ”), it is important to note that any information you choose to include in a FRBO Ad may be made publicly available via the Site and other media in which the Site  listings are published, including third party Web sites and print publications. For example, you may include a phone number and/or an email address to allow users to contact you regarding your FRBO Ad. As such, you may receive unsolicited phone calls and emails from third parties, even after your FRBO Ad is no longer on the Site. Except for required information, you should not include any contact or other information in a FRBO Ad that you do not want other parties to see or use.  If you wish to access, verify the accuracy of, or change the personally identifiable information in your FRBO Ad account, you can use the interface available at [**https://secure.apartments.com/common/emaillogin.aspx**](https://secure.apartments.com/common/emaillogin.aspx).
 
@@ -120,7 +120,7 @@ This Site contains links to other sites. While the Site encourages our business 
 
 As noted above, Affiliates and other third parties may collect information about you when using the Site through the use of cookies and Web beacons. For example, the Site uses third-party companies to serve advertisements when you visit the Site and to collect statistical information regarding Site usage. Third-party advertising companies may collect non-personally identifiable information about your visits to the Site and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, the Site  may share statistical and behavioral data about visitors to our Sites with these third-party advertising companies for the purpose of managing and targeting advertisements on the Site and/or on other Web sites. These third-party advertising companies may note some of the pages you visit on the Site through the use of Web beacons. In the course of serving advertisements to you, these third-party advertising companies may also place or recognize a unique "cookie" on your computer to allow them to recognize Web beacons and otherwise improve advertising effectiveness.  
 If you would like more information about the information collection practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click [here](http://www.networkadvertising.org/optout_nonppii.asp).  
-If you have any questions about this Privacy Statement, please email us at [legal@classfiedventures.com](mailto:legal@classfiedventures.com). 
+If you have any questions about this Privacy Statement, please email us at [legal@classifiedventures.com](mailto:legal@classifiedventures.com). 
 
 © 2007 - 2010 Classified Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL 60604
 
