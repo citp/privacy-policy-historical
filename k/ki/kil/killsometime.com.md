@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314153958id_/http%3A//www.killsometime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205150319id_/http%3A//www.killsometime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: KillSomeTime.com
 
@@ -9,6 +9,8 @@ While visiting this website, KillSomeTime.com's computer servers may gather non-
 Throughout this website there are links to external sites not under the control of KillSomeTime.com. Therefore, KillSomeTime.com is not responsible for the content, use or misuse, or privacy policy of any such linked site not controlled by KillSomeTime.com. KillSomeTime.com provides these links solely for your convenience and KillSomeTime.com reserves the right to cancel or discontinue any link at any time. No third party is authorized to directly link to the KillSomeTime.com website without the prior written authorization from KillSomeTime.com. 
 
 KillSomeTime.com may require personal information in order to sign up for services from KillSomeTime.com, or to manage your current account. Any such information will be used exclusively by KillSomeTime.com, our employees, suppliers, agents and any applicable third party service providers required to set up your service or needed to respond to your requests. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org
 
 Your use of the KillSomeTime.com website signifies your acceptance of this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use the KillSomeTime.com web site. This Privacy Policy may be changed from time-to-time without notice. Any such changes will be posted to this web site and will be available for your review. Any continued use of this web site after a change has occurred will constitute your acceptance of such change. 
 
