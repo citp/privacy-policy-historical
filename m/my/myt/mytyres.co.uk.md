@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523082246id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205112519id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
 
 # Tyres online @ mytyres.co.uk - Delticom Privacy Policy
 
@@ -94,7 +94,7 @@ If you have any questions regarding Delticom's data protection, please, write - 
 
 #### Related topics
 
-[General Terms and Conditions](https://web.archive.org/web/20110523082246id_/http%3A//www.mytyres.co.uk/AGBs.html)
+[General Terms and Conditions](https://web.archive.org/web/20111205112519id_/http%3A//www.mytyres.co.uk/AGBs.html)
 
 #### Information you provide us with 
 
