@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doghouseboxing.com privacy policy that was archived on 2010-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100222060127id_/http%3A//www.doghouseboxing.com/DHB/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doghouseboxing.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206002007id_/http%3A//www.doghouseboxing.com/DHB/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.DoghouseBoxing.com
 
