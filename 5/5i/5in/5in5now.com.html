@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 5in5now.com privacy policy that was archived on 2010-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119072429id_/http%3A//5in5now.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 5in5now.com privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205044630id_/http%3A//5in5now.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -9,9 +9,44 @@
 <!-- SITE CSS -->
 <link rel="stylesheet" type="text/css" href="/css/style.css" media="screen">
 <!-- SITE JAVASCRIPT -->
-<script type="text/javascript" src="/js/scripts.js"></script>
+<script type="application/javascript" async="" src="https://secondary.api.leadspend.com/v2/leadspend.js"></script><script type="application/javascript" async="" src="https://primary.api.leadspend.com/v2/leadspend.js"></script><script type="text/javascript" src="/js/scripts.js"></script>
 <script type="text/javascript" src="/js/jquery.js"></script>
 <script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/jquery.maskedinput-1.3.js"></script>
+<script type="text/javascript">
+	jQuery(function($){
+   $("#phone").mask("999-999-9999");
+});
+</script>
+<!-- Begin LeadSpend loader -->
+<script type="application/javascript">
+
+   /* Asynchronous script loading based on:
+	http://code.google.com/apis/analytics/docs/tracking/asyncTracking.html */
+
+	/* Attempt to load connector from primary server */
+	(function(){
+		var script = document.createElement("script");
+		script.type = "application/javascript";
+		script.async = true;
+		script.src = "https://primary.api.leadspend.com/v2/leadspend.js";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(script, s);
+	})();
+
+	/* Attempt to load connector from secondary server */
+	(function(){
+		var script = document.createElement("script");
+		script.type = "application/javascript";
+		script.async = true;
+		script.src = "https://secondary.api.leadspend.com/v2/leadspend.js";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(script, s);
+	})();
+
+</script>
+<!-- End LeadSpend loader -->
+
 </head><body>
 
 <div id="page">
@@ -25,6 +60,7 @@
 				<li><a href="/user/index.php"><img src="/images/nav_members.gif" border="0"></a></li>
 				<li><a href="/faq.php"><img src="/images/nav_faq.gif" border="0"></a></li>
 				<li><a href="/blog-coming-soon.php"><img src="/images/nav_blog.gif" border="0"></a></li>
+				<li><a href="/user/coupons.php"><img src="/images/nav_coupons.gif" border="0"></a></li>
 				<li><a href="/contact.php"><img src="/images/nav_support.gif" border="0"></a></li>
 				</ul>
 			</div>		</div>
@@ -68,7 +104,7 @@
 			</p></div>
 		</div>
 		
-		<div id="footer">© 2009 5In5Now.com | All Rights Reserved | <a href="/about.php">About Us</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/terms.php">Terms of Use</a> | <a href="/affiliates.php">Affiliates</a></div>
+		<div id="footer">© 2011 5In5Now.com | All Rights Reserved | <a href="/about.php">About Us</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/terms.php">Terms of Use</a> | <a href="/affiliates.php">Affiliates</a></div>
 	</div>
 </div>
 
