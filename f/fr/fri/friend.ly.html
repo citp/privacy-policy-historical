@@ -1,62 +1,80 @@
-<!--The following is the downloaded HTML source of the friend.ly privacy policy that was archived on 2010-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215103311id_/http%3A//friend.ly/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the friend.ly privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205190832id_/http%3A//www.friend.ly/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="keywords" content="social network facebook dating friends like play meet people friendly">
-<meta name="description" content="friend.ly makes it fun to discover and connect with new people online.">
-<meta property="fb:app_id" content="5569318595">
-<meta property="og:site_name" content="friend.ly">
-<meta http-equiv="imagetoolbar" content="no">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en"><!--<![endif]--><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<meta name="keywords" content="friendly social network question answer talk play facebook friends dating meet people">
+	<meta name="description" content="Friend.ly is a place to express your true self by answering questions about yourself, your friends, and your interests.">
+	
+		
+	<meta property="fb:app_id" content="5569318595">
+	<meta property="og:site_name" content="friend.ly">
+	
+	<meta http-equiv="imagetoolbar" content="no">
+
+
+
 <script type="text/javascript">
 /* <![CDATA[ */
 var _sf_startpt=(new Date()).getTime(); // chartbeat
-var WRInitTime=_sf_startpt; // clicktale
+ 
 var FLY_CONTEXT = {
 // fbApiKey:   "a1fd21eba427ed39047811fab5ccd8de",
 // fbAppID:    "5569318595",
 fbUserID:   "0",
+id: 		"",
 formToken:  "",
 timeOffset: 0,
-revision: "4822",
+revision: "21664",
 pageLoadTime: _sf_startpt,
-serverTime: 1292409192,
-loginAward: 0};
+serverTime: 1323112111};
 var FLY_fns=[];function onFLYReady(f){FLY_fns.push(f);}
 var FLY_FB_fns=[];function onFBReady(f){FLY_FB_fns.push(f);}
+var _gaq = _gaq || [];
 function picError(e){e.onerror=null;e.src=('https:'==document.location.protocol?'https':'http')+"://static.ak.fbcdn.net/pics/q_silhouette.gif";e.setAttribute("swapneeded",1);};
 /* ]]> */
 </script>
-	<link rel="image_src" href="http://d3mgwgvky5ru3z.cloudfront.net/img/friendly-logo-fb-attachments.r8326.jpg">
+	<link rel="image_src" href="http://d3mgwgvky5ru3z.cloudfront.net/img/friendly-logo-fb-attachments.r20834.jpg">
 	<link rel="icon" type="image/png" href="/img/icons/favicon.png">
 
-<link type="text/css" rel="stylesheet" href="http://d3mgwgvky5ru3z.cloudfront.net/css/bundle/c38b7cddf0123167b73ec4657e3a7d71.r11314.css" media="screen">
+
+<script type="text/javascript">
+	var _kmq = _kmq || [];
+	
+	_kmq.push(['identify', null]);
+
+</script>
+<link type="text/css" rel="stylesheet" href="http://d3mgwgvky5ru3z.cloudfront.net/css/bundle/9fc5846819a64cd59912ae147bd9d280.r21795.css" media="screen">
 <!--[if IE 6]>
-	<link rel="stylesheet" href="/css/ie.css" type="text/css" />
-	<link rel="stylesheet" href="/css/ie.buttons.css" type="text/css" />
 	<script src="/js/unitpngfix.js" type="text/javascript" charset="utf-8"></script>
 <![endif]-->
-<!--[if IE 7]>
-	<link rel="stylesheet" href="/css/ie7.css" type="text/css" />
-	<link rel="stylesheet" href="/css/ie.buttons.css" type="text/css" />
-<![endif]-->
-<!--[if IE 8]>
-	<link rel="stylesheet" href="/css/ie8.css" type="text/css" />
-	<link rel="stylesheet" href="/css/ie.buttons.css" type="text/css" />
-<![endif]-->
-<title>friend.ly - About - Privacy</title>
+<title>friend.ly - About</title>
+<style type="text/css">html{overflow-y:scroll;}</style>
 </head>
 
 <body>
-	
-	<div id="fb-root"><script src="//connect.facebook.net/en_US/all.js" async=""></script></div>
+
+<div id="fb-root"><script src="//connect.facebook.net/en_US/all.js" async=""></script></div>
 <script type="text/javascript" charset="utf-8">
 /* <![CDATA[ */
-var auth_sessionChangeHandler = function(response) {
-	if (response.session) {
-		// A user has logged in, and a new cookie has been saved
-		// If they weren't previously logged in, refresh the page.
-		if(FLY_CONTEXT.fbUserID == "" || FLY_CONTEXT.fbUserID == "0") {
+
+/*
+
+This object deals with all the Facebook Connect auth stuff.
+If you need to override the default behavior of refreshing on login,
+just set a new FLY_FBAUTH.loginHandler.
+
+*/
+var FLY_FBAUTH = {
+	
+	loginHandler:  null,
+	logoutHandler: null,
+	
+	sessionChangeTimer: null,
+	
+	handleLogin: function(response) {
+		var loginFn = this.loginHandler || function() {
 			// If we reload immediately, there seems to be an issue
 			// that causes an infinite redirect loop.
 			// By using setTimeout a this short timeout, we ensure
@@ -64,44 +82,147 @@ var auth_sessionChangeHandler = function(response) {
 			setTimeout(function() {
 				window.location.reload(true);
 			}, 50);
-			FLY_CONTEXT.fbUserID = response.session.uid;
-		}else{
-			FLY.debug("FB session refreshed.");
-			setTimeout(function() {
-				FLY.ajax.get('/login/refresh/fbsession/json');
-			}, 300);
-		}
-	} else {
-		// The user has logged out, and the cookie has been cleared
-		if(FLY_CONTEXT.fbUserID != "0") {
+		};
+		
+		FLY_CONTEXT.fbUserID = response.authResponse.userID;
+		
+		loginFn();
+	},
+	
+	handleLogout: function() {
+		var logoutFn = this.logoutHandler || function() {
 			try{
 				FLY.handleUserLoggedOutExternally();
 			}catch(e) {}
+		};
+		
+		logoutFn();
+	},
+	
+	handleFBReady: function() {
+		try {
+			FB.Event.subscribe('auth.authResponseChange', function(response) {
+				FLY_FBAUTH.handleSessionChange(response);
+			});
+		}catch(e) {}
+		
+		// Run all of our queued functions
+		window.onFBReady=function(f){f();};
+		
+		var numFn=window.FLY_FB_fns.length;
+		for(var i=0;i<numFn;i++){
+			try{
+				window.FLY_FB_fns[i]();
+			}catch(e) {
+				FLY.debug("Error running onFBReady function at index "+i);
+			}
+			window.FLY_FB_fns[i]=null;
 		}
+		window.FLY_FB_fns=[];
+	},
+	
+	handleSessionChange: function(response) {
+		if(this.sessionChangeTimer) {
+			this.sessionChangeTimer = null;
+			clearTimeout(this.sessionChangeTimer);
+		}
+		if (response.authResponse) {
+			// A user has logged in (is connected), and a new cookie has been saved
+			// If they weren't previously logged in, refresh the page.
+			if(FLY_CONTEXT.fbUserID == "" || FLY_CONTEXT.fbUserID == "0") {
+				FLY_FBAUTH.handleLogin(response);
+			}else{
+				onFLYReady(function() {
+					setTimeout(function() {
+						FLY.ajax.get('/login/refresh/fbsession/json');
+					}, 300);
+				});
+			}
+		} else {
+			// The user has logged out (or disconnected), and the cookie has been cleared
+			if(FLY_CONTEXT.fbUserID != "0") {
+				FLY_FBAUTH.handleLogout();
+			}
+		}
+	},
+	
+	login: function(o_btn_label) {
+		var self = this;
+		// Allow pages to specify that they want / need extra permissions
+		// TODO: make this a function parameter instead?
+		var morePerms = window.FB_EXTRA_PERMS || "";
+		if(morePerms != "") { morePerms = ","+morePerms; }
+		
+		// Permissions we *always* need must be listed here
+		var permissions = 'email,offline_access,user_birthday,user_education_history,user_likes,user_location,user_photos,user_photo_video_tags,user_relationships,friends_photos,friends_photo_video_tags';
+		permissions += morePerms;
+		
+		// Automagically show privacy notice div if it's included on the page
+		try {
+			$('#privacy-notice').slideDown(200);
+		}catch(e) {}
+		
+		onFBReady(function() {
+			try{
+				// Sometimes calling FB.login does not result in the auth.sessionChange firing.
+				// This primarily seems to happen in unusual situations such as rapidly reloading
+				// the signup page or the /logout page. As a workaround, we pass a callback function
+				// to FB.login which will re-check the session after a certain amount of time.
+				// At a minimum this should allow users to log in by clicking a login button again
+				var loginReturnedFn = function(response) {
+					// Immediately redirect to permissions explanation if we can
+					// detect that the user clicked "Don't Allow".
+					//
+					// There seems to be a bug with the status being "unknown"
+					// when the user logs in and clicks "Don't Allow" within the
+					// same prompt. If they're already logged in when the dialog
+					// opens, then this value is returned (most of the time).
+					if (response.status == 'notConnected') {
+						// Temporarily reverting this.
+						// window.location.href = '/signup/permissions/faq';
+					}
+					
+					try {
+						$('#privacy-notice').fadeOut();
+					}catch(e) {}
+					
+					self.sessionChangeTimer = setTimeout(function() {
+						try{
+							FB.getLoginStatus(function(response) {
+								FLY_FBAUTH.handleSessionChange(response);
+							});
+						}catch(e) {}
+					}, 1500);
+				};
+				
+				FB.login(loginReturnedFn, {scope: permissions});
+				
+				onFLYReady(function() {
+					FLY.ajax.get('/login/event/json', {event: 'fb_prompt'});
+					FLY_Metrics.gaPage("/sim/FBConnect_login");
+				});
+				
+			}catch(e) {}
+		});
+		
 	}
 };
 
 window.fbAsyncInit = function() {
 	try {
 		FB.init({
-			appId  : '5569318595',
-			status : true, // check login status
-			cookie : true, // enable cookies to allow the server to access the session
+			appId:   '5569318595',
+			status:  true, // check login status
+			cookie:  true, // enable cookies to allow the server to access the session
 			logging: false,
-			xfbml  : true  // parse XFBML
+			oauth:   true,
+			xfbml:   true  // parse XFBML
 		});
-	
-		try {
-			FB.Event.subscribe('auth.sessionChange', auth_sessionChangeHandler);
-		}catch(e) {}
-	
-	
-		// Run all of our queued functions
-		onFBReady=function(f){f();};
-		(function(){var numFn=FLY_FB_fns.length;for(var i=0;i<numFn;i++){FLY_FB_fns[i]();FLY_FB_fns[i]=null;}FLY_FB_fns=[];})();
+		
+		FLY_FBAUTH.handleFBReady();
 	}catch(e) {
+		setTimeout(fbAsyncInit, 2000);
 		FLY.debug("Unable to initialize Facebook libraries.");
-		setTimeout(fbAsyncInit, 1000);
 	}
 };
 
@@ -115,25 +236,67 @@ document.getElementById('fb-root').appendChild(e);
 </script>
 
 	<div id="header">
-		<div id="header-inner" class="clearfix">
-			<a id="header-logo" href="/"><img width="157" height="40" alt="friend.ly" src="http://d3mgwgvky5ru3z.cloudfront.net/img/header-logo.r8772.png"></a>
+	<div class="wrapper">
+		<h1 id="logo">
+			<a href="/">friend.ly</a>
+		</h1>
+		
+		<ul id="nav">
+			<li>
+				<a class="tab" href="#" onclick="FLY_FB.login();return false">
+					<em>Log in</em>
+				</a>
+			</li>
+			
+			<li>
+				<a class="tab" href="#" onclick="FLY_FB.login();return false">
+					<em>Sign up</em>
+				</a>
+			</li>
+			
+						
+		</ul>
+		
+		
+	</div>
+</div>
 
-		</div>
-	</div><div id="page" class="clearfix">
 
-<div id="sidebar" class="nav right">
+
+<div id="main" class="clearfix">
+	
+		
+	<div id="sidebar">
+
+		<div class="sidebar-content">
 	<h2 class="divider">About</h2>
-	<ul>
-		<li><a href="/about">About Us</a></li>
-		<li><a href="/about/rules">Community Rules</a></li>
-		<li><a href="/about/terms">Terms &amp; Conditions</a></li>
-		<li><a href="/about/privacy" class="current">Privacy Policy</a></li>
+	<ul class="nav">
+		<li><a href="/about?ref=about_sidebar" class="">About friend.ly</a></li>
+		<li><a href="/about/faq?ref=about_sidebar" class="">Frequently asked questions</a></li>
+		<li><a href="/about/rules?ref=about_sidebar" class="">Community guidelines</a></li>
+		<li><a href="http://blog.friend.ly/?utm_source=friend.ly&amp;ref=about" target="_blank">Our blog</a></li>
+		<li><a href="/about/terms?ref=about_sidebar" class="">Terms of service</a></li>
+		<li><a href="/about/privacy?ref=about_sidebar" class="selected">Privacy policy</a></li>
 	</ul>
 </div>
 
-<div id="main-container" class="padding container left">
+	</div>
+	
+	<div id="content">
+
+
+<div class="about mal">
 	<div id="main-content" class="fixed">
-		<p style="MARGIN:0pt">
+
+
+
+
+
+
+
+
+
+<p style="MARGIN:0pt">
   <br>
 </p>
 <p style="MARGIN:0pt;TEXT-ALIGN:center">
@@ -156,7 +319,7 @@ document.getElementById('fb-root').appendChild(e);
   <font size="2"><font color="#444444">This privacy policy ("</font></font><b><font size="2"><font color="#444444">Policy</font></font></b><font size="2"><font color="#444444">") explains how we use, collect, and disclose your personal information with respect to your use of (1)</font></font>&nbsp;<font size="2"><font color="#444444">the Friend.ly web site currently located at www.friend.ly and any successor web sites, related web sites, or other online access points made available by us (collectively, the "</font></font><b><font size="2"><font color="#444444">Site</font></font></b><font size="2"><font color="#444444">"); (2)</font></font>&nbsp;<font size="2"><font color="#444444">the games, applications, or other software related to the Friend.ly properties that we make downloadable at, or otherwise accessible through, the Site, third-party web sites, or other online access points (collectively, the "</font></font><b><font size="2"><font color="#444444">Software</font></font></b><font size="2"><font color="#444444">"); and (3) the services offered by us through the Site and the Software, including Software and any such services offered by us through third-party web sites or other online access points (collectively, the "</font></font><b><font size="2"><font color="#444444">Services</font></font></b><font size="2"><font color="#444444">").</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">THIS POLICY DOES NOT APPLY TO THE PRACTICES OF COMPANIES THAT WE DO NOT OWN OR CONTROL, SUCH AS OUR THIRD-PARTY PARTNERS’ WEB SITES, THEIR SOFTWARE, OR THEIR SERVICES, ANY OF WHICH MAY BE ACCESSIBLE VIA A LINK ON OUR SITE OR THROUGH OUR SOFTWARE.</font></font>
+  <font size="2"><font color="#444444">THIS POLICY DOES NOT APPLY TO THE PRACTICES OF COMPANIES THAT WE DO NOT OWN OR CONTROL, SUCH AS OUR THIRD-PARTY PARTNERS' WEB SITES, THEIR SOFTWARE, OR THEIR SERVICES, ANY OF WHICH MAY BE ACCESSIBLE VIA A LINK ON OUR SITE OR THROUGH OUR SOFTWARE.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <font size="2"><font color="#444444">From time to time, we may add new web sites other than those listed above, but they will provide a link to this Policy and will be governed by its terms.&nbsp; Such web sites are included in the definition of the "Site," as that term is used in this Policy.</font></font>
@@ -186,10 +349,10 @@ document.getElementById('fb-root').appendChild(e);
   <font size="2"><font color="#444444">As part of the registration process for some services, you may be asked to provide information that does not personally identify you. For example, you may be asked to provide information concerning your entertainment preferences, purchasing habits, and the like.&nbsp; This information is generally optional but may be included in your account profile and tied to personal information.&nbsp; We request this information in order to understand you better and to also bring to your attention new services, programs, or offers that may be of interest to you. </font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">In many cases, we will automatically collect certain non-personal information about your use of the Site, Software, or Services.&nbsp; We might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your "click path" through the Site, your Internet protocol addressing and traffic information, and the web site or advertisement that was linked to or from the Site when you visited.&nbsp; To do this, we may use cookies and other technology (see below).&nbsp; Your visits to the Site, and information provided through these technologies, will be anonymous, unless you provide us with personal information or have provided such information in the past.&nbsp; For example, if you’ve created a premium subscription account, your account information (including name, email address, and billing and shipping information) may be linked to items you purchase at the Site or through the Software or Services (i.e., purchasing history).</font></font>
+  <font size="2"><font color="#444444">In many cases, we will automatically collect certain non-personal information about your use of the Site, Software, or Services.&nbsp; We might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your "click path" through the Site, your Internet protocol addressing and traffic information, and the web site or advertisement that was linked to or from the Site when you visited.&nbsp; To do this, we may use cookies and other technology (see below).&nbsp; Your visits to the Site, and information provided through these technologies, will be anonymous, unless you provide us with personal information or have provided such information in the past.&nbsp; For example, if you've created a premium subscription account, your account information (including name, email address, and billing and shipping information) may be linked to items you purchase at the Site or through the Software or Services (i.e., purchasing history).</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <u><font size="2"><font color="#444444">A Special Note About Information Disclosed to Us by Third Parties</font></font></u><font size="2"><font color="#444444">.&nbsp; In some cases, third parties to whom you have provided your personal information – e.g., the operator or controller of a third-party web site or other online access point from which you have accessed the Software or Services – may share your personal information with us.&nbsp; As highlighted above, any personal information that you have provided to a third party is subject to that third party’s privacy policy, including, if applicable, any "privacy settings" that you may have selected as part of your management of your account with that third party.&nbsp; Such information is not subject to this Policy.&nbsp; However, because we are committed to protecting the personal information of our users, we will use reasonable efforts to protect such information as if it were personal information that you had disclosed to us pursuant to this Policy.</font></font>
+  <u><font size="2"><font color="#444444">A Special Note About Information Disclosed to Us by Third Parties</font></font></u><font size="2"><font color="#444444">.&nbsp; In some cases, third parties to whom you have provided your personal information — e.g., the operator or controller of a third-party web site or other online access point from which you have accessed the Software or Services — may share your personal information with us.&nbsp; As highlighted above, any personal information that you have provided to a third party is subject to that third party's privacy policy, including, if applicable, any "privacy settings" that you may have selected as part of your management of your account with that third party.&nbsp; Such information is not subject to this Policy.&nbsp; However, because we are committed to protecting the personal information of our users, we will use reasonable efforts to protect such information as if it were personal information that you had disclosed to us pursuant to this Policy.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <br>
@@ -217,7 +380,7 @@ document.getElementById('fb-root').appendChild(e);
   <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Identify your approximate geographic location in order to improve the services provided to you as part of the Site, Software, and Services.</font></font>
 </p>
 <p style="MARGIN:0pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Contact you about our, or a third party’s services, products, activities, special events, or offers;</font></font>
+  <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Contact you about our, or a third party's services, products, activities, special events, or offers;</font></font>
 </p>
 <p style="MARGIN:0pt 0pt 0pt 72pt;TEXT-ALIGN:justify">
   <font size="2"><font color="#444444">•</font></font>&nbsp;&nbsp; &nbsp;&nbsp;<font size="2"><font color="#444444">Respond to your e-mails, submissions, comments, requests, or complaints;</font></font>
@@ -244,10 +407,10 @@ document.getElementById('fb-root').appendChild(e);
   <font size="2"><font color="#444444">We do not sell or rent personal information to third parties or share personal information with third parties, except as described in this Policy or with your consent.&nbsp; We may provide access to or share personal information with consultants, vendors, and service providers ("</font></font><b><font size="2"><font color="#444444">Service Providers</font></font></b><font size="2"><font color="#444444">") who perform functions on our behalf in order to carry out their work.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">The Site, Software, or Services, may include certain online communities and other interactive features in connection with which you may choose to create a user profile (including, but not limited to, a "public profile").&nbsp; We may display the information that you include in your user profile to other users of the Site, Software, or Services, including members of the community and, in the case of your public profile, to visitors.&nbsp; In connection with the creation of your user profile, you may choose to provide us with information and content – for example, your photos and videos – that is in addition to the other information that you provide to us or that we collect (as further described in this Policy).&nbsp; By providing us with such additional information and content, you agree that we may make that additional information and content available to other users of the Site, Software, or Services, including members of the community and, in the case of such additional information and content that you include in your public profile, to visitors.</font></font>
+  <font size="2"><font color="#444444">The Site, Software, or Services, may include certain online communities and other interactive features in connection with which you may choose to create a user profile (including, but not limited to, a "public profile").&nbsp; We may display the information that you include in your user profile to other users of the Site, Software, or Services, including members of the community and, in the case of your public profile, to visitors.&nbsp; In connection with the creation of your user profile, you may choose to provide us with information and content — for example, your photos and videos — that is in addition to the other information that you provide to us or that we collect (as further described in this Policy).&nbsp; By providing us with such additional information and content, you agree that we may make that additional information and content available to other users of the Site, Software, or Services, including members of the community and, in the case of such additional information and content that you include in your public profile, to visitors.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">We also may share your information with law enforcement or other appropriate authorities, our business partners, or other third parties if we have a reasonable, good-faith belief that the disclosure of such information to such parties is necessary or advisable in order to:&nbsp; (a)</font></font>&nbsp;<font size="2"><font color="#444444">comply with legal process; (b)</font></font>&nbsp;<font size="2"><font color="#444444">enforce our rights and agreements, including our rules, policies, and guidelines; (c)</font></font>&nbsp;<font size="2"><font color="#444444">respond to claims that any content that you have posted or otherwise made available on the Site or through the Software violates the rights of third parties, including the legal rights of any of our partners; (d)</font></font>&nbsp;<font size="2"><font color="#444444">protect the rights, property, or personal safety of us, our employees, our business, our users, our business partners, or the general public (including, but not limited to, victims of abuse – see below); or (e)</font></font>&nbsp;<font size="2"><font color="#444444">prevent and protect us and our users from illicit, fraudulent, abusive, unlawful, or unauthorized use of the Site, Software, or Services.&nbsp; Your personal information also may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing, or acquisition or in any other situation where personal information may be transferred as one of our business assets.</font></font>
+  <font size="2"><font color="#444444">We also may share your information with law enforcement or other appropriate authorities, our business partners, or other third parties if we have a reasonable, good-faith belief that the disclosure of such information to such parties is necessary or advisable in order to:&nbsp; (a)</font></font>&nbsp;<font size="2"><font color="#444444">comply with legal process; (b)</font></font>&nbsp;<font size="2"><font color="#444444">enforce our rights and agreements, including our rules, policies, and guidelines; (c)</font></font>&nbsp;<font size="2"><font color="#444444">respond to claims that any content that you have posted or otherwise made available on the Site or through the Software violates the rights of third parties, including the legal rights of any of our partners; (d)</font></font>&nbsp;<font size="2"><font color="#444444">protect the rights, property, or personal safety of us, our employees, our business, our users, our business partners, or the general public (including, but not limited to, victims of abuse — see below); or (e)</font></font>&nbsp;<font size="2"><font color="#444444">prevent and protect us and our users from illicit, fraudulent, abusive, unlawful, or unauthorized use of the Site, Software, or Services.&nbsp; Your personal information also may be disclosed or transferred as part of, or during negotiations of, any merger, sale of company assets, financing, or acquisition or in any other situation where personal information may be transferred as one of our business assets.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <u><font size="2"><font color="#444444">A Special Note About Potential Victims of Abuse</font></font></u><font size="2"><font color="#444444">.&nbsp; Notwithstanding any other provision of this Policy or our Terms and Service, we reserve the right, but have no obligation, to disclose any information that you submit to us, if in our sole opinion, we suspect or have reason to suspect, that the information involves a party who may be the victim of abuse in any form.&nbsp; Abuse may include, without limitation, elder abuse, child abuse, spousal abuse, neglect, or domestic violence.&nbsp; Information may be disclosed to authorities that we, in our sole discretion, deem appropriate to handle such disclosure.&nbsp; Appropriate authorities may include, without limitation, law enforcement agencies, child protection agencies, or court officials. You understand and acknowledge that we are permitted to make such disclosure.</font></font>
@@ -265,7 +428,7 @@ document.getElementById('fb-root').appendChild(e);
   <font size="2"><font color="#444444">As mentioned above, the Site, Software, and Services may include certain online communities and other interactive features, such as user profiles (including public profiles), forums, message boards, and chat rooms.&nbsp; You may be asked to provide your name in order to participate in certain features of the Site, Software, or Services.&nbsp; In many cases, the Site and the Software automatically will use your first name as your user identification (or ID) in connection with such features.&nbsp; As such, your first name likely will be available to and accessible by the general public while you participate in such features.&nbsp; Further, information you post in any public areas of the Site or through the Software or Services is publicly available and may be shared with other users.&nbsp; To the extent that you create a public profile that may be available to others users, you are solely responsible for its content and accuracy at all times.&nbsp; To edit, change, or delete such information or change your privacy preferences, follow the instructions on the Site or available through the Software.&nbsp; Although we strive to use reasonable efforts to implement these privacy preferences, no system or security measure is perfect or impenetrable.&nbsp; You should always be cautious when giving out personal information to others in public online forums.&nbsp; We are not responsible for protecting such information that you may disclose to third parties through our Site, Software, or Services (e.g. sending your contact information to another user via a forum, message board, or chat room).</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">IF PARENTS OF MINORS CHOOSE TO ALLOW THEIR CHILDREN TO USE THE SITE, SOFTWARE, OR SERVICES, WE STRONGLY ENCOURAGE SUCH PARENTS TO CAREFULLY SUPERVISE THEIR CHILDREN’S ACTIVITY IN ANY AND ALL PUBLIC FORUMS AND TO CAUTION THEIR CHILDREN NOT TO SHARE ANY PERSONAL INFORMATION (SEE BELOW).</font></font>
+  <font size="2"><font color="#444444">IF PARENTS OF MINORS CHOOSE TO ALLOW THEIR CHILDREN TO USE THE SITE, SOFTWARE, OR SERVICES, WE STRONGLY ENCOURAGE SUCH PARENTS TO CAREFULLY SUPERVISE THEIR CHILDREN'S ACTIVITY IN ANY AND ALL PUBLIC FORUMS AND TO CAUTION THEIR CHILDREN NOT TO SHARE ANY PERSONAL INFORMATION (SEE BELOW).</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <br>
@@ -295,7 +458,7 @@ document.getElementById('fb-root').appendChild(e);
   <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">7.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">PROTECTING PERSONAL INFORMATION</font></b></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">We strive to protect personal information while it is under our control.&nbsp; If you elect to become a registered user of the Site, Software, or Services, your Friend.ly account information is accessible online only through the use of a Friend.ly password.&nbsp; However, as mentioned above, there may be numerous circumstances in which you will use or access the Software or the Services through a web site or other online access point operated and controlled by a third-party, in which case any information related to the account that you maintain with such third party is subject to that third party’s privacy policy, including, if applicable, any "privacy settings" that you may have selected as part of your management of your account with that third party and the account password that you maintain with such third party.&nbsp; To help protect the confidentiality of personal information, you must keep your passwords confidential and not disclose them to any other person.&nbsp; You are responsible for your account names, passwords, and other user identifications (or IDs) and all uses of the Site, Software, and Services by any person using your account names, passwords, or other user IDs, and you acknowledge that it is solely your responsibility to maintain the confidentiality of your account names, passwords, and user IDs and keep track of who is using your Friend.ly account or third-party accounts, as applicable.&nbsp; If you suspect any unauthorized use of your accounts, or if you believe your account names, passwords, or user IDs have been compromised, immediately notify us or, if applicable, the third party (see contact information in Section</font></font>&nbsp;<a href="#Ref256685483" target="_self"><font size="2"><font color="#444444">18</font></font></a><font size="2"><font color="#444444">, below).</font></font>
+  <font size="2"><font color="#444444">We strive to protect personal information while it is under our control.&nbsp; If you elect to become a registered user of the Site, Software, or Services, your Friend.ly account information is accessible online only through the use of a Friend.ly password.&nbsp; However, as mentioned above, there may be numerous circumstances in which you will use or access the Software or the Services through a web site or other online access point operated and controlled by a third-party, in which case any information related to the account that you maintain with such third party is subject to that third party's privacy policy, including, if applicable, any "privacy settings" that you may have selected as part of your management of your account with that third party and the account password that you maintain with such third party.&nbsp; To help protect the confidentiality of personal information, you must keep your passwords confidential and not disclose them to any other person.&nbsp; You are responsible for your account names, passwords, and other user identifications (or IDs) and all uses of the Site, Software, and Services by any person using your account names, passwords, or other user IDs, and you acknowledge that it is solely your responsibility to maintain the confidentiality of your account names, passwords, and user IDs and keep track of who is using your Friend.ly account or third-party accounts, as applicable.&nbsp; If you suspect any unauthorized use of your accounts, or if you believe your account names, passwords, or user IDs have been compromised, immediately notify us or, if applicable, the third party (see contact information in Section</font></font>&nbsp;<a href="#Ref256685483" target="_self"><font size="2"><font color="#444444">18</font></font></a><font size="2"><font color="#444444">, below).</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <br>
@@ -334,10 +497,10 @@ document.getElementById('fb-root').appendChild(e);
   <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">c.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444444"><b><font size="2">Information for Parents and Guardians</font></b></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">We encourage parents and legal guardians to spend time online with their children to become familiar with the types of content available on the Internet, including the Site, Software, and Services.&nbsp; Parents and legal guardians should regularly oversee their children’s use of e-mail, message boards, chat rooms, and other online communications and transactional features.&nbsp; Control tools are available from online services and software manufacturers that can help provide a safe online environment for children.</font></font>
+  <font size="2"><font color="#444444">We encourage parents and legal guardians to spend time online with their children to become familiar with the types of content available on the Internet, including the Site, Software, and Services.&nbsp; Parents and legal guardians should regularly oversee their children's use of e-mail, message boards, chat rooms, and other online communications and transactional features.&nbsp; Control tools are available from online services and software manufacturers that can help provide a safe online environment for children.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">If you are a parent or legal guardian who has discovered that your child has submitted his or her personal information without your permission or consent, we will take reasonable steps to remove that information from the our database at your request.&nbsp; To request removal of your child’s information, please send us an e-mail (to the address below) and be sure to include in your message the same account name (or user ID), password, and email address that your child submitted.&nbsp; If your child has used your credit card or other approved payment method on the Site or in connection with use of the Software or Services without your permission, contact our customer support personnel immediately.</font></font>
+  <font size="2"><font color="#444444">If you are a parent or legal guardian who has discovered that your child has submitted his or her personal information without your permission or consent, we will take reasonable steps to remove that information from the our database at your request.&nbsp; To request removal of your child's information, please send us an e-mail (to the address below) and be sure to include in your message the same account name (or user ID), password, and email address that your child submitted.&nbsp; If your child has used your credit card or other approved payment method on the Site or in connection with use of the Software or Services without your permission, contact our customer support personnel immediately.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <br>
@@ -349,7 +512,7 @@ document.getElementById('fb-root').appendChild(e);
   <span style="VERTICAL-ALIGN:baseline"><font color="#444"><font size="2"><b>10.&nbsp;&nbsp; &nbsp;</b></font></font></span><font color="#444"><font size="2"><b>SPECIAL NOTICE REGARDING SWEEPSTAKES, CONTESTS, SURVEYS, AND OTHER PROMOTIONS</b></font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">We may, from time to time, offer sweepstakes, contests, surveys, and other promotions on the Site or in connection with the Software or Services.&nbsp; In such cases, you may be asked to provide additional personal information, such as your mailing address.&nbsp; In each such case, no new personal information will be collected from you without your consent.&nbsp; This information may be collected by us or by Service Providers, such as third-party co-sponsors or vendors for the promotion.&nbsp; Our use of any such information will be governed by this Policy.&nbsp; The names of third parties, such as Service Providers (other than Service Providers hired by us to conduct, administer, and execute a promotion on our behalf), will be disclosed to you when you are asked to sign up for the sweepstake, contest, survey, or other promotion.&nbsp; You should review such third parties’ privacy policies to see how they may use any information that you disclose to them or that they collect from you.</font></font>
+  <font size="2"><font color="#444444">We may, from time to time, offer sweepstakes, contests, surveys, and other promotions on the Site or in connection with the Software or Services.&nbsp; In such cases, you may be asked to provide additional personal information, such as your mailing address.&nbsp; In each such case, no new personal information will be collected from you without your consent.&nbsp; This information may be collected by us or by Service Providers, such as third-party co-sponsors or vendors for the promotion.&nbsp; Our use of any such information will be governed by this Policy.&nbsp; The names of third parties, such as Service Providers (other than Service Providers hired by us to conduct, administer, and execute a promotion on our behalf), will be disclosed to you when you are asked to sign up for the sweepstake, contest, survey, or other promotion.&nbsp; You should review such third parties' privacy policies to see how they may use any information that you disclose to them or that they collect from you.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <br>
@@ -361,7 +524,7 @@ document.getElementById('fb-root').appendChild(e);
   <span style="VERTICAL-ALIGN:baseline"><font color="#444"><font size="2"><b>11.&nbsp;&nbsp; &nbsp;</b></font></font></span><font color="#444"><font size="2"><b>SPECIAL NOTICE REGARDING RESUME SUBMISSIONS AND ONLINE JOB APPLICATIONS</b></font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">We may, from time-to-time, allow for the online submission of resumes and job applications.&nbsp; Please be advised that information (including personal information) contained in a job applicant’s resume or otherwise submitted to us in a business capacity is not subject to the terms of this Policy.&nbsp; The information obtained from your resume will only be used for the purpose of accepting and evaluating your submission for a job and contacting you in connection with that purpose.</font></font>
+  <font size="2"><font color="#444444">We may, from time-to-time, allow for the online submission of resumes and job applications.&nbsp; Please be advised that information (including personal information) contained in a job applicant's resume or otherwise submitted to us in a business capacity is not subject to the terms of this Policy.&nbsp; The information obtained from your resume will only be used for the purpose of accepting and evaluating your submission for a job and contacting you in connection with that purpose.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <br>
@@ -385,7 +548,7 @@ document.getElementById('fb-root').appendChild(e);
   <span style="VERTICAL-ALIGN:baseline"><font color="#444"><font size="2"><b>13.&nbsp;&nbsp; &nbsp;</b></font></font></span><font color="#444"><font size="2"><b>LINKS TO OTHER WEB SITES</b></font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">Links from the Site or the Software to third party web sites are provided for your convenience.&nbsp; Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy, not ours.</font></font>
+  <font size="2"><font color="#444444">Links from the Site or the Software to third party web sites are provided for your convenience.&nbsp; Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy, not ours.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <br>
@@ -409,7 +572,7 @@ document.getElementById('fb-root').appendChild(e);
   <span style="VERTICAL-ALIGN:baseline"><font color="#444"><b><font size="2">15.&nbsp;&nbsp; &nbsp;</font></b></font></span><font color="#444"><b><font size="2">OTHER IMPORTANT AGREEMENTS THAT GOVERN YOUR USE OF OUR SITES, PRODUCTS, SERVICES, AND SOFTWARE</font></b></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
-  <font size="2"><font color="#444444">In addition to this Policy, your rights and obligations concerning the Site, Services, and Software are governed by the applicable terms of service, the applicable software’s end user license agreement and/or terms of use, and other applicable rules, policies, guidelines, and requirements.&nbsp; This Policy does not alter, in any way, the terms or conditions of any other agreement you may have with us or our affiliates for products, services, software, or otherwise.&nbsp; When you sign up to use our products, services, or software, please review each such agreement carefully, as you must agree to be bound by each such agreement before you may use the applicable product, service, or software.</font></font>
+  <font size="2"><font color="#444444">In addition to this Policy, your rights and obligations concerning the Site, Services, and Software are governed by the applicable terms of service, the applicable software's end user license agreement and/or terms of use, and other applicable rules, policies, guidelines, and requirements.&nbsp; This Policy does not alter, in any way, the terms or conditions of any other agreement you may have with us or our affiliates for products, services, software, or otherwise.&nbsp; When you sign up to use our products, services, or software, please review each such agreement carefully, as you must agree to be bound by each such agreement before you may use the applicable product, service, or software.</font></font>
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <br>
@@ -451,27 +614,40 @@ document.getElementById('fb-root').appendChild(e);
 </p>
 <p style="MARGIN:6pt 0pt 0pt;TEXT-ALIGN:justify">
   <br>
-</p>	</div>
-</div>
+</p>
 
 
-</div>
-<div id="grass"></div>
-<div id="footer">
-	<div class="right">
-		<a href="/about">about</a>
-		<a href="/about/privacy">privacy</a>
-		<a href="/about/terms">terms</a>
-		<a href="http://friendly.zendesk.com/home">help</a>
-		<a href="/about/contact">contact</a>
+
+
+
+
+
+
+
+
 	</div>
-	© 2009-2010 friend.ly
+</div>
+</div>
+</div>
+<div id="page-cap-bottom" class="page-cap"></div>
+<div id="footer" class="clearfix">
+	<div class="left">© 2009-2011 friend.ly</div>
+	<div class="right">
+					<a href="/about?ref=footer">About</a>
+			<a href="http://blog.friend.ly/?utm_source=friend.ly&amp;ref=footer" target="_blank">Blog</a>
+			<a href="/about/privacy?ref=footer">Privacy</a>
+			<a href="/about/terms?ref=footer">Terms</a>
+			<a href="/about/faq?ref=footer">Help</a>
+			
+						
+			</div>
 </div>
 
 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="http://d3mgwgvky5ru3z.cloudfront.net/js/bundle/51ac77ad44342ac3674b0df754744f00.r21812.js"></script>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript" charset="utf-8"></script>
-<script type="text/javascript" src="http://d3mgwgvky5ru3z.cloudfront.net/js/bundle/38bf096cd480d93597a87bd7c832f50e.r11049.js"></script>
 
 
 <script type="text/javascript" charset="utf-8">
@@ -481,32 +657,15 @@ onFLYReady=function(f){f();};
 /* ]]> */
 </script>
 
-<script type="text/javascript">
-/* <![CDATA[ */
-var form_token = FLY_CONTEXT.formToken;
-
-// if(jQuery.browser.msie || jQuery.browser.webkit) {
-// 	swizzleJSONParse();
-// }
-/* ]]> */
-</script>
-
 <script type="text/javascript" charset="utf-8">
 /* <![CDATA[ */
 
-jQuery(function(){
-	});
-
-onFLYReady(function(){
-	setTimeout(function() {
-		if(window.FLY) { FLY.updateTimeOffset(); }
-	}, 500);
-});
 
 
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount','UA-4958747-3']);
 _gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
 $(setTimeout(function(){
 var ga=document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 // Note: we set the SRC in this way because some user-agents screw up the ternary operator
@@ -518,34 +677,18 @@ if('https:'==document.location.protocol) {
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 }, 1));
 
-var _sf_async_config={uid:6259,domain:"friend.ly"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    // Note: we set the SRC in this way because some user-agents screw up the ternary operator
-    if(("https:" == document.location.protocol)) {
-        e.setAttribute('src', "https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js");
-    }else{
-        e.setAttribute('src', "http://static.chartbeat.com/js/chartbeat.js");
-    }
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
 
 /* ]]> */
 </script>
 
 
 
-
 <noscript>
 	<div><a id="js-warning-msg" href="http://danaandersonlasvegas.las.mlxchange.com/enablescript.htm"></a></div>
 </noscript>
+
+
+
+
 
 </body></html>
