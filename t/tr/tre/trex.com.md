@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trex.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607021131id_/http%3A//www.trex.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trex.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205231943id_/http%3A//www.trex.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Company Information > Privacy Policy | Trex
 
@@ -40,4 +40,4 @@ Trex takes children's privacy seriously and wants children and parents to unders
 
 CONTACTING US
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with the Trex Website, you can contact us at [question@trex.com](mailto:question@trex.com?subject=Attention:%20Privacy%20Policy). The Terms of Use of the Trex Website can be found at [www.trex.com/terms](https://web.archive.org/terms/index.htm) and the Terms of Use of the Trex Deck Workbook website can be found at [www.trex.com/terms-workbook](https://web.archive.org/web/20110607021131id_/http%3A//www.trex.com/privacy-policy/ssNODELINK/TrexCom/218).
+If you have any questions about this privacy policy, the practices of this site, or your dealings with the Trex Website, you can contact us at [question@trex.com](mailto:question@trex.com?subject=Attention:%20Privacy%20Policy). The Terms of Use of the Trex Website can be found at [www.trex.com/terms](https://web.archive.org/terms/index.htm) and the Terms of Use of the Trex Deck Workbook website can be found at [www.trex.com/terms-workbook](https://web.archive.org/web/20111205231943id_/http%3A//www.trex.com/privacy-policy/ssNODELINK/TrexCom/218).
