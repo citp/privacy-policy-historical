@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcm.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424132603id_/http%3A//www.tcm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcm.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205073114id_/http%3A//www.tcm.com/privacy.html) for the most accurate reproduction.*
 
 # Turner Broadcasting Sytem, Inc. Online Privacy Statement
 
@@ -80,7 +80,7 @@ We also use the services of reputable third parties to provide us with data coll
 
 Our goal at the Turner Network is to provide you with ads that are relevant to you. Advertising enables us to provide the rich content for which sites on the Turner Network are known. Often our ads are based on the content of pages you are viewing, but we also provide ads tailored to your interests. Our hope is that by presenting ads tailored to your interests, we will enhance your experience across the Turner Network's diverse websites. 
 
-For example, if you often visit content on the Turner Network about travel, we may use "web beacons" to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies do not use personally identifiable information to make this happen but instead use anonymous identifiers within the "cookies" stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our [Ad Choices](https://web.archive.org/adchoices/index.html) page. 
+For example, if you often visit content on the Turner Network about travel, we may use "web beacons" to infer your possible interest in travel and may deliver an ad to you related to that interest. It's important to understand that these technologies do not use personally identifiable information to make this happen but instead use anonymous identifiers within the "cookies" stored in your browser. We offer you choices with regard to interest-based ads. To learn more about interest-based ads and the choices available to you, please visit our [Ad Choices](https://web.archive.org/adchoices/) page. 
 
 #### Turner's Participation in the Industry Self Regulatory Program for Interest Based Ads; Additional Choice Options 
 
