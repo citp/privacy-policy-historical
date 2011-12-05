@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accurateshooter.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528154548id_/http%3A//www.accurateshooter.com/admin/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accurateshooter.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205085202id_/http%3A//www.accurateshooter.com/admin/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy within AccurateShooter.com
 
