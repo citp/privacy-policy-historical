@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413055607id_/http%3A//www.preloved.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205111641id_/http%3A//www.preloved.co.uk/privacy) for the most accurate reproduction.*
 
-# Preloved | Free Photo ads in UK and Ireland
-
-| 
+# Preloved | Sell Used for Free Online in UK and Ireland
 
 [Home](http://www.preloved.co.uk/) > Preloved Privacy Policy 
 
@@ -88,29 +86,3 @@ N13 4BS
 England
 
 We may amend this Privacy Policy at any time by posting the amended terms on the site. All amended terms shall take effect automatically 30 days after they are initially posted on the site for existing members and immediately for all other visitors. This policy was last revised 5th November 2010.
-
-| 
-
-### Not a member yet?
-
-Why not join the fun for free! Members can sell their stuff completely free of charge, have searches prioritised for their local area, and lots more.
-
-[Join for free](http://members.preloved.co.uk/join) | [Member Log In](http://members.preloved.co.uk/loginform)
-
-### Become an Expert Second Hander
-
-Would you like to know how to snatch up the best bargains on Preloved? How to ensure the items you sell fetch the best possible price? 
-
-Then why not sign up to "The Haggler", our occasional email newsletter telling you everything you wanted to know about second hand, but were too afraid to ask.
-
-It lets you in on all the hints and tips that we have picked up behind the scenes here at Preloved, and is completely free of charge.
-
-[Sign up now...](http://www.preloved.co.uk/us)
-
-### Do you own a UK web site?
-
-If so, you can enhance your site and earn money at the same time simply by showing our latest classified listings on your site.
-
-[Find out more...](http://www.preloved.co.uk/affiliates)
-
-|  
