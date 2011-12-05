@@ -1,16 +1,20 @@
-<!--The following is the downloaded HTML source of the awardwallet.com privacy policy that was archived on 2011-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518162137id_/http%3A//awardwallet.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awardwallet.com privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205152735id_/http%3A//awardwallet.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<title>Track frequent flyer miles, cheap airfare, air miles reward program</title>
 	<meta name="keywords" content="Incentive reward center, Marriott reward, cheap airfare, reward incentive program,  American Express rewards, trip reward, air miles reward program, frequent flyer miles, track award program balances, air mile reward, award software, award program, delta sky miles, reward program reward network">
 	<meta name="description" content="AwardWallet.com allows you to track frequent flyer miles for FREE. You can search for cheap airfares, discuss and rate reward programs.">
-	<link rel="stylesheet" type="text/css" href="/design/mainStyle.css?v=90">
-<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/design/ie8.css?v=90"/><![endif]-->
-<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/design/ie7.css?v=90"/><![endif]-->
-<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/design/mainStyleIE6.css?v=90"/><![endif]-->
-<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/design/ie6.css?v=90"/><![endif]-->
+	<link rel="stylesheet" type="text/css" href="/design/mainStyle.css?v=121">
+<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/design/ie8.css?v=121"/><![endif]-->
+<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/design/ie7.css?v=121"/><![endif]-->
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/design/mainStyleIE6.css?v=121"/><![endif]-->
+<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/design/ie6.css?v=121"/><![endif]-->
+<style type="text/css">
+div#topBar { min-width: 960px; }
+div#topButtons { min-width: 360px; }
+</style>
 </head>
 
 <body class="second notLoggedIn" id="body">
@@ -27,14 +31,15 @@
 			</div>
 
 	<div id="topButtons">
-	<a href="https://awardwallet.com/?Register=1"><div id="registerButton" class="active button"><span><span>Register</span></span></div></a>
-	<a href="https://awardwallet.com/?Login=1"><div id="loginButton" class="active button"><span><span>Login</span></span></div></a>
+	<a href="#" onclick="showRegisterBox(); return false;"><div id="registerButton" class="active button"><span><span>Register</span></span></div></a>
+	<a href="#" onclick="showLoginBox(); return false;"><div id="loginButton" class="active button"><span><span>Login</span></span></div></a>
 		<div id="secondMenu">
 								<a class="link" href="http://awardwallet.com/forum/">Forum</a>
 								<a class="link" href="/rating/view.php">Reviews</a>
 								<a class="link" href="/contact.php">Contact Us</a>
 								<a class="link" href="/faqs.php">FAQs</a>
 								<a class="link" href="/forum/viewforum.php?f=16">News</a>
+								<a class="link" href="/onecard/">OneCard</a>
 					</div>
 	</div>
 	<div class="clear"></div>
@@ -61,7 +66,7 @@ The information we collect is used to improve the content of our web pages, it i
 
 With respect to cookies: we use cookies to customize web page content based on visitors' browser type or other information that the visitor sends.<br><br>
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or updating your profile at AwardWallet.com.<br><br>
+If you do not want to receive e-mail from us in the future, please update your profile at AwardWallet.com.<br><br>
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.<br><br>
 
@@ -70,17 +75,32 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving customer's data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.<br><br>
 
 If you feel that this site is not following its stated information policy, you may contact us at the above email addresses.
+<br><br>
+<div align="center" style="font-size: 12pt; font-weight : bold;">Safe Harbor</div><br>
+AwardWallet LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. AwardWallet LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view AwardWallet LLC ’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>
 <!-- end main pge -->
+<div id="restorePasswordContainer" style="opacity: 0; filter: alpha(opacity:0); display:none;">
+	<form method="post" action="/account/restorePasswords.php" enctype="multipart/form-data">
+		<input type="hidden" name="MAX_FILE_SIZE" id="MAX_FILE_SIZE" value="30000">
+		<div id="pwdContentsDiv" style=" cursor: pointer; position: absolute; overflow: hidden; vertical-align: middle; filter: alpha(opacity:0); opacity: 0;">
+			<input id="restorePwd" name="restorePwd" type="file" style="cursor: pointer;">
+		</div>
+		<input type="submit" id="restoreSubmit" style="filter: alpha(opacity:0); opacity: 0;">
+	</form>
+</div>
 </td></tr></tbody></table></div><!-- content -->
 
 </td></tr>
 <tr><td>
 
+
 <div id="footer">
 	<div class="footerYear">© 2004 - 2011</div>
 	<div class="footerLinks"><a href="/privacy.php">Privacy Notice</a> | <a href="#" onclick="showPolicy(); return false;">Terms of Use</a> | <a href="/about/">About Us</a> | <a href="/services/">Services</a> | <a href="/partners/">Partners</a>
-	</div>
-	<a href="http://itunes.apple.com/us/app/awardwallet/id388442727?mt=8" target="_blank"><div class="footerMobileLogo"></div></a>
+				<!--</br><br/> Maps generated by the <a target="_blank" href="http://www.gcmap.com/">Great Circle Mapper</a>&nbsp;copyright &#169; <a target="_blank" href="http://www.kls2.com/~karl/">Karl L. Swartz</a> -->
+<span style="color: white;">| s1r1w1s</span>	</div>
+	<a href="http://itunes.apple.com/us/app/awardwallet/id388442727?mt=8" target="_blank"><div style="top: 15px; right: 10px; position:absolute;" class="footerMobileLogo"></div></a>
+			<a href="https://market.android.com/details?id=com.itlogy.awardwallet&amp;feature=search_result" target="_blank"><div style="top: 15px; right: 100px; position:absolute;" class="footerAndroidLogo"></div></a>
 </div>
 <div id="browserWarning" class="topWarning">
 	<div class="warningIcon"></div>
@@ -92,6 +112,14 @@ If you feel that this site is not following its stated information policy, you m
 </tbody>
 </table>
 
+
+<!-- browser ext params -->
+<input type="hidden" id="extCommand" value="init">
+<input type="hidden" id="extParams" value="">
+<input type="button" id="extButton" style="display: none;">
+<input type="button" id="extListenButton" style="display: none;" onclick="browserExt.receiveCommand()">
+<input type="hidden" id="extBrowserKey" value="">
+<input type="hidden" id="extUserId" value="">
 
 <script>
 var pda = 0;
@@ -178,10 +206,14 @@ var debugMode = false;
 				</div>
 		</div>
 		
+
+
 <script type="text/javascript" language="JavaScript" src="/lib/3dParty/jquery/jq.js"></script>
-<script type="text/javascript" language="JavaScript" src="/design/awardWallet.js?v=90"></script>
-<script type="text/javascript" language="JavaScript" src="/lib/scripts.js?v=90"></script>
-<script type="text/javascript" src="/kernel/tripPlan.js?v=90"></script>
+<script type="text/javascript" language="JavaScript" src="/lib/3dParty/jquery/plugins/jquery.json-2.2.min.js"></script>
+<script type="text/javascript" language="JavaScript" src="/design/awardWallet.js?v=121"></script>
+<script type="text/javascript" language="JavaScript" src="/lib/scripts.js?v=121"></script>
+<script type="text/javascript" language="JavaScript" src="/kernel/browserExt.js?v=121"></script>
+<script type="text/javascript" src="/kernel/tripPlan.js?v=121"></script>
 <script type="text/javascript" src="/design/iepngfix_tilebg.js"></script>
 <script>
 	$(document).ready(function(){
@@ -205,13 +237,14 @@ pageTracker._trackPageview();
              xfbml: true});
   };
   (function() {
+  	if (typeof($.browser) != "undefined" && $.browser.msie && $.browser.version == '6.0')
+  		return;
     var e = document.createElement('script'); e.async = true;
     e.src = document.location.protocol +
       '//connect.facebook.net/en_US/all.js';
     document.getElementById('fb-root').appendChild(e);
   }());
 </script>
-
 
 
 	
