@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildamodule.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404234439id_/http%3A//buildamodule.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildamodule.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205181116id_/http%3A//buildamodule.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Build a Module.com
 
