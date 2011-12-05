@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gul.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618165315id_/http%3A//www.gul.com/Info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gul.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205215425id_/http%3A//www.gul.com/Info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
