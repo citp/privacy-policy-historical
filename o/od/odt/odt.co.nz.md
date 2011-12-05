@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odt.co.nz privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609050131id_/http%3A//www.odt.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odt.co.nz privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206004910id_/http%3A//www.odt.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Otago Daily Times Online News Keep Up to Date Local, National New Zealand & International News
+# Privacy Policy | Otago Daily Times Online News : Otago, South Island, New Zealand & International News
 
 _**Allied Press Limited**_
 
@@ -40,7 +40,7 @@ We use the personal information we collect:
 
 4\. to provide further information to you about other websites and services or which we consider may be of interest to you; 
 
-5\. for future marketing, promotional and publicity purposes, including to carry out direct marketing, market research and surveys; 
+5\. for future marketing, promotional and publicity purposes, including to carry out direct marketing, email marketing, market research and surveys; 
 
 6\. for ensuring that you are shown the advertising and information that is most relevant to you and your interests; and 
 
