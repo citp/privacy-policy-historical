@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifepics.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423145836id_/http%3A//www.lifepics.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifepics.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205234501id_/http%3A//www.lifepics.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
