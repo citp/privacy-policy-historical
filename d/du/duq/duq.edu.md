@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duq.edu privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515071404id_/http%3A//www.duq.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duq.edu privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205025147id_/http%3A//www.duq.edu/privacy.cfm) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
