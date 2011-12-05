@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the easeus.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625193440id_/http%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easeus.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205225609id_/http%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
 
-# EASEUS Privacy Policy.
+# EaseUS Privacy Policy.
 
-## CHENGDU YIWO Tech Development Co., Ltd's Privacy Policy
+## CHENGDU Yiwo® Tech Development Co., Ltd's Privacy Policy
 
-CHENGDU YIWO Tech Development Co., Ltd respects your privacy choices. If you give us personal information, we will treat it according to this policy. What is personal information? Generally, this may include your first and last name, address, e-mail address, and telephone number. If you make a purchase from our site, we will need to collect some information to be used only for the purpose of completing your purchase transaction.
+CHENGDU Yiwo® Tech Development Co., Ltd respects your privacy choices. If you give us personal information, we will treat it according to this policy. What is personal information? Generally, this may include your first and last name, address, e-mail address, and telephone number. If you make a purchase from our site, we will need to collect some information to be used only for the purpose of completing your purchase transaction.
 
-This policy covers the EASEUS web sites. Some of our advertisers, affiliates, or programs have their own, possibly different policies.
+This policy covers the EaseUS web sites. Some of our advertisers, affiliates, or programs have their own, possibly different policies.
 
-CHENGDU YIWO Tech Development Co., Ltd encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of CHENGDU YIWO Tech Development Co., Ltd's online privacy policy.
+CHENGDU Yiwo® Tech Development Co., Ltd encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of CHENGDU Yiwo® Tech Development Co., Ltd's online privacy policy.
 
 ## Types and uses of information.
 
 Your privacy is important to us.
 
-CHENGDU YIWO Tech Development Co., Ltd is committed to protecting your privacy. Because we collect two types of user information, General Statistical Information and Personal Identifying Information, we are providing you with this policy to inform you of how we use and, in limited circumstances, disclose such information.
+CHENGDU Yiwo® Tech Development Co., Ltd is committed to protecting your privacy. Because we collect two types of user information, General Statistical Information and Personal Identifying Information, we are providing you with this policy to inform you of how we use and, in limited circumstances, disclose such information.
 
 ## Collection, Use and Disclosure of General Statistical Information
 
@@ -48,7 +48,7 @@ We provide links to third party sites. Since we do not control these web sites, 
 
 ## Cookies:
 
-Most EASEUS web sites use "cookies." Cookies help us provide a better user experience by measuring which web site areas are of greatest interest. CHENGDU YIWO Tech Development Co., Ltd can only read cookies from EASEUS web sites. If you choose to disable cookies in your browser, you can still access most of our web sites.
+Most EaseUS web sites use "cookies." Cookies help us provide a better user experience by measuring which web site areas are of greatest interest. CHENGDU Yiwo® Tech Development Co., Ltd can only read cookies from EaseUS web sites. If you choose to disable cookies in your browser, you can still access most of our web sites.
 
 We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personal information from you. They use this information to tailor the advertisements.
 
@@ -58,4 +58,4 @@ All updates to this policy will be posted here. Last update: October 2005.
 
 ## Questions?
 
-Please send any questions or comments on our privacy practices to [corp@easeus.com](mailto:corp@easeus.com). CHENGDU YIWO Tech Development Co., Ltd is committed to user privacy in our products and services.
+Please send any questions or comments on our privacy practices to [corp@easeus.com](mailto:corp@easeus.com). CHENGDU Yiwo® Tech Development Co., Ltd is committed to user privacy in our products and services.
