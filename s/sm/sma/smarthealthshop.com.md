@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthealthshop.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529045158id_/http%3A//www.smarthealthshop.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthealthshop.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205225401id_/http%3A//www.smarthealthshop.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Smart Health Shop | Supplements, Vitamins, Diet, Weight Loss Sitemap
 
@@ -27,3 +27,5 @@ Contact Us
 Send all additional correspondence to: customersupport@smarthealthshop.com
 
 [](https://privacy-policy.truste.com/yahoo-policy/www.smarthealthshop.com "Privacy Policy by TRUSTe")
+
+*Order Today and Take 10% Off Everything! Coupon Code: today10*Bulk Discount: Buy _ANY_ 4 items get 1 FREE with coupon code: buy4get1(place 5 items in cart and enter code at checkout with $100 minimum purchase)
