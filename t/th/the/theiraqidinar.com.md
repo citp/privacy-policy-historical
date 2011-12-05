@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiraqidinar.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520220722id_/http%3A//theiraqidinar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiraqidinar.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205224903id_/http%3A//theiraqidinar.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
