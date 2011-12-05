@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixability.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429061715id_/http%3A//pixability.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixability.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205151539id_/http%3A//www.pixability.com/privacy) for the most accurate reproduction.*
 
 # PIXABILITY PRIVACY POLICY | Pixability
 
