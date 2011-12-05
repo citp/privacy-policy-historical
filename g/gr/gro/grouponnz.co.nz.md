@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grouponnz.co.nz privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527151552id_/http%3A//www.grouponnz.co.nz/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grouponnz.co.nz privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205232557id_/http%3A//www.grouponnz.co.nz/data_privacy) for the most accurate reproduction.*
 
 # Up to 90% discount on restaurants, spas, wellness, fitness - grouponnz.co.nz
 
@@ -7,7 +7,7 @@
 **We protect your personal information and data**
 
 **1\. Protecting You**  
-The Grouponnz by Groupon New Zealand website www.grouponnz.co.nz is owned and operated by Groupon New Zealand Limited (t/a Groupon New Zealand) of c/- DLA Phillips Fox, Level 22, DLA Phillips Fox Tower, 209 Queen Street, Auckland 1010, New Zealand. Groupon New Zealand Limited ("Groupon New Zealand", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully.
+The Grouponnz by Groupon New Zealand website www.grouponnz.co.nz is owned and operated by Groupon New Zealand Limited (t/a Groupon New Zealand) of Suite 402, Level 4, 8 Commerce Street, Auckland 1010, New Zealand. Groupon New Zealand Limited ("Groupon New Zealand", "we," "us," "our") is committed to protecting your privacy. We will only use the information that we collect about you lawfully.
 
 Please note that use of the Website by you is subject to this privacy policy (the "Policy") and the Website’s [terms and conditions](http://www.grouponnz.co.nz/terms_and_conditions) of use ("Terms and Conditions"). Where this Policy uses a word starting with a capital letter, that term will be defined in the Terms and Conditions or elsewhere in this Policy.
 
