@@ -1,0 +1,86 @@
+> *The following text is extracted and transformed from the noelgallagher.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205015918id_/http%3A//www.noelgallagher.com/privacy.php) for the most accurate reproduction.*
+
+# Noel Gallagher - Privacy Policy
+
+[](https://web.archive.org/)
+
+This website ("website") is operated by Sour Mash Records Ltd. (SMRL) whose address is PO Box 29479, London, NW1 8GG.
+
+The terms "]", "we", "us", "our" and "ours" when used in this Privacy Statement mean SMRL which includes both subsidiaries, divisions, branches, affiliates or companies under the control of SMRL.
+
+The terms "you", "your" and "yours" when used in this Privacy Statement mean any user of this website.
+
+**IMPORTANT: BY SUBMITTING PERSONAL DATA TO US AND/OR BY USING OUR WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW.**
+
+**SCOPE OF PRIVACY STATEMENT**  
+We are committed to the privacy and confidentiality of information provided by you to us. This Privacy Statement describes our current policies and practices with regard to Personal Data collected by us from you directly and/or through the website to the extent that such Personal Data is protected by applicable European data protection laws. The term "Personal Data" refers to personally identifiable information about you, such as your name, e-mail address or mailing address.
+
+**NOTIFICATION OF CHANGES TO PRIVACY STATEMENT**  
+We are continually improving our methods of communication and adding new functionality and features to this website and to our existing products and services. Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change from time to time. If and when our data practices change, we will notify you and the local data authority where required by law of the changes. We encourage you to check this page frequently.
+
+**COLLECTION OF PERSONAL DATA INCLUDING E-MAIL ADDRESSES**  
+You may choose to buy products from us or receive additional information from us. When you purchase our products or request additional information, we request personal information about you such as your name, postal address, e-mail address, telephone number and payment details. We may also ask for demographic information to enable us to provide a personalised service to you. The information you provide is either manually or electronically stored in our databases. We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate post codes are received, we may use third party software to fix them.
+
+**USE OF PERSONAL DATA**  
+We will use your Personal Data to fulfill your requests and we will ask only for data that is adequate, relevant and not excessive for those purposes. Where we send you information for any purpose, it may be sent by e-mail or post. When we ask you for Personal Data it may include the following purposes:
+
+We may contact you occasionally to inform you of new acts, artists or products we will be promoting;  
+We may send you regular updates on issues we think will be of interest to you;  
+We may send you requested information on our products and services;  
+We may use your Personal Data for marketing purposes and market research; and  
+We may use your Personal Data internally to administer this website and help us improve our services.
+
+**UNSUBSCRIBE**  
+We hope you will be delighted with our products and services. However, if you do not wish to receive e-mails from us and want to be removed from our electronic mailing list, please e-mail us at the address given below with "Email Unsubscribe" in the subject heading.
+
+If you also wish to be removed from our post marketing database, please let us know by e-mailing us at the address given below with "Mail Unsubscribe" in the subject heading or writing to us at the address given below.
+
+**ANONYMOUS DATA COLLECTED THROUGH THIS WEBSITE**  
+In addition to the information we collect as described above, we use technology to collect anonymous information about the use of our website. For example, our web server automatically logs which pages of our website our visitors view, their IP addresses and which web browsers our visitors use. This technology does not identify you personally, it simply enables us to compile statistics about our visitors and their use of our website.
+
+Our website contains hyperlinks to other pages on our website. We may use technology to track how often these links are used and which pages on our website our visitors choose to view. Again this technology does not identify you personally - it simply enables us to compile statistics about the use of these hyperlinks.
+
+**COOKIES**  
+In order to collect the anonymous data described in the preceding paragraph, we may use temporary "cookies" that remain in the cookies file of your browser until the browser is closed.
+
+Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer's hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not.
+
+We also use your IP address to help diagnose problems with our server and to administer our website. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information.
+
+We may also perform IP lookups to determine which domain you are coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics.
+
+**DISCLOSURE OF YOUR PERSONAL DATA**  
+We do not share, sell or distribute your Personal Data with unrelated third parties, except as otherwise provided for in this Privacy Statement and under these limited circumstances:
+
+In order to provide you with the information or products which you have requested, Personal Data may occasionally be transferred or shared with other companies within our group of companies or third parties who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented. For example, sometimes a third party may have access to your Personal Data in order to support our information technology or to handle mailings on our behalf.
+
+We will keep your contact details on our database and may, from time to time, e-mail or post you information to make you aware of our other similar products and services which may be of interest to you. If you do not wish to receive e-mails or post from us for these purposes, please let us know by following the "unsubscribe" procedure set out above.
+
+Where you have consented, we may also share your Personal Data with other companies within our group of companies or disclose your Personal Data to other businesses who may contact you about their products or services that may interest you.
+
+We may share, transfer or disclose the information in our databases and server logs to comply with a legal requirement, for the administration of justice, interacting with anti-fraud databases, to protect your vital interests, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of our sale, merger, re-organisation, dissolution or similar event.
+
+We will inform you of any such transfer or disclosure as required by law.
+
+Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data and to comply with applicable law.
+
+**DATA ACCESS AND CORRECTIONS**  
+Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will disclose to you the Personal Data we hold about you, for which we may make a charge up to the maximum as allowed by applicable law. We will also correct, amend or delete any Personal Data that is inaccurate and notify any third party recipients of the necessary changes. You may update any information you have given to us by contacting us at the addresses given below.
+
+Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations imposed on us.
+
+**LINKS TO OTHER WEBSITES**  
+This website may contain hyperlinks to websites that are not operated by us. These hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. We do not control these websites and are not responsible for their data or privacy practices. We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself.
+
+**TRANSFER OF DATA ABROAD**  
+If you are visiting this website from a country other than the country in which our servers are located (currently England) the various communications will necessarily result in the transfer of information across international boundaries.
+
+By visiting this website and communicating electronically with us, you consent to the processing and transfer of your Personal Data as set out in this Privacy Statement.
+
+**GOVERNING LAW**  
+The laws of England and Wales govern any controversy or claim of whatever nature arising out of or relating to the use of this website, without regard to any conflict of laws provisions. All actions or proceedings arising out of or relating to this Privacy Statement, its validity, performance, enforcement or breach, or the subject matter of this Privacy Statement may be heard in the courts of England and Wales and you hereby irrevocably consent and submit yourself to the personal jurisdiction of said courts for all such purposes. Notwithstanding the foregoing, we retain the right to bring legal proceedings in any jurisdiction where we believe that breach of this agreement is taking place or originating.
+
+**FEEDBACK**  
+We welcome comments about this Privacy Statement. If you have any questions about this Statement or any part of our service, you may contact us by e-mailing [info@rkid.co.uk](mailto:info@rkid.co.uk). Any feedback will be stored at this office.
+
+[http://www.noelgallagher.com](https://web.archive.org/)
