@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the justplay.co.za privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507081203id_/http%3A//www.justplay.co.za/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justplay.co.za privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205192417id_/http%3A//www.justplay.co.za/Privacy.aspx) for the most accurate reproduction.*
 
-# Free Online Competitions | Win Prizes Online | JustPlay
+# Online Competition Privacy Policy - View Justplay's Competition Privacy Policy
+
+###  JustPlay Privacy Policy
 
 **Last updated: 1 May 2009**
 
@@ -33,7 +35,7 @@ JustPlay provides links to other sites from our website and our emails. The priv
 
 **Contact Information**   
 If you have questions regarding this Privacy Policy Statement please contact Just Play at:  
-By email: [Click here](mailto:support@justplay.co.za)  
+By email: [support@justplay.co.za](mailto:support@justplay.co.za)  
 By post: PO Box 53511 Kenilworth 7745
 
 Last updated: 1 May 2009 
