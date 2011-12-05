@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100pulse.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622223027id_/http%3A//100pulse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100pulse.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205040752id_/http%3A//100pulse.com/privacy.html) for the most accurate reproduction.*
 
 # 100pulse.com Website Monitoring Service Privacy Policy
 
@@ -31,7 +31,7 @@ Some of our advertisers use third-party companies to serve their advertisements 
 (ii). To enhance the Subscriber experience we use tracking information to determine how well each page performs overall based on aggregate Subscriber demographics and traffic patterns to those pages. This helps us continue to build a better service for you.  
 (iii) To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling Subscribers to participate in polls and contests.   
 (iv) To customize the promotions, advertising and content you see, which helps keep certain of our services free to Subscribers. This allows our sponsors and advertisers to market their products and services more effectively, and allows our Subscribers to receive promotions and advertisements that are pertinent to their interests and needs. This, in turn, helps keep certain of our services free to Subscribers.   
-(v) â€¢ To send Subscribers information about 100pulse as well as announcements, updates and other carefully screened special offers and promotions from 100pulse and our partners. Subscribers may expect to receive no more than four special offers or promotions by email per month. 
+(v) • To send Subscribers information about 100pulse as well as announcements, updates and other carefully screened special offers and promotions from 100pulse and our partners. Subscribers may expect to receive no more than four special offers or promotions by email per month. 
 
 4\. How Does 100pulse Share The Information? 
 
