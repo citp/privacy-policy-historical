@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorwarepc.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522200947id_/http%3A//www.colorwarepc.com/company.aspx%3FmainClass%3DshowPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorwarepc.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205095016id_/http%3A//www.colorware.com/company.aspx%3FmainClass%3DshowPrivacyPolicy) for the most accurate reproduction.*
 
 # ColorWare - Company PrivacyPolicy
 
@@ -8,7 +8,7 @@ This document was last updated on November 28, 2007.
 
 #####  1\. ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS
 
-ColorWare, Inc. is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.colorwarepc.com](https://web.archive.org/web/20110522200947id_/http%3A//www.colorwarepc.com/www.colorwarepc.com), you acknowledge and fully understand ColorWare, Inc.’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
+ColorWare, Inc. is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.colorware.com](https://web.archive.org/web/20111205095016id_/http%3A//www.colorware.com/www.colorware.com), you acknowledge and fully understand ColorWare, Inc.’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
 
 #####  2\. PARTICIPATING MERCHANT POLICIES
 
@@ -58,7 +58,7 @@ We will not disclose personally identifiable information we collect from you to 
 
 #####  5\. ACCESSING WEB ACCOUNT INFORMATION
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant: [sales@colorwarecustom.com](mailto:sales@colorwarecustom.com). 
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant: [sales@colorware.com](mailto:sales@colorware.com). 
 
 #####  6\. CHANGES TO THIS STATEMENT
 
@@ -66,7 +66,7 @@ ColorWare, Inc. has the discretion to occasionally update this privacy statement
 
 #####  7\. CONTACTING US
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [sales@colorwarecustom.com](mailto:sales@colorwarecustom.com). 
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [sales@colorware.com](mailto:sales@colorware.com). 
 
 You may also send your comments to: 
 
