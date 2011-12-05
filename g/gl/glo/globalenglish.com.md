@@ -1,50 +1,70 @@
-> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303110112id_/http%3A//www.globalenglish.com/m/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalenglish.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205124843id_/http%3A//www.globalenglish.com/privacy) for the most accurate reproduction.*
 
-# GlobalEnglish - Privacy Statement
+# Privacy Policy | GlobalEnglish
 
-#### Privacy Statement
+## GLOBALENGLISH CORPORATION PRIVACY STATEMENT
+
+## Effective as of October 30, 2011
 
 We at GlobalEnglish Corporation ("we", "GlobalEnglish", "our", or "us") are committed to the responsible use of your personal information and the protection of your privacy. This privacy statement applies to all the products and services on our Web site [www.globalenglish.com](http://www.globalenglish.com/) where we collect information on the Web site or via e-mail.
 
-We strongly encourage you to read this privacy statement carefully. If you have any questions about our statement or our use of your personal information, please feel free to contact us by sending an email to privacy@globalenglish.com or by writing to us at GlobalEnglish Corporation, 8000 Marina Boulevard, Suite 810, Brisbane, CA 94005, USA, Attn: Privacy Officer.
+We strongly encourage you to read this privacy statement carefully. If you have any questions about our statement or our use of your personal information, please feel free to contact us by sending an email to [privacy@globalenglish.com](mailto:privacy@globalenglish.com) or by writing to us at GlobalEnglish Corporation, 8000 Marina Boulevard, Suite 810, Brisbane, CA 94005, USA, Attn: Privacy Officer. 
 
 We may update this privacy statement from time to time to reflect changes in our use of your personal information and/or applicable law. Any changes made to our privacy statement will be reflected in an updated statement (denoted by an effective date later than the one currently identified above) posted to our Web site.
 
+## Collection and Use of Information
+
 In order to provide our full range of services and provide the best customer experience for our customers, we may collect the following types of information: 
 
-##### User-provided Information 
+**User-provided Information**
 
 GlobalEnglish collects certain personal information from its users (such as your name, email address, telephone number, and mailing address). In addition, certain aspects of our Web site require that you register in order to obtain a user name and password from us. We may retain and use those communications in order to process your requests, respond to communications, or improve the quality of our customer experience. If you provide feedback via our Web site or otherwise, we may also retain and use those communications for the same purposes. In order to purchase products or services from our Web site, we may require you to submit a credit card for payment. We take reasonable steps to encrypt your credit card information as it is processed and stored on our servers. Further, the compensation features of the Web site may require you to submit to a third party other personal financial information, such as your bank account or credit card information. Any personal information or other content that you voluntarily disclose online becomes publicly available and can be collected and used by others. 
 
-##### Cookies
+**Cookies**
 
-GlobalEnglish also collects anonymous information by using "cookies." Cookies are bits of electronic information which a Web site can transfer to your hard drive to help tailor and keep records of your visit and activities at the site. Since cookies are only text files, they cannot run on your computer, be used to search your computer for other information, or transmit any information to anyone. Cookies allow Web site operators to better tailor visits to the site to the visitor's individual preferences. The use of cookies is standard on the Internet and many major Web sites use them. Your browser may enable you to delete or disable our cookie files. Deleting, disabling, or restricting the receipt of our cookie files may affect your ability to access certain portions of our Web site.
+GlobalEnglish also collects anonymous information by using "cookies." Cookies are bits of electronic information which a Web site can transfer to your hard drive to help tailor and keep records of your visit and activities at the site. Since cookies are only text files, they cannot run on your computer, be used to search your computer for other information, or transmit any information to anyone. Cookies allow Web site operators to better tailor visits to the site to the visitor's individual preferences. The use of cookies is standard on the Internet and many major Web sites use them. Your browser may enable you to delete or disable our cookie files. Deleting, disabling, or restricting the receipt of our cookie files may affect your ability to access certain portions of our Web site. 
 
-##### Logs
+**Logs**
 
-By accessing our Web site, our Internet servers automatically record information your Internet browser sends when you visit a Web site. These logs may contain information such as your Internet protocol (IP) address, browser version, domain name, language, date and time, the referring Web site, and information in your cookie files. We may also present Internet hyperlinks to other Web sites in a format that enables us to track whether those links have been followed. We only use information in our logs to provide services to you and to improve the quality and effectiveness of the services we offer.
+By accessing our Web site, our Internet servers automatically record information your Internet browser sends when you visit a Web site. These logs may contain information such as your Internet protocol (IP) address, browser version, domain name, language, date and time, the referring Web site, and information in your cookie files. We may also present Internet hyperlinks to other Web sites in a format that enables us to track whether those links have been followed. We only use information in our logs to provide services to you and to improve the quality and effectiveness of the services we offer. 
 
 We will only use your personal information (i) to provide our services or information about our services to you, (ii) for analysis in order to improve our services and operations, (iii) to develop products and services, (iv) to comply with applicable law, rules, and regulations, and (v) for the specific reasons outlined on our Web site when we collect your information. Your account name (not your email address) may be displayed to other users when you upload content or send messages through our Web site and other users can contact you through the Internet and other media channels. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt in or opt out. We may, however, use your email address without further consent for non-marketing or administrative purposes. 
 
 If we use your information for a purpose different from those outlined above, we will ask for your consent prior to such use. You may choose to opt out of such use at such time. We will not collect or use information we know to be related to confidential medical information, racial or ethnic origins, political or religious beliefs, or sexuality tied to your personal information (collectively, "sensitive information") for purposes other than those described in this privacy statement, unless we have obtained your prior consent. You may also request that we remove your personal information from our active systems at any time by contacting us at the email or street address noted above. 
 
-We only share your personal information with third parties in the following limited circumstances: (a) we have your consent; (b) we provide such information to our subsidiaries, affiliated companies, or other trusted businesses or persons for the purpose of processing personal information on our behalf; we require that these parties agree to process such information based on our instructions and in compliance with this privacy statement and any other appropriate confidentiality and security measures; or (c) we have a good-faith belief that access, use, preservation, or disclosure of such information is reasonably necessary to (i) satisfy applicable law, regulation, legal process, or enforceable governmental request, (ii) enforce our Terms of Use, including investigation of potential violations thereof, (iii) detect, prevent, or otherwise address fraud, security, or technical issues, or (iv) protect against imminent harm to the rights, property, or safety of GlobalEnglish, its users, or the public, as required or permitted by law. We may share certain aggregated, non-personal information collected from you (such as your browser type) with third parties in order to improve our services, but such information will not be sufficient to individually identify you. If you wish to revoke your consent to our sharing of your personal information, you may contact us at the email or street address noted above to request we discontinue sharing your personal information. You may not revoke your consent to our sharing of your information when such revocation would violate applicable law or a directive from a court of competent jurisdiction.
+## Information Sharing
+
+We only share your personal information with third parties in the following limited circumstances: (a) we have your consent; (b) we provide such information to our subsidiaries, affiliated companies, or other trusted businesses or persons for the purpose of processing personal information on our behalf; we require that these parties agree to process such information based on our instructions and in compliance with this privacy statement and any other appropriate confidentiality and security measures; or (c) we have a good-faith belief that access, use, preservation, or disclosure of such information is reasonably necessary to (i) satisfy applicable law, regulation, legal process, or enforceable governmental request, (ii) enforce our Terms of Use, including investigation of potential violations thereof, (iii) detect, prevent, or otherwise address fraud, security, or technical issues, or (iv) protect against imminent harm to the rights, property, or safety of GlobalEnglish, its users, or the public, as required or permitted by law. We may share certain aggregated, non-personal information collected from you (such as your browser type) with third parties in order to improve our services, but such information will not be sufficient to individually identify you. If you wish to revoke your consent to our sharing of your personal information, you may contact us at the email or street address noted above to request we discontinue sharing your personal information. You may not revoke your consent to our sharing of your information when such revocation would violate applicable law or a directive from a court of competent jurisdiction. 
 
 We do not share or sell your information to third parties for marketing purposes. 
 
+## Access
+
 We make good-faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. You may review and request changes to your personal information stored on our active systems by contacting us at the email or street address noted above. We ask individual users to identify themselves and the information requested to be accessed, corrected, or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. 
+
+## Security
 
 We take reasonable measures to identify and prevent unauthorized access to our systems or unauthorized alteration, disclosure, or destruction of your personal information. We also restrict access to your personal information to only those persons who need the information in order to perform the services we offer. Your personal information may be stored on computer systems maintained by an agent or service provider of our company, each of which will be bound by agreement to protect the confidentiality of your personal information. Our computer systems are located in the United States of America, but the computer systems of our service providers may be located in another country. Your submission of personal information constitutes your consent to the transfer and storage of your information across international borders. 
 
-We only store and process your information for the purpose for which we collected such information or as otherwise described in this privacy statement. We take reasonable steps to verify the information we collect is complete and accurate, but our ability to maintain the accuracy and completeness of such information is dependent on the users of our Web site providing updated and corrected information to us as necessary. We review our information-use practices as necessary in order to improve the services we offer.
+## Data Integrity
+
+We only store and process your information for the purpose for which we collected such information or as otherwise described in this privacy statement. We take reasonable steps to verify the information we collect is complete and accurate, but our ability to maintain the accuracy and completeness of such information is dependent on the users of our Web site providing updated and corrected information to us as necessary. We review our information-use practices as necessary in order to improve the services we offer. 
+
+## Enforcement
 
 GlobalEnglish regularly reviews its compliance with this privacy statement. Please feel free to direct any questions or concerns regarding this privacy statement or treatment of personal information by GlobalEnglish by contacting us at the email or street address noted above. When we receive formal written complaints at this address, it is our policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between GlobalEnglish and an individual. 
 
-Our Web site is not designed nor directed at anyone under the age of 13, and we do not knowingly accept personal information from persons under the age of 13. If we become aware a person under the age of 13 has provided us personal information, we will discontinue the use of such information and remove it from our active systems.
+## Information From Children
 
-We may provide hyperlinks on our Web site to Web sites controlled by third parties. This privacy statement does not govern the use of such Web sites.
+Our Web site is not designed nor directed at anyone under the age of 13, and we do not knowingly accept personal information from persons under the age of 13. If we become aware a person under the age of 13 has provided us personal information, we will discontinue the use of such information and remove it from our active systems. 
 
-We adhere to the U.S. Safe Harbor privacy principles. You can find more information about the Safe Harbor framework or our registration at the Department of Commerce's Web site: <http://www.export.gov/safeharbor/>. 
+## Links
 
-[We self-certify compliance with](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list):  
-[](http://export.gov/safeharbor)
+We may provide hyperlinks on our Web site to Web sites controlled by third parties. This privacy statement does not govern the use of such Web sites. 
+
+## Safe Harbor
+
+GlobalEnglish complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. GlobalEnglish has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
+
+[We self-certify compliance with:](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)  
+[](http://www.export.gov/safeharbor "Safe Harbor")
