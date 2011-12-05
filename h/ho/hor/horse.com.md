@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horse.com privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831042433id_/http%3A//www.horse.com/cs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horse.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205161141id_/http%3A//www.horse.com/CS/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Horse.com
 
@@ -29,11 +29,11 @@ How do we use your information?
 
 The information that you provide allows us to serve you better by providing you with a convenient, personalized shopping experience. We use your information to process your order, update you on order status and customize the content of our web pages.
 
-We also add your information to our customer database, so you may receive periodic mailings from us about new products and services or special promotions. If you do not want to receive these mailings from us, please opt out by sending us an email with the subject "Unsubscribe" to [mailto:unsubscribe@horse.com](mailto:unsubscribe@horse.com).
+We also add your information to our customer database, so you may receive periodic mailings from us about new products and services or special promotions. If you do not want to receive these mailings from us, please [contact us online ](https://web.archive.org/CS/Feedback.aspx) with the subject line "Unsubscribe".
 
-You may also receive periodic promotional emails from us. If you do not want to receive such emails from us, please opt out by sending us an email with the subject "Unsubscribe" to [mailto:unsubscribe@horse.com](mailto:unsubscribe@horse.com). Or click the "unsubscribe" link at the bottom of every promotional email we send to you. Please note: You will still receive emails from us that are necessary to process your order or respond to your requests.
+You may also receive periodic promotional emails from us. If you do not want to receive such emails from us, please [contact us online ](https://web.archive.org/CS/Feedback.aspx) with the subject line "Unsubscribe". Or click the "unsubscribe" link at the bottom of every promotional email we send to you. Please note: You will still receive emails from us that are necessary to process your order or respond to your requests.
 
-Occasionally, we may provide your name and postal address (but not your email address or phone number) to a select group of companies whose products may be of interest to you. If you do not want us to share your name and postal information with these companies, please email us at [customerservice@horse.com](mailto:customerservice@horse.com).
+Occasionally, we may provide your name and postal address (but not your email address or phone number) to a select group of companies whose products may be of interest to you. If you do not want us to share your name and postal information with these companies, please [contact us online. ](https://web.archive.org/CS/Feedback.aspx)
 
 Also, we must share your information with third party companies to provide products and services to you such as packaging and shipping your order. We only share the information that is needed for the third party company to provide the necessary product or service, and all of our third party companies are contractually-restricted from using your information for any reason other than helping us to provide the necessary product or service. In the event that you arrive at our site through a link from a third party site, we may share limited information provided by you with that third party site to allow us to manage and administer our marketing affiliate program.
 
@@ -88,9 +88,9 @@ Contact Us
 
 If you have any questions or concerns about our policies or to have your name and information removed from any of TabCom, LLC's lists or databases, please contact us anytime at:
 
-**Phone:** 1.800.637.6721 (customer service number)
+**Phone:** 1.888.653.0026 (customer service number)
 
-**Email:** [customerservice@horse.com](mailto:customerservice@horse.com)
+**Email:** [Contact us online ](https://web.archive.org/CS/Feedback.aspx)
 
 **Mail:** TabCom, LLC  
 Privacy Policy Administration  
