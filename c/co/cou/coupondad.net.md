@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coupondad.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524060310id_/http%3A//www.coupondad.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondad.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205034425id_/http%3A//www.coupondad.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Coupon Dad
+# Privacy Policy
 
 PRIVACY POLICY
 
@@ -10,7 +10,7 @@ http://www.coupondad.net
 
 http://www.coupondad.net/blog
 
-http://sanantonio.coupondad.net
+http://www.sanantoniocoupondad.com
 
 http://reviewguide.coupondad.net
 
@@ -60,4 +60,4 @@ If you have any questions or concerns regarding this privacy policy, or you wish
 
 webmaster (at) coupondad.net
 
-This privacy policy was last updated on 10-18-2010.
+This privacy policy was last updated on 06-16-2011.
