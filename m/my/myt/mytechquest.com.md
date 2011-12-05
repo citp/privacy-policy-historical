@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytechquest.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612061338id_/http%3A//mytechquest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytechquest.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205123222id_/http%3A//mytechquest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | My Tech Quest
+# My Tech Quest :: Privacy Policy
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site www.mytechquest.com . The following discloses the information gathering and dissemination practices for this Web site.
 
