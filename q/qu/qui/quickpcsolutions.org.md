@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickpcsolutions.org privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606074853id_/http%3A//www.quickpcsolutions.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickpcsolutions.org privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205044958id_/http%3A//www.quickpcsolutions.org/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
