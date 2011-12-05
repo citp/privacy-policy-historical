@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611151814id_/http%3A//www.legitonlinejobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitonlinejobs.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205024611id_/http%3A//www.legitonlinejobs.com/privacy.html) for the most accurate reproduction.*
 
 # Legit Online Jobs - Privacy Policy
 
 ## Privacy Policy
+
+[ ](http://secure.trust-guard.com/certificates/1004) 
 
 Sharing Personal Information with Third Parties:  
 We will never sell or give away your personal information to third parties for purposes of building contact lists without your permission. We stand firmly against any transfer of personal information for reasons of building the contact lists of third parties.
@@ -89,15 +91,16 @@ If you have any questions about this privacy statement, the practices of this we
 
 Mailing Address:
 
-Legit Online Jobs  
-2972 Columbia St. Suite 3063  
-Torrance, CA 90503   
-USA
+**Legit Online Jobs, LLC  
+200 South Biscayne Boulevard  
+Suite 2790 ,   
+Miami FL 33131  
+United States**
 
 Policy Changes: 
 
 Legit Online Jobs reserves the right to change this privacy policy at any time. 
 
-This Privacy Policy was last revised on January 1, 2011.
+This Privacy Policy was last revised on August 14, 2011.
 
 Copyright © 2011 Legit Online Jobs. All rights reserved. 
