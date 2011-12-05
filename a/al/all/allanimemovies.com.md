@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allanimemovies.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606062020id_/http%3A//support.allanimemovies.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2916%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allanimemovies.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205065315id_/http%3A//support.allanimemovies.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D2916%26country%3Dus) for the most accurate reproduction.*
 
 # All Anime Movies
 
