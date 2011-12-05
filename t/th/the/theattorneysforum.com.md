@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theattorneysforum.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625033116id_/http%3A//www.lexisnexis.com/privacy/statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theattorneysforum.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205223419id_/http%3A//www.lexisnexis.com/privacy/statement.aspx) for the most accurate reproduction.*
 
 # LexisNexis Privacy Statement - LexisNexis
 
