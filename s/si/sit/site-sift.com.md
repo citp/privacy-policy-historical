@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the site-sift.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522223501id_/http%3A//www.site-sift.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site-sift.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205035638id_/http%3A//www.site-sift.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Site Sift
 
-**Site Sift Media, Inc**.   
-3155 East Patrick Lane  
-Suite 1   
-Las Vegas, NV, 89120-3481 
+Ziffen LLC   
+700 E. Redlands Blvd   
+Ste U-294   
+Redlands, CA 92374 
 
 We can be reached via e-mail at info@site-sift.com 
 
@@ -19,11 +19,11 @@ With respect to cookies: We use cookies to store visitors preferences, record se
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
 
-We do not share your information with anyone outside of Site Sift Media, Inc. unless ordered to do so by law. 
+We do not share your information with anyone outside of Ziffen LLC unless ordered to do so by law. 
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
 
-If you would like not to be contacted by Site Sift Media, Inc. please provide us with your name and phone number. We will be sure your name is removed from our contact list.
+If you would like not to be contacted by Ziffen LLC please provide us with your name and phone number. We will be sure your name is removed from our contact list.
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.    
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. 
