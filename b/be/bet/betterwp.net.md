@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterwp.net privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605195504id_/http%3A//betterwp.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterwp.net privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205203211id_/http%3A//betterwp.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for BetterWP.Net - Better WordPress
 
@@ -18,7 +18,7 @@ betterwp.net does use cookies to store information about visitors preferences, r
 
 .:: Google, as a third party vendor, uses cookies to serve ads on betterwp.net.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to betterwp.net and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://betterwp.net/redirect-to?http://www.google.com/privacy_ads.html)
 
 Some of this website’s advertising partners may use cookies and web beacons on the site. This website’s advertising partners include Google Adsense and other WordPress, Hosting related companies.
 
