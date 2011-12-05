@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620211724id_/http%3A//www.shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205165144id_/http%3A//shutterstock.com/privacy.mhtml) for the most accurate reproduction.*
 
 # Shutterstock: Privacy Statement for Shutterstock Images
 
