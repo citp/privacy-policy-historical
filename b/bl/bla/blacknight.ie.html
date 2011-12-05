@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blacknight.ie privacy policy that was archived on 2011-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110529215803id_/http%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blacknight.ie privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205162847id_/http%3A//www.blacknight.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -12,11 +12,8 @@
 -->
 
 	<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_8192c2092f.css">
-	<link rel="stylesheet" type="text/css" href="fileadmin/blank.css">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<link rel="stylesheet" type="text/css" href="fileadmin/stylesheets/stylecompressed.css">
 <!-- headerstuff.html -->
-
-<link href="fileadmin/stylesheets/style.css" rel="stylesheet" type="text/css" media="screen">
 <!--[if lte IE 6]>
 <link href="fileadmin/stylesheets/style-ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
@@ -32,7 +29,7 @@
 
 <!-- layout.html -->
 <!--GEOIP JS SCRIPT-->
-<!--<script type="text/javascript" src="/fileadmin/javascript/jquery/cookie-functions.js"></script>-->
+<script type="text/javascript" src="/fileadmin/javascript/jquery/cookie-functions.js"></script>
 
 <!-- Currency Conversion not yet live!
 
@@ -53,97 +50,6 @@
     }   
 </script>
 -->
-<script type="text/javascript" language="JavaScript">
-function loadlinkswap()
-	{
-	    var company_name = document.getElementById('company_name').value;
-	    var url = document.getElementById('url').value;
-	    var hover_text = document.getElementById('hover_text').value;
-	    var email = document.getElementById('email').value;
-	    if ( company_name == "" || url == "" || email == "" )
-	    	{
-	    	    if ( hover_text = "" ) {
-	    	    	hover_text = company_name;
-	    	    }
-	    	    document.getElementById('warning').innerHTML="Please fill in all fields, If you omit the Hover text your company <br>will be used when the mouse is held on the link." 
-	    	}
-	    else 
-	    	{
-		    var params = "company_name=" + company_name + "&url=" + url + "&hover_text=" + hover_text + "&email=" + email;
-		    var file = "/fileadmin/linkswap/add_link.php";
-		    
-		    if (window.XMLHttpRequest)
-		    {// code for IE7+, Firefox, Chrome, Opera, Safari
-			xmlhttp=new XMLHttpRequest();
-			xmlhttp.open("POST",file,false);
-			xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-			xmlhttp.setRequestHeader("Content-length", params.length);
-			xmlhttp.setRequestHeader("Connection", "close");
-		    	xmlhttp.send(params);
-			document.getElementById('linkswap').innerHTML=xmlhttp.responseText;
-			document.getElementById('warning').innerHTML="";
-		    }
-		    else
-		    {// code for IE6, IE5
-			xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-			xmlhttp.open("POST",file,false);
-			xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-			xmlhttp.setRequestHeader("Content-length", params.length);
-			xmlhttp.setRequestHeader("Connection", "close");
-		    	xmlhttp.send(params);
-			document.getElementById('linkswap').innerHTML=xmlhttp.responseText;
-			document.getElementById('warning').innerHTML="";
-		    }
-		}	   
-	}
-function loadtestimonial()
-{
-	    var company = document.getElementById('company').value;
-	    var url = document.getElementById('url').value;
-	    var testimonial = document.getElementById('testimo').value;
-	    var signed = document.getElementById('signed').value;
-	    var email = document.getElementById('email').value;
-
-	    if ( company == "" || url == "" || email == "" || testimonial == "" || signed == "")
-	    	{
-	    	    if ( hover_text = "" ) {
-	    	    	hover_text = company_name;
-	    	    }
-				alert('Please fill in all fields');
-	    	    document.getElementById('warning').innerHTML="Please fill in all fields!" 
-	    	}
-	    else 
-	    	{
-		    var params = "company=" + company + "&url=" + url + "&testimonial=" + testimonial + "&email=" + email + "&signed=" + signed;
-		    var file = "/fileadmin/testimonial/add_testimonial.php";
-
-		    
-		    if (window.XMLHttpRequest)
-		    {// code for IE7+, Firefox, Chrome, Opera, Safari
-			xmlhttp=new XMLHttpRequest();
-			xmlhttp.open("POST",file,false);
-			xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-			xmlhttp.setRequestHeader("Content-length", params.length);
-			xmlhttp.setRequestHeader("Connection", "close");
-		    xmlhttp.send(params);
-			document.getElementById('testimonial').innerHTML=xmlhttp.responseText;
-			document.getElementById('warning').innerHTML="";
-		    }
-		    else
-		    {// code for IE6, IE5
-			xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-			xmlhttp.open("POST",file,false);
-			xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-			xmlhttp.setRequestHeader("Content-length", params.length);
-			xmlhttp.setRequestHeader("Connection", "close");
-		    xmlhttp.send(params);
-			document.getElementById('testimonial').innerHTML=xmlhttp.responseText;
-			document.getElementById('warning').innerHTML="";
-		    }
-		}	   
-	}
-
-</script>
 
 <!--
 <script language="JavaScript" type="text/javascript">
@@ -224,8 +130,8 @@ tlds_index[".co.za"] = 22;
 tlds_index[".com"] = 23;
 tlds_xfer_index[".com"] = 21;
 
-tlds_index[".com.au"] = 23;
-tlds_xfer_index[".com.au"] = 22;
+tlds_index[".com.au"] = 24;
+tlds_xfer_index[".com.au"] = 24;
 
 tlds_index[".com.tw"] = 24;
 tlds_xfer_index[".com.tw"] = 22;
@@ -257,17 +163,20 @@ tlds_xfer_index[".fm"] = 30;
 tlds_index[".gb.com"] = 33;
 tlds_xfer_index[".gb.com"] = 31;
 
-tlds_index[".gb.net"] = 34;
-tlds_xfer_index[".gb.net"] = 32;
+tlds_index[".gb.net"] = 33;
+tlds_xfer_index[".gb.net"] = 31;
 
-tlds_index[".gg"] = 35;
-tlds_xfer_index[".gg"] = 33;
+tlds_index[".gg"] = 34;
+tlds_xfer_index[".gg"] = 32;
 
-tlds_index[".gl"] = 36;
-tlds_xfer_index[".gl"] = 34;
+tlds_index[".gl"] = 35;
+tlds_xfer_index[".gl"] = 33;
 
-tlds_index[".gs"] = 37;
-tlds_xfer_index[".gs"] = 35;
+tlds_index[".gs"] = 36;
+tlds_xfer_index[".gs"] = 34;
+
+tlds_index[".gy"] = 37;
+tlds_xfer_index[".gy"] = 35;
 
 tlds_index[".hn"] = 38;
 tlds_xfer_index[".hn"] = 36;
@@ -434,6 +343,7 @@ tlds_xfer_index[".vg"] = 88;
 tlds_index[".ws"] = 91;
 tlds_xfer_index[".ws"] = 89;
 
+tlds_index[".xxx"] = 92;
 </script>
 
 
@@ -575,28 +485,8 @@ background-color:#5b9209; margin-top:-2px "></label></dt>-->
         
         <div id="right-column">
 	<br><br>
-	<div style="padding-bottom: 5px; clear:both">
-<!--/* OpenX Javascript Tag v2.6.4 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://www.irishadverts.com/adserver/www/delivery/ajs.php':'http://www.irishadverts.com/adserver/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=30");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://www.irishadverts.com/adserver/www/delivery/ajs.php?zoneid=30&amp;cb=93783090445&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20110529215803id_/http%253A//www.blacknight.com/privacy.html"></script><noscript><a href='http://www.irishadverts.com/adserver/www/delivery/ck.php?n=afc4f837&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.irishadverts.com/adserver/www/delivery/avw.php?zoneid=30&amp;n=afc4f837' border='0' alt='' /></a></noscript>
-</div>
-
 <!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-<div id="ciAkzs" style="z-index:100;position:absolute"></div><div id="scAkzs" style="display:inline"></div><div id="sdAkzs" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/blacknight/safe-standard.js?ps_h=Akzs&amp;ps_t=1580349689372"></script></div><script type="text/javascript">var seAkzs=document.createElement("script");seAkzs.type="text/javascript";var seAkzss=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/blacknight/safe-standard.js?ps_h=Akzs\u0026ps_t="+new Date().getTime();setTimeout("seAkzs.src=seAkzss;document.getElementById('sdAkzs').appendChild(seAkzs)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=blacknight">Live Support Chat</a></div></noscript>
+<div id="ciAkzs" style="z-index:100;position:absolute"></div><div id="scAkzs" style="display:inline"></div><div id="sdAkzs" style="display:none"><script type="text/javascript" src="https://secure.providesupport.com/image/js/blacknight/safe-standard.js?ps_h=Akzs&amp;ps_t=1580349691504"></script></div><script type="text/javascript">var seAkzs=document.createElement("script");seAkzs.type="text/javascript";var seAkzss=(location.protocol.indexOf("https")==0?"https://secure.providesupport.com/image":"http://image.providesupport.com")+"/js/blacknight/safe-standard.js?ps_h=Akzs\u0026ps_t="+new Date().getTime();setTimeout("seAkzs.src=seAkzss;document.getElementById('sdAkzs').appendChild(seAkzs)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=blacknight">Live Support Chat</a></div></noscript>
 <!-- END ProvideSupport.com Graphics Chat Button Code -->
 
 <!-- newsletter -->
@@ -614,7 +504,7 @@ background-color:#5b9209; margin-top:-2px "></label></dt>-->
 					<img src="fileadmin/images/feedicon14.png" alt="Feed" style="float: right; right: 3px;">
 					</a>
             	<h3><a href="http://blog.blacknight.com/" title="Blog" target="_blank">Latest from the blog</a></h3>
-                <ul><li><a href="http://feedproxy.google.com/~r/BlacknightBlog/~3/-a2TSxe4hDo/woohooo-we-won-a-social-media-award.html" title="Woohooo! We Won A Social Media Award!!" target="_blank">Woohooo! We Won A Social Media Award!!</a></li><li><a href="http://feedproxy.google.com/~r/BlacknightBlog/~3/YsjE1ES5ak8/dont-get-stuck-in-a-rut.html" title="Don't Get Stuck In A Rut" target="_blank">Don't Get Stuck In A Rut</a></li><li><a href="http://feedproxy.google.com/~r/BlacknightBlog/~3/vZL5YN5B3ts/blacknight-to-offer-xxx-domain-names-this-autumn.html" title="Blacknight To Offer .XXX Domain Names..." target="_blank">Blacknight To Offer .XXX Domain Names...</a></li></ul></div>
+                <ul><li><a href="http://feedproxy.google.com/~r/BlacknightBlog/~3/Ws2FNFcSsD0/redirect-your-defensive-tel-domains.html" title="Redirect Your Defensive .Tel Domains" target="_blank">Redirect Your Defensive .Tel Domains</a></li><li><a href="http://feedproxy.google.com/~r/BlacknightBlog/~3/beum21fO8v0/weve-moved-and-wed-love-your-feedback.html" title="We’ve Moved .. And We’d Love Your..." target="_blank">We’ve Moved .. And We’d Love Your...</a></li><li><a href="http://feedproxy.google.com/~r/BlacknightBlog/~3/ciA2ZGo-nV8/were-moving-the-blog.html" title="We’re Moving .. .. The Blog" target="_blank">We’re Moving .. .. The Blog</a></li></ul></div>
 </div>
 <!-- /blog -->
 	
@@ -622,7 +512,7 @@ background-color:#5b9209; margin-top:-2px "></label></dt>-->
 <div id="side-status">
 <a href="http://www.blacknightstatus.com/atom.xml" title="Status Blog Feed"><img src="/fileadmin/images/blacknightstatus.jpg" alt="Blacknight Status" title="Blacknight Status"></a>
 		<div id="blog-latest2" class="block" style="padding-top:5px;">
-                <ul><li><a href="http://www.blacknightstatus.com/2011/05/shared-hosting-network-ddos.html" title="Shared Hosting Network DDoS" target="_blank">Shared Hosting Network DDoS</a></li><li><a href="http://www.blacknightstatus.com/2011/05/mail-issues-due-to-ldap-problem.html" title="Mail issues due to LDAP problem" target="_blank">Mail issues due to LDAP problem</a></li><li><a href="http://www.blacknightstatus.com/2011/05/network-issues---monday-23rd-of-may.html" title="Network Issues - Monday 23rd of May" target="_blank">Network Issues - Monday 23rd of May</a></li></ul></div>
+                <ul><li><a href="http://www.blacknightstatus.com/2011/12/windows-vps-node-pemvzwin13-reboot-51211-2100.html" title="Windows VPS Node pemvzwin13 reboot..." target="_blank">Windows VPS Node pemvzwin13 reboot...</a></li><li><a href="http://www.blacknightstatus.com/2011/12/microsoft-exchange-pop3-access-down.html" title="Microsoft Exchange POP3 Access Down" target="_blank">Microsoft Exchange POP3 Access Down</a></li><li><a href="http://www.blacknightstatus.com/2011/12/igraineblacknightie-reboot.html" title="igraine.blacknight.ie reboot" target="_blank">igraine.blacknight.ie reboot</a></li></ul></div>
 </div>
 <!-- /status -->
 	
@@ -634,7 +524,7 @@ background-color:#5b9209; margin-top:-2px "></label></dt>-->
 					<img src="fileadmin/images/feedicon14.png" alt="Feed" style="float: right; right: 3px;">
 					</a>
             	<h3><a href="http://forum.blacknight.com/" title="Forum" target="_blank">Latest from the forum</a></h3>
-                <ul><li><a href="http://forum.blacknight.com/f29/mojoportal-installation-1218.html" title="mojoportal installation" target="_blank">mojoportal installation</a></li><li><a href="http://forum.blacknight.com/f9/my-own-web-site-1217.html" title="My Own web site" target="_blank">My Own web site</a></li><li><a href="http://forum.blacknight.com/f20/copyright-logo-people-use-their-web-site-real-how-check-1216.html" title="The copyright logo that people use on..." target="_blank">The copyright logo that people use on...</a></li></ul></div>
+                <ul><li><a href="http://forum.blacknight.com/f32/mail-server-cloud-hosting-1359.html" title="Mail server on cloud hosting?" target="_blank">Mail server on cloud hosting?</a></li><li><a href="http://forum.blacknight.com/f20/changing-domain-name-1358.html" title="Changing Domain Name?" target="_blank">Changing Domain Name?</a></li><li><a href="http://forum.blacknight.com/f32/why-jumpstart-installations-not-suitable-multiple-domains-1357.html" title="Why are Jumpstart installations not..." target="_blank">Why are Jumpstart installations not...</a></li></ul></div>
 </div>
 <!-- /forum -->
 
@@ -666,7 +556,8 @@ background-color:#5b9209; margin-top:-2px "></label></dt>-->
         <ul>
             <li><a href="privacy.html">Privacy</a></li><li><a href="acceptable-usage.html">Acceptable Usage</a></li><li><a href="site-map.html">Site Map</a></li>
             <li><a href="/udrp.html" title="UDRP">UDRP</a></li>
-           	<li><a href="/price-list.html" title="Blacknight Price List">Price List</a></li>
+			<li><a href="/price-list.html" title="Blacknight Price List">Price List</a></li>
+            <li><a title="Registrant Rights &amp; Responsibilities" target="_blank" href="http://www.icann.org/en/registrars/registrant-rights-responsibilities-en.htm">Registrant Rights</a></li>			
              <li class="last">© Blacknight Solutions 2004- 
 <script type="text/javascript">
 var currentTime = new Date()
