@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the at-la.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606164032id_/http%3A//at-la.com/%40la-info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the at-la.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205130730id_/http%3A//at-la.com/%40la-info/privacy.htm) for the most accurate reproduction.*
 
 # @LA Privacy Policy
 
@@ -7,16 +7,17 @@
 `** Our Privacy Policy   
 **`  
 ---|---|---  
-|  |  [](https://web.archive.org/scripts/wwcgi.dll?bannerquote)  
+|  |  |  |  [](https://web.archive.org/scripts/wwcgi.dll?bannerquote)  
+---|---  
 |  [](https://web.archive.org/)  
 ---  
-|  [About @LA](https://web.archive.org/web/20110606164032id_/http%3A//at-la.com/%40la-info/index.htm)  
-|  [Access Statistics](https://web.archive.org/web/20110606164032id_/http%3A//at-la.com/%40la-info/access.htm)  
-|  [Advertising in @LA](https://web.archive.org/web/20110606164032id_/http%3A//at-la.com/%40la-info/ads.htm)  
-|  [Awards / @LA in the Media](https://web.archive.org/web/20110606164032id_/http%3A//at-la.com/%40la-info/media.htm)  
-|  [Feedback from @LA's Users](https://web.archive.org/web/20110606164032id_/http%3A//at-la.com/%40la-info/feedback.htm)  
-|  [Member Site Information](https://web.archive.org/web/20110606164032id_/http%3A//at-la.com/%40la-info/member.htm)  
-|  [News / Recent Developments](https://web.archive.org/web/20110606164032id_/http%3A//at-la.com/%40la-info/news.htm)  
+|  [About @LA](https://web.archive.org/web/20111205130730id_/http%3A//at-la.com/%40la-info/index.htm)  
+|  [Access Statistics](https://web.archive.org/web/20111205130730id_/http%3A//at-la.com/%40la-info/access.htm)  
+|  [Advertising in @LA](https://web.archive.org/web/20111205130730id_/http%3A//at-la.com/%40la-info/ads.htm)  
+|  [Awards / @LA in the Media](https://web.archive.org/web/20111205130730id_/http%3A//at-la.com/%40la-info/media.htm)  
+|  [Feedback from @LA's Users](https://web.archive.org/web/20111205130730id_/http%3A//at-la.com/%40la-info/feedback.htm)  
+|  [Member Site Information](https://web.archive.org/web/20111205130730id_/http%3A//at-la.com/%40la-info/member.htm)  
+|  [News / Recent Developments](https://web.archive.org/web/20111205130730id_/http%3A//at-la.com/%40la-info/news.htm)  
 | 
 
 Introduction  
@@ -85,5 +86,5 @@ Index |  `**Changes to our Privacy Policy**`
 [](http://www.techdev.com/)   
 [Internet Services](http://www.techdev.com/netdev.htm)  
 [Database Applications](http://www.techdev.com/dbdev.htm)  
-|  |  __All text, images and HTML © 1995-2010[Technique Development](http://www.techdev.com/). All Rights Reserved. @LA is a registered trademark of Technique Development. The information on this page is presented as is. No warranty as to the accuracy of any of the presented information is implied. For questions/comments/feedback, send email to [webmaster@at-la.com](mailto:webmaster@at-la.com).  
+|  |  __All text, images and HTML © 1995-2011[Technique Development](http://www.techdev.com/). All Rights Reserved. @LA is a registered trademark of Technique Development. The information on this page is presented as is. No warranty as to the accuracy of any of the presented information is implied. For questions/comments/feedback, send email to [webmaster@at-la.com](mailto:webmaster@at-la.com).  
 This page is located at <http://www.at-la.com/@la-info/privacy.htm>. __
