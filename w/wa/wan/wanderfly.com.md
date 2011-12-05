@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wanderfly.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513214651id_/http%3A//blog.wanderfly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderfly.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205042555id_/http%3A//blog.wanderfly.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Travel News, Travel Advice, Vacation Ideas | Wanderfly Blog
+# Privacy | Travel News, Travel Advice, Vacation Recommendations | Wanderfly Blog
 
 WHAT INFORMATION DO WE COLLECT?  
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form, submit information or request information.
