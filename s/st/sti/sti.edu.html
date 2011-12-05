@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sti.edu privacy policy that was archived on 2009-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091130031329id_/http%3A//www.sti.edu/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sti.edu privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205213441id_/http%3A//www.sti.edu/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>STI Colleges and Education Centers - Education for Real Life</title>
@@ -14,14 +14,15 @@ Copyright STI College & Education Centers. All Rights Reserved.
 Template Created: July 1, 2009
 Absolute URL: http://www.sti.edu
 Designer: Dennis Balaga
-Email: dengbalaga@yahoo.com
+Email: dengbalaga@gmail.com
 //-->
 
 
 <link href="css/tertiary_style.css" rel="stylesheet" type="text/css">
 
+<link href="css/generic_style.css" rel="stylesheet" type="text/css">
 
-<!--Fireworks CS3 Dreamweaver CS3 target.  Created Mon Aug 03 13:33:03 GMT+0800 (China Standard Time) 2009-->
+
 <script language="JavaScript1.2" type="text/javascript">
 <!--
 function MM_findObj(n, d) { //v4.01
@@ -75,10 +76,8 @@ function MM_preloadImages() { //v3.0
 </script>
 <script language="JavaScript1.2" type="text/javascript" src="mm_css_menu.js"></script>
 <style type="text/css" media="screen">
-	@import url("./navigation_buttons.css");
+	@import url("./buts.css");
 </style>
-
-
 <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <script type="text/javascript">
 <!--
@@ -91,32 +90,6 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 
 
-
-<!--NEW FLASH -->
-<script language="javascript"> AC_FL_RunContent = 0; </script>
-<script language="javascript"> DetectFlashVer = 0; </script>
-<script src="AC_RunActiveContent.js" language="javascript"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-// -----------------------------------------------------------------------------
-// Globals
-// Major version of Flash required
-var requiredMajorVersion = 8;
-// Minor version of Flash required
-var requiredMinorVersion = 0;
-// Revision of Flash required
-var requiredRevision = 24;
-// -----------------------------------------------------------------------------
-// -->
-</script>
-<!--END OF NEW FLASH -->
-
-
-
-<!--mochibot -->
-<script type="text/javascript" src="http://static.robotreplay.com/nitobi.replay.js"></script>
-<!--mochibot -->
-
 <style type="text/css">
 <!--
 a:link {
@@ -128,7 +101,6 @@ a:visited {
 a:active {
 	color: #0066CC;
 }
-.style1 {font-size: 8.5pt; color: #0066CC; font-family: Verdana, Arial, Helvetica, sans-serif;}
 .technology {cursor: hand;
 cursor: pointer;
 font: bold 10px Verdana;
@@ -183,7 +155,6 @@ cursor: pointer;
 font: bold 10px Verdana;
 margin: 10px 0;
 }
-.style1 {font-size: 8.5pt; color: #0066CC; font-family: Verdana, Arial, Helvetica, sans-serif;}
 </style>
 <script type="text/javascript">
 //Initialize first demo:
@@ -228,36 +199,267 @@ ddaccordion.init({
 .thelanguage{display: none}
 </style>
 
+
+
+<script>
+function validateContactForm(myform) { //This is the name of the function
+
+
+if (myform.name.value == "") {
+   alert("Please input your full name");
+   myform.name.focus( );
+   return false;
+   }
+if (myform.email.value == "") {
+   alert("Please input a valid email address");
+   myform.email.focus( );
+   return false;
+   }
+if (myform.contact_number.value == "") {
+   alert("Please input your contact number");
+   myform.contact_number.focus( );
+   return false;
+   }
+if (myform.loc.value == "") {
+   alert("Please input your location");
+   myform.loc.focus( );
+   return false;
+   }
+if (myform.school.value == "") {
+   alert("Please select the STI campus");
+   myform.school.focus( );
+   return false;
+   }
+if (myform.subj.value == "") {
+   alert("Please select subject");
+   myform.subj.focus( );
+   return false;
+   }
+if (myform.message.value == "") {
+   alert("Please input your message");
+   myform.message.focus( );
+   return false;
+   }
+ 
+}
+</script>
+
+
+
+
+<script language="javascript">
+
+//CAPTCHA SCRIPT
+function RefreshImage(valImageId) {
+	var objImage = document.images[valImageId];
+	if (objImage == undefined) {
+		return;
+	}
+	var now = new Date();
+	objImage.src = objImage.src.split('?')[0] + '?x=' + now.toUTCString();
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+.spacer{clear:both; height:1px;}
+/* ----------- My Form ----------- */
+.myform{
+	margin:0 auto;
+	width:400px;
+	padding:14px;
+}
+	/* ----------- basic ----------- */
+	#basic{
+		/*border:solid 2px #DEDEDE; */
+	}
+	#basic h1 {
+		font-size:14px;
+		font-weight:bold;
+		margin-bottom:8px;
+	}
+	#basic p{
+		font-size:11px;
+		color:#666666;
+		margin-bottom:20px;
+		border-bottom:solid 1px #dedede;
+		padding-bottom:10px;
+	}
+	#basic label{
+		display:block;
+		font-weight:bold;
+		text-align:right;
+		width:140px;
+		float:left;
+	}
+	#basic .small{
+		color:#666666;
+		display:block;
+		font-size:11px;
+		font-weight:normal;
+		text-align:right;
+		width:140px;
+	}
+	.basic input{
+		float:left;
+		width:250px;
+		margin:2px 0 30px 10px;
+	}
+	.button{ 
+		clear:both;
+		margin-left:150px;
+		background:#888888;
+		color:#FFFFFF;
+		border:solid 1px #666666;
+		font-size:11px;
+		font-weight:bold;
+		padding:4px 6px;
+	}
+
+
+	/* ----------- stylized ----------- */
+	#stylized{
+		border:solid 2px #b7ddf2;
+		background:#ebf4fb;
+	}
+	#stylized h1 {
+		font-size:14px;
+		font-weight:bold;
+		margin-bottom:8px;
+	}
+	#stylized p{
+		font-size:11px;
+		color:#666666;
+		margin-bottom:20px;
+		border-bottom:solid 1px #b7ddf2;
+		padding-bottom:10px;
+	}
+	#stylized label{
+		display:block;
+		font-weight:bold;
+		text-align:right;
+		width:140px;
+		float:left;
+	}
+	#stylized .small{
+		color:#666666;
+		display:block;
+		font-size:11px;
+		font-weight:normal;
+		text-align:right;
+		width:140px;
+	}
+	.stylized_input{
+		float:left;
+		font-size:12px;
+		padding:4px 2px;
+		border:solid 1px #aacfe4;
+		width:250px;
+		margin:2px 0 20px 10px;
+	}
+	.stylized_cap{
+		float:left;
+		font-size:12px;
+		padding:4px 2px;
+		border:solid 1px #aacfe4;
+		width:80px;
+		margin:2px 0 20px 10px;
+	}
+	.stylized_select{
+		float:left;
+		font-size:13px;
+		padding:4px 2px;
+		border:solid 1px #aacfe4;
+		width:200px;
+		margin:2px 0 20px 10px;
+	}
+	.stylized_textarea{
+		float:left;
+		font-size:12px;
+		padding:4px 2px;
+		border:solid 1px #aacfe4;
+		width:350px;
+		margin:2px 0 20px 10px;
+	}
+	.stylized_button{ 
+
+		
+		background-color:#fff200;
+color:#000;
+height:36px;
+padding: 0px 30px 0px 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+font-weight:bold;
+font-size:14px;
+border:solid 2px #ccc;
+margin-left:10px;
+	}
+
+</style>
 </head>
 
-<body onload="MM_preloadImages('images/navigation_buttons_r1_c2_f2.jpg','images/navigation_buttons_r1_c2_f4.jpg','images/navigation_buttons_r1_c2_f3.jpg','images/navigation_buttons_r1_c3_f2.jpg','images/navigation_buttons_r1_c3_f4.jpg','images/navigation_buttons_r1_c3_f3.jpg','images/navigation_buttons_r1_c4_f2.jpg','images/navigation_buttons_r1_c4_f4.jpg','images/navigation_buttons_r1_c4_f3.jpg','images/navigation_buttons_r1_c5_f2.jpg','images/navigation_buttons_r1_c5_f4.jpg','images/navigation_buttons_r1_c5_f3.jpg','images/navigation_buttons_r1_c6_f2.jpg','images/navigation_buttons_r1_c6_f4.jpg','images/navigation_buttons_r1_c6_f3.jpg','images/navigation_buttons_r1_c7_f2.jpg','images/navigation_buttons_r1_c7_f4.jpg','images/navigation_buttons_r1_c7_f3.jpg','images/navigation_buttons_r1_c8_f2.jpg','images/navigation_buttons_r1_c8_f4.jpg','images/navigation_buttons_r1_c8_f3.jpg','images/navigation_buttons_r1_c9_f2.jpg','images/navigation_buttons_r1_c9_f4.jpg','images/navigation_buttons_r1_c9_f3.jpg');">
+<body bgcolor="#ffffff" onload="MM_preloadImages('images/buts_r1_c2_f2.jpg','images/buts_r1_c2_f4.jpg','images/buts_r1_c2_f3.jpg','images/buts_r1_c3_f2.jpg','images/buts_r1_c3_f4.jpg','images/buts_r1_c3_f3.jpg','images/buts_r1_c4_f2.jpg','images/buts_r1_c4_f4.jpg','images/buts_r1_c4_f3.jpg','images/buts_r1_c5_f2.jpg','images/buts_r1_c5_f4.jpg','images/buts_r1_c5_f3.jpg','images/buts_r1_c6_f2.jpg','images/buts_r1_c6_f4.jpg','images/buts_r1_c6_f3.jpg','images/buts_r1_c7_f2.jpg','images/buts_r1_c7_f4.jpg','images/buts_r1_c7_f3.jpg','images/buts_r1_c8_f2.jpg','images/buts_r1_c8_f4.jpg','images/buts_r1_c8_f3.jpg','images/buts_r1_c9_f2.jpg','images/buts_r1_c9_f4.jpg','images/buts_r1_c9_f3.jpg','images/buts_r1_c10_f2.jpg','images/buts_r1_c10_f4.jpg','images/buts_r1_c10_f3.jpg');">
 
 <div id="container">
 
+
+
+<link href="css/tertiary_style.css" rel="stylesheet" type="text/css">
+
 <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<div id="header">
-  <div id="header_flash">
-    <script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','660','height','110','src','flash/15thnyc_google','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','flash/15thnyc_google' ); //end AC code
-</script><embed width="660" height="110" src="flash/15thnyc_google.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="660" height="110">
-      <param name="movie" value="flash/15thnyc_google.swf" />
-      <param name="quality" value="high" />
-      <embed src="flash/15thnyc_google.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="660" height="110"></embed>
-    </object>
-  </noscript></div>
+
+
+
+
+<div id="header_slice_wrapper">
+
+<div id="header_slice_left"></div>
+<div id="header_slice_middle">
+  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="660" height="140">
+    <param name="movie" value="flash/2011_voty_prioritytransfer_kabalikat_top6nursing.swf">
+    <param name="quality" value="high">
+    <param name="wmode" value="opaque">
+    <embed src="flash/2011_voty_prioritytransfer_kabalikat_top6nursing.swf" quality="high" wmode="opaque" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="660" height="140">
+  </object>
 </div>
+<div id="header_slice_right"></div>
+</div>
+
+
 
 <div id="menu">
  <!--The following section is an HTML table which reassembles the sliced image in a browser.-->
 <!--Copy the table section including the opening and closing table tags, and paste the data where-->
 <!--you want the reassembled image to appear in the destination document. -->
 <!--======================== BEGIN COPYING THE HTML HERE ==========================-->
-<div id="FWTableContainer87771858">
+<div id="FWTableContainer659005937">
 <table border="0" cellpadding="0" cellspacing="0" width="960">
-<!-- fwtable fwsrc="navigation_buttons.png" fwpage="Page 1" fwbase="navigation_buttons.jpg" fwstyle="Dreamweaver" fwdocid = "87771858" fwnested="0" -->
+<!-- fwtable fwsrc="but.png" fwpage="Page 1" fwbase="buts.jpg" fwstyle="Dreamweaver" fwdocid = "659005937" fwnested="0" -->
   <tbody><tr>
 <!-- Shim row, height 1. -->
-   <td><img src="images/spacer.gif" width="115" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="72" height="1" border="0" alt=""></td>
    <td><img src="images/spacer.gif" width="75" height="1" border="0" alt=""></td>
    <td><img src="images/spacer.gif" width="94" height="1" border="0" alt=""></td>
    <td><img src="images/spacer.gif" width="104" height="1" border="0" alt=""></td>
@@ -266,60 +468,62 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
    <td><img src="images/spacer.gif" width="88" height="1" border="0" alt=""></td>
    <td><img src="images/spacer.gif" width="101" height="1" border="0" alt=""></td>
    <td><img src="images/spacer.gif" width="75" height="1" border="0" alt=""></td>
-   <td><img src="images/spacer.gif" width="117" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="88" height="1" border="0" alt=""></td>
+   <td><img src="images/spacer.gif" width="72" height="1" border="0" alt=""></td>
    <td><img src="images/spacer.gif" width="1" height="1" border="0" alt=""></td>
   </tr>
 
   <tr><!-- row 1 -->
-   <td><img name="navigation_buttons_r1_c1" src="images/navigation_buttons_r1_c1.jpg" width="115" height="31" border="0" id="navigation_buttons_r1_c1" alt=""></td>
-   <td><a href="default.asp" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','navigation_buttons_r1_c2','images/navigation_buttons_r1_c2_f2.jpg','images/navigation_buttons_r1_c2_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','navigation_buttons_r1_c2','images/navigation_buttons_r1_c2_f3.jpg',1);"><img name="navigation_buttons_r1_c2" src="images/navigation_buttons_r1_c2.jpg" width="75" height="31" border="0" id="navigation_buttons_r1_c2" alt=""></a></td>
-   <td><a href="about_sti.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0803132012_0', 'MMMenu0803132012_0',0,33,'navigation_buttons_r1_c3');MM_nbGroup('over','navigation_buttons_r1_c3','images/navigation_buttons_r1_c3_f2.jpg','images/navigation_buttons_r1_c3_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','navigation_buttons_r1_c3','images/navigation_buttons_r1_c3_f3.jpg',1);"><img name="navigation_buttons_r1_c3" src="images/navigation_buttons_r1_c3.jpg" width="94" height="31" border="0" id="navigation_buttons_r1_c3" alt=""></a></td>
-   <td><a href="admissions.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0803132352_1', 'MMMenu0803132352_1',0,33,'navigation_buttons_r1_c4');MM_nbGroup('over','navigation_buttons_r1_c4','images/navigation_buttons_r1_c4_f2.jpg','images/navigation_buttons_r1_c4_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','navigation_buttons_r1_c4','images/navigation_buttons_r1_c4_f3.jpg',1);"><img name="navigation_buttons_r1_c4" src="images/navigation_buttons_r1_c4.jpg" width="104" height="31" border="0" id="navigation_buttons_r1_c4" alt=""></a></td>
-   <td><a href="programs.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0803132622_2', 'MMMenu0803132622_2',0,33,'navigation_buttons_r1_c5');MM_nbGroup('over','navigation_buttons_r1_c5','images/navigation_buttons_r1_c5_f2.jpg','images/navigation_buttons_r1_c5_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','navigation_buttons_r1_c5','images/navigation_buttons_r1_c5_f3.jpg',1);"><img name="navigation_buttons_r1_c5" src="images/navigation_buttons_r1_c5.jpg" width="96" height="31" border="0" id="navigation_buttons_r1_c5" alt=""></a></td>
-   <td><a href="campuses.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0803132653_3', 'MMMenu0803132653_3',0,33,'navigation_buttons_r1_c6');MM_nbGroup('over','navigation_buttons_r1_c6','images/navigation_buttons_r1_c6_f2.jpg','images/navigation_buttons_r1_c6_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','navigation_buttons_r1_c6','images/navigation_buttons_r1_c6_f3.jpg',1);"><img name="navigation_buttons_r1_c6" src="images/navigation_buttons_r1_c6.jpg" width="95" height="31" border="0" id="navigation_buttons_r1_c6" alt=""></a></td>
-   <td><a href="faculty.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0803132729_4', 'MMMenu0803132729_4',0,33,'navigation_buttons_r1_c7');MM_nbGroup('over','navigation_buttons_r1_c7','images/navigation_buttons_r1_c7_f2.jpg','images/navigation_buttons_r1_c7_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','navigation_buttons_r1_c7','images/navigation_buttons_r1_c7_f3.jpg',1);"><img name="navigation_buttons_r1_c7" src="images/navigation_buttons_r1_c7.jpg" width="88" height="31" border="0" id="navigation_buttons_r1_c7" alt=""></a></td>
-   <td><a href="students.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0803132801_5', 'MMMenu0803132801_5',0,33,'navigation_buttons_r1_c8');MM_nbGroup('over','navigation_buttons_r1_c8','images/navigation_buttons_r1_c8_f2.jpg','images/navigation_buttons_r1_c8_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','navigation_buttons_r1_c8','images/navigation_buttons_r1_c8_f3.jpg',1);"><img name="navigation_buttons_r1_c8" src="images/navigation_buttons_r1_c8.jpg" width="101" height="31" border="0" id="navigation_buttons_r1_c8" alt=""></a></td>
-   <td><a href="links.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0803133209_6', 'MMMenu0803133209_6',0,33,'navigation_buttons_r1_c9');MM_nbGroup('over','navigation_buttons_r1_c9','images/navigation_buttons_r1_c9_f2.jpg','images/navigation_buttons_r1_c9_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','navigation_buttons_r1_c9','images/navigation_buttons_r1_c9_f3.jpg',1);"><img name="navigation_buttons_r1_c9" src="images/navigation_buttons_r1_c9.jpg" width="75" height="31" border="0" id="navigation_buttons_r1_c9" alt=""></a></td>
-   <td><img name="navigation_buttons_r1_c10" src="images/navigation_buttons_r1_c10.jpg" width="117" height="31" border="0" id="navigation_buttons_r1_c10" alt=""></td>
+   <td><img name="buts_r1_c1" src="images/buts_r1_c1.jpg" width="72" height="31" border="0" id="buts_r1_c1" alt=""></td>
+   <td><a href="default.asp" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buts_r1_c2','images/buts_r1_c2_f2.jpg','images/buts_r1_c2_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','buts_r1_c2','images/buts_r1_c2_f3.jpg',1);"><img name="buts_r1_c2" src="images/buts_r1_c2.jpg" width="75" height="31" border="0" id="buts_r1_c2" alt=""></a></td>
+   <td><a href="about_sti.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0505154731_0', 'MMMenu0505154731_0',0,33,'buts_r1_c3');MM_nbGroup('over','buts_r1_c3','images/buts_r1_c3_f2.jpg','images/buts_r1_c3_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','buts_r1_c3','images/buts_r1_c3_f3.jpg',1);"><img name="buts_r1_c3" src="images/buts_r1_c3.jpg" width="94" height="31" border="0" id="buts_r1_c3" alt=""></a></td>
+   <td><a href="admissions.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0505162458_1', 'MMMenu0505162458_1',0,33,'buts_r1_c4');MM_nbGroup('over','buts_r1_c4','images/buts_r1_c4_f2.jpg','images/buts_r1_c4_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','buts_r1_c4','images/buts_r1_c4_f3.jpg',1);"><img name="buts_r1_c4" src="images/buts_r1_c4.jpg" width="104" height="31" border="0" id="buts_r1_c4" alt=""></a></td>
+   <td><a href="programs.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0518092716_2', 'MMMenu0518092716_2',0,33,'buts_r1_c5');MM_nbGroup('over','buts_r1_c5','images/buts_r1_c5_f2.jpg','images/buts_r1_c5_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','buts_r1_c5','images/buts_r1_c5_f3.jpg',1);"><img name="buts_r1_c5" src="images/buts_r1_c5.jpg" width="96" height="31" border="0" id="buts_r1_c5" alt=""></a></td>
+   <td><a href="campuses.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0505162936_2', 'MMMenu0505162936_2',0,33,'buts_r1_c6');MM_nbGroup('over','buts_r1_c6','images/buts_r1_c6_f2.jpg','images/buts_r1_c6_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','buts_r1_c6','images/buts_r1_c6_f3.jpg',1);"><img name="buts_r1_c6" src="images/buts_r1_c6.jpg" width="95" height="31" border="0" id="buts_r1_c6" alt=""></a></td>
+
+   <td><a href="faculty.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0505163051_3', 'MMMenu0505163051_3',0,33,'buts_r1_c7');MM_nbGroup('over','buts_r1_c7','images/buts_r1_c7_f2.jpg','images/buts_r1_c7_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','buts_r1_c7','images/buts_r1_c7_f3.jpg',1);"><img name="buts_r1_c7" src="images/buts_r1_c7.jpg" width="88" height="31" border="0" id="buts_r1_c7" alt=""></a></td>
+   <td><a href="students.asp" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0505163120_4', 'MMMenu0505163120_4',0,33,'buts_r1_c8');MM_nbGroup('over','buts_r1_c8','images/buts_r1_c8_f2.jpg','images/buts_r1_c8_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','buts_r1_c8','images/buts_r1_c8_f3.jpg',1);"><img name="buts_r1_c8" src="images/buts_r1_c8.jpg" width="101" height="31" border="0" id="buts_r1_c8" alt=""></a></td>
+   <td><a href="#" onmouseout="MM_nbGroup('out');MM_menuStartTimeout(500);" onmouseover="MM_menuShowMenu('MMMenuContainer0505163204_5', 'MMMenu0505163204_5',0,33,'buts_r1_c9');MM_nbGroup('over','buts_r1_c9','images/buts_r1_c9_f2.jpg','images/buts_r1_c9_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','buts_r1_c9','images/buts_r1_c9_f3.jpg',1);"><img name="buts_r1_c9" src="images/buts_r1_c9.jpg" width="75" height="31" border="0" id="buts_r1_c9" alt=""></a></td>
+   <td><a href="career_opportunities.asp" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buts_r1_c10','images/buts_r1_c10_f2.jpg','images/buts_r1_c10_f4.jpg',1);" onclick="MM_nbGroup('down','navbar1','buts_r1_c10','images/buts_r1_c10_f3.jpg',1);"><img name="buts_r1_c10" src="images/buts_r1_c10.jpg" width="88" height="31" border="0" id="buts_r1_c10" alt=""></a></td>
+   <td><img name="buts_r1_c11" src="images/buts_r1_c11.jpg" width="72" height="31" border="0" id="buts_r1_c11" alt=""></td>
    <td><img src="images/spacer.gif" width="1" height="31" border="0" alt=""></td>
   </tr>
 <!--   This table was automatically created with Adobe Fireworks   -->
 <!--   http://www.adobe.com   -->
 </tbody></table>
-<div id="MMMenuContainer0803132012_0">
-	<div id="MMMenu0803132012_0" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
-          <iframe src="menu_about_sti.html" width="160px" height="160px" scrolling="No" frameborder="0"></iframe>
+<div id="MMMenuContainer0505154731_0">
+	<div id="MMMenu0505154731_0" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
+          <iframe src="menu_about_sti.html" width="162px" height="142px" scrolling="No" frameborder="0"></iframe>
 	</div>
 </div>
-<div id="MMMenuContainer0803132352_1">
-	<div id="MMMenu0803132352_1" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
-              <iframe src="menu_admissions.html" width="180px" height="103px" scrolling="No" frameborder="0"></iframe>
+<div id="MMMenuContainer0505162458_1">
+	<div id="MMMenu0505162458_1" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
+              <iframe src="menu_admissions.html" width="182px" height="102px" scrolling="No" frameborder="0"></iframe>
 	</div>
 </div>
-<div id="MMMenuContainer0803132622_2">
-	<div id="MMMenu0803132622_2" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
-              <iframe src="menu_programs.html" width="190px" height="120px" scrolling="No" frameborder="0"></iframe>
-              <!--height is 160 original -->
+<div id="MMMenuContainer0518092716_2">
+	<div id="MMMenu0518092716_2" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
+              <iframe src="menu_programs.html" width="234px" height="180px" scrolling="No" frameborder="0"></iframe>
 	</div>
 </div>
-<div id="MMMenuContainer0803132653_3">
-	<div id="MMMenu0803132653_3" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
-              <iframe src="menu_campuses.html" width="220px" height="123px" scrolling="No" frameborder="0"></iframe>
+<div id="MMMenuContainer0505162936_2">
+	<div id="MMMenu0505162936_2" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
+              <iframe src="menu_campuses.html" width="222px" height="88px" scrolling="No" frameborder="0"></iframe>
 	</div>
 </div>
-<div id="MMMenuContainer0803132729_4">
-	<div id="MMMenu0803132729_4" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
-              <iframe src="menu_faculty.html" width="200px" height="98px" scrolling="No" frameborder="0"></iframe>
+<div id="MMMenuContainer0505163051_3">
+	<div id="MMMenu0505163051_3" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
+              <iframe src="menu_faculty.html" width="182px" height="78px" scrolling="No" frameborder="0"></iframe>
 	</div>
 </div>
-<div id="MMMenuContainer0803132801_5">
-	<div id="MMMenu0803132801_5" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
-              <iframe src="menu_students.html" width="174px" height="160px" scrolling="No" frameborder="0"></iframe>
+<div id="MMMenuContainer0505163120_4">
+	<div id="MMMenu0505163120_4" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
+              <iframe src="menu_students.html" width="176px" height="140px" scrolling="No" frameborder="0"></iframe>
 	</div>
 </div>
-<div id="MMMenuContainer0803133209_6">
-	<div id="MMMenu0803133209_6" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
-              <iframe src="menu_links.html" width="184px" height="134px" scrolling="No" frameborder="0"></iframe>
+<div id="MMMenuContainer0505163204_5">
+	<div id="MMMenu0505163204_5" onmouseout="MM_menuStartTimeout(500);" onmouseover="MM_menuResetTimeout();">
+              <iframe src="menu_links.html" width="186px" height="136px" scrolling="No" frameborder="0"></iframe>
 	</div>
 </div>
 </div>
@@ -329,95 +533,79 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
 
 <div id="content">
 
-	<div id="content_left_column_inside">
-	  <div id="left_column_round_left"><img src="images/rounded_white_tl.png" width="12" height="12"></div>
-      <div id="left_column_round_center"></div>
-      <div id="left_column_round_right"><img src="images/rounded_white_tr.png" width="12" height="12"></div>
+	<div id="left_column_generic">
+	<div id="left_column_generic_header"><a href="default.asp">Home</a> &gt; Privacy Policy</div>
+    <div id="left_column_generic_content_inside">
 
 
 
-<div id="left_column_header_links"><a href="default.asp">Home</a> &gt; Privacy Policy</div>
-<div id="left_column_header_image"><img src="images/page_banner/banner_about2.jpg" width="624" height="120"></div>
-<div id="left_column_header_title">
-  <h1>Privacy Policy</h1>
-</div>
-<div id="left_column_header_content">
+  <p>
+    <!-- START LEFT-->
+    
+    <span class="title_3">Privacy Policy</span></p>
+  <hr size="1" noshade="noshade">
+  <p>&nbsp;</p>
   <table width="624" height="621" border="0" cellpadding="8" cellspacing="0">
     <tbody><tr>
       <td width="636" height="414" colspan="3" valign="top"><p align="left" class="content">This is the website of STI College. It is our intention to have our valued users be aware of any information we collect, how we use it and under what circumstances, if any, we disclose it. </p>
-        <p align="left" class="content"><br>
-            <span class="ptitle">Website Administration </span></p>
+          <p align="left" class="content"><br>
+              <span class="ptitle"><strong>Website Administration </strong></span></p>
         <table width="490" border="0" cellpadding="0" cellspacing="0" class="content">
-          <tbody><tr valign="top">
-            <td width="185" height="20">School name: </td>
-            <td width="305">STI Colleges and Education Centers</td>
-          </tr>
-          <tr valign="top">
-            <td height="35">Address : </td>
-            <td>STI Academic Center, University Parkway Drive, Fort Bonifacio Global City, Taguig, Philippines</td>
-          </tr>
-          <tr valign="top">
-            <td height="20">Website URL: </td>
-            <td class="rightlinks"><a href="http://www.sti.edu"><u>http://www.sti.edu</u></a></td>
-          </tr>
-          <tr valign="top">
-            <td height="20">Website e-mail:</td>
-            <td class="rightlinks"><a href="mailto:inquire@stihq.net"><u>inquire@stihq.net</u></a></td>
-          </tr>
-        </tbody></table>
+            <tbody><tr valign="top">
+              <td width="185" height="20">School name: </td>
+              <td width="305">STI Colleges and Education Centers</td>
+            </tr>
+            <tr valign="top">
+              <td height="35">Address : </td>
+              <td>STI Academic Center, University Parkway Drive, Fort Bonifacio Global City, Taguig, Philippines</td>
+            </tr>
+            <tr valign="top">
+              <td height="20">Website URL: </td>
+              <td class="rightlinks"><a href="http://www.sti.edu"><u>http://www.sti.edu</u></a></td>
+            </tr>
+            <tr valign="top">
+              <td height="20">Website e-mail:</td>
+              <td class="rightlinks"><a href="mailto:inquire@stihq.net"><u>inquire@stihq.net</u></a></td>
+            </tr>
+          </tbody></table>
         <p><br>
-            <span class="ptitle">Information Collection and Use</span></p>
+              <span class="ptitle"><strong>Information Collection and Use</strong></span></p>
         <p align="justify" class="content">We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website.</p>
+        <p align="justify" class="content">&nbsp;</p>
         <p align="justify" class="content"><strong>For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address.</strong></p>
+        <p align="justify" class="content">&nbsp;</p>
         <p align="left" class="content">The information we collect is:</p>
         <ul>
-          <li><span class="content"> used to improved the content of our Web page.</span></li>
+            <li><span class="content"> used to improve the content of our Web page.</span></li>
           <li><span class="content"> used to notify visitors about updates to our Web site.</span></li>
           <li><span class="content"> never shared with other organizations for commercial purposes.</span></li>
         </ul>
         <p align="left" class="content">With respect to cookies, we do not set any cookies. </p>
         <p align="left" class="content">Registration is not required to enter our website.</p>
         <p align="left" class="content"><br>
-            <span class="ptitle">We have submission forms.</span></p>
+              <span class="ptitle"><strong>We have submission forms.</strong></span></p>
         <p align="justify" class="content">We require information from user on our submission forms. A user must provide contact information (such as name, e-mail, and current location). Upon the approval of submission, we use the information to contact the user.</p>
         <p align="left" class="content">We never sell or share our users' e-mail addresses. </p>
         <p align="left" class="content"><span class="ptitle"><br>
-          Notification of Changes </span></p>
+                <strong>Notification of Changes</strong> </span></p>
         <p align="justify" class="content">If we decide to change our privacy policy, we will post those changes to this privacy statement. </p>
         <p align="left" class="content"><br>
-            <span class="ptitle">Conflict Resolution</span></p>
-        <p align="justify" class="content">We are committed to resolving disputes within 24-48 hours. If the problem arises, users may <a href="contact.asp"><u class="rightlinks">contact</u></a> us by <a href="mailto:inquire@stihq.net"><u class="rightlinks">email</u></a> or telephone. </p>        <p class="title_2"><!-- ImageReady Slices (inside_rounded.psd) -->
-          <!-- End ImageReady Slices -->      
-          </p>
-        </td>
-      </tr>
-  </tbody></table>
-  </div>
-<div id="left_column_header_footer">
-  <table width="612" border="0" cellpadding="0" cellspacing="0" bgcolor="#F2F2F2">
-    <tbody><tr>
-      <td><div><strong><a href="about_sti.asp">ABOUT STI</a></strong></div>
-          <div>
-            <ul>
-              <li><a href="about_sti.asp#mission_vision">Vision and Mission</a></li>
-              <li><a href="e2e.asp">Enrollment to Employment (E2E) System </a></li>
-              <li><a href="sti_news.asp">STI News </a></li>
-              <li><a href="sti_foundation.asp">STI Foundation </a></li>
-              <li><a href="alma_mater.asp">Alma Mater Hymn </a></li>
-              <li><a href="alma_mater.asp#themesong">STI Theme Song </a></li>
-              <li><a href="careers.asp">Career Opportunities </a></li>
-            </ul>
-          </div></td>
+              <span class="ptitle"><strong>Conflict Resolution</strong></span></p>
+        <p align="justify" class="content">We are committed to resolving disputes within 24-48 hours. If the problem arises, users may <a href="contact.asp"><u class="rightlinks">contact</u></a> us by <a href="mailto:inquire@stihq.net"><u class="rightlinks">email</u></a> or telephone. </p>
+        <p class="title_2">
+          <!-- ImageReady Slices (inside_rounded.psd) -->
+            <!-- End ImageReady Slices -->
+        </p></td>
     </tr>
   </tbody></table>
+  <p class="title_3">&nbsp;</p>
+  <p>
+  <!-- END LEFT -->
+</p>
 </div>
-      
-      
-      <div id="left_column_round_left2"><img src="images/rounded_white_bl.png" width="12" height="12"></div>
-      <div id="left_column_round_center2"></div>
-      <div id="left_column_round_right2"><img src="images/rounded_white_br.png" width="12" height="12"></div>
-    </div>
-	
+    <div id="left_column_generic_bottom"></div>            
+</div>
+	 
     
 <script type="text/javascript">
 <!--
@@ -433,29 +621,22 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <div id="content_right_column_inside">
 
-		  <div id="search_top_left"><img src="images/rounded_yellow_tl.png" width="12" height="12"></div>
-   	  		<div id="search_top_center"></div>
-       	  	<div id="search_top_right"><img src="images/rounded_yellow_tr.png" width="12" height="12"> </div>
+	  <div id="search_top_left_bg"></div>
+       	  	<div id="search_top_right_bg"><a href="http://www.facebook.com/sti.edu" target="_blank"><img src="images/search/quick_search_264_02.jpg" alt="www.facebook.com/sti.edu" width="143" height="34" border="0"></a></div>
 
       
-  	  <div id="search_center_container">
+<div id="search_center_container">
   	    <table width="240" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td height="30" valign="top" bgcolor="#FFFF00"><span id="quick_search">Quick Search</span></td>
-          </tr>
-          <tr>
-            <td height="18" valign="top" bgcolor="#FFFF00"><select name="select" class="form_list" onchange="MM_jumpMenu('parent',this,0)" style="height:20px; width:240px;
+            <td height="18" valign="top" bgcolor="#FFFF00"><select name="select" class="form_list" onchange="MM_jumpMenu('parent',this,0)" style="height:24px; width:240px; padding:2px 0px; border:solid 3px #fff; margin-top: 4px;
 ">
                   <option>Select STI Campus</option>
-      <option value="campuses.asp"></option>
-    <option value="campuses.asp">TERTIARY</option>
-  <option value="campuses.asp">-----------------------------------------</option> 	
-  
-
+    <option></option>
+  <option value="campuses.asp">TERTIARY</option>
+  <option value="campuses.asp#prep">-------------------------------------------------------</option> 
   <option value="campuses.asp?id=1">Alabang</option>
   <option value="campuses.asp?id=17">Alaminos</option>
   <option value="campuses.asp?id=20">Angeles</option>
-  <option value="campuses.asp?id=62">Antique</option>
   <option value="campuses.asp?id=41">Bacoor</option>
   <option value="campuses.asp?id=66">Bacolod</option>
   <option value="campuses.asp?id=63">Bacolod EC</option>
@@ -464,9 +645,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   <option value="campuses.asp?id=23">Balanga</option>
   <option value="campuses.asp?id=42">Balayan</option>
   <option value="campuses.asp?id=18">Baliuag</option>
-  <option value="campuses.asp?id=64">Barotac Viejo</option>
   <option value="campuses.asp?id=43">Batangas</option>
-  <option value="campuses.asp?id=76">Butuan</option>
   <option value="campuses.asp?id=77">Cagayan De Oro</option>
   <option value="campuses.asp?id=44">Calamba</option>
     <option value="campuses.asp?id=65">Calbayog</option>
@@ -478,66 +657,51 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   <option value="campuses.asp?id=25">Dagupan</option>
   <option value="campuses.asp?id=45">Dasmariñas</option>
   <option value="campuses.asp?id=79">Davao</option>
-
-    <option value="campuses.asp?id=83">Digos</option>
-	  <option value="campuses.asp?id=84">Dipolog</option>
+  <option value="campuses.asp?id=83">Digos</option>
+  <option value="campuses.asp?id=84">Dipolog</option>
   <option value="campuses.asp?id=73">Dumaguete</option>
   <option value="campuses.asp?id=5">Fairview</option>
   <option value="campuses.asp?id=80">General Santos</option>
-    <option value="campuses.asp?id=85">Gingoog</option>
   <option value="campuses.asp?id=6">Global City</option>
-    <option value="campuses.asp?id=35">Guagua</option>
-	  <option value="campuses.asp?id=36">Ilagan</option> 
+  <option value="campuses.asp?id=36">Ilagan</option> 
   <option value="campuses.asp?id=86">Iligan</option>
   <option value="campuses.asp?id=68">Iloilo</option>
   <option value="campuses.asp?id=69">Kalibo</option>
-    <option value="campuses.asp?id=87">Kidapawan</option>
-
-    <option value="campuses.asp?id=37">Laoag</option>
+  <option value="campuses.asp?id=87">Kidapawan</option>
+  <option value="campuses.asp?id=89">Koronadal</option>
+  <option value="campuses.asp?id=37">Laoag</option>
   <option value="campuses.asp?id=7">Las Piñas</option>
   <option value="campuses.asp?id=26">La Union</option>
   <option value="campuses.asp?id=46">Legazpi</option>
   <option value="campuses.asp?id=47">Lipa</option>
   <option value="campuses.asp?id=48">Lucena</option>
-  
-    <option value="campuses.asp?id=74">Maasin</option>
-	  <option value="campuses.asp?id=8">Makati</option>
+  <option value="campuses.asp?id=74">Maasin</option>
+  <option value="campuses.asp?id=8">Makati</option>
   <option value="campuses.asp?id=88">Malaybalay</option>
   <option value="campuses.asp?id=27">Malolos</option>
   <option value="campuses.asp?id=75">Mandaue</option>
 
-  <option value="campuses.asp?id=89">Marbel</option>
   <option value="campuses.asp?id=9">Marikina</option>
   <option value="campuses.asp?id=28">Meycauayan</option>
   <option value="campuses.asp?id=10">Munoz-EDSA</option>
-    <option value="campuses.asp?id=55">Naga</option>
+  <option value="campuses.asp?id=55">Naga</option>
   <option value="campuses.asp?id=11">Novaliches</option>
   <option value="campuses.asp?id=29">Olongapo</option>
   <option value="campuses.asp?id=70">Ormoc</option>
   <option value="campuses.asp?id=49">Ortigas-Cainta</option>
-    <option value="campuses.asp?id=90">Ozamis</option>
-	
-	  <option value="campuses.asp?id=91">Pagadian</option>
+  <option value="campuses.asp?id=90">Ozamis</option>	
+  <option value="campuses.asp?id=91">Pagadian</option>
   <option value="campuses.asp?id=12">Parañaque</option>
   <option value="campuses.asp?id=16">Pasay</option>
   <option value="campuses.asp?id=56">Puerto Princesa</option>
-
   <option value="campuses.asp?id=13">Quezon Avenue</option>
-
   <option value="campuses.asp?id=14">Recto</option>
   <option value="campuses.asp?id=50">Rosario</option>
-  
   <option value="campuses.asp?id=38">San Carlos</option>
-
   <option value="campuses.asp?id=39">San Jose, Nueva Ecija</option>
-
-
-  
-  
   <option value="campuses.asp?id=30">San Fernando</option>
-    <option value="campuses.asp?id=92">San Francisco</option>
+  <option value="campuses.asp?id=92">San Francisco</option>
   <option value="campuses.asp?id=51">San Pablo</option>
-    <option value="campuses.asp?id=57">San Pedro</option>
   <option value="campuses.asp?id=31">Santiago</option>
   <option value="campuses.asp?id=4">Shaw</option>
   <option value="campuses.asp?id=52">Southwoods</option>
@@ -546,107 +710,34 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
   <option value="campuses.asp?id=54">Sta. Rosa</option>
   <option value="campuses.asp?id=81">Surigao</option>
   <option value="campuses.asp?id=71">Tacloban</option>
-
   <option value="campuses.asp?id=93">Tacurong</option>
-
-
   <option value="campuses.asp?id=15">Taft</option>
-    <option value="campuses.asp?id=59">Tagaytay</option>
+  <option value="campuses.asp?id=59">Tagaytay</option>
   <option value="campuses.asp?id=72">Tagbilaran</option>
-    <option value="campuses.asp?id=94">Tagum</option>
+  <option value="campuses.asp?id=94">Tagum</option>
   <option value="campuses.asp?id=61">Tanay</option>
   <option value="campuses.asp?id=60">Tanauan</option>
   <option value="campuses.asp?id=33">Tarlac</option>
   <option value="campuses.asp?id=34">Tuguegarao</option>
-    <option value="campuses.asp?id=40">Urdaneta</option>
-	  <option value="campuses.asp?id=95">Valencia</option>
-
+  <option value="campuses.asp?id=95">Valencia</option>
+  <option value="campuses.asp?id=96">Vigan</option>
   <option value="campuses.asp?id=82">Zamboanga</option>
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        <option value="campuses.asp"></option>
-  <option value="campuses.asp#prep">BASIC EDUCATION</option>
-  <option value="campuses.asp">-----------------------------------------</option> 	 
-  
-
-    <option value="campuses.asp#pg">Angeles (Prep &amp; GS)</option>
-	  <option value="campuses.asp#hc">CDO (HS w/College)</option>
-  <option value="campuses.asp#prep">Las Piñas (Prep)</option>
-    <option value="campuses.asp#gh">Las Piñas (GS &amp; HS)</option>
-
-  
-  
-  
-
-  
-
-
+  <option></option>
+  <option value="campuses.asp#prep">PREP SCHOOL, GRADE SCHOOL, HIGH SCHOOL</option>
+  <option value="campuses.asp#prep">-------------------------------------------------------</option> 	 
+  <option value="campuses.asp#pg">Angeles (Prep &amp; GS)</option>
   <option value="campuses.asp#pg">Malolos (Prep &amp; GS)</option>
   <option value="campuses.asp#pg">Parañaque (Prep &amp; GS)</option>
   <option value="campuses.asp#pg">Pit-Os (Prep &amp; GS)</option>
     <option value="campuses.asp#hc">Rosario (HS w/College)</option>
-	    <option value="campuses.asp#prep">Sta. Mesa (Prep)</option>
+  <option value="campuses.asp#pg">Sta. Mesa (Prep &amp; GS)</option>
     <option value="campuses.asp#hc">Quezon Ave. (HS w/College)</option> 
   <option value="campuses.asp#pg">Quezon City (Prep &amp; GS)</option>
- 
-
-
-
-
-
-
-
-
-
-
-
- 
-      <option value="campuses.asp"></option>
-
-
-  
-
-
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   
@@ -658,58 +749,28 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             <td height="10" valign="top" bgcolor="#FFFF00"></td>
           </tr>
           <tr>
-            <td height="22" valign="top" bgcolor="#FFFF00"><select name="select4" class="form_list" onchange="MM_jumpMenu('parent',this,0)" style="height:20px; width:240px;
+            <td height="22" valign="top" bgcolor="#FFFF00"><select name="select4" class="form_list" onchange="MM_jumpMenu('parent',this,0)" style="height:24px; width:240px; padding:2px 0px; border:solid 3px #fff;
 ">
-                  <option>Select Academic Programs</option>
-        <option value="programs.asp"></option>
-
-  <option value="programs.asp">-----------------------------------------</option>  
-  
-	
-
-  <option value="programs_details.asp?local_procode=2">BS Computer Science</option>
-  <option value="programs_details.asp?local_procode=3">BS Information Technology</option>
-
-
-  <option value="programs_details.asp?local_procode=29">BS Hotel &amp; Restaurant Management</option>
-  <option value="programs_details.asp?local_procode=13">BS Business Administration</option>
-  <option value="programs_details.asp?local_procode=16">BS Office Administration</option>
-  
-  <option value="programs_details.asp?local_procode=23">BS Nursing</option>
-  
-  <option value="programs_details.asp?local_procode=9">BS Computer Engineering</option>
-
-
-
-
-
-  
-  <option value="programs_details.asp?local_procode=28">3-yr Hotel &amp; Restaurant Administration</option>
-
-
-
-
-
-  <option value="programs_details.asp?local_procode=4">2-yr Associate in Computer Technology</option>
-  <option value="programs_details.asp?local_procode=7">2-yr Information Technology</option>
-  <option value="programs_details.asp?local_procode=8">2-yr Multimedia Arts</option>
-
-  <option value="programs_details.asp?local_procode=18">2-yr Office Skills &amp; Management</option>
-  <option value="programs_details.asp?local_procode=25">2-yr Hospitality &amp; Restaurant Services</option>
-
-  <option value="programs_details.asp?local_procode=12">2-yr Computer &amp; Electronics Technology</option>
-
-
-
-
-
-
-  <option value="programs_details.asp"></option>
-
-
-	  
-
-
+                  <option>Select Academic Programs</option> 
+  <option value="programs_ict_details.asp?local_procode=2">BS Computer Science</option>
+  <option value="programs_ict_details.asp?local_procode=3">BS Information Technology</option>
+  <option value="programs_hotel_tourism_details.asp?local_procode=16">BS Hotel &amp; Restaurant Management</option>
+  <option value="programs_business_details.asp?local_procode=10">BS Business Management</option>
+  <option value="programs_hotel_tourism_details.asp?local_procode=18">BS Travel Management</option>
+  <option value="programs_hotel_tourism_details.asp?local_procode=17">BS Tourism Management</option>
+  <option value="programs_business_details.asp?local_procode=11">BS Office Administration</option>
+  <option value="programs_healthcare_details.asp?local_procode=15">BS Nursing</option> 
+  <option value="programs_engineering_details.asp?local_procode=7">BS Computer Engineering</option> 
+  <option value="programs_hotel_tourism_details.asp?local_procode=22">3-yr. Hotel &amp; Restaurant Administration</option>
+  <option value="programs_engineering_details.asp?local_procode=4">2-yr. Associate in Computer Technology</option>
+  <option value="programs_ict_details.asp?local_procode=5">2-yr. Information Technology</option>
+  <option value="programs_ict_details.asp?local_procode=6">2-yr. Multimedia Arts</option>
+  <option value="programs_business_details.asp?local_procode=13">2-yr. Office Skills &amp; Management</option>
+  <option value="programs_hotel_tourism_details.asp?local_procode=23">2-yr. Hospitality &amp; Restaurant Services</option>
+  <option value="programs_engineering_details.asp?local_procode=9">2-yr. Computer &amp; Electronics Technology</option>
+  <option value="programs_hotel_tourism_details.asp?local_procode=24">2-yr. Travel and Tourism Services</option> 
+  <option value="culinary_camp.asp">Culinary Camp</option>
+  <option value="centerofarts.asp">Center of Arts</option>
             </select>            </td>
           </tr>
           <tr>
@@ -719,10 +780,30 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             <td height="10" valign="top" bgcolor="#FFFF00"></td>
           </tr>
           <tr>
-            <td height="20" valign="top" bgcolor="#FFFF00"><form method="get" action="search_sti.asp">
-                <input name="zoom_query" type="text" value="Search STI.EDU" class="form_textbox" onclick="this.value=&quot;&quot;">
-                <input type="submit" name="Send" value="Search" class="form_button">
-            </form></td>
+            <td height="20" valign="top" bgcolor="#FFFF00">
+            
+            
+            <!-- 
+            <form method="get" action="search_sti.asp">
+                <input name="zoom_query" type="text" value="Search STI.EDU" class="form_textbox" onClick="this.value=&quot;&quot;" />
+                <input type="submit" name="Send" value="Search" class="form_button"/>
+            </form>
+            -->
+            
+            <form action="google_form_results.asp" id="cse-search-box">
+  			<div>
+    		<input type="hidden" name="cx" value="005825080231843934273:hhmt1ugzqji">
+    		<input type="hidden" name="cof" value="FORID:11">
+    		<input type="hidden" name="ie" value="UTF-8">
+    		<input type="text" name="q" class="form_textbox">
+    		<input type="submit" name="sa" value="Search" class="form_button">
+  			</div>
+			</form>
+			<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+            
+            
+            
+            </td>
           </tr>
         </tbody></table>
       </div>
@@ -742,50 +823,86 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 
 
-  	  <div id="search_center_container"><link href="css/tertiary_style.css" rel="stylesheet" type="text/css">
-<table width="240" border="0" cellspacing="0" cellpadding="0">
+  	  <div id="search_center_container"><link href="css/tertiary_style.css" rel="stylesheet" type="text/css"><table width="240" border="0" cellspacing="0" cellpadding="0">
             
             <tbody><tr>
-              <td width="187" height="103" valign="top" bgcolor="#FFFF00">
+              <td width="187" height="103" valign="top" bgcolor="#FFF200">
 			  				  
-							  
-							  
-							  
-							  
-							  
-							  
-							  
+						  
 <table width="180" border="0" cellspacing="0" cellpadding="0" class="calendar">
                 <tbody><tr>
                   <td height="25" valign="top" bgcolor="#FFFF00"><div align="left"><span id="quick_search">
-                    November 
-                    2009 </span></div></td>
+                    December 
+                    2011 </span></div></td>
         </tr>
                 
                 <tr>
-                  <td height="12" valign="top" bgcolor="#FFFF00"><table width="240" border="0" cellpadding="0" cellspacing="0">
+                  <td height="12" valign="top" bgcolor="#FFFF00">
+       <table width="240" border="0" cellpadding="0" cellspacing="0">
       
-      <tbody><tr>
-        <td width="27" height="15" align="left" valign="top" bgcolor="#FFFF00"><strong>01</strong></td>
-        <td width="213" height="15" valign="bottom" bgcolor="#FFFF00" class="calendar_blue">All Saints Day</td>
+      
+      
+
+
+	<tbody><tr>
+	  <td height="15" align="left" valign="top" bgcolor="#FFFF00"><strong>1</strong></td>
+	  <td height="15" valign="bottom" bgcolor="#FFFF00" class="calendar_blue"><table cellspacing="0" cellpadding="0">
+	    <tbody><tr>
+	      <td valign="top" width="21"></td>
+	      <td width="426">All Saints Day (Special Non-Working Day)</td>
+	      </tr>
+	    </tbody></table></td>
+	  </tr>
+	<tr>
+        <td width="47" height="15" align="left" valign="top" bgcolor="#FFFF00"><strong>6</strong></td>
+        <td width="193" height="15" valign="bottom" bgcolor="#FFFF00" class="calendar_blue"><table cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td valign="top" width="21"></td>
+            <td width="426">Eid-al-Adha (Holiday)</td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="15" align="left" valign="top" bgcolor="#FFFF00"><strong>7-18</strong></td>
+        <td height="15" valign="bottom" bgcolor="#FFFF00" class="calendar_blue"><table cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td valign="top" width="21"></td>
+            <td width="426">Voice of the Youth (VOTY) Divisional Competition</td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+      <tr>
+        <td height="15" align="left" valign="top" bgcolor="#FFFF00"><strong>30</strong></td>
+        <td height="15" valign="bottom" bgcolor="#FFFF00" class="calendar_blue"><table cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td valign="top" width="21"></td>
+            <td width="426">Bonifacio Day (Regular Holiday)</td>
+          </tr>
+        </tbody></table></td>
       </tr>
       
-      <tr>
-        <td height="15" align="left" valign="top" bgcolor="#FFFF00"><strong>24</strong></td>
-        <td height="15" valign="bottom" bgcolor="#FFFF00" class="calendar_blue">Late Registration Ends</td>
-      </tr>
-      <tr>
-        <td height="15" align="left" valign="top" bgcolor="#FFFF00"><strong>30 </strong></td>
-        <td height="15" valign="bottom" bgcolor="#FFFF00" class="calendar_blue">Bonifacio Day(Regular Holiday)</td>
-      </tr>
+
+      
+
+	  
+
+
+        
+        
+        
+
+      
       
       <tr>
         <td height="20" bgcolor="#FFFF00">&nbsp;</td>
-        <td height="18" align="right" valign="bottom" bgcolor="#FFFF00"><a href="calendar.asp" class="rightlinks"><strong>View Events Calendar</strong></a></td>
+        <td height="18" align="right" valign="bottom" bgcolor="#FFFF00"><a href="calendar.asp"><strong>View Events Calendar</strong></a></td>
       </tr>
-    </tbody></table></td>
+    </tbody></table>
+    		</td>
                 </tr>
-              </tbody></table></td>
+     </tbody></table>
+              
+              </td>
             </tr>
 </tbody></table>
 </div>
@@ -800,61 +917,34 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <div id="ads_divider"></div>
     <div id="ads_container1">
       <script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','264','height','80','src','flash/online_registration','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','flash/online_registration' ); //end AC code
-</script><embed width="264" height="80" src="flash/online_registration.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="264" height="80">
-        <param name="movie" value="flash/online_registration.swf" />
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','264','height','80','src','flash/online_registration_2011','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','flash/online_registration_2011' ); //end AC code
+</script><embed width="264" height="80" src="flash/online_registration_2011.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="264" height="80">
+        <param name="movie" value="flash/online_registration_2011.swf" />
         <param name="quality" value="high" />
-        <embed src="flash/online_registration.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="264" height="80"></embed>
+        <embed src="flash/online_registration_2011.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="264" height="80"></embed>
       </object>
     </noscript></div>
-     <div id="ads_divider"></div>
+  <div id="ads_divider"></div>
         <div id="ads_container1">
           <script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','264','height','180','src','flash/scope2','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','flash/scope2' ); //end AC code
-</script><embed width="264" height="180" src="flash/scope2.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="264" height="180">
-            <param name="movie" value="flash/scope2.swf" />
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','264','height','180','src','flash/scope_2011_rounded','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','flash/scope_2011_rounded' ); //end AC code
+</script><embed width="264" height="180" src="flash/scope_2011_rounded.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="264" height="180">
+            <param name="movie" value="flash/scope_2011_rounded.swf" />
             <param name="quality" value="high" />
-            <embed src="flash/scope2.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="264" height="180"></embed>
+            <embed src="flash/scope_2011_rounded.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="264" height="180"></embed>
           </object>
         </noscript></div>
   <div id="ads_divider"></div>
-      <div id="ads_container1">
-      <p>
-        <script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','264','height','80','src','flash/dos1','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','flash/dos1' ); //end AC code
-</script><embed width="264" height="80" src="flash/dos1.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="264" height="80">
-          <param name="movie" value="flash/dos1.swf" />
-          <param name="quality" value="high" />
-          <embed src="flash/dos1.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="264" height="80"></embed>
-        </object></noscript>
-      </p>
-      </div>
-     <div id="ads_divider"></div>
-            <div id="ads_container1">
-      <p>
-        <script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','264','height','80','src','flash/psgshs','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','flash/psgshs' ); //end AC code
-</script><embed width="264" height="80" src="flash/psgshs.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="264" height="80">
-          <param name="movie" value="flash/psgshs.swf" />
-          <param name="quality" value="high" />
-          <embed src="flash/psgshs.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="264" height="80"></embed>
-        </object></noscript>
-      </p>
-      </div>
-     <div id="ads_divider"></div>
-     
-     <div id="ads_container1">
-       <script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','264','height','80','src','flash/26th_right','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','flash/26th_right' ); //end AC code
-</script><embed width="264" height="80" src="flash/26th_right.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash"> <noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="264" height="80">
-         <param name="movie" value="flash/26th_right.swf" />
-         <param name="quality" value="high" />
-         <embed src="flash/26th_right.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="264" height="80"></embed>
-       </object></noscript>
-     </div>
-          <div id="ads_divider"></div>
+
+
+  <div id="ads_divider"></div>    
+
+<div id="ads_divider"></div>  
+          
+
+
+
 </div>
-    
 </div>
 
 
@@ -874,7 +964,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
   Tel. (632) 812-1STI (784). For inquiries <a href="contact.asp" style="color: #FFFF00;">Click here</a>.<br>
   <br>
         <a href="privacy_policy.asp" style="color: #FFFF00;">Privacy Policy</a> | <a href="terms_of_use.asp" style="color: #FFFF00;">Terms of Use</a> | <a href="sitemap.asp" style="color: #FFFF00;">Site Map</a><br>
-  STI Colleges and Education Centers Website Seventh Edition: May 2008<br>
+  © 2011 STI Colleges and Education Centers. All Rights Reserved.<br>
   You may send in your feedback to the <a href="mailto:dbalaga@stihq.net" style="color: #FFFF00;">Site Developer</a>.
         <p align="center" class="footer_txt">&nbsp;</p>
 <br></div>
@@ -887,31 +977,19 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--google analytics -->
+<!-- Start of StatCounter Code for Dreamweaver -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-7135820-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
-
+var sc_project=6967316; 
+var sc_invisible=1; 
+var sc_security="f112630e"; 
+</script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="hit counter
+for tumblr" href="http://statcounter.com/tumblr/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/6967316/0/f112630e/1/"
+alt="hit counter for tumblr"></a></div></noscript>
+<!-- End of StatCounter Code for Dreamweaver -->
 
 
 
