@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the advancedmd.com privacy policy that was archived on 2011-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605234218id_/http%3A//www.advancedmd.com/company/terms-policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advancedmd.com privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205065647id_/http%3A//www.advancedmd.com/company/terms-policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
@@ -12,9 +12,9 @@
 		
 		
 		<link rel="canonical" href="http://www.advancedmd.com/company/terms-policies/privacy-policy/">
-		<link rel="stylesheet" type="text/css" href="/public/styles/global.css">
+		<link rel="stylesheet" type="text/css" href="/public/styles/global.css?v=12042011">
 		<link rel="stylesheet" type="text/css" href="/public/shadowbox/shadowbox.css">
-		<link rel="stylesheet" type="text/css" href="/public/styles/tier-1-4.css">
+		<link rel="stylesheet" type="text/css" href="/public/styles/tier-1-4.css?v=12042011">
 		<link rel="stylesheet" type="text/css" href="/public/styles/search.css">
 		
 		<script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" charset="utf-8">
@@ -30,7 +30,10 @@
 		<script type="text/javascript" charset="utf-8" src="/public/shadowbox/shadowbox.js"></script>
 		
 					<script type="text/javascript" charset="utf-8" src="/public/javascript/global.js"></script><script type="text/javascript" src="https://web.archive.org/public/shadowbox/libraries/sizzle/sizzle.js"></script><script type="text/javascript" src="https://web.archive.org/public/shadowbox/languages/shadowbox-en.js"></script><script type="text/javascript" src="https://web.archive.org/public/shadowbox/players/shadowbox-swf.js"></script><script type="text/javascript" src="https://web.archive.org/public/shadowbox/players/shadowbox-img.js"></script><script type="text/javascript" src="https://web.archive.org/public/shadowbox/players/shadowbox-html.js"></script><script type="text/javascript" src="https://web.archive.org/public/shadowbox/players/shadowbox-flv.js"></script><script type="text/javascript" src="https://web.archive.org/public/shadowbox/players/shadowbox-iframe.js"></script><script type="text/javascript" src="https://web.archive.org/public/shadowbox/players/shadowbox-qt.js"></script><script type="text/javascript" src="https://web.archive.org/public/shadowbox/players/shadowbox-wmp.js"></script><script type="text/javascript" src="https://web.archive.org/public/shadowbox/adapters/shadowbox-jquery.js"></script>
-				<script language="JavaScript" type="text/javascript" src="/public/javascript/s_code.js"></script>
+		
+		<script language="JavaScript" type="text/javascript" src="/public/javascript/s_code.js"></script>
+		<script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
+		<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=27698682"></script></head><body id="tier-1-4"><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=997&amp;ref2=elqNone&amp;tzo=0&amp;ms=304" border="0" width="1" height="1"></layer>
 		
 		<script type="text/javascript" src="http://use.typekit.com/efk0bzq.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
@@ -44,30 +47,38 @@
 		
 		<script type="text/javascript">
 			
-				$(function(){
-					//-- Go Go Instant Video Player
-					if( jQuery.url.param("vid")){
-						var file = jQuery.url.param("vid");
-						var type = file.search("http://");
-						if(type !== -1){
-							var url = file;
-						}else{
-							var url = 'http://advancedmd.http.internapcdn.net/advancedmd_vitalstream_com/Marketing/' + file;
-						}
-						var h = jQuery.url.param("h") || 364;
-						var w = jQuery.url.param("w") || 640;
-						Shadowbox.init({ players: ["html","iframe", "flv"] });
-						Shadowbox.open({player: "flv", content: url, height: h, width: w});
-					}
-					if(jQuery.url.param("refer-friend")){
-						var url ='/hxm_v4/hxm_referral_passthrough.php';
-						Shadowbox.init({players: ["html","iframe"] });
-						Shadowbox.open({player: "iframe", content: url, height: 650 , width: 600});
-					}
+		$(function(){
+			//-- Go Go Instant Video Player
+			if(jQuery.url.param("vid")){
+				var file = jQuery.url.param("vid");
+				var type = file.search("http://");
+				if(type !== -1){
+					var url = file;
+				}else{
+					var url = 'http://advancedmd.http.internapcdn.net/advancedmd_vitalstream_com/Marketing/' + file;
+				}
+				var h = jQuery.url.param("h") || 364;
+				var w = jQuery.url.param("w") || 640;
+				var p = jQuery.url.param("p") || "flv";
+				Shadowbox.init({ players: ["html","iframe", "flv"] });
+				Shadowbox.open({player: p, content: url, height: h, width: w});
+			}
+			//- Go Go Chat
+			if(jQuery.url.param("chat")){
+				var ref = jQuery.url.param("referrer");
+				var url ='https://server.iad.liveperson.net/hc/27698682/?cmd=file&file=visitorWantsToChat&site=27698682&referrer='+ref;
+				Shadowbox.init({players: ["html","iframe"] });
+				Shadowbox.open({player: "iframe", content: url, height: 500 , width: 700});
+			}
+			//-- Go Go Demo Launcher
+			if(jQuery.url.param("demo")){
+				Shadowbox.init({players: ["html","iframe"] });
+				Shadowbox.open({player: "iframe", content: 'modals/product-tour.html?lsid=803349', height: 425, width: 500, title:'View an On-Demand Demo'});
+			}
 
-				})
-						
-		</script>
+		})
+				
+</script>		
 		<script type="text/javascript">
 
 		  var _gaq = _gaq || [];
@@ -85,8 +96,9 @@
 		  })();
 
 		</script>
-	<script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=27698682"></script></head>
-	<body id="tier-1-4">
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	
+	
 	
 	<div id="adp-banner">
 	<div id="adp-wrapper">
@@ -114,8 +126,11 @@
 		<button type="submit" name="search-submit" id="search-submit" title="Submit">&nbsp;</button>
 	</form>
 	<div class="social-media">
-		<a href="http://youtube.com/advancedmd/" target="_blank" title="Watch our YouTube channel" class="youtube">YouTube</a>
-		<a href="http://www.facebook.com/pages/AdvancedMD/118490988180563" target="_blank" title="Stay connected on our Facebook page" class="facebook">FaceBook</a>
+		<a href="http://www.twitter.com/adpadvancedmd" target="_blank" title="Follow us on Twitter" class="twitter">Twitter</a>
+		<a href="http://www.facebook.com/adpadvancedmd" target="_blank" title="Stay connected on our Facebook page" class="facebook">Facebook</a>
+		<div style="float:right; margin-right:4px;">
+			<g:plusone size="small" count="false" href="http://www.advancedmd.com/company/terms-policies/privacy-policy/"></g:plusone>
+		</div>
 	</div>
 	<div class="phone-number">Call for Immediate Service: (800) 825-0224</div>
 	<a href="/" id="logo" title="AdvancedMD®"></a>
@@ -123,30 +138,25 @@
 		<li id="home">
 			<a href="/">Home</a>
 		</li>
-		<li class="products-solutions-link"><a href="/products-solutions/"><span>Products &amp; Solutions</span></a><div class="dropdown" id="products-solutions-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/products-solutions/emr-ehr/">Electronic Health Record </a><ul><li><a href="/products-solutions/emr-ehr/features/">EHR Features</a></li><li><a href="/products-solutions/emr-ehr/medical-practice-optimization/">Medical Practice Optimization</a></li><li><a href="/products-solutions/emr-ehr/emr-vs-ehr/">EMR vs EHR</a></li><li><a href="/products-solutions/emr-ehr/physician-dashboard/">Physician Dashboard</a></li><li><a href="/products-solutions/emr-ehr/patient-encounter/">Patient Encounter</a></li><li><a href="/products-solutions/emr-ehr/ehr-billing-automation/">EHR &amp; Billing Automation</a></li><li><a href="/products-solutions/emr-ehr/health-watcher/">HealthWatcher</a></li><li><a href="/products-solutions/emr-ehr/interoperability/">Interoperability</a></li><li><a href="/products-solutions/emr-ehr/patient-portal/">Patient Portal</a></li><li><a href="/products-solutions/emr-ehr/mobile-access/">Remote Access</a></li><li><a href="/products-solutions/emr-ehr/specialty-templates/">Specialty Templates</a></li><li><a href="/products-solutions/emr-ehr/ehr-template-library/">EHR Template Library</a></li><li><a href="/products-solutions/emr-ehr/ehr-stimulus-rebate/">Stimulus Plan</a></li><li><a href="/products-solutions/emr-ehr/meaningful-use/">Meaningful Use</a></li><li><a href="/products-solutions/emr-ehr/cchit-certification/">ONC-ATCB Certification</a></li></ul></li><li><a href="/products-solutions/practice-management/">Practice Management</a><ul><li><a href="/products-solutions/practice-management/medical-central-billing-office/">Central Billing Office (CBO)</a></li><li><a href="/products-solutions/practice-management/medical-coding-software-system/">Medical Coding</a></li><li><a href="/products-solutions/practice-management/cpt-code-lookup-software/">CPT Codes</a></li><li><a href="/products-solutions/practice-management/medical-icd-10-code-software/">ICD-10</a></li><li><a href="/products-solutions/practice-management/icd-10-code-medical-coding-software/">Payer Rules Maintenance</a></li><li><a href="/products-solutions/practice-management/rules-compliance/">Rules Compliance</a></li><li><a href="/products-solutions/practice-management/paperless-medical-office-software/">Paperless Office</a></li></ul></li></ul><ul><li><a href="/products-solutions/medical-billing-software/">Medical Billing (RCM)</a><ul><li><a href="/products-solutions/medical-billing-software/electronic-eligibility-medical-software/">eEligibility</a></li><li><a href="/products-solutions/medical-billing-software/medical-appointment-scheduling/">Appointment Scheduler</a></li><li><a href="/products-solutions/medical-billing-software/medical-appointment-wait-list/">Appointment Wait List</a></li><li><a href="/products-solutions/medical-billing-software/deductable-copay-co-pay/">Deductibles &amp; Co-pays</a></li><li><a href="/products-solutions/medical-billing-software/visit-tracking-number/">Visit Tracking Number</a></li><li><a href="/products-solutions/medical-billing-software/medical-online-charge-slip-software/">Online Charge Slips</a></li><li><a href="/products-solutions/medical-billing-software/medical-online-charge-slip-superbill-software/">Superbill</a></li><li><a href="/products-solutions/medical-billing-software/charge-review/">Charge Review</a></li><li><a href="/products-solutions/medical-billing-software/medical-code-book-obsolete/">Online Codes</a></li><li><a href="/products-solutions/medical-billing-software/recall-visit/">Recall Visit</a></li><li><a href="/products-solutions/medical-billing-software/medical-collections-software/">A/R Collections</a></li><li><a href="/products-solutions/medical-billing-software/accounts-receivable-report/">A/R Reports</a></li><li><a href="/products-solutions/medical-billing-software/third-party-medical-agency-collection-software/">Soft Collection Letters</a></li><li><a href="/products-solutions/medical-billing-software/claim-inspector/">Claim Inspector</a></li><li><a href="/products-solutions/medical-billing-software/medical-insurance-claims-billing-software/">eClaims</a></li><li><a href="/products-solutions/medical-billing-software/electronic-remittance/">eRemittance</a></li><li><a href="/products-solutions/medical-billing-software/electronic-statements-medical-billing/">eStatement</a></li></ul></li><li><a href="/products-solutions/medical-scheduling/">Online Medical Scheduling</a><ul><li><a href="/products-solutions/medical-scheduling/doctor-physician-scheduling-software/">Features</a></li><li><a href="/products-solutions/medical-scheduling/physician-patient-medical-workflow-software/">Workflow</a></li><li><a href="/products-solutions/medical-scheduling/medical-patient-management-software/">Patient Benefits</a></li><li><a href="/products-solutions/medical-scheduling/medical-patient-scheduling-software/">FAQ</a></li></ul></li></ul><ul><li><a href="/products-solutions/eprescribing/">Electronic Prescribing Software</a><ul><li><a href="/products-solutions/eprescribing/eprescription-workflow-process-software/">Workflow</a></li><li><a href="/products-solutions/eprescribing/electronic-prescription-software/">Patient Benefits</a></li><li><a href="/products-solutions/eprescribing/eprescribing-controlled-substances/">Controlled Substances</a></li><li><a href="/products-solutions/eprescribing/e-prescribing-software-solution/">FAQ</a></li></ul></li><li><a href="/products-solutions/medical-practice-specialty/">Solutions for Medical Practices</a><ul><li><a href="/products-solutions/medical-practice-specialty/cardiothoracic-office-billing-practice-management-software/">Cardiovascular</a></li><li><a href="/products-solutions/medical-practice-specialty/family-medicine-office-billing-practice-management-software/">Family Medicine</a></li><li><a href="/products-solutions/medical-practice-specialty/internal-medicine-office-billing-practice-management-software/">Internal Medicine</a></li><li><a href="/products-solutions/medical-practice-specialty/nephrology-nephrologist-office-billing-practice-management-software/">Nephrology</a></li><li><a href="/products-solutions/medical-practice-specialty/obgyn-office-billing-practice-management-software/">OB/GYN</a></li><li><a href="/products-solutions/medical-practice-specialty/pain-management-office-billing-practice-management-software/">Pain Management</a></li><li><a href="/products-solutions/medical-practice-specialty/pediatric-office-billing-practice-management-software/">Pediatric</a></li></ul></li></ul><ul><li><a href="/products-solutions/web-based/">Web-based Platform</a><ul><li><a href="/products-solutions/web-based/web-based-versus-on-site-medical-software/"> Web-based vs. On-site</a></li><li><a href="/products-solutions/web-based/easy-simple-medical-billing-software/">Ease of Use</a></li><li><a href="/products-solutions/web-based/medical-software-offsite-backup-security/">Data Backup &amp; Security</a></li><li><a href="/products-solutions/web-based/electronic-medical-record-storage/">Medical Records Storage</a></li><li><a href="/products-solutions/web-based/pda-medical-software/">Anywhere, Anytime Access</a></li><li><a href="/products-solutions/web-based/at-home-remote-access/">Remote Worker Support</a></li><li><a href="/products-solutions/web-based/medical-billing-software-price-cost/">Return on Investment</a></li><li><a href="/products-solutions/web-based/application-integration/">Application Integration</a></li></ul></li></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li><li class="communities-link"><a href="/communities/"><span>Communities</span></a><div class="dropdown skinny" id="communities-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/communities/beta-testing/">Beta Testing</a><ul><li><a href="/communities/beta-testing/registration-form/">Registration Process</a></li></ul></li><li><a href="/communities/professional-memberships/">Professional Memberships</a></li><li><a href="/communities/medical-billing-software-user-forum/">AdvancedMD User Forum</a></li></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li><li class="support-link"><a href="/support/"><span>Support</span></a><div class="dropdown skinny" id="support-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/support/log-a-support-case/">Support Corner</a></li><li><a href="/support/training/">Training</a></li><li><a href="/support/utility-setup/">Utility Setup</a></li><li><a href="/support/system-requirements/">System Requirements</a></li><li><a href="/support/integration-partners/">Integration Partners</a></li><li><a href="/support/implementation-management/">Implementation Management</a><ul><li><a href="/support/implementation-management/data-conversion/">Data Conversion</a></li><li><a href="/support/implementation-management/payer-contracts/">Payer Contracts</a></li></ul></li></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li><li class="resources-link"><a href="/resources/"><span>Resources</span></a><div class="dropdown skinny" id="resources-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/resources/free-medical-billing-software-demo/">Demos &amp; Videos</a></li><li><a href="/resources/medical-billing-software-case-study/">Success Stories</a></li><li><a href="/resources/white-papers/">White Papers</a></li><li><a href="/resources/webinars-podcasts/">Live Webinars</a></li><li><a href="/resources/recorded-webinars/">Recorded Webinars</a></li><li><a href="/resources/tools-calculators/">Tools &amp; Calculators</a><ul><li><a href="/resources/tools-calculators/workstation-test/">Workstation Test</a></li><li><a href="/resources/tools-calculators/roi-return-on-investment-medical-software/">ROI Calculator</a></li></ul></li></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li><li class="advancedbiller-link"><a href="/advancedbiller/"><span>AdvancedBiller</span></a><div class="dropdown skinny" id="advancedbiller-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/advancedbiller/product-benefits/">Product Benefits</a><ul><li><a href="/advancedbiller/product-benefits/front-office-features/">Front Office Features</a></li><li><a href="/advancedbiller/product-benefits/technology-benefits/">Technology Benefits</a></li></ul></li><li><a href="/advancedbiller/program-benefits/">Program Benefits</a></li><li><a href="/advancedbiller/startup-medical-billing-service/">Startup Biller</a></li><li><a href="/advancedbiller/resource-library/">Resource Library</a></li></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li><li class="company-link"><a href="/company/"><span>Company</span></a><div class="dropdown skinny" id="company-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/company/contact/">Contact Us</a></li><li><a href="/company/leadership/">Leadership</a></li><li><a href="/company/careers/">Careers</a></li><li><a href="/company/news-events/">News &amp; Events</a><ul><li><a href="/company/news-events/press-releases/">Press Releases</a></li><li><a href="/company/news-events/articles/">Media Coverage</a></li><li><a href="/company/news-events/awards/">Awards</a></li><li><a href="/company/news-events/events/">Events</a></li></ul></li><li><a href="/company/media-resources/">Media Resources</a></li><li><a href="/company/terms-policies/">Terms &amp; Policies</a><ul><li><a href="/company/terms-policies/application-terms-of-service/">Application Terms of Service</a></li><li><a href="/company/terms-policies/service-level-policy/">Service Level Policy</a></li><li><a href="/company/terms-policies/support-policy/">Support Policy</a></li><li><a href="/company/terms-policies/privacy-policy/">Privacy Policy</a></li><li><a href="/company/terms-policies/hipaa-compliance/">HIPAA Compliance</a></li></ul></li></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li>	</ul>
+		<li class="products-solutions-link"><a href="/products-solutions/"><span>Products &amp; Solutions</span></a><div class="dropdown" id="products-solutions-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/products-solutions/emr-ehr/">Electronic Health Records</a><ul><li><a href="/products-solutions/emr-ehr/features/">EHR Features</a></li><li><a href="/products-solutions/emr-ehr/emr-vs-ehr/">EMR vs EHR</a></li><li><a href="/products-solutions/emr-ehr/physician-dashboard/">Physician Dashboard</a></li><li><a href="/products-solutions/emr-ehr/patient-encounter/">Patient Encounter</a></li><li><a href="/products-solutions/emr-ehr/ehr-billing-automation/">EHR &amp; Billing Automation</a></li><li><a href="/products-solutions/emr-ehr/health-watcher/">HealthWatcher</a></li><li><a href="/products-solutions/emr-ehr/interoperability/">Interoperability</a></li><li><a href="/products-solutions/emr-ehr/patient-portal/">Online Patient Portal</a></li><li><a href="/products-solutions/emr-ehr/mobile-access/">Remote Access</a></li><li><a href="/products-solutions/emr-ehr/specialty-templates/">Specialty Templates</a></li><li><a href="/products-solutions/emr-ehr/ehr-template-library/">EHR Template Library</a></li><li><a href="/products-solutions/emr-ehr/ehr-stimulus-rebate/">EHR Stimulus Incentives</a></li><li><a href="/products-solutions/emr-ehr/meaningful-use/">Meaningful Use</a></li><li><a href="/products-solutions/emr-ehr/cchit-certification/">ONC-ATCB Certification</a></li></ul></li><li><a href="/products-solutions/practice-management/">Practice Management</a><ul><li><a href="/products-solutions/practice-management/medical-central-billing-office/">Central Billing Office (CBO)</a></li><li><a href="/products-solutions/practice-management/medical-coding-software-system/">Medical Coding</a></li><li><a href="/products-solutions/practice-management/cpt-code-lookup-software/">CPT Codes</a></li><li><a href="/products-solutions/practice-management/medical-icd-10-code-software/">ICD-10</a></li><li><a href="/products-solutions/practice-management/icd-10-code-medical-coding-software/">Payer Rules Maintenance</a></li><li><a href="/products-solutions/practice-management/rules-compliance/">Rules Compliance</a></li><li><a href="/products-solutions/practice-management/paperless-medical-office-software/">Paperless Office</a></li></ul></li></ul><ul><li><a href="/products-solutions/medical-billing-software/">Medical Billing (RCM)</a><ul><li><a href="/products-solutions/medical-billing-software/electronic-eligibility-medical-software/">eEligibility</a></li><li><a href="/products-solutions/medical-billing-software/medical-appointment-scheduling/">Appointment Scheduler</a></li><li><a href="/products-solutions/medical-billing-software/medical-appointment-wait-list/">Appointment Wait List</a></li><li><a href="/products-solutions/medical-billing-software/deductable-copay-co-pay/">Deductibles &amp; Co-pays</a></li><li><a href="/products-solutions/medical-billing-software/visit-tracking-number/">Visit Tracking Number</a></li><li><a href="/products-solutions/medical-billing-software/medical-online-charge-slip-software/">Online Charge Slips</a></li><li><a href="/products-solutions/medical-billing-software/medical-online-charge-slip-superbill-software/">Superbill</a></li><li><a href="/products-solutions/medical-billing-software/charge-review/">Charge Review</a></li><li><a href="/products-solutions/medical-billing-software/medical-code-book-obsolete/">Online Codes</a></li><li><a href="/products-solutions/medical-billing-software/recall-visit/">Recall Visit</a></li><li><a href="/products-solutions/medical-billing-software/medical-collections-software/">A/R Collections</a></li><li><a href="/products-solutions/medical-billing-software/accounts-receivable-report/">A/R Reports</a></li><li><a href="/products-solutions/medical-billing-software/third-party-medical-agency-collection-software/">Soft Collection Letters</a></li><li><a href="/products-solutions/medical-billing-software/claim-inspector/">Claim Inspector</a></li><li><a href="/products-solutions/medical-billing-software/medical-insurance-claims-billing-software/">eClaims</a></li><li><a href="/products-solutions/medical-billing-software/electronic-remittance/">eRemittance</a></li><li><a href="/products-solutions/medical-billing-software/electronic-statements-medical-billing/">eStatement</a></li></ul></li><li><a href="/products-solutions/medical-scheduling/">Online Medical Scheduling</a><ul><li><a href="/products-solutions/medical-scheduling/doctor-physician-scheduling-software/">Features</a></li><li><a href="/products-solutions/medical-scheduling/physician-patient-medical-workflow-software/">Workflow</a></li><li><a href="/products-solutions/medical-scheduling/medical-patient-management-software/">Patient Benefits</a></li><li><a href="/products-solutions/medical-scheduling/medical-patient-scheduling-software/">FAQ</a></li></ul></li></ul><ul><li><a href="/products-solutions/medical-practice-optimization/">Medical Practice Optimization</a></li><li><a href="/products-solutions/eprescribing/">Electronic Prescribing Software</a><ul><li><a href="/products-solutions/eprescribing/eprescription-workflow-process-software/">Workflow</a></li><li><a href="/products-solutions/eprescribing/electronic-prescription-software/">Patient Benefits</a></li><li><a href="/products-solutions/eprescribing/eprescribing-controlled-substances/">Controlled Substances</a></li><li><a href="/products-solutions/eprescribing/e-prescribing-software-solution/">FAQ</a></li></ul></li></ul><ul><li><a href="/products-solutions/web-based/">Cloud Benefits</a><ul><li><a href="/products-solutions/web-based/web-based-versus-on-site-medical-software/">Cloud vs. On-site</a></li><li><a href="/products-solutions/web-based/easy-simple-medical-billing-software/">Easy to Use</a></li><li><a href="/products-solutions/web-based/medical-software-offsite-backup-security/">Data Backup &amp; Security</a></li><li><a href="/products-solutions/web-based/electronic-medical-record-storage/">Medical Records Storage</a></li><li><a href="/products-solutions/web-based/pda-medical-software/">Anywhere, Anytime Access</a></li><li><a href="/products-solutions/web-based/at-home-remote-access/">Remote Worker Support</a></li><li><a href="/products-solutions/web-based/medical-billing-software-price-cost/">Return on Investment</a></li><li><a href="/products-solutions/web-based/application-integration/">Application Integration</a></li></ul></li><li><a href="/products-solutions/medical-practice-specialty/">Solutions for Medical Practices</a><ul><li><a href="/products-solutions/medical-practice-specialty/cardiothoracic-office-billing-practice-management-software/">Cardiovascular</a></li><li><a href="/products-solutions/medical-practice-specialty/family-medicine-office-billing-practice-management-software/">Family Medicine</a></li><li><a href="/products-solutions/medical-practice-specialty/internal-medicine-office-billing-practice-management-software/">Internal Medicine</a></li><li><a href="/products-solutions/medical-practice-specialty/nephrology-nephrologist-office-billing-practice-management-software/">Nephrology</a></li><li><a href="/products-solutions/medical-practice-specialty/obgyn-office-billing-practice-management-software/">OB/GYN</a></li><li><a href="/products-solutions/medical-practice-specialty/pain-management-office-billing-practice-management-software/">Pain Management</a></li><li><a href="/products-solutions/medical-practice-specialty/pediatric-office-billing-practice-management-software/">Pediatric</a></li></ul></li></ul><ul></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li><li class="support-link"><a href="/support/"><span>Support</span></a><div class="dropdown skinny" id="support-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/support/log-a-support-case/">Support Corner</a></li><li><a href="/support/communities/">Communities</a></li><li><a href="/support/training/">Training</a></li><li><a href="/support/implementation/">Implementation</a></li><li><a href="/support/utilities-setup/">Utilities &amp; Setup</a></li><li><a href="/support/system-requirements/">System Requirements</a></li><li><a href="/support/workstation-test/">Workstation Test</a></li><li><a href="/support/integration-partners/">Integration Partners</a></li></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li><li class="resources-link"><a href="/resources/"><span>Resources</span></a><div class="dropdown skinny" id="resources-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/resources/free-medical-billing-software-demo/">Demos &amp; Videos</a></li><li><a href="/resources/medical-billing-software-case-study/">Success Stories</a></li><li><a href="/resources/white-papers/">White Papers</a></li><li><a href="/resources/webinars-podcasts/">Live Webinars</a></li><li><a href="/resources/recorded-webinars/">Recorded Webinars</a></li><li><a href="/resources/tools-calculators/">Tools &amp; Calculators</a><ul><li><a href="/resources/tools-calculators/roi-return-on-investment-medical-software/">ROI Calculator</a></li></ul></li></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li><li class="advancedbiller-link"><a href="/advancedbiller/"><span>AdvancedBiller</span></a><div class="dropdown skinny" id="advancedbiller-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/advancedbiller/product-benefits/">Product Benefits</a><ul><li><a href="/advancedbiller/product-benefits/front-office-features/">Front Office Features</a></li><li><a href="/advancedbiller/product-benefits/technology-benefits/">Technology Benefits</a></li></ul></li><li><a href="/advancedbiller/program-benefits/">Program Benefits</a></li><li><a href="/advancedbiller/startup-medical-billing-service/">Startup Biller</a></li><li><a href="/advancedbiller/biller-forum/">Biller Forum</a></li></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li><li class="company-link"><a href="/company/"><span>Company</span></a><div class="dropdown skinny" id="company-dropdown"><div class="bottom"><div class="background"><ul><li><a href="/company/contact/">Contact Us</a></li><li><a href="/company/careers/">Careers</a></li><li><a href="/company/news-events/">News &amp; Events</a><ul><li><a href="/company/news-events/events/">Events</a></li><li><a href="/company/news-events/press-releases/">Press Releases</a></li><li><a href="/company/news-events/articles/">Media Coverage</a></li><li><a href="/company/news-events/awards/">Awards</a></li></ul></li><li><a href="/company/media-resources/">Media Resources</a></li><li><a href="/company/professional-memberships/">Professional Memberships</a></li><li><a href="/company/leadership/">Leadership</a></li><li><a href="/company/terms-policies/">Terms &amp; Policies</a><ul><li><a href="/company/terms-policies/service-level-policy/">Service Level Policy</a></li><li><a href="/company/terms-policies/support-policy/">Support Policy</a></li><li><a href="/company/terms-policies/privacy-policy/">Privacy Policy</a></li><li><a href="/company/terms-policies/hipaa-compliance/">HIPAA Compliance</a></li></ul></li></ul><br class="clear"></div><br class="clear"></div><br class="clear"></div></li>	</ul>
 </div><!-- end #header -->				
-								<div id="breadcrumbs">
-					<a href="/">Home</a> &gt;
-<a href="/company/">Company</a> &gt; <a href="/company/terms-policies/">Terms &amp; Policies</a> &gt; Privacy Policy				</div>
-				<br class="clear">
-								
 				<div id="content-background">
 					  
 					<div id="sub-nav">
-						<h3><a href="/company/terms-policies/">Terms &amp; Policies</a></h3><ul><li><a href="/company/terms-policies/application-terms-of-service/">Application Terms of Service</a></li><li><a href="/company/terms-policies/service-level-policy/">Service Level Policy</a></li><li><a href="/company/terms-policies/support-policy/">Support Policy</a></li><li class="select"><a href="/company/terms-policies/privacy-policy/">Privacy Policy</a></li><li><a href="/company/terms-policies/hipaa-compliance/">HIPAA Compliance</a></li></ul>						<br class="clear">
-					</div>
+						<h3><a href="/company/terms-policies/">Terms &amp; Policies</a></h3><ul><li><a href="/company/terms-policies/service-level-policy/">Service Level Policy</a></li><li><a href="/company/terms-policies/support-policy/">Support Policy</a></li><li class="select"><a href="/company/terms-policies/privacy-policy/">Privacy Policy</a></li><li><a href="/company/terms-policies/hipaa-compliance/">HIPAA Compliance</a></li></ul>					</div>
 										<div id="content" class="no-widgets">
 						<h1>Privacy Policy</h1>  
 <p>
 <b>
-Amended as of May 25, 2011
+Amended as of November 30, 2011
 </b>
 </p>
 <p class="intro">
-AdvancedMD Software, Inc. respects the privacy of our website visitors and manages this website accordingly. During visits to the AdvancedMD Software website, the web servers only collect basic information such as referring-page, file requested, date/time and IP address.
-</p>
-<p>
-When a visitor to the AdvancedMD website requests further information, we will collect adequate information to complete that request. This may include collecting information such as name, address, telephone, fax, e-mail, and other information. We will not allow such collected information to be sold, traded or viewed by any third party. The only exceptions to this are when you give us your consent to share this information, when we need to share your information to provide a service that you have requested, or when we are required by law to disclose information. Please be advised that calls to and from ADP AdvancedMD may be monitored or recorded.
+AdvancedMD Software, Inc. respects the privacy of our website visitors and manages this website accordingly. During visits to the AdvancedMD Software website, the web servers only collect basic information such as referring-page, file requested, date/time and IP address.</p><p>When a visitor to the AdvancedMD website requests further information, we will collect adequate information to complete that request. This may include collecting information such as name, address, telephone, fax, e-mail, and other information.
+
+We will not allow such collected information to be sold, traded or viewed by any third party. The only exceptions to this are when you give us your consent to share this information, when we need to share your information to provide a service that you have requested, or when we are required by law to disclose information. </p><p>If you have completed a form providing your information, but prefer not to be contacted, please send an email to info (@) advancedmd.com
+ stating that you would like to be removed from our contact list. Please
+ include your name, email address and phone number with this request. Please be advised that calls to and from ADP AdvancedMD may be monitored or recorded.
 </p>
 <p>
 AdvancedMD is currently using and has contracted with Omniture, a third party, to track and analyze non-individually identifiable usage and volume statistical information from our visitors and customers to administer our website in order to constantly improve the website quality. All data collected by Omniture on behalf of AdvancedMD is owned and used by AdvancedMD. AdvancedMD reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers.
@@ -164,14 +174,23 @@ AdvancedMD Software, Inc. reserves the right to change this policy at any time w
 					<br class="clear">
 				</div>
 				<br class="clear">
+			
+								<div id="breadcrumbs">
+					<a href="/">Home</a> &gt;
+<a href="/company/">Company</a> &gt; <a href="/company/terms-policies/">Terms &amp; Policies</a> &gt; Privacy Policy				</div>
+							
 			</div>
 			<br class="clear">
 		</div>
 		<br class="clear">
 		<div id="footer">
 	<div class="social-media">
-		<a href="http://youtube.com/advancedmd/" target="_blank" title="Watch our YouTube channel" class="youtube">YouTube</a>
+		<span style="margin-right:4px;">Follow Us:</span>
+		<a href="http://www.twitter.com/advancedmd" target="_blank" title="Follow us on twitter" class="twitter">Twitter</a>
 		<a href="http://www.facebook.com/pages/AdvancedMD/118490988180563" target="_blank" title="Stay connected with our Facebook page" class="facebook">Facebook</a>
+		<div style="float:right; margin-right:4px;">
+			<g:plusone size="small" count="false" href="http://www.advancedmd.com/company/terms-policies/privacy-policy/"></g:plusone>
+		</div>
 	</div>
 	
 	<a href="">Home</a>
@@ -181,8 +200,10 @@ AdvancedMD Software, Inc. reserves the right to change this policy at any time w
 	<a href="/company/news-events/press-releases">Press Room</a>
 	|
 	<a href="/company/terms-policies/privacy-policy">Privacy Policy</a>
+<!--
 	|
 	<a href="/company/terms-policies">Terms of Use</a>
+-->
 	|
 	<a href="/company/careers">Careers</a>
 	|
@@ -347,23 +368,28 @@ var s_code=s.t();if(s_code)document.write(s_code)
 		if(window.attachEvent) { window.attachEvent('onload', async_load); }
 		else { window.addEventListener('load', async_load, false); }
 	})();
+	
+	/* Ad Roll */
+	adroll_adv_id = "3PRFDT6DTFBUZGCTRHEOGM";
+	adroll_pix_id = "Y7GX57Q34NAXRCCTPAK66W";
+	(function () {
+		var oldonload = window.onload;
+		window.onload = function(){
+			__adroll_loaded=true;
+			var scr = document.createElement("script");
+			var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+			scr.setAttribute('async', 'true');
+			scr.type = "text/javascript";
+			scr.src = host + "/j/roundtrip.js";
+			((document.getElementsByTagName('head') || [null])[0] ||document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+			if(oldonload){oldonload()}
+		};
+	}());
+
 </script>
 
-<!-- // GetClicky code	 -->
-<a title="Web Statistics" href="http://getclicky.com/66429056" style="visibility:hidden;"><img alt="Web Statistics" src="//static.getclicky.com/media/links/badge.gif" border="0"></a>
-<script type="text/javascript">
-var clicky_site_ids = clicky_site_ids || [];
-clicky_site_ids.push(66429056);
-(function() {
-  var s = document.createElement('script');
-  s.type = 'text/javascript';
-  s.async = true;
-  s.src = '//static.getclicky.com/js';
-  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-})();
-</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66429056ns.gif" /></p></noscript>
-<!-- // end GetClicky code -->
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=997&amp;ref2=elqNone&amp;tzo=0&amp;ms=328" border="0" width="1" height="1"></layer>
 
 		<br class="clear">
 			
