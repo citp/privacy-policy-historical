@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local03.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606232749id_/http%3A//local03.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local03.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205201940id_/http%3A//local03.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
