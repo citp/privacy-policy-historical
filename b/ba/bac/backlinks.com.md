@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinks.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119141338id_/http%3A//www.backlinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinks.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205110127id_/http%3A//www.backlinks.com/privacy.php) for the most accurate reproduction.*
 
 # BackLinks.com: Privacy Policy
 
