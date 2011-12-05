@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trex.com privacy policy that was archived on 2011-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607021131id_/http%3A//www.trex.com/privacy-policy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trex.com privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205231943id_/http%3A//www.trex.com/privacy-policy/index.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><script type="text/javascript">
    var _U = "undefined";
@@ -22,6 +22,9 @@
 
 	<script type="text/javascript" src="/trex/resources/wcm/sitestudio/wcm.toggle.js"></script>
 	<script type="text/javascript" src="/trex/resources/sitestudio/ssajax/ssajax.js"></script>
+
+<meta content="IE=EmulateIE8" http-equiv="X-UA-Compatible">
+      
 		
   	<script id="ssInfo" type="text/xml" warning="DO NOT MODIFY!">
   	<ssinfo >
@@ -38,7 +41,8 @@
       
     </ssinfo>
     </script>
-    <!-- SS_BEGIN_SNIPPET(fragment10,IE6Upgrade)--><!-- SS_END_SNIPPET(fragment10,IE6Upgrade)-->
+    <!-- SS_BEGIN_SNIPPET(fragment10,IE6Upgrade)-->
+			<!-- SS_END_SNIPPET(fragment10,IE6Upgrade)-->
     
     <!-- SS_BEGIN_SNIPPET(fragment6,head)-->	    
 	     
@@ -79,6 +83,7 @@
     <script type="text/javascript" src="/trex/fragments/trexcom/scripts/menu.js"></script>
     <script type="text/javascript" src="/trex/fragments/trexcom/scripts/flashtranslate.js"></script>
 	<script type="text/javascript" src="/trex/fragments/trexcom/scripts/navfunctions.js"></script>
+	<script type="text/javascript" src="/trex/fragments/trexcom/scripts/videoplayerwithdetection.js"></script>
 
 	<script type="text/javascript" src="/trex/fragments/trexcom/scripts/jquery.mousewheel.js"></script>
 	<script type="text/javascript" src="/trex/fragments/trexcom/scripts/jquery.colorbox-min.js"></script>
@@ -98,6 +103,37 @@
       function openPage(url,newwindow){
          window.open(url,(newwindow)?"_blank":"_self");
       }
+      
+      function chooseLanguage() {
+      		var exdate=new Date();
+			exdate.setDate(exdate.getDate() + 180);
+			var c_value="opened; expires="+exdate.toUTCString();
+			
+			document.cookie="COUNTRY_POPUP_OPENED=" + c_value;
+			
+			$.fn.colorbox({ href: "/intlbase/popup/CountrySelector/index.htm", scrolling: false, iframe: true, height:"574", width:"890" });
+			
+			
+			
+			
+		}
+		
+		function SetCountry(code,url,icon){
+	
+			var exdate=new Date();
+			exdate.setDate(exdate.getDate() + 180);
+			var c_value=escape(code) + ";path=/; expires="+exdate.toUTCString();
+			var i_value=escape(icon) + ";path=/; expires="+exdate.toUTCString();
+			var u_value=escape(url) + ";path=/; expires="+exdate.toUTCString();
+			
+			document.cookie="COUNTRY_CODE=" + c_value;
+			document.cookie="COUNTRY_ICON=" + i_value;
+			document.cookie="COUNTRY_URL=" + u_value;
+	
+			if(url.indexOf("http") == -1)window.location = "/"+url;
+			else window.location = url;
+	
+    	}
       
       function loadPDF(url) {
          $.fn.colorbox({ href: url, width: 1000, height: 700, scrolling: false, iframe: true });
@@ -122,11 +158,28 @@
       	  $.fn.colorbox({ iframe: true, href: "http://www.msinj.com/i3root/trexchatregister.html", width: 600, height: 603 });
 	  }
 	  
+	  function readCookie(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	}
+
+	  
       $(document).ready(function() {
           if ($.browser.msie && $.browser.version < 7) {
                     $(document).pngFix(); 
           }
+           if($("#languageTester").html())window.setInterval(testLanguage, 1000);
        });
+       
+       
+       
+       
         
         function closePopin() {
             $.fn.colorbox.close();
@@ -222,16 +275,99 @@
                 };
             })()
         });
+        
+        testVal = "test text for language change";
+
+				
+
+               
+
+                function testLanguage() {
+                    if ($("#languageTester").html() != testVal) {
+                        toSearch = $("#languageTester").html();
+                        end = toSearch.indexOf("</");
+                        start = toSearch.lastIndexOf(">", end);
+                        langString = "en";
+
+                        switch (toSearch.substring(start + 1, end)) {
+                            case "test text for language change":
+                                langString = "en";
+                                break;
+                            case "prueba de texto para cambiar el idioma":
+                                langString = "es";
+                                break;
+                            case "texte de test pour le changement de langue":
+                                langString = "fr";
+                                break;
+                            case "тест текст за промяна на езика":
+                                langString = "bg";
+                                break;
+                           case "测试文本语言变化":
+                               langString = "zh-CN";
+                                break;
+                                case "testovací text pro změnu jazyka":
+                                langString = "cs";
+                                break;
+                                case "test tekst voor de taal te wijzigen":
+                                langString = "nl";
+                                break;
+                                case "testi tekstin kielen muutoksen":
+                                langString = "fi";
+                                break;
+                                case "Test-Text für die Sprache zu ändern":
+                                langString = "de";
+                                break;
+                                case "κείμενο δοκιμής για αλλαγή γλώσσας":
+                                langString = "el";
+                                break;
+                                case "testo di prova per cambiare lingua":
+                                langString = "it";
+                                break;
+                                case "언어 변경 테스트 텍스트":
+                                langString = "ko";
+                                break;
+                                case "test tekst for språkendring":
+                                langString = "no";
+                                break;
+                                case "tekst testu na zmianę języka":
+                                langString = "pl";
+                                break;
+                                case "Textul de testare pentru a schimba limba":
+                                langString = "ro";
+                                break;
+                                case "testa text för språkförändring":
+                                langString = "sv";
+                                break;
+                                case "מבחן טקסט לשינוי שפה":
+                                langString = "iw";
+                                break;
+                                case "тестовый текст для смены языка":
+                                langString = "ru";
+                                break;
+                                case "texto de teste para alterar o idioma":
+                                langString = "pt";
+                                break;
+                        }
+
+                        setLanguage(langString);
+
+                    }
+
+                    testVal = $("#languageTester").html();
+                 }
     </script>
+    
+    
     
     <script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     
     <!-- SS_BEGIN_SNIPPET(fragment9,Redirect)-->			<!-- SS_END_SNIPPET(fragment9,Redirect)-->
-</head>
+<style type="text/css" media="screen">#workbookAltContent {visibility:hidden}</style></head>
 <body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class=" " style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=" "></div><div id="cboxLoadingGraphic" class=" "></div><div id="cboxTitle" class=" "></div><div id="cboxCurrent" class=" "></div><div id="cboxSlideshow" class=" "></div><div id="cboxNext" class=" "></div><div id="cboxPrevious" class=" "></div><div id="cboxClose" class=" "></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div>
     <!--<div id="header"></div>
     <div id="headerContent">-->
     <div id="header"></div>
+<div id="languageTester" style="display:none;">test text for language change</div>
 <div id="headerContent">
 	<div id="headerLeftColumn">&nbsp;</div>
 	
@@ -274,12 +410,13 @@
                                 		<a class="tier2Active ajaxablelink" href="/inspire/galleries/default.aspx">Galleries</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         			<div class="tier3Holder">
-                                		<div style="margin-top:15px;">
+                                		<div style="margin-top:10px;">
                                 				<!--Success to find an level exception-->
                                 				
                                 			<div class="tier3Column">
@@ -386,12 +523,13 @@
                                 		<a class="tier2Active ajaxablelink" href="/inspire/colors/index.htm">Colors</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         			<div class="tier3Holder">
-                                		<div style="margin-top:15px;">
+                                		<div style="margin-top:10px;">
                                 				<!--Success to find an level exception-->
                                 				
                                 			<div class="tier3Column">
@@ -465,12 +603,13 @@
                                 		<a class="tier2Active ajaxablelink" href="/inspire/ideas/index.htm">Idea Starters</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         			<div class="tier3Holder">
-                                		<div style="margin-top:15px;">
+                                		<div style="margin-top:10px;">
                                 				<!--Success to find an level exception-->
                                 				
                                 			<div class="tier3Column">
@@ -533,8 +672,10 @@
                                 		</div>
                                 	</div>
                         	</div>
-            			<div class="tier2Border"></div>
+            			<div class="tier2BorderRight"></div>
                     	<div class="clear"></div>
+                    	
+                    	
                     </div>
             </div>
 			<!--start-->
@@ -567,12 +708,13 @@
                                 		<a class="tier2Active ajaxablelink" href="/plan/why-trex/index.htm">Why Trex?</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         			<div class="tier3Holder">
-                                		<div style="margin-top:15px;">
+                                		<div style="margin-top:10px;">
                                 				<!--Success to find an level exception-->
                                 				
                                 			<div class="tier3Column">
@@ -678,12 +820,13 @@
                                 		<a class="tier2Active ajaxablelink" href="/plan/products/index.htm">Products</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         			<div class="tier3Holder">
-                                		<div style="margin-top:15px;">
+                                		<div style="margin-top:10px;">
                                 			<div class="tier3Column">
                                 			<!--if CURRENT_ROW != 0- ->
                                 				<div class="tier3Separator">
@@ -705,6 +848,21 @@
                                                             				</div>
                                                     						<div class="tier5Item">
                                                                 				<a class="ajaxablelink" href="/plan/products/decking/transcend/index.htm#/learn-more">Learn More</a>
+                                                            				</div>
+                                                			</div>
+                                        					<div class="tier4Item">
+                                                    			<div class="tier4ItemHeader">
+                                                        			<a class="ajaxablelink" href="/plan/products/decking/enhance/index.htm">Trex Enhance™</a>
+                                                    			</div>
+                                                    			
+                                                    						<div class="tier5Item">
+                                                                				<a class="ajaxablelink" href="/plan/products/decking/enhance/gallery/index.htm">Gallery</a>
+                                                            				</div>
+                                                    						<div class="tier5Item">
+                                                                				<a class="ajaxablelink" href="/plan/products/decking/enhance/colors/index.htm">Colors</a>
+                                                            				</div>
+                                                    						<div class="tier5Item">
+                                                                				<a class="ajaxablelink" href="/plan/products/decking/enhance/profiles/index.htm">Profiles</a>
                                                             				</div>
                                                 			</div>
                                         					<div class="tier4Item">
@@ -809,32 +967,17 @@
                                                                 				<a class="ajaxablelink" href="/plan/products/deckframingdrainage/trexelevations/videogallery/index.htm">Video Gallery</a>
                                                             				</div>
                                                     						<div class="tier5Item">
-                                                                				<a class="ajaxablelink" href="/plan/products/deckframingdrainage/trexelevations/resourcecenter/index.htm">Resource Center</a>
+                                                                				<a class="ajaxablelink" href="/plan/products/deckframingdrainage/trexelevations/resource-center/index.htm">Resource Center</a>
+                                                            				</div>
+                                                    						<div class="tier5Item">
+                                                                				<a class="ajaxablelink" href="http://s7d4.scene7.com/s7/brochure/flash_brochure.jsp?company=Trex&amp;sku=trex%5Felevations%5Finstallation%5Fguide%5Fenglish&amp;config=Trex/TrexBrandedViewer&amp;locale=en" target="_blank">Installation Instructions</a>
                                                             				</div>
                                                 			</div>
                                         					<div class="tier4Item">
                                                     			<div class="tier4ItemHeader">
-                                                        			<a class="ajaxablelink" href="/plan/products/deckframingdrainage/trex-rain-escape/index.htm">Trex® RainEscape® Deck Drainage System</a>
+                                                        			<a class="ajaxablelink" href="http://trexrainescape.com/">Trex® RainEscape® Deck Drainage System</a>
                                                     			</div>
                                                     			
-                                                    						<div class="tier5Item">
-                                                                				<a class="ajaxablelink" href="/plan/products/deckframingdrainage/trex-rain-escape/gallery/index.htm">Gallery</a>
-                                                            				</div>
-                                                    						<div class="tier5Item">
-                                                                				<a class="ajaxablelink" href="/plan/products/deckframingdrainage/trex-rain-escape/installation/index.htm">Installation Video</a>
-                                                            				</div>
-                                                    						<div class="tier5Item">
-                                                                				<a class="ajaxablelink" href="/groups/content/@mktg/documents/document/trexmd_002139.pdf " target="_blank">Installation in English</a>
-                                                            				</div>
-                                                    						<div class="tier5Item">
-                                                                				<a class="ajaxablelink" href="/groups/content/@mktg/documents/document/trex_001596.pdf " target="_blank">Installation in Spanish</a>
-                                                            				</div>
-                                                    						<div class="tier5Item">
-                                                                				<a class="ajaxablelink" href="/plan/products/deckframingdrainage/trex-rain-escape/warranty/index.htm">Warranty</a>
-                                                            				</div>
-                                                    						<div class="tier5Item">
-                                                                				<a class="ajaxablelink" href="/plan/products/deckframingdrainage/trex-rain-escape/faq/index.htm">FAQ</a>
-                                                            				</div>
                                                 			</div>
                                         	</div>
                                 			<div class="tier3Column">
@@ -902,6 +1045,18 @@
                                                                 				<a class="ajaxablelink" href="http://www.trexfurniture.com/">Shop for Furniture Online Now</a>
                                                             				</div>
                                                 			</div>
+                                        					<div class="tier4Item">
+                                                    			<div class="tier4ItemHeader">
+                                                        			<a class="ajaxablelink" href="/plan/products/outdoordecorandfurnishings/Pergola/index.htm">Trex® Pergola™</a>
+                                                    			</div>
+                                                    			
+                                                			</div>
+                                        					<div class="tier4Item">
+                                                    			<div class="tier4ItemHeader">
+                                                        			<a class="ajaxablelink" href="http://Trexfencing.com">Trex Fencing</a>
+                                                    			</div>
+                                                    			
+                                                			</div>
                                         	</div>
                                 		<div class="clear"></div>
                                 		</div>
@@ -924,12 +1079,13 @@
                                 		<a class="tier2Active ajaxablelink" href="/plan/design/index.htm">Design</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         			<div class="tier3Holder">
-                                		<div style="margin-top:15px;">
+                                		<div style="margin-top:10px;">
                                 			<div class="tier3Column">
                                 			<!--if CURRENT_ROW != 0- ->
                                 				<div class="tier3Separator">
@@ -1036,7 +1192,7 @@
                                                     			</div>
                                                     			
                                                     						<div class="tier5Item">
-                                                                				<a class="ajaxablelink" href="http://www.designworkscompany.com" target="_blank">Deckworks™ Design Software</a>
+                                                                				<a class="ajaxablelink" href="http://www.designworkscompany.com" target="_blank">Deckworks® Design Software</a>
                                                             				</div>
                                                 			</div>
                                         	</div>
@@ -1089,6 +1245,17 @@
                                                     			</div>
                                                     			
                                                     						<div class="tier5Item">
+                                                                				<a class="ajaxablelink" href="/plan/design/specs/seclusions-fencing/index.htm">Seclusions Fencing</a>
+                                                            				</div>
+                                                			</div>
+                                								<!--Success to find an level exception-->
+                                								
+                                        					<div class="tier4Item">
+                                                    			<div class="tier4ItemHeader">
+                                                        			<a class="ajaxablelink" href=""></a>
+                                                    			</div>
+                                                    			
+                                                    						<div class="tier5Item">
                                                                 				<a class="ajaxablelink" href="/plan/design/specs/trim/index.htm">Trim</a>
                                                             				</div>
                                                 			</div>
@@ -1119,8 +1286,10 @@
                                 		</div>
                                 	</div>
                         	</div>
-            			<div class="tier2Border"></div>
+            			<div class="tier2BorderRight"></div>
                     	<div class="clear"></div>
+                    	
+                    	
                     </div>
             </div>
 			<!--start-->
@@ -1153,8 +1322,9 @@
                                 		<a class="tier2Active ajaxablelink" href="/build/do-it-yourself/index.htm">Do It Yourself</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         	</div>
@@ -1175,8 +1345,9 @@
                                 		<a class="tier2Active ajaxablelink" href="/build/installation-guides/index.htm">Installation Guides</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         	</div>
@@ -1197,12 +1368,13 @@
                                 		<a class="tier2Active ajaxablelink" href="/build/hiring-a-contractor/index.htm">Hiring a Contractor</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         			<div class="tier3Holder">
-                                		<div style="margin-top:15px;">
+                                		<div style="margin-top:10px;">
                                 				<!--Success to find an level exception-->
                                 				
                                 			<div class="tier3Column">
@@ -1290,13 +1462,16 @@
                                 		<a class="tier2Active ajaxablelink" href="/build/where-to-buy/index.htm">Where to Buy</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         	</div>
-            			<div class="tier2Border"></div>
+            			<div class="tier2BorderRight"></div>
                     	<div class="clear"></div>
+                    	
+                    	
                     </div>
             </div>
 			<!--start-->
@@ -1329,8 +1504,9 @@
                                 		<a class="tier2Active ajaxablelink" href="/own/care/index.htm">Care &amp; Cleaning Guide</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         	</div>
@@ -1351,8 +1527,9 @@
                                 		<a class="tier2Active ajaxablelink" href="/own/natural-weathering/index.htm">Natural Weathering</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         	</div>
@@ -1373,12 +1550,13 @@
                                 		<a class="tier2Active ajaxablelink" href="/own/warranty/index.htm">Warranty</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         			<div class="tier3Holder">
-                                		<div style="margin-top:15px;">
+                                		<div style="margin-top:10px;">
                                 				<!--Success to find an level exception-->
                                 				
                                 			<div class="tier3Column">
@@ -1444,13 +1622,16 @@
                                 		<a class="tier2Active ajaxablelink" href="/own/faqs/index.htm">FAQs</a>
                             		</div>
                         		</div>
-                        		<div class="tier2ItemBottom">
-                        		</div>
+                        		
+            						<div class="tier2ItemBottom">
+                        			</div>
                         	<!-- third teir here -->
                         		
                         	</div>
-            			<div class="tier2Border"></div>
+            			<div class="tier2BorderRight"></div>
                     	<div class="clear"></div>
+                    	
+                    	
                     </div>
             </div>
 			
@@ -1470,14 +1651,14 @@
 	
           	<div id="topSearchMain">
             	<div id="topSearchLabel">
-              	Find Trex Near You
-            	</div>
-            	<div id="topSearchInput">
-              	<input id="dealerSearch" class="textBox">
-            	</div>
-            	<div id="topSearchButton">
-              	<a target="" href="javascript:findDealer();">Find&nbsp;<img alt="Triangle On Transparent" src="http://www.trex.com/trex/groups/content/documents/image/trexd_000088.gif"></a>
-
+              	<a href="/build/where-to-buy/index.htm">Find Trex Near You<img style="padding-left:5px; padding-right:5px;" alt="Triangle On Transparent" src="http://www.trex.com/trex/groups/content/documents/image/trexd_000088.gif"></a>
+            	</div>	
+			<div class="clear"></div>
+          	</div>
+          	<div id="topSearchDivider"></div>
+          	<div id="topSearchMain">
+            	<div id="topSearchLabel" style="padding-left:10px">
+              	<a href="/build/hiring-a-contractor/contractor-search/index.htm">Find a Contractor<img style="padding-left:5px;" alt="Triangle On Transparent" src="http://www.trex.com/trex/groups/content/documents/image/trexd_000088.gif"></a>
             	</div>	
 			<div class="clear"></div>
           	</div>
@@ -1490,28 +1671,57 @@
 		<a href="/about/index.htm">News &amp; Events </a>
 			|
 		<a href="/request-information/index.htm">Request Information </a>
-			|
-		<a href="/contractor-search/index.htm">Find A Contractor </a>
 </div>
 				
 			
         	</div>
       	</div>
 		</div>
-	</div>
+	</div>    
+	<script type="text/javascript" language="javascript">
+		var thenotifications='<?xml version="1.0" encoding="utf-8" ?><notifications>';
+		
+		thenotifications+='<notification header="" subHeader="" url="" timestamp="06/17/2011" archived="false">'
+		thenotifications+='<![CDATA[We have some new additions to the Trex Outdoor Furniture&trade; line!&nbsp; To pair with our new Trex Transcend<sup>&reg;</sup> Porch Flooring &amp; Railing system, we now offer rocking chairs and a porch swing in the Yacht Club collection!&nbsp; Retractable umbrellas (in matching Sunbrella fabrics) are also now available to help make your outdoor living space that much more comfortable!&nbsp; To see photos and order yours today, visit <a target="_blank" href="http://trexfurniture.com">trexfurniture.com</a>! &nbsp;]]>';
+		thenotifications+='<\/notification>';
+		thenotifications+='<notification header="" subHeader="" url="" timestamp="06/16/2011" archived="false">'
+		thenotifications+='<![CDATA[We&#39;re proud to introduce Trex Transcend<sup>&reg;</sup> Decking in Rope Swing!&nbsp; This new, light taupe color is perfect for seaside homes or sunny inland spaces and is designed to pair with both light and dark railing.&nbsp; See a swatch of this new hue in our <a target="" href="/inspire/colors/trex-colors/decking/index.htm">Colors gallery</a>.]]>';
+		thenotifications+='<\/notification>';
+		thenotifications+='<notification header="" subHeader="" url="" timestamp="06/01/2011" archived="false">'
+		thenotifications+='<![CDATA[Low maintenance outdoor living begins with a solid foundation.&nbsp; Trex Elevations&trade; helps you get it right the first time!&nbsp; This steel deck framing system is made of high-performance, low-maintenance, dual-coated galvanized steel that won&#39;t sag, rot, warp or leave you hanging like traditional pressure-treated wood substructures.&nbsp; Which allows you to enjoy your deck for decades to come.&nbsp; Learn more by visiting our <a target="" href="/plan/products/deckframingdrainage/trexelevations/index.htm">Elevations</a> section.]]>';
+		thenotifications+='<\/notification>';
+		
+		thenotifications+='<\/notifications>';
+		function getNotifications() {
+    		return thenotifications;
+		}
+		var workbookBase=''
+	</script>
+	
+	<script type="text/javascript" language="javascript" src="/handlers/PageTracking.ashx?p=/privacy-policy/index.htm"></script>
+	
+				    <div id="workbookContainer">
+        <div id="workbookWrapper" style="overflow: hidden; display:block;">
+            <div id="workbookAltContent" style="visibility: visible;">
+		    </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="/trex/fragments/frag_trex_workbook/scripts/workbook.js"></script>
+    <link rel="stylesheet" type="text/css" href="/trex/fragments/frag_trex_workbook/css/workbook.css">
+			
     <!--</div>-->
     <div id="tier2"></div>
     <div id="tier3"></div>
     <div id="container">
         <div id="content">
             <div id="contentLeftColumn"></div>
-            
             <div id="contentCenterColumn">
                 <div id="pagecontent" class="ajaxablecontent">
         <div id="primLeftImg" class="ajaxablecontent" style="background-repeat: no-repeat; background-position: left top; background-image: url(); height: 530px;">
             <div id="contentContainer">
                 <div id="breadcrumbs" class="breadCrumbsWrapper">			
 
+<div id="workbookspacer" style="width:100%; height:10px;"></div>
 
 	<span class="ajaxablelink" style="color:#000000;font-weight:bold;"><a href="/privacy-policy/index.htm" class="ajaxablelink" style="color:#000000;font-weight:bold;">Privacy Policy</a></span>
 	<span style="color:#000000;font-weight:bold;">»</span>
@@ -1558,7 +1768,7 @@
 			<img src="/trex/fragments/images/hDotsfull.gif">
 		<a href="/warranty-claims/index.htm">Warranty Claims</a>
 			<img src="/trex/fragments/images/hDotsfull.gif">
-		<a href="http://trexpromostore.wfobrand.com/" target="_blank">Trex Apparel</a>
+		<a href="http://www.trexcompanystore.com" target="_blank">Trex Apparel</a>
 
 				
 			
@@ -1584,21 +1794,34 @@
         
             var el = new google.translate.TranslateElement({
                 pageLanguage: 'en',
-                includedLanguages: 'en,fr,de,es,bg,zh-CN,cs,nl,el,fi,it,ko,no,pl,ro,sv'
+                includedLanguages: 'en,fr,de,es,bg,zh-CN,cs,iw,nl,el,fi,it,ko,no,pl,pt,ro,ru,sv'
             }, 'google_translate_element');
 			flashTranslateHookin(el);
+			
 
         });
         
     </script>
 
     <div id="footerOther">
-    	<div style="margin-top:11px; vertical-align: middle;">
-    		<div style="float:left; padding-top: 8px;">
-        		<img src="/trex/groups/content/@mktg/documents/image/trex_002011.jpg">
-        	</div>
-    	</div>
-        <div id="partnerLinks">
+        <div id="partnerLinks"><div id="chooseLanguage" style="float:left; padding-top: 8px;padding-right:0px;">
+    		<div id="chooseLanguageLeft">
+    		</div>
+    		<div id="chooseLanguageMain">
+        		<div id="chooseLanguageButton">
+        			
+            		<a href="javascript:chooseLanguage();" target="">
+          				<img id="CountryFlag" src="/trex/groups/content/documents/image/trexmd_002373.jpg" style="vertical-align:middle;padding-right:3px;">
+            		Choose Your Country&nbsp;&nbsp;&nbsp;<img src="http://www.trex.com/trex/groups/content/documents/image/trexd_000088.gif" alt="Triangle On Transparent"></a>
+        		</div>
+        		<div class="clear">
+        		</div>
+    		</div>
+    		<div id="chooseLanguageRight">
+    		</div>
+		</div>
+		<div class="verticalSeperator" style="height:50px; width: 20px; margin:0;">
+            </div>
             <div style="float:left; padding-top: 8px;">                        
             
 				    <a target="_blank" href="http://www.facebook.com/pages/Trex-Company/217185870553"><img alt="Facebook Icon" src="/trex/groups/content/@mktg/documents/image/trexd_000082.jpg"></a>
