@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloglines.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023843id_/http%3A//www.bloglines.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloglines.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205173901id_/http%3A//www.bloglines.com/about/privacy/index.html) for the most accurate reproduction.*
 
 # Bloglines | Privacy Policy
 
@@ -56,4 +56,4 @@ As a business service, MerchantCircle does not target its offerings toward, and 
 
 ## Communication Preferences
 
-As part of the MerchantCircle Service, you may receive email and/or telephone communications from time-to-time. These communications may include, but are not limited to, system-generated emails about your account, third party offers and marketing messages. To stop receiving marketing emails from MerchantCircle, visit [www.merchantcircle.com/optout.](https://web.archive.org/web/20110623023843id_/http://www.bloglines.com/about/privacy/www.merchantcircle.com/optout) Some service-related communications are not subject to opt-out. Review our Terms of Service for more information at [www.merchantcircle.com/corporate/tos.html.](https://web.archive.org/web/20110623023843id_/http://www.bloglines.com/about/privacy/www.merchantcircle.com/corporate/tos.html) Effective date: 8/31/05 
+As part of the MerchantCircle Service, you may receive email and/or telephone communications from time-to-time. These communications may include, but are not limited to, system-generated emails about your account, third party offers and marketing messages. To stop receiving marketing emails from MerchantCircle, visit [www.merchantcircle.com/optout.](https://web.archive.org/web/20111205173901id_/http%3A//www.bloglines.com/about/privacy/www.merchantcircle.com/optout) Some service-related communications are not subject to opt-out. Review our Terms of Service for more information at [www.merchantcircle.com/corporate/tos.html.](https://web.archive.org/web/20111205173901id_/http%3A//www.bloglines.com/about/privacy/www.merchantcircle.com/corporate/tos.html) Effective date: 8/31/05 
