@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreecopyright.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514203934id_/http%3A//myfreecopyright.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreecopyright.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205235053id_/http%3A//myfreecopyright.com/privacy_policy) for the most accurate reproduction.*
 
 # MyFreeCopyright.com: FREE Copyright Protection
 
