@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230041539id_/http%3A//www.scottishpower.co.uk/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottishpower.co.uk privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205030749id_/http%3A//www.scottishpower.co.uk/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ Whenever we do ask you to provide personal details – and the reason isn’t ob
 
 **How we use it**
 
-Your data is used primarily to supply you with the products and/or services you’ve asked for. [A fuller explanation is provided in Clause 19 of our standard terms and conditions](http://www.scottishpower.co.uk/mediaassets/doc/tandc.pdf#page=8). By knowing a little bit about you, we can provide you with more relevant information and so a better service. We therefore research and analyse the information customers provide and how they move around the site on an aggregate basis. 
+Your data is used primarily to supply you with the products and/or services you’ve asked for. [A fuller explanation is provided in Clause 19 of our standard terms and conditions](https://web.archive.org/PDF/SPGenTandCv1.pdf). By knowing a little bit about you, we can provide you with more relevant information and so a better service. We therefore research and analyse the information customers provide and how they move around the site on an aggregate basis. 
 
 Based on what we know about you, we and other carefully selected organisations may send you details of offers you may be interested in – unless you have specifically asked us not to. You will have told us one way or the other when you first applied to ScottishPower. 
 
@@ -63,6 +63,8 @@ To speed things along, it’s helpful if you can tell us exactly what you requir
 To request personal information, please email dataprotection@scottishpower.com or write to: The Data Protection team, ScottishPower, Section 5, Cathcart Business Park, Spean Street, Glasgow G44 4BE.
 
 You also have the right to ask us to delete or correct any information we hold about you that’s wrong. Even if we don’t accept that it’s inaccurate, we must still make a note of the fact that you’ve disputed certain information.
+
+To request your consumption history for the previous 12 months, to which you are entitled, free of charge, under Ofgem Licence Conditions, please email consumptiondata@scottishpower.com or access your on line account. Your bills will detail all the actual meter readings you have submitted. Alternatively by registering to manage your account online at www.scottishpower.co.uk you will gain access to meter readings as well as other information about your account.
 
 ## Links
 
