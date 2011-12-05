@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the generalpants.com.au privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220031400id_/http%3A//www.generalpants.com.au/Privacy--Legals.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalpants.com.au privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205214610id_/http%3A//www.generalpants.com.au/Privacy--Legals.html) for the most accurate reproduction.*
 
-# Privacy & Legals - General Pants Co.
+# Personal Information & Privacy on this Website - General Pants Co.
 
-  *   *   * 
+Skip to Navigation Skip to Content
+
+  * [](http://www.generalpants.com.au/store/wishlist.html)
+
+  *   * 
 
 
 ##### Disclaimer 
