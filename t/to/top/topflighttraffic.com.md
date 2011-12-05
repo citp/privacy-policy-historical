@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topflighttraffic.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107014901id_/http%3A//www.topflighttraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topflighttraffic.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205063151id_/http%3A//www.topflighttraffic.com/privacy.php) for the most accurate reproduction.*
 
 # TopFlightTraffic.com
 
@@ -12,7 +12,7 @@ TopFlightTraffic may require the use of cookies to store login session informati
 
 TopFlightTraffic merely serves as a directory of other websites and is therefore not responsible for the privacy practices and/or content of those websites. 
 
-Financial information is used solely to bill the user for products and/or services. All personal, credit card, and bank account information is transferred by separate institution (i.e. PayPal.com, AlertPay or SafePay) over secure SSL encrypted Internet connections and is not stored on TopFlightTraffic servers.
+Financial information is used solely to bill the user for products and/or services. All personal, credit card, and bank account information is transferred by separate institution i.e. PayPal.com, AlertPay or SafePay over secure SSL encrypted Internet connections and is not stored on TopFlightTraffic servers.
 
   
 
