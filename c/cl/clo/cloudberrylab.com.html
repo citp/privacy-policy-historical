@@ -1,440 +1,59 @@
-<!--The following is the downloaded HTML source of the cloudberrylab.com privacy policy that was archived on 2011-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110502160250id_/http%3A//www.cloudberrylab.com/default.aspx%3Fpage%3Dprivacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cloudberrylab.com privacy policy that was archived on 2011-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111205220425id_/http%3A//www.cloudberrylab.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <title>CloudBerry Lab</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-    <meta http-equiv="pragma" content="no-cache">
-    <meta content="Cloud, Software, Cloud Computing, Amazon S3, S3, AWS, EC2, SQS, S3 Client, S3 Explorer, S3 Browser, CloudFront, Azure, Blob Storage, Microsfot SDS, Table Storage, SimpleDB" name="KEYWORDS">
-    <meta content="CloudBerry Explorer - your easy way to manage Amazon S3" name="description">
-    <link href="main.css" type="text/css" rel="stylesheet">     
-    <script type="text/javascript" src="flowplayer/flowplayer-3.0.3.min.js"></script>    
-    <link rel="SHORTCUT ICON" href="images/mainicon.ico">
-    <style type="text/css">
-
-#container {
-     position:relative;
-     width:806px;
-     height:185px;
-     overflow:hidden;               
- }
-#div1 {
-     position:absolute;     
-     left:0px;
-     top:0px;
-     width:806px;
-     height:185px;
- }
-#div2 {
-     position:absolute;     
-     left:806px;    
-     top:0px;
-     width:806px;
-     height:185px;
- }
- 
- #div3 {
-     position:absolute;     
-     left:806px;
-     top:0px;
-     width:806px;
-     height:185px;
- }
- 
-</style>
-
-
-<script type="text/javascript">
-
-  
-  var divNum = 3;
-  
-  function setZIndex(id){
-
-      var div = document.getElementById('div' + id);
-      if (div != null) {
-          div.style.zIndex = divNum;
-
-          for (var i = 1; i < id; i++) {
-              var div = document.getElementById('div' + i);
-              div.style.zIndex = divNum - id + i;
-          }
-
-          for (var i = id + 1; i <= divNum; i++) {
-              var div = document.getElementById('div' + i);
-              div.style.zIndex = i - id;
-          }
-      }
-    
-  }
-  
-function showDiv(id){
-    setZIndex(id);
-    
-    var div = document.getElementById('div' + id)    
-    if(div!=null){                
-        posDiv(id, 806);
         
-        var previd
-        if(id==1) previd = divNum;
-        else previd = id -1;
-        
-        var divprev = document.getElementById('div' + previd);
-                
-        
-    }
-        
-    if(id==divNum) id=1;    
-    else id++;
- 
-    var code = 'showDiv(' + id + ')';
-       
-    
-    setTimeout(code,9000);
-}
-
-function posDiv(id, pos){    
-    var div = document.getElementById('div' + id)
-    
-    if(div!=null){         
-        
-        if(pos<3) return;
-        
-        pos -= 5;
-        
-        div.style.left = pos + 'px';
-        var code = 'posDiv(' + id + ', ' + pos + ')';
-        
-        setTimeout(code,2);        
-        
-    }
-    
-  }
-  
-  
-
- 
-window.onload=function() {
-   showDiv('2');
- }
-</script>
-    
-    <script language="JavaScript">
-
-        cm=null;
-        hide_delay=500;
-        tstat=0;
-
-        isNS4 = (document.layers) ? true : false;
-        isIE4 = (document.all && !document.getElementById) ? true : false;
-        isIE5 = (document.all && document.getElementById) ? true : false;
-        isNS6 = (!document.all && document.getElementById) ? true : false;
-
-
-        function switchDiv(objElement,bolVisible){
-        if(isNS4||isIE4){
-             if(!bolVisible) {
-               objElement.visibility ="hidden"
-             } else {
-               objElement.visibility ="visible"
-             }     
-         } else if (isIE5 || isNS6) {
-              if(!bolVisible){
-                 objElement.style.display = "none";
-                 
-              } else {
-                objElement.style.display = "";
-                
-                }
-
-              }
-
-        return 1;
-        }
-
-        function getPos(el,sProp) {
-	        var iPos = 0;
-	        while (el!=null) {
-		        iPos+=el["offset" + sProp]
-		        el = el.offsetParent
-	        }
-	        return iPos
-
-        }
-
-
-
-
-        function getelementbyid(myid) {
-           if (isNS4){
-                objElement = document.layers[myid];
-             }else if (isIE4) {
-                objElement = document.all[myid];
-             }else if (isIE5 || isNS6) {
-                     objElement = document.getElementById(myid);
-             }
-        return(objElement);
-        }
-
-
-
-        function show(el,m) {
-
-            //alert(m);
-
-         if (cm!=null) {
-         switchDiv(cm,false);
-         }
-
-
-
-         if (m!=null) {
-         m=getelementbyid(m);
-         m.style.left = getPos(el,"Left")+"px";
-         m.style.top =  getPos(el,"Top")+el.offsetHeight+"px";
-         switchDiv(m,true);
-         cm=m;
-         }
-
-        }
-
-
-        function hidemenu() {
-        timer1=setTimeout("show(null,null)",hide_delay);
-
-        tstat=1;
-
-        return 1;
-        }
-        
-        function cancelhide() {
-         if (tstat==1) {
-         clearTimeout(timer1);
-         tstat=0;
-         }
-        return 1;
-        }
+        <title>CloudBerry Lab Privacy Policy</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+        <meta http-equiv="pragma" content="no-cache">
+        <meta content="Cloud, Software, Cloud Computing, Amazon S3, S3, AWS, EC2, SQS, S3 Client, S3 Explorer, S3 Browser, CloudFront, Azure, Blob Storage, Microsfot SDS, Table Storage, SimpleDB" name="KEYWORDS">
+        <meta content="What we do with personal information, cookies and links" name="description">
+        <link href="main.css" type="text/css" rel="stylesheet">
+        <link rel="SHORTCUT ICON" href="images/mainicon.ico">
+        <script src="topmenu.js" type="text/javascript"></script>
         
        
-</script>
-        
-<script type="text/javascript" src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>   
 
-  
-      
-  
-
+    </head>
 <body>
-
-
-
-
-    <div id="submenu_1" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
-  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
-  </table>
-</div>
-<div id="submenu_19" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
-  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
-  </table>
-</div>
-<div id="submenu_16" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
-  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
-    <tbody><tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Lab History" class="submenu" href="&#13;&#10;              default.aspx?page=history">History</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="Press Coverage" class="submenu" href="&#13;&#10;              default.aspx?page=media-coverage">Media Coverage</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="Privacy Policy" class="submenu" href="&#13;&#10;              default.aspx?page=privacy-policy">
-          <b>Privacy Policy</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="Customer Testimonials" class="submenu" href="&#13;&#10;              default.aspx?page=testimonials">Customer Testimonials</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CUSTOM SOFTWARE DEVELOPMENT SERVICES" class="submenu" href="&#13;&#10;              default.aspx?page=consulting">Services</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="Welcome to the CloudBerry Lab Partner Program!" class="submenu" href="&#13;&#10;              default.aspx?page=partners">Reseller Partners</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="Free Offers!" class="submenu" href="&#13;&#10;              default.aspx?page=freeoffers">Free Offers</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Lab Press Center" class="submenu" href="&#13;&#10;              default.aspx?page=presscenter">Press Center</a>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="submenu_2" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
-  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
-    <tbody><tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Explorer makes managing files in Amazon S3 storage EASY. By providing a user interface to Amazon S3 accounts, files, and buckets, CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="submenu" href="&#13;&#10;              default.aspx?page=cloudberry-explorer-amazon-s3">S3 Explorer FREEWARE</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="<b>CloudBerry Explorer PRO </b> offers some <b>advanced</b> features over Freeware version. It makes managing files Amazon S3 in even <b>EASIER</b>, more <b>secure</b> and cost efficient." class="submenu" href="&#13;&#10;              default.aspx?page=s3-explorer-pro">S3 Explorer PRO</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="<b>CloudBerry Explorer for Azure Blob Storage.</b> CloudBerry Explorer makes managing files in Microsoft Azure Blob Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="submenu" href="&#13;&#10;              default.aspx?page=explorer-azure">Explorer for Azure</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="<b>CloudBerry Explorer for Azure Blob Storage PRO.</b> CloudBerry Explorer makes managing files in Microsoft Azure Blob Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="submenu" href="&#13;&#10;              default.aspx?page=explorer-azure-pro">Explorer for Azure PRO</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="<b>CloudBerry Explorer for Google  Storage.</b> CloudBerry Explorer makes managing files in Google Storage Service EASY. By providing a user interface to Google Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="submenu" href="&#13;&#10;              default.aspx?page=explorer-gs">Explorer for Google</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="<b>CloudBerry Explorer for Google PRO.</b> CloudBerry Explorer makes managing files in Google Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="submenu" href="&#13;&#10;              default.aspx?page=explorer-gs-pro">Explorer for Google PRO</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="<b>CloudBerry Explorer for Nirvanix Storage BETA.</b> CloudBerry Explorer makes managing files in Nirvanix Storage Service EASY. By providing a user interface to Nirvanix Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="submenu" href="&#13;&#10;              default.aspx?page=explorer-nx">Explorer for Nirvanix</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Explorer makes managing files in <b>Windows Mobile</b> EASY. By providing a user interface to Amazone S3 Service accounts, files, buckets and volumes, CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="submenu" href="&#13;&#10;              default.aspx?page=explorer-mobile">S3 Explorer Mobile</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="submenu" href="&#13;&#10;              default.aspx?page=backup-server">Online Backup Server</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="submenu" href="&#13;&#10;              default.aspx?page=cloudberry-backup">Online Backup Desktop</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Backup provides a powerful Backup and Restore program for Windows Home Server designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="submenu" href="&#13;&#10;              default.aspx?page=backup-whs">Online Backup for WHS v1</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Backup provides a powerful Backup and Restore program for Windows Home Server 2011 designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="submenu" href="&#13;&#10;              default.aspx?page=backup-vail">Online Backup for WHS 2011</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Backup provides a powerful Backup and Restore program for Small Business Server 2011 Essentials (code name Aurora) designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="submenu" href="&#13;&#10;              default.aspx?page=backup-aurora">Online Backup for SBS 2011 Essentials </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="submenu" href="&#13;&#10;              default.aspx?page=backup-az">Online Backup for Azure</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="Managed Backup Service" class="submenu" href="&#13;&#10;              default.aspx?page=mbs">Managed Backup Service</a>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="submenu_58" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
-  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
-  </table>
-</div>
-<div id="submenu_59" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
-  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
-  </table>
-</div>
-<div id="submenu_66" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
-  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
-  </table>
-</div>
-<div id="submenu_15" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
-  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
-    <tbody><tr>
-      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
-        <a title="CloudBerry Lab Forum" href="forum/default.aspx" class="submenu">Forum</a>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="submenu_3" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
-  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
-  </table>
-</div>
-    <form name="aspnetForm" method="post" action="default.aspx?page=privacy-policy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcyNjc2NDAyOA9kFgJmD2QWBAIDD2QWAgIBDw8WAh4HVmlzaWJsZWhkZAIHD2QWCAIDD2QWAmYPDxYCHwBoZGQCBQ9kFgICAQ8PFgIeBFRleHQFbzxhIGNsYXNzPSdzdWJtZW51JyBocmVmPSdkZWZhdWx0LmFzcHg/aWQ9MSc+SG9tZTwvYT4gPiA8YSBjbGFzcz0nc3VibWVudScgaHJlZj0nZGVmYXVsdC5hc3B4P2lkPTE2Jz5Db21wYW55PC9hPmRkAgcPDxYCHwEFDlByaXZhY3kgUG9saWN5ZGQCCw9kFgICAQ8WAh8AZ2RkA7H3AypzfUQTYozCKznoDizSTH4=">
-
-    
-    
-    <div>
-        <table id="Table_001" width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-	            <td height="196" class="pipi" bgcolor="#72757B" background="images/fon1.gif"></td>
-	            <td valign="top" width="805" rowspan="2" bgcolor="#FFFFFF">
-                    <div id="ctl00_pagebunner1_pnlSimple">
+     
+    <!-- MAIN TABLE BEGINS HERE -->
+    <table id="Table_001" width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+	        <td height="196" class="pipi" bgcolor="#72757B" background="images/ext/fon1px.gif"></td>
+	        <td valign="top" width="1154" rowspan="2" bgcolor="#FFFFFF">
+                <div id="ctl00_ctl00_ctl00_pagebunner1_pnlSimple">
 	
-    </div><table id="Table_01" width="805" border="0" cellpadding="0" cellspacing="0">
-                        <tbody><tr>
-	                        <td bgcolor="#2B2D38">
-		                        <a href="default.aspx?id=1" title="CloudBerry Lab"><img border="0" src="http://images.cloudberrylab.com/Content_01.gif" width="209" height="54" alt="CloudBerry Lab"></a></td>
-	                        <td width="489" height="54" bgcolor="#2B2D38" background="images/fon4.gif">
-		                        <img src="images/spacer.gif" width="489" height="54" alt=""></td>
-		                    <td width="107" height="54" bgcolor="#2B2D38" background="images/fon4.gif">
-		                    <img alt="Powered by Amazon Web Services" border="0" src="http://images.cloudberrylab.com/powered_by.gif" width="107" height="54"></td>
-                        </tr>
-                        <tr>
-                            <td width="805" height="23" colspan="3" bgcolor="#2B2D38" align="right">
-                                <table cellspacing="0" cellpadding="0" border="0" onmouseout="hidemenu()" onmouseover="cancelhide()">
+    </div><table width="1154" height="100%" border="0" cellpadding="0" cellspacing="0">
+	                <tbody><tr>
+		                <td width="1154" height="6" colspan="7" bgcolor="#000000">
+			                <img src="images/ext/spacer.gif" width="1154" height="6" alt=""></td>
+	                </tr>
+	                <tr>
+		                <td rowspan="3" valign="top" bgcolor="#72757B">
+			                <img src="images/ext/page_02.jpg" width="48" height="173" alt=""></td>
+		                <td rowspan="3" valign="top" bgcolor="#72757B">
+			                <img src="images/ext/page_03.jpg" width="50" height="173" alt=""></td>
+		                <td rowspan="2">
+			                <a href="." title="CloudBerry Lab"><img border="0" src="images/ext/page_04.jpg" width="199" height="81" alt=""></a></td>
+		                <td width="749" height="52" bgcolor="#2C2E38">
+			                <img src="images/ext/spacer.gif" width="642" height="52" alt=""></td>
+                            <td><img src="images/powered_by.gif" width="107" height="52" alt=""></td>
+		                <td rowspan="3" valign="top" bgcolor="#72757B">
+			                <img src="images/ext/page_06.jpg" width="47" height="173" alt=""></td>
+		                <td rowspan="3" valign="top" bgcolor="#72757B">
+			                <img src="images/ext/page_07.jpg" width="61" height="173" alt=""></td>
+	                </tr>
+	                <tr>
+		                <td width="749" height="29" valign="bottom" colspan="2" bgcolor="#2B2D38">
+                            <!-- TOP MENU BEGINS HERE -->
+			                <table cellspacing="0" cellpadding="0" border="0" onmouseout="hidemenu()" onmouseover="cancelhide()">
   <tbody><tr>
     <td>
       <img width="23" alt="" src="images/spacer.gif" border="0">
     </td>
     <td align="center" onmouseover="show(this,'submenu_1')" class="menusimple">
-      <a title="CloudBerry Lab - Home page" href="&#13;&#10;              default.aspx?page=index" class="navbar">Home</a>
-    </td>
-    <td>
-      <img width="5" alt="" src="images/spacer.gif" border="0">
-    </td>
-    <td>
-      <img width="5" alt="" src="images/spacer.gif" border="0">
-    </td>
-    <td align="center" onmouseover="show(this,'submenu_19')" class="menusimple">
-      <a title="Product Blog" href="&#13;&#10;              default.aspx?page=cloudberrylab-product-blog" class="navbar">Blog</a>
-    </td>
-    <td>
-      <img width="5" alt="" src="images/spacer.gif" border="0">
-    </td>
-    <td>
-      <img width="5" alt="" src="images/spacer.gif" border="0">
-    </td>
-    <td align="center" onmouseover="show(this,'submenu_16')" class="menuactive">
-      <a title="Company" href="&#13;&#10;              default.aspx?id=16" class="navbarsel">Company</a>
+      <a title="CloudBerry Lab - Home page" href="/" rel="nofollow" class="navbar">Home</a>
     </td>
     <td>
       <img width="5" alt="" src="images/spacer.gif" border="0">
@@ -443,7 +62,7 @@ window.onload=function() {
       <img width="5" alt="" src="images/spacer.gif" border="0">
     </td>
     <td align="center" onmouseover="show(this,'submenu_2')" class="menusimple">
-      <a title="CloudBerry Lab Products" href="&#13;&#10;              default.aspx?id=2" class="navbar">Products</a>
+      <a title="CloudBerry Lab Products" href="products.aspx" rel="nofollow" class="navbar">Products</a>
     </td>
     <td>
       <img width="5" alt="" src="images/spacer.gif" border="0">
@@ -451,8 +70,8 @@ window.onload=function() {
     <td>
       <img width="5" alt="" src="images/spacer.gif" border="0">
     </td>
-    <td align="center" onmouseover="show(this,'submenu_58')" class="menusimple">
-      <a title="S3 RESOURCES" href="&#13;&#10;              default.aspx?page=s3resources" class="navbar">S3 Resources</a>
+    <td align="center" onmouseover="show(this,'submenu_90')" class="menusimple">
+      <a title="Managed Backup Service" href="managed-online-backup-service-amazon-s3-azure.aspx" rel="nofollow" class="navbar">Service Providers</a>
     </td>
     <td>
       <img width="5" alt="" src="images/spacer.gif" border="0">
@@ -460,8 +79,8 @@ window.onload=function() {
     <td>
       <img width="5" alt="" src="images/spacer.gif" border="0">
     </td>
-    <td align="center" onmouseover="show(this,'submenu_59')" class="menusimple">
-      <a title="Link Us" href="&#13;&#10;              default.aspx?page=linkus" class="navbar">Link Us</a>
+    <td align="center" onmouseover="show(this,'submenu_19')" class="menusimple">
+      <a title="Product Blog" href="http://blog.cloudberrylab.com" rel="nofollow" class="navbar">Blog</a>
     </td>
     <td>
       <img width="5" alt="" src="images/spacer.gif" border="0">
@@ -469,8 +88,8 @@ window.onload=function() {
     <td>
       <img width="5" alt="" src="images/spacer.gif" border="0">
     </td>
-    <td align="center" onmouseover="show(this,'submenu_66')" class="menusimple">
-      <a title="" href="affiliate.aspx" class="navbar">Affiliate</a>
+    <td align="center" onmouseover="show(this,'submenu_44')" class="menusimple">
+      <a title="Welcome to the CloudBerry Lab Partner Program!" rel="nofollow" href="default.aspx?page=partners" class="navbar">Partners</a>
     </td>
     <td>
       <img width="5" alt="" src="images/spacer.gif" border="0">
@@ -479,7 +98,16 @@ window.onload=function() {
       <img width="5" alt="" src="images/spacer.gif" border="0">
     </td>
     <td align="center" onmouseover="show(this,'submenu_15')" class="menusimple">
-      <a title="Support or Feedback" href="support.aspx" class="navbar">Support</a>
+      <a title="Support or Feedback" href="support.aspx" rel="nofollow" class="navbar">Support</a>
+    </td>
+    <td>
+      <img width="5" alt="" src="images/spacer.gif" border="0">
+    </td>
+    <td>
+      <img width="5" alt="" src="images/spacer.gif" border="0">
+    </td>
+    <td align="center" onmouseover="show(this,'submenu_16')" class="menuactiveext">
+      <a title="Company" href="about.aspx" rel="nofollow" class="navbar">Company</a>
     </td>
     <td>
       <img width="5" alt="" src="images/spacer.gif" border="0">
@@ -488,71 +116,97 @@ window.onload=function() {
       <img width="5" alt="" src="images/spacer.gif" border="0">
     </td>
     <td align="center" onmouseover="show(this,'submenu_3')" class="menusimple">
-      <a title="Contact Information" href="contact.aspx" class="navbar">Contacts</a>
+      <a title="Contact Information" href="contact.aspx" rel="nofollow" class="navbar">Contact</a>
     </td>
     <td>
       <img width="5" alt="" src="images/spacer.gif" border="0">
     </td>
   </tr>
-</tbody></table></td>
-                        </tr>
-                        <tr>
-                            <td colspan="3">
-                                <img src="images/Content_04.jpg" width="805" height="8" alt="" border="0"></td>
-                        </tr>
-                        <tr>
+</tbody></table>
+                            <!-- TOP MENU ENDS HERE -->                            
+                        </td>
+	                </tr>
+	                <tr>
+                        <!-- PAGE BANNER BEGINS HERE -->
+                        
 
-<td colspan="3">                                    
-        <a href="?id=1" title="Your way to manage Cloud!"><img border="0" src="images/Content_05.jpg" width="805" height="111" alt="Your way to manage Cloud!"></a>
+
+
+
+
+<td colspan="3" background="images/ext/page_09.jpg" width="948" height="52">
+        <div>
+            <h1 class="header">Privacy Policy</h1>
+        </div>
+        <div style="padding-left:20px;">
+            
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+        <td><p><nobr><span id="ctl00_ctl00_ctl00_pagebunner1_pathControl_lblPath"><font face="verdana" color="White"><a class="submenuext" href="default.aspx?id=1">Home</a> &gt; <a class="submenuext" href="default.aspx?id=16">About CloudBerry Lab</a></font></span></nobr></p></td>
+    </tr>
+</tbody></table>
+        </div>
+            
+        <!--table cellpadding="0" cellspacing="0" border="1">
+            <tr>
+                <td style="padding-left:20px;"><H1></H1></td>
+            </tr>
+            <tr>
+                <td valign="top" style="padding-left:20px"></td>
+            </tr>
+        </table-->
     </td>
 
 
 
-</tr>        
-<!--tr>
-                                            <td colspan="3" >
-                                              <img src="http://images.cloudberrylab.com/carousel/ny_polosa.jpg" alt="" />                                          
-                                            </td>  
-                                        </tr-->                    
-                        <tr>
-                            <td valign="top" colspan="3">  
-                                <table id="Table_Content" width="100%" border="0" cellpadding="0" cellspacing="0">
-                                  <tbody><tr>                                        
-                                    <td valign="top" class="pipi" width="21" background="images/Content_06.jpg">&nbsp;</td>                                        
-                                    <td valign="top" align="left" class="pipi" background="images/fon2.gif" width="766">
-						<!--td valign="top" align="left"  width="766" -->
-                                      <table width="100%" border="0" cellpadding="0" cellspacing="0">
 
-<!--NY
-<tr>
-                                            <td>
-                                              <img src="http://images.cloudberrylab.com/carousel/ny_polosa.jpg" width="766" alt="" />                                          
-                                            </td>  
-                                        </tr>
-NY-->
-                                        
-<tbody><tr>
-                                            <td align="left">
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td><p><nobr><span id="ctl00_pathControl_lblPath"><a class="submenu" href="default.aspx?id=1">Home</a> &gt; <a class="submenu" href="default.aspx?id=16">Company</a></span></nobr></p></td>
-    </tr>
-</tbody></table></td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                              <img src="images/spacer.gif" width="10" alt="">                                          
-                                            </td>  
-                                        </tr>
-                                        <tr>
-                                            <td><h1><span id="ctl00_lblPageName">Privacy Policy</span></h1></td>
-                                        </tr>
-                                        <tr>
-                                            <td><h1><img id="ctl00_imgKeyVisual" src="images/spacer.gif" border="0"></h1></td>
-                                        </tr>
-                                        <tr>
-                                            <td width="100%" align="center">
-                                                
+                        <!-- PAGE BANNER ENDS HERE -->
+	                </tr>
+
+                    <tr>                            
+		                <td width="48" bgcolor="#72757B">
+			                <img src="images/ext/spacer.gif" height="20" width="48" alt=""></td>
+		                <td width="50" bgcolor="#72757B">
+			                <img src="images/ext/spacer.gif" height="20" width="50" alt=""></td>
+		                    
+                        <td valign="top" width="948" height="10px" colspan="3" bgcolor="#FFFFFF">
+                            
+                                <!-- AddThis Button BEGIN -->
+                                <div style="float:left; width:140px; padding-right:36px; padding-top:5px; padding-left:20px" class="addthis_toolbox addthis_default_style addthis_16x16_style">
+                                    <a class="addthis_button_preferred_1"></a>
+                                    <a class="addthis_button_preferred_2"></a>
+                                    <a class="addthis_button_preferred_3"></a>
+                                    <a class="addthis_button_preferred_4"></a>
+                                    <a class="addthis_button_compact"></a>
+                                    <a class="addthis_counter addthis_bubble_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e71b0900629b409"></script>
+                                <!-- AddThis Button END -->
+
+                        </td>
+		                    
+		                <td width="47" bgcolor="#72757B">
+			                <img src="images/ext/spacer.gif" height="20" width="47" alt=""></td>
+		                <td width="61" bgcolor="#72757B">
+			                <img src="images/ext/spacer.gif" height="20" width="61" alt=""></td>
+	                </tr>
+
+	                <tr>
+                            
+		                <td width="48" height="100%" bgcolor="#72757B">
+			                <img src="images/ext/spacer.gif" width="48" height="100%" alt=""></td>
+		                <td width="50" height="100%" bgcolor="#72757B">
+			                <img src="images/ext/spacer.gif" width="50" height="100%" alt=""></td>
+		                    
+                        <td valign="top" style="padding-left:36px; padding-right:36px; padding-bottom:36px; padding-top:10px" width="948" height="100%" colspan="3" bgcolor="#FFFFFF">
+                            <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCZg9kFgQCAw9kFgRmDw8WAh4HVmlzaWJsZWhkZAIED2QWAmYPZBYCAgEPDxYCHgRUZXh0BYIBPGEgY2xhc3M9J3N1Ym1lbnVleHQnIGhyZWY9J2RlZmF1bHQuYXNweD9pZD0xJz5Ib21lPC9hPiA+IDxhIGNsYXNzPSdzdWJtZW51ZXh0JyBocmVmPSdkZWZhdWx0LmFzcHg/aWQ9MTYnPkFib3V0IENsb3VkQmVycnkgTGFiPC9hPmRkAgQPZBYCAgEPZBYCAgUPFgIfAGdkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBSxjdGwwMCRjdGwwMCRjdGwwMCRjcGhDb250ZW50JGlidG5fYnV5UHJvZHVjdAUxY3RsMDAkY3RsMDAkY3RsMDAkY3BoQ29udGVudCRpYnRuX2Rvd25sb2FkUHJvZHVjdJmGE2zX7iifPFPPFQ1SmF+Nm0Zc">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLkmr6xBwLD17nXBgLOn8eyCbofeQZVLT5nQqJ7HeAs3FCEr67a">
+                                <!-- PAGE CONTENT BEGINS HERE -->
+                                
+    <input type="image" name="ctl00$ctl00$ctl00$cphContent$ibtn_buyProduct" id="ctl00_ctl00_ctl00_cphContent_ibtn_buyProduct" src="images/spacer.gif" border="0">
+    <input type="image" name="ctl00$ctl00$ctl00$cphContent$ibtn_downloadProduct" id="ctl00_ctl00_ctl00_cphContent_ibtn_downloadProduct" src="images/spacer.gif" border="0">
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr class="padding">	
 	  <td align="left">	  
@@ -570,7 +224,7 @@ NY-->
 		  <p>CloudBerry Lab Ltd. may share non-personal, summary information regarding its customers with partners or other third parties. However, any individual customer's information provided for partners or third parties under contract with CloudBerry Lab Ltd. shall be used only to perform or complete a necessary transaction or function related to the customer's purchase. These transactions or functions shall be in accordance with the terms of this Privacy Policy Statement. CloudBerry Lab Ltd. will not share any individual customer's information with anyone except the contracted partners and third parties mentioned above, without first receiving the individual's prior written approval. In some cases, CloudBerry Lab Ltd. may use a visitor's personal information to understand overall patterns for web site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc.</p>
 
 		  <h2>Links to Other Sites</h2>
-		  <p>The <a href="http://www.amazon.com" target="_blank">www.amazon.com</a> site contains links to other sites. Be aware that CloudBerry Lab Ltd. is not responsible for the privacy practices or content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware of this when you leave our site, and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to <a href="http://www.cloudberrylab.com" target="_blank">www.CloudBerryLab.com</a>.</p>
+		  <p>The <a rel="nofollow" href="http://www.amazon.com" target="_blank">www.amazon.com</a> site contains links to other sites. Be aware that CloudBerry Lab Ltd. is not responsible for the privacy practices or content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware of this when you leave our site, and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to <a href="http://www.cloudberrylab.com" target="_blank">www.CloudBerryLab.com</a>.</p>
 
 		  <h2>Cookies</h2>
 		  <p>A cookie is a small piece of information that a web site stores on your computer. When you revisit the web site, your browser sends the information back to that site. A cookie does not contain any Personal Information. The use of cookies is not required to browse through our site but it does enable us to better serve you when you return to our site by recording how and when you use it. You can set your browser to refuse cookies, but if you do, you might not be able to take full advantage of our site.</p>
@@ -579,62 +233,154 @@ NY-->
 	  </td>
   </tr>
 </tbody></table>
-                                                
-                                            </td>
-                                        </tr>
-                                      </tbody></table>                                          
-                                    </td>
-                                    <td valign="top" class="pipi" width="21" background="images/Content_09.jpg">&nbsp;</td>
-                                  </tr>
-                                </tbody></table>                                    
-                            </td>
-                        </tr>                            
-                    </tbody></table>
-                </td>
-                <td height="196" class="pipi" bgcolor="#72757B" background="images/fon1.gif"></td>
-            </tr>
-            
-<tr>
+ 
+                                <!-- PAGE CONTENT ENDS HERE -->
+                            </form>
+                        </td>
+		                    
+		                <td width="47" height="100%" bgcolor="#72757B">
+			                <img src="images/ext/spacer.gif" width="47" height="100%" alt=""></td>
+		                <td width="61" height="100%" bgcolor="#72757B">
+			                <img src="images/ext/spacer.gif" width="61" height="100%" alt=""></td>
+	                </tr>
+	                    
+                </tbody></table>
+            </td>
+            <td height="196" class="pipi" bgcolor="#72757B" background="images/ext/fon1px.gif"></td>
+        </tr>
+        <!-- FOOTER BEGINS HERE -->
+        
+<tr> 
     <td bgcolor="#72757B"><img src="images/spacer.gif" width="1" height="100%" alt=""></td>
     <td bgcolor="#72757B"></td>
 </tr>
 <tr align="right">
     <td height="127" bgcolor="#5A5D63">
         <img src="images/spacer.gif" width="101" height="127" alt=""></td>
-    <td align="center" height="127" background="images/fon3.gif" class="footer" bgcolor="#FFFFFF">All rights reserved. © 2009 CloudBerry Lab.   <a href="default.aspx?id=6" class="footer">Read Privacy Policy</a>. </td>
+    <td align="center" height="127" class="footer" bgcolor="#5A5D63">All rights reserved. © 2011 CloudBerry Lab.   <a href="privacy-policy.aspx" class="footer">Read Privacy Policy</a>. </td>
     <td height="127" bgcolor="#5A5D63">
         <img src="images/spacer.gif" width="101" height="127" alt=""></td>
 </tr>
 <tr>
     <td bgcolor="#5A5D63" class="footer" align="center" colspan="3"><table cellspacing="0" cellpadding="0" border="0">
   <tbody><tr>
-    <td class="footer">
+    <td valign="top" class="footer">
       <nobr>
-        <a title="CloudBerry Lab - Home page" class="footer" href="&#13;&#10;              default.aspx?page=index">Home</a> | <a title="Product Blog" class="footer" href="&#13;&#10;              default.aspx?page=cloudberrylab-product-blog">Blog</a> | <a title="Company" class="footer" href="&#13;&#10;              default.aspx?id=16">Company</a> | <a title="CloudBerry Lab Products" class="footer" href="&#13;&#10;              default.aspx?id=2">Products</a> | <a title="S3 RESOURCES" class="footer" href="&#13;&#10;              default.aspx?page=s3resources">S3 Resources</a><br><a title="Link Us" class="footer" href="&#13;&#10;              default.aspx?page=linkus">Link Us</a> | <a title="" class="footer" href="affiliate.aspx">Affiliate</a> | <a title="Support or Feedback" class="footer" href="support.aspx">Support</a> | <a title="Contact Information" class="footer" href="contact.aspx">Contacts</a></nobr>
+        <a title="CloudBerry Lab - Home page" class="footer" href="/">Home</a>
+        <br>
+        <a title="CloudBerry Lab Products" class="footer" href="products.aspx">Products</a>
+        <br>
+        <a title="Managed Backup Service" class="footer" href="managed-online-backup-service-amazon-s3-azure.aspx">Service Providers</a>
+        <br>
+        <a title="Product Blog" class="footer" href="http://blog.cloudberrylab.com">Blog</a>
+        <br>
+        <a title="Welcome to the CloudBerry Lab Partner Program!" class="footer" href="default.aspx?page=partners">Partners</a>
+        <br>
+        <a title="Support or Feedback" class="footer" href="support.aspx">Support</a>
+        <br>
+        <a title="Company" class="footer" href="about.aspx">Company</a>
+        <br>
+        <a title="Contact Information" class="footer" href="contact.aspx">Contact</a>
+        <br>
+        <a title="" class="footer" href="download-thanks.aspx">Thank you for downloading</a>
+        <br>
+        <a title="CloudBerry Explorer: allows to manage Amazon S3 service" class="footer" href="default.aspx?page=powerscripting">PowerScripting Podcast</a>
+        <br>
+        <a title="Product Registration and Send Feedback Videos" class="footer" href="default.aspx?page=registration-videos">Registration &amp; Feedback Videos</a>
+        <br>
+        <a title="How to create Amazon S3 account and register it with CloudBerry Explorer" class="footer" href="default.aspx?page=create-amazon-s3-video">Create Amazon S3 account Video</a>
+        <br>
+        <a title="CloudBerry Explorer PowerShell Snap-in" class="footer" href="default.aspx?page=amazon-s3-powershell">PowerShell Snap-in</a>
+        <br>
+        <a title="CloudBerry Explorer: allows to manage Amazon S3 service" class="footer" href="default.aspx?page=product-videos">S3 Explorer Videos</a>
+        <br>
+        <a title="CloudBerry Online Backup: Backup your data to offsite storage" class="footer" href="default.aspx?page=backup-videos">CloudBerry S3 Backup 'How To' Videos</a>
+        <br>
+        <a title="Online Backup C# API" class="footer" href="default.aspx?page=backup-api">S3 Backup API</a>
+        <br>
+        <a title="Online Backup Command Line Interface" class="footer" href="default.aspx?page=backupcmd">S3 Backup Command Line Interface</a>
+        <br>
+      </nobr>
     </td>
-  </tr>
-  <tr>
-    <td class="footer">
-      <a title="" class="footer" href="download.aspx">Downloads</a> | <a title="CloudBerry S3 Explorer Functional Overview]" class="footer" href="&#13;&#10;              default.aspx?page=explorer-functional-overview">S3 Explorer Overview</a> | <a title="" class="footer" href="&#13;&#10;              default.aspx?page=twitter">Twitter Plug-ins</a> | <a title="CloudBerry Lab History" class="footer" href="&#13;&#10;              default.aspx?page=history">History</a> | <a title="CloudBerry Explorer makes managing files in Amazon S3 storage EASY. By providing a user interface to Amazon S3 accounts, files, and buckets, CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="&#13;&#10;              default.aspx?page=cloudberry-explorer-amazon-s3">S3 Explorer FREEWARE</a><br><a title="CloudBerry Lab Forum" class="footer" href="forum/default.aspx">Forum</a> | <a title="Press Coverage" class="footer" href="&#13;&#10;              default.aspx?page=media-coverage">Media Coverage</a> | <a title="<b>CloudBerry Explorer PRO </b> offers some <b>advanced</b> features over Freeware version. It makes managing files Amazon S3 in even <b>EASIER</b>, more <b>secure</b> and cost efficient." class="footer" href="&#13;&#10;              default.aspx?page=s3-explorer-pro">S3 Explorer PRO</a> | <a title="Privacy Policy" class="footer" href="&#13;&#10;              default.aspx?page=privacy-policy">Privacy Policy</a> | <a title="Customer Testimonials" class="footer" href="&#13;&#10;              default.aspx?page=testimonials">Customer Testimonials</a><br><a title="CloudBerry Explorer makes managing files in <b>Windows Mobile</b> EASY. By providing a user interface to Amazone S3 Service accounts, files, buckets and volumes, CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="&#13;&#10;              default.aspx?page=explorer-mobile">S3 Explorer Mobile</a> | <a title="CUSTOM SOFTWARE DEVELOPMENT SERVICES" class="footer" href="&#13;&#10;              default.aspx?page=consulting">Services</a> | <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="&#13;&#10;              default.aspx?page=cloudberry-backup">Online Backup Desktop</a> | <a title="CloudBerry Backup provides a powerful Backup and Restore program for Windows Home Server designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="&#13;&#10;              default.aspx?page=backup-whs">Online Backup for WHS v1</a> | <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="&#13;&#10;              default.aspx?page=backup-az">Online Backup for Azure</a><br><a title="Welcome to the CloudBerry Lab Partner Program!" class="footer" href="&#13;&#10;              default.aspx?page=partners">Reseller Partners</a> | <a title="CloudBerry Backup provides a powerful Backup and Restore program for Windows Home Server 2011 designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="&#13;&#10;              default.aspx?page=backup-vail">Online Backup for WHS 2011</a> | <a title="CloudBerry Backup provides a powerful Backup and Restore program for Small Business Server 2011 Essentials (code name Aurora) designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="&#13;&#10;              default.aspx?page=backup-aurora">Online Backup for SBS 2011 Essentials </a> | <a title="Managed Backup Service" class="footer" href="&#13;&#10;              default.aspx?page=mbs">Managed Backup Service</a> | <a title="Free Offers!" class="footer" href="&#13;&#10;              default.aspx?page=freeoffers">Free Offers</a><br><a title="CloudBerry Lab Press Center" class="footer" href="&#13;&#10;              default.aspx?page=presscenter">Press Center</a> | <a title="<b>CloudBerry Explorer for Azure Blob Storage.</b> CloudBerry Explorer makes managing files in Microsoft Azure Blob Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="&#13;&#10;              default.aspx?page=explorer-azure">Explorer for Azure</a> | <a title="<b>CloudBerry Explorer for Google  Storage.</b> CloudBerry Explorer makes managing files in Google Storage Service EASY. By providing a user interface to Google Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="&#13;&#10;              default.aspx?page=explorer-gs">Explorer for Google</a> | <a title="<b>CloudBerry Explorer for Azure Blob Storage PRO.</b> CloudBerry Explorer makes managing files in Microsoft Azure Blob Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="&#13;&#10;              default.aspx?page=explorer-azure-pro">Explorer for Azure PRO</a> | <a title="<b>CloudBerry Explorer for Google PRO.</b> CloudBerry Explorer makes managing files in Google Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="&#13;&#10;              default.aspx?page=explorer-gs-pro">Explorer for Google PRO</a><br><a title="<b>CloudBerry Explorer for Nirvanix Storage BETA.</b> CloudBerry Explorer makes managing files in Nirvanix Storage Service EASY. By providing a user interface to Nirvanix Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="&#13;&#10;              default.aspx?page=explorer-nx">Explorer for Nirvanix</a> | <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="&#13;&#10;              default.aspx?page=backup-server">Online Backup Server</a></td>
-  </tr>
-  <tr>
-    <td class="footer">
-      <nobr>
-        <a title="CloudBerry Explorer: allows to manage Amazon S3 service" class="footer" href="&#13;&#10;              default.aspx?page=powerscripting">PowerScripting Podcast</a> | <a title="Product Registration and Send Feedback Videos" class="footer" href="&#13;&#10;              default.aspx?page=registration-videos">Registration &amp; Feedback Videos</a> | <a title="How to create Amazon S3 account and register it with CloudBerry Explorer" class="footer" href="&#13;&#10;              default.aspx?page=create-amazon-s3-video">Create Amazon S3 account Video</a> | <a title="CloudBerry Explorer PowerShell Snap-in" class="footer" href="&#13;&#10;              default.aspx?page=amazon-s3-powershell">PowerShell Snap-in</a> | <a title="CloudBerry Explorer: allows to manage Amazon S3 service" class="footer" href="&#13;&#10;              default.aspx?page=product-videos">S3 Explorer Videos</a><br><a title="CloudBerry Online Backup: Backup your data to offsite storage" class="footer" href="&#13;&#10;              default.aspx?page=backup-videos">Backup Videos</a> | <a title="Online Backup C# API" class="footer" href="&#13;&#10;              default.aspx?page=backup-api">Online Backup API</a> | <a title="Online Backup Command Line Interface" class="footer" href="&#13;&#10;              default.aspx?page=backupcmd">Online Backup CMD</a> | <a title="" class="footer" href="http://computerszine.com">Computers Zine</a></nobr>
+    <td valign="top" class="footer">
+      <a title="CloudBerry Explorer makes managing files in Amazon S3 storage EASY. By providing a user interface to Amazon S3 accounts, files, and buckets, CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="free-amazon-s3-explorer-cloudfront-IAM.aspx">S3 Explorer FREEWARE</a>
+      <br>
+      <a title="<b>CloudBerry Explorer PRO </b> offers some <b>advanced</b> features over Freeware version. It makes managing files Amazon S3 in even <b>EASIER</b>, more <b>secure</b> and cost efficient." class="footer" href="amazon-s3-explorer-pro-cloudfront-IAM.aspx">S3 Explorer PRO</a>
+      <br>
+      <a title="CloudBerry Explorer makes managing files in <b>Windows Mobile</b> EASY. By providing a user interface to Amazone S3 Service accounts, files, buckets and volumes, CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="default.aspx?page=explorer-mobile">S3 Explorer Mobile</a>
+      <br>
+      <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="amazon-s3-microsoft-azure-google-storage-online-backup.aspx">Online Backup Desktop</a>
+      <br>
+      <a title="CloudBerry Backup provides a powerful Backup and Restore program for Windows Home Server designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="whs-online-backup-to-amazon-s3-microsoft-azure-google-storage.aspx">Online Backup for WHS v1</a>
+      <br>
+      <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="default.aspx?page=backup-az">Online Backup for Azure</a>
+      <br>
+      <a title="CloudBerry Backup provides a powerful Backup and Restore program for Windows Home Server 2011 designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="default.aspx?page=backup-vail">Online Backup for WHS 2011</a>
+      <br>
+      <a title="CloudBerry Backup provides a powerful Backup and Restore program for Small Business Server 2011 Essentials (code name Aurora) designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="windows-sbs-2011-essentials-online-backup-to-amazon-s3-microsoft-azure-google-storage.aspx">Online Backup for SBS 2011 Essentials </a>
+      <br>
+      <a title="<b>CloudBerry Explorer for Azure Blob Storage.</b> CloudBerry Explorer makes managing files in Microsoft Azure Blob Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="free-microsoft-azure-explorer.aspx">Explorer for Azure</a>
+      <br>
+      <a title="<b>CloudBerry Explorer for Google  Storage.</b> CloudBerry Explorer makes managing files in Google Storage Service EASY. By providing a user interface to Google Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="free-google-storage-explorer.aspx">Explorer for Google</a>
+      <br>
+      <a title="<b>CloudBerry Explorer for Azure Blob Storage PRO.</b> CloudBerry Explorer makes managing files in Microsoft Azure Blob Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="microsoft-azure-explorer-pro.aspx">Explorer for Azure PRO</a>
+      <br>
+      <a title="<b>CloudBerry Explorer for Google PRO.</b> CloudBerry Explorer makes managing files in Google Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="google-storage-explorer-pro.aspx">Explorer for Google PRO</a>
+      <br>
+      <a title="<b>CloudBerry Explorer for Nirvanix Storage BETA.</b> CloudBerry Explorer makes managing files in Nirvanix Storage Service EASY. By providing a user interface to Nirvanix Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="nirvanix-explorer.aspx">Explorer for Nirvanix</a>
+      <br>
+      <a title="<b>CloudBerry Explorer for OpenStack.</b> CloudBerry Explorer makes managing files in OpenStack Storage EASY. By providing a user interface to OpenStack Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="free-openstack-storage-explorer.aspx">Explorer for OpenStack</a>
+      <br>
+      <a title="<b>CloudBerry Explorer for OpenStack PRO.</b> CloudBerry Explorer makes managing files in OpenStack EASY. By providing a user interface to OpenStack accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="footer" href="openstack-storage-explorer-pro.aspx">Explorer for OpenStack PRO</a>
+      <br>
+      <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="footer" href="windows-server-online-backup-to-amazon-s3-microsoft-azure-google-storage.aspx">Online Backup Server</a>
+      <br>
+      <a title="CloudBerry Lab - CloudBerry Drive, Map Amazon S3, Windows Azure, Google Storage as a Virtual Drive" class="footer" href="virtual-drive-amazon-s3-azure.aspx">CloudBerry Drive</a>
+      <br>
+    </td>
+    <td valign="top" class="footer">
+      <a title="" class="footer" href="download.aspx">Download CloudBerry Backup</a>
+      <br>
+      <a title="CloudBerry S3 Explorer Functional Overview]" class="footer" href="default.aspx?page=explorer-functional-overview">S3 Explorer Overview</a>
+      <br>
+      <a title="" class="footer" href="default.aspx?page=twitter">Twitter Plug-ins</a>
+      <br>
+      <a title="CloudBerry Lab History" class="footer" href="default.aspx?page=history">CloudBerry Lab Timeline</a>
+      <br>
+      <a title="CloudBerry Lab Forum" class="footer" href="forum/default.aspx">CloudBerry Lab Forum</a>
+      <br>
+      <a title="Press Coverage" class="footer" href="media-coverage.aspx">Media Coverage</a>
+      <br>
+      <a title="Privacy Policy" class="footer" href="privacy-policy.aspx">Privacy Policy</a>
+      <br>
+      <a title="Customer Testimonials" class="footer" href="customer-testimonials.aspx">Customer Testimonials</a>
+      <br>
+      <a title="CUSTOM SOFTWARE DEVELOPMENT SERVICES" class="footer" href="default.aspx?page=consulting">Software Development Consulting Service</a>
+      <br>
+      <a title="S3 RESOURCES" class="footer" href="default.aspx?page=s3resources">S3 Resources We Recommend</a>
+      <br>
+      <a title="Free Offers!" class="footer" href="default.aspx?page=freeoffers">CloudBerry Lab Special Offers</a>
+      <br>
+      <a title="" class="footer" href="affiliate.aspx">CloudBerry Lab Affiliate Program </a>
+      <br>
+      <a title="Link Us" class="footer" href="default.aspx?page=linkus">Link Us</a>
+      <br>
+      <a title="CloudBerry Lab Press Center" class="footer" href="presscenter.aspx">CloudBerry Lab Press Center</a>
+      <br>
+      <a title="Our Partners" class="footer" href="cloudberrylab-partners.aspx">Our Partners</a>
+      <br>
+    </td>
+    <td valign="top" class="footer">
+      <a title="" class="footer" href="seo/amazon-s3-for-business-data-online-backup.htm">Backup your business sensitive data</a>
+      <br>
     </td>
   </tr>
 </tbody></table></td>
 </tr>
 <tr>
-    <td bgcolor="#5A5D63" align="center" colspan="3"><img src="../images/spacer.gif" border="0" width="1" height="10"></td>
-</tr>
-<tr>    
-    <td bgcolor="#5A5D63" align="center" colspan="3"><a href="http://www.brothersoft.com/"><img src="http://www.brothersoft.com/info/linktous/88x31_blue.gif" border="0"></a><a href="http://www.bestsoftware4download.com/" target="_blank"><img src="http://www.bestsoftware4download.com/images/button88x31_BS4D.png" alt="Download from Best Software 4 Download" border="0" width="88" height="31"></a><a href="http://www.download3k.com/"><img style="border-width:0" src="images/d3k_logo88x31.gif" alt="download3k.com"></a><a href="http://www.itshareware.com"><img style="border-width:0" src="images/itshareware.png" alt="Xentrik.Net"></a><a href="http://www.xentrik.net"><img style="border-width:0" src="images/xentrik.gif" alt="Xentrik.Net"></a><a href="http://www.topshareware.com"><img style="border-width:0" src="http://www.topshareware.com/images/logo/topshareware_8831.gif" alt="Free Download"></a><a href="http://www.software.com"><img style="border-width:0" src="images/software_com.png" alt="Software.com"></a><a href="http://www.bestfreewaredownload.com/" target="_blank"><img src="http://www.bestfreewaredownload.com/images/button88x31_BFD.png" alt="Download from Best Freeware Download" border="0" width="88" height="31"></a>
-</td>
-</tr><tr>    
-    <td bgcolor="#5A5D63" align="center" colspan="3"><a href="http://www.soft82.com/download/windows/cloudberry-online-backup/"><img src="http://www.soft82.com/images/download_buttons/soft82_icon_2.gif" border="0"></a><a href="http://www.freedownloadsplace.com"><img src="http://www.freedownloadsplace.com/images/awards/free-downloads-place-Do.gif" border="0"></a><a href="http://www.downloadroute.com"><img src="http://www.downloadroute.com/images/downloadroute88x31.png" style="border:none;" width="88" height="31" alt="Best Download Route"></a><a href="http://www.fiberdownload.com/"><img width="88" height="31" src="http://www.fiberdownload.com/images/awards/seen_at_110_49.png" border="0"></a>   
-<a href="http://www.softepic.com"><img width="88" height="31" src="http://www.softepic.com/skins/green/images/avd.gif" border="0"></a><!--a href="http://iedig.com/"><img border="0" src="http://iedig.com/backlink/Button1.png" width="99" height="30"></a--><a href="http://thecloudtutorial.com/"><img width="88" height="31" src="images/thecl_tut.png" border="0"></a> 
-</td>        
+    <td bgcolor="#5A5D63"><img src="images/spacer.gif" width="1" height="40" alt=""></td>
+    <td bgcolor="#5A5D63"></td>
+    <td bgcolor="#5A5D63"></td>
 </tr>
  
  
@@ -646,34 +392,194 @@ NY-->
 
 
 
-        </tbody></table>         
-    </div>
-    </form>
+        <!-- FOOTER ENDS HERE -->
+    </tbody></table>         
+    <!-- MAIN TABLE ENDS HERE -->
+
+     <!-- SUBMENU BEGINS HERE -->
+    <div id="submenu_1" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
+  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
+  </table>
+</div>
+<div id="submenu_2" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
+  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
+    <tbody><tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Explorer makes managing files in Amazon S3 storage EASY. By providing a user interface to Amazon S3 accounts, files, and buckets, CloudBerry lets you manage your files on cloud just as you would on your own local computer." href="free-amazon-s3-explorer-cloudfront-IAM.aspx" rel="nofollow" class="submenu">S3 Explorer FREEWARE</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="<b>CloudBerry Explorer PRO </b> offers some <b>advanced</b> features over Freeware version. It makes managing files Amazon S3 in even <b>EASIER</b>, more <b>secure</b> and cost efficient." href="amazon-s3-explorer-pro-cloudfront-IAM.aspx" rel="nofollow" class="submenu">S3 Explorer PRO</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="<b>CloudBerry Explorer for Azure Blob Storage.</b> CloudBerry Explorer makes managing files in Microsoft Azure Blob Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." href="free-microsoft-azure-explorer.aspx" rel="nofollow" class="submenu">Explorer for Azure</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="<b>CloudBerry Explorer for Azure Blob Storage PRO.</b> CloudBerry Explorer makes managing files in Microsoft Azure Blob Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." href="microsoft-azure-explorer-pro.aspx" rel="nofollow" class="submenu">Explorer for Azure PRO</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="<b>CloudBerry Explorer for Google  Storage.</b> CloudBerry Explorer makes managing files in Google Storage Service EASY. By providing a user interface to Google Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." href="free-google-storage-explorer.aspx" rel="nofollow" class="submenu">Explorer for Google</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="<b>CloudBerry Explorer for Google PRO.</b> CloudBerry Explorer makes managing files in Google Storage Service EASY. By providing a user interface to Microsoft Azure Blob Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." href="google-storage-explorer-pro.aspx" rel="nofollow" class="submenu">Explorer for Google PRO</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="<b>CloudBerry Explorer for OpenStack.</b> CloudBerry Explorer makes managing files in OpenStack Storage EASY. By providing a user interface to OpenStack Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." href="free-openstack-storage-explorer.aspx" rel="nofollow" class="submenu">Explorer for OpenStack</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="<b>CloudBerry Explorer for Nirvanix Storage BETA.</b> CloudBerry Explorer makes managing files in Nirvanix Storage Service EASY. By providing a user interface to Nirvanix Storage accounts and files CloudBerry lets you manage your files on cloud just as you would on your own local computer." href="nirvanix-explorer.aspx" rel="nofollow" class="submenu">Explorer for Nirvanix</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Explorer makes managing files in <b>Windows Mobile</b> EASY. By providing a user interface to Amazone S3 Service accounts, files, buckets and volumes, CloudBerry lets you manage your files on cloud just as you would on your own local computer." class="submenu" rel="nofollow" href="default.aspx?page=explorer-mobile">S3 Explorer Mobile</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." href="windows-server-online-backup-to-amazon-s3-microsoft-azure-google-storage.aspx" rel="nofollow" class="submenu">Online Backup Server</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." href="amazon-s3-microsoft-azure-google-storage-online-backup.aspx" rel="nofollow" class="submenu">Online Backup Desktop</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Backup provides a powerful Backup and Restore program for Windows Home Server designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." href="whs-online-backup-to-amazon-s3-microsoft-azure-google-storage.aspx" rel="nofollow" class="submenu">Online Backup for WHS v1</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Backup provides a powerful Backup and Restore program for Windows Home Server 2011 designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="submenu" rel="nofollow" href="default.aspx?page=backup-vail">Online Backup for WHS 2011</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Backup provides a powerful Backup and Restore program for Small Business Server 2011 Essentials (code name Aurora) designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." href="windows-sbs-2011-essentials-online-backup-to-amazon-s3-microsoft-azure-google-storage.aspx" rel="nofollow" class="submenu">Online Backup for SBS 2011 Essentials </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Backup provides a powerful Backup and Restore program designed to leverage the Internet technology to make your disaster recovery plan simple, reliable, and affordable." class="submenu" rel="nofollow" href="default.aspx?page=backup-az">Online Backup for Azure</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Lab - CloudBerry Drive, Map Amazon S3, Windows Azure, Google Storage as a Virtual Drive" href="virtual-drive-amazon-s3-azure.aspx" rel="nofollow" class="submenu">CloudBerry Drive</a>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="submenu_90" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
+  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
+  </table>
+</div>
+<div id="submenu_19" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
+  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
+  </table>
+</div>
+<div id="submenu_44" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
+  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
+    <tbody><tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="" href="affiliate.aspx" class="submenu" rel="nofollow">CloudBerry Lab Affiliate Program </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="Link Us" class="submenu" rel="nofollow" href="default.aspx?page=linkus">Link Us</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="Our Partners" href="cloudberrylab-partners.aspx" rel="nofollow" class="submenu">Our Partners</a>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="submenu_15" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
+  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
+    <tbody><tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Lab Forum" href="forum/default.aspx" class="submenu" rel="nofollow">CloudBerry Lab Forum</a>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="submenu_16" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
+  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
+    <tbody><tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Lab History" class="submenu" rel="nofollow" href="default.aspx?page=history">CloudBerry Lab Timeline</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="Press Coverage" href="media-coverage.aspx" rel="nofollow" class="submenu">Media Coverage</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="Privacy Policy" href="privacy-policy.aspx" rel="nofollow" class="submenu">Privacy Policy</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="Customer Testimonials" href="customer-testimonials.aspx" rel="nofollow" class="submenu">Customer Testimonials</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CUSTOM SOFTWARE DEVELOPMENT SERVICES" class="submenu" rel="nofollow" href="default.aspx?page=consulting">Software Development Consulting Service</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="S3 RESOURCES" class="submenu" rel="nofollow" href="default.aspx?page=s3resources">S3 Resources We Recommend</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="Free Offers!" class="submenu" rel="nofollow" href="default.aspx?page=freeoffers">CloudBerry Lab Special Offers</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="200" style="display:block; border:solid; border-width:0px; padding-left:15px;padding-top:5px; padding-bottom:7px; padding-right:10px;">
+        <a title="CloudBerry Lab Press Center" href="presscenter.aspx" class="submenu" rel="nofollow">CloudBerry Lab Press Center</a>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="submenu_3" style="z-index:10; FONT-FAMILY: tahoma; LEFT: -1000px;OVERFLOW: hidden; POSITION: absolute;TOP: -1000px;" onmouseout="hidemenu()" onmouseover="cancelhide()">
+  <table cellpadding="1" bgcolor="#ffffff" cellspacing="0" style="border:solid; border-width:0px;">
+  </table>
+</div>
+    <!-- SUBMENU ENDS HERE -->
+    
+
+    <!-- GOOGLE ANALYTICS BEGINS HERE -->
     <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">var pageTracker = _gat._getTracker("UA-5676949-1");pageTracker._trackPageview();</script>
-    <script type="text/javascript">
-var uservoiceOptions = {
-  /* required */
-  key: 'cloudberry',
-  host: 'cloudberry.uservoice.com',
-  forum: '12329',
-  showTab: true, 
-  /* optional */
-  alignment: 'left',
-  background_color:'#f00',
-  text_color: 'white',
-  hover_color: '#06C',
-  lang: 'en'
-};
+    <script src="http://cloudberry.uservoice.com/pages/general/widgets/tab.js?alignment=right&amp;color=f00" type="text/javascript"></script>
+    <!-- GOOGLE ANALYTICS ENDS HERE -->
 
-function _loadUserVoice() {
-  var s = document.createElement('script');
-  s.setAttribute('type', 'text/javascript');
-  s.setAttribute('src', ("https:" == document.location.protocol ? "https://" : "http://") + "cdn.uservoice.com/javascripts/widgets/tab.js");
-  document.getElementsByTagName('head')[0].appendChild(s);
-}
-_loadSuper = window.onload;
-window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
-</script>
+
+
+
 
 
 </body></html>
