@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiredtree.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501163720id_/http%3A//www.wiredtree.com/legal/pa.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiredtree.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206165442id_/http%3A//www.wiredtree.com/legal/pa.php) for the most accurate reproduction.*
 
 # WiredTree Privacy Agreement
 
@@ -73,9 +73,9 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 WiredTree  
 Attn: Legal Department  
-53 W. Jackson Blvd.   
-Suite 635   
-Chicago, IL 60604
+412 S. Wells St.   
+Suite 201   
+Chicago, IL 60607
 
 Email: [legal@wiredtree.com](mailto:legal@wiredtree.com)
 
