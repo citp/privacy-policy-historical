@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210024739id_/http%3A//www.cv-library.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cv-library.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206192104id_/http%3A//www.cv-library.co.uk/privacy.html) for the most accurate reproduction.*
 
 # CV-library.co.uk - UK jobs, Careers, Recruitment
 
