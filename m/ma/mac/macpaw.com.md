@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509100023id_/http%3A//www.macpaw.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macpaw.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206041227id_/http%3A//macpaw.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Macpaw
 
 MACPAW, INC.
 
