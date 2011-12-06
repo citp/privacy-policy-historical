@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dailykos.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623032256id_/http%3A//www.dailykos.com/special/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailykos.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206155234id_/http%3A//dailykos.com/special/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<!-- Sticking this elsewhere until it can be fixed. -->
@@ -23,7 +23,7 @@
 	<!-- TODO: we should consolidate the css before launch -->
 
 	<!-- ask if this is actually OK. Hrmph. -->
-	<link href="/c/unified.css?rev=38" media="all" rel="stylesheet" type="text/css">
+	<link href="/c/unified.css?rev=3d" media="all" rel="stylesheet" type="text/css">
 	<!-- can this be unified? -->
 	<link href="/c/print.css" rel="stylesheet" media="print" type="text/css">
 
@@ -57,6 +57,7 @@ GS_googleEnableAllServices();
 GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK4_Story");
 GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK_Story_ATF");
 GA_googleAddSlot("ca-pub-4201116381449156", "300x250_DK_Story_BTF_Right");
+GA_googleAddSlot("ca-pub-4201116381449156", "300x250_Homepage_Top_Right");
 
 GA_googleAddSlot("ca-pub-4201116381449156", "728X90_DK4_Story_Leaderboard");
 GA_googleAddSlot("ca-pub-4201116381449156", "DK_Skin_Background");
@@ -103,27 +104,8 @@ GA_googleFillSlot("DK_Skin_Background");
 
 
 
-<style type="text/css" media="screen">
-	#topMenuBar li.menumain a,#topMenuBar li.menumain span{display:inline-block;}
-</style>
 
 
-	<div id="topMenuBar">
-	<a href="/"><img id="logo" src="http://images2.dailykos.com/i/menu/kos_menu_logo.png" border="0" hspace="0" vspace="0"></a>
-	<ul id="menuone" class="menu xshow-on-load">
-		<li class="menumain last right"><a href="/newuser">Sign Up</a></li>
-		<li class="menumain first right">
-			<noscript><a class="type-user do-login" href="/login">Log In</a></noscript>
-			<a class="ajax-popup type-user do-login" href="#">Log In</a></li>
-		
-		<li class="menumain alert first right" style="font-size: 12px; font-weight:bold;"><a href="/blog/comics/?via=topbar">Comics</a> • <a href="/blog/elections/?via=topbar">Elections</a></li>
-		
-	</ul>
-	</div>
-
-
-	
-	
 
 <div class="is-popup show-on-load " id="popup-user_login" title="Login">
 <div class="info-bar"></div>
@@ -146,8 +128,8 @@ GA_googleFillSlot("DK_Skin_Background");
 <label>Or:</label>
 </td><td>
 
-<a style="float:right; margin:5px" href="/authenticate/facebook/redir"><img src="http://images1.dailykos.com/i/facebook-login-button.png" alt="Facebook"></a><br>
-<a style="float:right; margin:5px" href="/authenticate/twitter/redir"><img src="http://images2.dailykos.com/i/sign-in-with-twitter-d.png" alt="Twitter"></a>
+<a style="float:right; margin:5px" href="/authenticate/facebook/redir"><img src="http://images2.dailykos.com/i/facebook-login-button.png" alt="Facebook"></a><br>
+<a style="float:right; margin:5px" href="/authenticate/twitter/redir"><img src="http://images1.dailykos.com/i/sign-in-with-twitter-d.png" alt="Twitter"></a>
 
 </td>
 </tr><tr><td colspan="3">
@@ -166,7 +148,8 @@ GA_googleFillSlot("DK_Skin_Background");
 
 
 
-
+<!-- div style="width: 728px; height: 90px; margin: 15px auto 0px auto; position: relative;" -->
+<div style="width: 728px; margin: 15px auto 0px auto; position: relative;">
 
 <!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT DK_FP_ATF_Header_728x90 -->
 
@@ -177,34 +160,58 @@ GA_googleFillSlot("728X90_DK4_Story_Leaderboard");
 </script>
 <!-- END OF TAG FOR SLOT DK_FP_ATF_Header_728x90 -->
 
+</div>
  
 
 <div id="pageWrapper"> 
 <p class="move"><a href="#content">Skip to main content</a></p>
 <div id="header">
 
+<div id="header-authorization" style="text-align: right; font-size: 12px; font-family: Verdana; padding: 15px 0px; color: #adabab">
+  
+	  <a id="header-login" class="ajax-popup type-user do-login" href="/login" style="display: inline !important;">Log In</a>
+    |
+    <a href="http://www.dailykos.com/newuser">Sign Up</a>
+	
+	  |
+	  <a href="http://www.dailykos.com/donations/new">Donate</a>
+	|
+  <a href="http://campaigns.dailykos.com/signup_page/genericsignup" style="color: #918f8f; font-style: italic">Join the Action Alert list!</a>
+  |
+	<a href="http://www.dailykos.com/helpdesk_redirect" style="color: #918f8f;">Help</a>
+</div>
+
   
 	<div id="masthead-dailykos" class="masthead">
-	<h1><a href="/">Daily Kos</a></h1>
-	<h2>The State of the Nation</h2>
+	  <h1><a href="http://www.dailykos.com/">Daily Kos</a></h1>
+	  <img id="flagman" src="/i/header/masthead/flagman.png" style="position: absolute; left: 368px; top: 11px; z-index: 100000">
+	  <h2>News, Community, Action</h2>
 	</div>
  
 
-<div id="nav-main">
+<div id="nav-main" class="clearfix">
 <ul>
-	<li class="first"><a href="http://www.dailykos.com/" class="home">Home</a></li>
 	
-	<li><a href="/people" class="people">People</a></li>
-	<li><a href="/groups" class="groups">Groups</a></li>
-	<li><a href="/diaries" class="diaries">Diaries</a></li>
-	<li><a href="/news" class="tags">Tags</a></li>
-	<li><a href="http://www.dkosopedia.com/wiki/DailyKos_FAQ" class="faq">FAQ</a></li>
+	<li><a href="http://www.dailykos.com/people" class="people">PEOPLE</a></li>
+	<li><a href="http://www.dailykos.com/groups" class="groups">GROUPS</a></li>
+	<li><a href="http://www.dailykos.com/diaries" class="diaries">DIARIES</a></li>
+	<li><a href="http://www.dailykos.com/news" class="tags">TAGS</a></li>
+	<li><a href="http://labor.dailykos.com?via=topbar" class="labor vertical">LABOR</a></li>
+	<li><a href="http://comics.dailykos.com?via=topbar" class="comics vertical">COMICS</a></li>
+	<li><a href="http://elections.dailykos.com?via=topbar" class="elections vertical">ELECTIONS</a></li>
 </ul>
 <form action="/search" method="get" id="search-form">
 	<div>
 	<label for="search-term" class="move">Search Term</label>
 	<input type="text" name="text" value="Search" id="search-term" onfocus="doDefaultFocus(this);" onblur="doDefaultBlur(this);">
-	<input type="image" src="http://images1.dailykos.com/i/header/nav/button-go.gif" value="0" name="submit" id="search-submit">
+	
+	<input type="hidden" name="time_begin" value="11/29/2011">
+	<input type="hidden" name="time_end" value="now">
+	<input type="hidden" name="text_type" value="any">
+	<input type="hidden" name="text_expand" value="contains">
+	<input type="hidden" name="search_type" value="search_stories">
+	<input type="hidden" name="time_type" value="time_published">
+	<input type="image" src="http://images2.dailykos.com/i/header/nav/button-go.gif" value="1" name="submit" id="search-submit">
 	</div>
 </form>
 </div>    
@@ -257,11 +264,13 @@ GA_googleFillSlot("728X90_DK4_Story_Leaderboard");
 
   <div id="sub-med-ad">
 	<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT DK_FP_BTF_300x250 -->
+	<div style="width: 300px; margin: 0 auto; position: relative;">
 	<script type="text/javascript">
 	
 	  GA_googleFillSlot("300x250_DK_Story_ATF");
 	
 	</script>
+	</div>
 	<!-- END OF TAG FOR SLOT DK_FP_BTF_300x250 -->
   </div>
 
@@ -273,104 +282,161 @@ GA_googleFillSlot("728X90_DK4_Story_Leaderboard");
 
 
 	
-<div class="featured-articles collapsable-panel ajax-paged">
+<div id="most-popular_div" class="featured-articles collapsable-panel ajax-paged">
 <a class="collapsor" href="#"><h2 class="tight" id="most-popular">Recommended</h2></a>
 <ul class="articles ajax-paged-content">
 
 	
-		<li><a class="title" href="/story/2011/06/22/987708/-Dear-Georgia-FarmersUs-Dirty-Hippies-Were-Right,-and-You-Got-Just-What-You-Deserved?via=siderec">Dear Georgia Farmers -- Us Dirty Hippies Were Right, and You Got Just What You Deserved</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/slippytoad" class="author">slippytoad</a></span> 
-		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987708/-Dear-Georgia-FarmersUs-Dirty-Hippies-Were-Right,-and-You-Got-Just-What-You-Deserved?via=siderec#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;404 comments</a></span>
-			<span class="recs">458&nbsp;Recs</span>
-		</span>
-		</li>
-	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987447/-Bernie-Sanders-and-Al-Franken-CLOWN-Rand-Paul?via=siderec">Bernie Sanders and Al Franken CLOWN Rand Paul</a>
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042648/-Fear-and-loathing-in-the-Wealthiest-1?via=siderec">Fear and loathing in the Wealthiest 1%</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">The corrupt fear us.
+
+They corrupt Oligarchy fears a winning message that paints them for what they are.
+
+They fear the idea that taxing the rich is an overwhelmingly popular. Even Republicans ...</div>
 		<span class="byline"><span class="by">by</span> <a href="/user/MinistryOfTruth" class="author">MinistryOfTruth</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987447/-Bernie-Sanders-and-Al-Franken-CLOWN-Rand-Paul?via=siderec#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;236 comments</a></span>
-			<span class="recs">398&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042648/-Fear-and-loathing-in-the-Wealthiest-1?via=siderec#comments" class="comment-count">
+			    71 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;129&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987035/-LGBT-Kos:-I-Outed-my-Gay-Son?via=siderec">LGBT Kos: I Outed my Gay Son</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/john07801" class="author">john07801</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042689/-I-Dont-Have-Anything-More-To-Lose-Tomorrow-The-Occupy-Movement-Comes-Home?via=siderec">"I Don't Have Anything More To Lose." Tomorrow The Occupy Movement Comes Home.</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Leave it to Rachel:</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/jpmassar" class="author">jpmassar</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987035/-LGBT-Kos:-I-Outed-my-Gay-Son?via=siderec#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;29 comments</a></span>
-			<span class="recs">123&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042689/-I-Dont-Have-Anything-More-To-Lose-Tomorrow-The-Occupy-Movement-Comes-Home?via=siderec#comments" class="comment-count">
+			    42 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;131&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987601/-This-Is-Why-I-Give-Nothing-to-the-DNC?via=siderec">This Is Why I Give Nothing to the DNC</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/Giles Goat Boy" class="author">Giles Goat Boy</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042696/-Fox-News-Straight-Reporting-Lies-Flat-Out-LIES?via=siderec">Fox News "Straight" Reporting Lies. Flat Out LIES</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">I'm not sure if anyone has caught this yet, but Fox's "straight" news flat-out lied about President Obama today. It came during "Special Report." 
+
+No surprise there, eh?</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Dr Jeff Gilooly" class="author">Dr Jeff Gilooly</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987601/-This-Is-Why-I-Give-Nothing-to-the-DNC?via=siderec#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;238 comments</a></span>
-			<span class="recs">404&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042696/-Fox-News-Straight-Reporting-Lies-Flat-Out-LIES?via=siderec#comments" class="comment-count">
+			    34 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;98&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987592/-NN11-Photo-Diary?via=siderec">NN11 Photo Diary</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/Julie Gulden" class="author">Julie Gulden</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/05/1042660/-Updated:Occupy-Melbourne:Police-Take-Wearable-Tent-Leave-Near-Naked-Battered-Woman-Weeping-on-Grass?via=siderec">Updated:Occupy Melbourne:Police Take Wearable Tent Leave Near Naked Battered Woman Weeping on Grass</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br"></div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Horace Boothroyd III" class="author">Horace Boothroyd III</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987592/-NN11-Photo-Diary?via=siderec#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;45 comments</a></span>
-			<span class="recs">41&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/05/1042660/-Updated:Occupy-Melbourne:Police-Take-Wearable-Tent-Leave-Near-Naked-Battered-Woman-Weeping-on-Grass?via=siderec#comments" class="comment-count">
+			    104 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;186&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987824/-On-heterosexual-privilege?via=siderec">On heterosexual privilege</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/musing85" class="author">musing85</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042600/-Forced-birther-Trent-Franks-enlists-two-19th-Century-icons-for-yet-another-assault-on-free-choice?via=siderec">Forced birther Trent Franks enlists two 19th Century icons for yet another assault on free choice</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Rep. Trent Franks of Arizona For a ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Meteor Blades" class="author">Meteor Blades</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987824/-On-heterosexual-privilege?via=siderec#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;109 comments</a></span>
-			<span class="recs">55&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042600/-Forced-birther-Trent-Franks-enlists-two-19th-Century-icons-for-yet-another-assault-on-free-choice?via=siderec#comments" class="comment-count">
+			    27 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;39&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987821/-Congressman-McGoverns-response-to-President-Obamas-troop-drawdown-announcement?via=siderec">Congressman McGovern's response to President Obama's troop drawdown announcement</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/Rep Jim McGovern" class="author">Rep Jim McGovern</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/05/1042574/-Successful-adult-takesand-bombs10th-grade-standardized-test?via=siderec">Successful adult takes—and bombs—10th grade standardized test</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br"> 
+
+Recently I went ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Laura Clawson" class="author">Laura Clawson</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987821/-Congressman-McGoverns-response-to-President-Obamas-troop-drawdown-announcement?via=siderec#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;74 comments</a></span>
-			<span class="recs">62&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/05/1042574/-Successful-adult-takesand-bombs10th-grade-standardized-test?via=siderec#comments" class="comment-count">
+			    286 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;356&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/21/987453/-Tea-Partier-Punches-WI-Solidarity-Singer-in-the-Face-(Updated)?via=siderec">Tea Partier Punches WI Solidarity Singer in the Face (Updated)</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/AnnieJo" class="author">AnnieJo</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042708/-Corporate-Greed-20:-PayPal-Shuts-Down-Regretsys-Attempt-to-Donate-to-Needy-Children?via=siderec">Corporate Greed 2.0: PayPal Shuts Down Regretsy's Attempt to Donate to Needy Children</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">For those unfamiliar, Regretsy is primarily a humor site for people to post about ridiculous and bizarre items for sale on the craft ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/DaMadFiddler" class="author">DaMadFiddler</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/21/987453/-Tea-Partier-Punches-WI-Solidarity-Singer-in-the-Face-(Updated)?via=siderec#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;255 comments</a></span>
-			<span class="recs">512&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042708/-Corporate-Greed-20:-PayPal-Shuts-Down-Regretsys-Attempt-to-Donate-to-Needy-Children?via=siderec#comments" class="comment-count">
+			    44 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;88&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987619/-Tenn-Factory-Worker-Tells-Truth-About-Outsourcing?via=siderec">Tenn. Factory Worker Tells Truth About Outsourcing</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/The Electrical Worker" class="author">The Electrical Worker</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/05/1042647/-Photos-from-the-Farmers-March-on-Wall-Street?via=siderec">Photos from the Farmer's March on Wall Street</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">On December 4th there was a food policy protest in Manhattan. The farmers joining Occupy Wall Street was a co-production of Occupy Wall Street's food justice committee ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Eddie C" class="author">Eddie C</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987619/-Tenn-Factory-Worker-Tells-Truth-About-Outsourcing?via=siderec#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;133 comments</a></span>
-			<span class="recs">257&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/05/1042647/-Photos-from-the-Farmers-March-on-Wall-Street?via=siderec#comments" class="comment-count">
+			    53 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;199&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987847/-FukushimaNo-fix-in-sight-for-radioactive-water-overflowROV-#60?via=siderec">Fukushima - No fix in sight for radioactive water overflow - ROV #60</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/peraspera" class="author">peraspera</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/05/1042444/-The-Most-Important-News-Story-of-the-Day-Millennium-?via=siderec">The Most Important News Story of the Day/Millennium   </a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">The most important piece of news yesterday, this week, this month, and this year was a new set of statistics released yesterday by the Global Carbon Project. It showed that carbon emissions from our ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Bill McKibben" class="author">Bill McKibben</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987847/-FukushimaNo-fix-in-sight-for-radioactive-water-overflowROV-#60?via=siderec#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;5 comments</a></span>
-			<span class="recs">25&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/05/1042444/-The-Most-Important-News-Story-of-the-Day-Millennium-?via=siderec#comments" class="comment-count">
+			    327 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;486&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987528/-IGTNTOn-Fathers-Day?via=siderec">IGTNT - On Father's Day</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/SisTwo" class="author">SisTwo</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/05/1042441/-Why-almost-everyone,-right-and-left,-should-want-to-see-Gingrich-nominated?via=siderec">Why almost everyone, right and left, should want to see Gingrich nominated</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">In a sarcastic world it is sometimes hard to signal when one is being completely forthright, but I mean this at face value: almost everyone, right and left, should want to see Newt Gingrich get the ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Seneca Doane" class="author">Seneca Doane</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987528/-IGTNTOn-Fathers-Day?via=siderec#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;47 comments</a></span>
-			<span class="recs">47&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/05/1042441/-Why-almost-everyone,-right-and-left,-should-want-to-see-Gingrich-nominated?via=siderec#comments" class="comment-count">
+			    341 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;370&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987590/--UPDATED:-Major-lawsuit-attacks-Michigans-Financial-Martial-Law-Act-as-unconstitutional?via=siderec"> UPDATED: Major lawsuit attacks Michigan's Financial Martial Law Act as unconstitutional</a>
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/05/1042528/-Recalled-Sen-Pearce-outspent-opponent-3:1,-and-wingers-STILL-want-more?via=siderec">Recalled Sen. Pearce outspent opponent 3:1, and wingers STILL want more.</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">He is now former (it's so nice to write that) Arizona Senator Russell Pearce, after having lost the November 8 recall election in District 18 to Republican challenger Jerry Lewis, a ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Mother Mags" class="author">Mother Mags</a></span> 
+		<span class="stats">
+			<span class="comments">
+			  <a href="/story/2011/12/05/1042528/-Recalled-Sen-Pearce-outspent-opponent-3:1,-and-wingers-STILL-want-more?via=siderec#comments" class="comment-count">
+			    27 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;120&nbsp;Recs</span>
+		</span>
+		</li>
+	
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042740/-Michigan-Governor-Rick-Snyders-poll-numbers-sinking-like-a-rock?via=siderec">Michigan Governor Rick Snyder's poll numbers sinking like a rock</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Today we get some unsurprising news: Michigan Governor Rick Snyder's poll numbers are crashing .
+&nbsp;</div>
 		<span class="byline"><span class="by">by</span> <a href="/user/Eclectablog" class="author">Eclectablog</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987590/--UPDATED:-Major-lawsuit-attacks-Michigans-Financial-Martial-Law-Act-as-unconstitutional?via=siderec#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;97 comments</a></span>
-			<span class="recs">300&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042740/-Michigan-Governor-Rick-Snyders-poll-numbers-sinking-like-a-rock?via=siderec#comments" class="comment-count">
+			    14 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;32&nbsp;Recs</span>
 		</span>
 		</li>
 	
@@ -385,57 +451,58 @@ GA_googleFillSlot("728X90_DK4_Story_Leaderboard");
 </div>
 
 
-                <p style="height: 10px"></p>
+<div style="width: 300px; margin: 0px auto 20px auto; position: relative;">
 <script type="text/javascript">
 GA_googleFillSlot("300x250_DK_Story_BTF_Right");
 </script>
+</div>
         
 	
 	
-<div class="featured-articles collapsable-panel ajax-paged">
+<div id="tag-list_div" class="featured-articles collapsable-panel ajax-paged">
 <a class="collapsor" href="#"><h2 class="tight" id="tag-list">Hot Tags</h2></a>
 <ul class="articles ajax-paged-content">
 
 	
-		<li><a class="title" href="/news/Recommended">Recommended (151)</a></li>
+		<li><a class="title" href="/news/Recommended">Recommended (112)</a></li>
 	
-		<li class="alt"><a class="title" href="/news/community">community (76)</a></li>
+		<li class="alt"><a class="title" href="/news/community">community (65)</a></li>
 	
-		<li><a class="title" href="/news/Environment">Environment (53)</a></li>
+		<li><a class="title" href="/news/Occupy Wall Street">Occupy Wall Street (59)</a></li>
 	
-		<li class="alt"><a class="title" href="/news/Economy">Economy (52)</a></li>
+		<li class="alt"><a class="title" href="/news/ows">ows (50)</a></li>
 	
-		<li><a class="title" href="/news/Civil Rights">Civil Rights (47)</a></li>
+		<li><a class="title" href="/news/Newt Gingrich">Newt Gingrich (41)</a></li>
 	
-		<li class="alt"><a class="title" href="/news/Rescued">Rescued (38)</a></li>
+		<li class="alt"><a class="title" href="/news/Economy">Economy (38)</a></li>
 	
-		<li><a class="title" href="/news/Elections">Elections (34)</a></li>
+		<li><a class="title" href="/news/Elections">Elections (31)</a></li>
 	
-		<li class="alt"><a class="title" href="/news/Congress">Congress (31)</a></li>
+		<li class="alt"><a class="title" href="/news/Education">Education (28)</a></li>
 	
-		<li><a class="title" href="/news/war">war (31)</a></li>
+		<li><a class="title" href="/news/Republicans">Republicans (25)</a></li>
 	
-		<li class="alt"><a class="title" href="/news/Culture">Culture (30)</a></li>
+		<li class="alt"><a class="title" href="/news/Labor">Labor (24)</a></li>
 	
-		<li><a class="title" href="/news/Netroots Nation">Netroots Nation (29)</a></li>
+		<li><a class="title" href="/news/Environment">Environment (24)</a></li>
 	
-		<li class="alt"><a class="title" href="/news/Republicans">Republicans (28)</a></li>
+		<li class="alt"><a class="title" href="/news/Rescued">Rescued (23)</a></li>
 	
-		<li><a class="title" href="/news/Barack Obama">Barack Obama (28)</a></li>
+		<li><a class="title" href="/news/Culture">Culture (23)</a></li>
 	
-		<li class="alt"><a class="title" href="/news/LGBT">LGBT (27)</a></li>
+		<li class="alt"><a class="title" href="/news/Congress">Congress (22)</a></li>
 	
-		<li><a class="title" href="/news/Labor">Labor (27)</a></li>
+		<li><a class="title" href="/news/Mitt Romney">Mitt Romney (20)</a></li>
 	
-		<li class="alt"><a class="title" href="/news/NN11">NN11 (27)</a></li>
+		<li class="alt"><a class="title" href="/news/politics">politics (19)</a></li>
 	
-		<li><a class="title" href="/news/Afghanistan">Afghanistan (26)</a></li>
+		<li><a class="title" href="/news/Civil Rights">Civil Rights (18)</a></li>
 	
-		<li class="alt"><a class="title" href="/news/Education">Education (26)</a></li>
+		<li class="alt"><a class="title" href="/news/Herman Cain">Herman Cain (17)</a></li>
 	
-		<li><a class="title" href="/news/Law">Law (25)</a></li>
+		<li><a class="title" href="/news/Obama">Obama (17)</a></li>
 	
-		<li class="alt"><a class="title" href="/news/politics">politics (24)</a></li>
+		<li class="alt"><a class="title" href="/news/GOP">GOP (16)</a></li>
 	
 
 </ul>
@@ -448,168 +515,269 @@ GA_googleFillSlot("300x250_DK_Story_BTF_Right");
 </div>
 
 	
-<div class="featured-articles collapsable-panel ajax-paged">
+<div id="most-recent-short_div" class="featured-articles collapsable-panel ajax-paged">
 <a class="collapsor" href="#"><h2 class="tight" id="most-recent-short">Recent Diaries</h2></a>
 <ul class="articles ajax-paged-content">
 
 	
-		<li><a class="title" href="/story/2011/06/22/987862/-Odds-are-farmers-dont-approve-of-anti-immigrant-bills?via=sidebar">Odds are farmers don't approve of anti-immigrant bills</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/member of the msm" class="author">member of the msm</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042744/-Breaking-USATodaycom-Report:-Obamacare-is-Definitely-Working?via=sidebar">Breaking USAToday.com Report: "Obamacare" is Definitely Working</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">What follows is just a quick diary to share a “positive” story about Obamacare. 
+ 
+We have heard more false rhetoric on this policy than just about any law I can remember in a long time.  ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/joelgp" class="author">joelgp</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987862/-Odds-are-farmers-dont-approve-of-anti-immigrant-bills?via=sidebar#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;3 comments</a></span>
-			<span class="recs">0&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042744/-Breaking-USATodaycom-Report:-Obamacare-is-Definitely-Working?via=sidebar#comments" class="comment-count">
+			    1 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;1&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987856/-Today-in-the-Death-Penalty?via=sidebar">Today in the Death Penalty</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/Steve Hall" class="author">Steve Hall</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042762/-Tax-inequity-in-the-United-States-Part-3-of-interview-of-Susan-Bysiewicz-by-the-Barefoot-Accountant?via=sidebar">Tax inequity in the United States? Part 3 of interview of Susan Bysiewicz by the Barefoot Accountant</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br"></div>
+		<span class="byline"><span class="by">by</span> <a href="/user/barefootaccountant" class="author">barefootaccountant</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987856/-Today-in-the-Death-Penalty?via=sidebar#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;1 comments</a></span>
-			<span class="recs">2&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042762/-Tax-inequity-in-the-United-States-Part-3-of-interview-of-Susan-Bysiewicz-by-the-Barefoot-Accountant?via=sidebar#comments" class="comment-count">
+			    1 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;0&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987643/-Todays-GOP:-Enemies-of-the-American-Economy?via=sidebar">Today's GOP: Enemies of the American Economy</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/Vyan" class="author">Vyan</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042766/-A-Gift-Of-Conscience?via=sidebar">A Gift Of Conscience</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Give a goat or a garden or a teacher this year.</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/stevenb" class="author">stevenb</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987643/-Todays-GOP:-Enemies-of-the-American-Economy?via=sidebar#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;8 comments</a></span>
-			<span class="recs">5&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042766/-A-Gift-Of-Conscience?via=sidebar#comments" class="comment-count">
+			    1 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;1&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987854/-Deregulation-DOES-Create-Jobs!?via=sidebar">Deregulation DOES Create Jobs!</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/GammaRae" class="author">GammaRae</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042758/-cold-morning?via=sidebar">cold morning</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+
+☼</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/blueyedace2" class="author">blueyedace2</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987854/-Deregulation-DOES-Create-Jobs!?via=sidebar#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;3 comments</a></span>
-			<span class="recs">1&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042758/-cold-morning?via=sidebar#comments" class="comment-count">
+			    5 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;6&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987846/-The-Daily-Show-Colbert-Report-Chat-thread-062211?via=sidebar">The Daily Show/Colbert Report Chat thread 06.22.11</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/TiaRachel" class="author">TiaRachel</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042346/-J-Town:-Got-Post-December-6,-2011?via=sidebar">J Town: Got Post? December  6, 2011</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Welcome to J Town : a friendly little place in the big bad blogosphere. 
+
+A place to hang out, promote posts, check on the weather (and brag about yours!) and waste spend ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/JanF" class="author">JanF</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987846/-The-Daily-Show-Colbert-Report-Chat-thread-062211?via=sidebar#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;36 comments</a></span>
-			<span class="recs">8&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042346/-J-Town:-Got-Post-December-6,-2011?via=sidebar#comments" class="comment-count">
+			    10 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;7&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987855/-Government-Buys-out-Quake-homes?via=sidebar">Government Buys out Quake homes</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/GlowNZ" class="author">GlowNZ</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042662/-Virginia-7-3-1-Dem-fantasymander?via=sidebar">Virginia 7-3-1 Dem fantasymander</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">This diary is a theoretical look at the limits of what Democrats could do if they gerrymandered Virginia.  Since nearly all of Virginia is covered by Section 5 of the VRA, things were a little ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/sawolf" class="author">sawolf</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987855/-Government-Buys-out-Quake-homes?via=sidebar#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;1 comments</a></span>
-			<span class="recs">2&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042662/-Virginia-7-3-1-Dem-fantasymander?via=sidebar#comments" class="comment-count">
+			    1 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;0&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987857/-Its-alright-to-be-conservative-and-care-about-the-planet?via=sidebar">It's alright to be conservative and care about the planet</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/EarthDayNetwork" class="author">EarthDayNetwork</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042756/-Why-Music-and-the-Fine-Arts-are-Essential-Courses-of-Study-in-Public-Schools?via=sidebar">Why Music and the Fine Arts are Essential Courses of Study in Public Schools</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Even more than "accumulating knowledge", education is about teaching students to THINK... about honing the ability for abstract thought.&nbsp;
+
+Problem solving is more than regurgitating formulae and ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Sandy Berman" class="author">Sandy Berman</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987857/-Its-alright-to-be-conservative-and-care-about-the-planet?via=sidebar#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;2 comments</a></span>
-			<span class="recs">1&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042756/-Why-Music-and-the-Fine-Arts-are-Essential-Courses-of-Study-in-Public-Schools?via=sidebar#comments" class="comment-count">
+			    7 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;4&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987853/-Please-debunk:-Huma-linked-to-Muslim-Brotherhood-by-nutcase?via=sidebar">Please debunk: Huma linked to Muslim Brotherhood by nutcase</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/pravin" class="author">pravin</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042760/-High-Impact-Posts:-December-5,-2011?via=sidebar">High Impact Posts: December 5, 2011</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">
+Welcome to grandroart (user_id 326822) who registered at 2011-12-06 04:41:57 EST,</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/jotter" class="author">jotter</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987853/-Please-debunk:-Huma-linked-to-Muslim-Brotherhood-by-nutcase?via=sidebar#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;5 comments</a></span>
-			<span class="recs">1&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042760/-High-Impact-Posts:-December-5,-2011?via=sidebar#comments" class="comment-count">
+			    4 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;6&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987843/-left-on-the-cutting-room-floor-–-stewart-and-wallace-interview?via=sidebar">left on the cutting room floor – stewart and wallace interview</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/frouglas" class="author">frouglas</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042757/-Michael-Klare:-A-New-Cold-War-in-Asia?via=sidebar">Michael Klare: A New Cold War in Asia?</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">This story originally appeared at TomDispatch.com.
+To receive TomDispatch in your inbox three times a week,</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/TomDispatch" class="author">TomDispatch</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987843/-left-on-the-cutting-room-floor-–-stewart-and-wallace-interview?via=sidebar#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;1 comments</a></span>
-			<span class="recs">3&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042757/-Michael-Klare:-A-New-Cold-War-in-Asia?via=sidebar#comments" class="comment-count">
+			    1 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;0&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987851/-Breakthrough:-New-Flow-Battery-Design-Provides-10-Fold-Improvement?via=sidebar">Breakthrough: New Flow-Battery Design Provides 10-Fold Improvement</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/The Anomaly" class="author">The Anomaly</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042752/-Postal-Service-to-cut-28,000-jobs-and-slow-mail-delivery?via=sidebar">Postal Service to cut 28,000 jobs and slow mail delivery</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br"></div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Laura Clawson" class="author">Laura Clawson</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987851/-Breakthrough:-New-Flow-Battery-Design-Provides-10-Fold-Improvement?via=sidebar#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;6 comments</a></span>
-			<span class="recs">18&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042752/-Postal-Service-to-cut-28,000-jobs-and-slow-mail-delivery?via=sidebar#comments" class="comment-count">
+			    9 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;7&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987849/-The-safety-Net-is-unraveling-?via=sidebar">The safety Net is unraveling </a>
-		<span class="byline"><span class="by">by</span> <a href="/user/shenandoah blue" class="author">shenandoah blue</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042754/-Nominations-for-Job-Creator-of-the-Month?via=sidebar">Nominations for Job Creator of the Month</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br"></div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Zina Saunders" class="author">Zina Saunders</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987849/-The-safety-Net-is-unraveling-?via=sidebar#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;3 comments</a></span>
-			<span class="recs">3&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042754/-Nominations-for-Job-Creator-of-the-Month?via=sidebar#comments" class="comment-count">
+			    3 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;1&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987845/-Brazilian-minister:-Money-for-the-poor-is-an-investment?via=sidebar">Brazilian minister: Money for the poor is an "investment."</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/SLKRR" class="author">SLKRR</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042601/-OWS-song,-lyrics-looking-for-music?via=sidebar">OWS song, lyrics looking for music</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">I woke up on the Phil Ochs side of the bed.
+
+The rich guys always get the breaks
+  Whenever laws are bent
+The rest of us get pepper spray
+  For showing our dissent
+If you say laws must be obeyed,</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Liberal Capitalist" class="author">Liberal Capitalist</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987845/-Brazilian-minister:-Money-for-the-poor-is-an-investment?via=sidebar#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;2 comments</a></span>
-			<span class="recs">2&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042601/-OWS-song,-lyrics-looking-for-music?via=sidebar#comments" class="comment-count">
+			    1 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;0&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987847/-FukushimaNo-fix-in-sight-for-radioactive-water-overflowROV-#60?via=sidebar">Fukushima - No fix in sight for radioactive water overflow - ROV #60</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/peraspera" class="author">peraspera</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042705/-Occupy-Wall-Street:Corroborative-Film-Project?via=sidebar">Occupy Wall Street:Corroborative Film Project</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br"></div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Horace Boothroyd III" class="author">Horace Boothroyd III</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987847/-FukushimaNo-fix-in-sight-for-radioactive-water-overflowROV-#60?via=sidebar#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;5 comments</a></span>
-			<span class="recs">25&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042705/-Occupy-Wall-Street:Corroborative-Film-Project?via=sidebar#comments" class="comment-count">
+			    3 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;4&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987592/-NN11-Photo-Diary?via=sidebar">NN11 Photo Diary</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/Julie Gulden" class="author">Julie Gulden</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042690/-It’s-time-to-show-Congress-the-voters-mean-business?via=sidebar">It’s time to show Congress the voters mean business</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">There are so many failures by Congress in the last few years that one needs a scoreboard to keep the record straight.  According to Kathleen Hennessey ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/NastyJack" class="author">NastyJack</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987592/-NN11-Photo-Diary?via=sidebar#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;45 comments</a></span>
-			<span class="recs">41&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042690/-It’s-time-to-show-Congress-the-voters-mean-business?via=sidebar#comments" class="comment-count">
+			    7 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;4&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987514/-Top-Comments:-Strawberry-Cream-Cake-Edition?via=sidebar">Top Comments: Strawberry Cream Cake Edition</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/asimbagirl" class="author">asimbagirl</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1041768/-Tax-Reform-and-the-Tax-Treatment-of-Financial-Products?via=sidebar">Tax Reform and the Tax Treatment of Financial Products</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Comments for the Record
+United States Senate Committee on Finance
+United States House Committee on Ways and Means
+Tax Reform and the Tax Treatment of Financial Products
+
+Tuesday, ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Michael Bindner" class="author">Michael Bindner</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987514/-Top-Comments:-Strawberry-Cream-Cake-Edition?via=sidebar#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;35 comments</a></span>
-			<span class="recs">25&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1041768/-Tax-Reform-and-the-Tax-Treatment-of-Financial-Products?via=sidebar#comments" class="comment-count">
+			    1 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;0&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987834/-Afghanistan:-Accept-Good,-Push-for-Better?via=sidebar">Afghanistan: Accept Good, Push for Better</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/Stephen Daugherty" class="author">Stephen Daugherty</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042748/-The-Orderlies-Need-To-Claim-Gingrich-As-Their-Own?via=sidebar">The Orderlies Need To Claim Gingrich As Their Own</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Last week I suggested that Newt Gingrich’s greatest competitive advantage is that he can appeal to both wings of the Republican Party:</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/swellsman" class="author">swellsman</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987834/-Afghanistan:-Accept-Good,-Push-for-Better?via=sidebar#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;6 comments</a></span>
-			<span class="recs">4&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042748/-The-Orderlies-Need-To-Claim-Gingrich-As-Their-Own?via=sidebar#comments" class="comment-count">
+			    5 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;4&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987839/-Biking-is-Awesome?via=sidebar">Biking is Awesome</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/zenospinoza" class="author">zenospinoza</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042750/-Romney-administration-spent-$100,000-in-public-funds-to-purge-email-records?via=sidebar">Romney administration spent $100,000 in public funds to purge email records</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Mitt ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Jed Lewison" class="author">Jed Lewison</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987839/-Biking-is-Awesome?via=sidebar#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;4 comments</a></span>
-			<span class="recs">3&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042750/-Romney-administration-spent-$100,000-in-public-funds-to-purge-email-records?via=sidebar#comments" class="comment-count">
+			    9 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;10&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987330/-He-Just-Keeps-On-Doing-What-He-Said-He-Would-Afghanistan-Thank-You,-Mr-President!?via=sidebar">He Just Keeps On Doing What He Said He Would. Afghanistan. Thank You, Mr. President!</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/ThisIsMyTime" class="author">ThisIsMyTime</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042736/-The-Grief-of-Dreams-RSVP-to-President-Obama?via=sidebar">The Grief of Dreams - RSVP to President Obama</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">The grief of dreams echos through bones, veins, and heart. Sighs fall soundless, like grey December rain outside the window. There's been too many losses, far too many wounds to the spirit. The ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Onomastic" class="author">Onomastic</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987330/-He-Just-Keeps-On-Doing-What-He-Said-He-Would-Afghanistan-Thank-You,-Mr-President!?via=sidebar#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;111 comments</a></span>
-			<span class="recs">28&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042736/-The-Grief-of-Dreams-RSVP-to-President-Obama?via=sidebar#comments" class="comment-count">
+			    3 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;7&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li><a class="title" href="/story/2011/06/22/987565/-Wisconsin-by-Riding?via=sidebar">Wisconsin by Riding</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/BeloitDem" class="author">BeloitDem</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042753/-Erik-Paulsen,-MN-03:-Homophobic,-or-Anti-Regulation?via=sidebar">Erik Paulsen, MN-03: Homophobic, or Anti-Regulation?</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">Of course, "both" is possible...  Let's look at a recent tweet sent by Minnesota Public Radio reporter Tom Scheck :</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/TwoPuttTommy" class="author">TwoPuttTommy</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987565/-Wisconsin-by-Riding?via=sidebar#comments" class="comment-count"><img src="http://images2.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;8 comments</a></span>
-			<span class="recs">2&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042753/-Erik-Paulsen,-MN-03:-Homophobic,-or-Anti-Regulation?via=sidebar#comments" class="comment-count">
+			    1 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;0&nbsp;Recs</span>
 		</span>
 		</li>
 	
-		<li class="alt"><a class="title" href="/story/2011/06/22/987838/-Links-from-Social-Security-Works?via=sidebar">Links from Social Security Works</a>
-		<span class="byline"><span class="by">by</span> <a href="/user/Bruce Webb" class="author">Bruce Webb</a></span> 
+		<li class="clearfix"> <div class="hasTooltip"><a class="title" href="/story/2011/12/06/1042459/-OWS-Crystal-Ball-Scenarios?via=sidebar">OWS Crystal Ball Scenarios</a></div><div class="tooltipContents qtip-style-dk4_large qtip-pos-br">I would like to examine some scenarios for the future of Occupy Wall Street, both in terms of its accomplishments and how threatened elites may respond.  For each scenario discussed below, I ...</div>
+		<span class="byline"><span class="by">by</span> <a href="/user/Troubadour" class="author">Troubadour</a></span> 
 		<span class="stats">
-			<span class="comments"><a href="/story/2011/06/22/987838/-Links-from-Social-Security-Works?via=sidebar#comments" class="comment-count"><img src="http://images1.dailykos.com/i/icon-comments.gif" alt="Comment Count">&nbsp;1 comments</a></span>
-			<span class="recs">2&nbsp;Recs</span>
+			<span class="comments">
+			  <a href="/story/2011/12/06/1042459/-OWS-Crystal-Ball-Scenarios?via=sidebar#comments" class="comment-count">
+			    1 comments
+			  </a>
+			</span>
+			<span class="recs">&nbsp;1&nbsp;Recs</span>
 		</span>
 		</li>
 	
@@ -687,6 +855,7 @@ GA_googleFillSlot("300x250_DK_Story_BTF_Right");
         <p><strong>© Kos Media, LLC</strong> Site content may be used for any purpose without explicit permission unless otherwise specified</p>
         <p>“Kos” and “Daily Kos” are registered trademarks of Kos Media, LLC</p>
         <p><a href="/special/privacy">Privacy Policy</a></p>
+        <p id="sitemeter-container"><a href="http://sm8.sitemeter.com/stats.asp?site=sm8dailykos" target="_top"><img src="http://sm8.sitemeter.com/meter.asp?site=sm8dailykos" alt="Site Meter" border="0"></a></p>
       </div>      
       <div id="nav-footer">
         <ul>
@@ -744,7 +913,7 @@ GA_googleFillSlot("300x250_DK_Story_BTF_Right");
 	<!-- <script src="https://www.google.com/jsapi?key=ABQIAAAAJSSc0UDn-DPmAGTPsJgsxxQ_dDAjRQ0Rab5Jbkgn1xY6vdZysBRN7laBUGz651Zyl9lgP3ZAQA4D0A" type="text/javascript"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js"></script> -->
-	<script type="text/javascript" src="/j/unified-nolib.js?rev=32"></script>
+	<script type="text/javascript" src="/j/unified-nolib.js?rev=3d"></script>
 
 
 
@@ -760,7 +929,7 @@ GA_googleFillSlot("300x250_DK_Story_BTF_Right");
 		$('#popup-user_login').dialog({
 			autoOpen: false,
 			width: 500,
-			position: ['right',140],
+			position: [$(window).width()/2 - 345, $("#pageWrapper").offset()["top"] + 15],
 			close: App.onAjaxPopupClose,
 			buttons: {
 				"Login" : App.onAjaxPopupSubmit,
@@ -772,6 +941,8 @@ GA_googleFillSlot("300x250_DK_Story_BTF_Right");
 
 
 
+
+
 <!-- sharing js -->
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">
@@ -779,35 +950,11 @@ stLight.options({
    publisher:'7a690d02-6a6d-438c-9e8e-2ab88a300217'
 });
 </script>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
 
 
-<script type="text/javascript" src="/j/cc_get_cookie.js"></script> 
-<script type="text/javascript" src="/j/jquery.simplemodal.js"></script>
-<link rel="stylesheet" href="/c/modal.css" type="text/css" media="screen"> 
-<link rel="stylesheet" href="/c/signup.css" type="text/css" media="screen"> 
-<script type="text/javascript">
-    // comment out the next line to actually use the COOKIE to determine whether to pop up the dialog
-    //var popUpTesting = 'true';  
-    var popUpTesting = 'false';
-    var cookieName = '__vwdsgnup_OLC';
 
-	function SetDK4Cookie(cookieName,cookieValue,nDays) {
-	   var today = new Date();
-	   var expire = new Date();
-	   if (nDays==null || nDays==0) nDays=1;
-	   expire.setTime(today.getTime() + 3600000*24*nDays );
-	   document.cookie = cookieName+"="+escape(cookieValue)
-	                 + ';domain=.dailykos.com;;path=/;expires='+expire.toGMTString();
-	}	
-	
-	jQuery(function ($) {
-        if (cc_Get_Cookie(cookieName) != "true" || popUpTesting == 'true') {
-   			 SetDK4Cookie(cookieName,"true", 999);
-		     $('<div></div>').load('/signup-olc.html').modal( {position: ["10px"] , overlayClose: true } ); 	
-         }
-	});
 
-</script>
 
 
 
@@ -831,8 +978,7 @@ var _sf_async_config={uid:2709,domain:"dailykos.com"};
 
 </script>
 
-<div>
-<p><a href="http://sm8.sitemeter.com/stats.asp?site=sm8dailykos" target="_top"><img src="http://sm8.sitemeter.com/meter.asp?site=sm8dailykos" alt="Site Meter" border="0"></a>
+<div style="background: #f4f4f4">
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qacct="p-94z2SIg8PaHLI";quantserve();</script><noscript><a href="http://www.quantcast.com/p-94z2SIg8PaHLI" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-94z2SIg8PaHLI.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
 
 
@@ -857,7 +1003,14 @@ var _sf_async_config={uid:2709,domain:"dailykos.com"};
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=7520149&c3=&c4=&c5=&c6=&c15=&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
-</p></div>
+
+
+  <!-- start Optimily -->
+    <script src="//cdn.optimizely.com/js/10735605.js"></script>
+    <!-- end Optimily -->
+</div>
+
+
 
 
 
