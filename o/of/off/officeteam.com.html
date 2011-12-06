@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the officeteam.com privacy policy that was archived on 2011-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110531132616id_/http%3A//www.officeteam.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the officeteam.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206103132id_/http%3A//www.officeteam.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
  <title>
@@ -30,6 +30,9 @@ OfficeTeam - Privacy Policy</title>
 <script src="/External_Sites/content/Shared/scripts/slider.js" type="text/javascript"></script> 
 <script src="/External_Sites/content/Shared/scripts/scroller.js" type="text/javascript"></script> 
 <script src="/External_Sites/content/Shared/scripts/scroller_h.js" type="text/javascript"></script>
+
+<!-- i2a tracking code-->
+<script type="text/javascript" language="JavaScript" src="/External_Sites/content/Shared/Tracking/i2a.js"></script>
  
  <!--the CSSIncludesSharedStyleType contains the site specific .css and .js files for each site-->
  
@@ -523,28 +526,80 @@ North America<span id="countryanchor" font="" style="size:auto" class="anchorcla
 
 
 
+
+
+          
+
+
+
+<script language="javascript" type="text/javascript">
+     <!--
+     function getCookie(c_name)
+     {
+     	var i,x,y,ARRcookies=document.cookie.split(";");
+     	for (i=0;i<ARRcookies.length;i++)
+     	{
+     	  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+     	  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+     	  x=x.replace(/^\s+|\s+$/g,"");
+     	  if (x==c_name)
+     	    {
+     	    return unescape(y);
+     	    }
+     	  }
+     }
+     
+	 //use browser sniffing to determine if IE or Opera (ugly, but required)
+    function showTcast(tcastCookieServer) {
+     	  	
+		var ssoCookie = getCookie('ObSSOCookie');
+		var mid='';
+		tcastCookieServer = tcastCookieServer +"?OBSSO_TOKEN="+encodeURIComponent(ssoCookie);
+		tcastCookieServer = tcastCookieServer +"&PS_SSO_UID="+mid;
+		var isIE = window.ActiveXObject ? true : false;
+		if(isIE){
+			var referLink = document.createElement('a');
+			referLink.href = tcastCookieServer;
+			referLink.target='_blank';
+			document.body.appendChild(referLink);
+			referLink.click();
+		}else{
+
+			newwindow=window.open(tcastCookieServer,'_blank');
+			if (window.focus) {newwindow.focus()}
+     	}
+		return false;
+	}
+     
+     // -->
+</script>
+
+
 <div id="footerwrapper">
   <div id="footer_badges">
   <p>Join the Conversation</p>
     <ul>
       <!--<li class="first" id="FooterBadgeHeader">Connect With Us:</li>-->
-      <li class="first"><a href="http://www.facebook.com/officeteam" target="_blank"><img src="/External_Sites/content/Shared/images/facebook_16x16.gif" style="height:16px;width:16px;">&nbsp;Facebook</a></li>
-      <li class="first"><a href="http://www.linkedin.com/company/officeteam" target="_blank"><img src="/External_Sites/content/Shared/images/linkedin_16x16.gif" style="height:16px;width:16px;">&nbsp;LinkedIn</a></li>
-      <li class="first"><a href="http://twitter.com/officeteam" target="_blank"><img src="/External_Sites/content/Shared/images/twitter_16x16.gif" style="height:16px;width:16px;">&nbsp;Twitter</a></li>
-      <li class="first"><a href="http://officeteam.rhi.mediaroom.com/index.php?s=276" target="_blank"><img src="/External_Sites/content/Shared/images/rss_16x16.gif" style="height:16px;width:16px;">&nbsp;RSS Feeds</a></li>
+      <li class="first"><a href="http://www.facebook.com/officeteam" target="_blank"><img src="/External_Sites/content/Shared/images/facebook_24x24.gif" style="height:24px;width:24px;"></a></li>
+      <li class="first"><a href="http://www.linkedin.com/company/officeteam" target="_blank"><img src="/External_Sites/content/Shared/images/linkedin_24x24.gif" style="height:24px;width:24px;"></a></li>
+      <li class="first"><a href="http://twitter.com/officeteam" target="_blank"><img src="/External_Sites/content/Shared/images/twitter_24x24.gif" style="height:24px;width:24px;"></a></li>
+<li class="first"><a href="http://www.youtube.com/officeteamna" target="_blank"><img src="/External_Sites/content/Shared/images/YouTube_24x24.jpg" style="height:24px; width:24px;"></a></li>      
+      <li class="first"><a href="http://officeteam.rhi.mediaroom.com/index.php?s=276" target="_blank"><img src="/External_Sites/content/Shared/images/rss_24x24.gif" style="height:24px;width:24px;"></a></li>
     </ul>
   </div>
 	<div class="footer">
   
 	<a href="/TermsofUse">Terms of Use</a> |
 	<a href="/PrivacyPolicy">Privacy Policy</a> |
-	<a href="/FraudAlert">Fraud Alert</a> |
+    <a href="/FraudAlert">Fraud Alert</a> |
 	<a href="http://www.rhi.com/GovernmentNotice" target="_blank">Government Notice</a> |
 	<a href="/SiteMap">Site Map</a><br>
 	<!--| <a href="/FraudPrevention">Fraud Prevention</a>
 	<a href="/AccessibilityStatement">Accessibility Statement</a> |	-->
-	<a href="/OfficeLocations">Office Locations</a> |
-    <a href="/PayrollCenter">Payroll Center</a> |
+	<a href="/OfficeLocations">Office Locations</a> |      
+    
+     <a href="/PayrollCenter">Payroll Center</a> |  
+     
     <a href="/MediaRoom">Media Room</a> |
 	<a href="/Careers">Careers</a> |
 	<a href="http://www.rhi.com" target="_blank">RHI.com</a>
