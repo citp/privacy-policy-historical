@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineguide.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103122030id_/http%3A//www.searchengineguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineguide.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206134408id_/http%3A//www.searchengineguide.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for SearchEngineGuide.com
 
