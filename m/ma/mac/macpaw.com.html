@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the macpaw.com privacy policy that was archived on 2011-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110509100023id_/http%3A//www.macpaw.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macpaw.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206041227id_/http%3A//macpaw.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="english"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <base href="http://macpaw.com">
-    <title>Privacy Policy</title>
+    <title>Privacy Policy | Macpaw</title>
     <meta name="description" content="macpaw.com - ">
-    <meta name="keywords" content="macpaw, site, mac os, soft, ">
+    <meta name="keywords" content="macpaw,site,mac os,soft">
     <link rel="icon" href="/images/favicon.png" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="/css/allPages.css?ver=2">
 	<link rel="stylesheet" type="text/css" href="/css/menu.css">
@@ -21,103 +21,18 @@
 </head>
 <body>
 
-<style>
-.banner_holder { height:65px; min-width:970px; position:relative; overflow:visible; line-height:26px !important}
-.top_banner { margin:0 auto; height:60px; background:url(/images/banner/top_cmp_banner_bg.png) 0 0 repeat-x; position:relative; padding:0 20px; min-width:1130px; 
-opacity:0; 
-top:-60px; 
-box-shadow:rgba(0,0,0,0.8) 0 0 5px; -moz-box-shadow:rgba(0,0,0,0.8) 0 0 5px; -webkit-box-shadow:rgba(0,0,0,0.8) 0 0 5px;
-}
-.top_banner sub { height:60px; width:300px; background:url(/images/banner/top_cmp_banner_left.png) 0 bottom no-repeat; position:absolute; overflow:hidden; left:0; top:0;}
-.top_banner sup { height:60px; width:300px; background:url(/images/banner/top_cmp_banner_right.png) right bottom no-repeat; position:absolute; overflow:hidden; right:0; top:0;}
-.top_banner a.bb { position:relative; display:block; width:743px; left:50%; margin-left:-515px; height:60px; text-decoration:none; background:none;}
-.top_banner span {display:block; font-family:"Segoe UI", Tahoma; color:#2d2d2d; position:absolute;}
-.top_banner .close { width:17px; height:17px; cursor:pointer; background:url(/images/banner/top_cmp_banner_close.png) 0 0 no-repeat; position:absolute; left:17px; top:22px; z-index:100; opacity:0.4;}
-.top_banner .close:hover {opacity:0.8}
-.b_logo { font-size:30px; top:15px; left:5px;}
-.b_logo span { display:inline; color:#0072b6;}
-.b_company { font-size:10px; position:relative; top:2px; left:35px;}
-.b_company span { display:inline; font-size:5px !important; top:-1px; right:-8px; position:absolute;}
-.b_monitor { background:url(/images/banner/top_cmp_banner.jpg) 0 0 no-repeat; width:127px; height:56px; overflow:hidden; left:182px;}
-.b_slogan { left:333px; font-size:30px; top:14px;}
-.top_banner .b_descr { top:0; color:#000; font-size:13px; width:215px; right:0; text-align:left; line-height:15px; padding:13px 0; margin:0;}
-.top_banner .b_descr span { display:inline; color:#0072B6; text-decoration:none; margin-left:3px;}
-.top_banner .b_descr span:hover { text-decoration:underline;}
-
-.b_tweet {position:absolute;top:16px;left:50%; margin-left:240px;width:176px;height:27px;background: transparent url(http://macpaw.com/img/cleanmypc/tweet.gif) no-repeat left top;}
-.b_tweet:hover {background-position: 0 -30px;}
-.b_tweet:active {background-position: 0 -60px;}
-
-.b_fb{line-height:12px;width:150px; overflow:hidden;position:absolute;top:19px;left:50%; margin-left:430px;}
-</style>
-
-
-
-
-
-<script type="text/javascript">
-var userAgent = navigator.userAgent.toString().toLowerCase();
-function appendBanner(){
-	banner = '';
-	banner += '<div class="banner_holder"><div class="top_banner"><sub></sub><sup></sup><a href="http://tds.macpaw.com/index.php?2&company=MacPaw&campaign=macpawBanner" class="bb" title="CleanMyPC" ><span class="b_logo">CleanMy<span>PC</span></span><span class="b_company">MacPaw<span>&reg;</span></span><span class="b_monitor"></span><span class="b_slogan">And I\'m a PC.</span><span class="b_descr">All the features of CleanMyMac now<br /> available for Windows.<span>Learn More &#9656;</span></span></a><a target="_blank" class="b_tweet" href="http://twitter.com/share?via=CleanMyPC&amp;url=http://macpaw.com/pc/&amp;text=Something great is coming! Check it out"></a><div class="b_fb"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2FCleanMyPC&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font=segoe+ui&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowTransparency="true"></iframe></div>';
-	banner += ( ! (userAgent.indexOf('windows') != -1)) ? '<div class="close"></div>' : '';
-	banner += '</div></div>';
-	
-	
-	if (getCookie('macpawTopBanner') != 'closed' || (userAgent.indexOf('windows') != -1)){
-		$('body').prepend(banner);
-		showTopBanner();
-	}
-}
-
-function showTopBanner(){
-	$(document).ready(function(){
-		closeBanner();
-		setTimeout(function(){
-				$('.top_banner').animate({'opacity':'1','top':'0'},400);
-			},1000);
-	});
-}
-
-function closeBanner(){
-	$('.top_banner > .close').click(function(){
-		setCookie('macpawTopBanner','closed',30);
-		$('.top_banner').animate({'top':'-60px'},400);
-		$('.banner_holder').animate({'opacity':'0','height':'0'},400);
-	});
-}
-
-function setCookie(c_name,value,exdays){
-     var exdate=new Date();
-     exdate.setDate(exdate.getDate() + exdays);
-     var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
-     document.cookie=c_name + "=" + c_value;
-}
-
-function getCookie(c_name){
-     var i,x,y,ARRcookies=document.cookie.split(";");
-     for (i=0;i<ARRcookies.length;i++){
-          x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-          y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-          x=x.replace(/^\s+|\s+$/g,"");
-          if (x==c_name) {
-               return unescape(y);
-          }
-     }
-}
-appendBanner();
-</script>
  
 <div class="wrapper">
 	<div class="header">
-	<p><a href="/"><img src="/images/logo.png" alt="MacPaw"></a></p>
+	<p><a href="/cleanmymac"><img src="/images/logo.png" alt="MacPaw"></a></p>
 
 		<ul> 
 			<li><a href="/">Products</a></li>
 			<li><a href="/store">Store</a></li>
 			<li><a href="/support">Support</a></li>
 			<li><a href="/about">About</a></li>
-			<li><a href="http://forum.macpaw.com">Forum</a></li>
+			<li><a href="/blog">Blog</a></li>
+<!--			<li><a href="http://forum.macpaw.com">Forum</a></li> -->
 		</ul>	</div>
 	<div class="sub-header-dark"></div>
 	<div class="container container-dark">
@@ -208,7 +123,11 @@ If you believe that any information we are holding on you is incorrect or incomp
     <!-- End Content -->	<div class="footer footer-dark">
 
 		<ul>
-					<a href="/support/"><li class="first"><img src="/images/footer/Mail.png" class="footer_icon"><span>Contact Us</span>Send us an e-mail or<br>call +1 (8775) MACPAW<br> at any time!</li></a>
+					<li class="first">
+				<a href="/support/">
+					<img src="/images/footer/Mail.png" class="footer_icon"><span>Contact Us</span>Send us an e-mail or<br>call +1 (8775) MACPAW<br> at any time!
+				</a>
+			</li>
 			
 			
 			<a href="/license_retrieval"><li class="lostlicense"><img src="/images/footer/license.png" class="footer_icon"><span>Lost&nbsp;Your&nbsp;License?</span>Retrieve your confirmation e-mail instantly.</li></a>
@@ -224,9 +143,9 @@ If you believe that any information we are holding on you is incorrect or incomp
      <div id="socitems">       
       
     <span>Join us to get our latest news!</span>       
-    <span class="twitter">Twitter: 3216 followers</span>		
-	<span class="facebook">Facebook: 41301 users like us</span>
-	<span class="iusethis">iusethis: 1383 iusethis users</span>
+    <span class="twitter">Twitter: 4588 followers</span>		
+	<span class="facebook">Facebook: 73312 users like us</span>
+	<span class="iusethis">iusethis: 1712 iusethis users</span>
     </div>
     <div class="hiddenDescr"></div>
 
@@ -252,11 +171,15 @@ If you believe that any information we are holding on you is incorrect or incomp
     	</script> 
            </li>
 			<a href="/store/?from=specialoffer"><li class="last"><img src="/images/giftmid.png" class="footer_icon"><span>Special Offer</span>Click here for special offers.</li></a>
+<!--			<a href="/Ensoul"><div class="footer_banner"></div></a>-->
+
 		</ul>
 	</div>
 
-  <div class="foot" align="center"><p class="copyrightsText1">© 2011 «MacPaw» 
-  <a class="footLink1" href="/policy" target="_blank">Privacy Policy</a> 
+  <div class="foot" align="center"><p class="copyrightsText1">© 2011 «MacPaw»
+  <a class="footLink" href="/cleanmymac" title="CleanMyMac - Keeps your Mac running right">Clean My Mac</a>
+  <a class="footLink" href="/cleanmypc/" title="CleanMyPC - Keeps your computer running right">Clean My PC</a>
+  <a class="footLink" href="/policy" target="_blank">Privacy Policy</a> 
   <a class="footLink" href="/EULA">EULA</a>
   
         </p>
@@ -270,6 +193,7 @@ _gaq.push([ '_addIgnoredRef', 'macpaw.com' ]);
 _gaq.push(['_setAllowHash', false]);
 _gaq.push(['_setAllowLinker', true]);
 _gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
 
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
