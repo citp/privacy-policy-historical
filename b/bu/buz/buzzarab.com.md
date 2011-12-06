@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buzzarab.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605075355id_/http%3A//www.buzzarab.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzarab.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206023207id_/http%3A//www.buzzarab.com/content/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - BuzzArab
+# سياسة الخصوصية - BuzzArab
 
 The owners of this Service have created this Privacy Statement (Policy) in order to demonstrate our firm commitment to help our users better understand what information we collect about them and what may happen to that information.
 
