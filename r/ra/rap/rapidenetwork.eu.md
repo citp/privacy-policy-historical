@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidenetwork.eu privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606112916id_/http%3A//www.rapidenetwork.eu/footer_links/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidenetwork.eu privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206141122id_/http%3A//www.rapidenetwork.eu/privacy.html) for the most accurate reproduction.*
 
 # Rapide - Privacy
 
