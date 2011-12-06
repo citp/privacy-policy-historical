@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iko-system.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523225403id_/http%3A//www.iko-system.com/about-iko/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iko-system.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206092205id_/http%3A//www.iko-system.com/about-iko/privacy) for the most accurate reproduction.*
 
 # Privacy | IKO System
 
