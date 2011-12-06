@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xblafans.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609031759id_/http%3A//www.xblafans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xblafans.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206194119id_/http%3A//www.xblafans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | xblafans.com
 
