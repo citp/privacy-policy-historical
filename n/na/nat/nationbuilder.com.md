@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602135729id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationbuilder.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206104329id_/http%3A//nationbuilder.com/privacy) for the most accurate reproduction.*
 
 # NationBuilder privacy policy
 
@@ -82,6 +82,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 NationBuilder   
 Attn: Jim Gilliam   
-2222 S. Figueroa St. PH 25  
-Los Angeles, CA 90007  
+1100 South Hope St.  
+Suite 1513  
+Los Angeles, CA 90015  
 USA 
