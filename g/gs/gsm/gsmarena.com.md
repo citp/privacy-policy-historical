@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmarena.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206093344id_/http%3A//www.gsmarena.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmarena.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207004455id_/http%3A//www.gsmarena.com/privacy.php3) for the most accurate reproduction.*
 
 # Privacy Policy - GSMArena.com
 
