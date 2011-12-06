@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecomom.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519041127id_/http%3A//www.ecomom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecomom.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206034937id_/http%3A//www.ecomom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
