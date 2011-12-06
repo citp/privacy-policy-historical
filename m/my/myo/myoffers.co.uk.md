@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2011-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110124204719id_/http%3A//www.myoffers.co.uk/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoffers.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206183104id_/http%3A//www.myoffers.co.uk/privacy_statement.aspx) for the most accurate reproduction.*
 
 # MyOffers Privacy Statement
 
@@ -49,7 +49,7 @@ MyOffers will not use or share your personal information in a manner that differ
 
 Sponsors of the MyOffers questionnaires have their own privacy policies and some have their own opt-in statements, MyOffers strongly recommends that you read and understand this information.
 
-Your data together with that of other subscribers to MyOffers may be aggregated at Postcode or other levels for the building of statistical and analytical tables. At no time will your data be individually identifiable in such tables.
+Your data together with that of other subscribers to MyOffers may be aggregated at Postcode or other levels for the building of statistical and analytical tables. 
 
 #### General disclosure of personal information
 
