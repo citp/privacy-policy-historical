@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabtemplates.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607005400id_/http%3A//grabtemplates.com/%3Fpage_id%3D6327) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabtemplates.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206094238id_/http%3A//grabtemplates.com/%3Fpage_id%3D6327) for the most accurate reproduction.*
 
 # Privacy Policy | GrabTemplates
 
@@ -70,3 +70,14 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [address].
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=This%20privacy%20policy%20sets%20out%20how%20GrabTemplates%20uses%20and%20protects%20%20any%20information%20that%20you%20give%20GrabTemplates%20when%20you%20use%20this%20website.%0D%0A%0D%0AGrabTemplates%20is%20committed%20to%20ensuring%20that%20your%20privacy%20is%20%20protected.%20Should%20we%20ask%20you%20to%20provide%20certain%20i "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&srcTitle=GrabTemplates+Free+Premium+Templates+%26amp%3B+Grphics+Downloads "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=GrabTemplates+Free+Premium+Templates+%26amp%3B+Grphics+Downloads&summary=This%20privacy%20policy%20sets%20out%20how%20GrabTemplates%20uses%20and%20protects%20%20any%20information%20that%20you%20give%20GrabTemplates%20when%20you%20use%20this%20website.%0D%0A%0D%0AGrabTemplates%20is%20committed%20to%20ensuring%20that%20your%20privacy%20is%20%20protected.%20Should%20we%20ask%20you%20to%20provide%20certain%20i "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fgrabtemplates.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
