@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bouxavenue.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604115518id_/http%3A//www.bouxavenue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bouxavenue.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206095647id_/http%3A//www.bouxavenue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and security | Boux Avenue
 
@@ -43,7 +43,7 @@ Phishing is the process of tricking someone into passing over personal or sensit
 
 Do not share your personal information with anyone claiming to be from Boux Avenue. If we need to take an alternative payment method or other personal information from you, we will ask you to call us back on our main customer services number.
 
-If you think someone is attempting to deceive you into passing over your details, please let one of our customer service team know immediately by giving us a call on 0800 054 6550 (Monday-Sunday 8am-8pm), or email us at [hello@bouxavenue.com](mailto:hello@bouxavenue.com).
+If you think someone is attempting to deceive you into passing over your details, please let one of our customer service team know immediately by giving us a call on 0800 054 6550 (Monday - Friday 8am-8pm, Saturday and Sunday 9am-5pm), or email us at [hello@bouxavenue.com](mailto:hello@bouxavenue.com).
 
 ## Use of cookies
 
