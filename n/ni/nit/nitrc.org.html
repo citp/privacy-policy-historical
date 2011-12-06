@@ -1,11 +1,16 @@
-<!--The following is the downloaded HTML source of the nitrc.org privacy policy that was archived on 2011-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526014314id_/http%3A//www.nitrc.org/include/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nitrc.org privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206162634id_/http%3A//www.nitrc.org/include/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en   " class="webkit chrome linux js"><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=8">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<title>NITRC: Privacy</title>
-		<link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/reset.css?v=v2.1.0-2">
+		<link rel="search" type="application/opensearchdescription+xml" title="NITRC Tools/Resources" href="/trsearch.xml">
+		<link rel="search" type="application/opensearchdescription+xml" title="NITRC Related Web Pages" href="/relatedsearch.xml">
+
+
+
+		<link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/reset.css?v=v2.1.4-0">
 		<style type="text/css">
 			body {
 				margin-top: 0;
@@ -57,14 +62,14 @@
 			.nitrc a:hover { text-decoration:none }
 			.nitrc div#globalControls form { font-size: 100%; }
 		</style>
-		<link rel="stylesheet" type="text/css" href="/plugins/scmcvs/cvsweb/css/cvsweb.css">		<link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/base.css?v=v2.1.0-2">
-		<link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/opera.css?v=v2.1.0-2">
-		<link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/gecko.css?v=v2.1.0-2">
-		<link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/webkit.css?v=v2.1.0-2">
-		<!--[if IE]><link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/ie.css?v=v2.1.0-2" /><![endif]-->
-		<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/ie6.css?v=v2.1.0-2" /><![endif]-->
-		<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/ie7.css?v=v2.1.0-2" /><![endif]-->
-		<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/ie8.css?v=v2.1.0-2" /><![endif]-->
+		<link rel="stylesheet" type="text/css" href="/plugins/scmcvs/cvsweb/css/cvsweb.css">		<link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/base.css?v=v2.1.4-0">
+		<link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/opera.css?v=v2.1.4-0">
+		<link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/gecko.css?v=v2.1.4-0">
+		<link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/webkit.css?v=v2.1.4-0">
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/ie.css?v=v2.1.4-0" /><![endif]-->
+		<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/ie6.css?v=v2.1.4-0" /><![endif]-->
+		<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/ie7.css?v=v2.1.4-0" /><![endif]-->
+		<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/themes/nitrc2.0/styles/ie8.css?v=v2.1.4-0" /><![endif]-->
 		<script type="text/javascript" src="/themes/nitrc/menu/c_config.js"></script>
 		<script type="text/javascript" src="/themes/nitrc/menu/c_smartmenus.js"></script><style type="text/css" media="screen,projection"></style>
 <!-- ***** -->
@@ -72,6 +77,7 @@
 <!-- ***** -->
 		<script type="text/javascript" src="/themes/nitrc2.0/scripts/css-browser-selector.js"></script>
 		<script type="text/javascript" src="/themes/nitrc2.0/scripts/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="/themes/nitrc2.0/scripts/jquery.validate.min.js"></script>
 		<script type="text/javascript" src="/themes/nitrc2.0/scripts/jquery.text-overflow.js"></script>
 		<script type="text/javascript">
 			var equalHeightRunOnce = false;
@@ -87,9 +93,15 @@
 					if ( left_height > max_height ) max_height = left_height;
 					if ( leftalt_height > max_height ) max_height = leftalt_height;
 					if ( right_height > max_height ) max_height = right_height;
-					if ( max_height > center_height ) $( "div#center div.middle .main" ).height( max_height );
+					if ( max_height > center_height ) $( "div#center div.middle .main" ).height( max_height + "px" );
 				}
 				equalHeightRunOnce = true;
+
+				// ie8 and ie9 don't re-render the screen after reducing the center div height.  
+				// hide and show the footer to get it to re-draw in the correct position.
+				$("div#footer").hide();
+				$("div#footer").show();
+
 			}
 
 			$( document ).ready( equalHeight );
@@ -138,15 +150,17 @@
 				}
 			}
 
-			function addButtonRollovers() {
-				$( ".rollover" ).hover(
+			function addButtonRollovers( scopingSelector ) {
+				if ( typeof scopingSelector != 'string' ) scopingSelector = '';
+				if ( !scopingSelector.match( /^$|.*\s$/ ) ) scopingSelector += ' ';
+				$( scopingSelector + ".rollover" ).hover(
 					function() { activateImage( this ); },
 					function() { deactivateImage( this ); }
 				);
-				$( "input.rollover" ).focus( function() { activateImage( this ); } );
-				$( "input.rollover" ).blur( function() { deactivateImage( this ); } );
-				$( "a.imageLink.withRollover" ).focus( function() { activateImage( this.firstChild ); } );
-				$( "a.imageLink.withRollover" ).blur( function() { deactivateImage( this.firstChild ); } );
+				$( scopingSelector + "input.rollover" ).focus( function() { activateImage( this ); } );
+				$( scopingSelector + "input.rollover" ).blur( function() { deactivateImage( this ); } );
+				$( scopingSelector + "a.imageLink.withRollover" ).focus( function() { activateImage( this.firstChild ); } );
+				$( scopingSelector + "a.imageLink.withRollover" ).blur( function() { deactivateImage( this.firstChild ); } );
 			}
 
 			$( document ).ready( addButtonRollovers );
@@ -300,6 +314,7 @@ function debug(x) {
 			function help_window(helpurl,options) {
 				if (options == undefined) options='scrollbars=yes,resizable=yes,toolbar=no,height=400,width=400';
 				HelpWin = window.open(helpurl,'HelpWindow',options);
+				HelpWin.focus();
 			}
 		</script>
 		<script type="text/javascript" src="/include/frs_client.js"></script>
@@ -314,10 +329,10 @@ function debug(x) {
 					<div id="globalControls">
 						<form action="/search/" method="get" id="globalSearchForm">
 							<label id="globalTypeOfSearchLabel" for="globalTypeOfSearch">SEARCH</label>
-							<select id="globalTypeOfSearch" name="type_of_search"><option class="srch" value="crawler">Related Web Pages</option><option class="srch" value="group" selected="true">Tools/Resources</option><option class="srch" value="people">People</option></select>
+							<select id="globalTypeOfSearch" name="type_of_search"><option class="srch" value="crawler">Related Web Pages</option><option class="srch" value="group" selected="true">Tools/Resources</option><option class="srch" value="people">People</option><option class="srch" value="nif">NIF</option></select>
 							<label id="globalSearchQueryLabel" for="globalSearchQuery">for</label>
 							<input id="globalSearchQuery" name="q" type="text" value="" title="Example searches:  morphology AND animation, modeling OR simulation, segmentation NOT Linux, &quot;region of interest&quot;">
-							<input id="globalSearchButton" type="image" class="rollover" src="/themes/nitrc2.0/new-images/buttons/go.24.png" align="absmiddle" name="sa" value="Search" title="Go">
+							<input id="globalSearchButton" type="image" class="rollover" src="/themes/nitrc2.0/new-images/buttons/go.24.png" align="absmiddle" name="sa" value="Search" title="Go" onclick="if ($('#globalTypeOfSearch').val() == 'nif') {window.open('http://www.neuinfo.org/nif/nifgwt.html?query=' + $('#globalSearchQuery').val() ,'_blank' ); return false;}">
 						</form>
 						<a href="/account/login.php">Member login</a>
 						<span class="globalControlsDivider">|</span> <a href="/account/register.php">Register</a>
@@ -325,19 +340,19 @@ function debug(x) {
 
 <span class="globalControlsDivider">|</span>
 <span class="sharethis">
-<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=nitrc" class="addthis_button_compact" stype="display:inline;" onclick="trackExternalLink(this);">Share</a>
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=$GLOBALS['sys_addthis_id']" class="addthis_button_compact" stype="display:inline;" onclick="trackExternalLink(this);">Share</a>
 <span class="globalControlsDivider">|</span>
   <a class="addthis_button_facebook"></a>
   <a class="addthis_button_email"></a>
   <a class="addthis_button_favorites"></a>
   <a class="addthis_button_print"></a>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=nitrc"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=$GLOBALS['sys_addthis_id']"></script>
 </span>
 
 
 						<img src="/themes/nitrc2.0/new-images/decorative/cleardot.gif" id="globalControlsSpacer" width="44" height="1" alt="">
 					</div>
-					<ol id="globalNavigation" class="unauthenticated iefix" style="font-size: 100%;"><li><a id="homeButton" class="first" href="/"><span class="edge left"></span><span class="spacer"></span>Home</a></li><li><a id="toolsButton" href="/search/?type_of_search=group"><span class="edge left"></span><span class="spacer"></span>Tools &amp; Resources</a><ol style="display: none;">  <li><a href="/search/?type_of_search=group">Browse By Attribute</a></li>  <li><a href="/top/toplist.php?type=downloads">Browse By Top Downloads</a></li>  <li><a href="/top/mostactive.php">Browse By Most Active</a></li>  <li><a href="/search/?type_of_search=group">		Compare Tools/Resources</a></li>  <li><a href="/snippet/">Download Code Snippets</a></li>  <li><a href="/register/projectinfo.php">Register New Tool or Resource</a></li></ol></li><li><a id="communityButton" class="active" href="/project/?group_id=6"><span class="edge left"></span><span class="spacer"></span>Community</a><ol style="display: none;">  <li><a href="/project/?group_id=6">Home</a></li>  <li><a href="/forum/forum.php?forum_id=2">Community Forums</a></li>  <li><a href="/forum/paged_forums.php">Recently Active Forums</a></li>  <li><a href="/incf/event_list.php">Events</a></li>  <li><a href="/news/">News</a></li>  <li><a href="/plugins/mwiki/index.php/nitrc:Funding_Opportunities">Funding</a></li>  <li><a href="/incf/career_list.php">Career Opportunities</a></li>  <li><a href="/docman/?group_id=6">Documents</a></li>  <li><a href="/plugins/mwiki/index.php/nitrc:MainPage">Wiki</a></li></ol></li><li><a id="supportButton" class="activeToLeft" href="/help/contact_us.php"><span class="edge left"></span><span class="spacer"></span>Support</a><ol style="display: none;">  <li><a href="/help/contact_us.php">Contact Us</a></li>  <li><a href="/feedback.php">Feedback</a></li>  <li><a href="/help/user_guide.html">User Guide</a></li>  <li><a href="/plugins/mwiki/index.php/nitrc:MainPage#Technical_Information">Technical Information</a></li>  <li><a href="/tracker/?group_id=6">View NITRC Bug/Feature Requests</a></li>  <li><a href="/account/login.php?return_to=%2Ftracker%2F%3Ffunc%3Dadd%26group_id%3D6%26atid%3D101%26randt%3D5866">Submit NITRC Bug</a></li>  <li><a href="/account/login.php?return_to=%2Ftracker%2F%3Ffunc%3Dadd%26group_id%3D6%26atid%3D104%26randt%3D51781">Submit NITRC Feature Request</a></li></ol></li><li><a id="aboutButton" class="last " href="/include/about_us.php"><span class="edge left"></span><span class="spacer"></span>About NITRC<span class="edge right"></span></a><ol style="display: none;">  <li><a href="/include/about_us.php">About Us</a></li>  <li><a href="/docman/index.php?group_id=6&amp;selected_doc_group_id=66&amp;language_id=1">Logos</a></li>  <li><a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:Testimonials" onclick="trackExternalLink(this);">Testimonials</a></li>  <li><a href="/docman/index.php?group_id=6&amp;selected_doc_group_id=48&amp;language_id=1">Use Cases</a></li>  <li><a href="/docman/index.php?group_id=6&amp;selected_doc_group_id=35&amp;language_id=1">Scientific Posters</a></li>  <li><a href="/docman/index.php?group_id=6&amp;selected_doc_group_id=34&amp;language_id=1">News Releases</a></li>  <li><a href="/docman/index.php?group_id=6&amp;selected_doc_group_id=44&amp;language_id=1">Presentations</a></li></ol></li></ol>				</div>
+					<ol id="globalNavigation" class="unauthenticated iefix" style="font-size: 100%;"><li><a id="homeButton" class="first" href="/"><span class="edge left"></span><span class="spacer"></span>Home</a></li><li><a id="toolsButton" href="/search/?type_of_search=group"><span class="edge left"></span><span class="spacer"></span>Tools &amp; Resources</a><ol style="display: none;">  <li><a href="/search/?type_of_search=group">Browse By Attribute</a></li>  <li><a href="/top/toplist.php?type=downloads">Browse By Top Downloads</a></li>  <li><a href="/top/mostactive.php">Browse By Most Active</a></li>  <li><a href="/search/?type_of_search=group">		Compare Tools/Resources</a></li>  <li><a href="/snippet/">Download Code Snippets</a></li>  <li><a href="/register/projectinfo.php">Register New Tool or Resource</a></li>  <li><a href="mailto:suggesttool@nitrc.org?subject=Tool or Resource Suggestion&amp;body=Replace this text with the name, URL, and any contact information you have for the tool or resource you would like to suggest." onclick="trackExternalLink(this);">Suggest a Tool or Resource</a></li></ol></li><li><a id="communityButton" class="active" href="/project/?group_id=6"><span class="edge left"></span><span class="spacer"></span>Community</a><ol style="display: none;">  <li><a href="/project/?group_id=6">Home</a></li>  <li><a href="/forum/forum.php?forum_id=2">Community Forums</a></li>  <li><a href="/forum/paged_forums.php">Recently Active Forums</a></li>  <li><a href="/incf/event_list.php">Events</a></li>  <li><a href="/news/">News</a></li>  <li><a href="/plugins/mwiki/index.php/nitrc:Funding_Opportunities">Funding</a></li>  <li><a href="/incf/career_list.php">Career Opportunities</a></li>  <li><a href="/docman/?group_id=6">Documents</a></li>  <li><a href="/plugins/mwiki/index.php/nitrc:MainPage">Wiki</a></li></ol></li><li><a id="supportButton" class="activeToLeft" href="/help/contact_us.php"><span class="edge left"></span><span class="spacer"></span>Support</a><ol style="display: none;">  <li><a href="/help/contact_us.php">Contact Us</a></li>  <li><a href="/feedback.php">Feedback</a></li>  <li><a href="/help/user_guide.html">User Guide</a></li>  <li><a href="/plugins/mwiki/index.php/nitrc:MainPage#Technical_Information">Technical Information</a></li>  <li><a href="/tracker/?group_id=6">View NITRC Bug/Feature Requests</a></li>  <li><a href="/account/login.php?return_to=%2Ftracker%2F%3Ffunc%3Dadd%26group_id%3D6%26atid%3D101%26randt%3D51217">Submit NITRC Bug</a></li>  <li><a href="/account/login.php?return_to=%2Ftracker%2F%3Ffunc%3Dadd%26group_id%3D6%26atid%3D104%26randt%3D62871">Submit NITRC Feature Request</a></li></ol></li><li><a id="aboutButton" class="last " href="/include/about_us.php"><span class="edge left"></span><span class="spacer"></span>About NITRC<span class="edge right"></span></a><ol style="display: none;">  <li><a href="/include/about_us.php">About Us</a></li>  <li><a href="/docman/index.php?group_id=6&amp;selected_doc_group_id=66&amp;language_id=1">Logos</a></li>  <li><a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:Testimonials" onclick="trackExternalLink(this);">Testimonials</a></li>  <li><a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:Use_Cases_-_List_All" onclick="trackExternalLink(this);">Use Cases</a></li>  <li><a href="/docman/index.php?group_id=6&amp;selected_doc_group_id=35&amp;language_id=1">Scientific Posters</a></li>  <li><a href="/docman/index.php?group_id=6&amp;selected_doc_group_id=34&amp;language_id=1">News Releases</a></li>  <li><a href="/docman/index.php?group_id=6&amp;selected_doc_group_id=44&amp;language_id=1">Presentations</a></li></ol></li></ol>				</div>
 			</div>
 		</span>
 		<span class="legacy">
@@ -372,7 +387,7 @@ Questions about NITRC privacy policies should be sent to <a href="mailto:nitrcin
 			</div>
 		</span>
 		<span class="nitrc">
-			<div id="footer">
+			<div id="footer" style="display: block;">
 				<div class="floatLeft">
 				  	<div class="navigation">
 						<a href="/feedback.php">Feedback</a>
@@ -384,9 +399,11 @@ Questions about NITRC privacy policies should be sent to <a href="mailto:nitrcin
 						<a href="/include/copyright.php">Copyright</a>
 						&nbsp;|&nbsp;
 						<a href="/include/glossary.php">Glossary</a>
+						&nbsp;|&nbsp;
+						<a href="http://www.nitrc.org/plugins/mwiki/index.php/nitrc:Site_Map" onclick="trackExternalLink(this);">Site Map</a>
 					</div>
 					<div class="fundingCredit">Funded by the <a href="http://neuroscienceblueprint.nih.gov/factSheet/nitrc.htm" onclick="trackExternalLink(this);">NIH Blueprint for Neuroscience Research</a></div>
-					<div class="siteVersion">Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC) <span id="nitrcSiteVersion">v2.1.0-2</span></div>
+					<div class="siteVersion">Neuroimaging Informatics Tools and Resources Clearinghouse (NITRC) <span id="nitrcSiteVersion">v2.1.4-0</span></div>
 				</div>
 				<div class="floatRight alignRight">
 					<a href="http://incf.org/about/nodes/united-states" class="imageLink" onclick="trackExternalLink(this);"><img src="/themes/nitrc2.0/new-images/decorative/incf-node.jpg" alt="INCF National Node of the USA" title="INCF National Node of the USA"></a>
