@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123cashsurveys.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211193556id_/http%3A//123cashsurveys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123cashsurveys.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206053012id_/http%3A//www.123cashsurveys.com/privacy.html) for the most accurate reproduction.*
 
 # 123CashSurveys :: Online Paid Surveys
 
