@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607194058id_/http%3A//www.instructure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206154603id_/http%3A//www.instructure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Instructure
 
@@ -31,7 +31,6 @@ Instructure, Inc. (" **Instructure** ") is committed to protecting your privacy.
 
   
 Instructure, Inc.  
-Attn: Josh Coates  
 6415 South 3000 East Suite 100  
 Salt Lake City, UT 84121  
 (801) 869.5000 
