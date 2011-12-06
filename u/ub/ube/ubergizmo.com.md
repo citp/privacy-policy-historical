@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114023842id_/http%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubergizmo.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206084942id_/http%3A//www.ubergizmo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy -- Ubergizmo
+# Privacy Policy | Ubergizmo
 
 ### Ubergizmo.com Privacy Statement
 
-This statement covers the site www.ubergizmo.com (UberGizmo).
+This statement covers the site www.ubergizmo.com (Ubergizmo).
 
-lease read this statement carefully before using proceeding to access UberGizmo. Your use of UberGizmo indicates your agreement to abide by the Terms in effect.
+lease read this statement carefully before using proceeding to access Ubergizmo. Your use of Ubergizmo indicates your agreement to abide by the Terms in effect.
 
 ### Information Collection
 
-UberGizmo is the sole owner of the information collected on www.ubergizmo.com. UberGizmo may collect information from our users at several different points on our Web site.
+UberGizmo is the sole owner of the information collected on www.ubergizmo.com. Ubergizmo may collect information from our users at several different points on our Web site.
 
 ### Mailing List
 
