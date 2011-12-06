@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rentalo.com privacy policy that was archived on 2010-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128191446id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rentalo.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206143752id_/http%3A//rentalo.com/docs/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,6 +15,7 @@
 <link rel="meta" href="http://rentalo.com/icraLabels.rdf" type="application/rdf+xml" title="ICRA labels">
 
 <link href="http://i.rentalo.com/css/new/base-final.css" rel="stylesheet" type="text/css">
+<link href="http://i.rentalo.com/css/new/modalbox.css" rel="stylesheet" type="text/css" media="screen">
     <link href="http://i.rentalo.com/css/new-rentalo.css" rel="stylesheet" type="text/css">
 	<link href="http://i.rentalo.com/css/overdiv.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -44,11 +45,10 @@
         	<link href="http://i.rentalo.com/css/new/usertypes/traveler.css" rel="stylesheet" type="text/css">
 
 
-<script type="text/javascript" src="http://i.rentalo.com/js/calendar/calendarUnified_compressed.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="http://i.rentalo.com/js/calendar/calendarUnified_compressed.js"></script>
 <script type="text/javascript" src="http://i.rentalo.com/js/validateFunctions_compressed.js"></script>
-
-
-
+<script type="text/javascript" src="http://i.rentalo.com/js/ajax/protoaculous.min.js"></script>
+<script type="text/javascript" src="http://i.rentalo.com/js/ajax/modalbox.js"></script>
 
 
 
@@ -62,6 +62,17 @@
 
 
 <body>
+<div id="fb-root"></div>
+<script>
+	(function(d, s, id) {
+  		var js, fjs = d.getElementsByTagName(s)[0];
+  		if (d.getElementById(id)) {return;}
+  		js = d.createElement(s); js.id = id;
+  		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  		fjs.parentNode.insertBefore(js, fjs);
+	}
+	(document, 'script', 'facebook-jssdk'));
+</script>
 <center>
 <!-- header -->
 <div id="header-09">
@@ -96,12 +107,30 @@
 	<div class="user-btns">
 		<div class="search-b">
 			<div class="search-box-09">
-		  		<input type="text" id="keywordAS" name="keyword" class="search-in" onfocus="this.value == 'Enter Destination or Rentalo ID' ? this.value='' : ''" onblur="this.value=='' ? this.value='Enter Destination or Rentalo ID' : ''" value="Enter Destination or Rentalo ID">
+		  		<input type="text" id="keywordAS" name="keyword" class="search-in" onfocus="this.value == 'Enter Destination or Rentalo ID' ? this.value='' : ''" onblur="this.value=='' ? this.value='Enter Destination or Rentalo ID' : ''" value="Enter Destination or Rentalo ID" autocomplete="OFF"> 
+				<input type="hidden" id="location_hidden" name="keyword_ID" value="">		
 			</div>
 			<div id="advancebtn" class="close-adv"><a href="#" id="openAdvSrch" onclick="this.style.display='none'; document.getElementById('advancedSearchDiv').style.display='block'; return false;"><img src="/g/header-footer-09/advanced-travelers-close.jpg" alt="advance-closed" border="0"></a>
 			</div>
 		</div>
-		<input name="submit" class="search-btn-09" value="" type="submit">
+		<div class="search-inquiry-buttons-container">
+			<div>
+				<input type="submit" class="search-btn-bar" name="submit" value="">
+			</div>
+			<div>
+				<input type="submit" class="inquiry-btn-bar" name="gotoibar" value="">
+			</div>
+		</div>
+
+		<div class="auto_complete" id="location_autoComplete" style="display: none;"></div>
+		<script type="text/javascript">
+			//<![CDATA[
+				new Ajax.Autocompleter('keywordAS', 'location_autoComplete', '/web/common/search_location_autocomplete.cgi', {tokens:",", minChars:4,parameters:"includeParents=1"});
+			//]]>
+		</script>
+		
+		
+		
 		<div class="division">&nbsp;</div>
 		<div class="icon-img">&nbsp;</div>
 		<span class="welcome-login">
@@ -460,10 +489,10 @@
 
      	
 
-     	<div class="recommended">Rentalo certified &amp; recommended by:</div>
+     	<!--<div class="recommended">Rentalo certified &amp; recommended by:</div>
 		<div class="recommended-pic">
 			&nbsp;
-		</div>
+		</div> -->
 	  	<span id="bottom">&nbsp;</span> 
   	</div>
   	<!-- end content box -->
@@ -477,31 +506,57 @@
 <div class="footer-09">
 	<div class="footer-up">
 		<div id="links-footer-09">
-	  		<a href="http://rentalo.com/docs/help.html" title="Having problems finding a vacation rental or advertising in this site? Let us help you">About us</a>  
+			<a href="http://rentalo.com/web/client/Payments/addListing.cgi" title="Advertise With Us">Advertise With Us</a>
+			| <a href="http://rentalo.com/sitemap.html" title="Destinations">Destinations</a>
+	  		| <a href="http://rentalo.com/docs/help.html" title="Having problems finding a vacation rental or advertising in  this site? Let us help you">About us</a>  
 	  		| <a href="http://rentalo.com/docs/press.html" title="News about travel industry">News</a>
 	  		| <a href="http://rentalo.com/testimonial.html" title="Rentalo's largest vacation rental directory site map">Testimonials</a>
 	  		| <a href="http://rentalo.com/docs/affiliates_programs.html" title="Learn about our available affiliates">Affiliate Programs</a>
 	  		| <a href="http://rentalo.com/docs/contact_us.html" title="Contact us">Contact us</a>
 	  		<br>
-	  		<a href="http://rentalo.com/" title="Vacation Rentals">vacation rentals</a>
-	  		| <a href="http://rentalo.com/" title="Hotels">hotels</a>
-	  		| <a href="http://rentalo.com/" title="Bed and Breakfasts">bed and breakfasts</a>
-	  		| <a href="http://rentalo.com/" title="Lodging">lodging</a>
-	  		| <a href="http://rentalo.com/" title="Accommodations">accommodations</a>
-	  		| <a href="http://rentalo.com/vacation-guide/" title="Vacation Guide">vacation guide</a>
+	  		<a href="http://rentalo.com/docs/index2.html" title="Vacation Rentals">Submit Inquiry</a>
+	  		| <a href="http://rentalo.com/" title="Vacation Rentals">Vacation rentals</a>
+	  		| <a href="http://rentalo.com/" title="Hotels">Hotels</a>
+	  		| <a href="http://rentalo.com/" title="Bed and Breakfasts">Bed and Breakfasts</a>
+	  		| <a href="http://rentalo.com/" title="Lodging">Lodging</a>
+	  		| <a href="http://rentalo.com/" title="Accommodations">Accommodations</a>
+	  		| <a href="http://rentalo.com/vacation-guide/" title="Vacation Guide">Vacation Guide</a>
+	  		<br>
+	  		RENTalo Mobile: <a href="http://m.rentalo.com" title="RENTalo Mobile">m.rentalo.com</a> | <a href="http://rentalo.com/docs/mobile.html" title="Download app">Download app</a>
 	  		<br><br>
+	  		
+	  		<div class="subscribe_home_container">
+            	<div class="subscribe_home_link_container subscribe_container_left">
+					<div class="subscribe_home_wrapper">
+						<input type="text" name="travelerEmail" id="travelerEmail" value="Enter Email Address" onblur="this.value=='' ? this.value='Enter Email Address' : ''" onfocus="this.value == 'Enter Email Address' ? this.value='' : ''" style="width:130px;">
+                        <input type="button" class="subscribe_home_button" value="Subscribe" title="Receive Newsletters &amp; Offers" onclick="validateTravelerEmail(); return false;">
+                    </div>
+					<div class="pipe">|</div>
+                </div>
+                <div class="subscribe_home_link_container">
+                	<div class="fb-like subscribe_home_wrapper" data-send="false" data-layout="button_count" data-width="1" data-show-faces="false" data-font="lucida grande" href="http://www.facebook.com/RENTalocom"></div>
+                    <div class="pipe">|</div>
+                </div>
+                <div class="subscribe_home_link_container">
+                    <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//platform.twitter.com/widgets/follow_button.html?button=grey&amp;lang=en&amp;link_color=#00AEFF&amp;screen_name=rentalo&amp;show_count=false&amp;show_screen_name=&amp;text_color=#FFFFFF" style="width:150px; height:20px;"></iframe>
+                </div>
+           	</div>
+
+	  		<br>
+	  		
 			Use of this Web site constitutes acceptance of the Rentalo.com  
 			<a href="http://rentalo.com/docs/disclaimer.html" title="Check out Rentalo's vacation rental directory legal issues" rel="nofollow">Legal</a>
 			 and 
  			<a href="http://rentalo.com/docs/privacy.html" title="Check out Rentalo's vacation rental directory Privacy Policies" rel="nofollow">Privacy Policy</a>.
  			<br>
 			© Copyright 1999-Present Rentalo.com, Inc. All rights reserved.
+			<br><br>
 	  	</div>
 	  </div>
 	  <div class="footer-trav"></div>
+	  
 </div>
 <!-- close footer -->
-
 
 </center>
     <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
