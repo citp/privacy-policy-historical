@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontgatetickets.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608005547id_/http%3A//www.frontgatetickets.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontgatetickets.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206221445id_/http%3A//www.frontgatetickets.com/support/privacy) for the most accurate reproduction.*
 
 # Front Gate Tickets
 
