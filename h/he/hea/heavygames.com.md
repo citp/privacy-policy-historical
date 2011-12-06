@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heavygames.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606023137id_/http%3A//www.heavygames.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavygames.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206124428id_/http%3A//www.heavygames.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Information Security Policy - Heavy Games .com
 
