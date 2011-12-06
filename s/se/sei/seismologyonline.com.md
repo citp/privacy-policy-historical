@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seismologyonline.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108111856id_/http%3A//www.wewanttraffic.com/privacypolicy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seismologyonline.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206124802id_/http%3A//www.wewanttraffic.com/privacypolicy/index.aspx) for the most accurate reproduction.*
 
-# SEO in Dubai, Web Development, Web Analytical, CMS Services, Web Hosting and Website Copy Writing Services in Dubai at affordable prices with Traffic Online
+# Traffic Online Website Privacy and Security Statement - Traffic Online
 
 ### Our Commitment To Privacy
 
