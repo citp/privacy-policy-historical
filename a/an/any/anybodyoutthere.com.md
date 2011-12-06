@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anybodyoutthere.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409060848id_/http%3A//www.anybodyoutthere.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anybodyoutthere.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206083856id_/http%3A//www.anybodyoutthere.com/privacy) for the most accurate reproduction.*
 
 # AnybodyOutThere | Privacy Policy
 
