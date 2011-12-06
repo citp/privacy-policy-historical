@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoofashions.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528222200id_/http%3A//www.zoofashions.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoofashions.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206205824id_/http%3A//www.zoofashions.com/page/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # ZOOfashions - Privacy Policy
 
