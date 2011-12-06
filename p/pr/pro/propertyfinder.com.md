@@ -1,59 +1,46 @@
-> *The following text is extracted and transformed from the propertyfinder.com privacy policy that was archived on 2007-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070810135103id_/http%3A//www.propertyfinder.com/cgi-bin/rsearch%3Fcu%3Dfn-pfc%26a%3Dv%26t%3Dres%26id%3D1156) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyfinder.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206044723id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
-# Property, land and homes for sale, lease and rent - propertyfinder.com
+# Zoopla Privacy policy
 
-www.propertyfinder.com is a web site of Internet Property Finder Limited ("We", "our" and "us" in this Internet Privacy Policy). By using this site ("the web site"), you agree to the Internet Privacy Policy set out below. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
+## Our commitment to you
 
-When you provide personal information to the web site, the data controller is Internet Property Finder Limited, the registered address for which is 1 Virginia Street, London E98 1XY.
+Zoopla Ltd ('Zoopla') respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Ltd.
 
-We reserve the right, at our discretion, to modify or remove portions of this Internet Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site. 
+## Information we collect
 
-We recognise the importance of protecting the privacy of information collected about visitors to our sites, in particular information that is capable of identifying an individual ("personal information"). This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your [comments and feedback](http://www.propertyfinder.com/cgi-bin/rsearch?a=v&t=res&id=1155).
+When you use the Services you will have the option to provide us with personal information, such as your email address, so that we may keep you informed. We use this information only in response to your requests and to provide the Services.
 
-## Personal Information
+When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services.
 
-Personal information about visitors to our sites is collected only when knowingly and voluntarily submitted. For example, we may need to collect such information to provide you with further services or to answer or forward any requests or enquiries. It is our intention that this policy will protect your personal information from being dealt with in any way that is inconsistent with applicable privacy laws in the United Kingdom. 
+## How we use information
 
-## Use of Information 
+We use the information we collect to provide the Services and to communicate with you. We do not rent or sell personal information and will only share your information in the following circumstances:
 
-The data controller will use your information together with other information for administration (including providing any goods, services or information you have requested), marketing, customer services and profiling your preferences. We will disclose your information to our service providers and agents solely for these purposes. 
+  * When you have consented or directed us to share the information.
+  * With service providers or affiliate companies who perform services on our behalf.
+  * In order to satisfy any requirement under the law or to protect our rights or prevent any concerns relating to fraud or security.
+  * In the event of a merger or sale of all or part of our business whereby personal information may be transferred as an asset of the business.
 
-If you wish to opt out of receiving any marketing materials from us or our service providers and agents, you may unsubscribe at any time from our communications by logging in to the site [click here](http://www.propertyfinder.com/cgi-bin/rsearch?a=sub&ss=alert&t=res&static=1). 
 
-Please note that a copy of your information may be held by one of our parent companies, realestate.com.au Limited ("REA"), in Australia. However, REA will not deal with your personal information in a manner in any way that is in any way inconsistent with applicable privacy laws in the United Kingdom. 
 
-Copies of correspondence sent from the web site, that may contain personal information, are stored as archives for record-keeping and back-up purposes only. We may keep your information for a reasonable period.
+We may share with third parties aggregate information or information that does not personally identify individuals.
 
-You should be aware that providing information to an estate agent through our web site will result in the information being passed to the estate agent and your information will then be held subject to the privacy obligations of that estate agent which may not conform with this Internet Privacy Policy.
+## Communicating with you
 
-## Disclosure 
+If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyZoopla](https://web.archive.org/myzoopla/).
 
-Apart from where you have consented or disclosure is necessary to achieve the purpose for which it was submitted, personal information may be disclosed in special situations where we have reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with our rights or property, users, or anyone else who could be harmed by such activities. Also, we may disclose personal information when we believe in good faith that the law requires disclosure.
+## Third parties
 
-We may engage third parties to provide you with goods or services on our behalf. In that circumstance, we may disclose your personal information to those third parties in order to meet your request for goods or services.
+We use third parties to serve advertisements on our website and these third parties may use cookies or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies.
 
-## Security 
+## Safety and security
 
-We strive to ensure the security, integrity and privacy of personal information submitted to our sites, and we review and update our security measures in light of current technologies. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. 
+Personal information is processed and stored in our databases and we have taken reasonable steps to secure and protect the information under our control, including establishing processes to prevent unauthorized access or disclosure of this information. However, whilst we make every effort to ensure the security of your information, we are unable to guarantee the protection of the information from misuse, accidental disclosure or unauthorised acts by others. Information provided by you may be stored or processed outside the United Kingdom.
 
-However, we will endeavour to take all reasonable steps to protect the personal information you may transmit to us or from our online products and services. Once we do receive your transmission, we will also use all reasonable endeavours to ensure its security on our systems.
+## Changes to Privacy Policy
 
-In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we are not responsible for events arising from unauthorised access to your personal information.
+We reserve the right to change this privacy policy at any time without prior notice to you. Any changes will be posted on our website and become effective at the time of posting. In the event that material changes are made that affect the use or disclosure of your personal information, we will make reasonable efforts to notify you of these changes.
 
-We will endeavour to take all reasonable steps to keep accurate and up to date any information which we hold about you. If, at any time, you discover that information held about you is incorrect, you should contact us to have the information corrected.
+If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/contact/).
 
-## Cookies 
-
-Cookies are data that a web site transfers to an individual's hard drive for record-keeping purposes. Cookies, which are industry standard and are used by most web sites, including those operated by us, can facilitate a user's ongoing access to and use of a site. They allow us to customise the web site to your needs. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. However, you should note that Cookies may be necessary to provide you with some features of our on-line services.
-
-## Links to Other Sites 
-
-We provide links to web sites outside of our web site, as well as to third party web sites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our web site. Before disclosing your personal information on any other web site, we advise you to examine the terms and conditions of using that web site and its privacy statement.
-
-## Problems or Questions 
-
-If we become aware of any ongoing concerns or problems with our web site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](http://www.propertyfinder.com/cgi-bin/rsearch?a=v&t=res&id=1155).
-
-## Further Data Protection Information
-
-For more information about data protection issues in the United Kingdom and protecting your privacy, visit the website of the Information Commissioner's office at [www.ico.gov.uk](http://www.ico.gov.uk/).
+This policy was last updated on 19th February, 2009
