@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the buzzdock.com privacy policy that was archived on 2011-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629072013id_/http%3A//www.buzzdock.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buzzdock.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206120642id_/http%3A//www.buzzdock.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us" class="cufon-active webkit chrome linux js cufon-ready"><head><meta http-equiv="X-UA-Compatible" content="IE=8"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="Description" content="Buzzdock gives you the buzz on what you’re searching for by placing a dock in your search engine results page. On your Buzzdock site a variety of social apps such as Twitter, Facebook, Amazon, eBay and YouTube. Think of Buzzdock as the best search engine."><meta name="Keywords" content="best search engine, fastest search engine, buzzdock, dogpile, dogpile.com, free people search, hot topic, internet search engine, meta search, news, realtime, seach, searcg, search, search engine, search engine software, search engine submission, search engines, search the web, search tool, search tools, searches, searching, serch, social media, video search, web 2.0, web search, web search engine"><meta name="google-site-verification" content="JqKmFGbXiIy0o8TUdCSpkwpipOQoTRIxYKvH5pczW_A"><meta name="norton-safeweb-site-verification" content="ie5iqlbs16jkcq4jzn2u6-kfo1zzd-8j37ujk3virv9njo4oq819-mhm3wx6hy-xnddgco2wik138ky9o4cm89il-dt-up75b1iac4lhzj9mm1gtim2ezgo87icnmsgu"><link rel="stylesheet" type="text/css" href="/css/master.css" media="screen"><link rel="shortcut icon" href="http://www.buzzdock.com/favicon.ico" type="image/x-icon"><link rel="image_src" href="http://images.buzzdock.com/site/homepage/buzzdock_icon.jpg">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-us" class="cufon-active webkit chrome linux js cufon-ready"><head><meta http-equiv="X-UA-Compatible" content="IE=8"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="Description" content="Buzzdock gives you the buzz on what you’re searching for by placing a dock in your search engine results page. On your Buzzdock site a variety of social apps such as Twitter, Facebook, Amazon, eBay and YouTube. Think of Buzzdock as the best search engine."><meta name="Keywords" content="best search engine, fastest search engine, buzzdock, dogpile, dogpile.com, free people search, hot topic, internet search engine, meta search, news, realtime, seach, searcg, search, search engine, search engine software, search engine submission, search engines, search the web, search tool, search tools, searches, searching, serch, social media, video search, web 2.0, web search, web search engine"><meta name="google-site-verification" content="JqKmFGbXiIy0o8TUdCSpkwpipOQoTRIxYKvH5pczW_A"><meta name="norton-safeweb-site-verification" content="ie5iqlbs16jkcq4jzn2u6-kfo1zzd-8j37ujk3virv9njo4oq819-mhm3wx6hy-xnddgco2wik138ky9o4cm89il-dt-up75b1iac4lhzj9mm1gtim2ezgo87icnmsgu"><link rel="stylesheet" type="text/css" href="/css/master.css" media="screen"><link rel="shortcut icon" href="http://www.buzzdock.com/favicon.ico" type="image/x-icon"><link rel="image_src" href="http://images.buzzdock.com/site/homepage/buzzdock_icon.jpg">
 
 <script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="/js/cufon.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;text-align:left!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}cufonshy.cufon-shy-disabled,.cufon-viewport-resizing cufonshy{display:none!important;}cufonglue{white-space:nowrap!important;display:inline-block!important;}.cufon-viewport-resizing cufonglue{white-space:normal!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
@@ -13,17 +13,188 @@
 <script type="text/javascript" src="/library/findObj.js"></script>
 
 <script type="text/javascript">
+    var maxRetries = 10;
+    var retry = 0;
+    var hasYL = false;
+
+    function getInstallId() {
+	    try {
+		    if (typeof (yontooAPI) == "undefined") {
+			    try {
+				    if (window.ActiveXObject) {
+					    yontooAPI = new ActiveXObject("YontooIEClient.Api");
+				    }
+			    }
+			    catch (ex) {
+			    }
+		    }
+
+		    if (typeof (yontooAPI) != "undefined") {
+			    var id = yontooAPI.getInstallId();
+			    return id;
+		    } else if (typeof (getInstalledClientId) !== "undefined") {    //chrome
+			    return getInstalledClientId();
+		    } else {
+			    var idElement = findObj("YontooInstallID");
+			    if (idElement != undefined && idElement != null) {
+				    return idElement.innerHTML;
+			    } else {
+				    return "";
+			    }
+		    }
+	    }
+	    catch (ex) {
+		    //console.log(ex);
+	    }
+	    return "";
+    }
+
+    function setupDownloadEnable() {
+        var installId = getInstallId();
+        if (installId === "" || installId === null || installId === undefined) {
+            if (retry < maxRetries) {
+                retry++;
+                setTimeout(setupDownloadEnable, 100);
+            } else {
+                addTease('download');
+                hasYL = true;
+            }
+        } else {
+            
+            checkEnabled(installId);
+        }
+    }
+    function checkEnabled(guid) {
+        var url = 'http://www.buzzdock.com/handlers/EnabledApps.ashx?appid=buzzdock&guid=' + guid + '&date=' +  new Date().getTime() ;
+
+        $.ajax({ url: url,
+            dataType: 'json',
+            cache:false,
+            success: function (data) {
+                if (data['buzzdock']) {
+                    addTease('enabled');
+                } else {
+                    addTease('disabled');
+                }
+
+            }
+        });
+        }
+        
+
+    function createBtn(type) {
+        var btn = document.createElement('a');
+        btn.id = 'freedownload_btn';
+        btn.style.height = '36px';
+        
+        
+        switch (type) {
+            case 'enabled':
+                btn.title = 'Buzzdock Enabled';
+                btn.style.background = 'url(../images/BuzzdockEnabled_btn.png) no-repeat';
+                btn.style.cursor = 'default';
+
+                break;
+            case 'disabled':
+                btn.title = 'Enable Buzzdock';
+                btn.style.background = 'url(../images/EnableBuzzdock_btn.png) no-repeat';
+                btn.onclick = enableBD;
+                $(btn).hover(function () { $(this).css({ backgroundPosition: '0 -39px' }) }, function () { $(this).css({ backgroundPosition: '0 0' }) });
+                break;
+            case 'download':
+            default:
+                btn.title = 'Download Buzzdock';
+                if ($.browser.mozilla) {
+                    btn.href = 'http://www.buzzdock.com/Pages/Download_Firefox.aspx';
+                } else if ($.browser.msie) {
+                    btn.href = 'http://www.buzzdock.com/Pages/Download_Explorer.aspx';
+                } else if (BrowserDetect.browser == "Chrome") {
+                    btn.href = 'http://www.buzzdock.com/Pages/Download_Chrome.aspx';
+                }else {
+                    btn.href = 'http://www.buzzdock.com/Pages/Download_Firefox.aspx';
+                }
+
+            break;
+        }
+
+        return btn;
+    }
+    function createMsg(type)
+    {
+        var txt = document.createElement('div');
+        txt.id = 'sc';
+        txt.style.position = 'absolute';
+        txt.style.top = '15px';
+        txt.style.left = '520px';
+        txt.style.color = '#6d6e70';
+        txt.style.fontStyle = 'italic';
+        txt.style.fontSize = '18px';
+        txt.style.fontWeight = 'bolder';
+
+        switch (type) {
+            case 'enabled':
+                txt.innerHTML = '';
+
+                break;
+            case 'disabled':
+                txt.innerHTML = 'Supercharge Your Search!';
+
+                break;
+            case 'download':
+            default:
+                txt.innerHTML = 'Supercharge Your Search!';
+                break;
+        }
+
+        return txt;
+    }
+    function addTease(type) {
+        var top = document.getElementById('top');
+
+        var dlBtn = createBtn(type);
+        var dlMsg = createMsg(type);
+
+        top.appendChild(dlBtn);
+        top.appendChild(dlMsg);
+
+        $('#sc').animate({ left: 550 }, 'fast');
+
+        if (type == 'download') {
+            if (document.getElementById('bdDlTeaseSearch')) {
+                $('#bdDlTeaseSearch').animate({ height: 35 }, 'fast');
+            }
+
+            if (document.getElementById('bdDlTeaseHome')) {
+                $('#search_box').animate({ height: 151 }, 'fast');
+                $('#bdDlTeaseHome').animate({ height: 65 }, 'fast');
+            }
+        }
+    }
+    function enableBD(){
+        var url= 'http://www.yontoo.com/enableapps.aspx?clientId='+getInstallId()+'&appId=buzzdock&enable=true';
+        var enableFrame = document.createElement('iframe');
+        enableFrame.src = url;
+        enableFrame.style.width = '1px';
+        enableFrame.style.height = '1px';
+        document.body.appendChild(enableFrame);
+        showEnabled();
+        _gaq.push(['_trackEvent', 'enableClicked', 'clicked']);
+    }
+    function showEnabled() {
+        try {
+            var btn = document.getElementById('freedownload_btn');
+            var hdr = btn.parentNode;
+            hdr.removeChild(btn);
+        } catch (e) { }
+        btn = createBtn('enabled');
+        hdr.appendChild(btn);
+        $('#sc').fadeOut('fast');
+        _gaq.push(['_trackEvent', 'enabledDisplayed', 'clicked']);
+    }
     $(document).ready(function () {
-        if ($.browser.mozilla) {
-            $('#freedownload_btn').attr('href', 'http://www.buzzdock.com/Pages/Download_Firefox.aspx');
-        } else if ($.browser.msie) {
-            $('#freedownload_btn').attr('href', 'http://www.buzzdock.com/Pages/Download_Explorer.aspx');
-        } else if (BrowserDetect.browser == "Chrome") {
-            $('#freedownload_btn').attr('href', 'http://www.buzzdock.com/Pages/Download_Chrome.aspx');
-        }
-        else {
-            $('#freedownload_btn').attr('href', 'http://www.buzzdock.com/Pages/Download_Firefox.aspx');
-        }
+        setupDownloadEnable();
+
+
     });  
 </script>
 
@@ -63,7 +234,14 @@
 <title>
 	Buzzdock | Privacy Policy
 </title><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
-<body>
+<body id="web">
+<!-- Start Underdogmedia Tag -->
+<script type="text/javascript" src="http://rt.udmserve.net/udm/fetch.tg?ev66=a;dt=2;"></script>
+<noscript>
+<img src="http://rt.udmserve.net/udm/fetch.tg?ev66=a;dt=3;" style="display: none;" border="0" height="1" width="1" alt="Underdogmedia"/>
+</noscript>
+<!-- End Underdogmedia Tag -->
+
 <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkAnMf74mv9s07tinbQ+GYlxM+608=">
 
@@ -71,13 +249,13 @@
 	<div id="shadow_wrapper" class="shadow border_radius_all">
 		<div id="top" class="border_radius_top">
 			<div id="branding"><a href="/" title="Buzzdock"></a></div>
-			<a href="#" id="freedownload_btn" title="Download Buzzdock"></a>
-		</div>
+			
+		<a id="freedownload_btn" title="Download Buzzdock" href="http://www.buzzdock.com/Pages/Download_Chrome.aspx" style="height: 36px;"></a><div id="sc" style="position: absolute; top: 15px; left: 549.404px; color: rgb(109, 110, 112); font-style: italic; font-size: 18px; font-weight: bolder;">Supercharge Your Search!</div><a id="freedownload_btn" title="Download Buzzdock" href="http://www.buzzdock.com/Pages/Download_Chrome.aspx" style="height: 36px;"></a><div id="sc" style="position: absolute; top: 15px; left: 520px; color: rgb(109, 110, 112); font-style: italic; font-size: 18px; font-weight: bolder;">Supercharge Your Search!</div></div>
         
     <div id="main_content" class="border_radius_bottom">
         <div class="mid" style="margin-bottom: 15px;">
             <div class="mid_text">
-                <h1><cufon class="cufon cufon-canvas" alt="Buzzdock " style="width: 133px; height: 33px;"><canvas width="168" height="39" style="width: 168px; height: 39px; top: -3px; left: -4px;"></canvas><cufontext>Buzzdock </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 103px; height: 33px;"><canvas width="138" height="39" style="width: 138px; height: 39px; top: -3px; left: -4px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 78px; height: 33px;"><canvas width="105" height="39" style="width: 105px; height: 39px; top: -3px; left: -4px;"></canvas><cufontext>Policy</cufontext></cufon></h1>
+                <h1><cufon class="cufon cufon-canvas" alt="Buzzdock " style="width: 55px; height: 13px;"><canvas width="68" height="16" style="width: 68px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Buzzdock </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 43px; height: 13px;"><canvas width="56" height="16" style="width: 56px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 32px; height: 13px;"><canvas width="43" height="16" style="width: 43px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Policy</cufontext></cufon></h1>
                 <p style="margin-right: 22px;">
                     Buzzdock LLC respects the privacy of its users and non-users. This privacy policy
                     discloses any information we obtain and how we use it. Buzzdock also goes to great
@@ -85,8 +263,8 @@
                     is secure and only accessible to intended users. Buzzdock may modify this policy
                     from time to time, and the changes will be posted here.
                 </p>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="1. " style="width: 15px; height: 18.6667px;"><canvas width="33" height="22" style="width: 33px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>1. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="What " style="width: 40px; height: 18.6667px;"><canvas width="59" height="22" style="width: 59px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>What </cufontext></cufon><cufon class="cufon cufon-canvas" alt="information " style="width: 85px; height: 18.6667px;"><canvas width="103" height="22" style="width: 103px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="do " style="width: 23px; height: 18.6667px;"><canvas width="41" height="22" style="width: 41px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>do </cufontext></cufon><cufon class="cufon cufon-canvas" alt="we " style="width: 26px; height: 18.6667px;"><canvas width="44" height="22" style="width: 44px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>we </cufontext></cufon><cufon class="cufon cufon-canvas" alt="collect?" style="width: 54px; height: 18.6667px;"><canvas width="69" height="22" style="width: 69px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>collect?</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="1. " style="width: 12px; height: 13px;"><canvas width="26" height="16" style="width: 26px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>1. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="What " style="width: 31px; height: 13px;"><canvas width="45" height="16" style="width: 45px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>What </cufontext></cufon><cufon class="cufon cufon-canvas" alt="information " style="width: 66px; height: 13px;"><canvas width="79" height="16" style="width: 79px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="do " style="width: 17px; height: 13px;"><canvas width="31" height="16" style="width: 31px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>do </cufontext></cufon><cufon class="cufon cufon-canvas" alt="we " style="width: 19px; height: 13px;"><canvas width="33" height="16" style="width: 33px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>we </cufontext></cufon><cufon class="cufon cufon-canvas" alt="collect?" style="width: 41px; height: 13px;"><canvas width="52" height="16" style="width: 52px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>collect?</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             We collect information from you when you use a Buzzdock service, register on our
@@ -96,8 +274,8 @@
                         </p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="2. " style="width: 18px; height: 18.6667px;"><canvas width="37" height="22" style="width: 37px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>2. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="What " style="width: 40px; height: 18.6667px;"><canvas width="59" height="22" style="width: 59px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>What </cufontext></cufon><cufon class="cufon cufon-canvas" alt="do " style="width: 23px; height: 18.6667px;"><canvas width="41" height="22" style="width: 41px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>do </cufontext></cufon><cufon class="cufon cufon-canvas" alt="we " style="width: 26px; height: 18.6667px;"><canvas width="44" height="22" style="width: 44px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>we </cufontext></cufon><cufon class="cufon cufon-canvas" alt="use " style="width: 30px; height: 18.6667px;"><canvas width="48" height="22" style="width: 48px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>use </cufontext></cufon><cufon class="cufon cufon-canvas" alt="your " style="width: 36px; height: 18.6667px;"><canvas width="54" height="22" style="width: 54px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>your </cufontext></cufon><cufon class="cufon cufon-canvas" alt="information " style="width: 85px; height: 18.6667px;"><canvas width="103" height="22" style="width: 103px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="for?" style="width: 27px; height: 18.6667px;"><canvas width="42" height="22" style="width: 42px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>for?</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="2. " style="width: 14px; height: 13px;"><canvas width="28" height="16" style="width: 28px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>2. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="What " style="width: 31px; height: 13px;"><canvas width="45" height="16" style="width: 45px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>What </cufontext></cufon><cufon class="cufon cufon-canvas" alt="do " style="width: 17px; height: 13px;"><canvas width="31" height="16" style="width: 31px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>do </cufontext></cufon><cufon class="cufon cufon-canvas" alt="we " style="width: 19px; height: 13px;"><canvas width="33" height="16" style="width: 33px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>we </cufontext></cufon><cufon class="cufon cufon-canvas" alt="use " style="width: 22px; height: 13px;"><canvas width="36" height="16" style="width: 36px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>use </cufontext></cufon><cufon class="cufon cufon-canvas" alt="your " style="width: 27px; height: 13px;"><canvas width="41" height="16" style="width: 41px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>your </cufontext></cufon><cufon class="cufon cufon-canvas" alt="information " style="width: 66px; height: 13px;"><canvas width="79" height="16" style="width: 79px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="for?" style="width: 21px; height: 13px;"><canvas width="32" height="16" style="width: 32px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>for?</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             <b>Any of the information we collect from you may be used in one of the following ways:
@@ -127,8 +305,8 @@
                         </p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="3. " style="width: 18px; height: 18.6667px;"><canvas width="36" height="22" style="width: 36px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>3. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="How " style="width: 37px; height: 18.6667px;"><canvas width="55" height="22" style="width: 55px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>How </cufontext></cufon><cufon class="cufon cufon-canvas" alt="we " style="width: 26px; height: 18.6667px;"><canvas width="44" height="22" style="width: 44px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>we </cufontext></cufon><cufon class="cufon cufon-canvas" alt="protect " style="width: 55px; height: 18.6667px;"><canvas width="73" height="22" style="width: 73px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>protect </cufontext></cufon><cufon class="cufon cufon-canvas" alt="your " style="width: 36px; height: 18.6667px;"><canvas width="54" height="22" style="width: 54px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>your </cufontext></cufon><cufon class="cufon cufon-canvas" alt="information" style="width: 81px; height: 18.6667px;"><canvas width="95" height="22" style="width: 95px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>information</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="3. " style="width: 14px; height: 13px;"><canvas width="27" height="16" style="width: 27px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>3. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="How " style="width: 28px; height: 13px;"><canvas width="42" height="16" style="width: 42px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>How </cufontext></cufon><cufon class="cufon cufon-canvas" alt="we " style="width: 19px; height: 13px;"><canvas width="33" height="16" style="width: 33px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>we </cufontext></cufon><cufon class="cufon cufon-canvas" alt="protect " style="width: 42px; height: 13px;"><canvas width="55" height="16" style="width: 55px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>protect </cufontext></cufon><cufon class="cufon cufon-canvas" alt="your " style="width: 27px; height: 13px;"><canvas width="41" height="16" style="width: 41px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>your </cufontext></cufon><cufon class="cufon cufon-canvas" alt="information" style="width: 63px; height: 13px;"><canvas width="73" height="16" style="width: 73px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>information</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             We implement a variety of security measures to maintain the safety of your personal
@@ -136,8 +314,8 @@
                         </p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="4. " style="width: 18px; height: 18.6667px;"><canvas width="36" height="22" style="width: 36px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>4. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Browser " style="width: 63px; height: 18.6667px;"><canvas width="81" height="22" style="width: 81px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Browser </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Cookies" style="width: 57px; height: 18.6667px;"><canvas width="72" height="22" style="width: 72px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Cookies</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="4. " style="width: 14px; height: 13px;"><canvas width="27" height="16" style="width: 27px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>4. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Browser " style="width: 48px; height: 13px;"><canvas width="62" height="16" style="width: 62px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Browser </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Cookies" style="width: 43px; height: 13px;"><canvas width="54" height="16" style="width: 54px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Cookies</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             We use cookies to understand and save your preferences for future visits, keep track
@@ -149,8 +327,8 @@
                         </p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="5. " style="width: 18px; height: 18.6667px;"><canvas width="37" height="22" style="width: 37px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>5. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Buzzdock " style="width: 72px; height: 18.6667px;"><canvas width="91" height="22" style="width: 91px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Buzzdock </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Information " style="width: 85px; height: 18.6667px;"><canvas width="104" height="22" style="width: 104px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Disclosures" style="width: 81px; height: 18.6667px;"><canvas width="96" height="22" style="width: 96px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Disclosures</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="5. " style="width: 14px; height: 13px;"><canvas width="28" height="16" style="width: 28px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>5. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Buzzdock " style="width: 55px; height: 13px;"><canvas width="68" height="16" style="width: 68px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Buzzdock </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Information " style="width: 66px; height: 13px;"><canvas width="80" height="16" style="width: 80px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Disclosures" style="width: 62px; height: 13px;"><canvas width="73" height="16" style="width: 73px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Disclosures</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             <b>Buzzdock reserves the rights to disclose personally-identifiable information in the
@@ -177,8 +355,8 @@
                         </p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="6. " style="width: 18px; height: 18.6667px;"><canvas width="37" height="22" style="width: 37px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>6. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Performance " style="width: 94px; height: 18.6667px;"><canvas width="113" height="22" style="width: 113px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Performance </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 42px; height: 18.6667px;"><canvas width="57" height="22" style="width: 57px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Policy</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="6. " style="width: 14px; height: 13px;"><canvas width="28" height="16" style="width: 28px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>6. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Performance " style="width: 72px; height: 13px;"><canvas width="86" height="16" style="width: 86px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Performance </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 32px; height: 13px;"><canvas width="43" height="16" style="width: 43px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Policy</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             Buzzdock does not guarantee error-free performance. Buzzdock will always try its
@@ -213,8 +391,8 @@
                         </p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="7. " style="width: 15px; height: 18.6667px;"><canvas width="34" height="22" style="width: 34px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>7. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Online " style="width: 50px; height: 18.6667px;"><canvas width="69" height="22" style="width: 69px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Online </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 55px; height: 18.6667px;"><canvas width="73" height="22" style="width: 73px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy " style="width: 46px; height: 18.6667px;"><canvas width="64" height="22" style="width: 64px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Policy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Only" style="width: 32px; height: 18.6667px;"><canvas width="47" height="22" style="width: 47px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Only</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="7. " style="width: 12px; height: 13px;"><canvas width="26" height="16" style="width: 26px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>7. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Online " style="width: 38px; height: 13px;"><canvas width="52" height="16" style="width: 52px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Online </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 43px; height: 13px;"><canvas width="56" height="16" style="width: 56px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy " style="width: 35px; height: 13px;"><canvas width="49" height="16" style="width: 49px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Policy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Only" style="width: 25px; height: 13px;"><canvas width="36" height="16" style="width: 36px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Only</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             This online privacy policy applies only to information collected through our website
@@ -222,8 +400,8 @@
                         </p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="8. " style="width: 18px; height: 18.6667px;"><canvas width="37" height="22" style="width: 37px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>8. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Acceptance " style="width: 86px; height: 18.6667px;"><canvas width="105" height="22" style="width: 105px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Acceptance </cufontext></cufon><cufon class="cufon cufon-canvas" alt="of " style="width: 18px; height: 18.6667px;"><canvas width="37" height="22" style="width: 37px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>of </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 55px; height: 18.6667px;"><canvas width="73" height="22" style="width: 73px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 42px; height: 18.6667px;"><canvas width="57" height="22" style="width: 57px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Policy</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="8. " style="width: 14px; height: 13px;"><canvas width="28" height="16" style="width: 28px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>8. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Acceptance " style="width: 66px; height: 13px;"><canvas width="79" height="16" style="width: 79px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Acceptance </cufontext></cufon><cufon class="cufon cufon-canvas" alt="of " style="width: 14px; height: 13px;"><canvas width="28" height="16" style="width: 28px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>of </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 43px; height: 13px;"><canvas width="56" height="16" style="width: 56px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 32px; height: 13px;"><canvas width="43" height="16" style="width: 43px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Policy</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             This privacy policy is incorporated into and subject to Buzzdock's <a href="/terms" target="_blank">
@@ -236,8 +414,8 @@
                         </p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="9. " style="width: 18px; height: 18.6667px;"><canvas width="36" height="22" style="width: 36px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>9. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Yontoo " style="width: 55px; height: 18.6667px;"><canvas width="74" height="22" style="width: 74px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Yontoo </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Layers " style="width: 50px; height: 18.6667px;"><canvas width="69" height="22" style="width: 69px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Layers </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Information " style="width: 85px; height: 18.6667px;"><canvas width="104" height="22" style="width: 104px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Collection " style="width: 75px; height: 18.6667px;"><canvas width="93" height="22" style="width: 93px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Collection </cufontext></cufon><cufon class="cufon cufon-canvas" alt="and " style="width: 31px; height: 18.6667px;"><canvas width="50" height="22" style="width: 50px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>and </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Transfer" style="width: 57px; height: 18.6667px;"><canvas width="74" height="22" style="width: 74px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Transfer</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="9. " style="width: 14px; height: 13px;"><canvas width="27" height="16" style="width: 27px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>9. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Yontoo " style="width: 42px; height: 13px;"><canvas width="56" height="16" style="width: 56px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Yontoo </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Layers " style="width: 39px; height: 13px;"><canvas width="52" height="16" style="width: 52px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Layers </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Information " style="width: 66px; height: 13px;"><canvas width="80" height="16" style="width: 80px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Collection " style="width: 57px; height: 13px;"><canvas width="71" height="16" style="width: 71px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Collection </cufontext></cufon><cufon class="cufon cufon-canvas" alt="and " style="width: 24px; height: 13px;"><canvas width="37" height="16" style="width: 37px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>and </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Transfer" style="width: 44px; height: 13px;"><canvas width="57" height="16" style="width: 57px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Transfer</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             To provide services to the User, Buzzdock requires Yontoo Layers software to be installed.
@@ -289,8 +467,8 @@
                             or Services.</p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="10. " style="width: 24px; height: 18.6667px;"><canvas width="43" height="22" style="width: 43px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>10. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Yontoo " style="width: 55px; height: 18.6667px;"><canvas width="74" height="22" style="width: 74px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Yontoo </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Layers " style="width: 50px; height: 18.6667px;"><canvas width="69" height="22" style="width: 69px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Layers </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Information " style="width: 85px; height: 18.6667px;"><canvas width="104" height="22" style="width: 104px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Sharing" style="width: 54px; height: 18.6667px;"><canvas width="68" height="22" style="width: 68px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Sharing</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="10. " style="width: 19px; height: 13px;"><canvas width="33" height="16" style="width: 33px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>10. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Yontoo " style="width: 42px; height: 13px;"><canvas width="56" height="16" style="width: 56px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Yontoo </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Layers " style="width: 39px; height: 13px;"><canvas width="52" height="16" style="width: 52px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Layers </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Information " style="width: 66px; height: 13px;"><canvas width="80" height="16" style="width: 80px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Sharing" style="width: 42px; height: 13px;"><canvas width="52" height="16" style="width: 52px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Sharing</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             Yontoo may collect and analyze your usage patterns such as which sites you visit,
@@ -311,8 +489,8 @@
                         </p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="11. " style="width: 21px; height: 18.6667px;"><canvas width="39" height="22" style="width: 39px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>11. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Yontoo " style="width: 55px; height: 18.6667px;"><canvas width="74" height="22" style="width: 74px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Yontoo </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Layers " style="width: 50px; height: 18.6667px;"><canvas width="69" height="22" style="width: 69px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Layers </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 55px; height: 18.6667px;"><canvas width="73" height="22" style="width: 73px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 42px; height: 18.6667px;"><canvas width="57" height="22" style="width: 57px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Policy</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="11. " style="width: 17px; height: 13px;"><canvas width="31" height="16" style="width: 31px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>11. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Yontoo " style="width: 42px; height: 13px;"><canvas width="56" height="16" style="width: 56px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Yontoo </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Layers " style="width: 39px; height: 13px;"><canvas width="52" height="16" style="width: 52px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Layers </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 43px; height: 13px;"><canvas width="56" height="16" style="width: 56px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 32px; height: 13px;"><canvas width="43" height="16" style="width: 43px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Policy</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             Yontoo respects the privacy of its users and non-users. Yontoo goes to great lengths
@@ -322,8 +500,8 @@
                         </p>
                     </div>
                 </div>
-                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="12. " style="width: 24px; height: 18.6667px;"><canvas width="43" height="22" style="width: 43px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>12. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="For " style="width: 28px; height: 18.6667px;"><canvas width="46" height="22" style="width: 46px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>For </cufontext></cufon><cufon class="cufon cufon-canvas" alt="More " style="width: 41px; height: 18.6667px;"><canvas width="59" height="22" style="width: 59px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>More </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Information" style="width: 81px; height: 18.6667px;"><canvas width="95" height="22" style="width: 95px; height: 22px; top: -2px; left: -3px;"></canvas><cufontext>Information</cufontext></cufon></a></h2>
-                <div class="toggle_container">
+                <h2 class="trigger"><a href="javascript:void();"><cufon class="cufon cufon-canvas" alt="12. " style="width: 19px; height: 13px;"><canvas width="33" height="16" style="width: 33px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>12. </cufontext></cufon><cufon class="cufon cufon-canvas" alt="For " style="width: 21px; height: 13px;"><canvas width="35" height="16" style="width: 35px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>For </cufontext></cufon><cufon class="cufon cufon-canvas" alt="More " style="width: 31px; height: 13px;"><canvas width="45" height="16" style="width: 45px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>More </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Information" style="width: 63px; height: 13px;"><canvas width="73" height="16" style="width: 73px; height: 16px; top: -1px; left: -2px;"></canvas><cufontext>Information</cufontext></cufon></a></h2>
+                <div class="toggle_container" style="display: none;">
                     <div>
                         <p>
                             If there are any questions regarding this privacy policy you may contact us using
@@ -344,27 +522,25 @@
         </div>
     </div>
 
-        <div style="position:relative; float:right; height:inherit;-moz-border-radius-bottomright: 10px;">
-            <div style="background: url('/images/tab.png') no-repeat scroll 0% 0% transparent; width:207px; height:47px; position:absolute; bottom:0; right:0; -moz-border-radius-bottomright: 10px;">
-                <div style="position:absolute; bottom:0; left:30px; display:table;">
-                    <table style="width:100px;" border="0" cellpadding="0" cellspacing="0">
+        <div style="width:960px; position:relative; table-layout:fixed; bottom:0; right:0; height:inherit; -moz-border-radius-bottomright: 10px;">
+            <div style="background: url('/images/tab.png') no-repeat scroll 0% 0% transparent; overflow:hidden; width:200px; height:47px; position:absolute; bottom:0; right:0; -moz-border-radius-bottomright: 10px; ">
+                <div style="position:absolute; bottom:0; left:30px; display:table;  ">
+                    <table style="width:100px; margin-left:5px; margin-bottom:10px;" border="0" cellpadding="0" cellspacing="0">
                         <tbody>
-                            <tr>
-                                <td>
+                            <tr style="vertical-align:middle;">
+                                <td style="width:33%">
                                 <div style="width:52px; overflow:hidden;">
-                                    <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.buzzdock.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:75px; height:21px;" allowtransparency="true">
+                                    <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.buzzdock.com&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="margin-top:1px; border:none; overflow:hidden; width:75px; height:21px;" allowtransparency="true">
                                     </iframe>
                                 </div>
                                 </td>
-                                <td>
+                                <td style="width:33%">
                                     <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.buzzdock.com" data-text="Supercharge your search with Buzzdock - The ultimate search enhancer" data-count="none" data-via="buzzdock"></a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
                                 </td>
-                                <td>
-                                    <a href="http://www.youtube.com/thebuzzdock" id="youtube_btn" title="YouTube" target="_blank"></a>
+                                <td style="width:33%; ">
+                                    <a style="margin-left:8px;" href="http://www.youtube.com/thebuzzdock" id="youtube_btn" title="YouTube" target="_blank"></a>
                                 </td>
-                                <td>
-                                    <a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.buzzdock.com&amp;title=" id="stumbleupon_btn" title="Stumble Upon" target="_blank"></a>
-                                </td>
+                               
                             </tr>
                         </tbody>
                     </table>
@@ -378,10 +554,11 @@
 			<li><a href="/about" title="About Us">About Us</a>|</li>
 			<li><a href="/contact" title="Contact Us">Contact Us</a>|</li>
 			<li><a href="http://www.facebook.com/thebuzzdock?v=app_4949752878" title="Fan Page" target="_blank">Fan Page</a>|</li>
-			<li><a href="/blog" title="Blog">Blog</a>|</li>
+			<li><a href="http://blog.buzzdock.com" title="Blog">Blog</a>|</li>
 			<li><a href="/help" title="Help">Help</a>|</li>
 			<li><a href="/privacy" title="Privacy Policy">Privacy Policy</a>|</li>
-			<li><a href="/terms" title="Terms of Service">Terms of Service</a></li>
+			<li><a href="/terms" title="Terms of Service">Terms of Service</a> | </li>
+            <li style="border: none;"><a href="../Pages/Ad_With_Us.aspx" title="Advertise with Us">Advertise with Us</a></li>
 		</ul>
         <div style="color:#FFFFFF; text-align:center;padding-top:4px;">Copyright © 2011 Buzzdock, LLC.</div>
 	</div><!--End Footer-->
