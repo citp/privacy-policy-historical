@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelazymarketer.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428192557id_/http%3A//www.thelazymarketer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelazymarketer.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206021724id_/http%3A//www.thelazymarketer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for TheLazyMarketer.com
 
