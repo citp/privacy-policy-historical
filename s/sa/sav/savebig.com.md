@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savebig.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623225207id_/http%3A//www.savebig.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savebig.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206051102id_/http%3A//www.savebig.com/help/privacy-policy) for the most accurate reproduction.*
 
 # SaveBig.com - Bid to Win Amazing Deals on Electronics, Computers, Jewelry & Fashion, Home & Garden, DVDs & more - SaveBig.com
 
