@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623100323id_/http%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206223509id_/http%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
 
 # HillaryClinton.com - Privacy Policy
-
-[Hillary Clinton](https://web.archive.org/)
 
 At Friends of Hillary, we are putting forth every effort to ensure the privacy and security of information that you share with us online. We urge you to take steps also to protect the privacy of your personal information, such as safeguarding your passwords and logging off of the website after submitting personal information. If you have broadband access to the Internet, we strongly advise you to use a firewall.  
 Our privacy policy explains the information practices we use at HillaryClinton.com:
