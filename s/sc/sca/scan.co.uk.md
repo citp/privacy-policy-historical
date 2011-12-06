@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scan.co.uk privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506054108id_/http%3A//www.scan.co.uk/information/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scan.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206010446id_/http%3A//www.scan.co.uk/information/privacy.aspx) for the most accurate reproduction.*
 
-# Scan.co.uk: Award winning supplier, performance hardware & systems
+# Award winning supplier, performance hardware & systems - Scan.co.uk
 
   * Scan Computers International Ltd (www.scan.co.uk) is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK.  
 The purpose of this statement is to explain to you what personal information we collect and how we may use it 
