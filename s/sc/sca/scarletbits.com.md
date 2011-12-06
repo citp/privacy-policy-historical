@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scarletbits.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520132604id_/http%3A//scarletbits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scarletbits.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206055857id_/http%3A//scarletbits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Google, as a third party advertisement vendor, uses cookies to serve ads on this
 Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Scarletbits has no access or control over these cookies that may be used by third party advertisers.
 
 **Collection of Personal Information**  
-When visiting Scarletbits, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+When visiting scarletbits.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
 **Links to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. We may also act as an affiliate for products and receive a commission for referrals.
@@ -18,4 +18,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Scarletbits then you may contact us through the [contact](http://scarletbits.com/contact-us) page.
+If you have any questions regarding the privacy policy of scarletbits.com then you may contact us through the [contact](http://scarletbits.com/contact-us) page.
