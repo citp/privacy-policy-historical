@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723161341id_/http%3A//www.surfcanyon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206182751id_/http%3A//www.surfcanyon.com/privacy) for the most accurate reproduction.*
 
 # Surf Canyon Privacy Policy
 
@@ -58,7 +58,7 @@ With respect specifically to the Refinement Links, as discussed in section 2.2 a
 
 ### 3.2 Cookies
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. Cookies enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but the ability for our service to provide accurate personaliztion for you will be limited.
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. Cookies enable us to target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but the ability for our service to provide accurate personalization for you may be limited.
 
 ### 3.3 Third Party Search Engines
 
