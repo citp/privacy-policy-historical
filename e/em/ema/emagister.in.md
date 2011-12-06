@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the emagister.in privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423230853id_/http%3A//www.emagister.in/web/pagina/privacidad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emagister.in privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206070510id_/http%3A//www.emagister.in/web/pagina/privacidad) for the most accurate reproduction.*
 
 # Emagister
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.emagister.com&sealid=101)
 
 **1\. Data Protection**
 
