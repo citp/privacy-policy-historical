@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetbusinessmastery.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611110604id_/http%3A//internetbusinessmastery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetbusinessmastery.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206014620id_/http%3A//internetbusinessmastery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Business Mastery
 
