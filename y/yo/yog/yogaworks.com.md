@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogaworks.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607193646id_/http%3A//yogaworks.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogaworks.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206045357id_/http%3A//www.yogaworks.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # YogaWorks - Legal/Privacy Policy
 
@@ -8,7 +8,7 @@ Search By Instructor
 
 [
 
-](https://web.archive.org/en/Yogashop.aspx)
+](https://web.archive.org/Yogashop.aspx)
 
 YogaWorks is committed to protecting your privacy. Visitors to our web-site are completely anonymous. We do not collect any information from your computer without your input.  In the event that we ask for personal information, for follow-up, you provide this information solely at your discretion. 
 
