@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deal.com.sg privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318131956id_/http%3A//deal.com.sg/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deal.com.sg privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206193736id_/http%3A//deal.com.sg/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Deal.com.sg - Best Deals in Singapore
 
@@ -51,6 +51,7 @@ If you have any questions about this privacy policy or DEAL.com.sg’s treatment
 By email to: [info@deal.com.sg](mailto:info@deal.com.sg)  
 Or  
 By post to:  
-DEALGURU Holdings Pte Ltd  
-310A Lavender Street  
-Singapore 338815
+1 King George’s Avenue  
+Rehau Building  
+Level 5  
+Singapore 208557
