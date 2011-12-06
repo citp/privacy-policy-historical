@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613220023id_/http%3A//www.ncr.com/utility/privacy_policy/ncr_privacy_policy.jsp%3Flang%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206101253id_/http%3A//www.ncr.com/home/privacy-policy) for the most accurate reproduction.*
 
-# NCR Privacy Policy
+# Privacy Policy | NCR.com | NCR
 
 **NCR’s Policy on Privacy and Data Protection**
 
@@ -52,7 +52,7 @@ We will not sell, rent or lease Personal Information to third parties, except in
 We will provide mechanisms for opting out of mass marketing communications targeted by Personal Information we have collected. These mechanisms will normally be available on the relevant web site, but you may always use the contact mechanism specified below. Requests to opt out of communications based on data controlled by third parties must be made through the third party.
 
 **Accessing and maintaining the accuracy of your Personal Information**  
-We strive to maintain the accuracy of any Personal Information we collect. We will provide mechanisms to allow you to review, correct, or delete (except where retention is necessary to complete a requested transaction or service, or to meet legal requirements) Personal Information related to you. These mechanisms will normally be available on the relevant Web site, but you may always use the contact mechanism specified below. Requests to access, correct, or delete Personal Information controlled by third parties must be made through that third party. 
+We strive to maintain the accuracy of any Personal Information we collect. We will provide mechanisms to allow you to review, correct, or delete (except where retention is necessary to complete a requested transaction or service, or to meet legal requirements) Personal Information related to you. These mechanisms will normally be available on the relevant Web site, but you may always use the contact mechanism specified below. Requests to access, correct, or delete Personal Information controlled by third parties must be made through that third party.
 
 **Protection of your Personal Information**  
 We will take appropriate steps to safeguard Personal Information to reduce the risk of its disclosure or use in violation of this policy.
