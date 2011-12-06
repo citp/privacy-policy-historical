@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629071904id_/http%3A//www.godeals.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206221351id_/http%3A//www.godeals.com/policy.php) for the most accurate reproduction.*
 
 # Terms and Conditions of goDeals.com
 
