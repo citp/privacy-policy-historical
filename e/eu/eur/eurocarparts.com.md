@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocarparts.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315055317id_/http%3A//www.eurocarparts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocarparts.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206155614id_/http%3A//www.eurocarparts.com/privacy-policy) for the most accurate reproduction.*
 
 # Euro Car Parts Privacy Policy| Car Parts | Car Accessories | Car Tools
 
