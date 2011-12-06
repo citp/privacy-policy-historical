@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerprofiles.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306182853id_/http%3A//www.powerprofiles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerprofiles.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206184325id_/http%3A//www.powerprofiles.com/privacy) for the most accurate reproduction.*
 
 # PowerProfiles Privacy Policy
 
@@ -50,6 +50,26 @@ If you post or otherwise add information to PowerProfiles.com, it can be viewed 
 
 
 
+#### Personally Identifiable Consumer Information
+
+In addition, we may collect information that you choose to provide to us when requesting additional information from us or from one or more of our clients. Examples of personally identifiable data that you may provide to us include name, address, phone and email address. If you provide personally identifiable data to us, you may later elect to have your information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below.
+
+If you elect to provide PowerProfiles.com with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from PowerProfiles.com from our clients, or from third party services collecting information on behalf of our joint clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other PowerProfiles.com sales and marketing efforts.
+
+#### Sharing Information with Third Parties
+
+All personally identifiable information you provide is maintained in confidence by PowerProfiles.com. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.
+
+Your non-personally identifiable data may be shared with third-party partners of PowerProifiles.com on an anonymous basis.
+
+When you request information from PowerProfiles.com or one or more of our clients, we may transfer that information within PowerProfiles.com or route your information to our client(s) directly or via third parties, so that they may provide the information on their product or service.
+
+We may also disclose information to an affiliate or third party who provides services we deem relevant. In such situations, you will always be provided with an opportunity to opt-out of receiving this information. Please be aware that PowerPRofiles.com is very careful in selecting companies with whom it does business.
+
+In addition to the above situations where your information may be shared with others, there is also the possibility that PowerProfiles.com, or part(s) of our parent company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information.
+
+Finally, PowerProfiles.com may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials.
+
 #### Newsletters
 
 As a subscriber or visitor to a PowerProfiles.com's site, you may sign up for one of our free newsletters. When you sign up for one of the newsletters, we ask for contact information, such as your name and e-mail address, and job and job title information, which are used to help us understand our audience. Unless you expressly request otherwise during the registration or sing up process, this information is for PowerProfiles.com's use only and is not disclosed to any other party except in aggregate form. Additionally, if you decide that you do not wish to receive a newsletter or update any longer, you may cancel it by opting out via the links at the bottom of e-mails you receive.
@@ -70,7 +90,7 @@ A "cookie" is a small piece of information sent by a Web server to store in a We
 
 We use in-house and one or more third-party advertising companies to serve ads when you visit our Web site, as well as when we serve PowerProfiles.com buttons, banners, badges, videos or other content on member sites or other third-party websites. In the course of serving advertisements, we or our third-party advertisers may place or recognize a unique "cookie" on your browser. While the cookie we set may be tied to your specific personal information we also may set anonymous cookies and all third party cookie data is anonymous. PowerProfiles.com uses the anonymous information it collects to customize the advertisements that consumers see on participating web sites and to analyze if the advertising resulted in sales, clicks or other activity. In accordance with applicable laws and regulations, PowerProfiles.com will also disclose this information in response to subpoenas, court orders and other required legal processes.
 
-PowerProfiles.com and/or these companies may use information (not including your name, address, e-mail address or telephone number) about your visits to PowerProfiles.com's and other Web sites in order to provide advertisements on this site and other sites about goods and services that might be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here]().
+PowerProfiles.com and/or these companies may use information (not including your name, address, e-mail address or telephone number) about your visits to PowerProfiles.com's and other Web sites in order to provide advertisements on this site and other sites about goods and services that might be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 In order to make PowerProfiles.com's a more valuable product for our subscribers and visitors, we also collect and analyze statistical information. From time to time, we share this information in aggregate with third parties. However, this data is reported only in aggregate and reveals no personal details about individual visitors to our site. This information is distributed only to help attract appropriate advertisers for the PowerProfiles.com's site.
 
@@ -96,7 +116,6 @@ Our websites contain many links to other company websites and to products and se
 
 PowerProfiles.com   
 Attn: Customer Support   
-345 7th Avenue, Suite 1400.   
-New York, NY 10001   
-Phone: 1-877-249-0777   
-E-mail: support@PowerProfiles.com
+330 Old Country Road, Suite 206   
+Mineola, NY 11501   
+E-mail: [support@PowerProfiles.com](mailto:support@PowerProfiles.com)
