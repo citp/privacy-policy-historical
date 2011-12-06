@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhramania.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104030108id_/http%3A//www.andhramania.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhramania.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206110354id_/http%3A//www.andhramania.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Andhra Mania
 
