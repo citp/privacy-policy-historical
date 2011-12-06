@@ -1,62 +1,54 @@
-> *The following text is extracted and transformed from the hitsusa.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107104926id_/http%3A//hitsusa.com/help_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsusa.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206043803id_/http%3A//www.hitsusa.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Website Traffic - Increase Targeted Website Traffic Rankings
+# Privacy Policy
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
+HitsUSA.com Privacy Policy  
+The following privacy statement covers the HitsUSA.com website. Please read this statement regarding our website. If you have any questions or suggestions regarding our privacy policy, please contact us.
 
-When accessing our Website, HitsUsa.com will learn certain information about you during your visit.
+Ownership of Information  
+HitsUSA.com is the sole owner of the information collected on the HitsUSA.com website.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
+Comments  
+In order to enhance their use of the HitsUSA.com website, users can choose to leave comments on particular articles of interest. HitsUSA.com will screen out users who leave comments prohibited by our terms and conditions of use.
 
-  
-**What Are Cookies?**
+Mailing List  
+HitsUSA.com may launch a mailing list at some time in the future. In order to sign up to receive regular emails from a site’s mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+Public Forums  
+This site makes public comments, chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-  
-**IP Addresses**
+Third Party Cookies  
+Some of our business partners may use cookies on our site (for example, advertisers). However, HitsUSA.com has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by HitsUSA.com only and does not cover the use of cookies by any advertisers.
 
-IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as �traffic data� so that data (such as the Web pages you request) can be sent to you.
+Third Party Advertising  
+The ads appearing on the HitsUSA.com website are delivered to users by third party advertisers including Google, among others. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
 
-  
-**Email Information**
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.google.com/privacy_ads.html).
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
+Google and the [ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
 
-  
-**How Do We Use the Information That You Provide to Us?**
+  * Google, as a third party vendor, uses cookies to serve ads on HitsUSA.com.
+  * Google's use of the DART cookie enables it and its partners to serve ads to users based on their visit to HitsUSA.com and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
 
-HitsUsa.com will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+**LIMIT USE OF PERSONAL INFORMATION** \- You can limit the use of any personal information in several ways. First, do not signup for the forum or our newsletter. If you unsubscribe from the newsletter, your information and email address are deleted from all our files. If you delete your forum profile, all your personal information is removed from our forum database. If you need assistance with removal of your personal information, please contact us.
 
-**  
-A Special Note About Children**
+Log Files  
+Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
 
-Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
+Legal Disclaimer  
+Though we make every effort to preserve user privacy, HitsUSA.com may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the HitsUSA.com websites.
 
-  
-**How Do We Protect Your Information and Secure Information Transmissions?**
+Business Transitions  
+In the event HitsUSA.com goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
+Links  
+The HitsUSA.com website contain links to other sites. Please be aware that HitsUSA.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by HitsUSA.com.
 
-HitsUsa.com may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+Notification of Changes  
+Whenever HitsUSA.com changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
 
-For site security purposes and to ensure that this service remains available to all users, HitsUsa.com uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-
-  
-**Policy Changes**
-
-We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
-
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-**  
-Contact**
-
-If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
-
-HitsUsa.com  
-
+Contact Information  
+If you have any questions or suggestions regarding our privacy policy, please contact us using the contact form on any page.
