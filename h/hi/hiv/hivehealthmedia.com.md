@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hivehealthmedia.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085234id_/http%3A//www.hivehealthmedia.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hivehealthmedia.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206043519id_/http%3A//www.hivehealthmedia.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Hive Health Media Privacy Policy
 
@@ -67,5 +67,3 @@ Upon request, an individual will be informed of the existence, use and disclosur
 PRINCIPLE 10 – CHALLENGING COMPLIANCE
 
 An individual Visitor will be able to address a challenge concerning compliance with the principles in this Privacy Policy to Hive Health Media’s webmaster. Hive Health Media will investigate any complaint, and if the complaint is justified, Hive Health Media will remedy it.
-
-[](http://addthis.com/bookmark.php?v=250)
