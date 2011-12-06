@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the naxos.com privacy policy that was archived on 2011-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605075815id_/http%3A//www.naxos.com/h_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naxos.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206131435id_/http%3A//www.naxos.com/h_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -655,7 +655,7 @@
 			<tbody><tr>
 				<td align="center" width="100%">
 					<span class="style1">
-						3:58:15 PM,&nbsp;5&nbsp;June&nbsp;2011<br>
+						9:14:35 PM,&nbsp;6&nbsp;December&nbsp;2011<br>
 						<div style="margin: 0 auto; width: 700px; padding: 5px 0px 5px 0px">
 							All Naxos Historical, Naxos Classical Archives, Naxos Jazz, Folk and Rock Legends
 							and Naxos Nostalgia titles are not available in the United States and some titles
@@ -736,46 +736,33 @@
 </script>
 
 <div style="float: left; position: fixed; height: 20px; left: 0px; bottom: 0px; text-align: center; width: 100%; background-color: rgb(255, 255, 204); font-size: medium; border-top: 1px solid rgb(204, 204, 204); word-spacing: -1px; letter-spacing: 0px; display: none;" id="MaintenanceNotice">
-					 <span style="color: Red;">NOTICE:</span> This system will be down due to routine
-					 maintenance on <span id="NoticeDate">Sunday, April 10th 2011</span> from <span id="NoticeStart">12:00AM (GMT)</span> to <span id="NoticeEnd">4:00AM (GMT)</span>
-				 </div>
-				 <script type="text/javascript"><!--
-					 function PadDigits(n, totalDigits) {
-						 n = n.toString();
-						 var pd = '';
-						 if (totalDigits > n.length) {
-							 for (i = 0; i < (totalDigits - n.length); i++) {
-								 pd += '0';
-							 }
-						 }
-						 return pd + n.toString();
-					 }
-					 (function () {
-						 var s = new Date();
-						 s.setUTCFullYear(2011, 4 - 1, 10);
-						 s.setUTCHours(0, 0, 0, 0);
-
-						 var e = new Date();
-						 e.setUTCFullYear(2011, 4 - 1, 10);
-						 e.setUTCHours(4, 0, 0, 0);
-
-						 if ((new Date()) > s)
-							 document.getElementById("MaintenanceNotice").style.display = "none";
-						 else {
-							 document.getElementById("NoticeDate").innerHTML = s.toDateString();
-							 document.getElementById("NoticeStart").innerHTML =
-								(s.getHours() % 12 == 0 ? 12 : s.getHours() % 12) +
-								":" + PadDigits(s.getMinutes(), 2) +
-								" " + (s.getHours() < 12 ? "AM" : "PM");
-							 document.getElementById("NoticeEnd").innerHTML =
-								(e.getHours() % 12 == 0 ? 12 : e.getHours() % 12) +
-								":" + PadDigits(e.getMinutes(), 2) +
-								" " + (e.getHours() < 12 ? "AM" : "PM");
-						 }
-					 })();
-				 --></script>
-
-
-
- 
-</body></html>
+		<span style="color: Red;">NOTICE:</span> This site was unavailable for several hours on  
+		<span id="NoticeDate">Saturday, June 25th 2011</span> due to some unexpected but essential maintenance work. We apologize for any inconvenience.
+	</div>
+	<script type="text/javascript">//<![CDATA[
+		function PadDigits(n, totalDigits) {
+			n = n.toString();
+			var pd = '';
+			if (totalDigits > n.length) {
+				for (i = 0; i < (totalDigits - n.length); i++) {
+					pd += '0';
+				}
+			}
+			return pd + n.toString();
+		}
+		(function () {
+			var s = new Date();
+			s.setUTCFullYear(2011, 6 - 1, 25);
+			s.setUTCHours(6, 30, 0, 0);
+			var e = new Date();
+			e.setUTCFullYear(2011, 6 - 1, 28);
+			e.setUTCHours(6, 30, 0, 0);
+			if ((new Date()) > e)
+				document.getElementById("MaintenanceNotice").style.display = "none";
+			else {
+				document.getElementById("NoticeDate").innerHTML = s.toDateString();
+			}
+		})();
+	//]]></script>
+     
+	</body></html>
