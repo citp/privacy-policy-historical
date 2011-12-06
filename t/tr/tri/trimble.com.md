@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106120301id_/http%3A//www.trimble.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimble.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206074916id_/http%3A//www.trimble.com/privacy.shtml) for the most accurate reproduction.*
 
 # Trimble - Privacy Statement
 
-Last updated: March 20, 2007
+Last updated: May 17, 2011
 
 **Trimble's Commitment to Online Privacy**
 
@@ -66,27 +66,28 @@ In the ordinary course of business Trimble will not sell, trade or rent your ind
 The following external service providers collect information through our websites: 
 
   * [http://www.trimbleevents.com](http://www.trimbleevents.com/)   
-Enterprise Events Group (EEG), a value leader in the event management services industry hosts and operates our online registration process for Trimble Dimensions 2005 user Conference at [ http://www.trimbleevents.com](http://www.trimbleevents.com/) . When you register for the conference from this online registration website, your contact and billing information will be collected by Enterprise Events Group. Please view Enterprise Events Group Privacy Statement at <http://www.eeginc.com/> for a full description of Enterprise Events Group comprehensive information privacy procedures. WingateWeb is an award-winning online event registration and event management software company. WingateWeb provides the event management software solution for Trimble Dimensions 2009 User Conference. Please view WingateWeb's Privacy Statement at [http://www.wingateweb.com](http://www.wingateweb.com/) for a full description of WingateWebs comprehensive information privacy procedures.   
- 
+Enterprise Events Group (EEG), a value leader in the event management services industry hosts and operates our online registration process for Trimble Dimensions 2005 user Conference at [ http://www.trimbleevents.com](http://www.trimbleevents.com/) . When you register for the conference from this online registration website, your contact and billing information will be collected by Enterprise Events Group. Please view Enterprise Events Group Privacy Statement at <http://www.eeginc.com/> for a full description of Enterprise Events Group comprehensive information privacy procedures. WingateWeb is an award-winning online event registration and event management software company. WingateWeb provides the event management software solution for Trimble Dimensions 2009 User Conference. Please view WingateWeb's Privacy Statement at [http://www.wingateweb.com](http://www.wingateweb.com/) for a full description of WingateWeb�s comprehensive information privacy procedures. 
   * [http://www.tmsreplacements.com](http://www.tmsreplacements.com/)   
 Yahoo!. a leading hosting and e-commerce service provider, hosts our online store at www.tmsreplacements.com. Please see Yahoo!'s Privacy Statement at: <http://privacy.yahoo.com/>
 
 When you purchase our products and services from this online store, your contact and billing information will be collected by Wells Fargo Merchant Solutions. Please view Wells Fargo's Privacy Statement at: [ http://www.wellsfargo.com/privacy_security/index.jhtml](http://www.wellsfargo.com/privacy_security/index.jhtml) for a full description of Wells Fargo's comprehensive information privacy procedures and security system. 
 
-  * [http://www.myceridian.com](http://www.myceridian.com/)   
+  * [Ceridian](http://www.myceridian.com/)   
 Ceridian provides support services for job candidates who submit online information related to an interest in employment with Trimble. 
 
 Ceridian collects, hosts and stores all such job candidate data for Trimble.   
 Ceridian has agreed not sell or rent personally identifiable information provided during the recruiting process. 
 
-  * [http://www.verisign.com](http://www.verisign.com/)   
-Trimble uses VeriSign, Inc. to process credit card transactions on the Trimble Store. Trimble passes VeriSign the name of the customer and their credit card details. For further information about VeriSign please visit their website at <http://www.verisign.com/Privacy/index.aspx>.   
- 
-  * [http://www.netstore.co.uk](http://www.netstore.co.uk/)  
-Netstore Plc is a market leading provider of IT Managed Services and IT Security. The Trimble VRS Now Store operates on dedicated servers managed by Netstore Plc. You can find further information about Netstore Plc at [http://www.netstore.co.uk](http://www.netstore.co.uk/).   
- 
-  * [http://www.bibit.com](http://www.bibit.com/)  
-Trimble uses Bibit Global Payment Services to process payments for the Trimble VRS Now Store. When you make purchases from our online store, Trimble passes Bibit the customer name along with shipping and billing information, and Bibit collects information for the selected credit, debit, or other payment method. Bibit processes personal data on behalf of Trimble only in order to perform the payment instructions of the customer, and personal data will not be provided to third parties other than the financial institutions for the selected payment method. Please view Bibit's Privacy Policy at <http://www.bibit.com/content.php?page=privacy>. 
+  * [VeriSign](http://www.verisign.com/)   
+Trimble uses VeriSign, Inc. to process credit card transactions on the Trimble Store. Trimble passes VeriSign the name of the customer and their credit card details. For further information about VeriSign's privacy procedures please visit their website at <http://www.verisign.com/Privacy/index.aspx>. 
+  * [2e2](http://www.netstore.co.uk/)  
+2e2 (formerly Netstore UK Plc) is a market leading provider of IT Managed Services and IT Security. The Trimble VRS Now Store operates on dedicated servers managed by Netstore Plc. You can find further information about 2e2's privacy policy at <http://www.netstore.co.uk/privacy-policy.aspx>. 
+  * [WorldPay](http://www.worldpay.us/)  
+Trimble uses WorldPay to process payments for the Trimble VRS Now Store. When you make purchases from our online store, Trimble passes WorldPay the customer name along with shipping and billing information, and WorldPay collects information for the selected credit, debit, or other payment method. WorldPay processes personal data on behalf of Trimble only in order to perform the payment instructions of the customer, and personal data will not be provided to third parties other than the financial institutions for the selected payment method. Please view WorldPay's Privacy Policy at <http://www.worldpay.us/privacy.htm>. 
+  * [Chase Paymentech](http://www.chasepaymentech.com/)  
+Trimble uses Chase Paymentech to process credit card transactions and for electronic check processing. Trimble passes Chase Paymentech the name of the customer and customer credit card and electronic check details. For further information about Chase Paymentech and its privacy policy please visit its website at <http://www.chasepaymentech.com/>. 
+  * [Cybersource](http://www.cybersource.com/)  
+Trimble uses Cybersource to process credit card transactions. Trimble passes Cybersource the name of the customer and their credit card details. For further information about Cybersource's data privacy practices please view its privacy statement at <http://www.cybersource.com/privacy.php>. 
 
 
 
