@@ -1,43 +1,108 @@
-<!--The following is the downloaded HTML source of the vconnect.com privacy policy that was archived on 2011-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615010755id_/http%3A//www.vconnect.com/content/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vconnect.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206100319id_/http%3A//www.vconnect.com/content/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_Head1"><title>
 	Privacy Policy VConnect Global Services Ltd
 </title><meta name="Keyword" content="vconnect privacy policy"><meta name="Description" content="Get the detailed privacy policy of VConnect Global Services Ltd."><meta name="Topic"><meta name="Abstract">
     <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.cookie.js"></script> 
     <script type="text/javascript" src="/js/stepcarousel.js"></script>
     <script type="text/javascript" language="javascript" src="/js/urlwrite.js"></script> 
     <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="/js/crawler.js"></script>
+     <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+     
     <script type="text/javascript">
 
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-19374048-1']);
-        _gaq.push(['_trackPageview']);
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-19374048-1']);
+	_gaq.push(['_trackPageview']);
 
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	</script>
 
-    </script>
-    
-<link rel="icon" type="image/ico" href="../favicon.ico"><link href="../App_Themes/VConnect/ajax-slideshow.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/banner-jq.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/contentflow.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/demo.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/infinite-carousel.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/jquery-ui.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/modal-window.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/movingboxes.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/nivo-slider.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/style.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/stylish-select.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/token-input.css" type="text/css" rel="stylesheet"></head>
-<body oncontextmenu="return false;" id="innerPages">
+<link rel="icon" type="image/ico" href="../favicon.ico">
+    <script type="text/javascript">
+        $(document).ready(function() {
+
+            if ($.cookie("mastTopBanner") == null) {
+
+                $('body').delegate('.mastTopBanner', 'mouseenter', mastBannerOpen);
+            }
+            else {
+                $('body').delegate('.topBanner', 'click', mastBannerOpen);
+                $('.topBanner').attr('title', 'Click here to open');
+            }
+
+            $('.topBannerclose').click(function() {
+
+                $('body').undelegate('.mastTopBanner', 'mouseenter', mastBannerOpen);
+                $('body').delegate('.topBanner', 'click', mastBannerOpen);
+                $.cookie("mastTopBanner", "clicked", { path: '/' });
+
+                mastBannerClose();
+            });
+
+            function mastBannerOpen(e) {
+                $('.topBanner').animate({
+                    height: '95px'
+                }, 500);
+                $('.topBannerclose').show();
+                $('.topBanner').removeAttr('title');
+                $('.topBanner p').hide();
+            }
+
+            $('.topBanner').click(function() {
+                if ($('.topBanner').height() == 175) {
+                    window.open(getlinkToOpen());
+                }
+            });
+
+            function mastBannerClose(e) {
+                $('.topBanner').animate({
+                    height: '20px'
+                }, 500);
+                $('.topBannerclose').hide();
+                $('.topBanner').attr('title', 'Click here to open');
+                $('.topBanner p').show();
+            }
+        });
+</script>
+<link href="../App_Themes/VConnect/ajax-slideshow.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/banner-jq.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/contentflow.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/demo.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/infinite-carousel.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/jquery-ui.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/modal-window.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/movingboxes.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/nivo-slider.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/style.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/stylish-select.css" type="text/css" rel="stylesheet"><link href="../App_Themes/VConnect/token-input.css" type="text/css" rel="stylesheet"></head>
+<body oncontextmenu="return false;">
     <form name="aspnetForm" method="post" action="privacypolicy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk0OTI3ODYxOA9kFgJmD2QWBAIBD2QWCAIBDxYCHgdjb250ZW50BRd2Y29ubmVjdCBwcml2YWN5IHBvbGljeWQCAg8WAh8ABUBHZXQgdGhlIGRldGFpbGVkIHByaXZhY3kgcG9saWN5IG9mIFZDb25uZWN0IEdsb2JhbCBTZXJ2aWNlcyBMdGQuZAIDDxYCHwBkZAIEDxYCHwBkZAIDD2QWBmYPZBYEAgEPZBYKAgEPFgIeBGhyZWYFDH4vc21zY29ubmVjdGQCAg8PFgIeB1Zpc2libGVoZGQCAw8PFgIfAmhkZAIEDw8WBB4EVGV4dAUFTG9naW4eC05hdmlnYXRlVXJsBQx+L2xvZ2luLmFzcHhkZAIFDw8WAh8EBRN+L3VzZXJyZWdpc3Rlci5hc3B4ZGQCAw9kFgQCBQ9kFgICAQ8PFgIfA2VkZAIGD2QWAgIFDxAPFgYeDURhdGFUZXh0RmllbGQFCVN0YXRlTmFtZR4ORGF0YVZhbHVlRmllbGQFB1N0YXRlSUQeC18hRGF0YUJvdW5kZ2QQFSYFU3RhdGUEQWJpYQVBYnVqYQdBZGFtYXdhCUFrd2EgSWJvbQdBbmFtYnJhBkJhdWNoaQdCYXllbHNhBUJlbnVlBUJvcm5vC0Nyb3NzIFJpdmVyBURlbHRhBkVib255aQNFZG8FRWtpdGkFRW51Z3UFR29tYmUDSW1vBkppZ2F3YQZLYWR1bmEES2FubwdLYXRzaW5hBUtlYmJpBEtvZ2kFS3dhcmEFTGFnb3MITmFzYXJhd2EFTmlnZXIET2d1bgRPbmRvBE9zdW4DT3lvB1BsYXRlYXUGUml2ZXJzBlNva290bwZUYXJhYmEEWW9iZQdaYW1mYXJhFSYBMAExATUBMgEzATQBOQE2ATcBOAIxMAIxMQIxMgIxMwIxNAIxNQIxNgIxNwIxOAIxOQIyMAIyMQIyMgIyMwIyNAIyNQIyNgIyNwIyOAIyOQIzMAIzMQIzMgIzMwIzNAIzNQIzNgIzNxQrAyZnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkAgIPZBYGZg9kFgJmD2QWAmYPFgIeC18hSXRlbUNvdW50AgUWCmYPZBYEAgEPDxYEHg1BbHRlcm5hdGVUZXh0BRY2MzQ0MzU4MzgwNjAxNTYyNTAuanBnHghJbWFnZVVybAUyL0ltYWdlcy9BZHZlcnQvTWFycXVlZUltYWdlLzYzNDQzNTgzODA2MDE1NjI1MC5qcGdkZAICDxUCay9saW5rcmVkaXJlY3QuYXNweD9pZD0yMDAxNSZsaW5rPWh0dHA6Ly93d3cudmNvbm5lY3QuY29tL2J1c2luZXNzLzI4NzExOS9Tb25zaGFkZS1NZWFkb3dzLUNvbW11bmljYXRpb24tTHRkP1NvbnNoYWRlIE1lYWRvd3MgQ29tbXVuaWNhdGlvbiBMdGQuLi5Zb3VyIGJyYW5kcyBpbm5lciBzdHJlbmd0aGQCAg9kFgQCAQ8PFgQfCQUWNjM0NDMxMjYyODYzNDM3NTAwLnBuZx8KBTIvSW1hZ2VzL0FkdmVydC9NYXJxdWVlSW1hZ2UvNjM0NDMxMjYyODYzNDM3NTAwLnBuZ2RkAgIPFQI/L2xpbmtyZWRpcmVjdC5hc3B4P2lkPTIwMDE0Jmxpbms9aHR0cDovL3d3dy5hZGNlbGVjdHJpYy1uZy5jb20vIy4uLi4gV29ybGQgQ2xhc3MgRWxlY3RyaWNhbCBDb21wYW55ZAIED2QWBAIBDw8WBB8JBRY2MzQ0MzE0ODM3NzA5Mzc1MDAucG5nHwoFMi9JbWFnZXMvQWR2ZXJ0L01hcnF1ZWVJbWFnZS82MzQ0MzE0ODM3NzA5Mzc1MDAucG5nZGQCAg8VAkEvbGlua3JlZGlyZWN0LmFzcHg/aWQ9MjAwMTMmbGluaz1odHRwOi8vd3d3LmRhdmlkc29uc25pZ2VyaWEuY29tLz1EYXZpZHNvbnMgQXV0b2xpbmsgVmVudHVyZXMsIEluZHVzdHJpYWwgQXJ0ICYgU2lnbiBQYWludGVycyEhZAIGD2QWBAIBDw8WBB8JBRY2MzQ0MzIxNDM4NjQyMTg3NTAucG5nHwoFMi9JbWFnZXMvQWR2ZXJ0L01hcnF1ZWVJbWFnZS82MzQ0MzIxNDM4NjQyMTg3NTAucG5nZGQCAg8VAjwvbGlua3JlZGlyZWN0LmFzcHg/aWQ9MjAwMTEmbGluaz1odHRwOi8vd3d3LnBvd2VyZ2VubHRkLmNvbS8/UG93ZXJnZW4gRW5naW5lZXJpbmcgTGltaXRlZCwgVGhlIHVsdGltYXRlIGluIHBvd2VyIHNvbHV0aW9ucyEhZAIID2QWBAIBDw8WBB8JBRY2MzQ0MzIxNDI5NzgxMjUwMDAuanBnHwoFMi9JbWFnZXMvQWR2ZXJ0L01hcnF1ZWVJbWFnZS82MzQ0MzIxNDI5NzgxMjUwMDAuanBnZGQCAg8VAmAvbGlua3JlZGlyZWN0LmFzcHg/aWQ9MjAwMTImbGluaz1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9idXNpbmVzcy8xODQzMTYvQ3lwb24tTWFjaGluZXJ5LUxpbWl0ZWQ7Q3lwb24gTWFjaGluZXJ5IExpbWl0ZWQsIEJlc3QgcGFydG5lciBpbiBhbHRlcm5hdGUgZW5lcmd5ISFkAgEPZBYCZg8PFgIfBAUbamF2YXNjcmlwdDpoaXN0b3J5LmdvKC0xKTsgZGQCAw9kFgICAQ9kFgoCDQ8WAh8DBewNPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPnZhciBhcnJheUJCTG9nb2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIxPW5ldyBBcnJheSgnL2ltYWdlcy9BZHZlcnQvQmFubmVyTG9nby82MzQ0MTc0MjczOTU5Mzc1MDAuanBnJyk7dmFyIGFycmF5QkJQaWN0dXJlY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjE9bmV3IEFycmF5KCcvaW1hZ2VzL0FkdmVydC9CYW5uZXJQaWN0dXJlLzYzNDQxNzQyNzM5MTQwNjI1MC5qcGcnKTt2YXIgYXJyYXlCQlJlY29yZGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIxPW5ldyBBcnJheSgnMjAxMTgnKTt2YXIgYXJyYXlCQkxpbmtjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMT1uZXcgQXJyYXkoJ2h0dHA6Ly93d3cudmNvbm5lY3QuY29tL2xpbmtyZWRpcmVjdC5hc3B4P2lkPTIwMTE4JnVybD1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9jb250ZW50L3ByaXZhY3lwb2xpY3kmbGluaz1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9jb250YWN0L2FkdmVydGlzZScpO3ZhciBhcnJheUJCQ29udGVudGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIxPW5ldyBBcnJheSgnQWR2ZXJ0aXNlIFlvdXIgQnVzaW5lc3MgSGVyZSAmIEluY3JlYXNlIFlvdXIgU2FsZXMhIENhbGwgMDcwIDAwMDAgODg4OCcpO2Z1bmN0aW9uIFJvdGF0ZUJCMShTdGFydDEsVG90YWwxKXtpZihTdGFydDE+PWFycmF5QkJSZWNvcmRjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMS5sZW5ndGgpU3RhcnQxPTA7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2FCQjEnKS5ocmVmPWFycmF5QkJMaW5rY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjFbU3RhcnQxXTtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfYUJCMTEnKS5ocmVmPWFycmF5QkJMaW5rY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjFbU3RhcnQxXTtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfaW1nTG9nb0JCMScpLnNyYz1hcnJheUJCTG9nb2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIxW1N0YXJ0MV07ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2ltZ1BpY3R1cmVCQjEnKS5zcmM9YXJyYXlCQlBpY3R1cmVjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMVtTdGFydDFdO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9zcEJCMScpLmlubmVySFRNTD1hcnJheUJCQ29udGVudGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIxW1N0YXJ0MV07d2luZG93LnNldFRpbWVvdXQoJ1JvdGF0ZUJCMSgnKyhTdGFydDErMSkrJywnKyhUb3RhbDErMSkrJyknLDUwMDApO2lmKFN0YXJ0MT09VG90YWwxKVNldEFkdmVydEltcHJlc3Npb24oYXJyYXlCQlJlY29yZGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIxW1N0YXJ0MV0pO31Sb3RhdGVCQjEoMCwwKTs8L3NjcmlwdD5kAg8PFgIfAwXsDTxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz52YXIgYXJyYXlCQkxvZ29jdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMj1uZXcgQXJyYXkoJy9pbWFnZXMvQWR2ZXJ0L0Jhbm5lckxvZ28vNjM0NDE3NDI3Mzk1OTM3NTAwLmpwZycpO3ZhciBhcnJheUJCUGljdHVyZWN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIyPW5ldyBBcnJheSgnL2ltYWdlcy9BZHZlcnQvQmFubmVyUGljdHVyZS82MzQ0MTc0MjczOTE0MDYyNTAuanBnJyk7dmFyIGFycmF5QkJSZWNvcmRjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMj1uZXcgQXJyYXkoJzIwMTE4Jyk7dmFyIGFycmF5QkJMaW5rY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjI9bmV3IEFycmF5KCdodHRwOi8vd3d3LnZjb25uZWN0LmNvbS9saW5rcmVkaXJlY3QuYXNweD9pZD0yMDExOCZ1cmw9aHR0cDovL3d3dy52Y29ubmVjdC5jb20vY29udGVudC9wcml2YWN5cG9saWN5Jmxpbms9aHR0cDovL3d3dy52Y29ubmVjdC5jb20vY29udGFjdC9hZHZlcnRpc2UnKTt2YXIgYXJyYXlCQkNvbnRlbnRjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMj1uZXcgQXJyYXkoJ0FkdmVydGlzZSBZb3VyIEJ1c2luZXNzIEhlcmUgJiBJbmNyZWFzZSBZb3VyIFNhbGVzISBDYWxsIDA3MCAwMDAwIDg4ODgnKTtmdW5jdGlvbiBSb3RhdGVCQjIoU3RhcnQyLFRvdGFsMil7aWYoU3RhcnQyPj1hcnJheUJCUmVjb3JkY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjIubGVuZ3RoKVN0YXJ0Mj0wO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9hQkIyJykuaHJlZj1hcnJheUJCTGlua2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIyW1N0YXJ0Ml07ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2FCQjIyJykuaHJlZj1hcnJheUJCTGlua2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIyW1N0YXJ0Ml07ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2ltZ0xvZ29CQjInKS5zcmM9YXJyYXlCQkxvZ29jdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMltTdGFydDJdO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9pbWdQaWN0dXJlQkIyJykuc3JjPWFycmF5QkJQaWN0dXJlY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjJbU3RhcnQyXTtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfc3BCQjInKS5pbm5lckhUTUw9YXJyYXlCQkNvbnRlbnRjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMltTdGFydDJdO3dpbmRvdy5zZXRUaW1lb3V0KCdSb3RhdGVCQjIoJysoU3RhcnQyKzEpKycsJysoVG90YWwyKzEpKycpJyw1MDAwKTtpZihTdGFydDI9PVRvdGFsMilTZXRBZHZlcnRJbXByZXNzaW9uKGFycmF5QkJSZWNvcmRjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMltTdGFydDJdKTt9Um90YXRlQkIyKDAsMCk7PC9zY3JpcHQ+ZAIRDxYCHwMF7A08c2NyaXB0IHR5cGU9J3RleHQvamF2YXNjcmlwdCc+dmFyIGFycmF5QkJMb2dvY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjM9bmV3IEFycmF5KCcvaW1hZ2VzL0FkdmVydC9CYW5uZXJMb2dvLzYzNDQxNzQyNzM5NTkzNzUwMC5qcGcnKTt2YXIgYXJyYXlCQlBpY3R1cmVjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMz1uZXcgQXJyYXkoJy9pbWFnZXMvQWR2ZXJ0L0Jhbm5lclBpY3R1cmUvNjM0NDE3NDI3MzkxNDA2MjUwLmpwZycpO3ZhciBhcnJheUJCUmVjb3JkY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjM9bmV3IEFycmF5KCcyMDExOCcpO3ZhciBhcnJheUJCTGlua2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIzPW5ldyBBcnJheSgnaHR0cDovL3d3dy52Y29ubmVjdC5jb20vbGlua3JlZGlyZWN0LmFzcHg/aWQ9MjAxMTgmdXJsPWh0dHA6Ly93d3cudmNvbm5lY3QuY29tL2NvbnRlbnQvcHJpdmFjeXBvbGljeSZsaW5rPWh0dHA6Ly93d3cudmNvbm5lY3QuY29tL2NvbnRhY3QvYWR2ZXJ0aXNlJyk7dmFyIGFycmF5QkJDb250ZW50Y3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjM9bmV3IEFycmF5KCdBZHZlcnRpc2UgWW91ciBCdXNpbmVzcyBIZXJlICYgSW5jcmVhc2UgWW91ciBTYWxlcyEgQ2FsbCAwNzAgMDAwMCA4ODg4Jyk7ZnVuY3Rpb24gUm90YXRlQkIzKFN0YXJ0MyxUb3RhbDMpe2lmKFN0YXJ0Mz49YXJyYXlCQlJlY29yZGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIzLmxlbmd0aClTdGFydDM9MDtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfYUJCMycpLmhyZWY9YXJyYXlCQkxpbmtjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCM1tTdGFydDNdO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9hQkIzMycpLmhyZWY9YXJyYXlCQkxpbmtjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCM1tTdGFydDNdO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9pbWdMb2dvQkIzJykuc3JjPWFycmF5QkJMb2dvY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjNbU3RhcnQzXTtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfaW1nUGljdHVyZUJCMycpLnNyYz1hcnJheUJCUGljdHVyZWN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIzW1N0YXJ0M107ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX3NwQkIzJykuaW5uZXJIVE1MPWFycmF5QkJDb250ZW50Y3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjNbU3RhcnQzXTt3aW5kb3cuc2V0VGltZW91dCgnUm90YXRlQkIzKCcrKFN0YXJ0MysxKSsnLCcrKFRvdGFsMysxKSsnKScsNTAwMCk7aWYoU3RhcnQzPT1Ub3RhbDMpU2V0QWR2ZXJ0SW1wcmVzc2lvbihhcnJheUJCUmVjb3JkY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjNbU3RhcnQzXSk7fVJvdGF0ZUJCMygwLDApOzwvc2NyaXB0PmQCEw8WAh8CaGQCFQ9kFgICAQ8WAh8IAgEWAmYPZBYCZg8VAUU8aW1nIHNyYz0iaHR0cDovL3d3dy52Y29ubmVjdC5jb20vaW1hZ2VzL2Fkc2Vuc2UvYWRzZW5zZV9ia3VwLmdpZiIgLz5kAgQPZBYCAgEPZBYCAgEPFgIfAwWxCDxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz52YXIgYXJyYXlGb290ZXJJbWFnZXNjdGwwMF9jdHJsVG9wRl9sdEZvb3Rlcj1uZXcgQXJyYXkoJy9pbWFnZXMvQWR2ZXJ0L0Jhbm5lclBpY3R1cmUvNjM0NDMxNDkyOTE3MDMxMjUwLmpwZycsJy9pbWFnZXMvQWR2ZXJ0L0Jhbm5lclBpY3R1cmUvNjM0NDI5NTQ2MzU2NDA2MjUwLmpwZycpO3ZhciBhcnJheUZvb3RlclJlY29yZGN0bDAwX2N0cmxUb3BGX2x0Rm9vdGVyPW5ldyBBcnJheSgnMjAxMzMnLCcyMDEzMCcpO3ZhciBhcnJheUZvb3RlckxpbmtjdGwwMF9jdHJsVG9wRl9sdEZvb3Rlcj1uZXcgQXJyYXkoJ2h0dHA6Ly93d3cudmNvbm5lY3QuY29tL2xpbmtyZWRpcmVjdC5hc3B4P2lkPTIwMTMzJnVybD1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9jb250ZW50L3ByaXZhY3lwb2xpY3kmbGluaz1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9zZWFyY2gvYnVzaW5lc3MvQmVzdC1DaG9pY2UvTGFnb3MnLCdodHRwOi8vd3d3LnZjb25uZWN0LmNvbS9saW5rcmVkaXJlY3QuYXNweD9pZD0yMDEzMCZ1cmw9aHR0cDovL3d3dy52Y29ubmVjdC5jb20vY29udGVudC9wcml2YWN5cG9saWN5Jmxpbms9aHR0cDovL3d3dy5kdWZpbC5jb20nKTtmdW5jdGlvbiBSb3RhdGVGb290ZXIoU3RhcnQsVG90YWwpe2lmKFN0YXJ0Pj1hcnJheUZvb3RlckltYWdlc2N0bDAwX2N0cmxUb3BGX2x0Rm9vdGVyLmxlbmd0aClTdGFydD0wO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdpbWdGb290ZXInKS5zcmM9YXJyYXlGb290ZXJJbWFnZXNjdGwwMF9jdHJsVG9wRl9sdEZvb3RlcltTdGFydF07ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2FGb290ZXInKS5ocmVmPWFycmF5Rm9vdGVyTGlua2N0bDAwX2N0cmxUb3BGX2x0Rm9vdGVyW1N0YXJ0XTt3aW5kb3cuc2V0VGltZW91dCgnUm90YXRlRm9vdGVyKCcrKFN0YXJ0KzEpKycsJysoVG90YWwrMSkrJyknLDUwMDApO2lmKFN0YXJ0PT1Ub3RhbClTZXRBZHZlcnRJbXByZXNzaW9uKGFycmF5Rm9vdGVyUmVjb3JkY3RsMDBfY3RybFRvcEZfbHRGb290ZXJbU3RhcnRdKTt9Um90YXRlRm9vdGVyKDAsMCk7PC9zY3JpcHQ+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WDwUZY3RsMDAkY3RybE1pZEgkaWJ0blNlYXJjaAUXY3RsMDAkY3RybE1pZEgkcmRiVHlwZTIFF2N0bDAwJGN0cmxNaWRIJHJkYlR5cGUyBRdjdGwwMCRjdHJsTWlkSCRyZGJUeXBlMQUXY3RsMDAkY3RybE1pZEgkcmRiVHlwZTEFF2N0bDAwJGN0cmxNaWRIJGJ0bl9zZW5kBRdjdGwwMCRjdHJsTWlkSCRyZGJCcmFuZAUXY3RsMDAkY3RybE1pZEgkcmRiQnJhbmQFGmN0bDAwJGN0cmxNaWRIJHJkYkNhdGVnb3J5BRpjdGwwMCRjdHJsTWlkSCRyZGJDYXRlZ29yeQUZY3RsMDAkY3RybE1pZEgkcmRiUHJvZHVjdAUZY3RsMDAkY3RybE1pZEgkcmRiUHJvZHVjdAUZY3RsMDAkY3RybE1pZEgkcmRiQ29tcGFueQUZY3RsMDAkY3RybE1pZEgkcmRiQ29tcGFueQUYY3RsMDAkY3RybE1pZEgkYnRuU3VibWl0+WLZN/AzwUtdRO5XW8u70XjX1MQ=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk0OTI3ODYxOA9kFgJmD2QWBAIBD2QWCgIBDxYCHgdjb250ZW50BRd2Y29ubmVjdCBwcml2YWN5IHBvbGljeWQCAg8WAh8ABUBHZXQgdGhlIGRldGFpbGVkIHByaXZhY3kgcG9saWN5IG9mIFZDb25uZWN0IEdsb2JhbCBTZXJ2aWNlcyBMdGQuZAIDDxYCHwBkZAIEDxYCHwBkZAIGDxYCHgRUZXh0BdADPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPgoKCXZhciBfZ2FxID0gX2dhcSB8fCBbXTsKCV9nYXEucHVzaChbJ19zZXRBY2NvdW50JywgJ1VBLTE5Mzc0MDQ4LTEnXSk7CglfZ2FxLnB1c2goWydfdHJhY2tQYWdldmlldyddKTsKCgkoZnVuY3Rpb24oKSB7CgkJdmFyIGdhID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7IGdhLnR5cGUgPSAndGV4dC9qYXZhc2NyaXB0JzsgZ2EuYXN5bmMgPSB0cnVlOwoJCWdhLnNyYyA9ICgnaHR0cHM6JyA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCA/ICdodHRwczovL3NzbCcgOiAnaHR0cDovL3d3dycpICsgJy5nb29nbGUtYW5hbHl0aWNzLmNvbS9nYS5qcyc7CgkJdmFyIHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07IHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZ2EsIHMpOwoJfSkoKTsKCTwvc2NyaXB0PgpkAgMPZBYGAgMPZBYEAgEPZBYKAgEPFgIeBGhyZWYFDH4vc21zY29ubmVjdGQCAg8PFgIeB1Zpc2libGVoZGQCAw8PFgIfA2hkZAIEDw8WBB8BBQVMb2dpbh4LTmF2aWdhdGVVcmwFDH4vbG9naW4uYXNweGRkAgUPDxYCHwQFE34vdXNlcnJlZ2lzdGVyLmFzcHhkZAIDD2QWBAICDw9kFgIeBXN0eWxlBR5mb250LXNpemU6MTFweDsgY29sb3I6IzlGOUY5RjtkAg4PZBYCAgUPEA8WBh4NRGF0YVRleHRGaWVsZAUJU3RhdGVOYW1lHg5EYXRhVmFsdWVGaWVsZAUHU3RhdGVJRB4LXyFEYXRhQm91bmRnZBAVJgVTdGF0ZQRBYmlhBUFidWphB0FkYW1hd2EJQWt3YSBJYm9tB0FuYW1icmEGQmF1Y2hpB0JheWVsc2EFQmVudWUFQm9ybm8LQ3Jvc3MgUml2ZXIFRGVsdGEGRWJvbnlpA0VkbwVFa2l0aQVFbnVndQVHb21iZQNJbW8GSmlnYXdhBkthZHVuYQRLYW5vB0thdHNpbmEFS2ViYmkES29naQVLd2FyYQVMYWdvcwhOYXNhcmF3YQVOaWdlcgRPZ3VuBE9uZG8ET3N1bgNPeW8HUGxhdGVhdQZSaXZlcnMGU29rb3RvBlRhcmFiYQRZb2JlB1phbWZhcmEVJgEwATEBNQEyATMBNAE5ATYBNwE4AjEwAjExAjEyAjEzAjE0AjE1AjE2AjE3AjE4AjE5AjIwAjIxAjIyAjIzAjI0AjI1AjI2AjI3AjI4AjI5AjMwAjMxAjMyAjMzAjM0AjM1AjM2AjM3FCsDJmdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBw9kFgZmD2QWAmYPZBYCZg8WAh4LXyFJdGVtQ291bnQCBRYKZg9kFgQCAQ8PFgQeDUFsdGVybmF0ZVRleHQFFjYzNDUzODYzOTU2NjcxODc1MC5wbmceCEltYWdlVXJsBTIvSW1hZ2VzL0FkdmVydC9NYXJxdWVlSW1hZ2UvNjM0NTM4NjM5NTY2NzE4NzUwLnBuZ2RkAgIPFQJXL2xpbmtyZWRpcmVjdC5hc3B4P2lkPTIwMDYwJmxpbms9aHR0cDovL3d3dy52Y29ubmVjdC5jb20vc2VhcmNoL2J1c2luZXNzL0ZvbmV3b3J4L0xhZ29zKkZvbmVXb3J4Li4uRGlnaXRhbCBPbmxpbmUgRmF4aW5nIFNvbHV0aW9uc2QCAg9kFgQCAQ8PFgQfCgUWNjM0NTU2NjAyODY0NTk3NTAwLnBuZx8LBTIvSW1hZ2VzL0FkdmVydC9NYXJxdWVlSW1hZ2UvNjM0NTU2NjAyODY0NTk3NTAwLnBuZ2RkAgIPFQJWL2xpbmtyZWRpcmVjdC5hc3B4P2lkPTIwMDcwJmxpbms9aHR0cDovL3d3dy52Y29ubmVjdC5jb20vc2VhcmNoL2J1c2luZXNzL2xhdmFsbHkvTGFnb3NHVGVudHMsQ2hhaXJzLFRhYmxlcyxDaGFpciBDb3ZlcnMsVGFibGUgQ292ZXJzLERhbmNlIEZsb29ycyxSdWdzLVdhbGt3YXlkAgQPZBYEAgEPDxYEHwoFFjYzNDU2NDU1Mzc1MTM3MTI1MC5wbmcfCwUyL0ltYWdlcy9BZHZlcnQvTWFycXVlZUltYWdlLzYzNDU2NDU1Mzc1MTM3MTI1MC5wbmdkZAICDxUCZS9saW5rcmVkaXJlY3QuYXNweD9pZD0yMDA3MiZsaW5rPWh0dHA6Ly93d3cudmNvbm5lY3QuY29tL2V2ZW50LzQwMzE5L1BhZGR5c2NvLUludGwtRm9vdGJhbGwtQ2hhbGxlbmdlKFRhbGVudCBIdW50IFNvY2NlciBUb3VybmFtZW50IEZvciBVLTE5J3NkAgYPZBYEAgEPDxYEHwoFFjYzNDU2NjA1MTg1NDM0MDAwMC5qcGcfCwUyL0ltYWdlcy9BZHZlcnQvTWFycXVlZUltYWdlLzYzNDU2NjA1MTg1NDM0MDAwMC5qcGdkZAICDxUCQS9saW5rcmVkaXJlY3QuYXNweD9pZD0yMDA3MyZsaW5rPWh0dHA6Ly9wbGFuZXRvbmVob3NwaXRhbGl0eS5jb20vX1BsYW5ldCBPbmUgSG9zcGl0YWxpdHk6IEFjY29tb2RhdGlvbiwgRXZlbnRzIENlbnRyZSwgQ2hpbmVzZSBSZXN0YXVyYW50LCBFdmVudCBDZW50cmUsIFNwYSwgR3ltZAIID2QWBAIBDw8WBB8KBRY2MzQ1NzQ2ODg0NDc4MTI1MDAuanBnHwsFMi9JbWFnZXMvQWR2ZXJ0L01hcnF1ZWVJbWFnZS82MzQ1NzQ2ODg0NDc4MTI1MDAuanBnZGQCAg8VAjgvbGlua3JlZGlyZWN0LmFzcHg/aWQ9MjAwNzQmbGluaz1odHRwOi8vd3d3LmdhcnV0ZWNoLm5ldB9IaWdoIFRlY2ggQXV0byBEaWFnbm9zdGljIFRvb2xzZAIBD2QWAmYPDxYCHwQFG2phdmFzY3JpcHQ6aGlzdG9yeS5nbygtMSk7IGRkAgMPZBYCAgEPZBYOAgYPFgIfAQWZDzxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz52YXIgYXJyYXlCQkxvZ29jdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMT1uZXcgQXJyYXkoJy9pbWFnZXMvQWR2ZXJ0L0Jhbm5lckxvZ28vJywnL2ltYWdlcy9BZHZlcnQvQmFubmVyTG9nby8nKTt2YXIgYXJyYXlCQlBpY3R1cmVjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMT1uZXcgQXJyYXkoJy9pbWFnZXMvQWR2ZXJ0L0Jhbm5lclBpY3R1cmUvNjM0NTg2ODU5OTMyODQ1MDAwLmpwZycsJy9pbWFnZXMvQWR2ZXJ0L0Jhbm5lclBpY3R1cmUvNjM0NDg1MDM4NDUxNzE4NzUwLmpwZycpO3ZhciBhcnJheUJCUmVjb3JkY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjE9bmV3IEFycmF5KCcyMDMxMicsJzIwMTc5Jyk7dmFyIGFycmF5QkJMaW5rY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjE9bmV3IEFycmF5KCdodHRwOi8vd3d3LnZjb25uZWN0LmNvbS9saW5rcmVkaXJlY3QuYXNweD9pZD0yMDMxMiZ1cmw9aHR0cDovL3d3dy52Y29ubmVjdC5jb20vY29udGVudC9wcml2YWN5cG9saWN5Jmxpbms9aHR0cDovL3d3dy52Y29ubmVjdC5jb20vYnVzaW5lc3MvMzc0OTgwL1Vud2luZC1NYWdhemluZScsJ2h0dHA6Ly93d3cudmNvbm5lY3QuY29tL2xpbmtyZWRpcmVjdC5hc3B4P2lkPTIwMTc5JnVybD1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9jb250ZW50L3ByaXZhY3lwb2xpY3kmbGluaz1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9zZWFyY2gvZGVmYXVsdC9tYmgvTGFnb3MnKTt2YXIgYXJyYXlCQkNvbnRlbnRjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMT1uZXcgQXJyYXkoJycsJycpO2Z1bmN0aW9uIFJvdGF0ZUJCMShTdGFydDEsVG90YWwxKXtpZihTdGFydDE+PWFycmF5QkJSZWNvcmRjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMS5sZW5ndGgpU3RhcnQxPTA7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2FCQjEnKS5ocmVmPWFycmF5QkJMaW5rY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjFbU3RhcnQxXTtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfYUJCMTEnKS5ocmVmPWFycmF5QkJMaW5rY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjFbU3RhcnQxXTtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfaW1nTG9nb0JCMScpLnNyYz1hcnJheUJCTG9nb2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIxW1N0YXJ0MV07ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2ltZ1BpY3R1cmVCQjEnKS5zcmM9YXJyYXlCQlBpY3R1cmVjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMVtTdGFydDFdO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9zcEJCMScpLmlubmVySFRNTD1hcnJheUJCQ29udGVudGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIxW1N0YXJ0MV07d2luZG93LnNldFRpbWVvdXQoJ1JvdGF0ZUJCMSgnKyhTdGFydDErMSkrJywnKyhUb3RhbDErMSkrJyknLDUwMDApO2lmKFN0YXJ0MT09VG90YWwxKVNldEFkdmVydEltcHJlc3Npb24oYXJyYXlCQlJlY29yZGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIxW1N0YXJ0MV0pO31Sb3RhdGVCQjEoMCwwKTs8L3NjcmlwdD5kAgcPFgIfAQXYEDxzY3JpcHQgdHlwZT0ndGV4dC9qYXZhc2NyaXB0Jz52YXIgYXJyYXlCQkxvZ29jdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMj1uZXcgQXJyYXkoJy9pbWFnZXMvQWR2ZXJ0L0Jhbm5lckxvZ28vNjM0NTM4MzM0MDA1NjY4NzUwLnBuZycsJy9pbWFnZXMvQWR2ZXJ0L0Jhbm5lckxvZ28vNjM0NTM4NDY2OTgxNTYyNTAwLmpwZycpO3ZhciBhcnJheUJCUGljdHVyZWN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIyPW5ldyBBcnJheSgnL2ltYWdlcy9BZHZlcnQvQmFubmVyUGljdHVyZS82MzQ1MzgzMzQwMDQ4ODc1MDAucG5nJywnL2ltYWdlcy9BZHZlcnQvQmFubmVyUGljdHVyZS82MzQ1Mzg0NjY5ODEyNTAwMDAuanBnJyk7dmFyIGFycmF5QkJSZWNvcmRjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMj1uZXcgQXJyYXkoJzIwMjY3JywnMjAyNjknKTt2YXIgYXJyYXlCQkxpbmtjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMj1uZXcgQXJyYXkoJ2h0dHA6Ly93d3cudmNvbm5lY3QuY29tL2xpbmtyZWRpcmVjdC5hc3B4P2lkPTIwMjY3JnVybD1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9jb250ZW50L3ByaXZhY3lwb2xpY3kmbGluaz1odHRwOi8vd3d3Lm9rZXlqYXBhbi5jb20nLCdodHRwOi8vd3d3LnZjb25uZWN0LmNvbS9saW5rcmVkaXJlY3QuYXNweD9pZD0yMDI2OSZ1cmw9aHR0cDovL3d3dy52Y29ubmVjdC5jb20vY29udGVudC9wcml2YWN5cG9saWN5Jmxpbms9aHR0cDovL3d3dy52Y29ubmVjdC5jb20vYnVzaW5lc3MvMTI2MjM2L0N1cnJlbnQlMjBGb2FtJTIwSW5kdXN0cmllcyUyMCYlMjBDaGVtaWNhbHMlMjBMaW1pdGVkJyk7dmFyIGFycmF5QkJDb250ZW50Y3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjI9bmV3IEFycmF5KCdGb3IgUXVhbGl0eSBBdWRpby1WaXN1YWxzLCBQaG90b2dyYXBoaWMgYW5kIFNlY3VyaXR5IEVxdWlwbWVudHMnLCdGb3IgUXVhbGl0eSBNYXR0cmVzc2VzLCBDdXNoaW9ucyxGb2FtIEJsb2NrcywgUGlsbG93cyxDYXJwZXQgVW5kZXJsYXlzJyk7ZnVuY3Rpb24gUm90YXRlQkIyKFN0YXJ0MixUb3RhbDIpe2lmKFN0YXJ0Mj49YXJyYXlCQlJlY29yZGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIyLmxlbmd0aClTdGFydDI9MDtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfYUJCMicpLmhyZWY9YXJyYXlCQkxpbmtjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMltTdGFydDJdO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9hQkIyMicpLmhyZWY9YXJyYXlCQkxpbmtjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCMltTdGFydDJdO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9pbWdMb2dvQkIyJykuc3JjPWFycmF5QkJMb2dvY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjJbU3RhcnQyXTtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfaW1nUGljdHVyZUJCMicpLnNyYz1hcnJheUJCUGljdHVyZWN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIyW1N0YXJ0Ml07ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX3NwQkIyJykuaW5uZXJIVE1MPWFycmF5QkJDb250ZW50Y3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjJbU3RhcnQyXTt3aW5kb3cuc2V0VGltZW91dCgnUm90YXRlQkIyKCcrKFN0YXJ0MisxKSsnLCcrKFRvdGFsMisxKSsnKScsNTAwMCk7aWYoU3RhcnQyPT1Ub3RhbDIpU2V0QWR2ZXJ0SW1wcmVzc2lvbihhcnJheUJCUmVjb3JkY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjJbU3RhcnQyXSk7fVJvdGF0ZUJCMigwLDApOzwvc2NyaXB0PmQCCA8WAh8BBcEQPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPnZhciBhcnJheUJCTG9nb2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIzPW5ldyBBcnJheSgnL2ltYWdlcy9BZHZlcnQvQmFubmVyTG9nby82MzQ1ODY4MjYwMTg3ODI1MDAucG5nJywnL2ltYWdlcy9BZHZlcnQvQmFubmVyTG9nby82MzQ1NzgxNjgyODU4OTYyNTAuanBnJyk7dmFyIGFycmF5QkJQaWN0dXJlY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjM9bmV3IEFycmF5KCcvaW1hZ2VzL0FkdmVydC9CYW5uZXJQaWN0dXJlLzYzNDU4NjgyNjAxNzg0NTAwMC5wbmcnLCcvaW1hZ2VzL0FkdmVydC9CYW5uZXJQaWN0dXJlLzYzNDU3ODE2ODI4NDk1ODc1MC5qcGcnKTt2YXIgYXJyYXlCQlJlY29yZGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIzPW5ldyBBcnJheSgnMjAzMTEnLCcyMDMwNicpO3ZhciBhcnJheUJCTGlua2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIzPW5ldyBBcnJheSgnaHR0cDovL3d3dy52Y29ubmVjdC5jb20vbGlua3JlZGlyZWN0LmFzcHg/aWQ9MjAzMTEmdXJsPWh0dHA6Ly93d3cudmNvbm5lY3QuY29tL2NvbnRlbnQvcHJpdmFjeXBvbGljeSZsaW5rPWh0dHA6Ly93d3cudmNvbm5lY3QuY29tL2J1c2luZXNzLzI4NTYzOS9HYWJzb24gRnJhbmsgQW5kIEFzc29jaWF0aW9uIE5pZ2VyaWEgTGltaXRlZCcsJ2h0dHA6Ly93d3cudmNvbm5lY3QuY29tL2xpbmtyZWRpcmVjdC5hc3B4P2lkPTIwMzA2JnVybD1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9jb250ZW50L3ByaXZhY3lwb2xpY3kmbGluaz1odHRwOi8vd3d3LmVwbGFuZXRjb25zdWx0LmNvbScpO3ZhciBhcnJheUJCQ29udGVudGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIzPW5ldyBBcnJheSgnQWxsIEtpbmRzIE9mIFN0YXRpb25lcmllcyAmIENvbXB1dGVyIE1hdGVyaWFscycsJ2FkZGluZyB2YWx1ZSB0aHJvdWdoIHF1YWxpdGF0aXZlIHByb2N1cmVtZW50IHRyYWluaW5nICYgY29uc3VsdGluZyEhJyk7ZnVuY3Rpb24gUm90YXRlQkIzKFN0YXJ0MyxUb3RhbDMpe2lmKFN0YXJ0Mz49YXJyYXlCQlJlY29yZGN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIzLmxlbmd0aClTdGFydDM9MDtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfYUJCMycpLmhyZWY9YXJyYXlCQkxpbmtjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCM1tTdGFydDNdO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9hQkIzMycpLmhyZWY9YXJyYXlCQkxpbmtjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9sdEJCM1tTdGFydDNdO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjdGwwMF9Db250ZW50UGxhY2VIb2xkZXIxX1JpZ2h0QmFubmVyMV9pbWdMb2dvQkIzJykuc3JjPWFycmF5QkJMb2dvY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjNbU3RhcnQzXTtkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfaW1nUGljdHVyZUJCMycpLnNyYz1hcnJheUJCUGljdHVyZWN0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX2x0QkIzW1N0YXJ0M107ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2N0bDAwX0NvbnRlbnRQbGFjZUhvbGRlcjFfUmlnaHRCYW5uZXIxX3NwQkIzJykuaW5uZXJIVE1MPWFycmF5QkJDb250ZW50Y3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjNbU3RhcnQzXTt3aW5kb3cuc2V0VGltZW91dCgnUm90YXRlQkIzKCcrKFN0YXJ0MysxKSsnLCcrKFRvdGFsMysxKSsnKScsNTAwMCk7aWYoU3RhcnQzPT1Ub3RhbDMpU2V0QWR2ZXJ0SW1wcmVzc2lvbihhcnJheUJCUmVjb3JkY3RsMDBfQ29udGVudFBsYWNlSG9sZGVyMV9SaWdodEJhbm5lcjFfbHRCQjNbU3RhcnQzXSk7fVJvdGF0ZUJCMygwLDApOzwvc2NyaXB0PmQCCQ8WAh8DaGQCCg8WAh8DaGQCDA8PFgIfA2hkFgJmD2QWBGYPFgIfAQUjSWYgeW91IGNvdWxkbid0IGZpbmQgd2hhdCB5b3Ugd2FudC5kAgQPEA8WBh8GBQlTdGF0ZU5hbWUfBwUHU3RhdGVJRB8IZ2QQFSYJLS1TdGF0ZS0tBEFiaWEFQWJ1amEHQWRhbWF3YQlBa3dhIElib20HQW5hbWJyYQZCYXVjaGkHQmF5ZWxzYQVCZW51ZQVCb3JubwtDcm9zcyBSaXZlcgVEZWx0YQZFYm9ueWkDRWRvBUVraXRpBUVudWd1BUdvbWJlA0ltbwZKaWdhd2EGS2FkdW5hBEthbm8HS2F0c2luYQVLZWJiaQRLb2dpBUt3YXJhBUxhZ29zCE5hc2FyYXdhBU5pZ2VyBE9ndW4ET25kbwRPc3VuA095bwdQbGF0ZWF1BlJpdmVycwZTb2tvdG8GVGFyYWJhBFlvYmUHWmFtZmFyYRUmATABMQE1ATIBMwE0ATkBNgE3ATgCMTACMTECMTICMTMCMTQCMTUCMTYCMTcCMTgCMTkCMjACMjECMjICMjMCMjQCMjUCMjYCMjcCMjgCMjkCMzACMzECMzICMzMCMzQCMzUCMzYCMzcUKwMmZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cWAWZkAg0PFgIfBQUNZGlzcGxheTpub25lO2QCCw9kFgICAQ9kFgICAQ8WAh8BBcAIPHNjcmlwdCB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnPnZhciBhcnJheUZvb3RlckltYWdlc2N0bDAwX2N0cmxUb3BGX2x0Rm9vdGVyPW5ldyBBcnJheSgnL2ltYWdlcy9BZHZlcnQvQmFubmVyUGljdHVyZS82MzQ1NzQ5NDEwNDQzNzUwMDAuanBnJyk7dmFyIGFycmF5Rm9vdGVyUmVjb3JkY3RsMDBfY3RybFRvcEZfbHRGb290ZXI9bmV3IEFycmF5KCcyMDMwMicpO3ZhciBhcnJheUZvb3RlckxpbmtjdGwwMF9jdHJsVG9wRl9sdEZvb3Rlcj1uZXcgQXJyYXkoJ2h0dHA6Ly93d3cudmNvbm5lY3QuY29tL2xpbmtyZWRpcmVjdC5hc3B4P2lkPTIwMzAyJnVybD1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9jb250ZW50L3ByaXZhY3lwb2xpY3kmbGluaz1odHRwOi8vd3d3LnZjb25uZWN0LmNvbS9zZWFyY2hud2luJyk7dmFyIG1vdXNlZmxhZz10cnVlOyQoJyNpbWdGb290ZXInKS5tb3VzZW92ZXIoZnVuY3Rpb24oKXttb3VzZWZsYWc9ZmFsc2U7fSk7JCgnI2ltZ0Zvb3RlcicpLm1vdXNlb3V0KGZ1bmN0aW9uKCl7bW91c2VmbGFnPXRydWU7fSk7ZnVuY3Rpb24gUm90YXRlRm9vdGVyKFN0YXJ0LFRvdGFsKXtpZihtb3VzZWZsYWcpe2lmKFN0YXJ0Pj1hcnJheUZvb3RlckltYWdlc2N0bDAwX2N0cmxUb3BGX2x0Rm9vdGVyLmxlbmd0aClTdGFydD0wO2RvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdpbWdGb290ZXInKS5zcmM9YXJyYXlGb290ZXJJbWFnZXNjdGwwMF9jdHJsVG9wRl9sdEZvb3RlcltTdGFydF07ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2FGb290ZXInKS5ocmVmPWFycmF5Rm9vdGVyTGlua2N0bDAwX2N0cmxUb3BGX2x0Rm9vdGVyW1N0YXJ0XTt9aWYobW91c2VmbGFnKXt3aW5kb3cuc2V0VGltZW91dCgnUm90YXRlRm9vdGVyKCcrKFN0YXJ0KzEpKycsJysoVG90YWwrMSkrJyknLDUwMDApO2lmKFN0YXJ0PT1Ub3RhbClTZXRBZHZlcnRJbXByZXNzaW9uKGFycmF5Rm9vdGVyUmVjb3JkY3RsMDBfY3RybFRvcEZfbHRGb290ZXJbU3RhcnRdKTt9ZWxzZXt3aW5kb3cuc2V0VGltZW91dCgnUm90YXRlRm9vdGVyKCcrKFN0YXJ0KSsnLCcrKFRvdGFsKSsnKScsNTAwMCk7fX1Sb3RhdGVGb290ZXIoMCwwKTs8L3NjcmlwdD5kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYdBRdjdGwwMCRjdHJsTWlkSCRyZGJUeXBlMgUXY3RsMDAkY3RybE1pZEgkcmRiVHlwZTIFF2N0bDAwJGN0cmxNaWRIJHJkYlR5cGUxBRdjdGwwMCRjdHJsTWlkSCRyZGJUeXBlMQUZY3RsMDAkY3RybE1pZEgkaWJ0blNlYXJjaAUfY3RsMDAkY3RybE1pZEgkY2hrU29jaWFsTmV0d29yawUfY3RsMDAkY3RybE1pZEgkY2hrU29jaWFsTmV0d29yawUfY3RsMDAkY3RybE1pZEgkY2hrU2VhcmNoRW5naW5lcwUfY3RsMDAkY3RybE1pZEgkY2hrU2VhcmNoRW5naW5lcwUWY3RsMDAkY3RybE1pZEgkY2hrTmV3cwUWY3RsMDAkY3RybE1pZEgkY2hrTmV3cwUXY3RsMDAkY3RybE1pZEgkY2hrUmFkaW8FF2N0bDAwJGN0cmxNaWRIJGNoa1JhZGlvBRxjdGwwMCRjdHJsTWlkSCRjaGtUZWxldmlzaW9uBRxjdGwwMCRjdHJsTWlkSCRjaGtUZWxldmlzaW9uBRljdGwwMCRjdHJsTWlkSCRjaGtGcmllbmRzBRljdGwwMCRjdHJsTWlkSCRjaGtGcmllbmRzBRhjdGwwMCRjdHJsTWlkSCRjaGtPdGhlcnMFGGN0bDAwJGN0cmxNaWRIJGNoa090aGVycwUdY3RsMDAkY3RybE1pZEgkaW1nYnRuU2VuZFZvdGUFF2N0bDAwJGN0cmxNaWRIJHJkYkJyYW5kBRdjdGwwMCRjdHJsTWlkSCRyZGJCcmFuZAUaY3RsMDAkY3RybE1pZEgkcmRiQ2F0ZWdvcnkFGmN0bDAwJGN0cmxNaWRIJHJkYkNhdGVnb3J5BRljdGwwMCRjdHJsTWlkSCRyZGJQcm9kdWN0BRljdGwwMCRjdHJsTWlkSCRyZGJQcm9kdWN0BRljdGwwMCRjdHJsTWlkSCRyZGJDb21wYW55BRljdGwwMCRjdHJsTWlkSCRyZGJDb21wYW55BRhjdGwwMCRjdHJsTWlkSCRidG5TdWJtaXTBJ5Hj5SXzPslBHwKMNF15Cf97gQ==">
 
     <!--[if lte IE 6]><script src="js/ie6/warning.js"></script><script>window.onload=function(){e("js/ie6/")}</script><![endif]-->
  
+  <!--Top Banner-->
+  <div id="ctl00_TopBanner">
+   <div class="mastTopBanner" style="position:relative;">
+       <div id="ctl00_topAdBanner" class="topBanner" style="text-align:center;">     
+              
+             <p>Click here to expand.</p>
+		   <div>
+		    <a target="_blank" href="http://www.vconnect.com/searchandwin">
+        <img src="/images/Advert/Banner/SNW_728x90.jpg" alt="searchandwin"></a>
+		  
+            </div>      
+       </div>
+       <div class="topBannerclose"><img src="/App_Themes/VConnect/images/Crossbtn.png" alt="close"></div>
+   </div>
+   </div>
+    <!--Top Banner-->
+
+ <div id="innerPages">
 		<div id="mainDiv" class="mainDiv">
 			<!--Header-->
 			<div id="ctl00_header" class="header">
 				<!--Top Bar-->
 				
-<noscript>
-    <meta http-equiv="Refresh" content="0;URL='/jsdisabled.htm'" />
-</noscript>
+
 <div class="topBar" onselectstart="return false;">
     <div class="welcomeGuest">
         <a href="/" style="color: #ffffff; text-decoration: none;">
@@ -46,26 +111,26 @@
         
     </div>
     <div class="topLinks">
-        <a href="/marketing/toolbar/vc_toolbar_ie.exe" class="adv">Free Toolbar</a>
-        <a href="../smsconnect" id="ctl00_ctrlTopH_hypFreeSMS" class="adv">Free SMS</a>
-        <a href="/contact/advertise" class="adv">Advertise</a>
+        
+            <a href="/marketing/toolbar/index.html" class="adv">Free Toolbar</a>
+        <a href="../smsconnect" id="ctl00_ctrlTopH_hypFreeSMS" class="smsConnect" title="Send Free SMS">SMS Connect</a>
+        <a href="/contact/advertise" class="advertise">Advertise</a>
+        <!--Twitter-->
         
         
-        
-        <div id="account-info" style="float: left;"></div>
-        
-        <a id="ctl00_ctrlTopH_hlLogin" class="login" href="../login.aspx">Login</a>
-       
-  
-        <a id="ctl00_ctrlTopH_hlRegister" class="register" href="../userregister.aspx">Register</a>
-        
+        <!--Twitter-->
+        <!--Facebook-->        
+        <div id="account-info" style="float: left;"></div>           
+        <!--Facebook-->
+        <!--VConnect-->
+        <a id="ctl00_ctrlTopH_hlLogin" class="login" href="../login.aspx">Login</a>     
+        <!--VConnect-->
+        <a id="ctl00_ctrlTopH_hlRegister" class="register" href="../userregister.aspx">Register</a> 
     </div>
 </div>
 <div class="clear">
 </div>
-  <div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js"></script>
-
+<div id="fb-root"></div>  
 
 <script type="text/javascript">
 
@@ -76,10 +141,8 @@
         },
       function(response) {
       
-   
-         
-      }
-    );
+              
+        });
     }
 
     function fblogout() {
@@ -89,11 +152,10 @@
     }
 
     function fblogoutExp() {
-        alert("LOG OUT");
         FB.logout();
         FB.getLoginStatus();
         $('#ctl00_ctrlTopH_hlLogin').show();
-        $('#account-info').html = "";
+        $('#account-info').html('');
     }
 
     // Called when Facebook login status change
@@ -131,33 +193,59 @@
     
 </script>
 
+<script language="javascript" type="text/javascript">
+    function setHomepage() {
+        if (document.all) {
+            document.body.style.behavior = 'url(#default#homepage)';
+            document.body.setHomePage('http://www.vconnect.com/content/privacypolicy');
 
+        }
+        else if (window.sidebar) {
+            if (window.netscape) {
+                try {
+                    netscape.security.PrivilegeManager.enablePrivilege("UniversalXPConnect");
+                }
+                catch (e) {
+                    alert("This action was aviod by your browser. if you want to enable, please enter about:config in your address line, and change the value of signed.applets.codebase_principal_support to true");
+                }
+            }
+            var prefs = Components.classes['@mozilla.org/preferences-service;1'].getService(Components.interfaces.nsIPrefBranch);
+            prefs.setCharPref('browser.startup.homepage', 'http://www.vconnect.com/content/privacypolicy');
+        }
+    }
+</script>
 				<!--Top Bar-->
 				<!--Inner Logo Container-->
 				
 <div class="innerLogoContainer">
+
     <script type="text/javascript">
-    function showdefault(val) {
-        var content = 'Eg. Hotel or Car Hire';
-        switch (val) {
-            case 'ProductServices':
-                content = 'Eg. Television Set'
-                break;
-            case 'Business':
-                content = 'Eg. Franco Electronics'
-                break;
-            case 'Brand':
-                content = 'Eg. Nokia'
-                break;
-            case 'Category':
-                content = 'Eg. Restaurants'
-                break;
-            default:
-                break;
+        function showdefault(val) {
+            var content = 'Eg. Hotel or Car Hire';
+            switch (val) {
+                case 'ProductServices':
+                    content = 'Eg. Television Set'
+                    break;
+                case 'Business':
+                    content = 'Eg. Franco Electronics'
+                    break;
+                case 'Brand':
+                    content = 'Eg. Nokia'
+                    break;
+                case 'Category':
+                    content = 'Eg. Restaurants'
+                    break;
+                default:
+                    break;
+            }
+            return content;
         }
-        return content;
-    }
-</script>
+    </script>
+
+    <div style="position: absolute; top: 50px; left: 0; z-index: 1000; background: #fff;
+        width: 50px;">
+        <fb:like href="http://www.facebook.com/vconnectnigeria" send="true" layout="box_count" width="50" show_faces="false" font="tahoma"></fb:like>
+    </div>
     <!--Logo-->
     <div class="innerLogo" onselectstart="return false;">
         <h1>
@@ -171,144 +259,88 @@
             </div>
         </div>
         <div class="searchBoxBtmBg">
+            <div>
+                Search By:
+                <span title="Search by Product/Service"><input id="ctl00_ctrlMidH_rdbType2" type="radio" name="ctl00$ctrlMidH$SearchType" value="rdbType2" onclick="javascript:searchtype('ProductServices');"><label for="ctl00_ctrlMidH_rdbType2"> Product/Service</label></span>
+                <span title="Search by Company Name"><input id="ctl00_ctrlMidH_rdbType1" type="radio" name="ctl00$ctrlMidH$SearchType" value="rdbType1" onclick="javascript:searchtype('Business');"><label for="ctl00_ctrlMidH_rdbType1"> Company Name</label></span>
+            </div>
             <div class="searchFieldBlock">
-                <span onselectstart="return false;">What Are You Looking For</span>
                 <div class="fieldBg">
-                    <input name="ctl00$ctrlMidH$txtKey" type="text" value="Enter Keyword" id="ctl00_ctrlMidH_txtKey" autocomplete="off" onfocus="if(this.value=='Enter Keyword')(this.value='');" onblur="if(this.value=='')(this.value='Enter Keyword');">
-                    <span onselectstart="return false;" style="display: inline-block; padding-top: 10px;
-                        padding-left: 7px;"><small id="smallKeyword">Eg. Hotel or Car Hire</small> </span>
+                    <input name="ctl00$ctrlMidH$txtKey" type="text" value="What Are You Looking For? Eg. Hotel or Car Hire" id="ctl00_ctrlMidH_txtKey" autocomplete="off" onfocus="javascript:keywordWatermark(this,true);" onblur="javascript:keywordWatermark(this,false);" style="font-size:11px; color:#9F9F9F;">
+                    
                 </div>
             </div>
             <div class="searchFieldBlock">
-                <span onselectstart="return false;">Where Do You Want It</span>
                 <div class="fieldBg">
-                    <input name="ctl00$ctrlMidH$txtArea" type="text" value="State/Local Government" id="ctl00_ctrlMidH_txtArea" autocomplete="off" onfocus="if(this.value=='State/Local Government')(this.value='');" onblur="if(this.value=='')(this.value='State/Local Government');">
-                    <span onselectstart="return false;" style="display: inline-block; padding-top: 10px;
-                        padding-left: 7px;"><small>Eg. Ikorodu</small> </span>
+                    <input name="ctl00$ctrlMidH$txtArea" type="text" value="Lagos" id="ctl00_ctrlMidH_txtArea" autocomplete="off" onfocus="javascript:locationWatermark(this,true);" onblur="javascript:locationWatermark(this,false);">
+                    
                 </div>
             </div>
             <div class="innerSrchCon" onselectstart="return false;">
                 <input type="image" name="ctl00$ctrlMidH$ibtnSearch" id="ctl00_ctrlMidH_ibtnSearch" src="../App_Themes/VConnect/images/searchBtn.gif" border="0">
-                <a href="#dialog" name="modal">ADVANCED SEARCH</a>
+                <a href="#dialog" name="modal">Advanced Search</a>
             </div>
+            <div class="clear">
+            </div>
+            <div class="innerPostMsg">
+                Let us know what you want... We will get you <span>instant responses</span> <a href="/userreq.aspx">
+                    <img src="/App_Themes/VConnect/images/postBtn.jpg" alt="" style="vertical-align: middle;"></a></div>
         </div>
         <div class="searchBoxBtmLft" onselectstart="return false;">
             <div class="searchBoxBtmRt">
-                <div style="margin-top: -3px; float: left;">
-                    <span title="Search by Product/Service"><input id="ctl00_ctrlMidH_rdbType2" type="radio" name="ctl00$ctrlMidH$SearchType" value="rdbType2" onclick="javascript:searchtype('ProductServices');"><label for="ctl00_ctrlMidH_rdbType2">Product/Service</label></span>
-                    <span title="Search by Company Name"><input id="ctl00_ctrlMidH_rdbType1" type="radio" name="ctl00$ctrlMidH$SearchType" value="rdbType1" onclick="javascript:searchtype('Business');"><label for="ctl00_ctrlMidH_rdbType1">Company Name</label></span>
-                </div>
             </div>
         </div>
     </div>
     <!--Search Box-->
     <!--Advance Search Popup-->
     <div class="boxes">
-    <div id="buzz" class="window" style="width: 512px;">
-       
-       <a href="#" class="close">X</a>
-            <div id="ctl00_ctrlMidH_Panel1">
-	
-                
-                    <div class="buzzLogo"><img src="/App_Themes/VConnect/images/buzzPopUpLogo.png"></div>
-                    <div class="buzzTpTxt">
-                        To Participate in <br> <span>VConnect Buzz Contest</span> <br>
-                        answer the following question <br> and win
-                        exciting prizes!! 
-                    </div>
-                <div class="clear"></div>    
-                <div class="buzzPopUp">
-                
-                <div class="composeForm">                    
-                <span id="ctl00_ctrlMidH_lb_info"></span>
-                    <div class="formBlock">
-                        <div class="blockTxt" style="width: 150px;">
-                            Question:</div>
-                        <div class="blockField">
-                            <span id="ctl00_ctrlMidH_lb_question" style="margin-top:9px; display:inline-block;"></span>
-                        </div>
-                    </div>    
-                    
-                    <div class="formBlock">
-                        <div class="blockTxt" style="width: 150px;">
-                            Full Name:
-                         </div>
-                        <div class="blockField">
-                            <input name="ctl00$ctrlMidH$txt_name" type="text" id="ctl00_ctrlMidH_txt_name">
-                                &nbsp;
-                        </div>
-                    </div>
-                    
-                    <div class="formBlock">
-                        <div class="blockTxt" style="width: 150px;">
-                            Email:
-                         </div>
-                        <div class="blockField">
-                            <input name="ctl00$ctrlMidH$txt_yourmail" type="text" id="ctl00_ctrlMidH_txt_yourmail">
-                                &nbsp;
-                                
-                        </div>
-                    </div>
-                    
-                    <div class="formBlock">
-                        <div class="blockTxt" style="width: 150px;">
-                            Mobile / Tel:
-                         </div>
-                        <div class="blockField">
-                            <input name="ctl00$ctrlMidH$txt_telephone" type="text" value="eg. 07000008888" maxlength="15" id="ctl00_ctrlMidH_txt_telephone" onkeyup="javascript:return validateBuzzPhone1();" onfocus="javascript:buzzWatermark(this, true);" onblur="javascript:buzzWatermark(this, false);" style="color:Gray;">
-                            <br>
-                            <span class="mandatory" id="tele1msg" style="display: none;">
-                                Do not enter International code.</span>
-                            
-                        </div>
-                    </div>
-                    
-                    <div class="formBlock">
-                        <div class="blockTxt" style="width: 150px;">
-                            Answer:
-                         </div>
-                        <div class="blockField">
-                            <textarea name="ctl00$ctrlMidH$txt_comment" rows="2" cols="20" id="ctl00_ctrlMidH_txt_comment" style="height: 90px; width: 233px;"></textarea>
-                        </div>
-                    </div>
-                    
-                    <div class="formBlock">
-                        <div class="blockTxt" style="width: 150px;">
-                            How do you hear about us:
-                         </div>
-                         <div class="blockField">
-                                <select name="ctl00$ctrlMidH$dropdown_referrer" id="ctl00_ctrlMidH_dropdown_referrer" style="margin-top: 8px; width: 245px;">
-		<option value="Please Select">Please Select</option>
-		<option value="Flyers">Flyers</option>
-		<option value="Newspapers">Newspapers</option>
-		<option value="Magazines">Magazines</option>
-		<option value="Wazobia FM">Wazobia FM</option>
-		<option value="Top FM">Top FM</option>
-		<option value="Unliag FM">Unliag FM</option>
-		<option value="Facebook / Twitter">Facebook / Twitter</option>
-		<option value="Search Engines (Google/Yahoo/Bing)">Search Engines (Google/Yahoo/Bing)</option>
-		<option value="Others">Others</option>
-
-	</select>
-                                &nbsp;
-                         </div>
-                    </div>
-                    
-                                        
+        <div id="survey" class="window knowPopUp">
+            <div class="tpLft">
+                <div class="tpRt">
                 </div>
+            </div>
+            <div class="popMid">
+                <h3>
+                    Dear Friend,<br> Thanks for patronizing us. <span>Help us to understand what do you think VConnect is?</span></h3>
+                <!-- close button is defined as close class -->
+                <a href="#" class="close">X</a>
+                <h6>Your response will help us serve you better</h6>
+               
+                <p>
+                    <input id="ctl00_ctrlMidH_chkSocialNetwork" type="radio" name="ctl00$ctrlMidH$Compaign" value="chkSocialNetwork" onclick="hideSpecify();"><label for="ctl00_ctrlMidH_chkSocialNetwork">A Local Search Engine</label>
+                </p>
+                 <p>
+                    <input id="ctl00_ctrlMidH_chkSearchEngines" type="radio" name="ctl00$ctrlMidH$Compaign" value="chkSearchEngines" onclick="hideSpecify();"><label for="ctl00_ctrlMidH_chkSearchEngines">An Information Guide</label>
+                </p>
+                <p>
+                    <input id="ctl00_ctrlMidH_chkNews" type="radio" name="ctl00$ctrlMidH$Compaign" value="chkNews" onclick="hideSpecify();"><label for="ctl00_ctrlMidH_chkNews">Consumer to Business link</label>
+                </p>
+                <p>
+                    <input id="ctl00_ctrlMidH_chkRadio" type="radio" name="ctl00$ctrlMidH$Compaign" value="chkRadio" onclick="hideSpecify();"><label for="ctl00_ctrlMidH_chkRadio">An Online Address Book</label>
+                </p>
+                <p>
+                    <input id="ctl00_ctrlMidH_chkTelevision" type="radio" name="ctl00$ctrlMidH$Compaign" value="chkTelevision" onclick="hideSpecify();"><label for="ctl00_ctrlMidH_chkTelevision">Information whenever, wherever</label>
+                </p>
+                <p>
+                    <input id="ctl00_ctrlMidH_chkFriends" type="radio" name="ctl00$ctrlMidH$Compaign" value="chkFriends" onclick="hideSpecify();"><label for="ctl00_ctrlMidH_chkFriends">A Web Portal</label>
+                </p>
                 
+                <p>
+                    <input id="ctl00_ctrlMidH_chkOthers" type="radio" name="ctl00$ctrlMidH$Compaign" value="chkOthers" onclick="showSpecify();"><label for="ctl00_ctrlMidH_chkOthers">Others</label>
+                    <input name="ctl00$ctrlMidH$txtSpecifySource" type="text" id="ctl00_ctrlMidH_txtSpecifySource" style="display: none;"></p>
+                <p><span id="valid_msg" class="mandatory"></span></p>
+                <input type="image" name="ctl00$ctrlMidH$imgbtnSendVote" id="ctl00_ctrlMidH_imgbtnSendVote" class="floatL" src="../App_Themes/VConnect/images/howKnwSubmitBtn.jpg" onclick="javascript:return validateVote();" border="0">
+                    <div class="thanks">
+                        Thank You,<br>
+                        <span>Team VConnect.</span>
+                    </div>
+                    <div class="clear"></div>
+            </div>
+            <div class="btmLft">
+                <div class="btmRt">
                 </div>
-                <p align="right"><small>* All information received will be kept in strictest confidence</small></p>
-                
-                <div class="floatL" style="margin-top:5px;">
-                    <input type="checkbox" name="terms" id="chkTerms">  Accept the <a href="/content/buzzterms" target="_blank">Terms and Conditions</a> before submitting the form
-                </div>
-                <div class="floatR"><input type="image" name="ctl00$ctrlMidH$btn_send" id="ctl00_ctrlMidH_btn_send" text="Send" src="../App_Themes/VConnect/images/submitBtn.png" onclick="javascript:return validateCtrl();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctrlMidH$btn_send&quot;, &quot;&quot;, true, &quot;buzz&quot;, &quot;&quot;, false, false))" border="0"> </div>
-                <div class="clear"></div>
-                <p class="errormsg marginT" style="display:none;"><a target="_blank" href="http://www.facebook.com/vconnectnigeria">Check out the previous winners!!</a></p>
-            
-</div>
-     </div>
+            </div>
+        </div>
         <div id="dialog" class="window" style="width: 560px;">
             <h3>
                 Advanced Search</h3>
@@ -318,6 +350,7 @@
 	
                 <p>
                     <strong>Search By:
+                        
                         <span title="Search by Brand"><input id="ctl00_ctrlMidH_rdbBrand" type="radio" name="ctl00$ctrlMidH$AdvanceSearch" value="rdbBrand" onclick="javascript:advanceSearch('Brand');"><label for="ctl00_ctrlMidH_rdbBrand"> Brand</label></span>
                         <span title="Search by Category"><input id="ctl00_ctrlMidH_rdbCategory" type="radio" name="ctl00$ctrlMidH$AdvanceSearch" value="rdbCategory" onclick="javascript:advanceSearch('Category');"><label for="ctl00_ctrlMidH_rdbCategory"> Category</label></span>
                         <span title="Search by Product/Service"><input id="ctl00_ctrlMidH_rdbProduct" type="radio" name="ctl00$ctrlMidH$AdvanceSearch" value="rdbProduct" onclick="javascript:advanceSearch('ProductServices');"><label for="ctl00_ctrlMidH_rdbProduct"> Product/Service</label></span>
@@ -325,12 +358,12 @@
                     </strong>
                 </p>
                 What are you looking for?
-                <div class="advSrchFieldBg" style="margin-bottom:0;">
+                <div class="advSrchFieldBg" style="margin-bottom: 0;">
                     <input name="ctl00$ctrlMidH$txtKeyword" type="text" value="Enter Keyword" id="ctl00_ctrlMidH_txtKeyword" autocomplete="off" onfocus="if(this.value=='Enter Keyword')(this.value='');" onblur="if(this.value=='')(this.value='Enter Keyword');">
                 </div>
                 <span onselectstart="return false;" style="display: inline-block; padding-top: 2px;
-                    padding-left: 7px; padding-bottom: 10px;"><span id="smallAdvanceKeyword">Eg. Hotel or Car Hire</span>
-                </span>
+                    padding-left: 7px; padding-bottom: 10px;"><span id="smallAdvanceKeyword">
+                        Eg. Hotel or Car Hire</span> </span>
                 <div class="formBox">
                     <p>
                         Where do you want it?</p>
@@ -399,21 +432,51 @@
         </div>
     </div>
     <!--Advance Search Popup-->
+    
 </div>
+
 <script type="text/javascript">
-    function buzzWatermark(obj, isFocus) {
+    function keywordWatermark(obj, isFocus) {
+        var searchType = 'Default';
+        if (document.getElementById('ctl00_ctrlMidH_rdbType1').checked) {
+            searchType = "Business";
+        }
+        else if (document.getElementById('ctl00_ctrlMidH_rdbType2').checked) {
+            searchType = "ProductServices";
+        }
+
+        var example = 'What Are You Looking For? ' + showdefault(searchType);
+        var key = $('#ctl00_ctrlMidH_txtKey');
+        //alert(searchtype);
         if (isFocus) {
-            if (obj.value == 'eg. 07000008888') (obj.value = '');
-            obj.style.color = "black";
+            if (key.val() == example || key.val().indexOf('What Are You Looking For?') != -1) {
+                key.val('');
+                key.removeAttr("style");
+            }
+
         }
         else {
-            if (obj.value == '') {
-                (obj.value = 'eg. 07000008888');
-                obj.style.color = "Gray";
+            if (key.val() == '' || key.val().indexOf('What Are You Looking For?') != -1) {
+                (key.val(example));
+                key.attr("style", "font-size:11px; color:#9F9F9F;");
             }
         }
     }
-    </script>
+    function locationWatermark(obj, isFocus) {
+        var searchDefaultLocation = 'Where Do You Want It? Eg. Ikorodu';
+        if (isFocus) {
+            if (obj.value == searchDefaultLocation) (obj.value = '');
+            $('#ctl00_ctrlMidH_txtArea').removeAttr("style");
+        }
+        else {
+            if (obj.value == '') {
+                (obj.value = searchDefaultLocation);
+                $('#ctl00_ctrlMidH_txtArea').attr("style", "font-size:11px; color:#9F9F9F;");
+            }
+        }
+    }
+</script>
+
 <script type="text/javascript">
     $('#ctl00_ctrlMidH_ibtnSearch').click(function(e) {
         SearchUrl();
@@ -456,7 +519,7 @@
         var statename = $('#ctl00_ctrlMidH_hdnStateName').val();
         var govt = $('#ctl00_ctrlMidH_hdnGovtName').val();
         var area = $('#ctl00_ctrlMidH_hdnArea').val();
-        
+
         var url = JSAdvanceSearchUrl(searchType, keyword, statename, govt, area);
         if (url != '')
             window.location.href = url;
@@ -487,9 +550,9 @@
                 type = "Default";
             }
         }
-        document.getElementById('smallKeyword').innerHTML = showdefault(type);
+        //document.getElementById('smallKeyword').innerHTML = showdefault(type);
         var serviceURL = '/vcnwebcoll.asmx/FetchBusinessList';
-
+        keywordWatermark(document.getElementById("ctl00_ctrlMidH_txtKey"), false)
         $("#ctl00_ctrlMidH_txtKey").autocomplete({
             source: function(request, response) {
                 $.ajax({
@@ -564,6 +627,7 @@
                 type = "Default";
             }
         }
+
         var serviceURL = '/vcnwebcoll.asmx/FetchBusinessList';
         document.getElementById('smallAdvanceKeyword').innerHTML = showdefault(type);
         $("#ctl00_ctrlMidH_txtKeyword").autocomplete({
@@ -621,52 +685,87 @@
 </script>
 
 <script type="text/javascript">
+    function showSpecify() {
+        $("#valid_msg").html('');
+        $("#ctl00_ctrlMidH_txtSpecifySource").val('');
+        $("#ctl00_ctrlMidH_txtSpecifySource").show();
+
+    }
+    function hideSpecify() {
+        $("#valid_msg").html('');
+        $("#ctl00_ctrlMidH_txtSpecifySource").hide();
+    }
+    function validateVote() {
+        var cnt = 0;
+        var isOtherSelected = false;
+        var grid = document.getElementById('survey');
+        if (grid == null) {
+            $("#valid_msg").html('Please select a option.');
+            return false;
+        }
+        else {
+            var elmntArray = grid.getElementsByTagName('input');
+            for (var k = 0; k < elmntArray.length; k++) {
+                var elmType = elmntArray[k];
+                if (elmType.type.substr(0, 5) == 'radio') {
+                    if (elmType.checked) {
+                        cnt = cnt + 1;
+                        if (elmType.id.indexOf('Others') != -1) {
+                            isOtherSelected = true;
+                        }
+                    }
+
+                }
+            }
+            if (cnt > 0) {
+                if (isOtherSelected) {
+                    if ($("#ctl00_ctrlMidH_txtSpecifySource").val() == '') {
+                        $("#ctl00_ctrlMidH_txtSpecifySource").focus();
+                        $("#valid_msg").html('Please specify.');
+                        return false;
+                    }
+                    else {
+                        return true;
+                    }
+                }
+            }
+            else {
+                $("#valid_msg").html('Please select a option.');
+                return false;
+            }
+        }
+    }
     $(function() {
-        $('a[name=modal]').click(function(e) {
-            //Cancel the link behavior
-            e.preventDefault();
-            //set the keyword in modal
-            if ($("#ctl00_ctrlMidH_txtKey").val() != 'Enter Keyword')
-                $("#ctl00_ctrlMidH_txtKeyword").val($("#ctl00_ctrlMidH_txtKey").val());
-            //Get the A tag
-            var id = $(this).attr('href');
-            //Get the screen height and width
-            var maskHeight = $(document).height();
-            var maskWidth = $(window).width();
+        if ($.cookie("KnowAboutUs") == null) {
+            $.cookie("KnowAboutUs", window.location, { path: '/' });
+            //showModal('#survey');
+        }
 
-            //Set height and width to mask to fill up the whole screen
-            $('#mask').css({ 'width': maskWidth, 'height': maskHeight });
 
-            //transition effect		
-            $('#mask').fadeIn(1000);
-            $('#mask').fadeTo("slow", 0.8);
-            //Get the window height and width
-            var winH = $(window).height();
-            var winW = $(window).width();
-
-            //Set the popup window to center
-            $(id).css('top', winH / 2 - $(id).height() / 2);
-            $(id).css('left', winW / 2 - $(id).width() / 2);
-
-            //transition effect
-            $(id).fadeIn(2000);
-
-        });
-
-        //if close button is clicked
-        $('.window .close').click(function(e) {
-            //Cancel the link behavior
-            e.preventDefault();
-            $('#mask').hide();
-            $('.window').hide();
-        });
-        //if mask is clicked
-        $('#mask').click(function() {
-            $(this).hide();
-            $('.window').hide();
-        });
     });
-	    
+    $('a[name=modal]').click(function(e) {
+        //Cancel the link behavior
+        e.preventDefault();
+        //set the keyword in modal
+        if ($("#ctl00_ctrlMidH_txtKey").val().indexOf('What Are You Looking For?') == -1)
+            $("#ctl00_ctrlMidH_txtKeyword").val($("#ctl00_ctrlMidH_txtKey").val());
+        //Get the A tag
+        var id = $(this).attr('href');
+        showModal(id);
+    });
+
+    //if close button is clicked
+    $('.window .close').click(function(e) {
+        //Cancel the link behavior
+        e.preventDefault();
+        $('#mask').hide();
+        $('.window').hide();
+    });
+    //if mask is clicked
+    $('#mask').click(function() {
+        $(this).hide();
+        $('.window').hide();
+    });
 </script>
 
 <script type="text/javascript" language="javascript">
@@ -705,7 +804,6 @@
                     $.each(data.d, function() {
                         $("#ctl00_ctrlMidH_ddlArea").append($("<option></option>").val(this['ID']).html(this['Keyword']));
                     });
-
                 }
             });
         });
@@ -716,75 +814,13 @@
     
 </script>
 
-<script type="text/javascript">
 
-    function validateBuzzPhone1() {
-        var Phone1 = JSGetCtrlID('ctl00_ctrlMidH_txt_telephone');
-
-        if (Phone1.value.substring(0, 3) == '234' || Phone1.value.substring(0, 4) == '0234' || Phone1.value.substring(0, 5) == '00234') {
-
-            JSShowControl('tele1msg');
-            Phone1.focus();
-            JSHideControl('ctl00_ctrlMidH_REVPhone');
-            return false;
-        }
-        else if (JSGetCtrlID('ctl00_ctrlMidH_REVPhone').style.display == 'inline') {
-            Phone1.focus();
-            return false;
-        }
-        else {
-            JSHideControl('tele1msg');
-            return true;
-        }
-    }
-    function validateCtrl() {
-
-        var name = JSGetCtrlID('ctl00_ctrlMidH_txt_name');
-        var email = JSGetCtrlID('ctl00_ctrlMidH_txt_yourmail');
-        if (name.value == '') {
-            name.focus();
-            JSHideControl('ctl00_ctrlMidH_REVPhone');
-            JSGetCtrlID('ctl00_ctrlMidH_rfv_friendmail').style.visibility = 'visible';
-            return false;
-        }
-        else if (email.value == '') {
-            email.focus();
-            JSHideControl('ctl00_ctrlMidH_REVPhone');
-            JSGetCtrlID('ctl00_ctrlMidH_rfv_yourmail').style.visibility = 'visible';
-            return false;
-        }
-        else if (JSGetCtrlID('ctl00_ctrlMidH_rev_yourmail').style.display == 'inline') {
-            email.focus();
-            return false;
-        }
-        else if (validateBuzzPhone1()) {
-        if ($('#ctl00_ctrlMidH_dropdown_referrer option:selected').text() == 'Please Select') {
-            $('#ctl00_ctrlMidH_dropdown_referrer').focus();
-            JSGetCtrlID('ctl00_ctrlMidH_valreqRefferer').style.visibility = 'visible';
-            return false;
-        }
-        else if ($('#chkTerms').is(':checked')) {
-            if (JSGetCtrlID('ctl00_ctrlMidH_txt_telephone').value == 'eg. 07000008888') {
-                JSGetCtrlID('ctl00_ctrlMidH_txt_telephone').value = '';
-            }
-                return true;
-            }
-            else {
-                alert('Please accept terms and conditions first.');
-                return false;
-            }
-        }
-        else {
-            return false;
-        }
-    }
-    </script>
 				<!--Inner Logo Container-->
 				<!--Green Bar-->
 				
 <div class="greenBar" onselectstart="return false;">
     <div class="createProfile">
-        <a href="/businessregister.aspx">Create Your Business Profile</a></div>
+        <a href="/businessregister">Create Your Business Profile</a></div>
     <div style="float: left; line-height: 60px;">
         <strong>Give your business a home online</strong> - Quick way to grow your business</div>
 </div>
@@ -793,7 +829,7 @@
 			</div>
 			
 			<!--Header-->
-			<div id="noSelect" onselectstart="return false;">
+			<div class="NoSelectClass" id="noSelect" onselectstart="return false;">
 			
 			
     <!--BreadCrum-->
@@ -806,34 +842,44 @@
     
     <div class="marquee" id="mycrawler">
         
-                <img id="ctl00_ContentPlaceHolder1_MarqueeAdvert1_RepMarquee_ctl00_imgPic" src="/Images/Advert/MarqueeImage/634435838060156250.jpg" alt="634435838060156250.jpg" height="30" width="50" border="0">
-                        <a href="/linkredirect.aspx?id=20015&amp;link=http://www.vconnect.com/business/287119/Sonshade-Meadows-Communication-Ltd" target="_blank">
-                        Sonshade Meadows Communication Ltd...Your brands inner strength </a>
+          
+                <img id="ctl00_ContentPlaceHolder1_MarqueeAdvert1_RepMarquee_ctl00_imgPic" class="marqueeChild" src="/Images/Advert/MarqueeImage/634538639566718750.png" alt="634538639566718750.png" height="30" width="50" border="0">
+                        <a href="/linkredirect.aspx?id=20060&amp;link=http://www.vconnect.com/search/business/Foneworx/Lagos" target="_blank">
+                        FoneWorx...Digital Online Faxing Solutions </a>
                          <strong style="font-size: 18px;">&nbsp; | &nbsp;</strong>
+           
             
                
-                <img id="ctl00_ContentPlaceHolder1_MarqueeAdvert1_RepMarquee_ctl02_imgPic" src="/Images/Advert/MarqueeImage/634431262863437500.png" alt="634431262863437500.png" height="30" width="50" border="0">
-                        <a href="/linkredirect.aspx?id=20014&amp;link=http://www.adcelectric-ng.com/" target="_blank">
-                        .... World Class Electrical Company </a>
+          
+                <img id="ctl00_ContentPlaceHolder1_MarqueeAdvert1_RepMarquee_ctl02_imgPic" class="marqueeChild" src="/Images/Advert/MarqueeImage/634556602864597500.png" alt="634556602864597500.png" height="30" width="50" border="0">
+                        <a href="/linkredirect.aspx?id=20070&amp;link=http://www.vconnect.com/search/business/lavally/Lagos" target="_blank">
+                        Tents,Chairs,Tables,Chair Covers,Table Covers,Dance Floors,Rugs-Walkway </a>
                          <strong style="font-size: 18px;">&nbsp; | &nbsp;</strong>
+           
             
                
-                <img id="ctl00_ContentPlaceHolder1_MarqueeAdvert1_RepMarquee_ctl04_imgPic" src="/Images/Advert/MarqueeImage/634431483770937500.png" alt="634431483770937500.png" height="30" width="50" border="0">
-                        <a href="/linkredirect.aspx?id=20013&amp;link=http://www.davidsonsnigeria.com/" target="_blank">
-                        Davidsons Autolink Ventures, Industrial Art &amp; Sign Painters!! </a>
+          
+                <img id="ctl00_ContentPlaceHolder1_MarqueeAdvert1_RepMarquee_ctl04_imgPic" class="marqueeChild" src="/Images/Advert/MarqueeImage/634564553751371250.png" alt="634564553751371250.png" height="30" width="50" border="0">
+                        <a href="/linkredirect.aspx?id=20072&amp;link=http://www.vconnect.com/event/40319/Paddysco-Intl-Football-Challenge" target="_blank">
+                        Talent Hunt Soccer Tournament For U-19's </a>
                          <strong style="font-size: 18px;">&nbsp; | &nbsp;</strong>
+           
             
                
-                <img id="ctl00_ContentPlaceHolder1_MarqueeAdvert1_RepMarquee_ctl06_imgPic" src="/Images/Advert/MarqueeImage/634432143864218750.png" alt="634432143864218750.png" height="30" width="50" border="0">
-                        <a href="/linkredirect.aspx?id=20011&amp;link=http://www.powergenltd.com/" target="_blank">
-                        Powergen Engineering Limited, The ultimate in power solutions!! </a>
+          
+                <img id="ctl00_ContentPlaceHolder1_MarqueeAdvert1_RepMarquee_ctl06_imgPic" class="marqueeChild" src="/Images/Advert/MarqueeImage/634566051854340000.jpg" alt="634566051854340000.jpg" height="30" width="50" border="0">
+                        <a href="/linkredirect.aspx?id=20073&amp;link=http://planetonehospitality.com/" target="_blank">
+                        Planet One Hospitality: Accomodation, Events Centre, Chinese Restaurant, Event Centre, Spa, Gym </a>
                          <strong style="font-size: 18px;">&nbsp; | &nbsp;</strong>
+           
             
                
-                <img id="ctl00_ContentPlaceHolder1_MarqueeAdvert1_RepMarquee_ctl08_imgPic" src="/Images/Advert/MarqueeImage/634432142978125000.jpg" alt="634432142978125000.jpg" height="30" width="50" border="0">
-                        <a href="/linkredirect.aspx?id=20012&amp;link=http://www.vconnect.com/business/184316/Cypon-Machinery-Limited" target="_blank">
-                        Cypon Machinery Limited, Best partner in alternate energy!! </a>
+          
+                <img id="ctl00_ContentPlaceHolder1_MarqueeAdvert1_RepMarquee_ctl08_imgPic" class="marqueeChild" src="/Images/Advert/MarqueeImage/634574688447812500.jpg" alt="634574688447812500.jpg" height="30" width="50" border="0">
+                        <a href="/linkredirect.aspx?id=20074&amp;link=http://www.garutech.net" target="_blank">
+                        High Tech Auto Diagnostic Tools </a>
                          <strong style="font-size: 18px;">&nbsp; | &nbsp;</strong>
+           
             
     </div>
 </div>
@@ -849,6 +895,11 @@
         neutral: 150,
         savedirection: true
     });
+    
+    $('.marquee').change(function (){
+    alert("moved");
+    });
+    
 </script>
 
 </div>
@@ -965,19 +1016,19 @@
         </div>
         <!--Left-->
         <!--Right-->
-        <div id="ctl00_ContentPlaceHolder1_dvRightCat" class="cmsPgRt">
+        <div id="ctl00_ContentPlaceHolder1_dvRightCat" class="cmsPgRt" style="width:253px;">
              
-<div class="pickBB">
-    <div class="rightAd">
-        <div class="logoCont">
-            <a href="http://www.vconnect.com/linkredirect.aspx?id=20118&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/contact/advertise" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB1" target="_blank">
-                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB1" style="border-width: 0px;" src="/images/Advert/BannerLogo/634417427395937500.jpg">
-                <span id="ctl00_ContentPlaceHolder1_RightBanner1_spBB1">Advertise Your Business Here &amp; Increase Your Sales! Call 070 0000 8888</span>
+<div class="pickBB" style="height:252px;">
+    <div class="rightAd" style="height:250px;">
+        <div class="logoCont" style="display:none;">
+            <a href="http://www.vconnect.com/linkredirect.aspx?id=20312&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/business/374980/Unwind-Magazine" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB1" target="_blank">
+                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB1" style="border-width: 0px;" src="/images/Advert/BannerLogo/">
+                <span id="ctl00_ContentPlaceHolder1_RightBanner1_spBB1"></span>
            </a>
         </div>
-        <div class="image">
-            <a href="http://www.vconnect.com/linkredirect.aspx?id=20118&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/contact/advertise" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB11" target="_blank">
-                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB1" style="border-width: 0px;" src="/images/Advert/BannerPicture/634417427391406250.jpg">
+        <div>
+            <a href="http://www.vconnect.com/linkredirect.aspx?id=20312&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/business/374980/Unwind-Magazine" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB11" target="_blank">
+                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB1" style="border-width: 0px;width:250px;height:250px;" src="/images/Advert/BannerPicture/634586859932845000.jpg">
             </a>
         </div>
     </div>
@@ -985,14 +1036,14 @@
 <div class="pickBB">
      <div class="rightAd">
         <div class="logoCont">
-            <a href="http://www.vconnect.com/linkredirect.aspx?id=20118&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/contact/advertise" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB2" target="_blank">
-                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB2" style="border-width: 0px;" src="/images/Advert/BannerLogo/634417427395937500.jpg">
-                <span id="ctl00_ContentPlaceHolder1_RightBanner1_spBB2">Advertise Your Business Here &amp; Increase Your Sales! Call 070 0000 8888</span>
+            <a href="http://www.vconnect.com/linkredirect.aspx?id=20267&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.okeyjapan.com" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB2" target="_blank">
+                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB2" style="border-width: 0px;" src="/images/Advert/BannerLogo/634538334005668750.png">
+                <span id="ctl00_ContentPlaceHolder1_RightBanner1_spBB2">For Quality Audio-Visuals, Photographic and Security Equipments</span>
             </a>
         </div>
         <div class="image">
-            <a href="http://www.vconnect.com/linkredirect.aspx?id=20118&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/contact/advertise" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB22" target="_blank">
-                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB2" style="border-width: 0px;" src="/images/Advert/BannerPicture/634417427391406250.jpg">
+            <a href="http://www.vconnect.com/linkredirect.aspx?id=20267&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.okeyjapan.com" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB22" target="_blank">
+                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB2" style="border-width: 0px;" src="/images/Advert/BannerPicture/634538334004887500.png">
             </a>
         </div>
     </div>
@@ -1000,39 +1051,31 @@
 <div class="pickBB">
     <div class="rightAd">
         <div class="logoCont">
-            <a href="http://www.vconnect.com/linkredirect.aspx?id=20118&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/contact/advertise" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB3" target="_blank">
-                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB3" style="border-width: 0px;" src="/images/Advert/BannerLogo/634417427395937500.jpg">
-                <span id="ctl00_ContentPlaceHolder1_RightBanner1_spBB3">Advertise Your Business Here &amp; Increase Your Sales! Call 070 0000 8888</span>
+            <a href="http://www.vconnect.com/linkredirect.aspx?id=20311&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/business/285639/Gabson Frank And Association Nigeria Limited" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB3" target="_blank">
+                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB3" style="border-width: 0px;" src="/images/Advert/BannerLogo/634586826018782500.png">
+                <span id="ctl00_ContentPlaceHolder1_RightBanner1_spBB3">All Kinds Of Stationeries &amp; Computer Materials</span>
             </a>
         </div>
         <div class="image">
-            <a href="http://www.vconnect.com/linkredirect.aspx?id=20118&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/contact/advertise" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB33" target="_blank">
-                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB3" style="border-width: 0px;" src="/images/Advert/BannerPicture/634417427391406250.jpg">
+            <a href="http://www.vconnect.com/linkredirect.aspx?id=20311&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/business/285639/Gabson Frank And Association Nigeria Limited" id="ctl00_ContentPlaceHolder1_RightBanner1_aBB33" target="_blank">
+                <img id="ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB3" style="border-width: 0px;" src="/images/Advert/BannerPicture/634586826017845000.png">
             </a>
         </div>
     </div>
 </div>
-<script type="text/javascript">var arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB1=new Array('/images/Advert/BannerLogo/634417427395937500.jpg');var arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB1=new Array('/images/Advert/BannerPicture/634417427391406250.jpg');var arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB1=new Array('20118');var arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB1=new Array('http://www.vconnect.com/linkredirect.aspx?id=20118&url=http://www.vconnect.com/content/privacypolicy&link=http://www.vconnect.com/contact/advertise');var arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB1=new Array('Advertise Your Business Here & Increase Your Sales! Call 070 0000 8888');function RotateBB1(Start1,Total1){if(Start1>=arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB1.length)Start1=0;document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB1').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB11').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB1').src=arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB1').src=arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_spBB1').innerHTML=arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1];window.setTimeout('RotateBB1('+(Start1+1)+','+(Total1+1)+')',5000);if(Start1==Total1)SetAdvertImpression(arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1]);}RotateBB1(0,0);</script>
 
-<script type="text/javascript">var arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB2=new Array('/images/Advert/BannerLogo/634417427395937500.jpg');var arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB2=new Array('/images/Advert/BannerPicture/634417427391406250.jpg');var arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB2=new Array('20118');var arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB2=new Array('http://www.vconnect.com/linkredirect.aspx?id=20118&url=http://www.vconnect.com/content/privacypolicy&link=http://www.vconnect.com/contact/advertise');var arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB2=new Array('Advertise Your Business Here & Increase Your Sales! Call 070 0000 8888');function RotateBB2(Start2,Total2){if(Start2>=arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB2.length)Start2=0;document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB2').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB22').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB2').src=arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB2').src=arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_spBB2').innerHTML=arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2];window.setTimeout('RotateBB2('+(Start2+1)+','+(Total2+1)+')',5000);if(Start2==Total2)SetAdvertImpression(arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2]);}RotateBB2(0,0);</script>
-
-<script type="text/javascript">var arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB3=new Array('/images/Advert/BannerLogo/634417427395937500.jpg');var arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB3=new Array('/images/Advert/BannerPicture/634417427391406250.jpg');var arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB3=new Array('20118');var arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB3=new Array('http://www.vconnect.com/linkredirect.aspx?id=20118&url=http://www.vconnect.com/content/privacypolicy&link=http://www.vconnect.com/contact/advertise');var arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB3=new Array('Advertise Your Business Here & Increase Your Sales! Call 070 0000 8888');function RotateBB3(Start3,Total3){if(Start3>=arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB3.length)Start3=0;document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB3').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB33').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB3').src=arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB3').src=arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_spBB3').innerHTML=arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3];window.setTimeout('RotateBB3('+(Start3+1)+','+(Total3+1)+')',5000);if(Start3==Total3)SetAdvertImpression(arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3]);}RotateBB3(0,0);</script>
+<script type="text/javascript">var arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB1=new Array('/images/Advert/BannerLogo/','/images/Advert/BannerLogo/');var arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB1=new Array('/images/Advert/BannerPicture/634586859932845000.jpg','/images/Advert/BannerPicture/634485038451718750.jpg');var arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB1=new Array('20312','20179');var arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB1=new Array('http://www.vconnect.com/linkredirect.aspx?id=20312&url=http://www.vconnect.com/content/privacypolicy&link=http://www.vconnect.com/business/374980/Unwind-Magazine','http://www.vconnect.com/linkredirect.aspx?id=20179&url=http://www.vconnect.com/content/privacypolicy&link=http://www.vconnect.com/search/default/mbh/Lagos');var arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB1=new Array('','');function RotateBB1(Start1,Total1){if(Start1>=arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB1.length)Start1=0;document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB1').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB11').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB1').src=arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB1').src=arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_spBB1').innerHTML=arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1];window.setTimeout('RotateBB1('+(Start1+1)+','+(Total1+1)+')',5000);if(Start1==Total1)SetAdvertImpression(arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB1[Start1]);}RotateBB1(0,0);</script>
+<script type="text/javascript">var arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB2=new Array('/images/Advert/BannerLogo/634538334005668750.png','/images/Advert/BannerLogo/634538466981562500.jpg');var arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB2=new Array('/images/Advert/BannerPicture/634538334004887500.png','/images/Advert/BannerPicture/634538466981250000.jpg');var arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB2=new Array('20267','20269');var arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB2=new Array('http://www.vconnect.com/linkredirect.aspx?id=20267&url=http://www.vconnect.com/content/privacypolicy&link=http://www.okeyjapan.com','http://www.vconnect.com/linkredirect.aspx?id=20269&url=http://www.vconnect.com/content/privacypolicy&link=http://www.vconnect.com/business/126236/Current%20Foam%20Industries%20&%20Chemicals%20Limited');var arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB2=new Array('For Quality Audio-Visuals, Photographic and Security Equipments','For Quality Mattresses, Cushions,Foam Blocks, Pillows,Carpet Underlays');function RotateBB2(Start2,Total2){if(Start2>=arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB2.length)Start2=0;document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB2').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB22').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB2').src=arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB2').src=arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_spBB2').innerHTML=arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2];window.setTimeout('RotateBB2('+(Start2+1)+','+(Total2+1)+')',5000);if(Start2==Total2)SetAdvertImpression(arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB2[Start2]);}RotateBB2(0,0);</script>
+<script type="text/javascript">var arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB3=new Array('/images/Advert/BannerLogo/634586826018782500.png','/images/Advert/BannerLogo/634578168285896250.jpg');var arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB3=new Array('/images/Advert/BannerPicture/634586826017845000.png','/images/Advert/BannerPicture/634578168284958750.jpg');var arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB3=new Array('20311','20306');var arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB3=new Array('http://www.vconnect.com/linkredirect.aspx?id=20311&url=http://www.vconnect.com/content/privacypolicy&link=http://www.vconnect.com/business/285639/Gabson Frank And Association Nigeria Limited','http://www.vconnect.com/linkredirect.aspx?id=20306&url=http://www.vconnect.com/content/privacypolicy&link=http://www.eplanetconsult.com');var arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB3=new Array('All Kinds Of Stationeries & Computer Materials','adding value through qualitative procurement training & consulting!!');function RotateBB3(Start3,Total3){if(Start3>=arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB3.length)Start3=0;document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB3').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_aBB33').href=arrayBBLinkctl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgLogoBB3').src=arrayBBLogoctl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_imgPictureBB3').src=arrayBBPicturectl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3];document.getElementById('ctl00_ContentPlaceHolder1_RightBanner1_spBB3').innerHTML=arrayBBContentctl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3];window.setTimeout('RotateBB3('+(Start3+1)+','+(Total3+1)+')',5000);if(Start3==Total3)SetAdvertImpression(arrayBBRecordctl00_ContentPlaceHolder1_RightBanner1_ltBB3[Start3]);}RotateBB3(0,0);</script>
 
  
+ 
 
-<div id="ctl00_ContentPlaceHolder1_RightBanner1_dvSponsored" class="categoryRtBox">
-    <div class="sponsoredLinks">
-        <p>
-            
-                    <small>
-                        <img src="http://www.vconnect.com/images/adsense/adsense_bkup.gif"></small> <br><br>
-                
-        </p>
-    </div>
+<div id="ctl00_ContentPlaceHolder1_RightBanner1_dvSponsored" style="display:none;">
+    
 </div>
 
-			
-        </div>
+	    </div>
         <!--Right-->
         <div class="clear">
         </div>
@@ -1048,14 +1091,26 @@
 				
 <div class="advBanner">
     
-    <a id="aFooter" href="http://www.vconnect.com/linkredirect.aspx?id=20133&amp;url=http://www.vconnect.com/content/privacypolicy&amp;link=http://www.vconnect.com/search/business/Best-Choice/Lagos" target="_blank"> <img id="imgFooter" src="/images/Advert/BannerPicture/634431492917031250.jpg" alt=""></a>
-    <script type="text/javascript">var arrayFooterImagesctl00_ctrlTopF_ltFooter=new Array('/images/Advert/BannerPicture/634431492917031250.jpg','/images/Advert/BannerPicture/634429546356406250.jpg');var arrayFooterRecordctl00_ctrlTopF_ltFooter=new Array('20133','20130');var arrayFooterLinkctl00_ctrlTopF_ltFooter=new Array('http://www.vconnect.com/linkredirect.aspx?id=20133&url=http://www.vconnect.com/content/privacypolicy&link=http://www.vconnect.com/search/business/Best-Choice/Lagos','http://www.vconnect.com/linkredirect.aspx?id=20130&url=http://www.vconnect.com/content/privacypolicy&link=http://www.dufil.com');function RotateFooter(Start,Total){if(Start>=arrayFooterImagesctl00_ctrlTopF_ltFooter.length)Start=0;document.getElementById('imgFooter').src=arrayFooterImagesctl00_ctrlTopF_ltFooter[Start];document.getElementById('aFooter').href=arrayFooterLinkctl00_ctrlTopF_ltFooter[Start];window.setTimeout('RotateFooter('+(Start+1)+','+(Total+1)+')',5000);if(Start==Total)SetAdvertImpression(arrayFooterRecordctl00_ctrlTopF_ltFooter[Start]);}RotateFooter(0,0);</script>
+    <a id="aFooter" href="#" target="_blank" onclick="javascript:trackDufil();">
+        <img id="imgFooter" src="" alt=""></a>
+    <script type="text/javascript">var arrayFooterImagesctl00_ctrlTopF_ltFooter=new Array('/images/Advert/BannerPicture/634574941044375000.jpg');var arrayFooterRecordctl00_ctrlTopF_ltFooter=new Array('20302');var arrayFooterLinkctl00_ctrlTopF_ltFooter=new Array('http://www.vconnect.com/linkredirect.aspx?id=20302&url=http://www.vconnect.com/content/privacypolicy&link=http://www.vconnect.com/searchnwin');var mouseflag=true;$('#imgFooter').mouseover(function(){mouseflag=false;});$('#imgFooter').mouseout(function(){mouseflag=true;});function RotateFooter(Start,Total){if(mouseflag){if(Start>=arrayFooterImagesctl00_ctrlTopF_ltFooter.length)Start=0;document.getElementById('imgFooter').src=arrayFooterImagesctl00_ctrlTopF_ltFooter[Start];document.getElementById('aFooter').href=arrayFooterLinkctl00_ctrlTopF_ltFooter[Start];}if(mouseflag){window.setTimeout('RotateFooter('+(Start+1)+','+(Total+1)+')',5000);if(Start==Total)SetAdvertImpression(arrayFooterRecordctl00_ctrlTopF_ltFooter[Start]);}else{window.setTimeout('RotateFooter('+(Start)+','+(Total)+')',5000);}}RotateFooter(0,0);</script>
     
     
     
 </div>
+<script type="text/javascript">
+    function trackDufil() {
+        var lnk = document.getElementById('aFooter').href;
+        if (lnk.indexOf('http://www.dufil.com') != -1) {
+            pageTracker._trackPageview('/premiumads/dufil/indomieboxnoodles');
+            //alert('tracker called');
+        }
+    }
+    
+</script>
 
 				<!--Adv Banner-->
+				
 				<!--Browse By Category-->
 				
 <div class="browseCat">
@@ -1131,7 +1186,11 @@
         <a href="/feedback.aspx" style="color:#fff;background-color:Green;"> &nbsp;Feedback </a> &nbsp;|
         <a href="/content/reachus">Reach Us </a>| 
         <a href="/content/terms">T &amp; C Disclaimer </a>| 
-        <a href="/content/privacypolicy">Privacy Policy</a>
+        <a href="/content/privacypolicy">Privacy Policy </a>| 
+        
+        <a href="/mobileview.aspx" target="_blank">Mobile Site</a>| 
+        <a href="/media/pressrelease.aspx">Press Releases</a> |
+        <a href="/sme-event">SME Event</a>    
    </p>
         
     <p>
@@ -1167,6 +1226,8 @@ ssc.parentNode.insertBefore(wsc, ssc);
 })();
 </script><!-- End of Woopra Code --></p>
 
+    <br>
+    <p>This site is best viewed at 1360X768 resolution. Site optimized for Internet Explorer 7.0+ and Firefox 2.0+</p>&nbsp;
 </div>
 
 				<!--Footer Text-->
@@ -1175,13 +1236,14 @@ ssc.parentNode.insertBefore(wsc, ssc);
 			
 			<div class="clear"></div>
 		</div>
-	  <!--VCN Buzz
-        <div class="vcnBuzz">
-            <a href='/wafu'  target="_blank">VCN WAFU</a>
-	 
+</div>
+	  <!--VCN PYR-->
+        <div id="ctl00_PYRLink" class="vcnPYR">
+            <a href="/userreq.aspx">Post your requirement</a>
         </div>
-   VCN Buzz-->
+     <!--VCN PYR-->
     </form>
+    
 
 
 </body></html>
