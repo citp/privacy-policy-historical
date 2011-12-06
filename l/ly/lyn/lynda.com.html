@@ -1,9 +1,107 @@
-<!--The following is the downloaded HTML source of the lynda.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224053549id_/http%3A//www.lynda.com/aboutus/lotPrivacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lynda.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206154941id_/http%3A//www.lynda.com/aboutus/otl-privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	lynda.com Online Training Library®: Privacy
-</title><meta id="ctl00_metaDesc" name="description" content="Affordable software training, tutorials, classes and courses. Learn with online videos or DVDs. Certificates of completion, exercise files &amp; more."><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/reset.css?c-v=24701"><link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/grid.css?c-v=24701"><link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/common.css?c-v=24701"><link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/jquery.fancybox-1.3.1.css?c-v=24701"><link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/header.css?c-v=24701"><link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/footer.css?c-v=24701"><link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/tooltipStyle.css?c-v=24701"><link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/jquery-modalpopup.css?c-v=24701">
+		<!--[if IE]>
+			<link rel="stylesheet" href="http://files2.lynda.com/files/lol_ui/ui/styles/noscript.css?c-v=24701" type="text/css" charset="utf-8" />
+		<![endif]-->
+		<!--[if IE 6]>
+			<link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/footer_ie6.css?c-v=24701" />
+			<link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/ie6.css?c-v=24701" />
+		<![endif]-->
+		<!--[if IE 7]>
+			<link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/footer_ie7.css?c-v=24701" />
+			<link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/ui/styles/ie7.css?c-v=24701" />
+		<![endif]-->
+		<script type="text/javascript">
+			// needed to check if the LoginConflictModal popup is displayed.
+			var isLoginConflited = 'False'
+		</script>
+		<script type="text/javascript">
+			if(navigator.userAgent.indexOf('iPhone') != -1 || navigator.userAgent.indexOf('iPod') != -1 || navigator.userAgent.indexOf('iPad') != -1)
+				document.write('<style>.btm-srch-btn { left: -10px; } .srch-box { width: 200px !important; } .srch-box-btm, .srch-box-top { -webkit-appearance: none; left: 5px; } .nav .sub { display: none; }</style>');
+
+			var lynda = {
+				page: {},
+				feature: {},
+				baseUrl: 'http://www.lynda.com/',
+				isLoggedIn: false,
+                isBookmarksEnabled: false,
+				tags: {maxLength: 32},
+				isIMobileDevice: false,
+				urls:{
+					searchSuggestions: "http://www.lynda.com/home/sitesearchautocomplete.aspx"
+				}
+			};
+			
+			var affiliatesTracks = {bannerId: null, products: null, documentId: null, opt: null, action: 'none'};
+
+			var searchSuggestions = function(selector, cssClass,pleasewaitIDName)
+			{
+				jQuery(selector).autocomplete(
+					parseSecureUrl(lynda.urls.searchSuggestions),
+					{
+						dataType: 'json',
+						delay: 900,
+						minChars: 3,
+						pleasewaitID: pleasewaitIDName,
+						scrollHeight: 400,
+						resultsClass: cssClass,
+						parse: function(data) {
+							var rows = new Array();
+							for (var i = 0; i < data.length; i++) {
+								data[i].Value = parseSecureUrl(data[i].Value);
+								rows.push({ data: data[i], value: data[i].Value, result: data[i].Key });
+							}
+							return rows;
+						},
+						formatItem: function(row, i, n) {
+							if (i == 1) {
+								jQuery('div.ac_results').each(function() {
+									if (jQuery(this).find('p.searchSugestions').length <= 0) {
+										jQuery(this).prepend('<p class="searchSugestions"><span>Suggestions</span></p>');
+									}
+									if (jQuery(this).find('p.searchClose').length <= 0) {
+										jQuery(this).append('<p class="searchClose"><a href="javascript:void(0);" onClick="javascript:jQuery(this).parent().parent().hide();">Close</a></p>');
+									}
+								});
+							}
+							jQuery('#' + pleasewaitIDName).hide();
+							return String.format('<a href="{0}">{1}</a>', row.Value, row.Key);
+						},
+						autoFill: false
+					}
+				).result(function(event, item) {
+					location.href = item.Value;
+				});
+			};
+
+			if(lynda.isIMobileDevice)
+				window.onscroll = scrollSiteFeedback;
+			function scrollSiteFeedback()
+			{
+				var position = window.pageYOffset + window.innerHeight - jQuery('#section-sitefeedback').height();
+				jQuery('#section-sitefeedback').css({'width' : '105px', 'height' : '20px', 'opacity' : '0.6', 'top' : position + 'px' });
+			}
+		</script>
+		<script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/jquery.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/jquery.fancybox-1.3.1.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/microsoft.mvc.jquery.validation.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/superfish.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/ready2.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/Cookies.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/lynda.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/ShowWindow.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/jquery-modalpopup.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/popupWindow.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/jquery.autocomplete.all.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/plugin.js?c-v=24701"></script><script type="text/javascript" src="http://files2.lynda.com/files/lol_ui/ui/scripts/plugindetect.js?c-v=24701"></script>
+		<!--[if IE 6]>
+			<script type="text/javascript">
+				$(document).ready(function($) {
+					$(".nav li.with-sub-menu").mouseenter(function() {
+						$("select").fadeOut();
+					});
+					$(".nav li.with-sub-menu").mouseleave(function() {
+						$("select").fadeIn();
+					});
+				});
+			</script>
+		<![endif]-->
+		
+    <title>lynda.com Online Training Library®: Privacy</title>
+
+		<script type="text/javascript">
 //<![CDATA[
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -13,696 +111,556 @@
 try{
 	var pageTracker=_gat._getTracker("UA-512865-1");
 	pageTracker._setDomainName("lynda.com");
-		pageTracker._setCustomVar(2,"RedesignTest","ClassicSite",2);
-	pageTracker._trackPageview();
+		pageTracker._trackPageview(); 
+	pageTracker._trackPageLoadTime();
 
 }catch(err){}
 //]]>
 </script>
 
-    <link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/CSS/_all.css?v=2010623">
-    <link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/CSS/mp5.css">
-    <link rel="Stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/CSS/tooltipStyle.css">
-    <link href="http://files2.lynda.com/files/lol_ui/favicon.ico" rel="shortcut icon" type="image/x-icon">
-    <link href="http://files2.lynda.com/files/lol_ui/favicon.ico" rel="icon" type="image/x-icon">
-    <script type="text/javascript">var brightHost = (("https:" == document.location.protocol) ? "https://analytics.brightedge.com" : "http://edge.analytics.brightedge.com"); document.write(unescape("%3Cscript src='" + brightHost + "/brightedge_analytics.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://analytics.brightedge.com/brightedge_analytics.js" type="text/javascript"></script> <script type="text/javascript"> try { var track = _bright._initialize("b8b339eff7b49e8"); track._setDomain(".lynda.com");track._trackBright(); } catch(err) {} </script> 
-    <script type="text/javascript">
-    
-		var lynda = {
-			baseUrl:'http://www.lynda.com/',
-			tags:{
-				maxLength:32
-			}
-		};
-    
-    </script>
-    
-	<link rel="stylesheet" href="http://files2.lynda.com/files/lol_ui/CSS/footer-legacy.css" type="text/css" media="screen" charset="utf-8">
-	<!--[if IE 6]>
-		<link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/CSS/footer-legacy_ie6.css" />
-	<![endif]-->
-	<!--[if IE 7]>
-		<link rel="stylesheet" type="text/css" href="http://files2.lynda.com/files/lol_ui/CSS/footer-legacy_ie7.css" />
-	<![endif]-->
-<link rel="canonical" href="http://www.lynda.com/aboutus/lotPrivacy.aspx"></head>
-<body>
-    <script type="text/javascript">var WRInitTime=(new Date()).getTime();</script><form name="aspnetForm" method="post" action="/aboutus/lotPrivacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYwODYzOTMxNA9kFgJmD2QWBGYPZBYIAgUPFgIeBFRleHQFsgQ8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQovLzwhW0NEQVRBWw0KCXZhciBnYUpzSG9zdCA9ICgoImh0dHBzOiIgPT0gZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2wpID8gImh0dHBzOi8vc3NsLiIgOiAiaHR0cDovL3d3dy4iKTsNCglkb2N1bWVudC53cml0ZSh1bmVzY2FwZSgiJTNDc2NyaXB0IHNyYz0nIiArIGdhSnNIb3N0ICsgImdvb2dsZS1hbmFseXRpY3MuY29tL2dhLmpzJyB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnJTNFJTNDL3NjcmlwdCUzRSIpKTsNCi8vXV0+DQo8L3NjcmlwdD48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQovLzwhW0NEQVRBWw0KdHJ5ew0KCXZhciBwYWdlVHJhY2tlcj1fZ2F0Ll9nZXRUcmFja2VyKCJVQS01MTI4NjUtMSIpOw0KCXBhZ2VUcmFja2VyLl9zZXREb21haW5OYW1lKCJseW5kYS5jb20iKTsNCgkJcGFnZVRyYWNrZXIuX3NldEN1c3RvbVZhcigyLCJSZWRlc2lnblRlc3QiLCJDbGFzc2ljU2l0ZSIsMik7DQoJcGFnZVRyYWNrZXIuX3RyYWNrUGFnZXZpZXcoKTsNCg0KfWNhdGNoKGVycil7fQ0KLy9dXT4NCjwvc2NyaXB0Pg0KZAIKDxUFO2h0dHA6Ly9maWxlczIubHluZGEuY29tL2ZpbGVzL2xvbF91aS9DU1MvX2FsbC5jc3M/dj0yMDEwNjIzMGh0dHA6Ly9maWxlczIubHluZGEuY29tL2ZpbGVzL2xvbF91aS9DU1MvbXA1LmNzczlodHRwOi8vZmlsZXMyLmx5bmRhLmNvbS9maWxlcy9sb2xfdWkvQ1NTL3Rvb2x0aXBTdHlsZS5jc3MwaHR0cDovL2ZpbGVzMi5seW5kYS5jb20vZmlsZXMvbG9sX3VpL2Zhdmljb24uaWNvMGh0dHA6Ly9maWxlczIubHluZGEuY29tL2ZpbGVzL2xvbF91aS9mYXZpY29uLmljb2QCCw8WAh8ABdwDPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPnZhciBicmlnaHRIb3N0ID0gKCgiaHR0cHM6IiA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCkgPyAiaHR0cHM6Ly9hbmFseXRpY3MuYnJpZ2h0ZWRnZS5jb20iIDogImh0dHA6Ly9lZGdlLmFuYWx5dGljcy5icmlnaHRlZGdlLmNvbSIpOyBkb2N1bWVudC53cml0ZSh1bmVzY2FwZSgiJTNDc2NyaXB0IHNyYz0nIiArIGJyaWdodEhvc3QgKyAiL2JyaWdodGVkZ2VfYW5hbHl0aWNzLmpzJyB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnJTNFJTNDL3NjcmlwdCUzRSIpKTsgPC9zY3JpcHQ+IDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4gdHJ5IHsgdmFyIHRyYWNrID0gX2JyaWdodC5faW5pdGlhbGl6ZSgiYjhiMzM5ZWZmN2I0OWU4Iik7IHRyYWNrLl9zZXREb21haW4oIi5seW5kYS5jb20iKTt0cmFjay5fdHJhY2tCcmlnaHQoKTsgfSBjYXRjaChlcnIpIHt9IDwvc2NyaXB0PiBkAgwPFQQVaHR0cDovL3d3dy5seW5kYS5jb20vOmh0dHA6Ly9maWxlczIubHluZGEuY29tL2ZpbGVzL2xvbF91aS9DU1MvZm9vdGVyLWxlZ2FjeS5jc3M+aHR0cDovL2ZpbGVzMi5seW5kYS5jb20vZmlsZXMvbG9sX3VpL0NTUy9mb290ZXItbGVnYWN5X2llNi5jc3M+aHR0cDovL2ZpbGVzMi5seW5kYS5jb20vZmlsZXMvbG9sX3VpL0NTUy9mb290ZXItbGVnYWN5X2llNy5jc3NkAgEPZBYEAgMPZBYCAgEPZBYEAgEPZBYCAgEPZBYEAgEPZBYCAgEPZBYCAgIPZBYCZg9kFgQCAw8PZBYCHgdvbmNsaWNrBVlqYXZhc2NyaXB0OnNob3d3aW5kb3dfY2VudGVyZWQoJy4uL2hvbWUvcG9wcy9TdGF5TG9nZ2VkSW4uYXNweCcsIDcwMCwgNDAwKTsgcmV0dXJuIGZhbHNlO2QCBQ8PZBYCHwEFE2Rpc2FibGVBbGxJbnB1dHMoKTtkAgMPFgIeB1Zpc2libGVoZAIDD2QWBGYPZBYCZg8WBB4Hb25mb2N1cwVjc2V0VGltZW91dCgnY3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfQWpheEF1dG9Db21wbGV0ZS5mb2N1c0luKCknLDUwMCk7HgZvbmJsdXIFUmN0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX0FqYXhBdXRvQ29tcGxldGUuZm9jdXNPdXQoKTtkAgIPZBYEAgEPZBYCAgIPFgIeCWlubmVyaHRtbAWhDzxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBsYW5ndWFnZT0iamF2YXNjcmlwdCI+Ly88IVtDREFUQVsKDWN0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX3VjQWpheEdyaWRfQWpheEdyaWQ9bmV3IEFqYXhHcmlkKCk7Y3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfdWNBamF4R3JpZF9BamF4R3JpZC53ZWJTZXJ2aWNlUG9wdWxhdGU9J0x5bmRhLldlYi5QJztjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV91Y0FqYXhHcmlkX0FqYXhHcmlkLndlYk1ldGhvZFBvcHVsYXRlPSdNMSc7Y3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfdWNBamF4R3JpZF9BamF4R3JpZC53ZWJNZXRob2RDb3VudD0nTUMxJztjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV91Y0FqYXhHcmlkX0FqYXhHcmlkLndlYk1ldGhvZFBvcHVsYXRlRmlsdGVyPScnO2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX3VjQWpheEdyaWRfQWpheEdyaWQudGFibGVDb2x1bW5GaWVsZHM9J2NvdXJzZSc7Y3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfdWNBamF4R3JpZF9BamF4R3JpZC50YWJsZUNvbHVtblRpdGxlcz0nJztjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV91Y0FqYXhHcmlkX0FqYXhHcmlkLnRhYmxlQ29sdW1uV2lkdGhzPSczNTdweCc7Y3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfdWNBamF4R3JpZF9BamF4R3JpZC5jb250cm9sSWQ9J2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX3VjQWpheEdyaWQnO2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX3VjQWpheEdyaWRfQWpheEdyaWQuY3NzQ2xhc3NSb3c9Jyc7Y3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfdWNBamF4R3JpZF9BamF4R3JpZC5jc3NDbGFzc1Jvd0FsdGVybmF0ZT0nJztjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV91Y0FqYXhHcmlkX0FqYXhHcmlkLmNzc0NsYXNzUm93SGVhZGVyPScnO2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX3VjQWpheEdyaWRfQWpheEdyaWQuY3NzQ2xhc3NUYWJsZT0nc2VhcmNoVGFibGUnO2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX3VjQWpheEdyaWRfQWpheEdyaWQuY3NzQ2xhc3NCb2R5PScnO2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX3VjQWpheEdyaWRfQWpheEdyaWQuY3NzQ2xhc3NDb2x1bW5zPScnO2RlY29yYXRlQWpheEdyaWRXaXRoQ2VsbEJ1aWxkZXIoKTtjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV91Y0FqYXhHcmlkX0FqYXhHcmlkLmhpZGVSZWNvcmRDb3VudD10cnVlO2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX3VjQWpheEdyaWRfQWpheEdyaWQuaGlkZUhlYWRlcj10cnVlO2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX3VjQWpheEdyaWRfQWpheEdyaWQudVNJZD0nMCxcJzB3ZWlweDU1Y25seG5wNTVkc3A1cGg1NVwnLFwnMDgxMDAxOTc0ZGYyMzQxYzVhMTYxMDkzN2M5OWJkM2VcJyc7Ly9dXT4KDTwvc2NyaXB0PmQCAw8WAh8FBcELPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJqYXZhc2NyaXB0Ij4vLzwhW0NEQVRBWwoNY3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfQWpheEF1dG9Db21wbGV0ZT1uZXcgQWpheEF1dG9Db21wbGV0ZSgpO2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX0FqYXhBdXRvQ29tcGxldGUuZWxlbWVudHNEaXNwbGF5ZWQ9MTA7Y3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfQWpheEF1dG9Db21wbGV0ZS5vYmpUeHQ9Z2ViaWQoJ2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdHh0U2VhcmNoJyk7Y3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfQWpheEF1dG9Db21wbGV0ZS50eHRMZW5ndGg9MztjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV9BamF4QXV0b0NvbXBsZXRlLnRpbWVvdXQ9NTAwO2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX0FqYXhBdXRvQ29tcGxldGUuZGlzcGxheVRpbWVvdXQ9MjAwMDtjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV9BamF4QXV0b0NvbXBsZXRlLm9iamVjdElkPSdjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV9BamF4QXV0b0NvbXBsZXRlJztjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV9BamF4QXV0b0NvbXBsZXRlLmRpdklkPSdjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV91Y0FqYXhHcmlkX3RhYmxlUGxhY2VIb2xkZXInO2N0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX0FqYXhBdXRvQ29tcGxldGUub2JqZWN0VGFibGVJZD0nY3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfdWNBamF4R3JpZF9BamF4R3JpZCc7Y3RsMDBfVWNIZWFkZXJfVWNIZWFkZXJHb29nbGVNaW5pMV91Y0FqYXhBdXRvQ29tcGxldGVfQWpheEF1dG9Db21wbGV0ZS5vYmplY3RUYWJsZVdpZHRoPTM1NztjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV9BamF4QXV0b0NvbXBsZXRlLnNldERpdlBvc2l0aW9uKDIsMCwyNSw0KTtjdGwwMF9VY0hlYWRlcl9VY0hlYWRlckdvb2dsZU1pbmkxX3VjQWpheEF1dG9Db21wbGV0ZV9BamF4QXV0b0NvbXBsZXRlLmFqYXhHcmlkPWN0bDAwX1VjSGVhZGVyX1VjSGVhZGVyR29vZ2xlTWluaTFfdWNBamF4QXV0b0NvbXBsZXRlX3VjQWpheEdyaWRfQWpheEdyaWQvL11dPgoNPC9zY3JpcHQ+ZAIHD2QWBAIDDw8WAh4LTmF2aWdhdGVVcmwFMWh0dHA6Ly93d3cubHluZGEuY29tL3N1cHBvcnQvY29udGFjdC5hc3B4P2xwazM0PTNkZAIFDw8WAh8GBTFodHRwOi8vd3d3Lmx5bmRhLmNvbS9zdXBwb3J0L2NvbnRhY3QuYXNweD9scGszND0zZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFLGN0bDAwJFVjSGVhZGVyJFVjSGVhZGVyTG9naW4kY2hrU3RheUxvZ2dlZEluBSVjdGwwMCRVY0hlYWRlciRVY0hlYWRlckxvZ2luJGJ0bkxvZ2luBSljdGwwMCRVY0hlYWRlciRVY0hlYWRlckxvZ2luJGJ0blN1YnNjcmliZQUzY3RsMDAkVWNIZWFkZXIkVWNIZWFkZXJHb29nbGVNaW5pMSRzZWFyY2hHb29nbGVtaW5p">
-
-
-<script src="http://files2.lynda.com/files/lol_ui/js/jQuery/jquery.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/common.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/jQuery/jquery-ui-1.8.1.custom.min.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/ui/scripts/ready.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/CrossBrowserFunctions.js" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/jQuery/jquery.lynda.tooltip.js" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/browser_detect.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/navigation.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/prototype.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/SafariSearchInput.js?v=122420101" type="text/javascript"></script><script type="text/javascript" language="javascript">//<![CDATA[
-
-var txtSearch = 'ctl00_UcHeader_UcHeaderGoogleMini1_txtSearch';//]]>
-
-</script>
-<script src="http://files2.lynda.com/files/lol_ui/js/AjaxAutoComplete/AjaxAutoComplete.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/AjaxGrid/AjaxGridElements.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/AjaxGrid/AjaxGrid.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/AjaxGrid/AjaxGridBuilder.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/CrossBrowserFunctions.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/LeftNav/LeftNav.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/CrossBrowserFunctions.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/Cookies.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/plugin.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/Cookies.js?v=122420101" type="text/javascript"></script>
-<script src="http://files2.lynda.com/files/lol_ui/js/PluginDetect.js?v=122420101" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=Hc-UWfw_BUVzhtymY71PZ-2fJdhHrL-DppPPVsY1eVWuGyI66Ldr-vOWHZBiurm-yDi73bPlRNm4-UiTaGNQ2f1TeMzQi_RTYZdLaa3O6RlxcmrQZ6QlvEIVoVpVbeGaOjySKtN2aCsA73lxhXB_5pAbbB01&amp;t=fffffffffb2802e5" type="text/javascript"></script>
-<script src="../WebServices/MMUSReports/MR.asmx/js" type="text/javascript"></script>
-<script src="../WebServices/Public/P.asmx/js" type="text/javascript"></script>
-        
-        <div id="divWrapper" class="wrapper">
-            <div id="ctl00_sectionHeader" class="header">
-                
-
-<div class="abbnr" style="display:none">
-	<div class="abtoggle">
-		<p>Preview the new lynda.com!</p> <a class="switchnew" onclick="abExistingUserExpSwithInstance();"></a>
-	</div>
-</div>
-
-<div class="topHeader">
-    <div id="top"></div>
-    <div class="headerLeft">
-        <div class="headerLeftTop"></div>
-        <div class="headerLeftMid"></div>
-        <div class="headerLeftBottom"></div>
-        </div>
-    <div class="headerSpacer">
-        <div class="headerSpacerTop"></div>
-        <div class="headerSpacerMid">
-			<a href="/" title="lynda.com"><img src="http://files2.lynda.com/files/lol_ui/images/logo.gif" alt="lynda.com"></a>
-        </div>
-        <div class="headerSpacerBottom"></div>
-    </div>
-    <div class="subHeader">
-        <a href="http://www.lynda.com/home/registration/RegistrationStep1.aspx?bnr=ban_subscribe-yellow"><img src="/home/ImageGateway.aspx?ImageId=51"></a>
-        <div class="menu" id="tdNavigation">
-            <div id="divMenuNavigation">
-                <a href="/products/"><span id="Products" onmouseover="sdi_Navigation('Products');" onmouseout="sdi_subHide();">products</span></a>
-                |
-                <a href="/resources/"><span id="Resources" onmouseover="sdi_Navigation('Resources');" onmouseout="sdi_subHide();">resources</span></a>
-                |
-                <a href="/aboutus/"><span id="AboutUs" onmouseover="sdi_Navigation('AboutUs');" onmouseout="sdi_subHide();">about us </span></a>
-                |
-                <a href="/news/"><span id="News" onmouseover="sdi_Navigation('News');" onmouseout="sdi_subHide();">news</span></a>
-                |
-                <a href="/support/"><span id="Support" onmouseover="sdi_Navigation('Support');" onmouseout="sdi_subHide();">support</span></a>
-            </div>
-        </div>
-    </div>
-    <div id="ctl00_UcHeader_sectionLogin" class="headerLogin">
-        
-
-<script type="text/javascript" language="javascript">
-//<![CDATA[
-        function disableAllInputs(){
-            var inputs=document.getElementsByTagName('INPUT');
-            for(var idx=0;idx<inputs.length;idx++){
-               if((inputs[idx].type=='text'||inputs[idx].type=='search')&&inputs[idx].id.indexOf('txtUsername')<0){
-                     inputs[idx].parentNode.removeChild(inputs[idx]);
-                }
-            }
-        }
-//]]>
-</script>
-
-<div id="ctl00_UcHeader_UcHeaderLogin_Panel1">
-	
-    <table id="ctl00_UcHeader_UcHeaderLogin_tableNotLogged" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td>
-                user name:</td>
-			<td style="text-align: left">
-                <input name="ctl00$UcHeader$UcHeaderLogin$txtUsername" type="text" id="ctl00_UcHeader_UcHeaderLogin_txtUsername" tabindex="1" autocomplete="on">
-            </td>
-		</tr>
-		<tr>
-			<td>
-                password:<br>
-                <a id="ctl00_UcHeader_UcHeaderLogin_hlNeedHelp" class="needHelpText" href="../login/LoginHelp.aspx">need&nbsp;help?</a></td>
-			<td style="text-align: left">
-                <input name="ctl00$UcHeader$UcHeaderLogin$txtPassword" type="password" id="ctl00_UcHeader_UcHeaderLogin_txtPassword" tabindex="2">
-            </td>
-		</tr>
-		<tr>
-			<td colspan="2">
-                <div class="lostPass">
-                    <span class="stayLoggedIn"><input id="ctl00_UcHeader_UcHeaderLogin_chkStayLoggedIn" type="checkbox" name="ctl00$UcHeader$UcHeaderLogin$chkStayLoggedIn" tabindex="3"></span>
-                    <a id="ctl00_UcHeader_UcHeaderLogin_hlStayLoggedIn" onclick="javascript:showwindow_centered('../home/pops/StayLoggedIn.aspx', 700, 400); return false;" href="../home/pops/StayLoggedIn.aspx">stay logged in</a>
-                    <input type="image" name="ctl00$UcHeader$UcHeaderLogin$btnLogin" id="ctl00_UcHeader_UcHeaderLogin_btnLogin" tabindex="4" class="loginButton" loginbutton="true" src="../images/buttons/btn_login_78x21.gif" alt="Login" onclick="disableAllInputs();" border="0" style="margin-top: 0px;">
-                </div>
-            </td>
-		</tr>
-		<tr>
-			<td colspan="2">
-                <div class="loginSubscribe">
-                    <a id="ctl00_UcHeader_UcHeaderLogin_hlReactivateAccount" title="reactivate account" href="../home/registration/RenewalStep1.aspx">reactivate account</a>
-                    <input type="image" name="ctl00$UcHeader$UcHeaderLogin$btnSubscribe" id="ctl00_UcHeader_UcHeaderLogin_btnSubscribe" src="../images/buttons/btn_subscribe_78x21.gif" alt="Subscribe" border="0" style="margin-top: 0px;">
-                </div>
-            </td>
-		</tr>
-	</tbody></table>
-	
-
-</div>
-
-<input type="hidden" name="ctl00$UcHeader$UcHeaderLogin$hflConfirm" id="ctl00_UcHeader_UcHeaderLogin_hflConfirm">
-<div id="ctl00_UcHeader_UcHeaderLogin_divScript">
-</div>
-
-    </div>
-</div>
-<div class="subMenu">
-    <div class="subMenuSpacer">
-    </div>
-    <div id="tdSubNavigation">
-        <div id="subProducts" onmouseover="sdi_subShowContinued();" onmouseout="sdi_subHide();">
-            <a href="/home/otl.aspx">Online Training Library®</a>
-            |
-            <a href="/home/multiUserSolutions.aspx">Corporate</a>
-            |
-            <a href="/home/educatorsResources.aspx">Academic</a>
-            |
-            <a href="/lynda_iphone.aspx">iPhone App</a>
-            |
-            <a href="/giftsubscription/index.aspx">Gift Subscriptions</a>
-            |
-            <a href="http://store.lynda.com/">Store</a>
-        </div>
-        <div id="subResources" onmouseover="sdi_subShowContinued();" onmouseout="sdi_subHide();">
-            <a href="/partners/affiliates.aspx">Affiliate Program</a>
-            |
-            <a href="/solutions/resellers.aspx">Reseller</a>
-            |
-            <a href="/resources/wallpaper/wallpaper.aspx">Downloads</a>
-            |
-            <a href="/resources/webpalette.aspx">Web Palette</a>
-        </div>
-        <div id="subAboutUs" onmouseover="sdi_subShowContinued();" onmouseout="sdi_subHide();">
-            <a href="/aboutus/mission.aspx">About</a>
-            |
-            <a href="/aboutus/callfortrainers.aspx">Call for Trainers</a>
-            |
-            <a href="/aboutus/careers.aspx">Careers</a>
-            |
-            <a href="/aboutus/casestudies.aspx">Case Studies</a>
-            |
-            <a href="/aboutus/testimonials.aspx">Testimonials</a>
-            |
-            <a href="/aboutus/lotPrivacy.aspx">Privacy</a>
-        </div>
-        <div id="subNews" onmouseover="sdi_subShowContinued();" onmouseout="sdi_subHide();">
-            <a href="/news/mediakit.aspx">Media Kit</a>
-            |
-            <a href="/news/newsletter.aspx">Newsletter</a>
-            |
-            <a href="/news/events.aspx">Events</a>
-            |
-            <a href="/news/newsreleases.aspx">Press Releases</a>
-            |
-            <a href="/home/podcast.aspx">Podcast</a>
-            |
-            <a href="http://blog.lynda.com/">Blog</a>
-            |
-            <a href="/news/NewFeatures.aspx">New Site Features</a>
-        </div>
-        <div id="subSupport" onmouseover="sdi_subShowContinued();" onmouseout="sdi_subHide();">
-            <a href="/support/faq.aspx">FAQ</a>
-            |
-            <a href="/support/contact.aspx">Contact</a>
-            |
-            <a href="/support/SystemRequirements.aspx">System Requirements</a>
-        </div>
-    </div>
-</div>
-<div class="lyndaSearch">
-    <div class="lyndaSearchProd">
-        <div class="divSelectAll">
-            
-<script type="text/javascript">
-	var urls = { subject:"/home/ViewCourses.aspx?lpk0={0}", software:"/home/ViewCourses.aspx?lpk0={0}", vendor:"/home/ViewCourses.aspx?lpk0={0}", author:"/home/ViewCourses.aspx?lpk1={0}" };
-	function go(s,e)
-	{
-        var id = e.options[e.selectedIndex].value;
-        if (id == "-1") return;
-        window.location.href = String.format(s, id);
-    }
-</script>
-<div class="divLearnby"><strong>Learn by:</strong></div>
-
-        <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'hfSubject')" id="panel1" style="float:left">
-        	
-        <input type="hidden" id="hfSubject" onclick="go(urls.subject,this.firstChild, true)">
-        <select id="ddlSubject" class="selectSubject" onchange="go(urls.subject,this)"><option value="-1">Subject...</option><option value="111">3D</option><option value="420">Accessibility</option><option value="81">ActionScript</option><option value="258">AJAX</option><option value="164">Animation</option><option value="353">Artist Series</option><option value="124">ASP</option><option value="140">Audio</option><option value="134">Blogging</option><option value="142">Business Applications</option><option value="359">CAD</option><option value="194">Camera Raw</option><option value="165">ColdFusion</option><option value="42">Color</option><option value="851">Compression</option><option value="399">Content Management Systems</option><option value="320">Creative Inspirations</option><option value="29">CSS</option><option value="120">Databases</option><option value="73">Design Principles</option><option value="152">Digital Imaging</option><option value="91">Digital Photography</option><option value="115">Digital Video</option><option value="821">Documentaries</option><option value="126">DVD Authoring</option><option value="216">e-commerce</option><option value="444">Email</option><option value="326">Flashforward</option><option value="376">Game Development</option><option value="22">HTML</option><option value="123">Illustration</option><option value="217">Information Architecture</option><option value="162">Interactive Design</option><option value="20">JavaScript</option><option value="350">lynda.com Presents</option><option value="859">Mobile</option><option value="157">Motion Graphics</option><option value="150">Networking &amp; Security</option><option value="894">Online Marketing</option><option value="161">Operating Systems</option><option value="30">Perl</option><option value="99">PHP</option><option value="196">Podcasting</option><option value="163">Prepress</option><option value="148">Presentations</option><option value="155">Print Design</option><option value="450">Programming</option><option value="451">Ruby</option><option value="229">Ruby on Rails</option><option value="85">Search Engines</option><option value="206">SEO</option><option value="893">Site Optimization</option><option value="849">Social Networking</option><option value="259">SQL</option><option value="379">Start to Finish</option><option value="12">Typography</option><option value="220">Usability Testing</option><option value="269">Video</option><option value="892">Web Analytics</option><option value="116">Web Design</option><option value="118">Web Development</option><option value="159">Web Graphics</option><option value="86">XHTML</option><option value="203">XML</option></select> </div> 
 		
-		<div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'hfProduct')" id="panel2" style="float:left">
-	
-        <input type="hidden" id="hfProduct" onclick="go(urls.software,this.firstChild)">
-		<select id="ddlProducts" class="selectProducts" onchange="go(urls.software,this)"><option value="-1">Software...</option><option value="127">3ds Max</option><option value="905">Ableton Live</option><option value="121">Access</option><option value="864">Access 2003</option><option value="865">Access 2007</option><option value="846">Access 2010</option><option value="13">Acrobat</option><option value="247">Acrobat 3D</option><option value="374">Acrobat 9</option><option value="225">Acrobat Connect</option><option value="903">Acrobat X</option><option value="790">ACT!</option><option value="362">Adobe CS4</option><option value="803">Adobe CS5</option><option value="331">After Effects (All Versions)</option><option value="335">After Effects 5</option><option value="334">After Effects 6</option><option value="333">After Effects 7</option><option value="332">After Effects CS3</option><option value="395">After Effects CS4</option><option value="804">After Effects CS5</option><option value="351">AIR</option><option value="88">Amorphium Pro</option><option value="200">Aperture</option><option value="430">ASP.NET</option><option value="207">Audition</option><option value="361">AutoCAD</option><option value="249">Avid Xpress Pro</option><option value="375">Bento</option><option value="438">Blender</option><option value="58">Blogger</option><option value="231">Bridge</option><option value="813">Bridge CS5</option><option value="907">Business Catalyst</option><option value="252">Captivate</option><option value="182">Carrara</option><option value="201">CINEMA 4D</option><option value="63">ColdFusion</option><option value="274">ColdFusion 8</option><option value="288">Color</option><option value="188">Compressor</option><option value="173">Contribute</option><option value="272">Contribute CS3</option><option value="403">Contribute CS4</option><option value="32">CorelDRAW</option><option value="402">Device Central CS4</option><option value="15">Director</option><option value="2">Dreamweaver (All Versions)</option><option value="270">Dreamweaver CS3</option><option value="364">Dreamweaver CS4</option><option value="805">Dreamweaver CS5</option><option value="413">Drupal</option><option value="95">DVD Studio Pro</option><option value="213">eBay</option><option value="787">Elements</option><option value="828">Encore (All Versions)</option><option value="397">Encore CS4</option><option value="806">Encore CS5</option><option value="153">Encore DVD</option><option value="290">Entourage</option><option value="144">Excel</option><option value="861">Excel 2003</option><option value="860">Excel 2007</option><option value="843">Excel 2010</option><option value="235">Expression Blend</option><option value="273">Expression Design</option><option value="221">Expression Web</option><option value="775">Facebook</option><option value="45">FileMaker Pro</option><option value="250">Final Cut Express</option><option value="345">Final Cut Pro (All Versions)</option><option value="348">Final Cut Pro 4</option><option value="347">Final Cut Pro 5</option><option value="346">Final Cut Pro 6</option><option value="442">Final Cut Pro 7</option><option value="900">Final Cut Server</option><option value="282">Final Cut Studio</option><option value="6">Fireworks (All Versions)</option><option value="271">Fireworks CS3</option><option value="363">Fireworks CS4</option><option value="807">Fireworks CS5</option><option value="433">Flash (All Versions)</option><option value="191">Flash 5</option><option value="1">Flash 8</option><option value="822">Flash Builder</option><option value="432">Flash Catalyst</option><option value="814">Flash Catalyst CS5</option><option value="267">Flash CS3</option><option value="392">Flash CS4</option><option value="808">Flash CS5</option><option value="253">Flash Lite</option><option value="190">Flash MX</option><option value="189">Flash MX 2004</option><option value="447">Flash Player</option><option value="205">Flex</option><option value="440">Flickr</option><option value="426">Flow</option><option value="24">FreeHand</option><option value="61">FrontPage</option><option value="78">GarageBand</option><option value="832">Gmail</option><option value="19">GoLive</option><option value="890">Google Analytics</option><option value="435">Google Apps</option><option value="833">Google Calendar</option><option value="380">Google Docs</option><option value="409">Google Sketchup</option><option value="415">Groove</option><option value="211">iDVD</option><option value="33">iLife</option><option value="434">Illustrator (All Versions)</option><option value="339">Illustrator 10</option><option value="340">Illustrator 9</option><option value="338">Illustrator CS</option><option value="337">Illustrator CS2</option><option value="336">Illustrator CS3</option><option value="393">Illustrator CS4</option><option value="809">Illustrator CS5</option><option value="210">iMovie</option><option value="177">InCopy</option><option value="408">InCopy CS4</option><option value="777">InDesign (All Versions)</option><option value="344">InDesign 2</option><option value="343">InDesign CS</option><option value="342">InDesign CS2</option><option value="341">InDesign CS3</option><option value="394">InDesign CS4</option><option value="810">InDesign CS5</option><option value="411">InfoPath 2007</option><option value="215">Interactive Designer</option><option value="83">Internet Explorer</option><option value="873">iOS SDK</option><option value="874">iPad</option><option value="776">iPhone</option><option value="128">iPhoto</option><option value="131">iTunes</option><option value="233">iView Media Pro</option><option value="199">iWeb</option><option value="281">iWork</option><option value="370">Joomla!</option><option value="446">jQuery</option><option value="56">Keynote</option><option value="416">Kuler</option><option value="204">LiveType</option><option value="240">Logic</option><option value="17">Mac OS</option><option value="197">Mac OS Server</option><option value="223">Mask Pro</option><option value="112">Maya</option><option value="854">Media Composer</option><option value="792">MobileMe</option><option value="431">Moodle</option><option value="97">Motion</option><option value="428">MySQL</option><option value="819">Nuke</option><option value="349">Numbers</option><option value="791">Office (All Versions)</option><option value="41">Office 2003</option><option value="230">Office 2007</option><option value="793">Office 2010</option><option value="289">Office for Mac 2008</option><option value="898">Office for Mac 2011</option><option value="852">OmniFocus</option><option value="795">OmniGraffle</option><option value="407">OneNote</option><option value="847">OneNote 2010</option><option value="398">OpenOffice.org</option><option value="145">Outlook</option><option value="868">Outlook 2003</option><option value="869">Outlook 2007</option><option value="845">Outlook 2010</option><option value="176">Pages</option><option value="55">Paint Shop Pro</option><option value="31">Painter</option><option value="871">Papervision3D</option><option value="829">Perl</option><option value="192">Photoshop (All Versions)</option><option value="186">Photoshop 6</option><option value="185">Photoshop 7</option><option value="184">Photoshop CS</option><option value="183">Photoshop CS2</option><option value="228">Photoshop CS3</option><option value="391">Photoshop CS4</option><option value="811">Photoshop CS5</option><option value="77">Photoshop Elements</option><option value="371">Photoshop Express</option><option value="234">Photoshop Lightroom</option><option value="175">Picasa</option><option value="227">Poser</option><option value="146">PowerPoint</option><option value="867">PowerPoint 2003</option><option value="866">PowerPoint 2007</option><option value="844">PowerPoint 2010</option><option value="356">Premiere Elements</option><option value="60">Premiere Pro (All Versions)</option><option value="396">Premiere Pro CS4</option><option value="812">Premiere Pro CS5</option><option value="242">Pro Tools</option><option value="276">Project</option><option value="876">Prototype</option><option value="98">Publisher</option><option value="882">Python</option><option value="16">QuarkXPress</option><option value="318">QuickBooks</option><option value="401">Quicken</option><option value="7">QuickTime</option><option value="357">Reason</option><option value="788">Record</option><option value="880">Revit Architecture</option><option value="826">Rhino</option><option value="835">Ruby on Rails</option><option value="877">script.aculo.us</option><option value="248">Shake</option><option value="279">SharePoint</option><option value="848">SharePoint 2010</option><option value="277">Silverlight</option><option value="856">Sketchbook Pro</option><option value="243">Soundbooth CS3</option><option value="365">Soundbooth CS4</option><option value="815">Soundbooth CS5</option><option value="187">Soundtrack Pro</option><option value="909">SQL Server</option><option value="895">SQLite</option><option value="82">Studio</option><option value="421">Twitter</option><option value="366">Ultra CS3</option><option value="96">UltraDev</option><option value="209">Vegas</option><option value="51">Visio</option><option value="858">Visual Studio</option><option value="239">Vue</option><option value="381">Vuvox</option><option value="888">Website Optimizer</option><option value="436">Windows 7</option><option value="62">Windows Live Movie Maker</option><option value="275">Windows Vista</option><option value="28">Windows XP</option><option value="143">Word</option><option value="863">Word 2003</option><option value="862">Word 2007</option><option value="842">Word 2010</option><option value="47">WordPerfect</option><option value="841">WordPress</option><option value="406">ZBrush 3</option></select> </div> 
+	</head>
+	<body ontouchend="scrollSiteFeedback();">
 		
-		<div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'hfVendor')" id="panel3" style="float:left">
-	
-        <input type="hidden" id="hfVendor" onclick="javascript:go(urls.vendor, this.firstChild)">
-        <select id="ddlVendor" class="selectVendor" onchange="go(urls.vendor, this)"><option value="-1">Vendor...</option><option value="904">Ableton</option><option value="74">Adobe</option><option value="67">Apple</option><option value="102">Autodesk</option><option value="840">Automattic</option><option value="241">Avid</option><option value="68">Corel</option><option value="212">eBay</option><option value="226">eFrontier</option><option value="106">EI Technology Group</option><option value="237">e-on Software</option><option value="181">Eovia</option><option value="104">FileMaker</option><option value="105">Google</option><option value="425">GridIron</option><option value="317">Intuit</option><option value="232">iView Multimedia</option><option value="69">Macromedia</option><option value="202">Maxon</option><option value="825">McNeel</option><option value="70">Microsoft</option><option value="794">Omni Group</option><option value="222">OnOne Software</option><option value="384">Open Source</option><option value="405">Pixologic</option><option value="358">Propellerhead</option><option value="71">Quark</option><option value="789">Sage</option><option value="34">Software Showcase</option><option value="208">Sony</option><option value="817">The Foundry</option><option value="439">Yahoo!</option></select></div> 
+		<div id="section-sitefeedback"><a id="feedback-modal" href="http://www.lynda.com/user/feedback/modal">site feedback</a></div>
 		
-		<div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'hfAuthor')" id="panel4" style="float:left">
-	
-        <input type="hidden" id="hfAuthor" onclick="javascript:go(urls.author, this.firstChild)">
-		<select id="ddlAuthor" class="selectAuthor" onchange="go(urls.author, this)"><option value="-1">Author...</option><option value="68">Abdelnour, Mark</option><option value="796332">AIGA, </option><option value="21">Allardice, Simon</option><option value="442123">Allen, Damian</option><option value="573798">Animation, Renegade</option><option value="729637">Aubin, Paul F.</option><option value="188">Babbage, Jim</option><option value="9">Barnett, Don</option><option value="167">Bartels, Jeff</option><option value="80">Bauer, Peter</option><option value="211">Bentley, Jason</option><option value="14">Berkovitz, Joel</option><option value="650854">Biafore, Bonnie</option><option value="108">Blatner, David</option><option value="19">Blumenthal, Sean</option><option value="208">Bolante, Anthony</option><option value="701999">Booth, David</option><option value="76">Bourne, Scott</option><option value="616930">Brazzi, Nick</option><option value="116">Breen, Christopher</option><option value="62">Brimelow, Lee</option><option value="525963">Brooks, Christopher </option><option value="214">Burruss, Laurie</option><option value="5">Byerley, Chris</option><option value="143">Carman, Robbie</option><option value="6">Casady, Chris</option><option value="10">Casey, Donna</option><option value="518810">Charlton, Chris</option><option value="206">Chase, Margo</option><option value="540095">Childs, G. W.</option><option value="13">Chow, Garrick</option><option value="663622">Christiansen, Mark</option><option value="73">Clarke, Andy</option><option value="469375">Cline, Susan</option><option value="54">Colins, Sean</option><option value="107">Concepcion, Anne-Marie</option><option value="113">Conrad, Sean</option><option value="654116">Courter, Gini</option><option value="725506">Coyier, Chris</option><option value="207">Crabb, Ron</option><option value="92">Cramer, Lawrence</option><option value="40">Crispen, Patrick</option><option value="809048">Crowder, Kenneth</option><option value="184">Curtis, Hillman</option><option value="88">Daly, Lorna</option><option value="44">Dawes, Brendan</option><option value="78">Derry, John</option><option value="212">Design Group, Troika</option><option value="7">Deutsch, Christopher</option><option value="769458">Diskin, David </option><option value="501653">Duarte, Nancy</option><option value="644891">Equihua, Sandra</option><option value="816736">Falkman, Drew</option><option value="60">Fleming, Colin</option><option value="709760">Flisser, Bob </option><option value="154">Florio, Chris</option><option value="769463">Fobes, Natalie</option><option value="72">Foster, Jeff</option><option value="644895">Frank, Ze</option><option value="219">Franz, David </option><option value="611291">Fredricks, Karen</option><option value="57">French, Nigel</option><option value="243752">Fritz, James</option><option value="519166">Frye, Curt</option><option value="663637">Garrott, Rob</option><option value="87">Gassner, David</option><option value="197">Geller, Tom</option><option value="142">Georgenes, Chris</option><option value="130">Gillenwater, Zoe</option><option value="216">Giudice, Maria</option><option value="117">Godfrey, Joe</option><option value="39">Golding, Mordy</option><option value="96">Goto, Kelly</option><option value="46">Gotz, Steven</option><option value="12">Green, Garo</option><option value="110">Green, Tom</option><option value="594766">Greenberg, Jeff I.</option><option value="644795">Gutierrez, Jorge</option><option value="120">Harrington, Rich</option><option value="135">Harsh, Mike</option><option value="1">Heavin, Bruce</option><option value="93">Heinz, Phil</option><option value="218">Herigstad , Dale</option><option value="693860">Hinrichs, Kit</option><option value="633951">Hirsch, Scott</option><option value="181">Hoekman, Jr., Robert </option><option value="4">Hollins, Charles</option><option value="753742">Holyhead, Steve </option><option value="42">Holzschlag, Molly</option><option value="56">Howard, Dane</option><option value="84">Ippolite, Cris</option><option value="71">Jenkins, Richard</option><option value="49">Jordan, Larry</option><option value="52">Kabili, Jan</option><option value="199">Keller, Eric </option><option value="759501">Kennedy, Ashley</option><option value="17">Kilisky, Steven</option><option value="192">Kirkland, Douglas</option><option value="811297">Kittleson, Ryan</option><option value="693854">Koberg, Corey</option><option value="857846">Koci Hernandez, Richard</option><option value="203">Kramer, Jen</option><option value="111">Krogh, Peter</option><option value="101">Kuran, Pete</option><option value="190">Langer, Maria</option><option value="159">Larson-Kelley, Lisa</option><option value="136">LeBlanc, Joseph</option><option value="729703">Lee, David</option><option value="160">Lee-Delisle, Seb</option><option value="146">Legno, Simone</option><option value="507114">Lippert, Rick Allen</option><option value="53">LoCascio, Ted</option><option value="552413">Lockman, James</option><option value="748177">Long, Ben</option><option value="30">Lott, Joey</option><option value="61">Lowery, Joseph</option><option value="31">Maestri, George</option><option value="539383">Maivald, Jim</option><option value="3">Maller, Joe</option><option value="85">Marini, Joe</option><option value="470896">Marks, Harry </option><option value="469350">Mattia, Chris</option><option value="98">McClelland, Deke</option><option value="36">Menanno, Vincenzo</option><option value="137">Meyer, Chris</option><option value="95">Meyer, Eric</option><option value="138">Meyer, Trish</option><option value="77">Mitchell, Larry</option><option value="27">Monroy, Bert</option><option value="193">Morris, Rick</option><option value="742335">Mothersbaugh, Mark</option><option value="102">Murphy, Chris</option><option value="488198">Murphy, Michael</option><option value="58">Negrino, Tom</option><option value="126">Nelle, Steve</option><option value="74">Nelson, Jay</option><option value="45">Ninness, Michael</option><option value="123">North, Chris</option><option value="822102">O Connor, Dermot</option><option value="170">Ortchanian, Paul</option><option value="43">Orwig, Chris</option><option value="616886">Osder, Jason</option><option value="22">Parker, Vince</option><option value="90">Perkins, Chad</option><option value="118">Perkins, Todd</option><option value="132">Phillips, Arthur</option><option value="186">Phillips, Audri</option><option value="103">Plumer, Jr., Tim</option><option value="748120">Pollock, Alicia Katz</option><option value="725535">Rand-Hendriksen    , Morten  </option><option value="205">Rankine, Dale </option><option value="20">Rebenschied, Shane</option><option value="8">Reeser, David</option><option value="663617">Ritscher, Walt</option><option value="33">Rivers, David</option><option value="131">Robertson, Suzanne</option><option value="187">Robinson, Ian</option><option value="200">Rohmer, Frank</option><option value="574661">Ross, Aaron F.</option><option value="32">Rudner, Abigail</option><option value="726653">Santa Barbara International Film Festival, </option><option value="69">Schell, Jeff</option><option value="842985">Schmunk, Rick</option><option value="112">Schroeder, Dave </option><option value="644786">Schultze, Dave</option><option value="198">Seaholm, Sven</option><option value="209">Sengstack, Jeff</option><option value="560950">Shapiro, Abba</option><option value="83">Sherer, Thomas</option><option value="34">Short, Dan</option><option value="115">Shupe, Rich</option><option value="753730">Siegert, Mariann</option><option value="104">Skoglund, Kevin</option><option value="141">Smith, Colin</option><option value="122">Smith, Dori</option><option value="832351">Smith, Janine</option><option value="97">Smith, Max</option><option value="483295">Smolan, Rick</option><option value="129">Snider, Lesa</option><option value="70">Sorenson, Daniel</option><option value="194">Spaceship, Big</option><option value="816766">Spencer, Christopher</option><option value="28">Staples, Tanya</option><option value="18">Sthay, Nancee</option><option value="86">Story, Derrick</option><option value="764742">Story, Second</option><option value="719842">Studios, New Deal</option><option value="29">Swift, Mark</option><option value="442118">Syverson, Craig</option><option value="816773">Talbot, James</option><option value="38">Tally, Taz</option><option value="574677">Taylor, Dennis</option><option value="79">Threinen-Pendarvis, Cher</option><option value="48">Tierney, Jim</option><option value="147">tokidoki, </option><option value="654257">Top, Peleg</option><option value="202">Trani, Paul</option><option value="148">Tucker, David</option><option value="15">Ulm, Josh</option><option value="37">Van West, Jeff</option><option value="195">Varis, Lee</option><option value="201">Watson, Lonzell</option><option value="23">Weinman, Bill</option><option value="11">Weinman, Lynda</option><option value="134">Wexler, Eric</option><option value="521379">Whalen, Jill</option><option value="488210">White, Brian</option><option value="66">Whitney, Jack</option><option value="215">Wickes, Roger</option><option value="759495">Wilbert, Adam</option><option value="89">Williams, Bruce</option><option value="128">Williamson, James</option><option value="105">Wong, Mike</option><option value="67">Wood, Brian</option><option value="2">Wood, Calvin</option><option value="127">Wright, Steve </option><option value="125">Yank, Kevin</option><option value="633377">Yim, Jason</option><option value="799948">Young, Doyald</option></select></div> 
-
-<a href="/home/ViewCourses.aspx?lpk3=true">All Courses</a>
-        </div>
-    </div>
-    <div class="lyndaMiniSearch">
-        <div id="ctl00_UcHeader_UcHeaderGoogleMini1_Panel1">
-	
-    <div class="searchinputboxdiv">
-        <input name="ctl00$UcHeader$UcHeaderGoogleMini1$txtSearch" type="text" id="ctl00_UcHeader_UcHeaderGoogleMini1_txtSearch" class="search" autocomplete="off" onfocus="setTimeout('ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.focusIn()',500);" onblur="ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.focusOut();">
-    </div>
-    <script type="text/javascript">
-		function websearch()
-		{
-			utilities.redirect('http://www.lynda.com/home/websearch.aspx?q='+escape(jQuery('#txtSearch').val()));
-		}
-    </script>
-    <input type="image" name="ctl00$UcHeader$UcHeaderGoogleMini1$searchGooglemini" id="ctl00_UcHeader_UcHeaderGoogleMini1_searchGooglemini" class="searchinputimage" src="../images/buttons/search.gif" alt="Search for..." onclick="websearch();" border="0">
-
-</div>
-    
-<style type="text/css">
-    div.searchTable
-    {   
-         border:solid 1px #959385;
-         padding: 0px;  
-         margin: 0px;
-         display: none;
-    }  
-    div.searchTable table 
-    {  
-         background-color: #FFFFFF;  
-         padding: 0px;
-         margin: 0px;  
-         width:100%; 
-    } 
-    div.searchTable table td 
-    { 
-        border:0px;
-        border-top: 1px solid #FFFFFF;
-        padding:5px; 
-    } 
-    div.searchTable table td a 
-    { 
-        font-family:Verdana,Arial,Helvetica,sans-serif; 
-        text-decoration:none; 
-        color:#000000; 
-        font-size:11px; 
-    } 
-    div.searchTable p
-    {
-    	margin:0;
-    }
-    div.searchTable table td a:hover 
-    { 
-        color:#7C2001; 
-        text-decoration:none; 
-    } 
-    p.searchTable
-    {
-        padding: 0px;  
-        margin: 0px;
-        background-color: #FFFFFF;  
-        text-align:right;
-        padding-bottom: 2px;
-    }
-    p.searchTable a
-    {
-        font-family:Verdana,Arial,Helvetica,sans-serif; 
-        text-decoration:underline; 
-        color:#000000; 
-        font-size:9px; 
-        padding-right:2px;
-    }
-    p.searchTable span
-    {
-        font-family:Verdana,Arial,Helvetica,sans-serif; 
-        text-decoration:none; 
-        color:#A0A0A0; 
-        font-size:10px; 
-        padding-right:2px;
-    }
-</style>
-<div id="ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_tablePlaceHolder">
-</div>
-<div id="ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_divScript"><script type="text/javascript" language="javascript">//<![CDATA[
-
-ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid=new AjaxGrid();ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.webServicePopulate='Lynda.Web.P';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.webMethodPopulate='M1';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.webMethodCount='MC1';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.webMethodPopulateFilter='';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.tableColumnFields='course';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.tableColumnTitles='';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.tableColumnWidths='357px';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.controlId='ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.cssClassRow='';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.cssClassRowAlternate='';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.cssClassRowHeader='';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.cssClassTable='searchTable';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.cssClassBody='';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.cssClassColumns='';decorateAjaxGridWithCellBuilder();ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.hideRecordCount=true;ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.hideHeader=true;ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid.uSId='0,\'0weipx55cnlxnp55dsp5ph55\',\'081001974df2341c5a1610937c99bd3e\'';//]]>
-
-</script></div>
-<div id="ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_divScript"><script type="text/javascript" language="javascript">//<![CDATA[
-
-ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete=new AjaxAutoComplete();ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.elementsDisplayed=10;ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.objTxt=gebid('ctl00_UcHeader_UcHeaderGoogleMini1_txtSearch');ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.txtLength=3;ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.timeout=500;ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.displayTimeout=2000;ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.objectId='ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.divId='ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_tablePlaceHolder';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.objectTableId='ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid';ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.objectTableWidth=357;ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.setDivPosition(2,0,25,4);ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_AjaxAutoComplete.ajaxGrid=ctl00_UcHeader_UcHeaderGoogleMini1_ucAjaxAutoComplete_ucAjaxGrid_AjaxGrid//]]>
-
-</script></div>
-
-
-    </div>
-</div>
-
-            </div>
-            <div class="contentColumn1">
-                
-    <div id="ctl00_ContentPlaceHolder1_UcLeftNav1_sectionPageLeftNavControls">
-<div id="ctl00_ContentPlaceHolder1_UcLeftNav1_ctl00_sectionQuickLinks">
-<div class="yellowHeader">
-    <div class="yellowHeaderTop">
-    </div>
-    <div class="yellowHeaderContent">
-        <h1 class="SidebarTopic">
-            Quick links</h1>
-        <ul>
-            <li>
-                <a id="ctl00_ContentPlaceHolder1_UcLeftNav1_ctl00_ctl00_hlFreeTraining" onclick="javascript:window.open('../home/FreeTrainingVideos.aspx','FreeTrainingVideos','dialog=1, scrollbars=0, resizable=0, width=700, height=530, top=220, left=500, margin=left');return false;" href="../home/FreeTrainingVideos.aspx">Free Video Tutorials</a></li>
-            <li>
-                <a id="ctl00_ContentPlaceHolder1_UcLeftNav1_ctl00_ctl00_hlFAQ" onclick="javascript:window.open('../home/FAQ.aspx','FAQ','scrollbars=1, resizable=0, width=750, height=610, margin=left');return false;" href="../support/faq.aspx">Frequently Asked Questions</a></li>
-            <li>
-                <a id="ctl00_ContentPlaceHolder1_UcLeftNav1_ctl00_ctl00_hlSysReq" onclick="javascript:window.open('../home/SystemRequirements.aspx','SystemRequirements','dialog=1, scrollbars=0, resizable=0, width=700, height=530, top=220, left=500, margin=left');return false;" href="../home/SystemRequirements.aspx">System Requirements</a></li>
-        </ul>
-        <h1 class="SidebarTopic">
-            Ready to join?</h1>
-        <select name="ctl00$ContentPlaceHolder1$UcLeftNav1$ctl00$ctl00$ChooseSubscription$selSubscription" id="ctl00_ContentPlaceHolder1_UcLeftNav1_ctl00_ctl00_ChooseSubscription_selSubscription">
-	<option value="-1">choose a subscription:</option>
-	<option value="1001">monthly - $25/month</option>
-	<option value="1008">monthly premium - $37.50/month</option>
-	<option value="1002">annual - $250/year</option>
-	<option value="1003">premium - $375/year</option>
-	<option value="1004">multi-user program</option>
-
-</select>
-
-
-        <h1 class="SidebarTopic">
-            News, tips, events</h1>
-        <ul>
-            <li>
-                <a id="ctl00_ContentPlaceHolder1_UcLeftNav1_ctl00_ctl00_hlNewsletter" onclick="javascript:window.open('../home/Newsletter.aspx','Newsletter','dialog=1, scrollbars=0, resizable=0, width=750, height=700, top=220, left=500, margin=left');return false;" href="../home/Newsletter.aspx">Sign up for our Newsletter</a></li>
-        </ul><br>
-    </div>
-    <div class="yellowHeaderBottom">
-    </div>
-</div>
-</div>
-
-<div class="yellowHeader">
-    <div class="yellowHeaderTop"></div>
-    <div class="yellowHeaderContent">
-        <span class="SidebarTopic" style="margin-left: 12px;">Latest releases</span>
-        <ol><li><a href="/home/DisplayCourseNoTabs.aspx?lpk2=71923">Foundations of Photography: Exposure</a></li><li><a href="/home/DisplayCourseNoTabs.aspx?lpk2=71479">Richard Koci Hernandez, Multimedia Journalist</a></li><li><a href="/home/DisplayCourseNoTabs.aspx?lpk2=73283">Captivate 5 Essential Training</a></li><li><a href="/home/DisplayCourseNoTabs.aspx?lpk2=77750">Flex "Hero" and Flash Builder "Burrito" Beta Preview</a></li><li><a href="/home/DisplayCourseNoTabs.aspx?lpk2=75922">iPhoto '11 Essential Training</a></li></ol><br>
-		<a href="http://www.lynda.com/newreleases.aspx" style="text-decoration: underline;margin-right:12px; float:right; color: #7c2001">more »</a>
-        <div class="spacer2"></div>
-    </div>
-    <div class="yellowHeaderBottom"></div>
-</div>
-</div>
-
-<script type="text/javascript" language="javascript">
-    //<![CDATA[
-    setSubMenu();
-    //]]>
-</script>
-<div id="ctl00_ContentPlaceHolder1_UcLeftNav1_sectionSiteLeftNavControls">
-</div>
-
-
-            </div>
-            <div class="contentColumn2">
-                
-    <div class="divCrumbs">
-        <span id="ctl00_ContentPlaceHolder2_UcBreadcrumb1_SiteMapPath1"><a href="#ctl00_ContentPlaceHolder2_UcBreadcrumb1_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=LaWl017TkmArgwcProIhMUQHCWEbsCLsMXaz7Jgykm5KY7q8XPClyY5Bw2UlEsuwPgFZnr5UBHlwuQofxeWnMtGov4o1&amp;t=634210112612724343" border="0"></a><span><a title="lynda.com" href="http://www.lynda.com">lynda.com</a></span><span> » </span><span>Privacy Policy</span><a id="ctl00_ContentPlaceHolder2_UcBreadcrumb1_SiteMapPath1_SkipLink"></a></span>
-
-    </div>
-<h1>lynda.com, Inc.<br>
-
-Privacy Policy</h1>
-
-<p>lynda.com, Inc. (“lynda.com”) has created this Privacy Policy to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.</p>
-
-<h2>Collection of Data/Contact Information/Financial Information</h2>
-<h3>IP Address and Cookies</h3>
-<p>We use your internet protocol address to help diagnose problems with our server and to administer our website. We also use your internet protocol address to help identify you and your shopping cart.</p>
-
-<p>Our website places “cookies” on your computer’s hard drive through your web browsers to keep track of your identity for the purposes of saving your shopping cart and saving your logged-in state so that you do not have to log in each time you visit our website. “Cookies” allow our website to recognize your computer when you access the website. If you would like to prevent the placement of cookies on your computer, or remove cookies from your computer, please access the “Help” portion of your browser or contact your browser provider. Please be advised that if you block or remove cookies from your computer, the website will not recognize your computer and you may not have access to all portions of the website.</p>
-
-<h3>Contact Information/Financial Information</h3>
-<p>Our website’s registration and order forms require users to provide us with contact information to establish subscription accounts and purchase services and products. lynda.com collects each user’s name, address, city, state, postal code, telephone number and e-mail address.  lynda.com uses this information to contact the user regarding subscriptions, orders and administrative matters. New users must opt in to receive commercial communications and may opt out of receiving future commercial communications at any time (see “Anti-Spam Policy/Opt-out Choice” below). </p>
-
-<p>lynda.com also stores the financial information entered by users, such as credit card numbers, purchase order numbers and related identification information. The financial information is only used to bill the user for products and services.</p>
-
-<p>lynda.com does not rent, sell or exchange user information, and generally restricts access to user information to qualified lynda.com employees and agents. lynda.com may transmit a customer’s credit card data only to the appropriate credit card company and/or credit card payment processing company. Third parties who need access to lynda.com user information to provide operational or other support services are required by lynda.com to maintain high standards of security. lynda.com gathers only user information that is needed to administer its business and enhance and improve its services and products. </p>
-
-<p>lynda.com may disclose a user’s contact or financial information if required to do so by law or in the good-faith belief that such disclosure is necessary to comply with an order of a court or government authority, or a subpoena. lynda.com may also disclose a user’s contact or financial information in the good-faith belief that such disclosure is necessary to protect lynda.com or the website, or enforce the applicable Terms and Conditions, in conjunction with an investigation or legal, equitable or administrative action or proceeding.</p>
-
-<p>lynda.com may collect information on the services and products viewed by you on the website. lynda.com may use this information to customize your experience and suggest and offer you products according to your preferences. lynda.com may use this information to identify patterns and trends of use, but will only release or publish any such information in a manner that preserves your anonymity. </p>
-
-<p>lynda.com may transfer part or all of your information in the case of a merger, acquisition, bankruptcy, or other sale of all or a portion of lynda.com’s assets or stock.</p>
-
-<h2>Links to Other Websites</h2><br>
-<p>This website contains links to other websites. lynda.com is not responsible for the privacy practices, security practices or the content of such websites.</p>
- 
-<h2>Site Intended for Use by Adults</h2><br>
-<p>This website is intended for use by adults. lynda.com does not knowingly collect or publish any information personally identifying any child under age 13. Children under age 13 should not access this website and should not post any information personally identifying themselves anywhere on the website, such as a chat room, forum, message board and/or news group. </p>
-
-<h2>Security</h2><br>
-<p>The security of this website and your information is of great importance to lynda.com. This website has reasonable security measures in place to protect the loss, misuse and alteration of your information under our control, but we make no assurances about our ability to prevent any such loss, misuse or alteration, and we shall have no liability to you or any third party from any loss, misuse or alteration. We do not warrant that your access to the website is completely secure.</p>
-
-<p>You should promptly notify lynda.com if your account, user name or password have been lost or stolen. lynda.com will never ask you for your password. If you need a new user name and/or password, lynda.com will generate a new user name and password automatically through its computers and send it to your e-mail or postal address.</p>
-
-<h2>Anti-Spam Policy/Opt-out Choice</h2><br>
-<p>We are committed to providing users of this website with the choice to receive or not receive e-mails and/or other communications from lynda.com. We strive to comply with the CAN-SPAM Act. We only send commercial e-mails to new users who have requested or consented to receive e-mails about our services and products.  We do not send unsolicited commercial e-mails (“spam”), buy or sell e-mail lists, or use purchased or harvested e-mail lists. We offer commercial e-mail recipients the opportunity to opt-out of further communications in every e-mail. If you would like to opt-out of receiving further communications, please visit the <a href="http://www.lynda.com/news/NewsletterPreferences.aspx">Newsletter Preferences page</a> or contact us using the following address:</p>
-
-<p></p>Postal mail:<br>
-6410 Via Real<br>
-Carpinteria, CA 93013<p></p>
-
-<p>Please note that we may not include the opt-out information in non-commercial e-mails (i.e., e-mails concerning your order, the website’s Terms and Conditions of Use, etc.). If you have questions or concerns regarding a non-commercial e-mail, please contact us using the information under “Contacting lynda.com” below.</p>
-
-<h2>Modification of Contact Information and/or Financial Information</h2><br>
-<p>If you would like to modify your contact and/or financial information on our database, please log onto your account by clicking the “Login” link on the website. Once logged on, click on the “My Account” link and the “Edit Contact Info” link. You will be able to edit your contact and financial information on the “Edit Contact Info” page. If you have any questions or concerns, or would like to remove or modify your information offline, please contact lynda.com using one of the following modes:</p>
-<table width="287" border="0" align="left" style="border-collapse:collapse" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td colspan="2">E-mail: <a id="ctl00_ContentPlaceHolder2_hlContact1" href="http://www.lynda.com/support/contact.aspx?lpk34=3">cs@lynda.com</a></td>
-  </tr>
-  <tr><td>&nbsp;</td></tr>  
-  <tr>
-    <td width="30%">Postal mail:</td>
-    <td width="70%">6410 Via Real</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><div align="left">Carpinteria, CA 93013</div></td>
-  </tr>
-    <tr><td>&nbsp;</td></tr>
-  <tr><td colspan="2">Telephone: 1-888-335-9632</td></tr>
-
-</tbody></table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h2>Changes to the Privacy Policy</h2><br>
-<p>lynda.com may change this Privacy Policy from time to time in its sole and absolute discretion. Please check this website regularly for changes. Substantive revisions to this Privacy Policy shall apply only prospectively.</p>
-
-<h2>Contacting lynda.com</h2><br>
-<p>If you have any questions about this Privacy Policy, the practices of lynda.com or your dealings with this website, please contact our customer service department using one of the following modes:</p>
-
-<table width="287" border="0" align="left" style="border-collapse:collapse" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td colspan="2">E-mail: <a id="ctl00_ContentPlaceHolder2_hlContact2" href="http://www.lynda.com/support/contact.aspx?lpk34=3">cs@lynda.com</a></td>
-  </tr>
-    <tr><td>&nbsp;</td></tr>
-  <tr>
-    <td width="30%">Postal mail:</td>
-    <td width="70%">6410 Via Real</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td><div align="left">Carpinteria, CA 93013</div></td></tr>
-  <tr><td>&nbsp;</td></tr>    
-  <tr><td colspan="2">Telephone: 1-888-335-9632</td></tr>    
-</tbody></table><br>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p>Effective Date<br>
-February 10, 2010</p>
-            </div>
-        </div>
-        <div id="bookmark">
-			<ul id="buttons"><li></li><li></li></ul>
-			<div>
-				<h3 id="bookmark-title" class="h1b">Bookmark this Tutorial</h3>
-				<div id="bookmark-breadcrumb" class="breadcrumb">Breadcrumb » Breadcrumb » <b>Breadcrumb</b></div>
-				
-				<h4>Name</h4>
-				<input type="text" id="bookmark-name" value="" maxlength="50">
-				
-				<h4>Description</h4>
-				<textarea id="bookmark-description"></textarea>
-				<span id="bookmark-description-max" class="fr fieldnote">{0} characters left</span>
-				
-				<h4>Tags</h4>
-				<input type="text" id="bookmark-tags" value="">
-				<span class="fieldnote">Separate tags with a space. Use quotes around multi-word tags.</span>
-				<span class="fieldnote" style="padding:10px 0 0 10px;">Suggested Tags:</span>
-				<div id="bookmark-tags-ul" class="tags"><div class="loading">loading</div></div>
-				
-				<a id="bookmark-save" class="btnGrySave fr" href="#"></a>
-				<a id="bookmark-cancel" class="btnLink fr" href="#">cancel</a>
-			</div>
-        </div>
-		<div id="dialogDeleteConfirm">
-			<p>Are you sure you want to <b>delete this bookmark?</b></p>
-			<div class="mr25">
-				<a href="#" class="btnRed94 btnRedYesDelete fr"></a>
-				<a href="#" class="btnLink fr">cancel</a>
-			</div>
-	<div class="footer">
-		<a href="#top" class="backToTop">Back to top</a> 
-		<br> 
-	</div>
-		</div>
-  
-
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
-</script>
-</form>
-  
-	<div id="fat-footer">
-	    <div id="footer-search">
-		    <div id="foot-search">
-		        <form action="http://www.lynda.com/home/websearch.aspx" method="get" id="btmsrch" name="btmsrch">
-		           <input type="text" class="srch-box-btm" id="btmsrchbox" name="q" value="What would you like to learn?" onfocus="clearSearchBox(this)">&nbsp;<input type="image" src="http://files2.lynda.com/files/lol_ui/ui/images/btn_search_54x18.gif" class="btm-srch-btn">
-		        </form>
-		    </div>
-		</div>
-		<div class="footer-container_12">	
-			<!-- Sub Footer -->
-			<div id="sub_footer">
-				
-							<div class="footer-grid_2">
-								<h4><a href="#">Why Join?</a></h4>
-								<ul>
-									<li><a href="http://www.lynda.com/home/VideoPlayer.aspx?lpk4=13" onclick="ShowWindowVideoTour(-1,this.href,480,270);return false;" title="About Our Service">About Our Service</a></li>
-									<li><a href="http://www.lynda.com/aboutus/Benefits.aspx" title="Top 10 Benefits">Top 10 Benefits</a></li>
-									<li><a href="http://www.lynda.com/home/otl.aspx" title="Memberships">Memberships</a></li>
-									<li><a href="http://www.lynda.com/aboutus/testimonials.aspx" title="Testimonials">Testimonials</a></li>
-									<li><a href="http://www.lynda.com/aboutus/casestudies.aspx" title="Case Studies">Case Studies</a></li>
-									<li><a href="http://www.lynda.com/home/freeTraining.aspx" title="Free Video Tutorials">Free Video Tutorials</a></li>
-								</ul>
-							</div> <!-- / grid_2 -->
-						
-				<div class="footer-grid_2">
-					<h4><a href="http://www.lynda.com/aboutus/" title="About Us">About Us</a></h4>
-					<ul>
-						<li><a href="http://www.lynda.com/home/DisplayCourse.aspx?lpk2=61213" title="The lynda.com Story">The lynda.com Story</a></li>
-						<li><a href="http://www.lynda.com/aboutus/careers.aspx" title="Careers at lynda.com">Careers at lynda.com</a></li>
-						<li><a href="http://www.lynda.com/aboutus/callfortrainers.aspx" title="Call for Trainers">Call for Trainers</a></li>
-						<li><a href="http://www.lynda.com/aboutus/mission.aspx" title="Executive Team">Executive Team</a></li>
-						<li><a href="http://www.lynda.com/resources/" title="Resources">Resources</a></li>
-					</ul>
-				</div> <!-- / grid_2 -->
-				<div class="footer-grid_2">
-					<h4><a href="http://www.lynda.com/news/" title="News">News</a></h4>
-					<ul>
-						<li><a target="_blank" href="http://blog.lynda.com/" title="lynda.com Blog">Blog</a></li>
-						<li><a href="http://www.lynda.com/news/newsletter.aspx" title="Newsletter">Newsletter</a></li>
-						<li><a href="http://www.lynda.com/news/newsreleases.aspx" title="Press Releases">Press Releases</a></li>
-						<li><a href="http://www.lynda.com/news/NewFeatures.aspx" title="New Site Features">New Site Features</a></li>
-						<li><a href="http://www.lynda.com/news/events.aspx" title="Events">Events</a></li>
-					</ul>
-				</div> <!-- / grid_2 -->
-				<div class="footer-grid_2">
-					<h4><a href="http://www.lynda.com/products/" title="Products">Products</a></h4>
-					<ul>
-						<li><a href="http://www.lynda.com/home/otl.aspx" title="Individual Memberships">Individual Memberships</a></li>
-						<li><a href="http://www.lynda.com/home/multiUserSolutions.aspx" title="Corporate">Corporate</a></li>
-						<li><a href="http://www.lynda.com/home/educatorsResources.aspx" title="Academic">Academic</a></li>
-						<li><a href="http://www.lynda.com/lynda_iphone.aspx" title="iPhone">iPhone</a></li>
-						<li><a target="_blank" href="http://store.lynda.com/category.aspx?categoryID=76" title="DVDs">DVDs</a></li>
-						<li><a target="_blank" href="http://www.lynda.com/giftsubscription/" title="Gift Subscriptions">Gift Subscriptions</a></li>
-						<li><a target="_blank" href="http://store.lynda.com/category.aspx?categoryID=74" title="Fun Stuff">Fun Stuff</a></li>
-					</ul>
-				</div><!-- / grid_2 -->
-				<div class="footer-grid_2">
-					<h4><a href="http://www.lynda.com/support/" title="Support">Support</a></h4>
-					<ul>
-						<li><a href="http://www.lynda.com/support/faq.aspx" title="FAQ">Frequently Asked Questions</a></li>
-						<li><a href="http://www.lynda.com/support/contact.aspx" title="Contact Us">Contact Us</a></li>
-						<li><a href="http://www.lynda.com/support/SystemRequirements.aspx" title="System Requirements">System Requirements</a></li>
-						
-						<li><a href="http://www.lynda.com/promo/activatekey/" title="Register Activation Key">Register Activation Key</a></li>
-					</ul>
-				</div><!-- / grid_2 -->
-				
-				<div class="footer-grid_2 logo">
-					<a href="http://www.lynda.com/"><img src="http://files2.lynda.com/files/lol_ui/ui/images/lynda-logo-on-blk.gif" alt="lynda.com logo"></a>
-				</div>
-			</div> <!-- / sub_footer -->
-		</div>
-		<div id="footer-legal" class="footer-container_12">
-			<div class="links">
-				<div id="follow">
-					Follow us on: 
-					<a target="_blank" href="http://www.youtube.com/user/lyndapodcast" title="Follow us on YouTube"><img src="http://files2.lynda.com/files/lol_ui/ui/images/youtube2.gif" width="32" height="32" alt="Follow us on YouTube"></a>&nbsp;
-					<a target="_blank" href="http://twitter.com/lyndadotcom/" title="Follow us on Twitter"><img src="http://files2.lynda.com/files/lol_ui/ui/images/twitter2.gif" width="32" height="32" alt="Follow us on Twitter"></a>&nbsp;
-					<a target="_blank" href="http://www.linkedin.com/companies/lynda.com" title="Follow us on LinkedIn"><img src="http://files2.lynda.com/files/lol_ui/ui/images/linkedin2.gif" width="32" height="32" alt="Follow us on LinkedIn"></a>&nbsp;
-					<a target="_blank" href="http://www.facebook.com/lyndadotcom" title="Follow us on Facebook"><img src="http://files2.lynda.com/files/lol_ui/ui/images/facebook2.gif" width="32" height="32" alt="Follow us on Facebook"></a>
-				</div>
-				<ul>
-					
-					<li><a href="http://www.lynda.com/solutions/resellers.aspx" title="Become a Reseller">Become a Reseller</a></li>
-					<li><a href="http://www.lynda.com/partners/affiliates.aspx" title="Affiliate Program">Affiliate Program</a></li>
-					<li><a href="http://www.lynda.com/aboutus/lotPrivacy.aspx" title="Privacy Policy">Privacy Policy</a></li>
-					<li><a href="http://www.lynda.com/aboutus/lotTerms.aspx" title="Terms and Conditions">Terms and Conditions</a></li>
-					<li class="last"><a href="/SiteMapUrls.aspx" title="Site Map">Site Map</a></li>
+<a id="backtotop" name="top" style="position:absolute"></a>
+<div id="eyebrow">
+	<ul class="nav member-links">
+		<li class="become"><strong><a href="http://www.lynda.com/home/Registration/ConsumerRegistrationStep1.aspx?bnr=topbeamember_newsite">Become a member</a></strong></li>		
+		<li class="with-sub-menu">
+			<a href="http://www.lynda.com/products/">products</a>
+			<div class="sub hidden">
+				<ul class="sub-menu">
+					<li><a href="http://www.lynda.com/home/otl.aspx">individual memberships</a></li>
+					<li><a href="http://www.lynda.com/online-software-training/business-solutions.html">business solutions</a></li>
+					<li><a href="http://www.lynda.com/online-software-training/education-solutions.html">education solutions</a></li>
+					<li><a href="http://www.lynda.com/online-software-training/government-solutions.html">government solutions</a></li>
+					<li class="the-fold"><a href="http://www.lynda.com/lynda_iphone.aspx">iPhone app</a></li>
+					<li><a href="http://www.lynda.com/MS-Office-Ribbon">Office Ribbon plug-in</a></li>
+					<li><a href="http://store.lynda.com/category.aspx?categoryID=76">DVDs</a></li>
+					<li><a href="http://www.lynda.com/giftsubscription/">gift subscriptions</a></li>
+					<li><a href="http://store.lynda.com/category.aspx?categoryID=74">fun stuff</a></li>
 				</ul>
-				<p>Copyright © 1995-2010 lynda.com, Inc. All rights reserved.</p>
-				<div class="clear"></div>
 			</div>
-		</div> <!-- / #footer-legal -->
+		</li>
+		<li class="with-sub-menu last">
+			<a href="http://www.lynda.com/support/">support</a>
+			<div class="sub hidden">
+				<ul class="sub-menu">
+					<li><a href="http://www.lynda.com/support/faq.aspx">frequently asked questions</a></li>
+					<li><a href="http://www.lynda.com/support/contact.aspx">contact us</a></li>
+					<li><a href="http://www.lynda.com/support/SystemRequirements.aspx">system requirements</a></li>
+					<li><a href="http://www.lynda.com/promo/activatekey/">register activation key</a></li>
+					
+				</ul>
+			</div>
+		</li>
+	</ul>
+	<div class="acct-links">
+	<ul class="nav"> 
+		
+					<li class="no-menu">
+						<a href="http://www.lynda.com/home/Registration/ConsumerRegistrationStep1.aspx?bnr=topsubbtn_newsite" class="subscribe">subscribe</a>
+					</li>
+					<li class="no-menu">
+						<a href="http://www.lynda.com/home/registration/RenewalStep1.aspx" class="reactivate">reactivate</a>
+					</li>
+					<li class="logout last">
+						<a href="http://www.lynda.com/user/login/modal" id="login-modal"><strong>log in</strong></a>
+					</li>
+				
+	</ul>
 	</div>
-  
-  <script type="text/javascript">
-    var ceProtocol = (("https:" == document.location.protocol) ? "https://" : "http://");
-    document.write(unescape("%3Cscript src='" + ceProtocol + "s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/2510.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/2510.js" type="text/javascript"></script>
-
+	<div class="clear"></div>
+	<script language="javascript" type="text/javascript">
+		function showConfirmMessage() {
+			var ok = confirm('You currently have an open invoice for a renewal request, so you can\'t continue with another renewal request. Apply payment to this existing invoice before attempting to renew your licenses again. If you have any questions, contact Customer Service at (888) 335-9632.\n If you\'d like to apply payment now, click the OK button.');
+			if (ok) {
+				return true;
+			}
+			return false;
+		}
+	
+	</script>
+</div>
+<div class="clear"></div>
+<!-- header.eyebrow: 12/6/2011 7:49:41 AM -->
+<div id="orng-navbar">
+	<div class="curve">
+		<div id="logo"><a href="http://www.lynda.com/">lynda.com</a></div>
+		<div id="search">
+			<div class="waitwheel" id="waitwheel_header"></div>
+			<form action="http://www.lynda.com/search" method="get" id="Form1" name="btmsrch">
+				<input type="text" class="srch-box-top" id="srchbox" name="q" onfocus="clearSearchBox(this);">
+				<input type="image" src="http://files2.lynda.com/files/lol_ui/ui/images/btn_search_54x18.gif?c-v=24701" class="top-srch-btn" onclick="return validateSearchBox(jQuery('#srchbox'));">
+			</form>
+			<script type="text/javascript">
+				if(lynda&&lynda.baseUrl)
+				{
+					var url=jQuery('div#logo>a').attr('href');
+					if(url)
+						lynda.baseUrl=url;
+				}
+				jQuery(document).ready(function()
+				{
+					jQuery("#srchbox").val(searchBoxDefVal);
+					searchSuggestions("input.srch-box-top","ac_results searchTop","waitwheel_header");
+				});
+			</script>
+		</div>
+		<ul class="nav main-links">
+			<li class="with-sub-menu first" id="subject_menu">
+				<a href="#">subject</a>
+				<div class="sub" style="display: none;">
+					<ul class="sub-menu with-counts"><li><a href="http://www.lynda.com/3D-Animation-training-tutorials/1-0.html">3D + Animation <span>(97)</span></a></li><li><a href="http://www.lynda.com/Audio-training-tutorials/20-0.html">Audio <span>(45)</span></a></li><li><a href="http://www.lynda.com/Business-training-tutorials/29-0.html">Business <span>(256)</span></a></li><li><a href="http://www.lynda.com/Design-training-tutorials/40-0.html">Design <span>(216)</span></a></li><li><a href="http://www.lynda.com/Developer-training-tutorials/50-0.html">Developer <span>(144)</span></a></li><li><a href="http://www.lynda.com/Home-Computing-training-tutorials/59-0.html">Home Computing <span>(206)</span></a></li><li><a href="http://www.lynda.com/Photography-training-tutorials/70-0.html">Photography <span>(147)</span></a></li><li><a href="http://www.lynda.com/Video-training-tutorials/78-0.html">Video <span>(177)</span></a></li><li><a href="http://www.lynda.com/Web-Interactive-training-tutorials/88-0.html">Web + Interactive <span>(290)</span></a></li><li class="the-fold"><a href="http://www.lynda.com/Documentaries-training-tutorials/99-0.html">Documentaries <span>(47)</span></a></li></ul> 
+				</div>	
+			</li>
+			<li id="test" class="with-sub-menu">
+				<a href="#">software</a>
+				<div class="sub mega" style="display: none;" id="softwareMenuTab">
+					<script type="text/javascript">				    
+						function toggleMenuLetter(letter)
+						{
+							jQuery('div#softwareMenuItems > ul')
+								.children('li').hide()
+								.parent().children('li.l'+(letter=='#'?'_':letter))
+								.show();
+							jQuery('div#softwareMenuTab ul.ltrs > li > a').each(function()
+							{
+								var e=jQuery(this);
+								if(e.html()===letter)
+									e.parent().addClass('cur').siblings('li.cur').removeClass('cur');
+							});
+						}
+						jQuery.ajax({ url: parseSecureUrl('http://www.lynda.com/page/headermenu'), dataType: 'html', success: function(data) { jQuery('div#softwareMenuTab').html(data); toggleMenuLetter('A'); } });
+					</script>
+				</div>
+			</li>  
+            <li id="authorTest" class="with-sub-menu">
+                <a href="#">author</a>
+                <div class="sub mega" style="display: none;" id="authorMenuTab">
+					<script type="text/javascript">
+						function toggleAuthorMenuLetter(letter)
+						{
+							jQuery('div#authorMenuItems > ul')
+								.children('li').hide()
+								.parent().children('li.l'+(letter=='#'?'_':letter))
+								.show();
+							jQuery('div#authorMenuTab ul.ltrs > li > a').each(function()
+							{
+								var e=jQuery(this);
+								if(e.html()===letter)
+									e.parent().addClass('cur').siblings('li.cur').removeClass('cur');
+							});
+						}
+						jQuery.ajax({ url: parseSecureUrl('http://www.lynda.com/page/headerauthormenu'),dataType: 'html',success: function(data) { jQuery('div#authorMenuTab').html(data);toggleAuthorMenuLetter('A'); } });
+					</script>
+				</div>
+            </li>          
+			<li class="with-sub-menu"> 
+				<a href="#">new</a> 
+				<div class="sub hidden"> 
+					<ul class="sub-menu"> 
+						<li><a href="http://www.lynda.com/newreleases.aspx">releases</a></li> 
+						<li><a href="http://www.lynda.com/documentaries-training-tutorials/99-0.html">Documentaries</a></li> 
+						<li class="the-fold"><a href="http://www.lynda.com/Business-E-learning-tutorials/How-to-use-lynda-com/77683-2.html">how to use lynda.com</a></li> 
+					</ul> 
+				</div>	
+			</li> 
+		</ul> 
+	</div>
+</div>
+<!-- header: 12/6/2011 6:05:05 AM -->
+<div class="container_19">
+    <div id="breadcrumbs">
+        <a href="http://www.lynda.com/" title="lynda.com">lynda.com</a> » Privacy
+        Policy
+    </div>
+    <div class="grid_15 copy">
+        <h1 class="topmost">lynda.com, Inc.<br>Privacy Policy</h1>
+        <p>
+            lynda.com, Inc. (“lynda.com”) has created this Privacy Policy to demonstrate
+            our firm commitment to privacy. The following discloses our information gathering
+            and dissemination practices for this website.</p>
+        <h2>
+            Collection of Data/Contact Information/Financial Information</h2>
+        <h3>
+            IP Address and Cookies</h3>
+        <p>
+            We use your internet protocol address to help diagnose problems with our server
+            and to administer our website. We also use your internet protocol address to help
+            identify you and your shopping cart.</p>
+        <p>
+            Our website places “cookies” on your computer’s hard drive through your
+            web browsers to keep track of your identity for the purposes of saving your shopping
+            cart and saving your logged-in state so that you do not have to log in each time
+            you visit our website. “Cookies” allow our website to recognize your
+            computer when you access the website. If you would like to prevent the placement
+            of cookies on your computer, or remove cookies from your computer, please access
+            the “Help” portion of your browser or contact your browser provider.
+            Please be advised that if you block or remove cookies from your computer, the website
+            will not recognize your computer and you may not have access to all portions of
+            the website.</p>
+        <h3>
+            Contact Information/Financial Information</h3>
+        <p>
+            Our website’s registration and order forms require users to provide us with contact
+            information to establish subscription accounts and purchase services and products.
+            lynda.com collects each user’s name, address, city, state, postal code, telephone
+            number and e-mail address. lynda.com uses this information to contact the user regarding
+            subscriptions, orders and administrative matters. New users must opt in to receive
+            commercial communications and may opt out of receiving future commercial communications
+            at any time (see “Anti-Spam Policy/Opt-out Choice” below).
+        </p>
+        <p>
+            lynda.com also stores the financial information entered by users, such as credit
+            card numbers, purchase order numbers and related identification information. The
+            financial information is only used to bill the user for products and services.</p>
+        <p>
+            lynda.com does not rent, sell or exchange user information, and generally restricts
+            access to user information to qualified lynda.com employees and agents. lynda.com
+            may transmit a customer’s credit card data only to the appropriate credit card company
+            and/or credit card payment processing company. Third parties who need access to
+            lynda.com user information to provide operational or other support services are
+            required by lynda.com to maintain high standards of security. lynda.com gathers
+            only user information that is needed to administer its business and enhance and
+            improve its services and products.
+        </p>
+        <p>
+            lynda.com may disclose a user’s contact or financial information if required to
+            do so by law or in the good-faith belief that such disclosure is necessary to comply
+            with an order of a court or government authority, or a subpoena. lynda.com may also
+            disclose a user’s contact or financial information in the good-faith belief that
+            such disclosure is necessary to protect lynda.com or the website, or enforce the
+            applicable Terms and Conditions, in conjunction with an investigation or legal,
+            equitable or administrative action or proceeding.</p>
+        <p>
+            lynda.com may collect information on the services and products viewed by you on
+            the website. lynda.com may use this information to customize your experience and
+            suggest and offer you products according to your preferences. lynda.com may use
+            this information to identify patterns and trends of use, but will only release or
+            publish any such information in a manner that preserves your anonymity.
+        </p>
+        <p>
+            lynda.com may transfer part or all of your information in the case of a merger,
+            acquisition, bankruptcy, or other sale of all or a portion of lynda.com’s assets
+            or stock.</p>
+        <h2>
+            Links to Other Websites</h2>
+        <p>
+            This website contains links to other websites. lynda.com is not responsible for
+            the privacy practices, security practices or the content of such websites.</p>
+        <h2>
+            Site Intended for Use by Adults</h2>
+        <p>
+            This website is intended for use by adults. lynda.com does not knowingly collect
+            or publish any information personally identifying any child under age 13. Children
+            under age 13 should not access this website and should not post any information
+            personally identifying themselves anywhere on the website, such as a chat room,
+            forum, message board and/or news group.
+        </p>
+        <h2>
+            Security</h2>
+        <p>
+            The security of this website and your information is of great importance to lynda.com.
+            This website has reasonable security measures in place to protect the loss, misuse
+            and alteration of your information under our control, but we make no assurances
+            about our ability to prevent any such loss, misuse or alteration, and we shall have
+            no liability to you or any third party from any loss, misuse or alteration. We do
+            not warrant that your access to the website is completely secure.</p>
+        <p>
+            You should promptly notify lynda.com if your account, user name or password have
+            been lost or stolen. lynda.com will never ask you for your password. If you need
+            a new user name and/or password, lynda.com will generate a new user name and password
+            automatically through its computers and send it to your e-mail or postal address.</p>
+        <h2>
+            Anti-Spam Policy/Opt-out Choice</h2>
+        <p>
+            We are committed to providing users of this website with the choice to receive or
+            not receive e-mails and/or other communications from lynda.com. We strive to comply
+            with the CAN-SPAM Act. We only send commercial e-mails to new users who have requested
+            or consented to receive e-mails about our services and products. We do not send
+            unsolicited commercial e-mails (“spam”), buy or sell e-mail lists, or
+            use purchased or harvested e-mail lists. We offer commercial e-mail recipients the
+            opportunity to opt-out of further communications in every e-mail. If you would like
+            to opt-out of receiving further communications, please visit the <a href="http://www.lynda.com/news/NewsletterPreferences.aspx">
+                Newsletter Preferences page</a> or contact us using the following address:</p>
+        <p>
+        </p>
+        Postal mail:<br>
+        6410 Via Real<br>
+        Carpinteria, CA 93013<p></p>
+        <p>
+            Please note that we may not include the opt-out information in non-commercial e-mails
+            (i.e., e-mails concerning your order, the website’s Terms and Conditions of Use,
+            etc.). If you have questions or concerns regarding a non-commercial e-mail, please
+            contact us using the information under “Contacting lynda.com” below.</p>
+        <h2>
+            Modification of Contact Information and/or Financial Information</h2>
+        <p>
+            If you would like to modify your contact and/or financial information on our database,
+            please log onto your account by clicking the “Login” link on the website.
+            Once logged on, click on the “My Account” link and the “Edit Contact
+            Info” link. You will be able to edit your contact and financial information
+            on the “Edit Contact Info” page. If you have any questions or concerns,
+            or would like to remove or modify your information offline, please contact lynda.com
+            using one of the following modes:</p>
+        <table class="noPaddTbl" width="287" border="0" align="left" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td colspan="2">
+                    E-mail:
+                    <a id="hlContact1" href="http://www.lynda.com/support/contact.aspx?lpk34=3">cs@lynda.com</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td width="30%">
+                    Postal mail:
+                </td>
+                <td width="70%">
+                    6410 Via Real
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td>
+                    <div align="left">
+                        Carpinteria, CA 93013</div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    Telephone: 1-888-335-9632
+                </td>
+            </tr>
+        </tbody></table>
+        <div style="clear:both"></div>
+        <h2>
+            Changes to the Privacy Policy</h2>
+        <p>
+            lynda.com may change this Privacy Policy from time to time in its sole and absolute
+            discretion. Please check this website regularly for changes. Substantive revisions
+            to this Privacy Policy shall apply only prospectively.</p>
+        <p>
+            Note: this Policy does not encompass the information collected from Error Reports generated 
+            by lynda.com’s Office Ribbon Plug-in (or any other lynda.com product), which is covered 
+            by this <a href="http://www.lynda.com/aboutus/ribbon-privacy.aspx">Privacy Statement</a>.</p>    
+        <h2>
+            Contacting lynda.com</h2>
+        <p>
+            If you have any questions about this Privacy Policy, the practices of lynda.com
+            or your dealings with this website, please contact our customer service department
+            using one of the following modes:</p>
+        <table class="noPaddTbl" width="287" border="0" align="left" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                <td colspan="2">
+                    E-mail:
+                    <a id="hlContact2" href="http://www.lynda.com/support/contact.aspx?lpk34=3">cs@lynda.com</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td width="30%">
+                    Postal mail:
+                </td>
+                <td width="70%">
+                    6410 Via Real
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td>
+                    <div align="left">
+                        Carpinteria, CA 93013</div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    Telephone: 1-888-335-9632
+                </td>
+            </tr>
+        </tbody></table>
+        <div style="clear:both"></div>
+        <p class="bottommost">
+            Effective Date<br>
+            February 10, 2010</p>
+    </div>
+    <div class="grid_4">
+		
+<script type="text/javascript">
+    var currentVideoUrl = 'http://www.lynda.com/home/VideoPlayer.aspx?lpk4=73';
+</script>
+<div class="monopod vidpod">
+	
+	<a onclick="window.open(currentVideoUrl, 'player', 'height=600,width=960,menubar=0,resizable=1,scrollbars=0,toolbar=0'); return false;" class="tourpop" style="background:transparent url(http://files2.lynda.com/files/lol_ui/ui/images/video_tn_lyndamovie_186x123.jpg) no-repeat 0 0;"> </a>
+	<ul>
+		<li><a href="http://www.lynda.com/home/VideoPlayer.aspx?lpk4=73" onclick="window.open('http://www.lynda.com/home/VideoPlayer.aspx?lpk4=73', 'player', 'height=600,width=960,menubar=0,resizable=1,scrollbars=0,toolbar=0'); return false;" onmouseover="jQuery(this).parent().parent().prev().css({'background-image':'url(http://files2.lynda.com/files/lol_ui/ui/images/video_tn_lyndamovie_186x123.jpg)'}); currentVideoUrl = 'http://www.lynda.com/home/VideoPlayer.aspx?lpk4=73';" ontouchend="jQuery(this).parent().parent().prev().css({'background-image':'url(http://files2.lynda.com/files/lol_ui/ui/images/video_tn_lyndamovie_186x123.jpg)'}); currentVideoUrl = 'http://www.lynda.com/home/VideoPlayer.aspx?lpk4=73';">Learn about lynda.com</a></li><li><a href="http://www.lynda.com/home/VideoPlayer.aspx?lpk4=74" onclick="window.open('http://www.lynda.com/home/VideoPlayer.aspx?lpk4=74', 'player', 'height=600,width=960,menubar=0,resizable=1,scrollbars=0,toolbar=0'); return false;" onmouseover="jQuery(this).parent().parent().prev().css({'background-image':'url(http://files2.lynda.com/files/lol_ui/ui/images/video_tn_guidedtour_186x123.jpg)'}); currentVideoUrl = 'http://www.lynda.com/home/VideoPlayer.aspx?lpk4=74';" ontouchend="jQuery(this).parent().parent().prev().css({'background-image':'url(http://files2.lynda.com/files/lol_ui/ui/images/video_tn_guidedtour_186x123.jpg)'}); currentVideoUrl = 'http://www.lynda.com/home/VideoPlayer.aspx?lpk4=74';">Take a guided tour</a></li><li><a href="http://www.lynda.com/home/VideoPlayer.aspx?lpk4=61" onclick="window.open('http://www.lynda.com/home/VideoPlayer.aspx?lpk4=61', 'player', 'height=600,width=960,menubar=0,resizable=1,scrollbars=0,toolbar=0'); return false;" onmouseover="jQuery(this).parent().parent().prev().css({'background-image':'url(http://files2.lynda.com/files/lol_ui/ui/images/video_tn_testimonials_186x123.jpg)'}); currentVideoUrl = 'http://www.lynda.com/home/VideoPlayer.aspx?lpk4=61';" ontouchend="jQuery(this).parent().parent().prev().css({'background-image':'url(http://files2.lynda.com/files/lol_ui/ui/images/video_tn_testimonials_186x123.jpg)'}); currentVideoUrl = 'http://www.lynda.com/home/VideoPlayer.aspx?lpk4=61';">Watch member testimonials</a></li>
+	</ul>
+</div>
+<div class="monopod">
+	<span class="rightpod">Ready to join?</span>
+	<p><select id="SubscriptionSitePodPlanChange" onchange="var v=jQuery(this).val();switch(v){case '-1':return false; break;case 'multi':document.location='http://www.lynda.com/online-software-training/multiuser-solutions.html';break;case 'learnmore':document.location='http://www.lynda.com/home/otl.aspx?btn=supbtncl_newsite';break;default:document.location='http://www.lynda.com/home/Registration/ConsumerRegistrationStep1.aspx?pid='+v;break;}return false;">
+  <option value="-1">choose a subscription:</option>
+  <option value="0">monthly - $25/month</option>
+  <option value="3">monthly premium - $37.50/month</option>
+  <option value="1">annual - $250/year</option>
+  <option value="2">annual premium - $375/year</option>
+  <option value="multi">multi-user programs</option>
+ <option value="learnmore">learn more</option>
+  </select>
+  <br><a href="http://www.lynda.com/home/freeTraining.aspx">&gt;Try free video tutorials</a>
+<script type="text/javascript">if (typeof IEDropDownFixSingleton != "undefined") {IEDropDownFixSingleton.initialize('SubscriptionSitePodPlanChange');}</script></p>
+</div>
+<div class="monopod">
+	<span class="rightpod">Check out our latest documentaries</span>
+	<ul>
+		<li class=""><a href="http://www.lynda.com/Design-training/Marian-Bantjes-Graphic-Artist/78540-2C.html">Marian Bantjes, Graphic Artist</a></li><li class="more"><a href="http://www.lynda.com/Photoshop-All-Versions-training/bertmonroy-digitalpainterandillustrator/60966-2C.html">Bert Monroy, Digital Painter and Illustrator</a></li><li class="more"><a href="http://www.lynda.com/Print-Design-training/doyaldyoung-logotypedesigner/62371-2C.html">Doyald Young, Logotype Designer</a></li><li class="more"><a href="http://www.lynda.com/Digital-Photography-tutorials/richardkocihernandez-multimediajournalist/71479-2C.html">Richard Koci Hernandez, Multimedia Journalist</a></li><li class="more"><a href="http://www.lynda.com/Animation-training/mexopolis-animationstudio/58022-2C.html">Mexopolis, Animation Studio</a></li><li class="more"><a href="http://www.lynda.com/Design-Digital-Illustration-training/Stefan-G-Bucher-Designer-Illustrator-and-Writer/67336-2C.html">Stefan G. Bucher, Designer, Illustrator, and Writer</a></li><li class="more"><a href="http://www.lynda.com/Photography-Documentaries-training/Douglas-Kirkland-on-Photography-A-Conversation-with-Gerd-Ludwig/82410-2C.html">Douglas Kirkland on Photography: A Conversation with Gerd Ludwig</a></li><li class="more"><a href="http://www.lynda.com/Creative-Inspirations-training/hellodesign-interactivedesignstudio/70550-2C.html">Hello Design, Interactive Design Studio</a></li><li class="more"><a href="http://www.lynda.com/lynda-com-Presents-tutorials/2011sbiffdirector-spanel-directorsondirecting/79042-2C.html">2011 SBIFF Director's Panel: Directors On Directing</a></li><li class="more"><a href="http://www.lynda.com/2011-sbiff-producer-spanel-movers-and-shakers/79041-2C.html">2011 SBIFF Producer's Panel: Movers and Shakers</a></li><li class="more small"><a href="http://www.lynda.com/Documentaries-training-tutorials/99-0.html">go to documentaries</a></li>
+	</ul>
+	
+				<a class="showmore" href="" onclick="jQuery(this).hide().next().show().prev().prev().children('.more').slideDown();return false;">show more</a>
+				<a class="hidemore" href="" style="display:none" onclick="jQuery(this).hide().prev().show().prev().children('.more').slideUp();return false;">show less</a>
+			
+</div>
+<div class="monopod">
+	<span class="rightpod">Multi-user solutions</span>
+	<p>Save on groups of 5 or more with custom solutions for <a href="http://www.lynda.com/home/educatorsResources.aspx">schools</a> and <a href="http://www.lynda.com/home/multiUserSolutions.aspx">businesses</a>.</p>
+</div>
+<div class="monopod">
+	<span class="rightpod">Gift subscriptions</span>
+	<ul>
+		<li><a href="http://www.lynda.com/giftsubscription/">The gift that keeps giving</a></li>
+	</ul>
+</div>
+<div class="isopod"><a href="http://www.lynda.com/giftsubscription/index.aspx"><img src="http://files2.lynda.com/files/lol_ui/ui/images/pod/banners/mockup_pod_giftsub_205x205_102210.jpg"></a></div>
+    </div>
+</div>
+<div class="clear"></div>
+<div id="fat-footer">
+	<div id="footer-search">
+		<div id="foot-search">
+			<div class="waitwheel" id="waitwheel_footer"></div>
+			<form action="http://www.lynda.com/search" method="get" id="btmsrch" name="btmsrch">
+			   <input type="text" class="srch-box-btm" id="btmsrchbox" name="q" onfocus="clearSearchBox(this)">&nbsp;<input type="image" src="http://files2.lynda.com/files/lol_ui/ui/images/btn_search_54x18.gif?c-v=24701" class="btm-srch-btn" onclick="return validateSearchBox(jQuery('#btmsrchbox'));">
+			</form>
+			<script type="text/javascript">
+				jQuery(document).ready(function()
+				{
+					jQuery("#btmsrchbox").val(searchBoxDefVal);
+					searchSuggestions("input.srch-box-btm","ac_results searchBottom","waitwheel_footer");
+				});				
+			</script>
+		</div>
+	</div>
 	<script type="text/javascript">
 		jQuery(document).ready(function()
 		{
-			if(typeof(window['_bookmarkData'])!='undefined')
-				bookmark.init('bookmark','bkm',{data:_bookmarkData});
-			else
-				bookmark.init('bookmark','bkm');
-			new charCounter('bookmark-description','bookmark-description-max',300);
-		});
+			var ajaxedfooter=parseSecureUrl('http://www.lynda.com/page/ajaxedfooter');
+			jQuery.ajax({ url: ajaxedfooter,
+				dataType: 'html',
+				success: function(data)
+				{
+					jQuery("#ajaxedFooter").html(data);
+					jQuery("#foot-tabs li.tab a").unbind('click').bind('click',function(e)
+					{
+						var e=jQuery(this);
+						e.parent().addClass('active').siblings('li.tab').removeClass('active');
+						var section='#'+e.attr('href').split('#')[1];
+						jQuery(section).siblings('div.panel').hide().end().show();
+						return false;
+					});
+				}
+			});
+		})
 	</script>
-<!-- Begin Salesforce Tracking Code, place immediately before closing </BODY> tag -->
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
-<!-- End Salesforce Tracking Code, place immediately before closing </BODY> tag -->
-<div id="ClickTaleDiv" style="display: none;"></div><script type="text/javascript">document.write(unescape("%3Cscript%20src='"+	(document.location.protocol=='https:'?	'https://clicktale.pantherssl.com/':	'http://s.clicktale.net/')+	"WRb.js'%20type='text/javascript'%3E%3C/script%3E"));</script><script src="https://clicktale.pantherssl.com/WRb.js" type="text/javascript"></script><script type="text/javascript">var ClickTaleSSL=1;if(typeof ClickTale=='function') ClickTale(5221,0.006,"www03");</script>
+	<div id="ajaxedFooter"></div>
+	<div id="footer-legal">
+	<br class="clear">
+		<div class="links">
+			<div id="follow">
+				Follow us on: 
+				<a target="_blank" href="http://www.youtube.com/user/lyndapodcast" title="Follow us on YouTube"><img src="http://files2.lynda.com/files/lol_ui/ui/images/youtube2.gif?c-v=24701" width="32" height="32" alt="Follow us on YouTube"></a>&nbsp;
+				<a target="_blank" href="http://twitter.com/lyndadotcom/" title="Follow us on Twitter"><img src="http://files2.lynda.com/files/lol_ui/ui/images/twitter2.gif?c-v=24701" width="32" height="32" alt="Follow us on Twitter"></a>&nbsp;
+				<a target="_blank" href="http://www.linkedin.com/companies/lynda.com" title="Follow us on LinkedIn"><img src="http://files2.lynda.com/files/lol_ui/ui/images/linkedin2.gif?c-v=24701" width="32" height="32" alt="Follow us on LinkedIn"></a>&nbsp;
+				<a target="_blank" href="http://www.facebook.com/lyndadotcom" title="Follow us on Facebook"><img src="http://files2.lynda.com/files/lol_ui/ui/images/facebook2.gif?c-v=24701" width="32" height="32" alt="Follow us on Facebook"></a>
+			</div>
+			<ul><li><a href="http://www.lynda.com/sitemap" title="Site Map">Site map</a></li>
+				<li><a href="http://www.lynda.com/solutions/resellers.aspx" title="Become a Reseller">Become a reseller</a></li>
+				<li><a href="http://www.lynda.com/partners/affiliates.aspx" title="Affiliate Program">Affiliate program</a></li>
+				<li><a href="http://www.lynda.com/aboutus/otl-privacy.aspx" title="Privacy Policy">Privacy policy</a></li>
+				<li class="last"><a href="http://www.lynda.com/aboutus/lotTerms.aspx" title="Terms and Conditions">Terms and conditions</a></li>
+			</ul>
+			<p>Copyright © 1995-2011 lynda.com, Inc. All rights reserved.</p>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+<!-- footer: 12/6/2011 6:05:07 AM -->
 
+		<!--[if IE]>
+		<noscript>
+			<div id="noscript_overlay"></div>
+			<div id="noscript_overlay_holder">
+				<div id="noscript_overlay_message">
+					<div class="noscript_overlay_bar"><h5>Browser security setting set to High</h5><a href="http://www.lynda.com/" class="noscript_overlay_close"><img src="http://files2.lynda.com/files/lol_ui/ui/images/enterprise_redesign/ent_re_icon_close.gif?c-v=24701" alt="" border="" /></a></div>
+					<div class="noscript_overlay_content copy">
+						<p>It appears your browser is set to High security. This setting disables active scripting that is required to use our site. To change your security settings, go to Internet Explorer > Internet Options > Security and set your security level to Medium-high. Then click Apply. Refresh your browser page, and you should be able to use our site.</p>
+						<p>If you can't change your security settings, contact your IT help desk.</p>
+						<p>If you are still having trouble after changing your security settings, use our Contact Us form or call Customer Service at (888) 335-9632 for further assistance.</p>
+					</div>
+				</div>
+			</div>
+		</noscript>
+		<![endif]-->
+		<script type="text/javascript">
+			var isHttps = ("https:" == document.location.protocol);
+			
+			// crazyegg
+			jQuery.getScript((isHttps?"https:":"http:")+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0010/2510.js", function() { });
+			
+			// salesforce
+			jQuery.getScript((isHttps?"https:":"http:")+"//lct.salesforce.com/sfga.js",function() { __sfga(); });
+			// adroll
+			adroll_adv_id = "S4D56JMSNJEAHITUG76RMU";
+			adroll_pix_id = "SRUU2TZ3YFHGDDB7BLYKC5";
+			
+			__adroll_loaded = true;
+			jQuery.getScript((isHttps?"https://s.":"http://a.")+"adroll.com/j/roundtrip.js", function() { });
+		</script>
+		
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				if (top && top.document && top.document.location.href != document.location.href && top.document.location.href.toLowerCase().indexOf('//www.lynda.com/') > 0)
+					top.document.location.href = document.location.href;
+
+				jQuery(window).resize(function() { jQuery('div.ac_results').hide(); });
+
+				
+					
+			});
+		</script>
+	
 
 </body></html>
