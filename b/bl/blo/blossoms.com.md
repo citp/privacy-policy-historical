@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518171815id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206011646id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
 
 # Cherry Blossoms: Privacy Policy
 
