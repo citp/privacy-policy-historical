@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animal-space.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624093137id_/http%3A//www.animal-space.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animal-space.net privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206155659id_/http%3A//www.animal-space.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Animal Space: Privacy Policy
 
@@ -22,10 +22,10 @@ Some of our advertising partners may use cookies and web beacons on our site. Th
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Animal-space.net privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options.More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 **DoubleClick DART Cookie**  
-Google, as a third party vendor, uses cookies to serve ads on Anaimal-space.net. .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to myfunnyworld.net and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+Google, as a third party vendor, uses cookies to serve ads on Animal-space.net. .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to myfunnyworld.net and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
 **External Links**  
 This site contains links to other sites. Animal-space.net is not responsible for the privacy practices or the content of such Web sites.
 
 **Contacting The Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](mailto:info@animal-space.net).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.animal-space.net/p/contact-us.html).
