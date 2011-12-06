@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asecurelife.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522041733id_/http%3A//www.asecurelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asecurelife.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206050223id_/http%3A//www.asecurelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,8 +18,7 @@ In order to provide our users with certain products or services on our Site, Con
 
 Our software automatically collects certain information from a user's computer when that user logs on or moves about our Site. We do not link this information to any other Personal Information the user tells us; we only use it to get a broad picture of who is on our Site and which areas our users are visiting. This information tells us what's important to our users and what isn't, allows us to make our Site more interesting and useful, and enhances security and efficiency on our Site. The two main ways in which we collect this general information are through:
 
-  * **Log Files** \- log files are records of user activity collected to analyze trends, administer the Site, track users' movements, and gather broad types of information for aggregate use. The kinds of general information we collect in the log files include:  
-
+  * **Log Files** \- log files are records of user activity collected to analyze trends, administer the Site, track users' movements, and gather broad types of information for aggregate use. The kinds of general information we collect in the log files include: 
     * The IP address of the user's computer.
     * How many people visit our Site.
     * Which pages of our Site are visited most often.
