@@ -1,0 +1,299 @@
+<!--The following is the downloaded HTML source of the infoisinfo.co.in privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206045923id_/http%3A//www.infoisinfo.co.in/policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta name="robots" content="NOINDEX,FOLLOW">
+		
+	<meta name="lang" content="en">
+	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+	<title>Privacy Policy</title>
+	<link rel="stylesheet" type="text/css" href="http://www.infoisinfo.co.in/static/css/general.css">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/static/js/js_all.min.js" type="text/javascript"></script>
+				<script type="text/javascript">
+			
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-27133635-1']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+			
+			</script>
+
+
+	</head>
+<body class=" yui-skin-sam">
+	<!--<script src="http://static.new.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>-->
+		<div class="siteContainer">
+		<div id="wrapper">
+			<!-- HEADER -->
+			<div class="header" id="header_nuevo">
+	<div class="logoArriba">
+		<div class="logoIzquierda">
+			<a href="http://www.infoisinfo.co.in"><img src="http://www.infoisinfo.co.in/static/images/in/logo.png" alt="InfoisInfo.co.in" title="InfoisInfo.co.in" style="width:189px;height:75px;"></a>
+		</div>
+		<div style="float:right">
+			<div id="cajaArriba" style="height:25px;"></div>
+			<div class="busqueda">
+				<div class="cajaBusqueda">
+					<form method="post" action="" id="frmBusqueda" onsubmit="return Busqueda();">
+						<!--<input type="hidden" id="hidIdLocalidad" name="hidIdLocalidad"/>-->
+						<div class="izq">
+							<div>
+								<input type="text" class="input" name="txtQue" id="txtQue" value="What are you looking for? ">
+							</div>
+						</div>
+						<div class="med">
+							<div><script src="/framework/yui/yahoo-dom-event/yahoo-dom-event.js" type="text/javascript"></script><script src="/framework/yui/json/json-min.js" type="text/javascript"></script><script src="/framework/yui/connection/connection-min.js" type="text/javascript"></script><script src="/framework/yui/datasource/datasource-min.js" type="text/javascript"></script><script src="/framework/yui/animation/animation-min.js" type="text/javascript"></script><script src="/framework/yui/autocomplete/autocomplete-min.js" type="text/javascript"></script><div class="autoCompleteContainer yui-ac" id="txtDondeContainer">
+	<input type="text" id="txtDonde" name="txtDonde" value="Where?" class="yui-ac-input" autocomplete="off">
+	<div id="autoCompletetxtDonde" class="yui-ac-container"><div class="yui-ac-content" style="display: none;"><div class="yui-ac-hd" style="display: none;"></div><div class="yui-ac-bd"><ul><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li></ul></div><div class="yui-ac-ft" style="display: none;"></div></div></div>
+</div>
+<script type="text/javascript">
+			pathtxtDonde = '/static/ubicaciones.php';
+		
+	var dataSourcetxtDonde = new YAHOO.util.XHRDataSource(pathtxtDonde);
+	
+	dataSourcetxtDonde.responseSchema 	= {recordDelim: "\n", fieldDelim: "\t"};
+	dataSourcetxtDonde.responseType 	= YAHOO.util.XHRDataSource.TYPE_TEXT;
+	
+	/*editable config*/
+	dataSourcetxtDonde.connMethodPost = true;
+	/*editable config*/
+
+var autoComptxtDonde = new YAHOO.widget.AutoComplete('txtDonde', 'autoCompletetxtDonde', dataSourcetxtDonde);
+autoComptxtDonde.allowBrowserAutocomplete = false;
+
+autoComptxtDonde.animVert 				= true;
+autoComptxtDonde.animHoriz 				= false;
+autoComptxtDonde.animSpeed 				= 0.3;
+autoComptxtDonde.delimChar 				= "";
+autoComptxtDonde.maxResultsDisplayed 	= 20;
+autoComptxtDonde.minQueryLength 		= 1;
+autoComptxtDonde.queryDelay 			= 0.1;
+autoComptxtDonde.autoHighlight 			= true;
+autoComptxtDonde.highlightClassName 	= 'yui-ac-highlight';
+autoComptxtDonde.prehighlightClassName 	= '';
+autoComptxtDonde.useShadow 				= true;
+autoComptxtDonde.forceSelection 		= false;
+autoComptxtDonde.typeAhead 				= false;
+autoComptxtDonde.alwaysShowContainer 	= false;
+autoComptxtDonde.queryMatchCase 		= false;
+autoComptxtDonde.queryMatchContains 	= false;
+
+/*events suscription*/
+	autoComptxtDonde.itemSelectEvent.subscribe(function(event, data) 
+			{ 
+				a = data[2];
+				b = a[2];
+				a = a[1];
+				document.getElementById("hidNombreUrl").value=b;
+				document.getElementById("hidDonde").value=a;
+			});
+/*events suscription*/
+
+
+	autoComptxtDonde.generateRequest = function(sQuery)
+	{ 
+		return 'query=' + sQuery + '';
+	};
+</script></div>
+							<div><input type="hidden" id="hidDonde" name="hidDonde"></div>
+							<div><input type="hidden" id="hidNombreUrl" name="hidNombreUrl"></div>
+						</div>
+						<div class="der">
+							<div style="float:left">
+								<input type="image" src="/static/images/transparent.png" class="fichasprite btn_buscar">
+							</div>
+							<div style="float:right">
+								<input style="height:29px;" type="button" value="Register your business for free" onclick="window.location.href='http://www.infoisinfo.co.in/registerbusiness/';">
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+function Busqueda()
+{
+	return !(document.getElementById('txtQue').value == '');
+}
+
+var muestroFancyboxHeader = true;
+function cerrarPopupMostrarDesloguear(loginExitoso,newUser)
+{
+	if (loginExitoso && !newUser)
+    {
+    	modificarLogin();
+    	if (muestroFancyboxHeader)
+		{
+			muestroFancyboxHeader = false;
+			$.fn.fancybox.close();
+		}
+    }
+    
+    return false;
+}
+function modificarLogin()
+{
+	$.post('/static/loguear.php',"",function(response,status)
+	{
+    	if (response != 'false') 
+    	{
+    		$('#loginUsuario').attr('innerHTML',response);
+    	}
+    }, 'text');
+}
+
+$(document).ready(function()
+{
+	$('#txtDonde').focus(function()
+	{
+		if ($('#txtDonde').val() == 'Where?')
+		{
+			$('#txtDonde').val('');
+			$('#txtDonde').addClass('textoNegro');
+		}
+	});
+	
+	$('#txtDonde').blur(function()
+	{
+		if ($('#txtDonde').val() == '')
+		{
+			$('#txtDonde').val('Where?');
+			$('#txtDonde').removeClass('textoNegro');
+		}
+	});
+	
+	
+	$('#txtQue').focus(function()
+	{
+		if ($('#txtQue').val() == 'What are you looking for? ')
+		{
+			$('#txtQue').val('');
+			$('#txtQue').addClass('textoNegro');
+		}
+	});
+	
+	$('#txtQue').blur(function()
+	{
+		if ($('#txtQue').val() == '')
+		{
+			$('#txtQue').val('What are you looking for? ');
+			$('#txtQue').removeClass('textoNegro');
+		}
+	});
+});
+</script>			<!-- FIN HEADER-->	
+			<!-- CONTENT -->
+			<div class="contentPage">
+				<!-- BREADCRUMB -->
+<div class="breadcrumb">
+	<div>
+		» <a href="http://www.infoisinfo.co.in">InfoIsInfo</a> / <span>Privacy Policy</span>	</div>
+	</div>
+<!-- FIN BREADCRUMB --><div class="content">
+	<div class="fichaPremium">
+		<div class="arriba"></div>
+		<div class="medio" id="estatica">
+			<div class="tituloPrincipal">Privacy Policy COMERLEADS, S.L.</div><div class="parrafo">In compliance with the provisions set forth in the Personal Data Protection Organic Law 15/1999, users of the site <a href="http://www.infoisinfo.co.in">www.Infoisinfo.co.in</a>, are made aware of our policy on the management of personal data in order to guarantee and protect the information collected.</div><div class="parrafo">Infoisinfo.co.in Infoisinfo.co.in is property of COMERLEADS S.L., which is owner of and responsible for the database generated from public sources and with the personal information provided by users.</div><div class="parrafo">By pressing SEND, you agree that the personal data you have provided to us is added on a file owned by COMERLEADS, S.L. The purpose of such file is to provide you with the services indicated in the page, send you commercial or advertising information relative to our services and send you commercial or advertising information relative to services and products you have requested, by any means of communication (by phone, SMS, electronic means, etc.). Likewise, with the purpose of making you aware of the offers relative to their services, you expressly authorise your data to be assigned to the company or companies from which you have requested information.</div><div class="parrafo">If you do not wish to receive information or if you wish to correct or remove your data from our file, please let us know by sending an e-mail to  users@infoisinfo.co.in or by mail to COMERLEADS, S.L. Calle Alejandro González, 5 – 6º B - 28028 Madrid [Address is in Spanish for mailing purposes], clearly indicating the reason for your letter, your name, surnames and address.</div><div class="subtitulo">COOKIES</div><div class="parrafo">In order to expedite the service provided, COMERLEADS, S.L. will use cookies to offer you a better and more personalised service. This cookie is installed when the navigation session on any of our Infoisinfo Sites starts. If the User does not wish that a cookie is saved on his hard disk, he must adjust his browser settings accordingly by using the procedure recommended by his browser or eliminate it directly from his computer. In this case, the speed and quality of the operation of the services of COMERLEADS, S.L. may decrease.COMERLEADS, S.L. will save your typical navigation route to adapt our services as much as possible to your preferences. The User expressly agrees to the use of cookies by COMERLEADS, S.L. with no need to request his consent each time he enters any of our Sites. The cookies sent to you are stored in your PC. The names of the servers that transmit or activate the data collection automatic procedures are under the domain Infoisinfo.co.in</div><div class="subtitulo">Data Requested and Treatment</div><br><div class="subtitulo">Right to Information</div><div class="parrafo">When the company or the user decide to register in the database of Comerleads, S.L., they are requested to provide only the data strictly necessary to achieve the purpose for which our Web is intended, which is to solely facilitate the communication between companies and users to allow them to contract the services and products of companies. To that effect, users will be required to send their needs on this company, which involves providing some personal information such as: name, address, telephone, e-mail, and other, necessary to achieve the purpose for which our Web is intended, which is to solely facilitate the communication between companies and users to allow them to contract the services and products of companies. The treatment of such data will be focused only on the achievement of that purpose, always within the established regulatory framework. By sending the information, the user agrees to the treatment thereof under the conditions described in the section of Privacy Control.</div><div class="subtitulo">Privacy Control</div><div class="parrafo">The user will have control over his data and will be able to access the Site at any time to modify his data and even to request the cancellation of use thereof by Infoisinfo.co.in.</div><div class="subtitulo">User’s Consent</div><div class="parrafo">By pressing the “SEND” button on the data collection forms, the user shall be deemed to have accepted the established terms and conditions. The personal data collected from our users is stored in a database owned by Comerleads, S.L., which guarantees proper technical and structural measures to prevent the integrity and security of the personal information provided. The information collected is adequate, appropriate and non-excessive in relation to the specific, explicit and legal scope, purposes and services on the Web Infoisinfo.co.in.</div><div class="subtitulo">Right to Opposition, Correction and Updating of Data</div><div class="parrafo">The user has the right to access this information, to modify it if the data is incorrect, and to deregister from the file. In the latter case, Comerleads, S.L. automatically loses the information. These rights can be immediately enforced once the user states his express intention of deregistering.</div><div class="parrafo">In the case of problems in the online effective performance, or for any kind of inquiry or controversy related to our data privacy policy, you may contact us directly:</div><div class="parrafo">By e-mail: users@infoisinfo.co.in <br>By phone: (+34) 913613686<br>By mail:COMERLEADS, S.L.<br>Calle Alejandro González, 5 – 6º B<br>28028 Madrid (Spain) </div>			<!--<div class="tituloPrincipal">Política de Privacidad de COMERLEADS, S.L.</div>
+			<div class="parrafo">
+				En cumplimiento de lo dispuesto en le Ley Orgánica de Protección de Datos de Carácter Personal 15/1999, se pone en conocimiento de los usuarios del site <a href="/http://www.infoisinfo.co.in">www.Infoisinfo.es</a>, nuestra política en la gestión de los datos de carácter personal a efectos de garantizar y proteger los datos recabados.
+			</div>
+			<div class="parrafo">
+				Infoisinfo.es pertenece a COMERLEADS S.L., que es titular y responsable de la base de datos generada de fuentes públicas y con la información de carácter personal suministrada por los usuarios.
+			</div>
+			<div class="parrafo">
+				Al presionar ENVIAR estas aceptando que los datos personales que nos has proporcionado sean incorporados en un fichero propiedad de COMERLEADS, S.L., La finalidad del fichero es la de prestarte los servicios indicados en la página, remitirte información comercial o publicitaria relativa a nuestros servicios así como la de remitirte igualmente información comercial o publicitaria relacionada con servicios y productos que hayas solicitado, mediante cualquier medio de comunicación (vía electrónica, telefónica, SMS, etc.); igualmente, y con la finalidad de hacerte llegar ofertas relacionadas con sus servicios, autorizas expresamente a que tus datos sean cedidos a la empresa o empresas de las que solicites información.
+			</div>
+			<div class="parrafo">
+				En caso de que no desees recibir información o desees rectificar o cancelar tus datos de nuestro fichero te rogamos que nos lo comuniques por e-mail a usuarios@Infoisinfo.es o por escrito a COMERLEADS, S.L. Calle Alejandro González 5, 6º B, 28028 Madrid. - indicando claramente el motivo de tu escrito, tu nombre, apellidos y dirección. 
+			</div>
+			<div class="subtitulo">
+				Cookies
+			</div>
+			<div class="parrafo">
+				Con la finalidad de agilizar el servicio ofrecido, COMERLEADS, S.L. utilizará "cookies", para ofrecerle un servicio mejor y más personalizado. Esta "cookie" se instala cuando comienza la sesión de navegación por cualquiera de nuestros Sites de Infoisinfo. Si el Usuario no desea que se instale en su disco duro una "cookie", debe configurar su navegador para no recibirlas, utilizando para este procedimiento el recomendado por su navegador, o bien eliminarla directamente en su ordenador. En este caso, la rapidez y calidad en el funcionamiento de los servicios de COMERLEADS, S.L. puede disminuir.
+			</div>
+			<div class="parrafo">
+				COMERLEADS, S.L. va a guardar su ruta de navegación típica para adaptar nuestros servicios lo máximo posible a sus preferencias. El Usuario consiente expresamente la utilización de "cookies" por COMERLEADS, S.L., sin que sea necesario de nuevo solicitarle su consentimiento cada vez que entre en cualquiera de nuestros Sites.
+			</div>
+			<div class="parrafo">
+				Las cookies que le enviamos se almacenan en su PC. Los nombres de los servidores que transmiten o activan los procedimientos automáticos de recogida de datos se encuentran bajo el dominio Infoisinfo.es
+			</div>
+			<div class="subtitulo">
+				Datos solicitados y tratamiento<br />
+				Derecho de información
+			</div>
+			<div class="parrafo">
+				Cuando la empresa o el usuario deciden registrarse en la base de datos de Comerleads, S.L., se solicitan los datos estrictamente necesarios para la consecución del fin al que está destinada nuestra web, que no es otro que el de facilitar la comunicación entre empresas y usuarios con la finalidad de poder contratar servicios y productos de empresas.<br />
+				A tales efectos se requerirá a los usuarios el envío de sus necesidades sobre esa empresa, lo cual conlleva facilitar algunos datos de carácter personal tales como:<br />
+				nombre, dirección, teléfono, e-mail y otros, necesarios para la consecución del fin al que está destinada nuestra web site, que no es otro que el de facilitar la comunicación entre empresas y usuarios con la finalidad de poder contratar servicios y productos de empresas. Su tratamiento estará enfocado únicamente a la consecución de este fin, siempre dentro del marco normativo establecido.<br />
+				Mediante el envío de los datos, el usuario da su consentimiento al tratamiento de los mismos, con los condicionantes que se comentarán en el apartado de Control de Privacidad.
+			</div>
+			<div class="subtitulo">
+				Control de la Privacidad
+			</div>
+			<div class="parrafo">
+				El usuario tendrá el control sobre sus datos y podrá acceder en todo momento a cambiar sus datos e incluso a solicitar la baja del uso de los mismos por parte de Infoisinfo.es.
+			</div>
+			<div class="subtitulo">
+				Consentimiento del usuario
+			</div>
+			<div class="parrafo">
+				Se entenderá que el usuario acepta las condiciones establecidas si pulsa el botón "ENVIAR' que se encuentra en los formularios de aportación de datos.
+			</div>
+			<div class="parrafo">
+				Los datos personales recogidos de nuestros usuarios son almacenados en una base de datos propiedad de Comerleads, S.L., que garantiza las medidas oportunas de índole técnica y estructural para prevenir la integridad y seguridad de la información personal aportada.
+			</div>
+			<div class="parrafo">
+				Los datos recabados son los adecuados, pertinentes y no excesivos en relación con el ámbito, las finalidades y servicios determinados, explícitos y legítimos de la web Infoisinfo.es.
+			</div>
+			<div class="subtitulo">
+				Derecho de oposición, corrección y actualización de datos
+			</div>
+			<div class="parrafo">
+				El usuario tiene derecho a acceder a esta información, a rectificarla, si los datos son erróneos, y a darse de baja del fichero. En este último caso, Comerleads, S.L. pierde la información automáticamente.
+			</div>
+			<div class="parrafo">
+				Estos derechos pueden hacerse efectivos inmediatamente cuando el usuario manifiesta su intención expresa de darse de baja. 
+			</div>
+			<div class="parrafo">
+				En caso de problemas para la realización efectiva on-line así como para cualquier tipo de duda o controversia respecto a nuestra política de privacidad de datos, se podrán dirigir directamente a:<br /><br />
+				Por e-mail: <a href="mailto:usuarios@Infoisinfo.es">usuarios@Infoisinfo.es</a><br /><br />
+				Por teléfono: Tel: (±34) 913613686<br />
+				Por carta:<br />
+				COMERLEADS, S.L.<br />
+				Calle Alejandro González, 5 – 6º B<br />
+				28028 Madrid
+			</div>-->
+		</div>
+		<div class="abajo"></div>
+	</div>
+</div>			</div>
+			<!-- FIN CONTENT -->
+			<!-- FOOTER -->
+			<div class="finContent"></div>
+			<div class="footer">
+				<div class="finalFooter">
+					<div class="contacto"><a href="http://www.infoisinfo.co.in/contact/">Contact with InfoIsInfo</a><span>|</span><a href="http://www.infoisinfo.co.in/terms/">Terms and conditions </a><span>|</span><a href="http://www.infoisinfo.co.in/policy/">Privacy Policy</a><span>|</span><a href="http://www.infoisinfo.co.in/style-book/">Stylebook</a></div>
+					<div class="copyright">© Copyright InfoisInfo 2011. All Rights Reserved</div>
+				</div>
+			</div>
+			<!-- FIN FOOTER -->
+		</div>
+	</div>
+		<script type="text/javascript">
+	$(document).ready(function()
+	{
+		$('#cajaArriba').load('/static/islogin.php');
+	});
+	</script>
+<!-- Generado el 06/12/2011 05:59:23 -->
+
+
+<!-- 0.086479902267456 using MemCacheConnection served by 74.86.211.164 --></body></html>
