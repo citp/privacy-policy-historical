@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the photocase.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304182304id_/http%3A//www.photocase.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photocase.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206162916id_/http%3A//www.photocase.com/privacy) for the most accurate reproduction.*
 
 # Photocase - Privacy policy
-
-## Privacy Policy - Photocase
 
 ### Status: June 2010
 
@@ -10,7 +8,7 @@ Data protection is a special concern for us. As a user of our service you are en
 
 This declaration is designed to inform you of the data protection aspects of our offer and of what action we take to protect your rights.
 
-Moreover, you declare, in regard to some processing steps, that we may, in certain circumstances and to a certain extent, collect, process and use your personal data. Of course, you may revoke your consent at any time via [email](https://web.archive.org/web/20110304182304id_/http%3A//www.photocase.com/contact.asp) and/or in [writing](https://web.archive.org/web/20110304182304id_/http%3A//www.photocase.com/imprint)
+Moreover, you declare, in regard to some processing steps, that we may, in certain circumstances and to a certain extent, collect, process and use your personal data. Of course, you may revoke your consent at any time via [email](https://web.archive.org/web/20111206162916id_/http%3A//www.photocase.com/contact) and/or in [writing](https://web.archive.org/web/20111206162916id_/http%3A//www.photocase.com/imprint)
 
   * 1\. Collection and processing of personal data
   * 2\. Use of the data
@@ -116,15 +114,13 @@ Should you, however, wish to generally discontinue the use of cookies, you may u
 
 We have taken technical and organisational measures to ensure that your personal data are protected from loss, incorrect changes or unauthorised access by third parties. For our part we consistently make sure that only authorised persons will have access to your personal data and that such access is limited to what is required for the purposes referred to above. Our security precautions are continuously being improved as better technical solutions become available.
 
-## Privacy Policy - Photocase
-
 ### Status: June 2010
 
 Data protection is a special concern for us. As a user of our service you are entitled to the largest possible measure of sensitivity on our part in handling your personal data and to our commitment to a high degree of data security. What we do to satisfy the requirements of the Federal Data Protection Act (Bundesdatenschutzgesetz, BDSG) and of the Law on Data Protection in the Area of Tele Services (Gesetz über den Datenschutz bei Telediensten, TDDSG) is guided by the endeavour to reflect our respect for your privacy and your right of personality.
 
 This declaration is designed to inform you of the data protection aspects of our offer and of what action we take to protect your rights.
 
-Moreover, you declare, in regard to some processing steps, that we may, in certain circumstances and to a certain extent, collect, process and use your personal data. Of course, you may revoke your consent at any time via [email](https://web.archive.org/web/20110304182304id_/http%3A//www.photocase.com/contact.asp) and/or in [writing](https://web.archive.org/web/20110304182304id_/http%3A//www.photocase.com/imprint)
+Moreover, you declare, in regard to some processing steps, that we may, in certain circumstances and to a certain extent, collect, process and use your personal data. Of course, you may revoke your consent at any time via [email](https://web.archive.org/web/20111206162916id_/http%3A//www.photocase.com/contact) and/or in [writing](https://web.archive.org/web/20111206162916id_/http%3A//www.photocase.com/imprint)
 
   * 1\. Collection and processing of personal data
   * 2\. Use of the data
