@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607205535id_/http%3A//www.flsenate.gov/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206234543id_/http%3A//flsenate.gov/About/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement Flsenate.gov - The Florida Senate
 
@@ -15,10 +15,3 @@ In addition, information is only gathered regarding the volume and timing of acc
 If you choose to share personal information, such as by subscribing to an e-newsletter, sending a message, or filling out an electronic form, please be aware that **under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.**
 
 Some of the information you provide may be saved for a designated period of time in order to comply with the state of Florida's archiving policies. If you have questions about _flsenate.gov_ privacy policies, or have suggestions on how these policies can be improved, please feel free to call Legislative Information Services at (850) 488-4371. The toll-free number for Florida residents is 1-800-342-1827.
-
-Send correspondence to:
-
-The Division of Legislative Information Services  
-Claude Pepper Building, Room 704  
-111 West Madison Street  
-Tallahassee, FL 32399-1400.
