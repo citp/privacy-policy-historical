@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyzo.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620192632id_/http%3A//www.wyzo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyzo.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206154718id_/http%3A//www.wyzo.com/legal/privacy) for the most accurate reproduction.*
 
 # Wyzo - Privacy Policy
 
