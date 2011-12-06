@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the michiganlottery.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605192103id_/http%3A//www.michiganlottery.com/display_page%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganlottery.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206015937id_/http%3A//www.michiganlottery.com/display_page%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Michigan Lottery
 
 ### Michigan Lottery Player’s Club™ Privacy Policy
 
-[Click here](http://www.michiganlottery.com/?cid=p1core-tbx05.f.1800/b1506/4ef/e9f5fe97.40d13ad8da5444f3ea0c09349d5332ff) to go to the Player's Club home page. 
+[Click here](http://www.michiganlottery.com/?cid=p1core-tbx02.f.1800/b3763/6f1/5982424c.123e026082f789608733637bebcbd8d9) to go to the Player's Club home page. 
 
 Last updated: May 28, 2010
 
@@ -38,4 +38,4 @@ The Michigan Lottery Player’s Club™ website may contain links to external we
 
 The Michigan Lottery reserves the right to make changes to this Privacy Policy at any time and for any reason without prior notice. It is your responsibility to reference this Privacy Policy page regularly to be familiarized with its content. For your convenience, a date is posted at the beginning of this Privacy Policy which indicates the last time any revisions were made. Your use of this website anytime after a change shall be recognized as your acceptance of the most current version of the Privacy Policy.
 
-[Click here](http://www.michiganlottery.com/?cid=p1core-tbx05.f.1800/b1506/4ef/e9f5fe97.40d13ad8da5444f3ea0c09349d5332ff) to go to the Player's Club home page.
+[Click here](http://www.michiganlottery.com/?cid=p1core-tbx02.f.1800/b3763/6f1/5982424c.123e026082f789608733637bebcbd8d9) to go to the Player's Club home page.
