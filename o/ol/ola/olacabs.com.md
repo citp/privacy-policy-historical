@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olacabs.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114172242id_/http%3A//www.olacabs.com/info/faqs%23privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olacabs.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206041556id_/http%3A//www.olacabs.com/info/faqs%23privacyPolicy) for the most accurate reproduction.*
 
-# Book Cabs and Car Rentals Online
+# FAQs | Car rental India | book cabs online | Olacabs.com
 
   Payment Related 
 
@@ -38,8 +38,8 @@ A: Yes. You can change the date of booking till 2 days before the booked date fr
 Q: How do I cancel my booking? What are the charges?  
 A: You can cancel your booking anytime. The cancellation charges are as follows:  
 48 hours before booked time: No Charge  
-24 - 48 hours before booked time: 20% of the booking amount  
-0 - 24 hours before booked time: 50% of the booking amount
+24 - 48 hours before booked time: 50% of the advance amount  
+0 - 24 hours before booked time: 100% of the advance amount
 
   Terms and Conditions 
 
@@ -56,7 +56,6 @@ The use of this website is subject to the following terms of use:
   * All trade marks reproduced in this website which are not the property of, or licensed to, the operator are acknowledged on the website. 
   * Unauthorized use of this website may give rise to a claim for damages and/or be a criminal offense. 
   * From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s). 
-  * You may not create a link to this website from another website or document without Olacabs's prior written consent. 
   * Your use of this website and any dispute arising out of such use of the website is subject to the laws of India or other regulatory authority. 
 
 
@@ -97,6 +96,7 @@ We require this information to understand your needs and provide you with a bett
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests. 
 
+  
 
 
 **Security**  
@@ -116,7 +116,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to support@olatrip.com.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to support@olacabs.com.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
