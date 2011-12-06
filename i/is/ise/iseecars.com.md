@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iseecars.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608170617id_/http%3A//www.iseecars.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iseecars.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206205012id_/http%3A//www.iseecars.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Cars for Sale
 
