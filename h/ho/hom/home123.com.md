@@ -1,84 +1,97 @@
-> *The following text is extracted and transformed from the home123.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216233004id_/http%3A//home123.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home123.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206170633id_/http%3A//home123.com/privacy.php) for the most accurate reproduction.*
 
 # Home123 - Privacy Policy
 
-Home123.com is committed to respecting the privacy of our website visitors. To demonstrate that commitment, we have developed this website privacy policy. The Home123.com website privacy policy is intended to address the following areas: 
+**_Home123.com Privacy Statement_**
 
-Information that Home123.com collects when you visit the website. 
+**_Overview_**
 
-How Home123.com collects information from visitors to the website. 
+By visiting and using our website(s), or using mobile applications that link to this Privacy Statement, you are acknowledging that you have read, understand, and agree to our terms of service and our privacy statement. 
 
-How Home123.com uses the information that we collect. 
+We appreciate you visiting our website and want you to know that we place a high importance on protecting the privacy of our customers and value our relationship with you.  Just as we expect you to respect our terms of service, we want you to know that we respect and protect your privacy.  On our website(s) are links to other sites (e.g., through an advertisement, service, or content link).  Once you enter another website, please be aware that we are not responsible for the privacy practices and policies of these other sites.  We encourage you to locate and review the privacy statements of all the websites you visit through a link or advertisement on our website(s). 
 
-Who Home123.com may share the information with. 
+**_What information do we collect?_**  
 
-How Home123.com protects your personal information. 
-
-How you may access and change the information that Home123.com collects. 
-
-Children under the age of 13. 
-
-You should carefully read this website privacy policy because it could affect your use of the Home123.com website, and the services that Home123.com offers through the website. But it may not necessarily apply to many of the transactions that you may be able to conduct through (or learn about) on the website. 
-
-Each financial institution that you link to through the Home123.com website will have other privacy practices that must be followed as required by federal law. Those privacy practices will relate to your relationship with each particular financial institution or their affiliates. Home123.com, as a non-banking or financial institution, is not responsible for the privacy practices of banks or other financial institutions that you establish business relationships via Home123.com. 
-
-Information that Home123.com collects when you visit the website. 
-
-Home123.com may collect personal information such as name, telephone number, email address, social security number, and home or mailing address when you access certain areas of the website that require registration for certain services. At other times, Home123.com may collect information that cannot be used to identify you. For example, we may aggregate non-personal information about you and other customers who visit our website. Aggregated information will not contain any information that can be linked directly back to you. Such information will be used to analyze the effectiveness of our business and advertising models. 
-
-In order to provide you with effective services, we may collect personal and non-personal information about you from our affiliated entities, business partners, service providers, and other third parties. For example, we may obtain information about your home, the services that you purchased for your home, or other demographic information. 
-
-How Home123.com collects information from visitors to the website. 
-
-Home123.com uses a number of tools to collect information about you, your computer, and the web browser that you use to connect to our website. For example, cookies are tiny text files that we place on your computer's hard drive when you visit our website. We use cookies to personalize your website experience. We collect information on the pages that you visit, the advertisements that you click, and other actions that you take while using our website. You do not have to accept our cookies and you may delete them after they have been placed on your hard drive. If you do not accept or delete our cookies, some areas of our website that you access may not function properly. 
-
-Home123.com also collects additional information from your web browser each time you visit our website. This information includes your IP address, the type of browser, the time that your browser was used to access our website, the content from our cookies, and the referring website address. We may also use other standard web-based technologies to analyze your movements while accessing our website. The technologies include, web “beacons,” “pixel tags,” and “clear gifs.” These technologies help us ascertain the effectiveness of our advertising campaigns, allow us to customize the services offered on our website, and help determine the best use for website content and programming. Some of this information, including the IP address that we obtain from your browser, is stored on our server logs, and may be available for extended periods of time. 
-
-Sometimes our authorized service providers, business partners, or other affiliated businesses and ad networks display advertisements on our website. Tracking technologies may be used to monitor your interactions with the advertisements while on the website. The technology will allow Home123.com to provide targeted advertising and evaluate the effectiveness of advertising campaigns. 
-
-How Home123.com uses the information that we collect. 
-
-Home123.com uses the information that we collect about you to deliver products and services specific to your needs, to help organize and manage your customer relationship and our business, to conduct business, to provide you with customer support, to perform functions that are described to you at the time of collection, and to enforce our Terms & Conditions. Home123.com may use your personal information to contact you via mail or email, or telephone or mobile devices in order to give you updates about Home123.com or other third parties' product and service offerings, and promotional events that may be of interest to you. 
-
-If you are applying for employment with Home123.com we will use that information solely in connection with your application for current or future positions of employment, and we may also share your application information with our third parties, business partners, or affiliates that have positions that you may be qualified for. 
-
-We may also share your personal information with real estate and financial professionals and their related businesses, credit bureaus, other institutions, as well as companies that help us promote contests and sweepstakes. 
-
-Special notice to California residents: 
-
-Home123.com will not share any personal information about you with our affiliates to the extent prohibited by California law, unless you agree otherwise as authorized by your prior written consent. 
-
-California residents have the right to request information from us regarding the manner that we may share personal information with affiliated companies and other third parties for their direct marketing purposes. To find out what and how we share such information, you may send us an email request at webmaster@home123.com or mail a request to Home123, 2033 Milwaukee Ave, Suite 237, Riverwoods, IL 60015, Attn California Resident, and receive the following information: 
-
-  1. The categories of information we disclosed to third parties for their direct marketing purposes during the preceding year; 
-  2. The names and addresses of the third parties who received information for their direct marketing purposes; and 
-  3. Examples of the products and services subject to the third parties direct marketing programs, if the nature of the third parties' business cannot be determined from their names. 
+  1. We collect personal data such as your name, phone number, e-mail address, mailing address, and best time(s) to reach you when you are asked to give us that data in order for us to provide you with services or information you request.  By providing us that data you are opting into allowing us to use that data to respond to your request for information or services. 
+  2. We collect personal data to deliver or allow access to our services. 
+  3. We collect information, such as your IP address, operating system, and browser information (e.g., browser type and version), to understand how the computer system you are using interacts with us, and how you are interacting with our website. 
+  4. When you connect to us using a mobile application we may also collect information about your mobile device, your mobile carrier, and possibly your location (depending on the configuration settings in your mobile device). 
+  5. We use common internet technologies, such as cookies, pixel tags, web beacons, single-pixel GIFs, and clear GIFs, to manage our websites and services, e-mail and other marketing programs, and the advertising on our website. 
+  6. We collect user feedback including survey information that you elect to provide to us. 
+  7. We may obtain from commercially available sources additional information about you. 
 
 
 
-Home123.com may also disclose your personal information as is necessary to: (a) comply with a subpoena or court order; (b) cooperate with law enforcement or other government agency; (c) establish or exercise our legal rights; (d) protect the property or safety of our company and employees; (e) defend against legal claims; (f) help with internal and external investigations; or (g) as otherwise required by law or permitted by law. We may disclose your information in connection with the sale or merger of Home123.com, or any transaction that involves the sale or assignment of some or all of our assets. 
+We use common Internet technologies to provide useful information regarding our website(s), such as the pages visitors view or ads visitors click on.  We also keep track of how visitors get to our website(s) and any links they click on to leave our website(s).  We do not track URLs that you type into your browser, nor do we track you across the Internet once you leave our site(s). 
 
-Some of the third parties with whom we share personal information may have their own website privacy policies. If that is the case, those entities' website privacy policies will govern the use, handling and further disclosure by the third parties of your personal information once we have shared your personal information with such third parties. You should visit the websites and read the privacy policies of those third parties. Some third parties merely provide links to our website. And those third parties will also have separate privacy policies that will govern how your information is used by those websites. 
+During your visit to our website(s) you may request us to provide you with additional information and/or services.  In order for us to accommodate your request you need to provide us with sufficient information to allow us to respond appropriately.  For example, you may be requested to provide your name, phone number, e-mail address, mailing address, and/or best time to contact you.  When you connect to us using a mobile application we may also collect information about your mobile device, your mobile carrier, and possibly your location (depending on the configuration settings in your mobile device). 
 
-How Home123.com protects your personal information. 
+**WHEN YOU PROVIDE US WITH PERSONAL DATA YOU ARE REPRESENTING AND WARRANTING TO US THAT YOU HAVE ALL LEGAL RIGHTS AND AUTHORITY TO PROVIDE US WITH THAT DATA, AND THAT THE DATA IS ACCURATE.   THUS, IF YOU ARE PROVIDING US THE PERSONAL DATA ON BEHALF OF SOMEONE ELSE, THEN YOU ARE SOLELY RESPONSIBLE FOR OBTAINING PRIOR EXPRESS AUTHORIZATION FROM THAT OTHER PERSON TO PROVIDE US WITH THAT DATA.  IN ANY AND ALL CASES, YOU AGREE THAT YOU WILL INDEMNIFY AND HOLD US HARMLESS FROM ANY AND ALL LIABILITIES, COSTS, DAMAGES, AND EXPENSES (INCLUDING ATTORNEY FEES AND COURT COSTS) IN THE EVENT OF A BREACH OF YOUR WARRANTY AND REPRESENTATION STATED IN THIS PARAGRAPH.**
 
-Home123.com has implemented physical, electronic, and procedural security measures to assist with safeguarding your personal information, and to help protect against unauthorized access and disclosure. Only our employees and authorized service providers who are performing legitimate business functions for Home123.com are permitted to access your personal information. We also use encryption to protect any sensitive personal information that is transmitted or authorized to be transmitted by Home123.com, and we also use electronic firewalls to help prevent unauthorized individuals from gaining access to your personal data. 
+Some of the third parties whom you may meet on our website (e.g., sponsors, advertisers, and third party services providers) may ask you for additional data.  When these third parties are requesting additional data from you, they, not us, will be collecting that data on their servers and/or website(s).  This additional data will be subject to the third party’s privacy statements and terms of service.  Because we do not control the privacy practices or policies of these third parties, you should review their privacy statements and terms of service before you provide them with any personal data in order to learn more about how they collect and use your personal information. 
 
-Notwithstanding our efforts, the Internet has inherent security risks. Home123.com cannot promise, and you should not expect, that your personal information, personal searches, and other communications will always remain secure. You should take care with regard to how you handle and disclose your personal information. 
+**Collecting of data in mobile applications:   **
 
-How you may access and change the information that Home123.com collects. 
+When using mobile applications and services to connect with us (including mobile applications that we provide you and mobile applications that you use to connect with us), we may collect personal information from you such as your phone number, mobile device type, and communications carrier.   We use this information in order to set up and manage our relationship with you as well as contact you about your services.  We use your information to process and personalize your requests.  We also use the information for support, to develop new features, and to improve the overall quality of our products and services.  We may also use the information to show you a history of your activity, to provide you with statistics about you or your use of our product or service, or to provide you with a better user experience.  If you give us permission, we may also use your information to contact you about special offerings that may interest you.  If you sign up for a mobile message service from us, you will have the opportunity to stop receiving mobile messages by following the instructions in the message or on our website.  You are responsible for all charges incurred by you with your mobile communications carrier for any mobile messaging services.  Please be aware that if you use location enabled products and services on whatever device you use to connect with us, you may be sending us location information which may or may not reveal your actual location.  
 
-The first time that you provide us with registration information through our website, you will be able to decide whether you want to subscribe to Financial Institutions emails or newsletters. After your first use, you can change your initial choices by contacting customer service email at webmaster@home123.com. Each commercial email that we send to you, will offer you the opportunity to opt-out of continuing to receive such messages. We may take up to 10 days to process your opt-out requests. In some instances, we may have already shared your information with one of our authorized third parties before you changed your email and newsletter choices. FTC email compliance guidance allows us to send you transactional and relationship email without offering you the opportunity to opt-out of receiving those types of email. In those cases, you may have to directly contact those third parties to opt-out of receiving their communications. 
+In the event you sign up for a third-party application or service through our website(s) or through a mobile device, we may share information about your mobile device in order to provide the information or service you requested. **  **Your carrier may have access to the information we collect.  You should review your carrier’s privacy statement and the privacy statements for any third-party services or applications you use. 
 
-Children Under the Age of 13 
+You are required to follow all applicable laws, including unsolicited communication laws.  If you sign up for a mobile messaging service (e.g., SMS or MMS) through which you have the ability to send mobile (“text”) messages to other individuals or businesses, you understand that you will be responsible if you violate those laws.  You should also be aware that your mobile service provider may be required to monitor your messages for inappropriate content, and your provider may pass on that monitoring obligation to us. To fulfill these requirements, we may monitor your mobile messages for inappropriate content. 
 
-Home123.com's website is a general audience website. But Home123.com's content is neither directed toward minors nor children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If Home123.com becomes aware that a child under the age of 13 has provided us with personal information, that information will be deleted from our databases. Parents who have questions about personal information that may have been submitted by a child under the age of 13 should email us at childrensprivacy@home123.com. 
+**_How do we protect the information we collect?   _**
 
-Home123.com is owned by Mortgage Brand Holdings LLC, and operated by Brandivation, LLC, a Delaware Limited Liability Company. Whenever we make a material change to this Privacy Policy, we will post a notice on the Home123.com home page. The notice will inform you the Privacy Policy has been posted as of the dated last updated. 
+  1. We use industry recognized security safeguards and technologies to protect the information we collect from loss, misuse, or unauthorized alterations. 
+  2. We have physical, electronic, and procedural safeguards enveloping our servers.   
+  3. We train our employees to be mindful of protecting your information. 
+  4. We engage third party resources, as well as using our internal resources, to monitor and review our security procedures. 
+  5. We encrypt sensitive data that you send to us and maintain that encryption when the data is in transit. 
 
-If you have provided Home123.com with personal information, we will always offer you the opportunity to choose whether to receive communications from us at the time you provide us with that information. You can always update your personal information and communication preferences by contacting us at onlinesupport@home123.com. 
 
-If you have any questions regarding this privacy policy, please email us at [privacy@home123.com ](mailto:privacy@home123.com). 
+
+   
+How you protect your personal data plays a big role in preventing loss or misuse of your personal data.  There are a number of paths to identity theft and fraud scams, some of which look very authentic but are actually not.  For example, e-mail phishing scams look like an authentic email from a company you are dealing with, or may have had dealings with, and may warn you of a problem with your account, or raise some other threating condition requiring you to take immediate action by clicking on a link in the email or opening an attachment to the email.  In some instances, they may say you have won a prize or are the beneficiary of some monetary reward or bequest.  Your first reaction to an unsolicited suspicious e-mail should be to seek independent verification of the e-mail’s substance and content – do **_NOT_** click on the links, open the attachments, or even reply to the e-mail.  For example, call the sender of the e-mail or, if appropriate, open your Internet browser and visit their website directly by entering the website’s address (the “URL”) yourself and without using a link in the suspicious e-mail.  For additional information about how you can protect your personal data, take a look at the online resources provided by the [Federal Trade Commission](http://www.ftc.gov/) including the [FTC’s Identity Theft Site](http://www.ftc.gov/bcp/edu/microsites/idtheft/).  We will not request sensitive personal data from you via an e-mail.  If you receive an e-mail that appears to have come from us requesting such information, please forward it us at [security@home123.com](mailto:security@home123.com).   
+
+**_How do we use the information we collect?   _**
+
+  1. We use your data to provide you with information and services that you request from us and/or third parties, to inform you about other products and services, and to customize your experience on our website(s). 
+  2. We use your data to connect you with third party providers from whom you are requesting products or services.  For example, if you are interested in a house, a mortgage, or a car, and provide us with your name, phone number, email address, and/or best time to contact you, then we will provide that data to third parties for the purpose of having them fulfill your request to have them contact you.  Once you have connected with these third parties, you alone are responsible for choosing whether or not you provide them with any additional data and should make that choice only after you have carefully read, reviewed, and accepted their privacy statements. 
+  3. We use your data to track your activity on, and maintain statistics about, our website(s); to help us develop new functionality for our website(s); to help us evaluate and improve the experience you and others have with our website(s); and to improve the quality of the services presented on our website(s). 
+  4. We may aggregate your data anonymously with anonymous data from other visitors to our website(s) in order to help understand and improve how visitors are using the website(s) and using the services we offer on the website(s), and to provide us, and third parties working with us, with information that may help us develop new services for our website(s). 
+
+
+
+We use your website activity to assist you by reducing the need to re-enter your data and to help us resolve technical support issues.  We may also use this information to offer you a personalized experience on our website(s), and to customize our offerings to you.  Remember, you control whether you receive our promotional communications through e-mail, phone, or postal mail. 
+
+We also may share non-identifiable, non-personal aggregate information about our visitors with third parties, such as advertisers or partners, for marketing and promotional purposes.  We and our subsidiaries may exchange information about your transactions to fulfill your requests.  However, whenever we exchange information with any of our subsidiaries, you should know that we offer you the opportunity to review privacy statements at our subsidiaries' websites.  Unless you have asked us not to contact you, we may also provide you information about products or services we believe you may be interested in. 
+
+When we believe, in good faith, that we're required to by law, or to protect our legal rights, we may disclose, access, or report your personal information to third parties.  We may also do this in connection with an investigation into a suspected violation involving the terms of service, intellectual property infringement, fraud, or other activity that may be illegal or expose us to legal liability.  By way of example, and not limitation, we may be required to disclose personal information to cooperate with regulators or law enforcement authorities, or to comply with a court order, subpoena, search warrant, or other law enforcement request.  We may also share information with other companies, lawyers, credit bureaus, government agencies, and credit card associations in connection with issues related to fraud, credit, or debt collection. 
+
+**_Children under 13_**
+
+Our websites are not for children under 13 years old.  We do not knowingly solicit data online from, or market online to, children under 13.  If we knowingly receive a child’s personal data, we will delete it from our systems. 
+
+**_How can you change the way we contact you?   _**
+
+  1. While we hope you find the information and services available on our website(s) helpful, if you wish to update how we contact you (e.g., provide us with a new email or mailing address) or just want to opt-out of us sending you information, then click here or contact us in writing to let us know you wish to opt-out of us sending you information.  Please allow at least five (5) business days from the date we receive your request until the change(s) will be reflected in our databases.  If you have signed up with any third parties you met through our website or elsewhere, you will need to contact each of them individually to let them know if you wish to opt-out from receiving further communications from them. 
+
+
+  1. PLEASE NOTE THAT IF YOU CHOOSE TO OPT-OUT FROM RECEIVING INFORMATION FROM US YOU WILL NOT RECEIVE OFFERS ON SERVICES, PROMOTIONS, OR SPECIAL DISCOUNTS THAT MAY BE OF INTEREST AND/OR BENEFIT TO YOU INCLUDING ANNOUNCEMENTS ON PRODUCTS AND/OR SERVICES THAT YOU MAY CURRENTLY USE OR OWN. 
+
+
+
+**_How can you contact us?     _**
+
+If you have any questions or concerns about our collection, use, or disclosure of your personal data, please contact us in writing: 
+
+  1. By email:  [PrivacyTeam@home123.com](mailto:PrivacyTeam@home123.com). 
+  2. By using our online form available here. 
+  3. By mail:  Privacy Team, Brandivation LLC, 2033 Milwaukee Ave, Suite 237, Riverwoods, IL 60015. 
+
+
+
+**_Can we change this Privacy Statement?_**
+
+Yes, we may change this Privacy Statement at any time.  Changes are effective when we post them to our website(s).  You should periodically check this website to see if the Privacy Statement has changed and, in particular, you should check this Privacy Statement before providing additional data to us or changing any data you have submitted to us.  If we sell, merge, or transfer any part of our business, part of the sale may include your personal information.  If so, provided that we have your current (and accurate) contact information, you will be asked if you'd like to stop receiving promotional information following any change of control. 
 
   
 
