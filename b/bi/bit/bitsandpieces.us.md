@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitsandpieces.us privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607193806id_/http%3A//bitsandpieces.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitsandpieces.us privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206152845id_/http%3A//bitsandpieces.us/privacy) for the most accurate reproduction.*
 
 # Privacy « Bits and Pieces
 
@@ -39,5 +39,3 @@ Google, as a third party vendor, uses cookies to serve ads.
 Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-Comments are closed.
