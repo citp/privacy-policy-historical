@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fender.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629000653id_/http%3A//www.fender.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fender.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206181343id_/http%3A//www.fender.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Fender® Privacy Policy
 
