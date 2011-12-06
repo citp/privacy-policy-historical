@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602233801id_/http%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206185730id_/http%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Michelle Bridges 12 Week Body Transformation
+# Privacy Policy- 12 Week Body Transformation
 
 ## Michelle Bridges Privacy Policy
 
-Protecting your privacy: _Michelle Bridges Online at Suite 502, 105 Pitt Street Sydney, NSW 2000_ (“ **us** , **we** , **our** ”) are committed to protecting the information about you that we collect, store and use. We manage your information in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth).
+Protecting your privacy: _12WBT at Suite 502, 105 Pitt Street Sydney, NSW 2000_ (" **us** , **we** , **our** ") are committed to protecting the information about you that we collect, store and use. We manage your information in accordance with the National Privacy Principles set out in the Privacy Act 1988 (Cth).
 
 By accessing the website you accept the terms and conditions of its use, including consent to the collection, use and disclosure of your personal information in accordance with this privacy policy.
 
@@ -24,7 +24,7 @@ We will preserve the content of any email or information you submit if we believ
 
 ### MARKETING MATERIAL
 
-If you consent to us doing so, we may provide you with material from time to time about new services and products available to you from us, or other service providers in partnership with us. This information will only come from us. We will not pass on or on-sell your personal information to other providers without your consent. When we collect your contact information we will ask you if you consent to receiving marketing material. If at any time you no longer consent then you must click the ‘unsubscribe’ link on the mail-out.
+If you consent to us doing so, we may provide you with material from time to time about new services and products available to you from us, or other service providers in partnership with us. This information will only come from us. We will not pass on or on-sell your personal information to other providers without your consent. When we collect your contact information we will ask you if you consent to receiving marketing material. If at any time you no longer consent then you must click the 'unsubscribe' link on the mail-out.
 
 ### PROTECTING AND MAINTAINING PERSONAL INFORMATION
 
@@ -48,4 +48,4 @@ If you know the information we hold about you is not accurate or complete, pleas
 
 If you have any concerns about how we handle your personal information or require further information, please contact the Privacy Officer at [admin@12wbt.com](mailto:admin@12wbt.com). Also use this contact if you no longer consent to receiving marketing material from us, or to the posting of your personal information on the website.
 
-The information contained in this policy is subject to change without notice. We encourage you to regularly review this statement to inform yourself of any amendments. Copyright © _19 January 2010 Michelle Bridges Online_ ABN 97 842 284 279. All rights reserved.
+The information contained in this policy is subject to change without notice. We encourage you to regularly review this statement to inform yourself of any amendments. Copyright © _19 January 2010 12WBT_ ABN 99 151 773 134. All rights reserved.
