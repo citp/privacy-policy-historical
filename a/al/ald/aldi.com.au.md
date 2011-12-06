@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aldi.com.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406075925id_/http%3A//www.aldi.com.au/au/html/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldi.com.au privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206050200id_/http%3A//www.aldi.com.au/au/html/privacy_policy.htm) for the most accurate reproduction.*
 
 # ALDI - Privacy Policy
 
@@ -36,7 +36,7 @@ If you have further questions relating to this Privacy Policy, please contact us
 **    
 The personal information we collect is used to provide goods or services to you and to operate our business.
 
-  We may use your personal information to advise you of new products and services or special offers or promotions. If at any time you do not wish to receive such information from us, you may remove your name from our list by calling us on (02) 9675 9000 and asking to be removed from our mailing list.  Alternatively, if we have sent you this information by email, you can use the unsubscribe link at the end of the email.  In either case, please allow 28 days for this request to be processed.
+  We may use your personal information to advise you of new products and services or special offers or promotions. If at any time you do not wish to receive such information from us, you may remove your name from our list by calling us on (02) 9675 9000 and asking to be removed from our mailing list.  Alternatively, if we have sent you this information by email, you can use the unsubscribe link at the end of the email.  In either case, please allow 5 business days for this request to be processed.
 
   In the course of our business, we use a range of service providers to help us maximise the quality and efficiency of our services and business operations.  This means that individuals and organisations outside of ALDI Stores may sometimes have access to personal information held by ALDI Stores and may use this on behalf of ALDI Stores.  We require our service providers to adhere to strict privacy guidelines and not to keep this information or use it for any unauthorised purpose.
 
