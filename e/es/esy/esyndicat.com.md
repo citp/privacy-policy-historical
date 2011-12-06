@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601084516id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206111418id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: eSyndiCat Directory Software, Directory Script
 
@@ -30,4 +30,4 @@ Alternatively you can report piracy using our [contact form](http://www.esyndica
 
 ## Testimonials
 
-Now I'm going to put the script through it's paces, but I can see already it's a great program. I've download 8 scripts and this is the only one with full unicode support, which means I can handle Chinese with it using the utf-8 encoding.
+I would like to thank you for building such a fantastic software program. I have used your software for the past 5 months to build the largest and most professional personal injury directory on the internet. Your software is extremely easy to use and very powerful. I could not be more happy with my decision to use Esyndicat for my directory. 
