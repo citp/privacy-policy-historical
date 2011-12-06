@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the club937.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607035509id_/http%3A//club937.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the club937.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206072624id_/http%3A//club937.com/privacy) for the most accurate reproduction.*
 
 # 93.7 WRCL Radio - Today's Hottest Jams - Flint Music
 
