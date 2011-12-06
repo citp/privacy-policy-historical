@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naxos.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605075815id_/http%3A//www.naxos.com/h_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naxos.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206131435id_/http%3A//www.naxos.com/h_privacy.asp) for the most accurate reproduction.*
 
 # Naxos Privacy Policy-Naxos.com
 
