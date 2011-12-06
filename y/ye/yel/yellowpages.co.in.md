@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages.co.in privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521045218id_/http%3A//www.yellowpages.co.in/static/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.co.in privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206062102id_/http%3A//www.yellowpages.co.in/static/privacy-policy.html) for the most accurate reproduction.*
 
 # Infomedia Yellow Pages, India's No 1 Yellow Pages Directory with 50000+ Trusted & Verified Business
 
