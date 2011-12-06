@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the churpchurp.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616215233id_/http%3A//www.churpchurp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churpchurp.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206111738id_/http%3A//www.churpchurp.com/policy) for the most accurate reproduction.*
 
-# ChurpChurp | A Community for Social Media Influencers » Policy
+# Churp Churp - Policy
 
 ## Privacy Policy
 
