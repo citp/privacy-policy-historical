@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidsurveysetc.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629044041id_/http%3A//www.paidsurveysetc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveysetc.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206191152id_/http%3A//paidsurveysetc.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to Paid Surveys, Etc. - Get Paid For Your Opinion
 
