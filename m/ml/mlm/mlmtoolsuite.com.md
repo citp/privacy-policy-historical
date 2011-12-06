@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mlmtoolsuite.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313134503id_/http%3A//mlmtoolsuite.com/privacy_mlm.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmtoolsuite.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206221717id_/http%3A//imtoolsuite.com/privacy_mlm.html) for the most accurate reproduction.*
 
 # Untitled Document
 
-**Our Privacy Policy of MLMToolSuite.com & all Subsidiaries**  
+**Our Privacy Policy of IMToolSuite.com & all Subsidiaries**  
 Privacy Notice Table Of Contents:   
 • Our Commitment To Privacy   
 • The Information We Collect   
@@ -14,13 +14,13 @@ Privacy Notice Table Of Contents: 
 
 By visiting any one of our sites or sending us information, you are accepting the practices described in this Privacy Policy. Your assent to these practices is essential for us to continue operating this website, including the variety of information and services it contains. Similarly, we need you to provide accurate personal information so that you can be contacted and, if you purchase anything, so that we can complete the transaction. You can opt-out and decide not to provide the requested personal information. However, by doing so, you will not receive the information, product, and/or service you are requesting.
 
-When submitting any information on our website you expressly authorize us to use your personal information as explained in this privacy policy, and you consent to receiving commercial email from us, MLMToolSuite.com, and any of our subsidiaries. You can expect to receive newsletters, promotions, and other similar offers. Should you wish to discontinue receiving these e-mailings simply unsubscribe using the link in the email you receive.
+When submitting any information on our website you expressly authorize us to use your personal information as explained in this privacy policy, and you consent to receiving commercial email from us, IMToolSuite.com, and any of our subsidiaries. You can expect to receive newsletters, promotions, and other similar offers. Should you wish to discontinue receiving these e-mailings simply unsubscribe using the link in the email you receive.
 
 **Our Commitment To Privacy  **  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 **The Information We Collect:  **  
-This notice applies to all information collected or submitted on www.MLMToolSuite.com and all others subsidiary websites. On some pages, you can order products, make requests, and register to receive information or materials. The types of personal information collected at these pages are:   
+This notice applies to all information collected or submitted on www.IMToolSuite.com and all others subsidiary websites. On some pages, you can order products, make requests, and register to receive information or materials. The types of personal information collected at these pages are:   
 Name   
 Address   
 Email address   
@@ -55,12 +55,12 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 16, and no part of our website is structured to attract anyone under 16. 
 
 **How You Can Access Or Correct Your Information  **  
-You can access all your personally identifiable information that we collect online by sending us a notice of change to support@MLMToolSuite.com  
+You can access all your personally identifiable information that we collect online by sending us a notice of change to support@IMToolSuite.com  
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us  **  
-Should you have other questions or concerns about these privacy policies, please contact us by e-mail at support@MLMToolSuite.com  
-MLMToolSuite.com reserves the right to modify this Privacy Policy at its discretion, or against any customer it believes is abusing this policy. Any such revision or change will be binding and effective immediately after posting of the revised Privacy Policy on www.MLMToolSuite.com and subsidiary web sites. You agree to periodically review our Web sites, including the current version of our Privacy Policy. Our Privacy Policy is made available on all our web sites. It is your obligation to review our Privacy Policy for any such revisions. 
+Should you have other questions or concerns about these privacy policies, please contact us by e-mail at support@IMToolSuite.com  
+IMToolSuite.com reserves the right to modify this Privacy Policy at its discretion, or against any customer it believes is abusing this policy. Any such revision or change will be binding and effective immediately after posting of the revised Privacy Policy on www.IMToolSuite.com and subsidiary web sites. You agree to periodically review our Web sites, including the current version of our Privacy Policy. Our Privacy Policy is made available on all our web sites. It is your obligation to review our Privacy Policy for any such revisions. 
 
 This website is owned and operated, or operated under agreement, by:
 
@@ -68,6 +68,6 @@ KJC Marketing Partners LLC
 2360 Corporate Cir Ste 400  
 Henderson NV 89074  
 702-608-6552  
-MLMToolSuite.com
+IMToolSuite.com
 
 Last Revision 3.07.2011
