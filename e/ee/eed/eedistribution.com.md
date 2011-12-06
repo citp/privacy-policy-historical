@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001053257id_/http%3A//www.eedistribution.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206070845id_/http%3A//www.eedistribution.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
@@ -14,7 +14,12 @@ Order by Phone:
 
 Monday - Friday:  
 7:30am - 5:00pm   
-Pacific Time  
+Saturdays:  
+Nov. 19, 26 and   
+Dec. 3, 10, 17,  
+10:00am - 2:00pm  
+Pacific Time
+
 Client Services:  
 1-818-255-0095  
 Fax: 1-818-255-0091
