@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisercustomizing.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608015618id_/http%3A//server.iad.liveperson.net/hc/s-17836517/cmd/kbresource/kb-3111040740091156582/view_question%21PAGETYPE%3Fsc%3D38%26sf%3D101133%26documentid%3D339635%26action%3Dview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisercustomizing.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206235341id_/http%3A//server.iad.liveperson.net/hc/s-17836517/cmd/kbresource/kb-3111040740091156582/view_question%21PAGETYPE%3Fsc%3D38%26sf%3D101133%26documentid%3D339635%26action%3Dview) for the most accurate reproduction.*
 
 # Self-Service Support
 
