@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbeacon.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303214535id_/http%3A//www.redbeacon.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbeacon.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206042646id_/http%3A//www.redbeacon.com/about/privacy) for the most accurate reproduction.*
 
 # Redbeacon - Privacy Policy
 
