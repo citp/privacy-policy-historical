@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditcardfinder.com.au privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602143217id_/http%3A//www.creditcardfinder.com.au/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardfinder.com.au privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206023040id_/http%3A//www.creditcardfinder.com.au/terms-of-use) for the most accurate reproduction.*
 
 # Terms and Conditions of Use | Credit Card Finder
 
@@ -255,7 +255,7 @@ You are able to request access to information held about you by Hive Empire. To 
 
 CreditCardFinder.com.au  
 Attn: Privacy Manager  
-Level 3, Suite 1, 99 York St  
+Level 10, 99 York St  
 Sydney NSW 2000
 
 Hive Empire takes your privacy seriously and if any issue has arisen in relation to privacy and the use of this site, you may contact Hive Empire at [privacy@hiveempire.com](mailto:privacy@hiveempire.com)
