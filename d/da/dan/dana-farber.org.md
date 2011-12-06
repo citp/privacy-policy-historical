@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229074224id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206070351id_/http%3A//www.dana-farber.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Dana-Farber Privacy Statement
+# Privacy Policy - Dana-Farber Cancer Institute
 
-Dedicated to Discovery. Committed to Care.
+## Dana-Farber Website Privacy Statement
 
-Your privacy is important to us, so we operate the site by the following principles:
+Your privacy is important to us, so we operate our website by the following principles:
 
 ### Confidentiality
 
-You may use our site without disclosing personally identifiable information. We want to be clear that we will not obtain such information about you unless you choose to submit it to us. If you supply personally identifiable information (such as name, address or telephone numbers) for various purposes on this site, we only use the information for that purpose (such as to provide the service or information you have requested).
+You may use our website without disclosing personally identifiable information. We want to be clear that we will not obtain such information about you unless you choose to submit it to us. If you supply personally identifiable information (such as name, address or telephone numbers) for various purposes on this site, we only use the information for that purpose (such as to provide the service or information you have requested).
 
 ### Security
 
@@ -18,7 +18,7 @@ Should you electronically request a referral to a Dana-Farber physician, we will
 
 ### Cookies
 
-The Dana-Farber Web sites use cookies to track traffic coming to our site. Cookies will also be used to identify a person who chooses to register on our site. If you choose to register on our site and are given a password for an event, give donations on line, or choose to enroll in our e-mail subscription services, we will identify you with cookies. You will always have a chance to opt out at any time.
+The Dana-Farber website use cookies to track traffic coming to our site. Cookies will also be used to identify a person who chooses to register on our site. If you choose to register on our site and are given a password for an event, give donations on line, or choose to enroll in our email subscription services, we will identify you with cookies. You will always have a chance to opt out at any time.
 
 ### Information Collection and Use
 
@@ -26,31 +26,39 @@ Dana-Farber is the sole owner of the personal medical information collected on t
 
 ### Gifts on the Web
 
-When you make a gift on our site, your e-mail will be entered into our donor database. We may send you e-mails or mailings in the future informing you of other giving opportunities or providing news about Dana-Farber Cancer Institute or the Jimmy Fund. If you choose not to receive any further communication from us, you may opt-out by contacting the following departments:
+When you make a gift on our website, your email will be entered into our donor database. We may send you emails or mailings in the future informing you of other giving opportunities or providing news about Dana-Farber Cancer Institute or the Jimmy Fund. If you choose not to receive any further communication from us, you may opt-out by contacting the following departments:
 
 #### Annual Giving/Online Gift Form
 
-Phone: (617) 582-8650  
-E-mail: [annual_giving@dfci.harvard.edu](mailto:annual_giving@dfci.harvard.edu)
+Phone: 617-582-8650  
+Email: [annual_giving@dfci.harvard.edu](mailto:annual_giving@dfci.harvard.edu) 
 
 #### Boston Marathon Jimmy Fund Walk
 
-Phone: (866) JFW-HERO or (866) 539-4376  
-E-mail: [jimmyfundwalk@dfci.harvard.edu](mailto:jimmyfundwalk@dfci.harvard.edu)
+Phone: 866-JFW-HERO or 866-539-4376  
+Email: [jimmyfundwalk@dfci.harvard.edu](mailto:jimmyfundwalk@dfci.harvard.edu) 
 
 #### Dana-Farber Marathon Challenge
 
-Phone: (617) 632-1970  
-E-mail: [dfmc@dfci.harvard.edu](mailto:dfmc@dfci.harvard.edu)
+Phone: 617-632-1970  
+Email: [dfmc@dfci.harvard.edu](mailto:dfmc@dfci.harvard.edu) 
 
 #### Jimmy Fund Golf Program
 
-Phone: (866) 521-4653  
-E-mail: [jimmyfund_golf@dfci.harvard.edu](mailto:jimmyfund_golf@dfci.harvard.edu)
+Phone: 866-521-4653  
+Email: [jimmyfund_golf@dfci.harvard.edu](mailto:jimmyfund_golf@dfci.harvard.edu) 
 
 #### Special Events
 
-Phone: (800) 52-JIMMY or (800) 525-4669  
-E-mail: [jimmyfundevents@dfci.harvard.edu](mailto:jimmyfundevents@dfci.harvard.edu)
+Phone: 800-52-JIMMY or 800-525-4669  
+Email: [jimmyfundevents@dfci.harvard.edu](mailto:jimmyfundevents@dfci.harvard.edu) 
 
-Updated March 2010
+### Opt Out of Dana-Farber E-News
+
+If you currently receive the E-Newsletter and would like to unsubscribe, you may do so two ways. In an E-News email, scroll to the bottom of the message to where it guides you to "manage your preferences." Click on the "opt out" link in that section to remove yourself from the E-News email list. If you do not have a copy of the E-News, send us an unsubscribe request at [JimmyFundContactUs@dfci.harvard.edu](mailto:JimmyFundContactUs@dfci.harvard.edu) with "Opt out of E-Newsletter" as your subject. Be sure to include your name and email address.
+
+### Opt Out of Mailings
+
+To stop receiving print mail and/or email communications from Dana-Farber Cancer Institute and the Jimmy Fund, please fill out our [print mailing](http://www.jimmyfund.org/opt-out/opt-out-print.aspx "print mailing") or [email communications](http://www.jimmyfund.org/opt-out/opt-out-email.aspx "email communications") opt-out forms.
+
+_Updated July 2011_
