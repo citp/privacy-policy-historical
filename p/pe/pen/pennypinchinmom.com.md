@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pennypinchinmom.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524052118id_/http%3A//pennypinchinmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennypinchinmom.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206122418id_/http%3A//pennypinchinmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+This post may contain affiliate links. Read my disclosure policy [here](http://www.pennypinchinmom.com/disclosure-policy/).
 
 ## Privacy Policy for PennyPinchinMom.com
 
@@ -23,6 +25,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20110524052118id_/http://pennypinchinmom.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+Make sure you sign up for our [daily email alerts](http://feedburner.google.com/fb/a/mailverify?uri=pennypinchinmom/UGQP&loc=en_US), deals via [RSS reader](http://feeds.feedburner.com/pennypinchinmom/UGQP) or even by following us on [Facebook](http://www.facebook.com/PennyPinchinMom) and never miss a deal again!
 
-**Don't forget to download the [Penny Pinchin' Mom Toolbar](https://s3.amazonaws.com/com.alexa.toolbar/atbp/5QCw03/download/index.htm)! 
+  
+
