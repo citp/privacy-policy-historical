@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivesouthafrica.co.za privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230055130id_/http%3A//www.drivesouthafrica.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivesouthafrica.co.za privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206143756id_/http%3A//www.drivesouthafrica.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Drive South Africa
 
@@ -99,16 +99,4 @@ This policy was last modified on 16 August 2010.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Tel: +27 (0)21 422 4644
-
-38 Hout Street  
-Cape Town  
-8001  
-South Africa
-
-PO Box 31147  
-Tokai  
-7966  
-South Africa
-
-[http://www.drivesouthafrica/about/contact/](https://web.archive.org/about/contact/) to contact us by email.
+Tel: +27 (0)21 423 1912
