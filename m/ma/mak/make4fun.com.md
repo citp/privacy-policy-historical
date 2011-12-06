@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the make4fun.com privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302083713id_/http%3A//www.make4fun.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the make4fun.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206193803id_/http%3A//www.make4fun.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Make4fun Privacy Notice
+# Privacy Policy
 
-**Make4fun Privacy Notice  
-** Last updated: November 21, 2008
+## **Make4fun Privacy Notice**
 
-The use, access, or download of the Make4fun website(s) and/or Make4fun software and any Make4fun services and products (collectively, "Make4fun") provided by Avnex Ltd. are subject to the provisions of this Privacy Policy, including any amendments or updates hereto, which is to demonstrate Avnex's firm commitment to your privacy and privacy-related concerns.
+## ****
+
+**** Last updated: November 21, 2008
+
+The use, access, or download of the Make4fun website(s) and/or Make4fun software and any Make4fun services and products (collectively, "Make4fun") provided by AVSOFT CORP. are subject to the provisions of this Privacy Policy, including any amendments or updates hereto, which is to demonstrate Avnex's firm commitment to your privacy and privacy-related concerns.
 
 **Personal Information Collection  
- **
+**
 
   * **Non-Account Activity.** You can read, view, watch, listen, comment and download stories, images, audios, videos or other content (collectively, "content") on Make4fun without having a Make4fun Account. You can also contact us about a particular content without having a Make4fun Account. 
   * **Account-Related Activity.** Certain other activities on Make4fun-like uploading content, flagging favorite content, getting Freekey of products, retrieving your licenses of products, posting and replying to topics at Make4fun forums-require you to have a Make4fun Account. 
@@ -80,4 +83,4 @@ The use, access, or download of the Make4fun is subject to this Privacy Policy a
 
 **Contact Information**
 
-Please address comments or questions regarding this Privacy Policy to us via email to: [ makeforfun@make4fun.com](mailto:makeforfun@make4fun.com)
+Please address comments or questions regarding this Privacy Policy to us via email to: **[makeforfun@make4fun.com](mailto:makeforfun@make4fun.com) **
