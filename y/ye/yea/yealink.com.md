@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yealink.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119015739id_/http%3A//www.yealink.com/index.php/About/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yealink.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206200803id_/http%3A//www.yealink.com/index.php/About/privacy) for the most accurate reproduction.*
 
 # Yealink-EASY VoIP,SIP based IP Phone,IP Video Phone,Dect Phone,USB Phone,VoIP,Unified Communication,Skype Phone，Media Phone
 
