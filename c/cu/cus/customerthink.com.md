@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerthink.com privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010150728id_/http%3A//customerthink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerthink.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206210154id_/http%3A//www.customerthink.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CustomerThink
 
@@ -10,11 +10,15 @@ We at CustomerThink.com abide by a policy of collecting only information that we
 
 **What does CustomerThink.com do with the information it collects?**
 
-CustomerThink.com uses the information it collects primarily to email publications and fulfill orders or for other purposes clearly identified on pages where the information is collected. In addition, CustomerThink.com may disclose personally identifying information about members, member accounts or any content members provide on site, if CustomerThink.com believes in good faith that such action is reasonably necessary to enforce its [Terms of Use](https://web.archive.org/terms_of_use) or copyright policy, to comply with the law, to comply with legal process, to operate its systems properly or to protect the rights or property of itself, its members, its visitors or others. 
+CustomerThink.com uses the information it collects to email publications and fulfill orders or for other purposes identified on pages where the information is collected. 
+
+Access to CustomerThink's sponsored content (e.g. white papers, reports, case studies and live or on-demand webcasts) requires a Premium account including contact information and demographics. CustomerThink may share your profile information after you have viewed third-party Premium content, and only with the Sponsor (content provider) for that specific content item. The Sponsor may use personal profile information for follow-up by email, phone or mail. Sponsors may not place your name on an ongoing mail or email distribution list, and must promptly honor your opt-out request.
+
+In addition, CustomerThink.com may disclose personally identifying information about members, member accounts or any content members provide on site, if CustomerThink.com believes in good faith that such action is reasonably necessary to enforce its [Terms of Use](https://web.archive.org/terms_of_use) or copyright policy, to comply with the law, to comply with legal process, to operate its systems properly or to protect the rights or property of itself, its members, its visitors or others. 
 
 **How will CustomerThink.com protect your personal information?**
 
-CustomerThink.com will take appropriate steps to protect the information you share with us. We use secure server technology to process credit cards, and credit card numbers are not retained for marketing or any other purpose. Access to our database of members is restricted to those in our organization and in our list hosting service that need access to mail our publications. 
+CustomerThink.com takes appropriate steps to protect the information you share with us. We use secure server technology to process credit cards, and credit card numbers are not retained for marketing or any other purpose. Access to our database of members is restricted to those in our organization and in our list hosting service that need access to mail our publications. 
 
 **How to unsubscribe**
 
