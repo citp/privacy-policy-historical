@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picresize.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128024013id_/http%3A//picresize.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picresize.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206192111id_/http%3A//www.picresize.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Free Online Picture Resizer - Crop and Resize photos, images, or pictures online for FREE!
 
