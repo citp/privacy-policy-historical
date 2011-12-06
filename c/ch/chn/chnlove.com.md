@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213183911id_/http%3A//www.chnlove.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chnlove.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206054609id_/http%3A//www.chnlove.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy protects yourself when dating beautiful Chinese Women on Chnlove.com
 
-|  |  |   
----|---|---  
-|  |    
+|  |  |    
 ---  
-  | The [Qpid Network Privacy Policy](http://www.qpidnetwork.com/my/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites’ services ("Services"), including information provided when you use Chnlove. In addition, the following describes our additional privacy practices that are specific to Chnlove. 
+  | The [Qpid Network Privacy Policy](http://www.qpidnetwork.com/my/privacy.php) describes how we treat personal information when you use Qpid Network subsidiary sites' services ("Services"), including information provided when you use Chnlove. In addition, the following describes our additional privacy practices that are specific to Chnlove. 
 
   
 
@@ -14,7 +12,7 @@
 
 This Site and the Service is an online network/system that provides a powerful tool for the local dating and marriage service providers in different cites in Asia to submit and have their ladies profiles posted online. Also, the functions of this Site enable those service providers to help you and the ladies communicate in an easier way by removing obstacles such as language barrier and cultural differences, ladies' computer illiteracy or unfamiliarity in using the Internet etc. So, you can easily build up a relationship with your favorite lady, which leads to marriage.
 
-As a Chnlove member, your profile can include personal information, such as your gender, nickname, first, middle and last names, date of birth, ethnicity, email address and residence country, plus other content such as your relationship status, your ideal match age range. Based on this information, we will send you weekly updates up to the criterion you selected whether receive or not. This information may be accessed and viewed by others, as determined by your privacy settings.
+As a Chnlove member, your profile can include personal information, such as your gender, first, middle and last names, date of birth, ethnicity, email address and residence country, plus other content such as your relationship status, your ideal match age range. Based on this information, we will send you weekly updates up to the criterion you selected whether receive or not. This information may be accessed and viewed by others, as determined by your privacy settings.
 
   2. **How We Use Your Information**
 
@@ -36,22 +34,19 @@ b)  "Hidden", which means none of the information contained in your profile wil
 
 No matter which profile status you choose, your profile on this Site will not be seen outside Chnlove and the Agencies office.
 
-  4. **EMF Mails with the ladies on this Site**
-
-With the use of the phone-informing Email Forwarding (EMF) Service, the content of your mails are forwarded to the ladies on the "AS IS" basis and kept private, only staff in Chnlove and the staff in the service providers who deal with Chnlove-related service can see them. All service providers that Chnlove cooperate with should operate in accordance with our contractual agreement, and should never expose them to any unrelated persons.
-
-  5. **Your Credit Card Details**
+  4. **Your Credit Card Details**
 
 If you pay by your credit card online, to protect your privacy we use highly secured industry order processing provided by third-party billing companies (such as 2CheckOut, and PayPal). Those companies we cooperate with enjoy good reputation and reliability in the industry of its kind. With use of the third-party credit card processors, your credit card information is entered using a secure server, and transferred internally using PGP, the most powerful encryption tool available. Your customer details may not be sold or made available to anyone else and your credit card details are only known by our order processors.
 
-  6. **EMF Mails with the ladies on this Site**
+  5. **EMF Mails with the ladies on this Site**
 
 With the use of the phone-informing Email Forwarding (EMF) Service, the content of your mails are forwarded to the ladies on the "AS IS" basis and kept private, only staff in Chnlove and the staff in the service providers who deal with Chnlove-related service can see them. All service providers that Chnlove cooperate with should operate in accordance with our contractual agreement, and should never expose them to any unrelated persons.
 
-  7. **Your choices** **  
-**  
+  6. **Your choices**
+
 Qpid Network provides a number of tools to restrict who can view your profile and other personal information. You may go to the account setting area to limit the viewing of certain information of yourself. If you want to update or correct inaccuracies in your information, you may login to your account and modify it. In case you want to permanently remove profile from our database, you may contact us. You can terminate your membership at any time. If you terminate your membership, your profile, including any messages in your inbox, will be removed from the Site and deleted from Chnlove servers. Because of the way we maintain this service such deletion may not be immediate, and residual copies of your profile information may remain on backup media.
-  8. **More information**
+
+  7. **More information**
 
 Further information about Chnlove is available [here](https://web.archive.org/help/why_use.php).  
 For more information about our privacy practices, go to [the full privacy policy](http://www.qpidnetwork.com/my/privacy.php). If you have additional questions, please [contact us](https://web.archive.org/help/contact_us.php).
