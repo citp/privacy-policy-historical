@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614192848id_/http%3A//www.nextstudent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206204716id_/http%3A//www.nextstudent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NextStudent | Student Loans
 
