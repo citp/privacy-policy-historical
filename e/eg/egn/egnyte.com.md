@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121193917id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206073714id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
 
 # Egnyte - Privacy Policy
 
-### Last Updated 08/09/2010
+Thank you for visiting Egnyte Inc.'s website located at [www.egnyte.com](http://www.egnyte.com/). Egnyte Inc. (hereinafter "Egnyte") is concerned about personal privacy and is committed to protecting the privacy of visitors to our website. This Privacy Policy identifies the personally identifiable information that Egnyte collects about you at our website and describes how Egnyte uses and protects such information. 
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=egnyte.com&sealid=102)
 
-Thank you for visiting Egnyte Inc.'s website located at [www.egnyte.com](http://www.egnyte.com/). Egnyte Inc. (hereinafter "Egnyte") is concerned about personal privacy and is committed to protecting the privacy of visitors to our website. This Privacy Policy identifies the personally identifiable information that Egnyte collects about you at our website and describes how Egnyte uses and protects such information. 
+Egnyte has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements ([Click HERE](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Kris Lahiri, Chief Security Officer by email at inquiry@egnyte.com with a subject line "Privacy Policy" or by postal mail at Egnyte, Inc., Attn: Kris Lahiri, Chief Security Officer, 1890 N. Shoreline Blvd., 1st Floor, Mountain View, CA 94043. If you are not satisfied with our response, you can contact TRUSTe [HERE](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-Egnyte has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements (<http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html>) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Kris Lahiri, Chief Security Officer by email at inquiry@egnyte.com with a subject line "Privacy Policy" or by postal mail at Egnyte, Inc., Attn: Kris Lahiri, Chief Security Officer, 1890 N. Shoreline Blvd., 1st Floor, Mountain View, CA 94043. If you are not satisfied with our response, you can contact TRUSTe [HERE](http://watchdog.truste.com/pvr.php?page=complaint).
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=egnyte.com&sealid=102)
 
-Egnyte complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+Egnyte complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
@@ -92,4 +92,6 @@ Egnyte, Inc.
 Attn: Kris Lahiri  
 1890 N. Shoreline Blvd., 1st Floor  
 Mountain View, CA 94043  
-[inquiry@egnyte.com](https://web.archive.org/web/20101121193917id_/http%3A//www.egnyte.com/corp/inquiry@egnyte.com)
+[inquiry@egnyte.com](https://web.archive.org/web/20111206073714id_/http%3A//www.egnyte.com/corp/inquiry@egnyte.com)
+
+Last Updated 06/29/2011
