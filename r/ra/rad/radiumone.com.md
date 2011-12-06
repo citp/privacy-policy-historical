@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiumone.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529095718id_/http%3A//www.radiumone.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiumone.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207003149id_/http%3A//radiumone.com/about/privacy.html) for the most accurate reproduction.*
 
 # RadiumOne - Results Powered by Connections
 
@@ -24,6 +24,8 @@ If you prefer not to have online advertising tailored to your interests by Radiu
   * RadiumOne is also a member of PrivacyChoice, which offers an opt-out wizard covering numerous advertising networks. Please click [here](http://www.privacychoice.org/) for more information.
 
 
+
+When you opt out, we will clear all data about you in our system and place three pieces of data in your browser’s cookie. The first piece of data tells us that you have opted out of RadiumOne; it does not contain any data about you except for the fact that you have opted out. We need this cookie in place so that we know not to collect information about your interests in the future. The second piece of data allows us to count the number of times you are exposed to our advertisers’ campaigns. The third and final piece of data enables us to count the number of people who visit our advertisers' web sites as a result of seeing our campaigns.
 
 Please note that opting out does not mean you will not see advertisements online, but only that these advertisements will not be tailored based on your online interests from RadiumOne as an individual vendor.
 
@@ -76,7 +78,7 @@ This Privacy Policy may be revised periodically without further notice to you an
 
 ## Effective Date
 
-The privacy policy was last revised on May 5, 2011.
+The privacy policy was last revised on July 28, 2011.
 
 ## Comments
 
