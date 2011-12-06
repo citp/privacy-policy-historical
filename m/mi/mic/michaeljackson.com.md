@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michaeljackson.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123143202id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaeljackson.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206214352id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Sony Music Entertainment - SONY MUSIC ENTERTAINMENT PRIVACY POLICY
+# SONY MUSIC ENTERTAINMENT PRIVACY POLICY | Sony Music Entertainment
 
 [](http://privacy-policy.truste.com/click-with-confidence/wps/en/www.sonymusic.com/seal_m)
 
