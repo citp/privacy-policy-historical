@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611145448id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicinfo.net privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206132320id_/http%3A//www.academicinfo.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Degrees & Guides
 
