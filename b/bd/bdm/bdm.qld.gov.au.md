@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bdm.qld.gov.au privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511205059id_/http%3A//www.justice.qld.gov.au/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdm.qld.gov.au privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206222552id_/http%3A//www.justice.qld.gov.au/global/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - Department of Justice and Attorney-General
 
 
 
@@ -9,30 +9,36 @@
 
 The Department of Justice and Attorney-General is committed to protecting user privacy. Like other Queensland public sector agencies, the department is required to comply with eleven (11) Information Privacy Principles (IPPs) contained in the [Information Privacy Act 2009](http://www.legislation.qld.gov.au/LEGISLTN/ACTS/2009/09AC014.pdf), (IPS Act) that set out how personal information must be collected and managed in the public sector environment.
 
+Back to top
+
 ## Cookies
 
 This website uses cookies to collect information about our visitors and to track advertising campaign data. A 'cookie' is a small file that is sent to your computer when you visit our website. When you visit our website again, the cookie provides us with information about your interactions within our website. Cookies may store user preferences and other information. You can set your browser to refuse cookies or to indicate when a cookie is being sent. However, some of our website features or services may not function properly without cookies.
+
+Back to top
 
 ## Information collected
 
 Unless you specifically tell us, the department will not know who you are.
 
-Any personal information you provide will be used for the purpose specified at the time it is collected, and will otherwise be managed in accordance with the IP Act. If you are advising of a health and safety or electrical safety [reportable incident](http://www.justice.qld.gov.au/fair-and-safe-work/electrical-safety/incident-notification), the department may be required by law to disclose personal information to other government agencies or entities as required.
+Any personal information you provide will be used for the purpose specified at the time it is collected, and will otherwise be managed in accordance with the IP Act. If you are advising of a health and safety or electrical safety [reportable incident](http://www.justice.qld.gov.au/fair-and-safe-work/electrical-safety/incident-notification) the department may be required by law to disclose personal information to other government agencies or entities as required.
 
 When you visit the department's web site, our web servers make a record of your visit and records anonymous information for statistical purposes only. This information is:
 
-  * the type of browser, computer platform and screen resolution you are using
+  * the type of browser, computer platform and screen resolution you are using 
   * your traffic patterns through our site such as: 
-    * the date and time of your visit to the site
-    * the pages you accessed and documents downloaded
-    * the previous page you visited prior to accessing our site
-  * the Internet address of the server accessing our site
+    * the date and time of your visit to the site 
+    * the pages you accessed and documents downloaded 
+    * the previous page you visited prior to accessing our site 
+  * the Internet address of the server accessing our site 
 
 
 
 This information will only be made available to the Department of Justice and Attorney-General.
 
 No attempt will be made to identify your personal details unless we are legally required to do so.
+
+Back to top
 
 ## Email
 
@@ -42,11 +48,15 @@ Your name and address will not be added to a mailing list and we will not disclo
 
 We will disclose your email details to the relevant authorities if necessary to protect the safety of the public or to protect the rights and property of the State of Queensland.
 
+Back to top
+
 ## Security
 
 This site does not provide open access facilities for securely transmitting information across the Internet. You are advised that there can be risks with transmitting information across the Internet.
 
 This site may contain links to non-Queensland Government websites. The Department is not responsible for the privacy or security practices or the content of such websites.
+
+Back to top
 
 ## Access to your information
 
@@ -61,3 +71,5 @@ It helps if you provide as much information as possible about the document you a
 If your application is for non-personal information, you will pay a $38 application fee and processing and access charges may apply.
 
 You can also submit a [Information Privacy Personal Information Amendment Application](http://www.rti.qld.gov.au/downloads/Information%20Privacy%20Personal%20Information%20Amendment%20Application.pdf) under the IP Act if you believe the information is inaccurate, incomplete, out of date or misleading.
+
+Back to top
