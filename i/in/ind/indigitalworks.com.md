@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indigitalworks.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101222929id_/http%3A//www.indigitalworks.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigitalworks.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206082806id_/http%3A//www.indigitalworks.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
