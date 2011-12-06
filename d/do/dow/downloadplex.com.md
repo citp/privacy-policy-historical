@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadplex.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420022733id_/http%3A//www.downloadplex.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadplex.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206151745id_/http%3A//www.downloadplex.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Downloadplex.com
 
@@ -13,8 +13,6 @@ A cookie is a piece of data stored on the user's hard drive containing informati
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
   * Users may update their ads preferences [here](http://www.google.com/ads/preferences/). 
-
-
 
 We also use other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. You can see a list of these companies by clicking [here](https://www.google.com/adsense/support/bin/answer.py?answer=94149). You may visit these vendor websites to opt out of cookies (if the vendor offers this capability). 
 
@@ -157,6 +155,5 @@ The following fields in PAD file are optional:
   * **Affiliates** PAD extension is intended ONLY for establishing the affiliate partnerships between you and the download sites, so if you do NOT support affiliate partnerships via current payments service, do NOT fill the appropriate field but leave it empty!
   * To **change the PAD file URL** just set the PAD XML File field of the **old** PAD file taking to the **new** PAD file location so that on the next polling round our script could pick it up automatically.
 
+  
 
-
-Updated Date: 03/18/2009 by webmaster 
