@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the adjetter.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615052149id_/http%3A//www.adjetter.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjetter.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206035423id_/http%3A//www.adjetter.com/home/privacy-policy.html) for the most accurate reproduction.*
 
-# Adjetter | Privacy Policy | Media Planning | Media Buying
+# Adjetter | Privacy Policy
 
-What information does Adjetter Media Network gather and how is it used? 
+**What information does Adjetter Media Network gather and how is it used?**
 
   * Each time you visit the Site or use the Service, we may collect information about your visits, such as your Internet service provider, browser type, operating system, pages accessed on the Site or when using the Service, the date and time of access and other websites you access after visiting our Site. We use this information to optimize your experience and enhance the quality of the time you spend with us online. We may also receive information telling us what site you linked from to get to the Site or the Service.
-  * When you send us a message using the [Contact Us](https://web.archive.org/home/contact.html) page, we retain the content of the message, your email address, any information you may provide to us regarding your personal or professional interests, demographics (such as your name or age), experience with the Service, your contact preferences, and the response we send back to you. This helps us manage any follow-up questions you may have, measure how effectively we address your concerns and improve the Site and the Service. 
+  * When you send us a message using the [**Contact Us**](https://web.archive.org/home/contact.html) page, we retain the content of the message, your email address, any information you may provide to us regarding your personal or professional interests, demographics (such as your name or age), experience with the Service, your contact preferences, and the response we send back to you. This helps us manage any follow-up questions you may have, measure how effectively we address your concerns and improve the Site and the Service. 
   * You may ask us to provide services or information to you by using an email address or telephone number which you may designate by sending us a message using the link provided on the Site. We will use the information you provide us to deliver the service or information. We may retain the content of your message, the email address, telephone number, and a record of the service or information provided. Any information retained would be used assure the delivery of the services or information you requested, and to optimize your experience and enhance the quality of the time you spend with us online.
 
 
