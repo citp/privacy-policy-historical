@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sse.co.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607222452id_/http%3A//www.sse.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sse.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206215838id_/http%3A//www.sse.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We are committed to ensuring your privacy is protected. This privacy policy explains how we use the information we collect about you.  For the purposes of the Data Protection Act 1998, the Data Controller is Scottish and Southern Energy plc (SC117119) having its registered address at Inveralmond House, 200 Dunkeld Road, Perth PH1 3AQ and its group of companies.
+We are committed to ensuring your privacy is protected. This privacy policy explains how we use the information we collect about you.  For the purposes of the Data Protection Act 1998, the Data Controller is SSE plc (SC117119) having its registered address at Inveralmond House, 200 Dunkeld Road, Perth PH1 3AQ and its group of companies.
 
 1. The information we collect and how we use it  
 (a) In order for us to provide to you and for you to use some of the services available on this website (referred to in this policy as the “Services”), we need to know some of your personal information.  
