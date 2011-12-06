@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the my-thank-you-site.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621015315id_/http%3A//www.my-thank-you-site.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-thank-you-site.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206212327id_/http%3A//www.my-thank-you-site.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| 
 
 My-Thank-You-Site.com hates spam and also dislikes taking private persons information and using it for gain. My-Thank-You-Site.com will not share your information with anyone or any company without your permission.
 
@@ -18,13 +16,8 @@ Thank you for coming!
 [ **Thank You Notes**](http://www.my-thank-you-site.com/thank-you-notes.html)
 
   
-| **Share this page:  **| | | |   
+**Share this page:  **| | | |   
 ---|---|---|---|---  
 | | |   
   
-If you want to thank us even more! Link to us by clicking here!  
-  
-Enjoy stories of gratitude from people all over the world. Plus you'll get appreciation quotes, tips on saying thank you and more!
-
-  
-[](http://www.twitter.com/mythankyoutweet)
+If you want to thank us even more! Link to us by clicking here!
