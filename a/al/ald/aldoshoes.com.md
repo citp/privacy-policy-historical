@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aldoshoes.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623091925id_/http%3A//www.aldoshoes.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aldoshoes.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206065712id_/http%3A//www.aldoshoes.com/us/privacy) for the most accurate reproduction.*
 
-# Shop ALDO Shoes, Boots, Sandals, Handbags & Accessories
+# Shop ALDO Shoes, Boots, Sandals, & Accessories for women & Men.
 
 The ALDO U.S., Inc. (“ **ALDO** ”) values its customers and respects their privacy.
 
