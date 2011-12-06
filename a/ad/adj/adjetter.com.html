@@ -1,7 +1,12 @@
-<!--The following is the downloaded HTML source of the adjetter.com privacy policy that was archived on 2011-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615052149id_/http%3A//www.adjetter.com/home/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adjetter.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206035423id_/http%3A//www.adjetter.com/home/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<title>Adjetter | Privacy Policy</title>
+<meta content="offline ads, offline advertisement, airline ads, hotel ads, local advertisement, media planning, media buying, media planning and buying, hotel advertising, hotel advertisement, offline media buying, target audience, targeted advertisement, targeted offline advertisement, boarding pass advertising, boarding pass advertisement, boarding pass marketing, advertise on a boarding pass, travel advertising, airline marketing, airline advertising, airport marketing, airport advertising, traveler advertising, airline advertising" name="KEYWORDS">
+<meta content="Adjetter is world's first technology enabled media planning and buying platform. Adjetter is the leader in targeting premium audience through its vast tie ups with various targeted audience segments. Whether it is about advertising in flights, hotels, restaurants, gymnasiums, multiplexes, malls, grocery stores or pharmacies, adjetter have tie ups to match your needs." name="DESCRIPTION">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en-IN">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   var _gaq = _gaq || [];
@@ -13,124 +18,419 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d75f17902d2a97f"></script>
-<link href="/static/css/newui.css?v=22FEB2011" type="text/css" rel="stylesheet">
-<link rel="stylesheet" type="text/css" media="screen,projection" href="/static/css/ui.totop.css"> 
-<script src="/static/js/jquery-1.3.2.min.js" type="text/javascript"></script> 
-<script src="/static/js/easing.js" type="text/javascript"></script> 
-<script src="/static/js/jquery.ui.totop.js" type="text/javascript"></script>
-<script type="text/javascript"> 
-	$(document).ready(function() {
-		/*
-		var defaults = {
-  			containerID: 'moccaUItoTop', // fading element id
-			containerHoverClass: 'moccaUIhover', // fading element hover class
-			scrollSpeed: 1200,
-			easingType: 'linear' 
- 		};
-		*/
-		
-		$().UItoTop({ easingType: 'easeOutQuart' });
-		
+
+<link type="text/css" rel="stylesheet" href="/static/css/home.css">
+<link type="text/css" rel="stylesheet" href="/static/css/rcarousel.css">
+<link type="text/css" rel="stylesheet" href="/static/css/About_us_new.css">
+<link type="text/css" rel="stylesheet" href="/static/css/offline_Ads.css">
+
+<script type="text/javascript" src="/static/js/jquery-1.6.2.min.js"></script> 
+<script type="text/javascript" src="/static/js/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/static/js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/static/js/jquery.ui.rcarousel.min.js"></script>
+<script type="text/javascript" src="/static/js/easySlider1.5.js"></script>
+<script type="text/javascript" src="/static/js/jquery.simplemodal.js"></script>
+<link rel="stylesheet" type="text/css" href="/static/css/ui-lightness/jquery-ui-1.8.14.custom.css">
+<script type="text/javascript" src="/static/js/jquery-ui-1.8.14.custom.min.js"></script>
+<title>Adjetter | Technology enabled media planning and buying
+platform</title>
+<script type="text/javascript">
+jQuery(function($) {
+	
+	$("#carousel1").rcarousel({
+		visible:1,
+		step:1,
+		width:860,
+		height:300,
+		speed:1000,
+		auto: {
+	        enabled: true,
+	        interval: 3000,
+	        direction: "prev"									
+		},
+		navigation:{next:"#ui-rcarousel1-next",prev:"#ui-rcarousel1-prev"}
 	});
-</script> 
-<title>Adjetter | Privacy Policy | Media Planning | Media Buying</title>
-<meta content="media planning, media buying, media planning and buying, hotel advertising, hotel advertisement, offline media buying, target audience, targeted advertisement, targeted offline advertisement, boarding pass advertising, boarding pass advertisement, boarding pass marketing, advertise on a boarding pass, travel advertising, airline marketing, airline advertising, airport marketing, airport advertising, traveler advertising, airline advertising" name="KEYWORDS">
-<meta content="Adjetter is world's first technology enabled media planning and buying platform. Adjetter is the leader in targeting premium audience through its vast tie ups with various targeted audience segments. Whether it is about advertising in flights, hotels, restaurants, gymnasiums, multiplexes, malls, grocery stores or pharmacies, adjetter have tie ups to match your needs." name="DESCRIPTION">
+});
+</script>
+<script type="text/javascript">
+var jQ = jQuery.noConflict();
+jQ(document).ready(function() {
+        
+        //options( 1 - ON , 0 - OFF)
+        var auto_slide = 1;
+            var hover_pause = 1;
+        var key_slide = 1;
+        
+        //speed of auto slide(
+        var auto_slide_seconds = 2000;
+        /* IMPORTANT: i know the variable is called ...seconds but it's 
+        in milliseconds ( multiplied with 1000) '*/
+        
+        /*move he last list item before the first item. The purpose of this is 
+        if the user clicks to slide left he will be able to see the last item.*/
+        jQ('#carousel_ul li:first').before(jQ('#carousel_ul li:last')); 
+        
+        //check if auto sliding is enabled
+        if(auto_slide == 1){
+            /*set the interval (loop) to call function slide with option 'right' 
+            and set the interval time to the variable we declared previously */
+            var timer = setInterval('slide("right")', auto_slide_seconds); 
+            
+            /*and change the value of our hidden field that hold info about
+            the interval, setting it to the number of milliseconds we declared previously*/
+            jQ('#hidden_auto_slide_seconds').val(auto_slide_seconds);
+        }
+  
+        //check if hover pause is enabled
+        if(hover_pause == 1){
+            //when hovered over the list 
+            jQ('#carousel_ul').hover(function(){
+                //stop the interval
+                clearInterval(timer)
+            },function(){
+                //and when mouseout start it again
+                timer = setInterval('slide("right")', auto_slide_seconds); 
+            });
+  
+        }
+  
+        //check if key sliding is enabled
+        if(key_slide == 1){
+            
+            //binding keypress function
+            jQ(document).bind('keypress', function(e) {
+                //keyCode for left arrow is 37 and for right it's 39 '
+                if(e.keyCode==37){
+                        //initialize the slide to left function
+                        slide('left');
+                }else if(e.keyCode==39){
+                        //initialize the slide to right function
+                        slide('right');
+                }
+            });
+
+        }
+        
+        
+  });
+
+//FUNCTIONS BELLOW
+
+//slide function  
+function slide(where){
+    
+            //get the item width
+            var item_width = jQ('#carousel_ul li').outerWidth() + 10;
+            
+            /* using a if statement and the where variable check 
+            we will check where the user wants to slide (left or right)*/
+            if(where == 'left'){
+                //...calculating the new left indent of the unordered list (ul) for left sliding
+                var left_indent = parseInt(jQ('#carousel_ul').css('left')) + item_width;
+            }else{
+                //...calculating the new left indent of the unordered list (ul) for right sliding
+                var left_indent = parseInt(jQ('#carousel_ul').css('left')) - item_width;
+            
+            }
+            
+            
+            //make the sliding effect using jQuery's animate function... '
+            jQ('#carousel_ul:not(:animated)').animate({'left' : left_indent},500,function(){    
+                
+                /* when the animation finishes use the if statement again, and make an ilussion
+                of infinity by changing place of last or first item*/
+                if(where == 'left'){
+                    //...and if it slided to left we put the last item before the first item
+                    jQ('#carousel_ul li:first').before(jQ('#carousel_ul li:last'));
+                }else{
+                    //...and if it slided to right we put the first item after the last item
+                    jQ('#carousel_ul li:last').after(jQ('#carousel_ul li:first')); 
+                }
+                
+                //...and then just get back the default left indent
+                jQ('#carousel_ul').css({'left' : '-210px'});
+            });             
+}
+  
+</script>
+
+<style type="text/css">
+#carousel_inner {
+	float:left; /* important for inline positioning */
+	width:915px; /* important (this width = width of list item(including margin) * items shown */ 
+	overflow: hidden;  /* important (hide the items outside the div) */
+	/* non-important styling bellow */
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+#carousel_ul {
+	position:relative;
+	left:-210px; /* important (this should be negative number of list items width(including margin) */
+	list-style-type: none; /* removing the default styling for unordered list items */
+	margin: 0px;
+	padding: 0px;
+	width:9999px; /* important */
+	/* non-important styling bellow */
+	padding-bottom:10px;
+}
+
+#carousel_ul li{
+	float: left; /* important for inline positioning of the list items */                                    
+	width:auto;  /* fixed width, important */
+	/* just styling bellow*/
+	padding:0px;
+	height:75px;
+
+	margin-top:20px;
+	margin-bottom:0px; 
+	margin-left:0px; 
+	margin-right:25px;
+}
+
+#carousel_ul li img {
+	.margin-bottom:-4px; /* IE is making a 4px gap bellow an image inside of an anchor (<a href...>) so this is to fix that*/
+	/* styling */
+	cursor:pointer;
+	cursor: hand; 
+	border:0px; 
+}
+#left_scroll, #right_scroll{
+	float:left; 
+	height:30px; 
+	width:15px;
+	margin-top: 40px; 
+}
+#left_scroll img, #right_scroll img{
+	border:0; /* remove the default border of linked image */
+	/*styling*/
+	cursor: pointer;
+	cursor: hand;
+
+}
+<!---->
+#carousel {
+	width: 978px;
+	position: relative;
+	margin-left:10px;
+	padding-top:10px;
+}
+#carousel1 {
+	width: 978px;
+	position: relative;
+	margin-left:10px;
+	padding-top:20px;
+}
+#carousel img {
+	border: 0;
+}
+#ui-rcarousel-next, #ui-rcarousel-prev {
+	display: block;
+	position: absolute;
+}
+#ui-rcarousel1-next, #ui-rcarousel1-prev {
+	display: block;
+	position: absolute;
+}
+
+#ui-rcarousel-next {
+	top: 45px;
+	right: 0;
+}
+
+#ui-rcarousel-prev {
+	top: 45px;
+	left: 0;
+}
+</style>
 </head>
 <body>
+	<div class="header">
+    	<!--Upper strip of header Starts-->
+    	<div class="login_strip">
+        	<div id="doc"><!--Start DOC-->
+            	<div class="contents">
+            		<form action="/login/tmlogin.html" method="post" name="loginform">
+	                	<div style="font-size:18px; font-weight:bold; float:left; padding-top:3px;">
+	                    	Login
+	                    </div>
+	                    <div style="float:left; margin-left:30px; padding-top:3px;">
+	                    	I am a
+	                    </div>
+	                    <div style="float:left; margin-left:2px; padding-top:5px;">
+	                    	<select name="type" style="border: -1px solid #FFFFFF; height:20px; width:120px;">
+	                        	<option value="1">Advertiser</option>
+	                            <option value="2">Publisher</option>
+	                            <option value="3">Media Agency</option>
+	                        </select>
+	                    </div>
+	                    <div style="float:left; margin-left:30px; padding-top:4px;">    	
+	                    	User Name
+	                    </div>
+	                    <div style="float:left; margin-left:2px; padding-top:4px;">    	
+	                    	<input type="text" style="width:120px;" name="username" onkeypress="return enterKeyValidate(event)">
+	                    </div>
+	                    <div style="float:left; margin-left:12px; padding-top:4px;">    	
+	                    	Password
+	                    </div>
+	                    <div style="float:left; margin-left:2px; padding-top:4px;">    	
+	                    	<input type="password" style="width:120px;" name="password" onkeypress="return enterKeyValidate(event)">
+	                    </div>
+	                    <div style="float:left; margin-left:3px; padding-top:2px;">    	
+	                    	<a href="#" onclick="document.loginform.submit();"><img src="/static/images/adj_home/login_button2.png"></a>
+	                    </div>
+	                    <div style="float:left; margin-left:20px; padding-top:3px; font-size:12px;">    	
+	                    	<a href="#">Forgot your Password?</a>
+	                    </div>
+	                    <div style="float:left; margin-left:20px; padding-top:3px; font-size:12px;">    	
+	                    	<a href="/home/new-user-regn.html">New User?</a>
+	                    </div>
+	                    <script type="text/javascript">
+	                    function enterKeyValidate(e) {
+	                        if (e.keyCode == 13) {
+	                        	document.loginform.submit();
+	                        }
+	                        else{
+	                        	return true;
+	                        }
+	                    }
 
-<div class="entry">
-<div style="width:100%;">
-	<div id="doc">
-		<div style="height: 170px;background-image:url(/static/images/header_gradient2.png);background-repeat:repeat-x; margin:0 auto;font-family:Arial Narrow, Arial, Helvetica, sans-serif;">
-			<div style="float: left;width: 340px;">
-				<a href="/"><img alt="" src="/static/images/adjetter-logo-final.png" style="margin-left: 35px;margin-top: 35px;" width="250px;"></a>
-			</div>
-			<div id="menu" style="float: left;">
-				<div style="margin-top: 40px;">
-					<div class="roundCorners selectedMenuDiv">
-						<a href="/home/home.html" class="selectedLink"><b>Home</b></a>
-					</div>
-					<div class="unselectedMenuDiv notFirstLink">
-						<a href="/home/advertisers.html" class="unselectedLink"><span><b>Advertisers</b></span></a>
-					</div>
-					<div class="unselectedMenuDiv notFirstLink">
-						<a href="/home/publishers.html" class="unselectedLink"><span><b>Publishers</b></span></a>
-					</div>
-					<div class="unselectedMenuDiv notFirstLink">
-						<a href="/home/aboutus.html" class="unselectedLink"><span><b>About Us</b></span></a>
-					</div>
-					<div class="unselectedMenuDiv notFirstLink">
-						<a href="http://blog.adjetter.com/" class="unselectedLink"><span><b>Blog</b></span></a>
-					</div>
-					<div class="unselectedMenuDiv notFirstLink">
-						<a href="/home/contact.html" class="unselectedLink"><span><b>Contact Us</b></span></a>
-					</div>
+	                    </script>
+                    </form>
+                </div>
+            </div><!-- End DOC-->
+        </div>
+        <!--Upper strip of header Ends-->
+        <!--Lower strip of header Starts-->
+        <div class="menu_strip">
+        	<div id="doc">
+            	<div class="logo">
+                	<a href="/home/home.html"><img src="/static/images/adj_home/adjetter.png"></a>
+                </div>
+                <div id="menu" style="float: right;" class="menu">
+					<!--<ul id="nav">
+						<li><a href="home.html" target="_self" >Home</a></li>
+						<li><a href="/adv/dashboard.html" target="_self" >Social Media</a></li>
+						<li><a href="/adv/browse-all-options.html" target="_self" >Offline Adspace</a></li>
+						<li><a href="/adv/media-plan.html" target="_self" >Media Plan</a></li>
+						<li><a href="/adv/sms-marketing.html" target="_self" >Tools</a></li>
+						<li><a href="/adv/personal-profile.html" target="_self" >Profile</a></li>
+						<li><a href="/adv/reports.html" target="_self" >Reports</a></li>
+					</ul>-->
+                    <div class="component">
+                    	<div class="title"><a href="/home/home.html">Home</a></div>
+                    </div>
+                    
+                    <div class="component">
+                    	<div class="title"><a href="/home/publishers.html">Publishers?</a></div>
+                    </div>
+                    <div class="component">
+                    	<div class="title"><a href="/home/aboutus.html">About Us</a></div>
+                    </div>
+                    <div class="component">
+                    	<div class="title"><a href="http://blog.adjetter.com">Blog</a></div>
+                    </div>
+                    <div class="component" style="border:none;">
+                    	<div class="title"><a href="/home/contact.html">Contact Us</a></div>
+                    </div>
 				</div>
-			</div>
-			<div style="clear:both;"></div>
-		</div>
-	<div class="right" style="float: left;">
-		<div style="padding: 30px;">
-			<h1>Privacy Policy</h1>
-			<p align="justify">What information does Adjetter Media Network gather and how is it used? </p>
-			<ul>
-				<li>Each time you visit the Site or use the Service, we may collect information about your visits, such as your Internet service provider, browser type, operating system, pages accessed on the Site or when using the Service, the date and time of access and other websites you access after visiting our Site. We use this information to optimize your experience and enhance the quality of the time you spend with us online. We may also receive information telling us what site you linked from to get to the Site or the Service.</li>
-				<li>When you send us a message using the <a href="/home/contact.html">Contact Us</a> page, we retain the content of the message, your email address, any information you may provide to us regarding your personal or professional interests, demographics (such as your name or age), experience with the Service, your contact preferences, and the response we send back to you. This helps us manage any follow-up questions you may have, measure how effectively we address your concerns and improve the Site and the Service. </li>
-				<li>You may ask us to provide services or information to you by using an email address or telephone number which you may designate by sending us a message using the link provided on the Site. We will use the information you provide us to deliver the service or information. We may retain the content of your message, the email address, telephone number, and a record of the service or information provided. Any information retained would be used assure the delivery of the services or information you requested, and to optimize your experience and enhance the quality of the time you spend with us online.</li>
-			</ul>
-			<p align="justify">If you provide us with an email address or telephone number, we may send you by email or text messages certain services, information or other messages related to your transactions with us or about our services. </p>
-			<p align="justify"><b>Does Adjetter Media Network Conduct Online Surveys?</b></p>
-			<p align="justify">We like feedback, which means we may conduct online surveys to solicit your opinions and comments. Participation in these surveys is of course optional. If you choose to participate, the information you provide will be aggregated with information from other users to make improvements to the user experience and develop appealing content, features and promotions. Unless otherwise noted in a survey, your participation will remain anonymous. </p>
-			<p align="justify"><b>Does Adjetter Media Network have a feedback center?</b></p>
-			<p align="justify">You can ask us questions on our website (www.Adjetter.com). You can also share comments or suggestions with us. Your questions, comments and suggestions may not be kept confidential. We may use your questions, comments and suggestions to improve the Site and the Service but we will have no obligation to compensate you for any such contributions. If you offer your name and address when you contact us, we'll be happy to respond directly to you.</p>
-			<p align="justify"><b>With whom does Adjetter Media Network share my personally identifiable information?</b></p>
-			<p align="justify">We don't sell your name or other personally identifiable information to third parties. We may also use or disclose information to resolve disputes or investigate problems. We may disclose or access information when we believe in good faith that the law requires it, or if we consider it necessary to maintain service and improve our products and services.</p>
-			<p align="justify">We may use your IP address and share it with third parties to help diagnose problems with our servers, to manage the Site and the Service, and to enhance the Site and the Service based on usage pattern data.</p>
-			<p align="justify">If we are acquired by another company, your personally identifiable information will be shared with our new owner, but it will remain subject to the terms of the then-applicable privacy policy or another set of terms if you agree to them. </p>
-			<p align="justify"><b>How does Adjetter Media Network use cookies, tags, and similar technologies?</b></p>
-			<p align="justify">We use cookies, tags and similar technologies to recognize your preferences and effectively and efficiently administer the Site. We use the information we collect to enhance your visit to the Site and provide you with information tailored to your interests.</p>
-			<p align="justify">You may elect to refuse cookies, however doing so may affect your use of some portions of the Services and our partners services.</p>
-			<p align="justify">We use third party tracking and advertising providers to act on our behalf. The third-party tracking and advertising technology that we use on the Site uses information derived from your visits to the Site to target advertising to the Site. In addition, our advertisers may use other third-party advertising technology to target advertising on the Site and other sites. They may track and analyze your usage of the Site through the use of cookies, pixel tags, web beacons and similar technologies. They may collect and share with us usage information about visits to the Site and use of the Service. They also may measure and research the effectiveness of our advertisements, track page usage and paths followed during and after your use of the Site and the Service, help us target the ads on the Site, and track use of our ads and other links from marketing partners' sites to the Service. The information collected on our behalf does not contain your name, address, email address or any other personally identifiable information. To "opt-out," please email Target@adjetter.com with your Adjetter user name.</p>
-			<p align="justify"><b>Does Adjetter Media Network collect information from children under the age of 13? </b></p>
-			<p align="justify">The Site and the Service are not intended for use by children under 13, and we don't knowingly collect or use personally identifiable information from kids that age. If someone under 13 attempts to provide us with personally identifiable information, it will be rejected by the Site. If a child under 13 has provided us with personally identifiable information without parental or guardian consent, the parent or guardian should contact us by clicking here Contact Us page to remove the information and opt out of promotional opportunities. </p>
-			<p align="justify"><b>Does the Site contain links to other websites?</b></p>
-			<p align="justify">Adjetter Media Network.com contains links to other sites not owned by us that may have different privacy practices from ours. We aren't responsible for the content or privacy practices of those sites, and our Privacy Policy doesn't apply to information collected by those sites. We encourage you to read the privacy statements of each site that collects information from you. When you leave our Site or Service via a link to interact with a site not governed by our Privacy Policy, a new browser window will open.</p>
-			<p align="justify"><b>How is my personally identifiable information protected?</b></p>
-			<p align="justify">To prevent unauthorized access, disclosure or improper use of your information, and to maintain data accuracy, we've established reasonable physical, electronic and managerial safeguards to protect the information we collect. Although we take reasonable steps to safeguard and prevent unauthorized access to your personally identifiable information, we can't be responsible for the acts of those who gain unauthorized access, and we make no warranty, express, implied or otherwise, that we will prevent such access.</p>
-			<p align="justify"><b>How should I contact Adjetter Media Network about my personally identifiable information?</b></p>
-			<p align="justify">If you have questions or concerns about our collection, use or disclosure of your personally identifiable information, please write to us at:</p>
-			<br><span><b>Adjetter Media Network Pvt Ltd,</b></span>
-			<br><span>2nd Floor, Tech Park</span>
-			<br><span>PESIT Campus, 100 Ft Ring Road,</span>
-			<br><span>BanaShankari 3rd Stage,</span>
-			<br><span>Bangalore - 560085, India.</span>
-		</div>
-	</div>
-		<div id="footer" style=" clear:both;background-color: #081B31;padding-bottom: 10px;padding-top: 10px;padding-left: 20px;padding-right: 20px;">
-			<p style="color: white;font-size: 13px;float: left;margin: 0px;padding: 0px;">
-			  <a onfocus="if(this.blur)this.blur()" href="/home/home.html">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			  <a onfocus="if(this.blur)this.blur()" href="/home/advertisers.html">Advertisers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			  <a onfocus="if(this.blur)this.blur()" href="/home/publishers.html">Publishers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			  <a onfocus="if(this.blur)this.blur()" href="/home/aboutus.html">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			  <a onfocus="if(this.blur)this.blur()" href="/home/joinus.html">Work@Adjetter</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			  <a onfocus="if(this.blur)this.blur()" href="/home/media.html">Media</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			  <a onfocus="if(this.blur)this.blur()" href="/home/culture.html">Our Values</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			  <a onfocus="if(this.blur)this.blur()" href="/home/privacy-policy.html">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			  <a onfocus="if(this.blur)this.blur()" href="/home/terms-and-conditions.html">Term &amp; Conditions</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			  <a onfocus="if(this.blur)this.blur()" href="/home/contact.html">Contact</a>
-			</p>
-			<div style="float: right;margin-top: 30px;margin-right: 20px;">
-			<img alt="" src="/static/images/visa.png">&nbsp;&nbsp;&nbsp;<img alt="" src="/static/images/master.png">
-			</div>
-			<div style="clear: both;"></div>
-			<p align="center" style="color: white;margin-right: 20px;font-size: 12px;">©2011 Adjetter Media Network Pvt. Ltd. All rights reserved.</p>
-			<div style="clear: both;"></div>
-		</div>
-	</div>
-</div>
+				<div style="clear: both;"></div>
+       		</div>
+      </div>
+ 	</div>
+<div class="content">
+    	<div class="clouds">
+        	
+         </div>
+         <div class="grey">
+         	<div id="doc">
+                <div class="net_new" style="height: auto;">
+                	<div style="width:100%;">&nbsp;
+                        <div style="color: #2957A4; padding-left:20px; padding-top:10px; float:left;">
+                           <h1>Privacy Policy</h1>
+                        </div>
+                        <!--  div style="margin-left:10px; padding-top:12px; float:left;">
+                            <img src="/static/images/adj_home/adjetter.png" height="22" width="75"></img>
+                        </div-->
+					</div><br>
+					<div style="height: auto; width: 960px; margin-left: 20px; margin-bottom: 20px; text-align: justify; color:#6D6E71;">
+                    					
+						<p align="justify"><b>What information does Adjetter Media Network gather and how is it used? </b></p>
+						<ul style="font-size: 12px;">
+							<li>Each time you visit the Site or use the Service, we may collect information about your visits, such as your Internet service provider, browser type, operating system, pages accessed on the Site or when using the Service, the date and time of access and other websites you access after visiting our Site. We use this information to optimize your experience and enhance the quality of the time you spend with us online. We may also receive information telling us what site you linked from to get to the Site or the Service.</li>
+							<li>When you send us a message using the <a href="/home/contact.html" style="color: #6D6E71;"><b>Contact Us</b></a> page, we retain the content of the message, your email address, any information you may provide to us regarding your personal or professional interests, demographics (such as your name or age), experience with the Service, your contact preferences, and the response we send back to you. This helps us manage any follow-up questions you may have, measure how effectively we address your concerns and improve the Site and the Service. </li>
+							<li>You may ask us to provide services or information to you by using an email address or telephone number which you may designate by sending us a message using the link provided on the Site. We will use the information you provide us to deliver the service or information. We may retain the content of your message, the email address, telephone number, and a record of the service or information provided. Any information retained would be used assure the delivery of the services or information you requested, and to optimize your experience and enhance the quality of the time you spend with us online.</li>
+						</ul>
+						
+						<p align="justify">If you provide us with an email address or telephone number, we may send you by email or text messages certain services, information or other messages related to your transactions with us or about our services. </p><br>
+						<p align="justify"><b>Does Adjetter Media Network Conduct Online Surveys?</b></p>
+						<p align="justify">We like feedback, which means we may conduct online surveys to solicit your opinions and comments. Participation in these surveys is of course optional. If you choose to participate, the information you provide will be aggregated with information from other users to make improvements to the user experience and develop appealing content, features and promotions. Unless otherwise noted in a survey, your participation will remain anonymous. </p>
+						<br><p align="justify"><b>Does Adjetter Media Network have a feedback center?</b></p>
+						<p align="justify">You can ask us questions on our website (www.Adjetter.com). You can also share comments or suggestions with us. Your questions, comments and suggestions may not be kept confidential. We may use your questions, comments and suggestions to improve the Site and the Service but we will have no obligation to compensate you for any such contributions. If you offer your name and address when you contact us, we'll be happy to respond directly to you.</p>
+						<br><p align="justify"><b>With whom does Adjetter Media Network share my personally identifiable information?</b></p>
+						<p align="justify">We don't sell your name or other personally identifiable information to third parties. We may also use or disclose information to resolve disputes or investigate problems. We may disclose or access information when we believe in good faith that the law requires it, or if we consider it necessary to maintain service and improve our products and services.</p>
+						<p align="justify">We may use your IP address and share it with third parties to help diagnose problems with our servers, to manage the Site and the Service, and to enhance the Site and the Service based on usage pattern data.</p>
+						<p align="justify">If we are acquired by another company, your personally identifiable information will be shared with our new owner, but it will remain subject to the terms of the then-applicable privacy policy or another set of terms if you agree to them. </p>
+						<br><p align="justify"><b>How does Adjetter Media Network use cookies, tags, and similar technologies?</b></p>
+						<p align="justify">We use cookies, tags and similar technologies to recognize your preferences and effectively and efficiently administer the Site. We use the information we collect to enhance your visit to the Site and provide you with information tailored to your interests.</p>
+						<p align="justify">You may elect to refuse cookies, however doing so may affect your use of some portions of the Services and our partners services.</p>
+						<p align="justify">We use third party tracking and advertising providers to act on our behalf. The third-party tracking and advertising technology that we use on the Site uses information derived from your visits to the Site to target advertising to the Site. In addition, our advertisers may use other third-party advertising technology to target advertising on the Site and other sites. They may track and analyze your usage of the Site through the use of cookies, pixel tags, web beacons and similar technologies. They may collect and share with us usage information about visits to the Site and use of the Service. They also may measure and research the effectiveness of our advertisements, track page usage and paths followed during and after your use of the Site and the Service, help us target the ads on the Site, and track use of our ads and other links from marketing partners' sites to the Service. The information collected on our behalf does not contain your name, address, email address or any other personally identifiable information. To "opt-out," please email Target@adjetter.com with your Adjetter user name.</p>
+						<br><p align="justify"><b>Does Adjetter Media Network collect information from children under the age of 13? </b></p>
+						<p align="justify">The Site and the Service are not intended for use by children under 13, and we don't knowingly collect or use personally identifiable information from kids that age. If someone under 13 attempts to provide us with personally identifiable information, it will be rejected by the Site. If a child under 13 has provided us with personally identifiable information without parental or guardian consent, the parent or guardian should contact us by clicking here Contact Us page to remove the information and opt out of promotional opportunities. </p>
+						<br><p align="justify"><b>Does the Site contain links to other websites?</b></p>
+						<p align="justify">Adjetter Media Network.com contains links to other sites not owned by us that may have different privacy practices from ours. We aren't responsible for the content or privacy practices of those sites, and our Privacy Policy doesn't apply to information collected by those sites. We encourage you to read the privacy statements of each site that collects information from you. When you leave our Site or Service via a link to interact with a site not governed by our Privacy Policy, a new browser window will open.</p>
+						<br><p align="justify"><b>How is my personally identifiable information protected?</b></p>
+						<p align="justify">To prevent unauthorized access, disclosure or improper use of your information, and to maintain data accuracy, we've established reasonable physical, electronic and managerial safeguards to protect the information we collect. Although we take reasonable steps to safeguard and prevent unauthorized access to your personally identifiable information, we can't be responsible for the acts of those who gain unauthorized access, and we make no warranty, express, implied or otherwise, that we will prevent such access.</p>
+						<br><p align="justify"><b>How should I contact Adjetter Media Network about my personally identifiable information?</b></p>
+						<p align="justify">If you have questions or concerns about our collection, use or disclosure of your personally identifiable information, please write to us at:</p>
+						<br><span><b>Adjetter Media Network Pvt Ltd,</b></span>
+						<br><span>2nd Floor, Tech Park</span>
+						<br><span>PESIT Campus, 100 Ft Ring Road,</span>
+						<br><span>BanaShankari 3rd Stage,</span>
+						<br><span>Bangalore - 560085, India.</span>
+					</div>
+                  	
+                    		
+                	</div>
+                	<div style="height: auto; width: 960px; margin-left: 20px; margin-bottom: 20px; text-align: justify;">
+                    	
+                    	
+                    	<div style="width: 900px; margin-left: 48px;">
+	                    	
+	                    	
+	                    </div>
+	                    
+                	</div>
+				</div>
+           	            
+         	</div>
+    </div>
+    <!-- Content Ends-->
+   
+    <div style="clear:both;"></div>
+<div class="footer">
+	<div id="doc">
+        <div class="footer_menu">
+            <div class="menu">
+                <a href="/home/home.html">Home</a>&nbsp;|&nbsp;
+                <a href="/home/publishers.html">Publishers</a>&nbsp;|&nbsp;
+                <a href="/home/aboutus.html">About Us</a>&nbsp;|&nbsp;
+                <a href="/home/joinus.html">Work@Adjetter</a>&nbsp;|&nbsp;
+                <a href="/home/media.html">Media</a>&nbsp;|&nbsp;
+                <a href="/home/culture.html">Our Values</a>&nbsp;|&nbsp;
+                <a href="/home/privacy-policy.html">Privacy Policy</a>&nbsp;|&nbsp;
+                <a href="/home/terms-and-conditions.html">Terms &amp; Conditions</a>&nbsp;|&nbsp;
+                <a href="/home/contact.html">Contact</a>
+                
+            </div>
+            <div class="payment">
+            	<img src="/static/images/adj_home/pay.png">
+            </div>
+        </div>
+        <div class="terms">
+        	©2011 Adjetter Media Network Pvt. Ltd. All rights reserved.
+        </div>
+   </div>
 </div>
 
-<a href="#" id="toTop" style="display: none;"><span id="toTopHover"></span>To Top</a></body></html>
+</body></html>
