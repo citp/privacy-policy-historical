@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbirdfx.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607002210id_/http%3A//sunbirdfx.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbirdfx.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206085818id_/http%3A//www.sunbirdfx.com/privacy-statement) for the most accurate reproduction.*
 
 # 
 
@@ -50,8 +50,12 @@ Unless otherwise indicated for a particular service, any communications or mater
 
 By accepting this Agreement you grant a license to us to use your Communications in any way we think fit, either on the Web site or elsewhere, with no liability or obligation to you. We are free to use any idea, concept, know-how or technique or information contained in your Communications for any purpose including, but not limited to, developing and marketing products.
 
-We are entitled, but not obligated, to review or retain your Communications.   
+We are entitled, but not obligated, to review or retain your Communications.  
 We may monitor your Communications to evaluate the quality of service you receive, your compliance with this Agreement, the security of the Web site, or for other reasons. You agree that such monitoring activities will not entitle you to any cause of action or other right with respect to the manner in which we monitor your Communications. In no event we will be liable for any costs, damages, expenses or any other liabilities incurred by you as a result of our monitoring activities.
+
+**To Unsubscribe from Sunbird's Email**
+
+To unsubscribe from Sunbird's emails, please click on the "Unsubscribe Link" within any email Sunbird sends or contact us at info@sunbirdfx.com
 
 **Changes to this Privacy Statement**
 
