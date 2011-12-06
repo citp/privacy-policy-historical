@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shafiq.pk privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127131441id_/http%3A//shafiq.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shafiq.pk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206150737id_/http%3A//shafiq.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | shafiq.pk - Latest Technology Updates
-
-## Privacy Policy
+# Privacy Policy | shafiq.pk
 
 shafiq.pk values our fellow bloggers and readers privacy, however for maintaining visitors stats and keeping away the shitty spammers, we need to collect and preserve small piece of visitors information in the form of cookies.
 
