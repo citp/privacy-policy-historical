@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pomodorotechnique.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608031511id_/http%3A//www.pomodorotechnique.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomodorotechnique.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206021843id_/http%3A//www.pomodorotechnique.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Pomodoro Technique®
 
