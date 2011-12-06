@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tradebit.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619075020id_/http%3A//www.tradebit.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradebit.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206100418id_/http%3A//www.tradebit.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy policy to protect you and us!**
-
-* * *
 
 **What This Privacy Policy Covers**
 
@@ -97,11 +95,13 @@
 
   * If you have questions or suggestions, please send us an e-mail to **info @ tradebit.com** or you can contact us at: 
 
-Tradebit AG  
+Tradebit, Inc.  
 Customer Care - Privacy Policy Issues  
-Gutleutstr. 96  
-60329 Frankfurt, GERMANY  
-Fax: +49-(0)721-151-339397  
+3422 Old Capital Trail  
+Suite 717  
+19808 Wilmington, DE  
+USA  
+Fax: +1-480-275-3582  
 
 
   
