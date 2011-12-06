@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the salesgossip.co.uk privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528122643id_/http%3A//salesgossip.co.uk/info.php%3Fid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesgossip.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206044016id_/http%3A//www.salesgossip.co.uk/info/1/Privacy-policy) for the most accurate reproduction.*
 
-# Sales Gossip - Know when shops go on sale before anyone else
-
-### Privacy policy
+# Privacy policy | SalesGossip
 
 SalesGossip is a free, information management service. This policy describes the types of personal information we may collect and how we use it to provide the SalesGossip service.
 
@@ -35,7 +33,7 @@ When you visit SalesGossip and create an SalesGossip account, we set and access 
 
 Log information. When you use your SalesGossip account, we collect certain information (the same information that most web sites log when they are accessed). This information, contained in the "header" of your request to access the SalesGossip page, usually includes the browser type you used, your Internet Protocol address, and the date and time of day. In addition, we log the unique ID provided by our cookie and the URL of the last site you visited.
 
-As a basic matter, we need this information to help us provide our services to you. For example, we need to validate your identity in order to maintain the security of your personal timeline. We also need to know what Internet Protocol address your query came from so we can send the appropriate pages back to you.
+As a basic matter, we need this information to help us provide our services to you. For example, we need to validate your identity in order to maintain the security of your personal profile We also need to know what Internet Protocol address your query came from so we can send the appropriate pages back to you.
 
 In addition, we log this information for internal business purposes. For example, this log information helps us determine how well our services are working so we can continually improve the quality of SalesGossip. The log information is also important for security, audit, quality improvement, and other internal business purposes.
 
