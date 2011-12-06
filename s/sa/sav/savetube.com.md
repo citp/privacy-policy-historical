@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savetube.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529215042id_/http%3A//www.savetube.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savetube.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206073722id_/http%3A//www.savetube.com/privacy.htm) for the most accurate reproduction.*
 
 # SaveTube - Save YouTube Videos
 
