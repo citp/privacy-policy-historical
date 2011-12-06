@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearpathtechnology.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428155040id_/http%3A//www.clearpathtechnology.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearpathtechnology.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206172522id_/http%3A//www.clearpathtechnology.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : Seo Techniques : Website Promotion : Clearpath Technology
 
@@ -8,7 +8,7 @@ What is more important is the way or judiciousness through which we use it and a
 
 This is the information that Clearpath Technology does not trade with any other body or third party involved. It is only at your request that we will get in touch with you through emails to inform you all about the special offers as well as new products or services that are lined up. We will also inform you all about the alterations in the privacy policy as well.
 
-**Do you wan to Unsubscribe?**  
+**Do you want to Unsubscribe?**  
 In case you want to unsubscribe, the process is a wee simple one to follow. At any given point of time, you can opt out of the contract by requesting for the same in our feedback form or mailing in a request to us.
 
 **Security Policies**  
