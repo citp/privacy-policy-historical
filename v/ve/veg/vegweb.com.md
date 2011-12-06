@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2010-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101014025309id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegweb.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206130212id_/http%3A//vegweb.com/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
