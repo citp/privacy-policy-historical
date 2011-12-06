@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourchildlearns.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619041702id_/http%3A//yourchildlearns.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourchildlearns.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206081646id_/http%3A//yourchildlearns.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Owl & Mouse Educational Software
 
@@ -10,7 +10,11 @@
 
 * * *  
   
+  
+  
+  
   |   |    
+   
 [ ](http://www.etsy.com/listing/53806686/animal-alphabet-poster-by-marlene "Animal Alphabet by Marlene McLoughlin") | 
 
      The privacy and security of visitors our website is very  important to Owl and Mouse Educational Software.  Owl and Mouse collects no information from visitors and we do not use ‘cookies’.
@@ -36,7 +40,7 @@ We welcome all comments on your and your children's experience with our maps and
 
 E-Mail us at: [Owl and Mouse](mailto:owlmouse@yourchildlearns.com)
 
-[Privacy Policy](https://web.archive.org/web/20110619041702id_/http%3A//yourchildlearns.com/privacy-policy.html)   -   [Terms of Service](https://web.archive.org/web/20110619041702id_/http%3A//yourchildlearns.com/terms-of-service.html)
+[Privacy Policy](https://web.archive.org/web/20111206081646id_/http%3A//yourchildlearns.com/privacy-policy.html)   -   [Terms of Service](https://web.archive.org/web/20111206081646id_/http%3A//yourchildlearns.com/terms-of-service.html)
 
 All Material Copyright 1998-2011 Owl and Mouse Educational Software
 
