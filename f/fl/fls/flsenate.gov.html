@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the flsenate.gov privacy policy that was archived on 2011-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607205535id_/http%3A//www.flsenate.gov/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flsenate.gov privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206234543id_/http%3A//flsenate.gov/About/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <title>Privacy Statement Flsenate.gov - The Florida Senate</title>
@@ -11,7 +11,6 @@
 <link href="/common/css/styles.css" type="text/css" rel="stylesheet" media="all">
 <link href="/common/css/pending.css" type="text/css" rel="stylesheet" media="screen">
 <link href="/common/css/print.css" type="text/css" rel="stylesheet" media="print">
-
 <!-- targets IE 8 & lower -->
 <!--[if lt IE 9]>
 	<link href="/common/css/ie.css" type="text/css" rel="stylesheet" media="screen">
@@ -19,6 +18,10 @@
 <!--[if IE 7]>
 <style>
 	#SenateLiveContent { left: 15px; }
+    /* ------- redistricting plan table ----------*/
+    div#col2-l table#clickableRows tbody td {		/* add border to tbody cells  b/c table rows are not limited to two lines so helps guide the eye*/
+	border-left: none;
+}
 </style>
 <![endif]-->
 <script type="text/JavaScript" src="/common/js/jquery-1.4.2.min.js"></script>
@@ -27,6 +30,7 @@
 <script type="text/JavaScript" src="/common/js/IntegratedSearch.js"></script>
 <script type="text/JavaScript" src="/common/js/Tracker.js"></script>
 <script type="text/JavaScript" src="/common/js/Tabs.js"></script>
+<script type="text/JavaScript" src="/common/js/Translate.js"></script>
 <script type="text/JavaScript">
 
   $(function(){ 
@@ -50,14 +54,16 @@
   <div class="container_16">
     <div class="grid_7">
       <p>
+        <a href="http://myfloridahouse.gov/">MyFloridaHouse.gov</a> | <a href="http://archive.flsenate.gov">Flsenate.gov Archives</a> 
         
-        <a href="http://myfloridahouse.gov/">MyFloridaHouse.gov</a> | <a href="http://archive.flsenate.gov">Flsenate.gov Archives</a></p>
+       
+        </p>
+        
     </div>
     <div class="grid_9">
-      
+          
       
         <p class="righttext">Senate Tracker:
-          
           <a href="/login/create.cfm">Sign Up</a> | <a href="/login/">Login</a></p>
       
     </div>
@@ -69,6 +75,7 @@
   <div id="header" class="grid_16 clearfix">
     <!-- Search box: begin -->
     <div id="searchbox">
+    	
       <form action="/Session/Bill.cfm" method="post" class="JumpToForm">
         <p id="billjump">
           <label for="BillNumber">Go to Bill:</label>
@@ -77,16 +84,14 @@
           <select name="SessionName" id="position">
             
             
-            <option value="2012">2012</option>
+            <option value="2012" selected="selected">2012</option>
             
-            <option value="2011" selected="selected">2011</option>
+            <option value="2011">2011</option>
             
             <option value="2010O">2010O</option>
             
             <option value="2010A">2010A</option>
-            
-            
-            
+                       
           </select>
         </p>
         <p id="divid">
@@ -110,20 +115,17 @@
         <li>
           <h2><a href="#" class="right"><img src="/common/images/icons/close.png" height="13" width="13" alt="Close Quick Search"></a> Quick Search </h2>
           <h3>Legislation</h3>
-          <ul id="LegislationSearchResults">
-            
+          <ul id="LegislationSearchResults">           
           </ul>
         </li>
         <li>
           <h3>Statutes</h3>
           <ul id="CatchlineSearchResults">
-            
           </ul>
         </li>
         <li>
           <h3>Senators</h3>
           <ul id="SenatorsSearchResults">
-            
           </ul>
         </li>
         <li>
@@ -167,17 +169,18 @@
           <ul style="display: none; visibility: hidden;">
             <li><a href="/Laws/Statutes">Statutes</a></li>
             <li><a href="/Laws/Constitution">Constitution</a></li>
-            <li><a href="/Laws/Laws">Laws of Florida</a></li>
+            <li><a href="http://laws.flrules.org/">Laws of Florida</a></li>
             <li><a href="http://www.leg.state.fl.us/cgi-bin/View_Page.pl?Tab=info_center&amp;Submenu=2&amp;File=index.html&amp;Directory=portal/legistore/&amp;Location=app">Order - Legistore</a></li>
           </ul>
         </li>
         <li><a href="/Media">Media</a>
           <ul style="display: none; visibility: hidden;">
             <li><a href="/Media/PressReleases">Press Releases</a></li>
-            <li><a href="/Media/Speeches">Speeches</a></li>
+            <li><a href="/Media/Publications">Publications</a></li>            
             <li><a href="/Media/Videos">Videos</a></li>
             <li><a href="/Media/Photos">Photos</a></li>
-            <li><a href="/Media#broadcast">Video Broadcast Schedule</a></li>
+            <li><a href="/Media/Speeches">Speeches</a></li>
+            <li><a href="/Media#broadcast">Video Broadcast Schedule</a></li>            
             
             
           </ul>
@@ -191,6 +194,7 @@
             <li><a href="http://www.flsenate.gov/senatekids/index.cfm">Senate Kids</a></li>
             <li><a href="/About/Visit">Visit Us</a></li>
             <li><a href="/About/Contact">Contact Us</a></li>
+            <li><a href="/About/award">Award</a></li>
           </ul>
         </li>
         <li><a href="/Offices">Offices</a>
@@ -224,7 +228,7 @@
       <div id="message" class="rounded">
         
         
-        </div>
+       </div>
 
       
 
@@ -235,16 +239,25 @@
     
     <!-- Columns: begin -->
     <div id="Content">
+    
+         
+    <div id="language" style="">Language: 
+         <a href="#" class="selectedLanguage" id="EnglishLanguageLink" style="display: none;">View in English</a> 
+         <a lang="es" href="#" id="SpanishLanguageLink">Ver en Español</a>
+    </div>
       <!-- vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv - START - Included Content - vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv -->
       
-      
-        
-        
-        <!-- This Cache Snippet is 44 seconds old (CACHE_WAS_GOOD) -->
-        <!-- Column 1: begin-->
+<!-- Column 1: begin-->
+
+
 <div id="col-full" class="grid_15"> 
-	<h1>Privacy Statement</h1>
-  	<p>
+<h1></h1>
+            	
+			    <div class="english"><h1>Privacy Statement</h1></div>
+			    <div class="spanish" lang="es" style="display:none"><h1>Política de Privacidad</h1></div>                
+			            	
+			    <div class="english"><!-- Cached at: 12/06/2011 06:45:42:PM  -->
+    <p>
 	Thank you for visiting the Florida Senate's website, <i>flsenate.gov</i>. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit <i>flsenate.gov</i>, unless you affirmatively choose to make such information available to us.</p>
 <h3>
 	Browsing and Downloading Information</h3>
@@ -258,17 +271,31 @@
 	If you choose to share personal information, such as by subscribing to an e-newsletter, sending a message, or filling out an electronic form, please be aware that <strong>under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public-records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.</strong></p>
 <p>
 	Some of the information you provide may be saved for a designated period of time in order to comply with the state of Florida's archiving policies. If you have questions about <i>flsenate.gov</i> privacy policies, or have suggestions on how these policies can be improved, please feel free to call Legislative Information Services at (850) 488-4371. The toll-free number for Florida residents is 1-800-342-1827.</p>
-<p>
+<!---<p>
 	Send correspondence to:</p>
 <p>
-	The Division of Legislative Information Services<br>
-	Claude Pepper Building, Room 704<br>
-	111 West Madison Street<br>
-	Tallahassee, FL 32399-1400.</p>
-
+	The Division of Legislative Information Services<br />
+	Claude Pepper Building, Room 704<br />
+	111 West Madison Street<br />
+	Tallahassee, FL 32399-1400.</p>---> </div>
+			    <div class="spanish" lang="es" style="display:none"><!-- Cached at: 12/06/2011 06:45:43:PM  -->
+    <p>
+	Gracias por visitar el sitio Web del Senado de Florida, flsenate.gov. Su privacidad es muy importante para nosotros. En pocas palabras, nuestra política es no recolectar información personal sobre usted cuando visite flsenate.gov, a menos que elija afirmativamente facilitar dicha información a nosotros.</p>
+<h3>
+	Navegar y Descargar Información</h3>
+<p>
+	Cuando usted visita <em>flsenate.gov</em>, el servidor Web reconoce automáticamente sólo el dominio de Internet y la dirección IP desde la que ha accedido al sitio. Esta información no resulta en la identificación de su dirección de correo electrónico personal u otra información personal.</p>
+<p>
+	Además, sólo se recopila información sobre el volumen y el calendario de acceso al sitio mediante la recopilación de información sobre la fecha, hora y páginas visitadas en el sitio. Esto se hace para que el contenido del sitio pueda mejorarse. Esta información no es compartida con otras organizaciones. Una vez más, se recopila información sólo agregado y su información personal no ha sido identificada.</p>
+<h3>
+	Envío de Correo Electrónico o Proporcionar Otra Información</h3>
+<p>
+	Si decide compartir información personal, como al suscribirse a un boletín electrónico, enviar un mensaje, o rellenando un formulario electrónico, <strong>tenga en cuenta que la legislación de Florida, las direcciones de correo electrónico son registros públicos. Si no desea que su dirección de correo electrónico en respuesta a una solicitud de registros públicos sea liberada, no envie correo electrónico a esta entidad.&nbsp; En cambio,&nbsp;contacte&nbsp;esta Oficina por teléfono o por escrito</strong>.</p>
+<p>
+	Algunos de los datos que proporcione pueden guardarse durante un periodo determinado de tiempo para cumplir con las políticas de archivo del Estado de Florida. Si tiene preguntas acerca de las políticas de privacidad de flsenate.gov, o tienen sugerencias sobre cómo se pueden mejorar estas directivas, no dude en llamar a los servicios de información legislativa al (850) 488-4371. El número gratuito para los residentes de Florida es 1-800-342-1827.</p> </div>                
+			
 </div>
 <!-- Column 1: end--> 
-      
       <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ - END - Included Content - ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
     </div>
     <!-- Main Area: end -->
@@ -312,7 +339,7 @@
         <ul>
           <li><a href="/Laws/Statutes">Statutes</a></li>
           <li><a href="/Laws/Constitution">Constitution</a></li>
-          <li><a href="/Laws/Laws">Laws of Florida</a></li>
+          <li><a href="http://laws.flrules.org/">Laws of Florida</a></li>
           <li><a href="http://www.leg.state.fl.us/cgi-bin/View_Page.pl?Tab=info_center&amp;Submenu=2&amp;File=index.html&amp;Directory=portal/legistore/&amp;Location=app">Order - Legistore</a></li>
         </ul>
       </div>
@@ -320,9 +347,10 @@
         <p><a href="/Media">Media</a></p>
         <ul>
           <li><a href="/Media/PressReleases">Press Releases</a></li>
-          <li><a href="/Media/Speeches">Speeches</a></li>
+          <li><a href="/Media/Publications">Publications</a></li>
           <li><a href="/Media/Videos">Videos</a></li>
           <li><a href="/Media/Photos">Photos</a></li>
+          <li><a href="/Media/Speeches">Speeches</a></li>
           <li><a href="/Media#broadcast">Video Broadcast Schedule</a></li>
           
           
@@ -336,6 +364,7 @@
           <li><a href="http://www.flsenate.gov/senatekids/index.cfm">Senate Kids</a></li>
           <li><a href="/About/Visit">Visit Us</a></li>
           <li><a href="/About/Contact">Contact Us</a></li>
+          <li><a href="/About/award">Award</a></li>
         </ul>
       </div>
       <div class="grid_3">
@@ -360,7 +389,7 @@
         <p><a href="/About/Contact#connect">Connect with the Senate</a></p>
         <ul class="inline">
           <li><a href="http://www.facebook.com/home.php?#!/pages/Florida-Senate/105573599475603"><img src="/common/images/social-media/facebook-16.png" width="16" height="16" alt="Facebook"></a></li>
-          <li><a href="http://picasaweb.google.com/flsenatephotos"><img src="/common/images/social-media/picasa-16.png" width="16" height="16" alt="Picasa"></a></li>
+          <li><a href="http://picasaweb.google.com/senatorharidopolos"><img src="/common/images/social-media/picasa-16.png" width="16" height="16" alt="Picasa"></a></li>
           <li><a href="http://twitter.com/FloridaSenate"><img src="/common/images/social-media/twitter-16.png" width="16" height="16" alt="Twitter"></a></li>
           <li><a href="http://www.youtube.com/user/SenatorHaridopolos"><img src="/common/images/social-media/youtube-16.png" width="16" height="16" alt="YouTube"></a></li>
           <li><a href="/tracker/rss.cfm"><img src="/common/images/social-media/rss-16.png" width="16" height="16" alt="RSS"></a></li>
@@ -376,7 +405,7 @@
         <p><a href="/About/Accessibility#plugins">Plug-ins</a></p>
         <ul>
           <li><a href="http://get.adobe.com/reader/" target="_blank">Adobe Acrobat Reader</a></li>
-          
+          <li><a href="http://get.adobe.com/flashplayer/" target="_blank">Adobe Flash Player</a></li>
           <li><a href="http://windows.microsoft.com/en-US/windows/downloads/windows-media-player" target="_blank">Windows Media Player</a></li>
           <li><a href="http://www.winzip.com/win/en/downwz.htm" target="_blank">WinZip</a></li>
         </ul>
@@ -385,12 +414,12 @@
     <!--Footer Group: end <p id="disclaimer">-->
     <br class="clear">
     <div id="disclaimer">
+     
       
       
       
       
-      
-      <!-- This Cache Snippet is 31 seconds old (CACHE_WAS_GOOD) -->
+      <!-- This Cache Snippet is 0 seconds old (CACHE_WAS_GOOD) -->
       <p>
 	Disclaimer: The information on this system is unverified. The journals or printed bills of the respective chambers should be consulted for official purposes.</p>
 
