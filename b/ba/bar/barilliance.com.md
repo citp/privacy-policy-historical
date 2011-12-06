@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barilliance.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221011120id_/http%3A//www.barilliance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barilliance.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206034550id_/http%3A//www.barilliance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Barilliance
 
