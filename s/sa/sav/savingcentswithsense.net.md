@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the savingcentswithsense.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630012313id_/http%3A//www.savingcentswithsense.net/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingcentswithsense.net privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206095610id_/http%3A//www.savingcentswithsense.net/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+This post may contain affiliate links. Read my disclosure policy [here](http://www.savingcentswithsense.net/about-me/disclosure/).
 
 Your privacy is very important to us and therefore this notice explains our online practices regarding your information.
 
@@ -23,5 +25,3 @@ We collect the following information when you visit this site: your IP address, 
 This privacy policy is subject to change without notice.
 
 If you have any questions regarding this policy, please [contact us](http://www.savingcentswithsense.net/about-me/contact/).
-
-[ ](http://www.savingcentswithsense.net/about-me/disclosure/)[](http://www.savingcentswithsense.net/about-me/disclosure/)
