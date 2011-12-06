@@ -1,24 +1,34 @@
-> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224073801id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206052142id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - StarNow.com.au
 
 [Help](https://web.archive.org/help)>Privacy Policy
 
-**Privacy of your information**  
-StarNow.com.au (owned and operated by SMH Interactive Limited) collects personal information about you through your use of the services and the web site, including your registration details; and information relating to your use of the web site and the content you access.
+  
 
-You agree that StarNow.com.au may use this personal information to assist us to provide the services to you, for internal research purposes, to verify your identity, for promoting and marketing other StarNow.com.au products and services to you, and for any other use that you authorize.
 
-We will not sell or allow third parties to access your personal information without your consent, however you agree that StarNow.com.au may disclose your personal information, including your name and contact details, to the relevant authorities, parties and/or the applicable intellectual property right holders (or their representatives) as we see fit.
+### Privacy of your information
+
+StarNow (owned and operated by SMH Interactive Limited) collects personal information about you through your use of the services and the web site, including your registration details; and information relating to your use of the web site and the content you access.
+
+You agree that StarNow may use this personal information to assist us to provide the services to you, for internal research purposes, to verify your identity, for promoting and marketing other StarNow products and services to you, and for any other use that you authorise.
+
+StarNow may disclose your personal information, including your name and contact details, to the relevant authorities, parties and/or the applicable intellectual property right holders (or their representatives) as we see fit.
 
 You can access and correct your personal information at any time.
 
-**Applying for roles**  
+### Third Party Services
+
+StarNow may contain links to other websites ("Third Party Services") and may post your information on other websites (including, but not limited to, Facebook, Twitter and YouTube). If you choose to use a Third Party Service they may use and share your data in accordance with their privacy policy and your privacy settings on that service. You should always review the policies of Third Party Services and websites to make sure you are comfortable with the ways in which they use information you share with them.
+
+### Applying for roles
+
 You understand that when you apply for a role, your contact details and any information entered into your personal profile will be sent to the advertiser. This includes any photo you have uploaded.
 
-**Spam and your email address**  
+### Spam and your email address
+
 Your email address is used to identify your membership, and to sign in to the site.
 
-After registering with StarNow.com.au you will receive regular casting call update emails, containing casting calls and auditions matching your profile. You may also receive our email newsletters, account updates and and information about StarNow.com.au features.
+After registering with StarNow you will receive regular casting call update emails, containing casting calls and auditions matching your profile. You may also receive our email newsletters, account updates and information about StarNow features.
 
-You can easily unsubscribe from any of our emails, either by using the 'unsubscribe' link provided in the email, or by contacting us at contact@starnow.com.au. 
+You can easily unsubscribe from any of our emails, either by using the 'unsubscribe' link provided in the email, or by contacting us at contact@starnow.com.au.
