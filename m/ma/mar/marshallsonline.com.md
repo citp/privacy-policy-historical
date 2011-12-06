@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416070016id_/http%3A//www.marshallsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marshallsonline.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206072951id_/http%3A//www.marshallsonline.com/privacy) for the most accurate reproduction.*
 
 # Marshalls Privacy Policy
 
@@ -42,7 +42,7 @@ The information collected using these tools may include your IP address, browser
 
 This section of our Privacy Notice provides details about interest-based online advertising (also called "targeted advertising" or "behavioral advertising"), and your choices with respect to this type of advertising.
 
-We work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on other websites because we contract with a company called Turn to target our ads based on information Turn has collected, including information that was collected through automated means (such as cookies and web beacons). Turn also uses automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts. To learn more about Turn, including how to opt out of its collection of information for this purpose, click [here](http://www.turn.com/?page_id=532). Please note that opting out from such data collection by Turn does not necessarily mean you will not be served an ad for Marshalls, and it does prevent you from receiving e-mail or postal mail from Marshalls or having cookies collected from our Website by entities other than Turn. To learn more about your options with respect to those practices, click here.
+We work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on other websites because we contract with a company called Turn to target our ads based on information Turn has collected, including information that was collected through automated means (such as cookies and web beacons). Turn also uses automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts. To learn more about Turn, including how to opt out of its collection of information for this purpose, click [here](http://www.turn.com/?page_id=532). Please note that opting out from such data collection by Turn does not necessarily mean you will not be served an ad for Marshalls, and it does not prevent you from receiving e-mail or postal mail from Marshalls or having cookies collected from our Website by entities other than Turn. To learn more about your options with respect to those practices, click here.
 
 ### How We Use the Information We Collect
 
@@ -103,7 +103,7 @@ You can opt-out of receiving promotional e-mail and/or postal mail from us by do
 
   * If you originally signed up for Marshalls e-mail, you can opt-out from that e-mail by returning to the [e-mail sign-up page](http://www.marshallsonline.com/email/), and clicking on the "unsubscribe" link. You then must enter your e-mail address and **click the "Submit" button**. Please be sure to enter the same e-mail address you provided when you signed up, otherwise it may not be possible to comply with your request.
   * If you have received an e-mail from Marshalls, you can opt-out from receiving further e-mails by **following the opt-out or "unsubscribe" instructions provided in the e-mail you received**.
-  * Contact **Customer Service, Monday - Friday 9:00 AM - 5:00 p.m. (Eastern Time) at the toll-free number 1-800-627-7425** if you do not want to receive promotional e-mail and/or postal mail communications from us in the future. Please specify if you would like to opt out of e-mail, or postal mail, or both. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us.
+  * Contact **Customer Service, Monday - Friday 9:00 AM - 5:00 p.m. (Eastern Time) at the toll-free number 1-888-627-7425** if you do not want to receive promotional e-mail and/or postal mail communications from us in the future. Please specify if you would like to opt out of e-mail, or postal mail, or both. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us.
 
 
 
@@ -121,7 +121,7 @@ Your web browser may tell you how to be notified when you receive certain types 
 
 If you are a California resident, California law provides that you be given the opportunity to opt out of our sharing your personal information with third parties that would use such personal information for their own direct marketing. Absent such an opt-out, we may share your information with other TJX Businesses (which are affiliates owned by TJX, including T.J.Maxx and HomeGoods), to provide you with information about their products, services or promotions that we think may be of interest to you. Accordingly, per California law, we provide a way for you to opt out if you do not want us to share your information in this manner.
 
-California residents can opt out of our sharing your information as described above by contacting **Customer Service, Monday - Friday 9:00 AM - 5:00 p.m. (Eastern Time) at the following toll-free number: 1-800-627-7425** , and requesting that you would like to opt out from receiving all marketing communications from Marshalls and all other TJX Businesses. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us. Please note that it may take us up to 30 days to fully process your opt-out request.
+California residents can opt out of our sharing your information as described above by contacting **Customer Service, Monday - Friday 9:00 AM - 5:00 p.m. (Eastern Time) at the following toll-free number: 1-888-627-7425** , and requesting that you would like to opt out from receiving all marketing communications from Marshalls and all other TJX Businesses. If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, and e-mail and/or postal mail addresses under which you have been receiving communications from us. Please note that it may take us up to 30 days to fully process your opt-out request.
 
 To review our complete Privacy Notice, please click [here](http://www.marshallsonline.com/privacy/).
 
@@ -136,7 +136,7 @@ Marshalls
 Framingham, MA 01701  
 Attn: Customer Service - Privacy Notice
 
-  * Calling customer service Monday - Friday 9:00 a.m. - 5:00 p.m. (Eastern Time) at the following toll-free number: 1-800-627-7425
+  * Calling customer service Monday - Friday 9:00 a.m. - 5:00 p.m. (Eastern Time) at the following toll-free number: 1-888-627-7425
 
 
 
