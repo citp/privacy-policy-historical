@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolterskluwer.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608125539id_/http%3A//www.wolterskluwer.com/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolterskluwer.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206081931id_/http%3A//www.wolterskluwer.com/Pages/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Wolters Kluwer | Privacy Statement
 
