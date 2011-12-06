@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121010356id_/http%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizely.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206131407id_/http%3A//www.optimizely.com/privacy) for the most accurate reproduction.*
 
 # Optimizely: Privacy Policy
 
@@ -11,15 +11,19 @@
 
 Optimizely, Inc. ("Optimizely," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Optimizely when you access the Optimizely Service (including through the websites of our partners), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms).
 
+Optimizely has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@optimizely.com. If you are not satisfied with our response you can contact TRUSTe [here](http://www.truste.com/about_TRUSTe/contact_us.html). 
+
 ### Information We Collect
 
-**Our Service:** We may receive personally identifiable information about you through our website or through our partners who use our Service (including by embedding our code on their websites) to analyze usage of their websites. When you visit such websites, your browser may send us certain information about you as described below.
+**Our Service:** We may collect personally identifiable information about you through our website when you register for an account, such as your email. If you choose to purchase a product from us, we will collect your payment information also. We also collect data through our partners (customers) who use our Service (including by embedding our code on their websites) to analyze usage of their websites. When you visit such websites, your browser may send us certain information about you as described below. We do not send any promotional emails, however we may send you service related emails related to your account. 
 
-**Cookies Information:** We may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets learn about your behavior and usage patterns. A cookie may also convey anonymous information about how you browse the a partner website to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent.
+**Cookies Information:** We may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets learn about your behavior and usage patterns when you are on our site. A cookie may also convey anonymous information about how you browse the a partner website to us. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent.
 
-**Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you access the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+**Log File Information:** Log file information is automatically reported by your browser each time you access a web page on our site. When you access the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-**Clear Gifs Information:** When you access the Service, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Optimizely account is collected using these clear gifs. The information is used to enable more accurate reporting, improve the effectiveness of our Service, and make Optimizely better for our users and partners.
+**Clear Gifs Information:** When you access the Service or are on our web site, we may employ clear gifs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Optimizely account is collected using these clear gifs. The information is used to enable more accurate reporting, improve the effectiveness of our Service, and make Optimizely better for our users and partners.
+
+These technologies mentioned above do not collect personal information about you and only collect data in the aggregate.
 
 ### How We Use Your Information
 
@@ -37,7 +41,9 @@ As we develop our business, we may buy or sell assets or business offerings. Cus
 
 ### How We Protect Your Information
 
-Optimizely is concerned with protecting your privacy and data, but we cannot ensure or warrant the security of any information you transmit to Optimizely or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Optimizely is concerned with protecting your privacy and data, but we cannot ensure or warrant the security of any information you transmit to Optimizely or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our industry standard physical, technical, or managerial safeguards. When you enter sensitive information (such as credit card number ) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+
+We use an outside help platform, and a credit card processing company to bill you if you purchase services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
 ### Compromise of Personal Information
 
@@ -45,7 +51,7 @@ In the event that personal information is compromised as a result of a breach of
 
 ### Your Choices About Your Information
 
-You can review and correct the information about you that Optimizely keeps on file by contacting us directly at [support@optimizely.com](mailto:support@optimizely.com)
+You can review and correct the information about you that Optimizely keeps on file by logging into your account to update your password and billing information. Alternately, you can contact us directly at [support@optimizely.com](mailto:support@optimizely.com)
 
 ### Children's Privacy
 
@@ -55,12 +61,20 @@ Protecting the privacy of young children is especially important. For that reaso
 
 It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Service, as determined by Optimizely in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
+### Features on our site.
+
+If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. We also have testimonials on our site, for which users have given permission to have their personal information posted on our site with their testimonial.
+
+### Links to Other Web Sites
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of other sites. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+
 ### Changes to Our Privacy Policy
 
-If we change our privacy policies and procedures, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+If we change our privacy policies and procedures materially, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [support@optimizely.com](mailto:support@optimizely.com), or send mail to:
 
 Optimizely, Inc.  
-185 Berry Street, Suite 170  
+599 3rd St. #101  
 San Francisco, CA 94107
