@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestcasinobonuses.com privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415075235id_/http%3A//www.latestcasinobonuses.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestcasinobonuses.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206154502id_/http%3A//www.latestcasinobonuses.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Casino Bonuses Privacy Policy
 
