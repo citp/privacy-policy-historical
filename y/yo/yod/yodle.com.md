@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510141036id_/http%3A//www.yodle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206173129id_/http%3A//www.yodle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Local Business Marketing Experts | Yodle
 
@@ -29,7 +29,7 @@ To improve the usefulness and quality of our site, we also measure and analyze w
 
 ## Internet Commerce
 
-The online payment gateway at Yodle is owned, managed and operated by Authorize.net which is a Company NOT owned by Yodle and you are protected by the privacy statement of Authorize.net. Authorize.net is committed to data security with respect to information collected on our site. Yodle, in order secure all transactions and keep your credit card information protected, uses a secure server layer designed by Starfield Technologies. Starfield Technologies is an industry leader, providing security measures available through your browser called SSL encryption, (please see Starfield Technologies website for details on these security measures). If at any time you would like to make a purchase, but do not want to provide your credit card information online, you may contact support@Yodle.com. It has always been a Yodle practice to contact customers in the event of a potential problem with your purchase or any normal business communication regarding your purchase.
+The online payment gateway at Yodle is owned, managed and operated by Authorize.net which is a Company NOT owned by Yodle and you are protected by the privacy statement of Authorize.net. Authorize.net is committed to data security with respect to information collected on our site. Yodle, in order secure all transactions and keep your credit card information protected, uses a secure server layer designed by Starfield Technologies. Starfield Technologies is an industry leader, providing security measures available through your browser called SSL encryption, (please see Starfield Technologies website for details on these security measures). If at any time you would like to make a purchase, but do not want to provide your credit card information online, you may contact [CustomerSupportCorporateSite@yodle.com](mailto:CustomerSupportCorporateSite@yodle.com). It has always been a Yodle practice to contact customers in the event of a potential problem with your purchase or any normal business communication regarding your purchase.
 
 Yodle.com. Yodle has no desire or intent to infringe on your privacy while using the Yodle site.
 
