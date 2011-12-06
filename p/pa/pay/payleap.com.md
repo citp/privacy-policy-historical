@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payleap.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229045425id_/http%3A//www.payleap.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payleap.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206140530id_/http%3A//www.payleap.com/privacy.html) for the most accurate reproduction.*
 
 # Online Credit Card Transactions and Processing, Payment Gateway System, Internet Merchant Accounts & Services | Pay Leap
 
