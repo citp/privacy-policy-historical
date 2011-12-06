@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imtoolsuite.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605015320id_/http%3A//imtoolsuite.com/privacy_mlm.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtoolsuite.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206221717id_/http%3A//imtoolsuite.com/privacy_mlm.html) for the most accurate reproduction.*
 
 # Untitled Document
 
