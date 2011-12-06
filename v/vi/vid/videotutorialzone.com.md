@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videotutorialzone.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624030947id_/http%3A//www.videotutorialzone.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videotutorialzone.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206122825id_/http%3A//www.videotutorialzone.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy- VideoTutorialZone.com
 
