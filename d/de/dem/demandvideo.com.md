@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandvideo.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515012440id_/http%3A//www.demandmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandvideo.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206053033id_/http%3A//www.demandmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Demand Media
 
@@ -81,7 +81,7 @@ The information collected by third party cookies is subject to the privacy polic
 
 **C.     **Identity Theft. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see Section 9) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.
 
-**9.     ** **CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.**   For customer site matters (including questions relating to this Policy), you may email us at [legal@demandmedia.com](mailto:legal@demandmedia.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 15801 NE 24th St. Bellevue, WA 98008. 
+**9.     ** **CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY.**   For customer site matters (including questions relating to this Policy), you may email us at [legal@demandmedia.com](mailto:legal@demandmedia.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Legal Department, 5808 Lake Washington Blvd. Suite 300, Kirkland, WA 98033. 
 
 **10.     ** **FOR EUROPEAN UNION CITIZENS** **.**
 
