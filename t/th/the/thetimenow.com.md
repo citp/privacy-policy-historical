@@ -1,6 +1,25 @@
-> *The following text is extracted and transformed from the thetimenow.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311120335id_/http%3A//www.thetimenow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimenow.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207005923id_/http%3A//www.thetimenow.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | TheTimeNow.com
+# What time is it? | Official current time now
+
+**New Time Site!** We just released this new layout, if you see anything wrong or any issue please let us know. If you like what you see please share our site with your friends and colleagues. 
+
+[](https://web.archive.org/ "The Time Now - Official Current Time of the World")
+
+  * [Home](https://web.archive.org/)
+  * [About](https://web.archive.org/about-us.php)
+  * [Just a Clock](https://web.archive.org/clock)
+  * [Contact Us](http://www.thetimenow.com/contact.php)
+
+  
+  
+
+
+Search for a City or Country
+
+_Start typing and it will pop up!_
+
+## PRIVACY POLICY
 
 Privacy Policy for www.thetimenow.com 
 
