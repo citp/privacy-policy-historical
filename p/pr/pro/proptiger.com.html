@@ -1,0 +1,897 @@
+<!--The following is the downloaded HTML source of the proptiger.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206035340id_/http%3A//www.proptiger.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>proptiger.com - Residential Propeties in </title>
+	<link href="css/style.css" rel="stylesheet" type="text/css">
+	<link type="text/css" href="css/headerStyle.css" rel="stylesheet">	
+
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="scripts/dojo/dojo-release-1.5.0/dojo/dojo.js" type="text/javascript" djconfig="parseOnLoad:true"></script>
+	<link type="text/css" href="css/jquery-ui-1.8.9.custom.css" rel="stylesheet">	
+	<script type="text/javascript" src="scripts/jquery/jquery-1.4.4.min.js"></script>
+	<script type="text/javascript" src="scripts/jquery/jquery-ui-1.8.9.custom.min.js"></script>
+
+	<script src="scripts/common.js" type="text/javascript"></script>
+    
+
+</head>
+<body>
+
+<!--Header search code start here-->
+<link href="css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="lib/jquery.autocomplete.js"></script>
+
+
+
+<script type="text/javascript">
+	$().ready(function() {
+    $("#searchId").autocomplete("ajaxSearch.php", {
+	        width: 460,
+	        matchContains: true,
+	        selectFirst: false
+	    });
+	});
+
+
+/*function breakVal(myString)
+{
+	alert("Vimlesh="+myString);
+}*/
+function validationSearch(e,buttonEle)
+{
+
+	if((document.getElementById("searchId").value).replace(/^\s+|\s+$/g,"") == '')
+	{
+		e.preventDefault();
+		
+		document.getElementById("NoDataErr").style.display = '';
+		document.getElementById("searchId").focus();
+		return false;
+	}
+	//alert(buttonEle);
+		if(buttonEle == 1)
+		{
+		
+			var id = document.getElementById("cid").value;
+			document.getElementById("cityId").value = id.replace(/^\s+|\s+$/g,"");
+			if(document.getElementById("CName").value == '')
+			{
+				document.getElementById("LocalityList").value = 'All';
+				document.getElementById("LocId").value  = '';
+			}
+			else
+			{
+				document.getElementById("LocalityList").value = document.getElementById("searchId").value;
+				document.getElementById("LocId").value  = document.getElementById("LocId").value+","+document.getElementById("LocId").value;
+			}
+			
+			
+			
+			
+			var frm = document.forms["homePageSearchForm"];
+			//alert(buttonEle+"here"+document.getElementById("cityId").value);
+	
+		 // frm.subIndex.value=frm.suburbId[frm.suburbId.selectedIndex].value;
+			     frm.viewType.value = buttonEle;
+
+
+		//alert("herererere");
+			 frm.action="mappage.php";
+
+			
+
+			frm.viewType.value = buttonEle;
+
+			frm.submit();
+		 }
+
+
+
+
+	return true;
+}
+
+/*******End Header search code start here******/
+
+	function handleHeaderSearch(viewTypeVal) {
+	
+		document.getElementById("citySrchErr").innerHTML = "";
+		document.getElementById("budgetSrchErr").innerHTML = "";
+		
+		document.getElementById("citySrchErrCon").style.display = "none";
+		document.getElementById("budgetSrchErrCon").style.display = "none";
+		
+	
+		var frm = document.forms["hdrSearchForm"];
+		var budgetmsg = "";
+		var isError = false;
+		if (frm.cityId.value == "0") {
+			isError = true;
+			//msg += "City is required.";
+			document.getElementById("citySrchErrCon").style.display = "";
+			document.getElementById("citySrchErr").innerHTML = "Please enter City";
+		} 
+		
+		if (frm.minBudget.value == "0") {
+			isError = true;
+			budgetmsg += "Min ";
+		} 
+		if (frm.maxBudget.value == "0") {
+			isError = true;
+			if (budgetmsg != "") budgetmsg += " - ";
+			budgetmsg += "Max ";
+		}
+		var flag=false;
+		if ((frm.maxBudget.value != "0" && frm.minBudget.value != "0") && (parseInt(frm.maxBudget.value) < parseInt(frm.minBudget.value))) {
+			isError = true;
+			flag=true;
+			budgetmsg += "Max Price Should Be Greater";
+		}
+		
+
+		if (budgetmsg != "") {
+					if(budgetmsg != "Max Price less than Min Price")
+					if(flag==false)
+					{
+					budgetmsg += "Price Range is required";
+					}
+					document.getElementById("budgetSrchErrCon").style.display = "";
+					document.getElementById("budgetSrchErr").innerHTML = budgetmsg;
+		}
+
+            	
+			
+		
+		if (isError)
+		{
+			//document.getElementById("message").innerHTML = msg;
+			//showDialog();
+		} 
+		else 
+		{
+		    if(viewTypeVal=="2")
+	
+			 {
+			 
+
+	             frm.action="mappage.php";
+
+			     frm.viewType.value = viewTypeVal;
+   
+				 frm.submit();
+			  }
+			  else
+			  {
+
+
+			       var theurl="property-in-";
+				   var ele=document.getElementById("cityHeadSelect");
+				   var indx=document.getElementById("cityHeadSelect").selectedIndex;//frm.suburbId.selectedIndex];
+				   var inner=ele[indx].innerHTML;
+				   inner=inner.toLowerCase();
+				   theurl += inner;
+				   theurl +="-real-estate.php";
+                   
+	                 frm.action=theurl;		         	   
+					
+
+				     frm.viewType.value = viewTypeVal;
+				     frm.submit();
+			}
+		}
+
+	}
+
+	function showDialog() {
+		$( "#validationDialog" ).dialog({
+			modal: true,
+			buttons: {
+				Ok: function() {
+					$( this ).dialog( "close" );
+				}
+			}
+		});
+	}
+
+	
+var v = 0;
+function mover()
+{
+	v = 1;
+	jQuery('#searchJ').show();
+	jQuery('#mylink').addClass('sel');
+}
+
+function hideme()
+{
+	if(v==0)
+	{
+		jQuery('#searchJ').hide();
+		jQuery('#mylink').removeClass('sel');
+	}
+}
+
+function mout()
+{
+	v = 0;
+	setTimeout("hideme()",2000);
+}
+
+
+</script>
+
+<div id="bg_container">
+<div class="topline">
+	<h1 class="flt toptext">Property in Mumbai, Real Estate Mumbai</h1>
+<div class="flr">Contact Us: +91 78380 92855 / 78380 92856 (<strong>IND</strong>)&nbsp;&nbsp; | &nbsp;&nbsp;+1-347-468-9428 (<strong>USA</strong>)&nbsp;&nbsp;  | &nbsp;&nbsp;+44-208-099-1659 (<strong>UK</strong>)</div>
+</div>
+<div class="spacer5">&nbsp;</div>
+<div>
+<div class="flt"><a id="logo" target="_self" href="http://www.proptiger.com" title="Welcome to proptiger.com - Buy/Sell Best Residential Property in India" style="cursor:pointer;">&nbsp;</a> </div>
+
+<div class="flr rtbanner"><a href="http://www.proptiger.com/p-lodha-casa-rio-gold-mumbai-dombivali.php?utm_source=banner_ad&amp;utm_medium=banner&amp;utm_term=mumbai&amp;utm_campaign=website"><img src="images/banners/casario-gold-top-banner.gif" width="470" height="81" border="0" alt="Lodha Casa Rio Gold"></a></div>
+</div>
+<div class="spacer5">&nbsp;</div>
+<div id="menu" onmouseout="mout();">
+<div class="mn_menu">
+<ul>
+<li class="home"><a href="http://www.proptiger.com/" target="_self" title="Home"></a></li>
+ <li><a href="property-in-gurgaon-real-estate.php">Gurgaon</a></li>
+
+ <li><a href="property-in-noida-real-estate.php">Noida</a></li>
+
+ <li><a href="property-in-mumbai-real-estate.php">Mumbai</a></li>
+
+ <li><a href="property-in-pune-real-estate.php">Pune</a></li>
+
+ <li><a href="property-in-bangalore-real-estate.php">Bangalore</a></li>
+
+ <li><a href="property-in-chennai-real-estate.php">Chennai</a></li>
+
+ <li><a href="property-in-kolkata-real-estate.php">Kolkata</a></li>
+
+ <li><a href="property-in-hyderabad-real-estate.php">Hyderabad</a></li>
+
+ <li><a href="property-in-ahmedabad-real-estate.php">Ahmedabad</a></li>
+<li id="mylink" onmouseover="mover();"><a class="dropD" id="clickfortoggle">More Cities</a></li>
+</ul>
+</div>
+<div class="flr" style="padding-right:141px;" onmouseover="mover();">
+<div class="mN_Box" id="searchJ" style="display:none">
+        <ul class="pt_mainnav">
+	 <li>		<a href="property-in-delhi-real-estate.php">Delhi</a></li>
+	 <li>		<a href="property-in-ghaziabad-real-estate.php">Ghaziabad</a></li>
+	 <li>		<a href="property-in-indore-real-estate.php">Indore</a></li>
+	</ul>
+</div>
+</div>
+</div>
+<div class="spacer">&nbsp;</div>
+<div class="flr" style="display:none;"></div>
+<div class="spacer5">&nbsp;</div>
+<!--************************************************************-->
+<div class="searchbgInner">
+
+
+	<div class="flt" style="width:960px; color:#333333;">
+	<div class="searcghead" style="margin-top:25px; width:140px; margin-right:10px;">Find New Homes</div>
+	<form autocomplete="off" action="cities.php" method="post" name="homePageSearchForm">
+<div class="flt" style="padding-top:5px; line-height:20px;">
+<div><strong>Locality, City, Builder or Project name</strong><span style="color:#FF3300;">*</span><br>
+<div class="flt"><input type="text" class="headerinput ac_input" title="Search" id="searchId" name="SearchValue" value="e.g panvel mumbai" onfocus="if(this.value=='e.g panvel mumbai') this.value='';" onblur="if(this.value=='') this.value='e.g panvel mumbai';" autocomplete="off">
+	
+	<input type="hidden" name="cityId" id="cityHeadSelect" value="18">
+	<input type="hidden" name="cityIddup" id="cityId" value="18">
+	<input type="hidden" name="LocalityList" id="LocalityList">
+	<input type="hidden" name="searchCriteria" id="searchCriteria">
+
+	<input type="hidden" name="localityIdAlternate" id="localityIdAlternate">
+
+
+			<input type="hidden" name="localityId" id="localityId">
+		
+	<!--
+	<input type = "hidden" name = "cid" id = "cid">
+	<input type = "hidden" name = "fromCity" value = "true">
+	<input type = "hidden" name = "BedList" value = "">
+	<input type = "hidden" name = "suburbId">
+	<input type = "hidden" name = "SuburbList" value = "">
+	<input type = "hidden" name = "allSub" value = "false">
+	<input type = "hidden" name = "allLoc" value = "false">
+	-->	
+	</div>
+	
+	
+<div class="flt" style="margin-left:-25px; padding-top:4px; display:none;" id="searchLoader"><img src="images/search-loader.gif" width="24" height="24"></div>
+</div>
+<div class="spacer">&nbsp;</div>
+ <div id="NoDataErr" style="display:none"> <div class="spacer5">&nbsp;</div>
+<div class="err_msg_newhome"><img src="images/error_home.png" width="19" height="22" align="absmiddle">Please enter Location, City, Builder or project name</div></div>
+</div>
+	
+	<div class="flt" style="padding-top:5px; line-height:20px; margin-left:10px;"><strong>Min Price</strong><br>
+	
+		<select name="minBudget" id="minBudget" class="homeselect">
+		  <option value="0">Min</option>
+		<option value="5">5 Lacs</option>
+	   <option value="25">25 Lacs</option>
+		<option value="40">
+		40 Lacs</option>
+	   <option value="70">
+		70 Lacs</option>
+		<option value="150">
+		1.5 Cr</option>
+		</select>
+	</div>
+	<div class="flt" style="padding-top:5px; line-height:20px; margin-left:10px;"><strong>Max Price</strong><br>
+		<select name="maxBudget" id="maxBudget" class="homeselect">
+		  <option value="0">Max</option>
+			<option value="25">
+			25 Lacs</option>
+			<option value="40">
+			40 Lacs</option>
+			<option value="70">
+			70 Lacs</option>
+			<option value="150">
+			1.5 Cr</option>
+			<option value="500">
+			5 Cr</option>
+		</select>
+	</div>
+
+	<input type="hidden" name="LocName" id="LocName">
+	<input type="hidden" name="CName" id="CName">
+
+	<div class="flt" style="padding-top:5px; line-height:20px; margin-left:10px;"><strong>Bedrooms</strong><br>
+	
+		<select name="bedId" id="bedHeadSelect" class="homeselect">
+		   <option value="0">Select</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+		</select>
+	</div>
+	<input type="hidden" name="viewType" id="viewType">
+	<div class="flt" style="margin-top:22px; margin-left:10px;">
+
+		<input type="submit" class="hpnewsubmitbtn" value="SEARCH" onclick="handleHomePageSearch(0,'e');return false;"> <!--validationSearch(event,'0')-->
+	<input type="submit" class="hpnewmapbtn" value="ON MAP" onclick="handleHomePageSearch(1,'e');return false;">
+	</div>
+
+
+</form>
+
+	</div>
+	<div class="spacer">&nbsp;</div>
+</div>
+<!--**************************************************************************-->
+
+<!-- Where you are -->
+<div class="spacer3">&nbsp;</div>
+<!--
+<div id="mid_conatiner"><a href="#">Home</a>&nbsp;>&nbsp;<a href="property-in-mumbai-real-estate.php">Mumbai</a>
+
+</div>
+-->
+<div class="spacer3">&nbsp;</div>
+<!-- Ending -->
+
+<div id="validationDialog" style="display:none">
+	<div id="message"></div>
+</div>
+
+<!-- header ends here -->
+
+
+<div id="mid_conatiner">
+<!-- Left Container starts here -->
+<div class="project_left">
+<div>
+<div class="project_lefthead">Buyer &amp; Seller Resources</div>
+</div>
+<div class="spacer3">&nbsp;</div>
+<div><img src="images/resource_img.jpg" width="165" height="80" alt="Resources"></div>
+<div class="resource">
+<a href="homeloan.php">Home Loan</a>
+<a href="documents.php">Docs Required for Home Loan</a>
+<a href="loan_elig.php">Loan Eligibility Calculator</a>
+<a href="emi.php">EMI Calculator</a>
+<a href="loan_amortization.php">Loan Amortization Calculator</a>
+<a href="faqs.php">Property Buying Tips</a>
+<a href="vaastu.php">Vaastu Tips </a>
+<a href="nri.php">NRI Services </a>
+</div>
+<div class="spacer10">&nbsp;</div>
+<div><a href="http://www.proptiger.com/p-lodha-new-cuffe-parade-wadala-mumbai.php?utm_source=banner_ad&amp;utm_medium=banner&amp;utm_term=mumbai&amp;utm_campaign=website"><img src="images/banners/new-cuffe-parade-165x310.jpg" width="165" height="310" border="0" alt="Lodha New Cuffe Parade"></a></div>
+<div class="spacer10">&nbsp;</div>
+<div class="project_lefthead">Clients Testimonials</div>
+<div class="spacer3">&nbsp;</div>
+<div>PropTiger staff delivered on their promise right from the beginning. They efficiently processed my paperwork and got me the exact location and floor of my preference.<br>
+  <br>
+  Anita Kriplani<br>
+  <strong>USA </strong></div>
+  <div class="flr"><a href="testimonials.php">More</a></div>
+  <div class="spacer10">&nbsp;</div>
+ </div>
+<!-- Left Container ends here -->
+<div class="hp785">
+<div>
+<div class="hpmid_content" style="text-align:justify;">
+
+<div class="hphead">Privacy Policy</div>
+<div></div>
+  <div class="spacer10">&nbsp;</div>
+  <div style="margin-top:5px;">This Privacy policy is subject to the terms of the Site Policy (User agreement) of this website.<br>
+  <br>
+    In order to provide a personalised browsing experience, we may collect personal information from you. Additionally some of our websites may require you to complete a registration form or seek some information from you. When you let us have your preferences, we will be able to deliver or allow you to access the most relevant information that meets your end.<br>
+  <br>
+    To extend this personalized experience we may track the IP address of a user's computer and save certain information on your system in the form of cookies. A user has the option of accepting or declining the cookies of this website by changing the settings of your browser.<br>
+  <br>
+    The personal information provided by the users to us will not be provided to third parties without previous consent of the user concerned. Information of a general nature may however be revealed to external parties.<br>
+  <br>
+    Every effort will be made to keep the information provided by users in a safe manner, the information will be displayed on the website will be done so only after obtaining consent from the users. Any user browsing the site generally is not required to disclose his identity or provide any information about him/her, it is only at the time of registration you will be required to furnish the details in the registration form.<br>
+  <br> A user always has the option of not providing the information which is not mandatory. You are solely responsible for maintaining confidentiality of the User password and user identification and all activities and transmission performed by the User through his user identification and shall be solely responsible for carrying out any online or off-line transaction involving credit cards / debit cards or such other forms of instruments or documents for making such transactions and IEIL assumes no responsibility or liability for their improper use of information relating to such usage of credit cards / debit cards used by the subscriber online / off-line.<br>
+  <br>
+    You agree that proptiger may use personal information about you to improve its marketing and promotional efforts, to analyze site usage, improve the Site's content and product offerings, and customise the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customised experience while using the Site.<br>
+  <br>
+    You agree that proptiger may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications in your profile. You may make changes to your profile at any time. It is the belief of proptiger that privacy of a person can be best guaranteed by working in conjunction with the Law enforcement authorities.<br>
+  <br>
+    All proptiger websites including this website fully comply with all Indian Laws applicable. proptiger has always cooperated with all law enforcement inquires. proptiger may disclose all or part of your personal details in response to a request from the law enforcement authorities or in a case of bonafide requirement to prevent an imminent breach of the law.<br>
+  <br>
+    proptiger has taken all reasonable steps to ensure that information on this site is authentic. Users are advised to research bonafides of advertisers independently. proptiger shall not have any responsibility in this regard. We also recommend that you visit link to User agreement/Disclaimer for more comprehensive information on this aspect.</div>
+  <div></div>
+<div class="spacer15">&nbsp;</div>                 
+                            
+</div>
+</div>
+
+<div class="flr">
+  <div><a href="homeloan.php"><img border="0" src="images/home_loan.gif" width="248" height="209"></a></div>
+<div class="spacer15">&nbsp;</div>
+<div><a href="#" onclick="showSubsReqForm('Post Your Requirement'); return false;"><img border="0" src="images/post.gif" width="248" height="114"></a></div>
+<div class="spacer10">&nbsp;</div>
+</div>
+</div>
+</div>
+  <div class="spacer15">&nbsp;</div>
+
+
+<!-- Nirmal Lifestyle Ends here -->
+
+<!--- Footer starts here -->
+<div class="spacer3">&nbsp;</div>
+<div id="footer">
+<div class="mid_fot flt">
+<div class="midleft">Finding a Property?<br>
+<span class="grey1">Enter your e-mail ID and our experts will help you<br>
+ find your dream property</span><br>
+<div style="margin-top:4px;">
+<span class="flt"><input class="fieldbot" name="emailproperty" id="emailproperty" type="text"></span>
+<span class="flt" style="margin-left:5px;"><input type="button" class="gobtn" value="GO" onclick="showSubsReqForm('Post Your Requirement','gobtn'); return false;"></span>
+</div></div>
+
+<div class="flr" style="width:335px;">
+
+<div class="botcon">Call prop<font color="#f85616">tiger</font>.com:  <span class="big">+91 78380 92855 / 56</span><br>
+ +1-347-468-9428 <font color="#f85616">(USA)</font>  &nbsp; |  &nbsp;  +44-208-099-1659 <font color="#f85616">(UK)</font></div>
+
+<div class="mailcon">Mail Us: <a href="mailto:support@proptiger.com">support@proptiger.com</a></div>
+
+</div>
+</div>
+<div class="spacer15">&nbsp;</div>
+<div class="botlink">
+<div class="flt">
+<strong>Corporate Links</strong>
+<a href="index.php">Home</a>
+<a href="about_us.php">About Us</a>
+<a href="careers.php">Careers</a>
+<a href="http://www.proptiger.com/blog">Our Blog</a>
+<a href="contact_us.php">Contact Us</a>
+<a href="sitemap.php">Site Map</a>
+<a href="user_agreement.php">User Agreement</a>
+<a href="disclaimer.php">Disclaimer</a>
+<a href="privacy_policy.php">Privacy Policy</a>
+</div>
+<div class="botmarging">
+<strong>Property in India</strong>
+<a href="property-in-gurgaon-real-estate.php">Property in Gurgaon</a>
+<a href="property-in-noida-real-estate.php">Property in Noida</a>
+<a href="property-in-ghaziabad-real-estate.php">Property in Ghaziabad</a>
+<a href="property-in-delhi-real-estate.php">Property in Delhi</a>
+<a href="property-in-mumbai-real-estate.php">Property in Mumbai</a>
+<a href="property-in-pune-real-estate.php">Property in Pune</a>
+<a href="property-in-bangalore-real-estate.php">Property in Bangalore</a>
+<a href="property-in-chennai-real-estate.php">Property in Chennai</a>
+<a href="property-in-ahmedabad-real-estate.php">Property in Ahmedabad</a>
+<a href="property-in-indore-real-estate.php">Property in Indore</a>
+</div>
+
+<div class="botmarging">
+<strong>Builders</strong>
+<a href="b-dlf-group-projects.php">DLF</a>
+<a href="b-unitech-group-projects.php">Unitech Group</a>
+<a href="b-vatika-group-projects.php">Vatika Group</a>
+<a href="b-emaar-mgf-projects.php">Emaar MGF</a>
+<a href="b-ramprastha-group-projects.php">Ramprastha Group </a>
+<a href="b-eldeco-group-projects.php">Eldeco Group</a>
+<a href="b-3c-developer-projects.php">3C Group</a><a href="b-amrapali-group-projects.php">Amrapali</a></div>
+<div class="flt" style="margin-left:15px;">
+<strong>&nbsp;</strong>
+<a href="b-indiabulls-group-projects.php">Indiabulls</a>
+<a href="b-hiranandani-group-projects.php">Hiranandani</a>
+<a href="b-lodha-group-projects.php">Lodha Group</a>
+<a href="b-acme-group-projects.php">ACME Group</a>
+<a href="b-pra-realty-projects.php">PRA Realty</a>
+<a href="b-kolte-patil-developers-projects.php">Kolte Patil</a>
+<a href="b-marvel-group-projects.php">Marvel Group</a><a href="builder_gallery.php">All Builders</a></div>
+
+
+<div class="botmarging">
+<strong>Our Services</strong>
+<a href="/homeloan.php">Home Loan</a>
+<a href="/nri.php">NRI Services</a>
+<a href="/faqs.php">How to Buy</a>
+<a href="#">Investment Guide</a>
+<a href="http://www.proptiger.com/">Luxury Homes India</a>
+<a href="http://www.proptiger.com/">Buy Property in India </a>
+<a href="http://www.proptiger.com/">India Property </a>
+<a href="http://www.proptiger.com/"> Real Estate India</a>
+<a href="http://www.proptiger.com/">Residential Property</a>
+</div>
+
+<div class="flr">
+<div class="followus">Follow Us</div>
+<div style="margin-top:5px;" class="fotbannerlink">
+<a href="http://www.facebook.com/proptigercom" target="_blank">
+		<img src="images/fb_icon.gif" alt="Facebook" border="0">
+	</a>
+	<a href="http://www.twitter.com/proptiger" target="_blank">
+		<img border="0" src="images/tweet_icon.gif" alt="Tweeter" width="37" height="57" hspace="5">
+	</a>
+	<a href="http://in.linkedin.com/in/proptiger" target="_blank">
+		<img border="0" src="images/linked_icon.gif" alt="Linked In" width="37" height="57">
+	</a>
+	
+	<a href="http://www.youtube.com/proptiger" class="addthis_button_compact" target="_blank">
+		<img border="0" src="images/youtube_icon.gif" alt="You tube" width="37" height="57" hspace="5">
+	</a>
+</div>
+
+</div>
+</div>
+<div class="spacer5">&nbsp;</div>
+
+
+</div>
+<div class="spacer5">&nbsp;</div>
+<div class="fotblack"><img border="0" src="images/spacer.png" alt="Spacer" width="37" height="3"></div>
+<div class="spacer">&nbsp;</div>
+<div class="orange">Copyright © 2011<a style="color:#FFF; text-decoration:none;" href="http://www.proptiger.com"> proptiger.com</a> | All Rights Reserved.</div>
+</div>
+<!--footer ends here -->
+<!-- hidden enquiry form starts here -->
+
+<div id="subsReqForm" style="display:none">
+<div id="thanksContainer" style="display:none"></div>
+<div id="frmContainer">
+<div class="bluegadget_popup">
+<div class="bluehead_popup" id="formTitle">Enquire Now</div>
+<div class="spacer10">&nbsp;</div>
+<div class="pad5" style="line-height:16px;font-size:12px;" id="headermessage_footer">Thanks for showing your interest in <span id="prjName" class="pt_remove"> <strong style="color:#f17715">  - </strong></span>. Please register in the form below and our Sales Team will contact you shortly. </div>
+<div class="pad5" style="line-height:8px;">&nbsp;</div>
+
+
+<div class="formfull">
+<form name="enquiryForm_footer">
+<div class="formleft">Full Name<span style="color:#FF3300;">*</span>:</div>
+<div class="formright"><input name="name" type="text" class="field" onfocus="this.style.backgroundColor=''">
+</div></form></div>
+<!--<div class="formright err_msg" ></div>-->
+<div style="display:none" id="nameErr2">
+	<div class="formprojectleft">&nbsp;</div>
+	<div class="formright err_msg_red"></div>
+</div>
+<div class="spacer10">&nbsp;</div>
+
+<div class="formfull">
+<div class="formleft">Email<span style="color:#FF3300;">*</span>:</div>
+<div class="formright"><input name="email" type="text" id="emailform" class="field" onfocus="this.style.backgroundColor=''">
+</div></div>
+<!--<div class="formright err_msg" id="emailErr" style="display:none"></div>-->
+<div style="display:none" id="emailErr2">
+	<div class="formprojectleft">&nbsp;</div>
+	<div class="formright err_msg_red"></div>
+</div>
+<div class="spacer10">&nbsp;</div>
+
+<div class="formfull">
+<div class="formleft">Mobile No.<span style="color:#FF3300;">*</span>:</div>
+<div class="formright"><input name="phone" type="text" class="field" maxlength="16" onfocus="this.style.backgroundColor=''">
+</div></div>
+<!--<div class="formright err_msg" id="phoneErr" style="display:none"></div>-->
+<div style="display:none" id="phoneErr2">
+	<div class="formprojectleft">&nbsp;</div>
+	<div class="formright err_msg_red"></div>
+</div>
+
+<div class="spacer10">&nbsp;</div>
+<div class="formfull">
+<div class="formprojectleft">Country<span style="color:#FF3300;">*</span>:</div>
+<div class="formright"><select name="country" class="field" onfocus="this.style.backgroundColor=''" id="country">
+<option value="" class="optext">Country of Residence</option>
+<option value="India" class="optext">India</option>
+<option value="Australia" class="optext">Australia</option>
+<option value="Canada" class="optext">Canada</option>
+<option value="Pakistan" class="optext">Pakistan</option>
+<option value="United Arab Emirates" class="optext">United Arab Emirates</option>
+<option value="United Kingdom" class="optext">United Kingdom</option>
+<option value="United States" class="optext">United States</option>
+<option value="----------" class="optext">----------</option>
+<option value="Afghanistan" class="optext">Afghanistan</option>
+<option value="Albania" class="optext">Albania</option>
+<option value="Algeria" class="optext">Algeria</option>
+<option value="American Samoa" class="optext">American Samoa</option>
+<option value="Andorra" class="optext">Andorra</option>
+<option value="Angola" class="optext">Angola</option>
+<option value="Anguilla" class="optext">Anguilla</option>
+<option value="Antigua and Barbuda" class="optext">Antigua and Barbuda</option>
+<option value="Argentina" class="optext">Argentina</option>
+<option value="Armenia" class="optext">Armenia</option>
+<option value="Austria" class="optext">Austria</option>
+<option value="Azerbaijan" class="optext">Azerbaijan</option>
+<option value="Bahamas" class="optext">Bahamas</option>
+<option value="Bahrain" class="optext">Bahrain</option>
+<option value="Bangladesh" class="optext">Bangladesh</option>
+<option value="Barbados" class="optext">Barbados</option>
+<option value="Belarus" class="optext">Belarus</option>
+<option value="Belgium" class="optext">Belgium</option>
+<option value="Belize" class="optext">Belize</option>
+<option value="Benin" class="optext">Benin</option>
+<option value="Bermuda" class="optext">Bermuda</option>
+<option value="Bhutan" class="optext">Bhutan</option>
+<option value="Bosnia and Herzegovina" class="optext">Bosnia and Herzegovina</option>
+<option value="Botswana" class="optext">Botswana</option>
+<option value="Brazil" class="optext">Brazil</option>
+<option value="British Virgin Islands" class="optext">British Virgin Islands</option>
+<option value="Brunei" class="optext">Brunei</option>
+<option value="Bulgaria" class="optext">Bulgaria</option>
+<option value="Burkina Faso" class="optext">Burkina Faso</option>
+<option value="Burundi" class="optext">Burundi</option>
+<option value="Cambodia" class="optext">Cambodia</option>
+<option value="Cameroon" class="optext">Cameroon</option>
+<option value="Canary Islands" class="optext">Canary Islands</option>
+<option value="Cape Verde" class="optext">Cape Verde</option>
+<option value="Cayman Islands" class="optext">Cayman Islands</option>
+<option value="Central African Republic" class="optext">Central African Republic</option>
+<option value="Chad" class="optext">Chad</option>
+<option value="Chile" class="optext">Chile</option>
+<option value="China" class="optext">China</option>
+<option value="Colombia" class="optext">Colombia</option>
+<option value="Comoros" class="optext">Comoros</option>
+<option value="Congo" class="optext">Congo</option>
+<option value="Cook Islands" class="optext">Cook Islands</option>
+<option value="Costa Rica" class="optext">Costa Rica</option>
+<option value="Cote dIvoire" class="optext">Cote dIvoire</option>
+<option value="Croatia" class="optext">Croatia</option>
+<option value="Cuba" class="optext">Cuba</option>
+<option value="Cyprus" class="optext">Cyprus</option>
+<option value="Czech Republic" class="optext">Czech Republic</option>
+<option value="Denmark" class="optext">Denmark</option>
+<option value="Dominica" class="optext">Dominica</option>
+<option value="Dominican Republic" class="optext">Dominican Republic</option>
+<option value="East Timor" class="optext">East Timor</option>
+<option value="Ecuador" class="optext">Ecuador</option>
+<option value="Egypt" class="optext">Egypt</option>
+<option value="El Salvador" class="optext">El Salvador</option>
+<option value="Equatorial Guinea" class="optext">Equatorial Guinea</option>
+<option value="Eritrea" class="optext">Eritrea</option>
+<option value="Estonia" class="optext">Estonia</option>
+<option value="Ethiopia" class="optext">Ethiopia</option>
+<option value="Faeroe Islands" class="optext">Faeroe Islands</option>
+<option value="Fiji" class="optext">Fiji</option>
+<option value="Finland" class="optext">Finland</option>
+<option value="France" class="optext">France</option>
+<option value="French Guiana" class="optext">French Guiana</option>
+<option value="French Polynesia" class="optext">French Polynesia</option>
+<option value="Gambia" class="optext">Gambia</option>
+<option value="Georgia" class="optext">Georgia</option>
+<option value="Germany" class="optext">Germany</option>
+<option value="Ghana" class="optext">Ghana</option>
+<option value="Gibraltar" class="optext">Gibraltar</option>
+<option value="Greece" class="optext">Greece</option>
+<option value="Greenland" class="optext">Greenland</option>
+<option value="Grenada" class="optext">Grenada</option>
+<option value="Guadeloupe" class="optext">Guadeloupe</option>
+<option value="Guam" class="optext">Guam</option>
+<option value="Guatemala" class="optext">Guatemala</option>
+<option value="Guinea" class="optext">Guinea</option>
+<option value="Guinea-Bissau" class="optext">Guinea-Bissau</option>
+<option value="Guyana" class="optext">Guyana</option>
+<option value="Haiti" class="optext">Haiti</option>
+<option value="Holland" class="optext">Holland</option>
+<option value="Honduras" class="optext">Honduras</option>
+<option value="Hong Kong" class="optext">Hong Kong</option>
+<option value="Hungary" class="optext">Hungary</option>
+<option value="Iceland" class="optext">Iceland</option>
+<option value="Indonesia" class="optext">Indonesia</option>
+<option value="Iran" class="optext">Iran</option>
+<option value="Iraq" class="optext">Iraq</option>
+<option value="Ireland" class="optext">Ireland</option>
+<option value="Isle of Man" class="optext">Isle of Man</option>
+<option value="Israel" class="optext">Israel</option>
+<option value="Italy" class="optext">Italy</option>
+<option value="Jamaica" class="optext">Jamaica</option>
+<option value="Japan" class="optext">Japan</option>
+<option value="Jordan" class="optext">Jordan</option>
+<option value="Kazakhstan" class="optext">Kazakhstan</option>
+<option value="Kenya" class="optext">Kenya</option>
+<option value="Kiribati" class="optext">Kiribati</option>
+<option value="Kuwait" class="optext">Kuwait</option>
+<option value="Kyrgyzstan" class="optext">Kyrgyzstan</option>
+<option value="Laos" class="optext">Laos</option>
+<option value="Latvia" class="optext">Latvia</option>
+<option value="Lebanon" class="optext">Lebanon</option>
+<option value="Lesotho" class="optext">Lesotho</option>
+<option value="Liberia" class="optext">Liberia</option>
+<option value="Libya" class="optext">Libya</option>
+<option value="Liechtenstein" class="optext">Liechtenstein</option>
+<option value="Lithuania" class="optext">Lithuania</option>
+<option value="Luxembourg" class="optext">Luxembourg</option>
+<option value="Macau" class="optext">Macau</option>
+<option value="Macedonia" class="optext">Macedonia</option>
+<option value="Madagascar" class="optext">Madagascar</option>
+<option value="Malawi" class="optext">Malawi</option>
+<option value="Malaysia" class="optext">Malaysia</option>
+<option value="Maldives" class="optext">Maldives</option>
+<option value="Mali" class="optext">Mali</option>
+<option value="Malta" class="optext">Malta</option>
+<option value="Martinique" class="optext">Martinique</option>
+<option value="Mauritius" class="optext">Mauritius</option>
+<option value="Mexico" class="optext">Mexico</option>
+<option value="Moldova" class="optext">Moldova</option>
+<option value="Monaco" class="optext">Monaco</option>
+<option value="Mongolia" class="optext">Mongolia</option>
+<option value="Montenegro" class="optext">Montenegro</option>
+<option value="Montserrat" class="optext">Montserrat</option>
+<option value="Morocco" class="optext">Morocco</option>
+<option value="Mozambique" class="optext">Mozambique</option>
+<option value="Myanmar" class="optext">Myanmar</option>
+<option value="Namibia" class="optext">Namibia</option>
+<option value="Nepal" class="optext">Nepal</option>
+<option value="Netherlands" class="optext">Netherlands</option>
+<option value="Netherlands Antilles" class="optext">Netherlands Antilles</option>
+<option value="New Caledonia" class="optext">New Caledonia</option>
+<option value="New Zealand" class="optext">New Zealand</option>
+<option value="Nicaragua" class="optext">Nicaragua</option>
+<option value="Niger" class="optext">Niger</option>
+<option value="Nigeria" class="optext">Nigeria</option>
+<option value="North Korea" class="optext">North Korea</option>
+<option value="Norway" class="optext">Norway</option>
+<option value="Oman" class="optext">Oman</option>
+<option value="Others" class="optext">Others</option>
+<option value="Panama" class="optext">Panama</option>
+<option value="Papua New Guinea" class="optext">Papua New Guinea</option>
+<option value="Paraguay" class="optext">Paraguay</option>
+<option value="Peru" class="optext">Peru</option>
+<option value="Philippines" class="optext">Philippines</option>
+<option value="Poland" class="optext">Poland</option>
+<option value="Portugal" class="optext">Portugal</option>
+<option value="Puerto Rico" class="optext">Puerto Rico</option>
+<option value="Qatar" class="optext">Qatar</option>
+<option value="Reunion" class="optext">Reunion</option>
+<option value="Romania" class="optext">Romania</option>
+<option value="Russia" class="optext">Russia</option>
+<option value="Rwanda" class="optext">Rwanda</option>
+<option value="Saint Kitts and Nevis" class="optext">Saint Kitts and Nevis</option>
+<option value="Saint Lucia" class="optext">Saint Lucia</option>
+<option value="San Marino" class="optext">San Marino</option>
+<option value="Sao Tome and Principe" class="optext">Sao Tome and Principe</option>
+<option value="Saudi Arabia" class="optext">Saudi Arabia</option>
+<option value="Senegal" class="optext">Senegal</option>
+<option value="Serbia" class="optext">Serbia</option>
+<option value="Seychelles" class="optext">Seychelles</option>
+<option value="Sierra Leone" class="optext">Sierra Leone</option>
+<option value="Singapore" class="optext">Singapore</option>
+<option value="Slovakia" class="optext">Slovakia</option>
+<option value="Slovenia" class="optext">Slovenia</option>
+<option value="Solomon Islands" class="optext">Solomon Islands</option>
+<option value="Somalia" class="optext">Somalia</option>
+<option value="South Africa" class="optext">South Africa</option>
+<option value="South Korea" class="optext">South Korea</option>
+<option value="Spain" class="optext">Spain</option>
+<option value="Sri Lanka" class="optext">Sri Lanka</option>
+<option value="Sudan" class="optext">Sudan</option>
+<option value="Suriname" class="optext">Suriname</option>
+<option value="Swaziland" class="optext">Swaziland</option>
+<option value="Sweden" class="optext">Sweden</option>
+<option value="Switzerland" class="optext">Switzerland</option>
+<option value="Syrian Arab Republic" class="optext">Syrian Arab Republic</option>
+<option value="Tahiti" class="optext">Tahiti</option>
+<option value="Taiwan" class="optext">Taiwan</option>
+<option value="Tajikistan" class="optext">Tajikistan</option>
+<option value="Tanzania" class="optext">Tanzania</option>
+<option value="Thailand" class="optext">Thailand</option>
+<option value="Togo" class="optext">Togo</option>
+<option value="Trinidad and Tobago" class="optext">Trinidad and Tobago</option>
+<option value="Tunisia" class="optext">Tunisia</option>
+<option value="Turkey" class="optext">Turkey</option>
+<option value="Turkmenistan" class="optext">Turkmenistan</option>
+<option value="Uganda" class="optext">Uganda</option>
+<option value="Ukraine" class="optext">Ukraine</option>
+<option value="Uruguay" class="optext">Uruguay</option>
+<option value="Uzbekistan" class="optext">Uzbekistan</option>
+<option value="Vanuatu" class="optext">Vanuatu</option>
+<option value="Vatican City State" class="optext">Vatican City State</option>
+<option value="Venezuela" class="optext">Venezuela</option>
+<option value="Vietnam" class="optext">Vietnam</option>
+<option value="Wallis and Futuna" class="optext">Wallis and Futuna</option>
+<option value="Yemen" class="optext">Yemen</option>
+<option value="Yugoslavia" class="optext">Yugoslavia</option>
+<option value="Zambia" class="optext">Zambia</option>
+<option value="Zimbabwe" class="optext">Zimbabwe</option>
+</select>
+</div>
+</div>
+<!--<div class="formright err_msg" id="countryErr" style="display:none">-->
+<div style="display:none" id="countryErr2">
+	<div class="formprojectleft">&nbsp;</div>
+	<div class="formright err_msg_red"></div>
+</div>
+
+<div class="spacer10">&nbsp;</div>
+<div class="formfull">
+<div class="formleft">Query<span style="color:#FF3300;">*</span>:</div>
+<div class="formright"><textarea class="field" cols="4" rows="4" name="query" id="query_footer">Yes, I am interested. Please send me the price list of -</textarea>
+</div></div>
+<!--<div class="formright err_msg" id="queryErr" style="display:none"></div>-->
+<div style="display:none" id="queryErr2">
+	<div class="formprojectleft">&nbsp;</div>
+	<div class="formright err_msg_red"></div>
+</div>
+<div class="spacer10">&nbsp;</div>
+<div class="formfull">
+<div class="formleft">&nbsp;</div>
+
+<input type="hidden" name="cityId" value="">
+<input type="hidden" name="projectId" value="">
+<input type="hidden" name="cityName" value="">
+<input type="hidden" name="projectName" value="">
+<input type="hidden" name="frmflagpopup" id="frmflagpopup" value="detailfloorpopup">
+
+<div class="formright"><input name="Submit" type="button" value="Submit" class="submitbtn" onclick="submitSubReqForm()">
+	<a href="javascript:void(0)" onclick="$('#subsReqForm').dialog('destroy');" style="font-size:12px;">Close</a>
+</div></div>
+
+
+<div class="spacer10">&nbsp;</div>
+</div>
+</div>
+</div>
+
+
+
+<!-- hidden enquiry form ends -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22638191-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+</body></html>
