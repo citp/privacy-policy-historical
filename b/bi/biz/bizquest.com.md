@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318011620id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206071130id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
 
 # Business for Sale | Buy A Business or Sell A Business | Privacy Policy - BizQuest.com
 
 [Home](http://www.bizquest.com/) > **Privacy Policy**
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.bizquest.com/seal_m "Validate TRUSTe privacy certification")Last Updated: August 31, 2010 
+[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.bizquest.com/seal_m "Validate TRUSTe privacy certification")Last Updated: July 5, 2011 
 
-BizQuest is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [http://www.BizQuest.com/](http://www.bizquest.com/ "Businesses for sale on BizQuest"). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
+BizQuest has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe’s Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
 
   * The personally identifiable information collected and which organization is collecting the information 
   * How the information is used and with whom the information may be shared 
@@ -16,12 +16,12 @@ BizQuest is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an inde
 
 
 
-Questions regarding this statement can be submitted via this [contact form](http://www.bizquest.com/support/contact.asp "Contact Form"). Alternatively, please contact us by mail at BizQuest Administration -- Privacy Statement, 181 W. Huntington Dr., Suite 208, Monrovia, CA 91016, or by telephone at 888-280-3815.   
-If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. For more information on TRUSTe, please go to [http://www.truste.org](http://www.truste.org/ "TRUSTe"). 
+Questions regarding this statement can be submitted via this [contact form](http://www.bizquest.com/support/contact.asp "Contact Form"). Alternatively, please contact us by mail at BizQuest Administration -- Privacy Statement, 2100 E. Route 66, Suite 200, Glendora, CA 91740, or by telephone at 888-280-3815.   
+If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "Businesses for sale on BizQuest"). For more information on TRUSTe, please go to [ http://www.truste.org](http://www.truste.org/ "TRUSTe"). 
 
-## **BizQuest's Privacy Statement**
+##  **BizQuest's Privacy Statement**
 
-This privacy statement covers the website [http://www.BizQuest.com/](http://www.bizquest.com/ "Franchises for sale on BizQuest"). By accessing, using or registering with BizQuest's web site, you accept and agree to BizQuest's Privacy Policy. BizQuest provides a variety of online services to assist individuals and brokers with buying and selling businesses and franchises. BizQuest values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at BizQuest to provide the best quality service possible. The following privacy statement summarizes BizQuest's protection and use of any personal information provided by visitors to the BizQuest site. 
+This privacy statement covers the website [ http://www.BizQuest.com/](http://www.bizquest.com/ "Franchises for sale on BizQuest"). By accessing, using or registering with BizQuest's web site, you accept and agree to BizQuest's Privacy Policy. BizQuest provides a variety of online services to assist individuals and brokers with buying and selling businesses and franchises. BizQuest values your privacy, feedback and candor very highly. Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at BizQuest to provide the best quality service possible. The following privacy statement summarizes BizQuest's protection and use of any personal information provided by visitors to the BizQuest site. 
 
 This policy does not apply to any public area of BizQuest's web site or services. In the event you submit personally identifiable information to contact another member, contact a lister about a listing, create a listing, add a contact on a listing, the BizQuest Blog or Broker Directory, such information becomes publicly available and BizQuest is not responsible for the personally identifiable information you choose to submit to these services, forums, listings, or persons.
 
@@ -75,7 +75,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **Testimonials:**
 
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent to post their name along with their testimonial prior to any posting of such testimonial.
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent to post their name along with their testimonial prior to any posting of such testimonial. To request removal of your personal information from these testimonials, contact us at service@BizQuest.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why?
 
 **Opting-out, editing, updating or deleting personal information:**
 
@@ -86,6 +86,8 @@ Users who do not wish to receive marketing emails including the BizQuest Newslet
 You may correct or update your personally identifiable information by going to the area of the site where you submitted the information, and following the instructions to view, change or delete the information. 
 
 Credit card information submitted to BizQuest is typically used for a one-time charge to your account, and subsequent orders for renewals require users to resubmit the credit information. (An exception: Broker Membership accounts and Franchise Directory advertising are automatically renewed each month, using the original credit information submitted.) Therefore, for added security, any credit card information submitted to BizQuest is not accessible for review or modification by signing on to your ad. If you have questions regarding the credit card information used in ordering your products or services, please [contact us](http://www.bizquest.com/support/contact.asp "Contact Us") or at 888-280-3815.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@loopnet.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Notification Procedures:**
 
