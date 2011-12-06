@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623212806id_/http%3A//www.hostels.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostels.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206201811id_/http%3A//www.hostels.com/privacy.php) for the most accurate reproduction.*
 
 # Hostels.com - Every Hostel, Everywhere - 20,000+ Hostels Worldwide
 
