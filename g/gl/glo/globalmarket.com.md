@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalmarket.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423055519id_/http%3A//www.globalmarket.com/ppc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalmarket.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206165846id_/http%3A//www.globalmarket.com/ppc.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,3 +59,7 @@ You can access, view and edit your Registration Information and Publishing Infor
 ## Your feedback
 
 GlobalMarket welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses to [service@globalmarket.com](mailto:service@globalmarket.com)
+
+## Choice and Opt-Out 
+
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [service@globalmarket.com](mailto:service@globalmarket.com).
