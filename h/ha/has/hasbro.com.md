@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hasbro.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614220236id_/http%3A//www.hasbro.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasbro.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206160025id_/http%3A//www.hasbro.com/home/privacy.html) for the most accurate reproduction.*
 
 # HASBRO WEB SITE PRIVACY STATEMENT
 
@@ -121,7 +121,7 @@ Thanks. Have fun!
 
 ## NOTE TO PARENTS
 
-Hasbro has developed its Web site to be an enjoyable experience for children (and adults) of all ages. Hasbro recognizes that some younger children may not understand some of the information contained on the Web site or how the site operates. That is the purpose of the Privacy Statement. Please discuss this statement with your children so that they will better understand how to use the site and the information they may be asked to provide. Hasbro strongly believes that providing its visitors with accurate and adequate notice about the Web site will lead to informed choices and decisions about how to use the site, as well as protect its users' privacy. If you have any questions or comments about our policy, please contact us using the Contact Information provided below. For all other issues, please contact [Customer Service](https://web.archive.org/default.cfm?page=customer_care). 
+Hasbro has developed its Web site to be an enjoyable experience for children (and adults) of all ages. Hasbro recognizes that some younger children may not understand some of the information contained on the Web site or how the site operates. That is the purpose of the Privacy Statement. Please discuss this statement with your children so that they will better understand how to use the site and the information they may be asked to provide. Hasbro strongly believes that providing its visitors with accurate and adequate notice about the Web site will lead to informed choices and decisions about how to use the site, as well as protect its users' privacy. If you have any questions or comments about our policy, please contact us using the Contact Information provided below. For all other issues, please contact [Customer Service](https://web.archive.org/customer-service/contacts). 
 
 ## Children Under 13
 
@@ -146,7 +146,7 @@ Any personal information that a child provides to our Web site(s) for purposes o
 
 ## Disclosure of Children's Personal Information
 
-Please read the section titled ["With whom does Hasbro share my personal information"](https://web.archive.org/home/privacy.html#parents) (above) for our policy on the disclosure of personal information collected from and about children under 13.
+Please read the section titled ["With whom does Hasbro share my personal information"](https://web.archive.org/home/privacy.html#sharewith) (above) for our policy on the disclosure of personal information collected from and about children under 13.
 
 ## Parental Access
 
