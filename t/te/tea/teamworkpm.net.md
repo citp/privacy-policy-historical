@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413021526id_/http%3A//www.teamworkpm.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206125721id_/http%3A//www.teamworkpm.net/privacypolicy) for the most accurate reproduction.*
 
-# Teamwork Project Manager - Privacy Policy
+# Privacy Policy Teamwork Project Manager
 
 Your privacy is of great importance to us. This Privacy Policy exists to tell you what kind of information we may gather while you visit our website and how we may use such information.
 
