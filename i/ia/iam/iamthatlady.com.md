@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iamthatlady.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608130955id_/http%3A//www.iamthatlady.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamthatlady.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206192944id_/http%3A//www.iamthatlady.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | I am THAT Lady
-
-Posted by Lauren
 
 Privacy Policy for iamthatlady.com
 
@@ -22,4 +20,6 @@ We also use third party advertisements on iamthatlady.com to support our site. S
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-[Permalink](http://www.iamthatlady.com/about/privacy-policy/) | [Comments (0)](http://www.iamthatlady.com/about/privacy-policy/#comments) | June 6, 2010
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
