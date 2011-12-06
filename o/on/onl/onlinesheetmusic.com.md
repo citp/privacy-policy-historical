@@ -1,95 +1,89 @@
-> *The following text is extracted and transformed from the onlinesheetmusic.com privacy policy that was archived on 2009-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090713005624id_/http%3A//www.freehandmusic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesheetmusic.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206020112id_/http%3A//www.onlinesheetmusic.com/privacyinfo.aspx) for the most accurate reproduction.*
 
-# Download Digital Sheet Music 24/7 | FreeHandMusic.com
+# Privacy policy | OnlineSheetMusic.com
 
-How We Collect Information
+**What information do we collect?**
 
-The FreeHandMusic site collects personally identifying information when customers:
+We collect information from you when you register on our site, place an order or subscribe to our newsletter.
 
-> 1\. purchase digital music, print music or other products  
->  2\. provide content suggestions or send queries to FreeHandMusic employees  
->  3\. enter drawings, sweepstakes, contests or sign-up for FreeHandMusic's e-mail newsletter
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-If you choose not to register or provide personal information, you can still visit most of the FreeHandMusic.com site. However, you will not have access to areas and products that require personal identification.
+**What do we use your information for?**
 
-When you register or order online, FreeHandMusic collects your name, mailing address, User IDs, Usernames and passwords.
+Any of the information we collect from you may be used in one of the following ways:
 
-When you make a purchase using your credit card we pass your credit card number through secure payment gateways for verification and processing. We do not store your credit card number or expiration date.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-We respect your right to privacy and have implemented this Privacy Policy in recognition of the importance of using in a responsible way the information you choose to provide us.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-How We Use The Information We Collect
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-We use the information to help us improve our communications with you so you receive more of what you want and less of what you don't want. We send confirmation e-mail to our customers when we receive orders and ship orders. We also provide our customers with a newsletter that introduces new products and provides FreeHandMusic updates.
+• To process transactions
 
-We use credit card information to process orders; never for marketing purposes.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-We use information received from drawings, contests and sweepstakes to administer these promotions. We also use this information to let you know about our products and services.
-
-Unless otherwise disclosed during collection, or unless your prior permission is obtained, FreeHandMusic does not share with third parties personally identifying information collected from the distribution of FreeHandMusic products or gathered on the FreeHandMusic website, except that FreeHandMusic may share such information with third parties who are the developer, owner or licensor of the product or service in question. Finally, we must reserve the right to disclose information if required by law to do so.
-
-Removing Your Name From Our Mailing List
-
-If for any reason you wish to remove your name from the FreeHandMusic mailing list (newsletter), simply:
-
-> 1\. Go to www.FreeHandMusic.com  
->  2\. Log in (if not automatically logged in)  
->  3\. Click My Account  
->  4\. Click Edit My Account on the Account Information page  
->  5\. Un-check the box at the bottom of the page and click the Update Profile button
-
-Or you may notify us:
-
-| 
-
-By telephone:
-
-| 1-800-917-1949  
----|---  
   
-By mail:
+• To send periodic emails
 
-| Customer Relations  
-FreeHand Systems  
-95 First Street, Suite 200  
-Los Altos, CA 94022  
-  
-About IP Addresses
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-FreeHandMusic collects IP addresses to help with its system administration.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-An IP (Internet Protocol) address is a number that's automatically assigned to your computer whenever you're connected to the Internet. Web servers – the big computers that "serve" up Web pages – automatically identify your computer by its IP address.
+**How do we protect your information?**
 
-When customers request pages from FreeHandMusic.com, our servers log the customers' IP addresses. We do not link IP addresses to anything personally identifiable. This means that a user's session will be logged, but the user remains anonymous to us.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-Use of "Cookies"
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-"Cookies" are pieces of information that a website transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier for you by saving your passwords, purchases and preferences while you're at our site. The use of cookies is now an industry standard – you'll find them at most major websites.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-By showing how and when consumers use the site, cookies help webmasters meet their customers' needs. Many improvements and updates to websites are based on data collected by means of cookies.
+**Do we use cookies?**
 
-FreeHandMusic uses cookies:
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-  * to distinguish you from others during your visit to our site 
-  * to track (with a temporary cookie) which products you've chosen to view and/or purchase while shopping.  
-NOTE: If you decline these types of cookies, you may have difficulty ordering your selections.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
+**Do we disclose any information to outside parties?**
 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-FreeHandMusic does not use cookies:
+**California Online Privacy Protection Act Compliance**
 
-  * to retrieve information from your computer that was not originally sent in a cookie
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their account and clicking 'My Account' at the top of any page.
 
+**Childrens Online Privacy Protection Act Compliance**
 
-Information gathered by means of cookies is never shared with any third parties whatsoever.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Most web browsers are set up to accept cookies. If you'd prefer, you can set your browser to refuse cookies or to alert you whenever cookies are being sent. However, it is possible that some parts of a website, like FreeHandMusic's shopping areas, will not function properly if you do so.
+**Online Privacy Policy Only**
 
-Assent
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-By using the FreeHandMusic website, you signify your assent to the FreeHandMusic Privacy Policy. If you do not agree to this policy, please do not use the site. We reserve the right, at our discretion, to change, modify, add or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of the FreeHandMusic website following the posting of changes to these terms will signify that you accept the changes.
+**Terms and Conditions**
 
-Contact information
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Conditions of Use](https://web.archive.org/web/20111206020112id_/http%3A//www.onlinesheetmusic.com/conditions-of-use-t3.aspx)
 
-If you have any questions about FreeHandMusic's privacy policy, please send an e-mail to the FreeHandMusic legal department at [ http://www.FreeHandMusic.com/Feedback.aspx](https://web.archive.org/web/20090713005624id_/http%3A//www.freehandmusic.com/Feedback.aspx).
+**Your Consent**
+
+By using our site, you consent to our online privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+<http://support.onlinesheetmusic.com/desk/>
+
+Online Sheet Music, Inc.  
+P.O. Box 900  
+Los Altos, CA 94023-0900  
+USA  
+[privacy@onlinesheetmusic.com](mailto:privacy@onlinesheetmusic.com)
