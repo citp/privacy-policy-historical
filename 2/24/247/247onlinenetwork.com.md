@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247onlinenetwork.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606102053id_/http%3A//www.247onlinenetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247onlinenetwork.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206085529id_/http%3A//www.247onlinenetwork.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement provided by 247onlineNetwork
 
