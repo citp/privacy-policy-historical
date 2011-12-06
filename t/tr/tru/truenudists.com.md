@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truenudists.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324215049id_/http%3A//www.truenudists.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truenudists.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206173759id_/http%3A//www.truenudists.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Truenudists :: Privacy Policy
+# tn | Privacy Policy
 
 This is the web site of **truenudists.com**.(owned by SocialCO Media, LLC) 
 
@@ -8,7 +8,7 @@ Our postal address is
 **P.O. Box 73333  
 Phoenix, AZ 85050**
 
-We can be reached via e-mail at [support@truenudists.com](mailto:support@truenudists.com)  
+We can be reached via e-mail at mailto:support at truenudists.com  
 or you can reach us by telephone at 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
@@ -31,4 +31,4 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above email addresses 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
