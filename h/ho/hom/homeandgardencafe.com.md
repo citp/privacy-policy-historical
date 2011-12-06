@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeandgardencafe.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624011417id_/http%3A//homeandgardencafe.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeandgardencafe.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206234231id_/http%3A//homeandgardencafe.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Home and Garden Cafe
 
