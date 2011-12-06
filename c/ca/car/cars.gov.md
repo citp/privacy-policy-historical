@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cars.gov privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616123243id_/http%3A//www.dot.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cars.gov privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206100217id_/http%3A//www.dot.gov/privacy.html) for the most accurate reproduction.*
 
 # Home | U.S. Department of Transportation
 
@@ -114,3 +114,5 @@ For more information or for comments and concerns on our privacy practices, plea
 DOT has conducted Privacy Impact Assessments on applicable systems.
 
 [View our Privacy Impact Assessments](http://www.dot.gov/pia.html)
+
+Last updated: June 29, 2011
