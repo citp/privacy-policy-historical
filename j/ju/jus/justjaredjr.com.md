@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justjaredjr.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503211025id_/http%3A//justjaredjr.buzznet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justjaredjr.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206211528id_/http%3A//justjaredjr.buzznet.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy And Consumer Education | Just Jared Jr. - JJJ
+# Privacy Policy And Consumer Education | Just Jared Jr.
 
 It is Buzznet’s policy to respect the privacy of Members. We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use our website located at justjaredjr.buzznet.com (the “Site”). This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes.
 
