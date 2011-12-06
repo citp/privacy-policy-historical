@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lensoftruth.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201233428id_/http%3A//www.lensoftruth.com/%3Fpage_id%3D5609) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensoftruth.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206085303id_/http%3A//www.lensoftruth.com/%3Fpage_id%3D5609) for the most accurate reproduction.*
 
-# Lens of Truth » Privacy Policy : Just telling the truth
-
-##  Privacy Policy
+# Privacy Policy - Lens of Truth
 
 ## Information that is gathered from visitors
 
