@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acdc.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624060326id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acdc.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206214352id_/http%3A//www.sonymusic.com/privacypolicy.html) for the most accurate reproduction.*
 
 # SONY MUSIC ENTERTAINMENT PRIVACY POLICY | Sony Music Entertainment
 
