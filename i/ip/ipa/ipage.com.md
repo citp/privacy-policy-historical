@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipage.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627200513id_/http%3A//www.ipage.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipage.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206203921id_/http%3A//www.ipage.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # iPage's Privacy Policy
 
