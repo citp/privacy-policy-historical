@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mychannel957.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608005515id_/http%3A//mychannel957.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychannel957.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206215512id_/http%3A//mychannel957.com/privacy) for the most accurate reproduction.*
 
-# 95.7 WLHT Radio : Mychannel 957 Best Mix : Grand Rapids Music
+# 95.7 WLHT Radio : My Channel 957 Best Mix : Grand Rapids Music
 
 ### About MYCHANNEL957.COM
 
