@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onlycashsurveys.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513054524id_/http%3A//onlycashsurveys.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlycashsurveys.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206104320id_/http%3A//onlycashsurveys.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Only Cash Surveys Privacy Policy
 
 |  |   
 ---  
-| [](https://web.archive.org/web/20110513054524id_/http%3A//onlycashsurveys.com/index.php) | [](https://web.archive.org/web/20110513054524id_/http%3A//onlycashsurveys.com/registration.php) | [](https://web.archive.org/web/20110513054524id_/http%3A//onlycashsurveys.com/aboutus.php) | [](https://web.archive.org/web/20110513054524id_/http%3A//onlycashsurveys.com/privacy_policy.php) | [](https://web.archive.org/web/20110513054524id_/http%3A//onlycashsurveys.com/faq.php)  
+| [](https://web.archive.org/web/20111206104320id_/http%3A//onlycashsurveys.com/index.php) | [](https://web.archive.org/web/20111206104320id_/http%3A//onlycashsurveys.com/registration.php) | [](https://web.archive.org/web/20111206104320id_/http%3A//onlycashsurveys.com/aboutus.php) | [](https://web.archive.org/web/20111206104320id_/http%3A//onlycashsurveys.com/privacy_policy.php) | [](https://web.archive.org/web/20111206104320id_/http%3A//onlycashsurveys.com/faq.php)  
 ---|---|---|---|---  
   
 |  OnlyCashSurveys Privacy Policy - Updated 3/11/2010  
