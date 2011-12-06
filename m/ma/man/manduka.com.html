@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the manduka.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626191814id_/http%3A//www.manduka.com/us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manduka.com privacy policy that was archived on 2011-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111206011038id_/http%3A//www.manduka.com/us/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
     <title>Manduka™ High Performance Yoga Mats and Yoga Accessories | Privacy Policy</title>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta name="ROBOTS" content="FOLLOW, INDEX">
 
-    <meta name="description" content="Manduka eco-friendly, innovative yoga gear is chosen first by yoga teachers worldwide - for your practice and for our world. ">
-    <meta name="keywords" content="manduka, manduka yoga mats, yoga mats, yoga mat, travel yoga mat, sticky yoga mat, yoga gear, yoga props, yoga towels, yoga bags, black mat pro">
+    <meta name="description" content="Manduka high-performance yoga mats and yoga gear: chosen first by yoga teachers worldwide. Find the world's best yoga mat's and eco-friendly yoga products.">
+    <meta name="keywords" content="manduka, manduka yoga mats, yoga mats, yoga mat, travel yoga mat, sticky yoga mat, yoga gear, yoga props, yoga towels, yoga bags, black mat pro, best yoga mats, yoga products, yoga gear">
     <link rel="shortcut icon" href="https://manduka-static.s3.amazonaws.com/images/common/favicon.ico" type="image/x-icon">
 
     <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/swfobject.js"></script>
     <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/jquery.js"></script>
     <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/jquery.form.js"></script>
+    <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/jquery.cookie.js"></script>
     <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/fn.backgroundPosition.js"></script>
     <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/webcube.js"></script>
     <script type="text/javascript" src="https://manduka-static.s3.amazonaws.com/js/manduka.js"></script>
@@ -23,17 +24,58 @@
     <link rel="stylesheet" href="https://manduka-static.s3.amazonaws.com/meta_catalog/css/cart_summary.css" type="text/css" media="screen">
     <!--[if lte IE 7]><link rel="stylesheet" href="https://manduka-static.s3.amazonaws.com/css/manduka.ie.css" type="text/css" media="screen" /><![endif]-->
     <link type="text/css" rel="stylesheet" href="https://manduka-static.s3.amazonaws.com/css/jquery.fancybox.css">
-	
+
 	<link rel="image_src" href="https://manduka-static.s3.amazonaws.com/images/common/manduka-logo.gif">
 
     <script type="text/javascript">
 //<![CDATA[
    $(document).ready(function() {
-      if ($('#item_count').text() == "") {
-        $('#item_count').load('/us/cart/ajax/cart-item-count/');
-      }
-   });  
-//]]> 
+        // Load the carts item count
+        if ($('#item_count').text() == "") {
+            $('#item_count').load('/us/cart/ajax/cart-item-count/');
+        }
+
+        // Holiday popup for organic traffic
+        if(!$.cookie('organic-popup')){
+            $.getJSON('/us/organic-traffic/', function(data){
+                if(data.source){
+                    // INSERT CODE HERE FOR POPUP
+                    var bannerStrip = $('#email_banner_strip'),
+                        bannerBox = $('.email_banner'),
+                        pageWrap = $('#container');
+
+                    bannerBox.slideDown(400);
+                    pageWrap.animate({'marginTop':'-58px'}, 250);
+                    bannerStrip.slideDown(400);
+
+                    $('span.close_btn').click(function() {
+                        bannerBox.slideUp(300);
+                        pageWrap.animate({'marginTop':'0'}, 450);
+                        bannerStrip.slideUp(300);
+                    });
+
+                	$('#email_signup').submit(function() {
+                		$.post('/us/organic-traffic/email/', {
+                            'email': $('#email_signup_input').val()
+                        }, function(data){
+                            if(data.success){
+                                $('.thankyou').fadeIn(400);
+                            } else {
+                                if(data.message){
+                                    alert(data.message);
+                                } else {
+                                    alert('Sorry, an error occurred. Please check your email address and try again.');
+                                }
+                            }
+                        });
+                		return false;
+                	});
+                }
+            });
+            $.cookie('organic-popup', '1', {expires: 7})
+        }
+   });
+//]]>
     </script>
     
     
@@ -42,18 +84,35 @@
 </head>
 <body class="">
     
+    <div id="email_banner_strip"></div>
     <div id="wrap">
         
+
         <div id="header_bg"></div>
         <div id="container">
+
+            <div class="email_banner">
+
+                <form id="email_signup" class="middle clearfix" action="/us/organic-traffic/email/" method="post"><div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="4314259e7945b34edf5333a9aabf7ca3"></div>
+                    <input id="email_signup_input" type="email" name="email" maxlength="128" placeholder="your e-mail">
+                    <input id="email_signup_submit" type="submit" class="submit" value="">
+                </form>
+
+                <div class="thankyou"></div>
+
+                <div class="close"><span class="close_btn"></span></div>
+            </div> <!--! end of #email_banner -->
+
             <div id="header">
+
                 <h1 id="manduka_logo"><a href="/us/"><span>Manduka</span></a></h1>
                 <ul id="main_nav">
                     <li id="shop">
                         <div id="shop_dd_bg"></div>
                         <a href="/us/catalog/"><span>Shop</span></a>
                         <ul id="drop_down">
-                            
+                                    <li><a href="/us/yoga-gift-guide/">Yoga Gift Guide</a></li>
+
     
         <li><a href="/us/catalog/">All Gear</a></li>
     
@@ -90,9 +149,13 @@
         <li><a href="/us/catalog/categories/products/media/">Media</a></li>
     
 
-		<li><a href="/us/catalog/categories/categories/kits-gifts/">Kits + Gifts</a></li>
-        <li><a href="/us/lyrics/">NEW Lyrics Collection</a></li>
+    
+        <li><a href="/us/catalog/categories/products/john-friend-collection/">John Friend Collection</a></li>
+    
 
+        <li><a href="/us/lyrics/">Lyrics Collection</a></li>
+        <li><a href="/us/catalog/categories/categories/kits-gifts/">Kits + Gifts</a></li>
+        <!--<li><a href="/us/john-friend/">John Friend Collection</a></li>-->
                         </ul>
                     </li>
                     <li id="community"><a href="/us/community/"><span>Community</span></a></li>
@@ -118,7 +181,7 @@
                         <input type="image" value="Search" src="https://manduka-static.s3.amazonaws.com/images/common/search-arrow.gif" id="product_search_submit">
                     </form>
                     <div id="cart_link" class="shopping_cart_info">
-                        <p>shopping cart:</p> 
+                        <p>shopping cart:</p>
                         <p><a href="/us/cart/basket/" class="cart_icon">Cart</a></p>
                         <p><span id="cart_count"><a href="/us/cart/basket/"><span id="item_count"><!--#include virtual="/us/cart/ajax/cart-item-count/"--></span> items</a></span></p>
                         <div class="cart_extra_active"></div>
@@ -129,12 +192,12 @@
 					<!-- US -->
 					<div id="header_free_shipping">
 					    <div id="free_shipping_arrow"></div>
-					    <h3><a href="/us/terms-and-conditions/">Free Shipping on All Orders</a></h3>
+					    <h3><a href="/us/free-shipping-all-orders/">Free Shipping on All Orders</a></h3>
 					</div>
 					
 
             </div> <!-- /header -->
-            
+
             <div id="content" class="main">
                 
 <div id="accent_header">
@@ -175,7 +238,7 @@
 </div>
 
             </div>
-            
+
             <div id="footer">
                 <div id="footer_csb">
 
