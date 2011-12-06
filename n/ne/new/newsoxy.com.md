@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsoxy.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609204716id_/http%3A//www.newsoxy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoxy.com privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206094915id_/http%3A//www.newsoxy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - NewsOXY
 
 The following discloses our information gathering and dissemination practices for this Web site: NewsOXY.com and network sites. The NewsOXY.com and network Web sites (“sites”) are operated by NewsOXY, LLC. (“NewsOXY.com”). You can reach us with questions regarding this statement via the contact page.
 
@@ -46,9 +46,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. These options are in your “Account Menu” upon registration. You can edit the “Account Menu” at anytime.
 
-****    |    ****
-
-**Stay Connected**
+### Follow Us
 
 [](http://www.facebook.com/newsoxy)Add our [Facebook](http://www.facebook.com/newsoxy) page to receive updates and participate in new tools and features. It's a great way to stay connected with all the latest news.
 
