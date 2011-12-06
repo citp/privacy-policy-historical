@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613081458id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfundraising.org.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206235021id_/http%3A//www.easyfundraising.org.uk/privacy) for the most accurate reproduction.*
 
-# privacy | Easy Fundraising Ideas | easyFundRaising.org.uk | easyfundraising
-
-[Home](https://web.archive.org/) > [privacy](https://web.archive.org/privacy/)
+# Privacy Policy - easyfundraising.org.uk
 
 easyfundraising ([www.easyfundraising.org.uk](https://web.archive.org/)) is the trading name of easyfundraising Limited (the data controller) company number: 04764164 whose registered office is at Harmony House, 34 High Street, Aldridge, Walsall, West Midlands WS9 8LZ. We make every effort to safeguard your privacy and the policy that follows explains the data processing we do and how we do it. If you have any further queries on our use of your data, please contact [support@easyfundraising.org.uk](mailto:support@easyfundraising.org.uk). By using this site you consent to our collecting data about you, using it and also contacting you in certain ways. 
 
