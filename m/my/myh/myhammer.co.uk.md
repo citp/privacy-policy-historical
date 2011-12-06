@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607194214id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhammer.co.uk privacy policy that was archived on 2011-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111206161127id_/http%3A//www.myhammer.co.uk/showPage.php%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Find a Tradesman or Handyman For Any Job - For Free!
 
 Effective Date: 07.02.2011   
-If you want to save or print this Privacy Policy you can download it as a [PDF-file](http://static.myhammer.com/live/structure/110207_privacy_UK.pdf) and save the file to a suitable location on your computer. To open the document you may need to install a suitable viewer, such as Adobe® Reader®. Adobe® Reader® can be downloaded for free from [Adobe®’s website](http://www.adobe.com/products/acrobat/readstep2.html). 
+If you want to save or print this Privacy Policy you can download it as a [PDF-file](http://a.myhcdn.net/live/structure/110207_privacy_UK.pdf) and save the file to a suitable location on your computer. To open the document you may need to install a suitable viewer, such as Adobe® Reader®. Adobe® Reader® can be downloaded for free from [Adobe®’s website](http://www.adobe.com/products/acrobat/readstep2.html). 
 
 #### TRUSTe Privacy Seal:
 
