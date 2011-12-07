@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iowatelecom.net privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628091055id_/http%3A//www.windstream.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iowatelecom.net privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207082736id_/http%3A//www.windstream.com/privacy.aspx) for the most accurate reproduction.*
 
 # Windstream Privacy Popup
 
