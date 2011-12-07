@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anymeeting.com privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408092910id_/http%3A//www.anymeeting.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anymeeting.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207054050id_/http%3A//www.anymeeting.com/Privacy.aspx) for the most accurate reproduction.*
 
 # AnyMeeting Webinar Service Privacy Policy - Free Webinar Services, Free Web Conferencing, Free Online Meetings
 
