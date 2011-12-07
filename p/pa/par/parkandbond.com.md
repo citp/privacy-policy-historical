@@ -1,100 +1,59 @@
-> *The following text is extracted and transformed from the parkandbond.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkandbond.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207054242id_/http%3A//www.parkandbond.com/company/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Park & Bond
 
-**Go Daddy Respects Your Privacy**
+## 1\. Disclaimer & Privacy Policy.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The information we collect through our Site helps us provide you with information specific to your needs and interests. This privacy policy (the “Privacy Policy”) covers the Gilt Groupe website (the “Site”). Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, “we”, “us”, “our” and other similar references mean Gilt Groupe and “you” and “your” and other similar references mean a specific user of the Site. By visiting the Site, you accept the practices described in this Privacy Policy.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## 2\. How Does Gilt Groupe Gather and Use Information?
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+(i) Cookies. Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Websites typically use temporary cookies called “session” cookies to ensure that you are recognised when you move from page to page within one site and that any information you have entered is remembered. For example, if an e-commerce site did not use session cookies then items placed in a shopping basket would disappear by the time you reach the checkout. Websites also use cookies called “persistent” cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. Gilt Groupe attempts to install both persistent and session cookies when a user arrives at our Site. Cookies enable our systems to gather information about your navigational patterns through the site. Viewers have the option to accept or disable cookies at any time through their browsers. Visit the “help” portion of your toolbar for more information. If you block or refuse to accept cookies, or delete cookies between visits to the site, you may not be able to access or use certain features or functions of our Site.
 
-**Information Collection and Use**
+(ii) Server Statistics. We collect general statistics to track user trends on our Site. These statistics include hits to our server, the types of browsers used to access our Site, page views, and navigational patterns. The information that is collected in this manner does NOT provide us with any personally identifiable information about our users. It helps us track “where” our users are coming from. This allows us to pinpoint high traffic areas and determine the most effective ways to communicate with our users. As part of that ongoing analysis, Gilt Groupe also uses devices called “web beacons” to help us identify when emails sent to you have been received and read. In order to prevent the introduction of viruses and hackers into the Gilt Groupe site we may collect information, such as IP addresses, into a log file to be used to identify potential hackers of the Gilt Groupe site.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+(iii) Personal Information You Provide Us. For the purposes of this Privacy Policy, "Personal Information" is any information that identifies you, would enable someone to contact you, or that describes your relationship with Gilt Groupe. We collect and store Personal Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. While you are not required to submit any information to our Site, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Site and we may not be able to provide you with certain services. Gilt Groupe uses your Personal Information to complete transactions, respond to your requests, deliver the products and services you request, and notify you of promotions, updates, or special offers (which may be offered by Gilt Groupe or one of its Site Affiliates via email) that we think may interest you. If you are already receiving gilt.com or giltgroupe.com emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every gilt.com or giltgroupe.com e-email, or contact us through the [preference center](https://web.archive.org/account/update_email_preferences) to modify subscriptions.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+## 3\. What Security Procedures Does Gilt Groupe Use To Protect Personal Information?
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We use physical, electronic, and administrative safeguards to assist us in preventing unauthorized access, maintaining data accuracy, and correctly using your Personal Information. Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your Personal Information to the employees, agents, and officers of Gilt Groupe who need the information for their jobs.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## 4\. Will Gilt Groupe Disclose The Information It Collects To Outside Parties?
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Gilt Groupe may share information with its subsidiaries and other affiliated companies, and with other carefully selected vendors and business partners with whom we work (collectively, "Site Affiliates"). This includes companies that offer affinity, frequent-user, and reward programs; and, companies that perform marketing services and other business operations for us (including providing goods and services to our users, as necessary to complete transactions you request). All companies that act on our behalf are contractually obligated to keep all information confidential and to use the customer information only to provide the services we ask them to perform for you and us. We may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third party vendors, but these statistics do not include Personal Information. We may disclose Personal Information we collect from you if required to do so by law or in the good-faith belief that disclosure is necessary (a) to obey the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or the rights or property of other users of our Site; or (c) to act in an emergency to protect the personal safety of users of our Site or the public. On a limited basis, we may also disclose your Personal Information to certain Site Affiliates for their use in contacting you, when we reasonably believe their products or services are complementary to your interests or Gilt Groupe's business.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## 5\. External Links. Other companies or organizations may have links to their Sites on our Site.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We are not responsible for how these other companies or organizations collect, use, disclose, or secure the information that you provide them. If you choose to access a third party Site linked to our Site, you do so at your own risk and subject to any terms of service or privacy policy (if any) associated with such third party Sites.
 
-**Security**
+## 6\. Collection Of Information From Children.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Gilt Groupe does not direct any of our content specifically to children. Users of our Site are required to be at least 18 years old, and any user under 18 is not an authorized user. If we learn that a user is under thirteen (13) years of age, we will promptly delete any Personal Information we have collected about that user.
 
-**Updating Your Information**
+## 7\. Consent To Processing In The United States.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+By providing any Personal Information to Gilt Groupe, all users, including, without limitation, users in Canada and the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the transfer of such Personal Information across international borders in accordance with Gilt Groupe’s standard operations, including the collection, storage, and processing of such information in the United States of America.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+## 8\. Your California Privacy Rights.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+As provided by California Civil Code Section 1798.83, a California resident who has provided Personal Information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed Personal Information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of Personal Information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom Personal Information was disclosed in the preceding calendar year, as well as a list of the categories of Personal Information that were disclosed. However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer's Personal Information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of Personal Information and providing a cost free means to exercise that right. Except as expressly stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting in to receive information from a third party that is participating in some activity describes on our site. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific activity, as we do not share information with any third party on a continual basis. To prevent disclosure of your Personal Information for use in direct marketing by a third party, do not opt in to such use when you provide Personal Information on our site. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-      iii.      You may call us at: (480) 505-8800
+However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s Personal Information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of Personal Information and providing a cost free means to exercise that right.
 
-       iv.      You may fax us at: (480) 505-8844
+As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting in to receive information from a third party that is participating in some activity describes on our site. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific activity, as we do not share information with any third party on a continual basis. To prevent disclosure of your Personal Information for use in direct marketing by a third party, do not opt in to such use when you provide Personal Information on our site. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-**Sending Emails**
+California customers may request further information about our compliance with this law by emailing [CaliforniaPrivacy@gilt.com](mailto:CaliforniaPrivacy@gilt.com). Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## 9\. Modification And Notification Of Changes.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Gilt Groupe may at our sole discretion edit this Privacy Policy. Notice of all changes to the Privacy Policy will be provided as specified in Section 13 (Modification and Notification of Changes) of the
 
-**Compliance with Laws and Law Enforcement**
+[Terms of Service](https://web.archive.org/company/termsOfUse).
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## 10\. In Summary.
 
-**Third Party Service Providers**
+Gilt Groupe is committed to protecting your privacy. The information collected from our Site helps us better understand our market and consumer interests. This allows us to serve our customers and business associates with the level of satisfaction they deserve.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to [privacy@gilt.com](mailto:privacy@gilt.com).
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+2 Park Avenue, 4th Floor, New York, NY 10016
