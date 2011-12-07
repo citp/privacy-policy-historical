@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the champlain.edu privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523184351id_/http%3A//www.champlain.edu/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champlain.edu privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207223739id_/http%3A//www.champlain.edu/Privacy-Statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Champlain College
 
 Champlain College respects the privacy of your personal information and does not, under any circumstances, rent or sell personal information submitted by visitors to our site to any outside third party.
 
