@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joydesk.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021055025id_/http%3A//joydesk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joydesk.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207135142id_/http%3A//joydesk.com/privacy-policy) for the most accurate reproduction.*
 
 # Joydesk
 
