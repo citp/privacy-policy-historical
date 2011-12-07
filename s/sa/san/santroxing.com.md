@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santroxing.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231185254id_/http%3A//www.hyundai.com/in/en/Utilities/PrivacyPolicy/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santroxing.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207104416id_/http%3A//www.hyundai.com/in/en/Utilities/PrivacyPolicy/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Hyundai Motor Company :: PRIVACY POLICY
 
