@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplefastloans.co.uk privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424141153id_/http%3A//www.simplefastloans.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplefastloans.co.uk privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207213459id_/http%3A//www.simplefastloans.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Logbook Loans | Privacy Policy
 
