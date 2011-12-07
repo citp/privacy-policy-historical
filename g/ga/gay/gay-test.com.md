@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gay-test.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123135805id_/http%3A//gay-test.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gay-test.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207223449id_/http%3A//www.gay-test.com/privacy.asp) for the most accurate reproduction.*
 
 # Gay-Test.com - Privacy Policy
 
