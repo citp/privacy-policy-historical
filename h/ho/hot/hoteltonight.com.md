@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the hoteltonight.com privacy policy that was archived on 2011-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110124225812id_/http%3A//www.hoteltonight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoteltonight.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207091814id_/http%3A//www.hoteltonight.com/privacy) for the most accurate reproduction.*
 
 # Hotel Tonight - Privacy Policy
 
-[](https://web.archive.org/)
-
-### Last updated: December 1, 2010
+### Last updated: May 18, 2011
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By using the HotelTonight mobile application (the “Application”), you are accepting the practices described in this Privacy Policy.**
 
@@ -28,20 +26,20 @@ We will not sell your personally identifiable information to anyone. We share pe
 
 **Affiliated Businesses We Control.** Subject to applicable legal restrictions, we may share your personal information with the affiliated businesses we control to make sure that your experience with us is as seamless as possible and that you have the full benefit of our offerings. The use of such information by such controlled affiliates remains subject to this Privacy Policy.
 
-**Affiliated Businesses We Do Not Control:** We work closely with hotels and other businesses that we do not control (“third party”). When you use the Application or Services to transact business with a third party, we may share your personally identifiable information with that party. Except as specifically set forth in this Privacy Policy, we do not provide personally identifiable information to third parties for the marketing of their own products and services without your consent.
+**Affiliated Businesses We Do Not Control:** We work closely with hotels and other businesses that we do not control (“third party”). When you use the Application or Services to transact business, we may share your personally identifiable information with a third party. Except as specifically set forth in this Privacy Policy, we do not provide personally identifiable information to third parties for the marketing of their own products and services without your consent.
 
-**Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. We share customer’s personally identifiable information with these agents as we deem necessary for them to perform their functions.
+**Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. We share customer's personally identifiable information with these agents as we deem necessary for them to perform their functions.
 
 **Promotional Offers:** We may enter into alliances, partnerships or other business arrangements with third parties for the purpose of providing you information regarding products and services that we think may be of interest to you. In addition, we may also use personally identifiable information to notify you about important changes to our mobile applications, new services and special offers we think you will find valuable. If you do not want to receive such offers, please adjust your customer communication preferences.
 
-**Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in this Privacy Policy (unless, of course, the customer consents otherwise). Also, in the event that HotelTonight is acquired, customer information will of course be one of the transferred assets.
+**Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in this Privacy Policy (unless, of course, the customer consents otherwise). Also, in the event that Hotel Tonight is acquired, customer information will of course be one of the transferred assets.
 
   
 
 
 ### Children
 
-HotelTonight does not sell products for purchase by children. If you are under 18, you may use HotelTonight only with the involvement of a parent or guardian.
+Hotel Tonight does not sell products for purchase by children. If you are under 18, you may use Hotel Tonight only with the involvement of a parent or guardian.
 
   
 
@@ -62,7 +60,7 @@ California law requires that we provide you with a summary of your privacy right
 
 ### Conditions of Use, Notices, and Revisions
 
-If you use the Application, your use and any dispute over privacy is subject to this Privacy Policy, our the Apple End User License Agreement and our Terms of Service, including limitations on damages, arbitration of disputes, and application of the law of the State of California. If you have any concern about privacy at HotelTonight, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Policy and the Terms of Use Agreement will change also. You should check our website to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+If you use the Application, your use and any dispute over privacy is subject to this Privacy Policy, our the Apple End User License Agreement and our Terms of Service, including limitations on damages, arbitration of disputes, and application of the law of the State of California. If you have any concern about privacy at Hotel Tonight, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Policy and the Terms of Use Agreement will change also. You should check our website to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
   
 
@@ -73,8 +71,8 @@ You may contact us through the following means at the following addresses:
 
 By Mail:
 
-ECM #10455, PO Box 7775  
-San Francisco, CA 94120-7775
+144 Second St, 3rd Floor  
+San Francisco, CA 94105
 
 By Email:
 
