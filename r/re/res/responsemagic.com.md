@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218043614id_/http%3A//responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207192146id_/http%3A//www.responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Email Marketing System | Email Marketing Software | Email Responder | Auto Responder | Email Deliverabiliy
 
@@ -67,6 +67,3 @@ We believe that keeping personal information secure is one of our most significa
 When we request customers to enter sensitive information (such as the credit card number), it is encrypted and protected with the best encryption software in the industry -- SSL. While on a secure page, such as our order form, the lock icon at the bottom of web browsers, such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked, or open, when you are just 'surfing'. 
 
 All of our customers' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk, or a customer service representative) are granted access to personally identifiable information.
-
-  
-
