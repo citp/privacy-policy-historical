@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the himss.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204021546id_/http%3A//www.himss.org/asp/legal.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himss.org privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207080726id_/http%3A//www.himss.org/asp/legal.asp%23privacy) for the most accurate reproduction.*
 
 # HIMSS - Legal Disclaimer, Copyright, Trademark and Privacy Policy
 
 Watch the HIMSS Year In Review Video
 
-[](https://web.archive.org/web/20101204021546id_/http%3A//www.himss.org/asp/about_YIRvideo.asp)
+[](https://web.archive.org/web/20111207080726id_/http%3A//www.himss.org/asp/about_YIRvideo.asp)
 
 ## DISCLAIMER
 
@@ -54,8 +54,6 @@ We use cookies to store visitors’ preferences, record session information (suc
 
 **Ad Servers**  
 To best present offers that may be of interest to you, we have relationships with other carefully selected companies that we allow to place ads on our web pages. As a result of your visit to our sites, ad server companies may collect information such as your domain type, your IP address, and clickstream information. The use of such information is governed by the privacy policy of these other companies.
-
-We may use advertising networks to help present advertisements on our sites.  These advertising networks use cookies to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks to determine the characteristics and preferences of their audience. We may share certain aggregate and non-personally-identifiable information about our users in order to help them deliver more relevant advertisements through their ad networks.  The Bizographic Targeting Network (Bizo) is one such network in which we participate.  If you wish to ‘opt out’ of the targeted advertising delivered by Bizo, please click <http://www.bizo.com/business_audience/opt_out> to visit the Bizo opt out page.
 
 **Security**  
 HIMSS takes every precaution to protect your information from unauthorized use. When you submit sensitive information via our websites, the information is protected both online and offline. When our registration/subscription form asks for a credit card number or other sensitive information, that information is encrypted and protected with the best encryption software in the industry — SSL.
