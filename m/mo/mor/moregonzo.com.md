@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moregonzo.com privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227160247id_/http%3A//legal.moregonzo.com/%3Faxs_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moregonzo.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207085508id_/http%3A//legal.moregonzo.com/%3Faxs_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
