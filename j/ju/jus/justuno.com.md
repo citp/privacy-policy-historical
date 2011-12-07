@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justuno.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521004029id_/http%3A//www.justuno.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justuno.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207051011id_/http%3A//www.justuno.com/privacy.asp) for the most accurate reproduction.*
 
 # Justuno: Coupon Code publishing tool for online retailers.
 
-This Privacy Policy (this "Policy") describes how personal information is collected from users of the Justuno website at http://www.Justuno.com (the "Site") and the Justuno coupon publishing service ("Coupon Publishing Service"), operated by Justuno, LLC. ("Justunos," "we," or "us") and how that information is used and disclosed. The Coupon Publishing Service is provided both through the Site and through third party sites via framing techniques as described below ("Third Party Sites"). We encourage you to read this Policy carefully before providing any personal information on the Site or Coupon Publishing Service.                        
+This Privacy Policy (this "Policy") describes how personal information is collected from users of the Justuno website at http://www.justuno.com (the "Site") and the Justuno coupon publishing service ("Coupon Publishing Service"), operated by Justuno, LLC. ("Justunos," "we," or "us") and how that information is used and disclosed. The Coupon Publishing Service is provided both through the Site and through third party sites via framing techniques as described below ("Third Party Sites"). We encourage you to read this Policy carefully before providing any personal information on the Site or Coupon Publishing Service.                        
 
 Information We Collect                        
 
