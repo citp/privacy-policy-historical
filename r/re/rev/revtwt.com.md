@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revtwt.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628055930id_/http%3A//revtwt.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revtwt.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207143058id_/http%3A//revtwt.com/common/privacy.php) for the most accurate reproduction.*
 
 # RevTwt - Twitter Advertising - Make money from your tweets!Twitter Advertising Network
 
