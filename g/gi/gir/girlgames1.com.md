@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlgames1.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425165414id_/http%3A//www.girlgames1.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgames1.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207093401id_/http%3A//www.girlgames1.com/privacy.html) for the most accurate reproduction.*
 
 # Girl Games 1 - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Google, as a third party vendor, uses cookies to serve your ads.  
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the internet.  
-Users may opt out of the use of the DART cookie by visiting the [Google advertising privacy policies](http://www.google.com/privacy_ads.html).  
+Users may opt out of the use of the DART cookie by visiting the [Google advertising privacy policies](http://www.google.com/privacy/ads/).  
 
 
 Websites linking to this http://www.girlgames1.com have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below.
