@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the affiliatepunisher.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517211448id_/http%3A//affiliatepunisher.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatepunisher.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207141537id_/http%3A//affiliatepunisher.com/privacy.html) for the most accurate reproduction.*
 
 # Affiliate Punisher - Earnings Income Disclaimer
 
-Pursuant to Canadian Provincal & Federal Laws the following is a statement of your legal rights.
+Pursuant to Canadian Federal & Ontario Provincial Laws the following is a statement of your legal rights.
 
 **PRIVACY POLICY**
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how "Advanced Marketing Wealth Solutions Incorporated" herein known as the "Company" collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
 
 **Personal Information Our Company Collects and How It Is Used**
 
@@ -151,20 +151,17 @@ Our Company's Commitment to Data Security:  Services and Web sites we sponsor h
 
 Where to Direct Questions About Our Privacy Policy:  If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. 
 
-Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
+Revisions to This Policy: Our company Advanced Marketing Wealth Solutions Incorporated reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
 
 Last updated: Janurary 25th, 2009
 
 Contact information 
 
-Peter Parks   
-Niche Profit Marketing LLC  
-Business Office (905) 818-6756  
-152 Essling Dr Hamilton,Ontario Canada  
-L9B-2H9
-
-Twitter me <http://twitter.com/ceosuccess>
+Advanced Marketing Wealth Solutions Incorporated  
+Business Office (289) 244-7481  
+22 Bankfield Crest Hamilton Stoney Creek,Ontario Canada  
+L8J-0B9
 
 2020
 
-Copyright © 2009 AffiliatePunisher.com,  Peter Parks, Niche Profit Marking LLC 
+Copyright © 2009 AffiliatePunisher.com,  Advanced Marketing Wealth Solutions Incorporated. 
