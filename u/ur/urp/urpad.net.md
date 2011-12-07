@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urpad.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627160114id_/http%3A//urpad.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urpad.net privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207151004id_/http%3A//urpad.net/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# URPad | Privacy Policy
 
 URPad.net has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -16,11 +16,11 @@ Contact information from the order forms is used to get in touch with the custom
 
 Billing information that is collected is used to bill the user for services.
 
-Unique identifiers are collected from Web site visitors to verify the user’s identity.
+Unique identifiers are collected from Web site visitors to verify the user's identity.
 
 Demographic and profile data is also collected at our site.
 
-We use this data to tailor our visitor’s experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
 **Security**
 
@@ -32,8 +32,4 @@ Information collected on this site is strictly for our use, NO OTHER OUTSIDE PER
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin@urpad.net  
-
-
-  
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin@urpad.net
