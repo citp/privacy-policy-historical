@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the loopholelewy.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608150921id_/http%3A//loopholelewy.com/loopholelewy/main-nav/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopholelewy.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207083138id_/http%3A//www.loopholelewy.com/loopholelewy/main-nav/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Deductions for Late Filers
-
-If you missed the April 18 deadline and filed an extension, you have until **October 17, 2011** to file your Form 1040. 
-
-_**Don't overlook any deductions when you're ready to file.**_
-
-[10 Oddball Tax Deductions](http://www.kqzyfj.com/qg121nmvsmu9DBGHJJB9BAFCHBHG)
-
-[11 Most Overlooked Tax Deductions](http://www.kqzyfj.com/2c111uoxuowBFDIJLLDBDCHEFICE)
+With unemployment skyrocketing, people are looking for ways to bring in some extra cash. As a result, the home business market is exploding. Perhaps you lost your job or just want to make more money. You can do it with an online business. [Here's how...](https://web.archive.org/web/20111207083138id_/http%3A//www.loopholelewy.com/loopholelewy/01-tax-basics-for-startups/drop-shipping.htm)
 
 ## Privacy Policy
 
