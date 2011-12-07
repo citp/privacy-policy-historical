@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527232652id_/http%3A//www.fanniemae.com/kb/index%3Fpage%3Dhome%26c%3Dlegal_privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207231941id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
 
-# Legal - Privacy Statement | Fannie Mae
+# Privacy Statement | Fannie Mae
 
 Fannie Mae respects your concerns about privacy and values its relationship with you. This Online Privacy Notice applies to the following Fannie Mae Web sites (our "Sites")
 
@@ -11,37 +11,26 @@ Fannie Mae respects your concerns about privacy and values its relationship with
 
 
 
+  
 This Online Privacy Notice describes the types of personal information we collect on our Sites, how we use the information, with whom we share the information, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
 This Online Privacy Notice does not apply to information provided to us by business entities or individuals acting in a professional capacity using our technology applications, even if launched through eFannieMae.com. If you use any of our technology applications in the course of your business with us, information you submit will be governed by our agreement with you governing the use of that application. We will only use and disclose such information in accordance with all applicable laws.
-
-Click on one of the links below to jump to the listed section:
-
-  * **Information We Collect**
-  * **How We Use The Information We Collect**
-  * **Sharing of Information**
-  * **Your Rights and Choices**
-  * **How We Protect Personal Information**
-  * **Links to Other Web site and Embedded Content**
-  * **Updates To Our Online Privacy Notice**
-  * **How to Contact Us**
-
-
 
 ### Information We Collect
 
 We may obtain certain personal information (such as name and other contact details) through our Sites. Here are the most common types of information:
 
-  * Contact information (such as name, postal address, email address, telephone number and fax number);
-  * login and access credentials (such as username and password);
-  * information about your property or mortgage loan;
-  * age and gender;
-  * real estate license number; and
-  * responses to brief online surveys
-  * comments you submit through our Sites.
+  * Contact information (such as name, postal address, email address, telephone number and fax number); 
+  * login and access credentials (such as username and password); 
+  * information about your property or mortgage loan; 
+  * age and gender; 
+  * real estate license number; and 
+  * responses to brief online surveys 
+  * comments you submit through our Sites. 
 
 
 
+  
 We offer visitors to our Sites various services, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these services.
 
 When you visit our Sites, information may be collected through automated technologies such as cookies, web server logs and web beacons. A "cookie" is a file that Web sites send to a visitor's computer or other Internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. The information collected using these tools may include your IP address, browser characteristics, operating system, the address of the web page that referred you to our Site, dates and times of Site visits, the language your system uses, and the country and time zone in which your device is located. These technologies permit the collection of "clickstream data," which may include a log of content you access while browsing a website.
@@ -52,17 +41,18 @@ On some of our Sites, we also use third-party web analytics services, such as Om
 
 We may use the information we collect to:
 
-  * Verify your identity;
-  * provide, administer and communicate with you about products, services, and events;
-  * create, administer and communicate with you about your online account or subscription;
-  * process, evaluate and respond to your requests, inquiries and applications;
-  * provide and administer communications tools available through our sites, such as tools for submitting online offers to purchase homes owned by Fannie Mae;
-  * operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research; managing our advertising and marketing; analyzing our products, services and our sites; administering our sites; and performing accounting, auditing, billing, reconciliation and collection activities);
-  * protect against and prevent fraud, unauthorized activity, claims and other liabilities; and
-  * comply with and enforce applicable legal requirements, industry standards and our policies and terms of use
+  * Verify your identity; 
+  * provide, administer and communicate with you about products, services, and events; 
+  * create, administer and communicate with you about your online account or subscription; 
+  * process, evaluate and respond to your requests, inquiries and applications; 
+  * provide and administer communications tools available through our sites, such as tools for submitting online offers to purchase homes owned by Fannie Mae; 
+  * operate, evaluate and improve our business (including developing new products and services; managing our communications; performing market research; managing our advertising and marketing; analyzing our products, services and our sites; administering our sites; and performing accounting, auditing, billing, reconciliation and collection activities); 
+  * protect against and prevent fraud, unauthorized activity, claims and other liabilities; and 
+  * comply with and enforce applicable legal requirements, industry standards and our policies and terms of use 
 
 
 
+  
 We also may use the information in other ways for which we provide specific notice at the time of collection.
 
 ### Sharing of Information
@@ -90,3 +80,11 @@ This Online Privacy Notice may be updated periodically and without prior notice 
 ### How to Contact Us
 
 If you have any questions or comments about this Online Privacy Notice, please:
+
+Write to:  
+Fannie Mae   
+3900 Wisconsin Ave., NW   
+Washington, DC 20016
+
+E-mail:  
+ **[Privacy_WorkingGroup@fanniemae.com](mailto:Privacy_WorkingGroup@fanniemae.com?subject=Fannie%20Mae%20Online%20Privacy%20Notice)**
