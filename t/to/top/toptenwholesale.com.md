@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the toptenwholesale.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315145629id_/http%3A//www.toptenwholesale.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenwholesale.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207132926id_/http%3A//www.toptenwholesale.com/privacy.html) for the most accurate reproduction.*
 
 # JP Communications Privacy Policy
 
-  * [Home](https://web.archive.org/)
-  * [About TopTen](https://web.archive.org/about.html)
-  * [Press Center](https://web.archive.org/press)
-  * [Contact Us](https://web.archive.org/contact.html)
-  * **Privacy Policy**
-  * Previous Privacy Policies:  
-[Prior to 9/26/2005](https://web.archive.org/privacy_092506.html)
-  * [Terms Of Use](https://web.archive.org/terms_of_use.html)
-  * [Advertising Program Terms](https://web.archive.org/advertiser_terms.html)
-
-| 
-
 JP Communications considers your privacy to be very important. We follow the privacy principles of notice, choice, onward transfer, security, data integrity, access and enforcement, and are registered with the U.S. Department of Commerce's safe harbor program.
 
-This policy applies to all of our Websites and the services offered by JP Communications (capitalized terms are defined here). For additional information about our privacy policy, please contact us through this or the other Websites or at 970 Los Vallecitos Blvd., Suite 222, San Marcos, California 92069.
+This policy applies to all of our Websites and the services offered by JP Communications (capitalized terms are defined here). For additional information about our privacy policy, please contact us through this or the other Websites or at 448 S.Hill St. Suite 712 Los Angeles, CA 90013.
 
 This privacy policy covers information we collect and how we use it, choices that you have for your personal information and sharing and transferring of information.
 
@@ -107,13 +95,13 @@ When you use JP Communications services, we make good faith efforts to provide y
 
 ## Enforcement:
 
-JP Communications regularly reviews its compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or JP Communications's treatment of personal information by contacting us through this or our other Websites or by writing to us at 970 Los Vallecitos Blvd., Suite 222, San Marcos, California 92069 USA. When we receive formal written complaints at this address, it is JP Communications's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between JP Communications and an individual.
+JP Communications regularly reviews its compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or JP Communications's treatment of personal information by contacting us through this or our other Websites or by writing to us at 448 S.Hill St. Suite 712 Los Angeles, CA 90013 USA. When we receive formal written complaints at this address, it is JP Communications's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between JP Communications and an individual.
 
 ## Changes To This Policy:
 
 Please note that this privacy policy may change from time to time. We will not reduce your rights under this policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-For additional information about the Websites, JP Communications or our Privacy Policy, please contact us through this or the other Websites or at 970 Los Vallecitos Blvd., Suite 222, San Marcos, California 92069.
+For additional information about the Websites, JP Communications or our Privacy Policy, please contact us through this or the other Websites or at 448 S.Hill St. Suite 712 Los Angeles, CA 90013.
 
 ## JP Communications Privacy Definitions:
 
@@ -146,4 +134,4 @@ For example, when you submit information to a web page (such as a user login ID 
 
 
 
-For additional information about the Websites, JP Communications or our Privacy Policy, please contact us through this or the other Websites or at 970 Los Vallecitos Blvd., Suite 222, San Marcos, California 92069.
+For additional information about the Websites, JP Communications or our Privacy Policy, please contact us through this or the other Websites or at 448 S.Hill St. Suite 712 Los Angeles, CA 90013.
