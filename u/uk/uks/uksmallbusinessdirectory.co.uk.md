@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305170644id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uksmallbusinessdirectory.co.uk privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207232657id_/http%3A//www.uksmallbusinessdirectory.co.uk/privacy.htm) for the most accurate reproduction.*
 
-# UK Small Business Directory - privacy policy
+# UK Small Business Directory - privacy policy 3/05/10
 
   
 
@@ -30,6 +30,8 @@ We may collect the following information:
 
   * other information relevant to customer surveys and/or offers
 
+  * the business description you provide us
+
 
 
 
@@ -39,7 +41,7 @@ We require this information to understand your needs and provide you with a bett
 
   * Internal record keeping.
 
-  * To display in our online business directory
+  * To publically display in our online business directory
 
   * We may use the information to improve our products and services.
 
@@ -47,7 +49,9 @@ We require this information to understand your needs and provide you with a bett
 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-  * We may occasionally contact you by email, phone, fax or mail to offer you special offers, upgrade options and enhanced listings .
+  * We may occasionally contact you by email, phone, fax or mail to offer you special offers, upgrade options and enhanced listings.
+
+  * We may occasionally pass on your information and contact details to other businesses/individuals who provide marketing services.
 
 
 
