@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613085406id_/http%3A//www.strutta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strutta.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207132931id_/http%3A//www.strutta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Strutta
 
@@ -71,21 +71,21 @@ Strutta utilizes both online and offline security methods, such as firewalls, pa
 
 During your visit to the Site, the Site notes:
 
-  * the internet domain and internet protocol address from which you access the Site;
-  * the type of browser and operating system used to access the Site;
-  * the date and time you access the Site;
-  * the pages you visit on the Site; and
-  * if you link from or are referred to the Site from another website, the address of that website.
+  1. the internet domain and internet protocol address from which you access the Site;
+  2. the type of browser and operating system used to access the Site;
+  3. the date and time you access the Site;
+  4. the pages you visit on the Site; and
+  5. if you link from or are referred to the Site from another website, the address of that website.
 
 
 
 We use this information for statistical purposes and to help Strutta provide you with the best possible experience while visiting the Site. To elaborate, we use cookies and log file information to:
 
-  * store information so that you will not have to re-enter it during your visit or the next time you visit the Site;
-  * customize the content and information you see in your use or access of the Site;
-  * monitor advertising campaigns, which help to provide the Site;
-  * analyze Site metrics such as total number of visitors, pages viewed, and demographics; and
-  * track your entries, number of votes per user and Contest or Activity prize eligibility.
+  1. store information so that you will not have to re-enter it during your visit or the next time you visit the Site;
+  2. customize the content and information you see in your use or access of the Site;
+  3. create, manage and monitor advertising campaigns, which help to provide the Site;
+  4. analyze Site metrics such as total number of visitors, pages viewed, and demographics; and
+  5. track your entries, number of votes per user and Contest or Activity prize eligibility.
 
 
 
