@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialmentor.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607144407id_/http%3A//financialmentor.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialmentor.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207163548id_/http%3A//financialmentor.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,6 +25,8 @@ FinancialMentor.com does use its database for sending its newsletter and various
 ## Third Party Vendors and Sponsors:
 
 FinancialMentor.com may include icons, buttons, or text in it’s site or through its newsletters and various promotions which, when activated, will allow you to access and learn more about other products and services throughout the worldwide web. When you access any of these services, your rights will be governed solely by the agreements and policies relating to the use of these services including but not limited to their privacy policy. FinancialMentor.com is not responsible for the privacy practices or the content of any third party product or service providers.
+
+When you visit this website, you may view advertisements posted on the site by Google or other companies. These advertising companies may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and elsewhere on the Internet about products and services you might like. This website does not collect the information or control the content of the advertisements that you will see. You may be able to opt out of such advertising. To find out more about Google and its DoubleClick DART cookie used to generate interest-based advertising, [click this link](http://www.google.com/privacy_ads.html "Google double click dart"). Your use of this website without opting out means that you understand and agree to data collection to provide you with interest-based advertising.
 
 ## Purchasing Products Or Services:
 
