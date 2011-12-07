@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyelectronics.net privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625092734id_/http%3A//www.simplyelectronics.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyelectronics.net privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207073931id_/http%3A//www.simplyelectronics.net/privacy.php) for the most accurate reproduction.*
 
 # Buy Consumer Electronics at Simply Electronics
 
@@ -54,7 +54,7 @@ This privacy policy only covers our Websites. Any other websites which may be li
 
 | 
 
-[](https://web.archive.org/web/20110625092734id_/http%3A//www.simplyelectronics.net/contact.php)
+[](https://web.archive.org/web/20111207073931id_/http%3A//www.simplyelectronics.net/contact.php)
 
   
 
@@ -71,16 +71,16 @@ This privacy policy only covers our Websites. Any other websites which may be li
   
 
 
-[](https://web.archive.org/web/20110625092734id_/http%3A//www.simplyelectronics.net/deal.php)
+[](https://web.archive.org/web/20111207073931id_/http%3A//www.simplyelectronics.net/deal.php)
 
   
 
 
-[](https://web.archive.org/web/20110625092734id_/http%3A//www.simplyelectronics.net/exdemo.php)
+[](https://web.archive.org/web/20111207073931id_/http%3A//www.simplyelectronics.net/exdemo.php)
 
   
 | **   Buying From Us**  
 ---  
-|  [](https://web.archive.org/web/20110625092734id_/http%3A//www.simplyelectronics.net/reasons.php) |   
+|  [](https://web.archive.org/web/20111207073931id_/http%3A//www.simplyelectronics.net/reasons.php) |   
   
 
