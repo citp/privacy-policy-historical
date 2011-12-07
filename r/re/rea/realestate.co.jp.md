@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.co.jp privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618152408id_/http%3A//www.realestate.co.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.co.jp privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207165103id_/http%3A//www.realestate.co.jp/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Real Estate Japan – Property For Sale & Rent Across Japan
 
