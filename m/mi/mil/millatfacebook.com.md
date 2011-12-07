@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millatfacebook.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625195543id_/http%3A//millatfacebook.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millatfacebook.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207122746id_/http%3A//millatfacebook.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » MFB - A Place to meet Over 1.57 Billion Muslims and Peaceful people from other religions
 
