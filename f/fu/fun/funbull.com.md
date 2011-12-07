@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funbull.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608142838id_/http%3A//www.funbull.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funbull.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207090109id_/http%3A//www.funbull.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - FunBull.com
 
