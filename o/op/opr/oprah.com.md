@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oprah.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623060121id_/http%3A//www.oprah.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oprah.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207205220id_/http%3A//www.oprah.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Oprah.com - Live your best Life - Oprah.com
 
-Harpo's Online Privacy Policy
+Online Privacy Policy
 
 Effective Date: October 8, 2010 
 
@@ -83,3 +83,9 @@ We incorporate commercially reasonable safeguards to help protect and secure you
   11. What About Changes To The Privacy Policy?
 OWN reserves the right to change this Privacy Policy at any time without notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. However, OWN will not use your Personal Information in a manner materially different than what was stated at the time it was collected without your consent.  
 
+
+_Rosie_ Reservations 
+
+Current Reservation Availability 
+
+The reservation window is currently closed. Continue to check back for updates on when we will be accepting requests for upcoming shows. 
