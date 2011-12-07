@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the durect.com privacy policy that was archived on 2011-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518002830id_/http%3A//www.durect.com/wt/nonav/page_name/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the durect.com privacy policy that was archived on 2011-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111207083557id_/http%3A//www.durect.com/wt/nonav/page_name/privacy_policy) for the most accurate reproduction.-->
 
 <html><head>
 	<title>DURECT: Privacy Policy</title>	
 	<link rel="stylesheet" href="/wi/durect.css" type="text/css">
 <meta name="keywords" content="durect corporation,chronic pain,durect.com,drrx,chronic pain,duros,pain patch,pharmaceuticals,chronic diseases,sufentanil patch,saber,alza license,chronogesic,durin biodegradable implants,microdur microencapsulation techniques,brookside capital,felix theeuwes,armand neukermans,thomas schrek,alejandro zaffaroni,meniere's disease treatment,duragesic,microspheres,southern biosystems,polymers,alzet mini pump osmotic pumps,miglyol,intraear,catheter tubing,SABER-bupivacaine">
 <meta name="description" content="DURECT Corporation is pioneering the development and commercialization of pharmaceutical drug delivery systems for the treatment of chronic debilitating diseases and to enable biotechnology products.">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="Javascript" src="/wi/standard.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="/wi/jquery-1.5.1.min.js"></script>
+	<script language="Javascript" src="/wi/standard.js"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -19,71 +20,30 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+        $(document).ready(function($) {
+            // File Downloads Tracking
+            var filetypes = /\.(zip|pdf|doc*|xls*|ppt*|txt|csv|rtf)$/i;
+
+            jQuery('a').each(function() {
+                var href = jQuery(this).attr('href');
+
+                if (href && href.match(filetypes)) {
+                    jQuery(this).click(function() {
+                        var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                        var filePath = href;
+
+                        _gaq.push(['_trackEvent', 'Files', 'Download', filePath]);
+
+                        if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                            setTimeout(function() { location.href = href; }, 200);
+                        }
+                    });
+                }
+            });
+        });
 </script>	
 </head>
 <body bgcolor="#f5f5ff">
-<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-zoomedia.hitbox.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM561026M8BS72EN3";//ACCOUNT NUMBER(S)
-hbx.pn="Privacy+Policy";//PAGE NAME(S)
-hbx.mlc="/index";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="3";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="/wi/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
-
 <table cellpadding="0" border="0" width="100%">
 	<tbody><tr>
 		<td align="center"><table cellspacing="0" cellpadding="0" border="0" bgcolor="FFFFFF" width="640">
@@ -192,7 +152,7 @@ If this Privacy Policy changes, the revised policy will be posted on this site. 
 		<td colspan="2" bgcolor="009933"><span class="tinyltgreen">&nbsp;© 2000-2011 DURECT Corporation</span></td>
 	</tr>
 	<tr>
-		<td valign="top"><span class="tinygrey">Last updated: May 17, 2011</span></td>
+		<td valign="top"><span class="tinygrey">Last updated: December 01, 2011</span></td>
 		<td align="right"><table cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>	
 		
