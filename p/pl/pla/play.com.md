@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the play.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602163415id_/http%3A//www.play.com/Help.html%3Fpage%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207082033id_/http%3A//www.play.com/Helpdesk/General_questions_about_Play_com/General_terms_and_conditions/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Play.com (UK): DVDs, Music CDs, MP3s, Video Games, Books, Electronics & Gadgets - Free Delivery
-
-#### Privacy Policy
+# 
 
 We take our commitment to your privacy seriously and treat any information you supply to us with care.
 
   * Policy statement
   * The data we collect
-  * Sharing Data
+  * Sharing data
   * Surveys and user groups
   * Competitions
   * ‘Email a friend’
@@ -17,27 +15,26 @@ We take our commitment to your privacy seriously and treat any information you s
 
 ##### Policy statement
 
- **In relation to the website** : **www.play.com** (‘ **the Site** ’).
+In relation to the website: www.play.com (‘the Site’). 
 
-The Site is a Jersey-based website owned by PlayLimited and complies with the Data Protection (Jersey) Law of 2005 relating to the personal information you supply online.
+The Site is a Jersey-based website owned by Play Limited and complies with the Data Protection (Jersey) Law of 2005 relating to the personal information you supply online. 
 
-PlayTrade S.à.r.l ('PlayTrade') and PlayMedia S.à.r.l ('PlayMedia'), both at 4-6 Avenue de la Gare L-1610 Luxembourg are its wholly owned subsidiaries.
+PlayTrade S.à.r.l ('PlayTrade') and PlayMedia S.à.r.l ('PlayMedia'), both at 4-6 Avenue de la Gare L-1610 Luxembourg are its wholly owned subsidiaries. 
 
-Any personal information that you provide to PlayLimited, PlayTrade and PlayMedia whilst contracting with these entities is stored and controlled by PlayHoldings Limited, located at 40 the Esplanade Saint Helier Jersey JE 49RJ Channel Islands.
+Any personal information that you provide to Play Limited, PlayTrade and PlayMedia whilst contracting with these entities is stored and controlled by Play Limited, located at 40 the Esplanade Saint Helier Jersey JE 49RJ Channel Islands.
 
-For the purposes of Luxembourg's legislation on Data Protection and particularly the law of August 2nd 2002, PlayHoldings Limited is the Data Controller, whilst PlayTrade and PlayMedia are Data Processors. The information you provide to PlayLimited, PlayTrade and PlayMedia may be shared with other companies controlled by the PlayHoldings group that are either subject to this Privacy Policy or follow practices that offer the same level of protection as those described herein.
-
- **By using our services, you give us your express consent to process your personal data as described hereafter.**
+   
+For the purposes of Luxembourg's legislation on Data Protection and particularly the law of August 2nd 2002, Play Holdings Limited is the Data Controller, whilst PlayTrade and PlayMedia are Data Processors. The information you provide to Play Limited, PlayTrade and PlayMedia may be shared with other companies controlled by the PlayHoldings group that are either subject to this Privacy Policy or follow practices that offer the same level of protection as those described herein.
 
 ^ Top
 
 ##### The data we collect
 
-The information collected by the aforementioned entities when you register with us at the [www.play.com](http://www.play.com/)website is generally used to communicate with you and improve our services where possible, and specifically, to process payments or enable third parties to carry out technical or commercial supporting functions. These functions may be carried out by us or appointed third parties who are bound by Data Protection covenants and must process the personal information in accordance with this Privacy Policy and the Data Protection Laws of Luxembourg.
+The information collected by the aforementioned entities when you register with us at the [www.play.com](http://www.play.com/) website is generally used to communicate with you and improve our services where possible, and specifically, to process payments or enable third parties to carry out technical or commercial supporting functions. These functions may be carried out by us or appointed third parties who are bound by Data Protection covenants and must process the personal information in accordance with this Privacy Policy and the Data Protection Laws of Luxembourg.
 
 In addition to personal data such as name, e-mail address, delivery address, billing address, credit or debit card number and expiry date, we also analyse data about participants in order to provide a safe shopping environment for all users. Examples of the data we may collect and analyse include the Internet protocol (IP) address used to connect your computer to the Internet, login, password, computer and connection information such as browser type and version, your operating system and platform, the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time), cookie number, products you viewed or searched for, your purchase history, personal preferences and any phone number recorded or used to call our customer services number. In using the Site you accept that your personal data may be used for such purposes.
 
-We will not sell, distribute or disclose information about you or your personal usage of the Site without your express consent or unless required or permitted to do so by law. If you subscribe to our mailing lists for new release and other information, we also ask you to answer various general questions about yourself. You will be asked to specify the areas in which you are interested so that we can tailor the information which we send to you to cover the topics and merchandise which we believe you might be interested in. By subscribing to our mailing lists, you accept that your personal data may be used for such purposes.
+We will not sell, distribute or disclose information about you or your personal usage of the Site without your express consent or unless required or permitted to do so by law. By subscribing to our mailing lists, you accept that your personal data may be used for such purposes.
 
 Please note that we do provide links to other sites, which may not be governed by this Privacy Policy and you should view the respective privacy policies of those sites for further information.
 
@@ -53,7 +50,7 @@ Some of our business partners may themselves use cookies on their own websites. 
 
 We may monitor customer traffic patterns, Site usage and related Site information in order to optimise your use of the Site and we may give aggregated statistics to a reputable third-party, but these statistics will include no information personally identifying you.
 
-We may also use the Information we gather to notify you about important functionality changes and alterations to the Site, or offers of products, services or information that might be of particular interest to you. Your information may also be transferred to another company (based in the European Union or in a country ensuring an adequate level of protection) in the event of sale of our company to a third party. In that event, we will endeavour to ensure that your rights and freedoms in respect of the processing of your personal data are adequately and appropriately protected. By submitting your Information and ticking the requisite boxes on any order form or when subscribing to the services available on our Site, you expressly consent to such use and transfer, to the extent permitted by applicable law. If at any time you wish to stop receiving our newsletter or any other information you may have requested from us or any other company, please email or write to Customer Services at the address given for us above or click the Unsubscribe link at the bottom of any e-mail you receive from us.
+We may also use the Information we gather to notify you about important functionality changes and alterations to the Site, or offers of products, services or information that might be of particular interest to you. Your information may also be transferred to another company (based in the European Union or in a country ensuring an adequate level of protection) in the event of sale of our company to a third party. In that event, we will endeavour to ensure that your rights and freedoms in respect of the processing of your personal data are adequately and appropriately protected. By submitting your Information on any order form or when subscribing to the services available on our Site, you expressly consent to such use and transfer, to the extent permitted by applicable law. If at any time you wish to stop receiving our newsletter or any other information you may have requested from us or any other company, please email or write to Customer Services at the address given for us above or click the Unsubscribe link at the bottom of any e-mail you receive from us.
 
 ^ Top
 
