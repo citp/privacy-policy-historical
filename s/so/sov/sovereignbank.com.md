@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514211541id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207175246id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Sovereign Bank
 
@@ -10,9 +10,9 @@
 ---|---|---  
   
 Privacy Information  
-Effective September 30, 2010 
+Effective September 30, 2011 
 
-This Privacy Notice is being provided to you to describe what Sovereign Bank does to keep information about you private and secure, and how we manage that information. As described below, you also have a choice about how your information is shared. This Notice also covers divisions of Sovereign Bank, such as Nantucket Bank and Bank of Martha's Vineyard.  
+This Privacy Notice, effective September 30, 2011, is being provided to you to describe what Sovereign Bank does to keep information about you private and secure, and how we manage that information. As described below, you also have a choice about how your information is shared. This Notice also covers divisions of Sovereign Bank, such as Nantucket Bank and Bank of Martha's Vineyard.  
   
 |  |   
 ---|---|---  
