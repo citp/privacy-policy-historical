@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smude.edu.in privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104308id_/http%3A//www.smude.edu.in/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smude.edu.in privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207113508id_/http%3A//www.smude.edu.in/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Sikkim Manipal University-Distance Education | Privacy Policy Summary | MBA Distance Learning
 
