@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523213643id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahrq.gov privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207231043id_/http%3A//www.ahrq.gov/news/privacy.htm) for the most accurate reproduction.*
 
 # Health Care: AHRQ Privacy Policy Notice
 
@@ -36,6 +36,14 @@ However, E-mail is not necessarily secure against interception. If your message 
 
 All communications to the Web site mailbox and customer feedback form are archived on a monthly basis, and destroyed on an annual basis.
 
+### Third-Party Web Sites
+
+To reach beyond our standard communication channels, AHRQ maintains accounts on third-party Web sites such as [YouTube](http://www.youtube.com/ahrqhealthtv) and [Twitter](http://twitter.com/#!/AHRQNews). These sites are not owned or operated by the Government.
+
+The privacy policies of these sites may differ from that of AHRQ. Third-party Web sites may share usage metrics with AHRQ for analysis. We do not collect any Personally Identifiable Information (PII) from those sites. However, if individuals try to use these third-party Web sites are used to communicate with AHRQ, they may be providing nongovernmental third-parties with access to PII. 
+
+To contact AHRQ, please use the Ask a Question or Provide Feedback features at: [https://info.ahrq.gov](https://info.ahrq.gov/cgi-bin/ahrq.cfg/php/enduser/ask.php). 
+
 ### Disclosure
 
 AHRQ does not disclose, give, sell, or transfer any personal information about our visitors, unless required by law enforcement or statute. 
@@ -51,3 +59,13 @@ Electronically submitted information is maintained and destroyed according to th
 ### Links to Other Sites
 
 Our Web site has links to other Federal agencies. We also have selected links to other Web resources. The privacy policy described here does not necessarily apply to those other sites. Once you link to another site, you are subject to the privacy policy of that site.
+
+_Current as of September 2011_
+
+* * *
+
+**Internet Citation:**
+
+_AHRQ Privacy Policy Notice_. September 2011. Agency for Healthcare Research and Quality, Rockville, MD. http://www.ahrq.gov/news/privacy.htm
+
+* * *
