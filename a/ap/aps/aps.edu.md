@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aps.edu privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608021118id_/http%3A//www.aps.edu/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.edu privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207111233id_/http%3A//www.aps.edu/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Legal — Albuquerque Public Schools
 
@@ -34,7 +34,7 @@ The Albuquerque Public School District makes no warranties of any kind, either
 
 By using this site, you agree to indemnify and hold the Albuquerque Public School District including, but not limited to, its officers, board members, employees, and agents harmless from any losses sustained by the Albuquerque Public School District as a result of intentional or negligent misuse of the system by a user.
 
-Please be advised that the information contained here is accurate as of January 2010. Since [policies and procedures](http://www.aps.edu/about-us/privacy-policy/policies-and-procedures "Policies and Procedures") of the Albuquerque Public School District change from time to time, it is suggested that the accuracy of the information contained herein be verified.
+Please be advised that the information contained here is accurate as of January 2010. Since [policies and procedural directives](http://www.aps.edu/about-us/policies-and-procedural-directives) of the Albuquerque Public School District change from time to time, it is suggested that the accuracy of the information contained herein be verified.
 
 The Albuquerque Public School District reserves the right to change this policy without notice.
 
@@ -44,8 +44,8 @@ The Albuquerque Public School District reserves the right to change this policy 
 
 Proper behavior, as it relates to the use of computers, is no different from the proper behavior in all other aspects of APS activities. All users are expected to use the computers and computer networks in a responsible, ethical, and polite manner. Violation of this policy is grounds for school disciplinary action.
 
-Students are expected to comply with the Student Internet Acceptable Use Policy, as set out above and in the  _Board Policy I/10_.
+Students are expected to comply with the Student Internet Acceptable Use Policy, as set out above and in the [Board Policy I.10](http://www.aps.edu/about-us/policies-and-procedural-directives/policies/i.-instruction/i.10-student-internet-acceptable-use-policy).
 
-**Employees:** The use of district technology resources is a privilege granted to Albuquerque Public School District employees for the enhancement of job-related functions. Employees may have limited access to these resources for personal use, if they comply with the professional standards and the district’s acceptable use policies. Employees are expected to comply with the [_Technology Acceptable Use Policy_](http://www.aps.edu/about-us/privacy-policy/policies-and-procedures/policies/g.17-technology-acceptable-use "G.17 Technology Acceptable Use"), as set out in APS Procedural Directives.
+**Employees:** The use of district technology resources is a privilege granted to Albuquerque Public School District employees for the enhancement of job-related functions. Employees may have limited access to these resources for personal use, if they comply with the professional standards and the district’s acceptable use policies. Employees are expected to comply with the [Technology Acceptable Use Policy](http://www.aps.edu/about-us/policies-and-procedural-directives/policies/g.-personnel/gb6-acceptable-employee-use-of-technology), as set out in APS Procedural Directives.
 
-Updated: January 7, 2010
+**Updated:** January 7, 2010
