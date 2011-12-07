@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brushlovers.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430114528id_/http%3A//www.brushlovers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brushlovers.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208005218id_/http%3A//www.brushlovers.com/privacy) for the most accurate reproduction.*
 
-# Free Photoshop Brushes - BrushLovers.com
+# Free Photoshop Brushes | BrushLovers.com
 
 **1\. Overview**
 
