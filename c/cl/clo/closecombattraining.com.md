@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the closecombattraining.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222100200id_/http%3A//www.closecombattraining.com//privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closecombattraining.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207165125id_/http%3A//www.closecombattraining.com//privacy.php) for the most accurate reproduction.*
 
 # Close Combat Training Privacy & Security
 
@@ -51,10 +51,10 @@ Middletown, NJ 07748
 
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
 
-[ Click Here To Return to Read More About Close Combat Training](https://web.archive.org/web/20101222100200id_/http%3A//www.closecombattraining.com//cctraining/index.php)
+[ Click Here To Return to Read More About Close Combat Training](https://web.archive.org/web/20111207165125id_/http%3A//www.closecombattraining.com//cctraining/index.php)
 
-[Click Here To Return to Order Close Combat Training](https://web.archive.org/web/20101222100200id_/http%3A//www.closecombattraining.com//cctraining/CCTPACKAGES.HTML)
+[Click Here To Return to Order Close Combat Training](https://web.archive.org/web/20111207165125id_/http%3A//www.closecombattraining.com//cctraining/CCTPACKAGES.HTML)
 
-[Click Here To Return to Read More About Captain Chris](https://web.archive.org/web/20101222100200id_/http%3A//www.closecombattraining.com//captainchris.php)
+[Click Here To Return to Read More About Captain Chris](https://web.archive.org/web/20111207165125id_/http%3A//www.closecombattraining.com//captainchris.php)
 
-[Click Here To Return to Read Our Most Frequently Asked Questions](https://web.archive.org/web/20101222100200id_/http%3A//www.closecombattraining.com//cctraining/index.php)
+[Click Here To Return to Read Our Most Frequently Asked Questions](https://web.archive.org/web/20111207165125id_/http%3A//www.closecombattraining.com//cctraining/index.php)
