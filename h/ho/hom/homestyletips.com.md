@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homestyletips.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623153356id_/http%3A//www.homestyletips.com/disclosureprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestyletips.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207144059id_/http%3A//www.homestyletips.com/disclosureprivacy-policy) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy
 
@@ -47,5 +47,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 I would appreciate your thoughts on this post, why not comment?
 
-  
-
+### Share and Enjoy
