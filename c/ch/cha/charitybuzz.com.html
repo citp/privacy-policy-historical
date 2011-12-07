@@ -1,116 +1,79 @@
-<!--The following is the downloaded HTML source of the charitybuzz.com privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212164729id_/http%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the charitybuzz.com privacy policy that was archived on 2011-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111207160616id_/http%3A//www.charitybuzz.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script async="" src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+  <link rel="shortcut icon" href="/favicon.ico">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="description" content="charitybuzz: Bid of Top Celebrity Experiences and Memorabilia in our gala online events.">
+  <meta name="description" content="charitybuzz: Bid on Top Celebrity Experiences and Memorabilia in our gala online events.">
 <meta name="keywords" content="Auction, Auctions, Chevy Chase, New York Restoration Project, Architectural Digest Home Design Show, Rockefeller University, City Parks, Bailey House, Witness, Witness.org, New York Cares, NYU, SummerStage, City Parks, charitybuzz, Buzz, charitybuzz, Chevy Chase Earth Day Auction, Second Annual Chevy Chase Earth Day Auction, Charity Auctions, Today Show, Katie Couric, Elton John, Halle Berry, Dave Matthews Band, Chevy Chase, Jayni Chase, CEEonline, Paul McCartney, Jimmy Buffett, Glenn Close, Russell Simmons, Donna Karan, Ed Begley, Jr., Robert Kennedy, Ashton Kutcher, Sylvester Stallone, Larry David, Ellen Degeneres, Ford Hybrid Raffle, Ford Hybrid Escape, Earth Day, Earth Day Auction, Al Roker, James Taylor, Jon Stewart, The Daily Show, Coppy Holzman, Jet Blue, Conan O'Brien, Christopher Walken, David Letterman, Jeff Gordon, John Elway, Dan Marino, Arnold Palmer, Greg Norman Wines, Paul Shaffer, Celebrity Auctions, Today Show Auctions, Chevy Chase, Jayni and Chevy Chase, CEEonline, Center for Environmental Education, Charity Lots, Rao's, Mohonk Mountain, Disney Cruise Lines, Blue Tulip, Andre Agassi, Liv Tyler, Lucy Liu, Black Eyed Peas, Muhammad Ali, Billy Joel, Michael Bolton, Chris Evert, Jayni and Chevy Chase, Chase Auction, charitybuzz, charitybuzz.com">
-  <meta name="title" content="Privacy Policy">
+  <meta name="title" content="Privacy Policy"> <!-- " -->
   <meta name="medium" content="blog">
 
   <title>charitybuzz | Privacy Policy</title>
   
-  <link href="http://www.charitybuzz.com/stylesheets/common.css?1260568764" media="screen" rel="stylesheet" type="text/css">  <script src="http://www.charitybuzz.com/javascripts/common.js?1260568764" type="text/javascript"></script>
+
+  <link href="http://assets1.charitybuzz.com/assets/18d6abd04/stylesheets/common_packaged.css" media="screen" rel="stylesheet" type="text/css">  <script src="http://assets0.charitybuzz.com/assets/0307592ab/javascripts/common_packaged.js" type="text/javascript"></script>
+  
   
 	
 
-	<link rel="stylesheet" type="text/css" href="/stylesheets/privacy_policy.css" media="all">
+        <link href="http://assets2.charitybuzz.com/assets/7c6e3fa40/stylesheets/privacy_policy.css" media="screen" rel="stylesheet" type="text/css">
 
 
-  <!-- JQUERY FUNCTIONS -->
-<script type="text/javascript" charset="utf-8">
-jQuery(function($) {
-  var homepage     = false;
-  var area_id      = ""
-  var celebrity_id = ""
-  var category_id  = ""
-  var $$ = $('#browse');
-  var li = null;
-
-  if (area_id != "") {
-    if (area_id.match(/^\d+$/)) {
-      li = $$.find("#area-" + area_id)
-    } else {
-      li = $$.find("li[data-hostname='" + area_id + "']");
-    }
-  } else if (celebrity_id != "") {
-    li = $$.find('#celebrity-' + celebrity_id);
-  } else if (category_id != "") {
-    li = $$.find('#category-' + category_id);
-  } else {
-    li = [];
-  }
-
-  if (li.length > 0) {
-    li.addClass('on');
-  } else {
-    li = $$.find('li:first')
-  }
-  
-  // only show first 6 areas on homepage
-  if (homepage) {
-    $('ul.browse-areas li:not(.last):gt(5)').hide();
-    $('#joinUs').hide();
-  }
-  
-	var $m = li.eq(0).parents('div.menu')
-	$m.find("h3 a:first").addClass("on"); /* Change bullet arrow for first menu to point down */
-	$m.find(".browse-list").show(); /* hide all but the first submenu */
-
-	$$.find("h3 a").click(function(){ /* Upon click of category header... */
-	  if ($(this).hasClass('on')) {
-	    $(this).removeClass('on');
-	    $(".browse-list:visible").slideUp("slow"); /* Hide visible submenu */
-	  } else {
-			$$.find("h3 a.on").removeClass("on"); /* Change all bullet arrows to point right */
-			$(".browse-list:visible").slideUp("slow"); /* Hide visible submenu */
-			$(this).addClass("on"); /* Change bullet arrow to point down */
-			$(this).parent().next().slideDown("slow"); /* Display desired submenu */
-		}
-
-		return false; /* Disable link */
-	});
-
-  
-
-  $("#search .textbox").autocomplete( '/search/live', { minChars:3, selectFirst: false } );
-  $("#newsletter-signUp input.textbox").ezpz_hint();
-		
-	$('#nav-find').hover(function() {
-	  $('#nav-causes').show()
-	  $(this).addClass('on')
-	}, function() {
-	  $('#nav-causes').hide()
-	  $(this).removeClass('on')
-	})
-});
-
-/* HIDE/SHOW BOX - Used for login form */
-function showBox (elementID) {
-	$('#' + elementID).show('slow');
-}
-function hideBox (elementID) {
-	$('#' + elementID).hide('slow');
-}
-</script>
 </head>
 <body>
 
-<div id="container" class="clearfix">
-  <div class="clearfix" id="header">
+  <div id="container" class="clearfix">
+    <div class="clearfix" id="header">
   <!-- =====================================================
           Log In
   ====================================================== -->
   <div id="logIn">
-    <div id="todaysDate">December 12th, 2009 11:47 AM EST</div>
+    
+    <div id="newsletter-signUp">
+      
+
+<form id="newsletter-signUp" action="/signup/create" method="post">
+  
+    <input width="7" type="image" height="7" alt="Submit" src="/images/icons/redArrow-whitebg.gif" class="submit">
+    <input type="hidden" name="source" value="buzz">
+    <input type="text" title="Email address" value="" id="email" name="email_address" class="textbox">
+	  
+  		<label for="email"><img alt="Sign up for the charityBUZZ newsletter" height="13" src="http://assets0.charitybuzz.com/assets/71ff21629/images/home/hd-signUpNewsletter.png" width="221"></label>
+		
+  	
+  <div class="clear"><!-- --></div>
+  
+  
+</form>
+
+    </div>
+
+    
+
     <div class="clear"><!-- --></div>
 
     
+      <a href="/customers/new" class="bu-register"><span>ddfdfRegister to bid</span></a>
       <a onclick="showBox('logIn-form');" href="javascript:void(0);" class="bu-logIn"><span>Log in</span></a>
-      <p><a href="/customers/new">Register to bid</a> &nbsp;|&nbsp; Already a bidder?</p>
-    
+      <p><span>Already a bidder? | </span></p>
+
+      <!--
+      <p class="selectLanguage">
+        
+          Inglese
+        
+        <span>|</span> 
+        
+          <a href="http://www.charitybuzz.com/">Italiano</a>
+        
+      </p>
+      -->
+
       <form action="https://www.charitybuzz.com/account/login" class="clearfix" id="logIn-form" method="post">
-      	<h4><img width="120" height="15" alt="Account log-in" src="/images/header/hd-accountLogin.png"></h4>
+        <input id="return_to" name="return_to" type="hidden">
+      	<h4><img alt="Account log-in" height="15" src="http://assets3.charitybuzz.com/assets/6427ea728/images/header/hd-accountLogin.png" width="120"></h4>
         <div class="clear"><!-- --></div>
       	<label for="loginEmail">email address:</label>
         <input type="text" value="" id="loginEmail" name="email_primary" class="textbox">
@@ -131,345 +94,964 @@ function hideBox (elementID) {
   <!-- =====================================================
           charitybuzz logo
   ====================================================== -->
-	<h1><a href="http://www.charitybuzz.com/">
-    <img width="464" height="58" alt="charitybuzz - Do good, live well" src="/images/header/logo-charitybuzz.png"></a>
+  <h1>
+    <a href="http://www.charitybuzz.com/">
+      
+        <img alt="charitybuzz - Do good, live well" height="58" src="http://assets3.charitybuzz.com/assets/270043a44/images/header/logo-charitybuzz-red.png" width="464">
+      
+    </a>
   </h1>
 </div>
 
-  <!-- =====================================================
-  		PAGE
-  ======================================================= -->        
-	<div id="page">
-    <div class="tl"><div class="tr"><div class="br"><div class="bl">
-    	<div class="boxContent clearfix">
-		
-			<!-- =====================================================
-					Search Form
-			====================================================== -->
-			<form id="search" action="/search">
-			  <a id="link-advSearch" href="/search/advanced">advanced search</a>
-			  <input type="image" id="search-submit" class="submit" src="/images/header/bu-searchGo.gif" width="33" height="19" alt="Go">
-			  <input type="text" class="textbox" name="keywords" autocomplete="off">
-			  <h4><img src="/images/header/hd-auctionSearch.gif" width="86" height="10" alt="Auction Search"></h4>
-			  <input id="closed" name="closed" type="hidden" value="1">
-			  <input id="order" name="order" type="hidden" value="close">
-			  <div class="clear"><!-- --></div>
-			</form>
 
-			<!-- =====================================================
-					Nav
-			====================================================== -->
-			<ul id="nav" class="clearfix">
-				<li id="nav-home">	 	<a href="http://www.charitybuzz.com/"><span>Home</span></a></li>
-				<li id="nav-auctions">	<a href="/auctions"><span>Charity Auctions</span></a></li>
-				<!-- <li id="nav-upcoming">	<a href="http://www.charitybuzz.com/auctions/upcoming"><span>Upcoming Auctions</span></a></li> -->
-				<li id="nav-events"> 	<a href="/events"><span>Live Events</span></a></li>
-				<li id="nav-press">  	<a href="/press_releases"><span>Press Room</span></a></li>
-				<li id="nav-blog">   	<a href="http://blog.charitybuzz.com/charityBlog/?cat=6"><span>Buzz Blog</span></a></li>
-			</ul><!-- /nav -->
-        
-        
-          <!-- =====================================================
-                  Page Inner
-          ====================================================== -->
-        	<div id="page-inner">
-            <div class="tl"><div class="tr"><div class="br"><div class="bl">
-              <div class="boxContent clearfix">
-                
-                
-                
-                  <div id="sidebar">
-                    
-                    
+    <!-- =====================================================
+    		PAGE
+    ======================================================= -->        
+  	<div id="page">
+      <div class="tl"><div class="tr"><div class="br"><div class="bl">
+      	<div class="boxContent clearfix">
 
-        
-<!-- =====================================================
-		Join Us
+
+
+  			<!-- =====================================================
+  					Nav
+  			====================================================== -->
+  			<ul id="nav" class="clearfix">
+  				<li id="nav-homeb">	 	<a href="/" id="home-link"><span>Home</span></a></li>
+
+  				<li id="nav-auctionsb">	<a href="/auctions"><span>Auctions</span></a></li>
+  				<li id="nav-eventsb"> 	<a href="/events"><span>Events</span></a></li>
+  				<li id="nav-blogb">  	<a href="http://blog.charitybuzz.com/charityBlog/"><span>Blog</span></a></li>
+					<li id="nav-testimonialsb">   	<a href="/testimonials"><span>Testimonials</span></a></li>
+					<li id="nav-contactb">	<a href="/contact_us"><span>Contact Us</span></a></li>
+					<li id="nav-holiday">	<a href="/holidaygifts"><span>Holiday Gifts</span></a></li>
+
+
+  			</ul><!-- /nav -->
+
+
+            <ul id="social">
+            <li class="words">Follow us on:</li>
+            <li><a href="http://www.facebook.com/pages/charitybuzz/16001862036?ref=ts" id="fb" target="_blank"><span>Facebook</span></a></li>
+            <li><a href="http://www.twitter.com/charitybuzz" id="tw" target="_blank"><span>twitter</span></a></li>
+            <li><a href="http://www.youtube.com/user/charitybuzz" id="yt" target="_blank"><span>youtube</span></a></li>
+            <li><a href="http://charitybuzz.tumblr.com/" id="tm" target="_blank"><span>tumblr</span></a></li>
+            </ul>
+     
+      
+			<div id="page-inner"><div class="tl"><div class="tr"><div class="clearfix">
+      
+	  
+	  
+            <!-- ================
+          	      Sidebar
+          	========================= -->
+          	<div id="sidebar">
+          	  
+                <!-- =====================================================
+      Featured
 ====================================================== -->
-<div id="joinUs" class="clearfix">
-	<label>Join us on:</label>
-	<ul>
-	  <li><a href="http://www.facebook.com/pages/charitybuzz/16001862036?ref=ts" target="_blank">
-			  <!-- <img alt="Facebook" height="19" src="https://www.charitybuzz.com:443/images/header/icon-facebook.png?1260568764" width="18" /> -->
-	  	  	  <img src="/images/header/icon-facebook.png" width="18" height="19" alt="Facebook">
-		  </a></li>
-	  <li><a href="http://www.twitter.com/charitybuzz" target="_blank">
-			  <!-- <img alt="Twitter" height="19" src="https://www.charitybuzz.com:443/images/header/icon-twitter.png?1260568764" width="19" /> -->
-	  	  	  <img src="/images/header/icon-twitter.png" width="19" height="19" alt="Twitter">
-		  </a></li>
-	  <li class="last"><a href="http://www.myspace.com/charitybuzz" target="_blank">
-			  <!-- <img alt="MySpace" height="19" src="https://www.charitybuzz.com:443/images/header/icon-mySpace.png?1260568764" width="19" /> -->
-	  	  	  <img src="/images/header/icon-mySpace.png" width="19" height="19" alt="MySpace">
-		  </a></li>
-	</ul>
-</div><!-- /joinUs -->
-
-<!-- =====================================================
+<div id="nav-featured">
+  <div class="tl"><div class="tr"><div class="br"><div class="bl">
+    
+                    <div class="clear"><!-- --></div>
+	 
+	 <!-- =====================================================
         Browse
 ====================================================== -->
 <div id="browse">
   <div class="menu">
-    <h3><a href="#">By Category</a></h3>
-    <ul class="browse-list" style="display:none">
+    <!-- <h3><a href="#">Browse by Category</a></h3> -->
+    <ul class="browse-list">
       
-        <li id="category-1">
-          <a href="/categories/1/catalog_items">
-            celebrity experiences
-            <nobr><span class="auctionCount">(118)</span></nobr>
-          </a>  
-        </li>
-      
-        <li id="category-2">
-          <a href="/categories/2/catalog_items">
-            the ultimate in luxury
-            <nobr><span class="auctionCount">(43)</span></nobr>
-          </a>  
-        </li>
-      
-        <li id="category-3">
-          <a href="/categories/3/catalog_items">
-            fashion, jewelry and merchandise
-            <nobr><span class="auctionCount">(97)</span></nobr>
-          </a>  
-        </li>
-      
-        <li id="category-4">
-          <a href="/categories/4/catalog_items">
-            health &amp; beauty
-            <nobr><span class="auctionCount">(28)</span></nobr>
-          </a>  
-        </li>
-      
-        <li id="category-5">
-          <a href="/categories/5/catalog_items">
-            sports
-            <nobr><span class="auctionCount">(52)</span></nobr>
-          </a>  
-        </li>
-      
-        <li id="category-6">
-          <a href="/categories/6/catalog_items">
-            arts and education
-            <nobr><span class="auctionCount">(173)</span></nobr>
-          </a>  
-        </li>
-      
-        <li id="category-7">
-          <a href="/categories/7/catalog_items">
-            travel &amp; food
-            <nobr><span class="auctionCount">(110)</span></nobr>
-          </a>  
-        </li>
-      
-        <li id="category-8">
-          <a href="/categories/8/catalog_items">
-            memorabilia
-            <nobr><span class="auctionCount">(110)</span></nobr>
-          </a>  
-        </li>
-      
-        <li id="category-9">
-          <a href="/categories/9/catalog_items">
-            music &amp; entertainment
-            <nobr><span class="auctionCount">(212)</span></nobr>
-          </a>  
-        </li>
-      
-
-      <li><a href="/catalog_items"><strong>view all items</strong></a></li>
-    </ul>
-  </div>
-
-  <div class="menu">
-    <h3><a href="#">By Auction</a></h3>
-    <ul class="browse-list browse-areas" style="display:none">
-      
-        <li id="area-510" data-hostname="holiday">
-          <a href="/auctions/holiday/catalog_items">
-            Holiday Gifts that GiveTWICE Auction
-          </a>
-        </li>
-      
-        <li id="area-1106" data-hostname="gardenholiday">
-          <a href="/auctions/gardenholiday/catalog_items">
-            2009 Garden of Dreams Holiday Auction
-          </a>
-        </li>
-      
-        <li id="area-1069" data-hostname="avatar">
-          <a href="/auctions/avatar/catalog_items">
-            Muse Elementary School AVATAR Premiere Online Auction
-          </a>
-        </li>
-      
-        <li id="area-1091" data-hostname="BenefitForChi">
-          <a href="/auctions/BenefitForChi/catalog_items">
-            The Chi Ling Cheng Special Needs Trust Auction
-          </a>
-        </li>
-      
-        <li id="area-1067" data-hostname="truecolorsw09">
-          <a href="/auctions/truecolorsw09/catalog_items">
-            True Colors Fund Winter Online Auction
-          </a>
-        </li>
-      
-        <li id="area-1108" data-hostname="nysf09">
-          <a href="/auctions/nysf09/catalog_items">
-            2009 New York Stage and Film Online Auction
-          </a>
-        </li>
-      
-        <li id="area-1111" data-hostname="vpoy">
-          <a href="/auctions/vpoy/catalog_items">
-            Variety's Power of Youth
-          </a>
-        </li>
-      
-        <li id="area-1036" data-hostname="brentshapiro">
-          <a href="/auctions/brentshapiro/catalog_items">
-            The Brent Shapiro Foundation Online Auction
-          </a>
-        </li>
-      
-        <li id="area-1096" data-hostname="stephensiller">
-          <a href="/auctions/stephensiller/catalog_items">
-            Stephen Siller Children's Foundation
-          </a>
-        </li>
-      
-        <li id="area-1090" data-hostname="peacefortheanimals">
-          <a href="/auctions/peacefortheanimals/catalog_items">
-            Farm Sanctuary "Peace for the Animals" Holiday Auction 
-          </a>
-        </li>
-      
-        <li id="area-1004" data-hostname="parisreview1209">
-          <a href="/auctions/parisreview1209/catalog_items">
-            The Paris Review
-          </a>
-        </li>
-      
-        <li id="area-1062" data-hostname="mcny09">
-          <a href="/auctions/mcny09/catalog_items">
-            Museum of the City of New York 2009
-          </a>
-        </li>
-      
-        <li id="area-1093" data-hostname="Juxtapoz2">
-          <a href="/auctions/Juxtapoz2/catalog_items">
-            Juxtapoz
-          </a>
-        </li>
-      
-        <li id="area-1101" data-hostname="BetterLifeFoundation">
-          <a href="/auctions/BetterLifeFoundation/catalog_items">
-            The Better Life Foundation
-          </a>
-        </li>
-      
-        <li id="area-1011" data-hostname="tibethouseus">
-          <a href="/auctions/tibethouseus/catalog_items">
-            Tibet House US
-          </a>
-        </li>
-      
-        <li id="area-1095" data-hostname="projectangelfood">
-          <a href="/auctions/projectangelfood/catalog_items">
-            Project Angel Food's Exclusive Barbie Online Auction
-          </a>
-        </li>
-      
-        <li id="area-1099" data-hostname="aidforaids">
-          <a href="/auctions/aidforaids/catalog_items">
-            AID FOR AIDS International 
-          </a>
-        </li>
-      
-        <li id="area-1097" data-hostname="campbrooklyn">
-          <a href="/auctions/campbrooklyn/catalog_items">
-            Camp Brooklyn Auction
-          </a>
-        </li>
-      
-        <li id="area-1060" data-hostname="ShepardFairey ">
-          <a href="/auctions/ShepardFairey%20/catalog_items">
-            Now Extended! Shepard Fairey "Love Unites"Auction 
-          </a>
-        </li>
-      
-     
-      <li class="last"><a href="/auctions"><strong>view all auctions</strong></a></li>
-    </ul>
-  </div>
-  
-  <div class="menu">
-    <h3><a href="#">By Celebrity</a></h3>
-    <ul class="browse-list" style="display:none">
-      
-        <li id="celebrity-183">
-          <a href="/celebrities/183/catalog_items?closed=1">
-            James Cameron
-          </a>
-        </li>
-      
-        <li id="celebrity-170">
-          <a href="/celebrities/170/catalog_items?closed=1">
-            Justin Timberlake
-          </a>
-        </li>
-      
-        <li id="celebrity-18">
-          <a href="/celebrities/18/catalog_items?closed=1">
-            Oprah Winfrey
-          </a>
-        </li>
-      
-        <li id="celebrity-11">
-          <a href="/celebrities/11/catalog_items?closed=1">
-            Howard Stern
-          </a>
-        </li>
-      
-        <li id="celebrity-167">
-          <a href="/celebrities/167/catalog_items?closed=1">
-            Linkin Park
-          </a>
-        </li>
-      
-        <li id="celebrity-157">
-          <a href="/celebrities/157/catalog_items?closed=1">
-            Jon Stewart
-          </a>
-        </li>
-      
-        <li id="celebrity-5">
-          <a href="/celebrities/5/catalog_items?closed=1">
-            Cher
-          </a>
-        </li>
-      
-        <li id="celebrity-68">
-          <a href="/celebrities/68/catalog_items?closed=1">
-            America Ferrera
-          </a>
-        </li>
-      
+        
+          
+  <li id="category-14">
+    <a href="/categories/14/catalog_items">
+      Celebrity
+      <nobr><span class="auctionCount">(137)</span></nobr>    
+    </a>
     
-      <li><a href="/celebrities"><strong>view all items</strong></a></li>
+      <ul>
+        
+          
+  <li id="category-15">
+    <a href="/categories/15/catalog_items">
+      Meet &amp; Greet
+      <nobr><span class="auctionCount">(86)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-16">
+    <a href="/categories/16/catalog_items">
+      One-on-One
+      <nobr><span class="auctionCount">(56)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-17">
+    <a href="/categories/17/catalog_items">
+      Set Visits
+      <nobr><span class="auctionCount">(21)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-18">
+    <a href="/categories/18/catalog_items">
+      Walk-Ons
+      <nobr><span class="auctionCount">(3)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-19">
+    <a href="/categories/19/catalog_items">
+      Awards Shows &amp; Events
+      <nobr><span class="auctionCount">(7)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-20">
+    <a href="/categories/20/catalog_items">
+      Virtual Experiences
+      <nobr><span class="auctionCount">(3)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/14/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+          
+  <li id="category-21">
+    <a href="/categories/21/catalog_items">
+      Entertainment
+      <nobr><span class="auctionCount">(253)</span></nobr>    
+    </a>
+    
+      <ul>
+        
+          
+  <li id="category-22">
+    <a href="/categories/22/catalog_items">
+      Set Visits
+      <nobr><span class="auctionCount">(53)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-23">
+    <a href="/categories/23/catalog_items">
+      Walk-Ons &amp; Auditions
+      <nobr><span class="auctionCount">(16)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-24">
+    <a href="/categories/24/catalog_items">
+      In the Audience
+      <nobr><span class="auctionCount">(91)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-25">
+    <a href="/categories/25/catalog_items">
+      Premieres &amp; Screenings
+      <nobr><span class="auctionCount">(20)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-26">
+    <a href="/categories/26/catalog_items">
+      Broadway &amp; Theatre
+      <nobr><span class="auctionCount">(45)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-88">
+    <a href="/categories/88/catalog_items">
+      Awards Shows &amp; Events
+      <nobr><span class="auctionCount">(27)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-27">
+    <a href="/categories/27/catalog_items">
+      Children &amp; Teens
+      <nobr><span class="auctionCount">(29)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-28">
+    <a href="/categories/28/catalog_items">
+      Memorabilia
+      <nobr><span class="auctionCount">(64)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/21/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+          
+  <li id="category-29">
+    <a href="/categories/29/catalog_items">
+      Music
+      <nobr><span class="auctionCount">(102)</span></nobr>    
+    </a>
+    
+      <ul>
+        
+          
+  <li id="category-30">
+    <a href="/categories/30/catalog_items">
+      Concerts &amp; Events
+      <nobr><span class="auctionCount">(60)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-31">
+    <a href="/categories/31/catalog_items">
+      Meet the Artist
+      <nobr><span class="auctionCount">(36)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-32">
+    <a href="/categories/32/catalog_items">
+      Guitars &amp; Instruments
+      <nobr><span class="auctionCount">(18)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-33">
+    <a href="/categories/33/catalog_items">
+      Memorabilia
+      <nobr><span class="auctionCount">(36)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/29/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+          
+  <li id="category-34">
+    <a href="/categories/34/catalog_items">
+      Travel
+      <nobr><span class="auctionCount">(135)</span></nobr>    
+    </a>
+    
+      <ul>
+        
+          
+  <li id="category-35">
+    <a href="/categories/35/catalog_items">
+      North America
+      <nobr><span class="auctionCount">(72)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-36">
+    <a href="/categories/36/catalog_items">
+      Caribbean
+      <nobr><span class="auctionCount">(22)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-37">
+    <a href="/categories/37/catalog_items">
+      South America
+      <nobr><span class="auctionCount">(16)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-38">
+    <a href="/categories/38/catalog_items">
+      Europe &amp; UK
+      <nobr><span class="auctionCount">(20)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-39">
+    <a href="/categories/39/catalog_items">
+      Africa
+      <nobr><span class="auctionCount">(2)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-40">
+    <a href="/categories/40/catalog_items">
+      Asia &amp; the Mid East
+      <nobr><span class="auctionCount">(12)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-41">
+    <a href="/categories/41/catalog_items">
+      Australia, Pacific
+      <nobr><span class="auctionCount">(2)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-42">
+    <a href="/categories/42/catalog_items">
+      Private Residence
+      <nobr><span class="auctionCount">(7)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-43">
+    <a href="/categories/43/catalog_items">
+      Eco-Adventures
+      <nobr><span class="auctionCount">(21)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-44">
+    <a href="/categories/44/catalog_items">
+      Spa &amp; Wellness
+      <nobr><span class="auctionCount">(12)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/34/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+          
+  <li id="category-45">
+    <a href="/categories/45/catalog_items">
+      Sports
+      <nobr><span class="auctionCount">(110)</span></nobr>    
+    </a>
+    
+      <ul>
+        
+          
+  <li id="category-46">
+    <a href="/categories/46/catalog_items">
+      Tickets &amp; Events
+      <nobr><span class="auctionCount">(52)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-47">
+    <a href="/categories/47/catalog_items">
+      Exclusive Access
+      <nobr><span class="auctionCount">(44)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-48">
+    <a href="/categories/48/catalog_items">
+      Football
+      <nobr><span class="auctionCount">(11)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-49">
+    <a href="/categories/49/catalog_items">
+      Baseball
+      <nobr><span class="auctionCount">(11)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-50">
+    <a href="/categories/50/catalog_items">
+      Basketball
+      <nobr><span class="auctionCount">(5)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-51">
+    <a href="/categories/51/catalog_items">
+      Golf
+      <nobr><span class="auctionCount">(17)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-52">
+    <a href="/categories/52/catalog_items">
+      Tennis
+      <nobr><span class="auctionCount">(4)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-53">
+    <a href="/categories/53/catalog_items">
+      Other Sports
+      <nobr><span class="auctionCount">(51)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-54">
+    <a href="/categories/54/catalog_items">
+      Memorabilia
+      <nobr><span class="auctionCount">(29)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/45/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+          
+  <li id="category-55">
+    <a href="/categories/55/catalog_items">
+      Fashion
+      <nobr><span class="auctionCount">(134)</span></nobr>    
+    </a>
+    
+      <ul>
+        
+          
+  <li id="category-56">
+    <a href="/categories/56/catalog_items">
+      Apparel
+      <nobr><span class="auctionCount">(44)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-57">
+    <a href="/categories/57/catalog_items">
+      Jewelry
+      <nobr><span class="auctionCount">(38)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-58">
+    <a href="/categories/58/catalog_items">
+      Timepieces
+      <nobr><span class="auctionCount">(5)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-59">
+    <a href="/categories/59/catalog_items">
+      Accessories
+      <nobr><span class="auctionCount">(40)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-60">
+    <a href="/categories/60/catalog_items">
+      Fashion Shows
+      <nobr><span class="auctionCount">(9)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-61">
+    <a href="/categories/61/catalog_items">
+      Behind the Scenes
+      <nobr><span class="auctionCount">(27)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-62">
+    <a href="/categories/62/catalog_items">
+      Shopping Sprees
+      <nobr><span class="auctionCount">(6)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-63">
+    <a href="/categories/63/catalog_items">
+      For Men
+      <nobr><span class="auctionCount">(8)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/55/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+          
+  <li id="category-64">
+    <a href="/categories/64/catalog_items">
+      Merchandise
+      <nobr><span class="auctionCount">(74)</span></nobr>    
+    </a>
+    
+      <ul>
+        
+          
+  <li id="category-65">
+    <a href="/categories/65/catalog_items">
+      Vehicles
+      <nobr><span class="auctionCount">(4)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-66">
+    <a href="/categories/66/catalog_items">
+      Electronics
+      <nobr><span class="auctionCount">(12)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-67">
+    <a href="/categories/67/catalog_items">
+      For Home
+      <nobr><span class="auctionCount">(57)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-68">
+    <a href="/categories/68/catalog_items">
+      For Children
+      <nobr><span class="auctionCount">(15)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-69">
+    <a href="/categories/69/catalog_items">
+      For Pets
+      <nobr><span class="auctionCount">(1)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/64/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+          
+  <li id="category-70">
+    <a href="/categories/70/catalog_items">
+      Business Experiences
+      <nobr><span class="auctionCount">(104)</span></nobr>    
+    </a>
+    
+      <ul>
+        
+          
+  <li id="category-71">
+    <a href="/categories/71/catalog_items">
+      Internships
+      <nobr><span class="auctionCount">(21)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-72">
+    <a href="/categories/72/catalog_items">
+      Executive One-on-One
+      <nobr><span class="auctionCount">(43)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-73">
+    <a href="/categories/73/catalog_items">
+      Professional Consultations
+      <nobr><span class="auctionCount">(61)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/70/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+          
+  <li id="category-74">
+    <a href="/categories/74/catalog_items">
+      Art &amp; Collectibles
+      <nobr><span class="auctionCount">(175)</span></nobr>    
+    </a>
+    
+      <ul>
+        
+          
+  <li id="category-75">
+    <a href="/categories/75/catalog_items">
+      Artwork
+      <nobr><span class="auctionCount">(80)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-76">
+    <a href="/categories/76/catalog_items">
+      Photography
+      <nobr><span class="auctionCount">(96)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-77">
+    <a href="/categories/77/catalog_items">
+      Posters &amp; Memorabilia
+      <nobr><span class="auctionCount">(28)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-78">
+    <a href="/categories/78/catalog_items">
+      Behind the Scenes
+      <nobr><span class="auctionCount">(33)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/74/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+          
+  <li id="category-79">
+    <a href="/categories/79/catalog_items">
+      Food
+      <nobr><span class="auctionCount">(103)</span></nobr>    
+    </a>
+    
+      <ul>
+        
+          
+  <li id="category-80">
+    <a href="/categories/80/catalog_items">
+      Celebrity Chefs
+      <nobr><span class="auctionCount">(15)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-81">
+    <a href="/categories/81/catalog_items">
+      Fine Dining
+      <nobr><span class="auctionCount">(56)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-82">
+    <a href="/categories/82/catalog_items">
+      Cooking
+      <nobr><span class="auctionCount">(16)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-83">
+    <a href="/categories/83/catalog_items">
+      Wine, Spirits &amp; Food
+      <nobr><span class="auctionCount">(61)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/79/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+          
+  <li id="category-84">
+    <a href="/categories/84/catalog_items">
+      Wellness &amp; Beauty
+      <nobr><span class="auctionCount">(47)</span></nobr>    
+    </a>
+    
+      <ul>
+        
+          
+  <li id="category-85">
+    <a href="/categories/85/catalog_items">
+      Makeovers
+      <nobr><span class="auctionCount">(5)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-86">
+    <a href="/categories/86/catalog_items">
+      Spa &amp; Skincare
+      <nobr><span class="auctionCount">(18)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+          
+  <li id="category-87">
+    <a href="/categories/87/catalog_items">
+      Nutrition &amp; Well Being
+      <nobr><span class="auctionCount">(33)</span></nobr>    
+    </a>
+    
+  </li>
+
+        
+        <li class="menu-subbottom last">
+          <a href="/categories/84/catalog_items">
+            view all
+          </a>
+        </li>
+      </ul>
+    
+  </li>
+
+        
+      
+  <li class="viewAll"><a href="/catalog_items">view all</a></li>
     </ul>
   </div>
+                 
 </div>
 
+<div class="clearfix">
+        <!-- =====================================================
+          Search Form
+        ====================================================== -->
+        <form id="search" action="/search" name="search">
+          <input type="text" class="textbox" name="keywords" autocomplete="off"><input type="image" id="search-submit" class="submit" src="/images/header/bu-searchGo.gif" width="33" height="19" alt="Go"> <br>
+          <a id="link-advSearch" href="/search/advanced" name="link-advSearch">advanced search</a>
+          <div class="clear">
+            <!-- -->
+          </div>
+        </form>
+      </div><!-- /boxContent -->
+        </div></div></div></div>
 
-                    
-                  </div>
+        
+      </div><!-- /nav-featured -->
+ <div class="clear"><!-- --></div>
 
-                  <div id="content">
-                    
-                    
-                    
-                    
+              
+          	   
+	  
+	  
+          	</div>
+          	<!-- end sidebar -->
+		
+        		 <!-- ================
+        		      main content
+        		========================= -->
+        		<div id="mainRight">
+        		  
+        		  
 
 
 
@@ -478,8 +1060,17 @@ function hideBox (elementID) {
 ====================================================== -->
 <div id="contentHd" class="clearfix">
 
-	<h2><img src="/images/about_us/hd-privacyPolicy.png" width="178" height="27" alt="Privacy Policy"></h2>
-				
+	<h2 class="with-seals">
+	  <img alt="Privacy Policy" src="http://assets2.charitybuzz.com/assets/0c6ef2966/images/about_us/hd-privacyPolicy.png">
+	  <div class="seals">
+      <a href="http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.charitybuzz.com/seal_s" target="_blank" title="Validate TRUSTe privacy certification"><img alt="Validate TRUSTe privacy certification" src="http://privacy-policy.truste.com/certified-seal/ctv/en/www.charitybuzz.com/seal_s.png"></a>
+    </div>
+	</h2>
+	
+	<p>Your privacy is extremely important to Charitybuzz. We have developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and if you have any questions please direct them to <a href="mailto:privacy@charitybuzz.com">privacy@charitybuzz.com</a></p>
+
+<p>Charitybuzz has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as 
+  an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:privacy@charitybuzz.com">privacy@charitybuzz.com</a>.  If you are not satisfied with our response you can contact TRUSTe <a href="http://watchdog.truste.com/pvr.php?page=complaint">here</a>.</p>
 </div><!-- /contentHd -->
 
 
@@ -488,607 +1079,1263 @@ function hideBox (elementID) {
 	============================================================================= -->
 <div id="privacyPolicy">
 
-	<h3>charitybuzz Privacy Policy</h3>
+  	<h3>Collection and Use of Personally Identifiable Information (PII)</h3>
+	 
+	<p>Personally Identifiable Information (PII) is data that can be used to uniquely identify or contact a single person.</p>
 	
-	<p>charitybuzz ("charitybuzz ," "we," "us") shares your concerns about the protection of your personal 
-	information online. This Privacy Policy ("Policy") describes our practices regarding the collection and 
-	use of information through our website, located at www.charitybuzz.com (the "Site"). By using the Site 
-	or obtaining any product or service through this Site, you agree the collection of use of information 
-	as set forth in this Policy. If you do not agree to this Policy, please do not use the Site.</p>
-
-	<p>We may from time to time update this Policy. We will notify you of changes to the Policy by posting 
-	the updated Policy on this page. We ask that you bookmark and periodically review this page to ensure 
-	continuing familiarity with the most current version of the Policy. You can determine when this Policy 
-	was last revised by checking the "Effective Date of Current Policy" legend at the top of the Policy.</p>
+	<p>You may be asked to provide your personal information anytime you are in contact with Charitybuzz. Our company may share this personal information with affiliate or partnering non profits and corporations consistent with this Privacy Policy. Charitybuzz may also combine it with other information to provide and improve our products, advertisement services, content and customer service.</p>
 	
-	<p>First, we collect non-personally identifiable information. When visitors come to our Site, we collect 
-	and aggregate information indicating, among other things, which pages of the Site were visited, the order 
-	in which they were visited and which links were "clicked." Collecting such information involves logging 
-	the IP addresses, operating system and browser software used by each visitor to the Site. Although such 
-	information is not personally identifiable, it may be possible to determine from an IP address a visitor's 
-	Internet Service Provider and the geographic location of the visitor's point of connectivity.</p>
-	
-	<p>We also use "cookies" and other tracking technologies to collect non-personally identifiable information 
-	regarding you. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through 
-	your Web browser. Cookies make it possible for us to recognize your browser when you visit our Site. By 
-	doing this, we can personalize your return visits and save you time during checkout. Your browser must be 
-	set to accept cookies in order for you to enjoy the benefits of being a registered user of the Site.</p>
-	
-	<p>We do not share personal data with any other company and our sole mission for charitybuzz is to raise 
-	funds and awareness for our partner charities. We value our relationship with every visitor to charitybuzz 
-	and make great efforts to meet and exceed industry privacy standards.</p>
+	<p>Here are some examples of the types of personal information Charitybuzz may collect and how we may use it.</p> 
 
 
-	<h3>Sale of Our Company</h3>
+	<h3>What personal information we collect</h3>
+
+	<ul>
+		<li>When you create an Charitybuzz account, register your credit card, apply for, purchase a product, register for an email newsletter at the Charitybuzz.com website, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, and credit card information.</li>
+		<li>When you share your content with family and friends using Charitybuzz products, send gift certificates and products, or invite others to join you on Charitybuzz, Charitybuzz may collect the information you provide about those people such as name, mailing address, email address, and phone number. Email addresses will be collected via forms on www.charitybuzz.com; any other information will be collected via an offline manner. This information is only used to redeem auction lots and is then disposed of, beyond financial and shipping record keeping.</li>
+		<li>In the US we may ask for your Social Security number (SSN) but only in limited circumstances such as when setting up a background check for the high profile celebrity experiences when determining and ensuring safety of our partnering celebrities. We do not store this information in our system but we may share this information with your written permit with a certified third party completing the background check. This information will be collected in an offline manner.</li>
+	</ul>
 	
-	<p>As a natural consequence of the development of our company, we could be sold to another company. In the 
-	event that we are acquired by another company or a significant portion of our assets is sold to another 
-	company, all of the customer information including both financial records and consumer information that we 
-	have collected may be transferred to the new company.</p>
+	
+	<h3>How we use your personal information</h3>
+	
+	<ul>
+		<li>The personal information we collect allows us to keep you posted on Charitybuzz's latest product announcements, software updates, and upcoming events. It also helps us to improve our services, content, and advertising. If you don't want to be on our mailing list, you can opt out anytime by <a href="https://www.charitybuzz.com/account" target="_blank">updating your preferences</a> in your user account or contacting us at <a href="mailto:unsubscribe@charitybuzz.com">unsubscribe@charitybuzz.com</a>.</li>
+		<li>From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Charitybuzz, you may not opt out of receiving these communications.</li>
+		<li>We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Charitybuzz's products, services, and customer communications.</li>
+	</ul>
+	
+	
+	<h3>Collection and Use of Non-Personally Identifying Information (NPPI)</h3>
+	
+	<p>We also collect non-personally identifying information − data in a form that does not permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:</p>
+
+	<ul>
+		<li>We may collect information such as occupation, language, zip code, area code, unique device identifier, location, and the time zone where Charitybuzz services are used so that we can better understand customer needs, assist celebrities and improve our products, services, and advertising.</li>
+		<li>We also may collect information regarding customer activities on our website, like time you spent on the site as well as list of previously purchased products, services and experiences you are interested in. This information is aggregated and used to help us provide better customer service to  our clients and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.</li>
+	</ul>	
+	
+	<p>If we do combine non-personally identifying information with personally identifying information the combined information will be treated as personal information for as long as it remains combined.</p>	
+	
+	
+	<h3>Cookies and Other Technologies</h3> 
+	
+	<p>Charitybuzz's website, online services, interactive applications, and advertisements may use "cookies" and other technologies such as pixel tags and web traffic and meta-tags. These technologies help us understand user behavior, tell us which parts of our website people have visited, and facilitate and measure the effectiveness of advertisements and web searches. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.</p>
+
+	<p>Charitybuzz utilizes cookies and other technologies in mobile advertising services to control the number of times you see a given	ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by emailing <a href="mailto:unsubscribe@charitybuzz.com">unsubscribe@charitybuzz.com</a> from the address you wish to have opted out.</p>
+
+	<p>If you opt out, you will not receive the newsletters or mobile ads. This unsubscribe option applies only to Charitybuzz advertising services and does not affect interest-based advertising from other advertising networks.</p>
+
+	<p>Charitybuzz gathers some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and click-stream data.</p>
+
+	<p>This information is used to analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole. Charitybuzz may use this information in our marketing and advertising services.</p>
+
+	<p>In some of our email messages, we use a "click-through URL" linked to content on the Charitybuzz website. When customers click one of these URLs, they pass through a separate Charitybuzz web server before arriving at the destination page on our website. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages.</p>
+
+	<p>Pixel tags enable us to send email messages in a format customers can read, and they tell us whether mail has been opened. We may use this information to reduce or eliminate messages sent to customers.</p>
+	
+	<p>We use local shared objects, also known as Flash cookies (or Flash LSO’s), to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit.  Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118">click here</a>. </p>
+	
+	
+	<h3>Disclosure to Third Parties</h3> 
+	
+	<p>At times Charitybuzz may make certain personal information available to strategic partners that work with Charitybuzz to provide products and services, or that help Charitybuzz market to customers. Charitybuzz shares personal information with companies who provide services such as information processing, shipping, fulfilling customer orders, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. These companies are obligated to protect your information and may be located wherever Charitybuzz operates. We will share your personal information with third parties only in the ways that are described in this privacy statement.  We do not sell your personal information to third parties.</p>  
+
+
+	<h3>Others</h3> 
+	
+	<p>It may be necessary − by law, legal process, litigation, and/or requests from public and governmental authorities within or outside your country of residence − for Charitybuzz to disclose your personal information. We may also disclose information about you if we determine that for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.</p> 
+	
+	<p>We may also disclose information about you if we determine that disclosure is reasonably necessary to enforce our terms and conditions or protect our operations or users. Additionally, in the event of a reorganization, merger, or sale we may transfer any and all personal information we collect to the relevant third party.</p>	
+	
+	
+	<h3>Protection of Personal Information</h3> 
+	
+	<p>Charitybuzz takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as against unauthorized access, disclosure, alteration, and destruction.</p>
+	
+	<p>Charitybuzz online services such as the Charitybuzz.com online auctions and charitybuzz The Goods store  utilize Secure Socket Layer (SSL) encryption on all web pages where personal information is collected. To make purchases from these services, you must use an SSL-enabled browser such as Safari, Firefox, or Internet Explorer. Doing so protects the confidentiality of your personal information while it's transmitted over the Internet.</p>
+	
+	<p>When you use some Charitybuzz products, services, or applications or post on an Charitybuzz forum, chat room, or social networking service, the personal information you share is visible to other users and can be read, collected, or used by them. You are responsible for the personal information you choose to submit in these instances. For example, if you list your name and email address in a forum posting, that information is public. Please take care when using these features.</p>
+	
+	
+	<h3>Integrity and Retention of Personal Information</h3> 
+	
+	<p>Charitybuzz makes it easy for you to keep your personal information accurate, complete, and up to date. We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.</p>	
+	
+	
+	<h3>Access to Personal Information</h3>
+	
+	<p>You can help ensure that your contact information and preferences are accurate, complete, and up to date by logging in to your account at www.charitybuzz.com and click on the account login. For other personal information, we make good faith efforts to provide you with access so you can request that we correct the data if it is inaccurate or delete the data if Charitybuzz is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law. Access, correction, or deletion requests can be made directly via email to <a href="mailto:privacy@charitybuzz.com">privacy@charitybuzz.com</a>. We will respond to your request to access within 30 days. </p>
+	
+	
+	<h3>Children</h3>
+	 
+	<p>We do not knowingly collect personal information from children under 16. If we learn that we have collected the personal information of a child under 16 year of age we will take steps to delete the information as soon as possible.</p> 
+
+
+	<h3>Security</h3> 
+	
+	<p>Charitybuzz.com is a Thawte® secured website and uses a Thawte® SSL Certificate for encryption. Customer data is securely transmitted by Charitybuzz.com to non-affiliated third-parties as permitted by this privacy policy or by law and to service providers through a combination of encryption techniques and other privacy protection measures. Selected NPPI submitted through the charitybuzz.com website such as your debit or credit card numbers, expiration dates are encrypted for security reasons. Charitybuzz also maintains and enforces strict internal policies to protect NPPI from unauthorized access by employees or third-parties.</p>
+
+
+	<h3>Location-Based Services</h3>
+	 
+	<p>To provide location-based services on Charitybuzz products, Charitybuzz and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your Charitybuzz computer or device. This location data is collected anonymously in a form that does not personally identify you and is used by Charitybuzz and our partners and licensees to provide and improve location-based products and services. For example, we may share geographic location with application providers when you opt in to their location services.</p>
+
+
+	<h3>Third-Party Sites and Services</h3> 
+	
+	<p>Charitybuzz websites, products, applications, and services may contain links to third-party websites, products, and services. Our	products and services may also use or offer products or services from third parties − for example, a third-party iPhone app. Information collected by third parties, which may include such things as location data or contact details, is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.</p>
+	
+	<h3>Widgets</h3>
+	
+	<p>Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc).  Personal information, such as your email address, may be collected through the Widget.  Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.</p>
+	
+	<h3>Facebook Connect or other OpenID provider</h3>
+	
+	<p>You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
+	
+	<h3>Testimonials/Comments/Reviews</h3>
+	
+	<p>We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information.  We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.</p>
+	
+	<h3>Blogs</h3>
+	
+	<p>If you use our blog on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.</p>
+	
+	<h3>International Users</h3> 
+	
+	<p>Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Charitybuzz abides by the international credit card merchant laws and complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: <a href="http://export.gov/safeharbor">http://export.gov/safeharbor</a>.</p>
+<p></p>
+	
+	
+	<h3>Our Companywide Commitment to Your Privacy</h3> 
+	
+	<p>To make sure your personal information is secure, we communicate our privacy and security guidelines to Charitybuzz employees and strictly enforce privacy safeguards within the company.</p> 
+	
+	<h3>Notification of Privacy Statement Changes</h3>
+	
+	<p>We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p>
+	
+	<h3>Privacy Questions</h3> 
+	
+	<p>If you have questions or concerns about Charitybuzz's Privacy Policy or data processing, please contact us at 437 Fifth Avenue, 11th Floor New York, NY 10016. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <a href="http://watchdog.truste.com/pvr.php?page=complaint">http://watchdog.truste.com/pvr.php?page=complaint</a>, by mail at WatchDog Complaints, TRUSTe, 55 Second Street, Suite 2, San Francisco, CA, USA 94104, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <a href="http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html">http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>&nbsp;
+
+
 
 
 </div><!-- /privacyPolicy -->
 
-                  </div>
-                  
-              </div>
-            </div></div></div></div>
-          </div><!-- /page-inner -->
+        		</div>
+        		<!-- end main -->
+      		
+
+      		<div class="clear"><!-- --></div>
+	  
+      	  
+	  
+      		<div class="clear"><!-- --></div>
+
+    	 </div> </div></div></div>
+
+
+        <!-- /lowerSection -->
+
+
         
-        
-        
-        
-        <div class="clearfix" id="footer">
+<div class="clearfix" id="footer">
   <div class="br"><div class="bl">
     <div class="boxContent clearfix">
-	
-	  <div class="col">
-	  	<h5>About</h5>
-		<ul>
-		  <li><a href="/about_us">About Us</a></li>
-		  <li><a href="/management">Management Team</a></li>
-		  <li><a href="/jobs">Jobs/Internships</a> </li>
-		  <li><a href="/privacy_policy">Privacy Policy</a></li>
-		</ul>			
-	  </div><!-- /col -->		
 
-	  <div class="col">
-	  	<h5>Auctions</h5>
-		<ul>
-		  <li><a href="/auctions">Current Auctions</a></li>
-		  <li><a href="http://www.charitybuzz.com/auctions/upcoming">Upcoming Auctions</a></li>
-		  <li><a href="http://www.charitybuzz.com/auctions/closed">Recently Closed Auctions</a></li>
-		  <li><a href="/events">LiveBID Events</a></li>
-		</ul>			
-	  </div><!-- /col -->		
+      <div class="col">
 
-	  <div class="col">
-	  	<h5>Community</h5>
-		<ul>
-		  <li><a href="http://blog.charitybuzz.com/charityBlog/?cat=6">buzzBLOG</a></li>
-		  <li><a href="/testimonials">Testimonials</a></li>
-		</ul>			
-	  </div><!-- /col -->		
+        <h5>charitybuzz 101</h5>
+        <ul>
+          <li><a href="/about_us">About Us</a></li>
+          <li><a href="/management">Management Team</a></li>
+          <li><a href="/faqs">FAQs</a></li>
+          <li><a href="/goods">theGOODS</a> </li>
+        </ul>
+      </div><!-- /col -->
 
-	  <!--
-	  <div class="col">
-	  	<h5>Gift Kiosk</h5>
-		<ul>
-		  <li><a href="/kiosk">Gift Kiosk</a></li>
-		</ul>			
-	  </div>
-	  -->		
+      <div class="col">
+        <h5>Working with charitybuzz</h5>
+        <ul>
+          <li><a href="/charities">Charities</a></li>
+          <li><a href="/corporations">Corporations</a></li>
+          <li><a href="/jobs">Jobs</a> </li>
+        </ul>
+      </div><!-- /col -->
 
-	  <div class="col">
-	  	<h5>Working with charitybuzz</h5>
-		<ul>
-		  <li><a href="/media_kit">Media Kit</a></li>
-		  <li><a href="/sponsors">Our Sponsors</a> </li>
-		  <li><a href="/organizations">Organizations</a> </li>
-		</ul>			
-	  </div><!-- /col -->		
+      <div class="col">
+        <h5>Press</h5>
+        <ul>
+          <li><a href="/press_releases">Press Room</a></li>
+          <li><a href="/events">Live Events</a></li>
+        </ul>
+      </div><!-- /col -->
 
-	  <div class="col">
-	  	<h5>Contact Us</h5>
-		<ul>
-		  <li><a href="/faqs">FAQs</a></li>
-		  <li><a href="/contact_us">Contact</a></li>
-		  <li><a href="/new_partners">Partnership Inquiries</a></li>
-		</ul>			
-	  </div><!-- /col -->		
+      <div class="col">
+        <h5>Contact Us</h5>
+        <ul>
+          <li><a href="/contact_us">General Contact</a></li>
+          <li><a href="/new_partners">Partnership Inquiries</a></li>
+        </ul>
+      </div><!-- /col -->
 
-	  <div class="clear"><!-- --></div>
+      <div class="clear"><!-- --></div>
 
-	  <div id="nav-find">
-	    <h6><a href="#"><span>Find a Charity</span></a></h6>
-	  	<ul id="nav-causes" style="display: none">
-		  
-			<li class="cols3 col1">
-			  <ul>
-				
-				  <li>
-					<a href="/causes/169/catalog_items">
-					  Afghan Hands
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/198/catalog_items">
-					  Aid For Aids International
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/73/catalog_items">
-					  An Open Door
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/168/catalog_items">
-					  Broadway Cares/Equity Fights AIDS
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/196/catalog_items">
-					  Camp Brooklyn
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/85/catalog_items">
-					  Charna's Kids Club
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/194/catalog_items">
-					  Child Abuse Prevention Program
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/141/catalog_items">
-					  Columbus Citizens Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/84/catalog_items">
-					  Davana Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/16/catalog_items">
-					  Diamond Empowerment Fund
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/28/catalog_items">
-					  Do Something
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/176/catalog_items">
-					  Edgewood Center for Children and Families
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/134/catalog_items">
-					  Emeril Lagasse Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/210/catalog_items">
-					  Entertainers 4 Education Alliance
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/158/catalog_items">
-					  Friends of El Faro
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/144/catalog_items">
-					  Friends of the Fighting 69th
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/13/catalog_items">
-					  Gabrielle's Angel Foundation -- The Angel Ball
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/48/catalog_items">
-					  Gods Love We Deliver
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/146/catalog_items">
-					  Hollywood NOTE Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/200/catalog_items">
-					  Hope for Depression Research Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/212/catalog_items">
-					  Island Dog Inc.
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/82/catalog_items">
-					  Keep Memory Alive
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/188/catalog_items">
-					  Ken Green's Comeback
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/184/catalog_items">
-					  Kidney &amp; Urology Institute of America
-					</a>
-				  </li>
-				
-			  </ul>
-			</li>
-	  	  
-			<li class="cols3 col2">
-			  <ul>
-				
-				  <li>
-					<a href="/causes/5/catalog_items">
-					  LIFEbeat
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/124/catalog_items">
-					  Los Angeles Art Association
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/171/catalog_items">
-					  Los Angeles Youth Network
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/166/catalog_items">
-					  Martha Stewart Center for Living at Mount Sinai 
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/32/catalog_items">
-					  Mayor's Fund to Advance New York City
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/187/catalog_items">
-					  Melmark New England
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/164/catalog_items">
-					  Muse Elementary School
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/189/catalog_items">
-					  Music for America Project
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/123/catalog_items">
-					  Music for Relief
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/192/catalog_items">
-					  New York Women in Film and Television
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/197/catalog_items">
-					  Operation Smile
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/175/catalog_items">
-					  Orthopaedic Foundation for Active Lifestyles
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/199/catalog_items">
-					  Project Angel Food
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/45/catalog_items">
-					  Rosie's Broadway Kids
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/71/catalog_items">
-					  Rush Philanthropic Arts Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/207/catalog_items">
-					  Starlight Children’s Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/119/catalog_items">
-					  Step Up Women's Network
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/136/catalog_items">
-					  Ten O'Clock Classics
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/186/catalog_items">
-					  The Athlete Connection
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/203/catalog_items">
-					  The Better Life Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/181/catalog_items">
-					  The Catalina Experience
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/172/catalog_items">
-					  The Chakravarty Cup
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/167/catalog_items">
-					  The Chi Ling Cheng Special Needs Trust
-					</a>
-				  </li>
-				
-			  </ul>
-			</li>
-	  	  
-			<li class="cols3 col3">
-			  <ul>
-				
-				  <li>
-					<a href="/causes/208/catalog_items">
-					  The CityKids Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/29/catalog_items">
-					  The Felix Organization
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/183/catalog_items">
-					  The First Tee of Southern Nevada
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/182/catalog_items">
-					  The Folds of Honor Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/170/catalog_items">
-					  The GREEN Community Schools Model Initiative 
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/6/catalog_items">
-					  The Jorge Posada Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/66/catalog_items">
-					  The Kristen Ann Carr Fund
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/173/catalog_items">
-					  The Mark Sandman Music Project
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/25/catalog_items">
-					  The Museum of the City of New York
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/180/catalog_items">
-					  The Otis Redding “Big O” Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/19/catalog_items">
-					  The RFK Center for Justice and Human Rights
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/1/catalog_items">
-					  The Samuel Waxman Cancer Research Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/195/catalog_items">
-					  the Skyhook Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/179/catalog_items">
-					  The Stephen Siller Children's Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/201/catalog_items">
-					  the Vitalogy Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/115/catalog_items">
-					  Tibet House US
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/106/catalog_items">
-					  True Colors Fund
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/178/catalog_items">
-					  United Foster Parents Plan, Uganda
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/3/catalog_items">
-					  Urban Farming
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/174/catalog_items">
-					  US Fund for UNICEF
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/209/catalog_items">
-					  Variety's Power of Youth
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/202/catalog_items">
-					  Vascular Birthmark Foundation
-					</a>
-				  </li>
-				
-				  <li>
-					<a href="/causes/97/catalog_items">
-					  VH1 Save the Music Foundation
-					</a>
-				  </li>
-				
-			  </ul>
-			</li>
-	  	        
-	  	</ul>    
-	  </div><!-- /nav-find -->
+      <div id="nav-find">
+  <h6><a href="#"><span>Find a Charity</span></a></h6>
+	<ul id="nav-causes" style="display: none">
+    
+  		<li class="cols3 col1">
+  		  <ul>
+  			
+  			  <li>
+  				<a href="/support/261">
+  				  A Place Called Home
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/emmysfoundation">
+  				  Academy of Television Arts &amp; Sciences Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/aclu">
+  				  ACLU of Southern California
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/actionagainsthunger">
+  				  Action Against Hunger
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/ADDResources">
+  				  ADD Resources
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/healthiergeneration">
+  				  Alliance for a Healthier Generation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/artnewyork">
+  				  Alliance of Resident Theatres/New York
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/abt">
+  				  American Ballet Theatre
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/HeroDogAwards">
+  				  American Humane Association
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/amnestyinternational">
+  				  Amnesty International
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/afa">
+  				  Ancient Forest Alliance
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/662">
+  				  APLA: AIDS Project Los Angeles
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/arnoldpalmermedicalcenter">
+  				  Arnold Palmer Medical Center Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/886">
+  				  Attic Community Playground
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/bafta">
+  				  BAFTA: British Academy of Film and Television Arts
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1162">
+  				  Bedford Schools Association
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1152">
+  				  Berkshire Theatre Group
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/BBBSGLA">
+  				  Big Brothers Big Sisters of Greater Los Angeles
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/952">
+  				  Black Retail Action Group
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/575">
+  				  Blessings in a Backpack
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/690">
+  				  Blue Ocean Institute
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/BroadwayDreamFoundation">
+  				  Broadway Dream Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1038">
+  				  C5 LA
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1125">
+  				  CAMFED International
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/196">
+  				  Camp Brooklyn
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/276">
+  				  Center For Hearing and Communication
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/crest">
+  				  Center for Responsible Travel (CREST)
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1120">
+  				  Charlize Theron Africa Outreach Project
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/85">
+  				  Charna's Kids Club
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1082">
+  				  Child Mind Institute
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/ChildrenMendingHearts">
+  				  Children Mending Hearts
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/831">
+  				  Children's Cancer &amp; Blood Foundation 
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1149">
+  				  Children's Cancer Association
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1012">
+  				  Cinema for Peace
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/CityandCountrySchool">
+  				  City and Country School
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/605">
+  				  Communities In Schools
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/costaverde">
+  				  Costa Verde International School
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/902">
+  				  Covenant House
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/culture_project">
+  				  Culture Project
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1114">
+  				  Death Penalty Focus
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/657">
+  				  Design Industries Foundation Fighting AIDS
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/482">
+  				  Doctors without Borders
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/eaglecondor">
+  				  Eagle Condor Humanitarian
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/923">
+  				  Echo Horizon School
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/ecar">
+  				  Every Child a Reader
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/959">
+  				  Frank Nelson Memorial Sick and Benefit Fund, a program of the AFTRA Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/frenchinstitute">
+  				  French Institute Alliance Française
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/friendsofacadia">
+  				  Friends of Acadia
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/FriendsofBethany">
+  				  Friends of Bethany
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/914">
+  				  Friends of Ivanhoe
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1146">
+  				  Friends of the Seban Free Clinic
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/FOWHE">
+  				  Friends of West Hollywood Elementary
+  				</a>
+  			  </li>
+  			
+  		  </ul>
+  		</li>
 	  
-      <p>
-        © 2009 charitybuzz Inc. All rights reserved. 
-      </p>
+  		<li class="cols3 col2">
+  		  <ul>
+  			
+  			  <li>
+  				<a href="/support/13">
+  				  Gabrielle's Angel Foundation -- The Angel Ball
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/795">
+  				  GBCHealth
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/848">
+  				  Generation Rescue
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/glamourgals">
+  				  GlamourGals Foundation, Inc.
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/262">
+  				  GO Campaign
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/48">
+  				  Gods Love We Deliver
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/greenpeace">
+  				  Greenpeace International
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/630">
+  				  Habitat for Humanity of Greater Los Angeles
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/fashionhighschool">
+  				  High School of Fashion Industries
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/hollywoodwilshireymca">
+  				  Hollywood Wilshire YMCA
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/HelpHomeSafe">
+  				  HomeSafe
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/ifp">
+  				  Independent Filmmaker Project
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1129">
+  				  Institute on Higher Awesome Studies
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/IntrepidFallenHeroesFund">
+  				  Intrepid Fallen Heroes Fund
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/islandharvest">
+  				  Island Harvest
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/issatrustfoundation">
+  				  Issa Trust Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1132">
+  				  J/P HRO
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/jhfestival">
+  				  Jackson Hole Wildlife Film Festival 
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/670">
+  				  Jane Goodall Institute
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1010">
+  				  Johan Santana Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1130">
+  				  Joyal Capital Management Foundation, Inc.
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/ps85q">
+  				  Judge Charles J. Vallone School - P.S. 85
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/918">
+  				  Kisses for Kyle
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/265">
+  				  L.A. Gay &amp; Lesbian Center
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/laguardia">
+  				  LaGuardia High School of Music, Art and the Performing Arts
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1150">
+  				  Lenox Fire Company Antique Apparatus Association
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/arthope">
+  				  Louise Blouin Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/552">
+  				  Love Heals
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1153">
+  				  Martha Jones Elementary School PTO
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/166">
+  				  Martha Stewart Center for Living at Mount Sinai
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/819">
+  				  MCC Theater 
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/813">
+  				  Melrose Elementary School
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/mercycollege">
+  				  Mercy College
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/MuscularDystrophyAssociation">
+  				  Muscular Dystrophy Association
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1154">
+  				  Museo de Arte de Ponce
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/25">
+  				  Museum of the City of New York
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/913">
+  				  Music for Relief for Japan Earthquake &amp; Tsunami Relief
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1128">
+  				  National Breast Cancer Coalition
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/738">
+  				  New York City Mission Society
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/43">
+  				  New York Stage and Film
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/oceana">
+  				  Oceana
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1015">
+  				  One X One
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/175">
+  				  Orthopaedic Foundation for Active Lifestyles
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/483">
+  				  Oxfam International
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/718">
+  				  Pencils of Promise
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/happyhearts">
+  				  Petra Nemcova's Happy Hearts Fund
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/199">
+  				  Project Angel Food
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1145">
+  				  PS 158 Parents' Association 
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/REACH">
+  				  REACH: Rewarding Achievement
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1106">
+  				  RFK Young Leaders
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/396">
+  				  Rock the Vote
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/rmhcsc">
+  				  Ronald McDonald House Charities of Southern California
+  				</a>
+  			  </li>
+  			
+  		  </ul>
+  		</li>
 	  
-    </div><!-- /boxContent -->
-  </div></div>
-</div><!-- /footer -->
-        
+  		<li class="cols3 col3">
+  		  <ul>
+  			
+  			  <li>
+  				<a href="/support/71">
+  				  Rush Philanthropic Arts Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/scholarmatch">
+  				  ScholarMatch
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/sevenbar">
+  				  Seven Bar Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/shineglobal">
+  				  Shine Global
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/34">
+  				  Shine On Sierra Leone
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/515">
+  				  Southampton Animal Shelter Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/SportsSpectacular">
+  				  Sports Spectacular, supporting the Medical Genetics Institute at Cedars-Sinai
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/Stlukes">
+  				  St. Lukes School
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/rintintin">
+  				  St. Paul Police K-9 Foundation and A Rinty for Kids Foundation, Inc.
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/StarlightNewEngland">
+  				  Starlight Children's Foundation New England
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/stepupwomen">
+  				  Step Up Women's Network
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/52">
+  				  Stephen Gaynor School
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/Stoked">
+  				  Stoked Mentoring
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/846">
+  				  Stone Soup
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/779">
+  				  Telluride Academy
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/136">
+  				  Ten O'Clock Classics
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/818">
+  				  The Anderson School, PS 334
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/reevefoundation">
+  				  the Christopher &amp; Dana Reeve Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/douglaswatt">
+  				  The Douglas Watt Family Fund for the Performing Arts
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/ETAF">
+  				  The Elizabeth Taylor AIDS Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/861">
+  				  The FEED Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/felix">
+  				  The Felix Organization
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/jesseleehome">
+  				  The Friends of Jesse Lee Home
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/TheHeartFoundation">
+  				  The Heart Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/HHREC">
+  				  The Holocaust and Human Rights Education Center
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1067">
+  				  The Mariano Rivera Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/596">
+  				  The Mulligan Project
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/781">
+  				  The MusiCares Foundation<sup>®</sup>
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1094">
+  				  The NASCAR Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/91">
+  				  The New York Coalition for Healthy School Food
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/19">
+  				  The RFK Center for Justice and Human Rights
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1084">
+  				  The Rob Dyrdek Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/733">
+  				  The Ruby Peck Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/708">
+  				  The Westwood Early Childhood Council
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/495">
+  				  The Young Storytellers Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/115">
+  				  Tibet House US
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1147">
+  				  Topanga Enrichment Programs
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/toryburch">
+  				  Tory Burch Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/106">
+  				  True Colors Fund
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/974">
+  				  Tuberville
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/238">
+  				  Tulane University
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/3">
+  				  Urban Farming
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/UrbanSurf4Kids">
+  				  Urban Surf 4 Kids
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/UsedDogsRescue">
+  				  Used Dogs Rescue
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/USTAserves">
+  				  USTA Serves
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/variety">
+  				  Variety Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/divas">
+  				  VH1 Save the Music Foundation
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/1165">
+  				  Western Los Angeles County Council, Boy Scouts of America
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/whyhunger">
+  				  WhyHunger
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/SiriusXM">
+  				  WhyHunger courtesy of SiriusXM
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/WCBS880">
+  				  WhyHunger courtesy of WCBS Newsradio 880
+  				</a>
+  			  </li>
+  			
+  			  <li>
+  				<a href="/support/24">
+  				  Women's Venture Fund
+  				</a>
+  			  </li>
+  			
+  		  </ul>
+  		</li>
+	        
+	</ul>    
+</div>
+<!-- /nav-find -->
+
+      
+      <div class="seals">
+        <p>
+          © 2011 charitybuzz Inc. All rights reserved. &nbsp; | &nbsp; <a href="/privacy_policy">Privacy Policy</a>
+        </p>
+        <div class="clear"></div>
+        <div id="thawteseal" title="Click to Verify - This site chose Thawte SSL for secure e-commerce and confidential communications.">
+          <div>
+            <script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.charitybuzz.com&amp;size=M&amp;lang=en"></script>
+          </div>        
+        </div>
+        <div id="trusteseal">
+          <a href="http://privacy-policy.truste.com/click-with-confidence/wps/en/www.charitybuzz.com/seal_m" target="_blank" title="TRUSTe online privacy certification"><img alt="TRUSTe online privacy certification" src="http://privacy-policy.truste.com/certified-seal/wps/en/www.charitybuzz.com/seal_m.png"></a>
+          <a href="http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.charitybuzz.com/seal_m" target="_blank" title="TRUSTe European Safe Harbor certification"><img alt="TRUSTe European Safe Harbor certification" src="http://privacy-policy.truste.com/certified-seal/eusafe/en/www.charitybuzz.com/seal_m.png"></a>
+        </div>
+        <div class="clear"></div>
+      </div>
+      
+      </div><!-- /boxContent -->
+    </div></div>
+  </div><!-- /footer -->
+
+
+
     	</div><!-- /boxContent -->
-    </div></div></div></div></div></div>
+    </div></div></div></div>
+
     <div class="clear"><!-- --></div>
-	<!-- /page -->
+	</div><!-- /page -->
+  
+  <!-- =====================================================
+          AdSense
+  ====================================================== -->
+	<div id="adSense">
+		<script type="text/javascript">
+			<!--
+			google_ad_client = "pub-1232732162271884";
+			//728x90, created 11/7/07
+			google_ad_slot = "9177808945";
+			google_ad_width = 728;
+			google_ad_height = 90; 
+			//-->
+		</script>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> 
+		</script>	
+	</div><!-- /adSense -->
+
+
+  </div><!-- /container -->
 
   
-    <!-- =====================================================
-            AdSense
-    ====================================================== -->
-  	<div id="adSense">
-  		<script type="text/javascript">
-  			<!--
-  			google_ad_client = "pub-1232732162271884";
-  			//728x90, created 11/7/07
-  			google_ad_slot = "9177808945";
-  			google_ad_width = 728;
-  			google_ad_height = 90; 
-  			//-->
-  		</script>
-  		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"> 
-  		</script>	
-  	</div><!-- /adSense -->
-  
-  
-  
     <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    try{ 
-    var pageTracker = _gat._getTracker("UA-497484-2");
-    pageTracker._trackPageview();
-    } catch(err) {} 
+     var _gaq = _gaq || [];
+     _gaq.push(['_setAccount', 'UA-497484-2']);
+     _gaq.push(['_setDomainName', '.charitybuzz.com']);
+     _gaq.push(['_setCustomVar', 1, 'Area ID', '',1]);
+     _gaq.push(['_setCustomVar', 2, 'Category ID', '',1]);
+     _gaq.push(['_setCustomVar', 3, 'Org ID', '',1]);
+     _gaq.push(['_trackPageview']);
+
+     (function() {
+       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+     })();
     </script>
-  
-<!-- /container -->
+    
 
 
-</body></html>
+
+  <script type="text/javascript">
+    var _sf_async_config={uid:4796,domain:"charitybuzz.com"};
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+                       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+                       "static.chartbeat.com/js/chartbeat.js");
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+        loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+  </script>
+
+<script>(function(){var d=document;var e=d.createElement("script");e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js";var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(e,s);})();NREUMQ.push(["nrf2","beacon-1.newrelic.com","77ac77156b",5645,"ellbR0pZCl1TRx1DB15TRhxIRA9HV1ZLbBZWWlxQQQ==",0,251,new Date().getTime()])</script>
+
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
