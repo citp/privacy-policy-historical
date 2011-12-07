@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbirth.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630174138id_/http%3A//www.newbirth.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbirth.org privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207035924id_/http%3A//www.newbirth.org/privacy) for the most accurate reproduction.*
 
 # New Birth Missionary Baptist Church | With Bishop Eddie Long | Privacy
 
