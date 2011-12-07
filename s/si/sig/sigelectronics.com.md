@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigelectronics.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107072100id_/http%3A//www.sigelectronics.com/SIG-Electronics-Privacy-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigelectronics.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207025344id_/http%3A//www.sigelectronics.com/SIG-Electronics-Privacy-Policies) for the most accurate reproduction.*
 
 # SIG Electronics, Privacy Policies
 
@@ -15,14 +15,6 @@
   * Links
   * Surveys and Contests
   * Terms and Conditions, Notices, and Revisions
-
-[**Terms & Conditions**](https://web.archive.org/SIG-Electronics-Terms-and-Conditions)
-
-[**SIG Electronics Policies**](https://web.archive.org/SIG-Electronics-Policies)
-
-[ **Return Policy**](https://web.archive.org/SIG-Electronics-Return-Policy)
-
-[**Holiday Season Policies**](https://web.archive.org/Holiday-Season-Policies-2010)
 
 | 
 
@@ -66,7 +58,7 @@ We may employ third party companies to perform functions on our behalf. These fu
 ---|---|---  
 4567 Dixie Rd | 5995 Avebury Road | 475 L’Enfant Plaza, SW  
 Mississauga, Ontario | Mississauga, Ontario | Washington, DC  
-L4W 1S2     | L5R 3T8     | 20260-2202  
+L4W 1S2  | L5R 3T8  | 20260-2202  
 1-866-607-6301 | 1-888-744-7123 | 1-800-222-1811  
 [www.canadapost.com](http://www.canadapost.com/) | [www.purolator.com](http://www.purolator.com/) | [www.usps.com](http://www.usps.com/)  
   
@@ -120,7 +112,7 @@ Back to Top
 
 If you choose to visit SIG Electronics.com, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law. If you have any concern about privacy at SIG Electronics.com, please contact us ([webmaster@sigelectronics.com](mailto:webmaster@sigelectronics.com)) and we’ll try to resolve it.
 
-Our business changes constantly, and our Privacy Policy and the Terms and Conditions will change also.  We will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our homepage. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected.
+Our business changes constantly, and our Privacy Policy and the Terms and Conditions will change also. We will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our homepage. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected.
 
 If you have opted out of receiving communications from SIG Electronics.com, you still be able to view news of policy changes at [www.sigelectronics.com](https://web.archive.org/). Otherwise, you may e-mail us at ([webmaster@sigelectronics.com](mailto:webmaster@sigelectronics.com)) to ask about changes and updates. 
 
