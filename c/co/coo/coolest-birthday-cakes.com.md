@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolest-birthday-cakes.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420090344id_/http%3A//www.coolest-parties.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolest-birthday-cakes.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207131916id_/http%3A//www.coolest-parties.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Coolest Parties Privacy Policy
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use the network of _Coolest Parties_ sites (inclucing www.coolest-parties.com, www.coolest-kid-birthday-parties.com, www.coolest-birthday-cakes.com, www.coolest-homemade-costumes.com, www.coolest-holiday-parties.com, www.coolest-baby-showers.com). This document also outlines some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use the network of _Coolest Parties_ sites (inclucing www.coolest-parties.com, www.coolest-kid-birthday-parties.com, www.coolest-birthday-cakes.com, www.coolest-homemade-costumes.com, www.coolest-holiday-parties.com, www.coolest-baby-showers.com, coolest-free-printables.com, my-sbi-adventure.com). This document also outlines some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
 _Coolest Parties_ strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
