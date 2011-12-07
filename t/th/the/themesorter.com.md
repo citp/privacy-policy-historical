@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themesorter.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512223057id_/http%3A//themesorter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesorter.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207231454id_/http%3A//themesorter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ThemeSorter
 
