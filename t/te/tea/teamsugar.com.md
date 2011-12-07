@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamsugar.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227070205id_/http%3A//www.sugarinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsugar.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207210819id_/http%3A//www.sugarinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Home
 
