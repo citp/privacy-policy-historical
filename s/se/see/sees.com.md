@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230045106id_/http%3A//www.sees.com/index.cfm/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sees.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207122639id_/http%3A//www.sees.com/index.cfm/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Chocolates & Chocolate Gifts | See's Candies
 
+  
+  
+  
+  
+|    
 At See's, we respect our customers' privacy which is why it is important to us that you understand how we collect, use and disclose information you share with us. We may collect personal and other types of information from you when you interact with See's, such as when you visit our website, when you purchase See's products and services, when you call our sales or support associates and at other times. This information will be used only in accordance with our Privacy Policy. Our Privacy Policy describes what types of information we collect, how we use the information and for what purposes, to whom we may disclose information, how we protect your information, and your options for managing your information.
 
 This Privacy Policy covers the collection, use and disclosure of Personal Information (defined below) and Non-Personal Information (defined below) that may be collected by See's anytime you interact with See's, such as when you visit our website, when you purchase See's products and services, when you call our sales or support associates and at other times. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information and your options for managing your Personal Information.
@@ -9,6 +14,8 @@ This Privacy Policy covers the collection, use and disclosure of Personal Inform
 **Information We Automatically Collect**
 
 We automatically collect information that does not reflect or reference an individually identifiable user ("Non-Personal Information") to help us understand how our users use our website. As is true of most commercial websites, our website uses "cookies" and other technologies to help us understand which parts of our website are the most popular, where our visitors are going, how much time they spend there, etc. We also use cookies and other technologies to improve the quality and functionality of our website and personalize your experience on our website. Most Web browsers are initially set to accept cookies. If you would prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of our website will not function properly if you do so. We also gather certain information automatically and store it in log files. This information includes, without limitation, Internet Protocol (IP) addresses, Web browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our websites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. For example, we use pixels provided by a third party to track the number of end-user conversions we obtain from its paid search advertising, and a cookie provided by a third party will be placed on the computer of each end-user that clicks on an advertisement so that future advertisements can be targeted to that end-user based on the advertisements clicked on by that end-user. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can contact us at the contact information below and/or visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 **Information You Choose To Submit**
 
@@ -51,4 +58,8 @@ The safety of children online is very important to us. We do not knowingly colle
 
 We reserve the right, at our discretion, to change this Privacy Policy at any time. Please check this page [and the link to this page from our homepage] periodically for changes. Those changes will go into effect on the Effective Date disclosed in the changed Privacy Policy. The new Privacy Policy will apply to all current and past users of our website and will replace any prior Privacy Policies that are inconsistent.
 
-Effective Date: April 1, 2008
+Effective Date: September 6, 2011 
+
+  
+  
+
