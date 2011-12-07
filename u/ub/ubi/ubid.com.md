@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609233451id_/http%3A//www.ubid.com/help/docs/privacy-security-policy.aspx%3Ffooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubid.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207190256id_/http%3A//www.ubid.com/help/docs/privacy-security-policy.aspx%3Ffooter) for the most accurate reproduction.*
 
 # What is uBid.com's Privacy & Security Policy? - uBid.com
 
@@ -48,4 +48,4 @@ Some older browsers (such as IE 3.0.2) have known SSL bugs. These can result in 
 **Technical Details About Encryption**  
 uBid.com operates with a VeriSign Digital Server Certificate, featuring cryptographic techniques to reduce the risk that Digital IDs are not forged or tampered with. These techniques, developed by RSA Data Security, use a matched pair of encryption and decryption keys. This use of matched-key cryptography with a 1024-bit key length provides a level of security unavailable with conventional secret key cryptography.
 
-uBid.com, Inc. -- 1140 W. Thorndale Ave. Itasca, IL 60143
+uBid.com, Inc. -- 740Â  Hilltop Drive. Itasca, IL 60143
