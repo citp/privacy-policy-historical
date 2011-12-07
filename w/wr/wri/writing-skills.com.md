@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the writing-skills.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630172359id_/http%3A//www.writing-skills.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writing-skills.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207130612id_/http%3A//www.writing-skills.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
-
-## Privacy policy
 
 If you have any questions about this privacy policy please contact us at [info@writing-skills.com](mailto:info@writing-skills.com) and we will be happy to help.
 
