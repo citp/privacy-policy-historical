@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolutionofwealth.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403103105id_/http%3A//evolutionofwealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolutionofwealth.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207012402id_/http%3A//evolutionofwealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
