@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305152938id_/http%3A//www.owners.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207210745id_/http%3A//www.owners.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Homes For Sale By Owner - Search, Buy, Sell - Owners.com Real Estate
 
@@ -22,7 +22,7 @@ Owners.com accepts credit card information to provide our customers with the con
 
 ## Cookies
 
-In order to enhance your visit with personalized services, Owners.com makes use of cookie technology. A cookie is a small file that is assigned to a user when they register on a Web site. These cookies do not collect personally identifiable information, nor are they shared with our partners and vendors. We use cookie technology to track the way in which customers use the site so that we can provide them with content that caters to their needs. We also use cookies to make your visit more convenient by saving your password so that you do not have to re-enter it each time you visit our site. We may use third-party tracking services or third-party advertising services (such as Google's advertising services) that use cookies and clear gifs (also known as "web beacons" or "web bugs") to track non-personally identifiable information about visitors to our site. This helps us measure the utility of our website and the effectiveness of our marketing campaigns. It also helps advertisers reach consumers with messages and offers that are relevant to them. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). 
+In order to enhance your visit with personalized services, Owners.com makes use of cookie technology. A cookie is a small file that is assigned to a user when they register on a Web site. These cookies do not collect personally identifiable information, nor are they shared with our partners and vendors. We use cookie technology to track the way in which customers use the site so that we can provide them with content that caters to their needs. We also use cookies to make your visit more convenient by saving your password so that you do not have to re-enter it each time you visit our site. We may use third-party tracking services or third-party advertising services (such as Google's advertising services) that use cookies and clear gifs (also known as "web beacons" or "web bugs") to track non-personally identifiable information about visitors to our site. This helps us measure the utility of our website and the effectiveness of our marketing campaigns. It also helps advertisers reach consumers with messages and offers that are relevant to them. Users may opt out of Google's use of cookies by visiting the http://www.google.com/privacy_ads.html. 
 
 ## IP Address
 
@@ -50,12 +50,12 @@ You, as a user, can change or edit your personal information and listing informa
 
 ## Unsubscribe / Opt-out
 
-You may elect to opt-out of receiving email communications from us by following this link: [Unsubscribe / Opt-out](https://web.archive.org/about/unsubscribe). 
+You may elect to opt-out of receiving email communications from us by following this link: [Unsubscribe / Opt-out](http://www.owners.com/about/unsubscribe). 
 
 By adding your email address to our opt-out list, you will not receive any further communication from us (such as newsletters, special offers, or listing email alerts) after 7-10 days (as some emails may already be process). Please note that our opt-out list limits only communications from Owners.com; if you also wish to deactivate your listing or restrict your contact information available to interested buyers, please be sure to manage that information separately within your listing account manager. 
 
 ## Conclusion
 
-Thank you for taking the time to educate yourself about the ways in which Owners.com collects, uses, and stores the information that you provide. We recommend that you also read our [Terms and Conditions of Service and Use](https://web.archive.org/about/disclosure)  and our [Copyright and Trademark Notices](https://web.archive.org/about/copyright)  since they provide more information about Owners.com policies. If you have any questions about our privacy policy and security statement, please email [help@owners.com](mailto:help@owners.com). 
+Thank you for taking the time to educate yourself about the ways in which Owners.com collects, uses, and stores the information that you provide. We recommend that you also read our [Terms and Conditions of Service and Use](http://www.owners.com/about/disclosure)  and our [Copyright and Trademark Notices](http://www.owners.com/about/copyright)  since they provide more information about Owners.com policies. If you have any questions about our privacy policy and security statement, please email [help@owners.com](mailto:help@owners.com). 
 
 Please revisit this site on occasion to make sure that you have viewed the most recent version of the privacy policy and security statement. Owners.com reserves the right to change any of the information listed on this document and will notify users of any changes by posting the new version of this document to the site at the Privacy Policy & Security Statement link. 
