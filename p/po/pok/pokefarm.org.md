@@ -1,10 +1,26 @@
-> *The following text is extracted and transformed from the pokefarm.org privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121040253id_/http%3A//pokefarm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokefarm.org privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207165959id_/http%3A//pokefarm.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PokéFarm
 
 [](https://web.archive.org/)
 
-[](http://buysellads.com/buy/detail/35075/zone/1251218?utm_source=site_35075_zone_1251218&utm_medium=website&utm_campaign=adhere)
+5.36M 
+
+130M 
+
+46.2M 
+
+24.1k 
+
+298M 
+
+50k 
+
+Welcome to PokéFarm! || Please be sure to read the [[Rules](https://web.archive.org/forum_thread?tid=40)] and check out the [[Help](http://wiki.pokefarm.org/)] files.  
+**> > [November Events](https://web.archive.org/forum_thread?tid=105446) <<** || [Recent Updates Discussion](https://web.archive.org/forum_thread?tid=103054) || [Tip Jar](https://web.archive.org/tipjar)  
+**[Updates to look forward to](https://web.archive.org/forum_thread?tid=79531) [[Update #4](https://web.archive.org/forum_thread?tid=79531#post7148256)]** || Lots of things are planned, and are actively being worked on. Watch this space!  
+**Update-in-progress:** [Template System](https://web.archive.org/forum_thread?tid=104355) \- Template buttons now using new Templates. Old Templates transferred.  
+**Note:** Lots going on in real life, moving home across an ocean, without parents to help for the first time >_> Updates will be slow.
 
 This Privacy Policy sets out how PokéFarm uses and protects any information that you give PokéFarm when you use this website.
 
