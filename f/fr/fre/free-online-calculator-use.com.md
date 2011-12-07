@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-online-calculator-use.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918101205id_/http%3A//www.free-online-calculator-use.com/info-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-online-calculator-use.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207064029id_/http%3A//www.free-online-calculator-use.com/info-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Once information is reviewed, it is discarded or stored in our files. If we make
 
 #### Web Searching from this Site
 
-The search box on this web site ("Search Box") is powered by Google Inc ("Google"). 
+The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy. 
 
 #### Use of Cookies and Web Beacons
 
@@ -88,4 +88,20 @@ If you do not agree to free-online-calculator-use.com Privacy Policy as posted h
 
 **Your use of this site indicates acceptance of this privacy policy.**
 
+**Share this page:  **  
+
+
+What's This?
+
+| | | |   
+---|---|---|---|---  
+| | |   
+  
+Enjoy this page? Please pay it forward. Here's how...  
+  
++1 Free-Online-Calculator-Use.com   
+---  
++1  |  Page  |  Site   
+|  |   
+  
 [](http://www.copyscape.com/plagiarism-detection/)
