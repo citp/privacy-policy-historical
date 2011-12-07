@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ait-pro.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212135257id_/http%3A//www.ait-pro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ait-pro.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207224820id_/http%3A//www.ait-pro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AITpro Website Design | AITpro Website Design & SEO
 
@@ -11,7 +11,7 @@
   
 We can be reached via email at [info@ait-pro.com](mailto:info@ait-pro.com) or you can reach us by telephone at 805-651-8516.
 
-For each visitor to our website, our web host server automatically recognizes only the visitor’s domain name, but not the email address (where possible).  The domain name for a visitor is only used to track the amount of visitor traffic to the AITpro website.  The email addresses of those who communicate with us via email will ONLY be used to communicate with persons requesting to be contacted. We DO NOT send unsolicited SPAM email.
+For each visitor to our website, our web host server automatically recognizes only the visitor’s domain name, but not the email address (where possible).  The domain name for a visitor is only used to track the amount of visitor traffic to the AITpro website.  The email addresses of those who communicate with us via email will ONLY be used to communicate with persons requesting to be contacted. We DO NOT send unsolicited SPAM email.  Any correspondence, transactions and communications between AITpro clients and customers is regarded as private information and is not shared with any 3rd parties.
 
 With respect to cookies:  We do not use cookies to track visitors to our site.
 
