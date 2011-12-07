@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pdftoword.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629122558id_/http%3A//www.pdftoword.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdftoword.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207223741id_/http%3A//www.pdftoword.com/privacy.aspx) for the most accurate reproduction.*
 
-# PDF to Word - 100% Free! - The Most Accurate PDF-to-Word Converter
+# PDF to Word Converter — 100% Free
 
 At Nitro PDF Software we are committed to ensuring the privacy of your personal information. We understand that privacy of your personal information is important. Our Privacy Policy tells you how we collect, use, distribute and protect personal information. 
 
