@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417122000id_/http%3A//www.orkin.com/globals/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207034904id_/http%3A//www.orkin.com/globals/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy policy**
-
 Orkin, Inc. understands you may have concerns about privacy while shopping on the Internet. Orkin, Inc. is committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Policy is intended to describe how your personal information is processed and used, and we will make every effort to ensure that our activities keep with the spirit of this Policy. Please note that by visiting and using Orkin.com, you are accepting the practices described in this Privacy Policy.
 
-**What Information is Orkin, Inc. gathering about its visitors?**
+### What Information is Orkin, Inc. gathering about its visitors?
 
-Every computer connected to the Internet is provided with a domain name (e.g. earthlink.net) and an IP Address (e.g. 192.164.13.145). When a visitor requests a page from within the [Orkin.com](http://signup.orkin.com/orkin/res/pc-FightTheBite-ph_cb.aspx?cm_mmc=Pr-_-Net-_-PRNWEB-_-_) Web site, our Web Servers automatically identify and log the HTTP request that is made to our Web Server. This information reveals nothing personal about you.
+Every computer connected to the Internet is provided with a domain name (e.g. earthlink.net) and an IP Address (e.g. 192.164.13.145). When a visitor requests a page from within the [ Orkin.com](http://signup.orkin.com/orkin/res/pc-FightTheBite-ph_cb.aspx?cm_mmc=Pr-_-Net-_-PRNWEB-_-_) Web site, our Web Servers automatically identify and log the HTTP request that is made to our Web Server. This information reveals nothing personal about you.
 
 When you schedule an appointment on myorkin.com, we ask for your name, address, phone number, email address and other personal information necessary to fulfill your request.
 
 Occasionally we conduct surveys and contests on myorkin.com. If you choose to participate in an online contest, we may request information from you that will permit us to administer the contest and notify the winner(s). In addition, we may ask for other personally identifiable information including but not limited to name, address, email, and phone number.
 
-**How is it being used?**
+### How is it being used?
 
 Information collected on orkin.com may be used in the following ways:
 
@@ -28,7 +26,7 @@ Information collected on orkin.com may be used in the following ways:
 
 
 
-**What about Cookies?**
+### What about Cookies?
 
 Cookies are small pieces of data that are transferred to your computer's hard drive through your Web browser from our Web Server. A cookie cannot read data from your hard disk or read cookie files that may have been created from other sites. The Orkin.com Web site utilizes cookies as a means of providing personalization features to our visitors. For example, we utilize cookies to remember settings (zipcodes, accessibility settings, etc.) that you may have made at our Web site.
 
@@ -38,21 +36,21 @@ You can choose whether to accept cookies by changing the settings of your browse
 
 Orkin, Inc. carefully selects third party vendors to further assist us in better understanding your use of our website. A selected vendor will place unique cookies on your computer to collect information such as IP address, site navigation information within our web properties, and email address (if you have provided it). The vendor does not collect your name and address, username, password, or credit card information. The vendor analyzes the information it collects and returns it to us so that we may determine whether site improvements are needed. Any selected vendor is required to keep all information that it collects confidential and is prohibited from using data collected from our site for any other purposes.
 
-**How does Orkin.com protect my personal data?**
+### How does Orkin.com protect my personal data?
 
 Orkin, Inc. uses reasonable precautions to keep the information disclosed to us secure. We have implemented security policies, rules and technical measures to protect your personal data from unauthorized access, improper use or disclosure or unauthorized modification. We also advise all [Orkin](http://careers.orkin.com/) employees about their responsibility to protect customer data and we provide them with appropriate guidelines for adhering to our company's business ethics standards and confidentiality policies.
 
-**What other information does Orkin.com request?**
+### What other information does Orkin.com request?
 
 We may also request your e-mail address or mailing address for the purposes of conducting a survey, adding you to our mailing list or contacting you for or with additional information you requested. Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict "No Spam" policy that means we do not intend to sell, rent or otherwise give your e-mail address to a third- party, without your consent.
 
 In addition, Orkin, Inc. will not send you e-mail that you have not agreed to receive. If you are a member of our Mailing List, you will be contacted with announcements, news and new products or services. You have the option of "Unsubscribing" from our Mailing List at any time, thereby disabling any further such e-mail communication from being sent to you. If you wish to have specific communications with a member of the Orkin, Inc. staff, you will be required to provide specific information that will be routed to the appropriate contact within Orkin, Inc.
 
-**How does Orkin.com support the Childrens’ Online Privacy Protection Rule?**
+### How does Orkin.com support the Childrens’ Online Privacy Protection Rule?
 
 We observe appropriate national laws and regulations on children's privacy, including in the United States the Children's Online Privacy Protection Act (COPPA) of 1998. Orkin does not actively market to children, and we never knowingly ask a child under 13 to divulge personal information. If a child under 13 has provided us with personal information without parental or guardian consent, the parent or guardian may e-mail us, and we will remove the information and unsubscribe the child from any promotional contact opportunities.
 
-**Will Orkin, Inc. disclose the information collected to Third Parties?**
+### Will Orkin, Inc. disclose the information collected to Third Parties?
 
 Orkin, Inc. will disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to:
 
@@ -71,4 +69,4 @@ We reserve the right to change, modify or amend this policy at any time. Any cha
 
 Copyright 2007, Orkin, Inc. All Rights Reserved.
 
-Revision: August 2009
+Revision:August 2009
