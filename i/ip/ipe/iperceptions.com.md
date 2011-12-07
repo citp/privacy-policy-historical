@@ -1,34 +1,36 @@
-> *The following text is extracted and transformed from the iperceptions.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607182330id_/http%3A//www.iperceptions.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iperceptions.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207144236id_/http%3A//www.iperceptions.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | iPerceptions - Customer Satisfaction Measurement
+# Privacy Policy | iPerceptions
 
 **Last updated: April 29, 2011**
 
 iPerceptions Inc. (“iPerceptions” or the “Company”) is committed to protecting the privacy and security of its online visitors by maintaining the highest standards of confidentiality and security for all data collected from online survey respondents as well as visitors to our publicly available websites. This privacy policy covers [www.iperceptions.com](http://www.iperceptions.com/), its sister site [www.4Qsurvey.com](http://www.4qsurvey.com/) (the “Site”) and the services available through them.
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.iperceptions.com)iPerceptions Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@iPerceptions.com](mailto:support@iPerceptions.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.iperceptions.com)
 
-_The Scope of This Privacy Policy_
+iPerceptions Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@iPerceptions.com](mailto:support@iPerceptions.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+
+The Scope of This Privacy Policy
 
 This Privacy Policy addresses our use and disclosure of information we collect from you on our websites, [www.iperceptions.com](http://www.iperceptions.com/), [www.4Qsurvey.com](http://www.4qsurvey.com/), and through survey responses collected on the behalf of customers who use our service “Customers” and iPerceptions the “Company.”
 
 ## Information Collection
 
-_Information Provided by our Customers_
+Information Provided by our Customers
 
 If you register for a free 4Q account, we collect your email address and password and may collect certain demographic information, such as your time zone or country.
 
 If you purchase a paying 4Q account or other service from us, you must provide certain additional personally identifiable information on our order form; in particular, certain contact information (including your name, address, email address, and billing address) and financial information (including credit card number and expiration date), which we use for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. You will not be able to open an account if you do not provide the information that is identified as required in the account registration and/or purchase process.
 
-_Information Provided by Visitors to iPerceptions.com_
+Information Provided by Visitors to iPerceptions.com
 
 Visitors to the iPerceptions website may be asked to provide personal contact information in exchange for access to white papers as well as other downloadable content on our site. iPerceptions may use this information for sales and marketing purposes. This information will never be shared with any third party.
 
-_Information Provided by Survey Respondents_
+Information Provided by Survey Respondents
 
 If you are a survey respondent, we may collect personally identifiable information from you on behalf of our Customer whose survey you have responded to. Our Customers may have their own privacy policies that detail how they handle your personally identifiable information. We encourage you to read any such policy. As between you and us, your submission of personally identifiable information is voluntary and you may opt out of responding at any time. However, if you do respond, you consent to its provision to us for the purpose of delivering our services to our Customer.
 
-_Automatically Collected Information_
+Automatically Collected Information
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the Site, to understand users’ movements around the Site and to gather demographic information about our user base as a whole.
 
@@ -46,7 +48,7 @@ iPerceptions’ surveys and websites are not designed or intended for use by chi
 
 In addition to the uses of your information described elsewhere in this privacy policy, we may also use your information in one or more of the following ways. We will not use or share your personally identifiable information in ways unrelated to those described in this privacy policy without your permission.
 
-_Communications from iPerceptions_
+Communications from iPerceptions
 
 We will use your information to communicate with you and provide you with transactional messages in response to your inquiries, to provide the services you request, and to manage your account. For example, when you register for an account (including a free account), you will receive a short welcome email.
 
@@ -56,7 +58,7 @@ We may use your information to contact you about other products or services that
 
 We post testimonials on the Site that you submit to us from time to time. We always request permission to post your testimonial on the Site, and we may use your information to contact you for the purpose of requesting such permission.
 
-_Use of Online Survey Results_
+Use of Online Survey Results
 
 iPerceptions compiles data collected from its online surveys to produce benchmark reports for its Customers as well as media and other interested parties. The information provided by Survey Respondents on our Customers’ online surveys is compiled and aggregated to create generic profiles of the users of the web sites being studied. Open-ended responses are compiled and reported as is. Our study process does not require us to know nor to report the identity of any individual respondent. In addition to the information provided by you, our study tracks user IP addresses, browser type and access time for demographic and web site administration purposes. This information does not contain anything that can identify respondents personally.
 
@@ -64,7 +66,7 @@ Customers have the ability to export, share, or publish data from their surveys.
 
 We may also use Customer information, including online survey questions and your respondent’s responses, as well as aggregated data we collect through survey results to help you with your own analysis, and to help us provide and improve our overall services.
 
-_IP Addresses_
+IP Addresses
 
 iPerceptions collects IP addresses for system administration and record keeping. Your IP address is automatically assigned to your computer when you use the World Wide Web. Our servers record incoming IP addresses. By tracking IP addresses, we can determine which Web sites refer the most people to iPerceptions. The IP addresses are analyzed in the aggregate.
 
@@ -125,7 +127,7 @@ This Site contains links to other Web sites that are not owned or controlled by 
 If you have questions related to privacy, please email us at: [privacy@iPerceptions.com](mailto:privacy@iPerceptions.com), or write to us at:
 
 iPerceptions Inc.  
-4999 St. Catherine Street West,   
+4999 Ste-Catherine Street West,  
 Suite 500  
-Montreal, QC,  
-H3Z-1T3, Canada
+Montreal, QC  
+H3Z 1T3
