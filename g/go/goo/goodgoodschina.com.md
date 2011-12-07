@@ -1,80 +1,71 @@
-> *The following text is extracted and transformed from the goodgoodschina.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525132243id_/http%3A//www.goodgoodschina.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgoodschina.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207071506id_/http%3A//www.goodgoodschina.com/privacy-policy) for the most accurate reproduction.*
 
-# get privacy policy on wedding dresses and bridesmaid dresses.
+# Privacy Policy
 
-Privacy Policy
+PRIVACY POLICY
 
-Privacy Policy
+Our Commitment To Privacy
 
-GoodGoodsChina knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting the website, you are accepting the practices outlined in this Privacy Policy.  
-This Privacy Policy covers our treatment of personal information that we gather when you are on the website and when you use GoodGoodsChina services. This policy does not apply to the practices of third parties that we do not own or control, or to individuals that GoodGoodsChina does not employ or manage.
+The Goodgoodschina values its customers and respects their privacy. This privacy policy (this "Policy") describes the personal information we may collect from you, the purposes for which we collect it, how we use it and when we may share it with third parties. This Policy also describes the choices you can make about how we collect, use and disclose your information. Goodgoodschina will not collect, use or disclose your personal information other than in compliance with this Policy. By using the www.Goodgoodschina.com website and/or making online purchases of products, you agree to the terms and conditions of Goodgoodschina's Policy. If our Policy changes in the future, we will notify our customers and website users of any such changes by posting an updated Policy on our website. Following the posting of such changes, your continued use of the www.Goodgoodschina.com website will constitute your acceptance of these changes and you will be bound by such changes. If you do not continue to use the www.Goodgoodschina.com website following a change to our Policy but take no other action with respect to your personal information, our use of that information will remain subject to our Policy as it was in effect prior to the change. You are responsible for regularly reviewing this Policy and any changes thereto.
 
-Information You Provide to Us:
+Our Privacy Policy
 
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.  
-Registration:In order for you to use GoodGoodsChina services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require select personal information (including your full name, city, state and e-mail address).  
-User Profile:To allow you to express yourself beyond just the information collected during registration.
+  * What kind of information does Goodgoodschina collect?
+  * For what purposes does Goodgoodschina collect my information?
+  * Does Goodgoodschina share my information with third parties?
+  * How can I exercise my choices about receiving promotional communications?
+  * What are cookies and how does Goodgoodschina use cookies on its site?
+  * How can I access or change my personal information, withdraw my consent, or make inquiries or complaints in relation to this Policy and Goodgoodschina's privacy practices?
+  * How long is personal information retained?
+  * How is personal information secured?
 
-Automatic Information:
 
-We receive and store certain types of information whenever you interact with us. GoodGoodsChina and its authorized agents automatically receive and record certain "traffic data" on their server   
-logs from your browser including your IP address, GoodGoodsChina cookie information, and the page you requested. GoodGoodsChina uses this traffic data to help diagnose problems with its   
-servers, analyze trends and administer the website.  
-GoodGoodsChina may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
 
-E-mail Communications
+What kind of information does GoodGoodsChina collect?
+    
 
-GoodGoodsChina is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission. GoodGoodsChina may send out e-mails with   
-GoodGoodsChina-related news, products, offers, surveys or promotions. You may also receive [notification e-mails](https://web.archive.org/web/20110525132243id_/http%3A//www.goodgoodschina.com/notification%20e-mails) from GoodGoodsChina, which inform you of actions (e.g. friend requests) that   
-have been performed on the site. If you do not want to receive e-mail from us, please visit the Email Preferences section of your User Profile and/or follow the instructions contained in the  
-unwanted e-mail message. However, please note that in all cases you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.
+We may collect personal information from you when you save or otherwise provide your personal information to us, such as by setting up a user account and password, logging in as a registered user of www.Goodgoodschina.com, searching for a product, making an order for a product, providing information in your account (and you might have more than one, if you've used more than one e-mail address when shopping with us), communicating with us by phone, e-mail, or otherwise or if you complete an entry form to participate in a contest, promotion or survey, whether online or at one of our retail stores. As a result of these actions, you might supply us with personal information, such as your name, e-mail and postal addresses, phone number(s), credit card information, names of people to whom purchases have been shipped, including address and telephone numbers, product interest information and financial information and in certain circumstances, your opinions and individual preferences. We may also maintain a record of your product interests and acquire information about you from our present and future affiliates or divisions, such as Feetfirst, Globo, Transit, Spring and Stoneridge (collectively, "Goodgoodschina Affiliates").
 
-Cookies
+Goodgoodschina's website is directed for use by adults. Goodgoodschina does not knowingly collect any personal information from children under the age of 13. Those under age 13 should not use Goodgoodschina's website or provide Goodgoodschina with any personal information. 
 
-•Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages   
-in our website are visited and by how many people. GoodGoodsChina cookies do not collect personal information, and we do not combine information collected through cookies with other   
-personal information to tell us who you are or what your screen name or e-mail address is.  
-•The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you   
-receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of GoodGoodsChina's coolest features.  
-•Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.
+For What Purposes Does Goodgoodschina Collect My Information?
+    
 
-Sharing Your Information
+Goodgoodschina may use your personal information to: 
 
-Because we enable people to discover and share information with one another, information about the people who use the website is an integral part of the GoodGoodsChina experience. We  
-neither rent nor sell your personal information to anyone.  
-•Website Personnel:our personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of GoodGoodsChina business.  
-•Protection of GoodGoodsChina and Others:We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of GoodGoodsChina, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  
-•User Profile information:Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other GoodGoodsChina users in your User Profile. The User Profile is the area on GoodGoodsChina where we allow you to tell other GoodGoodsChina users about yourself and your interests. You may control what personal information is displayed in your User Profile by visiting the Privacy Settings section of your User Profile.  
-•Member Directory:The e-mail address that you submit upon registration will be searchable by other GoodGoodsChina users who know you by your email address, unless you choose to opt out of this feature. This is primarily so that other users can find you to establish friendship through GoodGoodsChina. You may opt-out of this feature by visiting the Privacy Settings section of your User Profile.  
-•Social sharing of data:GoodGoodsChina allows other users to submitted or commented on. This information is made available publicly via your User Profile, on GoodGoodsChina Labs, via the public API, or within the permalink URL of the story on which you performed the action. GoodGoodsChina may choose to post this data on other site features.  
-•API:GoodGoodsChina will allow third parties access to all data; this is already publicly available through the website. GoodGoodsChina will keep private any passwords.  
-•Syndication:GoodGoodsChina allows for the RSS syndication of all of its public content within the website.  
-•With Your Consent:Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purposes for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+  * 1.Process your order and to answer questions about the status of your order;
+  * 2.Send you or your friends, relatives or associates, products that you have ordered; 
+  * 3.Maintain contact with you and provide you with ongoing personalized service; 
+  * 4.Communicate with you (via e-mail, post or otherwise) and provide you with promotional materials and additional information regarding our products, services, surveys, contests, promotions and special offers; 
+  * 5.Help us learn more about your shopping preferences; 
+  * 6.Conduct marketing and performance research, to assist us in measuring our customer service, benchmarking our performance and to help us improve our shopping experiences and product offerings. As provided below, you may always choose not to receive promotional materials or marketing information.
 
-Keeping Information Secure
 
-•Your GoodGoodsChina account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.  
-•Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
+Does GoodGoodsChina Share My Information With Third Parties?
+    
 
-Ways to Control Display and Use of Your Information
+If you visit or purchase products on the www. Goodgoodschina.com website, participate in a contest, survey, promotion or special offer, or shop at Goodgoodschina or any Goodgoodschina Affiliate, we may share your personal information with that Goodgoodschina Affiliate, so that it can communicate with you (whether by e-mail, post or otherwise) and provide you with promotional materials and additional information about its products, services, contests, promotions and special offers that may be of interest to you, or collect and use that information subject to and for other purposes contemplated by this Policy.
 
-•As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links.  
-•By visiting your User Profile, you can correct, amend, add or delete personal information on our website. When you update information, however, we often maintain a copy of the unrevised information in our records.  
-•However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.  
-•As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
+We do not sell or rent your personal information to non-affiliated third parties except as permitted by law. However, in the event of a sale of all or substantially all of our business or another similar transaction, we may transfer or disclose your personal information to a purchaser or prospective purchaser, who may collect, use and disclose such information for the purposes of evaluating the proposed transaction or operating and managing the affairs of the acquired business, or for other purposes identified in this Policy.
 
-Children Under 18 Years of Age
+We may transfer personal information to non-affiliated third parties for processing pursuant to agreements that prohibit the third parties from using or disclosing the personal information other than for the purpose of processing and which impose security safeguards appropriate to the sensitivity of the information.
 
-You must be 13 years and older to register to use the website. As a result, GoodGoodsChina does not specifically collect information about children. If we learn that GoodGoodsChina has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using GoodGoodsChina or sending information about themselves or anyone else over the Internet.
+We reserve the right to disclose your personal information as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests and rights of Goodgoodschina and the Goodgoodschina Affiliates.
 
-Changes to this Privacy Policy
+Goodgoodschina's website may contain links to websites operated by third parties. These websites may collect your personal information. This Policy does not apply to the practices of third parties and Goodgoodschina doe not assume any responsibility for, and by using this website and/or accessing a third party's website from this website you release Goodgoodschina of any responsibility for, the actions, practices and omissions of third parties. Please check the privacy policy at each site you visit.
 
-GoodGoodsChina may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the GoodGoodsChina website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+Choices and Opt-Out about Receiving Promotional Communications?
+    We want to communicate with you only if you want to hear from us. If you no longer wish to receive the Company's promotional communications, or other GoodGoodschina Affiliates, or if you do not want us to use your information to enhance your shopping experience, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing us at sale@goodgoodschina.com. Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from us.
+What Are Cookies? How Does Goodgoodschina Use Cookies On Its Site?
+    We may use "cookies" to track your preferences and activities on the www.Goodgoodschina.com website or a Goodgoodschina Affiliate's website. Cookies are small data files transferred to your computer's hard-drive by a website. They keep a record of your preferences making your subsequent visits to the site more efficient. Cookies may store a variety of information, including the number of times that you access a site, registration information and the number of times that you view a particular page or other items on the site. The use of cookies is a common practice adopted by most major sites to better serve their clients. Most browsers are designed to accept cookies, but they can be easily modified to block cookies; see your browser's help files for details on how to block cookies, how to know when you have received cookies and how to disable cookies completely. You should note, however, that without cookies, some of the website's functions will not be available, and the user will lose some of the benefits of the site. 
+How Can I Access Or Change My Personal Information Or Withdraw My Consent , Or Make Inquiries Or Complaints In Relation To This Policy And Goodgoodschina's Privacy Practices?
+    
 
-Conditions of Use
+Goodgoodschina will ensure that the personal information it collects is as accurate, complete, and up-to-date as necessary for the purposes for which it is to be used. You are entitled to request access to and correction of your personal information collected by us. In order to make such a request, or if you have any questions or to make any complaint in relation to this Policy and Goodgoodschina's privacy practices, please contact our privacy officer by Email to: sales@goodgoodschina.com.
 
-If you decide to visit GoodGoodsChina website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes.
+If you have consented to the collection, use and/or disclosure of personal information as identified herein, please note that you can also withdraw your consent at any time by communicating with our privacy officer as provided above.
 
-Effective Date of the Privacy Policy
-
-This Privacy Policy is effective before our change.
+How Long Is Personal Information Retained?
+    We will keep your personal information only as long as reasonably necessary for the purposes described in this Policy or such longer period as may be required by applicable law.
+How Is Personal Information Secured?
+    We have adopted appropriate measures to ensure the confidentiality of personal information and to safeguard personal information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification, in light of, among other things, the sensitivity of the information and the purposes for which it is to be used. Furthermore, each and every Goodgoodschina employee, mandatory or agent must abide by this Policy. 
