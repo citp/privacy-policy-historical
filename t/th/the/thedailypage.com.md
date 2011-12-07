@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailypage.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623103336id_/http%3A//www.thedailypage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailypage.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207083359id_/http%3A//www.thedailypage.com/privacy) for the most accurate reproduction.*
 
 # Isthmus | The Daily Page -- Privacy Policy
 
@@ -21,3 +21,5 @@ Personal information disclosed during the process of registering as a user of Th
 Isthmus tracks user traffic patterns from our newsletters. However, we do not correlate this information with data about individual users although we do break down overall usage statistics across all of our users and tally domain names, browser types, and MIME types which is obtainable from the browser string.
 
 | 
+
+[](http://www.isthmus.com/marketplace)
