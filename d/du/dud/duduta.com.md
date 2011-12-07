@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duduta.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521080119id_/http%3A//www.duduta.com/Help-Our_Policy-Privacy_Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duduta.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207084846id_/http%3A//www.duduta.com/Help-Our_Policy-Privacy_Notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
