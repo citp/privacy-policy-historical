@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popyard.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313033911id_/http%3A//www.popyard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popyard.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207234416id_/http%3A//www.popyard.com/privacy.html) for the most accurate reproduction.*
 
 # PopYard: Today's Science & Technologies.
 
@@ -24,6 +24,10 @@ Statistics about site usage, searches and click-throughs gathered by PopYard.com
 Cookies are not placed on the systems of Site Visitors to PopYard.com. 
 
 Log file entries are generated when a Site Visitor requests a search at PopYard.com. These entries are generated anonymously, and enable PopYard.com to assess overall site activity, track interest in advertised sales, and troubleshoot technical concerns. Log files are used internally only, and are not associated with any particular user, computer or browser. 
+
+**Third-party Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). The link for "[click here](http://www.networkadvertising.org/)" is [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 **Protection of Site Visitor Information**
 
