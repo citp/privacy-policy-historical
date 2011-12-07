@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425124146id_/http%3A//www.cvs.com/CVSApp/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvssavingscentral.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207081131id_/http%3A//www.cvs.com/CVSApp/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Help: Privacy Policy - Our Privacy Guarantee - CVS/pharmacy Online
 
