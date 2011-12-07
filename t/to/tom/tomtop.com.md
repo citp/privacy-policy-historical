@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419221042id_/http%3A//www.tomtop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207154009id_/http%3A//www.tomtop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### You're currently on:
-
-  * 10" Android 2.2 Tablet PC WiFi 1024*600 1.5M Cam G-Sensor 
-  * TV Mount Clip for Microsoft Xbox 360 Kinect Sensor 
-  * Shock Dog Pet Training Collar With LCD Remote 300M 
-  * Women Dress
-
-
 
 TOMTOP company will be very carefully treat and handle your privacy information. Please read the following information of our company's privacy policy to learn more about that.
 
