@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ypg.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607032349id_/http%3A//www.ypg.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ypg.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207210145id_/http%3A//www.ypg.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Yellow Media Inc. | Privacy Statement
 
