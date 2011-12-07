@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appannie.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604113940id_/http%3A//www.appannie.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appannie.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207084819id_/http%3A//www.appannie.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | App Annie
 
@@ -12,7 +12,7 @@ We use cookies to track your session information in order to improve your experi
 
 ### INFORMATION SECURITY
 
-Your iTunes Connect account login and password are used solely for the purpose of obtaining sales reports from iTunes Connect. To further protect your iTunes Connect account, you can limit access by AppAnnie using a separated account with limited roles. See our FAQ on how to set this up.
+Your iTunes Connect account login and password are used solely for the purpose of obtaining sales reports from iTunes Connect. The Service may also need from time to time to automatically accept new Terms of Service and/or Privacy Policy from iTunes Connect on your behalf, to be able to keep getting your iTunes Connect data without interruption - you can opt-out anytime of this automated process on your Account page. To further protect your iTunes Connect account, you can limit access by App Annie using a separated account with limited roles. [See our FAQ](http://www.appannie.com/help/faq/#itunes-connect-account-privileges) on how to set this up.
 
 All data that is transferred between your computer and our Service is encrypted with Secure Socket Layer (SSL) technology.
 
@@ -28,9 +28,7 @@ Because our Service provides iTunes App Store trend analysis in addition to indi
 
 ### POLICY UPDATES
 
-We may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to your email or by placing a prominent notice on our site.
-
-The date of the last update is included at the top of this policy.
+App Annie reserves the right, in its sole discretion, to modify this policy at any time, effective by posting new policy on the Site with the date of modification. You are responsible for reading and understanding the terms of this policy prior to using the Service. Your use of the Site or Service after any such modification has been published constitutes your acceptance of the privacy policy as modified in this policy.
 
 ### QUESTIONS
 
