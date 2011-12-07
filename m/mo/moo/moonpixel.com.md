@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moonpixel.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609041338id_/http%3A//moonpixel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonpixel.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207135135id_/http%3A//moonpixel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Moonpixel
+# Privacy Policy
 
 ##  This privacy policy sets out how "moonpixel.com" uses and protects any information that you give "moonpixel.com" when you use this website.  
 
