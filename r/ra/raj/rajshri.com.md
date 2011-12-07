@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rajshri.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805091115id_/http%3A//www.rajshri.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajshri.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207165440id_/http%3A//www.rajshri.com/Policy.aspx) for the most accurate reproduction.*
 
-# Rajshri Media – Privacy Policy
+# Privacy Policy
 
 Thank you for visiting the Rajshri ("RAJSHRI") internet website located under the universal resource locator at : www.rajshri.com. We are pleased to provide this privacy policy in response to the growing concern over privacy on the Internet. Rajshri Media (P) Limited owns : www.rajshri.com and Rajshri Media (P) Limited shall include its subsidiaries and affiliates. This Privacy Policy provides succinctly the manner your data is collected and used by Rajshri.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Rajshri.com you agree to the collection and use of your data by Rajshri.com in the manner provided in this Privacy Policy. 
 
