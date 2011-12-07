@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428170516id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppstiles.co.uk privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207210938id_/http%3A//www.toppstiles.co.uk/page62/privacy.html) for the most accurate reproduction.*
 
-# Topps Tiles Plc | Britain's biggest tile and wood flooring specialist
+# Privacy | Topps Tiles
 
 ## 1\. Introduction
 
