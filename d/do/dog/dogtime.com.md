@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121225246id_/http%3A//dogtime.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtime.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207182212id_/http%3A//dogtime.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy | Dog Time
+# Privacy policy | DogTime.com - Find your wag.
 
-We are committed to maintaining the privacy of personal information that you provide to us when using DogTime, our Facebook applications, Save a Dog or Save a Cat, or any web sites or applications we provide or may provide on other web sites.We will refer to these sites collectively as "the Sites" and individually as a "Site." This Privacy Policy describes how we treat personal information received about you when you visit and applies to all of the Sites.By using the Sites, you consent to the terms and conditions of this Privacy Policy.
+We are committed to maintaining the privacy of personal information that you provide to us when using DogTime, CatTime, our Facebook applications, Save a Dog or Save a Cat, or any web sites or applications we provide or may provide on other web sites.We will refer to these sites collectively as "the Sites" and individually as a "Site." This Privacy Policy describes how we treat personal information received about you when you visit and applies to all of the Sites.By using the Sites, you consent to the terms and conditions of this Privacy Policy.
 
 ### **Information We Collect**
 
-When you register and at other times, we collect "Personal Information," such as your name, phone number, credit card or other billing information, email address, and home address.Personal Information can be used to contact or identify you.Secure Personal Information, once collected, is never shown on the web site. It may be emailed only to the address provided along with the Personal Information, but never to a different address even if that different address is believed to be a new address for the same person.We also collect "General Information," such as your zip code, pet name, breed and age, and individual preferences, when you register and when to administer and personalize your account.General Information, unless combined with other identifiers (for example, combining your zip code with your street address) is non-identifying. 
+When you register and at other times, we collect "Personal Information," such as your name, phone number, credit card or other billing information, email address, and home address. Personal Information can be used to contact or identify you. Secure Personal Information, once collected, is never shown on the web site. It may be emailed only to the address provided along with the Personal Information, but never to a different address even if that different address is believed to be a new address for the same person. We also collect "General Information," such as your zip code, pet name, breed and age, and individual preferences, when you register and when to administer and personalize your account. General Information, unless combined with other identifiers (for example, combining your zip code with your street address) is non-identifying.
 
 ### **How We Collect Information**
 
 In addition to registration, we collect information in the following ways:
 
-Profiles and postings:We offer features that allow you to share your opinions and information with our readers, including both text and other media such as photographs.We will not share this information with other organizations.However, it will be visible to all users of our site.We may reuse and modify this information in other places on this site and other sites we own.
+Profiles and postings: We offer features that allow you to share your opinions and information with our readers, including both text and other media such as photographs. We will not share this information with other organizations. However, it will be visible to all users of our site. We may reuse and modify this information in other places on this site and other sites we own.
 
 Surveys: We may conduct occasional online surveys.For example, when you're within our web site, you may see a pop-up window offering you the opportunity of participating in a survey. These surveys are entirely voluntary, and you may easily decline to participate.
 
 Web site usage information: We automatically collect IP addresses and web site usage information from you when you visit our web site.This information helps us evaluate how our visitors and subscribers use and navigate our web site on an aggregate basis, including the number and frequency of visitors and subscribers to each Web page, and the length of their visits.
 
-Cookies:Like many web sites, the Sites use a standard technology called "cookies."A cookie is a small text file stored on your computer's hard drive or temporarily in your computer's memory, so that a site can deliver content appropriate for you.For example, when you choose a city to visit, you can then request a calendar of events.Our software determines which city's calendar to send by reading the cookie, which stores your city choice.When you return to the site at another time, the web site can take you directly to that city's main page. The Sites use cookies only to streamline the viewing experience, distinguish paid members from other viewers, and collect aggregate information about user behavior such as average length of a site visit.There is no way to use cookies to collect personal data from a personal computer.If you choose to disable cookies in your web browser certain features of the Sites may not work. 
+Cookies:Like many web sites, the Sites use a standard technology called "cookies."A cookie is a small text file stored on your computer's hard drive or temporarily in your computer's memory, so that a site can deliver content appropriate for you.For example, when you choose a city to visit, you can then request a calendar of events.Our software determines which city's calendar to send by reading the cookie, which stores your city choice.When you return to the site at another time, the web site can take you directly to that city's main page. The Sites use cookies only to streamline the viewing experience, distinguish paid members from other viewers, and collect aggregate information about user behavior such as average length of a site visit.There is no way to use cookies to collect personal data from a personal computer.If you choose to disable cookies in your web browser certain features of the Sites may not work.
 
 ### **How We Use Information Collected**
 
@@ -72,7 +72,7 @@ Our Sites include third-party advertising and links to other web sites.We do not
 
 ### Phishing
 
-Identity theft and the practice currently known as "phishing" are of great concern to Save a Dog. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's web site.
+Identity theft and the practice currently known as "phishing" are of great concern to the Sites. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's web site.
 
 ### **Compliance with Laws and Law Enforcement**
 
@@ -88,7 +88,7 @@ The Sites are not directed to children under 13. We do not knowingly collect per
 
 ### **Comments and Questions**
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at <http://apps.facebook.com/save-a-dog> and clicking on the "contact" link or mail us at:
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [Contact DogTime.com](http://dogtime.com/contact) and clicking on the "Contact DogTime" link or mail us at:
 
 Dogtime Media Inc.   
 27 Maiden Lane, Suite 700  
