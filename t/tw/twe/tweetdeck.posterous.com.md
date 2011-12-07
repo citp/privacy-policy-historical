@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetdeck.posterous.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423015803id_/http%3A//www.tweetdeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetdeck.posterous.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207161656id_/http%3A//www.tweetdeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy « TweetDeck - Your social world
 
