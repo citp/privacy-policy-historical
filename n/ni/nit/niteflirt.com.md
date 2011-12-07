@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niteflirt.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623172313id_/http%3A//www.niteflirt.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niteflirt.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207020522id_/http%3A//www.niteflirt.com/help/privacy_policy) for the most accurate reproduction.*
 
 # NiteFlirt Phone Sex
 
