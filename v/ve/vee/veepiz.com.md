@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veepiz.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223120732id_/http%3A//www.veepiz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veepiz.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207050901id_/http%3A//www.veepiz.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Africa Information | Social Networking | Friends.
 
@@ -58,4 +58,4 @@ By using our site, you consent to our web site privacy policy.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20101223120732id_/http%3A//www.veepiz.com/contactus.php). 
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20111207050901id_/http%3A//www.veepiz.com/contactus.php). 
