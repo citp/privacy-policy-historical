@@ -1,67 +1,83 @@
-> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104133355id_/http%3A//www.theleadingarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theleadingarticles.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207233031id_/http%3A//www.theleadingarticles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « The Leading Articles
 
-**What information do we collect?**
+**General Privacy Policies**
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter.
+We respect your interest in your privacy and as a result we have created this informational disclosure.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
+We collect and use personal information for many purposes, including but not limited to, billing; product and service fulfillment; to better understand our customer needs; to provide a better website, products and services; to communicate with customers and potential customers regarding our products and services and third party products and services.
 
-**What do we use your information for?**
+Generally, your private information will only be disclosed to our owners, employees, independent contractors, subsidiaries, partners, affiliates, attorneys, consultants, business associates, service providers, suppliers and agents, acting on our behalf or request. This general rule, and disclosures in specific situations, is more particularly described below.
 
-Any of the information we collect from you may be used in one of the following ways:
+You must be at least 18 years old to access this website. We do not direct this website to persons under 18, nor do we knowingly collect any personal information from children under the age of thirteen.
 
-• To process transactions
+**Information Collected by our ISP**
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+The hosting provider for this Internet site (as with any Internet site) has the ability to record various information, including domain name, pages accessed, date and time of access, web browser type and computer operating system, and referring information, and to disclose this information. This is most commonly done by providing access to raw server logs. For more information you should perform an Internet search on ‘server logs’ or ‘raw server logs.’ We may have access to our raw server logs and access reports prepared by our hosting provider.
 
-• To send periodic emails
+**Financial Information for Billing Purposes**
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+We sell products and services. When sales are made financial information must be disclosed. This information can include any number of facts you are asked to provide, but most commonly includes your name, financial / credit card information, billing address, and email address. Generally, this purchase information will be provided by you to a third party payment processor and we do not receive your financial / credit card information.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+In the event we do receive financial / credit card information, we will not disclose it to anyone unless disclosure is required by law or a court order, or unless disclosure is required to address an issue implicated by the financial transaction.  If you claim that your financial information was used to make a purchase you did not authorize, details about the financial transaction may be disclosed to law enforcement and anyone else we deem necessary to address the matter.
 
-**How do we protect your information?**
+**Use of eMail Addresses and other Contact Information**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
+An important part of our services includes being able to provide information to you. As a result, you expressly consent to receiving communications from us via email, fax, telephone, mail, or any other delivery method.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
+As a customer you are agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+As a newsletter subscriber (if you downloaded our free article for example) you are agreeing to receive information about the product or service you purchased. This may include, but is not limited to, information about product or service updates, new features, or information we believe you may find interesting.
 
-**Do we use cookies?**
+We may also send you information about other products and services our company or third party companies offer.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+We will not sell, provide, or transfer you email address to others.
 
-We use cookies to help us remember and process the items in your shopping cart.
+We may allow advertising to our customers, or engage in joint ventures, which result in your receiving advertisements from selected third parties.
 
-**Do we disclose any information to outside parties?**
+**Identification of Purchasers**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions.
 
-**Third party links**
+We also use personal information in an aggregate form (i.e., not individually attributable to you) for business analysis, operational, marketing and other promotional purposes.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**Cookies**
 
-**California Online Privacy Protection Act Compliance**
+Cookies may be used to keep track of referred affiliate commissions and to monitor access to our website.  You consent to any future use of cookies for testing purposes and the use of cookies for publicly available data to gather statistics for the purpose of determining which search engines, referring sites, key words, etc., bring visitors to our website, which pages visitors are most interested in, what web browsers are used, etc. Various providers may be used for this purpose. The purpose is obtain information that will help promote the website, make the website more interesting and useful to visitors, and to identify areas where improvement is needed.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Additionally, various third party information suppliers and other entities that provide information for this website, or for use by us, may use cookies. Examples include, but are not necessarily limited to billing providers, third party advertisers, and third party resources we promote.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+**Disclosure by Necessity**
+
+Private information may be disclosed if required by a court order, statute, law, regulation, our financial, bank, or payment processors.
+
+Information is subject to disclosure to address a claim that you are violating the terms of any agreement pertaining to your use of your use this website or our products or services, or rights of any third party.
+
+Information is also subject to disclosure if we believe that disclosure is necessary to identify, contact or bring an action against someone who may be causing injury to or interfering (either intentionally or unintentionally) with our rights or property, your rights or property, other users of our website, products or services, or anyone else.
+
+As we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company, or be bought by another company. In such transactions, personal information may be one of the transferred assets.
+
+Your information may be stored and processed in any country in which we maintain facilities or conduct operations. By using our website, products and services, you consent to any such transfer of information outside of your country.
+
+After your account becomes inactive your information may remain in our databases, computers, and archives, and cannot reasonably be expunged.
 
 **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.theleadingarticles.com/terms-and-conditions>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.theleadingarticles.com/terms-and-conditions](https://web.archive.org/web/20111207233031id_/http%3A//terms-and-conditions) ****
 
-**Your Consent**
+**Contact TheLeadingArticles.com**
 
-By using our site, you consent to our website privacy policy.
+If you have any questions about this privacy policy or TheLeadingArticles.com’s treatment of your personal and financial information, please open a ticket at our [support desk](http://vitavee.com/support/).
 
-**Changes to our Privacy Policy**
+**Policy Changes**
 
-If we decide to change our privacy policy, we will post those changes on this page.
+These policies may be amended by us at any time and without notice, but will be posted at this page.
+
+You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment.
+
+Effective Date: December 1, 2010
