@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the flyuia.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214163753id_/http%3A//www.flyuia.com/eng/information-and-services/1469.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyuia.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207082801id_/http%3A//www.flyuia.com/eng/information-and-services/1469.html) for the most accurate reproduction.*
 
-# Privacy policy - Ukraine International Airlines
+# 
 
 As a valued Ukraine International Airlines customer, your personal privacy is very important to us. This page outlines our policy concerning personal information. By using the Ukraine International Airlines website, you accept the practices described in this Privacy Policy. We may update our Privacy Policy from time to time to take account of changing requirements such as changes in technology or legislation, and request that you refer back to this Policy frequently to become aware of any such revisions. In addition, we recommend that you review the privacy policy of any website accessed through the Ukraine International Airlines website as these sites may be subject to different privacy practices. Ukraine International Airlines is not responsible for these websites or for the information made available thereon. 
 
 **How do I know my personal details are confidential and safe when I purchase flights or access my personal profile through the Ukraine International Airlines website?**
 
-To ensure the security of your credit card information when you book flights through flyUIA.com, we use the latest Secure Socket Layer (SSL) technology. SSL is currently the preferred method to securely transfer credit card and other sensitive data over the Internet. If your browser supports SSL, please select the Secure Mode option when confirming your booking and your credit card and other personal details will be protected by this technology. 
+To ensure the security of your bank payment card information when you book flights through flyUIA.com, we use the latest Secure Socket Layer (SSL) technology. SSL is currently the preferred method to securely transfer debit or credit card and other sensitive data over the Internet. If your browser supports SSL, please select the Secure Mode option when confirming your booking and your credit card and other personal details will be protected by this technology. 
 
 If your browser does not support SSL, we recommend that you upgrade to the latest version of any browser to enhance the security of further transactions, otherwise the transmission of your personal data may not be protected and Ukraine International Airlines disclaims any responsibility in this regard 
 
-Credit card sales are processed by RBS WorldPay Payment Systems, part of the Royal Bank of Scotland Group. 
+Credit card sales are processed by the WorldPay Payment Systems. 
 
 **2\. What personal information does Ukraine International Airlines collect when I visit the Ukraine International Airlines website?**
 
@@ -23,7 +23,7 @@ Billing address
 Phone numbers  
 E-mail address
 
-**Personal Profile Number -Site Membership**
+**Personal Profile Number - Site Membership**
 
 When you make an online booking with www.flyUIA.com you will be required to enter your personal information such as your Name, address, etc. Shortly after you have made your first booking we'll automatically send you an e-mail containing your Personal Profile Number and PIN. Next time you make a reservation on line you can enter your Personal Profile Number (and PIN) and the computer will recall information from your previous booking. You'll save time by not having to re-type your name, etc. Alternatively you can opt to make a booking as a Guest. 
 
@@ -73,6 +73,6 @@ You may access and update the information which we hold about you as a Panorama 
 
 **6\. Contact us**
 
-If you have any other concerns, suggestions or questions about any issues relating to privacy on the Ukraine International Airlines web site, please contact us via e-mail, bookinghelp@ps.kiev.ua
+If you have any other concerns, suggestions or questions about any issues relating to privacy on the Ukraine International Airlines web site, please contact us via e-mail, bookinghelp@flyuia.com
 
 Issued: 011006 ENG 
