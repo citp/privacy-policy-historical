@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trymedia.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604031746id_/http%3A//www.trymedia.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trymedia.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207134716id_/http%3A//trymedia.com/privacy.shtml) for the most accurate reproduction.*
 
 # Trymedia - Privacy Policy
 
