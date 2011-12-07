@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the sasktel.com privacy policy that was archived on 2011-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607002857id_/http%3A//www.sasktel.com/about-us/legal-and-regulatory/privacy.html%3FLink%3DFooterPrivacy%26campaign%3DHome) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sasktel.com privacy policy that was archived on 2011-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208002834id_/http%3A//www.sasktel.com/about-us/legal-and-regulatory/privacy.html%3FLink%3DFooterPrivacy%26campaign%3DHome) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta name="last-modified" content="2010-11-25 10:45:17">
+<meta name="last-modified" content="2011-09-02 13:39:42">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <title>Privacy - Legal and Regulatory - About Us -</title>
@@ -26,6 +26,7 @@
 <style type="text/css"> 
 #headerActions{border: 0px; height: 33px; background:url(/images/action-links-bg-iefix.png); background-repeat:no-repeat; width: 34.25em;}
 </style>
+<script type="text/javascript" src="/js/jquery-pngfix.js"></script>
 <![endif]-->
 <div id="containerFix">
   <div id="header"><a href="/index.html"><img src="/images/logo-sasktel-150x26.gif" alt="SaskTel Logo" width="150" height="26" border="0" class="logo"></a>
@@ -33,13 +34,13 @@
      	<ul>
     			<li class="first"><a href="/index.html">Personal</a></li>
     			<li><a href="/business/index.html">Business</a></li>
-    			<li><a href="/search/controller/_/Ntt-support-landing/Tab-4294966891">Support</a></li>
+    			<li><a href="http://support.sasktel.com/app/home">Support</a></li>
 						<li class="last"><a href="/about-us/index.html">About us</a></li>
     	</ul>
   <script language="JavaScript" type="text/JavaScript">
   	var Name ='';
 	if (Name != '')
-		{document.write('<a href="/wam/logout.htm"><img src="/images/login-icon.png" alt="Logout Icon" width="17" height="31" border="0" class="fltlft"/></a><div id="headerActionsText"><a href="/wam/logout.htm">Logout</a></div>');}
+		{$("a[href^='http://support.sasktel.com']").live('click', function() {this.setAttribute("href", this.getAttribute("href").replace(/http:\/\/support.sasktel.com\/app\//, "http://www.sasktel.com/mysasktel/selfserve/selfserve_proxy.htm?r="));});document.write('<a href="/wam/logout.htm"><img src="/images/login-icon.png" alt="Logout Icon" width="17" height="31" border="0" class="fltlft"/></a><div id="headerActionsText"><a href="/wam/logout.htm">Logout</a></div>');}
 	else
 		{document.write('<a href="/wam/loginredirect.html"><img src="/images/login-icon.png" alt="Login Icon" width="17" height="31" border="0" class="fltlft"/></a><div id="headerActionsText"><a href="/wam/loginredirect.html?Link=Login&campaign=Home">Login</a></div>');}
 	</script><a href="/wam/loginredirect.html"><img src="/images/login-icon.png" alt="Login Icon" width="17" height="31" border="0" class="fltlft"></a><div id="headerActionsText"><a href="/wam/loginredirect.html?Link=Login&amp;campaign=Home">Login</a></div>
@@ -58,18 +59,21 @@
     <h1>Privacy</h1>
   </div>
   <div id="breadcrumbs"><a href="/index.html">Home</a> &gt; <a href="/about-us/index.html">About us</a> &gt; <a href="/about-us/legal-and-regulatory/index.html">Legal and Regulatory</a> &gt;<strong> Privacy</strong></div>
+
 <div id="sidebar1">
 	<div id="sidebar1Content">
-      <ul>
-        <li><a href="tariff-indices/index.html">Tariff</a></li>
-        <li><a href="non-tariff-indices/index.html">Non-Tariff</a></li>
-        <li><a href="privacy.html">Privacy</a></li>
-        <li><a href="website-terms-and-conditions.html">Website terms and conditions</a></li>
-        <li></li>
-      </ul>
+     <ul>
+      <li><a href="/about-us/legal-and-regulatory/tariff-indices/index.html">Tariff</a></li>
+      <li><a href="/about-us/legal-and-regulatory/non-tariff-indices/index.html">Non-Tariff</a></li>
+      <li><a href="/about-us/legal-and-regulatory/privacy.html">Privacy</a></li>
+      <li><a href="/about-us/legal-and-regulatory/website-terms-and-conditions.html">Website terms and conditions</a></li>
+      <li><a href="/about-us/legal-and-regulatory/broadcast-applications.html">Broadcast applications</a></li>
+      <li><a href="/about-us/legal-and-regulatory/web-registration-terms-and-conditions.html">Web Registration terms and conditions</a></li>
+     </ul>
 	</div>
   <!-- end #sidebar1 -->
   </div>
+
 
 <div id="mainContent">
     <p>Protecting your privacy and safeguarding your personal information is one of our highest priorities<strong><br>
@@ -269,7 +273,10 @@
   <div id="footer">
   <div id="FooterActions"><ul><li class="first"><a href="/search/controller/_/Ntt-moving?Link=Moving&amp;campaign=Footer">Moving?</a></li>
   <li><a href="/dealers/index.html?Link=FindaDealer&amp;campaign=Footer">Find a dealer</a></li>
-  <li class="last"><a href="http://search.mysask411.com/" title="This link will take you to http://search.mysask411.com/">mysask411.com</a></li></ul>
+  <li><a href="http://search.mysask411.com/" title="This link will take you to http://search.mysask411.com/">mysask411.com</a></li>
+  <li><a href="http://sasktel-community.custhelp.com/pages/home">Community Forums</a></li>
+  <li class="last"><a href="/dial10">New Area Code</a></li>
+  </ul>
   <p>Connect with us:</p></div>
 <div id="socialMedia"><a href="/links/Facebook.html?Link=facebook&amp;campaign=Footer"><img src="/images/icn-facebook-dropshadow.gif" alt="Facebook" width="20" height="20" border="0"></a><a href="/links/Twitter.html?Link=twitter&amp;campaign=Footer"><img src="/images/icn-twitter-dropshadow.gif" alt="Twitter" width="20" height="20" border="0"></a></div>
 <br clear="all">
@@ -277,7 +284,7 @@
   <li class="first"><a href="/index.html?Link=Home&amp;campaign=Footer">Home</a></li>
   <li><a href="/about-us/index.html?Link=AboutSaskTel&amp;campaign=Footer">About us</a></li>
   <li><a href="/site-map/site-map.html?Link=SiteMap&amp;campaign=Footer">Site map</a></li>
-  <li><a href="/contact-us/index.html?Link=ContactUs&amp;campaign=Footer">Contact us</a></li>
+  <li><a href="http://support.sasktel.com/app/contact_us">Contact us</a></li>
   <li><a href="/about-us/legal-and-regulatory/privacy.html?Link=Privacy&amp;campaign=Footer">Privacy</a></li>
   <li><a href="/about-us/legal-and-regulatory/index.html?Link=Legal&amp;campaign=Footer">Legal and regulatory</a></li>
   <li><a href="/about-us/careers/index.html?Link=Careers&amp;campaign=Footer">Careers</a></li>
