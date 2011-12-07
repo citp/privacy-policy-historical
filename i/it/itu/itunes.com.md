@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itunes.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630082748id_/http%3A//www.apple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itunes.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207221208id_/http%3A//www.apple.com/privacy) for the most accurate reproduction.*
 
 # Apple - Apple Customer Privacy Policy
 
@@ -22,7 +22,7 @@ Here are some examples of the types of personal information Apple may collect an
 
 ### How we use your personal information
 
-  * The personal information we collect allows us to keep you posted on Apple’s latest product announcements, software updates, and upcoming events. It also helps us to improve our services, content, and advertising. If you don’t want to be on our mailing list, you can opt out anytime by [updating your preferences](https://myinfo.apple.com/cgi-bin/WebObjects/MyInfo.woa).
+  * The personal information we collect allows us to keep you posted on Apple’s latest product announcements, software updates, and upcoming events. It also helps us to improve our services, content, and advertising. If you don’t want to be on our mailing list, you can opt out anytime by [updating your preferences](https://appleid.apple.com/).
   * We also use personal information to help us develop, deliver, and improve our products, services, content, and advertising.
   * From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with Apple, you may not opt out of receiving these communications.
   * We may also use personal information for internal purposes such as auditing, data analysis, and research to improve Apple’s products, services, and customer communications.
@@ -35,7 +35,7 @@ Here are some examples of the types of personal information Apple may collect an
 We also collect non-personal information − data in a form that does not permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it: 
 
   * We may collect information such as occupation, language, zip code, area code, unique device identifier, location, and the time zone where an Apple product is used so that we can better understand customer behavior and improve our products, services, and advertising. 
-  * We also may collect information regarding customer activities on our website, MobileMe service, and iTunes Store and from our other products and services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.
+  * We also may collect information regarding customer activities on our website, iCloud and MobileMe services, and iTunes Store and from our other products and services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.
 
 
 
@@ -47,7 +47,7 @@ Apple’s website, online services, interactive applications, email messages, an
 
 Apple and its partners use cookies and other technologies in mobile advertising services to control the number of times you see a given ad, deliver ads that relate to your interests, and measure the effectiveness of ad campaigns. If you do not want to receive ads with this level of relevance on your mobile device, you can opt out by accessing the following link on your device: [http://oo.apple.com](http://oo.apple.com/). If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. You may still see ads related to the content on a web page or in an application or based on other non-personal information. This opt-out applies only to Apple advertising services and does not affect interest-based advertising from other advertising networks.
 
-Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Apple more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Apple Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, product serial numbers, and information about your computer or device helps us register your products, personalize your operating system, set up your MobileMe service, and provide you with better customer service. 
+Apple and our partners also use cookies and other technologies to remember personal information when you use our website, online services, and applications. Our goal in these cases is to make your experience with Apple more convenient and personal. For example, knowing your first name lets us welcome you the next time you visit the Apple Online Store. Knowing your country and language − and if you are an educator, your school − helps us provide a customized and more useful shopping experience. Knowing someone using your computer or device has shopped for a certain product or used a particular service helps us make our advertising and email communications more relevant to your interests. And knowing your contact information, product serial numbers, and information about your computer or device helps us register your products, personalize your operating system, set up your iCloud service, and provide you with better customer service. 
 
 If you want to disable cookies and you’re using the Safari web browser, go to Safari preferences and then to the Security pane to disable cookies. On your Apple mobile device, go to Settings, then Safari, and then to the Cookies section. For other browsers, check with your provider to find out how to disable cookies. Please note that certain features of the Apple website will not be available once cookies are disabled. 
 
@@ -97,7 +97,7 @@ We do not knowingly collect personal information from children under 13. If we l
 
 To provide location-based services on Apple products, Apple and our partners and licensees may collect, use, and share precise location data, including the real-time geographic location of your Apple computer or device. This location data is collected anonymously in a form that does not personally identify you and is used by Apple and our partners and licensees to provide and improve location-based products and services. For example, we may share geographic location with application providers when you opt in to their location services.
 
-Some location-based services offered by Apple, such as the MobileMe “Find My iPhone” feature, require your personal information for the feature to work. 
+Some location-based services offered by Apple, such as the “Find My iPhone” feature, require your personal information for the feature to work. 
 
 ## Third-Party Sites and Services
 
@@ -121,4 +121,4 @@ Apple may update its Privacy Policy from time to time. When we change the policy
 
 Apple Inc. 1 Infinite Loop, Cupertino, California, USA, 95014
 
-_Last updated: June 21, 2010_
+_Last updated: October 21, 2011_
