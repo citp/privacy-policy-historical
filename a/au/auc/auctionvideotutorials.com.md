@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionvideotutorials.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219173706id_/http%3A//www.auctionvideotutorials.com/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionvideotutorials.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207080926id_/http%3A//www.auctionvideotutorials.com/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # Million Dollar Copy
 
