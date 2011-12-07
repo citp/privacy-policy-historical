@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlnightspots.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626134044id_/http%3A//www.atlnightspots.com/2009/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlnightspots.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207040026id_/http%3A//www.atlnightspots.com/2009/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Atl Night Spots
 
@@ -56,4 +56,4 @@ Atl Night Spots allows you to change, update, or delete the information you may 
 Atl Night Spots reserves the right to modify or supplement this policy at any time. If a material change to the terms of this policy is made, Atl Night Spots will post a link to the new policy on its website.
 
 14\. Contacting Us  
-If you have questions about this Privacy Statement or the information practices of Atl Night Spots, please contact us by email at admin@ atlnightspots.com.
+If you have questions about this Privacy Statement or the information practices of Atl Night Spots, please contact us by email at admin@ atlnightspots.com. 
