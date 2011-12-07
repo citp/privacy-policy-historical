@@ -1,96 +1,177 @@
-> *The following text is extracted and transformed from the geappliances.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027153917id_/http%3A//www.geappliances.com/plcy/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geappliances.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207114155id_/http%3A//www.geappliances.com/privacy/privacy_policy.htm) for the most accurate reproduction.*
 
-# GE Privacy Policy
+# GE Appliances Privacy Policy
 
-PLEASE READ THIS PRIVACY POLICY ("PRIVACY POLICY" OR "POLICY") CAREFULLY BEFORE USING ANY WEBSITE ON WHICH IT IS POSTED ("SITE(S)"). BY USING ONE OR MORE OF THESE SITES, YOU AGREE TO BE BOUND BY THIS POLICY, AS SUPPLEMENTED OR MODIFIED BY ANY "SUPPLEMENTAL PRIVACY POLICY" OR SITE-SPECIFIC PRIVACY TERMS THAT ARE POSTED ON A PARTICULAR SITE OR ARE SPECIFICALLY AGREED TO IN A SEPARATE DOCUMENT BY THE SITE OPERATOR.
+##### Privacy Statement   
+Last Updated November 8, 2011 
 
-General Electric Company, through its Consumer & Industrial business ("Operator"), is the operator of this Website ("Site"), although software, hosting and other functions may be provided by Operator's service providers ("Service Providers"), and other companies which are affiliated with Operator ("Affiliates") or merely in a business relationship with Operator ("Business Partners"), each of which may also provide content on the Site or sell or provide goods or services on the Site or advertise or link on the Site. This Privacy Policy describes the type of information Operator and its Affiliates and Service Providers collect from visitors to the Site, what we do with that information, and how visitors can update and control the use of information provided on the Site. This Privacy Policy does not necessarily describe information collection policies on other sites, such as separate sites operated by our Business Partners that we do not control. This Privacy Policy may be changed from time to time and without further notice. Your continued use of the Site after any such changes constitutes your acceptance of the new terms. If you do not agree to abide by these new terms or any future terms, please do not use the Site. Operator's Service Providers, Affiliates and Business Partners are intended third-party beneficiaries of this Privacy Policy. The Site is not directed to children under 13 years of age, and children under 13 years of age shall not use the Site to submit any individually identifiable information about themselves.
+#### Information We Collect and How We Use It
 
-**What Type of Information Do We Collect?**  
-You are welcome to browse some portions of the Site without becoming a registered user. For some services or areas on the Site, we will ask that you register if you have not already done so and provide us with information about you and/or your company such as name, job title, email address, phone number and other types of identity and contact information which enable us to provide services and information to you. Once we provide you with a user name and password you will be able to access other parts of the Site.
+##### Personal Information 
 
-If you use services or tools available through the Site, we may ask you to provide further information, including but not limited to financial information, equipment information, and other personal information. We may collect other personal information when you provide comments or participate in surveys.
+You may choose to provide personal information (such as your name, address, phone number and email address) on this web site. Here are some of the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information. Some of the features listed below may not be present on the website from which you have accessed this Privacy Statement.
 
-When you visit the Site, we collect certain technical and routing information about your computer to facilitate your use of the Site. For example, we log environmental variables, such as browser type, operating system and CPU speed, and the Internet Protocol address of your originating Internet Service Provider, to bring you the best possible service. We also record search requests and results to ensure the accuracy and efficiency of our search engine. We use your IP address to track your use of the Site. We also collect information provided by "cookies" stored on your hard drive. Cookies are small data files containing a unique identifier so that we can recognize you each time you return to the Site, and which keep track of the pages you view on the Site and which services you use. This information allows us to provide more tailored and user-friendly services.
+> ##### Contact Us 
+> 
+> If you email us through the "Contact Us" link on this site, we may ask for information such as your name, phone number, country, zip code and email address so we can respond to your questions and comments. You may choose to provide additional information as well, such as your postal address or fax number.
+> 
+> ##### e-Newsletters 
+> 
+> If you would like to receive our e-Newsletters, we may ask for your name and email address so we can send you our e-Newsletters and communicate with you.
+> 
+> ##### Buying Guides 
+> 
+> On some of our web sites, if you would like to receive buying guides that include buying tips, special offers and information on products, we ask for your name and email address so we can send you the buying guides and other communications.
+> 
+> ##### Questionnaires and Surveys 
+> 
+> We occasionally may ask visitors to our web site or consumers registering a product with us to participate in surveys or opinion polls about their experience, activities, attitudes and interests. These surveys help us serve you better and improve the usefulness of our site and our products. In conducting these surveys we may ask you for information such as your name and email address. We do not keep any personal information about you in connection with your participation in a survey unless you specifically agree to provide that information.
+> 
+> ##### Send Ads, Videos and GE Appliances Pages to a Friend 
+> 
+> On some of our web sites you can send certain GE TV and picture ads, appliances videos and GE appliances pages to your friends. To do so, we ask you to provide your name and your friend's email address. We also may ask for your email address. By providing another person's contact information to us, you acknowledge that you have obtained appropriate consent to provide this information and to have this individual receive the information you have asked us to send. We use this information to send the ads, videos and pages to your friends and to communicate with you. We will not use information you provide about other people for any purpose except the purpose you direct without first getting their consent. 
+> 
+> ##### Parts and Accessories and Extended Warranty Orders 
+> 
+> If you purchase parts and accessories or extended warranties through our site, we ask for your contact information, including your name, postal address, phone number and email address and your payment information, including your credit card number and billing and shipping information. We ask for this information so we can confirm and process your order, provide you with updates on your order, process any returns, contact you concerning your order, and otherwise communicate with you. 
+> 
+> ##### Locating a Dealer 
+> 
+> On some of our web sites, if you would like to locate a dealer, we ask for your zip code. If you would like directions to a local dealer, we ask for your physical address. You may also choose to provide your email address when locating a dealer through our site. We use this information to provide the contact information for and directions to a dealer.
+> 
+> ##### Buying Appliances
+> 
+> If you would like to buy a GE appliance, we ask for your zip code so we can direct you to the web site of a GE authorized dealer.
+> 
+> ##### Appliance Service 
+> 
+> On some of our web sites, if you would like to schedule appliance services, re-schedule or check the status of your service request, we ask for contact information such as your name, phone number, postal address and email address so we may contact you regarding your request. If you inquire only about service pricing information, we ask for your zip code so we may provide you with a service cost estimate based on your location.
+> 
+> ##### Register Your Appliance 
+> 
+> On some of our web sites, you may register appliances. We ask you for information such as your name, postal address, email address and phone number. We use this information to register your product and provide repair services within the provisions of your warranty and our service contract obligations. We also may use your email address to notify you about special offers, subscribe you to our e-newsletters and provide information about our products. By registering an appliance online, you may be automatically entered into a sweepstakes and your information will be used to contact you if you are selected as a winner.
+> 
+> ##### Sweepstakes 
+> 
+> If you would like to enter our sweepstakes, we ask for information such as your name, email address, postal address and phone number so that we can enter you in the sweepstakes. You will also be contacted if you are selected as a winner. We also may use your email address to communicate with you, such as to contact you about special promotions, discounts, updates and new products.
+> 
+> ##### Recipes Communities 
+> 
+> On some of our web sites you may join a recipe community. We may ask for information such as your email address. We use this information to provide you with access to the community and to communicate with you. 
+> 
+> ##### Discounts to Non-Profit Agencies 
+> 
+> We offer special discounts to non-profit agencies. If you would like to apply for a discount, we ask for information such as your name, postal address, email address and phone number. We use this information to process your application and to communicate with you. 
+> 
+> ##### Rebates 
+> 
+> If you would like us to process or communicate with you in connection with rebates and special offers, we may ask for information such as your name, postal address and phone number or we may ask you to download and application so that we can respond to your request and communicate with you.
+> 
+> ##### Online Chat
+> 
+> You may choose to participate in an online web chat with a GE associate. We will conduct the session based on information you provide during that request. Historical information, **which includes name and email address** may be retained by us to assist you in any subsequent online web chat and for internal review and training.
+> 
+> ##### Other Website Features 
+> 
+> We offer visitors various features for their information and enjoyment, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features.
+> 
+> ##### Other Ways We May Use Your Information 
+> 
+> We may use personal information you submit to enhance your experience with the GE family of companies. We also may use the information you provide for internal purposes. These purposes include administration of our websites, data analytics and compliance with law or legal process and our policies and procedures.
 
-We also collect aggregate information about the use of the Site, including which pages are most frequently visited, how many visitors we receive daily, and how long visitors stay on each page.
+##### Non Personal Information 
 
-**Changes in Terms**  
-Operator may change this Policy from time to time, with notice given to those completing a registration process ("Registered Users"). Your continued use of one or more of the Sites or submission of information through them after any changes constitutes your acceptance of the changes. If you do not agree to abide by these or any future provisions of the Policy, do not use the Sites and do not submit information through them.
+We may collect certain aggregate and non personal information when you visit this web site. Aggregate and non personal information does not relate to a single identifiable visitor. It tells us such things as how many users visited our site and the pages accessed. By collecting this information, we learn how to best tailor our web site to our visitors. We collect this information either through "cookie" technology or with "web beacons", as explained below.
 
-**How Do We Use the Information We Collect?**  
-The information we collect from and about you and your company may be used in the following ways, among others: to fulfill orders and requests; to provide quote information in response to requests; to process, execute and monitor orders; to notify you and third parties of the status of orders; to prepare drawings, product configurations or productions; to provide you with information about offers or products we believe you will find useful; or to notify you of updated information, changes to the Sites, or new products and services that we think might be beneficial to you or your business. We also may combine information you have provided to us in communications offline with the information you have given us online, to, among other things, provide a more customized experience for visits to the Sites.
+> ##### Cookies 
+> 
+> Like many companies, we may use browser cookies on this web site. Browser cookies are bits of text that are placed on your computer's hard drive when you visit certain web sites. We use browser cookies to tell us, for example, whether you've visited us before or if you're a new visitor and to help us identify site features in which you may have the greatest interest. Browser cookies may enhance your online experience by saving your preferences while you are visiting a particular site.
+> 
+> The "help" portion of the toolbar on most browsers will tell you how to stop accepting new browser cookies, how to be notified when you receive a new browser cookie, and how to disable existing browser cookies. Remember though, without browser cookies, you may not be able to take full advantage of all our web site features.
+> 
+> We also may use flash cookies on our web site to enhance your online experience. Flash cookies are similar to browser cookies, except that they can store data more complex than simple text. Flash cookies, by themselves, cannot do anything to or with the data on your computer. In addition, flash cookies cannot access or remember your email address or other personal information unless you provide the information on this site. We may use flash cookies to provide you with a better user experience. You can manage and disable flash cookies by clicking here for Manage and Disable Flash Cookies.
+> 
+> ##### Web Beacons 
+> 
+> Certain pages on our site contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party. We use log files to store the data that is collected through web beacons.
+> 
+> We may use third party web beacons to help manage online advertising. These web beacons are provided by our ad management partner. Web Beacons enable our ad management partner to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our web site. The cookie on your web browser was placed by us, or by another advertiser who works with our ad management partner. With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, postal address, phone number, or email address. 
+> 
+> ##### Third Party Advertising and Links to Other Web Sites
+> 
+> We may work with third parties to serve our ads on other web sites as well as our web site. Some of these ads contain cookies and/or web beacons that are used to track user behavior. This privacy policy does not cover the use of cookies or web beacons set by third parties. We do not have control over, or access to, the information contained in these third party cookies or web beacons. For more information about these specialized cookies and other technologies, and how to "OPT OUT" of information collection by these companies, we suggest you visit <http://networkadvertising.org/optout_nonppii.asp>. 
 
-By visiting the Site and providing us with data, you acknowledge and agree that due to the international dimension of our company we may use the data collected in the course of our relationship for the purposes identified in this Privacy Policy, for the purposes identified in our other communications with you, or to provide the information to other General Electric businesses and selected third parties which may be outside your resident jurisdiction. In addition, such data may be stored on servers located in other jurisdictions. By providing us with your data, you consent to the transfer of such data.
+#### Information We Share 
 
-As our services evolve, the types of information we collect may change. Please check this Privacy Policy frequently for the most current explanation of our data practices.
+We do not sell or otherwise disclose personal information about our web site visitors, except as described here. We may share personal information you provide within the GE family of companies and with third parties that may offer you products or services we believe may interest you. We also may share personal information provided by web site visitors with service providers we have retained to perform services on our behalf. For example, we may share personal information you provide with third parties who assist us in: product delivery and installation; warranty or service contract claims clearinghouse; call center operations, parts delivery, repair service, product recall; order processing; billing; payments processing; processing and mailing rebates; offering promotions, discounts, and/or products; quality of product or service surveys; data modeling for marketing analysis; and product or service offerings. In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. 
 
-We may use demographic and Site usage information collected from visitors to, among other purposes, improve the usefulness of our Sites and to prepare aggregate, non-identifying information used in marketing, advertising, or similar activities. From time to time, some information may be purged from our systems in our sole discretion.
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided through this web site in a manner that is consistent with this Privacy Statement.
 
-**With Whom Do We Share Information?**  
-We may provide the information we collect about you and your company, including your e-mail address or other identifying information, to our Affiliates and to third parties, including manufacturers, suppliers or others involved in the distribution chain to provide the products or services that have been requested. We may provide aggregate statistics about visitors, Site transactions or other Site activity.
+#### Information We Transfer 
 
-We may disclose information about you or your company if we have a good faith belief that we are required to do so by law or legal process; to respond to claims; or to protect the rights, property or safety of Operator or others.
+We may transfer the personal information we collect on this site to other countries where we do business, but we will do so only for the purposes described above. When we transfer your information to other countries, we will protect that information as described here unless otherwise required by applicable laws.
 
-**How Is Your Information Protected?**  
-Access to information stored on our systems, including order forms or requests for quotes submitted through the Sites, and billing information and account status information accessible through the Sites, is controlled by firewalls and other security measures.
+#### Links to Other Sites 
 
-Your transmission of some technical or financial information to us is secured through encryption only within certain areas of the site (i.e. GEElitenet.com). Likewise, all order forms or requests for quotes submitted through the Site, and billing information and account status information accessible through the Site, are secured via encryption.
+We provide links to other web sites for your convenience and information. These sites may have their own privacy statements in place, which we recommend you review if you visit any linked web sites. We are not responsible for the content of linked sites or any use of the sites.
 
-While we strive to protect your personal or company information by encryption and other means, we cannot guarantee or warrant the security of the information you transmit to us, and if you choose to use the Site, you do so at your own risk. Additionally, in providing your information over a public or third party network, you do so at your own risk.
+#### Children's Privacy 
 
-Please keep in mind that the information disclosed by you on the Site -- for example, information you may provide to others on bulletin boards or in chat rooms that may be available on the Site -- can be collected and used by visitors to the Site.
+This web site is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the site. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the site, we will delete the information from our records. 
 
-**Opting Out, Accessing Or Changing Information**  
-Operator maintains customer information, including order history and Site usage data, for a length of time appropriate to our business needs. You may contact us to correct or update any personal identifying information that you have submitted to us, or should you have questions about information maintained by us. If you operate in the European Union or other jurisdictions that provide access rights under law, you may access your personal information or have it corrected or updated in accordance with applicable law by contacting us. In some jurisdictions, you may be charged a reasonable fee for access to information. You can opt out of receiving information about non-Operator activities, products or services and/or opt out of having your data provided to third parties for marketing purposes by contacting us.
+#### How We Protect Personal Information 
 
-**Special Provisions for Our European Users**  
-If you are an individual resident in a Member State of the European Union, you acknowledge and agree that we may collect, use and disclose your personal data as described in this Privacy Policy, or any amendments hereto. You further acknowledge and agree that we may transfer your personal data outside of the European Union for purposes described in this Privacy Policy. If you do not consent to the terms of this Privacy Policy, please do not use the Site.
+We maintain administrative, technical and physical safeguards to protect against unauthorized disclosure, use, alteration or destruction of the personal information you provide on this web site. 
 
-**Questions or Concerns?**  
-Please feel free to contact us if you have questions or concerns about this Privacy Policy or about Operator's collection of your information.
+#### Your Choices 
 
-The General Electric Company ("GE") is sensitive to your privacy issues on the Internet. We believe it is important you know how we treat the information about you which we receive via the Internet.
+When you visit certain parts of our site, such as when you register an appliance, order a buying guide, obtain local dealer information, order a part or accessory, shop for a warranty, schedule service, or email a GE appliances ad, page, or video to a friend, you may update your privacy preferences by clicking the "[Set my email preferences](https://web.archive.org/plcy/newsletter/newsletter_signup.htm)" link. 
 
-**OUR GENERAL POLICY**  
-When it comes to consumer data collected electronically, GE Consumer & Industrial strives to provide notice, choice, access and security-in precisely the ways described below. In general, you, as an existing or new consumer-customer, can visit GE on the World Wide Web without saying who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses. This information may be aggregated on a "no names" basis to measure the number of visits, average time spent on the site, pages viewed, etc. GE Consumer & Industrial uses this data to measure the use of, and improve the content of, our sites.
+#### Updates to Our Privacy Statement 
 
-**HOW YOUR CONSUMER DATA MAY BE USED**  
-There are times when GE Consumer & Industrial may collect information from you, such as your name and street and/or e-mail address. When information is requested, we will try to let you know, at the time of collection, how we will use it. Usually, the personal information we collect is used only to respond to your inquiry, process an order, allow you to access specific account information, or advise you of special promotions, discounts and updates. Individual information may be shared within the GE family of companies to better serve our customers' interests and needs. Occasionally, we may make e-mail addresses available to our carefully selected business partners--other reputable organizations or companies (both GE and non-GE) whose products or services we believe you may find interesting or useful. If you register with one of GE Consumer & Industrial 's websites online, we may use this information to provide you with custom information about GE's offering in support of your business needs. Technologies such as "cookies" or "web trackers" may be used to provide you with tailored information. A cookie is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize when you return. You may set your browser to notify you when you receive a cookie. Other new and innovative technologies which may enable us to customize our offerings to better meet our consumers' needs may be used if and as they become available.
+This Privacy Statement may be updated periodically and without prior notice to you to reflect changes in our online information practices. We will post a prominent notice on this web site to notify you of any significant changes to our Privacy Statement and indicate at the top of the statement when it was most recently updated.
 
-**NON-CONSUMER COMMUNICATIONS**  
-GE Consumer & Industrial engages regularly in electronic communications with persons and entities other than consumer end-users. This includes communication with business entities with whom GE Consumer & Industrial has an existing or prospective business relationship and their employees or agents. In order to avoid possible confusion, the privacy options set forth below are not meant to apply to communications generated in the "business-to-business" or B2B environment. In addition, communications utilizing GE-provided computer equipment and/or e-mail addresses are considered non-consumer usage and are therefore not encompassed by the GEA Privacy Options.
+#### How to Contact Us 
 
-**YOUR GE CONSUMER & INDUSTRIAL PRIVACY OPTIONS**  
-GE Consumer & Industrial recognizes that some consumers providing personal information may wish to exercise choice over how that information is used. To accommodate your privacy preferences, GE Consumer & Industrial offers you the opportunity to "Set Your Privacy Options" at each point where your e-mail address is collected by us online. By simply clicking your Set Privacy Options (or go to http://www.geappliances.com/plcy/privacy/privacy.htm) button, you will be taken instantly to the form dedicated to providing you with privacy choice. There you will be afforded the chance to "opt out" of receiving online promotions, discounts, or updates from GE Consumer & Industrial or GE Consumer & Industrial -sponsored sites to the e-mail address you provided. You may also opt out of receiving offerings from GE Consumer & Industrial's carefully selected partners, such as other GE businesses, GE affiliates and other business partners not affiliated with GE. If you do not want to opt out--you don't need to do anything: your options have been pre-set to allow you to receive all the offerings described without further action.
+If you have any questions or comments about this Privacy Statement, or if you would like us to update information we have about you or your preferences, please contact us.
 
-**OTHER WAYS TO PROTECT YOUR PRIVACY**
+> **Appliances (including parts & service)**   
+> 800-626-2005   
+>  [http://www.geappliances.com/service_and_support/contact/](https://web.archive.org/service_and_support/contact/)
 
-  1. If you receive solicitations for products or services not of interest to you, promptly notify the solicitor that you do not want to receive any further unwanted solicitations.
-  2. Remove your name from many national mailing and telephone solicitation lists by contacting the Direct Marketing Association and asking them to add your name to their "Do Not Solicit" files. You may contact the DMA at http://www.the-dma.org/consumers/offmailinglist.html or by writing to Direct Marketing Association, Mail Preference Service, P. O. Box 9008, Farmington, NY 11735-9008.
-  3. Only provide your personal data to companies whose brands you know and trust and whose privacy policies are clearly disclosed for you to read.
-  4. Spam, or unsolicited bulk e-mail, can be reduced by avoiding the following practices: • Posting to an online service or any Internet bulletin board • Posting in a use net newsgroup or mailing list • Spending time in chat rooms or with an online service that displays your address • Including yourself in an unprotected online service members directory • Opening any attachments to unsolicited e-mail • Signing up for a "removal service" - you may be adding your name to a spammers list.
-  5. Pro-active anti-spam steps you can take include: • Be careful about replying to spammers, -- it only confirms your active e-mail address. If you can confirm their address, send spammers a certified letter instructing them to stop all further e-mails • Open a second e-mail account for "public postings" such as newsgroups or chat rooms. • Check whether your browser is disclosing your address--if so, reset your browser or use a free product to block it. Report spammers to your Internet service -their anti-spam policies may help.
+> **Home Energy Management**   
+>  _Nucleus, Energy Display, Thermostat and appliances with Brillion™ technology_   
+> 800-220-6899   
+>  [http://www.geappliances.com/home-energy-manager/contact-us.htm](https://web.archive.org/home-energy-manager/contact-us.htm)
 
-**CHANGING YOUR INFORMATION AND ACCESSING GE CONSUMER & INDUSTRIAL**
+**As always, with your continued use of the website, you may update your privacy choices at any time at "[Set My Email Preferences](https://web.archive.org/plcy/newsletter/newsletter_signup.htm)"**
 
-  * Change your privacy selections any time you wish just by clicking Set Privacy Options (or go to http://www.geappliances.com/plcy/privacy/privacy.htm)
-  * You may readily update and/or correct certain personal information which GE Consumer & Industrial may have on file (i.e. your name, address, and product information) by calling us toll-free at 1-800-626-2000. We will do our best to apply your modifications throughout our system but cannot guarantee this since even minor discrepancies (e.g., a missing middle initial) can cause inadvertent file duplication.
-  * You may also Contact Us electronically to handle updates/corrections, or to get more information, or for concerns you may have, simply by clicking on the link provided.
+In addition to the above Privacy Statement, if you use a GE Appliances mobile application, the below GE Mobile Privacy Policy shall also apply.
 
+#### Mobile Privacy Policy
 
+#### Mobile Information We Collect
 
-**SECURITY STATEMENT**  
-In an effort to make your visit both efficient and safe, all transfers of credit card and personal information via this site meet the General Electric Company's rigorous Internet security standards.
+Personally identifiable information (e.g. Name, email address) we collect consists only of what you share with us. For example, certain products may ask for this type of information so that we may contact you by phone or email at your request. You choose what, how, and when you want to share.
 
-**A FEW CAUTIONARY POINTS**
+If you use any location-enabled products, you may be sending us location information. GE does not store or use this information other than to provide the service you requested. For example, a mobile product may use GPS data to find a nearby restaurant you requested. Location-enabled features are opt-in and you have control over your participation and can turn these services off at any time.
 
-  * CHILDREN'S ONLINE PRIVACY PROTECTION ACT COMPLIANCE: THIS SITE IS NOT INTENDED FOR PERSONS UNDER 13 YEARS OF AGE. BY ENTERING THIS SITE, USERS REPRESENT THEY ARE 13 YEARS OF AGE OR OLDER.
-  * There may be some lag time in implementing your privacy choices, possibly up to several weeks, during which time you may continue to receive GE Consumer & Industrial or third party communications.
-  * Your Privacy selections relate to GE Consumer & Industrial only-you may still receive communications from other GE companies or third parties due to your personal contacts with those companies.
-  * Your Privacy Selections are "prospective only" and apply only to future on-line communications.
-  * Occasionally, our site may contain electronic links to other sites. If you chose to go to those sites, their Privacy Policy and Privacy Preferences (if any) will apply, not GE Consumer & Industrial.
-  * Changes to this Policy: Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
-  * Effective Date of this policy: November 29, 2004
+Web-enabled mobile applications may use cookies or web beacons and other methods to customize your browsing experience. Please see the above GE Appliances Privacy Statement for more information. Some mobile applications will utilize Google Analytics (or similar tool) to help us better serve our customers through improved products, services, and revisions to the mobile applications. This collected information will not identify you to GE. It may, however, let us know anonymously, which services and features you are using the most within the application, as well as device type and hardware features, country and language of download.
+
+Use of 3rd party services such as social sharing sites (e.g., Facebook & Twitter) is governed by the privacy practices of those services. GE does not capture or store your login information or other personally identifiable information for these services, however session info or cookies may be stored.
+
+#### Mobile How We Use Collected Information
+
+We use the information to personalize your experience with the application and to improve your overall experience including the development of new products, services, and features. We also use the information to provide customer support, and when applicable, register and administer your account. Additionally, we may use the information you provide to contact you about updates to our service.
+
+Information you provide may be used to fulfill the service(s) or carry out the transaction(s) you have requested or authorized. For example, if you authorize a purchase through a mobile eCommerce application, we will use provided information to ship and bill you.
+
+#### Mobile Information sharing
+
+GE does not share any collected information with 3rd parties with the following exceptions: 
+
+  * GE may provide some personal data to third-party partners that are providing services essential to your mobile user experience.
+  * All requests are sent through your mobile carrier's network and your carrier may have access to it. Consult your carrier's privacy policies for additional information.
+  * Certain mobile products and services and manufacturers allow you to interact and share your information with others. For example, you may want to Tweet or post to your Facebook page content from a GE mobile application. Consult your mobile device manufacturer, or mobile product or application developer's privacy policies for additional information.
 
 
