@@ -1,100 +1,51 @@
-> *The following text is extracted and transformed from the sweetjack.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetjack.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207044247id_/http%3A//sweetjack.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# SweetJack | privacy
 
-**Go Daddy Respects Your Privacy**
+The web pages available at [http://sweetjack.com](http://sweetjack.com/ "http://sweetjack.com"), and all linked pages (collectively, the "Site"), are owned and operated by Cumulus Broadcasting LLC ("Cumulus"), a Nevada limited liability company. Cumulus respects the personal privacy of visitors to the Site. Please read this Internet Privacy Policy carefully so that you understand what information we collect through our the Site, what we do with that information, and how to safeguard the personal information you provide to us. This Internet Privacy Policy applies only to information collected online through the Site and does not describe the ways in which we may collect or use information obtained offline or through any means other than the Site.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Your personal privacy is a principal concern to us at Cumulus. Our goal in outlining our policy on the collection and use of customer information is to ensure the highest level of confidentiality and security. When you provide your personal information on the Site, we will not give or sell your personal information to any outside company for its use in marketing or solicitation without your permission, which may be express or implied. We will maintain the confidentiality of your personal information and it will be used only to support your customer relationship with the Site and to assist us in providing better and more targeted services to you. Additionally, internal practices are in place to help protect your privacy by limiting employee access to and use of customer information. When we ask customers to provide their personal information on the Site, it is done with the goal of improving the relationship between Cumulus and users of the Site. At Cumulus, we allow visitors to the Site to maintain control over their personal information while attempting to provide a more interactive online experience. Our intention is to send e-mails only to customers who have chosen to receive such e-mails. At any time, you have the right to decline receiving future communications from Cumulus in any manner, including email, fax, telephone and postal mail.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+back to top
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+When you browse the Site, you do so anonymously. Personal information—including your e-mail address—is not collected. However, there are three (3) ways in which the Site may collect information about you.
 
-**Information Collection and Use**
+1\. The Site may request that you voluntarily provide personal information for purposes such as correspondence, site registration, membership, making a purchase, or participating in online surveys. Information that we ask you to provide may include your name, e-mail address, telephone number, mailing address and birth date. We may also request that you provide customer preference information, social security numbers, lifestyle interests, and other demographic information that may be needed to register or subscribe you to services or offers.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+2\. Like many other commercial websites, the Site may use a standard technology called a "cookie" to collect information about how our websites are used. Cookies are small text files on your system used for keeping track of settings or data for a particular website. You may turn them off through your browser or set your browser to notify you before accepting them. The Site may use cookies to store information necessary to provide a service or access into a site. Any information that we may store in cookies is used for internal purposes only.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+3\. Each time the Site is requested from your browser, we log your computer's IP address into our log files. Your computer has been pre-assigned a 12-digit number from your Internet Service Provider and may be static or dynamically assigned—this number is the IP address. Cumulus uses IP addresses to analyze trends, administer the site, track movements on the site, and gather broad demographic information for aggregate use. IP addresses are not linked to any other personally identifiable information by Cumulus. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+back to top
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We collect only information that is needed, and we tell customers how we use it. We limit the collection of information about our customers to what we need to know to manage their membership, to provide customer service, to offer new products and services, and to fulfill any legal and regulatory requirements. We tell our customers about the general uses of information we collect about them, and we will provide additional explanation if requested. A customer may change, update or add additional information about themselves at any time through the Site. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+back to top
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Access to customer information is limited to those who specifically need it to conduct their business responsibilities. We use security techniques designed to protect our customer information—especially information that is used by employees and business partners to fulfill customer services. In addition to providing customers with the opportunity to refuse marketing offers, we release information only at the customers' requests, or when required to do so by law or other regulatory authority. When a court order or subpoena requires us to release information, we notify the customer directly so that his/her legal rights can be exercised, if appropriate. The only exceptions to this policy are when we are prohibited by court order or law from notifying the customer, or cases in which fraud and/or criminal activity is suspected. Finally, each Cumulus employee is personally responsible for maintaining customer confidentiality. All Cumulus employees are required to sign an agreement that they will comply with these policies. Employees who violate these policies are subject to disciplinary action, up to and including termination of employment. Employees are expected to report violations—and may do so confidentially—to their managers or other supervisors. Cumulus employees who have been assigned the responsibility for assuring the adherence to Cumulus's privacy policy. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+back to top
 
-**Security**
+As a result of providing your personal information to us, the Site can provide a more customized online experience, making your interaction with us more productive, helpful and fun, and will enhance the services and offers the Site brings to you. If you provide us with your e-mail address, or have done so in the past, we may send you e-mail offers or newsletters. These offers or newsletters are based on information you provided in your membership application, registration forms, surveys, or from information that may indicate purchasing preferences and lifestyle, as well as information available from external sources, such as census bureau data. These e-mail offers will come from the Site only. _Your information or email address is never sold to a third party._ All offers are carefully developed to guarantee that they meet our standards. Our goal is to target offers to customers who will find them of value. At any time, you may request to discontinue receiving these communications from us by simply replying to the e-mail address included in every e-mail message that you receive from the Site. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+From time to time, we may offer contests or other promotions on the Site. If you enter a contest or participate in a promotional event, we will ask you to provide information about yourself (such as your name, address, and email address). Among other things, we will need this information to contact you if you win, and we may also use this information for marketing purposes. We may share this information with any co-sponsors of the contest or promotional event; co-sponsors will be identified in the contest rules. We may also share this information with or other third-party service providers that help administer our contests and promotional events, such as by conducting drawings, and/or delivering prizes to winners. If you do not want to provide the requested information or have the information provided to co-sponsors or other third-party service providers, please do not enter the contest or participate in the promotional event.
 
-**Updating Your Information**
+We do monitor URL click-throughs found in our email messages. The click-through rate is reviewed in order to track (i) participation in contests to judge effectiveness and award prizes; (ii) listener interests; and/or (iii) response rates for marketing purposes or to report to a client in aggregate form only, the response of customers. Individual activity is never shared with employees or third parties. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+back to top
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. The Site is not directed at children under the age of 13 and we will not knowingly allow anyone under 13 to provide us any personal identifying information. If you are under the age of 13, please do not provide any information about yourself to the Site.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+back to top
 
-      iii.      You may call us at: (480) 505-8800
+Third-party Internet sites and services accessible through the Site have separate privacy and information collection practices, independent of us. Cumulus has no responsibility or liability for these independent policies or actions. You are solely responsible for maintaining the secrecy of your passwords, membership ID, or any account information. Please be careful and responsible whenever you are online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we aim to protect your personal information, Cumulus cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
 
-       iv.      You may fax us at: (480) 505-8844
+While the Site puts forth its best efforts in adhering to these minimum privacy standards, additional restrictions may be imposed to comply with state and local laws, and/or specific programs, products and services.
 
-**Sending Emails**
+back to top
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+The Internet is an evolving medium. If we need to change this Internet Privacy Policy at some point in the future, we will post the changes to this Internet Privacy Policy on this website and update the reference to the effective date to reflect the date of the amendment. By visiting the Site, you agree that your visit, and any dispute over privacy, is governed by this Internet Privacy Policy.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Revised April 7, 2011.
 
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+back to top
