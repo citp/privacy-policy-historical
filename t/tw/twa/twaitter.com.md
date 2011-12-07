@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twaitter.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327142352id_/http%3A//www.twaitter.com/UserPages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twaitter.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207150000id_/http%3A//www.twaitter.com/UserPages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Twitter Business and Marketing Tools - twAitter.com
+
+We have resolved the login issues. Thanks for your patience.
 
 General Guidelines for Information Collection and Use:
 
