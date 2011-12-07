@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9mine.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425163712id_/http%3A//9mine.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9mine.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207023825id_/http%3A//www.9mine.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - 9mine.com
 
