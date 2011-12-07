@@ -1,757 +1,736 @@
-<!--The following is the downloaded HTML source of the gizmowatch.com privacy policy that was archived on 2010-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620170929id_/http%3A//www.gizmowatch.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gizmowatch.com privacy policy that was archived on 2011-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111207033451id_/http%3A//www.gizmowatch.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
-		<title></title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+		<title>Privacy Policy : Gizmowatch : Gizmowatch - Tracking the pulse of latest gadgets, gizmo, electronics and technology</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta name="title" content="">
-		<meta name="subject" content="">
+		<meta name="title" content="Privacy Policy : Gizmowatch : Gizmowatch - Tracking the pulse of latest gadgets, gizmo, electronics and technology">
+		<meta name="subject" content="Technology">
 		<meta name="language" content="en">
-		<meta name="keywords" content="">
-		<meta name="description" content="">
-		<link rel="alternate" href="http://feeds.feedburner.com/gizmowatch/YwQk" type="application/rss+xml" title="Gizmo Watch's RSS Feed">
+		<meta name="keywords" content="concepts, eco gadgets,electric cars, flying cars, electricity, energy, environment, gadgets, electronic gadgets, security gadgets, cool gadgets, spy gadgets, tech gadgets,  high tech gadgets, computer gadgets, battery, notebook, pc, technology, design, diy, apple, robots, robotics, robot, sony, innovations, art, computers, samsung, ipod, concept, gaming, microsoft,  iphone, intel, music,bluetooth, usb, camera, ipad, tablets">
+		<meta name="description" content="Gizmowatch - Tracking the pulse of latest gadgets, gizmo, electronics and technology">
+		<link rel="alternate" type="application/rss+xml" title="Gizmowatch RSS Feed (Instablogs Community)" href="http://www.gizmowatch.com/rss.xml">
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
-		<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
-		<script type="text/javascript" src="/js/validate.js"></script>
-		<script type="text/javascript" src="/js/easySlider.packed.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function(){
-				$("#subscribeForm").validate();
-			});
-
-			$(document).ready(function(){	
-				$("#sidewindow").easySlider();
-			});
-				
-				var my_width='';
-				var my_height='';
-				function my_lightbox(id, my_width, my_height)
-				{
-					jQuery.fn.center = function (absolute) {
-						return this.each(function () {
-							var t = jQuery(this);
-
-							t.css({
-								position:    absolute ? 'absolute' : 'fixed', 
-								left:        '50%', 
-								top:        '50%', 
-								zIndex:        '999999'
-							}).css({
-								marginLeft:    '-' + (t.outerWidth() / 2) + 'px', 
-								marginTop:    '-' + (t.outerHeight() / 2) + 'px'
-							});
-
-							if (absolute) {
-								t.css({
-									marginTop:    parseInt(t.css('marginTop'), 10) + jQuery(window).scrollTop(), 
-									marginLeft:    parseInt(t.css('marginLeft'), 10) + jQuery(window).scrollLeft()
-								});
-							}
-						});
-					};
-					
-					var pageWidth = $('*').width();
-					var pageHeight = $('*').height();
-
-					var my_pageHeight = $(window).height();
-					
-					$('#'+id).height(my_height);
-					$('#'+id).width(my_width);
-					$('#'+id).fadeIn().center();
-						
-					$('#fade').show();
-					$('#fade').height(pageHeight);
-					$('#fade').width(pageWidth);
-
-					$('#fade').click(function(){
-							$(this).fadeOut();
-							$('#'+id).hide();
-					});
-					$('.my_lightbox_close').click(function(){
-							$('#fade').fadeOut();
-							$('#'+id).hide();
-					});
-					
-
-				}
-
-				function subscribe()
-					{
-						var postdata='subsciber_mail='+ $('#subsciber_mail').val();
-						$.ajax({type: "POST",url: "/share_email.php",data: postdata,success: function(msg){var id ='#subscribe .light-content';$(id).html(msg);}});
-					}
-
-
-				var currentslide = 1;
-				var i=1;
-				var nrSld1 =1
-					function showSlide(nrSld) {
-						currentslide = parseInt(nrSld)
-						$('#slider .slideWrapper').animate({left:-380*(parseInt(nrSld)-1)})
-						redrawBullets(nrSld);
-						i=nrSld;
-					};
-					function redrawBullets(slide) {
-						var currentBullet = 's'+slide;
-						$('#slideCtrl a').each(function(){
-						$(this).removeClass('s');
-						if($(this).hasClass(currentBullet)){
-							$(this).addClass('s')
-							}
-						});
-					};
-				function loop() { 
-				  if (i<5) {
-				   showSlide(i);
-				   setTimeout(function() { incr(); }, 5000);
-				  }
-				  else
-				  {
-				  i= 1;
-				  showSlide(i);
-				  loop();
-				  }
-				}
-				function incr() {
-				  i++;
-				  loop();
-				}
 		
-			function footer_articles(start, end, blog)
-			{
-				var postdata='start='+start+'&end='+end+'&blog='+blog;
-				$.ajax({type: "POST",url: "/footer_articles.php",data: postdata,success: function(msg){var id ='#week-diary';$(id).html(msg);}});
-			}
+		<link rel="canonical" href="http://www.gizmowatch.com/privacy-policy/">
+		<meta name="ROBOTS" content="INDEX, FOLLOW">
+		
+		
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+	<script type="text/javascript">
+	GS_googleAddAdSenseService("ca-pub-9415440757655812");
+	GS_googleEnableAllServices();
+	</script>
+	
+	
+	
+		<script type="text/javascript">GA_googleAddAttr("source", "other");</script>
+	
 
-			function week_diary_articles(start, blog)
-			{
-				var postdata='start='+start+'&blog='+blog;
-				$.ajax({type: "POST",url: "/week_diary.php",data: postdata,success: function(msg){var id ='#week-diary';$(id).html(msg);}});
-			}
-
-			function tag_paging(page_no, total_pages, quantity)
-			{
-				var postdata='page_no='+page_no+'&total_pages='+total_pages+'&quantity='+quantity;
-				$.ajax({type: "POST",url: "/tag_paging.php",data: postdata,success: function(msg){var id ='#t-sidewindow';$(id).html(msg);}});
-			}
-
-			function post_paging(page_no, total_pages, quantity)
-			{
-				var postdata='page_no='+page_no+'&total_pages='+total_pages+'&quantity='+quantity;
-				$.ajax({type: "POST",url: "/post_paging.php",data: postdata,success: function(msg){var id ='#insta-articles';$(id).html(msg);}});
-			}
-
-			function category_paging(page_no, quantity)
-			{
-				var postdata='page_no='+page_no+'&quantity='+quantity;
-				$.ajax({type: "POST",url: "/category_paging.php",data: postdata,success: function(msg){var id ='#category-news';$(id).html(msg);}});
-			}
-
-			function hotSheet_paging(page_no, quantity)
-			{
-				var postdata='page_no='+page_no+'&quantity='+quantity;
-				$.ajax({type: "POST",url: "/hotSheet_paging.php",data: postdata,success: function(msg){var id ='#hot-sheet';$(id).html(msg);}});
-			}
-
-			function video_list_paging(page_no, quantity, sortMethod)
-			{
-				var postdata='page_no='+page_no+'&quantity='+quantity+'&sortMethod='+sortMethod;
-				$.ajax({type: "POST",url: "/video_list_paging.php",data: postdata,success: function(msg){var id ='#video-list';$(id).html(msg);}});
-			}
-
-			function slide_feature(total_divs,display,button,divid, prev_id, next_id)
-			{
-				for(var i=1; i<= total_divs; i++)
-				{
-					var div =document.getElementById(divid + i);
-					div.style.display = 'none';
-				}
+	
 				
-				if(button == '1')
-				{
-					var next_div = document.getElementById(next_id);
-					var next =  display + 1;
-					next_div.innerHTML ='<a href="javascript:slide_feature( '+total_divs+', '+next+',1, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Next</a>';
-					var prev_div = document.getElementById(prev_id);
-					var prev = next - 1;
-					prev_div.innerHTML ='<a href="javascript:slide_feature('+total_divs+', '+prev+',0, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Prev</a>';
-					$('#'+divid + next).show();
+		<script type="text/javascript">GA_googleAddAttr("page", "permalink");</script>
+	
+	
+	
+	
+	
+	
+	
+	
+	<script type="text/javascript">
+		GA_googleAddSlot("ca-pub-9415440757655812", "gizmowatch_archives_atf_FB_1_468x60");
+		GA_googleAddSlot("ca-pub-9415440757655812", "gizmowatch_header_atf_LB_728x90");
+		GA_googleAddSlot("ca-pub-9415440757655812", "gizmowatch_home_atf_WS_160x600");
+		GA_googleAddSlot("ca-pub-9415440757655812", "gizmowatch_permalink_atf_LR_336x280");
+		GA_googleAddSlot("ca-pub-9415440757655812", "gizmowatch_permalink_atf_MR_300x250");
+		GA_googleAddSlot("ca-pub-9415440757655812", "GW_permalink_FB");
+		GA_googleAddSlot("ca-pub-9415440757655812", "gizmowatch_affiliate_square");
+		GA_googleAddSlot("ca-pub-9415440757655812", "gizmowatch_affiliate_square2");
+		GA_googleAddSlot("ca-pub-9415440757655812", "GW_LU");
+	</script>
+	<script type="text/javascript">
+		GA_googleFetchAds();
+	</script>
+	
 
-					if(total_divs == next)
-					{
-						next_div.innerHTML ='';
-					}
-					
-				}
-				else
-				{
-					var next_div = document.getElementById(next_id);
-					var next =  display;
-					next_div.innerHTML ='<a href="javascript:slide_feature( '+total_divs+', '+next+',1, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Next</a>';
-					var prev_div = document.getElementById(prev_id);
-					var prev = next - 1;
-					if(prev == 0)
-						{
-							prev_div.innerHTML ='';
-						}
-						else
-						{
-							prev_div.innerHTML ='<a href="javascript:slide_feature('+total_divs+', '+prev+',0, \''+divid+'\', \''+prev_id+'\', \''+next_id+'\')">Prev</a>';
-						}
-						$('#'+divid + display).show();
-				}
-			}
+
+		<script type="text/javascript" src="/js/jquery-latest.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.jcarousel.min.js"></script>			
+		<script type="text/javascript" src="/js/common.js"></script>			
+		
+		<link href="/css/common.css" rel="stylesheet" type="text/css">			
+		<link href="/css/privacy.css" rel="stylesheet" type="text/css">
+
+	<script type="text/javascript" async="" src="http://s3.buysellads.com/ac/bsa.js"></script></head>
+	<body>
+		<div class="container">
+			<div class="span-24 header">
+				
+		
+		<script>
+		  var _comscore = _comscore || [];
+		  _comscore.push({ c1: "2", c2: "9637226" });
+		  (function() {
+		    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		    el.parentNode.insertBefore(s, el);
+		  })();
 		</script>
-		<link href="/css/common.css" rel="stylesheet" type="text/css">
-		<link href="/css/club-sidebar.css" rel="stylesheet" type="text/css">
-		<link href="/css/error_404.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-9415440757655812");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-9415440757655812", "7Blogs_Homepage_ATF_Button");
-GA_googleAddSlot("ca-pub-9415440757655812", "Gizmowatch_Martini_HalfPage");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-
-	</head>
-	
-		<body onload="loop();">
-			<div class="wrapper">
-				<div class="container">
-					<div class="header">
-						<div id="subscribe" class="my_lightbox" style="display:none">
-							<div class="light-head"><span>Please fill in your email address</span><a href="javascript:void(0)" class="my_lightbox_close light-close">[Close]</a></div>
-							<div class="clear"></div>
-							<div class="light-content">
-								<form method="post" action="javascript:subscribe();" name="subscribeForm" id="subscribeForm">
-									<input type="text" class="required email" name="subsciber_mail" id="subsciber_mail" value="">
-									<input type="submit" value="Subscribe" name="Subscribe">
-								</form>
-							</div><!-- EOF light-content -->
-						</div><!-- EOF my_lightbox -->
-
-						<div class="top-nav">
-							<a href="http://www.gizmowatch.com/contact-us.php?q=tips">Send Tips</a> | 
-							<a href="http://www.instablogs.com/ad_solutions.php?b=10">Advertise</a> | 
-							<a href="http://www.gizmowatch.com/contact-us.php?q=general">Contact</a>
-						</div><!-- EOF top-nav -->
-						<a class="logo" href="http://www.gizmowatch.com/">&nbsp;</a>
-						<div class="ad">
-							<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102576&amp;adSize=728x90"></script>													</div>
-						<div class="ad">
-							<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-/* Gizmowatch, Header, LinkUnit, 8Jan10 */
-google_ad_slot = "9487820033";
-google_ad_width = 728;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>						</div>
-						<div class="extra-ads">
-							
-						</div>
-						<div class="clear"></div>
-						<div class="bottom-nav">
-							<a class="share sprite mail" href="javascript:void(0)" onclick="my_lightbox('subscribe')" title=""></a>
-							<a class="share sprite face" href="http://www.facebook.com/pages/Gizmowatch/133830250537"></a>
-							<a class="share sprite tweet" href="http://twitter.com/gizmowatch_com"></a>
-							<a class="share sprite rss" href="http://feeds.feedburner.com/gizmowatch/YwQk"></a>
-															<span class=""><span class="nav-bg hom"><a href="http://www.gizmowatch.com"></a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/art/">Art</a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/design/">Design</a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/diy/">DIY</a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/gadgets/">Gadgets</a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/gaming/">Gaming</a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/innovations/">Innovations</a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/robots/">Robots</a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/science/">Science</a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/software/">Software</a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/technology/">Technology</a></span></span>
-								<span class=""><span class="css-nav"><a href="http://www.gizmowatch.com/tags/web/">Web</a></span></span>
-							</div><!-- EOF bottom-nav -->
-							<div class="clear"></div>
-						</div><!-- EOF header -->
-						<div class="clear"></div>
-						<div class="inner-container">
-
-				
-
-
-		<div class="content">
-				<div class="privacy-content-main">						
-					<div class="error-page-title">Privacy Policy</div> 
-
-					<p>This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.</p>
-
-					<div>Information Collection</div>
-
-					<p>Instablogs Network is the sole owner of the information collected on the Instablogs Sites. Instablogs Network may collect information from our users at several different points on the Instablogs Sites.</p>
-
-					<div>Comments</div>
-					<p>In order to enhance their use of the Instablogs Sites, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. Instablogs Network uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.</p>
-
-					<div>Mailing List</div>
-
-					<p>Instablogs Network may launch a mailing list for some or all of the Instablogs Sites. In order to sign up to receive regular emails from a site's mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.</p>
-
-					<div>Discussion Group and Cookies</div>
-					<p>In order to further enhance the user experience, Instablogs Network may launch a discussion board service on some or all of the Instablogs Sites where users can discuss common topics of interest. Users will have the option of signing up for this service, and to do so must submit information including a valid email address. Instablogs Network uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Instablogs Network will not pass this information to any other organization except in aggregate form.</p>
-
-					<p>The discussion board service may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.</p>
-
-					<p>By setting a cookie on a Instablogs Site, users will not have to log in a password more than once, thereby saving time while on the site's discussion board. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Instablogs Network products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Instablogs Network services require that you accept cookies.</p>
-
-					<div>Third Party Cookies</div>
-					<p>Some of our business partners may use cookies on our site (for example, advertisers). However, Instablogs Network has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Instablogs Network only and does not cover the use of cookies by any advertisers.</p>
-
-					<div>Third Party Advertising</div>
-					<p>The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.</p>
-
-					<div>Log Files
-					</div><p>Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.</p>
-
-					<div>Legal Disclaimer</div>
-					<p>Though we make every effort to preserve user privacy, Instablogs Network may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the Instablogs Sites.</p>
-
-					<div>Business Transitions</div>
-					<p>In the event Instablogs Network goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.</p>
-
-					<div>Links</div>
-
-					<p>The Instablogs Sites contain links to other sites. Please be aware that Instablogs Network is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Instablogs Network.</p>
-
-					<div>Notification of Changes</div>
-					<p>Whenever Instablogs Network changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
-
-					<div>Contact Information</div>
-					<p>If you have any questions or notices of violations to these terms and conditions, please contact the editor of the Instablogs Site in question, or send an email to info AT instablogs.com, or by mail to: 
-					<br>Instablogs, III Floor,
-					<br>STPI, Block No. 24, 
-					<br>SDA Complex, Kasumpati, 
-					<br>Shimla, India.
-					
-					</p>
-
-				</div><!-- EOF #content-main -->
-
-			
-			</div><!-- EOF content -->
-
-			<div class="sidebar">
-<div class="search">
-	<form action="/search.php" id="cse-search-box">
-		<input type="hidden" name="cx" value="partner-pub-9415440757655812:rmjshe-hjke">
-		<input type="hidden" name="cof" value="FORID:10">
-		<input type="hidden" name="ie" value="UTF-8">
-		<input type="text" class="s-text" name="q" size="25">
-		<input type="submit" class="s-but" name="sa" value="Search">
-		<div class="s-lens sprite"></div>
-	</form>
-	<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-</div>
-	<div class="clear"></div>
-
-<div class="side-ads" style="padding-bottom:10px; margin-top:20px;"><!-- ca-pub-9415440757655812/Gizmowatch_Martini_HalfPage -->
-<script type="text/javascript">
-GA_googleFillSlot("Gizmowatch_Martini_HalfPage");
-</script></div><div class="clear"></div><div class="side-ads" style="padding-bottom:10px; margin-top:20px;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102576&amp;adSize=300x250"></script></div><div class="clear"></div><div class="side-ads" style="float:right;"></div><div class="clear"></div><div class="side-ads" style="margin-top:5px;"></div><div class="clear"></div>
-<div class="side-ads" style="float:left;"></div><div class="side-ads" style="float:right;"></div><div class="clear"></div>
-<div class="market-place">
-	 </div><!-- EOF market-place -->
-
-	<div class="sidewindow">
-	<div class="h-space"></div>
-	<div class="side-head"><a href="http://www.gizmowatch.com/videos/">All</a>Videos</div>
-	
-	<div class="clear"></div>
-		<div id="sidewindow">
-		<ul>	
-							<li>
-												<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/12-best-wearable-gadgets-for-geeks/"><img src="http://www.instablogsimages.com/images/2010/05/15/Go_SVilc_18770_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/12-best-wearable-gadgets-for-geeks/">12 Best Wearable Gadgets for Geeks</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/ground-breaking-technology-lends-vision-to-the-blind-video/"><img src="http://www.instablogsimages.com/images/2010/05/05/NA_ydhIj_18770_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/ground-breaking-technology-lends-vision-to-the-blind-video/">Ground-breaking technology lends vision ...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/eyedriver-lets-you-drive-a-car-using-the-eyes-alone/"><img src="http://www.instablogsimages.com/images/2010/04/24/eyedriver_wmUOG_54_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/eyedriver-lets-you-drive-a-car-using-the-eyes-alone/">eyeDriver lets you drive a car using the...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/hp-slate-specs-price-and-video-they-are-doing-it-better-than-the-ipad/"><img src="http://www.instablogsimages.com/images/2010/04/06/ibn_ck9jk_cK9JK_54_100x100.png"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/hp-slate-specs-price-and-video-they-are-doing-it-better-than-the-ipad/">HP Slate specs, price and video, they ar...</a></div>
-								<div class="clear"></div>
-							</div>
-											</li>
-							<li>
-												<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/ben-heck-custom-builds-the-bill-paxton-pinball-machine-are-you-game/"><img src="http://www.instablogsimages.com/images/2010/03/17/17mar1092utvwebill_oKQEz_54_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/ben-heck-custom-builds-the-bill-paxton-pinball-machine-are-you-game/">Ben Heck custom builds the Bill Paxton P...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/portable-wii-laptop-mod-is-impressive-diy-stuff/"><img src="http://www.instablogsimages.com/images/2010/03/03/wii_laptop_uVDvj_54_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/portable-wii-laptop-mod-is-impressive-diy-stuff/">Portable Wii laptop mod is impressive DI...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/ekg-hoodie-lets-you-play-the-game-of-life-from-the-heart/"><img src="http://www.instablogsimages.com/images/2010/02/19/game-of-life-controlled-by-ekg-hoodie_IHXXU_54_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/ekg-hoodie-lets-you-play-the-game-of-life-from-the-heart/">EKG Hoodie lets you play the Game of Lif...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/noteput-a-compelling-interface-to-learn-music-notation/"><img src="http://www.instablogsimages.com/images/2010/02/17/noteput-cool-interactive-music-table_Lbvbk_54_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/noteput-a-compelling-interface-to-learn-music-notation/">Noteput: A compelling interface to learn...</a></div>
-								<div class="clear"></div>
-							</div>
-											</li>
-							<li>
-												<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/an-ordinary-camera-hacked-to-capture-high-speed-videos-high-res-stills/"><img src="http://www.instablogsimages.com/"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/an-ordinary-camera-hacked-to-capture-high-speed-videos-high-res-stills/">An ordinary camera hacked to capture hig...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/asus-shows-us-the-multitouch-swivel-screen-eee-pc-pc-t101mt/"><img src="http://www.instablogsimages.com/images/2010/02/15/asus-eee-pc-m101mtsmall_mvxbP_54_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/asus-shows-us-the-multitouch-swivel-screen-eee-pc-pc-t101mt/">Asus shows us the multitouch swivel-scre...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/fire-breathing-snowman-only-the-first-i-have-ever-seen/"><img src="http://www.instablogsimages.com/images/2010/02/11/fire-breathing-snowman_RhZlO_54_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/fire-breathing-snowman-only-the-first-i-have-ever-seen/">Fire-breathing snowman, only the first I...</a></div>
-								<div class="clear"></div>
-							</div>
-														<div class="video-image-title">
-								<div class="video-image">
-									<a href="http://www.gizmowatch.com/entry/home-theater-for-the-iphone-is-as-big-as-a-shoe-box/"><img src="http://www.instablogsimages.com/images/2010/02/09/iphone-home-theater_prC1N_54_100x100.jpg"></a>
-								</div>
-								<div class="video-title"><a href="http://www.gizmowatch.com/entry/home-theater-for-the-iphone-is-as-big-as-a-shoe-box/">Home theater for the iPhone is as big as...</a></div>
-								<div class="clear"></div>
-							</div>
-											</li>
-								
-		</ul>
-	</div>
-</div>
-<div class="clear"></div>
-
-<div class="side-ads" style="float:left;margin-bottom:10px;"><script type="text/javascript">
-				GA_googleFillSlot("7Blogs_Homepage_ATF_Button");
-			</script></div><div style="float:right;margin-left:15px;"><iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="125" height="125" src="http://ad.foxnetworks.com/st?ad_type=iframe&amp;ad_size=125x125&amp;section=792558"></iframe></div><div class="clear"></div><div class="side-ads" style="float:right;margin-bottom:10px;"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-	<div class="t-sidewindow" id="t-sidewindow">
-		<div class="side-head">Popular Tags</div>
-		<ul class="pop-tags">
-					<li><a href="http://www.gizmowatch.com/tags/technology/">Technology</a></li>
-					<li><a href="http://www.gizmowatch.com/tags/gadgets/">gadgets</a></li>
-					<li><a href="http://www.gizmowatch.com/tags/apple/">Apple</a></li>
-					<li><a href="http://www.gizmowatch.com/tags/robots/">Robots</a></li>
-					<li><a href="http://www.gizmowatch.com/tags/design/">design</a></li>
-					<li><a href="http://www.gizmowatch.com/tags/sony/">Sony</a></li>
-					<li><a href="http://www.gizmowatch.com/tags/robot/">Robot</a></li>
-					<li><a href="http://www.gizmowatch.com/tags/pc/">PC</a></li>
-					<li><a href="http://www.gizmowatch.com/tags/robotics/">robotics</a></li>
-					<li><a href="http://www.gizmowatch.com/tags/ipod/">ipod</a></li>
-				</ul>
-					<div class="all-tag"><a class="r-tag" href="javascript:tag_paging('2','50','10')">Next 10 <b>&gt;&gt;</b></a><a href="/tags/">All Tags</a></div>
-			</div><!-- EOF sidewindow -->
-
-<div class="side-ads" style="margin-bottom:5px;"><script src="http://www15.glam.com/glamIgm.act?igm=318102576;199268861;6061"></script></div><div class="clear"></div>
-	<div class="club-sidebar">
-	<div class="club-title"><img src="/images/insta_club_badge.gif" border="0" alt=""></div>
-		<div class="main-club"><div class="club-img"><a href="http://www.skinnyvscurvy.com/take-a-guess/booty-belongs-to-12.html"><img src="http://www.instablogsimages.com/images/2010/06/20/_izKf5_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.skinnyvscurvy.com/take-a-guess/booty-belongs-to-12.html">This Booty Belongs to…</a></div><div class="link"> (<a href="http://www.skinnyvscurvy.com">Skinny vs Curvy</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/creativity-in-harvey-nichols-campaigns/"><img src="http://www.instablogsimages.com/images/2010/06/20/hn_bingo_mRT6P_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/creativity-in-harvey-nichols-campaigns/">Creativity in Harvey Nichols' campaigns</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/why-waste-energy/"><img src="http://www.instablogsimages.com/images/2010/06/20/xanlite-hypnotist_36S8R_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/why-waste-energy/">Why waste energy?</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/chicks-too-cross-the-red-sea-no-miracles/"><img src="http://www.instablogsimages.com/images/2010/06/20/ocean-hawaiian_QEKgl_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/chicks-too-cross-the-red-sea-no-miracles/">Chicks too cross the red sea, no miracles</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club --><div class="main-club"><div class="club-img"><a href="http://www.adpunch.org/entry/lady-liberty-spoiled-by-reading/"><img src="http://www.instablogsimages.com/images/2010/06/20/sz_library_of_metropolises_ny_BXUyE_28802_75x75.jpg"></a></div><div class="club-desc"><a href="http://www.adpunch.org/entry/lady-liberty-spoiled-by-reading/">Lady liberty, spoiled by reading</a></div><div class="link"> (<a href="http://www.adpunch.org">Adpunch</a>)</div><div class="clear"></div></div><!-- EOF main-club -->	</div><!-- EOF club-sidebar -->
-
-<div class="side-ads" style="margin-bottom:5px;margin-top:5px;"><!-- Begin Adify tag for "MediumRectangle" Ad Space (300x250) ID #1000001151907 -->
-<script type="text/javascript">
-	sr_adspace_id = 1000001151907;
-	sr_adspace_width = 300;
-	sr_adspace_height = 250;
-	sr_ad_new_window = true;
-	sr_adspace_type = "graphic";
-</script>
-<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000001151907">
-</script>
-<!-- End Adify tag for "MediumRectangle" Ad Space (300x250) ID #1000001151907 --></div><div class="clear"></div>
-	<iframe src="http://www.facebook.com/plugins/fan.php?id=133830250537&amp;width=295&amp;height=250&amp;connections=10&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:300px; height:250px"></iframe>
-
-<div class="side-ads" style="margin-bottom:5px;margin-top:5px;"></div><div class="clear"></div>
-			<div class="t-sidewindow" id="archives">
-			<div class="side-head">Archives</div>
-			<ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open0').show('slow')}" "="">2010</ul><ul class="arch-open" id="arch-open0">					<li>
-						<a href="http://www.gizmowatch.com/archives/201006/">June 2010</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/201005/">May 2010</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/201004/">April 2010</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/201003/">March 2010</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/201002/">February 2010</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/201001/">January 2010</a>
-					</li>
-			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open1').show('slow')}" "="">2009</ul><ul class="arch-open" id="arch-open1" style="display:none;">					<li>
-						<a href="http://www.gizmowatch.com/archives/200912/">December 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200911/">November 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200910/">October 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200909/">September 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200908/">August 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200907/">July 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200906/">June 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200905/">May 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200904/">April 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200903/">March 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200902/">February 2009</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200901/">January 2009</a>
-					</li>
-			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open2').show('slow')}" "="">2008</ul><ul class="arch-open" id="arch-open2" style="display:none;">					<li>
-						<a href="http://www.gizmowatch.com/archives/200812/">December 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200811/">November 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200810/">October 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200809/">September 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200808/">August 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200807/">July 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200806/">June 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200805/">May 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200804/">April 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200803/">March 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200802/">February 2008</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200801/">January 2008</a>
-					</li>
-			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open3').show('slow')}" "="">2007</ul><ul class="arch-open" id="arch-open3" style="display:none;">					<li>
-						<a href="http://www.gizmowatch.com/archives/200712/">December 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200711/">November 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200710/">October 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200709/">September 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200708/">August 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200707/">July 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200706/">June 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200705/">May 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200704/">April 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200703/">March 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200702/">February 2007</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200701/">January 2007</a>
-					</li>
-			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open4').show('slow')}" "="">2006</ul><ul class="arch-open" id="arch-open4" style="display:none;">					<li>
-						<a href="http://www.gizmowatch.com/archives/200612/">December 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200611/">November 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200610/">October 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200609/">September 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200608/">August 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200607/">July 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200606/">June 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200605/">May 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200604/">April 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200603/">March 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200602/">February 2006</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200601/">January 2006</a>
-					</li>
-			</ul><ul class="arch-tags" style="cursor:pointer;" onclick="{$('.arch-open').hide('slow');$('#arch-open5').show('slow')}" "="">2005</ul><ul class="arch-open" id="arch-open5" style="display:none;">					<li>
-						<a href="http://www.gizmowatch.com/archives/200512/">December 2005</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200511/">November 2005</a>
-					</li>
-								<li>
-						<a href="http://www.gizmowatch.com/archives/200510/">October 2005</a>
-					</li>
-					</ul></div><!-- EOF archives -->
+		<noscript>
+		  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=9637226&amp;cv=2.0&amp;cj=1"/>
+		</noscript>
 		
-<div class="side-ads" style="margin-left:10px;float:right;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102576&amp;adSize=160x600"></script></div><div class="side-ad"><!-- BEGIN STANDARD TAG - 120 x 240 - gizmowatch::Default section - DO NOT MODIFY -->
-<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="120" height="240" src="http://ad.103092804.com/st?ad_type=iframe&amp;ad_size=120x240&amp;section=810989"></iframe>
-<!-- END TAG --></div><div class="clear"></div>
-<div class="side-ads" style="margin-top:15px;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318102576&amp;adSize=300x250&amp;zone=Marketplace"></script></div><div class="clear"></div>
-
-	<div class="clear"></div>
-</div><!-- EOF sidebar -->			
-<div class="clear"></div>
-<div class="insta-articles" id="insta-articles">
-	<div class="related-s">You might also like</div>
-	<div class="clear"></div>
-	
-
-	<div class="paging-class">		<div class="all-post"><a class="r-post prev-disabled"><b></b></a></div>
-			<div class="all-post"><a class="r-post next" href="javascript:post_paging('2','48','6')"><b></b></a></div>
-	</div>
-	<div class="clear"></div>
-
-		<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.automotto.org/entry/schaukelwagen-a-toy-car-that-flips-into-a-rocking-chair/"><img src="http://www.instablogsimages.com/images/2010/06/19/schaukelwagen_Z4mqa_3868_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.automotto.org/entry/schaukelwagen-a-toy-car-that-flips-into-a-rocking-chair/">Schaukelwagen – A toy car that flips into a rocking chair</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-				<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.automotto.org/entry/another-transformer-erected-this-time-from-old-samara-diva-car-parts/"><img src="http://www.instablogsimages.com/images/2010/06/19/transformer-by-nikola-nikolov_hptPQ_1292_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.automotto.org/entry/another-transformer-erected-this-time-from-old-samara-diva-car-parts/">Another ‘Transformer’ erected, this time from old Samara Diva car parts</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-				<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.borntechie.com/entry/create-cool-twitter-screenshot-from-the-address-bar/"><img src="http://www.instablogsimages.com/images/2010/06/18/twitter_screenshots1_NrOK6_25552_150x150.png"></a></div>
-			<div class="stry-title-insta"><a href="http://www.borntechie.com/entry/create-cool-twitter-screenshot-from-the-address-bar/">Create cool Twitter screenshot from the address bar</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-				<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.automotto.org/entry/o-lec-concept-harvests-power-from-the-road-to-move-on/"><img src="http://www.instablogsimages.com/images/2010/06/18/o-lec-concept-2_YHvsN_3868_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.automotto.org/entry/o-lec-concept-harvests-power-from-the-road-to-move-on/">O-lec concept harvests power from the road to move on</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-				<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.automotto.org/entry/toyota-yaris-converted-into-batmobile-for-everyday-batman/"><img src="http://www.instablogsimages.com/images/2010/06/18/toyota-yaris-batmobile_DQxOH_3868_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.automotto.org/entry/toyota-yaris-converted-into-batmobile-for-everyday-batman/">Toyota Yaris converted into Batmobile for everyday Batman</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-				<div class="single-story-insta">
-			<div class="stry-img-insta"><a href="http://www.automotto.org/entry/krasnov-igor-comes-up-with-conceptual-proposal-for-bmw-sports-coupe/"><img src="http://www.instablogsimages.com/images/2010/06/18/bmw-sports-coupe3_ufQCS_3868_150x150.jpg"></a></div>
-			<div class="stry-title-insta"><a href="http://www.automotto.org/entry/krasnov-igor-comes-up-with-conceptual-proposal-for-bmw-sports-coupe/">Krasnov Igor comes up with conceptual proposal for BMW sports coupe</a></div>
-			<div class="clear"></div>
-		</div><!-- eof single-story -->
-			<div class="clear"></div>
-</div> <!-- EO week-dairy -->
-<div class="clear"></div>
+		
+		<script type="text/javascript">
+		(function(){
+		var bsa = document.createElement('script');
+		bsa.type = 'text/javascript';
+		bsa.async = true;
+		bsa.src = 'http://s3.buysellads.com/ac/bsa.js';
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+		})();
+		</script>
+		       
+            <ul class="mainNav clearfix">
+				
+					
 						
-<!-- start Vibrant Media IntelliTXT script section -->
-<script type="text/javascript" src="http://gizmowatch.us.intellitxt.com/intellitxt/front.asp?ipid=19076"></script>
-<!-- end Vibrant Media IntelliTXT script section -->			<div class="clear"></div>	
-			</div><!-- EOF inner-container -->
-			<div class="clear"></div>
-		</div> <!-- EOF container -->
-	</div> <!-- EOF wrapper -->
-	<div id="footer">
-		<div>Published by <a href="http://www.instablogs.com/">The Instablogs Network</a>,<a href="http://www.citizenmedia.org/"> Citizen Media Pvt. Ltd</a>.</div><div>Copyright © Instablogs Network 2009. All rights reserved</div><div>Powered by <a href="http://www.instapress.org/">Instapress</a></div>
-		<div><a href="http://www.instablogs.com/ad_solutions.php?b=10">Advertising</a> | <a href="http://www.gizmowatch.com/about-us.php">About</a> | <a href="http://www.gizmowatch.com/disclaimer.php">Disclaimer</a> | <a href="http://www.gizmowatch.com/privacy-policy.php">Privacy Policy</a> | <a href="http://www.gizmowatch.com/terms-of-use.php">Terms of Use</a> | <a href="http://www.gizmowatch.com/contact-us.php?q=general">Contact </a></div>
-	</div><!-- EOF footer -->
-	<div class="clear"></div>
-	<div id="fade" style="display:none;"></div>
+						<li><a href="http://www.gizmowatch.com/technology/" class="navLink">Technology</a></li>
+						
+					
+				
+					
+						
+						<li><a href="http://www.gizmowatch.com/gadgets/" class="navLink">Gadgets</a></li>
+						
+					
+				
+					
+						
+						<li><a href="http://www.gizmowatch.com/tablets/" class="navLink">Tablets</a></li>
+						
+					
+				
+					
+						
+						<li><a href="http://www.gizmowatch.com/cameras/" class="navLink">Cameras</a></li>
+						
+					
+				
+					
+						
+						<li><a href="http://www.gizmowatch.com/operating-systems/" class="navLink">Operating Systems</a></li>
+						
+					
+				
+					
+						
+						<li><a href="http://www.gizmowatch.com/mobile-phones/" class="navLink">Mobile Phones</a></li>
+						<li class="navMore"> <a href="javascript:void(0)">More &gt;&gt;</a></li>
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+					
+				
+				<ul class="navMoreUl">
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/laptops/" class="navLink">Laptops</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/accessories/" class="navLink">Accessories</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/apps/" class="navLink">Apps</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/gaming/" class="navLink">Gaming</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/diy/" class="navLink">DIY</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/robots/" class="navLink">Robots</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/innovations/" class="navLink">Innovations</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/software/" class="navLink">Software</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/computers/" class="navLink">Computers</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/music-players/" class="navLink">Music Players</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/hardware/" class="navLink">Hardware</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/netbooks/" class="navLink">Netbooks</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/televisions/" class="navLink">Televisions</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/tips/" class="navLink">Tips</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/home-electronics/" class="navLink">Home Electronics</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/notebooks/" class="navLink">Notebooks</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/reviews/" class="navLink">Reviews</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/gps/" class="navLink">GPS</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/medical-gadgets/" class="navLink">Medical Gadgets</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/security/" class="navLink">Security</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/usb-gadgets/" class="navLink">USB Gadgets</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/watches/" class="navLink">Watches</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/wireless/" class="navLink">Wireless</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/infographics/" class="navLink">Infographics</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/autos/" class="navLink">Autos</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/green-design/" class="navLink">Green Design</a></li>
+						
+					
+						
+							
+							<li><a href="http://www.gizmowatch.com/green/" class="navLink">Green</a></li>
+						
+					
+				</ul>
+			</ul>
+            <div class="headLogo clear">
+                <h1><a class="logo" href="/">GizmoWatch</a></h1>
+				<form method="get" class="search" action="/search/" id="cse-search-box">
+					<input type="hidden" name="cx" value="partner-pub-9415440757655812:rmjshe-hjke">
+					<input type="hidden" name="cof" value="FORID:10">
+					<input type="hidden" name="ie" value="UTF-8">
+					<input type="text" name="q" id="searchText" class="searchBox">
+					<input type="submit" name="sa" value="search" class="searchButton" id="submitSearch">
+				</form>		
+                <div class="social">
+                    <ul>
+                   		<div class="socIcon clearfix">
+	                        <li><a href="http://www.facebook.com/gizmowatch" title="Be a Fan on Facebook - Gizmowatch" class="face"><img alt="facebook" src="/css-img/socialicons/facebook.png"></a></li>
+	                        <li><a href="http://twitter.com/gizmowatch_com" title="Follow Us On Twitter - Gizmowatch" class="tweet"><img alt="twitter" src="/css-img/socialicons/twitter.png"></a></li>
+	                        <li><a href="http://feeds.feedburner.com/gizmowatch/YwQk" title="Subscribe To Our RSS - Gizmowatch" class="rss"><img alt="twitter" src="/css-img/socialicons/rss.png"></a></li>
+                        </div>
+                     </ul>
+                    <div class="topLinks clearfix">							
+						<ul>
+							
+								<li class="links">
+									<a href="/slideshows/">slideshows</a>&nbsp;&nbsp;//
+								</li>	
+													
+								
+							
+									
+								<li class="links">
+									<a href="/galleries/">gallery</a>
+								</li>					
+								
+							
+						</ul>
+					</div>	
+                </div>
+            </div>       
+        <div class="headAd">
+			<a href="/gift-guides/"><img src="/css-img/Gizmowatch.jpg"></a>
+		</div>     
+        <div class="headAd">
+			
+	<script type="text/javascript">GA_googleFillSlot("gizmowatch_header_atf_LB_728x90");</script>		
 
-	<!-- Start of StatCounter Code -->
+		</div>  
+						
+			</div>
+			<div class="span-24">
+				<div class="content clearfix">
+					<div class="span-15">
+						<ul class="center">							
+							<li class="singleStory clear">
+							    <div class="titleWrap">
+										<img class="prev" src="/css-img/prevnull.png" alt="previous post">
+									<div class="storyTitle">
+									    <h2>Privacy Policy</h2>			
+									   <hr>
+									</div>
+									<img class="next" src="/css-img/nextnull.png" alt="next post">	
+							    </div>
+							    
+								<div class="storyContainer clear">								   
+												
+									<div>
+<p>Instamedia, Inc. ("Instamedia," "we," "us") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your personally identifiable information. This Privacy Policy (the "Policy") describes our practices in connection with personally identifiable information that we collect through our website located at www.Instamedia.com (the "Site"). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, nor does this Policy govern the collection of information by any of our affiliates (collectively, "Affiliated Entities").</p>
+<p>The Site is controlled and operated by Instamedia from the India, and is not intended to subject Instamedia to the laws or jurisdiction of any state, country or territory other than that of the India. Instamedia does not represent or warrant that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations.</p>
+<p>By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to our Policy will become effective upon posting of the revised Policy on the Internet, accessible through the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.</p>
+<p>This Policy represents the sole, authorized statement of Instamedia's practices with respect to the collection of Personal Information (defined below) through the Site and Instamedia's use of such information. Any summaries of this Policy generated by third party software or otherwise (for example, in connection with the "Platform for Privacy Preferences" or "P3P") shall have no legal effect, do not bind Instamedia, shall not be relied upon in substitute for this Policy, and neither supersede nor modify this Policy. This Policy is in the English language. Any translation of this Policy shall have no legal validity. In the event of any inconsistency between the English language version hereof and any translation of this Policy into another language, this English language version will govern.</p>
+<p>Note Regarding the Use of This Site by Children: The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide personally identifiable information through the Site. Further, we discourage individuals between ages 13 and 18 from using this site absent parental supervision.</p>
+<p>1. What Types of Information Does Instamedia Collect Via the Site?</p>
+<p>Instamedia gathers two basic types of information through the Site: "Personally Identifiable Information" (or "PII") and "Non-Personally Identifiable Information" (or "Non-PII"). Personally Identifiable Information is information that identifies you as a specific individual; that is, your name, postal address, telephone number, e?mail address, or your credit card number. PII does not include information about any company or organization with which you work, or any newspaper, magazine or other publication with which you may be associated (for example, the name of your employer or publication). In contrast, Non-Personally Identifiable Information includes aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.</p>
+<p>a. Personally Identifiable Information.</p>
+<p>You do not have to provide PII to us to access the Site. However, in order for you to take advantage of particular opportunities provided through the Site (for example, to apply for membership or participate in surveys, contests, sweepstakes, raffles or other similar promotions), you may require that you furnish PII. We collect PII from you only when you voluntarily provide it to us. Please note, however, that any personally identifiable information contained in any Offered Content (as defined in our Member Terms) - for example, the names of reporters and people featured or quoted in any Offered Content - is considered to be public information, and does not constitute PII under this Privacy Policy.</p>				
+<p>b. Non-Personally Identifiable Information.</p>
+<p>When you visit and interact with the Site, Instamedia and third parties with whom Instamedia has contracted to provide services to Instamedia may collect Non-PII (for example, a catalog of the Site pages that you visit). Non-PII is generally collected from four different sources: server log files, cookies, clear GIFs and information that you voluntarily provide.</p>
+<p>i. Server Log Files.</p>
+<p>Your Internet Protocol (IP) address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. Collecting IP addresses is standard practice on the Internet and is done automatically by many web sites.</p>
+<p>ii. Cookies.</p>
+<p>Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most web sites, and can facilitate users' ongoing access to and use of a particular web site. Cookies do not cause damage to your computer systems or files, and only the web site that transferred a particular cookie can read, modify or delete such cookie. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer.</p>
+<p>iii. Clear GIFs.</p>
+<p>Additionally, we or our service providers may use so-called "clear GIFs", "pixel tags", "web beacons" or similar means (collectively, "Clear GIFs") in some Site pages and HTML-formatted e-mail messages to, among other things, compile aggregate statistics about Site usage and response rates and help manage our web site reports. A Clear GIF is an electronic image, often a single-pixel (1x1), that is ordinarily not visible to Site users and may be associated with cookies on our users' hard drives. These Clear GIFs provide us and our service providers with the ability to recognize a browser's cookie when a browser visits this site. Clear GIFs also allow us and our service providers to count users who have visited certain pages of the Site and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted e-mail messages, Clear GIFs can tell the sender whether and when the e-mail has been opened.</p>
+<p>iv. Information That You Voluntarily Provide.</p>
+<p>Instamedia also collects Non-PII (e.g., your interests, your geographic location and so forth) when you voluntarily provide such information to us.</p>
+<p>2. How Does Instamedia Use Information Collected on the Site?</p>
+<p>a. Personally Identifiable Information.</p>
+<p>Instamedia may use your PII to provide you with Site related services. Subject to your right to opt-out (see "Opt-Out" section below), we may also use your PII to inform you of content we believe which may be of interest to you.</p>
+<p>When you make a purchase through the Site, for example Media Marketplace or PHIP, we may collect your credit card number, billing address and other information related to such purchase (collectively, "Payment Information") from you, and may use such Payment Information in order to fulfill your purchase. We may also provide such Payment Information to third parties as necessary to complete your purchase (for example, to process your credit card). Additionally, if you participate in a purchase made through the Site, either as a buyer/republisher or a seller/licensor, we may provide your PII to any other users who participate in such purchase as necessary to fulfill such purchase (for example, to inform the seller/licensor who the buyer/republisher is, and vice versa). To the extent that Payment Information includes non-PII, use of such non-PII is governed by Section 2.b below.</p>
+<p>We may also provide you with the opportunity to complete a survey on the Site. PII collected through surveys will be used for the purposes of monitoring or improving the use of the Site.</p>
+<p>We may offer users the opportunity to participate in discussions in Instamedia' discussion threads. If you use Instamedia' discussion threads, you should be aware that any PII you submit in any discussion thread (including any PII you may choose to make available to other users through your user profile) becomes public information, and can be read, collected, or used by other users of discussion threads, and could be used to send you unsolicited messages. We are not responsible for the PII you choose to submit in these discussion threads, and we urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, in any discussion thread.</p>
+<p>From time to time, in our sole discretion, we may use your PII to e-mail to you important information regarding the Site, your purchases, issues regarding Offered Content or changes to our terms, conditions, and policies ("Administrative E-mails"). Because this information may be important to your use of the Site, you may not opt-out of receiving these Administrative E-mails.</p>
+<p>Further, notwithstanding any other provision of this Policy to the contrary, we reserve the right to disclose your PII if we believe that we are required to do so (a) by law; (b) to comply with legal process or governmental requests; (c) to enforce our Terms of Service; (d) to fulfill our contractual obligations, including fulfilling our users' audit rights, if any; (e) to protect our operations or those of any Affiliated Entities; (f) to protect the rights, privacy, safety or property of Instamedia, the Affiliated Entities, you or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain. Moreover, we may, to the fullest extent the law allows, disclose PII about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities.</p>
+<p>b. Non-Personally Identifiable Information.</p>
+<p>Because Non-PII does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to share such Non?PII, which does not personally identify you, with Affiliated Entities and other third parties, for any purpose.</p>
+<p>3. Other Important Notes Regarding Our Privacy Practices.</p>
+<p>a. Third Party Service Providers.</p>
+<p>We work with third parties who provide services including but not limited to web site hosting, data analysis and other services of an administrative nature. We reserve the right to share your PII with such third parties solely for the purpose of enabling such third parties to provide such services.</p>
+<p>b. Third Party Advertisers.</p>
+<p>We may use third-party contextual and interest-based advertising companies to serve ads when users visit our website, among other services. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Network websites in order to provide advertisements about goods and services of interest to you.</p>
+<p>The third party companies include Google's DoubleClick that may use a range of information including cookies, web beacons, IP addresses, usage data and other non-personal information about your computer or device (such as browser type and operating system) to provide you with relevant advertising. If you are logged into your Instamedia Account, we may also show you advertising based on the information you have provided to us in your Instamedia Account.</p>
+<p>DoubleClick cookie on Instamedia may help advertisers serve ads based on interests associated with non-personally identifiable online activity, such as content or ads viewed or previous activity on advertiser's website. This non-personally identifiable information is held separately from your Instamedia Account data, or other personally identifying information in our possession.</p>
+<p>You may view, edit and add to the categories used to provide you with interest-based advertising in the Ads Preferences Manager.</p>
+<p>You also may choose to opt out of the DoubleClick cookie at any time to stop the ads delivered to your browser.</p>
+<p>Instamedia does not provide any personal information to third-party ad servers or ad networks without your consent.</p>
+<p>c. Third Party Sites.</p>
+<p>The Site may contain links to third party web sites. These linked sites (including without limitation the web sites of Affiliated Entities) are not under Instamedia' control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by Instamedia or any Affiliated Entities. If you provide any PII through any such third party web site, your transaction will occur on such third party's web site (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.</p>
+<p>d. Security.</p>
+<p>We seek to maintain reasonable security measures in order to attempt to protect against the loss, misuse or alteration of the PII under our control. Unfortunately, there is no such thing as perfect security. As a result, although we strive to protect your PII, we cannot ensure or warrant the security of any information you transmit to us through or in connection with the Site or that we store on our or our service providers' systems.</p>
+<p>e. Opting-Out.</p>
+<p>We may, from time to time, send you messages about products and services that we believe would be of interest to you. If you would prefer not to receive such promotional messages, you may unsubscribe from such messages by clicking on the "unsubscribe" link at the bottom of such messages, or by contacting us by e-mail at contact@Instamedia.com.</p>
+<p>f. Changing or Removing Your PII.</p>
+<p>We provide you with several options for reviewing, correcting, updating or otherwise modifying PII that you have previously provided through the Site:</p>
+<p>1. You may contact us by e-mail at conatct[at]Instamedia.com.</p>
+<p>2. You may edit your profile by logging into the Instamedia and editing your personal profile.</p>
+<p>In each event, you must clearly indicate the information that you wish to have changed, or clearly indicate that you wish to have your PII removed from our database. We will endeavor to comply with your request as soon as reasonably practicable. However, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed therefrom. We also reserve the right, from time to time, to re-contact former users of the Site. Finally, we are not responsible for removing information from the databases of third parties with whom we have already shared your PII.</p>
+<p>g. Assignment.</p>
+<p>We reserve the right to transfer any and all PII that we collect from users of the Site to a third party in the event of any sale, transfer or other disposition of all or any portion of Instamedia's business.</p>
+<p>h. Contacting Us.</p>
+<p>If you have any questions regarding this Policy, please contact us either by e-mail at contact[at]Instamedia.com, or by regular mail at Citizen Media Pvt. Ltd, STPI, Block No. 24, SDA Complex, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.</p></div>		
+								</div>
+								<div class="bottomSection">
+								    <div class="leftBottom"></div>
+								    <div class="middleBottom"></div>
+								    <div class="rightBottom"></div>
+								</div>
+							</li>							
+						</ul> 
+						
+					</div>
+					
+	<div class="span-9 sidebar last">
+	    <div class="ads">
+		    	
+	<script type="text/javascript">GA_googleFillSlot("gizmowatch_permalink_atf_MR_300x250");</script>
+
+		</div>
+		<iframe src="http://www.facebook.com/plugins/fan.php?id=133830250537&amp;width=348&amp;height=250&amp;connections=10&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:348px; height:250px"></iframe>					
+	 
+		 
+		
+		<div class="relatedStories">
+		  <div class="top"><h1>Featured Stories</h1></div>
+		   
+		  <div class="middle">
+		      <ul>	
+				
+					<li>
+						 <div class="tab">
+							<h2><a href="http://www.gizmowatch.com/nasa-common-crew-habitat-standardized-efficient-spatial-design-space-crew.html">NASA Common Crew Habitat: Standardized yet efficient spatial design for space crew</a></h2>
+							 <div class="asset"><img src="http://www.instablogsimages.com/1/2011/12/02/nasa_common_crew_habitat_zjifz_270x165.jpg" width="270px"></div>
+							 <p>The conceptMany of us are intrigued by the expansive scope of spacecrafts and their enterprising journeys across the oblivion of ethereal space and heavenly bodies. But beyond the poetic thought, have you ever imagined about the living conditions of those <a href="http://www.gizmowatch.com/nasa-common-crew-habitat-standardized-efficient-spatial-design-space-crew.html" class="readmore">Read more <img src="/css-img/bluedots.gif"></a></p>
+							
+						 </div>	
+					</li>
+					
+				
+					<li>
+						 <div class="tab">
+							<h2><a href="http://www.gizmowatch.com/entry/10-awesomest-video-game-console-mods-compliment-sanity/">10 Unusual video game console mods to compliment your sanity</a></h2>
+							 <div class="asset"><img src="http://www.instablogsimages.com/1/2011/12/02/game_over_snes_casemod_cazbz_270x165.jpg" width="270px"></div>
+							 <p>A few days ago we talked about fascinating games and their enhanced graphical side of affairs. But, games without their appropriate platform counterparts are like having the well made cake without the rich icing. And now in the modern era of eccentricity <a href="http://www.gizmowatch.com/entry/10-awesomest-video-game-console-mods-compliment-sanity/" class="readmore">Read more <img src="/css-img/bluedots.gif"></a></p>
+							
+						 </div>	
+					</li>
+					
+				
+					<li>
+						 <div class="tab">
+							<h2><a href="http://www.gizmowatch.com/10-graphically-detailed-games-pcs.html">10 Most graphically detailed games for PCs</a></h2>
+							 <div class="asset"><img src="http://www.instablogsimages.com/1/2011/12/02/far_cry_koyvk_270x165.jpg" width="270px"></div>
+							 <p>Previously we have harped about a slew of gaming systems and we have reiterated about a multitude of gaming peripherals. But now for a sweet change, we have made a short list on the ten most graphically enhanced games released for our ever boisterous pers <a href="http://www.gizmowatch.com/10-graphically-detailed-games-pcs.html" class="readmore">Read more <img src="/css-img/bluedots.gif"></a></p>
+							
+						 </div>	
+					</li>
+					
+				
+					
+					<li class="last">
+						 <div class="tab">
+							<h2><a href="http://www.gizmowatch.com/wrath-angry-birds-infographics.html">Infographic: Wrath of the Angry Birds</a></h2>
+							 <div class="asset"><img src="http://www.instablogsimages.com/1/2011/11/29/angry_birds_infographic_p5qhf_270x165.jpg" width="270px"></div>
+							 <p>Angry Birds is a game revolution that’s caught up with almost everything that we 
+call rage these days. The addiction is so intense that mobile gaming world is 
+all drenched in the birds’ fury since 2009. Angry Birds has broken all possible 
+records, <a href="http://www.gizmowatch.com/wrath-angry-birds-infographics.html" class="readmore">Read more <img src="/css-img/bluedots.gif"></a></p>
+							
+						 </div>	
+					</li>
+								
+		         
+		      </ul>
+		  </div>
+		   <div class="bottom"></div>
+		</div>
+	</div>
+<div class="clear clearfix"></div>
+
+				</div> 				
+			</div>
+		</div> 
+		<div class="footer clearfix">			
+			
+	<div class="container">			
+		<div class="span-24">
+			<div class="innerFooter clearfix">
+				<div class="footLeft">
+					<div class="feature">
+						<div class="title"><b>Featured in past:</b> </div>
+					</div>
+					<div class="connect clearfix">
+						<div class="title">Connect with us</div>
+						<ul class="footNavIcons">
+							<li><a href="http://www.facebook.com/gizmowatch" title="Be a Fan on Facebook - Gizmowatch" class="face spriteIco"></a></li>
+							<li><a href="http://twitter.com/gizmowatch_com" title="Follow Us On Twitter - Gizmowatch" class="tweet spriteIco"></a></li>
+							<li><a href="http://feeds.feedburner.com/gizmowatch/YwQk" title="Subscribe To Our RSS - Gizmowatch" class="rss spriteIco"></a></li>
+						</ul>
+					</div>
+					<div class="vigyapan">
+						<div class="title">ADVERTISE WITH US</div>
+						<ul class="innerVigyapan">
+							<li><a href="http://www.instablogs.com/ad_solutions.php">Advertise with us</a></li><li><a href="/contact-us/">Contact Us</a></li><li><a href="/archives/">Archives</a></li>
+						</ul>
+					</div>
+					
+					<div class="footLogo">
+						<b>Gizmowatch</b><span>© 2010 Instamedia Pvt. Ltd.</span><span>All rights reserved</span>
+					</div>				
+				</div>
+				<div class="footRight clearfix">
+					<div class="mainScrollDiv">					
+						<div class="jcarousel-skin-ie7" id="mycarousel">
+							<ul>
+								<li>
+									<a title="Top five flying cars and the technology behind them" href="http://www.gizmowatch.com/entry/top-flying-cars-technology/" excerpt="
+When it comes to cars, the human imagination has always gone beyond the ordinary and conventional. The future of transportation has moved much above the ground level literally, welcome to the new generation cars that are capable of flying. What once was a dream of many has finally become a reality; human beings can imagine themselves flying a car in the future. This idea of flying car that was merely restricted to cartoons and animated films is now steadily taking form of reality. Flying car is capable of flying as well as running on road; it is a roadable aircraft. The two modes can be operated manually as well as automatically, these cars might be a little out of budget for many, but the idea of flying car is priceless and very exciting. Thus, to floor the few already excited flying car buffs, we have listed bellow the five best flying cars closest to becoming real, and the technology behind them. 
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/24/best_five_flying_cars_hfrck_100x75.jpg"></a>	
+								</li><li>
+									<a title="Supercool steampunk weapons from one era for another" href="http://www.gizmowatch.com/entry/10-supercool-steampunk-weapons-era/" excerpt="Steampunk - a genre that has almost transcended to a lifestyle; a vivacious vision that takes us to that bygone era of copper studded machinery and steam powered contraptions; a Victorian age that was never to end with the intricacy of venerable gadgets, fantastic clothing and an adventure chocked atmosphere. Now, we get to savor the very essence of this fascinating epoch only by the dedication and interest of some fervent enthusiasts. So, paying our heartfelt respect to them, let us celebrate the 10 most Supercool Steampunk weapons that has found their way from that intriguing era to our modern one.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/10/19/steampunk_revolver_o6lj4_100x75.jpg"></a>	
+								</li><li>
+									<a title="The disk wars: Solid State Drives vs. Hard Disk Drives" href="http://www.gizmowatch.com/entry/disk-wars-solid-state-drives-hard-disk-drives/" excerpt="
+The Challenge 
+There are two types of compact disks in use these days; the advanced Solid-State Drives (SSDs) and the traditional Hard Disk Drives (HDDs). Being the most perceptible difference, the former one is generally used as an external storage option. You can connect the drive with a computer or laptop using a USB cable. Meanwhile, the second one often comes fixed with a computer or laptop. HDD is frequently a part of the computer&amp;rsquo;s hardware. However, it can also used as an external drive connecting with a USB cable. And SSDs have started to appear within the modern laptops and netbooks also. 
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/08/04/ssds_vs_hdds_mwoog_100x75.jpg"></a>	
+								</li><li>
+									<a title="Tablet war unfolds: Galaxy Tab 10.1 takes on the iPad 2" href="http://www.gizmowatch.com/entry/tablet-war-unfolds-galaxy-tab-101-takes-ipad-2/" excerpt="
+Tablets may have started out as a novel line of products that just banked on portability as its advantageous feature. When, Microsoft brought this  #8216;tablet PC #8217; concept, it got commercially shot down mainly because of the relatively high cost and more importantly lack of proper functionality. But fast forwarding to April, 2010 - this tablet domain got a fresh lease of life, when Apple released their acclaimed iPad. And now in the present scenario tablets have technologically evolved than just being considered as bantam cousins of laptops.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/08/02/galaxy_tab_101_vs_ipad_2_xg49c_100x75.jpg"></a>	
+								</li><li>
+									<a title="High-tech, cool-looking purses for geeky girls out there" href="http://www.gizmowatch.com/entry/high-tech-cool-purses-geeky-girls/" excerpt="
+Purses are an integral part of a woman #8217;s life, whether one has to go out shopping, party, or daily office, a true lady cannot step out of the home without taking her purse along, since her purse is the treasure trove of all the essentials, be it the house keys, the much needed cell phone, or lipstick that she always needs. But sometimes amidst of all the chaos, you may forget to keep things in your purse or your phone may run out of battery. To deal with such situations, all that you need is a high-tech purse which can tackle all crisis. Following is the list of high-tech purses that are multipurpose and good for that geeky girl in you to flaunt.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/23/high_tech_purse_c3ysc_100x75.jpg"></a>	
+								</li><li>
+									<a title="Reasons why you should be waiting for iPad 3 frantically" href="http://www.gizmowatch.com/entry/reasons-waiting-ipad-3-frantically/" excerpt="
+Apple iPad 3 has been in rumors for a while. The third version of Apple&amp;rsquo;s tablet PC is anticipated to hit the stores by this fall or early next year. As of now the tech world continues to speculate over the possible features of the new iPad 3. Many think that, since iPad 3 is to become the second iPad upgrade this year, there will be an &amp;lsquo;iPad 2 Plus&amp;rsquo; with little modifications in hardware and tech specs; and not an iPad 3 this fall.   
+As it is with every new Apple product, we can predict nothing about the release date, features and tech specs of the device until it is exposed by the company. Apple&amp;rsquo;s tough privacy policy often makes it difficult for analysts to have an idea on its forthcoming products. However, rumor mills frequently surface what they think a product upgrade from the Cupertino-firm will feature. Regarding Apple iPad 3, many speculations are so far in the fray. It will be pretty interesting to go through whatever new features are expected to appear on iPad 3. 
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/08/01/ipad_3_6ivlh_100x75.jpg"></a>	
+								</li><li>
+									<a title="Things to expect in the Android 3.2, set to debut in a tablet near you" href="http://www.gizmowatch.com/entry/expect-android-32-set-debut-tablet/" excerpt="
+Google has just announced the arrival of a  revolutionary update for its tablet-customized mobile OS, Android 3.2  Honeycomb. The new Android Honeycomb will be up with special features  for tablets with multiple display sizes. Support of Qualcomm processors  and extended display support API are some other hyped-up features of the  new Honeycomb update. The software is compatible with all types of  tablets from the existing 7-inch to 10.1-inch display models and others.  Some of the much-touted features of Android 3.2 Honeycomb are listed  below. 
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/22/android_32_d49j4_100x75.jpg"></a>	
+								</li><li>
+									<a title="All you need to know about the much expected HTC EVO 3D" href="http://www.gizmowatch.com/entry/expected-htc-evo-3d/" excerpt="
+Overview
+HTC EVO 3D is one of key 3-dimensional smart phones in the market today. It is the second stunning product from the alliance of the Taiwanese technology firm and Sprint Nextel. Last year, EVO 4G, the first ever 4G Smartphone of the U.S. floated by the same team, turned out to be a super hit product for both HTC and Sprint. HTC EVO 4G is now getting a well-deserved successor, of course, an incredible 3D Smartphone. The Android 2.3 Gingerbread-powered HTC EVO 3D raises competition with the leading 3D smart phones, including LG Thrill 4G.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/22/htc_evo_3d_vhp1f_100x75.jpg"></a>	
+								</li><li>
+									<a title="3D on smartphones, the good, the bad and future beyond" href="http://www.gizmowatch.com/entry/3d-smartphones-good-bad-future/" excerpt="
+Your 3D experience is not only limited to just the movies and your television screens, as more and more mobile phones and tablets equipped with 3D screens are entering the scene to enhance your 3D experience and to take entertainment to a greater level. When it comes to 3D on mobile phones, it simply means that your smartphone will allow you to enjoy your movies and videos in 3D. However, this feature is restricted only to games, movies, 3D videos and clicking pictures as of now. A good thing is that you need not put on those 3D glasses to enjoy the 3D content on your 3D phone.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/25/3d_smartphone_qxbys_100x75.jpg"></a>	
+								</li><li>
+									<a title="LEGO Bumblebee: Magical transformer crafted to perfection!" href="http://www.gizmowatch.com/entry/lego-bumblebee-magical-transformer-crafted-perfection/" excerpt="
+Love the Transformers series? If you do, then this should have you either gaping your mouth wide open in sheer admiration or jumping up and down with joy as it offers brilliant inspiration. For us though it is the former as we probably would never be able to create anything of this perfection in LEGO for a long time to come. But despite our own clumsiness with the beautiful building blocks, we are simple floored by this LRGO Bumblebee from Wes Pitter.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/23/lego_bumblebee_transformer_fuxcv_100x75.jpg"></a>	
+								</li><li>
+									<a title="11 reasons why Windows Phone 7 is better than Google Android" href="http://www.gizmowatch.com/entry/11-reasons-window-phone-7-google-android/" excerpt="
+Windows Phone 7 or WP7 is the Microsoft&amp;rsquo;s latest operating system for smartphones and tablets. Microsoft has rolled out a host of smartphones and tablets on the platform. In its battle against Apple iOS and Google Android, the Redwood-based software giant has been offering too many innovative features on WP7 from its previous versions. Apple iOS and Google Android may be leading the technology world. However, being a product from Microsoft, the developer of the world&amp;rsquo;s most used computer OS Windows, WP7 will certainly have some magic features. In this article, some factors that will make Windows Phone 7 outdo Google Android OS are elaborated.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/25/why_window_phone_7_velvc_100x75.jpg"></a>	
+								</li><li>
+									<a title="5 things we love and 5 things we hate about Toshiba Thrive Android tablet" href="http://www.gizmowatch.com/entry/5-love-5-hate-toshiba-thrive-android-tablet/" excerpt="
+Thrive is Toshiba #8217;s latest entrant into the tablet PC market which is already choc-a-bloc with heavyweights like the iPad and the array of Android devices. The tablet is rather heavy in comparison to its peers with 1.6 pounds weight, but its 8GB variant is available for pre-order at $429. In order to carve a niche for itself in the market, Toshiba needed its tablet to stand out from the rest in some aspects and it has done it admirably well by providing added convenience of connectivity. The device has full-sized HDMI, USB, and SD ports and if you are someone who makes extensive use of those features, Thrive is definitely the one for you. Other specifications include Honeycomb 3.1 Android OS, 10.1 #8243; backlit HD LED screen supporting multi-touch, an NVIDIA Tegra 2 dual-core processor (1Ghz), 2 MP front and 5 MP rear facing camera with autofocus. We have analyzed and found some good and bad things about the new Toshiba Thrive which are listed below.
+"><img width="100px" height="75px" src="http://www.instablogsimages.com/1/2011/07/25/toshiba_thrive_android_tablet_hxo7u_100x75.jpg"></a>	
+								</li>
+							</ul> 									
+						</div>	
+						
+						<div class="clear" id="scrollDivContent"></div>
+					</div>
+					<div class="popularStories">
+						<div class="title">Next Stories</div>					
+						<ul class="popList">
+							
+								<li class="li"><a title="Permalink: How they compare: Kindle Fire vs. Nook Tablet" href="popularStory/link">How they compare: Kindle Fire vs. Nook Tablet</a></li>
+													
+							
+								<li class="li"><a title="Permalink: Digital Cameras: Best of 2011" href="popularStory/link">Digital Cameras: Best of 2011</a></li>
+													
+							
+								<li class="li"><a title="Permalink: 10 Unusual video game console mods to compliment your..." href="popularStory/link">10 Unusual video game console mods to compliment your...</a></li>
+													
+							
+								<li class="li"><a title="Permalink: Laptops and Netbooks: Best of 2011" href="popularStory/link">Laptops and Netbooks: Best of 2011</a></li>
+													
+							
+								<li class="li"><a title="Permalink: Mercedes SLS AMG Scale Replica slash Flash Drive: sure..." href="popularStory/link">Mercedes SLS AMG Scale Replica slash Flash Drive: sure...</a></li>
+													
+							
+								<li class="li"><a title="Permalink: The different professions of an iPad" href="popularStory/link">The different professions of an iPad</a></li>
+													
+							
+								<li class="li"><a title="Permalink: Comparing specs: Amazon Kindle Fire vs. Apple iPad 2" href="popularStory/link">Comparing specs: Amazon Kindle Fire vs. Apple iPad 2</a></li>
+													
+							
+								<li class="li"><a title="Permalink: Preview: Kyobo ebook reader with Qualcomm mirasol..." href="popularStory/link">Preview: Kyobo ebook reader with Qualcomm mirasol...</a></li>
+													
+							
+								<li class="li"><a title="Permalink: iStation: An iPad docking system with retro vibe and..." href="popularStory/link">iStation: An iPad docking system with retro vibe and...</a></li>
+													
+							
+								
+								<li><a title="Permalink: Supercool steampunk weapons from one era for another" href="http://www.gizmowatch.com/entry/10-supercool-steampunk-weapons-era/">Supercool steampunk weapons from one era for another</a></li>					
+													
+						</ul>					
+					</div>
+					<div class="latestGalInfo clearfix">
+						<div class="latestGal">
+							<div class="title">Latest galleries &amp; slideshows</div>
+							<div class="jcarousel-skin-ie72" id="mycarousel2">
+								<ul class="scrollGal clearfix">
+									<li>
+										<a title="Permalink: HTC EVO 3D Competitors" href="http://www.gizmowatch.com/slideshow/htc-evo-3d-competitors/"><img src="http://www.instablogsimages.com/1/2011/07/22/samsung_galaxy_s2_fjvh4_110x135.jpg"></a>
+										<span></span>
+										<a title="Permalink: HTC EVO 3D Competitors" href="http://www.gizmowatch.com/slideshow/htc-evo-3d-competitors/">HTC EVO 3D Competitors</a>
+									</li><li>
+										<a title="Permalink: Motorola Droid 3" href="http://www.gizmowatch.com/slideshow/motorola-droid-3/"><img src="http://www.instablogsimages.com/1/2011/07/15/samsung_galaxy_s_ii_fav1y_110x135.jpg"></a>
+										<span></span>
+										<a title="Permalink: Motorola Droid 3" href="http://www.gizmowatch.com/slideshow/motorola-droid-3/">Motorola Droid 3</a>
+									</li><li>
+										<a title="Permalink: dual core smartphone" href="http://www.gizmowatch.com/slideshow/dual-core-smartphone/"><img src="http://www.instablogsimages.com/images/2011/05/12/dual-core-poorbattery_16421_110x135.jpg"></a>
+										<span></span>
+										<a title="Permalink: dual core smartphone" href="http://www.gizmowatch.com/slideshow/dual-core-smartphone/">dual core smartphone</a>
+									</li><li>
+										<a title="Permalink: Asus Eee Pad Transformer Prime tablet" href="http://www.gizmowatch.com/asus-eee-pad-transformer-prime-tablet.html"><img src="http://www.instablogsimages.com/1/2011/12/03/asus_eee_pad_transformer_prime_tablet_gdrhk_110x135.jpg"></a>
+										<span></span>
+										<a title="Permalink: Asus Eee Pad Transformer Prime tablet" href="http://www.gizmowatch.com/asus-eee-pad-transformer-prime-tablet.html">Asus Eee Pad Transformer Prime tablet</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+						
+					</div> 
+				</div>
+				<div class="clear"></div>
+			</div> 
+			 
+		<!-- Instablogs Network Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-601944-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- End of Instablogs Network Google Analytics -->
+
+	<!-- Site Google Analytics -->
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', "UA-601944-5"]);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();	
+	</script>
+	<!-- End of Site Google Analytics -->
+<!-- Start of StatCounter Code for Instablogs network -->
+<script type="text/javascript">
+var sc_project=2497465; 
+var sc_invisible=1; 
+var sc_security="77633a20"; 
+var sc_https=1; 
+var sc_remove_link=1; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost +
+"statcounter.com/counter/counter_xhtml.js'></"+"script>");</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript><div class="statcounter"><img class="statcounter"
+src="https://c.statcounter.com/2497465/0/77633a20/1/"
+alt="vBulletin statistic" /></div></noscript>
+<!-- End of StatCounter Code for Instablogs network -->
+
+<!-- Start of StatCounter Code -->
 <script type="text/javascript">
 var sc_project=970674; 
 var sc_invisible=1; 
@@ -766,59 +745,28 @@ href="http://www.statcounter.com/myspace/"
 target="_blank"><img class="statcounter"
 src="http://c.statcounter.com/970674/0/a74d242b/1/"
 alt="myspace analytics" ></a></div></noscript>
-<!-- End of StatCounter Code -->
-<!-- Start of StatCounter Code Instablogs Network -->
-<script type="text/javascript">
-var sc_project=2497465; 
-var sc_invisible=1; 
-var sc_partition=66; 
-var sc_click_stat=1; 
-var sc_security="77633a20"; 
-</script>
-
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="web stats"
-href="http://www.statcounter.com/free_web_stats.html"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/2497465/0/77633a20/1/"
-alt="web stats" ></a></div></noscript>
-<!-- End of StatCounter Code -->
-
-	<!-- Site Google Analytics -->
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-601944-5");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
-	<!-- End of Site Google Analytics -->
-
-
-	<!-- Channel Google Analytics -->
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-5515876-22");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
-	<!-- End of Channel Google Analytics -->
-
-<!-- Instablogs Network Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-601944-10");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- End of Instablogs Network Google Analytics -->
+<!-- End of StatCounter Code -->		</div>		
+	</div>	
+	<div class="footLinks clearfix">				
+		<a href="/privacy-policy/" class="link">Privacy Policy |</a>
+		<a href="/terms-of-use/" class="link">Terms of use</a>
+		<span>A part of Instamedia network | Powered by <a href="http://www.instamedia.com/">Instapress</a></span>
+		<div><script type="text/javascript" src="http://s.skimresources.com/js/2417X761145.skimlinks.js"></script></div>
+		<div>
+			<script type="text/javascript" language="JavaScript">
+				glam_affiliate_id = '318102576';
+				glam_logo_type = 'GLiving';
+				glam_logo_size = '160x24';
+				color_or_grayscale_flag ='';
+				glam_logo_color = 'wht';
+				glam_gs_logo_color = 'wht';
+				glam_logo_country = 'US';
+			</script>
+			<script src="http://www8.glam.com/js/widgets/glam_logo.js"></script>
+		</div>
+		
+	</div>
+				
+		</div>
 	
 </body></html>
