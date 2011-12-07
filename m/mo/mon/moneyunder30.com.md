@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moneyunder30.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515052152id_/http%3A//www.moneyunder30.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyunder30.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207154501id_/http%3A//www.moneyunder30.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_Last Update: May 1, 2008_
+_Last Update: Oct. 5, 2011_
 
 Money Under 30 is committed to protecting the privacy of your personal information.
 
