@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crookedtongues.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515052445id_/http%3A//www.crookedtongues.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crookedtongues.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207055920id_/http%3A//www.crookedtongues.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ In order to access the full Community side of the site, users must register firs
 
 In addition to the above uses of information, Crooked Tongues Ltd also utilises information acquired via its website to help understand how the site/services are used thus allowing it to identify possible improvements etc.
 
-Various statistics and information relating to the site such as ‘average time spent on site’ etc are collected on a regular basis and these may occasionally be communicated to selected business partners. In such an event, it should be noted that the information is presented in an 'aggregate' format whereby no personal customer information is presented thus preventing individual customer identification. In short, Crooked Tongues Ltd will never provide your personal customer information to any outside parties, without your prior, confirmed consent.
+Various statistics and information relating to the site such as ‘average time spent on site’ etc are collected on a regular basis and these may occasionally be communicated to selected business partners. In such an event, it should be noted that the information is presented in an 'aggregate' format whereby no personal customer information is presented thus preventing individual customer identification. In short, Crooked Tongues Ltd will never provide your personal customer information to any outside parties, without your prior, confirmed consent, except to third party service providers engaged by us to help operate our business effectively.
 
 Finally, we do not collect any personal data that is deemed as ‘sensitive’ e.g. medical condition; racial or ethnic origin; political origins; religious or philosophical beliefs or sexual preferences. Similarly, we do not also collect information from children – current legislation determines that individuals under the age of 13 cannot register with our site.
 
@@ -33,6 +33,14 @@ With the exception of the online shop, to avoid the cookies system being used, d
 We will never share, sell or rent individual personal information to any third parties without your permission or unless ordered by a court of law.
 
 We do, from time to time, share aggregate information with selected business partners. As explained, this data does not contain personally identifiable information and instead serves to provide general information e.g. effectiveness of the various elements of the site.
+
+**INFORMATION WE COLLECT**
+
+In operating our website we may collect and process the following data about you:
+
+Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
+
+Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase. (Please note that we have the ability to retain your contact details should you input them on our website using VeCapture by Ve Interactive, even if you do not complete your registration/transaction by clicking submit, login and checkout now or checkout now. Such contact details may be used to contact you to assist with your registration/transaction).
 
 **SUBMITTED IMAGES**
 
