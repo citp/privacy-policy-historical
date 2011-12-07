@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheltenham-festival.co.uk privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211102700id_/http%3A//www.cheltenham-festival.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheltenham-festival.co.uk privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207172739id_/http%3A//www.cheltenham-festival.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Cheltenham Festival About Us | Advertising | Privacy Policy
 
@@ -14,12 +14,12 @@ We reserve the right to change the terms of this Privacy Policy from time to tim
 
 Website Administration:  
 Business Name : Moneta Communications Ltd  
-Address : 102 Heys Road, Office One, Manchester  
-Post Code : M25 1LA  
+Address : 31 Sleaford Close, Office One, Bury  
+Post Code : BL8 1XF  
 Country : England  
 Website URL : http://www.cheltenham-festival.co.uk  
-Website email : webmaster@moneta-communications.com  
-Tel: 0161 772 0122
+Website email : info@betting-directory.com  
+Tel: 0161 797 1036
 
 Compliance with legislation:
 
@@ -86,4 +86,4 @@ Some information and e-mails sent to us may be used as testimonials but no e-mai
 
 ## Contacting Us
 
-If you have any questions or concerns about the information we hold about you, please feel free to [contact us](https://web.archive.org/web/20100211102700id_/http%3A//www.cheltenham-festival.co.uk/contact-us.php).
+If you have any questions or concerns about the information we hold about you, please feel free to [contact us](https://web.archive.org/web/20111207172739id_/http%3A//www.cheltenham-festival.co.uk/contact-us.php).
