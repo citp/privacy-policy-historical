@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the purestorage.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608142920id_/http%3A//www.purestorage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purestorage.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207201927id_/http%3A//www.purestorage.com/privacy) for the most accurate reproduction.*
 
 # Pure Storage | Privacy Policy
 
-Pure Storage, Inc. (" **Company** ") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.purestorage.com (" **Site** "), and Services (as defined in the Terms of Use). Capitalized terms not defined in this Privacy Policy have the meaning given in our Terms of Use located at [www.purestorage.com/terms](https://web.archive.org/web/20110608142920id_/http://www.purestorage.com/terms/). 
+Top of Page
+
+Pure Storage, Inc. (" **Company** ") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.purestorage.com (" **Site** "), and Services (as defined in the Terms of Use). Capitalized terms not defined in this Privacy Policy have the meaning given in our Terms of Use located at [www.purestorage.com/terms](https://web.archive.org/terms/).
 
   1. **USER CONSENT.** By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy.
   2. **A NOTE ABOUT CHILDREN.** We do not intentionally gather Personal Data about visitors who are under the age of 13. 
@@ -50,14 +52,14 @@ Pure Storage, Inc. (" **Company** ") is committed to protecting your privacy. We
 
 **(a) Choices.** We offer you choices regarding the collection, use, and sharing of your Personal Data. 
 
-> **(i)** We will periodically send you free newsletters and e-mails that directly promote the use of our Site or the purchase of our Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). 
-> 
-> **(ii)** Despite your indicated e-mail preferences, we may send you service-related communication, including notices of any updates to our Terms of Use or Privacy Policy. 
+**(i)** We will periodically send you free newsletters and e-mails that directly promote the use of our Site or the purchase of our Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). 
+
+**(ii)** Despite your indicated e-mail preferences, we may send you service-related communication, including notices of any updates to our Terms of Use or Privacy Policy. 
 
 **(b) Changes to Personal Data.** You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us at the e-mail address set forth below. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. 
 
   9. **SECURITY OF YOUR PERSONAL DATA.** Company is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. Despite these measures, you should know that Company cannot fully eliminate security risks associated with Personal Data and mistakes may happen. 
-  10. **CONTACT INFORMATION.** Company welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at support@purestorage.com or contact us at the following address or phone number: 
+  10. **CONTACT INFORMATION.** Company welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [support@purestorage.com](mailto:support@purestorage.com) or contact us at the following address or phone number: 
 
 Pure Storage, Inc.   
 Attn: Web Support   
