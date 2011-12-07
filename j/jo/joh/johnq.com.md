@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnq.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410050836id_/http%3A//www.johnq.com/landing/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnq.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207150835id_/http%3A//www.johnq.com/landing/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
