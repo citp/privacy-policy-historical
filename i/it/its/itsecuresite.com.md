@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsecuresite.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221110715id_/http%3A//www.itsecuresite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsecuresite.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207091651id_/http%3A//www.itsecuresite.com/privacy-policy) for the most accurate reproduction.*
 
 # IT Secure Site » Privacy Policy
 
@@ -22,6 +22,7 @@ Like many other Web sites, [www.itsecuresite.com](http://www.itsecuresite.com/) 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
+Google Affiliate Network  
 Chitika
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.itsecuresite.com](http://www.itsecuresite.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
