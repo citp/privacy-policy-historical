@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examiner.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609033925id_/http%3A//www.examiner.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207125553id_/http%3A//www.examiner.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Examiner.com
 
