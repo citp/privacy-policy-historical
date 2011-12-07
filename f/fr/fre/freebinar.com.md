@@ -1,15 +1,19 @@
-> *The following text is extracted and transformed from the freebinar.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216173513id_/http%3A//freebinar.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebinar.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207054050id_/http%3A//www.anymeeting.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Freebinar Webinar Service Privacy Policy - Free Webinar Services, Free Web Conferencing, Free Online Meetings
+# AnyMeeting Webinar Service Privacy Policy - Free Webinar Services, Free Web Conferencing, Free Online Meetings
 
 #### Privacy Policy
+
+AnyMeeting's ("AnyMeeting" or "we") Privacy Policy is designed to help you understand how we collect and use information on the AnyMeeting website (the "Site"). 
+
+**By registering on or visiting the Site, you are acknowledging and accepting this Privacy Policy.** We may from time-to-time revise this Privacy Policy, and the date of last revision will be available at the bottom of this page, so please be sure to check back periodically. **Your continued use of the Site after changes have been posted to the Privacy Policy will constitute your acceptance of such changes.**
 
 **What information do we collect?**   
 We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+When registering on our site you will be asked to enter your name and e-mail address, how you heard about us and what time zone you live in.  We may occasionally ask you for additional optional information to help us serve you better. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 **What do we use your information for?**   
 Any of the information we collect from you may be used in one of the following ways: 
@@ -18,27 +22,27 @@ Any of the information we collect from you may be used in one of the following w
   * To improve our website - (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * To improve customer service - (your information helps us to more effectively respond to your customer service requests and support needs)
   * To provide web conferencing services
-
-
-
-Your personally identifiable information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
   * To administer a contest, promotion, survey or other site feature
   * To send periodic emails
 
 
 
+Personally identifiable information is information that others can use to identify you, such as your name, address, email address, or phone number. When you register on and throughout your use of the Site you provide us with certain personally identifiable information including without limitation your name, address, zip code, email address, telephone number.
+
+Your personally identifiable information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the product or service requested.
+
 The email address you provide for your account may be used to send you information and updates pertaining to your account, in addition to receiving occasional company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**Do we use cookies?**   
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
+**Do we use cookies?**
+
+Yes. A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. When you visit the Site, We send one or more cookies to your computer that uniquely identifies your Internet browser. We use cookies to collect, store and sometimes track information for statistical purposes to improve the services we provide. If you are a registered user, we will use a cookie to save your settings and to provide customizable and personalized services. Advertisers and third parties may also use their own cookies over which we have no control. 
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
 We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
 
 **Do we disclose any information to outside parties?**   
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. The only time personally identifiable information will be transfered to a third partys is with your permission if you opt-in and agree to send it to them. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. The only time personally identifiable information will be transferred to a third party is with your permission if you opt-in and agree to send it to them. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. 
 
 We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -60,6 +64,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us**   
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-**[Click Here to Contact Us](http://www.freebinar.com/freebinar/Contact.aspx)**
+**[Click here to contact us](https://web.archive.org/Contact.aspx)**
 
-This policy was last modified on 02/04/2010
+This policy was last modified on 03/26/2011
