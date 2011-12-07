@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogflux.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522100539id_/http%3A//www.blogflux.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogflux.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207231027id_/http%3A//www.blogflux.com/privacy.php) for the most accurate reproduction.*
 
 # Flux Privacy Policy
 
@@ -8,7 +8,7 @@
 
 #### Information Automatically Logged
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. For the majority of the site, the IP is simply stored for security purposes, such as a DOS attack. Your IP is not used for any other purposes. Using our [MapStats service](http://mapstats.blogflux.com/), your IP is used to obtain a location point. This IP is not shared with anyone else nor is it used for any other purpose. 
+We use your IP address to help diagnose problems with our server and to administer our Web site. For the majority of the site, the IP is simply stored for security purposes, such as a DOS attack. Your IP is not used for any other purposes. 
 
 #### Advertisers
 
