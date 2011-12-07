@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the spoon.net privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223194208id_/http%3A//www.spoon.net/Resources/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spoon.net privacy policy that was archived on 2011-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111207035859id_/http%3A//www.spoon.net/Terms/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link href="../Global/Css/Common.css" rel="stylesheet" type="text/css"><link href="../Global/Css/Layout.css" rel="stylesheet" type="text/css"><link href="../Global/Css/Controls.css" rel="stylesheet" type="text/css"><link rel="SHORTCUT ICON" href="../favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script src="/Global/jquery/jquery.tools.min.js" type="text/javascript"></script><script src="/Global/jquery/jqueryNoConflict.js" type="text/javascript"></script><script type="text/javascript">var curvyCornersVerbose = false;</script><script src="/Global/Css/curvycorners.js" type="text/javascript"></script><link rel="SHORTCUT ICON" href="/favicon.ico"><link href="/Global/Css/Common.css" rel="stylesheet" type="text/css"><link href="/Global/Css/Layout.css" rel="stylesheet" type="text/css"><link href="/Global/Css/Controls.css" rel="stylesheet" type="text/css"><link href="/Global/jquery/jquery.tools.css" rel="stylesheet" type="text/css">
     <style type="text/css">
+
         #MenuContainer a:link
         {
             color: white;
@@ -25,87 +26,162 @@
         }
     </style>
     
-    <link href="../Global/Css/Product.css" rel="stylesheet" type="text/css">
-    <!-- todo: move this into tabs.css -->
+    <link href="/Global/Css/Product.css" rel="stylesheet" type="text/css">
+
+    <style type="text/css">
+        #productcontainer .PreBodyContentContainer
+        {
+            background-color: transparent;
+        }
+    </style>
+
+    <script language="javascript" type="text/javascript">
+        TabsMasterHeaderMenu_PlaceHolderId = "MainNav";
+        TabsMasterHeaderMenu_Selection = "home";
+    </script>
+    <script language="javascript" type="text/javascript" src="/Templates/Tabs2JQuery.master.js"></script>
+
     
-    <title>Privacy Policy</title>
 
 <title>
-
+	Privacy
 </title></head>
 <body>
-    <form name="aspnetForm" method="post" action="/Resources/Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCZg9kFgICAw9kFgYCBQ9kFghmDxYCHgdWaXNpYmxlaGQCAg8PFgIeBFRleHQFB1NpZ24gSW5kZAIEDxYCHwBoZAIFDw8WAh8AaGRkAgkPZBYCAgEPFgIeBWNsYXNzBQlUYWJBY3RpdmVkAg0PZBYGAgMPFgIfAGhkAgUPFgIfAGhkAgkPFgIfAGhkGAEFH2N0bDAwJGN0bDAwJGJvZHkkbWx0dmlld0NvbHVtbnMPD2RmZOvck67Wces+3kkrVIcj9lKfI+wi">
+    <form name="aspnetForm" method="post" action="default.aspx?p=Privacy" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA3ODA2ODkwNA9kFgJmD2QWAmYPZBYCAgMPZBYCAg8PZBYGAgEPFgIeB1Zpc2libGVoZAIDDxYCHwBoZAIJDxYCHwBoZGRBn7zQlU79cU7NIileDcZmBLqjdg==">
 
 <script language="javascript" type="text/javascript">Spoon_UnsupportedErrorPage='http://www.spoon.net/UnsupportedBrowser.aspx';</script><script language="javascript" type="text/javascript" src="http://start.spoon.net/api/?adv="></script>
-<script src="/ScriptResource.axd?d=j--EDIbxYwutrkXQ3cVTxb_13f4FcYN-O9aNtctFrtkhPsQHw_NN2JQu8u2sWE840&amp;t=ffffffffa63ba0b1" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+                        LoginModalDialog_IFrame_Load = function(iframe) {
+                            $jq.get('/manage/loginsandman.aspx', function(data) {
+                                if (data.toLowerCase() == 'true') {
+                                    Util.setCookie ('Spoon_LoginChanged', 'true');
+                                    window.location.reload(true);
+                                }
+                            });  
+                        };    
+
+                        ShowLoginModalDialog = function(renderView) {
+
+                            if (typeof(renderView) != "string") {
+                                renderView = "";
+                            } 
+
+                            var trigger = $jq("<div width='446px' height='358px'></div>");
+                            if($jq('#mockLoginModal').length == 0) {
+                                $jq('<div id="mockLoginModalWrapper"/>').appendTo('body');
+
+                                $jq('<div />', {
+                                    id:             'mockLoginModalClose',
+                                    'class':        'close',
+                                    'mouseover':    function() { $jq(this).addClass('hover') },
+                                    'mouseout':     function() { $jq(this).removeClass('hover') }
+                                }).appendTo('#mockLoginModalWrapper');
+                                $jq('<iframe />', {
+                                    id:     'mockLoginModal',
+                                    frameborder: '0',
+                                    width:  '446px',
+                                    height: '358px',
+                                    src:    "/Manage/LoginSimple.aspx?renderView=" + renderView + "&w=446&h=358",
+                                    scrolling: 'auto',
+                                    'load': function() { LoginModalDialog_IFrame_Load(this); }
+                                }).appendTo('#mockLoginModalWrapper');
+                                $jq('#mockLoginModal').css('border', 'none');
+                            }
+                            var myWidth = 0, myHeight = 0;
+                            if( typeof( window.innerWidth ) == 'number' ) {
+                                //Non-IE
+                                myWidth = window.innerWidth;
+                                myHeight = window.innerHeight;
+                            } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+                                //IE 6+ in 'standards compliant mode'
+                                myWidth = document.documentElement.clientWidth;
+                                myHeight = document.documentElement.clientHeight;
+                            } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+                                //IE 4 compatible
+                                myWidth = document.body.clientWidth;
+                                myHeight = document.body.clientHeight;
+                            }
+
+                            $jq('#mockLoginModalWrapper').css('display', 'block'); //Safari bug
+                            var overlaytop = myHeight / 2 - parseInt($jq('#mockLoginModalWrapper').css('height')) / 2;
+                            var overlayleft = myWidth / 2 - parseInt($jq('#mockLoginModalWrapper').css('width')) / 2 - 8;
+                            $jq('#mockLoginModalWrapper').css('display', 'none');
+                            
+                            trigger.overlay({
+                                mask: {
+                                    color: '#CCCCCC',
+                                    loadSpeed: 200,
+                                    opacity: 0.5
+                                },
+                                target: '#mockLoginModalWrapper',
+                                fixed: false,
+                                closeOnClick: false,
+                                top: overlaytop,
+                                left: overlayleft
+                            });
+                            
+
+                            trigger.data('overlay').load(); 
+                        };         
+                    //]]>
+</script>
+
+<script src="/ScriptResource.axd?d=IPYWx3nWKHvCw5seNXpGBvQ92cZqsKrZx5vixmn42N_QmEQd4iK3oeMORoNL_f790&amp;t=ffffffffa63ba0b1" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=h5ubJZ6-9dAwbxmYxECUToJCSM4mpidY6-GRgpuUNlzhbX2KBR16_-H3FvcquvRk0&amp;t=ffffffffe6b6bf75" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=h5ubJZ6-9dAwbxmYxECUTnX5zOck4OAF_0ccdXvrpZerY6B66iF4b7eevVSQjKtru9ybqr2KEJAmEoKt8L2xzw2&amp;t=ffffffffe6b6bf75" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=h5ubJZ6-9dAwbxmYxECUTiAVSviE9uyC-WlzlZ74Gwpsr2ARjrYiLUgZ8lIVKq5rx6aWX02kVsM8O9c6K687Hw2&amp;t=ffffffffe6b6bf75" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=h5ubJZ6-9dAwbxmYxECUTgV8Lq73DMCaHw3FZAmWSgraALEFUkpTkQUbMQJmXSbUN5tiyLzqjkLonACbnhWO9Q2&amp;t=ffffffffe6b6bf75" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=h5ubJZ6-9dAwbxmYxECUTiAVSviE9uyC-WlzlZ74Gwq5il8orRhHPlyA7f9RASLPNFTf8mFHdn7OsPchIQ5A1Q2&amp;t=ffffffffe6b6bf75" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=h5ubJZ6-9dAwbxmYxECUTqGY_sTmE0PM9GzvTWs7krKfCFnSrJmXyvLsJacgTyBRNWM-BZeE81Of-aqBJOKxTw2&amp;t=ffffffffe6b6bf75" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=h5ubJZ6-9dAwbxmYxECUTpSFVrR8iR7PozVq4DdXE2XW8KmmDBbux-iGfMXJhsI7wOzPJ6IC8KRYdodB-El-jA2&amp;t=ffffffffe6b6bf75" type="text/javascript"></script>
     
     <!-- Start Spoon banner -->
-    <div style="margin-left: auto; margin-right: auto; width: 100%;">
+    <div style="margin-left: auto; margin-right: auto; width: 100%; height: 100%;">
         <div id="BannerContainer">
             <div id="BannerContent">
-                <div id="Logo">
-                    <a href="/"><img src="../Global/Images/Banner-Logo.png" alt="Spoon" border="0"></a>
-                </div>
-                <div id="ctl00_ctl00_pnlSearch">
-	
-                    <div id="Search">
+                <a href="/">
+                    <div id="Logo">
+                    </div>
+                </a>
+                <div style="float: right; width: 60px; height: 30px;">
+                    <div id="AcctButton">
                         
 
-<div id="SearchBox">
-    <input name="ctl00$ctl00$SearchBox1$txtQuery" type="text" id="ctl00_ctl00_SearchBox1_txtQuery" class="SearchBoxText">
-    <input type="submit" name="ctl00$ctl00$SearchBox1$btnSubmit" value="Go" id="ctl00_ctl00_SearchBox1_btnSubmit" style="visibility:hidden;"> <!-- need a button to get the default submission. don't want to display it today so just hide it -->
-    
-</div>
+<script type="text/javascript">
+    BannerAcctButton_PlaceHolderId = 'ctl00_ctl00_btnAcctButton';
+    BannerAcctButton_FriendlyName = '';
+    BannerAcctButton_UserName = '';
+    BannerAcctButton_LogoutId = 'ctl00_ctl00_btnAcctButton_btnLogout';
+    BannerAcctButton_ManageSpoonProductsId = 'ctl00_ctl00_btnAcctButton_btnManageSpoonProducts';
+    BannerAcctButton_AccountSettingsId = 'ctl00_ctl00_btnAcctButton_btnAccountSettings';
+    BannerAcctButton_BillingInfoId = 'ctl00_ctl00_btnAcctButton_btnBillingInfo';
+    BannerAcctButton_VendorReportDataSource = [];
+    BannerAcctButton_GodMode = false;
+</script>
+<script type="text/javascript" src="/Controls/BannerAcctButtonJQuery.js"></script>
 
-                    </div>
-                    <div id="SearchButton">
-                        <input type="submit" name="ctl00$ctl00$btnSearch" value="Search" id="ctl00_ctl00_btnSearch">
-                    </div>
-                
-</div>
-                <div id="AcctButton">
-                    <b><a id="ctl00_ctl00_btnAcctButton_btnAcct" href="javascript:__doPostBack('ctl00$ctl00$btnAcctButton$btnAcct','')">Sign In</a></b>
+<input type="submit" name="ctl00$ctl00$btnAcctButton$btnLogout" value="" id="ctl00_ctl00_btnAcctButton_btnLogout" style="display: none;">
+<input type="submit" name="ctl00$ctl00$btnAcctButton$btnManageSpoonProducts" value="" id="ctl00_ctl00_btnAcctButton_btnManageSpoonProducts" style="display: none;">
+<input type="submit" name="ctl00$ctl00$btnAcctButton$btnAccountSettings" value="" id="ctl00_ctl00_btnAcctButton_btnAccountSettings" style="display: none;">
+<input type="submit" name="ctl00$ctl00$btnAcctButton$btnBillingInfo" value="" id="ctl00_ctl00_btnAcctButton_btnBillingInfo" style="display: none;">
 
+<div id="ctl00_ctl00_btnAcctButton" class="banneracctbutton-toolbar"></div>
+                    </div>
                 </div>
                 
-                
-            </div>
-            
     <div class="MainNavContainer">
-        <div class="MainNav">
-            <div class="TabContainer TabLeft"><div id="ctl00_ctl00_BasePostBanner_divTabHome" class="TabActive"><a href="/">Home</a></div></div>
-            <div class="TabContainer"><div id="ctl00_ctl00_BasePostBanner_divTabLatest" class="Tab"><a href="/Latest.aspx">Latest</a></div></div>
-            <div class="TabContainer"><div id="ctl00_ctl00_BasePostBanner_divTabApps" class="Tab"><a href="/Apps">App Library</a></div></div>
-            <div class="TabContainer"><div id="ctl00_ctl00_BasePostBanner_divTabGames" class="Tab"><a href="/Games">Games</a></div></div>
-            <div class="TabContainer" style="float:right;"><div id="ctl00_ctl00_BasePostBanner_divTabHelp" class="Tab" style="border-right:none;"><a href="/Help">Help</a></div></div>
-            <div class="TabContainer TabLeft" style="float:right;"><div id="ctl00_ctl00_BasePostBanner_divTabBusiness" class="Tab"><a href="/Server">Business Solutions</a></div></div>
-        </div>
+        <div class="MainNav" id="MainNav"><!-- to be populated later --></div>
+        <div class="Clear"></div>
     </div>
 
-        </div>
-        <div id="NoPluginWarningContainerPad" class="NoPluginWarningContainerPadHidden">
-            <div id="NoPluginWarningContainer">
-                <a href="#install" onclick="SpoonEntry.RedirectToInstaller(); return false;">
-                    <img alt="Install Spoon Plugin" src="/Global/Images/Install-Spoon-Plugin.png"></a>
-                <div id="NoPluginWarningText">
-                    To enjoy Spoon, you first need to <a href="#install" onclick="SpoonEntry.RedirectToInstaller(); return false;">
-                        install the Spoon plugin</a>!</div>
+                <div class="Clear">
+                </div>
             </div>
         </div>
+        
+        
         
     
     
@@ -113,272 +189,343 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <!-- End Spoon banner -->
         <!-- Start page content -->
         <div id="Container">
-            <div id="ContentContainerPad">
-                
-    <div id="ProductContainer">
-        <div id="BreadcrumbContainer">
             
-    <div class="Breadcrumb"><a href="/">Home</a>&nbsp;›&nbsp;Privacy</div>
+    <div id="BreadcrumbContainer">
+        <div id="ctl00_ctl00_containerprebody_Breadcrumb" class="Breadcrumb"></div>
+    </div>
 
-        </div>
-        <div id="SubNavContainer">
-            
-        </div>
+            <div id="ContentContainerPad">
+                <div id="ContentContainerInnerBody">
+                    
+    
+<h1>Terms of Service</h1>
+
+
+                </div>
+                <div id="ContentContainerBody">
+                    
+    <div id="ProductContainer">
         
-        <div id="ProductContentContainer">
-            <div id="MainProductContent">
+        
+        <div class="ProductContentContainer">
+            
+    <div class="wiki-content">
+<style type="text/css">
+    
+.wiki-content
+{
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: normal;
+    line-height: 1.5em;
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 20px;
+    width: 970px;
+}
+
+.wiki-content h1
+{
+font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+  font-size: 24pt;
+  font-weight: bold;
+  line-height: normal;
+  padding: 0;
+}
+
+.wiki-content h2
+{
+  font-size:20pt;
+}
+
+.wiki-content h3
+{
+  color: #404040;
+  font-size:15pt;
+  font-weight:bold;
+  margin-top: 28px;
+}
+
+.wiki-content h4
+{
+  color: #404040;
+  font-size: 10pt;
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.wiki-content .MajorFeatureDesc
+{
+  color: #666666;
+  font-family: Georgia, serif;
+  font-size: 13pt;
+  font-style: italic;
+  font-weight: normal;
+
+  line-height:1.3em;
+  margin-bottom:1em;
+}
+
+.wiki-content .MinorFeatureDesc
+{
+  color: #606060;
+  font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+}
+
+.wiki-content p
+{
+    color: #606060;
+    font-size: 13px;
+}
+
+.wiki-content table
+{
+    font-size: 13px;
+    border-collapse:collapse;
+    font-variant:normal;
+    line-height:normal;
+	font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+}
+
+.wiki-content .table-wrap
+{
+    padding-top:15px;
+}
+
+.wiki-content ul
+{
+  padding-left:0px;
+}
+
+.wiki-content ul li
+{
+  color: #606060;
+
+  background-image: url(http://www.spoon.net/Global/Images/Orange-Bullet.png);
+  background-position: 0px 8px;
+  background-repeat: no-repeat;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: none;
+  padding-left: 15px;
+}
+
+.wiki-content table.confluenceTable tbody tr td.confluenceTd
+{
+}
+
+
+.wiki-content table.confluenceTable tbody tr th.confluenceTh
+{
+}
+
+.wiki-content>*:first-child, .wiki-content>link+*, .wiki-content>style+*
+{
+  margin-top: 0px;
+  padding-top: 0px;
+  line-height: normal;
+}
+
+</style>
+
+<table class="sectionMacro" border="0" cellpadding="5" cellspacing="0" width="100%"><tbody><tr>
+	<td class="confluenceTd" valign="top" width="900px">
+
+<h1><a name="Privacy-PrivacyPolicy"></a>Privacy Policy</h1>
+
+<p><em>Last updated February 28, 2011</em></p>
+
+<p>We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to the Spoon.net web site and online services (“Web Site”) and to various other products and services collectively branded “Spoon” ("Services") produced, operated, and maintained by Code Systems Corporation d/b/a Spoon, Inc. (collectively “Spoon” or “we”, “us”, or “our”). We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to the Web Site, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.</p>
+
+<p>Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Web Site or through any Spoon products or services. It does not apply to information that you may submit to us offline, or to web sites maintained by other companies or organizations to which we may link.</p>
+
+<p><b>By visiting our Web Site or using our Services, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Web Site or Services. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Web Site and Services following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively, we will provide you with notice of the modifications or amendments. If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at support@spoon.net.</b></p>
+
+<p>From time to time, we add or change functions, features or products to our web sites or add or change Services.  This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy.  As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.</p>
+
+<h3><a name="Privacy-ControllersofPersonalInformation"></a>Controllers of Personal Information</h3>
+
+<p>Any personal information provided to or to be gathered by Spoon is controlled primarily by Spoon, Inc., 1000 Dexter Avenue, 5th Floor, Seattle, WA 98109.</p>
+
+<h3><a name="Privacy-Whatinformationaboutmeiscollectedandstored%3F"></a>What information about me is collected and stored?</h3>
+
+<p>Spoon adheres to the highest standards of ethical practices in all of our operations and is dedicated to protecting the privacy of all visitors to our Web Site. Our privacy policy is simple: Except as disclosed below, we don't sell, barter, give away, or rent your personal information to any company outside of Spoon.</p>
+
+<p>Spoon collects and processes information about you in order to:</p>
+
+<p>Identify you each time you visit a Web Site or wish to have a Service provided;<br>
+Handle orders, deliver products and services, process payments, communicate with you about orders, products, services, promotional offers, update our records and generally maintain your accounts with us;<br>
+Process and communicate with you about content you may submit to the Web Site, such as articles, product reviews, comments, photos, images, applications, virtual machine data and templates, and other content you may submit;<br>
+Improve our Services and Web Site;<br>
+Prevent fraud or detect abuse of our Web Site;<br>
+Customize your experience, for example, by providing advertisements that we think are relevant to you and which support any specific requests for information you may make through keyword searches;<br>
+Carry out research on the demographics, interests and behaviour of all of our customers;<br>
+Provide registration, usage, and analytical data to publishers of content on our Web Site and Services;<br>
+Send you information we think you may find useful, including information about new products and services.<br>
+You may be asked, either when you register with us, or at other times, for information about yourself, such as your name, email address, postal address, and telephone number, and demographic information such as your age, gender, and postal code.  You may also be asked to share with us your interests, hobbies and preferences. In addition, when you order certain goods or services from our Web Sites, we will need to know your credit/payment card number and expiration date or other information required to process payments.</p>
+
+<p>We also collect and store information that you enter into this Web Site, through registration of a Spoon product or service, or that you provide through our help desk, customer service representatives, or requests for more information. Registration may also be required and Personal Information may also be collected in certain portions of the Web Site in which you specifically and knowingly provide such information, e.g. community postings (i.e., chat or bulletin boards, blog comments, discussion posts, and public reviews, if any). We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database.</p>
+
+<p>You are under no obligation to provide this information, but if you don't then we may not be able to provide you with certain services or personalize your experience and tailor our Services for you.</p>
+
+<h3><a name="Privacy-LogFiles"></a>Log Files</h3>
+
+<p>When you visit our Web Sites, we automatically log your IP address (the unique address which identifies your computer on the internet) which is automatically recognized by our web servers, time and date of access, web page(s), software crash reports, type of browser and operating system used, session identification numbers, and referring web sites.  We use this information to help us administer our Web Sites and to collect broad demographic information for aggregate use.  We also log information related to specific actions you take on our Web Sites or Services, including search queries, application launches and shutdowns, changes to personal settings, and similar information.</p>
+
+<h3><a name="Privacy-NonPersonalInformation"></a>Non-Personal Information</h3>
+
+<p>We may automatically collect non-personal information about you such as the type of browser you use or the site from which you linked to our Web Sites.  You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites. We may from time to time supply the owners or operators of third party  sites from which it is possible to link to our Web Sites with information relating to the number of users linking to our Web Sites from their sites. You cannot be identified from this information.</p>
+
+<h3><a name="Privacy-UseofCookiesandSpyware"></a>Use of Cookies and Spyware</h3>
+
+<p>We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer.</p>
+
+<p>Like many Web Sites, we use “cookies”, which are small pieces of information that a Web Site transfers to your hard drive to store and sometimes track information about you.  Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that.  However, you may not be able to take full advantage of our Web Sites if you do so.  Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web.  Credit card information is not stored in cookies.</p>
+
+<p>We use cookies for the following reasons:</p>
+
+<p>To identify who you are and to access your account information;<br>
+To estimate our audience size and patterns;<br>
+To control how often visitors see similar ads;<br>
+To track preferences and to improve and update our Web Site; and<br>
+To track the progress and number of entries in some of our promotions and contests.<br>
+For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org.</p>
+
+<h3><a name="Privacy-Withwhomistheinformationshared%3F"></a>With whom is the information shared?</h3>
+
+<p>Spoon will not share, sell or rent your personal information to third parties.  However, we may disclose your personal information to third party suppliers who provide services on our behalf.  We may also disclose your personal information and activity log data related to usage of a specific application hosted on our Web Site or Service to the developer or publisher of that application.</p>
+
+<p>Spoon may disclose aggregate statistics about our sales, our Web Site visitors and customers of our telephone services in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will not include personally identifying information.</p>
+
+<p>Our Web Site contains links to the sites of third parties.  Please be advised that the practices described in this Privacy Policy for Spoon do not apply to information gathered through these other web sites. These other sites may also send their own cookies to you, collect your data or solicit your Personal Information. Always be aware of where you end up. We are not responsible for the actions and privacy policies of third parties and other Web Sites. We encourage you to be aware of when you leave this Web Site and read the privacy policies of each and every web site that you visit.</p>
+
+<h3><a name="Privacy-Isinformationcollectedfromchildren%3F"></a>Is information collected from children?</h3>
+
+<p>This is not a Web Site directed to children under the age of 13, and Spoon does not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age you should not use this Web Site, and under no circumstance should you send information about yourself to Spoon. If Spoon discovers that a child under the age of 13 has provided Spoon with personally identifiable information, Spoon will immediately delete that child’s information from the Web Site.</p>
+
+<h3><a name="Privacy-AdvertisingNetworks"></a>Advertising Networks</h3>
+
+<p>We use third-party advertising companies to serve ads when you visit our Web Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/" class="external-link" rel="nofollow">click here</a>.</p>
+
+<h3><a name="Privacy-EmergencySituations"></a>Emergency Situations</h3>
+
+<p>We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Web Site; (b) protect and defend the our rights or property, the Web Site or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Web Site or the public.</p>
+
+<h3><a name="Privacy-Informationaboutproductsandservices"></a>Information about products and services</h3>
+
+<p>It is very important to us that we provide you with the highest level of service.  In order to help us do this, from time to time Spoon or its Affiliates companies may send you details of our products and services which we think may be of interest to you.  If at any time you do not wish to receive these details, please contact us and request that you be unsubscribed from our mailing list.</p>
+
+<h3><a name="Privacy-Security"></a>Security</h3>
+
+<p>Spoon places a great importance on the security of all information associated with our customers. We have security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control.  For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized personnel have access to user information. With regard to our Web Sites, we use secure server software (SSL, RSA, and/or AES-256 encryption) to encrypt financial information you input before it is sent to us.  While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur, we use commercially reasonable efforts to prevent this.</p>
+
+<p>While we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.</p>
+
+<h3><a name="Privacy-YourObligationstoKeepYourAccessRightsSecure"></a>Your Obligations to Keep Your Access Rights Secure</h3>
+
+<p>You promise to: (a) provide true, accurate, current and complete information about yourself and your business as prompted by the Web Site's registration form (such information being the "Registration Data") and (b) maintain and promptly update the Registration Data to keep it true, accurate, current and complete. If you provide any information that is untrue, inaccurate, not current or incomplete, or Spoon has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, Spoon has the right to suspend or terminate your account and refuse any and all current or future use of the Web Site (or any portion thereof). You are entirely responsible for the security and confidentiality of your password, account, and client computer hardware and software operating environment. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to immediately notify us of any unauthorized use of your account or any other breach of security of which you become aware. You are responsible for taking precautions and providing security measures best suited for your situation and intended use of the Services and Web Site. Please note that anyone able to provide your personally identifiable information will be able access your account so you should take reasonable steps to protect this information.</p>
+
+<h3><a name="Privacy-WhatAboutContestsandSweepstakes%3F"></a>What About Contests and Sweepstakes?</h3>
+
+<p>When we run a contest or sweepstakes relating to this Web Site, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Privacy Policy. In conjunction you’re your entry in such contest or sweepstakes, Personal Information will be collected only if you voluntarily submit it to our sponsors or us.</p>
+
+<h3><a name="Privacy-PublicAreas%2CChatRoomsandNewsgroups"></a>Public Areas, Chat Rooms and Newsgroups</h3>
+
+<p>Please remember that any information you share in public areas, such as message boards or feedback sections, becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any Personal Information that you expect to keep private. We may offer a service that displays certain of your personal information in your profile page and elsewhere on the Web Site or in a shared product or service according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other Spoon users to know about you. We recommend that you guard your anonymity and sensitive information, and we encourage users to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.</p>
+
+<h3><a name="Privacy-GoverningLaw%2FAssignment"></a>Governing Law / Assignment</h3>
+
+<p>The Web Site is published in the United States. We make every effort to protect the personal identifiable information of all users the Web Site. We attempt to comply with local data protection and consumer rights laws to the extent they may apply to the Spoon services. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to Spoon.</p>
+
+<p>We may change its ownership or corporate organization while providing the Web Site and Services. As a result, please be aware that we may transfer your information to another Spoon that is affiliated with us or with which we have merged. Under such circumstances Spoon would to the extent possible require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time.</p>
+
+<h3><a name="Privacy-NoticetoEuropeanUsers"></a>Notice to European Users</h3>
+
+<p>If you are located within the European Union, you should be aware that your personal identifiable information will be transferred to the United States of America, the laws of which may be deemed by the European Union to have inadequate data protection. If you are located in a country outside the United States of America and voluntarily submit personal information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States of America.</p>
+
+<h3><a name="Privacy-ChangestoThisPolicy"></a>Changes to This Policy</h3>
+
+<p>We are committed to maintaining its position as a premier Web Site on the Internet. As our Web Site continues to develop, we may add new services and features to our Web Site. In the event that these additions affect our Privacy Policy, this document will be updated appropriately. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Policy each time you use our Web Site in case you missed our notice of changes to the Privacy Policy.</p>
+
+<h3><a name="Privacy-HowdoIoptoutorcorrectinformationaboutme%3F"></a>How do I opt-out or correct information about me?</h3>
+
+<p>You may always opt-out of receiving future email messages and newsletters from Spoon. We provide you with the opportunity to opt-out of receiving communications from us at the point where we request information about you. We also give you access to a broad range of information about your account to permit you to correct or update Personal Information that you have previously provided to us. To do so, you can send us a message at support@spoon.net.</p>
+
+<h3><a name="Privacy-YourCaliforniaPrivacyRights"></a>Your California Privacy Rights</h3>
+
+<p>California Civil Code Section 1798.83 permits customers of Spoon who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to support@spoon.net.</p>
+
+</td><td class="confluenceTd" valign="top"></td></tr></tbody></table>
+</div>
+
+            <div class="MainProductContent">
                 <div class="MainProductContentPad">
                     
-    <h1>
-        Privacy Policy</h1>
-    <div style="width: 650px;">
-        <p>
-            Spoon is committed to protecting your privacy when you use our online, telephone
-            or other services ("Services").&nbsp; In this policy we explain how and why we collect
-            your information, what we do with it and what controls you have over our use of
-            it.</p>
-        <p>
-            From time to time, we add or change functions, features or products to our web sites
-            or add or change Services.&nbsp; This, and our commitment to protecting the privacy
-            of your personal information, may result in periodic changes to this Privacy Policy.&nbsp;
-            As a result, please remember to refer back to this Privacy Policy regularly to review
-            any amendments.
-        </p>
-        <h2>
-            <strong>Your acceptance of these Privacy Statement terms</strong></h2>
-        <p>
-            By using any of the sites within our web site network ("Web Sites") or our Services,
-            you agree to be bound by this Privacy Policy.</p>
-        <h2>
-            <strong>What data do we collect and how do we use it?</strong></h2>
-        <p>
-            Spoon collects and processes information about you in order to:</p>
-        <ol>
-            <li>Identify you each time you visit a Web Site or wish to have a Service provided;
-            </li>
-            <li>Process orders or applications submitted by you</li>
-            <li>Improve our Services and Web Sites</li>
-            <li>Customize your experience, for example, by providing advertisements that we think
-                are relevant to you and which support any specific requests for information you
-                may make through keyword searches;</li>
-            <li>Carry out research on the demographics, interests and behaviour of all of our customers;
-                and</li>
-            <li>Send you information we think you may find useful, including information about new
-                products and services.</li>
-        </ol>
-        <p>
-            You may be asked, either when you register with us, or at other times, for information
-            about yourself, such as your name, e-mail address, postal address and telephone
-            number.&nbsp; You may also be asked to share with us your interests, hobbies and
-            preferences. In addition, when you order certain goods or services from our Web
-            Sites, we will need to know your credit/payment card number and expiration date.</p>
-        <p>
-            You are under no obligation to provide this information, but if you don't then we
-            may not be able to provide you with certain services or personalize your experience
-            and tailor our Services for you.</p>
-        <h2>
-            <strong>Log files</strong></h2>
-        <p>
-            When you visit our Web Sites, we automatically log your IP address (the unique address
-            which identifies your computer on the internet) which is automatically recognized
-            by our web servers.&nbsp; We use IP addresses to help us administer our Web Sites
-            and to collect broad demographic information for aggregate use.</p>
-        <h2>
-            <strong>Non-personal information</strong></h2>
-        <p>
-            We may automatically collect non-personal information about you such as the type
-            of Internet browser you use or the site from which you linked to our Web Sites.&nbsp;
-            You cannot be identified from this information and it is only used to assist us
-            in providing an effective service on our Web Sites. We may from time to time supply
-            the owners or operators of third party&nbsp; sites from which it is possible to
-            link to our Web Sites with information relating to the number of users linking to
-            our Web Sites from their sites. You cannot be identified from this information.</p>
-        <h2>
-            <strong>Use of cookies</strong></h2>
-        <p>
-            Cookies are pieces of information that a Web Site transfers to your hard drive to
-            store and sometimes track information about you.&nbsp; Most web browsers automatically
-            accept cookies, but if you prefer, you can change your browser to prevent that.&nbsp;
-            However, you may not be able to take full advantage of our Web Sites if you do so.&nbsp;
-            Cookies are specific to the server that created them and cannot be accessed by other
-            servers, which means they cannot be used to track your movements around the web.&nbsp;
-            Although they do identify a user's computer, cookies do not personally identify
-            customers or passwords.&nbsp; Credit card information is not stored in cookies.</p>
-        <p>
-            We use cookies for the following reasons:
-        </p>
-        <ol>
-            <li>To identify who you are and to access your account information;</li>
-            <li>To estimate our audience size and patterns;</li>
-            <li>To control how often visitors see similar ads;</li>
-            <li>To track preferences and to improve and update our Web Site; and</li>
-            <li>To track the progress and number of entries in some of our promotions and contests.&nbsp;
-                <br>
-            </li>
-        </ol>
-        <h2>
-            <strong>With whom is the information shared?</strong></h2>
-        <p>
-            Spoon will not share, sell or rent your personal information to third parties.&nbsp;
-            However, we may disclose your personal information to third party suppliers who
-            provide services on our behalf.</p>
-        <p>
-            Spoon may disclose aggregate statistics about our sales, our Web Site visitors
-            and customers of our telephone services in order to describe our services to prospective
-            partners, advertisers and other reputable third parties and for other lawful purposes,
-            but these statistics will not include personally identifying information.</p>
-        <p>
-            Spoon may disclose personal information if required to do so by law or if
-            it believes that such action is necessary to protect and defend the rights, property
-            or personal safety of company name and its Web Sites, visitors to the Web Sites
-            and customers of our Services.</p>
-        <p>
-            Our Web Site contains links to the sites of third parties.&nbsp; When you visit
-            these sites, we suggest that you read their privacy policies. Spoon is not
-            responsible for the privacy policies or the content of such sites.&nbsp;</p>
-        <p>
-            &nbsp;We will only sell or rent your personal information to a third party either
-            as part of a sale of the assets of a Spoon company or having ensured that
-            steps have been taken to ensure that your privacy rights continue to be protected.</p>
-        <h2>
-            <strong>Advertising networks</strong></h2>
-        <p>
-            We use third-party advertising companies to serve ads when you visit our website.
-            These companies may use information (not including your name, address, email address,
-            or telephone number) about your visits to this and other web sites in order to provide
-            advertisements about goods and services of interest to you. If you would like more
-            information about this practice and to know your choices about not having this information
-            used by these companies, <a href="http://www.networkadvertising.org/">click here</a>.</p>
-        <h2>
-            <strong>Information about products and services</strong></h2>
-        <p>
-            It is very important to us that we provide you with the highest level of service.&nbsp;
-            In order to help us do this, from time to time Spoon or its Affiliates companies
-            may send you details of our products and services which we think may be of interest
-            to you.&nbsp; If at any time you do not wish to receive these details, please contact
-            us and request that you be unsubscribed from our mailing list.</p>
-        <h2>
-            <strong>Security</strong></h2>
-        <p>
-            Spoon places a great importance on the security of all information associated
-            with our customers. We have security measures in place to attempt to protect against
-            the loss, misuse and alteration of customer data under our control.&nbsp; For example,
-            our security and privacy policies are periodically reviewed and enhanced as necessary
-            and only authorised personnel have access to user information. With regard to our
-            Web Sites, we use secure server software (SSL) to encrypt financial information
-            you input before it is sent to us.&nbsp; While we cannot ensure or guarantee that
-            loss, misuse or alteration of data will not occur, we use commercially reasonable
-            efforts to prevent this.</p>
-        <p>
-            &nbsp;</p>
-    </div>
-
+                    
                 </div>
             </div>
             
-        </div>
-    </div>
-    
-            <div id="LeftColumn">
-                
-                
-                <div id="LeftColumnBorder">
-                    <div id="LeftColumnContent">
-                        
-                        
-                    </div>
-                </div>
-            </div>
-        
-    <div id="MainColumn">
-        
-        
-        <div id="MainColumnContent">
-            
-            
+            <div class="Clear"></div>
         </div>
     </div>
     <div class="Clear">
     </div>
-    
-    
 
                 </div>
-            <div class="Clear">
             </div>
-            <div id="ContentFooterPad">
-                <div id="ContentFooter">
-                    <span class="ContentFooterItem"><b><a href="/About/Careers.aspx" style="color:orange;">We are hiring!</a></b></span>
-                    <span class="ContentFooterItem"><a href="/About">About Spoon</a></span>
-                    <span class="ContentFooterItem"><a href="http://blogs.spoon.net">Spoon Blog</a></span>
-                    <span class="ContentFooterItem"><a href="/Media">Media Resources</a></span>
-                    <span class="ContentFooterItem"><a href="/Submit">Submit App</a></span>
-                </div>
+            <div class="Clear">
             </div>
         </div>
         <!-- End page content -->
         <!-- Start footer -->
-        <div id="FooterContentContainer">
+        <div id="FooterContentContainer" style="left: 0px; top: 3906.88px; position: absolute; visibility: visible;">
             <div id="FooterContentPad">
-                <div id="FooterContent">
-                    <span class="LegalText">© 2010 Spoon &nbsp;·&nbsp; Patents Pending &nbsp;·&nbsp;
-                        <a href="/Resources/Privacy.aspx">Privacy Policy</a></span></div>
+                <div id="FooterContent" class="LegalText">
+                        <div class="LeftFooter">
+                            <div>
+                                <span>© 2011 Spoon &nbsp;·&nbsp; Patents Pending</span>
+                            </div>
+                        </div>
+                        <div class="RightFooter">
+                            <div>
+                                <span><a href="/About">About</a> &nbsp;·&nbsp;</span>
+                                <span><a href="/About/Careers">Jobs</a> &nbsp;·&nbsp;</span>
+                                <span><a href="/Media">Media</a> &nbsp;·&nbsp;</span>
+                                <span><a href="/Terms/Privacy">Privacy</a> &nbsp;·&nbsp;</span>
+                                <span><a href="/Submit">Submit App</a> &nbsp;·&nbsp;</span>
+                                <span><a href="/Terms">Terms</a></span>
+                            </div>
+                        </div>
+                    
+                </div>
             </div>
+            <!-- End footer -->
         </div>
-        <!-- End footer -->
     </div>
     
 
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(Sys.Extended.UI.AutoCompleteBehavior, {"completionInterval":200,"completionListCssClass":"SearchBoxCompletionList","completionListItemCssClass":"SearchBoxCompletionListItem","completionSetCount":4,"delimiterCharacters":"","highlightedItemCssClass":"SearchBoxCompletionListItemHighlighted","id":"ctl00_ctl00_SearchBox1_AutoCompleteExtender1","minimumPrefixLength":1,"serviceMethod":"GetCompletionList","servicePath":"/Search/AutoComplete.asmx"}, null, null, $get("ctl00_ctl00_SearchBox1_txtQuery"));
-});
 //]]>
 </script>
 </form>
     <!-- Start script -->
-
     <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
     <script type="text/javascript">
-        try
-        {
+        try {
             var pageTracker = _gat._getTracker("UA-51722-3");
             pageTracker._trackPageview();
         } catch (err) { }
     </script>
-
-    <script language="javascript" type="text/javascript">
-        if (typeof (Util) == "function" &&
-            typeof (Util.appendHandler) == "function" &&
-            typeof (SpoonApi) == "function" &&
-            typeof (SpoonApi.IsPluginInstalled) == "function" &&
-            typeof (SpoonApi.IsSupportedBrowser) == "function" &&
-            SpoonApi.IsSupportedBrowser())
-        {
-            Util.appendHandler(window, "onload",
-                function ()
-                {
-                    if (!SpoonApi.IsPluginInstalled(true))
-                    {
-                        if (typeof (SpoonApi.IsUpdateNeeded) == "function" && SpoonApi.IsUpdateNeeded())
-                        {
-                            var oDiv = document.getElementById("NoPluginWarningText");
-                            oDiv.innerHTML = "To enjoy Spoon, please <a href=\"#install\" onclick=\"SpoonEntry.RedirectToInstaller(); return false;\">upgrade</a> to the latest version of the Spoon plugin.";
-                        }
-
-                        var oDiv = document.getElementById("NoPluginWarningContainerPad");
-                        oDiv.className = "NoPluginWarningContainerPadVisible";
-                    }
-                });
-        }
-    </script>
-
+    <script language="javascript" type="text/javascript" src="/Templates/Base.master.js"></script>
+    <script language="javascript" type="text/javascript" src="/Global/Scripts/jqueryDropDown.js"></script>
+    <script language="javascript" type="text/javascript" src="/Global/Scripts/Utils.js"></script>
     <!-- End script -->
 
 
