@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boldride.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524125842id_/http%3A//boldride.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldride.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207121203id_/http%3A//www.boldride.com/privacy-policy) for the most accurate reproduction.*
 
-# BoldRide.com :: Privacy Policy
+# Privacy Policy
 
   
 
