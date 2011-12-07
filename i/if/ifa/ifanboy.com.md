@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606183539id_/http%3A//www.ifanboy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifanboy.com privacy policy that was archived on 2011-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111207230714id_/http%3A//ifanboy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-  
-
-
-iFanboy.com takes your privacy seriously. Very seriously. Like in a "whoa! you're privacy is showing!" kind of seriousness. Please read the following to learn more about our privacy policy. Provide your own interpretive dance.
+iFanboy.com takes your privacy seriously. Very seriously. Like in a “whoa! you’re privacy is showing!” kind of seriousness. Please read the following to learn more about our privacy policy. Provide your own interpretive dance.
 
 **What this Privacy Policy Covers**
 
-This Privacy Policy covers iFanboy.com's treatment of personally identifiable information that iFanboy.com collects when you are on the iFanboy.com site, when you register for an account, and when you use iFanboy.com's services. This policy also covers iFanboy.com's treatment of any personally identifiable information that iFanboy.com's business partners share with iFanboy.com.
+This Privacy Policy covers iFanboy.com’s treatment of personally identifiable information that iFanboy.com collects when you are on the iFanboy.com site, when you register for an account, and when you use iFanboy.com’s services. This policy also covers iFanboy.com’s treatment of any personally identifiable information that iFanboy.com’s business partners share with iFanboy.com.
 
 This policy does not apply to the practices of companies that iFanboy.com does not own or control, or to people that iFanboy.com does not employ or manage, or to anything that conspiracy theorists may accuse us of. They can put their tinfoil hats on and stop bothering us. (Although, we know who you are)
 
@@ -21,19 +18,19 @@ Once you register with iFanboy.com, sign in to our services, and use the website
 
 **Information Sharing and Disclosure**
 
-iFanboy.com will not sell or rent your information to anyone unless we find that your actions on our web sites violate the iFanboy.com Terms of Service, or any of our usage guidelines for specific products or services. Then we will essentially write your name and phone number on the equivalent of the internet bathroom wall. OK. We won't. iFanboy doesn't share any personally identifiable info with anyone. We do use your info in aggregate to sell advertising and make decisions about partner offers and such. You will never be able to trace spam, junk mail, or telemarketing calls back to us. That's how we roll. Word.
+iFanboy.com will not sell or rent your information to anyone unless we find that your actions on our web sites violate the iFanboy.com Terms of Service, or any of our usage guidelines for specific products or services. Then we will essentially write your name and phone number on the equivalent of the internet bathroom wall. OK. We won’t. iFanboy doesn’t share any personally identifiable info with anyone. We do use your info in aggregate to sell advertising and make decisions about partner offers and such. You will never be able to trace spam, junk mail, or telemarketing calls back to us. That’s how we roll. Word.
 
 **Cookies**
 
-iFanboy.com sets cookies on your computer. We have to. iFanboy uses these cookies to keep you logged in to the site and allow you easier access to feaures on the site. Feel free to clear them as you need to, or even to deny the site the ability to set cookies for you. Don't complain when the site doesn't function properly, though. It's the internet. Cookies are part of how its done.
+iFanboy.com sets cookies on your computer. We have to. iFanboy uses these cookies to keep you logged in to the site and allow you easier access to feaures on the site. Feel free to clear them as you need to, or even to deny the site the ability to set cookies for you. Don’t complain when the site doesn’t function properly, though. It’s the internet. Cookies are part of how its done.
 
-iFanboy.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one.
+iFanboy.com allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not this one.
 
 **Consent**
 
 iFanboy makes reasonable efforts to ensure that members understand how their personal information will be used. iFanboy obtains the consent of individuals as required for the collection, use or disclosure of personal information, except in those limited cases where applicable local law does not prohibit such collection, use or disclosure without consent.
 
-Consent can be either express or implied. Express consent is given either verbally or in writing - e.g., on a iFanboy membership signup form. Typically, consent is obtained by checking that box indicating the member is aware of all relevant terms. Consent can be implied when it can be reasonably understood by the action or inaction of the member that they must have consented to specific collection, use or disclosure of their personal information.
+Consent can be either express or implied. Express consent is given either verbally or in writing – e.g., on a iFanboy membership signup form. Typically, consent is obtained by checking that box indicating the member is aware of all relevant terms. Consent can be implied when it can be reasonably understood by the action or inaction of the member that they must have consented to specific collection, use or disclosure of their personal information.
 
 An individual can withdraw consent at any time by contacting iFanboy at contact@iFanboy.com. If a member withdraws consent, iFanboy will make the member aware of any consequences of this action. Which is usually account termination.
 
@@ -45,7 +42,7 @@ The content and comments on the site may be unsuitable for minors. Users under t
 
 **Your Ability to Edit and Delete Your Account Information**
 
-iFanboy.com does not give you the ability to edit your iFanboy.com Account Information at any time. You may request deletion of your iFanboy.com account by sending an email to contact@iFanboy.com. After your account has been deleted, you will have to sign up again in order to access certain areas of the site. None of your information will be stored past account deletion. However,   
+iFanboy.com does not give you the ability to edit your iFanboy.com Account Information at any time. You may request deletion of your iFanboy.com account by sending an email to contact@iFanboy.com. After your account has been deleted, you will have to sign up again in order to access certain areas of the site. None of your information will be stored past account deletion. However,  
 all comments, posts, and other material that you have contributed to the site or any other iFanboy content will live on in perpetuity.
 
 **How do we protect your information?**
