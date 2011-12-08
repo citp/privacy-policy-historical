@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonline.id.au privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216214439id_/http%3A//www.adonline.id.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonline.id.au privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208131254id_/http%3A//www.adonline.id.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | adonline.id.au
 
@@ -46,3 +46,5 @@ As of 7 July 2007, this Privacy Policy was extended to include services provided
 This Privacy Policy is designed to accommodate growth in the size and number of services offered by Adam Dimech Online. This policy makes mention of guest books, forums, panels and other services which may or may not be offered at any particular time. This policy applies to emails sent to any address hosted by adonline.id.au or photologium.com.
 
 Please use the [Feedback Form](http://www.adonline.id.au/contact/).
+
+ 
