@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noggin.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616012954id_/http%3A//www.nickjr.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noggin.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208201043id_/http%3A//www.nickjr.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Nickelodeon Parents & Preschool Privacy Policy
 
