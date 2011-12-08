@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostgator.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622014549id_/http%3A//www.hostgator.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostgator.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208163733id_/http%3A//www.hostgator.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,9 @@ Your Internet browser has the in-built facility for storing small text files - "
 
 ## Disclosing Information
 
-We do not disclose any personal information obtained about you from this website to third parties. We may use the information to keep in contact with you and inform you of developments associated with our business. You will be given the opportunity to opt out from any mailing list or similar device. However, we may disclose aggregate, anonymous data based on information collected from users to potential partners, our affiliates, and reputable third parties. We take all available measures to select affiliates and service providers that are ethical and provide similar privacy protection to their customers and the community. We do not make any representations about the practices and policies about these companies.
+We do not disclose any personal information obtained about you from this website to third parties. This does not apply to affiliates that provide services to you based on links provided within your CPanel access and control, wherein information will be shared to facilitate your use of additional amenities included with your hosting account
+
+We may use personal information to keep in contact with you and inform you of developments associated with our business. We may also disclose aggregate, anonymous data based on information collected from users to potential partners, our affiliates, and reputable third parties. We take all available measures to select affiliates and service providers that are ethical and provide similar privacy protection to their customers and the community. We do not make any representations about the practices and policies about these companies.
 
 ## Correcting/Updating Personal Information
 
