@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fogodechao.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608205408id_/http%3A//www.fogodechao.com/index.php%3Fid%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fogodechao.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208223008id_/http%3A//www.fogodechao.com/index.php%3Fid%3D87) for the most accurate reproduction.*
 
-# Privacy Policy :: Fogo de Chao
+# Privacy Policy | Fogo de Chao
 
 Your use of this website (this “Website”) is conditioned on your acceptance of the following terms of this Privacy Policy (this “Privacy Policy”).  This Website is owned and operated by Fogo de Chão Churrascaria Holdings LLC (“we,” “us,” and “our”) and hosted on services located in Dallas, Texas. If you are located in a non-US jurisdiction, please note that you will be transferring your Personal Information to the United States and other jurisdictions that may not provide an equivalent level of data protection to the laws in your home country.  
 
