@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrepointstores.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401201154id_/http%3A//www.landmarkgroupme.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrepointstores.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208065233id_/http%3A//www.landmarkgroupme.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Landmark Group
 
@@ -25,7 +25,7 @@ When you request a page from our Web site, our servers log the information provi
 
 We collect personal information only when it is necessary and we will ask you to voluntarily supply us with the information we need. We will collect information such as your name, address and any other personal details if you contact us or apply for a job opening.
 
-We use the information that we collect to fulfill our commitments to you and to provide you with service that you expect. This includes sending you information and offers for marketing purposes. In registering your interest/making an application, you consent to our processing your personal details in a recruitment process.
+We use the information that we collect to fulfil our commitments to you and to provide you with service that you expect. This includes sending you information and offers for marketing purposes. In registering your interest/making an application, you consent to our processing your personal details in a recruitment process.
 
 We may share non-personal aggregate information about our site visitor's traffic patterns with affiliates or other parties. However, we expressly prohibit the disclosure, sale or transfer of any information about individual users to any unauthorized third party.
 
