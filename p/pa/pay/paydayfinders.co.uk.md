@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayfinders.co.uk privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205050643id_/http%3A//www.paydayfinders.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayfinders.co.uk privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208202321id_/http%3A//paydayfinders.co.uk/privacy.html) for the most accurate reproduction.*
 
 # PayDayFinders Privacy Policy
 
@@ -22,6 +22,10 @@ When you register with PayDayFinders.co.uk you automatically consent to registra
 
 PayDayFinders.co.uk reserves the right to use registrant PII: (1) for the specific purpose for which such information was provided (including matching registrants with a cash advance loan company or companies); (2) as disclosed at the time such information is provided; and (3) as disclosed in this Policy. However, please note that PayDayFinders.co.uk may change this Policy at any time and therefore PayDayFinders.co.uk may in the future use registrant PII for additional purposes not currently included in this Policy. 
 
+## Use of Your Data
+
+The data we collect during registration with us or during the application process may be shared/sold to trusted third parties who may also contact you about other products and services. These third parties may contact you via telephone, email and/or SMS. Any third party receiving your data will always give you the option to unsubscribe from receiving information in respect of such offers and/or services/products. Those third parties will not then share/sell your data with others unless you specifically provide consent to them allowing them to do so. Third parties with whom we work take all appropriate and reasonable steps to ensure that your data is protected. Please note that your personal data may be transferred outside the European Union and into the United States.
+
 ## Use of Individual Information
 
 The following paragraph describes how PayDayFinders.co.uk currently uses Individual Information, but PayDayFinders.co.uk may change or broaden its use at any time.  PayDayFinders.co.uk may update this policy from time to time. PayDayFinders.co.uk may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
@@ -44,7 +48,7 @@ PayDayFinders.co.uk only sends email to individuals who have agreed on the Websi
 
 ## Fraud Prevention
 
-If false or inaccurate information is provided, including in relation to a person's identity and fraud is identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may also access and use this information. We and other organizations may also access and use this information to prevent fraud.
+If false or inaccurate information is provided, including in relation to a person's identity and fraud is identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. The lender and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees. The lender and other organisations may access and use from other countries the information recorded by fraud prevention agencies. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy.
 
 **If you do not agree to the terms of this Privacy Policy, you should not use this Site.**
 
