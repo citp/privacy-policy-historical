@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429205057id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakwood.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208034546id_/http%3A//www.oakwood.com/cms/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Oakwood
 
@@ -156,7 +156,7 @@ Our agreement with Providers requires the information to be kept confidential an
 
 If you submit your personal information at our Careers – Current Openings page at [www.oakwood.com/cms/careers-search.html](http://www.oakwood.com/cms/careers-search.html) or any pages produced by your search, you are visiting a co-branded page powered by Sonic Recruit. Your resume and any other personal information submitted there are provided directly to the Oakwood HR department and is shared with Oakwood. Any such information that is shared with Oakwood will be maintained in accordance with Oakwood's own privacy policy. 
 
-Oakwood's Neighborhood Info information on each Oakwood Property's Profile is provided by Microsoft MapPoint. Your use of this information is not stored or collected by Oakwood. Click the following links for Microsoft MapPoint [Terms of Use](http://help.live.com/help.aspx?project=searchtou&market=en-us) and [Microsoft MapPoint’s Privacy Policy](http://go.microsoft.com/fwlink/?LinkId=21970).   
+Oakwood's Neighborhood Info information on each Oakwood Property's Profile is provided by Microsoft MapPoint. Your use of this information is not stored or collected by Oakwood. Click the following links for Microsoft MapPoint [Terms of Use](http://help.live.com/help.aspx?project=searchtou&market=en-us) and [Microsoft MapPoint's Privacy Policy](http://go.microsoft.com/fwlink/?LinkId=21970).   
 
 
 ### Children 
