@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the domainsatcost.ca privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224113744id_/http%3A//www.domainsatcost.ca/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsatcost.ca privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208212506id_/http%3A//www.domainsatcost.ca/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Domainsatcost.ca - Privacy Statement
 
-.CA.COM.NET.ORG.BIZ.INFO.US.NAME.CO
+.CA.CO.COM.NET.ORG.BIZ.INFO.US.NAME.XXX
 
-[Register In Bulk](https://web.archive.org/web/20101224113744id_/http%3A//www.domainsatcost.ca/DomainSearch.aspx)
+[Register In Bulk](https://web.archive.org/web/20111208212506id_/http%3A//www.domainsatcost.ca/DomainSearch.aspx)
 
 We respect your individual privacy. That is why we have adopted this Privacy Statement, which embodies our commitment to the protection of your privacy through adherence to fair electronic information practices. This Privacy Statement puts you, the individual, in control of how your personal information is processed, and you have our promise that we will not electronically process your personal information in any way that is incompatible with this Privacy Statement. This Privacy Statement protects your privacy by:
 
