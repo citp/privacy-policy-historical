@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630152113id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208032301id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AllStays
 
@@ -30,11 +30,11 @@ We need to share your information to provide the product or service you have req
 
 We respond to subpoenas, court orders or legal process; or
 
-We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20110630152113id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays.
+We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20111208032301id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays.
 
 **Advertising Cookies**
 
-This site has contracted with Travel Ad Network and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs',advertisement impressions,and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors.No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by Travel Ad Network,please see Travel Ad Network?s privacy policy at http://www.traveladnetwork.com/content/view/56/79/.
+This site has contracted with Travel Ad Network and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs',advertisement impressions,and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors.No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by Travel Ad Network, please see Travel Ad Networks privacy policy at http://www.traveladnetwork.com/content/view/56/79/.
 
 Cookies are important devices for both serving more relevant ads to users and measuring advertising effectiveness. You may opt out of accepting cookies at any time by clicking these links: To opt out of TravelAdvertising.com, go to http://www.traveladnetwork.com/content/view/56/79/. To opt out of Atlas (Microsoft Advertising), go to http://www.atlassolutions.com/optout.aspx. 
 
@@ -43,4 +43,4 @@ Cookies are important devices for both serving more relevant ads to users and me
 AllStays may edit this policy on occasion. If we do make any substantial changes we will post an announcement on our pages.
 
 **Questions or Suggestions**  
-If you have any questions or suggestions, [please send an email to us.](https://web.archive.org/web/20110630152113id_/http%3A//www.allstays.com/Services/feedback.htm)
+If you have any questions or suggestions, [please send an email to us.](https://web.archive.org/web/20111208032301id_/http%3A//www.allstays.com/Services/feedback.htm)
