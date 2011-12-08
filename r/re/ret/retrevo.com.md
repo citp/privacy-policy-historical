@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the retrevo.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227090156id_/http%3A//www.retrevo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrevo.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208084608id_/http%3A//www.retrevo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Retrevo
-
-  |   
-
-
-  
-
 
 Retrevo takes the privacy and security of your Personal Information very seriously. Retrevo does not share, disclose or sell your personally identifiable information collected online with other companies or organizations. Keeping your trust is vital to the success of our business. We want you to know that we apply our long standing commitment to safeguarding the privacy of all of our users, their Personal Information and activities on Retrevos web site. If you want to read the long version, you can continue to the long version of our Privacy Policy below. 
 
@@ -30,7 +24,7 @@ In general, Retrevo uses Personal Information collected from you to respond to r
   * Process and satisfy the request, such as a job application, product support issue or complaint;
   * Maintain, protect and improve our service, including occasional communication with you regarding this;
   * Personalize the service including the content, display of relevant advertisements and additional services; Develop new products and services;
-  * Introduce new products and services to you, including occasional communication with you regarding this.
+  * Introduce new products, services and offers to you, including communication with you regarding this.
 
 
 
@@ -56,9 +50,13 @@ Data Security and Integrity
 
 Retrevo processes Personal Information only for the purposes for which it was collected and in accordance with this Policy. We take commercially reasonable steps to make sure that our servers are protected against unauthorized access by using firewalls and physical security. We review our data collection, storage and processing practices to ensure that only authorized personnel have access to your personal information and only for the purpose that it was collected. We take reasonable steps to ensure that the Personal Information we process is accurate, complete and current, but we depend on our users to update or correct their personal information whenever necessary by contacting us. No system can provide guaranteed security. We will notify you if at any point we become aware of a security breach. 
 
+Retrevo Newsletters
+
+We offer newsletters to our subscribers containing daily deals and the latest tech editorials. If you no longer wish to receive Retrevo Newsletters, you may opt-out by following the unsubscribe instructions provided in the newsletters. 
+
 Privacy Policy Updates
 
-We will update our privacy policy from time to time to reflect changes in our business. If we make any substantial changes in the way we collect, use or disclose your Personal Information, we will post a notice on this page. If you object to any such changes, you must cease using our web site. Continued use of our web site following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you via email that you supplied to us. You will be able to opt out of any new use of such Personal Information by contacting us. This Privacy Policy was last updated on July 16, 2006. 
+We will update our privacy policy from time to time to reflect changes in our business. If we make any substantial changes in the way we collect, use or disclose your Personal Information, we will post a notice on this page. If you object to any such changes, you must cease using our web site. Continued use of our web site following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you via email that you supplied to us. You will be able to opt out of any new use of such Personal Information by contacting us. This Privacy Policy was last updated on September 9, 2011. 
 
 Contact Us
 
@@ -70,7 +68,6 @@ Retrevo Inc.
 
 Sunnyvale, CA 94085 
 
-email: privacy at retrevo dot com
+phone number: 1-855-738-7386 
 
-  
- 
+email: privacy at retrevo dot com
