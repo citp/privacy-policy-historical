@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104212205id_/http%3A//responsibilityproject.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208025412id_/http%3A//responsibility-project.libertymutual.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Responsibility Project by Liberty Mutual
 
@@ -15,7 +15,7 @@ The level of information gathered by Liberty Mutual varies depending upon your r
   * Submissions to the website Blog (which are also subject to the [Comment Submission Guidelines](https://web.archive.org/content/comment-submission-guidelines))
   * Polls and surveys you may complete on the website
   * Zip code you may enter in quoting application
-  * Information you my enter in connection with a promotion
+  * Information you may enter in connection with a promotion
 
 
 
