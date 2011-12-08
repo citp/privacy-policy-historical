@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nata.in privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619062626id_/http%3A//www.nata.in/www/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nata.in privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208061121id_/http%3A//www.nata.in/www/privacy.aspx) for the most accurate reproduction.*
 
 # NATA - National Aptitude Test in Architecture > Home
 
