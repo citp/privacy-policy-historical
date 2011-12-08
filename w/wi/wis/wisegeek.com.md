@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisegeek.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623182119id_/http%3A//www.wisegeek.com/what-is-the-wisegeek-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisegeek.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208201534id_/http%3A//www.wisegeek.com/what-is-the-wisegeek-privacy-policy.htm) for the most accurate reproduction.*
 
 # What is the wiseGEEK Privacy Policy?
 
