@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcodesign.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227144839id_/http%3A//www.fastcompany.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcodesign.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208222417id_/http%3A//www.fastcompany.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fast Company
 
@@ -117,3 +117,5 @@ If we decide to request information from children, we will require verifiable pa
 
 
 
+
+[](http://www.aboutads.info/)
