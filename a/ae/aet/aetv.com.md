@@ -1,220 +1,218 @@
-> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625120922id_/http%3A//www.aetn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208204231id_/http%3A//www.aetn.com/privacy) for the most accurate reproduction.*
 
 # AETN Privacy Policy
 
   
 
 
-**A &E TELEVISION NETWORKS, LLC - PRIVACY POLICY** __
+**_A &E Television networks, llc_** ** __**
 
-_Last Updated: January 15, 2010_
+**_PRIVACY POLICY_**
 
-**_A. Our Commitment to Privacy_**
+**_TABLE OF CONTENTS_**
 
-A&E Television Networks, LLC and its subsidiaries and affiliated entities (collectively, ("AETN") realize the importance of respecting and protecting your privacy. 
+·         **Welcome**
 
-This privacy policy ("Privacy Policy") discloses the information that AETN gathers on the network of web sites that AETN owns and/or operates (collectively, the "Sites"), as well as ways in which AETN processes and, sometimes, shares such information and how you can correct or change that information.  As of the date that this Privacy Policy was last updated, AETN’s Sites include www.AETN.com, www.AETNInternational.com,, www.AETV.com, www.Bio.com, www.CrimeandInvestigationNetwork.com, www.DressUpChallenge.com, www.History.com,  www.HistoryenEspanol.com, www.HistoryInternational.com, www.HistoryTravel.com,  www.LifetimeMoms.com, www.LMN.tv,  www.MomBlogNetwork.com, www.MothersClick.com, www.MyLifetime.com and www.Roiworld.com (collectively, the "Sites").  The Sites also include versions designed for browsing on mobile devices.
+·         **General Information Collected**
 
-Except where otherwise expressly indicated herein or on a Site, this Privacy Policy applies only to information collected on the Sites and does not apply to information collected outside of the Sites.   Before using or submitting information to any of the Sites, please review this Privacy Policy carefully.
+·         **Personal Information Collected**
 
-Certain areas of AETN’s Sites contain information intended only for users who create an account, join or otherwise register to use any of the Sites (“Registered Users”) and AETN reserves the right to limit these areas to Registered Users.   This Privacy Policy addresses AETN’s privacy practices relating to general use of the Sites, as well as use of the Sites by Registered Users.
+·         **Personal Information Use**
 
-**_B. Information AETN Collects_**
+·         **A+E Vendor Communications and Opt Out**
 
-AETN collects the following types of information from users of the Sites: 
+·         **A+E Marketing Communications and Opt Out**
 
-**1\. Personally Identifiable Information**
+·         **Ad Service Providers**
 
-AETN may receive and store any information that you enter on any of the Sites or provide to AETN in any other way that would allow AETN to identify you or contact you (collectively "Personally Identifiable Information"). The Personally Identifiable Information that you provide will be used by AETN only in accordance with this Privacy Policy. Examples of Personally Identifiable Information AETN may collect from you and use are: 
+·         **Cookies**
 
-·   your name, address, phone number(s), e-mail address, date of birth, nationality and gender if you are a Registered User or are otherwise asked to provide such information; 
+·         **Web Beacons**
 
-·   the e-mail addresses of those who post comments, stories, photos, videos and other content on the Sites; 
+·         **DMCA Information**
 
-·   the names and e-mail addresses of those who communicate with AETN by e-mail; 
+·         **Contact by A+E**
 
-·   the names and e-mail addresses of those who specifically opt-in to special offers; 
+·         **Maintenance of Personal Information**
 
-·   information you provide to AETN in surveys, in connection with contests or sweepstakes which AETN sponsors and/or in response to solicitations for photographs, ideas or stories for use on a Site and/or on air; 
+·         **Children**
 
-·   information you provide to AETN in the entry form for some sweepstakes and contests offered on the Sites and information provided by winners of those sweepstakes and contests for a required background check or for tax purposes; 
+·         **Links to Other Websites**
 
-·   in certain circumstances, payment and identity verification information, such as credit card number, social security number (or comparable national identifier) and driver's license number when needed for payment information in connection with a purchase made through any of the Sites;
+·         **Security**
 
-·   information about your family or friends, including, but not limited to, the name, address, phone number(s), e-mail address, date of birth, nationality and gender of any family member or friend, that you provide in connection with your use of any Site or any feature thereof; 
+·         **Your California Privacy Rights**
 
-·   information you provide about yourself, including, but not limited to your name, e-mail address, date of birth, nationality, gender and preferences, that you provide when you register; and 
+·         **Governing Law / Transmission of Information**
 
-·   information you provide about yourself when you post to any Site. 
+·         **Changes**
 
-You can choose not to provide AETN with certain Personally Identifiable Information, but then you may not be able to take advantage of many features of the Sites, such as posting comments, registering to use certain restricted areas of the Sites, participating in AETN’s online community, entering a sweepstakes or contest on any of the Sites, participating in various promotional opportunities or receiving e-mail alerts or newsletters. 
+·         **How to Contact Us**
 
-**2\. Automatic Information**
+**1.       ****_WELCOME_**
 
-AETN may receive and store certain types of information whenever you interact with AETN through the Sites. We automatically receive and record your browser information, operating system information, IP address, cookie information and the page you requested. This information will not be stored in a manner that is personally identifiable with you and may include the following:
+**Your privacy is important to us!**   A&E Television Networks, LLC and/or one of its subsidiaries or affiliated companies (collectively, “ _A+E_ ” or “we” or “us”) owns, operates and/or provides this and other websites, web pages, applications, widgets, blogs, games, virtual worlds and other online or wireless services (accessible through various desktop and mobile web browsers, locally installed mobile applications and various API services that A+E may offer from time to time) (collectively, the “ _Websites_ ”). 
 
-_(a) Aggregate Information_
+This privacy policy (the “ _Privacy Policy_ ”) describes the information about you that A+E collects through the Websites and how this information is used, maintained and, in some cases, shared. A+E values your use of the Websites and is committed to protecting your privacy.  A+E shares your information only as described in this Privacy Policy.  A+E has provided this Privacy Policy to assist you in understanding the information that we collect, how we use it and the ways we maintain it, including the security of your personal information. By visiting or using the Websites, services, applications and any other pages, features or content on the Websites, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-In connection with your visit to any of the Sites, AETN may automatically collect usage information, such as the numbers and frequency of users and their characteristics and information about similar groups of users, such as parents, certain age groups or users that live in a particular geographical area. This data is only used in the aggregate as a statistical measure and not in a manner that would identify you personally.  Aggregate information generally is collected through the use of cookies and Web Beacons as discussed below. 
+This Privacy Policy applies only to information that you provide to A+E while visiting the Websites, and does not apply to any information that A+E has received, obtained or may obtain offline or through other traditional means.    
 
-_(b) Cookies_
+**2.       ****_GENERAL INFORMATION COLLECTED_**
 
-AETN uses “cookies” to help you access and navigate the Sites more efficiently and to statistically monitor how many people are using the Sites. A “cookie” is a small file or tool stored on your hard drive containing information that allows AETN to deliver customized information to you. If you become a Registered User, AETN may use cookies to store your e-mail address, user name, preferences and password so that AETN can identify you when you return to the Sites, track your use of the Sites and customize the Sites for you.  You may set your browser to notify you of or decline the receipt of cookies.  Certain features of the Sites may not, however, function properly or be available if your browser is configured to disable cookies. 
+In order to enhance the content contained on the Websites, A+E may gather and store certain information about your visit.  “General Information” is information about you or your activities through which you cannot be identified.  This information may include some or all of the following items:
 
-AETN uses both "session" and "persistent" cookies on the Sites. Session cookies are temporary bits of information that are erased once you exit your web browser or turn off your computer. Persistent cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie.  Persistent cookies store information on your computer for a number of reasons, such as retrieving certain information you have previously provided (i.e., username and password), helping to determine what areas of the Sites you find most valuable and customizing the Sites based on your preferences on an ongoing basis. 
+A.                  The Internet Protocol (“ _IP_ ”) address of your Internet Service Provider (“ _ISP_ ”) and/or your computer, if it has its own static IP address.  The domain name may also be collected. Your IP location information may be used during your visit to the Websites to serve you advertisements for goods or services available in your specific location, however, such information will not be collected or maintained by A+E except in aggregate form.
 
-Many companies offer programs that help you to visit web sites anonymously. While AETN will not be able to provide you with a personalized experience if AETN cannot recognize you, AETN wants you to be aware that these programs are available. 
+B.                   The date, time, length of stay and specific A+E web pages, images, documents or forms accessed by you at such Website.
 
-_(c) Web Beacons_
+C.                  Whether you are viewing any of the Websites for the first time, or are a return visitor.
 
-During your use of the Sites, you may encounter Web Beacons, which may come from AETN or from third parties that advertise or provide content on the Sites.  A “Web Beacon” (sometimes also called a “web bug” or "clear gif") is a small graphic image in a web page, a web-based document or an e-mail message that generally allows the party that set the Web Beacon to monitor certain information about the viewer of the web page, web-based document or e-mail message and may allow access to certain cookies. Web Beacons are usually invisible to the user because they are very small (generally 1-by-1 pixel). In general, however, any electronic image viewed as part of a web page, including an advertisement, can act as a Web Beacon. Web Beacons on the Sites typically collect the URL of the page from which the Web Beacon originates, the type of browser requesting the Web Beacon, the IP address of the computer to which the Web Beacon is sent and the time that the Web Beacon was viewed. Certain Web Beacons used by third party advertisers or content providers may collect information that allows such third parties to determine how many people are viewing and/or clicking on certain advertisements or viewing certain content for purposes of helping these parties serve and manage their advertisements and content. These Web Beacons do not collect or store Personally Identifiable Information but they may, however, be used in conjunction with cookies to identify certain aggregate information about users. 
+D.                  The Uniform Resource Locator (“ _URL_ ”) of the website or advertisement that referred you to any of the Websites. 
 
-_(d) Information Collected by Third Parties_
+E.                   The search engine that referred you and any search strings or phrases entered into the search engine to find any of the Websites.
 
-AETN may allow third parties to display advertisements on the Sites.  AETN and these third parties may use tracking technologies, such as cookies and Web Beacons, to collect information about users who view or interact with these advertisements and connect to the Sites. 
+F.                   Demographic information concerning your country of origin and language(s) used.
 
-_(e) Ad Servers   _
+G.                  The type and version of the Internet browser used to visit any of the Websites, the operating system on your computer and information regarding errors when viewing any of the Websites.
 
-AETN, its partners and/or advertisers may use third party ad servers to serve or present the ads that appear on the Sites and to conduct research about the advertisements. Any of these ad servers may collect non-personal information, such as your browser, operating system, date/time of viewing, IP address and clickstream data.  AETN cannot control the activities of such advertisers or web sites. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH AD SERVERS.  Below is a representative list of ad servers and a link to their privacy policies. For more information, visit the sites listed below. __
+A+E collects this General Information and may use it to generate aggregate statistics about visitors to the Websites.  In situations where it is possible to do so, General Information may be linked to Personal Information.
 
-DoubleClick: http://www.doubleclick.com/us/about_doubleclick/privacy/
+**3.       ****_PERSONAL INFORMATION COLLECTED_**
 
-The Network Advertising Initiative (NAI) is a cooperative group of ad serving providers. The NAI has developed a set of [privacy principles](http://www.networkadvertising.org/index.asp "http://www.networkadvertising.org/index.asp") to which its members adhere. The NAI is committed to providing consumers with clear explanations of Internet advertising practices and how they affect you and the Internet generally. For more information about the NAI, third party ad servers generally and the opt-out options offered through the NAI, visit [http://www.networkadvertising.org/index.asp](http://www.networkadvertising.org/ "http://www.networkadvertising.org/").
+“Personal Information” is information through which you can be identified.  Providing your personal information to A+E is your choice.  A+E maintains one or more databases to store your Personal Information and may keep such information indefinitely. Personal Information that A+E may collect from you includes, but is not limited to, your name, postal address(es), telephone number(s), facsimile number(s), email address(es), date of birth and any other information that you voluntarily provide.  Personal Information you volunteer is used by A+E for internal verification, to complete requested transactions, to ensure appropriate legal use of A+E’s goods and/or services, to provide you notification about updates to the Websites, goods, services and data and to help provide you with technical support for A+E’s goods and services. 
 
-_(f) E-mail Communications_
+Your Personal Information is collected from our Websites, through email and/or through online applications you complete, forums and message boards, blogs, requests for newsletters, requests for channel or show information, playing our games or in our virtual worlds, entering sweepstakes and prize promotions, taking surveys, reporting problems and through any of your other activities with A+E.  The Personal Information that A+E collects depends on the nature of your activities. 
 
-When you send an e-mail to AETN, either through the <Contact Us> button on a Site or otherwise, AETN may retain your e-mail address and the contents of the e-mail that you send. This Privacy Policy does not apply to content, business information, ideas, concepts or inventions that you send to AETN by e-mail. Please refer to AETN’s <Terms of Use> for AETN’s policy with respect to such information.  If you want to keep the information in your e-mail(s) or posting(s) private or proprietary, please do not send such information in an e-mail or otherwise post such information to AETN.  To help AETN make its e-mails more interesting and helpful, AETN also may receive a confirmation when you open an e-mail from AETN if your computer supports this type of program. 
+For example:
 
-**_C. How_** ** _AETN_** _**Uses Information** _
+A.                  _Registration_ – in order to register and activate an account for any of our Websites, you will need to provide your user name, email address, date of birth, nationality and postal/zip code. We strongly encourage you not to use any Personal Information in your username or password.
 
-When you provide AETN with your Personally Identifiable Information, AETN may use it to manage AETN’s registry of Registered Users, facilitate communication between AETN and you and/or between Registered Users of the Sites, notify you of features or special events and provide you with other information AETN feels may be of interest to you. AETN also uses information collected to customize, analyze, adjust and improve the Sites to meet AETN’s users' needs and expectations. AETN also may use the information to oversee adherence to AETN’s Community Guidelines which are provided in the Terms of Use for each of the Sites to enforce AETN’s agreements with you, to prevent fraud and other prohibited or illegal activities and for other legally permissible purposes. These uses of your Personally Identifiable Information may include, without limitation, the following: 
+B.                   _Sweepstakes and other prize promotions_ – from time to time, A+E may present sweepstakes, contests, special offers or other promotions, and in order for you to enter and win such promotions, you may need to provide Personal Information. The type and amount of Personal Information required will depend on the promotion. For example, a vacation sweepstakes entry will require you to provide, at a minimum, your full name, address, telephone number, date of birth and email address.  In the event that you are a sweepstakes or prize promotion winner, we will require you to submit to us a W9, which will require you to provide additional information, such as your social security number, in order to receive the prize. 
 
-**1\. Public Areas**
+C.                  _Voluntary submissions_ – information that you voluntarily submit on our “Contact Us” web page and via other surveys and feedback will require the disclosure of your first name and email address, may also include your telephone number and is used by A+E to enhance our Websites or to reply to your questions or comments. 
 
-The Sites feature groups, discussions, member profiles, comment areas, blogs and similar areas where users can share information about themselves and their opinions, as well as post questions (“Public Areas”). Other visitors to the Sites may view information posted in Public Areas. Further, AETN may include all or a portion of the information posted in Public Areas in the newsletters described in this Privacy Policy. By using the Public Areas, you hereby acknowledge and agree that any information you share in a Public Area (including, without limitation, Personally Identifiable Information) is available to the public. Information you post to a Public Area may be viewed, accessed, or collected by, or disclosed to, third parties and may be used by others in ways neither you nor AETN are able to control or predict, including, without limitation, to contact you for unauthorized purposes. 
+D.                  _Online purchases_ – when you place an order online, we collect information associated with the transaction, including your full name, billing and mailing addresses, credit card, banking or other payment information, products ordered, shipping information and identity verification information (driver’s license, social security number). This information is used to enhance the goods that we offer through our store, as well as to ensure that our financial partners can process the payment to us and that our third party fulfillment company can deliver the products that you ordered to the address that you provided. 
 
-The Sites offer the ability to forward content to another person via e-mail. If you use this service, AETN will use the recipient's e-mail address in order to send the content and AETN will also ask for your e-mail address AETN does not use the recipient's e-mail address for any other purpose unless the recipient gives AETN permission to do so. 
+E.                   _Invitations_ – if you invite someone to use a feature of one of our Websites, we will disclose your real name as part of the invitation you send, as this information is necessary to ensure that the invited person knows who has sent the invitation.
 
-**2\. Registered User Areas**
+F.                   _Mobile applications_ – A+E collects information regarding your GPS location when you use the Websites and associated services from your mobile device if your device has location services enabled.
 
-If you have access to certain areas of the Sites because you are a Registered User (“Registered User Areas”), the  Registered User Areas may contain groups, discussions, member profiles, comment areas, blogs and similar areas where Registered Users can share information about themselves and their opinions, as well as post questions. Information you post to a Registered User Area may be viewed, accessed, or collected by, or disclosed to, other Registered Users and may be used by other Registered Users in ways neither you nor AETN are able to control or predict, including, without limitation, disclosure of your information to the public or to contact you for unauthorized purposes.  AETN uses the Personally Identifiable Information you provide when registering to become a Registered User to send you AETN publications, information about Registered User benefits and special offers, features included in the Registered User Areas and other information that AETN believes is relevant and useful to its Registered Users. By using the Registered User Areas, you hereby acknowledge and agree that any information you share in a Registered User Area (including, without limitation, Personally Identifiable Information) is available to other Registered Users and to AETN for use as provided herein. 
+**4.       ****_PERSONAL INFORMATION USE_**
 
-**3\. Profiles**
+Unless otherwise specified in this Privacy Policy or unless legally required to do so, A+E will not sell, rent or otherwise disclose your Personal Information to any outside company or organization.  This Privacy Policy excludes data that may be stored or transmitted to or from the service provider hosting the Websites.
 
-If you register to become a Registered User of any Site, the information that you provide to AETN may be stored in one or more profiles. These profiles, or a portion thereof, may be viewed by other visitors, including, but not limited to those who are not Registered Users of the Site. 
+In addition to those uses set forth in Section 3 above, A+E may hire companies to help provide products or services, like a shipping company that may deliver packages, a financial partner that assists in the completion of transactions you request or any other third party that is needed to assist in the completion of transactions you request.  In those instances, there is a need to share your information with these third parties.  A+E may also work with other companies who help either to gather your information or to communicate with you.  Your opt-out of receiving information from us and/or third parties will not apply to sharing by A+E of your Personal Information with any of these third parties.  Nonetheless, except as separately permitted by other provisions of this Privacy Policy, these third parties are allowed to gather, receive and use your information only for the purposes described herein or as required by law.
 
-**4\. E-Newsletters**
+A+E may make bulletin boards, chat rooms, job listing areas, message boards, news groups and other community services available to you on the Websites.  Please understand that any information that is disclosed by you in these areas becomes public information.  When you disclose such information in a bulletin board, message board, chat room, blog or any other public forum, you do so at your own risk.  A+E has no control over its use and you should exercise caution when deciding to disclose your Personal Information or any other information about yourself.  The information presented in these areas reflects the views of the individual users or hosts and does not necessarily reflect the views of A+E or any of its affiliates.  A+E reserves the right (but has no obligation) to monitor the use of bulletin boards, message boards, chat rooms, blogs or other public forums on the Websites.
 
-If you register at any of the Sites, you may choose to receive a newsletter via e-mail from AETN which may include information such as highlights from different areas on any of the Sites and information about new features. You can unsubscribe from the newsletter at any time by clicking on the “unsubscribe” link at the bottom of any e-mail newsletter sent to you and following the instructions. You also may unsubscribe at any time by logging in to the applicable Site where you created your profile and changing your preferences. 
+A+E may also disclose your Personal Information if: (a) your information is subject to disclosure in response to judicial or governmental subpoenas, warrants or orders served on A+E; (b) your information is subject to disclosure to protect A+E’s rights or property, to enforce the provisions of this Privacy Policy and/or A+E’s Terms of Use and/or to prevent harm to yourself or to another; or (c) your information is subject to disclosure or transfer if A+E or its business is sold or offered for sale to another entity or individual(s), a petition for relief is filed under U.S. Bankruptcy laws for or against A+E or if A+E becomes subject to an order of appointment of a trustee or receiver.  A+E reserves the right to release and/or use all information contained within our databases, access logs or other records concerning you if you violate this Privacy Policy, our Terms of Use or other rules, policies, notices, agreements or guidelines, or if you intentionally or unintentionally partake (or are reasonably suspected of partaking) in any illegal activity, including but not limited to hacking, even without a subpoena, warrant or other court order, and to release such information in response to court and governmental orders, civil subpoenas, discovery requests and as otherwise required by law and/or to initiate our own legal proceedings.  A+E cooperates with law enforcement agencies in identifying those who may be using the Websites (or any part thereof) for illegal activities.  A+E also reserves the right to report any suspected illegal activity to law enforcement individuals or to entities for investigation or prosecution.
 
-**5\. Aggregate Information**
+A+E may purchase a business or sell one or more of our businesses and your Personal Information may be transferred as a part of the purchase or sale.  In the event that we purchase a business, the Personal Information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so.  In the event that we sell a business, we will attempt to include provisions in the selling contract requiring the purchaser to treat your Personal Information in the same manner required by this Privacy Policy.  Thus, any of your opt out requests will not affect our right to transfer your information to a purchaser in these circumstances.  A+E also reserves the right to transfer your Personal Information to a third party in the event of a transfer of all or substantially all of A+E’s assets to a third party, provided that the third party agrees to adhere to the terms of this Privacy Policy. 
 
-The aggregate information collected by AETN also is used to create profiles of the audience for the Sites that include anonymous statistical demographic information but no Personally Identifiable Information. This aggregated information is used to, among other things, determine trends and needs and supply market research to potential advertisers and partners to help them understand the Sites’ audiences.  For example, AETN may create a report that tells advertisers that sixty percent of AETN’s Registered Users are females in a certain age range, so that they can determine which of their products or services are most appropriate for AETN’s Registered Users. 
+A+E may take your Personal Information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information).  Given the nature of this information, there are no restrictions under this Privacy Policy upon the right of A+E to aggregate or de-personalize your personal information, and A+E may use and/or share with third parties the resulting non-personally identifiable information in any manner in A+E’s sole discretion.
 
-**_D. With Whom AETN Shares Information_**
+**5.       ****_A+E VENDOR COMMUNICATIONS AND OPT OUT_**
 
-AETN reserves the right to use your Personally Identifiable Information to send you periodic e-mailings with information on new products and services, updates to AETN’s Sites or upcoming events. ****
+In addition to its own use, A+E may pass your Personal Information to third party fulfillment companies, web hosting companies, customer support specialists, data analysis firms, email service providers, shipping companies and credit card processors and/or any of their authorized agents who provide the goods or services requested to meet your needs.  A+E may also provide your email address to vendors that it deems provide goods or services which you may need.  If you do not want to receive any communications by email from such vendors, then you may opt out by contacting us at [feedback@aetv.com](mailto:feedback@aetv.com?subject=Opt%20Out%20Vendor%20Communications) (subject line: “Opt Out Vendor Communications”).
 
-If you “opt in” to receive information about identified advertisers or their services or products, AETN may share your Personally Identifiable Information with them.  If you have questions about how these companies use your Personally Identifiable Information, AETN encourages you to review and understand their respective privacy policies.  You may at any time “opt out” of having your Personally Identifiable Information as part of AETN’s marketing mailing list or otherwise (see “Opting Out” below). 
+**6.       ****_A+E MARKETING COMMUNICATIONS AND OPT OUT_**
 
-From time to time, in AETN’s sole discretion, AETN may use your Personally Identifiable Information to send you important administrative information regarding the Sites and related services or changes to AETN’s [Terms](https://web.archive.org/termsofuse/) and policies. Because this information may be important to your use of the Sites and related services, you may not opt out of receiving such communications.
+A+E may also use your Personal Information, or a portion thereof, to send you marketing materials, channel and/or show information, vendors with information that you may need, special event information, A+E newsletters or advertisements and/or information that A+E thinks may be of interest to you, unless you notify A+E that you do not wish to receive such materials.  A+E may also use the services of bonded mailing houses that are authorized to use your Personal Information only for the benefit of A+E.  Please contact A+E at [feedback@aetv.com](mailto:feedback@aetv.com?subject=Opt%20Out%20Marketing%20Communications) (subject line: “Opt Out Marketing Communications”) to request that you not be sent any or all of such information.
 
-**1\. Fulfillment of Services**
+**7.       ****_AD SERVICE PROVIDERS_**
 
-AETN may retain other companies and individuals to perform functions consistent with AETN’s Privacy Policy on AETN’s behalf. Examples include customer support specialists, web hosting companies, fulfillment companies (e.g., companies that fill product orders or coordinate mailings), data analysis firms and e-mail service providers. 
+A+E may from time to time engage the services of third party ad service providers, which may collect non-personally identifying information about you. These providers use your non-personally identifying information to determine what types of advertisements you might like to see on our Websites, as well as when you would like to see our advertisements on third party websites.  This non-personally identifiable information can be collected through technical means such as cookies, flash cookies and/or session ID cookies. A+E and its third party ad service providers may collect this non-personally identifiable information for these purposes unless you opt out of such collection and/or use as explained further in our [Ad Choices Policy](http://www.aetn.com/ad_choices).
 
-**2\. Sweepstakes, Contests and Editorial Uses**
+A+E and/or our third party ad service provides are or are in the process of becoming members of regulatory organizations, including the Network Advertising Initiative (“ _NAI_ ”) and the Interactive Advertising Bureau (“ _IAB_ ”), which are working to address important privacy and consumer protection issues regarding the collection of information for use in online advertising. You may opt out of our collection of this non-personally identifying information using the Consumer Choice Page opt-out tool which allows you to opt out of our collection of such information, as well as to opt out of the data collection and preference-based ad programs of participating companies at [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-Often times, sweepstakes, contests and giveaways (together, “Contests”) offered on the Sites are sponsored by unaffiliated third parties. Information that you provide as part of an entry into a Contest sponsored by an unaffiliated third party will be shared with the sponsor if AETN advises you of such in the Contest’s official rules. Some Contests also may require consent to the release of information contained within the entry form for background check purposes or tax purposes if you become a winner. You should carefully review the official rules of each Contest that you enter as they may contain additional important information about AETN’s or the Contest sponsor's use of your Personally Identifiable Information. 
+**8.       ****_COOKIES_**
 
-AETN also may use your Personally Identifiable Information in response to a solicitation for editorial, online and/or on-air purposes and for marketing and promotional purposes in connection with such solicitation. If such information is used online, on a mobile application or in a telecast, no Personally Identifiable Information, other than name, city and state, will be disclosed without your specific consent. AETN may share the information with producers of AETN’s programs and/or with others involved if you have explicitly advised AETN of your consent to be included in such an exchange. 
+The use of “Cookies” is a standard practice among websites.  A Cookie is a small text file that is placed on your computer to uniquely distinguish your visit to a website.  Cookies are most often used to track specific information regarding your activity on a particular website.
 
-**3\. Compliance with Law and Fraud Protection**
+When you visit our Websites, we place a Cookie in a directory of your computer’s hard drive. The information that Cookies collect includes the date and time of your visit and your registration information.  Cookies offer you many conveniences for our Websites.  For example, they allow A+E to recognize certain information, such as your browser type, so we know if you can view certain plug-ins like Macromedia Flash files.  They also allow us to streamline your visit to the Websites based on your previous visits. 
 
-AETN may disclose any information, including without limitation Personally Identifiable Information, that AETN deems necessary, in its sole discretion and without your prior permission, to comply with any applicable law, regulation, legal process or governmental request. AETN also may exchange information, including without limitation Personally Identifiable Information, with other companies and organizations for credit fraud protection, risk reduction and related activities or to protect the rights, property of safety of AETN and its agents, employees or affiliates or others. AETN reserves the right to disclose a user’s Personally Identifiable Information if AETN believes the user is in violation of AETN’s Terms of Use, even without a subpoena, warrant or other court order. 
+Cookies may be either permanent or temporary.  A+E uses both temporary and permanent cookies.  A temporary or “session” Cookie is placed on your computer during your visit to any of our Websites and is deleted when you exit your Internet browser and/or turn off your computer. A permanent or “persistent” Cookie means that the Cookie stays on your hard drive until you delete it. You can delete our permanent Cookie at any time by following the instructions contained in your browser’s help file, or by contacting the company providing your browser’s technical support.  A+E does not use cookies to store information such as credit card numbers, social security numbers or any other highly sensitive Personal Information. 
 
-**4\. Sale or Transfer of Information**
+You may configure your browser to accept or deny Cookies from our Websites.  However, disabling or denying Cookies from our Websites may render parts of them inaccessible or may cause certain web pages not to properly load. There are also several services and websites which allow you to visit websites, including our Websites anonymously. Again, you may not be able to access or use all of the web pages for the Websites if you use these anonymizing services or websites.
 
-In the event of a sale, merger, liquidation, dissolution or sale or transfer of substantially all of the assets of AETN or any Site, personal Information and/or other information collected about you from the Sites may be sold, assigned or transferred to the party acquiring all or substantially all of the equity and/or assets of AETN or any Site in order to permit the party to continue the operation of the applicable Site, including the Registered User Areas. Subject to your ability to opt-out, you consent to the sale and transfer of your information as described in this paragraph. 
+**9.       ****_WEB BEACONS_**
 
-**5\. Accessing, Updating or Deleting your Personally Identifiable Information**
+A+E may use “Web Beacons,” sometimes referred to as “clear gifs” or “web bugs,” which is another way (instead of Cookies) to help personalize your experience on the Websites.  Web Beacons are typically invisible to you and are generally embedded in very small clear graphics files. We may use Web Beacons to monitor certain non-personally identifiable information about you, including the URL of the page from which the Web Beacon originated, the type of browser used, the IP address of your computer and the time you viewed the Web Beacon. We may also use Web Beacons to assist our third party advertising and/or content companies in providing the contact they believe you want to see. Web Beacons are also used to allow such third parties to determine how many people view the advertisements and/or click through, and to assist in serving and managing advertisements and content.  While Web Beacons do not collect Personal Information, the information collected by them may be used in conjunction with Cookies to identify aggregate information about our Website users.
 
-If you are a Registered User and would like to review, update or delete your profile, please log in to and select the profile in which you would like to review, modify or delete information (i.e., the Personally Identifiable Information you have provided to us).  AETN is not in a position at this time to provide you with a copy of information that you have provided in response to a market survey or copies of communications you have sent to AETN’s site (e.g., inquiries). 
+**10.   ****_DMCA INFORMATION_**
 
-**6.   Opting Out**
+Personal Information that you provide to us in association with a DMCA notification or counter-notification will be disclosed to third parties. All information contained in or associated with a DMCA notification will be disclosed to the alleged infringer.  All information contained in or associated with a DMCA counter-notification will be disclosed to the initial claimant.  See our [Copyright Policy](http://www.aetn.com/DMCA) for more information on notifications and counter-notifications.
 
-AETN respects the privacy of your Personally Identifiable Information. If you tell AETN that you do not wish to have this information used as a basis for further contact with you, AETN will respect your wishes. You also may choose not to provide AETN with certain information, but that may result in you being unable to use certain features of the Sites. 
+**11.   ****_CONTACT BY A+E_**
 
-You may instruct AETN to stop sending you certain promotional materials (e.g., e-mail messages, newsletters, postcards and letters) by following the unsubscribe instructions provided in those materials.  AETN may, however, continue to contact you to provide service to your account. Please note that if you use more than one name or e-mail address when communicating with AETN or participating on the Sites, you may continue to receive communications from AETN to any name and/or e-mail address which you have not specified in your opt-out request. 
+You do not have to participate in A+E’s mailing lists (newsletters) in order to use the Websites.  However, if you elect not to receive such newsletters, you may miss valuable information on A+E, its channels and shows and/or its goods or services.  A+E will not contact you nor send you marketing materials unless you have accepted to receive such contact or information (i.e., you have not opted out).
 
-AETN provides you with the following options for removing your Personally Identifiable Information from AETN’s database for marketing purposes: 
+**12.   ****_MAINTENANCE OF PERSONAL INFORMATION_**
 
-1.       You can send an email to [feedback@AETV.com](mailto:feedback@AETV.com); or 
+You can access your Personal Information contained in A+E’s database by contacting us at [feedback@aetv.com](mailto:feedback@aetv.com).  If you believe that any of your information is incorrect or needs updating, please let us know either at the email address listed in this section, or by U.S. Postal Mail to our address listed below (Attn: Information Access).  A+E will use reasonable efforts to correct your information and our records upon verification of the requested change.  If you no longer wish to receive email or postal notifications about our Websites, goods, services or special promotions, please let us know by sending an email to [feedback@aetv.com](mailto:feedback@aetv.com) or by sending us a letter via U.S. Postal Mail at our address listed below (Attn: Opt Out of Mailings) and specifying in the text of your email or letter which notifications you no longer wish to receive.  In addition, within the text of your email or letter, you should provide your exact name and address so that we can do our best to ensure that you stop receiving the notifications that you no longer wish to receive.  After such a request is received, A+E will use reasonable efforts to refrain from including you when sending such notifications by noting your opt out election in our database.
 
-2.       You can send mail to the following postal address: 
+You decide what Personal Information you make available to other users of our Websites, including in or on our bulletin boards, message boards, chats, blogs, posts and other disclosures.  All users of our Websites should be aware that information you make available via these disclosures is public and not private.  A+E is not responsible for and cannot control the actions of others who will have access to this information, therefore, we do not and cannot guarantee that the information you disclose in this manner will not be viewed by unauthorized persons.
 
-A&E Television Networks, LLC 
+A+E may provide security measures that are designed to restrict access to certain portions of the Websites, such as private chat rooms, restricted forums or instant messaging, but A+E cannot and is not responsible for circumvention of these security measures or for further distribution or use of any information you disclose in public areas by others.  We may also provide you tools to edit and remove the information or materials you make available on our Websites, but even after removal, copies of any information you post may remain viewable in cached, archived or otherwise saved media that is outside the control of A+E. You are solely responsible for any information and materials that you choose to make available on public areas of our Websites.
+
+**13.   ****_CHILDREN_**
+
+A+E does not knowingly solicit or collect information from children (defined as minors younger than thirteen (13) years of age).  If you are the parent or guardian of a child under the age of eighteen (18), or the legal age of contract majority, and have authorized your child to use your computer, we urge you to instruct your child never to give out his or her real name, address, phone number, email address or other personally identifying information while on our Websites.  There are no computer applications on our Websites which allow for the determination of your age. If A+E discovers that Personal Information of a child under 13 has been collected, A+E will take reasonable steps to delete this information. All information volunteered to A+E will be treated the same as information given by an adult.  A+E recommends that the Internet browsing behavior of any child should be carefully supervised by a responsible adult at all times.
+
+**14.   ****_LINKS TO OTHER WEBSITES_**
+
+Our Websites contain several links to or integrations with other websites, including but not limited to Facebook Connect, Twitter, Disqus, etc., whose information practices may be different than ours.  Neither A+E, nor any of its officers, directors, partners, affiliates, subsidiaries, employees, agents, representatives, vendors or suppliers is responsible for the content, privacy policies, products, services, reliability, viewpoint or accuracy of information on any such websites.  We do not control and are not responsible for the collection of personal information by third party websites, including websites owned or controlled by our preferred financial partners, advertisers, vendors and/or websites not controlled or authorized by A+E.  Third party websites that are accessed through links on our Websites or integrations with other websites have separate privacy policies.  We have no responsibility or liability for the policies implemented by third parties on their websites.  You should contact those third parties directly to ask questions about their privacy policies.
+
+If you enter or choose to leave our Websites via links to other non-A+E websites, your visits and actions on those websites are not covered by this Privacy Policy.
+
+**15.   ****_SECURITY_**
+
+The security and confidentiality of your information is extremely important to us.  We have implemented technical, administrative and physical security measures to protect your information from unauthorized access and improper use.  A+E makes access to your Personal Information subject to certain security measures, including technological controls such as “firewalls,” in accordance with industry standards.  When the use of an A+E web page involves the transmission of Personal Information or confidential information, A+E may use Secure Socket Layer (“ _SSL_ ”) technology to establish a secure connection between your computer and A+E.  SSL allows the transmission of encrypted information from your computer to A+E and back again and is currently the industry standard for Internet platform security.  From time to time, we review our security procedures in order to consider appropriate new technology and methods. 
+
+**_Please be aware that no data transmission over the Internet can be guaranteed to be 100% secure, so while A+E strives to protect your Personal Information, A+E cannot ensure or warrant the security of any information that you voluntarily give to A+E_**.
+
+A+E reserves the right to monitor all network traffic to our Websites to identify and/or block unauthorized attempts or intrusions to upload or change information or cause damage to any of our Websites in any manner.  Anyone using any of our Websites expressly consents to such monitoring.
+
+**16.   ****_YOUR_** ** _CALIFORNIA_** ** _PRIVACY RIGHTS_**
+
+FOR RESIDENTS OF CALIFORNIA ONLY.  Section 1798.83 of the California Civil Code requires select businesses to disclose policies relating to the sharing of certain categories of your Personal Information with third parties.  If you reside in California and have provided your Personal Information to A+E, you may request information about our disclosures of certain categories of Personal Information to third parties for direct marketing purposes. Such requests must be submitted to us at one of the following addresses: [feedback@aetv.com](mailto:feedback@aetv.com) ** ** or 
+
+A&E Television Networks, LLC  
+Attn: California Privacy Rights  
+235 East 45th Street  
+New York, NY 10017
 
 Attention: Digital Media Counsel, Legal & Business Affairs
 
-235 East 45th Street 
+Within thirty (30) days of receiving such a request, we will provide a list of the categories of Personal Information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of those third parties.  This request may be made no more than once per calendar year.  We reserve our right not to respond to requests submitted other than to the address specified in this section.
 
-New York, NY 10017 
+**17.   ****_GOVERNING LAW / TRANSMISSION OF INFORMATION_**
 
-**_E. Important Disclosures, Practices and Contact Information_**
+Our Websites are controlled and operated from our offices within the State of New York, United States of America.  By choosing to visit our Websites or otherwise provide information to A+E, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the State of New York as more fully set forth in our [Terms of Use](https://web.archive.org/termsofuse). 
 
-**1\. Third Party Links**
+If you are accessing our Websites from any location with regulations or laws governing personal data collection, use or disclosure that differ from United States laws or regulations, please note that through your continued use of our Websites, which is governed by the laws of the State of New York and the United States of America and this Privacy Policy, you are transferring Personal Information to the United States of America and you consent to that transfer and any associated processing.
 
-The Sites contain links to third-party web sites. Please be aware that AETN cannot control and is not responsible for the information collection practices of such web sites, which may differ from those of AETN.  AETN encourage you to review and understand the privacy policies of these web sites before providing any information to them. 
+**18.   ****_CHANGES_**
 
-**2\. Interactive Features**
+A+E has included the effective date of this Privacy Policy at the top and bottom of this web page. A+E reserves the right to make changes to any terms of this Privacy Policy at any time, however, A+E shall provide notification to you in advance of any changes becoming effective, such as by posting a notification on the Websites or via email. If you continue to access and/or use any of the Websites after the effective date of such changes, then such access and/or use will be deemed an acceptance of and an agreement to follow and be bound by the terms as changed. The revised Privacy Policy supersedes all previous notices or statements regarding the Websites. For this reason, we encourage you to review this Privacy Policy any time you access or use the Websites, and we recommend that you print out a copy for your records. 
 
-The Sites may make groups, discussions, chat rooms, forums and message boards available to users (see “Public Areas” described above). While you are required to register with the Sites to post in these areas, you are not required to provide any Personally Identifiable Information when using these areas but you may choose to do so. If you post Personally Identifiable Information online, it will be publicly available and you may receive unsolicited messages from other parties. AETN cannot ensure the security of any information that you choose to make public in a group, discussion, chat room, forum or message board. Also, AETN cannot ensure that parties who have access to such Personally Identifiable Information will respect your privacy. Please exercise caution when deciding to disclose Personally Identifiable Information in these areas. 
+**19.   ****_HOW TO CONTACT US_**
 
-**3\. Data Security**
+If you have any questions or concerns about this Privacy Policy, you may contact us through any of the following means, however, please be sure to specify the reason for your communication.  Please be aware that any opt out or other requests with specific email addresses will not be addressed through communication to these general means.
 
-AETN maintains a variety of commercially reasonable physical, electronic and procedural safeguards designed to protect your Personally Identifiable Information from unauthorized access and disclosure. For example, AETN uses accepted tools and techniques to protect against unauthorized access to AETN’s systems. You should be aware that AETN has no control over the security of other sites on the Internet that you might visit or with which you might interact even when a link may appear to another site from one of the Sites. 
+            Email:                           [feedback@aetv.com](mailto:feedback@aetv.com?subject=Privacy%20Policy%20Contact) **  **(subject line: “Privacy Policy Contact”) 
 
-AETN wants you to feel confident using the Sites but no system can be completely secure. Therefore, although AETN takes steps to secure your information, AETN does not promise, and you should not expect, that your personal information, searches or other communications will always remain secure. In the event of a breach of the confidentiality or security of your information, including your Personally Identifiable Information, AETN will notify you as necessary and if possible so you can take appropriate protective steps. AETN may notify you under such circumstances using the e-mail address(es) that AETN has on record for you and/or by regular mail (if available).  You also should carefully handle and disclose your Personally Identifiable Information. Please refer to the Federal Trade Commission’s web site at [http://www.ftc.gov/bcp/menus/consumer/data.shtm](http://www.ftc.gov/bcp/menus/consumer/data.shtm) for information about how to protect yourself against identity theft. 
+U.S. Postal Mail:             A&E Television Networks, LLC  
+Contact: [Website Name]  
+235 E. 45th Street  
+New York, NY 10017
 
-**4\. Children**
+Attention: Digital Media Counsel, Legal & Business Affairs
 
-Each of the Sites is a general audience site and is not intended for children under 13.  AETN requires that only persons 13 years of age or older use any of the Sites. By using the Sites, you hereby represent that you are at least 13 years old.  
+Telephone:                    212-210-1400 ****
 
-AETN does not knowingly market to, solicit information, accept service or collect information from children under the age of 13.  The Sites may ask users for their birth dates to ensure that the Sites are not collecting information from children under age 13 or to identify when additional steps may need to be taken in connection with information collected from children under age 18.  When a Site has actual knowledge that it collects information from children or offers a service directed toward children, it will comply with applicable laws, including the U.S. Children's Online Privacy Protection Act.  ****
+Facsimile:                      212-210-1308, Attention: Digital Media Counsel, Legal & Business Affairs 
 
-**5\. Changes to this Privacy Policy**
+**_© 2011 A &E Television Networks, LLC.  \-- All Rights Reserved_** **.**
 
-At any time without prior notice, AETN may update this Privacy Policy to reflect changes in AETN’s practices. When AETN posts changes to this Privacy Policy, AETN will revise the "Last Updated" date at the top of this page.  If AETN makes any material change to this Privacy Policy, AETN will notify each Registered User by sending an e-mail to the e-mail address provided to AETN in a Registered User’s account, profile and/or registration and/or by prominently posting notice of the changes on the Sites.  AETN will offer you the opportunity to opt-out of any materially changed Privacy Policy.  AETN encourages you to bookmark this Privacy Policy and to periodically review it to inform yourself of changes to it or any of AETN’s other policies. 
-
-Any changes to AETN’s Privacy Policy will become effective upon AETN’s posting of the updated policy. Use of any of the Sites constitutes your acceptance of the terms of this Privacy Policy then in effect.
-
-**6\. California Privacy Rights Under California Civil Code Section 1798.83**
-
-If you are a resident of California (“California Users”), in addition to the rights set forth in this Privacy Policy, you generally have the right to request information from AETN regarding the manner in which AETN shares certain categories of Personally Identifiable Information with third parties for their direct marketing purposes. 
-
-Under the law, however, a business is not required to provide this information if it adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying California Users of their rights to prevent disclosure of personal information and providing a cost free means to exercise that right. __****
-
-Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as AETN has no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how it will handle your information.
-
-Please note that AETN is only required to respond to one request per customer each year.  AETN is not required to respond to requests made by means other than through this e-mail address
-
-**7\. Users From Outside the United States**
-
-By visiting any of AETN’s Sites, submitting information or using any of AETN’s products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to having your data transferred to and processed in the United States.  If you do not agree to this Privacy Policy, please do not use AETN’s Sites. 
-
-The Sites are controlled and operated by AETN from the United States.  AETN does not represent or warrant that the Sites, or any part thereof, are appropriate or available for use in any particular jurisdiction. Those who choose to access the Sites do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. You also are subject to United States export controls in connection with your use of the Sites and/or services related thereto and are responsible for any violations of such controls, including, without limitation, any United States embargoes or other federal rules and regulations restricting exports. AETN may limit the availability of the Sites, in whole or in part, to any person, geographic area or jurisdiction that AETN chooses, at any time and in AETN’s sole discretion. 
-
-**8\. No Rights of Third Parties**
-
-This Privacy Policy does not create rights enforceable by third parties. 
-
-**9\. Contacting AETN**
-
-If you have any questions about this Privacy Policy, the practices of AETN’s Sites or your dealings with us, please feel free to contact AETN at:
-
-·         A&E Television Networks, LLC, 235 East 45th Street, New York, NY 10017, Attn: Digital Media Counsel, Legal & Business Affairs 
-
-·         Fax: (212) 907-9497, Attn: Digital Media - Privacy Policy Feedback 
-
-·         Email: [feedback@AETV.com](mailto:feedback@AETV.com)
+**_Updated: July 21, 2011_**
