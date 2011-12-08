@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kididdles.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213144024id_/http%3A//kididdles.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kididdles.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208155023id_/http%3A//www.kididdles.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kididdles - songs and lyrics from KIDiddles
 
@@ -35,5 +35,4 @@ We use industry-standard encryption technologies when transferring and receiving
 
 If you feel that this site is not following its stated information policy, you may contact us at the above address, via our [Contact Us](https://web.archive.org/contact-us.html) page, or through your state or local consumer protection office.
 
-**[   
-Christmas ](http://www.123greetings.com/aff-bin/category/7026/edec_c)**
+[](http://www.twitter.com/KIDiddles)
