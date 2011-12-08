@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calorababy.co.za privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427152947id_/http%3A//www.calorababy.co.za/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calorababy.co.za privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208063929id_/http%3A//www.calorababy.co.za/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | CaloraBaby.co.za
 
