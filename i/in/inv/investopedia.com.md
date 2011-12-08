@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629064809id_/http%3A//www.investopedia.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209001436id_/http%3A//www.investopedia.com/corp/privacy.asp) for the most accurate reproduction.*
 
-# Investopedia.com - Your Source For Investing Education - Privacy Policy
+# Privacy Policy | Investopedia
+
+## Investopedia.com Privacy Statement
 
 **Revised and posted as of: August 4, 2010**
 
@@ -60,17 +62,17 @@ Registered users may change the information stored in their member profile such 
 **Sharing of Information**  
 When you are on an area of Investopedia and are asked for personal information, you are sharing that information with Investopedia as well as business partners and vendors providing hosting and other services for Investopedia.
 
-We use third parties to provide credit card processing, e-mail service providers and hosting services on our site. When you sign up for such services, we will share your personally identifiable information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service.
+We use third parties to provide processing, e-mail service providers and hosting services on our site. When you sign up for such services, we will share your personally identifiable information as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for any other purpose. If you do not want your information to be shared, you can choose not to allow the transfer of your information by not using that particular service.
 
 In addition, if you provide any personally identifiable information via an advertiser promotion, please be aware you are directly providing your personally identifiable information to that advertiser.
 
 From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you, such as your name and e-mail. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. We use this personally identifiable information to notify contest winners and award prizes.
 
-We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users? personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
 We also have features that allow you to send an e-mail to yourself and/or others about an item on our site. If you choose to use our e-mail referral service, you will be required to provide the e-mail address or addresses that will be used in the notification. Upon form submission an e-mail will be generated to your recipient(s) inviting them to visit the URL you have recommended. We do not store this information other than for the sole purpose of sending this one-time e-mail.
 
-Widgets are small content modules that users can embed on their own sites. We offer widgets that are hosted on Investopedia, like our embeddable video player, as well as widgets that are powered by 3rd party vendors. Use of the Investopedia widgets is subject to the Investopedia [terms of use](https://web.archive.org/corp/terms.asp), but downloading or embedding these widgets on other websites is not covered by this privacy statement.
+Widgets are small content modules that users can embed on their own sites. We offer widgets that are hosted on Investopedia, like our embeddable video player, as well as widgets that are powered by 3rd party vendors. Use of the Investopedia widgets is subject to the Investopedia [terms of use](http://www.investopedia.com/corp/terms.asp), but downloading or embedding these widgets on other websites is not covered by this privacy statement.
 
 **Aggregate, Anonymous Information With Advertisers**  
 Investopedia derives the majority of its revenue from advertising and sharing information is essential to keeping our services affordable to users. In order to attract and retain advertisers we use the aggregated, anonymous information that we gather (as well as information from third-party market researchers) to describe our services to partners and to assist our advertisers and sponsors to better understand our audience. We do not disclose personally identifying information about our users to these parties.
