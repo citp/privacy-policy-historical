@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225161400id_/http%3A//somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somethingawful.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208101112id_/http%3A//www.somethingawful.com/d/feature-articles/website-privacy-policy.php) for the most accurate reproduction.*
 
 # Something Awful's Privacy Policy
 
@@ -65,15 +65,10 @@ Questions, comments, or inquiries may be sent to [webmaster@somethingawful.com.]
   
 
 
-  * [The Patchwork Game](http://www.somethingawful.com/d/video-game-article/cheap-game-descriptions.php "The Patchwork Game")  
-**Video Game Article**
+  *   * [December 6, 2011](http://www.somethingawful.com/d/twitter-tuesday/tt12-06-11.php "December 6, 2011")  
+**Twitter Tuesday**
 
-Two wrongs don't make a right, but dozens of bad games might make a good one.
-
-  * [Christmas Dog!](http://www.somethingawful.com/d/photoshop-phriday/christmas-dog-bountyhunter.php "Christmas Dog!")  
-**Photoshop Phriday**
-
-The SA forum goons share their holiday bounty.
+Twiter is ubed by nillions of people every dat to pobt cool things abot life in todat's woled.
 
   * 
 
