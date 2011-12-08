@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206064554id_/http%3A//www.unisfair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisfair.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208123610id_/http%3A//www.unisfair.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Unisfair
 
@@ -72,6 +72,8 @@ No data transmissions over the Internet can be guaranteed to be 100% secure. Con
 
 If Unisfair learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Unisfair may post a notice on the Service if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at security-notice@unisfair.com.
 
+If Unisfair should ever file for bankruptcy or have its assets sold to or merge with another entity, information Unisfair receives through the Service will be treated as a Unisfair asset and may be transferred in accordance with applicable legal limitations.
+
 ## Changes and Updates to this Privacy Policy
 
 We may occasionally update this Privacy Policy. When we do, we will also revise the “Last Updated” section below. For changes to this Privacy Policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will use commercially reasonable efforts to obtain your consent before implementing the change. We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the information we collect. Your continued use of the Service constitutes your agreement to this Privacy Policy and any updates.
@@ -82,3 +84,6 @@ If you have any questions, comments, or concerns about this Privacy Policy, plea
 Menlo Park, CA 94025 USA. We will attempt to respond to your inquiry within 30 days of its receipt.
 
 **Effective Date/Last Updated: June 29, 2010**
+
+**[](http://www.etrust.org/cert/897656.html)  
+**
