@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianpublicholidays.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629192829id_/http%3A//www.indianpublicholidays.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianpublicholidays.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208032533id_/http%3A//www.indianpublicholidays.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Indian Public Holidays | Public Holidays in India
 
