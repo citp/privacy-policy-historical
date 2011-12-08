@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610170822id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleschecks.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208194802id_/http%3A//www.styleschecks.com/service/service.aspx%3FpageCode%3D54) for the most accurate reproduction.*
 
-# Personal Checks, Labels, Checkbook Covers and Personal Cards ... The Styles Check Company
+# Privacy Policy for The Styles Check Company & StylesChecks.com
 
-[Customer Service](https://web.archive.org/web/20110610170822id_/http%3A//www.styleschecks.com/service/customerservice.aspx) > Privacy Policy  
+[Customer Service](https://web.archive.org/web/20111208194802id_/http%3A//www.styleschecks.com/service/customerservice.aspx) > Privacy Policy  
 
 
 **This is the Privacy Policy for The Styles Check Company.**
