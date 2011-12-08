@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119091542id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208190704id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Healthcare Jobs, Healthcare Employment | HealthJobsNationwide.com
 
@@ -42,7 +42,7 @@ We may take the information we receive from individuals responding to our Custom
 **Where to Direct Questions About HealthJobsNationwide.com's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact:
 
 HealthJobsNationwide.com, an HSI Company  
-3211 S. Cherokee Lane, Suite 640  
+3205 S. Cherokee Lane, Suite 110  
 Woodstock, GA 30188  
 [support@healthjobsnationwide.com](mailto:support@healthjobsnationwide.com)  
 Tel: (888) 861-5627
