@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609193824id_/http%3A//www.westminster.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208034910id_/http%3A//www.westminster.gov.uk/privacy) for the most accurate reproduction.*
 
 # Westminster City Council - Web Site Privacy Policy
 
@@ -49,7 +49,7 @@ Under the Data Protection Act 1998, you can make a formal request for the follow
 
 
 
-The council's Data Protection Policy is available to view via the [Publication Scheme](http://www3.westminster.gov.uk/publications/ "Publication Scheme")
+The council's Data Protection Policy is available to view via the [Publication Scheme](http://transact.westminster.gov.uk/publications/ "Publication Scheme")
 
 ##### Contact
 
