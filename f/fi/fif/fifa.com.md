@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fifa.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514123853id_/http%3A//www.fifa.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fifa.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208112444id_/http%3A//www.fifa.com/legal/privacy.html) for the most accurate reproduction.*
 
 # FIFA.com - PRIVACY POLICY
 
@@ -8,16 +8,16 @@
 ** **8044 Zurich  
 ** **Switzerland**
 
-Welcome to FIFA.com ("the Website"), operated by or for the Fédération Internationale de Football Association (FIFA) and the entities it controls (collectively, "FIFA"). FIFA takes your privacy seriously. Please read the following to learn more about our Privacy Policy and the ways in which we use your information before you proceed with use of the Website.
+Welcome to FIFA.com ("the Website"), operated by or for the Fédération Internationale de Football Association (FIFA) and the entities it controls (collectively, "FIFA"). FIFA takes your privacy seriously. Please read the following to learn more about our Privacy Policy and the ways in which we use your information before you proceed with use of the Website. 
 
- ** _What this Privacy Policy Covers_**
+**_What this Privacy Policy Covers_**
 
-This Privacy Policy covers the treatment of personally identifiable information that is collected when you are on the Website, and when you use the Website services, as described in this Privacy Policy.
+This Privacy Policy covers the treatment of personally identifiable information that is collected when you are on the Website, and when you use the Website services, as described in this Privacy Policy. 
 
-This policy does not apply to the practices of companies that FIFA does not own or control, or to people that FIFA does not employ or manage, including without limitation third-party advertisers or sponsors to whom you provide information. FIFA is not responsible for privacy policies or practices of other websites to which you choose to link from the Website, and FIFA encourages you to review the privacy policies of those other web sites so you can understand how they collect, use and share information.
+This policy does not apply to the practices of companies that FIFA does not own or control, or to people that FIFA does not employ or manage, including without limitation third-party advertisers or sponsors to whom you provide information. FIFA is not responsible for privacy policies or practices of other websites to which you choose to link from the Website, and FIFA encourages you to review the privacy policies of those other web sites so you can understand how they collect, use and share information. 
 
- ** _Information Collection and Use_**  
-FIFA does not collect personal identifying information when you access the Website homepage and browse the Website except as described in this Privacy Policy or the relevant part of the Website.
+**_Information Collection and Use_**  
+FIFA does not collect personal identifying information when you access the Website homepage and browse the Website except as described in this Privacy Policy or the relevant part of the Website. 
 
   * FIFA collects personally identifiable information when you register for an account and when you enter into transactions, promotions or sweepstakes. The personally identifiable information collected may include but is not limited to the following: e-mail address, last name, first name, address, zip code, country of residence, passport/id number, nationality, birthday, gender, billing address, credit card details, chosen screen name, chosen password, answer to security question, PS3 gamer tag for the FIFA Interactive World Cup, opt-in for individual services e.g. Fantasy;
   * FIFA also automatically receives and records information on its server logs from your browser including your IP address, FIFA's cookie information, and the page you requested;
@@ -26,7 +26,7 @@ FIFA does not collect personal identifying information when you access the Websi
 
 
 
- ** _Information Sharing and Disclosure_**
+**_Information Sharing and Disclosure_**
 
   * FIFA may send personally identifiable information about you to other companies or people when:
   *     * we have your consent to share the information; or
@@ -37,47 +37,47 @@ FIFA does not collect personal identifying information when you access the Websi
 
 
 
- ** _Cookies_**
+**_Cookies_**
 
- **FIFA cookies**
+**FIFA cookies**
 
-FIFA may set and access FIFA cookies on your computer. A cookie is a text-only string of information that a website transfers to the cookie file of your computer's hard disk so that the Website can remember who you are.
+FIFA may set and access FIFA cookies on your computer. A cookie is a text-only string of information that a website transfers to the cookie file of your computer's hard disk so that the Website can remember who you are. 
 
-A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
+A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
 
-When you visit the Website we send you a cookie. Cookies may be used in the following ways:
+When you visit the Website we send you a cookie. Cookies may be used in the following ways: 
 
   * to help us recognise you as a unique visitor when you return to the Website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly.
   * to compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way.
 
 
 
-Two types of cookies may be used on this website, -session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).
+Two types of cookies may be used on this website, -session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). 
 
- **Third Party Advertising**
+**Third Party Advertising**
 
-Other companies that are presenting advertisements on some pages may set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to FIFA's cookies.
+Other companies that are presenting advertisements on some pages may set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to FIFA's cookies. 
 
- **Disabling/Enabling Cookies**
+**Disabling/Enabling Cookies**
 
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.
+You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. 
 
-Find out how to disable/enable cookies by accessing the "Help" menu in your browser's menu bar and search for the term "cookies".
+Find out how to disable/enable cookies by accessing the "Help" menu in your browser's menu bar and search for the term "cookies". 
 
- ** _Security_**
+**_Security_**
 
-We have implemented reasonable technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to defeat those measures or use your personal information for improper purposes.
+We have implemented reasonable technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to defeat those measures or use your personal information for improper purposes. 
 
-If you communicate with FIFA by e-mail, you should note that the secrecy of Internet e-mail is uncertain. By sending sensitive or confidential e-mail messages or information which are not encrypted you accept the risk of such uncertainty and possible lack of confidentiality over the Internet.
+If you communicate with FIFA by e-mail, you should note that the secrecy of Internet e-mail is uncertain. By sending sensitive or confidential e-mail messages or information which are not encrypted you accept the risk of such uncertainty and possible lack of confidentiality over the Internet. 
 
- **Your right to access information**
+**Your right to access information**
 
-You are entitled to see the information held about you. If you wish to do this, please us the contact form at <http://www.fifa.com/contact/form.html>_._ We may require you to provide verification of your identity and to pay an administration fee to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation.
+You are entitled to see the information held about you. If you wish to do this, please us the contact form at <http://www.fifa.com/contact/form.html>_._ We may require you to provide verification of your identity and to pay an administration fee to provide a copy of the information we hold. Please note that in certain circumstances we may withhold access to your information where we have the right to do so under current data protection legislation. 
 
- **Updating your information**
+**Updating your information**
 
 You may review, correct, update or change your personal information at any time by accessing your account on FIFA.com _._
 
- **Changes to this Privacy Policy** This policy may be amended from time to time. If we amend the Privacy Policy in any way we will place an updated version on this page of the Website. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on the Website.
+**Changes to this Privacy Policy** This policy may be amended from time to time. If we amend the Privacy Policy in any way we will place an updated version on this page of the Website. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on the Website. 
 
- **Questions or Suggestions** If you have questions or suggestions about this Privacy Policy or your personal information, please use the contact form at <http://www.fifa.com/contact/form.html>.
+**Questions or Suggestions** If you have questions or suggestions about this Privacy Policy or your personal information, please use the contact form at <http://www.fifa.com/contact/form.html>. 
