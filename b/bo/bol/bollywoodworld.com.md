@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodworld.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514135740id_/http%3A//bollywoodworld.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodworld.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208205807id_/http%3A//bollywoodworld.com/company/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -22,6 +22,10 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
+
+**update**  
+A conspicuous link to the OBA choice mechanism (e.g., opt-out link) provided by the NAI member, and/or a conspicuous link to the opt-out page on the NAI’s consumer website.   
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
 Thanks for reading Bollywood World Privacy Policy.
 
