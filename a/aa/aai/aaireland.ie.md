@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the aaireland.ie privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518202716id_/http%3A//www.aaireland.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaireland.ie privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208083308id_/http%3A//www.aaireland.ie/AA/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Data Protection & Privacy Policy for AA Ireland
+# AA Ireland | Data Protection & Privacy Policy | AA Ireland
 
-* * *
+## Committed to protecting your privacy
 
 "AA" means the AA group of companies including AA Ireland Limited and its subsidiary and holding companies. A list of the companies within the AA Group can be obtained from the The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2.
 
 AA (We) are committed to protecting your privacy. We comply with the principles of the Data Protection Acts 1988 and 2003 and aim to maintain consistently high levels of best practice in our processing of personal and/or sensitive personal data.
 
 ## How we use information you provide us
-
-* * *
 
 We use the information we receive from you to provide goods and/or services that you request, to communicate with you, and to personalise our information sent to you. We do not sell, trade, or rent your personal information to others.
 
@@ -26,21 +24,15 @@ When you enter a contest or other promotional feature, we may ask for your name,
 
 ## Other Product and Services
 
-* * *
-
 Occasionally, we may also use the information we collect to notify you by post, telephone, mobile telephone, email and/or SMS about new or existing AA services, products and special offers we think you"ll find valuable.
 
 Generally by providing the requested data you consent to AA using that data for administrative purposes and for informing you of other products and services by post, SMS, telephone, mobile telephone and/or email. We may also use the information we collect to occasionally notify you about important functionality changes to the website.
 
 ## Opt Out
 
-* * *
-
 Each time you receive marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an "opt-out". If you wish to exercise the opt-out, write to The Data Protection Officer, AA Ireland Ltd, 56 Drury Street, Dublin 2, email us at aadataprotection@aaireland.ie or telephone us at 1800 72 74 76. If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
 
 ## Data Protection
-
-* * *
 
 As required by the Data Protection Acts 1988 and 2003, we follow strict security procedures in the storage and disclosure of information you have given to us
 
@@ -61,8 +53,6 @@ In the event of telephone calls from you, we also reserve the right to ask secur
 
 ## Your consent
 
-* * *
-
 Before you provide any data to us, we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples might be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or written, or by using our website, you consent to the collection, use and processing of this information by AA as set out herein including to provide and send you information about their services.
 
 Subsequent to your purchase of a product or service, we may enter into an arrangement for that service to be provided by a new third party. If this happens, the terms and conditions of your contract with us will provide that you consent to the transfer and processing of personal and/or sensitive personal data to the new provider, subject to the requirement of the Data Protection Acts 1988 and 2003 and associated regulations.
@@ -71,8 +61,6 @@ If you are an AA member/customer, you consent to the AA keeping you up to date a
 
 ## How we use cookies
 
-* * *
-
 Cookies are text files, which identify your computer to our server. AA will automatically issue your computer with a cookie whenever you register on our website, (or possibly when you browse), in order to track traffic flows and to additionally make our website easier for you to use
 
 Cookies themselves only record which areas of the site have been visited by the computer in question, and for how long. You have the opportunity to set your computers to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time.
@@ -80,8 +68,6 @@ Cookies themselves only record which areas of the site have been visited by the 
 Selecting not to receive cookies can mean that certain services cannot then be provided. It is worth noting that some of the third parties present on our Website may also issue cookies.
 
 ## How to accept cookies
-
-* * *
 
 ## Netscape Communicator 8.0
 
@@ -187,32 +173,22 @@ If you are not using any of the above browsers, then you should select "cookies"
 
 ## Disclosure of information to third parties
 
-* * *
-
 As previously mentioned AA does not sell, trade or rent your information and will never disclose information about you to third parties, except to fulfil your specific orders for a product or information in the event that third parties deliver the relevant service. For example, if you take out an insurance policy provided by a third party, they will need your details in order to administer the policy and process any claims. Other circumstances where we are operationally or contractually obliged to pass on your information may be where third parties administer part or all of the service, underwriting, for pricing purposes, testing, and to maintain management information for business analysis.
 
 We may of course be obliged at law to pass on your information to the Gardaí or any other statutory authority.
 
 ## Amendment and retention of information
 
-* * *
-
 Please advise us in writing at the address/details provided above as to any changes in your circumstances. Obviously it is preferable for us to retain up to date information. We will amend details as required. We are however obliged and permitted by law and regulation to retain certain types of data for a minimum period of time. The minimum period of time tends to be for six years but can be longer if the statute or regulation requires.
 
 ## Subject access requests
-
-* * *
 
 You have a statutory right of access to accessible personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2. Please refer to the information you wish to see giving dates if possible, and enclose your cheque for €6.35 payable to AA Ireland Limited. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
 
 ## Changes to our Privacy Policy
 
-* * *
-
 If we decide to change our Privacy Policy, we will update all relevant documentation and post any changes onto our websites so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
 
 ## Tell us what you think
-
-* * *
 
 AA welcomes your questions and comments about privacy. Please write to The Secretary, AA Ireland Ltd, 56 Drury Street, Dublin 2.
