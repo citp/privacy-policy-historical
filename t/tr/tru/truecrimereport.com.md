@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecrimereport.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615072131id_/http%3A//www.villagevoice.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecrimereport.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208040532id_/http%3A//www.villagevoice.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # New York Privacy Policy
 
