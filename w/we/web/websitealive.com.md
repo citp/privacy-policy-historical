@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610081427id_/http%3A//www.websitealive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitealive.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208172819id_/http%3A//www.websitealive.com/privacy) for the most accurate reproduction.*
 
 # Legal | WebsiteAlive
 
@@ -14,9 +14,9 @@ By using our the tools and services we provide, and visiting our web site such a
 
 AYU Technology Solutions, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@websitealive.com. If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program does not cover information that may be collected through software downloaded from the site.
 
-This privacy policy applies to data collected at the corporate website and client log in section of [www.websitealive.com](https://web.archive.org/web/20110610081427id_/http%3A//) as well as the data collected from our Active Chat application on our client’s sites. Please be aware that we act as a data processor in regards to the data collected on our client’s site, and process the data on behalf of our clients.
+This privacy policy applies to data collected at the corporate website and client log in section of [www.websitealive.com](https://web.archive.org/web/20111208172819id_/http%3A//) as well as the data collected from our Active Chat application on our client’s sites. Please be aware that we act as a data processor in regards to the data collected on our client’s site, and process the data on behalf of our clients.
 
-## I. Pertains to Data collection on [www.websitealive.com](https://web.archive.org/web/20110610081427id_/http%3A//)
+## I. Pertains to Data collection on [www.websitealive.com](https://web.archive.org/web/20111208172819id_/http%3A//)
 
 ## Personal Information Collected
 
