@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holytaco.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612091446id_/http%3A//www.holytaco.com/contact/holy-taco-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holytaco.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208152611id_/http%3A//www.holytaco.com/contact/holy-taco-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Holytaco
 
@@ -10,7 +10,7 @@ At Holytaco.com, a website operated by ChickiP, LLC (“ChickiP”), we are comm
 
 **Information submitted by you for inclusion on your Holytaco profile.**
 
-Information, pictures and media files you upload to your account (“Submissions”) will be posted on the site, subject to our [Users Terms and Conditions](https://web.archive.org/web/20110612091446id_/http%3A//www.holytaco.com/contact/terms%20of%20use) and accessible by all visitors to the site (unless you expressly restrict such access through your account settings), and ChikiP has no control over, and shall incur no responsibility for, how such visitors will use such Submissions. ChikiP reserves the right (but not the obligation) to remove or edit Submissions, but does not regularly review Submissions.
+Information, pictures and media files you upload to your account (“Submissions”) will be posted on the site, subject to our [Users Terms and Conditions](https://web.archive.org/web/20111208152611id_/http%3A//www.holytaco.com/contact/terms%20of%20use) and accessible by all visitors to the site (unless you expressly restrict such access through your account settings), and ChikiP has no control over, and shall incur no responsibility for, how such visitors will use such Submissions. ChikiP reserves the right (but not the obligation) to remove or edit Submissions, but does not regularly review Submissions.
 
 We may offer chat, user reviews, multi-player games, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by our Terms of Use. You should take care to not use personal information in your screen name or other information that might be publicly available to other users.
 
