@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeseotool.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609205622id_/http%3A//www.freeseotool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeseotool.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209004308id_/http%3A//www.freeseotool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Free SEO Tool - freeseotool.com
 
