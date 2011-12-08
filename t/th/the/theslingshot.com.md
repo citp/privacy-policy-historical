@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theslingshot.com privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217184837id_/http%3A//theslingshot.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theslingshot.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208022030id_/http%3A//theslingshot.com/privacy_policy) for the most accurate reproduction.*
 
-# theSlingshot.com
+# Slingshot
 
-## Privacy Policy
+## privacy policy
 
 Last updated 12/09/2010
 
