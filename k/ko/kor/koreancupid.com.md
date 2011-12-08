@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koreancupid.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609180710id_/http%3A//www.koreancupid.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koreancupid.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208141205id_/http%3A//www.koreancupid.com/Privacy.cfm) for the most accurate reproduction.*
 
 # KoreanCupid.com | Privacy Policy
 
