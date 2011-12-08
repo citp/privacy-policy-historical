@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxuryproperty.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626042654id_/http%3A//luxuryproperty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxuryproperty.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208234424id_/http%3A//luxuryproperty.com/privacy-policy) for the most accurate reproduction.*
 
 # LuxuryProperty.com Privacy Policy — LUXURY PROPERTY
 
