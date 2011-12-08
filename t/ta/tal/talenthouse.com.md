@@ -1,96 +1,95 @@
-> *The following text is extracted and transformed from the talenthouse.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216072309id_/http%3A//www.talenthouse.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talenthouse.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208195848id_/http%3A//blog.talenthouse.com/privacy-policy/%3Flang%3Den) for the most accurate reproduction.*
 
-# Talenthouse.com - Privacy Policy
+# Talenthouse Privacy Policy | Talenthouse News
 
-Effective 7th October 2008
+Last Updated: JUNE 18, 2009 
 
-Talenthouse provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [talenthouse.com](http://www.talenthouse.com/) (the " **Site** "). This Privacy Policy applies only to information that you provide to us through the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes.
+#### 1\. General
 
-As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
+This Talenthouse, Inc. Privacy Policy (“Privacy Policy”) applies to the Site located at: www.talenthouse.com (the “Site”). Talenthouse, Inc. (“Talenthouse” or “our”) respects the privacy of its users whether they (a) simply view the Site; or (b) participate in the interactive programs that Talenthouse may make available from time to time on the Site. This Privacy Statement is intended to explain the conditions under which Talenthouse collects, uses and discloses that information, and your rights in relation to that information. By visiting our Site and/or using the products and services made available to you on the Site, you are agreeing to the terms of this Privacy Policy. 
 
-## Information Collection and Use
+#### 2\. Children
 
-Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your membership of Talenthouse (together, the " **Service** ") and to enable users to enjoy and easily navigate the Site.
+The Site is not directed to children under the age of 13, and Talenthouse will never knowingly collect Personally- Identifying Information (as defined in Section 3(A) below) from anyone whom it knows to be under the age of 13. We recommend that minors 13 years of age or older ask their parents for permission before using the Site or sending any information about themselves to anyone over the Internet. 
 
-### Personally Identifiable Information.
+#### 3\. Gathering, Use and Disclosure of Non-Personally-Identifying Information
 
-  * When you register with us through the Site, as a member of Talenthouse, or when you create your own profile page on the Site we will ask you for certain pieces of personally identifiable information. This refers to information about you that can be used to contact or identify you (" **Personal Information** "). Personal Information includes, but is not limited to, your name, email address and home postal addresses.
-  
- 
-  * We also collect the other information that you provide as part of registration and the administration and personalization of your profile page (e.g., without limitation, zip code (on its own) and individual preferences) (" **Non-Identifying Information** ").
-  
- 
-  * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service and administer your enquiries that you make to Talenthouse.
-  
- 
-  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Talenthouse Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to provide an opportunity to you according to your preferences or profile.
-  
- 
-  * We may also use your Personal Information to contact you with Talenthouse newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See " **Changing or Deleting Information** ," below.) 
-  
-  
+#### A. Gathering Non-Personally-Identifying Information from Users of the Site Generally
 
+“Non–Personally–Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person or entity. “Personally–Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
 
-### Log Data
+_i. Web Browsers_  
+Like most Site operators, Talenthouse may gather from Site users Non-Personally-Identifying Information of the sort that Web browsers, depending on their settings, may make available. That information includes the user’s Internet Protocol (“IP”) address, operating system and browser type, and the locations of the Web pages the user views right before arriving at, while navigating and immediately after leaving the Site. 
 
-. When you visit the Site, whether as a Talenthouse member or a non-registered user just browsing (any of these, a " **Talenthouse User** "), our servers automatically record information that your browser sends whenever you visit a website (" **Log Data** "). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site's technical administration, to increase our Site's functionality and user-friendliness, and to better tailor it to our visitors' needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you and information appropriate to your interests. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
+_ii. Cookies_  
+A “Cookie” is a string of information that a Site stores on a user’s computer, and that the user’s browser provides to the Site each time the user submits a query to the site. Talenthouse uses Cookies to track the pages that users visit during each Site session. USERS WHO DO NOT WISH TO HAVE COOKIES PLACED ON THEIR COMPUTERS SHOULD SET THEIR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THE SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. SITE USERS WHO REFUSE WEB COOKIES ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
 
-## Cookies
+_iii.Web Beacons_  
+A “Web Beacon” is an object that is embedded in a web page. It is usually invisible to users but allows website operators to check whether a user has viewed a particular web page. Web Beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. You may not decline Web Beacons, however, they can be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. Third parties are not permitted to use Web Beacons on the Site.
 
-Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration username and login password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Talenthouse Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
+#### B. Use of Non-Personally-Identifying Information
 
-## Emailing Via a Talenthouse Account
+Talenthouse analyzes Non–Personally–Identifying Information gathered from users of the Site to help Talenthouse better understand how the Site is being used and to help improve users’ experience on the site. By identifying patterns and trends in usage, Talenthouse is able to better design the Site to improve users’ experiences, both in terms of content and ease of use. Talenthouse may link Non-Personally Identifying Information gathered using Cookies and Web Beacons with Personally-Identifying Information. 
 
-As part of the Service, Talenthouse members may communicate with other Talenthouse members and non-registered users through use of their accounts. Where Talenthouse members have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Talenthouse to those email addresses on their behalf. This email tool only initiates email messages when the Talenthouse member chooses to send a message. These email addresses will be stored in the address book the Talenthouse member creates and will be used only for the purpose of sending the email communication to the addressee. 
+#### C. Disclosure of Non-Personally-Identifying Information
 
-## Phishing
+From time to time, Talenthouse may also release the Non–Personally–Identifying Information gathered from Site users in the aggregate, such as by publishing a report on trends in the usage of the Site.
 
-Identity theft and the practice currently known as "phishing" are of great concern to Talenthouse. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account username, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
+#### 4\. Gathering, Use and Disclosure of Personally-Identifying Information
 
-## Information Sharing and Disclosure
+A. Gathering Personally-Identifying Information from Users of the Site Generally As defined above, Personally-Identifying Information is information that can be directly associated with a specific person. Talenthouse collects a range of Personally-Identifying Information from and about Site users. Much of this is information provided by users themselves when they register with the Site, create a profile and use the services on the Site. Site users are under no obligation to provide Talenthouse with Personally–Identifying Information of any kind, with the caveat that a user’s refusal to do so may prevent the user from using certain Site features. BY REGISTERING WITH THE SITE, YOU CONSENT TO THE USE AND DISCLOSURE OF YOUR PERSONALLY– IDENTIFYING INFORMATION AS DESCRIBED IN THIS “GATHERING, USE AND DISCLOSURE OF PERSONALLY–IDENTIFYING INFORMATION” SECTION. 
 
-### Talenthouse Members
+_i. Opting Out of Displaying your Age and Modifying Your Profile_  
+A user’s Personally-Identifying Information may be publicly available through a user’s profile or user ID display. Profile or user ID display may allow other users to see a user’s activities, including purchase and sales content, ratings, and comments. Users may elect not to publicly display their ages at any time by configuring your personal profile to indicate that you want to make your age private. You may review and revise your profile information at any time.
 
-. We will display your Personal Information in your profile page and elsewhere on the Site according to the preferences you set in your account. Any information you choose to provide should reflect how much you want other Talenthouse Users to know about you. We recommend that you guard your sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time. Talenthouse may, as part of the Service, enable you to migrate information from your Talenthouse profile page to third party websites, such as social networking environments. If you choose to avail of this option from Talenthouse, you consent to Talenthouse's sharing and disclosure of such information from your profile page, including your Personal Information, with those third parties.
+#### B. Use of Personally-Identifying Information
 
-### Aggregate Information and Non-Identifying Information
+Talenthouse may use the Personally-Identifying Information a user submits for any purposes related to Talenthouse’s business, including, but not limited to providing you with the service and personalizing the service for you. 
 
-. We may share aggregated information that does not include Personal Information with, and we may otherwise disclose Non-Identifying Information and Log Data to, third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+#### C. Disclosure of Personally-Identifying Information
 
-### Service Providers
+As described in Section 4(A) “Gathering Personally–Identifying Information,” users may, at their option, disclose their own Personally-Identifying Information by any means they choose. Talenthouse will also disclose Personally-Identifying Information in the following circumstances:
 
-. We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+_i. Third Party Service Providers_  
+Talenthouse will disclose Personally–Identifying Information to those Talenthouse employees, contractors, affiliates, vendors, creative challenge sponsors, creative invite sponsors and suppliers who process Personally–Identifying Information on Talenthouse’s behalf or participate with Talenthouse in the provision or operation of the Site. 
 
-### Compliance with Laws and Law Enforcement
+_ii. On-line Forums and Blogs, Project Web Services and Developer Web Services_  
+You may post Personally-Identifying Information on areas of the Site that may be viewed by other users or the public, although we recommend that you not do so. We urge you to use good judgment and not post Personally-Identifying Information that you do not want other users to know. YOU ASSUME ALL RESPONSIBILITY FOR ANY LOSS OF PRIVACY OR OTHER HARM RESULTING FROM YOUR VOLUNTARY DISCLOSURE OF PERSONALLY-IDENTIFYING INFORMATION. 
 
-. Talenthouse cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Talenthouse or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
+_iii. DMCA Infringement Notifications, Notices of Violations of Site Terms of Service and_  
+Other Communications Directed to Talenthouse By submitting a Digital Millennium Copyright Act Notice (“[DMCA Notice](https://web.archive.org/wp-content/uploads/2011/06/Talenthouse_DMCA_Notice_and_Counter_Notice.pdf)“) or other communications about content stored on or transmitted through the Site) you consent to have such communication forwarded to the person or entity who stored or transmitted the content addressed by your communication, in order to attempt to resolve the dispute. For notices regarding violations of the Site’s Terms of Use agreement or other communications (but not DMCA Notices), upon request Talenthouse will edit out your name and contact information. However, DMCA Notices (including any Personally-Identifiable Information included in the DMCA Notice) will be forwarded as submitted to Talenthouse without any deletions. 
 
-### Business Transfers
+_iv. By Law or to Protect Rights_  
+Talenthouse discloses Personally–Identifying Information, without notice to you, when required to do so by law, or in response to a subpoena or court order, or when Talenthouse believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of Talenthouse, other users, third parties or the public at large. 
 
-. Talenthouse may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. Talenthouse will notify you before transferring your information to a new entity as part of a merger, acquisition, reorganization or sale of some or all of its assets if the new entity's processing of your information will materially differ from that set forth in this Privacy Policy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
+_v. Business Transfers; Bankruptcy_  
+Talenthouse reserves the right to transfer all Personally-Identifying Information in its possession to a successor organization or acquirer in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of Talenthouse’s assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally–Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and affirmatively opt-in to accept it. Personally-Identifying Information submitted or collected after a transfer, however, will be subject to any new privacy policy adopted by the successor organization. 
 
-## Changing or Deleting Your Information
+_vi. Surveys_  
+From time to time, Talenthouse may also ask users to participate in surveys. Talenthouse will only disclose Non- Personally-Identifying Information collected by means of a survey in the aggregate, unless Talenthouse notifies users that Talenthouse will disclose Personally-Identifying Information collected by means of a survey at the time they take the survey in which case Talenthouse may disclose such Personally-Identifying Information. 
 
-All members of Talenthouse may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record. See below for privacy contact information.
+_viii. Talenthouse Email Service_  
+Users may have the opportunity to use a service to send electronic mail to another Talenthouse user or email list. In such cases, a user’s valid email address and real name will be included with such messages. In order to prevent abuse, users may not opt out of such a display, but may choose to refrain from using such service to transmit an email message. 
 
-## Security
+_ix. Security_  
+Talenthouse takes reasonable precautions to protect the security of users’ information. However, neither people nor security systems are foolproof. Therefore, while we use reasonable efforts to protect your Personally-Identifying Information, we cannot guarantee its absolute security. 
 
-Talenthouse is very concerned with safeguarding your information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.
+_x. Contests, Giveaways and other Promotions_  
+Talenthouse may offer Site users the opportunity to participate in contests, sweepstakes, giveaways and other promotions (collectively, “Contests”). Any entries and information, including Personally-Identifying Information, submitted in connection with Contests may be publicly disclosed. You will not be required to participate in any Contests. 
 
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+_xi. Email to Friends Feature_  
+Talenthouse may offer users the ability to send emails to friends. If you choose to use this feature, Talenthouse will only use your friends’ email addresses to send the requested emails to your friends. 
 
-## International Transfer
+_xii. Uploading Personal Information to Third Party Sites_  
+Talenthouse may enable you to migrate Personally-Identifying Information from Talenthouse to websites operated by third parties (“Third Party Sites”), including without limitation social networking websites. If you choose to use this option, Talenthouse will disclose your Personally-Identifying Information to those Third Party Sites. 
 
-Your information may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Talenthouse transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+_xiii. Marketing Communications._  
+If you opt in to receive marketing emails from us, Talenthouse will email you about products and services that we believe may be of interest to you. If you opt in to receive marketing emails from third parties, Talenthouse will provide your Personally-Identifying Information to third parties, so that those third parties may directly contact you about additional products and services. If you wish to opt out of receiving marketing emails from us or third parties, please follow the instructions at the bottom of each email. 
 
-## Links to Other Sites
+#### 5\. Collection and Use of Information by Third Parties
 
-Our Site may contain links to other websites. If you choose to click on such a link, you will be directed to that third party's website. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+The Site contains links to Third Party Sites and may permit you to post content including Personally-Identifying Information, to Third Party Sites subject to the Third Party Sites’ own privacy policies. Because Third Party Sites are not operated by Talenthouse, Talenthouse is not responsible for the content or practices of such Third Party Sites. The availability of links to Third Party Sites on the Site does not represent, warrant or imply that Talenthouse endorses any Third Party Site or any materials, opinions, goods or services available thereby. These Third Party Sites may ask you for Personally-Identifying Information. Talenthouse is not responsible for any information these Sites may obtain. Talenthouse does not oversee their policies or practices in collecting Personally-Identifying Information, and their privacy policies may differ from this Privacy Policy. If you choose to visit Third Party Sites, please review each Third Party Site’s privacy policy to make sure you understand how your Personally-Identifying Information and Non-Personally-Identifying Information may be used and shared with third parties. 
 
-## Our Policy Toward Children
+#### 6\. Changes to the Privacy Policy
 
-This Site is not directed to children under 14. We do not knowingly collect personally identifiable information from children under 14. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at Privacy@talenthouse.com. If we become aware that a child under 14 has provided us with Personal Information, we will delete such information from our files.
-
-## Contacting Us
-
-If you have any questions about this Privacy Policy, please contact us at [privacy@talenthouse.com](mailto:privacy@talenthouse.com) or at: **Privacy Matters c/o Talenthouse Inc, 655 Castro St, Mountain View, CA 94041, USA**
+Technology and the Internet are rapidly changing. Talenthouse therefore is likely to make changes to the Site in the future and as a consequence will need to revise this Privacy Policy to reflect those changes. When we revise the Privacy Policy, Talenthouse will post a notice advising you of the revision on the home page to the Site for 30 consecutive days. For users for whom Talenthouse maintains an email address, Talenthouse will email you a copy of the revised Privacy Policy at your most recently provided email address. It is therefore important that you update your email address if it changes. Please review this Privacy Policy periodically for an up-to-date understanding of Talenthouse’s policies and practices. 
