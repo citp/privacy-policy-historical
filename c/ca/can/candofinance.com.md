@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candofinance.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621021428id_/http%3A//www.candofinance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candofinance.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208232612id_/http%3A//www.candofinance.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Can Do Finance
 
@@ -42,9 +42,7 @@ We may find it necessary or be legally obligated to update this Privacy Policy f
 
 If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows: 
 
-Business and Legal Affairs   
-CanDoFinance.com/ValueClick Inc.   
-30699 Russell Ranch Road  
-Suite 250  
-Westlake Village, CA 91362  
-E-Mail: [privacy@valueclick.com](mailto:privacy@valueclick.com)
+CanDoFinance.com   
+PO Box 168  
+Monrovia, CA 91017  
+E-Mail: [contact us](https://web.archive.org/contact.html)
