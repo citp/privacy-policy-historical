@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weeklysauce.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609035359id_/http%3A//www.weeklysauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklysauce.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208034701id_/http%3A//www.weeklysauce.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Weekly Sauce
+# Privacy Policy | Weeklysauce
 
 **What information does WeeklySauce® collect and how does WeeklySauce® use it?**
 
@@ -34,4 +34,4 @@ By using our website, you consent to the collection and use of information by We
 
 **Additional Information**
 
-This notice details the privacy policies of WeeklySauce® for all of its users of its website, including how WeeklySauce® protects information provided or collected through this website. If you have questions regarding this policy or the practices of WeeklySauce®, contact us at WeeklySauce®, Privacy Division, located at 5455 Wilshire Blvd, Ste 903, Los Angeles, CA 90036.
+This notice details the privacy policies of WeeklySauce® for all of its users of its website, including how WeeklySauce® protects information provided or collected through this website. If you have questions regarding this policy or the practices of WeeklySauce®, contact us at WeeklySauce®, Privacy Division, located at 7162 Beverly Blvd, #580, Los Angeles, CA 90036. To unsubscribe from future emails from Weekly Sauce, please [use our unsubscribe page](http://www.weeklysauce.com/unsubscribe-me).
