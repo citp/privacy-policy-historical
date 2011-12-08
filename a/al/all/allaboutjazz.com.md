@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629044238id_/http%3A//www.allaboutjazz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208042529id_/http%3A//www.allaboutjazz.com/privacy.php) for the most accurate reproduction.*
 
 # All About Jazz Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We have been successfully processing secure credit card transactions since 1997. 
 
-When we request personal information from you (such as name, address, phone number and credit card number) it is done on our secure servers. We use industry standard technology to protect confidential information - SSL (Secured Socket Layer) - an advanced encryption technology that makes personal information unreadable as it travels over the Internet. In addition, **once your transaction is complete, your credit card number is deleted from our database.**
+When we request personal information from you (such as name, address, phone number and credit card number) it is done on our secure servers. We use industry standard technology to protect confidential information - SSL (Secured Socket Layer) - an advanced encryption technology that makes personal information unreadable as it travels over the Internet. In addition, once your transaction is complete, your credit card number is deleted from our database.
 
 We are so confident in our security, that we guarantee you'll pay nothing if unauthorized charges are made to your credit card as a result of shopping at All About Jazz.
 
@@ -38,11 +38,16 @@ All About Jazz is committed to the preservation of online privacy for all of its
 
 Any e-mail we send you will also include information on how to unsubscribe.
 
-**Cookies and How We Use Them**  
-A cookie is a small file stored on your computer by a Web site to give you a unique ID. Cookies help make it easier for you to use our site, and they help us provide you with the information you need - when and where you need it. Cookies provided by our Web site do not contain any credit card or personal information. We do not know who you are unless you provided that information voluntarily. All About Jazz uses cookies to track new visitors to our site and recognize past customers so that we may present more personalized content. We do not use cookies to personally identify anonymous site visitors. 
+**Cookies and How We Use Them**
 
-**External Links**   
-This site contains links to other sites. All About Jazz is not responsible for the privacy practices or the content of such Web sites. 
+A cookie is a small file stored on your computer by a Web site to give you a unique ID. Cookies help make it easier for you to use our site, and they help us provide you with the information you need--when and where you need it. Cookies provided by our Web site do not contain any credit card or personal information. We do not know who you are unless you provided that information voluntarily. All About Jazz uses cookies to track new visitors to our site and recognize past customers so that we may present more personalized content. We do not use cookies to personally identify anonymous site visitors. 
 
-**Contacting All About Jazz**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with these Web sites, you can contact: [privacy@visionx.com](mailto:privacy@visionx.com). 
+All About Jazz uses third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**External Links**
+
+This site contains links to other sites. All About Jazz is not responsible for the privacy practices or the content of such Web sites.
+
+**Contacting All About Jazz**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with these Web sites, you can contact: [privacy@visionx.com](mailto:privacy@visionx.com).
