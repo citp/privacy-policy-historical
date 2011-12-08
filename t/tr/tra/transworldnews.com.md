@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914214241id_/http%3A//www.transworldnews.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transworldnews.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208081434id_/http%3A//www.transworldnews.com/Privacy.aspx) for the most accurate reproduction.*
 
 # TransWorldNews - www.transworldnews.com/privacy.aspx
 
