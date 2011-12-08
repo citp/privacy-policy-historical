@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fastvideodownload.org privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613151529id_/http%3A//www.applian.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastvideodownload.org privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208104622id_/http%3A//www.applian.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### What Information We Collection and Why 
+###  Information We Collect and Why 
 
 Applian Technologies is the sole owner of the information collected on this site. We will not sell, share, or rent this information to anyone.   
 
@@ -73,8 +73,8 @@ Applian Technologies Inc.
 San Anselmo, CA  94960   
 Attn:  Customer Service
 
-  * **[General Inquiries](https://web.archive.org/web/20110613151529id_/http%3A//www.applian.com/support.php#GeneralContact)**
-  * **[Technical Support](https://web.archive.org/web/20110613151529id_/http%3A//www.applian.com/support.php#TechSupport) **
+  * **[General Inquiries](https://web.archive.org/web/20111208104622id_/http%3A//www.applian.com/support.php#GeneralContact)**
+  * **[Technical Support](https://web.archive.org/web/20111208104622id_/http%3A//www.applian.com/support.php#TechSupport) **
   * FAX: 415-480-1748 (USA)
 
 
