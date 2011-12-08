@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameranx.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609185453id_/http%3A//www.gameranx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameranx.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208145651id_/http%3A//www.gameranx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gameranx.com
 
@@ -6,14 +6,14 @@ This privacy policy describes how we collect and use personal data provided by o
 
 _privacy@gameranx.com_
 
-: 
+: 
 
 **_User Account Data_**  
 A user account is not required to comment, vote or submit wiki information on the site but it is required to Rate Games, Videos and Updates. When you sign up for a user account, you are required to provide:
 
-+ **_user name and password_** \- we use this information to create and manage your user account;
++  **_user name and password_**  \- we use this information to create and manage your user account;
 
-+ **_email address_** \- we will use this address to communicate service announcements and important updates about the site, which you consent to receive, and to match you with potential "friends" on the site;
++ **_email address_**  \- we will use this address to communicate service announcements and important updates about the site, which you consent to receive, and to match you with potential "friends" on the site;
 
 If you are logged in when you post content on the site, the content will be identified under your user name. If you are not logged in, it will be identified as anonymous.
 
@@ -40,9 +40,9 @@ If we offer a contest, we may ask for additional information such as name, addre
 If you sign up to receive our newsletter, we will use your email address to send you newsletters.
 
 **_Special Rules for Children_**  
-Children under the age of **13** are not eligible to become registered users. 
+Children under the age of  **13**  are not eligible to become registered users. 
 
-**_Information Sharing_**    Third Parties  
+**_Information Sharing_**    Third Parties  
 We will never provide your personally identifiable information to any third parties without your consent, except as described under "Our Service Provider" and "Investigating Abuse". We may provide third parties with aggregated or anonymous data about our users and their usage of our services that do not contain any individual's personally identifiable information.
 
 **_Our Service Providers_**  
@@ -59,11 +59,11 @@ we believe that your actions violate the law or our Terms of Use or threaten the
 
 **_Business Transfer_**  
 If we sell all or a portion of our business, we may transfer some or all of your information as a part of the sale. Accessing and Changing Your Account Information.  
-You can review your personal information and make any desired changes at any time by logging in to your account and editing the information on your profile page. If you want to close your Gameranx account, send an email to 
+You can review your personal information and make any desired changes at any time by logging in to your account and editing the information on your profile page. If you want to close your Gameranx account, send an email to 
 
 _account@gameranx.com_
 
-using the email account that you used to create your account. Within ten business days we will remove your profile and other personally identifiable information from our publicly viewable data, but your posts (with user name) will remain. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of our Privacy Policy.
+ using the email account that you used to create your account. Within ten business days we will remove your profile and other personally identifiable information from our publicly viewable data, but your posts (with user name) will remain. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of our Privacy Policy.
 
 **_Security_**  
 In order to secure your personal information, access to your user account from the website is password-protected. While we take security very seriously, no data transmission over the Internet or information storage technology is 100% secure. If you suspect that your Gameranx account has been compromised, please email us at 
@@ -73,4 +73,4 @@ _security@gameranx.com_
 .
 
 **_Changes to this Privacy Policy_**  
-If we make a material change in the way we use the personal data of our users, we will modify our privacy policy and will describe the changes under "Changes to the Privacy Policy". Your use of the website after any published change signifies your consent to the application of the revised policy to all information contributed before or after the date of those changes. 
+If we make a material change in the way we use the personal data of our users, we will modify our privacy policy and will describe the changes under "Changes to the Privacy Policy". Your use of the website after any published change signifies your consent to the application of the revised policy to all information contributed before or after the date of those changes.
