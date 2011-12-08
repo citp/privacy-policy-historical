@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exootlab.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314114733id_/http%3A//www.exootlab.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exootlab.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208170341id_/http%3A//exootlab.com/misc/privacy) for the most accurate reproduction.*
 
-# Exoot Games | Exoot Lab
+# Privacy Policy | Social Gameplex
 
   
 
