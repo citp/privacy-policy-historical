@@ -1,82 +1,51 @@
-> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323065737id_/http%3A//www.hardwareandtools.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwareandtools.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208023410id_/http%3A//www.hardwareandtools.com/support/privacy-policy.html) for the most accurate reproduction.*
 
 # HardwareAndTools.com: Privacy Policy
 
-  
-  
-  
-  
-|    
+## This privacy policy statement applies to the websites of:
 
+Hardware and Tools Corp.  
+490 Mcghee Road  
+Winchester, Virginia 22603-4634  
+Phone: 540-572-4000
 
-  * Information We Gather
-  * Checkout and Order Forms
-  * Cookies
-  * Security
-  * Opt Out Newsletters
-  * General Advice
-  * Amendments
+We respect your privacy with the most advanced online security safeguards and measures available. This is why we have taken the time to disclose our information collection practices, privacy policy and security policy. Please take the time to review this document.
 
+## For your protection, we do not sell or share your email address, physical address, phone number or any personal information. We do not store Credit Card Numbers, Expiration Dates or Credit Card Security Codes.
 
+Of the information we do collect, we allow you to access things such as your online purchase history and wish list. 
 
-HardwareAndTools.com is a trade name of Hardware and Tools Corp. This privacy statement demonstrates our firm commitment to privacy and to disclose our information gathering and dissemination practices. Questions regarding this statement should be directed to the Webmaster by emailing [webmaster@hardwareandtools.com](mailto:webmaster@hardwareandtools.com)
+## Collecting information provides specific benefits to our website visitors:
 
-## Information We Gather
+Tracking destination information gives us the ability to customize presentations based on products required or restricted from use in one location as opposed to other locations. For example, an offer on snow shovels before a snow storm is desirable in New Hampshire but not Florida. 
 
-Our websites log IP addresses and browser types, but we do not link IP addresses to anything personally identifiable. This means that users sessions are tracked, but users remain anonymous. You can browse our site without entering any personal information and therefore remain anonymous during your visit. We hope our visitors will register so that we can learn more about our visitors. Our order/registration form asks users for name, email, address, preferences, and some limited demographic information. This information is needed to rapidly process and ship your order. 
+## We collect information for the following purpose(s):
 
-We maintain a list of email addresses to send our newsletters containing special offers you may be interested in. If you prefer not to receive the newsletter, but would still like to register, you may register and opt out of our newsletter. Certain specials and bonus gifts will be available only with coupons included in the free newsletter. 
+**•**  Completing or supporting an activity.  
+**•**  Website and system administration.  
+**•**  Research and development.  
+**•**  Tailoring the website for its visitors.  
+**•**  Contacting our visitors (except via telephone) for promotion of the site or products.  
+**•**  Preserving social history as governed by existing law or policy.
 
-Back to Top
+## Who has access to the information we collect?
 
-* * *
+**•**  Ourselves and/or our agents which utilize the information only for the purpose given. **•**  Delivery services follow their own published privacy practices:  
+    _UPS, FedEx and the United States Postal Service do receive physical address,  
+   phone number and email address information to deliver packages._
 
-## Checkout and Order Forms
+## How long is information kept?
 
-The information that we require on our order form is used to process your orders quickly and accurately. Your contact information is used to send you the product that you purchase and your billing information will only be used to bill you for that product.  We do not sell or distribute email, addresses or telephone numbers, except to the carriers involved in delivering your packages to facilitate tracking and delivery.
+Information is retained for the duration of our stated business practices.
 
-Back to Top
+If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us with detailed information.
 
-* * *
+## Is simply your checkout information secured?
 
-## Cookies
+No. ALL checkout forms, customer service forms and even our "Call Me" phone call request service is handled through our SSL encrypted platform. Remember, **your email** is not secure, so we do not want sensitive confidential information sent by email.
 
-Our site uses cookies to keep track referrals and items in your shopping cart and wish list. We also use cookies to remember members passwords so you do not have to re-enter them each time they visit the site. You can set your browser to reject cookies, however, if certain cookies that track your selections are rejected, we won't be able to keep items in your cart from visit to visit. You will have to reenter this information on every visit.
+## What is your Security Policy?
 
-Back to Top
+Our security is cutting edge. Making a purchase from HardwareAndTools.com is perfectly safe. All personal information we receive during transmission is secured by Secure Sockets Layer (SSL) software, which encrypts the information you input. In addition, **we do not store** any credit card information, it is only transmitted to a secure third party during order processing.
 
-* * *
-
-## Security
-
-When you place an order online, your personal information and credit card information are scrambled using encryption technology before being sent over the Internet. This makes it virtually impossible for your information to be stolen or intercepted while being transferred through cyberspace. When we receive your order, it is kept encrypted behind a firewall until we're ready to process it. In addition, we erase most of your credit card information from our web site database so it is therefore safe from "hackers."
-
-Back to Top
-
-* * *
-
-## Opt Out Newsletters
-
-If at any time after registering, you change your mind about receiving the newsletter or sharing your information with third parties, you may visit the site and unsubscribe automatically. You may also use this feature to delete an old email address or add a new one.
-
-Back to Top
-
-* * *
-
-## General Advice
-
-Finally, although HardwareAndTools.com has a very strong Privacy Protection policy on our end, and do their utmost to protect privacy of all visitors, we bear no responsibility for anyone else's conduct with respect to material you transmit. As is true with ANY Internet usage and access to ANY Website, if you are using someone else's computer, or someone else has access to your computer, or spyware is resident on your computer, or you are using a corporate or other "network", it may be possible for that "someone else" or the "network" operator to retrieve copies of Email you sent from the computer and/or to trace the places you have been visiting on the Internet.
-
-Back to Top
-
-* * *
-
-## Amendments
-
-We may amend this Privacy Policy on a prospective basis (i.e., for future visits) at any time by posting a revised policy on our Web site. This policy has been modified as of June 15, 2007. Further, nothing in this Privacy Policy is designed to protect the privacy of visitors whose use of the Company's Website is, in our opinion, or that of our attorneys or affiliates is intended for illegal, improper or abusive purposes, for purposes of marketing or solicitation, or would violate any other terms and conditions relating to use of the Web site.
-
-Back to Top
-
-This policy has been updated as of August 28, 2007
-
-* * *
+However, it is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. Our network is also scanned daily by TrustGuard to ensure that you are protected against identify theft, viruses, malware and other online threats.
