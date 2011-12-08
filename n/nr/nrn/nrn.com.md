@@ -1,62 +1,123 @@
-> *The following text is extracted and transformed from the nrn.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219152021id_/http%3A//nrn.com/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrn.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208193634id_/http%3A//www.penton.com/PrivacyStatement/tabid/75/Default.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Nation's Restaurant News
+# Privacy Statement - Penton Media, Inc.
 
-Privacy Statement 
+### 
 
-### Lebhar-Friedman Inc. Privacy Policy
+Penton Media, Inc. considers your privacy important. We are committed to protecting the privacy of all those who provide us with their contact information while using our information, products, events, or services. This policy describes the ways that personally identifiable and anonymous information about our publication subscribers, online media product users, and event registrants is collected, how that information might be shared, and how someone can request changes to the way their personal information is used or shared.
 
-This site is produced by Lebhar-Friedman, Inc. This policy applies to all sites produced by Lebhar-Friedman, Inc. This policy does not cover information collected on sites linked to/from Lebhar-Friedman, Inc. sites.
+This privacy statement applies to websites operated by or on behalf of Penton Media, Inc. and its subsidiaries, affiliates, divisions and related companies (“Penton”).  
+ 
 
-Lebhar-Friedman, Inc. sites are committed to bringing you information tailored to your individual needs and, at the same time, to protecting your privacy. The following is a summary of the various ways we treat the information you provide us while accessing our sites:
+**Information You Volunteer**
 
-  1. _**What information does NRN-Online gather/track about you?**_
+Personally identifiable information is information that can identify you, such as your full name, email address, postal address, telephone number, and fax number.
 
-NRN-Online only collects personally identifying information with your specific knowledge and consent. For instance, when you register for our services, complete a survey or subscribe to our publications, you are asked to provide information such as your e-mail address, name, or phone number. Optional information such as your age or gender may also be requested.
+We collect personally identifiable information that you choose to provide to us when you subscribe to our magazines (either directly or through another company such as a subscription agency); sign up for email newsletters; enter a contest; participate in surveys; register for a web site, webcast, or tradeshow; or otherwise communicate with us. When you provide this information to us, you are no longer anonymous. 
 
-NRN-Online uses this information to provide you with the service you have requested. For example, if you subscribe to one of our magazines, we will use your e-mail address to send you a confirmation notice and your mailing address to send you your publication. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
+We also may receive information about you from other sources and add it to the information you have provided to us.
 
-NRN-Online also logs IP addresses — the location of your computer on the Internet — for systems administration and troubleshooting purposes. We do not link IP addresses to anything personally identifiable.
+If you purchase products or services on our website or through one of our printed forms, you may choose to provide us with your credit card information.
 
-  2. _**What does NRN-Online do internally with the information it gathers/tracks?**_
+Penton is not responsible for the information you volunteer about yourself in discussions in our forums or in publicly accessible interactions, or the information that you choose to make public in your member profile. To view or change your member profile, please return to the Penton business site where you registered.  
+ 
 
-NRN-Online may perform statistical analyses of user behavior in order to measure relative user interest in the various areas of our site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. In performance of these statistical analyses, we will disclose information to third parties in aggregate form.
+**Anonymous Information We Collect**
 
-Using the e-mail addresses provided at registration, NRN-Online periodically sends promotional e-mail to its registered users about services offered by NRN-Online and its advertisers. A user can indicate on the registration form that he or she does not wish to receive e-mail information from NRN-Online or its advertisers.
+We use cookies and other Internet technologies to enrich your online experience by managing our website and email programs. Our cookies do not contain any information, in itself, that is personally identifiable.  
+ 
 
-  3. _**With whom does NRN-Online share the information it gathers/tracks?**_
+**Cookies**
 
-NRN-Online does not sell any of our users' personal information. We may, however, share information with carefully selected companies who we think can offer services and products of interest to you. If you do not wish to have your information shared with these companies, please login to your [My Account](https://web.archive.org/MyAccount.aspx) page and select "No" for Special Communications emails.
+If your browser is set to allow cookies, we may store small amounts of information on your computer about what parts of our websites you have visited and what features you like best. We may then tailor the content you see to match your interests. We also may use cookies to identify members so that they don't have to re-enter their usernames and passwords. Cookies may also be used to limit the number of advertisements you see while on our site. By allowing us to understand how you use our site over time, cookies can help us provide you with a better, more relevant online experience.
 
-Although we will not sell your information, we cannot ensure, however, that your personal information will not be disclosed to third parities. By way of example, without limiting the foregoing, we may be forced to disclose information to the government under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications, or might disclose your information to other sites as part of offering additional functionality to you. Additionally, we can (and you authorize us to) disclose your personal information to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, we do not promise that your personal information will remain private.
+The cookies we store on your computer are not accessible on any other companies' websites.  
+Some ads on our site are provided by outside companies. If these ads contain cookies, they can be accessed only by those advertisers; we do not have access to them.  
+Most browsers allow you to modify your security to accept or reject cookies. You need not have cookies turned on to visit our sites, but without them, your access to some areas may be limited and custom navigation may not be available to you.  
+ 
 
-  4. _**Is Lebhar-Friedman, Inc. responsible for the content or the privacy policies of Web sites to which it may link?**_
+**Pixel Tags**
 
-No, those sites are responsible for maintaining their own privacy policy.
+Like many websites, Penton’s sites may use pixel tags, also known as web beacons, clear gifs, or web bugs. Pixel tags help us improve our understanding of our web traffic and visitor behavior, as well as gauge the response to our promotional efforts. This information is non-personally identifiable and is used for an aggregate picture of how visitors use our site.
 
-  5. _**What is a cookie?**_
+If you wish, you may disable pixel tags by setting your browser to omit images and disable Javascript.  
+ 
 
-A "cookie" is a small piece of information that a Web site can store in a designated file on your computer. It can be used, among other things, to identify you when you log in to a Web site. When you visit a site, that site can access only the information which it stored in your cookie -- not information put in your cookie by other sites. Our cookies do not contain any information that is, in itself, personally identifying.
+**Online Ad Serving**
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
+We use industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies, pixel tags, and other methods to collect information (typically not including your name, address, email address or telephone number) about your visits to our and other web sites to provide you with relevant advertisements about products, services, and events during your visit to our website. They can also provide us with aggregate pictures of traffic patterns, help us improve site experience, help advertisers better understand our services, and monitor advertising efforts. You can learn how to opt out of third-party advertisers' tracking methods in conjunction with links, online ads, etc. by visiting the advertisers' sites.  
+ 
 
-If you don't want cookies, your Web browser likely includes an option that allows you not to accept them. We don't recommend using this option, though; it makes browsing our site a less enjoyable experience. For instance, when you turn off your cookie option, you may have to enter information every time you visit the site, or a page may no longer be customized to your specifications.
+**How We Use Your Contact Information**
 
-  6. _**Will I receive unsolicited e-mail if I accept your cookies?**_
+We may use your contact information for any of the following reasons:
 
-No. Acceptance of cookies on our Web site does not result in your receiving any additional e-mail from us or from our advertisers. As noted in the above answer 2, when you registered, you chose whether to receive promotional e-mail from NRN-Online or from our advertisers.
-
-  7. _**How is my information kept secure?**_
-
-We use industry-standard efforts to safeguard the confidentiality of your personal information, such as firewalls, secure sockets layer, and password protection, where appropriate. However, "perfect security" does not exist on the Internet.
-
+  * To send you notices for subscription renewal. 
+  * To provide you with information about products or services you've ordered, including web events and tradeshows. 
 
 
 
-* * *
+We may also use your contact information to ask for your input to help in our research about our services, events, or products or to provide you with additional information about this site and about other Penton Media products, services, or events that we think might be of interest to you.
 
-**MINORS:** Lebhar-Friedman, Inc. sites are not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, or chatrooms. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites.
+All promotional and research email messages you receive from us will include an option to opt out of future email communications from that particular Penton business.
 
-If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+We may also send you e-newsletters with targeted, relevant content. Each e-newsletter will provide you with an opportunity to opt out of that particular e-newsletter.
 
-This Privacy Policy may be modified from time to time; notice of changes will appear on this page, so check back often. Any such changes will be prospective, never retroactive.
+In some cases, we may send you relevant, carefully-screened offers from reputable third party businesses or organizations. Many of our customers appreciate receiving these offers because they relate to their business or occupation. However, you will always be able to opt out of receiving future third party offers.  
+ 
+
+**Information We Share with Third Parties**
+
+We provide contact lists to third party companies that we have employed to provide us with specialized services, including customer service, subscription fulfillment, research, statistical analysis, list cleansing, postal mailings, email and fax deployment, telemarketing, and other information services. In compliance with privacy laws, we also provide our opt out lists to those third party companies so that they can be suppressed from the communications those companies send on Penton's behalf. We only deal with third party companies whom we believe share our commitment to privacy and who will keep your information secure.
+
+From time to time our sponsors wish to contact our subscribers who have indicated an interest in the products, services or events provided by such sponsors. If you opt-in to permit us to share your personally identifiable information with any sponsors or third parties, then you may receive communications directly from such sponsors or third parties. In addition, we may share your personally identifiable information with sponsors who appear in a particular e-newsletter of ours if you click on their link in the e-newsletter. 
+
+If you do NOT wish to have your email address shared with that e-newsletter's sponsors, you will be given an opportunity within the e-newsletter to opt-out or you may contact our customer service department at the number/email listed below.
+
+If you provide information on a co-branded site or while using a co-branded service, you grant us permission to share the information you have provided with that service or site partner. Their use of your information is subject to their privacy policies.
+
+Certain information, such as your password and credit card information, is never disclosed in any form whatsoever to any outside party.  
+
+
+**Content Quality Control**
+
+Penton uses a third-party to monitor user-generated content posted on our websites. When you submit a comment on a Penton website, our third party service provider, Mollom BVBA (“Mollom”), may collect, analyze, and store information about you and the content you submit for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at http://mollom.com/web-service-privacy-policy.  
+
+
+**Information Transfer**
+
+Penton is based in the United States of America. Any information you provide may be stored and maintained in a secure database in the United States or transferred to a secure database outside the United States.
+
+In the case of a change of ownership or a merger involving Penton or any business that is part of Penton, your contact information associated with that business would be one of those transferred assets.   
+ 
+
+**How We Keep Your Information Secure**
+
+We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to protect personal information from loss, misuse, or alteration.
+
+When we contract with other companies to provide us with services, we only share personal information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties.
+
+Due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.  
+ 
+
+**Children's Privacy**
+
+Penton's web sites are not intended for use by children, especially those under the age of 13. No one under the age of 13 should provide any personal information or participate in any forums, chats, or online discussions. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites. Please discourage your children from providing any personal information about themselves to anyone in any public discussion areas.  
+ 
+
+**Terms of Use**
+
+By using any of our websites, you consent to our use of your contact information as it is outlined in this privacy statement.
+
+Penton reserves the right to access and disclose personally identifiable information to comply with applicable laws, lawful government requests and court orders, or to investigate alleged fraud or violations of the Terms of Use of Penton’s websites.
+
+If we decide to change our privacy statement, we will post the changes on this page. Users are encouraged to review this page for any changes. Your continued use of this site constitutes your acceptance of this entire privacy statement.  
+ 
+
+**How to Reach Us**
+
+If you wish to update your print magazine subscription contact information, please go to the magazine's home page. If you wish to opt out of receiving email, faxes, or phone calls from any Penton business, please send an email to privacy@penton.com.
+
+If you wish to contact Penton's Corporate Privacy Manager, please send your specific questions to: privacy@penton.com.
+
+September 29, 2010
