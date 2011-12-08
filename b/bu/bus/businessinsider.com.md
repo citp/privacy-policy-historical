@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the businessinsider.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616032539id_/http%3A//www.businessinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsider.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208091714id_/http%3A//www.businessinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Enter you email address and zip code to set up customized email alerts.
-
-Oct. 2, 2007, 5:27 PM | 2,785
 
 This privacy statement covers Business Insider.
 
@@ -59,17 +55,3 @@ Whenever _Business_ Insider changes its privacy policy, we will post those chang
 **Contact Information**
 
 If you have any questions or suggestions regarding our privacy policy, please contact the editor of _Business_ Insider, or send an email to questions feedback@businessinsider.com, or by mail to  Business Insider, 257 Park Avenue South, Floor 13, New York, NY, 10010
-
-Please follow [Business Insider](http://www.businessinsider.com/) on [Twitter](http://twitter.com/#!/businessinsider) and [Facebook](http://facebook.com/thebusinessinsider). 
-
-#### Advertisement:
-
-###  Share: 
-
-x
-
-To embed this post, copy the code below and paste into your website or blog.
-
-#### The Achilles' Heel Of Europe
-
-[ ](https://web.archive.org/about/mobile)
