@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the caller.com privacy policy that was archived on 2011-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110517125414id_/http%3A//www.caller.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caller.com privacy policy that was archived on 2011-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208013543id_/http%3A//www.caller.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><!--
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:nitro="http://www.bunchball.com/nitro"><!--
   
     
     ROLE = prod.
@@ -17,6 +17,8 @@
 					SITE_NAME: 'Corpus Christi Caller Times',
 				
 					VIDEO_MEDIA_URL: 'http://media.scrippsnewspapers.com/corp_assets/asphalt',
+				
+					SHOW_COPYRIGHT: 'True',
 				
 					SITE_MEDIA_URL: 'http://web.caller.com/static/ccct/asphalt/prod',
 				
@@ -46,6 +48,9 @@
 			jSINGconf.playlistVideos = {};
 			jSINGconf.playlistPlayers = {};
 			jSINGconf.videoPlayers = {};
+			jSINGconf.socialShare = {
+				socialData: [] // Array for content to be shared via social links
+			};
 		</script>
 	
 	
@@ -89,8 +94,8 @@
             //OPTIONAL PARAMETERS THAT DESCRIBE THE TARGETED CONTENT 
             // <class 'django.models.flatpages.FlatPage'>
             /* /privacy/ - Privacy Policy */
-            yld_mgr.content_topic_id_list=[ "99999998"]; 
-            // [NoTopic (NPC)]
+            yld_mgr.content_topic_id_list=[ "20406001"]; 
+            // [Online / System Response / Error (NPC)]
             // yld_mgr.site_section_name_list=[]; // this view is not mapped to yahoo's SiteSectionTaxonomy
             yld_mgr.content_lang="en-US"; //Hardcoded
 
@@ -283,7 +288,7 @@
 	
 	<!-- CSS -->
 		
-			<link href="http://media.caller.com/corp_assets/asphalt/css/base/base.yui.2011-03-31_14-40-17.css" rel="stylesheet" type="text/css"> 
+			<link href="http://media.caller.com/corp_assets/asphalt/css/base/base.yui.2011-11-11_8-17-55.css" rel="stylesheet" type="text/css"> 
 			<style type="text/css" media="only screen and (max-device-width: 768px)">
 				.primary_nav li a, #verticals_nav li a {
 					margin-right: 27px;
@@ -330,6 +335,8 @@
 	
 	
 	
+		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
 	
 		<link rel="alternate" title="RSS feed of all Corpus Christi Caller Times headlines" href="/feeds/headlines/" type="application/rss+xml">
 		
@@ -341,11 +348,14 @@
 
 <body class="default_body hasJS">
 	
+	
 <!-- stats tag ['CCCT'] -->
-<script type="text/javascript" src="http://apptap.scripps.com/apptap3?site=CCCT&amp;app=djeff&amp;path=/privacy&amp;title=privacy-policy&amp;topic=NoTopic+%28NPC%29"></script><script type="text/javascript">apptap();</script>
+<script type="text/javascript" src="http://apptap.scripps.com/apptap3?site=CCCT&amp;app=djeff&amp;path=/privacy&amp;title=privacy-policy&amp;topic=Online+%2F+System+Response+%2F+Error+%28NPC%29"></script><script type="text/javascript">apptap();</script>
 
 <script type="text/javascript">document.body.className += " hasJS"</script>
 	
+
+
 
 	
 
@@ -353,7 +363,7 @@
 	<div class="adtag" id="SUPERSTITIAL"><script>yld_mgr.place_ad_here("SUPERSTITIAL");</script> </div>
 
 
-<div id="advertising_wrapper" class="default">
+<div id="advertising_wrapper" class="default ggnoads">
 	
 	
 	    <div id="advertising">
@@ -399,14 +409,14 @@
 												<span class="global_submit_label_username">User Name:</span>
 											</label>
 											
-											<input id="global_username" class="vTextField required" name="username" size="17" value="" maxlength="75" def="" type="text">
+											<input id="global_username" class="vTextField required" name="username" size="17" value="" maxlength="75" def="" type="text" tabindex="1">
 											<input type="image" name="image" src="http://media.caller.com/corp_assets/asphalt/_sites/ccct/img/buttons/global_login_btn.gif" title="Login" alt="Login" class="global_login_button" border="0">
 											<br>
 											<label for="global_password">
 												<span class="global_submit_label_password">Password:</span>
 											</label>
 											
-											<input id="global_password" class="vPasswordField required" name="password" size="17" value="" maxlength="30" def="" type="password" style="margin-top:12px;">
+											<input id="global_password" class="vPasswordField required" name="password" size="17" value="" maxlength="30" def="" type="password" style="margin-top:12px;" tabindex="2">
 											
 											<span class="global_formtip"><a href="/accounts/password_reset/">Forgotten your password?</a>&nbsp;|
 											
@@ -426,8 +436,6 @@
 	                                                                                <a id="yahoo_connect" class="" href="" onclick="window.open('https://login.caller.com/openid/start?openid_identifier=https%3A//me.yahoo.com/&amp;token_url=http%3A%2F%2Fwww.caller.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.caller.com/corp_assets/asphalt/img/icons/yahoo/yahoo_sm_blk.jpg"></a>
 	                                                                                
 	                                                                                <a id="twitter_connect" class="" href="" onclick="window.open('https://login.caller.com/twitter/start?token_url=http%3A%2F%2Fwww.caller.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.caller.com/corp_assets/asphalt/img/icons/twitter/twitter_sm_blk.jpg"></a>
-	                                                                                
-	                                                                                <a id="openid_connect" class="" href="" onclick="window.open('https://login.caller.com/openid/start?openid_identifier=https%3A//myopenid.com/&amp;token_url=http%3A%2F%2Fwww.caller.com%2Faccounts%2Fauth%2F%3Fprevious=/privacy/%26popup=true','rpxnow','width=800,height=550'); return false;"><img src="http://media.caller.com/corp_assets/asphalt/img/icons/openid/openid_sm_blk.jpg"></a>
 	                                                                                
 											</div>
 											<span class="global_login_close"><a href="#global_site_login" id="global_login_close" alt="Close"><img src="http://media.caller.com/corp_assets/asphalt/img/buttons/global_login_close.png"> </a></span>
@@ -502,6 +510,7 @@
 <li><a href="/news/news/education/" title="Education">Education</a></li>
 <li><a href="/news/news/education/distinguished-scholars/" title="Distinguished Scholars">Distinguished Scholars</a></li>
 <li><a href="/news/news/military/" title="Military">Military</a></li>
+<li><a href="/veterans-remembered/" title="Veterans Remembered">Veterans Remembered</a></li>
 <li><a href="/news/news/local/kempsridley/" title="Kemp's Ridley Sea Turtles">Kemp's Ridley Sea Turtles</a></li>
 <li><a href="/news/news/local/las-brisas/" title="Las Brisas">Las Brisas</a></li>
 <li><a href="/police/" title="LIVE Police Scanner">LIVE Police Scanner</a></li>
@@ -535,24 +544,34 @@
 <li><a href="/contests/" title="Contests">Contests</a>
 <ul class="tertiary_nav">
 <script src="http://web.caller.com/ellington/promos/contests/nav.js"></script>
+<li><a href="http://caller.upickem.net/upickem/contest/questions.asp?contestid=37747" title="H.S. Football Challenge">H.S. Football Challenge</a></li>
 <li><a href="http://caller.autoracing.upickem.net/autoracing/registration/login.asp" title="Auto Racing">Auto Racing</a></li>
 <!--
 <li><a href="http://caller.collegebasketball.upickem.net/collegebasketball/registration/login.asp" title="College Basketball">College Basketball</a></li>
-<li><a href="http://caller.profootball.upickem.net/profootball/registration/login.asp" title="Pro Football">Pro football</a></li>
 -->
+<li><a href="http://caller.profootball.upickem.net/profootball/registration/login.asp" title="Pro Football">Pro football</a></li>
+
 </ul>
 </li>
 <li><a href="http://www.caller.com/e-edition/" title="e-Edition">e-Edition</a></li>
 <li><a href="/weather/" title="Weather">Weather</a>
 <ul class="tertiary_nav">
+<li><a href="http://links.caller.com/surf/nav_redirect.html" title="Surf Report">Surf Report</a></li>
 <li><a href="/tropical/" title="Tropical Weather">Tropical Weather</a></li>
-<li><a href="/weather/" title="Local Radar">Local Radar</a></li>
+<li><a href="/tropical_radar/" title="Interactive Radar">Interactive Radar</a></li>
+<li><a href="/weather/" title="Local Radar">Local Weather</a></li>
 </ul>
 </li>
-<li style="margin-right:-20px;"><a href="/election2011/" title="Complete 2011 Election Coverage"><img src="http://web.caller.com/ellington/promos/nav/star2.png" width="14" height="13" border="0" style="padding-top:8px;"></a></li>
-<li><a href="/election2011/" title="Complete 2011 Election Coverage" style="color:#eeba1a;">Election 2011</a></li>
-<li><a href="/deals/" title="Deals! Caller.com"><img src="http://web.caller.com/ellington/promos/nav/deals_nav2.png" width="66" height="26" border="0" style="padding-top:2px; padding-left:30px;"></a></li>
-<li><a href="/deals/" title="Deals! Caller.com" style="margin-left:-20px;">Save 50% and More!</a></li>
+<!---
+<li><a href="/veterans-remembered/" title="Memorial Day 2011" style="color:#7fb2f6;">Memorial Day 2011</a></li>
+<li><a href="/veterans-remembered/" title="Memorial Day 2011"><img src="http://web.caller.com/ellington/promos/nav/flag.png" width="16" height="16" border="0" style="padding-top:7px; margin-left:-22px;" /></a></li>
+--->
+
+
+
+<li style="margin-left:120px;"><a href="/deals/link/" title="Deals! Caller.com">Save 50% and More!</a></li>
+<li style="margin-left:-20px;"><a href="/deals/link/" title="Deals! Caller.com"><img src="http://web.caller.com/ellington/promos/nav/deals_nav2.png" width="66" height="26" border="0" style="padding-top:2px;"></a></li>
+
 <!------
 <li style="padding-left:90px;"><a href="/news/news/spending/" title="Spotlight on Spending"><span style="color:#93ba61;">NEW:</span>   Spotlight on Spending</a></li>
 
@@ -605,11 +624,13 @@
 </li>
 <li><a href="http://www.caller.com/sports-contests/" title="Contests">Contests</a>
 <ul class="tertiary_nav">
+<li><a href="http://caller.upickem.net/upickem/contest/questions.asp?contestid=37747" title="H.S. Football Challenge">H.S. Football Challenge</a></li>
 <li><a href="http://caller.autoracing.upickem.net/autoracing/registration/login.asp" title="Auto Racing">Auto Racing</a></li>
 <!--
 <li><a href="http://caller.collegebasketball.upickem.net/collegebasketball/registration/login.asp" title="College Basketball">College Basketball</a></li>
-<strong><li><a href="http://caller.profootball.upickem.net/profootball/registration/login.asp" title="Pro Football">Pro football</a></li></strong>
 -->
+<strong><li><a href="http://caller.profootball.upickem.net/profootball/registration/login.asp" title="Pro Football">Pro football</a></li></strong>
+
 </ul>
 </li>
 </ul>
@@ -729,7 +750,7 @@
 </li><li><a href="/news/lifestyles/family/" title="Family">Family</a>
 <ul class="tertiary_nav">
 <li><a href="/news/lifestyles/family/" title="Anniversaries">Anniversaries</a></li>
-<li><a href="/news/lifestyles/family/" title="Engagement Announcements">Engagements</a></li>
+<li><a href="http://display.caller.com/ROP/Subcat.aspx?cat=6907&amp;subcat=6916" title="Engagement Announcements">Engagements</a></li>
 <li><a href="/news/lifestyles/family/" title="Quinceaneras">Quinceaneras</a></li>
 <li><a href="http://display.caller.com/ROP/Subcat.aspx?cat=6907&amp;subcat=6927" title="Wedding Announcements">Weddings</a></li>
 <li><a href="http://display.caller.com/ROP/Subcat.aspx?cat=6907&amp;subcat=6920" title="Memorials">In Memory Of</a></li>
@@ -737,8 +758,7 @@
 </li>
 <li><a href="/news/lifestyles/sunday-homes/" title="Sunday Homes">Sunday Homes</a></li>
 <li><a href="/food_and_recipes/" title="Food &amp; Recipes">Food &amp; Recipes</a>
-</li><li><a href="/coupons/" title="Coupons">Coupons</a></li>
-<li><a href="/health/" title="Health &amp; Fitness"> Health and Wellness</a>
+</li><li><a href="/health/" title="Health &amp; Fitness"> Health and Wellness</a>
 <ul class="tertiary_nav">
 <li><a href="/news/lifestyles/health-fitness/" title="Healthy Living">Healthy Living</a></li>
 </ul>
@@ -807,6 +827,10 @@
 				
 		
 				
+					
+						
+					
+				
 		
 				
 					<div id="alert_bark_wrapper">
@@ -816,12 +840,131 @@
 								
 							
 								
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_breaking alert_bark_breaking_news">
+	<h2 class="alert_bark_title">BREAKING NEWS</h2>
+	<p class="alert_bark_content">
+<a href="http://www.caller.com/news/2011/dec/07/cee-lo-green-play-corpus-christi-dec-29/">Cee Lo Green to play in Corpus Christi Dec. 29</a></p>
+</li><!-- end .alert_bark alert_bark_breaking -->
+									
+
+								
 				
 								
-							
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_breaking_weather alert_bark_img_srchttpwebcallercomellingtonpromosnaventertainment_logo3png">
+	<h2 class="alert_bark_title"><img src="http://web.caller.com/ellington/promos/nav/entertainment_logo3.png"></h2>
+	<p class="alert_bark_content">
+
+<a href="http://entertainment.caller.com/?p=8197">It's a Wonderful Night Life</a>
+ &nbsp; •  &nbsp;
+
+<a href="http://entertainment.caller.com/?p=8203">Trans-Siberian Orchestra Returns</a>
+ &nbsp; •  &nbsp;
+
+<a href="http://entertainment.caller.com/?p=8205">Hunters &amp; Gatherers</a>
+ &nbsp; •  &nbsp;
+
+<a href="http://entertainment.caller.com/">Entertainment Blog</a> 
+
+</p>
+</li><!-- end .alert_bark alert_bark_breaking_weather -->
+
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_breaking_weather alert_bark_img_srchttpwebcallercomellingtonpromosnavhs_football4png">
+	<h2 class="alert_bark_title"><img src="http://web.caller.com/ellington/promos/nav/hs_football4.png"></h2>
+	<p class="alert_bark_content">
+
+<a href="http://www.caller.com/live-chat/">State chat (noon Wed.)</a>
+ &nbsp; •  &nbsp;
+
+<a href="http://www.caller.com/live-chat/">Refugio live (7:30 p.m. Fri.)</a>
+ &nbsp; •  &nbsp;
+
+<a href="http://www.caller.com/live-chat/">Calallen live (noon Sat.)</a>
+ &nbsp; •  &nbsp;
+
+<a href="http://www.caller.com/news/2011/nov/04/2011-region-iv-high-school-football-playoff-schedu/">Reg. 4 schedule</a></p>
+</li><!-- end .alert_bark alert_bark_breaking_weather -->
+
+									
 								
 							
 								
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_important alert_bark_img_srchttpwebcallercomellingtonpromosrelishrelish_promopng">
+	<h2 class="alert_bark_title"><img src="http://web.caller.com/ellington/promos/relish/relish_promo.png"></h2>
+	<p class="alert_bark_content"> 
+
+<a href="http://www.caller.com/relish/">Coming Dec. 13th - Solomon P. Ortiz Center</a>
+
+ &nbsp; •  &nbsp; 
+
+<a href="http://www.caller.com/relish/">Learn More</a>
+
+ &nbsp; •  &nbsp; 
+
+<a href="http://store.caller.com/SearchResults.asp?Cat=39">Buy Tickets Online</a></p>
+</li><!-- end .alert_bark alert_bark_important -->
+									
+
+								
+							
+								
+									
+										
+											
+												<li class="alert_bark alert_bark_autoweather">
+													<h2 class="alert_bark_title">Freeze Warning</h2>
+													<p class="alert_bark_meta">IN EFFECT UNTIL DEC 7, 10:00 p.m.</p>													
+													<p class="alert_bark_content"><span>issued for </span><a href="/weather/">Nueces, Kleberg, San Patricio</a></p>
+												</li><!-- end .alert_bark alert_bark_autoweather -->
+											
+										
 									
 								
 							
@@ -840,10 +983,125 @@
 
 
 
-<li class="alert_bark alert_bark_site alert_bark_photo_galleries">
-	<h2 class="alert_bark_title">PHOTO GALLERIES</h2>
+<li class="alert_bark alert_bark_site alert_bark_recipe_book">
+	<h2 class="alert_bark_title">RECIPE BOOK</h2>
 	<p class="alert_bark_content">
-<a href="http://www.caller.com/photos/galleries/sets/2011-hs-baseball/"> See and/or purchase H.S. baseball photos</a>     &nbsp; &nbsp; <a href="http://www.caller.com/photos/galleries/sets/2011-hs-softball/">See and/or purchase H.S. softball photos</a></p>
+<a href="http://www.caller.com/food_and_recipes/"> Check out our list of recipes for the holidays</a>
+</p>
+</li><!-- end .alert_bark alert_bark_site -->
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_site alert_bark_political_pulse">
+	<h2 class="alert_bark_title">POLITICAL PULSE</h2>
+	<p class="alert_bark_content">
+<a href="http://blogs.caller.com/political_pulse/archives/2011/12/county_clerk_ba.html">Barrera returns after heart surgery</a>
+ &nbsp; •  &nbsp;
+ <a href="http://blogs.caller.com/political_pulse/archives/2011/11/not_that_torres.html">Torres mulls run</a>
+ &nbsp; •  &nbsp;
+ <a href="http://blogs.caller.com/political_pulse/archives/2011/12/neal_suffers_se.html">Neal suffers setback</a></p>
+</li><!-- end .alert_bark alert_bark_site -->
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_site alert_bark_databases">
+	<h2 class="alert_bark_title">DATABASES</h2>
+	<p class="alert_bark_content">
+ <a href="http://www.caller.com/data/public-salaries/tamucc/">Texas A&amp;M-CC salaries</a>
+ &nbsp; •  &nbsp;
+ <a href="http://www.caller.com/data/public-salaries/tamuk/">Texas A&amp;M-K salaries</a>
+ &nbsp; •  &nbsp;
+<a href="http://www.caller.com/data/crime/id_theft/">Education Service Center Reg. 2 salaries</a></p>
+</li><!-- end .alert_bark alert_bark_site -->
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_site alert_bark_img_srchttpwebcallercomellingtonpromosnavhsfootball4png">
+	<h2 class="alert_bark_title"><img src="http://web.caller.com/ellington/promos/nav/hsfootball4.png"></h2>
+	<p class="alert_bark_content">
+<a href="http://caller.upickem.net/upickem/registration/login.asp?contestid=37747"> Pick high school football game winners and see how you stack up</a></p>
+</li><!-- end .alert_bark alert_bark_site -->
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_site alert_bark_crime_stoppers_video">
+	<h2 class="alert_bark_title">CRIME STOPPERS VIDEO</h2>
+	<p class="alert_bark_content">
+<a href="http://www.caller.com/videos/detail/crime-stoppers-2011-44">Fatal mall shooting</a>        
+ &nbsp; •  &nbsp;
+<a href="http://www.caller.com/videos/detail/crime-stoppers-2011-45">Beach condo murder</a>        
+ &nbsp; •  &nbsp;
+ <a href="http://www.caller.com/videos/detail/crime-stoppers-2011-46">Nueces Co. most wanted</a></p>
+</li><!-- end .alert_bark alert_bark_site -->
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_site alert_bark_img_srchttpwebcallercomellingtonpromosnavhsfootball5png">
+	<h2 class="alert_bark_title"><img src="http://web.caller.com/ellington/promos/nav/hsfootball5.png"></h2>
+	<p class="alert_bark_content">
+<a href="http://www.caller.com/texas-high-school-football-chat/"> Talk Texas H.S. football with writers from across the state Wednesdays at noon</a></p>
+</li><!-- end .alert_bark alert_bark_site -->
+									
+										
+
+
+
+	
+	
+	
+
+
+
+
+<li class="alert_bark alert_bark_site alert_bark_follow_us_on_twitter">
+	<h2 class="alert_bark_title">FOLLOW US ON TWITTER</h2>
+	<p class="alert_bark_content">
+<a href="http://www.twitter.com/callerdotcom/"> News</a>  &nbsp; &nbsp; <a href="http://www.twitter.com/callersports/">Sports</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callerentertain/">Entertainment</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callereducation/">Education</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callerpolitics/">Politics</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callerbusiness/">Business</a></p>
 </li><!-- end .alert_bark alert_bark_site -->
 									
 										
@@ -874,44 +1132,10 @@
 
 
 
-<li class="alert_bark alert_bark_site alert_bark_crime_stoppers_video">
-	<h2 class="alert_bark_title">CRIME STOPPERS VIDEO</h2>
-	<p class="alert_bark_content">
-<a href="http://www.caller.com/videos/detail/surveillance-video-aggravated-robbery/">Man robs Goodwill store at knifepoint</a>      &nbsp; &nbsp; <a href="http://www.caller.com/videos/detail/crimestoppers-2011-17/">Woman attacked outside Corpus Christi nightclub</a></p>
-</li><!-- end .alert_bark alert_bark_site -->
-									
-										
-
-
-
-	
-	
-	
-
-
-
-
-<li class="alert_bark alert_bark_site alert_bark_data_pages">
-	<h2 class="alert_bark_title">DATA PAGES</h2>
-	<p class="alert_bark_content">
-<a href="http://www.caller.com/data/government-spending/citycampaign/"> Corpus Christi City Council finance reports</a>     &nbsp; &nbsp; <a href="http://www.caller.com/data/">More salaries, home prices, databases</a></p>
-</li><!-- end .alert_bark alert_bark_site -->
-									
-										
-
-
-
-	
-	
-	
-
-
-
-
-<li class="alert_bark alert_bark_site alert_bark_follow_us_on_twitter">
-	<h2 class="alert_bark_title">FOLLOW US ON TWITTER</h2>
-	<p class="alert_bark_content">
-<a href="http://www.twitter.com/callerdotcom/"> News</a>  &nbsp; &nbsp; <a href="http://www.twitter.com/callersports/">Sports</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callerentertain/">Entertainment</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callereducation/">Education</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callerpolitics/">Politics</a>    &nbsp; &nbsp; <a href="http://www.twitter.com/callerbusiness/">Business</a></p>
+<li class="alert_bark alert_bark_site alert_bark_2011_pro_football_pickem">
+	<h2 class="alert_bark_title">2011 PRO FOOTBALL PICK'EM</h2>
+	<p class="alert_bark_content">  
+<a href="http://caller.profootball.upickem.net/profootball/registration/login.asp"> Pick pro football game winners for a chance at trip for 2 to Hawaii</a></p>
 </li><!-- end .alert_bark alert_bark_site -->
 									
 
@@ -1102,7 +1326,7 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		
 		
 		
-			<div id="secondary_content">
+			<div id="secondary_content" class="ggnoads">
 				
 					
 						<div class="bigbox_wrapper clear">
@@ -1159,28 +1383,28 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2011/may/15/swimmer-still-missing-in-the-gulf/?partner=popular" title="U.S. Coast Guard officials on Sunday recovered the body of a 12-year-old boy who went missing in the Gulf of Mexico while swimming with family Saturday." rel="nofollow">Missing swimmer found dead</a>
-					<span class="date">Updated 5/16/2011 at 5:39 a.m.</span> <a href="/news/2011/may/15/swimmer-still-missing-in-the-gulf/?partner=popular#comments" class="comment_count" rel="nofollow">36 comments</a>
+					<a href="/news/2011/dec/07/no-headline---letters_wed_1207/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 12.07.11</a>
+					<span class="date">Published 12/7/2011 at 3:00 a.m.</span> <a href="/news/2011/dec/07/no-headline---letters_wed_1207/?partner=popular#comments" class="comment_count" rel="nofollow">157 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/16/letters-editor-051611/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 05.16.11</a>
-					<span class="date">Published 5/16/2011 at 3:00 a.m.</span> <a href="/news/2011/may/16/letters-editor-051611/?partner=popular#comments" class="comment_count" rel="nofollow">84 comments</a>
+					<a href="/news/2011/dec/07/baggage-handler-who-refused-load-emaciated-dog-pla/?partner=popular" title="Employee not sure if she will return to work" rel="nofollow">Baggage handler who refused to load emaciated dog on a plane bound for Corpus Christi offered job back</a>
+					<span class="date">Updated 12/7/2011 at 5:51 a.m.</span> <a href="/news/2011/dec/07/baggage-handler-who-refused-load-emaciated-dog-pla/?partner=popular#comments" class="comment_count" rel="nofollow">25 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/16/texas-girls-basketball-coach-allegedly-had-sex-5-s/?partner=popular" title="Woman, 27, turned herself in Monday" rel="nofollow">Texas girls basketball coach accused of having sex with 5 students</a>
-					<span class="date">Updated 5/16/2011 at 7:35 p.m.</span> <a href="/news/2011/may/16/texas-girls-basketball-coach-allegedly-had-sex-5-s/?partner=popular#comments" class="comment_count" rel="nofollow">22 comments</a>
+					<a href="/news/2011/dec/06/south-texas-mom-shoots-2-children-kills-self/?partner=popular" title="Shooting happen at state social services office" rel="nofollow">South Texas mom shoots 2 children, kills self, after denied food stamps</a>
+					<span class="date">Updated 12/6/2011 at 3:15 p.m.</span> <a href="/news/2011/dec/06/south-texas-mom-shoots-2-children-kills-self/?partner=popular#comments" class="comment_count" rel="nofollow">49 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/16/us-businesses-leaving-mexico/?partner=popular" title="Drug violence is costing the country billions" rel="nofollow">U.S. businesses leaving Mexico</a>
-					<span class="date">Updated 5/16/2011 at 6:45 a.m.</span> <a href="/news/2011/may/16/us-businesses-leaving-mexico/?partner=popular#comments" class="comment_count" rel="nofollow">47 comments</a>
+					<a href="/news/2011/dec/06/corpus-christi-police-scene-bank-robbery/?partner=popular" title="Corpus Christi police and agents from a fugitive task force arrested two suspected robbers found at a Leopard Street motel" rel="nofollow">Four taken into custody in connection with bank robbery in Annaville area</a>
+					<span class="date">Updated 12/7/2011 at 6:02 a.m.</span> <a href="/news/2011/dec/06/corpus-christi-police-scene-bank-robbery/?partner=popular#comments" class="comment_count" rel="nofollow">27 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/16/beeville-prison-inmate-found-dead-with-stab/?partner=popular" title="Carlos Rodriguez, 39, was in prison since 2004, serving a life sentence for manslaughter and failure to stop and render aid in Dallas County" rel="nofollow">Beeville prison inmate found dead with stab wounds </a>
-					<span class="date">Updated 5/16/2011 at 4:11 p.m.</span> <a href="/news/2011/may/16/beeville-prison-inmate-found-dead-with-stab/?partner=popular#comments" class="comment_count" rel="nofollow">27 comments</a>
+					<a href="/news/2011/dec/06/texas-am-university-kingsville-police-after-tied/?partner=popular" title="Police were called about 9 p.m. to find the female student tied to a shower on the second floor of the Turner-Bishop Hall dormitory building" rel="nofollow">Texas A&amp;M University-Kingsville police investigate after female student found tied up in shower Sunday </a>
+					<span class="date">Updated 12/6/2011 at 6:29 p.m.</span> <a href="/news/2011/dec/06/texas-am-university-kingsville-police-after-tied/?partner=popular#comments" class="comment_count" rel="nofollow">22 comments</a>
 				</li>
 			
 		</ul>
@@ -1192,15 +1416,15 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 			
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2011/may/15/sunday-homes-051511/?partner=popular" title="Sunday Homes: 05.15.11" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2011/05/13/420110513082828002_t90_70.JPG" width="90" alt="Sunday Homes: 05.15.11"> Sunday Homes: 05.15.11</a>
+					<a href="/photos/galleries/2011/dec/04/harbor-bridge-light-show/?partner=popular" title="Harbor Bridge Light Show" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2011/12/04/1420111204210111003_t90_70.JPG" width="90" alt="Harbor Bridge Light Show"> Harbor Bridge Light Show</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2011/may/15/2011-election-night/?partner=popular" title="2011 Election Night" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2011/05/14/220110514202505002_t90_70.JPG" width="90" alt="2011 Election Night"> 2011 Election Night</a>
+					<a href="/photos/galleries/2011/dec/05/gambling-raid/?partner=popular" title="Gambling raid" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2011/12/05/520111205123450001_t90_70.JPG" width="90" alt="Gambling raid"> Gambling raid</a>
 				</div> <!-- end .bucket_media_item -->
 			
 				<div class="bucket_media_item sidebar_bucket_media_item">
-					<a href="/photos/galleries/2011/may/15/gay-straight-alliance/?partner=popular" title="Gay Straight Alliance" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2011/05/15/420110514220028001_t90_70.JPG" width="90" alt="Gay Straight Alliance"> Gay Straight Alliance</a>
+					<a href="/photos/galleries/2011/dec/04/sunrise-mall/?partner=popular" title="Sunrise mall" rel="nofollow"><img src="http://media.caller.com/media/img/photos/2011/12/03/1420111203214336001_t90_70.JPG" width="90" alt="Sunrise mall"> Sunrise mall</a>
 				</div> <!-- end .bucket_media_item -->
 			
 
@@ -1214,28 +1438,28 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2011/may/16/letters-editor-051611/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 05.16.11</a>
-					<span class="date">Published 5/16/2011 at 3:00 a.m.</span> <a href="/news/2011/may/16/letters-editor-051611/?partner=popular#comments" class="comment_count" rel="nofollow">84 comments</a>
+					<a href="/news/2011/dec/07/no-headline---letters_wed_1207/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 12.07.11</a>
+					<span class="date">Updated // at : </span> <a href="/news/2011/dec/07/no-headline---letters_wed_1207/?partner=popular#comments" class="comment_count" rel="nofollow">157 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/15/letters-editor-051511/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 05.15.11</a>
-					<span class="date">Published 5/15/2011 at 3:00 a.m.</span> <a href="/news/2011/may/15/letters-editor-051511/?partner=popular#comments" class="comment_count" rel="nofollow">53 comments</a>
+					<a href="/news/2011/dec/06/no-headline---letters_tues_1206/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 12.06.11</a>
+					<span class="date">Updated // at : </span> <a href="/news/2011/dec/06/no-headline---letters_tues_1206/?partner=popular#comments" class="comment_count" rel="nofollow">129 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/16/us-businesses-leaving-mexico/?partner=popular" title="Drug violence is costing the country billions" rel="nofollow">U.S. businesses leaving Mexico</a>
-					<span class="date">Published 5/16/2011 at 6:45 a.m.</span> <a href="/news/2011/may/16/us-businesses-leaving-mexico/?partner=popular#comments" class="comment_count" rel="nofollow">47 comments</a>
+					<a href="/news/2011/dec/05/no-headline---letters_mon_1205/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 12.05.11</a>
+					<span class="date">Updated // at : </span> <a href="/news/2011/dec/05/no-headline---letters_mon_1205/?partner=popular#comments" class="comment_count" rel="nofollow">116 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/14/letters-editor-051411/?partner=popular" title=" " rel="nofollow">Letters to the Editor: 05.14.11</a>
-					<span class="date">Published 5/14/2011 at 3:00 a.m.</span> <a href="/news/2011/may/14/letters-editor-051411/?partner=popular#comments" class="comment_count" rel="nofollow">56 comments</a>
+					<a href="/news/2011/dec/05/nueces-da-85-year-old-woman-suspected-of-running/?partner=popular" title="Authorities seized betting slips, customer logs, two handguns, $10,000 in cash and more" rel="nofollow">Nueces DA: 85-year-old woman suspected of running football gambling operation </a>
+					<span class="date">Updated 12/5/2011 at 5:11 p.m.</span> <a href="/news/2011/dec/05/nueces-da-85-year-old-woman-suspected-of-running/?partner=popular#comments" class="comment_count" rel="nofollow">88 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/15/swimmer-still-missing-in-the-gulf/?partner=popular" title="U.S. Coast Guard officials on Sunday recovered the body of a 12-year-old boy who went missing in the Gulf of Mexico while swimming with family Saturday." rel="nofollow">Missing swimmer found dead</a>
-					<span class="date">Published 5/15/2011 at 6:33 p.m.</span> <a href="/news/2011/may/15/swimmer-still-missing-in-the-gulf/?partner=popular#comments" class="comment_count" rel="nofollow">36 comments</a>
+					<a href="/news/2011/dec/06/south-texas-mom-shoots-2-children-kills-self/?partner=popular" title="Shooting happen at state social services office" rel="nofollow">South Texas mom shoots 2 children, kills self, after denied food stamps</a>
+					<span class="date">Updated 12/6/2011 at 3:15 p.m.</span> <a href="/news/2011/dec/06/south-texas-mom-shoots-2-children-kills-self/?partner=popular#comments" class="comment_count" rel="nofollow">49 comments</a>
 				</li>
 			
 		</ul>
@@ -1247,28 +1471,28 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<ul class="story_list sidebar_story_list">
 			
 				<li>
-					<a href="/news/2011/may/15/swimmer-still-missing-in-the-gulf/?partner=popular" title="U.S. Coast Guard officials on Sunday recovered the body of a 12-year-old boy who went missing in the Gulf of Mexico while swimming with family Saturday." rel="nofollow">Missing swimmer found dead</a>
-					<span class="date">Published 5/15/2011 at 6:33 p.m.</span> <a href="/news/2011/may/15/swimmer-still-missing-in-the-gulf/?partner=popular#comments" class="comment_count" rel="nofollow">36 comments</a>
+					<a href="/news/2011/dec/05/more-than-2000-eagle-ford-shale-industry-jobs-at/?partner=popular" title="About 30 Eagle Ford Shale industry companies have signed on to try filling about 2,300 jobs at Wednesday's oil and gas job fair" rel="nofollow">More than 2,000 Eagle Ford Shale industry jobs available at Robstown fair </a>
+					<span class="date">Updated 12/5/2011 at 6:14 p.m.</span> <a href="/news/2011/dec/05/more-than-2000-eagle-ford-shale-industry-jobs-at/?partner=popular#comments" class="comment_count" rel="nofollow">6 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/09/mexican-navy-kills-12-gunbattle-falcon-lake/?partner=popular" title="Gunmen from the Zetas drug cartel were killed along with one marine" rel="nofollow">Mexican Navy kills 12 in gunbattle at Falcon Lake</a>
-					<span class="date">Published 5/9/2011 at 1:21 p.m.</span> <a href="/news/2011/may/09/mexican-navy-kills-12-gunbattle-falcon-lake/?partner=popular#comments" class="comment_count" rel="nofollow">56 comments</a>
+					<a href="/news/2011/dec/05/nueces-da-85-year-old-woman-suspected-of-running/?partner=popular" title="Authorities seized betting slips, customer logs, two handguns, $10,000 in cash and more" rel="nofollow">Nueces DA: 85-year-old woman suspected of running football gambling operation </a>
+					<span class="date">Updated 12/5/2011 at 5:11 p.m.</span> <a href="/news/2011/dec/05/nueces-da-85-year-old-woman-suspected-of-running/?partner=popular#comments" class="comment_count" rel="nofollow">88 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/11/henrietta-king-was-the-matriarch-of-king-ranch/?partner=popular" title="Henrietta King was the matriarch of King Ranch " rel="nofollow">Henrietta King was the matriarch of King Ranch </a>
-					<span class="date">Published 5/11/2011 at 3:02 a.m.</span> <a href="/news/2011/may/11/henrietta-king-was-the-matriarch-of-king-ranch/?partner=popular#comments" class="comment_count" rel="nofollow">4 comments</a>
+					<a href="/news/2011/dec/01/dog-steps-gun-shoots-hunter-buttocks/?partner=popular" title="Duck hunter laid gun across bow of boat" rel="nofollow">Dog steps on gun, shoots hunter in buttocks</a>
+					<span class="date">Updated 12/1/2011 at 7:05 a.m.</span> <a href="/news/2011/dec/01/dog-steps-gun-shoots-hunter-buttocks/?partner=popular#comments" class="comment_count" rel="nofollow">18 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/07/man-posing-as-a-police-officer-robs-portland/?partner=popular" title="A Portland couple was robbed in their home Saturday afternoon by a man posing as a police officer, police reported. " rel="nofollow">Man posing as a police officer robs Portland couple </a>
-					<span class="date">Published 5/7/2011 at 8:53 p.m.</span> <a href="/news/2011/may/07/man-posing-as-a-police-officer-robs-portland/?partner=popular#comments" class="comment_count" rel="nofollow">30 comments</a>
+					<a href="/news/2011/nov/30/refugio-notebook-espn-feature-expected-to-air/?partner=popular" title="Notes: Bobcats WR/DB will be a game-time decision" rel="nofollow">ESPN feature on Refugio football expected to air Sunday morning </a>
+					<span class="date">Updated 12/1/2011 at 6:23 a.m.</span> <a href="/news/2011/nov/30/refugio-notebook-espn-feature-expected-to-air/?partner=popular#comments" class="comment_count" rel="nofollow">26 comments</a>
 				</li>
 			
 				<li>
-					<a href="/news/2011/may/09/corpus-christi-conductor-trombonist-loren-hall/?partner=popular" title="He formed band programs at four high schools, conducted the municipal band and was a charter member of the Corpus Christi Symphony" rel="nofollow">Loren Hall, Corpus Christi conductor, trombonist, dies at age 83 </a>
-					<span class="date">Published 5/9/2011 at 6:13 p.m.</span> <a href="/news/2011/may/09/corpus-christi-conductor-trombonist-loren-hall/?partner=popular#comments" class="comment_count" rel="nofollow">5 comments</a>
+					<a href="/news/2011/dec/02/ccmc-buys-padre-behavioral-hospital/?partner=popular" title="Corpus Christi Medical Center announced Thursday that it purchased Padre Behavioral Hospital, which in recent months laid off employees and shut down an outpatient program. " rel="nofollow">CCMC buys Padre Behavioral Hospital </a>
+					<span class="date">Updated // at : </span> <a href="/news/2011/dec/02/ccmc-buys-padre-behavioral-hospital/?partner=popular#comments" class="comment_count" rel="nofollow">3 comments</a>
 				</li>
 			
 		</ul>
@@ -1307,20 +1531,20 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<div class="sidebar_current_weather clear">
 	
 			<div id="sidebar_current_icon">
-				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev/img/weather/icons/3_170.png" width="120px" alt="A Few Clouds">
+				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev/img/weather/icons/33_170.png" width="120px" alt="Fair">
 			</div> <!-- end #radar -->
 	
 			<div id="sidebar_current_weather">
 				<span class="current_temp_label">Currently</span>
-				<span class="current_temp">61<span class="current_temp_degree">°</span></span>
-				<span class="current_conditions">A Few Clouds</span>
-				<span class="current_wind">Wind: NE 13mph</span>
+				<span class="current_temp">47<span class="current_temp_degree">°</span></span>
+				<span class="current_conditions">Fair</span>
+				<span class="current_wind">Wind: NE 6mph</span>
 			</div> <!-- end #current_conditions -->
 	
 			<div id="sidebar_hi_low">
 				<span class="today_temp_label">Today</span>
-				<span class="hi_temp">83<span class="current_temp_degree">°</span></span>
-				<span class="lo_temp">73<span class="current_temp_degree">°</span></span>
+				<span class="hi_temp">64<span class="current_temp_degree">°</span></span>
+				<span class="lo_temp">32<span class="current_temp_degree">°</span></span>
 			</div> <!-- end #hi_low -->
 			
 		</div> <!-- end #weather -->
@@ -1330,48 +1554,48 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<div id="sidebar_weather_3day" class="bucket_secondary preventFOUC">
 		<div id="sidebar_weather_forecast_3day" class="clear">
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Tue</div><div class="sidebar_weather_day">08:00 PM</div>
-				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev//img/weather/icons/6_100.png" alt="Mostly Cloudy">
-				<div class="sidebar_forecast_conditions">Mostly Cloudy</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">74°</span></div>
+				<div class="sidebar_weather_day">Thu</div><div class="sidebar_weather_day">08:00 AM</div>
+				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev//img/weather/icons/3_100.png" alt="Partly Sunny">
+				<div class="sidebar_forecast_conditions">Partly Sunny</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">48°</span></div>
 			</div>
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">08:00 AM</div>
-				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev//img/weather/icons/6_100.png" alt="Mostly Cloudy">
-				<div class="sidebar_forecast_conditions">Mostly Cloudy</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">80°</span></div>
+				<div class="sidebar_weather_day">Thu</div><div class="sidebar_weather_day">08:00 PM</div>
+				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev//img/weather/icons/40_100.png" alt="Mostly Cloudy Showers">
+				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">55°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="sidebar_forecast_day">
-				<div class="sidebar_weather_day">Wed</div><div class="sidebar_weather_day">08:00 PM</div>
-				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev//img/weather/icons/6_100.png" alt="Mostly Cloudy">
-				<div class="sidebar_forecast_conditions">Mostly Cloudy</div>
-				<div class="sidebar_forecast_hilo">Temp: <span class="temp">77°</span></div>
+				<div class="sidebar_weather_day">Fri</div><div class="sidebar_weather_day">08:00 AM</div>
+				<img src="http://media.scrippsnewspapers.com/static/asphalt/dev//img/weather/icons/13_100.png" alt="Mostly Cloudy Showers">
+				<div class="sidebar_forecast_conditions">Mostly Cloudy Showers</div>
+				<div class="sidebar_forecast_hilo">Temp: <span class="temp">54°</span></div>
 			</div><!-- End sidebar_forecast_day -->
 			<div class="clear"></div>
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 74°</p>
-						<p>Humidity: 76%</p>
-						<p>Precip: 10%</p>
+						<p>Feels Like: 48°</p>
+						<p>Humidity: 65%</p>
+						<p>Precip: 5%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding">
-						<p>Feels Like: 83°</p>
-						<p>Humidity: 72%</p>
-						<p>Precip: 10%</p>
+						<p>Feels Like: 55°</p>
+						<p>Humidity: 80%</p>
+						<p>Precip: 20%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
 			<div class="sidebar_forecast_detail">
 				<div class="sidebar_forecast_details">
 					<div class="sidebar_forecast_rulepadding last">
-						<p>Feels Like: 77°</p>
-						<p>Humidity: 88%</p>
-						<p>Precip: 10%</p>
+						<p>Feels Like: 54°</p>
+						<p>Humidity: 100%</p>
+						<p>Precip: 30%</p>
 					</div>
 				</div>
 			</div><!-- End sidebar_forecast_detail -->
@@ -1385,50 +1609,50 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 			
 			
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1290681"><img src="http://c34222.r22.cf0.rackcdn.com/9c636065-9ca6-4133-9b7f-64862698e2fe.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1290681" title="Storm over downtown">Storm over downtown </a>
+	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=2012147"><img src="http://c34222.r22.cf0.rackcdn.com/f358de54-a700-407b-acb1-3e538c580aea.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=2012147" title="Pumpkin Patch">Pumpkin Patch </a>
 	<div class="date ugc_sidebar">
-		5/16/11<br>
-		10:28 a.m.<br>
+		10/17/11<br>
+		9:23 a.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1290642"><img src="http://c34222.r22.cf0.rackcdn.com/8ecae576-a266-417c-a533-b4b45ee322fd.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1290642" title="Untitled">Untitled </a>
+	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1468655"><img src="http://c34222.r22.cf0.rackcdn.com/6962641f-0292-4dfd-b318-9517f845aa45.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1468655" title="Leon Couty Wildfire 9-5-2011">Leon Couty Wildfire 9-5-2011 </a>
 	<div class="date ugc_sidebar">
-		5/16/11<br>
-		10:05 a.m.<br>
+		9/6/11<br>
+		8:37 a.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1218476"><img src="http://c34222.r22.cf0.rackcdn.com/225167c3-9eef-4d9c-b40e-65bf218d4c2a.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1218476" title="Sun Rise over Marina Village rv park">Sun Rise over Marina Village rv park </a>
+	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1468654"><img src="http://c34222.r22.cf0.rackcdn.com/1dccc5d6-ad26-44ba-ba73-71797898ddd7.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1468654" title="Leon Couty Wildfire 9-5-2011">Leon Couty Wildfire 9-5-2011 </a>
 	<div class="date ugc_sidebar">
-		4/15/11<br>
-		7:14 a.m.<br>
+		9/6/11<br>
+		8:37 a.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1218475"><img src="http://c34222.r22.cf0.rackcdn.com/e43474f4-88a4-49f8-a80a-fae8bb231037.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1218475" title="Sun Rise over Marina Village rv park">Sun Rise over Marina Village rv park </a>
+	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1468653"><img src="http://c34222.r22.cf0.rackcdn.com/298779d3-ef97-47a1-9ed6-a2a2175c769b.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1468653" title="Leon Couty Wildfire 9-5-2011">Leon Couty Wildfire 9-5-2011 </a>
 	<div class="date ugc_sidebar">
-		4/15/11<br>
-		7:14 a.m.<br>
+		9/6/11<br>
+		8:37 a.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1126345"><img src="http://c0034222.cdn.cloudfiles.rackspacecloud.com/b59c6883-d884-4f93-bfdb-0502d7baa8e1.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1126345" title="Frozen">Frozen </a>
+	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1468652"><img src="http://c34222.r22.cf0.rackcdn.com/8e4e2f5c-0d1c-4fb3-82c5-63aa717a6aa5.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1468652" title="Leon Couty Wildfire 9-5-2011">Leon Couty Wildfire 9-5-2011 </a>
 	<div class="date ugc_sidebar">
-		2/9/11<br>
-		8:27 p.m.<br>
+		9/6/11<br>
+		8:37 a.m.<br>
 	</div>
 </div>
 
 <div class="bucket_media_item sidebar_bucket_media_item">
-	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1116156"><img src="http://c0034222.cdn.cloudfiles.rackspacecloud.com/ad13fa7f-d6ac-4103-95c2-cd150629f6fc.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1116156" title="On Frozen Pond">On Frozen Pond </a>
+	<a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1468650"><img src="http://c34222.r22.cf0.rackcdn.com/75d0e9fc-49e9-453e-95c7-6e9d23f12ea7.jpg"></a> <a href="http://clickandshare.caller.com/MediaItemView.aspx?id=1468650" title="Leon Couty Wildfire 9-5-2011">Leon Couty Wildfire 9-5-2011 </a>
 	<div class="date ugc_sidebar">
-		2/7/11<br>
-		6:36 p.m.<br>
+		9/6/11<br>
+		8:37 a.m.<br>
 	</div>
 </div>
 
@@ -1469,20 +1693,20 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<ul class="cal_tab_header clear">
 		
 			<li class="cal_tab_first ui-tabs-selected">
-				<a href="#May17" value="2011-05-17">
-					<span class="cal_tab_day">Tuesday</span> <span class="cal_tab_month">May</span> <span class="cal_tab_date">17</span>
+				<a href="#Dec7" value="2011-12-07">
+					<span class="cal_tab_day">Wednesday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">7</span>
 				</a>
 			</li>
 		
 			<li>
-				<a href="#May18" value="2011-05-18">
-					<span class="cal_tab_day">Wednesday</span> <span class="cal_tab_month">May</span> <span class="cal_tab_date">18</span>
+				<a href="#Dec8" value="2011-12-08">
+					<span class="cal_tab_day">Thursday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">8</span>
 				</a>
 			</li>
 		
 			<li>
-				<a href="#May19" value="2011-05-19">
-					<span class="cal_tab_day">Thursday</span> <span class="cal_tab_month">May</span> <span class="cal_tab_date">19</span>
+				<a href="#Dec9" value="2011-12-09">
+					<span class="cal_tab_day">Friday</span> <span class="cal_tab_month">Dec</span> <span class="cal_tab_date">9</span>
 				</a>
 			</li>
 		
@@ -1495,33 +1719,33 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	</ul>
 	
 	
-		<div id="May17" class="bucket_secondary">
+		<div id="Dec7" class="bucket_secondary">
 			
 			<ul class="sidebar_list">
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/8721/" class="browse_list_title" title="Grocery Store Tour with the Diabetes Education Program">Grocery Store Tour with the Diabetes Education Program</a> <a href="/places/-/" class="browse_list_venue" title=" "> </a></h4>
-						<h5 class="browse_list_time">9:30 a.m.</h5>
+						<h4><a href="/events/goto/9674/" class="browse_list_title" title="Project Management Institute Coastal Bend Chapter">Project Management Institute Coastal Bend Chapter</a> <a href="/places/-/" class="browse_list_venue" title=" ">earning Center, Room 109, NAS</a></h4>
+						<h5 class="browse_list_time">11:30 a.m.</h5>
 					</li>			
 				
 					<li class="even clear">
-						<h4><a href="/events/goto/8818/" class="browse_list_title" title="National Association of Women in Construction ">National Association of Women in Construction </a> <a href="/places/-/" class="browse_list_venue" title=" ">City Diner, 622 N. Water St.</a></h4>
-						<h5 class="browse_list_time">5 p.m.</h5>
+						<h4><a href="/events/goto/9799/" class="browse_list_title" title="Corpus Christi Chamber of Commerce presents Karl Rove">Corpus Christi Chamber of Commerce presents Karl Rove</a> <a href="/places/-/" class="browse_list_venue" title=" ">American Bank Center</a></h4>
+						<h5 class="browse_list_time">11:30 a.m.</h5>
 					</li>			
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/8880/" class="browse_list_title" title="Kilgore Awards Banquet">Kilgore Awards Banquet</a> <a href="/places/-/" class="browse_list_venue" title=" ">Holiday Inn Emerald Beach</a></h4>
+						<h4><a href="/events/goto/9930/" class="browse_list_title" title="Winter Wednesday Lunch Hour Concerts ">Winter Wednesday Lunch Hour Concerts </a> <a href="/places/-/" class="browse_list_venue" title=" ">First United Methodist Chruch, 900 S. Shoreline</a></h4>
+						<h5 class="browse_list_time">12:05 p.m.</h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/9827/" class="browse_list_title" title="Tamale Cooking Demonstrations">Tamale Cooking Demonstrations</a> <a href="/places/-/" class="browse_list_venue" title=" ">Heriage House</a></h4>
 						<h5 class="browse_list_time">6 p.m.</h5>
 					</li>			
 				
-					<li class="even clear">
-						<h4><a href="/events/goto/8581/" class="browse_list_title" title="WWE Smackdown">WWE Smackdown</a> <a href="/places/-/" class="browse_list_venue" title=" ">American Bank Center </a></h4>
-						<h5 class="browse_list_time">6:30 p.m.</h5>
-					</li>			
-				
 					<li class="odd clear">
-						<h4><a href="/events/goto/8829/" class="browse_list_title" title="Auditions for " lone="" star="" love="" potion""="">Auditions for "Lone Star Love Potion"</a> <a href="/places/-/" class="browse_list_venue" title=" "> </a></h4>
-						<h5 class="browse_list_time">7 p.m.</h5>
+						<h4><a href="/events/goto/9926/" class="browse_list_title" title="Annual  “It’s a Wonderful Night Life” ">Annual  “It’s a Wonderful Night Life” </a> <a href="/places/-/" class="browse_list_venue" title=" ">different locations</a></h4>
+						<h5 class="browse_list_time">6 p.m.</h5>
 					</li>			
 				
 			
@@ -1531,53 +1755,35 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
 			</div>
 			
-		</div> <!-- end #May17 -->
+		</div> <!-- end #Dec7 -->
 	
-		<div id="May18" class="bucket_secondary preventFOUC">
+		<div id="Dec8" class="bucket_secondary preventFOUC">
 			
 			<ul class="sidebar_list">
 				
 					<li class="even clear">
-						<h4><a href="/events/goto/8886/" class="browse_list_title" title="National SilverSneakers Day">National SilverSneakers Day</a> <a href="/places/-/" class="browse_list_venue" title=" ">SilverSneakers locations</a></h4>
-						<h5 class="browse_list_time"></h5>
+						<h4><a href="/events/goto/9944/" class="browse_list_title" title="Lunch among the Santa paintings">Lunch among the Santa paintings</a> <a href="/places/-/" class="browse_list_venue" title=" ">Art Center</a></h4>
+						<h5 class="browse_list_time">11:30 a.m.</h5>
 					</li>			
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/8829/" class="browse_list_title" title="Auditions for " lone="" star="" love="" potion""="">Auditions for "Lone Star Love Potion"</a> <a href="/places/-/" class="browse_list_venue" title=" "> </a></h4>
-						<h5 class="browse_list_time">7 p.m.</h5>
-					</li>			
-				
-			
-			</ul>
-			
-			<div class="sidebar_more_link sidebar_more_link_events">
-				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
-			</div>
-			
-		</div> <!-- end #May18 -->
-	
-		<div id="May19" class="bucket_secondary preventFOUC">
-			
-			<ul class="sidebar_list">
-				
-					<li class="even clear">
-						<h4><a href="/events/goto/8869/" class="browse_list_title" title="Casa Linda Elementary Farewell Celebration">Casa Linda Elementary Farewell Celebration</a> <a href="" class="browse_list_venue" title="">Casa Linda Elementary School</a></h4>
-						<h5 class="browse_list_time">9:30 a.m.</h5>
-					</li>			
-				
-					<li class="odd clear">
-						<h4><a href="/events/goto/8540/" class="browse_list_title" title="SEA Banquet 2011">SEA Banquet 2011</a> <a href="/places/american-bank-center-selena-auditorium/" class="browse_list_venue" title="American Bank Center Selena Auditorium">American Bank Center Selena Auditorium</a></h4>
+						<h4><a href="/events/goto/9760/" class="browse_list_title" title="Annual Two Group Show">Annual Two Group Show</a> <a href="/places/-/" class="browse_list_venue" title=" ">Art Center Of Corpus Christi,100 Shoreline Dr.   </a></h4>
 						<h5 class="browse_list_time">5 p.m.</h5>
 					</li>			
 				
 					<li class="even clear">
-						<h4><a href="/events/goto/8876/" class="browse_list_title" title="SEA banquet">SEA banquet</a> <a href="/places/-/" class="browse_list_venue" title=" ">American Bank Center,</a></h4>
-						<h5 class="browse_list_time">5:30 p.m.</h5>
+						<h4><a href="/events/goto/9880/" class="browse_list_title" title="Holiday Mixer">Holiday Mixer</a> <a href="" class="browse_list_venue" title="">Aveda Institute Corpus Christi</a></h4>
+						<h5 class="browse_list_time">5 p.m.</h5>
 					</li>			
 				
 					<li class="odd clear">
-						<h4><a href="/events/goto/8725/" class="browse_list_title" title="Fiesta de Mayo/artfest/songwriter's showcase">Fiesta de Mayo/artfest/songwriter's showcase</a> <a href="/places/-/" class="browse_list_venue" title=" ">Port Aransas</a></h4>
-						<h5 class="browse_list_time">6:30 p.m.</h5>
+						<h4><a href="/events/goto/9903/" class="browse_list_title" title="Annual Silver Cup Show">Annual Silver Cup Show</a> <a href="/places/-/" class="browse_list_venue" title=" ">Art Center of Corpus Christi, 100 Shoreline Blvd., </a></h4>
+						<h5 class="browse_list_time">5 p.m.</h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/9875/" class="browse_list_title" title="Alzheimer's Support Group">Alzheimer's Support Group</a> <a href="/places/-/" class="browse_list_venue" title=" ">different locations</a></h4>
+						<h5 class="browse_list_time">5:30 p.m.</h5>
 					</li>			
 				
 			
@@ -1587,7 +1793,45 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
 			</div>
 			
-		</div> <!-- end #May19 -->
+		</div> <!-- end #Dec8 -->
+	
+		<div id="Dec9" class="bucket_secondary preventFOUC">
+			
+			<ul class="sidebar_list">
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/9944/" class="browse_list_title" title="Lunch among the Santa paintings">Lunch among the Santa paintings</a> <a href="/places/-/" class="browse_list_venue" title=" ">Art Center</a></h4>
+						<h5 class="browse_list_time">11:30 a.m.</h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/9907/" class="browse_list_title" title="Gift wrapping for benefit at La Palmera">Gift wrapping for benefit at La Palmera</a> <a href="/places/-/" class="browse_list_venue" title=" ">La Palmera mall</a></h4>
+						<h5 class="browse_list_time">noon</h5>
+					</li>			
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/9864/" class="browse_list_title" title="Cat show">Cat show</a> <a href="/places/-/" class="browse_list_venue" title=" ">Hotel Corpus Christi, 601 N. Water St.</a></h4>
+						<h5 class="browse_list_time">3 p.m.</h5>
+					</li>			
+				
+					<li class="even clear">
+						<h4><a href="/events/goto/9942/" class="browse_list_title" title="Harbor Playhouse's " a="" christmas="" carol""="">Harbor Playhouse's "A Christmas Carol"</a> <a href="/places/-/" class="browse_list_venue" title=" ">Harbor Playhouse, #1 Bayfront Par</a></h4>
+						<h5 class="browse_list_time">7 p.m.</h5>
+					</li>			
+				
+					<li class="odd clear">
+						<h4><a href="/events/goto/9914/" class="browse_list_title" title="Mr. &amp; Mrs. Social Club dance ">Mr. &amp; Mrs. Social Club dance </a> <a href="/places/-/" class="browse_list_venue" title=" ">Legion Hall, 5323 Kostoryz Road</a></h4>
+						<h5 class="browse_list_time">8 p.m.</h5>
+					</li>			
+				
+			
+			</ul>
+			
+			<div class="sidebar_more_link sidebar_more_link_events">
+				<a href="/events/" title="More Corpus Christi Events">More Events »</a>
+			</div>
+			
+		</div> <!-- end #Dec9 -->
 	
 	
 	<div class="ajax_loader"><img src="http://media.caller.com/corp_assets/asphalt/img/ajax-loader.gif" alt="Loading content"><p>Loading...</p></div>
@@ -1734,10 +1978,15 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 	<dd><a href="http://www.caller.com/subscribe" title="Caller-Times newspaper">Subscriber Services</a></dd>
 </dl>
 <dl>
+	<dt><a href="/texas-high-school-football/" title="Texas High School Football" style="color:#C2C2C2!important;"> Texas High School Football:</a></dt>
+	<dd><a href="/texas-high-school-football/" title="Corpus Christi"> Corpus Christi</a> |</dd>
+	<dd><a href="http://www.reporternews.com/texas-high-school-football/" title="Abilene"> Abilene</a> |</dd>
+	<dd><a href="http://www.gosanangelo.com/sports/texas-high-school-football/" title="San Angelo"> San Angelo</a> |</dd>
+	<dd><a href="http://www.timesrecordnews.com/news/sports/high-school/football/" title="Wichita Falls"> Wichita Falls</a></dd>
+</dl>
+<dl>
 <dt>Special Features</dt>
-<dd><a href="/health/" title="Contact Us"> Health and Wellness</a> |</dd>
 <dd><a href="http://jobsearch.local-jobs.monster.com/Search.aspx?wt.mc_n=hjnpsearch&amp;ch=callertimes&amp;q=&amp;where=Corpus%20Christi&amp;re=130&amp;cy=us&amp;brd=1" title="Find Corpus Christi Jobs"> Find Corpus Christi Jobs</a> |</dd>
-<dd><a href="http://caller.boocoo.com" title="Boo Coo Auctions">Boo Coo Auctions</a></dd>
 </dl>
 
 <dl id="business_directory">
@@ -1808,6 +2057,7 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 
 		</div> <!-- end #copyright -->
 		
+		
 	</div> <!-- end #page_wrapper -->
 	
 	
@@ -1825,8 +2075,9 @@ This Privacy Policy as posted on this Website is the sole statement of our priva
 		<![endif]-->
 		
 		
-		<script src="http://media.caller.com/corp_assets/asphalt/js/jSING/core/jSING.core.yui.2011-02-03_16-08-12.js" type="text/javascript"></script>
-		<script src="http://media.caller.com/corp_assets/asphalt/js/jSING/news/jSING.news.yui.2011-01-27_11-46-10.js" type="text/javascript"></script>
+		<script src="http://media.caller.com/corp_assets/asphalt/js/jSING/core/jSING.core.yui.2011-11-07_16-10-58.js" type="text/javascript"></script>
+		<script src="http://media.caller.com/corp_assets/asphalt/js/jSING/news/jSING.news.yui.2011-11-08_16-28-17.js" type="text/javascript"></script>
+		<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
 
 			<script src="http://media.caller.com/corp_assets/asphalt/js/jSING.video-html5.yui.js" type="text/javascript"></script>
 		
@@ -1885,12 +2136,38 @@ document.write(unescape("%3Cscript src='" + optJsHost +
 		/* Javascript for initializing functions when the page loads */
 		
 		
+		
+		
+		var _sf_async_config={};
+	    /** CONFIGURATION START **/
+	    _sf_async_config.uid = 30936;
+	    _sf_async_config.domain = 'caller.com';
+	    _sf_async_config.sections = '';
+	    _sf_async_config.authors = '';
+	    /** CONFIGURATION END **/
+	    (function(){
+	      function loadChartbeat() {
+	        window._sf_endpt=(new Date()).getTime();
+	        var e = document.createElement('script');
+	        e.setAttribute('language', 'javascript');
+	        e.setAttribute('type', 'text/javascript');
+	        e.setAttribute('src',
+	           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+	           'js/chartbeat.js');
+	        document.body.appendChild(e);
+	      }
+	      var oldonload = window.onload;
+	      window.onload = (typeof window.onload != 'function') ?
+	         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	    })();
 	</script>
 	
 	
 	<script type="text/javascript" src="http://media.caller.com/corp_assets/asphalt/js/swfobject-2.2.js"></script>
 	<script type="text/javascript">jSING.videoPlayer.embedPlayers();</script>
+	
 
 
 
-</body></html>
+
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
