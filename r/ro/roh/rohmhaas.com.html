@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rohmhaas.com privacy policy that was archived on 2011-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615234951id_/http%3A//www.dow.com/homepage/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rohmhaas.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209004052id_/http%3A//www.dow.com/homepage/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
   
@@ -18,56 +18,44 @@
    <link rel="stylesheet" href="/styles/corporate.css" type="text/css">
 	<script type="text/javascript" src="/scripts/default.js"></script></head><body class="body-generic2col"><div id="previewimageid"></div>
 
-<script type="text/javascript" src="/scripts/jquery.1.4.2.js"></script>
-<script type="text/javascript" src="/scripts/jquery.qtip-1.0.js"></script>
+<script type="text/javascript" src="/scripts/jquery-1.6.4.min.js"></script>
 <script type="text/javascript" language="javascript">
 $(document).ready(function(){
-	//global vars
 	var searchBox2 = $("#search-box-text");
-	var searchBox2Default = "SEARCH";
 	
-	//Searchbox2 show/hide default text if needed
+	if(searchBox2.attr("value") == "") searchBox2.addClass("searchboxbg");
+	
 	searchBox2.focus(function(){
-		//$(this).css("background-image", "none");
 		$(this).removeClass("searchboxbg")
 	});
 	searchBox2.blur(function(){
-		//if($(this).attr("value") == "") $(this).css("background", "url(/images/2010corporate/header-search.gif) no-repeat 7px 4px");
 		if($(this).attr("value") == "") $(this).addClass("searchboxbg");
 	});
 	
-	$('#toolset-share a').qtip({
-   content: '<a href="#" onclick=deli()><img src="/images/global/delicioussmall.gif" alt="Del.icio.us" border="0"></a>&nbsp;<a href="#" onclick=digg()><img src="/images/global/16x16-digg-guy.gif" alt="Digg This" border="0"></a>&nbsp;<a href="#" onclick=goog()><img src="/images/global/g-logo.gif" alt="Add to Google" border="0"></a>&nbsp;<a href="#" onclick=twitter()><img src="/images/global/twitter.gif" alt="Twitter" border="0"></a>&nbsp;<a href="#" onclick=stum()><img src="/images/global/stumble.png" alt="StumbleUpon" border="0"></a>&nbsp;<a onclick=facebk()><img src="/images/global/facebook.gif" alt="Facebook" border="0"></a>',
-   position: {
-      corner: {
-         target: 'topMiddle',
-         tooltip: 'bottomMiddle'
-      }
-   },
-   style: { 
-      width: 118,
-      padding: 1,
-      background: '#b3b3b3',
-      color: 'black',
-      textAlign: 'center',
-      border: {
-         width: 1,
-         radius: 2,
-         color: '#b3b3b3'
-      },
-	tip: { // Now an object instead of a string
-         corner: 'bottomMiddle', // We declare our corner within the object using the corner sub-option
-         color: '#b3b3b3',
-         size: {
-            x: 8, // Be careful that the x and y values refer to coordinates on screen, not height or width.
-            y : 6 // Depending on which corner your tooltip is at, x and y could mean either height or width!
-         }
-	},
-	name: 'dark' // Inherit the rest of the attributes from the preset dark style
-	},
-   show: 'click',
-   hide: 'click'
-})
+	$('a').click(function () {
+		var $a = $(this);
+		var href = $a.attr('href');
+		if ((href.match(/^http/i)) && (!href.match(document.domain))) {
+			var category = 'outgoing';
+			var event = 'click';
+			var label = href;
+			_trackEvent(category, event, label);
+		} else {
+			if (href.match(/\.(doc|pdf|xls|ppt|zip|txt|vsd|vxd|js|css|rar|exe|wma|mov|avi|wmv|mp3)$/i)) {
+				var category = 'download';
+				var event = 'click';
+				var label = href;
+				_trackEvent(category, event, label);
+			} else {
+				if (href.match(/^mailto:/i)) {
+					var category = 'mailto';
+					var event = 'click';
+					var label = href;
+					_trackEvent(category, event, label);
+				}
+			}
+		}
+	});
 });
 
 var myloc=location.href;
@@ -122,16 +110,224 @@ return false;
 	<a href="http://myaccount.dow.com"><img class="header-myaccount" src="/images/2010corporate/header-myaccount.gif" alt="Visit myaccount at Dow"></a>
 	<a href="/worldwide/index.htm"><img src="/images/2010corporate/header-worldwide.gif" alt="Worldwide" border="0" class="header-worldwide"></a>
 	<script type="text/javascript" src="/scripts/gsearch.js"></script>
-<form action="/search.asp" id="cse-search-box" onsubmit="return validate_string(this);" class="search-box">
-	<input type="hidden" name="site" id="site">
-	<input type="hidden" name="host" id="host">
-	<input type="text" name="as_q" id="search-box-text" value="" size="16" maxlength="40" class="searchboxbg">
-	<input type="image" name="sa" src="/images/2010corporate/header-search-gobutton.gif" alt="Go" border="0" class="go-button">
-	<input type="hidden" name="as_sitesearch" id="as_sitesearch">
-</form>
+<link rel="stylesheet" href="/styles/jquery-ui-1.8.15.custom.css"> 
+<script src="/scripts/jquery-ui-1.8.15.custom.min.js"></script> 
 <script type="text/javascript">
-	setSearchHost("www.dow.com");
-</script>
+	$(function() {
+		var availableTags = [
+			"acrysol I",
+			"acrysol",
+			"acumer",
+			"acusol",
+			"adcote",
+			"adcote 522c",
+			"adhesive",
+			"adhesive glue",
+			"advanced manufacturing plan",
+			"advanced manufacturing plan for europe",
+			"affinity",
+			"amberlite",
+			"Andrew",
+			"Andrew Liveris",
+			"Andrew N. Liveris",
+			"annual report",
+			"automotive",
+			"Belfast",
+			"BETAMATE",
+			"BETASEAL",
+			"binder technology",
+			"binder technology acrylic",
+			"Biometrics Access Control Nuclear Security",
+			"brakes fluids",
+			"Business",
+			"carbon dioxide capture",
+			"carbowax",
+			"careers",
+			"caustic soda",
+			"cellulose ether",
+			"charles tatum",
+			"CO2 Capture",
+			"CO2 Storage",
+			"Coal",
+			"contact",
+			"corrosion measurement",
+			"corrosion sensors",
+			"corvel",
+			"derivatives",
+			"distributors",
+			"dowanol",
+			"dowex",
+			"dowfax 144",
+			"dowfrost",
+			"dowtherm",
+			"dursban",
+			"electro",
+			"emulsion",
+			"energy",
+			"engage",
+			"epoxy",
+			"epoxy resin",
+			"ethafoam",
+			"european headquater",
+			"EXTRUDED POLYSTRENE",
+			"filmtec",
+			"finished basement",
+			"finished basement",
+			"flexible hold",
+			"foam",
+			"formulation",
+			"foundation",
+			"froth pak",
+			"garlon",
+			"gas separation",
+			"gel",
+			"glycol",
+			"Grangemouth",
+			"grazon",
+			"great stuff",
+			"grinding",
+			"gun grey",
+			"heat transfer fluid",
+			"hema",
+			"hexis",
+			"HYPOL",
+			"india",
+			"injection",
+			"innovation",
+			"insulation",
+			"internship",
+			"internships",
+			"investments",
+			"ion exchange",
+			"ion exchange resin",
+			"job",
+			"jobs",
+			"Kathon",
+			"Kytamer",
+			"latex",
+			"LEED cavitymate",
+			"locations",
+			"long last",
+			"MDEA",
+			"methocel",
+			"methocel 311",
+			"milestone",
+			"milling",
+			"morfree",
+			"mor-free 205a",
+			"mor-free c66",
+			"Morton Salt company",
+			"msds",
+			"MSDS",
+			"Nature Conservancy",
+			"p450 s",
+			"paraloid",
+			"particle size measurement",
+			"performance plastics",
+			"PET",
+			"philanthropy",
+			"phone number brasil",
+			"photoresist",
+			"plastic",
+			"plastics",
+			"polyaminoamide",
+			"poly-carb",
+			"polyethylene",
+			"polyol",
+			"polyox",
+			"polystyrene",
+			"polyurethane",
+			"powder coating",
+			"pressing",
+			"primacor",
+			"primacor 3340",
+			"primal",
+			"primal EZ 100",
+			"primal EZ 100 asia",
+			"primal ez100",
+			"propylene glycol",
+			"reduce blood glucose",
+			"reduced blood glucose",
+			"reducing blood glucose",
+			"resin",
+			"rhoplex",
+			"rhoplex ez",
+			"rhoplex ez100",
+			"rohm ",
+			"rohm haas",
+			"roofmate",
+			"rosa",
+			"salicylaldehyde",
+			"scoreboard",
+			"sentricon",
+			"silan",
+			"silicon",
+			"silicone",
+			"size reduction",
+			"slurry",
+			"SMGB",
+			"sodium formate",
+			"sodium oxalate",
+			"sofc",
+			"solar",
+			"solar shingles",
+			"solid reactors",
+			"specification sheets",
+			"spinosad",
+			"Splicing Adhesive",
+			"Splicing Adhesive Morad",
+			"structure expansion",
+			"stucco veneer",
+			"styling",
+			"styrene",
+			"styrofoam",
+			"styron",
+			"surfactant",
+			"sustainability",
+			"TEM",
+			"tergitol",
+			"Test strip",
+			"texas operations",
+			"thermax",
+			"tis",
+			"tordon",
+			"triethylene glycol",
+			"triton",
+			"TW30HP4040",
+			"tyrin 4211p",
+			"ucon",
+			"vcm",
+			"versene",
+			"VI160",
+			"vinyl",
+			"voranol",
+			"walocel",
+			"water-glycerol",
+			"wax",
+			"weathermate construction tape",
+			"weathermate tape"
+		];
+		$( "#search-box-text" ).autocomplete({
+			  source: function( request, response ) {
+				var matches = $.map( availableTags, function(tag) {
+				  if ( tag.toUpperCase().indexOf(request.term.toUpperCase()) === 0 ) {
+					return tag;
+				  }
+				});
+				response(matches);
+			  },
+			minLength: 2,
+			select: function( event, ui ) {
+				$( "#search-box-text" ).val( ui.item.label );
+				document.getElementById('cse-search-box').submit();
+			}
+		});
+	});
+	</script> 
+<form action="/search.aspx" id="cse-search-box" onsubmit="return validate_string(this);" class="search-box">
+	<input type="text" name="q" id="search-box-text" value="" size="18" maxlength="40" style="outline: none;" autocomplete="off">
+	<input type="image" name="sa" src="/images/2010corporate/header-search-gobutton.gif" alt="Go" border="0" class="go-button">
+</form>
 </div>
 <div class="main-nav main-nav-generic2col">
 <ul>
@@ -153,19 +349,19 @@ return false;
 
 <ul>
 <li class="first">
-<a href="/assistance/index.htm" class="navigation-alias">Help</a>
+<a href="/assistance/index.htm">Help</a>
 </li>
 <li>
-<a href="/homepage/privacy.htm">Privacy Statement</a>
+<a href="/homepage/privacy.asp">Privacy Statement</a>
 </li>
 <li>
 <a href="/homepage/disclosure.htm">Terms of Use</a>
 </li>
 <li>
-<a href="/homepage/accessibility.htm">Accessibility Statement</a>
+<a href="/homepage/accessibility.asp">Accessibility Statement</a>
 </li>
 <li>
-<a href="/search.asp" class="navigation-alias">Search</a>
+<a href="/search.aspx">Search</a>
 </li>
 <li>
 <a href="/homepage/sitemap.htm">Site Map</a>
@@ -388,48 +584,60 @@ Code of Business Conduct, please contact the Dow <a href="http://www.dow.com/abo
 	<script type="text/javascript" src="/scripts/nav.js"></script>
 </div>
 <div class="footer">
-	<p><strong><a href="http://www.dow.com/">Dow.Home</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.dow.com/homepage/privacy.asp">Privacy&nbsp;Statement</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.dow.com/homepage/term.asp">Terms&nbsp;of&nbsp;Use</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.dow.com/homepage/accessibility.asp">Accessibility&nbsp;Statement</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.dow.com/sitemap.htm">Sitemap</a></strong>
-	
 	<script>
-		var myloc=location.href;
-		var mytitle=document.title;
-		var winsize="toolbar=no,width=700,height=600";
+	var myloc=location.href;
+	var mytitle=document.title;
+	var winsize="toolbar=no,width=700,height=600";
 
-		function face()
-		{
-		pageTracker._trackPageview('index.htm/Social Media/Face/');
-		window.open('http://www.facebook.com/pages/The-Dow-Chemical-Company/171697336181460','winsize'); 
-		return false;
-		}
+	function face()
+	{
+	pageTracker._trackPageview('index.htm/Social Media/Face/');
+	window.open('http://www.facebook.com/pages/The-Dow-Chemical-Company/171697336181460','winsize'); 
+	return false;
+	}
 
-		function twit()
-		{
-		pageTracker._trackPageview('index.htm/Social Media/Twit/');
-		window.open('http://www.twitter.com/DowChemical?status=' + myloc,'winsize');
-		return false;
-		}
+	function twit()
+	{
+	pageTracker._trackPageview('index.htm/Social Media/Twit/');
+	window.open('http://twitter.com/DowChemical/','winsize');
+	return false;
+	}
 
-		function linkin()
-		{
-		pageTracker._trackPageview('index.htm/Social Media/Linkin/');
-		window.open('http://www.linkedin.com/company/2562','winsize');
-		return false;
-		}
-		
-		function utube()
-		{
-		pageTracker._trackPageview('index.htm/Social Media/Utube/');
-		window.open('http://www.youtube.com/dowchemicalcompany','winsize'); 
-		return false;
-		}
-	</script>
-		
-	&nbsp;&nbsp;	
-	<a href="#" onclick="utube()"><img src="/images/youtube_logo.gif" alt="You Tube" border="0"></a>&nbsp;
-	<a href="#" onclick="twit()"><img src="/images/twitter.gif" alt="Twitter" border="0"></a>&nbsp;
-	<a href="#" onclick="face()"><img src="/images/facebook_logo.gif" alt="Facebook" border="0"></a>&nbsp;
-	<a href="#" onclick="linkin()"><img src="/images/linkedin_logo.gif" alt="linkedin" border="0"></a>&nbsp;
-</p>
+	function linkin()
+	{
+	pageTracker._trackPageview('index.htm/Social Media/Linkin/');
+	window.open('http://www.linkedin.com/company/2562','winsize');
+	return false;
+	}
+	
+	function utube()
+	{
+	pageTracker._trackPageview('index.htm/Social Media/Utube/');
+	window.open('http://www.youtube.com/dowchemicalcompany','winsize'); 
+	return false;
+	}
+</script>
+
+<style>
+	.social_buttons {float: right; width: 500px;}
+	#logo_youtube, #logo_twitter, #logo_facebook, #logo_linkedin {width: 20px; height: 20px; overflow: hidden; float: left; margin: 0 5px 0 0; cursor: pointer;}
+	#logo_youtube { background: url('/images/logo_youtube.gif') no-repeat top;}
+	#logo_youtube:hover { background: url('/images/logo_youtube.gif') no-repeat bottom;}
+	#logo_twitter { background: url('/images/logo_twitter.gif') no-repeat top;}
+	#logo_twitter:hover { background: url('/images/logo_twitter.gif') no-repeat bottom;}
+	#logo_facebook { background: url('/images/logo_facebook.gif') no-repeat top;}
+	#logo_facebook:hover { background: url('/images/logo_facebook.gif') no-repeat bottom;}
+	#logo_linkedin { background: url('/images/logo_linkedin.gif') no-repeat top;}
+	#logo_linkedin:hover { background: url('/images/logo_linkedin.gif') no-repeat bottom;}
+</style>
+	
+<div class="social_buttons">
+	<div id="logo_youtube" onclick="utube()">&nbsp;</div>
+	<div id="logo_twitter" onclick="twit()">&nbsp;</div>
+	<div id="logo_facebook" onclick="face()">&nbsp;</div>
+	<div id="logo_linkedin" onclick="linkin()">&nbsp;</div>
+</div>
+	<p><strong><a href="http://www.dow.com/">Dow.Home</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.dow.com/homepage/privacy.asp">Privacy&nbsp;Statement</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.dow.com/homepage/term.asp">Terms&nbsp;of&nbsp;Use</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.dow.com/homepage/accessibility.asp">Accessibility&nbsp;Statement</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.dow.com/sitemap.htm">Sitemap</a></strong></p>
 	<p style="margin-top:2px;">Copyright © The Dow Chemical Company (1995-2011). All Rights Reserved.<br>
 	®™<sup>*</sup> Trademark of The Dow Chemical Company ("Dow") or an affiliated company of Dow</p>
 </div>
