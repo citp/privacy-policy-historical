@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxarticles.info privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607181717id_/http%3A//www.oxarticles.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxarticles.info privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208074625id_/http%3A//www.oxarticles.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Free Article Directories | Find Online Articles - OxArticles.info » Free Article Directories | Find Online Articles – OxArticles.info
+# Privacy Policy » ox Articles
 
 Your Privacy
 
