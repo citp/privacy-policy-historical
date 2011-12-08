@@ -1,62 +1,148 @@
-> *The following text is extracted and transformed from the techdeck.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509094908id_/http%3A//www.techdeck.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdeck.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208142342id_/http%3A//www.techdeck.com/app/website/page%3Fid%3Dprivacy) for the most accurate reproduction.*
 
-# Tech Deck - Privacy Policy
+# Tech Deck | Privacy Policy
 
-## Privacy Policy 
+Print 
 
-Parents and Guardians:  
-Click [here](https://web.archive.org/web/20080509094908id_/http%3A//www.techdeck.com/coppa.html) for details about our policies regarding use of our site by children under 13. 
+## Spin Master Studios, Inc. © PRIVACY POLICY
 
-_SPIN MASTER_ , Ltd. (" _SPIN MASTER_ " or " _TECHDECK.COM_ "), who owns and operates the website currently located at [www.techdeck.com](http://www.techdeck.com/) ("Site"), believes that safeguarding your privacy is serious business. Please take a minute to read the following privacy policy ("Policy") so that you understand how we treat your personal information. The purpose of this Policy is to help you understand what kinds of personally identifiable information we may gather about you when you visit the Site, how we may use that information, whether we will disclose it and how you can correct that information. As we modify and expand our services, this Policy might change, so please review it periodically. You can tell if the Policy has been modified since you last reviewed it by checking the date at the beginning of the Policy. By signing up to be a _TECHDECK.COM_ member ("Member") or using the Site or any of _TECHDECK.COM's_ services offered on the Site, you agree to these terms. If you have questions about the Policy, please e-mail us at [info@techdeck.com](mailto:info@techdeck.com). 
+PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE SERVICE. At Spin Master Studios, Inc. ("Spin Master Studios") we are committed to maintaining the privacy, accuracy and security of your personal information. We have developed this website privacy policy to describe our privacy policies and practices and how we collect, use and disclose the personal information of those individuals who visit this website (the "Site") or use the services we offer thorough this Site ("Services"). 
 
-You should be aware that our advertisers or websites that have links on our Site may collect personally identifiable information about you. We are not responsible for the actions or policies of such websites and the Policy does not address the information practices of those websites or advertisers. Your use of the Site is governed by our Terms of Use and by other published rules pertaining to particular products and services offered through the Site. 
+Please take a minute to read this policy so that you understand how we treat your personal information. If you are unsure if or how this privacy policy applies to you, please contact our Privacy Officer for more information.
 
-1\. What personally identifying information about me is collected and who collects it? 
+What is Personal Information?
 
-Please note: Whenever you voluntarily disclose personal information on message boards, in e-mails, or in chat areas on the Site, that information can be collected and used by others. If you post personal information in public places, others may send you unsolicited e-mail messages. Always be cautious about the information you provide online. 
+For the purposes of this privacy policy, personal information is any information about an identifiable individual, other than the person's business title or business contact information when used or disclosed for the purpose of business communications. 
 
-2\. What are cookies and how do we use them? 
+For example, personal information includes your name, age, e-mail address, preferences (such as asking to receive our newsletters or special offers) and, where applicable, payment details.
 
-In our effort to provide services customized to Members' interests, we use cookies to keep and sometimes track information, such as which pages of the Site were visited, which website links were clicked and so on. A cookie is a small piece of data containing identifying information such as your login name that is sent to your browser from a web server, stored on your computer's hard drive and used to track pages that the user has visited. We may use cookies to access your account information (stored on our computers), to estimate our audience size for our advertisers, to identify which areas of our Site you have visited, and for other purposes in order to deliver better and more personalized services. 
+What Personal Information Do We Collect?
 
-You should also be aware that companies that advertise on our Site may use their own cookies. This Policy does not cover how these companies use their cookies. 
+You can visit the Site or use the Services without telling us who you are or revealing any information about yourself, including your e-mail address. Our web server may collect information related to your visit to the Site or the Services, including the IP address and domain used to access the Site or the Services, the type and version of your browser, the website you came from to access the Site or the Services, the page you entered and exited at, any pages that are viewed by that IP address and what country you are from. We use this information to monitor the Site's and Services' performance (such as number of visits, average time spent per page, number of page views) and for our business purposes such as working to continually upgrade the Site and Services. 
 
-3\. How is my personal information used? 
+In addition, we may collect the personal information that you submit to us, such as your name, address and any other contact or other information that you choose to provide by: 
 
-Our primary goal in gathering your personal information is to provide our Members with a personalized experience. If we choose to customize content, we may compare your profile with other Member profiles and, based on their interests, we may make predictions about your interests. Based on these predictions, you may see specialized content, including advertising banners. We will not give advertisers direct access to any of your personal identification information. 
+  * Registering as a member on the Site or for a Service;
+  * Contributing an article, video or comment to the Site or a Service;
+  * By corresponding with us via e-mail using the hyperlinks created for that purpose; or
+  * Participating in surveys or polls, or respond to special offers, give-aways or promotions.
 
-In addition, we (or those acting on our behalf) may send you e-mail notices about products, companies, and events that we think might interest you. 
 
-We also may match information obtained from cookies with data provided by you for internal purposes only. This allows us to analyze this data both in the aggregate (for example, nine-tenths of our users own miniature skateboards) and in connection with individual users (for example, John Doe visits the Collector's Page the most). This information lets us tailor our services to your interests. 
 
-We also reserve the right to provide analyses of our users as a group to prospective partners, advertisers, and other third parties. We do this, without revealing your identity, so that we and our advertisers can better understand your needs and interests, which allows us to keep bringing you advertisements that match your interests. 
+Your personal information may also be collected when you participate in surveys or polls, or respond to special offers, give-aways or promotions on the Site. In addition, the Site may store your electronic chat and other communications as a necessary incident to the transmission and delivery of those communications and to prevent misuse of our Site and Services. Other information, such as your account status, is created and maintained by the Site in the normal course of providing service to our members and other users.   
 
-In addition to using personal information collected on the Site in order to provide services to Members, we may disclose personal information to third parties as provided below: (a) when we are required to do so by law; (b) when we have reason to believe that someone is causing injury to or interference with our rights or property or that of other Site users or anyone else; (c) to respond to an emergency; (d) if you have given us permission to do so, for example, by voluntarily participating in a promotion or making a purchase on the Site (where we then provide the information required to register for the promotion, or to ship your purchases, to the appropriate third-party service provider); and (e) with our contractors, consultants, or professional advisors, but only to the extent necessary for them to perform services on our behalf, and only under reasonable confidentiality restrictions. 
 
-4\. Opting Out 
+Why Do We Collect, Use, and Disclose Personal Information? 
 
-As part of the Member registration process you may opt out of receiving periodic e-mail messages about products, companies and events by simply telling us that when you give us your personal information. Or, you can easily edit your Member Profile or "Account" at any time to indicate that you no longer want to receive these messages. After you log in, just click on "My Profile". This will send you into the pages where you can review and modify your membership information and profile. From time to time we may e-mail Members important information regarding the Site or the use of the Site. Members may not opt out of receiving this information. 
+In addition to the specific purposes that we may advise you of at, or before, the time that we collect your personal information, we may also collect personal information from you so that we may:
 
-5\. Can I update or correct my personal information? 
+  * Establish, maintain and manage our relationship with you;
+  * Enforce our Terms of Use, including investigating user conduct and, in some cases, banning a user temporarily or permanently from the Site or Services if that user engages in inappropriate conduct;
+  * Review and improve the products and services that we provide to you;
+  * Comply with your requests;
+  * Protect us against error, fraud, theft and damage to our goods and property; and
+  * Comply with applicable law or regulatory requirements.
 
-Your account information is contained within your Member Profile. You may edit your Profile at any time, all you need is your Member ID and Password. After you log in as a Member, click on "My Profile" from the homepage and you can view, update, and correct your account information. Keep in mind, however, that there will be residual information that will remain within our databases, access logs, and other records, which may or may not contain personally identifiable information. 
 
-6\. How does _TECHDECK.COM_ protect my information? 
 
-Your _TECHDECK.COM_ Member Profile is password-protected. In order to maintain this protection, do not give your password to anyone. Also, we recommend that, if you share your computer with other people, you sign out of your Member Account and close your browser window when you are done. Signing off will help protect your Member Profile information if you share a computer with someone else or are using a computer in a public place like a library. We use reasonable efforts to ensure that your personal information is secure on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. YOU ARE ENTIRELY RESPONSIBLE FOR MAINTAINING THE CONFIDENTIALITY OF YOUR MEMBER NAME AND PASSWORD AND FOR ANY AND ALL ACTIVITIES (INCLUDING PURCHASES) THAT ARE CONDUCTED THROUGH YOUR ACCOUNT. 
+We may also use your contact information to provide you or your parent(s)/guardian(s) with notification regarding the Site or Services, such as any future amendments to this policy, and may disclose such information in response to a law enforcement agency's or other public agency's (including schools or children services) request or if we feel that such disclosure may prevent the instigation of a crime, facilitate an investigation related to public safety or protect the safety of a child using the Site or Services, protect the security or integrity of the Site and Services, or enable us to take precautions against liability.
 
-7\. Former Members 
+Your personal information may be shared with our employees, contractors, consultants, affiliates and other parties who require such information to assist us with establishing, maintaining and managing our relationship with you or developing, operating and maintaining the Site and Services. In addition, your personal information may be disclosed or transferred to another party in the event of a change in ownership of, or a grant of a security interest in, all or a part of Spin Master Studios. 
 
-If you cease to be an active user or Member of the Site, we will continue to treat any personal information you have provided to us in connection with the Site in accordance with this Policy, as amended from time to time. We reserve the right to contact you via e-mail after you cease to be an active user or Member of the Site to inform you about updates and developments on the Site. 
+  * Further, your personal information may be disclosed:
+  * As permitted or required by applicable law or regulatory requirements (for example, in response to a court order or a subpoena);
+  * To protect the rights and property of Spin Master Studios;
+  * During emergency situations or where necessary to protect the safety of a person or group of persons;
+  * Where the personal information is publicly available; or
+  * With your consent. 
 
-8\. Linked Sites 
 
-This Site may contain links to websites which enable access to content, products and services provided and controlled by parties other than _SPIN MASTER_. _SPIN MASTER_ is not responsible for the availability of, the content provided on, or the consequences of use of these third party sites. You should refer to the policies posted by each such site regarding privacy and other topics of concern to you before you use it. _SPIN MASTER_ provides links to other websites only as a convenience to its users, and the inclusion of any link does not imply endorsement by _SPIN MASTER_ of the linked site or the content, products and services available on it. 
 
-9\. Exclusions 
+You acknowledge and agree that access to and use of this Site and the Services is provided via the internet and that your information, including personal information, may be transferred across national borders and stored or processed in any country in the world. We may collect, use or disclose your personal information without your knowledge or consent where we are permitted or required by applicable law or regulatory requirements to do so.   
 
-This Policy does not restrict or prohibit our use or disclosure of publicly available information, even if such information is personal in nature, for example, information available in your local white pages. We reserve the right to transfer any and all information that we collect from our visitors to a third party in the event that we sell or transfer substantially all of our assets related to the Site to such third party, provided such third party agrees to use such personal information in accordance with the terms of this Policy. 
 
-10\. What about privacy for users under 13? 
+We may send you E-mail.
 
-Our registration process is designed to protect the privacy of anyone under the age of 13 by requiring that they obtain parental permission before becoming a Member. The process is as follows: when a child under the age of 13 signs up to become a Member, one of that child's parents must fill out, sign and submit a Parental Consent form. Once we receive the form, we send the parent a confirmation e-mail along with the child's username and password. We do not knowingly collect any information from children under the age of 13 without notifying a parent and giving the parent the opportunity to deny their child's membership. Parents can also revoke permission to let their children participate on the Site at any time. This process is designed to comply with the Children's Online Privacy Protection Guidelines. 
+From time to time we may e-mail important information to you regarding the Site or the Services (such as a change to our service offering). 
+
+In addition, where you request information from us or become a member of the Site or any of the Services, we may use the e-mail address that you provide to send you information about offers on products and services that we believe may be of interest to you. If you do not wish to receive such e-mails, you may opt out of receiving same by simply telling us when you give us your personal information or register with us. If you later change your mind, you may easily edit your "Account" at any time to indicate that you now wish to, or no longer wish to, receive these messages.
+
+If you have asked us to put you on an e-mail mailing list to provide you with certain information on a regular basis, you may ask us to remove you from the list at any time (using the unsubscribe instructions provided with each e-mail and on the Site or Service where you signed up).
+
+Please Play Safe / A few words about On-line Safety
+
+It is important to remember that no security measures are perfect or impenetrable. In addition, whenever you voluntarily disclose personal information on message boards, in e-mails, or in chat areas on the Site or through the Services, that information can be collected and used by others. If you post personal information in public places, others may send you unsolicited e-mail messages or attempt to contact you in other ways. 
+
+Always be cautious about the information you provide or store online.
+
+Special Notes about Children
+
+Consistent with our obligations under various child privacy protection laws (such as the Children's Online Privacy Protection Act), we do not knowingly collect, use, disclose or store personal information of children under thirteen (13) years of age without their parent(s) / guardian(s) consent. 
+
+Accordingly, we request that children under the age of thirteen (13) not submit any personal information to us via the Site or the Services and obtain consent from their parent(s)/guardian(s) before accessing our Site or the Services. We request that children under the age of 13 not submit any personal information to us via the Site and require signed consent by means of returning a legal affidavit as required during submission of personally identifiable information from parents/guardians of children under the age of 13 to gain access to content and/or services on the Site. We require that all individuals accept our Terms of Use, which states explicitly that users of the Site and Service must have consent from their parent(s)/guardian if under the age of 13 years as well as prominently displaying a notice to parent(s)/guardian(s) to describe how we collect, use and disclose personal information. Where we learn that we have inadvertently gathered personally identifiable information from a child under thirteen (13), we will attempt to notify such child's parent or guardian and remove such information from our records. 
+
+If you are the parent or guardian of a teenager who is under the age of eighteen (18) but at least thirteen (13) years old, and have authorized your teenager to use your Account, we urge you to instruct your teenager to NEVER give out his or her real name, address, phone number or other personally identifiable information while using the Service. Teenagers under the age of eighteen (18) but at least thirteen (13) years old should encourage their parents to review this policy and to contact us if they have any questions. 
+
+If you believe that we might have any information from or about a child under thirteen (13), please contact our Privacy Officer in the manner noted below.
+
+How Do We Use Cookies? 
+
+When you visit the Site or Services, we may place a "cookie" on the hard drive of your computer to track your visit. A cookie is a small data file that is transferred to your hard drive through your web browser that can only be read by the website that placed the cookie on your hard drive. The cookie acts as an identification card and allows the Site to identify you and to record your passwords and preferences. The cookie allows us to track your visit to the Site or Services so that we can better understand your use of the Site and Services so that we can customize and tailor it to better meet your needs. For example, our cookies help us to learn about the usage of the Site and Services by helping us to track how many visitors we have, how often they visit various sections of the Site and Services, and their geographic location.
+
+Most web browsers are set to accept cookies. However, on most web browsers you may change this setting to have your web browser either: (1) notify you prior to a website placing a cookie on your hard drive so that you can decide whether or not to accept the cookie; or (2) automatically prevent the placing of a cookie on your hard drive. It should be noted that if cookies are not accepted, you will not be able to access a number of web pages found on the website.
+
+Your Consent is Important to Us
+
+By using the Site or Services, we assume that you have consented to the collection, use and disclosure of your personal information as explained in this privacy policy. 
+
+In addition, you may change or withdraw your consent at any time, subject to legal or contractual restrictions and reasonable notice, by contacting our Privacy Officer using the contact information set out below. In some circumstances, a change in or withdrawal of consent may severely limit our ability to provide products or services to you. All communications with respect to such withdrawal or variation of consent should be in writing and addressed to our Privacy Officer.
+
+How is Your Personal Information Protected?
+
+Spin Master Studios endeavors to maintain physical, technical and procedural safeguards that are appropriate to the sensitivity of the personal information in question. These safeguards are designed to protect your personal information from loss and unauthorized access, copying, use, modification or disclosure.
+
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while this Site and the Services strive to protect your personal information, we cannot warrant the confidentiality or security of any information you transmit to us, and you do so at your own risk.
+
+What about Third Party Advertisements or Links to other Websites?
+
+Our Site and Services may contain links to other websites that may be subject to less stringent privacy standards. We cannot assume any responsibility for the privacy practices, policies or actions of the third parties that operate these websites. Spin Master Studios is not responsible for how such third parties collect, use or disclose your personal information. You should review the privacy policies of these websites before providing them with personal information.
+
+Updating Your Personal Information
+
+It is important that the information contained in our records is both accurate and current. If your personal information happens to change during the course of our relationship, please keep us informed of such changes. 
+
+In some circumstances we may not agree with your request to change your personal information and will instead append an alternative text to the record in question.
+
+Access to Your Personal Information
+
+You can ask to see the personal information that we hold about you. If you want to review, verify or correct your personal information, please contact our Privacy Officer using the contact information set out below. Please note that any such communication must be in writing. 
+
+When requesting access to your personal information, please note that we may request specific information from you to enable us to confirm your identity and right to access, as well as to search for and provide you with the personal information that we hold about you. We may charge you a fee to access your personal information; however, we will advise you of any fee in advance. If you require assistance in preparing your request, please contact our Privacy Officer. 
+
+Your right to access the personal information that we hold about you is not absolute. There are instances where applicable law or regulatory requirements allow or require us to refuse to provide some or all of the personal information that we hold about you. In addition, the personal information may have been destroyed, erased or made anonymous in accordance with our record retention obligations and practices. 
+
+In the event that we cannot provide you with access to your personal information, we will endeavour to inform you of the reasons why, subject to any legal or regulatory restrictions.
+
+Inquiries or Concerns? 
+
+If you have any questions or concerns about our privacy policies, please send an e-mail with your questions or comments to [support@techdeck.com](mailto:support@techdeck.com) or by mail:
+
+Community Management, Privacy Officer  
+c/o Spin Master Studios, Inc.  
+5890 Jefferson Blvd. Suite E   
+Los Angeles, CA 90016  
+
+
+Application and Interpretation of this Privacy Policy
+
+It is our policy to comply with the privacy legislation within each jurisdiction in which we operate. Sometimes the privacy legislation and / or an individual's right to privacy are different from one jurisdiction to another. This privacy policy has a limited scope and application. Consequently, the rights and obligations contained in this privacy policy may not be available to all individuals or in all jurisdictions. 
+
+Any interpretation associated with this privacy policy will be made by our Privacy Officer. This privacy policy includes examples but is not intended to be restricted in its application to such examples, therefore where the word 'including' is used, it shall mean 'including without limitation'.
+
+This privacy policy does not create or confer upon any individual any rights, or impose upon Spin Master Studios any rights or obligations outside of, or in addition to, any rights or obligations imposed by applicable laws. Should there be, in a specific case, any inconsistency between this privacy policy and such laws, this privacy policy shall be interpreted, in respect of that case, to give effect to, and comply with, such laws.
+
+Modifications to this Privacy Policy
+
+From time to time, we may make changes to this privacy policy to reflect changes in our legal or regulatory obligations or in the manner in which we deal with your personal information. We will post any revised version of this privacy policy on the Site and we encourage you to refer back to it on a regular basis. This privacy policy was last updated in March 2010. 
+
+Back to Top 
