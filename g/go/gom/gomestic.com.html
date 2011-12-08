@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gomestic.com privacy policy that was archived on 2011-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110611030230id_/http%3A//gomestic.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gomestic.com privacy policy that was archived on 2011-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208162256id_/http%3A//gomestic.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 
@@ -24,8 +24,51 @@
 <meta property="og:site_name" content="Gomestic">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://gomestic.com/privacy-policy/">
+<meta property="og:description" content="Flag It
+						Spam
+						Adult Content
+						Plagiarism
+						Insufficient Quality
+						Wrong Category
+					
+				
+					
+					
+				
+					
+						Select the Right Category
+						About Writing
+						Autos
+						Books
+						Business
+						Computers
+						Creative Writing
+						Domestic
+						Gaming
+						General
+						Health
+						Internet
+						Movies
+						Music
+						News
+						Offbeat
+						Pets
+						Poetry
+						Recipes
+						Religion
+						Science
+						Short Stories
+						Society
+						Sports
+						Television
+						Travel
+						Women
+					
+				if (typeof triond_writer_id != &quot;undefined&quot;) document.getElementById('flagit_div').style.display='block';">
 <meta property="og:type" content="article">
-<script type="text/javascript" src="http://gomestic.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+ 
+	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+	<script type="text/javascript" src="http://gomestic.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
 //<![CDATA[
 function doILikeIt( website_channel_article_id,blog_id,post_id )
@@ -33,7 +76,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
    document.getElementById('iLikeItLinkDiv').innerHTML = '';
    document.getElementById('iLikeItNumber').innerHTML = '<img src="http://gomestic.com/wp-content/themes/gomestic/images/i-like-it-load.gif" />';
    var mysack = new sack( 
-       "http://gomestic.com/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
+       "/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
 
   mysack.execute = 1;
   mysack.method = 'POST';
@@ -42,6 +85,53 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
   mysack.setVar( "post_id", post_id );
   mysack.setVar( "results_div_id", "iLikeItNumber" );
   mysack.onError = function() { alert('Ajax error in voting' )};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function flagReasonChanged(article_id){
+	if (document.getElementById('flagReasonsSelect').value == '') return false;
+	
+	if (document.getElementById('flagReasonsSelect').value == 'redirect'){
+		document.getElementById('masterCategoriesDiv').style.display='block';
+		document.getElementById('palagrizedUrlDiv').style.display='none';
+	}
+	else if (document.getElementById('flagReasonsSelect').value == 'plagiarism'){
+		document.getElementById('palagrizedUrlDiv').style.display='block';
+		document.getElementById('masterCategoriesDiv').style.display='none';
+	}
+	else
+		doFlagIt(article_id);
+		
+}           
+           
+function doFlagIt( article_id)
+{
+   var reason = document.getElementById('flagReasonsSelect').value;
+   var to_master_category_id = document.getElementById('masterCategoriesSelect').value;
+   var palagrized_url = encodeURIComponent(document.getElementById('palagrizedUrl').value);
+
+   if (reason == 'plagiarism' && palagrized_url.indexOf('http') < 0) return false;
+   if (reason != 'plagiarism') palagrized_url = '';
+	
+   document.getElementById('flagit_div').innerHTML = '';
+   document.getElementById('flagit_div').innerHTML = '<p>Thank you!</p>';
+   var mysack = new sack( 
+       "/wp-content/mu-plugins/w4l/w4l_flag_it_ajax.php" );    
+
+  mysack.execute = 1;
+  mysack.method = 'POST';
+  mysack.setVar( "article_id", article_id );
+  mysack.setVar( "by_writer_id", triond_writer_id);
+  mysack.setVar( "reason", reason);
+  mysack.setVar( "to_master_category_id", to_master_category_id);
+  mysack.setVar( "palagrized_url", palagrized_url);
+  mysack.onError = function() { alert('Ajax error in flagging' )};
   mysack.runAJAX();
 
   return true;
@@ -103,7 +193,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
 function showTriondSignupForm()
 {
    var mysack = new sack( 
-       "http://gomestic.com/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
+       "/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
 
   mysack.execute = 0;
   mysack.method = 'GET';
@@ -137,23 +227,30 @@ function showTriondSignupForm()
 
 			<div id="ad728">
 				
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=546");
-   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=546&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=72039946187&amp;loc=https%3A//web.archive.org/web/20110611030230id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=a4490c&amp;cb=bede2f46d0ae8b7cb64120b4a2b2b64b' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=546&amp;cb=bede2f46d0ae8b7cb64120b4a2b2b64b&amp;n=a4490c' border='0' alt='' /></a></noscript>			</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=546");
+					   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=546&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=18198300015&amp;loc=https%3A//web.archive.org/web/20111208162256id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=d2b933&amp;cb=3f8381cb557c7d0d91e8f69f11ebcc06' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=546&amp;cb=3f8381cb557c7d0d91e8f69f11ebcc06&amp;n=d2b933' border='0' alt='' /></a></noscript>			</div>
 
 
 		</div>
@@ -248,7 +345,49 @@ function showTriondSignupForm()
 <p>Gomestic is committed to handling your personal information with the highest standards of security information. Gomestic shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.</p>
 <p>7.  Contact .</p>
 <p>If you have any questions about this Privacy Policy or your dealings with Gomestic, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@gomestic.com .</p>
-
+<div id="flagit_div" class="flagItDiv" style="display:none;margin-top:3px;margin-bottom:10px;height:25px;"><div id="flagReasonsDiv" style="display:block;float:left;margin-right:5px;">
+					<select id="flagReasonsSelect" onchange="flagReasonChanged();" style="font-size:11px;">
+						<option value="">Flag It</option>
+						<option value="spam">Spam</option>
+						<option value="adult">Adult Content</option>
+						<option value="plagiarism">Plagiarism</option>
+						<option value="insufficient-quality">Insufficient Quality</option>
+						<option value="redirect">Wrong Category</option>
+					</select>
+				</div><div id="palagrizedUrlDiv" style="display:none;float:left;">
+					<input type="text" id="palagrizedUrl" style="font-size:11px;" value="enter plagiarized url...">
+					<input type="button" onclick="doFlagIt()" style="font-size:11px;" value="Go">
+				</div><div id="masterCategoriesDiv" style="display:none;float:left;">
+					<select id="masterCategoriesSelect" onchange="doFlagIt();" style="font-size:11px;">
+						<option value="">Select the Right Category</option>
+						<option value="27">About Writing</option>
+						<option value="59">Autos</option>
+						<option value="21">Books</option>
+						<option value="16">Business</option>
+						<option value="22">Computers</option>
+						<option value="3">Creative Writing</option>
+						<option value="13">Domestic</option>
+						<option value="6">Gaming</option>
+						<option value="2">General</option>
+						<option value="8">Health</option>
+						<option value="20">Internet</option>
+						<option value="19">Movies</option>
+						<option value="26">Music</option>
+						<option value="30">News</option>
+						<option value="29">Offbeat</option>
+						<option value="55">Pets</option>
+						<option value="54">Poetry</option>
+						<option value="9">Recipes</option>
+						<option value="11">Religion</option>
+						<option value="32">Science</option>
+						<option value="57">Short Stories</option>
+						<option value="12">Society</option>
+						<option value="17">Sports</option>
+						<option value="18">Television</option>
+						<option value="15">Travel</option>
+						<option value="53">Women</option>
+					</select>
+				</div></div><script type="text/javascript">if (typeof triond_writer_id != "undefined") document.getElementById('flagit_div').style.display='block';</script>
 					</div>
 
 				</div>
@@ -284,92 +423,94 @@ function showTriondSignupForm()
 					
 					<div id="ad300">
 						
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=549");
-   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=549&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=92064667042&amp;loc=https%3A//web.archive.org/web/20110611030230id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=ef5766&amp;cb=40da9ee4e90eee637e20693eedf65405' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=549&amp;cb=40da9ee4e90eee637e20693eedf65405&amp;n=ef5766' border='0' alt='' /></a></noscript>					</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=549");
+					   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=549&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=26946173574&amp;loc=https%3A//web.archive.org/web/20111208162256id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=183bc2&amp;cb=646d9bceaf16c0a4a41c5ca5eb39979a' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=549&amp;cb=646d9bceaf16c0a4a41c5ca5eb39979a&amp;n=183bc2' border='0' alt='' /></a></noscript>					</div>
  					<div id="pop-posts" class="">
 						<div class="widgettitle">Popular Articles</div>
 						<div class="sidebox">
 						<ul>
-							<li><div class="popularPostImgDiv"><a href="http://gomestic.com/home/exercise-for-the-face/" title="Exercise for The Face"><img src="http://s3.amazonaws.com/readers/beyondjane/2008/07/16/71595.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/home/exercise-for-the-face/" title="Exercise for The Face">Exercise for The Face</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/pets/dogs-are-better-than-cats/" title="Dogs are Better Than Cats"><img src="http://s3.amazonaws.com/readers/authspot/2009/07/19/1172235.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/pets/dogs-are-better-than-cats/" title="Dogs are Better Than Cats">Dogs are Better Than Cats</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/gardening/common-carrot-pests-carrot-flies-and-aster-yellow/" title="Common Carrot Pests: Carrot Flies and Aster Yellow"><img src="http://s3.amazonaws.com/readers/gomestic/2008/06/15/181796.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/gardening/common-carrot-pests-carrot-flies-and-aster-yellow/" title="Common Carrot Pests: Carrot Flies and Aster Yellow">Common Carrot Pests: Carrot Flies and Aster Yellow</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/pets/beagle-dog-breed-friendly/" title="Beagle Dog Breed Friendly"><img src="http://s3.amazonaws.com/readers/gomestic/2008/02/16/113998.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/pets/beagle-dog-breed-friendly/" title="Beagle Dog Breed Friendly">Beagle Dog Breed Friendly</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/cooking/nuts-bolts/" title="Nuts &amp; Bolts"><img src="http://s3.amazonaws.com/readers/gomestic/2008/01/06/98040.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/cooking/nuts-bolts/" title="Nuts &amp; Bolts">Nuts &amp; Bolts</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/family/five-people-who-raised-by-animals/" title="Five People Who Raised by Animals"><img src="http://s3.amazonaws.com/readers/gomestic/2008/07/31/244083.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/family/five-people-who-raised-by-animals/" title="Five People Who Raised by Animals">Five People Who Raised by Animals</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/cooking/polenta-and-mushroom-sauce/" title="Polenta and Mushroom Sauce"><img src="http://s3.amazonaws.com/readers/gomestic/2008/02/26/118536.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/cooking/polenta-and-mushroom-sauce/" title="Polenta and Mushroom Sauce">Polenta and Mushroom Sauce</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/pets/border-terrier-dog-breed/" title="Border Terrier Dog Breed"><img src="http://s3.amazonaws.com/readers/authspot/2009/03/17/812303.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/pets/border-terrier-dog-breed/" title="Border Terrier Dog Breed">Border Terrier Dog Breed</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/cooking/cococucu-salad/" title="Cococucu Salad"><img src="http://s3.amazonaws.com/readers/notecook/2009/07/16/1170251.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/cooking/cococucu-salad/" title="Cococucu Salad">Cococucu Salad</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/cooking/grandmas-raspberry-chocolate-cheesecake-milkshake/" title="Grandma's Raspberry Chocolate Cheesecake Milkshake"><img src="http://s3.amazonaws.com/readers/notecook/2008/12/07/513731.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/cooking/grandmas-raspberry-chocolate-cheesecake-milkshake/" title="Grandma's Raspberry Chocolate Cheesecake Milkshake">Grandma's Raspberry Chocolate Cheesecake Milkshake</a></div><div style="clear:both;"></div></li>						</ul>
+							<li><div class="popularPostImgDiv"><a href="http://gomestic.com/family/how-to-respect-each-other/" title="How to Respect Each Other"><img src="http://s3.amazonaws.com/readers/authspot/2009/06/19/1078615.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/family/how-to-respect-each-other/" title="How to Respect Each Other">How to Respect Each Other</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/family/many-children-pick-up-bad-habits-from-parents/" title="Many Children Pick Up Bad Habits From Parents"><img src="http://s3.amazonaws.com/readers/socyberty/2009/07/07/1139693.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/family/many-children-pick-up-bad-habits-from-parents/" title="Many Children Pick Up Bad Habits From Parents">Many Children Pick Up Bad Habits From Parents</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/family/sleepovers-when-should-you-allow-your-child-to-have-a-sleepover/" title="Sleepovers:  When Should You Allow Your Child to Have a Sleepover"><img src="http://s3.amazonaws.com/readers/gomestic/2008/05/21/167211.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/family/sleepovers-when-should-you-allow-your-child-to-have-a-sleepover/" title="Sleepovers:  When Should You Allow Your Child to Have a Sleepover">Sleepovers:  When Should You Allow Your Child to Have a Sleepover</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/home-improvement/classic-navy-blue-is-back/" title="Classic Navy Blue is Back"><img src="http://s3.amazonaws.com/readers/bizcovering/2009/06/13/1051635.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/home-improvement/classic-navy-blue-is-back/" title="Classic Navy Blue is Back">Classic Navy Blue is Back</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/home/guide-to-using-snow-blowers-safely-for-snow-removal/" title="Guide to Using Snow Blowers Safely for Snow Removal"><img src="http://s3.amazonaws.com/readers/newsflavor/2009/06/25/1099475.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/home/guide-to-using-snow-blowers-safely-for-snow-removal/" title="Guide to Using Snow Blowers Safely for Snow Removal">Guide to Using Snow Blowers Safely for Snow Removal</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/family/lessons-kids-need-to-learn/" title="Lessons Kids Need to Learn"><img src="http://s3.amazonaws.com/readers/socyberty/2009/02/09/695651.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/family/lessons-kids-need-to-learn/" title="Lessons Kids Need to Learn">Lessons Kids Need to Learn</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/gardening/protect-your-heart-with-sharon-fruit/" title="Protect Your Heart with Sharon Fruit"><img src="http://s3.amazonaws.com/readers/healthmad/2008/09/25/351865.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/gardening/protect-your-heart-with-sharon-fruit/" title="Protect Your Heart with Sharon Fruit">Protect Your Heart with Sharon Fruit</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/gardening/cocktails-to-soak-with-in-a-warm-tub-do-not-attempt-to-ingest-homemade-christmas-gift/" title="Cocktails to Soak with in a Warm Tub. Do Not Attempt to Ingest. Homemade Christmas Gift"><img src="http://s3.amazonaws.com/readers/notecook/2008/09/29/359497.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/gardening/cocktails-to-soak-with-in-a-warm-tub-do-not-attempt-to-ingest-homemade-christmas-gift/" title="Cocktails to Soak with in a Warm Tub. Do Not Attempt to Ingest. Homemade Christmas Gift">Cocktails to Soak with in a Warm Tub. Do Not Attempt to Ingest. Homemade Christmas Gift</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/do-it-yourself/how-to-repaint-old-furniture-like-a-pro/" title="How to Repaint Old Furniture Like a Pro"><img src="http://s3.amazonaws.com/readers/gomestic/2008/07/09/212111.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/do-it-yourself/how-to-repaint-old-furniture-like-a-pro/" title="How to Repaint Old Furniture Like a Pro">How to Repaint Old Furniture Like a Pro</a></div><div style="clear:both;"></div></li><li><div class="popularPostImgDiv"><a href="http://gomestic.com/pets/how-to-stop-your-cat-from-biting-you/" title="How to Stop Your Cat From Biting You"><img src="http://s3.amazonaws.com/readers/2009/08/05/893973.jpg" style="height: 30px; width: 40px" class="popularPostPic"></a></div><div class="popularPostLinkDiv"><a href="http://gomestic.com/pets/how-to-stop-your-cat-from-biting-you/" title="How to Stop Your Cat From Biting You">How to Stop Your Cat From Biting You</a></div><div style="clear:both;"></div></li>						</ul>
 						</div> 
 					</div>
  
  					<div id="ad160Wrapper">
 						<div id="ad160-1">
 							
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=799");
-   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=799&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=58957354813&amp;loc=https%3A//web.archive.org/web/20110611030230id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=22c2e9&amp;cb=d1f6e77cad756a0efde506df67e8312b' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=799&amp;cb=d1f6e77cad756a0efde506df67e8312b&amp;n=22c2e9' border='0' alt='' /></a></noscript>						</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=799");
+					   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=799&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=75944362234&amp;loc=https%3A//web.archive.org/web/20111208162256id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=421830&amp;cb=ede4b99f7afeec446c31265a990ebb43' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=799&amp;cb=ede4b99f7afeec446c31265a990ebb43&amp;n=421830' border='0' alt='' /></a></noscript>						</div>
 						<div id="ad160-2">
 							
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=548");
-   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=548&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=25295321129&amp;loc=https%3A//web.archive.org/web/20110611030230id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=75db8d&amp;cb=207a6cbd565601bad718d6c1cc16473b' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=548&amp;cb=207a6cbd565601bad718d6c1cc16473b&amp;n=75db8d' border='0' alt='' /></a></noscript>						</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=548");
+					   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=548&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=39052344670&amp;loc=https%3A//web.archive.org/web/20111208162256id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c218c8&amp;cb=956b51649fe8c6406cb3878c38245bb1' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=548&amp;cb=956b51649fe8c6406cb3878c38245bb1&amp;n=c218c8' border='0' alt='' /></a></noscript>						</div>
 						<div class="clearfix"></div>
 					</div>
  
-	<div>				
-		<div class="widgettitle">Video of the Day</div>
-		<div id="SmartPlayer2"></div>
-		<script type="text/javascript">
-		var playerSeed = new PlayerSeed('SmartPlayer2');
-		playerSeed.sid = 332;
-		playerSeed.width = '300';
-		playerSeed.height = '250';
-		playerSeed.videoControlDisplayColor = '#CCCCCC';
-		playerSeed.featured = true;
-		playerSeed.categories = '6,9,12';
-		playerSeed.overlay= true;
-		playerSeed.autoStart= false;
-		playerSeed.companionPos= 'bottom';
-		playerSeed.hasCompanion=true;
-		playerSeed.Load();
-		</script>
-	</div>
-				
 					<div id="google-search" class="">
 						<div class="widgettitle">Search Gomestic</div>
 						<div class="sidebox">
@@ -390,14 +531,40 @@ function showTriondSignupForm()
 					<div id="content_2" class="" style="margin-bottom: 20px;">
 						<iframe src="http://www.facebook.com/plugins/activity.php?site=gomestic.com&amp;width=300&amp;height=300&amp;header=true&amp;colorscheme=light&amp;recommendations=true&amp;ref=fb_activity" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:300px;" allowtransparency="true"></iframe>
 					</div>
+
+					<div id="ad300">
+						
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1451");
+					   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1451&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=53792680510&amp;loc=https%3A//web.archive.org/web/20111208162256id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=570e89&amp;cb=b9adec49c927183f7f0791000cea653f' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1451&amp;cb=b9adec49c927183f7f0791000cea653f&amp;n=570e89' border='0' alt='' /></a></noscript>					</div>
 					
 					<div>
 					
-	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
 	<div id="triond-signup-div" style="display:none">
 	</div>
 	<script type="text/javascript">
-	if(triond_user_logged_in != undefined)
+	if(typeof triond_user_logged_in != "undefined")
 	{
 		if(!triond_user_logged_in)
 		{
@@ -409,57 +576,8 @@ function showTriondSignupForm()
 						</div>
 					
 					
-					<div id="tag-cloud">
-					<div class="widgettitle">Tags</div>
-					<ul>
-						<a href="http://gomestic.com/tag/animals/" class="tag-link-4199" title="398 topics" rel="tag" style="font-size: 8.8389513108614pt;">animals</a>
-<a href="http://gomestic.com/tag/baby/" class="tag-link-6747" title="308 topics" rel="tag" style="font-size: 8.0524344569288pt;">Baby</a>
-<a href="http://gomestic.com/tag/budget/" class="tag-link-10301" title="486 topics" rel="tag" style="font-size: 9.6079900124844pt;">budget</a>
-<a href="http://gomestic.com/tag/business/" class="tag-link-1291" title="587 topics" rel="tag" style="font-size: 10.49063670412pt;">business</a>
-<a href="http://gomestic.com/tag/cat/" class="tag-link-3177" title="392 topics" rel="tag" style="font-size: 8.7865168539326pt;">cat</a>
-<a href="http://gomestic.com/tag/cats/" class="tag-link-8153" title="387 topics" rel="tag" style="font-size: 8.7428214731586pt;">cats</a>
-<a href="http://gomestic.com/tag/child/" class="tag-link-5459" title="956 topics" rel="tag" style="font-size: 13.715355805243pt;">Child</a>
-<a href="http://gomestic.com/tag/children/" class="tag-link-1639" title="1,552 topics" rel="tag" style="font-size: 18.923845193508pt;">children</a>
-<a href="http://gomestic.com/tag/cleaning/" class="tag-link-26241" title="348 topics" rel="tag" style="font-size: 8.4019975031211pt;">cleaning</a>
-<a href="http://gomestic.com/tag/cooking/" class="tag-link-1375" title="800 topics" rel="tag" style="font-size: 12.352059925094pt;">Cooking</a>
-<a href="http://gomestic.com/tag/credit-card/" class="tag-link-25251" title="667 topics" rel="tag" style="font-size: 11.189762796504pt;">credit card</a>
-<a href="http://gomestic.com/tag/debt/" class="tag-link-10979" title="655 topics" rel="tag" style="font-size: 11.084893882647pt;">Debt</a>
-<a href="http://gomestic.com/tag/dog/" class="tag-link-1293" title="852 topics" rel="tag" style="font-size: 12.806491885144pt;">Dog</a>
-<a href="http://gomestic.com/tag/dogs/" class="tag-link-13447" title="731 topics" rel="tag" style="font-size: 11.749063670412pt;">dogs</a>
-<a href="http://gomestic.com/tag/family/" class="tag-link-1449" title="1,727 topics" rel="tag" style="font-size: 20.453183520599pt;">Family</a>
-<a href="http://gomestic.com/tag/finance/" class="tag-link-13731" title="417 topics" rel="tag" style="font-size: 9.0049937578027pt;">finance</a>
-<a href="http://gomestic.com/tag/food/" class="tag-link-1377" title="936 topics" rel="tag" style="font-size: 13.540574282147pt;">food</a>
-<a href="http://gomestic.com/tag/garden/" class="tag-link-24549" title="1,102 topics" rel="tag" style="font-size: 14.991260923845pt;">garden</a>
-<a href="http://gomestic.com/tag/gardening/" class="tag-link-12611" title="934 topics" rel="tag" style="font-size: 13.523096129838pt;">Gardening</a>
-<a href="http://gomestic.com/tag/health/" class="tag-link-5597" title="635 topics" rel="tag" style="font-size: 10.910112359551pt;">health</a>
-<a href="http://gomestic.com/tag/home/" class="tag-link-10777" title="1,449 topics" rel="tag" style="font-size: 18.023720349563pt;">Home</a>
-<a href="http://gomestic.com/tag/house/" class="tag-link-4545" title="447 topics" rel="tag" style="font-size: 9.2671660424469pt;">house</a>
-<a href="http://gomestic.com/tag/how-to/" class="tag-link-7109" title="380 topics" rel="tag" style="font-size: 8.6816479400749pt;">How to</a>
-<a href="http://gomestic.com/tag/insurance/" class="tag-link-24203" title="384 topics" rel="tag" style="font-size: 8.7166042446941pt;">Insurance</a>
-<a href="http://gomestic.com/tag/kids/" class="tag-link-2771" title="680 topics" rel="tag" style="font-size: 11.303370786517pt;">kids</a>
-<a href="http://gomestic.com/tag/kitchen/" class="tag-link-41799" title="323 topics" rel="tag" style="font-size: 8.1835205992509pt;">kitchen</a>
-<a href="http://gomestic.com/tag/life/" class="tag-link-1267" title="634 topics" rel="tag" style="font-size: 10.901373283396pt;">life</a>
-<a href="http://gomestic.com/tag/loan/" class="tag-link-25047" title="472 topics" rel="tag" style="font-size: 9.4856429463171pt;">loan</a>
-<a href="http://gomestic.com/tag/love/" class="tag-link-581" title="543 topics" rel="tag" style="font-size: 10.106117353308pt;">love</a>
-<a href="http://gomestic.com/tag/money/" class="tag-link-647" title="1,904 topics" rel="tag" style="font-size: 22pt;">money</a>
-<a href="http://gomestic.com/tag/parent/" class="tag-link-34167" title="546 topics" rel="tag" style="font-size: 10.132334581773pt;">parent</a>
-<a href="http://gomestic.com/tag/parenting/" class="tag-link-4643" title="919 topics" rel="tag" style="font-size: 13.392009987516pt;">parenting</a>
-<a href="http://gomestic.com/tag/parents/" class="tag-link-5115" title="545 topics" rel="tag" style="font-size: 10.123595505618pt;">Parents</a>
-<a href="http://gomestic.com/tag/pet/" class="tag-link-4201" title="607 topics" rel="tag" style="font-size: 10.665418227216pt;">pet</a>
-<a href="http://gomestic.com/tag/pets/" class="tag-link-4203" title="951 topics" rel="tag" style="font-size: 13.671660424469pt;">Pets</a>
-<a href="http://gomestic.com/tag/plant/" class="tag-link-42763" title="479 topics" rel="tag" style="font-size: 9.5468164794007pt;">plant</a>
-<a href="http://gomestic.com/tag/plants/" class="tag-link-26043" title="377 topics" rel="tag" style="font-size: 8.6554307116105pt;">plants</a>
-<a href="http://gomestic.com/tag/save/" class="tag-link-12579" title="376 topics" rel="tag" style="font-size: 8.6466916354557pt;">save</a>
-<a href="http://gomestic.com/tag/save-money/" class="tag-link-3389" title="403 topics" rel="tag" style="font-size: 8.8826466916355pt;">save money</a>
-<a href="http://gomestic.com/tag/saving/" class="tag-link-13377" title="377 topics" rel="tag" style="font-size: 8.6554307116105pt;">saving</a>
-<a href="http://gomestic.com/tag/saving-money/" class="tag-link-3387" title="305 topics" rel="tag" style="font-size: 8.0262172284644pt;">saving money</a>
-<a href="http://gomestic.com/tag/shopping/" class="tag-link-2465" title="381 topics" rel="tag" style="font-size: 8.6903870162297pt;">shopping</a>
-<a href="http://gomestic.com/tag/tips/" class="tag-link-7481" title="598 topics" rel="tag" style="font-size: 10.586766541823pt;">Tips</a>
-<a href="http://gomestic.com/tag/united-states/" class="tag-link-25517" title="302 topics" rel="tag" style="font-size: 8pt;">United States</a>
-<a href="http://gomestic.com/tag/water/" class="tag-link-3745" title="452 topics" rel="tag" style="font-size: 9.310861423221pt;">water</a>					</ul>
-					</div>
-
 					
+
 			</div>
 
 		</div>
@@ -493,7 +611,7 @@ function showTriondSignupForm()
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=597&amp;rnd=2757232243"><script type="text/javascript">
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=597&amp;rnd=1421530860"><script type="text/javascript">
 					var _gaq = _gaq || [];
 					_gaq.push(['t5._setAccount', 'UA-1488967-5']);_gaq.push(['t5._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
@@ -523,45 +641,60 @@ var _sf_async_config={uid:6902};
 
 	<div id="ad-to">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1368");
-   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1368&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=10661042222&amp;loc=https%3A//web.archive.org/web/20110611030230id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c048d6&amp;cb=9495dbf3a58cdf5ea155b196d1183bf2' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1368&amp;cb=9495dbf3a58cdf5ea155b196d1183bf2&amp;n=c048d6' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1368");
+					   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1368&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=98507891380&amp;loc=https%3A//web.archive.org/web/20111208162256id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=ad65ca&amp;cb=a1242c8154bd12ed1d7719d53571b919' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1368&amp;cb=a1242c8154bd12ed1d7719d53571b919&amp;n=ad65ca' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1079");
+					   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1079&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=70337221019&amp;loc=https%3A//web.archive.org/web/20111208162256id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=e1102c&amp;cb=b5f648626679b5e4685f69f61dc801c8' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1079&amp;cb=b5f648626679b5e4685f69f61dc801c8&amp;n=e1102c' border='0' alt='' /></a></noscript>	</div>
+<!-- start eXelate tag - Triond - Default Site -->
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1079");
-   document.write ("&clr_link=003366&clr_title=003366&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1079&amp;clr_link=003366&amp;clr_title=003366&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=38108259801&amp;loc=https%3A//web.archive.org/web/20110611030230id_/http%253A//gomestic.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=16921f&amp;cb=337dd0b2e042001fbed1625c4d598a13' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1079&amp;cb=337dd0b2e042001fbed1625c4d598a13&amp;n=16921f' border='0' alt='' /></a></noscript>	</div>
-<!-- start eXelate tag - Triond - Default Site 
-<SCRIPT TYPE="text/javascript" SRC="http://loadus.exelator.com/load/?p=149&g=001"></SCRIPT>
- end eXelate tag -->
+<script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=008&amp;c=153235&amp;ctg=home&amp;subctg=uncategorized"></script>
+<!--  end eXelate tag -->
 <script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=an5Bkktt0r35nOadbiUzgI&amp;s=130"></script>
 
 
