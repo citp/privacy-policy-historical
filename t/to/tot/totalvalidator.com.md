@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the totalvalidator.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215115605id_/http%3A//totalvalidator.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalvalidator.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208100002id_/http%3A//www.totalvalidator.com/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statements
-
-### Website and validations
-
-When you visit this website or submit a web page for online validation, details of this, including screenshots, may be logged. Any such information is used purely to monitor that the site is operating correctly and that screenshot browsers are functioning correctly. as such it is only stored for a limited period. Aggregate statistics may be taken from this and from the weblogs to enable resource, site and product planning. 
 
 ### Payments
 
@@ -16,6 +12,6 @@ Total Validator does not sell, trade, or rent to third parties any information c
 
 ### Unsolicited contact
 
-Any personal contact information held is purely used in order to notify people of important updates, renewals, or provide lost passwords. No other form of unsolicited contact will be made. 
+No personal information is gathered or held except for an email address purely used in order to notify people of renewals or service changes. No other form of unsolicited contact will be made. 
 
-Privacy | [Contact Us](https://web.archive.org/web/20101215115605id_/http%3A//totalvalidator.com/home/contact.html) | Copyright 2010 Total Validator. All rights reserved.
+Privacy | [Contact Us](https://web.archive.org/web/20111208100002id_/http%3A//www.totalvalidator.com/home/contact.html) | Copyright 2011 Total Validator. All rights reserved.
