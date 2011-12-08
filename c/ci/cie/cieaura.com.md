@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cieaura.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623063718id_/http%3A//www.cieaura.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cieaura.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208204222id_/http%3A//www.cieaura.com/privacy-policy.html) for the most accurate reproduction.*
 
 # CieAura Privacy Policy | cieaura.com/privacy-policy.html
 
