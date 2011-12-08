@@ -1,11 +1,18 @@
-> *The following text is extracted and transformed from the solarisimages.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024164202id_/http%3A//www.solarisimages.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarisimages.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208040612id_/http%3A//www.solarisimages.com/privacy.php) for the most accurate reproduction.*
 
 # SOLARIS IMAGES :: Privacy
 
-**SOLARIS MULTIMEDIA SOLUTIONS (SMS)**  is committed to protecting your personal information. Below you will find our privacy policy and some additional information about how we gather information about visitors, why we gather it, and what we do with it.
+SOLARIS MULTIMEDIA SOLUTIONS respects your right to privacy. This privacy policy enumerates our practices in regard to any information we collect online.
 
-**SMS  **aims to provide you with the most competitive, unique and informative news photos. Our ability to do this can be greatly enhanced if we have certain limited information about you and your business needs.
+Personal information.
 
-**SMS**  does not provide personally identifying information and aggregate statistics about our customers, sales, traffic patterns, and related site information, to any third-party vendors. The statistics that we gather about unique visits, repeat visits and page views are all based on IP addresses, not on an individual’s activities on our site.
+In order to provide services to our customers we may require you to provide us with certain information such as your name, address, phone number and e-mail address etc. This information will be kept in a confidential file for which SOLARIS MULTIMEDIA SOLUTIONS is responsible to be used for internal purposes only and more particularly to sell you products, audits on our latest promotions and new images.
 
-**SMS**  does not sell, trade, or rent personal information to others.
+By providing this information to SOLARIS MULTIMEDIA SOLUTIONS you are agreeing to allow us to share this information with SOLARIS MULTIMEDIA SOLUTIONS’s partners, subsidiaries as well, with special benefits, offers or promotions. You may at any time access, from our mailing list by sending us an e-mail at **contact@solarisimages.com**
+
+SOLARIS MULTIMEDIA SOLUTIONS does not sell or lease information about its customers to third parties. SOLARIS MULTIMEDIA SOLUTIONS shall not grow wide any of your personal information to other companies or individuals without your permission. However, you may need to provide your name and delivery address to third parties that SOLARIS MULTIMEDIA SOLUTIONS uses for delivering purposes or when we are required by law.
+
+SOLARIS MULTIMEDIA SOLUTIONS will take all reasonable care and steps to protect the confidentiality of your personal information, however be aware that perfect security on the Internet is highly impossible.
+
+**Use of Cookies**  
+When you visit SOLARIS MULTIMEDIA SOLUTIONS website, you place a “cookies” in the hard drive of your computer. A cookie is a small piece of Tata that a website can store on your web browser and latter retrieve. Cookies allow SOLARIS MULTIMEDIA SOLUTIONS to make its website more useful by storing information about your preferences. For example, cookies enable this website to recognise the information you have consented to give us, such as the light boxes you have created and determine what areas of the website are most of your interest. You can set your browser's option not to accept cookies, though as a result you may not then be able to access all of the features of SOLARIS MULTIMEDIA SOLUTIONS site. 
