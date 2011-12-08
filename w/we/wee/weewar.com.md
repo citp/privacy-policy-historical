@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weewar.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609002556id_/http%3A//tos.ea.com/legalapp/noseal/US/en/PC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weewar.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208143502id_/http%3A//tos.ea.com/legalapp/noseal/US/en/PC) for the most accurate reproduction.*
 
 # 
 
