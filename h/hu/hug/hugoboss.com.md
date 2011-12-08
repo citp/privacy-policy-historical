@@ -1,35 +1,39 @@
-> *The following text is extracted and transformed from the hugoboss.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317142848id_/http%3A//store-us.hugoboss.com/Privacy-Statement/privacy-statement%2Cen_US%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugoboss.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208012253id_/http%3A//store-us.hugoboss.com/Privacy-Statement/privacy-statement%2Cen_US%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ## Privacy Statement
 
-In this Website Privacy Statement (“Statement”), we, HUGO BOSS Fashions, Inc., 601 West 26th Street, New York, NY 10001 (hereinafter referred to as "HUGO BOSS”, “we”, “us” or “our”), describe what personal information we collect through those web pages at [www.hugoboss-store.com ](http://hugoboss-store.com/)that we control and on which we display a direct link to this Statement (the “Site”) and how we collect and use such data.
+II. In this Website Privacy Statement (“Statement”), we, HUGO BOSS Fashions, Inc., 601 West 26th Street, New York, NY 10001 (hereinafter referred to as "HUGO BOSS”, “we”, “us” or “our”), describe what personal information we collect through those web pages at www.hugoboss-store.com that we control and on which we display a direct link to this Statement (the “Site”) and how we collect and use such data.
 
 ## Scope
 
-This Statement covers only data collected through the Site. It does not apply to any other data including, without limitation, data that we collect through other web pages at [www.hugoboss-store.com ](http://hugoboss-store.com/) or offline, or data that others collect on websites that are linked or linking to the Site.
+This Statement covers only data collected through the Site. It does not apply to any other data including, without limitation, data that we collect through other web pages at www.hugoboss-store.com or offline, or data that others collect on websites that are linked or linking to the Site.
 
 ## Types of Data HUGO BOSS Collects, Collection Methods, and Collection Purposes
 
 Through the Site, we receive and collect data that you actively submit as well as data that we passively track:
 
-Actively Submitted Data: When you purchase products through our Site, sign up for a newsletter, participate in promotions or otherwise actively send us data, you are providing, and we collect, data such as your name, email address(es), billing address(es), delivery address(es), telephone number(s), and credit card information. In each such instance, you will know what data we collect through the Site, because you actively submit it. We collect actively submitted data primarily for the purpose for which you originally sent us the data (for example, to sell and deliver products). We may also use this data internally as research data to improve our products and services, and for purposes of advertising, promoting, and informing you about products, services, initiatives, and events; you can opt out of receiving marketing emails as explained below.
+**_Actively Submitted Data:_** When you purchase products through our Site, sign up for a newsletter, participate in promotions or otherwise actively send us data, you are providing, and we collect, data such as your name, email address(es), billing address(es), delivery address(es), telephone number(s), and credit card information. In each such instance, you will know what data we collect through the Site, because you actively submit it. We collect actively submitted data primarily for the purpose for which you originally sent us the data (for example, to sell and deliver products). We may also use this data internally as research data to improve our products and services, and for purposes of advertising, promoting, and informing you about products, services, initiatives, and events; you can opt out of receiving marketing emails as explained below.
 
-Passively Tracked Data: When you visit the Site, we also passively track information on your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the Site, the Internet address of websites from which you link to our Site, the computer technology you are using and your movements and preferences on our Site. We use technology that many other websites employ, including, without limitation, cookies, to collect information such as the aforementioned. We may also use such cookies to collect information in connection with future visits from that Site, to recognize you as a previous visitor and to track your activity on the Site. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of the Site might not work without cookies. We reserve our right to also use other technologies such as Internet tags, web beacons, and navigational data collection tools (log files, server logs, or click stream). We collect passively tracked data primarily for purposes of administering, protecting and improving our Site and our systems, to better understand the preferences of our Site visitors, to identify server problems, to compile aggregated statistics about Site usage, to help personalize your experience of our Site, and to personalize offers.
+**_Passively Tracked Data and Cookies:_** When you visit the Site, we also passively track information on your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the Site, the Internet address of websites from which you link to our Site, the computer technology you are using and your movements and preferences on our Site. We use technology that many other websites employ, including, without limitation, cookies, to collect information such as the aforementioned. We may also use such cookies to collect information in connection with future visits from that Site, to recognize you as a previous visitor and to track your activity on the Site. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of the Site might not work without cookies. We reserve our right to also use other technologies such as Internet tags, web beacons, and navigational data collection tools (log files, server logs, or click stream). We collect passively tracked data primarily for purposes of administering, protecting and improving our Site and our systems, to better understand the preferences of our Site visitors, to identify server problems, to compile aggregated statistics about Site usage, to help personalize your experience of our Site and advertisements on other sites across the Internet, and to personalize offers. Please see the advertising section below for more information about our online advertising practices and your choices.
 
-Combinations: We may combine passively tracked data with data that you actively submit so as to, for instance, provide better service to Site visitors, customize the Site based on your preferences, compile and analyze statistics and trends, to otherwise administer and improve the Site for your use, and to personalize offers (for example, combined information may allow us to recommend products to you based on what you have liked in the past).
+**_Combinations_** : We may combine passively tracked data with data that you actively submit. We may also receive similar non-personal information from third party advertisers. We use this information to provide better service to Site visitors, customize the Site based on your preferences, compile and analyze statistics and trends, to otherwise administer and improve the Site for your use, and to personalize offers (for example, combined information may allow us to recommend products to you based on what you have liked in the past).
 
 ## Disclosure of Personal Information
 
 We are not in the business of selling or renting your information to telemarketers. We do not share your personal information with others, except as follows:
 
-  * We freely share your information with our corporate affiliates including, without limitation, HUGO BOSS AG in Germany.
+  * We freely share your information with our corporate affiliates including, without limitation, HUGO BOSS AG in Germany, so, among other things, that you may be informed of other products that may be of interest to you.
   * We also grant access to your information to affiliated and unaffiliated service providers and third parties that process or maintain data on our behalf, freight forwarders, carriers, and such individuals or companies that conduct, manage or otherwise handle our marketing and promotional campaigns. Such third parties are subject to strict confidentiality obligations and may access and use your information only in accordance with our instructions and not for their own purposes.
   * We may also share your information to respond to law enforcement requests, court orders or other legal process or if we believe that such disclosure is necessary to investigate, prevent or respond to illegal activities, fraud, physical threats to you or others or as otherwise required by any applicable law or regulation.
   * Finally, we may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
 
 
+
+## Advertising
+
+HUGO BOSS uses selected advertising partners to serve relevant ads on third party Internet sites. HUGO BOSS does not provide any personal information to these advertising partners to allow them to use such data on their own behalf. These advertising partners may, however, place their own cookies on your browser. You can choose not to allow advertising partners to use their cookies to serve you ads on third party Internet sites. Our advertising partner is a member of the Network Advertising Initiative. You can opt-out of ad targeting from NAI member companies in a single location.
 
 ## Access and Correction
 
@@ -45,7 +49,7 @@ You may modify your communication preferences and/or opt-out from specific commu
 
 ## Effective Date, Amendments
 
-This Privacy Policy is effective March, 15th 2010. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Site. Please check back periodically, and especially before you provide any personally identifiable information to us.
+This Privacy Policy is effective October 14, 2011. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Site and notify you of any material changes by posting a link on the home page of our Site that says “Revised Privacy Statement.” Please check back periodically, and especially before you provide any personally identifiable information to us. We will also indicate a revised Effective Date at the top of this Privacy Statement and the changes in the Privacy Statement will not be effective until 30 days after first posting the revised version.
 
 ## Links to Other Web Sites
 
@@ -61,8 +65,12 @@ _HUGO BOSS FASHIONS, INC.
 601 West 26th St, 8th Floor   
 New York, NY 10001 _
 
-The present Privacy Statement can be downloaded as [PDF.](http://demandware.edgesuite.net/aaer_prd/on/demandware.static/Sites-US-Site/Sites-US-Library/en_US/v1300307895747/documents/HUGO%20BOSS%20US%20Privacy%20Statement%20March%202010.pdf)
+The present Privacy Statement can be downloaded as [PDF.](http://demandware.edgesuite.net/aaer_prd/on/demandware.static/Sites-US-Site/Sites-US-Library/en_US/v1323292722142/documents/HugoBossWebsitePrivacyPolicy102411.pdf)
 
 ## TECHNICAL INFORMATION
 
 The HUGO BOSS Online Store has been optimized for a screen resolution of 1024 x 768 px. You will also need a recent version of a browser such as Internet Explorer, Mozilla, Firefox, Safari or Opera. To enjoy the full range of features offered by the Online Store, you will also need a recent version of the Flash Player plug-in (version 9 or higher).
+
+## CHILDREN
+
+We do not knowingly or intentionally collect personal information from children under age 13. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
