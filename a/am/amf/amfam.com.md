@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amfam.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630024133id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfam.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208193427id_/http%3A//www.amfam.com/security/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Security Policy | American Family Insurance
 
