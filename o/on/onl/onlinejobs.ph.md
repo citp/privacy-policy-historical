@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinejobs.ph privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103094921id_/http%3A//www.onlinejobs.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejobs.ph privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208084944id_/http%3A//www.onlinejobs.ph/privacy) for the most accurate reproduction.*
 
-# Find a real, online job! | Privacy Policy
+# Hire a Filipino Virtual Assistant - Outsourcing to the Philippines
 
 The basic gist of this is that we won't sell or rent your private info. We care about your privacy. We hate spam, too. 
 
