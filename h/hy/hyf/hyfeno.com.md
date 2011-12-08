@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyfeno.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521080726id_/http%3A//hyfeno.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyfeno.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208161657id_/http%3A//hyfeno.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ When visiting Media Vim, LLC’s website, the IP address used to access the site
 
 #### Links to third party Websites
 
-We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
 #### Changes to this Privacy Statement
 
