@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliance-games.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206103621id_/http%3A//www.alliance-games.com/alliance_PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliance-games.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208183215id_/http%3A//www.alliance-games.com/alliance_PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -44,7 +44,7 @@ Some ads appearing on this Web site are delivered to users by Google, among othe
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience.  We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
 
 **Third Party Use of Information  
-**From time to time, we may provide your name, address, telephone number, and your e-mail address to reputable companies, not affiliated with us, whose products or services you may find of interest.  If you do not want us to disclose this information to these companies, please write to us at:  Alliance Games Distributor’s, Inc., ATTN:Privacy Policy, 1101 Greenwood Road, Baltimore, MD 21208. You can also call(410)602-8000 or e-mail us at [website@alliance-games.com](mailto:website@alliance-games.com) with your full name in the subject line.  Please be sure to include your first name, last name, address, city, state, zip code, and phone number to ensure we can process your request.  We will process your request promptly.  Please be aware that you may receive another contact before your name removal takes effect.  We regret any inconvenience this may cause. 
+**From time to time, we may provide your name, address, telephone number, and your e-mail address to reputable companies, not affiliated with us, whose products or services you may find of interest.  If you do not want us to disclose this information to these companies, please write to us at:  Alliance Games Distributor’s, Inc., ATTN:Privacy Policy, 1101 Greenwood Road, Baltimore, MD 21208. You can also call(410)602-8000 or e-mail us at [mew@alliance-games.com](mailto:website@alliance-games.com) with your full name in the subject line.  Please be sure to include your first name, last name, address, city, state, zip code, and phone number to ensure we can process your request.  We will process your request promptly.  Please be aware that you may receive another contact before your name removal takes effect.  We regret any inconvenience this may cause. 
 
 We also provide personally-identifiable information to non-affiliated third parties that we use for our own business purposes, such as to process your orders or requests for information, or to provide services for us.  Our contracted agents and contractors who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for us.
 
@@ -95,7 +95,7 @@ In addition to other rights described in this Privacy Notice, if you are a Calif
 By visiting this website and communicating electronically with us, you consent to the processing and transfer of your Personally Identifiable Information as set out in this Privacy Notice.
 
 **How to Contact Us**  
-If you have any questions or concerns about this Policy or its implementation you may contact us at: Alliance Game Distibutors, Inc., ATTN: Privacy Policy, 1101 Greenwood Road, Baltimore, MD 21208 By phone:(410)602-8000. Our e-mail  is [website@alliance-games.com](mailto:website@alliance-games.com)
+If you have any questions or concerns about this Policy or its implementation you may contact us at: Alliance Game Distibutors, Inc., ATTN: Privacy Policy, 1101 Greenwood Road, Baltimore, MD 21208 By phone:(410)602-8000. Our e-mail  is [mew@alliance-games.com](mailto:website@alliance-games.com)
 
 **Notification regarding updates**   
 From time to time, we may update this privacy notice.  We will notify you about material changes in the way we treat our personally identifiable information by placing a notice on the Alliance Games sites.  We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.   
