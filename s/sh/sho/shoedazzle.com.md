@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoedazzle.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629150645id_/http%3A//www.shoedazzle.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoedazzle.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208164746id_/http%3A//www.shoedazzle.com/privacy_policy) for the most accurate reproduction.*
 
 # ShoeDazzle - Privacy Policy | Style. Personalized.
 
