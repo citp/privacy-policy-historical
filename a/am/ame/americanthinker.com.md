@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the americanthinker.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610040343id_/http%3A//www.americanthinker.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanthinker.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208032616id_/http%3A//www.americanthinker.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Thinker
-
-## Privacy Policy
 
 American Thinker knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the American Thinker website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -51,11 +49,3 @@ Only employees who need personal information to perform a specific job (for exam
 As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
 
 **Privacy Policy Changes** We reserve the right to change this Privacy Policy at any time. You agree to obtain changes to this Privacy Policy electronically by visiting this Site. We require you to check back from time to time to review changes to our Privacy Policy.
-
-| 
-
-## Monthly Archives
-
-|  |   
----  
-[](http://www.thecureforpoverty.com/The_Cure_for_Poverty/The_Cure_for_Poverty_by_Herb_Meyer.html)
