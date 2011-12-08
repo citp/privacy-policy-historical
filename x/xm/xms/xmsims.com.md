@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmsims.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609213500id_/http%3A//www.xmsims.com/sims2/ehtm/main/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmsims.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208010610id_/http%3A//www.xmsims.com/sims2/ehtm/main/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # XM Sims2 free Sims 2 computer game downloads hair objects skins houses furniture clothes wings fantasy jewelry accessory fashion
 
@@ -22,7 +22,7 @@ We use return email addresses to answer the email we receive. Such addresses are
 
 We regards all personal information, which we collect, as completely confidential, and we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to our Web sites in order to provide advertisements about goods and services of interest to you. These third-party advertising companies may employ cookie and 1x1 pixel technologies to measure and improve the effectiveness of ads for their client. This information can also be used for online preference marketing. In these instances, we have no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned.  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp  
 
 
 **How to Contact Us**
