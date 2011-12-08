@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blindstogo.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610071427id_/http%3A//blindstogo.com/company_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blindstogo.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208121346id_/http%3A//blindstogo.com/company_privacy.php) for the most accurate reproduction.*
 
 # blindstogo.com offers custom window blinds and shades direct from our factory
 
