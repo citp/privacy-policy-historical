@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verticalsearchworks.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617034129id_/http%3A//www.verticalsearchworks.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalsearchworks.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208161425id_/http%3A//www.verticalsearchworks.com/privacypolicy) for the most accurate reproduction.*
 
 # Vertical Search Works - Privacy Policy
 
