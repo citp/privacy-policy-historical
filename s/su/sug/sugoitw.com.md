@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugoitw.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609071954id_/http%3A//tw.sugoitw.com/privacy-policy-g) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugoitw.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208122421id_/http%3A//tw.sugoitw.com/privacy-policy-g) for the most accurate reproduction.*
 
 # 8dimentions.com Privacy Policy | taiwanese idol drama online fast streaming with english subtitles and full version high quality download - tw.sugoitw.com
 
