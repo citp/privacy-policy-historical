@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609195404id_/http%3A//www.birthrightisrael.com/site/PageServer%3Fpagename%3Dabout_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208195606id_/http%3A//www.birthrightisrael.com/site/PageServer%3Fpagename%3Dabout_privacypolicy) for the most accurate reproduction.*
 
 # Taglit-Birthright Israel: Privacy Policy
 
 Taglit-Birthright Israel has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.birthrightisrael.com.
 
-In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Taglit-Birthright Israelreserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
+In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Taglit-Birthright Israel reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
 
 1\. Because we want to demonstrate our commitment to your privacy, this Privacy Policy notifies you of;   
 2\. What personally identifiable information of yours is collected through the Site;   
@@ -21,6 +21,13 @@ Questions regarding this statement should be directed to Taglit-Birthright Israe
 
   
 Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. 
+
+## Birthright Israel Foundation Donor Privacy Policy
+
+  
+The Birthright Israel Foundation is committed to protecting the privacy of our donors. We will not sell, trade or share a donor's personal information with anyone else, nor send donor mailings on behalf of other organizations.
+
+We may change the Donor Privacy Policy from time to time. Any changes will be reflected on this page. 
 
 ## Internet Protocol Address:
 
