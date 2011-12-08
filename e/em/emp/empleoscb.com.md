@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empleoscb.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630162829id_/http%3A//www.empleoscb.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empleoscb.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208094341id_/http%3A//www.empleoscb.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Bilingual Jobs & Careers for Latinos - EmpleosCB.com - Search jobs online with confidence with CareerBuilder.com, who is committed to your privacy
 
