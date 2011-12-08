@@ -1,23 +1,25 @@
-<!--The following is the downloaded HTML source of the modernhealthcare.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626003439id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modernhealthcare.com privacy policy that was archived on 2011-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208154036id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
 <link rel="SHORTCUT ICON" href="/favicon.ico">
-<title>Privacy Policy and Rules - Healthcare business news, research, information and opinions | Modern Healthcare
+<title>Privacy Policy and Rules - Healthcare business news and research | Modern Healthcare
 </title>
-<meta name="Description" content="Privacy Policy and Rules - Healthcare business news, research, information and opinions | Modern Healthcare
+<meta name="Description" content="Privacy Policy and Rules - Healthcare business news and research | Modern Healthcare
 ">
+
 <meta name="Keywords" content="Privacy Policy, Rules, Modern Healthcare, business news, health care industry information">
 <link rel="canonical" href="http://www.modernhealthcare.com/article/20100101/INFO/100209995">
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="verify-postrank" content="euusq50">
 
+<!-- getTagsSingle sets a global variable needed by oastag. Do not remove -->
 <!--  -->
 <!-- LAST UPDATED 12/4/10 GS changed www. to dev. -->
 <!--  -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
 <!--
 // don't call OAS javascript if print preview.
 //
@@ -141,9 +143,8 @@ font-family: arial, sans-serif;
 <script type="text/javascript" src="/javascripts/cci-setup.js?ver=20090915"></script>
 <script type="text/javascript" src="/javascripts/cci-lib-interonly.js?ver=20090915"></script -->
 
-
 <!-- GLOBAL CCI JS -->
-<script type="text/javascript" src="/global/js/cci-lib-main.js?ver=20110601"></script>
+<script type="text/javascript" src="/global/js/cci-lib-main.js?ver=20111106"></script>
 <script type="text/javascript" src="/js/cci-setup.js?ver=20110315"></script>
 <!-- load extras based on LocalData.INI settings -->
 <!-- START: JS frameworks and plugins -->
@@ -168,19 +169,14 @@ html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
 
 <!-- End Jquery Menus -->
 
-<!-- FancyBox JS and CSS -->
-
-<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="/js/fancybox/jquery.easing-1.3.pack.js"></script>
-<script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
-
-<link rel="stylesheet" href="/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
-
+<!-- FancyBox JS and CSS in Macro -->
+<script type="text/javascript" src="http://www.modernhealthcare.com/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="http://www.modernhealthcare.com/js/fancybox/jquery.easing-1.3.pack.js"></script>
+<script type="text/javascript" src="http://www.modernhealthcare.com/js/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+<link rel="stylesheet" href="http://www.modernhealthcare.com/js/fancybox/jquery.fancybox-1.3.4.css?ver=20110927" type="text/css" media="screen">
 <script>
 $(document).ready(function() {
-
 	/* This is basic - uses default settings */
-	
 	$(function() {
 		$('a[href*="storyimage"]:has(img)').fancybox({
 		'transitionIn'	:	'elastic',
@@ -192,17 +188,14 @@ $(document).ready(function() {
 		'titlePosition' :   'over',
 		'titleFromAlt'	:	true,		
 		'hideOnContentClick': true,
-		'enableEscapeButton' : true,
+		'enableEscapeButton' : true
 		});
 	});
 	/* Using custom settings */
-	
 	$("a#inline").fancybox({
 		'hideOnContentClick': true
 	});
-
 	/* Apply fancybox to multiple items */
-	
 	$("a.group").fancybox({
 		'transitionIn'	:	'elastic',
 		'transitionOut'	:	'elastic',
@@ -210,23 +203,28 @@ $(document).ready(function() {
 		'speedOut'		:	200, 
 		'overlayShow'	:	true,
 		'titlePosition' :   'over',
-		'titleFromAlt'	:	true,
+		'titleFromAlt'	:	true
 	});	
 });
 </script>
-
 <!--End FancyBox JS and CSS-->
 
+<link href="/includes/mh_styles.css?ver=20111111" rel="stylesheet" type="text/css" title="MainCSS">
+<script>
 
-<link href="/includes/mh_styles.css?ver=20110527" rel="stylesheet" type="text/css" title="MainCSS">
-
-
-<!-- Begin Jquery form field clear -->
-
-<script src="/js/jquery.watermark.js" type="text/javascript"></script>
-
-<!-- End Jquery form field clear -->
-
+	$(document).ready(function(){
+$('#searchBoxTop').click(function() {
+  
+  var valCrit=$('[id=searchTermTop]').val();
+ 
+  var countQuotes=valCrit.split(/\"/g).length - 1;
+			if(countQuotes!=2){
+			
+			valCrit=valCrit.replace(/["']{1}/gi,"");
+			$('[id=searchTermTop]').val(valCrit);
+			}
+});});
+</script>
 </head>
 <body bgcolor="#FFFFFF" leftmargin="0" rightmargin="0" topmargin="3" bottommargin="3">
 
@@ -268,9 +266,9 @@ hbx.gpn="MHGP";
 <li><a href="http://www.modernhealthcare.com/section/finance" name="&amp;lid=Tab_Finance">Finance</a></li> 
 <li><a href="http://www.modernhealthcare.com/section/government-affairs" name="&amp;lid=Tab_Government">Government</a></li>
 <li><a href="http://www.modernhealthcare.com/section/healthcare-it/" name="&amp;lid=Tab_Healthcare_IT">Healthcare IT</a></li>
-<li><a href="http://www.modernhealthcare.com/section/articles?tagID=41" name="&amp;lid=Tab_Payers">Payers</a></li>
+<li><a href="http://www.modernhealthcare.com/section/payers" name="&amp;lid=Tab_Payers">Payers</a></li>
 <li><a href="http://www.modernphysician.com/" name="&amp;lid=Tab_Physicians">Physicians</a></li>	
-<li><a href="http://www.modernhealthcare.com/section/articles?profileID=1209" name="&amp;lid=Tab_Safety/Quality">Safety/Quality</a></li>
+<li><a href="http://www.modernhealthcare.com/section/safety-quality" name="&amp;lid=Tab_Safety/Quality">Safety/Quality</a></li>
 </ul>
 
 <br style="clear: left">
@@ -311,10 +309,10 @@ if (mycookieval==undefined || mycookieval==""){
 document.write('<a href="https://home.modernhealthcare.com/clickshare/myhome.do?CSTarget');
 document.write('URL=' + window.location.href + '">');
 document.write('Log in</a>');
-document.write(' | <a href="https://home.modernhealthcare.com/clickshare/addAccountFree.do?CSTarget');
+document.write(' | <a href="https://home.modernhealthcare.com/clickshare/addAccountShort.do?CSTarget');
 document.write('URL=' + window.location.href + '">');
-document.write('FREE Registration</a>');
-document.write(' | <a href="https://sec.crain.com/mh/" name="&lid=Top_SubscribeSec">Subscribe</a> | <a href="https://home.modernhealthcare.com/clickshare/resetPassword.do?CSTarget');
+document.write('Open House, Dec. 1-15</a>');
+document.write(' | <a href="http://www.modernhealthcare.com/section/subscriptions" name="&lid=Top_SubscribeSec">Subscribe</a> | <a href="https://home.modernhealthcare.com/clickshare/resetPassword.do?CSTarget');
 document.write('URL=' + window.location.href + '">');
 document.write('Get Password</a>');
 document.write(' | <a href="/section/contactusgen/">Help</a>');
@@ -331,7 +329,7 @@ document.write('onMouseDown="killCookie();" >');
 document.write('Log out</a>');
 document.write(' | <a href="/section/contactusgen/">Help</a>');
 }
-</script><a href="https://home.modernhealthcare.com/clickshare/myhome.do?CSTargetURL=https://web.archive.org/web/20110626003439id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995">Log in</a> | <a href="https://home.modernhealthcare.com/clickshare/addAccountFree.do?CSTargetURL=https://web.archive.org/web/20110626003439id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995">FREE Registration</a> | <a href="https://sec.crain.com/mh/" name="&amp;lid=Top_SubscribeSec">Subscribe</a> | <a href="https://home.modernhealthcare.com/clickshare/resetPassword.do?CSTargetURL=https://web.archive.org/web/20110626003439id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995">Get Password</a> | <a href="/section/contactusgen/">Help</a>
+</script><a href="https://home.modernhealthcare.com/clickshare/myhome.do?CSTargetURL=https://web.archive.org/web/20111208154036id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995">Log in</a> | <a href="https://home.modernhealthcare.com/clickshare/addAccountShort.do?CSTargetURL=https://web.archive.org/web/20111208154036id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995">Open House, Dec. 1-15</a> | <a href="http://www.modernhealthcare.com/section/subscriptions" name="&amp;lid=Top_SubscribeSec">Subscribe</a> | <a href="https://home.modernhealthcare.com/clickshare/resetPassword.do?CSTargetURL=https://web.archive.org/web/20111208154036id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995">Get Password</a> | <a href="/section/contactusgen/">Help</a>
 </div></td></tr></tbody></table>
 
 <table width="990" border="0" cellspacing="0" cellpadding="0" align="center" class="mh_siteborder">
@@ -347,27 +345,44 @@ document.write(' | <a href="/section/contactusgen/">Help</a>');
               <tbody><tr> 
                 <td width="5"><img src="/graphics/mh_spacer.gif" width="5" height="85"></td>
 
-                <td align="left" width="530"><a href="http://www.modernhealthcare.com/35"><img src="/images/header/mh_logo_main_v2.gif" width="530" height="75" border="0"></a></td>
+                <td align="left" width="530"><a href="http://www.modernhealthcare.com/"><img src="/images/header/mh_logo_main_v2.gif" width="530" height="75" border="0"></a></td>
 				
                 <td align="center" width="239"><script language="JavaScript">OAS_RICH('TopLeft');</script><a href="http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/news/INFO/100209995/15620892959@TopLeft,Top1,Middle1,Right1,Right2,x23,TopRight!TopLeft?" target="_blank"><img src="http://oascentral.modernhealthcare.com/RealMedia/ads/adstream_nx.ads/www.modernhealthcare.com/news/INFO/100209995/15620892959@TopLeft,Top1,Middle1,Right1,Right2,x23,TopRight!TopLeft?" border="0"></a></td>
 
 				<td align="right" valign="bottom" width="221">
+				
+<!-- social buttons -->
 
-<script type="text/javascript">
+<style>
 
-jQuery(function($){
-   $("#search").Watermark("Search");
-});
+.community-buttons {vertical-align:middle;text-align:middle;width:100%;font-size:11px;padding:0 2px 5px 0;}
 
-</script>
+.community-buttons a {padding: 0 0px 0 3px;}
 
-<div style="margin-bottom:12px;vertical-align:bottom;"><form method="post" name="searchtop" action="/apps/pbcs.dll/search?Category=Search" style="margin-bottom:0;">
-    <input type="text" name="crit" class="searchbox" style="width:131px;" id="search">
+</style>
+
+<div class="community-buttons">Join, Follow &amp; Connect<br><a href="http://www.linkedin.com/groupInvitation?gid=700187" name="&amp;lid=top_social_linkedin"><img src="/images/buttons/social/linkedin_16.png" border="0" title="Join Modern Healthcare's LinkedIn group" alt="Join Modern Healthcare's LinkedIn group"></a>
+<a href="http://twitter.com/modrnhealthcr" name="&amp;lid=top_social_twitter"><img src="/images/buttons/social/twitter_16.png" border="0" title="Follow Modern Healthcare on Twitter" alt="Follow Modern Healthcare on Twitter"></a>
+<a href="http://www.facebook.com/modernhealthcare" name="&amp;lid=top_social_facebook"><img src="/images/buttons/social/facebook_16.png" border="0" title="Join Modern Healthcare's Facebook group" alt="Join Modern Healthcare's Facebook group"></a>
+<a href="http://www.flickr.com/groups/modernhealthcare/" name="&amp;lid=top_social_flickr"><img src="/images/buttons/social/flickr_16.png" border="0" title="Join Modern Healthcare's Flickr group" alt="Join Modern Healthcare's Flickr group"></a>
+<!--<a href="http://www.youtube.com/user/mdrnhealthcare" name="&lid=top_social_youtube"><img src="/images/buttons/social/youtube_16.png" border="0" title="Modern Healthcare's YouTube Channel" alt="Modern Healthcare's YouTube Channel"></a>-->
+<a href="/section/RSS" name="&amp;lid=top_social_rss"><img src="/images/buttons/social/rss_16.png" border="0" title="Get a Modern Healthcare news feed" alt="Get a Modern Healthcare news feed"></a>
+</div>
+
+<!-- end social buttons -->
+
+<div style="margin-bottom:12px;vertical-align:bottom;">
+<form name="advsearch" method="get" action="/apps/pbcs.dll/search?Category=INFO" style="margin-bottom:0;">
+ <input type="hidden" name="BuildNavigators" value="1">
+		<input type="text" name="q" id="searchTermTop" class="searchbox" style="width:131px;">
     <input type="hidden" name="ExcludeCategories" value="STATIC">
     <input type="hidden" name="SearchCategory" value="%">
-<!--    <input type="hidden" name="SearchCategory" value="BLOGS01;BLOGS02;BLOGS03;CARTOON;DATA;DIGITAL;DOCUMENTS;EXECINTERPODCAST;INFO;MAGAZINE;NEWS;FREE;PHOTO;PODCAST;PREMIUM;SUB;REG;SPECREPORTPODCAST;VIDEO;WEBINAR;WINNERSPLAYBOOK;SPONSORED;MODERNPHYSICIAN;MPGALLERY;MPPOCAST;MPVIDEO;MPSPONSORED" />  -->
     <input type="hidden" name="noblankcheck" value="0">
-	<input type="hidden" name="daterange" value="20010816,20110625"><a href="#" onmousedown="document.searchtop.submit()"><img src="/images/search/search-magglass.gif" width="24" border="0" style="margin:0px;padding:0;vertical-align:bottom;"></a></form>
+	 <input name="StartDate" value="19940101" type="hidden" size="20">
+      <input name="EndDate" value="20111208" type="hidden" size="20">
+	
+    <input name="submit" id="searchBoxTop" type="image" src="/images/search/search-magglass.gif" width="24" border="0" style="margin:0px;padding:0;vertical-align:bottom;">
+	</form>
 	</div>
 </td>                
 
@@ -405,10 +420,11 @@ jQuery(function($){
   <li><a href="/section/government-affairs" name="&amp;lid=//Topics//Government Affairs">Government Affairs</a></li>
   <li><a href="/section/healthcare-it/" name="&amp;lid=//Topics//Healthcare IT">Healthcare IT</a></li>
   <li><a href="/section/healthcareintransition" name="&amp;lid=//Topics//Healthcare Reform">Healthcare Reform</a></li>
-  <li><a href="/section/articles?tagID=41" name="&amp;lid=//Topics//Payers">Payers</a></li>
+  <li><a href="/section/articles?tagID=145" name="&amp;lid=//Topics//Outliers">Outliers</a></li>
+  <li><a href="http://www.modernhealthcare.com/section/payers" name="&amp;lid=//Topics//Payers">Payers</a></li>
   <li><a href="http://www.modernphysician.com/" name="&amp;lid=//Topics//Physician News">Physician News</a></li>
   <li><a href="/section/RAC" name="&amp;lid=//Topics//RAC Program">RAC Program</a></li>
-  <li><a href="/section/articles?profileID=1209" name="&amp;lid=//Topics//Safety and Quality">Safety and Quality</a></li>
+  <li><a href="http://www.modernhealthcare.com/section/safety-quality" name="&amp;lid=//Topics//Safety and Quality">Safety and Quality</a></li>
   <li><a href="/section/topics" name="&amp;lid=//Topics//More Topics">More Topics</a></li>
   </ul>
 </li>
@@ -417,6 +433,7 @@ jQuery(function($){
 <ul style="top: 26px; display: none; visibility: visible; ">
    <li><a href="/section/lists" name="&amp;lid=//Research//Data Center">Data Center</a></li>
    <li><a href="/section/bythenumbers" name="&amp;lid=//Research//By The Numbers">By The Numbers</a></li>
+   <li><a href="/section/healthcare-market-data" name="&amp;lid=//Research//Healthcare Market Data">Healthcare Market Data</a></li>
    <li><a href="/section/surveys" name="&amp;lid=//Research//Surveys">Surveys</a></li>
    <li><a href="/section/casestudies" name="&amp;lid=//Research//Case Studies">Case Studies</a></li>
 </ul>
@@ -478,11 +495,11 @@ jQuery(function($){
 
 <li><a href="/section/meetings" hbxrootmenuid="//Events" hbxrootmenuorientation="down" style="padding-right: 23px; ">Events<img src="http://www.modernhealthcare.com/images/menu/drop-down-arrow.gif" class="downarrowclass" style="border:0;"></a>
 <ul style="top: 26px; display: none; visibility: visible; ">
+   <li><a href="/section/bestplaces-2011-event" name="&amp;lid=//Events//Best Places to Work in Healthcare">Best Places to Work in Healthcare Conference and Gala</a></li>
    <li><a href="/section/35th-Anniversary" name="&amp;lid=//Events//35th Anniversary">Modern Healthcare's 35th Anniversary</a></li>
    <li><a href="/section/35th-Tournament" name="&amp;lid=//Events//Big Impact Tourn">"Big Impact" Tournament</a></li>
    <li><a href="/section/WomenLeadingHealthcare" name="&amp;lid=//Events//Women Leaders in Healthcare">Women Leaders in Healthcare Conference</a></li>
    <li><a href="/section/WomeninHealthcare-event-2011" name="&amp;lid=//Events//WomeninHealthGala">Top 25 Women in Healthcare Gala</a></li>
-   <li><a href="/section/Bestplaces-2010-event" name="&amp;lid=//Events//Best Places to Work in Healthcare">Best Places to Work in Healthcare Conference and Gala</a></li>
    <li><a href="/section/meetings" name="&amp;lid=//Events//Industry Events">Industry Events</a></li>
    <li><a href="/section/liveat" name="&amp;lid=//Events//Live@ Event News">Live@ Event News</a></li>
    <li><a href="/section/webinars" name="&amp;lid=//Events//Webcasts &amp; Webinars">Webcasts &amp; Webinars</a></li>
@@ -585,6 +602,7 @@ jQuery(function($){
 
 
 
+
 <h1 class="storytitle">Privacy Policy and Rules</h1>
 <br>
 
@@ -620,12 +638,20 @@ Modernhealthcare.com is the Web site of <i>Modern Healthcare</i>, a publication 
 
 
 
+<div style="float: left; width: 344px;">
+
+
+
+
+<div id="related_article_ajax_container">
+    <img src="/global/images/loader003.gif" style="padding-bottom: 30px;">
+</div>
 
 
 <!-- BEGIN ADVERTISING -->
 <table align="left" style="z-index:-5;margin: 0;padding:0;" cell-padding="0" cellspacing="0"><tbody><tr><td>
 <!--<div style="float:left;">-->
-<table border="0" cellpadding="0" cellspacing="0" style="background-image:url(images/testads/300x250.gif);z-index:5;margin: 10px;padding:0;">
+<table border="0" cellpadding="0" cellspacing="0" style="z-index:5;margin: 10px;padding:0;">
 <tbody><tr>
 <td class="gray" align="center" valign="middle" width="300">
 <hr noshade="" size="1">
@@ -639,6 +665,8 @@ Modernhealthcare.com is the Web site of <i>Modern Healthcare</i>, a publication 
 </tr></tbody></table>
 <!-- END ADVERTISING -->
 
+
+</div>
 
 
 
@@ -709,100 +737,181 @@ If you have any questions or concerns about the substance or implementation of t
 
 <br></div>
 
-
-<!-- HHHHHH  Related Articles  HHHHHH-->
-
-<!-- HHHHHH  END Related Articles  HHHHHH-->
-
-<!-- BEGIN KICKAPPS COMMENTS -->
-<div id="user-comments">
-	<div id="cci-kickapps-ajax-container"><h2>Loading comments... </h2><img src="/Assets/gif/loader-1F5291.gif"></div>
-	<script>
-	$(function() {
-		var commentsUrl = "/section/cci?template=kickapps-ajax&params=RequestAction%3D%28getmedia%29%20tryToSetMedia%3D%281%29%20kickappsDisplay%3D%28comments%29%20responseType%3D%28objects%29%20count%3D%285%29%20objectname%3D%28KickAppsComments%29%20mediaURL%3D%28http%3A%2F%2Fwww.modernhealthcare.com%2Farticle%2F20100101%2FINFO%2F100209995%29%20mediaId%3D%28100209995%29%20mediaName%3D%28Privacy%20Policy%20and%20Rules%29&ph=041D32E85E64C672AC8EEC9CDA332169";
-		$.ajax({
-						type: "GET",
-						url: commentsUrl,
-						dataType: "html",
-						async: true,
-						success: function(response) {
-							$("#cci-kickapps-ajax-container").html(response);
-						}
-				});
-	});
-	</script>
-<noscript>
-<a name="comment" id="comment" href="#comment"></a>
- 	<div style="border:0px red solid;width:642px;clear:both;"><img src="http://www.modernhealthcare.com/images/kickapps/grey-rule.gif"><br />
-	<img src="http://www.modernhealthcare.com/images/kickapps/comment-bubbles.gif" hspace="3" vspace="3" align="left"><h1 style="margin-bottom:0;padding-bottom:0px;">What do you think?</h1><span class="mh_body_12px">Share your opinion. <a href="/letters"><span style="font-weight:normal;">Send a letter to the Editor</span></a> or Post a comment below.</span>
-	</div>
-	<div id="cci-kickapps-comments-input-container" class="widget-container wide">
-	<h4 class="widget-header">Post a comment</h4>
-	<p id="cci-kickapps-comments-login" style="display:none;">You must be logged in to post a comment. <a href="http://www.modernhealthcare.com/article/20100415/INFO/100419999">FAQ</a> | <a href="https://home.modernhealthcare.com/clickshare/kickAppsAuth.do?CSTargetURL=http://www.modernhealthcare.com/article/20100101/INFO/100209995#comments">Log in</a>
-	<br />
-	<span class="mh_body_11px">You share in the <i>Modern Healthcare</i> community, so please keep your comments smart and civil; comments that include profanity or personal attacks or other inappropriate comments or material will be removed from the site. Please review the <a href="http://www.modernhealthcare.com/article/20100101/INFO/100209994">full rules</a> governing the commenting and community tools. Use the "Report Abuse" button to make a difference.</span>
-	</p>
-	<div class="submission">
-	<form id="cci-kickapps-comments-input" name="cci-kickapps-comments-input" action="" method="POST">
-	<input type="hidden" name="mediaType" id="mediaType" value="emedia">
-	<input type="hidden" name="requestAction" id="requestAction" value="postcomment">
-	<input type="hidden" name="token" id="token" value="">
-	<input type="hidden" name="mediaURL" id="mediaURL" value="http://www.modernhealthcare.com/article/20100101/INFO/100209995">
-	<input type="hidden" name="returnURL" id="returnURL" value="http://www.modernhealthcare.com/article/20100101/INFO/100209995">
-	<input type="hidden" name="responseType" id="responseType" value="refresh">
-	<textarea id="cci-kickapps-comments-input-text" name="comment" disabled class="required" cols="50" rows="10" ></textarea>
-	<input type="submit" value="Send">
-	</form>
-	</div>
-	</div>
-	<script>
-	(function() {
-		var fillForm = function() {
-			var kaApiToken = "0";
-		if (kaApiToken != "0") {
-			var commentForm = document.getElementById("cci-kickapps-comments-input");
-//			commentForm.action = CCI.siteConfig.kickAppsProxyUrl;
-			commentForm.action = CCI.KickApps.proxyUrl;
-			commentForm.elements["token"].value = kaApiToken;
-			commentForm.elements["comment"].disabled = false;
-			var user = new CCI.util.getCSCookie({cookieName:"kaAuth"});
-			if (user.Cookie.username) {
-				var userName = user.Cookie.username.replace(/\+/g," ");
-			} else {
-				var userName = false;
-			}
-			var login = document.getElementById("cci-kickapps-comments-login");
-			login.innerHTML = "Logged in as <strong>" + userName + "</strong> | <a href='http://www.modernhealthcare.com/article/20100415/INFO/100419999'>FAQ</a> | <small><a href='https://home.modernhealthcare.com/clickshare/logout.do'>log out</a></small>";
-			}
-			document.getElementById("cci-kickapps-comments-login").style.display = "block";
-		};
-		var doFillForm = new CCI.util.safeLoad(fillForm);
-		doFillForm.execute();
-	})();
-	(function() {
-		// instantiate the form validator
-		var addCheck = new CCI.util.safeLoad(CCI.forms.addCheck);
-		// apply validation to the form
-		addCheck.execute("cci-kickapps-comments-input","kickapps-comments");
-		})();
-		var relativeDates = new CCI.util.safeLoad(CCI.util.relativeDates);
-		relativeDates.execute({classname:"to-relative"});
-	</script>
-<!-- SOSE_Exec: 
-scriptStart	-	16
-go_start	-	32
-getmedia_start	-	32
-getmedia_end	-	204
- -->
-</noscript>
+<style>
+#socshare {padding:2px;margin:0 0 10px 3px;width:645px;border:1px solid #bcd5e7; height:20px;background-color:#d5e8f5;font-size:12px;vertical-align:middle;}
+.socshareitem {float: right; width: 104px; height: 20px;padding:0;margin:0;}
+</style>
+<div class="clearfix"></div>
+<div id="socshare">
+<div style="  margin-left: auto ;  margin-right: auto ;width:600px;">
+<div class="socshareitem">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="modrnhealthcr">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 </div>
+<div class="socshareitem">
+<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=190498357673997&amp;xfbml=1"></script><fb:like href="http://www.ModernHealthcare.com/article/20100101/INFO/100209995?updfcache=1" send="false" layout="button_count" show_faces="false" font=""></fb:like>
+</div>
+<div class="socshareitem">
+<script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-counter="right"></script>
+</div>
+<div class="socshareitem">
+<script src="http://www.stumbleupon.com/hostedbadge.php?s=1"></script>
+</div>
+<div class="socshareitem">
+<g:plusone size="medium" href="http://www.ModernHealthcare.com/article/20100101/INFO/100209995?updfcache=1"></g:plusone>
+</div>
+</div></div>
 
-<!-- END KICKAPPS COMMENTS -->
 
-<!-- AddThis Button BEGIN -->
-<script type="text/javascript">var addthis_pub="modernhealthcare360";</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
-<!-- AddThis Button END -->
+<!-- RELATED ARTICLES BY TAXONOMY -->
+<script type="text/javascript" charset="utf-8">
+
+    function getParameterByName(name)
+    {
+        name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+        var regexS = "[\\?&]" + name + "=([^&#]*)";
+        var regex = new RegExp(regexS);
+        var results = regex.exec(window.location.href);
+        if(results == null)
+            return "";
+        else
+            return decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
+    
+    var relatedStories = {};
+
+    $.ajax({
+        type: "GET",
+        url: "/section/related_ajax",
+        data: "&artID=100209995&storydate=20100101&storyCat=INFO&taxonomyParent=5684&objectclass=1",
+        success: function(msg) {
+                
+                $("#related_article_ajax_container").html(msg);
+    
+                var htmlContent = [];
+                var taxCount    = 0;
+                var buildForm   = 0;
+                var formTaxs    = [];
+                var useTag      = getParameterByName("tagID") || 0;
+                var urlAID      = getParameterByName("AID") || 0;
+                var htmlDef     = 0;
+                
+                // Loop through to build the content
+                // if there is any present
+                for(i in relatedStories)
+                {                    
+                    if(relatedStories[i].length)
+                    {
+                        // Keeps track of how many taxonomy words
+                        // have stories associated with them
+                        taxCount++;
+                        
+                        // Create the html content
+                        var html = '<div class="linklist">';
+                        
+                        // Loop through the story objects
+                        // to build the HTML
+                        for(j=0; j<relatedStories[i].length; j++)
+                        {
+                            html += '<a href="'+ relatedStories[i][j].link +'">'+ relatedStories[i][j].title +'</a>';
+                            
+                            if(j == relatedStories[i].length - 1)
+                            {                    
+                                html += '</div>';
+                                html += '<a href="/section/articles?tagID='+ relatedStories[i][j].taxID +'" class="morelink">More '+ relatedStories[i][j].taxName +' Articles</a>';
+                                
+                                // Get the taxID and taxName so we can use
+                                // them when we build the form
+                                formTaxs.push({"taxID": relatedStories[i][j].taxID, "taxName": relatedStories[i][j].taxName });
+                                htmlContent[relatedStories[i][j].taxID] = html;
+                                
+                                if(!htmlDef) 
+                                    htmlDef = relatedStories[i][j].taxID;
+                                
+                            }
+                        }
+                    }
+                }
+                                
+                // Build the form if the number of taxonomy words
+                // that actually have stories is more than one
+                if(taxCount > 1)
+                {                    
+                    var buildForm = '<form id="cci-articles-by-taxonomy-form" action="/article/20100101/INFO/100209995">' +
+                                    '<label for="cci-articles-by-taxonomy-select">More in:</label>' +
+                                    '<select name="tagID">';
+                        
+                        // Build the options that were set 
+                        // from the story objects earlier
+                        for(k in formTaxs)
+                        {
+                            if(formTaxs[k].taxID == useTag)
+                            {
+                                buildForm += '<option value="'+ formTaxs[k].taxID +'" selected="selected">'+ formTaxs[k].taxName +'</option>';
+                            }
+                            else
+                            {
+                                buildForm += '<option value="'+ formTaxs[k].taxID +'">'+ formTaxs[k].taxName +'</option>';
+                            }                                
+                        }            
+                                                    
+                        buildForm += '</select><input type="submit" value="Go" />';
+                        if(urlAID) buildForm += '<input type="hidden" name="AID" value="'+ urlAID +'" />';            
+                        buildForm += '</form>';
+                        
+                    // Add the created form HTML to the DOM                                
+                    $('#related_content_select').find('.module-body').prepend(buildForm);    
+                }
+                
+                // Only show the HTML for the selected tagID
+                // otherwise just show the first one
+                if(taxCount)
+                {     
+                    if(useTag)
+                    {
+                        $('#related_content_select').find('.module-body').append(htmlContent[useTag]);
+                    }
+                    else
+                    {
+                        $('#related_content_select').find('.module-body').append(htmlContent[htmlDef]);
+                    }
+                }
+                else
+                {
+                    $('#related_content_select').hide();
+                    $('#related_content_select').next('.module-footer').hide();
+                }
+            }
+     });
+     
+</script>
+
+<!-- /RELATED ARTICLES BY TAXONOMY -->
+
+<!-- HHHHHH  Related Articles / Today's Headlines  HHHHHH-->
+
+
+<!-- latest articles -->
+<div class="rightrailbox" id="poll" style="width:655px;clear:both;padding-right:5px;">
+									<div class="module-header"><h2>Today's Headlines</h2></div>
+									<div class="module-body">
+	  								<div class="linklist">
+<a href="http://www.modernhealthcare.com/article/20111207/NEWS/312079979/slack-economy-unemployment-seen-as-drag-on-demand-for-healthcare" name="&amp;lid=Todays_Headlines">Slack economy, unemployment seen as drag on demand for healthcare goods, services</a>
+<a href="http://www.modernhealthcare.com/article/20111207/NEWS/312079974/ariz-medicaid-cuts-can-proceed-judges-rule" name="&amp;lid=Todays_Headlines">Ariz. Medicaid cuts can proceed, judges rule</a>
+<a href="http://www.modernhealthcare.com/article/20111207/NEWS/312079977/michigan-blues-faces-lawsuit-from-rival-aetna" name="&amp;lid=Todays_Headlines">Michigan Blues faces lawsuit from rival Aetna </a>
+<a href="http://www.modernhealthcare.com/article/20111207/NEWS/312079984/n-j-system-invests-in-qualcare" name="&amp;lid=Todays_Headlines">N.J. system invests in QualCare</a>
+									</div>
+	<a href="/section/articles?profileID=1168?start=5" class="morelink">More Headlines</a>
+								<div class="clearfix"></div>
+									</div>
+									<div class="module-footer"><span></span></div>
+</div>
+<!-- end latest articles -->
+
+
+
+<!-- HHHHHH  END Related Articles / Today's Headlines HHHHHH-->
+
+
 
 <!--HHHHHHHHHHHHHHHH  END CONTENT AREA  HHHHHHHHHHHHHHHHHH-->
 </td>
@@ -815,6 +924,10 @@ getmedia_end	-	204
 <td valign="top" class="mh_body"> 
 
 <div id="rightRail">
+
+<!-- BEGIN GS Subscribe Button-->
+<!--END GS Subscribe Button-->
+
 
 <!-- This week's issue -->
 
@@ -834,7 +947,7 @@ getmedia_end	-	204
                            <tbody><tr>			   
                            <td valign="top">
 							
-							<a href="http://modernhealthcare.com/section/toc" name="&amp;lid=MH_CurrentIssue_photo"><img src="/apps/pbcsi.dll/storyimage/CH/20110620/MAGAZINE/306209951/AR/AR-306209951.jpg&amp;border=0&amp;maxW=105" border="0"></a>	
+							<a href="http://modernhealthcare.com/section/toc" name="&amp;lid=MH_CurrentIssue_photo"><img src="/apps/pbcsi.dll/storyimage/CH/20111205/MAGAZINE/312059973/AR/AR-312059973.jpg&amp;border=0&amp;maxW=105" border="0"></a>	
 							
 							<div class="mh_blacklinks" align="center" style="line-height: 13pt;margin-top:3px;">
 
@@ -847,9 +960,13 @@ getmedia_end	-	204
 
 				<div class="linklist">
 	                           
-							    <a href="/article/20110620/MAGAZINE/306209950/0" name="&amp;lid=MH_CurrentIssue">Coalition building: Ky. providers choose sides</a><a href="/article/20110620/MAGAZINE/306209948/0" name="&amp;lid=MH_CurrentIssue">Editorial: Prevention strategy comes at right time</a><a href="/article/20110620/MAGAZINE/110619991/0" name="&amp;lid=MH_CurrentIssue">Sucker punched? Reform law penalties feel like slap in face for some</a>
+							    
+<a href="http://www.modernhealthcare.com/article/20111205/MAGAZINE/312059936/a-new-rural-route" name="&amp;lid=MH_CurrentIssue">Push under way to make rural clinics eligible for incentive payments</a>
+<a href="http://www.modernhealthcare.com/article/20111205/MAGAZINE/312059970/science-friction" name="&amp;lid=MH_CurrentIssue">Editorial: No matter the data, some always find room for doubt</a>
+<a href="http://www.modernhealthcare.com/article/20111205/MAGAZINE/312059972/put-on-notice" name="&amp;lid=MH_CurrentIssue">N.Y. report could have execs, boards on edge</a>
                                                  
-							   <a href="/article/20110620/DATA/110619992/1155" name="&amp;lid=weekly_BTN">Hospital CEO turnover by state in 2010</a>
+							   
+<a href="http://www.modernhealthcare.com/article/20111205/DATA/111209997/largest-patient-satisfaction-measurement-firms" name="&amp;lid=weekly_BTN">Largest patient-satisfaction measurement firms</a>
 
                             </div>
                             
@@ -896,11 +1013,16 @@ getmedia_end	-	204
 									  
 									<div class="linklist">
 										  
-                            <a href="http://www.modernhealthcare.com/article/20110624/NEWS/306249960/0" name="&amp;lid=MostRequested">Google to pull plug on PHR platform</a>
-<a href="http://www.modernhealthcare.com/article/20110623/NEWS/306239962/0" name="&amp;lid=MostRequested">Supreme Court strikes down Vt. data-mining regulation</a>
-<a href="http://www.modernhealthcare.com/article/20110624/NEWS/306249995/0" name="&amp;lid=MostRequested">APHA: Lack of funding jeopardizes reform-law goals</a>
-<a href="http://www.modernhealthcare.com/article/20110624/VIDEO/306249999/0" name="&amp;lid=MostRequested">Video News: What's ahead at HFMA 2011 (2:02)</a>
-<a href="http://www.modernhealthcare.com/article/20110624/NEWS/306249986/0" name="&amp;lid=MostRequested">ONC offers health IT teaching materials</a>
+                            
+<a href="/article/20111207/NEWS/312079985/no-doc-pay-overhaul-planned-lawmaker" name="&amp;lid=MostRequested">No doc-pay overhaul planned: lawmaker</a>
+
+<a href="/article/20111207/NEWS/312079954/humana-buys-analytics-provider-anvita" name="&amp;lid=MostRequested">Humana buys analytics provider Anvita</a>
+
+<a href="/article/20111205/MAGAZINE/312059936/a-new-rural-route" name="&amp;lid=MostRequested">A new rural route</a>
+
+<a href="/article/20111206/NEWS/312069979/nqf-releases-newly-endorsed-surgical-care-measures" name="&amp;lid=MostRequested">NQF releases newly endorsed surgical-care measures</a>
+
+<a href="/article/20111206/NEWS/312069976/leapfrog-recognizes-top-performing-hospitals" name="&amp;lid=MostRequested">Leapfrog recognizes top-performing hospitals</a>
 
 
 
@@ -928,7 +1050,12 @@ getmedia_end	-	204
 									  
 	  									<div class="linklist">
 
-	  <a href="/article/20110620/DATA/110619992/0">Hospital CEO turnover by state in 2010</a><a href="/article/20110613/DATA/110609983/0">Most prescribed pharmaceuticals in 2010</a><a href="/article/20110606/DATA/110609997/0">Modern Healthcare's 35th annual hospital systems survey</a><a href="/article/20110606/DATA/110609998/0">Largest healthcare fraud settlements</a><a href="/article/20110530/DATA/110529970/0">Thomson Reuters' 10 Top Health Systems study</a>
+	  
+<a href="http://www.modernhealthcare.com/article/20111205/DATA/111209997/largest-patient-satisfaction-measurement-firms">Largest patient-satisfaction measurement firms</a>
+<a href="http://www.modernhealthcare.com/article/20111128/DATA/111129997/largest-healthcare-unions">Largest healthcare unions</a>
+<a href="http://www.modernhealthcare.com/article/20111121/DATA/111119971/largest-healthcare-finance-companies">Largest healthcare finance companies</a>
+<a href="http://www.modernhealthcare.com/article/20111114/DATA/111119994/50-top-cardiovascular-hospitals">50 Top Cardiovascular Hospitals</a>
+<a href="http://www.modernhealthcare.com/article/20111107/DATA/111109996/modern-healthcares-fourth-annual-healthcare-purchasing-power-survey">Modern Healthcare's fourth annual Healthcare Purchasing Power Survey</a>
   
 	</div>
 	
@@ -952,7 +1079,12 @@ getmedia_end	-	204
 					<!--begin the table-->
 									<div class="linklist">
 									
-<a href="/article/20110525/INFO/110529989">Outsourcing Survey</a><a href="/article/20110525/INFO/110529988">Post-Acute Care Survey</a><a href="/article/20110523/INFO/110529993">Vote now for 100 Most Influential</a><a href="/article/20110511/INFO/110519998">Healthcare Management Consulting Firms Survey</a><a href="/article/20110509/INFO/110509971">Group Purchasing Survey</a><a href="/article/20110509/INFO/110509981">Nominees sought for Up &amp; Comers</a>
+
+<a href="http://www.modernhealthcare.com/article/20111116/INFO/111119976/survey-of-executive-opinions-on-key-it-issues">Survey of Executive Opinions on Key IT Issues</a>
+<a href="http://www.modernhealthcare.com/article/20111114/INFO/111119993/construction-design-survey">Construction &amp; Design Survey</a>
+<a href="http://www.modernhealthcare.com/article/20111114/MAGAZINE/311149953/hall-of-fame-nominations-sought">Hall of fame nominations sought</a>
+<a href="http://www.modernhealthcare.com/article/20111107/INFO/111109997/nominations-sought-for-most-influential-physician-execs">Nominations sought for most influential physician-execs</a>
+<a href="http://www.modernhealthcare.com/article/20111003/INFO/111009997/deadline-extended-for-trustee-nominations">Deadline extended for trustee nominations</a>
 
 									</div>
 
@@ -975,7 +1107,6 @@ getmedia_end	-	204
 
 <td width="5"><img src="http://modernhealthcare.com/graphics/mh_spacer.gif" width="5" height="15"></td>
 
-
 <!-- END Right Rail -->
               </tr>
             </tbody></table>
@@ -992,9 +1123,34 @@ getmedia_end	-	204
 		  
             <table border="0" cellspacing="0" cellpadding="5" align="center" width="100%">
               <tbody><tr style="text-align:center;">
+			  
+                <td align="right" width="290"><h2>Search ModernHealthcare.com:</h2></td>
+				<td align="left"> 
+	<form name="advsearch" method="get" action="/apps/pbcs.dll/search?Category=INFO" style="margin-bottom:0;">
+ 	<input type="hidden" name="BuildNavigators" value="1">
+	<input type="text" name="q" id="searchTermBottom" class="searchbox" style="width:250px;">
+    <input type="hidden" name="ExcludeCategories" value="STATIC">
+    <input type="hidden" name="SearchCategory" value="%">
+    <input type="hidden" name="noblankcheck" value="0">
+	<input name="StartDate" value="19940101" type="hidden" size="20">
+    <input name="EndDate" value="20111208" type="hidden" size="20">
+    <input name="submit" id="searchBoxBottom" type="image" src="/images/search/search-magglass.gif" width="24" border="0" style="margin:0px;padding:0;vertical-align:bottom;">
+	</form>
+
+				</td>
+			  </tr>
+			  <tr style="text-align:center;">
                 <td><script language="JavaScript">OAS_RICH('x23');</script><a href="http://oascentral.modernhealthcare.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/news/INFO/100209995/15620892959@TopLeft,Top1,Middle1,Right1,Right2,x23,TopRight!x23?" target="_blank"><img src="http://oascentral.modernhealthcare.com/RealMedia/ads/adstream_nx.ads/www.modernhealthcare.com/news/INFO/100209995/15620892959@TopLeft,Top1,Middle1,Right1,Right2,x23,TopRight!x23?" border="0"></a></td>
 			  </tr>
+
             </tbody></table>
+
+<!--            <table border="0" cellspacing="0" cellpadding="5" align="center" width="100%">
+              <tr style="text-align:center;">
+                <td><script language="JavaScript">OAS_RICH('x23');</script></td>
+			  </tr>
+            </table>
+-->
 <!-- END Bottom Leaderboard -->
 
 <!-- Footer Columns GS -->
@@ -1118,7 +1274,7 @@ getmedia_end	-	204
 <li><a href="http://www.modernhealthcare.com/section/awardshonors" name="&amp;lid=BtmNv_All Recognition Programs">All Recognition Programs</a></li>
 <li><a href="http://www.modernhealthcare.com/section/100mp" name="&amp;lid=BtmNv_100mp">100 Most Influential People in Healthcare</a></li>
 <li><a href="http://www.modernhealthcare.com/section/100tophosp" name="&amp;lid=BtmNv_100tophosp">100 Top Hospitals</a></li>
-<li><a href="http://www.modernphysician.com/section/mp50mostpowerful" name="&amp;lid=BtmNv_mp50mostpwerfl">50 Most Powerful Physician Executives</a></li>
+<li><a href="http://www.modernphysician.com/section/mp50mostpowerful" name="&amp;lid=BtmNv_mp50mostpwerfl">50 Most Influential Physician Executives</a></li>
 <li><a href="http://www.modernhealthcare.com/section/ache" name="&amp;lid=BtmNv_ACHE">ACHE Awards</a></li>
 <li><a href="http://www.modernhealthcare.com/section/designawards" name="&amp;lid=BtmNv_Architectural Design">Architectural Design</a></li>
 <li><a href="http://www.modernhealthcare.com/section/bestplaces" name="&amp;lid=BtmNv_BestPlaces">Best Places to Work in Healthcare</a></li>
@@ -1143,17 +1299,21 @@ getmedia_end	-	204
 
 <div id="col_five">
 <ul>Healthcare Events
-<li><a href="http://www.modernhealthcare.com/section/35th-Tournament" name="&amp;lid=BtmNv_Big_Impact_Tourn">"Big Impact" Tournament </a></li>
-<li><a href="http://www.modernhealthcare.com/section/bestplaces-2010-event" name="&amp;lid=BtmNv_BestPlacesEvent">Best Places to Work in Healthcare</a></li>
-<li><a href="http://www.modernhealthcare.com/forum/" name="&amp;lid=BtmNv_Leadership">Leadership Forum</a></li>
-<li><a href="http://www.modernhealthcare.com/section/meetings" name="&amp;lid=BtmNv_Events">Event Calendar</a></li>
-<li><a href="http://www.modernhealthcare.com/section/meetings-submit" name="&amp;lid=BtmNv_AddEvent">Add Your Event</a></li> 
+   <li><a href="http://www.modernhealthcare.com/section/bestplaces-2011-event" name="&amp;lid=BtmNv_Best Places">Best Places to Work in Healthcare Conference and Gala</a></li>
+   <li><a href="http://www.modernhealthcare.com/section/35th-Anniversary" name="&amp;lid=BtmNv_35th Anniversary">Modern Healthcare's 35th Anniversary</a></li>
+   <li><a href="http://www.modernhealthcare.com/section/35th-Tournament" name="&amp;lid=BtmNv_Big Impact Tourn">"Big Impact" Tournament</a></li>
+   <li><a href="http://www.modernhealthcare.com/section/WomenLeadingHealthcare" name="&amp;lid=BtmNv_Women Leaders in Healthcare">Women Leaders in Healthcare Conference</a></li>
+   <li><a href="http://www.modernhealthcare.com/section/WomeninHealthcare-event-2011" name="&amp;lid=BtmNv_WomeninHealthGala">Top 25 Women in Healthcare Gala</a></li>
+   <li><a href="http://www.modernhealthcare.com/section/meetings" name="&amp;lid=BtmNv_Industry Events">Industry Events</a></li>
+   <li><a href="http://www.modernhealthcare.com/section/liveat" name="&amp;lid=BtmNv_Live@ Event News">Live@ Event News</a></li>
+   <li><a href="http://www.modernhealthcare.com/section/webinars" name="&amp;lid=BtmNv_Webcasts &amp; Webinars">Webcasts &amp; Webinars</a></li>
 </ul> 
 <p>
 
 
 </p><ul>Sponsored Content
 <li><a href="http://www.modernhealthcare.com/whatsrightinhealthcare" name="&amp;lid=BtmNv_WhatsRtinHC">What's Right in Health Care</a></li>
+<li><a href="/section/beacon-payment-reform" name="&amp;lid=BtmNv_Roundtable">Payment Reform: The Shift from Volume to Value</a></li>
 <!--<li><a href="/section/beacon-meaningfuluse" name="&lid=BtmNv_Roundtable">Meaningful Use Roundtable</a></li>
 <li><a href="/beacon" name="&lid=BtmNv_Roundtable">Physician Alignment Roundtable</a></li>-->
 <li><a href="http://www.modernhealthcare.com/section/healthcare-jobs" name="&amp;lid=BtmNv_HealthcareJobs">Healthcare Jobs</a></li>
@@ -1190,6 +1350,7 @@ getmedia_end	-	204
 <li><a href="http://www.modernhealthcare.com/section/editorial-awards-2010" name="&amp;lid=BtmNv_EditAwards">Editorial Awards</a></li> 
 <li><a href="http://www.modernhealthcare.com/section/marketing" name="&amp;lid=BtmNv_MarketingStaff">Marketing Staff</a></li>  
 <li><a href="http://www.modernhealthcare.com/section/partnership" name="&amp;lid=BtmNv_PartnershipProp">Partnership Proposals</a></li>  
+<li><a href="http://www.modernhealthcare.com/article/20110919/INFO/110919978" name="&amp;lid=BtmNv_SpeakerForm">Speaker Request Form</a></li>  
 </ul>
 </div>
 <p>
@@ -1206,6 +1367,7 @@ getmedia_end	-	204
 
 <a href="https://sec.crain.com/MH/QuickOrder.aspx?PromotionCode=W1MHEN"><img src="/images/footer/dailydose.gif" border="0" alt="Daily Dose" class="ftr_logos"></a>
 <a href="https://home.modernhealthcare.com/clickshare/addAccountFree.do"><img src="/images/footer/mhalert.gif" border="0" alt="MH Alert" class="ftr_logos"></a>
+<a href="https://home.modernhealthcare.com/clickshare/addAccountFree.do"><img src="/images/footer/MH_AM.jpg" border="0" alt="MH AM" class="ftr_logos"></a>
 <a href="https://home.modernhealthcare.com/clickshare/addAccountFree.do"><img src="/images/footer/hits.gif" border="0" alt="HITS" class="ftr_logos"></a>
 <a href="https://home.modernhealthcare.com/clickshare/cspLogin.do?CSProduct=modernphysician"><img src="/images/footer/mp.gif" border="0" alt="Modern Physician" class="ftr_logos"></a>
 <a href="https://home.modernhealthcare.com/clickshare/addAccountFree.do"><img src="/images/footer/top5.gif" border="0" alt="Most Requested" class="ftr_logos"></a>
@@ -1278,6 +1440,14 @@ getmedia_end	-	204
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!--  Place this tag after the last plusone tag -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
 
