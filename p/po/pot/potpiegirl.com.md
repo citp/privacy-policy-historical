@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the potpiegirl.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612044023id_/http%3A//www.potpiegirl.com/privacy-policy-termsofuse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potpiegirl.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209000817id_/http%3A//www.potpiegirl.com/privacy-policy-termsofuse) for the most accurate reproduction.*
 
-# PotPieGirls Blog (PotPieGirl.com)» Privacy Policy/ TermsOfUse
-
-## [ Privacy Policy/ TermsOfUse ](http://www.potpiegirl.com/privacy-policy-termsofuse/)
-
-Comments Off
+# Privacy Policy/ TermsOfUse | PotPieGirl.com
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -31,18 +27,3 @@ There are no earnings potential claims on this site. Any claims of income are no
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of PotPieGirl.com then you may [contact ](http://www.potpiegirl.com/contact-potpiegirl/ "contact ")us at our help desk – AskPotPieGirl.com
-
-  
-***** Note: I 'Do Follow' All Comments. Because of this I moderate all comments before publishing. This means that your comment will not show until I approve it. Thanks for understanding! ****   
-
-
-No comments yet.
-
-Sorry, the comment form is closed at this time.
-
-[Comments RSS Feed](http://www.potpiegirl.com/privacy-policy-termsofuse/feed/)  
-
-**SEARCH POTPIEGIRL.COM**  
-Finally... an easier way to find ALLLLL the info on PotPieGirl.com! 
-
-Custom Search 
