@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arvixevps.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429022917id_/http%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvixevps.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208135020id_/http%3A//www.arvixe.com/pp.php) for the most accurate reproduction.*
 
 # Arvixe Privacy Policy
 
@@ -55,7 +55,7 @@ Arlington, VA 22203
 Phone: 703-276-0100  
 
 
-Website: [Safe Harbor Complaints](https://web.archive.org/web/20110429022917id_/http%3A//www.arvixe.com/www.bbb.org/us/safe-harbor/complaints)  
+Website: [Safe Harbor Complaints](https://web.archive.org/web/20111208135020id_/http%3A//www.arvixe.com/www.bbb.org/us/safe-harbor/complaints)  
 
 
 **Questions:** Questions regarding the Arvixe Privacy Policy may be directed to **privacy@arvixe.com**.
