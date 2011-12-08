@@ -1,18 +1,21 @@
-<!--The following is the downloaded HTML source of the todaysdod.com privacy policy that was archived on 2011-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110529103104id_/http%3A//www.todaysdod.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the todaysdod.com privacy policy that was archived on 2011-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208195334id_/http%3A//www.todaysdod.com/privacypolicy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+
+
 <title>PrivacyPolicy - TodaysDOD.com</title>
 <link rel="shortcut icon" href="http://www.todaysdod.com/favicon.ico" type="image/vnd.microsoft.icon">
 <link rel="icon" href="http://www.todaysdod.com/favicon.ico" type="image/vnd.microsoft.icon"> 
 <link rel="apple-touch-icon" href="http://www.todaysdod.com/apple-touch-icon.png">
+<link href="https://plus.google.com/112112749623609763922/" rel="publisher">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<link rel="alternate" type="application/rss+xml" title="TodaysDOD.com RSS Feed" href="http://www.todaysdod.com/rss/rss.xml"><meta name="description" content="TodaysDOD tracks every online deal of the day in real time. Multiple categories, price history, and detailed item info are some of the many features. Customizable options allow you to include only your favorite sites, specific keywords, or only items in your price range. "><meta name="keywords" content="deal,day,daily,deals,aggregator,track,search,sale,price,history,cheap,tracker,tracking,today,dod,one,one-a-day,deal of the day,deal-of-the-day,todaysdod,todays,database,shop,shopping,free,one a day,wine,electronics,watch,watches,jewelry,clothing,gear"><meta name="robots" content="index,follow">
+<link rel="alternate" type="application/rss+xml" title="TodaysDOD.com RSS Feed" href="http://www.todaysdod.com/rss/rss.xml"><meta name="description" content="TodaysDOD tracks every national, local, and group buying online deal of the day in real time. Multiple categories, price history, and detailed item info are some of the many features. Customizable options allow you to include only your favorite sites, specific keywords, or only items in your price range. "><meta name="keywords" content="deal,day,daily,deals,aggregator,track,local,group,buying,city,cities,groupon,livingsocial,woot,search,sale,price,history,cheap,tracker,tracking,today,dod,one,one-a-day,deal of the day,deal-of-the-day,todaysdod,todays,database,shop,shopping,free,one a day,wine,electronics,watch,watches,jewelry,clothing,gear"><meta name="robots" content="index,follow">
 <meta name="google" value="notranslate">
 
 <style type="text/css">
 
-	@import url("http://www.todaysdod.com/style.css.php");
+	@import url("http://www.todaysdod.com/stylesnew.css.php");
 
 
 </style>
@@ -26,6 +29,7 @@
 .full_column_deals{
 width:1000px;
 }
+
 #main_content{
 width:1000px;
 }
@@ -80,14 +84,89 @@ max-height:30px;
 <![endif]-->
 
 
+<link rel="stylesheet" href="http://www.todaysdod.com/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
+<script src="http://www.todaysdod.com/jquery-1.3.2.min.js"></script>
+
+<script type="text/javascript">
+$(function() {
+	$(window).scroll(function() {
+		if($(this).scrollTop() != 0) {
+			$('#toTop').fadeIn();	
+		} else {
+			$('#toTop').fadeOut();
+		}
+	});
+ 
+	$('#toTop').click(function() {
+		$('body,html').animate({scrollTop:0},800);
+	});	
+});
+
+
+$(document).ready(function() {
+
+	/* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	$(".detailpop").fancybox({
+		'width'				: 630,
+		'height'			: 400,
+        'autoScale'     	: false,
+        'transitionIn'		: 'none',
+		'transitionOut'		: 'none',
+		'type'				: 'iframe'
+		
+	});
+	
+});
+</script>
+<script type="text/javascript">
+var switchTo5x=true;
+</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+stLight.options({
+  publisher:'4268540c-e324-46e3-8070-a48e8869b04f',
+  theme:'8',
+  headerTitle: 'Share this deal with your friends!',
+  onhover: false
+});
+</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+
+$(document).ready(function() {
+
+	/* This is basic - uses default settings */
+	
+	$("a#single_image").fancybox();
+	
+	/* Using custom settings */
+	
+	$("a#inline").fancybox({
+		'hideOnContentClick': true
+	});
+
+	/* Apply fancybox to multiple items */
+	
+	$("a.group").fancybox({
+		'transitionIn'	:	'elastic',
+		'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	200, 
+		'overlayShow'	:	false
+	});
+	
+});
+</script>
+<script type="text/javascript" src="http://www.todaysdod.com/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 
 <script async="" type="text/javascript" src="http://todaysdod.disqus.com/count.js"></script></head><body><div id="main_container">
 
 <div id="header">
 
        <div id="logo">
-        <a href="http://www.todaysdod.com"><img src="http://www.todaysdod.com/images/title_long.gif" width="616" height="51" alt="" title="" border="0"></a>
-        <!-- <img src="http://www.todaysdod.com/images/title_flat.gif" width="300" height="44" alt="" title="" border="0" /><![endif]-->
+        <a href="http://www.todaysdod.com"><img src="http://www.todaysdod.com/images/title_long_holiday.gif" width="616" height="51" alt="" title="" border="0"></a>
        </div>  
            
        <div id="search">      
@@ -98,7 +177,7 @@ max-height:30px;
 		<form action="http://www.todaysdod.com/search.php" style="display:inline;padding:0px 0px 0px 15px;position:relative;" id="searchbutton">
 		<input type="text" id="searchboxitemsLG" name="search" value="Search TodaysDOD.com" onfocus="value=''" style="padding:0 5px 0 5px;font-family: Arial, Helvetica, sans-serif;outline: none;width:180px;">
 		<input type="image" src="http://www.todaysdod.com/images/search_go_lg.gif" class="searchbox_submitLG" alt="Click To Search" value="Search">
-		</form>     
+		</form> 
       
        </div>
            
@@ -106,7 +185,7 @@ max-height:30px;
 <div class="menu">
 
 <ul>
-<li><a href="http://www.todaysdod.com">Today's Deals<!--[if IE 7]><!--></a><!--<![endif]-->
+<li><a href="http://www.todaysdod.com">National Deals<!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 	<ul>
 	<li><a href="http://www.todaysdod.com?sortby=age" title="Newest Items">Newest</a></li>
@@ -117,11 +196,11 @@ max-height:30px;
 	</ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li><a href="http://www.todaysdod.com/sites.php">Sites<!--[if IE 7]><!--></a><!--<![endif]-->
+<li><a href="http://www.todaysdod.com/local">Local Deals<!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 	<ul>
-	<li><a href="http://www.todaysdod.com/reviews.php" title="Site Reviews">Reviews</a></li>
-	<li><a href="http://www.todaysdod.com/sites.php" title="List of all tracked sites">Sites Tracked: 601</a></li>
+	<li><a href="http://www.todaysdod.com/local" title="Deals in your city">Deals Near You</a></li>
+	<li><a href="http://www.todaysdod.com/local/changecities.php" title="Choose Cities">Choose Cities</a></li>	
 	</ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -131,14 +210,26 @@ max-height:30px;
 	<li><a href="http://www.todaysdod.com/customize.php" title="Customize The Deals Shown">Custom Deal Page</a></li>
 	<li><a href="http://www.todaysdod.com/customrss.php" title="Create A Custom RSS Feed">Custom RSS Feed</a></li>
 	<li><a href="http://www.todaysdod.com/alerts.php" title="Create Email Alerts">Custom Email Alerts</a></li>
+	<li><a href=" http://www.todaysdod.com/customlocalalert.php" title="Create Local Email Alerts">Custom Local Email Alerts</a></li>   
+    </ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li><a href="http://www.todaysdod.com/sites.php">Sites<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+	<li><a href="http://www.todaysdod.com/reviews.php" title="Site Reviews">Reviews</a></li>
+	<li><a href="http://www.todaysdod.com/sites.php" title="List of all tracked sites">Sites Tracked: 619</a></li>
 	</ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
+
 <li><a href="http://www.todaysdod.com/extras.php">Extras<!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 	<ul>
-	<li><a href="http://www.todaysdod.com/rssfeeds.php" title="TodaysDOD RSS Feeds">RSS Feeds</a></li>
+	<li><a href="http://www.todaysdod.com/faq.php" title="Frequently Asked Questions">FAQ</a></li>
 	<li><a href="http://www.twitter.com/TodaysDOD" title="TodaysDOD on Twitter" target="_blank">Twitter</a></li>
+	<li><a href="http://www.todaysdod.com/contact.php" title="Contact Us">Contact Us</a></li>
+    <li><a href="http://www.todaysdod.com/rssfeeds.php" title="TodaysDOD RSS Feeds">RSS Feeds</a></li>
 	<li><a href="http://www.todaysdod.com/linktous.php" title="Link To Us">Link To Us</a></li>
 	<li><a href="http://www.todaysdod.com/googlegadgets.php" title="iGoogle Gadgets">iGoogle Gadgets</a></li>
 	<li><a href="http://www.todaysdod.com/mobile.php" title="TodaysDOD Mobile">TodaysDOD Mobile</a></li>
@@ -146,21 +237,20 @@ max-height:30px;
 	</ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li><a href="http://www.todaysdod.com/faq.php" title="Frequently Asked Questions">FAQ</a></li>
-<li><a href="http://www.todaysdod.com/contact.php">Contact</a></li>
 
-</ul>
+<li style="display:block;float:left;height:100%;font-size:16px;text-decoration:none;color:#ff0000;background:#05619b;padding:0 21px 0 17px;">Live Event <img border="0" src="http://www.todaysdod.com/images/jcbb.gif" height="10" alt="Joes Jambalaya"><ul><li><a href="http://www.todaysdod.com/jam"><img border="0" src="http://www.todaysdod.com/images/jcbb.gif" height="15" alt="Joes Jambalaya"> Joes Jambalaya </a></li></ul></li></ul>
 
 </div>
 
 
-<div class="date">
+<div class="datenew">
 
-May 29th, 2011<div class="rssImage"><a href="http://www.todaysdod.com/rssfeeds.php"><img src="/images/icon_rss.gif" alt="TodaysDOD RSS Feed" title="TodaysDOD RSS Feed" style="border-style: none"></a></div>
-<div class="twitterImage"><a href="http://www.twitter.com/TodaysDOD" target="_blank"><img src="/images/icon_twitter.gif" alt="TodaysDOD on Twitter" title="TodaysDOD on Twitter" style="border-style: none"></a></div>
-
+<div style="visibility:hidden">December 8th, 2011</div><div class="plusimagenew"><a href="https://plus.google.com/112112749623609763922/?prsrc=3" style="text-decoration: none;" alt="TodaysDOD on Google Plus" title="TodaysDOD on Google Plus" target="_blank"><img src="http://www.todaysdod.com/images/plusimage.png" border="0" alt="TodaysDOD on Google Plus" title="TodaysDOD on Google Plus"></a></div>
+<div class="twitterfollowNew"><a href="http://www.twitter.com/TodaysDOD" target="_blank"><img src="http://www.todaysdod.com/images/twitter_follow_2.png" alt="Follow TodaysDOD on Twitter"></a></div>
+	<div class="contactImageNew"><a href="http://www.todaysdod.com/contact.php"><img src="/images/link_contact.png" alt="Contact Us" title="Contact Us" style="border-style: none"></a></div>
+<div class="rssImageNew"><a href="http://www.todaysdod.com/rssfeeds.php"><img src="/images/icon_rss.gif" alt="TodaysDOD RSS Feed" title="TodaysDOD RSS Feed" style="border-style: none"></a></div>
+<div class="gplusImageNew"><a href="https://plus.google.com/112112749623609763922/?prsrc=3" style="text-decoration: none;" alt="TodaysDOD on Google Plus" title="TodaysDOD on Google Plus" target="_blank" rel="publisher"><img src="https://ssl.gstatic.com/images/icons/gplus-16.png" width="16" height="16" style="border: 0;"></a></div>
 </div>
-
 
 
 </div>
@@ -190,7 +280,7 @@ We can be reached via e-mail at <a href="mailto:support@todaysdod.com">support@t
 
 <div id="footer">
 
-© 2011 TodaysDOD.com | <a href="http://www.todaysdod.com/linktous.php"><img src="http://www.todaysdod.com/images/icon_profile.png" border="0" height="8px"> Link To Us</a> | <a href="http://www.todaysdod.com/rss/rss.xml"><img src="http://www.todaysdod.com/images/icon_rss.png" border="0" height="8px"> RSS</a> | <a href="http://www.todaysdod.com/contact.php"><img src="http://www.todaysdod.com/images/icon_email.png" border="0" height="8px"> Contact Us</a> | <a href="http://www.todaysdod.com/privacypolicy.php"><img src="http://www.todaysdod.com/images/icon_detail.png" border="0" height="8px"> Privacy Policy</a>
+© 2011 TodaysDOD.com | <a href="http://www.todaysdod.com/linktous.php"><img src="http://www.todaysdod.com/images/icon_profile.png" border="0" height="8px"> Link To Us</a> | <a href="http://www.todaysdod.com/rss/rss.xml"><img src="http://www.todaysdod.com/images/icon_rss.png" border="0" height="8px"> RSS</a> | <a href="http://www.todaysdod.com/contact.php"><img src="http://www.todaysdod.com/images/icon_email.png" border="0" height="8px"> Contact</a> | <a href="http://www.todaysdod.com/privacypolicy.php"><img src="http://www.todaysdod.com/images/icon_detail.png" border="0" height="8px"> Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>National:</b> <font color="green">475</font> | <b>Local:</b> <font color="green">27798</font> | <b>Archived: </b><font color="grey">0</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
