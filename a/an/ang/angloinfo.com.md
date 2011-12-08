@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609071057id_/http%3A//www.angloinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208234330id_/http%3A//www.angloinfo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | AngloINFO Worldwide
 
@@ -49,11 +49,11 @@ AngloINFO will send personally identifiable information about you to other compa
 
 ##### Cookies
 
-  * AngloINFO and its advertisers may set and access cookies on your computer. 
+  * AngloINFO and its advertisers may set and access cookies on your computer. 
 
 
 
-(A cookie is a piece of data stored on the your hard drive containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on AngloINFO's World Wide Web site.  For instance, by setting a cookie on AngloINFO's site, you would not have to log in a password more than once, thereby saving time while on the site. If you reject the cookie, you may still use the site. The only drawback to this is that you will be limited in some areas of the site. Cookies can also enable us to track and target the interests of our users to enhance the experience of our site.)
+(A cookie is a piece of data stored on the your hard drive containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on AngloINFO's World Wide Web site. For instance, by setting a cookie on AngloINFO's site, you would not have to log in a password more than once, thereby saving time while on the site. If you reject the cookie, you may still use the site. The only drawback to this is that you will be limited in some areas of the site. Cookies can also enable us to track and target the interests of our users to enhance the experience of our site.)
 
 ##### Future changes:
 
