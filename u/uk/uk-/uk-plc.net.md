@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uk-plc.net privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610183601id_/http%3A//www.uk-plc.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk-plc.net privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208175457id_/http%3A//www.uk-plc.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 @UK PLC is committed to protecting your privacy and to comply with applicable data protection and privacy laws.
 
-Users may go to [http://controlcentre.uk-plc.net](https://web.archive.org/web/20110610183601id_/http%3A//) for information on how to opt-in or opt-out of use of their information.
+Users may go to [http://controlcentre.uk-plc.net](https://web.archive.org/web/20111208175457id_/http%3A//) for information on how to opt-in or opt-out of use of their information.
 
 We invite you to contact us if you have questions about this policy. 
 
