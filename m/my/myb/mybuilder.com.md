@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mybuilder.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202041735id_/http%3A//www.mybuilder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybuilder.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208085351id_/http%3A//www.mybuilder.com/privacy-policy) for the most accurate reproduction.*
 
-# MyBuilder Privacy Policy
-
-## Privacy Policy and Data Protection
+# MyBuilder - Privacy Policy and Data Protection
 
 At **MyBuilder Limited** , we recognise and respect the importance of protecting the privacy of visitors to our website 'www.mybuilder.com'.
 
@@ -12,9 +10,14 @@ We need to collect certain personal details when you register or post a job with
 
 All this information will be held by **MyBuilder** using the appropriate safeguards to ensure the highest possible levels of security, integrity and privacy.
 
-By registering your details on the website, you consent to us contacting you via email, telephone or post, with relevant information pertaining to the services on our website. We will not share, trade or sell your information to any company or parties not directly associated with its proper use within the website. 
+By registering your details on the website, you consent to us contacting you via email, telephone or post, with relevant information pertaining to the services on our website. We will not share, trade or sell your information to any company or parties not directly associated with its proper use within the website, except when you give us explicit permission and we give you an opportunity to opt out of having your personal information shared. 
 
-You have the right to ask us for a copy of the information that we hold on you, in return for a small administration fee. You also have the right to update or change the information we hold about you at any time. 
+Under the terms of the Data Protection Act 1998, you have a number of rights. If you require a copy of the information we have concerning you, please write to the Data Controller at the address below and enclose a cheque for the administration fee of £10.00 made payable to MyBuilder Limited. We are entitled to charge you this fee to cover our administrative costs. Our security procedures mean that we may ask for proof of your identity before we will disclose information about you, or to you, be this via email or over the telephone. 
+
+**Data Controller  
+MyBuilder Limited  
+40 Clerkenwell Close  
+London EC1R 0AW**
 
 ### Technical Data
 
@@ -24,6 +27,8 @@ We may also place a 'cookie' on your hard drive to make help us identify you whe
 
 ### Contact details
 
-Contact details are exchanged between Customers and Tradesmen only if the Customer wants them to be. By expressing interest in a job, Tradesmen consent for their contact details to be forwarded to Customers who request them.
+Customer contact details are given to Tradesmen only at the request of the Customer. Tradesmen agree that their contact details may be shared with any Customer that they have been in contact with. By expressing interest in a job, Tradesmen consent for their contact details to be forwarded to the Customer.
 
 We do not publicly display any contact details or other sensitive information on our site. All communication takes place securely through the "My Jobs" section of the site. 
+
+We reserve the right to amend or modify this privacy statement at any time and in response to changes in applicable data protection and privacy legislation.
