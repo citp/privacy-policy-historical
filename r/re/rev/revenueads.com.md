@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the revenueads.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419215830id_/http%3A//www.revenueads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenueads.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208032020id_/http%3A//www.revenueads.com/privacy.php) for the most accurate reproduction.*
 
 # RevenueAds Privacy Policy | RevenueAds
 
-**Privacy Policy**  
 **  
 PRIVACY POLICY FOR REVENUEADS, and each of its related web sites (“RevenueAds”) Privacy Policy Last updated January 1, 2009. This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website. RevenueAds provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website. **
 
@@ -66,7 +65,7 @@ RevenueAds uses Individual Information to provide promotional offers by email to
 
 3.4 Summary Data. RevenueAds may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons. 
 
-3.5 Access. Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting support@revenueads.com.com. RevenueAds may also grant advertising clients and email services providers’ access to an individual's email address to verify the origin of the Individual Information collected. 
+3.5 Access. Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting support@revenueads.com. RevenueAds may also grant advertising clients and email services providers’ access to an individual's email address to verify the origin of the Individual Information collected. 
 
 4\. Privacy Practices of Third Parties. 
 
@@ -78,7 +77,7 @@ RevenueAds uses Individual Information to provide promotional offers by email to
 
 5\. Individuals Outside of the United States . Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by RevenueAds in the United States . By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States . 
 
-6\. Unsubscribe Procedures. If you wish to discontinue receiving email messages from RevenueAds, you have several options: Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to support@revenueads.com.com or (2) follow the instructions in each promotional email message sent by RevenueAds. For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at support@revenueads.com. 
+6\. Unsubscribe Procedures. If you wish to discontinue receiving email messages from RevenueAds, you have several options: Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to support@revenueads.com or (2) follow the instructions in each promotional email message sent by RevenueAds. For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at support@revenueads.com. 
 
 California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. © 2007 RevenueAds.
 
