@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.co.uk privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629154250id_/http%3A//www.expedia.co.uk/daily/service/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.co.uk privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208202139id_/http%3A//www.expedia.co.uk/daily/service/privacy.asp) for the most accurate reproduction.*
 
 # Expedia.co.uk Travel > Expedia.co.uk Customer Support
 
@@ -12,7 +12,7 @@
 |  [ **Holidays**](https://web.archive.org/daily/service/packages.asp)  
 |  [ **Maps**](https://web.archive.org/daily/service/maps.asp)  
 |  [ **Cancellations**](https://web.archive.org/daily/service/cancellations.asp)  
-|  [ **Security and Privacy**](https://web.archive.org/daily/service/security.asp)    
+|  [ **Security and Privacy**](https://web.archive.org/daily/service/security.asp)  
    
 |    
 ** EXPEDIA.CO.UK PRIVACY POLICY ** We at Expedia, Inc. understand that making bookings online involves a great deal of trust on your part. We take this trust very seriously, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. This privacy policy applies to data collected on Expedia.co.uk. Our website is intended for use by residents of the UK who are over 18 years of age. 
