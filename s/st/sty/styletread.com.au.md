@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404041044id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208014545id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,3 +67,19 @@ When you visit StyleTread.com.au, whether as an acount holder or a visitor, our 
 This data may include information such as your computer’s Internet Protocol address, browser type or the webpage you were visiting before you came to our site, pages of our site that you visit, the time spent on those pages, information you search for on our site, access times and dates, and other statistics.
 
 We don't treat the data collected as personal Information or use it in association with other personal information, though we may aggregate, analyze and evaluate such information to better tailor or improve the services or products provided.
+
+**Address and Contact Details**
+
+StyleTread Pty Ltd
+
+Unit 3, 35 Carter St. (off Hill Road)
+
+Sydney Olympic Park NSW 2127 
+
+email: service@styletread.com.au
+
+ABN: 24 145 771 982 
+
+Fax: 02 8188 1839
+
+Tel: 1300 602 947
