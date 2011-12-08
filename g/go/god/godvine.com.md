@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the godvine.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609190113id_/http%3A//www.godvine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godvine.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208155847id_/http%3A//www.godvine.com/privacy) for the most accurate reproduction.*
 
 # GodVine
 
-If you're looking for copyright information or would like content you own removed from our web site, please visit our [_Removal Policy_](http://www.godvine.com/removal/) page.
+Looking for a way to stop seeing our posts on Facebook? Please visit our [_Unlike Us on Facebook_](http://www.godvine.com/removefb/) page.
 
-If you're looking for a way to stop seeing our posts on Facebook, please visit our [_Unlike Us on Facebook_](http://www.godvine.com/removefb/) page.
+If you are the copyright holder of content hosted on the GodVine web site and would like it removed, please visit our [_Removal Policy_](http://www.godvine.com/removal/) page.
 
 ## Privacy Policy
 
