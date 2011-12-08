@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randi.org privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519230038id_/http%3A//www.randi.org/site/index.php/component/content/article/37-static/422-jref-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randi.org privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208163943id_/http%3A//www.randi.org/site/index.php/component/content/article/37-static/422-jref-privacy-policy.html) for the most accurate reproduction.*
 
 # JREF Privacy Policy
 
