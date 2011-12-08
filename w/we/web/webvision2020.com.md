@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webvision2020.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609205030id_/http%3A//www.webvision2020.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvision2020.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208025711id_/http%3A//www.webvision2020.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Web Vision 2020
 
