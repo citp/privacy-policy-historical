@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623110024id_/http%3A//computernetworkingnotes.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computernetworkingnotes.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208212909id_/http%3A//computernetworkingnotes.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -13,14 +13,6 @@ At computernetworkingnotes.com, the privacy of our visitors is of extreme import
 Like many other Web sites, computernetworkingnotes.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
-
-###  Google Advertising Cookie and Privacy Policies 
-
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to computernetworkingnotes.com.
-  * Google's use of the DART cookie enables it and its partners to serve ads to users based on their visit to computernetworkingnotes.com and/or other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
-
-
 
 **Cookies and Web Beacons**  
 computernetworkingnotes.com/ does not use cookies.
