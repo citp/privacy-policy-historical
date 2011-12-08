@@ -1,0 +1,578 @@
+<!--The following is the downloaded HTML source of the essayshark.com privacy policy that was archived on 2011-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111208233632id_/http%3A//essayshark.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>EssayShark.com | Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var exdate = new Date();
+exdate.setDate(exdate.getDate()+1);
+document.cookie = "client_utc_offset=" + exdate.getTimezoneOffset() + "; path=/; domain=essayshark.com; expires=" + exdate.toGMTString();
+</script>
+
+<link rel="stylesheet" type="text/css" href="/w3t_public/js_css/6c1bc2922c5ac1e6b6521481c59b0bc1_3189197942.css">
+<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css"/>
+<![endif]-->
+
+<script type="text/javascript" src="/w3t_js/jquery/jquery-1.6.4.min.js"></script> 
+<script type="text/javascript" src="/w3t_public/js_css/87ce11e12fa0670d2345a34ff915acc6_840151537.js"></script>
+<!--dynamic-->
+<script type="text/javascript">
+jQuery(document).ready(function()
+{
+	jQuery('#id_pages_qty').spinner({ min: 0, max: 9999, increment: 'fast' });
+	
+	jQuery.ajaxSetup({ cache: false });
+	
+	jQuery('.utc2localtime').localTime({client_format:'j M Y H:i T'});
+
+	jQuery('.tooltip_e').tipsy({gravity:'e', html:true});
+	jQuery('.tooltip_n').tipsy({gravity:'n', html:true});
+
+		jQuery.cookie('prev_url', '', { path: '/' });
+	
+	jQuery('.disable_delayed_on_click').click(function(event) 
+	{
+		if (event.target.nodeName.toLowerCase() != 'a')
+		{
+			return false;
+		}
+
+		if (jQuery(event.target).hasClass('disable_delayed_on_click'))
+		{
+			var evel = jQuery(event.target);
+		}
+		else
+		{
+			var evel = jQuery(event.target).parents('.disable_delayed_on_click:first');
+		}
+		// alert(evel.html()); return false;
+
+		var orig_width = evel.width();
+		var orig_html = evel.html();
+			
+		evel.html('<img src="/img/common/preloader_circular12.gif" border="0" width="12" height="12" alt="" title="Please wait..." />');
+		evel.width(orig_width);
+
+		jQuery('.disable_delayed_on_click a').css('visibility', 'hidden');
+		jQuery('.disable_delayed_on_click b').css('visibility', 'hidden');
+
+		var getContentBack = function() 
+		{ 
+			evel.html(orig_html);
+			jQuery('.disable_delayed_on_click a').css('visibility', 'visible'); 
+			jQuery('.disable_delayed_on_click b').css('visibility', 'visible'); 
+		};
+
+		setTimeout(getContentBack, 20*1000);
+
+		return true;
+	});
+
+	/* startNewOrderMessagesPolling(); */
+	if(typeof checkOrderMessages == 'function')
+	{
+		checkOrderMessages(true);
+	}
+});
+
+var fancybox_options = {
+	'speedIn': 300, 
+	'speedOut': 300, 
+	'overlayShow': true,
+	'overlayOpacity': 0.3,
+	'overlayColor': '#404040',
+	// 'cyclic': true,
+	'hideOnContentClick': false,
+	'showCloseButton': true,
+	'enableEscapeButton': true
+};
+
+goBack = function()
+{
+	var prev_url = jQuery.cookie('prev_url');
+	if (prev_url != undefined && prev_url != '')
+	{
+		window.location.href = 'http://essayshark.com' + prev_url;
+	}
+};
+
+goUrl = function(url)
+{
+	if (typeof url != 'string')
+	{
+		return false;
+	}
+
+	window.location.href = 'http://essayshark.com' + url;
+};
+
+ajaxNoAuth = function()
+{
+	showAuthDialog('', '', null, true);
+	return true;
+};
+
+var preloader_cicular = '<p align="center"><br /><img src="/img/common/preloader_circular16.gif" border="0" alt="" title="Please wait..." /><\/p>';
+
+
+</script>
+<!--/dynamic--><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-25959941-1']);
+_gaq.push(['_trackPageview']);
+(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+</script>
+</head>
+<body class="main  notindex" id="bodystart">
+<!-- H -->
+	<div id="header">
+		<div class="wrap">
+			<h1>Assignment Help</h1>
+			<a href="/" id="logo"><img src="/images/logo.png" width="199" height="61" alt="EssayShark.com - Assignment Help"></a>
+		</div>
+	</div>
+<!-- end:H -->
+<!-- C -->
+
+	<div id="c" class="">
+		<div class="body">
+
+
+
+<div class="c">
+	<h1>Privacy Policy</h1>
+	<p>The statements below show details of our policy, and about what personal information we collect every time you visit the EssayShark.com website.</p>
+	<p>The information we collect is only used for improving the content of our webpages and for customizing it in accordance with our clients’ individual preferences. No personal information collected for these purposes is disclosed to any third parties.</p>
+	<h3>Information we collect as you browse our website</h3>
+	<p>The statistical data that our webserver collects as you browse the website includes information about your IP address, the type of browser you are using, your operating system and access times. Sometimes, cookies can be used to customize the content of our webpages, based on your browser type, IP address or other anonymous information.</p>
+	<h3>About Cookies</h3>
+	<p>Cookies are text files used to identify your computer to our server. Cookies identify the computer being used, not a specific individual user. This tool is used by many different websites to monitor visitor traffic.</p><p>
+		Cookies gather information about areas of the website the user visits, and the time spent on a particular page. Users can modify browser settings to accept all cookies, to receive a notification every time a cookie is used, or not to receive cookies at all. In case of the last option, the user might not be able to use some personalized services.</p>
+	<h3>Use of optional information</h3>
+	<p>On some webpages, you may be asked to provide some personal information, including your name, e-mail address or some other contact details. Please note that such information is never distributed to third parties; it is only used to enable communication with the customer while the order is in progress. Demographic information you provide is used exclusively for internal market research purposes.</p>
+	<p>If you contact us by e-mail to report your feedback, express a request, or ask for additional information, we only use your personal contact information (including your e-mail address) to respond to your request. This information is not shared, sold, or disclosed to any other party.</p>
+	<h3>Future developments</h3>
+	<p>In the event that any of the privacy policy conditions are modified, corresponding policy statements are posted on this page. So, we recommend you check our privacy policy page from time to time, to keep updated with any policy changes introduced as we operate the business.</p>
+	<h3>Security</h3>
+	<p>A set of appropriate security measures is used to make sure you are protected against loss, misuse, or alteration of information we collect from you.</p>
+	<h3>Links Disclaimer</h3>
+	<p>In order to introduce our customers to specific information, we may provide links to local, state and federal government agencies, as well as some websites of other organizations. A link does not constitute an endorsement of the content, products, accuracy, services, opinions, viewpoint, policies, or accessibility of that website. Once you link to another website from this one, including any maintained by the State, you are subject to the terms and conditions of that website, including, but not limited to, its privacy policy.</p>
+	<h3>Disclosures Prohibited</h3>
+	<p>Use of information acquired from employers or employees pursuant to this article shall be for the exclusive use and information of the commissioner in the discharge of his or her duties hereunder. This information shall not be open to the public, nor be used in any court in any action or proceeding pending therein, unless the commissioner is a party to such action or proceeding, notwithstanding any other provisions of law. Such information insofar as it is material to the making and determination of a claim for benefits, shall be available to the parties affected and, at the commissioner's discretion, may be made available to the parties affected in connection with effecting placement.</p>
+	<h3>Will Our Privacy Policy Change in the Future?</h3>
+	<p>Because we constantly work on updating and improving our website, our policies continue to evolve. As a result of this constant effort to enhance your experience, new technological advances are introduced from time to time, and we always make sure to update our Privacy Policy accordingly. So we advise you to keep track of the policy changes we introduce, by visiting this webpage from time to time, and by getting acquainted with the updates in our Privacy Policy.</p>
+	<h3>Access to information</h3>
+	<p>You can ask to be provided with any personal information that EssayShark.com holds about you. You can also ask for any inaccuracies to be corrected, to make sure the personal information we hold about you is always up-to-date and accurate. Such information requests are subject to a separate charge of $35. Upon such a request of yours, we provide you with access to all information we maintain about you, subject to the conditions of the Data Protection Act 1998. You may request this service by contacting our support team any time.</p>
+</div>
+
+<!-- Right column -->
+<div id="r">
+	<!--dynamic-->
+<script type="text/javascript">
+initValidator_newOrderFrom = function() {
+	//--[ form validator load *.css ]-----------------------------------
+	var css0 = jQuery('<link href="/w3t_js/jquery/validate/validate.css" type="text/css" rel="stylesheet" />');
+	jQuery("head").append(css0);
+	//--[ /form validator load *.css ]-----------------------------------
+	
+	//--[ form validator load *.js ]-----------------------------------
+	jQuery.getScript("/w3t_js/jquery/validate/jquery.validate.js", function() { /* alert('Form validator: /w3t_js/jquery/validate/jquery.validate.js loaded.'); */
+	jQuery.getScript("/w3t_js/jquery/validate/additional-methods.js", function() { /* alert('Form validator: /w3t_js/jquery/validate/additional-methods.js loaded.'); */
+	jQuery.getScript("/w3t_js/jquery/blockUI/jquery.blockUI.js", function() { /* alert('Form validator: /w3t_js/jquery/blockUI/jquery.blockUI.js loaded.'); */
+		// form validator config
+		var block_ui_config = { message: '<center><div style="font-size:15px; font-weight:bolder; color:#707070;">Please wait...<\/div><img src="/img/common/preloader_horizontal.gif" width="160" height="20" border="0" alt="" title="" /><\/center>', css: { border: '1px solid #222222', padding: 5 }, overlayCSS: { backgroundColor: '#3f92be', opacity: 0.3 }};
+		jQuery("#newOrderFrom").bind("invalid-form", function(elem){ jQuery(".error:input:first", "#newOrderFrom").focus(); }); // focus first error element  (validate attempt > 1)
+		var validator_newOrderFrom = jQuery('#newOrderFrom').validate({
+			submitHandler: function(frm) {
+				// alert('OK');
+				_gaq.push(['_trackEvent', 'OrderFormSmall', 'ProceedToCheckout', 'ButtonClick_ok']);
+				jQuery.blockUI(block_ui_config);
+				frm.submit();
+			},
+			invalidHandler: function(frm, validator) {
+				// alert(validator.invalidElements().toSource());
+				_gaq.push(['_trackEvent', 'OrderFormSmall', 'ProceedToCheckout', 'ButtonClick_w_errors']);
+			},
+			errorPlacement: function(error, element) {
+				var element_name = element.attr("name");
+				element_name = element_name.replace(/\[\]/i, "");
+				if (jQuery("#error_container_"+element_name).length)
+				{
+					error.appendTo("#error_container_"+element_name);
+				}
+				else
+				{
+					error.insertAfter(element);
+				}
+				jQuery(".error:input:first", "#newOrderFrom").focus(); // focus first error element (first validate attempt)
+				_gaq.push(['_trackEvent', 'OrderFormSmall', 'FieldError', element_name]);
+			},
+			rules: {
+				'email': {
+					required: true,
+					email: true
+				},
+				'paper_type': {
+					required: true
+				},
+				'title': {
+					required: true
+				},
+				'pages_qty': {
+					digits: true,
+					min: 1,
+					required: true
+				},
+				'deadline_date': {
+					required: true
+				},
+				'deadline_time': {
+					required: true
+				},
+				'captcha_code': {
+					required: true
+				}
+			},
+			messages: {
+				'email': {
+					required: '',
+					email: ''
+				},
+				'paper_type': {
+					required: ''
+				},
+				'title': {
+					required: ''
+				},
+				'pages_qty': {
+					digits: '',
+					min: '',
+					required: ''
+				},
+				'deadline_date': {
+					required: ''
+				},
+				'deadline_time': {
+					required: ''
+				},
+				'captcha_code': {
+					required: ''
+				}
+			}
+		});
+		// /form validator config
+	}); // /w3t_js/jquery/validate/jquery.validate.js
+	}); // /w3t_js/jquery/validate/additional-methods.js
+	}); // /w3t_js/jquery/blockUI/jquery.blockUI.js
+	//--[ /form validator load *.js ]-----------------------------------
+};
+
+jQuery(document).ready( function() {
+	initValidator_newOrderFrom();
+});
+</script>
+
+<form action="" id="newOrderFrom" name="newOrderFrom" method="post" accept-charset="utf-8">
+<input type="hidden" name="neworderfrom_submitted" value="1">
+<div class="form_view_t">
+	<h2><span>It's free, fast and safe</span>Place New Order: </h2>
+</div>
+<div class="form_view form_view_page">
+	<dl>
+	<dt>&nbsp;E-mail:</dt>
+	<dd><input type="text" name="email" id="id_email" value="" class="input_text inp_big" maxlength="255">	</dd>
+</dl>
+<dl>
+	<dt>&nbsp;Type of paper:</dt>
+	<dd><select name="paper_type" id="id_paper_type" class="input_select sel_big">
+	<option value="" selected="selected">Select one</option>
+	<option value="10">Admission essay</option>
+	<option value="20">Annotated bibliography</option>
+	<option value="30">Argumentative essays</option>
+	<option value="40">Article review</option>
+	<option value="50">Biographies</option>
+	<option value="60">Book/movie review</option>
+	<option value="70">Business plan</option>
+	<option value="80">Capstone project</option>
+	<option value="90">Case study</option>
+	<option value="100">Coursework</option>
+	<option value="110">Creative writing</option>
+	<option value="120">Critical thinking</option>
+	<option value="130">Dissertation</option>
+	<option value="140">Dissertation chapter - Introduction</option>
+	<option value="150">Dissertation chapter - Literature review</option>
+	<option value="160">Dissertation chapter - Methodology</option>
+	<option value="170">Dissertation chapter - Results</option>
+	<option value="180">Dissertation chapter - Discussion</option>
+	<option value="190">Dissertation chapter - Conclusion</option>
+	<option value="200">Essay (any type)</option>
+	<option value="210">Presentation or speech</option>
+	<option value="220">Research paper</option>
+	<option value="230">Research proposal</option>
+	<option value="240">Term paper</option>
+	<option value="250">Thesis</option>
+	<option value="260">Thesis/Dissertation abstract</option>
+	<option value="270">Thesis/Dissertation chapter</option>
+	<option value="280">Thesis/Dissertation proposal</option>
+	<option value="10000">Other</option>
+</select>	</dd>
+</dl>
+<dl>
+	<dt>&nbsp;Topic:</dt>
+	<dd><input type="text" name="title" id="id_title" value="" class="input_text inp_big" maxlength="255">	</dd>
+</dl>
+<dl>
+	<dt>&nbsp;Pages:</dt>
+	<dd><input type="text" name="pages_qty" id="id_pages_qty" value="0" style="width:45px; border-radius:4px 0 0 4px;" maxlength="4" class="input_text"><span id="pages_qty_hint"></span><div id="error_container_pages_qty"></div>
+	</dd>
+</dl>
+<dl>
+	<dt>&nbsp;Deadline:</dt>
+	<dd><div style="float:left"><input type="text" name="deadline_date" id="id_deadline_date" value="" style="width:70px;" placeholder="e.g. 8 Dec" readonly="true" class="input_text"> at <select name="deadline_time" id="id_deadline_time" class="input_select">
+	<option value="0">Midnight (start of day)</option>
+	<option value="1">1 AM</option>
+	<option value="2">2 AM</option>
+	<option value="3">3 AM</option>
+	<option value="4">4 AM</option>
+	<option value="5">5 AM</option>
+	<option value="6">6 AM</option>
+	<option value="7">7 AM</option>
+	<option value="8">8 AM</option>
+	<option value="9">9 AM</option>
+	<option value="10">10 AM</option>
+	<option value="11">11 AM</option>
+	<option value="12" selected="selected">12 Noon</option>
+	<option value="13">1 PM</option>
+	<option value="14">2 PM</option>
+	<option value="15">3 PM</option>
+	<option value="16">4 PM</option>
+	<option value="17">5 PM</option>
+	<option value="18">6 PM</option>
+	<option value="19">7 PM</option>
+	<option value="20">8 PM</option>
+	<option value="21">9 PM</option>
+	<option value="22">10 PM</option>
+	<option value="23">11 PM</option>
+</select></div><span class="format_date" id="deadline_hint" style="display:none;"></span><br clear="all"><div id="error_container_deadline_date"></div>
+<div id="error_container_deadline_time"></div>
+	</dd>
+</dl>
+<dl>
+	<dt>&nbsp;Security code:</dt>
+	<dd><div>
+	<div style="float:left; vertical-align:middle;">
+		<img src="/img/captcha/captcha2.php?name=captcha_code&amp;rnd=29ee34109773aa32421b0994d5ae000c" id="id_captcha_code_image" hspace="0" vspace="0" border="1" alt="Turing code" title="Turing code" align="left" style="border:1px solid #dadada; margin-left:1px;-webkit-border-radius:2px; -moz-border-radius:2px; border-radius:2px; float:left;">
+		<a onclick="jQuery('#id_captcha_code_image').attr('src', '/img/captcha/captcha2.php?name=captcha_code&amp;rnd=7752ec3cb2baff1020a95e9551a698f7_'+Math.round(Math.random()*10000)); jQuery('#id_captcha_code').focus();" style=""><img src="/img/captcha/refresh2.gif" border="0" alt="Load other image" title="Load other image" align="left" style="border:1px solid #dadada; margin-left:1px;-webkit-border-radius:2px; -moz-border-radius:2px; border-radius:2px; float:left; height:18px; width:18px; background-color:#f2f3f5;cursor:pointer"></a>
+		<div title="Listen security code" style="border:1px solid #dadada; margin-left:1px;-webkit-border-radius:2px; -moz-border-radius:2px; border-radius:2px; float:left; height:18px; width:18px; background-color:#f2f3f5;"><span id="audio_captchacaptcha_code"></span></div>
+	</div>
+	<div style="float:left;">
+		<span class="captcha_arrow">&nbsp;»»&nbsp;</span>
+		<input type="text" name="captcha_code" id="id_captcha_code" maxlength="10" size="10" style="width:35px" value="">
+	</div>
+</div><br clear="all">
+<script type="text/javascript">
+var swfobject_flashvars = { audio: "/img/captcha/play.php?name=captcha_code", bgColor1: "#f2f3f5", bgColor2: "#f2f3f5", iconColor: "#000000", roundedCorner: "2" };
+var swfobject_params = { allowfullscreen: false, allowscriptaccess: "sameDomain", quality: "high", wmode: "transparent" };
+var swfobject_attributes = { align: "left", style: "margin:0px;" };
+swfobject.embedSWF("/img/captcha/play.swf", "audio_captchacaptcha_code", "18", "18", "9.0.0", "/w3t_js/swfobject/expressInstall.swf", swfobject_flashvars, swfobject_params, swfobject_attributes);
+</script>
+	</dd>
+</dl>
+<dl>
+	<dt>&nbsp;</dt>
+	<dd><button type="button" name="subm" id="id_subm" value="Continue ›" class="input_button btn_f_submit">Continue ›</button>	</dd>
+</dl>
+</div>
+</form>
+ 
+<script type="text/javascript">
+		jQuery(document).ready(function() {
+			jQuery("#id_deadline_date").datepicker({ 
+				// dateFormat: "dd.mm.yy", 
+				dateFormat: 'd M yy',
+				gotoCurrent: true,
+				minDate: 0, 
+				maxDate: "+2Y", 
+				showButtonPanel: false, 
+				showOn: "both",
+				buttonImage: "/images/calendar.png",
+				buttonImageOnly: true,
+				buttonText: 'Choose',
+				monthNamesShort: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+				onSelect: function(dateText, inst) { recalculate_deadline(); }
+			});
+
+			var recalculate_pages = function() 
+			{
+				var pages = jQuery("#id_pages_qty").val() * 1;
+
+				var words_string = '';
+				if (!isNaN(pages) && pages != undefined && pages != null && pages > 0)
+				{
+					words_string = '/ ' + jQuery("#id_pages_qty").val() * 275 + ' words';
+				}
+				
+				jQuery("#pages_qty_hint").text(words_string);
+			};
+			var recalculate_deadline = function()
+			{
+				var deadline_date = jQuery("#id_deadline_date").val();
+				var deadline_time = jQuery("#id_deadline_time option:selected").val();
+
+				if (deadline_date != undefined && deadline_date != '' && deadline_time != undefined)
+				{
+					jQuery.get('/aj_get_remaining_time.html', { deadline_date: deadline_date, deadline_time: deadline_time }, function(data) {
+						if (data != undefined && data != '')
+						{
+							jQuery("#deadline_hint").hide(100).text(data).show(100);
+							return true;
+						}
+						else
+						{
+							jQuery("#deadline_hint").hide().text('');
+							return false;
+						}
+					});
+				}
+			};
+
+			var submit_short_order_form = function()
+			{
+				jQuery("#newOrderFrom").submit();
+			};
+
+			recalculate_pages();
+            jQuery("#id_pages_qty").change(function() { recalculate_pages(); });
+            jQuery("#id_pages_qty").keyup(function() { recalculate_pages(); });
+            jQuery("#id_deadline_time").change(function() { recalculate_deadline(); });
+
+			var check_customer_auth = function(callback_func)
+			{
+				var try_login = jQuery("#id_email").val();
+
+				if (try_login != undefined && try_login != '')
+				{
+					showAuthDialogIfLoginExist("customer", try_login, callback_func, false);
+				}
+				else
+				{
+					if (jQuery.isFunction(callback_func))
+					{
+						callback_func();
+					}
+				}
+
+				return true;
+			};
+
+            // jQuery("#id_email").blur(function() { check_customer_auth(null); });
+			jQuery("#id_subm").click(function() { check_customer_auth(submit_short_order_form); });
+
+		});
+		</script>
+<!--/dynamic--><div id="sidenav">
+	<ul class="r_nav">
+		<li><a href="/essay-help.html">Essay Help</a></li>
+		<li><a href="/research-paper-help.html">Research Paper Help</a></li>
+		<li><a href="/thesis-help.html">Thesis Help</a></li>
+		<li><a href="/creative-writing-help.html">Creative Writing Help</a></li>
+		<li><a href="/coursework-help.html">Coursework Help</a></li>
+		<li><a href="/paper-writing-help.html">Paper Writing Help</a></li>
+		<li><a href="/personal-statement-help.html">Personal Statement Help</a></li>
+		<li><a href="/book-review-help.html">Book Review Help</a></li>
+		<li class="noborder last"><a href="/dissertation-help.html">Dissertation Help</a></li>
+	</ul>
+	<div id="sharks2"></div>
+</div></div>
+<!-- end:Right column --> 
+
+<br clear="all">
+				</div>
+	</div>
+		
+
+<div id="topnav">
+	<div id="mcaffe"> 
+	<!-- START SCANALERT CODE --> 
+		<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=essayshark.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/essayshark.com/22.gif" alt="McAfee SECURE"></a> 
+	<!-- END SCANALERT CODE -->
+	</div>
+
+	<ul id="glob_m">
+		<li><a href="/how-it-works.html">How it works?</a></li>
+		<li><a href="/latest-orders.html">Latest orders</a></li>
+		<li><a href="/blog">Blog</a></li>
+		<li><a href="/login.html">Login</a></li>
+	</ul>
+</div>
+
+<!-- F -->
+
+<div class="footer">
+	<div class="wrap" id="footer">
+		<ul class="important">
+			<li><a href="/about-us.html">About Us</a></li>
+			<li><a href="/terms-and-conditions.html">Terms&amp;Conditions</a></li>
+			<li><a href="/privacy-policy.html">Privacy Policy</a></li>
+			<li><a href="/freelance-writer.html">Register as a Freelance Writer</a></li>
+			<li><a href="/customer-faq.html">FAQ for Customers</a></li>
+		</ul>
+		<ul class="important">
+
+			<li><a href="/contact-us.html">Contact Us</a></li>
+			<li><a href="/blog">Blog</a></li>
+			<li><a href="/resources.html">Resources</a></li>
+			<li><a href="/essay-writers.html">Essay Writers</a></li>
+			<li><a href="/webmaster-affiliate-program.html">Webmaster Affiliate Program</a></li>
+		</ul>
+		<ul class=" ">
+			<li><a href="/essay-help.html">Essay Help</a></li>
+			<li><a href="/research-paper-help.html">Research Paper Help</a></li>
+			<li><a href="/thesis-help.html">Thesis Help</a></li>
+			<li><a href="/creative-writing-help.html">Creative Writing Help</a></li>
+			<li><a href="/coursework-help.html">Coursework Help</a></li>
+		</ul>
+		<ul class=" ">
+			<li><a href="/paper-writing-help.html">Paper Writing Help</a></li>
+			<li><a href="/personal-statement-help.html">Personal Statement Help</a></li>
+			<li><a href="/book-review-help.html">Book Review Help</a></li>
+			<li><a href="/dissertation-help.html">Dissertation Help</a></li>
+		</ul>
+		<p class="f_copy">© 2011 EssayShark.com</p>
+		<a class="gotop" href="#bodystart">Top</a>
+	</div>
+</div>
+
+<!-- end:F --> 
+<img src="/img/common/preloader_horizontal.gif" width="1" height="1" border="0" alt="" title="" style="position:absolute; left:-5000px; top:-5000px;">
+<iframe name="download_ifm" width="1" height="1" scrolling="no" frameborder="0" style="padding:0px; margin:0px; border:0px; /*background-color:#ff0000;*/"></iframe>
+<!--dynamic-->
+
+<script type="text/javascript">
+</script>
+
+<!--/dynamic-->
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Droid+Serif:400,700'] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+
+
+</body></html>
