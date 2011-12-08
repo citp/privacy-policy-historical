@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblesmoothies.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609013337id_/http%3A//www.incrediblesmoothies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblesmoothies.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208024938id_/http%3A//www.incrediblesmoothies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Incredible Smoothies
 
@@ -53,3 +53,5 @@ Incredible Smoothies (http://www.incrediblesmoothies.com) reserves the right to 
 If you do not agree to Incredible Smoothies (http://www.incrediblesmoothies.com) Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy.
+
+[](http://www.1shoppingcart.com/app/?Clk=3612912)
