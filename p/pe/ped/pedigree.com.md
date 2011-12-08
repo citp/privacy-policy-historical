@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pedigree.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210073108id_/http%3A//www.mars.com/global/policies/privacy/pp_english.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedigree.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208234335id_/http%3A//www.mars.com/global/policies/privacy/pp_english.asp) for the most accurate reproduction.*
 
-# Mars.com - PP_English
+# Mars Privacy Policy | Mars
 
 Mars Privacy Policy
 
@@ -23,7 +23,7 @@ Please take a moment to review our policy in detail. To assist you, we offer thi
 
 
 
- **When do we collect personal information?**
+**When do we collect personal information?**
 
 We collect personal information, such as names, addresses, e-mail addresses, hobby or activity information, demographic information (age, gender, etc.), employment and job preferences, taste or other preference information, and the like, when voluntarily submitted by a visitor. Visitors may choose to submit personal information online to enter contests, to obtain information or submit a comment, to register for a loyalty program or chat room, or to place an order. We may also obtain contact lists, demographic, and other information from other sources. For the convenience of our customers and to better serve you, we combine the data. You can update or correct your contact information or change your preferences about receiving offers and information from us at any time.
 
@@ -41,27 +41,27 @@ Personal information is used solely by us, and our employees, affiliates, agents
 
 **How do we use "cookies" and Web beacons?**
 
- _What are cookies?_
+_What are cookies?_
 
 “Cookies” are data files that a Web site sends to your computer while you are viewing the site. These data files include information that allows our site to remember important information that will make your use of the site more efficient and useful to you. Our sites use cookies for a variety of purposes. We use cookie technology and IP addresses to obtain non-personal information from online visitors, and also to provide registered visitors with the best possible personalized online experience.
 
- _How do we use cookies?_
+_How do we use cookies?_
 
 Visitors to our sites use different web browsers and different computers. To make your visits as easy as possible with the technology you use, we automatically keep track of the type of browser (e.g., Internet Explorer, Netscape) and operating system (e.g., Windows, Macintosh) used by a visitor, and the domain name of the visitor's Internet service provider. We also track the total number of visitors to our site in an aggregate form to allow us to update and improve our site; personally identifiable information is not extracted in this process. This data tells us if more visitors prefer certain features or areas to others, which helps us keep our site fresh and interesting to the majority of our visitors. We also use cookies to help prevent children from entering certain areas or features intended only for adults or teens.
 
- _How do we use cookies to personalize your experience at our sites?_
+_How do we use cookies to personalize your experience at our sites?_
 
 Cookie technology helps us deliver content tailored to a visitor’s interests, and allows us to make ordering products, entering and participating in sweepstakes and contests, and offering other functions at our site easier for our visitors. Sites that offer online shopping use cookies to remember and process the items in your shopping cart. Where permitted, we may associate personal information with a cookie file in such instances.
 
- _What if you don´t want cookies?_
+_What if you don´t want cookies?_
 
 If you don't want cookies, you can set your computer to warn you each time a cookie is being sent or turn off all cookies through your browser (e.g., Internet Explorer or Netscape Navigator). (Check your browser HELP menu to learn the correct way to change or update your cookies.).
 
- _What are Web beacons and how do we use them?_
+_What are Web beacons and how do we use them?_
 
 Some of our Web pages and e-mail updates may contain electronic images called Web beacons, sometimes known as one pixel GIFs, clear GIFs or pixel tags. On Web sites, these allow us to count visitors who have viewed our pages. In promotional e-mail messages/newsletters they allow us to count how many subscribers have read them. Web beacons allow us to develop statistical information about the activities and features that most interest our consumers for the purpose of providing more personalized content. They are not used to access personally identifiable information without your consent.
 
- **What about chat rooms, message boards, or other interactive forums?**
+**What about chat rooms, message boards, or other interactive forums?**
 
 We may offer chat rooms, message or bulletin boards, or interactive areas where visitors may post comments or information for our visitors’ enjoyment. If there is a chat room, bulletin or message board, social networking opportunities or other interactive areas where personal information may be posted at this site, be sure to check posted rules before entering, as you will be bound by them as well as our General Terms and Conditions. Rules for participation in interactive features may establish age and other restrictions on participation. As you know, anything you post online is available for the world to see. We make no representations and undertake no obligations as to information you voluntarily post. 
 
@@ -85,4 +85,4 @@ We reserve the right to use or disclose any personal information as needed to sa
 
 If you would like us to access, update, change, or delete information we have about you in our marketing database (subject to any applicable legal exceptions), would like to opt out of receiving further communications from us, or have questions about our privacy policy, please [click here](mailto:privacy@mars.com). 
 
-**Date: July 2009**
+**Date: May 2011**
