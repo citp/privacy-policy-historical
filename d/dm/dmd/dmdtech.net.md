@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmdtech.net privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601211800id_/http%3A//www.dmdtech.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmdtech.net privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208081412id_/http%3A//www.dmdtech.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technology and Gadget Page
 
