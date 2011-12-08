@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organic.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618052248id_/http%3A//www.organic.com/en_US/Main%2BSite%2BNavigation/Footer%2BNavigation/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organic.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208104745id_/http%3A//www.organic.com/en_US/Main%2BSite%2BNavigation/Footer%2BNavigation/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
 
 # Organic, Inc.
 
