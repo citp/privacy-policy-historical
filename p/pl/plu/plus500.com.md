@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plus500.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209103108id_/http%3A//www.plus500.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus500.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208162847id_/http%3A//www.plus500.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Plus500 | Privacy Policy
 
@@ -44,3 +44,14 @@ You are entitled to ask for a copy of the information we hold about you (for whi
 **When and how to contact us**
 
 If your personal details change, if you have any queries about how we use your information, or wish to help us improve this Policy, please notify us by contacting us at: [support@plus500.com](mailto:support@plus500.com)
+
+**Opt-out from receiving future communications from Plus500**
+
+Simply edit your preferences in the main lobby by clicking on 'Account' from the top menu and selecting 'Notifications'. Untick all checkboxes to prevent any email/sms messages from Plus500.  
+If you wish to remove your contact details from the database, you should send an email to our customer support: [support@plus500.com](mailto:support@plus500.com)
+
+**Office Address**  
+Plus500UK Limited  
+359 Goswell Road  
+London  
+EC1V 7JL
