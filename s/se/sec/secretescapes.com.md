@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secretescapes.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609184551id_/http%3A//www.secretescapes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretescapes.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208160943id_/http%3A//www.secretescapes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Secret Escapes
 
 Secret Escapes Ltd is a UK registered company that wholly owns and operates the website secretescapes.com. This privacy policy refers to your use of the Secret Escapes website and the information that we may collect from you as you do so. 
 
