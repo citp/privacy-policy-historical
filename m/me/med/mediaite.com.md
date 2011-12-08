@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaite.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609234752id_/http%3A//www.mediaite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaite.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208025152id_/http%3A//www.mediaite.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mediaite
 
