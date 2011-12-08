@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elleandblair.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401112811id_/http%3A//www.elleandblair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elleandblair.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208235212id_/http%3A//www.elleandblair.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,6 +71,6 @@ If you would like to communicate with us about this Privacy Policy or EQAL's col
 or write to us at
 
 Privacy, EQAL, Inc.,  
-15260 Ventura Blvd., Suite 800  
-Sherman Oaks, CA 91403  
+5250 Lankershim Blvd., Suite 720  
+North Hollywood, CA 91601  
 Attn: Paras Maniar
