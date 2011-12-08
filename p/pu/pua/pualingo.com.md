@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pualingo.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609181452id_/http%3A//www.pualingo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pualingo.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209004034id_/http%3A//www.pualingo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PUA Lingo The #1 Pick Up Artist Encyclopedia
+# Privacy Policy | Pick Up Artist and PUA Lingo
 
 The privacy of our visitors to PuaLingo.com is very important to us.
 
