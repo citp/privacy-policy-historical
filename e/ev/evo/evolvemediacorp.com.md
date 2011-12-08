@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolvemediacorp.com privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117053642id_/http%3A//www.evolvemediacorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolvemediacorp.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208220737id_/http%3A//www.evolvemediacorp.com/privacy-policy) for the most accurate reproduction.*
 
 # Evolve - Evolve Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **  Privacy Policy**
 
-This privacy policy was last modified on January 4, 2011. 
+This privacy policy was last modified on September 8, 2011. 
 
 Evolve Media Corp., the owner and operator of EvolveMediaCorp.com (“Company,” “we,” or “us”) knows that you care how information about you is used and shared.  This Privacy Policy explains what information of yours will be collected by Company when you use the Site and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy. 
 
@@ -64,9 +64,15 @@ Your Choices About Your Information
 
 You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you. 
 
-**Children’s Privacy**
+**Children’s Privacy Policy**
 
-Protecting the privacy of young children is especially important.  For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at legal[at]EvolveMediaCorp.com. 
+_General.   _Protecting the privacy of young children is especially important. Some of the promotions offered by Company may be directed in whole or in part to children under the age of 13. Generally, we do not directly or indirectly collect personally-identifiable information from children under the age of 13 in connection with these promotions. For some promotions, children are allowed to send preprogrammed messages to friends regarding a particular feature of the site. In these instances, the child is prompted to enter the email addresses of his or her friends and some other non-identifiable information, such as his or her first name only. This information is automatically discarded as soon as the preprogrammed message is delivered. From time to time, however, we may request limited personally-identifiable information in order to conduct online contests or sweepstakes. Our practices with respect to collection of personally-identifiable information from children under the age of 13 are described below. We do not condition a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to engage in the activity. In addition, a parent may at anytime review any personally-identifiable information collected about their child under the age of 13, have this information deleted and prohibit further collection or use of the child's information (although this may require the child to forfeit any prize won in a sweepstakes or contest).
+
+_Information Collected in Contests and Sweepstakes._ Company occasionally offers contests and/or sweepstakes on websites owned by Company or on third party websites directed in whole or in part to children under the age of 13. **Our contests and sweepstakes are designed in such a manner that a child under the age of 13 is not required to provide any personally- identifiable information about him/herself prior to being named a winner.** To participate in these contests or sweepstakes, however, we may require the child to provide a screen name and a parent's e-mail address. We send an email notification to the parent’s email address only if the child has been selected as a potential winner of the contest or sweepstakes. The parent must then respond to the email notification by the deadline provided in the email notification, and must also complete and submit any prize claim documents in accordance with any instructions provided by the Company or as set forth in the official rules for the contest or sweepstakes.
+
+The parental email address collected from each child is used solely to notify the parent if his/her child is a potential winner of the contest or sweepstakes, and it is not provided to any third party except those third parties we have engaged to assist us in running the contest or sweepstakes. These third parties are required to maintain the parental email in confidence and may only use it in connection with the services they are providing to us. The information collected from winners may be (i) used in advertising and promotional activities relating to our contest and/or sweepstakes, which may include making certain of this information publicly available, and (ii) passed on to third parties for the purpose of awarding prizes, and, depending on the type of prize, these third parties may not be prohibited from using the information for purposes other than awarding the prize (such as marketing or advertising). **Again, please note that personally-identifiable information is only collected from the parents of children under the age of 13 who have potentially won a prize, and only after the parent consents to the award of the prize and the disclosure of the information**.
+
+_Contact Information._   If you have any questions about our Children's Privacy Policy, please do not hesitate to contact us at legal[at]evolvemediacorp.com. 
 
 Links to Other Web Sites 
 
