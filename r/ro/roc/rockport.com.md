@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockport.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625060304id_/http%3A//www.rockport.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockport.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208070519id_/http%3A//www.rockport.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # eCommerce Solutions On-Demand | Demandware Privacy Policy
 
