@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hyipblogger.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625193240id_/http%3A//hyipblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyipblogger.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208160116id_/http%3A//hyipblogger.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HYIPBlogger HYIP Blog: Walkthroughs, Reviews, Monitoring, Investing
+# Privacy Policy | HYIP Blogger: Walkthroughs, Reviews, Monitoring, Investing
 
 Your privacy is of the greatest importance to HYIPBlogger.com. We will not rent, sell, lease, or give away any of your personal information. The following outlines our privacy policy. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here. 
 
