@@ -1,24 +1,46 @@
-> *The following text is extracted and transformed from the dotti.com.au privacy policy that was archived on 2011-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110323201958id_/http%3A//www.dotti.com.au/About-Dotti/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotti.com.au privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208024648id_/http%3A//www.dotti.com.au/webapp/wcs/stores/servlet/PrivacyPolicyView%3FcatalogId%3D10021%26langId%3D-1%26storeId%3D10352) for the most accurate reproduction.*
 
-# Privacy Policy - Dotti Nation
+# Privacy • Dotti
 
-Your privacy is as precious to us a finding a pair of sky-scraping Louboutins in the bargain bin at the local op-shop. The following info may be a little heavy reading but it is still as important to us as you are.
+## 1\. Privacy is important.
 
-#### PRIVACY IS IMPORTANT
+We recognise that privacy of personal information is important to individuals. Personal information for our business purposes is to be minimal, private, correct, safe and largely in the control of the individual. Except where otherwise legally appropriate we will treat your personal information as private. 
 
-We recognise that privacy of personal information is important to individuals. Personal information for our business purposes is to be minimal, private, correct, safe and largely in the control of the individual. Except where otherwise legally appropriate we will treat your personal information as private.
+## 2\. Your say on your privacy.
 
-#### YOUR SAY ON YOUR PRIVACY
+If you have a particular concern or query about your personal information held by us you should contact our Privacy Officer (P.O Box 2196 Richmond South Vic 3121, [privacyofficer@jjh.com.au](mailto:privacyofficer@jjh.com.au) \- Ph. 1800 333232 ) whom we have appointed for your assistance.
 
-If you have a particular concern or query about your personal information held by us you should contact out Privacy Officer (P.O Box 2196 Richmond South Vic 3121, privacyofficer@jjh.com.au - Ph. 1800 333232) whom we have appointed for your assistance.
+##  3\. The nature of our business.
 
-#### THE NATURE OF OUR BUSINESS
+We are principally a retailer. Retailing can utilise a number of facilities and functions including shops (off the street and in shopping centres), the Internet, promotional material (using various forms including paper and electronic mail outs), credit and other card systems, lay by arrangements and reward schemes. As a successful and long established retailer we carry out any or all of these means of business from time to time. We have built an enviable reputation as one of Australia's largest specialty retailing groups upon servicing our customers.
 
-We are principally a retailer. Retailing can utilise a number of facilities and functions including shops (off the street and in shopping centres), the Internet, promotional material (using various forms including paper and electronic mail outs), credit and other card systems, layby arrangements and reward schemes. As a successful and long established retailer we carry out any or all of these means of business from time to time. We have built an enviable reputation as one of Australia's largest specialty retailing groups upon servicing our customers.
+## 4\. Obtaining personal information.
 
-#### OBTAINING PERSONAL INFORMATION
+Because of the nature of our business it is necessary to obtain personal information from time to time. We will however not be unduly intrusive nor obtain or use information in an inappropriate manner. We will only ask for and use personal information we reasonably need to conduct our business. If you have received any promotional material and do not wish to receive it then upon letting us know we will not send it to you.
 
-Because of the nature of our business it is necessary to obtain personal information from time to time. We will however not be unduly, intrusive nor obtain or use information in an inappropriate manner. We will only ask for and use personal information we reasonably need to conduct our business. If you have received any promotional material and do not wish to receive it then upon letting us know we will not send it to you.
+## 5\. Safekeeping and need to know handling.
 
-  
-Our website may use cookies which are small data files that are stored on your computer when you visit a website. They are used on our website to track anonymous traffic data. If our website has online shopping facilities, cookies enable you to shop and may be used to personalise or enhance your online shopping and browsing experience. If you do not enable cookies, you will not be able to shop online on our website.
+As part of us keeping your personal information private we only allow access on a need to know basis.
+
+##  6\. Your access and control.
+
+However, in accordance with the privacy law we give you access to your personal information we hold and you can correct misinformation (except where it would be inappropriate or exempted by law e.g. - where it would require disclosing someone else's personal information, but we will provide you with reasons).
+
+##  7\. Confidence. 
+
+It is important for us that persons with whom we do business have confidence that we handle information responsibly and it is our policy to do this. 
+
+## Privacy Statement
+
+The organisation collecting your personal information is Dotti Trademark Pty Ltd (ABN 83 110 113 034 ) ('Dotti').  
+Dotti uses the personal information you provide for the following purposes:
+
+1\. to process and fulfil your shopping orders;  
+2\. to enable you to participate in activities offered by the site;  
+3\. to send you material about Dotti products and offers, if your profile is set to receive such material;  
+4\. to enable you to post ratings, reviews and comments on the site; and  
+5\. to improve Dotti's services; 
+
+If you do not provide the personal information requested you will not be able to use the services offered by the site. Your personal information may be provided to third party organisations who assist Dotti to maintain the site, provide the services offered by the site, analyse use of the site and/or if required by law.
+
+You are entitled to access and update your personal information collected by Dotti. You can log in to your profile and do it yourself, or contact the Privacy Officer on 1800 333 232  or email [privacyofficer@jjh.com.au](mailto:privacyofficer@jjh.com.au).
