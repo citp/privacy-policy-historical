@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626003439id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208154036id_/http%3A//www.modernhealthcare.com/article/20100101/INFO/100209995) for the most accurate reproduction.*
 
-# Privacy Policy and Rules - Healthcare business news, research, information and opinions | Modern Healthcare
+# Privacy Policy and Rules - Healthcare business news and research | Modern Healthcare
 
 Modernhealthcare.com is the Web site of _Modern Healthcare_ , a publication of Crain Communications Inc. Our postal address is 360 N. Michigan Avenue, Chicago, IL 60601. We can be reached by e-mail at mheditorial@crain.com or by telephone at 312-649-3173. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions.
 
