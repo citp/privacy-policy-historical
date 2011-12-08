@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207061639id_/http%3A//medicareaustralia.gov.au/about/privacy-security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208212354id_/http%3A//www.medicareaustralia.gov.au/about/privacy-security.jsp) for the most accurate reproduction.*
 
 # Privacy and security - Medicare Australia
 
@@ -102,13 +102,13 @@ Requests for statistical data must be submitted by completing the clarification 
 
 The completed clarification form can be sent to:
 
-Client Liaison unit  
+Information Strategy  
 Information Management branch  
 Medicare Australia  
 PO Box 1001  
 Tuggeranong DC ACT 2901
 
-[Statistical data is available online](https://web.archive.org/about/stats/index.jsp) or contact the Information Management branch on **1800 101 099** for more information.
+[Statistical data is available online](https://web.archive.org/about/stats/index.jsp) or contact the Information Management Branch on **1800 101 099** for more information.
 
 ## Contact our privacy area
 
@@ -119,8 +119,6 @@ Medicare Australia
 Ombudsman Privacy and FOI branch  
 PO Box 1001  
 Tuggeranong DC ACT 2901
-
-Or email [co.privacy@medicareaustralia.gov.au](mailto:co.privacy@medicareaustralia.gov.au)
 
 ## Useful links
 
@@ -172,4 +170,4 @@ While Medicare Australia endeavours to make our website secure, users should be 
 
 Despite its best efforts, Medicare Australia does not warrant that the information in its website is free from infection by computer viruses or other contamination.
 
-Last updated: 12 November, 2010
+Last updated: 23 November, 2011
