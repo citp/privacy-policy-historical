@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fox19.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314085607id_/http%3A//www.fox19.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox19.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208041525id_/http%3A//www.fox19.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FOX19.com and FOX19 News, weather, traffic, and sports for Cincinnati and Northern Kentucky |
+# Privacy Policy - FOX19 News and Weather - Greater Cincinnati Area
 
 **This Website's Privacy Policy**
 
