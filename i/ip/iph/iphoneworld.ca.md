@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphoneworld.ca privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630112418id_/http%3A//www.iphoneworld.ca/about-iphone-world/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphoneworld.ca privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208030651id_/http%3A//www.iphoneworld.ca/about-iphone-world/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iPhone World
 
