@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stunicholls.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604032428id_/http%3A//www.stunicholls.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stunicholls.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208081052id_/http%3A//www.stunicholls.com/privacy.html) for the most accurate reproduction.*
 
 # stu nicholls dot com | privacy policy
 
