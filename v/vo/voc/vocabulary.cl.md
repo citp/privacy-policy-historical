@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vocabulary.cl privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511002020id_/http%3A//www.vocabulary.cl/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocabulary.cl privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208195430id_/http%3A//www.vocabulary.cl/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy Vocabulary.cl
+# Privacy Policy
+
+## www.vocabulary.cl
 
 Vocabulary.cl is committed to ensuring your privacy is protected. Any information that you provide to Vocabulary.cl by which you can be identified will be used only in accordance with the privacy policy stated below.
 
