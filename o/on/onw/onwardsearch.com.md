@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onwardsearch.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531101854id_/http%3A//www.onwardsearch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onwardsearch.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208065305id_/http%3A//www.onwardsearch.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Onward Search
 
