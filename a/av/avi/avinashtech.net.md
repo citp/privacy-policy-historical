@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avinashtech.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523013548id_/http%3A//www.avinashtech.net/important-announcements/285.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avinashtech.net privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208080458id_/http%3A//www.avinashtech.net/important-announcements/285.htm) for the most accurate reproduction.*
 
 # Privacy Policy for www.avinashtech.net
 
@@ -25,7 +25,7 @@ These third-party ad servers or ad networks use technology to the advertisements
 >  You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.[ www.avinashtech.net’s](http://www.avinashtech.net/) privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
 >  If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-> Last edited by Avinash; 29-07-10 at 11:19 AM. 
+> Last edited by Avinash; 29-07-10 at 12:19 PM. 
 
 * * *
 
