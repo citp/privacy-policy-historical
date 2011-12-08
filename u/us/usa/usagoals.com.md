@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usagoals.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609205147id_/http%3A//www.usagoals.com/page/cat/3-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usagoals.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208040501id_/http%3A//www.usagoals.com/page/cat/3-privacy) for the most accurate reproduction.*
 
 # USAGoals.com - Privacy
 
