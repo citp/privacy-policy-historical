@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zinescripts.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610143817id_/http%3A//www.zinescripts.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zinescripts.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208233841id_/http%3A//www.zinescripts.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZineScripts.com - Awesome Web Apps
 
