@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fourseasons.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623034422id_/http%3A//www.fourseasons.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fourseasons.com privacy policy that was archived on 2011-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111208042248id_/http%3A//www.fourseasons.com/privacy) for the most accurate reproduction.*
 
 # Four Seasons Hotels and Resorts
 
@@ -178,7 +178,7 @@ The stored information includes your name, contact information, credit card numb
 
 **5. _In Our Marketing Database_**
 
-Four Seasons maintains a database of Guest and Owner information which is used for marketing, promotion and research purposes. Guests and Owners will only receive such information if they have provided permission on their Hotel registration form, on the Four Seasons web site, or in some other form. Any information sent provides a clear notice of how to discontinue receiving promotional materials. 
+Four Seasons maintains a database of Guest and Owner information which is used for marketing, promotion and research purposes. Guests and Owners will only receive such information if they have provided permission on their Hotel registration form, on the Four Seasons web site, or in some other form (such as through the "By Invitation" promotion). Any information sent provides a clear notice of how to discontinue receiving promotional materials. 
 
 * * *
 
@@ -198,7 +198,7 @@ If I have created a Guest Profile, how is my Personal Information treated?
 
 * * *
 
-If you are invited and elect to create a Guest Profile, on our web site, you will be asked to furnish specific Personal Information. You will also be asked to provide a password for use each time you log-in. Once you have created a Guest Profile, we may add online session data to your Guest Profile on subsequent visits to our website. When you provide information, including revised information to your Guest Profile, we may use the information you provide to update other databases maintained by us. 
+If you are invited, whether through the "By Invitation" promotion or otherwise, and elect to create a Guest Profile, on our web site, you will be asked to furnish specific Personal Information. You will also be asked to provide a password for use each time you log-in. Once you have created a Guest Profile, we may add online session data to your Guest Profile on subsequent visits to our website. When you provide information, including revised information to your Guest Profile, we may use the information you provide to update other databases maintained by us. 
 
 By completing your Guest Profile you are considered to have provided consent to share your Personal Information within Four Seasons in accordance with this Privacy Policy. 
 
