@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the allfreeessays.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212152719id_/http%3A//allfreeessays.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreeessays.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209025531id_/http%3A//www.allfreeessays.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AllFreeEssays.com
 
 Welcome to AllFreeEssays.com! When you register with us or use AllFreeEssays.com, you provide information to us. Below, we explain what information is collected, how it is used to your benefit, under what circumstances your information may be disclosed, and the choices that you have with your information
 
-* ### Information Collected by AllFreeEssays.com
+* ### Information Collected by Our Site
 
 AllFreeEssays.com is provided by The Paper Database, Inc. and its affiliates ("we" or "us"). Registration with us is optional, but please keep in mind that you may not be able to use many of the services on AllFreeEssays.com unless you register with us. Depending on how you interact with AllFreeEssays.com, you provide us with information, which may include: (a) your name, email address, age (to comply with legal requirements), user name, password, postal code, gender and other registration information; (b) your interaction with AllFreeEssays.com features and advertisements; (c) transaction-related information, such as, when you make purchases, respond to any offers, or download software from us; and (d) information you provide us when you contact us for help.
 
-We also collect other non-personally identifiable data, which may include your IP address and what browser you are using so that we can improve AllFreeEssays.com's services to you.
+We may also collect other information when users interact with AllFreeEssays.com, such as city, state, zip code, country and IP address that does not identify a person individually, so that we can improve AllFreeEssays.com's services to you.
 
 * ### Use of Information
 
@@ -66,8 +66,8 @@ If you have any questions or concerns about AllFreeEssays.com's Privacy Policy o
 
 By mail:   
 AllFreeEssays.com  
-127 S. Brand Blvd., Suite 109  
-Glendale, CA 91204 USA 
+8939 1/2 Santa Monica Blvd  
+West Hollywood, CA 90069 USA 
 
 By email:   
 privacy@allfreeessays.com 
@@ -88,4 +88,4 @@ You are entitled to receive a copy of this information in a standardized format 
 
 We may update this Privacy Policy from time to time. Therefore, you should review this Policy periodically. If there are significant changes to our information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from us, as well as for special features and services not described in this Policy that may be introduced in the future.
 
-Last Updated 01-21-2009
+Last Updated: November 29, 2011
