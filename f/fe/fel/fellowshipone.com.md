@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fellowshipone.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610051716id_/http%3A//www.fellowshipone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fellowshipone.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209130849id_/http%3A//www.fellowshipone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last revised: 1/31/2011
+Last revised: 8/18/2011
 
 Fellowship Technologies is committed to your right to privacy and has established a privacy program and designated individuals responsible to help us respect and protect your data privacy rights. As a visitor to our website or user of our product, you deserve the ability to control the uses of your personal information.
 
@@ -58,17 +58,13 @@ We encourage our users to update our record of any personal information that cha
 
 Fellowship Technologies will update this policy from time to time. A "last revised" date will always be included on the bottom of the statement. To keep up-to-date with Fellowship Technologies’ policy, please check this page periodically.
 
-### U.S. - EU Safe Harbor Privacy Statement
-
-Fellowship Technologies is committed to handling personal information in accordance with the U.S. - EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company’s certification, please visit <http://www.export.gov/safeharbor/>
-
 ### Contacting the Website
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact us on [cpo@fellowshiptech.com](mailto:cpo@fellowshiptech.com).
 
 ### Headquarters
 
-Fellowship Technologies  
+Fellowship Technologies, part of Active Network  
 6363 N State Hwy 161  
 Suite 200  
 Irving, TX 75038  
