@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnainsurance.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512195025id_/http%3A//www.apnapaisa.com/corporate/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnainsurance.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209021320id_/http%3A//www.apnapaisa.com/corporate/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,9 +87,13 @@ We need to share your information with certain service partners in order to resp
 
 
 
+**To unsubscribe and stop receiving loan / insurance offers,[click here](http://www.apnapaisa.com/unsubscribe.html)**  
+ 
+
 **To correct inaccuracies in the information you can**
 
   * Send an e-mail to service@apnapaisa.com 
-  * Call the following telephone number: 91 (22) 24172427
+  * Call the following telephone number: 91 (22) 6613 1900  
+
 
 
