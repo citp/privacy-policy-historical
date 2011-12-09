@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the tuscl.net privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305183047id_/http%3A//www.tuscl.net/b.php%3FAID%3D66) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuscl.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/postread.php%3FPID%3D640) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
+Got something to say? [Start Your Own Discussion!](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/de.php) It's Free!     **Would you like 4 weeks free VIP time?** [Click here to write your own Article](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/ae.php)
+
+[ ](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/u.php?UID=171458 "View founder's Profile") [founder](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/u.php?UID=171458 "View founder's Profile") [](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/ms.php?ToUserID=171458 "Send Private Message to founder")   [](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/ignore.php?UserID=171458 "Ignore founder")   
 This is the web site of The Ultimate Strip Club List. We can be contacted via [our contact page](http://www.tuscl.net/contact.php).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
@@ -14,3 +17,5 @@ With respect to cookies: We use cookies to store visitors preferences, record se
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.  
 Our privacy policy is simple. We don't share any of your information with anyone. We will use your email address to send you pertinent information about your membership at The Ultimate Strip Club List. That's about it. If you choose to publish your email on www.tuscl.net, then other members and non-members may have access to it.
+
+Got something to say? [Start Your Own Discussion!](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/de.php) It's Free!     **Would you like 4 weeks free VIP time?** [Click here to write your own Article](https://web.archive.org/web/20111209232517id_/http%3A//www.tuscl.net/ae.php)
