@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the socialcast.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105080628id_/http%3A//www.socialcast.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialcast.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209121011id_/http%3A//www.socialcast.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy and Security
+# Socialcast Privacy and Security Policy | Socialcast
 
 ##  Privacy Policy 
 
-Thank you for visiting our website. We are committed to protecting our visitors’ and members’ privacy. The following Privacy Policy outlines the information Socialcast, Inc. (“Socialcast” or the “Company”) may collect and how we may use that information to better serve visitors and members. 
+**_Please note that we have made several changes to our Privacy Policy. In this new version, effective September 8, 2011, we are adding the right to use your personal information to send you newsletters, other promotional materials, and surveys. Please read our privacy policy to learn about your choices._ **
 
-This privacy statement describes how Socialcast collects and uses the personal information you provide on our Web site: [www.socialcast.com](http://www.socialcast.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+Version 2.0 Effective September 8, 2011 
 
-Socialcast is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.socialcast.com](http://www.socialcast.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Thank you for visiting our website. We are committed to protecting our visitors’ and members’ privacy. The following Privacy Policy outlines the information Socialcast, Inc., a VMware company (“Socialcast” or the “Company”) may collect and how we may use that information to better serve visitors and members. 
 
-If you have questions or concerns regarding this statement, you should first contact Michelle Horton at michelle@socialcast.com . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should [ contact TRUSTe. ](http://watchdog.truste.com/pvr.php?page=complaint&url=) TRUSTe will then serve as a liaison with us to resolve your concerns. 
+This privacy statement describes how Socialcast collects and uses the personal information you provide on our Web site: [ www.socialcast.com. ](https://web.archive.org/web/20111209121011id_/http%3A//www.socialcast.com/www.socialcast.com) It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-Socialcast complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+Socialcast has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements ](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy statement covers the Web site www.socialcast.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.If you have questions or complaints regarding our privacy policy or practices, please contact Michelle Horton at hortonm@vmware.com. If you are not satisfied with our response you can contact [ TRUSTe here. ](http://watchdog.truste.com/pvr.php?page=complaint)
 
-The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Website. 
+Socialcast complies with the U.S. – E.U. Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at http://export.gov/safeharbor. 
 
 BY USING OUR WEBSITE, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY. Please review the following carefully so that you understand our privacy practices in regards to: 
 
@@ -42,17 +42,18 @@ Upon registration with the Company, a user profile is developed to further custo
 
 
 
-Once you use the service, we may also collect other information from you, if you provide such information while using the service. The information may include, but is not limited to: 
+Once you use the service, we may also collect other information from you, if you provide such information while using the service. The information may include, but is not limited to: Demographic information such as age, education, job title, business unit, department, start date, usernames, application usage, gender, location, interests and zip code. Because user privacy is important to us, access to the raw user data is restricted within the Company to our data scientists and authorized employees. After the data is scrubbed of personally identifiable information, we use this information internally to analyze general usage patterns and determine how users are using different aspects of the service in order to improve it and provide a better experience to our members. 
 
-Demographic information such as age, education, job title, business unit, department, start date, usernames, application usage, gender, location, interests and zip code. Because user privacy is important to us, access to the raw user data is restricted within the Company to our data scientists and authorized employees. After the data is scrubbed of personally identifiable information, we use this information internally to analyze general usage patterns and determine how users are using different aspects of the service in order to improve it and provide a better experience to our users. 
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to: 
+We use this information to: 
 
-  * Send you requested product or service information 
+  * Send you product, service, and new feature information 
   * Respond to customer service requests 
+  * Respond to requests for pricing information 
   * Respond to your questions and concerns 
-  * Display content based upon your interests 
   * Provide a customized experience 
+  * Send you newsletters and other promotional communications to enhance your experience with our products and services 
 
 
 
@@ -64,15 +65,15 @@ In addition, tracking information may be collected as you navigate through our s
 
 Among our primary goals in collecting information is to provide you with a customized experience when visiting our site and to make our site more valuable to you. We use this information to closely monitor which areas of the site are used most and to determine which areas we need to focus on improving. As indicated above, access to identifiable information is restricted, and information in aggregate form is used by the Company so that we may continue to improve the value of the services and information on our website for our members as a whole. 
 
-The Company uses your Internet Protocol (IP) address to help diagnose problems with our computer server, and to administer our web site(the "Website"). Your IP address is used to help identify you, and to gather broad demographic data. Your IP address contains no personal information about you. 
+The Company uses your Internet Protocol (IP) address to help diagnose problems with our computer server, and to administer our web site (the "Website"). Your IP address is used to help identify you, and to gather broad demographic data. Your IP address contains no personal information about you. 
 
 Users of our website should be aware that non-personal information and data may also be automatically collected by virtue of the standard operation of the Company’s computer servers or through the use of “cookies”. Cookies are files a website can use to recognize repeat users, and allow a website to track web usage behavior. Cookies take up minimal room on your computer and cannot damage your computer’s files. Cookies work by assigning a number to the user that has no meaning outside of the assigning website. Users should be aware that the Company cannot control the use of cookies (or the resulting information) by third-parties. If you do not want information to be collected through the use of cookies, your browser allows you to deny or accept the use of cookies. There may, however, be some features on the website which require the use of cookies in order to customize the delivery of information to you. 
 
 ###  Information Sharing 
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. The Company does not sell or rent personal information about its customers to any third parties. In the event the Company does engage in such commerce in the future, notice will be given and you will have an opportunity to remove yourself from any such lists prior to your inclusion therein by emailing us at [support@socialcast.com](mailto:%73%75%70%70%6F%72%74%40%73%6F%63%69%61%6C%63%61%73%74%2E%63%6F%6D). The Company may, however, perform statistical analysis of customer usage in order to measure interest in, and use of, the various parts of the Website, and the Company may share that information in the course of its business, but such shared information shall be in aggregated form only (statistics, etc.), and will contain no personally identifiable information whatsoever. 
+We will share your personal information with third parties only in the ways that are described in this privacy policy. The Company does not sell or rent personal information about its customers to any third parties. In the event the Company does engage in such commerce in the future, notice will be given and you will have an opportunity to remove yourself from any such lists prior to your inclusion therein by emailing us at [ support@socialcast.com. ](mailto:support@socialcast.com) The Company may, however, perform statistical analysis of customer usage in order to measure interest in, and use of, the various parts of the Website, and the Company may share that information in the course of its business, but such shared information shall be in aggregated form only (statistics, etc.), and will contain no personally identifiable information whatsoever. 
 
-We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+We may provide your personal information to companies that provide services that help us with our business activities such as offering customer service or sending out emails on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
 We may also disclose your personal information: 
 
@@ -89,7 +90,11 @@ You should be aware that if you voluntarily disclose personal information in pub
 
 This Website may also contain links to other websites. The Company is not responsible for the privacy practices or the content of such third party websites. 
 
-#####  Cookies and Other Tracking Technologies 
+#####  _Choice/Opt-Out_
+
+If you no longer wish to receive our newsletter or promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication. 
+
+#####  _Cookies and Other Tracking Technologies_
 
 We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information. 
 
@@ -105,25 +110,31 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ###  Security 
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet, and any information you transmit to the Company you do at your own risk. We recommend that you not disclose your password to anyone. 
+We follow generally accepted industry standards to protect personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet, and any information you transmit to the Company you do at your own risk. We recommend that you not disclose your password to anyone. 
 
-`If you have any questions about security on our Web site, you can contact us at [info@socialcast.com](mailto:%69%6E%66%6F%40%73%6F%63%69%61%6C%63%61%73%74%2E%63%6F%6D). 
+If you have any questions about security on our Web site, you can contact us at [info@socialcast.com](mailto:%69%6E%66%6F%40%73%6F%63%69%61%6C%63%61%73%74%2E%63%6F%6D). 
 
 ###  Additional Policy Information 
 
 Our Web site may include Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
 
-Our Web site may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. 
+Our Web site may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [ support@socialcast.com. ](mailto:support@socialcast.com) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+
+###  Surveys 
+
+From time-to-time we may use your information to contact you to complete surveys that we use for marketing and quality assurance purposes. We may use a third party service providers to conduct these surveys on our behalf; that company is prohibited from using our customers’ personally identifiable information for any other purpose. 
 
 ###  Updating/Accessing/Amending/Correcting Personally Identifiable Information 
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete or remove, by making the change on our member information page or by emailing our Customer Support at [support@socialcast.com](mailto:support@socialcast.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 5 days. 
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete or remove information by making the change on our member information page, emailing our Customer Support at [ support@socialcast.com ](mailto:support@soialcast.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within 5 business days. 
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [ support@socialcast.com. ](mailto:support@socialcast.com) We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 #####  Notification of Privacy Statement Changes 
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. This Privacy Policy is effective as of August 16, 2010. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. 
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. This Privacy Policy is effective as of September 8, 2011. This Privacy Policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party 
 
 #####  Contact Information 
 
