@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailycandy.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628234355id_/http%3A//www.dailycandy.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycandy.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209155722id_/http%3A//www.dailycandy.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - DailyCandy
 
-DailyCandy, Inc. takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you visit our website and/or register for your sugar fix. Please read this notice carefully.
+DailyCandy, LLC takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you visit our website and/or register for your sugar fix. Please read this notice carefully.
 
 ##### Personal Information
 
