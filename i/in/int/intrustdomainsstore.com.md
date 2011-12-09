@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intrustdomainsstore.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622052352id_/http%3A//intrustdomainsstore.com/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intrustdomainsstore.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209124427id_/http%3A//intrustdomainsstore.com/help/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
