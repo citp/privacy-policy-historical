@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shutterpoint.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105082739id_/http%3A//www.shutterpoint.com/Home-Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterpoint.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209082731id_/http%3A//www.shutterpoint.com/Home-Privacy.cfm) for the most accurate reproduction.*
 
-# ShutterPoint Photography - Privacy Policy
+# Privacy Policy - ShutterPoint Stock Photography
 
 ShutterPoint.com is committed to maintaining the privacy of information that you provide to us when using our website. This Privacy Policy describes what information we gather, how we use it, and how our members can correct or change it. 
 
