@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the signpost.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620180247id_/http%3A//www.signpost.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signpost.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209213607id_/http%3A//www.signpost.com/assets/consumer/privacy.html) for the most accurate reproduction.*
 
-# Signpost.com - Privacy Policy
+# Signpost | Terms of Service
 
 October 4, 2010 
 
@@ -38,4 +38,4 @@ Signpost is not intended for children under 13 years of age. Signpost does not k
 
 Please note that this Privacy Policy may change from time to time. We will post any Policy changes on this page. Each version of this Policy will be identified at the top of the page by its effective date. 
 
-If you have any additional questions or concerns regarding this Policy or Signpost's treatment of personal information, please feel free to contact us any time at [support@signpost.com](https://web.archive.org/web/20110620180247id_/http%3A//www.signpost.com/about-us/support@signpost.com). 
+If you have any additional questions or concerns regarding this Policy or Signpost's treatment of personal information, please feel free to contact us any time at [support@signpost.com](https://web.archive.org/web/20111209213607id_/http%3A//www.signpost.com/assets/consumer/support@signpost.com). 
