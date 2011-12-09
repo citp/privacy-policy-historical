@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516185446id_/http%3A//www.superdrug.com/help%2Binfo/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209083109id_/http%3A//www.superdrug.com/help%2Binfo/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy at Superdrug
 
@@ -83,7 +83,7 @@ We sometimes employ external recruitment agents to help with the recruitment pro
 
 ## Our Privacy Promise
 
-If you have registered with us (including as a [Beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/) member) you can receive exclusive offers, bonus points and other promotions. As mentioned before, these will all be sent by Superdrug but may contain offers and information from other companies that we think you may be interested in, including from our sister company The Perfume Shop Limited. 
+If you have registered with us (including as a [Beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/) member) and you are over the age of 16, then you can receive exclusive offers, bonus points and other promotions. As mentioned before, these will all be sent by Superdrug but may contain offers and information from other companies that we think you may be interested in, including from our sister company The Perfume Shop Limited. 
 
 Rest assured, we won’t send you these, or any other marketing unless you have given us your consent to do so and we will never share your personal details with other companies to let them send you their marketing directly.
 
@@ -96,6 +96,6 @@ You can unsubscribe from receiving any marketing from us at any point using one 
 
 
 
-Please note that if you unsubscribe from us then you won’t receive any further marketing from Superdrug; however if you have separately given your permission to receive marketing from other companies, for example The Perfume Shop Limited, then you will still receive marketing from those companies unless you also unsubscribe from them.
+Please note that if you unsubscribe from us then you won’t receive any further marketing from Superdrug; however if you have separately given your permission to receive marketing from other companies, for example The Perfume Shop Limited, then you will still receive marketing from those companies unless you also unsubscribe from them. Please allow up to 3 working days for your new communication preferences to come into affect.
 
 * Calls to our Loyalty Helpline are charged at 5p per minute from landlines (but are likely to cost more from mobile phones)
