@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usidentify.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522094958id_/http%3A//usidentify.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usidentify.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209160653id_/http%3A//usidentify.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,3 +37,9 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 ###  Links to other websites
 
 The US Identify website contains links to other websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. That said, US Identify strives to only link to quality, useful websites.
+
+### Your privacy rights
+
+We value your privacy and, upon request, can block your records from being shown on USIdentify.com from databases we control. We are unable to remove any information about you from databases operated by third parties. If you would like us to remove your records from USIdentify.com, please download and follow all instructions in the [Opt-Out Form](https://web.archive.org/web/20111209160653id_/http%3A//usidentify.com/company/Opt-Out-Form.pdf). 
+
+After receiving your letter, we usually complete the opt-out request within 14 to 21 business days. This information will be kept confidential and is used to ensure complete suppression of your records. Or, if you would prefer, there is an online service that will remove you from certain public records databases, credit offers, and other lists. Please refer to [OptOut.com](http://www.optout.com/). Please note that this is not a free service and is not controlled or owned by USIdentify.com 
