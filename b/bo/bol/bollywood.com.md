@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423002027id_/http%3A//www.bollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209085118id_/http%3A//www.bollywood.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bollywood.com : Entertainment news, movie, music and fashion reviews
 
@@ -68,5 +68,3 @@ Santa Monica, California 90401
 Phone: (310) 451-0647  
 Fax: (310) 394-4477  
 Email: [kcunningham@cislo.com](mailto:kcunningham@cislo.com)
-
-Bookmark/Search this post with: 
