@@ -1,44 +1,45 @@
-> *The following text is extracted and transformed from the rhapsody.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630140551id_/http%3A//www.rhapsody.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhapsody.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209115558id_/http%3A//www.rhapsody.com/privacy_policy) for the most accurate reproduction.*
 
 # Rhapsody Privacy Policy
 
 Rhapsody International Inc. ("RI") is committed to protecting the privacy of your Personal Information (defined below). This Privacy Policy explains how RI collects and utilizes Personal Information to enhance your Rhapsody experience during your use of Rhapsody products and services. 
 
-RI collects Personal Information to improve the manner by which RI operates and offers its products and services, communicates with you about those products and services, and provides effective, timely customer support when needed. RI does not intentionally collect Personal Information from users under 13 years of age. RI will not rent, sell or distribute any Personal Information without your consent, unless such sharing is necessary for the purposes set forth in this Privacy Policy. 
+RI collects Personal Information to improve the manner by which RI operates and offers its products and services, communicates with you about those products and services, and provides effective, timely customer support when needed. RI does not intentionally collect Personal Information from users under 13 years of age. RI will not rent, sell, or distribute any Personal Information without your consent, unless such sharing is necessary for the purposes set forth in this Privacy Policy. 
 
-To access or download any of RI's products and services, including free trials, you must open an account via RI's online or mobile registration process. Information gathered during the registration process or when you access Rhapsody products and services may differ based on the nature of the product or service and may include: name and email address, billing information, information concerning software downloaded, products and content purchased, accessed, downloaded and/or burned through RI products or services (including, in the case of music products, tracks streamed, purchased or saved in libraries or playlists), location information (such as zip code or postal code and country), computer configuration (such as operating system, connection speed, and peripherals), the IP Internet (IP) address and URL of the website that sent you to the RI registration page, the types of peripherals (including portable media players) used by RI products on your computer (to ensure that you have access to the latest fixes and patches for full compatibility with these devices), your device's Unique Device Identifier (UDID), geographic location, demographic information provided by you (such as language, gender and age, and, if applicable, content preferences and personalization information), and whether you logged into or out of an RI service, or changed your password or billing information (collectively, "Personal Information"). 
+To access or download any of RI's products and services, including free trials, you must open an account via RI's online or mobile registration process. Information gathered during the registration process or when you access Rhapsody products and services, including the Rhapsody Social Network, may differ based on the nature of the product or service and may include: name and email address, billing information, information concerning software downloaded, products and content purchased, accessed, downloaded and/or burned through RI products or services (including, in the case of music products, tracks streamed, purchased or saved in libraries or playlists), location information (such as zip code or postal code and country), computer configuration (such as operating system, connection speed, and peripherals), the IP Internet (IP) address and URL of the website that sent you to the RI registration page, the types of peripherals (including portable media players) used by RI products on your computer (to ensure that you have access to the latest fixes and patches for full compatibility with these devices), your device's Unique Device Identifier (UDID), geographic location, demographic information provided by you (such as language, gender and age, and, if applicable, content preferences and personalization information), and whether you logged into or out of an RI service, or changed your password or billing information (collectively, "Personal Information"). 
 
 RI understands that it is a privilege to have you as a customer and has implemented the following controls to protect your Personal Information: 
 
-  * Use of secure connections using SSL to safeguard information when transmitted from your Web browser to RI; 
+  * Use of secure connections using SSL to safeguard information when transmitted from your Web browser to RI;
   * Use of security controls to restrict access to databases housing personally identifying information; 
   * Use of encryption or obfuscation of sensitive Personal Information, such as credit card numbers, UDIDs and user names; 
-  * Restrict employee access to databases containing sensitive Personal Information and impose confidentiality requirements upon employees who do; and 
-  * Bind subcontractors with contractual, technical and organizational measures to protect your Personal Information. 
+  * Restrict employee access to databases containing sensitive Personal Information and impose confidentiality requirements upon employees who do; and
+  * Bind subcontractors with contractual, technical, and organizational measures to protect your Personal Information. 
 
 
 
 RI uses your Personal Information to: 
 
-  * Deliver to you and bill you for RI products and services, and communicate with you concerning your account and customer service issues. This may include verifying authorization of credit card usage before any purchase of premium content or services (e.g., for the purposes of access to a free trial, or to the Music Store); 
-  * Verify access rights to premium content or other access-restricted services and software, including for the purpose of supporting digital rights management software; 
+  * Deliver to you and bill you for RI products and services, and communicate with you concerning your account and customer service issues. This may include verifying authorization of credit card usage before any purchase of premium content or services (e.g., for the purposes of access to a free trial, or to the Music Store);
+  * Verify access rights to premium content or other access-restricted services and software, including for the purpose of supporting digital rights management software;
   * Improve our software and services by providing personalized content recommendations, language and location customization, and/or personalized help and instructions; 
   * Determine if you meet the minimum system requirements to use our products, and provide information concerning compatibility and interoperability to you; 
-  * Track content accesses, downloads and burns for the purpose of paying royalties and license fees to third party providers, such as record labels and other copyright holders and content distributors;
+  * Track content accesses, downloads and burns for the purpose of paying royalties and license fees to third party providers, such as record labels and other copyright holders and content distributors; 
   * Track registration traffic for purposes of paying advertising partners;
-  * Ask you to participate in surveys about products, services, news and events;
-  * Offer you product upgrades, content, services and games for you to purchase;
+  * Ask you to participate in surveys about products, services, news and events; 
+  * Offer you product upgrades, content, services and games for you to purchase; 
+  * Create your non-personally-identifiable Rhapsody Social Network profile;
   * Provide you with content, services, instructions, and a more personalized experience based on non-sensitive Personal Information, such as your language preferences, zip/postal code, country locations, and any content or other preferences you provide; 
   * Auto-update downloaded RI products;
   * Provide you with news, free newsletters, updates, targeted advertising, promotions, and special offers; and 
   * Better understand how our products are used, including Web traffic patterns and what types of content are most popular with users of our products and services;
-  * Test and develop upgrades and improvements to our products and services. 
+  * Test and develop upgrades and improvements to our products and services.
 
 
 
 RI does not use your Personal Information for purposes incompatible with those listed above. 
 
-In some cases, access to certain products and services, such as content subscription products or products distributed by third parties may require the provision of Personal Information to a third party, such as a content provider, advertising network, or distributor. RI may also receive your Personal Information from third party service partners and advertisers in an effort to facilitate personalization of your content preferences. The third party's use of such information is governed by that party's privacy policy, and RI's use is governed by this privacy policy. Please visit the privacy policy of the content partner to make sure you understand how they use the personal information you provide to them. If you do not wish for such a transfer to take place, you should not register for the applicable product or service. Additionally, RI may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing. In such cases, RI may provide content usage, access, demographic and other information without your personally identifiable information (your name, billing information, email address) to the content provider. RI is not responsible for nor does it assume liability for any third party's use of Personal Information in violation of its own privacy policy or applicable law. 
+In some cases, access to certain products and services, such as content subscription products or products distributed by third parties may require the provision of Personal Information to a third party, such as a content provider, advertising network, or distributor. RI may also receive your Personal Information from third party service partners and advertisers in an effort to facilitate personalization of your content preferences. The third party's use of such information is governed by that party's privacy policy, and RI's use is governed by this privacy policy. Please visit the privacy policy of the content partner to make sure you understand how they use the personal information you provide to them. If you do not wish for such a transfer to take place, you should not register for the applicable product or service. If you do not wish for your information to be shared with our mobile advertising partner, JumpTap, please click [here](http://opt.jumptap.com/optout/opt?tlid=noid). Additionally, RI may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing. In such cases, RI may provide content usage, access, demographic and other information without your personally identifiable information (your name, billing information, email address) to the content provider. RI is not responsible for nor does it assume liability for any third party's use of Personal Information in violation of its own privacy policy or applicable law. 
 
 RI may disclose relevant information about its customers to our contractors (e.g. a customer service contractor or a credit card clearing service) in order for them to provide specific services for RI to better serve our customers. RI's contractors are bound by strict contractual requirements to keep all Personal Information they process strictly confidential and to use such information solely on behalf of RI. 
 
@@ -60,7 +61,7 @@ To access your account information and preferences, select "Manage My Account" f
 
 You may also review and update your account on the web at [www.rhapsody.com](http://www.rhapsody.com/), by selecting "My Account," and logging in using your name and password. 
 
-When you access your account by logging in, you can update and/or make sure that your account information is accurate. You can also manage your preferences concerning receipt of newsletters and promotional emails. 
+When you access your account by logging in, you can update and/or make sure that your account information is accurate. You can also manage your preferences concerning receipt of newsletters, promotional emails, and profile sharing settings. To Edit your Rhapsody Social Network profile sharing settings you must log in to your account at www.rhapsody.com; select the "My Music" menu; then click on "Profile". 
 
 If you have forgotten a username or password, please refer to RI's online help resources. 
 
@@ -92,4 +93,4 @@ San Francisco, CA 94107
 
 NOTE: Rhapsody is a trademark of RI 
 
-Last modified: March 23, 2011 
+Last modified: October 14, 2011 
