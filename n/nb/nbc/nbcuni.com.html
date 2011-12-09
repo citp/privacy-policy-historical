@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nbcuni.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525224525id_/http%3A//www.nbcuni.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nbcuni.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209131130id_/http%3A//www.nbcuni.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 <meta charset="UTF-8">
@@ -44,7 +44,6 @@
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-includes/js/l10n.js?ver=20101110"></script>
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-content/themes/theme-nbcuni/_js/jquery.latest.js?ver=1.6"></script>
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-content/plugins/nbcudps-admin-theme/_js/ramp.autocomplete.js?ver=3.1.2"></script>
-<script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-content/plugins/pods/ui/js/pods.ui.js?ver=3.1.2"></script>
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-content/themes/theme-nbcuni/_js/autocolumn.min.js?ver=3.1.2"></script>
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-content/themes/theme-nbcuni/_js/jquery.qtip.min.js?ver=3.1.2"></script>
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-includes/js/comment-reply.js?ver=20090102"></script>
@@ -55,7 +54,8 @@
 <link rel="next" title="Our Initiatives" href="http://www.nbcuni.com/corporate/about-us/initiatives/">
 <meta name="generator" content="WordPress 3.1.2">
 <link rel="canonical" href="http://www.nbcuni.com/privacy/">
-<!-- Pods CMS 1.9.5 -->
+
+
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-content/themes/theme-nbcuni/_js/css_browser_selector.js"></script>
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-content/themes/theme-nbcuni/_js/jQuery.inlinePager.js"></script>
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-content/themes/theme-nbcuni/_js/jQuery.drawFont.js"></script>
@@ -65,9 +65,51 @@
 <script type="text/javascript" src="http://serve.a-widget.com/kickFlash/scripts/swfobject2.js?2"></script>
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-content/themes/theme-nbcuni/_js/video.kickapps.js"></script>
 <script type="text/javascript" src="http://www.nbcuni.com/wordpress/wp-content/themes/theme-nbcuni/_js/site.js"></script>
+<script>
+function getFlashVersion(){
+  // ie
+  try {
+    try {
+      // avoid fp6 minor version lookup issues
+      // see: http://blog.deconcept.com/2006/01/11/getvariable-setvariable-crash-internet-explorer-flash-6/
+      var axo = new ActiveXObject('ShockwaveFlash.ShockwaveFlash.6');
+      try { axo.AllowScriptAccess = 'always'; }
+      catch(e) { return '6,0,0'; }
+    } catch(e) {}
+    return new ActiveXObject('ShockwaveFlash.ShockwaveFlash').GetVariable('$version').replace(/\D+/g, ',').match(/^,?(.+),?$/)[1];
+  // other browsers
+  } catch(e) {
+    try {
+      if(navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin){
+        return (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]).description.replace(/\D+/g, ",").match(/^,?(.+),?$/)[1];
+      }
+    } catch(e) {}
+  }
+  return '0,0,0';
+}
+ 
+var flashVersion = getFlashVersion().split(',').shift();
+
+</script>
+
+
 </head>
 
 <body class="page page-id-47 page-template page-template-default">
+<script>
+$(document).ready(function() {
+
+	if(flashVersion < 10){
+  		//alert("Lower than 10");
+		$("#old_DL").css('display','');
+		$("#new_DL").css('display','none');
+	}else{
+  		//alert("10 or higher");
+		$("#old_DL").css('display','none');
+		$("#new_DL").css('display','');
+	}
+ });
+</script>
   <!--[if lt IE 7]>
   <div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;'>
     <div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a></div>
@@ -113,12 +155,10 @@
 			</div><!-- #header-widgets .widget-area -->
 	
 			</div><!-- #header -->
-
 	<div id="content">
-
 		<header class="column_header">
 					</header>
-		<div class="column_row one_column">
+		<div class="column_row one_column privacy">
 			<div id="main_content" class="col_1" role="main">
 
 
@@ -127,7 +167,7 @@
 					<div class="module_content">
 						<div id="post-47" class="post-47 page type-page status-publish hentry">
 								
-								<h1 class="entry-title">Privacy Policy</h1>
+								<h2 class="section_title entry-title">Privacy Policy</h2>
 											
 		
 							<div class="entry-content native_html_style">
