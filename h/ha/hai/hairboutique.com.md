@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427205610id_/http%3A//hairboutique.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209080920id_/http%3A//www.hairboutique.com/privacy.asp) for the most accurate reproduction.*
 
 # HairBoutique.com - Privacy Policy
+
+  
+  
+  
+[](http://www.alexa.com/siteinfo/hairboutique.com)   
+| 
+
+[](http://www.addthis.com/bookmark.php) [](http://www.addthis.com/bookmark.php)
 
 Privacy Statement for HairBoutique.com
 
@@ -54,5 +62,29 @@ Richardson, TX 75081
 webmaster@hairboutique.com  
 
 
+  
+
+
+|  | **Daily Hair Tip**  
+---  
+Guarantee even distribution of mousse or light gels to damp hair by carefully using a pick or wide toothed comb to distribute completely throughout the hair.   
+  
+  
+**Hot Hair Links**  
+---  
+  
+[Phyto Selection Guide](http://mp.hairboutique.com/phyto.asp) \- Everything you need to know about Phyto for your hair is included on this table. 
+
+[ Hollywood & Mane](http://www.hairboutique.com/hm) \- Karen Shelton's Celeb Hair Blog.   
+  
+   
+**Hair Press**  
+  
+Karen Shelton featured in DFW Tech Biz as winner of **Emerging CEO - Tech Titan award.**
+
+7/2001 Karen Shelton joined **101 Celebrity Styles & Short Cuts** as consumer hair editor. 
+
+[More...](http://press.hairboutique.com/)  
+  
   
 
