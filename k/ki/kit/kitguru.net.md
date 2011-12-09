@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitguru.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630124926id_/http%3A//www.kitguru.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitguru.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209021634id_/http%3A//www.kitguru.net/privacy) for the most accurate reproduction.*
 
 # Privacy | KitGuru
 
