@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522190038id_/http%3A//www.psecu.com/privacy/%3FWT.ac%3Dprivacy-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209234105id_/http%3A//www.psecu.com/privacy/%3FWT.ac%3Dprivacy-footer) for the most accurate reproduction.*
 
 # PSECU - Privacy Act Policy
 
@@ -61,7 +61,7 @@ F. Independent Testing:
 
 Internal Audit Services (IAS) conducts an annual comprehensive compliance audit of PSECU's compliance to the Privacy laws and adherence to PSECU's Privacy Policy.
 
-### Attachment A: PSECU's Privacy Notice & Disclosure
+## Attachment A: PSECU's Privacy Notice & Disclosure
 
 PSECU's mission is "To continually strive to maintain a progressive and financially stable credit union that gives PSECU members control over their finances. To provide members with a variety of high quality traditional and innovative financial products and services, which are convenient, with superior pricing and available through self-service delivery channels."
 
@@ -79,7 +79,7 @@ We invite you to review our Privacy Policy and contact us with any questions you
 
 R. Brian Wilbur, Chair, Board of Directors Gregory A. Smith, President
 
-### Our Policy Regarding the Collection, Use and Disclosure of Your Information...
+## Our Policy Regarding the Collection, Use and Disclosure of Your Information...
 
 What Information We Collect...
     
