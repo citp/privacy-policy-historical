@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the soccerladuma.co.za privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192528id_/http%3A//www.soccerladuma.co.za/index.php%3Fnode%3D42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerladuma.co.za privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209131441id_/http%3A//www.soccerladuma.co.za/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Soccer Laduma
 
-Soccer Laduma respects your privacy. This document explains our policy relating to your personal data that is provided to us.  
+Soccer Laduma respects your privacy. This document explains our policy relating to your personal data that is provided to us.
+
 The website is www.Soccer Laduma.com ("the Site"). By using this Site you agree that all personal data that you supply to us will be true, complete and accurate in all respects and you agree to notify us immediately of any changes to that personal data.
 
 We will deal with your personal data in compliance with the current data protection legislation. Please note this applies only to Soccer Laduma not to other companies' or organisations' websites to which we link. Personal data will be collected, processed and used by Soccer Laduma for the purposes of providing Soccer Laduma' services and products to you and the other purposes mentioned below.
 
-We may use personal data to let you know about products and services that may be of particular interest to you. We may also want to provide you with related information from third parties that we think may be of interest to you. If you would rather not receive this information, please send an e-mail to: feedback@soccerladuma.co.za
+We may use personal data to let you know about products and services that may be of particular interest to you. We may also want to provide you with related information from third parties that we think may be of interest to you. If you would rather not receive this information, please send an e-mail to:  [feedback@soccerladuma.co.za](mailto:feedback@soccerladuma.co.za)
 
 Because the Internet infrastructure is global, the information you provide may be transferred outside the African continent to countries that do not have similar data protection legislation. By submitting your information you consent to these transfers.
 
@@ -25,5 +26,6 @@ We may provide aggregate statistics about our customers, sales, browser type, op
 
 By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page, and may place notices on other pages of the web site, so that you may be aware of the information we collect and how we use it. Continued use of the service will signify that you agree to any such changes.
 
-From time to time, this Site may include links to other web sites. We may not be operating the linked sites and we do not endorse the contents, views or products of the linked sites. We do not accept any responsibility for use of the linked sites. You are advised to use linked sites with caution and with due regard to any terms of use on those sites. If you transfer to other sites by using a link from our Site to theirs we may receive aggregate or otherwise anonymous statistical information about your trip and any purchases you may make on those sites. We are not responsible for the privacy policies or content of other web sites and your visit to those sites is not protected by our privacy policy.  
+From time to time, this Site may include links to other web sites. We may not be operating the linked sites and we do not endorse the contents, views or products of the linked sites. We do not accept any responsibility for use of the linked sites. You are advised to use linked sites with caution and with due regard to any terms of use on those sites. If you transfer to other sites by using a link from our Site to theirs we may receive aggregate or otherwise anonymous statistical information about your trip and any purchases you may make on those sites. We are not responsible for the privacy policies or content of other web sites and your visit to those sites is not protected by our privacy policy.
+
 WE TAKE PRECAUTIONS WITH CUSTOMER INFORMATION AND PERSONAL DATA, HOWEVER, EXCEPT IN THE CASE OF DEATH OR PERSONAL INJURY RESULTING FROM OUR NEGLIGENCE, WE DO NOT ACCEPT RESPONSIBILITY FOR ANY LOSS OR DAMAGE RESULTING FROM ANY SECURITY BREACHES THAT MAY OCCUR.
