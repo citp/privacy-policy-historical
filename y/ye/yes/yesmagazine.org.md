@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611053527id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesmagazine.org privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209153435id_/http%3A//www.yesmagazine.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — YES! Magazine
 
     
 
-Join over 58,000 others already signed up for FREE YES! news.   
+Join over 62,000 others already signed up for FREE YES! news.   
 [[SAMPLE](http://www.yesmagazine.org/newsletters/current/sample_yesnews.html)]  [[ARCHIVE](http://www.yesmagazine.org/whatcounts/archive.html)]
 
-[](http://store.yesmagazine.org/donate/appeal-15th-anniversary?ica=Don_port_15thAnniv_BirthdayGift_multi&icl=All_750)
+[](http://store.yesmagazine.org/index.php?main_page=product_info&products_id=334&ica=Gift_port_Buy1Get1Free_2for1&icl=All_640)
 
     [](http://www.yesmagazine.org/whatcounts/signup_weekly.php?ica=Signup_tn_YTW_signup&icl=All_800)  
 [Sign up](http://www.yesmagazine.org/whatcounts/signup_weekly.php?ica=Signup_txt_YTW_signup&icl=All_800) for our weekly highlights email. 
@@ -128,7 +128,7 @@ We do not intentionally collect any personally identifiable information from ind
 
 _This Privacy Policy may be amended from time to time. Any such changes will be posted on this page so you should check here from time to time._
 
-YES! Magazine encourages you to make free use of this article by taking these [easy steps](http://www.yesmagazine.org/about/reprints). lotto. (2009, June 30). Privacy Policy. Retrieved June 10, 2011, from YES! Magazine Web site: http://www.yesmagazine.org/about/privacy-policy. This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/ "Creative Commons License")
+YES! Magazine encourages you to make free use of this article by taking these [easy steps](http://www.yesmagazine.org/about/reprints). lotto. (2009, June 30). Privacy Policy. Retrieved December 09, 2011, from YES! Magazine Web site: http://www.yesmagazine.org/about/privacy-policy. This work is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/ "Creative Commons License")
 
 [ ](http://creativecommons.org/licenses/by-nc-sa/3.0/us/ "Creative Commons License")
 
