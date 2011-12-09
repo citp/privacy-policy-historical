@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611043008id_/http%3A//www.number10.gov.uk/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209205333id_/http%3A//www.number10.gov.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Number10.gov.uk
+# Privacy Policy - Number 10
 
 This statement covers the services provided by the Number 10 website.
 
@@ -37,23 +37,43 @@ It is possible to email the Prime Minister’s Office using the link below. If, 
 
 #### Newsletters
 
-If you sign up to receive Newsletters or …from the PM we will use the information you give us to provide the service(s) you have requested. We may occasionally contact subscribers to help us evaluate and improve the service that we offer.
-
-If you have used an online form on the Number 10 website to sign up for an email alert service, you can correct, update or remove any personally identifiable information directly, via our Internet pages.
+If you sign up to receive Newsletters from the PM we will use the information you give us to provide the service(s) you have requested. We may occasionally contact subscribers to help us evaluate and improve the service that we offer.
 
 If you sign up for a subscription email service, we will hold the information you have provided for as long as you require access to the service requested. If you inform us that you wish to cancel a subscription we will remove you from our mailing list and your details will be deleted from our records.
 
-### Site usage information
-
 #### Cookies
 
-The Number 10 site uses cookies for collecting non-personal user information from the site.  The Number 10 site does not collect any information about you except that required for system administration of the website.
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
+
+These pieces of information are used to improve services for you through, for example:
+
+  * enabling a service to recognise your device so you don’t have to give the same information several times during one task
+  * recognising that you may already have given a username and password so you don’t need to do it for every web page requested
+  * measuring how many people are using services, so they can be made easier to use and there’s enough capacity to ensure they are fast 
+
+
+
+You can manage these small files yourself and learn more about them through [Internet browser cookies – what they are and how to manage them](http://www.direct.gov.uk/en/SiteInformation/DG_197506?CID=Central&PLA=url_mon&CRE=managing_cookies "Managing cookies")
+
+#### Our use of cookies
+
+**Cookies for improving service**
+
+Google Analytics sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
+
+The Number 10 site uses cookies for collecting non-personal user information from the site. The Number 10 site does not collect any information about you except that required for system administration of the website.
 
 Cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are stored in the cookie directory of your hard drive, and do not expire at the end of your session. Cookies do not contain any personal information about you and cannot be used to identify an individual user. If you choose not to accept the cookie, this will not affect your access to the majority of facilities available on our website.
 
 Although your browser may be set up to allow the creation of cookies, you can specify that you be prompted before a site puts a cookie on your hard disk, so that you can decide whether to allow or disallow the cookie. Alternatively, you can set your computer not to accept any cookie.
 
-This site uses Google Analytics code to gather statistical information. For more information on how Google Analytics processes this information, visit [www.google.com/analytics](http://www.google.com/analytics "Google Analytics website").
+This site uses Google Analytics code to gather statistical information. For more information on how Google Analytics processes this information, visit [www.google.com/analytics](http://www.google.com/analytics).
+
+**Cookies on the Number 10 website from other companies & social networking websites**
+
+During your visit to the site you may notice some cookies that are not related to number10.gov.uk. This happens when you visit a page with content embedded from a third party (for example YouTube videos) or use some of the links to social networking sites (e.g. Share This). These websites may place cookies on your computer.
+
+Number 10 does not control how a third party uses their cookies. You should check these third party websites’ privacy policies for more information about their cookies if you are concerned about this.
 
 #### Log files
 
@@ -65,8 +85,6 @@ If you receive the HTML-formatted version of a newsletter, your opening of the n
 
 Our website contains links to other sites, mainly those of other government departments, but also to those of other third parties. The Prime Minister’s Office is not responsible for the privacy practices within any of these other sites. You should be aware of this when you leave the Number 10 website and we encourage you to read the privacy statements on other websites you visit.
 
-### Changes to this privacy policy
+#### Changes to this privacy policy
 
 If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
-
-Last updated February 2010
