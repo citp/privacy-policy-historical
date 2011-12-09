@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manpacks.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608131705id_/http%3A//www.manpacks.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpacks.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209013153id_/http%3A//www.manpacks.com/about/privacy) for the most accurate reproduction.*
 
-# About Manpacks, a subscription service for your socks, t-shirts and underwear
+# Privacy / Manpacks, a subscription service for your socks, t-shirts, underwear, shaving and condoms
 
 ## Here at Manpacks we take your privacy very seriously. 
 
