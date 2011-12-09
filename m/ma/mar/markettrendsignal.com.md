@@ -1,49 +1,108 @@
-> *The following text is extracted and transformed from the markettrendsignal.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611061555id_/http%3A//www.markettrendsignal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettrendsignal.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210005302id_/http%3A//www.markettrendsignal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PRIVACY POLICY**
+Market Trend Signal and our wholly-owned subsidiaries (collectively ‘Market Trend Signal’) respect and value your privacy. As such, this Privacy Policy details Market Trend Signal’s treatment of personally identifiable information (PII) that it collects when you provide PII directly to Market Trend Signal through this website. This Privacy Policy also applies to consumers that have agreed to receive e-mail marketing material from Market Trend Signal’s partner websites, third party partner websites, or otherwise (known as list management arrangements).
 
-_Market Trend Signal™ Privacy Policy_
+Here are the kinds of information we gather:
 
-The Market Trend Signal™ Privacy Policy is designed to assist you in understanding how we collect and use personal information you provide to us and to assist you in making informed decisions when using our site, our products, and our services.
+We receive and store any information you may enter on our web site or give us in any other way through sign-up forms or ordering forms for Market Trend Signal’s publications, products and services. The option is always available to not provide us with that type of information, but the result may be the inability to take advantage of many of our services and features. We use information that you provide for such purposes as responding to your requests, customizing your web navigation experience for you, of improving our web site and communication with you.
 
-**What Information Do We Collect?**
+Order Forms – Market Trend Signal requests information from the user on our order forms. Here a customer must provide contact information i.e. name, mailing address, email address etc. and occasionally financial information i.e. credit card number, expiration date etc. This information is used for billing purposes and to fill customer orders. If we have any trouble processing an order request, the contact information is used to get in touch with the customer.
 
-When you visit our Web site you may provide us with two types of information: 1) personal information you knowingly choose to disclose that is collected on an individual basis; and 2) Web site use information collected on an aggregate basis as you and others browse our Web site. All information collection pages are under a secure setting.
+Automatic Information Print – We receive and store certain types of information whenever you interact with the web site. For instance we use cookies or alphanumeric identifiers that we obtain certain types of information when your browser navigates markettrendsignal.com or markettrendsoftware.com.
 
-Personal Information You Choose to Provide
+Log Files – We may use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information or data.
 
-**Personal Information**
+Sharing – We may share aggregate demographic information with our partners and advertisers. This is not linked in any way to any personal or financial information that can identify any individual person(s).
 
-Market Trend Signal™ only collects personal information when you request our services and only uses the information collected to provide those services for you. If you choose to make a purchase, you will be asked to provide contact information such as your name and shipping address, and financial information such as your credit card number and expiration date. Your personal information is used for billing purposes and to process your order. Market Trend Signal™ handles all of your data with utmost confidentiality.
+Links – This web site contains links to other sites. Please be aware that Market Trend Signal and it’s subsidiaries are not responsible for the privacy practices of such other sites. We encourage and remind our customers to be aware of each site’s individual policies. This privacy policy applies solely to information collected by Market Trend Signal.
 
-**Third Parties**
+Other Sources – For reasons such as improving personalization of our service (i.e. providing better product recommendations or special offers that we think will interest you) we might receive information about you from other sources and add it to our account information. Any other PII the user submits during the course of normal correspondence with Market Trend Signal or its third-party companies.
 
-Any personal information provided by you will not be traded, rented, sold or otherwise shared with anyone outside of Market Trend Signal™, or used for reasons beyond those specifically explained in this policy. From time to time, we may engage third parties to process your information on our behalf; however, no Market Trend Signal™ affiliate (such as our credit card company) has permission to retain, share, store, or use your personal information for any reason other than to provide any service you request.
+Non-personally identifiable information is information collected by Market Trend Signal in the normal course of operating its business that does not reveal the specific identity of the consumer. This data records a consumer’s activity either on the Market Trend Signal website or within a Market Trend Signal-initiated email. Types of non-personally identifiable information collected include:
 
-**Security**
+  * IP Address
+  * Consumer click-stream data;
+  * Consumer email-open data;
+  * Aggregate click-stream data provided to Market Trend Signal by third-party companies
 
-To prevent unauthorized access, disclosure, or improper use of your information, we have established appropriate physical, electronic, and managerial safeguards to protect the information we collect in accordance with our Privacy Policy.
 
-**Registration Information**
 
-You will provide us information about yourself, your firm or company, and your practices when you register to be a member of Markettrendsignal.com, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see Markettrendsignal.com so that we may attend to your needs and interests.
+How We Use Consumer PII
 
-Credit Card information is collected when you subscribe to any markettrendsignal.com service, including any membership trial service. Your personal and financial information is stored on a secure server with infusionsoft.com and is removed completely upon termination of your subscription service.
+Market Trend Signal will use consumer PII collected on this site to contact the consumer in response to consumer-initiated inquiries, to provide services requested by the consumer, to alert consumers to changes in services or features, and to provide consumers with requested information regarding Market Trend Signal or our services. Market Trend Signal may share this PII with service providers who assist us with our marketing efforts, but those service providers will not use this PII for their own marketing purposes and are prohibited by contract from sharing this PII with any party other than Market Trend Signal. These businesses may include, but are not limited to: providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation services.
 
-**Email Information**
+Market Trend Signal will not sell, rent, or lease PII collected on this site to third-party marketers.
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+Market Trend Signal may use data-enhancement providers to augment data provided to us by consumers on this site. Data-enhancement providers will not use the data for any purpose other than to provide the enhancement information to Market Trend Signal, and are prohibited by contract from sharing that PII with any party other than Market Trend Signal. Market Trend Signal may, in order to provide the highest level of service, use data collected through another Market Trend Signal property to enhance the data we collect on this site.
 
-**Web Site Use Information**
+Market Trend Signal may also share PII in the following limited circumstances: (1) upon receipt of a properly authorized and authenticated governmental request for information; (2) in response to a subpoena or a court order, (3) to comply with relevant laws; (4) in response to an investigation of fraud regarding a specific consumer, or (5) in an effort to safeguard the person or property of a Market Trend Signal employee or a third party.
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation What are Cookies? below) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small pieces of code called “web beacons” or “clear gifs” to determine which advertisements and promotions visitors and members have seen and how visitors and members respond to these advertisements and promotions.
+Finally, Market Trend Signal may, in the future, decide to sell, merge or otherwise reorganize its business. Market Trend Signal reserves the right to transfer and disclose PII in this circumstance, but data collected by Market Trend Signal will be governed by the same privacy policy that existed prior to any change in business conditions unless you consent to the new privacy policy.
 
-**What are cookies?**
+Consumer information managed by Market Trend Signal pursuant to a list-management arrangement.
 
-Cookies are messages that Web servers pass to your Web browser when you visit Internet sites. Your browser stores each message in a small text file that is temporarily and explicitly used by Market Trend Signal™. When you request another page from the server, your browser sends the cookie back to the server. These files typically contain information about your visit to the Web page, as well as any information you’ve volunteered, such as your name and interests.
+Market Trend Signal is in the business of managing email-recipient lists for clients. As such, Market Trend Signal receives PII from marketing partners and uses that PII to send relevant marketing content to those recipients. Market Trend Signal’s use of PII collected by third-party marketing partners is limited to the uses allowed under the third-party’s privacy policy previously agreed to by the consumer. Market Trend Signal will utilize service providers who assist us with our marketing efforts, but those service providers will not use any PII collected by third-party marketing partners and managed by Market Trend Signal for their own marketing purposes and are prohibited by contract from sharing that PII with any party other than Market Trend Signal. These businesses may include, but are not limited to: providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation services.
 
-**Market Trend Signal™ Usage Disclaimer**
+Market Trend Signal may, in order to provide the highest level of service, use data collected through another Market Trend Signal property to enhance the data we manage for third parties.
 
-Important Notice: Stock and options trading has large potential rewards, but also large potential risk. You must be aware of the risks and be willing to accept them in order to invest in the stock and options markets. Don’t trade with money you cannot afford to lose. This Web site is neither a solicitation nor an offer to Buy/Sell stocks or options. No representation is being made that any account will or is likely to achieve profits or losses. The past performance of any trading system or methodology is not necessarily indicative of future results. 
+Market Trend Signal will share PII collected by third-party marketing partners and managed by Market Trend Signal in the following limited circumstances: (1) upon receipt of a properly authorized and authenticated governmental request for information; (2) in response to a subpoena or a court order, (3) to comply with relevant laws; (4) in response to an investigation of fraud regarding a specific consumer, (4) if Market Trend Signal is sold or acquired, or (5) in an effort to safeguard the person or property of a Market Trend Signal employee or a third party.
+
+Market Trend Signal may, in the future, decide to sell, merge or otherwise reorganize its business. Market Trend Signal reserves the right to transfer and disclose PII in this circumstance, but data collected by Market Trend Signal will be governed by the same privacy policy that existed prior to any change in business conditions unless you consent to the new privacy policy.
+
+Choice
+
+Market Trend Signal manages e-mail lists through its list management arrangements. Consumers may wish to remove themselves from specific Market Trend Signal marketing lists. As such, users may remove themselves from a specific mailing list by utilizing the list-unsubscribe option that is present and available at the end of each e-mail that Market Trend Signal sends.
+
+Moreover, consumers may elect not to receive advertisements from a specific advertiser at any time. In every e-mail communication we send, there is also an unsubscribe hyperlink that allows the recipient to unsubscribe from receiving commercial emails from that specific advertiser by clicking the hyperlink provided and following the instructions provided. We process all unsubscribe requests in a prompt fashion.
+
+Unsubscribe requests are either processed on an advertiser-specific basis or on a list-specific basis, depending on the selection the consumer makes. Unsubscribing from one list managed by Market Trend Signal will not remove the consumer from all Market Trend Signal marketing lists. Similarly, unsubscribing from one advertiser will not prevent the consumer from receiving all advertisers’ emails.
+
+Cookies and Technical Information
+
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and provide features like “Remind Me” for our paying subscribers. Cookies are also used during the ordering process to help insure your order is handled in a timely and efficient manner.
+
+Google’s use of the DART cookie enables it and its partners to serve ads to you based on your visit to markettrendsignal.com and/or other sites on the Internet.
+
+You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy/ads/).
+
+You may also opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Right to Contact Via Telephone
+
+In addition, by registering at the website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “Rule”). Notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, we reserve the right to contact you via telemarketing in accordance with the Rule.
+
+Information Received
+
+Administrations – We may employ other companies and individuals to perform functions on our behalf. Fulfilling orders, delivering packages, sending postal mail, etc. They may have access to personal information needed to perform their functions but are strictly prohibited for using it for any other purpose.
+
+Protection of markettrendsignal.com and Others – We may need to release account and other personal information when we believe the release is appropriate to comply with law; enforce the terms of Legal Notices that accompany this Web site policy; or protect the rights, property, or safety of shortsalemagic.com, our customers, or others. This includes exchanging information with other companies and organization for fraud protection and credit risk reduction.
+
+Security of Information
+
+We work to protect the security of your information during the ordering process by using Secure Socket Layer (SSL) software, which encrypts information you input on the order forms.
+
+We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire number to the appropriate credit card company for processing of your orders.
+
+It is important to you to protect against unauthorized access to your password, in our member area. Make sure you take the steps necessary to keep that secure.
+
+Customer information is stored in our firewall-protected data center which is not directly accessible to the Internet.
+
+Your California Privacy Rights
+
+California Civil Code Section 1798.83 permits California residents who have provided PII to Market Trend Signal or its partners in list management arrangements to request certain information regarding Market Trend Signal’s disclosure of PII to third parties for their direct marketing purposes. Within thirty days of receiving such a request, we will provide a list of the categories of PII disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this section.
+
+How Can I Change My Information?
+
+If you wish to opt out and don’t want to receive promotional offers, please notify markettrendsignal.com by sending an email to support@markettrendsignal.com.
+
+You can contact our Customer Service Department about other changes to your information by emailing [Market Trend Signal Customer Service](mailto:support@markettrendsignal.com) or writing us at:
+
+Market Trend Signal  
+Customer Service  
+3300 Running Creek Way  
+Suite H110  
+Lehi, Utah 84043
+
+Copyright 2011 All Rights Reserved
