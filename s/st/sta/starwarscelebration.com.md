@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starwarscelebration.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416120149id_/http%3A//www.starwarscelebration.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwarscelebration.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209055148id_/http%3A//starwarscelebration.com/LP/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Star Wars Celebration
+# Privacy Policy - Star Wars Celebration VI | Aug 23 - 26, 2012 | Orange County Convention Center | Orlando, FL
 
 The effective date of this policy as posted is March 22, 2004.
 
@@ -20,15 +20,15 @@ Two primary types of information are gathered about our customers:
 
 Financial Information is payment information used for or gathered during the registration process and includes, but is not limited to, credit card numbers, financial institutions, and expiration dates. This information is not used for any purpose other than that for which it is being provided to us, and is used only to the extent necessary for processing the transaction or to facilitate future transactions.
 
-Professional Information includes, but is not limited to, name, address, company name, company address, phone number, fax number, and email address, as well as questions answered on survey or registration forms. Data captured during a customer’s visit to the Star Wars Celebration web site, as well as during a visit with a Star Wars Celebration customer is also considered professional information and may also be stored in our customer database for our internal use. Professional information may be, upon the consent of  Star Wars Celebration, shared with other organizations or Star Wars Celebration customers for the purpose of facilitating business relationships believed by RX-US to be in our customers’ best interests.
+Professional Information includes, but is not limited to, name, address, company name, company address, phone number, fax number, and email address, as well as questions answered on survey or registration forms. Data captured during a customer's visit to the Star Wars Celebration web site, as well as during a visit with a Star Wars Celebration customer is also considered professional information and may also be stored in our customer database for our internal use. Professional information may be, upon the consent of  Star Wars Celebration, shared with other organizations or Star Wars Celebration customers for the purpose of facilitating business relationships believed by RX-US to be in our customers' best interests.
 
 ## Opting In
 
-Star Wars Celebration shall comply with all Applicable Laws, including without limitation, applicable rules, directives and regulations relating to the collection, sharing and protection of consumer data and information and such mailing list shall only include registered end consumers which pursuant such Applicable Laws may receive marketing and other promotional materials from third party partners or licensors of Star Wars Celebration and pursuant to which Star Wars Celebration has the permission in accordance with such Applicable Laws to share their information with such third party partners and licensors. Opt-in to receive communication from Star Wars Celebration [here](https://web.archive.org/web/20110416120149id_/en/Outer-Rim/Celebration-Newsletter/).
+Star Wars Celebration shall comply with all Applicable Laws, including without limitation, applicable rules, directives and regulations relating to the collection, sharing and protection of consumer data and information and such mailing list shall only include registered end consumers which pursuant such Applicable Laws may receive marketing and other promotional materials from third party partners or licensors of Star Wars Celebration and pursuant to which Star Wars Celebration has the permission in accordance with such Applicable Laws to share their information with such third party partners and licensors. Opt-in to receive communication from Star Wars Celebration [here](http://www.starwarscelebration.com/en/Outer-Rim/Celebration-Newsletter/).
 
 ## Opting Out
 
-RX-US will accept, implement and maintain any customer request to opt out of future communication from Star Wars Celebration, RX-US, or a third party to whom Star Wars Celebration provided the customer’s information. If you would like to opt out of communications you are receiving from Star Wars Celebration, RX-US, or a third party contacting you on behalf of Star Wars Celebration, please visit the [privacy website](http://www.recusprivacy.com/) and enter the information requested so we may thoroughly implement your request within 10 days of receipt.
+RX-US will accept, implement and maintain any customer request to opt out of future communication from Star Wars Celebration, RX-US, or a third party to whom Star Wars Celebration provided the customer's information. If you would like to opt out of communications you are receiving from Star Wars Celebration, RX-US, or a third party contacting you on behalf of Star Wars Celebration, please visit the [privacy website](http://www.recusprivacy.com/) and enter the information requested so we may thoroughly implement your request within 10 days of receipt.
 
 ## Security
 
@@ -36,8 +36,7 @@ This site utilizes a secure server to protect your financial and professional in
 
 ### Method of Transaction Security
 
-Products of Star Wars Celebration use Secure Sockets Layer (SSL) protocol to safeguard customer information during online transactions. SSL encryption is the generally accepted method of transaction security in online ordering.  
-
+Products of Star Wars Celebration use Secure Sockets Layer (SSL) protocol to safeguard customer information during online transactions. SSL encryption is the generally accepted method of transaction security in online ordering.
 
 ### Cookies
 
@@ -51,7 +50,7 @@ RX-US reserves the right to review and change this Policy. Policy changes may be
 
 ## Review and Correction of Customer Information or Other Questions
 
-If you have any questions or concerns about your customer information or your request to opt-out of communications from Star Wars Celebration or its third party partners, or if you would like to review the information we’ve collected about you, please call or write our Privacy Administrator:
+If you have any questions or concerns about your customer information or your request to opt-out of communications from Star Wars Celebration or its third party partners, or if you would like to review the information we've collected about you, please call or write our Privacy Administrator:
 
 Reed Exhibitions  
 US Privacy Administrator/Database Dept  
