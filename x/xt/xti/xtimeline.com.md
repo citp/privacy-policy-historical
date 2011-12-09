@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtimeline.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201091612id_/http%3A//xtimeline.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtimeline.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209115005id_/http%3A//www.xtimeline.com/privacy.aspx) for the most accurate reproduction.*
 
 # xtimeline - Privacy
 
