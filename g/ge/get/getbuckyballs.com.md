@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the getbuckyballs.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231133728id_/http%3A//www.getbuckyballs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getbuckyballs.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209084938id_/http%3A//www.getbuckyballs.com/privacy) for the most accurate reproduction.*
 
-# Buckyballs | The Amazing Magnetic Desktoy You Can't Put Down
+# Buckyballs | Buckycubes | The Amazing Magnetic Desktoy You Can't Put Down
 
-Call us! 1-888-WE-BUCKY
-
-The Amazing Magnetic Desktoy You Can't Put Down! 
-
-Privacy Policy
+**Privacy  Policy**
 
 We're honored that you're here.Your trust is sacred to us.
 
-We understand that the information you provide to us is meant only for us to better serve you in our selling, marketing, and delivering Buckyballs. We promise to protect this information and to keep it out of the wrong hands.¨That means we won't share your information with anyone else. 
+We understand that the information you provide to us is meant only for us to better serve you in our selling, marketing, and delivering Buckyballs. We promise to protect this information and to keep it out of the wrong hands.  That means we won't share your information with anyone else. 
 
 We don't like people messing with our personal information, and we're not going to let that happen to you.
 
