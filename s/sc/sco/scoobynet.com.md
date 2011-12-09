@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoobynet.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507224517id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DScoobyNet.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoobynet.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209195520id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DScoobyNet.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
