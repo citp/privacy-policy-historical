@@ -1,149 +1,101 @@
-> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rover.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209051759id_/http%3A//www.rover.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Rover.com
 
-#### Find Answers To Your Questions:
+Effective July 21, 2011. Updated November 14th, 2011.
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+A Place for Rover, Inc. ("Rover.com," "we," "our,” or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.rover.com (this "Site"). At Rover.com, we understand that you value your privacy, and we want to help make your experience with our Site and other services we may offer (referred to in this policy collectively as our “Service”) satisfying and safe. This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time. We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://web.archive.org/tos/).
 
-### Privacy Policy
+As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States.
 
-**Why A Privacy Policy?**  
+## 1\. Information Collection and Use
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+Our primary goals in collecting information are to provide and improve our Site, our Services, features and content, and to enable users to enjoy and easily navigate the Site.
 
- **This Privacy Policy protects your privacy by:**
+## 2\. Personally Identifiable Information
 
- **Informing you about:**
+When you register with us through the Site and become a Rover.com Member, when you choose to post or reserve a listing, or when you wish to contact an Rover.com Member, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you ("Identity Information"). Identity Information includes, but is not limited to, your name, phone number, email address and home postal address, but does not include your credit card number or billing information. In order to process some of your transactions through the Site, we may also ask for your credit card number and billing information ("Billing Information") (Identity Information and Billing Information together, "Personal Information"). However, if the address of a listing you post matches that of your credit card billing address, that address would be considered Identity Information. We use your Personal Information mainly to provide the Service and administer your inquiries.
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+We also collect the other information that you provide as part of registration and the administration and personalization of your profile webpage (e.g., without limitation, zip code (on its own) and individual preferences or demographic information) ("Non-Identifying Information"). Non-Identifying Information includes Personal Information that we aggregate or otherwise render it anonymous.
 
+We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service, complete your transactions, and administer your inquiries.
 
+We also use your Personal Information to contact you with Rover.com newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. (See "Changing or Deleting Information," below.) Please note that we may also use your Personal Information to contact you with information related to your use of the Service; you may not opt out of these notifications.
 
-**Empowering you to choose:**
+## 3\. Log Data
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+When you visit the Site, whether as Rover.com Member or a non-registered user just browsing (any of these, a "Rover.com User"), our servers automatically record information that your browser sends whenever you visit a website ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site's technical administration, to increase our Site's functionality and user-friendliness, and to better tailor it to our visitors' needs. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyze and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
 
+## 4\. Cookies
 
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by Rover.com Users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service.
 
-**Assuring you that Network Solutions:**
+## 5\. Web Beacons
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
 
+## 6\. Emailing Via an Rover.com Account
 
+As part of the Service, Rover.com Users may communicate with Rover.com Members through use of the "Contact" feature on the site. Where Rover.com Users have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from Rover.com to those email addresses on their behalf. These email addresses will be used only for the purpose of sending the email communication to the addressee.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+Your friend may contact us at [support@rover.com](mailto:support@rover.com) to request that we remove this information from our database, and we will use reasonable efforts to remove the information.
 
-  
-**Third Party Advertising and Cookies**
+You can import contacts from your email account address book to invite them to send you a recommendation. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose only.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+## 7\. Phishing
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+Identity theft and the practice currently known as "phishing" are of great concern to Rover.com. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website at [http://www.ftc.gov](http://www.ftc.gov/).
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+## 8\. Information Sharing and Disclosure
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+Rover.com is designed to allow Members who have a home to host dogs ("Hosts"), Members who will travel to another Members home to watch pets ("Sitters"), and Members who wish to find care for their pets ("Pet Owners") to share information with one another in order to facilitate arranging stays and sittings. Listings posted by Hosts and Sitters, ratings and reviews of Hosts, Sitters and Pet Owners, and the Profile Information (as defined below) of Hosts and Pet Owners, are visible to any visitor to the site. If a Host or a Sitter and a Pet Owner enter into a confirmed transaction with one another (the Host accepts the Pet Owner's request, and the Pet Owner's payment details are collected and processed), then the Pet Owner and the Host's Identity Information are shared with each other in order to facilitate the reservation. In no event is a Pet Owner's Billing Information shared with their Host or Sitter.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+**If you post any of your information to a public area of our Service, please be aware that it is no longer Personal Information for the purposes of this policy, and we or anyone else may use such information without restriction. If you provide access to Personal Information or other information, including your email address or name, to a limited set of other users through any of our privacy controls or other settings, please understand that Rover.com has no control over how others may collect, use, or disclose such information.**
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+## 9\. Rover.com Members and Users
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+When you register through the Site and submit your Personal Information to create a profile webpage, Rover.com Users will see your first name and last initial ("Required Member Identifiers"). You can choose what other Personal Information you provide as part of your profile ("Other Member Information") (together, your "Profile Information"). We will display your Profile Information in your profile page and elsewhere on the Site, and, with your prior permission, on third party sites. Any information you choose to provide as part of your profile should reflect how much you want other Rover.com Users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage members to think carefully about what information about themselves they disclose in their profile pages. You can review and revise your profile information at any time.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+If you post a listing, we may publish that listing anywhere on the Site and may enable third parties to publish your listing on their site through the use of an HTML "widget". We may also display the geographical location of your listing in the form of a map so that potential guests can see the general area and neighborhood of your listing, but your actual street address will not be disclosed until you enter into a confirmed transaction with another Rover.com Member. If you enter into a confirmed transaction with another Rover.com Member (that is, you request hosting or sitting from another Member, the other Member confirms your reservation, and your payment is processed, you will have access to that Member's Identity Information, and that Member will have access to your Identity Information. Note that Members will never have access to your Billing Information.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+## 10\. Aggregate Information and Non-Identifying Information
 
- **Getting to Know Our Customers**
+We may share aggregated information that does not include Personal Information and we may otherwise share disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information, unless such Personal Information is Non-Identifying Information.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+## 11\. Service Providers
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site's features) or to assist us in analyzing how our Site and Service are used. These third parties may have access to your Personal Information; if they do, this access is only so that they may perform these tasks on our behalf and they are obligated not to disclose or use it for any other purpose. We may also provide Personal Information to our business partners or other trusted entities for the purpose of providing you with information on goods or services we believe will be of interest to you. You can, at any time, opt out of receiving such communications.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+## 12\. Compliance with Laws and Law Enforcement
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+Rover.com cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Rover.com or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+## 13\. Business Transfers
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+Rover.com may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+## 14\. Changing or Deleting Your Information
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+All Members may review, update, or correct the Personal Information in their registration profile by contacting us at [support@rover.com](mailto:support@rover.com) or editing the relevant part of their profile. If you contact us, we will attempt to accommodate your request, including any request to deactivate your record in our system. See below for privacy contact information.
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+## 15\. Security
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+Rover.com is very concerned with safeguarding your information. We have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [support@rover.com](mailto:support@rover.com).
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+We will attempt to make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-b. Click “Edit User Info” in the left menu;
+## 16\. Links to Other Sites
 
-c. Scroll to the bottom of the page;
+Our Site contains links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+## 17\. Our Policy Toward Children
 
-e. Click “SAVE.”
+This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [support@rover.com](mailto:support@rover.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
+## 18\. International Visitors
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+The Service is hosted in and provided from the United States. If you use our Service from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States. The United States does not have the same data protection laws as the EU and some other regions. By providing your personal information, you consent to the transfer of your personal data to the United States and the use of your personal information in accordance with this policy. 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+## 19\. Contacting Us
 
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+If you have any questions about this Privacy Policy, please contact us at [support@rover.com](mailto:support@rover.com).
