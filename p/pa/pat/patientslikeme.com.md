@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625091034id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientslikeme.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209143828id_/http%3A//www.patientslikeme.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy : PatientsLikeMe
 
@@ -14,8 +14,7 @@ Patient Programs
     [Newsletter Archive](https://web.archive.org/newsletters)
     [“Value of Openness” Blog](http://blog.patientslikeme.com/)
     [PatientsLikeMeInMotion™ Events](https://web.archive.org/about/patientslikeme_in_motion)
-    
-     [ PatientsLikeMeOnCall™ Podcast ](http://itunes.apple.com/us/podcast/patientslikeme-oncall-mp3/id364055239)
+    [PatientsLikeMeOnCall™ Podcast](http://itunes.apple.com/us/podcast/patientslikeme-oncall-mp3/id364055239)
     [Tell the World! Materials](https://web.archive.org/about/tell_the_world)
 Policies & Resources
     [Privacy Policy](https://web.archive.org/about/privacy)
@@ -24,7 +23,7 @@ Policies & Resources
     [FAQs and Screencasts](https://web.archive.org/help)
     [Contact Us](https://web.archive.org/about/contact)
 
-##  Effective February 21, 2011
+##  Effective Feb 21, 2011
 
 PatientsLikeMe ([www.patientslikeme.com](http://www.patientslikeme.com/)) (“Site”) is a sharing web site. Our goal is to provide a platform for patients who want to share their health information to create collective knowledge about disease, health, and treatments. We know our success in achieving this goal depends on a shared belief in our [Openness Philosophy](https://web.archive.org/about/openness). Being open about one’s health is not for everyone, and we strive, with full transparency, to outline the benefits and risks of being part of this sharing site, including those related to privacy.
 
@@ -146,6 +145,10 @@ Members should understand that anyone can register at PatientsLikeMe and view th
 
 In using the Site, Members are free to skip any non-required questions or data fields that make them feel uncomfortable. Members are also free to stop using this service at any time. If a Member chooses to deactivate his/her account, PatientsLikeMe will not display or sell the data in that account as of the date of deactivation. However, the Member’s data will remain in the system for auditing purposes, and research conducted prior to the deactivation of a Member’s account will still include the Member’s data.
 
+## EU Safe Harbor
+
+PatientsLikeMe complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. PatientsLikeMe has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view PatientsLikeMe’s certification, please visit <http://www.export.gov/safeharbor/>
+
 ## Questions about the Privacy Policy
 
 If you have questions or comments about our Privacy Policy, [please let us know](https://web.archive.org/about/contact), or contact us at:
@@ -160,10 +163,11 @@ Cambridge, MA 02141
 
 ### History of Updates/Changes to Terms and Conditions of Use:
 
-  * On February 21, 2011, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
-  * On November 18, 2009, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
-  * On August 7, 2007, this Privacy Policy was substantially revised and expanded to include additional patient consent language.
-  * On March 26, 2007, this Privacy Policy was substantially revised.
-  * On April 10, 2006, the following clauses were added: “We will provide our partners with anonymized, aggregated community data with the goal of increasing involvement in disease research” and “except in incidents when you have given explicit permission, e.g. in the ALS Registry.”
+  * On Aug 25, 2011, the following section was added: “EU Safe Harbor”.
+  * On Feb 21, 2011, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
+  * On Nov 18, 2009, this Privacy Policy was substantially revised to clarify language and provide specific examples to help illustrate the meaning of portions of the policy.
+  * On Aug 7, 2007, this Privacy Policy was substantially revised and expanded to include additional patient consent language.
+  * On Mar 26, 2007, this Privacy Policy was substantially revised.
+  * On Apr 10, 2006, the following clauses were added: “We will provide our partners with anonymized, aggregated community data with the goal of increasing involvement in disease research” and “except in incidents when you have given explicit permission, e.g. in the ALS Registry.”
 
 
