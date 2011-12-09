@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingnews.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205101331id_/http%3A//www.breakingnews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingnews.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209220352id_/http%3A//www.breakingnews.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy - breakingnews.com
 
