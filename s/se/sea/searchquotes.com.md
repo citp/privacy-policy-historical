@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchquotes.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610170745id_/http%3A//www.searchquotes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchquotes.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209022417id_/http%3A//www.searchquotes.com/privacy) for the most accurate reproduction.*
 
 # Search Quotes - Privacy Policy
 
@@ -6,7 +6,7 @@ Search Quotes Privacy Policy
 
 This privacy policy sets out how Search Quotes uses and protects any information that you give Search Quotes when you use this website.  
 Search Quotes is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
-Search Quotes may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 10, 2011.  
+Search Quotes may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from December 8, 2011.  
 **  
 What we collect**   
 We may collect the following information:
@@ -46,7 +46,9 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.  
 **  
 Links to other websites**  
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.  
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).  
 **  
 Controlling your personal information**  
 You may choose to restrict the collection or use of your personal information in the following ways:
