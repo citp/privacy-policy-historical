@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiomap.eu privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210121347id_/http%3A//www.radiomap.eu/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiomap.eu privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209150438id_/http%3A//radiomap.eu/about/privacy.htm) for the most accurate reproduction.*
 
 # Radiomap.eu • Privacy Policy
 
@@ -9,12 +9,12 @@
 
 ### Copyrights
 
-    Radiomap.eu.com is a registered trademark owned by Mikhail Shcherbak. Radio station streams and logos are the copyright of each respective owner.
+    Radiomap.eu is a registered trademark owned by Mikhail Shcherbak. Radio station streams and logos are the copyright of each respective owner.
 
   
 
 
-### Radiomap.eu.com Links
+### Radiomap.eu Links
 
     In various places on the Radiomap.eu Site, we collect "Personally Identifiable Information," such as your name, and e-mail address and other information that can be used to contact you or identify you as an individual. For example, we collect this information when you register for your Radiomap.eu account. From time to time in the future we may offer additional features, services, and promotional opportunities that would require you to submit Personally Identifiable Information to participate. We also collect "Anonymous Information" such as your IP address, the type of browser you use, the pages on our Sites that you have visited, and the advertisements that you have clicked on. Your Personally Identifiable Information is linked to your Anonymous Information. Like many Internet sites, we also use "cookies" to collect information. A cookie is a small data file that we transfer to your computer and that is stored on your hard drive. When you visit our Site(s) the cookie identifies your computer to us so that you do not have to re-register each time you visit. We may also use cookies to measure the traffic to our Sites and to measure the use of different services and features of the Sites.
 
