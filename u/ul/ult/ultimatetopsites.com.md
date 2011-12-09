@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatetopsites.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626181300id_/http%3A//www.ultimatetopsites.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatetopsites.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209163836id_/http%3A//www.ultimatetopsites.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
