@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidoox.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211111913id_/http%3A//www.vidoox.com/page.php%3Fp%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidoox.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209152428id_/http%3A//www.vidoox.com/page.php%3Fp%3D2) for the most accurate reproduction.*
 
 # Privacy Policy
 
