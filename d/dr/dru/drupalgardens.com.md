@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupalgardens.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516143351id_/http%3A//www.drupalgardens.com/content/drupal-gardens-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalgardens.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209173224id_/http%3A//www.drupalgardens.com/content/drupal-gardens-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Drupal Gardens
 
@@ -40,4 +40,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 Some of the terms in this privacy policy were borrowed from [Automattic.com](http://automattic.com/privacy/), who was gracious enough to make their privacy policy available under a Creative Commons Sharealike license.
 
-Last update: 2001-01-25
+Last update: 2010-01-25
