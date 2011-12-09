@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526235811id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209181548id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
@@ -70,5 +70,40 @@ What's This?
   
 Enjoy this page? Please pay it forward. Here's how...  
   
-  
+### Sign Up for the   
+_Free_ E-Zine!  
+And _Receive_
 
+_a copy of_   
+**_How Therapeutic Essential Oils Help Us Recover our Emotional Wellbeing One Oil at a Time!_**
+
+* * *
+
+**Main Event December 6 and 8**
+
+Want To Learn More? Listen to the [Preview Call for this Event!](http://www.experience-essential-oils.com/essential-oil-teleseminars-and-webinars.html)
+
+###   
+_Miss Part 1 of Breaking through Barriers?_
+
+**Part 1 is Complimentary, so Listen to this[Life Changing Seminar Now!](http://www.experience-essential-oils.com/breaking-through-emotional-barriers-with-essential-oils.html)**
+
+* * *
+
+* * *
+
+* * *
+
+### The Oil Shop is Open!
+
+**_Searching for  
+Therapeutic Grade Essential Oils  
+Online?_**
+
+Look no further! Place your order at our online essential oil store, [**The Oil Shop!**](http://shop.experience-essential-oils.com/)
+
+[](http://shop.experience-essential-oils.com/palo-santo-essential-oil.html)
+
+For Canadian and international orders please contact me with a product request and shipping address for a quote today! 
+
+* * *
