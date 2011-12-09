@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unfranchise.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506200833id_/http%3A//www.unfranchise.com/index.cfm%3Faction%3Dservices.ubPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfranchise.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209154504id_/http%3A//www.unfranchise.com/index.cfm%3Faction%3Dservices.ubPrivacyPolicy) for the most accurate reproduction.*
 
-# Market America Privacy Policy
+# Market America Privacy Policy | Unfranchise Business
 
 Your Market America Privacy Policy
 
