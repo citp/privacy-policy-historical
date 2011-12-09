@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yandy.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316224059id_/http%3A//www.yandy.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yandy.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209051856id_/http%3A//www.yandy.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Yandy Lingerie Privacy Policy
 
