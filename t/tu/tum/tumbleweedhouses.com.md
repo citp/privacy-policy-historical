@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tumbleweedhouses.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520234306id_/http%3A//www.tumbleweedhouses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumbleweedhouses.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209061246id_/http%3A//www.tumbleweedhouses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,11 @@ information in the future (“opt-in”), or (b) you have registered or purchase
 have an existing relationship with us. We respect your time and attention by controlling  
 the frequency of our mailings.
 
-**How can you stop receiving email from us?**
+ **How can you stop receiving email from us?**
 
 Each email sent contains a link at the bottom to unsubscibe. Simply click on the link and we will stop sending you email.
 
-**Sharing and Usage**
+ **Sharing and Usage**
 
 We will never share, sell, or rent individual personal information with anyone for their  
 promotional use without your advance permission or unless ordered by a court of law.  
@@ -23,7 +23,7 @@ purposes of contacting you or sending you emails based on your request for infor
 and to contracted service providers for purposes of providing services relating to our  
 communications with you.
 
-**Use of Web Beacons**
+ **Use of Web Beacons**
 
 When we send you emails, we may include a web beacon to allow us to determine the  
 number of people who open our emails. When you click on a link in an email, we may  
