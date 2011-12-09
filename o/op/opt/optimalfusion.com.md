@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618150255id_/http%3A//www.optimalfusion.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalfusion.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209114612id_/http%3A//www.optimalfusion.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - OptimalFusion - Direct Response Marketing Specialists with over 25 years experience
 
