@@ -1,10 +1,13 @@
-<!--The following is the downloaded HTML source of the imercer.com privacy policy that was archived on 2011-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110515005439id_/http%3A//www.imercer.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imercer.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209124845id_/http%3A//www.imercer.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<title>iMercer.com</title>
 		<meta name="description" content="">
 		<meta name="keywords" content="">
+        <!-- Added a meta tag for WebTrends CQ Id: wmm200107444 -->
+        <meta name="DCS.dcsaut" content="">
+        
 		 
 		
 		
@@ -14,7 +17,6 @@
   		<link rel="stylesheet" href="/StyleSheets/Tooltip.css" type="text/css">
         <link rel="Stylesheet" href="/App_Themes/Default/jquery-ui-1.8.5.custom.css" type="text/css">
         <link rel="Stylesheet" href="/StyleSheets/General.css" type="text/css">
-
         <script src="/jquery.js" type="text/javascript"></script>
       <!--
       <script src='/jquery.corner.js' type="text/javascript" ></script>
@@ -47,8 +49,8 @@
       </script>
 
       <script type="text/JavaScript">
-          $(document).ready(function() {
-          
+          $(document).ready(function () {
+
               /*Curvy corners for text boxes*/
               var settingsTextBox = {
                   tl: { radius: 4 },
@@ -61,9 +63,9 @@
 
               /*Make rows that have 2 divs align correctly*/
               /*if (alignAllHeights != null) {*/
-                  if (typeof alignAllHeights == 'function') {
-                      alignAllHeights();
-                  }
+              if (typeof alignAllHeights == 'function') {
+                  alignAllHeights();
+              }
               /*}*/
 
               /*Curvy corners for body*/
@@ -88,7 +90,7 @@
               curvyCorners(settingsTL, '.curveTopLeft');
 
               /*Curvy corners for Top Right*/
-              var settingsTR = {                   
+              var settingsTR = {
                   tr: { radius: 8 },
                   antiAlias: true
               }
@@ -107,7 +109,37 @@
                   antiAlias: true
               }
               curvyCorners(settingsBL, '.curveBottomLeft');
+
+              //Release 4.5 Ticket Id wmm200103282 imercer.com only supported in newer browsers of IE7 and up and Firefox.
+              showIncompatibleBrowserMsg();
           })
+
+          /*************************************************************
+          Release 4.5 Ticket Id wmm200103282 imercer.com only supported in newer browsers of IE7 and up and Firefox.
+          Function Desc: Checks a hidden flag and shows lower browser version message.
+          **************************************************************/
+          function showIncompatibleBrowserMsg() 
+          {
+              //Initially hiding the message
+              $('.messageBody').hide();
+
+              //Getting the hidden flag.
+              var showMessageHdnField = $('#hdnShowIncompatipleBrowserMsg')
+              if (showMessageHdnField != null) 
+              {
+                  //Getting the value of the flag.
+                  var showMessageFlag = showMessageHdnField.val();
+                  if (showMessageFlag != null) 
+                  {
+                      if (showMessageFlag.toLowerCase() == 'true') 
+                      {
+                          //Show the warning message.
+                          $('.messageBody').prependTo($('.tempMessage')).slideDown(500);
+                      }
+                  }
+              }
+          }
+
 </script> 
 
         <script src="/common.js" type="text/javascript"></script>
@@ -118,13 +150,22 @@
 		</script>
 	</head>
 	<body style="margin: 0px; padding: 0px">
- 		<form name="Form1" method="post" action="default.aspx?page=privacy" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUINjM5MTg3MTMPZBYCAgMPZBYGAgIPZBYCZg9kFgICAQ9kFggCAw8PFgIeC05hdmlnYXRlVXJsBRN+L1VTL3RhYnMvaG9tZS5hc3B4ZGQCBA8WAh4LXyFJdGVtQ291bnQCBxYOZg9kFgQCAQ8WAh4HYmdjb2xvcgUHIzAwNTdhNhYCAgEPZBYCZg8VAQExZAIDDxYCHgVjbGFzcwURdGFiQmFyQ2VsbHNBY3RpdmUWAgIBDw8WCB4IQ3NzQ2xhc3MFEXRhYkJhckNlbGxzQWN0aXZlHwAFE34vVVMvdGFicy9ob21lLmFzcHgeBF8hU0ICAh4HVmlzaWJsZWhkFgJmDxUBBEhPTUVkAgEPZBYEAgEPFgIfAgUHIzAwNTdhNhYCAgEPZBYCZg8VAQEyZAIDD2QWAgIBDw8WAh8ABRd+L1VTL3RhYnMvcHJvZHVjdHMuYXNweGQWAmYPFQEgU1VSVkVZUyZuYnNwOyZhbXA7Jm5ic3A7UFJPRFVDVFNkAgIPZBYEAgEPFgIfAgUHIzAwNTdhNhYCAgEPZBYCZg8VAQEzZAIDD2QWAgIBDw8WAh8ABRd+L1VTL3RhYnMvc2VydmljZXMuYXNweGQWAmYPFQEIU0VSVklDRVNkAgMPZBYEAgEPFgIfAgUHIzAwNTdhNhYCAgEPZBYCZg8VAQE0ZAIDD2QWAgIBDw8WAh8ABRV+L1VTL3RhYnMvZXZlbnRzLmFzcHhkFgJmDxUBD0VWRU5UUy9UUkFJTklOR2QCBA9kFgQCAQ8WAh8CBQcjMDA1N2E2FgICAQ9kFgJmDxUBATVkAgMPZBYCAgEPDxYCHwAFE34vVVMvdGFicy9uZXdzLmFzcHhkFgJmDxUBIUhSJm5ic3A7TkVXUyZuYnNwOyZhbXA7Jm5ic3A7SU5GT2QCBQ9kFgQCAQ8WAh8CBQcjMDA1N2E2FgICAQ9kFgJmDxUBATZkAgMPZBYCAgEPDxYCHwAFEX4vVVMvdGFicy9jcy5hc3B4ZBYCZg8VARVDVVNUT01FUiZuYnNwO1NFUlZJQ0VkAgYPZBYGAgEPFgIfAgUHIzAwNTdhNhYCAgEPZBYCZg8VAQE3ZAIDD2QWAgIBDw8WAh8ABRR+L1VTL3RhYnMvYWJvdXQuYXNweGQWAmYPFQENQUJPVVQmbmJzcDtVU2QCBQ8PFgIeCEltYWdlVXJsBRx+L0ltYWdlcy9sYXN0IFNlcGVyYXRvcjIuZ2lmZGQCBQ9kFgoCAw8PZBYCHgpvbmtleXByZXNzBSlyZXR1cm4gY2xpY2tCdXR0b24oZXZlbnQsJ0hlYWRlcjFfYnRuR08nKWQCBQ8PZBYCHwgFKXJldHVybiBjbGlja0J1dHRvbihldmVudCwnSGVhZGVyMV9idG5HTycpZAIHDw8WAh4EVGV4dAUCR09kZAIJDw8WBB8JBQ9Gb3Jnb3QgUGFzc3dvcmQfAAUifi9kZWZhdWx0LmFzcHg/cGFnZT1mb3Jnb3RQYXNzd29yZGRkAgsPZBYCAgEPDxYEHwAFHX4vZGVmYXVsdC5hc3B4P3BhZ2U9cmVnbWVtYmVyHwkFCFJlZ2lzdGVyZGQCBg9kFgICBQ8PFgIfCQUGTG9nb3V0ZGQCAw9kFgJmD2QWBgIDDw8WAh8JBQ1Vbml0ZWQgU3RhdGVzZGQCBQ8QDxYGHg1EYXRhVGV4dEZpZWxkBQROYW1lHg5EYXRhVmFsdWVGaWVsZAUIUmVnaW9uSWQeC18hRGF0YUJvdW5kZ2QQFQkSU2VsZWN0IGEgcmVnaW9uLi4uBEFzaWEJQXVzdHJhbGlhBkNhbmFkYQZFdXJvcGUNTGF0aW4gQW1lcmljYRJNaWRkbGUgRWFzdC9BZnJpY2ELTmV3IFplYWxhbmQNVW5pdGVkIFN0YXRlcxUJATABMQEyAzEwMgEzATQBNgE3AzEwMBQrAwlnZ2dnZ2dnZ2cWAWZkAgcPDxYCHwZnZBYCZg9kFgJmD2QWAmYPZBYEAgEPFgIfCWVkAgMPFgIfCQXRGjxzY3JpcHQgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQoNCmZ1bmN0aW9uIGlzSUUoKXsgIHJldHVybiAvbXNpZS9pLnRlc3QobmF2aWdhdG9yLnVzZXJBZ2VudCkgJiYgIS9vcGVyYS9pLnRlc3QobmF2aWdhdG9yLnVzZXJBZ2VudCk7fSANCi8vd21tMjAwMDM5MjE2DQpmdW5jdGlvbiBTaG93Qm9va21hcmtVcygpDQp7DQogICAgdmFyIGltZz0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ0hlYWRlcjFfYm9va21hcmtJbWFnZScpOw0KICAgIHZhciBsaW5rPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdBMicpOw0KDQogICAgaWYgKGlzSUUoKSkNCiAgICB7DQoJICAgIGltZy5zdHlsZS52aXNpYmlsaXR5ID0gJ3Zpc2libGUnOw0KICAgICAgICAgICAgbGluay5zdHlsZS52aXNpYmlsaXR5PSd2aXNpYmxlJzsNCiAgICB9DQp9DQoNCmZ1bmN0aW9uIEhlYWRlck9uTG9hZEhhbmRsZXIoKQ0Kew0KICAgIFNob3dCb29rbWFya1VzKCk7DQp9DQoNCmZ1bmN0aW9uIGFkZExvYWRFdmVudEhhbmRsZXIoZnVuYykgDQp7ICAgICANCiAgICB2YXIgcHJldmlvdXNfaGFuZGxlciA9IHdpbmRvdy5vbmxvYWQ7DQogICAgaWYodHlwZW9mIHdpbmRvdy5vbmxvYWQgIT0gImZ1bmN0aW9uIikgd2luZG93Lm9ubG9hZCA9IGZ1bmM7ICANCiAgICBlbHNlIHdpbmRvdy5vbmxvYWQgPSBmdW5jdGlvbigpIA0KICAgIHsgICAgICAgICAgICAgDQogICAgICAgIHByZXZpb3VzX2hhbmRsZXIgKCk7ICAgICAgICAgICAgICANCiAgICAgICAgZnVuYygpOyAgICAgICAgIA0KICAgIH0NCn0NCg0KLy9hZGQgdGhpcyBjb250cm9sJ3Mgb25Mb2FkIGhhbmRsZXIgdG8gdGhlIGRvY3VtZW50J3Mgb25sb2FkLCB3aXRob3V0DQovL3JlcGxhY2luZyB3aGF0ZXZlciBoYW5kbGVyIG1heSBiZSB0aGVyZSBhbHJlYWR5DQphZGRMb2FkRXZlbnRIYW5kbGVyIChIZWFkZXJPbkxvYWRIYW5kbGVyKTsNCjwvc2NyaXB0Pg0KPGZvbnQgZmFjZT1hcmlhbCBzaXplPTMgY29sb3I9M0Y2OTlFPjxiPlN0YXkgQ29ubmVjdGVkPC9iPjwvZm9udD48YnIgLz4NCjx0YWJsZT4NCjx0cj48dGQ+PGEgaHJlZj0iaHR0cDovL3d3dy5pbWVyY2VyLmNvbS9jb250ZW50L21lcmNlci1yc3MtZmVlZHMuYXNweCI+PGltZyBzcmM9Imh0dHA6Ly93d3cuaW1lcmNlci5jb20vY29udGVudC9jb21tb24vaW1hZ2VzL2ljb25fcnNzLmdpZiIgLyBib3JkZXI9JzAnPjwvYT48L3RkPjx0ZD48YSBocmVmPSJodHRwOi8vd3d3LmltZXJjZXIuY29tL2NvbnRlbnQvbWVyY2VyLXJzcy1mZWVkcy5hc3B4Ij48Zm9udCBjb2xvcj0wMDMzOTkgZmFjZT1hcmlhbCBzaXplPTI+UlNTPC9mb250PjwvYT48L3RkPjwvdHI+DQo8dHI+PHRkPjxhIGhyZWY9Imh0dHA6Ly9zZWxlY3QubWVyY2VyLmNvbS9wb2RjYXN0LyIgdGFyZ2V0PV9ibGFuaz48aW1nIHNyYz0iaHR0cDovL3d3dy5pbWVyY2VyLmNvbS9jb250ZW50L2NvbW1vbi9pbWFnZXMvaWNvbl9wb2RjYXN0cy5naWYiIC8gYm9yZGVyPScwJz48L2E+PC90ZD48dGQ+PGEgaHJlZj0iaHR0cDovL3NlbGVjdC5tZXJjZXIuY29tL3BvZGNhc3QvIiB0YXJnZXQ9X2JsYW5rPjxmb250IGNvbG9yPTAwMzM5OSBmYWNlPWFyaWFsIHNpemU9Mj5Qb2RjYXN0czwvZm9udD48L2E+PC90ZD48L3RyPg0KPHRyPjx0ZD48YSBocmVmPSJodHRwOi8vd3d3Lm1lcmNlci5jb20vd2ViY2FzdHMuaHRtIiB0YXJnZXQ9X2JsYW5rPjxpbWcgc3JjPSJodHRwOi8vd3d3LmltZXJjZXIuY29tL2NvbnRlbnQvY29tbW9uL2ltYWdlcy9pY29uX3dlYmNhc3RzLmdpZiIgLyBib3JkZXI9JzAnPjwvYT48L3RkPjx0ZD48YSBocmVmPSJodHRwOi8vd3d3Lm1lcmNlci5jb20vd2ViY2FzdHMuaHRtIiB0YXJnZXQ9X2JsYW5rPjxmb250IGNvbG9yPTAwMzM5OSBmYWNlPWFyaWFsIHNpemU9Mj5XZWJjYXN0czwvZm9udD48L2E+PC90ZD48L3RyPg0KPHRyPjx0ZD48YSBocmVmPSJodHRwOi8vd3d3LnlvdXR1YmUuY29tL3VzZXIvbWVyY2VydmlkZW8iIHRhcmdldD1fYmxhbms+PGltZyBzcmM9Imh0dHA6Ly93d3cuaW1lcmNlci5jb20vY29udGVudC9jb21tb24vaW1hZ2VzL2ljb25feW91dHViZS5naWYiIC8gYm9yZGVyPScwJz48L2E+PC90ZD48dGQ+PGEgaHJlZj0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS91c2VyL21lcmNlcnZpZGVvIiB0YXJnZXQ9X2JsYW5rPjxmb250IGNvbG9yPTAwMzM5OSBmYWNlPWFyaWFsIHNpemU9Mj5Zb3VUdWJlPC9mb250PjwvYT48L3RkPjwvdHI+DQo8dHI+PHRkPjxhIGhyZWY9Imh0dHA6Ly90d2l0dGVyLmNvbS9NZXJjZXJJbnNpZ2h0cyIgdGFyZ2V0PV9ibGFuaz48aW1nIHNyYz0iaHR0cDovL3d3dy5pbWVyY2VyLmNvbS9jb250ZW50L2NvbW1vbi9pbWFnZXMvaWNvbl90d2l0dGVyLmdpZiIgLyBib3JkZXI9JzAnPjwvYT48L3RkPjx0ZD48YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vTWVyY2VySW5zaWdodHMiIHRhcmdldD1fYmxhbms+PGZvbnQgY29sb3I9MDAzMzk5IGZhY2U9YXJpYWwgc2l6ZT0yPlR3aXR0ZXI8L2ZvbnQ+PC9hPjwvdGQ+PC90cj4NCjx0cj48dGQ+PGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vTWVyY2VySW5zaWdodHMiIHRhcmdldD1fYmxhbms+PGltZyBzcmM9Imh0dHA6Ly93d3cuaW1lcmNlci5jb20vY29udGVudC9jb21tb24vaW1hZ2VzL2ljb25fZmFjZWJvb2suZ2lmIiAvIGJvcmRlcj0nMCc+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL01lcmNlckluc2lnaHRzIiB0YXJnZXQ9X2JsYW5rPjxmb250IGNvbG9yPTAwMzM5OSBmYWNlPWFyaWFsIHNpemU9Mj5GYWNlYm9vazwvZm9udD48L2E+PC90ZD48L3RyPg0KPHRyPjx0ZD48YSBpZD0iSGVhZGVyMV9sbmtGYXYiIHJlbD0ibm9pbmRleCxub2ZvbGxvdyIgb25jbGljaz0id2luZG93LmV4dGVybmFsLkFkZEZhdm9yaXRlKGxvY2F0aW9uLmhyZWYsICdNZXJjZXIgLSBpbWVyY2VyLmNvbScpOyIgc3R5bGU9ImN1cnNvcjpoYW5kOyI+PGltZyBpZD0iSGVhZGVyMV9ib29rbWFya0ltYWdlIiBzdHlsZT0iYm9yZGVyLXdpZHRoOjBweDtib3JkZXItc3R5bGU6Tm9uZTt2aXNpYmlsaXR5OmhpZGRlbiIgLyBzcmM9Imh0dHA6Ly93d3cuaW1lcmNlci5jb20vY29udGVudC9jb21tb24vaW1hZ2VzL2ljb25fYm9va21hcmsuZ2lmIiAvIGJvcmRlcj0nMCc+PC9hPjwvdGQ+PHRkPjxhIGlkPSJBMiIgcmVsPSJub2luZGV4LG5vZm9sbG93IiBvbmNsaWNrPSJ3aW5kb3cuZXh0ZXJuYWwuQWRkRmF2b3JpdGUobG9jYXRpb24uaHJlZiwgJ01lcmNlciAtIGltZXJjZXIuY29tJyk7IiBzdHlsZT0iY3Vyc29yOmhhbmQ7dmlzaWJpbGl0eTpoaWRkZW4iPjxmb250IGNvbG9yPTAwMzM5OSBmYWNlPWFyaWFsIHNpemU9Mj48dT5Cb29rbWFyayBTaXRlPC91PjwvZm9udD48L2E+PC90ZD48L3RyPg0KPC90YWJsZT5kAgUPZBYCZg9kFgYCAQ8WBB4Hb25jbGljawUud2luZG93LmxvY2F0aW9uPScvZGVmYXVsdC5hc3B4P3BhZ2U9bXlhY2NvdW50Jx4Fc3R5bGUFUmJhY2tncm91bmQtaW1hZ2U6dXJsKCcvSW1hZ2VzL25ld19tZW51X2JhY2tncm91bmQuanBnJyk7YmFja2dyb3VuZC1yZXBlYXQ6cmVwZWF0OydkAgMPFgIfAwUPbXlBY2NvdW50TmF2UmVnFgJmD2QWAmYPZBYIAgEPDxYCHwAFRH4vZGVmYXVsdC5hc3B4P3BhZ2U9bG9naW4mdXJsPSU3ZSUyZmRlZmF1bHQuYXNweCUzZnBhZ2UlM2RwYXltb25pdG9yZGQCAw8PFgIfAAUdfi9kZWZhdWx0LmFzcHg/cGFnZT1yZWdtZW1iZXJkZAIFDw8WAh8JBT1SZWdpc3RyYXRpb24gaXMgZnJlZSBhbmQgcHJvdmlkZXMgeW91IHRoZSBmb2xsb3dpbmcgYmVuZWZpdHM6ZGQCBw8PFgIfCQXKATx1bCAgdHlwZT0ic3F1YXJlIj48bGk+U2VsZWN0IHlvdXIgcmVnaW9uYWwgaG9tZXBhZ2Ugd2l0aCBwcm9kdWN0cyBhbmQgZXZlbnRzIHRoYXQgaW50ZXJlc3QgeW91IG1vc3QuPC9saT48bGk+R2V0IGFjY2VzcyB0byBmcmVlIHByZW1pdW0gY29udGVudC48L2xpPjxsaT5TZWxlY3QgYW5kIG1hbmFnZSBlbWFpbCBzdWJzY3JpcHRpb25zLjwvbGk+PC91bD5kZAIFD2QWAmYPFgIfBmgWAgIBDxYCHw0FoAF0b2dnbGVWaXMoJ215QWNjb3VudE5hdl95b3VyQWNjb3VudF9Zb3VyQWNjb3VudE5hdkJvZHknLCdZb3VyQWNjb3VudE5hdkhlYWRlclJpZ2h0JywgJy9pbWFnZXMvV2hpdGVBcnJvd1VwX1JpZ2h0TmF2LmdpZicsICcvaW1hZ2VzL1doaXRlQXJyb3dEb3duX1JpZ2h0TmF2LmdpZicpZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUQSGVhZGVyMSRpYlNlYXJjaK9BbR/3GGdK9eMnLW7eKrtQvRCQ">
+ 		<form name="Form1" method="post" action="/default.aspx?page=privacy" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMyODMwMDA1NA9kFgICAw9kFggCAg8PFgIeB1Zpc2libGVoZBYCAgEPZBYEAgEPDxYCHgRUZXh0BcUBaU1lcmNlci5jb20gaXMgbm8gbG9uZ2VyIG9wdGltaXplZCBmb3IgeW91ciBjdXJyZW50IGJyb3dzZXIuICBGb3Igb3B0aW1hbCByZXN1bHRzIHdoZW4gdXNpbmcgdGhpcyBzaXRlLCB3ZSByZWNvbW1lbmQgdXNpbmcgdGhlIGZvbGxvd2luZyBicm93c2VycyBhbmQgYWJvdmU6PGJyIC8+IElFIDguMCwgRmlyZWZveCAzLjUgb3IgU2FmYXJpIDQueC5kZAIDDw9kFgIeB29uQ2xpY2sFDWhpZGVNZXNzYWdlKClkAgQPZBYCZg9kFgICAQ9kFggCAw8PFgIeC05hdmlnYXRlVXJsBRV+L0FzaWEvdGFicy9ob21lLmFzcHhkZAIEDxYCHgtfIUl0ZW1Db3VudAIHFg5mD2QWBAIBDxYCHgdiZ2NvbG9yBQcjMDA1N2E2FgICAQ9kFgJmDxUBATFkAgMPFgIeBWNsYXNzBRF0YWJCYXJDZWxsc0FjdGl2ZRYCAgEPDxYIHghDc3NDbGFzcwURdGFiQmFyQ2VsbHNBY3RpdmUfAwUVfi9Bc2lhL3RhYnMvaG9tZS5hc3B4HgRfIVNCAgIfAGhkFgJmDxUBBEhPTUVkAgEPZBYEAgEPFgIfBQUHIzAwNTdhNhYCAgEPZBYCZg8VAQEyZAIDD2QWAgIBDw8WAh8DBRl+L0FzaWEvdGFicy9wcm9kdWN0cy5hc3B4ZBYCZg8VASBTVVJWRVlTJm5ic3A7JmFtcDsmbmJzcDtQUk9EVUNUU2QCAg9kFgQCAQ8WAh8FBQcjMDA1N2E2FgICAQ9kFgJmDxUBATNkAgMPZBYCAgEPDxYCHwMFGX4vQXNpYS90YWJzL3NlcnZpY2VzLmFzcHhkFgJmDxUBCFNFUlZJQ0VTZAIDD2QWBAIBDxYCHwUFByMwMDU3YTYWAgIBD2QWAmYPFQEBNGQCAw9kFgICAQ8PFgIfAwUXfi9Bc2lhL3RhYnMvZXZlbnRzLmFzcHhkFgJmDxUBD0VWRU5UUy9UUkFJTklOR2QCBA9kFgQCAQ8WAh8FBQcjMDA1N2E2FgICAQ9kFgJmDxUBATVkAgMPZBYCAgEPDxYCHwMFFX4vQXNpYS90YWJzL25ld3MuYXNweGQWAmYPFQEhSFImbmJzcDtORVdTJm5ic3A7JmFtcDsmbmJzcDtJTkZPZAIFD2QWBAIBDxYCHwUFByMwMDU3YTYWAgIBD2QWAmYPFQEBNmQCAw9kFgICAQ8PFgIfAwUTfi9Bc2lhL3RhYnMvY3MuYXNweGQWAmYPFQEVQ1VTVE9NRVImbmJzcDtTRVJWSUNFZAIGD2QWBgIBDxYCHwUFByMwMDU3YTYWAgIBD2QWAmYPFQEBN2QCAw9kFgICAQ8PFgIfAwUWfi9Bc2lhL3RhYnMvYWJvdXQuYXNweGQWAmYPFQENQUJPVVQmbmJzcDtVU2QCBQ8PFgIeCEltYWdlVXJsBRx+L0ltYWdlcy9sYXN0IFNlcGVyYXRvcjIuZ2lmZGQCBQ9kFgICBQ8PFgIfAQUGTG9nb3V0ZGQCCQ8PFgIfAGdkZAIFD2QWAmYPZBYGAgMPDxYCHwEFBEFzaWFkZAIFDxAPFgYeDURhdGFUZXh0RmllbGQFBE5hbWUeDkRhdGFWYWx1ZUZpZWxkBQhSZWdpb25JZB4LXyFEYXRhQm91bmRnZBAVCRJTZWxlY3QgYSByZWdpb24uLi4EQXNpYQlBdXN0cmFsaWEGQ2FuYWRhBkV1cm9wZQ1MYXRpbiBBbWVyaWNhEk1pZGRsZSBFYXN0L0FmcmljYQtOZXcgWmVhbGFuZA1Vbml0ZWQgU3RhdGVzFQkBMAExATIDMTAyATMBNAE2ATcDMTAwFCsDCWdnZ2dnZ2dnZxYBZmQCBw8PFgIfAGdkFgJmD2QWAmYPZBYCZg9kFgQCAQ8WAh8BZWQCAw8WAh8BBf4cPHNjcmlwdCBsYW5ndWFnZT0iamF2YXNjcmlwdCIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4NCg0KZnVuY3Rpb24gaXNJRSgpeyAgcmV0dXJuIC9tc2llL2kudGVzdChuYXZpZ2F0b3IudXNlckFnZW50KSAmJiAhL29wZXJhL2kudGVzdChuYXZpZ2F0b3IudXNlckFnZW50KTt9IA0KLy93bW0yMDAwMzkyMTYNCmZ1bmN0aW9uIFNob3dCb29rbWFya1VzKCkNCnsNCiAgICB2YXIgaW1nPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnSGVhZGVyMV9ib29rbWFya0ltYWdlJyk7DQogICAgdmFyIGxpbms9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ0EyJyk7DQoNCiAgICBpZiAoaXNJRSgpKQ0KICAgIHsNCgkgICAgaW1nLnN0eWxlLnZpc2liaWxpdHkgPSAndmlzaWJsZSc7DQogICAgICAgICAgICBsaW5rLnN0eWxlLnZpc2liaWxpdHk9J3Zpc2libGUnOw0KICAgIH0NCn0NCg0KZnVuY3Rpb24gSGVhZGVyT25Mb2FkSGFuZGxlcigpDQp7DQogICAgU2hvd0Jvb2ttYXJrVXMoKTsNCn0NCg0KZnVuY3Rpb24gYWRkTG9hZEV2ZW50SGFuZGxlcihmdW5jKSANCnsgICAgIA0KICAgIHZhciBwcmV2aW91c19oYW5kbGVyID0gd2luZG93Lm9ubG9hZDsNCiAgICBpZih0eXBlb2Ygd2luZG93Lm9ubG9hZCAhPSAiZnVuY3Rpb24iKSB3aW5kb3cub25sb2FkID0gZnVuYzsgIA0KICAgIGVsc2Ugd2luZG93Lm9ubG9hZCA9IGZ1bmN0aW9uKCkgDQogICAgeyAgICAgICAgICAgICANCiAgICAgICAgcHJldmlvdXNfaGFuZGxlciAoKTsgICAgICAgICAgICAgIA0KICAgICAgICBmdW5jKCk7ICAgICAgICAgDQogICAgfQ0KfQ0KDQovL2FkZCB0aGlzIGNvbnRyb2wncyBvbkxvYWQgaGFuZGxlciB0byB0aGUgZG9jdW1lbnQncyBvbmxvYWQsIHdpdGhvdXQNCi8vcmVwbGFjaW5nIHdoYXRldmVyIGhhbmRsZXIgbWF5IGJlIHRoZXJlIGFscmVhZHkNCmFkZExvYWRFdmVudEhhbmRsZXIgKEhlYWRlck9uTG9hZEhhbmRsZXIpOw0KPC9zY3JpcHQ+DQo8Zm9udCBmYWNlPWFyaWFsIHNpemU9MyBjb2xvcj0zRjY5OUU+PGI+U3RheSBDb25uZWN0ZWQ8L2I+PC9mb250PjxiciAvPg0KPHRhYmxlPg0KPHRyPjx0ZD48YSBocmVmPSJodHRwOi8vd3d3LmltZXJjZXIuY29tL2NvbnRlbnQvbWVyY2VyLXJzcy1mZWVkcy5hc3B4Ij48aW1nIHNyYz0iaHR0cDovL3d3dy5pbWVyY2VyLmNvbS9jb250ZW50L2NvbW1vbi9pbWFnZXMvaWNvbl9yc3MuZ2lmIiAvIGJvcmRlcj0nMCc+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9Imh0dHA6Ly93d3cuaW1lcmNlci5jb20vY29udGVudC9tZXJjZXItcnNzLWZlZWRzLmFzcHgiPjxmb250IGNvbG9yPTAwMzM5OSBmYWNlPWFyaWFsIHNpemU9Mj5SU1M8L2ZvbnQ+PC9hPjwvdGQ+PC90cj4NCjx0cj48dGQ+PGEgaHJlZj0iaHR0cDovL3NlbGVjdC5tZXJjZXIuY29tL3BvZGNhc3QvIiB0YXJnZXQ9X2JsYW5rPjxpbWcgc3JjPSJodHRwOi8vd3d3LmltZXJjZXIuY29tL2NvbnRlbnQvY29tbW9uL2ltYWdlcy9pY29uX3BvZGNhc3RzLmdpZiIgLyBib3JkZXI9JzAnPjwvYT48L3RkPjx0ZD48YSBocmVmPSJodHRwOi8vc2VsZWN0Lm1lcmNlci5jb20vcG9kY2FzdC8iIHRhcmdldD1fYmxhbms+PGZvbnQgY29sb3I9MDAzMzk5IGZhY2U9YXJpYWwgc2l6ZT0yPlBvZGNhc3RzPC9mb250PjwvYT48L3RkPjwvdHI+DQo8dHI+PHRkPjxhIGhyZWY9Imh0dHA6Ly93d3cubWVyY2VyLmNvbS93ZWJjYXN0cy5odG0iIHRhcmdldD1fYmxhbms+PGltZyBzcmM9Imh0dHA6Ly93d3cuaW1lcmNlci5jb20vY29udGVudC9jb21tb24vaW1hZ2VzL2ljb25fd2ViY2FzdHMuZ2lmIiAvIGJvcmRlcj0nMCc+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9Imh0dHA6Ly93d3cubWVyY2VyLmNvbS93ZWJjYXN0cy5odG0iIHRhcmdldD1fYmxhbms+PGZvbnQgY29sb3I9MDAzMzk5IGZhY2U9YXJpYWwgc2l6ZT0yPldlYmNhc3RzPC9mb250PjwvYT48L3RkPjwvdHI+DQo8dHI+PHRkPjxhIGhyZWY9Imh0dHA6Ly93d3cueW91dHViZS5jb20vdXNlci9tZXJjZXJ2aWRlbyIgdGFyZ2V0PV9ibGFuaz48aW1nIHNyYz0iaHR0cDovL3d3dy5pbWVyY2VyLmNvbS9jb250ZW50L2NvbW1vbi9pbWFnZXMvaWNvbl95b3V0dWJlLmdpZiIgLyBib3JkZXI9JzAnPjwvYT48L3RkPjx0ZD48YSBocmVmPSJodHRwOi8vd3d3LnlvdXR1YmUuY29tL3VzZXIvbWVyY2VydmlkZW8iIHRhcmdldD1fYmxhbms+PGZvbnQgY29sb3I9MDAzMzk5IGZhY2U9YXJpYWwgc2l6ZT0yPllvdVR1YmU8L2ZvbnQ+PC9hPjwvdGQ+PC90cj4NCjx0cj48dGQ+PGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL01lcmNlckluc2lnaHRzIiB0YXJnZXQ9X2JsYW5rPjxpbWcgc3JjPSJodHRwOi8vd3d3LmltZXJjZXIuY29tL2NvbnRlbnQvY29tbW9uL2ltYWdlcy9pY29uX3R3aXR0ZXIuZ2lmIiAvIGJvcmRlcj0nMCc+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9Imh0dHA6Ly90d2l0dGVyLmNvbS9NZXJjZXJJbnNpZ2h0cyIgdGFyZ2V0PV9ibGFuaz48Zm9udCBjb2xvcj0wMDMzOTkgZmFjZT1hcmlhbCBzaXplPTI+VHdpdHRlcjwvZm9udD48L2E+PC90ZD48L3RyPg0KPHRyPjx0ZD48YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vTWVyY2VyTW9iaWxpdHkiIHRhcmdldD1fYmxhbms+PGltZyBzcmM9Imh0dHA6Ly93d3cuaW1lcmNlci5jb20vY29udGVudC9jb21tb24vaW1hZ2VzL2ljb25fdHdpdHRlci5naWYiIC8gYm9yZGVyPScwJz48L2E+PC90ZD48dGQ+PGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL01lcmNlck1vYmlsaXR5IiB0YXJnZXQ9X2JsYW5rPjxmb250IGNvbG9yPTAwMzM5OSBmYWNlPWFyaWFsIHNpemU9Mj5Ud2l0dGVyIE1vYmlsaXR5PC9mb250PjwvYT48L3RkPjwvdHI+DQoNCjx0cj48dGQ+PGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vTWVyY2VySW5zaWdodHMiIHRhcmdldD1fYmxhbms+PGltZyBzcmM9Imh0dHA6Ly93d3cuaW1lcmNlci5jb20vY29udGVudC9jb21tb24vaW1hZ2VzL2ljb25fZmFjZWJvb2suZ2lmIiAvIGJvcmRlcj0nMCc+PC9hPjwvdGQ+PHRkPjxhIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL01lcmNlckluc2lnaHRzIiB0YXJnZXQ9X2JsYW5rPjxmb250IGNvbG9yPTAwMzM5OSBmYWNlPWFyaWFsIHNpemU9Mj5GYWNlYm9vazwvZm9udD48L2E+PC90ZD48L3RyPg0KPHRyPjx0ZD48YSBpZD0iSGVhZGVyMV9sbmtGYXYiIHJlbD0ibm9pbmRleCxub2ZvbGxvdyIgb25jbGljaz0id2luZG93LmV4dGVybmFsLkFkZEZhdm9yaXRlKGxvY2F0aW9uLmhyZWYsICdNZXJjZXIgLSBpbWVyY2VyLmNvbScpOyIgc3R5bGU9ImN1cnNvcjpoYW5kOyI+PGltZyBpZD0iSGVhZGVyMV9ib29rbWFya0ltYWdlIiBzdHlsZT0iYm9yZGVyLXdpZHRoOjBweDtib3JkZXItc3R5bGU6Tm9uZTt2aXNpYmlsaXR5OmhpZGRlbiIgLyBzcmM9Imh0dHA6Ly93d3cuaW1lcmNlci5jb20vY29udGVudC9jb21tb24vaW1hZ2VzL2ljb25fYm9va21hcmsuZ2lmIiAvIGJvcmRlcj0nMCc+PC9hPjwvdGQ+PHRkPjxhIGlkPSJBMiIgcmVsPSJub2luZGV4LG5vZm9sbG93IiBvbmNsaWNrPSJ3aW5kb3cuZXh0ZXJuYWwuQWRkRmF2b3JpdGUobG9jYXRpb24uaHJlZiwgJ01lcmNlciAtIGltZXJjZXIuY29tJyk7IiBzdHlsZT0iY3Vyc29yOmhhbmQ7dmlzaWJpbGl0eTpoaWRkZW4iPjxmb250IGNvbG9yPTAwMzM5OSBmYWNlPWFyaWFsIHNpemU9Mj48dT5Cb29rbWFyayBTaXRlPC91PjwvZm9udD48L2E+PC90ZD48L3RyPg0KPC90YWJsZT5kAgcPZBYCZg9kFgYCAQ8WBB4Hb25jbGljawUud2luZG93LmxvY2F0aW9uPScvZGVmYXVsdC5hc3B4P3BhZ2U9bXlhY2NvdW50Jx4Fc3R5bGUFUmJhY2tncm91bmQtaW1hZ2U6dXJsKCcvSW1hZ2VzL25ld19tZW51X2JhY2tncm91bmQuanBnJyk7YmFja2dyb3VuZC1yZXBlYXQ6cmVwZWF0OydkAgMPFgIfBgUPbXlBY2NvdW50TmF2UmVnFgJmD2QWAmYPZBYIAgEPDxYCHwMFRH4vZGVmYXVsdC5hc3B4P3BhZ2U9bG9naW4mdXJsPSU3ZSUyZmRlZmF1bHQuYXNweCUzZnBhZ2UlM2RwYXltb25pdG9yZGQCAw8PFgIfAwUdfi9kZWZhdWx0LmFzcHg/cGFnZT1yZWdtZW1iZXJkZAIFDw8WAh8BBT1SZWdpc3RyYXRpb24gaXMgZnJlZSBhbmQgcHJvdmlkZXMgeW91IHRoZSBmb2xsb3dpbmcgYmVuZWZpdHM6ZGQCBw8PFgIfAQXKATx1bCAgdHlwZT0ic3F1YXJlIj48bGk+U2VsZWN0IHlvdXIgcmVnaW9uYWwgaG9tZXBhZ2Ugd2l0aCBwcm9kdWN0cyBhbmQgZXZlbnRzIHRoYXQgaW50ZXJlc3QgeW91IG1vc3QuPC9saT48bGk+R2V0IGFjY2VzcyB0byBmcmVlIHByZW1pdW0gY29udGVudC48L2xpPjxsaT5TZWxlY3QgYW5kIG1hbmFnZSBlbWFpbCBzdWJzY3JpcHRpb25zLjwvbGk+PC91bD5kZAIFD2QWAmYPFgIfAGgWAgIBDxYCHw0FoAF0b2dnbGVWaXMoJ215QWNjb3VudE5hdl95b3VyQWNjb3VudF9Zb3VyQWNjb3VudE5hdkJvZHknLCdZb3VyQWNjb3VudE5hdkhlYWRlclJpZ2h0JywgJy9pbWFnZXMvV2hpdGVBcnJvd1VwX1JpZ2h0TmF2LmdpZicsICcvaW1hZ2VzL1doaXRlQXJyb3dEb3duX1JpZ2h0TmF2LmdpZicpZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUQSGVhZGVyMSRpYlNlYXJjaAUdSGVhZGVyMSR1eFJlZ2lzdGVySW1hZ2VCdXR0b24FGkhlYWRlcjEkdXhMb2dpbkltYWdlQnV0dG9u3saITgsCz1hYUQUUYmB9BIq1eb8=">
 
 
 <script src="/ScriptResource.axd?d=FNoK7UKNkjV1rvUDKQ_CKjDoz10N4FAYphPlX3FBARCl80VaMAzIbWR-y7-E7DlPV5StvPxLprSKqQa0J0zsP0lILDoGjfJgfAHbJNlf2egq4-kVkIvVLesf5_1aGA310pDBn0Opn24YQDDVXJGp2O5PT881&amp;t=2610f696" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEALtqp+BDwKQ27SXBgKGyNfPDgKAj827BgLJoqzqCQLd1pSAAgK9garsBQKigarsBQKjgarsBQLy7snmBgKggarsBQKhgarsBQKngarsBQKkgarsBQKEwI24AgKaxc6ZC7riVFOs1MyT8ixMSriziU46vDSw">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWEALE/NT3CwLsh6+EAgKQ27SXBgKGyNfPDgKLjY68AgKk4/XAAwK9garsBQKigarsBQKjgarsBQLy7snmBgKggarsBQKhgarsBQKngarsBQKkgarsBQKEwI24AgKaxc6ZCwUj+gKUobSUOQaPr0LQUv+3xxOC">
  		
+        <!--Release 4.5 Ticket Id wmm200103282 imercer.com only supported in newer browsers of IE7 and up and Firefox. -->
+        <!--Temp Div to show lower version browser message, Only required to not show unnecessary margin for IE -->
+        <input type="hidden" name="hdnShowIncompatipleBrowserMsg" id="hdnShowIncompatipleBrowserMsg">
+        <div class="tempMessage">
+            <!--Release 4.5 Ticket Id wmm200103282 imercer.com only supported in newer browsers of IE7 and up and Firefox. -->
+            <div style="display: none;">
+                
+            </div>
+        </div>
  		    <table border="0" width="100%" class="newTableStyle" cellspacing="0" cellpadding="0">
  		        <tbody><tr>
  		            <td style="background-image:url('/Images/drop_shadow_left.jpg'); background-repeat:repeat-y; background-position: top right; ">	            
@@ -138,27 +179,24 @@
 
 <script language="javascript" type="text/javascript">
 
-function isIE(){  return /msie/i.test(navigator.userAgent) && !/opera/i.test(navigator.userAgent);} 
+    function isIE() { return /msie/i.test(navigator.userAgent) && !/opera/i.test(navigator.userAgent); }
 
-function HeaderOnLoadHandler()
-{
-//    ShowBookmarkUs();
-}
-
-function addLoadEventHandler(func) 
-{     
-    var previous_handler = window.onload;
-    if(typeof window.onload != "function") window.onload = func;  
-    else window.onload = function() 
-    {             
-        previous_handler ();              
-        func();         
+    function HeaderOnLoadHandler() {
+        //    ShowBookmarkUs();
     }
-}
 
-//add this control's onLoad handler to the document's onload, without
-//replacing whatever handler may be there already
-addLoadEventHandler (HeaderOnLoadHandler);
+    function addLoadEventHandler(func) {
+        var previous_handler = window.onload;
+        if (typeof window.onload != "function") window.onload = func;
+        else window.onload = function () {
+            previous_handler();
+            func();
+        }
+    }
+
+    //add this control's onLoad handler to the document's onload, without
+    //replacing whatever handler may be there already
+    addLoadEventHandler(HeaderOnLoadHandler);
 </script>
 
  
@@ -195,7 +233,7 @@ addLoadEventHandler (HeaderOnLoadHandler);
 			<table cellspacing="0" cellpadding="0" border="0">
 				<tbody><tr>
 					<td width="20px" style="padding-left:18px;padding-right:22px;">
-                        <a id="Header1_uxHomeHyperLink" href="US/tabs/home.aspx"><img id="Header1_uxHomeImage" src="Images/HomeIcon.gif" border="0"></a></td>
+                        <a id="Header1_uxHomeHyperLink" href="Asia/tabs/home.aspx"><img id="Header1_uxHomeImage" src="Images/HomeIcon.gif" border="0"></a></td>
 					
 							<td id="Header1_Repeater1_ctl00_tdColorBar" valign="top" bgcolor="#0057a6">								
 								</td>
@@ -209,7 +247,7 @@ addLoadEventHandler (HeaderOnLoadHandler);
 								</td>
 	
 							<td id="Header1_Repeater1_ctl01_tdMenuItem" class="tabBarCells" rowspan="1" valign="middle">
-								<a id="Header1_Repeater1_ctl01_lnkTabName" class="tabBarCells" href="US/tabs/products.aspx">SURVEYS&nbsp;&amp;&nbsp;PRODUCTS&nbsp;&nbsp;&nbsp;
+								<a id="Header1_Repeater1_ctl01_lnkTabName" class="tabBarCells" href="Asia/tabs/products.aspx">SURVEYS&nbsp;&amp;&nbsp;PRODUCTS&nbsp;&nbsp;&nbsp;
 								</a></td>
 	
 						    <td><img id="Header1_Repeater1_ctl01_imSep" src="Images/seperator.jpg" border="0"></td>
@@ -218,7 +256,7 @@ addLoadEventHandler (HeaderOnLoadHandler);
 								</td>
 	
 							<td id="Header1_Repeater1_ctl02_tdMenuItem" class="tabBarCells" rowspan="1" valign="middle">
-								<a id="Header1_Repeater1_ctl02_lnkTabName" class="tabBarCells" href="US/tabs/services.aspx">SERVICES&nbsp;&nbsp;&nbsp;
+								<a id="Header1_Repeater1_ctl02_lnkTabName" class="tabBarCells" href="Asia/tabs/services.aspx">SERVICES&nbsp;&nbsp;&nbsp;
 								</a></td>
 	
 						    <td><img id="Header1_Repeater1_ctl02_imSep" src="Images/seperator.jpg" border="0"></td>
@@ -227,7 +265,7 @@ addLoadEventHandler (HeaderOnLoadHandler);
 								</td>
 	
 							<td id="Header1_Repeater1_ctl03_tdMenuItem" class="tabBarCells" rowspan="1" valign="middle">
-								<a id="Header1_Repeater1_ctl03_lnkTabName" class="tabBarCells" href="US/tabs/events.aspx">EVENTS/TRAINING&nbsp;&nbsp;&nbsp;
+								<a id="Header1_Repeater1_ctl03_lnkTabName" class="tabBarCells" href="Asia/tabs/events.aspx">EVENTS/TRAINING&nbsp;&nbsp;&nbsp;
 								</a></td>
 	
 						    <td><img id="Header1_Repeater1_ctl03_imSep" src="Images/seperator.jpg" border="0"></td>
@@ -236,7 +274,7 @@ addLoadEventHandler (HeaderOnLoadHandler);
 								</td>
 	
 							<td id="Header1_Repeater1_ctl04_tdMenuItem" class="tabBarCells" rowspan="1" valign="middle">
-								<a id="Header1_Repeater1_ctl04_lnkTabName" class="tabBarCells" href="US/tabs/news.aspx">HR&nbsp;NEWS&nbsp;&amp;&nbsp;INFO&nbsp;&nbsp;&nbsp;
+								<a id="Header1_Repeater1_ctl04_lnkTabName" class="tabBarCells" href="Asia/tabs/news.aspx">HR&nbsp;NEWS&nbsp;&amp;&nbsp;INFO&nbsp;&nbsp;&nbsp;
 								</a></td>
 	
 						    <td><img id="Header1_Repeater1_ctl04_imSep" src="Images/seperator.jpg" border="0"></td>
@@ -245,7 +283,7 @@ addLoadEventHandler (HeaderOnLoadHandler);
 								</td>
 	
 							<td id="Header1_Repeater1_ctl05_tdMenuItem" class="tabBarCells" rowspan="1" valign="middle">
-								<a id="Header1_Repeater1_ctl05_lnkTabName" class="tabBarCells" href="US/tabs/cs.aspx">CUSTOMER&nbsp;SERVICE&nbsp;&nbsp;&nbsp;
+								<a id="Header1_Repeater1_ctl05_lnkTabName" class="tabBarCells" href="Asia/tabs/cs.aspx">CUSTOMER&nbsp;SERVICE&nbsp;&nbsp;&nbsp;
 								</a></td>
 	
 						    <td><img id="Header1_Repeater1_ctl05_imSep" src="Images/seperator.jpg" border="0"></td>
@@ -254,7 +292,7 @@ addLoadEventHandler (HeaderOnLoadHandler);
 								</td>
 	
 							<td id="Header1_Repeater1_ctl06_tdMenuItem" class="tabBarCells" rowspan="1" valign="middle">
-								<a id="Header1_Repeater1_ctl06_lnkTabName" class="tabBarCells" href="US/tabs/about.aspx">ABOUT&nbsp;US&nbsp;&nbsp;&nbsp;
+								<a id="Header1_Repeater1_ctl06_lnkTabName" class="tabBarCells" href="Asia/tabs/about.aspx">ABOUT&nbsp;US&nbsp;&nbsp;&nbsp;
 								</a></td>
 	
 						    <td><img id="Header1_Repeater1_ctl06_imSep" src="Images/last%20Seperator2.gif" border="0"></td>
@@ -267,36 +305,16 @@ addLoadEventHandler (HeaderOnLoadHandler);
 
 
 </tbody></table>
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:black">
 		<tbody><tr>
 		<td class="loginBar">
-			<span id="Header1_divLogin">
-				<div style="float:left;margin-top:2px"><b>LOGIN</b></div>
-				<div style="float:left;margin-top:-1px"><img id="Header1_Image1" align="absMiddle" src="images/LoginArrow.gif" border="0"></div>
-				<div style="float:left;margin-top:2px"><b>User ID:</b></div>
-				<div class="innerTextBox" style="width:190px;float:left;margin-left:2px;"><input name="Header1$txtLogin" type="text" id="Header1_txtLogin" class="loginBarTextBox" onkeypress="return clickButton(event,'Header1_btnGO')"></div>
-                <div style="float:left;padding-top:2px;">
-				&nbsp;&nbsp;<b>Password:</b>
-				</div>
-				<div class="innerTextBox" style="width:120px;float:left;margin-left:2px;">
-				<input name="Header1$txtPassword" type="password" maxlength="25" id="Header1_txtPassword" class="loginBarTextBox" onkeypress="return clickButton(event,'Header1_btnGO')">
-				</div>
-				<div style="float:left;">
-				&nbsp;<input type="submit" name="Header1$btnGO" value="GO" id="Header1_btnGO" class="loginBarButton">&nbsp;&nbsp;<font color="#d5d4ce">|</font>
-				&nbsp;
-				<a id="Header1_lnkForgotPassword" class="loginBarLink" rel="noindex,nofollow" href="default.aspx?page=forgotPassword">Forgot Password</a>
-
-			<span id="Header1_line">
-				&nbsp;&nbsp;<font color="#d5d4ce">|</font>&nbsp;&nbsp;
-				<a id="Header1_lnkRegister" class="loginBarLink" href="default.aspx?page=regmember">Register</a>
-			</span>
-
-				</div>
-			</span>
 
 			
 		</td>
+
 		<td class="loginBar" align="right">
+ 
+        <div style="float:right">
 			<a href="/default.aspx?page=cart" class="loginBarLink">
 				<img id="Header1_Image2" border="0" align="absMiddle" src="images/cart.gif">
 			</a> 
@@ -305,7 +323,18 @@ addLoadEventHandler (HeaderOnLoadHandler);
 				 
 				My Cart
 			</a>
-		</td>
+        </div>
+
+        <div id="Header1_separatorPanel" style="float:right;font-size:18px;font-weight:bold;padding-right:15px;margin-top:-3px;">
+		
+            |
+        
+	</div>
+                <div style="float:right">                    
+                    <input type="image" name="Header1$uxRegisterImageButton" id="Header1_uxRegisterImageButton" src="images/RegisterButton_Grey.gif" border="0" style="margin-right:15px;margin-top:0px"></div>
+
+        <div style="float:right">                    <input type="image" name="Header1$uxLoginImageButton" id="Header1_uxLoginImageButton" src="images/LoginButton_Grey.gif" border="0" style="margin-right:15px;margin-top:0px"></div>
+ 		</td>
 	</tr>
 </tbody></table>
 					            </td>
@@ -326,7 +355,7 @@ addLoadEventHandler (HeaderOnLoadHandler);
 <div id="LeftDropDown" class="LeftDropDown">
 	<span id="ctl02_lblImercer" style="color:#5c5c5c">Your region:</span>
 	<br>
-	<span id="ctl02_lblRegionName" style="color:#5c5c5c"><b>United States</b></span>
+	<span id="ctl02_lblRegionName" style="color:#5c5c5c"><b>Asia</b></span>
 	<br>
 	
 	    <select name="ctl02$ddlRegions" id="ctl02_ddlRegions">
@@ -395,6 +424,8 @@ addLoadEventHandler (HeaderOnLoadHandler);
 <tr><td><a href="http://www.mercer.com/webcasts.htm" target="_blank"><img src="http://www.imercer.com/content/common/images/icon_webcasts.gif" border="0"></a></td><td><a href="http://www.mercer.com/webcasts.htm" target="_blank"><font color="003399" face="arial" size="2">Webcasts</font></a></td></tr>
 <tr><td><a href="http://www.youtube.com/user/mercervideo" target="_blank"><img src="http://www.imercer.com/content/common/images/icon_youtube.gif" border="0"></a></td><td><a href="http://www.youtube.com/user/mercervideo" target="_blank"><font color="003399" face="arial" size="2">YouTube</font></a></td></tr>
 <tr><td><a href="http://twitter.com/MercerInsights" target="_blank"><img src="http://www.imercer.com/content/common/images/icon_twitter.gif" border="0"></a></td><td><a href="http://twitter.com/MercerInsights" target="_blank"><font color="003399" face="arial" size="2">Twitter</font></a></td></tr>
+<tr><td><a href="http://twitter.com/MercerMobility" target="_blank"><img src="http://www.imercer.com/content/common/images/icon_twitter.gif" border="0"></a></td><td><a href="http://twitter.com/MercerMobility" target="_blank"><font color="003399" face="arial" size="2">Twitter Mobility</font></a></td></tr>
+
 <tr><td><a href="http://www.facebook.com/MercerInsights" target="_blank"><img src="http://www.imercer.com/content/common/images/icon_facebook.gif" border="0"></a></td><td><a href="http://www.facebook.com/MercerInsights" target="_blank"><font color="003399" face="arial" size="2">Facebook</font></a></td></tr>
 <tr><td><a id="Header1_lnkFav" rel="noindex,nofollow" onclick="window.external.AddFavorite(location.href, 'Mercer - imercer.com');" style="cursor:hand;"><img id="Header1_bookmarkImage" style="border-width:0px;border-style:None;visibility:hidden" src="http://www.imercer.com/content/common/images/icon_bookmark.gif" border="0"></a></td><td><a id="A2" rel="noindex,nofollow" onclick="window.external.AddFavorite(location.href, 'Mercer - imercer.com');" style="cursor:hand;visibility:hidden"><font color="003399" face="arial" size="2"><u>Bookmark Site</u></font></a></td></tr>
 </tbody></table>
@@ -770,11 +801,11 @@ addLoadEventHandler (HeaderOnLoadHandler);
 			</td>
 			<td width="5%" nowrap="">
 			<div id="ctl04_links">
-				<a id="ctl04_Cont" class="footer" rel="noindex,nofollow" href="US/tabs/cs.aspx">Contact Us</a> |
+				<a id="ctl04_Cont" class="footer" rel="noindex,nofollow" href="Asia/tabs/cs.aspx">Contact Us</a> |
 				<a id="ctl04_Feedback" class="footer" rel="noindex,nofollow" href="https://imercer.qualtrics.com/SE/?SID=SV_8JiAXJNaFvy55qs" target="_blank">Feedback</a> |
 				<a id="ctl04_Terms2" class="footer" rel="noindex,nofollow" href="default.aspx?page=term">Terms of Use</a> |
 				<a id="ctl04_Privacy2" class="footer" rel="noindex,nofollow" href="default.aspx?page=privacy">Privacy Policy</a> |
-				<a id="ctl04_SiteMap" class="footer" href="US/sitemap.aspx">Site Map</a> |
+				<a id="ctl04_SiteMap" class="footer" href="Asia/sitemap.aspx">Site Map</a> |
 				<a id="ctl04_Rss" class="footer" rel="noindex,nofollow" href="content/mercer-rss-feeds.aspx">Rss Feed</a>
 			    <br><font size="-2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;©2011 Mercer LLC, All Rights Reserved</font>
         		</div>
@@ -817,7 +848,7 @@ addLoadEventHandler (HeaderOnLoadHandler);
 					    <tr>
 					        <td valign="top" align="left" height="1" class="small">
 					            <a id="ctl04_repFooter_ctl04_lnkRegion" href="LA/tabs/home.aspx"><b>Latin America: </b></a>
-					            <span id="ctl04_repFooter_ctl04_lblRegion">1-305-341-5013 or 1-305-341-5057 (Miami)</span>
+					            <span id="ctl04_repFooter_ctl04_lblRegion">54 11 4000 4081 or 54 11 4000 0965 (Argentina)</span>
 					        </td>
 					    </tr>
 					
@@ -831,7 +862,7 @@ addLoadEventHandler (HeaderOnLoadHandler);
 					    <tr>
 					        <td valign="top" align="left" height="1" class="small">
 					            <a id="ctl04_repFooter_ctl06_lnkRegion" href="US/tabs/home.aspx"><b>United States: </b></a>
-					            <span id="ctl04_repFooter_ctl06_lblRegion">Customer Service: 1-800-333-3070 or 1-502-560-8290 Software Helpdesk: 1-800-866-7474- or 1-502-561-8995</span>
+					            <span id="ctl04_repFooter_ctl06_lblRegion">Customer Service: 1-800-333-3070 or 1-502-560-8290   Software Helpdesk: 1-800-866-7474 or 1-502-561-8995</span>
 					        </td>
 					    </tr>
 					
@@ -899,8 +930,10 @@ addLoadEventHandler (HeaderOnLoadHandler);
 			       </td>
 			    </tr>
 			</tbody></table>
-            <input type="hidden" name="rHF" id="rHF" value="United States">
+            <input type="hidden" name="rHF" id="rHF" value="Asia">
               
+              
+
               
 		</form>
 
@@ -937,6 +970,38 @@ addLoadEventHandler (HeaderOnLoadHandler);
            
             
         </script>
+
+        <script src="/Scripts/webtrends.js" type="text/javascript"></script>
+        <!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 3.2  -->
+<!-- Created: 8/18/2011 3:15:22 PM -->
+<!--<script src="Scripts/webtrends.js" type="text/javascript"></script>-->
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>
+</script><script type="text/javascript" src="https://sdc.mercer.com/dcsipw5w110000o6t9g1pfqfu_6i3c/wtid.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//sdc.mercer.com/dcsipw5w110000o6t9g1pfqfu_6i3c/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.imercer.com"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
 	
 
 </body></html>
