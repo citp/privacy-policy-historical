@@ -1,13 +1,7 @@
-<!--The following is the downloaded HTML source of the egress.com privacy policy that was archived on 2011-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520033921id_/http%3A//www.egress.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egress.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209065615id_/http%3A//www.egress.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<!--
-Array
-(
-    [path] => 
-)
-1-->
 
 	<title>Privacy Statement | Egress Switch</title>
 	<base href="http://www.egress.com/">
@@ -25,6 +19,11 @@ Array
 	<link rel="stylesheet" href="/css/egress-corp.css" type="text/css" media="Screen">  
 	<link rel="stylesheet" href="/css/egress_mobile.css" type="text/css" media="handheld">
 	<link rel="alternate" type="application/rss+xml" title="Egress Switch" href="http://www.egress.com/news.rss">
+
+
+	<link href="http://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,800" rel="stylesheet" type="text/css">
+
 	<script type="text/javascript"><!--
  
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -39,111 +38,106 @@ pageTracker._initData();
 pageTracker._trackPageview();
 }
 // --></script>
+	<script type="text/javascript" src="/assets/jquery/jquery-1.4.2.min.js"></script>
+
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$('.topmenu').bind('click', function() {
+			$(".topmenu").removeClass("topmenuselected");
+			$(".topmenu").removeClass("topmenuhover");
+			$(this).addClass("topmenuselected");
+		});
+			
+		$(".topmenu").hover(
+		  function () {
+		    	jQuery(".submenu", this).show();
+		  		if (!$(this).hasClass("topmenuselected"))
+		    		$(this).addClass("topmenuhover");
+
+		  }, 
+		  function () {
+		    $(this).removeClass("topmenuhover");
+		    jQuery(".submenu", this).hide();
+		  }
+		);
+			
+		$('.sidemenuitem').bind('click', function(event) {
+			event.preventDefault();
+			$(".sidemenuitem > .sidemenuhead").hide();
+			$(".sidemenuhead").show();
+		});
+
+		$('.button_div').bind('click', function() {
+			window.location = ($('a', this).attr('href'));
+		});
+		
+		$('.button_div').hover(function() {
+			$(this).css('cursor','pointer');
+			}, function() {
+			$(this).css('cursor','auto');
+		});
+
+
+	});
+	</script>
 
 </head>
 
 <body>
 
-<div class="header2010 append-bottom">
-
+<div class="header2010">
 	<div class="container ">
-				<div class="span-10 logo">
-	 	 	 <a href="/"><img src="http://img.egress.com/images/egress-logo-img.gif" alt="Egress Logo" width="182" height="72"></a>
-	 	 	 <a href="/"><img src="http://img.egress.com/images/egress-logo-txt.gif" alt="Egress Logo" width="140" height="72"></a>
+		<div class="span-10 logo">
+	 <a href="/"><img src="http://img.egress.com/images/egress-logo-img.gif" alt="Egress Logo" width="182" height="72"></a>
+	 <a href="/"><img src="http://img.egress.com/images/egress-logo-txt.gif" alt="Egress Logo" width="140" height="72"></a>
+</div>
+
+<div class="span-14 last">
+	<div class="span-14 last" style="padding-top: 20px;">
+
+		<div class="span-5" style="margin-top: 1px;">
+			<p style="font-size:1em; float: right;">
+			
+			
+			</p>
 		</div>
 
-	 	 <div class="span-14 last">
-	 	 <div class="span-14 last" style="padding-top: 20px;">
-
-			<div class="span-10" style="margin-top: 1px;">
-				<p style="font-size:1em; float: right;"><img style="vertical-align:middle " src="http://img.egress.com/images/switchlogomini.png" width="20" height="20" alt="Egress Switch Logo">&nbsp; <a href="https://switch.egress.com/ui/signin.aspx">Sign in to my Switch Account</a></p>
-		 	</div>
-	 		<div class="span-4 last">
-<form id="ajaxSearch_form" action="search/" method="post"><div>
-    <input id="ajaxSearch_submit" type="image" src="http://img.egress.com/images/search-icon3.png" name="sub" value=""> 
-    <input id="ajaxSearch_input" class="cleardefault searchBox" type="text" name="search" value="Search" onfocus="this.value=(this.value=='Search')? '' : this.value ; this.className='searchBoxActive'">&nbsp;</div>
+		<div class="span-9 last">
+			<p style="font-size: 1.0em; float: left; padding-top: 2px;"><a href="contact-us/">Contact Us</a>&nbsp;|&nbsp;<a href="https://switch.egress.com">Sign In</a>&nbsp;|&nbsp;<a href="https://switch.egress.com/ui/registration/AccountCreate.aspx">Register</a> </p><form id="ajaxSearch_form" action="search/" method="get"><div>
+    <input id="ajaxSearch_submit" type="image" src="http://img.egress.com/images/search-icon3.png" name="" value=""> 
+    <input id="ajaxSearch_input" class="cleardefault searchBox" type="text" name="query" value="Search" onfocus="this.value=(this.value=='Search')? '' : this.value ; this.className='searchBoxActive'">&nbsp;</div>
 </form>  
-</div>
-		</div>
 		</div>
 
-       </div>
-
-	<div class="container" style="height: 29px;">
-
-	<div style="float: left; height: 29px;"><img src="http://img.egress.com/images/grey-bg-left-25.png" alt="menu"></div>
-
-	<div id="FirstLayerNav" style="float: left; height: 29px; background-image: url(http://img.egress.com/images/grey-bg-menu-3x25.png); width: 940px;">
-
-<ul><li><a href="/" title="Switch"><span>Switch</span></a></li>
-<li><a href="/products/" title="Products"><span>Products</span></a></li>
-<li><a href="/solutions/" title="Solutions"><span>Solutions</span></a></li>
-<li><a href="/support/" title="Support"><span>Support</span></a></li>
-<li><a href="/partners/" title="Partners"><span>Partners</span></a></li>
-<li class="activeItem"><a href="/company/" title="Company"><span>Company</span></a></li>
-<li><a href="/contact-us/" title="Contact Us"><span>Contact Us</span></a></li>
-<li><a href="/news/" title="News"><span>News</span></a></li>
-<li class="last"><a href="https://switch.egress.com/ui/admin/" title="My Account"><span>My Account</span></a></li>
-</ul>		
+	</div>
+</div>
 
 	</div>
-
-	<div style="float: left; height: 29px;"><img src="http://img.egress.com/images/grey-bg-right-25.png" alt="menu"></div><br>
-
-</div>
-
-<div style="height:1px;"><!-- --></div>
-
-<div class="container" style="height: 25px;">
-
-	<div style="float: left; height: 25px;"><img src="http://img.egress.com/images/pastel-bg-left-3x25.png" alt="menu"></div>
-
-	<div id="SecondLayerNav" style="float: left; height: 25px; background-color: #00ADF2; width: 944px;">
-
-<ul><li><a href="/company/" title="About Egress"><span>About Egress</span></a></li>
-<li><a href="/contact-us/" title="Contact Us"><span>Contact Us</span></a></li>
-<li><a href="/jobs/" title="Jobs"><span>Jobs</span></a></li>
-<li class="last activeItem"><a href="/legal/" title="Legal"><span>Legal</span></a></li>
-</ul>
-
-	</div>
-
-	<div style="float: left; height: 25px;"><img src="http://img.egress.com/images/pastel-bg-right-3x25.png" alt="menu"></div>
+	<div class="container"><div class="span-24 topmenu_container last"><div class="span-1"> &nbsp; </div><div class="span-2 topmenu "><a href="products/">Products</a><div class="submenu"><h4>By Goal</h4><ul><li> <a href="email-encryption/">Email &amp; File Encryption</a> </li><li> <a href="media-encryption/">Media Encryption</a> </li><li> <a href="large-file-transfer/">Large File Transfer</a> </li><li> <a href="fusion/">Automated Encryption</a> </li><li> <a href="policy-engine/">Enterprise Management</a> </li><li> <a href="switch-mobile/">Mobile Encryption</a> </li><li> <a href="auditing-alerts/">Auditing &amp; Compliance</a> </li></ul><h4>By Industry</h4><ul><li> <a href="professional-services/">Professional Services</a> </li><li> <a href="local-central-government/">Local &amp; Central Government</a> </li><li> <a href="healthcare/">Healthcare</a> </li></ul><h4>Learn More</h4><ul><li> <a href="join-webcast/">Join a Webcast</a> </li></ul></div></div><div class="span-2 topmenu "><a href="solutions/">Solutions</a><div class="submenu"><h4>Switch Fusion</h4><ul><li> <a href="integrated-solutions/">Integrated Solutions</a> </li><li> <a href="developers/">Open Platform</a> </li></ul><h4>By Technology</h4><ul><li> <a href="solutions-large-file-transfer/">Large File Transfer</a> </li><li> <a href="solutions-secure-email/">Secure Email</a> </li><li> <a href="solutions-media-encryption/">Media Encryption</a> </li></ul></div></div><div class="span-2 topmenu "><a href="support/">Support</a><div class="submenu"><h4>Getting Started</h4><ul><li> <a href="online-tutorials/">Online Tutorials</a> </li><li> <a href="new-to-switch/">New To Switch</a> </li><li> <a href="support-articles/">Support Articles</a> </li><li> <a href="product-documentation/">Documentation</a> </li></ul><h4>Get More</h4><ul><li> <a href="create-support-ticket/">Create Support Ticket</a> </li><li> <a href="download/">Downloads</a> </li></ul></div></div><div class="span-2 topmenu "><a href="partners/">Partners</a><div class="submenu"><h4>Get In Touch</h4><ul><li> <a href="become-a-partner/">Become a Partner</a> </li></ul><h4>Categories</h4><ul><li> <a href="strategic-partners/">Strategic Partners</a> </li><li> <a href="channel-partners/">Channel Partners</a> </li></ul></div></div><div class="span-2 topmenu "><a href="news/">News</a><div class="submenu"><h4>In The Press</h4><ul><li> <a href="press-releases/">Press Releases</a> </li><li> <a href="market-news/">Market News</a> </li></ul><h4>Social</h4><ul><li> <a href="blog/">Blog</a> </li><li> <a href="twitter/">Twitter</a> </li><li> <a href="facebook/">Facebook</a> </li><li> <a href="linkedin/">LinkedIn</a> </li></ul></div></div><div class="span-2 topmenu "><a href="pricing/">Pricing</a><div class="submenu"><h4>Licensing</h4><ul><li> <a href="license-programs/">License Programs</a> </li><li> <a href="free-trial/"> Free Trial</a> </li><li> <a href="price-plan/">Price Plan</a> </li><li> <a href="buy-now/">Buy Now</a> </li></ul><h4>Learn More</h4><ul><li> <a href="webcasts/">Join a Webcast</a> </li></ul></div></div><div class="span-2 topmenu topmenuselected"><a href="about/">About Us</a><div class="submenu"><h4>Company Overview</h4><ul><li> <a href="company/">About Egress</a> </li><li> <a href="contact-us/">Contact Us</a> </li></ul><h4>Company Information</h4><ul><li> <a href="jobs/">Jobs</a> </li><li> <a href="security/">Security</a> </li><li class="active"> <a href="legal/">Legal</a> </li></ul></div></div><div class="span-5">&nbsp;</div><div class="span-3 account topmenu "><a href="my-account/">My Account</a><div class="submenu"><h4>Manage</h4><ul><li> <a href="sign-in/">Sign In</a> </li><li> <a href="password-reset/">Password Reset</a> </li><li> <a href="account-downloads/">Downloads</a> </li></ul></div></div><div class="span-1 last">&nbsp;</div></div></div>
 
 </div>
 
+
+<div class="container">
+	<div class="sidemenu span-5 " style="padding-top: 45px; ">
+<div style="margin-right: 20px;" id="sideNavigation">
+
+	<h4>Company Overview</h4><ul><li> <a href="company/">About Egress</a> </li><li> <a href="contact-us/">Contact Us</a> </li></ul><h4>Company Information</h4><ul><li> <a href="jobs/">Jobs</a> </li><li> <a href="security/">Security</a> </li><li class="active"> <a href="legal/">Legal</a> </li></ul>
+
+<div id="comm100_dvhelp"><hr><a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat Software for Website"><img id="comm100_ButtonImage" src="http://img.egress.com/images/livechat/online-chat-support.png" border="0px" alt="Live Chat Software for Website"></a><script src="http://chatserver.comm100.com/js/LiveChat.js?siteId=40222&amp;planId=615&amp;partnerId=-1" type="text/javascript"></script><div id="comm100_LiveChatDiv"></div></div>
+</div>
 </div>
 
-<div class="container append-bottom">
-	<div id="SideNav" class="span-5" style="text-align: center;">
-<div class="span-5 last append-bottom">
-<div style="width:173px; background-image: url('http://img.egress.com/images/qml-bg.png');">
-<img src="http://img.egress.com/images/qml-title.png" alt="Quick Links">
-<div class="quick-link-menu-icon" style="background-color: white;"><img src="http://img.egress.com/images/qlm-basket.png" alt="Basket"></div>
-<div class="quick-link-menu-text"><p><a href="buyonline/">Buy Now</a></p></div>
-<div class="clear"></div>
-<div class="quick-link-menu-icon" style="background-color: white;"><img src="http://img.egress.com/images/qlm-transfer.png" alt="Free Trial"> </div>
-<div class="quick-link-menu-text"><p><a href="free-trial/">Free Trial</a></p></div>
-<div class="clear"></div>
-<div class="quick-link-menu-icon" style="background-color: white;"><img src="http://img.egress.com/images/qlm-headphones.png" alt="Webcast"> </div>
-<div class="quick-link-menu-text"><p><a href="webcasts/">Webcast</a></p></div>
-<div class="clear"></div>
-<div class="quick-link-menu-icon" style="background-color: white;"><img src="http://img.egress.com/images/qlm-film.png" alt="How it works"> </div>
-<div class="quick-link-menu-text" id="lightBoxQLM"><p><a href="http://www.youtube.com/watch?v=O8qiNama6Wc&amp;width=640&amp;height=505" rel="prettyPhoto">How it works</a></p></div>
-<div class="clear"></div>
-<div class="quick-link-menu-icon" style="background-color: white;"><img src="http://img.egress.com/images/qlm-phone.png" alt="Contact Me"> </div>
-<div class="quick-link-menu-text"><p><a href="contact-us-form/">Contact Me</a></p></div>
-<div class="clear"></div>
-<img src="http://img.egress.com/images/qml-bottom.png" style="float:left;" alt="border"></div>
-</div>
-<div class="span-5 last" style="width:173px;">
-<!-- BEGIN Comm100 Live Chat Button Code --><div id="comm100_ChatButton"><div id="comm100_warp"><center><div id="comm100_dvhelp"><a class="comm100_ahelp_css" href="http://www.comm100.com/livechat/" onclick="comm100_Chat();return false;" target="_blank" title="Live Chat Software for Website"><img id="comm100_ButtonImage" src="http://chatserver.comm100.com/BBS.aspx?siteId=40222&amp;planId=613&amp;partnerId=-1" border="0px" alt="Live Chat Software for Website"></a><script src="http://chatserver.comm100.com/js/LiveChat.js?siteId=40222&amp;planId=613&amp;partnerId=-1" type="text/javascript"></script></div></center></div></div><!-- End Comm100 Live Chat Button Code -->
-</div>
-	</div>
+	<div class="span-19 last  ">
+	
+		<div class="span-19 last" style="padding-bottom: 15px; margin-top: 10px; height: 150px; background-repeat:no-repeat; background-position:right top; background-image: url('http://img.egress.com/images/2011/transfer.png');">
+			<h1 style="margin-top: 30px; margin-bottom: 10px;">Privacy Statement</h1>
+			<h3>Privacy Statement</h3>
+		</div>
 
-	<div class="span-19 last">
-		<h1>Privacy Statement</h1>
-	<div class="column span-19 last">
+		<div class="span-19 last">
+			<div id="contentX">
+					<div class="column span-19 last">
 
 
 <p>This policy sets out the basis on which the personal data collected from you, or that you provide to us will be processed by us. </p>
@@ -292,28 +286,30 @@ pageTracker._trackPageview();
 </ul>
 
 </div>
+			</div>
+		</div>
 	</div>
 </div>
 
 <!-- Footer -->
 <div class="container append-bottom">
 	<div class="span-24 last footer2" style="background-image: url('http://img.egress.com/images/footer-round-homepage.png'); padding-top: 4px; height: 21px;">
-		<a href="http://www.egress.com/" title="">Home</a> | 
-		<a href="http://www.egress.com/products/" title="Products">Products</a> | 
-		<a href="http://www.egress.com/solutions/" title="Solutions">Solutions</a> | 
-		<a href="http://www.egress.com/pricing/" title="Pricing">Pricing</a> | 
-		<a href="http://www.egress.com/support/" title="Support">Support</a> | 
-		<a href="http://www.egress.com/company/" title="Company">Company</a> | 
-		<a href="http://www.egress.com/followus/" title="Follow Us">Follow Us</a> | 
-		<a href="http://www.egress.com/privacy-statement/" title="Privacy Policy">Privacy Policy</a> | 
-		<a href="http://www.egress.com/legal/" title="Legal">Legal</a>
+		<a href="" title="">Home</a> | 
+		<a href="products/" title="Products">Products</a> | 
+		<a href="solutions/" title="Solutions">Solutions</a> | 
+		<a href="pricing/" title="Pricing">Pricing</a> | 
+		<a href="support/" title="Support">Support</a> | 
+		<a href="about/" title="Company">Company</a> | 
+		<a href="followus/" title="Follow Us">Follow Us</a> | 
+		<a href="privacy-statement/" title="Privacy Policy">Privacy Policy</a> | 
+		<a href="legal/" title="Legal">Legal</a>
 	</div>
 	<div class="span-24 append-bottom last" style="; margin-top: 10px;">
 		<div class="span-3">
 			&nbsp;
 		</div>
 		<div class="span-18 footer2">
-			© 2009-2011. All rights reserved. Egress Software Technologies Ltd.
+			© 2009 - 2011. All rights reserved. Egress Software Technologies Ltd.
 		</div>
 		<div class="span-3 last" style="text-align: right;">
 			<a target="_Blank" href="http://twitter.com/EgressSwitch" title="Follow Us on Twitter (@EgressSwitch)"><img src="http://img.egress.com/images/icons/twitter-icon-16.png" alt="" width="16" height="16" style="padding-right: 2px;"></a>
