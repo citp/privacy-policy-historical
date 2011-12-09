@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523161427id_/http%3A//www.onlynaturalpet.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlynaturalpet.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209153530id_/http%3A//www.onlynaturalpet.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Only Natural Pet Store - Dogs Cats Holistic Supplies Products Food Treats Vitamins Medicine Supplements
 
