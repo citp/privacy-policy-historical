@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webguide4u.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527091229id_/http%3A//www.webguide4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webguide4u.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209121044id_/http%3A//www.webguide4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](http://www.webguide4u.com/offer/Hostgator/)
 
 WebGuide4U as a beginner’s guide to WordPress, Webhosting, Photoshop and Web Designing. We have more than 200+ posts which provides regular source of updates via Emails and RSS feeds. We are serious in protecting your private data. We assured you that it will only be used to support relationship with WebGuide4U. This privacy policy is intended for all users of WebGuide4U.com
 
@@ -47,5 +45,3 @@ To help the site expansion and to cover the cost of running the site WebGuide4U,
 WebGuide4U.com reserves the right to amend this Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.
 
 Your use of WebGuide4U.com constitutes your agreement to this Privacy Policy.
-
-[](http://www.webguide4u.com/offer/bluehost/) [](http://www.webguide4u.com/offer/catalyst/) [](http://www.webguide4u.com/offer/wpwebhost/) [](http://www.webguide4u.com/offer/Eleganthemes/)
