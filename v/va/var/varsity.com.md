@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varsity.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611065339id_/http%3A//www.varsity.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varsity.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209125349id_/http%3A//varsity.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Cheerleading & Dance Uniforms & Events - Varsity.com
 
@@ -27,22 +27,19 @@ Collection of information is usually grouped into two categories: personally ide
 
 Varsity.com uses personal information only for the following purposes: 
 
-  1. to process requests and orders placed with advertisers, merchants and service providers; 
+1\. to process requests and orders placed with advertisers, merchants and service providers; 
 
-  2. to personalize content based on visitors' interests, including making visitors aware of editorial features, advertisements, and commercial offerings that may be of interest; 
+2\. to personalize content based on visitors' interests, including making visitors aware of editorial features, advertisements, and commercial offerings that may be of interest; 
 
-  3. to communicate with visitors; 
+3\. to communicate with visitors; 
 
-  4. to register a visitor for a contest or sweepstakes and to administer or make related offers from the same; 
+4\. to register a visitor for a contest or sweepstakes and to administer or make related offers from the same; 
 
-  5. to serve visitors when they have questions or problems; 
+5\. to serve visitors when they have questions or problems; 
 
-  6. to perform normal business operations, such as billing, collection, and accounting; and 
+6\. to perform normal business operations, such as billing, collection, and accounting; and 
 
-  7. to investigate complaints and protect visitors, in compliance with the law.
-
-
-
+7\. to investigate complaints and protect visitors, in compliance with the law.
 
 Varsity.com contains links to a variety of providers who offer content, services and e-commerce. Many of these links may be in 'frames,' meaning that Varsity.com's navigation will still be visible as you move throughout the linked site(s). Varsity.com may or may not have a formal relationship with the linked site. If we have a formal relationship, you are still covered under the Varsity.com privacy policy. If we do not have a formal relationship with the site, you will know that you have left the Varsity.com site (and thus are no longer covered by the Varsity.com privacy policy) when the words 'Return to Varsity.com' appear in the Varsity.com 'frame.' When you see 'Return to Varsity.com,' please be aware that you are no longer under the Varsity.com privacy policy. You should review the linked site's privacy policy before divulging any personal information, including your e-mail address, credit card number (for an e-commerce link), name, etc.
 
@@ -98,26 +95,23 @@ By taking responsibility for their children's online computer use, parents can g
 
 Make it a family rule to: 
 
-  1. Never give out identifying information - home address, school name, or telephone number - in a public message such as chat or bulletin boards, and be sure you are dealing with someone that both you and your child know and trust before giving it out via e-mail. Think carefully before revealing any personal information such as age, marital status, or financial information. Consider using a pseudonym or unlisting your child's name from Internet sites in which they participate.
+1\. Never give out identifying information - home address, school name, or telephone number - in a public message such as chat or bulletin boards, and be sure you are dealing with someone that both you and your child know and trust before giving it out via e-mail. Think carefully before revealing any personal information such as age, marital status, or financial information. Consider using a pseudonym or unlisting your child's name from Internet sites in which they participate.
 
-  2. Consider keeping the computer in a family room rather than the child's bedroom. Be sure to make this a family activity. Get to know their 'online friends' just as you get to know all of their other friends. 
+2\. Consider keeping the computer in a family room rather than the child's bedroom. Be sure to make this a family activity. Get to know their 'online friends' just as you get to know all of their other friends. 
 
-  3. Get to know the Internet sites your child uses. If you don't know how to get to them, get your child to show you. Find out what types of information it offers and whether there are ways for parents to block out objectionable material.
+3\. Get to know the Internet sites your child uses. If you don't know how to get to them, get your child to show you. Find out what types of information it offers and whether there are ways for parents to block out objectionable material.
 
-  4. Never allow a child to arrange a face-to-face meeting with another computer user without parental permission. If a meeting is arranged, make the first one in a public spot, and be sure to accompany your child.
+4\. Never allow a child to arrange a face-to-face meeting with another computer user without parental permission. If a meeting is arranged, make the first one in a public spot, and be sure to accompany your child.
 
-  5. Never respond to messages or bulletin board items that are suggestive, obscene, belligerent, threatening, or make you feel uncomfortable. Encourage your children to tell you if they encounter such messages. If you or your child receives a message that is harassing, or of a sexual nature, or threatening, alert the appropriate law enforcement agency.
+5\. Never respond to messages or bulletin board items that are suggestive, obscene, belligerent, threatening, or make you feel uncomfortable. Encourage your children to tell you if they encounter such messages. If you or your child receives a message that is harassing, or of a sexual nature, or threatening, alert the appropriate law enforcement agency.
 
-  6. Should you become aware of the transmission, use, or viewing of child pornography while online, immediately report this Federal Bureau of Investigation and to the National Center for Missing and Exploited Children by calling 1-800-843-5678.
+6\. Should you become aware of the transmission, use, or viewing of child pornography while online, immediately report this Federal Bureau of Investigation and to the National Center for Missing and Exploited Children by calling 1-800-843-5678.
 
-  7. Remember that people online may not be who they seem. Because you can't see or even hear the person, it is easy for someone to misrepresent him - or herself. Thus, someone indicating that 'she' is a '12-year-old girl' could really be a 40-year-old man.
+7\. Remember that people online may not be who they seem. Because you can't see or even hear the person, it is easy for someone to misrepresent him - or herself. Thus, someone indicating that 'she' is a '12-year-old girl' could really be a 40-year-old man.
 
-  8. Remember that everything you read online may not be true. Any offer that's 'too good to be true' probably is. Be very careful about any offers that involve your coming to a meeting or having someone visit your house. 
+8\. Remember that everything you read online may not be true. Any offer that's 'too good to be true' probably is. Be very careful about any offers that involve your coming to a meeting or having someone visit your house. 
 
-  9. Set reasonable rules and guidelines for computer use by your children. Discuss these rules and post them near the computer as a reminder. Remember to monitor their compliance with these rules, especially when it comes to the amount of time your children spend on the computer. A child or teenager's excessive use of the interactive features of the Internet, especially late at night, may be a clue that there is a potential problem. 
-
-
-
+9\. Set reasonable rules and guidelines for computer use by your children. Discuss these rules and post them near the computer as a reminder. Remember to monitor their compliance with these rules, especially when it comes to the amount of time your children spend on the computer. A child or teenager's excessive use of the interactive features of the Internet, especially late at night, may be a clue that there is a potential problem. 
 
 Because some of the content on the Internet consists of material that is adult-oriented or otherwise objectionable to some people, the results of your search may automatically and unintentionally generate links or references to objectionable material. Varsity.com has no control over, and can make no claim that such surprises will not occur. Computerized search technology does not give you search results limited to only the hits that you were seeking. There may be extraneous hits as well. 
 
