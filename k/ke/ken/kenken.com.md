@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenken.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611064522id_/http%3A//www.kenken.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenken.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209165642id_/http%3A//www.kenken.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to KENKEN®!
 
@@ -67,7 +67,7 @@ If KenKen believes that anyone’s behavior on our sites may damage us or our si
 
 Your Privacy Rights
 
-As is customary with many companies, we may share your name and mailing address with carefully selected companies whose products and services may be of interest to you for their direct marketing purposes. You can opt out at any time. If you would like to find out more about these companies, or request that we not share your information for direct marketing purposes, please e-mail us at service@americangirl.com, or complete the Marketing Disclosure Form and mail it to us at the address below.
+As is customary with many companies, we may share your name and mailing address with carefully selected companies whose products and services may be of interest to you for their direct marketing purposes. You can opt out at any time. If you would like to find out more about these companies, or request that we not share your information for direct marketing purposes, please e-mail us at customercare@kenken.com, or complete the Marketing Disclosure Form and mail it to us at the address below.
 
 And Finally...
 
