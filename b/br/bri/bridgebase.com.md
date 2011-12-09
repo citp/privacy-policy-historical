@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517232222id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209025213id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
 
 # Bridge Base Online
 
 #### Bridge Base Online Privacy Statement
 
-_(last updated: June 2008)_
+_(last updated: Sep 2011)_
 
 Bridge Base Online ("BBO") is committed to protecting your privacy. This privacy statement applies to the data collected by BBO through the Bridge Base Online web pages and the original BBO program (collectively, the Site); it does not apply to data collected through other online or offline BBO sites, products or services. 
 
@@ -22,7 +22,7 @@ If you choose to play in tournaments sponsored by a National Bridge Organization
 
 We record visitor IP addresses, usernames, and many details of site activity. 
 
-We record most public chat. We record all private chat to and from specific usernames including (but not limited to) some of our our employees, contractors and volunteers. 
+We may record all chat, including private chat between usernames. 
 
 We record hands played on the site. This information is made publicly available. 
 
@@ -33,6 +33,8 @@ The personal information collected will be used to operate the Site and to provi
 In support of these uses, BBO may use personal information to provide you with more effective customer service, to improve the Site and any related BBO products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests. 
 
 We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications 
+
+We may use your personal information to provide you with information about products or services you may be interested in. 
 
 BBO may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on BBO or the Site; (b) protect and defend the rights or property of BBO and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of users of BBO products or members of the public. 
 
