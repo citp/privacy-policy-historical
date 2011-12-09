@@ -1,47 +1,93 @@
-<!--The following is the downloaded HTML source of the akaqa.com privacy policy that was archived on 2011-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110418102446id_/http%3A//www.akaqa.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akaqa.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209154313id_/http%3A//www.akaqa.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>akaQA - also known as questions &amp; answers</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style.css">
+    
+	<link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style.css?v=15">
         <!--[IF IE 6]>
-            <link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style_ie6.css" />
+            <link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style_ie6.css?v=1" />
 	<![endif]-->
         <!--[IF IE 7]>
-            <link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style_ie7.css" />
+            <link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style_ie7.css?v=1" />
 	<![endif]-->
         <!--[IF IE 8]>
-            <link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style_ie8.css" />
+            <link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style_ie8.css?v=1" />
+	<![endif]-->
+    	<!--[IF IE 9]>
+            <link rel="stylesheet" type="text/css" media="screen" href="/static/css/new/style_ie9.css?v=1" />
 	<![endif]-->
 	<link rel="shortcut icon" type="image/ico" href="/static/images/new/favicon.ico">
 	<link rel="stylesheet" type="text/css" href="/static/js/new/wmd/wmd.css">
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/static/js/new/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var JSList = new Array();
+    </script>
 
-</head>
+    <script type="text/javascript">
+        JSList.push('http://www.akaqa.com/static/js/new/jquery-1.4.2.min.js');
+    </script>
+
+<script type="text/javascript" src="http://www.akaqa.com/static/js/new/jquery-1.4.2.min.js"></script></head>
 
 <body>
 
-    <div id="top_notification">
-    <span class="notification_text"></span><a href="#" onclick="closeNotification();return false;" class="notification_closer">x</a>
-</div>
-<script type="text/javascript">
-    function showNotification(text) {
-        $('#top_notification .notification_text').text(text);
-        $('#top_notification').slideDown('fast');
-        //$('#topmost_header').css('padding-top', '40px');
-    }
-    function closeNotification(text) {
-        $('#top_notification').slideUp('fast');
-        //$('#topmost_header').css('padding-top', '0');
-    }
-    
+    <script type="text/javascript">
+	function emptyElement(element){
+	    while(element.firstChild){
+		element.removeChild(element.firstChild);
+	    }
+	}
+	function showTopNotification(text, hide_timeout) {
+		document.getElementById('top_notification').style.display='block';
+		document.getElementById('top_notification').style.top=0;
+		$('#top_notification_text').html(text);
+		document.getElementById('topmost_header').style.paddingTop="40px";
+		if (hide_timeout) {
+			setTimeout(closeTopNotification, hide_timeout*1000);
+		}
+	}
+	function closeTopNotification() {
+		var i=30;
+		var intrvl = setInterval(function(){
+			if (i<0) {
+				document.getElementById('top_notification').style.display='none';
+				clearInterval(intrvl);
+			}
+			else {
+				document.getElementById('topmost_header').style.paddingTop=i+"px";
+				document.getElementById('top_notification').style.top=(i-30)+"px";
+				i--;
+			}
+		}, 10);
+	}
 </script>
+
+<script type="text/javascript">
+    var i1 = new Image();i1.src='/static/images/new/search_hover.gif';
+    function search_onblur(){
+	var ss = document.getElementById('searchString');
+	if(ss.value == ''){
+	    ss.value = 'Search';
+	    ss.style.color = '#545454';
+	}
+    }
+    function search_onfocus(){
+	var ss = document.getElementById('searchString');
+	if(ss.value == 'Search'){
+	    ss.value = '';
+	    ss.style.color = '#000000';
+	}
+    }
+</script>
+
+<div id="top_notification">
+    <span id="top_notification_text" class="notification_text"></span><a href="#" onclick="closeTopNotification();return false;" class="notification_closer" onmouseover="document.getElementById(&quot;topnote_close_icon&quot;).src=&quot;/static/images/new/close_over.png&quot;" onmouseout="document.getElementById(&quot;topnote_close_icon&quot;).src=&quot;/static/images/new/close_1.png&quot;"><img id="topnote_close_icon" alt="close" src="/static/images/new/close_1.png"></a>
+</div>
 <div id="topmost_header" style="background:#434343;width:100%;">
     <div id="wrapper">
-
-        <div class="categories_div" style="float:left;margin:0 0 0 7%;width:59%;heigth:1px;">
+		<div class="categories_div" style="float:left;margin:0 0 0 7%;width:59%;heigth:1px;">
             <div class="categories_list" id="categories_list" style="z-index:999999;">
                 
                 <ul>
@@ -116,55 +162,59 @@
 
             </div>
         </div>
-        <div class="head">
-            <div id="fb-root"></div>
-            <script src="http://connect.facebook.net/en_US/all.js"></script>
-            <script>
-                FB.init({appId: '', status: true,
-                    cookie: true, xfbml: true});
-                // FB.Event.subscribe('auth.login', function(response) {
-                //  window.location.reload();
-                // });
-            </script>
+        <div class="head" style="height:129px;">
+            <a id="logo" href="/" style="top:43px;" title="back to home page" alt="akaQA - also known as questions &amp; answers logo"></a>
+            <!--<div id="top_like_div" style="display: block;height: 45px;left: 0;position: absolute;top: 91px;width: 121px;"></div>-->
+            <div id="logo_text" class="logo_text hidden" style="top:93px;">
+		Unread notifications
+		<a id="notifications_badge" title="Notifications" href="#" onclick="loadNotifications();return false;">0</a>
+	    </div>
+<!--
+			<div style="color: white; position: relative; top: 99px;">
+				<iframe frameborder="0" scrolling="no" allowtransparency="true" style="border: medium none; overflow: hidden; width: 100px; height: 21px;" src="/like.html"></iframe>
+			</div>
+-->
 
-            <a id="logo" href="/" title="back to home page" alt="akaQA - also known as questions &amp; answers logo"></a>
-            <div class="logo_text">also known as questions &amp; answers</div>
-
-            <script type="text/javascript">
-                function search_onblur(){
-                    if($('#searchString').val() == ''){
-                        $('#searchString').val('Search');
-                        $('#searchString').css('color','#BFBFBF');
-                    }
-                }
-                function search_onfocus(){
-                    if($('#searchString').val() == 'Search'){
-                        $('#searchString').val('');
-                        $('#searchString').css('color','#000');
-                    }
-                }
-            </script>
-
-
-            <div id="search_block">
-                <form action="/Search">
-                    
-                    
-                        <input class="search_field" type="text" name="q" id="searchString" value="Search" onfocus="search_onfocus();" onblur="search_onblur();">
-                    
-                    <input class="search_btn" type="image" src="/static/images/new/search.jpg">
-                </form>
+            <div style="top:26px;font-family:Arial;font-size:29px;font-weight:bold;color:#ffffff;left: 240px;position: absolute;text-align:center;">
+		<span style="font:bold 12px Arial;line-height:3px;color:#A1A1A1">also known as</span><br>
+		Questions &amp; Answers<br>
+		<div class="searchblock1">
+		    <div class="searchblock2">
+			<form action="/Search" id="searchForm" onsubmit="if(document.getElementById('searchString').value=='Search')document.getElementById('searchString').value='';">
+			    
+			    
+				<input type="text" id="searchString" name="q" value="Search" style="color:#888888" onfocus="search_onfocus();" onblur="search_onblur();">
+			    
+			    <a href="#" onclick="document.getElementById('searchForm').submit();return false;" style="float:left;margin:1px 1px 1px 4px;"><img src="/static/images/new/search.gif" width="24" height="24" alt="" onmouseover="this.src='/static/images/new/search_hover.gif';" onmouseout="this.src='/static/images/new/search.gif';"></a>
+			</form>
+			<div class="clearer"></div>
+		    </div>
+		</div>
             </div>
+	    
+	    <script type="text/javascript">
+                
+            </script>
 
             
-                <div class="account_block">
+                <div class="account_block" style="top:50px;width:256px;">
                     <div style="float:right;">
-                        <a class="twi" title="Sign in" href="/account/twitter"><img alt="twitter sign in" src="/static/images/new/twilogin.gif"></a>
-                        <a class="twi" title="Sign in" href="/account/facebook"><img alt="facebook sign in" src="/static/images/new/fblogin.gif"></a>
+                        <a class="twi" title="Sign in" href="/account/twitter?backto_signup=%2Faccount%2Fauth%3Faction%3Dsignup%26backto%3D%252Fprivacy&amp;backto_signin=%2Fprivacy" rel="nofollow">
+			    <img alt="twitter sign in" src="/static/images/new/twilogin.gif">
+			</a>
+                        <a class="twi" title="Sign in" href="/account/facebook?backto_signup=%2Faccount%2Fauth%3Faction%3Dsignup%26backto%3D%252Fprivacy&amp;backto_signin=%2Fprivacy" rel="nofollow">
+			    <img alt="facebook sign in" src="/static/images/new/fblogin.gif">
+			</a>
                     </div>
                     <div style="float:right">
-                        <a href="/account/auth?action=signup">Sign Up</a> | <a href="/account/auth?action=signin">Login</a>&nbsp;&nbsp;&nbsp;or&nbsp;&nbsp;&nbsp;
+                        <a href="/account/auth?action=signup&amp;backto=%2Fprivacy" rel="nofollow">
+			    Sign Up
+			</a> |
+			<a href="/account/auth?action=signin&amp;backto=%2Fprivacy" rel="nofollow">
+			    Login
+			</a>&nbsp;&nbsp;&nbsp;or&nbsp;&nbsp;&nbsp;
                     </div>
+					<iframe frameborder="0" scrolling="no" src="/like.html" style="border: medium none; overflow: hidden; height: 21px; position: absolute; top: 35px; width: 80px; left: 6px;" allowtransparency="true"></iframe>
                 </div>
             
             
@@ -201,13 +251,6 @@
             <li><a href="/users">Top Contributors</a></li>
         
     
-    <!--
-    <li><a class="active" href="/">Unanswered</a></li>
-    <li><a href="#" id="menu_categories">Categories</a></li>
-    <li><a href="/questions/answered">Answered</a></li>
-    <li><a href="#">Top Contributors</a></li>
-    <li><a href="#">Labels</a></li>
-    -->
 </ul>
 <div class="spacer"></div>
 
@@ -229,33 +272,186 @@
                 $('#categories_list').css('display','none');
             }
         }
+</script>
+<!-- start notifications -->
+<div id="n_window" class="notificator hidden">
+    <h4>New notifications</h4>
+    <ul></ul>
+    <div id="notification_navigation_buttons" style="margin-bottom: 38px;"></div>
+    <br style="clear:both;">
+    <a class="blue-button" title="Clear All Notifications" href="#" onclick="clearNotifications(); return false;">Clear All Notifications</a>
+</div>
+<div style="display: none;"><img src="/static/images/new/close_over.png"></div>
+<!-- end notifications -->
+<script type="text/javascript">
+    var current_page_cursor=1;
+    var notifications_count;
+    var notifications_per_page = 10;
+    
+    function clearNotificationWindow() {
+        $("#n_window ul").empty();
+        
+    }
 
-        $('#menu_categories').hover(
-            function () {
-                setTimeout(checkIfShowCategories,200);
-                categories_shown = true;
-            },
-            function (event) {
-                if ($(event.relatedTarget).attr('id')!=='categories_list') {
-                    $('#categories_list').css('display','none');
-                    categories_shown = false;
+    function clearAllNotifications() {
+        $.getJSON('/notifications/clear', {
+            'rnd': Math.random()*10000,
+            'all': 1
+        }, function(data) {
+
+        });
+        $('#notifications_badge').css('visibility', 'hidden').hide();
+	$('#logo_text').css('visibility', 'hidden').hide();
+        clearNotificationWindow();
+        hideNotificationWindow();
+
+    }
+    function clearNotifications() {
+        var uids=[];
+        $("#n_window ul li").each(function(i) {
+            var ar=this.id.match(/^n(\d+)$/);
+            if (ar) uids.push(ar[1]);
+        });
+        $.getJSON('/notifications/clear', {
+            'rnd': Math.random()*10000,
+            'uids': uids.join(',')
+        }, function(data) {
+            if (data.ok) {
+                var was = parseInt($('#notifications_badge').text());
+
+                var now = was-data.DATA.cleared;
+                if (parseInt(now)>0) {
+                    $('#notifications_badge').text(now);
+                }
+                else {
+		    $('#notifications_badge').css('visibility', 'hidden').hide();
+		    $('#logo_text').css('visibility', 'hidden').hide();
                 }
             }
-        );
-
-        $('#categories_list').hover(
-            function () {
-                categories_shown = true;
-            },
-            function (event) {
-                if($(event.relatedTarget).attr('id')!=='menu_categories')
-                {
-                    setTimeout(checkIfHideCategories,400);
-                    categories_shown = false;
+        });
+        clearNotificationWindow();
+        hideNotificationWindow();
+        current_page_cursor=1;
+        loadNotifications ();
+    }
+    function clearNotification(uid, callback){
+        $.getJSON('/notifications/clear', {
+            'rnd': Math.random()*10000,
+            'uids': uid
+        }, function(data) {
+            if (data.ok) {
+                //alert ('n'+uid);
+                $('#n'+uid).fadeOut();
+				if (callback) {
+					callback();
+				}
+                var was = parseInt($('#notifications_badge').text());
+                var now = was-1;
+                if (parseInt(now)>0) {
+                    $('#notifications_badge').text(now);
+                }
+                else {
+		    $('#notifications_badge').css('visibility', 'hidden').hide();
+		    $('#logo_text').css('visibility', 'hidden').hide();
+		    clearNotificationWindow();
+		    hideNotificationWindow();
                 }
             }
-        );
+        });
+        return false;
+    }
+    function showNotificationWindow() {
+        $('#n_window').show();
+    }
+    function hideNotificationWindow() {
+        $('#n_window').hide();
+    }
+    function addNotification(uid, text, time) {
+        var li=$('<li>')
+            .html('<div style="float:left;"><img class="notification_link" src="/static/images/new/close_1.png"" onmouseover="hovimg1 (this);" onmouseout="unhovimg1(this);" onclick="clearNotification('+uid+');" /> </div> <div class="notif_text" style="margin-top:2px;margin-left: 3px;float:left;">'+text)
+            .append(' &nbsp; <span>'+time+'</span> </div> ')
+            .addClass('notification_item')
+            .attr('id','n'+uid);
+		li.find('.notif_text a').bind('click',
+			function(saved_uid) {
+				return function(e) {
+					var link=this;
+					clearNotification(saved_uid, function() { window.location=link.href; } );
+					return false;
+				};
+			}(uid));
+        $('#n_window ul').append(li);
+    }
 
+    function hovimg1 (obj)
+    {
+        obj.src='/static/images/new/close_over.png';
+    }
+
+    function unhovimg1 (obj)
+    {
+        obj.src='/static/images/new/close_1.png';
+    }
+
+    function setNotificationWindow(nots) {
+        clearNotificationWindow();
+        for (var i=0; i<nots.length; i++) {
+            addNotification(nots[i].uid, nots[i].text, nots[i].time_ago);
+        }
+        if (nots.length) {
+            showNotificationWindow();
+        }
+    }
+    function loadNotifications() {
+        
+         $.getJSON('/notifications/count?rnd='+Math.random()*10000, function(data) {
+            if (data.ok) {
+                notifications_count = data.DATA.count;
+                
+                 $.getJSON('/notifications/get?page='+current_page_cursor+'&rnd='+Math.random()*10000, function(data) {
+                    if (data.ok) 
+                    {
+                            setNotificationWindow(data.DATA.notifications);
+                            loadPaginationLayout ();
+                    }
+                });
+            }
+        });
+       
+    }
+    
+    /*function loadNotificationsCount() {
+        $.getJSON('/notifications/count?rnd='+Math.random()*10000, function(data) {
+            if (data.ok) {
+                notifications_count = data.DATA.count;
+                loadPaginationLayout ();
+            }
+        });
+    }*/
+
+    function loadPaginationLayout() {
+        var prev_html = '';
+        var next_html = '';
+        if (notifications_count > (current_page_cursor*notifications_per_page)) {
+                next_html += '<a href="#"  onclick="loadNotificationsPage(\'next\');return false;">Next</a>';
+        }
+
+        if (current_page_cursor>1) {
+               prev_html += '<a href="#"  onclick="loadNotificationsPage(\'prev\');return false;">Prev</a>';
+        }
+
+        $('#notification_navigation_buttons').html (prev_html+''+next_html);
+    }
+
+    function loadNotificationsPage (action) {
+        if (action=='next') {
+            current_page_cursor++;
+        } else if (action == 'prev') {
+            current_page_cursor--;
+        }
+        loadNotifications ();        
+    }
+	
 </script>
 
         <div class="form_wrapper" id="div_ask_question" style="float:right;">
@@ -268,25 +464,22 @@
 
 <script type="text/javascript">
     function shortquestion_onblur(){
-        if($('#question_title').val() == ''){
-            $('#question_title').val('What would you like to ask?');
-            $('#question_title').css('color','#7F7F7F');
+        var question_title=document.getElementById('question_title');
+        if(question_title.value == ''){
+            question_title.value = 'What would you like to ask?';
+            question_title.style.color='#7F7F7F';
+
         }
     }
     function shortquestion_onfocus(){
-        if($('#question_title').val() == 'What would you like to ask?'){
-            $('#question_title').val('');
-            $('#question_title').css('color','#000');
+
+        var question_title=document.getElementById('question_title');
+        if(question_title.value == 'What would you like to ask?'){
+            question_title.value = '';
+            question_title.style.color= '#000';
         }
     }
-    $('#short_question_submit').hover(
-        function () {
-            $('#short_question_submit').css('background-position','0 -35px');
-        },
-        function (event) {
-            $('#short_question_submit').css('background-position','0 0px');
-        }
-    );
+    
 </script>
         <div id="main_block">
             <h1>Privacy Policy</h1>
@@ -324,124 +517,221 @@
 
         </div>
     <div id="special_block">
-        <div class="banner_block" style="display:none;"></div>
+        
+<!-- nqpage -->
+<div class="banner_block">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-5892729231691349";
+/* akaQA_300x250_ROS */
+google_ad_slot = "6869829683";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
 
-        <div class="experts sideblock">
-    <h1>Top Contributors</h1>
+ <div id="sidebar_div_ask_question" class="sideblock">
+    <h1>Have a question? Ask it Here</h1>
+    <form name="ask_question" id="sidebar_ask_question" action="" method="get" onsubmit="if(!$('#sidebar_question_title').val()){top.location.href='/ask';return false;}" autocomplete="off">
+        <textarea class="field" name="question_title" id="sidebar_question_title" onfocus="sidebarquestion_onfocus();" onblur="sidebarquestion_onblur();" value="What would you like to ask?"></textarea>
+        <input class="submit" type="submit" value="" id="sidebar_question_submit">
+        <div class="spacer"></div>
+    </form>
+    </div>
 
+<script type="text/javascript">
+    function sidebarquestion_onblur(){
+        if($('#sidebar_question_title').val() == ''){
+            $('#sidebar_question_title').val('What would you like to ask?');
+            $('#sidebar_question_title').css('color','#7F7F7F');
+        }
+    }
+    function sidebarquestion_onfocus(){
+        if($('#sidebar_question_title').val() == 'What would you like to ask?'){
+            $('#sidebar_question_title').val('');
+            $('#sidebar_question_title').css('color','#000');
+        }
+    }
     
-    <div class="expert_item">
-        <div class="photo"><img src="http://www.gravatar.com/avatar/dc9cf1070f53f879d714f938b584e00e?s=32&amp;d=wavatar&amp;r=g"></div>
-        <div class="descr">
-            <div><a class="exp_title" href="/account/profile/19192214">leeroy</a></div>
-            <div>
-                <span class="label">Answers: 913</span> /
-                <span class="label">Questions: 70</span> /
-                <span class="label">Rating: 8270</span>
-            </div>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="expert_item">
-        <div class="photo"><img src="http://www.gravatar.com/avatar/3798b588204318aa0ec22570cfacc8d6?s=32&amp;d=wavatar&amp;r=g"></div>
-        <div class="descr">
-            <div><a class="exp_title" href="/account/profile/1919122">Raider_retired 3_29_</a></div>
-            <div>
-                <span class="label">Answers: 407</span> /
-                <span class="label">Questions: 56</span> /
-                <span class="label">Rating: 5840</span>
-            </div>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="expert_item">
-        <div class="photo"><img src="http://www.gravatar.com/avatar/79d03b15c1f2478f173298282e425ac4?s=32&amp;d=wavatar&amp;r=g"></div>
-        <div class="descr">
-            <div><a class="exp_title" href="/account/profile/19191303">Colleen</a></div>
-            <div>
-                <span class="label">Answers: 821</span> /
-                <span class="label">Questions: 12</span> /
-                <span class="label">Rating: 5508</span>
-            </div>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="expert_item">
-        <div class="photo"><img src="http://www.gravatar.com/avatar/aff2b4bdc4b23ff773117ea11f3a26e1?s=32&amp;d=wavatar&amp;r=g"></div>
-        <div class="descr">
-            <div><a class="exp_title" href="/account/profile/1919445">Darci13</a></div>
-            <div>
-                <span class="label">Answers: 769</span> /
-                <span class="label">Questions: 13</span> /
-                <span class="label">Rating: 4878</span>
-            </div>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
+</script>
 
+        <script type="text/javascript">
+	function select_tab_menu_item(item, group) {
+		$('.'+group+'-body').hide();
+		$('.tab-menu-item.'+group).removeClass('tab-menu-selected');
+		$('#'+group+'-'+item+'-tab').addClass('tab-menu-selected');
+		$('#'+group+'-'+item+'-body').show();
 
+	}
+</script>
+<div style="position:relative;">
+	
+	<ul id="top_experts_selector" class="tab-menu">
+		<li id="top-experts-weekly-tab" class="tab-menu-item top-experts tab-menu-selected"><a href="#" onclick="select_tab_menu_item('weekly','top-experts');return false;">This week</a></li>
+		<li id="top-experts-all-tab" class="tab-menu-item top-experts"><a href="#" onclick="select_tab_menu_item('all','top-experts');return false;">All time</a></li>
+	</ul>
+	
+	<div id="top-experts-all-body" class="top-experts-body experts sideblock hidden">
+		<h1>Top Contributors</h1>
+		
+		<div class="expert_item">
+			<div class="photo">
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/7/akaqa/1109251//9303-1316921602.7299.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/7/akaqa/1109251//9303-1316921602.7299.jpg"> -->
+			</div>
+			<div class="descr">
+				<div><a class="exp_title" href="/account/profile/19191303">Colleen</a></div>
+				<div>
+					
+						<span class="label">Answers: 23941</span> /
+						<span class="label">Questions: 83</span> /
+                        <span class="label">Karma: 323K</span>
+					
+					
+				</div>
+			</div>
+			<div class="spacer"></div>
+		</div>
+		
+		<div class="expert_item">
+			<div class="photo">
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/6/akaqa/1105259//3506-1306313157.2117.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/6/akaqa/1105259//3506-1306313157.2117.jpg"> -->
+			</div>
+			<div class="descr">
+				<div><a class="exp_title" href="/account/profile/19193031">daren1</a></div>
+				<div>
+					
+						<span class="label">Answers: 8878</span> /
+						<span class="label">Questions: 268</span> /
+                        <span class="label">Karma: 285K</span>
+					
+					
+				</div>
+			</div>
+			<div class="spacer"></div>
+		</div>
+		
+		<div class="expert_item">
+			<div class="photo">
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/7/akaqa/1108017//9924-1312206403.3983.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/7/akaqa/1108017//9924-1312206403.3983.jpg"> -->
+			</div>
+			<div class="descr">
+				<div><a class="exp_title" href="/account/profile/191936161">melandrupert</a></div>
+				<div>
+					
+						<span class="label">Answers: 3385</span> /
+						<span class="label">Questions: 106</span> /
+                        <span class="label">Karma: 233K</span>
+					
+					
+				</div>
+			</div>
+			<div class="spacer"></div>
+		</div>
+		
+		<div class="expert_item">
+			<div class="photo">
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/6/akaqa/1105259//2252-1306314515.0821.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/6/akaqa/1105259//2252-1306314515.0821.jpg"> -->
+			</div>
+			<div class="descr">
+				<div><a class="exp_title" href="/account/profile/191915883">Benthere</a></div>
+				<div>
+					
+						<span class="label">Answers: 4962</span> /
+						<span class="label">Questions: 18</span> /
+                        <span class="label">Karma: 233K</span>
+					
+					
+				</div>
+			</div>
+			<div class="spacer"></div>
+		</div>
+		
+		<div style="clear:both;"><a class="more_link" href="/users">Top contributors chart</a></div>
+	</div>
+	
+	<div id="top-experts-weekly-body" class="top-experts-body experts sideblock">
+		<h1>Top Contributors</h1>
+		
+		<div class="expert_item">
+			<div class="photo">
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/7/akaqa/1109251//9303-1316921602.7299.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/7/akaqa/1109251//9303-1316921602.7299.jpg"> -->
+			</div>
+			<div class="descr">
+				<div><a class="exp_title" href="/account/profile/19191303">Colleen</a></div>
+				<div>
+					<span class="label"><span title="Answers">Answers</span>: 23940</span> /
+					<span class="label"><span title="Questions">Questions</span>:83</span><br>
+					<span class="label">7 days gain: 8415</span>
+				</div>
+			</div>
+			<div class="spacer"></div>
+		</div>
+		
+		<div class="expert_item">
+			<div class="photo">
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/6/akaqa/1105259//2252-1306314515.0821.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/6/akaqa/1105259//2252-1306314515.0821.jpg"> -->
+			</div>
+			<div class="descr">
+				<div><a class="exp_title" href="/account/profile/191915883">Benthere</a></div>
+				<div>
+					<span class="label"><span title="Answers">Answers</span>: 4960</span> /
+					<span class="label"><span title="Questions">Questions</span>:18</span><br>
+					<span class="label">7 days gain: 8295</span>
+				</div>
+			</div>
+			<div class="spacer"></div>
+		</div>
+		
+		<div class="expert_item">
+			<div class="photo">
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/6/akaqa/1105259//3506-1306313157.2117.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/6/akaqa/1105259//3506-1306313157.2117.jpg"> -->
+			</div>
+			<div class="descr">
+				<div><a class="exp_title" href="/account/profile/19193031">daren1</a></div>
+				<div>
+					<span class="label"><span title="Answers">Answers</span>: 8877</span> /
+					<span class="label"><span title="Questions">Questions</span>:268</span><br>
+					<span class="label">7 days gain: 8025</span>
+				</div>
+			</div>
+			<div class="spacer"></div>
+		</div>
+		
+		<div class="expert_item">
+			<div class="photo">
+				<div style="background: url(&quot;http://cdn.akaqa.com/shared/7/akaqa/1108017//9924-1312206403.3983.jpg&quot;) repeat scroll 0% 0% transparent; width: 32px; height: 32px;" width="32" height="32">&nbsp;</div>
+				<!-- <img src="http://cdn.akaqa.com/shared/7/akaqa/1108017//9924-1312206403.3983.jpg"> -->
+			</div>
+			<div class="descr">
+				<div><a class="exp_title" href="/account/profile/191936161">melandrupert</a></div>
+				<div>
+					<span class="label"><span title="Answers">Answers</span>: 3384</span> /
+					<span class="label"><span title="Questions">Questions</span>:106</span><br>
+					<span class="label">7 days gain: 7680</span>
+				</div>
+			</div>
+			<div class="spacer"></div>
+		</div>
+		
+		<div style="clear:both;"><a class="more_link" href="/users">Top contributors chart</a></div>
+	</div>
+	
 </div>
 
         <div class="unanswered sideblock">
-    <h1>Recent Answered Questions</h1>
+    <h1>Recently Answered Questions</h1>
 
     
     <div class="question_item">
-        <div><a class="qtitle" href="/question/q191953700-q191953700-How_Long_Fresh_Fish_Lasts">how long fresh fish lasts</a></div>
-        <div class="statistic">
-            <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">15</span></span>
-            <span class="label">Rating: <span class="highlight">0</span></span>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="question_item">
-        <div><a class="qtitle" href="/question/q191953672-q191953672-Electricalwhat_Circiut_Breaker_Is_Needed_For_A_Hair_Dryer_In_A_Bathroom">electrical/what circiut breaker is needed for a hair dryer in a bathroom</a></div>
-        <div class="statistic">
-            <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">12</span></span>
-            <span class="label">Rating: <span class="highlight">0</span></span>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="question_item">
-        <div><a class="qtitle" href="/question/q191953630-q191953630-What_Is_The_Maximum_Amount_Guaranteed_By_A_Bank">what is the maximum amount guaranteed by a bank</a></div>
-        <div class="statistic">
-            <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">14</span></span>
-            <span class="label">Rating: <span class="highlight">0</span></span>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="question_item">
-        <div><a class="qtitle" href="/question/q191953607-q191953607-Why_Do_You_Always_See_Only_One_Shoe_On_The_Side_Of_The_Road_">Why do you always see only one shoe on the side of the road ?</a></div>
-        <div class="statistic">
-            <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">31</span></span>
-            <span class="label">Rating: <span class="highlight">0</span></span>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="question_item">
-        <div><a class="qtitle" href="/question/q191953542-q191953542-What_Happened_To_Mike_Sobel_Meterologist_On_Global_Tv_Edmonton__What_Did_He_Say_That_Was_So_Derogatory">What happened to Mike Sobel (meterologist) on Global TV Edmonton?  What did he say that was so derogatory?</a></div>
-        <div class="statistic">
-            <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">17</span></span>
-            <span class="label">Rating: <span class="highlight">0</span></span>
-        </div>
-        <div class="spacer"></div>
-    </div>
-    
-    <div class="question_item">
-        <div><a class="qtitle" href="/question/q191953412-q191953412-Whos_Your_Fav_Pokemon_Mines_Chinchou">whos your fav pokemon? mines chinchou</a></div>
+        <div><a class="qtitle" href="/question/q19191838125-Need-to-reports-on-serious-failures-to-protect-from-abuse-in-200-words-">need to reports on serious failures to protect from abuse in 200 words ?</a></div>
         <div class="statistic">
             <span class="label">Answers: <span class="highlight">1</span></span>
             <span class="label">Views: <span class="highlight">8</span></span>
@@ -451,20 +741,70 @@
     </div>
     
     <div class="question_item">
-        <div><a class="qtitle" href="/question/q191953342-q191953342-Do_You_Believe_If_There_Is_No_Religion_On_Earth_Do_We_Have_Peace_">do you believe if there is no religion on earth do we have peace ?</a></div>
+        <div><a class="qtitle" href="/question/q19191838121-How-can-i-improve-my-language-english">how can i improve my language ?english</a></div>
         <div class="statistic">
-            <span class="label">Answers: <span class="highlight">4</span></span>
-            <span class="label">Views: <span class="highlight">33</span></span>
+            <span class="label">Answers: <span class="highlight">1</span></span>
+            <span class="label">Views: <span class="highlight">10</span></span>
             <span class="label">Rating: <span class="highlight">0</span></span>
         </div>
         <div class="spacer"></div>
     </div>
     
     <div class="question_item">
-        <div><a class="qtitle" href="/question/q191953308-q191953308-How_To_Make_A_Paper_Sombrero">how to make a paper sombrero?</a></div>
+        <div><a class="qtitle" href="/question/q19191838120-X-5y10">x-5y=10</a></div>
         <div class="statistic">
             <span class="label">Answers: <span class="highlight">1</span></span>
-            <span class="label">Views: <span class="highlight">29</span></span>
+            <span class="label">Views: <span class="highlight">5</span></span>
+            <span class="label">Rating: <span class="highlight">0</span></span>
+        </div>
+        <div class="spacer"></div>
+    </div>
+    
+    <div class="question_item">
+        <div><a class="qtitle" href="/question/q19191838118-What-could-cause-a-white-tongue">What could cause a white tongue?</a></div>
+        <div class="statistic">
+            <span class="label">Answers: <span class="highlight">1</span></span>
+            <span class="label">Views: <span class="highlight">11</span></span>
+            <span class="label">Rating: <span class="highlight">1</span></span>
+        </div>
+        <div class="spacer"></div>
+    </div>
+    
+    <div class="question_item">
+        <div><a class="qtitle" href="/question/q19191838117-Is-there-really-a-santa-claus">IS THERE REALLY A SANTA CLAUS</a></div>
+        <div class="statistic">
+            <span class="label">Answers: <span class="highlight">2</span></span>
+            <span class="label">Views: <span class="highlight">14</span></span>
+            <span class="label">Rating: <span class="highlight">0</span></span>
+        </div>
+        <div class="spacer"></div>
+    </div>
+    
+    <div class="question_item">
+        <div><a class="qtitle" href="/question/q19191838115-Have-printmaster-17-gold-i-cant-find-the-install-disc-is-it-possible-to-install-on-another-computer-without-the-install-disc">have printmaster 17 gold, i cant find the install disc is it possible to install on another computer without the install disc</a></div>
+        <div class="statistic">
+            <span class="label">Answers: <span class="highlight">1</span></span>
+            <span class="label">Views: <span class="highlight">13</span></span>
+            <span class="label">Rating: <span class="highlight">0</span></span>
+        </div>
+        <div class="spacer"></div>
+    </div>
+    
+    <div class="question_item">
+        <div><a class="qtitle" href="/question/q19191838110-Get-rid-of-toolbar">get rid of toolbar</a></div>
+        <div class="statistic">
+            <span class="label">Answers: <span class="highlight">1</span></span>
+            <span class="label">Views: <span class="highlight">15</span></span>
+            <span class="label">Rating: <span class="highlight">0</span></span>
+        </div>
+        <div class="spacer"></div>
+    </div>
+    
+    <div class="question_item">
+        <div><a class="qtitle" href="/question/q19191838108-Is-free-tv-a-good-purchase">is free tv a good purchase?</a></div>
+        <div class="statistic">
+            <span class="label">Answers: <span class="highlight">1</span></span>
+            <span class="label">Views: <span class="highlight">9</span></span>
             <span class="label">Rating: <span class="highlight">0</span></span>
         </div>
         <div class="spacer"></div>
@@ -479,7 +819,135 @@
 
 </div>
 
-<div style="background:#373434;width:100%;">
+<script type="text/javascript">
+    function loadScript(url, callback){
+
+    var script = document.createElement("script")
+    script.type = "text/javascript";
+
+    if (script.readyState){  //IE
+        script.onreadystatechange = function(){
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete"){
+                script.onreadystatechange = null;
+                callback();
+            }
+        };
+    } else {  //Others
+        script.onload = function(){
+            callback();
+        };
+    }
+
+    script.src = url;
+    document.getElementsByTagName("head")[0].appendChild(script);
+    }
+
+
+    function downloadJSAtOnload()
+	{
+        if (typeof(JSList) != "undefined") {
+            if (0 == JSList.length) {
+                loadJqueryDepJs();
+            }
+            else if(JSList.length > 1)
+            {
+                loadScript(JSList[0], function(){
+                    JSList.splice(0,1);
+                    downloadJSAtOnload(JSList);
+                });
+            }
+            else
+            {
+                loadScript(JSList[0], function(){
+                    loadJqueryDepJs();
+                });
+            }
+        }
+    }
+
+    function loadJqueryDepJs()
+    {
+
+
+    
+
+    
+
+    
+    
+    
+
+        $('#menu_categories').hover(
+            function () {
+                setTimeout(checkIfShowCategories,200);
+                categories_shown = true;
+            },
+            function (event) {
+                if ($(event.relatedTarget).attr('id')!=='categories_list') {
+                    $('#categories_list').css('display','none');
+                    categories_shown = false;
+                }
+            }
+        );
+
+        $('#categories_list').hover(
+            function () {
+                categories_shown = true;
+            },
+            function (event) {
+                if($(event.relatedTarget).attr('id')!=='menu_categories')
+                {
+                    setTimeout(checkIfHideCategories,400);
+                    categories_shown = false;
+                }
+            }
+        );
+
+            
+
+
+            $('.profile_menu_item').hover (
+                function (){
+                    $(this).css ('background', '#366ecb');
+                    $(this).find('a').css ('color', 'white');
+                },
+                function (){
+                    $(this).css ('background', 'none');
+                    $(this).find('a').css ('color', 'black');
+                }
+        );
+
+        
+
+
+        $('#sidebar_question_submit').hover(
+        function () {
+            $('#sidebar_question_submit').css('background-position','0 -35px');
+        },
+        function (event) {
+            $('#sidebar_question_submit').css('background-position','0 0px');
+        }
+        );
+
+        $('#short_question_submit').hover(
+        function () {
+            $('#short_question_submit').css('background-position','0 -35px');
+        },
+        function (event) {
+            $('#short_question_submit').css('background-position','0 0px');
+        }
+        );
+}
+
+    if (window.addEventListener)
+    	window.addEventListener("load", downloadJSAtOnload, false);
+    else if (window.attachEvent)
+    	window.attachEvent("onload", downloadJSAtOnload);
+    else window.onload = downloadJSAtOnload;
+
+    </script>
+ <div style="background:#373434;width:100%;">
     <div id="wrapper">
         <div id="bottom">
             <ul class="menu">
@@ -488,17 +956,27 @@
                 <li><a class="menu_link" href="/categories/all">Browse categories</a></li>
                 <li><a class="menu_link" href="/labels">Browse labels</a></li>
 
-                <li><a class="menu_link" href="/about">About</a></li>
+                <li><a class="menu_link" href="/about" rel="nofollow">About</a></li>
+                <li><a class="menu_link" href="/karma" rel="nofollow">Karma Points</a></li>
                 <!-- <li><a class="menu_link" href="/terms">Terms</a></li> -->
-                <li><a class="menu_link" href="/contactus">Contact</a></li>
-                <li><a class="menu_link" href="/privacy">Privacy policy</a></li>
+                <li><a class="menu_link" href="/contactus" rel="nofollow">Contact</a></li>
+                <li><a class="menu_link" href="/privacy" rel="nofollow">Privacy policy</a></li>
+                <li><a class="menu_link" href="/sitemap">Sitemap</a></li>
+                <li><a class="menu_link" href="http://blog.akaqa.com">Blog</a></li>
 
             </ul>
+            
         </div>
     </div>
 </div>
-<script type="text/javascript">
 
+
+
+
+
+ 
+
+<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-21230791-1']);
   _gaq.push(['_trackPageview']);
@@ -510,6 +988,13 @@
   })();
 
 </script>
+
+<!-- s t a r t   V i b r a n t   M e d i a   I n t e l l i T X T   s c r i p t   s e c t i o n  -->
+
+ <script type="text/javascript" src="http://akaqa.us.intellitxt.com/intellitxt/front.asp?ipid=31383"></script>
+
+ <!--   e n d   V i b r a n t   M e d i a   I n t e l l i T X T   s c r i p t   s e c t i o n   -->
+
 
 
 </body></html>
