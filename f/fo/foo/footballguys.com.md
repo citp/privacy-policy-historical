@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215222426id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballguys.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209080552id_/http%3A//footballguys.com/fbgprivacy.php) for the most accurate reproduction.*
 
 # Fantasy Football - Footballguys - Privacy Policy
 
@@ -87,7 +87,7 @@ We collect the Personally Identifying Information listed below:
 
 **Privacy Policy Archive**
 
-  * [ Effective date: 3/21/2009](https://web.archive.org/web/20101215222426id_/http%3A//footballguys.com/fbgprivacy03212009.php)
+  * [ Effective date: 3/21/2009](https://web.archive.org/web/20111209080552id_/http%3A//footballguys.com/fbgprivacy03212009.php)
 
 
 
