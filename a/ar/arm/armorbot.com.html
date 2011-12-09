@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the armorbot.com privacy policy that was archived on 2011-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110610100950id_/http%3A//armorbot.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the armorbot.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209125309id_/http%3A//armorbot.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><!-- chartbeat -->
@@ -24,9 +24,15 @@
     <meta name="description" content="...">
     <meta name="keywords" content="games, online, free, rpg, puzzle, shooting, racing, flash, entertainment, arcade, action, puzzle, sports, casual, adventure, arcade">
     
-    <link rel="stylesheet" href="/stylesheets/armorgames.css?0" type="text/css" media="screen">
+    <link rel="stylesheet" href="/stylesheets/armorgames.css?33" type="text/css" media="screen">
      <!--[if lte IE 6]>
-          <link rel="stylesheet" href="/stylesheets/ie.css" type="text/css" media="screen" />
+          <link rel="stylesheet" href="/stylesheets/ie.css?33" type="text/css" media="screen" />
+     <![endif]-->
+     <!--[if lte IE 7]>
+          <link rel="stylesheet" href="/stylesheets/ie7.css?33" type="text/css" media="screen" />
+     <![endif]-->
+     <!--[if lte IE 8]>
+          <link rel="stylesheet" href="/stylesheets/ie8.css?33" type="text/css" media="screen" />
      <![endif]-->
     <style>
         .msie #socialchatter .facebookchat {display:none;}
@@ -35,15 +41,17 @@
 
     <script src="/javascript/jquery.min.js" type="text/javascript"></script>
     <script src="/javascript/plugins/jquery.maskedinput-1.2.2.min.js" type="text/javascript"></script>
+    <script src="/javascript/plugins/jquery.qtip.min.js" type="text/javascript"></script>
     <script src="/javascript/mootools-yui-compressed.js" type="text/javascript"></script>
     <script src="/javascript/flash.js" type="text/javascript"></script>
-    <script src="/javascript/armorgames.js?4" type="text/javascript"></script>
+    <script src="/javascript/armorgames.js?33" type="text/javascript"></script>
         <script src="/javascript/quickbbtags.js" type="text/javascript" charset="utf-8"></script><!-- track outbound clicks -->
 <script type="text/javascript">
 function recordOutboundLink(link, category, action,label) {
   _gat._getTrackerByName()._trackEvent(category, action, label);
 }
 </script>
+
 </head>
 <body id="page-generic">
 
@@ -53,7 +61,9 @@ function recordOutboundLink(link, category, action,label) {
   _gaq.push(['_setAccount', 'UA-199325-1']);
   _gaq.push(['_trackPageview']);
   _gaq.push(['_trackPageLoadTime']);
-  (function() {
+  _gaq.push(['_setCustomVar',1,'status','logged-in',2]);
+  _gaq.push(['_setCustomVar',2,'user','member',1]);
+    (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
@@ -61,7 +71,7 @@ function recordOutboundLink(link, category, action,label) {
 </script>
 <!-- Tracking Code -->
 
-        
+
     <div id="wrapper">
 
                         <div id="leaderboard" style="height:91px;">
@@ -78,10 +88,13 @@ google_ad_height = 90;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 
-</center>        </div>
-                        <div id="header">
+</center>
+
+        </div>
+                        <div id="header" class="header">
             <div id="header-top">
                 <h1><a href="/" title="Armor Games">Armor Games</a></h1>
+                 
                 <div id="profileblock">
                                             <img src="/image/armatar_4_35.35_c.png" width="35" height="35" alt="">
                         <p class="username"><a href="/user/"></a></p>
@@ -90,45 +103,201 @@ google_ad_height = 90;
                                     </div>
             </div>
             <ul id="header-nav">
-                <li><a href="/category/action" class="nav-action" title="Action Games">Action Games</a></li>
-                <li><a href="/category/adventure" class="nav-adventure" title="Adventure Games">Adventure Games</a></li>
-                <li><a href="/category/arcade" class="nav-arcade" title="Arcade Games">Arcade Games</a></li>
-                <li><a href="/category/shooting" class="nav-shooting" title="Shooting Games">Shooting Games</a></li>
-                <li><a href="/category/puzzle-skill" class="nav-puzzle" title="Puzzle &amp; Skill Games">Puzzle &amp; Skill Games</a></li>
-                <li><a href="/category/strategy" class="nav-strategy" title="Strategy Games">Strategy Games</a></li>
-                <li><a href="/category/sports" class="nav-sports" title="Sports Games">Sports Games</a></li>
-                <li><a href="/category/miscellaneous" class="nav-misc" title="Miscellaneous Games">Miscellaneous Games</a></li>
+                <li><a href="/category/action" class="" title="Action Games">Action</a></li>
+                <li><a href="/category/adventure" class="" title="Adventure Games">Adventure</a></li>
+                <li><a href="/category/arcade" class="" title="Arcade Games">Arcade</a></li>
+                <li><a href="/category/shooting" class="" title="Shooting Games">Shooting</a></li>
+                <li><a href="/category/puzzle-skill" class="" title="Puzzle &amp; Skill Games">Puzzle &amp; Skill</a></li>
+                <li><a href="/category/strategy" class="" title="Strategy Games">Strategy</a></li>
+                <li><a href="/category/sports" class="" title="Sports Games">Sports</a></li>
+                <li><a href="/category/miscellaneous" class="" title="Miscellaneous Games">Misc</a></li>
                 <li class="quickjump">
-                    <select name="quickjump" id="quickjump">
-                        <option value="">--Game Quick Jump--</option>
-                        <optgroup label="New Games">
-                            <option value="/play/11712/pipe-riders">Pipe Riders</option><option value="/play/11700/moontype">MoonType</option><option value="/play/11689/jack-in-the-box">Jack in the Box</option><option value="/play/11699/flagstaff-chapter-three">Flagstaff: Chapter Three</option><option value="/play/11682/combat-hero-adventures">Combat Hero Adventures</option><option value="/play/11692/warp-game">Warp Game</option><option value="/play/11652/dibbles-for-the-greater-good">Dibbles: For The Greater Good</option><option value="/play/11628/papas-taco-mia">Papa's Taco Mia!</option><option value="/play/11622/hands-of-war-2-expanded-edition">Hands of War 2 - Expanded Edition</option><option value="/play/11433/shell-shock-live">Shell Shock Live</option>                        </optgroup>
-                        <optgroup label="Popular Games">
-                            <option value="/play/10606/elephant-quest">Elephant Quest</option><option value="/play/10317/gemcraft-labyrinth">GemCraft Labyrinth</option><option value="/play/7598/flight">Flight</option><option value="/play/6137/crush-the-castle-2">Crush the Castle 2</option><option value="/play/5917/exit-path">Exit Path</option><option value="/play/4071/warfare-1944">Warfare 1944</option>                        </optgroup>
-                    </select>
+                    
+                    <span class="mailicon"></span>
+                    <div class="newsletter-message">
+                    	<div class="opeining">
+                    		Get Free Games by Email<br>
+                    		<span>Subscribe to our newsletter</span>
+                    	</div>
+                    	<div class="register">
+                    		Create a Free Account?<br>
+                    		<span>Earn Points, Save Games and more!</span>
+                    	</div>
+                    	<div class="completed">
+                    		<div class="c_text">
+                    		Woot! You'll get our Email.
+                    		</div>
+                    	</div>
+                    </div>
+                    
+                    <div class="mailforms">
+                                                <div class="m_completed">
+                            <div class="mc_body">
+                                                                    <br>
+                                    <h3>Go play some Games!</h3>
+                                    <button class="close">Close!</button>
+                                
+                            </div>
+                        </div>
+                        <div class="mailletter">
+                            <div class="err"></div>
+                                                        <form id="newsletter_form" name="newsletter" action="/newsletter">
+                                <div class="error_message"></div>
+                                <img src="/images/newsletter-loader.gif" height="16" width="16" alt="loading" class="signup_loader">
+                                <input type="hidden" name="token" value="ec4cd957c5287888bc580f434649d0e4">
+                                <input class="newsletter_input" type="text" name="email" value="">              	
+                                <input class="newsletter_submit" type="image" src="/images/newsletter_submit.png">
+                                <div class="clear"></div>
+                                <div class="wepromisetokeepitprivate">WE PROMISE TO KEEP IT PRIVATE</div>
+                            </form>
+                        </div>
+                    </div>
+                    
+                                        
                 </li>
             </ul>
             <div id="header-bottom">
-                <form action="/search/" method="post">
-                    <select name="type">
-                        <option value="games">Games</option>
-                        <!-- <option value="community">Community</option> -->
-                    </select>
-                    <input type="text" name="search" value="" class="search">
+                <form id="searchform" action="/search/" method="post">
+                    <input type="text" name="search" value="" class="search" style="float:left">
+                    <input type="image" src="/images/search_submit.png" style="float:left">
+                    <input type="hidden" name="type" value="games">
+                    <span class="clear"></span>
                 </form>
+                <div class="featuredgames">
+                	<div class="fg-text">FEATURED<br>GAMES</div>
+                	<div class="fg-games">
+                		<div class="featured-slide"></div>
+		               		
+		                <ul>
+														<li>
+								<a href="/play/5172/endless-migration">
+									<img src="/files/thumbnails/endless-migration-5172.jpg" width="15" height="15" style="float:left; margin-right:5px;">
+									Endless Migration								</a>
+							</li>
+														<li>
+								<a href="/play/5346/neon-rider">
+									<img src="/files/thumbnails/neon-rider-5346.jpg" width="15" height="15" style="float:left; margin-right:5px;">
+									Neon Rider								</a>
+							</li>
+														<li>
+								<a href="/play/7144/in3structotank">
+									<img src="/files/thumbnails/in3structotank-7144.png" width="15" height="15" style="float:left; margin-right:5px;">
+									In3structoTank!								</a>
+							</li>
+														<li>
+								<a href="/play/10471/sushi-cat-2">
+									<img src="/files/thumbnails/sushi-cat-2-10471.jpg" width="15" height="15" style="float:left; margin-right:5px;">
+									Sushi Cat 2								</a>
+							</li>
+														<li>
+								<a href="/play/10606/elephant-quest">
+									<img src="/files/thumbnails/elephant-quest-10606.png" width="15" height="15" style="float:left; margin-right:5px;">
+									Elephant Quest								</a>
+							</li>
+														<li>
+								<a href="/play/11953/droid-assault">
+									<img src="/files/thumbnails/droid-assault-11953.png" width="15" height="15" style="float:left; margin-right:5px;">
+									Droid Assault								</a>
+							</li>
+														<li>
+								<a href="/play/12141/kingdom-rush">
+									<img src="/files/thumbnails/kingdom-rush-12141.png" width="15" height="15" style="float:left; margin-right:5px;">
+									Kingdom Rush								</a>
+							</li>
+														<li>
+								<a href="/play/12326/siege-hero-viking-vengeance">
+									<img src="/files/thumbnails/siege-hero-viking-ve-12326.png" width="15" height="15" style="float:left; margin-right:5px;">
+									Siege Hero - Viking Vengeance								</a>
+							</li>
+									                </ul>
+		                <div class="trigger" style="z-index:10"></div>
+		            </div>
+	                <div class="clear"></div>
+                </div>
+
                 <ul>
-                    <li><a href="/submit" title="Submit">Submit</a></li>
+                    <li><a href="/submit" title="Submit">Submit Games</a></li>
                     <li><a href="/news" title="News">News</a></li>
                     <li><a href="/community" title="Community">Community</a></li>
                     <li><a href="/store" title="Store">Store</a></li>
                     <li><a href="http://armorblog.com" title="Armor Games Blog">Blog</a></li>
-                    <li><a href="/about" title="About">About</a></li>
-                    <li><a href="/contact" title="Contact">Contact</a></li>
                     <li><a href="/page/help" title="Help">Help</a></li>
                                     </ul>
             </div>
         </div>
-        <div id="content">
+ <script>
+jQuery(document).ready(function($){
+
+// featured list
+$('.featured-slide').data('featured',[{"ratingavg":"8.247985","thumbnail":"endless-migration-5172.jpg","featured_file":"endless-migration-5172.png","name":"Endless Migration","id":"5172"},{"ratingavg":"8.260561","thumbnail":"neon-rider-5346.jpg","featured_file":"neon-rider-5346.png","name":"Neon Rider","id":"5346"},{"ratingavg":"8.211472","thumbnail":"in3structotank-7144.png","featured_file":"in3structotank-7144.png","name":"In3structoTank!","id":"7144"},{"ratingavg":"8.952609","thumbnail":"sushi-cat-2-10471.jpg","featured_file":"sushi-cat-2-10471.jpg","name":"Sushi Cat 2","id":"10471"},{"ratingavg":"9.238217","thumbnail":"elephant-quest-10606.png","featured_file":"elephant-quest-10606.png","name":"Elephant Quest","id":"10606"},{"ratingavg":"7.947384","thumbnail":"droid-assault-11953.png","featured_file":"droid-assault-11953.png","name":"Droid Assault","id":"11953"},{"ratingavg":"9.648237","thumbnail":"kingdom-rush-12141.png","featured_file":"kingdom-rush-12141.jpg","name":"Kingdom Rush","id":"12141"},{"ratingavg":"7.638894","thumbnail":"siege-hero-viking-ve-12326.png","featured_file":"siege-hero-viking-ve-12326.png","name":"Siege Hero - Viking Vengeance","id":"12326"}]); var feat = $('.featured-slide').data('featured'), timeout = 10000, timeout_var = '';
+
+// this is the trigger to show the open 
+$('.trigger, .featured-slide').live('click',function(event){ if(event.type=='click') { if($(this).parent().height() === 22) { $(this).parent().height('auto'); if(timeout_var) { clearTimeout(timeout_var); } $('.featured-slide').hide(); } else { $('.featured-slide').show(); $(this).parent().height(22); }}});
+	
+// body trigger 
+jQuery('body').click(function(){ if(jQuery('.fg-games').height() > 22) { jQuery('.fg-games').height('22px'); jQuery('.featured-slide').show(); }});
+	
+// populate the div
+populate = function(ft) { var img = document.createElement('img'); img.src = '/files/thumbnails/' + ft.thumbnail; img.width = 15; img.height = 15; img.style.cssFloat = 'left'; img.style.marginRight = '5px'; var a_title = document.createElement('a'); a_title.setAttribute('onclick','return false;'); a_title.href = '#'; a_title.appendChild(img); a_title.appendChild(document.createTextNode(ft.name)); $('.featured-slide').html(a_title); }
+	
+// rotate function 
+rotate = function(feature) { b = feature; $.each(feature,function(nu,obj){ if(obj.name !== $.trim($('.featured-slide a').text())) return; num = (Number(nu) + 1); }); if(num === feature.length) { num = 0; } populate(feature[num]); timeout_var = setTimeout(function(){ rotate(b); },timeout); }	                		
+	
+// kickoff
+populate(feat[0]);
+
+// timeout
+timeout_var = setTimeout(function(){ rotate(feat); },timeout); 
+
+// search form
+$('#searchform').submit(function(){	if( $('input.search','#searchform').val().toLowerCase() === 'search armor games' ) { return false; }});
+
+});
+
+/*******************************************************************************
+ * jQuery Cookie plugin
+ * https://github.com/carhartl/jquery-cookie
+ * 
+ * Copyright (c) 2010 Klaus Hartl (stilbuero.de)
+ * Dual licensed under the MIT and GPL licenses:
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ *
+ ******************************************************************************/
+jQuery.cookie = function (key, value, options) {
+
+    // key and at least value given, set cookie...
+    if (arguments.length > 1 && String(value) !== "[object Object]") {
+        options = jQuery.extend({}, options);
+
+        if (value === null || value === undefined) {
+            options.expires = -1;
+        }
+
+        if (typeof options.expires === 'number') {
+            var days = options.expires, t = options.expires = new Date();
+            t.setDate(t.getDate() + days);
+        }
+
+        value = String(value);
+
+        return (document.cookie = [
+            encodeURIComponent(key), '=',
+            options.raw ? value : encodeURIComponent(value),
+            options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IE
+            options.path ? '; path=' + options.path : '',
+            options.domain ? '; domain=' + options.domain : '',
+            options.secure ? '; secure' : ''
+        ].join(''));
+    }
+
+    // key and possibly options given, get cookie...
+    options = value || {};
+    var result, decode = options.raw ? function (s) {return s;} : decodeURIComponent;
+    return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decode(result[1]) : null;
+};
+</script>
+<div id="content">
 			<div id="main">
 				<h2>Privacy Policy</h2>
 				<p><strong>ArmorGames.com</strong> is committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online. </p>
@@ -173,10 +342,8 @@ var casaleU=escape(window.location.href);
 var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
 document.write('<scr'+'ipt'+casaleHost+'65614&u=');
 document.write(casaleU+'&f=1&id='+casaleR+'"><\/scr'+'ipt>');
-//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=65614&amp;u=https%3A//web.archive.org/web/20110610100950id_/http%253A//armorbot.com/page/privacy-policy&amp;f=1&amp;id=1784115636.8306372"></script>
-<!-- DO NOT MODIFY -->
-
-<script language="JavaScript">document.write('<script tagid="ca4490744e73c5c391c5833da96e22c4" src="' + "http://amconf.videoegg.com/tagconf/current/ca4490744e73c5c391c5833da96e22c4/config.js?" + Math.random() + '"></s'+'cript>');</script><script tagid="ca4490744e73c5c391c5833da96e22c4" src="http://amconf.videoegg.com/tagconf/current/ca4490744e73c5c391c5833da96e22c4/config.js?0.46709632881691254"></script>	</div>
+//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=65614&amp;u=https%3A//web.archive.org/web/20111209125309id_/http%253A//armorbot.com/page/privacy-policy&amp;f=1&amp;id=1784115987.2841685"></script>
+<!-- DO NOT MODIFY -->	</div>
 </div>
 <!--FROM CACHE-->
 
@@ -195,6 +362,16 @@ document.write(casaleU+'&f=1&id='+casaleR+'"><\/scr'+'ipt>');
     <a href="/page/privacy-policy" title="Armor Games Privacy Policy">Privacy</a> |
     <a href="http://games.yahoo.com" title="Yahoo! Games" class="yahoo">Yahoo! Games</a> |
     <a href="http://feeds.armorgames.com/armorgames" title="Armor Games Feed" class="gamefeed">Games Feed</a>
+    <br><strong>Related Sites: </strong> 
+    <a href="http://www.phagewarslive.com/" class="related" title="Phage Wars Live" target="_blank">Phage Wars Live</a> | 
+    <a href="http://www.lastcastlegame.com/" class="related" title="The Last Castle" target="_blank">The Last Castle</a> | 
+    <a href="http://www.shoresiege.com/" class="related" title="Shore Siege" target="_blank">Shore Siege</a> | 
+    <a href="http://www.monsterbark.com/" class="related" title="Monster Bark" target="_blank">Monster Bark</a> | 
+    <a href="http://www.chuckthesheep.com/" class="related" title="Chuck the Sheep" target="_blank">Chuck the Sheep</a> | 
+    <a href="http://www.guidesandcheats.com/" class="related" title="Flash Game Guides and Cheats" target="_blank">Flash Game Guides and Cheats</a>
+    
+    
+    
 </p>
 <p style="margin: 10px;">Copyright 2005-2011 Armor Games. All Rights Reserved.</p>
 <style>
