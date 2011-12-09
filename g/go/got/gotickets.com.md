@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotickets.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122234001id_/http%3A//www.gotickets.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotickets.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209135427id_/http%3A//www.gotickets.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GOtickets.com Privacy Policy
 
@@ -71,4 +71,4 @@ Fax: (919) 481-9101
 
 [Sales@GoTickets.com](mailto:Sales@GoTickets.com)
 
-**EFFECTIVE DATE:** February 24, 2010
+[GoTickets Complaints](http://www.gotickets.com/complaints.php)
