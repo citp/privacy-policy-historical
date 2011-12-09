@@ -1,35 +1,33 @@
-> *The following text is extracted and transformed from the newseruption.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611110639id_/http%3A//www.newseruption.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newseruption.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209094823id_/http%3A//www.newseruption.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Newseruption
-
-You are here: [Home](http://www.newseruption.com/) / Privacy Policy
+# Privacy Policy
 
 Your privacy is important to  **NewsEruption.com** and we take our responsibility seriously to protect the data that you provide us. Therefore, we have come up with the comprehensive **privacy policy** below.
 
- **Email Privacy:**
+**Email Privacy:**
 
-  *  **Email Newsletter & Email Alert Subscription Forms**  
+  * **Email Newsletter & Email Alert Subscription Forms**  
 NewsEruption.com uses subscription forms for individuals to request information by subscribing to email newsletters and/or email alerts based on their categories of interest. We collect contact information (like your name and/or email address among other data) to provide you with the information that you requested. We do not sell or rent email addresses to any 3rd parties.
-  *  **Confirm OPT-IN**  
+  * **Confirm OPT-IN**  
 We provide confirm opt-in opportunities for any email list(s) that you choose to receive. We use your email address to confirm your subscription and validity of the provided email address
-  *  **Unsubscribe**  
+  * **Unsubscribe**  
 You can unsubscribe/opt-out for any or all email lists that you previously chose to receive. Emails sent to you includes the information necessary for removal from the list.
-  *  **User/Member/Client Communications**  
+  * **User/Member/Client Communications**  
 When you send email or other communications to us, we may retain those communications in order to process your requests and improve the quality of our services.
-  *  **Transactional Relationships**  
+  * **Transactional Relationships**  
 Members, and/or Users are considered to be engaged in a transactional relationship with NewsEruption.com and as such, we may need to email or communicate with you from time to time in order to deliver our services.
 
 
 
- **Personal Information and Other Data We Collect:**
+**Personal Information and Other Data We Collect:**
 
-  *  **NewsEruption.com** collects personal information such as your name, email address, postal address, phone numbers, etc. when you register for various services we provide (example: Creating a membership account). We may combine this data with other NewsEruption services or 3rd party data to provide a better user experience for you.
-  *  **NewsEruption.com** uses cookies (a piece of data stored on the user’s computer) and other technologies to provide you with a quality experience and to learn how you use our services so that we can continually innovate to improve our services.
-  *  **NewsEruption.com** servers may record/log information automatically any time you interact with our site or use any of our products & services. This may include information such as your IP address, URL, browser type, domain name(s), access dates & times, operating system, country of origin, language type, page views and user sessions to help diagnose problems and/or deliver our services to you.
+  * **NewsEruption.com** collects personal information such as your name, email address, postal address, phone numbers, etc. when you register for various services we provide (example: Creating a membership account). We may combine this data with other NewsEruption services or 3rd party data to provide a better user experience for you.
+  * **NewsEruption.com** uses cookies (a piece of data stored on the user’s computer) and other technologies to provide you with a quality experience and to learn how you use our services so that we can continually innovate to improve our services.
+  * **NewsEruption.com** servers may record/log information automatically any time you interact with our site or use any of our products & services. This may include information such as your IP address, URL, browser type, domain name(s), access dates & times, operating system, country of origin, language type, page views and user sessions to help diagnose problems and/or deliver our services to you.
 
 
 
- **Uses:**
+**Uses:**
 
   * We may use the personal information you provided to provide the services you requested and for our own research and analysis to operate and improve on the services and products that we deliver, as well as develop new services and products.
   * We may share the aggregated non-personal information with 3rd parties outside of **NewsEruption** **.com**.
@@ -40,7 +38,7 @@ Members, and/or Users are considered to be engaged in a transactional relationsh
 
 
 
- **  
+**  
 Links:**
 
   * This site contains links to other 3rd party sites and these sites are not covered under our privacy policy. We have made attempts to make sure these links are currently active but do not assure any responsibility for the content of these websites. We highly recommend that you review the privacy policies of these websites as well.
@@ -48,22 +46,22 @@ Links:**
 
 
 
- **Advertising Specific Terms & Conditions:**  
+**Advertising Specific Terms & Conditions:**  
 We use a combination of internal and 3rd party advertising companies to serve our ads on our website and in our emails, based on personal information. To track the effectiveness of the ads and provide a better user experience, these companies use information about your web visits to our website to serve relevant ads. Information collected and used may include IP address, geographical location, their cookie and historical data previously collected. We will not provide any personal information to our advertisers when you interact with or view a targeted ad, however, by viewing or interacting with an ad, you are consenting to the possibility that the advertiser will assume you meet the targeting criteria used to display the ad(s).
 
- **Security Management and Data Security:**  
+**Security Management and Data Security:**  
 The **NewsEruption** **.com** web site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control, including management procedures and specialized training for those who work directly with our databases. We take measures to protect against the unauthorized access of personal data, including physical security considerations of the stored data. We restrict access to personal data to **NewsEruption** **.com** employees, contractors and agents who need to know that information in order to operate, innovate, and deliver our services.
 
- **Notification of Changes:**  
+**Notification of Changes:**  
 From time to time, NewsEruption.com will occasionally update our Privacy Policy. If there are any material changes to how we use your personal information, we will notify via email and provide you the opportunity to opt-out prior to any substantial change that has been taken. However, if you have opted out of all communication from **NewsEruption** **.com** you will not be contacted, nor will your personal information be used in this new manner. NewsEruption.com encourages you to periodically review our privacy policy to be informed of how we are committed to protecting your privacy.
 
- **Your Choice:**  
+**Your Choice:**  
 You can decline to submit personal information for any of our services, in which case **NewsEruption** **.com** may not be able to provide services to you.
 
- **Legal Disclaimer:**  
+**Legal Disclaimer:**  
 Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site or to establish or exercise our legal rights or defend against legal claims.
 
- **Contacting this Web Site:**  
+**Contacting this Web Site:**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
 
- **email:** contact@newseruption.com
+**email:** contact@newseruption.com
