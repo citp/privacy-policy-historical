@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grocerycouponfree.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624031413id_/http%3A//grocerycouponfree.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponfree.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209023344id_/http%3A//grocerycouponfree.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective and Last Updated:** 5/12/2011
+**Effective and Last Updated:** 11/30/2011
 
 This website is owned and operated by Elite Web Holding, LLC **.** We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the “Site”).  This Privacy Policy applies to the Site only. It does not apply to other websites to which we link.  Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
@@ -18,7 +18,7 @@ By registering with us (submitting your name, email address, and zip code), you 
 
 ·       Voluntary Information for Services and Features
 
-We [also] collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases, ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our polls, iv) commenting on anything throughout out site, and others. When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information.  Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our others users in the future.
+We [also] collect personally identifiable information when you choose to use certain other features of the Site, including: i) making purchases, ii) consenting to receive email or text messages about upcoming promotions or events, iii) consenting to receive email, iv) participating in our polls, iv) commenting on anything throughout out site, and others. When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information.  Occasionally, we may also request information such as your shopping preferences and demographics which will help us better serve you and our others users in the future.  We will not sell, rent, or share your personal information for marketing purposes without your consent.
 
 ·       Cookies
 
@@ -43,8 +43,6 @@ Please note that personally identifiable information is used only to provide you
 GroceryCouponFree.net **** may use your personal information for target advertising toward you based on things such as region, gender, interests, goals, habits, etc.
 
 We may permit certain trusted third parties to track usage, analyze data such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site. We may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders.
-
-Also, we may share personally identifiable or other information with our parent, subsidiaries, divisions, and affiliates.
 
 We may transfer personally identifiable information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.
 
