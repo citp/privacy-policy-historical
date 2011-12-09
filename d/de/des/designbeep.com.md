@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the designbeep.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610145038id_/http%3A//designbeep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbeep.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209023131id_/http%3A//designbeep.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DesignBeep
-
-## [Privacy Policy](http://designbeep.com/privacy-policy/ "Permanent Link to Privacy Policy")
+# Privacy Policy | Design Inspiration
 
 **Designbeep.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
