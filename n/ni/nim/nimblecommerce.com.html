@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the nimblecommerce.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623200205id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nimblecommerce.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209165552id_/http%3A//www.nimblecommerce.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+		<meta name="viewport" content="width=1200">
 		
 
 
@@ -66,7 +67,7 @@
 	
 
 		<!--[if IE 6]>
-<script type="text/javascript" src="/include.js?files=DD_belatedPNG_0.0.7a-min.js&amp;redownloadtoken=53164"></script>
+<script type="text/javascript" src="/include.js?files=DD_belatedPNG_0.0.7a-min.js&amp;redownloadtoken=59173"></script>
 <script defer type="text/javascript">
   DD_belatedPNG.fix('.pngImages');
 </script>
@@ -84,11 +85,23 @@
 		
 			
 			
-				<link rel="stylesheet" type="text/css" href="/include.css?files=default-nc.list&amp;ignoreCommerce=&amp;redownloadtoken=53164">
+				<link rel="stylesheet" type="text/css" href="/include.css?files=default-nc.list&amp;ignoreCommerce=&amp;redownloadtoken=59173">
 			
 		
 		
-		<script type="text/javascript">	
+		
+	
+	
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+	
+
+
+
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+	<!-- TODO: update to v1.8.16 and fix issues with dialogs(centered) and test other components-->
+
+
+<script type="text/javascript">	
 	var WARNING_TITLE = "Warning";
 	function getMicrositeUrlPrefix() {
 		var url = "";
@@ -97,29 +110,22 @@
 	var MICROSITE_URL_PREFIX = "";
 	var ACTIVE_WHITE_LABEL_MERCHANT_ID = null;
 	var MICROSITE_URL_PREFIX = getMicrositeUrlPrefix();
-		
-	var jqueryJsHost = (("https:" == document.location.protocol) ? "https://" : "http://"); 
-	loadJS(jqueryJsHost + 'ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js');
-	loadJS(jqueryJsHost + 'ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js'); //TODO: update to v1.8.6 and fix issues with dialogs(centered) and test other components
+	
 	function loadJS(src){
-		var browserName = navigator.userAgent.toLowerCase();
-		if(browserName.indexOf("msie") != -1 || browserName.indexOf('chrome') > -1 || browserName.indexOf('safari') > -1 || browserName.indexOf('firefox/4.') > 1 || browserName.indexOf('firefox/5.') > -1){ 
-			document.write("<script type='text/javascript' src='"+src+"'><\/script>");
-		} else {
-			var scriptElem = document.createElement('script');
-			scriptElem.src = src;
-			document.getElementsByTagName('head')[0].appendChild(scriptElem);
-		}
+		document.write("<script type='text/javascript' src='"+src+"'><\/script>");
+	}	
+	function asyncLoadJS(src){
+	    var s = document.createElement('script');
+	    s.type = 'text/javascript';
+	    s.async = 'true';
+	    s.src = src;
+	    var x = document.getElementsByTagName('script')[0];
+	    x.parentNode.insertBefore(s, x);
 	}
-</script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
-
-		<script type="text/javascript">
-			if ('' != '') {
-				loadJS('/include.js?files=default.list;.list&amp;redownloadtoken=53164');
-			} else {
-				loadJS('/include.js?files=default.list&amp;redownloadtoken=53164');
-			}
-		</script><script type="text/javascript" src="/include.js?files=default.list&amp;redownloadtoken=53164"></script>
+</script>
+		<script type="text/javascript" src="/include.js?files=default.list&amp;redownloadtoken=59173"></script>
+		
+		
 		
 
 
@@ -188,6 +194,9 @@
 
 <div class="ui-helper-clearfix headerOutline ui-corner-top">
 	
+		
+		
+		
 	
 	
 	
@@ -207,13 +216,18 @@
 		</div>
 		<ul id="headerNav">
 			<li class="headerNavItem">
-				<a href="/aboutus/mission" class="ui-corner-top menuLink moreMenuLink">About Us</a>
-				<ul class="subMenu ui-corner-bottom">
-					<li><a href="/aboutus/team" class="subMenuLink">The Team</a></li>
-					<li><a href="/aboutus/jobs" class="subMenuLink">Careers</a></li>
-					<li><a href="/aboutus/news" class="subMenuLink">Press</a></li>
-					<li><a href="http://blog.nimblecommerce.com" class="subMenuLink subMenuLastLink">Blog</a></li>
-				</ul>
+				
+					
+						<a href="/aboutus/mission" class="ui-corner-top menuLink moreMenuLink">About Us</a>
+						<ul class="subMenu ui-corner-bottom">
+							<li><a href="/aboutus/team" class="subMenuLink">The Team</a></li>
+							<li><a href="/aboutus/jobs" class="subMenuLink">Careers</a></li>
+							<li><a href="/aboutus/news" class="subMenuLink">Press</a></li>
+							<li><a href="http://blog.nimblecommerce.com" class="subMenuLink subMenuLastLink">Blog</a></li>
+						</ul>
+					
+					
+				
 			</li>
 			
 				<li class="headerNavItemSeparator">|</li>
@@ -261,7 +275,12 @@
 				
 				<li class="headerNavItemSeparator">|</li>
 				<li class="headerNavItem">
-					<a href="/contactus" class="ui-corner-top menuLink ncHeaderContactLink">Contact Us</a>
+				
+					
+						<a href="/contactus" class="ui-corner-top menuLink ncHeaderContactLink">Contact Us</a>
+										
+					
+				
 				</li>
 				
 			
@@ -271,6 +290,7 @@
 		</ul>
 	</div>
 </div>
+
 			
 			
 		
@@ -399,6 +419,7 @@ To be removed from our contact lists, please write to NimbleCommerce at the foll
 <script type="text/javascript">
 	$(document).ready(function(){
 		$(".headerNavItem").mouseover(function(){
+			$(".headerNavItem .subMenu").stop(false, true)
 			$(this).find(".subMenu").fadeIn("slow");
 		}).mouseleave(function(){
 			$(this).find(".subMenu").hide();
@@ -457,8 +478,11 @@ To be removed from our contact lists, please write to NimbleCommerce at the foll
 		
 		
 		
+		MerchantCategoryMenu.wrapMerchantCategories($(".categoryItemWrapperV2"), $(".categoryListV2"));
 	}
 </script>
+
+
 		
 
 
@@ -539,7 +563,12 @@ To be removed from our contact lists, please write to NimbleCommerce at the foll
 	<span id="termsError">You should agree with terms of service and privacy policy</span>
 	<span id="privacyPolicyError">Agree with the terms of service and privacy policy</span>
 	<span id="zipCodeError">Enter Zip code</span>
-	<span id="phoneError">Phone number is invalid</span>
+	<span id="dateOfBirthError">Please select your date of birth</span>
+	<span id="genderError">Please select your gender</span>
+	<span id="addressError">Address cannot be empty</span>
+	<span id="cityError">City cannot be empty</span>
+	<span id="stateError">Please select a state</span>
+	<span id="phoneError">Phone number is invalid</span>	
 	<span id="emptyFieldError">Field is empty</span>
 	<span id="websiteUrlError">Plese enter valid Website URL (ex. http://www.nimblebuy.com)</span>
 	<span id="aboutCompanyError">This text should not be longer than 140 characters.</span>
@@ -557,6 +586,8 @@ To be removed from our contact lists, please write to NimbleCommerce at the foll
 	<span id="previousPage">Prev</span>
 	<span id="ghostTextRecipient">Recipient's name</span>
 	<span id="ghostTextEmail">Email address</span>
+	<span id="changeLocaleBtnCancel">Cancel</span>
+	<span id="changeLocaleBtnOk">Ok</span>
 </div>
 		<div id="dialog" style="display: none;"></div>
 	
