@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208181526id_/http%3A//www.faro.com/contentv3.aspx%3Fct%3Dus%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209150242id_/http%3A//www.faro.com/contentv3.aspx%3Fct%3DUS%26content%3Dmisc%26cat%3Dprivacy) for the most accurate reproduction.*
 
 # 3D Measurement-Portable Measurement Devices-Portable CMMs-FARO - Privacy Policy
 
@@ -88,6 +88,6 @@ Cert# L1147 Calibration|   |  [](http://www.faro.com/FaroIP/Files/File/Corpora
   | 
 
 FARO, THE MEASURE OF SUCCESS, FaroArm, CAM2, ION and FARO Laser ScanArm are   
-registered trademarks and trademarks of FARO Technologies Inc. ©2010 FARO Technologies Inc. All Rights Reserved.
+registered trademarks and trademarks of FARO Technologies Inc. ©2011 FARO Technologies Inc. All Rights Reserved.
 
 | 
