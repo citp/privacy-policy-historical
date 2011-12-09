@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611040925id_/http%3A//www.itwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itwire.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209152122id_/http%3A//www.itwire.com/privacy-policy) for the most accurate reproduction.*
 
 # iTWire - Privacy Policy
 
@@ -29,8 +29,19 @@ iTWire PTY LTD will not make an attempt to identify users or their browsing acti
 
 We will only record your e-mail address if you send us a message. Your e-mail address will only be used for the purpose for which you have provided it and it will not be added to a mailing list or used for any other purpose without your consent.
 
+### Editors Picks
+
+Stories you may have missed
+
+### Advertisment
+
 \- sponsored feature - 
 
-## Five Models for Data Stewardship
+## [The Death of Traditional BI: What’s Next?](http://link.itwire.com/253693/)
 
-[](http://www.itwire.com/privacy-policy#form)[](http://www.itwire.com/click/ccount12/click.php?id=76)Former Intel CEO Andy Grove once coined the phrase, “Technology happens.” As true as Grove’s pat aphorism has become, it’s not always good news. Twenty years ago, no one ever got fired for buying IBM. In the heyday of customer relationship management (CRM), com- panies bought first and asked questions later. Nowadays, business intelligence, data quality and master data management (MDM) initiatives have opened companies’ eyes to the fact that—absent sustained processes and data-centric expertise—the tools themselves rarely solve the problem.[](http://www.itwire.com/click/ccount12/click.php?id=76)
+How to Make Business Discovery Work for Your Business [](http://link.itwire.com/253693/)
+
+Business Discovery takes its cues from consumer apps. Like Google, it encourages us- ers to hunt for and explore data without worrying about or even noticing the underly- ing technology. Their entire experience is working within an intuitive interface to get real-time, self-service results with only minimal training.[ ...more](http://link.itwire.com/253693/)
+
+  
+
