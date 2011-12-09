@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gradschools.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204071147id_/http%3A//www.gradschools.com/article-detail/privacy-policy-1517) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradschools.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210005043id_/http%3A//www.gradschools.com/article-detail/privacy-policy-1517) for the most accurate reproduction.*
 
 # Privacy Policy Article - GradSchools.com
-
-#### Privacy Policy
 
 EducationDynamics, LLC  
 GradSchools.com  
@@ -110,3 +108,5 @@ URL: www.EducationDynamics.com
 
 _Authored by Stineman  
 Last updated August 2010_
+
+]]>
