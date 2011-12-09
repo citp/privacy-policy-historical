@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101174317id_/http%3A//www.hometownquotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometownquotes.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210002143id_/https%3A//www.hometownquotes.com/privacy.html) for the most accurate reproduction.*
 
 # Insurance Quotes » Privacy Policy
 
