@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611022424id_/http%3A//www.variety.com/static-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209114005id_/http%3A//www.variety.com/static-pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - About Variety
+# Privacy Policy - Variety.com
 
-Last updated: June 2006
+Last updated: August 2011
 
 **Overview**
 
@@ -47,7 +47,7 @@ We also may use your information to better understand our Users and to improve o
 
 We may use the information you provide us to send you e-mail, fax and other communications on behalf of RBI and our affiliates. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other RBI and Reed Elsevier services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
 
-We may use the information you provide us to send you email and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com) with the subject line (" _ **opt out - third party**_ ").
+We may use the information you provide us to send you email and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [VTCcustserv@cdsfulfillment.com](mailto:VTCcustserv@cdsfulfillment.com) with the subject line (" _ **opt out - third party**_ ").
 
 **Our Disclosure of Your Information**
 
@@ -55,7 +55,7 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 
   * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
   * To third parties engaged to provide services under contractual requirement to keep **Personally Identifiable Information** confidential and use it only to perform the services. Portions of this Site may be provided as Premium or Sponsored content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
-  * To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com) with the subject line: _**do not disclose**_.
+  * To other third parties to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [VTCcustserv@cdsfulfillment.com](mailto:VTCcustserv@cdsfulfillment.com) with the subject line: _**do not disclose**_.
   * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RBI or this Site.
   * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
   * When disclosure is necessary to accomplish the purpose for which you provide it.
@@ -69,7 +69,7 @@ We use reasonable safeguards to protect Personally Identifiable Information we c
 
 **Right to Access and Change Information**
 
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [subsmail@reedbusiness.com](mailto:subsmail@reedbusiness.com). However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [VTCcustserv@cdsfulfillment.com](mailto:VTCcustserv@cdsfulfillment.com). However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
 
 **Links**
 
@@ -81,4 +81,4 @@ Reed Business Information
 360 Park Avenue South   
 New York, NY 10010
 
-Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)
+Email: [VTCcustserv@cdsfulfillment.com](mailto:VTCcustserv@cdsfulfillment.com)
