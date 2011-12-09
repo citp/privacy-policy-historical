@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727060746id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209212727id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhotoBox - PhotoBox
 
@@ -13,7 +13,7 @@ We collect and use personal information in order to:
   * Administer or otherwise carry out our obligations in relation to any agreement that you may have with us.
   * Anticipate and resolve problems with your service.
   * Carry out market research and the tracking of sales.
-  * Create and inform you of products and services provided either by us or by carefully selected third parties that you may be interested in, where you have consented to be contacted for such purposes and allow Data Processors to do the same. 
+  * Create and inform you of products and services provided either by us or by carefully selected third parties that you may be interested in, where you have consented to be contacted for such purposes and allow Data Processors to do the same – see Emails and Newsletters below for more information about this. 
 
 
 
@@ -32,11 +32,32 @@ We will not disclose any personally identifiable information without your permis
 
 
 
-If you do not wish to receive mailings from us and/or from our partners, please access the "My Details" area from your home page on the website and ensure that the box for promotional mailings is turned off. 
-
 ## Non-Personal Details
 
 We may automatically collect non-personal information about you, such as the type of browsers you use or the website from which you linked to us. This information is only used to assist us in providing an effective service on the website. We may, from time to time, supply the owners and operators of third party websites which have a link to our site with information about the number of users linking to the website from their website. You cannot be identified from any of this information. 
+
+## Newsletters and Service Emails
+
+We give you the option to decide what emails you receive from us.
+
+The emails we send fall into two categories:
+
+  * Our emails (we call them newsletters) which provide you with information about offers, new products and other things that we think may interest you or PhotoBox customers generally. You can notify us of your preferences concerning our newsletters here: [www.photobox.co.uk/my/account/newsletters](http://www.photobox.co.uk/my/account/newsletters).
+  * The emails that we send concerning activity on your Photobox account (service emails), specifically: 
+    * To remind you of free PhotoBox credits that may be in your account
+    * To remind you of unordered items in your online basket
+    * To explain how PhotoBox credits that you have purchased work
+    * To remind you to use PhotoBox credits before they expire
+    * Surveys to capture your feedback on orders you have placed with PhotoBox
+
+Should you wish to, you can opt out of receiving our service emails here: <http://photobox-en.custhelp.com/app/ask>.
+
+
+
+
+While we do our best to act on your preferences as soon as we can, please be aware that it may take up to 14 days for changes to your preferences concerning newsletters or service emails to take effect.
+
+Please note that transactional emails that we send you – that is, emails that we need to send you relating directly to your orders and purchases from PhotoBox – are unaffected by your preferences for newsletters and service emails.
 
 ## Competitions
 
@@ -44,9 +65,11 @@ From time to time, we may hold competitions via the website. When you enter a co
 
 ## Cookies
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report information to our branded partners. 
+When you visit PhotoBox we send cookies to your computer, or similar device, which are essential for shopping with us and useful for storing your user preferences. They also help prevent fraud by providing a way of recognising you so that only you can access your photos and personal data.
 
-We may store some information on your computer when you visit the website. This information facilitates your use of the website, and ensures that you do not need to re-enter your details on each visit. The information may be stored in a cookie which is required for the shopping basket and other e-commerce facilities to function. You can set your browser to notify you when you receive a cookie, which allows you to choose whether or not to accept it, however switching off cookies may result in the website having dramatically reduced functionality including, but not limited to, being able to shop on the site. To find out how to enable/disable cookies, please [click here](http://www.allaboutcookies.org/manage-cookies/). We do not have any control over cookies which our advertisers or branded partners may use on the website. 
+We use cookies for marketing purposes too, such as tracking user trends, click through and sales figures (which we may share with branded partners), media performance and search optimisation.
+
+As cookies are so useful we don't recommend you disable them but if you really want to you can set your browser to notify you when you receive a cookie, which allows you to choose whether or not to accept it. If you do decide to disable your cookies you can [click here](http://www.allaboutcookies.org/manage-cookies/) to find out how. 
 
 ## Accuracy
 
