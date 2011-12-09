@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325101343id_/http%3A//www.infolinks.com/infolinks-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolinks.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209132238id_/http%3A//www.infolinks.com/infolinks-privacy-policy) for the most accurate reproduction.*
 
 # Infolinks Privacy Policy | INFOLINKS
 
@@ -47,11 +47,13 @@ Contact Information for Questions, Comments and Complaints: If you have any ques
 
 Via mail:
 
-Infolinks, Inc.
+Infolinks, Inc
 
-2058 Sandalwood ct
+505 Hamilton Ave.
 
-Palo Alto, CA 94303 
+Suite 210
+
+Palo Alto, CA 94301
 
 US
 
