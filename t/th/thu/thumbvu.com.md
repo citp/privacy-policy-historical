@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thumbvu.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429032328id_/http%3A//www.thumbvu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbvu.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209130655id_/http%3A//www.thumbvu.com/privacy) for the most accurate reproduction.*
 
-# thumbvu - Privacy
+# ThumbVu - Privacy
 
 ## Privacy Policy
 
@@ -47,14 +47,14 @@ Comments and other content submitted to our Akismet anti-spam service are not sa
 
 ### Email
 
-Thumbvu.com maintains a ZERO tolerance policy towards the sending of spam email. Spam email is defined as Unsolicited Commercial Email (UCE). In the event that you send spam email to users without their permission, you risk immediate cancellation of your account and forfeiture of all contacts in that account. As a Thumbvu.com member, you understand that Thumbvu.com neither condones nor tolerates the sending of unsolicited or spam email by its members. You understand and acknowledge that: 
+Thumbvu.com maintains a ZERO tolerance policy towards the sending of spam email. Spam email is defined as Unsolicited Commercial Email (UCE). In the event that you send spam email to users without their permission, you risk immediate cancellation of your account and forfeiture of all contacts in that account. As a ThumbVu.com member, you understand that ThumbVu.com neither condones nor tolerates the sending of unsolicited or spam email by its members. You understand and acknowledge that: 
 
 * You are solely responsible for mail received and/or sent on your behalf.  
-* Thumbvu.com will immediately terminate your service and charge you a $500 clean-up fee for violating this Spam Policy.  
-* Thumbvu.com reserves the right to take legal action against any member found violating this Spam Policy.  
-* You will not be eligible for a refund when you have violated the Thumbvu.com Spam Policy.
+* ThumbVu.com will immediately terminate your service and charge you a $500 clean-up fee for violating this Spam Policy.  
+* ThumbVu.com reserves the right to take legal action against any member found violating this Spam Policy.  
+* You will not be eligible for a refund when you have violated the ThumbVu.com Spam Policy.
 
-In the event that you have received spam from a Thumbvu.com account, please notify Thumbvu.com by sending a notice to thumbvu[at]gmail.com 
+In the event that you have received spam from a ThumbVu.com account, please notify ThumbVu.com by sending a notice to thumbvu[at]gmail.com 
 
 ### Privacy Policy Changes
 
