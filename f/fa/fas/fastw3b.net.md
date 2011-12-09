@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastw3b.net privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202155126id_/http%3A//www.fastw3b.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastw3b.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209131509id_/http%3A//fastw3b.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ From time to time, Fastw3b may use customer information for new, innovative and 
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us 
 
-[here](http://fastw3b.net/component/forme/?fid=6&tmpl=component). Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
+[here](http://www.fastw3b.net/component/forme/?fid=6&tmpl=component). Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
 
 Aggregate Information--Fastw3b collects non-identifying, general, generic and aggregate information to better design our Web site and services, and shares the aggregate data with advertisers and other third parties. With respect to security: Fastw3b uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
 
@@ -27,4 +27,4 @@ Aggregate Information--Fastw3b collects non-identifying, general, generic and ag
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [Contact Us](http://fastw3b.net/component/forme/?fid=6&tmpl=component).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [Contact Us](http://www.fastw3b.net/component/forme/?fid=6&tmpl=component).
