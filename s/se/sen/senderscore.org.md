@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senderscore.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224050603id_/http%3A//www.returnpath.net/privacy/privacy_senderscore.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senderscore.org privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209183124id_/http%3A//www.returnpath.net/privacy/privacy_senderscore.php) for the most accurate reproduction.*
 
 # Return Path
 
@@ -32,7 +32,7 @@ Tom Bartel, CPO
 
 ## The Organization Collecting Information at this Website:
 
-[Return Path](http://www.returnpath.com/ "Go to the Return Path Website") ("Company" or "we"), operates the website located at [www.senderscore.org](https://web.archive.org/web/20101224050603id_/http%3A//www.returnpath.net/privacy/www.senderscore.org) (the "Site"). Through the Site, Company operates the Sender Score Reputation Data Lookup Service (the "Service"), by which it allows users who register with us to view reputation data from the Return Path Sender Score Reputation system. 
+[Return Path](http://www.returnpath.com/ "Go to the Return Path Website") ("Company" or "we"), operates the website located at [www.senderscore.org](https://web.archive.org/web/20111209183124id_/http%3A//www.returnpath.net/privacy/www.senderscore.org) (the "Site"). Through the Site, Company operates the Sender Score Reputation Data Lookup Service (the "Service"), by which it allows users who register with us to view reputation data from the Return Path Sender Score Reputation system. 
 
 ## The Information We Collect and Use:
 
