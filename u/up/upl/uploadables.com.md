@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadables.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628181258id_/http%3A//uploadables.com/index.php%3Fmodule%3Dpages%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadables.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209113621id_/http%3A//uploadables.com/index.php%3Fmodule%3Dpages%26action%3Dprivacy) for the most accurate reproduction.*
 
 # Uploadables : It's Simple. Upload Files. Make Money.
 
