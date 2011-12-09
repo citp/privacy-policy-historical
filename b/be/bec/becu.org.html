@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the becu.org privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228013305id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the becu.org privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209184027id_/https%3A//www.becu.org/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,13 +9,18 @@
     <link rel="stylesheet" type="text/css" href="/css/main.css" media="all">
     <script type="text/javascript" src="/js/zbox.js">
     </script>
+    <script type="text/javascript" src="/js/jquery.js">
+    </script>
+    <script type="text/javascript" src="/js/wt_capi.js">
+    </script>
     <script src="/js/common.js" type="text/javascript">
     </script>
-  </head>
-  <body onload="RunOnLoadScripts();">
+  <script type="text/javascript" src="https://ots.optimize.webtrends.com/ots/lib/3.1/wt_lib.js" defer="defer"></script></head>
+  <body onload="RunOnLoadScripts();" style="position: absolute; left: -1000%;">
+    <script type="text/javascript">WTOptimize.setup({s_pageDisplayMode: "shift"});</script>
     <div class="header">
       <div class="nav01" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-        <ul>
+        <ul id="wt_globalnav">
           <li class="navl">
             <a href="/join.aspx">
               <span>Join BECU</span>
@@ -42,7 +47,7 @@
             </a>
           </li>
           <li class="navr">
-            <a href="javascript:launchAskBECU('u');">
+            <a href="javascript:launchAskBECU('u');" onclick="var s=s_gi('becudev');s.pageName='Ask BECU : Security &amp; Privacy : Navigation : Have a question? Ask BECU';s.hier1='';s.channel='';s.prop1='';s.eVar14='Ask BECU : Security &amp; Privacy : Navigation : Have a question? Ask BECU';s.events='event42';s.t();return true;">
               <span>Ask BECU</span>
             </a>
           </li>
@@ -54,57 +59,330 @@
             <img src="/images/logo_main.gif" border="0" height="45" width="182" alt="Home">
           </a>
         </h1>
-        <ul>
-          <li>
-            <a href="/personal/loans.aspx">
-              <span>
-                <img border="0" src="/images/nav_personal_off.gif" onmouseover="this.src = '/images/nav_personal_on.gif';" onmouseout="this.src = '/images/nav_personal_off.gif';" alt="Personal" title="Personal">
-              </span>
-            </a>
-          </li>
-          <li>
-            <a href="/small-business/what-we-do.aspx">
-              <span>
-                <img border="0" src="/images/nav_smbus_off.gif" onmouseover="this.src = '/images/nav_smbus_on.gif';" onmouseout="this.src = '/images/nav_smbus_off.gif';" alt="Small Business" title="Small Business">
-              </span>
-            </a>
-          </li>
-          <li>
-            <a href="/wealth-management/investment-services.aspx">
-              <span>
-                <img border="0" src="/images/nav_wealth_off.gif" onmouseover="this.src = '/images/nav_wealth_on.gif';" onmouseout="this.src = '/images/nav_wealth_off.gif';" alt="Wealth Management" title="Wealth Management">
-              </span>
-            </a>
-          </li>
-          <li>
-            <a href="/learn-and-plan/web-resources.aspx?topic=-1&amp;articles=0&amp;webcasts=0&amp;calcs=1&amp;sort=newest">
-              <span>
-                <img border="0" src="/images/nav_learn_off.gif" onmouseover="this.src = '/images/nav_learn_on.gif';" onmouseout="this.src = '/images/nav_learn_off.gif';" alt="Education &amp; Resources" title="Education &amp; Resources">
-              </span>
-            </a>
-          </li>
-          <li>
-            <a href="/who-is/becu-is-you.aspx">
-              <span>
-                <img border="0" src="/images/nav_whois_off.gif" onmouseover="this.src = '/images/nav_whois_on.gif';" onmouseout="this.src = '/images/nav_whois_off.gif';" alt="Who is BECU?" title="Who is BECU?">
-              </span>
-            </a>
-          </li>
-          <li class="sch">
-            <form action="/search-results.aspx" method="get" name="gs" id="gs">
-              <div class="schbox">
-                <input type="text" name="q" class="schinput" id="q">
-                <input type="hidden" name="ie" value="" id="Hidden1">
-                <input type="hidden" name="site" value="my_collection" id="Hidden2">
-                <input type="hidden" name="output" value="xml_no_dtd" id="Hidden3">
-                <input type="hidden" name="client" value="my_collection" id="Hidden4">
-                <input type="hidden" name="lr" value="" id="Hidden5">
-                <input type="hidden" name="proxystylesheet" value="my_collection" id="Hidden6">
-                <input type="hidden" name="oe" value="" id="Hidden7">
+        <div class="megaNav">
+          <ul>
+            <li class="megaNavItem" id="megaNavItem1">
+              <script type="text/javascript">
+            jQuery(document).ready(function(){
+              jQuery('#megaNavItem1').hover(function() {
+		            jQuery(this).addClass('hovering');   
+                
+                var navImage = document.getElementById('navImage1');
+               navImage.src= '/images/nav_personal_hover.gif';
+               
+              
+			            }, function() {
+		             jQuery(this).removeClass('hovering'); 
+                 
+                         var navImage = document.getElementById('navImage1');
+                           navImage.src= '/images/nav_personal_off.gif';
+                    
+	            });
+
+            });
+          </script>
+              <a href="/personal/loans.aspx">
+                <span>
+                  <img border="0" id="navImage1" src="/images/nav_personal_off.gif" alt="Personal" title="Personal">
+                </span>
+              </a>
+              <div class="promoContainer promoItemContainer-single navitem1" id="promoItem1">
+                <div class="promoItemContent-single">
+                  <div class="wrapSubNav">
+                    <ul>
+                      <li>
+                        <a href="/personal/loans.aspx">
+                          <span>Loans</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/personal/checking-savings.aspx">
+                          <span>Checking and Savings</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/personal/cds-iras.aspx">
+                          <span>CDs and IRAs</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/personal/credit-card.aspx">
+                          <span>Credit Card</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="rightPromoItem position1">
+                    <div class="heading">
+                      <img border="0" title="Get a Low-Rate Visa" src="/images/txt_get_a_low_rate_visa.png" alt="Get a Low-Rate Visa" width="189px" height="11px">
+                    </div>
+                    <div class="wrapImage">
+                      <img src="/images/2399_visa.png" alt="Get a Low-Rate Visa">
+                    </div>
+                    <div class="copy">With low rates and no annual fee, the locally-issued BECU Visa is one of the best credit cards in the country.<span class="wrapTextLink"><br><a href="http://www.becu.org/personal/credit-card.aspx?panel=visa" class="textLink">Learn More ‣</a></span></div>
+                  </div>
+                </div>
               </div>
-            </form>
-          </li>
-        </ul>
+            </li>
+            <li class="megaNavItem" id="megaNavItem2">
+              <script type="text/javascript">
+            jQuery(document).ready(function(){
+              jQuery('#megaNavItem2').hover(function() {
+		            jQuery(this).addClass('hovering');   
+                
+                var navImage = document.getElementById('navImage2');
+               navImage.src= '/images/nav_smbus_hover.gif';
+               
+              
+			            }, function() {
+		             jQuery(this).removeClass('hovering'); 
+                 
+                         var navImage = document.getElementById('navImage2');
+                           navImage.src= '/images/nav_smbus_off.gif';
+                    
+	            });
+
+            });
+          </script>
+              <a href="/small-business/what-we-do.aspx">
+                <span>
+                  <img border="0" id="navImage2" src="/images/nav_smbus_off.gif" alt="Small Business" title="Small Business">
+                </span>
+              </a>
+              <div class="promoContainer promoItemContainer-single navitem2" id="promoItem2">
+                <div class="promoItemContent-single">
+                  <div class="wrapSubNav">
+                    <ul>
+                      <li>
+                        <a href="/small-business/what-we-do.aspx">
+                          <span>BECU for Small Business</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/small-business/checking-savings.aspx">
+                          <span>Accounts and Loans</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/small-business/services.aspx">
+                          <span>Small Business Services</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/small-business/resources.aspx">
+                          <span>Small Business Resources</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="rightPromoItem position1">
+                    <div class="heading">
+                      <img border="0" title="Need a Business Loan?" src="/images/txt_need_a_business_loan.png" alt="Need a Business Loan?" width="189px" height="11px">
+                    </div>
+                    <div class="wrapImage">
+                      <img src="/images/2399_smlbiz.png" alt="Need a Business Loan?">
+                    </div>
+                    <div class="copy">Whether your business is just getting started or expanding, we have lending options for you to explore.<span class="wrapTextLink"><br><a href="http://www.becu.org/small-business/loans.aspx" class="textLink">Learn More ‣</a></span></div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="megaNavItem" id="megaNavItem3">
+              <script type="text/javascript">
+            jQuery(document).ready(function(){
+              jQuery('#megaNavItem3').hover(function() {
+		            jQuery(this).addClass('hovering');   
+                
+                var navImage = document.getElementById('navImage3');
+               navImage.src= '/images/nav_wealth_hover.gif';
+               
+              
+			            }, function() {
+		             jQuery(this).removeClass('hovering'); 
+                 
+                         var navImage = document.getElementById('navImage3');
+                           navImage.src= '/images/nav_wealth_off.gif';
+                    
+	            });
+
+            });
+          </script>
+              <a href="/wealth-management/investment-services.aspx">
+                <span>
+                  <img border="0" id="navImage3" src="/images/nav_wealth_off.gif" alt="Wealth Management" title="Wealth Management">
+                </span>
+              </a>
+              <div class="promoContainer promoItemContainer-single navitem3" id="promoItem3">
+                <div class="promoItemContent-single">
+                  <div class="wrapSubNav">
+                    <ul>
+                      <li>
+                        <a href="/wealth-management/investment-services.aspx">
+                          <span>BECU Investment Services</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/wealth-management/trust-services.aspx">
+                          <span>BECU Trust Company</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="rightPromoItem position1">
+                    <div class="heading">
+                      <img border="0" title="Reach Your Money Goals" src="/images/txt_reach_money_goals.png" alt="Reach Your Money Goals" width="198px" height="14px">
+                    </div>
+                    <div class="copy-noimage">Get unbiased, personalized guidance that could help you meet your financial goals now and in the future.<br><div class="wrapCTAButton"><div class="leftcap"></div><div class="centertile"><a href="http://www.becu.org/wealth-management/investment-services.aspx" class="textLink">Learn More</a></div><div class="rightcap"></div></div></div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="megaNavItem" id="megaNavItem4">
+              <script type="text/javascript">
+            jQuery(document).ready(function(){
+              jQuery('#megaNavItem4').hover(function() {
+		            jQuery(this).addClass('hovering');   
+                
+                var navImage = document.getElementById('navImage4');
+               navImage.src= '/images/nav_education_hover.gif';
+               
+              
+			            }, function() {
+		             jQuery(this).removeClass('hovering'); 
+                 
+                         var navImage = document.getElementById('navImage4');
+                           navImage.src= '/images/nav_education_off.gif';
+                    
+	            });
+
+            });
+          </script>
+              <a href="/learn-and-plan/web-resources.aspx?topic=-1&amp;articles=0&amp;webcasts=0&amp;calcs=1&amp;sort=newest">
+                <span>
+                  <img border="0" id="navImage4" src="/images/nav_education_off.gif" alt="Education &amp; Resources" title="Education &amp; Resources">
+                </span>
+              </a>
+              <div class="promoContainer promoItemContainer-single navitem4" id="promoItem4">
+                <div class="promoItemContent-single">
+                  <div class="wrapSubNav">
+                    <ul>
+                      <li>
+                        <a href="/learn-and-plan/web-resources.aspx?topic=-1&amp;articles=0&amp;webcasts=0&amp;calcs=1&amp;sort=newest">
+                          <span>Calculators &amp; Tools</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/learn-and-plan/seminars.aspx?topic=-1">
+                          <span>Seminars</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/learn-and-plan/articles.aspx?topic=-1&amp;articles=1&amp;webcasts=0&amp;calcs=0&amp;sort=newest">
+                          <span>Articles</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/learn-and-plan/scholarships-grants.aspx">
+                          <span>Scholarships &amp; School Grants</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/learn-and-plan/webcasts.aspx?topic=-1&amp;articles=0&amp;webcasts=1&amp;calcs=0&amp;sort=newest">
+                          <span>Webcasts</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="rightPromoItem position1">
+                    <div class="heading">
+                      <img border="0" title="Get Free Money Advice" src="/images/txt_free_money_advice.png" alt="Get Free Money Advice" width="189px" height="14px">
+                    </div>
+                    <div class="copy-noimage">Our financial educators offer free seminars on a variety of topics that educate and promote financial wellness.<br><div class="wrapCTAButton"><div class="leftcap"></div><div class="centertile"><a href="http://www.becu.org/learn-and-plan/seminars.aspx?topic=-1">See Details</a></div><div class="rightcap"></div></div></div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="megaNavItem" id="megaNavItem5">
+              <script type="text/javascript">
+            jQuery(document).ready(function(){
+              jQuery('#megaNavItem5').hover(function() {
+		            jQuery(this).addClass('hovering');   
+                
+                var navImage = document.getElementById('navImage5');
+               navImage.src= '/images/nav_whois_hover.gif';
+               
+              
+			            }, function() {
+		             jQuery(this).removeClass('hovering'); 
+                 
+                         var navImage = document.getElementById('navImage5');
+                           navImage.src= '/images/nav_whois_off.gif';
+                    
+	            });
+
+            });
+          </script>
+              <a href="/who-is/becu-is-you.aspx">
+                <span>
+                  <img border="0" id="navImage5" src="/images/nav_whois_off.gif" alt="Who is BECU?" title="Who is BECU?">
+                </span>
+              </a>
+              <div class="promoContainer promoItemContainer-single navitem5" id="promoItem5">
+                <div class="promoItemContent-single">
+                  <div class="wrapSubNav">
+                    <ul>
+                      <li>
+                        <a href="/who-is/becu-is-you.aspx">
+                          <span>BECU Is You</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/who-is/community-involvement.aspx">
+                          <span>BECU in Our Communities</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/who-is/environment.aspx">
+                          <span>BECU and the Environment</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/who-is/history.aspx">
+                          <span>History and Mission</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="/who-is/governance.aspx">
+                          <span>Corporate</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="rightPromoItem position1">
+                    <div class="heading">
+                      <img border="0" title="People Helping People" src="/images/txt_people_helping_people.png" alt="People Helping People" width="189px" height="14px">
+                    </div>
+                    <div class="copy-noimage">It is the credit union way to improve the social, economic and environmental vitality of our communities.<br><div class="wrapCTAButton"><div class="leftcap"></div><div class="centertile"><a href="http://www.becu.org/pdfsource/OutreachReport.pdf">Read Report</a></div><div class="rightcap"></div></div></div>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="sch">
+              <form action="/search-results.aspx" method="get" name="gs" id="gs">
+                <div class="schbox">
+                  <input type="text" name="q" class="schinput" id="q">
+                  <input type="hidden" name="ie" value="" id="Hidden1">
+                  <input type="hidden" name="site" value="my_collection" id="Hidden2">
+                  <input type="hidden" name="output" value="xml_no_dtd" id="Hidden3">
+                  <input type="hidden" name="client" value="my_collection" id="Hidden4">
+                  <input type="hidden" name="lr" value="" id="Hidden5">
+                  <input type="hidden" name="proxystylesheet" value="my_collection" id="Hidden6">
+                  <input type="hidden" name="oe" value="" id="Hidden7">
+                </div>
+              </form>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
     <div id="container" class="content04">
@@ -113,94 +391,55 @@
           <div class="member14">
             <div class="hero01">
               <p xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-			BECU is serious about safeguarding your accounts personal information online. Our Privacy Policy is focused on member security and confidentiality, and we use industry-standard encryption for all transactions.
-		</p>
+        BECU is serious about safeguarding your accounts personal information online. Our Privacy Policy is focused on member security and confidentiality, and we use industry-standard encryption for all transactions.
+        </p>
             </div>
-            <div class=" tabs02 defaulttab">
+            <div class="tabs02 fulltab">
               <div class="askBECU" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-                <a href="javascript:launchAskBECU('b');">
+                <a href="javascript:launchAskBECU('b');" onclick="var s=s_gi('becudev');s.pageName='Ask BECU : Security &amp; Privacy : content_pane : Have a question? Ask BECU';s.hier1='';s.channel='';s.prop1='';s.eVar14='Ask BECU : Security &amp; Privacy : content_pane : Have a question? Ask BECU';s.events='event42';s.t();return true;">
                   <img src="/images/icon_askbecuquestion.gif" alt="Ask BECU" style="border: medium none; padding-right:5px; vertical-align:middle">Have a question? Ask BECU</a>
               </div>
               <ul xmlns:msxsl="urn:schemas-microsoft-com:xslt">
               </ul>
             </div>
-            <div class="contentwidth">
-              <div class="content06">
+            <div class="fullwidth">
+              <div class="
+					content06
+				">
                 <div class="block01" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-                  <h1>Security and Privacy</h1>
+                  <h1>Personal Information and Security</h1>
+                  <p>BECU is serious about safeguarding your personal information, whether it is obtained online, in person, or on paper. Specifically, for all online transactions, we use industry-standard encryption transactions.</p>
                 </div>
                 <div class="search01" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
                   <h3>Protecting Your Accounts</h3>
                   <p>
-        BECU never initiates requests for sensitive information by email (such as Social Security numbers, Telephone Banking PINs, passwords, or account numbers). 
-        If you receive an email requesting this type of information, please contact BECU immediately. 
-        <a href="mailto:phishing@becu.org">Report email fraud</a>.      
-      </p>
-                  <h3>Online Privacy Statement</h3>
+            BECU never initiates requests for sensitive information by email (such as Social Security numbers, Telephone Banking PINs, passwords, or account numbers). If you receive an email requesting this type of information, please contact BECU immediately.
+                <a href="mailto:phishing@becu.org">Report email fraud</a>.      
+            </p>
+                  <h3>Personal Information – Collection and Use</h3>
+                  <p>BECU and its affiliates, BECU Trust Company and BECU Financial Services, Inc., ("We") believe that you are our most important asset. We work very hard to earn and maintain your trust.  Consequently, we protect your personal information by taking steps to keep it secure and confidential. We have not and will not sell your account information.</p>
+                  <p>We have policies and procedures in place to protect the safety of your personal and financial information.</p>
                   <p>
-                BECU and our affiliates, BECU Trust Company and BECU Financial Services, Inc., ("We") believe that you are our most important asset. We work very hard to earn and maintain your trust. To do that, we believe that it is absolutely vital that we protect your privacy by keeping the information we have about you secure and confidential. BECU has not and will not sell your account information.
+                    <a href="/pdfsource/GeneralPrivacyStatement.pdf">Learn more about what we do with your personal information</a>.
             </p>
                   <p>
-        We have policies and procedures in place to protect the safety of our personal and
-        financial information. We restrict access to information about you only to employees,
-        affiliated and non-affiliated service providers, to the extent permitted by law
-        and to the extent necessary for the business purpose. This enables us to provide
-        and offer products and services to you, service your accounts, and administer our
-        business. We also have in place other physical, electronic and procedural safeguards
-        that meet or exceed all federal regulations to protect your personal and account
-        information, which are applied equally to current and former members and customers.</p>
-                  <p>
-       This Online Privacy Statement is part of, and is incorporated into BECU Account Agreement and our BECU Online Terms and Conditions.
-       To see our General Privacy Statement, <a href="/pdfsource/GeneralPrivacyStatement.pdf" target="_blank">click here</a>.
-   </p>
-                  <p>
-        Our site makes use of a feature of your web browser called "cookies". A cookie does
-        not personally identify you. A cookie is used to customize your Site experience.
-        Additionally, we collect aggregate information about the use of our Site that does
-        not personally identify you.
-    </p>
-                  <p>
-        You communicate with our computer by using your computer's web browser. Your web
-        browser may need to be updated periodically for continued use of our Site.
-    </p>
-                  <p>
-        Some areas of our Web site are secured in order to obtain personal information for
-        member transactions. We only support browsers that use Secure Sockets Layer ("SSL")
-        3.0 (or higher). SSL is intended to help ensure that:</p>
+                    <a href="/pdfsource/6983.pdf">Learn more about what BECU Trust Company does with your personal information</a>.
+            </p>
+                  <h3>Security</h3>
+                  <p>Our site makes use of a feature of your web browser called "cookies". A cookie does not personally identify you. A cookie is used to customize your Site experience. Additionally, we collect aggregate information about the use of our Site that does not personally identify you.</p>
+                  <p>You communicate with our computer by using your computer's web browser. Your web browser may need to be updated periodically for continued use of our Site.</p>
+                  <p>Some areas of our Web site are secured in order to obtain personal information for member transactions. We only support browsers that use Secure Sockets Layer ("SSL") 3.0 (or higher). SSL is intended to help ensure that:</p>
                   <ul>
-                    <li>The information you send us will not be read by others, and </li>
-                    <li>You are in fact dealing with BECU, instead of a site impersonating us. Your information reaches us through SSL to help protect the contents of the message from eavesdropping</li>
+                    <li>You are in fact dealing with BECU, instead of a site impersonating us. Your information reaches us through SSL to help protect the contents of the message from eavesdropping, and</li>
+                    <li>The information you send us will not be read by others.</li>
                   </ul>
-                  <h2>Collection of Information</h2>
-                  <p>We may collect information about you from the following sources:</p>
-                  <ul>
-                    <li>Applications, forms and from your transactional history with us or others.</li>
-                    <li>Your use of our Web site. </li>
-                    <li>Credit reporting agencies.</li>
-                    <li>Third parties, such as companies that provide demographic information and other business transactions.</li>
-                  </ul>
-                  <h2>Use of Information</h2>
-                  <p>
-				In order to offer you useful products and services and to make our operations more cost effective (so that you benefit with higher deposit dividend rates and lower loan rates), we may at times, share some non-public information we have about you, as described above, with non-affiliated third parties such as:
-			</p>
-                  <ul>
-                    <li>Financial service providers with whom we have joint marketing agreements, such as those that provide insurance services, investment securities, and mortgage and credit card servicing. </li>
-                    <li>Non-financial companies, such as credit reporting agencies, to comply with the Fair Credit Reporting Act and other companies who conduct or perform services on our behalf. </li>
-                    <li>Other companies or entities as necessary to comply with other legal requirements or as permitted by law.</li>
-                  </ul>
-                  <h2>Honoring Your Preferences</h2>
-                  <p>
-			 BECU may send (or arrange for others to send) emails regarding surveys, focus-groups, promotions, and products and services offered by BECU or third parties. You are not required to complete online surveys or take advantage of promotions. If you do not want to receive those communications in the future, please contact us. If you enrolled in Online Banking, you agreed to our Electronic Communications Disclosure and therefore we may periodically send other disclosures and important information to you electronically. Such enrollment process did not include an opportunity to opt-out of receiving electronic communications from us; however, you may opt-out of receiving subsequent electronic communications at the time of receipt by selecting “unsubscribe”.  
-			</p>
-                  <h2>Children's Online Privacy</h2>
-                  <p>
-				From our website, we do not knowingly collect or use personal information from children under 13.
-			</p>
-                  <h2>Changes</h2>
-                  <p>
-				We reserve the right to change this Statement, and you agree it is your responsibility to check this Statement periodically for any changes. Nothing in this Online Privacy Statement affects our ability to collect, combine, use, verify, retain, and report, including sharing with our regulators, information submitted in connection with the provision of products and services. We also reserve the right to do the same with information obtained from public sources or third parties, and other information that does not personally identify you, without reference to this Online Privacy Statement.
-			</p>
-                  <p>Copyright © 2010 BECU. All Rights Reserved.</p>
+                  <h3>Honoring Your Preferences</h3>
+                  <p>BECU and BECUFS may send (or arrange for others to send) emails regarding surveys, focus-groups, promotions, and products and services offered by BECU or third parties. You are not required to complete online surveys or take advantage of promotions. If you do not want to receive those communications in the future, please contact us. If you enrolled in Online Banking, you agreed to our Electronic Communications Disclosure and therefore we may periodically send other disclosures and important information to you electronically. Such enrollment process did not include an opportunity to opt-out of receiving electronic communications from us; however, you may opt-out of receiving subsequent electronic communications at the time of receipt by selecting "unsubscribe".</p>
+                  <h3>Children's Online Privacy</h3>
+                  <p>From our website, we do not knowingly collect or use personal information from children under 13.</p>
+                  <h3>Changes</h3>
+                  <p>We reserve the right to change this Statement, and you agree it is your responsibility to check this Statement periodically for any changes.</p>
+                  <p>Copyright © 2011 BECU. All Rights Reserved.</p>
                 </div>
               </div>
               <div class="content07">
@@ -226,7 +465,7 @@
         <h2>Educational Resources</h2>
         <p>Find information here on scholarships and grants, along with financial articles, free seminars, webcasts, calculators and more.</p>
         <p>
-          <a href="/learn-and-plan/web-resources.aspx?topic=-1">Explore Education &amp; Resources</a>
+          <a href="/learn-and-plan/web-resources.aspx?topic=-1&amp;articles=0&amp;webcasts=0&amp;calcs=1&amp;sort=newest">Explore Education &amp; Resources</a>
         </p>
       </div>
       <div class="promo01" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
@@ -247,11 +486,19 @@
           <a href="/join.aspx">Join Today</a>
         </p>
       </div>
+      <div id="tooltipWrapper" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+        <div id="tooltipDiv">
+                [tool tip]
+            </div>
+        <div id="tooltipArrow">
+          <img src="/images/arrow.png" border="0" height="4" width="7" align="top">
+        </div>
+      </div>
       <div class="footer" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
         <div class="plates">
-          <img src="/images/logo_equallender.gif" border="0" height="26" width="23" alt="Equal Housing Lender.  We do business in accordance with the Federal Fair Housing Law and the Equal Credit Opportunity Act." title="Equal Housing Lender.  We do business in accordance with the Federal Fair Housing Law and the Equal Credit Opportunity Act.">
+          <img src="/images/logo_equallender.gif" border="0" height="26" onmouseover="javascript:showTooltip('Equal Housing Lender. We do business in accordance with the Federal Fair Housing Law and the Equal Credit Opportunity Act.', this, 150);" onmouseout="javascript:hideTooltip();" width="23" alt="Equal Housing Lender.  We do business in accordance with the Federal Fair Housing Law and the Equal Credit Opportunity Act." title="Equal Housing Lender.  We do business in accordance with the Federal Fair Housing Law and the Equal Credit Opportunity Act.">
           <a href="http://www.ncua.gov/" target="_new">
-            <img src="/images/logo_ncua.gif" border="0" height="25" width="61" alt="Your savings federally insured to at least $250,000 and backed by the full faith and credit of the United States government." title="Your savings federally insured to at least $250,000 and backed by the full faith and credit of the United States government.">
+            <img src="/images/logo_ncua.gif" border="0" height="25" width="61" onmouseover="javascript:showTooltip('Your savings federally insured to at least $250,000 and backed by the full faith and credit of the United States government.', this, 150);" onmouseout="javascript:hideTooltip();" alt="Your savings federally insured to at least $250,000 and backed by the full faith and credit of the United States government." title="Your savings federally insured to at least $250,000 and backed by the full faith and credit of the United States government.">
           </a>
         </div>
         <div class="links01">
@@ -263,9 +510,10 @@
 						<a href="/careers/culture.aspx"><span>Careers</span></a> |
 						<a href="/pdfsource/avoidingForeclosure.pdf"><span>Avoiding Foreclosure</span></a> |
 						<a href="/privacy-policy.aspx"><span>Security &amp; Privacy</span></a> |
-						<a href="/terms-and-conditions.aspx">Terms
-						&amp; Conditions</a></p>
-          <p> Copyright © 2010 BECU. All Rights Reserved. Federally
+						<a href="/pdfsource/BECUTermsandConditions.pdf">Terms
+						&amp; Conditions</a>
+					| <a href="https://umnas3.umonitor.com/becu/applogin.do?hbx=AFC_HomePage_uMonitor_SaveApp" target="_blank">Return to saved application</a></p>
+          <p> Copyright © 2011 BECU. All Rights Reserved. Federally
 					Insured by NCUA. <a href="/join.aspx">
 						All Washington
 						state residents are eligible to join</a>.
@@ -332,5 +580,18 @@
         <img src="http://becu.122.2o7.net/b/ss/becudev/1/H.17--NS/0" height="1" width="1" border="0" alt="">
       </a>
     </noscript>
+    <script type="text/javascript">
+    </script>
+    <script type="text/javascript">
+      function ReadCookie(cookieName) {
+      var theCookie=""+document.cookie;
+      var ind=theCookie.indexOf(cookieName);
+      if (ind==-1 || cookieName=="") return "";
+      var ind1=theCookie.indexOf(';',ind);
+      if (ind1==-1) ind1=theCookie.length; return unescape(theCookie.substring(
+      ind+cookieName.length+1,ind1));}
+      var expIdRAW = ReadCookie("wm.e 297197-ta_HomePA");
+      var expId = expIdRAW.split('-')[1];
+    </script>
   
 </body></html>
