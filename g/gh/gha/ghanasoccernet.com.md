@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghanasoccernet.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627045604id_/http%3A//www.ghanasoccernet.com%3Fpage_id%3D4839) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanasoccernet.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209133524id_/http%3A//www.ghanasoccernet.com%3Fpage_id%3D4839) for the most accurate reproduction.*
 
-# Privacy Policy | GhanaSoccernet.com - Latest Football News, Football Headlines, Live Scores, Results, Fixtures
+# Privacy Policy | GHANAsoccernet.com - Latest Football News, Football Headlines, Live Scores, Results, Fixtures
 
 We at Ghana Sports Data Services, incorporating Ghanasoccernet website, strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.
 
@@ -50,9 +50,9 @@ We collect non-personal information and data through the standard operation of o
 Links to Other Sites  
 Our site contains links to other sites outside of our control. We are not responsible for the content of those websites.
 
-**Privacy** ******Policy** **– Yardbarker** **  
+ **Privacy** ******Policy** **– Yardbarker** **  
 ** Ghanasoccernet.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.  
-This Privacy Policy covers Ghanasoccernet.com ’s treatment of personal information that Ghanasoccernet.com gathers when you are on the Ghanasoccernet.com website and when you use Ghanasoccernet.com services. This policy does not apply to the practices of third parties that Ghanasoccernet.com does not own or control, or to individuals that Ghanasoccernet.com does not employ or manage.  
+This Privacy Policy covers Ghanasoccernet.com ‘s treatment of personal information that Ghanasoccernet.com gathers when you are on the Ghanasoccernet.com website and when you use Ghanasoccernet.com services. This policy does not apply to the practices of third parties that Ghanasoccernet.com does not own or control, or to individuals that Ghanasoccernet.com does not employ or manage.  
 **Information Collected by** **Ghanasoccernet.com**  
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Ghanasoccernet.com users:  
 1\. **Information You Provide to Us:** We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.  
@@ -64,8 +64,8 @@ o Many companies offer programs that help you to visit websites anonymously. Whi
 ** Ghanasoccernet.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Ghanasoccernet.com may send out e-mails with Ghanasoccernet.com -related news, products, offers, surveys or promotions.  
 **Cookies** **  
 ** Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Ghanasoccernet.com cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.  
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Ghanasoccernet.com ’s coolest features.  
-Ghanasoccernet.com ’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.  
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Ghanasoccernet.com ‘s coolest features.  
+Ghanasoccernet.com ‘s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.  
 **Sharing Your Information**  
 Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.  
 **Ghanasoccernet.com Personnel:** Ghanasoccernet.com personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Ghanasoccernet.com business.  
