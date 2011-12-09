@@ -1,13 +1,11 @@
-<!--The following is the downloaded HTML source of the 101centavos.com privacy policy that was archived on 2011-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110510221633id_/http%3A//www.101centavos.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 101centavos.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209153857id_/http%3A//www.101centavos.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
 <meta name="robots" content="index,follow">
 <meta name="description" content="Your PrivacyYour privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choi...">
-<meta name="keywords" content="penny stock, gardening, frugal, saving, canadian penny stocks, gold penny stock, investing">
-<title>  Privacy Policy | 101 Centavos</title>
+<meta name="keywords" content="penny stock, gardening, frugal, saving, canadian penny stocks, gold penny stock, investing"><title>  Privacy Policy | 101 Centavos</title>
 
 <link rel="stylesheet" href="http://www.101centavos.com/wp-content/themes/magazine-basic/style.css" type="text/css" media="screen">
 <style type="text/css">
@@ -18,25 +16,28 @@ body { width: 1024px; }
 #secondsidebar { width: 180px; }
 #secondsidebar .side-widget { width: 160px; }
 #leftcontent, #twocol, #threecol, #threecol2, .commentlist { width: 576px; }
-#leftcontent img { max-width: 576px; height: auto; }
+#leftcontent img, .wp-caption { max-width: 576px; }
+#leftcontent .wp-caption img, #leftcontent .gallery-thumb img { max-width: 564px; }
+<!-- fix for IE & Safari -->
+.threepost embed { width: 167.04px !important; }
+.twopost embed { width: 264.96px !important; }
+<!-- end fix for Safari -->
 </style>
 	<link rel="pingback" href="http://www.101centavos.com/xmlrpc.php">
 <!--[if IE]>
 <link rel="stylesheet" type="text/css" href="http://www.101centavos.com/wp-content/themes/magazine-basic/iestyles.css" />
 <![endif]-->
-<!--[if lte IE 6]>
-<script defer type="text/javascript" src="http://www.101centavos.com/wp-content/themes/magazine-basic/images/pngfix.js"></script>
-<![endif]-->
-
 <link rel="alternate" type="application/rss+xml" title="101 Centavos » Feed" href="http://www.101centavos.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="101 Centavos » Comments Feed" href="http://www.101centavos.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="101 Centavos » Privacy Policy Comments Feed" href="http://www.101centavos.com/privacy-policy/feed/">
-<link rel="stylesheet" id="sharedaddy-css" href="http://www.101centavos.com/wp-content/plugins/sharedaddy/sharing.css?ver=3.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="NextGEN-css" href="http://www.101centavos.com/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0" type="text/css" media="screen">
+<link rel="stylesheet" id="shutter-css" href="http://www.101centavos.com/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.css?ver=1.3.3" type="text/css" media="screen">
+<link rel="stylesheet" id="sharedaddy-css" href="http://www.101centavos.com/wp-content/plugins/sharedaddy/sharing.css?ver=3.2.1" type="text/css" media="all">
 <link rel="stylesheet" id="better-related-frontend-css" href="http://www.101centavos.com/wp-content/plugins/better-related/css/better-related.css?ver=0.3.5" type="text/css" media="all">
+<link rel="stylesheet" id="commentluv_style-css" href="http://www.101centavos.com/wp-content/plugins/commentluv/css/commentluv.css?ver=3.2.1" type="text/css" media="all">
 <link rel="stylesheet" id="subscribe_me-css" href="http://www.101centavos.com/wp-content/plugins/sem-subscribe-me/css/styles.css?ver=20090903" type="text/css" media="all">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.101centavos.com/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://www.101centavos.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
-<script type="text/javascript" src="http://www.101centavos.com/wp-includes/js/hoverIntent.js?ver=3.1.1"></script>
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.101centavos.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.101centavos.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var cl_settings = {
@@ -44,51 +45,74 @@ var cl_settings = {
 	url: "url",
 	comment: "comment",
 	email: "email",
-	prepend: "",
-	badge: "http://www.101centavos.com/wp-content/plugins/commentluv/images/CL91_White.gif",
-	show_text: "CommentLuv Enabled",
-	badge_text: "",
-	heart_tip: "on",
-	default_on: "checked",
-	select_text: "choose a different post to show",
-	cl_version: "281.8",
+	infopanel: "",
+	default_on: "on",
+	default_on_admin: "",
+	cl_version: "2.90.9.2",
 	images: "http://www.101centavos.com/wp-content/plugins/commentluv/images/",
-	api_url: "http://api.comluv.com/cl_api/commentluvapi.php",
-	refer: "http://www.101centavos.com/privacy-policy/",
+	api_url: "http://www.101centavos.com/wp-admin/admin-ajax.php",
+	_fetch: "fb8ead3b90",
+	_info: "7ec8e92904",
 	infoback: "white",
-	usetemplate: ""
+	infotext: "",
+	template_insert: "",
+	logged_in: "",
+	refer: "http://www.101centavos.com/privacy-policy/",
+	no_url_message: "Please enter a URL and then click the CommentLuv checkbox if you want to add your last blog post",
+	no_http_message: "Please use http:// in front of your url",
+	no_url_logged_in_message: "You need to visit your profile in the dashboard and update your details with your site URL",
+	no_info_message: "No info was available or an error occured"
 };
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.101centavos.com/wp-content/plugins/commentluv/js/commentluv.js?ver=3.1.1"></script>
+<script type="text/javascript" src="http://www.101centavos.com/wp-content/plugins/commentluv/js/commentluv.js?ver=3.2.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var shutterSettings = {
+	msgLoading: "L O A D I N G",
+	msgClose: "Click to Close",
+	imageCount: "1"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.101centavos.com/wp-content/plugins/nextgen-gallery/shutter/shutter-reloaded.js?ver=1.3.3"></script>
+<script type="text/javascript" src="http://www.101centavos.com/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.9995"></script>
+<script type="text/javascript" src="http://www.101centavos.com/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.05"></script>
 <script type="text/javascript" src="http://www.101centavos.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.101centavos.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.101centavos.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="101 Centavos" href="http://www.101centavos.com/">
 <link rel="prev" title="Penny  Stock Guru-ism" href="http://www.101centavos.com/penny-stock-guru-ism/">
 <link rel="next" title="Contact" href="http://www.101centavos.com/contact/">
-<meta name="generator" content="WordPress 3.1.1">
+<meta name="generator" content="WordPress 3.2.1">
 <link rel="canonical" href="http://www.101centavos.com/privacy-policy/">
 <link rel="shortlink" href="http://wp.me/P1b630-9H">
-<link rel="stylesheet" href="http://www.101centavos.com/wp-content/plugins/commentluv/style/cl_style.css" type="text/css"><style type="text/css">
-ul.scfw_text_img li:before, ul.scfw_16px li:before, ul.scfw_24px li:before, ul.scfw_32px li:before {
-	content:"";
-}
-</style>	
-		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<!-- <meta name="NextGEN" version="1.9.0" /> -->
+<script type="text/javascript">
 
-<body class="page page-id-601">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-19470229-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+
+<body class="page page-id-601 page-template-default">
 <!-- begin header -->
 <div id="header">
 			<div id="login">
     	<ul><li><a href="http://www.101centavos.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.101centavos.com%2Fprivacy-policy%2F">Log In</a></li></ul> 
     </div>
         	    <div id="title" class="fl">
-    	<a href="http://www.101centavos.com/">101 Centavos</a>     
+    	<h2><a href="http://www.101centavos.com/">101 Centavos</a> </h2>    
     </div>
         <div id="description" class="fl">
-        Practical freedom, one penny at a time.  Unequal parts personal finance, gardening, penny stocks, saving, and home cooking    </div>     
+        Unequal parts personal finance, gardening, penny mining stocks, saving, and home cooking – "I don't want to just make a peso, I want to make a hundred and one centavos"    </div>     
     <div class="main-navigation"><ul id="menu-custom" class="sf-menu"><li id="menu-item-603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-603"><a href="http://www.101centavos.com/">Home</a></li>
 <li id="menu-item-599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-599"><a href="http://www.101centavos.com/?page_id=585">About</a></li>
 <li id="menu-item-597" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-597"><a href="http://www.101centavos.com/category/investing/">Investing</a></li>
@@ -101,11 +125,160 @@ ul.scfw_text_img li:before, ul.scfw_16px li:before, ul.scfw_24px li:before, ul.s
 
 
 <div id="mainwrapper">
-	<div id="leftcontent">
-				<div class="post" id="post-601">
-		<h1>Privacy Policy</h1>
-			<div class="entry">
-				                 <p><strong>Your Privacy</strong><br>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+<!-- begin sidebar -->
+    <div id="sidebar">
+		<div class="side-widget">			<div class="textwidget">	<a href="http://yakezie.com" title="Yakezie Network"><img src="http://cdn2.yakezie.com/badges/125-yakezie-02.png" alt="Proud Member of the Yakezie Network"></a></div>
+		</div><div class="side-widget"><form method="get" id="searchform" action="http://www.101centavos.com/">
+<div>
+<input type="text" class="search_input" value="Search &amp; Hit Enter" name="s" id="s" onfocus="if (this.value == 'Search &amp; Hit Enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search &amp; Hit Enter';}">
+<input type="hidden" id="searchsubmit">
+</div>
+</form></div><div class="side-widget"><h2>Filing Cabinet</h2>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://www.101centavos.com/category/401k/" title="View all posts filed under 401K">401K</a> (5)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.101centavos.com/category/alternative-energy/" title="View all posts filed under Alternative Energy">Alternative Energy</a> (5)
+</li>
+	<li class="cat-item cat-item-74"><a href="http://www.101centavos.com/category/book-reviews/" title="View all posts filed under book reviews">book reviews</a> (1)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.101centavos.com/category/budgets/" title="View all posts filed under Budgets">Budgets</a> (2)
+</li>
+	<li class="cat-item cat-item-68"><a href="http://www.101centavos.com/category/business-and-career/" title="View all posts filed under Business and Career">Business and Career</a> (20)
+</li>
+	<li class="cat-item cat-item-102"><a href="http://www.101centavos.com/category/caffe-breaks/" title="View all posts filed under Caffe' Breaks">Caffe' Breaks</a> (6)
+</li>
+	<li class="cat-item cat-item-81"><a href="http://www.101centavos.com/category/centavos-portfolio-updates/" title="View all posts filed under Centavos Portfolio Updates">Centavos Portfolio Updates</a> (12)
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.101centavos.com/category/cooking/" title="View all posts filed under cooking">cooking</a> (12)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.101centavos.com/category/debt/" title="View all posts filed under debt">debt</a> (4)
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.101centavos.com/category/food-shopping/" title="View all posts filed under food">food</a> (10)
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.101centavos.com/category/gardening/" title="View all posts filed under Gardening">Gardening</a> (31)
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.101centavos.com/category/gold-and-silver/" title="View all posts filed under gold and silver">gold and silver</a> (15)
+</li>
+	<li class="cat-item cat-item-113"><a href="http://www.101centavos.com/category/government/" title="View all posts filed under Government">Government</a> (1)
+</li>
+	<li class="cat-item cat-item-80"><a href="http://www.101centavos.com/category/guest-posts/" title="View all posts filed under Guest Posts">Guest Posts</a> (10)
+</li>
+	<li class="cat-item cat-item-71"><a href="http://www.101centavos.com/category/health/" title="View all posts filed under Health">Health</a> (2)
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.101centavos.com/category/investing/" title="View all posts filed under Investing">Investing</a> (49)
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.101centavos.com/category/money/" title="Anything related to investing and saving money">Money</a> (15)
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.101centavos.com/category/mortgage-mess/" title="View all posts filed under Mortgage Mess">Mortgage Mess</a> (6)
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.101centavos.com/category/nothing-in-particular/" title="View all posts filed under Nothing in particular">Nothing in particular</a> (23)
+</li>
+	<li class="cat-item cat-item-78"><a href="http://www.101centavos.com/category/politics-current-events/" title="View all posts filed under politics / current events">politics / current events</a> (10)
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.101centavos.com/category/random-tips/" title="View all posts filed under Random tips">Random tips</a> (9)
+</li>
+	<li class="cat-item cat-item-111"><a href="http://www.101centavos.com/category/recycling/" title="View all posts filed under Recycling">Recycling</a> (1)
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.101centavos.com/category/resources/" title="View all posts filed under Resources">Resources</a> (5)
+</li>
+	<li class="cat-item cat-item-66"><a href="http://www.101centavos.com/category/roundups/" title="View all posts filed under Roundups">Roundups</a> (45)
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.101centavos.com/category/saving/" title="View all posts filed under saving">saving</a> (7)
+</li>
+	<li class="cat-item cat-item-110"><a href="http://www.101centavos.com/category/security/" title="View all posts filed under Security">Security</a> (2)
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.101centavos.com/category/taxes/" title="View all posts filed under taxes">taxes</a> (3)
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.101centavos.com/category/tightwadishness/" title="View all posts filed under Tightwadishness">Tightwadishness</a> (11)
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.101centavos.com/category/travel-journal/" title="View all posts filed under Travel Journal">Travel Journal</a> (12)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.101centavos.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (9)
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.101centavos.com/category/yard-sales/" title="View all posts filed under Yard Sales">Yard Sales</a> (7)
+</li>
+		</ul>
+</div><div class="side-widget"><h2>Tags</h2><div class="tagcloud"><a href="http://www.101centavos.com/tag/401k/" class="tag-link-3" title="4 topics" style="font-size: 12.9557522124pt;">401K</a>
+<a href="http://www.101centavos.com/tag/agriculture/" class="tag-link-103" title="3 topics" style="font-size: 11.7168141593pt;">agriculture</a>
+<a href="http://www.101centavos.com/tag/alternative-energy/" class="tag-link-4" title="3 topics" style="font-size: 11.7168141593pt;">Alternative Energy</a>
+<a href="http://www.101centavos.com/tag/biogas/" class="tag-link-22" title="1 topic" style="font-size: 8pt;">Biogas</a>
+<a href="http://www.101centavos.com/tag/book-reviews/" class="tag-link-74" title="2 topics" style="font-size: 10.2300884956pt;">book reviews</a>
+<a href="http://www.101centavos.com/tag/business/" class="tag-link-69" title="10 topics" style="font-size: 17.1681415929pt;">Business</a>
+<a href="http://www.101centavos.com/tag/career/" class="tag-link-70" title="7 topics" style="font-size: 15.4336283186pt;">Career</a>
+<a href="http://www.101centavos.com/tag/china/" class="tag-link-73" title="4 topics" style="font-size: 12.9557522124pt;">China</a>
+<a href="http://www.101centavos.com/tag/cigars/" class="tag-link-65" title="2 topics" style="font-size: 10.2300884956pt;">cigars</a>
+<a href="http://www.101centavos.com/tag/compost/" class="tag-link-23" title="4 topics" style="font-size: 12.9557522124pt;">compost</a>
+<a href="http://www.101centavos.com/tag/cooking-3/" class="tag-link-57" title="1 topic" style="font-size: 8pt;">Cooking</a>
+<a href="http://www.101centavos.com/tag/cooking-2/" class="tag-link-24" title="9 topics" style="font-size: 16.6725663717pt;">Cooking</a>
+<a href="http://www.101centavos.com/tag/debt/" class="tag-link-7" title="3 topics" style="font-size: 11.7168141593pt;">debt</a>
+<a href="http://www.101centavos.com/tag/dividends/" class="tag-link-76" title="4 topics" style="font-size: 12.9557522124pt;">dividends</a>
+<a href="http://www.101centavos.com/tag/energy/" class="tag-link-25" title="2 topics" style="font-size: 10.2300884956pt;">Energy</a>
+<a href="http://www.101centavos.com/tag/food-shopping/" class="tag-link-8" title="6 topics" style="font-size: 14.814159292pt;">food</a>
+<a href="http://www.101centavos.com/tag/food/" class="tag-link-26" title="15 topics" style="font-size: 19.1504424779pt;">food</a>
+<a href="http://www.101centavos.com/tag/foreclosure/" class="tag-link-27" title="4 topics" style="font-size: 12.9557522124pt;">Foreclosure</a>
+<a href="http://www.101centavos.com/tag/frugality/" class="tag-link-28" title="5 topics" style="font-size: 13.9469026549pt;">frugality</a>
+<a href="http://www.101centavos.com/tag/fruit-and-vegetable/" class="tag-link-29" title="12 topics" style="font-size: 18.0353982301pt;">Fruit and Vegetable</a>
+<a href="http://www.101centavos.com/tag/garage-sales/" class="tag-link-30" title="3 topics" style="font-size: 11.7168141593pt;">garage sales</a>
+<a href="http://www.101centavos.com/tag/garden/" class="tag-link-31" title="21 topics" style="font-size: 20.8849557522pt;">garden</a>
+<a href="http://www.101centavos.com/tag/grocery-store/" class="tag-link-32" title="4 topics" style="font-size: 12.9557522124pt;">Grocery store</a>
+<a href="http://www.101centavos.com/tag/health-2/" class="tag-link-72" title="7 topics" style="font-size: 15.4336283186pt;">health</a>
+<a href="http://www.101centavos.com/tag/inflation/" class="tag-link-36" title="3 topics" style="font-size: 11.7168141593pt;">inflation</a>
+<a href="http://www.101centavos.com/tag/insurance/" class="tag-link-37" title="1 topic" style="font-size: 8pt;">insurance</a>
+<a href="http://www.101centavos.com/tag/investing/" class="tag-link-11" title="26 topics" style="font-size: 22pt;">Investing</a>
+<a href="http://www.101centavos.com/tag/italy/" class="tag-link-101" title="2 topics" style="font-size: 10.2300884956pt;">Italy</a>
+<a href="http://www.101centavos.com/tag/mutual-funds/" class="tag-link-40" title="3 topics" style="font-size: 11.7168141593pt;">Mutual Funds</a>
+<a href="http://www.101centavos.com/tag/pasta/" class="tag-link-41" title="3 topics" style="font-size: 11.7168141593pt;">pasta</a>
+<a href="http://www.101centavos.com/tag/penny-mining-stocks/" class="tag-link-42" title="20 topics" style="font-size: 20.6371681416pt;">Penny Mining Stocks</a>
+<a href="http://www.101centavos.com/tag/podcast/" class="tag-link-43" title="3 topics" style="font-size: 11.7168141593pt;">Podcast</a>
+<a href="http://www.101centavos.com/tag/politics/" class="tag-link-61" title="7 topics" style="font-size: 15.4336283186pt;">politics</a>
+<a href="http://www.101centavos.com/tag/precious-metals/" class="tag-link-44" title="11 topics" style="font-size: 17.6637168142pt;">Precious Metals</a>
+<a href="http://www.101centavos.com/tag/random-tips-2/" class="tag-link-58" title="7 topics" style="font-size: 15.4336283186pt;">random tips</a>
+<a href="http://www.101centavos.com/tag/rural-land/" class="tag-link-45" title="3 topics" style="font-size: 11.7168141593pt;">rural land</a>
+<a href="http://www.101centavos.com/tag/saving-2/" class="tag-link-63" title="5 topics" style="font-size: 13.9469026549pt;">Saving</a>
+<a href="http://www.101centavos.com/tag/silver/" class="tag-link-46" title="8 topics" style="font-size: 16.0530973451pt;">Silver</a>
+<a href="http://www.101centavos.com/tag/taxes/" class="tag-link-18" title="4 topics" style="font-size: 12.9557522124pt;">taxes</a>
+<a href="http://www.101centavos.com/tag/terra-farms/" class="tag-link-84" title="3 topics" style="font-size: 11.7168141593pt;">Terra Farms</a>
+<a href="http://www.101centavos.com/tag/time/" class="tag-link-64" title="1 topic" style="font-size: 8pt;">time</a>
+<a href="http://www.101centavos.com/tag/tomatoes/" class="tag-link-47" title="12 topics" style="font-size: 18.0353982301pt;">tomatoes</a>
+<a href="http://www.101centavos.com/tag/travel/" class="tag-link-48" title="11 topics" style="font-size: 17.6637168142pt;">travel</a>
+<a href="http://www.101centavos.com/tag/trends/" class="tag-link-77" title="4 topics" style="font-size: 12.9557522124pt;">trends</a>
+<a href="http://www.101centavos.com/tag/uranium/" class="tag-link-83" title="2 topics" style="font-size: 10.2300884956pt;">Uranium</a></div>
+</div><div class="side-widget">			<div class="textwidget"><!-- Place this tag where you want the +1 button to render -->
+<g:plusone annotation="inline"></g:plusone>
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></div>
+		</div><div class="side-widget"><h2>Archives</h2>		<ul>
+			<li><a href="http://www.101centavos.com/2011/12/" title="December 2011">December 2011</a>&nbsp;(4)</li>
+	<li><a href="http://www.101centavos.com/2011/11/" title="November 2011">November 2011</a>&nbsp;(16)</li>
+	<li><a href="http://www.101centavos.com/2011/10/" title="October 2011">October 2011</a>&nbsp;(20)</li>
+	<li><a href="http://www.101centavos.com/2011/09/" title="September 2011">September 2011</a>&nbsp;(18)</li>
+	<li><a href="http://www.101centavos.com/2011/08/" title="August 2011">August 2011</a>&nbsp;(17)</li>
+	<li><a href="http://www.101centavos.com/2011/07/" title="July 2011">July 2011</a>&nbsp;(13)</li>
+	<li><a href="http://www.101centavos.com/2011/06/" title="June 2011">June 2011</a>&nbsp;(8)</li>
+	<li><a href="http://www.101centavos.com/2011/05/" title="May 2011">May 2011</a>&nbsp;(13)</li>
+	<li><a href="http://www.101centavos.com/2011/04/" title="April 2011">April 2011</a>&nbsp;(10)</li>
+	<li><a href="http://www.101centavos.com/2011/03/" title="March 2011">March 2011</a>&nbsp;(19)</li>
+	<li><a href="http://www.101centavos.com/2011/02/" title="February 2011">February 2011</a>&nbsp;(16)</li>
+	<li><a href="http://www.101centavos.com/2011/01/" title="January 2011">January 2011</a>&nbsp;(17)</li>
+	<li><a href="http://www.101centavos.com/2010/12/" title="December 2010">December 2010</a>&nbsp;(14)</li>
+	<li><a href="http://www.101centavos.com/2010/11/" title="November 2010">November 2010</a>&nbsp;(23)</li>
+	<li><a href="http://www.101centavos.com/2010/10/" title="October 2010">October 2010</a>&nbsp;(20)</li>
+	<li><a href="http://www.101centavos.com/2010/09/" title="September 2010">September 2010</a>&nbsp;(20)</li>
+		</ul>
+</div><div class="side-widget"><h2>CLICK HERE, IT’S GOOD FOR ME</h2>			<div class="textwidget"><p><script type="text/javascript" src="http://www.bluehost.com/src/js/101centavos/CODE114/125x125/bh_125x125_01.gif"></script><iframe src="http://rcm.amazon.com/e/cm?t=101centavos-20&amp;o=1&amp;p=21&amp;l=ur1&amp;category=grocery&amp;banner=1WE8TMENE0D6KCAXWE02&amp;f=ifr" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></p>
+</div>
+		</div>    </div>
+<!-- end sidebar -->	<div id="leftcontent">
+	
+		<div id="post-601" class="post-601 page type-page status-publish hentry">
+		                <h1>Privacy Policy</h1>
+                <div class="meta"><div class="date">November 4, 2010</div></div><div class="entry"><p><strong>Your Privacy</strong><br>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 </p><p><strong>Google Adsense and the DoubleClick DART Cookie</strong><br>Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.</p>
 <p>To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <a onclick="javascript:pageTracker._trackPageview('/outgoing/www.google.com/privacy_ads.html');" href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.</p>
 <p>Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, 101 Centavos has no access or control over these cookies that may be used by third party advertisers.
@@ -115,9 +288,8 @@ ul.scfw_text_img li:before, ul.scfw_16px li:before, ul.scfw_24px li:before, ul.s
 <p>If you have any questions regarding the privacy policy of 101 Centavos then you may contact us at fatone96@cox.net
 </p><p><span style="font-size:11px;">This policy was generated by Easy Privacy Policy Plugin <a onclick="javascript:pageTracker._trackPageview('/outgoing/thepacificboxset.feedr.co.uk');" target="_blank" href="http://thepacificboxset.feedr.co.uk">The Pacific Box Set</a> for WordPress.</span>
 </p><div style="font-style:italic;font-size:10px;">Last updated Fri, 05 Nov 2010 03:18</div>
-<div class="snap_nopreview sharing robots-nocontent"><ul><li class="sharing_label">Share this:</li><li class="share-stumbleupon share-regular"><a rel="nofollow" class="share-stumbleupon share-icon" href="http://www.101centavos.com/privacy-policy/?share=stumbleupon" title="Click to share on StumbleUpon">StumbleUpon</a></li><li class="share-twitter share-regular"><div class="twitter_button"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.101centavos.com%2Fprivacy-policy%2F&amp;counturl=http%3A%2F%2Fwww.101centavos.com%2Fprivacy-policy%2F&amp;count=horizontal&amp;text=Privacy%20Policy: " style="width:97px; height:20px;"></iframe></div></li><li class="share-facebook share-regular"><a rel="nofollow" class="share-facebook share-icon" href="http://www.101centavos.com/privacy-policy/?share=facebook" title="Share on Facebook">Facebook</a></li><li class="share-reddit share-regular"><a rel="nofollow" class="share-reddit share-icon" href="http://www.101centavos.com/privacy-policy/?share=reddit" title="Click to share on Reddit">Reddit</a></li><li class="share-email share-regular"><a rel="nofollow" class="share-email share-icon" href="http://www.101centavos.com/privacy-policy/?share=email" title="Click to email this to a friend">Email</a></li><li class="share-digg share-regular"><a rel="nofollow" class="share-digg share-icon" href="http://www.101centavos.com/privacy-policy/?share=digg" title="Click to Digg this post">Digg</a></li><li class="share-print share-regular"><a rel="nofollow" class="share-print share-icon" href="http://www.101centavos.com/privacy-policy/#print" title="Click to print">Print</a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div>			</div>
-  					</div>
-       				<div id="comments">
+<div class="snap_nopreview sharing robots-nocontent"><ul><li class="sharing_label">Share this:</li><li class="share-stumbleupon share-regular"><a rel="nofollow" class="share-stumbleupon share-icon" href="http://www.101centavos.com/privacy-policy/?share=stumbleupon" title="Click to share on StumbleUpon">StumbleUpon</a></li><li class="share-twitter share-regular"><div class="twitter_button"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.101centavos.com%2Fprivacy-policy%2F&amp;counturl=http%3A%2F%2Fwww.101centavos.com%2Fprivacy-policy%2F&amp;count=horizontal&amp;text=Privacy%20Policy: " style="width:97px; height:20px;"></iframe></div></li><li class="share-facebook share-regular"><a rel="nofollow" class="share-facebook share-icon" href="http://www.101centavos.com/privacy-policy/?share=facebook" title="Share on Facebook">Facebook</a></li><li class="share-reddit share-regular"><a rel="nofollow" class="share-reddit share-icon" href="http://www.101centavos.com/privacy-policy/?share=reddit" title="Click to share on Reddit">Reddit</a></li><li class="share-email share-regular"><a rel="nofollow" class="share-email share-icon" href="http://www.101centavos.com/privacy-policy/?share=email" title="Click to email this to a friend">Email</a></li><li class="share-digg share-regular"><a rel="nofollow" class="share-digg share-icon" href="http://www.101centavos.com/privacy-policy/?share=digg" title="Click to Digg this post">Digg</a></li><li class="share-print share-regular"><a rel="nofollow" class="share-print share-icon" href="http://www.101centavos.com/privacy-policy/#print" title="Click to print">Print</a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div>	</div><!-- #post-## -->
+   				<div id="comments">
 
 
 
@@ -127,151 +299,90 @@ ul.scfw_text_img li:before, ul.scfw_16px li:before, ul.scfw_24px li:before, ul.s
 
 								
 </div><!-- #comments -->
+       
+	</div>
+    <!-- begin second sidebar -->
+    <div id="secondsidebar">
+		<div class="side-widget">			<div class="textwidget"><!-- Place this tag where you want the +1 button to render -->
+<g:plusone annotation="inline"></g:plusone>
 
-			</div>
-    <!-- begin sidebar -->
-		<div id="sidebar">
-				<div class="side-widget"><h2>Categories</h2>		<ul>
-	<li class="cat-item cat-item-3"><a href="http://www.101centavos.com/category/401k/" title="View all posts filed under 401K">401K</a> (4)
-</li>
-	<li class="cat-item cat-item-4"><a href="http://www.101centavos.com/category/alternative-energy/" title="View all posts filed under Alternative Energy">Alternative Energy</a> (2)
-</li>
-	<li class="cat-item cat-item-74"><a href="http://www.101centavos.com/category/book-reviews/" title="View all posts filed under book reviews">book reviews</a> (1)
-</li>
-	<li class="cat-item cat-item-5"><a href="http://www.101centavos.com/category/budgets/" title="View all posts filed under Budgets">Budgets</a> (2)
-</li>
-	<li class="cat-item cat-item-68"><a href="http://www.101centavos.com/category/business-and-career/" title="View all posts filed under Business and Career">Business and Career</a> (8)
-</li>
-	<li class="cat-item cat-item-81"><a href="http://www.101centavos.com/category/centavos-portfolio-updates/" title="View all posts filed under Centavos Portfolio Updates">Centavos Portfolio Updates</a> (1)
-</li>
-	<li class="cat-item cat-item-6"><a href="http://www.101centavos.com/category/cooking/" title="View all posts filed under cooking">cooking</a> (10)
-</li>
-	<li class="cat-item cat-item-7"><a href="http://www.101centavos.com/category/debt/" title="View all posts filed under debt">debt</a> (2)
-</li>
-	<li class="cat-item cat-item-8"><a href="http://www.101centavos.com/category/food-shopping/" title="View all posts filed under food shopping">food shopping</a> (8)
-</li>
-	<li class="cat-item cat-item-9"><a href="http://www.101centavos.com/category/gardening/" title="View all posts filed under Gardening">Gardening</a> (23)
-</li>
-	<li class="cat-item cat-item-10"><a href="http://www.101centavos.com/category/gold-and-silver/" title="View all posts filed under gold and silver">gold and silver</a> (6)
-</li>
-	<li class="cat-item cat-item-80"><a href="http://www.101centavos.com/category/guest-posts/" title="View all posts filed under Guest Posts">Guest Posts</a> (3)
-</li>
-	<li class="cat-item cat-item-71"><a href="http://www.101centavos.com/category/health/" title="View all posts filed under Health">Health</a> (2)
-</li>
-	<li class="cat-item cat-item-11"><a href="http://www.101centavos.com/category/investing/" title="View all posts filed under Investing">Investing</a> (32)
-</li>
-	<li class="cat-item cat-item-12"><a href="http://www.101centavos.com/category/money/" title="Anything related to investing and saving money">Money</a> (8)
-</li>
-	<li class="cat-item cat-item-13"><a href="http://www.101centavos.com/category/mortgage-mess/" title="View all posts filed under Mortgage Mess">Mortgage Mess</a> (5)
-</li>
-	<li class="cat-item cat-item-14"><a href="http://www.101centavos.com/category/nothing-in-particular/" title="View all posts filed under Nothing in particular">Nothing in particular</a> (15)
-</li>
-	<li class="cat-item cat-item-78"><a href="http://www.101centavos.com/category/politics-current-events/" title="View all posts filed under politics / current events">politics / current events</a> (2)
-</li>
-	<li class="cat-item cat-item-15"><a href="http://www.101centavos.com/category/random-tips/" title="View all posts filed under Random tips">Random tips</a> (7)
-</li>
-	<li class="cat-item cat-item-16"><a href="http://www.101centavos.com/category/resources/" title="View all posts filed under Resources">Resources</a> (4)
-</li>
-	<li class="cat-item cat-item-66"><a href="http://www.101centavos.com/category/roundups/" title="View all posts filed under Roundups">Roundups</a> (19)
-</li>
-	<li class="cat-item cat-item-17"><a href="http://www.101centavos.com/category/saving/" title="View all posts filed under saving">saving</a> (4)
-</li>
-	<li class="cat-item cat-item-18"><a href="http://www.101centavos.com/category/taxes/" title="View all posts filed under taxes">taxes</a> (1)
-</li>
-	<li class="cat-item cat-item-19"><a href="http://www.101centavos.com/category/tightwadishness/" title="View all posts filed under Tightwadishness">Tightwadishness</a> (10)
-</li>
-	<li class="cat-item cat-item-20"><a href="http://www.101centavos.com/category/travel-journal/" title="View all posts filed under Travel Journal">Travel Journal</a> (4)
-</li>
-	<li class="cat-item cat-item-1"><a href="http://www.101centavos.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (7)
-</li>
-	<li class="cat-item cat-item-21"><a href="http://www.101centavos.com/category/yard-sales/" title="View all posts filed under Yard Sales">Yard Sales</a> (7)
-</li>
-		</ul>
-</div><div class="side-widget"><h2>Archives</h2>		<ul>
-			<li><a href="http://www.101centavos.com/2011/05/" title="May 2011">May 2011</a>&nbsp;(4)</li>
-	<li><a href="http://www.101centavos.com/2011/04/" title="April 2011">April 2011</a>&nbsp;(10)</li>
-	<li><a href="http://www.101centavos.com/2011/03/" title="March 2011">March 2011</a>&nbsp;(19)</li>
-	<li><a href="http://www.101centavos.com/2011/02/" title="February 2011">February 2011</a>&nbsp;(16)</li>
-	<li><a href="http://www.101centavos.com/2011/01/" title="January 2011">January 2011</a>&nbsp;(17)</li>
-	<li><a href="http://www.101centavos.com/2010/12/" title="December 2010">December 2010</a>&nbsp;(14)</li>
-	<li><a href="http://www.101centavos.com/2010/11/" title="November 2010">November 2010</a>&nbsp;(24)</li>
-	<li><a href="http://www.101centavos.com/2010/10/" title="October 2010">October 2010</a>&nbsp;(20)</li>
-	<li><a href="http://www.101centavos.com/2010/09/" title="September 2010">September 2010</a>&nbsp;(20)</li>
-		</ul>
-</div><div class="side-widget"><h2>Tags</h2><div class="tagcloud"><a href="http://www.101centavos.com/tag/401k/" class="tag-link-3" title="4 topics" style="font-size: 13.6pt;">401K</a>
-<a href="http://www.101centavos.com/tag/alternative-energy/" class="tag-link-4" title="3 topics" style="font-size: 12.2pt;">Alternative Energy</a>
-<a href="http://www.101centavos.com/tag/biogas/" class="tag-link-22" title="1 topic" style="font-size: 8pt;">Biogas</a>
-<a href="http://www.101centavos.com/tag/book-reviews/" class="tag-link-74" title="1 topic" style="font-size: 8pt;">book reviews</a>
-<a href="http://www.101centavos.com/tag/business/" class="tag-link-69" title="2 topics" style="font-size: 10.52pt;">Business</a>
-<a href="http://www.101centavos.com/tag/career/" class="tag-link-70" title="2 topics" style="font-size: 10.52pt;">Career</a>
-<a href="http://www.101centavos.com/tag/china/" class="tag-link-73" title="1 topic" style="font-size: 8pt;">China</a>
-<a href="http://www.101centavos.com/tag/cigars/" class="tag-link-65" title="1 topic" style="font-size: 8pt;">cigars</a>
-<a href="http://www.101centavos.com/tag/compost/" class="tag-link-23" title="4 topics" style="font-size: 13.6pt;">compost</a>
-<a href="http://www.101centavos.com/tag/cooking-2/" class="tag-link-24" title="7 topics" style="font-size: 16.4pt;">Cooking</a>
-<a href="http://www.101centavos.com/tag/cooking-3/" class="tag-link-57" title="1 topic" style="font-size: 8pt;">Cooking</a>
-<a href="http://www.101centavos.com/tag/credit-cards/" class="tag-link-67" title="1 topic" style="font-size: 8pt;">credit cards</a>
-<a href="http://www.101centavos.com/tag/debt/" class="tag-link-7" title="2 topics" style="font-size: 10.52pt;">debt</a>
-<a href="http://www.101centavos.com/tag/dividends/" class="tag-link-76" title="1 topic" style="font-size: 8pt;">dividends</a>
-<a href="http://www.101centavos.com/tag/energy/" class="tag-link-25" title="1 topic" style="font-size: 8pt;">Energy</a>
-<a href="http://www.101centavos.com/tag/food/" class="tag-link-26" title="9 topics" style="font-size: 17.8pt;">food</a>
-<a href="http://www.101centavos.com/tag/food-shopping/" class="tag-link-8" title="5 topics" style="font-size: 14.72pt;">food shopping</a>
-<a href="http://www.101centavos.com/tag/foreclosure/" class="tag-link-27" title="4 topics" style="font-size: 13.6pt;">Foreclosure</a>
-<a href="http://www.101centavos.com/tag/frugality/" class="tag-link-28" title="5 topics" style="font-size: 14.72pt;">frugality</a>
-<a href="http://www.101centavos.com/tag/fruit-and-vegetable/" class="tag-link-29" title="9 topics" style="font-size: 17.8pt;">Fruit and Vegetable</a>
-<a href="http://www.101centavos.com/tag/garage-sales/" class="tag-link-30" title="3 topics" style="font-size: 12.2pt;">garage sales</a>
-<a href="http://www.101centavos.com/tag/garden/" class="tag-link-31" title="16 topics" style="font-size: 21.02pt;">garden</a>
-<a href="http://www.101centavos.com/tag/grocery-store/" class="tag-link-32" title="3 topics" style="font-size: 12.2pt;">Grocery store</a>
-<a href="http://www.101centavos.com/tag/health-2/" class="tag-link-72" title="4 topics" style="font-size: 13.6pt;">health</a>
-<a href="http://www.101centavos.com/tag/inflation/" class="tag-link-36" title="2 topics" style="font-size: 10.52pt;">inflation</a>
-<a href="http://www.101centavos.com/tag/insurance/" class="tag-link-37" title="1 topic" style="font-size: 8pt;">insurance</a>
-<a href="http://www.101centavos.com/tag/investing/" class="tag-link-11" title="19 topics" style="font-size: 22pt;">Investing</a>
-<a href="http://www.101centavos.com/tag/mutual-funds/" class="tag-link-40" title="3 topics" style="font-size: 12.2pt;">Mutual Funds</a>
-<a href="http://www.101centavos.com/tag/pasta/" class="tag-link-41" title="2 topics" style="font-size: 10.52pt;">pasta</a>
-<a href="http://www.101centavos.com/tag/penny-mining-stocks/" class="tag-link-42" title="16 topics" style="font-size: 21.02pt;">Penny Mining Stocks</a>
-<a href="http://www.101centavos.com/tag/podcast/" class="tag-link-43" title="3 topics" style="font-size: 12.2pt;">Podcast</a>
-<a href="http://www.101centavos.com/tag/politics/" class="tag-link-61" title="2 topics" style="font-size: 10.52pt;">politics</a>
-<a href="http://www.101centavos.com/tag/precious-metals/" class="tag-link-44" title="6 topics" style="font-size: 15.7pt;">Precious Metals</a>
-<a href="http://www.101centavos.com/tag/random-tips-2/" class="tag-link-58" title="7 topics" style="font-size: 16.4pt;">random tips</a>
-<a href="http://www.101centavos.com/tag/rural-land/" class="tag-link-45" title="1 topic" style="font-size: 8pt;">rural land</a>
-<a href="http://www.101centavos.com/tag/saving-2/" class="tag-link-63" title="4 topics" style="font-size: 13.6pt;">Saving</a>
-<a href="http://www.101centavos.com/tag/silver/" class="tag-link-46" title="2 topics" style="font-size: 10.52pt;">Silver</a>
-<a href="http://www.101centavos.com/tag/taxes/" class="tag-link-18" title="3 topics" style="font-size: 12.2pt;">taxes</a>
-<a href="http://www.101centavos.com/tag/time/" class="tag-link-64" title="1 topic" style="font-size: 8pt;">time</a>
-<a href="http://www.101centavos.com/tag/tomatoes/" class="tag-link-47" title="10 topics" style="font-size: 18.36pt;">tomatoes</a>
-<a href="http://www.101centavos.com/tag/travel/" class="tag-link-48" title="4 topics" style="font-size: 13.6pt;">travel</a>
-<a href="http://www.101centavos.com/tag/trends/" class="tag-link-77" title="1 topic" style="font-size: 8pt;">trends</a></div>
-</div>		</div>
-<!-- end sidebar --><!-- begin second sidebar -->
-		<div id="secondsidebar">
-				<div class="side-widget">			<div class="textwidget"><a href="http://feeds.feedburner.com/101Centavos" title="Subscribe to my feed" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" style="border:0"></a><a href="http://feeds.feedburner.com/101Centavos" title="Subscribe to my feed" rel="alternate" type="application/rss+xml">Subscribe in a reader</a></div>
-		</div>		<div class="side-widget">		<h2>Recent Posts</h2>		<ul>
-				<li><a href="http://www.101centavos.com/2011/05/09/the-time-value-of-serendipitous-opportunities-and-last-weeks-links/" title="The Time Value of Serendipitous Opportunities, and Last Week’s Links">The Time Value of Serendipitous Opportunities, and Last Week’s Links</a></li>
-				<li><a href="http://www.101centavos.com/2011/05/07/some-thoughts-on-silver-part-one/" title="Some Thoughts on Silver – Part One">Some Thoughts on Silver – Part One</a></li>
-				<li><a href="http://www.101centavos.com/2011/05/05/bbq-chicken-in-the-springtime/" title="BBQ Chicken In The Springtime">BBQ Chicken In The Springtime</a></li>
-				<li><a href="http://www.101centavos.com/2011/05/02/ive-got-my-eye-on-some-random-links-weekly-roundup/" title="I’ve Got My Eye On Some Random Links:  Weekly Roundup">I’ve Got My Eye On Some Random Links:  Weekly Roundup</a></li>
-				<li><a href="http://www.101centavos.com/2011/04/27/stupidity-unchained-the-curious-saga-of-today%e2%80%99s-stock-market/" title="Stupidity Unchained -The Curious Saga Of Today’s Stock Market">Stupidity Unchained -The Curious Saga Of Today’s Stock Market</a></li>
-				</ul>
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></div>
+		</div><div class="side-widget"><h2>MONEY PROS</h2>			<div class="textwidget"><a title="Money Pros" alt="Money Pros" href="http://www.moneypros.org"><img src="http://www.101centavos.com/wp-content/uploads/2011/11/MoneyPros125x125-copy.jpg" width="125" height="125"></a></div>
+		</div><div class="side-widget"><h2>Please Click on one of these. Just one, please?</h2>			<div class="textwidget"><a href="http://feeds.feedburner.com/101Centavos"><img class="alignleft size-full wp-image-2628" title="Subscribe in a Reader" src="http://www.101centavos.com/wp-content/uploads/2011/07/rss.jpg" alt="Subscribe in a Reader" width="51" height="47"></a> <a href="http://eepurl.com/e1Bw6"><img class="alignleft size-full wp-image-2631" title="Subscribe via Email" src="http://www.101centavos.com/wp-content/uploads/2011/07/email-icon.png" alt="Subscribe via Email" width="48" height="48"></a><a href="https://twitter.com/#!/101centavos"><img class="alignleft size-full wp-image-2629" title="Follow me on Twitter" src="http://www.101centavos.com/wp-content/uploads/2011/07/twitter-icon.png" alt="Follow me on Twitter" width="48" height="48"></a><a href="http://www.facebook.com/pages/101-Centavos/210485725668672?v=wall"><img class="alignleft size-full wp-image-2630" title="Like me on Facebook" src="http://www.101centavos.com/wp-content/uploads/2011/07/fb-icon.png" alt="Like me on Facebook" width="48" height="48"></a></div>
+		</div><div class="side-widget">			<div class="textwidget"><script language="javascript" id="mNSC" src="http://search.keywordblocks.com/cmedianet?cid=7CUB322RD&amp;size=120x240&amp;crid=838409653"></script></div>
 		</div><div class="side-widget"><h2>Blogs I Like About Personal Finance</h2>
 	<ul class="xoxo blogroll">
-<li><a href="http://www.beatingtheindex.com">Beating The Index</a></li>
+<li><a href="http://canadianfinanceblog.com/">Canadian Finance Blog</a></li>
+<li><a href="http://www.darwinsmoney.com/">Darwin's Money</a></li>
+<li><a href="http://www.debtfreebythirty.net/">Debt Free By 30</a></li>
 <li><a href="http://everydaytipsandthoughts.com/">Everyday Tips and Thoughts</a></li>
 <li><a href="http://www.investitwisely.com">Invest It Wisely</a></li>
-<li><a href="http://myownadvisor.blogspot.com/">My Own Advisor</a></li>
+<li><a href="http://mollyonmoney.com/">Molly On Money</a></li>
+<li><a href="http://www.moneybeagle.com/">Money Beagle</a></li>
+<li><a href="http://www.moneyreasons.com/">Money Reasons</a></li>
+<li><a href="http://prairieecothrifter.com/">Prairie Eco-Thrifter</a></li>
 <li><a href="http://retireby40.org/">Retire By 40</a></li>
-<li><a href="http://www.squirrelers.com">Squirrelers</a></li>
+<li><a href="http://www.squirrelers.com" title="What is “Squirreling Gone Wild”? Click to find out….">Squirrelers</a></li>
 <li><a href="http://thebizoflife.blogspot.com">The Biz of Life</a></li>
+<li><a href="http://www.thefreefinancialadvisor.com/average-joes-money-blog/">The Free Financial Advisor</a></li>
 
 	</ul>
 </div>
-<div class="side-widget"><h2>Investment Blogs</h2>
+<div class="side-widget"><h2>Blogs About Investing &amp; Dividends</h2>
 	<ul class="xoxo blogroll">
 <li><a href="http://www.beatingtheindex.com">Beating The Index</a></li>
+<li><a href="http://www.canadianoilstocks.ca">Canadian Oil Stocks</a></li>
+<li><a href="http://cashflowmantra.com/">Cash Flow Mantra</a></li>
+<li><a href="http://www.myownadvisor.ca">My Own Advisor</a></li>
+<li><a href="http://www.oilandgasetfs.com">Oil &amp; Gas ETFs</a></li>
+<li><a href="http://www.dividendninja.com/">The Dividend Ninja</a></li>
 <li><a href="http://www.thepassiveincomeearner.com/">The Passive Income Earner</a></li>
 
 	</ul>
 </div>
-<div class="side-widget"><h2>YAKEZIE</h2>			<div class="textwidget">	<a href="http://yakezie.com" title="Yakezie Network"><img src="http://cdn2.yakezie.com/badges/c-125-yakezie-02.png" alt="Proud Member of the Yakezie Challenge"></a></div>
-		</div><div class="side-widget"><h2>Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><a onclick="javascript:pageTracker._trackPageview('/outgoing/www.investitwisely.com');" href="http://www.investitwisely.com" rel="external nofollow" class="url">Invest It Wisely</a> on <a href="http://www.101centavos.com/2011/05/09/the-time-value-of-serendipitous-opportunities-and-last-weeks-links/#comment-4699">The Time Value of Serendipitous Opportunities, and Last Week’s Links</a></li><li class="recentcomments"><a onclick="javascript:pageTracker._trackPageview('/outgoing/retireby40.org');" href="http://retireby40.org" rel="external nofollow" class="url">retirebyforty</a> on <a href="http://www.101centavos.com/2011/05/09/the-time-value-of-serendipitous-opportunities-and-last-weeks-links/#comment-4697">The Time Value of Serendipitous Opportunities, and Last Week’s Links</a></li><li class="recentcomments"><a onclick="javascript:pageTracker._trackPageview('/outgoing/afford-anything.com');" href="http://afford-anything.com" rel="external nofollow" class="url">Paula @ AffordAnything.org</a> on <a href="http://www.101centavos.com/2011/05/09/the-time-value-of-serendipitous-opportunities-and-last-weeks-links/#comment-4696">The Time Value of Serendipitous Opportunities, and Last Week’s Links</a></li><li class="recentcomments"><a onclick="javascript:pageTracker._trackPageview('/outgoing/everydaytipsandthoughts.com');" href="http://everydaytipsandthoughts.com" rel="external nofollow" class="url">Everyday Tips</a> on <a href="http://www.101centavos.com/2011/05/09/the-time-value-of-serendipitous-opportunities-and-last-weeks-links/#comment-4692">The Time Value of Serendipitous Opportunities, and Last Week’s Links</a></li><li class="recentcomments"><a onclick="javascript:pageTracker._trackPageview('/outgoing/www.moneycone.com');" href="http://www.moneycone.com" rel="external nofollow" class="url">Moneycone</a> on <a href="http://www.101centavos.com/2011/05/09/the-time-value-of-serendipitous-opportunities-and-last-weeks-links/#comment-4691">The Time Value of Serendipitous Opportunities, and Last Week’s Links</a></li></ul></div>  		</div>
+<div class="side-widget"><h2>Blogs I Like Just Because</h2>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.aglioolioepeperoncino.com/">Aglio, Olio e Peperoncino</a></li>
+<li><a href="http://mikeandmollyshouse.com/">Mike &amp; Molly's House</a></li>
+<li><a href="http://rubbahslippahsinitaly.blogspot.com/">Rubber Slippers In Italy</a></li>
+<li><a href="http://simplebotics.blogspot.com/">SimpleBotics</a></li>
+
+	</ul>
+</div>
+<div class="side-widget"><h2>Investing &amp; Speculating Resources</h2>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.caseyresearch.com/">Casey Research</a></li>
+<li><a href="http://www.coinflation.com/">Coinflation</a></li>
+<li><a href="http://www.johnmauldin.com/frontlinethoughts/">Frontline Thougths (John Mauldin)</a></li>
+<li><a href="http://www.kingworldnews.com/kingworldnews/King_World_News.html">King World News</a></li>
+<li><a href="http://www.goldgeologist.com/index.html">Mercenary Geologist</a></li>
+<li><a href="http://www.mineweb.com/">MineWeb</a></li>
+<li><a href="http://www.moderngraham.com/">Modern Graham</a></li>
+<li><a href="http://shareknow.net/companies" title="A website to analyze mining and natural resource companies">Resource Intelligence</a></li>
+<li><a href="http://www.resourceinvestor.com/Pages/default.aspx">Resource Investor</a></li>
+<li><a href="http://seekingalpha.com/">Seeking Alpha</a></li>
+<li><a href="http://shareknow.net/companies" title="A great site to find out about mining companies">Shareknow.net</a></li>
+<li><a href="http://www.stratfor.com/">Stratfor</a></li>
+<li><a href="http://www.northernminer.com/">The Northern Miner</a></li>
+<li><a href="http://www.tmxmoney.com/en/index.html">Toronto Stock Exchange</a></li>
+
+	</ul>
+</div>
+		<div class="side-widget">		<h2>Recent Posts</h2>		<ul>
+				<li><a href="http://www.101centavos.com/2011/12/07/caffe-break-walk-away-negotiating/" title="Caffe’ Break: Walk-away Negotiating">Caffe’ Break: Walk-away Negotiating</a></li>
+				<li><a href="http://www.101centavos.com/2011/12/05/how-to-buy-junk-silver-coins-on-ebay/" title="How To Buy Junk Silver Coins On eBay">How To Buy Junk Silver Coins On eBay</a></li>
+				<li><a href="http://www.101centavos.com/2011/12/03/emperor-for-a-month-proclaims-this-weeks-good-idea-and-links/" title="Emperor-For-A-Month Proclaims This Week’s Good Idea (and links)">Emperor-For-A-Month Proclaims This Week’s Good Idea (and links)</a></li>
+				<li><a href="http://www.101centavos.com/2011/12/02/junk-silver-in-a-household-economy/" title="Junk Silver In A Household Economy">Junk Silver In A Household Economy</a></li>
+				<li><a href="http://www.101centavos.com/2011/11/29/centavos-dividend-portfolio-uptrend-update/" title="Centavos Dividend Portfolio:  Uptrend Update">Centavos Dividend Portfolio:  Uptrend Update</a></li>
+				</ul>
+		</div>    </div>
 <!-- end second sidebar --></div>
 <!-- begin footer -->
 <div id="footer">
@@ -279,6 +390,7 @@ ul.scfw_text_img li:before, ul.scfw_16px li:before, ul.scfw_24px li:before, ul.s
     <span class="red">Magazine Basic</span> theme designed by <a href="http://themes.bavotasan.com"><span class="red">Themes by bavotasan.com</span></a>.<br>
     Powered by <a href="http://www.wordpress.org">WordPress</a>.
 </div>
+<script type="text/javascript" src="http://www.101centavos.com/wp-content/themes/magazine-basic/js/effects.js?ver=3.2.1"></script>
 <script type="text/javascript" src="http://www.101centavos.com/wp-content/plugins/sem-subscribe-me/js/scripts.js?ver=20090906"></script>
 
     <script type="text/javascript">
@@ -293,6 +405,7 @@ ul.scfw_text_img li:before, ul.scfw_16px li:before, ul.scfw_24px li:before, ul.s
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
   })();
 </script>
+
     
 <!-- tracker added by Ultimate Google Analytics plugin v1.6.0: http://www.oratransplant.nl/uga -->
 <script type="text/javascript">
@@ -333,39 +446,13 @@ pageTracker._trackPageview();
 				Sorry, your blog cannot share posts by email.			</div>
 		</form>
 	</div>
-<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201119.js" type="text/javascript"></script>
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201149.js" type="text/javascript"></script>
 <script type="text/javascript">
 st_go({blog:'17421194',v:'ext',post:'601'});
 var load_cmc = function(){linktracker_init(17421194,601,2);};
 if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 else load_cmc();
 </script>
-<script type="text/javascript" src="http://www.101centavos.com/wp-content/themes/magazine-basic/js/effects.js"></script> 
-<script type="text/javascript">
-/* <![CDATA[ */
-jQuery(function(){
-	jQuery("ul.sf-menu").supersubs({ 
-		minWidth:    12,
-		maxWidth:    27,
-		extraWidth:  1
-	}).superfish({ 
-		delay:       100,
-		speed:       250 
-	});	});
-/* ]]> */
-</script>
 <!-- Magazine Basic theme designed by Themes by bavotasan.com - http://themes.bavotasan.com -->
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-19470229-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 </body></html>
