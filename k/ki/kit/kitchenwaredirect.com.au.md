@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitchenwaredirect.com.au privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501132917id_/http%3A//www.kitchenwaredirect.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenwaredirect.com.au privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210005807id_/http%3A//www.kitchenwaredirect.com.au/Privacy-Policy) for the most accurate reproduction.*
 
 # Kitchenware Direct Australia - Privacy & Security Policy
 
@@ -12,18 +12,16 @@ Each customer's computer uses an IP (Internet Protocol) address when they are on
 
 Our web site also uses cookies. Cookies are small text files a web site stores on your computer and which are used to recognise repeat customers and enhance their experience when they return to the web site, storing information about you and your preferences. Only the information that you provide, or the choices you make whilst visiting the web site can be stored in a cookie. For example, a cookie cannot determine your e-mail address unless you choose to enter it in to the appropriate field.
 
-Allowing a web site to create a cookie does not give the Kitchenware Direct web site or any other web site access to the rest of your computer, and only the web site that created the cookie can read it. Cookies allow you to take advantage of the best features offered by web sites. For instance we use cookies to save your login details so you don't have to re-enter it each time you visit our site. If you prefer, you can set your web browser (such as Internet Explorer) to notify you when a site is using a cookie and/or to refuse it. [Click here](http://www.cookiecentral.com/faq/) (<http://www.cookiecentral.com/faq/>) to find out more about cookies, which are a standard feature of many web sites.
+Allowing a web site to create a cookie does not give the Kitchenware Direct web site or any other web site access to the rest of your computer, and only the web site that created the cookie can read it. Cookies allow you to take advantage of the best features offered by web sites. For instance we use cookies to save your login details so you don't have to re-enter it each time you visit our site. If you prefer, you can set your web browser (such as Internet Explorer) to notify you when a site is using a cookie and/or to refuse it. [Click here](http://www.cookiecentral.com/faq/) to find out more about cookies, which are a standard feature of many web sites.
 
 #### How We Collect Customer Information
 
 Kitchenware Direct also gathers information about customers through:
 
   * Shopping cart order forms 
-  * My Account contact profile update form 
-  * Online surveys (an opt-in choice) 
+  * My Account contact profile update form
   * Promotional contests (an opt-in choice) 
-  * Newsletter registration form (an opt-in choice) 
-  * Culinary program registration form (opt-in choice) 
+  * Newsletter registration form (an opt-in choice)
   * Contact Us email form
 
 
