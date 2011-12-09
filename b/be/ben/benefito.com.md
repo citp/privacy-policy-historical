@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301172821id_/http%3A//www.benefito.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209150427id_/http%3A//www.benefito.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Free online classifieds. Benefito free classified ads.
 
@@ -34,11 +34,6 @@ We use Google, a third party vendor, to serve ads when you visit our website. Go
 
 #### More Information
 
-If you have additional questions, please contact us at any time at support@benefito.com Or write to us at:
-
-Privacy  
-Benefito Inc.  
-P.O. Box 74  
-Schwenksville, PA 19473-1077   
+If you have additional questions, please contact us at any time at support@benefito.com.  
   
 ---|---
