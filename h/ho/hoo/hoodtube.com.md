@@ -1,19 +1,52 @@
-> *The following text is extracted and transformed from the hoodtube.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113194848id_/http%3A//www.hoodtube.com/t/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodtube.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209142032id_/http%3A//www.hoodtube.com/static/privacy) for the most accurate reproduction.*
 
-# HoodTube | Privacy Policy
+# Privacy Policy
 
-1\. Purpose This document sets out HoodTube's commitment to your privacy and to the protection of personal data (the "Data") collected and processed in connection with your use of the Website, under the terms and conditions set out in the General Terms of Use. 
+This document details important information regarding the use and disclosure of User Data collected onHoodTube.com.
 
-2\. Data collected We collect and subsequently process the Data that you voluntarily provide on the registration form on the Website including your user ID, a valid email address, and your date of birth. The only Data automatically collected by the Website is your IP address (the address of your computer). Please note that whether or not you are a registered user, the Website may implement an automatic tracking process (cookie), which you may block by changing your browser settings. 
+The security of your Data is very important to Pornini.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
-3\. Purpose of processing Data indicated on the Website as mandatory is required in order to use the Website’s features (video uploads, comments, etc). Data automatically collected by the Website allows us to compile statistics on web page visits.
+This site expressly and strictly limits its membership and/or viewing privliges to adults 18 years of age and over or having attentaind the age of majotity in their comunity. All persons who do not meet tis criteria are strictly forbiden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
-4\. Data recipients Your Data is not transmitted to third parties. However, HoodTube may release Data if the law requires it to do so or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant or to protect HoodTube’s rights and interests. It is HoodTube’s policy, whenever possible and legally permissible, to promptly notify you upon receipt of a subpoena, and not produce your Data until approximately two weeks after receipt of the subpoena, so that you will have adequate opportunity to move to quash the subpoena in court. 
+**DATA COLLECTED**
 
-5\. Data security HoodTube attaches great importance to the security of your Data, and takes all appropriate steps to limit the risk that it may be lost, damaged or misused. 
+Personal Information:
 
-6\. Data retention Data is stored on the premises of the Website host and is kept only as long as necessary for the purposes set out above. After that point, data is kept only for statistical purposes and shall not be used for any other reason. 
+  
+1\. Non-Registered users can watch videos without registering and without any information being collected and processed. Howverver the visitor's IP address will be recorded in the event that there is any misappropriationof information and/or content.  
+2\. Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.  
+3\. Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.  
+4\. Cookies: When you visit HoodTube.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Pornini.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.  
+5\. Log File Information: When you visit HoodTube.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.  
+6\. Emails: If you contact us, we may keep a record of that correspondence.
 
-7\. Youth Restrictions and Parental Control Children under the age of 13 are not permitted to register with HoodTube. It is HoodTube's policy not to collect any information from anyone under the age of 13. In any case, you affirm that you are over the age of 13, as the Website is not intended for children under 13. If you are under 13 years of age, do not use or access the HoodTube website at any time or in any manner. If you are the parent or legal guardian of a child under 13, and that child has somehow registered with HoodTube, please send an e-mail to hoodtube@gmail.com for instructions on how to cancel your child's registration. In the e-mail, please provide your full name and address, your child's full name and address, your relationship to the child, your daytime and evening telephone numbers, your email address and a signed statement that you are the child's parent or legal guardian. HoodTube will use this information only to verify that you are the child's parent or legal guardian and for no other purposes. 
+**  
+USES**
 
-8\. Your rights You are entitled to access and correct your Data by requesting to do so via the Contact us section
+1\. Your Personally identifiable information submitted to Hoodtube.com is used to provide to the user the website's features and special personalised features.
+
+2\. Your chosen usernaname (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the Pornini.com private mail, etc. Other Users can contact you through, private messages.
+
+3\. Any videos that you submit to HoodTube.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
+
+4\. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
+
+5\. We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
+
+6\. We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the HoodTube.com user-experience.
+
+**DISCLOSURE OF INFORMATION**
+
+1\. if under duty to do so HoodTube.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Hoodtube.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is HoodTube.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
+
+2\. Should you deliberatlly upload any illegal material Hoodtube.com shall forward all available information to all relevant authrities and this without notice.
+
+3\. We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+
+**SECURITY**
+
+Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. Unfortunately, the transmission of information via the Internet is not completely secure .Hoodtube.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to HoodTube.com and you do so at your own risk.
+
+**YOUR RIGHTS**
+
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to hoodtube@gmail.com[@gmail.com](mailto:pornini@gmail.com).
