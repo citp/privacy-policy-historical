@@ -1,59 +1,105 @@
-> *The following text is extracted and transformed from the aspen.edu privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728051304id_/http%3A//www.aspen.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspen.edu privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209114632id_/http%3A//www.aspen.edu/Privacy-Policy) for the most accurate reproduction.*
 
-# Online Graduate, Undergraduate, and Certificate Programs - Aspen University
+# 
 
-## Privacy Policy  
+## last revised: july 28, 2011
 
+## 1\. general.
 
-### **FERPA**
+Aspen University Inc. respects and is committed to protecting the privacy of every individual who uses the website: www.aspen.edu (the "Website"). This Privacy Policy governs the manner in which we collect, use, maintain and disclose information collected from the users of the Website. This Privacy Policy applies to the Website and all services offered by us through the Website (the “Services”).Throughout this Private Policy, Aspen University Inc. shall be referred to as "Company," "we" or "us". The Website user will be referred to as "You", "User(s)" or "Student(s)".
 
-**The Family Rights and Privacy Act of 1974** , as amended, (commonly known as the Buckley Amendment) is a federal law which provides that schools will maintain the confidentiality of student education records. The law basically says that no one outside the institution shall have access to students' education records nor will the institution disclose any information from those records without the written consent of students.
+## 2\. children's privacy
 
-In compliance with FERPA, the following statement reflects Aspen University's policy:
+This Website is not directed to children under the age of 13 and we do not knowingly collect personal information on this Website from children under the age of 13. If we become aware that we have inadvertently received personal information from a visitor under the age of 13, we will delete the information from our records.
 
-_The following directory information may be released by telephone:  
-a) student's dates of attendance;   
-b) date of graduation and degree or certificate earned. _
+## 3\. information collected from you
 
-_Other kinds of directory information, such as a student's address, telephone listing, program of study, awards received, and the most recent previous education agency or previous institution attended, will be released only in response to a written request._
+To qualify to receive access to the Website and/or Services, subject to the requirements set forth in our Terms of Service we gather personal information from you in order to begin your application to Aspen University. This information may include, but is not necessarily limited to, your first and last name, e-mail address, postal mailing address, mobile telephone number and other demographic information, as well as credit/debit card information for payment and/or age verification purposes (collectively, "Personally Identifiable Information" or "PII". IT IS IMPORTANT THAT YOU SUPPLY US WITH VALID, COMPLETE, CURRENT AND ACCURATE PERSONAL IDENTIFIABLE INFORMATION; SUCH PII WILL BE USED TO SUPPLY THE SERVICES TO YOU AND TO COLLECT PAYMENT FOR SUCH SERVICES (WHERE APPLICABLE). By submitting your PII, you authorize us to confirm the accuracy of the information you submitted against government-issued identification. We may also collect information related to your online activities to more accurately target and measure our advertising inventory, including, without limitation, the places you visit at the Website, content accessed and associated marketing metrics (such as e-mails opened and responded to) (collectively, your "Marketing Profile").
 
-_Aspen University reserves the right to refuse the above information if the reason for the request is not considered to be a sufficient need to know. Information regarding the student's record: grades, courses, GPA, social security number and other personal information will not be released without the student's written consent._
+## 4\. links to third-party websites
 
-Each student has the right to inform Aspen University that any or all of the information is not to be released. This status is binding until such time that Aspen University is notified in writing by the student to permit release of "directory information".   
+In addition, you may find links to other websites from our Website. Please be aware that the Company is not responsible for the privacy practices of any third parties and/or websites. We strongly encourage you to be aware of when you leave our Website and/or supply your Personally Identifiable Information to any third party, and to read the privacy policies of each and every third party and/or website before using such third party website(s) and/or before supplying any PII to them. This Privacy Policy applies solely to information collected by this Website.
 
+## 5\. how we use and share the information we collect
 
-**Parental Access to Children's Education Records:**  
-At Aspen University, parents or gaurdians have no inherent rights to inspect a student's education record. The right to inspect is limited solely to the student. Records will be released to parents only under the following circumstances: (1) through the written consent of the student, (2) in compliance with a subpoena, or (3) by producing a copy of the most recent Federal Income Tax form showing that the student was claimed as a dependent. 
+You understand and agree that the Company may use and share your PII with third parties as needed to supply the Service(s) to you. For example, we may notify you in regards to your account or transactions with us. 
 
-**Posting of Grades by Faculty:**  
-The public posting of grades either by the student's name, institutional student identification number, or security number without the student's written permission is a violation of FERPA.   
+You understand and agree our advertising relationships allow us to make the Company, its Website and/or the Service(s) available to you. Accordingly, the Personally Identifiable Information that you submit to the Company remains your property, but by participating in the Company Website and/or Service(s), you grant us the right to use such PII and your Marketing Profile for multiple marketing and/or research purposes, including, but not limited to, sharing such PII with third parties. These providers may include, but are not limited to, providers of online, e-mail, telemarketing and direct mail marketing services and applications. Such services and applications may include, but not be limited to, lookup and reference, data enhancement, overlay, appending, suppression and validation.
 
+By submitting your data to Aspen University, you are indicating that you have read and agree to this Privacy Policy and its Terms of Service, and you further acknowledge and agree that you understand how and under what circumstances your Personally Identifiable Information will be used. You also agree to receive marketing promotions and other solicitations from this Website.
 
-### **  
-Online Privacy**
+In addition to marketing purposes, the Company reserves the right to release your Personally Identifiable Information if: (a) we believe that the Website and/or Service(s) is being or has been used in violation of the Terms of Service and/or to commit unlawful acts; (b) your Personally Identifiable Information is subpoenaed or requested by a court, governmental agency or law enforcement entity; or (c) the Company is sold, transferred and/or acquired. Moreover, you hereby consent to the disclosure of any information, record or communication from you to any third party when the Company determines, in its sole discretion, that the disclosure is appropriate or necessary, for example, to share your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time.
 
-Aspen University is committed to safeguarding your online privacy. This privacy policy explains what data we collect from visitors to our Web site and how that information is used.
+In addition, you agree that by enrolling in Aspen University such act constitutes a purchase, inquiry and/or application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. ("Rule"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, the Company retains the right to contact you via telemarketing in accordance with the Rule. To the extent that your credit card-specific information and/or social security number is collected by the Company, said information will be transmitted securely, kept in confidence and will not be shared with any third parties (other than third party service providers - such as payment processors - who provide services to the Company and/or consumer credit agencies) without your prior informed consent. In addition, by submitting your credit card information to us, you authorize the Company to periodically verify by various methods that your credit card account continues to be valid and active, including, without limitation, charging and thereafter immediately crediting a small sum to the credit card. Apart from the foregoing uses, the Company and its affiliates and/or subsidiaries reserve the right to share with third parties the fact that we/they have credit card information on file for you, but such specific credit card information shall not be shared by us/them with any third parties without your prior authorization
 
-Aspen University is the sole owner of the information it gathers on its site. Aspen University will only share your information with outside parties in ways that are described in this privacy statement or if we are required to do so by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law, cooperate with law enforcement agencies, or comply with a legal process served on our Web site.
+You may receive an e-mail confirming your inquiry, application or enrollment to/in Aspen University. The Company reserves the right to collect and retain data relating to e-mail marketing sent to, and opened by, individuals on our marketing list(s). 
 
-**Application, Enrollment, Contact Us, and Information requests:**  
-We collect contact information such as name, mailing address, email address, phone number, and company information such as company name and Web site URL. This information is used to follow-up on requested information, generate invoices as required, and to conform to the rules of operation as outlined by our accrediting agency. 
+## 6\. privacy complaints
 
-We use email links located on the "contact us" page and other areas of the site to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties with your explicit permission.
+If you believe that we have not complied with this Privacy Policy, please contact us at: [privacy@aspen.edu](mailto:privacy@aspen.edu)
 
-**Self-assessment Surveys:**  
-Aspen University makes a series of self-assessment surveys available to prospective students to help them make decisions regarding their career and education. When you visit our site, you may voluntarily complete any or all of these surveys. The surveys solicit information that is electronically evaluated for the purpose of recommending career paths and determining whether distance education might be a good way for you to learn. 
+Please describe in as much detail as possible the ways in which you believe that this Privacy Policy has not been complied with. We will investigate and respond to your complaint as promptly as possible under the circumstances.
 
-Your responses to the survey are saved in a database on the Aspen University server when you click the Submit button at the bottom of each survey page. However, no information identifying you as an individual is collected or stored. Therefore, your responses to the survey are completely anonymous. We have no way of knowing who generated which data or of contacting you. You will never receive any solicitation or other communication from Aspen University based on information provided in this survey, and Aspen will not sell or share this information with other individuals or organizations.
+If you feel that your inquiry has not been satisfactorily addressed, you may contact the Direct Marketing Association at [privacypromise@the-dma.org](mailto:privacypromise@the-dma.org) or in writing at:
 
-**Online Classroom (www.ecreateyourself.net):**  
-The ecreateyourself.net web site is the online classroom of Aspen University. Access is granted through a secure login form. Information that you provide on the website is viewable only by your classmates, the facilitator, and to those employees who need it in order to perform their jobs. Participation and conduct in the ecreatyourself.net classroom is governed by its own [usage policy](https://web.archive.org/web/20090728051304id_/http%3A//www.aspen.edu/termsofuse.htm).
+Direct Marketing Association: Attn: Privacy Promise  
+615 L St. NW, Suite 1100  
+Washington, DC 20036
 
-**Links:  
-**The Aspen University Web site contains links to other Web sites. Please note that these Web sites' privacy policies may differ from those of Aspen University. We encourage you to read the privacy statement of any Web site you may visit.
+## 7\. how to access or modify your information
 
-**Security:**  
-Protecting your privacy and your information is a top priority at Aspen University. We have taken careful measures to prevent the loss, misuse, and alteration of your information. Once we receive your information that was entered into our web site, it is stored behind a firewall. All Aspen University employees are aware of our privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs. 
+We strive to keep all Personally Identifiable Information current, accurate and complete. You are always fully in control of the PII that we maintain to service you. You can change your PII at any time and as often as necessary. You can also request that any Personally Identifiable Information be deleted. Certain Personally Identifiable Information may be withheld or exempted from deletion if this is required by law or is part of a fraud investigation, or as otherwise described above in the "Use of Your Personally Identifiable Information Obtained By Company" section.
 
-**Notification of Changes:**  
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through this Web site, we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already collected through our site, we will post a prominent notice on our web site notifying users of the change.
+You may access and modify your Personally Identifiable Information by contacting us at: [privacy@aspen.edu](mailto:privacy@aspen.edu)
+
+## 8\. opt-out 
+
+You may opt-out of our collection, use and disclosure of your Personally Identifiable Information at any time, subject to contractual, academic, legal or technical restrictions and reasonable notice. Note that if you opt-out of certain uses of your Personally Identifiable Information, we may no longer be able to provide certain Services. You may not be permitted to opt-out to certain necessary collection, uses and disclosures, for example, but not limited to, educational announcements, maintaining reasonable academic, business and transaction records and disclosures to government entities as required for us to comply with applicable laws. Click here to opt-out.
+
+You can choose to no longer receive marketing communications from us and you may express your choice where indicated on the applicable email or other communication or click here to opt out. Please note, however, that such a request will only remove you from our list and the list of any third parties performing services on our behalf. We are not responsible for the use any other party may make of your Personally Identifiable Information once it has been transferred in accordance with this Privacy Policy and you will need to contact such entity to have your Personally Identifiable Information removed from their database.
+
+## 9\. special notification for california residents
+
+Individuals who reside in California and have provided their Personally Identifiable Information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests must be submitted to us at the following emailing address: CAPRIVACY@aspen.edu.
+
+This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified above.
+
+## 10\. group aggregate data
+
+The Company reserves the right to collect, use, transfer and/or sell aggregate or group data about the users of our Website and Services for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of the Company's users as a group, without disclosing Personally Identifiable Information. By submitting your Personally Identifiable Information to us, and/or using, the Website and/or Service(s), you agree to allow the Company to transfer and/or sell such aggregate data to third parties.
+
+## 11\. log files
+
+Like most website servers, we use log files. Log files include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. Log file information is not linked to Personally Identifiable Information.
+
+## 12\. use of cookies
+
+A cookie is a text file stored on a user's hard drive containing information about the respective user. Cookies can provide great convenience for users at many websites and is required to use the Company Website and Service(s). For instance, by associating a cookie with your computer which is identified and processed by our servers, you need not log in more than once at the Website, thereby saving time and convenience while using our servers. In particular, we may use persistent and/or session cookies at the Website. Persistent cookies do not automatically expire, but persist to permit the Company to register future visits at the Website with your profile in our servers. In addition, cookies associated with the Company may be read, aggregated and used with cookies associated with other affiliate Internet properties.
+
+In addition, we and/or third parties that advertise at the Website and through other types of media available at or through the Website may use cookies and pixel gifs to track and target the interests of our users to enhance the experience on our Website and/or for advertising tracking purposes.
+
+You can set your browser to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. For further information on cookies please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/).
+
+## 13\. our security measures
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Although we take reasonable technological precautions to protect your Personally Identifiable Information, no data transmission over the Internet can be guaranteed to be 100% secure.
+
+When a user submits sensitive personal and payment information via the Website, the information is protected both online and off-line. When our registration, download or purchase process prompts a user to enter sensitive information (such as a credit card or social security number), the information is encrypted and is protected with industry-standard encryption - SSL technology. While we use SSL encryption to protect sensitive information online, we also use commercially reasonable measures to protect user information off-line. Access to user information is restricted in our offices and areas where such information is stored. Only employees and authorized individuals who need access to the information to perform a specific job are granted access to Personally Identifiable Information. If you have any questions about the security at our Website, please contact us at security@aspen.edu
+
+## 14\. changes to this privacy policy
+
+We reserve the right, at our sole discretion and at any time, to change, modify, add or remove portions of this Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for changes. Your continued use of the Company Website and/or Service(s) following the posting of changes to this Privacy Policy constitutes your acceptance of such changes. If you do not agree to the terms of this Privacy Policy, you may not use and/or access the Website and/or Service(s).
+
+## 15\. your acceptance of this privacy policy
+
+By using this Website and/or Service(s), you agree to all of the terms and conditions of the Company Privacy Policy, as well as all other policies contained on the Website and relating to the Services.
+
+## 16\. questions? contact us
+
+If you have any questions about our privacy practices or your dealings with the service, please do not hesitate to contact us at:
+
+Aspen University  
+720 South Colorado Boulevard  
+Suite 1150N  
+Denver, Colorado 80246  
+[questions@aspen.edu](mailto:questions@aspen.edu)
