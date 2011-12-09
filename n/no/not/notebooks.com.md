@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the notebooks.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525074438id_/http%3A//notebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notebooks.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209213827id_/http%3A//notebooks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Notebooks.com : Notebooks.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at privacy@notebooks.com.
 
