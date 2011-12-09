@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630093716id_/http%3A//www.nimsoft.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209055846id_/http%3A//www.nimsoft.com/legal) for the most accurate reproduction.*
 
-# Nimsoft Unified Management | Nimsoft Privacy & Security Policy | Nimsoft Unified Manager
+# Privacy and Security Policy − Nimsoft
 
 ## Your Privacy
 
