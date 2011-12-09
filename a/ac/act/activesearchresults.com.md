@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the activesearchresults.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225000509id_/http%3A//www.activesearchresults.com/help/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activesearchresults.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209162308id_/http%3A//www.activesearchresults.com/help/privacypolicy.php) for the most accurate reproduction.*
 
 # Active Search Results - Privacy Policy
-
----  
-|  [](https://web.archive.org/)
-
-#### Internet Search Engine with ASR Page Ranking Technology
-
-  
-
-
-* * *
-
-* * *
-
-[Request Password](https://web.archive.org/help/requestpassword.php) | [Search Tips](https://web.archive.org/help/searchtips.php) | [FAQ](https://web.archive.org/help/faq.php) | [About ASR](https://web.archive.org/help/about.php) | [Link To Us](https://web.archive.org/help/linktous.php) | [News](https://web.archive.org/news/index.php) | [Contact Us](https://web.archive.org/help/contactus.php)
-
-### Privacy Policy
-
-  
-|  |  Active Search Results is committed to respecting and  
-protecting your personal privacy.
 
   
 
@@ -69,7 +49,33 @@ What Security Measures Are in Place to Protect Your Information?
   
     
 
-Active Search Results operates secure data networks protected by industry standard firewall and password protection. We have security measures in place to attempt to protect against the loss, misuse or alteration of your user data. Only certain employees have access to the information you provide us.
+Active Search Results operates secure data networks protected by industry standard firewall and password protection. We have security measures in place to attempt to protect against the loss, misuse or alteration of your user data. Only senior level employees have access to the information you provide us.
+
+* * *
+
+  
+Members Opt-Out Options:
+  
+    
+
+1\. All emails sent from Active Search Results contain a clearly marked one click opt-out link. Members only have to click on the opt-out link once to opt-out. No other steps are required. One click opt-outs are processed in real time. The link can also be copied and pasted into a browser for real time opt-out processing.
+
+2\. Members can opt-out by forwarding any one of Active Search Results' emails to support[at]activesearchresults[dot]com and typing unsubscribe in the subject or body of the email. Unsubscribe emails are processed within 24 hours and before the next mailing.
+
+3\. Members can opt-out by replying to any one of Active Search Results' emails and typing unsubscribe in the subject or body of the email. Unsubscribe emails are processed within 24 hours and before the next mailing.
+
+4\. Members can opt-out by sending a new email to support[at]activesearchresults[dot]com and typing unsubscribe in the subject or body of the email. Unsubscribe emails are processed within 24 hours and before the next mailing.
+
+5\. Members can opt-out by sending a blank email to optout[at]activesearchresults[dot]com, unsubscribe[at]activesearchresults[dot]com or cancel[at]activesearchresults[dot]com. Note that the From address in the member's email must be the same email address that was used to sign up at Active Search Results. Unsubscribe emails are processed within 24 hours and before the next mailing.
+
+6\. Members can sign-in at Active Search Results' website and select the Delete Membership option from the Member's Area tab. Membership deletions from the website are processed in real time.
+
+7\. Active Search Results maintains Feedback Loops (FBL) with multiple ISP's. FBL opt-outs are processed within 24 hours and before the next mailing.
+
+8\. Active Search Results has recently implemented the List-Unsubscribe Header feature in its emails and will start using it in production during April of 2011. Emails that are received using the List-Unsubscribe Header option are processed within 24 hours and before the next mailing.
+
+9\. Opt-out requests can be sent to Active Search Results' main office via US postal mail. Active Search Results' postal address is displayed at the bottom of every email sent.  
+520 Maiden Court, Middletown Delaware 19709
 
 * * *
 
@@ -93,12 +99,4 @@ If you have any questions or concerns about this privacy policy or the practices
 * * *
 
   
-Policy updated and effective date: August 06, 2009 |   
----|---|---  
-  
-
-
-* * *
-
-[Home](https://web.archive.org/) | [About ASR](https://web.archive.org/help/about.php) | [Privacy Policy](https://web.archive.org/help/privacypolicy.php) | [Contact Us](https://web.archive.org/help/contactus.php) | [Link to Us](https://web.archive.org/help/linktous.php)  
-© 2010 Active Search Results
+Privacy Policy effective date: August 06, 2009 Privacy Policy last updated: April 20, 2011
