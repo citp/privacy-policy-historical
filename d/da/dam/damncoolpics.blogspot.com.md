@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the damncoolpics.blogspot.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126163937id_/http%3A//damncoolpics.blogspot.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damncoolpics.blogspot.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209131922id_/http%3A//www.damncoolpictures.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
 
-# Damn Cool Pics: Privacy Policy
+# Privacy Policy ~ Damn Cool Pictures
 
 This Privacy Policy is intended to describe how your personal information is processed and used, and Damn Cool Pics will make every effort to ensure that its activities keep within the spirit of this Privacy Policy.
 
@@ -15,3 +15,5 @@ We use Google AdSense and other third-party advertising companies to serve ads w
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
+
+Posted in: 
