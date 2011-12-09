@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610174113id_/http%3A//www.nationalexpresseastanglia.com/footers/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209022234id_/http%3A//www.nationalexpresseastanglia.com/footers/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy indicates National Express East Anglia's (NXEA) procedures regarding the collection and use of your personal information. If you have any requests or queries concerning your personal information then please [**contact us**](https://web.archive.org/about_us/contact_us "Contact Us").
+This Privacy Policy indicates National Express East Anglia's (NXEA) procedures regarding the collection and use of your personal information. If you have any requests or queries concerning your personal information then please [**contact us**](https://web.archive.org/about-us/contact-us "Contact Us").
 
 This Privacy Policy will inform you of the following:
 
@@ -60,7 +60,7 @@ You may choose not to receive any promotional communications from NXEA, if you w
 
 #### Changes / Modification
 
-You may make a request to us to change or modify your information at any time.  Further, if you are aware at any time that any of the information that you have given to us has changed then please let us know at the earliest opportunity of the changes that need to be made to your information. If you would like guidance on how to change the information that we hold on you please contact our [**customer relations team**](https://web.archive.org/about_us/contact_us/get_in_touch/customer_relations "Customer Relations").
+You may make a request to us to change or modify your information at any time.  Further, if you are aware at any time that any of the information that you have given to us has changed then please let us know at the earliest opportunity of the changes that need to be made to your information. If you would like guidance on how to change the information that we hold on you please contact our [**customer relations team**](https://web.archive.org/about-us/contact-us/get-in-touch/customer-relations "Customer Relations").
 
 #### Changes to this Privacy Policy
 
