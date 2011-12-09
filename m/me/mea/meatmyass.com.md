@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meatmyass.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425010821id_/http%3A//meatmyass.com/MCE/mma/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meatmyass.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209205737id_/http%3A//www.meatmyass.com/MCE/mma/0/privacy) for the most accurate reproduction.*
 
 # MeatMyAss.com :: Privacy Policy
 
