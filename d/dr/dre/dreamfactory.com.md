@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamfactory.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514111102id_/http%3A//dreamfactory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamfactory.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209160950id_/http%3A//www.dreamfactory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DreamFactory
 
