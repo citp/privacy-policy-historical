@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the garagegames.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420132919id_/http%3A//www.garagegames.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garagegames.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209221732id_/http%3A//www.garagegames.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GarageGames.com
 
 ### GarageGames Privacy Statement
 
-Last Updated: January 19, 2011
+Last Updated: August 8, 2011
 
 GarageGames.com is an Internet service (the "Service") operated by GarageGames LLC. ("GarageGames," "we," or "us").
 
@@ -101,8 +101,8 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 
 If you have any questions about this summary, or our information practices, please contact us by email or postal mail below:
 
-**Privacy Officer**  
-9900 Covington Cross Road
-
-Las Vegas, Nevada 89144  
- _[legal@GarageGames.com](mailto:legal@GarageGames.com)_
+GarageGames, LLC  
+7674 West Lake Mead Blvd, Suite 210  
+Las Vegas, Nevada 89128  
+Attention: Privacy Officer  
+Email: [legal@GarageGames.com](mailto:legal@GarageGames.com)
