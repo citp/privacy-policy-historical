@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2010-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100718224506id_/http%3A//binweevils.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209100929id_/http%3A//www.binweevils.com/privacy.php) for the most accurate reproduction.*
 
 # Bin Weevils
 
@@ -34,7 +34,8 @@ We provide kids with the opportunity to email us with their opinions and comment
 Cookies are information files that your web browser places on the hard drive of your computer when you visit certain websites. We are able to access only the cookies that our Site places on your computer and we are only able to determine the type of computer operating system and browser that you are using. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to "remember" users activities on a website as well as users visits to a website. At binweevils.com, cookies are used to determine the number of unique visitors to our Site over a given period. We do not store any personal information in the cookies nor do we link or combine information collected through cookies to any personal information submitted by users when participating in our activities. We collect this information in order to improve access to our content based on our visitors' browsers and operating system types to make our content available to as many kids as possible. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser.   
 Log data collected on web servers within our control also supplies us with non-personally identifiable information about the number of visits to different pages on our Site. We use this information only for improving our Site. We do not link the "log data" collected to personally identifiable information submitted by users when participating in our activities.   
 The information collected through cookies and log data may be passed to our Research Department or to third party advertisers or business partners.   
-If you do not wish us to use cookies for the purposes explained above, please inform us in writing using the contact us using the form in the contact us section of this website
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to BinWeevils.com. For information on how to opt out of this, please visit: [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).  
+If you do not wish us to use cookies for the purposes explained above, please inform us in writing using the contact us form in the help section of this website
 
 8\. Transfer of Personal Data  
 We may also transfer your personal data collected to any country, including countries outside the European Economic Area, for any of the purposes described above. Your provision of personal data to us through use of this Site is understood by us to constitute consent to such transfer unless you inform us of your wish not to transfer your personal data in this manner by contacting us using the form in the contact us section of this website.
@@ -59,9 +60,7 @@ If you have any questions, comments or concerns regarding our privacy policy and
 
 Alternatively you can write to: 
 
-Standards and Practices  
-Bin Weevils Limited   
-The Clockhouse  
-220 Latimer Road   
-LONDON  
-W10 6QY 
+Bin Weevils Limited  
+83 Victoria Street  
+London   
+SW1H 0HW
