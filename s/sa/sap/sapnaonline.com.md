@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sapnaonline.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611070535id_/http%3A//www.sapnaonline.com/index.php%3Foption%3Dcom_content%26id%3D70%26name%3DPrivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapnaonline.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209114513id_/http%3A//www.sapnaonline.com/index.php%3Foption%3Dcom_content%26id%3D70%26name%3DPrivacy-policy) for the most accurate reproduction.*
 
-# Sapna Online
+# Sapna Online Book Store| Buy Books Online| Online Book Shop India| Online Music store Bangalore
 
 **PRIVACY POLICY**
 
