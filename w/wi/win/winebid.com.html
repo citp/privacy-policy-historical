@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the winebid.com privacy policy that was archived on 2011-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625134123id_/http%3A//www.winebid.com/About/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winebid.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209052421id_/http%3A//www.winebid.com/About/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head profile="http://a9.com/-/spec/opensearch/1.1/">
 
@@ -8,7 +8,7 @@
 		
 		<!-- s-BORDEAUX -->
 		<!-- ds-dionysus -->
-		<!-- b-2642 -->
+		<!-- b-2758 -->
 		
 		<link rel="shortcut icon" href="/Images/favicon.ico" type="image/x-icon">
 		<link rel="apple-touch-icon" href="/Images/Mobile/iphone-icon.png">
@@ -28,10 +28,10 @@
 
 		<link href="/Stylesheets/Account.css?V.1.0.7" rel="stylesheet" type="text/css">	
 		<link href="/Stylesheets/Navigation.css?V.1.0.8" rel="stylesheet" type="text/css">	
-		<link href="/Stylesheets/SearchSidebar.css?V.1.0.7" rel="stylesheet" type="text/css">	
+		<link href="/Stylesheets/SearchSidebar.css?V.1.0.9" rel="stylesheet" type="text/css">	
 		<link href="/Stylesheets/Registration.css?V.1.0.5" rel="stylesheet" type="text/css">	
 		<link href="/Stylesheets/jquery-ui-1.8.9.custom.css?V.1.0.1" rel="stylesheet" type="text/css">	
-		<link href="/Stylesheets/Site.css?V.1.0.8" rel="stylesheet" type="text/css">
+		<link href="/Stylesheets/Site.css?V.1.1.1" rel="stylesheet" type="text/css">
 		
 		<link title="WineBid.com" rel="search" type="application/opensearchdescription+xml" href="/searchProvider.xml">
 	
@@ -43,6 +43,8 @@
 			// path variable available to
 			// all javascript files
 			var appPath = "/";
+			// url for posting JS errors to the server
+			var clientErrorReportingUrl = "/ReportJavaScriptError";
 
 		</script>
 			
@@ -50,8 +52,10 @@
 		<script src="/Scripts/jquery-ui-1.8.12.custom.min.js" type="text/javascript"></script>
 		<script src="/Scripts/jquery.hoverIntent-r6.min.js" type="text/javascript"></script>
 		<script src="/Scripts/jquery.validate-1.8.min.js" type="text/javascript"></script>	
-		<script src="/Scripts/xVal.jquery.validate.js?V1.0.1" type="text/javascript"></script>		
-		<script src="/Scripts/winebid.common.js?V1.0.7" type="text/javascript"></script>
+		<script src="/Scripts/xVal.jquery.validate.js?V1.0.2" type="text/javascript"></script>		
+		<script src="/Scripts/winebid.common.js?V1.1.4" type="text/javascript"></script>
+
+		
 
 		
 			<script type="text/javascript">
@@ -175,7 +179,7 @@
 </div>
 
 		<ul class="accountMenu">
-	
+		
 			
 			<li>
 			
@@ -219,13 +223,110 @@
 						<div id="col2">
 							
 							
-	<div id="auctionClock">	
+	<div id="auctionClock">
+		
+	<script language="javascript" type="text/javascript">
+
+		$(document).ready(function () {
+			$('#language').change(function () {
+				// Submit language change event to Google Analytics
+				var new_language = $('#language').val();
+				var language_action = 'Switch to ' + new_language;
+				_gaq.push(['_trackEvent', 'Language Switch', language_action]);
+
+				// prevent control modification on submit
+				formSubmitted = true;
+				$('#languageForm').submit();
+			});
+
+			var lastLanguageHover = new Date();
+			var languageSelectActive = false;
+			var formSubmitted = false;
+			$('#languageForm table').hoverIntent(
+				function () {
+					lastLanguageHover = new Date();
+					$('#languageName').hide();
+					$('#language').show();
+				},
+				function () {
+					window.setTimeout(function () {
+						var currentDate = new Date();
+						// only hide if 2 seconds have elapsed since last hover
+						// and the user is not still over the language selector
+						if (formSubmitted == false && languageSelectActive == false && (currentDate - lastLanguageHover) > 2000) {
+							$('#language').fadeOut(400, function () {
+								$('#languageName').fadeIn();
+							});
+						}
+					}, 2100);
+				}
+			);
+
+			// track hover over select box separately
+			$('#language').hover(
+				function () {
+					languageSelectActive = true;
+				},
+				function () {
+					languageSelectActive = false;
+				}
+			);
+		});
+
+	</script>
+	<style>
+		#languageForm img {
+			margin: 7px 2px 0 17px;
+			padding: 0;
+		}
+		#languageForm button {
+			margin: 0 0 0 5px;
+			height: auto;
+			font-size: 10px;
+		}
+		#languageForm select,
+		#languageName {
+			font-size: 11px;
+			height: 17px;
+			line-height: 13px;
+			margin: 0;
+			padding: 0;
+		}
+		#languageName {
+			margin: 6px 0 0 4px;
+			display: inline-block;
+		}
+	</style>
+	<script language="javascript">
+		document.write("<style>#language { display: none; } </style>");
+	</script><style>#language { display: none; } </style>
+	<form action="/SwitchLanguage?url=http%3A%2F%2Fwww.winebid.com%2FAbout%2FPrivacyPolicy" id="languageForm" method="post">
+		<noscript>
+					<td>
+						<button name="submitSwitchLanguage" type="submit">Select</button>
+					</td>
+				</noscript><table style="float:left; margin-top: -2px;">
+			<tbody><tr>
+				<td style="vertical-align:top;"><img alt="English" src="/Images/icons/us.png" title="English"></td>
+				<td style="vertical-align:top;">
+					<script language="javascript">
+						document.write('<span id="languageName">US English</span>');
+					</script><span id="languageName">US English</span>
+					<select id="language" name="language"><option selected="selected" value="English">US English</option>
+<option value="Chinese">中文</option>
+</select>
+				</td>
+				
+			</tr>
+		</tbody></table>
+	</form>
+
         <span style="color: #6e6b5f">
 			Auction ends in
 		</span> 
         
 		    <span style="color: #000">
-	    1 day, 12 hours and 18 minutes
+	    2 days, 21 hours and 35 minutes
         </span>
 	</div>
 
@@ -347,7 +448,10 @@
 						<a href="/Help/ContactUs">Contact Us</a> <a href="/About">About WineBid</a> 
 					</div>
 					<div style="float: left;">
-						<a style="float: left;" href="http://www.facebook.com/pages/WineBidcom/165919296776686" target="_blank"><img alt="Join us on Facebook" src="/Images/icons/facebook-link.png" title="Join us on Facebook"></a>
+						<a style="float: left; margin-right:5px;" href="https://www.facebook.com/pages/WineBidcom/165919296776686" target="_blank"><img alt="Join us on Facebook" src="/Images/icons/facebook-link.png" title="Join us on Facebook"></a>
+					</div>
+					<div style="float: left;">
+						<a style="float: left;" href="https://www.twitter.com/winebiddotcom" target="_blank"><img alt="Follow us on Twitter" src="/Images/icons/twitter-link.png" title="Follow us on Twitter"></a>
 					</div>
 				</div>
 				<div style="float: right"><a href="/About/TermsAndConditions">Terms &amp; Conditions</a> <a href="/About/PrivacyPolicy">Privacy Policy</a> © 2011 WineBid.com</div>
