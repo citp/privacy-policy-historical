@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622164028id_/http%3A//www.nmm.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209145852id_/http%3A//www.nmm.ac.uk/privacy) for the most accurate reproduction.*
 
-# Privacy : Website policies : NMM policies : About us : NMM
+# Privacy : Website policies : Museum policies : About us : NMM
 
-Your information | Tracking our visitors | Cookies | Content updates by email | Newsletter | Online donations | Booking tickets online | Further information and requests
+Your information | Tracking our visitors | Cookies | Content updates by email | Newsletter | Online donations | Booking tickets online | Facebook 'Likes' | Site search | Further information and requests
 
 ### Introduction
 
@@ -12,7 +12,7 @@ The National Maritime Museum respects the privacy of every individual who visits
 
 Information about you may be collected when you visit our websites either by automatic tracking devices (see 'Tracking our visitors' below) or, more directly, where you request a specific service, such as subscribing to the newsletter or booking a ticket online (see below for more details).
 
-You are most likely to submit personal information when you send us feedback or request a subscription – for example with the [Journal for Maritime Research](http://www.jmr.nmm.ac.uk/). Similarly, if an individual requests information or orders products from the online shop a certain amount of information is required to fulfil the order. We only use this information to supply the services that have been requested and to monitor and improve the quality of our websites.
+You are most likely to submit personal information when you send us feedback or request a subscription – for example with the [Journal for Maritime Research](http://www.jmr.nmm.ac.uk/?PHPSESSID=c50a23d439e2fb7434dfc83f680a7bba). Similarly, if an individual requests information or orders products from the online shop a certain amount of information is required to fulfil the order. We only use this information to supply the services that have been requested and to monitor and improve the quality of our websites.
 
 It is the Museum's policy not to distribute or sell your information on to any third party.
 
@@ -53,6 +53,24 @@ We have enabled online donations to be made to the Museum through Justgiving. Th
 ### Booking tickets online
 
 Our online booking service is provided by TOR Maximweb. They collect personal information on behalf of the Museum to process each transaction and only use personal data where it is necessary to fulfil your order. TOR do not disclose personal data to other parties.
+
+### Facebook 'Likes'
+
+The NMM Website uses the Facebook ‘Like’ button on all our events pages (e.g. [planetarium shows](http://www.nmm.ac.uk/visit/events/planetarium/sky-tonight)), and on certain other pages e.g. [Astronomy Photographer of the Year](http://www.nmm.ac.uk/visit/exhibitions/astronomy-photographer-of-the-year/).
+
+Facebook receives data whenever you visit a page that features a ‘Like’ button. This data may include the date and time you visit the site; the web address (URL) you're on; technical information about the IP address, browser and the operating system you use; and, if you are logged in to Facebook, your User ID. 
+
+Facebook keeps this data for 90 days. After that, Facebook removes your name or any other personally identifying information from the data, or combines it with other people's data in a way that it is no longer associated with you.
+
+  * Learn more about the [specific types of data](http://www.facebook.com/about/privacy/your-info#inforeceived) Facebook collects 
+  * Find out how Facebook [uses the information](http://www.facebook.com/about/privacy/your-info#howweuse) it receives
+  * Read Facebook’s full [Data Use Policy](http://www.facebook.com/full_data_use_policy)
+
+
+
+### Site search
+
+The search box on this web site (" **Search Box** ") is powered by Google Inc (" **Google** "). The National Maritime Museum acknowledges and agrees that Google's privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
 
 ### Further information and requests
 
