@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629122123id_/http%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sec.gov privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209230411id_/http%3A//www.sec.gov/privacy.htm) for the most accurate reproduction.*
 
 # SEC Web Site Privacy and Security Policy
 
