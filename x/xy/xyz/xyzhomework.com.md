@@ -1,10 +1,20 @@
-> *The following text is extracted and transformed from the xyzhomework.com privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006100437id_/http%3A//xyzhomework.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xyzhomework.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209174409id_/http%3A//xyzhomework.com/privacy_policy) for the most accurate reproduction.*
 
-# XYZ Homework | Privacy Policy
+# XYZ Homework - Privacy Policy
+
+## Login
+
+BROWSER CHECK
+
+Confirm that your browser is ready for our online homework system:
+
+[Check Now](https://web.archive.org/imathas/checkbrowser.php)
+
+## XYZ Homework Privacy Agreement
 
 XYZ Homework may change any of the terms in this agreement at any time. Changes will become effective upon posting.
 
-XYZ Homework will not disclose any personally identifiable information associated with your use of XYZ Homework (e.g. name, physical address, e-mail address, username and pasword, activity results) to any third parties except:
+XYZ Homework will not disclose any personally identifiable information associated with your use of XYZ Homework (e.g. name, physical address, e-mail address, username and password, activity results) to any third parties except:
 
   1. within class rosters, grade books or communication tools (messaging system or class forums) that facilitate student-instructor or student-student conversations. Instructors have the ability to export grade book information from XYZ Textbooks to maintain educational records.
   2. where the information is requested by the student’s educational institution or state educational officials for educational or administrative uses.
