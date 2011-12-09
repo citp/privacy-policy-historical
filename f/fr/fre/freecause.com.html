@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freecause.com privacy policy that was archived on 2011-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614011514id_/http%3A//www.freecause.com/privacy_websiteprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freecause.com privacy policy that was archived on 2011-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210003541id_/http%3A//www.freecause.com/privacy_websiteprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <link rel="shortcut icon" href="http://d2daxvy87efzyi.cloudfront.net/fcsite/global/favicon.ico">
@@ -8,6 +8,8 @@
 <!-- FreeCause Base -->
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.6.0/build/reset-fonts-grids/reset-fonts-grids.css">
 <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.6.0/build/base/base-min.css">
+<link rel="stylesheet" type="text/css" href="http://www.freecause.com/css/mall/mall_layout.css">
+<!--<link rel="stylesheet" type="text/css" href="http://www.freecause.com/css/mall/themes/.css">-->
 <link rel="stylesheet" type="text/css" href="http://www.freecause.com/css/freecause_base.css">
 <link rel="stylesheet" type="text/css" href="http://www.freecause.com/css/freecause_layout.css">
 <link rel="stylesheet" type="text/css" href="http://www.freecause.com/css/freecause.css">      <!-- jQuery -->
@@ -648,7 +650,10 @@ sup {
     #tinycontent{background:#ffffff; font-size:1.1em;}
 
 /* override */
-.wrapper {width: 100%;}
+.wrapper {
+padding: 0px;
+width: 100%;
+}
 /****************/
 
 
@@ -725,7 +730,8 @@ sup {
         "websiteprivacy":{"nav_over":"website_privacy_nav_over.png","nav_up":"website_privacy_nav_up.png","nav_on":"website_privacy_nav_on.png","breadcrumb":"Website Privacy Policy"},                                                                                
         "toolbarprivacy":{"nav_over":"toolbar_privacy_nav_over.png","nav_up":"toolbar_privacy_nav_up.png","nav_on":"toolbar_privacy_nav_on.png","breadcrumb":"Toolbar Privacy Policy"},
         "toolbareula":{"nav_over":"toolbar_eula_nav_over.png","nav_up":"toolbar_eula_nav_up.png","nav_on":"toolbar_eula_nav_on.png","breadcrumb":"Toolbar End User License Agreement"},
-        "breadcrumb":"Privacy Policy"
+        "shoppingmallterms":{"nav_over":"shopping_mall_terms_over.png","nav_up":"shopping_mall_terms_up.png","nav_on":"shopping_mall_terms_on.png","breadcrumb":"Shopping Mall Terms"},
+        "breadcrumb":"Legal"
     }
     
     };
@@ -955,6 +961,12 @@ TINY.page=function(){
         }
     }
 }();
+
+
+//update the link text in the footer to display "legal".
+$(document).ready(function(){
+    $('#footer_nav ul li a[href$="http://www.freecause.com/privacy_websiteprivacy/"]').html('Legal');
+});
 /****************/
 
 
@@ -1008,13 +1020,14 @@ TINY.page=function(){
        
 
 
-<div id="module_1055" class="module_wrapper no_module_wrapper ">
+<div id="module_1055" class="module_wrapper no_module_wrapper   module_id_1">
 
 
   
-    
+  	
+	    
           <div class="module_content">
-            <div>    <!-- start of mid_banner -->
+			<div>    <!-- start of mid_banner -->
                 <div id="blue_bar"></div>
                                 <div class="shadow"></div>
                <!--end of mid_banner-->
@@ -1098,13 +1111,14 @@ If you feel that this site is not following its stated information policy, you m
        
 
 
-<div id="module_1001" class="module_wrapper no_module_wrapper withTitle">
+<div id="module_1001" class="module_wrapper no_module_wrapper   module_id_1">
 
 
   
-    
+  	
+	    
           <div class="module_content">
-            <div><div id="signup">
+			<div><div id="signup">
       <a href="http://www.freecause.com/contact_contact/">
           <img alt="" src="http://ace.freecause.com.s3.amazonaws.com/fcsite/solutions/loyalty_suite/signup_footer_ad.png">
       </a>
