@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123123734id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesitesignup.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209015024id_/http%3A//www.freesitesignup.com/privacy.php) for the most accurate reproduction.*
 
 # Free Cash-Pulling Websites Company - Privacy Policy
 
@@ -20,7 +20,7 @@ This policy governs the privacy of information submitted to this website and doe
 
 This website uses various 3rd party companies such as Clickbank, Paypal, etc., in order to facilitate order processing and payment of affiliate commissions. These companies alert this website when orders have been processed but do not share your credit card or checking account numbers with this website. This website may share order confirmation information with 3rd party companies that this website feels have products or services that can be of benefit to you. If you find that these offers are not of interest, you will always have the option to remove your email from the mailings.
 
-Responses of Email Inquiries
+**Responses of Email Inquiries**
 
 Any responses of email inquiries or customer support ticket submissions are retained by this website for the sole purpose of answering your inquiry and your information will not be shared with any third parties. 
 
@@ -30,7 +30,7 @@ By submitting any testimonial information, you agree that your name, email, addr
 
 **Disclosure Upon Legal Requirement**
 
-Under legal order by any state or federal agency as to your activity on this website website, your information will be disclosed in order to comply with all legal authorities. This information disclosed may include your logon information, activity online, forum posts, questions submitted and other information on your activity. 
+Under legal order by any state or federal agency as to your activity on this website, your information will be disclosed in order to comply with all legal authorities. This information disclosed may include your logon information, activity online, forum posts, questions submitted and other information on your activity. 
 
 **Cookies**
 
@@ -49,8 +49,8 @@ The minimum age for use of this This website is 18 years old. If you are not at 
 You can contact the company by mail at: 
 
 Free Cash-Pulling Websites Company Websites c/o Top Tier Solutions  
-12707 High Bluff Dr. Suite 200  
-San Diego, CA 92130
+405 West Broadway. Suite 400  
+San Diego, CA 92101
 
 Or via email by [clicking here](https://web.archive.org/support.php?group=joinsite).   
 
