@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shakira.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623140245id_/http%3A//www.shakira.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakira.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210005230id_/http%3A//www.shakira.com/privacy) for the most accurate reproduction.*
 
 # Shakira.com > Privacy Policy
 
