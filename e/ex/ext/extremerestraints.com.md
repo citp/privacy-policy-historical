@@ -1,9 +1,65 @@
-> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102163230id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209220305id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement | Bondage Gear - Sex Toys - Fucking Machines
 
+Categories
+
+[New Items](http://www.extremerestraints.com/products_new.php)
+
+[Huge Holiday Event](http://www.extremerestraints.com/information/info/2011-holiday-gift-guide.html?utm_source=frontpage&utm_medium=banner&utm_campaign=11Dec1FrontPageHoliday)
+
+[Bondage Gear](http://www.extremerestraints.com/bondage-gear_10/)
+
+[Sex Toys](http://www.extremerestraints.com/information/new/sextoys.html)
+
+[ElectroSex Gear](http://www.extremerestraints.com/electrosex-gear_43/)
+
+[Dildos & Insertables](http://www.extremerestraints.com/dildos-and-ables_180/)
+
+[Vibrating Sex Toys](http://www.extremerestraints.com/vibrating-sex-toys_80/)
+
+[Cock and Ball Toys](http://www.extremerestraints.com/cock-and-ball-toys_191/)
+
+[Fucking Machines](http://www.extremerestraints.com/fucking-machines_48/)
+
+[Chastity Devices](http://www.extremerestraints.com/chastity-devices_26/)
+
+[Strap Ons](http://www.extremerestraints.com/strap-ons_36/)
+
+[Nipple Toys](http://www.extremerestraints.com/nipple-toys_60/)
+
+[Mouth Gags](http://www.extremerestraints.com/mouth-gags_22/)
+
+[Remote Sex Toys](http://www.extremerestraints.com/remote-sex-toys_147/)
+
+[Enema Supplies](http://www.extremerestraints.com/enema-supplies_212/)
+
+[Sex Furniture](http://www.extremerestraints.com/sex-furniture_167/)
+
+[Bedroom Bondage](http://www.extremerestraints.com/bedroom-bondage_337/)
+
+[Fetish Clothing](http://www.extremerestraints.com/fetish-clothing_27/)
+
+[Penis Pumps](http://www.extremerestraints.com/penis-pumps_62/)
+
+[Floggers & Whips](http://www.extremerestraints.com/floggers-and-whips_159/)
+
+[Nipple & Pussy Pumps](http://www.extremerestraints.com/nipple-and-pussy-pumps_221/)
+
+[Masturbation Toys](http://www.extremerestraints.com/masturbation-toys_455/)
+
+[Medical Fetish](http://www.extremerestraints.com/medical-fetish_155/)
+
+[Miscellaneous](http://www.extremerestraints.com/miscellaneous_51/)
+
+[Fetish Books](http://www.extremerestraints.com/fetish-books_23/)
+
+[Lubes & Creams](http://www.extremerestraints.com/lubes-and-creams_49/)
+
   
 
+
+All Categories
 
 |   
 ---  
@@ -11,13 +67,49 @@
 Categories!  
   
   
+
+
+Extreme Promos  
   
+---  
+  
+[Clearance](http://www.extremerestraints.com/clearance_401/)  
+[First Time Buyer](http://www.extremerestraints.com/first-time-buyer-promotion_798.html)  
+[$1000 Free Toys](http://www.extremerestraints.com/information/content/shopping-spree.html)  
+[Products on Sale](http://www.extremerestraints.com/specials.php)  
+[Daily Specials](http://www.extremerestraints.com/daily_specials.php)  
+  
+  
+
+
+Subscribe Now  
+  
+---  
+  
+Join our [Newsletter](http://www.extremerestraints.com/information/submit/extreme-newsletter.html)  
+  
+  
+
+
+Community  
+  
+---  
+  
+[Webmasters](http://www.nicheshops.com/ER/benefits.html)  
+[General Info](http://www.extremerestraints.com/information/customer-service/general-info.html)  
+[Product Guides](http://www.extremerestraints.com/product_guides.php)  
+[Testimonials](http://www.extremerestraints.com/information/content/testimonials.html)  
   
   
   
 
 
-[](https://www.scanalert.com/RatingVerify?ref=www.ExtremeRestraints.com)
+Currencies  
+  
+---  
+  
+  
+[](http://www.comodo.com/hackerproof/ "SSL Certificate Authority")
 
 ## Privacy Statement
 
