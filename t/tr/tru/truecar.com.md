@@ -1,69 +1,78 @@
-> *The following text is extracted and transformed from the truecar.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514001059id_/http%3A//www.truecar.com/popups/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecar.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209171130id_/http%3A//www.truecar.com/popups/privacy.html) for the most accurate reproduction.*
 
-# TrueCar - Privacy Policy
+# TrueCar Privacy Policy
 
-TrueCar, Inc.  
-225 Santa Monica Blvd, Suite 600  
-Santa Monica, CA 90401  
-1-800-200-2000  
+TrueCar.com features pricing, performance, technical and safety data available for new and used car/truck purchases at participating dealers ("Service").
 
+This Privacy Policy describes TrueCar, Inc.'s ("TrueCar", "we", "our", or "us") collection, use and sharing of personally identifiable information, which may include your full name, e-mail address, mailing address, and telephone number that you voluntarily provide when using the Service ("PII").
 
-We are committed to safeguarding your privacy online. Our commitment applies to all information that we collect and receive through our website. You can visit this site without revealing who you are or providing any personal information about yourself. By using this site, you agree to the terms of this Privacy Policy.
+We are committed to safeguarding your PII. You can visit this website without revealing who you are or providing any PII about yourself. By accessing this website or using the Service, you accept and agree to the terms of this Privacy Policy.
 
-TrueCar, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@truecar.com](mailto:privacy@truecar.com). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint) The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+TrueCar has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your PII. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@truecar.com](mailto:privacy@truecar.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ## Collection of Information
 
-If you browse through this site without providing us with any personal information, we will gather and store some information about your visit, such as IP address, type of browser and operating system used, date and time you access our site, pages you visit, and if you linked to our website from another website, the address of that website. This information will not identify you personally and will not be linked back to you.
+If you browse through this website without providing us any PII, we may gather and store information about your visit, such as your IP address, type of browser and operating system used, date and time you access this website, pages you visit, and if you linked to this website from another website, the address of that website. This information will not identify you and is therefore considered "Non-PII".
 
-There will be times, such as when you email a price report or fill out our contact form, when we will need to obtain personally identifiable information from you or about you. Such personally identifiable information may include your name, address, e-mail address and telephone number.
+If you use the Service, you may be asked to provide certain personal information, including for example, your contact information. This information will identify you, and therefore is considered PII. Such PII may include your name, address, e-mail address, and telephone number.
 
 ## Use and Sharing of Information
 
-At no time will we sell your personally-identifiable data without your permission unless set forth in this Privacy Policy. The information we receive about you or from you may be used by us or shared by us with our corporate affiliates, dealers, agents, vendors and other third parties to help process your request; to comply with any law, regulation, audit or court order; to help improve our website or the products or services we offer; for research; to better understand our customers' needs; to develop new offerings; and to alert you to new products and services (of us or our business associates) in which you may be interested. In addition, in the event of a merger or acquisition, we may share the information you provide to us with the company we merge with or by whom we are acquired. We may also combine information you provide us with information about you that is available to us internally or from other sources in order to better serve you.
+The information we receive about you or from you may be used or shared by us with our corporate affiliates, dealers, agents, vendors, and other third parties including in connection with your use of the Service. In addition, there may be instances when TrueCar may access or disclose PII or Non-PII, including under the following circumstances: (i) to protect or defend the legal rights or property of TrueCar; (ii) to protect the safety and security of users of the Services or members of the public including acting in urgent circumstances; (iii) to protect against fraud or for risk management purposes; or (iv) to comply with applicable law or legal process. In addition, if TrueCar sells all or part of its business or sells or transfers all or a material part of its assets, or is otherwise involved in a merger or transfer of all or a material part of its business, we may transfer your PII or Non-PII to the party or parties involved in the transaction as part of that transaction.
 
-We do not share, sell, trade or rent your personal information to third parties for unknown reasons.
+## Cookies, Beacons, and Pixel Tags
 
-## Cookies
+From time to time, we may place cookies and web beacons on your personal computer to collect anonymous data related to your use of this website, including website usage analytics, and content and advertising personalization. "Cookies" are small identifiers sent from a web server that are stored on your computer's hard drive for the purpose of identifying your browser during interaction on websites. Cookies may be used to store items such as identifiers and user preferences. A website may set a cookie to the web browser if the web browser's preferences allow it. A web browser only permits a website to access the cookies it has set, not those set by other websites. "Web beacons" are invisible electronic images, called a single-pixel (1x1) or clear GIF, which can recognize certain types of information on your computer, such as a cookie number, time and date of a page view, and a description of the page where the web beacon is placed.
 
-From time to time, we may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. To protect your privacy we do not use cookies to store or transmit any personal information about you on the Internet. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies certain features of the site may not function properly or at all as a result.
+As set forth in more detail below, we may allow third parties to collect the anonymous data received from cookies and web beacons on our behalf, and to retain and use this data themselves. In addition, we may share this anonymous data with other third parties. To protect your privacy, we do not use cookies or web beacons to store or transmit any PII about you on the Internet. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser's setting to decline cookies if you prefer. If you choose to decline cookies, certain features of this website may not function properly or not at all as a result. You may render some web beacons unusable by rejecting their associated cookies.
 
-## Advertisements
+## Analytics Service Providers
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or to collect non-personally identifiable information about your visits to our site and other web sites in order to provide advertisements about goods and services of interest to you. For example, some of our advertising is served by third parties and may include cookies or other technology that enable the advertiser to determine whether you have seen a particular advertisement before and to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. TrueCar does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties. We do not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. If you wish to not have this information used to serve you targeted ads, you may opt-out of being served targeted ads by clicking here (link to NAI opt-out: http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. Please bear in mind that should you click on an advertisement on our site and link to a third party's web site, then our privacy policy will not apply to your personally identifiable information collected on that third party's web site and you must read the privacy policy posted on that site to see how your personally identifiable information will be handled.
+We may allow certain third-party analytics service providers to include web beacons within the pages of this website. We may also share portions of our log file data, including IP addresses, with these service providers for analytics purposes. These service providers aggregate information about what you see and interact with on this website, and then provide auditing, research and reporting for us and our advertisers. In addition, these service providers offer information about their data collection practices, and in some cases, an opt-out, on their respective websites. Please visit each partner's privacy policy to better understand the controls available to you. We allow web beacons from and share log file data with the following service providers (click to visit their websites):
+
+[Omniture](http://www.omniture.com/en/privacy/policy#optout)  
+[Convertro](http://convertro.com/optout.html)  
+[Google](http://www.google.com/privacy/ads/)  
+[Visual Sciences/SiteCatalyst HBX](http://www.omniture.com/en/privacy/visualsciences/policy#optout)
+
+None of the PII that you provide to us when using this website or the Service is shared with our third party service providers or advertisers as part of our analytics programs.
+
+## Applications and Widgets
+
+We may include an application or widget from a third party on some pages of this website that allows interaction or content sharing by users. "Widgets" are mini-programs that provide specific services or content from a third party. These widgets, such as a Facebook "Share" or "Like" button, are visible to you on the webpage you visit. The third party providing the widget may offer controls for you to manage the widget's appearance and functionality. Your interaction with a widget typically allows the third party to collect some information about you through the third party's cookies or its registration information. In some cases, the third party may recognize you through its widgets and cookies even when you do not interact with the widget. Please visit the following third-parties' respective privacy policy to better understand their data collection practices and controls they make available to you (click to visit their websites):
+
+[Facebook](http://www.facebook.com/policy.php)  
+[Twitter](https://twitter.com/privacy)
+
+## Advertisements, Ad Networks and Other Third Parties
+
+We allow certain third-party companies to serve advertisements to you and collect anonymous information regarding your use of this website. Typically, these companies are third party ad servers, ad agencies, technology vendors, providers of sponsored content and research firms, and they may include a web beacon within this website to provide customization, auditing, research and reporting for us and advertisers. Because your web browser must request these advertisements and/or web beacons from the third-party's web servers, these companies can view, edit or set their own cookies, just as if you had requested a webpage from their website directly. These companies may also use these cookies or web beacons to collect information on the website pages we host to deliver you customized content and/or ads on both this and other websites.
+
+We may customize some ads tailored to your interests when you visit certain pages of this website, but we do not provide any PII to an advertiser when you interact with or view a customized advertisement. However, when you view or interact with an advertisement, the possibility exists that the advertiser will make the assumption that you are interested in the subject matter of the advertisements.
+
+The following third parties offer information about their data collection practices, and in some cases, an opt-out, on their respective websites (click to visit their websites). Please visit each company's respective privacy policy to better understand the controls available to you. You can also learn more about ad serving companies and opt-out from each of them at the [Network Advertising Initiative website](http://www.networkadvertising.org/managing/opt_out.asp) or the [Digital Advertising Alliance website](http://www.aboutads.info/choices/). Please note this does not opt you out of being served advertising. If you use the Service, you will continue to receive generic advertisements.
+
+[DoubleClick](http://www.google.com/privacy/ads/)  
+[Jumpstart](http://www.jumpstartautomotivegroup.com/privacy_policy)  
+[Commission Junction](http://www.cj.com/privacy_web_user.html)
 
 ## Links
 
-Our website contains links to other sites. Such other sites may use information about your visit to this website. Our Privacy Policy does not apply to practices of such sites that we do not own or control or to people we do not employ. Therefore, we are not responsible for the privacy practices or the accuracy or the integrity of the content included on such other sites. We encourage you to read the individual privacy statements of such websites.
+This website contains links to other websites. Such other websites may use information about your visit to this website. Our Privacy Policy does not apply to practices of such websites that we do not own or control, or to people we do not employ. Therefore, we are not responsible for the privacy practices or the accuracy or the integrity of the content included on such other websites. We encourage you to read the individual privacy statements of such websites.
 
-## Widgets
+## Security
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
-
-## Blog
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
-
-## Security and Data Retention
-
-We safeguard your privacy using known security standards and procedures and comply with applicable privacy laws. Our websites combine industry-approved physical, electronic and procedural safeguards to ensure that your information is well protected through its life cycle in our infrastructure.
-
-We provide secure data transfer using Secure Sockets Layer (SSL) Protocol. Once a server session is established on an https secure page, your browser and the server are in a secured environment. We also achieve secure data storage using industry tested encryption algorithms. Sensitive data is encrypted when it is stored in our infrastructure. When in use, sensitive data is decrypted, processed and immediately re-encrypted or discarded when no longer necessary. We host web services in SAS-70 audited data centers, with restricted access to the data processing servers. Controlled access, recorded and live-monitored video feeds, 24/7 staffed security and biometrics provided in such data centers ensure that we provide secure hosting.
-
-We keep user data on our servers or in our archives for as long as we reasonably need it, but generally not longer than 3 years from the date we acquire the user data. We may keep user data for a longer period of time if required by law.
-
-## Legal Disclaimer
-
-Our website operates as-is and as-available, without liability of any kind. We are not responsible for events beyond our direct control. By using our website, you agree that any dispute involving this Privacy Policy will be governed by California law, excluding conflicts of law principles. You further agree to personal jurisdiction by and venue in the state and federal courts of the State of California, City of Los Angeles. Any legal actions against us must be commenced within one year after the act or omission giving rise to the claim arose, or such action will be barred.
-
-## Information Update & Opt-Out Policy
-
-If you would like your information to be deleted, please email [privacy@truecar.com](mailto:privacy@truecar.com) if you no longer wish to receive any information from us.
+TrueCar uses commercially reasonable administrative, technical, personnel, and physical security measures designed to safeguard PII in our possession against loss, theft and unauthorized use, disclosure, or modification. In addition, TrueCar uses reasonable methods in an effort to make sure that the PII we store about you is consistent with the updated information you provide to us.
 
 ## Changes to this Privacy Policy
 
-Our privacy policy was last updated on 11/02/2010. We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+From time to time TrueCar may modify this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, changes in the features of the Service, or technology, and such modifications shall be effective upon posting by TrueCar on this website. Your continued use of the Service after TrueCar posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. Therefore, it is important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If TrueCar materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the privacy policy under which it was collected unless you have been provided notice of, and have not objected to, the change. Our privacy policy was last updated on 10/17/2011.
 
-## Questions
+## Contact Information and Opt-Out Policy
 
-If you have any questions about our Privacy Policy, please e-mail your questions to us at [privacy@truecar.com](mailto:privacy@truecar.com). 
+If you have any questions about this Privacy Policy, or you do not wish to receive any information from us, please contact us at [privacy@truecar.com](mailto:privacy@truecar.com) or at:
+
+TrueCar, Inc.  
+225 Santa Monica, 12th Floor  
+Santa Monica, CA 90401  
+1-800-584-5000 
