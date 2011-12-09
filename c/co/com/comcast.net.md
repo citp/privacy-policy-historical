@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comcast.net privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608001149id_/http%3A//www.comcast.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcast.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209073038id_/http%3A//xfinity.comcast.net/privacy) for the most accurate reproduction.*
 
 # Comcast.net Privacy Policy
 
-**Effective March 31, 2011[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
+**Effective October 7, 2011[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
 
 ## Summary (Jump to Full Policy)
 
@@ -203,9 +203,11 @@ If you are a registered user, Comcast may use Your Data, regardless of where we 
 
 7\. Advertising Networks and Other Service Provider Networks 
 
-The advertising companies who deliver ads for us on the Comcast Sites may use HTTP cookies and Flash cookies to uniquely distinguish your web browser and keep track of information relating to serving ads on your web browser, such as the type of ads shown and the web pages on which the ads appeared. In addition, the third parties that provide Web Log services for Comcast may use cookies to uniquely distinguish your web browser and to keep track of the Websites that your web browser visits across the service provider's network of Websites. These companies may combine this information with other information they have independently collected from other Websites relating to your web browser's activities across their network of Websites. These companies collect and use information under their own privacy policies. For more information on controlling HTTP and Flash cookies, please visit our "Customer Control" FAQ, [here](http://customer.comcast.com/%28S%28shfddi55euzxgy55jkrbmi45%29%29/Pages/FaqDisplay.aspx?Guid=dfcbf43e-91b2-4444-a04d-8d7c68fcb356#custcontrol).
+The advertising companies who deliver ads for us on the Comcast Sites may use HTTP cookies and Flash cookies to uniquely distinguish your web browser and keep track of information relating to serving ads on your web browser, such as the type of ads shown and the web pages on which the ads appeared. In addition, the third parties that provide Web Log services for Comcast may use cookies to uniquely distinguish your web browser and to keep track of the Websites that your web browser visits across the service provider's network of Websites. For more information on controlling HTTP and Flash cookies, please visit our "Customer Control" FAQ, [here](http://customer.comcast.com/%28S%28shfddi55euzxgy55jkrbmi45%29%29/Pages/FaqDisplay.aspx?Guid=dfcbf43e-91b2-4444-a04d-8d7c68fcb356#custcontrol).
 
-Comcast encourages you to be aware of the privacy policies of these companies before you choose to allow them to place a cookie for your web browser. The list of our partners that operate their own networks can be found here.
+Some of these companies may combine information they collect from the Comcast Sites with other information they have independently collected relating to your web browser's activities across their network of Websites. These companies collect and use this information under their own privacy policies. More information about these companies, their privacy policies, and the opt-outs they offer can be found here:
+
+### [Ad Choices](https://web.archive.org/adinformation/)
 
 8\. Communicating with You 
 
@@ -307,94 +309,4 @@ You can direct questions regarding this Privacy Policy to Comcast by e-mailing u
 
 You can find customer support and help information at <http://customer.comcast.com/Pages/Help.aspx>. Some online support areas and tools may ask you to provide information to Comcast to help us address your questions or problems. We may also make software tools available to help configure your computer's or network's settings, or collect information from your computer or network to help us provide support to you. If you choose to provide this information to Comcast or use these tools, we will use the information only for customer support purposes.
 
-Revised and Effective: March 31, 2011
-
-########################################################################
-
-This table summarizes our partners that operate their own networks and where you can go to get more information about their policies and practices and opt out of their networks in many cases. You may also opt out of additional third party advertising networks by going to the Network Advertising Initiative's Website at <http://www.networkadvertising.org/managing/opt_out.asp> and following the directions there.
-
-[ ]()
-
-Network
-
-[ ]() | 
-
-Customer Info Page
-
-| 
-
-Opt-Out Page  
-  
----|---|---  
-  
-Google
-
-| 
-
-<http://www.google.com/privacy.html>
-
-| 
-
-<http://www.google.com/privacy_ads.html>  
-  
-Yahoo!
-
-| 
-
-<http://info.yahoo.com/privacy/us/yahoo/details.html>
-
-| 
-
-<http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>  
-  
-Pulse360 
-
-| 
-
-<http://www.pulse360.com/privacy.html>
-
-| 
-
-<http://www.pulse360.com/behavior/opt.html>  
-  
-Bizo
-
-| 
-
-<http://www.bizo.com/business_audience/privacy_policy>
-
-| 
-
-<http://www.bizo.com/business_audience/opt_out>  
-  
-Omniture
-
-| 
-
-<http://www.omniture.com/en/privacy/product>
-
-| 
-
-Opt-out currently not available.   
-  
-ComScore
-
-| 
-
-<http://www.comscore.com/About_comScore/Privacy_Policy>
-
-| 
-
-Opt-out currently not available.  
-  
-DoubleClick
-
-| 
-
-<http://www.doubleclick.com/privacy/index.aspx>
-
-| 
-
-<http://www.doubleclick.com/privacy/opting_out.aspx>  
-  
-Revised and Effective: March 31, 2011
+Revised and Effective: October 7, 2011
