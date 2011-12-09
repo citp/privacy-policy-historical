@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentboard.ca privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614182542id_/http%3A//www.rentboard.ca/company/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentboard.ca privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209072433id_/http%3A//www.rentboard.ca/company/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# The Rent Board of Canada | Privacy Policy
 
 RentBoard.ca respects the privacy of its users. In this document we explain how we use information you supply us via the RentBoard.ca Web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on this web site. 
 
@@ -12,6 +12,8 @@ This statement is used to identify:
   4. What choices are available to you regarding collection, use and distribution of the information.
   5. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under RentBoard.ca's control.
   6. How you can correct any inaccuracies in the information.
+
+
 
 Whenever you create an on-line listing on our site, we ask that you provide a means (either a telephone number and/or E-mail address) by which you may be contacted. The contact information you supply us is displayed with your listing. All information collected is stored by RentBoard.ca and is not sold, distributed or licensed to any third party. You have a choice of supplying a telephone number, E-mail address or both when entering contact information. The contact information you supply is used by customers to respond to your listing. Your listings may be sent to other rental-related sites for the purpose of giving your listing greater exposure, however all contact information remains on the RentBoard.ca site. 
 
