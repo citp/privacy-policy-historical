@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twobrightlights.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210125316id_/http%3A//www.twobrightlights.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twobrightlights.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209130821id_/http%3A//twobrightlights.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# Two Bright Lights: Privacy - Wedding Marketing Done Brilliantly
+# Two Bright Lights: Privacy - Personal Publicity Platform
 
 ## privacy policy
 
