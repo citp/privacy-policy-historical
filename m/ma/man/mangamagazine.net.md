@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangamagazine.net privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104071128id_/http%3A//www.mangamagazine.net/corp/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangamagazine.net privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210005641id_/http%3A//www.mangamagazine.net/corp/privacypolicy) for the most accurate reproduction.*
 
 # MangaMagazine
 
