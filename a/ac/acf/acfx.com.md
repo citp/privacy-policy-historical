@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acfx.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609215148id_/http%3A//www.acfx.com/Licenses-and-documents/Privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acfx.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210001319id_/http%3A//www.acfx.com/Licenses-and-documents/Privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy — Licenses and documents — ACFX
 
