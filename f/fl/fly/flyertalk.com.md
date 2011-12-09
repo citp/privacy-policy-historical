@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyertalk.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609220237id_/http%3A//www.flyertalk.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyertalk.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210003917id_/http%3A//www.flyertalk.com/help/privacy.php) for the most accurate reproduction.*
 
 # FlyerTalk Privacy Policy
 
@@ -62,11 +62,3 @@ FlyerTalk will not disclose to third parties Navigational or Transactional Infor
 
 **(iii) Private Communications Content**   
 FlyerTalk does not access or disclose the contents of private communications (e.g., email), unless it in good faith believes that such action is necessary (a) to comply with applicable law or valid legal process (e.g., search warrant or court order), (b) to protect the rights or property of FlyerTalk, or (c) in emergencies when FlyerTalk believes that physical safety is at risk. FlyerTalk reserves the right to treat as public, any FlyerTalk session which is published or becomes generally known or available.
-
-We hope that this Privacy Policy is one that has been developed in the best interest of our visitors. Should you have any comments or concern regarding anything mentioned above, I'd like to hear from you. FlyerTalk is part of the company that brings you Inside Flyer magazine and has been serving frequent flyers since 1986. All during this time we have valued our relationship with our customers and it is our every concern to continue to do business in this manner.
-
-You may reach me at [randy@insideflyer.com](mailto:randy@insideflyer.com). If you feel that a phone call might be in order, please call me at (719) 597-8889.
-
-  
-Randy Petersen   
-President, Frequent Flyer Services 
