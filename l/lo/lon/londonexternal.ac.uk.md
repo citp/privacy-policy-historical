@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524032104id_/http%3A//londoninternational.ac.uk/contact_us/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonexternal.ac.uk privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209202220id_/http%3A//www.londoninternational.ac.uk/contact_us/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy policy - University of London International Programmes
 
