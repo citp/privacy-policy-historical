@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629110356id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraldesktop.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209134025id_/http%3A//www.centraldesktop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Collaboration Software
 
