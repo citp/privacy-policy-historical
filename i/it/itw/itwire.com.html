@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itwire.com privacy policy that was archived on 2011-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110611040925id_/http%3A//www.itwire.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itwire.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209152122id_/http%3A//www.itwire.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://www.itwire.com/privacy-policy">
@@ -12,8 +12,22 @@
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>iTWire - Privacy Policy</title>
   <link href="/templates/cs_itwire_2009/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="http://mirror.itwire.com/media/system/css/modal17.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/finder.css" type="text/css">
-  <script type="text/javascript" src="http://mirror.itwire.com/media/system/js/mootools.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://mirror.itwire.com/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="http://mirror.itwire.com/plugins/system/mtupgrade/modal.js"></script>
+  <script type="text/javascript" src="http://mirror.itwire.com/media/system/js/caption.js"></script>
+  <script type="text/javascript">
+window.addEvent("domready", function() {
+	SqueezeBox.initialize({});
+	$$("a.modal").each(function(el) {
+		el.addEvent("click", function(e) {
+			new Event(e).stop();
+			SqueezeBox.fromElement(el, {parse: "rel"});
+		});
+	});
+});
+  </script>
   <link href="/component/jlord_rss/feed/1" rel="alternate" type="application/rss+xml" title="Latest Headlines">
   <link href="/component/jlord_rss/feed/30" rel="alternate" type="application/rss+xml" title="The Linux Distillery">
   <link href="/component/jlord_rss/feed/23" rel="alternate" type="application/rss+xml" title="YOUR IT">
@@ -27,7 +41,80 @@
   <link href="/component/jlord_rss/feed/7" rel="alternate" type="application/rss+xml" title="Sponsored Announcements">
   <link href="/component/jlord_rss/feed/5" rel="alternate" type="application/rss+xml" title="Science News">
   <link href="/component/jlord_rss/feed/31" rel="alternate" type="application/rss+xml" title="The Wired CIO">
-  <link rel="stylesheet" type="text/css" href="http://www.itwire.com/modules/mod_followme/style.css" title="default">
+  <script type="text/javascript">
+				<!--
+				function getCookie(c_name)
+				{
+				   if (document.cookie.length>0)
+				     {
+				     c_start=document.cookie.indexOf(c_name + "=");
+				     if (c_start!=-1)
+				       {
+				       c_start=c_start + c_name.length+1;
+				       c_end=document.cookie.indexOf(";",c_start);
+				       if (c_end==-1) c_end=document.cookie.length;
+				       return unescape(document.cookie.substring(c_start,c_end));
+				       }
+				     }
+				   return "";
+				}
+				function setCookie(name,value,days)
+				{
+				   if (days) {
+				      var date = new Date();
+				      date.setTime(date.getTime()+(days*24*60*60*1000));
+				      var expires = "; expires="+date.toGMTString();
+				   }
+				   else var expires = "";
+				   document.cookie = name+"="+value+expires+"; path=/";
+				}
+				function checkCookie()
+				{
+				   showrightpane=getCookie('subscribe');
+				   if ((showrightpane==null) || (showrightpane=="")) {
+				     setCookie('subscribe','no',4); //set the default cookie value here
+				   }
+				}
+				function showV() {
+					var myel = new Element('a',{'href':'http://www.itwire.com/index2.php?option=com_content&view=article&id=7361'});
+					SqueezeBox.fromElement(myel,{
+						size: {x: 960, y: 550},
+						overlayOpacity: 0.7,
+						handler: 'iframe',
+						iframePreload:true,
+						onOpen: function() {
+							
+							if (window.ie6) {
+							  window.scrollTo(0,0);
+							  var t=$('sbox-btn-close'); var g = t.getStyle('background-image');
+							  if (g!="none") {
+							    g = g.replace("url(\"","").replace("\")","");
+							    t.setStyle("filter", 'progid:DXImageTransform.Microsoft.AlphaImageLoader(src="' + g + '",sizingMethod="crop")');
+							    t.setStyle("background","none");
+									t.setStyle("cursor","pointer");
+							  }
+							}
+						},
+						onHide: function(){
+							setCookie('subscribe','yes',4);
+						}
+					});
+				}
+				function closeV() {
+					SqueezeBox.close();
+				}
+				checkCookie();
+							window.addEvent('domready', function() {
+							v = getCookie('subscribe');
+							
+							if(!((v==null) || (v == "") || (v=="yes")))
+							{
+								showV();
+							}
+							
+				 });
+				 //-->
+				 </script>
 
 <link rel="profile" href="http://microformats.org/profile/hcalendar">
 <link rel="stylesheet" type="text/css" href="http://mirror.itwire.com/templates/cs_itwire_2009/css/template.css">
@@ -108,6 +195,7 @@ GA_googleAddSlot("ca-pub-1481630434357351", "ROS-bigbanner");
 GA_googleAddSlot("ca-pub-1481630434357351", "A728-TEMP-editorial");
 GA_googleAddSlot("ca-pub-1481630434357351", "A728-latestnews-leader-index");
 GA_googleAddSlot("ca-pub-1481630434357351", "A300-latestnews-mrec-index");
+GA_googleAddSlot("ca-pub-1481630434357351", "A1000-ROS-BigBanner");
 GA_googleFetchAds();
 </script>
 <!-- END Google Ad Manager -->
@@ -157,10 +245,10 @@ GA_googleFillSlot("A728-index-leader-board");
 					<a class="fontsize-plus fr" href="#" onclick="document.body.style.fontSize=parseInt(document.body.style.fontSize)+1+'px';document.cookie='fontSize='+document.body.style.fontSize+';path=/';return false;" title="Increase font size">Increase font size</a>
 			<a class="fontsize-reset fr" href="#" onclick="document.body.style.fontSize='12px';document.cookie='fontSize='+document.body.style.fontSize+';path=/';return false;" title="Reset font size">Reset font size</a>
 			<a class="fontsize-minus fr" href="#" onclick="document.body.style.fontSize=parseInt(document.body.style.fontSize)-1+'px';document.cookie='fontSize='+document.body.style.fontSize+';path=/';return false;" title="Decrease font size">Decrease font size</a>
-				<ul class="menu"><li class="item1"><a href="http://www.itwire.com/"><span>Today on iTWire</span></a></li><li class="parent item5"><a href="/latest-news"><span>Latest News</span></a></li><li class="item330"><a href="/events"><span>Events</span></a></li><li class="item369"><a href="http://courses.itwire.com/course/list/category/IT"><span>IT Courses</span></a></li><li class="item345"><a href="http://www.itwire.com/click/ccount12/click.php?id=81"><span>Whitepapers</span></a></li><li class="item10"><a href="http://jobs.itwire.com"><span>IT &amp; T Jobs</span></a></li><li class="item362"><a href="/storage"><span>Data Storage</span></a></li></ul>
+				<ul class="menu"><li class="item1"><a href="http://www.itwire.com/"><span>Today on iTWire</span></a></li><li class="parent item5"><a href="/latest-news"><span>Latest News</span></a></li><li class="item330"><a href="/events"><span>Events</span></a></li><li class="item369"><a href="http://courses.itwire.com/"><span>IT Courses</span></a></li><li class="item380"><a href="/cloud-computing"><span>Cloud Computing</span></a></li><li class="item381"><a href="/tech-video-news"><span>Video News</span></a></li><li class="item10"><a href="http://jobs.itwire.com"><span>IT &amp; T Jobs</span></a></li></ul>
 	</div>
 			<div id="toolbar" class="wrapper" style="width:1000px;">
-			<ul class="menu"><li class="parent item243"><a href="/your-it-news"><span>YOUR IT</span></a></li><li class="parent item244"><a href="/business-it-news"><span>BUSINESS IT</span></a></li><li class="parent item245"><a href="/it-industry-news"><span>IT INDUSTRY</span></a></li><li class="parent item246"><a href="/it-people-news"><span>IT PEOPLE</span></a></li><li class="parent item247"><a href="/it-policy-news"><span>IT POLICY</span></a></li><li class="parent item126"><a href="/sponsored-announcements"><span>ANNOUNCEMENTS</span></a></li><li class="parent item132"><a href="/science-news"><span>SCIENCE</span></a></li><li class="parent item7"><a href="/reviews"><span>REVIEWS</span></a></li><li class="item286"><a href="/telecommunications"><span>TELECOMMUNICATIONS</span></a></li></ul>
+			<ul class="menu"><li class="parent item243"><a href="/your-it-news"><span>Your IT</span></a></li><li class="parent item244"><a href="/business-it-news"><span>Business IT</span></a></li><li class="parent item245"><a href="/it-industry-news"><span>IT Industry</span></a></li><li class="parent item246"><a href="/it-people-news"><span>IT People</span></a></li><li class="parent item247"><a href="/it-policy-news"><span>IT Policy</span></a></li><li class="parent item126"><a href="/sponsored-announcements"><span>Announcements</span></a></li><li class="parent item132"><a href="/science-news"><span>Science</span></a></li><li class="parent item7"><a href="/reviews"><span>Reviews</span></a></li><li class="item286"><a href="/telecommunications"><span>Telecommunications</span></a></li></ul>
 		</div>
 		<div class="wrapper oh" style="width:1000px;">
 				<div id="toolbar2"></div>
@@ -168,14 +256,27 @@ GA_googleFillSlot("A728-index-leader-board");
 </div>
 
 
-<div id="MenuSponsor980x100"><!-- ROS-bigbanner -->
+<div id="MenuSponsor980x100"><script type="text/javascript">
+GA_googleAddSlot("ca-pub-1481630434357351", "A980-MenuSponsor980x56-skinnybar");
+</script>
+
+
+<!-- A980-MenuSponsor980x56-skinnybar -->
 <script type="text/javascript">
-GA_googleFillSlot("ROS-bigbanner");
+GA_googleFillSlot("A980-MenuSponsor980x56-skinnybar");
+</script>
+
+
+
+
+<!-- MenuSponsor980x100-NewsFeature -->
+<script type="text/javascript">
+GA_googleFillSlot("MenuSponsor980x100-NewsFeature");
 </script>
 </div>
 
 
-<div id="bgspace">
+<div id="bgspace" style="clear:both">
 <div id="container" class="container wrapper oh fn clearfix" style="width:1000px;">
 	<div class="container" style="left:700px;">
 		<div class="column" style="width:682px;left:-688px;">
@@ -186,11 +287,25 @@ GA_googleFillSlot("ROS-bigbanner");
 			<div class="clrr"><!--For IE only--></div>
 
 							<div id="user4" class="fr rel oh" style="width:682px;">
-					<img src="http://mirror.itwire.com/images/integration/house/buttons/subsribe-IBM.gif" alt="Like to spend less on storage?" width="685" height="40" border="0" usemap="#Map">
-<map name="Map" id="Map">
-  <area shape="rect" coords="0,-6,300,52" href="http://www.itwire.com/click/ccount12/click.php?id=83" alt="Like to spend less on storage?" title="Like to spend less on storage?">
-  <area shape="rect" coords="310,11,693,31" href="http://www.itwire.com/subscribe" alt="Free Daily IT Newsletter">
-</map>
+					<a class="modal" rel="{handler: 'iframe', size: {x: 960, y: 550}}" href="http://www.itwire.com/index2.php?option=com_content&amp;view=article&amp;id=7361" style="font-size: 14px; font-weight: normal; color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); height: 25px; width: 200px;"><img src="http://mirror.itwire.com/images/integration/house/buttons/subsribe-IBM.gif" alt="Subscribe to our free newsletter" title="Subscribe to our free newsletter" width="685" height="40" border="0">
+</a>
+
+
+<script type="text/javascript" src="http://mirror.itwire.com/media/system/js/modal.js"></script>
+<script type="text/javascript">
+<!--
+window.addEvent('domready', function() {
+	var myCSS = new Asset.css('http://mirror.itwire.com/media/system/css/modal.css', {media: 'all'});
+	SqueezeBox.initialize({});
+	$$('a.modal').each(function(el) {
+		el.addEvent('click', function(e) {
+			new Event(e).stop();
+			SqueezeBox.fromElement(el);
+		});
+	});
+});
+//-->
+</script>
 				</div>
 			
 							<div id="bodycontent" class="fr rel oh" style="width:682px;">
@@ -227,23 +342,38 @@ GA_googleFillSlot("ROS-bigbanner");
 									</div>
 			
 							<div id="user5" class="fr rel oh" style="width:682px;">
-							<div class="moduletable">
-					<table width="220" border="0" align="right" cellpadding="0" cellspacing="0">
+							<div class="moduletableeditors grid grid_6">
+					<h3>SPONSORED ANNOUNCEMENTS</h3>
+					<div style="padding:0 6px"><h2><a class="contentpagetitle-green" href="/sponsored-announcements/51664-australias-smbs-using-social-networking-as-a-strategic-business-tool-must-defend-their-brands-from-cyber-crime">Australia’s SMBs Using Social Networking as a Strategic Business Tool Must Defend Their Brands from Cyber Crime</a></h2>
+Thursday, 08 Dec 2011<br><p class="intro">Australia’s small- and medium-size businesses are exploring the marketing opportunities provided by social networking sites (primarily Facebook, Twitter and LinkedIn) in unprecedented numbers but too few are prepared for the associated risks to their security and reputations.</p>
+</div>
+<div class="dn-each-green"><span class="dn-head-green"><a href="/sponsored-announcements/51583-gigamonsr-network-security-management-solution-gigavue-earns-international-common-criteria-validation">Gigamon's® network security management solution, GigaVUE, earns international Common Criteria validation</a></span>
+</div><div class="dn-each-green"><span class="dn-head-green"><a href="/sponsored-announcements/51598-emite-v4-enables-bi-for-it-on-a-microsoft-platform">eMite V4 enables “BI for IT” on a Microsoft Platform</a></span>
+</div><div class="dn-each-green"><span class="dn-head-green"><a href="/sponsored-announcements/51582-longreach-secure-mobile-file-management-for-the-ibm-i">LongReach: Secure Mobile File Management for the IBM i</a></span>
+</div><div class="dn-each-green"><span class="dn-head-green"><a href="/sponsored-announcements/51611-schneider-electric-and-solveit-software-to-host-the-2012-integrated-planning-and-optimisation-summit">Schneider Electric and SolveIT Software to Host the 2012 Integrated Planning and Optimisation Summit</a></span>
+</div><br>		</div>
+			<div class="moduletable editors grid grid_6">
+					<div align="right"><a href="http://www.whatech.com.au" target="_blank" class="small"> Advertise here  -  submit press releases </a></div>		</div>
+			<div class="moduletable editors grid grid_6">
+					<h3>Editors Picks</h3>
+<div class="editorstext">Stories you may have missed</div><div><br><strong><a title="Gentrack on track with $15m  NZ utility deployment" href="http://www.itwire.com/it-industry-news/deals/51670-gentrack-on-track-with-15m-nz-utility-deployment">Gentrack on track with $15m NZ utility deployment</a></strong></div><div><br><strong><a title="ICT Geelong gets a $100,000 boost" href="http://www.itwire.com/it-policy-news/government-tech-policy/51673-ict-geelong-gets-a-100000-boost">ICT Geelong gets a $100,000 boost</a></strong></div><div><br><strong><a title="Apple facing massive compensation bill for using iPad name in China" href="http://www.itwire.com/your-it-news/mobility/51679-apple-facing-massive-compensation-bill-for-using-ipad-name-in-china">Apple facing massive compensation bill for using iPad name in China</a></strong></div><h3>Advertisment</h3>
+<!-- ca-pub-1481630434357351/BelowFold-300x250 -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td> <h3 class="editors">Editors Picks</h3>
-      <table width="100%" border="0" cellspacing="0" cellpadding="5">
-        <tbody><tr>
-          <td> Stories you may have missed<div class="dn-each"><br><strong><span class="dn-head"><a href="http://www.itwire.com/it-industry-news/market/47758-ipads-in-laptops-out-for-euro-consumers" class="dn-title">iPads in, laptops out for Euro consumers</a></span></strong></div><div class="dn-each"><br><strong><span class="dn-head"><a href="http://www.itwire.com/business-it-news/networking/47755-dell-surfs-social-network-tsunami" class="dn-title">Dell surfs social network tsunami</a></span></strong></div><div class="dn-each"><br><strong><span class="dn-head"><a href="http://www.itwire.com/business-it-news/networking/47752-boingo-offers-fixed-price-access-from-145000-asia-pacific-hotspots" class="dn-title">Boingo offers fixed price access from 145,000 Asia Pacific hotspots</a></span></strong></div>&nbsp;</td>
-        </tr>
-      </tbody></table>
-   </td>
+    <td><script type="text/javascript">
+GA_googleFillSlot('BelowFold-300x250');
+</script>
+</td>
+    <td>
+    
+    
+
+    
+    
+    </td>
   </tr>
 </tbody></table>
-
-<!-- ca-pub-1481630434357351/BelowFold-300x250 -->
-<script type="text/javascript">
-GA_googleFillSlot("BelowFold-300x250");
-</script>		</div>
+		</div>
 			<div class="moduletable">
 					<style type="text/css">
 <!--
@@ -255,18 +385,12 @@ GA_googleFillSlot("BelowFold-300x250");
 <div style="border: 1px solid #CCC; background-color: #fff; padding: 10px;  ">
 <div class="small" align="center"> - sponsored feature - </div> 
 
-<h2 style="color:#900;">Five Models for Data Stewardship</h2>
- <span style="font-weight: bold; font-size: 18px;"><a href="#form"><img src="/images/integration/data-flux/whitepapers/images/data-stewardship-sm.gif" alt="IP PABX BUYING GUIDE" align="left" height="138" width="120"></a><a href="http://www.itwire.com/click/ccount12/click.php?id=76"></a></span><span class="txtwhite" style="margin: 0px; ">Former Intel CEO Andy Grove once coined the phrase, “Technology happens.” As true as Grove’s pat aphorism has become, it’s not always good news. Twenty years ago, no one ever got fired for buying IBM. In the heyday of customer relationship management (CRM), com- panies bought first and asked questions later. Nowadays, business intelligence, data quality and master data management (MDM) initiatives have opened companies’ eyes to the fact that—absent sustained processes and data-centric expertise—the tools themselves rarely solve the problem</span><span class="txtwhite" style="margin: 0px; font: 8.4px Verdana;"></span><span style="margin: 0px; font: 8.4px Verdana;">.</span><a href="http://www.itwire.com/click/ccount12/click.php?id=76"><img src="/images/integration/fOnality/sm/download.gif" alt="Download" width="90" height="19" border="0" align="right"></a><br> <br>
+<h2 style="color:#20004E;"><a href="http://link.itwire.com/253693/">The Death of Traditional BI: What’s Next?</a></h2>
+  <span style="font-size: 16px; font-weight: bold; color: #666;">How to Make Business Discovery Work for Your Business</span> <span style="font-weight: bold; font-size: 18px;"><a href="http://link.itwire.com/253693/"><img src="/images/integration/qlikview/pdf/death-of-traditional-BI.jpg" alt="IP PABX BUYING GUIDE" align="left" height="158" width="125"></a></span><span class="txtwhite" style="margin: 0px; "><br>
+ <br>
+ Business Discovery takes its cues from consumer apps. Like Google, it encourages us- ers to hunt for and explore data without worrying about or even noticing the underly- ing technology. Their entire experience is working within an intuitive interface to get real-time, self-service results with only minimal training.<a href="http://link.itwire.com/253693/"> ...more</a><br> 
+ </span><br>
 </div>		</div>
-			<div class="moduletable-green">
-					<h3>SPONSORED ANNOUNCEMENTS</h3>
-					<div style="padding:0 6px"><h2><a class="contentpagetitle-green" href="/sponsored-announcements/47740-solarwinds-gives-under-served-mid-market-companies-affordable-and-powerful-foundation-for-managing-the-cloud">SolarWinds gives under-served mid-market companies affordable and powerful foundation for managing the cloud</a></h2>
-Thursday, 09 Jun 2011<br><p class="intro">SYDNEY, June 9, 2011.  The adoption of server virtualization has introduced growth and challenges at a faster pace than any technology IT has seen in recent history. Due to its efficiency and cost benefits, the mid-market is rapidly embracing virtualization as a first step towards cloud computing.</p>
-</div>
-<div class="dn-each-green"><span class="dn-head-green"><a href="/sponsored-announcements/47697-city-of-charles-sturt-improves-flexibility-and-productivity-with-mitel-unified-communications">City of Charles Sturt Improves Flexibility and Productivity with Mitel Unified Communications</a></span>
-</div><br>		</div>
-			<div class="moduletable">
-					<div align="right"><a href="http://www.whatech.com.au" target="_blank" class="small"> Advertise here  -  submit press releases </a></div>		</div>
 	
 				</div>
 			
@@ -278,20 +402,23 @@ Thursday, 09 Jun 2011<br><p class="intro">SYDNEY, June 9, 2011.  The adoption of
 <script type="text/javascript">
 GA_googleFillSlot("US_Exclusive_300");
 </script>
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-
-
-
 <!-- end ad tag -->		</div>
 	
 									<div class="tile1a">		<div class="moduletable">
+					<script type="text/javascript">
+GA_googleAddSlot("ca-pub-1481630434357351", "A160-cloud-computing-Technology-Feature-Sponsorship");
+</script>
+
+
+<!-- A160-cloud-computing-Technology-Feature-Sponsorship -->
+<script type="text/javascript">
+GA_googleFillSlot("A160-cloud-computing-Technology-Feature-Sponsorship");
+</script>		</div>
+			<div class="moduletable">
 					<!-- Tile -->
 <script type="text/javascript">
 GA_googleFillSlot("Tile");
 </script>		</div>
-			<div class="moduletable_twittericon">
-					<div style="position:fixed; bottom:0px; right:0px; z-index:999;"><a href="http://twitter.com/itwire" target="_blank"><img title="Follow Us On Twitter" alt="Follow us on Twitter" src="http://www.itwire.com/modules/mod_followme/images/followme_left.png" border="0"></a></div>		</div>
 	</div>
 					<div class="tile1b">		<div class="moduletable">
 					<a><!--this is a palceholder DFP--></a>		</div>
@@ -312,6 +439,10 @@ GA_googleFillSlot("A160-index-sky-scraper2");
 							</div>
 		
 	</div>
+    
+    
+    
+    
 </div>
 </div>
 
@@ -331,7 +462,7 @@ GA_googleFillSlot("A160-index-sky-scraper2");
 
 <div class="footer-shadow">
 			<div id="bottom-menu" class="wrapper" style="width:1000px;">
-			<ul class="menu"><li class="active item336"><a href="/your-it-news"><span>YOUR IT</span></a></li><li class="item249"><a href="/your-it-news/entertainment"><span>Entertainment</span></a></li><li class="item250"><a href="/your-it-news/home-it"><span>Home IT</span></a></li><li class="active item251"><a href="/your-it-news/mobility"><span>Mobility</span></a></li></ul>
+			
 		</div>
 	
 	<div class="footer-shadow-img">
@@ -343,7 +474,7 @@ GA_googleFillSlot("A160-index-sky-scraper2");
 				<li><a href="http://www.itwire.com/"><span>Disccussion Forum</span></a></li>
 				<li><a href="http://www.itwire.com/"><span>IT &amp; T &nbsp;Jobs</span></a></li>
 			</ul>
-								<ul class="menu"><li class="item148"><a href="/tagcloud"><span>Tag Cloud</span></a></li><li class="item128"><a href="/rss-feeds"><span>RSS feeds</span></a></li><li class="item192"><a href="/update"><span>UPDATE</span></a></li><li class="item193"><a href="/subscribe"><span>Subscribe</span></a></li><li class="item194"><a href="/about-itwire"><span>About iTWire</span></a></li><li class="item195"><a href="/advertise"><span>Advertise</span></a></li><li class="item196"><a href="/desktop-alerts"><span>Desktop Alerts</span></a></li><li class="item197"><a href="/sms-headlines"><span>SMS Headlines</span></a></li><li class="item198"><a href="http://www.rochen.com.au/" target="_blank"><span>Web Hosting provided by Rochen Ltd</span></a></li><li class="item242"><a href="/it-education"><span>IT Education</span></a></li><li class="item283"><a href="http://myprofile.itwire.com/?pcode=ITWfooter" target="_blank"><span>MyProfile</span></a></li><li class="item285"><a href="http://www.whatech.com.au/technology-directory" target="_blank"><span>Australian IT Directory</span></a></li><li class="item288"><a href="/browse-jobs"><span>Browse jobs</span></a></li><li class="item289"><a href="/contact"><span>Contact us</span></a></li><li class="item290"><a href="/our-team"><span>Our Team</span></a></li><li class="item296"><a href="http://www.whatech.com.au/"><span>Press Release Distribution</span></a></li><li class="item302"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item304"><a href="/whitepapers"><span>Whitepapers</span></a></li><li class="item298"><a href="/it-pro-centre"><span>IT Pro-Centre</span></a></li><li class="item329"><a href="/erp"><span>ERP</span></a></li><li class="item343"><a href="/data-centres"><span>Data Centres</span></a></li><li class="item344"><a href="/data-loss-prevention"><span>Data Loss Prevention</span></a></li><li class="item353"><a href="/data-management-resource-centre"><span>Data Management Resource Centre</span></a></li><li class="item352"><a href="/data-management"><span>Data Management</span></a></li><li class="item354"><a href="/data-management-resource-download"><span>Data Management Resource Download</span></a></li><li class="item359"><a href="/storage"><span>Storage</span></a></li><li class="item360"><a href="/security"><span>Security</span></a></li></ul>
+								<ul class="menu"><li class="item148"><a href="/tagcloud"><span>Tag Cloud</span></a></li><li class="item128"><a href="/rss-feeds"><span>RSS feeds</span></a></li><li class="item192"><a href="/update"><span>UPDATE</span></a></li><li class="item193"><a href="/subscribe"><span>Subscribe</span></a></li><li class="item194"><a href="/about-itwire"><span>About iTWire</span></a></li><li class="item195"><a href="/advertise"><span>Advertise</span></a></li><li class="item196"><a href="/desktop-alerts"><span>Desktop Alerts</span></a></li><li class="item197"><a href="/sms-headlines"><span>SMS Headlines</span></a></li><li class="item198"><a href="http://www.rochen.com.au/" target="_blank"><span>Web Hosting provided by Rochen Ltd</span></a></li><li class="item242"><a href="/it-education"><span>IT Education</span></a></li><li class="item283"><a href="http://myprofile.itwire.com/?pcode=ITWfooter" target="_blank"><span>MyProfile</span></a></li><li class="item285"><a href="http://www.whatech.com.au/technology-directory" target="_blank"><span>Australian IT Directory</span></a></li><li class="item288"><a href="/browse-jobs"><span>Browse jobs</span></a></li><li class="item289"><a href="/contact"><span>Contact us</span></a></li><li class="item290"><a href="/our-team"><span>Our Team</span></a></li><li class="item296"><a href="http://www.whatech.com.au/"><span>Press Release Distribution</span></a></li><li class="item302"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li class="item304"><a href="/whitepapers"><span>Whitepapers</span></a></li><li class="item298"><a href="/it-pro-centre"><span>IT Pro-Centre</span></a></li><li class="item329"><a href="/erp"><span>ERP</span></a></li><li class="item343"><a href="/data-centres"><span>Data Centres</span></a></li><li class="item344"><a href="/data-loss-prevention"><span>Data Loss Prevention</span></a></li><li class="item353"><a href="/data-management-resource-centre"><span>Data Management Resource Centre</span></a></li><li class="item352"><a href="/data-management"><span>Data Management</span></a></li><li class="item354"><a href="/data-management-resource-download"><span>Data Management Resource Download</span></a></li><li class="item359"><a href="/storage"><span>Storage</span></a></li><li class="item360"><a href="/security"><span>Security</span></a></li><li class="item376"><a href="/business-intelligence/blog"><span>Business Intelligence Blog</span></a></li><li class="item377"><a href="/nbn-update"><span>NBN UPDATE</span></a></li><li class="item355"><a href="http://link.itwire.com/video/"><span>Video</span></a></li><li class="item386"><a href="/cloud-outlook"><span>Cloud Outlook</span></a></li></ul>
 					</div>
 	</div>
 </div>
@@ -355,18 +486,26 @@ GA_googleFillSlot("A160-index-sky-scraper2");
 
 
 
-<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
-<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
-<script type="text/javascript">
-	var _rsCI="f2";
-	var _rsCG="itwire";
-	var _rsDN="//secure-au.imrworldwide.com/";
+
+
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js">
 </script>
-<script type="text/javascript" src="//secure-au.imrworldwide.com/v53.js"></script>
+<script type="text/javascript">
+ var pvar = { cid: "itwire", content: "0", server: "secure-au" };
+ var trac = nol_t(pvar);
+ trac.record().post();
+</script>
 <noscript>
-	<div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=f2&amp;cg=itwire&amp;cc=1" alt=""/></div>
+ <div>
+ <img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=itwire&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="stats" />
+ </div>
 </noscript>
-<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+
+
 
 
 <!-- Start of StatCounter Code -->
@@ -383,10 +522,16 @@ var sc_security="c71c1b87";
 
 
 <!-- Start of google-analytics Code -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
-_uacct = "UA-434327-1";
-urchinTracker();
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-434327-1']);
+_gaq.push(['_setDomainName', '.itwire.com']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;
+	ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';
+	var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga, s)
+})();
 </script>
 <!-- End of google-analytics Code -->
 
@@ -410,29 +555,28 @@ _qoptions={qacct:"p-a5g4zk6N5HVu6"};
 
 
 
-<!-- all 0.42375421524-->
+<!-- all 0.437502861023-->
 <!--
-0.01261=mod_mainmenu_271
-0.01237=mod_mainmenu_392
-0.00446=mod_mainmenu_  1
-0.00099=mod_dn_445
-0.00091=mod_followme_1094
-0.00070=mod_custom_411
-0.00069=mod_mainmenu_382
-0.00064=mod_my_news_714
-0.00049=mod_mainmenu_276
-0.00049=mod_custom_918
-0.00049=mod_custom_453
-0.00049=mod_custom_343
-0.00048=mod_mainmenu_277
-0.00048=mod_custom_938
-0.00048=mod_custom_922
-0.00048=mod_custom_490
-0.00048=mod_custom_1048
+0.01238=mod_mainmenu_271
+0.01204=mod_mainmenu_392
+0.00416=mod_mainmenu_  1
+0.00157=mod_my_news_714
+0.00064=mod_mainmenu_382
+0.00048=mod_mainmenu_276
 0.00048=mod_custom_1038
-0.00047=mod_custom_990
-0.00047=mod_custom_957
-0.00047=mod_custom_927
-0.00047=mod_custom_803
+0.00047=mod_mainmenu_277
+0.00037=mod_custom_411
+0.00036=mod_proxy_module_1241
+0.00025=mod_custom_453
+0.00023=mod_custom_918
+0.00023=mod_custom_803
+0.00023=mod_custom_343
+0.00023=mod_custom_1124
+0.00022=mod_custom_938
+0.00022=mod_custom_927
+0.00022=mod_custom_922
+0.00022=mod_custom_1230
+0.00022=mod_custom_1048
+0.00021=mod_custom_752
 -->
 </body></html>
