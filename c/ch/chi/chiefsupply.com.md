@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611023316id_/http%3A//www.chiefsupply.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefsupply.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210005848id_/http%3A//www.chiefsupply.com/Privacy.aspx) for the most accurate reproduction.*
 
 # CHIEF's Privacy & Security Policy | CHIEF
 
@@ -14,7 +14,7 @@
 
 
 
-#### If at any time you have a complaint or concern about CHIEF, please [contact us](https://web.archive.org/web/20110611023316id_/http%3A//www.chiefsupply.com/CustomerService.aspx).
+#### If at any time you have a complaint or concern about CHIEF, please [contact us](https://web.archive.org/web/20111210005848id_/http%3A//www.chiefsupply.com/CustomerService.aspx).
 
 ### Contact Information
 
@@ -30,19 +30,19 @@ Our postal addresses are:
 >  P.O. Box 23438  
 >  Eugene, OR 97402
 
-We can be reached via [email at this address](https://web.archive.org/web/20110611023316id_/http%3A//www.chiefsupply.com/CustomerService.aspx) or you can reach us by telephone at (888) 588-8569 from 8 a.m. - 7 p.m. E.T., Mon. - Fri.. 
+We can be reached via [email at this address](https://web.archive.org/web/20111210005848id_/http%3A//www.chiefsupply.com/CustomerService.aspx) or you can reach us by telephone at (888) 588-8569 from 8 a.m. - 7 p.m. E.T., Mon. - Fri.. 
 
 ## Full Details & Required Legal Speak
 
 ### Security
 
-We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. For more information, see [How We Protect You & Prevent Credit Card Fraud](https://web.archive.org/web/20110611023316id_/http%3A//www.chiefsupply.com/fraud-prevention.aspx).
+We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. For more information, see [How We Protect You & Prevent Credit Card Fraud](https://web.archive.org/web/20111210005848id_/http%3A//www.chiefsupply.com/fraud-prevention.aspx).
 
 ### What We Track & What We Don't Track
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the email address (where possible). 
 
-We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as catalog requests or on-line orders. 
+We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as contact requests or on-line orders. 
 
 ### How We Use Contact Information
 
@@ -52,7 +52,7 @@ When we offer contests, promotions or feedback surveys, you may be required to p
 
 If you do not want to receive email from us in the future, please let us know by sending us email at the above address. 
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart. To purchase off of our Website, the user must enable cookies. 
+With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart. To purchase off of our Website, the user must enable cookies. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). 
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above or by emailing us at the above address. 
 
@@ -66,7 +66,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them. 
 
-Consumers can access this information by writing to us at the 1400 Executive Parkway, Suite 100/ Mailbox 26, Eugene, OR 97401. 
+Consumers can access this information by writing to us at 8604 Cliff Cameron Dr., Suite 105, Charlotte, NC 28269. 
 
 Consumers can have this information corrected by calling us at (888) 588-8569 from 8 a.m. - 7 p.m. E.T., Mon. - Fri.. 
 
@@ -74,4 +74,4 @@ Consumers can have this information corrected by calling us at (888) 588-8569 fr
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
-_Last Updated: May 13, 2009_
+_Last Updated: August 8, 2011_
