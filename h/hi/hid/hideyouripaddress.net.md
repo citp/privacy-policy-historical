@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hideyouripaddress.net privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007054722id_/http%3A//www.hideyouripaddress.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hideyouripaddress.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209023403id_/http%3A//www.hideyouripaddress.net/privacy_policy) for the most accurate reproduction.*
 
 # 
 
