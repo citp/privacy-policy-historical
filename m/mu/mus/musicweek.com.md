@@ -1,73 +1,100 @@
-> *The following text is extracted and transformed from the musicweek.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515011253id_/http%3A//www.privacypolicy.cmpi.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicweek.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209020954id_/http%3A//www.musicweek.com/hybrid.asp%3FtypeCode%3D142%26pubCode%3D1%26navcode%3D54) for the most accurate reproduction.*
 
-# UBMi Privacy Policy
+# Music Week
 
-**CUSTOMER PRIVACY POLICY**
+INTENT MEDIA LIMITED ("We" or "Our") are committed to protecting and respecting your privacy. This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-This Customer Privacy Policy governs the collection and use of personal information relating to potential and existing customers of UBM Information Limited by the company and its affiliates within the United Business Media group (collectively “UBM Information”).  For further details of the United Business Media group see: [www.ubm.com](http://www.ubm.com/). 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is INTENT MEDIA LIMITED of SAXON HOUSE, 6A ST ANDREW STREET, HERTFORD, SG14 3AL, UNITED KINGDOM. Our nominated representative for the purpose of the Act is Stuart Dinsey. 
 
-UBM Information is committed to abiding by this Customer Privacy Policy, as well as the requirements of applicable laws, in the operation of its business. Please read this policy carefully as it explains the kinds of personal information we collect about you and how it is handled.
+## **Information we may collect from you**
 
-For the purpose of the Data Protection Act 1998, the data controller is UBM Information Limited of Ludgate House, 245 Blackfriars Road, London SE1 9UY.
+We may collect and process the following data about you: 
 
-By your continued use of our services (including our web sites), you consent to the collection and use of your personal information by UBM Information for the purposes set out in this Customer Privacy Policy.
+1\. Information that you provide by filling in forms on our site www.musicweek.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information [when you enter a competition or promotion sponsored by Intent Media] and when you report a problem with our site. 
 
-**COLLECTION AND USE OF PERSONAL INFORMATION**
+If you contact us, we may keep a record of that correspondence. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-We will generally let you know at the time of collection how we intend to use your personal information. Usually, we collect personal information about you which we require to respond to your inquires for payment processing and for the provision of goods and services to you. We also process your personal information where we are required to do so by law, and for the exercise or defence of legal claims. From time to time, we may contact you for research purposes, or to tell you about our special offers and other services in accordance with your contact preferences. Where appropriate, we will obtain your consent to do so. Personal information collected from you may include your name, payment processing information, postal address, email address, landline or mobile telephone number, delivery details as well as other non sensitive personal information. If you use our web sites, we may also collect information about you or your computer when you browse to allow you to use the services available.
+2.Details of transactions you carry out through our site and of the fulfilment of your orders. 
 
-**WEBSITE USAGE & COOKIES**
+Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
 
-If you are using our web sites, we will use your personal information to help you to log on to your account and into restricted areas of our web sites and to permit future use of the web sites. We may use your IP address to help diagnose problems with our server, or to administer our web sites. We may conduct analyses of user traffic to measure the use of our sites and to improve the content of our web sites and our services. These analyses will be performed through the use of IP addresses and cookies. We may also use cookies to enable the signing in process after you have registered with us and to provide you with more tailored information when you return to our web sites. A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you reject the use of cookies please note that the efficient operation of the web site that you are using may be affected. Some of our websites use cookies to track the frequency of your usage and determine your access to those sites, as set out in the terms and conditions of those websites.  Where such tracking cookies are used you may not be able to access those websites if you reject cookies.  Most of the advertisements that you see on the web sites are generated by third parties who may use cookies to track viewing of their advertisements and for other purposes specified in their own privacy policies. We have no access to or control over these cookies (although we may use statistical information provided to us – not containing personal information – arising from these third party cookies to improve the targeting of advertisements to you and other users of the web sites). You can obtain further information about third party privacy policies or disable their cookies by visiting their web sites.
+3\. As part of the registration process for joining our site you have the opportunity to opt in or out of various email communications. If at any stage you wish no longer to receive any emails that you receive from the site you can stop them coming by changing your preferences in the "Email settings" section under "Your Account". You can define what emails you receive from the site (if any) and save your settings. 
 
-**THIRD PARTY**
+## **IP addresses and cookies**
 
-We will only disclose personal information about you to third parties for processing purposes associated with payment processing, the supply of goods and services, for web site administration, or elsewhere when you have consented to such disclosures, or where such disclosures are required or permitted by law. These third parties we contractually bound only to use personal information to perform the services that we hire them to provide. Unless you have indicated that we may not do so, we may lease or rent your personal information to selected third parties for their postal or telephone marketing use.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-**TRANSFER OF DATA**
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us: 
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things,  the fulfillment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We also take measures to ensure that personal information transferred by us outside of the EEA is adequately protected.
+To estimate our audience size and usage pattern. 
 
-**VIRTUAL PRODUCTS**
+To store information about your preferences, and so allow us to customise our site according to your individual interests. 
 
-In the case of your use of one of our virtual products e.g. Virtual Exhibitions, Webinars etc, we may pass the personal information you provided to us to 3rd parties. Generally this will be via a process whereby you, as the user, visit or interact with a 3rd party eg: visit a stand at an exhibition. However, in some instances our virtual products are sponsored and, in such cases the data you provided to us will be given to the sponsor. Generally we will let you know at the time of collection if a product is sponsored.
+To speed up your searches. 
 
-If you wish to change your contact preferences with an individual exhibitor/sponsor, please follow their own unsubscribe request details. Unsubscribing to the UBM Information will stop UBM Information from contacting you in the future, but not the individual 3rd parties whom you have interacted with.
+To recognise you when you return to our site. 
 
-We take your contact preferences very seriously. If you would prefer for your details not to be passed to any 3rd parties as laid out in this section, you are advised not to register for the virtual product.
+You may refuse to accept cookies by activating the setting on your browser that allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-**EMAIL CAPTURE**
+Please note that our advertisers may also use cookies, over which we have no control. 
 
-UBM Information Ltd may from time to time send updates about this product and other relevant UBM Information products and services. Your email address will not be given to 3rd parties except where outlined in the privacy policy. By providing your email address you consent to being contacted for direct marketing purposes by UBM Information Ltd. 
+## **Where we store your personal data**
 
-**MOBILE PHONE CAPTURE**
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-UBM Information Ltd may from time to time contact you about this product and other relevant UBM Information products and services. By providing your mobile number you consent to being contacted for direct marketing purposes via voice calls or SMS by UBM Information Ltd.
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted [using SSL technology]. Where we have given you (or where you have chosen) a password that enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-**SECURITY OF PERSONAL INFORMATION**
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
 
-We use administrative, technical, and physical measures to safeguard personal information against loss, theft and unauthorised  uses, access or modifications. Certain areas of our web sites may be password protected. If you are a user of our web sites and have a password, you can help to preserve your privacy by ensuring that you do not share your password with anyone else.
+## **Uses made of the information**
 
-Payments made via our web sites are processed in a secure environment using software provided by Verifone or other third party providers.
+We use information held about you in the following ways: 
 
-We take steps to regularly validate the personal information we hold to ensure that the information is accurate and, where necessary, up to date. Information that is no longer required for any valid business purpose, and that we are not required to keep pursuant to any applicable law, will be routinely destroyed by secure means.
+To ensure that content from our site is presented in the most effective manner for you and for your computer. 
 
-**MAKING AUTOMATED DECISIONS**
+To provide you with information, products or services that you request from us or that we feel may interest you, where you have consented to be contacted for such purposes. 
 
-We do not ordinarily use personal information for the purposes of automated decision making. However, may do so in order to fulfill compelling obligations imposed by law, in which case we will inform of any such processing and provide you with an opportunity to object.
+To carry out our obligations arising from any contracts entered into between you and us. 
 
-**ACCESS TO PERSONAL INFORMATION**
+To allow you to participate in interactive features of our service, when you choose to do so. 
 
-You may access, renew and update personal information that we hold about you by contacting us as detailed below.
+To notify you about changes to our service. 
 
-**CONTACTING US**
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services that may be of interest to you and we or they may contact you about these by [post or telephone].
 
-If you have any questions about this privacy policy, or no longer wish to receive anything from UBMi Ltd or have your data made available to 3rd parties, you can email us at [ubmidpa@ubm.com](mailto:ubmidpa@ubm.com) or write to the Data Protection Co-ordinator, Audience & Data Group, UBM Information Ltd., FREEPOST LON 15637, Tonbridge TN9 1BR. Freephone 0800 279 0357.
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those that were the subject of a previous sale to you. 
 
-**CHANGES TO PRIVACY POLICY**
+If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. 
 
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the [order form OR registration form]). 
+
+[We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.] 
+
+## **Disclosure of your information**
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985. We may disclose your personal information to third parties: 
+
+In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
+
+If Intent Media Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
+
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use other agreements; or to protect the rights, property, or safety of Intent Media, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+
+## **Links to Other External Sites**
+
+This web site may contain links to other sites. We cannot be held responsible for the privacy practices of other such sites. Please do not assume that other sites abide by our privacy standards. 
+
+**Your rights**  
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at INTENT MEDIA LIMITED, SAXON HOUSE, 6A ST ANDREW STREET, HERTFORD, SG14 3AL, UNITED KINGDOM.
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+
+**Access to information**  
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+
+**Changes to our privacy policy**  
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-Please review our privacy policy on a regular basis to make sure you have read the latest version and you understand what we do with your personal information. Your continued use of our services or our web sites following the posting of changes to these terms means that you consent to those changes.
+## **Contact**
 
-**This version of the privacy policy is effective as of 15 th September 2010**
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to INTENT MEDIA LIMITED, SAXON HOUSE, 6A ST ANDREW STREET, HERTFORD, SG14 3AL, UNITED KINGDOM.
