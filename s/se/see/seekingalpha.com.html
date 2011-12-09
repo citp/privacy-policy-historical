@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seekingalpha.com privacy policy that was archived on 2011-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622121719id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seekingalpha.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209143847id_/http%3A//seekingalpha.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy - Seeking Alpha</title>
@@ -7,27 +7,14 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta http-equiv="P3P" content="CP=&quot;IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT&quot;">
 <link rel="search" type="application/opensearchdescription+xml" href="/javascripts/seeking.xml" title="SeekingAlpha Search">
-
-
-
-<link href="http://static.seekingalpha.com/stylesheets/print.css?1306651449" media="print" rel="stylesheet" type="text/css">
-
+<link href="http://static.seekingalpha.com/stylesheets/print.css?1318859114" media="print" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" type="image/ico" href="http://static.seekingalpha.com/favicon.ico">
 
 
-<link href="http://static.seekingalpha.com/stylesheets/performance_layout_packaged.css?1308672857" media="screen" rel="stylesheet" type="text/css">
-
-<link href="http://static.seekingalpha.com/stylesheets/second_performance_layout_packaged.css?1308672859" media="screen" rel="stylesheet" type="text/css">
-
-
-
-
-
-
-
-<script type="text/javascript">
-  var users_on_site='754,288';
-	var has_etf_changed_hash = {}; 
+<link href="http://static.seekingalpha.com/stylesheets/performance_layout_packaged.css?1321956719" media="screen" rel="stylesheet" type="text/css"><link href="http://static.seekingalpha.com/stylesheets/second_performance_layout_packaged.css?1321956721" media="screen" rel="stylesheet" type="text/css">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">
+  var users_on_site='860,552';
+  var has_etf_changed_hash = {}; 
   var user_cookie={};
 
   function readCookie(name) {
@@ -54,30 +41,24 @@
       quantSegs += "qc=" + result.segments[i].id + ";";
     }
   }
-</script>
 
+  var _sf_startpt=(new Date()).getTime();
+</script>
 <script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-36Zq38JCUmc3w&amp;callback=qc_results"></script>
 
-<script src="http://static.seekingalpha.com/javascripts/common_packaged.js?1308672833" type="text/javascript"></script>
-
-
-
+<script src="http://static.seekingalpha.com/javascripts/common_packaged.js?1321956704" type="text/javascript"></script>
 <script src="http://partner.googleadservices.com/gampad/google_service.js" type="text/javascript"></script>
-
-
-
 <script type="text/javascript">
+  if (!(SA.Utils.Env.isIPhone || SA.Utils.Env.isIPod || SA.Utils.Env.isIPad || SA.Utils.Env.isAndroid) && readCookie("sa_mobile")) { eraseCookie("sa_mobile"); location.reload();}
   if (typeof(is_users_cookie_exists) == "function" && is_users_cookie_exists() && readCookie('user_email').indexOf('@gmail.com')!=-1) {
     createCookie('user_email',(readCookie('user_email').replace('@gmail.com','').replace(/\./gi,'').replace(/\+(.*?)$/,''))+'@gmail.com',365)
   }
 
-  eraseCookie('user_gigya_providers');
+  if (typeof(readCookie) == "function" && readCookie('user_vocation')) {
+    createCookie('u_voc',readCookie('user_vocation'),3000);
+  }
 
   var user_cookie = user_cookie || {};
-
-  <!-- ClickTale Top part -->
-  var WRInitTime=(new Date()).getTime();
-  <!-- ClickTale end of Top part -->
 
   var _comscore = _comscore || [];
   _comscore.push({ c1: "2", c2: "8500672" });
@@ -88,23 +69,64 @@
   })();
 
   var _sf_startpt=(new Date()).getTime(); // chartbeat code
+
+function user_profiles() {
+  var path = top.location.pathname;
+  var path_filter = top.location.search.toLowerCase()
+  var user_interests = '';
+  var user_non_watchlist_slugs = '';
+  if (is_users_cookie_exists()) {
+    user_interests = ","+readCookie('user_interests')+",";
+    user_non_watchlist_slugs = readCookie('user_non_watchlist_slugs')
+    if (!user_non_watchlist_slugs) {
+      user_non_watchlist_slugs = '';
+    }
+  }
+
+  from_broker_urls(user_interests);
+  from_bloomberg(path_filter);
+  advanced_trader(path);
+  see_etf(path, user_interests, user_non_watchlist_slugs);
+  see_options(path_filter, user_interests, user_non_watchlist_slugs);
+  see_gold(path_filter, user_non_watchlist_slugs);
+  see_commodities(path_filter, user_non_watchlist_slugs);
+  see_mutualfunds(user_interests);
+  see_longideas(path_filter, user_interests, user_non_watchlist_slugs);
+  see_currencies(path_filter, user_interests, user_non_watchlist_slugs);
+  see_ipo_scup_transcripts(path, path_filter);
+  has_etf_on_portfolio(user_interests);
+  see_health_or_biotech(path_filter, user_interests, user_non_watchlist_slugs);
+  see_bonds(path_filter, user_interests);
+  see_fund_holdings(path_filter, user_non_watchlist_slugs);
+  interest_in_gold(user_interests);
+}
 </script>
 
 <noscript>
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" />
 </noscript>
 
+<style>
+.more_email_alerts .more_email_alerts_text {
+    line-height:1.5em;
+}
+.more_email_alerts .more_email_alerts_new {
+    font-size:17px;
+    font-family:tahoma;
+}
+#article_body p,
+#article_body blockquote {
+    overflow: visible;
+}
+</style>
 
-<script type="text/javascript" src="/javascripts/refaeli.js"></script>
-<script type="text/javascript">updateSliderTracking();</script>
+
     
   </head>
   
+    <body class="stretch_bg">
   
-    <body class="no_stretch">
-  
-  
-    <div id="floating_bar" style="left:6px; bottom:-1px;">
+    <div id="floating_bar">
       <div class="floating_logged_in" id="floating_logged_in" style="display:none;"></div>
       <div class="floating_logged_out" id="floating_logged_out">
         <ul>
@@ -113,18 +135,17 @@
         </ul>
       </div>
     </div>
-    
-      <script>var ord = Math.floor(Math.random()*1000000000);</script>
+          <script>var ord = Math.floor(Math.random()*1000000000);</script>
 <span class="seeking_alpha_site_title">Seeking Alpha</span>
 <script type="text/javascript">
-if (readCookie('sa_mobile') == '0'){
-var aHTML =[];
-aHTML.push('<div class="mobile_or_full_site">');
-aHTML.push('<span class="mobile_site" onclick="createCookie(\'sa_mobile\',1,1000);top.location.reload()">Click here to view mobile site</span>');
-aHTML.push('<div class="cleaner"></div>');
-aHTML.push('</div>');
-document.write(aHTML.join(""));
-}
+  if (readCookie('sa_mobile') == '0') {
+    var aHTML =[];
+    aHTML.push('<div class="mobile_or_full_site">');
+      aHTML.push('<span class="mobile_site" onclick="createCookie(\'sa_mobile\',1,1000);top.location.reload()">Click here to view mobile site</span>');
+      aHTML.push('<div class="cleaner"></div>');
+    aHTML.push('</div>');
+    document.write(aHTML.join(""));
+  }
 </script>
 <div id="header" class="not_logged_in header_nav">
   <div id="logo_and_navigation" class="logo_and_primary_navigation">
@@ -133,68 +154,79 @@ document.write(aHTML.join(""));
   <div id="popup_secondary">
     <div id="inner_popup"></div>
   </div>
-</div>
-    <h1><a href="/" title="Seeking Alpha - Home Page" sasource="salogo"></a></h1>
+</div>    <h1><a href="/" title="Seeking Alpha - Home Page" sasource="salogo"></a></h1>
     <div class="item banner728x90">
-      
-      
         <script type="text/javascript">
           iframeAd("728x90",'http://a.collective-media.net/adj/sek.common/general;sz=728x90;x=x;tile=1;d=common;t=general;'+dart_my_vocation_and_profiles()+'ord='+ord+'?"');
         </script>
-      
     </div>
   </div>
   <div id="nav_container">
     <div id="navi_cont">
-	<ul id="navi">
-    <li onclick="" onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
-		  <a href="#" onclick="decide_which_hp();return false;" sasource="headtabs">Home</a>
-		  <span class="navi_right_corner">|</span>
-		</li>
-		<li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
-		  <a href="/currents/all" sasource="headtabs">Market Currents</a>
-		  <span class="navi_right_corner">|</span>
-		</li>
-		<li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
-		  <a href="/dashboard/investing_ideas" sasource="headtabs">Long &amp; Short Ideas</a>
-		  <span class="navi_right_corner">|</span>
-		</li>
-		<li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
-		  <a href="/dashboard/investing_income" sasource="headtabs">Investing for Income</a>
-		  <span class="navi_right_corner">|</span>
-		</li>
-		<li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
-		  <a href="/dashboard/etfs" sasource="headtabs">ETFs &amp; Portfolio Strategy</a>
-		  <span class="navi_right_corner">|</span>
-		</li>
-		<li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
-		  <a href="/dashboard/macro_view" sasource="headtabs">Macro View</a>
-		  <span class="navi_right_corner">|</span>
-		</li>
+  <ul id="navi">
+    <li class="home" onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+      <a href="/" sasource="headtabs">Home</a>
+      <span class="navi_right_corner">|</span>
+    </li>
+    <li class="portfolios" onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+      <a href="/account/portfolio" sasource="headtabs">Portfolio</a>
+      <span class="navi_right_corner">|</span>
+    </li>
     <li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
-			<a href="/tag/transcripts" sasource="headtabs">Earnings Center</a>
-	    <span class="navi_right_corner">|</span>
-		</li>
-		<li onmouseout="removeThisClass(this,'yes_selected_not_new')" onmouseover="addThisClass(this,'yes_selected_not_new')">
-		  <a sasource="headtabs" href="/store/apps-store-main">Investing Tools</a>
-		  <span class="navi_right_corner" id="navi_right_corner_last"></span>
-		</li>
-		<li id="nav_contributors_tabs" style="display:none !important"></li>
-	</ul>
-</div>
+      <a href="/currents/all" sasource="headtabs">Market Currents</a>
+      <span class="navi_right_corner">|</span>
+    </li>
+    <li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+      <a href="/dashboard/investing_ideas" sasource="headtabs">Long &amp; Short Ideas</a>
+      <span class="navi_right_corner">|</span>
+    </li>
+    <li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+      <a href="/dashboard/investing_income" sasource="headtabs">Investing for Income</a>
+      <span class="navi_right_corner">|</span>
+    </li>
+    <li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+      <a href="/dashboard/etfs" sasource="headtabs">ETFs &amp; Portfolio Strategy</a>
+      <span class="navi_right_corner">|</span>
+    </li>
+    <li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+      <a href="/dashboard/macro_view" sasource="headtabs">Macro View</a>
+      <span class="navi_right_corner">|</span>
+    </li>
+    <li onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+      <a href="/tag/transcripts" sasource="headtabs">Earnings</a>
+    </li>
+    <li id="user_settings_wrapper"></li>
+    <script type="text/javascript">
+      var aHtml=[];
+      if (is_users_cookie_exists()) {
+        var user_id = readCookie('user_id');
+        var user_nick = readCookie('user_nick');
+        if (user_nick == null || user_nick == "") user_nick = "User " + user_id;
+        var profile_href = (readCookie('author_slug')==null || readCookie('author_slug')=='') ? "/user/"+user_id+"/profile" : "/author/"+readCookie('author_slug');
 
-<script>
-  function decide_which_hp() {
-    if (readCookie('user_email') && (/@seekingalpha.com/.test(readCookie('user_email')))) {
-      top.location.href = '/new_hp';
-    } else {
-      top.location.href = '/';
-    }
-  }
-</script>
+        aHtml.push('<div class="user_settings" id="user_settings">');
+          aHtml.push('<span class="user_image"><img src="' + user_picture(user_id,'small') + '" /></span>');
+          aHtml.push('<span id="top_nav_arrow" class="top_nav_arrow_down" style="cursor:pointer;">'+(user_nick.length < 11 ? user_nick : user_nick.slice(0,8)+"...")+'</span>');
+          aHtml.push('<div class="user_settings_pop" id="user_settings_pop" onmouseover="show_item(\'user_settings_pop\');$(\'user_settings\').addClassName(\'up\')" style="display:none">');
+            aHtml.push('<ul>');
+              aHtml.push('<li><a href="'+profile_href+'" onclick="trackLink(this,\'Menu Tracking\',\'Profile\',location.href);">Profile</a></li>');
+              aHtml.push('<li><a href="/account/edit_bio" onclick="trackLink(this,\'Menu Tracking\',\'My Settings\',location.href);">Settings</a></li>');
+              aHtml.push('<li><a href="/email_preferences" onclick="trackLink(this,\'Menu Tracking\',\'Email alerts\',location.href);">Email alerts</a></li>');
+              aHtml.push('<li><a href="/store/my-applications" onclick="trackLink(this,\'Menu Tracking\',\'My Tools\',location.href);">Tools</a></li>');
+              aHtml.push('<li class="sign_out"><span onmouseover="link_over(this,\'#ff0000\')" onmouseout="link_out(this,\'#024999\')" onclick="trackLink(this,\'Menu Tracking\',\'Sign out\',location.href);logout();" class="logout_link">Sign Out</span></li>');
+            aHtml.push('</ul>');
+          aHtml.push('</div>');
+        aHtml.push('</div>');
+      } else {
+        aHtml.push('<span style="cursor:pointer;" onclick="open_header_log_in_popup_lightbox(\'headtabs_login\',\'\'); return false">Sign in / Join Now</span>');
+      }
+      $('user_settings_wrapper').innerHTML=aHtml.join("");
+    </script>
+  </ul>
+</div>
   </div>
   <script type="text/javascript">
-    if (/msie 6/i.test(navigator.userAgent)) document.write("<div class='ie_obsolete_message'>You are using outdated version of Internet Explorer which may distort the way you see certain areas of the site. You can <a href='http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx' onclick='pageTracker._trackEvent(\"IE Upgrade\",\"Click\");'>upgrade Internet Explorer here</a>.</div><div class='ie_obsolete_line'></div><div class='cleaner'></div>");
+    if (ieVersionOlderThan(6)) document.write("<div class='ie_obsolete_message'>You are using outdated version of Internet Explorer which may distort the way you see certain areas of the site. You can <a href='http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx' onclick='pageTracker._trackEvent(\"IE Upgrade\",\"Click\");'>upgrade Internet Explorer here</a>.</div><div class='ie_obsolete_line'></div><div class='cleaner'></div>");
     SeekingAlpha.Initializer.LogAndRun(set_login_and_registration_top_header);
     SeekingAlpha.Initializer.LogAndRun(InitSASource);
   </script>
@@ -239,17 +271,14 @@ document.write(aHTML.join(""));
 
     <div id="ads_and_tools" class="utility">
       <div class="item banner300x250">
-        <script>document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://a.collective-media.net/adj/sek.common/general;sz=300x250,300x600;x=x;tile=2;d=common;t=general;'+dart_my_vocation_and_profiles()+'ord='+ord+'?"></scr'+'ipt>');</script>
+        <script>document.write('<scr'+'ipt type="text/javascript" src="http://a.collective-media.net/adj/sek.common/general;sz=300x250,300x600;x=x;tile=2;d=common;t=general;'+dart_my_vocation_and_profiles()+'ord='+ord+'?"></scr'+'ipt>');</script>
       </div>
     </div>
   </div>
 </div>
-  <style>#footer_break_2{display:none}</style>
-<div id="footer_break"><div></div></div>
+  <div id="footer_break"><div></div></div>
 
 <div id="footer">
-
-
   <div id="footernav">
     <div class="footernav_left">
       <a href="http://seekingalpha.com" class="footernav_logo"></a>
@@ -257,7 +286,6 @@ document.write(aHTML.join(""));
         <div><span class="footer_title">TOP AUTHORS:</span>&nbsp;<a class="top_authors" href="/leader-board/opinion-leaders">The Opinion Leaders</a></div>
         <div class="top_boards">
           <span class="footer_title">TOP USERS:</span>
-          <a href="/leader-board/top-commenters">Commenters</a> <span class="fl_dash">|</span>
           <a href="/leader-board/top-stocktalkers">StockTalkers</a> <span class="fl_dash">|</span>
           <a href="/leader-board/top-instabloggers">Instabloggers</a>
         </div>    
@@ -265,35 +293,27 @@ document.write(aHTML.join(""));
       <div class="cleaner"></div>
     </div>
     <div class="footernav_right">
-      
       <div class="footernav_links">
         <a class="small_tweeter" target="_blank" href="http://twitter.com/seekingalpha">&nbsp;&nbsp;&nbsp; Twitter</a>
         <a class="small_rss" href="/page/feeds" sasource="footer">&nbsp;&nbsp;&nbsp;&nbsp;RSS Feeds</a>&nbsp;&nbsp;|&nbsp;
         <a href="/page/contact" sasource="footer">Contact Us</a>&nbsp;&nbsp;|&nbsp;
         <a href="/page/about_us" sasource="footer">About Us</a>&nbsp;&nbsp;|&nbsp;
-        <a href="/page/sa-job-opps" sasource="footer">Jobs at SA</a>&nbsp;&nbsp;|&nbsp;
-
         <a href="/premium-program/intro" sasource="footer">Premium Program</a>
       </div>
-      
       <div class="footernav_more_links">
         <a href="/page/terms-of-use" sasource="footer">Terms of Use</a> |
         <a href="/page/privacy" sasource="footer">Privacy</a> |
         <a href="http://www.xignite.com" target="_blank">Xignite quote data</a> |
         <span>Copyright © 2011</span>
       </div>
-      
       <div class="cleaner"></div>
     </div>
-   
   </div>
   <div id="footer_break_3"><div></div></div>
   <div class="cleaner"></div>
 </div>
 
-     <!-- ANALYTICS -->
- 
-   <script type="text/javascript">
+    <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -303,58 +323,70 @@ document.write(aHTML.join(""));
     var pageTracker = _gat._getTracker("UA-1466493-1");
     //pageTracker._setDomainName(".seekingalpha.com");
 
-    (function(){
+    (function() {
       //1 - foreign domain, 2 - whole path before '?', 3 - article's id, 4 - news-article id, 5 - instablog author id-slug, 6 - instablog id, 7 - title or anything else, 8 - ?..., 9 - #... (3,4,5+6 mutual exclusive)
       var urlRegExp = '^(?:https?://(?:(?:.+\\.)?seekingalpha.com|([^/]+)))?/((?:article/(\\d+)-|news-article/(\\d+)-|instablog/([^/]+)/(\\d+)-)?([^#?]*))(\\?[^#]*)?(#.*)?$';
       var m = document.referrer.match(urlRegExp), ref;
-      if (m){
+      if (m) {
         if (m[1]) ref = m[1]+'/'+m[2];
-        else if (m[3] && /transcript$/.test(m[7])) ref = 'article-trc/'+m[3];
-        else if (m[3]) ref = 'article/'+m[3];
-        else if (m[4]) ref = 'news-article/'+m[4];
-        else if (m[5]) ref = 'instablog/'+m[5];
+        else if (m[3] && /transcript$/.test(m[7])) ref = 'article-trc';
+        else if (m[3]) ref = 'article';
+        else if (m[4]) ref = 'news-article';
+        else if (m[5]) ref = 'instablog';
         else if (m[7]=='') ref = 'hp';
         else ref = m[7];
-
         //GA doesn't unescape custom vars on their side, so replacing to something that's not escaped
         pageTracker._setCustomVar(1, 'referrer', ref.replace(/\//g,'~').substr(0,54), 3);
       }
-
-      if (window._pageviewURL){
-        if (ref) window._pageviewURL += (window._pageviewURL.indexOf('?')==-1 ? '?' : '&') + 'ref=' + ref;
-      }
     })();
-
     pageTracker._setCustomVar(2, 'logged_in', (cookieExists('user_id') ? 'yes' : 'no'), 3);
     pageTracker._trackPageview(window._pageviewURL);
-    urchinTracker = pageTracker._trackPageview;
   } catch(err) {}
-  
+
+  urchinTracker = function(url) {
+    try {
+      pageTracker._trackPageview(url)
+    } catch (err) {}
+  };
+
   function trackLink(link, category, action, label) {
     try {
       pageTracker._trackEvent(category, action, label);
     }catch(err){}
-  }  
+  }
 </script>
- 
- 
- <script type="text/javascript">
-	if(typeof (authors) == "undefined" || typeof (symbols) == "undefined")
-		load_remote_script("/javascripts/sa.js");
- </script>
+<script type="text/javascript">
+  var _sf_async_config={uid:23852,domain:"seekingalpha.com",authors:false};
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js?v=3");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+
+  if(typeof (authors) == "undefined" || typeof (symbols) == "undefined")
+    load_remote_script("http://static.seekingalpha.com/javascripts/sa.js");
+</script>
 
 
 <script type="text/javascript">
-  SeekingAlpha.Initializer.LogAndRun(gigyaSA.init);
+  SeekingAlpha.Initializer.LogAndRun(socialSA.init);
   SeekingAlpha.Initializer.LogAndRun(LightBox.Init);
   SeekingAlpha.Initializer.LogAndRun(second_page_login_popup);
 
   SeekingAlpha.Initializer.Add(application_init);
-	//SeekingAlpha.Initializer.AddAfterLoad($.jStorage._init);
-
+  SeekingAlpha.Initializer.AddAfterLoad(fp_logged_out_user);
   SeekingAlpha.Initializer.AddAfterLoad(user_profiles);
-  SeekingAlpha.Initializer.AddAfterLoad(Mone.touch);
-  SeekingAlpha.Initializer.AddAfterLoad(function(){
+  SeekingAlpha.Initializer.AddAfterLoad(Mone.touch());
+
+  SeekingAlpha.Initializer.AddAfterLoad(function() {
     var source = window._saSource;
 
     if (source){
@@ -367,36 +399,31 @@ document.write(aHTML.join(""));
       if (event_data) pageTracker._trackEvent(event_data[0], event_data[1], event_data[2]);
     }
   });
-
   SeekingAlpha.Initializer.Run();
 </script>
-
+<div id="symbol_data_script_container"></div>
 <script type="text/javascript">
-var _sf_async_config={uid:23852,domain:"seekingalpha.com"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-       "js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
+  <!-- Quantcast Tag -->
+  var _qevents = _qevents || [];
+  (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+  })();
 
-<!-- Start Quantcast tag -->
-_qoptions={
-qacct:"p-36Zq38JCUmc3w"
-};
+  _qevents.push({
+    qacct:"p-36Zq38JCUmc3w"
+  });
+var ClickTaleFetchFrom = 'http://seekingalpha.com/submissions';
 </script>
-<script type="text/javascript" src="https://secure.quantserve.com/quant.js"></script>
+
 <noscript>
-<img src="https://secure.quantserve.com/pixel/p-36Zq38JCUmc3w.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-36Zq38JCUmc3w.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
 </noscript>
 <!-- End Quantcast tag -->
 
@@ -404,17 +431,6 @@ qacct:"p-36Zq38JCUmc3w"
 <script>if (/.com\/(\?.+)?$/.test(location.href)) { urchinTracker("event/home_page/" + (is_users_cookie_exists() ? "user" : "guest") + "/" + (isRefresh ? "refresh" : "new")) }</script>
 <!-- homepage event/user-guest/refresh-new checker ends -->
 
-<div id="ClickTaleDiv" style="display: none;"></div>
-<script type="text/javascript">
-if (location.href.match("http://seekingalpha.com/article/123456-")){
-  if(document.location.protocol!='https:')
-    document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb6.js'%20type='text/javascript'%3E%3C/script%3E"));
-}
-</script>
-<script type="text/javascript">
-  if(typeof ClickTale=='function') ClickTale(156,0.5,"www07");
-</script>
-
     <div class="cleaner"></div>
   
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js?v=3"></script></body></html>
