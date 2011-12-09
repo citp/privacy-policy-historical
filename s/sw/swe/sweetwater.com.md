@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117102726id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209115017id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Sweetwater.com
 
@@ -35,4 +35,4 @@ Sweetwater is not responsible for the content or practices employed by other web
 **Your Consent**  
 By using our website you consent to our collection and use of your personal information as described in this Policy. If we change our policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. 
 
-This policy was last updated on January 16, 2006. If you have any questions or concerns about this privacy policy, please call us at 800-222-4700 or email webmaster@sweetwater.com.
+This policy was last updated on January 16, 2006. If you have any questions or concerns about this privacy policy, please call us at 800-222-4700 or [contact us](https://web.archive.org/about/contact.php).
