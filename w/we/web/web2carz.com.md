@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502024949id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2carz.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209090425id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Used Car Search, New Car Search, Auto Finance Advice and Loans, Car Shopping Tips...
 
