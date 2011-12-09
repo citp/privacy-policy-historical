@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightthenight.org privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602183333id_/http%3A//www.lightthenight.org/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightthenight.org privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209150505id_/http%3A//www.lightthenight.org/footer/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -61,9 +61,6 @@ LLS may need to share personal information with third parties in other limited c
 
 
 We will only provide these companies the information they need to deliver the service and prohibit them from using that information for any other purpose. These companies/organizations do not share or use personally identifiable information that may be obtained from these transactions for any secondary purposes. 
-
-**Links**  
-LLS web sites provide select links to other sites. Determination of which outside links to include on the LLS Web sites is made by healthcare and clinical research professionals, to ensure that only links to sites that meet our standards for accuracy and reliability are included. Please be aware, however, that LLS is not responsible for the policies or privacy practices of Web sites maintained by other organizations. We encourage our users to be aware when they leave our sites, and to read the privacy statements of each and every Web site that collects personally identifiable information that they might visit. This privacy statement applies solely to information collected by LLS web sites. 
 
 **Notification of Changes**  
 If The Leukemia & Lymphoma Society changes its privacy policy, changes to this privacy statement will be posted, with prominent links to the new policy positioned on the LLS homepage ([http://www.lls.org](http://www.lls.org/)), and other places we deem appropriate, so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. The Leukemia & Lymphoma Society will use information in accordance with the privacy policy under which the information was collected. 
