@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cahoot.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120084219id_/http%3A//www.cahoot.com/security/security_and_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cahoot.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209041814id_/http%3A//www.cahoot.com/security/security_and_privacy.html) for the most accurate reproduction.*
 
 # security and privacy
 
 We are committed to protecting the privacy of all personal information which we obtain from you when you visit the cahoot website and when you use your cahoot account. Our aim is to safeguard the security and privacy of your personal information whilst providing you with a personalised service that keeps you up-to-date with products and services which meet your preferences and needs. By using the cahoot website, you agree to the collection and use of such information in accordance with the following Privacy Policy and Data Protection Statement.
 
-For information on what we're doing to keep your money safe and what you can do to help see our [online security page](https://web.archive.org/web/20101120084219id_/http%3A//www.cahoot.com/security/online_security.html).
+For information on what we're doing to keep your money safe and what you can do to help see our [online security page](https://web.archive.org/web/20111209041814id_/http%3A//www.cahoot.com/security/online_security.html).
 
 ## security
 
@@ -13,6 +13,41 @@ We employ appropriate technical security measures to protect your personal infor
 What does 'This page contains both secure and non-secure items' message mean?
 
 This message occurs when the page displays both the secure and non-secure items, such as pictures. You should select 'yes' to view the page. Your financial details with cahoot are completely secure and in no way compromised. 
+
+## Strengthen your defences against online identity theft
+
+Online fraudsters are using more sophisticated methods to commit online fraud. They use hard to detect techniques to steal your online identity, when you bank online. They do this without you even being aware that it has happened.
+
+Anti-virus software and firewalls are very important to have installed on your computer, but they can't always protect you from these attacks, as fraudsters are developing more sophisticated ways of stealing your online identity.
+
+Rapport needs to be used alongside your existing anti-virus and firewall protection to strengthen your defences online against identity theft and fraud.
+
+Rapport has been developed by the financial security experts at [ Trusteer](http://www.trusteer.com/). It has been described as '...a major boost in fraud prevention...' by the [ Online Banking Report](http://www.trusteer.com/company/press/trusteer-receives-best-web-award-online-banking-report) and they also named Rapport as 'Best of the Web'.
+
+## How Rapport Works
+
+Rapport strengthens your online security by 'locking down' the connection between your computer, keyboard and cahoot internet banking. It helps stop your data going to counterfeit sites, so you can be safe in the knowledge that only you are transacting on your account.
+
+Anti-virus software helps to stop threats, by scanning your PC and looking for suspicious files, whereas firewalls hide your computer from attackers, and helps stop criminals getting data in and out of your computer.
+
+Rapport doesn't replace the benefits of anti-virus and firewall software or your unique image and phrase when accessing our internet banking - it works alongside them to provide increased protection when transacting online.
+
+## Why choose Rapport?
+
+  * **Safeguard your identity** \- identity theft is one of the fastest-growing threats in the UK. 
+  * **Peace of mind** \- Rapport tells you that you really are connected to your bank, and not a fraudulent website. 
+  * **Protect your passwords** \- helps stop fraudsters accessing on your online banking details. 
+  * **Well proven** \- Rapport was developed by the online security experts at Trusteer. 
+  * **Easy to use and install** \- It's a simple and free download to each computer you use to bank online. Technical support is also available. 
+  * **Specially configured for cahoot** \- It is ready to help protect your online banking with cahoot. 
+  * **Flexible** \- once downloaded you can set up the software to protect any website that uses private or personal data. 
+  * **Ahead of the game** \- Rapport doesn't rely on constant updates to stop fraudsters. 
+  * **Fast** \- Rapport is a small piece of software. It's designed to let your computer work just as quickly as before. 
+  * **Compatible** \- Works alongside your existing valuable anti-virus and firewall protection. 
+
+
+
+[Find out more now ](http://www.trusteer.com/landing/cahoot)
 
 ## privacy
 
@@ -95,6 +130,6 @@ Where you and another person wish to open a joint account, each one of you needs
 
 From time to time, we may need to transfer your personal information outside the European Economic Area where this is necessary to operate your account or provide information to a cahoot business partner. Where we do so we will take reasonable steps to ensure that your personal data receives similar protections as those within the European Economic Area.
 
-Our [ data protection statement ](https://web.archive.org/web/20101120084219id_/http%3A//www.cahoot.com/terms/pdf/data_protection_statement.pdf) relates to the information you give in the online application form and to any other information which you provide to cahoot or which it holds on you whether or not you become a customer.
+Our [ data protection statement ](https://web.archive.org/web/20111209041814id_/http%3A//www.cahoot.com/terms/pdf/data_protection_statement.pdf) relates to the information you give in the online application form and to any other information which you provide to cahoot or which it holds on you whether or not you become a customer.
 
 back
