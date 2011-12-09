@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527101438id_/http%3A//cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209065429id_/http%3A//www.cdrinfo.com/Sections/Privacy/Home.aspx) for the most accurate reproduction.*
 
 # Privacy Statement for CdrInfo.com
 
@@ -45,20 +45,4 @@ CdrInfo.com is poised into helping all our users preserve their own on-line priv
 
 In any case, CdrInfo.com preserves the right to review by itself any non-open source advertisement code (non-javascript or non-html banners such as "rich media" like flash, shockwave, java, activeX, etc). In case an advertiser chooses not to conform with this peer reviewed, open code practice, CdrInfo.com can, at any time, terminate any related campaign, at no further advertiser notice, at the sole expenses of the offending advertiser and without any single refund!
 
-|  |  [ **Primera DVD / CD  
-Duplicators** ](http://www.primera.com/)  
----  
-[ **Primera Europe CD / DVD  
-Duplizierer und Drucker** ](http://www.primeraeurope.com/)  
-[ **Microboards  
-Disc Copiers/Printers** ](http://www.microboards.com/ "CD and DVD Copiers and Printers")  
-[ **CD Duplicators DVD  
-Duplicators by Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fduplicators "CD Duplicators - DVD Duplicators by Disc Makers")  
-[ **Blank DVDs  
-from Disc Makers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.discmakers.com%2fshop%2f "Blank DVDs from Disc Makers")  
-[ **Noble House CD & DVD**   
-**Duplicators/Printers** ](https://web.archive.org/Sections/Ads/TextLinkRedirector.aspx?TargetUrl=http%3a%2f%2fwww.noblehousecd.com%2f "Noble House CD & DVD Duplicators/Printers")  
-[ **DVD Duplicator**   
-**by CopyStars.com** ](http://www.copystars.com/ "DVD Duplicator by CopyStars.com")  
-[ **MicroBoards CD DVD printer**   
-**Publishers & Duplicators** ](http://www.microboards.co.uk/ "MicroBoards, CD / DVD printer Publishers & Duplicators")
+|  | 
