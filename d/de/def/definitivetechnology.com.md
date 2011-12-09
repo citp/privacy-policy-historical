@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the definitivetechnology.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222054423id_/http%3A//www.definitivetech.com/Learning/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitivetechnology.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209163310id_/http%3A//www.definitivetech.com/Learning/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Definitive Technology - Privacy Policy
 
-[](https://web.archive.org/web/20110222054423id_/http%3A//www.definitivetech.com/ContactUs.aspx)
+[](https://web.archive.org/web/20111209163310id_/http%3A//www.definitivetech.com/ContactUs.aspx)
 
 DEFINITIVE TECHNOLOGY PRIVACY POLICY STATEMENT 
 
