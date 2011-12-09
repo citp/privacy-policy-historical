@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the atlaseforex.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410195915id_/http%3A//www.atlaseforex.com/licenses-and-documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlaseforex.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210001319id_/http%3A//www.acfx.com/Licenses-and-documents/Privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy policy — Licenses and documents — Atlas eForex
+# Privacy policy — Licenses and documents — ACFX
 
-All material on the Atlaseforex.com website (“Atlas eForex”) is owned by AtlasCapital Financial Services Limited (“ACFS”). ACFS is a Cypriot Investment Firm (“CIF”) regulated and supervised by the Cyprus Securities and Exchange Commission (“CySEC”) and operates with licence number CIF 085/07.
+All material on the acfx.com website (“ACFX”) is owned by AtlasCapital Financial Services Limited (“ACFS”). ACFS is a Cypriot Investment Firm (“CIF”) regulated and supervised by the Cyprus Securities and Exchange Commission (“CySEC”) and operates with licence number CIF 085/07.
 
 ACFS would like to inform you that your privacy on the internet is of crucial importance to us. The success of our business depends on our ability to maintain the trust of our clients. During the course of our business, we gather information about our users, and we would like to inform you about the type of information we gather, what we do with it and how you can correct or modify the information you entrust us with. Please note that this policy only applies to websites operated by ACFS and not to other organizations or person to which we refer to on such websites through banners or links.
 
@@ -11,9 +11,9 @@ ACFS would like to inform you that your privacy on the internet is of crucial im
 
 ## Information collected
 
-When you sign up for a demo or live account with Atlas eForex , the following information about you (“Your Data”) will be collected and stored for administrative, service related and/or legal purposes:
+When you sign up for a demo or live account with ACFX, the following information about you (“Your Data”) will be collected and stored for administrative, service related and/or legal purposes:
 
-  * Personal information, such as names, addresses, personal registration number and e-mail addresses etc (“Personal Information”)., and
+  * Personal information, such as names, addresses, personal registration number and e-mail addresses etc (“Personal Information”), and
   * Financial information (“Financial Information”) for credit assessment.
   * Website traffic pattern information and IP addresses.
 
@@ -22,7 +22,7 @@ When you sign up for a demo or live account with Atlas eForex , the following in
 
 ## Use of cookies
 
-Atlas eForex uses cookies to collect information. A cookie is a small data file that a website stores on your computer’s hard disk for the purpose of keeping records when you visit the website. Cookies allow us to improve your comfort of use, for example by remembering your passwords and viewing preferences, thus allowing you to visit various “member-only” parts of the website without re-registering. Furthermore, cookies are used by us to measure activity on the website and make improvements and updates based on which areas are popular and which are not.
+ACFX uses cookies to collect information. A cookie is a small data file that a website stores on your computer’s hard disk for the purpose of keeping records when you visit the website. Cookies allow us to improve your comfort of use, for example by remembering your passwords and viewing preferences, thus allowing you to visit various “member-only” parts of the website without re-registering. Furthermore, cookies are used by us to measure activity on the website and make improvements and updates based on which areas are popular and which are not.
 
 We do not use cookies to retrieve information which was not originally sent in a cookie. We do not use information transferred through cookies for any direct promotional or marketing purposes without your consent.
 
@@ -31,7 +31,7 @@ We do not use cookies to retrieve information which was not originally sent in a
 
 ## Use of information collected by ACFS
 
-Atlas eForex uses both the personal and aggregated information that we collect for multiple purposes. The information is used:
+ACFX uses both the personal and aggregated information that we collect for multiple purposes. The information is used:
 
   * To improve the content of the website
   * To customise the content and/or the layout of the website for each individual user
@@ -46,7 +46,7 @@ Traffic pattern information includes information on which web pages our users ac
 
 We may also use the information we gather to inform you of new products or services available or under consideration, technical issues, customer satisfaction surveys or account updates and related purposes. 
 
-Your e-mail address may be used by the ACFS in relation to its products and services (including any marketing campaigns related to these products or services). If you do not wish to receive such marketing material please send an email stating so to [Marketing@ATLASeForex.com](mailto:Marketing@ATLASeForex.com)
+Your e-mail address may be used by the ACFS in relation to its products and services (including any marketing campaigns related to these products or services). If you do not wish to receive such marketing material please send an email stating so to [marketing@acfx.com](mailto:marketing@acfx.com).
 
   
 
@@ -65,4 +65,4 @@ Without prejudice to the above, the ACFS can disclose the following information:
 
 
 
-If you have any other question or concern, please contact us by email at [Support@ATLASeForex.com](mailto:Support@ATLASeForex.com) or call us on +357 25501055.
+If you have any other question or concern, please contact us by email at [support@acfx.com](mailto:support@acfx.com) or call us on +357 25501055.
