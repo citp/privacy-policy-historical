@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216203954id_/http%3A//farespotter.net/l1/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209161324id_/http%3A//www.farespotter.net/l1/privacy-policy.html) for the most accurate reproduction.*
 
 # FareSpotter.net :: Privacy Policy
 
 ## Privacy Policy
 
-Last updated February 6, 2009
+Last updated January 7, 2011
 
-FareSpotter LLC (the “Company”) has created this privacy statement in order to demonstrate our commitment to your privacy. The following Privacy Policy discloses our information gathering and dissemination practices for FareSpotter.net (the “Site”). This Privacy Policy governs your use of the Site and any content, products or services made available from or through the Site, including any sub domains thereof. By visiting the Site and requesting information, products or services offered on or through the Site, you agree to abide by the terms of this Privacy Policy, as they may be amended from time to time. Our Privacy Policy may change from time to time and the Company reserves the right to change or modify our Privacy Policy at any time with or without notice by posting changes to the Site. Please check back frequently for updates as it is your sole responsibility to be aware of changes. 
+Fareloop Holding Co. (the “Company”) has created this privacy statement in order to demonstrate our commitment to your privacy. The following Privacy Policy discloses our information gathering and dissemination practices for FareSpotter.net (the “Site”). This Privacy Policy governs your use of the Site and any content, products or services made available from or through the Site, including any sub domains thereof. By visiting the Site and requesting information, products or services offered on or through the Site, you agree to abide by the terms of this Privacy Policy, as they may be amended from time to time. Our Privacy Policy may change from time to time and the Company reserves the right to change or modify our Privacy Policy at any time with or without notice by posting changes to the Site. Please check back frequently for updates as it is your sole responsibility to be aware of changes. 
 
 ### IP Addresses
 
@@ -58,4 +58,4 @@ Though we make every effort to preserve your privacy we may need to disclose per
 
 ### Contact
 
-If you have any questions or concerns over the Privacy Policy, please feel free to contact [privacy@farespotter.net](mailto:privacy@farespotter.net).
+If you have any questions or concerns over the Privacy Policy, please feel free to contact [privacy@farespotter.net](mailto:privacy@farespotter.net), or by mail to Fareloop, Attention: Privacy, 400 Continental Blvd, 6th Floor, El Segundo, CA 90245.
