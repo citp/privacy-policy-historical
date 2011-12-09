@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cookstr.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224004358id_/http%3A//www.cookstr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cookstr.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209013451id_/http%3A//www.cookstr.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
   <title>Cookstr </title>
@@ -7,8 +7,8 @@
 <meta name="keywords" content="recipes, chefs, cookbooks, food, cooking, cook, cookstr, cookster">
 <meta name="description" content="The best recipe collection on the web -- all from the world's most acclaimed chefs and cookbook authors. Cookstr features tested, trusted recipes for everything you want to cook.">
 
-  <link href="/stylesheets/all.css?1292963894" media="screen" rel="stylesheet" type="text/css">
-<script src="/javascripts/all.js?1292963894" type="text/javascript"></script>
+  <link href="/stylesheets/all.css?1322589434" media="screen" rel="stylesheet" type="text/css">
+<script src="/javascripts/all.js?1322589434" type="text/javascript"></script>
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://publishers.halogennetwork.com/tracking/Cookstr.js"></script>
 <!-- End Quantcast tag -->
@@ -25,7 +25,7 @@
 <script type="text/javascript" charset="utf-8">
   jQuery.noConflict();
   
-  jQuery('.topnav_button').live('click', function() {
+  jQuery('.search-button').live('click', function() {
     jQuery(this).closest('form').submit();
     return false;
   });
@@ -34,74 +34,102 @@
 </script>
 
   <link rel="shortcut icon" href="/images/icons/cookstr-favicon.png">
-  <link href="/stylesheets/main.css?1292963894" media="screen" rel="stylesheet" type="text/css">
   
 </head>
 
-<body id="top" class="main-privacy">
-<div id="top-ad-wrapper">
-  <div ad-id="3c17552c-594c-534c-90a9-f8c522e5af73" class="leaderboard top ad-placeholder"></div>
-  <a href="/newsletter_signups/new"><img alt="Star_cookstr_ad" id="star_cookstr_ad" src="/images/star_cookstr_ad.png?1292963894"></a>
-</div>  
-<div id="wrapper">
-
-  <div id="white-area">
-    <div class="top-slice"></div>
+<body id="top" class="main-privacy" tabindex="0">
+  <div id="grey-overlay"></div>
+  <div id="admin-links">
+    <span id="more"></span>
+  </div>
+  <div id="wrapper">
     <div id="header">
-      <img src="/images/main_nav/page_holepunch.gif" id="holepunch" width="8" height="9">
-      <div id="motto">Recipes you'll love from cookbooks we trust</div>
-      <div id="login-links">
-  <a href="/users/new" class="button"><span class="left"></span><span class="mid">Sign Up</span><span class="right"></span></a>
-  <a href="/login" class="button"><span class="left"></span><span class="mid">Log in</span><span class="right"></span></a>
-</div>
-<div id="logged-in-links" style="display:none">
-  <span class="welcome_text">Welcome to cookstr</span>
-  <a href="/mycookstr" class="button"><span class="left"></span><span class="mid">My Cookstr</span><span class="right"></span></a>
-  <a href="/contacts/invite" class="button"><span class="left"></span><span class="mid">Invite Friends</span><span class="right"></span></a>
+
+  		<div id="logo">
+  				<h1><a href="/">Cookstr</a></h1>
+  		</div>
+
+  		<div id="hdrupperright">
+  		  <div class="logout">
+    		  <a href="/login" class="button" onclick="var f = document.createElement('form'); f.style.display = 'none'; this.parentNode.appendChild(f); f.method = 'POST'; f.action = this.href;var m = document.createElement('input'); m.setAttribute('type', 'hidden'); m.setAttribute('name', '_method'); m.setAttribute('value', 'delete'); f.appendChild(m);f.submit();return false;"></a>
+  		    <div class="text welcome">Welcome to Cookstr</div> 
+  		  </div>
+  		  <div class="signup-login">
+    		  <a class="button overlay-trigger" href="#" onclick="; return false;" rel="#login_dialogue"></a>
+		      <a class="signup overlay-trigger signup-wall text" href="#" onclick="; return false;" rel="#signup_dialogue"><span class="orange">Sign up</span> to receive handpicked recipes in your inbox</a> 
+  		  </div>
+  		  
+        <script type="text/javascript" charset="utf-8">
+          Cookstr.overlayParams = {
+            onBeforeLoad : function(){
+              jQuery('#grey-overlay').fadeIn(150);
+              return true;
+            },
+            onBeforeClose : function(){
+              jQuery('#grey-overlay').fadeOut(150);
+              return true;
+            }
+          };
+          
+          jQuery(function(){
+            Cookstr.signupOverlayTrigger = jQuery('.overlay-trigger[rel=#signup_dialogue]').overlay(Cookstr.overlayParams);
+            Cookstr.loginOverlayTrigger = jQuery('.overlay-trigger[rel=#login_dialogue]').overlay(Cookstr.overlayParams);
+            jQuery('#mycookstr-nav-tab').click(function(event){
+              jQuery('.redirect-hidden-field').val('/mycookstr');
+            });
+            
+            jQuery('#signup_dialogue input').focus(function(){
+              jQuery('#signup_dialogue .optional').fadeIn('slow');
+            });
+            
+          });
+        </script>
+  		</div>
+  		
+  		<div id="hdrdivider"></div>
+
+  	</div>
     
-  <a href="/login" class="button" onclick="var f = document.createElement('form'); f.style.display = 'none'; this.parentNode.appendChild(f); f.method = 'POST'; f.action = this.href;var m = document.createElement('input'); m.setAttribute('type', 'hidden'); m.setAttribute('name', '_method'); m.setAttribute('value', 'delete'); f.appendChild(m);f.submit();return false;"><span class="left"></span><span class="mid">Log out</span><span class="right"></span></a>
+    <div id="nav">
+  <ul>
+    <li class="link"><a href="/searches/new" class=" ">Search Recipes</a></li>
+    <li class="link"><a href="/recipes" class=" ">Browse Recipes</a></li>
+    <li class="link"><a href="/ibooks" class=" ">iBooks</a></li>
+    <li class="link"><a href="/chefs" class=" ">Chefs &amp; Authors</a></li>
+  	<li class="link"><a href="/mycookstr" class="overlay-trigger signup-wall " id="mycookstr-nav-tab" rel="#signup_dialogue">My Cookstr</a></li>
+    <li class="link"><a href="/about" class=" ">What's Cookstr?</a></li>
+  </ul>
 </div>
+    
+    <div id="content">
+      <div id="titlebar">
+	<div class="social-links">
 
-<span id="more"></span>
+	  <iframe src="http://www.facebook.com/plugins/like.php?app_id=124110797679776&amp;href=cookstr.com&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:49px; height:20px; display: inline" allowtransparency="true"></iframe>
 
-    </div>
-    <div id="content" class="home">
-      <div id="top_nav_section">
-        <div id="top_nav">
-  <div id="logo"><a href="/"><img alt="Logo" height="50" src="/images/logo.png?1292963894" width="147"></a></div>
-  <div id="search">
-    <form action="/searches/new" id="normal-search" method="get">
-      <input class="defaultify" id="normal-search-query" name="query" size="45" title="Search by ingredients, chef, or recipe" type="text" value="Search by ingredients, chef, or recipe">
-      <script>
-        new Defaultable(jQuery('#normal-search-query').get(0));
-      </script>
-      <a href="#" class="topnav_button" id="search-button">Search</a>
-    </form>
-    <span>OR</span>
-    <form action="/searches/surprise" id="surprise-search" method="get">
-    <a href="#" class="topnav_button" id="surprise-me">Surprise Me</a>
-    </form>
-  </div>   
+		<a href="http://twitter.com/cookstr" class="twitter-follow-button" data-show-count="false" data-width="100"></a>
+    <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+	</div>
+	<div class="title">
+		The World’s #1 Collection of Cookbook Recipes Online
+	</div>
+
+	<div id="divider" align="center"></div>
+
 </div>
+      
+      
+  <div id="ticker">
+    <img alt="Star_black" class="star" src="/images/star_black.png?1322589434">
+    <span id="ticker-content">
+      <p>New Recipes on Cookstr: <a href="../../recipes/farmstand-fruit-muffins" class="RED">Farmstand Fruit Muffins</a> <a href="../../recipes/kung-pao-broccoli-and-tofu"></a> | <a href="../../recipes/chestnut-doughnut-holes" class="RED">Chestnut Doughnut Holes</a><a href="../../recipes/angel-hair-pastanbspwith-chard-and-bell-peppers"></a> | <a href="../../recipes/roasted-salmon-with-dill-sauce" class="RED">Roasted Salmon with Dill Sauce</a> | <a href="../../recipes/chard-and-lentil-soup-2" class="RED">Chard and Lentil Soup</a></p>
+<p></p>
+<p></p>
+    </span>
+  </div>
 
-        <div id="become_a_fan">
-  <iframe scrolling="no" frameborder="0" src="http://www.facebook.com/connect/connect.php?id=80380671466&amp;connections=10&amp;stream=0&amp;connections=0&amp;locale=en_US" allowtransparency="true">
-    <div style="font-size:8px; padding-left:10px"><a href="http://www.facebook.com/CookstrCooks">Cookstr on Facebook</a>
-    </div>
-  </iframe>
-</div>
-
-        <ul id="nav_links">
-  <li><a href="/recipes" id="recipes">Recipes</a></li>
-  <li><a href="/chefs" id="chefs-and-authors">Chefs &amp; Authors</a></li>
-  <li><a href="/newsletter_signups/new" id="newsletter">Newsletter</a></li>
-  <li><a href="http://cookstr.wordpress.com" id="blog">Blog</a></li>
-  <li><a href="/mycookstr" id="mycookstr">My Cookstr</a></li>
-</ul>
-      </div>
-
-      <div class="clear"></div>
-
+      
       <div class="static-info">
   <div class="content">
     <h1>Privacy Policy</h1>
@@ -181,21 +209,41 @@
   </div>
 </div>
 
+      
     </div>
-    <div class="bottom-slice"></div>
+    
   </div>
+  
+  <div id="footer">
+
+	<div id="links">
+		<ul>
+			<li><a href="/about">ABOUT US</a></li>
+			<li><a href="/contact">CONTACT US</a></li>
+			<li><a href="http://newsletters.cookstr.com">ARCHIVED NEWSLETTERS</a></li>
+			<li><a href="/partnerships">PARTNERSHIPS</a></li>
+			<li><a href="/faq">FAQS</a></li>
+			<li><a href="/nutrition_disclaimer">NUTRITIONAL INFORMATION</a></li>
+			<li><a href="http://getsatisfaction.com/cookstr">FEEDBACK</a></li>
+			<li><a href="/privacy">PRIVACY POLICY</a></li>
+			<li><a href="/terms_of_use">TERMS OF USE</a></li>
+		</ul>
+	</div>
+	
+	<div id="icons">
+    <a href="http://facebook.com/CookstrCooks" class="icon facebook" target="_new"></a>
+    <a href="http://twitter.com/cookstr" class="icon twitter" target="_new"></a>
+  </div>
+  
+  <div id="copyright">
+    
+    <a href="/terms_of_use">© 2011 Cookstr, LLC, All Rights Reserved</a>
+    
+  </div>
+	
 </div>
 
-  <div id="footer">
-    <a href="/about">About us</a> |
-    <a href="/contact">Contact us</a> |
-    <a href="http://getsatisfaction.com/cookstr" target="blank">Feedback</a> |
-    <a href="/faq">FAQ</a> |
-    <a href="/privacy">Privacy Policy</a> |
-    <a href="/terms_of_use">Terms of Use</a> |
-    <a href="/advertising/">Advertising</a>
-  </div>
-  <script type="text/javascript">
+<script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -205,9 +253,20 @@
 </script>
 
 
-<div ad-id="a79269af-c681-3c74-1c1c-0888931b6db7" class="leaderboard bottom ad-placeholder"></div>
+  
+  <div class="leaderboard bottom">
+    <div class="ad-content">
 
-<script type="text/javascript">
+
+  <!-- FM Leaderboard Zone -->
+  <script type="text/javascript" src="http://static.fmpub.net/zone/6238"></script>
+  <!-- FM Leaderboard Zone -->  
+  
+  
+</div> 
+  </div>
+  
+  <script type="text/javascript">
 //<![CDATA[
 
   jQuery(".button").click(FakeButton.submit);
@@ -218,27 +277,207 @@
 //]]>
 </script>
 
-
-  <div ad-id="3c17552c-594c-534c-90a9-f8c522e5af73" class="leaderboard top ad-content" style="display: none;">
-    
-  </div><div ad-id="a79269af-c681-3c74-1c1c-0888931b6db7" class="leaderboard bottom ad-content" style="display: none;">
   
+  <div id="overlays">
+  
+  
+  <div id="signup_dialogue" class="overlay">
+    <div class="instead">  
+      Already a member? <a class="overlay-trigger" href="#" onclick="; return false;" rel="#login_dialogue">Click here to Log In</a>
+    </div>  
+    <a class="close">close</a>
+    
+      <div class="social-buttons">  
+        <a href="/auth/twitter" class="social-button twitter-button"></a>
+  	    <a href="/auth/facebook" class="social-button facebook-button"></a>
+  	  </div>
+  	    
+    <form action="/users" class="new_user" id="new_user" method="post" onsubmit="new Ajax.Updater({success:'signup_dialogue',failure:'signup-errors'}, '/users', {asynchronous:true, evalScripts:true, on500:function(request){jQuery(&quot;#signup-errors&quot;).innerHTML = &quot;Error signing up!&quot;}, onLoaded:function(request){jQuery(&quot;#signup-spinner&quot;).toggle()}, onLoading:function(request){jQuery(&quot;#signup-spinner&quot;).toggle()}, parameters:Form.serialize(this)}); return false;">
+  
+  <div style="border: 1px solid black; width: 740px">
+    <table cellpadding="0" cellspacing="0">
+    	<tbody><tr>
+    		<th colspan="7" height="14"> </th>
+    	</tr>
+    	<tr>
+    		<td class="grey" height="13" colspan="7"> </td>
+    	</tr>
+    	<tr>
+    	  <td width="13" class="grey"></td>
+     		<td width="258" colspan="5" class="headline">     		  
+   		    <h2>
+   		          
+   		      <b>Sign up to Cookstr!</b>
+   		    </h2>  
+ 		      <ul>
+ 		        <li>Receive a free, handpicked selection of recipes in your inbox weekly</li>
+ 		        <li>Save, share and comment on your favorite recipes in My Cookstr</li>
+ 		        <li>Get updates on new Cookstr features and tools</li>
+ 		      </ul>  
+     		</td>
+     		<td width="13" class="grey"></td>
+     	</tr>
+     	<tr>
+     	  <td width="13" class="grey"></td>
+     	  <td width="258" colspan="5">
+     	    <div id="signup-errors" class="flash error"></div>
+     	  </td>
+     	  <td width="13" class="grey"></td>
+     	</tr>
+    	<tr>
+    		<td width="13" class="grey"></td>
+     		<td width="50"></td>
+     		<td width="258">
+         		<label for="user">Username</label><br>
+            <input class="fields" id="user_unique_name" name="user[unique_name]" size="30" type="text">
+    		</td>
+     		<td width="82"></td>
+      	<td width="258"> 
+         		<label for="email">Email Address</label><br>
+            <input class="fields" id="user_email_address" name="user[email_address]" size="30" type="text">
+    		</td>
+     		<td width="50"></td>
+     		<td width="13" class="grey"></td>
+    	</tr>
+    	<tr>
+    		<td width="13" class="grey"></td>
+     		<td width="50"></td>
+     		<td width="258">
+          <label for="pw">Password</label><br>
+    			<input class="fields" id="user_password" name="user[password]" size="30" type="password">
+    		</td>
+     		<td width="82"></td>
+     		<td width="258"> 
+    			<label for="confirm">Confirm Password</label><br>
+          <input class="fields" id="user_password_confirmation" name="user[password_confirmation]" size="30" type="password">
+    		</td>
+     		<td width="50"></td>
+    		<td width="13" class="grey"></td>
+     	</tr>
+     	<tr>
+    		<td width="13" class="grey"></td>
+     		<td width="50"></td>
+     		<td width="258" height="55">
+     		  <span class="optional"> 
+         	  <label for="firstname">First Name (optional)</label><br>
+    			  <input class="fields" id="user_first_name" name="user[first_name]" size="30" type="text">
+    			</span>  
+       	</td>
+     		<td width="82"></td>
+     		<td width="258" height="55">
+     		  <span class="optional"> 
+     		    <label for="lastname">Last Name (optional)</label><br>
+            <input class="fields" id="user_last_name" name="user[last_name]" size="30" type="text">
+          </span>  
+    		</td>
+     		<td width="50"> </td>
+     		<td width="13" class="grey"></td>
+     	</tr>
+     	<tr>
+    		<td width="13" class="grey"></td>
+     		<td width="50"> </td>
+     		<td width="258" height="55">
+     		  <span class="optional"> 
+     		    <label for="zip">Zipcode (optional)</label><br>
+            <input class="fields" id="user_zip_code" name="user[zip_code]" size="30" type="text">
+          </span>  
+    		</td>
+    		<td width="82"> </td>
+ 
+     		<td width="258" class="smallcaps"> 
+    			By signing up you accept the <br><a href="/terms_of_use" target="_new">Terms of Use</a> and <a href="/privacy" target="_new">Privacy Policy</a><br>
+    		</td>
+     		<td width="50"></td>
+    		<td width="13" class="grey"></td>
+    	</tr>
+     	<tr>
+    		<td width="13" class="grey"></td>
+     		<td width="50"> </td>
+     		<td width="258">
+     		</td>
+     		<td width="82"> </td>
+     		<td width="258" class="smallcaps"> 
+     		  <input class="redirect-hidden-field" id="redirect_to" name="redirect_to" type="hidden"> 
+          <input class="button" name="sign_up" type="submit" value="">  
+       		<div class="image-wrapper">
+       		  <img alt="Spinner" class="spinner" id="signup-spinner" src="/images/spinner.gif?1322589434">
+       		</div>
+     		</td>
+      		<td width="50"> </td>
+     		<td width="13" class="grey">
+     		</td>
+     	</tr>
+     	
+    </tbody></table>
+    <div style="height: 14px;" class="grey"></div>
+    <input id="ad" name="ad" type="hidden">
+  </div>
+</form>
+
+
+
+  </div>
+  <div id="login_dialogue" class="overlay">
+    <div class="instead">  
+      New to Cookstr? <a class="overlay-trigger" href="#" onclick="; return false;" rel="#signup_dialogue">Click here to Sign Up</a>
+    </div>
+    <a class="close">close</a>
+    <div class="social-buttons">  
+      <a href="/auth/twitter" class="social-button twitter-button"></a>
+	    <a href="/auth/facebook" class="social-button facebook-button"></a>
+	  </div>
+    <form action="/login" method="post">
+  <div style="border: 1px solid; border-color: black; width: 440px;">
+  	<div style="height: 10px; background-color: #ff6600; style: block:"></div>
+    <div style="border: 10px solid; border-color: #e8e8e8; width: 420px;">
+      <table cellpadding="0" cellspacing="0">
+      	<tbody><tr>
+      		<td colspan="3" height="32">
+      	</td></tr>
+      	<tr>
+      		<td width="64"></td>
+       		<td align="left">
+      			<label for="name">Email Address or Username</label><br>
+            <input class="fields" id="login_email_address" name="login[email_address]" size="30" type="text">
+      		</td>
+      		<td width="64"></td>
+      	</tr>
+      	<tr>
+      		<td width="64"></td>
+       		<td align="left">
+      			<label for="pw">Password</label><br>
+      			<input class="fields" id="login_password" name="login[password]" size="30" type="password" value="">
+      		</td>
+      		<td width="64"></td>
+      	</tr>
+      	<tr>
+      		<td width="64"></td>
+      		<td>Forgot your password?&nbsp;<a href="/password_reset_requests/new">Click here</a></td>
+      		<td width="64"></td>
+      	</tr>
+        <tr>
+      		<td width="64"></td>
+      		<td class="submit-section" align="middle">
+      		  <input class="redirect-hidden-field" id="redirect_to" name="redirect_to" type="hidden">
+      		  <input class="button" name="log_in" type="submit" value="">
+      		    
+      		</td>
+      		<td width="64"></td>
+      	</tr>
+      </tbody></table>
+    </div>
+  </div>
+</form>
+
+
+  </div>
+
 </div>
-
-  <script>
-    (function($) {
-      $('.ad-content').each(function() {
-        var realAd = this;
-        var adId = $(realAd).attr('ad-id');
-        var placeholder = $('.ad-placeholder[ad-id=' + adId + ']').get(0);
-        realAd.parentNode.removeChild(realAd);
-        placeholder.parentNode.insertBefore(realAd, placeholder);
-        placeholder.parentNode.removeChild(placeholder);
-        $(realAd).show();
-      });
-   })(jQuery);
-  </script>
-
+  
+  <!-- FM Tracking Pixel -->
+  <script type="text/javascript" src="http://static.fmpub.net/site/cookstr"></script>
+  <!-- FM Tracking Pixel -->
+  
 
 
 </body></html>
