@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxidermy.net privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426032716id_/http%3A//www.taxidermy.net/forum/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxidermy.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209015445id_/http%3A//www.taxidermy.net/forum/privacy.php) for the most accurate reproduction.*
 
 # Taxidermy.Net Forum -
 
@@ -6,15 +6,13 @@
 Privacy Policy of the Taxidermy Net
 
 >   
-> Effective December 22, 2010
+> Effective August 21, 2011
 > 
 > Taxidermy.net LLC is the operator of [](http://www.taxidermy.net/)[www.taxidermy.net](http://www.taxidermy.net/). As part of its business Taxidermy.net LLC gathers personally identifiable information on its websites as well as anonymous data regarding the website and your activities on the site. Taxidermy.net LLC takes its privacy obligations very seriously.
 > 
 > Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 > 
->   
-> [](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.taxidermy.net/seal_m "TRUSTe online privacy certification")  
-> Taxidermy.net LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@taxidermy.net](mailto:customerservice@taxidermy.net). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+> If you have questions or complaints regarding our privacy policy or practices, please contact us at [customerservice@taxidermy.net](mailto:customerservice@taxidermy.net).
 > 
 >  **What Information Do We Collect?**  
 >  When you visit our Web site you may provide us with two types of information: personal information (name, email address and mailing address) you knowingly choose to disclose that is collected on an individual basis (for example in your forums profile) and Web site use information collected on an aggregate basis as you and others browse our Web site.
@@ -37,7 +35,7 @@ Privacy Policy of the Taxidermy Net
 > From time to time, Taxidermy.net LLC will allow its Sponsors or marketing partners to offer Taxidermy.net LLC site visitors an opportunity to "opt-in" to receive marketing information directly from that Sponsor or marketing partner. In such cases, on the registration page, an "opt-in" question will appear clearly explaining that by checking the box you agree to share your personally identifiable information with that particular Sponsor or marketing partner. If there is not a Sponsor "opt-in" question on a registration form, Taxidermy.net LLC will not give any of the data collected to any Sponsor or partner. 
 > 
 > **Tell-A-Friend**  
->  If you choose to use our referral service to tell a friend [email a friend, refer a friend, send to a friend, email a page, invite a friend] about our site, we will ask you for your friendÕs name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Taxidermy.net LLC stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+>  If you choose to use our referral service to tell a friend [email a friend, refer a friend, send to a friend, email a page, invite a friend] about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Taxidermy.net LLC stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 > 
 > Your friend may contact us at [customerservice@taxidermy.net](mailto:customerservice@taxidermy.net) to request that we remove this information from our database.
 > 
@@ -84,6 +82,6 @@ Privacy Policy of the Taxidermy Net
 >  Taxidermy.net LLC may make material changes to this Privacy Policy from time to time. Therefore, you should periodically visit this page to view the current Privacy Policy. In the event of a material change to this Privacy Policy, Taxidermy.net LLC shall send an email advising of the change to all whose email addresses we have collected and retained pursuant to the terms set forth above. 
 > 
 > Taxidermy.net LLC  
-> c/o Outside Hub, LLC  
-> 28400 Northwestern Hwy, Ste 110  
-> Southfield, MI 48034
+> c/o Outdoor Hub, LLC  
+> 30800 Telegraph Road, Ste 4805  
+> Bingham Farms, MI 48025
