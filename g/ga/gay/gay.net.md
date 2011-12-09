@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gay.net privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213022048id_/http%3A//www.heremedia.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gay.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209172226id_/http%3A//www.heremedia.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Here Media
 
@@ -49,6 +49,6 @@ As more fully described in this Privacy Policy, you may request that Here Media 
 
 Due to changes in legislation, best practices, or enhancements to functionality and content, we may make changes to our Privacy Policy and will reflect those changes in this statement. We may update this policy from time to time. If we make any significant changes to the way in which we treat Personal Information about you, we will inform you of such changes via e-mail or by posting a notice on relevant areas of the Network. If you have any questions about this Privacy Policy, please feel free to write to us at the address given above.
 
-Here Media, Inc    |    10990 Wilshire Boulevard, Penthouse    |    Los Angeles, CA 90024    |    Phone: (310) 806-4288    |    Fax: (310) 806-4268 
+Here Media Inc    |    10990 Wilshire Boulevard, Penthouse    |    Los Angeles, CA 90024    |    Phone: (310) 806-4288    |    Fax: (310) 806-4268 
 
-©2010 HERE MEDIA, INC
+© 2011, Here Media Inc. All Rights Reserved.
