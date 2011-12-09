@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525074409id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209072414id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - onthehouse.com.au
 
@@ -124,3 +124,5 @@ onthehouse will respond to your query or complaint as soon as possible.
 
 
 onthehouse reserves the right to change this Privacy Policy at any time. onthehouse will notify any changes by posting an updated version of the Privacy Policy on the website.
+
+_Based on information provided by and with the permission of the Western Australian Land Information Authority (2011) trading as Landgate._
