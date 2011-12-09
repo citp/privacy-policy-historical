@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fridae.asia privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605051928id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fridae.asia privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209204911id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
 
 # Fridae | Empowering Gay Asia
 
@@ -63,7 +63,7 @@ We have created this privacy statement in order to demonstrate our firm commitme
 
 > We are concerned about protecting privacy on the Internet and limiting access to information collected from minors. We understand that the protection of children on the Internet is very important. 
 > 
-> We do not allow children under 18 years old to register as members of fridae.com. As such, our Site does not collect online contact information from children under 18.  If you are concerned about a minor getting access to our Site, consider using one of the following Products, which offer parental control (Surf Watch, Net Nanny and Cybersitter).   
+> We do not allow children under 18 years old to register as members of fridae.asia. As such, our Site does not collect online contact information from children under 18.  If you are concerned about a minor getting access to our Site, consider using one of the following Products, which offer parental control (Surf Watch, Net Nanny and Cybersitter).   
 > 
 
 **(h)  Can you choose to opt-out or change personal information?**
@@ -72,7 +72,7 @@ We have created this privacy statement in order to demonstrate our firm commitme
 > 
 > Please rest assured that we do not reveal any other information beyond the necessity for such a transaction. 
 > 
-> You can also choose not to receive any information from us. 
+> We may occasionally send you e-mail notifications regarding adminstrative matters, community service events, and the promotion of our services.
 > 
 > The opportunity to opt-out of receiving communications from us and our Affiliates is at the point where we request information about you. 
 > 
@@ -82,9 +82,7 @@ We have created this privacy statement in order to demonstrate our firm commitme
 **(i)  Who do you contact?**
 
 > To cancel our service, please contact:   
->  [webmaster@fridae.com ](mailto:webmaster@fridae.com)
+>  [webmaster@fridae.asia](mailto:webmaster@fridae.asia)
 > 
 > If you have any questions concerning our privacy statement, the practices of our site, or your dealings with our Site, please contact:   
->  [admin@fridae.com](mailto:admin@fridae.com)  
-  
----|---
+>  [webmaster@fridae.asia](mailto:webmaster@fridae.asia)
