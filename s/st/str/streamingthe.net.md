@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2010-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100810025556id_/http%3A//www.streamingthe.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209152742id_/http%3A//www.streamingthe.net/privacy.php) for the most accurate reproduction.*
 
 # Watch Live Online TV and Radio Streaming
 
@@ -28,6 +28,7 @@ STN may send out e-mails with STN-related news, products, offers, surveys or pro
 Cookies   
 Cookies enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. STN cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.   
 \- Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.   
+For example, Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of these cookies enables them to serve ads to our users. Users may opt out of these ads by visiting the [Google Privacy Center](http://www.google.com/privacy_ads.html).   
 \- Protection of STN and Others: We may release personal information to a legal jurisdiction if necessary to comply with a legal complaint or investigation.   
 \- RSS and XML Feeds: STN allows for the RSS and XML syndication of all of its public content within the STN website. 
 
@@ -35,14 +36,14 @@ Keeping Information Secure
 \- Your STN account information is protected by an encrypted password for your privacy and security. STN does not have access to your password, and therefore, if you lose your password you will need to reset it by following the instructions on the "Forgot Password" page.   
 \- You may request deletion of your STN account by e-mailing us at contact@streamingthe.net 
 
-Children Under 18 Years of Age   
-You must be 14 years and older to register to use the STN website. As a result, STN does not specifically collect information about children. If we learn that STN has collected information from a child under the age of 14, we will delete that information as quickly as possible. 
+Children Under 16 Years of Age   
+You must be 16 years and older to register to use the STN website. STN does not specifically collect information about children. If we learn that STN has collected information from a child under the age of 16, we will delete that information as quickly as possible. 
 
 Changes to this Privacy Policy   
 STN may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. It is your responsibility to review our Privacy Policy from time to time to be kept up to date. If the Privacy Policy is ammended, the last updated date will be changed at the bottom of this document to reflect the last changed date. 
 
 Conditions of Use   
-If you decide to visit STN website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the laws of the State of Delaware. 
+If you decide to visit STN's website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the laws of the State of Delaware. 
 
 Effective Date of this Privacy Policy   
-This Privacy Policy is effective as of December 15, 2008 and was last updated on January 5, 2010. 
+This Privacy Policy is effective as of December 15, 2008 and was last updated on December 1, 2010. 
