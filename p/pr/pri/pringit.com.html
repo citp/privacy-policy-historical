@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pringit.com privacy policy that was archived on 2011-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526082728id_/http%3A//pringit.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pringit.com privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209122444id_/http%3A//www.pringit.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -11,9 +11,9 @@ select, option { behavior: url("/media/js/disable.htc"); }
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="alexaVerifyID" content="OSnj6zrqVugMquFKQWdN8xo0BYE">
 <title>Privacy Policy  - Pring!</title>
-<script type="text/javascript" src="/media/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/media/js/jquery-1.6.3.min.js"></script>
 <script type="text/javascript" src="/media/js/general.js"></script>
- <script type="text/javascript" src="/media/js/jquery.editinplace.js"></script>
+<script type="text/javascript" src="/media/js/jquery.editinplace.js"></script>
 
 
 
@@ -26,17 +26,115 @@ select, option { behavior: url("/media/js/disable.htc"); }
     function set_redirect(form_id)
     {
         status_btn = document.getElementById('status_update_btn');
-        status_btn.disabled = true;        
+        status_btn.disabled = true;
         frm_action = $("#" + form_id).attr("action");
         frm_action = frm_action + "?redirect_to=" + escape(location.href);
         $("#" + form_id).attr("action", frm_action);
 
+        $("#ping_stream_loader").show();
+        $("#status_update_btn").hide();
+        var form = $("#" + form_id).serialize();;
+		
+        $.ajax({
+            type: "POST",
+            url: frm_action,
+            data: form,
+            cache : false,
+            async : true,
+            error: function (data){
+                $("#dv_ping_None").remove();
+                $("#ping_stream_loader").hide("fast");
+                $('#error_ajax_update').html("Server encountered an error, please try again later");
+                $('#error_ajax_update').show();
+                $("#status_update_btn").show();
+                status_btn.disabled = false;
+            },
+            success: function(data){
+            	var testcase = /div/g;
+            	if(!testcase.test(data)){
+                        $('#error_ajax_update').html(data);
+            			$('#error_ajax_update').show();
+            			$("#status_update_btn").show();
+               			$("#ping_stream_loader").hide();
+               			status_btn.disabled = false;
+               			testcase.lastIndex = 0;
+            			return false;
+            		
+            	}
+               testcase.lastIndex = 0;
+               $("#ping_stream_loader").hide("fast");
+               status_btn.disabled = false;
+               $('#error_ajax_update').hide();
+               $("#status_update_btn").show();
+               $("#ping_stream_loader").hide();
+               $("#status_last_text").html($('#webping').val());
+               $("#updater_container").dialog('close');
+               $('.ajax_update_notification').html("Your update has been successfully posted");
+               $('.ajax_update_notification').show();
+               setTimeout("$('.ajax_update_notification').fadeOut('slow')",5000);
+               $('#live_stream_container').prepend(data).hide().fadeIn('slow');
+               if($('#no_data_to_show') != undefined){
+               		$('#no_data_to_show').remove();
+               }
+            }
+        });
+        
+        return false;
+        /*
         //erasing previous cookie
         set_cookie("webping", "", -5);
         status_submitted = true;
-        return true;
+        return true;*/
     }
+	function set_redirect_pm(form_id)
+    {
 
+        frm_action = $("#" + form_id).attr("action");
+        frm_action = frm_action + "?redirect_to=" + escape(location.href);
+        $("#" + form_id).attr("action", frm_action);
+		$('#pm_container').hide();
+		$("#pm_container").dialog('close');
+        var form = $("#" + form_id).serialize();;
+        $.ajax({
+            type: "POST",
+            url: frm_action,
+            data: form,
+            cache : false,
+            async : true,
+            error: function (data){
+                $("#dv_ping_None").remove();
+                $('.ajax_update_notification').html("Server encountered an error, please try again later");
+                $('.ajax_update_notification').show();
+                setTimeout("$('.ajax_update_notification').fadeOut('slow')",5000);
+            },
+            success: function(data){
+				var testcase = /div/g;
+            	if(!testcase.test(data)){            	
+
+					$('.ajax_update_notification').html(data);
+					$('.ajax_update_notification').show();
+					setTimeout("$('.ajax_update_notification').fadeOut('slow')",5000);
+		   			testcase.lastIndex = 0;
+					return false;
+            		
+            	}
+               testcase.lastIndex = 0;
+               $('.ajax_update_notification').html("Your message has been sent");
+               $('.ajax_update_notification').show();
+               setTimeout("$('.ajax_update_notification').fadeOut('slow')",5000);
+               if($('#no_data_to_show') != undefined){
+               		$('#no_data_to_show').remove();
+               }
+            }
+        });
+        
+        return false;
+        /*
+        //erasing previous cookie
+        set_cookie("webping", "", -5);
+        status_submitted = true;
+        return true;*/
+    }
     function update_status(){
                 
         webping = $(this).val();
@@ -80,8 +178,10 @@ select, option { behavior: url("/media/js/disable.htc"); }
                                             $("#updater_container").dialog({
                                             modal: true,
                                             width: 699,
-                                            height:480,
+                                            height:533,
                                             autoResize: false,
+                                            resizable: false,
+                                            dialogClass: 'overwrite_dialog',
                                             overlay: {
                                             opacity: 0.5,
                                             background: "#D8D8D8"
@@ -111,6 +211,10 @@ select, option { behavior: url("/media/js/disable.htc"); }
 
     $(document).ready(function()
         {
+        	$('#ping_stream_loader').hide();
+        	$('#error_ajax_update').hide();
+			$('.ajax_update_notification').hide();
+        	
             $("#lnk_barminmize").click(
                                         function ()
                                         {
@@ -130,7 +234,7 @@ select, option { behavior: url("/media/js/disable.htc"); }
                                         }
                                         );
 
-            $("#webping").attr("value", get_cookie("webping"));
+            $("#webping").attr("value", "");
 
             $("#dialog_close").click(
                 function()
@@ -141,6 +245,31 @@ select, option { behavior: url("/media/js/disable.htc"); }
             );
             
             $("#webping").keyup(update_status);
+
+            $("#admin_flag_false_complaint").click(
+                function()
+                {
+                    if (this.checked) {
+                        $("#admin_flag_delete_picture").attr("checked", false);
+                        $("#admin_flag_rename_account").attr("checked", false);
+                        $("#admin_flag_suspend_account").attr("checked", false);
+                        $("#admin_flag_delete_content").attr("checked", false);
+                        $("#admin_flag_suspend_days").val("");
+
+                        $("#admin_flag_delete_picture").attr("disabled", true);
+                        $("#admin_flag_rename_account").attr("disabled", true);
+                        $("#admin_flag_suspend_account").attr("disabled", true);
+                        $("#admin_flag_suspend_days").attr("disabled", true);
+                        $("#admin_flag_delete_content").attr("disabled", true);
+                    } else {
+                        $("#admin_flag_delete_picture").removeAttr("disabled");
+                        $("#admin_flag_rename_account").removeAttr("disabled");
+                        $("#admin_flag_suspend_account").removeAttr("disabled");
+                        $("#admin_flag_suspend_days").removeAttr("disabled");
+                        $("#admin_flag_delete_content").removeAttr("disabled");
+                    }
+                }
+            );
         }
     );
 
@@ -149,6 +278,15 @@ select, option { behavior: url("/media/js/disable.htc"); }
 </head>
 
 <body class="bg">
+<!--[if IE 6]>
+<script type="text/javascript"> 
+	/*Load jQuery if not already loaded*/ if(typeof jQuery == 'undefined'){ document.write("<script type=\"text/javascript\"   src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js\"></"+"script>"); var __noconflict = true; } 
+	var IE6UPDATE_OPTIONS = {
+		icons_path: "/media/images/ie-6-update/images/"
+	}
+</script>
+<script type="text/javascript" src="/media/images/ie-6-update/js/ie6update.js"></script>
+<![endif]-->
 	<div id="container">            
 		<div id="tn_Container">
 		        
@@ -164,7 +302,7 @@ select, option { behavior: url("/media/js/disable.htc"); }
                                                 <li><a href="/prings/search/">Search</a></li>
 					</ul>
 				</div>
-		
+                
 				<div class="tn_right">
 					<ul>
 						
@@ -174,6 +312,7 @@ select, option { behavior: url("/media/js/disable.htc"); }
 					</ul>
 				</div>
 			</div>
+			<div id="update_notification" class="ajax_update_notification">Your update has been successfully posted</div>
 		
 		</div>
                 
@@ -187,6 +326,7 @@ select, option { behavior: url("/media/js/disable.htc"); }
                 </div>
 
                 <div id="Right_area">
+                   
                     
     <div id="Rbox">
         <div id="Rb_head">
