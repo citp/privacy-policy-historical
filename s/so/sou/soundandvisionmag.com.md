@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the soundandvisionmag.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503161009id_/http%3A//www.soundandvisionmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundandvisionmag.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209205929id_/http%3A//www.soundandvisionmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sound and Vision Magazine
 
 **Bonnier Corporation Privacy Policy**
 
-_This policy was last updated on October 4, 2010._
+_This policy was last updated on October 11, 2011._
 
 At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, "Bonnier").
 
@@ -12,7 +12,7 @@ To better protect your privacy, we provide this notice explaining our privacy pr
 
 Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor website](http://www.export.gov/safeharbor/doc_safeharbor_index.asp).
 
-**Note: For questions related to your magazine subscription, please visit our** **Customer Service web site** **or email** **soundandvision@emailcustomerservice.com** **.**
+**Note: For questions related to your magazine subscription, please visit our** **Customer Service web site** **or email** **@emailcustomerservice.com** **.**
 
 If you have any questions about this Privacy Policy, please write to us [via e-mail](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com, or via postal mail at: 
 
@@ -53,6 +53,8 @@ We work with reputable third parties that provide data tracking and collection t
 
 These companies may collect information about you on our behalf.  We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.  
 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this informatione To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
+
 Bonnier websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties.  By virtue of their sponsorship, these third parties may obtain personally-identifying information that visitors voluntarily submit to them in order to participate in the contest, sweepstakes, or promotion.  Bonnier has no control over the third-party sponsors' use of this information.  If a third-party sponsor beyond our control will obtain information that you supply us, we will notify you at the time we collect the information from you.  For certain promotions, only those who provide us with the requested personally-identifying information will be able to order products, programs, and services, or otherwise participate in the promotion's activities and offerings.
 
 Some of our websites contain links to other sites.  By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply.  These other sites' information practices may be different than ours.  You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
@@ -61,11 +63,11 @@ Some of our websites contain links to other sites.  By clicking on these links,
 
 We use the personally-identifying information that you provide us to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs, or services that we believe may be of interest to you.  We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
 
-We may syndicate the publicly available content of our community areas to unaffiliated third-party websites, using RSS or other technologies.
+We may syndicate the publicly available content of our community areas to unaffiliated third-party websites, using RSS or other technologies. The information you have shared in the community areas may be included in this syndication.
 
-We will use the personally-identifying information that you provide about others only as necessary to provide the products or services that you have requested; for example, to enable us to send them your gifts or cards.  If you provide us someone else's personally-identifying information for referral purposes, we may use that information to invite them to visit our websites or to provide them information about our products or services.
+We will use the personally-identifying information that you provide about others in order to provide the products or services that you have requested; for example, to enable us to send them your gifts or cards.  If you provide us someone else's personally-identifying information for referral purposes, we may use that information to invite them to visit our websites or to provide them information about our products or services.
 
-If you provide us with your e-mail and/or postal address, we may include that address in e-mail and/or postal address lists that we sell, trade, or rent to third parties.  Before sharing your e-mail or postal address with companies not owned by Bonnier who want to market products or services to you, we will provide you with an opportunity to opt out.  You may also opt out of the receipt of any marketing materials from Bonnier as detailed below.
+If you provide us with your e-mail and/or postal address, we may include that address in e-mail and/or postal address lists that we sell, trade, or rent to third parties.  These lists will never contain sensitive information. If you do not wish for your e-mail or postal address to be shared with companies not owned by Bonnier who want to market products or services to you, you have the opportunity to opt out, as described below.  You may also opt out of the receipt of any marketing materials from Bonnier as detailed below.
 
 We may transfer your sensitive personally-identifying information to other Bonnier offices for internal management and administrative purposes.  In addition, your personal data will be transferred to other Bonnier offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit.  Transfers of personally-identifying information may also be made where necessary for the establishment, exercise, or defense of legal claims.
 
@@ -87,7 +89,7 @@ Bonnier employees, agents, and contractors who have access to personally-identif
 
 Bonnier only collects personal information that is relevant to the purposes for which it will be used.  Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary. 
 
-You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please [e-mail us](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com. (Note: Do not use this email address to send questions about your subscription. Rather, send your subscription-related inquiries to **[soundandvision@emailcustomerservice.com](mailto:soundandvision@emailcustomerservice.com)**.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
+You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please [e-mail us](mailto:privacy@bonniercorp.com) at privacy@bonniercorp.com. (Note: Do not use this email address to send questions about your subscription. Rather, send your subscription-related inquiries to **[@emailcustomerservice.com](mailto:@emailcustomerservice.com)**.) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
 
 In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. 
 
@@ -95,7 +97,9 @@ We only use the information we collect for purposes consistent with this policy.
 
 **Your privacy options**
 
-**If you prefer not to receive communications from other companies** , you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by [emailing us](mailto:emailoptout@bonniercorp.com?subject=Third-Party%20Opt%20Out) at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+**If you prefer not to receive email communications from other companies** , you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by [emailing us](mailto:emailoptout@bonniercorp.com?subject=Third-Party%20Opt%20Out) at emailoptout@bonniercorp.com.  You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
+
+If you prefer not to receive postal communication from other companies, you may choose to remove yourself from any postal mailing lists that we provide to third parties for marketing purposes by sending us an e-mail at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com), or writing us at P.O. Box 420235, Palm Coast, FL. You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
 We only want to communicate with you if you want to hear from us.  **If you prefer not to be contacted at all** , you may opt out of receiving any communications from us at any time by [notifying us](mailto:emailoptout@bonniercorp.com?subject=Opt%20Out%20of%20All%20Communications) at emailoptout@bonniercorp.com.  You may also notify us by sending mail to the following address:
 
@@ -104,7 +108,7 @@ Bonnier Corporation
 460 North Orlando Avenue, Suite 200  
 Winter Park, FL  32789
 
-In your request, please tell us what communications you would like to opt out of, what means we have been using to contact you (such as your e-mail or postal address), the date of your request, and a way to contact you in case we need to personally contact you in an effort to comply with your request.  We reserve the right to send you certain communications, such as technical alerts, without offering you the opportunity to opt out of receiving them.
+In all requests, please tell us what communications you would like to opt out of, what means we have been using to contact you (such as your e-mail or postal address), the date of your request, and a way to contact you in case we need to personally contact you in an effort to comply with your request.  We reserve the right to send you certain communications, such as technical alerts, without offering you the opportunity to opt out of receiving them.
 
 **Enforcement and Compliance with this Privacy Policy**
 
