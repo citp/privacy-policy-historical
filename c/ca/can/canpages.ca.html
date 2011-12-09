@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the canpages.ca privacy policy that was archived on 2011-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110503183756id_/http%3A//www.canpages.ca/hm/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canpages.ca privacy policy that was archived on 2011-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111209183645id_/http%3A//www.canpages.ca/hm/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -9,7 +9,7 @@
 
 <meta name="description" content="Canadian local search engine and online directory with over 1.2 million Canadian business listings of phone numbers, addresses and postal codes. Search Canpages for up-to-date index of Canadian companies. Publisher of 70+ local phone directories with over 5.4 million circulation in Ontario, British Columbia, Alberta, Yukon, and Northwest Territories">
 <meta http-equiv="-" name="AUTHOR" content="Canpages - Canpages Inc.">
-		<script type="text/javascript" src="http://cpgimg.com/js/jquery-1.2.6.min.js"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cpgimg.com/js/jquery-1.2.6.min.js"></script>
 		<script type="text/javascript" src="http://cpgimg.com/js/prototype-1.6.0.2.js"></script>		
 		<script type="text/javascript" src="http://cpgimg.com/js/scriptaculous.js"></script>
 		<script type="text/javascript" src="http://cpgimg.com/js/over/ajaxcontentmws.js"></script>
@@ -92,6 +92,21 @@ html #navigation ul li a {
 
 	</style>
 <! [endif]-->
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2792453-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
 </head>
 
 
@@ -102,7 +117,7 @@ html #navigation ul li a {
 
   <div id="top">
 
-   <div id="logo"><a href="/"><img src="http://cpgimg.com/images/logo_c.gif" alt="Canadian Business Directory - Canpages" width="257" height="62" border="0/"></a> <br>
+   <div id="logo"><a href="/"><img id="canpagesLogo" src="http://cpgimg.com/images/logo_c.gif" alt="Canadian Business Directory - Canpages" width="257" height="62" border="0/"></a> <br>
 		
       	<div id="lang"><a href="/hm/privacy.jsp?lang=1" class="un_link">Français</a></div>
 		
@@ -344,123 +359,29 @@ html #navigation ul li a {
 
 
 
-<script type="text/javascript">
-	function repositionIcons() {
-		var rm = 0;
-		//var minWidth = 500;
-		//var newWidth = 0;
-		//var clWidth = document.body.clientWidth;
-		
-				//txtLeft = document.body.clientWidth-30;
-				//txtLeft = Math.max(minWidth, clWidth - 70);
-				//txtLeft = $("#inputMobile").position().left + 4;
-				rm = 35;
-		
-		//alert(document.getElementById("msgDiv"));
-		//document.getElementById("msgDiv").left = txtLeft;
-		jQuery("#msgDiv").css({position:"absolute", right:rm});
-	}
-
-	jQuery(document).ready(function($){
-		$("#inputMobile").click(function(event){
-			$(this).val('');
-			$("#msgDiv").slideUp("slow");
-		}).keydown(function(){
-			$("#msgDiv").slideUp("slow");
-		}).blur(function(){
-			if($(this).val() == '')
-				$(this).val('enter mobile number');
-		});
-
-		$("#mobileSubmit").click(function(event){
-			var input = $("#inputMobile").val();
-			if (input != '' && input != 'enter mobile number') {
-				$.ajax({
-				   type: "GET",
-				   url: "/sendSms.do",
-				   data: "dispatch=sendLink&phone="+input,
-				   dataType: "xml",
-				   success: function(xml) {
-				   	  var result = "";
-				   	  $(xml).find('result').each(function(idx) {
-				   	  	  result = $(this).attr("flag");
-				   	  });
-
-				   	  if (result=='SUCCESS'){
-				   	  	  $("#msgDiv").html("A SMS has been sent to<br/> your mobile phone. <br/>Simply click the link <br/>to install.");
-				   	  	  $("#msgDiv").slideDown("fast");
-				   	  } else {
-				   		  $("#msgDiv").html("You have entered an invalid <br/>phone number. <br/>Please try again.");
-				   		  $("#msgDiv").slideDown("fast");
-				   		  $("#inputMobile").val('');
-						  $("#inputMobile").focus();
-				   	  }
-				   },
-				   error: function(xhr, textStatus, errorThrown) {
-				  	  $("#msgDiv").html("Error : Can't send the download links. <br/>Please enter a valid <br/>phone number and try again.");
-				  	  $("#msgDiv").slideDown("fast");
-				  	  $("#inputMobile").val('');
-					  $("#inputMobile").focus();
-				   }
-			    });
-			} else {
-				$("#msgDiv").html("Please enter 10 digit<br/> mobile number.");
-				$("#msgDiv").slideDown("slow");
-				$("#inputMobile").val('');
-				$("#inputMobile").focus();
-			}
-		});
-		repositionIcons();
-	});
-</script>
-
-<style>
-<!--
-	#msgDiv {
-		background: url(/images/home/bckgr_box_msg150.png) 0 0 no-repeat;
-		background-position: bottom left;
-		width: 150px;
-		min-height: 0px;
-		font-size: 11px;
-		_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/home/bckgr_box_msg150.png', sizingMethod='crop');
-		z-index: 2;
-		padding-bottom: 10px;
-	}
--->
-</style>
-
-<div id="">
+<div id="footer">
 	<!-- links right bottom -->
-        <div id="mobileDiv">
+        <div id="mobileDiv" style="margin-bottom:5px;">
 			<table class="mobile_app" border="0" cellpadding="0" cellspacing="0">
         	<tbody><tr>
-        	 	<td align="left" width="300">
-	      	  	
+        	 	<td align="left" width="30%">
+        	 		<a href="http://blog.canpages.ca/blog/mobile/index.htm" target="_blank">
+        	 			<img src="/images/home/canpages-mobile.jpg" style="border:0;">
+        	 		</a>
         	 	</td>
+        	 	<td width="30%">
+        	 		<div style="margin-left:25px;">
+        	 			<a href="http://dealoftheday.redflagdeals.com/?utm_source=CanPages&amp;utm_medium=oa&amp;utm_campaign=Other&amp;utm_content=foodimage" target="_blank">
+        	 				<img src="/images/home/DOTD1.jpg" style="border:0;">
+        	 			</a>
+        	 		</div>
+        	 	</td>        	 	
 				<td>
 					<div class="tl_r" style="float:right;">
-						<a href="http://www.canpages.ca/mobile" target="_blank">
-						
-							
-							
-								<img src="/images/home/canpages_mobile.jpg" id="canpages_mobile" style="border:none;">
-							
-						
+						<a href="http://blog.canpages.ca/blog/products/index.htm" target="_blank">
+							<img src="/images/home/canpages-products.jpg" id="canpages_products" style="border:none;">
 						</a>
 					</div>
-					<div style="float:right; display:none;">
-						<div class="mobile_text"><a href="http://corporate.canpages.ca/mobile">Canpages Mobile App</a> - Send a download link to your phone</div>
-						<div class="tl_r_content">
-							<img src="/images/home/button_go.gif" id="mobileSubmit">
-							<input id="inputMobile" name="input" title="Enter mobile number" value="enter mobile number" type="text">
-							<img src="/images/home/logos_rotate.gif" class="mobile_logo">
-						</div>
-					</div>
-        	 	</td>
-        	 </tr>
-        	 <tr>
-        	 	<td colspan="2">
-        	 		<div id="msgDiv" style="display:none; position:absolute; margin-top:-4px;">Message</div>
         	 	</td>
         	 </tr>
         	 </tbody></table>
@@ -473,15 +394,14 @@ html #navigation ul li a {
 		<tbody><tr>
 		<td>
 		© 2011 Canpages Inc. All rights reserved&nbsp;&nbsp;&nbsp;|
-		<li><a href="http://www.canpages.ca/">Home</a> |</li>
+		<li><a href="/">Home</a> |</li>
 		<li><a href="http://corporate.canpages.ca/">Corporate</a> |</li>
      			<li><a href="/hm/feedback.jsp">Feedback</a> |</li>
      			<li><a href="/hm/privacy.jsp">Privacy</a> |</li>
      			<li><a href="/hm/terms.jsp">Terms</a> |</li>
      			<li><a href="/directory">Business Directory</a> |</li>
-		<li><a href="http://www.canpages.ca/blog/">Blog</a> |</li>
-		<li><a href="/olc/">Add or Update a Free Listing</a> |</li>
-		<li><a href="http://code.canpages.ca">API</a></li>
+		<li><a href="http://blog.canpages.ca/blog/">Blog</a> |</li>
+		<li><a href="http://www.canpages.ca/olc/">Add or Update a Free Listing</a></li>
       	  	
 			<li> | <a href="http://dealoftheday.redflagdeals.com/?formtype=simple&amp;utm_campaign=dealoftheday&amp;utm_source=canpages&amp;utm_medium=footerEN" target="_blank">RedFlagDeals</a></li>  
         	 	
@@ -492,11 +412,12 @@ html #navigation ul li a {
              </ul>
             </div>
          </div>
-
-
+         
 
 
 <img src="/tracker.jsp" width="1" height="1/">
+
+
 		
 	
 
@@ -524,39 +445,6 @@ html #navigation ul li a {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2792453-1");
-pageTracker._setDomainName(".canpages.ca");
-pageTracker._initData();
-pageTracker._trackPageview('/hm/privacy.jsp');
-</script>
-
-<!-- Begin comScore Tag -->
-<script type="text/javascript">
-document.write("<img id='img1' height='1' width='1'>");document.getElementById("img1").src="http://beacon.scorecardresearch.com/scripts/beacon.dll?C1=2&C2=3005681&C3=3005681&C4=" + escape(window.location.href) + "&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random()*99999999);
-								
-</script><img id="img1" height="1" width="1" src="http://beacon.scorecardresearch.com/scripts/beacon.dll?C1=2&amp;C2=3005681&amp;C3=3005681&amp;C4=https%3A//web.archive.org/web/20110503183756id_/http%253A//www.canpages.ca/hm/privacy.jsp&amp;C5=&amp;C6=&amp;C7=https%3A//web.archive.org/web/20110503183756id_/http%253A//www.canpages.ca/hm/privacy.jsp&amp;C8=Canpages&amp;C9=&amp;rn=96361888">
-<!-- End comScore Tag -->
-
-<img src="/tracker.jsp" width="1" height="1/">
 
 
 
