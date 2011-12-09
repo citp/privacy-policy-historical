@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medscape.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604030820id_/http%3A//www.medscape.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medscape.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209131615id_/http%3A//www.medscape.com/public/privacy) for the most accurate reproduction.*
 
 # The WebMD Health Professional Network Privacy Policy
 
