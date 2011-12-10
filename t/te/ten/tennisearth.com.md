@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tennisearth.com privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217171236id_/http%3A//www.tennisearth.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisearth.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210184933id_/http%3A//www.tennisearth.com/privacyPolicy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# TennisEarth.com - Privacy Policy
 
 TennisEarth.com takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
