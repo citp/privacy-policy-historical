@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deepsilver.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606062906id_/http%3A//www.deepsilver.com/en/footer/terms-of-use-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepsilver.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210053850id_/http%3A//www.deepsilver.com/en/footer/terms-of-use-privacy-statement) for the most accurate reproduction.*
 
-# Terms of use - Footer - Deepsilver
+# Terms of use - Footer - Deep Silver
 
 Koch Media is serious about protecting users’ personal data and is obliged to adhere to all valid, related laws, including Directive 94/46/EG of the European Parliament and Council from October 25, 1995 for the protection of individuals when processing personal data and to the free flow of data as well as other appropriate, applicable laws and legal regulations in your country of residence.
 
