@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the11forgottenlaws.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502072352id_/http%3A//www.the11forgottenlaws.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the11forgottenlaws.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210054638id_/http%3A//www.the11forgottenlaws.com/about/privacy-policy) for the most accurate reproduction.*
 
 # The 11 Forgotten Laws
 
