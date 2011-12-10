@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitsandwork.co.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611193359id_/http%3A//benefitsandwork.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitsandwork.co.uk privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210143603id_/http%3A//www.benefitsandwork.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
