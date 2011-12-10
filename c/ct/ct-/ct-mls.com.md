@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ct-mls.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611224720id_/http%3A//www.ct-mls.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ct-mls.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210080320id_/http%3A//ct-mls.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Greater Fairfield County CMLS
-
-You are not using the Internet Explorer browser. The GFC CMLS applications are only compatible with Internet Explorer.
 
 ##  I. GFC CMLS’ Commitment to Protect Subscribers’ Privacy: 
 
