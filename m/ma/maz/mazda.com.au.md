@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611170131id_/http%3A//www.mazda.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210030845id_/http%3A//www.mazda.com.au/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Mazda Australia Zoom-Zoom - Privacy Policy
 
