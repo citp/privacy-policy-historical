@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the integrysgroup.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510093641id_/http%3A//www.integrysgroup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integrysgroup.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210012521id_/http%3A//www.integrysgroup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy (Integrys Energy Group)
+
+[Home Page](http://www.integrysgroup.com/default.aspx)  > Privacy Policy  >
 
 ## Integrys Energy Group, Inc. (Integrys)  
 Website Privacy Policy
 
-_(Revised April 22, 2010)_
+_(Revised July 11, 2011)_
 
-Integrys Energy Group (also referred to as "we" or "us") is concerned about preventing unauthorized disclosure of customer information. We understand the importance you place on the privacy and security of information that personally identifies you or your account information. We refer to this information as "personal information." We want you to know what personal information we collect and how we use it. We have therefore adopted the following Privacy Policy to explain our commitment to your privacy. If you have any questions about our policy after reading it, please [contact us](https://accel.integrysgroup.com/secure/ssl/contact.aspx "Contact Us").
+Integrys Energy Group (also referred to as "we" or "us") is concerned about preventing unauthorized disclosure of customer information. We understand the importance you place on the privacy and security of information that personally identifies you or your account information. We refer to this information as "personal information." We want you to know what personal information we collect and how we use it. We have therefore adopted the following Privacy Policy to explain our commitment to your privacy. If you have any questions about our policy after reading it, please [contact us](https://accel.integrysgroup.com/secure/ssl/contact.aspx).
 
 By using the website, you agree to be bound by this Privacy Policy. Please check this policy frequently, as we may amend it from time to time to reflect changes in our services and our policies relating to customer information. Amendments will become effective at the time they are posted on our website. We will not provide notice of changes in this Privacy Policy.
 
@@ -24,8 +26,8 @@ You may be asked to submit personal information such as your name, address, phon
 
   1. The personal information you provide us not only enables you to access various services offered on the website, but also enables us to provide you with better service. We may use this information to contact you to respond to an inquiry that you send to Integrys. If you choose to communicate with Integrys by e-mail, then e-mail from Integrys to you will be considered to be sent with your consent and will be accessible to anyone who has access to your e-mail.
   2. In order to provide you with services offered on the website, or to complete transactions or requests initiated by you on the website, we may transfer you to a website operated by third parties that help us provide services to you. In such cases, we will have agreements with those parties under which they will agree to maintain the confidentiality of your personal information and to use it only for the purpose of helping us serve you. We only transfer or share information to those who have a privacy policy at least as stringent or substantially similar to Integrys.
-  3. Other than as set forth herein, we will not disclose your personal information to third parties without your written consent (which consent may be obtained electronically, such as by e-mail), unless we reasonably believe that the disclosure is essential to the conduct of Integrys's business, including but not limited to where such disclosure is necessary to (a) comply with the law, legal process or our regulators, (b) collect unpaid bills, (c) enable Integrys's employees or consultants to provide service to you and to otherwise perform their duties, (d) comply with interchange functions, (e) obtain and provide credit reporting information, or (f) resolve customer disputes or inquiries. We do not provide your personal information to third parties for the purpose of telemarketing, e-mail or direct-mail solicitation.
-  4. You should protect the confidentiality of your username and password. You are responsible for all activity on the website accessed by your username and password. Access by Integrys's employees or consultants to any personal information you provide is limited to only that necessary to provide the business service offered and to otherwise allow such employees or consultants to perform their duties.
+  3. Other than as set forth herein, we will not disclose your personal information to third parties without your written consent (which consent may be obtained electronically, such as by e-mail), unless we reasonably believe that the disclosure is essential to the conduct of Integrys' business, including but not limited to where such disclosure is necessary to (a) comply with the law, legal process or our regulators, (b) collect unpaid bills, (c) enable Integrys' employees or consultants to provide service to you and to otherwise perform their duties, (d) comply with interchange functions, (e) obtain and provide credit reporting information, or (f) resolve customer disputes or inquiries. We do not provide your personal information to third parties for the purpose of telemarketing, e-mail or direct-mail solicitation.
+  4. You should protect the confidentiality of your username and password. You are responsible for all activity on the website accessed by your username and password. Access by Integrys' employees or consultants to any personal information you provide is limited to only that necessary to provide the business service offered and to otherwise allow such employees or consultants to perform their duties.
 
 
 
@@ -51,6 +53,6 @@ While browsing the website, you may encounter hypertext links to other websites 
 
 **We do not control and are not responsible for what third parties do in connection with their websites, or how they handle your personal information. Please exercise caution and consult the privacy policies posted on such websites for further information.**
 
-If you have any questions about this policy, please [contact us](https://accel.integrysgroup.com/secure/ssl/contact.aspx "Contact Us").
+If you have any questions about this policy, please [contact us](https://accel.integrysgroup.com/secure/ssl/contact.aspx).
 
 Back to Top
