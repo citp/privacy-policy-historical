@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storecrowd.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011074417id_/http%3A//storecrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storecrowd.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210145428id_/http%3A//storecrowd.com/privacy) for the most accurate reproduction.*
 
 # StoreCrowd - How we Protect your Privacy
 
