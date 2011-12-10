@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carrington.edu privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617124950id_/http%3A//carrington.edu/ccc/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrington.edu privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210024322id_/http%3A//carrington.edu/cc/about/privacy-policy) for the most accurate reproduction.*
 
 # Carrington Colleges :: Privacy Policy
 
 ## 1) General.
 
-Carrington Colleges Group, Inc. and its related companies or affiliates ("CCG" or "we") respect the privacy of every individual who visits our web sites or responds to our promotions. CCG intends to act reasonably to protect your privacy, but obviously cannot guaranty security against "hackers" or other issues beyond our control. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on CCG web sites, unless otherwise posted.
+Carrington Colleges Group, Inc. and its related companies or affiliates ("CCG" or "we") respect the privacy of every individual who visits our websites or responds to our promotions. CCG intends to act reasonably to protect your privacy, but obviously cannot guaranty security against "hackers" or other issues beyond our control. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This notice applies to all information collected or submitted on CCG websites, unless otherwise posted.
 
 ## 2) Information Collected From You.
 
@@ -22,7 +22,7 @@ Generally we do not give or sell your information, including your personally ide
 
   * Blogs and Online Communities. You may choose to submit information as part of a blog or online community offered by CCG. Any information you choose to post, including personally identifiable information, may be available generally to the public, or to other members of the blog or online community. 
   * Subcontractors. We may share your information with subcontractors that provide us with services. These services may include, among other things, helping to provide services that you request, helping to create or maintain our databases, helping to research and analyze the people who request services or information from us, helping to provide marketing or solicitation materials for our products or services, and/or helping to process payment card information 
-  * Law Enforcement. We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property or safety of you or another person. 
+  * Law Enforcement. We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property, or safety of you or another person. 
   * Permitted by Law. We may share your information with others as required by, or permitted by, law. This may include sharing your information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us. 
   * Transfers. In the event that CCG, or substantially all of CCG’s assets, are acquired, your Information will be transferred to the acquiring entity. In such a situation, you will be provided with notice that a transfer of your Information is imminent, and you will be given an opportunity to opt-out of the transfer of your information. 
 
@@ -38,11 +38,11 @@ Any information collected by CCG from children is used for the sole purpose of d
 
 ## 7) Third-party web sites.
 
-Any links to third-party web sites on CCG sites are provided solely as a convenience to you. If you use these links, you will leave the CCG site. CCG does not review all third-party sites, nor does it control or assume responsibility for the content or privacy policies of any of these sites. Thus, CCG does not endorse or make any representations about them, or any information, or other products or materials found there, or any results that may be obtained from using them. If you decide to access a third-party site linked to a CCG web site, you do so at your own risk.
+Any links to third-party websites on CCG sites are provided solely as a convenience to you. If you use these links, you will leave the CCG site. CCG does not review all third-party sites, nor does it control or assume responsibility for the content or privacy policies of any of these sites. Thus, CCG does not endorse or make any representations about them, or any information, or other products or materials found there, or any results that may be obtained from using them. If you decide to access a third-party site linked to a CCG website, you do so at your own risk.
 
 ## 8) How can you correct your information?
 
-If you have any questions regarding this privacy policy or would like to have your personally identifiable information modified or deleted from our records, please e-mail us or call our toll-free number.
+If you have any questions regarding this privacy policy or would like to have your personally identifiable information modified or deleted from our records, please email us or call our toll-free number.
 
 ## 9) How to contact us, and how we may contact you.
 
@@ -54,6 +54,6 @@ Mission Viejo, California 92691
 1-877-205-1458  
 web@cc.edu
 
-If we are required to provide you with notice of a particular event or incident, we will send you that notice by e-mail, telephone, or mail.
+If we are required to provide you with notice of a particular event or incident, we will send you that notice by email, telephone, or mail.
 
 Last revised on March 16, 2011.
