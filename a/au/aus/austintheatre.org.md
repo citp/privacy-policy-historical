@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the austintheatre.org privacy policy that was archived on 2007-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071008145039id_/http%3A//www.austintheatre.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austintheatre.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211003658id_/http%3A//www.austintheatre.org/site/PageNavigator/2009privacypolicy) for the most accurate reproduction.*
 
-# The Paramount & State Theatres - Austin, TX: Privacy Policy
+# The Paramount and Stateside Theatres : Privacy Policy
 
 **Privacy Policy  
 ** The Paramount & State Theatres - Austin, TX has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.austintheatre.org.
