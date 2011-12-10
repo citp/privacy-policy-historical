@@ -1,51 +1,72 @@
-> *The following text is extracted and transformed from the esoft.web.id privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301034425id_/http%3A//www.esoft.web.id/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoft.web.id privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210091213id_/http%3A//www.esoft.web.id/privacy-statement.html) for the most accurate reproduction.*
 
 # Esoft.Web.Id - Esoft Download Free Software Privacy Statement - Free Software Download and Review @Esoft.Web.id
 
-What follows is the Privacy Statement for all **Esoft.Web.Id|Esoft Download Free Software** websites including all the websites run under the **Esoft.Web.Id** domain.
+This site is owned and operated by Esoft.Web.Id|Esoft Download Free Software. Your privacy on the Internet is of the utmost importance to us. At Esoft.Web.Id|Esoft Download Free Software, we want to make your experience online satisfying and safe.
 
-Please read this statement regarding our blogs. If you have questions please ask us via our contact form.
+Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-**Email Addresses**
+**[FIX PC ERRORS!!](https://web.archive.org/go/link_regdef)**  
+Speed Up Your Computers performance and Eliminate Errors. The Award Winning RegDefense will Scan,Repair, and help you Effectively Manage your Registry just moments after downloading. 100% Effective Guaranteed !
 
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We donâ€™t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
+INFORMATION Esoft.Web.Id|Esoft Download Free Software GATHERS AND TRACKS  
+Esoft.Web.Id|Esoft Download Free Software gathers two types of information about users:
 
-**Ownership of Information**
+Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
 
-**Esoft.Web.Id|Esoft Download Free Software** is the sole owner of any information collected on our websites.
+Information Esoft.Web.Id|Esoft Download Free Software gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Esoft.Web.Id|Esoft Download Free Software derives some of its revenue from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our providing free content to our users. Under no circumstances does Esoft.Web.Id|Esoft Download Free Software divulge any information about an individual user to a third party.  
+Esoft.Web.Id|Esoft Download Free Software Gathers User Information In The Following Processes:
 
-**Comments/Message Boards**
+Optional Voluntary Information  
+We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-Most **Esoft.Web.Id|Esoft Download Free Software** websites contain comment sections. We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce â€œcomment spam.â€ These email addresses will not be shared with any third party.
+1\. Comments  
+Users of the site's need not register in order to post messages, although their IP is tracked.
 
-**Cookies**
+2\. "E-mail this to a friend" policy
 
-Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish.
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
-**Third Party Cookies**
+3\. Polling
 
-Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. **Esoft.Web.Id|Esoft Download Free Software** does not have access to this data.
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Esoft.Web.Id|Esoft Download Free Software may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
 
-**Traffic Reports**
+Usage tracking  
+Esoft.Web.Id|Esoft Download Free Software tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Esoft.Web.Id|Esoft Download Free Software does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
 
-Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
+Esoft.Web.Id|Esoft Download Free Software sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.  
+**  
+Cookies**
 
-**Legal proceedings**
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Esoft.Web.Id|Esoft Download Free Software uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
 
-We will make every effort to preserve user privacy but Esoft.Web.Id|Esoft Download Free Software may need to disclose information when required by law.
+You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
 
-**Business Transitions**
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.esoft.web.id/contact). At Esoft.Web.Id|Esoft Download Free Software, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [b]Esoft.Web.Id|Esoft Download Free Software[/b] and how it is used. Log Files Like many other Web sites, [b]Esoft.Web.Id|Esoft Download Free Software[/b] makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. Cookies and Web Beacons [b]Esoft.Web.Id|Esoft Download Free Software[/b] does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Amazon, ETC. These third-party ad servers or ad networks use technology to the advertisements and links that appear on [b]Esoft.Web.Id|Esoft Download Free Software[/b] send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. [b]Esoft.Web.Id|Esoft Download Free Software[/b] has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [b]Esoft.Web.Id|Esoft Download Free Software[/b]'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.Privacy Policy Use  
+How the information you gather is used if relevent.
 
-If **Esoft.Web.Id|Esoft Download Free Software** is acquired by or merges with another firm, the assets of our websites, including personal information, will likely be transferred to the new firm.
+**USE OF INFORMATION**
 
-**Links**
+Esoft.Web.Id|Esoft Download Free Software uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
 
-**Esoft.Web.Id|Esoft Download Free Software** websites frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination siteâ€™s privacy policy. This privacy statement applies solely to information collected by **Esoft.Web.Id|Esoft Download Free Software**.
+When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. But we don't track which terms a particular user enters.
 
-**Notification of Changes**
+Esoft.Web.Id|Esoft Download Free Software creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
-When **Esoft.Web.Id|Esoft Download Free Software** makes changes to this privacy policy we will post those changes here.
+SHARING OF THE INFORMATION
 
-**Contact Information**
+Esoft.Web.Id|Esoft Download Free Software uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
-If you have any questions regarding our privacy policy, please contact us.
+SECURITY
+
+Esoft.Web.Id|Esoft Download Free Software operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+
+**OPT-OUT POLICY**
+
+We give users options wherever necessary and practical. Such choices include:
+
+Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users 
+
+YOUR CONSENT
+
+By using this site, you consent to the collection and use of this information by Esoft.Web.Id|Esoft Download Free Software. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
