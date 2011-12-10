@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animea.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630155118id_/http%3A//www.animea.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animea.net privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210165835id_/http%3A//www.animea.net/privacypolicy.html) for the most accurate reproduction.*
 
 # AnimeA - Privacy Policy
 
