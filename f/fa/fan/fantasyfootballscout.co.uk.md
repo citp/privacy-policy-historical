@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasyfootballscout.co.uk privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527233703id_/http%3A//www.fantasyfootballscout.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballscout.co.uk privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210071321id_/http%3A//www.fantasyfootballscout.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Fantasy Football Tips, News and Views from Fantasy Football Scout
+# Privacy Policy @ Fantasy Football Tips, News and Views from Fantasy Football Scout
 
 At Fantasy Football Scout Ltd we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by internet law specialists LegalCentre.co.uk.
 
