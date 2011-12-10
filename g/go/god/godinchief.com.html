@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the godinchief.com privacy policy that was archived on 2009-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090201000008id_/http%3A//godinchief.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the godinchief.com privacy policy that was archived on 2011-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210153045id_/http%3A//www.godinchief.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 	<title>Privacy Policy - God in Chief: God in Chief</title>
@@ -7,7 +7,7 @@
 	<meta name="title" content="Privacy Policy - God in Chief: God in Chief">
 	<meta name="subject" content="Technology">
 	<meta name="language" content="en">
-	<meta name="keywords" content="AFTERMATH, America, India, Infosys, Internet, Israel, Mumbai, NDTV, Pakistan, pm, Politics &amp; Society, School, Startups, TCS, Technology, terror, Terror Attacks, terrorism, U.S.A, Wipro">
+	<meta name="keywords" content="AFTERMATH, America, Business, entrepreneurs, funding, Gaming, India, Indiagames, Indian, Infosys, Internet, iPhone, Media, Mumbai, nasscom, Politics &amp; Society, Proto.in, startup, Startups, TCS, Technology, terror, Terror Attacks, terrorism, VC">
 	<meta name="description" content="God in Chief">
 	<link rel="alternate" href="http://www.godinchief.com/rss.xml" type="application/rss+xml" title="God in Chief's RSS Feed">
 	<link rel="alternate" href="http://www.instablogs.com/feed/blog=God+in+Chief" type="application/rss+xml" title="God in Chief's RSS Feed (Instablogs Community)">
@@ -16,10 +16,14 @@
 	
 	<style type="text/css">
 	  @import url(/style.css);
+	  .comment-content-ab{padding:5px;width:320px;float:left;}
+	  .sp h2{width:320px;}
+
 	</style>
 	
 
 	<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
+	<script type="text/javascript" src="http://www.instablogs.com/js/connection.js"></script>
 	<script type="text/javascript" src="http://www.instablogs.com/js/lightbox.js"></script>
 
 	<script type="text/javascript">
@@ -53,17 +57,18 @@
 			appear.innerHTML = '<iframe src="http://www.godinchief.com/paronama/paronama.php" scrolling="no" frameborder="0" width="550" height="520"></iframe>';
 		}
 
-		function open_reply_comment(comment_id, comment_type)
+		function open_reply_comment(comment_id, post_id, back_url, blog_name)
 		{
-			var div = document.getElementById('reply-comment-' + comment_type+comment_id);
-			if(div.style.display=='block')
-			{
-				div.style.display='none';
-			}
-			else
-			{
-				div.style.display='block';
-			}
+			
+			var div = document.getElementById('reply-comment'+comment_id);	
+			var postdata ='comment_id='+ comment_id + '&post_id=' + post_id + '&back_url=' + back_url + '&blog_name=' + blog_name;
+			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:20px 0 35px;"><center><img src="/css-img/wheel.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+			var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+			var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
+			var Callback ={success:handleSuccess,failure: handleFailure};
+
+			var request = YAHOO.util.Connect.asyncRequest("POST", '/reply_comment.php', Callback, postdata);
 		}
 
 		function show_comments(id)
@@ -135,6 +140,19 @@
 			light.style.display = 'none';
 		}
 
+		function comments_paging(page_no, total_pages, post_id, back_url, blog_name, total_comments)
+		{
+			var div = document.getElementById('comment-sec');	
+			var postdata ='page_no='+ page_no + '&total_pages=' + total_pages + '&post_id=' + post_id + '&back_url=' + back_url + '&blog_name=' + blog_name + '&total_comments=' + total_comments;
+			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:20px 0 35px;"><center><img src="/css-img/wheel.gif" /> &nbsp; &nbsp;Loading...</center></div>';
+
+			var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
+			var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
+			var Callback ={success:handleSuccess,failure: handleFailure};
+
+			var request = YAHOO.util.Connect.asyncRequest("POST", '/comment_paging.php', Callback, postdata);
+		}
+
 	</script>
 
 </head>
@@ -143,20 +161,14 @@
 	<div id="container">
 	<div style="height:1px;"> </div>
 		
-						<div id="small-header">
-				<div class="small-logo"><img src="/css-img/GoD_in_Chief_250x110.gif"></div><!-- EOF small-logo -->
-					<div class="small-ad-top">
-											</div><!-- EOF #ad-top --> 
+				<div id="small-header">
+			<div class="small-logo"><img src="/css-img/GoD_in_Chief_250x110.gif"></div><!-- EOF small-logo -->
+			<div class="logo"> <a href="/" title="Home"><h1>God in Chief</h1></a> </div>
 
-					<div style="padding:5px;text-align:center;padding-bottom:15px;">
-											</div>
+		</div><!-- EOF small-header --> 
+		<div class="clear"></div>
 
-				<div class="logo"> <a href="/" title="Home"><h1>God in Chief</h1></a> </div>
-
-			</div><!-- EOF small-header --> 
-			<div class="clear"></div>
-
-			
+		
 		<div class="top-nav">
 				<span class="home">
 					<a href="/">Home</a>
@@ -250,17 +262,17 @@
 			<div id="content-sidebar">
 
 	<div class="Comments sp">
-		<div class="facebook-wigdet"><script src="http://badge.facebook.com/badge/517449348.692.2064718217.js"></script><noscript><a href="http://www.facebook.com/people/Vishal-Gondal/517449348">Vishal Gondal's Facebook profile</a></noscript></div>		
+		<!-- <div class="facebook-wigdet"><script src="http://badge.facebook.com/badge/517449348.692.2064718217.js"></script><noscript><a href="http://www.facebook.com/people/Vishal-Gondal/517449348">Vishal Gondal's Facebook profile</a></noscript></div>	 -->
+		
+		<!-- <div class="facebook-wigdet"><a href="http://en-gb.facebook.com/people/Vishal-Gondal/517449348" title="Vishal Gondal&#039;s Facebook Profile" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;">Vishal Gondal's Profile</a><br /><a href="http://en-gb.facebook.com/people/Vishal-Gondal/517449348" title="Vishal Gondal&#039;s Facebook Profile" target="_TOP"><img src="http://badge.facebook.com/badge/517449348.0.2064718217.png" alt="Vishal Gondal&#039;s Facebook Profile" style="border: 0px;" /></a><br /><a href="http://en-gb.facebook.com/badges.php" title="Make your own badge!" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;">Create your badge</a></div> -->
 
 		<h2>About Me</h2>
 		<div class="comment-content-ab">
-		<img src="http://www.instablogs.com/user-img/g/god/godinchief.jpg">
+		<img src="http://www.instablogsimages.com/user-img/godinchief.jpg">
 			<span>Vishal Gondal, is a global mobile and games media executive based in Mumbai and is the Founder &amp; CEO of Indiagames a games developer and publisher in India.</span>
 			<span>Vishal started his first company - FACT at the age of 16...</span>
 			<div class="sp-more"><a href="http://www.godinchief.com/about-me.php">More..</a></div>
 		</div>
-
-		
 
 	</div><!-- EOF Comments -->
 	<div class="clear"></div>
@@ -268,7 +280,7 @@
 	<div id="tags">
 		<h2>Tags</h2>
 		<div class="tag-content">
-			<a href="http://www.godinchief.com/tags/aftermath/" class="ibn_tag8">AFTERMATH</a> <a href="http://www.godinchief.com/tags/america/" class="ibn_tag6">America</a> <a href="http://www.godinchief.com/tags/india/" class="ibn_tag10">India</a> <a href="http://www.godinchief.com/tags/infosys/" class="ibn_tag7">Infosys</a> <a href="http://www.godinchief.com/tags/internet/" class="ibn_tag3">Internet</a> <a href="http://www.godinchief.com/tags/israel/" class="ibn_tag1">Israel</a> <a href="http://www.godinchief.com/tags/mumbai/" class="ibn_tag9">Mumbai</a> <a href="http://www.godinchief.com/tags/ndtv/" class="ibn_tag3">NDTV</a> <a href="http://www.godinchief.com/tags/pakistan/" class="ibn_tag4">Pakistan</a> <a href="http://www.godinchief.com/tags/pm/" class="ibn_tag5">pm</a> <a href="http://www.godinchief.com/tags/politics-society/" class="ibn_tag7">Politics &amp; Society</a> <a href="http://www.godinchief.com/tags/school/" class="ibn_tag5">School</a> <a href="http://www.godinchief.com/tags/startups/" class="ibn_tag1">Startups</a> <a href="http://www.godinchief.com/tags/tcs/" class="ibn_tag2">TCS</a> <a href="http://www.godinchief.com/tags/technology/" class="ibn_tag10">Technology</a> <a href="http://www.godinchief.com/tags/terror/" class="ibn_tag9">terror</a> <a href="http://www.godinchief.com/tags/terror-attacks/" class="ibn_tag8">Terror Attacks</a> <a href="http://www.godinchief.com/tags/terrorism/" class="ibn_tag6">terrorism</a> <a href="http://www.godinchief.com/tags/usa/" class="ibn_tag2">U.S.A</a> <a href="http://www.godinchief.com/tags/wipro/" class="ibn_tag4">Wipro</a> 		</div>		
+			<a href="http://www.godinchief.com/tags/aftermath/" class="ibn_tag8">AFTERMATH</a> <a href="http://www.godinchief.com/tags/america/" class="ibn_tag3">America</a> <a href="http://www.godinchief.com/tags/business/" class="ibn_tag6">Business</a> <a href="http://www.godinchief.com/tags/entrepreneurs/" class="ibn_tag6">entrepreneurs</a> <a href="http://www.godinchief.com/tags/funding/" class="ibn_tag5">funding</a> <a href="http://www.godinchief.com/tags/gaming/" class="ibn_tag4">Gaming</a> <a href="http://www.godinchief.com/tags/india/" class="ibn_tag10">India</a> <a href="http://www.godinchief.com/tags/indiagames/" class="ibn_tag7">Indiagames</a> <a href="http://www.godinchief.com/tags/indian/" class="ibn_tag7">Indian</a> <a href="http://www.godinchief.com/tags/infosys/" class="ibn_tag8">Infosys</a> <a href="http://www.godinchief.com/tags/internet/" class="ibn_tag3">Internet</a> <a href="http://www.godinchief.com/tags/iphone/" class="ibn_tag2">iPhone</a> <a href="http://www.godinchief.com/tags/media/" class="ibn_tag5">Media</a> <a href="http://www.godinchief.com/tags/mumbai/" class="ibn_tag10">Mumbai</a> <a href="http://www.godinchief.com/tags/nasscom/" class="ibn_tag5">nasscom</a> <a href="http://www.godinchief.com/tags/politics-society/" class="ibn_tag7">Politics &amp; Society</a> <a href="http://www.godinchief.com/tags/protoin/" class="ibn_tag6">Proto.in</a> <a href="http://www.godinchief.com/tags/startup/" class="ibn_tag9">startup</a> <a href="http://www.godinchief.com/tags/startups/" class="ibn_tag8">Startups</a> <a href="http://www.godinchief.com/tags/tcs/" class="ibn_tag4">TCS</a> <a href="http://www.godinchief.com/tags/technology/" class="ibn_tag10">Technology</a> <a href="http://www.godinchief.com/tags/terror/" class="ibn_tag9">terror</a> <a href="http://www.godinchief.com/tags/terror-attacks/" class="ibn_tag9">Terror Attacks</a> <a href="http://www.godinchief.com/tags/terrorism/" class="ibn_tag4">terrorism</a> <a href="http://www.godinchief.com/tags/vc/" class="ibn_tag3">VC</a> 		</div>		
 	</div><!-- EOF  tags-->
 
 	<br><div style="padding-bottom:20px;text-align:center;">
@@ -281,66 +293,43 @@
 	<div class="border"></div>
 
 	<div class="Comments">
-		<h2>Fresh Comments</h2>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://umpcinfo.com/gladioolers/">Busby SEO Test</a>
-						
-					</div>
-					on <span><a href="http://www.godinchief.com/entry/post-mumbai-2611-hotel-taj-mahal-a-panoramic-view/#comment-578999">Post Mumbai 26/11: Hotel Taj...</a> Very amazing.. Cool.. </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/m/mee/m_meenki347.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://meenki347.instablogs.com/">Me Enki</a>
-						
-					</div>
-					on <span><a href="http://www.godinchief.com/entry/history-of-terrorism-in-isreal/#comment-578850">History of Terrorism in Isreal</a> My mother came from South Korea, my father was Scot-Irish. I am American and a citizen of... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://kabonfootprint.com/busby-seo-test/">Busby SEO Boy</a>
-						
-					</div>
-					on <span><a href="http://www.godinchief.com/entry/award-winning-tv-news-reported-from-karachi/#comment-578840">Award winning TV News...</a> Congratulation to them </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/m_man.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://www.imfreakz.com/busby-seo-test/">Busby SEO Test</a>
-						
-					</div>
-					on <span><a href="http://www.godinchief.com/entry/award-winning-tv-news-reported-from-karachi/#comment-578537">Award winning TV News...</a> but you know how things have been in many occassions, it takes a second to take things... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogs.com/user-img/g/gre/m_greywolf.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://greywolf.instablogs.com/">Michael Davison</a>
-						
-					</div>
-					on <span><a href="http://www.godinchief.com/entry/history-of-terrorism-in-isreal/#comment-578515">History of Terrorism in Isreal</a> @ Me Enki
+		<h2>Twitter Updates</h2>
+		<div class="twitter">			
+			<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+			<script>
+			new TWTR.Widget({
+			  version: 2,
+			  type: 'profile',
+			  rpp: 4,
+			  interval: 6000,
+			  width: 250,
+			  height: 300,
+			  theme: {
+				shell: {
+				  background: '#333333',
+				  color: '#ffffff'
+				},
+				tweets: {
+				  background: '#000000',
+				  color: '#ffffff',
+				  links: '#4aed05'
+				}
+			  },
+			  features: {
+				scrollbar: false,
+				loop: false,
+				live: false,
+				hashtags: true,
+				timestamp: true,
+				avatars: false,
+				behavior: 'all'
+			  }
+			}).render().setUser('vishalgondal').start();
+			</script>
 
-“1) Hamas is recognized as the legitimate government of Gaza. They did win... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-			</div><!-- EOF Comments -->
-
+		</div>
+	
+	</div><!-- EOF Comments -->
 
 	<div class="clear"></div>
 
@@ -349,7 +338,107 @@
 			<div id="archives" class="Comments">
 			<h2>Archives</h2>
 			
+			<div class="year">2011</div>				
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201102/">February 2011</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201101/">January 2011</a>
+				</div>
+			<div class="year">2010</div>				
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201012/">December 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201011/">November 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201010/">October 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201009/">September 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201008/">August 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201007/">July 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201006/">June 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201005/">May 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201004/">April 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201003/">March 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201002/">February 2010</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/201001/">January 2010</a>
+				</div>
 			<div class="year">2009</div>				
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200912/">December 2009</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200911/">November 2009</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200910/">October 2009</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200909/">September 2009</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200908/">August 2009</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200907/">July 2009</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200906/">June 2009</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200905/">May 2009</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200904/">April 2009</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200903/">March 2009</a>
+				</div>
+							
+				<div class="archive-data">
+					<a href="http://www.godinchief.com/archives/200902/">February 2009</a>
+				</div>
+							
 				<div class="archive-data">
 					<a href="http://www.godinchief.com/archives/200901/">January 2009</a>
 				</div>
@@ -419,35 +508,78 @@
 				</div>
 			</div><!-- EOF #footer-main -->
 		</div><!-- EOF #footer -->
-		
-		
+
+	</div> <!-- EOF #container -->
+
+	<!-- Instablogs Network Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-601944-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- End of Instablogs Network Google Analytics -->
+
+	<!-- Site Google Analytics -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-5747719-12");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+	<!-- End of Site Google Analytics -->
+
+<!-- Start of StatCounter Code Instablogs Network -->
+<script type="text/javascript">
+var sc_project=2497465; 
+var sc_invisible=1; 
+var sc_partition=66; 
+var sc_click_stat=1; 
+var sc_security="77633a20"; 
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="web stats"
+href="http://www.statcounter.com/free_web_stats.html"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/2497465/0/77633a20/1/"
+alt="web stats" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
 <!-- Start of StatCounter Code -->
 <script type="text/javascript">
 var sc_project=4027893; 
 var sc_invisible=1; 
-var sc_partition=31; 
+var sc_partition=67; 
 var sc_click_stat=1; 
 var sc_security="159baf5d"; 
 </script>
 
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="free hit counters" href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4027893/0/159baf5d/1/" alt="free hit counters" ></a></div></noscript>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="counter for blogger"
+href="http://www.statcounter.com/blogger/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/4027893/0/159baf5d/1/"
+alt="counter for blogger" ></a></div></noscript>
 <!-- End of StatCounter Code -->
+	<!-- Channel Google Analytics -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-5515876-22");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+	<!-- End of Channel Google Analytics -->
 
-
-
-		<!-- Start of StatCounter Code Network 0-->
-		<script type="text/javascript" language="javascript">
-		var sc_project=2497465; 
-		var sc_invisible=1; 
-		var sc_partition=23; 
-		var sc_security="77633a20";
-		var sc_remove_link=1; 
-		</script>
-
-		<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><img  src="http://c24.statcounter.com/counter.php?sc_project=2497465&java=0&security=77633a20&invisible=0" alt="blog counter" border="0"> </noscript>
-		<!-- End of StatCounter Code -->
-
-	</div> <!-- EOF #container -->
   
 
 </body></html>
