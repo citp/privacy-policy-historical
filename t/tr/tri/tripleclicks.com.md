@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603145336id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210115451id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TripleClicks Privacy Policy
 
@@ -25,3 +25,5 @@ We retain this information for a period of time to allow for the possibility of 
 ##### **What about phone numbers and addresses?**
 
 We request a phone number on order forms in case we need to contact you about your order. We NEVER sell, rent, or loan our list of customer phone numbers, nor any other information about customers. If you order a product or service sold by one of our E-Commerce Associates, they will be provided your phone number in case they need to contact you about your order. They are, of course, also provided your shipping address.
+
+Copyright @ 2011, Carson Services, Inc.
