@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2011-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110603145336id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2011-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210115451id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,25 +9,24 @@
 <link href="/common/styles/TCdefault.css" rel="stylesheet" type="text/css">
 <link href="/common/styles/colorbox.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/common/modal/windowfiles/dhtmlwindow.css" type="text/css">
+<link href="/common/styles/TConnectECA.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/common/modal/windowfiles/dhtmlwindow.js"></script><style type="text/css">.highslide img {cursor: url(/common/highslide/highslide/graphics/zoomin.cur), pointer !important;}.highslide-viewport-size {position: fixed; width: 100%; height: 100%; left: 0; top: 0}</style></head><body onload=""><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 32px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width:0; height:0; overflow:hidden" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div><div id="dhtmlwindowholder"><span style="display:none">.</span></div>
 <link rel="stylesheet" href="/common/modal/modalfiles/modal.css" type="text/css">
 <script type="text/javascript" src="/common/modal/modalfiles/modal.js"></script><div id="interVeil"></div>
-
-<script type="text/javascript">
-document.write('<script type="text/javascript" src="/common/javascript.js?' + new Date().getTime() + '"> <\/script>'); </script><script type="text/javascript" src="/common/javascript.js?1580380376187"> </script>
-
 <script type="text/javascript" src="/common/jquery.min.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="/common/javascript.js?1323518091.6196"></script>
+<script type="text/javascript" src="/common/jquery.jcarousel.js"></script>
+
+
 <script type="text/javascript" src="/common/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="/common/jquery.cookies.2.1.0.min.js"></script>
 <script type="text/javascript" src="/common/highslide/highslide-with-gallery.js"></script>
 <script type="text/javascript" src="/common/highslide/highslide/highslide.js"></script>
-
-<!--
-<link rel="stylesheet" type="text/css" href="/common/pro_dropdown_2/pro_dropdown_2.css" />
-<script src="/common/pro_dropdown_2/stuHover.js" type="text/javascript"></script>
--->
-
+<script type="text/javascript" src="/common/mediaelement/mediaelement-and-player.min.js"></script>
+<script type="text/javascript" src="/common/music.js"></script>
 <link rel="stylesheet" type="text/css" href="/common/highslide/highslide/highslide.css">
+<link rel="stylesheet" type="text/css" href="/common/mediaelement/mediaelementplayer.min.css">
 
 <script type="text/javascript">
 
@@ -996,6 +995,13 @@ border:1px solid #ccc;
 				x_setBannerCurrency.arguments);
 		}
 		
+				
+		// wrapper for updateNPOFeaturedItem		
+		function x_updateNPOFeaturedItem() {
+			sajax_do_call("updateNPOFeaturedItem",
+				x_updateNPOFeaturedItem.arguments);
+		}
+		
 		
 updateCart();
 /***********************************************
@@ -1161,19 +1167,8 @@ clearTimeout(delayhide)
 
 
 
-
-
-
-
-
-
-
-
 if (hidemenu_onclick=="yes")
 document.onclick=hidemenu
-
-
-
 
 </script>
 
@@ -1181,17 +1176,19 @@ document.onclick=hidemenu
 
 
 
+
 <!------------------------------------------------------------------------------ TripleClicks main container -->
-<div id="tcMainContainer">
+<div id="tcWideContainer">
 
 
+<div id="tcContent">
 <!------------------------------------------------------------------------------ TripleClicks header -->
 <div id="tcHeader">
 
-<div id="tcLogo">
-<a href="/"><img src="/images/logos/logo-TCv3.gif" height="75" width="318" alt="TripleClicks - Buy, Sell, Trade" border="0"></a>	</div>
+	<div id="tcLogo">
+   		<a href="/"><img src="/images/logos/logo-TCv3.gif" height="75" width="318" alt="TripleClicks - Buy, Sell, Trade" border="0"></a>	</div>
 
-	<div id="tcLogin">
+	<div id="tcwLogin">
         <form method="post" action="/privacy_policy.php">
     E-mail or ID #
    	    <input name="username" type="text" id="username" size="15" class="forms" value="">
@@ -1199,37 +1196,47 @@ document.onclick=hidemenu
    	    <input name="password" type="password" id="password" size="10" class="forms">
    	    <input type="image" src="/images/buttons/b_Login.gif" alt="Go" width="43" height="18" align="absmiddle" border="0">
 		<br>
-		Not yet a TripleClicks Member? <a href="member_benefits.php">Join FREE here</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/get">Forget Password?</a><br>
+		Not yet a TripleClicks Member? <a href="member_benefits.php">Join FREE here</a>.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/get">Forget Password?</a><br>
 		    
         
     </form>        
         </div>
-<div id="tcShoppingCart">
-<a href="/credits.php">TCredits:</a> <span id="headerCredits">0</span> |  Cart: <span id="cartQty"></span> item <!-- : $<span id='cartSubtotal'>0.00</span> --> | <a href="/cart/viewcart.php">View Cart</a> | <a href="/cart/checkout.php">Checkout</a> <br><a href="/myaccount/messageCenter.php">Message Center</a>		 
-</div>
 
-<div id="tcMenu" style="white-space:none; overflow:hidden;">
-<div class="indentmenu">
-<ul>
-<li><a href="/customer_care.php" class="current">Customer Care</a></li>
-<li><a href="/myaccount/">My Account</a></li>
-<li><a href="/Wave3/W3index.php">Wave3</a></li>
-<li><a href="/cart/viewwishlist.php">My Wishlist</a></li>
-<li><a href="/results.php?CLOSEOUTS" }="">Closeouts</a></li>				
-<li><a href="/results.php?HOTDEALS">Hot Deals</a></li>
-<li><a href="/member_benefits.php">Member Center</a></li>
-<li><a href="/myaccount/sell_your_stuff.php">List It!</a></li>
-<li><a href="/">Home</a></li>
-</ul>
-</div>
-</div>
+        <div id="tcShoppingCart">
+<a href="/credits.php">TCredits:</a> <span id="headerCredits">0</span> |  Cart: <span id="cartQty"></span> item <!-- : $<span id='cartSubtotal'>0.00</span> --> | <a href="/cart/viewcart.php">View Cart</a> | <a href="/cart/checkout.php">Checkout</a>                  <br><a href="/myaccount/messageCenter.php">Message Center</a>
+                |
+                	<a href="/myaccount/reviews.php">Reviews</a>
+                </div>
+    
+    <div id="tcwMenu" style="white-space:none; overflow:hidden;">
+    	<div class="indentmenuW">
+            <ul>
+				<li><a href="/customer_care.php" class="current">Customer Care</a></li>
+				<li><a href="/myaccount/">My Account</a></li>
+				<li><a href="/Wave3/W3index.php">Wave3</a></li>
+				<li><a href="/cart/viewwishlist.php">My Wishlist</a></li>
+                <li><a href="/search/deal/close" }="">Closeouts</a></li>				
+                <li><a href="/search/deal/hot">Hot Deals</a></li>
+				<li><a href="/member_benefits.php">Member Center</a></li>
+				<li><a href="/myaccount/sell_your_stuff.php">List It!</a></li>
+               	<li><a href="/">Home</a></li>
+			</ul>
+	  </div>
+    </div>
 
-<div id="tcSearchbar" style="white-space:none;">
-<form method="post" action="/results.php" id="searchForm">
+<div id="tcwSearchbarTest" style="white-space:none;">
+
+<div style="float:right; line-height:30px; padding-right:10px; font-size:11px;"><a href="/adv_search.php">ADVANCED SEARCH</a></div>
+
+<div style="float:left; line-height:30px; padding-left:10px;">
+<form method="post" action="/search/resultsv2.php" id="searchForm">
 <input type="hidden" name="search" value="t">
-<div style="float:right;">
-SEARCH 
-<select name="department_search" id="department_search" class="forms" style="width:150px;">
+
+<span style="font-size:15px; letter-spacing:-1px; font-weight:bold; color:#333333;">What are you looking for?&nbsp;</span>
+<input name="text_search" type="text" id="text_search" size="18" class="forms" style="background-image:url(/images/site/bg_searchBar.gif); position:relative; top:-1px; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#333333; border-radius:15px; padding-left:20px; width:325px; margin-right:5px;" onkeyup="showLiveResults(this.value)" autocomplete="off">&nbsp; 
+
+<strong>SEARCH</strong>&nbsp; 
+<select name="dept" id="dept" class="forms" style="width:150px; height:25px; font-size:12px;">
 <option value="-1">All Departments</option>
 <option value="228">Antiques &amp; Collectibles</option>
 <option value="1">Apparel</option>
@@ -1259,31 +1266,156 @@ SEARCH
 <option value="17">Toys, Kids &amp; Baby</option>
 <option value="243">Travel</option>
 </select>
-FOR&nbsp; 
-<input name="text_search" type="text" id="text_search" size="18" class="forms" onkeyup="showLiveResults(this.value)" autocomplete="off">&nbsp; 
-<input type="image" src="/images/buttons/b_Go.gif" alt="Go" width="20" height="18" align="absmiddle">&nbsp;| <a href="/adv_search.php">ADVANCED SEARCH</a>
-</div>
-</form>    
-<div style="float:left;">
-<img src="/images/bullets/bul_arrow1.gif" alt="browse departments" width="7" height="8">
-<a href="/" onclick="return dropdownmenu(this, event, menu2, '200px')" onmouseout="delayhidemenu()">Browse All Departments</a>        
+<input type="image" src="/images/buttons/b_Go.gif" alt="Go" width="34" height="20" align="absmiddle" style="margin-left:5px; position:relative; top:-2px;">
+</form>
 </div>
 </div>
+
 </div>
 <!------------------------------------------------------------------------------ end TripleClicks header -->
 
 <!------------------------------------------------------------------------------ Clear Both -->
 <div class="tcClearBoth">
 </div>
-<div id="liveSearch" style="position:absolute;width:350px;border: 3px dashed black; padding: 8px;left:0px;top:0px;z-index:100;display:none;background-color:white;"></div> 
+<!--[if IE 8]><div style="height:10px;"></div><![endif]-->
+<div id="liveSearch" style="position:absolute;width:350px;border: 3px dashed black; padding: 8px;left:0px;top:0px;z-index:100;display:none;background-color:white;"></div>
 <!------------------------------------------------------------------------------ end TripleClicks clear both -->
-<img src="/images/site/h_tcsh-cstcare.jpg" alt="ECA" width="750" height="60" border="0" usemap="#ECA">
-<map name="ECA" id="ECA">
-<area shape="rect" coords="450,40,644,56" href="/customer_care.php" alt="GO TO CUSTOMER CARE CENTER">
-</map>
-<div class="tcClearBoth" style="height:0px;"></div><!------------------------------------------------------------------------------ TripleClicks search results -->
 
-<div id="tcFullWidthBody" style="margin-bottom:0px;">
+<div style="margin:0 auto; width:960px;">
+<img src="/images/site/h_tcsh-cstcare960.jpg" alt="ECA" width="960" height="60" border="0" usemap="#ECA">
+<map name="ECA" id="ECA">
+<area shape="rect" coords="658,40,856,57" href="/customer_care.php" alt="GO TO CUSTOMER CARE CENTER">
+</map>
+</div>
+<div class="tcClearBoth" style="height:0px;"></div>
+<!------------------------------------------------------------------------------ TripleClicks search results -->
+
+<div id="tcWideWrap">
+<style>
+a.mainSidebarLink1:link, a.mainSidebarLink1:visited {
+	font-family:"Century Gothic", sans-serif;
+	display:block;
+	padding:3px;
+	color:#333333;
+	background-color:#eee;
+	text-decoration:none;	font-size:12px;
+	text-align:center;
+	margin-bottom:5px;
+	border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;
+	border:1px solid #eee;
+	border-bottom: 1px solid #999;
+}
+a.mainSidebarLink1:hover {
+	-moz-box-shadow: 0 0 3px 1px #99cc66; -webkit-box-shadow: 0 0 3px 1px #99cc66; box-shadow: 0 0 3px 1px #99cc66;
+	font-family:"Century Gothic", sans-serif;
+	display:block;
+	padding:3px;
+	color:#669933;
+	background-color:#eee;
+	text-decoration:none;	font-size:12px;
+	text-align:center;
+	margin-bottom:5px;
+	border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;
+	border:1px solid #eee;
+	border-bottom: 1px solid #999;
+}
+a.mainSidebarLink3:link, a.mainSidebarLink3:visited {
+	font-family:"Century Gothic", sans-serif;
+	display:block;
+	padding:3px;
+	color:#333333;
+	background-color:#eee;
+	text-decoration:none;	font-size:12px;
+	text-align:center;
+	margin-bottom:5px;
+	border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;
+	border:1px solid #eee;
+	border-bottom: 1px solid #999;
+}
+a.mainSidebarLink3:hover {
+	-moz-box-shadow: 0 0 3px 1px #66ccff; -webkit-box-shadow: 0 0 3px 1px #66ccff; box-shadow: 0 0 3px 1px #66ccff;
+	font-family:"Century Gothic", sans-serif;
+	display:block;
+	padding:3px;
+	color:#3399cc;
+	background-color:#eee;
+	text-decoration:none;	font-size:12px;
+	text-align:center;
+	margin-bottom:5px;
+	border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;
+	border:1px solid #eee;
+	border-bottom: 1px solid #999;
+}
+</style>
+
+
+<!------------------------------------------------------------------------------ TripleClicks Sidebar -->
+
+<div id="MainSidebar">
+
+<a href="/all_departments.php" class="mainSidebarLink3">Browse All Products</a>
+<a href="/dotd.php" class="mainSidebarLink1">Deal of the Day</a>
+<a href="/search/deal/close" class="mainSidebarLink1">Closeouts</a>
+<a href="/search/deal/hot" class="mainSidebarLink1">Hot Deals</a>
+<a href="/search/na/1" class="mainSidebarLink1" style="margin-bottom:0px;">Newly Added</a>
+<div class="dividerDotted"></div>		
+
+	<div style="font-size:11px;">
+	
+		<div>
+			<p align="center"><img src="/images/site/h_PBsidebar.gif" alt="Pricebenders" width="170" height="55" style="margin-bottom:5px;"></p>
+			<p align="center">TripleClicks members are saving up to 99% on these items, which are being bid on right now!</p>
+			<p>&nbsp;</p>
+			
+			
+						
+			<p align="center" style="padding:10px; display:block; background-color:#eeeeee; border-radius:5px;">No auctions are currently live.  For upcoming auctions, <a href="/PBauctionSchedule.php">check out the Auction Schedule</a>.</p>
+											
+		</div>
+		
+	</div>
+	
+<div class="dividerDotted"></div>	
+
+	<div style="font-size:11px; margin-top:10px;">
+	
+		<div>
+			<div align="center"><img src="/images/logos/logo-wave3_ban.gif" alt="TC logo" width="120" height="93"><br>
+			</div>
+			<p><br>
+				• FREE Monthly TCredits!<br>
+				• FREE Monthly Member Rewards Points! (MRP)<br>
+				• Win $100's in our weekly drawing!<br>
+				• Earn unlimited add'l TCredits/MRP!<br>
+				• Exclusive member-only specials!</p>
+			<p>&nbsp;</p>
+			<p><a href="/Wave3/Wave3.php">Join the wave</a> and get all this &amp; more!</p>		
+		</div>
+			
+	</div>	
+	
+<div class="dividerDotted"></div>	
+
+<div align="center">
+<!--Start AliveChat Button Code-->
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center"><img src="//www.websitealive1.com/447/Visitor/vButton_v3.asp?groupid=447&amp;departmentid=474&amp;buttonid=9" border="0" onclick="window.open('//www.websitealive1.com/447/rRouter.asp?groupid=447&amp;websiteid=417&amp;departmentid=474&amp;dl='+escape(document.location.href),'','width=400,height=400');" style="cursor:pointer;"></td></tr><tr><td align="center" style="background-color:#666666; text-align:center; padding:4px; font-size:8px; color:#fff; font-family:Verdana, Helvetica, sans-serif;"><a href="//www.websitealive.com" style="text-decoration:none; font-size:8px; color:#fff; font-family:Verdana, Helvetica, sans-serif;" target="_blank">Live chat</a> by <a href="//www.websitealive.com" style="text-decoration:none; font-size:8px; color:#fff; font-family:Verdana, Helvetica, sans-serif;" target="_blank"><b>AliveChat</b></a></td></tr></tbody></table>
+<!--End AliveChat Button Code-->
+</div>
+
+<div class="dividerDotted"></div>	
+
+<a href="/ECA/ECAGW.php"><img src="/images/site/ban_ECA.gif" alt="Sell Products Online?  Click Here!" width="190" height="361" border="0" style="_width:190px;"></a>	
+
+<div class="dividerDotted"></div>	
+
+<a href="http://www.facebook.com/pages/TripleClickscom/172874702800289" target="_blank"><img src="/images/buttons/logo-Facebook.gif" border="0" style="margin-left:11px;"></a>
+<a href="http://twitter.com/#!/GoTripleClicks" target="_blank"><img src="/images/buttons/logo-Twitter.gif" border="0" style="margin-left:8px;"></a></div>
+
+	
+
+
+<!------------------------------------------------------------------------------ end TripleClicks Sidebar -->
+<div id="tc960WidthBody">
 
 			<div style="height:35px; float:left;">
 				<img src="images/icons/icon_tcCrown.gif" align="absmiddle" style="margin-right:10px; float:left;">
@@ -1320,105 +1452,84 @@ FOR&nbsp;
 
 </div>
 
+<div class="clearboth0"></div>
+</div>
+
 <!------------------------------------------------------------------------------ end TripleClicks index body -->
 <!------------------------------------------------------------------------------ Clear Both -->
-<div class="tcClearBoth">
-</div>
+<div class="tcClearBoth"></div>
 <!------------------------------------------------------------------------------ end TripleClicks clear both -->
 
 <!------------------------------------------------------------------------------ TripleClicks footer -->
-<div id="tcFooter">
+<div id="tcWideFooter">
 
-	<div id="tcFT1">
-    	CUSTOMER CARE
-    </div>
-   	
-    <div id="tcFT2">
-    	GIVING BACK
-    </div>
-
-    <div id="tcFT3">
-    	SAFE &amp; SECURE SHOPPING
-    </div>
+	<div id="tcwFootTop1"><div class="padding5px">CUSTOMER CARE</div></div>
+   	<div id="tcwFootTop2"><div class="padding5px">GIVING BACK</div></div>
+    <div id="tcwFootTop3"><div class="padding5px">SAFE &amp; SECURE SHOPPING</div></div>
+	<div id="tcwFootTop4"><div class="padding5px">POWERED BY</div></div>
 	
-    <div id="tcFT4">
-    	POWERED BY
-    </div>	
-   	
-	<div id="tcFB1">
-   		
-		<div style="width:115px; float:left;">
+<div style="clear:both; height:0px;"></div>
+
+	<div id="tcwFootBot1">
+	<div class="padding5px">
+		<div style="float:left;">
     		• <a href="/contact_us.php">Contact Us</a><br>
-      		• <a href="/myaccount/order_status.php">Order Status</a><br>
-        	• <a href="/myaccount/payment_options.php">Payment Options</a><br>
-			• <a href="/returns_refunds.php">Returns &amp; Refunds</a><br>
-	   		• <a href="/terms_and_conditions.php">Terms &amp; Conditions</a><br>
+			• <!--Start AliveChat Chat Link Code-->
+					<a style="cursor:pointer;text-decoration:underline; color:#006699;" onclick="javascript:window.open('//www.websitealive1.com/447/rRouter.asp?groupid=447&amp;websiteid=417&amp;departmentid=474&amp;dl='+escape(document.location.href),'','width=400,height=400');">Live Chat</a>
+					<!--End AliveChat Chat Link Code-->
+					<br>
+      		• <a href="/myaccount/order_status.php">Order Status</a><br>					
        		• <a href="/privacy_policy.php">Privacy Policy</a>
     	</div>
-	
+		<div style="float:left; margin-left:5px;">• <a href="/myaccount/payment_options.php">Payment Options</a><br>
+			• <a href="/returns_refunds.php">Returns &amp; Refunds</a><br>
+	   		• <a href="/terms_and_conditions.php">Terms &amp; Conditions</a><br>
+		</div>
+		<div style="clear:both; height:0px;"></div>
+	</div>
 	</div>
     
-    <div id="tcFB2">
-		<img src="/images/logos/logo-Care_sm.gif" style="float:right;">TripleClicks donates a portion of every sale to the international charity <a href="http://www.care.org" target="_blank">CARE</a>.	</div>
+    <div id="tcwFootBot2">
+	<div class="padding5px">
+		<img src="/images/logos/logo-Care_sm.gif" style="float:right; margin-left:10px;">
+		TripleClicks donates a portion of every sale to the international charity <a href="http://www.care.org" target="_blank">CARE</a>.					
+	</div>
+	</div>
    	
-    <div id="tcFB3">
+    <div id="tcwFootBot3">
+	<div class="padding5px">
 		<div>
-		
-			<div style="float:left; width:167px;">
-			<img src="/images/site/i_PaymentLogos.gif" style="float:right;">			
+			<div style="float:left; padding-left:60px;">
+				<img src="/images/site/i_PaymentLogos.gif">			
 			</div>
-	
-			<div style="float:left; width:135px;">
-			
-			<table width="135" border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-<tbody><tr>
-<td width="135" align="center" valign="top">
-</td>
-</tr>
-</tbody></table>
-			
+			<div style="float:left;">
+				<a href="//nebraska.bbb.org/WWWRoot/Report.aspx?site=135&amp;bbb=0714&amp;firm=207000239" target="_blank"><img src="/images/site/i_bbb.gif" border="0" style="float:right;"></a>
 			</div>
-
-			<div style="float:left; width:39px;">
-				<a href="http://www.bbb.org/nebraska/business-reviews/internet-marketing-services/sfi-marketing-group-in-lincoln-ne-207000239" target="_blank"><img src="/images/site/i_bbb.gif" border="0" style="float:right;"></a>			</div>
-			
 			<div style="clear:both;"></div>	
-	
 		</div>
     </div>
+	</div>
 
-	<div id="tcFB4">
+	<div id="tcwFootBot4">
+	<div class="padding5px">
 		<img src="/images/logos/logo-sfi_sm.gif" alt="SFI" width="59" height="25">
 		<br>
-		<br>
-    	
-		Your TripleClicks<br>
-		Affiliate is:<br>
-		<strong>
-		 
-        </strong>
-    	</div>
-	
-<div class="tcClearBoth"></div>
 
-<div>
+			
+			Your TripleClicks Affiliate is:<br>
+			<strong>
+			 
+			</strong>
+			</div>
+	</div>
+	
+		<div style="clear:both; height:0px;"></div>
+
+</div>
 
 <div align="center" style="text-align:center; padding-top:10px;">
-
-
-
-<span style="font-size:11px;">Copyright @ 2011, Carson Services, Inc.</span>
-
+	<span style="font-size:11px;">Copyright @ 2011, Carson Services, Inc.</span>
 </div>
-</div>
-
-</div>
-
-
-
-
-    
-
 
 <div class="tcClearBoth"></div>
 
@@ -1441,4 +1552,5 @@ try {
 
 
 
-</div><div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="drop-shadow highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="/common/highslide/highslide/graphics/outlines/drop-shadow.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"></div></body></html>
+
+</div></div><div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="drop-shadow highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="/common/highslide/highslide/graphics/outlines/drop-shadow.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"></div></body></html>
