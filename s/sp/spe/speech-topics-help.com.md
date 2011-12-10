@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622170252id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speech-topics-help.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210011846id_/http%3A//www.speech-topics-help.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Speech Topics Help
 
@@ -104,8 +104,9 @@ Best Regards,
 Jim A. Peterson, Staff Editor of Speech Topics Help.
 
   
-**Share this page:  **| | | |   
+Recommend this! Tell what you think of my public speaking tips and speech ideas lists via FaceBook, the world's most popular social tool! Just recommend this resource to your friends or leave me a comment in this easy box below... **Share this page:  **| | | |   
 ---|---|---|---|---  
 | | |   
   
-People at school like this. Be the first of your friends. 
+Everyone at school like this.  
+Be the first of your friends!
