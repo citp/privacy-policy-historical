@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the blackboardeats.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605010438id_/http%3A//blackboardeats.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackboardeats.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210173219id_/http%3A//www.blackboardeats.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 BlackboardEats.com (the "Site" or "we") has adopted this Privacy Policy because we are committed to protecting your privacy. By using the Site you agree to this Privacy Policy.
 
-This Privacy Policy is effective as of June 30, 2009.
+This Privacy Policy is effective as of July 21, 2011.
 
-If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and the Site's Terms and Conditions, including limitations on damages, jurisdiction of disputes and application of the law of the State of California and the State of New York.
+If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and the Site's Terms and Conditions, including limitations on damages, jurisdiction of disputes and application of the law of the State of California.
 
 If you have any questions about this Privacy Policy, please feel free to contact us at privacy@blackboardeats.com or write to us at: 
 
