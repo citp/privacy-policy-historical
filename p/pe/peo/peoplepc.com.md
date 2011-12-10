@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplepc.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520231431id_/http%3A//www.peoplepc.com/about/index.faces%3FpopupId%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplepc.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210220408id_/http%3A//www.peoplepc.com/about/index.faces%3FpopupId%3Dprivacy) for the most accurate reproduction.*
 
 # About PeoplePC Online
 
