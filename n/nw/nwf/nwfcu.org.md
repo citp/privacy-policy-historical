@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nwfcu.org privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313043902id_/http%3A//nwfcu.org/aboutus/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwfcu.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210094605id_/http%3A//www.nwfcu.org/aboutus/privacypolicy.pdf) for the most accurate reproduction.*
 
-# FACTS
+# 
 
-                                                                                                                    Rev. 1/11
+                                                                                                                    Rev. 12/11
                      WHAT DOES NORTHWEST FEDERAL CREDIT UNION
 FACTS                DO WITH YOUR PERSONAL INFORMATION?
 Why?                 Financial companies choose how they share your personal information. Federal law gives
@@ -12,7 +12,7 @@ Why?                 Financial companies choose how they share your personal inf
 What?                The types of personal information we collect and share depend on the product or service you
                      have with us. This information can include:
                      ■ Social Security number and income
-                     ■ Account   balances and payment history
+                     ■ Account balances and payment history
                      ■ Credit history and credit scores
                      When you are no longer our member, we continue to share your information as described in
                      this notice.
@@ -23,10 +23,10 @@ How?                 All financial companies need to share their members’ pers
 Reasons we can share your personal information                   Does NWFCU share?           Can you limit this sharing?
 For our everyday business purposes –
 such as to process your transactions, maintain
-your account(s), respond to court orders and legal                        Yes                             No
+your account(s), respond to court orders and legal                         Yes                             No
 investigations, or report to credit bureaus
 For our marketing purposes –
-to offer our products and services to you                                 Yes                             No
+to offer our products and services to you                                  Yes                             No
 For joint marketing with other financial companies                         No                       We don’t share
 For our affiliates’ everyday business purposes –
 information about your transactions and experiences                        No                       We don’t share
@@ -61,7 +61,8 @@ Why can’t I limit all sharing? Federal law gives you the right to limit only
 Definitions
 Affiliates                     Companies related by common ownership or control. They can be
                                financial and nonfinancial companies.
-                               ■  Northwest Federal Credit Union does not share with its affiliate.
+                               ■  Northwest Federal Credit Union does not share with its affiliate,
+                                  Northwest Financial, LLC.
 Nonaffiliates                  Companies not related by common ownership or control. They can be
                                financial and nonfinancial companies.
                                ■  Northwest Federal Credit Union does not share with nonaffiliates so
@@ -69,4 +70,4 @@ Nonaffiliates                  Companies not related by common ownership or cont
 Joint marketing                A formal agreement between nonaffiliated financial companies that
                                together market financial products or services to you.
                                ■  Northwest Federal Credit Union does not jointly market.
-                                                                                                PSB (1/2011) 3M
+                                                                                               PSB (12/2011) 8M
