@@ -1,33 +1,85 @@
-> *The following text is extracted and transformed from the coupon-lady.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923153104id_/http%3A//coupon-lady.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon-lady.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210182904id_/http%3A//www.coupon-lady.com/privacy.php) for the most accurate reproduction.*
 
 # Coupon Lady - Free Printable Grocery Coupons
 
-**Privacy Policy**
+**_*** OPTING OUT OF FUTURE COMMUNICATION WITH COUPON-LADY.COM: If at any time you would like to unsubscribe from receiving ANY and ALL future communication, emails or otherwise, from coupon-lady.com, we include detailed unsubscribe instructions at the bottom of each email. Additionally you may email us at[couponlady@coupon-lady.com](mailto:couponlady@coupon-lady.com) to unsubscribe from ALL communications, email or otherwise, with coupon-lady.com._**
 
-Coupon-Lady.com.com values the privacy of our visitors/customers and takes every known precaution to safe guard the information we collect from unauthorized use. The following is a detailed explanation of the privacy policy for Coupon-Lady.com.com. 
+**http://www.coupon-lady.com**  
+Suite 161  
+7051 Highway 70 S  
+Nashville, TN 37221-2207  
+United States  
+[couponlady@coupon-lady.com](mailto:couponlady@coupon-lady.com)
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+**What information do we collect?**
 
-**Information We Collect**
+**Coupon-Lady.com** , (herein referred to as "We"), collects information from you when you subscribe to our newsletter. 
 
-Coupon-Lady.com.com believes it is important for you to know what types of information we collect when you use our site to join as a member. When you become a member of our site, we ask for your full name, address, telephone number, and/or paypal information to process your order if selecting a paid listing plan.  All of this information remains strictly confidential and is all encrypted through our payment gateway servers to protect you and will not be used or sold to another third party.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or zip code. You may, however, visit our site anonymously.
 
-**Why Do We Collect This Information?**
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-We use this information in order to serve the needs of our customers and for verification purposes for processing and fulfilling your order when applicable.
+ **What do we use your information for?**
 
-**How is Your Information Protected?**
+Any of the information we collect from you may be used in one of the following ways: 
 
-We use the latest in encryption technology, including 256 bit SSL encryption to ensure that any sensitive information that is sent by you to us via the Internet is protected from unauthorized interception. We employ the latest in firewall protection to prevent unauthorized access into our members areas. Passwords are required in order for you to gain access to your account. Once an account has been terminated, measures are taken to remove those users from the system who no longer need access to our system. 
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**Notice of Changes to This Privacy Policy**
+-To send periodic emails
 
-We reserve the right to change this privacy policy at any time. However, if any changes do occur, we will publish the changes to our web site and post a notice on the home page that a new privacy policy has been implemented. We will also take reasonable steps to contact you personally to let you know of the new changes.
+> If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
-**DISCLAIMER**
+**_*** UNSUBSCRIBING: If at any time you would like to unsubscribe from receiving ANY and ALL future communication, emails or otherwise, we include detailed unsubscribe instructions at the bottom of each email. Additionally you may email us at[couponlady@coupon-lady.com](mailto:couponlady@coupon-lady.com) to unsubscribe from ALL communications, email or otherwise._**
 
-Coupon-Lady.com.com is not in the business of providing consulting or legal services and we recommend that you speak to a consultant or an attorney before relying on this privacy policy for your own use. While we do not think a privacy policy is a legal document, we feel it is a good idea to have a third-party such as a consultant or an attorney review your policy before you begin to implement it on your site. The privacy policy above should not be construed as the rendering of any business or legal advice.
+ **How do we protect your information?**
 
-The combination of a declining economy and rising food prices have caused a lot of stress on families trying to feed themselves. As a mother of two, I know first-hand about these hard times. As a result, I decided to create this website to help others like myself find the great deals on groceries and shopping that they deserve.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-Enter your Name and Email to the right to download printable grocery coupons that you can use right away. You will be added to my email newsletter so that I can send you new savings each day. Make sure you check your email daily and sign up for all of the great deals that I send you. 
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.coupon-lady.com/terms.php>
+
+**Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 4-26-2011
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+**http://www.coupon-lady.com**  
+Suite 161  
+7051 Highway 70 S  
+Nashville, TN 37221-2207  
+United States  
+couponlady@coupon-lady.com  
+
