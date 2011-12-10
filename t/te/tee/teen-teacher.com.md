@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teen-teacher.com privacy policy that was archived on 2010-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100322230745id_/http%3A//www.teen-teacher.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teen-teacher.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210012759id_/http%3A//www.teen-teacher.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
