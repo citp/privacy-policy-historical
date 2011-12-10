@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119053506id_/http%3A//www.gftforex.com/Privacy-Policy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gftforex.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210190251id_/http%3A//www.gftforex.com/Privacy-Policy/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - GFT
-
-
-
 
 We collect non-public, personal information about you from the following sources:
 
@@ -21,4 +18,4 @@ We may disclose all of the information we collect, as described above, to compan
 
 On an internal basis, we authorize access to non-public, personal information about you to those employees who need to know that information to service your account or to enforce our rights relating to your account. We maintain security practices and procedures to ensure the confidence of your non-public, personal information.
 
-compliance number
+CD01U.525.101310
