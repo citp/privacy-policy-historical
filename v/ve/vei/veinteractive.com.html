@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the veinteractive.com privacy policy that was archived on 2010-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101201192127id_/http%3A//veinteractive.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veinteractive.com privacy policy that was archived on 2011-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210181852id_/http%3A//www.veinteractive.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -253,17 +253,19 @@
         }
          #nav :hover ul.sub li a b
         {
-            position: absolute;
-            left: 5px;
-            margin: 0;
+            /*position: absolute;
+            left: 5px;*/
+            margin: 0; 
+			
             padding: 0;
+			padding-top:5px;
 			width: 150px;
             height: 20px;
             text-align: center;
             font-size: 12px;
-			top: 5px;
+			/*top: 5px;*/
 			display: block;
-			line-height: 18px;	
+			line-height: 18px;		
         }
         
         
@@ -1201,6 +1203,7 @@
             margin-right: 0px;
             margin-top: 0px;
             margin-bottom: 0px;
+			top: 60px;
         }
         
         
@@ -1622,6 +1625,30 @@
     <!-- page container -->
     <div id="container">
         <style type="text/css">
+
+        /*********************************************************/
+        /*MENU*/
+        /*********************************************************/
+        
+        
+        /* Start menu container DIV settings */
+        #menu
+        {
+          
+          
+            position: absolute;
+    top: 80px;
+            width: 600px;
+            padding: 0;
+            margin: 0; 
+            /*border: 1px solid black;*/
+            /*background-color: red;*/
+            z-index: 51;
+			height:0px;
+        }
+        /* End menu container DIV settings
+        
+        
 		#nav li a.line
         {
         	background-color: #fff;
@@ -1629,10 +1656,28 @@
         	background-image:url('/images/nav/line.png');
           
         }
-		 #nav
+		#logo
+		{
+		background-image:url('http://www.veinteractive.com/images/ie6/logo_bg.png');
+		}
+        #logo
         {
-            width: 850px;       
-        }
+        	position: relative;
+            margin-top: 10px;
+            margin-right: 0;
+            margin-left: 10px;
+            margin-bottom: 0;
+            /*background-color: #fff;*/
+            background-image:url('http://www.veinteractive.com/images/ie6/logo_bg.png');
+			background-repeat:no-repeat;
+			background-position:left top;
+		    height: 97px;
+            width: 309;
+            z-index:4000;
+            border: red;
+            background-color: white:
+			
+	     }
 		#search
 		{
 			float:right;
@@ -1644,12 +1689,461 @@ left:-20px;
 		}
 		#search_btn
 		{
-			background:url('http://veinteractive.com/images/nav/search.png') no-repeat;
+			background:url('http://www.veinteractive.com/images/nav/search.png') no-repeat;
 			height:26px;
 			border:0px;
 width:27px;
 vertical-align:top;
 		}
+		
+		  /* Begin Menu Navigation System */
+        #nav
+        {
+            padding: 0; 
+            position: relative;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-left: 0px;
+            margin-right: 0px;
+            left: 40px; 
+            list-style: none;
+            height: 67px;
+            z-index: 200;
+            font-family: arial, verdana, sans-serif;
+            width: 950px;
+            
+            
+        }
+        #nav li.top
+        {
+            display: block;
+            float: left;
+        }
+        #nav li a
+        {
+            /*display: block;*/
+            float: left;
+            height: 85px;
+            width: 110px; 
+            text-decoration: none;
+            padding: 0;
+            margin: 0;
+            cursor: pointer;
+        }
+        #nav li a b
+        {
+            margin-left: -999px;
+        }
+        #nav li a.home
+        {
+        	
+    		/*background-position:left top;*/
+        	background-image:url('http://www.veinteractive.com/images/nav/home_btn.png');
+	
+		
+        }
+        #nav li a.software
+        {
+        	
+    		/*background-position:left top;*/
+        	background-image:url('http://www.veinteractive.com/images/nav/software_btn.png');
+         
+        }
+        #nav li a.company
+        {
+        
+        	
+        	
+    		/*background-position:left top;*/
+        	background-image:url('http://www.veinteractive.com/images/nav/company_btn.png');
+        	
+      
+        }
+        #nav li a.services
+        {
+        
+    		/*background-position:left top;*/
+        	background-image:url('http://www.veinteractive.com/images/nav/services_btn.png');
+       
+        }
+        #nav li a.resources
+        {
+        	
+    		/*background-position:left top;*/
+        	background-image:url('http://www.veinteractive.com/images/nav/resources_btn.png');
+          
+        }
+		#nav li a.clients
+        {
+        	
+    		/*background-position:left top;*/
+        	background-image:url('http://www.veinteractive.com/images/nav/clients_btn.png');
+          
+        }
+		#nav li a.blog
+        {
+        	
+    		/*background-position:left top;*/
+        	background-image:url('http://www.veinteractive.com/images/nav/blog_btn.png');
+          
+        }
+		#nav li a.contact
+        {
+        	
+    		/*background-position:left top;*/
+        	background-image:url('http://www.veinteractive.com/images/nav/contact_btn.png');
+          
+        }
+        #nav li:hover a, #nav a:hover
+        {
+            background-position: 0 85px;
+        }
+		
+        #nav .sub
+        {
+            position: absolute;
+            left: -9999px;
+            top: -9999px;
+            width: 0;
+            height: 0;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+           
+        }
+        #nav li:hover
+        {
+            position: relative;
+            z-index: 200;
+        }
+        #nav a:hover
+        {
+            position: relative;
+            white-space: normal;
+            z-index: 200;
+        }
+        
+        
+        #nav :hover ul.sub
+        {
+            left: 0px;
+            top: 85px;
+            background: white;
+         
+            width: 110px;
+            height: auto;
+            z-index: 300;
+            height: 67px; 
+            height: auto;
+        }
+        
+        /* Subs position */
+        
+        
+        #nav :hover ul.sub li
+        {
+            display: block;
+            height: 28px;
+            position: relative;
+            float: left;
+            width: 158px;
+            font-weight: normal;
+            margin: 0;
+            padding: 0;
+        }
+        #nav :hover ul.sub li a
+        {
+            display: block;
+            height: 28px;
+            width: 158px;
+            border-color: #ddd #888 #000 #ccc;
+            text-decoration: none;
+            margin: 0;
+            padding: 0;
+            cursor: pointer;
+        }
+        #nav :hover ul.sub li a b
+        {
+           /*position: absolute;
+            left: 5px;*/
+            margin: 0; 
+			
+            padding: 0;
+			padding-top:5px;
+			width: 150px;
+            height: 20px;
+            text-align: center;
+            font-size: 12px;
+			/*top: 5px;*/
+			display: block;
+			line-height: 18px;			
+        }
+        
+        
+        /* Home sub Navigation */
+        #nav :hover ul li a.home1
+        {
+        	
+        	background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn1_wide.png');
+        	color: #606060;
+          
+        }
+        #nav :hover ul li a.home2
+        {
+        	background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+            
+        }
+        #nav :hover ul li a.home3
+        {
+        	background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+         	color: #606060;
+        }
+        #nav :hover ul li a.home4
+        {
+        	background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+            color: #606060;
+        }
+        /* Product sub Navigation */
+        #nav :hover ul li a.software1
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn1_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.software2
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.software3
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.software4
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        /* Company sub Navigation */
+        #nav :hover ul li a.services1
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn1_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.services2
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.services3
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.services4
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.services5
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+		 /* Company sub Navigation */
+        #nav :hover ul li a.clients1
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn1_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.clients2
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+		
+		#nav :hover ul li a.blog1
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn1_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.blog2
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.blog3
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.blog4
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.blog5
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        /* Media sub Navigation */#nav :hover ul li a.resources1
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn1_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.resources2
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.resources3
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.resources4
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+		 /* Contact sub Navigation */#nav :hover ul li a.company1
+        {
+           
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn1_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.company2
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.company3
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.company4
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+		
+		
+        /* Contact sub Navigation */#nav :hover ul li a.contact1
+        {
+           
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn1_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.contact2
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.contact3
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        #nav :hover ul li a.contact4
+        {
+            background-color: #fff;
+    		background-position:left top;
+        	background-image:url('http://www.veinteractive.com/images/nav/submenu_btn_normal_wide.png');
+        	color: #606060;
+        }
+        /* sub hovers */#nav :hover ul.sub li a:hover
+        {
+            background-position: 0 28px;
+            position: relative;
+        }
+        
+        #nav :hover ul.sub li a:hover b
+        {
+            /* used for positioning label */
+            left: 5px;
+            top: 5px;
+            /*background: #fff;*
+            color: #000;
+            /*border: 1px solid #ccc;*/
+            display: block;
+            width: 150px;
+            height: 20px;
+            text-align: center;
+            font-size: 12px;
+            line-height: 18px;
+        }
+		.div_sub{
+			position:relative;
+			left:-20px;
+		
+		}
+        /* End Menu Navigation System
+
 </style>
 
 <div id="logo">
@@ -1657,19 +2151,19 @@ vertical-align:top;
             <table width="100%">
                 <tbody><tr>
 
-                    <td style="vertical-align: middle;" width="95%">
-                        <span class="login_text">Customer Login </span>
-                    </td>
-
-                    <td>
-                        <a href="http://vecapture.veinteractive.com" target="_blank" class="login_rollover" title="Customer Login" alt="customer login"></a>
-                    </td>
+                    <td style="vertical-align: middle;" width="95%" align="right">
+                        									<form method="get" action="http://www.veinteractive.com/search/search.php">
+						<input type="text" id="query" name="query" value="search..">
+						<input type="hidden" name="search" value="1"> 
+						<input type="submit" id="search_btn" value=""> 
+					</form>
+				                    </td>
                 </tr>
 				<tr>
 
  
 
-                    <td align="right" colspan="2">
+                    <td align="right">
 <!-- Click4Assistance Chat Button -->
 <!--
 <a href="Javascript:var x=window.open('http://v3vi.click4assistance.co.uk/c4a.aspx?AccNo=VeInt89510','_blank','menubar=no,location=no,resizable=yes,scrollbars=no,status=no');">
@@ -1683,63 +2177,73 @@ vertical-align:top;
             </tbody></table>
 
         </div>
-								<div id="search">
-					<form method="get" action="http://veinteractive.com/search/search.php">
-						<input type="text" id="query" name="query" value="search..">
-						<input type="hidden" name="search" value="1"> 
-						<input type="submit" id="search_btn" value=""> 
-					</form>
-				
-				</div>
-				
+
+
 
         <div id="menu">
         
        
         
             <ul id="nav">
-                <li class="top"><a href="http://veinteractive.com" class="home"><!--[if gte IE 7]><!--></a><!--<![endif]-->
+                <li class="top"><a href="http://www.veinteractive.com" class="home"><!--[if gte IE 7]><!--></a><!--<![endif]-->
                     <!--[if lte IE 6]><table><tr><td><![endif]-->
 
                     <!--[if lte IE 6]></td></tr></table></a><![endif]-->
                 </li>
-                <li class="top"><a href="#" class="product"><!--[if gte IE 7]><!--></a><!--<![endif]-->
+                <li class="top"><a href="#" class="software"><!--[if gte IE 7]><!--></a><!--<![endif]-->
                     <!--[if lte IE 6]><table><tr><td><![endif]-->
 					<div class="div_sub">
                     <ul class="sub">
-                        <li><a href="http://veinteractive.com/products/lite/product_features.php" class="product1"><b>VeCapture Lite</b></a></li>
-                        <li><a href="http://veinteractive.com/products/advanced/product_features.php" class="product2"><b>VeCapture Advanced</b></a></li>
-                        <li><a href="http://veinteractive.com/products/enterprise/product_features.php" class="product3"><b>VeCapture Enterprise</b></a></li>
-                       <!-- <li><a href="#home4" class="home4"><b>VeContact Advanced</b></a></li>-->
-					    <li><a href="http://veinteractive.com/healthcheck.php" class="product2"><b>Health Check</b></a></li>
-                        <li><a href="http://veinteractive.com/comparison_table.php" class="product2"><b>Comparison Table</b></a></li>
-                        <li><a href="http://veinteractive.com/roi.php" class="product3"><b>ROI Calculator</b></a></li>
-						<li><a href="http://veinteractive.com/cases/" class="product3"><b>Case Studies</b></a></li>
+                        <li><a href="http://www.veinteractive.com/vecapture.php" class="software1"><b>VeCapture</b></a></li>
+                       <li><a href="http://www.veinteractive.com/vecontact.php" class="software2"><b>VeContact</b></a></li>
                     </ul></div>
                     <!--[if lte IE 6]></td></tr></table></a><![endif]-->
                 </li>
-                <li class="top"><a href="#" class="company"><!--[if gte IE 7]><!--></a><!--<![endif]-->
+               
+                <li class="top"><a href="http://www.veinteractive.com/veservices.php" class="services"><!--[if gte IE 7]><!--></a><!--<![endif]-->
+                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+					
+                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                </li>
+				<li class="top"><a href="#" class="resources"><!--[if gte IE 7]><!--></a><!--<![endif]-->
                     <!--[if lte IE 6]><table><tr><td><![endif]-->
 					<div class="div_sub">
                     <ul class="sub">
-					<li><a href="http://veinteractive.com/aboutus.php" class="company1"><b>About Us</b></a></li>
-                    <li><a href="http://veinteractive.com/privacy_europe_information.php" class="company2"><b>IP &amp; Privacy</b></a></li>
-					<li><a href="http://veinteractive.com/webiste_care.php" class="company2"><b>Website Care</b></a></li>
-					<li><a href="http://veinteractive.com/companyfactsheet.php" class="company3"><b>Company Fact Sheet</b></a></li>
-					<li><a href="http://veinteractive.com/csr/" class="company4"><b>CSR</b></a></li>
-					<li><a href="http://veinteractive.com/corporatemembership.php" class="company4"><b>Corporate Partnerships</b></a></li>
-					
+                        <li><a href="http://www.veinteractive.com/roi.php" class="resources1"><b>ROI Calculator</b></a></li>
+						<li><a href="http://www.veinteractive.com/login.php" target="_blank" class="resources3"><b>Customer Login</b></a></li>
+						<li><a href="http://www.veinteractive.com/data_protection_and_privacy.php" class="resources3"><b>Data Protection &amp; Privacy</b></a></li>
                     </ul>
 					</div>
                     <!--[if lte IE 6]></td></tr></table></a><![endif]-->
                 </li>
-                <li class="top"><a href="#" class="media"><!--[if gte IE 7]><!--></a><!--<![endif]-->
+				<li class="top"><a href="#" class="clients"><!--[if gte IE 7]><!--></a><!--<![endif]-->
                     <!--[if lte IE 6]><table><tr><td><![endif]-->
 					<div class="div_sub">
                     <ul class="sub">
-                        <li><a href="http://veinteractive.com/inthenews.php" class="media1"><b>In the news</b></a></li>
-						<li><a href="http://veinteractive.com/press_releases/" class="media2"><b>Press Release</b></a></li>
-						<li><a href="http://blog.veinteractive.com" target="_blank" class="media3"><b>Blog</b></a></li>
+                        
+                        <li><a href="http://www.veinteractive.com/testimonials.php" class="clients1"><b>Testimonials</b></a></li>
+					    <li><a href="http://www.veinteractive.com/cases/" class="clients2"><b>Case Studies</b></a></li>
+                    </ul>
+					</div>
+                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                </li>
+				<li class="top"><a href="http://blog.veinteractive.com" class="blog"><!--[if gte IE 7]><!--></a><!--<![endif]-->
+                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+					
+                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                </li>
+				 <li class="top"><a href="#" class="company"><!--[if gte IE 7]><!--></a><!--<![endif]-->
+                    <!--[if lte IE 6]><table><tr><td><![endif]-->
+					<div class="div_sub">
+                    <ul class="sub">
+					<li><a href="http://www.veinteractive.com/aboutus.php" class="company1"><b>About Us</b></a></li>
+					<li><a href="http://www.veinteractive.com/companyfactsheet.php" class="company3"><b>Management Biographies</b></a></li>
+					<li><a href="http://www.veinteractive.com/csr/" class="company4"><b>CSR</b></a></li>
+					<li><a href="http://www.veinteractive.com/corporatemembership.php" class="company4"><b>Corporate Memberships</b></a></li>
+					<li><a href="http://www.veinteractive.com/careers.php" class="company4"><b>Careers</b></a></li>
+					<li><a href="http://www.veinteractive.com/inthenews.php" class="company4"><b>News</b></a></li>
+					<li><a href="http://www.veinteractive.com/press_releases/" class="company4"><b>Press Release</b></a></li>
+					
                     </ul>
 					</div>
                     <!--[if lte IE 6]></td></tr></table></a><![endif]-->
@@ -1748,10 +2252,8 @@ vertical-align:top;
                     <!--[if lte IE 6]><table><tr><td><![endif]-->
 					<div class="div_sub">
                     <ul class="sub">
-						<li><a href="http://veinteractive.com/howtofind.php" class="contact1"><b>How to find us</b></a></li>
-                        <li><a href="http://veinteractive.com/enquiry_form.php" class="contact2"><b>Enquiry Form</b></a></li>
-						<li><a href="http://veinteractive.com/partner_enquiry.php" class="contact3"><b>Partner Enquiry</b></a></li>
-                        <!--<li><a href="#contact3" class="contact3"><b>Contact Sub 4</b></a></li>-->
+						<li><a href="http://www.veinteractive.com/howtofind.php" class="contact1"><b>Our Locations</b></a></li>
+                        <li><a href="http://www.veinteractive.com/enquiry_form.php" class="contact2"><b>Enquiry Form</b></a></li>
                     </ul>
 					</div>
                     <!--[if lte IE 6]></td></tr></table></a><![endif]-->
@@ -1831,94 +2333,117 @@ Ve Interactive Ltd (we or us) appreciate your trust in us to protect your person
         </div>
         <!--  end main_container -->
 		<style>
-#footer_table td a img
-{
-	padding-top:20px;
-}
+
+       #footer
+	   {
+		height:91px;
+	   }
+        
+        #footer_privacy_text
+        {
+            position: relative;
+            padding-top: 0px;
+            padding-left: 0px;
+            padding-right: 0px;
+            padding-bottom: 0px;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-right: 0px;
+            margin-left: 0px;
+            font-size: 8pt;
+            font-family: "Helvetica Neue" , Helvetica, sans-serif,Arial, Verdana;
+            color: #606060;
+			top: 5px;
+        }
+ 
+        #footer_table td a img
+        {
+            padding-top:20px;
+        }
 		.nav_footer
 		{
 		padding:0px;
 		
 		}
+
+		#social_networks
+		{
+			height: 55px;
+            left: 539px;
+            position: absolute;
+            top: 0;
+		}
+		#footer_divs
+		{
+			position:absolute;
+			left:10px;
+			top:5px;
+		}
+        #bimas_div
+        {
+            margin-left:-40px;
+            margin-top:25px;
+            float:left;
+        }
+		
+				/*************************links ****************************/
+		a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+.fb-like {width:140px;}
 </style>
-      
+
+<div id="fb-root"></div>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
          <div id="footer">
-            <table id="footer_table" width="100%">
-                <tbody><tr>
-                    <td width="20px" style="vertical-align: top;">
-                        <div id="footer_reg_text">
-                            Ve Interactive Ltd is a privately held company registered in England &amp; Wales
-                            with registration number 06956893
-                        </div>
-                        <p>
-                        </p>
-                        <p>
-                        </p>
-                        <div id="footer_addr_text">
-                            <span style="color: #606060; font-weight: bold;">Ve Interactive</span>
-                            <br>
-                            25 Grosvenor Street<br>
-                            London W1K 4QN<br>
-                            +44 (0)203 137 5730
-                            <br>
-                        </div>
-                        <p>
-                        </p>
-                    </td>
-                    <td width="60%" align="right">
-					<a href="http://mash.to/2ImZn" target="_blank"><img border="0" align="left" alt="mashable awards" title="mashable awards" src="http://veinteractive.com/images/mashable_awards_btn.png" width="186" height="78"></a>
-					<a href="http://www.ivaluethearts.org.uk/" target="_blank"><img border="0" style="margin-right: 6px;" src="http://veinteractive.com/images/valueart.png" alt="i value the arts" title="i value the arts" width="153" height="40"></a>
-					<a href="http://www.raceonline2012.org/" target="_blank"><img border="0" style="margin-right: 6px;" src="http://veinteractive.com/images/race_online.png" alt="race online" title="race online" width="116" height="49"></a>
-					<a href="http://www.imrg.com" target="_blank"><img border="0" src="http://veinteractive.com/images/imrg_logo.png" alt="imrg" title="imrg" width="80" height="32"></a>
-                    </td>
-                    <td width="100" style="text-align:right;vertical-align: top;" class="style1">
-                        <div id="footer_col1_text">
-                            <ul class="nav_footer">
-								<li><a href="http://veinteractive.com/index.php" class="nav_footer"><b>Home</b></a></li>
-								<li><b>Products</b></li>
-                                <li><a href="http://veinteractive.com/products/lite/product_features.php" class="nav_footer">VeCapture Lite</a></li>
-                                <li><a href="http://veinteractive.com/products/advanced/product_features.php" class="nav_footer">VeCapture Advanced</a></li>
-                                <li><a href="http://veinteractive.com/products/enterprise/product_features.php" class="nav_footer">VeCapture Enterprise</a></li>
-                               <!-- <li><a href="#vecontactadvanced" class="nav_footer">VeContact Advanced</a></li>-->
-                                <li><a href="http://veinteractive.com/healthcheck.php" class="nav_footer">Health Check</a></li>
-                                <li><a href="http://veinteractive.com/comparison_table.php" class="nav_footer">Product Comparison</a></li>
-                                <li><a href="http://veinteractive.com/roi.php" class="nav_footer">ROI Calculator</a></li>
-								<li><a href="http://veinteractive.com/cases/" class="nav_footer">Case Studies</a></li>
-                            </ul>
-                        </div>
-                    </td>
-                    <td width="110px" style="vertical-align: top;">
-                        <div id="footer_col2_text">
-                            <ul class="nav_footer">
-                             	<li><strong>Company</strong></li>
-                                <li><a href="http://veinteractive.com/aboutus.php" class="nav_footer">About Us</a></li>
-                                <li><a href="http://veinteractive.com/privacy_europe.php" class="nav_footer">IP &amp; Privacy</a></li>
-								 <li><a href="http://veinteractive.com/csr/" class="nav_footer">CSR</a></li>
-								 <li><a href="http://veinteractive.com/companyfactsheet.php" class="nav_footer">Company Fact Sheet</a></li>
-                                <li><a href="http://veinteractive.com/corporatememberships.php" class="nav_footer">Corporate Partnerships</a></li>
-								<li><a href="http://blog.veinteractive.com" target="_blank" class="nav_footer">Blog</a></li>
-                          		<li><a href="http://twitter.com/veinteractive" target="_blank" class="nav_footer">Twitter</a></li>
-                       			<li><strong>Media Room</strong></li>
-                       			<!--<li><a href="#pressrelease" class="nav_footer">Press Releases</a></li>-->
-                                <li><a href="http://veinteractive.com/inthenews.php" class="nav_footer">In the News</a></li>
-								<li><a href="http://veinteractive.com/press_releases/" class="nav_footer">Press Release</a></li>
-                       			<li><strong>Contact Us</strong></li>
-                                <li><a href="http://veinteractive.com/howtofind.php" class="nav_footer">How to Find</a></li>
-                                <li><a href="http://veinteractive.com/enquiry_form.php" class="nav_footer">Enquiry Form</a></li>
-								<li><a href="http://veinteractive.com/partner_enquiry.php" class="nav_footer">Partner Enquiry</a></li>
-                                <!--<li><a href="#search" class="nav_footer">Search</a></li>-->
-                                
-                            </ul>
-                            
-                        </div>
-                    </td>
-                </tr>
-            </tbody></table>
-            <div id="footer_privacy_text">
-                <a href="http://veinteractive.com/privacy.php"><strong>Privacy Policy</strong></a> | <a href="http://veinteractive.com/terms.php">Terms
-                    and Conditions</a> © VE INTERACTIVE LTD 2010
-            </div>
+		 <div id="footer_divs">
+                        <div id="footer_privacy_text">
+                        <a href="http://www.veinteractive.com/privacy.php">Privacy Policy</a> | <a href="http://www.veinteractive.com/terms.php">Terms and Conditions</a> © VE INTERACTIVE LTD 2011
+        </div>
+        <div id="bimas_div">
+            <a href="http://www.bimaawards.com/2011-finalists.php" target="_blank"><img src="http://www.veinteractive.com/images/bima2011_winner_ribbon_black.png" border="0" alt="ribbon"></a>            
+        </div>
+		<div id="social_networks">
+		<table>
+		<tbody><tr>
+            <td valign="top"><div class="fb-like" data-href="http://www.facebook.com/VeInteractive" data-send="true" data-layout="button_count" data-width="73" data-show-faces="false"></div></td>
+			<td valign="top"><a href="http://www.facebook.com/pages/Ve-Interactive/158346114221640" alt="Ve Interactive Facebook"><img src="http://www.veinteractive.com/images/footer/facebook.png" border="0" alt="Facebook"></a></td>
+			<td valign="top"><a href="http://twitter.com/#!/veinteractive " alt="Ve Interactive Twitter"><img src="http://www.veinteractive.com/images/footer/twitter.png" border="0" alt="Twitter"></a></td>
+			 <td><a href="http://blog.veinteractive.com" target="_blank"><img src="http://www.veinteractive.com/images/blog_button.png" border="0" alt="Blog"></a></td>
+		</tr>
+        </tbody></table>
+		</div>
+		</div>      
         </div> <!-- End Footer -->
+        
+
+
 <script type="text/javascript">
 
 //<![CDATA[
@@ -1929,7 +2454,7 @@ document.write('<img src="'+window.location.protocol+'//trk.enecto.com/track?cus
 
 //]]>
 
-</script><img src="https://trk.enecto.com/track?cust_id=8a8484e6287f1e5c0128ab2a5d514b23&amp;purl=http%3A//veinteractive.com/web/20101201192127id_/http%253A//veinteractive.com/privacy.php&amp;ref=&amp;tm=1580389378062" height="1" width="1" alt="">
+</script><img src="https://trk.enecto.com/track?cust_id=8a8484e6287f1e5c0128ab2a5d514b23&amp;purl=http%3A//veinteractive.com/web/20111210181852id_/http%253A//www.veinteractive.com/privacy.php&amp;ref=&amp;tm=1580389376806" height="1" width="1" alt="">
 
 
 
