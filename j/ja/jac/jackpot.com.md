@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216085335id_/http%3A//jackpot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210182110id_/http%3A//jackpot.com/privacy.html) for the most accurate reproduction.*
 
 # Online Casino Games and Bingo Reviews from Jackpot.com. Get Into The Actions Now!
 
