@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theblogismine.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612224614id_/http%3A//www.theblogismine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogismine.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211003040id_/http%3A//www.theblogismine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheBlogIsMine Dot Com
+# Privacy Policy | TheBlogIsMine.com
 
 At TheBlogIsMine, Ltd. (“TheBlogIsMine”) we appreciate your readership and support and place a high value on your personal privacy. We respect the personal nature of the information you provide us on our web site and staunchly recognize the importance of protecting this information. In adopting this privacy policy (this “Privacy Policy”),   our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. This Privacy Policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our Privacy Policy.
 
