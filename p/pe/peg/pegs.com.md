@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegs.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214105003id_/http%3A//www.pegs.com/about_us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegs.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211004057id_/http%3A//www.pegs.com/about_us/privacy.asp) for the most accurate reproduction.*
 
 # Pegasus Overview
 
@@ -60,4 +60,4 @@ Pegasus and the Privacy Office will make an on-going effort to comply with the p
 
 **Privacy Office Contact** Our Privacy Office can be contacted at [ privacy@pegs.com](mailto:privacy@pegs.com), or Privacy Office, Pegasus Solutions, Inc., Pegasus Plaza, 14000 North Pima Road, Suite 100, Scottsdale, Arizona 85260. Within a reasonable time after receiving your request or inquiry, we will attempt to respond to you or otherwise address your concern. 
 
-** [ Back to Pegasus Overview](https://web.archive.org/web/20110214105003id_/http%3A//www.pegs.com/about_us/overview.asp)**
+** [ Back to Pegasus Overview](https://web.archive.org/web/20111211004057id_/http%3A//www.pegs.com/about_us/overview.asp)**
