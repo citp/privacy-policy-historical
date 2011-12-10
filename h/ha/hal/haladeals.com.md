@@ -1,100 +1,73 @@
-> *The following text is extracted and transformed from the haladeals.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haladeals.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210065214id_/http%3A//www.haladeals.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+At Hala Deals we take your privacy seriously. Our Privacy Policy describes how we use your personal information and how we keep it safe. If you require further information about how your personal information is used and secured, please don’t hesitate to get in touch with us. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+At Hala Deals (referred to as "us" or "we"), we are committed to protecting the privacy of our users. We aim to ensure that the personal data you provide to us is kept secure and only used and disclosed for the explicitly stated purposes described below.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO ABIDE BY ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO THESE TERMS, PLEASE REFRAIN FROM ACCESSING THIS WEBSITE.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**1\. Changes to Privacy Policy**
 
-**Information Collection and Use**
+Hala Deals reserves the right to modify this Privacy Policy at any time, so we suggest that you review the policy frequently to stay informed of any changes. We will notify you on this page, by email, or via a notice on our home page if are made to this Privacy Policy so that you remain aware of what information we collect, how we use it and under what circumstances we will disclose it.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**2\. Types of Information Collected and Uses of Collected Information**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We collect two types of information about our Website Users: Personally Identifiable Information and Non-Personally Identifiable Information.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Personally Identifiable Information.**  Personally Identifiable Information is information that identifies a specific End User. When you engage in certain activities on our website, such as creating an account, filling out a survey, posting a review, sending us feedback, or requesting information about our services on our website (Identification Activities), we may ask you to provide certain information about yourself. It is optional for you to participate in an Identification Activity. If you choose to participate in an Identification Activity, however, we may ask you to provide us with certain personal information about yourself, such as your first and last name, mailing address, email address, and telephone number. Depending on the activity, some of the information we ask you to provide will be mandatory and some will be voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to participate in that activity.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Refer-A-Friend/Buy it for a Friend**. If you choose to use our referral service or buy a deal for a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email with the gift you bought for them or inviting them to visit the site. Hala Deals stores this information for the sole purpose of sending this one-time email, sending their gift, and tracking the success of our referral program. The recipient of your gift or referral may contact us at support@Hala Deals.com to request that we remove this information from our database. We use Personally Identifiable Information to provide products and services to you, improve the operation of our website, improve our marketing and promotional efforts, analyze website use, improve our product and service offerings, and to tailor your experience with third parties as provided in Item 3 of this Privacy Policy. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Terms and Conditions and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**Non-Personally Identifiable Information.**  Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator ("URL") of the website you visited before coming to our website, the URL of the website you visit after leaving our website, the type of browser you are using and your Internet Protocol ("IP") address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our website through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in Items 4 and 8 of this Privacy Policy. We use Non-Personally Identifiable Information to troubleshoot, administer the website, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**3\. Release of Personally Identifiable Information**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We will not share your Personally Identifiable Information with other parties except under the circumstances detailed below:
 
-**Security**
+**We may share your information with authorized third party service providers.**  We provide some of our services and products through third parties. These "Third Party Service Providers" perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Service Providers to send emails, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, operate the website, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies ("Affiliates") with whom we have business relationships and may have to also share their information with Service Providers to accomplish our administrative tasks. We encourage Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties and is not subject to our control.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**We may share your information for our protection and the protection of others.**  We may also disclose Personally Identifiable Information when we believe release is appropriate to comply with the law or a court order; enforce or apply this Privacy Policy, our website Terms and Conditions or other agreements; or protect the rights, property or safety of the website, its Users or others.
 
-**Updating Your Information**
+**We may share your information in a business transfer.**  As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Privacy Policy.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**4\. Release of Non-Personally Identifiable Information**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with "Third Party Advertisers" or "Third Party Advertising Companies" and other parties as detailed below.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We use Third Party Advertising Companies to provide advertisements when you visit our Website. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you.
 
-      iii.      You may call us at: (480) 505-8800
+We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us.
 
-       iv.      You may fax us at: (480) 505-8844
+**5\. Updating and Correcting Information**
 
-**Sending Emails**
+At Hala Deals, we believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by sending us an email at info@Hala Deals.com. Please indicate your name, address and email address, and what information you would like to update when you contact us. We encourage you to promptly update your Personally Identifiable Information if it changes. Please note that it may be impossible for us to completely delete all of your information because we periodically back up our databases.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**6\. User Choices on Collection and Use of Information**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+You always retain the choice not to provide personal data, although it may be required to engage in certain activities on the website. We will send you information regarding updates about our products and promotional offers. You cannot opt-out of Administrative Emails. Administrative Emails relate to a User's activity on the website, and include emails regarding a particular User's account and requests or inquiries. If you do not wish to receive them, you should deactivate your account. You do have a choice whether or not you’d like to receive Promotional Emails. Promotional Emails advertise our products and services, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt out at any time after registering by e-mailing us at support@Hala Deals.com, or by clicking the "unsubscribe" button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what types of Promotional Emails you do not want to receive.
 
-**Compliance with Laws and Law Enforcement**
+**7\. Security of Information**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+At Hala Deals, we take security very seriously.  We take extensive precautions to protect the security of Personally Identifiable Information from unauthorized access and use. Any Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies that abide by the same standards, we cannot guarantee the security of any information transmitted to or from the website, and are not responsible for the actions of any third parties that may receive any such information.
 
-**Third Party Service Providers**
+**8\. Data Tracking**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**Cookies.**  To facilitate and customize your experience with the website, we store cookies on your computer. A cookie is a small text file that is stored on a User's computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our website only and does not cover the use of cookies by any Advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the website may not work properly.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**Widgets.  **Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company. Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-**Supplementation of Information**
+**Other Tracking Devices.**  We may use other industry standard technologies like pixel tags and web beacons to track your use of our website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or Marketing Partners for the same purposes.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**9\. Blogs and Forums**
 
-**Contests/Surveys**
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**10\. Privacy Policies of Third Party Websites**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through this website have their own privacy policies and data collection, use and disclosure practices. If you link to any such website, we encourage you to review the website's privacy policy. We are not responsible for the policies or practices of third parties.
 
-**Tell-A-Friend**
+**11\. Use by Minors**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Minors under the age of 18 may not use the website. We do not collect or maintain information from anyone known to be under the age of 18, and no part of the website is designed to attract anyone under the age of 18. If you are under 18, you may use Hala Deals only under the supervision of a parent or guardian.
