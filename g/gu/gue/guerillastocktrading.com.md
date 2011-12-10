@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604163308id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerillastocktrading.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210084157id_/http%3A//www.guerillastocktrading.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guerilla Stock Trading.com
 
@@ -31,3 +31,19 @@ http://www.guerillastocktrading.com does not gather or store any personal inform
 **Information sharing**
 
 No personal information is gathered. No personal information is shared with other companies or individuals.
+
+**PLEASE RATE THIS ARTICLE SO WE KNOW WHAT YOU LIKE!!**
+
+  
+
+
+  * Currently 0.00/5
+  * [1](http://www.guerillastocktrading.com/wp-content/plugins/wpRater/dbIP.php?j=1&q=97&t=88.131.106.8&c=5 "1 out of 5")
+  * [2](http://www.guerillastocktrading.com/wp-content/plugins/wpRater/dbIP.php?j=2&q=97&t=88.131.106.8&c=5 "2 out of 5")
+  * [3](http://www.guerillastocktrading.com/wp-content/plugins/wpRater/dbIP.php?j=3&q=97&t=88.131.106.8&c=5 "3 out of 5")
+  * [4](http://www.guerillastocktrading.com/wp-content/plugins/wpRater/dbIP.php?j=4&q=97&t=88.131.106.8&c=5 "4 out of 5")
+  * [5](http://www.guerillastocktrading.com/wp-content/plugins/wpRater/dbIP.php?j=5&q=97&t=88.131.106.8&c=5 "5 out of 5")
+
+
+
+Rating: **0.0** /5 (0 votes cast) 
