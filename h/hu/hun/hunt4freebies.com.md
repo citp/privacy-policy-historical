@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hunt4freebies.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504130920id_/http%3A//hunt4freebies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunt4freebies.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210080246id_/http%3A//hunt4freebies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Hunt4Freebies
+# Privacy Policy - Hunt4Freebies
 
 **What information do we collect?**
 
@@ -14,7 +14,8 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-Our Ad companies – [click here](http://hunt4freebies.com/advertising-companies/).
+Our Ad companies – [click here](http://hunt4freebies.com/advertising-companies/).  
+[Disclosure Policy](http://hunt4freebies.com/disclosure-policy/)
 
 **What do we use your information for?**
 
@@ -76,4 +77,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 www.hunt4freebies.com  
 mike@hunt4freebies.com  
-  
+
