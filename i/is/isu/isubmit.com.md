@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isubmit.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612175237id_/https%3A//www.isubmit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubmit.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211003004id_/http%3A//www.isubmit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « iSubmit
+# Privacy Policy « Search Engine Submission
 
 ### iSubmit Privacy Statement
 
