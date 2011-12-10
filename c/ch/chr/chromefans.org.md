@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromefans.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225012919id_/http%3A//www.chromefans.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromefans.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211005811id_/http%3A//www.chromefans.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Google Chrome Fans
 
@@ -6,7 +6,7 @@
 
 * * *
 
-[http://www.chromefans.org](http://www.chromefans.org/) Sep 14, 2008 19:22 PDT
+Date: Sep 14, 2008 19:22 PDT | [Add me in your **Google+** circle](https://plus.google.com/107516790688996665941/)
 
 Below is information regarding ChromeFans.org commitment to protect the privacy of users and to ensure the integrity of the Internet.
 
@@ -31,9 +31,15 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
+  * **Search history and cookies**
+
+The search feature of ChromeFans.org is based Google Custom Search. More information, please visit [Google Privacy](http://www.google.com/intl/en/privacy/).
+
 
 
 
 If you have any questions or concerns regarding this matter, please feel free to [contact me](https://web.archive.org/about/).
 
 Tags: [Privacy Policy](https://web.archive.org/tag/Privacy+Policy/)
+
+ 
