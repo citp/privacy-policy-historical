@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609074648id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pct.edu privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211001432id_/http%3A//www.pct.edu/privacy) for the most accurate reproduction.*
 
 # Privacy - Pennsylvania College of Technology
 
 ##### Feel your privacy's being invaded?
 
-Direct your inquiries regarding privacy to [privacy@pct.edu](https://web.archive.org/web/20110609074648id_/http://www.pct.edu/privacy/contact.asp).
+Direct your inquiries regarding privacy to [privacy@pct.edu](https://web.archive.org/web/20111211001432id_/http://www.pct.edu/privacy/contact.asp).
 
 We respect your privacy. Pennsylvania College of Technology is the sole owner of information collected on this website. Any and all information collected via the Penn College website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Your information will be held with the utmost care, and will not be used in ways that you have not consented to.
 
@@ -12,7 +12,7 @@ We respect your privacy. Pennsylvania College of Technology is the sole owner of
 
 Penn College collects information at several different points on our website including, but not limited to:
 
-**Student Information System (SIS) –** In order to use the SIS, you must first be assigned a personal identification number by the Registrar which will be used, along with your student ID number, to log in. Information obtained via the SIS includes personal information such as addresses and home information, student ID number, grades, and account/billing information. You are encouraged to protect the privacy of your PIN and student ID number.
+**Student Information System (SIS) –** You will use your Penn College username and password to log in to the SIS. Information obtained via the SIS includes personal information such as addresses and home information, student ID number, grades, and account/billing information. You are encouraged to protect the privacy of your login credentials throughout your college career. Sharing network usernames and passwords is a violation of [Penn College's Acceptable Use Policy](https://web.archive.org/its/policy.htm).
 
 **Registrar –** The Registrar's Office requires a student's Social Security number for the purposed of verifying the student's identity with official educational records. If a Social Security number is not provided, the College cannot guarantee the authenticity of educational records. The College will not disclose Social Security numbers to anyone outside of the College without an individual's consent except as mandated by law.
 
@@ -70,4 +70,4 @@ If we decide to change our privacy statement, we will post those changes on this
 
 ### How to Report Privacy Violations
 
-You may report violations of this statement to [Privacy](https://web.archive.org/web/20110609074648id_/http://www.pct.edu/privacy/contact.asp).
+You may report violations of this statement to [Privacy](https://web.archive.org/web/20111211001432id_/http://www.pct.edu/privacy/contact.asp).
