@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forrester.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214080417id_/http%3A//www.forrester.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forrester.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210072556id_/http%3A//www.forrester.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Forrester Research
 
