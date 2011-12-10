@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231113730id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210110640id_/http%3A//www.avg.com/us-en/privacy) for the most accurate reproduction.*
 
 # AVG - Privacy Policy
 
@@ -121,5 +121,7 @@ We reserve the right to change this Privacy Policy at any time. However, we will
 If you have any questions or suggestions regarding our Privacy Policy, please email us at [privacy@avg.com](mailto:privacy@avg.com).
 
 This website is maintained by AVG Technologies CZ, s.r.o. in Brno, the Czech Republic. AVG Technologies CZ, s.r.o. is a data collector. End user data may be considered personal information pursuant to the Czech Act no. 101/2000 Coll., on the protection of personal information, as amended, or under any other applicable relevant legislation.
+
+[Fair Processing Notice](http://www.avg.com/us-en/fpn)
 
 Last Updated 27 October 2010
