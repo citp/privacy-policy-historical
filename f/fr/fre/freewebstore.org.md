@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624023933id_/http%3A//www.freewebstore.org/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebstore.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210154414id_/http%3A//www.freewebstore.org/website/privacy.html) for the most accurate reproduction.*
 
 # Free Webstore - Privacy Policy
 
@@ -69,7 +69,7 @@ Enter your details below to sign up to the Free Webstore Newsletter.
 "I opened my web store a couple of months ago and already I am receiving regular and substantial orders."  
 \- Lyn, [Lyn's Toy Shop](http://www.risuswholesale.co.uk/)
 
-"I must admit, I'm impressed! A big thumbs up for Free Webstore and their support team, definately a 5-star rating!"  
+"I must admit, I'm impressed! A big thumbs up for Free Webstore and their support team, definitely a 5-star rating!"  
 \- [www.locostore.co.uk](http://www.locostore.co.uk/)
 
 "What makes Free Webstore so unique is the time and dedication they give to their customers. If you need some technical help, they're there to help."  
