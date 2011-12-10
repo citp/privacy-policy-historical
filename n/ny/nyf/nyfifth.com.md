@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nyfifth.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605051132id_/http%3A//www.nyfifth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfifth.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210164649id_/http%3A//www.nyfifth.com/privacy.php) for the most accurate reproduction.*
 
-# NyFifth Apparel - About Us
+# About Us Screen Printing Embroidery from NyFifth.com
 
 |   
 ---  
