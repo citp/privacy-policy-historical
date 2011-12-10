@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the hotmaths.com.au privacy policy that was archived on 2011-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110610040735id_/http%3A//www.hotmaths.com.au/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotmaths.com.au privacy policy that was archived on 2011-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210023354id_/http%3A//www.hotmaths.com.au/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-    <link type="text/css" rel="stylesheet" href="/stylesheets/cssReset.20110519.css">
-    <link type="text/css" rel="stylesheet" href="/home/template/css/homeStyles.20110519.css">
+    <link type="text/css" rel="stylesheet" href="/stylesheets/cssReset.20111123.css">
+    <link type="text/css" rel="stylesheet" href="/home/template/css/homeStyles.20111123.css">
     <link rel="SHORTCUT ICON" href="/images/HOTmaths.ico">
 
     <title>Privacy</title>
@@ -32,14 +32,14 @@ jQuery(document).ready(function () {
 </script>
 
 
-    <script type="text/javascript" src="/javascript/browserVersion.20110519.js"></script>
+    <script type="text/javascript" src="/javascript/browserVersion.20111123.js"></script>
 
     
 
-<link type="text/css" rel="stylesheet" href="/home/template/css/headerStyles.20110519.css">
-<script type="text/javascript" src="/javascript/acrobatCheck.20110519.js"></script>
-<script type="text/javascript" src="/javascript/flashCheck.20110519.js"></script>
-<script type="text/javascript" src="/home/template/headerScripts.20110519.js"></script>
+<link type="text/css" rel="stylesheet" href="/home/template/css/headerStyles.20111123.css">
+<script type="text/javascript" src="/javascript/acrobatCheck.20111123.js"></script>
+<script type="text/javascript" src="/javascript/flashCheck.20111123.js"></script>
+<script type="text/javascript" src="/home/template/headerScripts.20111123.js"></script>
 
 <script type="text/javascript">
     var WARNING_SCREEN_RES = "This system is best viewed at the screen resolution of 1024 x 768 or higher.";
@@ -48,7 +48,7 @@ jQuery(document).ready(function () {
     var WARNING_UPDATE_FLASH = "Adobe Flash player is required. Click <a href=http://get.adobe.com/flashplayer/ target=_blank>here</a> to download.";
 </script>
     
-    <link type="text/css" rel="stylesheet" href="/home/template/css/footerStyles.20110519.css">
+    <link type="text/css" rel="stylesheet" href="/home/template/css/footerStyles.20111123.css">
 </head>
 <body>
     <div id="page">
@@ -60,7 +60,7 @@ jQuery(document).ready(function () {
 <script type="text/javascript">
     function popupRegistrationWindow() {
         var params = "width=600,height=700,top=100,left=300,menubar=no,resizable=no,scrollbars=yes,status=no,toolbar=no";
-        var paymentWindow = window.open("/usersCommon/showRegistrationHome.action;jsessionid=CDBFDC5B7909976E5046C4215B4801F8", "paymentWindow", params);
+        var paymentWindow = window.open("/usersCommon/showRegistrationHome.action", "paymentWindow", params);
         paymentWindow.focus();
     }
 </script>
@@ -72,6 +72,7 @@ jQuery(document).ready(function () {
         <a id="hotmathsLogo" href="/"></a>
     </div>
     <div id="header-login">
+        <div id="errorText"><span id="val"></span></div>            
         <form id="loginForm" action="/controlCentre/userLogin.action" method="POST">
             <input type="hidden" name="offset" value="0">
             <div id="loginButton">
@@ -91,7 +92,6 @@ jQuery(document).ready(function () {
                     <input name="password" type="password" maxlength="64" tabindex="2">
                 </div>
                 <div id="lb_text">
-                    <span id="val"></span>
                     <a id="forgotPassword" href="/home/contactUs/forgotPassword/index.jsp">Forgotten login details?</a>
                 </div>
             </div>
@@ -142,111 +142,93 @@ jQuery(document).ready(function () {
             <li>
                 <a class="nmHeading " href="/home/contactUs">contact us</a>
             </li>
+            <li>
+                <a class="nmHeading " href="/home/help">help</a>
+            </li>
         </ul>
         <div id="fbIcon"><a href="http://www.facebook.com/pages/Cambridge-HOTmaths/100409190014645" title="Find us on facebook" target="_blank"></a></div>
     </div>
 </div>
 <script type="text/javascript">
-    var off = new Date().getTimezoneOffset();
-    $(":input[name=offset]").val(off);
+     $(document).ready(function() {
+        var off = new Date().getTimezoneOffset();
+        $(":input[name=offset]").val(off);
+     });
 </script>
         <div id="content">
     <h1>Cambridge HOTmaths privacy policy and security statement</h1>
     <p>
         </p><h3>What is this policy about?</h3>
         <ul>
-            <li>This policy covers the gathering by Cambridge HOTmaths of personally identifiable information that Cambridge HOTmaths obtains when
-            you register to use the site and when you use the Cambridge HOTmaths online mathematics tutorial program, and the way that information
-            is handled by Cambridge HOTmaths.
-            </li><li>This policy does not cover the practices of people, organisations or companies for which Cambridge HOTmaths does not have
-            responsibility. The policy also does not cover the practices of individuals with whom the subscriber has shared their
-            mathematics progress activity reports.
-        </li></ul>
+            <li>This policy covers the gathering and handling of personally identifiable information by Cambridge HOTmaths when you register to use the site and when you use the Cambridge HOTmaths online mathematics tutorial program.</li>
+            <li>This policy does not cover the practices of people, organisations or companies for which Cambridge HOTmaths does not have responsibility. The policy also does not cover the practices of individuals with whom the subscriber has shared their mathematics progress activity reports.</li>
+        </ul>
     <p></p>
     <p>
         </p><h3>What is covered by this policy?</h3>
         <ul>
-            <li>This policy covers the mathematics online tutorial programs which are operated by Cambridge HOTmaths Pty Ltd.
-        </li></ul>
+            <li>This policy covers the mathematics online tutorial programs which are operated by Cambridge HOTmaths Pty Ltd.</li>
+        </ul>
     <p></p>
     <p>
         </p><h3>What information does Cambridge HOTmaths collect and use, and why?</h3>
         <ul>
-            <li>Cambridge HOTmaths collects information that identifies you when you register on the site for a Cambridge HOTmaths account.
-            </li><li>When you subscribe to Cambridge HOTmaths, you are asked for your first and last name, a username, password, email address,
-            sex, subscriber type, postcode and school.
-            </li><li>Cambridge HOTmaths collects a username and password so that only you can access your account. Designated Cambridge HOTmaths administrators
-            at your school have access to usernames and passwords for students at your school so that they can remind you if you forget
-            them. Cambridge HOTmaths school administrators may not give your username and password to any other user and they are required to treat
-            this as confidential information.
-            </li><li>Last name is collected so that if you choose to allow your teacher to view your progress activity report, your report
-            will be organised alphabetically with the names of your classmates.
-            </li><li>Email address collection allows Cambridge HOTmaths to contact you about changes to the site or to advise you of matters regarding
-            your use of the site.
-            </li><li>Postcode data allows Cambridge HOTmaths to analyse student demand geographically.
-            </li><li>Name of school is required to allow organisation of classes, results in class groups for teachers to view, Scorcher
-            leaderboard records, and special school discount subscription rates.
-            </li><li>Subscriber type tells Cambridge HOTmaths whether you are a teacher or student. Cambridge HOTmaths offers different features to different
-            subscriber types.
-            </li><li>Cambridge HOTmaths also adds a cookie to your computer as an important part of interacting with your web browser and your
-            computer. This is so that Cambridge HOTmaths knows if the computer you are using has visited Cambridge HOTmaths before and to ensure that
-            only one person can access your account at any time.
-            </li><li>Cambridge HOTmaths does not collect any information such as date and time of visit by anyone visiting the public sections
-            of the site who has not logged on to the site.
-        </li></ul>
+            <li>Cambridge HOTmaths collects information that identifies you when you register on the site for a Cambridge HOTmaths account.</li>
+            <li>When you subscribe to Cambridge HOTmaths, you are asked for your first and last name, a username, password, email address, sex, subscriber type, postcode and school.</li>
+            <li>Cambridge HOTmaths collects a username and password so that only you can access your account. Designated Cambridge HOTmaths administrators at your school have access to usernames and passwords for students at your school so that they can remind you if you forget them. Cambridge HOTmaths school administrators may not give your username and password to any other user and they are required to treat this as confidential information.</li>
+            <li>Last name is collected to allow your teacher to view your progress activity report, which will be organised alphabetically with the names of your classmates.</li>
+            <li>Email address collection allows Cambridge HOTmaths to contact you about changes to the site or to advise you of matters regarding your use of the site.</li>
+            <li>Postcode data allows Cambridge HOTmaths to analyse student demand geographically.</li>
+            <li>Name of school is required to allow organisation of classes, results in class groups for teachers to view, Scorcher leaderboard records, and special school discount subscription rates.</li>
+            <li>Subscriber type tells Cambridge HOTmaths whether you are a teacher or student. Cambridge HOTmaths offers different features to different subscriber types.</li>
+            <li>Cambridge HOTmaths also adds a cookie to your computer as an important part of interacting with your web browser and your computer. This is so that Cambridge HOTmaths knows if the computer you are using has visited Cambridge HOTmaths before and to ensure that only one person can access your account at any time.</li>
+            <li>Cambridge HOTmaths does not collect any information such as date and time of visit by anyone visiting the public sections of the site who has not logged on to the site.</li>
+        </ul>
     <p></p>
     <p>
         </p><h3>Information sharing and disclosure</h3>
         <ul>
-            <li>Cambridge HOTmaths does not give, rent, lease or sell any personally identifying information about you to another individual,
-            organisation or company outside Cambridge HOTmaths.
-            </li><li>You can share your own progress reports with a teacher or parent if you choose. You can also remove the right of
-            someone to view your progress. Cambridge HOTmaths does not share your progress information with any other user.
-        </li></ul>
+            <li>Cambridge HOTmaths does not give, rent, lease or sell any personally identifying information about you to another individual, organisation or company outside Cambridge HOTmaths.</li>
+        </ul>
     <p></p>
     <p>
         </p><h3>Exceptions</h3>
         <ul>
-            <li>The only exception to your privacy would be if Cambridge HOTmaths were required by a court order or subpoena to provide
-            information deemed relevant to legal misuse of the site.
-        </li></ul>
+            <li>The only exception to your privacy would be if Cambridge HOTmaths were required by a court order or subpoena to provide information deemed relevant to legal misuse of the site.</li>
+        </ul>
     <p></p>
     <p>
         </p><h3>Your control over your personally identifying information</h3>
         <ul>
-            <li>All personally identifying information collected by Cambridge HOTmaths can be edited and changed by you through the ?Edit
-            your details? section.
-            </li><li>No person other than you and the Cambridge HOTmaths team can access any of your details. The Cambridge HOTmaths team would only
-            manually edit your details if you request that this be done for you.
-        </li></ul>
+            <li>Personally identifying information collected by Cambridge HOTmaths can be edited and changed by you through the 'Edit my personal details' section.</li>
+            <li>No person other than you, the Cambridge HOTmaths team and designated school Cambridge HOTmaths administrators can access any of your details. The Cambridge HOTmaths team would only manually edit your details if you request that this be done for you.</li>
+        </ul>
     <p></p>
     <p>
         </p><h3>Security of information</h3>
         <ul>
-            <li>Your personal information is password protected. For your own protection, do not allow anyone else to know or
-            use your password
-            </li><li>SSL encryption is used in some areas of the site where sensitive data is transmitted.
-        </li></ul>
+            <li>Your personal information is password protected. For your own protection, do not allow anyone else to know or use your password</li>
+            <li>SSL encryption is used in some areas of the site where sensitive data is transmitted.</li>
+        </ul>
     <p></p>
     <p>
         </p><h3>Changes to this policy</h3>
         <ul>
-            <li>Cambridge HOTmaths may change this policy from time to time. If it does so, you will be notified by a message in your
-            Cambridge HOTmaths message centre.
-        </li></ul>
+            <li>Cambridge HOTmaths may change this policy from time to time. If it does so, you will be notified by a message in your Cambridge HOTmaths message centre.</li>
+        </ul>
     <p></p>
     <p>
         </p><h3>Further information</h3>
         <ul>
-            <li>If you would like further information about this policy or about Cambridge HOTmaths, click on CONTACT US and complete the
-            form in the "General enquiry' link.
-        </li></ul>
+            <li>If you would like further information about this policy or about Cambridge HOTmaths, click on CONTACT US and complete the form in the "General enquiry' link.</li>
+        </ul>
     <p></p>
 </div>
         <div id="footer">
     <div id="links" align="center">
         <a href="/">home</a>
         <a href="/home/aboutCambridge">about cambridge</a>
+        <a href="/home/help">help</a>
         <a href="/home/privacy">privacy</a>
         <a href="/home/terms">terms of use</a>
         <a href="/home/systemRequirements">system requirements</a>
