@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loogames.com privacy policy that was archived on 2010-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100719103927id_/http%3A//www.loogames.com/page/1/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loogames.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211004856id_/http%3A//www.loogames.com/page/1/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Girls Dress up Games
+# Privacy Policy
 
 This Policy applies to all of the products, services and websites offered by loogames.com or its subsidiaries or affiliated companies. In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
@@ -26,7 +26,3 @@ If you have any additional questions or concerns about this Policy, please feel 
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
 * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-239 players online   
-7252 players today   
-Registered Users: 469 
