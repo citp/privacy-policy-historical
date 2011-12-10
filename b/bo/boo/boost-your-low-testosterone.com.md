@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boost-your-low-testosterone.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622162216id_/http%3A//www.boost-your-low-testosterone.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boost-your-low-testosterone.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210101610id_/http%3A//www.boost-your-low-testosterone.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy! Your privacy on this website
 
 We recognize that your privacy is important. So here is our privacy policy. This document outlines the types of personal information we receive and collect when you use www.boost-your-low-testosterone.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
