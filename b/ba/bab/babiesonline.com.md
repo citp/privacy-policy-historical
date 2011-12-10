@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623035301id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210034902id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Babies Online
 
@@ -44,6 +44,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided. 
 
   * Email us via our [Contact Form](https://web.archive.org/forms/contact)
+  * To update communication or marketing preferences with a sponsor after a member has opted to share information to receive a third-party offer, the member will have to contact that sponsor directly to opt-out of that advertiser's direct communications.
 
 
 
