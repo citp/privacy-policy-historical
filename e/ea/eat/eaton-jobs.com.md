@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaton-jobs.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224202049id_/http%3A//www.eaton.com/Eaton/OurCompany/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaton-jobs.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210183603id_/http%3A//www.eaton.com/Eaton/OurCompany/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ In general, you can visit this Web site without telling us who you are or provid
 If you voluntarily provide information, Eaton, its subsidiaries and affiliates ("Eaton") may use that information to send you products, information or services. In order to do this, we may when necessary share information with business partners, financial institutions, shipping companies, postal authorities or government. In connection with a transaction, we may contact you for a customer satisfaction survey.  
  
 
-Please read the following policy to understand how your information will be treated and used at this site. This policy may change from time to time, so please revisit this page periodically. Your acceptance of these terms and conditions is required to proceed further and is indicated by clicking on the appropriate icon below.  
+Please read the following policy to understand how your information will be treated and used at this site. This policy may change from time to time, so please revisit this page periodically.  
  
 
 **Disclosure and Use of Personal Information**  
