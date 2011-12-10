@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectordiary.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430195155id_/http%3A//vectordiary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectordiary.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210031443id_/http%3A//vectordiary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vector Diary
 
