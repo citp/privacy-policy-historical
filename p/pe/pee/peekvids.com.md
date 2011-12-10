@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peekvids.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514134042id_/http%3A//www.peekvids.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peekvids.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210013109id_/http%3A//www.peekvids.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Privacy « Peekvids.com
 
