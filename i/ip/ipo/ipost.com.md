@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125062339id_/http%3A//www.ipost.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210163557id_/http%3A//www.ipost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iPost.com
+# Privacy Policy | iPost
 
 The personal privacy of Internet users is extremely important to iPost and we recognize and support the protection of clients' and consumers' privacy rights as a fundamental principle of our business.
 
@@ -18,7 +18,7 @@ Users of our website are notified on the website when their information is being
 
 iPost contractually prohibits our clients from sending email that fits the definition of unsolicited commercial email or "spam." The term "spam" refers to emailing a message to address(es) that have not asked to receive it. iPost strictly enforces this policy. We insist that our clients send messages with iPost only to recipients who have subscribed, indicating that they wish to receive mailings from our client. In addition, every message sent using the iPost service provides information about unsubscribing from (that is, choosing not to receive) future mailings.
 
-Our UCE policy is rigorously enforced. iPost may terminate service or take any other action against a client who violates this policy. We encourage recipients and others to report violators. If you believe you have received an email in violation of this policy, please send a message to [privacy@ipost.com](mailto:privacy@ipost.com).
+Our UCE policy is rigorously enforced. iPost may terminate service or take any other action against a client who violates this policy. We encourage recipients and others to report violators. If you believe you have received an email in violation of this policy, please send a message to[privacy@ipost.com](mailto:privacy@ipost.com).
 
 **Cookies**
 
@@ -58,7 +58,7 @@ From time to time we may request information from users via forms or surveys. Pa
 
 **Security**
 
-This website (www.ipost.com) does not collect highly sensitive information (such as credit card numbers or Social Security numbers) from our users. For information about security on our client-only service site, see the iPost Mailing Manager ASP Site section below.
+This website ([www.ipost.com](http://www.ipost.com/ "www.ipost.com")) does not collect highly sensitive information (such as credit card numbers or Social Security numbers) from our users. For information about security on our client-only service site, see the iPost Mailing Manager ASP Site section below.
 
 **Unsubscribing/Updating Personal Information**
 
@@ -66,14 +66,14 @@ If a user's personally identifiable information changes (such as the zipcode), o
 
 Every message the iPost service sends contains instructions that allow you unsubscribe from messages sent via iPost from the sender of that particular message. iPost notifies our clients of unsubscribe requests, and we permanently retain and respects such requests in our own database.
 
-To contact iPost to request removal from future iPost email communications from any or all senders, you can do one of the following: 
+To contact iPost to request removal from future iPost email communications from any or all senders, you can do one of the following:
 
-  1. Send email to [optout@ipost.com](mailto:optout@ipost.com) specifying the address that you wish to unsubscribe, or
+  1. Send email to [optout@ipost.com](mailto:optout@ipost.com) specifying the address that you wish to unsubscribe, or
   2. Send mail to the US postal address:  
 iPost  
 Attn: iPost Optout  
-899 Northgate Drive   
-Suite 200   
+899 Northgate Drive   
+Suite 200   
 San Rafael, CA 94903
   3. Call one of the following numbers:  
 1-415-382-4000 (if you're outside USA) or  
@@ -83,16 +83,16 @@ San Rafael, CA 94903
 
 **iPost Mailing Manager (iMM) Site**
 
-This site (www.ipost.com) contains a link to the iPost Mailing Manager (iMM) site. The iMM site is not a consumer site, and may only be accessed by iPost clients with passwords. By using the ASP site, clients are bound by rules and regulations found in their Service Agreement which includes content and privacy regulations for any mailing performed with the iPost service.
+This site ([www.ipost.com](http://www.ipost.com/ "www.ipost.com")) contains a link to the iPost Mailing Manager (iMM) site. The iMM site is not a consumer site, and may only be accessed by iPost clients with passwords. By using the ASP site, clients are bound by rules and regulations found in their Service Agreement which includes content and privacy regulations for any mailing performed with the iPost service.
 
 The iMM website takes every reasonable precaution to protect our clients' and email recipients' information. When users submit information via the website, that information is protected both online and offline. When the iMM site asks users to enter sensitive information or displays sensitive information, that information is encrypted and is protected with the standard SSL security protocol. While on an SSL-secured page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked.
 
 While we use SSL encryption on the iMM site to protect sensitive information online, we also take reasonable measures to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected.
 
-If you have any questions about the security at our website, you can send an email to [privacy@ipost.com](mailto:privacy@ipost.com).
+If you have any questions about the security at our website, you can send an email to [privacy@ipost.com](mailto:privacy@ipost.com).
 
 **Notification of Changes**
 
 If we materially change our privacy policy, we will post a notice on our web site's homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-You can review the most current version of the Privacy Policy at any time by clicking the Privacy Policy link on the iPost website. If you have any questions about this Privacy Policy, please contact [privacy@ipost.com](mailto:privacy@ipost.com).
+You can review the most current version of the Privacy Policy at any time by clicking the Privacy Policy link on the iPost website. If you have any questions about this Privacy Policy, please contact [privacy@ipost.com](mailto:privacy@ipost.com).
