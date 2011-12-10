@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilemoviesite.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530051105id_/http%3A//www.mobilemoviesite.com/2011/05/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilemoviesite.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210153220id_/http%3A//www.mobilemoviesite.com/2011/05/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Movies - Download Free 3gp Mp4 Avi Movies For Mobiles
 
