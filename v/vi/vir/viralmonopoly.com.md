@@ -1,100 +1,98 @@
-> *The following text is extracted and transformed from the viralmonopoly.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralmonopoly.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210203546id_/http%3A//www.viralmonopoly.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+OUR ONLINE PRIVACY POLICY  
+ 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Viral Monopoly has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer) online. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+1.Consent for Collection, Use and Disclosure
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Your use of the Viral Monopoly site and/or your registration for Viral Monopoly products and services constitute your consent to the terms of this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Viral Monopoly site. 
 
-**Information Collection and Use**
+Viral Monopoly may occasionally update this Privacy Policy. When it does, Viral Monopoly will also revise the “last update” date at the top of this Privacy Policy. In addition, Viral Monopoly will seek a customer’s prior consent, by email, for any new uses or proposed disclosures of information collected from the customer prior to the change. Viral Monopoly will notify customers by email of changes to this policy that will affect information collected from them in the future. In certain circumstances, however, Viral Monopoly will not inform and obtain the consent of the customer, such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the life, health or security of an individual is threatened, the collection of a debt or in compliance with the request of a law enforcement agency or a court order.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+A customer may withdraw his or her consent for collection, use and disclosure at any time by contacting us  [ here](http://www.viralmonopoly.com/support) or by fax to 480-393-5100. Please note that if you do, Viral Monopoly may suspend its provision of products and services to you. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+2\. Accountability
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Viral Monopoly collects, at the time of your registration and your sign-on to its web site, certain “personal information” (information that personally identifies you) including but not limited to your name, email address, home or work address, telephone number etc. and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses). 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Viral Monopoly has implemented this Privacy Policy to protect personal information received from its customers, and to respond to any inquiries. The Privacy Policy also provides that Viral Monopoly will use appropriate contractual means to establish a comparable level of protection for personal information which is sent for processing by third parties on Viral Monopoly behalf. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+3\. Purposes for Collecting Personal Information
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Viral Monopoly collects and uses personal information for the following purposes:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+(a) to understand customer needs regarding Viral Monopoly services;
 
-**Security**
+(b) to develop and provide our web site and our products and services for our customers;
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+(c) to fulfill your requests for products, services or information; 
 
-**Updating Your Information**
+(d) to communicate with customers and site visitors, when necessary, and to inform customers of upgrades, as well as of other products and services available from Viral Monopoly, its affiliates and third parties;
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+(e) to allow customers to access limited-entry areas of Viral Monopoly site;
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+(f) to personalize some of our services and products for you and to deliver targeted advertisements and offers from Viral Monopoly and third parties;
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+(g) to bill accounts and maintain payment records; 
 
-      iii.      You may call us at: (480) 505-8800
+(h) to comply with any applicable law, regulation, legal process or government request;
 
-       iv.      You may fax us at: (480) 505-8844
+(i) to respond to a legitimate claim, or to address our reasonable belief, that you are violating the rights of any third party or any of the agreements or policies that govern your use of the Viral Monopoly site or any Viral Monopoly product or service;
 
-**Sending Emails**
+(j) to protect the services, products or rights of Viral Monopoly, including but not limited to the security or integrity of the Viral Monopoly site; and
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+(k) to identify and resolve technical problems concerning Viral Monopoly site, products and services.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Viral Monopoly also uses personal information in an aggregate form (i.e., not individually attributable to you) for its business analysis, operational, marketing and other promotional purposes.If we hire other companies to provide some products or services on our behalf, then we will only provide those companies the personal information they need for the Identified Purposes, and we will limit their rights to use and further disclose your personal information as appropriate in the course of their work for us.
 
-**Compliance with Laws and Law Enforcement**
+4\. Limiting the Collection of Personal Information
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Viral Monopoly limits its collection of personal information to only that information which is necessary for the Identified Purposes. Viral Monopoly does not direct its site to, nor does it knowingly collect any personal information from children under the age of thirteen.
 
-**Third Party Service Providers**
+When you visit the Viral Monopoly web site, a cookie may be placed on your computer or the cookie may be read if you have visited the Viral Monopoly site previously. Viral Monopoly uses cookies to allow Viral Monopoly to determine which products and services you have already purchased so that Viral Monopoly does not provide redundant information to you, and, if you are an Viral Monopoly affiliate, to track Viral Monopoly sales made to customers referred by you so that you can receive compensation under our affiliate program. If you choose to not have your browser accept cookies from the Viral Monopoly web site, you may not be able to view all the text on the screens, or to experience a personalized visit, or to subscribe to certain service and product offerings on the Viral Monopoly site.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+5\. Disclosure, Processing and Retention 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+From time to time, Viral Monopoly may disclose certain personally identifiable information with affiliated business partners or authorized third parties on a need to know basis for evaluating authorized customers for service eligibility. With exception to the above, Viral Monopoly  does not sell, rent or disclose your personal information to anyone else, except:
 
-**Supplementation of Information**
+(a) to someone you have designated to act as your agent, for one or more of the Identified Purposes (listed in Section 2, above);
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+(b) to Viral Monopoly employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, suppliers and agents, acting on Viral Monopoly behalf for any of the Identified Purposes;
 
-**Contests/Surveys**
+(c) as necessary if Viral Monopoly has reason to believe that disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with Viral Monopoly rights or property, other users of Viral Monopoly web site, products or services, or anyone else that could be harmed by such activities; and
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+(d) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+In addition, as we continue to develop our business, we or our affiliates may sell or buy other businesses or entities, or we may merge with another company. In such transactions, personal information may be one of the transferred business assets. Also, in the event that Viral Monopoly or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
 
-**Tell-A-Friend**
+Your information may be stored and processed in the United States, or in any other country in which Viral Monopoly or its affiliates, subsidiaries or agents maintain facilities. By using this web site, you consent to any such transfer of information outside of your country. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+After your account becomes inactive (that is, if you request to be removed from our database), Viral Monopoly will keep your personal information in its archives. Your information will then be used only as necessary for tax reasons or to prove Viral Monopoly compliance with any applicable law. 
 
-**What Happens to my Personal Information if I Opt Out?**
+6\. Accuracy of Personal Information
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Viral Monopoly will use reasonable efforts to keep customer personal information accurate for the Identified Purposes, and for minimizing the possibility of making inappropriate customer decisions based on such information. Customers are responsible for informing Viral Monopoly about changes to their personal information. You can do this by contacting us at the information below. Viral Monopoly will use new or updated personal information it receives from customers to update its own records. 
 
-**Transfer of Data Abroad**
+7\. Security Safeguards
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Viral Monopoly will use reasonable efforts to protect customers’ personal information.
 
-**Changes in Our Practices**
+8\. Access to Personal Information
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Viral Monopoly will afford you a reasonable opportunity to review the personal information in your file, if you so request by faxing 480-393-5100 or writing to: 
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+Performance Marketing
 
-**Contacting Our Site**
+75 Horizon View Pl.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Calgary, Alberta, Canada
 
-* * *
+T3Z 3M3
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If Viral Monopoly is not able to provide access to some aspect of a customer’s personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney–client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
+
+Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting Viral Monopoly or as described above. Viral Monopoly will promptly correct such personal information.
