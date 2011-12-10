@@ -1,26 +1,7 @@
-> *The following text is extracted and transformed from the listbuck.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523075653id_/http%3A//www.listbuck.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listbuck.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210024846id_/http%3A//www.listbuck.com/privacy.php) for the most accurate reproduction.*
 
 # ListBuck: The Credit Mailer with Cash Rewards
 
-| Text Advertisements  
----  
-|    
----  
-Add Title  
-Text adv Text advText advText advText advText advText advText advText adv  
-   
-| Add Title  
----  
-Text adv Text advText advText advText advText advText advText advText adv  
-   
-| Add Title  
----  
-Text adv Text advText advText advText advText advText advText advText adv  
-   
-| Add Title  
----  
-Text adv Text advText advText advText advText advText advText advText adv  
-   
 Privacy Policy
 
 What information do we collect?  
