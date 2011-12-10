@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypilotstore.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523193124id_/http%3A//www.mypilotstore.com/MyPilotStore/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypilotstore.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210231425id_/http%3A//www.mypilotstore.com/MyPilotStore/Privacy) for the most accurate reproduction.*
 
 # MyPilotStore.com - Privacy and Security at MyPilotStore.com
 
