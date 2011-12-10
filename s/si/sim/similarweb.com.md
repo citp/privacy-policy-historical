@@ -1,43 +1,95 @@
-> *The following text is extracted and transformed from the similarweb.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208052621id_/http%3A//www.similarweb.com/Legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the similarweb.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210034957id_/http%3A//www.similarsites.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Similar Sites - Privacy Policy
 
-We respect your privacy because we treasure ours
+To read our Terms of use, please visit this [page](http://www.similarsites.com/similarweb/termofuse.aspx "Similar web terms of use").
 
-We here at SimilarWeb treasure our privacy and thatâ€™s exactly why we made every effort to create a service that would live up to user privacy standards we would be comfortable with. 
+Similarsites.com (" **Website** ")is a website owned and operated by SimilarWeb Ltd. (" **SimilarWeb** "," **We** " or " **Us** ") We treasure our privacy and that is why we made every effort to create a service that would live up to such user privacy standards we would be comfortable with.
 
-## User Consent
+ ** _User Consent_**
 
-When you use this site and its services you consent to collection, use and disclosure of your information as described in this privacy statement. SimilarWeb LTD, (â€œSimilarWebâ€, â€œWeâ€ or â€œUsâ€) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by SimilarWeb when you make use of the SimilarWeb site, sidebar and related services (the â€œServiceâ€ or "Sidebar") and how the information will be used. We will not use or share your information with anyone except as described in this Privacy Policy. This Policy may be updated from time to time and therefore we ask you to check back periodically the most updated form of Policy as indicated below. Your continued use of the Products and this Site after this Policy has been amended and the "Last Updated" date has been modified, shall be deemed to be your continued acceptance of the terms of this Policy, as amended. 
+When you use this Website and its services,you consent to the collection, use and disclosure of your information asdescribed in this Privacy Policy.
 
-## Information that we collect
+SimilarWeb knows that you care howinformation about you is used and shared.
 
-Information collected online can generally be categorized as either non-personal information or personally identifiable information. Non-personal information is information that cannot by itself be traced back to a specific individual. For example, we know how many search queries we receive each day but we do not know the names and email addresses of the persons submitting the queries. We respect and protect the privacy of our users and take appropriate steps to safeguard your personal information. The use of this website and its related software, upgrades or updates and all related services and special offers (the "Product") are subject to the here under provisions of this Policy. 
+This Privacy Policy explains whatinformation of yours will be collected by SimilarWeb, and stored on its servers,when you make use of the Website or software downloaded from the Website(" **Product** ")and how the information will be used.
 
-## Information you give us
+We will not use or share your informationwith anyone except as described in this Privacy Policy.
 
-Currently, we donâ€™t ask you to register for SimilarWeb because we simply donâ€™t need you to. When you send email or make a vote in our Sidebar, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+This Privacy Policy may be updated fromtime to time and therefore we ask you to check back periodically the mostupdated form of Privacy Policy as indicated below. Your continued use of theProduct and/or this Website after this Privacy Policy has been amended shall bedeemed as your continued acceptance of the terms of this Privacy Policy, asamended.
 
-## Automatic Tracking
+ ** _Information Collected_**
 
-Our server automatically collects additional information about your use of our website (navigational data). Navigational data includes the type of browser you are using, your IP address, the URL you have come from and the time spent at that URL, cookies and your domain type and server. This kind of information is collected by many sites and used to monitor use of the relevant site. If you use our Sidebar, it will contact our servers periodically or in response to certain actions you take in your browser. Each of those contacts generates the same kind of information generated when you visit our website, as described above. Additionally, the Sidebar will transmit whatever data is necessary to provide particular features of the Sidebar and to monitor their use. Our Sidebar will be able to and may track certain information including online navigational information about you and your correspondence in order to perform internal research on our users' demographics, interests, and behavior. This non-personal information is collected in aggregate form, without identifying any user individually. Non-personally identifiable information may be analyzed by us for the purpose of improving and expanding the functionality of our Product. In addition, the Product checks regularly for product update on our servers and download such updates when needed. 
+ _Personal Information_
 
-## Disclosure of Users Data to Third Parties
+Currently, We do not ask you to registerfor Site because We simply do not need you to. We do not require the submissionof any information that identifies your personally, such as your name,address and so on (" **Personal Information** "),however, when youcommence direct communications with us, we may retain such communications andthe accompanying Personal Information in order to process your inquiries,respond to your requests and improve our services.
 
-We may disclose aggregated user statistics and anonymous navigational data in aggregated form to potential and actual advertisers, sponsors, investors, partners, consultants and advisers. This information and data which we supply will not be identified as your personal information.in some cases a partner may use the anonymous navigational data to create aggregated non-personally identifiable data for research purposes. We reserve the right to use and disclose non-personal Information to third parties in our discretion. Otherwise, we do not disclose personal information, such as your email address, unless we are required to do so by law, regulation, an applicable industry code, for safety reasons or where we reasonably believe that you are in breach of the terms and conditions of use of the Site or are engaged in illegal activities.
+ _Statistical Information_
 
-## Links and Displayed Sites
+We collect and aggregate non-identifying informationregarding user use of our Website, including, inter alia, advertisementsviewed, pages browsed, search inquiries, offers and services that interestedyou, the type of browser you are using, your IP address, the URL you have comefrom and the time spent at that URL, cookies and your domain type and server(" **Statistical Information** ").
 
-As part of our core functionality, the Product may discover and recommend content that the Product determines may be of interest to you. We do not have control over third-party websites or their information collection practices and we are not responsible for the privacy practices or the content of such linked or otherwise displayed sites.
+ _Browsing History and IP_
 
-## Disclosure of Personal Information
+In order to facilitate, improve, refine, personalizeand match the identification and presentation of Similar Sites to your browsingpreferences and habits, we collect information regarding your use of ourProduct including URL and Statistical Information of websites you may be browsingwhile Product is installed (" **Browsing History** ", and togetherwith the Statistical Information " **Non-Personal Information** ").
 
-We may share some or all of your personal information with any subsidiaries, joint ventures, or other companies under a common control we have or may have in the future (collectively, "Affiliates").In which case we will require our Affiliates to honor this Privacy Policy. 
+While we would never collect any  _PersonalInformation_  submitted to such websites, note that Browsing History isaggregated separately for each specific IP, in order to provide the mostrelevant SimilarSites for each different location.  
 
-## Disclosure of Information in the Event of a Merge
+That said, IP addresses, while identifyinga device connected to the Internet, and its general location, are in themselvesanonymous and contain no information regarding the identity of the ultimateperson using the device – such identity is known solely to your ISP.
 
-We may merge or be acquired by another business entity or may sell all or substantially all of our assets to an acquirer. In the event of such merger, acquisition or sale, We may share some or all or your personally identifiable information with the acquiring company in order to continue serving you. In such event and if applicable, We will provide notice that such information is transferred and becomes subject to a different privacy policy. 
+Moreover, IP addresses assigned by ISPs aregenerally dynamic and subject to frequent change – static IP addresses aregenerally assigned only at subscriber's specific request and frequently requirean additional fee.
 
-If you have any questions about this Policy, please contact us at info@similarweb.com 
+ _ **Service & Product Provided from the United States**_
 
-**Last updated April 2, 2010**
+When you make use of the Website or the Product from outside the United States, please be aware that the information collected is being transferred to, stored and processed in the United States where our servers are located and our central database is operated. By using the Product and/or using the Website, which are provided exclusively from the United States, you hereby consent to the transfer of your information to the United States and its collection, storage, sharing and use as described in this Privacy Policy. _The data protection and other laws of the United States and other countries might not be as strict and/or comprehensive as those in your country; nonetheless, our services and Product are not subject to any data protection laws or regulations which are not referred to in this policy_. 
+
+_**Use by Children**_
+
+We do not offer products or services for use by children. If you are under 18, you may not use the Website or the Product without involvement of a parent or a guardian. We do not knowingly collect information from, and/or about children.
+
+ ** _Product Updates_**
+
+The Product performs regular checks forproduct updates on our servers and may download such updates when needed.
+
+ ** _Use of Collected Information_**
+
+ _Personal Information_
+
+Personal Information shall be used solely in orderto process your inquiries, respond to your requests and improve our services.
+
+We may share some or all of your PersonalInformation with our subsidiaries, joint ventures or other companies under acommon control that we have or may have in the future, providingsuch party undertakes to protect your privacy in accordance with these terms.
+
+Otherwise, we will not disclose yourPersonal Information to any third party, unless:
+
+·        Required to do so as part of any legalproceedings conducted between you and SimilarWeb.
+
+·        Required to do so by court order.
+
+·        In case the activity of the Website istransferred to a third party, providing such party undertakes to protect yourprivacy in accordance with these terms.
+
+ _Non-Personal Information_
+
+Non-Personal Information shall be used to ensurethe adequate operation, improve, modify, cancel, enrich or adjust the Websiteand/or the Product, in general or to your area of interest.
+
+We reserve the right to use, disclose, and\ortransfer (for business purpose or otherwise) Non-Personal Information (in theform collected) to third parties, including,  _interalia_ , potential and actual advertisers, sponsors, business partners,investors, affiliates and consultants, at our sole discretion.
+
+ ** _Cookies_**
+
+We use Cookies in order to ensure proper operation,collect Statistical Information, verify information, tailor the Website andProduct to your specific preferences and ensure information security.
+
+Please note that modern browsers enable youto disable Cookies (if you do not know how to do this, check out the Help file ofyour browser), however, this may interfere with your use of the Website or itsservices.
+
+ ** _Third Party Advertisements_**
+
+We use third-party advertising companies inorder to serve advertisements on our Website. Such parties may use Cookies placedon your computer in order to a adjust the advertisements presented on the Website.Note that such use is subject to the privacy policy of said parties and is notsubject to these terms (for example, regarding advertisements served by Google,see[http://www.google.com/privacy/ads](http://www.google.com/privacy/ads)).
+
+ ** _Similar Sites_**
+
+The Product may discover and recommendthird-party websites the Product determines may be of interest to you(" **SimilarSites** "). We do not have control over such SimilarSites, or otherthird-party websites we may link to from our Website, including theirinformation collection practices, and we are not responsible for their privacypractices or contents.
+
+ ** _Information Security_**
+
+Note that although we take measures tosecure the information and reduce the risk of unwanted disclosure, we can not guaranteethe information will not be exposed as a result of unauthorized penetration toour servers.
+
+If you have any questions about thisPolicy, please contact us at Info@SimilarGroup.com
+
+Last update: 10/16/2011
