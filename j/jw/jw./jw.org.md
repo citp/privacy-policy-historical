@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jw.org privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613064658id_/http%3A//www.jw.org/index.html%3Foption%3DYRTNYCsVtNPL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jw.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210032026id_/http%3A//www.jw.org/index.html%3Foption%3DYRTNYCsVtNPL) for the most accurate reproduction.*
 
 # jw.org :: Privacy Policy
 
