@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611083534id_/http%3A//www.fox17.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox17.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210022737id_/http%3A//fox17.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WZTV FOX17 :: Privacy Policy
 
@@ -34,15 +34,15 @@ The Website allows certain advertisements/postings which include links to other 
 
 5:30PM King of the Hill
 
-6:00PM Two And A Half Men
+6:00PM Two and a Half Men
 
-6:30PM How I Met Your Mother
+6:30PM Two and a Half Men
 
-7:00PM Bones
+7:00PM Kitchen Nightmares
 
-8:00PM Lie to Me
+8:00PM Fringe
 
-9:00PM FOX17 News at 9:00
+9:00PM FOX News at 9:00
 
 * * *
 
@@ -50,15 +50,13 @@ The Website allows certain advertisements/postings which include links to other 
 
 [To FOX.com](http://www.fox.com/)
 
-73°
+37°
 
 [](https://web.archive.org/newsroom/wx/#iradar)
 
 ## Forecast
 
-**TONIGHT:** Mostly clear, with lows in the upper 60s and lower 70s. West southwest wind around 5 mph becoming calm. 
-
-**SATURDAY:** Scattered showers and thunderstorms ...
+Some overnight clouds will pass through Middle Tennessee, but clearing out by Saturday morning.  A cold air mass will keep the skies clear and sunny on Saturday through Monday.  Saturday night ...
 
 [](https://web.archive.org/newsroom/wx/)
 
