@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edvisors.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426101313id_/http%3A//www.edvisors.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edvisors.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210045655id_/http%3A//www.edvisors.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Edvisors
 
