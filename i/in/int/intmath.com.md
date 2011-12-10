@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928043500id_/http%3A//www.intmath.com/Help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210040442id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,20 +20,19 @@ The poll cookie is a persistent cookie, which means it will stay on your compute
 
 We use third-party advertising companies to serve ads when you visit this website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/).
 
+One such advertiser is lijit.com, whose privacy policy can be found here: [lijit privacy policy](http://www.lijit.com/company/privacy-policy).
+
 ## Questions or Concerns
 
-Please use the [Comments](https://web.archive.org/web/20100928043500id_/http%3A//www.intmath.com/Help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
-
-  
-
-
-[ ](http://www.softmath.com/adv/mathint-b.html)
-
-  
-  
-
+Please use the [Comments](https://web.archive.org/web/20111210040442id_/http%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
 
 Didn't find what you are looking for on this page? Try **search** :
+
+### Online Algebra Solver
+
+This algebra solver can solve a wide range of math problems. (Please be patient while it loads.)
+
+[ ](http://www.intmath.com/help/problem-solver.php)
 
 ### Math Lessons on DVD
 
@@ -43,19 +42,23 @@ Easy to understand math lessons on DVD. See samples before you commit.
 
 More info: [Math videos](http://www.intmath.com/help/math-videos/?topic=math)
 
-### Bookmark this page
+### Ready for a break?
 
-Add this page to diigo, Redditt, etc.
+[ ](http://www.intmath.com/games/games.php?a=3)
 
-### Like Us on Facebook!
+Play a [math game](http://www.intmath.com/games/games.php?a=3).
+
+(Well, not really a math game, but each game was made using math...)
 
 ### The IntMath Newsletter
 
 Sign up for the free **IntMath Newsletter**. Get math study tips, information, news and updates each fortnight. Join thousands of satisfied students, teachers and parents!
 
-**Need a break?** Play a **math game**. Well, they all involve math... No, really!
+### Share IntMath!
 
-[ ](http://www.intmath.com/games/games.php?a=0) [ ](http://www.intmath.com/games/games.php?a=1) [ ](http://www.intmath.com/games/games.php?a=2) [ ](http://www.intmath.com/games/games.php?a=3) [ ](http://www.intmath.com/games/games.php?a=4) [ ](http://www.intmath.com/games/games.php?a=5) [ ](http://www.intmath.com/games/games.php?a=6)
+This page has
 
-  
+  * 2 tweets
+  * 1 Facebook likes & comments
+.
 
