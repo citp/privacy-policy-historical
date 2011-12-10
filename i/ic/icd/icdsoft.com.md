@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icdsoft.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421230807id_/http%3A//icdsoft.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icdsoft.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210160938id_/http%3A//www.icdsoft.com/privacy.php) for the most accurate reproduction.*
 
 # ICDSoft.com - Privacy
 
