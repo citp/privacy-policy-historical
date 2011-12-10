@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dvia.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423211057id_/http%3A//www.3dvia.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dvia.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210224312id_/http%3A//www.3dvia.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy on 3DVIA.com
 
