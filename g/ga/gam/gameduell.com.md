@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the gameduell.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123054201id_/http%3A//www.gameduell.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210030153id_/http%3A//www.gameduell.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Protection at GameDuell
 
-|  |   | 
+|  | 
+
+## **Info & Help**  
+  
+---  
+|   
+  | 
 
   
 
@@ -89,6 +95,4 @@ GameDuell INC
 235 Montgomery St. Suite 960  
 San Francisco, CA 94104
 
-**Date Last Modified: May 27, 2008.**  
-  
----|---|---
+**Date Last Modified: May 27, 2008.**
