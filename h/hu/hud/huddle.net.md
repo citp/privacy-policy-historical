@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615095653id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210145027id_/http%3A//www.huddle.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Huddle
+# Privacy Policy | Huddle.com
 
 **Huddle Privacy Policy**
 
