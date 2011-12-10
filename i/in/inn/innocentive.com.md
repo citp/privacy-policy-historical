@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417200437id_/http%3A//www.innocentive.com/privacy-policy-last-updated-february-1-2009) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210230021id_/http%3A//www.innocentive.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Last Updated February 1, 2009 | InnoCentive
+# Privacy Policy | InnoCentive
 
 **InnoCentive respects and protects your data privacy rights.** This statement includes both InnoCentive's European Union - U.S. Safe Harbor Privacy Statement and our Website Privacy Statement.
 
@@ -27,6 +27,8 @@ You should be aware that this site is not intended for use by, or designed to at
 **Sharing of Your Information**  
 We may share Your Information with agents, contractors or partners of InnoCentive in connection with services that these individuals or entities perform for, or with, InnoCentive. These agents, contractors or partners are restricted from using this data in any way other than to provide services for InnoCentive, or services for the collaboration in which they and InnoCentive are engaged (for example, our Seekers). By submitting a Proposed Solution to an InnoCentive Challenge, for example, you acknowledge that we may share Your Information with Seekers as part of the Challenge evaluation process, and you consent that we may share Your Information with Seekers for this purpose, and to make Awards in the event that your Proposed Solution is accepted by a Seeker.
 
+If you are referred to a Challenge via another user's referral link, certain activity (e.g, registering, opening a project room for that Challenge, submitting a solution for that Challenge, or receiving an award for that Challenge) may be viewable in an anonymized and aggregated fashion by the referring user. No username, Solver ID, profile information, or other identifiable information will be made available.
+
 InnoCentive reserves the right to share Your Information to respond to duly authorized information requests of governmental authorities or where required by law. In exceptionally rare circumstances where national, state or company security may be at issue, InnoCentive reserves the right to share our entire database of visitors and Solvers with appropriate governmental authorities.
 
 We may also provide Your Information to a third party in connection with the sale, assignment, or other transfer of the business of this website to which the information relates, in which case we will require any such buyer to agree to treat Your Information in accordance with this Privacy Policy.
@@ -47,3 +49,5 @@ InnoCentive, Inc.
 Suite 125  
 Waltham, MA 02451  
 USA
+
+_Last Updated: May 19, 2011_
