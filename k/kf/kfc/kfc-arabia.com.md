@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfc-arabia.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605041337id_/http%3A//kfc-arabia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc-arabia.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210064018id_/http%3A//www.kfc-arabia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome to KFC Arabia - Privacy Policy
 
