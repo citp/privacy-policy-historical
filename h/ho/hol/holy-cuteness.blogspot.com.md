@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holy-cuteness.blogspot.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515004619id_/http%3A//holy-cuteness.blogspot.com/2008/03/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holy-cuteness.blogspot.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210224203id_/http%3A//holy-cuteness.blogspot.com/2008/03/privacy.html) for the most accurate reproduction.*
 
 # Holy Cuteness: Privacy Policy
 
