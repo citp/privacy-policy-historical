@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endicott.edu privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608022947id_/http%3A//www.endicott.edu/Admin/AdminSubPrivacyStmt.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicott.edu privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210171711id_/http%3A//www.endicott.edu/Admin/AdminSubPrivacyStmt.aspx) for the most accurate reproduction.*
 
 # Endicott College - Privacy Statement
 
