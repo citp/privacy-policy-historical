@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629162051id_/http%3A//www.theesa.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210031222id_/http%3A//www.theesa.com/privacy/index.asp) for the most accurate reproduction.*
 
 # The Entertainment Software Association- Privacy Policy
 
 ## Privacy Policy 
 
-_Last updated on June 29, 2010. Click here to print our Privacy Policy._
+_Last updated on October 6, 2010. Click here to print our Privacy Policy._
 
 ### **Our Privacy Commitment**
 
 [](https://www.esrb.org/confirm/esa-confirmation.jsp)
 
-The Entertainment Software Association, and its subsidiaries and affiliates (collectively, "ESA"), respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.  To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store and use the information you provide to us. 
+The Entertainment Software Association, and its subsidiaries and affiliates (collectively, "ESA"), respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.  To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store and use the information you provide to us.
 
 This Privacy Statement and the certification seal shown on this page confirm that ESA is a member in good standing of ESRB's Privacy Online Program.  ESRB's Privacy Online Program is designed to ensure that our Web sites’ information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our Web sites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our Web sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
 
@@ -123,7 +123,7 @@ As mentioned above, you have control over the personal information you submit to
 
 #### What kinds of security measures do we take to safeguard your personally identifiable information?
 
-The security and confidentiality of your information is extremely important to us.  We have implemented technical, administrative and physical security measures to protect your personal information from unauthorized access and improper use.  We use industry standard practices such as physically secured rooms and password protection systems to safeguard the confidentiality of your personal information.  We will notify users of a data breach involving unencrypted personal information by e-mail or by posting a notice on the affected Web site.   From time to time, we review our security procedures to consider appropriate new technology and methods.  However, please understand that, despite our best efforts, no security measure is perfect or impenetrable. 
+The security and confidentiality of your information is extremely important to us.  We have implemented technical, administrative and physical security measures to protect your personal information from unauthorized access, improper use, loss or alteration.  We use industry standard practices such as encrypted communications, physically secured rooms, firewalls and password-protection systems to safeguard the confidentiality of your personal information.  We will notify users of a data breach involving unencrypted personal information by e-mail or by posting a notice on the affected Web site.  We also strive to limit access to personal information to employees performing a legitimate business function.  We periodically review our security procedures to consider appropriate new technology and updated methods.  However, please understand that, despite our best efforts, no security measure is perfect or impenetrable. 
 
 [Back to Top](http://www.theesa.com/privacy/index.asp#container)
 
