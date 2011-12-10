@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the youcanmakethis.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521101053id_/http%3A//www.youcanmakethis.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcanmakethis.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210171732id_/http%3A//www.youcanmakethis.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | YouCanMakeThis.com
+# Privacy | YouCanMakeThis.com
 
-At YouCanMakeThis.com, we take privacy seriously. We work hard to follow the practices that ensure your privacy is respected. For example: 
+## At YouCanMakeThis.com, we take privacy seriously.   
+We work hard to follow the practices that ensure your privacy is respected. For example:
 
   * We never share your private information with any third party. 
   * We never subscribe your email address to any mailing lists or databases without your consent. 
