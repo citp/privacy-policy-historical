@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423005557id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210080112id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Subrion Classified Software, Classifieds Script
 
@@ -49,4 +49,4 @@ Alternatively you can report piracy using our [contact form](http://www.subrion.
 
 ## Testimonials
 
-This team of professionals is patient, reliable, trustworthy and ready to assist you in any way they can. It is comforting to know that a helping hand is always there for you. In a word, Subrion is about quality. We highly recommend their product and their service is second to none. Thanks for such a great product and we sincerely appreciate the level of service that you have been providing us.
+I have downloaded the free software to try it and even though the product was for free, the support was great. At this point I decided to buy the product and I wasn't disappointed they continued to be great at the support team, thank you for that. The script is also very good, it is also validate xhtml strict script and I am enjoying the product very much. 
