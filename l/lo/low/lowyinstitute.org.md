@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611053758id_/http%3A//www.lowyinstitute.org/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210022357id_/http%3A//lowyinstitute.org/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Lowy Institute for International Policy
 
@@ -35,9 +35,11 @@ This web site will be continually improved and updated. This may change the way 
 
 |  | 
 
-[](https://www.lowyinstitute.org/ssl/LowySubscriptions/WLLC_Subscription.asp "Wednesday Lowy Lunch Club")
+[](https://www.lowyinstitute.org/ssl/LowySubscriptions/WLLC_Subscription.asp "Lowy Lecture Subscriptions")
 
 [](http://aidreview.lowyinterpreter.org/ "Interpreting the Aid Review")
+
+[](http://www.lowyinterpreter.org/)
 
 | [](https://web.archive.org/RSSFeeds.asp "Recent Publications RSS Feed")  
 ---  
