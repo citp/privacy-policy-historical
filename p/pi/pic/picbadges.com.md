@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picbadges.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529112750id_/http%3A//www.picbadges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picbadges.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210040125id_/http%3A//www.picbadges.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy « PicBadges
 
 Picbadges Privacy Policy
 
@@ -22,6 +22,4 @@ PicBadges values users’ and websites’ privacy and therefore has set up this 
 
 7\. Emails and Promotional Activity: PicBadges shall provide You with three different email notifications, all with accordance to these terms of service: (i) Action Based Emails: PicBadges shall inform You when activities are performed in Your Account, such as creating new content, takedown notices were filed or any other information requiring your action; (ii) Event Based Email: PicBadges shall inform you alerts and notifications based on events regarding Your account and/or content, such as when Your PicBadge is not pending or when alerts are received and (iii) Updates: Updates and Notifications Regarding Newsletters and Promotional Activities, which will be sent from time to time, and You may opt-out of. By entering into this Agreement, You hereby grant PicBadges Your consent to receive communication, including unsolicited emails, from PicBadges and PicBadges’ 3rd party affiliates.
 
-8\. How can I remove all my information? You can always deactivate Your Account or remove all the information retained on PicBadges’ servers by clicking on “Deactivate My Account” and choose what information to remove from PicBadges’ servers; however, please note that (i) PicBadges may retain some information for limited periods of time for review and processing of information; (ii) when you deactivate Your Account, PicBadges retains the data, but does not display it.
-
-Nevertheless, If you do not think you will use PicBadges again and would like your account deleted, please keep in mind that you will not be able to reactivate your account or retrieve any of the content or information you have added. for having your account permanently deleted with no option for recovery,please send us a specific request using our [contact us](https://web.archive.org/contact/) page.
+8\. How can I remove all my information? You can always deactivate Your Account or remove all the information retained on PicBadges’ servers by clicking on “Deactivate My Account” and choose what information to remove from PicBadges’ servers; however, please note that PicBadges may retain some information for limited periods of time for review and processing of information;
