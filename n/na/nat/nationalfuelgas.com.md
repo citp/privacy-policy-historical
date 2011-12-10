@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalfuelgas.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611193949id_/http%3A//nationalfuelgas.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalfuelgas.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210125450id_/http%3A//www.nationalfuelgas.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ Given the nature of the internet and the fact that no security system is perfect
 
 ## Access, Correct and Update Personal Information
 
-You may obtain a copy of the personally identifiable information that you have provided to National Fuel through your use of our web site and you may correct, change or remove any personally identifiable information by contacting us via the following link <http://www.nationalfuelgas.com/email.asp>.
+You may obtain a copy of the personally identifiable information that you have provided to National Fuel through your use of our web site and you may correct, change or remove any personally identifiable information by contacting us via the following link <http://www.nationalfuelgas.com/email.aspx>.
 
 If you request that the personally identifiable information that you provided to National Fuel be removed from National Fuel's records, please be aware that you may not be able to continue to use National Fuel's online services, which may require the collection of such information.
 
@@ -64,4 +64,4 @@ For your convenience, some pages of our web site offer you the ability to link t
 
 ## Additional Questions
 
-Please [click here](https://web.archive.org/web/20110611193949id_/http%3A//nationalfuelgas.com/email.asp) to contact us if you have any additional questions or comments regarding this Privacy Policy.
+Please [click here](https://web.archive.org/web/20111210125450id_/http%3A//www.nationalfuelgas.com/email.aspx) to contact us if you have any additional questions or comments regarding this Privacy Policy.
