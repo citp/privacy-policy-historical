@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102032241id_/http%3A//www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211005550id_/http%3A//www.locateadoc.com/site_tools/privacy_notice.cfm) for the most accurate reproduction.*
 
-# LocateADoc Disclaimer
+# LocateADoc.com privacy policy
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.locateadoc.com/seal_m "Validate TRUSTe privacy certification")Last Updated: November 8, 2010
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.locateadoc.com/seal_m "Validate TRUSTe privacy certification")Last Updated: July 27, 2011
 
-LocateADoc.com regards your privacy seriously. Our Privacy Policy was developed as an extension of our commitment to excellence in customer service. Our policy was designed to be easy to read and understand what we do with your information and the measures we take to ensure its security. If you have any questions after reading this, please contact us through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/Site_Tools/Privacy_Notice.cfm). **By visiting LocateADoc.com, you are accepting the practices described in this Privacy Notice.**
+LocateADoc.com regards your privacy seriously. Our Privacy Policy was developed as an extension of our commitment to excellence in customer service. Our policy was designed to be easy to read and understand what we do with your information and the measures we take to ensure its security. If you have any questions after reading this, please contact us through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/site_tools/privacy_notice.cfm). **By visiting LocateADoc.com, you are accepting the practices described in this Privacy Notice.**
 
-LocateADoc, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact our Client Services Specialists through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/Site_Tools/Privacy_Notice.cfm), or by phone at (407)-206-0700 Mon-Friday 9AM-5PM EST, or by postal mail at 1060 Woodcock Road, Orlando, FL, 32803. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+LocateADoc, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact our Client Services Specialists through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/site_tools/privacy_notice.cfm), or by phone at (407)-206-0700 Mon-Friday 9AM-5PM EST, or by postal mail at 1060 Woodcock Road, Orlando, FL, 32803. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ## **What Information About its Visitors Does LocateADoc.com Gather?**
 
@@ -74,7 +74,11 @@ We follow generally accepted industry standards to protect the personal informat
 
 Your postings on this site and other communications you may have with us via email or postal mail may not be secure unless we advise you that security measures are in place prior to your sending information. 
 
-If you have any questions about security on our Web site, you can contact us through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/Site_Tools/Privacy_Notice.cfm).
+If you have any questions about security on our Web site, you can contact us through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/site_tools/privacy_notice.cfm).
+
+## **Data Retention**
+
+We will retain your information for as long as needed to provide you services. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to request that we no longer use your information to provide you services [contact us](https://web.archive.org/site_tools/feedback.cfm). 
 
 ## **User Age Requirement**
 
@@ -94,11 +98,11 @@ We have online shopping pages on our site that are co-branded with other third p
 
 ## **Receiving Products and Services**
 
-From time to time, you will receive information pertaining to products and services we think you may be interested in. If you would not like to receive this information or if you wish to cancel a request or update your personal information, please contact through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/Site_Tools/Privacy_Notice.cfm). Users and/or clients who no longer wish to receive our electronic newsletter or promotional materials from LocateADoc.com and/or our partners may follow the directions on the received email to unsubscribe. 
+From time to time, you will receive information pertaining to products and services we think you may be interested in. If you would not like to receive this information or if you wish to cancel a request or update your personal information, please contact through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/site_tools/privacy_notice.cfm). Users and/or clients who no longer wish to receive our electronic newsletter or promotional materials from LocateADoc.com and/or our partners may follow the directions on the received email to unsubscribe. 
 
 ## Can I Choose to Not Receive Certain Information and/or Opt-out?
 
-If you no longer wish to receive our newsletter, notices, and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by contacting us through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/Site_Tools/Privacy_Notice.cfm). 
+If you no longer wish to receive our newsletter, notices, and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by contacting us through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/site_tools/privacy_notice.cfm). 
 
 You may also unsubscribe from our newsletter or announcements by visiting our unsubscribe page here: <http://www.locateadoc.com/Newsletters/unsubscribe.cfm>. 
 
@@ -121,7 +125,7 @@ We share your profile in aggregate form only.
   * **Email This Page / Tell-A-Friend About LocateADoc.com**  
 If you choose to use our referral service to tell a friend about our site, either by emailing them a page from our site, or my using our similar Tell-A-Friend About LocateADoc.com feature, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. LocateADoc, LLC. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/Site_Tools/Privacy_Notice.cfm) to request that we remove this information from our database.  
+Your friend may contact us through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/site_tools/privacy_notice.cfm) to request that we remove this information from our database.  
 
 
 
@@ -137,7 +141,7 @@ By using our site, you consent to the collection and use of your information as 
 
 ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may deactivate it by contacting our Client Services Specialists through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/Site_Tools/Privacy_Notice.cfm), or by contacting us by telephone or postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may deactivate it by contacting our Client Services Specialists through our [feedback form](https://web.archive.org/Site_Tools/feedback.cfm?url_addy=www.locateadoc.com/site_tools/privacy_notice.cfm), or by contacting us by telephone or postal mail at the contact information listed below.
 
 LocateADoc.com  
 1060 Woodcock Road  
