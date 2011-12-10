@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the saplinglearning.com privacy policy that was archived on 2011-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110611181404id_/http%3A//www.saplinglearning.com/PrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saplinglearning.com privacy policy that was archived on 2011-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111210123323id_/http%3A//www.saplinglearning.com/PrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -66,54 +66,44 @@ Shadowbox.init({
     <!--[if IE 7]>
     <link rel="stylesheet" type="text/css" href="http://www.saplinglearning.com/css/style_ie7.css" />
 <![endif]-->
-
 <div id="fb-root"></div>
 <script src="https://connect.facebook.net/en_US/all.js"></script>
+<script src="http://www.saplinglearning.com/ibiscms/lib/userlog/AC_OETags.js" language="javascript"></script>
 <script>
 	var fb_server_path = "http://www.saplinglearning.com";
 
 	function hasAccountLinked(FB_userid, linked){
-		var url = fb_server_path+"/ibiscms/auth/facebook/dao_facebook.php?fb_userid="+FB_userid;
-		ajaxFB = null;
-		if (window.XMLHttpRequest){ 
-			ajaxFB = new XMLHttpRequest();
-			ajaxFB.onreadystatechange = function () {
-				hasAccountLinkedReturn(FB_userid, linked);
-		    };
-			ajaxFB.open("GET",url,true); 
-			ajaxFB.send(null);
-		} 
-		else if (window.ActiveXObject){ 
-			ajaxFB = new ActiveXObject("Microsoft.XMLHTTP"); 
-			if (ajaxFB){
-				ajaxFB.onreadystatechange = function () {
-					hasAccountLinkedReturn(FB_userid, linked);
-			    };
-				ajaxFB.open("GET",url,true); 
-				ajaxFB.send(); 
-			} 
-		}
-	}
-	
-	function hasAccountLinkedReturn(FB_userid, linked) { 
-		if (ajaxFB.readyState == 4){
-			if(ajaxFB.responseText == "true"){
-				jQuery.getJSON("http://graph.facebook.com/"+FB_userid+"/&callback=?", function(json){
-					replaceLoginFacebook(FB_userid, json);
-				});
-			}
-			else{
-				if(linked == 1){
+
+		var dataSend = {};
+		dataSend.fb_userid = FB_userid;
+		dataSend.email = false;
+		
+		jQuery.ajax({
+			url: fb_server_path+"/ibiscms/auth/facebook/dao_facebook.php",
+			data: dataSend,
+			type: 'post',
+			success: function(data) {
+				if(data == 'true'){
 					jQuery.getJSON("http://graph.facebook.com/"+FB_userid+"/&callback=?", function(json){
-						location.replace(fb_server_path+'/ibiscms/auth/facebook/link_account.php');
+						replaceLoginFacebook(FB_userid, json);
 					});
 				}
+				else {
+					if(linked == 1){
+						jQuery.getJSON("http://graph.facebook.com/"+FB_userid+"/&callback=?", function(json){
+							location.replace(fb_server_path+'/ibiscms/auth/facebook/link_account.php');
+						});
+					}
+					else{
+						//Bug #1336 - Facebook Connect: The Mysterious Disappearing Facebook Button
+						doLogout();
+					}
+				}
 			}
-		}
+		});
 	}
 
 	function replaceLoginFacebook(FB_userid, json){
-
 		if(FB_userid != 0){
 			var htmlShow = '<div id="password">';
 			htmlShow += '<div style="float:left; border:2px solid #E0E0E0; width:50px; margin-right:10px;"><img src="http://graph.facebook.com/'+FB_userid+'/picture" /></div>';
@@ -141,7 +131,9 @@ Shadowbox.init({
 	}
 
 	function doLogout(){
-		FB.logout();
+		FB.logout(function(response) {
+			window.location.href = 'https://www.facebook.com/logout.php?next=http%3A%2F%2Fwww.saplinglearning.com%2FPrivacyPolicy.php&access_token=173432339371296%7Ccfaeacc3941a1fab805030a1c8e6276a&redirect_uri=http%3A%2F%2Fwww.saplinglearning.com';
+		});
 		startFacebook(false);
 		var htmlShow = '<form id="login" name="login" method="post" action="'+fb_server_path+'/ibiscms/login/index.php">';
 		htmlShow += '<ul>';
@@ -164,15 +156,11 @@ Shadowbox.init({
 			});
 		}
 	}
-
-	jQuery(document).ready(function() {
-		startFacebook(true);
-	});
 </script>
 <ul id="login-tabs" class="tabs-login">
 	<li class="active"><a href="#us"><img src="http://www.saplinglearning.com/image/login_us_icon.png" width="16" border="0" align="absmiddle">&nbsp; US Higher Ed</a></li>
-	<li><a href="#canada" onclick="location.replace('http://www.saplinglearning.ca');"><img src="http://www.saplinglearning.com/image/login_ca_icon.png" width="18" border="0" align="absmiddle">&nbsp; Canada</a></li>
-	<li><a href="#highschool" onclick="location.replace('http://hs.saplinglearning.com');"><img src="http://www.saplinglearning.com/image/login_hs_icon.png" width="18" border="0" align="absmiddle">&nbsp; High School</a></li>
+	<li><a href="javascript:showBox('1', 'http://www.saplinglearning.ca')"><img src="http://www.saplinglearning.com/image/login_ca_icon.png" width="18" border="0" align="absmiddle">&nbsp; Canada</a></li>
+	<li><a href="javascript:showBox('2', 'http://hs.saplinglearning.com')"><img src="http://www.saplinglearning.com/image/login_hs_icon.png" width="18" border="0" align="absmiddle">&nbsp; High School</a></li>
 </ul>
 <div class="tab_container-login">
 	<div id="us" class="tab_content-login" style="display: block;">
@@ -184,6 +172,7 @@ Shadowbox.init({
 					<li class="borderright"><div><label>password</label> <input class="password" name="password" type="password" onkeypress="if (event.keyCode==13)javascript:document.login.submit()" tabindex="2"> <a class="go" href="javascript:document.login.submit()" tabindex="3"></a><a href="http://www.saplinglearning.com/ibiscms/login/forgot_password.php" title="forgot it?" tabindex="5">forgot password?</a></div></li>
 					<li><a class="help" href="http://www.saplinglearning.com/help/" title="help">help</a></li>
 				</ul>
+				<input type="hidden" name="flashversion" id="flashversion">
 			</form>
 		</div>
 	</div>
@@ -195,10 +184,13 @@ Shadowbox.init({
 	</div>
 </div>
 <script>
-	jQuery(".tab_content-login").hide(); 
-	jQuery("ul.tabs-login li:eq(0)").addClass("active").show();
-	jQuery(".tab_content-login:eq(0)").show();
-	
+	function showBox(id, url){
+		jQuery(".tab_content-login").hide(); 
+		jQuery("ul.tabs-login li:eq("+id+")").addClass("active").show();
+		jQuery(".tab_content-login:eq("+id+")").show();
+		window.location.href = url;
+	}
+
 	jQuery("ul.tabs-login li").live("click",function() {
 		jQuery("ul.tabs-login li").removeClass("active");
 		jQuery(this).addClass("active");
@@ -207,27 +199,39 @@ Shadowbox.init({
 		var activeTab = jQuery(this).find("a").attr("href");
 		jQuery(activeTab).fadeIn();
 	});
-</script><div class="clearboth"></div>
+
+	jQuery(document).ready(function() {
+		jQuery(".tab_content-login").hide(); 
+		jQuery("ul.tabs-login li:eq(0)").addClass("active").show();
+		jQuery(".tab_content-login:eq(0)").show();
+
+		startFacebook(true);
+	});
+
+	// Getting the user flash version to log
+	document.getElementById('flashversion').value = GetSwfVer();
+</script>
+<div class="clearboth"></div>
 </div>    <!-- # Initiation content Site -->
     <div id="content">
     <!-- # Initiation form -->        
         <div class="title-box-form">
         	<div>
             	<ul id="nav">
-    <li><a href="../students/">students</a></li>
-    <li><a href="../instructors/">instructors</a></li>
-    <li><a href="../courses/">try it</a></li>
+    <li><a href="students/">students</a></li>
+    <li><a href="instructors/">instructors</a></li>
+    <li><a href="courses/">try it</a></li>
     <li><a href="#">courses served</a>
         <ul>
-            <li><a href="../courses/learning_course_analytical.php">Analytical Chemistry</a></li>
-            <li><a href="../courses/learning_course_gen_chem.php">General Chemistry</a></li>
-            <li><a href="../courses/learning_course_gob.php">General, Organic, and Biochemistry (GOB)</a></li>
-            <li><a href="../courses/learning_course_bio_chem.php">Biochemistry</a></li>
-            <li><a href="../courses/learning_course_chem_eng.php">Intro to Chemical Engineering</a></li>
-            <li><a href="../courses/learning_course_intro_chem.php">Introduction to Chemistry</a></li>
-            <li><a href="../courses/learning_course_organic.php">Organic Chemistry</a></li>
-            <li><a href="../courses/learning_course_physics.php">Physics</a></li>
-            <li><a href="../courses/learning_course_economics.php">Principles of Economics</a></li>
+            <li><a href="courses/learning_course_analytical.php">Analytical Chemistry</a></li>
+            <li><a href="courses/learning_course_gen_chem.php">General Chemistry</a></li>
+            <li><a href="courses/learning_course_gob.php">General, Organic, and Biochemistry (GOB)</a></li>
+            <li><a href="courses/learning_course_bio_chem.php">Biochemistry</a></li>
+            <li><a href="courses/learning_course_chem_eng.php">Intro to Chemical Engineering</a></li>
+            <li><a href="courses/learning_course_intro_chem.php">Introduction to Chemistry</a></li>
+            <li><a href="courses/learning_course_organic.php">Organic Chemistry</a></li>
+            <li><a href="courses/learning_course_physics.php">Physics</a></li>
+            <li><a href="courses/learning_course_economics.php">Principles of Economics</a></li>
         </ul>
     </li>
 </ul>
