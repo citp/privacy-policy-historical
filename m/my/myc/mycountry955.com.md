@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycountry955.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518034336id_/http%3A//mycountry955.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycountry955.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211003942id_/http%3A//mycountry955.com/privacy) for the most accurate reproduction.*
 
 # My Country 95.5 - Casper's Hometown Country Station - Casper Music - 95.5 KWYY
 
