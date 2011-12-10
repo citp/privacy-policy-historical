@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedepot.ca privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605202540id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate%3FstoreId%3D10051%26catalogId%3D10051%26langId%3D-15%26display%3Dcust_supp_privacy_faq) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedepot.ca privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210023950id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate%3FstoreId%3D10051%26catalogId%3D10051%26langId%3D-15%26display%3Dcust_supp_privacy_faq) for the most accurate reproduction.*
 
 # Privacy & Security | Home Depot Canada
 
@@ -87,7 +87,7 @@ We use your feedback, suggestions, survey information and comments solely to mon
 
 The Home Depot Sites are not intended for use by children under the age of 18. We do not knowingly collect personal information from children under the age of 18.
 
-More information for parents about our Kids Workshops can be obtained from your local [Home Depot Store](https://web.archive.org/web/20110605202540id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&catalogId=10051&langId=-15&display=store_locator). We do not offer an online application for our Kids Workshops.
+More information for parents about our Kids Workshops can be obtained from your local [Home Depot Store](https://web.archive.org/web/20111210023950id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&catalogId=10051&langId=-15&display=store_locator). We do not offer an online application for our Kids Workshops.
 
 ### Disclosure of Personal Information
 
@@ -189,6 +189,6 @@ M3C 4H9
 
 
 
-Pour la version française de la déclaration de confidentialité, voir [Déclaration sur la sécurité et la confidentialité](https://web.archive.org/web/20110605202540id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&catalogId=10051&langId=-16&display=cust_supp_privacy_faq). 
+Pour la version française de la déclaration de confidentialité, voir [Déclaration sur la sécurité et la confidentialité](https://web.archive.org/web/20111210023950id_/http%3A//www.homedepot.ca/webapp/wcs/stores/servlet/DisplayTemplate?storeId=10051&catalogId=10051&langId=-16&display=cust_supp_privacy_faq). 
 
 Last updated: June 16, 2010.
