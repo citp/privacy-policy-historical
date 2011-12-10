@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veinteractive.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201192127id_/http%3A//veinteractive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veinteractive.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210181852id_/http%3A//www.veinteractive.com/privacy.php) for the most accurate reproduction.*
 
 # Ve Interactive - Privacy
 
@@ -51,7 +51,7 @@ We want to keep you up to date with information about our products and services 
 
 **Your rights under the Data Protection Act 1998**
 
-You have a right to access the personal data that we hold on you. If you would like to see a copy please send a written request to the Data Protection Officer via email, telephone, or mail, all of which are provided in the '[Contact Us](https://web.archive.org/web/20101201192127id_/http%3A//veinteractive.com/howtofind.php)' section of this Privacy Notice. If you think the information we hold on you is incorrect please contact our Data Protection Officer.
+You have a right to access the personal data that we hold on you. If you would like to see a copy please send a written request to the Data Protection Officer via email, telephone, or mail, all of which are provided in the '[Contact Us](https://web.archive.org/web/20111210181852id_/http%3A//www.veinteractive.com/howtofind.php)' section of this Privacy Notice. If you think the information we hold on you is incorrect please contact our Data Protection Officer.
 
 **Changes to the Privacy Notice**
 
@@ -69,4 +69,4 @@ W1K 4LN
 Ph: 0203 137 5730  
 Fax: 0207 147 1397   
 Email: [privacy@veinteractive.com](mailto:privacy@veinteractive.com)   
-Website: [www.veinteractive.com](https://web.archive.org/web/20101201192127id_/http%3A//veinteractive.com/index.php)
+Website: [www.veinteractive.com](https://web.archive.org/web/20111210181852id_/http%3A//www.veinteractive.com/index.php)
