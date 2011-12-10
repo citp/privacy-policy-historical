@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516030016id_/http%3A//www.hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210014109id_/http%3A//www.hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**  PRIVACY POLICY**
+* * *
+
+**PRIVACY POLICY**
 
 Hints and Things do not collect or use for commercial purposes, personal information such as names or addresses when you visit the site. If, however, you contact us by email, we will retain and use your email address solely to reply to your contact and for no other purpose. If you choose to provide other personal information such as your name and address, that information will only be used to fulfil your request for information.
 
