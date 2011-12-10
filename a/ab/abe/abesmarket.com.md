@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abesmarket.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427174918id_/http%3A//www.abesmarket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abesmarket.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210014839id_/http%3A//www.abesmarket.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Abe's Market | Natural, Eco Friendly, and Green Products
+# Privacy Policy - Abe's Market
 
 **Introduction**
 
@@ -10,7 +10,7 @@ Pursuant to Abe's Market's [Terms of Use](http://www.abesmarket.com/terms_use/) 
 
 **Data We Collect**
 
-You may browse the Site without revealing personally identifiable information about yourself. Once you choose to register for an account or to make a purchase, you are not anonymous to us. By choosing to register for an account or by making a purchase, you consent to the transfer and storage of your account information.    
+You may browse the Site without revealing personally identifiable information about yourself. Once you choose to register for an account or to make a purchase, you are not anonymous to us. By choosing to register for an account or by making a purchase, you consent to the transfer and storage of your account information.   
 
 
 We may collect and store the following information: 
@@ -116,4 +116,4 @@ Abe's Market has the right to amend this Privacy Policy at any time. We will pos
 
 ## **Questions**
 
-If you have questions or suggestions you can contact [support@abesmarket.com](mailto:support@abesmarket.com)
+If you have questions or suggestions you can [contact us via email](mailto:support@abesmarket.com) or by clicking [here](https://web.archive.org/contact-us).
