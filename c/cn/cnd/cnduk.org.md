@@ -1,29 +1,66 @@
-> *The following text is extracted and transformed from the cnduk.org privacy policy that was archived on 2007-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnduk.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210063132id_/http%3A//www.cnduk.org/component/k2/item/111) for the most accurate reproduction.*
 
-# CND - Privacy Statement
+# Privacy Policy
 
-|   
----  
-[Home](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/index.html)  
-[About CND](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/about.html)  
-[Join CND](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/join.html)  
-[Campaigns](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/campaign/cpgn.html)  
-[Events Diary](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/diary.html)  
-[CND Shop](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/shop/shop.html)  
-[Press](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/press/press.html)  
-[Briefings & Information](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/binfo/bri.html)  
-[Education](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/ed/ped.html)  
-[Jobs](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/jobs/job.html)  
-[Useful Links](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/links.html)  
-[CND Contacts](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/ctc/ctc.html)  
-[Sitemap](https://web.archive.org/web/20071206025732id_/http%3A//www.cnduk.org/pages/map.html)  
-  |   
+The Campaign for Nuclear Disarmament (CND) is committed to protecting your privacy. This policy explains how we use any personal information we collect about you.
+
+  * What information do we collect about you
+  * How will we use the information about you?
+  * Access to your information and amending your information
+  * Cookies
+  * Other websites
+  * Transfer of your data internationally
+  * Changes to our privacy policy
+  * How to contact us
 
 
-CND Privacy Statement
 
-Thank you for supporting the Campaign for Nuclear Disarmament. The abolition of nuclear weapons is a huge task and we need all the help we can get. That's why your support is so valuable to us and why we ask your permission to keep your data on hand and to let you know from time to time of all the different ways you can help. The information you provide CND with will be added to our membership and supporter database and will be used for CND purposes only. These purposes may include, but are not limited to, mailing of CND publications, administering membership, information on benefits and services to members, information regarding the campaign, events and fundraising. We only hold information that is required for CND to fulfil its campaigning and membership activities, such as home address, e-mail address, and bank details. We aim to keep this information as accurate and up-to-date as possible, and ask your assistance in ensuring this is so. We will also do everything we can to prevent this information from being used in any unauthorised or unlawful way, and will never pass it on to anyone not mentioned here.
+### What information do we collect about you
 
-Data is available to recognised regional and local CND Groups, and to agents contracted by CND for particular projects. Data may also be used for fundraising programmes, which might include appealing to you directly. On occasion data may be passed to other organisations with which we have a reciprocal arrangement. Data may only be held with your consent, and you have the right to request details of data CND holds on you for a small administration fee.
+In general you can visit CND's website without disclosing any personal information about yourself. There are times, however, when we may request information from you. We collect information from our users at several different points on our website
 
-Under the terms of the Data Protection Act 1998 you have the right to object to the use of your data for any of the above purposes. Furthermore, you have the option to tick the opt-out box on all membership forms, or to inform CND in writing, if you do not wish to be sent CND fundraising appeals or for your information to be passed on to other organisations with which we may have a reciprocal relationship. If you prefer that we stop using your information for the purpose of contacting you about campaigning and membership activities, or if you feel we are using information about you in any way which you believe may cause you or another person damage or distress, you can contact us at the address below to request that your records are no longer used in this way. If you would like to know more about how we are complying with the Data Protection Act, or to request a copy of the information we hold on you, please write to Data Protection, CND, 162 Holloway Road, London N7 8DQ or phone on 020 7700 2393. If you would like us to send you a copy of the information we hold on you, please send a cheque for £5 payable to CND.
+We collect information about you when you become a supporter, place an order for our products, interact with our social media tools. Website usage information may be collected using cookies.
+
+### How will we use the information about you?
+
+We collect information about you to manage our relationship with you, process any orders and, if you agree, to email you campaigning information we think may be of interest to you.
+
+Occasionally your Regional or Local CND group may request contact details of CND members in their area to publicise specific CND events and information. All CND groups follow data protection guidelines. If you would prefer to be excluded from these local mailings, please contact us so we can ensure your details are not shared.
+
+We may use your information collected from the website to personalise your repeat visits to our website.
+
+We do not currently engage in reciprocal mailings. We have an opt-out mechanism for members who do not wish their details to be passed on to third parties in future, please email [membership@cnduk.org](mailto:membership@cnduk.org) or write to CND Membership Team, Mordechai Vanunu House, 162 Holloway Road, London, N7 8DQ for more details.
+
+### Access to your information and amending your information
+
+If you would like a copy of some or all of the personal information we hold about you, please email [enquiries@cnduk.org](mailto:enquiries@cnduk.org)or write to us at CND, Mordechai Vanunu House, 162 Holloway Road, London, N7 8DQ. We may make a small charge for this service.
+
+We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
+
+### Cookies
+
+Cookies are text files, used by your computer's browser, that store visitor session data. Cookies, by themselves, do not identify the individual user. Cookies are commonly used on the Internet and do not harm your system. If you want to know more about cookies please go to www.allaboutcookies.org which explains how cookies work and how you can manage their use.
+
+We currently use cookies to collate general management data which is used to plan enhancements to our services. Some cookies are external managed e.g. GoogleAnalytics, and are covered by their own privacy policies.
+
+CND never stores any personal information in cookies (on any computer that you may use) that can be used to identify you, such as your name or account numbers.
+
+If you do not want us to use cookies you may be able to configure your browser not to accept them. Please refer to your browser's 'help' facility for further information. However, in a few cases some of our website features may not function as a result.
+
+### Other websites
+
+Our website – www.cnduk.org – contains links to other websites. This privacy policy only applies to our website so when you link to other websites you should read their own privacy policies.
+
+### Transfer of your data internationally
+
+Our primary web server is located in the UK, however certain processes may mean your information may be stored and processed in and transferred between other countries. Information which you provide may be transferred to countries, including the United States of America, which do not have data protection laws equivalent to those in force in the European Economic Area. The information you enter with the explicit agreement of it being made public (such as petition signatures, comments etc.) will be made publicly available to the whole internet community and therefore may be transferred to any country
+
+### Changes to our privacy policy
+
+We keep our privacy policy under regular review and will place any updates on this webpage [www.cnduk.org/privacy]. This privacy policy was last updated on 4 July 2011.
+
+### How to contact us
+
+Please contact us if you have any questions about our privacy policy or information we hold about you.   
+By email: [enquiries@cnduk.org](mailto:enquiries@cnduk.org)   
+By post: CND, Mordechai Vanunu House, 162 Holloway Road, London, N7 8DQ.
