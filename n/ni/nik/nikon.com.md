@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nikon.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219115311id_/http%3A//www.nikon.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikon.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210165013id_/http%3A//www.nikon.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Nikon | Privacy Management
 
-NIKON CORPORATION (the " Company " ) recognizes that the proper management of personal information is very important. Accordingly, in line with the [Nikon Group Privacy Protection Policy](https://web.archive.org/privacy/privacy_policy.htm), personal information will be handled in the following manner:
+NIKON CORPORATION (the " Company " ) recognizes that the proper management of personal information is very important. Accordingly, in line with the [Nikon Group Privacy Protection Policy](https://web.archive.org/web/20111210165013id_/http%3A//www.nikon.com/privacy/privacy_policy.htm), personal information will be handled in the following manner:
 
 ## 1\. Acquisition of Personal Information
 
@@ -29,30 +29,37 @@ The acquired personal information may, provided that particular individuals cann
 
 ## 3\. Provision of Personal Information to Third Parties
 
-(1)Provision of Personal Information to Third Parties
-    Acquired personal information shall not be disclosed to third parties except as listed below:  
-with prior consent  
-where authorized by Personal Data Protection Law or any other relevant laws and regulations.  
+  1. Provision of Personal Information to Third Parties 
 
-(2)Provision of Personal Information to Sub-contractors
-    Acquired personal information may be disclosed and offered to sub-contractors within the limited scope necessary to achieve the purpose for which the information is being used. e.g. When the Company sends products to a distributor or assigns the role of organizing a campaign to a data processing company. In such a case, a confidentiality agreement shall be signed by the third party and the Company shall strictly monitor and supervise the handling of the personal information by the third party.
-(3)Personal Information Sharing
-    Acquired personal information may be shared and used within the Nikon Group ([Click here to see a list of the group companies' homepages](https://web.archive.org/about/info/group/index.htm).) in order to attain the usage purposes described in Section 2, " Personal Information Use " . Personal information that may be shared within the group means: names, addresses, telephone numbers, mail addresses, purchase histories, repair histories, inquiry history and content, and request content. NIKON CORPORATION is responsible for protecting the personal information that is shared and used by the Group.  
+Acquired personal information shall not be disclosed to third parties except as listed below:  
+with prior consent  
+where authorized by Personal Data Protection Law or any other relevant laws and regulations.
+
+  2. Provision of Personal Information to Sub-contractors 
+
+Acquired personal information may be disclosed and offered to sub-contractors within the limited scope necessary to achieve the purpose for which the information is being used. e.g. When the Company sends products to a distributor or assigns the role of organizing a campaign to a data processing company. In such a case, a confidentiality agreement shall be signed by the third party and the Company shall strictly monitor and supervise the handling of the personal information by the third party.
+
+  3. Personal Information Sharing 
+
+Acquired personal information may be shared and used within the Nikon Group ([Click here to see a list of the group companies' homepages](https://web.archive.org/web/20111210165013id_/http%3A//www.nikon.com/about/info/group/index.htm).) in order to attain the usage purposes described in Section 2, " Personal Information Use " . Personal information that may be shared within the group means: names, addresses, telephone numbers, mail addresses, purchase histories, repair histories, inquiry history and content, and request content. NIKON CORPORATION is responsible for protecting the personal information that is shared and used by the Group.  
 The Nikon Group will observe the Nikon Group Privacy Protection Policy and strictly control the security of personal information.
+
+
+
 
 ## 4\. Proper Management of Personal Information
 
-All necessary and appropriate security measures will be taken to prevent the acquired personal information from being leaked, lost or damaged, and to secure the safety of the personal information in accordance with the Nikon Group Privacy Protection Policy and other company rules related to information management. The Company will also offer all training necessary to ensure the proper handling of information to its directors, employees, and other related personnel. 
+All necessary and appropriate security measures will be taken to prevent the acquired personal information from being leaked, lost or damaged, and to secure the safety of the personal information in accordance with the Nikon Group Privacy Protection Policy and other company rules related to information management. The Company will also offer all training necessary to ensure the proper handling of information to its directors, employees, and other related personnel.
 
 ## 5\. Inquiries
 
-Inquiries from customers regarding their own personal information, including verification of the purpose of the usage of the personal information, and the giving of opinions or making of complaints with regard to personal information handling, shall be forwarded to the section to which the customer initially provided his/her personal information.   
+Inquiries from customers regarding their own personal information, including verification of the purpose of the usage of the personal information, and the giving of opinions or making of complaints with regard to personal information handling, shall be forwarded to the section to which the customer initially provided his/her personal information.  
 If you do not know the section to which you should send an inquiry, please send your inquiry to the following address, " [privacy@nikon.co.jp](mailto:privacy@nikon.co.jp) "
 
 ## 6\. Improvement
 
 The Company will comply with privacy protection-related Japanese laws and regulations, and will review and improve the contents of this document to strive constantly towards better privacy protection.
 
-  * Personal information refers to information with which a particular individual can be identified, including any information that can be matched with other information to identify a particular individual.
+  * *Personal information refers to information with which a particular individual can be identified, including any information that can be matched with other information to identify a particular individual.
 
 
