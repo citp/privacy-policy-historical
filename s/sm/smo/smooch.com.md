@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623164414id_/http%3A//www.smooch.com/free-online-dating/Privacy-Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210164502id_/http%3A//www.smooch.com/free-online-dating/Privacy-Statement.asp) for the most accurate reproduction.*
 
 # Completely Free Dating at Smooch.com™
 
@@ -85,6 +85,10 @@ You can access and update your personal information at any time by logging into 
 8\. Changes to this Privacy Statement
 
 We reserve the right to make changes to this Privacy Statement from time to time. Any changes to the Privacy Statement will appear on this page, which you should check from time to time. By continuing to use the site you are deemed to accept changes to this policy. 
+
+9\. Website Analytics
+
+This site uses ClickTale web analytics service.ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to gather a random sample of site behaviour in order to help improve the service provided. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 10\. Contacting us
 
