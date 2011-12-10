@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trusnow.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506031627id_/http%3A//www.trusnow.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusnow.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210232101id_/http%3A//www.trusnow.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # TruSnow - Returns
 
