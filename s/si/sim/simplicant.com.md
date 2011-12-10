@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the simplicant.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208005915id_/http%3A//simplicant.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplicant.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210174606id_/http%3A//www.simplicant.com/privacy_policy) for the most accurate reproduction.*
 
-# Simplicant - Privacy Policy
+# Simplicant Privacy Policy
+
+### Privacy Policy
 
 In order to provide you with the best possible service, we collect certain personal information when you contact us, visit website, register with the Simplicant service or volunteer information (such as survey, polls, etc). This information is used to improve the content of our website and the quality of our service and is not share with or sold to any other organization for commercial purposes, except to provide products or services requested by you or in the following circumstance. 
 
   * Investigate, prevent or take actions against illegal activities, suspected fraud, violation of public interest or breach of Terms of Service.
-  * If Confiz is acquired or merged with another company, you will be notified prior to the transfer of data and any changes to privacy policy.
+  * If Simplicant Inc. is acquired or merged with another company, you will be notified prior to the transfer of data and any changes to privacy policy.
 
 
 
@@ -33,11 +35,11 @@ You retain all the rights to any data stored in the Simplicant service by you. W
 ## Disclosure
 
 We will not sell, rent or lease your personal information to others. We may access and/or disclose your personal information if we believe such action is necessary to:   
-(a) comply with the law or legal process served on Simplicant and/or Confiz;   
-(b) protect and defend the rights or property of Confiz (including the enforcement of our agreements); 
+(a) comply with the law or legal process served on Simplicant  
+(b) protect and defend the rights or property of Simplicant Inc. (including the enforcement of our agreements); 
 
 ## Changes
 
-Confiz reserves the rights to change this policy. Users of our service will be notified of any significant changes by sending a notice to the e-mail address and/or a notice on our website and update version of Privacy Policy. 
+Simplicant Inc. reserves the rights to change this policy. Users of our service will be notified of any significant changes by sending a notice to the e-mail address and/or a notice on our website and update version of Privacy Policy. 
 
 If you have any questions, please do not hesitate to contact us at support at Simplicant dot com. 
