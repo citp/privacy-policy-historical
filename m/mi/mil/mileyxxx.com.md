@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the mileyxxx.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429175050id_/http%3A//www.mileyxxx.com/cimages/legal/privacy.html%3Fsite%3Dporn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileyxxx.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210030219id_/http%3A//www.mileyxxx.com/cimages/legal/privacy.html%3Fsite%3Dporn) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 ### Privacy Policy Statement
 
-This website (the "Site") is operated by TMI 9 Inc.
+This website (the "Site") is operated by Vanscot
 
-TMI 9 Inc.  
-30150 Telegraph Rd  
-Suite 444  
-Bingham Farms  
-MI  
-United States  
-48025  
+Vanscot  
+P.O. Box 642  
+Charlestown  
+Nevis  
+Saint Kitts and Nevis  
 
 
 We can be reached via e-mail at [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com)
@@ -58,6 +56,6 @@ There may be occasions when a subscriber will be presented with special offers e
 
 ## Terms and Conditions of Membership:
 
-Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](http://www.customerhelponline.com/l/terms.html?site=porn) may also affect the right of this Site to use information that it has gathered from subscribers. 
+Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](https://web.archive.org/web/20111210030219id_/http%3A//www.mileyxxx.com/cimages/legal/terms.html?site=porn) may also affect the right of this Site to use information that it has gathered from subscribers. 
 
 In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
