@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the take2games.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612153030id_/http%3A//www.take2games.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the take2games.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210045000id_/http%3A//www.take2games.com/privacy) for the most accurate reproduction.*
 
 # TAKE TWO INTERACTIVE'S PRIVACY POLICY
 
   
-[EN](http://www.take2games.com/privacy/) | [DE](https://web.archive.org/web/20110612153030id_/http://www.take2games.com/privacy/DE.html) | [ES](https://web.archive.org/web/20110612153030id_/http://www.take2games.com/privacy/ES.html) | [FR](https://web.archive.org/web/20110612153030id_/http://www.take2games.com/privacy/FR.html) | [IT](https://web.archive.org/web/20110612153030id_/http://www.take2games.com/privacy/IT.html) | [NL](https://web.archive.org/web/20110612153030id_/http://www.take2games.com/privacy/NL.html)
+[EN](http://www.take2games.com/privacy/) | [DE](https://web.archive.org/web/20111210045000id_/http://www.take2games.com/privacy/DE.html) | [ES](https://web.archive.org/web/20111210045000id_/http://www.take2games.com/privacy/ES.html) | [FR](https://web.archive.org/web/20111210045000id_/http://www.take2games.com/privacy/FR.html) | [IT](https://web.archive.org/web/20111210045000id_/http://www.take2games.com/privacy/IT.html) | [NL](https://web.archive.org/web/20111210045000id_/http://www.take2games.com/privacy/NL.html)
 
 [ ](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Take-Two%20Interactive%20Software,%20Inc.&sealid=102) [](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Take-Two%20Interactive%20Software,%20Inc.&sealid=105) [](http://clicktoverify.truste.com/pvr.php?page=validate&companyName=Take-Two%20Interactive%20Software,%20Inc.&sealid=102)
 
