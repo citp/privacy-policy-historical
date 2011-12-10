@@ -1,12 +1,23 @@
-> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102233325id_/http%3A//www.menulog.com.au/show_page.php%3FpageId%3D52) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210131916id_/http%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.*
 
 # Privacy - Menulog
 
+Menulog is committed to ensuring the privacy and security of all information collected from our users. In accordance with the privacy legislation applicable in Australia, this Privacy Policy outlines the information collection practices utilised by Menulog, how that information is used and the choices you can make about the way the information you provide to us is collected and used. 
+
 **The information we collect**  
-When You lodge a booking, place a takeaway order, purchase a restaurant voucher or rate/review a restaurant via the Menulog web site, we need to collect information about You in order to enable us to deliver our service. This information includes, but is not limited to, details such as your name, your contact details, your delivery address, your requirements and relevant booking information. 
+When You lodge a booking, place a takeaway order, purchase a restaurant voucher or rate/review a restaurant via the Menulog web site, we need to collect information about You in order to enable us to deliver our service. This information includes, but is not limited to, details such as your name, your contact details, your payment details, your delivery address, your requirements and relevant booking information. 
 
 **How we use the information**  
 If You decide to complete an on-line form, the information that you enter into the on-line form will be collected and saved by us. The information You supply to us is used to assess your requirements and to enable the relevant restaurant or takeaway delivery partner to contact You in response to your enquiry. 
+
+We may disclose your information to various third parties for the following purposes: 
+
+  * to send You marketing material for goods or services we think might interest You (whether or not related to your application) 
+  * for administration purposes (including but not limited to processing your home delivery order or restaurant booking)  
+
+  * for such other purposes as we shall in our discretion determine, including for our commercial advantage 
+
+
 
 It is a condition of your use of the Menulog website that you agree to allow your data to be disclosed to these third parties and for them to establish contact with you. If at any point in time you would like your saved data to be deleted from our system, please contact us and we will arrange to have your records deleted from our database. 
 
