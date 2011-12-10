@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625102720id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripinfo.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210060314id_/http%3A//www.tripinfo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # TRIPinfo.com - Privacy Policy
 
-| 
-
 NOTICE OF PRIVACY POLICY
+
+  
+
 
 We value you as a customer and we know how much privacy means to you. We are pleased to inform you of our policies for collecting, using, securing, and sharing customer information.
 
@@ -20,8 +21,8 @@ We collect and use information we need to conduct our business, to advise you of
 Types of information we may collect and how we gather it:  
 • From you, on advertising reservations, or on other forms, through telephone or in-person conversations with your TRIPmedia Group representative, such as your address and telephone number.  
 • From your transactions with us, such as your payment history, and through any updating of applicable reference information for our guides and internet indexes if you provide information on your attraction, destination, festival, meeting site, or shopping facility.  
-• From non-TRIPmedia Group companies, organizations, or consumer reporting agencies, such as your reference information or credit history.  
-  
+• From non-TRIPmedia Group companies, organizations, or consumer reporting agencies, such as your reference information or credit history.
+
 HOW WE USE INFORMATION ABOUT YOU:  
 We use customer information to update reference information in print and online, ensure proper billing, service your accounts, and offer you other TRIPmedia Group products we feel may suit your needs.
 
@@ -30,8 +31,6 @@ We share information about our transactions (such as payment) and experiences (s
 
 We may also share customer information with consumer reporting agencies and with other entities as needed to handle your account and to protect against fraud and unauthorized transactions.
 
-  
-  
 WHAT INFORMATION WE SHARE:  
 We may share information within TRIPmedia Group that was obtained from your reference information updates, or information obtained from a consumer report, such as your credit history. We may also verify information provided by you, such as your attraction, destination, festival, meeting site, or shopping facility reference information.
 
@@ -57,12 +56,13 @@ In order to ensure the safety of customer information, we continually:
 • Test the strength of our security
 
 TRIPmedia GROUP AFFILIATED COMPANIES:  
+• Empowerment Publications Inc.  
 • Guest Relations Marketing  
-• TravelZealots.com  
-• WEEKENDSetc.com
+• International Festivals & Events Association  
+• Nimbus Software  
+• Sched LLC  
+• Southeast Tourism Society  
+• The Goss Agency
 
-EMAIL US WITH ANY QUESTIONS OR CONCERNS ABOUT OUR PRIVACY POLICY:  
+EMAIL US WITH QUESTIONS OR CONCERNS ABOUT OUR PRIVACY POLICY:  
 [info@tripmediagroup.com](mailto:%20info@tripmediagroup.com)
-
-  
-| 
