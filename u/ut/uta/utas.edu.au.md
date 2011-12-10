@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utas.edu.au privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616044813id_/http%3A//www.utas.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utas.edu.au privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210023955id_/http%3A//www.utas.edu.au/privacy) for the most accurate reproduction.*
 
 # Home - Website Privacy Statement - University of Tasmania, Australia
 
