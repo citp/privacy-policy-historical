@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nnpcgroup.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219085624id_/http%3A//nnpcgroup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nnpcgroup.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210064701id_/http%3A//www.nnpcgroup.com/privacy.aspx) for the most accurate reproduction.*
 
 # NNPC > Home
 
@@ -44,4 +44,4 @@ NNPC will occasionally update this Statement of Privacy to reflect company and c
 
 Contact Information
 
-NNPC welcomes your comments regarding this Statement of Privacy. If you believe that NNPC has not adhered to this Statement, please contact NNPC at [Maryam.Kontagora@NNPCGroup.com](mailto:Maryam.Kontagora@NNPCGroup.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+NNPC welcomes your comments regarding this Statement of Privacy. If you believe that NNPC has not adhered to this Statement, please contact NNPC at [contactus@nnpcgroup.com](mailto:contactus@nnpcgroup.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
