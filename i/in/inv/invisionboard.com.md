@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisionboard.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605002607id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionboard.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210085803id_/http%3A//www.invisionpower.com/legal/privacy.php) for the most accurate reproduction.*
 
 # IPS Privacy Policy
 
@@ -24,7 +24,7 @@ We use the information you provide about yourself when placing an order only to 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-You can register with our website if you would like to receive user our services as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+You can register with our website if you would like to receive our services as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
