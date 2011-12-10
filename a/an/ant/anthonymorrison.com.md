@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anthonymorrison.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522134944id_/http%3A//www.anthonymorrison.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthonymorrison.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210120209id_/http%3A//www.anthonymorrison.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anthony Morrison
 
