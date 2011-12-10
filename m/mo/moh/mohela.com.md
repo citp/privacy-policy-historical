@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602151338id_/http%3A//www.mohela.com/common/home/internetprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohela.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210143507id_/http%3A//www.mohela.com/DL/common/internetprivacy.aspx) for the most accurate reproduction.*
 
-# MOHELA Internet Privacy Policy
+# MOHELA Internet Privacy Notice
 
 MOHELA Internet Privacy Notice
 
@@ -83,7 +83,7 @@ State laws and individual companies may give you additional rights to limit shar
 
 We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
-[Site Disclaimer](https://web.archive.org/web/20110602151338id_/http%3A//www.mohela.com/common/home/termsOfUse.aspx)
+[Site Disclaimer](https://web.archive.org/web/20111210143507id_/http%3A//www.mohela.com/DL/common/termsOfUse.aspx)
 
   
 
