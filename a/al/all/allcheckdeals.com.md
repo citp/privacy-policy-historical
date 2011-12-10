@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcheckdeals.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227154620id_/http%3A//www.allcheckdeals.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcheckdeals.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210101918id_/http%3A//www.allcheckdeals.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -20,4 +20,4 @@ You agree that ACD may use your personal information to contact you and deliver 
 
 All ACD websites including this website fully comply with all Indian Laws applicable. ACD has always cooperated with all law enforcement inquires. ACD may disclose all or part of your personal details in response to a request from the law enforcement authorities or in a case of bonafide requirement to prevent an imminent breach of the law.
 
-ACD has taken all reasonable steps to ensure that information on this site is authentic. Users are advised to research bonafides of advertisers independently. ACD shall not have any responsibility in this regard. We also recommend that you visit link to [User agreement/Disclaimer](https://web.archive.org/web/20101227154620id_/http%3A//www.allcheckdeals.com/diclaimer.php) for more comprehensive information on this aspect.
+ACD has taken all reasonable steps to ensure that information on this site is authentic. Users are advised to research bonafides of advertisers independently. ACD shall not have any responsibility in this regard. We also recommend that you visit link to [User agreement/Disclaimer](https://web.archive.org/web/20111210101918id_/http%3A//www.allcheckdeals.com/diclaimer.php) for more comprehensive information on this aspect.
