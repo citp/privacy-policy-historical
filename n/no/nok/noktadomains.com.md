@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the noktadomains.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316174228id_/http%3A//www.noktadomains.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noktadomains.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210051131id_/http%3A//www.noktadomains.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-(e.g. Css.net, Car, TouchScreen.com, Computers)
-
 ## 
 
-This content requires the Flash Player. [Download Flash Player](https://web.archive.org/web/20091223223516/http://www.adobe.com/go/getflashplayer). Already have Flash Player? [Click here.](https://web.archive.org/web/20100316174228id_/http%3A//www.noktadomains.com/privacy.html?hasFlash=true&)
+This content requires the Flash Player. [Download Flash Player](https://web.archive.org/web/20110707123807/http://www.adobe.com/go/getflashplayer). Already have Flash Player? [Click here.](https://web.archive.org/web/20111210051131id_/http%3A//www.noktadomains.com/privacy.html?hasFlash=true&)
 
 All users who log on to the Website are considered in scope of this Privacy Policy wheter or not they engage in any activity. Accordingly;
 
