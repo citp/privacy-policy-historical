@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609094822id_/http%3A//site24x7.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site24x7.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210072047id_/http%3A//www.site24x7.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Site24x7 - Privacy Policy
 
@@ -9,12 +9,15 @@
 
 9th December 2009
 
-This is a website owned by ZOHO Corp.
+This is a website owned by Zoho Corporation Pvt. Ltd.
 
 Our postal address is 
 
-**4900 Hopyard Rd, Suite 310  
-Pleasanton, CA 94588, USA**
+**DLF IT Park, Block 7, Ground floor, No. 1/124,  
+Shivaji Garden, Nandambakkam Post,  
+Mount PH Road, Ramapuram  
+Chennai 600 089, INDIA  
+**
 
 We can be reached via e-mail at [support@site24x7.com](mailto:support@site24x7.com) or you can reach Site24x7 Customer Support Services by telephone at 888 900 9646. 
 
@@ -31,9 +34,6 @@ In compliance with the Children's Online Privacy Protection Act of 1998, Zoho do
 Since we understand that you may wish not to disclose your Personal Information for trying out the service, we provide you the option of Demo Login of the service. The contents created by you using the Demo Login will be accessible to all persons using the Demo Login. Hence we specifically request you not to store your personal and sensitive information and data while using the Demo Login.
 
 ## **Information Recorded and Use:**
-
-  
-
 
   * **Personal Information**
 
@@ -93,7 +93,7 @@ We make take every effort including periodic reviews to ensure that Personal Inf
 
 ## **Notification of Changes**
 
-Any changes to the Site24x7 Privacy Policy will be posted on our websites in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving email notifications from us. You will not receive email notification of minor changes to the Site24x7 Privacy Policy. If you are concerned about how your information is used, you should check back at _[//www.site24x7.com/privacypolicy.html](https://www.site24x7.com/privacypolicy.html)_ periodically. 
+Any changes to the Site24x7 Privacy Policy will be posted on our websites in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving email notifications from us. You will not receive email notification of minor changes to the Site24x7 Privacy Policy. If you are concerned about how your information is used, you should check back at [Privacy Policy](https://www.site24x7.com/privacypolicy.html) periodically. 
 
 ## **END OF PRIVACY POLICY**
 
