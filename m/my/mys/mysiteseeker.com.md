@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysiteseeker.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418101457id_/http%3A//www.mysiteseeker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysiteseeker.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210085915id_/http%3A//www.mysiteseeker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # My Site Seeker- About
 
