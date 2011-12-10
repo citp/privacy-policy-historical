@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630032033id_/http%3A//www.pinvoke.net/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinvoke.net privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210022911id_/http%3A//www.pinvoke.net/privacypolicy.htm) for the most accurate reproduction.*
 
 # PInvoke.net Terms of Use
 
