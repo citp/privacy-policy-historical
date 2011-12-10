@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordfx.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501041032id_/http%3A//nordfx.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordfx.com privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210084601id_/http%3A//nordfx.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -26,8 +26,7 @@ Nord FX does not disclose your personal information to third parties, except as 
 Under limited circumstances, Nord FX may disclose your personal information to third parties as permitted by, or to comply with, applicable laws and regulations. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property. Except as described in this privacy policy, we will not use your personal information for any other purpose, unless we describe how such information will be used at the time you disclose it to us or we obtain your permission. 
 
  **Opt Out  **  
-You are not required to supply any of the personal information that we may request; however, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete, and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information.   
-If you do not wish to have your personal information disclosed to our affiliates or other third parties as described in this Policy, please contact us via e-mail at: compliance@nordfx.com or send your request to: 
+You are not required to supply any of the personal information that we may request; however, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete, and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information. If you want to change/delete your personal data or want to refuse to provide it you should inform us with an e-mail to the Customer Support support@nordfx.com or contacting us by phone, fax or postal mail using contact information below. If you do not wish to have your personal information disclosed to our affiliates or other third parties as described in this Policy, please contact us via e-mail at: compliance@nordfx.com or send your request to: 
 
 Nord Group Investments Inc  
 Amsterdamsestraatweg 316  
