@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610101136id_/http%3A//www.fepblue.org/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fepblue.org privacy policy that was archived on 2011-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111210055449id_/http%3A//www.fepblue.org/about/privacy.jsp) for the most accurate reproduction.*
 
 # Blue Cross and Blue Shield's Federal Employee Plan - Privacy Policy
 
