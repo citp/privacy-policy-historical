@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dailydawdle.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315100425id_/http%3A//www.dailydawdle.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydawdle.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212005506id_/http%3A//www.dailydawdle.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Daily Dawdle
 
 ##  [Privacy](http://www.dailydawdle.com/p/privacy.html)
-
-8:00 AM  Daily Dawdle 
 
 **_Privacy Policy for www.DailyDawdle.com_**
 
@@ -40,13 +38,11 @@ Should you require any more information or have any questions about our privacy 
 
 Thanks for visiting DailyDawdle.com 
 
-Posted in 
+## WE SLEEP, EAT, AND POOP FUNNY PHOTOS
 
-[](http://www.linkwithin.com/)
-
-## We make this site awesome for you!
-
-Hey Daily Dawdle readers, welcome to our site! As you already know, at DD, we are committed to bringing you funny, fresh, and cool photos & videos every day of the year. And always SFW. Check back often for new funny posts and other interesting web humor! If you have interesting photos and cool stuff you want to share, contact us at info [at] dailydawdle [dot] com.  
+You like funny photos? Well here at DailyDawdle.com, so do we. That's why we're here 365 days a year finding and posting funny pictures, funny videos, funny cats doing their cat things and other random humor for your viewing pleasure. If you have funny sh*t to share email us at info [at] dailydawdle [dot] com.  
 
 
 [ ](http://www.blogger.com/rearrange?blogID=1879388602716867220&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=main "Edit")
+
+[](http://www.linkwithin.com/)
