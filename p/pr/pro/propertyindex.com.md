@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyindex.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102191722id_/http%3A//www.propertyindex.com/www/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyindex.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211143646id_/http%3A//www.propertyindex.com/www/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # About Property Index | PropertyIndex.com
 
@@ -6,7 +6,7 @@ PropertyIndex.com Privacy Policy. Effective Date: 8th October 2008
 
 ## 1\. Who are we?
 
-1.1 We are PropertyIndex.com Ltd, an English registered company (number 05729141). Our registered office is 1 Franchise Street, Kidderminster, Worcester, DY11 6RE. Our main trading address is 29 Foregate Street, Worcester, WR1 1DS.
+1.1 We are PropertyIndex.com Ltd, an English registered company (number 05729141). Our registered office is 1 Franchise Street, Kidderminster, Worcester, DY11 6RE. Our main trading address is The Forge, Forge Mews, 14-16 Church Street, Rickmansworth, Hertfordshire. WD3 1DH.
 
 1.2 We own and operate this site.
 
