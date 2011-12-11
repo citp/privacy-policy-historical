@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612003750id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211034045id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for rekkerd.org at rekkerd.org
 
@@ -10,7 +10,7 @@ rekkerd.org collects and uses the data contained in log files. The information i
  **Cookies and Web Beacons**  
 Cookies are used on rekkerd.org to store information, such as your personal preferences when you visit our site.
 
-I use third party advertisements on rekkerd.org to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on the site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
+I use third party advertisements on rekkerd.org to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on the site, which will also send these advertisers information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
 
 Google Adsense, one of the ad provider on this website, uses a DoubleClick DART cookie, which enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [here](http://www.google.com/privacy_ads.html "link to Google ad and content network privacy page").
 
