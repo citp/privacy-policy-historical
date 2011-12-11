@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605060919id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lithium.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211205810id_/http%3A//www.lithium.com/privacy) for the most accurate reproduction.*
 
 # Lithium Technologies Social CRM and Community Solutions - Privacy Policy - Lithium
 
