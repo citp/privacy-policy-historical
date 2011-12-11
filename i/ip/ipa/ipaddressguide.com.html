@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ipaddressguide.com privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624030104id_/http%3A//www.ipaddressguide.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ipaddressguide.com privacy policy that was archived on 2011-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211160325id_/http%3A//www.ipaddressguide.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Privacy Policy</title>
@@ -20,6 +20,42 @@
 	  })();
 
 	</script>
+
+	<script language="javascript" src="http://code.google.com/apis/gears/gears_init.js"></script>
+	<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1.0/prototype.js"></script>
+	<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script>
+
+	<script type="text/javascript">
+	function getLocation(){
+		try{
+			var geo = google.gears.factory.create('beta.geolocation');
+			geo.getCurrentPosition(successCallback, errorCallback);
+		}
+		catch(e){
+			try{
+				navigator.geolocation.getCurrentPosition(successCallback, errorCallback);
+			}
+			catch(e){
+				errorCallback({code:2,message:e.message});
+			}
+		}
+	}
+
+	function errorCallback(err){}
+
+	function successCallback(r){
+		new Ajax.Request('/geo5?lat=' + r.coords.latitude + '&lon=' + r.coords.longitude,{
+			method:'get',
+			onSuccess: function(transport){},
+			onFailure: function(){ alert('Failed to report location.') }
+		});
+	}
+
+	Event.observe(window, 'load',
+		function(){
+			getLocation();
+		}
+	);	</script>
 </head>
 
 <body>
