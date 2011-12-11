@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbpulse.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511155643id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbpulse.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211051245id_/http%3A//www.palmbeachpost.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
 # Local News: West Palm Beach, Palm Beach County, Martin & St. Lucie Counties | The Palm Beach Post
 
