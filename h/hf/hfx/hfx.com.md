@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hfx.com privacy policy that was archived on 2011-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110126091905id_/http%3A//www.hfx.com/en-US/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hfx.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211092756id_/http%3A//www.hfx.com/en-US/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
