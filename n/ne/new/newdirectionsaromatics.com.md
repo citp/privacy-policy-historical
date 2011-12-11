@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newdirectionsaromatics.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516160615id_/http%3A//www.newdirectionsaromatics.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdirectionsaromatics.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211093031id_/http%3A//www.newdirectionsaromatics.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Essential Oils, Aromatherapy, Candle, Soap, Cosmetic & Spa Supplies
 
@@ -224,11 +224,11 @@ We keep your information only as long as we need it for legitimate business purp
 If you have any questions, concerns or complaints about the privacy practices of our organization please contact us at the following:
 
   * Email: info@newdirectionsaromatics.com
-  * Telephone: 1-877-255-7692
+  * Telephone: 1-800-246-7817
   * Mail: New Directions Aromatics Inc.   
-21 Regan Road, Suite B   
-Brampton, Ontario L7A 1C5   
-Canada 
+6781 Columbus Road  
+Mississauga, Ontario  
+Canada, L5T 2G9 
 
 
 
