@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2011-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629090654id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formula1.com privacy policy that was archived on 2011-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211193826id_/http%3A//www.formula1.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="jsEnabled"><head id="ctl00_Head1">
 <title>Formula 1™ - The Official F1™ Website</title>
@@ -42,6 +42,7 @@
     <script type="text/javascript" src="/js/mootools.js"></script>
     <script type="text/javascript" src="/js/cookies.js"></script>
     <script type="text/javascript" src="/js/global.js"></script>
+    <script type="text/javascript" src="/js/dom-drag.js"></script>
     <script type="text/javascript" src="/js/navigation.js"></script></head><body><div class="sliderAreas hide" style="display:none" id="sliderTemplate"><div class="sliderKnobs" id="knobTemplate"></div></div>
 
     <script type="text/javascript" src="/js/slimbox.js"></script>
@@ -66,7 +67,7 @@
 
 <noscript>
 <style type="text/css">
-    div#tertiaryNav div{
+    div#tertiaryNav div.tertiaryNavItem{
         display: block;        
     }     
 </style>
@@ -201,6 +202,11 @@
 				<li class="navRACES_2011CALENDAR navRACES_2011CALENDAR_en">
 				
 				<a href="/races/calendar.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/calendar'); }">2011 CALENDAR</a>
+				</li>
+			
+				<li class="navRACES_2012CALENDAR navRACES_2012CALENDAR_en">
+				
+				<a href="/races/calendar_preview.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/calendar_preview'); }">2012 CALENDAR</a>
 				</li>
 			
 				<li class="navRACES_DOWNLOADS navRACES_DOWNLOADS_en">
@@ -389,11 +395,6 @@
 				<a href="/mobile_services/website.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/website'); }">WEBSITE</a>
 				</li>
 			
-				<li class="navMOBILE_APPLICATION navMOBILE_APPLICATION_en">
-				
-				<a href="/mobile_services/live_timing.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/live_timing'); }">APPLICATION</a>
-				</li>
-			
 				<li class="navMOBILE_DOWNLOADS navMOBILE_DOWNLOADS_en">
 				
 				<a href="/mobile_services/downloads.html" onclick="javascript: if (window.pageTracker) { pageTracker._trackPageview('/Buttons/Nav/L2Nav/downloads'); }">DOWNLOADS</a>
@@ -409,14 +410,16 @@
                 
 
                 
-
 <!-- Hide when on Home -->
 
-	<div id="tertiaryNav" style="width: auto; overflow: visible;">
-		<div class="tertiaryNavItem" style="display: block;">
-			
-		</div>
-	</div>
+    <div id="tertiaryNav" style="width: auto; overflow: visible;">
+        <div class="tertiaryNavItem" style="display: block;">
+            <ul>
+                
+            </ul>
+        </div>
+    </div>
+
 
                 <div id="contentMain"><div id="adHoldLeftCol" style="position: absolute; margin-left: 0px; margin-top: 0px; z-index: -1000; height: 0px;"><div id="adHoldLeftFlash"></div></div>
                     <!-- content modules here -->
@@ -502,7 +505,7 @@
         
 		var flashvars = false;
 		var attributes = {id: "adHoldRight"};
-		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=promos&typeArray=D&nameArray=third_driver&weightArray=17" };
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=promos&typeArray=D,D&nameArray=dhl,hublot&weightArray=50,50" };
 		swfobject.embedSWF("/flash/advertising/side_bar/adHoldRight.swf", "adHoldRightFlash", "235", "600", "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
     }
 
@@ -523,7 +526,7 @@
 
 		var flashvars = false;
 		var attributes = {id: "adHoldLeft"};
-		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=rollpanels&typeArray=D&nameArray=third_driver&weightArray=17" };
+		var params = { allowScriptAccess: "always", quality: "high", wmode: "transparent", FlashVars: unique + "&home=" + (window.location.pathname == '/') + "&xmlUrl=/xml/advertising/sidebar/site.xml&artDir=rollpanels&typeArray=D,D&nameArray=dhl,hublot&weightArray=50,50" };
 		swfobject.embedSWF("/flash/advertising/side_bar/adHoldLeft.swf", "adHoldLeftFlash", "715", adHoldLeftHeight, "9.0.0","/js/expressInstall.swf", flashvars, params, attributes);
 });
 
