@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-pilot.cn privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520142139id_/http%3A//e-pilot.cn/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-pilot.cn privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211160010id_/http%3A//www.e-pilot.cn/privacy.php) for the most accurate reproduction.*
 
 # Privacy and Security | 派乐
 
