@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmpnews.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618010303id_/http%3A//www.ubmcanon.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmpnews.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211040607id_/http%3A//www.ubmcanon.com/privacy_policy) for the most accurate reproduction.*
 
 # UBM Canon - Privacy Policy
 
