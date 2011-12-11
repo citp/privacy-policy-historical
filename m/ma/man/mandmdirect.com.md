@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mandmdirect.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706201325id_/http%3A//www.mandmdirect.com/Security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandmdirect.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211161151id_/http%3A//www.mandmdirect.com/Security.htm) for the most accurate reproduction.*
 
 # Security details for MandMDirect.com. adidas , Ben Sherman, Diesel, Nike and loads more.
-
-Great prices, good delivery very helpful, am orde... 
-
-_steve_
 
 **Ordering and paying for online orders with MandMDirect.com is both safe and secure.**
 
@@ -20,7 +16,17 @@ When you register with our website we need to know your name, email address, cor
 
 #### How we protect your information
 
-The Internet is not a secure medium. However we have put in place various security procedures as set out in this policy, including firewall security and password protection. You should be aware that information and data may be automatically collected through the use of "cookies". Cookies are small text files a website can use to recognise repeat users and allow us to observe behaviour and compile aggregate data in order to improve our website and to target its advertising. Cookies do not attach to your system or damage your files. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature, and you should refer to the “Help” section of your PC operating system. 
+The Internet is not a secure medium. However we have put in place various security procedures as set out in this policy, including firewall security and password protection 
+
+**Cookies**   
+MandMDirect.com makes use of cookies (cookies are small pieces of information that are sent from our website to the cookie file of the browser on your computer’s hard disc).
+
+Cookies are used for several reasons:  
+a)To allow you to carry information across pages of our website and avoid having to re-enter information when you return to the site.  
+b)To monitor our website traffic and analyse how our website works. This will allow us to make changes to the website in the future and make it easier to use.  
+c)To deliver more relevant advertisements on websites that display advertising by showing you products you might be interested in based on your most recent visit to our site. 
+
+You have the ability to accept or decline cookies by modifying the settings in your browser. The majority of browsers will allow the user to alter the settings used for cookies. The help menu on your browser will have further details. Please remember that turning cookies off will restrict your access to our website.If you have your browser set to disable all cookies then you will not be able to access many parts of the MandMDirect.com website. If your browser is set to prompt you when cookies are being used, you will have to answer ‘yes’ when prompted to gain full access. 
 
 #### Sale of business
 
@@ -37,3 +43,5 @@ We comply with and are registered under the Data Protection laws in the United K
 #### Your consent
 
 By submitting your information you consent to the use of that information as set out in this Policy. If we change our Privacy Policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. Continued use of the service will signify that you agree to any such changes. Owing to the global nature of the internet infrastructure, the information you provide may be transferred to companies based in countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. However, we have taken the steps outlined above to try to improve the security of your information, and where we pass your information to such companies (other than in transit across the internet), we will ensure that they treat your information with the same level of protection as if we were dealing with it ourselves. By submitting your information you confirm your consent to these transfers. 
+
+Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit www.youronlinechoices.co.uk. 
