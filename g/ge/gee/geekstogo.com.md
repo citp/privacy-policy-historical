@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekstogo.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612042507id_/http%3A//www.geekstogo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekstogo.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211040634id_/http%3A//www.geekstogo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Geeks to Go! – Free help from tech experts
 
