@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biggestloserclub.co.uk privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612042148id_/http%3A//biggestloserclub.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggestloserclub.co.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211155948id_/http%3A//biggestloserclub.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
-# The Biggest Loser Club
+# Privacy Policy - The Biggest Loser Online Weight Loss Club
 
 **PLEASE READ THE FOLLOWING TERMS OF THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE**
 
