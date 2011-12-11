@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the itemvn.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612135546id_/http%3A//www.itemvn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itemvn.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211043343id_/http%3A//www.itemvn.com/privacy) for the most accurate reproduction.*
 
 # Itemvn - Listen to Free Music Online - Free MP3 Streaming - Search music, find music, listen to music, share music online
 
-|   
----  
-|  [](https://web.archive.org/ "Home") | 
-
-|  |  |  |  |  Song |   
----|---  
+|  |  [](http://www.itemvn.com/ "Home") |  |   
+---|---|---  
   
 |   
 ---  
@@ -62,8 +58,4 @@ You may, of course, decline to submit personal information through Itemvn, in wh
 
   
   
----|---  
-  
-|   
----  
-Itemvn © 2011 |      | 
+---|---
