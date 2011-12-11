@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adultdvdmarketplace.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219074853id_/http%3A//www.adultdvdmarketplace.com/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdmarketplace.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211222634id_/http%3A//www.adultdvdmarketplace.com/help_privacy.html) for the most accurate reproduction.*
 
-# Adult DVD Marketplace International - buy new and used adult DVD movies
+# Adult DVD Marketplace - buy and sell new and used adult DVD movies
 
 Your privacy is a major priority at Adult DVD Marketplace. Any information that you provide will be protected with the utmost care and will never be used in an inappropriate manner. Your contact information will only be used to facilitate the successful completion of an order, or occasionally to notify you about important functionality changes to the site, or new services we're offering.
 
