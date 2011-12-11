@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629053245id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211043025id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
 
-# TaxSlayer.com Privacy Policy
+# Privacy Policy for TaxSlayer.com Tax Software
 
 ####  YOUR PRIVACY IS A PRIORITY TO US 
 
-[ ](http://www.truste.org/ivalidate.php?url=www.taxslayer.com&sealid=101) TaxSlayer.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.taxslayer.com](http://www.taxslayer.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+[ ](http://www.truste.org/ivalidate.php?url=www.taxslayer.com&sealid=101) TaxSlayer.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions 
 
 The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site.
 
@@ -27,6 +27,12 @@ We will not collect personal information about you just because you visit this s
 
 This information does not identify individual visitors and is used to enhance and improve your experience on our site. No attempts are made to identify individual users unless illegal behavior is suspected.   
 
+
+**Clear Gifs (Web Beacons/Web Bugs)**
+
+We employ AD.com a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+
+To learn more about our advertising company’s use of clear gifs, please go to AD.com. 
 
 •     **Purchasing our Products**   
 The purpose of this site is to market and sell our software. As a result, you may have to provide us your personal information and/or email address. We do not share or disseminate this information to other vendors or clients.  This information is kept in strictest, secure, confidence. If you choose to purchase our products online, you will be asked for personal information as well as your credit card number.  The forms requesting this information are on a secure server.  All steps are taken to safeguard your information. 
@@ -67,7 +73,7 @@ We post customer testimonials on our web site which may contain personally ident
 
 **Links**
 
-As a service to our customers, we have installed links to various tax agencies/services.   These include IRS.Gov, and various state agencies and organizations. The links provided are maintained by these separate entities and are not the property of, or affiliated with, Taxslayer.com. 
+As a service to our customers, we have installed links to various tax agencies/services.   These include IRS.Gov, and various state agencies and organizations. The links provided are maintained by these separate entities and are not the property of, or affiliated with, Taxslayer.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
 **Our Former Customers**
 
@@ -85,9 +91,13 @@ TaxSlayer.com takes industry standard measures to protect the personal informati
 
 We strive to keep our customer information as accurate and complete as we can. If you believe any of the information about you is not accurate, please let us know. 
 
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
 **Access to Personal Information:**
 
-Personal Information is accessible online through Oct. 20th, 2010. You may view and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information ". Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
+Personal Information is accessible online through Oct. 20th, 2012. You may view and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information ". Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
 
 **How to Contact Us:**
 
