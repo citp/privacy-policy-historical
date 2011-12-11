@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607004257id_/http%3A//www.nrcc.org/about/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211071955id_/http%3A//www.nrcc.org/about/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Republican Congressional Committee
 
