@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighthub.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621015006id_/http%3A//www.brighthub.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthub.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211052052id_/http%3A//www.brighthub.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Bright Hub Privacy Policy
 
