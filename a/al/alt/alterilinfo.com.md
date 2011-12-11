@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alterilinfo.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511225635id_/http%3A//alterilinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alterilinfo.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211105203id_/http%3A//alterilinfo.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
