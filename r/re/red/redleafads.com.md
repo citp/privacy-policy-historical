@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redleafads.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515051801id_/http%3A//www.redleafads.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redleafads.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211212728id_/http%3A//www.redleafads.com/help-privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
