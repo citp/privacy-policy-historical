@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408105602id_/http%3A//www.braintreepaymentsolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211053345id_/http%3A//www.braintreepayments.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Braintree Payment Solutions
+# Braintree
 
 ## Privacy Policy
 
@@ -69,8 +69,8 @@ If we decide to change our privacy policy, we will post those changes to this pr
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 **Braintree Payment Solutions, LLC**  
-Chicago, IL 60622  
-privacy@getbraintree.com
+Chicago, IL 60607  
+privacy@braintreepayments.com
 
 Braintree has committed to refer unresolved privacy complaints under the Safe Harbor Principles to the DMA, an independent dispute resolution mechanism. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Braintree you may contact: 
 
