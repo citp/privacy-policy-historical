@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warpradio.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616153852id_/http%3A//www.warpradio.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warpradio.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211051826id_/http%3A//www.warpradio.com/privacy.asp) for the most accurate reproduction.*
 
 # WarpRadio |
 
