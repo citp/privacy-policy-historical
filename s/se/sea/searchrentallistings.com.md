@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the searchrentallistings.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606051816id_/http%3A//searchrentallistings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchrentallistings.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211203110id_/http%3A//searchrentallistings.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
 #### SearchrentalListings.com Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@searchrentallistings.com. 
+
+You can contact us via phone by calling 855-ANY-HOME. You can also contact us via mail at PO BOX 3061, Tucker GA 30085.
 
 At www.searchrentallistings.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.searchrentallistings.com and how it is used. 
 
@@ -20,9 +22,9 @@ www.searchrentallistings.com does not use cookies. 
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
-Google Adsense  
-Commission Junction  
-AdmaxOffers
+Google.com/adsense  
+CommissionJunction.com  
+AdmaxOffers.com
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.searchrentallistings.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
