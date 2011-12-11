@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utsource.net privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628190437id_/http%3A//www.utsource.net/page.aspx%3FpageId%3D41) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsource.net privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211044551id_/http%3A//www.utsource.net/page.aspx%3FpageId%3D41) for the most accurate reproduction.*
 
 # Privacy Statement
 
