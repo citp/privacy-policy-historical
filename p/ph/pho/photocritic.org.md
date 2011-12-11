@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photocritic.org privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511033153id_/http%3A//www.pixiq.com/privacy-principles) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photocritic.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211174317id_/http%3A//www.pixiq.com/privacy-principles) for the most accurate reproduction.*
 
 # Privacy Principles | Pixiq
 
