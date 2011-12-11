@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gratispoints.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617162928id_/http%3A//www.gratispoints.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratispoints.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211011022id_/http%3A//www.gratispoints.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GratisPoints
 
@@ -10,7 +10,7 @@ GratisPoints adheres to the principles set forth in the Safe Harbor framework as
 
 GratisPoints collects information in several ways from different parts of our network of websites. 
 
-Some personal information is gathered when you register. During registration, GratisPoints asks for your name, email address, zip code, household information and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customise your experience. Once you register, you are no longer anonymous to GratisPoints and you can access the various protected areas of the site. 
+Some personal information is gathered when you register. During registration, GratisPoints asks for your name, email address, postcode, household information and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customise your experience. Once you register, you are no longer anonymous to GratisPoints and you can access the various protected areas of the site. 
 
 From time to time, we may use tracking mechanisms such as cookies or web beacons to observe your behaviour across multiple websites. We share the information we gather with third parties who serve targeted advertisements to you based on your browsing behaviours. These advertisements are served to you on multiple third party websites. If you do not wish to have your activity and browsing behaviours tracked, you may opt out by contacting our customer support team at [support@surveyhelpcenter.com](mailto:support@surveyhelpcenter.com) or selecting the opt-out button located on the “My Account” page. 
 
@@ -54,7 +54,7 @@ GratisPoints does not sell or rent user information to anyone. We will notify yo
 
 **What is GratisPoints's policy on allowing me to update, correct or delete my personally identifiable information?**
 
-You may edit your GratisPoints Account Information and your public GratisPoints Profile at any time by using your GratisPoints ID and password. If you have forgotten your password, [please click here](https://web.archive.org/web/20110617162928id_/http%3A//www.gratispoints.com/forgot_password.php).
+You may edit your GratisPoints Account Information and your public GratisPoints Profile at any time by using your GratisPoints ID and password. If you have forgotten your password, [please click here](https://web.archive.org/web/20111211011022id_/http%3A//www.gratispoints.com/forgot_password.php).
 
 Your GratisPoints account can be deleted or deactivated. Please contact [support@sureyhelpcenter.com](mailto:support@sureyhelpcenter.com) for further instructions about deleting or deactivating your GratisPoints account.
 
