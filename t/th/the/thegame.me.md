@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegame.me privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525231733id_/http%3A//www.thegame.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegame.me privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211202742id_/http%3A//www.thegame.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TheGame.me
 
