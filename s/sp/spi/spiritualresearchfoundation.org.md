@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129170159id_/http%3A//www.spiritualresearchfoundation.org/articles/id/shop/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211051659id_/http%3A//www.spiritualresearchfoundation.org/articles/id/shop/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,7 +14,7 @@ To better protect your privacy and the security of your information, we provide 
 
 This Policy is in accordance with the Australian National Privacy Principles contained in the Privacy Act 1988 (Cwth).
 
-If you have further questions regarding our privacy policy, please contact us via the ‘[ask a question](https://web.archive.org/profiles/extuserprof/question.php)’ functionality in your SSRF Member Account.
+If you have further questions regarding our privacy policy, please contact us via the ‘[ask a question](https://web.archive.org/articles/id/profiles/extuserprof/question)’ functionality in your SSRF Member Account.
 
 ##  2 What information do we collect?
 
@@ -202,5 +202,3 @@ We reserve the right to modify this Privacy Policy at our discretion. If we deci
 If you have any questions please contact us at [privacy@spiritualresearchfoundation.org](mailto:privacy@spiritualresearchfoundation.org)
 
 ^ Top
-
-[](https://web.archive.org/profiles/extuserprof/question.php)
