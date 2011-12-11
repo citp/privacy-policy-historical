@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 701panduan.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605132159id_/http%3A//www.701panduan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 701panduan.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211035545id_/http%3A//www.701panduan.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | 701Panduan.com
+# Privacy Policy | Malaysia Business Directory | Malaysia Travel Guide | Malaysia Lifestyle | Malaysia Deals | 701Panduan
 
 [701Panduan Sdn Bhd ](http://www.701panduan.com/)("701Panduan") collects information from users for a number of reasons.
 
@@ -44,7 +44,7 @@ your information may be disclosed to and used by such third parties. Although we
 
 _**Can you change and update your particulars?**_
 
-We encourage you to change or update your particulars, if the same are inaccurate or not updated, and you may do so at [Information Updates](http://www.701panduan.com/submit/submit.html)  page.
+We encourage you to change or update your particulars, if the same are inaccurate or not updated, and you may do so at [Information Updates](http://www.701panduan.com/enquiry-form.php?type=submit)  page.
 
 _**How your data is protected**_
 
