@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boats.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604153456id_/http%3A//www.boats.com/common/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boats.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211024451id_/http%3A//www.boats.com/common/privacy.jsp) for the most accurate reproduction.*
 
 # Boats.com - Privacy
 
