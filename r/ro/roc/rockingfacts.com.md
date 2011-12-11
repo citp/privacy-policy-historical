@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockingfacts.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111013003id_/http%3A//www.rockingfacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockingfacts.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211175918id_/http%3A//www.rockingfacts.com/privacy-policy) for the most accurate reproduction.*
 
-# Rocking Facts » Privacy Policy
+# Privacy Policy | Rocking Facts
 
 **RockingFacts Privacy Policy**
 
