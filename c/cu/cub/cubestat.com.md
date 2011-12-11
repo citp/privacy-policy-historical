@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubestat.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607004418id_/http%3A//www.cubestat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubestat.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211172538id_/http%3A//www.cubestat.com/privacy.php) for the most accurate reproduction.*
 
 # estimated worth and web stat from Cubestat
 
