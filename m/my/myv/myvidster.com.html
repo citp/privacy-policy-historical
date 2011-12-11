@@ -1,11 +1,18 @@
-<!--The following is the downloaded HTML source of the myvidster.com privacy policy that was archived on 2011-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614191540id_/http%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myvidster.com privacy policy that was archived on 2011-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211035427id_/http%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>myVidster - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="">
 <meta name="keywords" content="">
+<script type="text/javascript" src="/js/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/js/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/js/jquery.ui.position.js"></script>
+<script type="text/javascript" src="/js/jquery.ui.autocomplete.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/jquery-ui-1.8.14.custom.css">
+
 <script type="text/javascript" src="/js/vidster.js?v=6"></script>
 <link href="/style.css?v=1" rel="stylesheet" type="text/css">
 </head>
@@ -40,12 +47,26 @@
 												<td align="right"><img src="/images/spacer.gif" width="1" height="15" border="0" alt=""></td>
 											</tr>
 											<tr>
-												<td align="right" valign="bottom">
-					<form name="searchForm" id="searchForm" method="get" action="/search/">
-						<input type="text" name="q" maxlength="128" value="" size="25">
-						<input type="hidden" name="filter_by" value="myvidster">
-						<input type="submit" value="Search">
-					</form></td>
+												<td align="right" valign="bottom"><script>
+						$(function() {
+							$( "#q" ).autocomplete({
+								source: "/search_callback.php",
+								minLength: 2,
+								separator: " ",
+								delay: 100
+							});
+						});
+					</script>
+					<div class="ui-widget">
+						<form name="searchForm" id="searchForm" method="get" action="/search/">
+							<input type="text" name="q" id="q" maxlength="128" value="" size="40" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+							<select name="filter_by" class="filter_by">
+				<option value="myvidster" selected="">myVidster</option>
+				<option value="profiles">profiles</option>
+				</select>
+							<input type="submit" value="Search">
+						</form>
+					</div></td>
 											</tr>
 										</tbody></table>
 									</td>
@@ -61,7 +82,8 @@
 			 <table border="0" cellspacing="0" cellpadding="0" align="center">
 			   <tbody><tr><td><img src="/images/spacer.gif" width="1" height="8" border="0" alt=""></td></tr>
 			   
-				</tbody></table>	<table width="900" align="center" border="0" cellspacing="0" cellpadding="0">
+				</tbody></table>
+					<table width="900" align="center" border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr><td><img src="/images/spacer.gif" width="1" height="10" border="0"></td></tr>
 	<tr><td><div class="details"><table width="" align="center" border="0" cellspacing="10" cellpadding="0">
 		<tbody><tr><th>Privacy Policy</th></tr>
@@ -157,7 +179,7 @@
 	<tr><td><img src="/images/spacer.gif" width="1" height="10" border="0"></td></tr>
 	</tbody></table>
 	
-	<table cellspacing="0" cellpadding="0" align="center" width="100%" border="0">
+	<table cellspacing="0" cellpadding="5" align="center" width="100%" border="0">
 		<tbody><tr>
 			<td><div class="footer"><table cellspacing="0" cellpadding="0" align="center" width="100%" border="0">
 			<tbody><tr><td align="center"><a href="/">myVidster</a>  | 
@@ -167,9 +189,10 @@
 			<a href="/docs/privacy">privacy</a> |
 			<a href="/docs/copyright">copyright</a> |
 			<a href="javascript:void(0);" onclick="WindowOpen('/docs/advertise','',470,300);">advertise</a> |
+			<a href="/docs/video_publishers">video publishers</a> |
 			<a href="/docs/contact">contact</a><br>
 			<span class="postdate">Copyright © 2007 - 2011 myVidster All rights reserved.</span></td></tr></tbody></table></div></td>
 		</tr>
 		</tbody></table>
 
-</body></html>
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
