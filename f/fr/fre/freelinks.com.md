@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110054757id_/http%3A//www.freelinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelinks.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212003228id_/http%3A//www.freelinks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Free Links
 
@@ -7,8 +7,8 @@
 This is the web site of FREELINKS.COM LLC. 
 
 Our postal address is  
-2719 Floral Trl  
-Long Beach, IN 46360
+808 N Franklin St 1412  
+Tampa, FL 33602
 
 We can be reached via e-mail at freelinksllc@gmail.com. 
 
