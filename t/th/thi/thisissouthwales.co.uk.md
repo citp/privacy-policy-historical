@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the thisissouthwales.co.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611031205id_/http%3A//www.thisissouthwales.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisissouthwales.co.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211173337id_/http%3A//www.thisissouthwales.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # This is South Wales | Privacy Policy
 
-24 May 2011
+10 October 2011
 
 This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use this Site.
 
 **Collection Of Personal Information**
 
-We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms, submit comments to the Site, participate in message boards, blogs and other such user generated content facilities or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.
+We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms, submit comments to the Site, participate in message boards, blogs and other such user generated content facilities or send emails or text messages to us. Please do not submit your personal information to us if you do not wish us to collect it.
 
 **Collection Of Other Information/Cookies**
 
