@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ncsreporting.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623174541id_/http%3A//www.ncsreporting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsreporting.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211070544id_/http%3A//www.ncsreporting.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | NCS Reporting
 
-[Home](https://web.archive.org/web/20110623174541id_/http%3A//www.ncsreporting.com/login.aspx) -> Privacy Policy
+[Home](https://web.archive.org/) -> Privacy Policy
 
 Privacy Policy 
 
@@ -10,7 +10,7 @@ Privacy Policy
 
 Last Updated: April 14, 2009
 
-**Bankrate, Inc., a Florida corporation ("Bankrate"), owns and operates this Web site and portions of other Web pages and Web content through which you have accessed this Privacy Policy (collectively, this "Site"). By visiting, using and/or submitting information to this Site, you are accepting the practices described in this Privacy Policy and the terms and conditions of Bankrate's Agreement of Terms of Use located at the URL[ http://www.ncsreporting.com/TermOfUse.aspx ](http://www.ncsreporting.com/TermOfUse.aspx)(the “Terms of Use”). **
+**Bankrate, Inc., a Florida corporation ("Bankrate"), owns and operates this Web site and portions of other Web pages and Web content through which you have accessed this Privacy Policy (collectively, this "Site"). By visiting, using and/or submitting information to this Site, you are accepting the practices described in this Privacy Policy and the terms and conditions of Bankrate's Agreement of Terms of Use located at the URL[http://www.ncsreporting.com/termofuse.php](https://web.archive.org/termofuse.php)(the “Terms of Use”). **
 
 Bankrate takes your privacy seriously, and has published this Privacy Policy to explain how Bankrate treats all information you may submit to this Site, except that information which is submitted pursuant to a sweepstakes entry. Refer to the Official Rules and Privacy Policy for each individual sweepstakes for Bankrate's specific policies regarding information sharing and disclosure pursuant to sweepstakes entry. 
 
