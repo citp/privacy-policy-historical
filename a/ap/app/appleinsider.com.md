@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518175536id_/http%3A//appleinsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211064054id_/http%3A//appleinsider.com/privacy.php) for the most accurate reproduction.*
 
 # AppleInsider | Privacy Policy
 
