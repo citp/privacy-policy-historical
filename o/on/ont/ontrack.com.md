@@ -1,78 +1,67 @@
-> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628223233id_/http%3A//www.krollontrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211033755id_/http%3A//www.krollontrack.com/privacy) for the most accurate reproduction.*
 
 # Privacy for you and your information - Kroll Ontrack
 
-**Last Revision Date: August 2008**
+**Last Revision Date: December 23, 2010**
 
-Kroll Ontrack is committed to maintaining the privacy of the personal information you share with us when using this site and in communicating with us during our performance of services for you. We will not sell, distribute or rent information about you and your contact with Kroll Ontrack. We will only use the personal information you share with us for the purposes of carrying out the services or transactions you have requested; enhancing your use of our web site and sending you information about our products and services. Please take a moment to read our Privacy Policy for a better understanding of the measures we take to protect you and the personal information you share with us. 
+Kroll Ontrack (“Ontrack”) recognizes the importance of protecting your privacy. The following privacy policy (“Privacy Policy”) describes what information Ontrack collects, how Ontrack collects that information, and how Ontrack stores, uses, transfers, and discloses (collectively “Uses”) the collected information. This Privacy Policy is subject to Ontrack’s [Terms of Use Agreement](https://web.archive.org/terms/ "Kroll Ontrack Website Terms of Use Agreement") (“TOU”), which can be found at the bottom of the web site home page. You should print a copy of this Privacy Policy for your records, and you should also know that Ontrack may update or amend this Privacy Policy from time to time as Ontrack deems necessary. When Ontrack updates or amends its Privacy Policy, we will post the revision date of the updated or amended Privacy Policy at the top of the document.
 
-This Privacy Policy will explain the following regarding our collection of information:
+**Affiliate, Partner and Third-Party Web Sites**
 
-The information we collect.  
-How we use and protect the information we collect.  
-How to opt-out.  
-How to gain access to the information we have on file for you.  
-Safe Harbor.  
-Our use of cookies.  
-Notification of changes.
+This Privacy Policy applies to this web site only. To the extent that this web site permits you to link to other web sites of Ontrack’s affiliates, partners, or other third-parties, separate privacy polices may apply to those linked web sites. Those separate privacy policies may contain different terms that are not the same as those terms contained in Ontrack’s Privacy Policy. Your access to and use of such linked web sites through links that are provided on this web site are not governed by this Privacy Policy. Rather, your access to and use of such linked web sites are governed by the privacy polices in those linked web sites, and Ontrack expressly disclaims any and all responsibility for your access to and use of such linked web sites, as well as for any use of the information that you may provide, or any information that may be collected about you, at such linked web sites.
 
-* * *
+**Purpose of Collection of Personal Information**
 
-**The information we collect.**
+Personal Information is data that can be used to uniquely identify or contact an individual. Ontrack collects Personal Information in order to complete online transactions that you may place with us, and also to act upon instructions that you may give to us.
 
-  * We allow you to register to receive periodic e-mail correspondence from us or to otherwise receive it in connection with the services you are receiving from us. The information we collect for this purpose is your name, company name, physical mailing address and your e-mail address. 
-  * Whenever you complete a transaction with us (either via entering into a services agreement or a purchase made via this web site), we obtain from you the information we need to complete your transaction. To process your order, we require you to supply us with your correct billing, shipping and contact information. The transfer of this information is secure and cannot be received or read by others. 
-  * In the course of performing services for you, you may provide to us data and information that is either contained within hard-copy documents or stored on various types of electronic storage media (e.g. back-up tapes, hard drives, CD/DVD) and provide us with your instructions regarding information you would like for us to make available for your review.
+**What Personal Information Ontrack Actively Collects**
+
+  * When you register to receive periodic email correspondence from us or to download information from our website, or to give us instructions regarding your account, we may collect Personal Information that includes, but is not limited to, your name, company name, physical mailing address, your email address, and phone number(s). 
+  * When you complete a transaction with us, such as purchasing a product or entering into a services agreement, we may collect Personal Information that includes, but is not limited to, billing information such as credit card numbers and security codes, shipping information and contact information. We do not collect social security numbers. 
+  * When you attend trade shows or other events, we may collect Personal Information that includes, but is not limited to, your name, company, address, email address, work address, and phone numbers.
 
 
 
-* * *
+**What Personal Information Ontrack Passively Collects: Cookies and Other Technologies**
 
-**How we use and protect the information we collect.**
+Ontrack’s web site, online services, applications, email messages, and advertisements, if any, may use “cookies” and other technologies such as pixel tags and web beacons ( pixel tags and web beacons are together known as “Other Technologies”) to collect information about you. A cookie is a small data file stored on the web browser on your computer’s hard drive. A cookie associates the identification numbers built into the cookie with information about you that you have provided to us. This association allows us to recognize who you are when you arrive at our web site. Other Technologies tell us where on our website you have visited, counts how many users visited certain web pages within our web site, and measures the effectiveness of advertisements, if any, and web searches.
 
-  * **Data & Media**
-    * During our performance of services, we will act on your instructions as contained in communications with us and any associated contracts for our services and will retrieve and process only that information you have authorized us to retrieve and process. 
-    * In addition, Kroll Ontrack has in place various security policies and practices that are managed by its Security and Information Technology departments that are designed to protect the information you share with us from loss, misuse, unauthorized access or disclosure.
-  * **E-mail Messages**
-    * We will send occasional e-mail messages to let you know about changes to our web site, promotional offers and special discounts on products that we believe will be of interest to you. 
-    * E-mail messages also may be sent to invite you to a seminar or to provide you with information about a product you have purchased from Kroll Ontrack. 
-    * We may also communicate with you via e-mail to advise you of the progress of our services or to solicit additional information from you about the services.
-  * **Online Orders**
-    * We use the personal information you supply to complete and ship your order or, if applicable, to administer the online account you have with us. Your e-mail address is used to send you an order confirmation, as well as to alert you to any changes in the availability of the items you ordered.
-  * **Surveys & Contests**  
-Occasionally, Kroll Ontrack requests information through surveys or contests. Requested information may include contact information (such as your name and shipping address) and demographic information (such as your zip code and occupation). Contact information will be used to notify contest winners and award prizes. Participation in these surveys or contests is completely voluntary and is limited to those 18 years or older and as otherwise permitted by law.
+Like most web sites, we also automatically collect some tracking information and store that tracking information in an anonymous, aggregated and non-personal format. This tracking information includes Internet Protocol (IP) addresses, browser type and language, Internet Service Provider (ISP), operating system used, date and time stamps and click stream data. We use this tracking information to understand and analyze trends, to administer our web site, and to learn about user behavior on our web site. However, Ontrack may use IP addresses to identify you when Ontrack feels, in its sole discretion, that it is necessary to enforce compliance with its TOU, this Privacy Policy, to protect its services, Web Site, systems, information, employees, business partners, affiliates, users, customers or others, or when required by law.
 
+**Disclosure of Personal Information to Third Parties**
 
+As a general rule, Ontrack does not share with or disclose to any third parties any specific Personal Information, except (a) as otherwise described in this Privacy Policy, (b) when Ontrack has your permission, or (c) under special circumstances such as, but not limited to, when Ontrack believes in good faith that the law requires such disclosure, or when the disclosure will protect the safety of others.
 
-* * *
+Affiliates: Ontrack may share any or all of your Personal Information with and among its affiliated or related entities, including Ontrack affiliates located in the EU and elsewhere. Any onward transfer of your Personal Information is pursuant to the Safe Harbor Privacy Framework, discussed later in this Privacy Policy. The transfer of your Personal Information to our affiliates is done to allow these entities to offer you information about their businesses, products or services that may be of interest to you, or for other lawful business purposes.
 
-**How to opt-out.**  
-If you no longer wish to receive periodic e-mail from us, please follow the unsubscribe instructions located at the bottom of the e-mail or send us an e-mail at [remove@krollontrack.com](mailto:remove@krollontrack.com). 
+Business Partners and Service Providers: Ontrack may share your Personal Information with companies which provide services such as, but not limited to, online chat, product promotion via email, order fulfillment, e-commerce, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in products and services, information processing, conducting customer research or satisfaction surveys, and online job applications. These companies are obligated to protect your Personal Information.
 
-* * *
+Other: Ontrack may, if required by law, legal process, litigation and/or requests from public or governmental authorities, disclose your Personal Information. We may also disclose Personal Information about you if we determine, in good faith and in our sole discretion, that such disclosure is necessary for purposes of national security, law enforcement, the prevention of a crime, or other issues of public importance. We may also disclose Personal Information about you if we determine, in our sole discretion, that it is reasonably necessary to enforce the TOU, or to protect our operations or users. Additionally, in the event of a corporate reorganization, merger or acquisition, or sale, we may transfer any and all Personal Information we collect to a relevant third party.
 
-**How to gain access to the information we have on file for you.**  
-There may be times when you wish to gain access to the information we have on file for you. To receive a copy of this information, please send us an e-mail at [privacy@krollontrack.com](mailto:privacy@krollontrack.com) or call toll-free at (800) 752-1333.
+**Opting Out: How You Control the Use of Your Personal Information**
 
-* * *
+In the event you decide that you want to opt out from Ontrack’s use of your Personal Information that you previously provided to Ontrack, you may opt out of our use of your Personal Information by notifying Ontrack by email at: [remove@krollontrack.com](mailto:remove@krollontrack.com).
 
-**Safe Harbor**.  
-Kroll Ontrack complies with the European Union Safe Harbor Principles regarding the collection and use of personal information obtained from its European Union customers, including Kroll Ontrack's European subsidiaries and affiliates, and is a member of the Safe Harbor framework.
+**Integrity, Protection and Retention of Your Personal Information**
 
-For those European Union customers for whom we are providing service in the United States who have questions or concerns about Kroll Ontrack's use of the information you provided to us, we ask that you first raise the issue with the Kroll Ontrack representative with whom you are working.
+While Ontrack endeavors to protect your Personal Information, we cannot warrant the security of any Personal Information, and ultimately you provide your Personal Information to us at your own risk. Ontrack uses industry standard efforts and security practices to safeguard your Personal Information, and we use commercially reasonable efforts to use different security measures designed to protect your Personal Information from access by unauthorized persons. Some of those measures include, but may not be limited to, encryption, firewalls and use of Secure Socket Layers (SSL). Ontrack retains your Personal Information for the period necessary to fulfill the purpose for which it was collected, as outlined previously in this Privacy Policy, unless a longer retention period is mandated or permitted by law.
 
-If discussions with Kroll Ontrack do not resolve your inquiry, you may contact the Better Business Bureau Online at <http://www.bbbonline.org/>, an independent group we have retained to provide dispute resolution services regarding Kroll Ontrack's participation in and compliance with the Safe Harbor framework.
+**European Union Users: United States Department of Commerce Safe Harbor Certification**
 
-* * *
+Ontrack is self-certified with the United States Department of Commerce (DOC) as compliant with the Safe Harbor Privacy Framework. We abide by the privacy principles set forth by the DOC regarding the collection, use, transmission, and retention of Personal Information of residents of the European Union (EU). These privacy principles can be found at <http://www.export.gov/safeharbor/eg_main_018236.asp>. We have a mechanism for you to access, correct, or update your Personal Information, as described below. If there is an unresolved dispute as to the collection, use, transmission or retention of your Personal Information, we have retained the services of an independent third party, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus, to resolve these disputes. You may contact the BBB EU Safe Harbor to utilize their dispute resolution services at: <http://www.bbb.org/us>.
 
-**Our use of cookies.**  
-A "cookie" is a small data file stored by your web browser on your computer's hard drive. Cookies allow us to recognize who you are when you arrive at our site by associating the identification numbers in the cookie with other information you as a customer have provided us.
+**Access to Personal Information**
 
-Cookies allow us to understand how you clicked to our site and what pages you click on during your visit to our site. Knowing who you are and how you prefer to navigate allows us to personalize your web experience and provide you with the content that you are most interested in viewing.
+There may be times that you wish to access your Personal Information. Ontrack makes good faith efforts to provide you with access to your Personal Information so you can instruct us to correct or update the Personal Information if it is inaccurate, or delete your Personal Information if Ontrack is not required to retain it by law or for a legitimate business purpose. To receive a copy of your Personal Information, or to provide instructions to us on what you want corrected or updated, send us an e-mail at: [privacy@krollontrack.com](mailto:privacy@krollontrack.com).
 
-Accepting cookies through your web browser is your personal choice. You can still browse and purchase from this site even if you set your browser to disable cookies.
+**Children**
 
-* * *
+**This web site is not intended for use by children. Ontrack does not knowingly solicit or collect Personal Information from children under the age of 13. If you are under the age of 18, you must obtain the consent of your parent or guardian to use this Web Site.**
 
-**Notification of changes.  
-** We may occasionally update this Privacy Policy. When we post changes to this policy, we will revise the "last revision date" at the top of this policy. We encourage you to periodically review this policy to be informed of how Kroll Ontrack is protecting your information.
+**Changes to this Privacy Policy and Notification to You**
+
+ **
+
+Ontrack reserves the right, in its sole discretion, to make changes to this Privacy Policy. When we make changes to the Privacy Policy, we will revise the “Last Revision Date” field at the top of the Privacy Policy so you know the most recent version of the Privacy Policy and when the changes became effective. Changes to the Privacy Policy become effective upon posting and updating the “Last Revision Date”. We encourage you to periodically review the Privacy Policy to be informed of any changes.
+
+**
