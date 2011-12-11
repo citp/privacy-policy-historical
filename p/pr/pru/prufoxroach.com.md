@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the prufoxroach.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223020048id_/http%3A//prufoxroach.com/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prufoxroach.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211023733id_/http%3A//www.prufoxroach.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Prudential Fox & Roach | Real Estate | Philadelphia, PA, NJ, DE & MD
-
-## Privacy Policy 
+# Delaware Realtor | Delaware Realtors
 
 **Our Commitment to Privacy**  
-  
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
 
 **What Information Do We Collect?**  
@@ -32,10 +29,7 @@ Cookies are a feature of Web browser software that allows Web servers to recogni
 
 **How Do We Use Information We Collect from Cookies?**  
 We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users’ browsing activities, in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective acustomers.   
-
-
 Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site’s visitor capacity. We do not use these technologies to capture your individual email address or any personally identifying information about you although they do permit us to send focused online banner advertisements or other such responses to you. 
 
 **What About Other Web Sites Linked to Our Web Site?**  
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.   
-
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. 
