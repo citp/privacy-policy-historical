@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918231457id_/http%3A//www.rocketsoftware.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rs.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211144126id_/http%3A//www.rocketsoftware.com/about/privacy) for the most accurate reproduction.*
 
-# Rocket Software
+# Privacy Statement — Rocket Software
 
 ## Overview
 
@@ -10,7 +10,7 @@ In general, you can visit Rocket Software, Inc. on the Web without telling us wh
 
 Rocket Software, Inc. will never sell, rent or disclose your personally identifiable information to outside parties without your consent unless compelled by law or court order to do so. With your permission, Rocket Software, Inc. may send you e-mail regarding our new products, upgrades, or select third party products. In any case, we do not disclose your personally identifiable information to such third parties. Please see below regarding how our privacy policy applies when you purchase third party products on our Web site.
 
-## What Information We Gather and Track
+## Information That We Gather and Track
 
 There are times when we may need to collect information from you through our Web site. This generally involves filling out forms so you can download or order a Rocket Software, Inc. or third party product from our Web site. When you download the products we require you to fill out a form with your name and email address.
 
