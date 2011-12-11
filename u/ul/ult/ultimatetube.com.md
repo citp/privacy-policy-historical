@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultimatetube.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220052238id_/http%3A//www.ultimatetube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatetube.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211144703id_/http%3A//www.ultimatetube.com/privacy.php) for the most accurate reproduction.*
 
-# Christian Videos Social Network :
+# - Watch Christian Videos - UltimateTube :
 
 * UltimateTube Online Privacy Statement 
 * UltimateTube Online is committed to protecting your privacy. This privacy statement explains data collection and use practices of the Christian Videos Site (www.ultimatetube.com) site (the 'Site'); it also does apply to other online or offline Christian Videos sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
