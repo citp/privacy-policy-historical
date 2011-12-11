@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animals-zone.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602002724id_/http%3A//www.animals-zone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animals-zone.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211142339id_/http%3A//www.animals-zone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Animals Zone
 
@@ -17,4 +17,4 @@ External Links
 This site contains links to other sites. Animals Zone  is not responsible for the privacy practices or the content of such Web sites.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.animals-zone.com/contact "contact us").
