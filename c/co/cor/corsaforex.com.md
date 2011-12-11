@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212004436id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
 
 # Corsa Capital
 
@@ -50,33 +50,5 @@ Tortola, British Virgin Islands
 FOREX quotes
 
   
-
-
-2011-06-13 09:46:00 GMT+00 
-
-New Zealand Dollar Slides To 4-day Low Versus Australian Dollar   
-[More...](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/forex-news-sht.aspx?newsid=1153816)
-
-2011-06-13 09:38:00 GMT+00 
-
-*NZ Dollar Hits 4-day Low Of 1.2999 Against Aussie   
-[More...](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/forex-news-sht.aspx?newsid=1153815)
-
-2011-06-13 09:36:00 GMT+00 
-
-Pound Hits 12-day High Versus Euro   
-[More...](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/forex-news-sht.aspx?newsid=1153814)
-
-2011-06-13 09:21:00 GMT+00 
-
-Turkish Factory Orders, Turnover Grow At Faster Pace In April   
-[More...](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/forex-news-sht.aspx?newsid=1153813)
-
-2011-06-13 09:16:00 GMT+00 
-
-Italian Industrial Output Growth Rises In April   
-[More...](https://web.archive.org/web/20110613091608id_/http%3A//corsaforex.com/forex-news-sht.aspx?newsid=1153812)
-
-[Powered by MT5.com](http://www.mt5.com/)  
   
 ---|---|---
