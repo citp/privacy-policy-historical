@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the theopinion.in privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612035627id_/http%3A//theopinion.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theopinion.in privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211041800id_/http%3A//theopinion.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Opinion
+
+December 11, 6879 1:23 pm
 
 Any opinions that are expressed here are purely the author’s opinion.
 
