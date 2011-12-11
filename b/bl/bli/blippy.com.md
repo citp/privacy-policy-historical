@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the blippy.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518170647id_/http%3A//blippy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blippy.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211132303id_/http%3A//blippy.com/privacy) for the most accurate reproduction.*
 
 # Blippy / Privacy Policy
 
 Blippy provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of the information that we collect and receive from users of our services at www.blippy.com (the "Services"). This Privacy Policy applies only to information that you provide to use through the Services. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service (the "Terms").
 
 As used in this policy, the terms using and processing information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
-
-Blippy, Inc is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the user of fair information practices. This privacy statement covers the website blippy.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact [privacy@blippy.com](mailto:privacy@blippy.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=http://blippy.com](http://watchdog.truste.com/pvr.php?page=complaint&url=http://blippy.com)
-
-TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 #### Information Collection and Use
 
