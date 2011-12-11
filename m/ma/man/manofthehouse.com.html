@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the manofthehouse.com privacy policy that was archived on 2010-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101126151355id_/http%3A//manofthehouse.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manofthehouse.com privacy policy that was archived on 2011-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211213004id_/http%3A//manofthehouse.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" style="display: block;"><head>
+<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style="display: block;"><head><style type="text/css"></style><script async="" src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20111007144331/https://ssl.google-analytics.com/u/ga_beta.js"></script><script type="text/javascript">var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
     <title>Privacy Policy | Man of the House</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="Title" content="Privacy Policy | Man of the House">
@@ -20,56 +20,91 @@
     <link href="/packages/base.css" media="all" rel="stylesheet" type="text/css">
     <!--[if lte IE 8]><link href="/stylesheets/ie.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
     <!--[if lte IE 6]><link href="/stylesheets/ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-    <script type="text/javascript" async="" src="https://web.archive.org/web/20111007144331/https://ssl.google-analytics.com/u/ga_beta.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
     
-    <script src="/javascripts/ga.js" type="text/javascript"></script>
-
+	<script src="/javascripts/ga.js"></script>
+	<script src="/javascripts/ga_social_tracking.js"></script>
   </head>
   <body>
+	<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+	<script>
+	// Facebook async loading.
+	(function() {
+		var e = document.createElement('script'); e.async = true;
+		e.src = document.location.protocol +
+			'//connect.facebook.net/en_US/all.js';
+		document.getElementById('fb-root').appendChild(e);
+	}());
+
+	window.fbAsyncInit = function() {
+		FB.init({appId: '117738568237033', status: true, cookie: true,
+			xfbml: true});
+			_ga.trackFacebook();
+	};
+	</script>
+	
     <div class="leaderboardBlock">
-      <div class="ad"><script language="JavaScript" type="text/javascript">
-if(typeof(cachebuster) == "undefined") {var cachebuster = Math.floor(Math.random()*10000000000)}
-if(typeof(dcopt) == "undefined") {var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-if(typeof(tile) == "undefined") {var tile = 1} else {tile++}
-document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/site288.opus/generalcontent;pos=top;tile=' + tile + ';' + dcopt + 'sz=728x90;ord=' + cachebuster + '?"></scr'+'ipt>');
-</script><script src="http://ad.doubleclick.net/adj/site288.opus/generalcontent;pos=top;tile=1;dcopt=ist;sz=728x90;ord=3068343114?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/site288.opus/generalcontent;pos=top;sz=728x90;ord=123456789?" target="_blank" >
-<img src="http://ad.doubleclick.net/ad/site288.opus/generalcontent;pos=top;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript></div>
+      <div id="top" class="ad"></div>
       
     </div>
+
     <div id="bodyFrame">
 
       <div id="headerMargins">
         <div id="header">
           <a href="/" title="Back to Home"><img alt="Man of the House" id="logo" src="/images/header/logo.png"></a>
-          
-            <ul id="followUs">
-              <li><a href="http://feeds.feedburner.com/manofthehouse" title="Subscribe via RSS" class="rss" target="_blank">RSS</a></li>
-              <li><a href="http://www.facebook.com/manofthehouse" target="_blank" title="Man of the House on Facebook" class="fb">Facebook</a></li>
-              <li><a href="http://twitter.com/moth_editor" target="_blank" title="Follow Us" class="tw twitterHoverCard">Twitter: @moth_editor</a></li>
-            </ul>
-          
 
-          <ul id="utilityMenu">
-              <li>Welcome</li>
-              <li><a href="/sign_in_modal" class="colorbox">Sign In</a></li>
-              <li class="last-child"><a href="/sign_up">Sign Up</a></li>
+          <ul id="signed-out-menu" class="utilityMenu" style="display:none;">
+            
+            <li>Welcome</li>
+            <li><a href="/sign_in">Sign In</a></li>
+            <li class="last-child"><a href="/sign_up">Sign Up</a></li>
+          </ul>
+          <ul id="signed-in-menu" class="utilityMenu" style="display:none;">
+            
+            <li>Welcome, <span id="user-full-name"> </span></li>
+            <li id="my-account-link" style="display:none;"><a href="/account">My Account</a></li>
+            <li id="dashboard-link" style="display:none;"><a href="/admin">Dashboard</a></li>
+            <li class="last-child"><a href="/sign_out">Sign Out</a></li>
+          </ul>
+          <ul id="placeholder-menu" class="utilityMenu">
+            <li>&nbsp;</li>
           </ul>
           <div id="searchForm"><form action="http://manofthehouse.com/search" method="get">
-  <input class="search" id="keyword" maxlength="75" name="keyword" type="text">
+  <input class="search" id="keyword" maxlength="75" name="keyword" type="text" value="">
   <input class="button" name="commit" type="submit" value="Search">
 </form>
 </div>
             <ul id="nav">
-<li class="home"><a href="/home" title="Go to Around the House">Around the House</a><ul><li><a href="/home/repair" title="Go to Maintenance &amp; Repair">Maintenance &amp; Repair</a></li><li><a href="/home/cleaning" title="Go to Upkeep &amp; Cleaning">Upkeep &amp; Cleaning</a></li><li><a href="/home/organizing" title="Go to Organizing">Organizing</a></li><li><a href="/home/lawn" title="Go to Lawn &amp; Garden">Lawn &amp; Garden</a></li><li><a href="/home/garage" title="Go to Garage">Garage</a></li><li><a href="/home/tools" title="Go to Tools">Tools</a></li><li><a href="/home/projects" title="Go to Special Projects">Special Projects</a></li></ul></li><li class="food"><a href="/food" title="Go to Food &amp; Cooking">Food &amp; Cooking</a><ul><li><a href="/food/basics" title="Go to Basics">Basics</a></li><li><a href="/food/easy-recipes" title="Go to Easy Recipes">Easy Recipes</a></li><li><a href="/food/grilling" title="Go to Grilling">Grilling</a></li><li><a href="/food/eat-healthy" title="Go to Eating Better">Eating Better</a></li><li><a href="/food/kids" title="Go to For the Kids">For the Kids</a></li><li><a href="/food/kitchen-gadgets" title="Go to Kitchen Gadgets">Kitchen Gadgets</a></li></ul></li><li class="money"><a href="/money" title="Go to Money &amp; Career">Money &amp; Career</a><ul><li><a href="/money/career-advice" title="Go to Career Advice">Career Advice</a></li><li><a href="/money/budget" title="Go to Budgeting">Budgeting</a></li><li><a href="/money/finance" title="Go to Investment &amp; Finance">Investment &amp; Finance</a></li><li><a href="/money/planning" title="Go to Financial Planning">Financial Planning</a></li></ul></li><li class="gadgets"><a href="/gadgets" title="Go to Technology &amp; Gear">Technology &amp; Gear</a><ul><li><a href="/gadgets/computers" title="Go to Computers">Computers</a></li><li><a href="/gadgets/theater" title="Go to Home Theater">Home Theater</a></li><li><a href="/gadgets/cameras" title="Go to Cameras">Cameras</a></li><li><a href="/gadgets/video-cameras" title="Go to Camcorders">Camcorders</a></li><li><a href="/gadgets/technology" title="Go to Gadgets">Gadgets</a></li><li><a href="/gadgets/phones" title="Go to Phones">Phones</a></li><li><a href="/gadgets/sports" title="Go to Sports Gear">Sports Gear</a></li></ul></li><li class="family"><a href="/family" title="Go to Family &amp; Parenting">Family &amp; Parenting</a><ul><li><a href="/family/activities" title="Go to Family Activities">Family Activities</a></li><li><a href="/family/baby-care" title="Go to Baby Care">Baby Care</a></li><li><a href="/family/reviews" title="Go to Review of Kids' Stuff">Review of Kids' Stuff</a></li><li><a href="/family/homework" title="Go to School &amp; Homework">School &amp; Homework</a></li><li><a href="/family/child-development" title="Go to Behavior">Behavior</a></li><li><a href="/family/family-planning" title="Go to Family Planning">Family Planning</a></li><li><a href="/family/parents" title="Go to Parents &amp; Inlaws">Parents &amp; Inlaws</a></li><li><a href="/family/pets" title="Go to Pets">Pets</a></li></ul></li><li class="relationships"><a href="/relationships" title="Go to Relationships">Relationships</a><ul><li><a href="/relationships/communication" title="Go to Communication">Communication</a></li><li><a href="/relationships/date-night" title="Go to Date Night">Date Night</a></li><li><a href="/relationships/sex" title="Go to Sex">Sex</a></li><li><a href="/relationships/single-divorced" title="Go to Single or Divorced">Single or Divorced</a></li><li><a href="/relationships/gifts" title="Go to Gift Giving">Gift Giving</a></li><li><a href="/relationships/kids-family" title="Go to Kids, Family &amp; Friends">Kids, Family &amp; Friends</a></li></ul></li><li class="style-grooming"><a href="/style-grooming" title="Go to Looking Good">Looking Good</a><ul><li><a href="/style-grooming/aging" title="Go to Aging">Aging</a></li><li><a href="/style-grooming/fashion" title="Go to Style">Style</a></li><li><a href="/style-grooming/grooming" title="Go to Grooming">Grooming</a></li></ul></li><li class="health"><a href="/health" title="Go to Feeling Good">Feeling Good</a><ul><li><a href="/health/exercise" title="Go to Exercise">Exercise</a></li><li><a href="/health/nutrition" title="Go to Nutrition">Nutrition</a></li><li><a href="/health/stress-relief" title="Go to Stress Relief">Stress Relief</a></li><li><a href="/health/doctor" title="Go to At the Doctor">At the Doctor</a></li></ul></li><li class="blog"><a href="/blog" title="Go to Blog">Blog</a></li>            </ul>
+                <li class="home">
+                  <a href="/home" title="Go to Around the House">Around the House</a>                  <ul>                      <li><a href="/home/repair" title="Go to Maintenance &amp; Repair">Maintenance &amp; Repair</a></li>                      <li><a href="/home/cleaning" title="Go to Upkeep &amp; Cleaning">Upkeep &amp; Cleaning</a></li>                      <li><a href="/home/organizing" title="Go to Organizing">Organizing</a></li>                      <li><a href="/home/lawn" title="Go to Lawn &amp; Garden">Lawn &amp; Garden</a></li>                      <li><a href="/home/garage" title="Go to Garage">Garage</a></li>                      <li><a href="/home/tools" title="Go to Tools">Tools</a></li>                      <li><a href="/home/projects" title="Go to Special Projects">Special Projects</a></li>                  </ul>                </li>
+                <li class="food">
+                  <a href="/food" title="Go to Food &amp; Cooking">Food &amp; Cooking</a>                  <ul>                      <li><a href="/food/basics" title="Go to Basics">Basics</a></li>                      <li><a href="/food/easy-recipes" title="Go to Easy Recipes">Easy Recipes</a></li>                      <li><a href="/food/grilling" title="Go to Grilling">Grilling</a></li>                      <li><a href="/food/eat-healthy" title="Go to Eating Better">Eating Better</a></li>                      <li><a href="/food/kids" title="Go to For the Kids">For the Kids</a></li>                      <li><a href="/food/kitchen-gadgets" title="Go to Kitchen Gadgets">Kitchen Gadgets</a></li>                  </ul>                </li>
+                <li class="money">
+                  <a href="/money" title="Go to Money &amp; Career">Money &amp; Career</a>                  <ul>                      <li><a href="/money/career-advice" title="Go to Career Advice">Career Advice</a></li>                      <li><a href="/money/budget" title="Go to Budgeting">Budgeting</a></li>                      <li><a href="/money/finance" title="Go to Investment &amp; Finance">Investment &amp; Finance</a></li>                      <li><a href="/money/planning" title="Go to Financial Planning">Financial Planning</a></li>                  </ul>                </li>
+                <li class="gadgets">
+                  <a href="/gadgets" title="Go to Technology &amp; Gear">Technology &amp; Gear</a>                  <ul>                      <li><a href="/gadgets/computers" title="Go to Computers">Computers</a></li>                      <li><a href="/gadgets/theater" title="Go to Home Theater">Home Theater</a></li>                      <li><a href="/gadgets/cameras" title="Go to Cameras &amp; Camcorders">Cameras &amp; Camcorders</a></li>                                                                  <li><a href="/gadgets/technology" title="Go to Gadgets">Gadgets</a></li>                      <li><a href="/gadgets/phones" title="Go to Phones">Phones</a></li>                      <li><a href="/gadgets/sports" title="Go to Sports Gear">Sports Gear</a></li>                      <li><a href="/gadgets/video-games" title="Go to Games">Games</a></li>                  </ul>                </li>
+                <li class="family">
+                  <a href="/family" title="Go to Family &amp; Parenting">Family &amp; Parenting</a>                  <ul>                      <li><a href="/family/activities" title="Go to Family Activities">Family Activities</a></li>                      <li><a href="/family/baby-care" title="Go to Baby Care">Baby Care</a></li>                      <li><a href="/family/reviews" title="Go to Review of Kids' Stuff">Review of Kids' Stuff</a></li>                      <li><a href="/family/homework" title="Go to School &amp; Homework">School &amp; Homework</a></li>                      <li><a href="/family/child-development" title="Go to Behavior">Behavior</a></li>                      <li><a href="/family/family-planning" title="Go to Family Planning">Family Planning</a></li>                      <li><a href="/family/parents" title="Go to Parents &amp; Inlaws">Parents &amp; Inlaws</a></li>                      <li><a href="/family/pets" title="Go to Pets">Pets</a></li>                  </ul>                </li>
+                <li class="relationships">
+                  <a href="/relationships" title="Go to Relationships">Relationships</a>                  <ul>                      <li><a href="/relationships/communication" title="Go to Communication">Communication</a></li>                      <li><a href="/relationships/date-night" title="Go to Date Night">Date Night</a></li>                      <li><a href="/relationships/sex" title="Go to Sex">Sex</a></li>                      <li><a href="/relationships/single-divorced" title="Go to Single or Divorced">Single or Divorced</a></li>                      <li><a href="/relationships/gifts" title="Go to Gift Giving">Gift Giving</a></li>                      <li><a href="/relationships/kids-family" title="Go to Kids, Family &amp; Friends">Kids, Family &amp; Friends</a></li>                  </ul>                </li>
+                <li class="style-grooming">
+                  <a href="/style-grooming" title="Go to Looking Good">Looking Good</a>                  <ul>                      <li><a href="/style-grooming/aging" title="Go to Aging">Aging</a></li>                      <li><a href="/style-grooming/fashion" title="Go to Style">Style</a></li>                      <li><a href="/style-grooming/grooming" title="Go to Grooming">Grooming</a></li>                  </ul>                </li>
+                <li class="health">
+                  <a href="/health" title="Go to Feeling Good">Feeling Good</a>                  <ul>                      <li><a href="/health/exercise" title="Go to Exercise">Exercise</a></li>                      <li><a href="/health/nutrition" title="Go to Nutrition">Nutrition</a></li>                      <li><a href="/health/stress-relief" title="Go to Stress Relief">Stress Relief</a></li>                      <li><a href="/health/doctor" title="Go to At the Doctor">At the Doctor</a></li>                  </ul>                </li>
+                <li class="blog">
+                  <a href="/blog" title="Go to Blog">Blog</a>                                  </li>
+            </ul>
         </div>
       </div>
       <div id="pageBodyMargins">
-        
         <div id="pageBody">
+          
+          
+          
+          
           <div id="contentBody">
-            
+            <div id="notice"></div>
+            <div id="error" class="error"></div>
             
              
   <div id="breadcrumb"><a href="/" title="Back to Home Page">Home</a> / Privacy Policy</div>
@@ -136,63 +171,38 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/site288.opus/gener
 
           </div>
           
-          <div id="sidebar">
-            
-            <div class="block"><script language="JavaScript" type="text/javascript">
-if(typeof(cachebuster) == "undefined") {var cachebuster = Math.floor(Math.random()*10000000000)}
-if(typeof(dcopt) == "undefined") {var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-if(typeof(tile) == "undefined") {var tile = 1} else {tile++}
-document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/site288.opus/generalcontent;pos=right;tile=' + tile + ';' + dcopt + 'sz=300x250;ord=' + cachebuster + '?"></scr'+'ipt>');
-</script><script src="http://ad.doubleclick.net/adj/site288.opus/generalcontent;pos=right;tile=2;sz=300x250;ord=3068343114?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/site288.opus/generalcontent;pos=right;sz=300x250;ord=123456789?" target="_blank" >
-<img src="http://ad.doubleclick.net/ad/site288.opus/generalcontent;pos=right;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript></div>
-            
-            <div id="sign-up-sidebar" class="block">
-  <div>
-      <form action="/users" class="new_user" id="user_4cefceb33bebd059be00027f" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="+53gZoGlkfOAQoeRznMfzoJrSy6mC2q4ZbcD66sU75k="></div>
-        
-        <ul class="formList">
-          <li class="name">
-            <input class="textBox" id="user_first_name" name="user[first_name]" placeholder="First Name" size="30" type="text">
-          </li>
-          <li class="name">
-            <input class="textBox" id="user_last_name" name="user[last_name]" placeholder="Last Name" size="30" type="text">
-          </li>
-          <li>
-            <input class="textBox" id="user_email" name="user[email]" placeholder="Email" size="30" type="text">
-          </li>
-          <li class="noLabel">
-            <input name="user[terms_of_service]" type="hidden" value="0"><input id="user_terms_of_service" name="user[terms_of_service]" type="checkbox" value="1">
-            <label for="user_terms_of_service">I have read and accept the <a href="/terms">Terms</a> &amp; <a href="/privacy">Privacy</a> policies.</label>
-          </li>
-          <li class="noLabel">
-            <input id="user_email_optin" name="user[email_optin]" type="hidden" value="1">
-          </li>
-          <li class="noLabel"><input class="button" id="emailSubscribe" name="commit" type="submit" value="Subscribe"></li>
-        </ul>
-      </form>
-      <p><a href="#" id="revealSignUpForm" class="button">Get Signed Up</a></p>
-  </div>
-</div>
-            
-            
-  <div id="recentBlogPosts" class="block">
-    <h3 class="blockHeadline">Editor's Blog <a href="/blog" title="Read the Blog">View all posts</a></h3>
-    <div>
-        <p><a href="/blog/editors-blog/movember-week-for-and-a-center-part">Movember: Week Four and a Center Part</a> -&nbsp;November 22, 2010 -&nbsp;Posted by Craig J.  Heimbuch</p>
-        <p><a href="/blog/editors-blog/old-wive-s-tales">Old Wive's Tales</a> -&nbsp;November 16, 2010 -&nbsp;Posted by Craig J.  Heimbuch</p>
-        <p><a href="/blog/editors-blog/movember-week-three-begins">Mustache in Revolt: An Alter-Ego is Born</a> -&nbsp;November 15, 2010 -&nbsp;Posted by Craig J.  Heimbuch</p>
-    </div>
-  </div>
 
-            
-            <div id="twitterSideBar" class="block">
-              <a href="http://twitter.com/moth_editor" target="_blank" title="Follow Us">Follow @moth_editor on Twitter</a>
+          
+            <div id="sidebar">
+              
+              
+              <div class="block ad right" id="right" style="width:300px;height:250px"></div>
+              
+              <div class="blockHeadline follow"><h3>Follow Us</h3></div>
+                <ul class="followUs">
+                  <li class="firstChild"><fb:like href="http://www.facebook.com/manofthehouse" width="290" send="true" show_faces="false" border_color="" stream="false" header="false"></fb:like></li>
+				
+                  <li class="lastChild">
+                    <g:plusone href="http://manofthehouse.com" size="large" count="true"></g:plusone>
+                    <span class="rss"><a href="http://feeds.feedburner.com/manofthehouse" title="Subscribe via RSS" target="_blank">RSS Feed</a></span>
+                  </li>
+              </ul>
+              
+              <a href="/relationships/sex/dr-helen-fisher-intimacy-expectations-marriage" onclick="_gaq.push(['_trackEvent', 'Sidebar Click', 'Video - Face Helen']);" title="Watch video"><img alt="Intimacy in marriage" class="block" src="/images/promos/video-face-helen.jpg"></a>
+              
+              
+  <div class="blockHeadline"><h3>Editor's Blog</h3> <span><a href="/blog" title="Read the Blog">View all posts</a></span></div>
+  <ul id="recentBlogPosts" class="block">
+      <li><a href="/blog/editors-blog/they-will-feel-the-power-of-our-wallets" title="Read post">They Will Feel the Power of Our Wallets</a> 10/20</li>
+      <li><a href="/blog/editors-blog/first-day-of-school-nightmare" title="Read post">First Day of School Nightmare</a> 8/11</li>
+      <li><a href="/blog/editors-blog/on-set-in-wilmington" title="Read post">On Set in Wilmington</a> 6/10</li>
+      <li><a href="/blog/editors-blog/fear-and-loathing-with-suburban-moms" title="Read post">Fear and Loathing with Suburban Moms</a> 5/24</li>
+      <li><a href="/blog/editors-blog/don-wildman-off-limits" title="Read post">Don Wildman: Off Limits</a> 5/16</li>
+  </ul>
+
+              
+              
             </div>
-            <a href="/greatest-dad-contest" class="block"><img alt="Sidebar-callout-winners" src="/images/contest-wgd/sidebar-callout-winners.gif"></a>
-            <a href="/giveaway" class="block"><img alt="Sweeps_sidebar" src="/images/sidebar/sweeps_sidebar.png"></a>
-            <a href="/thanks-dad" class="block"><img alt="Thanksdad_sidebar" src="/images/sidebar/thanksdad_sidebar.png"></a>
-          </div>
           
         </div>
       </div>
@@ -201,15 +211,15 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/site288.opus/gener
           <div>
             <ul>
               <li><a href="/about" rel="nofollow">About Us</a></li>
+              <li><a href="/contact" rel="nofollow">Contact Us</a></li>
               <li><a href="/privacy" rel="nofollow">Privacy</a></li>
               <li><a href="/terms" rel="nofollow">Terms</a></li>
-              <li><a href="/contact" rel="nofollow">Contact Us</a></li>
               <li><a href="/advertise" rel="nofollow">Advertise With Us</a></li>
               <li class="last-child"><a href="/site-map">Site Map</a></li>
             </ul>
-            <p>© 2010 Man of the House,
+            <p>© 2011 Man of the House,
               <a href="http://www.barefootproximity.com" target="_blank" rel="nofollow">Barefoot Proximity</a>,
-              <a href="http://www.proctergambleproductions.com/" target="_blank" rel="nofollow">P&amp;G Productions</a></p>
+              <a href="http://www.pg.com/" target="_blank" rel="nofollow">P&amp;G Productions</a></p>
           </div>
         </div>
       
@@ -217,60 +227,111 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/site288.opus/gener
     </div>
 
     <div class="leaderboardBlock">
-      <div class="ad"><script language="JavaScript" type="text/javascript">
-if(typeof(cachebuster) == "undefined") {var cachebuster = Math.floor(Math.random()*10000000000)}
-if(typeof(dcopt) == "undefined") {var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-if(typeof(tile) == "undefined") {var tile = 1} else {tile++}
-document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/site288.opus/generalcontent;pos=bottom;tile=' + tile + ';' + dcopt + 'sz=728x90;ord=' + cachebuster + '?"></scr'+'ipt>');
-</script><script src="http://ad.doubleclick.net/adj/site288.opus/generalcontent;pos=bottom;tile=3;sz=728x90;ord=3068343114?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/site288.opus/generalcontent;pos=bottom;sz=728x90;ord=123456789?" target="_blank" >
-<img src="http://ad.doubleclick.net/ad/site288.opus/generalcontent;pos=bottom;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript></div>
+      <div id="bottom" class="ad"></div>
       
     </div>
 
-    <script src="/packages/base.js" type="text/javascript"></script>
-
-    <script src="/javascripts/twitter.js" type="text/javascript"></script>
-
-          <script type="text/javascript">
-      _qoptions={
-      qacct:"p-36do_XJUOYDrE"
-      };
-      </script>
-      <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-      <noscript>
-      <img src="http://pixel.quantserve.com/pixel/p-36do_XJUOYDrE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-      </noscript>
-
     
-    
-          <script type="text/javascript">
-    var _sf_async_config={uid:9993,domain:"manofthehouse.com"};
-    (function(){
-      function loadChartbeat() {
-        window._sf_endpt=(new Date()).getTime();
-        var e = document.createElement('script');
-        e.setAttribute('language', 'javascript');
-        e.setAttribute('type', 'text/javascript');
-        e.setAttribute('src',
-           (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-           "static.chartbeat.com/js/chartbeat.js");
-        document.body.appendChild(e);
+    <script>
+      if (typeof bprox == 'undefined') { bprox = {};}
+      if (typeof(MOTH) === 'undefined') { var MOTH = {};};
+
+      MOTH.ads = {
+        top: "        <script>\n          //console.log(\"ad_tag => generalcontent, position => top, size => 728x90\");\n          MOTH.generateAd(\'generalcontent\', \'top\', \'728x90\');\n        <\/script>\n        <noscript>\n          <a href=\"http://ad.doubleclick.net/jump/site288.opus/generalcontent;pos=top;sz=728x90;ord=177072452?\" target=\"_blank\" >\n            <img src=\"http://ad.doubleclick.net/ad/site288.opus/generalcontent;pos=top;sz=728x90;ord=177072452?\" border=\"0\" alt=\"\" />\n          <\/a>\n        <\/noscript>\n",
+        right: "        <script>\n          //console.log(\"ad_tag => generalcontent, position => right, size => 300x250\");\n          MOTH.generateAd(\'generalcontent\', \'right\', \'300x250\');\n        <\/script>\n        <noscript>\n          <a href=\"http://ad.doubleclick.net/jump/site288.opus/generalcontent;pos=right;sz=300x250;ord=863137429?\" target=\"_blank\" >\n            <img src=\"http://ad.doubleclick.net/ad/site288.opus/generalcontent;pos=right;sz=300x250;ord=863137429?\" border=\"0\" alt=\"\" />\n          <\/a>\n        <\/noscript>\n",
+        //right_bottom: "",
+        bottom: "        <script>\n          //console.log(\"ad_tag => generalcontent, position => bottom, size => 728x90\");\n          MOTH.generateAd(\'generalcontent\', \'bottom\', \'728x90\');\n        <\/script>\n        <noscript>\n          <a href=\"http://ad.doubleclick.net/jump/site288.opus/generalcontent;pos=bottom;sz=728x90;ord=972006102?\" target=\"_blank\" >\n            <img src=\"http://ad.doubleclick.net/ad/site288.opus/generalcontent;pos=bottom;sz=728x90;ord=972006102?\" border=\"0\" alt=\"\" />\n          <\/a>\n        <\/noscript>\n"
       }
-      var oldonload = window.onload;
-      window.onload = (typeof window.onload != 'function') ?
-         loadChartbeat : function() { oldonload(); loadChartbeat(); };
-    })();
+
+    
+      MOTH.generateAd = (function(undefined) {
+        var cachebuster = Math.floor(Math.random()*10000000000);
+        var dcopt = "dcopt=ist;";
+        var tile = 0;
+
+        return function(zone, position, size) {
+          tile = (tile % 4);
+          ++tile;
+
+          // script tag ad:
+          var url = 'http://ad.doubleclick.net/adj/site288.opus/'+zone+';pos='+position+';tile=' + tile + ';' + dcopt + 'sz='+size+';ord=' + cachebuster + '?';
+          //console.log("ad: tile => " + tile + ", cachebuster => " + cachebuster + ", dcopt => " + dcopt + ", ad_tag => " + zone);
+          //console.log("url => " + url);
+          document.write('<scr'+'ipt src="' + url + '"></scr'+'ipt>');
+
+          // iframe ad:
+          //var url = 'http://ad.doubleclick.net/adi/site288.opus/'+zone+';pos='+position+';tile=' + tile + ';' + dcopt + 'sz='+size+';ord=' + cachebuster + '?';
+          //var width  = position == 'right' ? 320 : 750
+          //var height = position == 'right' ? 270 : 110
+          //document.write('<i'+'frame style="background-color:#222;margin:0;padding:0" frameborder="0" cellspacing="0" src="' + url + '" class="iframe_' + position + '" width="' + width + '" height="'+ height + '"></i'+'frame>');
+
+          // img ad:
+          //var url_link = 'http://ad.doubleclick.net/jump/site288.opus/'+zone+';pos='+position+';tile=' + tile + ';' + dcopt + 'sz='+size+';ord=' + cachebuster + '?';
+          //var url_img  = 'http://ad.doubleclick.net/ad/site288.opus/'+zone+';pos='+position+';tile=' + tile + ';' + dcopt + 'sz='+size+';ord=' + cachebuster + '?';
+          //document.write('<a href="' + url_link + '"><img src="' + url_img + '"></a>')
+
+          dcopt = "";
+        }
+      })();
+    
+    </script>
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+
+
+	
+    
+    <script>
+      // Asynchronous Google +1 Script Loading
+      (function() {
+        var po = document.createElement('script'); po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
     </script>
 
-      <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <script src="/javascripts/application.js" type="text/javascript"></script>
+    <script src="/javascripts/modernizr-1.6.min.js" type="text/javascript"></script>
+    <script src="/javascripts/vendor/jquery.tabs.js" type="text/javascript"></script>
+    <script src="/javascripts/vendor/jquery.cycle.all.min.js" type="text/javascript"></script>
+    <script src="/javascripts/vendor/jquery.colorbox.js" type="text/javascript"></script>
+    <script src="/javascripts/vendor/jquery.expander.js" type="text/javascript"></script>
+    <script src="/javascripts/vendor/jquery.cookie.js" type="text/javascript"></script>
+    <script src="/javascripts/vendor/jquery.idle-timer.js" type="text/javascript"></script>
+    <script src="/javascripts/vendor/jquery.write-capture.js" type="text/javascript"></script>
+    <script src="/javascripts/cookie.js" type="text/javascript"></script>
+    <script src="/javascripts/json2.js" type="text/javascript"></script>
+
+    
+
+    
+        <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "7891718" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=7891718&cv=2.0&cj=1" alt="" /> </noscript>
+
     
     
+
+    
+
     <!-- Correct fb_xd_fragment Bug Start -->
     <script>
       document.getElementsByTagName('html')[0].style.display='block';
     </script>
     <!-- Correct fb_xd_fragment Bug End -->
- 
 
- <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+    <!-- AudienceScience: START -->
+    <script src="http://js.revsci.net/gateway/gw.js?csid=F09828&amp;auto=t"></script>
+    <!-- AudienceScience: END -->
+
+  <script type="text/javascript">(function(){var d=document;var e=d.createElement("script");e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js";e.type="text/javascript";var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(e,s);})();NREUMQ.push(["nrf2","beacon-1.newrelic.com","752028d1e2",81801,"J1lYFkVWCVxRRRpDBwNTRU1HSwxGVVRM",0,172,new Date().getTime()])</script>
+
+ </body></html>
