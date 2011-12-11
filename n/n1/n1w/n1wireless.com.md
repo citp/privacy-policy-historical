@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the n1wireless.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311084645id_/http%3A//www.n1wireless.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n1wireless.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211083027id_/http%3A//www.n1wireless.com/policies.html) for the most accurate reproduction.*
 
 # GSM Cellular Cell Mobile Wireless Phone Phones CellPhones Motorola V3 Razr Samsung Nokia Sony Ericsson Prepaid Unlocked SIM Card Bluetooth Headset accessories accessory cingular tmobile T Mobile Boost Mobile | N1 Wireless - Privacy Policy
+
+New Page 1
+
+_** PRIVACY POLICY**_ _**PRIVACY GUARANTEE**_
 
 _   N1 Wireless.com is acutely aware of and sensitive to the privacy concerns of our customers and other visitors to our site.  We employ the latest encryptions services and [ office](http://www.simoncells.com/scripts/PrivacyPolicy.asp##) policies to protect out customers privacy both online and offline._
 
@@ -27,3 +31,6 @@ N1 Wireless  uses the latest encryption technology in all areas of our website 
 _**CHANGES TO THIS PRIVACY STATEMENT**_
 
 _N1 Wireless.com reserves the right to change and update this policy as necessary.  All changes will be promptly posted here._
+
+  
+
