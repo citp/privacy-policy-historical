@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621074003id_/http%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211060328id_/http%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kids News Article
 
-Welcome to DOGONEWS' website.  We respect and protect the privacy of our users and intend our site to be a safe place for everyone who visits and corresponds with us.  We are committed to keeping your information confidential.  Our information practises are designed to comply with the United States Federal Commission's Children's Online Privacy Protection Act.  No action is required on your part for this benefit. You should recognize, however, that there is no such thing as perfect security on the Internet.  Our information collection practices are described below.
+Welcome to DOGONEWS' website.  We respect and protect the privacy of our users and intend our site to be a safe place for everyone who visits and corresponds with us.  We are committed to keeping your information confidential.  Our information practises are designed to comply with the United States Federal Commission's Children's Online Privacy Protection Act (COPPA).  No action is required on your part for this benefit. You should recognize, however, that there is no such thing as perfect security on the Internet.  Our information collection practices are described below.
 
 **Collection, Use and Disclosure of Information**
 
 The only use we make of personal information (usually names and email addresses) is to respond to questions and/or requests for information from a user.  We do not otherwise make use of personal information, nor do we provide it to third parties.
 
-While you are using our website, we may also collect certain non-personally-identifiable information about you, such as the URL you just came from, the next URL you go, what browser you are using (e.g. Netscape, Internet Explorer), the domain name of your Internet Service Provider (e.g. AOL. Earthlink), and your IP address.  We also use "cookies", which are pieces of information that websites transfer to your computer's hard drive for record-keeping purposes and to track and customize advertising served to you.
+While you are using our website, we may also collect certain non-personally-identifiable information about you, such as the URL you just came from, the next URL you go, what browser you are using (e.g. Safari, Internet Explorer), the domain name of your Internet Service Provider (e.g. AOL. Earthlink), and your IP address.  We also use "cookies", which are pieces of information that websites transfer to your computer's hard drive for record-keeping purposes and to track and customize advertising served to you.
 
 **Parental Consent**
 
 If we decide to collect personal information for other reasons, we will notify parents that it is being requested, disclose the reasons for collecting it and disclose our intended use for it.  We will seek parental consent before collecting any personally indentifiable information.  If we do collect it, parents may request information on the type of data being collected view their child's information, and if they choose, prohibit us from making further use of their child's information.  We will not provide personal information to third parties.
+
+**iDOGO**
+
+iDOGO is a service that allows children to create avatars, create a book list, bookmark content, earn points and badges; and link to othes users' iDOGO pages.  It is our policy to collect only information (such as username, password and parent's or guardian's e-mail address as well) that is necessary to participate in the iDOGO service.  When children under the age of 13 register to create an iDOGO account, we require them to provide a parent's or guardian's e-mail address.  We use the provided parent's or guardian's e-mail address in order to send an e-mail notifying the recipient that their child has created an iDOGO account, informing them of their child's username and password; and provide them a link to cancel the account if they wish to.  We do not use the parent's or guardian's e-mail address for any other purpose.
 
 **Children's Blogs**
 
