@@ -1,63 +1,21 @@
-> *The following text is extracted and transformed from the musicrooms.net privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907021947id_/http%3A//www.musicrooms.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicrooms.net privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211103532id_/http%3A//www.musicrooms.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Musicrooms.net
+# Privacy Policy | Musicrooms.net
 
-**The Information We Collect**
+We take your privacy very seriously, and we are committed to maintaining the trust of our users. This Privacy Policy will help you understand what types of personal information we collect about you, and how we use it.
 
- This notice applies to all information collected on the Musicrooms.net Web site any time through any Service Pages.
+We reserve the right to modify this Privacy Policy at any time. If we do so, the most recent version will always be available on this page. You should visit this page regularly to stay aware of any changes that we may have made. If you do not agree with any part of this Privacy Policy then you should stop using this website immediately. Your continued use of this website signifies your acceptance of this Privacy Policy.
 
-Personally Identifiable Information—When visiting Musicrooms.net and signing up for using Musicrooms.net services through any Service Page, you may choose to supply Musicrooms.net with information that identifies you personally. For **End-Users** , this information may include your name, email address, gender, birth date, occupation and industry, and other information.
+If you are under 13-years-old and live in the United States of America, you must not use this website and must leave immediately. The content of this website is not intended for children and we do not knowingly collect personal information from children under the age of 13.
 
- Aggregate Information—We collect non-identifying and aggregate information to better design our Web site and services, and share the aggregate data with advertisers and other third parties.
+If you are under 16-years-old and live in the United Kingdom, you must get your parent or guardian's permission whenever you provide personal information to us. If you do not have this permission, you must not provide us with personal information.
 
-   **Collection of Personal Information from Children under Thirteen**
+When you register to participate in or receive a service from this website, such as newsletters, competitions or user profiles, we may ask for personal information from you. This may include information such as your email address, name, postal address, date of birth or telephone/mobile number. We may also pass this information to third parties that administer any competitions or other promotions so that they may administer it properly. By entering your details into any relevant fields, you are indicating your consent for this website and applicable third parties to provide you with the services you select.
 
- Musicrooms.net does not allow children known to be under the age of thirteen (13) to register for our services. We may momentarily capture personally identifiable information for purposes of determining whether a user is over the age of thirteen (13) and thus qualifies to use our services. Where the user is under the age of thirteen (13), such information is automatically deleted.
+We use cookies in order to provide a better service to you. A cookie is a small amount of data that is sent to your computer or mobile browser ("collectively, device") and is stored on your device's hard drive. You can choose to accept or decline our cookies within your device. Should you reject cookies from this website, certain services cannot be provided to you and you may not be able to take full advantage of all our features.
 
-  **The Way We Use Information**
+We use third-party advertising companies to serve advertisements and these companies may set and access their own cookies on your device. They may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Their use of their own cookies is subject to their own privacy policies, not this Privacy Policy. Google, as a third-party vendor, uses cookies to serve advertising on this site. Google's use of the DART cookie enables it to serve advertising to our users based on their visit to this site and other sites on the internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
- We use the information you provide about yourself or others to complete the transaction for which the information is intended. Such transactions may include: administering a service, such as email, search, community, advertising sales, ecommerce; completing an order; shipping a product; replying to support requests; or contacting you if you have granted us permission to do so. Except as provided in this Privacy Policy and the End-User Agreement, we do not share this information with outside parties without your permission except to the extent that is necessary to administer the services we offer our Clients and End-Users or to comply in responding to subpoenas, court orders or other legal proceedings.
+We also collect IP addresses (a number that can uniquely identify a specific computer or device on the internet), for use in analysis software in order to enhance your user experience. This information is not used to develop a personal profile of you.
 
-  Finally, we never use or share the personally identifiable information provided to us online in ways or for reasons unrelated to the ones described above without also providing an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
-  **How You Can Access or Update Your Information**
-
-  **End-Users** can access their information by logging in to their password-protected End-User account and selecting to update their "Personal Info." 
-
- If you have submitted information on our site but do not currently have an account with us, you can access and correct the information that we collect and maintain by contacting us and requesting such information or correction.
-
- To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections to your information.
-
-  **How to Contact Us**
-
- Should you have other questions or concerns about this privacy policy, please contact us by , email (
-
-[click here](http://www.musicrooms.net/online/uk-flavacontact.htm)).
-
-   **Advertising Sales Specific Terms and Conditions**
-
- We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel . gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
-
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. 
-
-[Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
-
- For more information on how Adviva.com manages the privacy of information in conjunction with serving ads on our network, please visit 
-
-[http://www.adviva.com](http://www.adviva.com/pp.php). For more information on how Valueclick.com manages the privacy of information in conjunction with serving ads on our network, please visit [http://www.valueclick.com](http://www.valueclick.com./)[.](http://www.valueclick.com./)
-
- **Disclaimer**
-
-Information on this website shall be deemed accurate and current only as of the date it is posted. Musicrooms.net specifically disclaims any duty to update.   
-This website also contains third-party information and links to other Internet sites. Musicrooms.net takes no responsibility whatsoever for third-party information. Musicrooms.net specifically disclaims adoption or incorporation by reference of such information as its own. In addition to links to third party informational sites, Musicrooms.net has contracted with several external service providers. Though Musicrooms.net has contractural agreements to ensure confidentiality of information, Musicrooms.net assumes no responsibility for information that is voluntarily provided. 
-
-All images, graphs, text, or other content in this website are, to the extent permitted by law, copyrighted and otherwise proprietary. No reproduction, transmission or other use of this information is permitted without the prior written permission of Musicrooms.net. 
-
-Any unauthorized modification, tampering or change of any information, or any interference with the availability of or access to this website is strictly prohibited. 
-
-We reserve the right to modify the content of this website in any way, at any time, and for any reason without prior notification, and will not be liable in any way for possible consequences of such changes. 
-
-Musicrooms.net reserves all legal rights and remedies available.  
-
-
-{php}$_GET['zone'] = 748; include('d947bf06a885db0d477d707121934ff8.php');{/php} 
+We will take all reasonable care to make sure your personal information is kept private in accordance of this Privacy Policy. We will keep your personal information confidential except where disclosure is required or permitted by law.
