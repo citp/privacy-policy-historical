@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bufferapp.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528183822id_/http%3A//bufferapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bufferapp.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211100152id_/http%3A//bufferapp.com/privacy) for the most accurate reproduction.*
 
-# Buffer is a smarter way to Tweet
+# Buffer - Be Awesome on Social Media
 
 ## Our Privacy Policy
 
@@ -44,7 +44,7 @@ Buffer may sell, transfer or otherwise share some or all of its assets, includin
 
 ###  Changing or Deleting Information 
 
-If you are a registered user of the Site, you may access and update or correct the information you provided to us by e-mailing us at [help@bufferapp.com](mailto:help@bufferapp.com).
+If you are a registered user of the Site, you may access and update or correct the information you provided to us by e-mailing us at [help@bufferapp.com](mailto:hello@bufferapp.com).
 
 ### Security
 
