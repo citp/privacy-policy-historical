@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226161322id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govisitcostarica.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211182905id_/http%3A//www.govisitcostarica.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Go Visit Costa Rica
 
-[ ](https://web.archive.org/travelinfo/photoLg.asp?photoID=67) GO VISIT COSTA RICA is committed to helping you make the most of your time on our Website within a trusted environment. This privacy policy discloses how we collect, protect, use and share information gathered about you on our Website. Once you have registered with our Website, you will have access to all our copyrighted photos and maps along with the ability to view all public areas of our site. We hope that this disclosure will help increase your confidence in our Website and enhance your experience on the Internet. 
+[ ](https://web.archive.org/travelInfo/photoLg.asp?phID=67) GO VISIT COSTA RICA is committed to helping you make the most of your time on our Website within a trusted environment. This privacy policy discloses how we collect, protect, use and share information gathered about you on our Website. Once you have registered with our Website, you will have access to all our copyrighted photos and maps along with the ability to view all public areas of our site. We hope that this disclosure will help increase your confidence in our Website and enhance your experience on the Internet. 
 
 This Privacy Policy is incorporated into and subject to the terms of our User Agreement and you agree to be bound by its terms and conditions. This policy only addresses our activities from our servers. Other sites (including those that we link to and third party sites or services) may have their own policies, which we do not control, and thus are not addressed by this policy.
 
@@ -56,4 +56,4 @@ Delfina Travel Group Inc.
 4151 Mission Blvd #212  
 San Diego, CA 92109  
 USA  
-Phone / Fax: (858) 581-9209
+Phone / Fax: (858) 581-9209 
