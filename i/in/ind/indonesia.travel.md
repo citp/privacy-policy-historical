@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indonesia.travel privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511133315id_/http%3A//www.indonesia.travel/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonesia.travel privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211082644id_/http%3A//www.indonesia.travel/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Visit Indonesia - Official Website for Indonesia Tourism and Travel Information
 
