@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fes-jordan.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401132616id_/http%3A//www.fes-jordan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fes-jordan.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211014423id_/http%3A//fes-jordan.com/privacy.html) for the most accurate reproduction.*
 
-# Fes Jordan High Page Rank Web Directory - Privacy Policy
+# High Page Rank Web Directory - Privacy Policy
 
   * 
 
