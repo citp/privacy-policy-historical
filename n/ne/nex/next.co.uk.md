@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2010-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100718132511id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%23LID%3D01_99_01) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211193816id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%23LID%3D01_99_01) for the most accurate reproduction.*
 
 # Next: Official Site - Privacy Policy
 
@@ -59,7 +59,7 @@ return to top ^
 In the interests of responsible lending and for security purposes we carry out searches with credit reference agencies when you register with Next and further searches may be carried out before deciding whether to accept orders and/or grant further credit. The agencies record these searches. We also share information about you and the conduct of your account with credit reference agencies, other lenders and relevant third parties.  
 Information about you and other members of your household and those with whom you are financially linked will be used to verify your identity and for the credit assessment of you and them.  
 We may also use your information for payment recovery or fraud and debt tracing. We will pass on details of defaulting accounts to debt collection agencies.  
-For details of the Credit Reference Agencies that we receive information from and share information with write to the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
+For details of the Credit Reference Agencies that we receive information from and share information with write to the Group Data Protection Manager at [Head Office](http://help.next.co.uk/Section.aspx?ItemId=10415 "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
 
 _Who does Next disclose the information it collects to?_
 
@@ -76,14 +76,14 @@ Next will not share your information with companies outside of the Next Group fo
 
 We want to keep you up to date with information about new ranges, special offers and improvements to this site.
 
-If you decide you do not want us to contact you, you can request that we stop using your information and that we stop mailing information to you by writing to the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.  
+If you decide you do not want us to contact you, you can request that we stop using your information and that we stop mailing information to you by writing to the Group Data Protection Manager at [Head Office](http://help.next.co.uk/Section.aspx?ItemId=10415 "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.  
 
 
 You may continue to receive mailings which are already on route to you for a short period of time while your request is being dealt with.
 
 Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order as you use the system. This cookie, that is saved to your system, is only valid for a single visit and each new visit will result in a new cookie overwriting any previous that were generated on previous visits to our site. If your internet browser is set to reject cookies or if your network firewall won't allow them then unfortunately you will not be able to use our online store. Please refer to your internet browser help file to see how to enable cookies on your p.c. In order that we can monitor and improve the site we may gather certain information about you when you use it, including details of your domain name and IP address, operating system, browser, version and the website that you visited prior to this site. This may involve the use of a cookie that will not expire at the end of your browsing session.
 
-You have a right to access the personal data that we hold on you. If you would like to see a copy please send a £10 fee and a written request to the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp "click to view head office postal address"), quoting Security and Privacy Enquiry. If you think the information we hold on you is incorrect please contact the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp) or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
+You have a right to access the personal data that we hold on you. If you would like to see a copy please send a £10 fee and a written request to the Group Data Protection Manager at [Head Office](http://help.next.co.uk/Section.aspx?ItemId=10415 "click to view head office postal address"), quoting Security and Privacy Enquiry. If you think the information we hold on you is incorrect please contact the Group Data Protection Manager at [Head Office](http://help.next.co.uk/Section.aspx?ItemId=10415) or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
 
 Next is a member of the Direct Marketing Association (DMA) and is required to operate within the rules of the DMA's Code of Practice. This means that Next operate to a high level of commercial standards which are designed to :
 
@@ -94,13 +94,11 @@ Next is a member of the Direct Marketing Association (DMA) and is required to op
 
 
 
-For more information on the DMA, click on the icon shown below.
-
-Next is also a member of the Mail Order Traders Association (MOTA) and subscribes to their Code of Practice. We undertake to deal with any complaints sympathetically and speedily. If any complaint cannot be resolved to the satisfaction of the customer, we or the customer can refer the problem for conciliation by the Director, Mail Order Traders Association, PO Box 51909, London, SW99 0WZ.
+For more information on the DMA, click on the icon shown.
 
 As part of our efforts to make further improvements to the service we provide to our customers, telephone calls to and from Next Directory may be recorded or monitored and used for training purposes. To protect the operation of our computer systems we monitor incoming and out going email.
 
-If you have any questions relating to this policy or the use by Next of personal data please write to the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
+If you have any questions relating to this policy or the use by Next of personal data please write to the Group Data Protection Manager at [Head Office](http://help.next.co.uk/Section.aspx?ItemId=10415 "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
 
 We may also use your information, including shopping habits, to open and run your credit account including payment recovery, fraud prevention and debt tracing and for our marketing.
 
