@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frank-kern-videos.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319035505id_/http%3A//www.inappropriatemarketing.com/%3Fpage_id%3D87) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frank-kern-videos.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211073006id_/http%3A//www.inappropriatemarketing.com/%3Fpage_id%3D87) for the most accurate reproduction.*
 
-# Privacy, Terms And Conditions « My Blog
+# 
 
 **PRIVACY POLICY**
 
