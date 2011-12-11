@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628091206id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212005918id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
 
-# Grow Your Social Network - Twitter, Facebook & Youtube | Twiends
+# Twiends Privacy Policy
 
 ### Privacy Policy
 
