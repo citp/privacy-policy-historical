@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iimmgg.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121115500id_/http%3A//www.iimmgg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimmgg.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211172101id_/http%3A//www.iimmgg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iimmgg.com
 
