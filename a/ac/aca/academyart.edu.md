@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academyart.edu privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522020723id_/http%3A//www.academyart.edu/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academyart.edu privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211084031id_/http%3A//www.academyart.edu/privacy_policy.html) for the most accurate reproduction.*
 
 # Academy of Art University: Privacy Policy
 
