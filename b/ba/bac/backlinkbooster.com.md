@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinkbooster.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624101110id_/http%3A//www.backlinkbooster.com/3100-Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkbooster.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211033907id_/http%3A//www.backlinkbooster.com/3100-Privacy.asp) for the most accurate reproduction.*
 
 # Backlink Booster | Privacy Policy
 
