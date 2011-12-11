@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hideme.be privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426034852id_/http%3A//www.hideme.be/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hideme.be privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211233753id_/http%3A//hideme.be/privacy.php) for the most accurate reproduction.*
 
-# Hide Me - Free Proxy & Anonymous Surfing
+# HideMe - Free Proxy & Anonymous Surfing
 
 ## Privacy Policy
 
@@ -24,11 +24,11 @@ The service we provide may attempt to forward third-party cookies from the websi
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
 
-  * [Home](https://web.archive.org/web/20110426034852id_/http%3A//www.hideme.be/index.php)
-  * [Edit Browser](https://web.archive.org/web/20110426034852id_/http%3A//www.hideme.be/edit-browser.php)
-  * [Manage Cookies](https://web.archive.org/web/20110426034852id_/http%3A//www.hideme.be/cookies.php)
-  * [Privacy Policy](https://web.archive.org/web/20110426034852id_/http%3A//www.hideme.be/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20110426034852id_/http%3A//www.hideme.be/disclaimer.php)
-  * [Terms of Use](https://web.archive.org/web/20110426034852id_/http%3A//www.hideme.be/terms.php)
+  * [Home](https://web.archive.org/web/20111211233753id_/http%3A//hideme.be/index.php)
+  * [Edit Browser](https://web.archive.org/web/20111211233753id_/http%3A//hideme.be/edit-browser.php)
+  * [Manage Cookies](https://web.archive.org/web/20111211233753id_/http%3A//hideme.be/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20111211233753id_/http%3A//hideme.be/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20111211233753id_/http%3A//hideme.be/disclaimer.php)
+  * [Terms of Use](https://web.archive.org/web/20111211233753id_/http%3A//hideme.be/terms.php)
 
 
