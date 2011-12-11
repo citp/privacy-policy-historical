@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the diabetesreversed.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229002021id_/http%3A//www.diabetesreversed.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesreversed.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211124056id_/http%3A//www.bartonpublishing.com/privacy.html) for the most accurate reproduction.*
 
-# Diabetes Reversed Privacy Policy
+# Barton Publishing Inc. Privacy Policy | Alternative Health & Natural Remedy Reports
 
 ## Thank You For Visiting A Barton Publishing Website (the "Sites").
 
-We understand that privacy online is important to users of our Sites, especially when conducting business. This statement governs our privacy policies with respect to those users of the Sites ("Visitors") who visit without transacting business and Visitors who register to transact business on the Sites and make use of the various services offered by Barton Publishing.com (collectively, "Services") ("Authorized Customers").
+We understand that privacy online is important to users of our Sites, especially when conducting business. This statement governs our privacy policies with respect to those users of the Sites ("Visitors") who visit without transacting business and Visitors who register to transact business on the Sites and make use of the various products and services offered by Barton Publishing.com and/or third party companies we are affiliated with. (collectively, "Services") ("Authorized Customers").
 
 ## "Personally Identifiable Information"
 
@@ -13,16 +13,15 @@ This refers to any information that identifies or can be used to identify, conta
 
 ## What organizations are collecting the information?
 
-In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses, and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.  Authorized Customer Information may also be provided to third party companies to fulfill orders you place through our Sites for products, services, or information being provided by the third party companies we are affiliated with.
 
 ## How does the Sites use Personally Identifiable Information?
 
-We use Personally Identifiable Information to customize the Sites, to make appropriate service offerings, and to fulfill order requests on the Sites and/or to fulfill agreements to buy products or services from third party companies we are affiliated with. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Sites or information related to the subject matter of the Sites. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
+We use Personally Identifiable Information to customize the Sites, to make appropriate service offerings, and to fulfill your order requests from our Sites and/or to fulfill your agreement or request to order and/or sign up for products, services, or information provided by third party companies we are affiliated with. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Sites or information related to the subject matter of the Sites. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
 ## With whom may the information may be shared?
 
-Personally Identifiable Information about Authorized Customers may be shared with other third party companies that we are affiliated with IF the Authorized Customers agrees to purchase products or services from these companies of which we are affiliated.  We may share Personally Identifiable Information about our Visitors and Authorized Customers, with other third party companies. We also offer the opportunity to "opt out" of receiving information or being contacted by us.  
-
+Personally Identifiable Information about Authorized Customers may be shared with other third party companies that we are affiliated with IF the Authorized Customer has agreed or requested to order and/or sign up for products or services provided by third party companies we are affiliated with..  By placing an order for a product or service or by requesting information from one or more of our Sites Visitors and Authorized Customers are agreeing to allow us to provide their Personally Identifiable Information to other third party companies in order to fulfill agreements or requests to order and/or sign up for products, services, or information provided by the third party companies. We also offer the opportunity to "opt out" of receiving information or being contacted by us, however we do not control how third party companies use Personally Indentifiable Information and we will not be held responsible for the actions of the third party comapnies.  By placing an order for a product or service or by requesting information from any our Sites, Visitors and Authorized Customers agree not to hold Barton Publishing Inc. responsible, in any way, for how or when third party companies use their Personally Indentifiable Information.  
 
 ## What choices are available to Visitors regarding collection, use and distribution of the information?
 
