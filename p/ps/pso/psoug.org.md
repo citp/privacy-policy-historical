@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psoug.org privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326045908id_/http%3A//psoug.org/w3c/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psoug.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211151222id_/http%3A//psoug.org/w3c/privacy.htm) for the most accurate reproduction.*
 
 # Oracle PL/SQL Database Code Library and Resources
 
