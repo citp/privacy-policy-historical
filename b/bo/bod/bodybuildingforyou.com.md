@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodybuildingforyou.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518191821id_/http%3A//bodybuildingforyou.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodybuildingforyou.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211221641id_/http%3A//www.bodybuildingforyou.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
