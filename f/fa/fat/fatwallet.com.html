@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the fatwallet.com privacy policy that was archived on 2011-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629131520id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fatwallet.com privacy policy that was archived on 2011-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211010601id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#"><head>
                         <title>Fatwallet Privacy Policy Statement</title>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-        <link rel="stylesheet" type="text/css" media="screen" href="/staticfiles.php?2011062908&amp;23d8560a8dadca3bae6eaf65cdaed6e9&amp;css"><script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-<meta name="description" content="FatWallet takes user privacy seriously and makes reasonable efforts to protect your privacy. We have created this Privacy Policy in order to share with you our information collection and use practices. "><link rel="icon" href="http://edge.fatwallet.com/static/i/favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" type="text/css" media="screen" href="http://static1.fatwalletcdn.com/staticfiles.php/0d5b92a0f92455ff1779b6d28e37bb31.css"><script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<meta name="description" content="FatWallet takes user privacy seriously and makes reasonable efforts to protect your privacy. We have created this Privacy Policy in order to share with you our information collection and use practices. "><link rel="icon" href="http://static1.fatwalletcdn.com/static/i/favicon.ico" type="image/x-icon">
 <meta property="fb:app_id" content="121454211213066">
 <meta property="og:site_name" content="FatWallet">
 <meta property="og:image" content="http://www.fatwallet.com/static/i/fw_logo_wht_email.jpg">
@@ -14,23 +14,24 @@
 <body class="themedefault">
 
     <!-- Facebook JavaScript SDK -->
-    <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+    <div id="fb-root"></div>
     <script>
     window.fbAsyncInit = function() {
       FB.init({
         appId  : '121454211213066',
-        status : true, // check login status
+        status : false, // check login status
         cookie : true, // enable cookies to allow the server to access the session
-        xfbml  : true  // parse XFBML
+        xfbml  : true, // parse XFBML
+        oauth  : true
       });
     };
 
-    (function() {
-      var e = document.createElement('script');
-      e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-      e.async = true;
-      document.getElementById('fb-root').appendChild(e);
-    }());
+    $(function() {
+        var e = document.createElement('script');
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+    });
     </script>
 
 <table id="pageFrame" style="width:986px;" cellpadding="0" cellspacing="0"><tbody><tr><td>
@@ -41,10 +42,10 @@
                 <table width="100%" cellpadding="0" cellspacing="0">
                     <tbody><tr>
                         <td class="pageHeaderContentLinks">
-                                                        <div id="headLinkContainer"><a href="/login.php?refpage=%2Fprivacy.php" rel="nofollow">Sign In</a> | <a href="/join.php" rel="nofollow">Sign Up</a> | <a href="/support/" rel="nofollow">Help</a>
-                                                            | <a href="javascript:fbLogin(document.location.href, '/facebook/fb_new_or_existing_fw_user.php')" rel="nofollow" class="pageHeaderFacebookLogin"><div class="pageHeaderFacebookLoginIcon">&nbsp;</div> Log in using Facebook</a>
-                                                            </div>
-                                                    </td>
+                            <div id="headLinkContainer"><a href="/login.php?refpage=%2Fprivacy.php" rel="nofollow">Sign In</a> | <a onclick="return showSignUpDialog()" href="/join.php" rel="nofollow">Sign Up</a> | <a href="/support/" rel="nofollow">Help</a>
+                                | <a href="javascript:fbLogin(document.location.href, '/facebook/fb_new_or_existing_fw_user.php')" rel="nofollow" class="pageHeaderFacebookLogin"><div class="pageHeaderFacebookLoginIcon">&nbsp;</div> Log in using Facebook</a>
+                            </div>
+                        </td>
                     </tr>
                     <tr>
                         <td>
@@ -57,7 +58,7 @@
                                                 <input type="text" id="pageHeaderSearchBar" autocomplete="off" name="query" value="">
                                             </div>
                                         </td>
-                                        <td><div id="pageHeaderSearchGoButton" onclick="document.pageHeaderSearch.submit()"></div></td>
+                                        <td><div class="styledButton styledButtonBigFont" id="pageHeaderSearchGoButton" onclick="document.pageHeaderSearch.submit()">Search</div></td>
                                     </tr>
                                 </tbody></table>
                             </form>
@@ -67,12 +68,11 @@
             </div>
         </div>
         <div class="pageHeaderTabs">
-<div id="siteSectionstores" class="pageHeaderTab"><a href="/">Coupons &amp; Deals</a></div><div id="siteSectionforums" class="pageHeaderTab"><a href="/forums/">Forums</a></div><div id="siteSectioncashback" class="pageHeaderTab"><a href="/cash-back-shopping/" style="padding-left: 41px;background-image: url(http://static2.fatwalletcdn.com/static/i/xs_cashback_on_transparent.png); background-repeat: no-repeat; background-position: 17px 7px;">Cash Back</a></div>        </div>
+<div id="siteSectionstores" class="pageHeaderTab"><a href="/">Coupons &amp; Deals</a></div><div id="siteSectionforums" class="pageHeaderTab"><a href="/forums/">Forums</a></div><div id="siteSectioncashback" class="pageHeaderTab"><a href="/cash-back-shopping/" style="padding-left: 41px;background-image: url(http://static1.fatwalletcdn.com/static/i/xs_cashback_on_transparent.png); background-repeat: no-repeat; background-position: 17px 7px;">Cash Back</a></div>        </div>
     </div>
     
     <div id="siteContentWrap">
-        <br>
-
+<br>
 <br><table cellpadding="0" cellspacing="0" width="50%" align="center"><tbody><tr><td>
 
     <fieldset style="border: solid 1px #aaa; background: #fff">
@@ -185,7 +185,7 @@
         <div class="pageFrame">
             <div id="footContent">
                 <div id="footContentLinks">
-                    <a href="/about_us.php">About Us</a> <span>|</span>
+                    <a href="/about-us/">About Us</a> <span>|</span>
                     <a href="/blog/">Blog</a> <span>|</span>
                     <a href="/sitemap.php">Site Map</a> <span>|</span>
                     <a href="http://www.fatwallet.mobi/">Mobile</a> <span>|</span>
@@ -211,12 +211,7 @@
             <div id="footContentBottomShadow"></div>
         </div>
 </td></tr></tbody></table> <!-- pageFrame -->
-<!-- TVM588512390 -->
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qacct="p-783aXohQ7eUBs";quantserve();</script><noscript><a href="http://www.quantcast.com/p-783aXohQ7eUBs" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-783aXohQ7eUBs.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
-<!-- End Quantcast tag -->
-
-<script language="JavaScript" src="/staticfiles.php?2011062908&amp;01ac72106be77b9d5a52eb5ffee0f2d7&amp;js"></script>
+<script language="JavaScript" src="http://static1.fatwalletcdn.com/staticfiles.php/ce733d364184c7f31a4c56a4a223d5bd.js"></script>
 <!--[if lt IE 7]>
 <script language="JavaScript">
 function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
@@ -265,6 +260,61 @@ window.attachEvent("onload", correctPNG);
 
 <script language="JavaScript">
 </script>
-<script>(function(){function q(){return(new Date()).valueOf();}var i=encodeURIComponent;var s=q();var m="1309353320211.8";var o=0;var e=window;var u=document;var j=setTimeout;var h="onsubmit";var b="onclick";var f="onbeforeunload";var k="/query/";var l=k+"tpv.php";var c=k+"tpc.php";var g=k+"tpfs.php";var n=k+"tpb.php";var a={};var r=[];window.addTrackingEventHandler=function(v,w){if(!(v in a)){a[v]=[];}a[v].push(w);};window.addTrackingPageViewHandler=function(v){r.push(v);};var t=function(){function v(y){var x="";if((y.id||"")!=""){x="#"+y.id;}else{if(y.className!=""){x="."+y.className;}else{x=y.tagName;}}if(y.tagName=="A"){var w=y.getAttribute("href");if(w){x+="[href='"+w+"']";}}return x;}return function(y,z){if(!y){z.join(">");}if(!z){z=[];}if(y.tagName!="BODY"){t(y.parentNode,z);}var w=v(y);var B=0;for(var x=0;x<y.parentNode.childNodes.length;x++){var A=y.parentNode.childNodes[x];if(A==y){break;}if(v(A)==w){B++;}}if(B>0){w=w+":eq("+(B)+")";}if(w.substring(0,1)=="#"){while(z.length>0){z.pop();}}z.push(w);return z.join(">");};}();window.trackingNodeName=t;function p(w,v,x){if("attachEvent" in w){w.attachEvent("on"+v,x);}else{w.addEventListener(v,x,false);}}var d=function(){var v=q();j(function(){e[f]=function(){var w=n+"?pvid="+i(o)+"&to="+(q()-v)+"&"+q();(new Image()).src=w;var x=q();while(q()-x<100){}};},1000);return function(){e[f]=null;};}();(function(){function v(){var y=this.target;if(!y||y=="_self"||y=="_top"||y=="_parent"){return true;}return false;}function x(B){d();var A=this.fwOldOnClick||null;var z=true;if(A!==null){z=A.call(this,B);}if(z){var y=this.href||"";if(y.substr(y.length-1,1)=="#"){return;}if(!this.target||this.target=="_self"){u.location=y;}else{if(this.target=="_top"){e.top.document.location=y;}else{if(this.target=="_parent"){e.parent.document.location=y;}}}}}function w(z){var y=z[b]||null;if((z.trackingAdded||false)==true){if(y==z.fwOurClick||null){return;}}if((z.getAttribute("rel")||"")=="lightbox"){z.trackingAdded=true;return;}if((z.getAttribute("class")||"").indexOf("thickbox")>=0){z.trackingAdded=true;return;}if((z.name||"")==""){z.fwOldOnClick=y;z[b]=z.fwOurClick=function(O){if(!O){O=window.event;}var B=z.title||"";var D=(z.innerHTML||"").replace(/^\s*(.*)\s*$/,"$1").replace("\n"," ").replace("\r"," ");var L=z.href||"";var N=t(z);var C=N.replace(/\[href=.*\]$/,"");var M=[];if((C in a)||("" in a)){if("" in a){for(var K=0;K<a[""].length;K++){var H=a[""][K]("",z);if(H!=undefined){if(H instanceof Array){for(var J=0;J<H.length;J++){M.push(H[J]);}}else{M.push(H);}}}}if(C in a){for(var K=0;K<a[C].length;K++){var H=a[C][K]("",z);if(H!=undefined){if(H instanceof Array){for(var J=0;J<H.length;J++){M.push(H[J]);}}else{M.push(H);}}}}}var G="";if(M.length>0){for(var K=0;K<M.length;K++){var P=M[K];for(var I in P){if(P.hasOwnProperty(I)){G+="&x["+K+"]["+i(I)+"]="+i(P[I]);}}}}var Q=c+"?pvid="+i((o||0))+"&u="+i(L)+"&t="+i(B)+"&h="+i(D)+"&sel="+i(N)+G+"&"+q();if(!v.call(this)||O.metaKey||O.ctrlKey||O.button==1||O.shiftKey){if((z.fwOldUrl||"")==""){z.fwOldUrl=this.href;Q+="&redir="+i(this.href||"");this.href=Q;var E=this;setTimeout(function(){E.href=" "+z.fwOldUrl.replace(/^\s+/,"");z.fwOldUrl="";},500);}return true;}var S=new Image();S.src=Q;var E=this;if(this.href.substr(0,"javascript:".length)=="javascript:"){var A=this.fwOldOnClick||null;var R=true;if(A!==null){R=A.call(this,O);}return true;}else{var F=j(function(){F=null;x.call(E,O);},1000);S.onload=function(){S.onload=null;x.call(E,O);if(F!=null){clearTimeout(F);}};return false;}};}z.trackingAdded=true;}p(e,"load",function(){var y=q();try{$.getJSON(l,{sn:"/privacy.php",td:(m-s),ls:q(),rt:(y-s),u:u.location.href,r:"http://www.fatwallet.com/forget.php",title:u.title,event:""},function(A){o=(A.track_page_view_id||0);for(var B=0;B<r;B++){r[B]();}});}catch(z){}});j(function(){if(!document){return;}for(var y=0;y<u.links.length;y++){w(u.links[y]);}j(arguments.callee,500);},0);}());(function(){var x=["topMainSearch","mainSearch","couponSearch","topDealsSearch","searchTitlesInput","searchsimple","searchForm"];var v=["text","checkbox","radio","select","hidden","file"];function w(A){var z=false;for(var y=0;y<x.length;y++){if(x[y]==(A.name||A.id||"")){z=true;break;}}if(!z){try{delete A.submit;}catch(B){}return;}if((A.trackingAdded||false)==false){(function(){var K=null;var C=[A.elements,A.getElementsByTagName("INPUT")];var I=[];if(document.getElementsByName("searchPhrase").length>0){C.push(document.getElementsByName("searchPhrase"));}for(var F=0;F<C.length;F++){var D=C[F];for(var G=0;G<D.length;G++){var H=D[G];if(H.type=="submit"||H.type=="image"){var L=false;for(var E=0;E<I.length;E++){if(H==I[E]){L=true;break;}}if(!L){I.push(H);H.onclick=function(O){var N=O.onclick;return function(P){K=this;if(N!=null){return N.apply(this,P);}return true;};}(H);}}}}var M=A[h]||null;A[h]=function(){var S=[];var U=A.elements;for(var T=0;T<U.length;T++){for(var Q=0;Q<v.length;Q++){if(v[Q]==(U[T].type||"").toLowerCase()||((U[T].name||"")=="searchPhrase")){var O=U[T].name||"";if(O!=""){S.push("fd["+i(O)+"]="+i(U[T].value));}break;}}}var V=A.name||"";var P=t(A);var W=A.action||u.location;if(M!=null){if(!M()){return false;}}var N=setTimeout(function(){A[h]=null;d();A.submit();},1000);var R=new Image();R.onload=function(){clearTimeout(N);A[h]=null;d();A.submit();};R.src=g+"?tpvid="+i(o)+"&name="+i(V)+"&selector="+i(P)+"&action="+i(W)+"&data="+i(S.join("&"))+"&"+q();return false;};var J=A.submit;A.submit=function(O){if(A[h]==null||A[h]()){if(K!=null){if((K.type||"")=="image"){var N=document.createElement("INPUT");N.type="hidden";N.name=(K.name||"")+"_x";N.value=K.value||"";A.appendChild(N,true);var N=document.createElement("INPUT");N.type="hidden";N.name=(K.name||"")+"_y";N.value=K.value||"";A.appendChild(N,true);}else{var N=document.createElement("INPUT");N.type="hidden";N.name=K.name||"";N.value=K.value||"";A.appendChild(N,true);}}try{delete A.submit;A.submit();}catch(P){J();}}};}());}}p(e,"load",function(){for(var y=0;y<u.forms.length;y++){w(u.forms[y]);}});}());})();</script>
+<div id="signUpDialog" style="display:none">
+    <table width="100%" cellspacing="0" cellpadding="0">
+        <tbody><tr valign="top">
+            <td>
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td>
+                            <div class="signUpDialogTitle">Sign Up</div>
+                            <form style="margin:0;padding:0;" onsubmit="return signUpDialogSignUp();">
+                                <div class="signUpDialogForm">
+                                    <div class="signUpDialogFormLabel"><label>Email Address:</label></div>
+                                    <div id="signUpDialogEmailError"></div>
+                                    <div class="signUpDialogFormInput"><input type="text" id="signUpDialogEmail"></div>
+                                                                        <div class="signUpDialogFormLabel"><label>Password:</label></div>
+                                    <div id="signUpDialogPasswordError"></div>
+                                    <div class="signUpDialogFormInput"><input type="password" id="signUpDialogPassword"></div>
+                                                                        <div class="signUpDialogFormButton">
+                                        <input type="submit" value="Create Account" class="styledButton styledButtonBigFont">
+                                    </div>
+                                </div>
+                            </form>
+                            <div class="signUpDialogAlready">Already a Member? <a href="/login.php?refpage=%2Fprivacy.php">Sign In</a></div>
+                        </td>
+                        <td nowrap="" style="padding: 0 40px 0 40px">
+                            <div class="signUpDialogFacebook">
+                                <div class="signUpDialogFacebookCallout">Facebook Members:</div>
+                                <div class="signUpDialogFacebookOptions">Sign Up or Sign In using</div>
+                                <a href="javascript:void(0)" onclick="fbLogin(document.location, '/facebook/fb_new_or_existing_fw_user.php')"><img border="0" src="http://static3.fatwalletcdn.com/static/i/bt-fb-sign-in.gif"></a>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                <div class="signUpDialogTOS">
+                    By becoming a member, you agree to our <a href="/useragreement.php" target="_blank">rules &amp; regulations</a>.
+                </div>
+            </td>
+            <td width="100%" class="signUpDialogWhy">
+                <div style="position:relative;-zoom: 100%">
+                    <div class="signUpDialogWhyTitle">Why FatWallet?</div>
+                    <table cellspacing="0" cellpadding="0" class="signUpDialogWhyPoints">
+                        <tbody><tr><td><span style="font-size:1.75em">•&nbsp;</span></td><td>Cash Back when you shop</td></tr>
+                        <tr><td><span style="font-size:1.75em">•&nbsp;</span></td><td>Best Deals of the web</td></tr>
+                        <tr><td><span style="font-size:1.75em">•&nbsp;</span></td><td>Helpful forum community</td></tr>
+                        <tr><td><span style="font-size:1.75em">•&nbsp;</span></td><td>Excellent customer service</td></tr>
+                        <tr><td><span style="font-size:1.75em">•&nbsp;</span></td><td>FREE membership</td></tr>
+                    </tbody></table>
+                    <div class="signUpDialogLearnMore">
+                        <a href="/learnmore.php" target="_blank">Learn More »</a>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+<div id="interstitialDialog" style="display:none;"></div>
+
 
 </body></html>
