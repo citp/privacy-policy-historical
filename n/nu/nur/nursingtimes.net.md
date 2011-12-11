@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingtimes.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525041009id_/http%3A//www.nursingtimes.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingtimes.net privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211035359id_/http%3A//www.nursingtimes.net/privacy) for the most accurate reproduction.*
 
 # Nursing Times Privacy Policy
 
