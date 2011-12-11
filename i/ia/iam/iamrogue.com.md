@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the iamrogue.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630125155id_/http%3A//www.iamrogue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamrogue.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211032759id_/http%3A//www.iamrogue.com/privacy.html) for the most accurate reproduction.*
 
 # IAMROGUE.COM PRIVACY POLICY - iamROGUE.com
 
-### Privacy 
+### Privacy
 
-**Last Revised September 23, 2010**
+ **Last Revised September 23, 2010**
 
 This website and the various content, features, and services offered on this website (collectively, the "Site") are owned and operated by RogueLife, LLC("Rogue" or "we" or "us"). Rogue is committed to respecting your online privacy and recognizes your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Rogue has established this Privacy Policy to let you know what information we may collect from you on the Site and how we may use and share that information. Please take a moment to review the terms of our Privacy Policy. By using the Site, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. Except as provided in the "Your California Privacy Rights" section below, this Privacy Policy applies only to information that we collect on the Site and does not apply to information which we may collect by other means.
 
 ### Your California Privacy Rights
 
-The following applies solely to California residents who have an established business relationship with Rogue. If we collect Personal Information from you, we may make that Personal Information available to our affiliated companies for their marketing and promotional purposes. If you decide that you do not want us to share your Personal Information with these companies for their marketing and promotional purposes, please [Contact Us](http://www.iamrogue.com/contact-us.html). In this e-mail, state whether: (i) you would like to opt out of receiving promotional correspondence from Rogue in general, or via e-mail, postal mail, instant messaging, and/or by phone; (ii) you would only like to opt out of Rogue’s e-zine; and/or (iii) you would like Rogue to not share your personal information with third parties for their marketing purposes. Your opt-out request will be processed within thirty (30) days of the date of which we receive it. 
+The following applies solely to California residents who have an established business relationship with Rogue. If we collect Personal Information from you, we may make that Personal Information available to our affiliated companies for their marketing and promotional purposes. If you decide that you do not want us to share your Personal Information with these companies for their marketing and promotional purposes, please [Contact Us](http://www.iamrogue.com/contact-us.html). In this e-mail, state whether: (i) you would like to opt out of receiving promotional correspondence from Rogue in general, or via e-mail, postal mail, instant messaging, and/or by phone; (ii) you would only like to opt out of Rogue’s e-zine; and/or (iii) you would like Rogue to not share your personal information with third parties for their marketing purposes. Your opt-out request will be processed within thirty (30) days of the date of which we receive it.
 
 ### Personal Information
 
@@ -38,9 +38,9 @@ From time to time, we, our marketing partners, and other businesses associated w
 
 ### Cookies and Other Tracking Technologies
 
-Some of our web pages utilize "cookies" and other tracking technologies. A cookie is a small text file that a website transfers to an individual's hard drive for record-keeping purposes. For example, we may use cookies to collect information about website activity and to enhance your experience on our Site. We do not collect credit card information and never save credit card information in cookies. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of the Site may not function properly or may be slower if you refuse cookies. Our cookies may contain Personal Information and such cookies may be shared with our affiliates and other companies if you authorize such action. You may occasionally get cookies from our advertisers or other third parties with links on the Site. We do not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. These cookies will only collect aggregate information as described above and will not collect or transfer Personal Information unless authorized by you. 
+Some of our web pages utilize "cookies" and other tracking technologies. A cookie is a small text file that a website transfers to an individual's hard drive for record-keeping purposes. For example, we may use cookies to collect information about website activity and to enhance your experience on our Site. We do not collect credit card information and never save credit card information in cookies. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of the Site may not function properly or may be slower if you refuse cookies. Our cookies may contain Personal Information and such cookies may be shared with our affiliates and other companies if you authorize such action. You may occasionally get cookies from our advertisers or other third parties with links on the Site. We do not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. These cookies will only collect aggregate information as described above and will not collect or transfer Personal Information unless authorized by you.
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. Web servers, the big computers that "serve up" webpages, automatically identify your computer by its IP address. It is not our practice to link the information we record using tracking technologies to any Personal Information you submit while on the Site. However, we reserve the right to use IP addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with the Site's policies, to protect our Service, our customers or others, or when we believe in good faith that the law requires it. 
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web. Web servers, the big computers that "serve up" webpages, automatically identify your computer by its IP address. It is not our practice to link the information we record using tracking technologies to any Personal Information you submit while on the Site. However, we reserve the right to use IP addresses and other tracking technologies to identify a visitor only when we feel it is necessary to enforce compliance with the Site's policies, to protect our Service, our customers or others, or when we believe in good faith that the law requires it.
 
 ### Third Party Cookies
 
@@ -64,9 +64,9 @@ The security of your Personal Information is important to us. We maintain physic
 
 ### Updating Your Information
 
-Any requests that we correct, update, or remove your information in our databases, should be directed via email through our [Contact Us](http://www.iamrogue.com/contact-us.html) page. This e-mail address is being protected from spambots. You need JavaScript enabled to view it, or via regular mail to: 
+Any requests that we correct, update, or remove your information in our databases, should be directed via email through our [Contact Us](http://www.iamrogue.com/contact-us.html) page. This e-mail address is being protected from spambots. You need JavaScript enabled to view it, or via regular mail to:
 
-**IAMROGUE.COM Webmaster**  
+ **IAMROGUE.COM Webmaster**  
 Relativity Media, LLC   
 8899 Beverly Blvd., Suite 510   
 West Hollywood, CA 90048
@@ -83,7 +83,7 @@ The terms of this Privacy Policy may change from time to time. We will notify yo
 
 ### Governing Law
 
-Rogue makes no representation that this Privacy Policy and such practices comply with the laws of any other country than the United States. Visitors who use the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. If you reside outside of the United States, by using our Site, you consent to the transfer and use of your information outside your country. 
+Rogue makes no representation that this Privacy Policy and such practices comply with the laws of any other country than the United States. Visitors who use the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable. If you reside outside of the United States, by using our Site, you consent to the transfer and use of your information outside your country.
 
 ### International Users
 
@@ -93,7 +93,7 @@ IAMROGUE.COM is controlled, operated and administered by Rogue from our offices 
 
 If you have any comments or questions regarding our Privacy Policy, please [Contact Us](http://www.iamrogue.com/contact-us.html). This e-mail address is being protected from spambots. You need JavaScript enabled to view it, or at our contact information below.
 
-**IAMROGUE.COM Webmaster**  
+ **IAMROGUE.COM Webmaster**  
 Relativity Media, LLC   
 8899 Beverly Blvd., Suite 510   
 West Hollywood, CA 90048
