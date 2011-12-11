@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizilla.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623032124id_/http%3A//quizilla.teennick.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizilla.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211132311id_/http%3A//quizilla.teennick.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Quizilla
 
@@ -24,9 +24,6 @@ We may disclose anonymous, aggregated user statistics to third parties for a var
   * _Legal Action_ : We may disclose information about our users, including personally identifiable information, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Site and applicable laws, or to protect against misuse or unauthorized use of our Site. We also may disclose user information whenever we believe disclosure is necessary to limit our legal liability; to protect or defend our rights or property; or protect the safety, rights, or property of our users.
   * _Corporate Change_ : We may sell, transfer, or otherwise disclose user information, including personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other corporate change respecting the Site.
 
-
-
-  
 
 
 The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities. In addition, when you post content on our Site, you have the ability to post personally identifiable information about yourself. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. If you choose to submit content for publication we may publish your screen name and other information you have provided to us.
@@ -69,18 +66,12 @@ If you have any questions, comments or concerns regarding Quizilla's privacy not
 >  support@quizilla.com  
 > 
 
-  
-
-
 **YOUR CALIFORNIA PRIVACY RIGHTS**  
 California Civil Code Section 1798.83 permits customers of Quizilla who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to support@quizilla.com or write us: 
 
 > QUIZILLA.TEENNICK.COM Privacy Rights  
 >  1515 Broadway  
 >  New York, NY 10036
-
-  
-
 
 **Effective Date:**   
 This notice was updated on May 16, 2007 
