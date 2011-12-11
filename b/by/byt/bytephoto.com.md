@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytephoto.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524130752id_/http%3A//www.bytephoto.com/content.php%3Fr%3D182-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytephoto.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211092038id_/http%3A//www.bytephoto.com/content.php%3Fr%3D182-Privacy-Policy) for the most accurate reproduction.*
 
 # Home - Privacy Policy
 
@@ -24,7 +24,7 @@ BytePhoto.com uses both the personal and aggregated information we collect for m
 BytePhoto.com does not share your personal information with third parties without your permission.
 
 HOW TO UNSUBSCRIBE FROM NEWSLETTERS  
-If you'd rather not receive newsletters via e-mail, simply: Go to BytePhoto.com and select the Newsletter > Subscription tab in the Home Menu, complete the Newsletter Unsubscribe box -or- send an email to [admin@bytephoto.com](mailto:admin@bytephoto.com) requesting removal (include the email address that you wish to unsubscribe if other than the sender email) -or- send a letter to Reflections by Ruth, 4905 Davis Dr., Doylestown, PA 18902 with the request. You may also manage any Newsletter subscription using the link at the bottom of the Newsletter.
+If you'd rather not receive newsletters via e-mail, simply: Go to BytePhoto.com and select the Newsletter > Subscription tab in the Home Menu, complete the Newsletter Unsubscribe box -or- send an email to [admin@bytephoto.com](mailto:admin@bytephoto.com) requesting removal (include the email address that you wish to unsubscribe if other than the sender email) You may also manage any Newsletter subscription using the link at the bottom of the Newsletter.
 
 CHILDREN AND PRIVACY  
 BytePhoto.Com encourages parents and guardians to spend time with their children online, and to be fully familiar with the sites visited by their children. No information should be submitted to or posted on the Site by users under the age of 13 without the consent of their parent or guardian. 
