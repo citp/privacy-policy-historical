@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bringthefresh.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311095132id_/http%3A//www.bringthefresh.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringthefresh.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211185219id_/http%3A//www.bringthefresh.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Bring The Fresh - Privacy Policy
 
