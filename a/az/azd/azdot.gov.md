@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azdot.gov privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422160058id_/http%3A//www.azdot.gov/Index_Docs/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azdot.gov privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211050245id_/http%3A//www.azdot.gov/Index_Docs/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -19,15 +19,16 @@ Any Non-English documents on this Web site are translations from original text w
 
 Cualquier documento sin ingles en este sitio del Web son traducciones del texto original escrito en ingles. Estas traducciones no son oficiales y no son vinculantes a este estado o subdivisión política de este estado.
 
-Online Privacy Statement   
-**Introduction**  
+Online Privacy Statement **Introduction**  
 Thank you for visiting the ADOT Web site and reviewing our Privacy Statement. This statement is included to inform you about information that could be collected online as a result of visiting the ADOT Web site and not as a result of following a link from our Web site to any other Web site. All individual Web sites of Arizona state agencies are required to contain a privacy statement that describes what information is being obtained online, how that information will be used, and what steps are being taken to ensure the security of customer data. Your right to privacy is of utmost importance to the State of Arizona in building trust and confidence when conducting business through the Internet. 
 
 **Online Customer Service and Alternatives**  
 ADOT offers many of the services online that you might otherwise transact in person, by phone or by mail. Our goal is to provide citizens with a more convenient and efficient means of interacting with our agency. If at any time you choose not to proceed with an online transaction, your choice will in no way affect your ability to receive our services by other methods.
 
-**Collection and Use of Information**  
-**_Information Collected and Stored Automatically_**  
+**Collection and Use of Information**
+
+**_Information Collected and Stored Automatically_**
+
 The Web servers that host ADOT's Web site automatically gather specific information about the visit. While this information never identifies you personally, it does consist of the following items:
 
 > 1\. The Internet domain from which you access the Web site (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain);  
@@ -40,6 +41,8 @@ We use this information to gather statistics about the amount of use the site re
 Information collected from an application submitted online will be treated in the same manner as the information collected from an application submitted on a hard copy to ADOT. Please know that the information you disclose to the agency will generally become a matter of public record pursuant to [ARS § 39-121](http://www.azleg.state.az.us/ArizonaRevisedStatutes.asp), et seq., which means that ADOT may be required to provide certain information in response to a public records request or in response to a warrant, subpoena, or other court order.
 
 Please be assured that your personal information will be held in strict confidence while ADOT processes your online transaction. ADOT will not share, sell or otherwise disseminate this information to any outside person or entity, except as required or authorized by law.
+
+Redacted customers should be aware, however, that use of this website will not be protected under the redaction program.
 
 If you have any questions or comments regarding how ADOT will use the information you submit online, please [**forward them to us**](https://www.azdot.gov/contact_adot/). Any comments collected are subject to the protections of this Privacy Statement.
 
