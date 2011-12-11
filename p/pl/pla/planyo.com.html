@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the planyo.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623112754id_/http%3A//planyo.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planyo.com privacy policy that was archived on 2011-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211014837id_/http%3A//www.planyo.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <link rel="stylesheet" href="/styles.css" type="text/css">
@@ -9,27 +9,28 @@
     <title>Privacy</title>
   </head>
   <body>
-    <div class="page">  <script type="text/javascript" src="/libs/mootools-1.2-core.js"></script>
+    <div class="page">  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/libs/mootools-1.2-core.js"></script>
     <script type="text/javascript" src="/libs/mootools-1.2-more.js"></script>
-    <script language="Javascript" src="/utils.js"></script>
-    <script language="Javascript" src="/planyo-wrappers.js"></script>
-    <script language="Javascript" src="/planyo-server-utils.js"></script>
-<div id="page_header"><div id="page_header_contents"><div id="page_logo"><a href="/"><img style="margin-top:16px" border="0" src="/images/logo.png"></a></div><div id="commands"><a href="/login/login.php">Log in</a> | <a href="/login/signup.php">Sign up</a> | <span id="language">English <img style="vertical-align:middle" src="/images/flag-uk.png"></span>
-<div id="language_choice" style="top: 60px; left: 122px;"><div class="language_item"><a href="http://www.planyo.com/privacy.php"><img src="/images/flag-uk.png"> English</a></div><div class="language_item"><a href="http://fr.planyo.com/privacy.php"><img src="/images/flag-fr.png"> Français</a></div><div class="language_item"><a href="http://www.planyo.ch/privacy.php"><img src="/images/flag-de.png"> Deutsch</a></div><div class="language_item"><a href="http://it.planyo.com/privacy.php"><img src="/images/flag-it.png"> Italiano</a></div><div class="language_item"><a href="http://es.planyo.com/privacy.php"><img src="/images/flag-es.png"> Español</a></div><div class="language_item"><a href="http://www.planyo.pl/privacy.php"><img src="/images/flag-pl.png"> Polski</a></div></div></div><div id="tabs_holder"><div id="main_menu_holder" class="tabs"><ul id="main_menu">
+    <script type="text/javascript" src="/utils.js"></script>
+    <script type="text/javascript" src="/planyo-wrappers.js"></script>
+    <script type="text/javascript" src="/planyo-server-utils.js"></script>
+<div id="page_header"><div id="page_header_contents"><div id="page_logo"><a href="/"><img style="margin-top:16px" border="0" alt="Online reservation system :: Accept bookings on your website :: Planyo" src="/images/logo.png"></a></div><div id="commands"><a rel="nofollow" href="/login/login.php">Log in</a> | <a rel="nofollow" href="/login/signup.php">Sign up</a> | <span id="language">English <img style="vertical-align:middle" src="/images/flag-uk.png" alt="English"></span>
+<div id="language_choice" style="top: 58px; left: 122px;"><div class="language_item"><a href="http://www.planyo.com/privacy.php"><img src="/images/flag-uk.png" alt="English"> English</a></div><div class="language_item"><a href="http://fr.planyo.com/privacy.php"><img src="/images/flag-fr.png" alt="Français"> Français</a></div><div class="language_item"><a href="http://www.planyo.ch/privacy.php"><img src="/images/flag-de.png" alt="Deutsch"> Deutsch</a></div><div class="language_item"><a href="http://it.planyo.com/privacy.php"><img src="/images/flag-it.png" alt="Italiano"> Italiano</a></div><div class="language_item"><a href="http://es.planyo.com/privacy.php"><img src="/images/flag-es.png" alt="Español"> Español</a></div><div class="language_item"><a href="http://www.planyo.pl/privacy.php"><img src="/images/flag-pl.png" alt="Polski"> Polski</a></div></div></div><div id="tabs_holder"><div id="main_menu_holder" class="tabs"><ul id="main_menu">
 <li id="tab_s_0" class="top_level"><a href="http://www.planyo.com/">Our offer</a>
 </li>
 <li id="tab_s_1" class="top_level"><a href="http://www.planyo.com/learn-more.php">Learn more</a>
 </li>
-<li id="tab_s_2" class="top_level"><a href="http://www.planyo.com/get-started.php">Get started with Planyo</a></li>
+<li id="tab_s_2" class="top_level"><a href="http://www.planyo.com/get-started.php">Get started</a></li>
 <li id="tab_s_3" class="top_level active">Plugins
 </li>
+<li id="tab_s_4" class="top_level"><a href="http://www.planyo.com/pricing.php">Prices</a></li>
 <li id="tab_s_5" class="top_level"><a href="http://www.planyo.com/help.php">Help</a>
 </li>
 </ul></div>
 <script type="text/javascript">
    document.active_tab_id = 'smh_3';
   function configure_menus() {
-    $('main_menu').getElements('li.top_level').each(function(par){
+    $$('#main_menu li.top_level').each(function(par){
         var holder = par.getElement('div');
         if (holder) {
           holder.par = par;
@@ -55,17 +56,17 @@
     par.submenu_holder = holder;
     par.addEvents({
         'mouseenter' : function(){
-          par.submenu_holder.fade(1);
+          par.submenu_holder.tween('opacity',1);
           
         }, 'mouseleave' : function(){
-          par.submenu_holder.fade(0);
+          par.submenu_holder.tween('opacity',0);
         }
       });
     holder.addEvents({
         'mouseenter': function() {
-          par.submenu_holder.fade(1);
+          par.submenu_holder.tween('opacity',1);
         }, 'mouseleave' : function(){
-          par.submenu_holder.fade(0);
+          par.submenu_holder.tween('opacity',0);
         }
       });
   }
@@ -157,31 +158,36 @@ Should you have other questions or concerns about these privacy policies, please
 at planyo [at] xtreeme.com
 </pre>
 </div>
-</div><div id="page_footer_bg"><div id="page_footer"><a href="http://www.planyo.com/" style="float:right;"><img border="0" title="Planyo online booking system" src="/images/poweredbyplanyo.png"></a><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fplanyocom&amp;layout=button_count&amp;show_faces=false&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="padding-top:5px;float:right;border:none; overflow:hidden; width:120px; height:21px;" allowtransparency="true"></iframe>
+</div><div id="page_footer_bg"><div id="page_footer"><a href="http://www.planyo.com/" style="float:right;"><img border="0" title="Planyo online booking system" alt="Planyo online booking system" src="/images/poweredbyplanyo.png"></a><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fplanyocom&amp;layout=button_count&amp;show_faces=false&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="padding-top:5px;float:right;border:none; overflow:hidden; width:120px; height:21px;" allowtransparency="true"></iframe>
 
 <!-- Place this tag where you want the +1 button to render -->
 <div style="float:right;margin-top:7px"><g:plusone size="small" href="http://www.planyo.com/"></g:plusone></div>
-<span id="copyright">Copyright ©2011 <a href="http://www.xtreeme.com">Xtreeme Sagl</a> &nbsp;&nbsp;&nbsp; <a href="/privacy.php">Privacy</a> &nbsp;&nbsp;&nbsp; <a href="/affiliate-program.php">Affiliate program</a> &nbsp;&nbsp;&nbsp; <a rel="nofollow" href="http://www.facebook.com/planyocom"><img src="/images/icon-facebook.png" style="vertical-align:middle" title="Find us on Facebook"></a></span></div></div>    <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-284532-9");
- pageTracker._setDomainName(".planyo.com");
-pageTracker._initData();
-pageTracker._trackPageview();
+<span id="copyright">Copyright ©2011 <a rel="nofollow" href="http://www.xtreeme.com">Xtreeme Sagl</a> &nbsp;&nbsp;&nbsp; <a id="privacy-link" rel="nofollow" href="/privacy.php">Privacy</a> &nbsp;&nbsp;&nbsp; <a id="affiliate-program-link" rel="nofollow" href="/affiliate-program.php">Affiliate program</a> &nbsp;&nbsp;&nbsp; <a rel="nofollow" href="http://www.facebook.com/planyocom"><img src="/images/icon-facebook.png" style="vertical-align:middle" title="Find us on Facebook" alt="Find us on Facebook"></a></span></div></div>    <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-284532-9']);
+  _gaq.push(['_setDomainName', 'planyo.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
     <!-- Place this tag in your head or just before your close body tag -->
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
-</div><div class="submenu_holder" id="smh_0" style="top: 215px; left: 49px; visibility: hidden; display: block;"><ul class="submenu"><li id="tab_s_0_0"><a href="http://www.planyo.com/">Home</a></li>
-<li id="tab_s_0_1"><a href="http://www.planyo.com/pricing.php">Pricing information</a></li>
-<li id="tab_s_0_2"><a href="http://www.planyo.com/affiliate-program.php">Affiliate program</a></li>
-<li id="tab_s_0_3"><a href="http://www.planyo.com/sites-of-the-week.php">Customer site of the week</a></li>
-<li id="tab_s_0_4"><a href="http://www.planyo.com/whatsnew.php">What's new</a></li>
-<li id="tab_s_0_5"><a href="http://www.planyo.com/partners.php">Partners</a></li>
+</div><div class="submenu_holder" id="smh_0" style="top: 202px; left: 49px; visibility: hidden; display: block;"><ul class="submenu"><li id="tab_s_0_0"><a href="http://www.planyo.com/">Home</a></li>
+<li id="tab_s_0_1"><a href="http://www.planyo.com/what-is-planyo-booking-system.php">What is Planyo</a></li>
+<li id="tab_s_0_2"><a href="http://www.planyo.com/pricing.php">Pricing information</a></li>
+<li id="tab_s_0_3"><a href="http://www.planyo.com/affiliate-program.php">Affiliate program</a></li>
+<li id="tab_s_0_4"><a href="http://www.planyo.com/sites-of-the-week.php">Customer site of the week</a></li>
+<li id="tab_s_0_5"><a href="http://www.planyo.com/whatsnew.php">What's new</a></li>
 <li id="tab_s_0_6"><a href="http://www.planyo.com/about-us.php">About Planyo</a></li>
-</ul></div><div class="submenu_holder" id="smh_1" style="top: 233px; left: 49px; visibility: hidden; display: block;"><ul class="submenu"><li id="tab_s_1_0"><a href="http://www.planyo.com/user-demo.php">Experience a sample planyo site as customer -- Simple integration without own website</a></li>
+</ul></div><div class="submenu_holder" id="smh_1" style="top: 220px; left: 49px; visibility: hidden; display: block;"><ul class="submenu"><li id="tab_s_1_0"><a href="http://www.planyo.com/user-demo.php">Experience a sample planyo site as customer -- Simple integration without own website</a></li>
 <li id="tab_s_1_1"><a href="http://www.planyo.com/user-demo.php?ext=1">Experience a sample planyo site as customer -- Planyo embedded on own website</a></li>
 <li id="tab_s_1_2"><a href="http://www.planyo.com/admin-demo.php">Experience a sample planyo site as administrator</a></li>
 <li id="tab_s_1_3"><a href="http://www.planyo.com/pricing.php">Pricing information</a></li>
@@ -190,16 +196,16 @@ pageTracker._trackPageview();
 <li id="tab_s_1_6"><a href="http://www.planyo.com/free-booking-system.php">Planyo FREE</a></li>
 <li id="tab_s_1_7"><a href="http://www.planyo.com/pro-reservation-system.php">Planyo PRO / PRO-COMM</a></li>
 <li id="tab_s_1_8"><a href="http://www.planyo.com/metasite.php">META Site</a></li>
-</ul></div><div class="submenu_holder" id="smh_3" style="top: 268px; left: 49px; visibility: hidden; display: block;"><ul class="submenu" style="background-color:#f0f0f0;"><li id="tab_s_3_0"><a href="http://www.planyo.com/joomla-reservation-system/">Joomla</a></li>
+</ul></div><div class="submenu_holder" id="smh_3" style="top: 255px; left: 49px; visibility: hidden; display: block;"><ul class="submenu" style="background-color:#f0f0f0;"><li id="tab_s_3_0"><a href="http://www.planyo.com/joomla-reservation-system/">Joomla</a></li>
 <li id="tab_s_3_1"><a href="http://www.planyo.com/drupal-reservation-system/">Drupal</a></li>
 <li id="tab_s_3_2"><a href="http://www.planyo.com/wordpress-reservation-system/">Wordpress</a></li>
 <li id="tab_s_3_3"><a href="http://www.planyo.com/dreamweaver-reservation-system/">DreamWeaver</a></li>
 <li id="tab_s_3_4"><a href="http://www.planyo.com/typo3-reservation-system/">Typo3</a></li>
 <li id="tab_s_3_5"><a href="http://www.planyo.com/modx-reservation-system/">MODx</a></li>
-<li id="tab_s_3_6"><a href="http://www.planyo.com/facebook-reservation-system-app/">facebook</a></li>
-</ul></div><div class="submenu_holder" id="smh_5" style="top: 287px; left: 49px; visibility: hidden; display: block;"><ul class="submenu"><li id="tab_s_5_0"><a href="http://www.planyo.com/site-settings.php?enable-assistant=1">Set-up Assistant</a></li>
+<li id="tab_s_3_6"><a href="http://www.planyo.com/cmsmadesimple-reservation-system/">CMS Made Simple</a></li>
+<li id="tab_s_3_7"><a href="http://www.planyo.com/facebook-reservation-system-app/">facebook</a></li>
+</ul></div><div class="submenu_holder" id="smh_5" style="top: 292px; left: 49px; visibility: hidden; display: block;"><ul class="submenu"><li id="tab_s_5_0"><a href="http://www.planyo.com/site-settings.php?enable-assistant=1">Set-up Assistant</a></li>
 <li id="tab_s_5_1"><a href="http://www.planyo.com/faq.php">Frequently Asked Questions</a></li>
-<li id="tab_s_5_2"><a href="http://www.planyo.com/tutorials.php">Tutorials</a></li>
-<li id="tab_s_5_3"><a href="http://www.planyo.com/api.php">API - Planyo Web Services</a></li>
-<li id="tab_s_5_4"><a href="http://www.planyo.com/contact.php">Contact Us</a></li>
+<li id="tab_s_5_2"><a href="http://www.planyo.com/api.php">API - Planyo Web Services</a></li>
+<li id="tab_s_5_3"><a href="http://www.planyo.com/contact.php">Contact Us</a></li>
 </ul></div></body></html>
