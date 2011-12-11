@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106082527id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211192739id_/http%3A//www.surepayroll.com/privacy.asp) for the most accurate reproduction.*
 
 # SurePayroll Privacy Policy | SurePayroll
 
@@ -68,7 +68,7 @@ The SurePayroll site is not intended for children under 13 years of age. We do n
 
 **Changing Your Information**
 
-If you have an account at the Site, you can make changes to your account information by logging in to the Site and using the available online tools. If you subscribe to any of our e-mail newsletters you may unsubscribe from such newsletters by following the instructions included with the newsletter or by contacting our customer service representatives or sending an email to help@SurePayroll.com. If you have further questions regarding Changing Your Information please contact our customer service representatives or send an email to help@SurePayroll.com. 
+If you have an account at the Site, you can make changes to your account information by logging in to the Site and using the available online tools. If you subscribe to any of our e-mail newsletters you may unsubscribe from such newsletters by following the instructions included with the newsletter or by contacting our customer service representatives or sending an email to [help@SurePayroll.com](mailto:help@SurePayroll.com). If you have further questions regarding Changing Your Information please contact our customer service representatives or send an email to [help@SurePayroll.com](mailto:help@SurePayroll.com). 
 
 **Changes to Privacy Policy**
 
