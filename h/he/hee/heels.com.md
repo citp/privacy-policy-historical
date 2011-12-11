@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heels.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226215750id_/http%3A//www.heels.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heels.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211072505id_/http%3A//www.heels.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Women's Shoes, Dress Shoes, Evening Shoes, Guess Shoes, Jessica Simpson Shoes, LAMB Shoes, High Heels, Heels.com
 
@@ -19,6 +19,7 @@ If you have any question concerning our policy please contact us at
 [support@heels.com](mailto:support@heels.com)
 
 **Heels.com**  
-801 N Tryon St  
-Charlotte, NC 28206  
+550 S. Caldwell St  
+17th Floor  
+Charlotte, NC 28202  
 (866) 33-HEELS
