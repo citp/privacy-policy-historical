@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techinsights.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529133848id_/http%3A//www.ubmtechinsights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techinsights.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211055725id_/http%3A//www.ubmtechinsights.com/privacy-policy) for the most accurate reproduction.*
 
 # UBM TechInsights™ Privacy Notice : TechInsights
 
