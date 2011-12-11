@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230194655id_/http%3A//www.gamechanger.io/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211205813id_/http%3A//www.gamechanger.io/about/privacy) for the most accurate reproduction.*
 
-# GameChanger | About | Privacy Policy
+# About | Privacy Policy
 
 ## GameChanger Media, Inc. Privacy Policy
 
