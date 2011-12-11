@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospects.ac.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611064401id_/http%3A//www.prospects.ac.uk/graduate_prospects_privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospects.ac.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211032213id_/http%3A//www.prospects.ac.uk/graduate_prospects_privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy statement | Prospects.ac.uk
 
