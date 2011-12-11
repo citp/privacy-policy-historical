@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reallyenglish.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416221529id_/http%3A//www.reallyenglish.com/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallyenglish.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211130545id_/http%3A//www.reallyenglish.com/privacypolicy/index.html) for the most accurate reproduction.*
 
 # privacy policy｜reallyenglish
 
