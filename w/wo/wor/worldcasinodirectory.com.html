@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldcasinodirectory.com privacy policy that was archived on 2011-01-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110109201159id_/http%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldcasinodirectory.com privacy policy that was archived on 2011-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211224738id_/http%3A//www.worldcasinodirectory.com/wcdprivpol.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class="ext-strict"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,12 +19,50 @@
 <link rel="stylesheet" type="text/css" href="/layout/ext/resources/css/xtheme-aero.css">
 <!-- /ext -->
 
+
+<!-- jquery -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<!-- /jquery -->
+
+<!-- jquery mb.tooltip -->
+<script type="text/javascript" src="/layout/jquery/plugins/mb.tooltip/inc/jquery.timers.js"></script>
+<script type="text/javascript" src="/layout/jquery/plugins/mb.tooltip/inc/jquery.dropshadow.js"></script>
+<script type="text/javascript" src="/layout/jquery/plugins/mb.tooltip/inc/mbTooltip.js"></script>
+<link rel="stylesheet" type="text/css" href="/layout/jquery/plugins/mb.tooltip/css/mbTooltip.css" media="screen">
+<script type="text/javascript">
+    $(function(){
+      $("[title]").mbTooltip({ // also $([domElement]).mbTooltip
+        opacity : 1,       //opacity
+        wait:1,           //before show
+        cssClass:"default",  // default = default
+        timePerWord:10000,      //time to show in milliseconds per word
+        hasArrow:true,                 // if you want a little arrow on the corner
+        hasShadow:false,
+        imgPath:"/layout/jquery/plugins/mb.tooltip/images/",
+        anchor:"parent", //or "mouse" you can ancor the tooltip to the mouse  or to the element
+        shadowColor:"black", //the color of the shadow
+        mb_fade:0 //the time to fade-in
+      });
+    });
+</script>
+<!-- /jquery mb.tooltip -->
+
+
+<!-- facebox -->
+<link href="/layout/facebox/facebox.css" media="screen" rel="stylesheet" type="text/css">
+<script src="/layout/facebox/facebox.js" type="text/javascript"></script> 
+<!-- /facebox -->
+
 <!-- wcd -->
 <script type="text/javascript" src="/layout/global/functions.js"></script>
 <script type="text/javascript" src="/layout/wcd/TableGrid.js"></script> 
 <script type="text/javascript" src="/layout/wcd/PropertyList.js"></script> 
 <script type="text/javascript" src="/layout/wcd/util.js"></script> 
 <script type="text/javascript" src="/layout/wcd/UI.js"></script> 
+<script type="text/javascript" src="/layout/wcd/wpd_ajax_ratings.js"></script>
+<script type="text/javascript" src="/layout/wcd/wpd_ajax_game_ratings.js"></script>
+<script type="text/javascript" src="/layout/wcd/wcd_ajax_login.js"></script>
+<link rel="stylesheet" type="text/css" href="/layout/wcd/starratings.css">
 <!-- /wcd -->
 
 <!-- /UI -->
@@ -38,23 +76,7 @@
 <link rel="stylesheet" type="text/css" href="http://www.worldcasinodirectory.com/layout/lightbox/lightbox.css">
 <!-- /lightbox -->
 
-
-<script type="text/javascript" src="http://cdn.rewardsaffiliates.com/scripts/shared/ra_shared.js"></script>
-<script type="text/javascript">
-    raDispSwf({
-        RAaffid: 'aff13335:spinbanner',
-        RAlnge: 'en',
-        RAcurr: 'eur',
-        RAsitec: 'cc',
-        RAposi: 'cbr',
-        RAonlyonce: 'yes',
-        RAflashfile: 'spinningnote',
-        RAfSize: '250,200',
-        RAcolour: 'FFFFFF',
-        RAcolour2: '000000'
-    });
-</script>
-
+ 
 
 
 
@@ -74,33 +96,84 @@
 
 <body id="ext-gen2" class=" ext-safari ext-linux">
 
-
-
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+  $('a[rel*=facebox]').facebox()
+}) 
+</script>
 
 <div style="top: 0px; position: absolute;width:100%;">
 
 
 <!-- userpanel -->
+<script type="text/javascript">
+function clearDefault(a){if(a.defaultValue==a.value){a.value=""}};
+</script>
 
-<div style="background-color:#EEEEEE; padding-top: 0px; padding-right: 1px; margin-top: 1px; margin-bottom:-1px;font-size: 0.8em;" align="right"><table height="29"><tbody><tr><td>
-<form method="POST" name="languageSelectForm" action="http://www.worldcasinodirectory.com/">
-<ul><li style="display: inline; color: #666666; padding-right: 8px;">You aren't signed in</li><li style="display: inline; padding-right: 8px;">
-<a id="loginLink" href="http://www.worldcasinodirectory.com/logging?url=http://www.worldcasinodirectory.com/wcdprivpol.htm">
-sign in</a> <span style="color: #c9c9c9; font-size: 1.2em;">|</span> 
-<a href="http://www.worldcasinodirectory.com/register">register</a></li> 
- | Translations / Languages:  
+<div style="background-color:#EEEEEE; padding-top: 0px; padding-right: 8px; margin-top: 1px; margin-bottom:-1px; font-size: 0.8em;" align="right">
 
-<li style="display: inline; padding-right: 5px;">
-<a href="http://www.worldcasinodirectory.com/wcdprivpol.htm" class="imagelink"><img src="http://www.worldcasinodirectory.com/images/allflags/us.gif" style="margin-top: 3px;"></a>
-<a href="http://www.worldcasinodirectory.com/wcdprivpol.htm" class="imagelink"><img src="http://www.worldcasinodirectory.com/images/allflags/gb.gif"></a>
+<table style="height: 29px;"><tbody><tr><td>
+
+<span id="wcd_login_field">
+<form style="display: inline;">
+<input style="font-size: 10pt; color: #777;" onfocus="clearDefault(this)" name="wcd_username_login" type="text" id="wcd_username_login" value="username">
+<input style="font-size: 10pt; color: #777;" onfocus="clearDefault(this)" name="wcd_password_login" type="password" id="wcd_password_login" value="password">
+<input style="border: 2px solid; border-color : #CCC #777 #777 #CCC; background-color: #FFF; color: #777; padding: 0px 3px 0px 3px; font-size: 8pt;" type="submit" onclick="wcd_ajax_login_func(); return false;" name="loginsubmit" id="loginsubmit" value="LOGIN">
+</form>&nbsp; <a style="border: 2px solid; border-color : #CCC #777 #777 #CCC; background-color: #FFF; color: #777; padding: 0px 3px 0px 3px; font-size: 8pt;" href="http://www.worldcasinodirectory.com/register">REGISTER</a>
+</span>&nbsp;&nbsp;&nbsp;
+
+
+
+</td>
+<td>
+<dl class="dropdown">
+    <dt><a href="#"><span>Language:</span></a></dt>
+    <dd>
+        <ul>
+<li>
+<a class="dropdown-selected" href="http://www.worldcasinodirectory.com/wcdprivpol.htm"><img class="flag" src="http://www.worldcasinodirectory.com/images/allflags/gb.gif"> English</a>
 </li>
+        </ul>
+    </dd>
+</dl>
 
-</ul>
-
-</form>
 
 </td></tr><tr>
 </tr></tbody></table>
+
+<script type="text/javascript">
+
+        $(document).ready(function() {
+            $(".dropdown dt").click(function() {
+                $(".dropdown dd ul").toggle();
+            });
+                                 
+            $(".dropdown dd ul li a").click(function() {
+                var text = $(this).html();
+                $(".dropdown dt a span").html(text);
+                $(".dropdown dd ul").hide();
+                //alert("Selected value is: " + getSelectedValue("sample"));
+            });
+               
+            function getSelectedValue(id) {
+                return $("#" + id).find("dt a span.value").html();
+            }
+
+            function setSelectedValue() {
+                var text = $(".dropdown dd ul li .dropdown-selected").html();
+                $(".dropdown dt a span").html(text);
+            }
+
+            $(document).bind('click', function(e) {
+                var $clicked = $(e.target);
+                if (! $clicked.parents().hasClass("dropdown"))
+                    $(".dropdown dd ul").hide();
+            });
+
+            setSelectedValue();
+        });
+</script>
+
 
 
 </div>
@@ -114,6 +187,38 @@ sign in</a> <span style="color: #c9c9c9; font-size: 1.2em;">|</span>
 
 
 <div class="wcdDelivery">
+
+
+
+
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.worldcasinodirectory.com/ads/www/delivery/...'
+  * to
+  *   'https://www.worldcasinodirectory.com/ads/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+
+
+
+
+
+
+
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://www.worldcasinodirectory.com/ads/www/delivery/ajs.php':'http://www.worldcasinodirectory.com/ads/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
@@ -128,7 +233,14 @@ sign in</a> <span style="color: #c9c9c9; font-size: 1.2em;">|</span>
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'></scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://www.worldcasinodirectory.com/ads/www/delivery/ajs.php?zoneid=1&amp;cb=15833387286&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110109201159id_/http%253A//www.worldcasinodirectory.com/wcdprivpol.htm"></script><noscript><a href='http://www.worldcasinodirectory.com/ads/www/delivery/ck.php?n=afe262a3&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.worldcasinodirectory.com/ads/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=afe262a3' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://www.worldcasinodirectory.com/ads/www/delivery/ajs.php?zoneid=1&amp;cb=7828446613&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111211224738id_/http%253A//www.worldcasinodirectory.com/wcdprivpol.htm"></script><noscript><a href='http://www.worldcasinodirectory.com/ads/www/delivery/ck.php?n=afe262a3&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.worldcasinodirectory.com/ads/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=afe262a3' border='0' alt='' /></a></noscript>
+
+
+
+
+
+
+
 
 </div>
 </div>
@@ -158,13 +270,13 @@ sign in</a> <span style="color: #c9c9c9; font-size: 1.2em;">|</span>
  
 
 
-<div style="width:99.7%; height: 46px; overflow: hidden; margin-right: 0px;margin-left: 0px;   padding: 0px; background-image:url(http://www.worldcasinodirectory.com/images/bb1bb.gif);padding-left: 3px;">
+<div style="width:99.7%; height: 46px; overflow: hidden; margin-right: 0px;margin-left: 0px;   padding: 0px;padding-left: 3px;">
 
-<div id="wcdTopMenu" style="text-align: center;background-image:url(http://www.worldcasinodirectory.com/images/bb1bb.gif);margin-top:4px;">
+<div id="wcdTopMenu" style="text-align: center;margin-top:4px;">
 
 <center>
 
-<table border="0" width="100%" style="background-image:url(http://www.worldcasinodirectory.com/images/bb1bb.gif); ">
+<table border="0" width="100%">
 <tbody><tr><td width="10%">
 
 <table border="0">
@@ -339,15 +451,14 @@ sign in</a> <span style="color: #c9c9c9; font-size: 1.2em;">|</span>
 
 </td></tr></tbody></table>
 
-
 </center>
 
 
 
 
-</div> 
+</div>
+ 
 </div> <!-- wcdTopMenu -->
-
 
 </div> 
 
@@ -357,7 +468,7 @@ sign in</a> <span style="color: #c9c9c9; font-size: 1.2em;">|</span>
 
 
 <!-- main content div -->
-<div style="padding: 6px; margin-top: 185px;">
+<div style="padding: 6px; margin-top: 195px;">
 <!-- left column -->
 <div class="main-left-column">
 
@@ -430,7 +541,7 @@ World Casino Directory protects the privacy of its visitors and does not divulge
 <!-- right column -->
 <div class="main-right-column">
 
-<div class="wcdDelivery"><a href="http://www.worldcasinodirectory.com/openads/www/delivery/ck.php?oaparams=2__bannerid=450__zoneid=160__cb=318fc347c1__oadest=http%3A%2F%2Fonline.worldcasinodirectory.com%2Fplay%2Fsloto-cash" target="_blank"><img src="http://www.worldcasinodirectory.com/openads/www/images/d96f5cf27e3fb9d8f0153e4c2b19261f.gif" width="208" height="208" alt="Slot O Cash" title="Slot O Cash" border="0"></a><div id="beacon_318fc347c1" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.worldcasinodirectory.com/openads/www/delivery/lg.php?bannerid=450&amp;campaignid=225&amp;zoneid=160&amp;loc=http%3A%2F%2Fwww.worldcasinodirectory.com%2Fwcdprivpol.htm&amp;referer=http%3A%2F%2Fwww.worldcasinodirectory.com%2Fcasino%2Fsandia-casino-2879&amp;cb=318fc347c1" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
+<div class="wcdDelivery"><a href="http://www.worldcasinodirectory.com/openads/www/delivery/ck.php?oaparams=2__bannerid=100__zoneid=160__cb=07729e446e__oadest=http%3A%2F%2Fsuperiorcasino.com%2Fget%2Fa%2F479539" target="_self"><img src="http://www.worldcasinodirectory.com/openads/www/delivery/ai.php?filename=208x208.gif&amp;contenttype=gif" width="208" height="208" alt="Superior Casino - Superior Games" title="Superior Casino - Superior Games" border="0"></a><div id="beacon_07729e446e" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.worldcasinodirectory.com/openads/www/delivery/lg.php?bannerid=100&amp;campaignid=92&amp;zoneid=160&amp;loc=http%3A%2F%2Fwww.worldcasinodirectory.com%2Fwcdprivpol.htm&amp;cb=07729e446e" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div></div>
 <!-- Online casino reviews header -->
 <div class="blockheader">Online casino reviews</div>
 
@@ -451,200 +562,135 @@ World Casino Directory protects the privacy of its visitors and does not divulge
 
 <div id="miniTabsBlock0" class="miniTabsBlock" style="display: block;">
 
+ 
+
+ 
+ 
+
+
+
 <div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/crazy-slots">Crazy Slots</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Crazy Slots"></span>
+<span class="listLabel"><a href="http://www.worldcasinodirectory.com/slotspluscasino">Slots Plus Casino</a></span><span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/us.gif">  </span>
+
+</div>
+
+<div class="listRow">
+<span class="listLabel"><a href="http://online.worldcasinodirectory.com/superior-&#10;casino">Superior Casino</a></span> <span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/us.gif">  </span>
 </div>
 
  
 
-<div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/english-harbour">English Harbour Casino</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="English Harbor casino"></span>
-</div>
 
+ 
 
+ 
+ 
 
-
-<div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/vip-slots">VIP Slots</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="VIP Slots"></span>
-</div>
-
-
-<div class="listRow">
-<span class="listLabel"><a href="http://www.worldcasinodirectory.com/slotspluscasino">Slots Plus Casino</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Slots Plus Casino"></span>
-</div>
-
-
-<div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/superslots">SuperSlots Casino</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="SuperSlots"></span>
-</div>
-
-<div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/superior-&#10;casino">Superior Casino</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Superior 
-Casino"></span>
-</div>
-
-<div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/caribbean-gold">Caribbean Gold</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Caribbean Gold Casino"></span>
-</div>
-
-
-<div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/silver-dollar">Silver Dollar Casino</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Silver Dollar Casino"></span>
-</div>
-
-<div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/online-vegas-casino">Online Vegas Casino</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/most.gif" style="margin-
-top:2px;" title="All Star Slots Casino"></span>
-</div>
 
 <div class="listRow">
 <span class="listLabel"><a href="http://online.worldcasinodirectory.com/slotland">Slotland</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Slotland"></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/us.gif"></span>
 </div>
 
-
-<div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/lion-slots">Lion 
-Slots</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Lion Slots 
-Casino"></span>
-</div>
-
-
-<div class="listRow">
-<span class="listLabel"><a href="http://www.worldcasinodirectory.com/grand-online-casino.htm">Grand Online 
-Casino</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/no.gif" style="margin-
-top:2px;" title="Grand Online 
-Casino"></span>
-</div>
-
-
-<div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/slots-of-&#10;fortune">Slots of 
-Fortune</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Slots of 
-Fortune"></span>
-</div>
-
-<div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/mayan-&#10;fortune">Mayan Fortune 
-Casino</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Mayan 
-Fortune"></span>
-</div>
-
-
+  
 
 <div class="listRow">
 <span class="listLabel"><a href="http://online.worldcasinodirectory.com/bodog-&#10;casino">BoDog Casino</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Bodog Online 
-Casino"></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/us.gif"></span>
+</div>
+
+ 
+</div> <!-- /miniTabsBlock US content -->
+<div id="miniTabsBlock1" class="miniTabsBlock" style="display: none;">
+
+
+<div class="listRow">
+<span class="listLabel"><a href="&#10;http://superiorcasino.com/get/a/1213726&#10;">Superior Online Casino</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/de.gif"></span>
+</div>
+
+
+
+
+<div class="listRow">
+<span class="listLabel"><a href="http://www.rewardsafftrack.eu/affiliate/referral.asp?site=cade&amp;aff_id=aff13335" rel="nofollow">Casino Action</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/de.gif"></span>
 </div>
 
 <div class="listRow">
-<span class="listLabel"><a href="http://online.worldcasinodirectory.com/full-tilt-&#10;poker">Full Tilt Poker</a></span>
-<span class="listObject"><img src="http://www.worldcasinodirectory.com/layout/reviews/ok.gif" style="margin-
-top:2px;" title="Full Tilt 
-Poker"></span>
+<span class="listLabel"><a href="http://www.rewardsafftrack.eu/affiliate/referral.asp?site=zcde&amp;aff_id=aff13335" rel="nofollow">Zodiac casino</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/de.gif"></span>
 </div>
+
  
 
-</div> <!-- /miniTabsBlock US content -->
-<div id="miniTabsBlock1" class="miniTabsBlock" style="display: none;">
+
+<div class="listRow">
+<span class="listLabel"><a href="http://www.worldcasinodirectory.com/de/slotland">Slotland</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/de.gif"></span>
+</div>
+ <div class="listRow">
+<span class="listLabel"><a href="http://www.rewardsafftrack.eu/affiliate/referral.asp?site=gtde&amp;aff_id=aff13335" rel="nofollow">Golden Tiger</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/de.gif"></span>
+</div>
+
 
 <div class="listRow">
 <span class="listLabel"><a href="http://www.worldcasinodirectory.com/de/goldenpalace">Golden Palace 
 Casino</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/de.gif"></span>
 </div>
 
 <div class="listRow">
 <span class="listLabel"><a href="http://www.worldcasinodirectory.com/de/grand-online-casino.htm">Grand Online 
 Casino</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/de.gif"></span>
 </div>
 
-<div class="listRow">
-<span class="listLabel"><a href="http://www.rewardsafftrack.eu/affiliate/referral.asp?site=cade&amp;aff_id=aff13335" rel="nofollow">Casino Action</a></span>
-</div>
-
-<div class="listRow">
-<span class="listLabel"><a href="http://www.rewardsafftrack.eu/affiliate/referral.asp?site=zcde&amp;aff_id=aff13335" rel="nofollow">Zodiac casino</a></span>
-</div>
-
-
-
-
-<div class="listRow">
-<span class="listLabel"><a href="http://www.worldcasinodirectory.com/de/slotland">Slotland</a></span>
-</div>
- <div class="listRow">
-<span class="listLabel"><a href="http://www.rewardsafftrack.eu/affiliate/referral.asp?site=gtde&amp;aff_id=aff13335" rel="nofollow">Golden Tiger</a></span>
-</div>
 
 </div>
 
 <div id="miniTabsBlock2" class="miniTabsBlock" style="display: none;">
 
 
+ 
 
 <div class="listRow">
-<span class="listLabel"><a href="http://www.rewardsafftrack.eu/affiliate/referral.asp?site=bjbfr&amp;aff_id=aff13335">Blackjack Ballroom Casino</a></span>
+<span class="listLabel"><a href="http://superiorcasino.com/get/a/1213716" rel="nofollow">Superior Casino</a></span><span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/fr.gif"> </span>
 </div>
 
 <div class="listRow">
-<span class="listLabel"><a href="http://www.worldcasinodirectory.com/fr/grandhotel">Grand Hôtel Casino</a></span>
+<span class="listLabel"><a href="http://www.winpalace.com/fr/online-casino/.aspx?affid=19759" rel="nofollow">WinPalace Casino</a></span><span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/fr.gif"> </span>
 </div>
 
-
-
-<div class="listRow">
-<span class="listLabel"><a href="http://www.rewardsafftrack.eu/affiliate/referral.asp?site=gtfr&amp;aff_id=aff13335" rel="nofollow">Golden Tiger</a></span>
-</div>
-
-
-
-<div class="listRow">
-<span class="listLabel"><a href="http://www.worldcasinodirectory.com/fr/vegasslot">Vegas Slot Casino</a></span>
+ <div class="listRow">
+<span class="listLabel"><a href="http://www.worldcasinodirectory.com/fr/slotland">Slotland</a> in English but accepts French</span> <span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/fr.gif"> </span>
 </div>
 
 <div class="listRow">
-<span class="listLabel"><a href="http://www.worldcasinodirectory.com/colosseumcasino">Colosseum Casino</a></span>
+<span class="listLabel"><a href="http://www.worldcasinodirectory.com/fr/grandhotel">Grand Hôtel Casino</a></span><span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/nofr.gif"> </span>
+</div>
+
+ 
+
+<div class="listRow">
+<span class="listLabel"><a href="http://www.worldcasinodirectory.com/fr/vegasslot">Vegas Slot Casino</a></span><span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/nofr.gif"> </span>
 </div>
 
 <div class="listRow">
-<span class="listLabel"><a href="http://www.worldcasinodirectory.com/fr/slotland">Slotland</a></span>
+<span class="listLabel"><a href="http://www.worldcasinodirectory.com/colosseumcasino">Colosseum Casino</a></span><span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/nofr.gif"> </span>
 </div>
+
+
 
 <div class="listRow">
 <span class="listLabel"><a href="http://www.worldcasinodirectory.com/fr/grand-online-casino.htm">Grand Online 
-Casino</a></span>
+Casino</a></span><span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/nofr.gif"> </span>
 </div>
 
 <div class="listRow">
 <span class="listLabel"><a href="http://www.worldcasinodirectory.com/fr/goldenpalace">Casino Golden 
-Palace</a></span>
+Palace</a></span><span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/nofr.gif"> </span>
 </div>
  
 
@@ -654,32 +700,47 @@ Palace</a></span>
 
 
 
+
+
+<div class="listRow">
+<span class="listLabel"><a href="http://superiorcasino.com/get/a/1213728" rel="nofollow">Superior Casino Online</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/it.gif"></span>
+</div>
+
+
+
 <div class="listRow">
 <span class="listLabel"><a href="http://www.rewardsafftrack.eu/affiliate/referral.asp?site=gtit&amp;aff_id=aff13335&#10;" rel="nofollow">Golden Tiger</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/it.gif"></span>
 </div>
 
 <div class="listRow">
 <span class="listLabel"><a href="http://www.rewardsafftrack.eu/affiliate/referral.asp?site=zcit&amp;aff_id=aff13335" rel="nofollow">Zodiac Casino</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/it.gif"></span>
 </div>
 
 <div class="listRow">
 <span class="listLabel"><a href="http://www.worldcasinodirectory.com/it/grandhotel">Grand Hotel Casino</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/it.gif"></span>
 </div>
 
 
 <div class="listRow">
 <span class="listLabel"><a href="&#10;http://www.rewardsafftrack.eu/affiliate/referral.asp?site=cait&amp;aff_id=aff13335" rel="nofollow">Casino Action</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/it.gif"></span>
 </div>
 
 
 
 <div class="listRow">
 <span class="listLabel"><a href="http://www.worldcasinodirectory.com/it/colloseumcasino">Colosseum Casino</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/it.gif"></span>
 </div>
 
 
 <div class="listRow">
 <span class="listLabel"><a href="http://www.worldcasinodirectory.com/it/vegasslot">Vegas Slot Casino</a></span>
+<span class="listObject"><img src="http://www.worldcasinodirectory.com/images/allflags/it.gif"></span>
 </div>
 
  
@@ -690,11 +751,9 @@ Palace</a></span>
 <!-- /right column -->
 
 
-
 <!-- /main content div-->
 
 <div class="main-footer">
-
 <div style="text-align: center; width:100%; overflow: hidden; margin-left: 0px; margin-right: 0px; padding: 0px;">
 <div id="footer">
  <div class="footer-contents"><div class="footer-contents2">
@@ -788,7 +847,7 @@ The SAFE Ports Act passed by the U.S. congress is affecting certain payment proc
  
 <br><br>
 
-©Copyright 2002-2010 World Casino Directory. All rights reserved.
+©Copyright 2002-2012 World Casino Directory. All rights reserved.
 
 <br><br>
 </span>
@@ -798,55 +857,6 @@ The SAFE Ports Act passed by the U.S. congress is affecting certain payment proc
 
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
