@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510135344id_/http%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211190639id_/http%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myhosting.com
 
@@ -76,7 +76,7 @@ If you have any questions about the privacy practices of myhosting.com, or you w
 
 **Legal and Compliance  
 SoftCom Technology Consulting Inc.**  
-310 - 10 Bay Street  
+1610 - 10 Bay Street  
 Toronto, ON M5J 2R8
 
 E-mail: [legal@softcom.biz](mailto:legal@softcom.biz)  
