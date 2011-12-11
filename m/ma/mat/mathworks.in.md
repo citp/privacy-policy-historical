@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228075009id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211201440id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # MathWorks India - Policies and Statements
 
@@ -54,6 +54,8 @@ Although Web browsers typically allow cookies by default, most browsers will let
 
 MathWorks engages a third-party Web traffic analysis company to log aggregate information coming through our Web site on our behalf. MathWorks controls how that data may and may not be used. When you visit our Web site, the third-party Web traffic analysis company may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and Web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. These technical tracking methods are not used to relate Web site visitors to any personally identifiable information. Information collected by MathWorks is unique to individual visitors but is not personally identifiable to the third-party Web traffic analysis company. Such information provided to MathWorks may be re-associated by MathWorks with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, or e-mail address, is shared with the third-party Web traffic analysis company.
 
+We allow third-party companies, including a third-party social bookmarking service, to collect certain anonymous information when you visit our Web site and share or bookmark content.
+
 ### 3\. How we protect your order information
 
 [MathWorks Store](https://web.archive.org/store/) has security measures in place to protect the order information under our control against loss, misuse, destruction, and alteration. We use industry-standard security measures called SSL encryption. Encryption helps protect your credit card number and personal information by scrambling the data in transit to the MathWorks Store. We encrypt every order. If you would prefer to give your information by phone, you may call 508-647-7000.
@@ -89,13 +91,11 @@ To enable you to use our products, we may request or collect information such as
 
 MathWorks may make improvements or changes in the information, services, products, and other materials on the MathWorks Web site at any time without notice. MathWorks may modify this Privacy Policy at any time, and such modifications shall be effective immediately upon posting of the modified Privacy Policy. Notification of material changes to this Privacy Policy will be provided by noting a new "updated" date in connection with the Privacy Policy link that appears at the bottom of each page. 
 
-_If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact[webmasters@mathworks.com](mailto:webmasters@mathworks.com)._
+_If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please[contact us](https://web.archive.org/company/feedback/)._
 
 Updated 08/27/2009
 
 | 
 
-|  [](https://web.archive.org/company/aboutus/contact_us/contact_sales.html) | [Contact sales](https://web.archive.org/company/aboutus/contact_us/contact_sales.html)  
----|---  
-[](mailto:?subject=An%20interesting%20item%20from%20The%20MathWorks&body=I%20thought%20you%20might%20be%20interested%20in%20this%3A%0Dhttp%3A%2F%2Fwww.mathworks.in%2Fcompany%2Faboutus%2Fpolicies_statements%2Findex.html?s_v1=emailed%0D%0DFor%20more%20information%20on%20MathWorks%20products-%0DMathWorks%20Product%20%26%20Services%3A%20http%3A%2F%2Fwww.mathworks.in%2Fproducts%2Findex.html%0DLatest%20Features%3A%20http%3A%2F%2Fwww.mathworks.in%2Fproducts%2Fnew_products%2Flatest_features.html%0DContact%20Sales%3A%20http%3A%2F%2Fwww.mathworks.in%2Fcompany%2Faboutus%2Fcontact_us%2Fcontact_sales.html%0DGet%20a%20Trial%3A%20%20http%3A%2F%2Fwww.mathworks.in%2Fprograms%2Ftrials%2Ftrial_request.html%0D) | [E-mail this page](mailto:?subject=An%20interesting%20item%20from%20The%20MathWorks&body=I%20thought%20you%20might%20be%20interested%20in%20this%3A%0Dhttp%3A%2F%2Fwww.mathworks.in%2Fcompany%2Faboutus%2Fpolicies_statements%2Findex.html?s_v1=emailed%0D%0DFor%20more%20information%20on%20MathWorks%20products-%0DMathWorks%20Product%20%26%20Services%3A%20http%3A%2F%2Fwww.mathworks.in%2Fproducts%2Findex.html%0DLatest%20Features%3A%20http%3A%2F%2Fwww.mathworks.in%2Fproducts%2Fnew_products%2Flatest_features.html%0DContact%20Sales%3A%20http%3A%2F%2Fwww.mathworks.in%2Fcompany%2Faboutus%2Fcontact_us%2Fcontact_sales.html%0DGet%20a%20Trial%3A%20%20http%3A%2F%2Fwww.mathworks.in%2Fprograms%2Ftrials%2Ftrial_request.html%0D)  
-| Print this page
+| [](https://web.archive.org/company/aboutus/contact_us/contact_sales.html) | [Contact sales](https://web.archive.org/company/aboutus/contact_us/contact_sales.html)  
+---|---
