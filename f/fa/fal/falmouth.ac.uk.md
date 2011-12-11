@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the falmouth.ac.uk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613201108id_/http%3A//www.falmouth.ac.uk/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2519%26Itemid%3D1107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the falmouth.ac.uk privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212001125id_/http%3A//www.falmouth.ac.uk/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2519%26Itemid%3D1107) for the most accurate reproduction.*
 
-# Privacy Policy | Information, Personal, Privacy, Website | University College Falmouth - University College Falmouth
+# Privacy Policy | Information, Website, Personal, Privacy | University College Falmouth - University College Falmouth
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
