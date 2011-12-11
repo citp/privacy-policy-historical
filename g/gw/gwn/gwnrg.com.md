@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gwnrg.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218200047id_/http%3A//gwnrg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwnrg.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211190632id_/http%3A//gwnrg.com/privacy.html) for the most accurate reproduction.*
 
-# GW Link Energy - General Web Directory - Privacy Policy
+# GW directory - fast approval directory - Privacy Policy
 
 Privacy Policy for GWNRG.com
 
