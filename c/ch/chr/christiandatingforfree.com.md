@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430031515id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiandatingforfree.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211034957id_/http%3A//www.christiandatingforfree.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Christian Dating For Free PRIVACY POLICY | Online Community of Single Christians
 
-CDFF is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this notice have the same meanings as in CDFF’s [Website Terms of Use](https://web.archive.org/web/20110430031515id_/http%3A//www.christiandatingforfree.com/terms.php), which is incorporated herein by reference). CDFF created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
+CDFF is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this notice have the same meanings as in CDFF’s [Website Terms of Use](https://web.archive.org/web/20111211034957id_/http%3A//www.christiandatingforfree.com/terms.php), which is incorporated herein by reference). CDFF created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
 This Privacy Policy is only applicable to the Website and not to any Third-Party Websites, which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy.  For additional information, see the section concerning Third-Party Websites, below.
 
@@ -53,7 +53,7 @@ Except under the following circumstances, CDFF will keep Your Personal Informati
 
 **4.** **CONSENT TO RECEIVE EMAIL FROM CDFF**
 
-As stated in the [Website Terms of Use](https://web.archive.org/web/20110430031515id_/http%3A//www.christiandatingforfree.com/terms.php), by registering with the Website and becoming a Member, you thereby consent to receive periodic email communications regarding the Services, including activation emails.  As part of registration, You may also elect to receive periodic email communications regarding special offers and other promotions (collectively, “ **Special Offers** ”). You may opt-out of receiving Special Offers at any time by (a) editing Your “Mail Settings;” (b) following the unsubscribe instructions contained in each Special Offer; or (c) sending an email to [admin@ChristianDatingForFree.com](mailto:admin@ChristianDatingForFree.com).
+As stated in the [Website Terms of Use](https://web.archive.org/web/20111211034957id_/http%3A//www.christiandatingforfree.com/terms.php), by registering with the Website and becoming a Member, you thereby consent to receive periodic email communications regarding the Services, including activation emails.  As part of registration, You may also elect to receive periodic email communications regarding special offers and other promotions (collectively, “ **Special Offers** ”). You may opt-out of receiving Special Offers at any time by (a) editing Your “Mail Settings;” (b) following the unsubscribe instructions contained in each Special Offer; or (c) sending an email to [admin@ChristianDatingForFree.com](mailto:admin@ChristianDatingForFree.com).
 
 **5.** **SECURITY OF PERSONAL INFORMATION**
 
@@ -65,7 +65,7 @@ You must promptly notify us if Your user name or password is lost, stolen or use
 
 **7.** **USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL    ****INFORMATION**
 
-CDFF wants Your Personal Information to be complete and accurate.  As stated in the [Website Terms of Use](https://web.archive.org/web/20110430031515id_/http%3A//www.christiandatingforfree.com/terms.php), by using the Website, You represent and warrant that all information You provide on any registration form or otherwise in connection with Your use of the Website and Services will be complete and accurate, and that You will update that information as necessary to maintain its completeness and accuracy.  To confirm the completeness and accuracy of, or make changes to, Your Personal Information, visit Your personal profile.  Through Your personal profile You may review and update You Personal Information that we have already collected. 
+CDFF wants Your Personal Information to be complete and accurate.  As stated in the [Website Terms of Use](https://web.archive.org/web/20111211034957id_/http%3A//www.christiandatingforfree.com/terms.php), by using the Website, You represent and warrant that all information You provide on any registration form or otherwise in connection with Your use of the Website and Services will be complete and accurate, and that You will update that information as necessary to maintain its completeness and accuracy.  To confirm the completeness and accuracy of, or make changes to, Your Personal Information, visit Your personal profile.  Through Your personal profile You may review and update You Personal Information that we have already collected. 
 
 **8.** **THIRD-PARTY WEBSITES**
 
