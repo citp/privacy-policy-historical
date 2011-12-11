@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227080524id_/http%3A//www.arcserve.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcserve.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211094349id_/http%3A//arcserve.com/us/privacy.aspx) for the most accurate reproduction.*
 
-# CA Privacy Notice
+# Privacy | ARCserve
 
 CA is committed to respecting and protecting your privacy and wants you to feel secure when visiting our site and providing information to us. In order to provide you with relevant information, respond to your requests, and increase the benefits you receive from our website, we sometimes request that you provide us with information about yourself.
 
@@ -8,7 +8,7 @@ We have prepared this Privacy Notice to inform you of the information we gather 
 
 For personal information of individuals that CA receives from the European Economic Area (EEA), CA has committed to handling such personal information in accordance with the US Department of Commerce Safe Harbor Principles for transfer of personal information outside of the EEA. CA's Safe Harbor certification can be found at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webpages/safe+harbor+list>
 
-**We self-certify compliance with**
+** We self-certify compliance with **
 
   
 [www.export.gov/safeharbor](http://www.export.gov/safeharbor)
