@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the pcnation.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206190545id_/http%3A//www.pcnation.com/web/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcnation.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211052709id_/http%3A//www.pcnation.com/web/security.asp) for the most accurate reproduction.*
 
 # Security & Privacy Policy - Buy with confidence | PCNation.com
 
-| SUNDAY HOURS: 12pm - 4pm CST  
----|---  
-  
 ---  
   
 |    |  |   
@@ -32,4 +29,4 @@ PCNation wants to make your on-line shopping easy, secure and worry-free. To saf
 |   
 ---|---|---  
   
-Copyright © 1996-2010 PCNation. All rights reserved. 
+Copyright © 1996-2011 PCNation. All rights reserved. 
