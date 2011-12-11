@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msfinancialsavvy.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418002235id_/http%3A//www.msfinancialsavvy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msfinancialsavvy.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211202918id_/http%3A//www.msfinancialsavvy.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy statement, Small Business, Learn Investing, mutual funds, personal financial planning, women and money, investment books, loan calculator, retirement.
 
