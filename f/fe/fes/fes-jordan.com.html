@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the fes-jordan.com privacy policy that was archived on 2011-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110401132616id_/http%3A//www.fes-jordan.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fes-jordan.com privacy policy that was archived on 2011-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211014423id_/http%3A//fes-jordan.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Fes Jordan High Page Rank Web Directory&nbsp;- Privacy Policy  </title>
+<title>High Page Rank Web Directory&nbsp;- Privacy Policy  </title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" type="text/css" href="/templates/Elevation/style/main.css">
 <meta name="keywords" content="High page Rank web directory privacy policy">
@@ -73,142 +73,6 @@ catch (e)
   }
 </script>
 
-<script type="text/javascript">
-jQuery(function($) {
-	$(document).ready(function(){
-		
-												jQuery.validator.messages.required = "This field is required.";
-																jQuery.validator.messages.remote = "Please fix this field.";
-																jQuery.validator.messages.email = "Invalid email address format.";
-																jQuery.validator.messages.url = "Invalid URL.";
-																jQuery.validator.messages.date = "Invalid date format.";
-																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
-																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
-																jQuery.validator.messages.number = "Required numeric field.";
-																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
-																jQuery.validator.messages.digits = "Required integer field.";
-																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
-																jQuery.validator.messages.equalTo = "Please enter the same value again.";
-																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
-																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
-																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
-																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
-																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
-																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
-																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
-									
-		
-		function fireEvent(obj, evt) {
-            var fireOnThis = obj;
-            if (document.createEvent) {
-              var evObj = document.createEvent('MouseEvents');
-                evObj.initEvent(evt, true, false);
-                fireOnThis.dispatchEvent(evObj);
-            } else if (document.createEventObject) {
-                fireOnThis.fireEvent('on'+evt);
-            }
-        }
-		
-		//valid obj isntantiated in header.tpl
-                valid_obj.login_form = {
-				debug: false,
-				onKeyUp: true,
-                onfocusout: false,
-				errorElement: "span",
-				errorClass: "errForm",
-				submitHandler: function(form) {
-					// do other stuff for a valid form
-					if ($("#login_form").valid()) {
-						form.submit();
-					}
-				},
-				
-				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
-		};
-
-        $("#login_form").validate(valid_obj.login_form);
-
-                var selects = $("#login_form").find("select");
-                var crt;
-                $.each(selects, function() {
-                    crt = this.id;
-                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
-                        $("#"+crt).change(function() {
-                          $(this).valid();
-                        });
-                    }
-                });
-    });
-});
-</script>
-<script type="text/javascript">
-jQuery(function($) {
-	$(document).ready(function(){
-		
-												jQuery.validator.messages.required = "This field is required.";
-																jQuery.validator.messages.remote = "Please fix this field.";
-																jQuery.validator.messages.email = "Invalid email address format.";
-																jQuery.validator.messages.url = "Invalid URL.";
-																jQuery.validator.messages.date = "Invalid date format.";
-																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
-																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
-																jQuery.validator.messages.number = "Required numeric field.";
-																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
-																jQuery.validator.messages.digits = "Required integer field.";
-																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
-																jQuery.validator.messages.equalTo = "Please enter the same value again.";
-																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
-																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
-																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
-																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
-																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
-																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
-																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
-									
-		
-		function fireEvent(obj, evt) {
-            var fireOnThis = obj;
-            if (document.createEvent) {
-              var evObj = document.createEvent('MouseEvents');
-                evObj.initEvent(evt, true, false);
-                fireOnThis.dispatchEvent(evObj);
-            } else if (document.createEventObject) {
-                fireOnThis.fireEvent('on'+evt);
-            }
-        }
-		
-		//valid obj isntantiated in header.tpl
-                valid_obj.search_form = {
-				debug: false,
-				onKeyUp: true,
-                onfocusout: false,
-				errorElement: "span",
-				errorClass: "errForm",
-				submitHandler: function(form) {
-					// do other stuff for a valid form
-					if ($("#search_form").valid()) {
-						form.submit();
-					}
-				},
-				
-				"rules": {search: {"required":true}}, "messages": {}
-		};
-
-        $("#search_form").validate(valid_obj.search_form);
-
-                var selects = $("#search_form").find("select");
-                var crt;
-                $.each(selects, function() {
-                    crt = this.id;
-                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
-                        $("#"+crt).change(function() {
-                          $(this).valid();
-                        });
-                    }
-                });
-    });
-});
-</script>
 <div id="topwrapper">
 <div id="top">
 <form method="post" action="/login.php" onsubmit="ajaxFunction();">
@@ -297,8 +161,8 @@ var view2 = 0;
 <div style="clear: both;"></div>
 <div class="sidecateg">
 <ul class="boxStats">
-<li><strong>Active Links:</strong> 18083</li>
-<li><strong>Pending Links:</strong> 5486</li>
+<li><strong>Active Links:</strong> 18750</li>
+<li><strong>Pending Links:</strong> 9394</li>
 <li><strong>Total Categories:</strong> 14</li>
 <li><strong>Sub Categories:</strong> 647</li>
 </ul>
@@ -423,4 +287,4 @@ google_color_url = "008000";
 </ul>
 </div>		</li>
 </ul>
-</div><div class="clear"></div></div></div></div><div id="footerwrapper"><div id="footer"><div id="footercontent">© 2011 <a href="http://www.phplinkdirectory.com" title="PHP Link Directory">PHP Link Directory</a>&nbsp;All rights reserved. <a href="http://www.babycarriages.com.au" title=" directory">Baby Carseats</a> Your Website Here<br></div></div></div>&nbsp;</body></html>
+</div><div class="clear"></div></div></div></div><div id="footerwrapper"><div id="footer"><div id="footercontent">© 2011 <a href="http://www.phplinkdirectory.com" title="PHP Link Directory">PHP Link Directory</a>&nbsp;All rights reserved. <a href="http://interwebsolutions.com.au/web-design-melbourne/" title="web design melbourne">web design Melbourne</a> <a href="http://www.ibuywesell.com.au" title="Free online Classifieds">Free Online Classifieds</a> <strong>Your Website Here</strong> <br></div></div></div>&nbsp;</body></html>
