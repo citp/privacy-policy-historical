@@ -1,123 +1,82 @@
-> *The following text is extracted and transformed from the mixonline.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205214528id_/http%3A//www.penton.com/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixonline.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211063739id_/http%3A//www.nbmedia.com/content/company_information/Privacy_Policy.php) for the most accurate reproduction.*
 
-# Privacy Statement - Penton Media, Inc.
+# NewBay Media
 
-### 
+Last Updated: January 11, 2011
 
-Penton Media, Inc. considers your privacy important. We are committed to protecting the privacy of all those who provide us with their contact information while using our information, products, events, or services. This policy describes the ways that personally identifiable and anonymous information about our publication subscribers, online media product users, and event registrants is collected, how that information might be shared, and how someone can request changes to the way their personal information is used or shared.
+NewBay Media LLC (“NewBay”) has implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this site. This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner.
 
-This privacy statement applies to websites operated by or on behalf of Penton Media, Inc. and its subsidiaries, affiliates, divisions and related companies (“Penton”).  
- 
+### Overview
 
-**Information You Volunteer**
+This Privacy Policy is intended to provide you with information as to: (i) the type of information that is collected, (ii) how collected information is used and with whom it is shared; (ii) how we intend to protect the information; and (iii) how you can access, modify and/or delete such information.
 
-Personally identifiable information is information that can identify you, such as your full name, email address, postal address, telephone number, and fax number.
+### California Privacy Rights
 
-We collect personally identifiable information that you choose to provide to us when you subscribe to our magazines (either directly or through another company such as a subscription agency); sign up for email newsletters; enter a contest; participate in surveys; register for a web site, webcast, or tradeshow; or otherwise communicate with us. When you provide this information to us, you are no longer anonymous. 
+Under California law, California residents who have provided personal information to a company may have the right to request a list of all third parties to whom that company had disclosed such information for the third parties’ direct marketing purposes during the preceding calendar year, along with a list of the categories of personal information that had been so disclosed. However if a company adopts and discloses a privacy policy that provides the ability to opt-out of such disclosures to third parties for the third parties’ direct marketing purposes, then the company is not required to maintain and provide such lists, and instead may provide you with information on how to exercise your right to prevent disclosure of your personal information. Because the NewBay policy as disclosed on this site provides you with an opportunity to opt-out of disclosures by NewBay of your Personal Consumer Information to third parties for their direct marketing purposes, NewBay does not have to provide you with such lists. If you are a California resident who would like information on how to exercise your rights concerning third party disclosures, you may send an email to [CaliforniaPrivacyInfo@NBmedia.com](mailto:CaliforniaPrivacyInfo@NBmedia.com) or contact us via postal mail at:
 
-We also may receive information about you from other sources and add it to the information you have provided to us.
+California Privacy Rights Information  
+NewBay Media LLC  
+28 East 28th Street, 12th floor  
+New York, New York 10016  
+Attn: California Privacy Rights Administrator
 
-If you purchase products or services on our website or through one of our printed forms, you may choose to provide us with your credit card information.
+### Collection of Information
 
-Penton is not responsible for the information you volunteer about yourself in discussions in our forums or in publicly accessible interactions, or the information that you choose to make public in your member profile. To view or change your member profile, please return to the Penton business site where you registered.  
- 
+Information You Provide to Us: NewBay collects information about you when you visit and/or purchase products from this website. Some of this information is automatically collected, and some is collected when you interact with the site. The type of information that is automatically collected can include date and time of access of the site, the Internet protocol address of the computer that you are using, the domain and host from which you access the Internet, your browser software and operating system, and the specific activities you are engaged in while visiting the Site.. Information from which you can be personally identified may also be collected by NewBay at the site, including your name, postal address, e-mail address (referred to as “Personal Consumer Information”). Of course, you may choose not to provide certain information to NewBay, but if so, you may not be able to participate in certain NewBay activities and transactions.
 
-**Anonymous Information We Collect**
+Use of “Cookies” and Other Technologies: NewBay may use “cookies” and/or other technologies or files (collectively, “cookies”) to identify how its visitors make use of this site. This aggregate tracking information is used to help NewBay improve and enhance the website experience for all of its visitors. If you would prefer not to have such cookies stored on your computer, you may modify your browser settings to reject most cookies, or manually remove cookies that have been placed on your computer. However, by so rejecting the cookies, you may be unable to fully access the offerings on this site.
 
-We use cookies and other Internet technologies to enrich your online experience by managing our website and email programs. Our cookies do not contain any information, in itself, that is personally identifiable.  
- 
+E-mail Communication: When you communicate with NewBay electronically, via e-mail or otherwise, you consent to NewBay’s use of the information you have provided, and you further consent to receive electronic communications from NewBay. If you would prefer not to receive such communications, please e-mail [Privacycoordinator@NBmedia.com](mailto:Privacycoordinator@NBmedia.com) and so advise.
 
-**Cookies**
+### Security of Information
 
-If your browser is set to allow cookies, we may store small amounts of information on your computer about what parts of our websites you have visited and what features you like best. We may then tailor the content you see to match your interests. We also may use cookies to identify members so that they don't have to re-enter their usernames and passwords. Cookies may also be used to limit the number of advertisements you see while on our site. By allowing us to understand how you use our site over time, cookies can help us provide you with a better, more relevant online experience.
+NewBay maintains reasonable standards of confidentiality and security for this site and the Personal Consumer Information collected from this site. The Personal Consumer Information you provide is secured using industry standard e-commerce security technology. NewBay also restricts its own employees’ access to Personal Consumer Information. However, it is possible that someone may intercept or access communications, transmissions and/or Personal Consumer Information. You must also seek to protect against unauthorized access to any passwords and/or accounts that you use in connection with this website, and you should remember to log off of the website once you have completed your activities on the site or if you have decided to step away from your computer. In the event that NewBay determines that there has been a security breach resulting the unauthorized disclosure of Personal Consumer Information to a third party, NewBay will notify consumers whose Personal Consumer Information has been so disclosed by posting such information on the site and, if email contact is possible, then we would send an email advising of the status.
 
-The cookies we store on your computer are not accessible on any other companies' websites.  
-Some ads on our site are provided by outside companies. If these ads contain cookies, they can be accessed only by those advertisers; we do not have access to them.  
-Most browsers allow you to modify your security to accept or reject cookies. You need not have cookies turned on to visit our sites, but without them, your access to some areas may be limited and custom navigation may not be available to you.  
- 
+### Use and Sharing of Information
 
-**Pixel Tags**
+Use of Personal Consumer Information by NewBay
 
-Like many websites, Penton’s sites may use pixel tags, also known as web beacons, clear gifs, or web bugs. Pixel tags help us improve our understanding of our web traffic and visitor behavior, as well as gauge the response to our promotional efforts. This information is non-personally identifiable and is used for an aggregate picture of how visitors use our site.
+The Personal Consumer Information collected by NewBay may be used by NewBay for any lawful purpose, including to communicate with you, respond to your requests, and analyze and improve NewBay’s websites, its business and/or its service to you. NewBay may use this information to send you e-mail newsletters, promotional offers with respect to goods or services of a particular brand or other types of communications on behalf of NewBay and/or its affiliates. All e-mail newsletters and promotional offers will provide you with an opportunity to opt out of receiving future issues of such newsletters or to opt out of receiving future promotional offers with respect to such brand. NewBay may also use your Personal Consumer Information to send you e-mails or other communications on behalf of third parties. All such communications will provide you with the opportunity to opt out of receiving future third party offers from NewBay. You may also, at any time, opt-out of receiving any third-party offers from this site by sending an e-mail to [Privacycoordinator@NBmedia.com](mailto:Privacycoordinator@NBmedia.com).
 
-If you wish, you may disable pixel tags by setting your browser to omit images and disable Javascript.  
- 
+### Disclosure by NewBay of Personal Consumer Information to Other Entities
 
-**Online Ad Serving**
+Without restriction, NewBay may disclose aggregated statistics about visitors to its site, along with specific information concerning individual visitors of its site that is not Personal Consumer Information, provided that no specific individual can be identified by the information so disclosed. NewBay may sometimes seek to share the Personal Consumer Information it has collected with a third party, and may also sometimes seek to share such Personal Consumer Information with companies that are affiliated with NewBay. NewBay may sometimes use a third party, located either within or outside the United States, to provide certain services on its behalf, such as processing transactions, sending e-mails or performing statistical analyses of activity on this website. In the event that NewBay provides certain of your Personal Consumer Information to any such entity, NewBay will require that any such entity maintain the confidentiality of (and not further share) the Personal Consumer Information that NewBay has provided to it. NewBay may sometimes share Personal Consumer Information with sponsors of Promotions on the NewBay site, or with or with sponsors or advertisers of “premium” content. NewBay will always disclose when you are registering for such a Promotion or requesting such content. NewBay will not provide Personal Consumer Information to any third party for such party’s direct marketing purposes without first providing you with an opportunity to opt-out of such disclosures.
 
-We use industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies, pixel tags, and other methods to collect information (typically not including your name, address, email address or telephone number) about your visits to our and other web sites to provide you with relevant advertisements about products, services, and events during your visit to our website. They can also provide us with aggregate pictures of traffic patterns, help us improve site experience, help advertisers better understand our services, and monitor advertising efforts. You can learn how to opt out of third-party advertisers' tracking methods in conjunction with links, online ads, etc. by visiting the advertisers' sites.  
- 
+Acquisition of Business
 
-**How We Use Your Contact Information**
+In the event that NewBay is involved in a merger, acquisition, consolidation, restructuring, reorganization, liquidation, sale or similar transaction relating to any portion of its business and/or assets, you hereby acknowledge and agree that the Personal Consumer Information relating to visitors of this site that NewBay has collected may be included in the assets, and/or transferred pursuant to, such transaction. If that occurs, NewBay will post a notice to such effect on this website.
 
-We may use your contact information for any of the following reasons:
+Legal Process
 
-  * To send you notices for subscription renewal. 
-  * To provide you with information about products or services you've ordered, including web events and tradeshows. 
+NewBay may disclose your Personal Consumer Information if it has a reasonable good faith basis to believe that it is required to do so by law, compelled by court order or legal process, or is reasonably necessary and/or appropriate to: (i) protect the rights, property and/or safety of NewBay or any other person or entity; or (ii) prevent or take action concerning any alleged: (a) illegal activity or (b) breach of the Terms and Conditions or Privacy Policy of this website.
 
+### Accessing Your Information
 
+You may update and/or correct the Personal Consumer Information collected on the site, or seek to have such information deleted from NewBays records, by logging on to register at this site and following the instructions found therein.
 
-We may also use your contact information to ask for your input to help in our research about our services, events, or products or to provide you with additional information about this site and about other Penton Media products, services, or events that we think might be of interest to you.
+### Linked Sites
 
-All promotional and research email messages you receive from us will include an option to opt out of future email communications from that particular Penton business.
+From time to time, the NewBay website may contain links to other websites that are not controlled and/or maintained by NewBay. Please be aware that these other websites may have different privacy policies which may subject you to different privacy practices. Please review the privacy policies of such other websites for information concerning what information is collected on such sites and how it is used.
 
-We may also send you e-newsletters with targeted, relevant content. Each e-newsletter will provide you with an opportunity to opt out of that particular e-newsletter.
+### Changes in Policy
 
-In some cases, we may send you relevant, carefully-screened offers from reputable third party businesses or organizations. Many of our customers appreciate receiving these offers because they relate to their business or occupation. However, you will always be able to opt out of receiving future third party offers.  
- 
+From time to time, NewBay’s Privacy Policy may change. NewBay will post changes to the Privacy Policy at this site. Please review this Privacy Policy often so that you will remain abreast of NewBay’s current policies, including its policies concerning the gathering and use of information that may be collected on our site.
 
-**Information We Share with Third Parties**
+This Privacy Policy was last updated on January 11, 2011 and is effective immediately.
 
-We provide contact lists to third party companies that we have employed to provide us with specialized services, including customer service, subscription fulfillment, research, statistical analysis, list cleansing, postal mailings, email and fax deployment, telemarketing, and other information services. In compliance with privacy laws, we also provide our opt out lists to those third party companies so that they can be suppressed from the communications those companies send on Penton's behalf. We only deal with third party companies whom we believe share our commitment to privacy and who will keep your information secure.
+### Contact Us
 
-From time to time our sponsors wish to contact our subscribers who have indicated an interest in the products, services or events provided by such sponsors. If you opt-in to permit us to share your personally identifiable information with any sponsors or third parties, then you may receive communications directly from such sponsors or third parties. In addition, we may share your personally identifiable information with sponsors who appear in a particular e-newsletter of ours if you click on their link in the e-newsletter. 
+If you have any questions concerning this Privacy Policy other than with respect to California Privacy rights, please contact us at:
 
-If you do NOT wish to have your email address shared with that e-newsletter's sponsors, you will be given an opportunity within the e-newsletter to opt-out or you may contact our customer service department at the number/email listed below.
+NewBay Media LLC  
+28 East 28th Street, 12th floor  
+New York, New York 10016  
+Attn: Privacy Coordinator  
+[Privacycoordinator@NBMedia.com](mailto:Privacycoordinator@NBMedia.com) 
 
-If you provide information on a co-branded site or while using a co-branded service, you grant us permission to share the information you have provided with that service or site partner. Their use of your information is subject to their privacy policies.
+### Governing Law
 
-Certain information, such as your password and credit card information, is never disclosed in any form whatsoever to any outside party.  
+This Privacy Policy shall be governed by the laws of the State of New York, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this site shall be submitted to binding arbitration in New York within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.
 
+TM and Copyright 2011 NewBay Media LLC. All rights reserved.    
 
-**Content Quality Control**
-
-Penton uses a third-party to monitor user-generated content posted on our websites. When you submit a comment on a Penton website, our third party service provider, Mollom BVBA (“Mollom”), may collect, analyze, and store information about you and the content you submit for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at http://mollom.com/web-service-privacy-policy.  
-
-
-**Information Transfer**
-
-Penton is based in the United States of America. Any information you provide may be stored and maintained in a secure database in the United States or transferred to a secure database outside the United States.
-
-In the case of a change of ownership or a merger involving Penton or any business that is part of Penton, your contact information associated with that business would be one of those transferred assets.   
- 
-
-**How We Keep Your Information Secure**
-
-We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to protect personal information from loss, misuse, or alteration.
-
-When we contract with other companies to provide us with services, we only share personal information with those that we believe share our commitment to privacy and information security. However, we are not responsible for any breach of security or for the actions of these parties.
-
-Due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.  
- 
-
-**Children's Privacy**
-
-Penton's web sites are not intended for use by children, especially those under the age of 13. No one under the age of 13 should provide any personal information or participate in any forums, chats, or online discussions. Minors under the age of 18 are prohibited from making purchases, including subscriptions, on our sites. Please discourage your children from providing any personal information about themselves to anyone in any public discussion areas.  
- 
-
-**Terms of Use**
-
-By using any of our websites, you consent to our use of your contact information as it is outlined in this privacy statement.
-
-Penton reserves the right to access and disclose personally identifiable information to comply with applicable laws, lawful government requests and court orders, or to investigate alleged fraud or violations of the Terms of Use of Penton’s websites.
-
-If we decide to change our privacy statement, we will post the changes on this page. Users are encouraged to review this page for any changes. Your continued use of this site constitutes your acceptance of this entire privacy statement.  
- 
-
-**How to Reach Us**
-
-If you wish to update your print magazine subscription contact information, please go to the magazine's home page. If you wish to opt out of receiving email, faxes, or phone calls from any Penton business, please send an email to privacy@penton.com.
-
-If you wish to contact Penton's Corporate Privacy Manager, please send your specific questions to: [privacy@penton.com](http://privacy@penton.com/).
-
-Septermber 29, 2010
