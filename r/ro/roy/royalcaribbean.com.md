@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalcaribbean.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511144442id_/http%3A//www.royalcaribbean.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcaribbean.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211174110id_/http%3A//www.royalcaribbean.com/privacyPolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Royal Caribbean International
 
