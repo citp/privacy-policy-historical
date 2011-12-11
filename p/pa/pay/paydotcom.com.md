@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127213847id_/http%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211025252id_/http%3A//www.paydotcom.com/privacy.php) for the most accurate reproduction.*
 
 # Sell Products Online, Sell Online, Affiliate Marketplace, Sell Products Online With Paypal, Affiliate Marketing, Merchant Accounts, Free Product Listing, Digital Products, Affiliate Network, Promote Products, Sell eBooks Online, Sell Software Online, Sell Digital Products Online, Merchant Account, Affiliates, Sell Books Online, Start your homebased business today. Paydotcom.com
 
 | 
 
-[ ](https://web.archive.org/web/20101127213847id_/http%3A//paydotcom.com/widgetlp.php)  
+[ ](https://web.archive.org/web/20111211025252id_/http%3A//www.paydotcom.com/widgetlp.php)  
 
 
   
@@ -14,33 +14,9 @@ Sponsored Links
 |   
 ---  
   
-Free Quality Content Responsive Email Tutorials Videos For Results.  
+Make Money In Hours! Get Your Free Affiliate Website Today!  
   
-www.newresponsiveemailmarketing.com  
-  
-* * *  
-  
----  
-  
-Now You Can Let Your Customers View Your Home Study Course on an iPhone or iPad  
-  
-http://tgli.de/LQI   
-  
-* * *  
-  
----  
-  
-Now You Can Let Your Customers View Your Home Study Course on an iPhone or iPad  
-  
-http://tgli.de/LQI   
-  
-* * *  
-  
----  
-  
-*Proven Affiliate Tactics* - 32 Exclusive & Confidential Videos  
-  
-GetRichOnlineGuide.com  
+www.freesitesignup.com/a/coupon.php?id=35220  
   
 * * *  
   
@@ -50,7 +26,7 @@ PAYDOTCOM
 
 **PRIVACY POLICY**
 
-[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20101127213847id_/http%3A//paydotcom.com/terms.php)
+[For addition legal information, please see Our Terms page.](https://web.archive.org/web/20111211025252id_/http%3A//www.paydotcom.com/terms.php)
 
 **_Definitions_**
 
