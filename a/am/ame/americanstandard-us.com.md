@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanstandard-us.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406051712id_/http%3A//www.americanstandard-us.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanstandard-us.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211044520id_/http%3A//www.americanstandard-us.com/legal.aspx) for the most accurate reproduction.*
 
 # American Standard - Legal
 
@@ -66,6 +66,10 @@ American Standard sees the Internet, intranets and the use of other technologies
 
 American Standard may also collect anonymous information concerning website users through the use of "cookies" in order to provide better customer service. "Cookies" are small files that websites place on users' computers to identify the user and enhance the website experience. None of this information is reviewed at an individual level. Visitors may set their browsers to provide notice before they receive a cookie, giving the opportunity to decide whether to accept the cookie. Visitors can also set their browsers to turn off cookies. If visitors do so, however, some areas of American Standard websites may not function properly. 
 
+American Standard uses one or more companies to place advertisements for our products and services and those of third parties on our Site and third-party sites. Cookies and other technologies such as Web beacons or tags are used to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on our site, as well as on third-party sites where you may visit. To support this interest based advertising solution, we, and companies who we have contracted with, may use anonymous information about your visits to our and other Web sites. The information collected and used by this process is always anonymous, and does not enable any third-party to identify you individually. 
+
+Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, if you would prefer not to participate in the services offered through these solutions, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
+
 Few, if any, of American Standard's websites are directed toward children. Nevertheless, American Standard is committed to complying with applicable laws and requirements, such as the United States' Children's Online Privacy Protection Act ("COPPA"). American Standard website users have the option to request that American Standard not use information previously provided, correct information previously provided, or remove information previously provided to American Standard. Those that would like to correct or suppress information they have provided to American Standard should forward such inquiries to: 
 
 AS America, Inc. Privacy Inquiries  
@@ -106,7 +110,7 @@ Items returned without authorization will be disposed of without credit being is
 Damaged or missing parts must be claimed within 7 days of receiving your product in order to ensure proper credit. Report your claim for lost items within 15 days from the order date in order to ensure proper credit. Please call **(800) 488-8049** to report your claims. 
 
 **WARRANTY:**   
-For American Standard Warranty information, please [click here.](https://web.archive.org/customerservice/warranty/RepairParts1Year.aspx)
+For American Standard Warranty information, please [click here.](http://www.americanstandard-us.com/customerservice/warranty/RepairParts1Year.aspx)
 
 **VIII. MOBILE APPLICATION PRIVACY**
 
