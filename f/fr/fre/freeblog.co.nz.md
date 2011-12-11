@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeblog.co.nz privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625123316id_/http%3A//freeblog.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeblog.co.nz privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211052011id_/http%3A//freeblog.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free blog Get yours Now
 
