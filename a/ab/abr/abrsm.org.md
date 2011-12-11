@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515144226id_/http%3A//www.abrsm.org/help/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211133705id_/http%3A//www.abrsm.org/help/privacyPolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy : ABRSM.org - Help
+# ABRSM: PrivacyPolicy
 
 **ABRSM  is fully committed to respecting your privacy and to protecting any personal information you provide to us. We make every effort to ensure that all information that you provide to us is protected.**
 
@@ -48,17 +48,17 @@ Applicants from the UK, Singapore and Malaysia have the option of entering exam 
 
 We also request financial information from online applicants (such as credit card number and expiry date). This information is used to process payments for examination entries. The online entry form is held on a secure HTTPS site (demonstrated by the padlock logo visible)
 
-**Payment via the online form for UK applicants** is processed via the Logic Groups’s SolveSE program and paid to ABRSM via Barclays Merchant Services. In accordance with the Payment Card Industries Data Security Standards (PCI DSS), truncated card details (first & last four digits) are temporarily stored on the The Logic Group’s server but no card details are stored on the ABRSM server.
+ **Payment via the online form for UK applicants** is processed via the Logic Groups’s SolveSE program and paid to ABRSM via Barclays Merchant Services. In accordance with the Payment Card Industries Data Security Standards (PCI DSS), truncated card details (first & last four digits) are temporarily stored on the The Logic Group’s server but no card details are stored on the ABRSM server.
 
-**Payment via the online form for Malaysia applicants** is processed via the HSBC/GlobalPay payment gateway and paid to our local representative Lembaga Peperiksaan. No card details are stored on either the ABRSM or the HSBC/GlobalPay server. Our systems and procedures are fully compliant with the new Payment Card Industries Data Security Standards (PCI DSS).
+ **Payment via the online form for Malaysia applicants** is processed via the HSBC/GlobalPay payment gateway and paid to our local representative Lembaga Peperiksaan. No card details are stored on either the ABRSM or the HSBC/GlobalPay server. Our systems and procedures are fully compliant with the new Payment Card Industries Data Security Standards (PCI DSS).
 
-**Payment via the online form for Singapore applicants** is processed via the HSBC/GlobalPay payment gateway and paid to our local representative Singapore Symphonia Company Limited via DBS Bank Limited. No card details are stored on the ABRSM or HSBC/GlobalPay servers.
+ **Payment via the online form for Singapore applicants** is processed via the HSBC/GlobalPay payment gateway and paid to our local representative Singapore Symphonia Company Limited via DBS Bank Limited. No card details are stored on the ABRSM or HSBC/GlobalPay servers.
 
 All exam entries are stored on the ABRSM secure web server and transferred daily onto our AS400 system and then held in the same way as postal entries. All online information is held purely for the purpose of exam entries, and is retained on this secure server so that applicants can view their past entries.
 
 We use the contact information supplied by applicants to ensure that examination schedules, results and certificates are forwarded to the correct address. In the event of any problems or complications with exam entries, this information is also used to contact the applicant.  Finally this information is used to keep accurate records of applicant and candidate exam history, which allows us to provide a quicker and more effective service to our applicants.
 
-**Information regarding exam entries and candidates is strictly confidential and is not disclosed to external organisations.**
+ **Information regarding exam entries and candidates is strictly confidential and is not disclosed to external organisations.**
 
 ### Job applications
 
@@ -95,9 +95,6 @@ Once visitors to [www.abrsm.org](http://www.abrsm.org/) have selected their coun
 
 If you are concerned about cookies, you can disable them in your browser.  If you do this however, please note that you will have to manually reset your country preferences on each return visit to our website. (See _"Profile"_ above)
 
-  * 
-
-
 ### Log files
 
 Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
@@ -126,7 +123,7 @@ All users are given the opportunity to opt out of having their information used 
 
 Please refer to the Choice/opt-out section for further details. 
 
-**Information regarding exam entries and candidates is strictly confidential and is never passed on to third parties.**
+ **Information regarding exam entries and candidates is strictly confidential and is never passed on to third parties.**
 
 ## Legal disclaimer
 
@@ -160,7 +157,7 @@ When our online examination entry form asks users to enter sensitive information
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. Personal information given by users beyond their name and address is restricted in our offices and made available only to the appropriate departments. All employees are provided with a unique username and password in order to gain access to this information. Finally, the servers that store personally identifiable information are password protected and held in a secure environment, in a locked facility. Regular back ups are made of this data, and these are stored off site.
 
-If you have any questions about the security on the ABRSM website, please send [an email to the ABRSM IT department](http://www.abrsm.org/\(?page=process/contactform.html&id=4135&contact=dGhlIEFCUlNNIElUIERlcGFydG1lbnQ).
+If you have any questions about the security on the ABRSM website, please send [an email to the ABRSM IT department](about:\({E,online@abrsm.ac.uk,the ABRSM IT Department}).
 
 ## Correcting/updating/deleting/deactivating personal information
 
@@ -168,7 +165,7 @@ If a user’s personally identifiable information changes (such as post or zip 
 
 Alternatively, you can contact us by telephone at +44 20 7636 5400 or post at:
 
-**Marketing Department  
+ **Marketing Department  
 ABRSM  
 24 Portland Place  
 London W1B 1LU  
@@ -187,7 +184,7 @@ If, however, we are going to use users’ personally identifiable information in
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-**Marketing  Department  
+ **Marketing  Department  
 ABRSM  
 24 Portland Place  
 London W1B 1LU  
