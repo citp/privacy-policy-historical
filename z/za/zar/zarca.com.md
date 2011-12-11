@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515210613id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211182527id_/http%3A//www.zarca.com/online-survey-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](http://www.zarca.com/)
+[](http://www.zarca.com/)
 
 Zarca is an application service provider that provides you, our customer, tools to conduct two-way communications with your customers, employees, suppliers and constituents. Like the postal service, we understand that the Information we deliver belongs to you and your survey participants, not us. At Zarca, it is a core business principle that we must protect the privacy of our customers and survey participants or we will not have either. With this principle in mind, Zarca created this privacy policy to demonstrate our commitment to your privacy. 
 
