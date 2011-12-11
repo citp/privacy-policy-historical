@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114022809id_/http%3A//www.vayama.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211010824id_/http%3A//www.vayama.com/aboutus/privacy) for the most accurate reproduction.*
 
 # vayama | privacy
 
-We have created this Privacy Policy to demonstrate our firm commitment to your privacy and security. Vayama ("vayama") pledges to protect you with our Privacy Policy which defines our policies on the collection, use and protection of personal information of vayama users. We encourage you to read this Privacy Policy carefully. This Privacy Policy is effective October 2, 2007 and vayama may update this Privacy Policy from time to time. If we decide to make any material changes to this Policy we will notify you by placing a prominent notice on our website. By using our website or by submitting any personal information to us, you agree that vayama may collect, use and disclose your personal information in accordance with this Privacy Policy and as permitted or required by law
+We have created this Privacy Policy to demonstrate our firm commitment to your privacy and security. Vayama ("Vayama") pledges to protect you with our Privacy Policy which defines our policies on the collection, use and protection of personal information of Vayama users. We encourage you to read this Privacy Policy carefully. This Privacy Policy is effective October 2, 2007 and Vayama may update this Privacy Policy from time to time. If we decide to make any material changes to this Policy we will notify you by placing a prominent notice on our website. By using our website or by submitting any personal information to us, you agree that Vayama may collect, use and disclose your personal information in accordance with this Privacy Policy and as permitted or required by law
 
-AirTrade International, Inc. is a licensee of the **TRUSTe** Privacy Program. **TRUSTe** is an independent, non-profit organization whose mission is to build users? trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.vayama.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by **TRUSTe**.
+AirTrade International, Inc. is a licensee of the **TRUSTe** Privacy Program. **TRUSTe** is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.vayama.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by **TRUSTe**.
 
-If you have questions or concerns regarding this statement, you should first contact Ellen Joosten at [ellenj@vayama.com.](mailto:ellenj@vayama.com) If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact **TRUSTe** at [www.Truste.org](http://www.truste.org/consumers/watchdog_complaint.php) **TRUSTe** will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Kimberly Pointer at [privacy@vayama.com.](mailto:privacy@vayama.com) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact **TRUSTe** at [www.Truste.org](http://www.truste.org/consumers/watchdog_complaint.php) **TRUSTe** will then serve as a liaison with us to resolve your concerns.
 
 ## What kind of information we collect from you:
 
@@ -15,7 +15,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 ### (a) when you are visiting our website
 
-When you are browsing our website, you are not required to provide any personal information unless and until you choose to create an account with vayama, make a purchase or sign up for one of our other services.
+When you are browsing our website, you are not required to provide any personal information unless and until you choose to create an account with Vayama, make a purchase or sign up for one of our other services.
 
 We use a variety of technologies including session data, cookies, log files, and web beacons to better understand how our website is navigated, how many visitors click on certain pages, how long and how frequently visitors visit our website, the types of searches that occur, the browsers and computer operating systems used by our visitors and the Internet Protocol addresses from which visitors connect to our website. Information specifically about you, called "Personally identifiable information" or "PII" is not captured and retained when capturing data about our website.
 
@@ -31,15 +31,15 @@ We and our third-party tracking service partners employ a software technology ca
 
 We may also use Web beacon in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out." 
 
-### (b) when you are opening a vayama account
+### (b) when you are opening a Vayama account
 
-If you choose to create an account with vayama, you must provide your name, address, telephone number, email address, a unique login name, password, and a password hint to help you remember your password. This information is collected on the account sign-up form for several reasons including: personal identification; to complete airline and other reservations; to allow us to contact you for customer care needs; to customize the content of our website to meet your specific needs; and to make product improvements to our website.
+If you choose to create an account with Vayama, you must provide your name, address, telephone number, email address, a unique login name, password, and a password hint to help you remember your password. This information is collected on the account sign-up form for several reasons including: personal identification; to complete airline and other reservations; to allow us to contact you for customer care needs; to customize the content of our website to meet your specific needs; and to make product improvements to our website.
 
-When you visit vayama, we may assign your computer a "cookie" (a small, unique identifier text file) to help our site operate properly. For example, whenever you sign into your vayama account, we record your "username" in the cookie file on your computer. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie. Cookies used by vayama are not tied to PII. However, if you refuse to accept cookies from vayama, you might not be able to access many of the travel tools offered by us.
+When you visit Vayama, we may assign your computer a "cookie" (a small, unique identifier text file) to help our site operate properly. For example, whenever you sign into your Vayama account, we record your "username" in the cookie file on your computer. You can always choose not to receive a cookie file by enabling your web browser to refuse cookies or to prompt you before accepting a cookie. Cookies used by Vayama are not tied to PII. However, if you refuse to accept cookies from Vayama, you might not be able to access many of the travel tools offered by us.
 
 Some of our business partners (e.g., tracking utilities) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.vayama.com only and does not cover the use of cookies by any other parties.
 
-You are in charge of your vayama account, which means that you can terminate your account or change your account information at all times by following the next steps.
+You are in charge of your Vayama account, which means that you can terminate your account or change your account information at all times by following the next steps.
 
   * Go to the My Profile area in the My Account (link) area.
   * Select the area where you want to make a change or deletion.
@@ -47,15 +47,15 @@ You are in charge of your vayama account, which means that you can terminate you
 
 
 
-If for any reason you no longer wish to have a vayama account, please contact our customer service at 1.888.829.2621 or 1.650.265.1856 and request that your account be disabled. When disabled, you will not be able to log in your account, change or purchase travel with vayama.
+If for any reason you no longer wish to have a Vayama account, please contact our customer service at 1.650.265.1856 and request that your account be disabled. When disabled, you will not be able to log in your account, change or purchase travel with Vayama.
 
-### How vayama secures your information
+### How Vayama secures your information
 
-All personal information you provide to vayama is transmitted using SSL (secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt information being sent between you and our site. SSL is utilized in the vayama site in my account and when you are purchasing travel.
+All personal information you provide to Vayama is transmitted using SSL (secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt information being sent between you and our site. SSL is utilized in the Vayama site in my account and when you are purchasing travel.
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us at [feedback@vayama.com.](mailto:feedback@vayama.com)
+If you have any questions about security on our Web site, you can email us at [privacy@vayama.com.](mailto:privacy@vayama.com)
 
 ### (c) when you are purchasing products
 
@@ -63,11 +63,11 @@ In order to purchase travel and related services and products through our websit
 
 If you are making a reservation for one or more travelers other than yourself, you will need to make sure that each of these other travelers agrees in advance and that you may disclose their personal information to us.
 
-### (d) when signing up for emails from vayama
+### (d) when signing up for emails from Vayama
 
-Vayama possesses a number of opportunities for you to sign up to receive emails about special offers or pricing available through our site. You will need to provide an email address to us to receive these offers. However, you may choose at any time to no longer receive these types of e-mail messages by changing your communications preferences in the my accounts section of vayama. Here you will find the email address that you have registered and any email distribution lists that you have signed up for. At any time you may remove or change your email address and edit your email distribution list preferences.
+Vayama possesses a number of opportunities for you to sign up to receive emails about special offers or pricing available through our site. You will need to provide an email address to us to receive these offers. However, you may choose at any time to no longer receive these types of e-mail messages by changing your communications preferences in the my accounts section of Vayama. Here you will find the email address that you have registered and any email distribution lists that you have signed up for. At any time you may remove or change your email address and edit your email distribution list preferences.
 
-We will not share, rent or sell any email addresses provided by you to vayama.
+We will not share, rent or sell any email addresses provided by you to Vayama.
 
 ## If you do NOT want to provide your information:
 
