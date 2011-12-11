@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wmpoweruser.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210091730id_/http%3A//wmpoweruser.com/%3Fp%3D5952) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmpoweruser.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211070409id_/http%3A//wmpoweruser.com/wmpoweruser-com-privacy-policy) for the most accurate reproduction.*
 
-# WMPoweruser.com Privacy Policy
+# WMPoweruser.com Privacy Policy | WMPoweruser
 
 ****Information about our Organisation and Web site****
 
@@ -108,9 +108,11 @@ We reserve the right to refuse to provide our visitors with a copy of their pers
 
 We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
 
+[0](http://wmpoweruser.com/wmpoweruser-com-privacy-policy/)
+
 #### About Surur 
 
-Site Admin and Windows Mobile enthusiast, he has been using Windows Mobile devices since before they were called PocketPC’s. He is currently sporting a HTC 7 Trophy.
+Site Admin and Windows Phone enthusiast, he has been using Windows Mobile devices since before they were called PocketPC’s. He is currently sporting a HTC 7 Trophy.
 
   * [   Blog](http://wmpoweruser.com/ "Read Surur’s blog")
   * [   Twitter](http://twitter.com/wmpoweruser "Follow Surur on Twitter")
