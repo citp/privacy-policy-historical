@@ -1,66 +1,86 @@
-> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615031922id_/http%3A//www2.barclaycard.co.uk/Customer_Service/About_Us/TandC/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211073433id_/http%3A//www.barclaycard.co.uk/personal/privacy-policy) for the most accurate reproduction.*
 
-# Barclaycard: Privacy Policy
+# Privacy Policy | Barclaycard
 
-Please read our Privacy Policy carefully before using this website (“the Site”). In this Policy “we”, “us” and “our” means Barclays Bank PLC and “you” means the individual who is using the Site.
+Please read our privacy policy carefully before using this website ("the Site"). In this policy "we", "us", "our" and “ours” means Barclays Bank PLC and "you" means the person using the Site.
 
-## 
+## How we collect information about you
 
-We collect personal and financial information which we obtain from you or from any third parties when you apply for a card or any other product or service or which you or they give us from time to time.
+We collect personal and financial information from you or third parties every time you apply for a card or any other product. We also collect information about you when you register to use the services we offer on this Site, or when you contact us. We may also gather information using cookies.
 
-We will also collect information about you when you register to use the services provided on this Site or when you contact us. We may also collect information through the use of cookies.
+## Sharing your information with others
 
-Nielsen Net Ratings, an independent measurement and research company, gathers non-personal data regarding the visitors to our site on our behalf. They use cookies and code which are embedded in our site. These provide us with non-personal statistical information such as which web pages visitors look at, how long they stay on our site for, and other general information.
+We may need to pass on your information to people who provide a service to us, with the understanding that they keep your information confidential, and to anyone to whom we may transfer our rights and duties. We may also disclose your information if we're required to do so by law.
 
-[Read more information on what cookies are, and how to change your cookie settings.](https://web.archive.org/Customer_Service/Help/TandC/Privacy_Policy/Cookies/)
+If we transfer your information to a service provider in another country, we'll make sure they agree to apply the same levels of protection that we adhere to in the UK. They will only use your information for the purpose of providing the service to us.
 
-## 
+## How long we keep your personal information on file
 
-We will store and process your information on the Barclays Group computers and in any other way. By "your information" we mean personal and financial information we (a) obtain from you or from third parties, such as credit reference agencies ( who may search the Electoral Register), fraud prevention agencies or other organisations when you apply for an account or any other product or service for which you or they give to us at any other time or (b) learn from the way you use and manage your account(s), from the transactions you make such as the date, amount, currency and the name and type of supplier (eg supermarket services, medical services, retail services) and from the payments which are made to your account.
+We won't keep your information for longer than necessary and will take steps to ensure that it's kept up to date. You have a right, under the Data Protection Act 1998, to ask what information we hold about you.
 
-We and other companies in the Barclays Group will use your information to manage your account(s), give you statements and provide our services, for assessment and analysis (including credit and/or behaviour scoring, market and product analysis), and to develop and improve our services to you and other customers and protect our interests.
+You can do this by writing to us at:   
+Barclaycard  
+1234 Pavilion Drive  
+Northampton  
+NN4 7SG  
+United Kingdom
 
-We and other members of the Barclays Group will use your information to inform you by letter, telephone (including automated dialling, digital television and sending text messages), or computer about products and services (including those of others) which may be of interest to you.
+## Security
 
-We use credit reference agencies and fraud prevention agencies to:
+Please remember that any messages you send over the internet aren't secure unless they are encrypted. We’re not responsible for unauthorised access by a third party or the corruption of any information sent to us.
 
-  * make enquiries when you ask for any lending products, or to assist us in managing your account, for example if we wish to consider changing your credit limit, or offering you other products, now or in the future;
-  * share information:
-  * about you and how you manage your accounts;
-  * if you give us false or inaccurate information or we suspect fraud.
-  * Credit reference agencies keep a record of our enquiries and may record, use and give out information we give them to other lenders, insurers and other organisations. This also applies to fraud prevention agencies if you give us false or inaccurate information or we suspect fraud. The information may be used to make assessments for credit and to help make decisions on you and members of your household, on credit, motor, household, life, and other insurance facilities (including handling claims), for debt tracing and to prevent fraud and money laundering. Information held about you by the credit reference agencies may already be linked to records relating to one or more of your partners where a financial “association” has been created. Any enquiry we make at a credit reference agency may be assessed with reference to any “associated” records.
+So for your own security, please don't send us any personal or account information by standard email.
+
+Cookies are harmless text files which web servers store on your computer's hard drive when you visit a site. They allow the server to recognise you when you revisit the site, thus speeding up your experience.
+
+For example, they can remember your login details so that you don’t have to type them in every time you revisit a site. And since they don’t collect personal information about you from your computer, they are completely harmless.
+
+## New requirements on cookies
+
+With regards to the new requirements on Cookies following the revision of the e-Privacy Directive, Barclays is working towards implementing the new requirements in line with guidance from the Information Commissioner's Office.
+
+## Types of cookies
+
+Depending on their origins and ownership, all cookies can be first or third party cookies. First party cookies are owned and created by the website you're viewing. While third party cookies are owned and created by an independent company that may be providing a service to the website owners.
+
+There are two main types of cookies, transient and persistent, and we use both on our Site.
+
+  * **Transient (or per-session)**  
+These cookies exist only for the duration of your website visit and are deleted once you leave. They recognise you as you move between pages and record, for example, the items you add to an online shopping basket. They also help maintain security.
+  * **Persistent (or permanent)**  
+These cookies stay on your machine until expiry or deletion. Many of these cookies are built with automatic deletion dates so that your hard drive doesn't get overloaded. They often store and re-enter your log-in information, so you don't need to remember membership details.
 
 
 
-We may give information about you and how you manage your account to the following:
+## What we use cookies for
 
-  * People who provide a service to us or are acting as our agents, on the understanding that they will keep the information confidential.
-  * Anyone to whom we transfer or may transfer our rights and duties under this agreement.
+Many companies use cookies to help speed up your online experience. For instance, you save time when you don’t have to enter your login details every time you return to a site.
+
+We use first and third party cookies to:
+
+  * Keep your data secure when you use our online account services such as mybarclaycard. Cookies store information about your preferences to prevent unauthorised access to your account. Without cookies, we can’t ensure your data is secure, so you may not be able to use the service.
+  * Gather information about pages visited by people who are browsing our site.
+  * Temporarily store details entered into our calculators, tools, illustrations and demonstrations.
+  * Store details of marketing, product and other preferences in order to improve our targeting and ensure a better experience for customers who visit our sites.
+  * Evaluate the advertising and promotional effectiveness of our websites. We own the anonymous data that’s collected, and don't share it with anyone.
 
 
 
-We may also give out information about you if we have a duty to do so or if the law allows us to do so.
+We may also put your information into the Barclays Group customer systems and use it to:
 
-Otherwise we will keep information about you confidential.
+  * Supply and manage services we provide to you.
+  * Improve and develop the products we offer.
+  * Learn more about you so we can identify products and services that may be of interest to you.
+  * Tell you about our own and other companies' products and services which may interest you, by letter, phone, digital television or email. We’ll only let other companies in our group contact you if you've expressly agreed that they can do so.
 
-If we transfer your information to a service provider or agent in another country, we will make sure that the service provider or agent agrees to apply the same levels of protection as we are required to apply to information held in the UK and to use your information only for the purpose of providing the service to us.
 
-If you don't want us to tell you about other products and services please write to us at Dept MTRM, Northampton NN4 7SG and supply us with details of any products you have with us.
 
-## 
+## What we don’t use cookies for
 
-We may need to pass on your information to people who provide a service to us (although we only do this on the understanding that they keep your information confidential), and anyone to whom we may transfer our rights and duties. We may also disclose your information if we have a duty to do so or if the law allows us to.
+We don't use cookies to track websites you visit after you leave our sites or store personal information which other people could read. And we'll never sell or distribute cookie information without your prior consent.
 
-If we transfer your information to a service provider in another country, we will make sure that the service provider agrees to apply the same levels of protection as we are required to apply to information held in the UK and to use your information only for the purpose of providing the service to us.
+## Changing your cookie settings
 
-## 
+Cookies form a ‘trail’ of pages you’ve visited online, and won't damage your computer or collect personal information from it. However, if you’d like to stop receiving cookies from us and other sites, all you have to do is change your browser settings by following the manufacturer’s guidelines.
 
-We will not keep your information for longer than is necessary and will take steps to ensure that it is kept up to date. You have a right under the Data Protection Act 1998 to ask what information we hold about you. You can do this by writing to us at Barclaycard, 1234 Pavilion Drive, Northampton, NN4 7SG.
-
-## 
-
-Please remember that Internet communications are not secure unless the data being sent is encrypted. We cannot accept any responsibility for unauthorised access by a third party or the corruption of data sent to us.
-
-## 
-
-If you have any questions or comments about privacy issues, or have a complaint about how we are using your personal data, please contact one of the Barclaycard customer service numbers quoted on this site
+Just bear in mind that some of our online services can’t function without cookies, so your access may be restricted.
