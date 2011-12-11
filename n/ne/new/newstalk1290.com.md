@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstalk1290.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524213919id_/http%3A//newstalk1290.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstalk1290.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211110806id_/http%3A//newstalk1290.com/privacy) for the most accurate reproduction.*
 
 # Newstalk 1290 KWFS Radio - Wichita Falls Talk Radio
 
