@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instructables.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228161050id_/http%3A//www.instructables.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instructables.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211013117id_/http%3A//www.instructables.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Instructables - Privacy Policy
 
@@ -18,11 +18,17 @@ Certain visitors to Instructables' websites choose to interact with Instructable
 
 ### Aggregated Statistics
 
-Instructables may collect statistics about the behavior of visitors to its websites. For instance, Instructables may monitor the most popular projects on our site. Instructables may display this information publicly or provide it to others. However, Instructables does not disclose personally-identifying information other than as described below.
+nstructables may collect statistics about the behavior of visitors to its websites. For instance, Instructables may monitor the most popular projects on our site. Instructables may display this information publicly or provide it to others. However, Instructables does not disclose personally-identifying information other than as described below.
 
 ### Protection of Certain Personally-Identifying Information
 
-Instructables discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Instructables's behalf or to provide services available at Instructables' websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Instructables website, you consent to the transfer of such information to them. Instructables will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Instructables discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Instructables believes in good faith that disclosure is reasonably necessary to protect the property or rights of Instructables, third parties or the public at large. If you are a registered user of the Instructables website and have supplied your email address, Instructables may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Instructables and our products. We may also send you email when certain actions take place on our site (for example when another user sends you a private message, when someone leaves a comment for you, or when someone you subscribe to publishes or changes something); [you can change or opt out of these emails here](https://web.archive.org/you/watchlist?modify=WATCHLIST). If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Instructables takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Instructables discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Instructables' behalf or to provide services available at Instructables' websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Instructables website, you consent to the transfer of such information to them. 
+
+Instructables will not rent or sell potentially personally-identifying and personally-identifying information to anyone for their own direct marketing purposes without your consent. Other than to its employees, contractors and affiliated organizations, as described above, Instructables discloses potentially personally-identifying and personally-identifying information only when required to do so by law (such as in response to a subpoena, court order, or other governmental request), or when Instructables believes in good faith that disclosure is reasonably necessary to protect the property or rights of Instructables, third parties or the public at large. If you are a registered user of the Instructables website and have supplied your email address, Instructables may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Instructables and our products. We may also send you email when certain actions take place on our site (for example when another user sends you a private message, when someone leaves a comment for you, or when someone you subscribe to publishes or changes something); [you can change or opt out of these emails here](https://web.archive.org/you/watchlist?modify=WATCHLIST). If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Instructables takes measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+### Business Transfers
+
+If Instructables, or substantially all of its assets were acquired, or in the unlikely event that Instructables goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Instructables may continue to use your personal information as set forth in this policy.
 
 ### Cookies
 
@@ -34,7 +40,7 @@ Ads appearing on our website may be delivered to users by advertising partners, 
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Instructables may change its Privacy Policy from time to time, and in Instructables' sole discretion. Instructables encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Instructables may change its Privacy Policy from time to time, and in Instructables' sole discretion. Instructables encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 ### Contact Us
 
@@ -43,8 +49,10 @@ E-mail: info [at] instructables.com
 or
 
 Instructables Headquarters and Lab  
-82 2nd St.  
-San Francisco, CA 94105  
-USA
+One Market Street,   
+Second Floor  
+San Francisco, CA 94105
+
+USA 
 
 This privacy policy is shared under a Creative Commons Sharealike license.
