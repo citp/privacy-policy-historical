@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datpiff.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505033502id_/http%3A//www.datpiff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datpiff.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211060056id_/http%3A//www.datpiff.com/privacy) for the most accurate reproduction.*
 
 # DatPiff :: Privacy Policy
 
@@ -98,79 +98,3 @@ Please remember that when you use a link to go from our Web site to another Web 
 Your Consent
 
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-[](http://twitter.com/datpiffmixtapes "Follow @DatPiffMixtapes on Twitter")
-
-[](https://web.archive.org/redirect.php?caid=133 "North Skull")
-
-[](https://web.archive.org/mixtapes-upload.php "Upload Mixtapes")
-
-[](http://realtalkny.uproxx.com/2011/05/topic/topic/videos/video-consequence-speaks-on-his-falling-out-with-kanye-west/)
-
-MTV Shows Consequence speaks on his past relationship and falling out with Kanye West.
-
-[](http://realtalkny.uproxx.com/2011/05/topic/topic/music/tyler-the-creator-ft-frank-ocean-she/)
-
-Tyler, The Creator ft. Frank Ocean - She "She," is Tyler, The Creator's second single off of, "Goblin," which drops May 10th.
-
-[](http://realtalkny.uproxx.com/2011/05/topic/topic/videos/50-cent-discusses-slavery-with-a-delusional-older-white-woman/)
-
-VH1 TV Shows | Music Videos | Celebrity Photos | News & Gossip VH1 and 50 Cent's, "The Origin Of Me," premieres may 23rd, check below for more ...
-
-[](http://vibe.com/posts/nsfw-bobby-v-gets-down-yaris-sanchez-sweetness)
-
-[](http://vibe.com/video/new-video-boola-feat-nicole-wray-come-home)
-
-With Cut From A Different Cloth dropping in May, **Boola** presents the video for his song "Come Home With Me" featuring **Nico...**
-
- **
-
-[](http://realtalkny.uproxx.com/2011/05/topic/topic/videos/preview-beyonce-run-the-world-girls/)
-
-A preview of Beyonce's upcoming video for, "Run The World." Thoughts on the track?
-
-**
-
-**
-
-[eminem](https://web.archive.org/mixtapes-search?criteria=eminem&sort=rating), [wale](https://web.archive.org/mixtapes-search?criteria=wale&sort=rating), [j cole](https://web.archive.org/mixtapes-search?criteria=j%20cole&sort=rating), [kid cudi](https://web.archive.org/mixtapes-search?criteria=kid%20cudi&sort=rating), [lil boosie](https://web.archive.org/mixtapes-search?criteria=lil%20boosie&sort=rating), [fabolous](https://web.archive.org/mixtapes-search?criteria=fabolous&sort=rating), [wiz khalifa](https://web.archive.org/mixtapes-search?criteria=wiz%20khalifa&sort=rating), [trey songz](https://web.archive.org/mixtapes-search?criteria=trey%20songz&sort=rating), [big sean](https://web.archive.org/mixtapes-search?criteria=big%20sean&sort=rating), [curren$y](https://web.archive.org/mixtapes-search?criteria=curren$y&sort=rating), [gucci mane](https://web.archive.org/mixtapes-search?criteria=gucci%20mane&sort=rating), [instrumentals](https://web.archive.org/mixtapes-search?criteria=instrumentals&sort=rating), [lil wayne](https://web.archive.org/mixtapes-search?criteria=lil%20wayne&sort=rating), [tyga](https://web.archive.org/mixtapes-search?criteria=tyga&sort=rating), [tyler the creator](https://web.archive.org/mixtapes-search?criteria=tyler%20the%20creator&sort=rating), [drake](https://web.archive.org/mixtapes-search?criteria=drake&sort=rating), [mac miller](https://web.archive.org/mixtapes-search?criteria=mac%20miller&sort=rating), [meek mill](https://web.archive.org/mixtapes-search?criteria=meek%20mill&sort=rating), [juicy j](https://web.archive.org/mixtapes-search?criteria=juicy%20j&sort=rating), [rick ross](https://web.archive.org/mixtapes-search?criteria=rick%20ross&sort=rating)
-
-[](https://web.archive.org/Tyga-Reminded-Official-Video-video.42624.html "watch Tyga - Reminded \(Official Video\)")
-
-Rating: 
-
-Views: 5,555
-
-[](https://web.archive.org/Osama-Bin-Laden-is-Alive-Message-To-America-May-video.42738.html "watch Osama Bin Laden is Alive.  Message To America May 1, 2011")
-
-Rating: 
-
-Views: 2,965
-
-[](https://web.archive.org/Osama-Bin-Laden-Dead-video.42772.html "watch Osama Bin Laden Dead")
-
-Rating: 
-
-Views: 729
-
-[](https://web.archive.org/Raekwon-Butter-Knives-video.42813.html "watch Raekwon - Butter Knives")
-
-Rating: 
-
-Views: 570
-
-[](https://web.archive.org/DJ-Drama-Birthday-Bash-video.42745.html "watch DJ Drama Birthday Bash")
-
-Rating: 
-
-Views: 318
-
-[](https://web.archive.org/Nicki-Minaj-On-Ustream-April-25-2011-video.42837.html "watch Nicki Minaj On Ustream April 25, 2011")
-
-Rating: 
-
-Views: 201
-
-[](http://twitter.com/datpiffmixtapes)
-
-**
