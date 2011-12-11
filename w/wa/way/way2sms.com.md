@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505123919id_/http%3A//www2.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211093608id_/http%3A//www1.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
 
-# Way2SMS - FREE SMS any where in India
+# Way2SMS - Privacy Policy
+
+## Privacy Policy 
 
 Way2Online Interactive India Pvt Ltd and its subsidiaries ([www.way2sms.com](http://www.way2sms.com/)) takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by Way2SMS.com you agree to the collection and use of your data by Way2SMS in the manner provided in this Privacy Policy.
 
@@ -8,7 +10,7 @@ if you have questions or concerns regarding this statement, you should contact W
 
 **What this Privacy Policy Covers**
 
-  * This Privacy Policy covers Way2SMS.COM treatment of personally identifiable information that Way2SMS collects when you are on the site, and when you use Way2SMS services. This policy also covers Way2SMS’s treatment of any personally identifiable information that Way2SMS’s business partners share with Way2SMS.
+  * This Privacy Policy covers Way2SMS.COM treatment of personally identifiable information that Way2SMS collects when you are on the site, and when you use Way2SMS services. This policy also covers Way2SMSâ€™s treatment of any personally identifiable information that Way2SMSâ€™s business partners share with Way2SMS.
   * This policy does not apply to the practices of companies that Way2Online or Way2SMS does not own or control, or to people that Way2SMS does not employ or manage. 
 
 
@@ -93,7 +95,7 @@ Generally, we use anonymous traffic information to:
 
 **Information Sharing And disclosure**
 
-** ** We do not share or rent your email addresses or Mobile number with third parties except our alliance partners.
+We do not share or rent your email addresses or Mobile number with third parties except our alliance partners.
 
 Way2SMS will send personally identifiable information about you to other companies or people when: 
 
@@ -126,7 +128,7 @@ We reserve the right to change or update this policy at any time by placing a pr
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our homepage.
 
-If you have questions or suggestions email us at  [info@way2sms.com](http://way2sms.com/)
+If you have questions or suggestions email us atÂ  [info@way2sms.com](http://way2sms.com/)
 
 **Contact Information**  
 You can contact us at: 
