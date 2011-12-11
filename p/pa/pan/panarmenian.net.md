@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panarmenian.net privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612035340id_/http%3A//www.panarmenian.net/eng/panmedia/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panarmenian.net privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211032829id_/http%3A//panarmenian.net/eng/panmedia/privacy) for the most accurate reproduction.*
 
 # Armenian News - PanARMENIAN.Net
 
@@ -41,7 +41,8 @@ comments@panarmenian.net
 
 **Management**  
 info@panarmenian.net  
-(+374) 10 551749
+(+374) 10 551749  
+(+374) 91 551749
 
 **PanARMENIAN Photo agency**  
 photo@panarmenian.net  
@@ -49,7 +50,7 @@ photo@panarmenian.net
 
 **Public Relations and Marketing**  
 pr@panarmenian.net  
-(+374) 10 571890
+(+374) 10 551749
 
 **Advertisement and Sales**  
 ad@panarmenian.net  
