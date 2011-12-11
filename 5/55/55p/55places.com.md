@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 55places.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004194852id_/http%3A//www.55places.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 55places.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211155252id_/http%3A//www.55places.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Retirement Communities - 55 Plus Active Adult Community Guide
 
 ## Privacy Statement
 
-We know that your privacy is very important to you, and want you to know it is also important to us.  This Privacy Statement tells you how we protect and use information that we gather through www.55places.com ("Website").
+We know that your privacy is very important to you, and want you to know it is also important to us. This Privacy Statement tells you how we protect and use information that we gather through www.55places.com ("Website").
 
 By using this Website, you agree to the terms of this Privacy Statement.  Please also read our Terms and Conditions Agreement to understand the general rules about your use of this Website.  Except as written in any other disclaimers, policies, terms of use, or other notices on this Website, this Privacy Statement and the Terms and Conditions Agreement are the complete agreement between you and us with respect to your use of this Website.  When you access other services or materials by following a link from this Website, you may be subject to additional terms.
 
@@ -25,19 +25,10 @@ If you fill out one of our feedback or request forms or send us email, you will 
 
 We use industry standard efforts to safeguard the confidentiality of your personal or sensitive information, such as firewalls.  However, “perfect security” does not exist on the Internet.
 
-  
-
-
 ## Links
 
 This Website may contain links to other sites.  Please be aware that we are not responsible for the privacy practices of such other sites.  We encourage you to be aware when you leave our site to read the privacy statements of each and every website that collects personally identifiable information.
 
-  
-
-
 ## Change in Privacy Policy
 
 We reserve the right to alter our privacy policies.  If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect and how we use it.
-
-  
-
