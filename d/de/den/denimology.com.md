@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the denimology.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428153834id_/http%3A//www.denimology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denimology.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211034540id_/http%3A//www.denimology.com/privacy.html) for the most accurate reproduction.*
 
 # Denimology - Privacy Policy
 
 At Denimology, we are committed to protecting the privacy of our users and visitors. The following Privacy Policy outlines the information Denimology, Inc. ("Denimology") may collect and how we may use that information to better serve visitors and members of Denimology. 
 
-If you have questions about this Privacy Policy, please contact us at andy@denimology.com. 
+If you have questions about this Privacy Policy, please contact us at info@denimology.com. 
 
 1\. Children Under the Age of 13 
 
@@ -12,7 +12,7 @@ Protecting the privacy of young children is especially important. For that reaso
 
 2\. Information We Collect 
 
-* Information Submitted by a user. Denimology collects personal information when you register or request information from us. The personal information we collect is listed below: 
+* Information Submitted by a user. Denimology collects personal information when you register or request information from us. The personal information we may collect is listed below: 
 
 o Login Name  
 o Password  
@@ -50,7 +50,7 @@ Except as described above, we will not monitor, edit or disclose any personal in
 
 4\. Our Disclosure of Your Information 
 
-Denimology does not sell or rent personal information about its customers to any third parties at this time. In the event Denimology does engage in such commerce in the future, you will have an opportunity to remove yourself from any such lists prior to your inclusion therein by emailing us at privacy@Denimology.com or by changing the appropriate option on your user account. Denimology does, however, perform statistical analysis of customer usage in order to measure interest in, and use of, the various parts of Denimology, and Denimology shares that information with current and prospective advertisers, and other interested third parties. But, this information is aggregated data only (statistics, etc.), and contains no personally identifiable information whatsoever. 
+Denimology may share your details with third parties, such as the companies that provide prizes for our giveaway, if and when we do this it will be clearly stated on the sign-up form. You will have an opportunity to remove yourself from any such lists prior to your inclusion therein by emailing us at info@Denimology.com or by changing the appropriate option on your user account. Denimology does, however, perform statistical analysis of customer usage in order to measure interest in, and use of, the various parts of Denimology, and Denimology shares that information with current and prospective advertisers, and other interested third parties. But, this information is aggregated data only (statistics, etc.), and contains no personally identifiable information whatsoever. 
 
 Denimology cooperates with all law enforcement inquires and with all third parties to enforce their intellectual property or other rights. 
 
