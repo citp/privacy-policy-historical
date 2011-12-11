@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualwebsiteoptimizer.com privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211132506id_/http%3A//visualwebsiteoptimizer.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualwebsiteoptimizer.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211155623id_/http%3A//visualwebsiteoptimizer.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Visual Website Optimizer - Hassle-free A/B, Split and Multivariate Testing
 
