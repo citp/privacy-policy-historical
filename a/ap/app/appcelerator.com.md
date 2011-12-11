@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appcelerator.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620144928id_/http%3A//www.appcelerator.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcelerator.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211034205id_/http%3A//www.appcelerator.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Appcelerator
 
