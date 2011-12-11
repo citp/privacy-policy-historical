@@ -1,182 +1,395 @@
-<!--The following is the downloaded HTML source of the uttyler.edu privacy policy that was archived on 2011-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526192110id_/http%3A//www.uttyler.edu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uttyler.edu privacy policy that was archived on 2011-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211070113id_/http%3A//www.uttyler.edu/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:ou="http://omniupdate.com/XSL/Variables"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><title>The University of Texas at Tyler - Web site Privacy Statement on the use of Information</title><!-- com.omniupdate.div label="metaData" -->
-		<!-- com.omniupdate.properties -->
-		<meta name="Keywords" content="The University of Texas at Tyler, Policy Statement, UT Tyler">
-		<meta name="Description" content="">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+   <title>UT Tyler Privacy | The University of Texas at Tyler, Privacy Policy Statement</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<meta name="Description" content="Privacy policy statement information for The University of Texas at Tyler including: personal information, monitoring, e-mail &amp; form info &amp; more.">
+		<meta name="Keywords" content="UT Tyler Privacy | The University of Texas at Tyler, Privacy Policy Statement, privacy statement, privacy, policy, policies, UT Tyler policies, accessibility statement, accessibility policy">
 		<meta name="Author" content="">
-		<meta name="Robots" content="">
-		<!-- /com.omniupdate.properties -->
-	<!-- /com.omniupdate.div --><link href="/css/uttylercss_inside.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/css/accordion1a_inside.css" type="text/css"><link rel="stylesheet" href="/css/generic_inside.css" type="text/css"><meta name="DC.Creator" content="The University of Texas at Tyler"><meta name="DC.Title" content="The University of Texas at Tyler Home Page - UT Tyler"><meta name="DC.Subject" content="The University of Texas at Tyler, UT Tyler is the easternmost academic component of the renowned University of Texas System. The U.T. Tyler web site is developed and designed as a public service"><meta name="DC.Publisher" content="UT Tyler News and Information"><meta name="DC.Date" content="2009-08-14"><meta name="DC.Type" content="text/html"><meta name="DC.Identifier" content="http://www.uttyler.edu"><meta name="DC.Language" content="English"><meta name="DC.Rights" content="Copyright, 2001 to present, The University of Texas at Tyler"><meta name="GENERATOR" content="MSHTML 8.00.6001.18783"></head><body><div id="doc_container"><!-- com.omniupdate.div label="header" path="/_resources/includes/header.inc" --><!-- BEGIN:HEADER -->
-    <!-- NOTE FOR ROY: HEADER IS NOT AN EDITABLE REGION. ONLY ADMINISTRATOR CAN EDIT THIS REGION.-->
-<div id="hd">
-<div id="home">
-        <a href="/"><img src="/images/spacer.gif" border="0" alt="UT Tyler" width="150" height="90"></a>
-<h1 class="hide"><a href="/">The University of
-        Texas at Tyler</a></h1>
+		
+	<link href="/_resources/css/ut-tyler-main.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/_resources/css/print.css" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" type="text/css" href="/_resources/css/slider-base.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/_resources/css/slider/ut-tyler-sub.css" media="screen">
+
+<!--[if IE]><link href="/_resources/css/ie.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/_resources/css/ie7.css" media="all" /><![endif]-->
+<!--[if IE 8]><link href="/_resources/css/ie8.css" rel="stylesheet" type="text/css" /><![endif]-->
+<link rel="stylesheet" type="text/css" href="/_resources/css/core.css">
+<link rel="stylesheet" type="text/css" href="/_resources/css/sliderkit-core.css" media="all">
+<script type="text/javascript" src="/_resources/js/jquery-1.4.2.js">//</script>
+<script type="text/javascript" src="/_resources/js/jquery.timer.js">//</script>
+<script type="text/javascript" src="/_resources/js/jquery-ui-1.8.14.custom.min.js">//</script>
+<script type="text/javascript" src="/_resources/js/home-tabs.js">//</script>
+
+<script type="text/javascript" src="/_resources/js/sub-nav.js">//</script>
+<script type="text/javascript" src="/_resources/js/jquery.advancedSlider.min.js">//</script>
+
+<!--[if IE]><script type="text/javascript" src="/_resources/js/excanvas.compiled.js">//</script><![endif]-->
+<link rel="shortcut icon" href="http://www.uttyler.edu/images/favicon.ico">
+<style type="text/css">
+	#directedit a{text-decoration: none}
+	 #hidden{ display: none;}
+	
+</style>
+
+<script type="text/javascript">
+      
+      
+//function to get groupsize param and bind ajax function 'listNews' to links and the number of items select
+	function bindit(){
+	     $('.num-items').change(function(){
+                var groupsize = getGroupSize();
+                  listNews(0,groupsize);
+          }); // num-items change
+          
+           $('.pagelink').click(function(e){
+                    e.preventDefault();
+                    var group = $(this).attr('href')-1;
+                    var groupsize = getGroupSize();
+                    listNews(group,groupsize);
+                    
+            }); // end each pagelink
+                
+             $('.pagnPrev a').click(function(e){
+               e.preventDefault();
+                group = $('.pagnCur a:first').attr('href')-2;
+                var groupsize = getGroupSize();
+                    listNews(group,groupsize);
+                
+             });// end pagnPrev click bind
+	    
+	        $('.pagnNext a').click(function(e){
+	             e.preventDefault();
+                group = $('.pagnCur a:first').attr('href');
+                var groupsize = getGroupSize();
+                    listNews(group,groupsize);
+            }); // end pagnNext click bind
+            
+     } //end bindit
+     
+	  function getGroupSize(){
+            var groupsize = $('.num-items').val();
+            return groupsize;
+      }// end getGroupSize
+      
+     
+      
+	    $(document).ready(function(){
+	            var current_directory = "";
+	            var current_path = "/privacy/index.php";
+	            console.log(current_path);
+	            var current_link = $('ul.subnav li a[href="'+current_path+'"]:first');
+	            var current_ul = current_link.parent().parent();
+	         
+	          if(current_ul.attr('class') == 'second-level-nav'){
+	            current_ul.parent().addClass('over');
+	          }
+	    
+	   
+	    }); // end document ready
+	 // window.onload = bindNewsEvents();
+	  </script>
+</head>
+<body>
+   <div id="main_container">
+      <a href="#MainContent" id="skip">
+         <img src="/images/blank.gif" width="20" height="6" alt="Skip to Main Content" border="0">
+      </a>
+      <div id="trigger"><div class="trigger_apply"><a href="/admissions/apply.php"><em>Apply</em></a></div>
+<div class="trigger_visit"><a href="/admissions/visit.php"><em>Visit</em></a></div>
+<div class="trigger_inquire"><a href="/admissions/info/"><em>Inquire</em></a></div>
 </div>
-<!--mark-->
-<div id="search">
-<div id="search_links">
-          <span style="font-size: x-small;"><a href="/about/siteindex.php">Index
-          A-Z</a> | <a href="/about/directions.php">Maps |</a> <a href="/utdirectory/searchname.aspx">Faculty/Staff Directory</a></span></div>
-<!--search links-->
-<div id="search_field">
-          <!-- Google Search Box Begins  -->
-          <form action="http://www.google.com/cse" id="cse-search-box" name="cse-search-box">
-<div>              <input name="cx" type="hidden" value="014083613822074521248:y3fx1ln5yri"><input name="ie" type="hidden" value="UTF-8">
- <strong>Search UT Tyler</strong><br>
-               <label for="searchbox">​</label><input id="searchbox" name="q" size="16" type="text"><input alt="go" name="SUBMIT" src="/images/go.gif" type="image">
-            </div>
+      <div id="utility_cont">
+         <div id="search"><!-- Google Search Box Begins  -->
+<form id="cse-search-box" action="http://www.google.com/cse">
+<fieldset class="search"><legend>Search UT Tyler</legend><input type="hidden" value="014083613822074521248:y3fx1ln5yri" name="cx"><input type="text" value="What are you looking for?" onblur="if(this.value == '') this.value = 'What are you looking for?'" onfocus="if(this.value == this.defaultValue) this.value = ''" class="searchBox" name="q"><button name="SUBMIT" title="Submit Search" class="btn">Search UT Tyler</button></fieldset>
 </form>
-        </div>
-<!--search_field-->
+		
+</div>
+         <div id="utility_links"><ul>
+<li>UT Tyler Logins
+<ul class="dropdown">
+<li><a href="http://ccs.uttyler.edu/?page=email">Blackboard</a></li>
+<li><a href="http://ccs.uttyler.edu/?page=email">Patriot Email</a></li>
+<li><a href="https://sis-portal-prod.uttyler.edu/psp/TEPPRD/EMPLOYEE/EMPL/h/?tab=PAPP_GUEST"><em>my</em>UTTyler</a></li>
+<li><a href="http://www.uttyler.edu/sbs/p2/">P2 Portal</a></li>
+</ul>
+</li>
+<li><a href="http://library.uttyler.edu">Library</a></li>
+<li><a href="/calendar/">Calendars</a></li>
+<li><a href="/maps/">Maps</a></li>
+<li><a href="/facultystaff/directory.php">Directory</a></li>
+<li><a href="/contact/">Contact Us</a></li>
+</ul>
+</div>
+         <div class="clear"><!--no empty div--></div>
       </div>
-<!--search-->
-    </div>
-<!-- hd -->
-<!-- END:HEADER -->
-<!-- /com.omniupdate.div --><div id="nav"><!-- com.omniupdate.div label="topNav" button="792" group="everyone" path="/_resources/includes/topnav.inc" break="break"--><ul>
-<li><a href="/about/">About UT Tyler</a> 
-<ul>
-<li><a href="/about/siteindex.php">A-Z Index</a></li>
-<li><a href="/about/directions.php">Campus Map &amp; Directions</a></li>
-<li><a href="/about/contact.php">Contact UT Tyler</a></li>
-<li><a href="http://www.cowancenter.org/">Cowan Center</a></li>
-<li><a href="/facultystaff">Faculty &amp; Staff</a></li>
+      <div id="header_cont">
+         <div id="logo_cont">
+            <div id="logo"><a href="/"><img width="121" height="95" alt="University of Texas at Tyler" src="/images/uttyler-logo.png"></a>
+</div>
+            <div id="location">
+<div id="location_main">The University of Texas at Tyler</div>
+<div id="location_sub"><a href="http://www2.uttyler.edu/index.php">Tyler</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.uttyler.edu/luc/">Longview</a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="http://www.uttyler.edu/palestine/">Palestine</a></div>
+</div>
+<div id="tagline">
+	A centerpiece for learning,<br>
+	culture and natural beauty
+</div>
+            <div class="clear"><!--no empty div--></div>
+         </div>
+         <div id="menu_cont"><ul id="menu">
+<li><a class="main" href="/index.php">Home</a></li>
+<li><a class="main" href="/about/">Get to Know UT Tyler</a>
+<div class="dropdown">
+<ul class="mega_1">
+<li><a href="/admissions/visit.php">Visit UT Tyler</a></li>
+<li><a href="/virtual-tour/">Virtual Tour</a></li>
+<li><a href="http://www.cowancenter.org">Cowan Center</a></li>
+<li><a href="/maps/">Campus Map &amp; Directions</a></li>
+<!--<li><a href="/peoplestories/">People Stories</a></li>-->
 <li><a href="/about/facts.php">Fast Facts</a></li>
-<li><a href="/housing/">Housing</a></li>
-<li><a href="/president/missionstatement.php">Mission Statement </a></li>
-<li><a href="/news/">News &amp; Information</a></li>
-<li><a href="/admissions/parents/">Parent Resource Center</a></li>
-<li><a href="/president/">President Rod Mabry</a></li>
-<li><a href="/strategicplan/">Strategic Plan</a></li>
-<li><a href="/news/magazine/">UT Tyler Magazine</a></li>
 </ul>
+<ul class="mega_2">
+<li><a href="/anniversary/">40th Anniversary</a></li>
+<li><a href="/news">News</a></li>
+<li><a href="/magazine">UT Tyler Magazine</a></li>
+<li><a href="/about/president.php">President's Message</a></li>
+<li><a href="/facultystaff/">Faculty &amp; Staff</a></li>
+<li><a href="/facultystaff/departments.php">Departments</a></li>
+</ul>
+<div class="mega_3"><img src="/images/drop-menu-photos/tower-sm1.jpg" alt="UT Tyler Bell Tower Photo" width="90" height="135"></div>
+</div>
 </li>
-<li><a href="/admissions">Admissions</a> 
-<ul>
-<li><a href="/advising">Advising</a></li>
-<li><a href="/admissions">Admissions Home Page</a></li>
+<li><a class="main" href="/academics/index.php">Academics</a>
+<div class="dropdown">
+<ul class="mega_1">
+<li><a href="/academics/undergraduate-majors/index.php">Undergraduate Majors</a></li>
+<li><a href="/academics/graduate/index.php">Graduate Majors</a></li>
+<li><a href="/academics/phd/">Doctorate Programs</a></li>
+<li><a href="/academics/online-programs/index.php">Online Programs</a></li>
+<li><a href="/academics/certificate-programs/index.php">Certificate Programs</a></li>
+<li><a href="/academics/schools-departments/">UT Tyler Colleges</a></li>
+</ul>
+<ul class="mega_2">
+<li><a href="/catalog/">Catalog, Schedule &amp; Syllabi</a></li>
+<li><a href="/admissions/advising.php">Academic Advising</a></li>
+<li><a href="/calendar/">Academic Calendar</a></li>
+<li><a href="http://www.uttyler.edu/honors">University Honors Program</a></li>
+<li><a href="http://www.uttyler.edu/ets/itv_distance_learning.php">Distance Learning</a></li>
+<li><a href="http://research.uttyler.edu">Research</a></li>
+</ul>
+<div class="mega_3"><iframe src="http://www.youtube.com/embed/I6zPKCLYSco" frameborder="0" width="225" height="151">&nbsp;</iframe></div>
+</div>
+</li>
+<li><a class="main" href="/admissions/">Admissions</a>
+<div class="dropdown">
+<ul class="mega_1">
+<li><a href="/admissions/undergraduate/">Undergraduate Admissions</a></li>
+<li><a href="/admissions/graduate/">Graduate Admissions</a></li>
+<li><a href="/admissions/core-curriculum/">Core Curriculum Requirements</a></li>
 <li><a href="/admissions/apply.php">Apply</a></li>
-<li><a href="/catalog/tuition/">Costs, Tuition and Fees</a></li>
-<li><a href="/students/distantlearning.php">Distance Learning</a></li>
-<li><a href="/financialaid">Financial Aid</a></li>
-<li><a href="/graduate/">Graduate School</a></li>
-<li><a href="/housing/">Housing</a></li>
-<li><a href="/admissions/international/">International Students Admission Requirements</a></li>
-<li><a href="/previewday">Preview Day</a></li>
-<li><a href="/admissions/parents">Parents</a></li>
-<li><a href="/admissions/visit.php">Schedule a Visit</a></li>
-<li><a href="/scholarship/">Scholarships</a></li>
-<li><a href="/admissions/transfer/">Transfer Students</a></li>
-<li><a href="/admissions">Undergraduate Admissions</a></li>
+<li><a href="/admissions/info/">Request More Info</a></li>
 </ul>
+<ul class="mega_2">
+<li><a href="/admissions/requirements.php">Admissions Requirements</a></li>
+<li><a href="/admissions/advising.php">Advising</a></li>
+<li><a href="/enroll/">One Stop Shop</a></li>
+<li><a href="/admissions/futurestudents/index.php">Future Students</a></li>
+<li><a href="/admissions/newstudents/">Admitted Students</a></li>
+</ul>
+<div class="mega_3"><img src="/images/drop-menu-photos/malestudent.jpg" alt="UT Tyler Admissions" width="200" height="133"></div>
+</div>
 </li>
-<li><a href="/academics">Academics</a> 
+<li><a class="main" href="/admissions/costs/">Cost &amp; Financial Aid</a>
+<div class="dropdown">
+<ul class="mega_1">
+<li><a href="/admissions/costs/">Tuition &amp; Fees</a></li>
+<li><a href="/admissions/loans">Loans <br></a></li>
+<li><a href="/admissions/grants">Grants</a></li>
+<li><a href="/admissions/scholarships/">Scholarships</a></li>
+<li><a href="/admissions/financialaid/">Financial Aid</a></li>
+<li><a href="/financialaid/veteransbenefits.php">Veteran's Benefits</a></li>
+<li><a href="/admissions/cost-calculator.php">Cost Calculator</a></li>
+</ul>
+<div class="mega_3"><img src="/images/drop-menu-photos/student-bk.jpg" alt="UT Tyler Financial Aid" width="200" height="133"></div>
+</div>
+</li>
+<li><a class="main" href="/admissions/studentlife/">Student Life</a>
+<div class="align_right">
+<ul class="mega_1">
+<li><a href="/admissions/housing-dining">Housing &amp; Dining</a></li>
+<li><a href="http://www.uttyler.edu/sll/leadership/">Leadership Development</a></li>
+<li><a href="http://www.uttyler.edu/sll/campusactivities/">Activities</a></li>
+<li><a href="http://www.uttyler.edu/sll/studentorganizations/">Clubs &amp; Organizations</a></li>
+<li><a href="http://www.uttyler.edu/greeklife/">Greek Life</a></li>
+<li><a href="http://www.uttyler.edu/community/">Community Relations</a></li>
+<li><a href="/students/">Current Students</a></li>
+</ul>
+<div class="mega_3"><img src="/images/drop-menu-photos/3students.jpg" alt="UT Tyler Financial Aid" width="200" height="133"></div>
+</div>
+</li>
+<li><a class="main" href="http://www.uttylerpatriots.com/">Athletics</a></li>
+</ul>
+</div>
+      </div>
+      <div class="clear"><!--no empty div--></div>
+      <a name="MainContent"><!--no empty div--></a>
+      <div id="content_cont" class="clear">
+         <div id="bkgnd">
+            <div id="sub_nav">
+               <h2>
+                  <a href="/privacy/">Privacy Policy<!--section title--></a>
+               </h2>
+               <ul class="subnav"><li><a href="/privacy/"></a>
+</li>
+</ul>
+               <div class="info"><h3 class="contact">Contact Us</h3>
+<p><strong>The University of Texas at Tyler</strong><br> 3900 University Blvd.<br> Tyler, Tx 75799</p>
+<p><strong>Office Hours:</strong><br> Monday-Friday 8 am - 5pm</p>
+<p>800 UT TYLER<br> Ph: 903.566.7202<br> Fx: 903.566.7068<br> <a href="mailto:enroll@uttyler.edu">enroll@uttyler.edu</a></p>
+</div>
+            </div>
+            <div id="breadcrumbs">
+               <ul>
+                  <li>
+                     <a href="/">UT Tyler</a>
+                  </li>
+                  <li>
+                     <a href="/privacy/">Privacy Policy</a>
+                  </li>
+               </ul>
+            </div>
+            <div id="column_right">
+		<h1>Privacy Policy</h1>
+               <p>The University of Texas at Tyler maintains the UT Tyler web site (www.uttyler.edu) as a public service. The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public, if any, and how that information is used.<br>
+                  <br>
+                  <br>
+                  <strong>I. Notice of Personal Information</strong>
+                  <br>
+                  <br>The following notice is provided in accordance with Section 559.003(a) of the Texas Government Code:<br>
+                  <br>With few exceptions, you are entitled on your request to be informed about the information The University of Texas at Tyler collects about you;Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information; and Under Section 559.004 of the Texas Government Code, you are entitled to have The University of Texas at Tyler correct information about you that is held by The University of Texas at Tyler and is incorrect, in accordance with the procedures set forth in The University Of Texas System Business Procedures Memorandum 32, Texas Public Information Act.<br>
+                  <br>The information that The University of Texas at Tyler collects will be retained and maintained as required by Texas records retention laws (Section 441.180 et. Seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time.<br>
+                  <br>
+                  <strong>II.Cookies</strong>
+                  <br>
+                  <br>&nbsp;A "cookie" is a small file containing information that is placed on a user's computer by a web server. Typically, these files are used to enhance the user's experience of the site, to help users move between pages in a database, or to customize information for a user.<br>
+                  <br>Any information that UT Tyler webservers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless UT Tyler is legally required to do so in connection with law enforcement investigations or other legal proceedings.<br>
+                  <br>
+                  <strong>III. Logs and Network Monitoring</strong>
+                  <br>
+                  <br>UT Tyler maintains log files of all access to its site and also monitors network traffic for the purposes of site management. This information is used to help diagnose problems with the server and to carry out other administrative tasks. Log analysis tools are also used to create summary statistics to determine which information is of most interest to users, to identify system problem areas, or to help determine technical requirements.<br>
+                  <br>Information such as the following is collected in these files:<br>
+                  <br>
+                  <strong>Hostname:&nbsp;</strong> the hostname and/or IP address of the computer requesting access to the site<br>
+                  <br>
+                  <strong>User-Agent:&nbsp;</strong> the type of browser, its version, and the operating system of the computer requesting access.<br>
+                  <br>
+                  <strong>Referer:&nbsp;</strong> the web page the user came from<br>
+                  <br>
+                  <strong>System date:&nbsp;</strong> the date and time on the server at the time of access<br>
+                  <br>
+                  <strong>Full request:</strong>&nbsp; the exact request the user made<br>
+                  <br>
+                  <strong>Status:&nbsp;</strong> the status code the server returned, e.g., fullfilled request, file not found<br>
+                  <br>
+                  <strong>Content length:</strong>&nbsp; the size, in bytes, of the file sent to the user<br>
+                  <br>
+                  <strong>Method:&nbsp;</strong> the request method used by the browser (e.g., post, get)<br>
+                  <br>
+                  <strong>Universal Resource Identifier (URI):&nbsp;</strong> the location of the particular resource requested.&nbsp; (More commonly known as a URL.)<br>
+                  <br>
+                  <strong>Query string of the URI:</strong>&nbsp; anything after a question mark in a URI.&nbsp; For example, if a keyword search has been requested, the search word will appear in the query string.<br>
+                  <br>
+                  <strong>Protocol:</strong>&nbsp; the technical protocol and version used, i.e., http 1.0, ftp, etc.<br>
+                  <br>The above information is not used in any way that would reveal personally identifying information to outside parties unless System Administration is legally required to do so in connection with law enforcement investigations or other legal proceedings.<br>
+                  <br>
+                  <strong>IV. E-mail and Form Information</strong>
+                  <br>
+                  <br>If a member of the general public sends UT Tyler an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. The message may be redirected to another government agency or person who is better able to answer your question. Such information is not used in any way that would reveal personally identifying information to outside parties unless UT Tyler is legally required to do so in connection with law enforcement investigations or other legal proceedings.<br>
+                  <br>
+                  <strong>V. Links</strong>
+                  <br>
+                  <br>This site contains links to other sites outside of The University of Texas at Tyler. UT Tyler is not responsible for the privacy practices or the content of such websites.<br>
+                  <br>
+                  <strong>VI. Security</strong>
+                  <br>
+                  <br>This site has security measures in place to protect from loss, misuse and alteration of the information under control of UT Tyler.<br>
+                  <br>
+                  <strong>Contacting UT Tyler:</strong>
+                  <br>
+                  <br>If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact: <a href="mailto:security@uttyler.edu">security@uttyler.edu</a>.</p>
+               
+	</div>
+            <div class="clear"><!-- no empty div --></div>
+         </div>
+      </div>
+      <div id="footer_cont">
+         <div id="footer">
+            <div class="footer_column"><h2>Contact</h2>
+<p><strong>The University of Texas at Tyler</strong><br> 3900 University Blvd.<br> Tyler, Texas 75799<br> 800 UT TYLER • 903.566.7202<br> FAX: 903.566.7068<br><a href="mailto:enroll@uttyler.edu">enroll@uttyler.edu</a></p>
+<p>At The University of Texas at Tyler, we are creating solutions today for a better tomorrow. A culture of excellence provides a nurturing environment to prepare our students to be future problem solvers. We take great pride in a tradition of offering quality <a href="/academics/">academic programs</a>, <a href="/facultystaff/index.php">expert faculty</a>, fascinating <a href="/admissions/studentlife/index.php">student life</a> and well-rounded <a href="http://www.uttyler.edu/community/">service opportunities</a>.</p>
+</div>
+            <div class="footer_column"><h2>Resources</h2>
 <ul>
-<li><a href="/academicaffairs/">Academic Affairs</a></li>
-<li><a href="/schedule/academiccalendar.php">Academic Calendar</a></li>
-<li><a href="/catalog/">Catalog and Syllabi</a></li>
-<li><a href="/cas/">College of Arts and Sciences</a></li>
-<li><a href="/cbt/">College of Business &amp; Technology</a></li>
-<li><a href="/educpsych/">College of Education and Psychology</a></li>
-<li><a href="http://cecs.uttyler.edu/">College of Engineering and Computer Science</a></li>
-<li><a href="/nursing/">College of Nursing and Health Sciences</a></li>
-<li><a href="/students/distantlearning.php">Distance Learning</a></li>
-<li><a href="http://library.uttyler.edu/">Muntz Library</a></li>
-<li><a href="/schedule/">Schedule of Classes</a></li>
-<li><a href="/catalog/degreeplans/">Recommended Degree Plans</a></li>
-<li><a href="/honors/">University Honors Program</a></li>
+<li><a href="http://uttyler.bncollege.com/webapp/wcs/stores/servlet/BNCBHomePage?storeId=65060&amp;catalogId=10001">Bookstore</a></li>
+<li><a href="/emergency/">Emergency Preparedness</a></li>
+<li><a href="http://www.uttyler.edu/ohr/jobopening.php">Employment</a></li>
+<li><a href="/facultystaff/departments.php">Departments</a></li>
+<!--<li><a href="/about/siteindex.php">A-Z Index</a></li>-->
+<li><a href="http://www.tsl.state.tx.us/trail/">Statewide Search</a></li>
+<li><a href="http://www.uttyler.edu/compliance/ethicsline.php">Fraud Reporting</a></li>
+<li><a href="/facultystaff/faculty-search.php">Faculty Vitae Search</a></li>
+<li><a href="http://www.uttyler.edu/veteransaffairs/">Veteran's Affairs</a></li>
+<li><a href="http://www.utsystem.edu/">UT System</a></li>
+<li><a href="http://www.texasonline.com/portal/tol/">State of Texas</a></li>
+<li><a href="/links">Required Links</a></li>
+<li><a href="/marketing/policies.php">Branding Identity</a></li>
+<li><a href="/about/site.php">About This Site</a></li>
 </ul>
-</li>
-<li><a href="http://www.uttylerpatriots.com/">Athletics</a> 
+</div>
+            <div class="footer_column"><h2>Admissions</h2>
 <ul>
-<li><a href="http://www.uttylerpatriots.com/">Athletic Department</a></li>
-<li><a href="/hpc/">Herrington Patriot Center</a></li>
-<li><a href="http://www.patriotslive.tv/">Live Broadcasts</a></li>
-<li><a href="/recsports/">Recreational Sports </a></li>
-</ul>
-</li>
-<li><a href="http://research.uttyler.edu/">Research</a> 
+<li><a href="/admissions/visit.php">Visit</a></li>
+<li><a href="/admissions/apply.php">Apply</a></li>
+<li><a href="/admissions/info/">Request More Info</a></li>
+<li><a href="/admissions/undergraduate/">Undergraduate Admissions</a></li>
+<li><a href="/admissions/graduate/">Graduate Admissions</a></li>
+<li><a href="/admissions/requirements.php">Admissions Requirements</a>
 <ul>
-<li><a href="/research/faculty-support/">Faculty Research Support</a></li>
-<li><a href="http://research.uttyler.edu/">Office of Sponsored Research</a></li>
-<li><a href="/research/student-support/">Student Research Grants</a></li>
+<li><a href="/admissions/freshman.php">Freshman</a></li>
+<li><a href="/admissions/transfer.php">Transfer Student</a></li>
+<li><a href="/admissions/international/index.php">International</a></li>
+<li><a href="http://www.uttyler.edu/graduate/gradadmissions/admissions.php">Graduate</a></li>
+<li><a href="http://www.uttyler.edu/graduate/gradadmissions/doctoral.php"> Doctoral</a></li>
 </ul>
 </li>
-<li><a href="/admissions/visit.php">Visiting UT Tyler</a> 
+<li><a href="/admissions/advising.php">Advising</a></li>
+<li><a href="/admissions/studentlife/index.php">Student Life</a></li>
+</ul>
+</div>
+            <div class="footer_column"><h2>Follow UT Tyler</h2>
+<div id="social"><!-- Begin Social Media Links --> <a href="http://www.uttyler.edu/socialmedia/index.php"><img src="/images/sm-blogspot.png" alt="UT Tyler on Blogspot" width="38" height="36"></a> <a href="http://www.facebook.com/uttyler"><img src="/images/sm-facebook.png" alt="UT Tyler on Facebook" width="38" height="36"></a> <a href="http://twitter.com/#!/UTTyler"><img src="/images/sm-twitter.png" alt="UT Tyler on Twitter" width="38" height="36"></a> <a href="http://www.youtube.com/go2uttyler"><img src="/images/sm-youtube.png" alt="UT Tyler on YouTube" width="38" height="36"></a> <!-- End Social Media Links --></div>
+<a href="http://www.uttyler.edu/advancement/"><img src="/images/footer-give.png" alt="Give to UT Tyler" width="200" height="82"></a>
+<h2>Policies</h2>
 <ul>
-<li><a href="/maps/Campus-Map1.pdf">Campus Map/Parking</a></li>
-<li><a href="http://www.cowancenter.org/">Cowan Center</a></li>
-<li><a href="/admissions/visit.php">Schedule a Visit</a></li>
-<li><a href="/about/directions.php">Travel Directions</a></li>
-<li><a href="/luc/">Longview Campus</a></li>
-<li><a href="/palestine/">Palestine Campus</a></li>
+<li><a href="/privacy">Privacy Policy</a></li>
+<li><a href="/accessibility/">Accessibility Policy</a></li>
+<li><a href="/accessibility/disabilityresources.php">Disability Resources</a></li>
 </ul>
-</li>
-</ul>
-<!-- /com.omniupdate.div --></div><div id="page_container"><div id="right_sidebar"><div id="secondary_navigation"><ul><!-- com.omniupdate.div label="sideNav" group="everyone" button="791"  path="/privacy/sidenav.inc" --><!-- com.omniupdate.editor csspath="/_resources/ou/editor/css/sidenav.css" cssmenu="/_resources/ou/editor/css/sidenav.txt" width="1050" --><li><a href="/privacy">Privacy Policy</a></li>
-<li><a href="/accessibility">Accessibility Policy</a></li>
-<!-- /com.omniupdate.div --></ul><ul><li><a class="accordion_content" href="http://www.uttyler.edu/">UT Tyler Home Page</a></li></ul><div id="rightcontent">&nbsp;</div></div></div><div id="main_content"><div id="maincontent"><div id="dmain_content_field"><div class="access" style="WIDTH: 700px; FLOAT: right"><!-- com.omniupdate.div label="content" -->
-		<!-- com.omniupdate.div label="maincontent" group="Everyone" button="794" --><!-- com.omniupdate.editor csspath="/_resources/ou/editor/css/maincontent.css" cssmenu="/_resources/styles/main.txt" width="1050" --><h1><strong>The University of Texas at Tyler</strong></h1>
-<h2><strong>Web site Privacy Statement on the use of Information Gathered from the General Public</strong></h2>
-<strong>The University of Texas at Tyler</strong> maintains the UT Tyler web site (www.uttyler.edu) as a public service. <span style="color: #000000;">The following statement applies only to members of the general public and is intended to address concerns about the types of information gathered from the public, if any, and how that information is used.Employees of the university should refer to <a href="http://www.utsystem.edu/BPM/53.htm">BPM 53-02-96</a> , which outlines the internal policy for the use and protection of information resources. <br></span>
-<div>
-<p class="main_text"><span style="color: #000000;"><strong>I. </strong></span><strong>Notice of Personal Information</strong></p>
-<p class="main_text">The following notice is provided in accordance with Section 559.003(a) of the Texas Government Code:</p>
-<p class="main_text">With few exceptions, you are entitled on your request to be informed about the information The University of Texas at Tyler collects about you;Under Sections 552.021 and 552.023 of the Texas Government Code, you are entitled to receive and review the information; and Under Section 559.004 of the Texas Government Code, you are entitled to have The University of Texas at Tyler correct information about you that is held by The University of Texas at Tyler and is incorrect, in accordance with the procedures set forth in The University Of Texas System Business Procedures Memorandum 32, Texas Public Information Act. </p>
-<p class="main_text">The information that The University of Texas at Tyler collects will be retained and maintained as required by Texas records retention laws (Section 441.180 et. Seq. of the Texas Government Code) and rules. Different types of information are kept for different periods of time. </p>
-<p class="main_text"><span style="color: #000000;"><strong>II.Cookies</strong></span></p>
-<p class="main_text"><span style="color: #000000;">&nbsp;</span><span style="color: #000000;">A "cookie" is a small file containing information that is placed on a user's computer by a web server. Typically, these files are used to enhance the user's experience of the site, to help users move between pages in a database, or to customize information for a user.</span></p>
-<p class="main_text"><span style="color: #000000;">Any information that UT Tyler webservers may store in cookies is used for internal purposes only. Cookie data is not used in any way that would disclose personally identifiable information to outside parties unless UT Tyler is legally required to do so in connection with law enforcement investigations or other legal proceedings.</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>III. Logs and Network Monitoring</strong></span></p>
-<p class="main_text"><span style="color: #000000;">UT Tyler maintains log files of all access to its site and also monitors network traffic for the purposes of site management. This information is used to help diagnose problems with the server and to carry out other administrative tasks. Log analysis tools are also used to create summary statistics to determine which information is of most interest to users, to identify system problem areas, or to help determine technical requirements.</span></p>
-<p class="main_text"><span style="color: #000000;">Information such as the following is collected in these files:</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>Hostname</strong>:&nbsp; the hostname and/or IP address of the computer requesting access to the site</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>User-Agent</strong>:&nbsp; the type of browser, its version, and the operating system of the computer requesting access.</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>Referer</strong>:&nbsp; the web page the user came from</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>System date</strong>:&nbsp; the date and time on the server at the time of access</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>Full request</strong>:&nbsp; the exact request the user made</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>Status</strong>:&nbsp; the status code the server returned, e.g., fullfilled request, file not found</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>Content length</strong>:&nbsp; the size, in bytes, of the file sent to the user</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>Method</strong>:&nbsp; the request method used by the browser (e.g., post, get)</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>Universal Resource Identifier (URI)</strong>:&nbsp; the location of the particular resource requested.&nbsp; (More commonly known as a </span><span style="color: #000000;">URL.)</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>Query string of the URI</strong>:&nbsp; anything after a question mark in a URI.&nbsp; For example, if a keyword search has been requested, the search word will appear in the query string.</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>Protocol</strong>:&nbsp; the technical protocol and version used, i.e., http 1.0, ftp, etc.</span></p>
-<p class="main_text"><span style="color: #000000;">The above information is not used in any way that would reveal personally identifying information to outside parties unless System Administration is legally required to do so in connection with law enforcement investigations or other legal proceedings.</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>IV. E-mail and Form Information</strong></span></p>
-<p class="main_text"><span style="color: #000000;">If a member of the general public sends UT Tyler an e-mail message or fills out a web-based form with a question or comment that contains personally identifying information, that information will only be used to respond to the request and analyze trends. The message may be redirected to another government agency or person who is better able to answer your question. Such information is not used in any way that would reveal personally identifying information to outside parties unless UT Tyler is legally required to do so in connection with law enforcement investigations or other legal proceedings.</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>V. Links</strong></span></p>
-<p class="main_text"><span style="color: #000000;">This site contains links to other sites outside of The University of Texas at Tyler. UT Tyler is not responsible for the privacy practices or the content of such websites.</span></p>
-<p class="main_text"><span style="color: #000000;"><strong>VI. Security</strong></span></p>
-<p class="main_text"><span style="color: #000000;">This site has security measures in place to protect from loss, misuse and alteration of the information under control of UT Tyler.</span></p>
-<hr size="1">
-<p><span class="main_text"><strong>Contacting UT Tyler:</strong></span></p>
-<p class="main_text">If there are any questions about this privacy statement, the practices of this site, or dealings with this website, contact: <a href="mailto:security@uttyler.edu"><strong>security@uttyler.edu.</strong></a></p><!-- /com.omniupdate.div -->
-	<!-- /com.omniupdate.div --></div></div></div></div></div><script type="text/javascript" async="" src="https://web.archive.org/web/20120405194423/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/files/prototype.js">//</script><div id="ft"><!-- com.omniupdate.div label="footer" path="/_resources/includes/footer.inc" --><p style="text-align: right; float: right;"><a href="/contact">Contact UT Tyler</a> | <a title="Contact UT Tyler" href="/accessibility/">Accessibility</a> | <a href="/privacy">Privacy</a><br><span class="style5">Maintained by:</span> <a href="/news/default.php">Office of&nbsp;Marketing and Communications</a></p>
-<p><span class="style5">THE UNIVERSITY OF TEXAS AT TYLER 3900 University Blvd. Tyler, Tx. 75799<br>Ph: 903.566.7000 - Ph: 800-UTTYLER</span><br><a href="/">© <span class="style6">UT Tyler, 2001 - present</span></a> </p>
-
-
-
-
-<script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3675.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3675.js"></script>
-
-
-
-
-<script type="text/javascript" src="/_resources/js/analytics.js"></script>
-<!-- /com.omniupdate.div --><p style="padding:0px 0px 0px 0px;margin: -35px 0px 0px 186px;"><!-- com.omniupdate.ob --><a style="text-decoration: none; color: #FFFFFF" href="http://www.omniupdate.com/oucampus/de.jsp?user=texastyler&amp;site=texastyler&amp;path=%2Fprivacy%2Findex.pcf">&nbsp;Last Published 1/7/11</a><!-- /com.omniupdate.ob --></p></div><span class="Contact"><script type="text/javascript" src="/files/effects.js">//</script><script type="text/javascript" src="/files/accordion.js">//</script><script type="text/javascript">
-    var verticalAccordions = $$('.accordion_toggle');
-        verticalAccordions.each(function(accordion) {
-                $(accordion.next(0)).setStyle({
-                  height:'0px'
-                });
-        });
-    </script><script type="text/javascript">
-            Event.observe(window, 'load', loadAccordions, false);
-                function loadAccordions() {
-                        var bottomAccordion = new accordion('secondary_navigation');    
-                }       
-    </script><script type="text/javascript" src="/files/swfobject.js">//</script></span></div></div></body></html>
+<p><span id="directedit">©</span> UT Tyler, 2001 - Present<br><a href="mailto:web@uttyler.edu">Contact Webmaster</a></p>
+</div>
+         </div>
+         <div class="clear"><!--no empty div--></div>
+      </div>
+   </div>
+   <!--#include virtual="/_resources/includes/global-bodycode.inc" --><script type="text/javascript">
+	    $(document).ready(function(){
+	             
+	       
+	    }); // end document ready
+</script>
+<a style="font-size: .875em" href="http://www.omniupdate.com/oucampus/de.jsp?user=texastyler&amp;site=new-site&amp;path=%2Fprivacy%2Findex.pcf">Last Published: 12/3/11</a></body></html>
