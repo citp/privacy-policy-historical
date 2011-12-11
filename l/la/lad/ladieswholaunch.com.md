@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladieswholaunch.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521201258id_/http%3A//www.ladieswholaunch.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladieswholaunch.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211060339id_/http%3A//www.ladieswholaunch.com/main/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
