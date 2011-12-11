@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606224950id_/http%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211014321id_/http%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
 
 # Long & McQuade - Content
 
