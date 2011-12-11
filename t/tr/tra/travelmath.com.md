@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621041545id_/http%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211050553id_/http%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of TravelMath.com
 
@@ -32,24 +32,22 @@ The use of this site is completely free. We also display links to other sites or
 
 ## Advertising cookies
 
-This site has contracted with Travel Ad Network and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser.
+This site has contracted with Travora Media and its ad-serving technology provider to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website. Where authorized by us, Travora Media may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser.
 
-For more information about how the information is collected and used by Travel Ad Network, please see Travel Ad Network's privacy policy at <http://www.traveladnetwork.com/tan_privacypolicy.html>.
+For more information about how the information is collected and used by Travora Media, please see Travora Media's privacy policy at <http://www.travoramedia.com/tan_privacypolicy.html>.
 
 Cookies are important devices for both serving more relevant ads to users and measuring advertising effectiveness.
 
 You may opt out of accepting cookies at any time by clicking these links:
 
-To opt out of TravelAdvertising.com, go to <http://www.traveladnetwork.com/tan_privacypolicy.html>.
-
-To opt out of Atlas (Microsoft Advertising), go to <http://www.atlassolutions.com/optout.aspx>.
+To opt out of TravelAdvertising.com, go to <http://www.travoramedia.com/tan_privacypolicy.html>.
 
   
 
 
 ## Google ads
 
-Ads displayed by Google may include their system of "interest based targeting" using DoubleClick DART cookies. These ads may take into account your previous browsing history, but they will not track any personally identifiable information. You can read more about their policies at the [Google Privacy Center](http://www.google.com/privacy_ads.html).
+Ads displayed by Google may include their system of "interest based targeting" using DoubleClick DART cookies. These ads may take into account your previous browsing history, but they will not track any personally identifiable information. You can read more about their policies at the [Google Privacy Center](http://www.google.com/privacy/ads/).
 
   
 
