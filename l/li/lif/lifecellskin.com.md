@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lifecellskin.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101212544id_/http%3A//www.lifecellskin.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecellskin.com privacy policy that was archived on 2011-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111211055318id_/http%3A//www.lifecellskin.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Anti-Wrinkle Cream - Anti-Aging Skin Care - Botox Alternative - LifeCell - South Beach Skincare, Inc. » Privacy Policy
 
 **Privacy Policy**
 
-Last Updated: December 25, 2010
+Last Updated: December 4, 2011
 
 This Privacy Policy governs your use of this Website and any content, products or services made available from or through this website including any sub domains thereof (“Website”).  The Website is made available by South Beach Skin Care, Inc. hereafter referred to as (“Company”). 
 
