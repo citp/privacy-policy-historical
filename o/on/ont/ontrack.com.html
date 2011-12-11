@@ -1,362 +1,546 @@
-<!--The following is the downloaded HTML source of the ontrack.com privacy policy that was archived on 2010-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100628223233id_/http%3A//www.krollontrack.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ontrack.com privacy policy that was archived on 2011-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111211033755id_/http%3A//www.krollontrack.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Privacy for you and your information - Kroll Ontrack</title>
-<meta name="description" content="Kroll Ontrack privacy policy - protecting our clients' information. Kroll Ontrack is committed to maintaining the privacy of the information you share with us. We will not sell, distribute, or rent information about you and your contact with Kroll Ontrack and will only use the information you share with us for the purposes of carrying out the services or transactions you have requested.">
-<meta name="keywords" content="Kroll Ontrack privacy policy, privacy policy, client privacy, Kroll Ontrack Safe Harbor, Safe Harbor, Kroll Ontrack information collection, Kroll Ontrack opt-out, opt-out information, Kroll ontrack data protection, data protection, Kroll Ontrack online security">
-<meta name="copyright" content="Copyright© Kroll Ontrack Inc. All Rights Reserved."><link rel="stylesheet" type="text/css" media="print" href="/ko_print.css"><link rel="stylesheet" type="text/css" media="screen" href="/ko_styles.css"><link rel="stylesheet" type="text/css" href="/css_smartedit.css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head runat="server"><!-- PageID 3867 - published by RedDot 9 - 9.0.0.27 - 32630 -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="copyright" content="Copyright© Kroll Ontrack Inc. All Rights Reserved.">
+<!--  These are conditional in cases like press releases that MAY supply these meta elements -->
 
-<!-- Shared script for common functions -->
-<script src="/include/shared.js" language="javascript" type="text/javascript"></script>
+    <title>Privacy for you and your information - Kroll Ontrack</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    
 
-<!-- Script functions for Google Analytics -->
-<script src="/include/GoogleAnalyticsShared.js" language="javascript" type="text/javascript"></script>
 
-<script src="/media/MasterScript.js" language="javascript" type="text/javascript"></script>
+<link href="/styles/ko-styles.css" rel="stylesheet" type="text/css" media="all">
+<link href="/styles/util_styles.css" rel="stylesheet" type="text/css" media="all">
 
-<!-- Script functions for WebTrends analysis -->
-<script language="javascript" type="text/javascript" src="/include/sdc.js"></script>
-<!--[if IE 6]>
-<style>
-#nav1 { WIDTH: 80px;}
-#nav2 { WIDTH: 90px;}
-#nav3 { WIDTH: 80px;}
-#nav4 { WIDTH: 110px;}
-#nav5 { WIDTH: 80px;}
-#nav6 { WIDTH: 110px;}
-#nav7 { WIDTH: 120px;}
-</style>
+
+<script type="text/javascript" async="" src="https://web.archive.org/web/20111014013439/https://ssl.google-analytics.com/ga.js"></script><script src="/scripts/jquery-1.4.2.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/scripts/jquery.hoverIntent.minified.js" type="text/javascript" charset="utf-8"></script>
+<!-- Shared script for common functions, this gets published using replication -->
+<script src="/scripts/shared.js" language="javascript" type="text/javascript"></script>
+<script src="/scripts/GAKroll2010.js" language="javascript" type="text/javascript"></script>
+<script type="text/javascript" src="/scripts/defaultenterbutton.js"></script>
+<script src="/scripts/MasterScript.js" language="javascript" type="text/javascript"></script>
+<!-- Script functions for LivePerson click to call functionality -->
+<script type="text/javascript" src="/scripts/mtagconfig.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+//<![CDATA[
+$(document).ready(function() { 
+ function megaHoverOver(){
+  $(this).find(".sub").stop().fadeTo('fast', 1).show();   
+  //Calculate width of all ul's
+  (function($) { 
+   jQuery.fn.calcSubWidth = function() {
+    rowWidth = 0;
+    //Calculate row
+    $(this).find("ul").each(function() {     
+     rowWidth += $(this).width(); 
+    }); 
+   };
+  })(jQuery);   
+  if ( $(this).find(".row").length > 0 ) { //If row exists...
+   var biggestRow = 0; 
+   //Calculate each row
+   $(this).find(".row").each(function() {          
+    $(this).calcSubWidth();
+    //Find biggest row
+    if(rowWidth > biggestRow) {
+     biggestRow = rowWidth;
+    }
+   });
+   //Set width
+   $(this).find(".sub").css({'width' :biggestRow});
+   $(this).find(".row:last").css({'margin':'0'});   
+  } else { //If row does not exist...   
+   $(this).calcSubWidth();
+   //Set Width
+   $(this).find(".sub").css({'width' : rowWidth});   
+  }
+ } 
+ function megaHoverOut(){ 
+   $(this).find(".sub").stop().fadeTo('fast', 0, function() {
+    $(this).hide(); 
+   });
+ }
+ var config = {    
+   sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
+   interval: 100, // number = milliseconds for onMouseOver polling interval    
+   over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+   timeout: 500, // number = milliseconds delay before onMouseOut    
+   out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
+ };
+ $("ul#topnav li .sub").css({'opacity':'0'});
+ $("ul#topnav li").hoverIntent(config);
+});
+//]]>
+</script>
+<!--[if lt IE 7]>
+<script type="text/javascript">
+$(document).ready(function(){
+ $("ul.dropdown li").hover(function(){
+   $(this).addClass("hover");
+   $('> .dir',this).addClass("open");
+   $('ul:first',this).css('visibility', 'visible');
+   
+ },function(){
+   $(this).removeClass("hover");
+   $('.open',this).removeClass("open");
+   $('ul:first',this).css('visibility', 'hidden');
+ });
+});
+</script>
 <![endif]-->
-    <style type="text/css">
-        <!--
-            #grayBG
-            {
-                position: absolute;
-                top: 0px;
-                bottom: 0px;
-                left: 0px;
-                right: 0px;
-                overflow: hidden;
-                padding: 0;
-                margin: 0;
-                background-color: #000;
-                filter: alpha(opacity=50);
-                opacity: 0.5;
-                z-index: 1200;
-                width: 100%; 
-                height:1500px;
-            }
-            
-            
-            #popupWindow
-            {
-                z-index: 2000;
-                position: absolute;
-                margin: auto;
-            }            
-        //-->
-    </style>
-<title>
+<!--[if lt IE 7]>
+<script src="/scripts/jquery.js" type="text/javascript" charset="utf-8"></script>
+<script src="/scripts/jquery.dropdown.js" type="text/javascript" charset="utf-8"></script>
+<![endif]-->
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="styles/style-IE6.css" media="Screen, projection">
+<![endif]-->
+<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/hcp/html/mTag.js?site=81015885"></script></head>
+<body>
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
 
-</title></head>
-<body id="sp-body">
-
-<div class="container">
- <div id="mousewrapper1">
-  <div id="top-logoarea">
-    <div id="top-logo">
-    <a href="/"><img src="/images/krollontrack_logo.jpg" alt="Kroll Ontrack | Home" border="0"></a>
+<div align="center">
+  <div id="Container">
+    <div id="TopLogoArea">
+      <div id="TopLogo"><a href="/"><img src="/images/krollontrack_logo.jpg"></a></div>
+      <script type="text/javascript">
+        function fbs_click() {
+            window.open('http://www.facebook.com/pages/Altegrity/149878610195?ref=search&sid=100000160646909.2783123683..1');
+        }
+        function tw_click() {
+            window.open('http://twitter.com/Altegrity');
+        }
+      </script>
+      <div id="TopLogoRight">
+        <div id="TopRight-forms">        
+          <form action="/search/" id="top-search" method="post">
+            <select name="localeselector" id="localeselector" onchange="javascript:window.open('http://'+document.getElementById('localeselector').value,'_blank')"> 
+<option selected="selected" value="www.krollontrack.com"> United States (change) </option> 
+<option value="www.ontrackdatarecovery.com.au"> Australia</option> 
+<option value="www.ontrack.at"> Austria</option> 
+<option value="www.ontrackdatarecovery.be"> Belgium</option> 
+<option value="www.ontrackdatarecovery.ca"> Canada</option> 
+<option value="www.ibas.dk"> Denmark</option> 
+<option value="www.ibas.fi"> Finland</option> 
+<option value="www.ontrack.fr"> France</option> 
+<option value="www.ontrack.de"> Germany - Data Recovery</option> 
+<option value="www.krollontrack.de"> Germany - Legal Technologies</option> 
+<option value="www.ontrackdatarecovery.com.hk"> Hong Kong</option> 
+<option value="www.ontrackdatarecovery.ie"> Ireland</option> 
+<option value="www.ontrackdatarecovery.it"> Italy</option> 
+<option value="www.ontrack-japan.com"> Japan</option> 
+<option value="www.ontrackdatarecovery.nl"> Netherlands</option> 
+<option value="www.ibas.no"> Norway</option> 
+<option value="www.krollontrack.pl"> Poland - Data Recovery</option> 
+<option value="www.computerforensics.pl"> Poland - Legal Technologies</option> 
+<option value="www.krollontrack.pt"> Portugal</option> 
+<option value="www.ontrack.ru"> Russia</option> 
+<option value="www.ontrackdatarecovery.com.sg"> Singapore</option> 
+<option value="www.ontrackdatarecovery.es"> Spain</option> 
+<option value="www.ibas.se"> Sweden</option> 
+<option value="www.datenrettung.ch"> Switzerland</option> 
+<option value="www.ontrackdatarecovery.co.uk"> United Kingdom</option> 
+<option value="www.krollontrack.co.uk"> United Kingdom - Legal Technologies</option> 
+</select>
+            <input type="text" name="searchstring" id="searchstring" value="search" onkeypress="javascript:searchBoxEntered(event);" onclick="javascript:if(document.getElementById('searchstring').value == 'search'){ document.getElementById('searchstring').value = ''; }">
+            <input type="submit" name="searchButton" id="searchButton" value="Search" class="button" onclick="javascript:addQuery(this.form);">
+          </form>
+        </div>
+        <div id="TopRight-linkarea">
+        <a href="/customer-login/">Customer Portal / Login</a>            
+        </div>
+        <!-- Start Utility Nav -->
+        <div id="TopRight-topnav">
+            <ul id="nav" class="dropdown dropdown-horizontal">
+                <li><a href="/">Home</a></li>
+                <li><a href="/company/" class="dir">Company</a>
+                    <ul>
+                        <li><a href="/company/overview/">Overview</a>                        </li>
+                        <li><a href="/company/history/">History</a>                        </li>
+                        <li><a href="/company/management-biographies/">Management Biographies</a>                        </li>
+                        <li><a href="/company/awards/">Awards</a>                        </li>
+                        <li><a href="/company/news-releases/">News Releases</a>                        </li>
+                        <li><a href="/company/customer-references/">Customer References</a>                        </li>
+                        <li><a href="/company/customer-programs/" class="dir nodrop">Customer Programs</a>
+                            <ul style="visibility:hidden;">
+<li>  <a href="/company/customer-programs/service-reseller-program/">Service Reseller Program</a></li>
+<li>  <a href="/company/customer-programs/corporate-support-program/">Corporate Support Program</a></li>
+<li>  <a href="/company/customer-programs/government/">Government</a></li>
+                            </ul>                        </li>
+                        <li><a href="/company/contact-us/">Contact Us</a>                        </li>
+                        <li><a href="/company/careers/" class="dir nodrop">Careers</a>
+                            <ul style="visibility:hidden;">
+<li>  <a href="/company/careers/corporate-responsibility/">Corporate Responsibility</a></li>
+<li>  <a href="/company/careers/culture/">Our Culture</a></li>
+<li>  <a href="/company/careers/employment-faq/">Employment FAQ</a></li>
+<li>  <a href="/company/careers/growth-development/">Growth Development</a></li>
+<li>  <a href="/company/careers/lifestyle-and-benefits/">Lifestyle &amp; Benefits</a></li>
+<li>  <a href="/company/careers/job-search/">Job Search</a></li>
+                            </ul>                        </li></ul></li>
+                <li><a href="/events/" class="dir">Events</a>
+                    <ul>
+                        <li><a href="/events/kroll-ontrack-courses/">Kroll Ontrack Courses</a>                        </li>
+                        <li><a href="/events/industry-conferences-and-tradeshows/">Conferences &amp; Tradeshows</a>                        </li>
+                        <li><a href="/events/all-events/">All Events</a>                        </li>
+                        <li><a href="/events/course-materials/">Course Materials</a>                        </li></ul></li>
+                <li><a href="/resource-library/" class="dir">Resource Library</a>
+                    <ul>
+                        <li><a href="/resource-library/newsletter-center/">Newsletter Center</a>                        </li>
+<li><a href="/blog/" target="_blank">Kroll Ontrack OnPoint</a></li>
+                        <li><a href="/resource-library/podcasts-and-webinars/">Podcasts &amp; Webinars</a>                        </li>
+                        <li><a href="/resource-library/industry-news/">Industry News</a>                        </li>
+                        <li><a href="/resource-library/articles-and-papers/" class="dir nodrop">Articles &amp; Papers</a>
+                            <ul style="visibility:hidden;">
+<li>  <a href="/resource-library/white-papers/">White Papers</a></li>
+                            </ul>                        </li>
+                        <li><a href="/resource-library/case-law/">Case Law</a>                        </li>
+                        <li><a href="/resource-library/rules-and-statutes/">Rules &amp; Statutes</a>                        </li>
+                        <li><a href="/resource-library/glossary/">Glossary</a>                        </li>
+                        <li><a href="/resource-library/free-downloads/">Free Downloads</a>                        </li>
+                        <li><a href="/resource-library/product-demos/">Product Demos</a>                        </li>
+<li><a href="http://store.krollontrack.com/" target="_blank">Online Shop</a></li>
+                        <li><a href="/resource-library/case-studies/">Case Studies</a>                        </li></ul></li>
+                <li><a href="/support/" class="dir">Support</a>
+                    <ul>
+                        <li><a href="/support/user-guide-and-manuals/">User Guides and Manuals</a>                        </li>
+                        <li><a href="/support/software-support/">Software Support</a>                        </li>
+                        <li><a href="/support/licensing-options/" class="dir nodrop">Licensing Options</a>
+                            <ul style="visibility:hidden;">
+<li>  <a href="/support/licensing-options/easyrecovery/">EasyRecovery Licensing</a></li>
+<li>  <a href="/support/licensing-options/powercontrols/">Ontrack® PowerControls™ Licensing</a></li>
+                            </ul>                        </li>
+                        <li><a href="/support/media-shipping-instructions/">Media Shipping Instructions</a>                        </li>
+                        <li><a href="/support/how-to-restore-my-recovered-files/" class="dir nodrop">How to Restore My Recovered Files</a>
+                            <ul style="visibility:hidden;">
+<li>  <a href="/support/how-to-restore-my-recovered-files/external-harddrive/">External Hard Drive </a></li>
+<li>  <a href="/support/how-to-restore-my-recovered-files/cd-dvd/">CD or DVD</a></li>
+<li>  <a href="/support/how-to-restore-my-recovered-files/cd-dvd-dos/">DOS</a></li>
+<li>  <a href="/support/how-to-restore-my-recovered-files/cd-dvd-unix-tar/">UNIX Tar </a></li>
+<li>  <a href="/support/how-to-restore-my-recovered-files/cd-dvd-unix-cpio/">Unix CPIO</a></li>
+<li>  <a href="/support/how-to-restore-my-recovered-files/mac/">Mac</a></li>
+                            </ul>                        </li></ul></li></ul>
+        </div>
+        <!-- End Utility Nav --> 
+      </div>
     </div>
-    <div id="top-logo-print"><img src="/images/krollontrack_logo-print.jpg" alt="Kroll Ontrack | Home" width="254" height="22"></div>
-    <div id="top-searcharea">
-      <form action="/search/" id="top-search" method="post">
-        <table border="0" cellspacing="0" cellpadding="0" width="160" height="20">
-          <tbody><tr>
-            <td align="right"><input type="text" name="searchstring" id="searchstring" value="search" onfocus="if(this.value=='search')this.value='';" onblur="if(this.value=='')this.value='search';"></td>
-            <td width="20"><input type="image" name="searchButton" id="searchButton" src="/images/button_search.gif" alt="Search"></td>
-          </tr>
-        </tbody></table>
-      </form>
-    </div>
-  </div>
+    <!-- Start RD List Top Nav -->
+    <!-- Begin of Top Navigation  -->
+<div class="TopNav">
+  <ul id="topnav">
+    <!-- Data Recovery -->
+        <li class="navfirst">
+          <a href="/data-recovery/" class="nav1">Data Recovery</a>
+            <div class="sub reddrop" style="opacity: 0;">
+              <div class="row">
+                          <ul style="width:225px">
+                  <li><h2><a href="/data-recovery/data-recovery-services/">Data Recovery Services</a></h2></li>
+                    <li><a href="/data-recovery/data-recovery-services/hard-drive-recovery/">Hard Drive Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/laptop-recovery/">Laptop Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/desktop-recovery/">Desktop Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/server-recovery/">Server Recovery &amp; Network Storage Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/raid-recovery/">RAID Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/virtualization-recovery/">Virtualization Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/operating-system-recovery/">Operating System Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/database-recovery/">Database Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/tape-recovery/">Tape Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/e-mail-recovery/">E-mail Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/solid-state-drive-recovery/">Solid State Drive Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/mobile-device-recovery/">Mobile Device Recovery &amp; Memory Card Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/photo-recovery/">Digital Photo Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/flash-drive-recovery/">Flash Drive Recovery</a></li>
+                    <li><a href="/data-recovery/data-recovery-services/specialized-recovery-services/">Specialized Recovery Services</a></li>
+</ul>
+    <ul style="width:225px">
+                  <li><h2><a href="/data-recovery/data-recovery-process/">Data Recovery Process</a></h2></li>
+                    <li><a href="/data-recovery/data-recovery-process/data-recovery-methods/">Data Recovery Methods</a></li>
+                    <li><a href="/data-recovery/data-recovery-process/ontrack-online-information-center/">Ontrack Online Information Center</a></li>
+                  <li><h2><a href="/data-recovery/recovery-software/">File Recovery Software</a></h2></li>
+                  <li><h2><a href="/data-recovery/e-mail-recovery-software/">E-mail Recovery Software</a></h2></li>
+                  <li><h2><a href="/data-recovery/content-management/">Content Recovery Software</a></h2></li>
+                  <li><h2><a href="/data-recovery/forensic-data-recovery/">Forensic Data Recovery</a></h2></li>
+            </ul>
+                        <ul class="sub-fma" style="WIDTH: 225px! important">
+<li><img style="FLOAT: left; MARGIN: 6px 12px 50px 9px" src="/images/icon_info_12x24.png"><em>GET HELP NOW</em><br><br><span style="FONT-SIZE: 18px; COLOR: #8a0808"><strong><div id="ButtonPhone"><span style="font-weight:bold;">800 872 2599</span><ppc info="" value="QueryStringKey - ;  Cookie process message: Cookie was not written. - and cookie was not retrieved from client box."></ppc></div></strong></span><br><br><a href="/data-recovery-quote/">Free Online Quote</a> </li>
+<li>
+<hr>
+<img style="FLOAT: left; MARGIN: 0px 9px 50px 0px" src="/images/icon_pen_alt_fill_24x24.png"><em>PARTNER CERTIFICATION PROGRAM</em><br>Become an Ontrack Data Recovery Certified Partner.<br><a href="http://partnercertification.krollontrack.com/content/partner-infocenter" target="_blank"><strong>Learn More</strong></a></li></ul>
+                    </div>
+                </div>
+             </li>
+    <!-- Information Management -->
+            <li class="nav3">
+                <a href="/information-management/" class="nav3">Information Management</a>
+                <div class="sub greendrop" style="opacity: 0;">
+                    <div class="row">
+                          <ul style="width:225px">        
+                  <li><h2><a href="/information-management/discovery-repository-services/">Preservation Repository Services</a></h2></li>
+                  <li><h2><a href="/information-management/archiving-and-legal-hold/">Archiving &amp; Legal Hold</a></h2></li>
+                  <li><h2><a href="/information-management/consulting/">Consulting </a></h2></li>
+                    <li><a href="/information-management/consulting/data-mapping/">Data Mapping</a></li>
+                    <li><a href="/information-management/consulting/records-retention-consulting/">Records Retention Consulting</a></li>
+                  <li><h2><a href="/information-management/email-management-for-exchange/">E-mail Management for Exchange</a></h2></li>
+                    <li><a href="/information-management/email-management-for-exchange/email-recovery/">E-mail Recovery</a></li>
+                    <li><a href="/information-management/email-management-for-exchange/email-search/">E-mail Search</a></li>
+                    <li><a href="/information-management/email-management-for-exchange/archive-restoration/">Archive Restoration</a></li>
+                    <li><a href="/information-management/email-management-for-exchange/migration-and-consolidation/">Migration &amp; Consolidation</a></li>
+                    <li><a href="/information-management/email-management-for-exchange/storage-management/">Storage Management</a></li>
+                    <li><a href="/information-management/email-management-for-exchange/compliance-and-security/">Compliance &amp; Security</a></li>
+                    <li><a href="/information-management/email-management-for-exchange/functionality-overview/">Functionality Overview</a></li>
+                    <li><a href="/information-management/email-management-for-exchange/add-on-features/">Add-On Features</a></li>
+                  <li><h2><a href="/information-management/content-management-for-sharepoint/">Content Management for SharePoint</a></h2></li>
+                    <li><a href="/information-management/content-management-for-sharepoint/content-search/">Content Search</a></li>
+                    <li><a href="/information-management/content-management-for-sharepoint/content-restoration/">Content Restoration</a></li>
+</ul>
+    <ul style="width:225px">
+                  <li><h2><a href="/information-management/data-media-conversion-and-migration/">Data Migration and Media Conversion</a></h2></li>
+                    <li><a href="/information-management/data-media-conversion-and-migration/data-migration/">Data Migration</a></li>
+                    <li><a href="/information-management/data-media-conversion-and-migration/media-conversion/">Media Conversion</a></li>
+                    <li><a href="/information-management/data-media-conversion-and-migration/tape-cataloging/">Tape Cataloging</a></li>
+                    <li><a href="/information-management/data-media-conversion-and-migration/tape-duplication/">Tape Duplication</a></li>
+                  <li><h2><a href="/information-management/data-erasure-solutions/">Data Erasure Solutions</a></h2></li>
+                    <li><a href="/information-management/data-erasure-solutions/erasure-software/">Erasure Software</a></li>
+                    <li><a href="/information-management/data-erasure-solutions/erasure-services/">Erasure Services</a></li>
+                    <li><a href="/information-management/data-erasure-solutions/erasure-hardware/">Erasure Hardware</a></li>
+                  <li><h2><a href="/information-management/erasure-verification-services/">Erasure Verification Services</a></h2></li>
+                  <li><h2><a href="/information-management/hard-drive-management/">Hard Drive Management</a></h2></li>
+                  <li><h2><a href="/information-management/search-technologies/">Search Technologies</a></h2></li>
+            </ul>
+                        <ul class="sub-fma" style="WIDTH: 225px! important">
+<li><img style="FLOAT: left; MARGIN: 0px 15px 0px 8px" src="/images/img_ontrackcompass-infosheet-65x150.png"><br><em>INFORMATION SHEET</em><br>Streamlining enterprise archiving and the legal hold process.<br><a onclick="javascript: pageTracker._trackPageview('PDF__IM__Ontrack Compass-Information-sheet')" href="/library/archiving-legalhold_krollontrack2010.pdf" target="_blank"><strong>Download</strong></a><br class="both"></li>
+<li><img style="FLOAT: left; MARGIN: 0px 15px 0px 8px" src="/images/img_emailrecovery-whitepaper-65x150.png"><br><em>WHITE PAPER</em><br>How to save time and money when recovering email.<br><a onclick="javascript: pageTracker._trackPageview('PDF__IM__Email-Recovery-Doing-More-with-Less')" href="/library/whitepaper_EmailRecovery.pdf" target="_blank"><strong>Download</strong></a></li></ul>
+                    </div>
+                </div>
+             </li>
+    <!-- E-Discovery -->
+            <li class="nav5">
+                <a href="/e-discovery/" class="nav5">E-Discovery Services</a>
+                <div class="sub orangedrop" style="left: -48px; opacity: 0;">
+                    <div class="row">
+                          <ul style="width:225px">        
+                  <li><h2><a href="/e-discovery/e-discovery-management-consulting/">E-Discovery Consulting</a></h2></li>
+                    <li><a href="/e-discovery-services/case-management-technology/">Case Management Technology</a></li>
+                  <li><h2><a href="/e-discovery/identification-preservation-and-collection/">Identification Preservation &amp; Collection</a></h2></li>
+                    <li><a href="/e-discovery/identification-preservation-and-collection/data-identification/">Data Identification</a></li>
+                    <li><a href="/e-discovery/identification-preservation-and-collection/preservation-and-legal-hold/">Preservation &amp; Legal Hold</a></li>
+                    <li><a href="/e-discovery/identification-preservation-and-collection/global-data-collection/">Global Data Collection</a></li>
+                    <li><a href="/e-discovery/identification-preservation-and-collection/rule-26(f)-conference-preparation/">Rule 26(f) Conference Preparation</a></li>
+                    <li><a href="/e-discovery-services/expert-testimony/">Expert Testimony</a></li>
+                  <li><h2><a href="/e-discovery/analysis-and-early-case-assessment/">Analysis &amp; Early Data Assessment</a></h2></li>
+                    <li><a href="/e-discovery/analysis-and-early-case-assessment/early-case-assessment-technology/">Early Data Assessment Technology</a></li>
+                    <li><a href="/e-discovery/analysis-and-early-case-assessment/early-case-assessment-consulting/">Early Data Assessment Consulting</a></li>
+</ul>
+    <ul style="width:225px">
+                  <li><h2><a href="/e-discovery/data-processing/">Data Processing</a></h2></li>
+                    <li><a href="/e-discovery/data-processing/filtering-and-searching/">Filtering &amp; Searching</a></li>
+                    <li><a href="/e-discovery/data-processing/paper-discovery-scanning-coding/">Paper Discovery, Scanning, Coding</a></li>
+                    <li><a href="/e-discovery/data-processing/audio-discovery/">Audio Discovery</a></li>
+                  <li><h2><a href="/e-discovery/review-and-production/">Review &amp; Production</a></h2></li>
+                    <li><a href="/e-discovery/review-and-production/online-review-technology/">Online Review Technology</a></li>
+                    <li><a href="/e-discovery/review-and-production/intelligent-review-technology/">Intelligent Review Technology</a></li>
+                    <li><a href="/e-discovery/review-and-production/document-review-services/">Managed Document Review Services</a></li>
+                  <li><h2><a href="/e-discovery/software/">Software</a></h2></li>
+            </ul>
+                        <ul class="sub-fma" style="WIDTH: 225px">
+<li><img style="FLOAT: left; MARGIN: 8px 10px 30px 0px" src="/images/icon_heaphones_16x14.png"><em>PODCAST</em><br>Hear the latest in legal technology news and trends.<br><a title="Podcasts" href="/resource-library/podcasts-and-webinars/legal-technologies-podcasts/">Listen Now</a> </li>
+<li>
+<hr>
+<img style="FLOAT: left; MARGIN: 8px 10px 60px 0px" src="/images/icon_document_stroke_16x16.png"><em>CLU NEWSLETTER</em><br>Read the latest in case law, legal technology news and trends.<br><a title="Newsletters" href="/newsletter-center/sign-up.aspx?inewsletterid=1">Subscribe</a></li></ul>
+                    </div>
+                </div>
+             </li>
+    <!-- Software -->
+            <li class="blueright">
+                <a href="/software/" class="nav7">Software</a>
+                <div class="sub" style="left: -357px; opacity: 0;">
+                    <div class="row">
+                          <ul style="width:225px">        
+                  <li><h2><a href="/e-discovery/analysis-and-early-case-assessment/early-case-assessment-technology/" target="_self"> Ontrack® Advanceview™</a></h2></li>
+                  <li><h2><a href="/information-management/archiving-and-legal-hold/" target="_self"> Ontrack® Compass™</a></h2></li>
+                  <li><h2><a href="/data-recovery/recovery-software/" target="_self"> Ontrack® EasyRecovery™ </a></h2></li>
+                  <li><h2><a href="/information-management/search-technologies/" target="_self"> Ontrack® Engenium® </a></h2></li>
+                  <li><h2><a href="/information-management/data-erasure-solutions/" target="_self"> Ontrack® Eraser </a></h2></li>
+                  <li><h2><a href="/information-management/discovery-repository-services/" target="_self"> Ontrack® Guardian™</a></h2></li>
+                  <li><h2><a href="/e-discovery/review-and-production/online-review-technology/" target="_self"> Ontrack® Inview™ </a></h2></li>
+                  <li><h2><a href="/data-recovery/data-recovery-process/ontrack-online-information-center/" target="_self"> Ontrack® Online </a></h2></li>
+                  <li><h2><a href="/software/powercontrols/">Ontrack® PowerControls™</a></h2></li>
+                  <li><h2><a href="/e-discovery/software/case-management/" target="_blank"> Ontrack® Shareview™</a></h2></li>
+            </ul>
+                        <ul style="WIDTH: 225px !important" class="sub-fma">
+<li><img style="MARGIN: 0px 5px 0px 0px; FLOAT: left" src="/images/img_software-111x120.png"><br><em>SOFTWARE</em><br>Many of our intuitive, scalable, efficient and cost-effective software products may be purchased online.<br><a href="http://store.krollontrack.com/" target="_blank"><strong>Shop Online</strong> </a></li>
+<li>
+<hr>
+<img style="MARGIN: 0px 5px 0px 0px; FLOAT: left" src="/images/img_arrowdown_111x120.png"><br><em>FREE DOWNLOADS</em><br>Interested in seeing how our award-winning software can help you? Try our Free Trial Software Downloads.<br><a href="http://www.krollontrack.com/resource-library/free-downloads/"><strong>Download</strong> </a></li></ul>
+                    </div>
+                </div>
+             </li>
+<!-- Verve EDiscovery -->
+            <li class="nav6">
+                <a href="/e-discovery-software/" class="nav6">E-Discovery Software</a>
+                <div class="sub orangedrop" style="opacity: 0;">
+                    <div class="row">
+                          <ul style="width:225px">        
+                  <li><h2><a href="/e-discovery-software/e-discovery-processing/">E-Discovery Processing</a></h2></li>
+                    <li><a href="/e-discovery-software/why-verve/">Why Verve?</a></li>
+                  <li><h2><a href="/e-discovery-software/early-data-assessment/">Early Data Assessment </a></h2></li>
+                    <li><a href="/e-discovery-software/benefits-and-features-early-data-assessment/">Early Data Assessment Benefits</a></li>
+                  <li><h2><a href="/e-discovery-software/online-review/">Online Review</a></h2></li>
+                    <li><a href="/e-discovery-software/product-benefits-and-features-online-review/">Online Review Benefits</a></li>
+                  <li><h2><a href="/e-discovery-software/saas-advantage/">Saas Advantage</a></h2></li>
+                    <li><a href="/e-discovery-software/training-and-support-saas/">Training &amp; Support</a></li>
+            </ul>
 
-<!--  -->
-<!-- MAIN TEMPLATE -->
-<div id="top-navarea">
-    <!--begin-->
-    <div id="globalNav">
-        <!-- Main navigation-->
-        <ul onmouseout="UnHideUncoverable()" onmouseover="HideUncoverable()" id="mainNav">
-            <!-- Start RD List Top Nav -->
-            
-                <li class="menuparent" id="nav1"><a href="/about-us/">About Us</a>
-                    <ul>
-        <li><a href="/company-overview/">Company Overview</a></li>
-        <li><a href="/management-bios/">Management Bios</a></li>
-                    </ul>
-                </li>
-            
-                <li class="menuparent" id="nav2"><a href="/resources/">Resources</a>
-                    <ul>
-        <li><a href="/publications/">Publications</a></li>
-        <li><a href="/glossary/">Glossary</a></li>
-        <li><a href="/rules-statutes/">Rules &amp; Statutes</a></li>
-        <li><a href="/case-summaries/">Case Summaries</a></li>
-        <li class="menuparent"><a href="/newsletters/">Newsletters</a><ul>
-        <li><a href="/clu/">Case Law Update &amp; E-Discovery News</a></li>
-        <li><a href="/cybercrime/">Cyber Crime &amp; Computer Forensics News</a></li>
-        <li><a href="/information-management-news/">Information Management &amp; E-Mail Archiving</a></li>
-        <li><a href="/itt/">In the Trenches</a></li>
-        <li><a href="/investigation-insight/">Investigation Insight</a></li>
-        <li><a href="/iha/">The In-House Advocate</a></li>
-        <li>
-            <a href="http://www.ontrackdatarecovery.com/data-recovery-newsletter/" target="_blank">
-            Ontrack Data Recovery Newsletter</a>
-        </li>
-        <li><a href="/newsletter-center/login.aspx">Manage Newsletter Subscriptions</a></li>
-                </ul></li>
-        <li class="menuparent"><a href="/podcasts/">Podcasts</a><ul>
-        <li><a href="/legal-technologies-podcasts/">Legal Technologies | Podcasts</a></li>
-        <li>
-            <a href="http://www.ontrackdatarecovery.com/podcasts/" target="_blank">
-            Data Recovery | Podcasts</a>
-        </li>
-                </ul></li>
-                    </ul>
-                </li>
-            
-                <li class="menuparent" id="nav3"><a href="/events/">Events</a>
-                    <ul>
-        <li><a href="/upcoming-events/">Upcoming Events</a></li>
-        <li><a href="/event-materials/">Event Materials</a></li>
-                    </ul>
-                </li>
-            
-                <li class="menuparent" id="nav4"><a href="/news-center/">News Center</a>
-                    <ul>
-        <li><a href="/news-releases/">News Releases</a></li>
-        <li><a href="/awards/">Awards</a></li>
-        <li><a href="/expert-bios/">Expert Bios</a></li>
-                    </ul>
-                </li>
-            
-                <li class="menuparent" id="nav5"><a href="/careers/">Careers</a>
-                    <ul>
-        <li><a href="/job-search/">Job Search</a></li>
-        <li><a href="/culture/">Our Culture</a></li>
-        <li><a href="/corporate-responsibility/">Corporate Responsibility &amp; Diversity</a></li>
-        <li><a href="/growth-development/">Career Growth &amp; Development</a></li>
-        <li><a href="/benefits/">Lifestyle &amp; Benefits</a></li>
-        <li><a href="/employment-faq/">Employment FAQ</a></li>
-                    </ul>
-                </li>
-            <li id="nav4" class="menuparent"><a href="/contact-us/">Contact Us</a><ul>
-    <li class="menuparent">
-        <a href="/contact-us/data-recovery/">Data Recovery</a>
-        <ul>
-        <li><a href="/contact-us/data-recovery/asia-pacific/">Asia/Pacific</a></li>
-        <li><a href="/contact-us/data-recovery/europe/">Europe</a></li>
-        <li><a href="/contact-us/data-recovery/north-america/">North America</a></li>
-      </ul>
-    </li>
-    <li class="menuparent">
-        <a href="/contact-us/legal-technologies/">Legal Technologies</a>
-        <ul>
-        <li><a href="/contact-us/legal-technologies/asia-pacific/">Asia/Pacific</a></li>
-        <li><a href="/contact-us/legal-technologies/europe/">Europe</a></li>
-        <li><a href="/contact-us/legal-technologies/north-america/">North America</a></li>
-      </ul>
-    </li>
-  </ul>
-</li>
-                <li class="menuparent" id="nav7"><a href="/customer-login/">Client Login</a>
-                    <ul>
-        <li>
-            <a href="http://www.ontrackdatarecovery.com/partner/corporate/login.aspx" target="_blank">
-            Data Recovery Partner Program</a>
-        </li>
-        <li>
-            <a href="https://ontrackonline.ontrack.com/oo/" target="_blank">
-            Ontrack® Online</a>
-        </li>
-        <li>
-            <a href="https://www.ontrackprepview.com/" target="_blank">
-            Ontrack® Prepview™</a>
-        </li>
-        <li>
-            <a href="http://www.ontrackgographics.com" target="_blank">
-            Ontrack® Go Graphics™</a>
-        </li>
-        <li>
-            <a href="http://www.ontrackdatarecovery.com/verifile/verifileviewer.asp" target="_blank">
-            Ontrack® Verifile</a>
-        </li>
-        <li>
-            <a href="http://connect.ontrackinview.com/" target="_blank">
-            Ontrack® Inview™</a>
-        </li>
-                    </ul>
-                </li>
-            
-            <!-- End RD List Top Nav -->                
-       </ul>
-      <!-- End main navigation-->
-      <!-- NavRight Content -->
-      <!-- <div id="top-NavRight"><a title="You are here" onclick="popup('http://buyonline.ontrack.com/ecom/basket.asp','buyonline','width=800,height=400,scrollbars=yes,resizable=yes,toolbar=yes');return false;" href="#">You are here<img src="" alt="You are here" width="20" height="13" border="0" align="absmiddle" class="icon" /></a></div> -->
-      <div id="top-NavRight">You are here <img src="/images/United-States.gif" alt="You are here" width="20" border="0" align="absmiddle" class="icon"></div>
-      <!-- End NavRight Content -->
-    </div>
-    <!--end-->
-  </div>
-</div>    
-  <div id="sp-mainarea">
-
-<div id="subLeftNav">
-
-
-
-
-
-      <!--LEFT NAV-->
-        <!-- start left nav area -->
-    <!-- start lvl5 not selected -->
-<h2><a href="/legal-technologies/"> Legal Technologies </a></h2>
-<!-- end lvl5 not selected --><!-- start lvl5 not selected -->
-<h2><a href="/data-recovery/"> Data Recovery </a></h2>
-<!-- end lvl5 not selected --><!-- start lvl5 not selected -->
-<h2><a href="/software/"> Software </a></h2>
-<!-- end lvl5 not selected -->        
-<!-- end left nav area -->
-      <!--END LEFT NAV-->
+                        <ul class="sub-fma" style="WIDTH: 225px">
+<li>
+<p><a title="Verve" href="http://www.krollontrack.com/e-discovery-software/play-verve-product-demo" target="_blank"><img style="MARGIN: 8px 10px 10px 0px" alt="Verve Demo" src="/images/verve_img_supernavvideo.jpg"></a></p>
+<p><em>VERVE DEMO</em><br>Watch Our Verve Demo <br>and Learn More About <br>Do-It-Yourself E-Discovery<br><br><a title="Verve Demo" href="http://www.krollontrack.com/e-discovery-software/verve-product-demo">Watch Now</a></p></li></ul>
+                    </div>
+                </div>
+             </li>
+</ul>
 </div>
-    <div id="subContentMainContainer">
-        <!--  MAIN BODY  -->
-        <form name="aspnetForm" method="post" action="/privacy/" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMzk3ODI0MzMPZBYCZg9kFgJmD2QWBAIDD2QWAmYPFgIeBFRleHQF4wY8bGkgaWQ9Im5hdjQiIGNsYXNzPSJtZW51cGFyZW50Ij48YSBocmVmPSIvY29udGFjdC11cy8iPkNvbnRhY3QgVXM8L2E+PHVsPg0KICAgIDxsaSBjbGFzcz0ibWVudXBhcmVudCI+DQogICAgICAgIDxhIGhyZWY9Jy9jb250YWN0LXVzL2RhdGEtcmVjb3ZlcnkvJz5EYXRhIFJlY292ZXJ5PC9hPg0KICAgICAgICA8dWw+DQogICAgICAgIDxsaT48YSBocmVmPSIvY29udGFjdC11cy9kYXRhLXJlY292ZXJ5L2FzaWEtcGFjaWZpYy8iPkFzaWEvUGFjaWZpYzwvYT48L2xpPg0KICAgICAgICA8bGk+PGEgaHJlZj0iL2NvbnRhY3QtdXMvZGF0YS1yZWNvdmVyeS9ldXJvcGUvIj5FdXJvcGU8L2E+PC9saT4NCiAgICAgICAgPGxpPjxhIGhyZWY9Ii9jb250YWN0LXVzL2RhdGEtcmVjb3Zlcnkvbm9ydGgtYW1lcmljYS8iPk5vcnRoIEFtZXJpY2E8L2E+PC9saT4NCiAgICAgIDwvdWw+DQogICAgPC9saT4NCiAgICA8bGkgY2xhc3M9Im1lbnVwYXJlbnQiPg0KICAgICAgICA8YSBocmVmPScvY29udGFjdC11cy9sZWdhbC10ZWNobm9sb2dpZXMvJz5MZWdhbCBUZWNobm9sb2dpZXM8L2E+DQogICAgICAgIDx1bD4NCiAgICAgICAgPGxpPjxhIGhyZWY9Ii9jb250YWN0LXVzL2xlZ2FsLXRlY2hub2xvZ2llcy9hc2lhLXBhY2lmaWMvIj5Bc2lhL1BhY2lmaWM8L2E+PC9saT4NCiAgICAgICAgPGxpPjxhIGhyZWY9Ii9jb250YWN0LXVzL2xlZ2FsLXRlY2hub2xvZ2llcy9ldXJvcGUvIj5FdXJvcGU8L2E+PC9saT4NCiAgICAgICAgPGxpPjxhIGhyZWY9Ii9jb250YWN0LXVzL2xlZ2FsLXRlY2hub2xvZ2llcy9ub3J0aC1hbWVyaWNhLyI+Tm9ydGggQW1lcmljYTwvYT48L2xpPg0KICAgICAgPC91bD4NCiAgICA8L2xpPg0KICA8L3VsPg0KPC9saT5kAgUQZGQWAgIBDxYCHwAFDlByaXZhY3kgUG9saWN5ZGQuk7mS9vtG5o/c7Ps2K6LhoNnGzg==">
-</div>
-
+<!-- End of Top Navigation  -->
+    <!-- End RD List Top Nav --> 
+    <!-- BREADCRUMB -->
+    <div id="Path">
+        
+     </div>
+<!-- END breadcrumb div -->
             <rde-dm:query searchable="true">
-            <!-- START SEARCHABLE SECTION -->
-                <!-- BREADCRUMB -->
-<div id="breadcrumb">
-  <p class="breadcrumb">
-  
-  Privacy Policy
-  </p>
-</div><!-- END breadcrumb div -->
-
-
-
-<rde-dm:query searchable="true">
-<!-- START SEARCHABLE SECTION -->
-
-    <div id="subTitleBand">
-       <h1><!--Privacy Policy-->Privacy Policy</h1>
-    </div>
-    <div id="ContentMain">
-        
-        <!--  SUB BODY -->
-        <p><strong>Last Revision Date: August 2008</strong></p>
-<p>Kroll Ontrack is committed to maintaining the privacy of the personal information you share with us when using this site and in communicating with us during our performance of services for you. We will not sell, distribute or rent information about you and your contact with Kroll Ontrack. We will only use the personal information you share with us for the purposes of carrying out the services or transactions you have requested; enhancing your use of our web site and&nbsp;sending you information about our products and services. Please take a moment to read our Privacy Policy for a better understanding of the measures we take to protect you and the personal information you share with us. </p>
-<p>This Privacy Policy will explain the following regarding our collection of information:</p>
-<p><a href="#info">The information we collect.</a><br><a href="#collect">How we use and protect the information we collect.</a><br><a href="#optout">How to opt-out.</a><br><a href="#access">How to gain access to the information we have on file for you.</a><br><a href="#harbor">Safe Harbor.</a><br><a href="#cookies">Our use of cookies.</a><br><a href="#notification">Notification of changes.</a></p>
-<hr noshade="" size="1">
-
-<p><a name="info"></a><b>The information we collect.</b> </p>
-<ul>
-<li>We allow you to register to receive periodic e-mail correspondence from us or to otherwise receive it in connection with the services you are receiving from us. The information we collect for this purpose is your name, company name, physical mailing address&nbsp;and your e-mail address. </li>
-<li>Whenever you complete a transaction with us (either via entering into a services agreement or a purchase made via this web site), we obtain from you the information we need to complete your transaction. To process your order, we require you to supply us with your correct billing, shipping and contact information. The transfer of this information is secure and cannot be received or read by others. </li>
-<li>In the course of performing services for you, you may provide to us data and information that is either contained within hard-copy documents or stored on various types of electronic storage media (e.g. back-up tapes, hard drives, CD/DVD) and provide us with your instructions regarding information you would like for us to make available for your review.</li></ul>
-<hr noshade="" size="1">
-
-<p><b><a name="collect"></a>How we use and protect the information we collect.</b></p>
-<ul>
-<li><strong>Data &amp; Media</strong> 
-<ul>
-<li>During our performance of services, we will act on your instructions as contained in communications with us and any associated contracts for our services and will retrieve and process only that information you have authorized us to retrieve and process. </li>
-<li>In addition, Kroll Ontrack has in place various security policies and practices that are managed by its Security and Information Technology departments that are designed to protect the information you share with us from loss, misuse, unauthorized access or disclosure.</li></ul></li>
-<li><strong>E-mail Messages</strong> 
-<ul>
-<li>We will send occasional e-mail messages to let you know about changes to our web site, promotional offers and special discounts on products that we believe will be of interest to you. </li>
-<li>E-mail messages also may be sent to invite you to a seminar or to provide you with information about a product you have purchased from Kroll Ontrack. </li>
-<li>We may also communicate with you via e-mail to advise you of the progress of our services or to solicit additional information from you about the services.</li></ul></li>
-<li><strong>Online Orders</strong> 
-<ul>
-<li>We use the personal information you supply to complete and ship your order or, if applicable, to administer the online account you have with us. Your e-mail address is used to send you an order confirmation, as well as to alert you to any changes in the availability of the items you ordered.</li></ul></li>
-<li><strong>Surveys &amp; Contests</strong><br>Occasionally, Kroll Ontrack requests information through surveys or contests. Requested information may include contact information (such as your name and shipping address) and demographic information (such as your zip code and occupation). Contact information will be used to notify contest winners and award prizes. Participation in these surveys or contests is completely voluntary and is limited to those 18 years or older and as otherwise permitted by law.</li></ul>
-<hr noshade="" size="1">
-
-<p><b><a name="optout"></a>How to opt-out.</b><br>If you no longer wish to receive periodic e-mail from us, please follow the unsubscribe instructions located at the bottom of the e-mail or send us an e-mail at <a href="mailto:remove@krollontrack.com">remove@krollontrack.com</a>. 
-</p><hr noshade="" size="1">
-
-<p></p>
-<p><b><a name="access"></a>How to gain access to the information we have on file for you.</b><br>There may be times when you wish to gain access to the information we have on file for you. To receive a copy of this information, please send us an e-mail at <a href="mailto:privacy@krollontrack.com">privacy@krollontrack.com</a> or call toll-free at (800) 752-1333.</p>
-<hr noshade="" size="1">
-
-<p><a name="harbor"></a><strong>Safe Harbor</strong>.<br>Kroll Ontrack complies with the European Union Safe Harbor Principles regarding the collection and use of personal information obtained from its European Union customers, including Kroll Ontrack's European subsidiaries and affiliates, and is a member of the Safe Harbor framework.</p>
-<p>For those European Union customers for whom we are providing service in the United States who have questions or concerns about Kroll Ontrack's use of the information you provided to us, we ask that you first raise the issue with the Kroll Ontrack representative with whom you are working.</p>
-<p>If discussions with Kroll Ontrack do not resolve your inquiry, you may contact the Better Business Bureau Online at <a href="http://www.bbbonline.org/" target="_blank">http://www.bbbonline.org/</a>, an independent group we have retained to provide dispute resolution services regarding Kroll Ontrack's participation in and compliance with the Safe Harbor framework.</p>
-<hr noshade="" size="1">
-
-<p><b><a name="cookies"></a>Our use of cookies.</b><br>A "cookie" is a small data file stored by your web browser on your computer's hard drive. Cookies allow us to recognize who you are when you arrive at our site by associating the identification numbers in the cookie with other information you as a customer have provided us.</p>
-<p>Cookies allow us to understand how you clicked to our site and what pages you click on during your visit to our site. Knowing who you are and how you prefer to navigate allows us to personalize your web experience and provide you with the content that you are most interested in viewing.</p>
-<p>Accepting cookies through your web browser is your personal choice. You can still browse and purchase from this site even if you set your browser to disable cookies.</p>
-<hr noshade="" size="1">
-
-<p><b><a name="notification"></a>Notification of changes.<br></b>We may occasionally update this Privacy Policy. When we post changes to this policy, we will revise the "last revision date" at the top of this policy. We encourage you to periodically review this policy to be informed of how Kroll Ontrack is protecting your information.</p>
-        <!-- END SUB BODY -->
- 
-        
-        
-    </div>
-<!-- END SEARCHABLE SECTION -->
-</rde-dm:query>
-                
-            <!-- END SEARCHABLE SECTION -->
-            </rde-dm:query>
-        </form>
-        <!--  END MAIN BODY  -->
-    </div>
-</div>  <!--  END sp-mainarea  -->
-  
-
-
-
-<div id="footer">
-<p><a href="http://www.krollontrack.com"><img border="0" alt="Kroll Ontrack" src="/images/krollontrack_logo.gif" width="133" height="15"></a> <!-- Bottom Navigation --><a title="Privacy Policy" href="/privacy/">Privacy Policy</a> | <a title="Legal Notices" href="/legal-notices/">Legal Notices</a> | <a title="Site Map" href="/site-map.aspx">Site Map</a><!-- end Bottom Navigation --><br>
-<script language="JavaScript" type="text/javascript">
-        var d;
-        d = new Date();
-        document.write("Copyright&#0169; " + d.getFullYear() + " Kroll Ontrack Inc.  All Rights Reserved.");
-</script>Copyright© 2020 Kroll Ontrack Inc.  All Rights Reserved.
-</p></div><!-- end #container --> 
-<rde-dm:query searchable="true">
-
-</rde-dm:query>
-
-<!--  -->
-
-</div>
-
+                <div id="ContentInside">
 <!--
 <rde-dm:import>
 <keywords mode="deleteall"></keywords>
 <keywords>
-
+    
 </keywords>
 </rde-dm:import>
--->
-<!-- 
-Privacy Policy
-<title>Privacy Policy</title>
--->
+-->    
+    <!-- bodyonly  -->
+    <!-- hide  -->
         
-        <!--
+<div class="Middle Full">
+        
+        
+                
+        <!--  MAIN BODY  --> 
+        
+        <form name="aspnetForm" method="post" action="/privacy/" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzEwMjA0MDY1D2QWAmYPZBYCZg9kFgJmD2QWAgIBD2QWAmYPFgIeBFRleHQFkw48c2VsZWN0IG5hbWU9ImxvY2FsZXNlbGVjdG9yIiBpZD0ibG9jYWxlc2VsZWN0b3IiIG9uY2hhbmdlPSJqYXZhc2NyaXB0OndpbmRvdy5vcGVuKCdodHRwOi8vJytkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnbG9jYWxlc2VsZWN0b3InKS52YWx1ZSwnX2JsYW5rJykiPiANCjxvcHRpb24gc2VsZWN0ZWQ9J3NlbGVjdGVkJyB2YWx1ZT0nd3d3Lmtyb2xsb250cmFjay5jb20nPiBVbml0ZWQgU3RhdGVzIChjaGFuZ2UpIDwvb3B0aW9uPiANCjxvcHRpb24gdmFsdWU9J3d3dy5vbnRyYWNrZGF0YXJlY292ZXJ5LmNvbS5hdSc+IEF1c3RyYWxpYTwvb3B0aW9uPiANCjxvcHRpb24gdmFsdWU9J3d3dy5vbnRyYWNrLmF0Jz4gQXVzdHJpYTwvb3B0aW9uPiANCjxvcHRpb24gdmFsdWU9J3d3dy5vbnRyYWNrZGF0YXJlY292ZXJ5LmJlJz4gQmVsZ2l1bTwvb3B0aW9uPiANCjxvcHRpb24gdmFsdWU9J3d3dy5vbnRyYWNrZGF0YXJlY292ZXJ5LmNhJz4gQ2FuYWRhPC9vcHRpb24+IA0KPG9wdGlvbiB2YWx1ZT0nd3d3LmliYXMuZGsnPiBEZW5tYXJrPC9vcHRpb24+IA0KPG9wdGlvbiB2YWx1ZT0nd3d3LmliYXMuZmknPiBGaW5sYW5kPC9vcHRpb24+IA0KPG9wdGlvbiB2YWx1ZT0nd3d3Lm9udHJhY2suZnInPiBGcmFuY2U8L29wdGlvbj4gDQo8b3B0aW9uIHZhbHVlPSd3d3cub250cmFjay5kZSc+IEdlcm1hbnkgLSBEYXRhIFJlY292ZXJ5PC9vcHRpb24+IA0KPG9wdGlvbiB2YWx1ZT0nd3d3Lmtyb2xsb250cmFjay5kZSc+IEdlcm1hbnkgLSBMZWdhbCBUZWNobm9sb2dpZXM8L29wdGlvbj4gDQo8b3B0aW9uIHZhbHVlPSd3d3cub250cmFja2RhdGFyZWNvdmVyeS5jb20uaGsnPiBIb25nIEtvbmc8L29wdGlvbj4gDQo8b3B0aW9uIHZhbHVlPSd3d3cub250cmFja2RhdGFyZWNvdmVyeS5pZSc+IElyZWxhbmQ8L29wdGlvbj4gDQo8b3B0aW9uIHZhbHVlPSd3d3cub250cmFja2RhdGFyZWNvdmVyeS5pdCc+IEl0YWx5PC9vcHRpb24+IA0KPG9wdGlvbiB2YWx1ZT0nd3d3Lm9udHJhY2stamFwYW4uY29tJz4gSmFwYW48L29wdGlvbj4gDQo8b3B0aW9uIHZhbHVlPSd3d3cub250cmFja2RhdGFyZWNvdmVyeS5ubCc+IE5ldGhlcmxhbmRzPC9vcHRpb24+IA0KPG9wdGlvbiB2YWx1ZT0nd3d3LmliYXMubm8nPiBOb3J3YXk8L29wdGlvbj4gDQo8b3B0aW9uIHZhbHVlPSd3d3cua3JvbGxvbnRyYWNrLnBsJz4gUG9sYW5kIC0gRGF0YSBSZWNvdmVyeTwvb3B0aW9uPiANCjxvcHRpb24gdmFsdWU9J3d3dy5jb21wdXRlcmZvcmVuc2ljcy5wbCc+IFBvbGFuZCAtIExlZ2FsIFRlY2hub2xvZ2llczwvb3B0aW9uPiANCjxvcHRpb24gdmFsdWU9J3d3dy5rcm9sbG9udHJhY2sucHQnPiBQb3J0dWdhbDwvb3B0aW9uPiANCjxvcHRpb24gdmFsdWU9J3d3dy5vbnRyYWNrLnJ1Jz4gUnVzc2lhPC9vcHRpb24+IA0KPG9wdGlvbiB2YWx1ZT0nd3d3Lm9udHJhY2tkYXRhcmVjb3ZlcnkuY29tLnNnJz4gU2luZ2Fwb3JlPC9vcHRpb24+IA0KPG9wdGlvbiB2YWx1ZT0nd3d3Lm9udHJhY2tkYXRhcmVjb3ZlcnkuZXMnPiBTcGFpbjwvb3B0aW9uPiANCjxvcHRpb24gdmFsdWU9J3d3dy5pYmFzLnNlJz4gU3dlZGVuPC9vcHRpb24+IA0KPG9wdGlvbiB2YWx1ZT0nd3d3LmRhdGVucmV0dHVuZy5jaCc+IFN3aXR6ZXJsYW5kPC9vcHRpb24+IA0KPG9wdGlvbiB2YWx1ZT0nd3d3Lm9udHJhY2tkYXRhcmVjb3ZlcnkuY28udWsnPiBVbml0ZWQgS2luZ2RvbTwvb3B0aW9uPiANCjxvcHRpb24gdmFsdWU9J3d3dy5rcm9sbG9udHJhY2suY28udWsnPiBVbml0ZWQgS2luZ2RvbSAtIExlZ2FsIFRlY2hub2xvZ2llczwvb3B0aW9uPiANCjwvc2VsZWN0PmRk4Fww1mJzPPwuRAhAXIJCk2D6Pn4=">
+</div>
+
             
-        -->
-<script type="text/javascript" language="JavaScript" src="/media/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/media/elqNow/elqImg.js"></script>
+            <!-- START SEARCHABLE SECTION -->
+                <div id="sp-actions">
+                    <!-- AddThis Button BEGIN -->
+                    <div class="addthis_toolbox addthis_default_style">
+                        <a class="addthis_button_facebook"></a>
+                        <a class="addthis_button_email"></a>
+                        <a class="addthis_button_favorites"></a>
+                        <a class="addthis_button_print"></a>
+                        <span class="addthis_separator">|</span>
+                        <a class="addthis_button_compact"></a>
+                    </div>
+                    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4cfea4ab5be88ba9"></script>
+                    <!-- AddThis Button END -->
+                </div>
+                <h1>Privacy Policy</h1>
+                
+                <strong>Last Revision Date: December 23, 2010</strong>
+<p>Kroll Ontrack (“Ontrack”) recognizes the importance of protecting your privacy. The following privacy policy (“Privacy Policy”) describes what information Ontrack collects, how Ontrack collects that information, and how Ontrack stores, uses, transfers, and discloses (collectively “Uses”) the collected information. This Privacy Policy is subject to Ontrack’s <a title="Kroll Ontrack Website Terms of Use Agreement" href="/terms/">Terms of Use Agreement</a> (“TOU”), which can be found at the bottom of the web site home page. You should print a copy of this Privacy Policy for your records, and you should also know that Ontrack may update or amend this Privacy Policy from time to time as Ontrack deems necessary. When Ontrack updates or amends its Privacy Policy, we will post the revision date of the updated or amended Privacy Policy at the top of the document.</p>
+<p><strong>Affiliate, Partner and Third-Party Web Sites</strong></p>
+<p>This Privacy Policy applies to this web site only. To the extent that this web site permits you to link to other web sites of Ontrack’s affiliates, partners, or other third-parties, separate privacy polices may apply to those linked web sites. Those separate privacy policies may contain different terms that are not the same as those terms contained in Ontrack’s Privacy Policy. Your access to and use of such linked web sites through links that are provided on this web site are not governed by this Privacy Policy. Rather, your access to and use of such linked web sites are governed by the privacy polices in those linked web sites, and Ontrack expressly disclaims any and all responsibility for your access to and use of such linked web sites, as well as for any use of the information that you may provide, or any information that may be collected about you, at such linked web sites.</p>
+<p><strong>Purpose of Collection of Personal Information</strong></p>
+<p>Personal Information is data that can be used to uniquely identify or contact an individual. Ontrack collects Personal Information in order to complete online transactions that you may place with us, and also to act upon instructions that you may give to us.</p>
+<p><strong>What Personal Information Ontrack Actively Collects</strong></p>
+<ul>
+<li>When you register to receive periodic email correspondence from us or to download information from our website, or to give us instructions regarding your account, we may collect Personal Information that includes, but is not limited to, your name, company name, physical mailing address, your email address, and phone number(s). </li>
+<li>When you complete a transaction with us, such as purchasing a product or entering into a services agreement, we may collect Personal Information that includes, but is not limited to, billing information such as credit card numbers and security codes, shipping information and contact information. We do not collect social security numbers. </li>
+<li>When you attend trade shows or other events, we may collect Personal Information that includes, but is not limited to, your name, company, address, email address, work address, and phone numbers.</li></ul>
+<p><strong>What Personal Information Ontrack Passively Collects: Cookies and Other Technologies</strong></p>
+<p>Ontrack’s web site, online services, applications, email messages, and advertisements, if any, may use “cookies” and other technologies such as pixel tags and web beacons ( pixel tags and web beacons are together known as “Other Technologies”) to collect information about you. A cookie is a small data file stored on the web browser on your computer’s hard drive. A cookie associates the identification numbers built into the cookie with information about you that you have provided to us. This association allows us to recognize who you are when you arrive at our web site. Other Technologies tell us where on our website you have visited, counts how many users visited certain web pages within our web site, and measures the effectiveness of advertisements, if any, and web searches.</p>
+<p>Like most web sites, we also automatically collect some tracking information and store that tracking information in an anonymous, aggregated and non-personal format. This tracking information includes Internet Protocol (IP) addresses, browser type and language, Internet Service Provider (ISP), operating system used, date and time stamps and click stream data. We use this tracking information to understand and analyze trends, to administer our web site, and to learn about user behavior on our web site. However, Ontrack may use IP addresses to identify you when Ontrack feels, in its sole discretion, that it is necessary to enforce compliance with its TOU, this Privacy Policy, to protect its services, Web Site, systems, information, employees, business partners, affiliates, users, customers or others, or when required by law.</p>
+<p><strong>Disclosure of Personal Information to Third Parties</strong></p>
+<p>As a general rule, Ontrack does not share with or disclose to any third parties any specific Personal Information, except (a) as otherwise described in this Privacy Policy, (b) when Ontrack has your permission, or (c) under special circumstances such as, but not limited to, when Ontrack believes in good faith that the law requires such disclosure, or when the disclosure will protect the safety of others.</p>
+<p>Affiliates: Ontrack may share any or all of your Personal Information with and among its affiliated or related entities, including Ontrack affiliates located in the EU and elsewhere. Any onward transfer of your Personal Information is pursuant to the Safe Harbor Privacy Framework, discussed later in this Privacy Policy. The transfer of your Personal Information to our affiliates is done to allow these entities to offer you information about their businesses, products or services that may be of interest to you, or for other lawful business purposes.</p>
+<p>Business Partners and Service Providers: Ontrack may share your Personal Information with companies which provide services such as, but not limited to, online chat, product promotion via email, order fulfillment, e-commerce, delivering products to you, managing and enhancing customer data, providing customer service, assessing your interest in products and services, information processing, conducting customer research or satisfaction surveys, and online job applications. These companies are obligated to protect your Personal Information.</p>
+<p>Other: Ontrack may, if required by law, legal process, litigation and/or requests from public or governmental authorities, disclose your Personal Information. We may also disclose Personal Information about you if we determine, in good faith and in our sole discretion, that such disclosure is necessary for purposes of national security, law enforcement, the prevention of a crime, or other issues of public importance. We may also disclose Personal Information about you if we determine, in our sole discretion, that it is reasonably necessary to enforce the TOU, or to protect our operations or users. Additionally, in the event of a corporate reorganization, merger or acquisition, or sale, we may transfer any and all Personal Information we collect to a relevant third party.</p>
+<p><strong>Opting Out: How You Control the Use of Your Personal Information</strong></p>
+<p>In the event you decide that you want to opt out from Ontrack’s use of your Personal Information that you previously provided to Ontrack, you may opt out of our use of your Personal Information by notifying Ontrack by email at: <a href="mailto:remove@krollontrack.com">remove@krollontrack.com</a>.</p>
+<p><strong>Integrity, Protection and Retention of Your Personal Information</strong></p>
+<p>While Ontrack endeavors to protect your Personal Information, we cannot warrant the security of any Personal Information, and ultimately you provide your Personal Information to us at your own risk. Ontrack uses industry standard efforts and security practices to safeguard your Personal Information, and we use commercially reasonable efforts to use different security measures designed to protect your Personal Information from access by unauthorized persons. Some of those measures include, but may not be limited to, encryption, firewalls and use of Secure Socket Layers (SSL). Ontrack retains your Personal Information for the period necessary to fulfill the purpose for which it was collected, as outlined previously in this Privacy Policy, unless a longer retention period is mandated or permitted by law.</p>
+<p><strong>European Union Users: United States Department of Commerce Safe Harbor Certification</strong></p>
+<p>Ontrack is self-certified with the United States Department of Commerce (DOC) as compliant with the Safe Harbor Privacy Framework. We abide by the privacy principles set forth by the DOC regarding the collection, use, transmission, and retention of Personal Information of residents of the European Union (EU). These privacy principles can be found at <a href="http://www.export.gov/safeharbor/eg_main_018236.asp" target="_blank">http://www.export.gov/safeharbor/eg_main_018236.asp</a>. We have a mechanism for you to access, correct, or update your Personal Information, as described below. If there is an unresolved dispute as to the collection, use, transmission or retention of your Personal Information, we have retained the services of an independent third party, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus, to resolve these disputes. You may contact the BBB EU Safe Harbor to utilize their dispute resolution services at: <a href="http://www.bbb.org/us" target="_blank">http://www.bbb.org/us</a>.</p>
+<p><strong>Access to Personal Information</strong></p>
+<p>There may be times that you wish to access your Personal Information. Ontrack makes good faith efforts to provide you with access to your Personal Information so you can instruct us to correct or update the Personal Information if it is inaccurate, or delete your Personal Information if Ontrack is not required to retain it by law or for a legitimate business purpose. To receive a copy of your Personal Information, or to provide instructions to us on what you want corrected or updated, send us an e-mail at: <a href="mailto:privacy@krollontrack.com">privacy@krollontrack.com</a>.</p>
+<p><strong>Children</strong></p>
+<p><strong>This web site is not intended for use by children. Ontrack does not knowingly solicit or collect Personal Information from children under the age of 13. If you are under the age of 18, you must obtain the consent of your parent or guardian to use this Web Site.</strong></p>
+<p><strong>Changes to this Privacy Policy and Notification to You</strong></p><strong>
+<p>Ontrack reserves the right, in its sole discretion, to make changes to this Privacy Policy. When we make changes to the Privacy Policy, we will revise the “Last Revision Date” field at the top of the Privacy Policy so you know the most recent version of the Privacy Policy and when the changes became effective. Changes to the Privacy Policy become effective upon posting and updating the “Last Revision Date”. We encourage you to periodically review the Privacy Policy to be informed of any changes.</p>
+<p>&nbsp;</p></strong>
+                
+                
+                
+            <!-- END SEARCHABLE SECTION -->
+        </form>
+        
+    
+        <!--  END MAIN BODY  -->
+    </div> 
+     
+<!--
+    ******  ELEMENTS FOR GOOGLE SITEMAPT *******     
+    <Frequency>daily</Frequency>
+    <Priority>1.00</Priority>
+-->
+
+<br class="left">
+</div>
+            </rde-dm:query>
+        
+                <div style="display:none">
+                    Privacy for you and your information - Kroll Ontrack
+                    
+                    
+                </div>
+
+        <div class="Footer">
+        
+    
+    
+    
+    <div id="Footer-rightbox">
+<div class="footer-rightinnerbox"><span>Follow us...</span> <br><a title="RSS" href="/rss/"><img src="/images/icon_rss.gif"></a><a href="http://www.linkedin.com/company/krollontrack"><img src="/images/icon_linkedin.gif"></a><a href="http://www.facebook.com/krollontrackus/"><img src="/images/icon_facebook.gif"></a><a href="http://twitter.com/krollontrack/"><img src="/images/icon_twitter.gif"></a></div></div><a title="Contact Us" href="/company/contact-us/">Contact Us</a> <a title="Careers" href="/company/careers/">Careers</a>&nbsp;<a title="Legal Notices" href="/legal-notices/">Legal Notices</a> <a title="Privacy Policy" href="/privacy/">Privacy Policy</a> <a title="Web Site Terms of Use Agreement" href="/terms/">Terms of Use</a> <a class="right" href="/site-map/">Site Map</a> <br>
+<div id="Footer-copyright">Copyright © 2011 Kroll Ontrack Inc. All Rights Reserved</div><br class="both"> 
+</div>  <!-- End Footer -->
+    </div> <!-- End container -->
+<!-- Begin Eloqua Tracking Code -->
+<script type="text/javascript" language="JavaScript" src="/scripts/elqNow/elqCfg.js"></script>
+<script type="text/javascript" language="JavaScript" src="/scripts/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2498&amp;ref2=elqNone&amp;tzo=0&amp;ms=287" border="0" width="1" height="1"></layer>
+<!-- End Eloqua Tracking Code -->
+<rde-dm:import>
+<keywords mode="deleteall"></keywords>
+<keywords></keywords>
+</rde-dm:import>
+</div>
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div> <script type="text/javascript">
+if(document.location.protocol!='https:')
+  document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRb6.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(17296,0.0089,"www02"); </script>
+<!-- ClickTale end of Bottom part -->
 
 
 
