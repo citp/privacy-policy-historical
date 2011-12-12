@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ftbpro.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613234704id_/http%3A//www.ftbpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftbpro.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212182257id_/http%3A//www.ftbpro.com/privacy) for the most accurate reproduction.*
 
-# FTB Pro
+# FTBpro | Privacy Policy
 
 We recognize that your privacy is very important and take it seriously. This Privacy Policy describes FTBpro's policies and procedures on the collection, use and disclosure of your information when you use the FTBpro Service. We will not use or share your information with anyone except as described in this Privacy Policy. ThisPrivacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service.
 
