@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the imd.org privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619021837id_/http%3A//www.imd.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imd.org privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212164118id_/http%3A//www.imd.org/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
-  
+IMD PRIVACY COMMITTEE   
 Chemin de Bellerive 23  
 P.O. Box 915  
 CH-1001 Lausanne,  
