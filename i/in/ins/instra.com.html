@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the instra.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630073050id_/http%3A//www.instra.com/en/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the instra.com privacy policy that was archived on 2011-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111212054250id_/http%3A//www.instra.com/en/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy  - Instra Corporation - Global Domain Name Registration Services</title>
@@ -12,32 +12,56 @@
 <meta name="robots" content="FOLLOW, INDEX">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
  
-<link type="text/css" href="/include/css/main.css" rel="stylesheet">
+<link type="text/css" href="http://www.instra.com/include/css/main.css" rel="stylesheet">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<script type="text/javascript" src="/include/js/jquery-1.2.6.pack.js"></script>
-<script type="text/javascript" src="/include/js/main.js"></script>
+<script type="text/javascript" src="http://www.instra.com/include/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="http://www.instra.com/include/js/slider.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	if($('#slider').length > 0) {
+	  $('#slider').nivoSlider({
+	  	effect: 'boxRain,boxRainReverse',
+	  	pauseTime: 5000
+	  
+	  });
+	}
+});
+</script>
+<script type="text/javascript" src="http://www.instra.com/include/js/main.js"></script>
 </head>
 <body>           
-<div id="contain">
+<div id="contain">	
   <!-- Header -->
   <div id="header">
-    <div class="text"><a href="http://www.instra.com"><img src="/media/img/instra_logo.gif" class="locate" alt=""></a>
+    <div class="text"><a href="http://www.instra.com"><img src="http://www.instra.com/media/img/instra_logo.gif" class="locate" alt=""></a>
 	<div id="top_links"> 
-    <img src="/media/img/user.png" style="height: 10px; width: 10px;" alt="new account"><a href="https://www.instra.com/en/create_user_account/enduser">Create New Account</a><img src="/media/img/login-bullet.gif" style="height:9px; width:8px;" alt="Log in"><a href="https://www.instra.com/en/login">Log In</a>         <img src="/media/img/faq.gif" alt="Faq"> <a href="http://www.instra.com/en/faqsupport">FAQ Support</a> 
-         <img src="/media/img/contactus.png" style="height:9px; width:11px;" alt="Contact Us">
+    <img src="http://www.instra.com/media/img/user.png" style="height: 10px; width: 10px;" alt="new account"><a href="https://www.instra.com/en/create_user_account/enduser">Create New Account</a><img src="http://www.instra.com/media/img/login-bullet.gif" style="height:9px; width:8px;" alt="Log in"><a href="https://www.instra.com/en/login">Log In</a>         <img src="http://www.instra.com/media/img/faq.gif" alt="Faq"> <a href="http://www.instra.com/en/faqsupport">FAQ Support</a> 
+         <img src="http://www.instra.com/media/img/contactus.png" style="height:9px; width:11px;" alt="Contact Us">
          <a href="http://www.instra.com/en/about-us/contact-us">Contact Us </a>
-         <img src="/media/img/shopping-cart.gif" alt="Shopping Cart">
-         <a href="javascript:view_cart();">View Cart<span id="span_view_cart">&nbsp; (0)</span></a>
+         <img src="http://www.instra.com/media/img/shopping-cart.gif" alt="Shopping Cart">
+         <a href="javascript:view_cart();">View Cart<span id="span_view_cart"> (0)</span></a>
 		
 		 <script language="JavaScript" type="text/JavaScript">
-		  function view_cart(){
+		  function view_cart() {
 		  	var cart_quantity = document.getElementById('span_view_cart').innerHTML;
 		  	cart_quantity = cart_quantity.substr(cart_quantity.indexOf('('));
 		  	cart_quantity = cart_quantity.substr(1,cart_quantity.lastIndexOf(')')-1);		  	
 		  	if(parseInt(cart_quantity) > 0)
-			  	window.open("https://www.instra.com/en/domain-application/login/step-01","_self");			else
-				alert("Shopping cart is empty!");
-		  		  }
+			  	window.open("https://www.instra.com/en/domain-application/login/step-01","_self");				else
+					alert("Shopping cart is empty!");		  
+		  }
+
+		  function update_cart(qty) {
+			  try {
+				  qty = parseInt(qty);		  
+					document.getElementById('span_view_cart').innerHTML = ' (' + qty + ')';
+			  } catch(e){}
+
+			  if(parseInt(qty) <= 0) {
+					alert("Shopping cart is empty!");
+					window.location = "http://www.instra.com";
+			  }
+			}
 		  
 		  function check_zone_value(url){
 		  	if(document.getElementById('zone').value==""){
@@ -46,12 +70,25 @@
 		  		window.location.href=url;
 		  	}
 		  }
-		  
+
+		  function escapeHtml(unsafe) {
+			  return unsafe
+			      .replace(/&/g, "&amp;")
+			      .replace(/</g, "&lt;")
+			      .replace(/>/g, "&gt;")
+			      .replace(/"/g, "&quot;")
+			      .replace(/'/g, "&#039;");
+			}
+
+		  function stripHtmlTags(input) {
+				var matchTag = /<(?:.|s)*?>/g;
+				return input.replace(matchTag,"");
+			}
 		</script> 
 		<br><br>
            <div id="whois">WHOIS SEARCH&nbsp;&nbsp;
             <input type="text" name="zone" id="zone" class="whois_t" onkeypress="if (event.keyCode == 13){document.getElementById('who_is_search_btn').click()}">&nbsp;&nbsp;
-            <input id="who_is_search_btn" name="who_is_search_btn" onmouseover="javascript:style.cursor='pointer'" type="button" value="" onclick="check_zone_value('http://www.instra.com/en/whois/whois-result/'+(document.getElementById('zone').value.replace(/(\.)/g,'_')).replace(/(\ )/g,''))" class="whois_bg"></div>
+            <input id="who_is_search_btn" name="who_is_search_btn" onmouseover="javascript:style.cursor='pointer'" type="button" value="" onclick="check_zone_value('http://www.instra.com/en/whois/whois-result/'+encodeURIComponent(escapeHtml(stripHtmlTags(document.getElementById('zone').value.replace(/(\.)/g,'_').replace(/(\ )/g,'')))))" class="whois_bg"></div>
       </div>
     </div>
   </div>
@@ -190,7 +227,7 @@
 	<!-- ticker or navigation links start -->
 				<!-- navigation links start -->
 			<div class="header_t">
-			&nbsp;&nbsp;&nbsp;<a href="http://www.instra.com" title="home">Home</a> &gt; <a href="http://www.instra.comen/about-us/" title="about-us">About Us</a> &gt; Privacy Policy			</div>
+			&nbsp;&nbsp;&nbsp;<a href="http://www.instra.com" title="home">Home</a> &gt; <a href="http://www.instra.com/about-us/" title="about-us">About Us</a> &gt; Privacy Policy			</div>
 		<!-- navigation links end   -->
 			<!-- ticker or navigation links end   -->
 	
@@ -372,11 +409,12 @@
 <!-- end right -->
 
 <!-- foot -->
- </div>
+	</div>
   <!-- End of Main Background -->
-  <!-- Footer -->
-  <link rel="stylesheet" type="text/css" href="/include/css/jscroller2-1.0.css">
-  <script type="text/javascript" src="/include/js/jscroller2-1.5.js"></script>
+  
+    <!-- Footer -->
+  <link rel="stylesheet" type="text/css" href="http://www.instra.com/include/css/jscroller2-1.0.css">
+  <script type="text/javascript" src="http://www.instra.com/include/js/jscroller2-1.5.js"></script>
   	
   	<div style="text-align:center;"> 
 		  	<div id="footer"></div>  	
@@ -386,54 +424,53 @@
 				<tbody><tr>
 					<td>
 						<div id="scroller_container" style="width: 930px; height:70px; overflow:hidden;position:relative;padding-left:1px">
-						
-							 <div id="scrollabeContent" class="jscroller2_left jscroller2_speed-20 jscroller2_mousemove jscroller2_ignoreleave" style="background-color: rgb(255, 255, 255); position: absolute; left: -8px; top: 0px; height: 70px;">
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo1-icann.gif" alt="icann"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo2-auda.gif" alt="auda"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo3-nz.gif" alt="nz"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo4-hkndr.gif" alt="hkndr"></a> 
-						 		<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo5-denic.gif" alt="denic"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo6-dk.gif" alt="dk"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo7-at.gif" alt="at"></a>								
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo9-sg.gif" alt="sg"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo10-eu.gif" alt="eu"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo11-asia.gif" alt="asia"></a>								 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo13-tw.gif" alt="tw"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo14-sw.gif" alt="sw"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo15-us.gif" alt="us"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo16-cn.gif" alt="cn"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo17-mobi.gif" alt="mobi"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo18-be.gif" alt="be"></a> 
+							 							 <div id="scrollabeContent" class="jscroller2_left jscroller2_speed-20 jscroller2_mousemove jscroller2_ignoreleave" style="background-color:#FFFFFF">
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo1-icann.gif" alt="icann"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo2-auda.gif" alt="auda"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo3-nz.gif" alt="nz"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo4-hkndr.gif" alt="hkndr"></a> 
+						 		<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo5-denic.gif" alt="denic"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo6-dk.gif" alt="dk"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo7-at.gif" alt="at"></a>								
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo9-sg.gif" alt="sg"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo10-eu.gif" alt="eu"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo11-asia.gif" alt="asia"></a>								 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo13-tw.gif" alt="tw"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo14-sw.gif" alt="sw"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo15-us.gif" alt="us"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo16-cn.gif" alt="cn"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo17-mobi.gif" alt="mobi"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo18-be.gif" alt="be"></a> 
 							 </div>
-							 <div class="jscroller2_left_endless" style="background-color: rgb(255, 255, 255); position: absolute; left: 587px; top: 0px; height: 70px;">
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo1-icann.gif" alt="icann"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo2-auda.gif" alt="auda"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo3-nz.gif" alt="nz"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo4-hkndr.gif" alt="hkndr"></a> 
-						 		<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo5-denic.gif" alt="denic"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo6-dk.gif" alt="dk"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo7-at.gif" alt="at"></a>								
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo9-sg.gif" alt="sg"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo10-eu.gif" alt="eu"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo11-asia.gif" alt="asia"></a>								 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo13-tw.gif" alt="tw"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo14-sw.gif" alt="sw"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo15-us.gif" alt="us"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo16-cn.gif" alt="cn"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo17-mobi.gif" alt="mobi"></a> 
-								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="/media/img/AccreditedLogos/logo18-be.gif" alt="be"></a> 
+							 <div class="jscroller2_left_endless" style="background-color:#FFFFFF">
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo1-icann.gif" alt="icann"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo2-auda.gif" alt="auda"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo3-nz.gif" alt="nz"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo4-hkndr.gif" alt="hkndr"></a> 
+						 		<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo5-denic.gif" alt="denic"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo6-dk.gif" alt="dk"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo7-at.gif" alt="at"></a>								
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo9-sg.gif" alt="sg"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo10-eu.gif" alt="eu"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo11-asia.gif" alt="asia"></a>								 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo13-tw.gif" alt="tw"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo14-sw.gif" alt="sw"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo15-us.gif" alt="us"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo16-cn.gif" alt="cn"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo17-mobi.gif" alt="mobi"></a> 
+								<a href="http://www.instra.com/en/about-us/our-accreditation"><img src="http://www.instra.com/media/img/AccreditedLogos/logo18-be.gif" alt="be"></a> 
 							 </div>
 						
 						</div>
 					 </td>
 					 <td onmouseover="this.style.background = '#C0C0C0';" onmouseout="this.style.background = '#FFFFFF';">
-					 	<img src="/media/img/AccreditedLogos/arrow-right.gif" alt="arrow-right">
+					 	<img src="http://www.instra.com/media/img/AccreditedLogos/arrow-right.gif" alt="arrow-right">
 					 </td>
 				 </tr>
 			 </tbody></table>
 		 </div>
 	 </div>
- <script type="text/javascript" src="/include/js/jquery-1.2.6.pack.js"></script>
+
 <script type="text/javascript">
 
 $(document).ready(function() {
