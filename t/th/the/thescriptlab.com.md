@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614191439id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thescriptlab.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213002501id_/http%3A//thescriptlab.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and California Privacy Rights – The Script Lab
+# Privacy Policy and California Privacy Rights – Legal
 
 **What information do we collect?**
 
