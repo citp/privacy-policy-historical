@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whereforeclosures.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615060300id_/http%3A//www.whereforeclosures.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whereforeclosures.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212230100id_/http%3A//www.whereforeclosures.com/privacy-policy.html) for the most accurate reproduction.*
 
 # WhereForeclosures: Contact Us to find out more about Foreclosure Listings in your area
 
