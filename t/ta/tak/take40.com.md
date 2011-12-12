@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the take40.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614070001id_/http%3A//www.take40.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the take40.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213005738id_/http%3A//www.take40.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Take 40
 
