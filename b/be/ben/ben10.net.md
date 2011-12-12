@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ben10.net privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322200836id_/http%3A//www.ben10.net/legal/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ben10.net privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212010535id_/http%3A//www.ben10.net/legal/privacy.xhtml) for the most accurate reproduction.*
 
 # Welcome to Ben10.net
 
