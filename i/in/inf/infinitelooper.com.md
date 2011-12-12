@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitelooper.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623142219id_/http%3A//www.infinitelooper.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitelooper.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212105841id_/http%3A//www.infinitelooper.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy - InfiniteLooper
 
@@ -45,7 +45,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://www.InfiniteLooper.com/  
-[Email](mailto:admin@InfiniteLooper.com)  
-
