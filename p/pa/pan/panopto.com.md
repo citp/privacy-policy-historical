@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523185957id_/http%3A//www.panopto.com/site/Company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212201412id_/http%3A//www.panopto.com/site/Company/privacy.aspx) for the most accurate reproduction.*
 
 # Panopto
 
@@ -60,7 +60,7 @@ If you register with one of Panopto’s business units online, they may use this
 **We may update this privacy policy from time to time. When we do so, changes in our privacy policy will be effective immediately. If you are a regular visitor to this Site, we recommend that you check this privacy policy on a regular basis.
 
 **Opting Out  
-**If when using this Site you have previously furnished us with contact information, or you want to suspend or close-out your hosted account, please use the [ Contact Us](https://web.archive.org/web/20110523185957id_/http%3A//www.panopto.com/site/Contact/contact.aspx) page.
+**If when using this Site you have previously furnished us with contact information, or you want to suspend or close-out your hosted account, please use the [ Contact Us](https://web.archive.org/web/20111212201412id_/http%3A//www.panopto.com/site/Contact/contact.aspx) page.
 
 **Contacting Us  
-**If you have any questions about this privacy policy, please use the [Contact Us](https://web.archive.org/web/20110523185957id_/http%3A//www.panopto.com/site/Contact/contact.aspx) page. We welcome your questions and suggestions about our privacy policy.
+**If you have any questions about this privacy policy, please use the [Contact Us](https://web.archive.org/web/20111212201412id_/http%3A//www.panopto.com/site/Contact/contact.aspx) page. We welcome your questions and suggestions about our privacy policy.
