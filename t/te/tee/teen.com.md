@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teen.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613064709id_/http%3A//www.teen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teen.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212175103id_/http%3A//www.teen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teen.com
 
@@ -102,7 +102,7 @@ Please refer to our specific “[California Privacy Policy](https://web.archive.
 
 If you are visiting the Site from a location outside of the United States, your connection will be through and to servers located in the United States and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. **IN ADDITION, IF YOU ARE LOCATED OUTSIDE THE UNITED STATES, YOU SHOULD NOTE THAT YOUR INFORMATION WILL BE TRANSFERRED TO THE UNITED STATES, THE LAWS OF WHICH MAY BE DEEMED BY OTHER COUNTRIES TO HAVE INADEQUATE DATA PROTECTION**
 
- **(see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found here).**
+(see, for example, European Union Directive 95/46/EC of 24 October 1995, a copy of which can be found here).
 
 Users of the Site located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to and/or storage of the information in the United States of America. This policy and our legal obligations are subject to the laws of the State of New York and the United States of America, regardless of the location of any user. Any claims or complaints must be filed in the United States of America in the State of New York.
 
@@ -144,7 +144,7 @@ New York, NY 10001
 
 Attn: Privacy
 
-Telephone: (212) 401-0079
+Telephone: (212) 244-4307
 
 Facsimile: (212) 244-4311
 
