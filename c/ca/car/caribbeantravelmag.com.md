@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caribbeantravelmag.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612055638id_/http%3A//www.caribbeantravelmag.com/privacy-policy-your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbeantravelmag.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212023148id_/http%3A//www.caribbeantravelmag.com/privacy-policy-your-privacy-rights) for the most accurate reproduction.*
 
 # Privacy Policy & Your Privacy Rights | CaribbeanTravelMag.com
 
