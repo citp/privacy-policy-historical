@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namebright.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512031233id_/http%3A//www.namebright.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namebright.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212075244id_/http%3A//www.namebright.com/Privacy.aspx) for the most accurate reproduction.*
 
 # NameBright - Next Generation Domain Registration
 
