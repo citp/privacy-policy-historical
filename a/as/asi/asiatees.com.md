@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiatees.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423165018id_/http%3A//www.asiatees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiatees.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212032352id_/http%3A//www.asiatees.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AsiaTees.com
 
