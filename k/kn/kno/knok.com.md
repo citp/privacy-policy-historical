@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knok.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612042546id_/http%3A//knok.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knok.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212081105id_/http%3A//knok.com/policy.php) for the most accurate reproduction.*
 
 # Knok, a better way to Home Exchange: easy, smart and social
 
@@ -6,7 +6,7 @@ Introduction
 
 Any use by you of the website operated by Knok Exchange, S.L. at [www.knok.com](http://www.knok.com/) (the 'Site') is conditional upon your acceptance of this Privacy Policy.  
 All references to 'Knok', 'our', 'us', 'we' or 'company' within this policy are deemed to refer to Knok Exchange, S.L.  
-We endeavour to protect your personal privacy. We provide this privacy statement to help you to understand what we may do with any personal information that we obtain from you. By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20110612042546id_/http%3A//knok.com/conditions.php), which govern your use of the Site in general. We will use your information for the purposes set out below. You will have an opportunity to unsubscribe whenever we communicate with you.   
+We endeavour to protect your personal privacy. We provide this privacy statement to help you to understand what we may do with any personal information that we obtain from you. By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide your personal details to us. This privacy statement is incorporated into, and part of, the [Terms and Conditions](https://web.archive.org/web/20111212081105id_/http%3A//knok.com/conditions.php), which govern your use of the Site in general. We will use your information for the purposes set out below. You will have an opportunity to unsubscribe whenever we communicate with you.   
 We may need to update this privacy statement from time to time. We recommend that you regularly check this page to ensure that you have read the most recent version. 
 
 Legal Age
