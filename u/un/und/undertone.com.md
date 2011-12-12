@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628024456id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213005237id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
 
 # Undertone | Privacy Policy
 
 Privacy Policy for Undertone Advertising Network and Corporate Sites
 
-Undertone is an advertising network that may deliver advertisements to the websites you visit. Undertone understands that your online privacy is important to you. We have created the following Privacy Policy to let you know what information we collect on this website and when we serve advertisements on our network of websites owned by third-party publishers (collectively, the "Undertone Site Network"), how such information is used, and how it is shared with third parties if shared at all. 
+Undertone is an advertising network that may deliver advertisements to the websites you visit. Undertone understands that your online privacy is important to you. We have created the following Privacy Policy to let you know what information we collect on this website, when you visit our customer's (referred to as "Advertisers") websites and when we serve advertisements on our network of websites owned by third-party publishers (collectively, the "Undertone Site Network"), how such information is used, and how it is shared with third parties if shared at all. 
 
 **Please read this privacy policy carefully. Use of the Undertone Site Network, this website and your sharing of information with us is subject to the terms and conditions of this Privacy Policy. By using the Undertone Site Network, this website or sharing information with us, you give your agreement to this Privacy Policy. The Privacy Policy may be revised or updated at any time by us as further described below.**
 
@@ -61,7 +61,7 @@ You may wish to provide PII as a visitor to this website or as a member of the U
   
 ### Information Obtained from Other Companies
 
-We license and otherwise obtain all types of information from various other companies, including research companies, financial information companies, data aggregation companies and other third party companies. Data sets may include information about you or your demographic segment that such companies have licensed, purchased or collected. We use this information for all the purposes described in this Privacy Policy, and for any other purpose that we chose. 
+We license and otherwise obtain all types of information from various other companies, including research companies, data aggregation companies and other third party companies. Data sets may include information about you or your demographic segment that such companies have licensed, purchased or collected. We use this information for all the purposes described in this Privacy Policy, and for any other purpose that we chose. 
 
 ##    
 Sharing Your Information
@@ -90,14 +90,14 @@ Undertone may delete any or all of OBA or information regarding ad delivery that
 
 ### OBA Opt-Out 
 
-If you would like to opt out of OBA, then we offer "opt-out cookies" to block the tracking and placement **** of future Undertone cookies for OBA purposes on your system for five (5) years. We may increase this period, which means your opt-out choice will continue for a longer period. If you have multiple Internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your anti-virus or other software deletes the opt-out cookies from your computer, if you re-install your browser, or if you delete your cookies (which can happen if you clear or delete your browser history), then you will need to repeat the process. The opt-out cookies will not work while you have set your browser to ignore cookies. [Click Here to Install the Undertone Opt-Out Cookies.](http://www.networkadvertising.org/managing/opt_out.asp)
+If you would like to opt out of OBA, then we offer "opt-out cookies" to block the tracking and placement of future Undertone cookies for OBA purposes on your system for five (5) years. We may increase this period, which means your opt-out choice will continue for a longer period. If you have multiple Internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your anti-virus or other software deletes the opt-out cookies from your computer, if you re-install your browser, or if you delete your cookies (which can happen if you clear or delete your browser history), then you will need to repeat the process. The opt-out cookies will not work while you have set your browser to ignore cookies. [Click Here to Install the Undertone Opt-Out Cookie](https://web.archive.org/privacy/opt-out-status.php). To opt out of OBA by other NAI member companies, please visit the Network Advertising Initiative website [here](http://www.networkadvertising.org/managing/opt_out.asp) or the Digital Advertising Alliance (DAA) website [here](http://www.aboutads.info/choices/).
 
 Please note that the above link for opt-out cookies is applicable to Undertone and Intercept Interactive, but not any other Undertone Entity website. Also, please note that use of the opt-out cookies will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement. Please report any problems related to the opt-out process to [privacy@undertone.com](mailto:privacy@undertone.com).
 
 ##   
 Server Change Notice 
 
-Undertone transitioned away from a third-party ad service company in July 2009. If you opted out of targeted advertising between August 2008 and June 2009, you should opt-out again to ensure that your choice is saved and recognized by our ad server. [Click Here to Install the Undertone Opt-Out Cookies.](http://www.networkadvertising.org/managing/opt_out.asp)
+Undertone transitioned away from a third-party ad service company in July 2009. If you opted out of targeted advertising between August 2008 and June 2009, you should opt-out again to ensure that your choice is saved and recognized by our ad server. [Click Here to Install the Undertone Opt-Out Cookie](https://web.archive.org/privacy/opt-out-status.php). To opt out of OBA by other NAI member companies, please visit the Network Advertising Initiative website [here](http://www.networkadvertising.org/managing/opt_out.asp) or the Digital Advertising Alliance (DAA) website [here](http://www.aboutads.info/choices/).[](http://www.networkadvertising.org/managing/opt_out.asp)
 
 While we enjoy offering you the ability to opt out of OBA, you should know that the opt-out technology, as with most computer technology, is not foolproof. We cannot promise and do not guarantee that our computer systems or those of our vendors will always function properly to exclude you from OBA even thought we work towards that result. To ensure your choice, you may want to revisit the opt-out page and refresh your selection from time to time.
 
@@ -107,9 +107,16 @@ European Union Privacy
 The European Union ("EU") maintains strict privacy laws. These rules differ significantly from the laws of the United States of America ("US"). To reconcile these differences, the US and the EU have created a safe harbor ("Safe Harbor") that defines mutually acceptable privacy operations. For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor). By providing information to us, you acknowledge that we operate in the US and you agree to (i) permit us to transmit and use your user information anywhere necessary, including across international boundaries, to better improve the services and transactions provided by Undertone; and (ii) that such use by us shall be subject to the terms and conditions stated in this Privacy Policy and our Terms of Use. 
 
 ##    
-Network Advertising Initiative
+Children's Privacy
 
-Undertone is a member of the Network Advertising Initiative ("NAI"). The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+Undertone is very sensitive to the issue of children's privacy. Undertone's products and services are neither developed for, nor directed at, children. Undertone does not employ or offer targeting towards children under the age of 13. If you believe your child has provided us with personally identifiable data, and you would like to have the data removed, please [contact us](mailto:privacy@undertone.com).
+
+##    
+User Choice and Privacy Generally
+
+NAI: Undertone is a member of the Network Advertising Initiative ("NAI"). The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+
+Ad Choices: Undertone supports deployment of Advertising Option icon (Ad Choices), in partnership with Evidon, as part of its compliance with Digital Advertising Alliance self-regulation program. As part of this service, online advertisements served by Undertone are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control. 
 
 ##    
 Security
@@ -128,12 +135,12 @@ Contact Us
 
 If you have questions about this Privacy Policy, the practices of or your dealings with us relating to this Privacy Policy, please email us at [privacy@undertone.com](mailto:privacy@undertone.com) or you can send correspondence to us at the following address: 
 
-Undertone Networks  
-Attn: Privacy Leader  
+Undertone  
+Attn: Chief Compliance Officer  
 101 Park Avenue  
 17th Floor  
 New York, NY 10178
 
-Privacy Policy - Ad Network - Ver. October 30, 2009
+Privacy Policy - Ad Network - Ver. October 21, 2011
 
 * * *
