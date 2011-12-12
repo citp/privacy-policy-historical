@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the behringer.com privacy policy that was archived on 2009-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090121191435id_/http%3A//www.behringer.com/EN/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behringer.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212032736id_/http%3A//www.behringer.com/EN/privacy_policy.aspx) for the most accurate reproduction.*
 
 # BEHRINGER: Privacy Policy
 
 ## PRIVACY POLICY (EUROPE)
 
-Privacy protection is very important to us. Whenever we ask for personal information from you, we always explain why we need such information. We will always ask for your consent before collecting and processing information about you. Of course, you can withdraw your consent anytime by sending an email to: [webmaster@behringer.com](mailto:webmaster@behringer.com) . We will then immediately delete all your information.
+Privacy protection is very important to us. Whenever we ask for personal information from you, we always explain why we need such information. We will always ask for your consent before collecting and processing information about you. Of course, you can withdraw your consent anytime by sending an email to: [webmaster@music-group.com](mailto:webmaster@music-group.com). We will then immediately delete all your information. 
 
 ### What is personal information?
 
 Personal information is any information that is used to identify a particular person, i.e. it can be a name, address, telephone number, email address and so on. We will only use such information when we are legally allowed to or when you give us your express consent.
 
-European Data Protection Regulations allow us to collect, process and use your personal data as long as it is required to enter into, define and change contracts in relation to this website and the services offered therein. This applies to situations in which we are required to use your personal information in order to provide you with the services we offer at our website, such as support, downloads, warranty etc.
+European Data Protection Regulations allow us to collect, process and use your personal data as long as it is required to enter into, define and change contracts in relation to this website and the services offered therein. This applies to situations in which we are required to use your personal information in order to provide you with the services we offer at our website.
 
 Of course, your personal information will not be shared with anyone other than BEHRINGER affiliates and contractors who assist BEHRINGER in these efforts (e.g. by saving data for us) and are bound to confidentiality. For the avoidance of doubt, these affiliates and contractors may only use your personal information for the sole purpose of assisting BEHRINGER in providing the services you applied for.
-
-If you register for our email newsletter service for news on BEHRINGER and BEHRINGER products, we will ask you for your email address, which might be forwarded to an external service provider for saving and processing purposes. Such external contractor will be bound to confidentiality and may only use your email address for the sole purpose of assisting BEHRINGER in providing the newsletter service. You may unsubscribe from our newsletter service easily any time. Please kindly refer to the instructions within the newsletter itself.
 
 ## PRIVACY POLICY (OUTSIDE EUROPE)
 
@@ -34,23 +32,19 @@ We will not collect your personal information unless and until you provide such 
 
 ### How we use your information
 
-When we collect your personal information, we reasonably specify the purpose of such collection.
-
-Any personal information that you provide will be used to meet your request such as forwarding brochures, magazines, etc. and offering certain services. We may also use your personal information to contact you regarding other products and services that may be of interest to you, you can send your request to [webmaster@behringer.com](mailto:webmaster@behringer.com) informing us to limit our contact with you to the express purpose that you provided your personal information for.
+When we collect your personal information, we reasonably specify the purpose of such collection.   
+Any personal information that you provide will be used to meet your request such as forwarding brochures, magazines, etc. and offering certain services. We may also use your personal information to contact you regarding other products and services that may be of interest to you, you can send your request to: [webmaster@music-group.com](mailto:webmaster@music-group.com) informing us to limit our contact with you to the express purpose that you provided your personal information for.
 
 ### Sharing of your information
 
 We may also share your personal information with:
 
-  * Affiliates and contractors who help with our business operations, who are bound to confidentiality and who may only use your personal information for the sole purpose of assisting BEHRINGER in providing the services you applied for.
+  * Affiliates and contractors who help with our business operations, who are bound to confidentiality and who may only use your personal information for the sole purpose of assisting BEHRINGER in providing the services you applied for;
 
-  * Law enforcement, judicial authorities or other governmental officials for legal proceedings, fraud prevention, investigations into illegal activities or as otherwise required by law.
+  * law enforcement, judicial authorities or other governmental officials for legal proceedings, fraud prevention, investigations into illegal activities or as otherwise required by law.
 
-  * Other business entities, should we plan to merge with, or be acquired by that business entity.
-
-
+  * other business entities, should we plan to merge with, or be acquired by that business entity.   
 
 
-### Security
 
-We use technical and organizational security measures to protect your personal data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure or access.
+
