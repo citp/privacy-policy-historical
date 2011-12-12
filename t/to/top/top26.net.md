@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128224211id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212132432id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Top 26 Gaming
 
-there are currently 150 visitors online!
+there are currently 618 visitors online!
 
 [](http://www.top26.net/)
 
-Welcome to the Top 26 Gaming sites, providing the best free gaming and emulation links **since 2001**. You should bookmark this site now, as we always have the newest and best gaming sites, updated daily! We do not allow any sites which have force voting or excessive popup's, so where ever you click you will always get a quality link! 
+Welcome to the Top 26 Gaming sites, providing the best free gaming and emulation links **since 2001**. You should bookmark this site now, as we always have the newest and best gaming sites, updated daily! We do not allow any sites which have force voting or excessive popup's, so where ever you click you will always get a quality link! Looing for funny videos? You can watch the latest [funny videos](http://www.viduu.com/ "Funny Videos") and funny video clips at [Viduu](http://www.viduu.com/ "Funny Video Clips"). 
 
 Sites with [](https://web.archive.org/hqicon.html) icon are particularly high quality - Votes in are reset **every day** at 5am GMT.
 
