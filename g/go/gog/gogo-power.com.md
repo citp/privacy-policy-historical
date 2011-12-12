@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogo-power.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228140417id_/http%3A//www.gogo-power.com/privacy-policy-a/133.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogo-power.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212223215id_/http%3A//www.gogo-power.com/privacy-policy-a/133.htm) for the most accurate reproduction.*
 
 # gogo power Privacy Policy for customer
 
