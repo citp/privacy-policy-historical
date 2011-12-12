@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524145200id_/http%3A//www.ils.salford.ac.uk/governance/legislation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212174247id_/http%3A//www.salford.ac.uk/small-print-pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement for the University of Salford Website | Information Governance | University of Salford - A Greater Manchester University
+# University of Salford Manchester - Privacy Policy
+
+## Privacy statement for the University of Salford website
 
 ## Our commitment to privacy
 
@@ -142,7 +144,7 @@ At this time, we do not process credit card payments for donations, merchandise,
 
 ## International Enquiries
 
-The data sent in international enquiries to the University for UG and PG programmes via webform will be held by Hobsons plc, on behalf of the University of Salford. Your data will be used for the purposes of dealing with your enquiry, and sending you relevant information about the University of Salford. Neither Hobsons plc nor the University of Salford will pass your details on to any third party. If you wish to remove yourself from the University of Salford's database please contact Hobsons plc, Challenger House, 42 Adler Street, London E1 1EE, or international-enquiries@salford.ac.uk.
+The data sent in international enquiries to the University for UG and PG programmes via webform will be held by Hobsons plc, on behalf of the University of Salford. Your data will be used for the purposes of dealing with your enquiry, and sending you relevant information about the University of Salford. Neither Hobsons plc nor the University of Salford will pass your details on to any third party. If you wish to remove yourself from the University of Salford's database please contact Hobsons plc, Challenger House, 42 Adler Street, London E1 1EE, or [international-enquiries@salford.ac.uk](mailto:international-enquiries@salford.ac.uk).
 
 ## Advertising servers
 
