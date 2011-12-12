@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222075547id_/http%3A//www.cheapflights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212024512id_/http%3A//www.cheapflights.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
