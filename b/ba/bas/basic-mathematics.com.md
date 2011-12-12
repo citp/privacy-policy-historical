@@ -1,25 +1,31 @@
-> *The following text is extracted and transformed from the basic-mathematics.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226005111id_/http%3A//www.basic-mathematics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basic-mathematics.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212015437id_/http%3A//www.basic-mathematics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.basic-mathematics.com's Privacy Policy
 
   
 The basic-mathematics.com website highly recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use basic-mathematics.com, as well as what we do to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
-basic-mathematics.com devotes serious effort to maintain the highest standards of decency, fairness and integrity in all ouroperations. Similarly, we are dedicated to protecting ourcustomers', consumers' and online visitors' privacy on ourwebsite.
+basic-mathematics.com devotes serious effort to maintain the highest standards of decency, fairness and integrity in all our operations. Similarly, we are dedicated to protecting ourcustomers', consumers' and online visitors' privacy on our website.
 
 **Use of Cookies and Web Beacons**
 
-We may use cookies to help you personalize your onlineexperience. Cookies are identifiers that are transferred toyour computer's hard drive through your Web browser toenable our systems to recognize your browser. The purpose ofa cookie is to tell the Web server that you have returned toa specific page. For example, if you personalize the sitespages, or register with any of our site's services, a cookieenables basic-mathematics.com to recall your specificinformation on subsequent visits.
+We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the site's pages, or register with any of our site's services, a cookieenables basic-mathematics.com to recall your specificinformation on subsequent visits.
 
-You have the ability to accept or decline cookies bymodifying your Web browser; however, if you choose todecline cookies, you may not be able to fully experience theinteractive features of the site. A web beacon is a transparent image file used to monitoryour journey around a single website or collection of sites.They are also referred to as web bugs and are commonly usedby sites that hire third-party services to monitor traffic.They may be used in association with cookies to understandhow visitors interact with the pages and content on thepages of a web site.
+You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites.They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic.They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
 
-We may serve third party advertisements that use cookies andweb beacons in the course of ads being served on our website to ascertain how many times you've seen anadvertisement. No personally identifiable information yougive us is provided to them for cookie or web beacon use, sothey cannot personally identify you with that information onour web site.
+We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our website to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information onour web site.
 
-Browsers can be set to accept or reject cookies or notifyyou when a cookie is being sent. Privacy software can beused to override web beacons. Taking either of these actionsshouldn't cause a problem with our site, should you sochoose.
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.google.com/privacy_ads.html)
 
-You could also [ click here](http://www.networkadvertising.org/managing/opt_out.asp)
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+
+Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the advertising opt-out page
+
+For more information on how to opt out, [ click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Personal Information**
 
@@ -51,7 +57,7 @@ Updates and Effective Date basic-mathematics.com reserves the right to make chan
 
 If you do not agree to basic-mathematics.com PrivacyPolicy as posted here on this website, please do not usethis site or any services offered by this site.
 
-Your use of this site indicates acceptance of this privacypolicy. 
+Your use of this site indicates acceptance of this privacy policy. 
 
 * * *
 
