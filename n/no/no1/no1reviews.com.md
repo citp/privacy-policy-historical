@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101213429id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no1reviews.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212214644id_/http%3A//www.no1reviews.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # No1Reviews.com Privacy Policy
 
