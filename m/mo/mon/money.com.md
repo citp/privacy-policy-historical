@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606083042id_/http%3A//money.cnn.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212045501id_/http%3A//money.cnn.com/services/privacy) for the most accurate reproduction.*
 
 # CNNMoney.com: Privacy Policy
 
