@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myflashstore.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616162218id_/http%3A//www.myflashstore.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflashstore.net privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212212726id_/http%3A//www.myflashstore.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - myFlashStore.net
 
-myFlashStore is committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at  [support@myflashstore.net](mailto:support@myflashstore.net) .
+myFlashStore is committed to protecting your privacy. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at  [support@myflashstore.net](mailto:support@myflashstore.net).
 
 ## Information collected
 
