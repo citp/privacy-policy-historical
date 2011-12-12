@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestonandsteve.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614132137id_/http%3A//www.wmmr.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestonandsteve.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212174231id_/http%3A//www.wmmr.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 93.3 WMMR: Everything That Rocks
 
@@ -13,7 +13,8 @@ One Bala Plaza
 Mail Stop 429  
 Bala Cynwyd, PA 19004-1428  
 Attn: Your California Privacy Rights  
-c/o Privacy Administrator
+c/o Privacy Administrator  
+
 
 **For requests sent via email, you must put the statement “Your California Privacy Rights” in the subject field of your email. All requests sent via postal mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) **WMMR will not accept requests via the telephone or by facsimile.** WMMR is not responsible for responding to notices that are not labeled or not sent properly, or do not have complete information.
 
@@ -21,7 +22,8 @@ For all other users of this Web site, if you have other questions about this Pri
 One Bala Plaza  
 Mail Stop 429  
 Bala Cynwyd, PA 19004-1428  
-Attn: Privacy Administrator
+Attn: Privacy Administrator  
+
 
 ### Collection of your Personal Information
 
@@ -67,7 +69,7 @@ WMMR uses commercially reasonable efforts to secure your personal information fr
 
 ### Children
 
-WMMR does not solicit any personal information from children under the age of 13. WMMR encourages families to obtain additional information about safe use of the Internet at <http://www.ftc.gov/kidzprivacy/>.
+WMMR does not solicit any personal information from children under the age of 13. WMMR encourages families to obtain additional information about safe use of the Internet at [http://www.ftc.gov/](http://business.ftc.gov/privacy-and-security/children%E2%80%99s-online-privacy).
 
 ### Changes to this Statement
 
