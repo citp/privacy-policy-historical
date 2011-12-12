@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yogiproducts.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107114021id_/http%3A//www.yogiproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogiproducts.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213000338id_/http%3A//www.yogiproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Yogi - Privacy Policy
 
-Yogi is committed to respecting the privacy rights of all visitors to our Web site. The following policy describes how we collect, protect and use information we receive. If you have any questions about our Privacy Policy statement, our use of your information, or if you would like to change how we communicate with you, please [email us](mailto:YogiTea.CustomerService@goldentemple.com).
+Yogi is committed to respecting the privacy rights of all visitors to our Web site. The following policy describes how we collect, protect and use information we receive. If you have any questions about our Privacy Policy statement, our use of your information, or if you would like to change how we communicate with you, please [email us](mailto:YogiTea.CustomerService@yogiproducts.com).
 
 **What information does Yogi collect and how does Yogi use it?**
 
@@ -26,7 +26,7 @@ Although most Web browsers automatically accept cookies, you may be able customi
 
 Our site is a general audience site that is neither designed nor intended to collect personal information from children. Yogi cares about the safety and privacy of children online and complies with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulation establish United States federal law that protects the privacy of children using the Internet. Children under the age of 13 should not provide any personal information on the site. We ask that parents supervise their children while online.
 
-In the case that Yogi receives information pertaining to persons under 13, we will immediately obtain parental consent or delete the information from our servers. If you want to notify us of our potential receipt of information by children under 13, please [email us](mailto:YogiTea.CustomerService@goldentemple.com).
+In the case that Yogi receives information pertaining to persons under 13, we will immediately obtain parental consent or delete the information from our servers. If you want to notify us of our potential receipt of information by children under 13, please [email us](mailto:YogiTea.CustomerService@yogiproducts.com).
 
 **Third party links:**
 
@@ -44,9 +44,9 @@ We will change, amend and update this Privacy Policy from time to time to reflec
 
 For any questions or concerns you may have regarding this Privacy Policy and our information and data collection and use practices, please contact us at:
 
-VIA MAIL: 2545 Prairie Road   
-Eugene, Oregon 97402
+VIA MAIL: 121 SW Morrison Street, Suite 925   
+Portland, Oregon 97204
 
-VIA EMAIL: [YogiTea.CustomerService@goldentemple.com](mailto:YogiTea.CustomerService@goldentemple.com)
+VIA EMAIL: [YogiTea.CustomerService@yogiproducts.com](mailto:YogiTea.CustomerService@yogiproducts.com)
 
-Last revised: May 1, 2009
+Last revised: March 25, 2011
