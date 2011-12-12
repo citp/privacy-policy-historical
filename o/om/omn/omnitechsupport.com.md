@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the omnitechsupport.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314042513id_/http%3A//www.omnitechsupport.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnitechsupport.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212013538id_/http%3A//www.omnitechsupport.com/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Remote computer maintenance, remote pc help desk & pc services at affordable prices
+# Tech Support | IT Support | Online IT Support - Omnitechsupport.com
+
+Annual Unlimited   
+PC Maintenance & Technical  
+Support for Just $299.99 a year
+
+Call 1-800-966-9940
+
+Support for Microsoft® Office
+
+  
+| 
 
 OmniTechSupport collects personal information when you register or fill out any forms on our site. As OmniTechSupport wants to demonstrate its commitment to your privacy, we have agreed to disclose its information practices. 
 
