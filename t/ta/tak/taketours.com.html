@@ -1,0 +1,450 @@
+<!--The following is the downloaded HTML source of the taketours.com privacy policy that was archived on 2011-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111212045040id_/http%3A//www.taketours.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Privacy  - TakeTours</title>
+<meta name="KEYWORDS" content="Privacy ">
+<meta name="DESCRIPTION" content="TakeTours">
+<link rel="StyleSheet" href="/css/en/style_v1031.css" type="text/css" media="screen">
+<link rel="shortcut icon" href="http://www.taketours.com/taketours.ico" type="image/x-icon">
+<script language="javascript" src="/js/jquery/jquery-1.4.2.min.js"></script>
+			<script type="text/javascript" src="/js/zDrag.js"></script>
+			<script type="text/javascript" src="/js/zDialog.js"></script>			
+			<script language="javascript" src="/js/init.js"></script>
+			<script language="javascript" src="/js/init_attr.js"></script>
+			<script type="text/javascript" src="/js/ac/actb.js"></script>
+			<script type="text/javascript" src="/js/ac/common.js"></script>
+			
+</head>
+
+<body onload="" onunload="">
+<div id="n_wrapper" style="width:960px">
+  <div id="n_head">
+    <div id="n_logo"><h1><a title="TakeTours" href="http://www.taketours.com">TakeTours</a> <a title="Gotobus" href="http://www.gotobus.com" class="gotobus_a" target="_blank">Gotobus</a></h1></div>
+    <div id="n_head_r">
+      <div id="n_head_r_nav" class="floatR">
+        <div id="n_head_r_nav_m" class="floatR">
+	        <ul class="no_list_style">
+				<li><span id="welcome_span" class="n_smallnav_span">Welcome - Already a member?</span></li>
+					
+			<li id="facebook_signin">
+			<a title="Sign in with Facebook" href="#" onclick="fb_conn();return false;">
+				<img alt="Sign in with Facebook" src="/images/facebook-signin.gif">
+			</a>
+			</li>
+			
+				<li><a id="sign_link" title="Sign In" href="https://www.taketours.com/cgi-bin/c.fcgi?a=signin" class="n_head_nav" target="_top">Sign In</a>|</li>
+				<li><a title="Register a user" href="http://www.taketours.com/cgi-bin/ce.fcgi?a=signup" class="n_head_nav" target="_top">Sign Up</a>|</li>
+	        	
+				<li><a title="Help" href="http://www.taketours.com/support/" class="n_head_nav" target="_top">Help</a>|</li>
+				<li class="n_li_smallnav" id="language_multi">
+		<a href="javascript:void(0)" class="nav_chinese">Language</a>
+		<div class="n_smallnavbox">
+			<a href="http://cn.taketours.com" class="nav_chinese_b" target="_top"></a>
+			<a href="http://big5.taketours.com" class="nav_fchinese" target="_top"></a>
+			<a href="http://www.taketours.com/spanishlanguagetours/" class="nav_esp_b" target="_top"></a>
+		</div>
+	</li>
+				<li><a title="Gotobus.com" href="http://www.gotobus.com" id="forgotobus" target="_blank"></a></li>
+		 	</ul>
+        </div>
+      </div>
+      <div id="n_head_r_pic" class="floatR">
+		<script language="javascript" src="/js/jquery/jquery.tools.min.new.js"></script>
+		<script language="JavaScript" src="/js/jquery/jquery.autocomplete.js"></script>
+		<p class="floatL srcleft"></p>
+		<form action="http://search.taketours.com/search/tours.do">
+	        <p class="floatL srcm">
+				  <input type="text" id="java_search_keywords" class="txtSearch ac_input" name="keywords" onblur="change_defalut_color(this);" value="Enter keywords or tour code" autocomplete="off"><input type="submit" class="Search_button" value="" style="vertical-align:bottom">
+	        </p>
+        </form>
+        <p class="floatL srcright"></p>
+        <a href="http://www.taketours.com/cgi-bin/livehelp.cgi" target="_blank" class="livehelp floatR"> </a>
+        <a href="http://www.taketours.com/support/" target="_blank" class="contactus floatR"> </a>
+		<script type="text/javascript">  	
+		function change_defalut_value()
+		{
+		  var keywords = document.getElementById("java_search_keywords");
+		  if(keywords && keywords.value == "Enter keywords or tour code")
+		  {
+		  	keywords.value="";
+		  }
+		} 
+		function change_defalut_color(obj)
+		{
+			if(obj.value==''||obj.value=='Enter keywords or tour code')
+			{
+				obj.value='Enter keywords or tour code';
+				obj.style.color='#8E8E8E';
+			}
+		}
+		$("#java_search_keywords").focus(function(){
+			change_defalut_value();
+		}).autocomplete(j_attras);
+	    </script>	        
+	   	</div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div class="blank1"></div>
+    <script type="text/javascript">
+	cookie_login("http://www.taketours.com/cgi-bin/c.fcgi", "https://www.taketours.com/cgi-bin/c.fcgi");
+		var language_multi =  document.getElementById('language_multi');
+	language_multi.onmouseover=function(){CssClass.add(this,'hover')};
+	language_multi.onmouseout=function(){CssClass.remove(this,'hover')};
+	
+	
+		        function fb_conn(from_shop)
+				{
+					if (from_shop != null)
+					{
+						window.open("https://www.facebook.com/dialog/oauth?client_id=195794973796110&redirect_uri=http://www.taketours.com/cgi-bin/facebook_s.cgi&scope=email,read_stream,publish_stream,offline_access",
+                                                                'facebook',
+                                                                'scrollbars=no,width=850,height=550,status=no,resizable=yes,left='
+                                                                + (screen.width - 850) / 2 + ',top='
+                                                                + (screen.height - 550) / 2);
+
+					}
+					else
+					{
+					window.open("https://www.facebook.com/dialog/oauth?client_id=195794973796110&redirect_uri=http://www.taketours.com/cgi-bin/facebook.cgi&scope=email,read_stream,publish_stream,offline_access",
+								'facebook',
+								'scrollbars=no,width=850,height=550,status=no,resizable=yes,left='
+								+ (screen.width - 850) / 2 + ',top='
+								+ (screen.height - 550) / 2);
+					}
+				}
+			
+  </script>
+		
+	<script language="javascript" src="/js/jquery/jquery.tools.min.new.js"></script>
+	<script language="JavaScript" src="/js/jquery/jquery.autocomplete.js"></script>	
+	<div id="n_top_nav">
+    <div id="n_nav">
+      <div id="n_nav_big">
+        <div id="n_nav_l"></div>
+        <div id="n_nav_m">
+          <ul id="navigation" class="no_list_style">
+            <li><a href="http://www.taketours.com/"><span>Home</span></a></li>
+            <li><a href="http://www.gotobus.com/bus" target="_blank"><span>Bus Tickets</span></a></li>
+            <li id="n_li_tour"><a href="http://www.taketours.com/tours/"><span>Tours &amp; Vacation<label>&nbsp;</label></span></a>
+                <div class="n_menu_tourbd font12">
+                  <div class="n_menu_tourbd_panel" id="toolbar_tours_vacations"><dl><dt><a href="http://www.taketours.com/destinations/">&gt;more</a>By Popular Destination</dt><dd><a href="http://www.taketours.com/east-coast-tours/">US East Coast</a><a href="http://www.taketours.com/west-coast-tours/">US West Coast</a></dd><dd><a href="http://www.taketours.com/new-york-ny/">New York</a><a href="http://www.taketours.com/los-angeles-ca/">Los Angeles</a><a href="http://www.taketours.com/boston-ma/">Boston</a></dd><dd><a href="http://www.taketours.com/san-francisco-ca/">San Francisco</a><a href="http://www.taketours.com/washington-dc/">Washington D.C.</a></dd><dd><a href="http://www.taketours.com/las-vegas-nv/">Las Vegas</a><a href="http://www.taketours.com/hawaii/">Hawaii</a><a href="http://www.taketours.com/grand-canyon-tours/">Grand Canyon</a></dd><dd><a href="http://www.taketours.com/yellowstone-tours/">Yellowstone</a><a href="http://www.taketours.com/niagara-falls-ny/">Niagara Falls</a><a href="http://www.taketours.com/orlando-fl/">Orlando</a></dd><dd><a href="http://www.taketours.com/florida/">Florida</a><a href="http://www.taketours.com/paris/">Paris</a><a href="http://www.taketours.com/london/">London</a><a href="http://www.taketours.com/shanghai/">Shanghai</a></dd></dl><dl><dt><a href="http://www.taketours.com/destinations/">&gt;more</a>By Country</dt><dd><a href="http://www.taketours.com/australia/">Australia</a><a href="http://www.taketours.com/canada/">Canada</a><a href="http://www.taketours.com/china/">China</a><a href="http://www.taketours.com/europe/">Europe</a></dd><dd><a href="http://www.taketours.com/latinamerica/">Latin America</a><a href="http://www.taketours.com/mexico/">Mexico</a><a href="http://www.taketours.com/israel/">Israel</a></dd></dl><dl class="n_last"><dt>By Tour Type</dt><dd><a href="http://www.taketours.com/adventure-travel/">Adventure Travel</a><a href="http://www.taketours.com/luxury-travel/">Luxury Travel</a></dd><dd><a href="http://www.taketours.com/spanishlanguagetours/">en Espanol</a><a href="http://www.taketours.com/wine-tours/">Wine Tours</a></dd></dl></div>
+                  <script type="text/javascript" src="/js/toolbar_tours_vacations.js"></script>
+                </div>
+            </li>
+            <li><a href="http://www.taketours.com/hotel/"><span>Hotels</span></a></li>
+            <li><a href="http://www.gotobus.com/shows/" target="_blank"><span>Shows</span></a></li>
+            <li id="n_li_deals"><a href="http://www.taketours.com/deals/">Deals</a></li>
+          </ul>
+        </div>
+        <div id="n_nav_r"></div>
+      </div>
+      <div id="n_nav_small">
+        <div id="n_nav_smalll"></div>
+        <div id="n_nav_smallm">
+          <ul class="no_list_style">
+	        <li class="n_cart"><a title="Shopping Cart" href="http://www.taketours.com/cgi-bin/c.fcgi?a=shopcart_view" target="_top"><span class="n_cart_s">&nbsp;</span><span><b>Shopping Cart</b></span></a></li>          
+	        <li class="n_acount"><a title="Account" href="https://www.taketours.com/cgi-bin/c.fcgi?a=main" target="_top"><span class="n_acount_s">&nbsp;</span><span><b>My Account</b></span></a></li>
+          </ul>
+        </div>
+        <div id="n_nav_smallr"></div>
+        <div class="clear"></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div id="n_navnote">
+      <div id="n_navnote_l"></div>
+      <div id="n_navnote_m">
+		<div class="floatL left_menu_top"> <a href="javascript:void(0)" class="left_menu_topa font13 ftbold">Travel By Region</a>
+          <div class="lm"> <a href="#" class="left_menu_topaf font13 ftbold" id="travel_by_region">Travel By Region</a><div class="left_item"> <span class="font13"><a href="javascript:void(0);">North America Tours</a><b></b></span><div class="i_mc" style="display: none;"><dl><dt>United States</dt><dd><a href="http://www.taketours.com/east-coast-tours">East Coast</a> | <a href="http://www.taketours.com/west-coast-tours">West Coast</a> | <a href="http://www.taketours.com/new-york-ny">New York</a> | <a href="http://www.taketours.com/niagara-falls-ny">Niagara Falls</a> | <a href="http://www.taketours.com/los-angeles-ca">Los Angeles</a> | <a href="http://www.taketours.com/boston-ma">Boston</a> | <a href="http://www.taketours.com/san-francisco-ca">San Francisco</a> | <a href="http://www.taketours.com/washington-dc">Washington DC</a> | <a href="http://www.taketours.com/hawaii">Hawaii</a> | <a href="http://www.taketours.com/grand-canyon-tours">Grand Canyon</a> | <a href="http://www.taketours.com/yosemite-tours">Yosemite</a> | <a href="http://www.taketours.com/yellowstone-tours">Yellowstone</a> | <a href="http://www.taketours.com/san-diego-ca">San Diego</a> | <a href="http://www.taketours.com/chicago-il">Chicago</a></dd></dl><dl><dt>Canada</dt><dd><a href="http://www.taketours.com/cgi-bin/tour.cgi?depart=Calgary%2C+AB&amp;ignore=1&amp;promotion_type=0">Calgary</a> | <a href="http://www.taketours.com/vancouver-bc">Vancouver</a> | <a href="http://www.taketours.com/cgi-bin/tour.cgi?depart=Victoria%2C+BC&amp;ignore=1&amp;promotion_type=0">Victoria</a> | <a href="http://www.taketours.com/ottawa">Ottawa</a> | <a href="http://www.taketours.com/toronto">Toronto</a> | <a href="http://www.taketours.com/montreal">Montreal</a></dd></dl></div></div><div class="left_item"> <span class="font13"><a href="javascript:void(0);">Europe Tours</a><b></b></span><div class="i_mc" style="display: none;"><dl><dt>France</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?&amp;depart=Lyon%2C+FRANCE&amp;ignore=1&amp;promotion_type=0">Lyon</a> | <a href="http://search.taketours.com/tourservices/tours.do?&amp;depart=Marseille%2C+FRANCE&amp;ignore=1&amp;min_price=25&amp;promotion_type=0">Marseille</a> | <a href="http://search.taketours.com/tourservices/tours.do?&amp;depart=Nice%2C+FRANCE&amp;ignore=1&amp;min_price=27&amp;promotion_type=0">Nice</a> | <a href="http://www.taketours.com/paris/">Paris</a></dd></dl><dl><dt>Italy</dt><dd><a href="http://www.taketours.com/florence">Florence</a> | <a href="http://search.taketours.com/tourservices/tours.do?depart=Milan%2C+ITALY&amp;ignore=1&amp;promotion_type=0">Milan</a> | <a href="http://search.taketours.com/tourservices/tours.do?depart=Pisa%2C+ITALY&amp;ignore=1&amp;min_price=27&amp;promotion_type=0">Pisa</a> | <a href="http://www.taketours.com/rome">Rome</a> | <a href="http://search.taketours.com/tourservices/tours.do?&amp;depart=Venice%2C+ITALY&amp;ignore=1&amp;min_price=25&amp;promotion_type=0">Venice</a></dd></dl><dl><dt>England</dt><dd><a href="http://www.taketours.com/london">London</a></dd></dl><dl><dt>Portugal</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Algarve%2C+PORTUGAL&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=88&amp;promotion_type=0">Algarve</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Azores%2C+PORTUGAL&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=28&amp;promotion_type=0">Azores</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Lisbon%2C+PORTUGAL&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=45&amp;promotion_type=0">Lisbon</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Madeira%2C+PORTUGAL&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=21&amp;promotion_type=0">Madeira</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Porto+Santo%2C+PORTUGAL&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=28&amp;promotion_type=0">Porto Santo</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Porto%2C+PORTUGAL&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=28&amp;promotion_type=0">Porto</a></dd></dl></div></div><div class="left_item"> <span class="font13"><a href="javascript:void(0);">South America Tours</a><b></b></span><div class="i_mc" style="display: none;"><dl><dt>Mexico</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Acapulco%2C+MX&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=42&amp;promotion_type=0">Acapulco</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Cabo+San+Lucas%2C+MX&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=33&amp;promotion_type=0">Cabo San Lucas</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Cancun%2C+MX&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=39&amp;promotion_type=0">Cancun</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Mexico+City%2C+MX&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=42.9&amp;promotion_type=0">Mexico City</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Puerto+Vallarta%2C+MX&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=35&amp;promotion_type=0">Puerto Vallarta</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Tuxtla+Gutierrez,+MX&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=55&amp;promotion_type=0">Tuxtla Gutierrez</a></dd></dl><dl><dt>Argentina</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Buenos+Aires%2C+ARGENTINA&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=28&amp;promotion_type=0">Buenos Aires</a></dd></dl><dl><dt>Brazil</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Rio+de+Janeiro%2C+BRAZIL&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=31&amp;promotion_type=0">Rio de Janeiro</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Sao+Paulo%2C+BRAZIL&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=631&amp;promotion_type=0">Sao Paulo</a></dd></dl></div></div><div class="left_item"> <span class="font13"><a href="javascript:void(0);">Australia Tours</a><b></b></span><div class="i_mc" style="display: none;"><dl><dt>Australia</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Adelaide%2C+AU&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=1283&amp;promotion_type=0">Adelaide</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Alice+Springs%2C+AU&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=52&amp;promotion_type=0">Alice Springs</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Brisbane%2C+AU&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=69&amp;promotion_type=0">Brisbane</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Darwin%2C+AU&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=61&amp;promotion_type=0">Darwin</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Gold+Coast,+AU&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=61&amp;promotion_type=0">Gold Coast</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Hobart%2C+AU&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=84&amp;promotion_type=0">Hobart</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Melbourne%2C+AU&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=38&amp;promotion_type=0">Melbourne</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Perth%2C+AU&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=63&amp;promotion_type=0">Perth</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Sydney%2C+AU&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=71&amp;promotion_type=0">Sydney</a></dd></dl><dl><dt>New Zealand</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Christchurch%2C+NZD&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=&amp;promotion_type=0">Christchurch</a></dd></dl></div></div><div class="left_item"> <span class="font13"><a href="javascript:void(0);">Asia Tours</a><b></b></span><div class="i_mc" style="display: none;"><dl><dt>China</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Beijing%2C+CN&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=&amp;promotion_type=0">Beijing</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Chengdu%2C+CN&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=&amp;promotion_type=0">Chengdu</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Guilin%2C+CN&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=&amp;promotion_type=0">Guilin</a> | <a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Jiayuguan%2C+CN&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=&amp;promotion_type=0">Jiayuguan</a> | <a href="http://www.taketours.com/shanghai/">Shanghai</a> | <a href="http://www.taketours.com/xian/">Xian</a></dd></dl><dl><dt>India</dt><dd><a href="http://www.taketours.com/new-delhi/">New Delhi</a></dd></dl><dl><dt>Japan</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Tokyo%2C+JAPAN&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=&amp;promotion_type=0">Tokyo</a></dd></dl><dl><dt>Thailand</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?order=&amp;nm=&amp;depart=Bangkok%2C+THAILAND&amp;ignore=1&amp;days=&amp;attraction=&amp;keywords=&amp;max_price=&amp;lowest_price=&amp;left_point=&amp;right_point=&amp;min_price=229&amp;promotion_type=0">Bangkok</a></dd></dl></div></div><div class="left_item"> <span class="font13"><a href="javascript:void(0);">Africa Tours</a><b></b></span><div class="i_mc" style="display: none;"><dl><dt>Egypt</dt><dd><a href="http://search.taketours.com/search/quickSearch.do?keywords=Cairo">Cairo</a></dd></dl><dl><dt>Tanzania</dt><dd><a href="http://search.taketours.com/tourservices/tours.do?gid=&amp;nm=0&amp;x=516&amp;y=498&amp;depart=Moshi%2C+TANZANIA&amp;date=&amp;days=&amp;attraction=&amp;keywords=&amp;x=64&amp;y=16">Moshi</a></dd></dl></div></div><div class="left_item"> <span class="font13"><a href="javascript:void(0);">Middle East Tours</a><b></b></span><div class="i_mc" style="display: none;"><dl><dt>Israel</dt><dd><a href="http://search.taketours.com/search/quickSearch.do?keywords=Herzliya">Herzliya</a> | <a href="http://search.taketours.com/search/quickSearch.do?keywords=Jerusalem">Jerusalem</a> | <a href="http://search.taketours.com/search/quickSearch.do?keywords=Netanya">Netanya</a> | <a href="http://search.taketours.com/search/quickSearch.do?keywords=Tel-Aviv">Tel-Aviv</a></dd></dl><dl><dt>Jordan</dt><dd><a href="http://search.taketours.com/search/quickSearch.do?keywords=Amman">Amman</a></dd></dl></div></div>
+          	<script type="text/javascript" src="/js/travel_by_region.js"></script>
+            <div class="extra"> <span><a href="http://www.taketours.com/tour-destinations/">See All Destinations</a></span></div>
+            <div class="left_menu_imgb"></div>
+          </div>
+        </div>
+		<script type="text/javascript">
+		$(document).ready(function(){
+			if($(".lm").css("display") == "none")
+			{
+				$('.left_menu_top').hover(
+					function(){
+						$(".lm").show();
+					},
+					function(){
+						$(".lm").hide();
+					}
+				);
+			}
+			$('div.left_item').hover(
+				function(){
+					$(this).addClass('hover');
+					$('div.hover > div.i_mc').show();
+				},
+				function(){
+					$('div.hover > div.i_mc').hide();
+					$(this).removeClass('hover');
+				}
+			);
+		});
+		</script>
+    	<ul class="no_list_style">
+			<li class="n_note_nav"> <a href="http://www.taketours.com/travel-companions">Travel Companions</a> </li>
+			<li class="n_note_nav"> <a href="http://www.taketours.com/group-tour-bus-charter">Group Services</a> </li>
+			<li class="n_note_nav"> <a href="http://www.taketours.com/gift-certificate/">Gift Certificate</a></li>
+			<li class="n_note_nav"><a href="http://www.taketours.com/travel-insurance/">Travel Insurance</a></li>
+			<li class="n_note_nav"> <a href="http://www.taketours.com/coupons">Coupons</a> </li>
+			<li class="n_note_nav"> <a href="http://www.taketours.com/tour-of-the-day/">Tour of the Day</a></li>			
+        </ul>
+    </div>
+      <div id="n_navnote_r"></div>
+    <div class="clear"></div>
+  </div>
+  </div>
+  <div class="blank1"></div>	    
+  <script type="text/javascript">  	
+	var navigation=document.getElementById("navigation");
+	var lis = navigation.getElementsByTagName("li"); 
+	for(var i=0;i<lis.length-1;i++)
+	{
+		lis[i].onmouseover=function(){CssClass.add(this,'hover')};
+		lis[i].onmouseout=function(){CssClass.remove(this,'hover')};
+	}
+  </script>
+<div id="n_main"><table width="955" cellspacing="0" cellpadding="0" border="0" align="center" style="margin-left: 5px;">
+    <tbody>
+      <tr>
+        <td width="163" valign="top" bgcolor="#f8f8f8"><div class="left_bartop"></div>
+          <div class="left_barmid">
+            <ul class="no_list_style">
+              <li><a href="http://www.taketours.com/security/">Security</a></li>
+              <li><a href="http://www.taketours.com/user-agreement/">User Agreement</a></li>
+              <li class="active"><a href="http://www.taketours.com/privacy/">Privacy</a></li>
+              <li><a href="http://www.taketours.com/points/pointshelp/">Loyalty Program</a></li>
+              <li><a href="http://www.taketours.com/affiliate">Affiliate Program</a></li>
+              <li><a href="http://www.taketours.com/aboutus">About Us</a></li>
+              <li><a href="http://blog.taketours.com/">Travel Blog</a></li>
+              <li><a href="http://www.taketours.com/workwithus">Add Your Tours</a></li>
+              <li><a href="http://www.taketours.com/grouptourbuscharter">Group Services</a></li>
+              <li><a href="http://www.taketours.com/cs/c1696" class="last">Gift Certificate</a></li>
+            </ul>
+          </div>
+          <div class="left_barbot"></div></td>
+        <td valign="top"><div class="right_bar">
+            <div class="right_bartop"></div>
+            <div class="right_barmid">
+              <h2 align="center" class="font16 c106">Privacy Notice</h2>
+              <p> TakeTours knows that you care how 
+                information about you is used and shared, and we appreciate your trust 
+                that we will do so carefully and sensibly. This notice describes our 
+                privacy policy. By visiting TakeTours.com, you are 
+                accepting the practices described in this Privacy Notice. </p>
+              <p> What Personal Information About Customers Does TakeTours.com Gather? </p>
+              <p> The information we learn from customers helps us 
+                personalize and continually improve your shopping experience at 
+                TakeTours.com. Here are the types of information we gather. </p>
+              <p> Information You Give Us: We receive and store any 
+                information you enter on our Web site or give us in any other way. You 
+                can choose not to provide certain information, but then you might not be
+                able to take advantage of many of our features. We use the information 
+                that you provide for such purposes as responding to your requests, 
+                customizing future shopping for you, improving our stores, and 
+                communicating with you. </p>
+              <p> Automatic Information: We receive and store certain 
+                types of information whenever you interact with us. For example, like 
+                many Web sites, we use "cookies," and we obtain certain types of 
+                information when your web browser accesses TakeTours.com.  A
+                number of companies offer utilities designed to help you visit Web 
+                sites anonymously. Although we will not be able to provide you with a 
+                personalized experience at TakeTours.com if we cannot 
+                recognize you, we want you to be aware that these tools exist. </p>
+              <img src="http://www.taketours.com/images/bottom/sss.gif" class="floatR">
+              <p> E-mail Communications: To help us make e-mails more 
+                useful and interesting, we often receive a confirmation when you open 
+                e-mail from TakeTours.com if your computer supports such 
+                capabilities. We also compare our customer list to lists received from 
+                other companies, in an effort to avoid sending unnecessary messages to 
+                our customers. If you do not want to receive e-mail or other mail from 
+                us, please adjust your Customer Communication Preferences. </p>
+              <p> Information from Other Sources: For reasons such as 
+                improving personalization of our service (for example, providing better 
+                product recommendations or special offers that we think will interest 
+                you), we might receive information about you from other sources and add 
+                it to our account information. We also sometimes receive updated 
+                delivery and address information from our shippers or other sources so 
+                that we can correct our records and deliver your next purchase or 
+                communication more easily. </p>
+              <div class="line"><b>What About Cookies?</b></div>
+              <p> Cookies are alphanumeric identifiers that we transfer to
+                your computer's hard drive through your Web browser to enable our 
+                systems to recognize your browser and to provide features such as 
+                1-Click purchasing, New for You, and storage of items in your Shopping 
+                Cart between visits. </p>
+              <p> The "help" portion of the toolbar on most browsers will 
+                tell you how to prevent your browser from accepting new cookies, how to 
+                have the browser notify you when you receive a new cookie, or how to 
+                disable cookies altogether. However, cookies allow you to take full 
+                advantage of some of TakeTours.com's coolest features, and 
+                we recommend that you leave them turned on. </p>
+              <div class="line"><b>Does TakeTours.com Share the Information It Receives?</b></div>
+              <p> Information about our customers is an important part of our business, and we are not in the business of selling it to others. </p>
+              <p> Sometimes we send offers to selected groups of 
+                TakeTours.com customers on behalf of other businesses. When 
+                we do this, we do not give that business your name and address. If you 
+                do not want to receive such offers, please adjust your Customer 
+                Communication Preferences.</p>
+              <p>Business Transfers: As we continue to develop our 
+                business, we might sell or buy stores or assets. In such transactions, 
+                customer information generally is one of the transferred business 
+                assets. Also, in the event that IvyMedia or substantially all of its 
+                assets are acquired, customer information will of course be one of the 
+                transferred assets. </p>
+              <p> Protection of TakeTours.com and Others: We 
+                release account and other personal information when we believe release 
+                is appropriate to comply with law; enforce or apply our Conditions of 
+                Use and other agreements; or protect the rights, property, or safety of 
+                TakeTours.com, our users, or others. This includes 
+                exchanging information with other companies and organizations for fraud 
+                protection and credit risk reduction. </p>
+              <p> With Your Consent: Other than as set out above, you will
+                receive notice when information about you might go to third parties, 
+                and you will have an opportunity to choose not to share the information. </p>
+              <div class="line"><b>How Secure Is Information About Me?</b></div>
+              <p> We work to protect the security of your information 
+                during transmission by using Secure Sockets Layer (SSL) software, which 
+                encrypts information you input. </p>
+              <p> It is important for you to protect against unauthorized 
+                access to your password and to your computer. Be sure to sign off when 
+                finished using a shared computer. </p>
+              <div class="line"><b>What Information Can I Access?</b></div>
+              <p> TakeTours.com gives you access to the 
+                following information about you for the limited purpose of viewing and, 
+                in certain cases, updating that information. This list will change as 
+                our web site evolves. </p>
+              <ul>
+                <li> Your Account </li>
+                <li>Marketplace and Resource Area </li>
+              </ul>
+              What Choices Do I Have?
+              <p> As discussed above, you can always choose not to provide
+                information, even though it might be needed to make a purchase or to 
+                take advantage of such TakeTours.com features as Your About 
+                You Area, Wish Lists, and Customer Reviews. </p>
+              <p> You can add or update certain information on pages such 
+                as those listed in the "What Information Can I Access?" section above. 
+                When you update information, we usually keep a copy of the prior version
+                for our records. </p>
+              <p>If you do not want to receive e-mail or other mail from 
+                us, please adjust your Customer Communication Preferences. (If you do 
+                not want to receive Conditions of Use and other legal notices from us, 
+                such as this Privacy Notice, those notices will still govern your use of
+                IvyMedia, and it is your responsibility to review them for changes.) </p>
+              <p> The "help" portion of the toolbar on most browsers will 
+                tell you how to prevent your browser from accepting new cookies, how to 
+                have the browser notify you when you receive a new cookie, or how to 
+                disable cookies altogether. However, you will not be able to use 
+                important features if you do not use cookies. </p>
+              <div class="line"><b>Children</b></div>
+              <p> TakeTours.com does not sell products for 
+                purchase by children. We sell children's products for purchase by 
+                adults. If you are under 18, you may use TakeTours.com only 
+                with involvement of a parent or guardian. </p>
+              <div class="line"><b>Conditions of Use, Notices, and Revisions</b></div>
+              <p> If you choose to visit TakeTours.com, your 
+                visit and any dispute over privacy is subject to this Notice and our 
+                User Agreement, including limitations on damages, arbitration of 
+                disputes, and application of the law of the state of Washington. If you 
+                have any concern about privacy at TakeTours.com, please send
+                us a thorough description to support@taketours.com, and we will try to 
+                resolve it. Our business changes constantly. This Notice and the User 
+                Agreement will change also, and use of information that we gather now is
+                subject to the Privacy Notice in effect at the time of use. We may 
+                e-mail periodic reminders of our notices and conditions, unless you have
+                instructed us not to, but you should check our website frequently to 
+                see recent changes. </p>
+            </div>
+            <div class="right_barbot"></div>
+          </div></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+	<div id="n_bottom1">
+		<div class="blank1" style="border-bottom:solid #295dae 4px;"></div>
+		<div class="n_foot">
+		<div class="n_foot_c n_foot_cf floatL">
+		<div><b class="font13 c000">Take Tours Links</b></div>
+		<ul class="no_list_style">
+		<li><a href="http://www.taketours.com/gift-certificate/">Gift Certificate</a></li>
+		<li><a href="http://www.taketours.com/coupons/">Coupons</a></li>
+		<li><a href="http://www.taketours.com/travel-insurance/">Travel Insurance</a></li>
+		<li><a href="http://www.taketours.com/group-tour-bus-charter">Group Services</a></li>
+		<li><a href="http://www.taketours.com/tour-of-the-day/">Tour of the Day</a></li>
+		<li><a href="http://www.taketours.com/travel-companions">Travel Companions</a></li>
+		<li><a href="http://www.taketours.com/points/pointshelp/">Loyalty Program</a></li>
+		<li><a href="http://www.taketours.com/affiliate">Affiliate Program</a></li>
+		</ul>
+		<ul class="no_list_style">
+		<li><a href="http://www.taketours.com/aboutus">About Us</a></li>
+		<li><a href="http://www.taketours.com/workwithus">Work With Us</a></li>
+		<li><a href="http://blog.taketours.com/" target="blog">Travel Blog</a></li>
+		<li><a href="http://www.taketours.com/support/" target="blog">Help Center</a></li>
+		<li><a href="http://www.taketours.com/sitemap.html" target="blog">Site Map</a></li>
+		<li><a href="http://www.taketours.com/all-tours/" target="blog">All Tours</a></li>
+		</ul>
+	    </div>
+		<div class="n_foot_c floatL">
+		<div><b class="font13 c000">More Take Tours Destinations</b></div>
+		<ul class="no_list_style">
+		<li><a href="http://www.taketours.com/east-coast-tours/">East Coast Tours</a></li>
+		<li><a href="http://www.useastcoastvacation.com/">East Coast Vacation</a></li>
+		<li><a href="http://www.taketours.com/new-york-ny/">New York Tours &amp; Vacation</a></li>
+		<li><a href="http://www.taketours.com/niagara-falls-ny/">Niagara Falls Tours</a></li>
+		<li><a href="http://www.taketours.com/tours/">Tours &amp; Vacation Packages</a></li>
+		<li><a href="http://www.taketours.com/latin-america/">Latin America Tours</a></li>
+		<li><a href="http://www.taketours.com/europe/">Europe Tours &amp; Vacations</a></li>
+		</ul>
+		<ul class="no_list_style">
+		<li><a href="http://www.taketours.com/west-coast-tours/">West Coast Tours</a></li>
+		<li><a href="http://www.uswestcoastvacation.com/">West Coast Vacation</a></li>
+		<li><a href="http://www.taketours.com/yellowstone-tours/">Yellowstone Tours</a></li>
+		<li><a href="http://www.taketours.com/grand-canyon-tours/">Grand Canyon Tours</a></li>
+		<li><a href="http://www.taketours.com/los-angeles-ca/">Los Angeles Tours &amp; Vacations</a></li>
+		<li><a href="http://www.taketours.com/san-francisco-ca/">San Francisco Tours &amp; Vacations</a></li>
+		<li><a href="http://www.taketours.com/mexico/">Mexico Tours &amp; Vacations</a></li>
+		<li><a href="http://www.taketours.com/tour-destinations/"><strong>See all destinations?</strong></a></li>
+		</ul>
+	</div>
+		<div class="n_foot_c floatL">
+          <div><b class="font13 c000">More Sites</b></div>
+          <ul class="no_list_style">
+            <li><a class="s_chinese" target="_blank" href="http://cn.taketours.com"></a></li>
+            <li><a class="s_fchinese" target="_blank" href="http://big5.taketours.com/"></a></li>
+            <li><a class="s_espanol" target="_blank" href="http://www.taketours.com/spanish-language-tours/"></a></li>
+            <li><a style="margin-left:-1px" target="_blank" href="http://www.gotobus.com">GotoBus.com</a></li>
+          </ul>
+        </div>
+		<div class="n_foot_c n_foot_cl floatL">
+		<div><b class="font13 c000">Connect with us</b></div>
+		<ul class="no_list_style last">
+		<li class="facebook"><a href="http://www.facebook.com/taketours" class="ab_fbtw" style="width:100px;"></a></li>
+		<li class="tweet" style="margin-top:25px;"><a href="http://www.twitter.com/taketours" class="ab_fbtw"></a><a href="http://www.twitter.com/taketours" class="ftbold">Follow us!</a></li>
+		</ul>
+		</div>
+		<div class="clear"></div>
+		</div>
+		<div class="n_footb">
+		<img align="absbottom" src="/images/public/n_b_logo.gif" class="floatL">
+		<p class="font11 floatL">Copyright © 2011 by <a href="http://www.taketours.com">TakeTours.com</a>. All rights reserved. TakeTours is a registered trademark of IvyMedia Corporation.<br>Use of this website constitutes acceptance of TakeTours's <a class="c000" href="http://www.taketours.com/security/">Security Statement</a>, <a class="c000" href="http://www.taketours.com/privacy/">Privacy Policy</a> and <a class="c000" href="http://www.taketours.com/user-agreement/">User Agreement</a>.</p>
+	    </div>
+	</div>
+	</div>
+
+
+
+
+</body></html>
