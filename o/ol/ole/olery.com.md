@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olery.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614080104id_/http%3A//www.olery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olery.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212230100id_/http%3A//www.olery.com/privacy) for the most accurate reproduction.*
 
-# olery | Privacy policy - olery
+# Privacy policy | Olery
 
 We attach great importance to protecting the privacy of visitors to our Website and of our customers. In our processing of any personal data, we therefore exercise due care and fully comply with the requirements of the Personal Data Protection Act (Wet Bescherming Persoonsgegevens, Wbp). European data protection legislation, such as the Dutch Wbp, is among the strictest and most privacy-friendly in the world.
 
