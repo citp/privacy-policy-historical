@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animated-gifs.eu privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430210044id_/http%3A//www.animated-gifs.eu/confidentialite.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animated-gifs.eu privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212075042id_/http%3A//www.animated-gifs.eu/confidentialite.htm) for the most accurate reproduction.*
 
 # 
 
