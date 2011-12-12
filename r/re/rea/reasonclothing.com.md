@@ -1,39 +1,51 @@
-> *The following text is extracted and transformed from the reasonclothing.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626122129id_/http%3A//www.reasonclothing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonclothing.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212043138id_/http%3A//reasonclothing.com/privacy.html) for the most accurate reproduction.*
 
 # Reason Clothing
 
-We can be reached via e-mail at info@reasonclothing.com 
+Privacy Policy
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. 
+**What information do we collect?**
 
-We collect the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number. 
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
 
-The information we collect is used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes and . 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-With respect to cookies: we use cookies to store visitors preferences and record session information such as items that consumers add to their shopping cart. 
+ **How do we protect your information?**
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. 
+**Do we use cookies?**
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
+We use cookies to help us remember and process the items in your shopping cart.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+ **Do we disclose any information to outside parties?**
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. 
+ **Online Privacy Policy Only**
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them . 
+ **Terms and Conditions**
 
-Consumers can access this information by visiting us at http://www.reasonclothing.com/store.html 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.reasonclothing.com](http://www.reasonclothing.com/)
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers. 
+ **Your Consent**
 
-Consumers can have this information corrected by visiting us at http://www.reasonclothing.com/store.html 
+By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. 
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://www.reasonclothing.com  
+262 E. 2nd Street #1A  
+New York, New York 10009  
+USA  
+info@reasonclothing.com
