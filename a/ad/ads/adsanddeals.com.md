@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsanddeals.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612181025id_/http%3A//adsanddeals.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsanddeals.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212071829id_/http%3A//www.adsanddeals.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | AdsandDeals.com
 
