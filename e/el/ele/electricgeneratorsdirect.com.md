@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522082239id_/http%3A//www.electricgeneratorsdirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricgeneratorsdirect.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212071324id_/http%3A//www.electricgeneratorsdirect.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ Electric Generators Direct.com - Your Online Electric Generator Superstore
 
@@ -48,7 +48,7 @@ Power Equipment Direct, Inc. websites contains links to other websites. Please n
 If you have any questions about this Privacy statement, the practices of this website, or your dealings with this website, you can contact: 
 
 Power Equipment Direct, Inc.   
-600 Territorial Drive, Suite B   
-Bolingbrook, IL 60440 
+1325 Rodeo Drive   
+Bolingbrook, IL 60490 
 
 You can also send an e-mail to [service@electricgeneratorsdirect.com](mailto:service@electricgeneratorsdirect.com). Thank you. 
