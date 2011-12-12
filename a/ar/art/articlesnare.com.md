@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesnare.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119132708id_/http%3A//articlesnare.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesnare.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212203307id_/http%3A//www.articlesnare.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Article Snare - Privacy Policy
 
@@ -6,11 +6,11 @@
 
 ## Online Free Article Directory!
 
-[Home](https://web.archive.org/index.htm) Privacy Policy
+[Home](http://www.articlesnare.com/) Privacy Policy
 
 ## Privacy Policy
 
-  * We see serious importance in protecting you and your personal details.  
+  * We take the importance of protecting your personal information seriously.  
 
   * This Privacy Policy is designed to explain the manner in which **articlesnare.com** collects, uses, and discloses the personal information provided by you as a result of the distribution of your article via our service  
 
@@ -20,7 +20,7 @@
 
   * We collect the IP addresses of all visitors to our Site. We use your IP address in order to administer the Site, help diagnose problems with our server, to gather broad demographic information, and for the "User Tracking" described above.  
 
-  * In order to assist in protecting the confidentiality of your personal information, **articlesnare.com** applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, **articlesnare.com** cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.  
+  * In order to assist in protecting the confidentiality of your personal information, **articlesnare.com** applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be completely eliminated and, therefore, **articlesnare.com** cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.  
 
   * Keep reading the [Terms of Service](http://www.articlesnare.com/termsofservice.htm).
 
