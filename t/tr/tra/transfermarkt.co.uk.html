@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the transfermarkt.co.uk privacy policy that was archived on 2011-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615011402id_/http%3A//www.transfermarkt.co.uk/en/information/datenschutz/intern.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the transfermarkt.co.uk privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213005122id_/http%3A//www.transfermarkt.co.uk/en/information/datenschutz/intern.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Intern - Data protection - transfermarkt.co.uk</title>
@@ -9,10 +9,10 @@
 <meta name="description" content="">
 <link rel="image_src" type="image/png" href="http://static.transfermarkt.net/img/logo.png">
 <meta property="fb:admins" content="1825500939,1289701991,100001215771843">
-<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style.css?v=12">
+<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style.css?v=40">
 <link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/custom/jquery.css">
 <link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/jquery.tooltip.css">
-<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_sprites.css?v=2">
+<link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_sprites.css?v=8">
 <!--[if IE 8]>
 <link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/style_ie8.css" />
 <![endif]-->
@@ -34,7 +34,7 @@
 <link rel="alternate" type="application/rss+xml" title="Transfermarkt RSS-Feed" href="http://www.transfermarkt.co.uk/static/rss/AktuelleNewsCO.UK.rss">
 <link rel="stylesheet" type="text/css" href="http://static.transfermarkt.net/static/css/colorbox.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.transfermarkt.net/static/js/gcc/jq.js?_sn=000000003"></script>
-<script type="text/javascript" src="/static/js/developer/tmfunc.js?_sn=000000007"></script>
+<script type="text/javascript" src="http://static.transfermarkt.net/static/js/developer/tmfunc.js?_sn=000000008"></script>
 <script type="text/javascript">
 <!--
 	setGlobalStdVars("en", "", "", "0", "", "");
@@ -59,6 +59,7 @@
 				prepareCookieContainer('#modernfavs','moderneFavoriten');
 		prepareCookieContainer('#lastvisited','letzteSeiten');
 		prepareCookieContainer('#adminsonline','adminsonline');
+		prepareCookieContainer('#notes','notes');
 		
 		prepareForumForAjax();
 							$("#quicksearch_field").autocomplete("/"+glb_lang+"/undefined/ajax/autocompletebackend.html",{
@@ -94,7 +95,7 @@
 			return true;
 		}
 		return true;
-	});	
+	});
 
 	//Facebook-Gefaellt-Mir Tracken
 	time_mouseover= 0;
@@ -126,7 +127,7 @@
 	$('#facebook_gm').mouseover(function() {
 		if(!clicked) {
 			clicked=true;
-		
+
 		var var_link = encodeURIComponent($(this).attr("src"));
 		try {
 			$.post('/de/links/facebook_gm/system.html',{link: ""+var_link+""} );
@@ -175,25 +176,29 @@
 </script>
 </head>
 <body>
-<div class="dn"><img src="http://static.transfermarkt.net/start.gif?_ts=1308100441" width="1" height="1" alt="" title=""></div>
+<div class="dn"><img src="http://static.transfermarkt.net/start.gif?_ts=1323737482" width="1" height="1" alt="" title=""></div>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
 <script type="text/javascript">
-  		var adlSite = 'Transfermarkt.co.uk';
-		var adlZone = 'Other';
-  		var mfNWID = new Array(979, 1);
-  		var adlPro = window.location.protocol == 'https:' ? 'https:' : 'http:';
-  		document.write('<scr'+'ipt type="text/javascr'+'ipt" src="' + adlPro + '//js.adlink.net/js?lang=uk&amp;s='+escape(adlSite)+'&amp;z='+escape(adlZone)+'&amp;d='+new Date().getTime()+'"></scr'+'ipt>');
-	</script><script type="text/javascript" src="https://js.adlink.net/js?lang=uk&amp;s=Transfermarkt.co.uk&amp;z=Other&amp;d=1580363940769"></script>
-<div id="mf2993091" class="mfc16"> <script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(2993091, 16);</script> </div>	
+GS_googleAddAdSenseService("ca-pub-0544761737719208");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-0544761737719208", "160x600_transfermarkt.co.uk_RoS");
+GA_googleAddSlot("ca-pub-0544761737719208", "230x235_transfermarkt.co.uk_Startseite");
+GA_googleAddSlot("ca-pub-0544761737719208", "300x250_transfermarkt.co.uk_RoS");
+GA_googleAddSlot("ca-pub-0544761737719208", "30x15_transfermarkt.co.uk_Bet-Icon");
+GA_googleAddSlot("ca-pub-0544761737719208", "728x90_transfermarkt.co.uk_RoS");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
 <div style="margin-left:235px;">
-<div id="mf2993090" class="mfc225">
-<script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(2993090, 225);</script>
-</div>
+<script type="text/javascript">
+	GA_googleFillSlot("728x90_transfermarkt.co.uk_RoS");
+	</script>
 </div>
 <div id="frnMain">
-<div id="frnBanner">
-<div id="frnBannerAd">
-</div>
-</div>
 <div id="main">
 <div id="content">
 <div id="left">
@@ -206,26 +211,27 @@ Intern
 <li><a href="/en/information/datenschutz/intern.html" class="navipoint aktiv">Data security</a></li>
 <li><a href="/en/information/impressum/intern.html" class="navipoint">Legal notice</a></li>
 <li><a href="/en/information/tmteam/intern.html" class="navipoint">&nbsp;</a></li>
-<li><a href="/en/information/social-media/intern.html" class="navipoint">&nbsp;</a></li>
+<li><a href="/en/information/social-media/intern.html" class="navipoint">Social media</a></li>
 <li><a href="/en/information/tmchronik/intern.html" class="navipoint">TM Chronicles</a></li>
 <li><a href="/en/seo/specials/intern_var.html" class="navipoint">Specials</a></li>
 <li><a href="/en/intern/thomas/freundeskreis.html" class="navipoint">Godchild</a></li>
 <li><a href="/en/information/mobil/intern.html" class="navipoint">Mobile</a></li>
+<li><a href="/en/presseportal/login/presseportal.html" class="navipoint">Press portal</a></li>
 <li class="mainpoint_lasche">&nbsp;</li>
 </ul>
 <p class="hl_startseite">Facebook</p>
 <p>
 <iframe src="http://www.facebook.com/plugins/likebox.php?id=123247404411752&amp;width=160&amp;connections=8&amp;stream=false&amp;header=false&amp;height=487" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:487px;" allowtransparency="true" class="al"></iframe>
 </p>	
+<p class="hl_startseite mt10">Google</p>
+<p class="box_startseite p5">
+<!-- Dieses Tag dort einfügen, wo die +1-Schaltfläche dargestellt werden soll -->
+<g:plusone href="http://www.transfermarkt.co.uk" size="small"></g:plusone>
+</p>			
 <p class="hl_startseite mt10">Twitter</p>
 <p class="box_startseite p5">
 <a href="http://www.twitter.com/TMuk_news" target="_blank" rel="nofollow" title="Transfermarkt on Twitter" class="track_me"><img src="http://static.transfermarkt.net/static/img/t_small-a.png" width="22" height="22" alt="Folge Transfermarkt auf Twitter"></a>
 <a href="http://www.twitter.com/TMuk_news" target="_blank" rel="nofollow" title="Transfermarkt on Twitter" class="track_me">Transfermarkt.co.uk</a> on Twitter<br>
-</p>
-<p class="hl_startseite">Google</p>
-<p class="box_startseite p5">
-<!-- Dieses Tag dort einfügen, wo die +1-Schaltfläche dargestellt werden soll -->
-<g:plusone href="http://www.transfermarkt.de" size="small"></g:plusone>
 </p>
 <br><br>
 <div style="padding-left:5px;">
@@ -321,7 +327,6 @@ We will promptly announce amendments to these provisions on Transfermarkt’s ho
 <a href="/en/default/startseite/statistiken.html?from=top_navi">Statistics</a>
 <a href="/en/transfers/startseite-km/transfers.html?from=top_navi">Transfers</a>
 <a href="/en/fussball/foren/uebersicht.html?from=top_navi">forum</a>
-<a href="/en/social-network/uebersicht/mein-tm.html?from=top_navi" style="border-right:0;padding-left:21px;padding-right:21px;">Mein-TM</a>
 </div>
 <div id="headbalken">
 <span class="ca bc" style="font-size:10px;">
@@ -333,18 +338,23 @@ We will promptly announce amendments to these provisions on Transfermarkt’s ho
 <div id="frnAdSkyPos">
 </div>
 </div>
+<div id="form_notice">
+</div>
 </div>
 <div style="margin-left:975px;margin-top:12px;">
-<div id="mf2993093" class="mfc154">
-<script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(2993093, 154);</script>
+<!-- 160x600_transfermarkt.co.uk_RoS -->
+<script type="text/javascript">
+	GA_googleFillSlot("160x600_transfermarkt.co.uk_RoS");
+	</script>
 </div>
-</div>
+
+
 <script type="text/javascript">
 <!--
 var IVW="http://transfer.ivwbox.de/cgi-bin/ivw/CP/int_unternehmen;comment";
 document.write("<img src=\""+IVW+"?r="+escape(document.referrer)+"&d="+(Math.random()*100000)+"\" width=\"1\" height=\"1\" alt=\"szmtag\" name=\"szmimages\" />");
 //-->
-</script><img src="http://transfer.ivwbox.de/cgi-bin/ivw/CP/int_unternehmen;comment?r=&amp;d=9600.194994721445" width="1" height="1" alt="szmtag" name="szmimages">
+</script><img src="http://transfer.ivwbox.de/cgi-bin/ivw/CP/int_unternehmen;comment?r=&amp;d=16245.195316177185" width="1" height="1" alt="szmtag" name="szmimages">
 <noscript>
 <img src="http://transfer.ivwbox.de/cgi-bin/ivw/CP/int_unternehmen;comment" width="1" height="1" alt="szmtag" />
 </noscript>
@@ -360,6 +370,5 @@ function ReloadPixelImages() {
 $(document).bind('cbox_complete', function() {ReloadPixelImages();});
 $(document).bind('cbox_closed', function() {ReloadPixelImages();});
 </script>
-<div class="dn"><img src="http://static.transfermarkt.net/stop.gif?_ts=1308100441" width="1" height="1" alt="" title=""></div>
 
 </body></html>
