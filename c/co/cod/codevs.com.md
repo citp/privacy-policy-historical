@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the codevs.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607210733id_/http%3A//www.codevs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codevs.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212111708id_/http%3A//www.codevs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Codevs
 
-Posted on February 19, 2011 by [admin](http://www.codevs.com/author/admin/ "Posts by admin")
+Posted on February 19, 2011 by 
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
