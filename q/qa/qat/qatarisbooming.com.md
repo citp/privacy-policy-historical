@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qatarisbooming.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612225018id_/http%3A//www.qatarisbooming.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qatarisbooming.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212014848id_/http%3A//www.qatarisbooming.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Qatar Business and Corporate News
 
