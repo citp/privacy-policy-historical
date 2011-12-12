@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlotteonthecheap.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614025305id_/http%3A//www.charlotteonthecheap.com/%3Fpage_id%3D98) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlotteonthecheap.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212222313id_/http%3A//www.charlotteonthecheap.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy « Charlotte On The Cheap
 
