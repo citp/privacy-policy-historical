@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the packed.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621094324id_/http%3A//packed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packed.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212215042id_/http%3A//packed.com/privacy) for the most accurate reproduction.*
 
 # 
 
