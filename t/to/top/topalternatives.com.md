@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topalternatives.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613010229id_/http%3A//topalternatives.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topalternatives.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212020231id_/http%3A//topalternatives.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TopAlternatives.com
 
@@ -30,7 +30,7 @@ We reserve the right to disclose your personally identifiable information as req
 **Security**  
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our website, you can email us by using our [email contact form](https://web.archive.org/web/20110613010229id_/http%3A//topalternatives.com/contact.html).
+If you have any questions about security on our website, you can email us by using our [email contact form](https://web.archive.org/web/20111212020231id_/http%3A//topalternatives.com/contact.html).
 
 **Cookies**  
 A cookie is a small text file that is stored on a user's computer for record keeping purposes. We use cookies on this site. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.)
@@ -46,10 +46,10 @@ The use of cookies by our partners, affiliates, tracking utility company, or ser
 Our third-party advertising partner employs a software technology called clear gifs (a.k.a. web beacons/web bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
 
 **Updating or correcting personal information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within your account page or by emailing our Customer Support by using our [contact form](https://web.archive.org/web/20110613010229id_/http%3A//topalternatives.com/contact.html).
+If your personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within your account page or by emailing our Customer Support by using our [contact form](https://web.archive.org/web/20111212020231id_/http%3A//topalternatives.com/contact.html).
 
 **How to contact us**  
-Should you have other questions or concerns about these privacy policies, please contact us by using our [email contact form](https://web.archive.org/web/20110613010229id_/http%3A//topalternatives.com/contact.html) or the following postal address.
+Should you have other questions or concerns about these privacy policies, please contact us by using our [email contact form](https://web.archive.org/web/20111212020231id_/http%3A//topalternatives.com/contact.html) or the following postal address.
 
 > _TopAlternatives.com  
 >  500 S. Congress Ave.  
