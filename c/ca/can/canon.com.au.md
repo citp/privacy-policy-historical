@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canon.com.au privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528103948id_/http%3A//canon.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.com.au privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213161658id_/http%3A//www.canon.com.au/Privacy-Policy) for the most accurate reproduction.*
 
-# Canon - Privacy Policy
+# Privacy Policy - Canon Australia
 
 ### Introduction
 
@@ -31,15 +31,15 @@ Use and disclosure of personal information
 In accordance with NPP2:
 
   * Canon may use and/or disclose personal information for the primary purpose for which it was collected. Such primary purposes may include: 
-  * to administer and improve the performance of Canon-owned websites; 
-  * to deliver goods and services; 
-  * to address and respond to concerns or other correspondence from customers; 
-  * to deliver benefits and services to MyCanon members; 
-  * to assess applications for commercial credit and potential guarantors; and 
-  * to administer and enforce commercial credit and guarantee agreements. 
+    * to administer and improve the performance of Canon-owned websites; 
+    * to deliver goods and services; 
+    * to address and respond to concerns or other correspondence from customers; 
+    * to deliver benefits and services to MyCanon members; 
+    * to assess applications for commercial credit and potential guarantors; and 
+    * to administer and enforce commercial credit and guarantee agreements. 
   * Subject to any contrary legal obligations, Canon will only use and/or disclose personal information for secondary purposes where NPP2 permits, which includes: 
-  * where the secondary purpose is related to the primary purpose of collection, and the individual would reasonably expect such other use or disclosure; or 
-  * where the individual consents. 
+    * where the secondary purpose is related to the primary purpose of collection, and the individual would reasonably expect such other use or disclosure; or 
+    * where the individual consents. 
   * Organisations to which Canon typically may disclose personal information collected by it are companies within its corporate group, and service providers (such as credit card processors, providers of outsourced services, shipping agents, advertising and marketing agencies, and credit reporting agencies), but only to the extent necessary to enable those other entities to assist Canon in fulfilling the primary purposes for which Canon collected the information, and any permitted secondary purposes. All such entities are required to keep such information confidential and restrict their use of it to the permitted purposes. 
   * Canon will never sell or rent personal information collected by it to third parties for marketing purposes.
 
@@ -57,16 +57,16 @@ Browsing Canon-owned websites:
 MyCanon:
 
   * Individuals need to become members of MyCanon if they wish to access a number of extra benefits and services from Canon-owned websites, which may include: 
-  * the ability to enter and participate in Canon competitions and promotions online; 
-  * the ability to register their Canon products for warranty purposes; 
-  * the opportunity to subscribe to various communications, including newsletters and special offers; 
-  * the opportunity to submit Ratings and Reviews; and 
-  * the opportunity to contribute to online discussions. 
+    * the ability to enter and participate in Canon competitions and promotions online; 
+    * the ability to register their Canon products for warranty purposes; 
+    * the opportunity to subscribe to various communications, including newsletters and special offers; 
+    * the opportunity to submit Ratings and Reviews; and 
+    * the opportunity to contribute to online discussions. 
   * When joining MyCanon, individuals are asked to provide such personal information as is needed to enable Canon to supply the extra benefits or services desired by those individuals, as indicated by the options to which they subscribe (which will be presented to them in the course of the MyCanon registration process). Canon will only use or disclose that personal information for the purposes of supplying those benefits or services. 
   * Members of MyCanon can alter their preferences at any time, including by unsubscribing from any email or SMS communications. Canon complies with the Spam Act 2003 (Cth) in relation to any such communications or other electronic messages. 
   * In addition to the information individuals provide when joining MyCanon, Canon may also collect, and aggregate such information with: 
-  * information which those individuals subsequently voluntarily contribute to us and/or Canon-owned websites; 
-  * information obtained from the automatic collection tools referred to above.
+    * information which those individuals subsequently voluntarily contribute to us and/or Canon-owned websites; 
+    * information obtained from the automatic collection tools referred to above.
 
 
 
