@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rescueme.org privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424070852id_/http%3A//www.world.org/weo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rescueme.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213010813id_/http%3A//www.world.org/weo/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - World Environmental Organization - World.Org
 
@@ -39,7 +39,8 @@ Questions? WEO welcomes comments and questions on this policy. We are dedicated 
 Privacy Policy Department  
 World Environmental Organization  
 2020 Pennsylvania Ave. NW, #2001  
-Washington, DC 20006
+Washington, DC 20006  
+Email: [privacypolicy@world.org](mailto:privacypolicy@world.org)
 
 Last revised: August 1, 2007
 
