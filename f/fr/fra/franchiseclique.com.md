@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614213243id_/http%3A//franchiseclique.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseclique.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213165940id_/http%3A//www.franchiseclique.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FranchiseClique.com
 
@@ -109,8 +109,8 @@ We may update this privacy statement to reflect changes to our information pract
 You can contact us about this privacy statement by writing or email us at the address below: 
 
 Franchise Clique  
-351 Cooper River Drive   
-Mount Pleasant, SC, United States 29464   
+135 Cooper River Drive  
+Mount Pleasant, SC 29464  
 Email: [info@franchiseclique.com](mailto:info@franchiseclique.com)  
 Phone: 843-277-1095  
 | 
@@ -123,6 +123,74 @@ Phone: 843-277-1095
 
 ### Franchises by Industry
 
+  * [Advertising and Marketing](https://web.archive.org/industry/advertising-and-marketing)
+  * [Automotive Franchises](https://web.archive.org/industry/automotive-franchises)
+  * [Broker and Consultant Franchise](https://web.archive.org/industry/broker-and-consultant-franchise)
+  * [Business Opportunities](https://web.archive.org/industry/business-opportunities)
+  * [Business Services Franchises](https://web.archive.org/industry/business-services-franchises)
+  * [Canadian Franchises](https://web.archive.org/industry/canadian-franchises)
+  * [Childrens Franchises](https://web.archive.org/industry/childrens-franchises)
+  * [Cleaning and Maintenance](https://web.archive.org/industry/cleaning-and-maintenance)
+  * [Computer and Internet](https://web.archive.org/industry/computer-and-internet)
+  * [Education Franchises](https://web.archive.org/industry/education-franchises)
+  * [Employee Management Systems](https://web.archive.org/industry/employee-management-systems)
+  * [Entertainment Franchises](https://web.archive.org/industry/entertainment-franchises)
+  * [Faith-Based Franchise](https://web.archive.org/industry/faith-based-franchise)
+  * [Financial Services Franchises](https://web.archive.org/industry/financial-services-franchises)
+  * [Food and Restaurant Franchises](https://web.archive.org/industry/food-and-restaurant-franchises)
+  * [Franchise Financing](https://web.archive.org/industry/Franchise-Financing)
+  * [Franchise Resales](https://web.archive.org/industry/franchise-resales)
+  * [Franchise Services](https://web.archive.org/industry/franchise-services)
+  * [Golf Franchises](https://web.archive.org/industry/golf-franchises)
+  * [Green Franchises](https://web.archive.org/industry/green-franchises)
+  * [Health and Fitness Franchises](https://web.archive.org/industry/health-and-fitness-franchises)
+  * [Healthcare Franchises](https://web.archive.org/industry/healthcare-franchises)
+  * [High Capital Franchises](https://web.archive.org/industry/high-capital-franchises)
+  * [Home Based Business](https://web.archive.org/industry/home-based-business)
+  * [Home Services Franchises](https://web.archive.org/industry/home-services-franchises)
+  * [International Franchises](https://web.archive.org/industry/international-franchises)
+  * [Low Investment Franchises](https://web.archive.org/industry/low-investment-franchises)
+  * [Master or Area Developers](https://web.archive.org/industry/master-or-area-developers)
+  * [Minority Franchises](https://web.archive.org/industry/minority-franchises)
+  * [Mobile Franchises](https://web.archive.org/industry/mobile-franchises)
+  * [Multi Unit Franchises](https://web.archive.org/industry/multi-unit-franchises)
+  * [New Franchises](https://web.archive.org/industry/new-franchises)
+  * [Pack and Ship Franchises](https://web.archive.org/industry/pack-and-ship-franchises)
+  * [Personnel and Staffing Franchises](https://web.archive.org/industry/personnel-and-staffing-franchises)
+  * [Pet Franchises](https://web.archive.org/industry/pet-franchises)
+  * [Photo and Video Franchises](https://web.archive.org/industry/photo-and-video-franchises)
+  * [Printing and Ink Franchises](https://web.archive.org/industry/printing-and-ink-franchises)
+  * [Retail Franchises](https://web.archive.org/industry/retail-franchises)
+  * [SBA Approved Franchises](https://web.archive.org/industry/sba-approved-franchises)
+  * [Senior Care Franchises](https://web.archive.org/industry/senior-care-franchises)
+  * [Sports Franchises](https://web.archive.org/industry/sports-franchises)
+  * [Top Franchises](https://web.archive.org/industry/top-franchises)
+  * [Travel Hotel Cruise Franchises](https://web.archive.org/industry/travel-hotel-cruise-franchises)
+  * [Vending Franchises](https://web.archive.org/industry/vending-franchises)
+  * [Veterans Franchises](https://web.archive.org/industry/veterans-franchises)
+  * [Wireless Franchises](https://web.archive.org/industry/wireless-franchises)
+  * [Womens Franchises](https://web.archive.org/industry/womens-franchises)
+
+
+
 ### Franchises by Investment
 
+  * [$25,000 or less](https://web.archive.org/investment/25000)
+  * [$25,000 - $50,000](https://web.archive.org/investment/50000)
+  * [$50,000 - $100,000](https://web.archive.org/investment/100000)
+  * [$100,000 - $250,000](https://web.archive.org/investment/250000)
+  * [$250,000 - $500,000](https://web.archive.org/investment/500000)
+  * [$500,000+](https://web.archive.org/investment/99999999)
+
+
+
 ### Popular Searches
+
+  * [New Franchises](https://web.archive.org/popular/new)
+  * [Top 50 Franchises](https://web.archive.org/popular/top50)
+  * [Top 100 Franchises](https://web.archive.org/popular/top100)
+  * [Highlighted Franchises](https://web.archive.org/popular/highlighted)
+  * [Veteran's Franchises](https://web.archive.org/industry/veterans-franchises)
+  * [Women's Franchises](https://web.archive.org/industry/womens-franchises)
+
+
