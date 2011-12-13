@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614193232id_/http%3A//www.multcolib.org/about/pol-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multcolib.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213090545id_/http%3A//multcolib.org/about/pol-privacy.html) for the most accurate reproduction.*
 
 # Library Policies: Privacy and Confidentiality of Library Records - Multnomah County Library
 
