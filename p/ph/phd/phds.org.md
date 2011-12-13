@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phds.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612223126id_/http%3A//www.phds.org/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phds.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213040644id_/http%3A//www.phds.org/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy — Find great jobs at Jobs.PhDs.org
 
