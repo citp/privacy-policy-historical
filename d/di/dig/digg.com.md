@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624092038id_/http%3A//about.digg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digg.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213231726id_/http%3A//about.digg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Digg About
 
