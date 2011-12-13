@@ -1,14 +1,17 @@
-<!--The following is the downloaded HTML source of the bharatstudent.com privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227114155id_/http%3A//www.bharatstudent.com/help/faq-privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bharatstudent.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213044748id_/http%3A//www.bharatstudent.com/help/faq-privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>BharatStudent Help</title>
 <link href="style-help.css" rel="stylesheet" type="text/css">
+<style>
+body{margin: 0px; background: url(http://www.bharatstudent.com/bgimg/pattern_10.gif) repeat top fixed; background-color:#a2b3b2;}
+</style>
 <script language="javascript">
 function validhsrcform(){var frm=document.hsrcform;var txt = frm.shname.value;if(txt == "Find Friends" || txt ==""){alert("Please enter text for search");frm.shname.focus();return false;}}
-function focushsrc(){var frm=document.hsrcform;var txt = frm.shname.value; if(txt == "Find Friends") frm.shname.value="";frm.shname.className='inputboxsel';}
-function blurhsrc(){var frm=document.hsrcform;var txt = frm.shname.value; if(txt == "") frm.shname.value = "Find Friends";frm.shname.className='inputbox';}
+function focushsrc(){var frm=document.hsrcform;var txt = frm.shname.value; if(txt == "Find Friends") frm.shname.value="";}
+function blurhsrc(){var frm=document.hsrcform;var txt = frm.shname.value; if(txt == "") frm.shname.value = "Find Friends";}
 </script>
 <script type="text/javascript" src="http://www.bharatstudent.com/js/mainmenu.js"></script>
 </head>
@@ -17,7 +20,100 @@ function blurhsrc(){var frm=document.hsrcform;var txt = frm.shname.value; if(txt
   <tbody><tr>
     <td align="center" valign="top"><table width="1003" height="100" border="0" cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td>&nbsp;</td>
+        <td align="right" valign="top">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+				<td align="left" valign="middle">&nbsp;</td>
+				<td width="350" align="right" valign="top"> <script language="javascript">
+	var reqwcup = createXMLHttpRequestwcup();		
+	function createXMLHttpRequestwcup() {  
+		// find the correct xmlHTTP, works with IE, FF and Opera
+		var xmlhttp;
+		try {
+			xmlhttp=new ActiveXObject("Msxml2.XMLHTTP");
+		} catch(e) {
+			try {
+				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+			} catch(e) {
+				xmlhttp=null;
+			}
+		}
+		if(!xmlhttp&&typeof XMLHttpRequest!="undefined") {
+			xmlhttp=new XMLHttpRequest();
+		}
+		return  xmlhttp;
+	}
+		
+		
+	function getminiweb() {
+		var datav = "";
+		var url = "http://www.bharatstudent.com/get_cricket_web.php";
+	
+		var method ="POST";
+		var async =true;
+		reqwcup.open(method, url, async);
+		if(method == "POST") {
+			reqwcup.setRequestHeader("Connection", "close");
+			reqwcup.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8");
+			reqwcup.onreadystatechange = handleResponsewcup;
+			reqwcup.send(datav);
+		}
+	}
+	function handleResponsewcup() {
+		try {	 
+			if(reqwcup.readyState == 4) {
+				var response = reqwcup.responseText;
+				document.getElementById('demoDiv').innerHTML = response;
+				//document.title = document.getElementById('ptitle').value;
+				//setTimeout('getminiweb()',10000);
+			}				
+		} catch(e) {
+		}
+	}
+	
+getminiweb();
+</script>
+<style type="text/css">
+body{margin:0; padding:0; font-family:Tahoma, Geneva, sans-serif;}
+#demoDiv {width:330px; height:95px; background: url(http://www.bharatstudent.com/cricket/scorecard_images/bg.png) no-repeat top center;}
+div#demoDiv td ,div#demoDiv a { position: relative; }
+.clt20_txt12{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#2a4e97}
+.clt20_redtxt{font-size:12px; color:#F00F00;font-family:Arial, Helvetica, sans-serif;}
+.clt20_blacktxt{font-size:14px; color:#000000;font-family:Arial, Helvetica, sans-serif;}
+.clt20_greentxt{font-size:12px; color:#009f00;font-family:Arial, Helvetica, sans-serif;}
+.clt20_txt15{font-family:Arial, Helvetica, sans-serif; color:#00497e; font-size:15px;}
+.clt20_txt14{font-family:Arial, Helvetica, sans-serif; color:#00497e; font-size:14px;}
+.txt12{font-size:12px;font-family:Tahoma, Geneva, sans-serif;}
+.txt14{font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#666666;}
+.redtxt{font-size:12px; color:#F00F00;font-family:Tahoma, Geneva, sans-serif;}
+.txt15{font-family:Arial, Helvetica, sans-serif; color:#00497e; font-size:15px;}
+</style>
+<!--[if lte IE 6]>
+<style>
+DIV#demoDiv
+{
+ background-image: none;
+ filter:
+progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://www.bharatstudent.com/cricket/scorecard_images/bg.png,
+sizingMethod='scale');
+}
+</style>
+<![endif]-->    
+<table width="330" border="0" align="center" cellpadding="0" cellspacing="0" height="95">
+<tbody><tr>
+	<td height="95" valign="middle" align="center">
+   <div id="demoDiv" style="color:#036;"></div>
+   </td>
+</tr>
+</tbody></table>
+<!--<table width="330" border="0" align="center" cellpadding="0" cellspacing="0" height="95">
+<tr>
+	<td height="95" valign="top"></td>
+</tr>
+</table>--></td>
+				</tr>
+			</tbody></table>
+      </td>
       </tr>
     </tbody></table>
         <table width="1003" height="80" border="0" cellpadding="0" cellspacing="0">
@@ -29,39 +125,43 @@ function blurhsrc(){var frm=document.hsrcform;var txt = frm.shname.value; if(txt
                 <tbody><tr>
                   <td width="242" rowspan="2" align="center" valign="middle"><a href="http://www.bharatstudent.com/index.php"><img src="http://www.bharatstudent.com/images/bharatstudent-logo.gif" border="0" alt="Bharatstudent.com" title="Bharatstudent.com"></a>
 				  </td>
-                  <td width="747" align="right" style="padding-right:7px;"><table width="450" border="0" cellspacing="0" cellpadding="0">
+                  <td width="747" align="right" style="padding-right:7px;">
+                  <table width="500" border="0" cellspacing="0" cellpadding="0">
                   <tbody><tr>
-                        <td width="147" align="right" valign="middle"><a href="http://www.bharatstudent.com/userinfo.php?fid=" class="darkbluelink"><strong></strong></a></td>
-                        <td width="59" align="center" valign="middle"></td>
-													<td width="54" align="center" valign="middle"><a href="http://www.bharatstudent.com/login.php" class="bluelink">Login</a></td>
-							<td width="54" align="center" valign="middle"><a href="http://www.bharatstudent.com/register.php" class="bluelink">Signup</a></td>						
-						                      <td width="190" align="right"><table border="0" cellspacing="0" cellpadding="0" align="right">
-					  <form name="hsrcform" action="http://www.bharatstudent.com/friends/searchfriends.php" method="post" onsubmit="return validhsrcform()"></form>
-                <tbody><tr>
-                  <td height="19" align="right" valign="bottom"><input name="shname" id="shname" type="text" class="inputbox" value="Find Friends" onblur="blurhsrc();" onfocus="focushsrc();"></td>
-				  <td align="left"><input type="image" src="../images/search-click.gif"></td>
-				  <td width="4"></td>
-                  </tr>
-				  
-            </tbody></table></td>
+                    <td align="right" valign="middle" class="darkbluetext"><a href="http://www.bharatstudent.com/register.php" class="darkbluelink"><strong>Sign Up</strong></a> | <a href="http://www.bharatstudent.com/login.php" class="darkbluelink"><strong>Login</strong></a></td>				
+                     <td width="175" align="right" valign="middle">
+                    <table width="156" border="0" cellpadding="0" cellspacing="0" class="boxbg" height="29">
+                     <form name="hsrcform" id="hsrcform" action="http://www.bharatstudent.com/friends/searchfriends.php" method="post" onsubmit="return validhsrcform()"></form>
+                    <tbody><tr>
+                        <td width="122" align="right" valign="middle" style="padding-left:2px;">
+                        <input name="shname" id="shname" type="text" class="inputtxt" value="Find Friends" onblur="blurhsrc();" onfocus="focushsrc();">
+                        </td>
+                        <td width="24" height="30" align="left" valign="middle">
+                        <input type="image" src="http://www.bharatstudent.com/images/search_btn.gif" alt="" width="20" height="20" border="0" align="absmiddle">
+                        </td>
+                        </tr>
+                        
+                        </tbody></table>
+                        </td>
                     </tr>
-                  </tbody></table></td>
+                  </tbody></table>
+                  
+                  </td>
                   <td width="20" align="right">&nbsp;</td>
                 </tr>
                 <tr>
-                  <td colspan="2" align="right" valign="bottom"><table width="580" border="0" cellspacing="0" cellpadding="0">
+                  <td colspan="2" align="right" valign="bottom"><table width="500" border="0" cellspacing="0" cellpadding="0">
 					  <tbody><tr>
 						<td>
 						<!-- -->  
 					
-										<div id="bluemenu" class="bluetabs">
+										<div id="bluemenu" class="bluetabs"> 
 						<ul>
-							<li><a href="http://www.bharatstudent.com/dashboard.php" class="currentlink">Home</a></li>
-							<li><a href="http://www.bharatstudent.com/friends/index.php" rel="dropmenu1_b">Social Networking</a></li>
+							                            <li><a href="http://www.bharatstudent.com/dashboard.php" class="currentlink">Home</a></li>
+                            							<li><a href="http://www.bharatstudent.com/friends/index.php" rel="dropmenu1_b">Social Networking</a></li>
 							<li><a href="http://www.bharatstudent.com/study-india/studyindia.php" rel="dropmenu2_b">Study Zone</a></li>
 							<li><a href="http://www.bharatstudent.com/cafebharat/cafebharat-Hindi-1.php" rel="dropmenu4_b">Cafe Bharat</a></li>
-							<li><a href="http://www.bharatstudent.com/classifieds/index.php" rel="dropmenu5_b">Services</a></li>
-							<li><a href="http://www.bharatstudent.com/girls/girlsonly.php" rel="dropmenu3_b">GenX Zone</a></li>
+							<li><a href="http://www.bharatstudent.com/girls/girlsonly.php" rel="dropmenu5_b">GenX Zone</a></li>
 							<li><a href="http://www.bharatstudent.com/mytab.php" rel="dropmenu6_b">+ My Tab</a></li>
 						</ul>
 					</div>
@@ -72,8 +172,8 @@ function blurhsrc(){var frm=document.hsrcform;var txt = frm.shname.value; if(txt
 						<a href="http://www.bharatstudent.com/gangs/gang.php" class="icongangs icons">Gangs</a>
 						<a href="http://www.bharatstudent.com/photos.php" class="iconphotos icons">Photos</a>
 						<a href="http://www.bharatstudent.com/ctv/index.php" class="iconvideos icons">Videos</a>
-						<a href="http://www.bharatstudent.com/blogs/blogs.php" class="iconblogs icons">Blogs</a>
-						<a href="http://www.bharatstudent.com/events/index.php" class="iconevents icons">Events</a>
+						<a href="http://www.bharatstudent.com/greetings/index.php" class="icongreetings icons">Greetings</a>
+						<a href="http://www.bharatstudent.com/classifieds/index.php" class="iconclassifieds icons">Classifieds</a>
 						<a href="http://www.bharatstudent.com/forum/index.php" class="iconforums icons">Forums</a>
 					</div>
 					
@@ -82,10 +182,10 @@ function blurhsrc(){var frm=document.hsrcform;var txt = frm.shname.value; if(txt
 						<a href="http://www.bharatstudent.com/study-india/studyindia.php" class="iconstudyindia icons">Study India</a>
 						<a href="http://www.bharatstudent.com/study-abroad/studyabroad.php" class="iconstudyabroad icons">Study Abroad</a>
 						<a href="http://www.bharatstudent.com/study-zone/campustv.php" class="iconcampustv icons">Campus TV</a>
-						<a href="http://www.bharatstudent.com/study-zone/knowledgebase.php" class="iconknowledgebase icons">Knowledge Base</a>
+						<a href="http://results.bharatstudent.com/notifications.php" class="iconknowledgebase icons">Notifications</a>
 						<a href="http://www.bharatstudent.com/study-india/examresult.php" class="iconexamresults icons">Exam Results</a>
 						<a href="http://www.bharatstudent.com/study-zone/campussearch.php" class="iconcampussearch icons">Campus Search</a>
-						<a href="http://www.bharatstudent.com/study-zone/careers.php" class="iconcareers icons">Careers</a>
+						<a href="http://www.bharatstudent.com/study-zone/careers.php" class="iconcareers icons">My First Job</a>
 					</div>
 					
 					<!--Cafe Bharat -->    
@@ -96,26 +196,23 @@ function blurhsrc(){var frm=document.hsrcform;var txt = frm.shname.value; if(txt
 						<a href="http://www.bharatstudent.com/cafebharat/cafebharat-Bengali-6.php" class="iconbengali icons">Bengali</a>
 						<a href="http://www.bharatstudent.com/cafebharat/cafebharat-Kannada-5.php" class="iconkannada icons">Kannada</a>
 						<a href="http://www.bharatstudent.com/cafebharat/cafebharat-Malayalam-4.php" class="iconmalayalam icons">Malayalam</a>
-						<a href="http://www.bharatstudent.com/cafebharat/hollywood_trailers-Hollywood-Trailers-1.php" class="iconhollywood icons">Hollywood</a>
+						<a href="http://www.bharatstudent.com/cafebharat/hollywood_trailers-Hollywood-Trailers-1.php" class="iconhollywood icons">English</a>
 					</div>
 					
 					<!--Services -->                                                   
-					<div id="dropmenu5_b" class="dropmenudiv_b">
-						<a href="http://www.bharatstudent.com/classifieds/index.php" class="iconclassifieds icons">Classifieds</a>
-						<a href="http://www.bharatstudent.com/greetings/index.php" class="icongreetings icons">Greetings</a>
-						<a href="http://www.bharatstudent.com/store/index.php" class="iconstore icons">Store</a>
-						<a href="http://www.ganeshaspeaks.com/?partnerName=bharatstudent" target="_blank" class="iconastro icons">Astrology</a>						
-						<a href="http://www.bharatstudent.com/iplt20/index.php" class="iconipl icons">IPL 2010</a>
+					<div id="dropmenu5_b" class="dropmenudiv_b">						
+						<a href="http://www.bharatstudent.com/girls/girlsonly.php" class="icongirlsonly icons">Girls Only</a>
+						<a href="http://www.bharatstudent.com/boyzone/index.php" class="iconboyzone icons">Boy Zone</a>
+						<a href="http://www.bharatstudent.com/games/index.php" class="icongamezone icons">Game Zone</a>
+                        <a href="http://www.bharatstudent.com/liveradio/index.php" class="iconliveradio icons">Live Radio</a>
+                        <a href="http://www.bharatstudent.com/starplayer/starplayer.php" class="iconstarplayer icons">Star Player</a>
+								<a href="http://www.bharatstudent.com/recharge.php" class="iconmobile icons" target="_blank">Recharge Mobiles</a>
+						<a href="http://www.bharatstudent.com/cricket/index.php" class="iconipl icons">Cricket</a>
 					</div>
 					
 					
 					<!--GenX Zone -->                                                
 					<div id="dropmenu3_b" class="dropmenudiv_b">
-						<a href="http://www.bharatstudent.com/girls/girlsonly.php" class="icongirlsonly icons">Girls Only</a>
-						<a href="http://www.bharatstudent.com/boyzone/index.php" class="iconboyzone icons">Boy Zone</a>
-						<a href="http://www.bharatstudent.com/games/index.php" class="icongamezone icons">Game Zone</a>
-						<a href="http://www.bharatstudent.com/liveradio/index.php" class="iconliveradio icons">Live Radio</a>
-                  <a href="http://www.bharatstudent.com/starplayer/starplayer.php" class="iconstarplayer icons">Star Player</a>
 					</div>
 
 
@@ -322,10 +419,7 @@ If you have any questions about this privacy statement, the practices of this si
       </tbody></table></td>
   </tr>
 </tbody></table>
-					<!-- BEGIN STANDARD TAG - popunder only - ROS: Run-of-site - DO NOT MODIFY -->
-					<script type="text/javascript" src="http://ad.bharatstudent.com/st?ad_type=pop&amp;ad_size=0x0&amp;section=374086&amp;banned_pop_types=29&amp;pop_times=1&amp;pop_frequency=300"></script>
-					<!-- END TAG -->
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-1396565-1";
 urchinTracker();
@@ -345,6 +439,7 @@ urchinTracker();
       </tr>
     </tbody></table></td>
 </tr></tbody></table>
+<script type="text/javascript" src="http://www.bharatstudent.com/js/pinwebsite.js"></script>
 
 
 </body></html>
