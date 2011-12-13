@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcrew.com privacy policy that was archived on 2010-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100911083005id_/http%3A//www.jcrew.com/footer/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcrew.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213075631id_/http%3A//www.jcrew.com/footer/privacy.jsp) for the most accurate reproduction.*
 
 # Help-Privacy Policy
 
@@ -66,7 +66,7 @@ If you do not wish to receive J.Crew or crewcuts marketing emails, you may opt o
 
 
 
-If you do not wish to receive Madewell marketing emails, you may opt-out by clicking on the unsubscribe link found at the bottom of all Madewell marketing emails, or by emailing [contactus@jcrew.com](mailto:contactus@jcrew.com) with the following:
+If you do not to receive Madewell marketing emails, you may opt-out by clicking on the unsubscribe link found at the bottom of all Madewell marketing emails, or by emailing [contactus@jcrew.com](mailto:contactus@jcrew.com) with the following:
 
   * The phrase "no Madewell email" in the subject line
   * Your name and email address
@@ -86,7 +86,7 @@ J.Crew Customer Relations
 One Ivy Crescent  
 Lynchburg, VA 24513-1001
 
-Or you may contact us by phone at (800) 562-0258, 24 hours a day, seven days a week.
+Or you may contact us by phone at 800 562 0258, 24 hours a day, seven days a week.
 
 Please be aware that it can take up to 10 business days to remove you from our marketing email lists. And although we will no longer share your contact information with unaffiliated third parties for their marketing purposes, if they already have your information you will have to opt-out of their marketing communications by contacting them directly. If you opt-out from receiving our marketing emails, you will continue to receive order confirmation and shipping status emails. 
 
@@ -123,7 +123,7 @@ J.Crew Customer Relations
 One Ivy Crescent  
 Lynchburg, VA 24513-1001
 
-Or you may contact us by phone at (800) 562-0258, 24 hours a day, seven days a week. 
+Or you may contact us by phone at 800 562 0258, 24 hours a day, seven days a week. 
 
 ## your online account
 
@@ -139,7 +139,7 @@ To enhance your shopping experience, our websites may include links to other sit
 
 ##  how we work with third party service providers
 
-J.Crew works with reputable third parties who perform services on our behalf. Sometimes these service providers need information about our customers in order to do their jobs, such as fulfill orders and promotions, maintain and manage our customer database and report on customer behavior and/or preferences. When J.Crew allows these service providers access to your information, we require them to maintain your information in the strictest confidence and we do not permit them to use it in any way other than to help us provide you with better service. 
+J.Crew works with reputable third parties who perform services on our behalf. Sometimes these service providers need information about our customers in order to do their jobs, such as fulfill orders and promotions, maintain and manage our customer database and report on customer behavior and/or preferences. When J.Crew allows these service providers access to your information, we require them to maintain your information in the strictest confidence and we do not permit them to use it in any way other than to help us provide you with better service.
 
 We currently use the services of a few carefully selected companies to help manage and optimize our Internet business and communications. These companies help us to measure the effectiveness of our advertising and better understand how visitors use our sites. To do this, cookies are placed on computer browsers and web beacons are placed on our websites on our behalf. The type of information collected in this manner includes pages visited, products viewed and products placed in your shopping cart. By supplementing our records, this information helps us to identify what pages are most attractive to our visitors, which of our products most interest our customers and what kinds of offers our customers like to see. 
 
@@ -172,7 +172,7 @@ Only browsers that use the 256-bit Secure Socket Layer technology are able to or
 
 While we implement these and other security measures on our sites, please note that 100% security is not always possible. You play a role in protecting your information as well. Because your password permits access to your personal information, please keep your password secret and do not disclose it to others.
 
-## accessing our web sites from outside the US
+## accessing our web sites from outside the U.S.
 
 If you are visiting jcrew.com or madewell.com from a location outside of the United States, you will be connected through and to servers located within the United States. All online orders will be accepted and fully processed in and shipped from the United States and all information you provide will be securely maintained on web servers and our internal systems located within the United States. By providing your information to us, you agree that all personal information will be used in accordance with this privacy policy and pursuant to U.S. law. 
 
@@ -180,12 +180,11 @@ If you are visiting jcrew.com or madewell.com from a location outside of the Uni
 
 We may update our privacy policy from time to time. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. If we make a material change to our privacy policy that would lessen your privacy rights, we will either continue to honor our prior policy for information that we collected when it was in force, or we will ask for your consent to the change. If you have any questions or concerns regarding our privacy policy, please contact us: 
 
-  * By email: [contactus@jcrew.com](mailto:contactus@jcrew.com)
-  * By phone: (800) 562-0258  
+  * By email:  [contactus@jcrew.com](mailto:contactus@jcrew.com)
+  * By phone: 800 562 0258  
                 24 hours a day, seven days a week
-  * By fax: (434) 385-5750
-  * By mail:  
-                J.Crew Customer Relations  
+  * By fax:     434 385 5750
+  * By mail:    J.Crew Customer Relations  
                 One Ivy Crescent  
                 Lynchburg, VA 24513-1001 
 
