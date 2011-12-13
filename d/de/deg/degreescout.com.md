@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the degreescout.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613051413id_/http%3A//www.degreescout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreescout.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213063104id_/http%3A//www.degreescout.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DegreeScout
+# Privacy Policy | Online MBA
 
 The privacy practices of this statement apply to our services available under the domain and sub-domains of DegreeScout. Please note that this Privacy Policy applies only to sites maintained by DegreeScout and not to websites maintained by other companies or organizations to which we link. In addition, this Policy applies only to information collected by DegreeScout online, not offline. By visiting our websites you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our services.
 
