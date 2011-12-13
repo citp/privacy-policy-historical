@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the xpertravels.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812092148id_/http%3A//www.xpertravels.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpertravels.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213135750id_/http%3A//www.xpertravels.com/privacy.html) for the most accurate reproduction.*
 
 # XperTravels.com - Privacy Policy
 
+|  |  | 
+
+## Privacy Policy  
+  
+---  
+  
 **Collection of personal information :**  
 We may seek your name and email address. Once you book a tour or send a query , you are no longer anonymous to us and you are able to take full advantage of our online offerings. Wherever we collect personal information, we make an effort to include a link to this Privacy Policy on that page. 
 
@@ -10,8 +16,7 @@ When you are on our website and are asked for personal information, you are shar
 **Use of Personal Information :**  
 Our primary goal in collecting personal information is to provide you, with a customized experience on our website. This includes personalization services, interactive communications and many other services, most of which come absolutely free to you. 
 
-We may, from time to time, send you email regarding its new products and services. In addition, if you indicate upon registration that you are interested in receiving offers or information from us, we may occasionally send you direct mails about products and services that we feel may be of interest to you. Only we/our agents (under confidentiality agreements), will send you these direct mailings and only if you do not object to these offers. If you do not wish to receive such mailing, kindly inform us while registering, or at any time by editing your registration information. 
-
+We may, from time to time, send you email regarding its new products and services. In addition, if you indicate upon registration that you are interested in receiving offers or information from us, we may occasionally send you direct mails about products and services that we feel may be of interest to you. Only we/our agents (under confidentiality agreements), will send you these direct mailings and only if you do not object to these offers. If you do not wish to receive such mailing, kindly inform us while registering, or at any time by editing your registration information.   
 ****
 
 **Sharing of Information :**  
