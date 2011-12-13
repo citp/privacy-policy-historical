@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muslima.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626042314id_/http%3A//www.muslima.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muslima.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213155702id_/http%3A//www.muslima.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Muslima.com | Privacy Policy
 
