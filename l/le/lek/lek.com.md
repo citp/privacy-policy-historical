@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522015444id_/http%3A//www.lek.com/lek-consulting-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lek.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213185328id_/http%3A//www.lek.com/lek-consulting-privacy-policy) for the most accurate reproduction.*
 
 # L.E.K. Consulting Privacy Policy | L.E.K. Consulting
 
+**WARNING -** An apparent scam is being operated by one or more individuals identifying themselves as “Dr. James Matthew” and “Dr. Javier Modric.” These individuals are claiming to have an employment position available and falsely claiming to be affiliated with L.E.K. Consulting. Please note that these individuals are not affiliated with L.E.K. Consulting (or any of its affiliates around the world) and any communication by such individuals is not from or on behalf of L.E.K. Consulting, and L.E.K. Consulting recommends that such communications should be disregarded.  
+ 
+
+**WARNING** \- We are aware that an apparent financial scam (involving the purchase and sale of shares) is being operated by persons purporting to work for a company called L.E.K Consulting Group LLC, of New Bond House, 124 New Bond Street, London, W1S 1DX. The principal contacts purport to be a Mr Isaac Coleman and a Mr James Goodwin. Please note that this company and  these persons are in no way connected to L.E.K. Consulting (or any of its affiliates around the world). We have reported this matter to the Financial Services Authority and recommend that anyone who is contacted by L.E.K Consulting Group LLC (or a company with a similar name) also report this to the Financial Services Authority through the following webpage: 
+
+[http://www.fsa.gov.uk/pages/consumerinformation/scamsandswindles/sharescams/index.shtml](http://www.fsa.gov.uk/pages/consumerinformation/scamsandswindles/sharescams/index.shtml)
+
+  
 This is the Web site of L.E.K. Consulting LLC and its affiliates (“L.E.K. Consulting”), which has its main office in the United States in Boston, Massachusetts.We can be reached via e-mail at: [info@lek.com](mailto:info@lek.comn) and our postal address is:
 
 28 State Street  
@@ -14,8 +22,7 @@ We respect your privacy, and this Privacy Policy describes the information colle
 
 When you access our Web site, L.E.K. Consulting will collect and store certain information, such as: the domain name and host from which you access the Internet, the browser software and operating system of your computer, the Internet protocol (IP) address of your computer, the pages accessed or visited on the site, the Internet address of the site from which you directly linked to L.E.K. Consulting’s site, as well as your browser’s country setting.
 
-Our Web site uses “Cookies,” which are text files placed on your computer to store certain preferences and information. L.E.K. Consulting does not use Cookies to track or collect personal identification information from Web site users. Your browser includes instructions to allow you to establish certain settings on your computer to warn you before a Cookie is stored, block all Cookies or erase Cookies from your hard drive, if you wish to do so.  
- 
+Our Web site uses “Cookies,” which are text files placed on your computer to store certain preferences and information. L.E.K. Consulting does not use Cookies to track or collect personal identification information from Web site users. Your browser includes instructions to allow you to establish certain settings on your computer to warn you before a Cookie is stored, block all Cookies or erase Cookies from your hard drive, if you wish to do so.
 
 **Collection of Voluntary Information by L.E.K. Consulting.**
 
