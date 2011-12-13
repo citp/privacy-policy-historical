@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605163619id_/http%3A//www.sallybeauty.com/privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallybeauty.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213175651id_/http%3A//www.sallybeauty.com/privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # sallybeauty.com Privacy Policy
 
