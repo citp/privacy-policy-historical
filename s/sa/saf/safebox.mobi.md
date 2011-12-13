@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the safebox.mobi privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408235953id_/http%3A//www.safebox.mobi/web/en/safebox-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safebox.mobi privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213034745id_/http%3A//www.safebox.mobi/web/new/safebox-privacy-policy.html) for the most accurate reproduction.*
 
-# SafeBox.mobi | Mobile Privacy Application – Private SMS, phonebook and notes
+# SafeBox.mobi | Mobile Privacy Application � Private SMS, phonebook and notes
 
-**PRIVACY POLICY**
+### SafeBox Privacy Policy
 
-We at SafeBox Ltd., and our wholly-owned subsidiaries worldwide (collectively, " SafeBox ") respect your privacy. We are posting SafeBox's Privacy Policy (the " Policy ") to clearly disclose SafeBox's practices and approach to respectful and fair data protection. 
+We at SafeBox Solutions Ltd., and our wholly-owned subsidiaries worldwide (collectively, " SafeBox ") respect your privacy. We are posting SafeBox's Privacy Policy (the " Policy ") to clearly disclose SafeBox's practices and approach to respectful and fair data protection. 
 
 This Policy governs how we collect, protect, store, process, transfer and use the personally identifiable information we collect from and about you. This Policy applies to SafeBox's online and off-line activities, except where we have published other privacy policies or terms and conditions. 
 
@@ -86,7 +86,10 @@ We are committed to privacy and are actively involved in current industry initia
 
 SafeBox regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or SafeBox's treatment of PII by contacting us at info@safebox.mobi or by writing to us at: 
 
-SafeBox Ltd.   
-78 Merrion Square  
-Dublin 2  
-Ireland
+SafeBox Solutions Ltd.   
+1109-10 C C Wu Building  
+302-8 Hennessy Road  
+Wanchai  
+Hong Kong
+
+© 2011 Copyright SafeBox Solutions Limited - All rights reserved. 
