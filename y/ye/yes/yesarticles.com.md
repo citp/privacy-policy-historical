@@ -1,42 +1,24 @@
-> *The following text is extracted and transformed from the yesarticles.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513070810id_/http%3A//www.yesarticles.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesarticles.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213122203id_/http%3A//www.yesarticles.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy Read Free Articles Directory - Submit Articles :: Yes Articles
 
-May 12, 2011
+Dec 13, 2011
 
 * * *
 
-May 12, 2011
+Dec 13, 2011
 
 * * *
 
-May 12, 2011
+Dec 13, 2011
 
 * * *
 
-May 12, 2011
+Dec 13, 2011
 
 * * *
 
-May 12, 2011
-
-36292 Views
-
-* * *
-
-31922 Views
-
-* * *
-
-18912 Views
-
-* * *
-
-6217 Views
-
-* * *
-
-4924 Views
+Dec 13, 2011
 
 | 
 
@@ -55,6 +37,24 @@ Despite what is written above, the company is entitled to transfer personal info
 
 
 
+38036 Views
+
+* * *
+
+33314 Views
+
+* * *
+
+20538 Views
+
+* * *
+
+7694 Views
+
+* * *
+
+6297 Views
+
 | 
 
 I was very pleased to find useful web site, with good articles, staff and fan... David 
@@ -63,6 +63,14 @@ David
 
 I found YesArticles very easy to submit articles and it was a pleasure to do so
 
-Nick Jonson  
+Nick Jonson
+
+2011/10/18
+
+2011/09/20
+
+2011/11/14
+
+2011/11/14  
   
 ---|---|---
