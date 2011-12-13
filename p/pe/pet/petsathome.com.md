@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231014744id_/http%3A//www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213194320id_/http%3A//www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551) for the most accurate reproduction.*
 
-# Pets at Home – Free Standard Delivery - PrivacyPolicy
+# 
 
   * Your consent
   * What information do we collect and why?
@@ -17,7 +17,7 @@ For the purposes of the Data Protection Act 1998 (the "Act"), the data controlle
 
 ## Your consent
 
-Subject to the additional information contained on the page headed "Statement on the use and disclosure of Personal Data", by using the Website, you understand and agree that the information you provide through the Website will be held on a database created and operated by Pets At Home Limited and used by Pets at Home Limited and/or any other company in the Pets at Home group and/or any of their affiliated companies to provide and personalise our service. We may contact you for marketing reasons via post, telephone, fax or email or other appropriate means.
+Subject to the additional information contained on the page headed "Statement on the use and disclosure of Personal Data", by using the Website, you understand and agree that the information you provide through the Website will be held on a database created and operated by Pets At Home Limited and used by Pets at Home Limited, any other company in the Pets at Home group, any of their affiliated companies, and/or other selected third parties to provide and personalise our service. We, our group and affiliated companies, and other carefully selected third parties, may contact you for marketing reasons via post, telephone, fax or email or other appropriate means.
 
 Back to Top
 
@@ -56,7 +56,7 @@ Back to Top
 
 ## Protecting your security
 
-To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Act.
 
 Back to Top
 
@@ -64,11 +64,11 @@ Back to Top
 
 We may send you, for example, brochures, leaflets, catalogues and other promotional material for our products and services. We may also telephone or email you to discuss order details or for market or service research. In addition, we may include leaflets or brochures for complimentary products and services from third parties with our marketing communications or parcels. 
 
-We may also permit selected third parties to use your data to provide you with information about goods and services which may be of interest to you and they may contact you about these by post or telephone.
+We may also permit selected third parties to use your data to provide you with information about goods and services which may be of interest to you and they may contact you about these by post or telephone. They may also contact you by email or SMS where you have consented to receiving such communications.
 
 We may monitor or record telephone calls to ensure our quality standards are maintained and for fraud prevention purposes.
 
-We may disclose your personal information to any member of the Pets At Home Limited group, which means Pets At Home Limited's subsidiaries, ultimate holding company and its subsidiaries, as defined in section 736 of the Companies Act 1985.
+We may disclose your personal information to any member of the Pets At Home Limited group, which means Pets At Home Limited's subsidiaries, ultimate holding company and its subsidiaries, as defined in section 1162 of the Companies Act 2006, and also to affiliated companies and other selected third parties for the purposes described above..
 
   * We may disclose your personal information to third parties:  
 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; 
@@ -101,7 +101,7 @@ Back to Top
 
 ## Access Rights
 
-You have a right to access the personal data that is held by us. To obtain a copy of the personal information we hold about you, please write to us at the following address: Pets At Home Limited, Epsom Avenue, Stanley Green Trading Estate, Handforth, Cheshire SK9 3RN, enclosing your postal details and a cheque for £10 payable to Pets at Home Limited to meet our costs in providing you with details of the information we hold about you.
+You have a right to access the personal data about you that is held by us. To obtain a copy of the personal information we hold about you, please write to us at the following address: Pets At Home Limited, Epsom Avenue, Stanley Green Trading Estate, Handforth, Cheshire SK9 3RN, enclosing your postal details and a cheque for £10 payable to Pets at Home Limited to meet our costs in providing you with details of the information we hold about you.
 
 Back to Top
 
