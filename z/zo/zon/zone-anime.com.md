@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zone-anime.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615150602id_/http%3A//www.zone-anime.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1883) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zone-anime.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213150630id_/http%3A//www.zone-anime.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1883) for the most accurate reproduction.*
 
 # Privacy Policy - Zone-Anime - Download anything anime related
 
