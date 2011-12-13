@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gliq.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612015949id_/http%3A//www.gliq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gliq.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213041759id_/http%3A//gliq.com/privacy.php) for the most accurate reproduction.*
 
 # Global IntelliSystems Email Marketing - Privacy Statement
 
@@ -9,9 +9,8 @@ Privacy Statement
 [](http://www.truste.org/ivalidate.php?url=www.globalintellisystems.com&sealid=101)
 
 **Main Offices**  
-5257 Buckeystown Pike, Suite 150  
-Frederick, MD 21704  
-800-707-7074  
+1153 Bergen Parkway, #455  
+Evergreen, CO 80439 (800) 707-7074  
 [support@gliq.com](mailto:support@gliq.com)
 
 To assist in the ease-of-reading we have summarized our privacy statement into separate easy to understand sections. If you have any questions please contact us using the information provided above.
