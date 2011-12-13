@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601165232id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.gov.uk privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213114432id_/http%3A//www.ico.gov.uk/Global/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Privacy notice
+# Privacy notice - Information Commissioner's Office - ICO
 
 ## How we use your information
 
@@ -22,7 +22,7 @@ When someone visits [www.ico.gov.uk](http://www.ico.gov.uk/) we collect standard
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
 
-One of the cookies we use is essential for parts of the site to operate and has already been set. You may delete and block all cookies from this site, but parts of the site will not work.
+One of the cookies we use is essential for parts of the site to operate and has already been set (see ‘Essential site cookie’ below). A second cookie (see ‘Content Management System cookie’ below) is set on a small number of users’ machines, depending on the browser they use, when they arrive at the ICO site. We do not use this cookie for any purpose and are working with the suppliers of our Content Management System to remove it or find another solution. You may delete and block all cookies from this site, but parts of the site will not work.
 
 ## Cookie
 
@@ -39,21 +39,44 @@ One of the cookies we use is essential for parts of the site to operate and has 
 ## More information  
   
 ---|---|---|---  
-Essential site cookie | 
+Essential site cookie (for online notification form) | 
 
 ASP.NET_SessionId
 
-| This cookie is essential for the online notification form to operate and is set upon your arrival to the ICO site. This cookie is deleted when you close your browser. | 
+Value: l05aucudkhggfv45dd2l3g55
+
+| This cookie is essential for the online notification form – the form that data controllers can use to notify with the ICO – to operate and is set upon your arrival to the ICO site. This cookie is deleted when you close your browser. | 
 
 [Visit the Microsoft website](http://support.microsoft.com/kb/899918 "External link")  
+  
+Online notification form cookie | 
+
+ASP.NET_SessionId
+
+Value: zppgzxbvizwteb55r4lsycba
+
+| This cookie is used to enhance security on our online notification form – the form that data controllers can use to notify with the ICO. It is set for users of the online notification form only. This cookie is deleted when you close your browser. | 
+
+[Visit the Microsoft website](http://support.microsoft.com/kb/899918 "External link")  
+  
+Content Management System cookie | 
+
+ico62#sc_wede
+
+| 
+
+This cookie is set by our Content Management System on a small number of browsers, upon arrival to the ICO site. It is not used by the ICO for any purpose. This cookie is deleted when a user closes their browser.
+
+| 
+
+We have recently become aware of this cookie. We are working with the supplier of our content management system to remove it or, if it can’t be removed, to find another solution.  
   
 Google Analytics | 
 
 _utma  
 _utmb  
 _utmc  
-_utmz  
-
+_utmz
 
 | 
 
@@ -64,14 +87,35 @@ These cookies are used to collect information about how visitors use our site. W
 [Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "External link")  
   
 ICO site cookie acceptance | ICOCookiesAccepted | This cookie is used to record if a user has accepted the use of cookies on the ICO website. |   
+Annual report webcast cookie, hosted by Workcast | 
+
+ASP.NET_SessionId
+
+Value: g5d51avbxt51dojpyv0ezn45
+
+| This cookie is used to record that users have viewed the webcast. It collects information in an anonymous form. This cookie expires when you close your browser. | [View the Workcast privacy policy](http://www.workcast.co.uk/privacy.aspx "External link")  
+Annual report webcast - attendee cookie | workcast_apc  | Some webcasts would use this cookie to record a user’s activity during a webcast, for example if they had asked a question, and would use the cookie to show the user their question and other activity on subsequent visits. This functionality is not available on this webcast. This cookie will record an anonymous ID for each user, but it will not use the information for any purpose. The cookie will last for three months. | [View the Workcast privacy policy](http://www.workcast.co.uk/privacy.aspx "External link")  
+Annual report webcast - authentication cookie  | workcast_aac  | 
+
+Some webcasts require users to fill in a form to view them; some presentations also require a user to view a number of different webcasts. In those cases, this cookie is used to allow users to view different webcasts without needing to fill in a form again. This functionality is not turned on for this webcast. This cookie will record an anonymous ID for each user, but it will not use the information for any purpose. The cookie will last for 30 days.
+
+| [View the Workcast privacy policy](http://www.workcast.co.uk/privacy.aspx "External link")   
   
 Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. 
 
+### YouTube cookies
+
+We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit [YouTube’s embedding videos information page](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780 "External link").
+
 ### Search engine
 
 The search engine on our website is designed to be as powerful and easy to use as the popular search engine Google. The search is made possible by a piece of hardware (a search ‘appliance’) supplied by Google that is plugged into our server and continuously indexes the content on our site. All search requests are handled by the appliance and the information is not passed on to any third party, including Google.
+
+## People who call our helpline
+
+When you call the ICO's helpline we collect Calling Line Identification (CLI) information. We use this information to help improve its efficiency and effectiveness.
 
 ## People who make a complaint to us
 
@@ -85,8 +129,9 @@ We will keep personal information contained in complaint files in line with our 
 
 Similarly, where enquiries are submitted to us we will only use the information supplied to us to deal with the enquiry and any subsequent issues and to check on the level of service we provide.
 
-When we take enforcement action against someone, we may publish the identity of the defendant in our Annual Report or elsewhere. Usually we do not, identify any complainants unless the details have already been made public.  
-People who use ICO services
+When we take enforcement action against someone, we may publish the identity of the defendant in our Annual Report or elsewhere. Usually we do not, identify any complainants unless the details have already been made public.
+
+## People who use ICO services
 
 The ICO offers various services to the public. For example, we send out publications and distribute an electronic newsletter. We use a third party to deal with some publication requests, but they are only allowed to use the information to send out the publications.
 
@@ -150,7 +195,7 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 26 May 2011.
+We keep our privacy notice under regular review. This privacy notice was last updated on 28 September 2011.
 
 ## How to contact us
 
