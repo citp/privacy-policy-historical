@@ -1,20 +1,34 @@
-> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215055820id_/http%3A//www.islandcrisis.net/2008/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandcrisis.net privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213193424id_/http%3A//www.islandcrisis.net/2008/05/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-May 17, 2008 
+IslandCrisis.net strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street  
+address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party.
 
-**Privacy Policy for www.islandcrisis.net**
+### How we gather information from users.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at islandcrisis [@] gmail.com.
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and other interactive areas of our site. Like most Web sites, IslandCrisis.net also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means.
 
-At www.islandcrisis.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.islandcrisis.net and how it is used.
+In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
-**Log Files**  
-Like many other Web sites, www.islandcrisis.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+### What we do with the information we collect
 
-**Cookies and Web Beacons**  
-www.islandcrisis.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or  
+what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to  
+identify you individually.
+
+We may use Personally Identifiable Information collected on IslandCrisis.net to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by IslandCrisis.net and other topics we think you might find of interest.
+
+Personally Identifiable Information collected by IslandCrisis.net may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of ecommerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web  
+hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary.  
+Please note we may not provide you with notice prior to disclosure in such cases.
+
+### Affiliated sites, linked sites and advertisements
+
+IslandCrisis.net expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a  
+frame on a IslandCrisis.net page, certain content that is actually created or hosted by a third party. Also, through IslandCrisis.net you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. IslandCrisis.net is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+
+Islandcrisis.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
 
@@ -24,14 +38,27 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.islandcrisis.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+### Children
 
-www.islandcrisis.net has no access to or control over these cookies that are used by third-party advertisers.
+IslandCrisis.net does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe IslandCrisis.net has any information from or about anyone under 13, please  
+contact us at the address listed below.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.islandcrisis.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We can be reached by email at: kurt@islandcrisis.net
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+### Changes to this Policy
 
-**Sign up to Island Crisis free email delivery now! Get all latest updates!**
+IslandCrisis.net reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
+Last updated: February 2011
+
+* * *
+
+### Leave a comment via Facebook
+
+* * *
+
+##  Stories Around The Net
+
+[Feedbox](http://feedbox.com/)
 
 * * *
