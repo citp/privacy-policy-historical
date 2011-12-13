@@ -1,0 +1,760 @@
+<!--The following is the downloaded HTML source of the handbags.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213042517id_/http%3A//www.handbags.com/help/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+    <title></title>
+    
+
+
+
+
+<meta property="og:image" content="http:">
+
+
+
+
+
+    <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <style type="text/css">  
+        article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, time { display: block; }                  
+    </style>
+
+    <link href="//cdn2.ebags.com/img/Content/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link href="//cdn2.ebags.com/img/Content/images/favicon.ico" rel="icon" type="image/x-icon">
+    <link href="/Content/css/main.css?v=1111151737" rel="stylesheet" type="text/css">    
+    <link href="/Content/css/superstyle.css?v=1111151737" rel="stylesheet" type="text/css">
+    <link href="/Content/css/superlightbox.css?v=1111151737" rel="stylesheet" type="text/css">
+    
+    
+
+
+    <!--[if !IE 7]>
+	    <style type="text/css">
+		    #wrap {display:table;height:100%}
+	    </style>
+    <![endif]-->
+</head>
+<body>
+
+<div id="wrap"> <!-- wrap -->
+    <div id="main"> <!-- main -->
+
+        
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function () {
+        FB._https = true;
+        FB.init({
+            appId: '262483713765698',
+            xfbml: true,
+            status: false,
+            authResponse: false,
+            cookie: true,
+            oauth: true
+        });
+
+        function fbStatusResponse(response) {
+            if (response) {
+                postFBLoginStatusToServer(response);
+            }
+        }
+
+        function postFBLoginStatusToServer(response) {
+            var iframe = document.createElement("iframe");
+            iframe.style.display = "none";
+            iframe.setAttribute("src", "https://" + window.location.host + "/facebook/poststatus/?url=" + top.location + "&responseData=" + JSON.stringify(response));
+            document.body.appendChild(iframe); 
+        }
+
+        
+            FB.getLoginStatus(fbStatusResponse); //auto-login
+        
+            var fbEvents = [
+                { key: "/facebook/authPrompt",         eventName: "auth.prompt" },
+                { key: "/facebook/like",               eventName: "edge.create" },
+                { key: "/facebook/unlike",             eventName: "edge.remove" },
+                { key: "/facebook/comment",            eventName: "comment.create" },
+                { key: "/facebook/uncomment",          eventName: "comment.remove" },
+                { key: "/facebook/send",               eventName: "message.send" } 
+            ];
+            // capture events
+            for (var i = 0, len = fbEvents.length; i < len; i++) {
+                eBags.capture(fbEvents[i].key, fbEvents[i].eventName, function (eventName, func) {
+                    FB.Event.subscribe(eventName, func);
+                });
+            }
+
+            eBags.subscribe("/facebook/like", function () {
+                FB.XFBML.parse();
+            });
+
+            eBags.subscribe("/facebook/unlike", function () {
+                FB.XFBML.parse();
+            });
+
+            eBags.subscribe("/login/success", function (data) {
+                if (data && data.userId) {
+                    $.ajax({
+                        url: "/site/logevent?eventkey=/facebook/login&data=" + JSON.stringify(data),
+                        processData: false,
+                        type: "POST"
+                    });
+                }
+            });
+
+        
+
+        eBags.messaging.post('/facebook/init/complete', true);
+        eBags.publish('/facebook/init/complete');
+    };
+</script>
+
+
+<header>
+
+ <div class="topSection">
+    <div class="logoBox">
+        <div class="theLogo"><a href="http://www.handbags.com/" class="logo"></a></div>
+        <div class="logoSearch">
+            
+<form id="searchForm" action="/search" method="GET"> 
+    <input type="text" name="term" id="term" autocomplete="off" class="inputField" value="search handbags">
+    <input type="submit" id="btnSubmitSearch" class="submit">
+</form>
+<div id="divAutoCompleteTermList"></div>
+
+        </div>
+    </div>        
+    <div class="logoBoxEnd"></div>
+    <nav class="superTopNav">
+        <div class="topLinks">
+            <span id="spnLogin">
+<img src="//graph.facebook.com//picture?type=square" class="fbProfileThumbnail headerFacebookProfile" style="display: none;">
+
+&nbsp;<span id="loginPrepend"></span><a id="lnkLogin" class="lnkLogin" href="http://www.handbags.com/members/signin">Login</a></span><span class="pipe"> | </span><span><a class="lnkContactUs" href="http://www.handbags.com/help/contactoptions">Contact Us</a></span><span class="pipe"> | </span><span><a href="/members">My Account</a></span><span class="pipe"> | </span><span><a id="lnkWishlist" href="/wishlist">My List <span id="wlItemCount"></span></a></span>
+        </div>
+        <div class="freeshipRateContainer">
+	        <span><a id="lnkFreeShippingHeader" class="lnkFreeShipping" href="http://www.handbags.com/help/freeshippingfreereturns">Always Free Shipping + Returns</a></span><span class="pipe"> | </span><span><a id="rateThisPageLink" class="feedbackOptions" href="/help/ratethispage">Rate This Page</a></span>
+        </div>
+    </nav>
+
+    <div class="shopBag">
+        <div class="myBag"></div>        
+        <div class="items">	
+            <a href="/cart/preview"><span class="myItems shopBagCount">(0)</span></a>
+             <a href="/cart/preview"><div class="shopBagText">Shopping Bag</div></a>
+        </div>
+    </div>   
+         
+    <div class="clear"></div>
+        
+    <nav class="navBar">
+        
+
+<div id="navBar">
+    <ul id="subSitesMenu">
+        <li class="tab01 "><a href="/trends"></a></li>
+        <li class="tab02  dropMeDown"><a href="/handbags"></a>
+            <div class="subNavWrapper">
+                <div class="split1"></div>
+                <div class="split2"></div>
+                <div class="split3"></div>
+                <div class="topLane1"></div>
+                <dl class="subNavList">
+                    <dt class="topCategory">Handbag Styles</dt>
+                    <dt><a href="/handbags/cross-body-bags">Cross-Body Bags</a></dt>
+                    <dt><a href="/handbags/hobos">Hobos</a></dt>
+                    <dt><a href="/handbags/m/calfskin~lambskin~leather~suede">Leather Handbags</a></dt>                    
+                    <dt><a href="/handbags/shoulder-bags">Shoulder Bags</a></dt>
+                    <dt><a href="/handbags/totes">Totes</a></dt>
+                    <dt class="seeAll"><a href="/handbags">See All</a></dt>
+                </dl>
+
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Shop by Size</dt>
+                        <dt><a href="/handbags/z/x-small">X-Small</a></dt>
+                        <dt><a href="/handbags/z/small">Small</a></dt>
+                        <dt><a href="/handbags/z/medium">Medium</a></dt>
+                        <dt><a href="/handbags/z/large">Large</a></dt>
+                        <dt><a href="/handbags/z/x-large">X-Large</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Popular Colors</dt>
+                        <dt><a href="/handbags/c/black">Black</a></dt>
+                        <dt><a href="/handbags/c/brown">Brown</a></dt>
+                        <dt><a href="/handbags/c/tan">Tan</a></dt>
+                        <dt><a href="/handbags/c/white">White</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Popular Brands</dt>
+                        <dt><a href="/handbags/b/baggallini">baggallini</a></dt>
+                        <dt><a href="/calvin-klein">Calvin Klein</a></dt>
+                        <dt><a href="/handbags/b/etienne-aigner">Etienne Aigner</a></dt>
+                        <dt><a href="/handbags/b/fossil">Fossil</a></dt>
+                        <dt><a href="/piazza">Piazza</a></dt>
+                        <dt><a href="/handbags/b/tignanello">Tignanello</a></dt>
+                    </dl>
+                </div>
+            </div>
+        </li>
+        <li class="tab03  dropMeDown"><a href="/designer-boutique"></a>
+            <div class="subNavWrapper">
+                <div class="split1"></div>
+                <div class="split2"></div>
+                <div class="topLane2"></div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Designer Styles</dt>
+                        <dt><a href="/designer-boutique/cross-body-bags">Cross-Body Bags</a></dt>
+                        <dt><a href="/designer-boutique/hobos">Hobos</a></dt>
+                        <dt><a href="/designer-boutique/m/calfskin~lambskin~leather~suede">Leather Handbags</a></dt>
+                        <dt><a href="/designer-boutique/shoulder-bags">Shoulder Bags</a></dt>
+                        <dt><a href="/designer-boutique/totes">Totes</a></dt>
+                        <dt class="seeAll"><a href="/designer-boutique">See All</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Shop by Size</dt>
+                        <dt><a href="/designer-boutique/z/x-small">X-Small</a></dt>
+                        <dt><a href="/designer-boutique/z/small">Small</a></dt>
+                        <dt><a href="/designer-boutique/z/medium">Medium</a></dt>
+                        <dt><a href="/designer-boutique/z/large">Large</a></dt>
+                        <dt><a href="/designer-boutique/z/x-large">X-Large</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Popular Designers</dt>
+                        <dt><a href="/botkier">Botkier</a></dt>
+                        <dt><a href="/cole-haan">Cole Haan</a></dt>
+                        <dt><a href="/kate-spade">kate spade new york</a></dt>
+                        <dt><a href="/michael-michael-kors">MICHAEL Michael Kors</a></dt>
+                        <dt><a href="/rebecca-minkoff">Rebecca Minkoff</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="img"><a href="/isabella-fiore"><img src="//cdn2.ebags.com/img/Content/images/siteImages/header/flyaway/2011_0906_FlyBrandDesigner.jpg" alt="" width="200" height="200"></a></dt>
+                   </dl>
+                </div>
+            </div>
+        </li>
+        <li class="tab04  dropMeDown"><a href="/accessories"></a>
+            <div class="subNavWrapper">
+                <div class="split1"></div>
+                <div class="split2"></div>
+                <div class="topLane3"></div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Accessories</dt>
+                        <dt><a href="/accessories/eyewear">Eyewear</a></dt>
+                        <dt><a href="/accessories/hats">Hats</a></dt>
+                        <dt><a href="/accessories/jewelry">Jewelry</a></dt>
+                        <dt><a href="/accessories/wallets">Wallets</a></dt>
+                        <dt><a href="/accessories/watches">Watches</a></dt>
+                        <dt class="seeAll"><a href="/accessories">See All</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Accessory Trends</dt>
+                        <dt><a href="/accessories/jewelry/necklaces/y/bib?refining=1&amp;items=96">Bib Necklaces</a></dt>
+                        <dt><a href="/search/search-results?term=rose+gold+watches">Rose Gold Watches</a></dt>
+                        <dt><a href="/accessories/jewelry/bracelets/y/wrap?refining=1&amp;items=96">Wrap Bracelets</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Popular Brands</dt>
+                        <dt><a href="/accessories/b/cole-haan-sunglasses">Cole Haan Sunglasses</a></dt>
+                        <dt><a href="/accessories/watches/b/fossil?refining=1&amp;items=96">Fossil Watches</a></dt>
+                        <dt><a href="/accessories/b/hobo-international?refining=1&amp;items=96">Hobo International Wallets</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="img"><a href="/evocateur"><img src="//cdn2.ebags.com/img/Content/images/siteImages/header/flyaway/2011_0913_Accessories.jpg" alt="Shop Evocateur" width="200" height="200"></a></dt>
+                   </dl>
+                </div>
+            </div>
+        </li>
+        <li class="tab05  dropMeDown"><a href="/travel-and-play"></a>
+            <div class="subNavWrapper">
+                <div class="split1"></div>
+                <div class="split2"></div>
+                <div class="topLane4"></div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Bag Styles</dt>
+                        <dt><a href="/travel-and-play/backpacks?refining=1&amp;items=96">Womens' Backpacks</a></dt>
+                        <dt><a href="/travel-and-play/diaper-bags">Diaper Bags</a></dt>
+                        <dt><a href="/travel-and-play/luggage">Luggage</a></dt>
+                        <dt><a href="/travel-and-play/luggage/luggage-tote-bags-and-satchels?refining=1&amp;items=96&amp;sort=Newest">Travel Totes</a></dt>
+                        <dt><a href="/travel-and-play/travel-accessories">Travel Accessories</a></dt>
+                        <dt class="seeAll"><a href="/travel-and-play">See All</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Most Popular</dt>
+                        <dt><a href="/travel-and-play/f/carry-on">Bestselling Carry-ons</a></dt>
+                        <dt><a href="/handbags/u/day-travel?refining=1&amp;items=96&amp;sort=Newest">Day Travel Bags</a></dt>
+                        <dt><a href="/travel-and-play/u/gym">Gym Bags</a></dt>
+                        <dt><a href="/travel-and-play/travel-accessories/toiletry-kits?refining=1&amp;items=96&amp;sort=Newest">Toiletry Kits</a></dt>
+                        <dt><a href="/travel-and-play/u/yoga">Yoga Bags</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Popular Brands</dt>
+                        <dt><a href="/travel-and-play/b/diane-von-furstenberg">Diane Von Furstenberg</a></dt>
+                        <dt><a href="/jane-marvel">Jane Marvel</a></dt>
+                        <dt><a href="/travel-and-play/b/kipling">Kipling</a></dt>
+                        <dt><a href="/lesportsac">LeSportsac</a></dt>
+                        <dt><a href="/travel-and-play/b/samsonite">Samsonite</a></dt>
+                   </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                       <dt class="img"><a href="/tumi"><img src="//cdn2.ebags.com/img/Content/images/siteImages/header/flyaway/2011_0913_Travel.jpg" alt="Shop Tumi" width="200" height="200"></a></dt>
+                   </dl>
+                </div>
+            </div>
+        </li>
+        <li class="tab06  dropMeDown"><a href="/work-bags"></a>
+            <div class="subNavWrapper">
+                <div class="split1"></div>
+                <div class="split2"></div>
+                <div class="topLane5"></div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Bag Styles</dt>
+                        <dt><a href="/work-bags/laptop-cases">Laptop Cases</a></dt>
+                        <dt><a href="/work-bags/phone-cases">Phone Cases</a></dt>
+                        <dt><a href="/work-bags/rolling-business-cases">Rolling Business Cases</a></dt>
+                        <dt><a href="/work-bags/work-totes">Work Totes</a></dt>
+                        <dt class="seeAll"><a href="/work-bags">See All</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Most Popular</dt>
+                        <dt><a href="/work-bags/ipad-and-ereaders">iPad and eReaders</a></dt>
+                        <dt><a href="/work-bags/laptop-sleeves">Laptop sleeves</a></dt>
+                        <dt><a href="/work-bags/lunch-bags">Lunch Bags</a></dt>
+                    </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="topCategory">Popular Brands</dt>
+                        <dt><a href="/etienne-aigner-business">Etienne Aigner</a></dt>
+                        <dt><a href="/work-bags/b/franklin-covey">Franklin Covey</a></dt>
+                        <dt><a href="/work-bags/b/knomo">Knomo</a></dt>
+                        <dt><a href="/mcklein-usa?refining=1&amp;items=96">McKlein</a></dt>
+                   </dl>
+                </div>
+                <div class="">
+                    <dl class="subNavList">
+                        <dt class="img"><a href="/kenneth-cole-reaction-business-and-luggage"><img src="//cdn2.ebags.com/img/Content/images/siteImages/header/flyaway/2011_0913_WorkBags.jpg" alt="Shop Kenneth Cole Reaction" width="200" height="200"></a></dt>
+                   </dl>
+                </div>
+            </div>
+        </li>
+        <li class="tab07 ">
+            <a href="/emerging-designers"></a>
+        </li>
+        <li class="tab08 ">
+            <a href="/brands"></a>
+        </li>
+        <li class="tab09 ">
+            <a href="/sales"></a>
+        </li>
+
+    </ul>
+</div> 
+
+
+
+    </nav>
+
+</div>
+     
+</header>
+
+
+            <div class="clear"></div>
+        
+            <div class="mainCon">
+                
+    
+
+<div id="privacyPolicy">
+    <div class="helpHeadline">Handbags.com Privacy Policy</div>
+    <hr class="helpHR">
+    <div class="helpSpacer"></div>
+
+    <h3>Our Privacy Pledge</h3>
+    <p>We understand and share your concern about privacy. We want to assure you that Handbags.com respects your privacy and treats your personal information with the highest standards of safety, security and confidentiality. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.</p>
+    <p>As a part of our commitment to your privacy, Handbags.com supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone or other solicitations from Handbags.com.</p>
+
+    <h3>Contents</h3>
+    <ul>
+        <li>Information we collect</li>
+        <li>How we use your information</li>
+        <li>Information we share with others</li>
+        <li>Your choices about communications from Handbags.com</li>
+        <li>Accessing and updating your information</li>
+        <li>Cookies and pixel tags</li>
+        <li>Security</li>
+        <li>Third-party sites</li>
+        <li>A special note about children's privacy</li>
+        <li>Privacy policy changes</li>
+        <li>Contacting Handbags.com with question or comments</li>
+    </ul>
+
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br>
+
+    <h3>Information We Collect</h3> 
+    <p>We may collect information (including name, address, telephone number, email address, transaction information, credit card information and date of birth) when you:</p>
+    <ul>
+        <li>Place an order on our Web site or via telephone </li>
+        <li>Return an item or make an exchange</li>
+        <li>Request a catalog</li>
+        <li>Give or redeem a gift certificate</li>
+        <li>Receive a gift package</li>
+        <li>Submit a product review</li>
+        <li>Create an account at Handbags.com</li>
+        <li>Sign up for Handbags.com promotional emails</li>
+        <li>Enter a contest or sweepstakes</li>
+        <li>Are referred to us through a marketing promotion</li>
+        <li>Participate in a marketing survey, promotion or event</li>
+    </ul>
+    <p>Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web site. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive communications from us.</p>
+    <p>We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources.</p>
+    <p>We also gather information about how visitors navigate through our Web site by using data gathered with "cookies" and/or “pixel tags”. This information may include the pages you visit on Handbags.com, the URL that you just came from, which URL you next go to, what Internet browser you are using and your IP address.</p>
+
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br>
+
+    <h3>How We Use Your Information</h3> 
+    <p>At Handbags.com, our goal is to provide you with a safe and enjoyable shopping experience, along with the best possible customer service. We use the information we collect to perform activities in support of these goals, including:</p>
+    <ul>
+        <li>Process and track your order </li>
+        <li>Inform you about the status of an order </li>
+        <li>Register and service your Handbags.com account</li>
+        <li>Send you catalogs or promotional offers we believe will be of interest to you </li>
+        <li>Send you e-mail updates </li>
+        <li>Identify your product and service preferences </li>
+        <li>Customize our communications to you </li>
+        <li>Improve our merchandise selection and customer service</li>
+        <li>Improve the overall performance and functionality of our website</li>
+        <li>Administer surveys, sweepstakes, and contests</li>
+    </ul>
+
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br>
+
+    <h3>Information We Share with Others</h3> 
+    <p>We contract with other companies to provide certain services, including credit card processing, order shipping, e-mail distribution, market research and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Handbags.com.</p>
+    <p>From time to time, we make our mailing list (names and addresses only) and general shopping activity available to reputable companies whose products we believe will be of interest to you. We do not share email addresses for this purpose. If you do not want to receive mailings from other reputable companies and prefer that we do not share any information with these companies, please <a href="#contactus">contact us</a>.</p>
+    <p>Handbags.com will cooperate with law enforcement inquiries. Handbags.com reserves the right to disclose any activities or information about you to law enforcement or other government officials as we, in our sole discretion, determine necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements or other activity that is illegal or may expose us or you to legal liability.</p>
+    <p>It is possible that Handbags.com could merge with or be acquired by another business entity. Should such an event occur, you should expect that Handbags.com would share some or all of your information in order to continue to provide products and services. Notice of such an event will be posted, as will notice of any changes to our Privacy Policy resulting from such an event.</p>
+
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br>
+
+    <h3>Accessing and Updating Your Information</h3>
+    <p>You always have the opportunity to review and change the information you provide to us. You can edit your name, contact information and preferences by logging into the Your Account section of the site and making changes. You can also <a href="#contactus">contact us</a> at the address and/or phone number below to make changes to your account information or to delete your account.</p>
+ 
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br> 
+    
+    <h3>Your Choices Regarding Communications from Handbags.com</h3>
+    <p>We want to communicate with you only if you want to hear from us. You can reduce or eliminate marketing and promotional e-mails and/or catalogs you receive from us by making the appropriate changes to your account. Please visit the <a href="/members">Your Account</a> section of Handbags.com to make these changes, or contact Handbags.com Customer Service via e-mail, phone or regular mail as noted <a href="#contactus">below</a>. You can also unsubscribe from Handbags.com promotional e-mails by clicking on the unsubscribe link found in all our marketing e-mails, or clicking the unsubscribe link at the bottom of any page on our website.</p>
+    <p>When you provide us your email address when placing an order, we will email you as necessary to process your order or provide customer service. For example, after you place an order at Handbags.com, you will receive an email confirmation of your order, an email confirming shipment of you package(s), and one or two e-mails requesting your feedback on the items you purchased.. Recipients of our email gift cards will receive an email notifying them of the gift and instructing them how to redeem it.</p>
+    <p>We also use e-mail to measure customer satisfaction, and to conduct surveys and customer research. These e-mails are only sent to customers who are subscribers to our Handbags.com Insider promotional e-mails.</p>
+
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br>
+
+    <h3>Cookies and Pixel Tags</h3> 
+    <p>"Cookies" are small pieces of information that a web site places on your computer's hard drive. Handbags.com uses cookies to identify you during your session, make our services easier to use and to store items in your shopping cart between visits. Cookies are never used to store sensitive customer information such as names, addresses, credit card numbers or passwords. Acceptance of cookies is not a requirement to browse our site; however, our shopping cart does require the acceptance of cookies to work properly. Most browsers automatically accept cookies, but you can configure your browser to prevent that. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 866-466-2247.</p>
+    <p>We also use pixel tags – tiny graphic images – to tell us what parts of our Web site you have visited or to measure the effectiveness of any searches you may do on our site. Pixel tags also enable us to send you email in a format you can read and let us know when you have opened an email message from us.</p>
+    <p>We may also contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf, as well as to serve and track our online advertisements. There is no personally identifiable information included in these cookies, and we these companies are contractually prohibited from using this information for their own marketing purposes or from sharing this information with anyone other than Handbags.com.</p>
+    <p>Cookies may also be used to serve ads on internet sites via third party vendors, including Google.  Third party vendors, including Google and Teracent, may use cookies to serve ads based on a user’s visit.  No personally identifying information will be collected for or used by third parties in serving ads.  Users may opt out of any third party vendor cookie by visiting the <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Network Advertising Initiative opt out page</a>.</p>
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br>
+
+    <h3>Security</h3> 
+    <p>The Handbags.com <a href="http://www.handbags.com/help/securitypledge">Security Pledge</a> protects you while you shop at Handbags.com so that you never have to worry about credit card safety. We guarantee that every transaction you make at Handbags.com will be safe. This means you pay nothing if unauthorized charges are made to your credit card as a result of shopping at Handbags.com. Handbags.com' servers use Secure Sockets Layer (SSL), an encryption technology that works with, common Internet browsers, such as Internet Explorer, Safari, Firefox and Chrome, so that only Handbags.com can read a customer’s personal information. We reveal only the last five digits of your credit card numbers when confirming an order. However, we will securely transmit the entire credit card number to the appropriate credit card company during order processing.</p>
+
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br>
+
+    <h3>Third Party Sites</h3>
+    <p>From time to time there may be links on our site which will connect you with other websites. These links will clearly identify the site to which they are connected. These third party websites may collect, use and share your personal information in accordance with their own privacy policies. The information practices of those websites linking from or to our site are not covered by this Policy, and we encourage you to be cautious before you disclose your personal information to others. If you register for Handbags.com on another web site or use a web site providing a service for Handbags.com, that web site may provide personal information about you and your transactions back to Handbags.com.</p>
+
+    <h3>A special note about children's privacy</h3>
+    <p>You must be at least 18 years old to have our permission to use this site. We do not knowingly collect, use or disclose personally identifiable information about visitors under 18 years of age. If you are a minor, you can use this service only in conjunction with your parents or guardians.</p>
+
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br>
+
+    <h3>Privacy Policy Changes</h3> 
+    <p>Handbags.com reserves the right to change, modify, add or remove portions of this Policy at any time. Any changes will be posted in this document and will become effective immediately upon being posted unless we tell you otherwise.</p>
+    <div id="contactus"></div>
+
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br>
+
+    <h3>Contacting Handbags.com</h3>
+    <p>If you have further questions about Handbags.com' Privacy Policy or comments on how we can improve the Handbags.com shopping experience, please do not hesitate to email us at <a href="mailto:privacy@Handbags.com">privacy@Handbags.com</a>.</p>
+    <p>Need more help? You can refer to our Help Center or email one of our friendly Customer Help Specialists at <a href="mailto:help@Handbags.com">help@Handbags.com</a>.</p>
+    <p>You may also write to us at:</p>
+    <p>
+    Handbags.com Privacy Manager<br>
+    eBags, Inc.<br>
+    5500 Greenwood Plaza Blvd.  Suite 160<br>
+    Greenwood Village, CO 80111
+    </p>
+    <p>We always enjoy hearing from you and sincerely appreciate your business.</p>
+    <p>Last updated:  July 28, 2011</p>
+    <div class="helpSpacer"></div>
+
+<a href="#privacyPolicy" class="backtotop">» back to top</a>
+<br><br>
+</div>
+
+
+
+
+
+                <div class="clear"></div>
+            </div>
+
+            <div class="clear"></div>   
+
+    </div> <!-- main -->
+</div> <!-- wrap -->
+
+<div id="footer">
+
+
+<div class="botSection">
+    <!-- FLOAT LEFT DIV -->
+    <div class="floatEmailCon">
+        <div class="emailBoxContainer">
+            <div class="emailBoxTop">
+        	    <div class="emailLogo logo"></div>
+                <div class="emailContent">
+                    <ul>
+                        <li class="footerBold">Join us for the latest fashion news:</li>
+                        <li style="font-weight:normal;">Get exclusive offers, and be the first to hear about new brands, styles and more!</li>
+                    </ul>               
+                </div>
+                <div class="emailForm">
+                    
+<a name="subscribeEmailForm" style="height: 0px; width: 0px; display: block;">&nbsp;</a>
+<form action="/Site/SubscribeToEmail" method="POST" id="subscribeToEmailForm">
+       
+    <input class="emailField required email" id="enterMeEmail" name="SubscribeEmailServiceModel.EmailAddress" type="text" value="">
+    <input type="submit" class="signup" value="Sign Up">
+    
+</form>
+
+
+                </div>
+                <div class="socialCon"></div>
+            </div>
+            <div class="emailBoxBot"></div>
+        </div>
+    </div>
+
+    <!-- FLOAT LEFT DIV -->     
+    <nav class="footerNav" style="width:326px;">
+    <!-- column 1 -->
+        <div class="footerCol_1">
+            <div class="footerContent">
+                <div class="footerCat">
+                    <span class="footerBold">Assistance</span>
+                </div>
+                <div class="footerItems">
+                    <ul>                            
+                        <li><a href="/help">Customer Help Center</a></li>
+                        <li><a href="/members">Manage Your Account</a></li>
+                        <li><a href="http://www.handbags.com/members/orderstatus">View Your Order Status</a></li>
+                        <li><a href="https://www.handbags.com/returns">Easy Returns</a></li>
+                        <li><a href="/members/UnsubscribeFromEmail">Email Unsubscribe</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    <!-- column 2 -->
+        <div class="footerCol_2">
+            <div class="footerContent">
+                <div class="footerCat">
+                    <span class="footerBold">Shopping Info</span>
+                </div>
+                <div class="footerItems">
+                    <ul>
+                        <li><a id="lnkFreeShippingFooter" class="lnkFreeShipping" href="http://www.handbags.com/help/freeshippingfreereturns">Free Returns</a></li>
+                        <li><a href="http://www.handbags.com/help/securitypledge">Security Pledge</a></li>
+                        <li><a href="/wishlist">My List</a></li>
+                        <li><a href="http://www.handbags.com/InviteAFriend">Invite A Friend</a></li>
+                   	    <li>
+                            <a id="lnkSecurityVerify" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.handbags.com&amp;lang=en" target="_blank" title="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security"></a>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>     
+    
+    
+
+<!-- FLOAT LEFT DIV --> 
+<div id="emailBoxContainer2" class="emailBoxContainer2" style="display: block;">
+    <script language="javascript" type="text/javascript">                document.getElementById("emailBoxContainer2").style.display = "block";</script>
+    <div style="position:absolute; top:22px; left:52px; font-size:18px; font-weight:bold; color:#3d3d3d;"></div>
+    <div style="position:absolute; top:44px; left:0;">
+<fb:like-box href="http://www.facebook.com/handbags" width="300" height="184" show_faces="true" border_color="#d9d9d9" stream="false" header="false"></fb:like-box> </div>
+</div> 
+
+
+    <!-- CLEAR FLOATS -->
+    <div class="clear"></div>
+
+    <div class="superBotNav" style="float:none; padding-top:6px; text-align:center;">
+        <ul style="padding:25px 0 10px 0;">
+            <li><a class="feedbackOptions" href="http://www.handbags.com/help/makesuggestion">Website Suggestions</a></li>
+            <li>|</li>
+            <li><a href="http://www.handbags.com/help/privacypolicy">Privacy Policy</a></li>
+            <li>|</li>
+            <li><a class="lnkContactUs" href="http://www.handbags.com/help/contactoptions">Contact Us</a></li>
+        </ul>
+        <span class="copyRight">All other trademarks not owned by eBags.com or its subsidiaries that appear on this site are the property of their respective owners.</span><br>
+        <span class="copyRight">eBags USA © 1999 - 2011 eBags, Inc. All rights reserved. Handbags.com is owned and operated by eBags, Inc.</span>
+            
+        <div style="display:block; width:100%; height:7px; background-color:#fff; padding:0; margin:0;"></div>
+            
+        <div style="width:100%; height:75px;"> 
+            <div style="width:185px; height:100%; display:block; margin:0 auto;">
+                <div style="float:left;">
+                    
+<a style="display:block; height:75px; width:105px; background:url('//cdn2.ebags.com/img/Content/images/siteImages/sprites/Sprite_Main_2.gif') no-repeat scroll -3px -428px transparent;" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.handbags.com&amp;lang=en" target="_blank" title="Click to Verify - This site has chosen a VeriSign SSL Certificate to improve Web site security"></a>
+   
+
+
+                </div>
+                <div style="float:right; padding-top:20px;">
+                    
+
+
+<!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.handbags.com">
+    <img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.handbags.com/63.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;">
+</a>
+<!-- END SCANALERT CODE -->
+
+
+                </div>
+            </div>
+        </div>       
+    </div>
+          
+<!-- CLOSE WRAPPER -->
+
+</div>
+
+
+
+
+    
+
+<div id="browserToolbar" style="height:46px;">
+    <div id="closedToolbar" class="browserToolbar"><span style="" id="btOpen" class="share link"></span></div>
+    <div id="openedToolbar" class="browserToolbar">
+        <div class="tabItem sysItem" id="btClose"><span class="hide"></span></div>
+        <div id="tabBarItems">
+            <ul id="blingTabItems">
+                
+                        <li class="tabLogin tabItem tabCntnt tabPad" data-key="login" data-force="true" id="btLogin">Login</li>
+                 
+                        <li class="tabFacebook tabItem tabCntnt tabPad" data-key="facebook" id="btFacebook">
+<img src="//graph.facebook.com//picture?type=square" class="fbProfileThumbnail btFacebookProfile" style="display: none;">
+
+<span style="padding:0;">Facebook</span></li>
+                 
+                    <li class="tabInviteFriend tabItem" data-key="Promotion" id="Promotion"><a style="padding:0 10px; color:#fff; text-decoration:none;" href="http://www.handbags.com/InviteAFriend">Invite Friends, Get $25</a></li>
+               
+               <li class="shareWithFriends"></li>
+            </ul>
+        </div>
+    </div>
+    <div class="tabContentWrapper">
+        <div id="tabContent"></div>
+    </div>
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+<div class="mboxDefault" id="dynamicContentBoxGlobal" style="visibility: hidden;"></div>
+
+<script type="text/javascript">
+    document.getElementById("dynamicContentBoxGlobal").style.visibility = "hidden";
+</script>
+
+<script src="/Scripts/thirdParty.unified.min.js?v=1111151737"></script>
+<script src="/scripts/ebags.unified.min.js?v=1111151737"></script>
+<script src="/Scripts/Help/RateThisPage.min.js?v=1111151737"></script>
+<script src="/Scripts/Catalog/SearchForm.min.js?v=1111151737"></script>
+<script src="/Scripts/Share/browserToolbar.min.js?v=1111151737"></script>
+<script src="/Scripts/mbox.min.js?v=1111151737"></script>
+<script>
+eBags(function(){(function(){var e=document.createElement('script');e.async=true;e.src=document.location.protocol+'//connect.facebook.net/en_US/all.js';document.getElementById('fb-root').appendChild(e);}());(function($){$('#spnLogin').addClass('fbLogin');})(jQuery);(function($){$('.listPageItemSiActions').show();})(jQuery);$(".lnkContactUs").colorbox({href:'/help/contactoptionspopup',close:'',opacity:0.6,scrolling:false,onComplete:function(){$(".lightboxCloseLink").click(function(e){e.preventDefault();$.colorbox.close();});$('#lnkRateThisPopup').colorbox({href:'/help/ratethispagepopup',close:'',opacity:0.6,scrolling:false,onComplete:function(){eBags.help.rateThisPage().init();eBags.limitCount('#Form_Comments',1000,'#remainingCount');}});eBags.lightboxForm({lightboxSelector:"#lnkSiteSuggestionsPopup",lightboxHref:"/help/makesuggestionpopup",formSelector:"#divFormWrapper form",submitUrl:"/help/makesuggestionpopup"}).init();eBags.lightboxForm({lightboxSelector:"#lnkContactUsPopup",lightboxHref:"/help/contactuspopup?src=contact",formSelector:"#divFormWrapper form",submitUrl:"/help/contactuspopup",cancelLinkSelector:".lightboxCloseLink"}).init();}});$('.feedbackOptions').colorbox({href:'/help/feedbackoptionspopup',close:'',opacity:0.6,scrolling:false,onComplete:function(){$(".lightboxCloseLink").click(function(e){e.preventDefault();$.colorbox.close();});$('#lnkRateThisPage').colorbox({href:'/help/ratethispagepopup',close:'',opacity:0.6,scrolling:false,onComplete:function(){eBags.help.rateThisPage().init();eBags.limitCount('#Form_Comments',1000,'#remainingCount');}});eBags.lightboxForm({lightboxSelector:"#lnkSiteSuggestions",lightboxHref:"/help/makesuggestionpopup",formSelector:"#divFormWrapper form",submitUrl:"/help/makesuggestionpopup"}).init();eBags.lightboxForm({lightboxSelector:"#lnkContactCustomerCare",lightboxHref:"/help/contactuspopup?src=feedback",formSelector:"#divFormWrapper form",submitUrl:"/help/contactuspopup",cancelLinkSelector:".lightboxCloseLink"}).init();}});$(".lnkFreeShipping").colorbox({href:'/help/freeshippingfreereturnspopup',close:'',opacity:0.6,scrolling:false})
+$(".updateBrowser").colorbox({href:'/help/browserupdatecontentpopup',close:'',opacity:0.6,scrolling:false})
+eBags.subscribe("/login/success",function(e){var url='/Wishlist/GetWishlistCount',onSuccess=function(data){$("#divLinkToWishlist").show();$("#wlItemCount").html("("+data.Data.TotalItemCount+")");},wlLnk=$("#lnkWishlist"),oldHref=wlLnk.attr("href");eBags.tryJsonPost(url,onSuccess,null,null);if(oldHref.indexOf("?")>0){wlLnk.attr("href",oldHref.substring(0,oldHref.indexOf("?")));}
+$("#lnkLogin").html("Logout");$("#loginPrepend").html("Hello, ");});eBags.subscribe("/logout/success",function(data){if(window&&window.location&&("https:"==window.location.protocol||window.location.href&&window.location.href.indexOf("wishlist")>0)){window.location.reload(false);}
+else{$("#lnkLogin").html("Login");$("#loginPrepend").html("");$("#wlItemCount").html("");}});eBags.subscribe("/wishlistItem/added",function(itemCount){$("#wlItemCount").html("("+itemCount+")");});eBags.subscribe("/browserToolbar/init",function(bt){$(".lnkLogin").click(function(e){e.preventDefault();bt.forceExpand(function(){$("#btLogin").click();});});});eBags.catalog.searchForm({defaultSearchTerm:'search handbags',websiteId:17}).init();eBags.flyAway('#subSitesMenu li',{timeout:200,menuHoverClass:'',menuItem:'',topLane:'',container:'div',wrapper:'div.subNavWrapper'});$('a[href=#privacyPolicy]').click(function(){$('html, body').animate({scrollTop:$('.helpHeadline').position().top-10},1100,'easeInOutCubic');return false;});(function($,eBags){eBags.watermark('#enterMeEmail','enter your email address','emailSubscribe');})(jQuery,eBags);$("#lnkSecurityVerify").click(function(e){e.preventDefault();window.open($(this).attr("href"),"verisign","location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500");});eBags.subscribe("/login/success",function(data){var btLogin=$("#btLogin");if(data.firstName){btLogin.html("Hello, "+data.firstName+" | Logout");}else{btLogin.html("Hello, Logout");}
+if(data.userId){var fbProfileImg=$('.fbProfileThumbnail');var fbProfileImgSrc='http://graph.facebook.com/'+data.userId+'/picture?type=square';fbProfileImg.attr('src',fbProfileImgSrc);fbProfileImg.show();}});eBags.subscribe("/logout/success",function(){var btLogin=$("#btLogin");btLogin.html("Join Handbags.com");$('.fbProfileThumbnail').hide();});eBags.subscribe("/browserToolbar/tryclose",function(){$("#btClose").click();});eBags.subscribe("/browserToolbar/trylogin",function(){$("#btLogin").click();});if(eBags.positionFixed()){setTimeout(function(){eBags.activeToolbar=eBags.browserToolbar({currentState:eBags.browserToolbar.states.open}).init();eBags.toolbarTabs=eBags.tabs({contentLoader:{login:{key:'login',ajax:{url:'/Members/LoginToolbar'}},facebook:{key:'facebook',ajax:{url:'/Facebook/ToolbarContent',data:{Url:'http://www.handbags.com:80/help/privacypolicy'}}},newAccount:{key:'newAccount',ajax:{url:'/Members/RegistrationToolbar'}}}}).init();},100);}
+eBags.microCart();if($.browser.msie&&$.browser.version==="6.0"){$.colorbox({href:"/site/browserupgrade",close:'',opacity:0.6});}
+eBags.allowDynamicContentUpdates=true;eBags.loadDynamicContent("dynamicContentBoxGlobal","handbags_global_top",true);});</script>
+
+    <!-- Google Code for Smart Pixel List Remarketing List -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1015015109;
+        var google_conversion_language = "en";
+        var google_conversion_format = "3";
+        var google_conversion_color = "666666";
+        var google_conversion_label = "h1cnCLPHuQIQxc3_4wM";
+        var google_custom_params = {
+            
+        };
+        var google_conversion_value = 0;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+        <div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1015015109/?label=h1cnCLPHuQIQxc3_4wM&amp;guid=ON&amp;script=0"/></div>
+    </noscript>
+
+
+
+</body></html>
