@@ -1,15 +1,27 @@
-> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320205222id_/http%3A//www.lauraashley.com/Privacy-Policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213014217id_/http%3A//www.lauraashley.com/Security/page/security) for the most accurate reproduction.*
 
-# Privacy Policy at LAURA ASHLEY
+# Security at LAURA ASHLEY
 
-### Data Protection and Privacy
+The Laura Ashley website uses industry standard security methods to ensure that all the personal details you give us are not misused.
 
-In addition to allowing us to check your creditworthiness and process your orders, the personal data you submit, and our records of your visits to the Site, will be used to monitor and improve our service to you, and for marketing purposes. We may send you, brochures, leaflets and catalogues displaying our products and services, and may telephone you in order to tell you of promotional offers, to discuss account details or for market research.
+#### Security and Privacy
 
-We will respect the privacy of your personal data, and will comply with all relevant and current data protection legislation. Without your written consent we will not make our mailing list available for marketing purposes to anyone outside the Laura Ashley group of companies and, unless required to do so by a court of competent jurisdiction, will not disclose your personal data to anyone.
+**Is it safe to use my credit card over the internet?**
 
-If you wish to update or delete your personal information, or if you prefer that we do not email you to tell you of promotional offers. Please contact [Customer Services](mailto:Customer.support@lauraashley.com "Mail to Customer Services").
+  * The purchase area of our site is secure. 
+  * We utilise industry standard SSL technology (Secure Sockets Layer) to guarantee a safe and secure shopping environment. 
+  * All sensitive information such as credit card details, names and addresses are encrypted. This means that information passed between your computer and our web site cannot be read even in the event it is intercepted by someone else.
 
-We use Cookies to keep track of your current shopping session to personalise your experience and so that you may retrieve your shopping basket at any time. If you do not accept Cookies you will be unable to use this Website. [Click here](http://www.lauraashley.com/page/faqs/?layout=static "faq") for more information on selecting or deselecting 'Cookies'.
 
-Please check back frequently to see any updates or changes to our privacy policy.
+
+#### Data Protection
+
+  * Information provided by you online or otherwise will be processed by Laura Ashley Limited or Laura Ashley (Ireland) Limited and used to provide you with the ordered products, for billing and accounts purposes, and to keep records of the transaction. 
+  * In addition, your information may also be used for the following:   
+1) To keep you informed about Laura Ashley products, promotions and services.   
+2) To receive information from other carefully selected companies.   
+We will only use your information for 1 and 2 above if you have given your consent.
+
+
+
+To view our privacy policy [click here](http://www.lauraashley.com/privacy-policy/page/privacy/)
