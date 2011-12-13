@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stackideas.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303172311id_/http%3A//stackideas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackideas.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213230100id_/http%3A//stackideas.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy - Stackideas | Stackideas
 
 This privacy policy sets out how Stack Ideas Private Limited uses and protects any information that you have given to us when you use this website.
 
@@ -53,14 +53,12 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@stackideas.com](mailto:support@stackideas.com).
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@stackideas.com.
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [support@stackideas.com](mailto:support@stackideas.com).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to support@stackideas.com.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-The [Joomla!™](http://www.joomla.org/) name is used under a limited license from Open Source Matters in the United States and other countries. StackIdeas.com is not affiliated with or endorsed by [Open Source Matters](http://www.opensourcematters.org/) or the [Joomla!™](http://www.joomla.org/) Project.
