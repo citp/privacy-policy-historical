@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketplace.org privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526082324id_/http%3A//americanpublicmedia.publicradio.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketplace.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213044558id_/http%3A//americanpublicmedia.publicradio.org/privacy) for the most accurate reproduction.*
 
 # American Public Media: Privacy
 
