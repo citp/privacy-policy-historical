@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setf.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209230837id_/http%3A//www.setf.com/home/privacypolicy/sb.cn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setf.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213161646id_/http%3A//www.setf.com/home/privacypolicy/sb.cn) for the most accurate reproduction.*
 
 # Southeast Toyota Finance - Privacy Policy
 
