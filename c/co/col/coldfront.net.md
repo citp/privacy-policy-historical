@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coldfront.net privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220225244id_/http%3A//www.coldfront.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldfront.net privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213035739id_/http%3A//coldfront.net/privacy-policy) for the most accurate reproduction.*
 
-# Coldfront News Network - Making Syndication work for you!
+# Privacy Policy
 
   
 Coldfront L.L.C. respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at the Coldfront L.L.C. Web site. ** **
@@ -41,5 +41,3 @@ If our policy on information collection or uses changes, we will update this pri
 
 **Part V. Data Storage and Security  
 **Coldfront L.L.C. protects user information with the following security measures: firewalls, restricted access, password authentication
-
-Per agreement, we also provide you a link to JoeTec's [Privacy Policy](http://joetec.net/pri.html).
