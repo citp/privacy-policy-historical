@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309155305id_/http%3A//www.foxybingo.com/skin/general/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213184545id_/http%3A//www.foxybingo.com/skin/general/privacypolicy.php) for the most accurate reproduction.*
 
 # Foxy Bingo. £20 free gameplay when you deposit £10. Play Online Bingo.
 
