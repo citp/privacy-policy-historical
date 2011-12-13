@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the onefile.co.uk privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305000003id_/http%3A//www1.onefile.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefile.co.uk privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213162031id_/http%3A//www1.onefile.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # OneFile Privacy and Cookie Policy
 
+###  Data Protection Act 1998
+
 Citrus Lounge Limited ("we", "us" or "our" for short) are registered to collect and process personal data under the Data Protection Act 1998 (the "Act" for short). Citrus Lounge Limited are data controllers of your personal information for the purposes of the Act. If you want to know what personal information we hold about you, please write to us at support@onefile.co.uk.
 
-We respect and safeguard the privacy of the users of onefile.co.uk ("the website"). This Privacy Policy outlines how we will do this, how we will collect and use your personal information (such as your name, your email address, telephone number or other contact details) and how you can limit our use of this. Please read this Privacy Policy carefully which should be read together with our [website terms and conditions](https://web.archive.org/web/20110305000003id_/http%3A//www1.onefile.co.uk/terms.aspx).
+We respect and safeguard the privacy of the users of www1.onefile.co.uk ("the website"). This Privacy Policy outlines how we will do this, how we will collect and use your personal information (such as your name, your email address, telephone number or other contact details) and how you can limit our use of this. Please read this Privacy Policy carefully which should be read together with our [website terms and conditions](https://web.archive.org/terms.aspx).
 
-##  What information do we gather?
+###  What information do we gather?
 
 Information is gathered in two ways: (1) indirectly (for example, through our website's technology); and (2) directly (for example, when you provide information on various pages of the website such as the contact us enquiry form).
 
@@ -18,7 +20,7 @@ Most browsers allow you to turn off cookies. If you want to know how to do this 
 
 We also collect information when you voluntarily submit it to us. On our website, we provide you with the opportunity to register for various services, register for email newsletters, enter promotions and competitions, and participate in online surveys. When we collect your information in this way, we will notify you as to how this information will be used. We will also provide you with the opportunity to indicate your preferences as to the use of your information.
 
-##  Use of your information
+###  Use of your information
 
 The password you provide when registering with the website is encrypted to ensure protection against unauthorised access to your personal information.
 
@@ -38,7 +40,7 @@ You may modify your preferences or get further information by writing to us at C
 
 Your wishes will be honoured.
 
-##  Disclosing your information
+###  Disclosing your information
 
 We may disclose your personal information if required to do so by law or in good-faith believing such action is necessary to comply with the law. We will not sell or otherwise share your personal information with third parties without your consent except in the following instances:
 
@@ -48,24 +50,24 @@ We may disclose your personal information if required to do so by law or in good
 
 
 
-##  Accessing and updating your personal information
+###  Accessing and updating your personal information
 
 You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to support@onefile.co.uk.
 
-There will be an administrative charge of £10 for providing a copy of this information. 
+There will be an administrative charge of £10 for providing a copy of this information.
 
-##  How do I change my personal details?
+###  How do I change my personal details?
 
-We want to ensure that we provide you with the best possible service. Please therefore always keep us updated of any changes to your personal information, for example, if your email address changes. You can do this by accessing your account pages on the website or by emailing support@onefile.co.uk. 
+We want to ensure that we provide you with the best possible service. Please therefore always keep us updated of any changes to your personal information, for example, if your email address changes. You can do this by accessing your account pages on the website or by emailing support@onefile.co.uk.
 
-##  Where we store your personal information
+###  Where we store your personal information
 
-The personal information that we collect from you may be sent and stored outside the European Economic Area ("EEA"). By registering on the website or sending us your personal information by other means, you are indicating your consent for your personal information to be sent and stored outside the EEA. 
+The personal information that we collect from you may be sent and stored outside the European Economic Area ("EEA"). By registering on the website or sending us your personal information by other means, you are indicating your consent for your personal information to be sent and stored outside the EEA.
 
-##  What does providing us with this information mean?
+###  What does providing us with this information mean?
 
-By giving us personal information about you, you agree that your personal information can be used as set out in this Privacy Policy. If we change the Privacy Policy, we will post the changes on this page. Please check the website regularly for any changes to this Privacy Policy. 
+By giving us personal information about you, you agree that your personal information can be used as set out in this Privacy Policy. If we change the Privacy Policy, we will post the changes on this page. Please check the website regularly for any changes to this Privacy Policy.
 
-##  If you don't feel we're adhering to this Privacy Policy, what should you do?
+###  If you don't feel we're adhering to this Privacy Policy, what should you do?
 
-If at any time you believe that we have not adhered to the terms of this Privacy Policy, please notify us by email at support@onefile.co.uk and we will make any efforts we can to determine and solve the problem promptly. 
+If at any time you believe that we have not adhered to the terms of this Privacy Policy, please notify us by email at support@onefile.co.uk and we will make any efforts we can to determine and solve the problem promptly.
