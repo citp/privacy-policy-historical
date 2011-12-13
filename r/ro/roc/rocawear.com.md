@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rocawear.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605211924id_/http%3A//www.rocawear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocawear.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213134258id_/http%3A//www.rocawear.com/privacy) for the most accurate reproduction.*
 
-# Jay-z founded, Urban clothing blending street styles and runway | Rocawear
+# Jay-Z founded, urban clothing blending street styles and runway | Rocawear
 
 Iconix Brand Group, Inc., its affiliates and subsidiaries ("Iconix" or, collectively, "us," "we" or "our"), operate this website (the "Site"). This Privacy Policy sets forth our information practices and is incorporated therein by reference to the Terms and Conditions of Use of this Site. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy.
 
