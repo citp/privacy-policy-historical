@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esmarttax.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226025654id_/http%3A//www.esmarttax.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmarttax.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213014233id_/http%3A//www.esmarttax.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # eSmart Tax Privacy Statement - FREE online income tax software filing, IRS e-File tax return form for Federal & State, 1040 tax forms and more.
 
@@ -9,6 +9,8 @@ At JTH Tax, Inc., doing business as Liberty Tax Service (referred to as "us" or 
 **The Information We Collect**
 
 eSmart collects such tax-related information as your name, address, income, birth date, social security number, employment and other information necessary to prepare and electronically file your tax return. You also provide us with your username, password, password prompt question and e-mail address as part of the registration process to use this service. In addition, we collect the Internet Protocol (IP) address of the computer from which the return originated (see the "URL and IP Address" section below for more discussion on this). If you pay by credit card, we collect your credit card type, number and expiration date. If you pay by e-check, request direct deposit of your tax refund or direct debit of your tax liability, we collect the bank name, bank account type, account number and routing number.
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact Customer Support.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **The Way We Use Information**
 
