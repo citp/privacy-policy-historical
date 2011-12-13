@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobafire.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227231759id_/http%3A//www.mobafire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobafire.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213031104id_/http%3A//www.mobafire.com/privacy-policy) for the most accurate reproduction.*
 
 # League of Legends Strategy Build Guide :: LoL Strategy Building Tool by MOBAFire
 
@@ -41,6 +41,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 ## Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## PROVISION REGARDING GAIKAI'S COLLECTION OF USER-RELATED INFORMATION AS PART OF THE GAIKAI SERVICE:
+
+Licensee's corporate privacy policy (which is accessible at http://www.mobafire.com/privacy-policy) already includes, or will include prior to the commercial launch of the Gaikai Service on any website(s) owned or controlled by Licensee (collectively, the "Licensee Sites"), reasonable notice that (i) entities that are not affiliated with Licensee, such as Gaikai (collectively, "Providers") may provide certain products and/or services (e.g., the Gaikai Service) on behalf of Licensee; and (ii) Licensee may disclose and/or share with Gaikai (as a Provider) certain Usage Data and other information of or concerning the individuals who access and use the Gaikai Service and the Trial Games by means of the Licensee Sites, and/or allow Gaikai (as a Provider) to collect and use certain Usage Data and other information regarding such individuals, their respective computer system configurations and performance characteristics, and their use of the Gaikai Service and the Trial Games. Such information may include information that is not personally identifiable (e.g., computer CPU, graphics card, stability of Internet connectivity, latency, etc.), and may also include personally identifiable information regarding such individuals (e.g., email addresses, etc.) and/or information that some jurisdictions consider to be personally identifiable information, such as an IP address. Gaikai's collection, retention and use of any and all such information shall be subject to Gaikai's corporate privacy policy, as posted on http://www.gaikai.com/privacy, which policy may be amended by Gaikai from time to time, at its sole discretion, both during and after the term of the Agreement.
 
 ## California Online Privacy Protection Act Compliance
 
