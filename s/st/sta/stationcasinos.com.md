@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stationcasinos.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625113400id_/http%3A//www.stationcasinos.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stationcasinos.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213215155id_/http%3A//www.stationcasinos.com/corp/privacy) for the most accurate reproduction.*
 
 # Las Vegas Hotels & Casinos - Station Casinos, Inc - Las Vegas
 
@@ -7,6 +7,8 @@
 ### Introduction
 
 Station Casinos. has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about whether and how this website collects and uses information.
+
+Station Casinos respects your privacy. We will not share or use your mobile number for any other purpose. We will only use information you provide to transmit your text message. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with the Service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may refuse you access to the Service and pursue any appropriate legal remedies.
 
 ### Browsing
 
