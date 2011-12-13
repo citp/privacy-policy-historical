@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammoman.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107080945id_/http%3A//ammoman.com/webstore_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammoman.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213035803id_/http%3A//ammoman.com/webstore_privacy_policy.htm) for the most accurate reproduction.*
 
 # Discount Distributors
 
@@ -18,11 +18,18 @@ Our security measures do not end once you have completed your online order. For 
 
 **COOKIES** **:** Our shopping cart functionality is based on "cookies" or customized pieces of information our site stores on your hard drive. Because cookies only contain text, they cannot transmit a virus or damage your system. They cannot gather information about you or your computer. The sole purpose of storing cookies is to remember information about your **AMMOMAN.COM** web-cart and make online shopping easier. If you prefer not to accept cookies, it may be necessary to call us directly to place your order.
 
-**LINKS TO OTHER SITES** **:** We provide links to many other sites we think you may enjoy. These sites operate independently of **AMMOMAN.COM** and have established their own privacy and security policies. Please review these policies at any site you visit. If you have any questions regarding this policy, please email us at [Rob@AMMOMAN.com](mailto:Rob@ammoman.com)
+**LINKS TO OTHER SITES** **:** We provide links to many other sites we think you may enjoy. These sites operate independently of **AMMOMAN.COM** and have established their own privacy and security policies. Please review these policies at any site you visit. If you have any questions regarding this policy, please email us at [Eric@AMMOMAN.COM](mailto:Eric@AMMOMAN.COM)
 
 **SALES OF AMMUNITION:**  
 Each time you make a purchase of ammunition from this web site, you confirm that you are of legal age to purchase the ammunition in your order and there are no laws prohibiting you from owning the ammunition you are purchasing.
 
 Please feel free to contact [Eric@AMMOMAN.COM](mailto:Eric@AMMOMAN.COM) with questions or problems with this service.
 
-**2004/2005 AMMOMAN.COM All rights reserved. - Terms of Use. Last Updated: 9-11, 2005**
+**2004/2005 AMMOMAN.COM All rights reserved. - Terms of Use. Last Updated: 2-10, 2011**
+
+**CALL THE AMMOMAN AT: (856) 767-8835  
+AMMOMAN FAX LINE 24-HOURS (856)-767-3877  
+ERIC's EMAIL ALL OTHER TIMES [CLICK HERE](mailto:eric@ammoman.com)**
+
+**SORRY BUT WE DO NOT SHIP TO ALASKA , HAWAII, MASSACHUSETTS or NEW JERSEY  
+ILLINOIS RESIDENTS [CLICK HERE](https://web.archive.org/web/20111213035803id_/http%3A//ammoman.com/info_illinois.htm)**
