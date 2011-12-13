@@ -1,0 +1,602 @@
+<!--The following is the downloaded HTML source of the archinect.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213171857id_/http%3A//archinect.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml2/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<!-- 1323796719 -->
+
+	<title>Privacy Policy | Archinect</title>
+
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="en-us">
+
+	
+	<meta name="description" content="Archinect's privacy policy">
+
+	<link rel="shortcut icon" href="http://archinect.com/favicon.ico" type="image/ico">
+	
+		<!-- Main CSS -->
+	<link type="text/css" rel="stylesheet" href="/css/archinect.v3.css?20">
+
+        
+	<!-- Alternate Main CSS only for IE7 and older -->
+	<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/css/archinect.ie7.css?6" media="screen"><![endif]-->
+
+        <style type="text/css">span.archinect_error{color: red;}</style>
+
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var CKEDITOR_BASEPATH = '/js/ckeditor/';
+</script>
+<script type="text/javascript" src="/js/archinect.js?14"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+                $('a[href*=".png"]').not('.no_floatbox').not('floatbox').addClass('floatbox').attr('rel', 'dynamic_gallery');
+                $('a[href*=".jpg"]').not('.no_floatbox').not('floatbox').addClass('floatbox').attr('rel', 'dynamic_gallery');
+                $('a[href*=".gif"]').not('.no_floatbox').not('floatbox').addClass('floatbox').attr('rel', 'dynamic_gallery');
+
+		$('a.floatbox').livequery(function(){
+			$(this).colorbox();
+		});
+
+                $('a[href*="//docs.google.com/"]').not('.no_floatbox').not('floatbox').addClass('ifloatbox');
+
+		$('a.ifloatbox').livequery(function(){
+			$(this).colorbox({iframe:true, innerWidth:800, innerHeight:600});
+		});
+
+	});
+</script>
+
+		<!-- JavaScript to display transparent PNGs in IE6 -->
+	<!--[if lte IE 7]><script defer type="text/javascript" src="/js/pngfix.js"></script><![endif]-->
+
+	<!-- JavaScript for correct Ad Banner Padding -->
+	<script type="text/javascript">
+
+        $(document).ready(function() {
+            $('div.Banner').each(function(){
+            	if( $(this).find('div').length > 0 )
+                	$(this).addClass('Active');
+            });
+        });
+
+	function arc_pathname(str) 
+	{
+		return arc_pathname( str, false);
+	}
+
+	function arc_pathname(str, last)
+	{
+		if(last)
+			 return str.replace(/^.*\//, '');
+
+
+		return str.replace(/^\w+:\/\/[^\/]*/, '');
+	}
+
+	</script>
+
+		<script type="text/javascript">
+	ddaccordion.init({
+		headerclass: "menu", 
+		contentclass: "submenu", 
+		revealtype: "click", 
+		mouseoverdelay: 200, 
+		collapseprev: true, 
+		defaultexpanded: [4], 
+		onemustopen: false, 
+		animatedefault: false, 
+		persiststate: false, 
+		toggleclass: ["closedlanguage", "openlanguage"], 
+		togglehtml: ["none", "", ""], 
+		animatespeed: "fast", 
+		oninit:function(expandedindices){ 
+			
+		},
+		onopenclose:function(header, index, state, isuseractivated){ 
+			
+		}
+	    });
+	</script>
+
+	<!-- AJAX forms -->
+	<script type="text/javascript">
+		function arc_submitajax(e){
+     				e.preventDefault();
+     				var form = this;
+
+				if( typeof( arc_remove_editor ) == 'function' ) {
+					arc_remove_editor('form.arc_ajax .editor');
+				}
+
+				$('<input>').attr({
+					    type: 'hidden',
+					    name: 'arc_token',
+					    value: window.arc_token
+				}).appendTo(form);
+
+				$.ajax({
+					type: 'POST',
+					url: form.action,
+					data: $(form).serialize(),
+					success: function(data, status, xhr){
+						var matches = /url=(.*)/.exec(xhr.getResponseHeader("refresh"));
+						if( matches != null ) {
+							location.replace(matches[1]);
+							return;
+						}
+						$(form).replaceWith(data);
+
+						if( typeof( arc_editor ) == 'function' ) {
+								arc_editor('form.arc_ajax .editor');
+						}
+					}
+				});
+			}
+		$(document).ready(function(){
+			$('form.arc_ajax').live('submit', arc_submitajax);
+		});
+	</script>
+	<!-- JavaScript and CSS for jqModal -->
+	<script type="text/javascript">
+
+
+		$().ready(function(){
+
+			var session_data = {entries:[], comments:[], hello:true};
+
+			$('.arc_dynamic_edit').each( function() {
+
+				$(this).contents().filter(function(){
+					    return this.nodeType == 8;
+					}).each(function(i, e){
+
+
+
+						var vals = $.parseJSON($('<div />').html(e.nodeValue).text());
+
+						if( vals.type == 'entry' || vals.type == 'admin_entry' || vals.type == 'like' || vals.type == 'follow')
+							session_data.entries.push(vals['id']);
+						else if( vals.type == 'comment' )
+							session_data.comments.push(vals['id']);
+						else if( vals.type == 'invitations' )
+							session_data.invitations = vals['id'];
+
+
+					});
+
+
+
+			});
+
+			window.arc_token = '';
+
+			$.post('/session', session_data, function(data) {
+
+				window.arc_token = data.arc_token;
+
+				$('form').livequery(function(){
+					$('<input>').attr({
+					    type: 'hidden',
+					    name: 'arc_token',
+					    value: window.arc_token
+					}).appendTo(this);
+
+					$(this).submit(function(){
+						$(':submit', this).click(function() {
+							return false;
+						});
+					});
+
+				});
+
+
+				if( !data.logged_in ) {
+
+					$('#arc_session_area').html('<div class=""><a class="MenuButton Login modal_trigger" href="/auth/login"><em>Login / Join</em></a></div>');
+
+
+					$('a.login_trigger input[type=button]').live('click', function(e){
+						e.stopPropagation();
+						e.preventDefault();
+						var a = $(this).closest('a');
+						$('#modal_dialog').jqm({ajax: '/auth/login'+arc_pathname(a.attr('href')) });
+						$('#modal_dialog').jqmShow();
+						return false;
+					});
+
+					$('a.login_trigger').live('click', function(e) {
+						e.preventDefault();
+						$('#modal_dialog').jqm({ajax: '/auth/login'+arc_pathname($(this).attr('href')) });
+						$('#modal_dialog').jqmShow();
+						return false;
+					});
+
+
+				} else {
+
+					$('.arc_dynamic_edit').each( function() {
+
+						var content = '__CONTENT__';
+
+						$(this).contents().filter(function(){
+							    return this.nodeType == 8;
+							}).each(function(i, e){
+
+								var vals = $.parseJSON($('<div />').html(e.nodeValue).text());
+
+								if( vals.type == 'entry' ) {
+									if( data.entries[vals['id']] )
+										content = vals.true_html;
+									else if( data.logged_in )
+										content = vals.false_login_html;
+								}else if( vals.type == 'admin_entry' ) {
+									if( data.admin_entries[vals['id']] )
+										content = vals.true_html;
+									else if( data.logged_in )
+										content = vals.false_login_html;
+								}else if( vals.type == 'comment' ) {
+									if( data['comments'][vals['id']] )
+										content = vals.true_html;
+									else if( data.logged_in )
+										content = vals.false_login_html;
+								}else if( vals.type == 'invitations' ) {
+									if( data['invitations'] > 0 )
+										content = vals.true_html.replace('__VALUE__', data['invitations']);
+								}else if( vals.type == 'new' ) {
+									if( data['is_new'] )
+										content = vals.true_html;
+								}else if( vals.type == 'like' ) {
+									if( data.liked_entries[vals['id']] )
+										content = vals.true_html;
+									else if( data.logged_in )
+										content = vals.false_login_html;
+								}else if( vals.type == 'follow' ) {
+									if( data.followed_entries[vals['id']] )
+										content = vals.true_html;
+									else if( data.logged_in )
+										content = vals.false_login_html;
+								}else if( vals.type == 'has_portfolio' ) {
+									if( data.portfolio_id > 0 )
+										content = vals.true_html;
+									else if( data.logged_in )
+										content = vals.false_login_html;
+								}else if( vals.type == 'logged_in' ) {
+									if( data.logged_in )
+										content = vals.true_html;
+								}
+
+								content = content.replace('__PORTFOLIO_ID__', data['portfolio_id']);
+								content = content.replace('__SCREEN_NAME__', $('<div />').text(data.screen_name).html());
+
+
+							});
+
+						if( content  != '__CONTENT__' )
+							$(this).replaceWith(content);
+
+
+					});
+
+					var display_name = $('<div />').text(data.screen_name).html();
+
+					if( data['portfolio_id'] > 0 ) {
+						display_name = '<a href="/own_profile/cover/'+data['portfolio_id']+'">' + display_name + '</a>';
+
+						$('a[href="/people"]').attr('href', '/people/list');
+						$('a[href="/firms"]').attr('href', '/firms/list');
+						$('a[href="/schools"]').attr('href', '/schools/list');
+					}
+
+					var buttons = '';
+
+					if(data['njobs']>0)
+						buttons+='<a id="MyJobsButton" href="/account/ads/list">My Jobs<span class="Status">'+data['njobs']+'</span></a>';
+
+					if(data['blogs'].length == 1)
+						buttons+='<a id="MyJobsButton" href="/blog/'+data['blogs'][0]['id']+'/my-blog">My Blog</a>';
+					else if(data['blogs'].length > 1 )
+						buttons+='<a id="MyBlogsButton" href="/account/blogs">My Blogs</span></a>';
+
+
+					$('#arc_session_area').html(
+						buttons +
+						'<div class="LoggedInAs">Logged in as:</div>' +
+						'<div id="LoginStatus">' +
+						display_name +
+						'<div class="HoverText" id="LoginStatusHover">' +
+						'<a href="/account/hub">Edit Settings</a><br />' +
+						'<a href="/auth/logout'+arc_pathname(document.location.pathname)+'">Log Out</a></div></div>');
+
+					$('#LoginStatusHover').hide();
+
+					$("#LoginStatus").hoverIntent({
+						over: function(){
+							$('#LoginStatusHover').slideDown(100);
+							$('#LoginStatusHover a').fadeIn(0);
+						},
+
+						timeout: 200,
+
+						out: function(){
+							$('#LoginStatusHover').slideUp(100);
+							$('#LoginStatusHover a').fadeOut(0);
+						}
+					});
+
+				}
+
+				$('a input[type="button"]').live('click', function(e){
+
+					if( e.isDefaultPrevented() )
+						return false;
+
+					e.preventDefault();
+					e.stopPropagation();
+					var a = $(this).closest('a');
+					if( a.hasClass('modal_trigger') ) {
+						$('#modal_dialog').jqm({ajax: a.attr('href')+arc_pathname(document.location.pathname) });
+						$('#modal_dialog').jqmShow();
+					} else {
+						window.location.href = a.attr('href');
+					}
+					return false;
+				});
+
+				$('a.modal_trigger').live('click', function(e) {
+
+					if( e.isDefaultPrevented() )
+						return false;
+
+					e.preventDefault();
+					$('#modal_dialog').jqm({ajax: $(this).attr('href')+arc_pathname(document.location.pathname) });
+					$('#modal_dialog').jqmShow();
+					return false;
+				});
+
+				$('.modal_hide').live('click', function() {
+					$('#modal_dialog').jqmHide();
+					return false;
+				});
+
+
+				if( typeof(arc_page_post_session) == 'function' )
+					arc_page_post_session();
+
+
+
+			}, "json" );
+
+		});
+
+	</script>
+
+	
+	<script type="text/javascript">
+
+		richhtmlticker.define({
+			id: "myhtmlticker", 
+			msgclass: "MessageDiv", 
+			msgsource: "/ws/status_updates", 
+			rotatespeed: 6000, 
+			animateduration: 100 
+		});
+
+		$(document).ready(function(){
+
+			$(".StatusLinks").css({opacity: 0});
+
+			$(".TickerStyle").hover(function(){
+				$('.StatusLinks').fadeTo("fast", 1);
+			},function(){
+				$('.StatusLinks').fadeTo("fast", 0);
+			});
+		});
+
+	</script>
+
+	<!-- page-specific script -->
+
+
+				
+				<script type="text/javascript">
+				  var _gaq = _gaq || [];
+				  _gaq.push(['_setAccount', 'UA-162408-1']);
+				  _gaq.push(['_trackPageview', '/privacy_policy' ]);
+
+
+				  (function() {
+				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				  })();
+				</script>
+
+
+			
+				<script type="text/javascript">
+				  var _qevents = _qevents || [];
+
+				  (function() {
+				   var elem = document.createElement('script');
+
+				   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+				   elem.async = true;
+				   elem.type = "text/javascript";
+				   var scpt = document.getElementsByTagName('script')[0];
+				   scpt.parentNode.insertBefore(elem, scpt);
+				  })();
+				</script>
+
+  </head>
+
+  <body class="" id="" style="">
+
+  
+  
+  
+	<div class="ColA">
+	
+				<div class="MainMenu">
+			<div class="MenuLogo"><a href="/"><img src="/images/nav/a_logo.png" alt="Archinect Logo" border="0" width="100" height="100"></a></div>
+
+
+	<div class="menu"><a class="MenuButton Main" href="#"><em>Editorial &amp; News</em></a></div>
+	<div class="submenu">
+
+			<a class="MenuButton " href="/&#9;&#9;features">
+		<em>
+			Features		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;news">
+		<em>
+			News		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;events">
+		<em>
+			Events		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;competitions">
+		<em>
+			Competitions		</em>
+		</a>
+		</div>
+
+
+	<div class="menu"><a class="MenuButton Main" href="#"><em>Employment</em></a></div>
+	<div class="submenu">
+
+			<a class="MenuButton " href="/&#9;&#9;jobs">
+		<em>
+			Jobs		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;jobseekers">
+		<em>
+			Job Seekers		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;employers">
+		<em>
+			Active Employers		</em>
+		</a>
+		</div>
+
+
+	<div class="menu"><a class="MenuButton Main" href="#"><em>Community</em></a></div>
+	<div class="submenu">
+
+			<a class="MenuButton " href="/&#9;&#9;people">
+		<em>
+			People		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;firms">
+		<em>
+			Firms		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;blogs">
+		<em>
+			Blogs		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;forum">
+		<em>
+			Forum		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;updates">
+		<em>
+			Work Updates		</em>
+		</a>
+		</div>
+
+
+	<div class="menu"><a class="MenuButton Main" href="#"><em>Academia</em></a></div>
+	<div class="submenu">
+
+			<a class="MenuButton " href="/&#9;&#9;schools">
+		<em>
+			Schools		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;blogs/directory/1090/school">
+		<em>
+			School Blogs		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;forum/category/155/academia">
+		<em>
+			Forum		</em>
+		</a>
+		</div>
+
+
+	<div class="menu"><a class="MenuButton Main" href="#"><em>About</em></a></div>
+	<div class="submenu">
+
+			<a class="MenuButton " href="/&#9;&#9;about">
+		<em>
+			About Archinect		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;advertising">
+		<em>
+			Advertising		</em>
+		</a>
+			<a class="MenuButton " href="/&#9;&#9;contact_us">
+		<em>
+			Contact Us		</em>
+		</a>
+			<a class="MenuButton Active" href="/&#9;&#9;privacy_policy">
+		<em>
+			Privacy Policy		</em>
+		</a>
+		</div>
+
+
+		<div id="arc_session_area" class="SessionArea"></div>
+
+		</div><!--/.MainMenu-->
+
+	</div><!--/.ColA-->
+
+		  <div class="Header">
+
+		<div style="float:left;">
+		<img src="/images/nav/header_banner_privacy_policy.png" width="225" height="107" border="0" alt="Archinect">
+
+		</div>
+
+		               		<div id="myhtmlticker" class="TickerStyle"></div>
+		
+	  </div><!--/.Header-->
+
+
+	<div class="ColBC">
+		<div class="ColBProfiles" style="border-right:none">
+
+	  	<div class="About">
+			<p><strong>The privacy of our visitors to Archinect.com is important to us.</strong><br><br>
+
+			At Archinect.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Archinect.com, and how we safeguard your information. We never sell your personal information to third parties.<br><br>
+
+			<strong>Log Files</strong><br>
+			As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.<br><br>
+
+			<strong>Cookies and Web Beacons</strong><br>
+			We do use cookies to store information, such as your personal preferences when you visit our site. This includes the ability to login to some of our features, such as the discussion forums.<br><br>
+
+			We also use third party advertisements on Archinect.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real job ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as interior design ads to someone who frequents interior design sites).<br><br>
+
+			You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.</p>
+
+		</div><!--/.About-->
+
+	  </div><!--/.ColBProfiles-->
+	</div><!--/.ColBC-->
+
+
+       <div class="jqmWindow" id="modal_dialog">
+         Please wait... <img src="/images/nav/ajax-loader.gif" alt="loading">
+       </div>
+<script type="text/javascript">
+_qevents.push( { qacct:"p-97pfFgotR3QOc"} );
+</script>
+<noscript>
+<div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-97pfFgotR3QOc.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+</body></html>
