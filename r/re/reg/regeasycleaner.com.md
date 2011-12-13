@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regeasycleaner.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626193605id_/http%3A//regeasycleaner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regeasycleaner.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213013126id_/http%3A//www.regeasycleaner.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Registry Easy
 
@@ -41,4 +41,4 @@ The Web Site may contain links to other web sites. Registry Easy.com does not mo
 RegistryEasy.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy.
 
 6\. CONTACT INFORMATION  
-For questions regarding this Privacy Policy please [**Contact us**](https://web.archive.org/web/20110626193605id_/http%3A//regeasycleaner.com/contact.php).
+For questions regarding this Privacy Policy please [**Contact us**](https://web.archive.org/web/20111213013126id_/http%3A//www.regeasycleaner.com/contact.php).
