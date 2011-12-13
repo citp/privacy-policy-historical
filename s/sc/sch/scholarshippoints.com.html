@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scholarshippoints.com privacy policy that was archived on 2011-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110214074438id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scholarshippoints.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213070747id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -9,20 +9,69 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <base href="http://www.scholarshippoints.com/">
-<link rel="shortcut icon" href="http://www.scholarshippoints.com/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://media.scholarshippoints.com/favicon.ico" type="image/x-icon">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/FreeScholarshipsBlog">
-<link href="http://www.scholarshippoints.com/styles.css" rel="stylesheet" type="text/css">
+<link href="http://media.scholarshippoints.com/styles.css" rel="stylesheet" type="text/css">
 
+<!-- jQuery Library -->
+	<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+	<script type="text/javascript">
+		 google.load("jquery", "1.3.2");
+	</script>
 
-<meta name="robots" content="index,follow">
-<meta name="Slurp" content="NOYDIR"><!-- jQuery Library -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<!-- Global javascript utilities -->
+<script type="text/javascript" src="http://media.scholarshippoints.com/global/js/utilities.js"></script>
+ 
+<!-- Google Analytics Tracking [START] --> 
 <script type="text/javascript">
-	 google.load("jquery", "1.3.2");
-</script>
-<script type="text/javascript" src="http://www.scholarshippoints.com/includes/js/iepngfix_tilebg.js"></script>
 
-<script src="http://www.scholarshippoints.com/includes/javascript/containerController.js" type="text/javascript"></script>
+	var _gaq = _gaq || [];
+	_gaq.push(['global._setAccount', 'UA-84190-65']);
+	_gaq.push(['global._setDomainName', '.scholarshippoints.com']);
+	_gaq.push(['global._setAllowHash', false]);
+	_gaq.push(['global._setAllowLinker', true]);
+	_gaq.push(['global._trackPageview']);
+	
+	_gaq.push(['test._setAccount', 'UA-84190-66']);
+	_gaq.push(['test._setDomainName', '.scholarshippoints.com']);
+	_gaq.push(['test._setAllowHash', false]);
+	
+	_gaq.push(['_setAccount', 'UA-84190-15']);
+	_gaq.push(['_setDomainName', '.scholarshippoints.com']);
+	_gaq.push(['_setAllowHash', false]);
+	_gaq.push(function() {
+		var pageTracker = _gat._getTrackerByName();
+		var memberType = pageTracker._getVisitorCustomVar(2);
+		if (!memberType) {
+			_gaq.push(['_setCustomVar', 2, 'member_type','anonymous', 1]);
+		}
+			});
+	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+	
+	// Get parameters from URL (utilities.js)
+	var params = getUrlParams();
+	
+	// Track traffic coming from the Facebook Like and Share buttons
+	if (params.fb_ref == "share-button" || params.fb_ref == "like-button") {
+		_gaq.push(
+			['www._setCampMediumKey', 'social'],
+			['www._setCampSourceKey', 'facebook.com'],
+			['www._setCampNameKey', 'SPTS_Social_Widgets'],
+			['www._setCampContentKey', params.fb_ref]
+		);
+	}
+	
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- Google Analytics Tracking [END] --> 
+<meta name="robots" content="index,follow">
+<meta name="Slurp" content="NOYDIR">
 </head>
 
 <body>
@@ -37,29 +86,23 @@
 <!-- Logo -->
 <div id="logo_strip">
 	<div class="logo">
-		<a href="http://www.scholarshippoints.com/"><img src="http://www.scholarshippoints.com/images/scholarship_points_logo.gif" border="0" alt="Scholarship Points Free Scholarships Program"></a> 
+		<a href="http://www.scholarshippoints.com/"><img src="http://media.scholarshippoints.com/images/scholarship_points_logo.gif" border="0" alt="Scholarship Points Free Scholarships Program"></a> 
 	</div>
-	<span class="fRight" id="topSocial">
-		<span>Earn Scholarship Points!</span>
-		<a href="http://www.facebook.com/scholarshippoints" class="fb" title="Like ScholarshipPoints on Facebook!" target="_blank">&nbsp;</a>
-		<a href="http://twitter.com/winscholarships" class="tw" target="_blank" title="Follow ScholarshipPoints on Twitter!">&nbsp;</a>
-		
-	</span>
-	<div class="clear"></div>
-</div>
+	</div>
+ 
 
 <!-- Navigation -->
 <div id="nav">
 	<p>
-		<a href="http://www.scholarshippoints.com/free-college-scholarships/" title="Win free scholarships for college!">Win Scholarships</a>
-		<img src="http://www.scholarshippoints.com/images/nav-split-clear.gif" width="2" height="20" class="navsplit" alt="nav element">
-		<a href="http://www.scholarshippoints.com/how-it-works/" title="How ScholarshipPoints works">How it Works</a>
-		<img src="http://www.scholarshippoints.com/images/nav-split-clear.gif" width="2" height="20" class="navsplit" alt="nav element">
+		<a href="http://www.scholarshippoints.com/free-college-scholarships/" title="Win Free College Scholarships">Win Scholarships</a>
+		<img src="http://media.scholarshippoints.com/images/nav-split-clear.gif" width="2" height="20" class="navsplit" alt="nav element">
+		<a href="http://www.scholarshippoints.com/how-it-works/" title="How ScholarshipPoints Works Video">How it Works</a>
+		<img src="http://media.scholarshippoints.com/images/nav-split-clear.gif" width="2" height="20" class="navsplit" alt="nav element">
 		<a href="http://www.scholarshippoints.com/winners/" title="2011 Free Scholarship Winners">Scholarship Winners</a>
-		<img src="http://www.scholarshippoints.com/images/nav-split-clear.gif" width="2" height="20" class="navsplit" alt="nav element">
-		<a href="http://www.scholarshippoints.com/community.php" target="_blank">Community</a>
-		<img src="http://www.scholarshippoints.com/images/nav-split-clear.gif" width="2" height="20" class="navsplit" alt="nav element">
-		<a href="http://www.scholarshippoints.com/win-free-scholarships/">Join Now</a>
+		<img src="http://media.scholarshippoints.com/images/nav-split-clear.gif" width="2" height="20" class="navsplit" alt="nav element">
+		<a href="http://www.scholarshippoints.com/community.php" target="Join ScholarshipPoints on Facebook and Twitter">Community</a>
+		<img src="http://media.scholarshippoints.com/images/nav-split-clear.gif" width="2" height="20" class="navsplit" alt="nav element">
+		<a href="http://www.scholarshippoints.com/win-free-scholarships/" title="Join ScholarshipPoints">Join Now</a>
 	</p>
 </div>
 
@@ -67,24 +110,25 @@
 <div id="main_content">
 
 <!-- Left Content -->
-
 <div id="left_content">
-        <div class="left_module">
-                <div class="applyNow">
-                        <div class="applyImage">
-                        <a target="_blank" title="Join ScholarshipPoints Today" href="http://www.scholarshippoints.com/win-free-scholarships/"></a>
-                        </div>
-                </div>
-        </div>
-        <div class="left_resources_wrap">
-                <div class="left_resources">
-                        <div class="left_resources">
-                                <h1>Already a Member?</h1>
+
+<div class="module">
+    <div class="applyNow">
+            <div class="applyImage">
+            <a target="_blank" title="Join ScholarshipPoints Today" href="http://www.scholarshippoints.com/win-free-scholarships/"></a>
+            </div>
+    </div>
+</div>
+
+<div id="leftNav"><div class="left_resources">
+
+       
+                                <h3>Already a Member?</h3>
                         
-                                <a title="Log Into ScholarshipPoints" href="http://www.scholarshippoints.com/win-free-scholarships/login.php" id="logInBtn"></a>
+                                <a title="Log Into ScholarshipPoints" href="http://www.scholarshippoints.com/login/" id="logInBtn"></a>
                                 
 
-                                <h1>Free Scholarships</h1> 
+                                <h3>Free Scholarships</h3> 
                                 <p>
                                         <a href="http://www.scholarshippoints.com/win-free-scholarships/" title="Win $10,000 in Free Scholarships">Win FREE Scholarships</a> 
                                 </p>
@@ -101,7 +145,7 @@
                                         <a href="http://www.scholarshippoints.com/scholarship-questions/" title="Scholarship Points FAQ">Scholarship Points FAQ</a> 
                                 </p>
                         
-                                <h1>Helpful Resources</h1> 
+                                <h3>Helpful Resources</h3> 
                                 <p>
                                         <a href="http://www.scholarshippoints.com/student-loans.php" title="Student Loans" target="_blank">Student Loans</a> 
                                 </p>
@@ -123,7 +167,6 @@
                                 <p>
                                         <a href="http://www.graduatecenter.com/schools/" title="Graduate Schools and Grad Resources" target="_blank">Graduate Schools</a> 
                                 </p>
-                        </div>
 
 </div>
 
@@ -133,25 +176,6 @@
 <div class="adClear"></div>
 <div id="adRectangle">
 
-<!--/* OpenX Javascript Tag v2.8.5 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://www.edvisors.net/www/delivery/ajs.php':'http://www.edvisors.net/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=134");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>-->
-</script><script type="text/javascript" src="https://www.edvisors.net/www/delivery/ajs.php?zoneid=134&amp;cb=53336319163&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110214074438id_/http%253A//www.scholarshippoints.com/privacy.php"></script>
-
 </div>
 
 </div>
@@ -159,7 +183,7 @@
 <!-- Right Content -->
 <div id="right_content">
 
-<div class="right_module">
+<div class="module">
 <!-- CONTENT BEGIN -->
 <script type="text/javascript" language="javascript">
 <!--
@@ -185,22 +209,22 @@ document.write('</a>');
 <div id="privacy">
 	<ul style="margin-left: 0px; padding-left: 0px;">
 		<li style="margin-left: 0px; list-style: none;">
-			<a href="/privacy.php#one">What Information Do You Collect?</a> 
+			<a href="/bootstrap.php/privacy.php#info">What Information Do You Collect?</a> 
 		</li>
 		<li style="margin-left: 0px; list-style: none;">
-			<a href="/privacy.php#two">How Do You Protect My Information?</a> 
+			<a href="/bootstrap.php/privacy.php#protect">How Do You Protect My Information?</a> 
 		</li>
 		<li style="margin-left: 0px; list-style: none;">
-			<a href="/privacy.php#three">How Do You Use My Information?</a> 
+			<a href="/bootstrap.php/privacy.php#use">How Do You Use My Information?</a> 
 		</li>
 		<li style="margin-left: 0px; list-style: none;">
-			<a href="/privacy.php#four">How Do You Share My Information?</a> 
+			<a href="/bootstrap.php/privacy.php#share">How Do You Share My Information?</a> 
 		</li>
 		<li style="margin-left: 0px; list-style: none;">
-			<a href="/privacy.php#five">What Choices Do I Have About the Use of My Information? (Opt-Outs)</a> 
+			<a href="/bootstrap.php/privacy.php#opt-out">What Choices Do I Have About the Use of My Information? (Opt-Outs)</a> 
 		</li>
 		<li style="margin-left: 0px; list-style: none;">
-			<a href="/privacy.php#six">Changes to this Policy</a> 
+			<a href="/bootstrap.php/privacy.php#changes">Changes to this Policy</a> 
 		</li>
 	</ul>
 </div>
@@ -318,25 +342,32 @@ WsmWLcdeOozVQYa();
 </div>
 
 <!-- Footer -->
+
+<div class="clear"></div>
+
 <div id="footer">
+
 	<div id="footer_left">
     	<a href="http://www.bbb.org/boston/business-reviews/scholarships-and-financial-aid/edvisors-network-inc-in-quincy-ma-88239/" target="_blank" rel="nofollow">
-            <img src="http://www.scholarshippoints.com/images/bbb-seal.png" alt="BBBOnLine Reliability Seal" border="0">
+            <img src="http://media.scholarshippoints.com/images/bbb-seal.png" alt="BBBOnLine Reliability Seal" border="0">
         </a>
     </div>
     
     <div id="footer_right">
-        <a href="http://www.scholarshippoints.com/" title="Free College Scholarship Points">Scholarship Points</a> is an Edvisors <a href="http://www.edvisors.com/" title="Online Education Degrees">Online Education</a> company. 
+        <a href="http://www.scholarshippoints.com/" title="Free College Scholarships">ScholarshipPoints</a> is an Edvisors Online Education company. 
         <br>
         ©2011  Edvisors. All rights reserved. 1250 Hancock Street, Suite 703N, Quincy, MA 02169  
         <br>
         <a href="http://www.scholarshippoints.com/sitemap.php" title="Site Map">Site Map</a> | 
-        <a href="http://www.scholarshippoints.com/contact.php" title="Contact Scholarship Points">Contact Us</a> | 
+        <a href="http://www.scholarshippoints.com/contact.php" title="Contact Us">Contact Us</a> | 
         <a href="http://www.scholarshippoints.com/affiliates.php">Affiliates</a> | 
-        <a href="http://www.scholarshippoints.com/terms.php" title="Scholarship Terms &amp; Conditions">Terms &amp; Conditions</a> | 
+        <a href="http://www.scholarshippoints.com/terms.php" title="Terms &amp; Conditions">Terms &amp; Conditions</a> | 
         <a href="http://www.scholarshippoints.com/privacy.php" title="Privacy Policy">Privacy Policy</a> | 
         <a href="http://www.studentloannetwork.com/" title="Find the Best Student Loans!">Find Student Loans</a>
 	</div>
+	
+	<div class="clear"></div>
+	
 </div>
 
 <!-- End of Site Wrapper -->
@@ -347,52 +378,8 @@ WsmWLcdeOozVQYa();
 </div>
 
 <!-- Start HTML body close -->
-
-             
-			<!-- Start Google Analytics tracking --> 
-			<script type="text/javascript">
-
-			  var _gaq = _gaq || [];
-			  _gaq.push(['_setAccount', 'UA-84190-15']);
-			  _gaq.push(['_trackPageview']);
-			
-			  (function() {
-			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			  })();
-			
-			</script>
-			<!-- END Goolge Analytics tracking --> 
-			
-        
-            
-			
-			<!-- Start Quantcast tag -->
-			<script type="text/javascript">
-			_qoptions={
-			qacct:"p-42y4FMUjWq6F-"
-			};
-			</script>
-			<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-			<noscript>
-			<img src="http://pixel.quantserve.com/pixel/p-42y4FMUjWq6F-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-			</noscript>
-			<!-- End Quantcast tag -->
-			
-			
-        
-            
-			
-			<!-- Start BlueKai tag -->
-			<iframe name="__bkframe" height="0" width="0" frameborder="0" src="javascript:void(0)"></iframe>
-			<script language="javascript" src="http://www.bkrtx.com/js/bk-static.js"></script>
-			<script language="javascript">bk_addPageCtx("Interest_Scholarships", "Yes");bk_doJSTag(656,4);
-			</script>
-			<!-- End BlueKai tag -->
-			
-			
-        
-
+		
+	
+	
 
 </body></html>
