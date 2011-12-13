@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workoninternet.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628092736id_/http%3A//www.workoninternet.com/business/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workoninternet.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213155541id_/http%3A//www.workoninternet.com/business/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
