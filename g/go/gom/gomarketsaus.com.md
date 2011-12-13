@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomarketsaus.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615042858id_/http%3A//www.gomarketsaus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomarketsaus.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213143557id_/http%3A//www.gomarketsaus.com/privacy-policy) for the most accurate reproduction.*
 
 # GO Markets - Foreign Exchange (forex) Trading - Privacy Policy
 
@@ -6,9 +6,9 @@
 
 **GO Markets** is committed to providing you with the highest levels of client service. We recognise that your privacy is very important to you. The Privacy Amendment (Private Sector) Act, 2000 sets out a number of National Privacy Principles (NPPs). Our aim is to both support and ensure that we comply with these principles. Further information on privacy in Australia may be obtained by visiting the website of the Office of the Federal Privacy Commissioner at http://www.privacy.gov.au.
 
-**Go Markets** believes that this **Privacy Policy** discloses how the personal information you provide to us and our representatives, is collected, used, held, disclosed and disseminated.
+**GO Markets** believes that this **Privacy Policy** discloses how the personal information you provide to us and our representatives, is collected, used, held, disclosed and disseminated.
 
-**Go Markets** is required to meet particular legislative and regulatory requirements which requires us to collect certain personal information from you for the purposes of:
+**GO Markets** is required to meet particular legislative and regulatory requirements which requires us to collect certain personal information from you for the purposes of:
 
   * Providing you with the relevant product or service
   * Managing and administering the product or service
@@ -229,11 +229,11 @@ Privacy Policy - Version 10th November 2009
 
 Contact: _ _ Privacy Office
 
-Address: Level 16, 114 William St, Melbourne Vic 3000
+Address: Level 13, 160 Queen Street, Melbourne, VIC, 3000
 
 Telephone: 03 9670 3055
 
 Facsimile: 03 9602 1440  _  
 _
 
-E-mail:[info@gomarketsaus.com](mailto:info@gomarketsaus.com)
+E-mail:customerservice@gomarketsaus.com
