@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thereadystore.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501011854id_/http%3A//www.thereadystore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereadystore.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213221425id_/http%3A//www.thereadystore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **If you have questions or concerns** regarding this statement, you should first contact Jonathan Dick at: 
 
 The Ready Store  
-14557 S 790 W   
-Bluffdale, UT 84065  
+14015 S Minuteman Dr.  
+Draper, UT 84020  
 1-800-773-5331  
 Monday - Friday 8:00am - 5:00pm MST  
 [privacy@thereadystore.com](mailto:privacy@thereadystore.com)
@@ -20,8 +20,8 @@ We DO NOT Share or Disclose Personally Identifiable Information with Third Parti
 Testimonials are posted on our site. We obtain permission from the individual or company prior to posting their testimonial. If you would like a testimonial removed at any time please contact us at:
 
 The Ready Store  
-14557 S 790 W   
-Bluffdale, UT 84065  
+14015 S Minuteman Dr.  
+Draper, UT 84020  
 1-800-773-5331  
 Monday - Friday 8:00am - 5:00pm MST 
 
@@ -45,8 +45,8 @@ Access to Personally Identifiable Information
 If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, delete or deactivate it] by emailing our Customer Support at [sales@thereadystore.com](mailto:sales@thereadystore.com) or by contacting us by telephone or postal mail at the contact information listed below.
 
 ATTN: Support Department The Ready Store  
-14557 S 790 W   
-Bluffdale, UT 84065  
+14015 S Minuteman Dr.  
+Draper, UT 84020  
 1-800-773-5331  
 Monday - Friday 8:00am - 5:00pm MST 
 
