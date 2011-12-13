@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoresense.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303135101id_/http%3A//www.scoresense.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoresense.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213050241id_/http%3A//www.scoresense.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ScoreSense Privacy Policy
 
@@ -62,7 +62,7 @@ We may find it necessary or be legally obligated to update this Privacy Policy f
 
 **Miscellaneous/Contact Information**
 
-You must be at least 16 years old to use this site. We do not knowingly collect, use or disclose Personally Identifiable Information about visitors who are under 16 years of age.
+You must be at least 18 years old to use this site. We do not knowingly collect, use or disclose Personally Identifiable Information about visitors who are under 18 years of age.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
@@ -70,6 +70,13 @@ ScoreSense
 Attn: Customer Care  
 4447 North Central Expressway, Suite 110, PMB 406  
 Dallas, TX 75205 
+
+The ScoreSense team is available to answer your questions via phone seven days a week.  
+Live representatives are available at 800-972-7204 during the following hours:
+
+Monday through Friday, 8AM to 8PM CST  
+Saturday, 8AM to 5PM CST  
+Sunday, 12PM to 6PM CST 
 
 **Other Internet Privacy Resources**
 
