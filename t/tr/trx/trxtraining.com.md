@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trxtraining.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623040951id_/http%3A//www.trxtraining.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trxtraining.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213084012id_/http%3A//www.trxtraining.com/company/privacy.php) for the most accurate reproduction.*
 
 # TRX Training Privacy policy disclose the privacy practices at our websites including www.trxtraining.com
 
