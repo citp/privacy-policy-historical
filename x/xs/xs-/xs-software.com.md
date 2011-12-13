@@ -1,28 +1,23 @@
-> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624034017id_/http%3A//xs-software.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xs-software.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213233251id_/http%3A//www.xs-software.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XS Software
 
-Our products
+Partnership
 
-    Massive multiplayer games united in a single portal
-    Original game play and fascinating design
-    Different genres for every type of player
-    35+ languages
-    15 million registered players
-    1,500,000 active players
-    Easy localizable games. Code/Design/Text completely separate
+Our team
+
+    100+ employees
+    International team
+    Young and creative professionals
+    Located in Sofia Bulgaria
 
 Featured game
 
-[ ](http://www.xs-software.com/viewproduct.php?id=1&go=browser)
+[ ](http://www.xs-software.com/viewproduct.php?id=4&go=browser)
 
-If you always wanted to be a powerful ruler of huge kingdom, Khan Wars will give you the opportunity to fulfill your dream!
+Managore is a dark realm with thousands of inhabitants. Use your strategy skills to develop your castle, train a powerful army and defeat the opponents you see on the map.
 
-It is a strategy medieval online game, which will show an old world with knights, alliances and merciless wars!
-
-Choose your nation, develop a mighty kingdom, find the best strategy and conquer the medieval world!
-
-...
+Gather resource and build your kingdom with 19 different kinds of buildings and 18 upgradable units. Players have ...
 
 ## Privacy And Policy
 
