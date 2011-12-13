@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cu.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527184203id_/https%3A//www.cu.edu/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cu.edu privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213035957id_/https%3A//www.cu.edu/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University of Colorado
 
@@ -27,4 +27,4 @@ Information other than personally identifiable information may be collected from
 
 **Comments and Feedback**
 
-Please send comments, questions, or concerns to Jennifer Watson ([Jennifer.Watson@cu.edu](mailto:Jennifer.Watson@cu.edu), 303-860-5713).  When sending comments, please include a current mailing address.  Please do not send attachments with the message.
+Please send comments, questions, or concerns to the Office of Information Security ([security@cu.edu](mailto:security@cu.edu), 303-860-5734).  When sending comments, please include a current mailing address.  Please do not send attachments with the message.
