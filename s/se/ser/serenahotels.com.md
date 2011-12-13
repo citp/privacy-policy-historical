@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serenahotels.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625124847id_/http%3A//www.serenahotels.com/privacy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serenahotels.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213233016id_/http%3A//www.serenahotels.com/privacy-en.html) for the most accurate reproduction.*
 
 # 
 
