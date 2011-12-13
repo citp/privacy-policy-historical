@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggestbestbonus.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424112605id_/http%3A//www.fireballplanet.com/legal/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggestbestbonus.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213013730id_/http%3A//www.fireballplanet.com/legal/Privacy_Policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Fireball Planet Corporation and Ian del Carmen:
 
