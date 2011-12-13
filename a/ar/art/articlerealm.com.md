@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the articlerealm.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151627id_/http%3A//articlerealm.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerealm.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213010950id_/http%3A//www.articlerealm.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy Article Realm - Free Article Directory - Free Articles
 
-|  [How would you like to have thousands of one-way back links to your website or blog for just $7.00? Click here to find out!](http://www.netcashpublishing.com/cgi-bin/rinfo.pl?info=609)
+| 
 
 Articlerealm.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
