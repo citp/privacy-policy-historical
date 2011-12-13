@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501183024id_/https%3A//register.scmp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213074727id_/https%3A//register.scmp.com/privacy.php) for the most accurate reproduction.*
 
 # SCMP.com - the online edition of South China Morning Post, Hong Kong's premier English-language newspaper
 
