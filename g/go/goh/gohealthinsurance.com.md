@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohealthinsurance.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612170835id_/http%3A//www.gohealthinsurance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohealthinsurance.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213114811id_/http%3A//www.gohealthinsurance.com/privacy.html) for the most accurate reproduction.*
 
 # Go Health Insurance Privacy Policy
 
@@ -8,7 +8,7 @@ GoHealthInsurance.com believes it is important for you to know and understand ho
 
 Please note that this privacy policy only applies to this website. Other websites in the GoHealthInsurance.com network may have different privacy policies. 
 
-By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20110612170835id_/http%3A//www.gohealthinsurance.com/terms.html). 
+By accessing this website and/or using our Service, you agree to abide by this Privacy Policy and our [Terms of Use](https://web.archive.org/web/20111213114811id_/http%3A//www.gohealthinsurance.com/terms.html).
 
 ### Services Offered By GoHealthInsurance.com
 
@@ -20,8 +20,7 @@ GoHealthInsurance.com is not an insurance agency. We are solely a referral servi
 
 GoHealthInsurance.com uses this website to collect two (2) kinds of information: **personally-identifiable information** and **non-personally-identifiable information**.
 
-**Personally-identifiable information:**
-
+**Personally-identifiable information:**  
 When you use our Service you are authorizing the sharing of your inquiry and your personal information with other businesses who provide services that match your inquiry. The personal information we collect may include, but is not limited to:
 
   * Name
@@ -53,8 +52,6 @@ While you are visiting this website, our hosting service will automatically trac
 
 ### How Information Is Collected
 
-**Personally-identifiable information** :
-
 **Personally-identifiable information:**  
 We only collect your personally-identifiable information when you choose to share it with us. We will not collect any personally-identifiable information without your consent. 
 
@@ -68,22 +65,20 @@ We provide you the opportunity to ‘opt-out’ of having your personally identi
 
 If you no longer wish to receive our newsletter and promotional communications from GoHealthInsurance.com or our affiliated marketing partners, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [customerservice@gohealthinsurance.com](mailto:customerservice@gohealthinsurance.com) or calling us at 1-888-250-3409 or writing to the address below:
 
-> GoHealthInsurance.com   
->  214 W. Huron Street  
->  Chicago, IL 60654
+GoHealthInsurance.com
+
+214 W. Huron Street  
+Chicago, IL 60654  
+
 
 Any personally identifiable information you submit in our blog comments or forum can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in blog comments or forums.
 
-**Non-personally-identifiable information** :
-
+**Non-personally-identifiable information** :  
 While you are visiting this website the following information will be automatically tracked: IP addresses, referral information, browser details, operating system information, information about your Internet Service Provider, geographic location, and other non-personally-identifiable information. We may use cookies, web beacons/pixels, tracking scripts, and other monitoring technologies to gather non-personally-identifiable information. 
 
 ### How Information Is Used
 
-**Personally-identifiable information** :
-
-**Consumers** :
-
+**Consumers** :  
 If you choose to give us personally-identifiable information, we may share this information with our network of insurance professionals to help answer your questions, fulfill your request, or for any purpose in our sole discretion. We may also share your personally-identifiable information with selected third parties to offer you products or services that may interest you. The professionals we match you with may contact you by phone, email, or mail to fulfill your inquiry and provide you with other offers you may be interested in. The personally-identifiable information we share with selected third parties includes name, e-mail address, phone number, and/or postal address. **** If you do not want us to share this information with other companies or organizations, please let us know by following one of the methods for opting-out of our communications.
 
 The professionals in our network may include, but are not limited to, insurance agents, discount program representatives, and other financial services brokers. 
@@ -104,15 +99,13 @@ Finally, your agreement with our privacy policy also allows that we may share yo
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website.
 
-**Prospective business partners and affiliates** :
-
+**Prospective business partners and affiliates** :  
 The information you submit to GoHealthInsurance.com's affiliate and/or referral program may be used to qualify you for participation in affiliate and/or referral programs. 
 
-**Non-personally-identifiable information** :
-
+**Non-personally-identifiable information** :  
 Our website development team uses non-personally-identifiable metrics to improve the content, layout, navigation, and overall site experience for all visitors. We may analyze traffic patterns and statistics to improve this site, provide additional services, and better serve our visitors.
 
-### Cookies 
+### Cookies
 
 A cookie is a small text file stored on a user’s computer for record-keeping purposes. We use cookies on this site, but do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
@@ -144,9 +137,11 @@ Companies that collect personally-identifiable information from California resid
 
 GoHealthInsurance.com has elected the second option, and you may request that your personally-identifiable information not be shared with third parties by sending your request, including your full name, email address and postal address to:
 
-> GoHealthInsurance.com   
->  214 W. Huron Street   
->  Chicago, IL 60654
+GoHealthInsurance.com
+
+214 W. Huron Street  
+Chicago, IL 60654  
+
 
 In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
 
@@ -162,7 +157,7 @@ Occasionally GoHealthInsurance.com will partner with a third party email server 
 
 Unsubscribing from communications from GoHealthInsurance.com does not guarantee that you will no longer receive communications from our third party partners; you must contact that third party directly. 
 
-Be advised that we cannot control the policies of our third party partners, nor can we guarantee or represent their compliance with the CAN-SPAM Act or any other state or Federal law. 
+Be advised that we cannot control the policies of our third party partners, nor can we guarantee or represent their compliance with the CAN-SPAM Act or any other state or Federal law.
 
 ### Links to Other Websites
 
@@ -170,7 +165,7 @@ This website may feature links to other websites owned and operated by third par
 
 ### Information from Minors
 
-GoHealthInsurance.com does not knowingly solicit or collect information from anyone under the age of 13. 
+GoHealthInsurance.com does not knowingly solicit or collect information from anyone under the age of 13.
 
 ### TRUSTe Licensee Agreement
 
@@ -184,11 +179,12 @@ The effective date of the TRUSTe license for GoHealthInsurance.com is 08/25/2008
 
 If you have any questions about Go Health Insurance, this website, our service, or this Privacy Policy, you may contact us at:
 
-> GoHealthInsurance.com  
->  214 W. Huron Street   
->  Chicago, IL 60654
-> 
-> 1-888-250-3409
+GoHealthInsurance.com
+
+214 W. Huron Street  
+Chicago, IL 60654  
+1-888-250-3409  
+
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Customer Support at [customerservice@gohealthinsurance.com](mailto:customerservice@gohealthinsurance.com) or by contacting us by telephone or postal mail at the contact information listed above.
 
