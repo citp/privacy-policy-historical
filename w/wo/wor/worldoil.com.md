@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528012805id_/http%3A//www.worldoil.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213140813id_/http%3A//208.88.130.69/privacy.aspx) for the most accurate reproduction.*
 
 # World Oil - Oil and Gas News Technology | Exploration Drilling Production Statistics Careers Events
 
