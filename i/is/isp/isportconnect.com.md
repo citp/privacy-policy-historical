@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isportconnect.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611163128id_/http%3A//isportconnect.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D4%26Itemid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isportconnect.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213143828id_/http%3A//www.isportconnect.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D4%26Itemid%3D6) for the most accurate reproduction.*
 
 # Privacy Policy
 
