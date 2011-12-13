@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526011259id_/http%3A//www.nec.com/global/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nec.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213084748id_/http%3A//www.nec.com/global/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | NEC
 
