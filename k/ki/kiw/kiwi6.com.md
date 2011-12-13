@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwi6.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611185932id_/http%3A//kiwi6.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwi6.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213155534id_/http%3A//kiwi6.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kiwi6.com Mp3 Upload
 
