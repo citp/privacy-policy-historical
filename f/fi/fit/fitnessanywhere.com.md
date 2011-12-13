@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215023019id_/http%3A//www.fitnessanywhere.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213084012id_/http%3A//www.trxtraining.com/company/privacy.php) for the most accurate reproduction.*
 
-# Fitness anywhere Privacy policy disclose the privacy practices at our websites including www.fitnessanywhere.com
+# TRX Training Privacy policy disclose the privacy practices at our websites including www.trxtraining.com
 
-This privacy notice discloses the privacy practices for [www.fitnessanywhere.com](http://www.fitnessanywhere.com/).
+This privacy notice discloses the privacy practices for [www.trxtraining.com]().
 
 This privacy notice applies solely to information collected by this web site.
 
