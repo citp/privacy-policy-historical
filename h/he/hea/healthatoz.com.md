@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthatoz.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330083549id_/http%3A//www.myoptumhealth.com/portal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthatoz.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213113211id_/http%3A//www.myoptumhealth.com/portal/Privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - myOptumHealth
 
