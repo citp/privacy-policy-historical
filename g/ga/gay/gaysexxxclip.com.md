@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaysexxxclip.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613204912id_/http%3A//www.gaysexxxclip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaysexxxclip.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213040442id_/http%3A//www.gaysexxxclip.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy at Gay SeXXX Clip
+# Privacy at Gay Sex Tube
 
 AE Media Group recognizes that its customers, visitors, users, and others who use Gay Sexxx Clip value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Gay Sexxx Clip site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. 
 
