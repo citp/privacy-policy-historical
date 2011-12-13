@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the jinni.com privacy policy that was archived on 2010-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100210205133id_/http%3A//www.jinni.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jinni.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213234307id_/http%3A//www.jinni.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   		<title>Find movies, TV shows matching your taste and watch online
   		</title>
   			<meta name="description" content="Search for movies and TV shows in a whole new way with the Movie Genome, get personal recommendations, watch wherever you choose.">
-  			<link rel="image_src" href="http://media.jinni.com/images/share/fb-collage.gif">
+			<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+			<link rel="image_src" href="http://media.jinni.com/images/share/fb-collage.gif">
 		
-			
-
 	  		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<link rel="stylesheet" type="text/css" href="/css/community.css">
 			<link rel="stylesheet" type="text/css" href="/css/feeds.css">
 			<link rel="stylesheet" type="text/css" href="/css/share.css">
+			<link rel="stylesheet" type="text/css" href="/css/discoverSearchResultfor.css">
 			<link rel="shortcut icon" href="http://media.jinni.com/favicon.ico">
 			<script type="text/javascript" src="/js/invite.js"></script>
 			<script type="text/javascript" src="/js/Tween.js"></script>
@@ -59,8 +59,25 @@
 		
 		
 	</head>
-	<body onunload="doMainUnload();" onload="filterSearchResults('pageLoading');topHightlight();statusSpace();">
-	 
+	<body onunload="doMainUnload();" onload="topHightlight();statusSpace();">
+	
+		<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+		<script>
+		  window.fbAsyncInit = function() {
+		    FB.init({
+		      appId  : '110415305674241',
+		      status : true, // check login status
+		      cookie : true, // enable cookies to allow the server to access the session
+		      xfbml  : true  // parse XFBML
+		    });
+		  };
+		  (function() {
+		    var e = document.createElement('script');
+		    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		    e.async = true;
+		    document.getElementById('fb-root').appendChild(e);
+		  }());
+		</script>		 
 	 
 	 
 	
@@ -74,8 +91,8 @@
 			
 			<div id="header">
     
-	    <a href="#" onclick="goHome();" class="headerLogo">	
-			<img src="http://media.jinni.com/partners/jinni/logo_publicbeta.png" style="margin: 7px 3px 0px;" alt="Jinni" title="Jinni">
+	    <a href="/" onclick="goHome();" class="headerLogo">	
+			<img src="http://media.jinni.com/images/logo_publicbeta.gif" style="margin: 7px 3px 0px;" alt="Jinni- Find Movies and TV Shows" title="Jinni- Find Movies and TV Shows">
 		</a><div id="j_id11" class="loginBox anonymousUser">
 			<div class="loginLinks">
 				<span>New to Jinni?</span>
@@ -85,23 +102,21 @@
 			</div>
 			
 			<div class="invitationBox">
-
-				<img src="http://media.jinni.com/images/icons/invite1.png" onclick="invite.openInvitation();">
+				<img src="http://media.jinni.com/images/icons/invite1.png" onclick="invite.openInvitation();" alt="invite friends to jinni">
 			</div></div><div id="topmenu" class="h_menu">
 			<ul>
-				<li class=""><a href="http://www.jinni.com/" id="topfirstLnk">Search</a></li>
+				<li class=""><a href="/" id="topfirstLnk">Search</a></li>
 				<li>|</li>
-				<li class=""><a href="http://www.jinni.com/user//recommendations/" id="toprecLnk" onclick="return generalFunctions.goToPrivatePage(this.href); ">Recommendations</a></li>
+				<li class=""><a href="/user//recommendations/" id="toprecLnk" onclick="return generalFunctions.goToPrivatePage(this.href); ">Recommendations</a></li>
 				<li>|</li>
-				
-				<li class=""><a href="http://www.jinni.com/community/pulse.html" id="topfirstLnk">Community</a></li>
+				<li class=""><a href="/community/pulse.html" id="topfirstLnk">Community</a></li>
 					<li>|</li>
-					<li class=""><a href="http://www.jinni.com/movie-personality.html">Movie Personality</a></li>
+					<li class=""><a href="/movie-personality.html">Movie Personality</a></li>
 			</ul></div><div id="headerInvitaionLinkContainer"><div id="usersInvitation">
 				<div id="userIvitaionText">
-	       	<a href="http://www.jinni.com/user//netflix-integration/" class="linkHeader" onclick="return generalFunctions.goToPrivatePage(this.href); ">Connect Jinni to your Netflix account</a>
+	       	<a href="/user//netflix-integration/" class="linkHeader" onclick="return generalFunctions.goToPrivatePage(this.href); ">Connect Jinni to your Netflix account</a>
 				</div>
-				<img onclick="generalFunctions.hideNetflixFromHomePage();" class="closingX" src="http://media.jinni.com/images/x.jpg"></div></div>
+				<img onclick="generalFunctions.hideNetflixFromHomePage();" class="closingX" src="http://media.jinni.com/images/x.jpg" alt="jinni"></div></div>
 		<div id="theInvitaion">
 Hi,
 I've been using Jinni - it's a great site for finding new movies and shows. Check it out, I think you'll like it too.
@@ -114,60 +129,64 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 			<button id="invResultsBtn" onclick="this.parentNode.style.display='none';">Close</button>
 		</div>
 			</div>
-
 			
 			
 			<div id="content">
-			<div class="staticIcons">
+			<div class="staticIcons" id="staticIcons">
 				
-				<a href="http://www.twitter.com/jinnidotcom" target="_blank"></a>
-				<a href="http://www.facebook.com/jinnidotcom" target="_blank"></a>
-				
-				<img src="http://media.jinni.com/images/feedback.jpg" class="feedbackImage" onclick="x=window.open('http://www.getsatisfaction.com/jinni','newWindow1','toolbar=yes, location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes')">
-
+				<a href="#" onclick="window.open('http://www.twitter.com/jinnidotcom','newWindow1','toolbar=yes, location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes,width=800,height=600')">
+				</a>
+				<a href="#" onclick="window.open('http://www.facebook.com/jinnidotcom','newWindow2','toolbar=yes, location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes,width=800,height=600')">
+				</a>
+					<img src="http://media.jinni.com/images/feedback.jpg" class="feedbackImage" onclick="window.open('http://www.getsatisfaction.com/jinni','newWindow3','toolbar=yes, location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,copyhistory=yes,resizable=yes,width=800,height=600')" alt="jinni">
 			</div>
 				<div id="left" style="float: left; width: 600px; height: 90px;">
 	
-	<form action="Search" id="searchForm" target="searchResponseFrame" method="post" onsubmit="return false;" class="narrow">
-
+	<form action="http://www.jinni.com/discovery.html" id="searchForm" name="searchForm" method="post" class="narrow">
 				
-				<div id="type" class="search_type_menu ">
-					<ul class="contentSearchBox">
-						<li onclick="filterSearchResults(this);" id="all" class="typeHighlight menuLink">All</li>
-						<li>|</li>
-						<li onclick="filterSearchResults(this);" id="movieFilter" class="menuLink">Movies</li>
-						<li>|</li>
-						<li onclick="filterSearchResults(this);" id="tvFilter" class="menuLink">TV</li>
-						<li>|</li>
-						<li onclick="filterSearchResults(this);" id="shortsFilter" class="menuLink">Shorts</li>
-						<li>|</li>
-						<li onclick="filterSearchResults(this);" id="onlineFilter" class="menuLink">Free Online</li>
-						
-					</ul>
-						
-				</div>
+		<div id="type" class="search_type_menu ">
+			<input type="hidden" id="contentTypeField" name="content" value="All">
+			<ul class="contentSearchBox">
+				<li onclick="filterSearchResults(this);" id="All_Filter" class="typeHighlight menuLink">All</li>
+				<li>|</li>
+				<li onclick="filterSearchResults(this);" id="Movies_Filter" class="menuLink">Movies</li>
+				<li>|</li>
+				<li onclick="filterSearchResults(this);" id="TV_Filter" class="menuLink">TV</li>
+				<li>|</li>
+				<li onclick="filterSearchResults(this);" id="Shorts_Filter" class="menuLink">Shorts</li>
+				<li>|</li>
+				<li onclick="filterSearchResults(this);" id="FreeOnline_Filter" class="menuLink">Free Online</li>
+			</ul>
+	
+	<script type="text/javascript">
+		currentFilterType = "All_Filter";
+		suggestFilter.contentTypeFilter = "";
+		suggestFilter.onlineContentFilter = false;
+	</script>				
+		</div>
 		
-
-
-
 		<div id="searchBoxPrefix" class="Prefix"><label>Find</label></div>
 		<div id="searchboxContainer" class="SearchBoxContainer">
+			<input type="hidden" id="search" name="search">
+			<input type="hidden" id="auditTextSearch" name="auditTextSearch">
+			<input type="hidden" id="auditSuggestions" name="auditSuggestions">
+			<input type="hidden" id="auditSelected" name="auditSelected">
+			<input type="hidden" id="filterWatched" name="filterWatched">			
+			<input type="text" id="searchInput" autocomplete="off" value="Enter plots, moods, titles, people and more" onfocus="searchFuncs.onfocus( event )" onblur="searchFuncs.onblur(event)" onkeyup="searchFuncs.onkeyup(event)" onkeydown="searchFuncs.onkeypress(event)" style="color: #666666;" class="">
+				
+				<div id="loadingResults_searchBox" style="display: none;">
+					<span id="bg_animation_search"></span>
+				</div>
 			
-			<input type="text" id="searchInput" onfocus="searchFuncs.onfocus( event )" onblur="searchFuncs.onblur(event)" onkeypress="searchFuncs.onkeypress(event)" onkeyup="searchFuncs.onkeyup(event)" onkeydown="searchFuncs.onkeydown(event)" class="">
-			<div id="searchTypeDropdown" onclick="searchFuncs.openSearchTypeDrop(event);">content</div>
-			<div id="searchTypeDropdownOver">
-				<a onclick="searchFuncs.setSearchType(event, 1)">content</a>
-				<a onclick="searchFuncs.setSearchType(event, 2)">titles</a>
-			</div>
-			<div id="go" onclick="doSearch();" onmouseover="this.style.color='#6d763d'" onmouseout="this.style.color='#ffffff'">Go</div>
-			<input type="hidden" name="searchCriteria" id="searchCriteria">
-			<input type="hidden" name="buttonType" id="buttonType" value="search">
-			<input type="hidden" name="globalFilter" id="globalFilter">
-			<input type="hidden" name="searchFilter" id="searchFilter">
-			<input type="hidden" name="tasteFilter" id="tasteFilter">
+			<div id="go" onclick="doSearch(searchLoadingAnimation);" onmouseover="this.style.color='#6d763d'" onmouseout="this.style.color='#ffffff'">Go</div>
+			
 		</div>
-		<div id="suggestionsPanel" onkeydown="mainSearchBox.keyNavigate(event);" style="position:absolute; display: none;"></div>	
-		<div id="resultsSummaryBar"></div>
+		<div id="suggestionsPanel" onkeydown="mainSearchBox.keyNavigate(event);" style="position:absolute; display: none;"></div>
+		
+			
+		<div id="resultsSummaryBar" style="visibility: hidden">
+		</div>
+		
 	</form>
 		
 				</div>
@@ -183,7 +202,7 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 
 		<h2 class="community">Consent</h2>
 		<p>By using the Website and Service (as these terms are defined in
-		the <a href="http://www.jinni.com/terms.html">Terms of Use</a>) you agree to this Privacy Policy. If you do not
+		the <a href="terms.html">Terms of Use</a>) you agree to this Privacy Policy. If you do not
 		agree with our practices please do not enter or use our Website and
 		the Service.</p>
 
@@ -326,58 +345,60 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 
 	</div>
 				<div class="invisible inlineInvitation" id="inlineInvitationDiv"><div id="anonymousInviteStep" class="inviteFrame anonymous invisible">
-		<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('anonymousInviteStep')">
+		<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('anonymousInviteStep')" alt="jinni">
 		<div class="header"><span class="headerTitle">Tell Friends about Jinni</span></div>
 		<div class="inviteContent">
 			<div class="contentTitle">
 				<div>
-					<span class="title1">Jinni is more fun with friends!</span>
-
+					<span class="title1">Jinni is more fun with friends!</span><br>
+					<span class="errorMessage" id="anonymous_loginErrorMessage"></span>
 				</div>
 			</div>
-			<div class="inputArea">
+			
+	 			<form id="anonymous" name="anonymous" class="inputArea">
+	 			
 				<div class="userInput">
-					<label>To:</label>
-					<input class="text" id="anonymousTo" onblur="invite.validate(this);" onfocus="invite.anonymousFocus();">
+					<label>To:</label> <input type="text" name="anonymousTo" class="text" id="anonymousTo" onfocus="invite.anonymousFocus()">
+				</div><br>
+				
+				<div class="userInput">
+					<label>Your email:</label> <input type="text" name="anonymousEmail" class="text" id="anonymousEmail">
+				</div><br>
+				
+				<div class="userInput">
+					<label>Your name:</label>  <input type="text" name="anonymousName" class="text" id="anonymousName">
+				</div><br>
+				
+				<div class="userInput">
+					<label>Message:</label> <textarea class="message" id="anonymousMessage">Hi,
+I've been using Jinni - it's a great site for finding new movies and shows. Check it out, I think you'll like it too.</textarea><br>
 				</div>
-				<div class="userInput">
-					<label>Your email:</label>
-					<input class="text" id="anonymousEmail" onblur="invite.validate(this);">
-				</div>
-				<div class="userInput">
-					<label>Your name:</label>
-					<input class="text" id="anonymousName" onblur="invite.validate(this);">
-				</div>
-				<div class="userInput">
-					<label>Message:</label>
-					<textarea class="message" id="anonymousMessage" onblur="invite.validate(this);">Hi,
+			</form>
+			
 
-I've been using Jinni - it's a great site for finding new movies and shows. Check it out, I think you'll like it too.</textarea>
-				</div>
-			</div>
 		
 		</div>
 		<div class="footer">
-			<input id="anonymousInvitationButton" type="button" class="disabledCommandButton " value="Invite them in!" onclick="invite.sendAnonymous();">
-
+			<input id="anonymousInvitationButton" class="commandButton" type="submit" value="Invite them in!" onclick="invite.sendAnonymous();">
 			<div class="invitationLoading" id="anonymousInvitationLoading"></div>
 			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
-			<a class="share twitter-large" href="#" onclick="shareModule.twitter('invite'); return false;"></a>
+			<a class="share twitter1" style="margin-right: 6px;" href="#" onclick="shareModule.twitter('invite'); return false;"></a>
 			<label>share:</label>
 		</div></div><div id="socialNetsStep" class="inviteFrame octazenBox invisible">
-		<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('socialNetsStep')">
+		<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('socialNetsStep')" alt="jinni">
 		<div class="header"><span class="headerTitle">Share Jinni with your friends !</span></div>
 		<div class="inviteContent">
 			<div class="contentTitle">
 				<div>
-					Jinni is more fun with friends!
+					Jinni is more fun with friends!<br>
+					<span class="errorMessage" id="loggedIn_loginErrorMessage"></span>
 				</div>
 			
 			</div>
 			<div class="inputArea">
 				<div class="userInput">
 					<label>To:</label>
-					<input class="emails" id="loggedInTo" onblur="invite.loggedInBlur();" value="Enter emails separated by commas" onfocus="invite.loggedInFocus();">
+					<input class="emails" id="loggedInTo" value="Enter emails separated by commas" onfocus="invite.loggedInFocus();">
 				</div>
 
 				<div class="userInput">
@@ -405,11 +426,11 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 			<div class="invitationLoading invisible" id="socialDataLoading"></div>
 			
 			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
-			<a class="share twitter-large" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
+			<a class="share twitter1" style="margin-right: 6px;" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
 			<label>share:</label>
 		</div></div><div id="contactsStep" class="inviteFrame contacts">
   
-  	<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('contactsStep')">
+  	<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('contactsStep')" alt="jinni">
 		<div class="header">Tell Friends about Jinni</div>
 		<div class="inviteContent">
 			<div class="contentTitle">
@@ -428,12 +449,12 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 		
 		</div>
 		<div class="footer">
-			<input type="button" class="commandButton" value="Add Contacts" onclick="invite.goToStep(invite.SEND_INVITATION_STEP)">
+			<input type="button" class="commandButton" value="Add Contacts" onclick="invite.goToStep(invite.SEND_INVITATION_STEP); document.getElementById('contactsStep').style.display = 'none'">
 			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
-			<a class="share twitter-large" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
+			<a class="share twitter1" style="margin-right: 6px;" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
 			<label>share:</label>
 		</div></div><div id="invitationMessageStep" class="inviteFrame inviteBox invisible">
-  	<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('invitationMessageStep')">
+  	<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="invite.closeInvitation('invitationMessageStep')" alt="jinni">
 		<div class="header">Share Jinni with your friends !</div>
 		<div class="inviteContent">
 			<div class="contentTitle">
@@ -454,8 +475,8 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 		<div class="footer">
 			<input type="button" id="sendInvitationButton" class="commandButton" value="Invite them in!" onclick="invite.sendLoggedInInvitation();">
 			<div class="invitationLoading invisible" id="invitationLoading"></div>
-			<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
-			<a class="share twitter-large" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
+				<a class="share facebook-large" href="#" onclick="shareModule.facebook('invite'); return false;"></a>
+				<a class="share twitter1" style="margin-right: 6px;" href="#" onclick="shareModule.twitter('invite'); return false;"></a> 
 			<label>share:</label>
 		</div></div><div id="thanksBox" class="thanksFrame invisible">
   		Success! Invites sent.</div>
@@ -470,16 +491,16 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 				</div>
 			</div><div id="mainFooter">
 			<div id="footerLeft" class="headerColumns">
-			<h1 class="footerHeader">You</h1>
+			<h3 class="footerHeader">You</h3>
 			<div>
 			<div id="firstLeft" class="footerColumns">
 			<ul>
 				<li><a href="#">
-	       	</a><a href="http://www.jinni.com/user//profile" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Account</a></li>
+	       	</a><a href="/user//profile" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Account</a></li>
 				<li class="">
-	       	<a href="http://www.jinni.com/user//recommendations" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Recommendations</a></li>
+	       	<a href="/user//recommendations" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Recommendations</a></li>
 				<li><a href="#">
-	       	</a><a href="http://www.jinni.com/user//contributions" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Contributions</a></li>
+	       	</a><a href="/user//pulse" class="" onclick="return generalFunctions.goToPrivatePage(this.href); ">Pulse</a></li>
 				<li><a href="/community/pulse.html">Community</a></li>
 			</ul>
 			</div>
@@ -502,25 +523,23 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 			</div>
 			</div>
 			<div id="footerMiddle" class="headerColumns">
-			<h1 class="footerHeader">Us</h1>
+			<h3 class="footerHeader">Us</h3>
 			<div>
 			<div id="firstLeft" class="footerColumns">
 			<ul style="list-style-type: none;">
-				<li><a href="http://www.jinni.com/about.html">About Us</a></li>
+				<li><a href="/about.html">About Us</a></li>
 				<li><a href="http://blog.jinni.com" target="_blank">Our Blog</a></li>
-				<li><a href="http://www.jinni.com/press.html">Buzz</a></li>
-				<li><a href="http://www.jinni.com/movie-genome.html">The
-				Movie Genome</a></li>
-				<li><a href="http://www.jinni.com/solutions.html">Solutions</a></li>
+				<li><a href="/press.html">Buzz</a></li>
+				<li><a href="/movie-genome.html">The Movie Genome</a></li>
+				<li><a href="/careers.html">Careers</a></li>
 			</ul>
 			</div>
 			<div class="footerColumns">
 			<ul>
-				<li><a href="http://www.jinni.com/careers.html">Careers</a></li>
-				<li><a href="http://www.jinni.com/terms.html">Terms of Use</a></li>
-				<li><a href="http://www.jinni.com/privacy.html">Privacy
-				Policy</a></li>
-				<li><a href="#"></a></li>
+				<li><a href="/terms.html">Terms of Use</a></li>
+				<li><a href="/privacy.html">Privacy Policy</a></li>
+				<li><a href="/solutions.html">Solutions</a></li>
+				<li><a href="/partnerships.html">Partners</a></li>
 			</ul>
 			</div>
 			<div class="footerColumns">
@@ -534,15 +553,15 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 			</div>
 			</div>
 			<div id="footerRight" class="headerColumns">
-			<h1 class="footerHeader">Help</h1>
+			<h3 class="footerHeader">Help</h3>
 			<div>
 			<div id="firstLeft" class="footerColumns">
 			<ul>
-				<li><a href="http://www.jinni.com/faqs.html">FAQs</a></li>
+				<li><a href="/faqs.html">FAQs</a></li>
 				<li><a href="#"></a></li>
-				<li><a href="http://www.jinni.com/contact.html">Contact Us</a></li>
+				<li><a href="/contact.html">Contact Us</a></li>
 				<li><a href="#"></a></li>
-				<li><a href="http://www.jinni.com/sitemap.html">Site Map</a></li>
+				<li><a href="/sitemap.html">Site Map</a></li>
 			</ul>
 			</div>
 			<div class="footerColumns">
@@ -564,21 +583,11 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 			</div>
 			</div>
 			<div class="footerText">
-				<p class="footerText">Jinni is best for now in Firefox, Internet Explorer 7 and Chrome</p>
+				<p class="footerText">Jinni is best for now in Firefox, Internet Explorer 7 and 8, and Chrome</p>
 			</div>
-			<div id="homeCopyright">Copyright 2009 Jinni Inc.</div></div>
+			<div id="homeCopyright">Copyright 2010 Jinni Inc.</div></div>
 		
 		</div>
-		
-		
-			<form name="showSimilarForm" id="showSimilarForm" method="post" action="/Search" target="searchResponseFrame">
-				<input id="discoveryCode" name="discoveryCode" type="hidden">
-				<input id="doDiscovery" name="doDiscovery" value="true" type="hidden">
-			</form>
-
-
-		
-
 
 
 	
@@ -609,16 +618,16 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 		 </div>
 		
 		<div id="serverFeedback" class="serverFeedback">
-			<img src="http://media.jinni.com/images/tooltip_18.gif">
+			<img src="http://media.jinni.com/images/tooltip_18.gif" alt="jinni">
 			<span id="serverFeedbackMessage" class="message">message message message</span>
 		</div>
 		 
 		 <div class="userNavigationMenu" id="userNavigationMenu"> 
 		 <span class="sicons_sprite gua1"></span>
 		 <ul class="userNavigationMenu">
+	 
 			 <li><a href="http://www.jinni.com/user//recommendations/" onclick="return generalFunctions.goToPrivatePage(this.href);">Recommendations</a></li>
 			 <li><a href="http://www.jinni.com/user//taste-test/" onclick="return generalFunctions.goToPrivatePage(this.href);">Start Rating Movies</a></li>
-			 
 			 <li><a href="http://www.jinni.com/user//profile/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Profile</a></li>
 			 <li><a href="http://www.jinni.com/user//wish-list/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Wish List</a></li>
 			 <li><a href="http://www.jinni.com/user//favorites/" onclick="return generalFunctions.goToPrivatePage(this.href); ">Favorites</a></li>
@@ -631,80 +640,107 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
       		<div id="loginOverlay" class="loginOverlay" style="display: none">
      
       		<form class="loginForm" action="https://www.jinni.com/jinniLogin" id="loginForm" name="loginForm" method="post">
-	      		<img onclick="generalFunctions.hideLoginBox();" class="closingX" src="http://media.jinni.com/images/x.jpg">
+	      		<img onclick="generalFunctions.hideLoginBox();" class="closingX" src="http://media.jinni.com/images/x.jpg" alt="jinni">
 	      		
 			 	<div class="frame">
-			 		<div>
-					 	<p class="loginTitle" id="loginTitle">Log in to Jinni</p>
-					 	<p class="linkToReg"><a href="/join.html">Don't have a profile? Sign up for free. </a></p>
-				 	</div>
+			 		<h2 class="loginTitle" id="loginTitle">Log in to Jinni</h2>
 				 	
 				 	<div class="userInfo">
 					 	<label for="user">Username</label>
 					 	<input id="user" name="user">
+					    <div class="clear"></div>
 					</div>
 					
 					<div class="userInfo">
 					 	<label for="pass">Password</label>
 					 	<input type="password" id="pass" name="pass">
+					    <div class="clear"></div>
 				 	</div>
 				 	
 					 <div class="rememberme"><input type="checkbox" name="rememberme" id="rememberme" value="true">
 					 	<label for="rememberme">Remember me<br><span class="note"> If checked you will stay logged in for 4 weeks</span></label>
 					 </div>
-					 <div><input type="submit" name="j_id77" value="Log In" onclick="generalFunctions.logIn(); return false;" class="commandButton">
+					 <div><input type="submit" name="j_id91" value="Log In" onclick="generalFunctions.logIn(); return false;" class="commandButton">
 					 	<p class="forgot"><a href="/forgot_password.html">  Forgot password? </a></p>
+					 </div>
+					 <div id="whySignIn" style="display: none;">
+					 	<h3><a href="/join.html">New user? Sign up for free!</a></h3>					 	
+					 	<p>
+					 		Get recommendations from the Movie Genome<br>
+					 		Connect with people who share your tastes<br>
+					 		Discover your Movie Personality
+					 	</p>
 					 </div>
 				</div>
 				<input type="hidden" name="loginOverlayURL" id="privatePage">
 				<input type="hidden" name="loginSource" value="loginOverlay">
 			</form>
       		</div><div id="shareByEmail" class="shareFrame">
-			<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="shareModule.closeShareFrame();">
+		
+			<img src="http://media.jinni.com/images/x.jpg" class="closingX" onclick="shareModule.closeShareFrame();" alt="jinni">
+			
 			<div class="header">
+				<img src="http://media.jinni.com/images/share/shere_collage_header.jpg" alt="jinni">
 				<p id="shareSearchTerm">smart offbeat funny</p>
 				<p id="shareFilters">In: movies</p>
+				<div class="clear"></div>
 			</div>
 			<div class="header2">
 				<p>Copy and paste this link into an email or instant message:</p>
 				<input class="sharedURL" id="shareURL" value="http://www.jinni.com">
 			</div>
+			
 			<div class="shareContent">
+				<span class="errorMessage" id="errorMessage"></span>
+				
 				<div class="contentTitle">
-					<div>
-						<span class="title1">Send this page by email</span>
-						<div class="holder">
-							<span class="title2" onclick="invite.openMailClient();">Email with my default email app</span>
-
-						</div>
-					</div>
+					<span class="title1">Send this page by email</span>
 				</div>
+				
 				<div class="inputArea">
 					<div class="userInput">
 						<label>To:</label>
-						<input onfocus="shareModule.handleClick();" class="text" id="shareTo" value="Enter emails separated by commas">
+						<input type="text" name="shareTo" onfocus="shareModule.handleClick();" id="shareTo" value="Enter emails separated by commas">
+						<div class="clear"></div>
 					</div>
 					<div class="userInput" id="shareEmailDiv">
 						<label>Your email:</label>
-						<input class="text" id="shareEmail" value="">
+						<input type="text" name="shareEmail" id="shareEmail" value="">
+						<div class="clear"></div>
 					</div>
 					<div class="userInput" id="shareNameDiv">
 						<label>Your name:</label>
-						<input class="text" id="shareName" value="">
+						<input type="text" name="shareName" id="shareName" value="">
+						<div class="clear"></div>
 					</div>
 					<div class="userInput">
 						<label>Message:</label>
 						<textarea class="message" id="shareMessage"></textarea>
+						<div class="clear"></div>
 					</div>
-				</div>
-			
+				</div>			
 			</div>
+			
 			<div class="footer">
-		<div class="shareIcons"><span id="j_id85" onclick="shareModule.twitter('emailFrame');" class="share twitter"></span><span id="j_id86" onclick="shareModule.facebook('emailFrame');" class="share facebook"></span><span id="j_id87" onclick="shareModule.stumbleupon('emailFrame');" class="share stumbleupon"></span><span id="j_id88" onclick="shareModule.myspace('emailFrame');" class="share myspace"></span><span id="j_id89" onclick="shareModule.friendfeed('emailFrame');" class="share friendfeed"></span><span id="j_id91" onclick="shareModule.delicious('emailFrame');" class="share delicious"></span><span id="j_id92" onclick="shareModule.shareLink(('emailFrame'));" class="share share-link-icon"></span>
-		</div>
+				<div id="envelop_share_icons" style="width:256px; float: right;">
+			<div class="shareIcons"><span id="j_id99" onclick="shareModule.twitter('emailFrame');" class="twitter"></span><span id="j_id100" onclick="shareModule.facebook('emailFrame');" class="facebook"></span>
+			</div>
+			
+		<div class="facebook_like" id="facebook_like">
+			<fb:like layout="button_count" show_faces="false" width="53" height="40"></fb:like>
+		</div> 	
+		
+		<div class="clear"></div>
+				</div>
 				
-				<input id="shareButton" type="button" class="commandButton " value="Send" onclick="shareModule.shareByEmail()">
-				<div class="invitationLoading" id="shareByEmailLoading"></div>
+				<div class="invitationLoading" id="shareByEmailLoading" style="float: right;"></div>
+				
+				<div id="envelop_shareButton" style="width:57px; float: left;">
+					<input id="shareButton" type="button" class="commandButton" value="Send" onclick="shareModule.shareByEmail()">
+				</div>
+				
+				<div class="clear"></div>
+				
 			</div></div>
 	
 	<script type="text/javascript">
@@ -716,6 +752,7 @@ I've been using Jinni - it's a great site for finding new movies and shows. Chec
 	pageTracker._trackPageview();
 	</script>
 	
+
 	<!-- MYFACES JAVASCRIPT -->
 
 
