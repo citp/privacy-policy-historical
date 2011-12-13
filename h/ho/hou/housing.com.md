@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412072946id_/http%3A//www.housing.com/categories/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213062217id_/http%3A//www.housing.com/categories/privacy-policy.html) for the most accurate reproduction.*
 
 # Housing.com | Privacy Policy
 
@@ -46,13 +46,15 @@ Some of our business partners use cookies on our site (for example, advertisers)
 **Third Party Advertising**  
 The ads appearing on this Web site are delivered to users by our advertising partner. Information about users' visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. For more information about Commission Junction, cookies, and how to "opt-out", please click here <http://www.cj.com/privacy.asp>.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 This privacy statement covers the use of cookies our advertising partners only and does not cover the use of cookies by any advertisers.
 
 **Log Files**  
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 **Online Advertising**  
-Housing.com may use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners. These files enable our partners to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our Web site. The cookie was placed by us, or by another advertiser who works with our ad partners. The information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email addre
+Housing.com may use pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners. These files enable our partners to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our Web site. The cookie was placed by us, or by another advertiser who works with our ad partners. The information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address.
 
 **Communications from the Sit** e
 
