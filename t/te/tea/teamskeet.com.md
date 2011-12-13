@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamskeet.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614163235id_/http%3A//www.psmhelp.com/%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamskeet.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213040756id_/http%3A//www.psmhelp.com/%3Fmenu%3Dprivacy) for the most accurate reproduction.*
 
 # PSMHelp
 
