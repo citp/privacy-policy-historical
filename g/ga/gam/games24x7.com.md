@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the games24x7.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225025501id_/http%3A//www.games24x7.com/player/landingpages/privacypolicypopup.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games24x7.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213235646id_/http%3A//www.games24x7.com/player/landingpages/privacypolicypopup.html) for the most accurate reproduction.*
 
 # Privacy Policy | Games24x7.com
 
-This privacy policy forms part of our website’s [**Terms of Service**](https://web.archive.org/web/20101225025501id_/http%3A//www.games24x7.com/player/landingpages/termsofservicepopup.html)
+This privacy policy forms part of our website’s [**Terms of Service**](https://web.archive.org/web/20111213235646id_/http%3A//www.games24x7.com/player/landingpages/termsofservicepopup.html)
 
 Games24x7 respects your privacy and assures you that any information provided by you to Games24x7 is protected and will be dealt with according to this Policy. To avail of the Facilities offered on www.games24x7.com, you may have to provide certain information to us. 
 
