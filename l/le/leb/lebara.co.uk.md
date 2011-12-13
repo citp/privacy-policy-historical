@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebara.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605072420id_/http%3A//www.lebara-mobile.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebara.co.uk privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213183417id_/http%3A//www.lebara.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Lebara Mobile - International mobile phone calls & SIM cards
 
@@ -119,7 +119,7 @@ We may employ third parties, including members of the Lebara Group, to provide s
 iii) Security of Communications  
 Please be aware that communications over the Internet, such as e-mails and Webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Internet. Lebara cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.   
 iv) Media Messaging  
-If you are registered with www.Lebara-mobile.co.uk, any Media Messages you send to an email address, including Media Messages from your phone and messages from www.lebara-mobile.co.uk, may include personal details such as your registered first name and last name, your phone number or email address which will be displayed in the 'from' field of the message.   
+If you are registered with www.lebara.co.uk, any Media Messages you send to an email address, including Media Messages from your phone and messages from www.lebara.co.uk, may include personal details such as your registered first name and last name, your phone number or email address which will be displayed in the 'from' field of the message.   
 9.2 Users 16 and under  
 If you are aged 16 or under, please get your parent or guardian's permission before providing any personal information. Users without this consent are not allowed to provide us with personal information.   
 9.3 Co-Branded Micro Sites and Third Party Sites  
