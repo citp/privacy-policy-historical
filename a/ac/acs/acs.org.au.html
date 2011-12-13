@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the acs.org.au privacy policy that was archived on 2011-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110403084916id_/http%3A//www.acs.org.au/index.cfm%3Faction%3Dshow%26conID%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acs.org.au privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213025503id_/http%3A//www.acs.org.au/index.cfm%3Faction%3Dshow%26conID%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>ACS (Australian Computer Society) - Membership, Professionalism and Leadership for ICT Professionals and the ICT Community</title>
@@ -29,13 +29,15 @@
 var membership={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} 
 membership.items=[ 
  ["Membership Information", "/show/membershipinfo.cfm"],
- ["Membership Management", "/show/membershipmgmt.cfm"],
- ["Membership Payments", "/show/membershippayment.cfm"],
+ ["Membership Management", "/load/membershipmgmt.cfm"],
+ ["Membership Payments", "/load/membershippayment.cfm"],
  ["Ambassadors", "index.cfm?action=show&amp;conID=steveprofile"]
 ]
 var educer={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} 
 educer.items=[ 
  ["Certification", "show/certification.cfm"],
+ ["Certified Computer Professional", "/show/ccp.cfm"],
+ ["Professional Development", "index.cfm?action=show&amp;conID=profdev"],
  ["ACS Education Programs", "index.cfm?action=show&amp;conid=acsedupro"],
  ["Course Accreditation", "index.cfm?action=accreditation&amp;temID=accUniversities"]
 ]
@@ -46,18 +48,18 @@ maicareeremp.items=[
 ]
 var maiinfores={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} 
 maiinfores.items=[ 
- ["Events", "index.cfm?action=load&amp;temID=eventsall"],
+ ["Events", "index.cfm?action=load&amp;temID=calendar"],
  ["Online Resources", "index.cfm?action=show&amp;conID=inforesources"],
  ["Networking  Resources", "index.cfm?action=show&amp;conID=networkres"],
+ ["News &amp; Media", "index.cfm?action=load&amp;temID=noticesall"],
  ["Publications", "index.cfm?action=show&amp;conID=publications"],
- ["Digital Library", "index.cfm?action=show&amp;conID=digitallib"],
- ["News &amp; Media", "index.cfm?action=load&amp;temID=noticesall"]
+ ["Digital Library", "index.cfm?action=show&amp;conID=digitallib"]
 ]
 var policyrep={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} 
 policyrep.items=[ 
- ["Policies", "index.cfm?action=list&amp;sgrID=policies2011"],
- ["Industry Reports", "index.cfm?action=list&amp;sgrID=ireport10"],
- ["Statistics", "index.cfm?action=list&amp;sgrID=statcomp"]
+ ["Policy Positions", "index.cfm?action=list&amp;sgrID=policies2011"],
+ ["Industry Reports", "index.cfm?action=list&amp;sgrID=ireport2010"],
+ ["ICT Statistical Compendium", "index.cfm?action=show&amp;conID=compendium"]
 ] 
 var infoorg={divclass:'anylinkmenu2', inlinestyle:'', linktarget:''} 
 infoorg.items=[ 
@@ -67,7 +69,7 @@ infoorg.items=[
 ]
 var infononresidents={divclass:'anylinkmenu2', inlinestyle:'', linktarget:''} 
 infononresidents.items=[ 
- ["Skills Assessment", "index.cfm?action=show&amp;conID=skillassessment"],
+ ["Skills Assessment", "index.cfm?action=load&amp;temID=skillassessment"],
  ["Professional Year  Program", "index.cfm?action=show&amp;conID=pyp"]
 ]
 var aboutacs={divclass:'anylinkmenu2', inlinestyle:'', linktarget:''} 
@@ -119,6 +121,7 @@ ddaccordion.init({
 </script><style type="text/css">
 .submenu{display: none}
 </style>
+
 <link rel="stylesheet" type="text/css" href="scripts/shadowbox/shadowbox.css">
 <script type="text/javascript" src="scripts/shadowbox/shadowbox.js"></script>
 <script type="text/javascript">
@@ -127,7 +130,6 @@ Shadowbox.init({
     modal: true
 });
 </script>
-
 
 
 <script type="text/javascript">
@@ -203,11 +205,11 @@ div#selectBranchContainer{
 
             	<div id="LogoContainer">
                 	<div id="LogoInnerContainer">
-                		<a href=" http://www.acs.org.au"></a>
+                		<a href=" https://acs.org.au"></a>
                 	</div>
                 </div>
                 <div id="LogonContainer">
-					<form name="login" id="login" method="post" action=" https://www.acs.org.au/index.cfm?action=login">
+					<form name="login" id="login" method="post" action=" https://acs.org.au/index.cfm?action=login">
 						<input type="hidden" name="Refpage" id="Refpage" value="action=show&amp;conID=privacypolicy">					
                 	<div id="MembershipNoLbl">
                     	Membership No.
@@ -231,12 +233,12 @@ div#selectBranchContainer{
                 </div>
 			
             <div id="MainMenuContainer">
-				<a href="/show/membership.cfm" class="MainMenuLnk" rel="membership">Membership</a><a href="index.cfm?action=show&amp;conID=educer" class="MainMenuLnk" rel="educer">Certification &amp; Education</a><a href="index.cfm?action=show&amp;conID=careeremployment" class="MainMenuLnk" rel="maicareeremp">Careers &amp; Employment</a><a href="index.cfm?action=show&amp;conID=infores" class="MainMenuLnk" rel="maiinfores">Information Resources</a><a href="index.cfm?action=show&amp;conID=policyrep" class="MainMenuLnk" rel="policyrep">Policy &amp; Statistics</a>
+				<a href="/show/membership.cfm" class="MainMenuLnk" rel="membership">Membership</a><a href="index.cfm?action=show&amp;conID=educer" class="MainMenuLnk" rel="educer">Certification &amp; Education</a><a href="index.cfm?action=show&amp;conID=careeremployment" class="MainMenuLnk" rel="maicareeremp">Careers &amp; Employment</a><a href="index.cfm?action=show&amp;conID=infores" class="MainMenuLnk" rel="maiinfores">Information Resources</a><a href="index.cfm?action=show&amp;conID=policyrep" class="MainMenuLnk" rel="policyrep">Policy</a>
                 </div>
 				
                 <div id="MainMenuContainer2Wrapper">
                 	<div id="MainMenuContainer2">
-						<a href="index.cfm?action=show&amp;conid=ppp" class="MainMenuLnk2" rel="infoorg">Information for Organisations</a><a href="index.cfm?action=show&amp;conID=skillassessment" class="MainMenuLnk2" rel="infononresidents">Migration Skills Assessment </a><a href="index.cfm?action=show&amp;conID=aboutacs" class="MainMenuLnk2" rel="aboutacs">About the ACS</a>
+						<a href="index.cfm?action=show&amp;conid=ppp" class="MainMenuLnk2" rel="infoorg">Information for Organisations</a><a href="index.cfm?action=load&amp;temID=skillassessment" class="MainMenuLnk2" rel="infononresidents">Migration Skills Assessment </a><a href="index.cfm?action=show&amp;conID=aboutacs" class="MainMenuLnk2" rel="aboutacs">About the ACS</a>
                     </div>
                 </div>
 
@@ -331,7 +333,7 @@ this.setHomePage('http://www.acs.org.au');" class="UtilityLnk">Make this my home
 <div class="submenu" contentindex="1c" style="display: none;">
 
 
-<div class="submenuitem"><a href="index.cfm?action=list&amp;sgrID=ireport10" target="_top">Industry Reports</a></div>
+<div class="submenuitem"><a href="index.cfm?action=list&amp;sgrID=ireport2010" target="_top">Industry Reports</a></div>
 
 <div class="submenuitem"><a href="index.cfm?action=list&amp;groID=tradeupdates" target="_top">Trade Update</a></div>
 </div><div class="accordionheader " headerindex="2h"><a href="index.cfm?action=show&amp;conID=acsservices" target="_top">Services</a></div>
@@ -347,9 +349,9 @@ this.setHomePage('http://www.acs.org.au');" class="UtilityLnk">Make this my home
 
 <div class="submenuitem"><a href="index.cfm?action=show&amp;conID=branches" target="_top">Branches</a></div>
 
-<div class="submenuitem"><a href="index.cfm?action=show&amp;conID=acsno" target="_top">National Office</a></div>
+<div class="submenuitem"><a href="index.cfm?action=show&amp;conID=acsno" target="_top">National Secretariat Office</a></div>
 
-<div class="submenuitem"><a href="index.cfm?action=show&amp;conID=management" target="_top">National Board 2009</a></div>
+<div class="submenuitem"><a href="index.cfm?action=show&amp;conID=management" target="_top">National Board</a></div>
 
 <div class="submenuitem"><a href="index.cfm?action=show&amp;conID=congress" target="_top">Congress</a></div>
 
@@ -622,40 +624,29 @@ this.setHomePage('http://www.acs.org.au');" class="UtilityLnk">Make this my home
                 	<div class="BottomLinksTxtContainer">
                     	<span class="blueTxt">CONNECT WITH US: &nbsp;&nbsp; </span>
                     </div>
-                    <div class="BottomLinksIconContainer">                   	  <img src="images/savetodelicious.jpg" width="17" height="20" alt="save to delicious">                    </div>
-                    <div class="BottomLinksTxtContainer">
-                    	<a href="http://delicious.com/" target="_blank" class="blacklnk">Save to delicious</a>                    </div>
-                    <div class="bottomlinkssep"></div>
+                  
                     
                     
                     <div class="BottomLinksIconContainer">                   	  <img src="images/facebook.jpg" width="17" height="20" alt="Add to facebook">                    </div>
                     <div class="BottomLinksTxtContainer">
-                    	<a href="http://www.facebook.com/" target="_blank" class="blacklnk">Add to Facebook</a>                    </div>
+   	  <a href="http://www.facebook.com/AustralianComputerSociety" target="_blank" class="blacklnk">Facebook</a>                    </div>
                     <div class="bottomlinkssep"></div>
                     
                     <div class="BottomLinksIconContainer">                   	  <img src="images/tweet.jpg" width="17" height="20" alt="Tweet this page">                    </div>
                     <div class="BottomLinksTxtContainer">
-                    	<a href="http://twitter.com/acsnewsfeed" class="blacklnk">Tweet this page</a>                    </div>
+                    	<a href="http://twitter.com/acsnewsfeed" class="blacklnk">Twitter</a>                    </div>
                     <div class="bottomlinkssep"></div>
                     
                     
                     
-                    <div class="BottomLinksIconContainer">                   	  <img src="images/diggthis.jpg" width="21" height="20" alt="Digg This">                    </div>
-                    <div class="BottomLinksTxtContainer">
-                 		  <a href="http://digg.com/" class="blacklnk">Digg This</a>
-                    </div>
-                    <div class="bottomlinkssep"></div>
+               
                     
-                    <div class="BottomLinksIconContainer">                   	  <img src="images/blogger.jpg" width="17" height="20" alt="Add to Blogger">                    </div>
-                    <div class="BottomLinksTxtContainer">
-                    	<a href="https://blogger.com/" class="blacklnk">Add to Blogger</a>
-                    </div>
-                    <div class="bottomlinkssep"></div>
+                    
                     
                     <div class="BottomLinksIconContainer">                   	  <img src="images/linkedin.jpg" width="17" height="20" alt="Add to LinkedIn">                    </div>
                     <div class="BottomLinksTxtContainer">
-                    	<a href="http://www.linkedin.com" class="blacklnk">Add to LinkedIn</a>
-                    </div>
+                    	<a href="http://www.linkedin.com/groups?about=&amp;gid=110988" class="blacklnk">LinkedIn</a>
+      </div>
                 </div>
                 <div id="FooterContainer">
                 	<div id="FooterLinks">
@@ -686,31 +677,33 @@ anylinkmenu.init("MainMenuLnk3");
 swfobject.registerObject("FlashID");
 </script><div class="anylinkmenu"><ul>
 <li><a href="/show/membershipinfo.cfm" target="">Membership Information</a></li>
-<li><a href="/show/membershipmgmt.cfm" target="">Membership Management</a></li>
-<li><a href="/show/membershippayment.cfm" target="">Membership Payments</a></li>
+<li><a href="/load/membershipmgmt.cfm" target="">Membership Management</a></li>
+<li><a href="/load/membershippayment.cfm" target="">Membership Payments</a></li>
 <li><a href="index.cfm?action=show&amp;conID=steveprofile" target="">Ambassadors</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 131px; opacity: 0.3;"></div><div class="anylinkmenu"><ul>
 <li><a href="show/certification.cfm" target="">Certification</a></li>
+<li><a href="/show/ccp.cfm" target="">Certified Computer Professional</a></li>
+<li><a href="index.cfm?action=show&amp;conID=profdev" target="">Professional Development</a></li>
 <li><a href="index.cfm?action=show&amp;conid=acsedupro" target="">ACS Education Programs</a></li>
 <li><a href="index.cfm?action=accreditation&amp;temID=accUniversities" target="">Course Accreditation</a></li>
 
-</ul></div><div class="anylinkshadow" style="width: 200px; height: 102px; opacity: 0.3;"></div><div class="anylinkmenu"><ul>
+</ul></div><div class="anylinkshadow" style="width: 200px; height: 160px; opacity: 0.3;"></div><div class="anylinkmenu"><ul>
 <li><a href="index.cfm?action=show&amp;conID=careers" target="">Careers</a></li>
 <li><a href="index.cfm?action=show&amp;conID=employment" target="">Employment</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 73px; opacity: 0.3;"></div><div class="anylinkmenu"><ul>
-<li><a href="index.cfm?action=load&amp;temID=eventsall" target="">Events</a></li>
+<li><a href="index.cfm?action=load&amp;temID=calendar" target="">Events</a></li>
 <li><a href="index.cfm?action=show&amp;conID=inforesources" target="">Online Resources</a></li>
 <li><a href="index.cfm?action=show&amp;conID=networkres" target="">Networking  Resources</a></li>
+<li><a href="index.cfm?action=load&amp;temID=noticesall" target="">News &amp; Media</a></li>
 <li><a href="index.cfm?action=show&amp;conID=publications" target="">Publications</a></li>
 <li><a href="index.cfm?action=show&amp;conID=digitallib" target="">Digital Library</a></li>
-<li><a href="index.cfm?action=load&amp;temID=noticesall" target="">News &amp; Media</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 189px; opacity: 0.3;"></div><div class="anylinkmenu"><ul>
-<li><a href="index.cfm?action=list&amp;sgrID=policies2011" target="">Policies</a></li>
-<li><a href="index.cfm?action=list&amp;sgrID=ireport10" target="">Industry Reports</a></li>
-<li><a href="index.cfm?action=list&amp;sgrID=statcomp" target="">Statistics</a></li>
+<li><a href="index.cfm?action=list&amp;sgrID=policies2011" target="">Policy Positions</a></li>
+<li><a href="index.cfm?action=list&amp;sgrID=ireport2010" target="">Industry Reports</a></li>
+<li><a href="index.cfm?action=show&amp;conID=compendium" target="">ICT Statistical Compendium</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 102px; opacity: 0.3;"></div><div class="anylinkmenu2"><ul>
 <li><a href="ppp/index.cfm" target="">Professional Partner Program</a></li>
@@ -718,7 +711,7 @@ swfobject.registerObject("FlashID");
 <li><a href="index.cfm?action=show&amp;conID=acssponsor" target="">Sponsorship &amp; Endorsement</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 102px; opacity: 0.3;"></div><div class="anylinkmenu2"><ul>
-<li><a href="index.cfm?action=show&amp;conID=skillassessment" target="">Skills Assessment</a></li>
+<li><a href="index.cfm?action=load&amp;temID=skillassessment" target="">Skills Assessment</a></li>
 <li><a href="index.cfm?action=show&amp;conID=pyp" target="">Professional Year  Program</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 73px; opacity: 0.3;"></div><div class="anylinkmenu2"><ul>
