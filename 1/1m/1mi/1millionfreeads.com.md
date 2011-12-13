@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1millionfreeads.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629075745id_/http%3A//www.1millionfreeads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1millionfreeads.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213041907id_/http%3A//1millionfreeads.com/privacy.php) for the most accurate reproduction.*
 
 # 1MillionFreeAds Privacy Policy
 
