@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gethifi.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614093417id_/http%3A//www.gethifi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethifi.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213035712id_/http%3A//www.gethifi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GetHiFi
 
@@ -73,3 +73,9 @@ We have implemented reasonable security measures on the Site to help protect aga
 **__**This Privacy Policy may be revised periodically by HiFi, as reflected by the "last modified" date above. Please revisit this page to stay aware of any changes.  Material amendments to this Privacy Policy shall be communicated to you at the time you log into the Site, by e-mail, or by notice here.  Your continued use of the Site constitutes your agreement to this Privacy Policy and any future revisions.
 
 We intend to provide the Site and related services that are beneficial to you and that you trust. If you have any questions about this privacy policy, or the information handling practices of the Site, please contact us at info@gethifi.com.
+
+## Latest on Twitter
+
+We (@codeguy) updated our blog post listing as well as the sidebar author adder. It looks great! 
+
+[Follow HiFi on Twitter](http://www.twitter.com/gethifi)
