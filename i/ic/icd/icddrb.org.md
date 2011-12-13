@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icddrb.org privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217084104id_/http%3A//www.icddrb.org/page_view.cfm%3FID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icddrb.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213054714id_/http%3A//www.icddrb.org/privacy-policy) for the most accurate reproduction.*
 
-# ICDDR,B: Privacy Policy
+# Privacy Policy - ICDDR,B
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
@@ -73,3 +73,9 @@ The website may contain links to other websites. We are not responsible for the 
 ### (10) Contact
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [info@supportforlife.org](mailto:info@supportforlife.org) or by post to ICDDR,B GPO Box 128, Dhaka 1000, Bangladesh.
+
+[](http://www.addthis.com/bookmark.php)
+
+### Stay up to date
+
+Subscribe to our monthly email newsletter, or alternatively get our [RSS feed](http://www.icddrb.org/component/content/article/140). 
