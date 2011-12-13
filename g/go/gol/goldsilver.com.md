@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldsilver.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614070915id_/http%3A//goldsilver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsilver.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213011205id_/http%3A//goldsilver.com/privacy-policy) for the most accurate reproduction.*
 
-# GoldSilver.com - GoldSilver.com's Privacy Policy
+# GoldSilver.com's Privacy Policy | GoldSilver.com
 
 Thank you for accessing goldsilver.com’s website (“site”) operated by Silver & Gold, Inc. it is our objective to respect your privacy and protect your personal inormation. Please read this private policy carefully. By accessing this website you accept the practices described below. Goldsilver.com is not responsible for the content or private practices of any website not operated by Silver & Gold, Inc., to which the site links or which links to the site.
 
