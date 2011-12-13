@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginbd.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419200521id_/http%3A//www.loginbd.com/complete-directory-of-bangladesh-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginbd.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213090951id_/http%3A//www.loginbd.com/complete-directory-of-bangladesh-privacypolicy.php) for the most accurate reproduction.*
 
 # LoginBD.Com- Largest web directory in Bangladesh
 
