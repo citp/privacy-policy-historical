@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alphaindustries.com privacy policy that was archived on 2011-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527050845id_/http%3A//www.alphaindustries.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alphaindustries.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213192117id_/http%3A//www.alphaindustries.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Shop Alpha Privacy Policy: Alpha Industries | Authentic Flight Jackets, Vintage Field  Coats and Casual Wear</title>
@@ -12,6 +12,7 @@
     <meta name="google-site-verification" content="6sFI1GWbHwV8RwXdmQ4Qd_9FUXALqTTIsH7NuPAFLIE">
 <meta name="y_key" content="9f8cdb6ba2ca0601">
 <meta name="msvalidate.01" content="CAECCCD0449469E478F5F1A75A6B7EEC">
+<script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "'https://c763564.ssl.cf2.rackcdn.com/gascript.js'" : "'http://c763564.r64.cf2.rackcdn.com/gascript.js'"); document.write(unescape("%3Cscript src=" + gaJsHost + " type='text/javascript'%3E%3C/script%3E")); </script><script src="https://c763564.ssl.cf2.rackcdn.com/gascript.js" type="text/javascript"></script>
     <link rel="stylesheet" type="text/css" href="http://www.alphaindustries.com//css/site_compressed.css">
     
     <script type="text/javascript" src="http://www.alphaindustries.com/scripts/site_compressed.js"></script>
@@ -299,11 +300,39 @@
     <!-- /footer -->
 </div>
 <!-- /container -->
-<script type="text/javascript" language="javascript" src="https://www.shopvisible.net/SightMaxAgentInterface/Monitor.smjs?accountID=2&amp;siteID=84&amp;queueID=169"></script>
+<!--
+<script type="text/javascript" language="javascript" src="https://www.shopvisible.net/SightMaxAgentInterface/Monitor.smjs?accountID=2&siteID=84&queueID=169"></script>
+-->
+&nbsp;
+<!--  Pepperjam Tracking Pixel -->
+<script language="JavaScript" type="text/javascript">
+if (typeof(order_number) != 'undefined')
+{
+   if (order_number != "")
+   {
+     var strIFrame = "%3Ciframe src='https://t.pepperjamnetwork.com/track?PID=5881&TOTALAMOUNT=" + order_total + "&INT=ITEMIZED";
+     var strTrailer = "&OID=" + order_id + "' width='1' height='1' frameborder='0'%3E%3C/iframe%3E"
+     var strQty = "";
+     var strAmount = "";
+     var itemsToLoop = item_list.split("~");
 
-&nbsp;<script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript"> var pageTracker = _gat._getTracker("UA-11735289-3"); 
-pageTracker._trackPageview(); </script>
+      for( var i = 0; i < itemsToLoop.length; i++)
+      {
+          
+          var specificItem = itemsToLoop[i].split("|"); //split the value for the item
+          var partNo = specificItem[1]; //product part_no
+          if (specificItem[11] != "") //if product_option_value is not empty
+          {
+              partNo = specificItem[11]; // product_option_value
+          }
+                  strIFrame = strIFrame + "&ITEM" + ( i + 1) + "=" +  partNo;
+                  strQty = strQty + "&QTY" + (i + 1) + "=" +  specificItem[5]; //product quantity
+                  strAmount = strAmount + "&AMOUNT" + (i + 1) + "=" +  specificItem[2]; //product amount
+       }
+      document.write(unescape(strIFrame + strQty + strAmount + strTrailer));
+   }
+}
+</script>
 
 
 </body></html>
