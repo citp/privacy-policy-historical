@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphaindustries.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527050845id_/http%3A//www.alphaindustries.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphaindustries.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213192117id_/http%3A//www.alphaindustries.com/privacy.asp) for the most accurate reproduction.*
 
 # Shop Alpha Privacy Policy: Alpha Industries | Authentic Flight Jackets, Vintage Field Coats and Casual Wear
 
