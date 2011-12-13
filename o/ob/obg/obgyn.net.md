@@ -1,19 +1,34 @@
-> *The following text is extracted and transformed from the obgyn.net privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614110158id_/http%3A//www.obgyn.net/about.asp%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obgyn.net privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213054820id_/http%3A//www.obgyn.net/about.asp%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # UBM Medica OBGYN.net Privacy Policy
+
+  * [Contact Us](https://web.archive.org/about.asp?page=contact)
+  * [Our Staff](https://web.archive.org/about.asp?page=staff)
+  * [Contribute](https://web.archive.org/about.asp?page=how)
+  * [Advertising Information](http://advertising.obgyn.net/)
+
+
+  * [Acronym Expander](https://web.archive.org/cfm/glossary.cfm)
+  * [Associations and Societies](https://web.archive.org/associations.asp)
+  * [Bibliography](https://web.archive.org/bibliography/bibliography.asp)
+  * [Conference Calendar](https://web.archive.org/cfm/calendar/calendar.cfm)
+  * [Conference Coverage](https://web.archive.org/conference-coverage/conference-coverage.asp)
+  * [Contribute to OBGYN.net ](https://web.archive.org/about.asp?page=how)
+  * [Discussion Forums](https://web.archive.org/forums/forums.asp)
+  * [Educational Tutorials](https://web.archive.org/educational-tutorials)
+  * [Health News Headlines](https://web.archive.org/newsheadlines/mednews.asp)
+  * [Medline](https://web.archive.org/medline.asp)
+  * [Meet our Doctors & Practitioners](https://web.archive.org/meet.asp)
+  * [Register](https://member.cmpmedica.com/register.php?referrer=http://www.obgyn.net/about.asp)
+  * [Ultrasound Images ](https://web.archive.org/ultrasound/ultrasound.asp?page=gallery/gallery)
+  * [Podcasts and Webcasts](https://web.archive.org/podcasts-webcasts)
+
+
 
 Advertisement 
 
   
-| 
-
-Advertisement 
-
-Advertisement 
-
-Advertisement 
-
-UBM Medica OBGYN.net Privacy Policy
+|  UBM Medica OBGYN.net Privacy Policy
 
 ### UBM Medica OBGYN.net Privacy Policy
 
