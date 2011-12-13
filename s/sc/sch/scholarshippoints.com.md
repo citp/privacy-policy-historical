@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214074438id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshippoints.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213070747id_/http%3A//www.scholarshippoints.com/privacy.php) for the most accurate reproduction.*
 
 # Free College Scholarships | Privacy Policy
 
