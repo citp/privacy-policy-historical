@@ -1,29 +1,34 @@
-> *The following text is extracted and transformed from the rajputbrotherhood.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414160045id_/http%3A//www.rajputbrotherhood.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajputbrotherhood.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213150617id_/http%3A//www.publishyourarticles.org/our-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Our Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our contact us form.
+PublishYourArticles.org, popularly known as PUBLISHYOURARTICLES, gives high importance to protect your privacy. This Privacy Policy is developed to explain the manner in which PUBLISHYOURARTICLES collects, uses, and discloses the personal information provided by you as a result of the use of PUBLISHYOURARTICLES’s Web Site and the content, information and services provided through the Web Site by PUBLISHYOURARTICLES.
 
-At www.rajputbrotherhood.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.rajputbrotherhood.com and how it is used.
+**Users' Consent**.
 
-**Log Files**
+BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.PUBLISHYOURARTICLES.ORG AND/OR ANY OTHER SITE PROVIDED BY PUBLISHYOURARTICLES (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. PUBLISHYOURARTICLES reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by PUBLISHYOURARTICLES will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please contact us if you have any questions about our privacy policy.
 
-Like many other Web sites, www.rajputbrotherhood.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**Collection and Use of Information**.  
+In order for you to access certain materials or pages (i.e. author signup, tell a friend, and the like) and to register as a user on this Site, this Site requires that you provide certain personal information, including, but not limited to, your name, phone number and e-mail address. We use this information in order to contact you to provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our Site visitors and potential customers and partners. We may share this information with our authorized partners and/or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors.
 
-**Cookies and Web Beacons**
+**User Tracking**.  
+This Site implements a user tracking feature, whereby the activities of each unique visitor to the Site are monitored. This is done regardless of whether the visitor has registered on the Site or is visiting the Site anonymously. If you do not register on this Site or fill in your personal details on any forms, you do remain anonymous and we do not discover your identity. If you do register on this Site, our use of user tracking enables us to identify your future and prior activities on the Site, including your activity before you registered. This includes pages on our Site that you visited. User tracking also allows us to determine through which means you have reached our Site (i.e. which search engines or links) up to one web page back. The purpose of our user tracking is to analyze our visitors' actions in order to improve the user experience of visitors to our Site, as well as to better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
 
-www.rajputbrotherhood.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+**Use of Cookies**.  
+A "cookie" is a small text file transferred by a Web Site to a computer that is browsing the Web Site. Even if you do not register on this Site, upon your first visit to this Site (or subsequent visits if you delete the cookie), a cookie is stored on your computer, which automatically identifies you to the Site. This is done for several technical reasons, including enabling the "User Tracking" described above. In addition, for your convenience, the cookie can "autofill" information on forms on the Site, precluding the need for you to fill out the same information on our registration forms each time you want to access information that requires registration. However, cookies by themselves cannot be used to discover the identity of the user; the only personal information we learn about you is that which you provide to us, as described above. If you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. In addition, you can delete any cookies that have already been placed on your computer.
 
-**Double-click DART Cookie**
+**Internet Protocol Addresses**.   
+We collect the IP addresses of all visitors to our Site. We use your IP address in order to administer the Site, help diagnose problems with our server, to gather broad demographic information, and for the "User Tracking" described above.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+**Hyperlinks**.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense .
+This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. PUBLISHYOURARTICLES has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over the privacy policies of any of these sites. When you leave the PUBLISHYOURARTICLES Site via one of the links then you should read the privacy policy, if any, provided by the site that you have visited.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.rajputbrotherhood.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+The applicable law and exclusive jurisdiction for settling any disputes in connection with the use of the Site shall be the laws and jurisdiction of the state of India according to the provisions of the then policy in effect.
 
-www.rajputbrotherhood.com has no access to or control over these cookies that are used by third-party advertisers.
+PUBLISHYOURARTICLES will accumulate and process your personal information in the India, USA or, from time to time, in other locations at its discretion in order to provide you with competent and effective service.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.rajputbrotherhood.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+In order to assist in protecting the confidentiality of your personal information, PUBLISHYOURARTICLES applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, PUBLISHYOURARTICLES cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+  
+
