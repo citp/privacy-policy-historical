@@ -1,11 +1,25 @@
-> *The following text is extracted and transformed from the rather-be-shopping.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602090227id_/http%3A//www.rather-be-shopping.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rather-be-shopping.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213120509id_/http%3A//www.rather-be-shopping.com/privacy_policy) for the most accurate reproduction.*
 
-# Rather-Be-Shopping.com Privacy Policy
+# Privacy Policy
 
-All users of Rather-Be-Shopping.com retain complete anonymity where Rather-Be-Shopping.com is concerned. Rather-Be-Shopping.com does not acquire or collect any personal information about you. Your name, location, and email address all remain your private properties. Rather-Be-Shopping.com does, however, collect information which is specific to how you entered and use our site. Our server notes details such as the server you are logged onto, the geographic location of the ISP you use, the type of browser you use, your IP address, and what site "referred" you to Rather-Be-Shopping.com. This information is obtained for a variety of purposes, including customization of your visit here and optimization of search engine rankings. 
+Rather-Be-Shopping.com Privacy Policy
 
-Rather-Be-Shopping.com does not share any information collected with any other sources.
+This is the web site of Rather-Be-Shopping.com.
 
-If you subscribe to our newsletter, you will need to enter your e-mail address. Your e-mail address will not be given or sold to anyone. Optional demographic information can be entered when subscribing. This information will help us to better understand who our visitors are, and will not be used for any other purposes.
+We can be reached via e-mail with this [Contact Form](https://web.archive.org/contact)
 
-Any information gathered on Rather-Be-Shopping.com will be kept strictly confidential. If you have questions about this privacy statement, please [e-mail me](mailto:RatherBeShop@aol.com).
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name and IP Address, but NOT the e-mail address.
+
+The information we collect is ONLY used to improve the content of our Web page. NEVER shared with other organizations for commercial purposes or any purpose for that matter.
+
+During the registration process on Rather-Be-Shopping.com, we collect your name, password, and email address so that we may send you Coupon Alerts via email. This information is only collected to serve you better. We never share this information with any outside organization.
+
+If you have registered with Rather-Be-Shopping.com, and do not want to be registered in the future, please let us know by [Contacting Us](https://web.archive.org/contact). You will be removed immediately. Your e-mail address will never be sold or rented to any organization for any reason. Never. 
+
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+
+With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
+
+Always close your browser session when you are done using Rather-Be-Shopping.com. This will ensure your information cannot be retrieved by others.
+
+If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>. 
