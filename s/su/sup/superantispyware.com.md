@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superantispyware.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628130641id_/http%3A//www.superantispyware.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superantispyware.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214002544id_/http%3A//www.superantispyware.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SUPERAntiSpyware.com - Privacy Policy
 
