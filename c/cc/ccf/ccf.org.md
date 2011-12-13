@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ccf.org privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108230006id_/http%3A//my.clevelandclinic.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccf.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213232213id_/http%3A//my.clevelandclinic.org/about-cleveland-clinic/about-this-website/privacy-security.aspx) for the most accurate reproduction.*
 
-# Website Privacy Policy
+# Privacy & Security
 
 Cleveland Clinic’s mission is, and always will be, “Patients First”. We understand, acknowledge and respect any individual’s right to privacy and the concerns one may have in regard to privacy and security. We recognize the importance of protecting the privacy of information provided by our patients, as well as, general users of our website. 
 
-_IMPORTANT NOTE!_ The Cleveland Clinic [Notice of Privacy Practices](https://web.archive.org/Pages/notice_of_privacy_practices.aspx) is a separate document that governs how medical information about you may be used and disclosed by Cleveland Clinic. 
+_IMPORTANT NOTE!_ The Cleveland Clinic Notice of Privacy Practices is a separate document that governs how medical information about you may be used and disclosed by Cleveland Clinic. 
 
-**MEDICAL DISCLAIMER.** IF THIS IS A MEDICAL EMERGENCY, PLEASE IMMEDIATELY CALL EMERGENCY PERSONNEL (911) TO GET PROMPT MEDICAL ATTENTION.  DO NOT RELY ON ELECTRONIC COMMUNICIATIONS OR THIS WEBSITE FOR ASSISTANCE IN REGARD TO YOUR IMMEDIATE, URGENT MEDICAL NEEDS. THIS WEBSITE IS NOT DESIGNED TO FACILITATE MEDICAL EMERGENCIES. CLEVELAND CLINIC CANNOT GUARANTEE RESPONSE TIMES IF YOU CHOOSE TO USE THIS WEBSITE IN THE EVENT OF A MEDICAL EMERGENCY. 
+**MEDICAL DISCLAIMER.** IF THIS IS A MEDICAL EMERGENCY, PLEASE IMMEDIATELY CALL EMERGENCY PERSONNEL (911) TO GET PROMPT MEDICAL ATTENTION. DO NOT RELY ON ELECTRONIC COMMUNICATIONS FOR ASSISTANCE IN REGARD TO YOUR IMMEDIATE, URGENT MEDICAL NEEDS. THIS E-MAIL IS NOT DESIGNED TO FACILITATE MEDICAL EMERGENCIES. CLEVELAND CLINIC CANNOT GUARANTEE RESPONSE TIMES IF YOU CHOOSE TO USE THIS E-MAIL IN THE EVENT OF A MEDICAL EMERGENCY.
 
 ### PERSONAL INFORMATION.
 
@@ -16,7 +16,7 @@ In addition, Cleveland Clinic does not share any personally identifiable informa
 
 ##### Forms
 
-Our website contains forms through which users may request information or supply feedback to us.  In some cases, telephone numbers, email addresses or return addresses are required so that we can supply requested information to you, and in other cases, correct names and addresses are required to process credit card payments. 
+Our website contains forms through which users may request information or supply feedback to us. In some cases, telephone numbers, email addresses or return addresses are required so that we can supply requested information to you, and in other cases, correct names and addresses are required to process credit card payments. 
 
 After you fill out a form, we may contact you with follow-up information (unless you have checked an "opt-out" box on the form). We do not provide any information supplied on our web forms to any outside organization for any reason (other than where we may be required to by law, or as necessary to process credit card information). We do not save this personal information for any other reason. 
 
@@ -79,14 +79,26 @@ YOU ASSUME THE SOLE RISK OF TRANSMITTING YOUR INFORMATION AS IT RELATES TO THE U
 
 IN NO EVENT SHALL CLEVELAND CLINIC BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL OR MONETARY DAMAGES, INCLUDING FEES, AND PENALTIES IN CONNECTION WITH YOUR USE OF MATERIALS POSTED ON THIS SITE OR CONNECTIVITY TO OR FROM THIS SITE TO ANY OTHER SITE. 
 
-CLEVELAND CLINIC MAY CHANGE THIS PRIVACY POLICY  WITHOUT NOTICE TO YOU. 
+CLEVELAND CLINIC MAY CHANGE THIS PRIVACY POLICY WITHOUT NOTICE TO YOU. 
 
 Other services provided by Cleveland Clinic on this Website may require you to agree to additional terms. 
 
 ### BY USING THIS WEBSITE, YOU ACCEPT THESE TERMS. 
 
-If you have any questions about our privacy policy or our use of information gathered through our Web site, please contact our Webmaster at [webmaster@ccf.org](mailto:webmaster@ccf.org). 
+If you have any questions about our privacy policy or our use of information gathered through our Web site, please contact our Webmaster at [webmail@ccf.org](mailto:webmail@ccf.org). 
 
 Last updated: 3/18/2009
 
-Copyright © 2000-2009 Cleveland Clinic. All Rights Reserved.
+Copyright © 2000-2011 Cleveland Clinic. All Rights Reserved.
+
+At the Cleveland Clinic Health System, we believe that your health information is personal. We keep records of the care and services that you receive at our facilities. We are committed to keeping your health information private.
+
+The Cleveland Clinic Health System Notice of Privacy Practices describes the privacy practices of the Cleveland Clinic Health System and its affiliated facilities (CCHS). 
+
+Download and view the [Notice of Privacy Practices](https://web.archive.org/Documents/Legal/npp.pdf).
+
+The Cleveland Clinic values your privacy and security. Your data is protected through Secure Socket Layer (SSL) 128-bit encryption, ensuring your confidential information is protected using both server authentication and data encryption technology.
+
+  * For more information, please review our [Website Terms of Use](https://web.archive.org/about-cleveland-clinic/about-this-website/terms-of-use.aspx) and Website Privacy Policy. 
+
+
