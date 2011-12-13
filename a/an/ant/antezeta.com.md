@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614205419id_/http%3A//antezeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213152945id_/http%3A//antezeta.com/privacy.html) for the most accurate reproduction.*
 
 # » Antezeta - Data Privacy Statement
+
+#### [Sign up](http://antezeta.com/news-signup.html "Antezeta Newsletter Sign-up") now for our free newsletter!
+
+  * Keep up to date on news from Antezeta!
+
+
 
 This page explains our privacy policy and how we will use any information resulting from your visit to our website.
 
@@ -62,7 +68,7 @@ Antezeta will not sell, rent or lease your personal information to others. Antez
 
 ## Inquires
 
-If you have a question or complaint about this _Privacy Statement_ or about the site, you can [contact us](http://antezeta.com/cntct.html "Contact Antezeta").
+If you have a question or complaint about this _Privacy Statement_ or about the site, you can [contact us](http://antezeta.com/contacts.html "Contact Antezeta").
 
 ## Changes to this Privacy Statement
 
