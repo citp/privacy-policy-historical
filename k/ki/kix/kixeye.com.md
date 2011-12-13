@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kixeye.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503071757id_/http%3A//www.kixeye.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kixeye.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213020628id_/http%3A//www.kixeye.com/help/privacypolicy) for the most accurate reproduction.*
 
 # KIXEYE – Privacy Policy
 
@@ -58,11 +58,9 @@ Notwithstanding anything else herein, we may partner with third party advertiser
 
 **How you can control the collection, use, and/or display of data by KIXEYE**
 
-If you do not want KIXEYE to send you communications such as newsletters or promotional offers, you may opt-out from receiving these communications by contacting us [here](http://casualcollective.us1.list-manage.com/unsubscribe?u=5eced92a8fcc78097e537a7be&id=b4ac30a70c&e=&c=7708bb8d4b).
+If you do not want KIXEYE to send you communications such as newsletters or promotional offers, you may opt-out from receiving these communications by contacting us [updates@kixeye.com](mailto:mail@kixeye.com%3Ehere%3C/a%3E.%3C/p%3E%3Cp%3EOr%20emailing%20us:%20%3Ca%20href=)
 
-Or emailing us: [updates@kixeye.com](mailto:updates@casualcollective.com)
-
-By regular mail at KIXEYE, Attn: Privacy Policy, 100 California Street, Floor 4, San Francisco, California 94111.
+By regular mail at KIXEYE, Attn: Privacy Policy, 433 California Street, Floor 11, San Francisco, California 94111.
 
 **How do I access, change, or delete my personal information?**
 
