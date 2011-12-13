@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the damnsnaps.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521231734id_/http%3A//damnsnaps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnsnaps.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213015626id_/http%3A//damnsnaps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Damn Snaps - LOL Funny Pictures
+# Privacy Policy - Damn! Snaps
 
 **Privacy Policy for DamnSnaps.com**
 
