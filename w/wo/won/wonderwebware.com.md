@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderwebware.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629001738id_/http%3A//wonderwebware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderwebware.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213151916id_/http%3A//wonderwebware.com/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
