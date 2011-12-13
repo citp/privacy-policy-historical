@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614190944id_/http%3A//www.influxis.com/index.php/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213073037id_/http%3A//www.influxis.com/index.php/privacy_policy) for the most accurate reproduction.*
 
 # Influxis
 
@@ -62,7 +62,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [here](https://web.archive.org/site2010/other/terms.aspx "Terms and Conditions")
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [here](https://web.archive.org/index.php/terms "Terms and Conditions")
 
 ## Your Consent
 
