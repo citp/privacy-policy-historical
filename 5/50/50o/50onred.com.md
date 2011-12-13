@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 50onred.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510023224id_/http%3A//50onred.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50onred.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213203741id_/http%3A//www.50onred.com/privacy-policy) for the most accurate reproduction.*
 
-# Performance is Paramount | 50 on Red
+# Privacy Policy | 50 on Red
 
 Last Updated: 3/22/2011
 
