@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afterdownload.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020836id_/http%3A//www.afterdownload.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterdownload.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213220616id_/http%3A//www.afterdownload.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - AfterDownload - Monetize your After Download pages, Maximize your site revenue potential!
+# AfterDownload - Monetize your After Download pages, Maximize your site revenue potential!
 
 **Privacy policy**
 
@@ -15,3 +15,5 @@ We use "cookies" on our site to remember you and ensure you do not view the same
 In addition, our member's advertisements may contain cookies. While we use cookies in certain sections of our Web site, cookies received with banner ads are collected by the advertising company and we do not have access to this information. You may delete the cookies on your machine by following the instructions provided with your Internet browser software.
 
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+By registering with After Download Ltd you agree to have your company logo, creative and other non-confidental collateral displayed on our site or in press releases and other print materials. This information can be removed upon your request.
