@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleshub.org privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625031125id_/http%3A//www.articleshub.org/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleshub.org privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213103258id_/http%3A//www.articleshub.org/privacy-policy.asp) for the most accurate reproduction.*
 
 # Articles Hub - Privacy Policy
 
