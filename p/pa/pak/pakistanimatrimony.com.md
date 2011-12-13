@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistanimatrimony.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615051810id_/http%3A//www.pakistanimatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistanimatrimony.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213151805id_/http%3A//www.pakistanimatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Pakistani Matrimony, Matrimony, Indian Matrimony
 
