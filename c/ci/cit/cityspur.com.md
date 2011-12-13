@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityspur.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613145502id_/http%3A//cityspur.com/2009/03/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityspur.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213011422id_/http%3A//cityspur.com/2009/03/11/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CitySpur - The Luxury Travel Blog
 
