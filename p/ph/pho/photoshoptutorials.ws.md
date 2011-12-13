@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoshoptutorials.ws privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425111701id_/http%3A//photoshoptutorials.ws/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoshoptutorials.ws privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213010402id_/http%3A//photoshoptutorials.ws/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,5 +19,3 @@ We provide site visitors with no access to information that we have collected an
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by sending us e-mail at the above address.
 
 If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org) .
-
-[blog comments powered by ](http://disqus.com/)
