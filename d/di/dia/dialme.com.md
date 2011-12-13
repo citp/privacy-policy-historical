@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the dialme.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625183026id_/http%3A//www.dialme.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialme.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213184147id_/http%3A//www.dialme.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We are glad to welcome you to [Dolphin Smart Community Builder](http://www.boonex.com/products/dolphin/). Please read this privacy statement to ensure that we are committed to keeping secure the privacy of our members' (customers) details.
+We are glad to welcome you to [DialMe.com](http://www.dialme.com/). Please read this privacy statement to ensure that we are committed to keeping secure the privacy of our members' (customers) details.
 
 **What information do we collect?**  
-Since [BoonEx](http://www.boonex.com/) is providing you the software and support to build a website, we may require from you some information that may be considered as personally identifiable.
+We may require from you some information that may be considered as personally identifiable.
 
-Please provide us with the following information about yourself: 
+If you register or join this site please provide us with the following information about yourself: 
 
   * username
   * real name
@@ -15,8 +15,6 @@ Please provide us with the following information about yourself:
   * e-mail address
 
 
-
-Other personal information that we may possibly need: To be able to render the services you've ordered, we may need information about your website: site URL, FTP, cPanel or SSH accesses.
 
 **Copyrights**  
 All [DialMe.com](http://www.dialme.com/) site contents copyrights are reserved by Dialme.com and content copying and duplication are strongly prohibited.
@@ -32,12 +30,19 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements on dialme.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
 
 **DoubleClick DART cookies**   
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting   
-<http://www.doubleclick.com/privacy/dart_adserving.aspx>
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
 
-**Acceptance of agreements**  
-By reading this you agree to our Privacy Statement. If you do not agree to our terms and conditions you may not use this site. We may update our Privacy Statement from time to time so please visit this page regularly. 
+**Special Note About Google Advertising**   
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+**Affiliate Disclosure**   
+This website uses affiliate programs for monetization, which means when you click on links to various sites that we recommend and make a purchase, this can result in a commission that is credited to this site. Some affiliate programs and affiliations include, but are not limited to, Bluehost, Hostmonster, Hostgator, and more. 
+
+**Acceptance of agreements**   
+By reading this you agree to our Privacy Statement. If you do not agree to our terms and conditions you may not use this site. We may update our Privacy Statement from time to time so please visit this page regularly.
