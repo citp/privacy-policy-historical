@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the n-gage.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611063504id_/http%3A//www.n-gage.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-gage.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213161640id_/http%3A//www.n-gage.com/legal/privacy) for the most accurate reproduction.*
 
-# Ovi Store
+# Nokia Store
 
 WE CARE ABOUT YOUR PRIVACY  
 What Data Do We Collect?   
