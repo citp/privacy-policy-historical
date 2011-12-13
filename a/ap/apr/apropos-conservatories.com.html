@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the apropos-conservatories.com privacy policy that was archived on 2011-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110427004144id_/http%3A//www.apropos-conservatories.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apropos-conservatories.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213024238id_/http%3A//www.apropos-conservatories.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 		<title>Apropos - Privacy Policy</title>
-		<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1">
 		<link media="all" href="/css/reset.css,text.css,default.css,nav.css" rel="stylesheet">
 
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,6 +13,8 @@
 		<meta name="verify-v1" content="q2Lxt0IiaN+G1m3lPEYiuINCTW6h8iPrTk32o3z2QF0=">
 		<meta name="google-site-verification" content="6W5Ckaj6vL9tJJmKsditPQKSzpIL88t-YUIddCd3odE">
 		<link href="/all-news-rss.xml" rel="alternate" type="application/rss+xml" title="Apropos News">		
+				<link href="/800092913-Verandas-rss.xml" rel="alternate" type="application/rss+xml" title="Verandas News">
+				<link href="/800092912-Bi-Folding-Doors-rss.xml" rel="alternate" type="application/rss+xml" title="Bi Folding Doors News">
 				<link href="/800087055-Orangery-rss.xml" rel="alternate" type="application/rss+xml" title="Orangery News">
 				<link href="/438032673-glazed-canopy-rss.xml" rel="alternate" type="application/rss+xml" title="Glazed Canopy News">
 				<link href="/438032671-glasshouses-rss.xml" rel="alternate" type="application/rss+xml" title="Glasshouses News">
@@ -40,7 +41,55 @@
 		<![endif]-->
 		
 
-		<script type="text/javascript" src="/js/mootools.js,more.js,fadingimages.js,site_init.js"></script>
+		<!--<script type="text/javascript" src="/js/jquery-1.6.1.js"></script>-->
+
+		<script type="text/javascript" src="/js/mootools.js"></script>
+    <script type="text/javascript" src="/js/more.js"></script>
+    <script type="text/javascript" src="/js/fadingimages.js"></script>
+    <script type="text/javascript" src="/js/site_init.js"></script>
+    
+    <script type="text/javascript">
+    function popupBrochure(){
+			
+			var req = new Request({
+				method: 'post',
+				url: ('/js/ajax.php'),
+				data: { 'do' : '1' },
+			}).send();
+	
+			var brochureDialog = new LightFace({
+				width: 750, 
+				height: 330,
+				draggable: true,
+
+				content: '<div id="brochure-popup"><div id="broc-popup-title"><h1>Would you like to request a brochure?</h1></div><div id="broc-popup-close"><!-- close the window with this button --><a href="javascript:location.reload(true)"><img src="/images/close.png" alt="close window" /><br /><strong>Close</strong></a></div><div class="broc-popup-col"><form action="/contact-us.php" method="POST"><input type="hidden" name="comeFromPopup" value="1" /> <!--this is a flag to record that the request came form the popup --><h2>Please fill in the details below</h2>* Your Full Name <br /><input type="text" name="vars[r_name]" value="" size="50" /><br />* Postcode<br /><input type="text" name="vars[r_postal_code]" value="" size="12" /><br />* Email Address<br /><input type="text" name="vars[r_email]" value="" size="50" /><br /><input type="submit" name="Submit" Value="Request Brochure" style="float: right; margin-right: 7px" /><br /><br /><a href="javascript:location.reload(true)">No, I do not want to request a brochure</a> <!--this should close the pop up --></form></div><div class="broc-popup-col"><img src="/images/brochure.png" alt="request a brochure" /></div></div>',
+
+			});
+			brochureDialog.open();
+			
+		}
+		</script>
+    
+    <script type="text/javascript">
+    function feed_tabs(id){
+			for(i=1; i<=7; i++){
+				if(document.getElementById("feed_tab_"+i) != null){
+					document.getElementById("feed_tab_"+i).className = document.getElementById("feed_tab_"+i).className.replace( /selected/ , '' );
+					document.getElementById("feed_box_"+i).style.display = "none";
+				}
+			}
+			document.getElementById("feed_tab_"+id).className = "selected";
+			document.getElementById("feed_box_"+id).style.display = "block";
+		}
+		</script>
+    
+		    	    <script type="text/javascript">
+    window.addEvent('domready',function() {			
+			popupBrochure();	
+		});
+
+		</script>
+    		
 
 		<script type="text/javascript">
 		/* <![CDATA[ */
@@ -76,7 +125,7 @@
 							</div>
 		</div>
 		<div id="mid">
-			<div class="wrapped_container clearfix">				<div id="nav"><ul id="nav_ul"><li><a href="/" title="Conservatories | Bespoke Orangeries Range | Apropos Conservatories"><span>Home</span></a></li><li><a href="/news.html" title="Apropos Conservatories - News"><span>News</span></a><ul><li><a href="/800087055-Orangery.html" title="Orangery">Orangery</a></li><li><a href="/438032673-glazed-canopy.html" title="glazed canopy">glazed canopy</a></li><li><a href="/438032671-glasshouses.html" title="glasshouses">glasshouses</a></li><li><a href="/438032663-design-commercial.html" title="design - commercial">design - commercial</a></li><li><a href="/438032675-folding-sliding-doors.html" title="folding sliding doors">folding sliding doors</a></li><li><a href="/438032662-design-residential.html" title="design - residential">design - residential</a></li><li><a href="/438032672-garden-studios.html" title="garden studios">garden studios</a></li><li><a href="/438032668-kitchen-extensions.html" title="kitchen extensions">kitchen extensions</a></li><li><a href="/438032665-pool-house.html" title="pool house">pool house</a></li><li><a href="/438032666-conservatory-and-lean-tos.html" title="Conservatory And Lean To Conservatories">Conservatory And Lean Tos</a></li><li><a href="/438032664-stats-trends-and-developments.html" title="Stats, Trends And Developments">Stats, Trends And Developments</a></li><li><a href="/438032667-roof-lights.html" title="Roof Lights">Roof Lights</a></li><li><a href="/438032669-dining-rooms.html" title="Dining Rooms">Dining Rooms</a></li><li><a href="/438016121-glazed-canopy.html" title="Glazed Canopy">Glazed Canopy</a></li><li><a href="/438016123-folding-sliding-doors.html" title="Folding Sliding Doors">Folding Sliding Doors</a></li></ul></li><li><a href="/portfolio.html" title="Portfolio | Conservatories | Orangeries"><span>Portfolio</span></a><ul><li><a href="/conservatories.html" title="Bespoke Conservatories | Unique Conservatory Design | Apropos Conservatories">Bespoke Conservatories</a></li><li><a href="/lean-to.html" title="Lean To Conservatories | Apropos Conservatories">Lean To Conservatories</a></li><li><a href="/orangeries" title="Orangeries | Orangery Design from Apropos Conservatories | Orangeries Specialists">Orangeries</a></li><li><a href="/rooflights.html" title="Roof Lights | Skylights">Roof Lights</a></li><li><a href="/kitchen-extensions.html" title="kitchen extensions">Kitchen Extensions</a></li><li><a href="/dining-rooms.html" title="Dining rooms">Dining Rooms</a></li><li><a href="/living-rooms.html" title="Living Rooms">Living Rooms</a></li><li><a href="/bifoldingdoors" title="Bi Folding Doors | BiFold Doors | Bi Fold Doors">Bi Folding Doors</a></li><li><a href="/glassverandas" title="Veranda | Glass Veranda | Apropos Conservatories">Glass Verandas</a></li><li><a href="/portfolio-glasshouses" title="Glasshouses">Glasshouses</a></li><li><a href="/garden-studios.html" title="Garden Studios from Atelier | Apropos Conservatories">Atelier Garden Studios</a></li><li><a href="/glazed-canopies.html" title="Glazed Canopy">Glazed Canopy</a></li><li><a href="/pool-houses.html" title="Pool houses from apropos conservatories">Pool Houses</a></li><li><a href="/folding-sliding-doors.html" title="Folding Sliding Doors | Apropos Conservatories">Folding Sliding Doors</a></li></ul></li><li><a href="/about-apropos.html" title="Apropos Tectonic - About Us"><span>About</span></a><ul><li><a href="/more-about-apropos.html" title="Apropos Tectonic - About us II">More About Apropos</a></li><li><a href="/testimonials.html" title="Apropos Tectonic Customer Testimonials">Testimonials</a></li></ul></li><li><a href="/process.html" title="Apropos Tectonic - Process"><span>Process</span></a><ul><li><a href="/consultation.html" title="Process - Consultation with Apropos Tectonic">Consultation</a></li><li><a href="/presentation.html" title="Process - Presentation with Apropos Tectonic">Presentation</a></li><li><a href="/order-placement.html" title="Process - Order Placement with Apropos Tectonic">Order Placement</a></li><li><a href="/client-liaison.html" title="Process - Client Liaison with Apropos Tectonic">Client Liaison</a></li><li><a href="/planning-and-building-regulations.html" title="Process - Planning and Building Regulations">Planning and Building Regulations</a></li><li><a href="/survey.html" title="Process - Site Survey with Apropos Tectonic">Survey</a></li><li><a href="/technical-drawings.html" title="Process -Technical Drawings (CAD) with Apropos Tectonic">Technical Drawings</a></li><li><a href="/building-works.html" title="Building Works by Apropos Tectonic">Building Works</a></li><li><a href="/manufacture.html" title="manufacture by apropos tectonic">Manufacture</a></li><li><a href="/delivery-and-installation.html" title="Delivery and Installation by Apropos Tectonic">Delivery and Installation</a></li></ul></li><li><a href="/technical.html" title="technical"><span>Technical</span></a><ul><li><a href="/benefits-of-aluminium" title="Wooden Conservatories vs Alumninium Conservatories">Benefits of Aluminium</a></li><li><a href="/glass.html" title="Technical - Glass">Glass</a></li><li><a href="/extrusions.html" title="Technical - Extrusions - Apropos Techtonic">Extrusions</a></li><li><a href="/thermal-break.html" title="Technical - Thermal Break - Apropos Tectonic">Thermal Break</a></li><li><a href="/polyester-powder-coating.html" title="Technical - Polyester Powder Coating">Polyester Powder Coating</a></li><li><a href="/thermal-efficiency.html" title="Technical - Thermal Efficiency with Apropos Tectonic">Thermal Efficiency</a></li><li><a href="/structural-calculations.html" title="Technical - Structural Calculations - Apropos Tectonic">Structural Calculations</a></li><li><a href="/development.html" title="Future developments from Apropos Tectonic">Development</a></li><li><a href="/door-handles.html" title="Door Handles">Door Handles</a></li></ul></li><li><a href="/gallery.html" title="Apropos Tectonic - Gallery"><span>Gallery</span></a><ul><li><a href="/residential-gallery-11" title="Residential Gallery">Residential Gallery</a></li><li><a href="/commercial-gallery" title="Commercial Gallery">Commercial Gallery</a></li><li><a href="/case-studies.html" title="Apropos Tectonic Case Studies">Case Studies</a></li></ul></li><li><a href="/careers.html" title="Career Opportunities at Apropos Conservatories"><span>Careers</span></a><ul><li><a href="/graduate-trainee-installation-and-construction-manager" title="Graduate opportunities at Apropos Conservatories">Graduate Trainee Installation and Construction Manager</a></li><li><a href="/careers/designer-consultants" title="Design Consultants">Design Consultants</a></li><li><a href="/sales-opportunities.html" title="Graduate opportunities at Apropos Conservatories">Graduate Trainee Management (Design &amp; Sales)</a></li></ul></li><li><a href="/articles.html" title="Most Recent Articles"><span>Articles</span></a></li><li><a href="/finance.php" title="Finance"><span>Finance</span></a></li><li><a href="/contact-us.php" title="Contact Us"><span>Brochure</span></a></li><li><a href="/public-relations.html" title="Apropos Tectonic Public Relations"><span>PR</span></a></li><li><a href="/design-consultation" title="Design Consultation"><span>Design Consultation</span></a></li></ul><div class="clear">&nbsp;</div></div><div id="nav_shim"></div>
+			<div class="wrapped_container clearfix">				<div id="nav"><ul id="nav_ul"><li><a href="/" title="Conservatories | Bespoke Orangeries Range | Apropos Conservatories"><span>Home</span></a></li><li><a href="/gallery.html" title="Apropos Tectonic - Gallery"><span>Gallery</span></a><ul><li><a href="/residential-gallery-11" title="Residential Gallery">Residential Gallery</a></li><li><a href="/commercial-gallery" title="Commercial Gallery">Commercial Gallery</a></li><li><a href="/case-studies.html" title="Apropos Tectonic Case Studies">Case Studies</a></li></ul></li><li><a href="/portfolio.html" title="Portfolio | Conservatories | Orangeries"><span>Portfolio</span></a><ul><li><a href="/conservatories.html" title="Bespoke Conservatories | Unique Conservatory Design | Apropos Conservatories">Bespoke Conservatories</a></li><li><a href="/lean-to.html" title="Lean To Conservatories | Apropos Conservatories">Lean To Conservatories</a></li><li><a href="/orangeries" title="Orangeries | Orangery Design from Apropos Conservatories | Orangeries Specialists">Orangeries</a></li><li><a href="/rooflights.html" title="Roof Lights | Skylights">Roof Lights</a></li><li><a href="/kitchen-extensions.html" title="Conservatory Extensions | Kitchen Extensions by Apropos Conservatories">Kitchen Extensions</a></li><li><a href="/dining-rooms.html" title="Dining rooms">Dining Rooms</a></li><li><a href="/living-rooms.html" title="Living Rooms">Living Rooms</a></li><li><a href="/bifoldingdoors" title="Bi Folding Doors">Bi Folding Doors</a></li><li><a href="/glassverandas" title="Veranda | Glass Veranda | Apropos Conservatories">Glass Verandas</a></li><li><a href="/portfolio/aluminium-windows" title="Aluminium Windows">Aluminium Windows</a></li><li><a href="/portfolio-glasshouses" title="Greenhouses">Greenhouses</a></li><li><a href="/glazed-canopies.html" title="Glazed Canopy">Glazed Canopy</a></li><li><a href="/pool-houses.html" title="Pool houses from apropos conservatories">Pool Houses</a></li><li><a href="/folding-sliding-doors.html" title="Folding Sliding Doors | Apropos Conservatories">Folding Sliding Doors</a></li></ul></li><li><a href="/about-apropos.html" title="Apropos Tectonic - About Us"><span>About</span></a><ul><li><a href="/more-about-apropos.html" title="Apropos Tectonic - About us II">More About Apropos</a></li><li><a href="/testimonials.html" title="Apropos Tectonic Customer Testimonials">Testimonials</a></li></ul></li><li><a href="/process.html" title="Apropos Tectonic - Process"><span>Process</span></a><ul><li><a href="/consultation.html" title="Process - Consultation with Apropos Tectonic">Consultation</a></li><li><a href="/presentation.html" title="Process - Presentation with Apropos Tectonic">Presentation</a></li><li><a href="/order-placement.html" title="Process - Order Placement with Apropos Tectonic">Order Placement</a></li><li><a href="/client-liaison.html" title="Process - Client Liaison with Apropos Tectonic">Client Liaison</a></li><li><a href="/planning-and-building-regulations.html" title="Process - Planning and Building Regulations">Planning and Building Regulations</a></li><li><a href="/survey.html" title="Process - Site Survey with Apropos Tectonic">Survey</a></li><li><a href="/technical-drawings.html" title="Process -Technical Drawings (CAD) with Apropos Tectonic">Technical Drawings</a></li><li><a href="/building-works.html" title="Building Works">Building Works</a></li><li><a href="/manufacture.html" title="manufacture by apropos tectonic">Manufacture</a></li><li><a href="/delivery-and-installation.html" title="Delivery and Installation by Apropos Tectonic">Delivery and Installation</a></li></ul></li><li><a href="/technical.html" title="Technical"><span>Technical</span></a><ul><li><a href="/benefits-of-aluminium" title="Wooden Conservatories vs Alumninium Conservatories">Benefits of Aluminium</a></li><li><a href="/glass.html" title="Technical - Glass">Glass</a></li><li><a href="/extrusions.html" title="Technical - Extrusions - Apropos Techtonic">Extrusions</a></li><li><a href="/thermal-break.html" title="Technical - Thermal Break - Apropos Tectonic">Thermal Break</a></li><li><a href="/polyester-powder-coating.html" title="Technical - Polyester Powder Coating">Polyester Powder Coating</a></li><li><a href="/thermal-efficiency.html" title="Technical - Thermal Efficiency with Apropos Tectonic">Thermal Efficiency</a></li><li><a href="/structural-calculations.html" title="Technical - Structural Calculations - Apropos Tectonic">Structural Calculations</a></li><li><a href="/development.html" title="Future developments from Apropos Tectonic">Development</a></li><li><a href="/door-handles.html" title="Door Handles">Door Handles</a></li></ul></li><li><a href="/careers.html" title="Career Opportunities at Apropos Conservatories"><span>Careers</span></a><ul><li><a href="/careers/designer-consultants" title="Design Consultants">Design Consultants</a></li></ul></li><li><a href="/finance.php" title="Finance"><span>Finance</span></a></li><li><a href="/public-relations.html" title="Apropos News &amp; Media"><span>News &amp; Media</span></a></li><li><a href="/contact-us.php" title="Contact Us"><span>Brochure</span></a></li><li><a href="/design-consultation" title="Design Consultation"><span>Design Consultation</span></a></li></ul><div class="clear">&nbsp;</div></div><div id="nav_shim"></div>
 				<div id="main">
 					<div class="rhs">
 												<img src="/imgs/tmpdev/portfolio.jpg" alt="Apropos - Privacy Policy">
@@ -127,7 +176,7 @@
 						
 					</div>
 					<div class="lhs">
-																																																																																																																																																																																				<div class="panel_outer" id="brochure_panel">
+																																																																																																																																																												<div class="panel_outer" id="brochure_panel">
 							<div class="panel_inner">
 								<h3><a href="/contact-us.php">Brochure</a></h3>
 																<img src="/imgs/homepage/brochure.jpg" alt="View the apropos galleries">
@@ -141,101 +190,167 @@
 							</div>
 						</div>												<div class="panel_outer panel_last" id="news_panel">
 							<div class="panel_inner">
-								<h3 class="news-h3"><a href="/news.html">News</a></h3>
-								<ul><li>26 April 2011 - <a href="/800511846-Warm-and-inviting-feel-good-for-conservatories.html" title="Warm and inviting feel good for conservatories?">Warm and inviting feel good for conservatories?</a></li><li>26 April 2011 - <a href="/800511335-Ayrshire-conservatory-to-be-restored-to-original-glory.html" title="Ayrshire conservatory to be restored to original glory?">Ayrshire conservatory to be restored to original glory?</a></li><li>26 April 2011 - <a href="/800510669-Conservatory-builds-to-be-buoyed-by-hike-in-mortgage-market.html" title="Conservatory builds to be buoyed by hike in mortgage market?">Conservatory builds to be buoyed by hike in mortgage market?</a></li></ul>								
+								<h3 class="news-h3"><a href="/latest-news">Latest News</a></h3>
+								<ul><li>21 November 2011 - <a href="/apropos-powder-coating-awarded-akzo-nobel-accreditation" title="Apropos' powder coating awarded Akzo Nobel accreditation">Apropos' powder coating awarded Akzo Nobel accreditation</a></li><li>18 November 2011 - <a href="/public-relations/latest-news/daily-mail-s-spotlight-on-good-work-of-apropos-sales-team" title="Daily Mail's spotlight on good work of Apropos sales team">Daily Mail's spotlight on good work of Apropos sales team</a></li><li>27 October 2011 - <a href="/public-relations/latest-news/award-winning-project-showcased-at-grand-designs-live" title="Award-winning project showcased at Grand Designs Live">Award-winning project showcased at Grand Designs Live</a></li></ul>								
 								<div class="news-extra">
 									<a href="/all-news-rss.xml" class="rss-icon"></a>
-									<a href="/news.html" title="Apropos Conservatories - News" class="more">More news...</a>
+									<a href="/latest-news" title="Latest News" class="more">More news...</a>
 									<div class="clear"></div>
 								</div>								
 							</div>
 						</div>					</div>
+
+					<div class="clear"></div>
 				</div>
 			</div>
 		</div>
 	<div id="feed-wrapper">
-		
-<div class="feed-box">
-<h2 class="twitter">twitter</h2>
+  	<div class="tabs">
+    	<ul>
+      	<li id="feed_tab_1" class="selected"><a class="apropos" onclick="javascript:feed_tabs(1)">Blog</a></li>
+        <li id="feed_tab_2"><a class="twitter" onclick="javascript:feed_tabs(2)">Twitter</a></li>
+        <li id="feed_tab_3"><a class="facebook" onclick="javascript:feed_tabs(3)">Facebook</a></li>
+        <li id="feed_tab_4"><a class="flickr" onclick="javascript:feed_tabs(4)">Flickr</a></li>
+        <li id="feed_tab_5"><a class="youtube" onclick="javascript:feed_tabs(5)">YouTube</a></li>
+        <li id="feed_tab_6"><a onclick="javascript:feed_tabs(6)">DailyAp</a></li>
+			</ul>
+    </div>
+    <div class="feed-panel">
+      
+<div id="feed_box_1" class="feed-box">
 <div class="post-item">
-<p class="title"><a href="http://twitter.com/apropostectonic/statuses/61704271636332544" title="apropostectonic: RT @ClearSpanLtd: Ditto ClearSpan! RT @Atelierstudio:">apropostectonic: RT @ClearS...</a></p>
-<p>apropostectonic: RT @ClearSpanLtd: Ditto ClearSpan! RT @Atelierst...</p>
-<p class="posted">Sat, 23 Apr 2011</p>
+<p class="posted">Mon, 12 Dec 2011</p>
+<p class="title"><a href="http://apropostectonicblog.com/2011/12/12/six-key-influences-on-glass-extension-design/" title="Six key influences on glass extension design" target="_blank">Six key influences on glass extension design</a></p>
+<p>Gone are the days when glass extensions were whatever homeowners desired - so long as they came in white uPVC. With today's bespoke designs, ...</p>
 </div>
 <div class="post-item">
-<p class="title"><a href="http://twitter.com/apropostectonic/statuses/61703220396949505" title="apropostectonic: We hope you" re="" wearing="" your="" rose="" today,="" it's="" st.="" geor'="">apropostectonic: We hope yo...</a></p>
-<p>apropostectonic: We hope youre wearing your rose today, its St....</p>
-<p class="posted">Sat, 23 Apr 2011</p>
+<p class="posted">Fri, 09 Dec 2011</p>
+<p class="title"><a href="http://apropostectonicblog.com/2011/12/09/case-study-bespoke-kitchen-extension-is-delicious/" title="Case Study – Bespoke kitchen extension is delicious" target="_blank">Case Study – Bespoke kitchen extension is delicious</a></p>
+<p>An orangery-style kitchen extension has proved mouth wateringly delicious for a listed Edinburgh property.</p>
 </div>
 <div class="post-item">
-<p class="title"><a href="http://twitter.com/apropostectonic/statuses/61167369980092416" title="apropostectonic: We" re="" doing="" Â£1="" wish="" day="" on="" with="" @key103="" to="" help="" buy="" '="">apropostectonic: Were doin...</a></p>
-<p>apropostectonic: Were doing Â£1 Wish Day on with @key103 to help...</p>
-<p class="posted">Thu, 21 Apr 2011</p>
+<p class="posted">Thu, 08 Dec 2011</p>
+<p class="title"><a href="http://apropostectonicblog.com/2011/12/08/blog-revamp/" title="Blog revamp" target="_blank">Blog revamp</a></p>
+<p>The Apropos Apropos... blog is only a few months old, but, nonetheless, we've had a revamp. We don't want to go chopping and changing things for the ...</p>
 </div>
-<div class="btn"><a href="http://twitter.com/apropostectonic">Follow us on twitter</a></div>
+<div class="post-item last">
+<p class="posted">Thu, 01 Dec 2011</p>
+<p class="title"><a href="http://apropostectonicblog.com/2011/12/01/fantastic-foursome-of-folding-sliding-doors/" title="Fantastic foursome of folding sliding doors" target="_blank">Fantastic foursome of folding sliding doors</a></p>
+<p>Apropos is renowned for the high standard of its bespoke folding sliding doors, and here we showcase a fantastic foursome of Apropos projects in ...</p>
+</div>
+<div class="btn"><a href="http://apropostectonicblog.com/" target="_blank">View apropos blog</a></div>
 </div>
 
-<div class="feed-box">
-<h2 class="facebook">facebook</h2>
+<div id="feed_box_2" class="feed-box">
 <div class="post-item">
-<p class="title"><a href="http://www.facebook.com/permalink.php?story_fbid=140006336072885&amp;id=137082760426" title=" Apropos" fine="" conservatories="" are="" featured="" in="" may's="" edition="" of="" country'=""> Apropos fine conservatori...</a></p>
-<p>Apropos fine conservatories are featured in Mays edition of Cou...</p>
-<p class="posted">Mon, 18 Apr 2011</p>
+<p class="posted">Mon, 12 Dec 2011</p>
+<p class="title"><a href="http://twitter.com/apropostectonic/statuses/146184564761567232" title="Six key influences on glass extension design http://t.co/168qumAw" target="_blank">Six key influences on glass extension design ...</a></p>
+<p>Six key influences on glass extension design http://t.co/168qumAw</p>
 </div>
 <div class="post-item">
-<p class="title"><a href="http://www.facebook.com/permalink.php?story_fbid=207941689234770&amp;id=137082760426" title=" Apropos enjoyed the first edition of Glass News! "> Apropos enjoyed the first ...</a></p>
-<p>Apropos enjoyed the first edition of Glass News! a hre...</p>
-<p class="posted">Fri, 08 Apr 2011</p>
+<p class="posted">Mon, 12 Dec 2011</p>
+<p class="title"><a href="http://twitter.com/apropostectonic/statuses/146130110372790272" title="DailyAp /design.life.style/ is out! http://t.co/zyASfMrs ▸ Top stories today via @diasporadesigns @propertytalk @lisalynch @heartchitecture" target="_blank">DailyAp /design.life.style/ is out! http://t.co/zyASfMrs ...</a></p>
+<p>DailyAp /design.life.style/ is out! http://t.co/zyASfMrs ▸ Top stories today via @diasporadesigns @propertytalk @lisalynch @heartchitecture</p>
 </div>
 <div class="post-item">
-<p class="title"><a href="http://www.facebook.com/permalink.php?story_fbid=137456152995054&amp;id=137082760426" title=" Thanks Dominic for the great copy about our graduate scheme. We look "> Thanks Dominic for the gre...</a></p>
-<p>Thanks Dominic for the great copy about our graduate scheme. We l...</p>
-<p class="posted">Thu, 07 Apr 2011</p>
+<p class="posted">Sun, 11 Dec 2011</p>
+<p class="title"><a href="http://twitter.com/apropostectonic/statuses/145767720737189888" title="DailyAp /design.life.style/ is out! http://t.co/zyASfMrs ▸ Top stories today via @emilypeck @btarchitects" target="_blank">DailyAp /design.life.style/ is out! http://t.co/zyASfMrs ...</a></p>
+<p>DailyAp /design.life.style/ is out! http://t.co/zyASfMrs ▸ Top stories today via @emilypeck @btarchitects</p>
 </div>
-<div class="btn"><a href="http://www.facebook.com/pages/Ashton-under-Lyne-United-Kingdom/Apropos-Conservatories/137082760426">Add us on facebook</a></div>
+<div class="post-item last">
+<p class="posted">Sat, 10 Dec 2011</p>
+<p class="title"><a href="http://twitter.com/apropostectonic/statuses/145405291016617984" title="DailyAp /design.life.style/ is out! http://t.co/zyASfMrs ▸ Top stories today via @ftcommodities @sbmsearch @b1k3spy @archimag @jvb_metals" target="_blank">DailyAp /design.life.style/ is out! http://t.co/zyASfMrs ...</a></p>
+<p>DailyAp /design.life.style/ is out! http://t.co/zyASfMrs ▸ Top stories today via @ftcommodities @sbmsearch @b1k3spy @archimag @jvb_metals</p>
+</div>
+<div class="btn"><a href="http://twitter.com/apropostectonic" target="_blank">Follow us on twitter</a></div>
 </div>
 
-<div class="feed-box">
-<h2 class="flickr">flickr</h2>
-<div class="flickr-item"><a href="http://www.flickr.com/photos/apropostectonic/5370036222/"><img src="http://farm6.static.flickr.com/5165/5370036222_0a6caf7fcc_s.jpg"></a></div>
-<div class="flickr-item"><a href="http://www.flickr.com/photos/apropostectonic/5370036034/"><img src="http://farm6.static.flickr.com/5124/5370036034_ebed9a77c0_s.jpg"></a></div>
-<div class="flickr-item"><a href="http://www.flickr.com/photos/apropostectonic/5369428119/"><img src="http://farm6.static.flickr.com/5287/5369428119_8136dfa536_s.jpg"></a></div>
-<div class="flickr-item"><a href="http://www.flickr.com/photos/apropostectonic/5370035940/"><img src="http://farm6.static.flickr.com/5281/5370035940_5cc1fb15ce_s.jpg"></a></div>
-<div class="btn"><a href="http://www.flickr.com/photos/apropostectonic/">View all images</a></div>
+<div id="feed_box_3" class="feed-box">
+<div class="post-item">
+<p class="posted">Mon, 12 Dec 2011</p>
+<p class="title"><a href="http://www.facebook.com/apropostectonic/posts/10151030190040427" title="Apropos Conservatories" target="_blank">Apropos Conservatories</a></p>
+<p>Six key influences on glass extension designwp.meGone are the days when glass extensions were whatever homeowners desired - so long as they came in ...</p>
+</div>
+<div class="post-item">
+<p class="posted">Fri, 09 Dec 2011</p>
+<p class="title"><a href="http://www.facebook.com/apropostectonic/posts/10151015606250427" title="Apropos Conservatories" target="_blank">Apropos Conservatories</a></p>
+<p>Case Study - Bespoke kitchen extension is deliciouswp.meAn orangery-style kitchen extension has proved mouth wateringly delicious for a listed ...</p>
+</div>
+<div class="post-item">
+<p class="posted">Thu, 08 Dec 2011</p>
+<p class="title"><a href="http://www.facebook.com/apropostectonic/posts/10151012032030427" title="Apropos Conservatories" target="_blank">Apropos Conservatories</a></p>
+<p>Blog revampwp.meThe Apropos Apropos... blog is only a few months old, but, nonetheless, we've had a revamp. We don't want to go chopping and changing ...</p>
+</div>
+<div class="post-item last">
+<p class="posted">Wed, 07 Dec 2011</p>
+<p class="title"><a href="http://www.facebook.com/apropostectonic/posts/10151009514680427" title="The Apropos Apropos blog is now back online with a cool new look. What do you th..." target="_blank">The Apropos Apropos blog is now back online with a cool new ...</a></p>
+<p>The Apropos Apropos blog is now back online with a cool new look. What do you think?: http://tinyurl.com/cdgqqgj</p>
+</div>
+<div class="btn"><a href="http://www.facebook.com/pages/Ashton-under-Lyne-United-Kingdom/Apropos-Conservatories/137082760426" target="_blank">Like us on facebook</a></div>
 </div>
 
-		<div class="feed-box last">
-		<h2 class="apropos">Apropos</h2>
-				<div class="post-item">
-		<p class="title">
-		<a href="careers/designer-consultants" title="Design Consultants">Design Consultants...</a>
-		</p>
-		<p>Design Consultants Kent / London / Essex / South Wales Apropos, the...</p>
-		<p class="posted">18 April 2011</p>
-		</div>						
-				<div class="post-item">
-		<p class="title">
-		<a href="public-relations/press-release-archive/graduates-build-a-bespoke-career-with-apropos" title="GRADUATES BUILD A BESPOKE CAREER WITH APROPOS">GRADUATES BUILD A BESPOKE CAREER WITH APROPOS...</a>
-		</p>
-		<p>GRADUATES BUILD A BESPOKE CAREER WITH APROPOSAluminium and glass structure...</p>
-		<p class="posted">13 April 2011</p>
-		</div>						
-				<div class="post-item">
-		<p class="title">
-		<a href="articles/most-recent-articles/add-style-to-your-home-with-a-glasshouse" title="Add style to your home with a glasshouse">Add style to your home with a glasshouse...</a>
-		</p>
-		<p>If you wish to add a new, attractive structure to your garden that...</p>
-		<p class="posted">12 April 2011</p>
-		</div>						
-				<div class="btn"><a href="http://www.apropos-conservatories.com/articles.html">View all apropos articles</a></div>
+<div id="feed_box_4" class="feed-box">
+<div class="post-item flickr-item"><a href="http://www.flickr.com/photos/apropostectonic/6260210731/" target="_blank"><img src="http://farm7.staticflickr.com/6218/6260210731_de9ea07f6b_b.jpg"></a></div><div class="post-item flickr-item"><a href="http://www.flickr.com/photos/apropostectonic/6260734682/" target="_blank"><img src="http://farm7.staticflickr.com/6218/6260734682_9761f7b136_b.jpg"></a></div><div class="post-item flickr-item"><a href="http://www.flickr.com/photos/apropostectonic/6260205731/" target="_blank"><img src="http://farm7.staticflickr.com/6155/6260205731_487aee82d2_b.jpg"></a></div><div class="post-item flickr-item last"><a href="http://www.flickr.com/photos/apropostectonic/6260730022/" target="_blank"><img src="http://farm7.staticflickr.com/6175/6260730022_99cf3645a2_b.jpg"></a></div><div class="btn"><a href="http://www.flickr.com/photos/apropostectonic/" target="_blank">View all images</a></div>
+</div>
+
+<div id="feed_box_5" class="feed-box">
+<div class="post-item youtube-item"><a href="https://www.youtube.com/watch?v=Jq_z98W-ml8&amp;feature=youtube_gdata" target="_blank"><img src="http://img.youtube.com/vi/Jq_z98W-ml8/2.jpg"></a><div style="clear:both"></div>
+					<p class="title"><a href="https://www.youtube.com/watch?v=Jq_z98W-ml8&amp;feature=youtube_gdata" target="_blank">Apropos Conservatories</a></p></div><div class="btn"><a href="http://www.youtube.com/aproposstructures">View all videos</a></div>
+</div>
+
+      <!--<div id="feed_box_7" class='feed-box'>
+                <div class='post-item'>
+          <p class='posted'>07 December 2011</p>
+          <p class='title'>
+          <a href='public-relations/articles/most-recent-articles/no-design-glass-ceiling-for-bespoke-conservatories' title='No design 'glass ceiling' for bespoke conservatories'>No design 'glass ceiling' for bespoke conservatories...</a>
+          </p>
+          <p>Magnificent, modern day, aluminium, bespoke conservatories owe nothing to the shoddy, white, &lsquo;off the shelf&rsquo;, UPVC conservatories that dominated the 1980s ...</p>
+        </div>
+                <div class='post-item'>
+          <p class='posted'>29 November 2011</p>
+          <p class='title'>
+          <a href='public-relations/articles/most-recent-articles/aluminium-conservatories-are-better-for-the-environment' title='Aluminium conservatories are better for the environment'>Aluminium conservatories are better for the environment...</a>
+          </p>
+          <p>Homeowners considering new conservatories base their purchasing decision on financial and emotional considerations; usually involving factors such as value for money and ...</p>
+        </div>
+                <div class='post-item'>
+          <p class='posted'>24 November 2011</p>
+          <p class='title'>
+          <a href='public-relations/articles/most-recent-articles/bi-folding-doors-open-up-possibilities-all-year-round' title='Bi-folding doors open up possibilities all-year-round'>Bi-folding doors open up possibilities all-year-round...</a>
+          </p>
+          <p>Bi-folding doors have become hugely popular in recent years, and are opening up new lifestyle possibilities for homeowners all-year-round, not just during the summer. ...</p>
+        </div>
+                <div class='post-item last'>
+          <p class='posted'>21 November 2011</p>
+          <p class='title'>
+          <a href='apropos-powder-coating-awarded-akzo-nobel-accreditation' title='Apropos' powder coating awarded Akzo Nobel accreditation'>Apropos' powder coating awarded Akzo Nobel accreditation...</a>
+          </p>
+          <p>Apropos&rsquo; brand new polyester&nbsp;powder coating plant has been officially recognised by the world&rsquo;s leading powder coating authority. AkzoNobel, the ...</p>
+        </div>
+                
+        <div class='btn'><a href='http://www.apropos-conservatories.com/articles.html'>View all apropos articles</a></div>
+      </div>-->
+      <div id="feed_box_6" class="feed-box">
+      	<script src="http://widgets.paper.li/javascripts/init.js" type="text/javascript"></script>
+				<script>
+          Paperli.PaperWidget.Show({
+            pid: 'apropostectonic/1308760199',
+            width: 950,
+						height: 250,
+            background: '#FFF'
+          });
+        </script>
+      </div>
 		</div>
 	</div>
 		<div id="footer">
 			<div class="wrapped_container clearfix">
 				<div class="lhs">
-					<img src="/imgs/royal-kew-logo.png" alt="Royal botanic gardens Kew">
-					<img src="/imgs/iso-9001.png" alt="ISO 9001 Registered Firm">
-					<img src="/imgs/CAB.png" alt="CAB">
+					<img src="/imgs/royal-kew-logo.png" alt="Royal Botanic Gardens Kew" title="Royal Botanic Gardens Kew">
+					<img src="/imgs/iso-9001.png" alt="ISO 9001 Registered Firm" title="ISO 9001 Registered Firm">
+					<img src="/imgs/CAB.png" alt="CAB" title="CAB">
+          <img src="/imgs/coater-greyscale.png" alt="Service First - AkzoNobel Associated Quality Coater" title="Service First - AkzoNobel Associated Quality Coater">
+          <img src="/imgs/design-et-al.png" alt="design et al - Design &amp; Architecture Awards 2011 Winner" title="design et al - Design &amp; Architecture Awards 2011 Winner">
 				</div>
 				<div class="rhs">
 					<p>
@@ -264,6 +379,55 @@
 		pageTracker._trackPageview();
 		} catch(err) {}</script>
 
-						
+				    
+    
+    
+    
+    <div id="brochure-popup" title="Brochure Request" style="display:none">
+	<div id="broc-popup-title">
+    	<h1>Would you like to request a brochure?</h1>
+    </div>
+	<div id="broc-popup-close">
+    	<!-- close the window with this button -->
+        <a href="">
+        	<img src="close.png" alt="close window">
+            <br>
+            <strong>Close</strong>
+        </a>
+     </div>
+	<div class="broc-popup-col">
+
+  		<form action="" method="POST">
+			<input type="hidden" name="popupflag" value="1"> <!--this is a flag to record that the request came form the popup -->
+			<h2>Please fill in the details below</h2>        	
+            * Your Full Name <br>
+            <input type="text" name="fullname" value="" size="50">
+            <br>
+            * Postcode<br>
+            <input type="text" name="postcode" value="" size="12">
+            <br>
+            * Email Address<br>
+            <input type="text" name="email" value="" size="50">
+            <br>
+            <input type="submit" name="Submit" value="Request Brochure" style="float: right; margin-right: 7px">     
+             <br><br>
+			<a href="">No, I do not want to request a brochure</a> <!--this should close the pop up -->
+        </form>
+		
+        
+ 
+    </div>
+	<div class="broc-popup-col">
+    	<img src="brochure.png" alt="request a brochure">
+      </div>
+
+</div>   
+   
+        
+    
+    
+    
+    
+		
 	
 </body></html>
