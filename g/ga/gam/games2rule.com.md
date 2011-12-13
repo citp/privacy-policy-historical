@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games2rule.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426032135id_/http%3A//www.games2rule.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games2rule.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213185307id_/http%3A//www.games2rule.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games2Rule.com
 
@@ -16,7 +16,7 @@ _Cookies/Third Party Cookies:_
 We utilize "cookies" to provide you with more customized information when you return to our website. It can also be used to gather information, such as the browser type, the number of visitors. In the need of allowing advertisements to the site, our third-party advertisers might place or recognize a unique cookie on your browser. 
 
 _Third Party Advertising:_  
-When you visit the games2rule.com site, the third-party companies’ advertisements will be utilized to serve ads. These companies might use information about your visits and other Web sites in order to provide advertisements on this site. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 _Other site links:_  
 As games2rule.com contains links to other sites, games2rule.com is not liable for the privacy practices or the content of such Web sites. 
