@@ -1,79 +1,397 @@
-<!--The following is the downloaded HTML source of the afterdownload.com privacy policy that was archived on 2011-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616020836id_/http%3A//www.afterdownload.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afterdownload.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213220616id_/http%3A//www.afterdownload.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<!-- Use IE7 mode -->
-	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta http-equiv="expires" content="Wed, 26 Feb 1997 08:21:57 GMT"> 
     <meta http-equiv="pragma" content="no-cache"> 
     <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
 	<link rel="shortcut icon" href="http://cdn.afterdownload.com/images/favicon.ico" type="image/x-icon">
 	<meta name="description" content="AfterDownload is an advertising network that works with high quality software partners to drive quality results for advertisers and increase publisher revenues. Monetize your After Download Pages, Maximize your site’s revenue potential.">
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 	<meta http-equiv="expires" content="Wed, 26 Feb 1997 08:21:57 GMT">
 <meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="Cache-Control" content="no-cache, must-revalidate"><script type="text/javascript" src="http://cdn.afterdownload.com/js/jq/jquery-1.4.1.min.js"></script>
-<script type="text/javascript" src="http://cdn.afterdownload.com/js/site/site.js"></script>
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate"><script type="text/javascript" src="http://cdn.afterdownload.com/js/jq/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="http://cdn.afterdownload.com/js/site/v2/jquery.fancybox-1.3.1.js"></script>
+<script type="text/javascript" src="http://cdn.afterdownload.com/js/site/v2/jscolor/jscolor.js"></script>
+<script type="text/javascript" src="http://cdn.afterdownload.com/js/site/v2/jquery.nivo.slider.js"></script>
+<script type="text/javascript" src="http://cdn.afterdownload.com/js/site/v2/jquery.nivo.slider.js"></script>
+<script type="text/javascript" src="http://cdn.afterdownload.com/js/site/v2/jquery.easytabs.min.js"></script>
+<script type="text/javascript" src="http://cdn.afterdownload.com/js/site/v2/coin-slider.min.js"></script>
 
-<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/main.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/form.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/navigation.css">
-<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/site/main.css">
-	<script type="text/javascript">var baseUrl ='';</script>
-	<title>Privacy Policy - AfterDownload - Monetize your After Download pages, Maximize your site revenue potential!</title></head>
+<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/site/v2/nivo-slider.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/site/v2/screen.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/site/v2/style.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/site/v2/slider.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/site/v2/coin-slider-styles.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/site/v2/colorpicker.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/site/v2/jquery.fancybox-1.3.1.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.afterdownload.com/styles/site/v2/jquery-ui-1.7.2.custom.css">
+	<script type="text/javascript" src="http://use.typekit.com/nab3lcw.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<!--[if IE]>  
+	<link href="styles/v2/ie.css" type="text/css" rel="stylesheet"/>
+	<![endif]-->
+	<script type="text/javascript">
+		$(document).ready(function() {
+
+			if(window.location.hash == "#login") {
+					$("#login").fancybox().trigger('click');
+			}
+			
+			$(".privacyPage").addClass("active");
+			
+			$("#loginFormV2").bind("submit", function() {
+				if ($("#username").val().length < 1 || $("#password").val().length < 1) {
+					$("#login_error").text("Please, enter username and password");
+					$("#login_error").css('visibility','visible').fadeOut(5000,function(){
+							$("#login_error").css('display','block');
+							$("#login_error").css('visibility','hidden');
+						});
+				    return false;
+				}
+				$.fancybox.showActivity();
+				$.ajax({
+					type		: "POST",
+					cache	: false,
+					url		: "/login",
+					data		: $(this).serializeArray(),
+					success: function(data) {
+						$.fancybox.hideActivity();
+						if(data.success){
+							window.location =  data.redirect;
+							}else{
+								$("#login_error").text(data.errors[0]);
+								$("#login_error").css('visibility','visible').fadeOut(5000,function(){
+									$("#login_error").css('display','block');
+									$("#login_error").css('visibility','hidden');
+								});
+						}
+					}
+				});
+				return false;
+			});
+			
+			$("#forgotPassFormV2").bind("submit", function() {
+				if ($("#fpemail").val().length < 1 || !isValidEmailAddress($("#fpemail").val())) {
+					$("#fp_error").text("Please, enter email address");
+					$("#fp_error").css('visibility','visible').fadeOut(5000,function(){
+							$("#fp_error").css('display','block');
+							$("#fp_error").css('visibility','hidden');
+						});
+				    //$.fancybox.resize();
+				    return false;
+				}
+				$.fancybox.showActivity();
+				$.ajax({
+					type		: "POST",
+					cache	: false,
+					url		: "/login/forgot",
+					data		: $(this).serializeArray(),
+					success: function(data) {
+						$.fancybox.hideActivity();
+						if(data.success){
+								$.fancybox("<h2 style=\"color:#eb6608; font-weight:bold; margin-bottom:1px;\">Pass reset confirmation</h2><br/><p>A confirmation message was sent to the address you provided. <br/>Please click on the link  in the e-mail to reset your password.</p>");
+							}else{
+								$("#fp_error").text("No account was found for that address");
+								$("#fp_error").css('visibility','visible').fadeOut(5000,function(){
+									$("#fp_error").css('display','block');
+									$("#fp_error").css('visibility','hidden');
+								});
+						}
+					}
+				});
+				return false;
+			});
+			
+			$("#login").fancybox({
+				'titlePosition'		: 'inside',
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'swing'
+			});
+			$("a.pop").fancybox({
+				'titleShow'		: false,
+				'transitionIn'	: 'fade',
+				'transitionOut'	: 'fade'
+			});
+			
+			$("#forgetPassLink").fancybox({
+				'titlePosition'		: 'inside',
+				'transitionIn'		: 'none',
+				'transitionOut'		: 'swing',
+				'onStart' : function(){ $("#fpemail").val("");}
+			});
+
+			$(function() {
+				//vars
+				var conveyor = $(".content-conveyor", $("#sliderContent")),
+				item = $(".item", $("#sliderContent"));
+				//set length of conveyor
+				conveyor.css("width", item.length * parseInt(item.css("width")));
+				//config
+				var sliderOpts = {
+					max: (item.length * parseInt(item.css("width"))) - parseInt($(".viewer", $("#sliderContent")).css("width")),
+					slide: function(e, ui) { 
+						conveyor.css("left", "-" + ui.value + "px");
+					}
+				};
+			
+			//create slider
+				$("#dslider").slider(sliderOpts);
+			});
+
+
+			//gallery scripts
+			var sliderParams = { effect: 'straight',width: 905, height: 370,   delay: 5000 ,links : false};
+			var addition = { effect: 'straight',width: 905, height: 370,   delay: 5000 ,links : false,navigation: false };
+			
+			$('#slider').coinslider(sliderParams);
+			$('#slider1').coinslider(sliderParams);
+			$('#slider2').coinslider(addition);
+			$('#slider3').coinslider(sliderParams);
+		 	
+			$('#tab-container').easytabs({
+				animate: false,
+				tabActiveClass: "selected-tab",
+				panelActiveClass: "displayed"
+			});
+			//Set Default State of each portfolio piece
+			$(".paging").show();
+			$(".paging a:first").addClass("active");
+			
+			//Get size of images, how many there are, then determin the size of the image reel.
+			var imageWidth = $(".window").width();
+			var imageSum = $(".image_reel img").size();
+			var imageReelWidth = imageWidth * imageSum;
+			
+			//Adjust the image reel to its new size
+			$(".image_reel").css({'width' : imageReelWidth});
+			
+			//Paging + Slider Function
+			rotate = function(){	
+			var triggerID = $active.attr("rel") - 1; //Get number of times to slide
+			var image_reelPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
+			
+			$(".paging a").removeClass('active'); //Remove all active class
+			$active.addClass('active'); //Add active class (the $active is declared in the rotateSwitch function)
+			
+			//Slider Animation
+			$(".image_reel").animate({ 
+				left: -image_reelPosition
+			}, 500 );
+			
+			}; 
+			
+			//Rotation + Timing Event
+			rotateSwitch = function(){		
+			play = setInterval(function(){ //Set timer - this will repeat itself every 3 seconds
+				$active = $('.paging a.active').next();
+				if ( $active.length === 0) { //If paging reaches the end...
+					$active = $('.paging a:first'); //go back to first
+				}
+				rotate(); //Trigger the paging and slider function
+			}, 7000); //Timer speed in milliseconds (3 seconds)
+			};
+			
+			rotateSwitch(); //Run function on launch
+			
+			//On Hover
+			$(".image_reel a").hover(function() {
+			clearInterval(play); //Stop the rotation
+			}, function() {
+			rotateSwitch(); //Resume rotation
+			});	
+			
+			//On Click
+			$(".paging a").click(function() {	
+			$active = $(this); //Activate the clicked paging
+			//Reset Timer
+			clearInterval(play); //Stop the rotation
+			rotate(); //Trigger rotation immediately
+			rotateSwitch(); // Resume rotation
+			return false; //Prevent browser jump to link anchor
+			});	
+		});
+			
+			//generic functions
+			
+
+		function doChageColor(val)
+		{	
+			$(".viewer").css({
+				'border-color' : "#"+val
+			});
+			$(".headTxt").css({
+				'background' : "#"+val
+			});
+			$(".item h2").css({
+				'color' : "#"+val
+			});
+			$("a.download").css({
+				'background' : "#"+val
+			});
+		}
+
+		function isValidEmailAddress(emailAddress) {
+			var pattern = new RegExp(/^(("[\w-\s]+")|([\w-]+(?:\.[\w-]+)*)|("[\w-\s]+")([\w-]+(?:\.[\w-]+)*))(@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][0-9]\.|1[0-9]{2}\.|[0-9]{1,2}\.))((25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\.){2}(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[0-9]{1,2})\]?$)/i);
+			return pattern.test(emailAddress);
+		}
+		
+		function divHide(num)
+		{
+			if(num==0)
+			{
+				for(var i=1;i<4;i++)
+				{
+					document.getElementById('coin-slider-slider'+i).style.display = 'none';
+					document.getElementById('slider'+i).style.display = 'none';
+					
+				}
+				document.getElementById('coin-slider-slider').style.display = 'block';
+				document.getElementById('slider').style.display = 'block';
+				
+			}
+			else
+			{
+				for(var i=0;i<4;i++)
+				{
+					if(i== num)
+					{
+						document.getElementById('coin-slider-slider'+i).style.display = 'block';
+						document.getElementById('slider'+i).style.display = 'block';
+					}
+					else
+					{
+						if(i== 0)
+						{
+							document.getElementById('coin-slider-slider').style.display = 'none';
+							document.getElementById('slider').style.display = 'none';
+							
+						}
+						else
+						{
+							document.getElementById('coin-slider-slider'+i).style.display = 'none';
+							document.getElementById('slider'+i).style.display = 'none';
+							
+						}
+					}
+				}
+			}
+			
+		}
+	</script>
+	<style type="text/css">
+		body{font-family:font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2",sans-serif;}
+		#coin-slider-slider1{display:none;}
+		#coin-slider-slider2{display:none;}
+		#coin-slider-slider3{display:none;}
+	</style>
+	<title>AfterDownload - Monetize your After Download pages, Maximize your site revenue potential!</title></head>
 <body>
-	<div id="header">
-	<div class="width">
-		<a class="logo" href="http://www.afterdownload.com" title="Addfox">&nbsp;</a>
-		<div class="mainnav">
-			<a class="button" href="/login" title="Log-in">Log-in</a>
-			<a class="empty" href="http://www.afterdownload.com">&nbsp;</a>
-            <a class="" href="http://www.afterdownload.com" title="Home">Home</a>
-			<a href="/page/advertiser" title="Advertiser">Advertiser</a>
-            <a href="/page/publisher" title="Publisher">Publisher</a>
-            <a href="/contact" title="Contact">Contact</a> 
-            <a class="last" href="/page/about" title="About">About</a>
-		</div>
-	</div>
-	
 
-</div>	<div id="container">
-		<div class="width">
-		<div class="body contentPage">
-    <div class="sidebar">
-        <p>Whether you want to spread your software and get more users or monetize your website's after download page, you're in the right place.</p>
-        <a class="button signup" href="/register/index/type/2">Advertiser<br>Sign up</a>
-        <a class="button signup publisherSignup" href="/register/index/type/1">Publisher<br>Sign up</a><br>
-    	<h2>Featured Partners</h2>
-<img class="sidebarPartners" src="http://cdn.afterdownload.com/images/content/logo_sim.gif" alt="SweetIm"> 
-<img class="sidebarPartners" src="http://cdn.afterdownload.com/images/content/babylon.jpg" alt="Babylon">
-<img class="sidebarPartners" src="http://cdn.afterdownload.com/images/content/checkpoint.jpg" alt="checkpoint.jpg">     </div>
-    <div class="content">
-        <p><strong>Privacy policy </strong></p>
+	<div class="container">
+			<div class="header">
+    	<div class="span-3"><a href="/"><img style="margin-top:5px;" src="http://cdn.afterdownload.com/images/site/v2/logo.jpg" alt="AfterDownload"></a></div>
+        <div class="span-12 floatRight">
+        
+        	<ul class="span-10 menu clearfix">
+            	<li class="Page"><a href="/">Home</a></li>
+                <li class="publisherPage"><a href="/pages/publisher">Publisher</a></li>
+                <li class="advertiserPage"><a href="/pages/advertiser">Advertiser</a></li>
+                <li class="technologyPage"><a href="/pages/technology">Technology</a></li>
+                <li class="galleryPage"><a href="/pages/gallery">The Gallery</a></li>
+                <li class="aboutPage"><a href="/pages/about/">About Us</a></li>
+                <li class="contactPage last"><a href="/pages/contact">Contact</a></li>
+            </ul>
+            
+            <div class="span-2 floatRight">
+				                	<a href="http://admin.afterdownload.com/#login"><img src="http://cdn.afterdownload.com/images/site/v2/login_icon.jpg"></a>              	                
+                <div class="popUp">
+                    <div id="loginBox">
+                    <form name="loginFormV2" id="loginFormV2" method="post" action="/login">
+                    	<div class="loginIcon"><img src="http://cdn.afterdownload.com/images/site/v2/login_box_icon.jpg" alt=""></div>
+                    	<h2>Please Log-in</h2>
+                    	<div id="login_error"></div>
+                        <label>Username:</label>
+                        <input type="text" name="username" id="username" class="frmInput">
+                        <br class="clear">
+                        <label>Password:</label>
+                        <input type="password" name="password" id="password" class="frmInput">
+                        <br class="clear">
+                        <a class="forgetPass" id="forgetPassLink" href="#fpPopUpBox">Forgot your password?</a>
+                        <input type="submit" value="Login" name="" id="" class="frmButton">
+                     </form>
+                    </div>
+                </div>
+                
+                <div class="fpPopUp">
+                    <div id="fpPopUpBox">
+                    <form name="forgotPassFormV2" id="forgotPassFormV2" method="post" action="/login/forgot">
+						 		<h2>Forgot password?</h2>
+						        <p>Please enter the Email address you registered your account with.<br>A confirmation message will be sent to that address.</p>
+						        <div id="fp_error"></div>
+						        <label>Email</label><input type="text" name="email" id="fpemail" class="frmInput"> <br><br>
+						        <input type="submit" value="Send" name="" id="" class="frmButton">
+						        <div class="clear">&nbsp;</div>
+                     </form>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>		<div class="content">
+<p><strong>Privacy policy </strong></p>
 <p>After Download Ltd ("We" or AfterDownload) is committed to maintaining the privacy of its customers. The following discloses the information gathering and dissemination practices.</p>
 <p>In our registration process, we ask users to provide contact information, for example, your name and email address. We may also request a unique login password, and confirmation that you have accepted our terms and conditions of use and wish to receive our monthly newsletter. If required to complete a transaction, we might also request financial information including paypal account or credit card numbers. You may modify the information you have provided at any time from within your personal control panel.</p>
 <p>We use customer contact information to provide services and occasionally, provide information on our company. The customer's contact information is also used to contact the user when necessary. We use unique identifiers, such as login &amp; password, to verify the user's identity and as account numbers in our customer database system. We also use information in the aggregate to demonstrate, for example, the number of people registered with the company. Unless required to complete a transaction you have requested, or to perform maintenance on our site, we do not share personal identifying information with outside entities.</p>
+
 <p>We use "cookies" on our site to remember you and ensure you do not view the same ads repeatedly. We also use cookies to estimate the number of unique visitors to the site and provide aggregate information about our user base. However, we do not associate our members with cookies, the member remains anonymous.</p>
 <p>In addition, our member's advertisements may contain cookies. While we use cookies in certain sections of our Web site, cookies received with banner ads are collected by the advertising company and we do not have access to this information. You may delete the cookies on your machine by following the instructions provided with your Internet browser software.</p>
 <p>If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.</p>
-<p>&nbsp;</p>    </div>
-    <div class="clear" style="clear:both;">&nbsp;</div>
- </div>
-		</div>
+<p>By registering with After Download Ltd you agree to have your company logo, creative and other non-confidental collateral displayed on our site or in press releases and other print materials. This information can be removed upon your request.</p>
+<p>&nbsp;</p>    
+</div>
 	</div>
-	<div id="footer">
-	<div class="width">
-		<span class="copyright"><img src="http://cdn.afterdownload.com/images/site/footer/logo.png" alt="AfterDownload"> © 2010</span>
-		<a href="http://www.afterdownload.com">Home</a> 
-		<a href="/page/about">About</a>
-		<a href="/index/press">Press</a>  
-        <a href="/page/faq">FAQ</a> 
-		<a href="/contact">Contact</a> 
-		<a href="/page/firefox" title="Firefox"><span class="firefox"><img src="http://cdn.afterdownload.com/images/site/firefox.png"> Add-ons</span></a>
-		<a href="/page/privacy-policy">Privacy</a> 
-        <a href="/page/terms">Terms</a> 
-	</div>
-</div>		<script type="text/javascript">
+	<div class="footerWrapper">
+
+    <div class="footer">
+        <div class="container">
+            <div class="span-3">
+                <a href="#"><img src="/images/site/v2/footer_logo.png" alt="AfterDownload"></a><br>
+                <span class="copyrightTxt">© 2011 AfterDownload LTD.</span>
+            </div>
+            <div class="span-10">
+                <ul class="footerLinks">
+                    <li><a href="/">Home</a></li>
+                </ul>
+                <ul class="footerLinks">
+                    <li><a href="/pages/publisher">Publisher</a></li>
+                    <li><a href="/pages/advertiser">Advertiser</a></li>
+
+                </ul>
+                <ul class="footerLinks">
+                    <li><a href="/pages/technology">Technology</a></li>
+                    <li><a href="/pages/gallery">The Gallery</a></li>
+                </ul>
+                <ul class="footerLinks">
+                    <li><a href="/pages/about">About Us</a></li>
+
+                    <li><a href="/pages/contact">Contact</a></li>
+                    <li><a href="/pages/privacy">Privacy</a></li>
+                    <li><a href="/pages/terms">Terms</a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+    </div>
+</div>
+
+
+		<script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
