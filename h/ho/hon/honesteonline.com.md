@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the honesteonline.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513163212id_/http%3A//www.honesteonline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honesteonline.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213174839id_/http%3A//www.honesteonline.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# HONESTe Online Privacy Policy
 
-PRIVACY POLICY   
-HONEST E ONLINE, INC.
+Last Updated: June 8, 2011
 
-Last Updated: May 6, 2008
-
-Honest E Online, Inc/HonesteOnline.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
+Honest E Online, Inc/HonesteOnline.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
 How we gather information from users
 
@@ -43,9 +40,9 @@ Know the sites your kids are visiting and which sites are appropriate.
 
 Look for Web site privacy policies. Know how your child's information is treated. 
 
-Check out the FTC's site <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html> for more tips on protecting children's privacy online.  
+Check out the FTC's site <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html> for more tips on protecting children's privacy online.
 
-
+  
 Contacting Us.
 
 We can be reached by contacting:
