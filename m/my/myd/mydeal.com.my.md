@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydeal.com.my privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602214106id_/http%3A//www.mydeal.com.my/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeal.com.my privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213012632id_/http%3A//www.mydeal.com.my/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | MYDEAL.com.my - Malaysia at half the price!
+# Privacy Policy | MyDEAL.com.my - Malaysia at half the price!
 
 Your privacy is important to us. This privacy statement provides guidelines and conditions regarding the personal information that MYDEAL.com.my collects, and the ways in which MYDEAL.com.my uses that personal information.
 
