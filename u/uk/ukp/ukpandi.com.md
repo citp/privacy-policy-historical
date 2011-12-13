@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukpandi.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611044629id_/http%3A//www.ukpandi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukpandi.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213055453id_/http%3A//www.ukpandi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - UK P&I
 
@@ -16,7 +16,7 @@ It does not relate to information about companies held and processed by us.
 
 In this privacy policy references to
 
-  * “we”, "us" or "our" are to the UK P&I Club (registered in England number: **XXXXXXX** ) whose registered address is at 90 Fenchurch Street, London EC3M 4ST, England;
+  * “we”, "us" or "our" are to the UK P&I Club (registered in England number: 1901414) whose registered address is at 90 Fenchurch Street, London EC3M 4ST, England;
   * “the Website” are to [www.ukpandi.com](http://www.barmutual.co.uk/) and any other website owned or operated by us. 
 
 
