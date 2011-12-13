@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalgupshup.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524155433id_/http%3A//www.digitalgupshup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalgupshup.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213110756id_/http%3A//www.digitalgupshup.com/privacy-policy) for the most accurate reproduction.*
 
-# Digital Gupshup | Privacy policy
+# » Privacy policy
 
 **Privacy Policy for www.digitalgupshup.com**
 
