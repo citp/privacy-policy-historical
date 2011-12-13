@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the occipital.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522184009id_/http%3A//www.occipital.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the occipital.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213174448id_/http%3A//occipital.com/legal/privacy) for the most accurate reproduction.*
 
 # Occipital - Privacy
 
@@ -90,14 +90,8 @@ Occipital Privacy Policy
   11. Contacting Us 
 
 
-  1. If there are any questions regarding this privacy policy you may contact us at any time at:        
+  1. If there are any questions regarding this privacy policy you may contact us at info@occipital.com.
 
 
 
-Occipital, LLC
-
-ATTN: Privacy Policy
-
-1801 13th Street, Suite 202
-
-Boulder, CO 80302
+Hello User 
