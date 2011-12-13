@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the radioloyalty.com privacy policy that was archived on 2011-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110403070403id_/http%3A//radioloyalty.com/legal-privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the radioloyalty.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213061957id_/http%3A//radioloyalty.com/legal-privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,16 +9,39 @@
 
 <body class="legal">
 
+
+<!-- Begin comScore Tag -->
+<script async="" src="http://b.scorecardresearch.com/beacon.js"></script><script>
+<!--//
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6165586" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+//s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+s.src = "http://b.scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+//-->
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=6165586&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
 <link href="http://radioloyalty.com/css/jq_fade.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="http://radioloyalty.com/css/thickbox.css" type="text/css" media="screen">
-<script type="text/javascript" src="http://radioloyalty.com/js/jquery-1.5.min.js"></script>
+<script type="text/javascript" src="http://radioloyalty.com/js/jquery-1.6.min.js"></script>
+<!--[if !lt IE 6]><!-->
 <script type="text/javascript" src="http://radioloyalty.com/js/jquery.innerfade.js"></script>
 <script type="text/javascript" src="http://radioloyalty.com/js/jquery-radioloyalty.js"></script>
 <script type="text/javascript" src="http://radioloyalty.com/js/general.js"></script>
 <script type="text/javascript" src="http://radioloyalty.com/js/thickbox-compressed.js"></script>
-    <div class="section-logo">
+<script type="text/javascript" src="http://radioloyalty.com/js/expand.js"></script>
+<!--<![endif]-->
+<div class="section-logo">
         <a href="http://radioloyalty.com/index.php"><img src="img/radio-loyalty-logo.png" width="301" height="33" border="0" alt="Radio Loyalty Logo" class="l"></a>
-        <a href="genre.php" class="link-header" id="link-header">BROWSE STATIONS</a>
+        <a href="genre-result.php" class="link-header" id="link-header">BROWSE GENRES</a>
+        <a href="http://signup.radioloyalty.com/index.php?pathID=30" target="_blank" id="link-header2" style="float: right; margin-right: 3px;"><img src="http://radioloyalty.com/img/broadcaster-message.jpg" alt="Radio Broadcaster Signup"></a>
 
     </div>
     
@@ -26,11 +49,13 @@
     	<div class="nav"><a href="http://radioloyalty.com/index.php">HOME</a></div>
         <div class="nav"><a href="http://radioloyalty.com/station-guide/index.php">STATION GUIDE</a></div>
         <div class="nav"><a href="http://radioloyalty.com/store.php">STORE</a></div>
+        <div class="nav"><a href="http://radioloyalty.com/mobile-app.php">MOBILE APPS</a></div>
         <div class="nav"><a href="http://radioloyalty.com/faq.php">FAQ</a></div>
-        <div class="nav"><a href="">&nbsp;</a></div>
+        <div class="nav" style="width: 5px; padding-left: 0px; padding-right: 0px;"><a href="">&nbsp;</a></div>
 
         <h2 class="trigger2"><a>LISTENER LOGIN</a></h2>
         <h2 class="trigger"><a>BROADCASTER LOGIN</a></h2>
+
     </div>
     
     <div class="toggle_container" style="display: none;">
@@ -41,12 +66,16 @@
                		<div id="login-div">
                		<form name="loginForm" method="post" onsubmit="submitLogin(this.loginUsername.value, this.loginPassword.value, 'http://radioloyalty.com/'); return false;" style="text-align: left; float: left;">
                     	<input id="login-username" name="loginUsername" type="text" value="Username" tabindex="1" onfocus="setFocus(this);" onblur="remFocus(this);" class="green" style="float: left;">
-                        <input id="login-password-tmp" type="text" value="Password" tabindex="2" onfocus="setFocus(this);" class="green" style="float: left;"><input id="login-password" name="loginPassword" type="password" value="" tabindex="2" onblur="remFocus(this);" class="green" style="display: none; float: left;">
+                        <input id="login-password-tmp" type="text" value="Password" tabindex="2" onfocus="setFocus(this);" class="green" style="float: left;"><input id="login-password" name="loginPassword" type="password" value="" tabindex="2" onfocus="this.value='';" onblur="remFocus(this);" class="green" style="display: none; float: left;">
                         <input id="login-submit" type="submit" class="login" value="" style="border: none;">
                     </form>
                     <div class="error" id="error">Your login is incorrect. Please try again.</div>
                     
-                    <div id="loading"><img src="http://radioloyalty.com/img/loading3.gif" width="25" height="25"></div>
+                    <div id="loading"><img src="http://radioloyalty.com/img/loading3.gif" width="25" height="25" alt="loading"></div>
+                    
+                    <div class="cl"></div>
+                    
+                    <div style="text-align: left;">Do not have an account? <a href="http://signup.radioloyalty.com/index.php?pathID=30" target="_blank">Signup now!</a></div>
                     </div>
                     
                     <div id="passhelp-div">
@@ -114,87 +143,102 @@
     <h1>Privacy Policy/Your California Privacy Rights</h1>
     <div class="line"></div>
     
-    <p>Policy last updated October 04, 2010</p>
+<p>Policy last updated April 18, 2011</p>
 
-    <p>This is the Privacy Policy for www.radioloyalty.com (the "Site"), which is owned or operated by RadioLoyalty. (the "Company" or "we" or "us"). Your California Privacy Rights</p>
-    
-    <p>California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to: RadioLoyalty</p>
-    
-    <p>Privacy Administration Dept.
-    345 Chapala, Santa Barbara, CA 93101
-    Your Acceptance of this Privacy Policy</p>
-    
-    <p>By using the Site, including, without limitation, signing up for offers and/or continuing to receive information from the Company, you signify your acceptance of this Privacy Policy, and you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is subject to the Terms of Use  posted on the Site. Information We Collect</p>
-    
-    <p>We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.</p>
-    
-    <p>We may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Site, the time the Site is visited, which Web pages were visited on the Site, a unique mobile device identifier (in connection with the use of the Sites or related services from mobile devices) and other anonymous Site usage data.</p>
-    
-    <p>We may also connect personal information and non-personal information from users via "cookies" (small text files placed by us on user computers), single-pixel GIF image files (also called "Web beacons"), Web server log analysis and other similar technologies. Such information may be used to track usage trends and enhance the user experience, and may be shared with third parties.</p>
-    
-    <p>To the extent third parties may place advertising on the Site, such third parties may utilize cookies or other tracking technologies. We are not responsible for information collected by third parties in this manner, nor for the collection or use of information by other sites to which the Site is linked.</p>
-    
-    <p>Use of Information</p>
-    
-    <p>We use your personal information and non-personal information for internal purposes, such as to provide you with the Site and services, to notify you of new products or services, and to otherwise communicate with you.</p>
-    
-    <p>Sharing Information; Your Consent to Sharing</p>
-    
-    <p>We may rent, sell, and share your personal information and non-personal information with our network partners and third-party affiliates for the purposes of direct mail, email marketing, mobile marketing, and telemarketing.</p>
-    
-    <p>By clicking "Submit" and providing personal information on or through the Site or other sites we own, operate, or control, you agree:</p>
-    
-    <ul>
-        <li>all information you have provided is true and correct to the best of your knowledge;</li>
-        <li>you are establishing a business relationship with Company and with its marketing partners; and</li>
-        <li>you are requesting and expressly consenting to be contacted via telephone (whether wireless or wired), including by live or prerecorded, calls using an automated dialing system, email, and/or mail by us, our network partners, and third-party affiliates and marketing partners regardless of whether your telephone number is on any Do Not Call list(s)</li>
-        <li>From time to time, we may establish a business relationship with other businesses and third-party marketing partners whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers and third-party marketing partners to provide certain services, such as hosting and maintenance, customer relationship management, data storage and management, and direct marketing campaigns. We provide our Service Providers and/or third-party marketing partners with the information necessary for them to perform these services on our behalf. Each Service Provider and/or third-party marketing partner must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use or disclosure. If you would like more information about our data sharing policy and practices and to know your choices about not having information about you used by us or these other companies,click here.</li>
-      </ul>  
-    
-    <p>We may work with third-party marketing and advertising companies ("Ad Networks"). These companies may collect and use information about your use of the Site or services in order to provide advertisements about goods and services that may be of interest to you. Advertisements may be shown via the Site, the services, or third-party sites. These companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons. Our Privacy Policy does not cover any use of information that an Ad Network may collect from you. It also does not cover any information that you may choose to provide to an Ad Network or to an advertiser whose goods or services are advertised through the Site. For more information about ad cookies, and to "opt-out" of the collection of information by some companies that allow you to do so, please click here.</p>
-    
-    <p>We may share personal information and non-personal information with businesses controlling, controlled by, or under common control with Company. If Company is merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer personal information and non-personal information in connection with such transaction.</p>
-    
-    <p>Company cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose personal information and non-personal information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of Company or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.</p>
-    
-    <p>Mobile Services</p>
-    
-    <p>Any information we obtain from you in connection with any mobile service, including SMS services, may include your name, address, mobile phone number, your mobile service provider's name, and the date, time, and content of your messages. In addition to any fee we may charge, your mobile service provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence. All charges are billed by and payable to your mobile service provider. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. You may opt out of mobile services via email to complaint@radioloyalty.com or by sending "STOP", "END", "QUIT" to the SMS text message you have received. However, such opting out will not apply to any communications from our other website offerings you have registered for or our network partners or other third parties to whom we may have already provided your information.</p>
-    
-    <p>No Collection of Information from Children</p>
-    
-    <p>The Site is not intended for users under the age of 18, nor do we knowingly collect, retain or share information in connection with the Site from children under the age of 18.</p>
-    
-    <p>Safeguarding Your Information</p>
-    
-    <p>We endeavor to safeguard and protect our users' information. We utilize electronic and physical security to reduce the risk of improper access to or manipulation of the information you submit during transmission and storage, but cannot and do not guarantee the security or integrity of the information. We shall have no liability for breaches of security or integrity or third-party interception in transit. Please be advised that any transmission of data at or through the Site is at your own risk.</p>
-    
-    <p>External Links</p>
-    
-    <p>The Site may contain links to other sites, or allow others to send you such links. A link to a third party's site does not mean that we endorse it or that we are affiliated with it. We do not exercise control over third-party sites. You access such third-party sites or content at your own risk. You should always read the privacy policy of a third-party site before providing any information to the site.</p>
-    
-    <p>Opting Out</p>
-    
-    <p>You may opt out from receiving future offers in connection with the Site by following the instructions contained within each marketing communication or by emailing us at complaint@radioloyalty.com. However, such opting out will not apply to any communications from our other website offerings you have registered for or our network partners or other third parties to whom we may have already provided your information. Those third parties' use of your information is subject to such parties' own privacy policies and opt out procedures, for which we shall not be responsible.</p>
-    
-    <p>Contacting Us</p>
-    
-    <p>If you have any questions or concerns about this Privacy Policy or our privacy practices, you may write to us at:</p>
-    
-    <p>RadioLoyalty
-    Privacy Administration Dept.
-    345 Chapala Street
-    Santa Barbara, CA 93101</p>
-    
-    <p>Please provide complete information to facilitate your request, as well as your complete contact information. Privacy Policy Changes</p>
-    
-    <p>From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will go into effect on the revision date shown in the revised Privacy Policy. Your continued use of our Site or services constitutes your consent to be bound by the revised Privacy Policy.</p>
+<p>This is the Privacy Policy for the www.radioloyalty.com website and any browser-based media player or  application using RadioLoyalty™ or the UniversalPlayer™  (collectively and individually hereinafter referred to as the  “Service”), which is owned or operated by Lenco Media Inc. (the "Company" or "we" or "us"). </p>
+
+<p>Your California Privacy Rights</p>
+
+<p>California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to: </p>
+
+<p>RadioLoyaltyTM, Privacy Administration Dept. 345 Chapala, Santa Barbara, CA 93101 </p>
+
+<p>Your Acceptance of this Privacy Policy</p>
+
+<p>By using the Service, including, without limitation, signing up for offers and/or continuing to receive information from the Company, you signify your acceptance of this Privacy Policy, and you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is subject to the Terms of Use posted on the Service. </p>
+
+<p>Information We Collect.</p>
+
+<p>We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Service, subscribe to one of our services, interact with one of our services, and at other times. We also collect credit card information in connection with any purchase you make on or through the Service. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Service or other services.  </p>
+
+<p>Additionally, even if you choose not to share information with us through the methods mentioned above, we may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Service, the time the Service is visited, which Web pages were visited on the Service, a unique mobile device identifier (in connection with the use of the Service or related services from mobile devices) and other anonymous Service usage data.</p>
+
+<p>We may also connect personal information and non-personal information from users via "cookies" (small text files placed by us on user computers), single-pixel GIF image files (also called “Pixels” or "Web beacons"), Web server log analysis and other similar technologies, and other tracking technology (such as Flash Persistent Storage) that help us manage and track your interaction with the Service. Such information may be used to track usage trends and enhance the user experience, and may be shared with third parties.</p>
+
+<p>We track the music played through the Service and report it to our Broadcasters in the aggregate so that the Broadcaster can meet its obligations to report and pay the copyright owners.  These reports do not contain individual listener data. </p> 
+
+<p>We work with third party online advertising networks to place advertising on the Service. Such third parties may utilize cookies or other tracking and targeting technologies. We are not responsible for information collected by third parties in this manner, nor for the collection or use of information by other sites to which the Service is linked.  You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices. The Company's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with us is maintained and dealt with by us in accordance with this privacy policy.
+When you access the Service through a service partner, we may add select aspects of your registration information (such as your email address), so that we can identify which of our service partners or other sign-in pages to send to you when you log on to the Service.</p>
+
+<p>We may also collect information about the computer, mobile or other devices you use to access and listen to the Service. For example, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Service from a mobile or other device, we may collect a unique device identifier assigned to that device or other transactional information for that device.</p>
+
+<p>Information We Receive From Third Parties</p>
+
+<p>We may receive information about you from third parties and store it in our databases with other information (including personally identifiable information) that you provide to us. Some examples of these third parties are listed below:<br><br>
+•	Service partners and advertisers that make features available through the Service;<br> 
+•	Service partners through whom we allow registered listeners to access the Service;<br> 
+•	Marketing companies that create professional marketing lists or sell other marketing data; </p>
+
+<p>The Company is not responsible for, and will assume no liability, if a business partner or other entity collects, uses or shares any information about you in violation of its own privacy policy or applicable law.</p>
+
+<p>Use of Information</p>
+
+<p>We use your personal information and non-personal information for internal purposes, such as to provide you with the Service and services, to notify you of new products or services, and to otherwise communicate with you.</p>
+
+<p>We also use the information that we collect for the following purposes:<br><br>
+•	To customize and personalize the advertising and the content you see and hear. <br>
+•	To enhance the listener experience in our network of websites and broadcasts. We use tracking information to determine how well each page and station performs overall based on aggregate listener demographics and traffic patterns to those pages and stations. This helps us continue to build a better service for you. <br>
+•	To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in and renew paid services, polls, contests, and message boards. <br>
+•	To send you information that you agreed to receive about topics that we think will be of interest to you. <br>
+•	To alert you to the latest developments and features on our Service. </p>
+
+<p>Sharing Information; Your Consent to Sharing</p>
+
+<p>We may rent, sell, and share your personal information and non-personal information with our network partners and third-party affiliates for the purposes of direct mail, email marketing, mobile marketing, and telemarketing.  Additionally, we may share such personal information with the broadcaster to whose station you listen.</p>
+
+<p>By clicking "Submit" and providing personal information on or through the Service or other sites we own, operate, or control, you agree:<br><br>
+•	all information you have provided is true and correct to the best of your knowledge;<br>
+•	you are establishing a business relationship with Company and with its marketing partners; and<br>
+•	you are requesting and expressly consenting to be contacted via telephone (whether wireless or wired), including by live or prerecorded, calls using an automated dialing system, email, and/or mail by us, our network partners, and third-party affiliates and marketing partners regardless of whether your telephone number is on any Do Not Call list(s)<br>
+•	From time to time, we may establish a business relationship with other businesses and third-party marketing partners whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers and third-party marketing partners to provide certain services, such as hosting and maintenance, customer relationship management, data storage and management, and direct marketing campaigns. We provide our Service Providers and/or third-party marketing partners with the information necessary for them to perform these services on our behalf. Each Service Provider and/or third-party marketing partner must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use or disclosure. If you would like more information about our data sharing policy and practices and to know your choices about not having information about you used by us or these other companies, <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>. </p>
+
+<p>We may work with third-party marketing and advertising companies ("Ad Networks"). These companies may collect and use information about your use of the Service or services in order to provide advertisements about goods and services that may be of interest to you. Advertisements may be shown via the Service, the services, or third-party sites. These companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons. Our Privacy Policy does not cover any use of information that an Ad Network may collect from you. It also does not cover any information that you may choose to provide to an Ad Network or to an advertiser whose goods or services are advertised through the Service. For more information about ad cookies, and to "opt-out" of the collection of information by some companies that allow you to do so, please <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.</p>
+
+<p>We may share personal information and non-personal information with businesses controlling, controlled by, or under common control with Company. If Company is merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer personal information and non-personal information in connection with such transaction.
+Company cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose personal information and non-personal information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of Company or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.</p>
+
+<p>Mobile Services</p>
+
+<p>Any information we obtain from you in connection with any mobile service, including SMS services, may include your name, address, mobile phone number, your mobile service provider's name, and the date, time, and content of your messages. In addition to any fee we may charge, your mobile service provider's standard messaging rates apply to our confirmation and all subsequent SMS correspondence. All charges are billed by and payable to your mobile service provider. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. You may opt out of mobile services via email to complaint@radioloyalty.com or by sending "STOP", "END", "QUIT" to the SMS text message you have received. However, such opting out will not apply to any communications from our other website offerings you have registered for or our network partners or other third parties to whom we may have already provided your information.</p>
+
+<p>Children's Privacy</p>
+
+<p>We do not knowingly collect personal information from children under the age of 13.  If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.</p>
+
+<p>Safeguarding Your Information</p>
+
+<p>We endeavor to safeguard and protect our users' information. We utilize electronic and physical security to reduce the risk of improper access to or manipulation of the information you submit during transmission and storage, but cannot and do not guarantee the security or integrity of the information. We shall have no liability for breaches of security or integrity or third-party interception in transit. Please be advised that any transmission of data at or through the Service is at your own risk.</p>
+
+<p>External Links</p>
+<p>The Service may contain links to other sites, or allow others to send you such links. A link to a third party's site does not mean that we endorse it or that we are affiliated with it. We do not exercise control over third-party sites. You access such third-party sites or content at your own risk. You should always read the privacy policy of a third-party site before providing any information to the site.</p>
+
+<p>Opting Out</p>
+<p>You may opt out from receiving future offers in connection with the Service by following the instructions contained within each marketing communication or by emailing us at complaint@radioloyalty.com. However, such opting out will not apply to any communications from our other website offerings you have registered for or our network partners or other third parties to whom we may have already provided your information. Those third parties' use of your information is subject to such parties' own privacy policies and opt out procedures, for which we shall not be responsible.</p>
+
+<p>Contacting Us</p>
+<p>If you have any questions or concerns about this Privacy Policy or our privacy practices, you may write to us at:
+RadioLoyalty™ Privacy Administration Dept., 345 Chapala Street Santa Barbara, CA 93101</p>
+
+<p>Please provide complete information to facilitate your request, as well as your complete contact information. </p>
+
+<p>Privacy Policy Changes</p>
+<p>From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Service. Those changes will go into effect on the revision date shown in the revised Privacy Policy. Your continued use of our Service or services constitutes your consent to be bound by the revised Privacy Policy.</p>
 
 </div>
 
 
 </div><!-- bgrnd-bottom !-->
-
+<div style="width: 1000px; margin: 0 auto; padding: 0 27px;">
 <div class="footer">
   <div class="footer-station">
 
@@ -223,12 +267,14 @@
     	Follow us 
         <a href="http://twitter.com/radioloyalty" target="_blank">Twitter</a>
         <a href="http://www.facebook.com/RadioLoyalty" target="_blank">Facebook</a>
+        <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FRadioLoyalty&amp;layout=button_count&amp;show_faces=true&amp;width=93&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:93px; height:21px; margin-top: 3px; margin-bottom: 8px;" allowtransparency="true"></iframe>
+        
+        <g:plusone></g:plusone>
     </div>
     
-    
+   
     <div class="twitter-bgrnd"> 
     	<a href="http://twitter.com/radioloyalty" target="_blank" style="font-weight: bold; font-style: italic; font-size: 12px; color: #BCBBBA; margin-left: 10px; text-align: left;">The latest tweets @radioloyalty</a> 
-        
 		<script src="http://widgets.twimg.com/j/2/widget.js"></script>
         <script>
         new TWTR.Widget({
@@ -259,34 +305,27 @@
         behavior: 'all'
         }
         }).render().setUser('radioloyalty').start();
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21408920-1']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
         </script>
         
     </div>
-   
+ 
    </div>
 
 </div>
-
-<!-- Begin comScore Tag -->
-<script src="http://b.scorecardresearch.com/beacon.js"></script>
-
-<script>
-  COMSCORE.beacon({
-    c1:2,
-    c2:6165586,
-    c3:"",
-    c4:"",
-    c5:"",
-    c6:"",
-    c15:""
-  });
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6165586&c3=&c4=&c5=&c6=&c15=&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
-
 </div>
+
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script></div>
 
 
 
