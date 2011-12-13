@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aimini.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518155831id_/http%3A//www.aimini.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimini.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213040416id_/http%3A//aimini.com/privacypolicy.html) for the most accurate reproduction.*
 
-# aimini P2P software: Build Your Own P2P Sharing World! - Privacy Policy
+# aimini: Unlimited Direct Connect - Privacy Policy
 
 Privacy Policy
 
