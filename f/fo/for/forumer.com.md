@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forumer.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424225305id_/http%3A//www.forumer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumer.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213014048id_/http%3A//www.forumer.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Forumer
+# Forumer Privacy Policy
 
 ## Forumer.com Privacy Policy
 
@@ -11,6 +11,8 @@ We collect only the domain name, but not the e-mail address of visitors to our W
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor and .
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site .
+
+Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or hashed (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to http://www.privacychoice.org/choose.
 
 If you do not want to receive e-mail from us in the future, please let us know by or we do not send newsletters.
 
