@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveltura.co.uk privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606081830id_/http%3A//www.traveltura.com/Info/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltura.co.uk privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213043429id_/http%3A//www.traveltura.com/Info/Privacy.htm) for the most accurate reproduction.*
 
 # Traveltura Privacy Policy - TravelTura
 
