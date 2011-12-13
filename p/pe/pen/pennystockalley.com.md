@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennystockalley.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625123257id_/http%3A//www.pennystockalley.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennystockalley.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213225949id_/http%3A//pennystockalley.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.pennystockalley.com
 
