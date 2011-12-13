@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210161522id_/http%3A//www.agaccess.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaccess.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213233005id_/http%3A//www.agaccess.com/privacy-statement.html) for the most accurate reproduction.*
 
-# Online Business Directory AgAccess - - Privacy Statement
+# AgAccess DoFollow Link Directory - Privacy Statement
 
 This document was last updated on 26/08/2009.
 
