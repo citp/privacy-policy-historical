@@ -1,96 +1,122 @@
-> *The following text is extracted and transformed from the keystoneresort.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522154049id_/http%3A//www.keystoneresort.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keystoneresort.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213143444id_/http%3A//www.keystoneresort.com/privacy.aspx) for the most accurate reproduction.*
 
 # Keystone Resort's Privacy Policy | KeystoneResort.com
 
-The Vail Corporation and its subsidiary companies ("VRMC") are committed to protecting the personal privacy of visitors and guests using its Internet sites.
+**Vail Resorts Online Privacy Policy  
+**   
+Vail Resorts Management Company and other members of the Vail Resorts family of businesses (together, “Vail Resorts,”) know that you care how information about you is collected and used. We take great pride in the relationships we have developed with our guests and we are committed to treating personal information we obtain from you with care and respect. This Online Privacy Policy (the “Privacy Policy” or “Policy”) is designed to inform you about our privacy policies and practices. This Policy is part of the Terms of Use published on our Sites. Click here to review the [Terms of Use](http://www.snow.com/termsandconditions.aspx).
 
-VRMC's privacy policy aims to accomplish three basic goals:  
-        VRMC will not release personally identifiable information without consent.   
-        VRMC will allow the user to control certain aspects of the information voluntarily submitted.   
-        VRMC encourages its site users to communicate privacy concerns and VRMC will respond to such concerns.   
-**  
-Coverage**
+ ** _Scope of the Policy_**
 
-This privacy policy applies to VRMC owned and operated sites.
+The Policy applies to the personal information we collect when you visit any Vail Resorts’ web site where the Policy is posted (our “Sites”). When we use the term “personal information,” we mean information that identifies a particular individual, such as the individual’s name, postal address, e-mail addresses, and telephone number. When other information (such as consumer preferences or demographic information) is directly associated with personal information, this other information is treated as personal information.
 
-**Definitions of Types of Information**
+ ** _Consent to the Policy_**
 
-Personally identifiable information is information or other data that may specifically identify an individual user. In order for you to access certain services and to purchase services that we offer via the Sites, we require you to provide us with such Personal Information. Personal Information may include: (i) Contact Data (such as your name, mailing and e-mail addresses); (ii) Financial Data (such as your account or credit card number); and (iii) Demographic Data (such as your zip code, age and income). If you communicate with us by e-mail or otherwise complete online forms, surveys or contest entries, any information provided in such communication may be collected as Personal Information.
+By visiting any of our Sites, you agree to the collection, use and disclosure of your personal information as described in this Policy. If you do not consent to the collection, use and disclosure of your personal information as described in this Policy, you should not use our Sites.
 
-Traffic Data shall not be considered personally identifiable information or Personal Information. Traffic Data is information on a user's patterns of access and usage of the sites. We automatically track and collect the following information when you visit our Site, including your: (i) IP address; (ii) domain server; (iii) type of computer; and (iv) type of web browser. Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the Site. We also use "cookies" to as a method to gain dependable and consistant Traffic Data. "Cookies" are anonymous and do not personally identify you.
+ ** _Personal Information We Collect and How We Use It_**
 
-**Collection and Use of Personally Identifiable Information**
+We collect the following types of personal information through our Sites:
 
-Registration
+ ** _Information You Actively Provide._**  
+We collect the personal information you actively provide when you use one of our Sites.We use the personal information you provide to deliver the programs, products and services that you request, or to process purchases or reservations you have made on our Sites. For example, we use the information you provide when you make a reservation to reserve the type of room you requested at the hotel or resort you selected. If you join the PEAKS loyalty program or one of our other loyalty programs, we use your personal information to administer the program. Information you provide to us on our Sites will be stored in an online profile we create for you, to enable us to better meet your needs and understand your preferences.
 
-A user may access and utilize the vast majority of VRMC site functionality without transmitting any Personal Information. In order to access certain other functionality, VRMC may request the user provide personally identifiable information. At no time is the user under any obligation to provide Personal Information. If the user does not wish to access such functionality, the user should not transmit the personally identifiable information.
+Depending on your privacy preferences, we may use your personal information to send you promotional messages and special offers. We also use your personal information for security and fraud prevention purposes; to better understand our guests; to improve our programs, services, and Sites; and to better market and advertise our programs and services.
 
-During the registration process VRMC shall require the user to complete certain data fields. Some fields may be optional. VRMC shall request contact information and shall utilize such information in the following manner:
+At some of our Sites, you can submit information about other people. For example, if you order a gift, gift card, or gift certificate online and want to send it directly to the recipient, you must submit the recipient’s name and address.We use this information only to send your gift or provide the service requested. We will not add that person’s information to our mailing lists.
 
-> · to send communications regarding the Vail Resorts.   
-> · to share user information with specific strategic partners, if and only if authorized to do so by the user. 
+We may combine information you have provided to us on our Sites with information you have provided to us offline, and we may store this information together in your online profile. For example, we may combine data automatically collected when you use your season ski pass at one of our resorts or data you provide to us when you stay at one of our hotels with your online profile. This enables us to better understand and meet your needs when you visit our resorts or other properties.
 
-If you indicate to us that you do not want to receive certain types of communications at the time of registration, we will respect your wishes, and comply with your preferences. If you already are a registered user and would like to review or change the choices you have made, you may email us at [comments@vailresorts.com](mailto:comments@vailresorts.com) for assistance.
+ ** _Information Provided by Others._**  
+From time to time, we may supplement the information you give us with information from third parties. For example, we may supplement your profile with demographic and preference data or we may correct mailing addresses by using public sources. By supplementing your profile, we are better able to provide product recommendations and special offers that will be of genuine interest to you. We may also use this information to further personalize our Sites and improve your experience while you are on our Sites.
 
-Contests, Etc.
+ ** _Information Sent to Us by Your Web Browser.  
+_** We collect information that is automatically sent to us by your web browser. This information typically includes your IP address; the name and version of your operating system; the name and version of your browser; the page you were visiting before you accessed our Site; and the date and time of your visit. The information we receive depends on the settings of your browser. Please check your browser if you want to learn what information your browser sends or how to change your settings. Generally, we use this information to create statistics that help us improve our Sites and make them more compatible with the technology used by our visitors. This information is also used for marketing purposes and to improve your experience on the Sites.
 
-From time to time, we may run contests on our site in which we ask participants for contact information, such as their e-mail address(es). If you participate in contests, your contact information will be used primarily to reach you in connection with the contests. We may also use the collected contact information to send you information about Vail Resorts, our services, as well as offers tailored to your interests by our corporate partners, if you have opted to receive these communications. You may choose to opt-out of receiving such mailings at the time of registration for the contest, or afterwards, by emailing us at [comments@vailresorts.com](mailto:comments@vailresorts.com).
+We may collect IP addresses for purposes of system administration, to report traffic data to our corporate partners, and to audit the use of our Sites. Although the information provided by your browser does not identify you personally, this data can be combined with other data to personally identify you. 
 
-**Sharing Personally Identifiable Information with Third Parties**
+**_Cookies.  
+_** We also use "cookies" as a method to gain dependable and consistent traffic data. A "cookie" is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help us provide customizable services and to allow you to sign-in to our Sites. Cookies may also be used by Vail corporate partners on co-branded Web pages. You can choose whether to accept cookies by changing the settings of your browser. If you choose not to accept these cookies, your experience at our Sites and other Web sites may be diminished and some features will not work as intended. 
 
-In order to optimize and improve the online experience for our guests, we may share your Personal Information with carefully selected companies with whom we have relationships. However, we will not share your personally identifiable information unless you have given us your consent to do so, as in our registration forms. If you have previously opted-in, but now wish to remove yourself from these mailing lists, you may send email directly to us by emailing [comments@vailresorts.com](mailto:comments@vailresorts.com). We will modify your preference accordingly. Our partners who receive information from us have the right to use the data we provide them (sometimes, in connection with other information they may have gathered about you).
+**_Advertising Servers._**  
+We may hire other companies to place our banner ads on other websites. Those companies may perform tracking and reporting activities on the ads they serve for us, as well as user reaction. They would not collect any information other than IP addresses and behaviors associated with those IP addresses on our behalf, and we will not give any personal information to them. Third-party advertising servers are subject to their own privacy policies. Our service providers are bound by contract to keep your personal information confidential and use it only to perform services on our behalf. 
 
-**PLEASE NOTE:**
+**_Disclosure of Your Personal Information_**
 
-In certain special cases, we may disclose your personally identifiable information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you, or otherwise injuring or interfering with VRMC's rights, property or operations, other VRMC site users, or anyone else who could be harmed by such activities. We may also disclose your personally identifiable information when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case, administrative investigation or investigation conducted by VRMC. We shall have no obligation to inform you of our compliance with the law, including without limitation a response to a law enforcement request or a valid subpoena.
+Vail Resorts does not sell your personal information to outside marketers or advertisers. Under limited circumstances we may disclose the personal information we collect with outside parties for specific purposes. Those circumstances are described below along with some of the steps we take to limit the manner in which your personal information is used. 
 
-**Traffic Data**
+**_With Service Providers._**  
+We may share your information with companies that provide support services to us (such as credit card processors, mailing houses, web hosts, or providers of online reservation services) or that help us market our products and services (such as email vendors). These companies may need information about you in order to perform their functions. These companies are only authorized to use the personal information we share with them for the purpose of delivering the service we hire them to provide. In addition, we only disclose the information they need to provide the specific service or function. We will not sell your personal information to third party marketing or advertising firms.
 
-When you use our site, we collect Traffic Data, even if you have not registered with VRMC. We use this information to personalize your experience at all the sites that VRMC operates and generally to improve our services. We share this Traffic Data with selected corporate partners.
+ ** _With Other Companies in the Vail Family of Businesses._**  
+Personal information collected on any of the Sites may be shared with other members of the Vail Resorts family of businesses, including current or future parents, affiliates, subsidiaries, and entities sharing common ownership with Vail Resorts. All of the Vail Resorts entities are bound to this Privacy Policy.
 
-**Cookies - How They Are Used:**
+ ** _Partner Promotions_**  
+We may occasionally feature web pages on which you can register for special promotions or services provided in conjunction with our business partners. When we feature pages like these on our Sites, we will give you a clear notice that you are providing information to another party. We may also arrange to send you marketing and promotional information of other reputable companies that we think might be of interest to you, only if you tell us that you want to receive these sorts of materials. We do not share your personal information with these companies.
 
-A "cookie" is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies do not damage your system or impair its functioning in any way. We use cookies to help us provide customizable services and to allow you to sign-in to our site. Cookies may also be used by VRMC corporate partners on co-branded Web pages, as explained below in "third party relationships," so please be aware of this as you visit these Web pages.
+ ** _In Connection with Corporate Events._**  
+If some or all of the business assets of one of our ompanies or Sites are sold or transferred, we generally would transfer the corresponding information regarding our guests and customers to the acquiring business so that they can continue to operate the business, but your information would remain subject to this Policy.
 
-You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features will not work as intended.
+ ** _In Special Circumstances._**  
+In certain special cases, we may disclose your personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you, Vail Resorts or someone else. We may also disclose your personal information when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case, administrative investigation or investigation conducted by Vail Resorts.
 
-**Children/Family Filter**
+ ** _Links to Third-Party Websites_**
 
-VRMC is concerned about protecting the safety of the children who use our site. The VRMC sites - sites directed to a broad, general audience - comply with the terms of the Children's Online Privacy Protection Act. As such, we will not knowingly collect personally identifiable information on users under the age of 13,without the consent of a parent to do so. Parents have the ability to control what, if any, Personal Information about their child may be disclosed to third parties, by regulating the actions and behavior of their children using the internet.
+Our Sites contain direct links to sites offered by third parties. Some of these sites are authorized to use the Vail Resorts’ brands or logos. Those third-party sites are not covered by this Privacy Policy.
 
-**Use of IP Addresses**
+Some of the Sites may give you the option of sharing your thoughts, personal information, or skiing and snowboarding experiences automatically on their platforms. If you choose to share information with a third-party site such as Twitter or Facebook, the information you choose to share on those sites is not subject to this Privacy Policy. You should review the privacy policies of those websites to make an informed decision about whether to share your information on those sites. Further, you should review your account settings on those sites to ensure that you are comfortable sharing your information with the audience chosen in that account.
 
-An Internet protocol (IP) address is a set of numbers that is automatically assigned to your computer whenever you log on to your internet service provider or through your company's local area network (LAN) or wide area network (WAN). Web servers - the powerful computers that provide web pages for viewing - automatically identify your computer by the IP address assigned to it during your session online.
+ ** _Epic Mix™ and Location Information_**
 
-VRMC may collect IP addresses for purposes of system administration, to report user Traffic Data to our corporate partners (as explained above), and to audit the use of our site. We do not ordinarily link a user's IP address to the Personal Information of that user, which means each user's session will be logged, but the user remains anonymous to us. However, we can and will use IP addresses to identify users of our site when we feel it is necessary to enforce compliance with our site's Terms and Conditions of Use or terms of service, or to protect our service, site, or other users.
+From time to time, we may use technology that provides us with information about your geographic location (“location information”). For example, when you ride a chairlift of one of our resorts, we scan or read your ski pass. We read passes through the use of handheld scanners or passive radio frequency readers mounted on or near our chairlifts. This information helps us monitor use of the lifts and tells us when you ride one of our chairlifts. When we collect location data about our guests offline, we may combine that information with personal information that we collect online and use the information to better understand our guests or to provide you with information or services. When you open an Epic Mix account, for example, we will combine your ski pass scan data with the information you provide to us through that account. Location Information collected and combined in that manner is subject to this Policy.
 
-**PLEASE NOTE:** Under certain circumstances, IP addresses and/or domain names may be linked to personally identifiable information, when said information is stored in databases managed by Internet registrars or registries such as Network Solutions.
+For more information about Epic Mix and and customer privacy, visit [these FAQs](http://www.snow.com/epicmix/faq/home.aspx).
 
-**Third-Party Relationships**
+ ** _Children’s Privacy_**
 
-In order to optimize your experience on our sites, VRMC maintains relationships with many corporate partners and service providers throughout the world. If you have any questions about whether certain information, content or services pertain to us, or are provided by one of our partners, please contact us at [comments@vailresorts.com](mailto:comments@vailresorts.com).
+We will not knowingly collect personal information on our Sites from children under the age of 13 without the prior consent of the child’s parent or guardian. If you believe that a child under the age of 13 may have provided personal information to us without consent of the child’s parent or guardian, please contact us at [comments@vailresorts.com ](mailto:comments@vailresorts.com)
 
-Whenever you provide registration information on certain Web pages or for certain services provided in conjunction with third party partners, we want to be clear that some data you provide is shared with partners. For instance, certain information is shared with WorldRes.com, our provider of online reservation service. You should make every effort to read the privacy policies provided by or in association with such third parties, and make an informed decision on your own whether or not to continue utilizing the services based upon the privacy policies posted on these Web pages, at your own discretion. However, we will make every effort to ensure that you have the ability to opt-out of the sharing of such data with partners. You may email us directly at [comments@vailresorts.com](mailto:comments@vailresorts.com) and we will forward your request to the appropriate company, and help you follow up to ensure that your concerns are adequately handled.
+**_Children and Epic Mix  
+_** Children under age 13 may not open their own Epic Mix account. We do, however, allow the parent of a child under the age of 13 to create an Epic Mix account for their child. Parents who create Epic Mix accounts for their child agree to allow their child to use Epic Mix and understand that we will maintain the child’s information and combine it with information collected off line, such as the child’s chair lift rides. Children’s Epic Mix accounts have restricted privacy features. Children under age 13 will not be able to link to third party sites, such as Facebook and Twitter, and Epic Mix information in that child’s account is only viewable by the child and his or her family.
 
-In addition to finding these Web pages, you will find direct links on VRMC to the sites offered by third parties. Some of these sites are authorized to use the Vail Resorts brands and/or logos. VRMC carefully evaluates all parties that are authorized to use its brands and/or logos, and believes that all such sites have adopted acceptable privacy policies. Again, you should read these third party privacy policies, and make an informed decision on your own as to whether or not to continue based upon these sites' privacy practices, at your own discretion. No third-party sites are covered by this Privacy Policy.
+ ** _Your Choices_**
 
-**VERY IMPORTANT:** If you feel that a site using the VRMC brands and/or logos has not posted an acceptable privacy policy, or is not following the privacy policy it has posted, please send us an email at [comments@vailresorts.com](mailto:comments@vailresorts.com). If appropriate, we may forward complaints to the appropriate third parties and help you follow up to ensure that your concerns are adequately handled. Of course, if any of these third party companies does not have a privacy policy that is acceptable to you, you should refrain from providing information until your concerns have been satisfactorily addressed.
+ ** _Opt-Out of Receiving Future Communications_  
+** Our Sites give you the option of not receiving future communications from us by sending an email to [comments@vailresorts.com](mailto:comments@vailresorts.com)
 
-**Security**
+ ** _Review and Update Your Information_  
+** You may also review or update your personal information collected by this Site or correct factual inaccuracies by emailing [comments@vailresorts.com](mailto:comments@vailresorts.com)
 
-VRMC operates secure data networks protected by industry standard firewall and password protection. VRMC has security measures in place to attempt to protect against the loss, misuse and alteration of your user data under our control. While we cannot guarantee that loss, misuse or alteration to data will not occur, we make every reasonable effort to prevent such unfortunate occurrences.
+If you have a PEAKS account, you can manage your information and preferences by logging into your account at [www.snow.com/myaccount](http://www.snow.com/myaccount)
 
-You must promptly notify us if your credit card, pass product with ResortCharge, user name or password is lost, stolen or used without permission. In such an event, we will cancel that credit card number, pass product, user name or password and update our records accordingly.
+If you have an Epic Mix account, you can manage your information and preferences by logging into your account at [www.epicmix.com](http://www.epicmix.com/)
 
-**Contacting Us**
+ ** _How We Protect Your Information_**
 
-If you have questions about this privacy policy or the practices of this site, please contact:
+Vail Resorts has appropriate physical, technological, and organizational safeguards and security measures in place to attempt to protect against the loss, misuse, unauthorized access or disclosure of your personal information under our control. However, it is important that you understand that no website or database is completely secure, or “hacker proof.” You can help us by protecting and keeping your passwords safe at all times. You can protect yourself and help us prevent computer crime by promptly notifying us if you suspect that your credit card, pass product with Resort Charge, user name or password is lost, stolen or used without permission. Also, you can reduce many risks by using up to date antivirus software.
 
-Office of the General Counsel  
-Vail Resorts, Inc.  
-Box 7, Legal 88  
-Vail, CO 81658
+ ** _Changes to the Policy_**
 
-You can send email to [comments@vailresorts.com](mailto:comments@vailresorts.com).
+We may change this Policy from time to time, by posting the revised Policy on our Sites. The changes will only apply to the personal information we collect after we have posted the revised Policy.
 
-VRMC reserves the right to change this Privacy Policy at any time. All changes will be posted to this page, and we will use commercially reasonable efforts to notify you of any significant changes to this privacy policy. However, it is your responsibility to check this site for any such updates as you will be bound by them should you choose to visit our sites.
+We will attempt to notify you of any significant changes to this Policy by sending an email notice. However, it is your responsibility to check this Site for updates as you will be bound by them if you choose to visit our Sites. 
+
+**_Visitors Who Access Our Sites From Outside the United States_**
+
+Our Sites and databases may be hosted on Web servers located in the United States or other countries. We share the personal information we collect with our third-party service providers, and others around the world as described in this Policy. When we transfer your personal information to another country, we will take appropriate measures to protect your privacy and personal information. By using one of our Sites, you are consenting to the transfer of your personal information to any country in the world in accordance with this Policy.
+
+The Sites are U.S. Sites and are governed by U.S. law. If you do not wish to consent to U.S. law or this Policy, you should not share information with us or use our Sites. 
+
+**_Contact Us_**
+
+If you have questions about this Privacy Policy or the practices of our Sites, please contact:
+
+The Vail Corporation dba Vail Resorts Management Company  
+390 Interlocken Crescent, Suite 1000  
+Broomfield, CO 80026  
+1-800-842-8062  
+[comments@vailresorts.com](mailto:comments@vailresorts.com?subject=Contact%20Us%20via%20Privacy%20Policy)
+
+ ** _Effective Date of this Privacy Policy_**
+
+This Privacy Policy was updated on October 4, 2010, and is effective as of that date.
