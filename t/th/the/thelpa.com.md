@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelpa.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324180900id_/http%3A//www.thelpa.com/lpa/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelpa.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213161342id_/http%3A//www.thelpa.com/lpa/privacy.html) for the most accurate reproduction.*
 
 # Secure Site & Privacy Policy
 
