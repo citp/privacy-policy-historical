@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609095552id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solareworld.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213092319id_/http%3A//www.solareworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solar Energy World
 
