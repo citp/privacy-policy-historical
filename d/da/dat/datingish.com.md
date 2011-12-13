@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the datingish.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615194829id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingish.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213203823id_/http%3A//help.xanga.com/about/privacypolicy.htm) for the most accurate reproduction.*
 
 # About Xanga » Privacy Policy
 
-Effective: April 21, 2009
+Effective: August 25, 2011
 
 **XANGA PRIVACY POLICY**
 
-This website is part of the Xanga service (”Xanga” or “the Xanga Network”) - a network of blogging and social networking communities, including Xanga.com, Momaroo.com, Revelife.com, Datingish.com and Hoodstars.com. Now, when you register at any one of these communities, you gain access to all the communities. This will allow you to create, share, and view content across all the communities. This policy, as well as the Xanga Terms of Use, apply to all of Xanga’s communities.
+This website is part of the Xanga service (”Xanga” or “the Xanga Network”) - a network of blogging and social networking communities, including Xanga.com, Lovelyish.com, Momaroo.com and others. When you register at any one of these communities, you gain access to all the communities. This will allow you to create, share, and view content across all the communities. This policy, as well as the Xanga Terms of Use, apply to all of Xanga’s communities.
 
-Xanga exists to promote sharing and community. But when you share any information through a service like Xanga, it’s important to remember that you are potentially sharing it with the entire world. The information you submit to Xanga may be accessible to anyone who visits your Xanga site (including people who are not registered Xanga users), or through search engines, mobile devices, and a variety of other devices and services. It may also be copied and redistributed by anyone who has access to it. As a result, to help you make your Xanga experience more safe and fun, please read the safety tips on our Xanga Safety site at [http://safety.xanga.com](http://safety.xanga.com/).
+Xanga exists to promote sharing and community. But when you share any information through a service like Xanga, it’s important to remember that you are potentially sharing it with the entire world. The information you submit to Xanga may be accessible to anyone who visits your Xanga site (including people who are not registered Xanga users), or through search engines, mobile devices, and a variety of other devices and services. It may also be copied and redistributed by anyone who has access to it. As a result, to help you make your Xanga experience more safe and fun, please read the safety tips on our Xanga Safety area at <http://help.xanga.com/about/safety/xanga-safety-features/>.
 
 Also, visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for social networking safety tips for [parents](http://www.onguardonline.gov/socialnetworking.html) and [youth](http://www.onguardonline.gov/socialnetworking_youth.html).
 
@@ -42,7 +42,7 @@ We take your privacy seriously and so should you. Xanga has many features design
     * Third Party Search Engines & Syndication Feed Readers
     * Third Party Advertisers
     * Third Party Trackers and Scripts
-    * Xanga Mobile
+    * Xanga Mobile from Intercasting Corporation
   * **[Confidentiality& Security](http://help.xanga.com/about/privacy-policy/#confidentiality)**
   * **[Changes to this Privacy Policy](http://help.xanga.com/about/privacy-policy/#changes)**
   * **[Non-US Residents](http://help.xanga.com/about/privacy-policy/#nonus)**
@@ -91,6 +91,16 @@ Xanga provides features designed to give you control over comments posted to you
 
   * _Comments on Your Own Xanga Site_ – Xanga gives you the ability to _delete_ comments left on your own Xanga site. For certain comment features, you also have the ability to control who (if anyone) can submit comments to your site. For more information on controls for comments, please visit our Comments FAQ at <http://help.xanga.com/forum/comments>.
   * _Comments not on Your Own Xanga Site_ \- if you post a comment anywhere other than your own Xanga site, you may have _limited control_ over that comment - you can edit your comments for 15 minutes after submitting. And if you are still not satisfied, you can ALWAYS delete your comment and post a new one. But remember: any comments you leave on another’s site may be copied and posted elsewhere by anyone who has access to it - so think before you submit!
+
+
+
+_Using Third-Party Sign-In Services for Commenting_
+
+Xanga allows individuals to sign in through selected third-party sign-in services (e.g. Facebook or Twitter), without registering for a Xanga account, for the purpose of commenting on Xanga sites. If you sign in to comment on Xanga sites using these selected third-party sign-in services, Xanga collects the following information from your third-party account:
+
+  * _User ID_ – a unique identifier for your third-party account; not publicly displayed on Xanga unless it is the same as your Display Name
+  * _Display Name_ – the display name associated with your third-party account; this Display Name, linked to your third-party account, appears along with the comments you leave on Xanga
+  * _Profile Picture_ – the profile picture associated with your third-party account; this Profile Picture, linked to your third-party account, appears along with the comments you leave on Xanga.
 
 
 
@@ -280,6 +290,8 @@ Information you publish _publicly_ on Xanga is made available through a publicly
 
 **Third Party Advertisers**
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 Some third party advertisers may set and access their own cookies on your computer, collect your browser information when you view their advertisements, request information from you as part of a campaign or promotion appearing on Xanga, or request information from you on a third party website that you visit by following a linked advertisement on Xanga, etc.
 
 Most browsers come with the ability to restrict cookies from specific or unknown sources. Please review your browser’s documentation for more information.
@@ -298,7 +310,7 @@ Site Meter’s service allows you to access detailed information about who is vi
 
 Most browsers come with the ability to restrict software (scripts) or cookies from specific or unknown sources. Please review your browser’s documentation for more information.
 
-**Xanga Mobile**
+**Xanga** **Mobile  from Intercasting Corporation**
 
 In order to download the Xanga Mobile platform software to their cell phones, users need to provide their mobile phone number to Xanga’s platform software provider, [Intercasting Corporation](http://www.intercastingcorp.com/), who then sends users a link to the download. The mobile number provided to Intercasting Corporation is neither collected by nor shared with Xanga.
 
