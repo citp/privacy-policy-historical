@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cricket-365.net privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214120210id_/http%3A//www.cricket-365.net/p/disclaimer-privacy-policy_22.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket-365.net privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213110801id_/http%3A//www.cricket-365.net/p/disclaimer-privacy-policy_22.html) for the most accurate reproduction.*
 
-# DISCLAIMER & PRIVACY POLICY | Cricket-365
+# Cricket Highlights, Live cricket Streaming Free Online | India vs West Indies Live: DISCLAIMER & PRIVACY POLICY
 
 **DISCLAIMER & PRIVACY POLICY**
 
