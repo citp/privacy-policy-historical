@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214042044id_/http%3A//www.deewr.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.gov.au privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213060438id_/http%3A//www.deewr.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
 ### DEEWR Privacy Policy
 
-© Commonwealth of Australia 2009
+© Commonwealth of Australia 2011
 
 All personal information collected by the Department is protected by the _Privacy Act 1988_. Information on the Commonwealth _Privacy Act 1988_ can be found on the [Federal Privacy Commissioner’s web site](http://www.privacy.gov.au/).
 
@@ -35,7 +35,7 @@ In addition to this general Privacy Policy, where more detailed information is n
 
 ### Communication - emails and Electronic Forms
 
-The Department’s servers may record your email address if you send us a message online. Your email address will not be added to a mailing list, unless you have provided it to us in order to subscribe to one of our subscription services, such as the Department’s Site Change Subscription Service or the Department’s Media Subscription Service.
+The Department’s servers may record your email address if you send us a message online. Your email address will not be added to a mailing list, unless you have provided it to us in order to subscribe to one of our subscription services, such as the Department’s Site Change Subscription Service.
 
 Where you choose to send us a completed electronic form that includes your personal details, we collect personally identifiable information, such as name, address and email address.
 
