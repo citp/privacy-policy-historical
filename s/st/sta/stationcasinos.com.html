@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stationcasinos.com privacy policy that was archived on 2011-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625113400id_/http%3A//www.stationcasinos.com/corp/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stationcasinos.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213215155id_/http%3A//www.stationcasinos.com/corp/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://developers.facebook.com/schema/"><head>
 
@@ -149,7 +149,15 @@ $(document).ready(function() {
 </script>  
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 <!--<script type="text/javascript">  FB.init("14e5d33190c580bba3c3e15b6959bc78", "<relative path from root>/xd_receiver.htm"); </script>-->
-
+<script type="text/javascript">
+function openWindow(link) {
+      _gaq.push(function() {
+        var tracker = _gaq._getAsyncTracker();
+        window.open(tracker._getLinkerUrl(link.href));
+      });
+      return false;
+    }
+</script>
 
 </head>
 <body>
@@ -167,17 +175,16 @@ $(document).ready(function() {
               <li><a href="http://www.facebook.com/stationcasinos" target="_blank"> <img border="0" src="http://www.stationcasinos.com/images/soc-footer/sc_facebook_20x20.gif" alt="Facebook"></a></li>
              <li><a href="http://www.youtube.com/stationcasinosvegas" target="_blank"> <img border="0" src="http://www.stationcasinos.com/images/soc-footer/yt-icon.png" alt="You-tube"></a></li>
               <li><a href="http://blog.stationcasinos.com/" target="_blank"> <img border="0" src="http://www.stationcasinos.com/images/soc-footer/sc-blog-icon.png" alt="Stations Blog"></a></li>
-                <li><a href="http://www.stationcasinos.com/rss/" target="_blank"> <img border="0" src="http://www.stationcasinos.com/images/soc-footer/rss-icon.png" alt="RSS"></a></li> 
-                   <li><a href="http://www.weluvlocals.com/" target="_blank"> <img border="0" src="http://www.stationcasinos.com/images/soc-footer/wll-icon.png" alt="We Love Locals"></a></li> 
+                <li><a href="http://www.stationcasinos.com/rss/" target="_blank"> <img border="0" src="http://www.stationcasinos.com/images/soc-footer/rss-icon.png" alt="RSS"></a></li>  
             </ul>
           </div>
           <iframe id="scfb" src="http://www.facebook.com/plugins/like.php?href=http://www.stationcasinos.com&amp;layout=button_count&amp;show_faces=false&amp;width=60&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="No" frameborder="0" allowtransparency="true"></iframe>
           
           <div id="sctwitshare">
           <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-          <a href="http://twitter.com/share" class="twitter-share-button" data-text="Red Rock Resort Las Vegas Presents REVOLUTION - PARTY FOR THE PEOPLE Poolside at the Sandbar. . #redrocklive" data-count="horizontal" data-counturl="http://www.redrocklasvegas.com/live/index.php">Tweet </a> </div>
+          <a href="http://twitter.com/share" class="twitter-share-button" data-text="" data-count="horizontal" data-counturl="http://www.redrocklasvegas.com/live/index.php">Tweet </a> </div>
 
-          <div id="schashtag"> <span class="schashtitle">#RedRockLive</span>
+          <div id="schashtag"> <span class="schashtitle"></span>
             <div class="schashtagpop">
               <div class="schashtagmenu"> 
               	<span class="schashtagheading">Accounts</span>
@@ -185,7 +192,7 @@ $(document).ready(function() {
                     <a href="http://twitter.com/#!/weluvlocals">@weluvlocals</a>
                     <a href="http://twitter.com/#!/nlstation">@nlstation</a>
               	<span class="schashtagheading">Hashtag</span>
-
+					<a href="http://search.twitter.com/search?q=%23lvblast">#lvblast</a>
                 	<a href="http://search.twitter.com/search?q=%23redrocklive">#redrocklive</a>
                     <a href="http://search.twitter.com/search?q=%23weluvlocals">#weluvlocals</a>
                
@@ -200,8 +207,7 @@ $(document).ready(function() {
         <script type="text/javascript">
 						new TWTR.Widget({
              version: 2,
-             type: 'search',
-              search: 'from:stationcasinos',
+             type: 'profile',
              interval: 8000,
              width: 500,
              height: 50,
@@ -226,7 +232,7 @@ $(document).ready(function() {
               toptweets: true,
               behavior: 'default'
              }
-            }).render().start();
+            }).render().setUser('stationcasinos').start();
             </script>
         </div> 
         <!-- end sctwit -->
@@ -236,18 +242,12 @@ $(document).ready(function() {
             //stick the footer at the bottom of the page if we're on an iPad/iPhone due to viewport/page bugs in mobile webkit
 if(navigator.platform == 'iPad' || navigator.platform == 'iPhone' || navigator.platform == 'iPod')
 {
-	 $(" body>div#footer").css( "position", "static" );
-};
-    </script>  <script>
-            //stick the footer at the bottom of the page if we're on an iPad/iPhone due to viewport/page bugs in mobile webkit
-if(navigator.platform == 'iPad' || navigator.platform == 'iPhone' || navigator.platform == 'iPod')
-{
-	 $(" body>div#socialfooter").css( "position", "static" );
+	 	 $(" body>div#socialfooter").css( "display", "none" );
 };
     </script> 
 <iframe src="http://img-cdn.mediaplex.com/0/15726/universal.html?page_name=stci_viewthroughs&amp;stci_view=1&amp;mpuid=" height="1" width="1" frameborder="0"></iframe>
 <a name="top"></a>
-
+<div id="outer">
 <div id="outercontainer">
 <div id="printheader"><img src="http://www.stationcasinos.com/images/logos/stci-black.gif" alt="Station Casinos - Las Vegas" width="180" height="51">
 <div id="printaddress">Station Casinos, Inc.<br>1505 South Pavilion Center Dr.<br>Las Vegas, NV 89135<br>Tel: 702.495.3000 <br>Toll free: 1(800)6-STATIONS</div></div>
@@ -255,7 +255,7 @@ if(navigator.platform == 'iPad' || navigator.platform == 'iPhone' || navigator.p
     
     <table cellpadding="0" cellspacing="0" border="0" align="left">											
 			<tbody><tr>
-				<td width="180" height="54"><a href="https://www.mystation.com" target="_blank"><img src="http://www.stationcasinos.com/images/style/mystation_corner.png" width="180" height="54" border="0" alt="MyStation" title="MyStation" align="left"></a></td>												
+				<td width="180" height="54"><a href="https://www.mystation.com" target="_blank"><img src="http://www.stationcasinos.com/images/style/mystation_corner_corp.png" width="180" height="54" border="0" alt="MyStation" title="MyStation" align="left"></a></td>												
 				<td width="92" height="54"><a href="https://www.mystation.com" target="_blank"><img src="http://www.stationcasinos.com/images/style/login-curve.gif" width="92" height="54" border="0" alt="Login" title="Login" align="left"></a></td>
 					  
 			</tr>
@@ -279,7 +279,7 @@ if(navigator.platform == 'iPad' || navigator.platform == 'iPhone' || navigator.p
 		</table>
         </form>-->
 	</div>
-	<div id="headercenter"><a href="http://www.stationcasinos.com/index.php" title="Station Casinos Home Page"><img src="http://www.stationcasinos.com/images/sc-logo.gif" width="216" height="54" border="0" alt="Station Casinos" title="Station Casinos"></a></div>
+	<div id="headercenter"><a href="http://www.stationcasinos.com/index.php" title="Station Casinos Home Page"><img src="http://www.stationcasinos.com/images/sc-logo2.png" width="216" height="54" border="0" alt="Station Casinos" title="Station Casinos"></a></div>
 	<div id="headerright"><a href="http://www.stationcasinos.com/promos/email/" onclick="javascript:urchinTracker('/SignUpPromos');"><img src="http://www.stationcasinos.com/images/style/signup-curve.gif" width="92" height="54" border="0" alt="Casino / Hotel Email Promos" align="left"></a>
 		<!--<div style="background:url(http://www.stationcasinos.com/images/email-promos.gif) no-repeat 100% 100%;width:180px;height:54px;margin-left:90px;">-->
 		<div style="margin-left:90px;"> <a href="http://www.stationcasinos.com/promos/email/"><img src="http://www.stationcasinos.com/images/email-promos.gif" width="180" height="54" border="0"></a>
@@ -299,7 +299,9 @@ if(navigator.platform == 'iPad' || navigator.platform == 'iPhone' || navigator.p
 <li><a href="http://www.stationcasinos.com/dining/" title="Dining in Las Vegas">Dining</a></li>
 <li><a href="http://www.stationcasinos.com/entertainment/" title="Las Vegas Entertainment">Entertainment</a></li>
 <li><a href="http://www.stationcasinos.com/gaming/boarding-pass/" title="Casino Rewards">Boarding Pass</a></li>
-<li><a href="http://www.stationcasinos.com/meetings/" title="Meeting Space in Las Vegas">Meetings</a></li>
+<!--<li><a href="meetings/" title="Meeting Space in Las Vegas">Meetings</a></li> -->
+<!-- NEW MEETINGS LINK REQUESTED BY PATCHIN 2011-08-16 -->
+<li><a href="http://www.stationcasinosmeetings.com/" title="Meeting Space in Las Vegas" target="_blank">Meetings</a></li>
 <li><a href="http://www.stationcasinos.com/promos/" title="Casino Promotions">Promos</a></li>
 </ul>
 </div>
@@ -324,6 +326,7 @@ background: url(http://www.stationcasinos.com/images/style/corp-bg.gif) no-repea
 <li><a href="http://www.stationcasinos.com/map/" title="Properties Map">Properties Map</a></li>
 <li><a href="http://www.stationcasinos.com/corp/contact/" title="Contact Us">Contact Us</a></li>
 <li><a href="http://www.stationcasinos.com/corp/privacy/" id="current" title="Privacy Policy">Privacy</a></li>
+<li><a href="http://www.stationcasinos.com/corp/mobile/" title="Mobile Terms and Conditions">Mobile</a></li>
 </ul>
 </div>
 </div><!--end innerleft div-->
@@ -341,7 +344,7 @@ background: url(http://www.stationcasinos.com/images/style/corp-bg.gif) no-repea
 	
   
   
-  <div id="rightpic"><img src="http://www.stationcasinos.com/images/diversity.jpg"></div>
+  <div id="rightpic"><img src="http://www.stationcasinos.com/images/contact.jpg"></div>
   <div id="content">
    	
 <h1>Privacy Policy</h1>
@@ -349,7 +352,9 @@ background: url(http://www.stationcasinos.com/images/style/corp-bg.gif) no-repea
 <h3>Introduction</h3>
 <p>Station Casinos. has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about whether and how this website collects and uses information.</p>
 
-<h3>Browsing</h3>
+<p>Station Casinos respects your privacy. We will not share or use your mobile number for any other purpose. We will only use information you provide to transmit your text message. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with the Service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may refuse you access to the Service and pursue any appropriate legal remedies.</p><p>
+
+</p><h3>Browsing</h3>
 <p>Visitors who browse this website do so on an anonymous basis. We have not configured this website to collect any information from your computer without your input. This means that, unless you voluntarily and knowingly provide us with information, we will not know your identity, your e-mail address, or any other information identifiable to you.</p>
 
 <h3>Information</h3>
@@ -472,16 +477,14 @@ background: url(http://www.stationcasinos.com/images/style/corp-bg.gif) no-repea
 				<td>
                 	<a href="http://www.youtube.com/stationcasinosvegas" target="_blank" id="youtubebut" name="&amp;lid=Social_Foot_Youtube"><img src="http://www.stationcasinos.com/images/social_youtube.png" alt="Station Casinos Video"></a>
                 </td>
-				<td>
-                	<a href="http://www.weluvlocals.com" target="_blank" id="wllbut" name="&amp;lid=Social_Foot_WLL"><img src="http://www.stationcasinos.com/images/social_wll.png" alt="Station Casinos -  weluvlocals.com"></a>
-                </td>
+				
              </tr>
          </tbody></table>
 
 </div>	
 				
 									
-<div id="copyright">Room Reservations:  1 (800) 678-2846 &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://rooms.stationcasinos.com/cgi-bin/LANSAWEB?procfun+rn+Resnet+CRS+funcparms+UP(A2560):;web01" onclick="this.href=pageTracker._getLinkerUrl(this.href)" title="Station Casinos Reservations">BOOK ONLINE!</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/promos/email/" onclick="javascript:urchinTracker('/footer/emailsignup');">Email Promotions</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinosgiftcards.com" title="Purchase Gift Cards Online!" target="_blank">Gift Cards</a> &nbsp;&nbsp; |  &nbsp;&nbsp; <a href="http://ev2.evenue.net/cgi-bin/ncommerce3/SEGetGroupList?groupCode=GS-STATION&amp;linkID=station&amp;shopperContext=&amp;caller=&amp;appCode=" title="Purchase Entertainment Tickets Online!" onclick="javascript:urchinTracker('/outgoing/evenue');" target="_blank">Entertainment Tickets</a> <br>
+<div id="copyright">Room Reservations:  1 (800) 678-2846 &nbsp;&nbsp; | &nbsp;&nbsp; <a href="https://rooms.stationcasinos.com/cgi-bin/LANSAWEB?procfun+rn+Resnet+CRS+funcparms+UP(A2560):;web01" onclick="this.href=pageTracker._getLinkerUrl(this.href)" title="Station Casinos Reservations">BOOK ONLINE!</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/promos/email/" onclick="javascript:urchinTracker('/footer/emailsignup');">Email Promotions</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinosgiftcards.com" title="Purchase Gift Cards Online!" target="_blank">Gift Cards</a> &nbsp;&nbsp; |  &nbsp;&nbsp; <a href="http://www.stationcasinos.com/entertainment/concerts/" title="Purchase Entertainment Tickets Online!" onclick="javascript:urchinTracker('/outgoing/evenue');" target="_blank">Entertainment Tickets</a> &nbsp;&nbsp; <!--|  &nbsp;&nbsp; <a href="http://www.weluvlocals.com" title="Get Las Vegas 50% Off Coupons" target="_blank">WeLuvLocals.com</a>--><br>
 
 <a href="http://www.mystation.com" title="myStation.com" target="_blank">myStation.com &nbsp;&nbsp; | &nbsp;&nbsp;  </a><a href="http://www.stationcasinosbingo.com" title="Station Casinos Bingo" target="_blank">Station Casinos Bingo</a> &nbsp;&nbsp; | &nbsp;&nbsp;  <a href="http://www.fiestacasinobingo.com" title="Fiesta Casino Bingo" target="_blank">Fiesta Casino Bingo</a> &nbsp;&nbsp; | &nbsp;&nbsp;  <a href="http://www.stationsportsconnection.com" title="Station Casinos Sports Connection" target="_blank">Station Casinos Sports Connection</a> &nbsp;&nbsp; | &nbsp;&nbsp;  <a href="http://www.nightlifestation.com" title="Nightlife Station" target="_blank">Nightlife Station</a>
 
@@ -494,8 +497,7 @@ background: url(http://www.stationcasinos.com/images/style/corp-bg.gif) no-repea
     document.write(year0);
 //-->
 </script>2020
- <a href="http://www.stationcasinos.com" class="copyright">Station Casinos</a>.  All Rights Reserved.  &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/gaming/responsible-gaming/" title="Responsible Gaming" onclick="javascript:urchinTracker('/homelink/responsiblegaming');" target="_blank">Responsible Gaming</a>    &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/gaming/win-loss/" title="Win/Loss Request Form 2008" onclick="javascript:urchinTracker('/homelink/winloss');">Win/Loss Request Form</a>  &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/corp/privacy/" title="Privacy Policy">Privacy</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/sitemap/" title="Site Map">Site Map</a><br>
-		
+ <a href="http://www.stationcasinos.com" class="copyright">Station Casinos</a>.  All Rights Reserved.  &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/gaming/responsible-gaming/" title="Responsible Gaming" onclick="javascript:urchinTracker('/homelink/responsiblegaming');" target="_blank">Responsible Gaming</a>    &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/gaming/win-loss/" title="Win/Loss Request Form 2008" onclick="javascript:urchinTracker('/homelink/winloss');">Win/Loss Request Form</a>  &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/corp/privacy/" title="Privacy Policy">Privacy</a> &nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/sitemap/" title="Site Map">Site Map</a>&nbsp;&nbsp; | &nbsp;&nbsp; <a href="http://www.stationcasinos.com/corp/mobile/" target="_blank" title="Mobile">Mobile</a> &nbsp;&nbsp;
 		</div>
 		
 	<!--	<div id="footerline"></div>-->
@@ -563,68 +565,24 @@ pageTracker._trackPageview();
 
 <!--- End Google Analytics Code --->
 
-<!--OMNITURE CODE HBX2.5 (Universal)-->
-<!-- Copyright 1997 - 2008. Omniture, Inc. All Rights Reserved.  Omniture is a registered trademark of Omniture, Inc. in the United States, Canada, Japan, and the European Community. -->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0250u";hbx.gn="ehg-stationcasinos.hitbox.com";
+<!-- Retargeter Code --->
 
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM5705030HBF53EN3";//ACCOUNT NUMBER(S)
-hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
-hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+<!-- Segment Pixel - Station Casinos - DO NOT MODIFY -->
+<img src="http://ad.retargeter.com/seg?add=171868&amp;t=2" width="1" height="1">
+<!-- End of Segment Pixel -->
 
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
 
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
+<!-- Burn Pixel - Station Casinos- Burn - DO NOT MODIFY -->
+<img src="http://ad.retargeter.com/seg?add=171869&amp;t=2" width="1" height="1">
+<!-- End of Burn Pixel -->
 
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="null";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
 
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
+<!-- Conversion Pixel - Station Casinos - DO NOT MODIFY -->
+<img src="http://ad.retargeter.com/px?id=17537&amp;t=2" width="1" height="1">
+<!-- End of Conversion Pixel -->
 
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="http://www.stationcasinos.com/includes/hbx.js"></script>
-<!--END OMNITURE CODE-->
+<!--- End Retargeter Code --->
 
 
 
-</center></div></div></body></html>
+</center></div></div></div></body></html>
