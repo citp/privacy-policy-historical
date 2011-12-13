@@ -1,253 +1,288 @@
-<!--The following is the downloaded HTML source of the starkey.com privacy policy that was archived on 2011-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110513022157id_/http%3A//starkey.com/corporate/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starkey.com privacy policy that was archived on 2011-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111213043923id_/http%3A//starkey.com/corporate/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="htmlTag" xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="Head1"><title>
-	Starkey - Privacy Policy
-</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="Server" content="EP2P-SCDM2"><meta name="keywords" content="privacy policy, security, internet safety"><meta name="description" content="Please review Starkey's privacy policy and contact us with any questions.">
-<link rel="Shortcut Icon" href="/Images/Starkey/favicon.ico">
-    
-    
-    <!--BeginNoIndex-->
-    <link href="/CSS/Starkey/Home.css" rel="stylesheet" type="text/css" media="screen"><link href="/CSS/Starkey/Global.css" rel="stylesheet" type="text/css" media="screen"><link href="/CSS/Starkey/Print.css" rel="stylesheet" type="text/css" media="print">
+<!DOCTYPE html><html id="html" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=980">
+<title>
+	Starkey.com Privacy Policy
+</title><meta name="keywords" content="starkey.com privacy policy, online privacy 
+"><meta name="description" content="This site is owned and operated by Starkey Laboratories. Your privacy is important to us and we want to make your experience online satisfying and safe.
+">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+<link rel="icon" href="/Sites/StarkeyCom2011/Images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/Sites/StarkeyCom2011/Images/favicon.ico" type="image/x-icon">
+<link href="/Sites/StarkeyCom2011/CSS/global.css" rel="stylesheet" type="text/css" media="all">
+<link href="/Sites/StarkeyCom2011/CSS/worldwide-rom-add.css" rel="stylesheet" type="text/css" media="all">
+<link href="/Sites/StarkeyCom2011/CSS/global-print.css" rel="stylesheet" type="text/css" media="print">
+<link href="/Sites/StarkeyCom2011/Javascript/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/Sites/StarkeyCom2011/CSS/Validation.css" rel="stylesheet" type="text/css">
+<link href="/Sites/StarkeyCom2011/CSS/inpage-forms.css" rel="stylesheet" type="text/css">
+<link type="text/css" href="/Sites/StarkeyCom2011/Javascript/scrollpane/jquery.jscrollpane.css" rel="stylesheet" media="all">
+<!--[if lte IE 7]><link href="/Sites/StarkeyCom2011/CSS/global-ie7.css" rel="stylesheet" type="text/css" media="all"><![endif]-->
+<script src="/Sites/StarkeyCom2011/Javascript/jquery-1.4.2.min.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/jquery.slideshow.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/jquery.tipdown.min.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/swfobject.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/jquery.tools.tooltip.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/ValidationUtil.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/jquery.hoverIntent.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/jquery.validate.js" type="text/javascript">
+<script src="/Sites/StarkeyCom2011/Javascript/CookieUtil.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/global.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/CookieSource.js" type="text/javascript"></script>
+<script src="/Sites/StarkeyCom2011/Javascript/TextSizing.js" type="text/javascript"></script>
+<script type="text/javascript" src="/Sites/StarkeyCom2011/Javascript/scrollpane/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="/Sites/StarkeyCom2011/Javascript/scrollpane/jquery.jscrollpane.min.js"></script>
+<script type="text/javascript" src="/Sites/StarkeyCom2011/Javascript/jquery-ui-1.8.11.tabs.min.js"></script>
+<script type="text/javascript">
+    //var textSize = readCookie("Starky_FontSize");
+    //SetFontSize(textSize);
 
-	<script type="text/javascript" src="/Javascript/Global/cookies.js"></script>
-    
-    <script src="/Javascript/Starkey/Starkey.js" type="text/javascript"></script>
+    $(document).ready(function() {
+        $("#global-tools-email a").fancybox({
+            hideOnOverlayClick: false
+        });
 
-  
-    <script src="/Javascript/Global/jquery-1.4.2.min.js" type="text/javascript"></script>
- 
-    <script src="/Javascript/Global/jquery.fancybox-1.3.1.pack.js" type="text/javascript"></script>
-    <link href="/CSS/Global/jquery.fancybox-1.3.1.css" rel="stylesheet" type="text/css">  
-    
+        //adjust fontsize
+        $("#TextResize").click(function() {
+            if (textSize < 22 && textSize > 10) {
+                textSize = parseInt(textSize);
+                textSize += 5;
+            } else {
+                textSize = 12;
+            }
+            SetFontSize(textSize);
+        });
+    });                  //end ready
 
-    
-    
-    <script type="text/javascript" src="/Javascript/Global/swfobject.js"></script>
+    function IncrementTextSize() {
+        var adapter = new TextSizeAdapter(new CookieSource(document), "StarkeyTextSize");
+        var increment = new TextSizeIncrement(adapter, "/Sites/StarkeyCom2011/CSS/size-increase-1.css",
+        "/Sites/StarkeyCom2011/CSS/size-increase-2.css");
+        document.getElementById("textResize").href = increment.getStylesheet();
+        adapter.saveSize(increment.getSize());
+    }
 
-    <script type="text/javascript">
-        var flashVersion = '9.0.115';
-        swfobject.registerObject("homePageFlash", flashVersion, "/flash/expressInstall.swf");
-        swfobject.registerObject("StarkeyConsumerShell", flashVersion, "/flash/expressInstall.swf");
-        swfobject.registerObject("myFlashContent", flashVersion, "/flash/expressInstall.swf");
-        swfobject.registerObject("hearing_loss_simulator", flashVersion, "/flash/expressInstall.swf");
-        swfobject.registerObject("flashHearingSim", flashVersion, "/flash/expressInstall.swf");
-        swfobject.registerObject("instructionalVideoPlayer", flashVersion, "/flash/expressInstall.swf");
-    </script><style type="text/css" media="screen">#homePageFlash {visibility:hidden}#StarkeyConsumerShell {visibility:hidden}#myFlashContent {visibility:hidden}#hearing_loss_simulator {visibility:hidden}#flashHearingSim {visibility:hidden}#instructionalVideoPlayer {visibility:hidden}#homePageFlash {visibility:visible}#StarkeyConsumerShell {visibility:visible}#myFlashContent {visibility:visible}#hearing_loss_simulator {visibility:visible}#flashHearingSim {visibility:visible}#instructionalVideoPlayer {visibility:visible}</style>
+</script>
+<link id="textResize" rel="Stylesheet" type="text/css">
+<script type="text/javascript">
+    $(document).ready(function() {
+        //default all pages with cookie fontsize
+        $("a.email_friend").fancybox({
+            'hideOnOverlayClick': false,
+            'width':500,
+            'height':650,
+            'type':'iframe',
+            'href':'/email-a-friend/?ID={4D0140C7-B38C-4B0A-89B7-6FB573D5DCF3}'
+        });
+    });               
+</script>
+<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css"><title>
 
-    <script type="text/javascript">
-        AC_FL_RunContent = 0;
-        DetectFlashVer = 0;        
-    </script>
+</title><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<body>
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+    var WRInitTime = (new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
 
-    <script src="/Javascript/Global/AC_RunActiveContent.js" type="text/javascript"></script>
-
-    <script language="JavaScript" type="text/javascript">
-    <!--
-        // -----------------------------------------------------------------------------
-        // Globals
-        // Major version of Flash required
-        var requiredMajorVersion = 10;
-        // Minor version of Flash required
-        var requiredMinorVersion = 0;
-        // Revision of Flash required
-        var requiredRevision = 42;
-        // -----------------------------------------------------------------------------
-    // -->
-    </script>
-    
-    
-      <script type="text/javascript">
-            jQuery.noConflict();
-            jQuery(document).ready(function() {
-
-                    jQuery("a.photo").fancybox();
-
-                    jQuery("a.video").fancybox({
-                        'width': 680,
-                        'height': 520,
-                        'autoScale': false,
-                        'titlePosition': 'inside',
-                        'transitionIn': 'none',
-                        'transitionOut': 'none',
-                        'type': 'iframe'
-                        });
-
-                    jQuery("a.HomePageFlash").fancybox({
-                        'width': 1000,
-                        'height': 400,
-                        'autoScale': false,
-                        'titlePosition': 'inside',
-                        'transitionIn': 'none',
-                        'transitionOut': 'none',
-                        'type': 'iframe'
-                    });
-
-                    jQuery("a.imagepop").fancybox({
-                        'type': 'image',
-                        'titleShow': false
-                    });                  
-                });
-        </script>            
-    
-    
-    
-    <!--EndNoIndex-->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
-<body><!--BeginNoIndex-->
-    <form name="mainform" method="post" action="/corporate/privacy-policy" id="mainform">
+    <form name="form1" method="post" action="/corporate/privacy-policy" id="form1">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjUyNzM2NDk5D2QWAgIBDxYEHgRsYW5nBQJlbh4IeG1sOmxhbmcFAmVuFgICAxBkZBYCAgMPZBYCAgEPZBYCZg9kFgJmD2QWBGYPZBYCZg9kFgJmD2QWCgIHDxYCHgRUZXh0BewCPHVsPg0KPGxpPjxhIGhyZWY9Ii95b3VyLWhlYXJpbmcvaGVhcmluZy1sb3NzIj5IZWFyaW5nIExvc3M8L2E+PC9saT4NCjxsaT48YSBocmVmPSIveW91ci1oZWFyaW5nL2ZpbmQtYS1zb2x1dGlvbiI+RmluZCBBIFNvbHV0aW9uPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL3lvdXItaGVhcmluZy9oZWFyaW5nbG9zcy1zaW11bGF0b3IiPkhlYXJpbmcgTG9zcyBTaW11bGF0b3I8L2E+PC9saT4NCjxsaT48YSBocmVmPSIveW91ci1oZWFyaW5nL2hlbHBpbmctYS1mYW1pbHktbWVtYmVyIj5IZWxwaW5nIGEgRmFtaWx5IE1lbWJlcjwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii95b3VyLWhlYXJpbmcvZmFxcyI+RkFRczwvYT48L2xpPg0KPC91bD4NCmQCCQ8WAh8CBeMCPHVsPg0KPGxpPjxhIGhyZWY9Ii9wcm9kdWN0cy9oZWFyaW5nLWluc3RydW1lbnRzIj5IZWFyaW5nIEluc3RydW1lbnRzIDwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9wcm9kdWN0cy9oZWFyaW5nLXByb3RlY3Rpb24iPkhlYXJpbmcgUHJvdGVjdGlvbiA8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvcHJvZHVjdHMvY29tbXVuaWNhdGlvbi1tb2JpbGUiPkNvbW11bmljYXRpb24gJiBNb2JpbGUgPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL3Byb2R1Y3RzL2F1ZGlvLW11c2ljIj5BdWRpbyAmIE11c2ljPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL3Byb2R1Y3RzL3NwZWNpYWx0eSI+U3BlY2lhbHR5IDwvYT48L2xpPg0KPC91bD4NCmQCCw8WAh8CBfACPHVsPg0KPGxpPjxhIGhyZWY9Ii9zdGFya2V5LWV4cGVyaWVuY2UvaW5ub3ZhdGlvbiI+SW5ub3ZhdGlvbjwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9zdGFya2V5LWV4cGVyaWVuY2UvcGF0aWVudC1wcm92ZW4iPlBhdGllbnQgUHJvdmVuPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL3N0YXJrZXktZXhwZXJpZW5jZS9jcmFmdHNtYW5zaGlwIj5DcmFmdHNtYW5zaGlwIDwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9zdGFya2V5LWV4cGVyaWVuY2UvcGFydG5lcnNoaXAiPlBhcnRuZXJzaGlwIDwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9zdGFya2V5LWV4cGVyaWVuY2UvZ2xvYmFsLWltcGFjdCI+R2xvYmFsIEltcGFjdCA8L2E+PC9saT4NCjwvdWw+DQpkAg0PFgIfAgWuAzx1bD4NCjxsaT48YSBocmVmPSIvdXNlLWNhcmUvY2FyZS1tYWludGVuYW5jZSI+Q2FyZSAmIE1haW50ZW5hbmNlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL3VzZS1jYXJlL2luc3RydWN0aW9uYWwtdmlkZW9zIj5JbnN0cnVjdGlvbmFsIFZpZGVvczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii91c2UtY2FyZS9vcGVyYXRpb25zLW1hbnVhbHMiPk9wZXJhdGlvbiBNYW51YWxzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL3VzZS1jYXJlL2JhdHRlcmllcyI+SGVhcmluZyBBaWQgQmF0dGVyaWVzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL3VzZS1jYXJlL2ZpbmFuY2luZy1vcHRpb25zIj5QYXRpZW50IEZpbmFuY2luZzwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii91c2UtY2FyZS93YXJyYW50eS1wbGFucyI+V2FycmFudHkgUGxhbnM8L2E+PC9saT4NCjwvdWw+DQpkAg8PFgIfAgWnATx1bD4NCjxsaT48YSBocmVmPSIvZmluZC1hLXByb2Zlc3Npb25hbC93b3JsZHdpZGUiPldvcmxkd2lkZTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9maW5kLWEtcHJvZmVzc2lvbmFsL2ludGVybmV0LXNhbGVzLXBvbGljeSI+SW50ZXJuZXQgU2FsZXMgUG9saWN5PC9hPjwvbGk+DQo8L3VsPg0KZAICD2QWBGYPZBYCZg9kFgQCAQ8WAh4Fc3R5bGUFkAFoZWlnaHQ6ODVweDt3aWR0aDoyMTBweDtiYWNrZ3JvdW5kLWltYWdlOnVybCgvfi9tZWRpYS9TdGFya2V5L0ltYWdlcy9OYXZpZ2F0aW9uL2NhcmVlcnMuYXNoeD8yMDEwMDUxN1QxMzE4NDM1MzEwKTsgaGVpZ2h0OiA4NXB4OyB3aWR0aDogMjEwcHg7KTtkAgMPFgIfAgW1AjxsaT48YSBocmVmPSIvY29ycG9yYXRlL2luLXRoZS1uZXdzIj5JbiB0aGUgTmV3czwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9jb3Jwb3JhdGUvYWJvdXQtdXMiPkFib3V0IFVzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2NvcnBvcmF0ZS9jb250YWN0LXVzIj5Db250YWN0IFVzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2NvcnBvcmF0ZS9jYXJlZXJzIj5DdXJyZW50IE9wZW5pbmdzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL2NvcnBvcmF0ZS9wcml2YWN5LXBvbGljeSIgY2xhc3M9ImFjdGl2ZSI+UHJpdmFjeSBQb2xpY3k8L2E+PC9saT4NCmQCAQ9kFgJmD2QWBAIBD2QWAgIBDxYCHwIFCUNvcnBvcmF0ZWQCBQ8WAh8CBSZ7NkJGRThGMjQtNjZDMC00MUQ3LUEzMUUtMTNCQjZEOEJEMDgzfWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFJWNlbnRlcnNlY3Rpb25fMCR0b3BoZWFkZXJfMCRidG5TZWFyY2jL70T0FuwIOo3xOb81eCChWxRwWw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTYwNzIxMjcxOQ9kFgICAQ9kFgICAQ9kFgJmD2QWAgICD2QWAmYPZBYCAgEPFQEmezREMDE0MEM3LUIzOEMtNEIwQS04OUI3LTZGQjU3M0Q1RENGM31kZLxvTE39SHCdqU43BcQUzKge+YLq">
 </div>
 
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKPh53cCwKzkaeOAgKni/fTBv+iImPworGnq3bmc89ODNTfx3Cv">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgL10PStAwLKyqiBAQEhC/IJIvB5zNjlemPlKSSEYT+k">
 </div>
     
-    
-    <!--EndNoIndex-->
-    <div id="wrapper">
-        
-<!--BeginNoIndex-->
-<ul id="header">
-    <li class="home"><a href="/">« Home</a></li>
-    <li class="consumer_alert"><strong>Consumer Alert:</strong> Be sure to purchase Starkey
-        hearing products ONLY from authorized Starkey Hearing Professionals. <a href="/find-a-professional/internet-sales-policy">
-            » More</a></li>
-    <li><a href="http://www.starkeypro.com">For Professionals »</a></li>
-    <li class="topsearch" style="padding-right:4px;">Search 
-    <input name="centersection_0$topheader_0$txtSearch" type="text" id="centersection_0_topheader_0_txtSearch" style="width:115px; height:10px; font-size:10px;">    
-    <input type="image" name="centersection_0$topheader_0$btnSearch" id="centersection_0_topheader_0_btnSearch" src="/~/media/Starkey/Images/Navigation/topsearch.gif" style="border-width:0px;vertical-align:top; margin:0px; padding:0px; padding-top:2px;">
-    </li>
-    <li class="country"><a href="/find-a-professional/worldwide" id="centersection_0_topheader_0_hlCountry">
-        United States <img src="/~/media/Starkey/Images/Navigation/flag_united_states.gif" style="vertical-align:top;" border="0"></a></li>
-</ul>
-<!-- main navigation -->
-<ul id="main_nav" class="clearfix">
-    <li class="image">
-        <!-- Starkey Logo -->
-        <a href="/">
-            <img src="/~/media/Starkey/Images/Navigation/spacer.gif" width="160" height="65" alt="Starkey Home" border="0"></a> </li>
-    <li id="mnYourHearing"><a href="/your-hearing"><span></span>Your Hearing</a>
-        <ul>
-<li><a href="/your-hearing/hearing-loss">Hearing Loss</a></li>
-<li><a href="/your-hearing/find-a-solution">Find A Solution</a></li>
-<li><a href="/your-hearing/hearingloss-simulator">Hearing Loss Simulator</a></li>
-<li><a href="/your-hearing/helping-a-family-member">Helping a Family Member</a></li>
-<li><a href="/your-hearing/faqs">FAQs</a></li>
-</ul>
-
-    </li>
-    <li id="mnProducts"><a href="/products"><span></span>Products</a>
-        <ul>
-<li><a href="/products/hearing-instruments">Hearing Instruments </a></li>
-<li><a href="/products/hearing-protection">Hearing Protection </a></li>
-<li><a href="/products/communication-mobile">Communication &amp; Mobile </a></li>
-<li><a href="/products/audio-music">Audio &amp; Music</a></li>
-<li><a href="/products/specialty">Specialty </a></li>
-</ul>
-
-    </li>
-    <li id="mnStarkeyExperience"><a href="/starkey-experience"><span></span>Starkey
-        Experience</a>
-        <ul>
-<li><a href="/starkey-experience/innovation">Innovation</a></li>
-<li><a href="/starkey-experience/patient-proven">Patient Proven</a></li>
-<li><a href="/starkey-experience/craftsmanship">Craftsmanship </a></li>
-<li><a href="/starkey-experience/partnership">Partnership </a></li>
-<li><a href="/starkey-experience/global-impact">Global Impact </a></li>
-</ul>
-
-    </li>
-    <li id="mnUseAndCare"><a href="/use-care"><span></span>Use &amp; Care</a>
-        <ul>
-<li><a href="/use-care/care-maintenance">Care &amp; Maintenance</a></li>
-<li><a href="/use-care/instructional-videos">Instructional Videos</a></li>
-<li><a href="/use-care/operations-manuals">Operation Manuals</a></li>
-<li><a href="/use-care/batteries">Hearing Aid Batteries</a></li>
-<li><a href="/use-care/financing-options">Patient Financing</a></li>
-<li><a href="/use-care/warranty-plans">Warranty Plans</a></li>
-</ul>
-
-    </li>
-    <li id="mnFindAProfessional"><a href="/find-a-professional"><span></span>Find A
-        Professional</a>
-        <ul>
-<li><a href="/find-a-professional/worldwide">Worldwide</a></li>
-<li><a href="/find-a-professional/internet-sales-policy">Internet Sales Policy</a></li>
-</ul>
-
-    </li>
-</ul>
-<!--EndNoIndex-->
-<!-- end  main navigation -->
-<div id="content" class="clearfix" style="position:relative;">
-    <img src="/~/media/Starkey/Images/Structure/rightcorner.png" style="position:absolute; z-index:7; top:0px; left:860px;">
-    
-<!--BeginNoIndex-->
-<ul id="nav_secondary">
-    <li id="centersection_0_maincontentarea_0_liImage" class="images" style="height:85px;width:210px;background-image:url(/~/media/Starkey/Images/Navigation/careers.ashx?20100517T1318435310); height: 85px; width: 210px;);"></li>
-    <img src="/~/media/Starkey/Images/Structure/leftphotocorner.png" style="position:absolute; z-index:8; top:0px;">
-    <li><a href="/corporate/in-the-news">In the News</a></li>
-<li><a href="/corporate/about-us">About Us</a></li>
-<li><a href="/corporate/contact-us">Contact Us</a></li>
-<li><a href="/corporate/careers">Current Openings</a></li>
-<li><a href="/corporate/privacy-policy" class="active">Privacy Policy</a></li>
-
-    <li class="gradient"></li>
-</ul>
-<!--EndNoIndex-->
-
-<div id="title_bar">
-    <div class="page_title">
-        <h3 id="centersection_0_maincontentarea_1_ParentArea">
-            Corporate</h3>
-        <h1>Privacy Policy</h1>
-    </div>
-    <div class="print_email" style="width:165px;">
-        <a href="javascript:;" onclick="MM_openBrWindow('/forms/send-friend?id={6BFE8F24-66C0-41D7-A31E-13BB6D8BD083}','email','scrollbars=yes,resizable=yes,width=720,height=600')">
-        <img src="/~/media/Starkey/Images/Icons/rc1_email_icon.gif" height="14" width="18" alt="" border="0" align="absmiddle">Send to a Friend</a><br>
-        <a href="http://www.facebook.com/pages/Starkey/287397458800?ref=ts" target="_blank">
-        <img src="/~/media/Starkey/Images/Navigation/facebookicon.gif" height="14" width="18" alt="Follow Starkey on Facebook" border="0" align="absmiddle">Follow us on Facebook</a><br>
+    <div id="page-wrapper">
+        <div id="page">
             
+<div id="utility-navigation">
+    <div id="utility-message">
+        
     </div>
+    <div id="utility-cta">
+        <a href="http://www.starkeypro.com">Go to STARKEYPRO.com</a></div>
+    <div id="utility-region"><a href="#">US – English</a>
+	<div class="dropdown regiondropdown" id="region-menu-wrapper" style="display: none;">
+		<div id="region-menu" class="jspScrollable" tabindex="0" style="overflow: hidden; padding: 0px; width: 141px;"><div class="jspContainer" style="width: 141px; height: 229px;"><div class="jspPane" style="padding: 0px; width: 141px; left: 0px; top: 0px;">
+			<div id="region-menu-inner">    			    
+				<ul>					
+					<li><a href="http://www.starkey.com/">US - English</a></li>
+					<li><div class="common-regions">&nbsp;</div></li>					
+					<a href="/find-a-professional/worldwide/Argentina">Argentina</a><a href="http://www.starkey.com.au/" target="_browser">Australia</a><a href="/find-a-professional/worldwide/Bahamas">Bahamas</a><a href="/find-a-professional/worldwide/Bahrain">Bahrain</a><a href="/find-a-professional/worldwide/Bolivia">Bolivia</a><a href="http://www.starkey.com.br" target="_browser">Brazil</a><a href="http://www.starkeycanada.ca/" target="_browser">Canada</a><a href="/find-a-professional/worldwide/Chile">Chile</a><a href="http://www.starkey.com.co/" target="_browser">Colombia</a><a href="/find-a-professional/worldwide/Costa_Rica">Costa Rica</a><a href="/find-a-professional/worldwide/Croatia">Croatia</a><a href="/find-a-professional/worldwide/Cyprus">Cyprus</a><a href="/find-a-professional/worldwide/Dominican_Republic">Dominican Republic</a><a href="/find-a-professional/worldwide/Ecuador">Ecuador</a><a href="/find-a-professional/worldwide/El_Salvador">El Salvador</a><a href="http://www.starkey.fr/" target="_browser">France</a><a href="http://www.hoerforum.de/" target="_browser">Germany</a><a href="/find-a-professional/worldwide/Greece">Greece</a><a href="http://www.starkey.com.cn/html/" target="_browser">Hong Kong (Chinese)</a><a href="http://www.starkey.com/" target="_browser">Hong Kong (English)</a><a href="http://starkeyindia.com/" target="_browser">India</a><a href="/find-a-professional/worldwide/Iran">Iran</a><a href="http://www.starkey.co.uk/" target="_browser">Ireland</a><a href="/find-a-professional/worldwide/Israel">Israel</a><a href="http://www.starkey.it/" target="_browser">Italy</a><a href="http://www.starkey-japan.co.jp/" target="_browser">Japan</a><a href="/find-a-professional/worldwide/Jordan">Jordan</a><a href="/find-a-professional/worldwide/Kuwait">Kuwait</a><a href="/find-a-professional/worldwide/Lebanon">Lebanon</a><a href="/find-a-professional/worldwide/Malaysia">Malaysia</a><a href="http://www.starkey.com.mx/" target="_browser">Mexico</a><a href="/find-a-professional/worldwide/Netherlands">Netherlands</a><a href="http://www.starkey.co.nz/" target="_browser">New Zealand</a><a href="/find-a-professional/worldwide/Nigeria">Nigeria</a><a href="http://www.starkey.no/" target="_browser">Norway</a><a href="/find-a-professional/worldwide/Palestine">Palestine</a><a href="/find-a-professional/worldwide/Panama">Panama</a><a href="/find-a-professional/worldwide/Peru">Peru</a><a href="/find-a-professional/worldwide/Philippines">Philippines</a><a href="http://www.starkey.com.pl/" target="_browser">Poland</a><a href="/find-a-professional/worldwide/Puerto%20Rico">Puerto Rico</a><a href="http://www.starkey.ro/" target="_browser">Romania</a><a href="/find-a-professional/worldwide/Saudi%20Arabia">Saudi Arabia</a><a href="/find-a-professional/worldwide/Singapore">Singapore</a><a href="/find-a-professional/worldwide/South%20Africa">South Africa</a><a href="http://www.starkey.co.kr/" target="_browser">South Korea</a><a href="/find-a-professional/worldwide/Sri%20Lanka">Sri Lanka</a><a href="http://www.starkey.se/" target="_browser">Sweden</a><a href="/find-a-professional/worldwide/Switzerland">Switzerland</a><a href="/find-a-professional/worldwide/Taiwan">Taiwan</a><a href="/find-a-professional/worldwide/Thailand">Thailand</a><a href="http://www.starkey.com.tr/" target="_browser">Turkey</a><a href="/find-a-professional/worldwide/Ukraine">Ukraine</a><a href="/find-a-professional/worldwide/United%20Arab%20Emirates">United Arab Emirates</a><a href="http://www.starkey.com/find-a-professional?zipcode=Zip%20Code" target="_browser">United States</a><a href="http://www.starkey.co.uk/" target="_browser">United Kingdom</a><a href="/find-a-professional/worldwide/Uruguay">Uruguay</a><a href="/find-a-professional/worldwide/Venezuela">Venezuela</a><a href="/find-a-professional/worldwide/Vietnam">Vietnam</a>
+				</ul>
+			</div>
+		</div><div class="jspVerticalBar"><div class="jspCap jspCapTop"></div><a class="jspArrow jspArrowUp jspDisabled"></a><div class="jspTrack" style="height: 181px;"><div class="jspDrag" style="height: 37.2085px;"><div class="jspDragTop"></div><div class="jspDragBottom"></div></div></div><a class="jspArrow jspArrowDown"></a><div class="jspCap jspCapBottom"></div></div><div class="jspHorizontalBar"><div class="jspCap jspCapLeft"></div><a class="jspArrow jspArrowLeft jspDisabled"></a><div class="jspTrack" style="width: 94px;"><div class="jspDrag" style="width: 24.3193px;"><div class="jspDragLeft"></div><div class="jspDragRight"></div></div></div><a class="jspArrow jspArrowRight"></a><div class="jspCap jspCapRight"></div><div class="jspCorner" style="width: 16px;"></div></div></div></div>
+	</div>
+</div>
+    <div id="utility-end">
+        &nbsp;</div>
 </div>
 
-<div id="body_column" class="one_column">
-    
-		<div class="bp1">    <p>        This site is owned and operated by Starkey Laboratories. Your privacy on the Internet        is of the utmost importance to us. At Starkey, we want to make your experience online        satisfying and safe.<br>        <br>        Because we gather certain types of information about our users, we feel you should        fully understand our policy and the terms and conditions surrounding the capture        and use of that information. Rest assured that the information you provide is safeguarded.        This privacy statement discloses what information we gather and how we use it.</p>    <h4 class="spacer">        Information Starkey Gathers and Tracks</h4>    <p>        We gather two types of information about users:</p>    <ul>        <li>Information that users provide through optional, voluntary submissions. We collect            this information to customize our features for individual visitors who are Starkey            customers and to notify customers about updates to our site and products or services.</li>        <li>Information Starkey gathers through aggregated tracking is used to determine which            areas of our sites users like and don't like based on traffic to those areas. We            do not track what individual users read, but rather how well each page performs            overall. We collect this information in order to determine how to create the best            experience for our customers. We may track search terms entered in our Search function            as one of many measures of what interests our users, but this tracking is never            associated with an individual user.</li>    </ul>    <h4 class="spacer">        Use of Personal Information</h4>    <p>        Starkey strictly protects the security of your personal information and honors your        choices for its intended use. We disclose your information to no third parties unless        it is specifically stated otherwise. We may use third party contractors to help        us operate our business and the sites or administer activities on our behalf, and        may share your personal information with these contractors for those limited purposes.        We use your information solely to fulfill services, transact a purchase, and help        us improve our website and product offering to you. Notwithstanding any other provision        to the contrary, Starkey reserves the right to cooperate with local, state and federal        officials in any investigation relating to any purported illegal activity(ies) and,        when required by law, regulation, legal process or government requests, to disclose        any personal information furnished by you or collected by Starkey to law enforcement        authorities or other relevant or related third parties.<br>        <br>        Your information may be stored and processed in the United States or any other country        in which Starkey or its affiliates, subsidiaries or agents maintain facilities.        By using this site, you consent to any such transfer of information outside of your        country. Starkey abides by the safe harbor framework as set forth by the U.S. Department        of Commerce regarding the collection, use and retention of data from the European        Union.</p>    <h4 class="spacer">        Children</h4>    <p>        Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA),        we will never knowingly request personally identifiable information from anyone        under the age of 13 without requesting parental consent.</p>    <h4 class="spacer">        Cookies</h4>    <p>        We may place a text file called a "cookie" in the browser files of your computer.        The cookie itself does not contain Personal Information although it will enable        us to relate your use of this site to information that you have specifically and        knowingly provided. But the only personal information a cookie can contain is information        you supply yourself. A cookie can't read data off your hard disk or read cookie        files created by other sites. Starkey uses cookies to track user traffic patterns        (as described above). You can refuse cookies by turning them off in your browser.        If you've set your browser to warn you before accepting cookies, you will receive        the warning message with each cookie. You do not need to have cookies turned on        to use this site; however, it will help you to participate more actively in some        features.</p>    <h4 class="spacer">        Healthcare Disclaimer</h4>    <p>        The information presented on <a href="http://www.starkey.com">www.starkey.com</a>        or <a href="http://www.starkeypro.com">www.starkeypro.com</a> is not intended to        be medical advice and should not be relied upon as such. If you suspect a hearing        problem, Starkey strongly urges you to consult with a qualified physician or hearing        professional.</p>    <h4 class="spacer">        Links to Other Websites and Services</h4>    <p>        The Starkey websites may contain links to other sites that are not under our control.        These websites have their own policies regarding privacy. You should review those        policies when visiting the websites. Starkey has no responsibility for linked websites        and is not responsible for the content of any such site. Starkey provides these        links solely for the convenience and information of our visitors.</p>    <h4 class="spacer">        Security</h4>    <p>        Starkey operates secure data networks protected by industry standard firewall and        password protection systems. Our security and privacy policies are periodically        reviewed and enhanced as necessary and only authorized individuals have access to        the information provided by our customers.</p>    <h4 class="spacer">        Policy Amendment</h4>    <p>        Starkey approaches Internet communications with a strong commitment to individual        privacy rights and concerns. As the Internet evolves, our policy will continue to        change and develop. We therefore reserve the right to amend this Privacy Policy        at any time with or without prior notice. Please check this page periodically for        changes. Your continued use of the sites following any changes to this Privacy Policy        will constitute your acceptance of such changes.</p>    <h4 class="spacer">        Contact Us</h4>    <p>        If you have questions about the Privacy Policy or your experience with any of our        sites, please <span><a href="/corporate/contact-us">contact us</a></span>.</p></div>
-
-    
-    
-    
-</div>
-</div>
-
-<!--BeginNoIndex-->
-<ul id="footer" class="clearfix">
-    <li class="copyright"><span><a href="javascript:;" onclick="MM_openBrWindow('/Forms/stay-connected','registration','scrollbars=yes,resizable=yes,width=720,height=600')">
-        » Sign up for more product info</a><br>
-    </span>© 2007-2010 Starkey Laboratories, Inc. All Rights Reserved</li>
-    <li><a href="/corporate/privacy-policy">Privacy Policy</a></li>
-    <li><a href="/corporate/careers">Careers</a></li>
-    <li><a href="/corporate/contact-us">Contact Us</a></li>
-    <li><a href="/corporate/about-us">About Us</a></li>
-    <li><a href="/corporate/in-the-news" style="padding-left: 0; border: 0;">News</a></li>
+<div id="global-header">
+    <div id="logo">
+        <a href="/"><img src="/~/media/Starkey2011/Images/starkey-logo.ashx" alt="Starkey.com" height="70" width="118"></a></div>
+    <div id="global-navigation">
+        <ul>
+	<li><a href="/the-starkey-difference">The Starkey<span>Difference</span></a><div class="dropdown" style="display: none;">
+		<ul>
+			<li><a href="/the-starkey-difference">Who We Are</a></li><li><a href="/the-starkey-difference/our-history">Our History</a></li><li><a href="/the-starkey-difference/our-leadership">Our Leadership</a></li>
+		</ul><div class="dropdown-end">
+			&nbsp;
+		</div>
+	</div></li><li><a href="/starkey-products">Starkey<span>Products</span></a><div class="dropdown" style="display: none;">
+		<ul>
+			<li><a href="/starkey-products">Product Overview</a><ul>
+				<li><a href="/starkey-products/product-overview/browse-by-technology">Browse by Technology</a></li><li><a href="/starkey-products/product-overview/browse-by-style">Browse by Style</a></li>
+			</ul></li><li><a href="/starkey-products/hearing-aid-finder-tool">Hearing Aid Finder Tool</a></li>
+		</ul><div class="dropdown-end">
+			&nbsp;
+		</div>
+	</div></li><li><a href="/hearing-loss-and-treatment">Hearing Loss &amp;<span>Treatment</span></a><div class="dropdown" style="display: none;">
+		<ul>
+			<li><a href="/hearing-loss-and-treatment">Do You Need a Hearing Aid?</a></li><li><a href="/hearing-loss-and-treatment/learn-about-hearing-loss">Learn About Hearing Loss</a><ul>
+				<li><a href="/hearing-loss-and-treatment/learn-about-hearing-loss/importance-of-early-treatment">The Importance of <br>Early Treatment</a></li><li><a href="/hearing-loss-and-treatment/learn-about-hearing-loss/tinnitus-treatment">Tinnitus Treatment</a></li><li><a href="/hearing-loss-and-treatment/learn-about-hearing-loss/hearing-loss-prevention">Hearing Loss Prevention</a></li><li><a href="/hearing-loss-and-treatment/learn-about-hearing-loss/hearing-loss-faqs">Hearing Loss FAQs</a></li>
+			</ul></li><li><a href="/hearing-loss-and-treatment/identify-hearing-loss">Identify Hearing Loss</a></li><li><a href="/hearing-loss-and-treatment/treatment-options-next-steps">Treatment Options &amp;<br> Next Steps</a></li>
+		</ul><div class="dropdown-end">
+			&nbsp;
+		</div>
+	</div></li><li><a href="/hearing-aid-use-and-care">Hearing Aid<span>Use &amp; Care</span></a><div class="dropdown" style="display: none;">
+		<ul>
+			<li><a href="/hearing-aid-use-and-care">Resource Center</a></li><li><a href="/hearing-aid-use-and-care/hearing-aid-care-and-maintenance">Hearing Aid Care &amp; Maintenance</a><ul>
+				<li><a href="/hearing-aid-use-and-care/hearing-aid-care-and-maintenance/hearing-aid-troubleshooting">Hearing Aid Troubleshooting</a></li>
+			</ul></li><li><a href="/hearing-aid-use-and-care/operation-manuals">Operations Manuals</a></li><li><a href="/hearing-aid-use-and-care/instructional-videos">Instructional Videos</a></li><li><a href="/hearing-aid-use-and-care/batteries">Batteries</a></li><li><a href="/hearing-aid-use-and-care/financing">Financing</a></li><li><a href="/hearing-aid-use-and-care/warranty-plans">Warranty Plans</a></li>
+		</ul><div class="dropdown-end">
+			&nbsp;
+		</div>
+	</div></li>
 </ul>
-
-<!--EndNoIndex-->
+        <div id="global-navigation-end">
+            &nbsp;</div>
     </div>
-    </form>
-    <!--BeginNoIndex-->
+    <div id="global-search">
+        <label>
+            Search<br>
+            <input name="phd_1$TbSearchMain" type="text" id="phd_1_TbSearchMain"></label>
+        <div id="global-tools">
+            <div id="global-tools-mystarkey">
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+            <div id="global-tools-font">
+                <a href="javascript:IncrementTextSize()"><img src="/~/media/Starkey2011/Images/font-icon.ashx" width="29" height="13"></a>
+            </div>
+            <div id="global-tools-email">
+                <a class="email_friend" href="#"><img src="/~/media/Starkey2011/Images/email-icon.ashx" width="20" height="13"></a>
+            </div>
+            
+            <div id="global-tools-end">
+                &nbsp;</div>
+        </div>
+    </div>
+</div>
+
+
+            
+<div id="layout-standard">
+<div class="layout-standard-col1">
+<div id="page-header" style="background-image:url(/~/media/Starkey2011/Images/page-headers/header-careers.ashx);background-repeat:no-repeat;"><div id="page-header-inner">Starkey <span>Corporate</span></div></div>
+<div id="breadcrumb">
+<a href="/">Home</a>&nbsp;&nbsp;//&nbsp;&nbsp;Privacy Policy
+</div>
+</div>
+<div class="layout-standard-col2">
+<div id="find-banner-where" style="background-image:url(/~/media/Starkey2011/Images/find-banner-where.ashx);"><div id="find-banner-where-top"><span>Where to Buy</span><div class="find-banner-where-search"><div class="find-banner-where-search-button"><a href="javascript:window.location.href=('/find-a-professional?zipcode=' + document.getElementById('where-to-buy-search').value);"><div id="where-to-buy-search-go"><p>GO</p></div></a></div><input id="where-to-buy-search" value="Zip Code" type="text" name="wheretobuysearch" onfocus="clearTextFieldDefault('where-to-buy-search', 'Zip Code');" onblur="restoreTextFieldDefault('where-to-buy-search', 'Zip Code');" onkeypress="submitFindProSearchOnEnter(event, 'where-to-buy-search');"></div></div><a href="/corporate/internet-sales-policy/"><div id="find-banner-bottom">Purchase Starkey products only<span>from authorized hearing professionals</span></div></a></div><div id="breadcrumb-mirror">&nbsp;</div>
+</div>
+<div class="layout-standard-cols-divide">&nbsp;</div>
+
+<div class="layout-standard-col1">
+
+<div class="layout-standard-col1-content">
+    <div><div class="landing-intro-text standard"><h1>Privacy Policy</h1></div><div class="landing-intro-end">&nbsp;</div></div>
+		<p>This site is owned and operated by Starkey Laboratories, Inc. Your privacy on the Internet is of the utmost importance to us. At Starkey, we want to make your experience online satisfying and safe.</p>
+<p>Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. Rest assured that the information you provide is safeguarded. This privacy statement discloses what information we gather and how we use it.</p>
+<h2>Information Starkey gathers and tracks</h2>
+<p>We gather two types of information about users:</p>
+<ul>
+	<li>Information that users provide through optional, voluntary submissions. We collect this information to customize our features for individual visitors who are Starkey customers and to notify customers about updates to our site and products or services.</li>
+	<li>Information Starkey gathers through aggregated tracking is used to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. We collect this information in order to determine how to create the best experience for our customers. We may track search terms entered in our Search function as one of many measures of what interests our users, but this tracking is never associated with an individual user.</li>
+</ul>
+<h2>Use of personal information</h2>
+<p>Starkey strictly protects the security of your personal information and honors your choices for its intended use. We disclose your information to no third parties unless it is specifically stated otherwise. We may use third party contractors to help us operate our business and the sites or administer activities on our behalf, and may share your personal information with these contractors for those limited purposes. We use your information solely to fulfill services, transact a purchase, and help us improve our website and product offering to you. Notwithstanding any other provision to the contrary, Starkey reserves the right to cooperate with local, state and federal officials in any investigation relating to any purported illegal activity(ies) and, when required by law, regulation, legal process or government requests, to disclose any personal information furnished by you or collected by Starkey to law enforcement authorities or other relevant or related third parties.</p>
+<p>Your information may be stored and processed in the United States or any other country in which Starkey or its affiliates, subsidiaries or agents maintain facilities. By using this site, you consent to any such transfer of information outside of your country. Starkey abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Union.</p>
+<h2>Children</h2>
+<p>Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.</p>
+<h2>Cookies</h2>
+<p>We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Starkey uses cookies to track user traffic patterns (as described above). You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site; however, it will help you to participate more actively in some features.</p>
+<h2>Healthcare disclaimer</h2>
+<p>The information presented on <a href="http://www.starkey.com/">www.starkey.com</a> or <a href="http://www.starkeypro.com/">www.starkeypro.com</a> is not intended to be medical advice and should not be relied upon as such. If you suspect a hearing problem, Starkey strongly urges you to consult with a qualified physician or hearing professional.</p>
+<h2>Links to other websites and services</h2>
+<p>The Starkey websites may contain links to other sites that are not under our control. These websites have their own policies regarding privacy. You should review those policies when visiting the websites. Starkey has no responsibility for linked websites and is not responsible for the content of any such site. Starkey provides these links solely for the convenience and information of our visitors.</p>
+<h2>Security</h2>
+<p>Starkey operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.</p>
+<h2>Policy amendment</h2>
+<p>Starkey approaches Internet communications with a strong commitment to individual privacy rights and concerns. As the Internet evolves, our policy will continue to change and develop. We therefore reserve the right to amend this Privacy Policy at any time with or without prior notice. Please check this page periodically for changes. Your continued use of the sites following any changes to this Privacy Policy will constitute your acceptance of such changes.</p>
+<h2>Contact us</h2>
+<p>If you have questions about the Privacy Policy or your experience with any of our sites, please <a href="%7E/link.aspx?_id=53E4AED58F7745F0B598AD8B71B13663&amp;_z=z">contact us</a>.</p>
     
+</div>
+</div>
+<div class="layout-standard-col2">
+
+<div id="sidebar">
+<div class="sidebar-module"><p><a href="http://video.starkeygroup.com/uvp/starkey/innovationinaction.html" class="sidebar-video"><img src="/~/media/Starkey2011/Images/pdf-thumbs/innovationthumb2.ashx"></a></p><h3>Innovation In Action</h3><p>Innovation rules, and Starkey is leading the way by putting innovation in action.</p><div class="sidebar-links"><a href="http://video.starkeygroup.com/uvp/starkey/innovationinaction.html" class="cta-large-link sidebar-video">Play Video</a></div></div><div class="sidebar-module"><div class="newsletter-box" style="background-image:url(/~/media/Starkey2011/Images/pdf-thumbs/enewsletter.ashx);background-repeat:no-repeat;"><h4>Starkey eNewsletter</h4><p>Get the latest hearing news from Starkey.</p><div class="sidebar-links"><a href="/corporate/eNewsletter-signup" class="cta-large-link">Sign Up</a></div></div></div><div class="sidebar-module"><div class="newsletter-box" style="background-image:url(/~/media/Starkey2011/Images/pdf-thumbs/pride-of-ownership.ashx);background-repeat:no-repeat;"><h4>The Starkey Experience Brochure</h4><div class="sidebar-links"><a href="/~/media/Starkey2011/Files/The-Starkey-Experience-Brochure.ashx" target="_blank" class="cta-large-link">Download PDF</a></div></div></div>
+</div>
+</div>
+<div class="layout-standard-cols-end">&nbsp;</div>
+</div>
+            
+            
+        </div>
+    </div>
+   
+<div id="global-footer-wrapper">
+	<div id="global-footer">
+		<div id="global-footer-col1">
+			<a href="http://www.facebook.com/pages/Starkey/287397458800?ref=ts" target="_blank"><img src="/~/media/Starkey2011/Images/facebook.ashx" class="facebook-icon" width="16" height="16"></a><p><a href="/corporate/contact-us" class="cta-link">Contact Us</a></p><p><a href="/corporate/customer-service-feedback" class="cta-link">Customer Service/Feedback</a></p>
+		</div>
+		<div id="global-footer-col2">
+			<p><a href="/corporate/eNewsletter-signup" class="cta-link">Sign up for the Starkey eNewsletter</a></p>
+		</div>
+		<div id="global-footer-col3">
+		    <p><a href="/news-and-events">News and Events</a> | <a href="/what-we-are-hearing">What We're Hearing</a> | <a href="/corporate/careers">Careers</a> | <a href="/corporate/hearing-health-resources">Hearing Health Resources</a> | <a href="/corporate/privacy-policy">Privacy Policy</a> | <a href="/corporate/internet-sales-policy">Internet Sales Policy</a></p><p>© 2007-2011 Starkey Laboratories, Inc. All Rights Reserved</p>
+		</div>
+		<div id="global-footer-end">&nbsp;</div>
+	</div>
+</div> 
+    
+    </form>
+    
+    <!--BeginNoIndex-->
+    <!-- ClickTale Bottom part -->
+
+    <div id="ClickTaleDiv" style="display: none;">
+    </div>
+    <script type="text/javascript">
+        document.write(unescape("%3Cscript%20src='" + (document.location.protocol == 'https:' ? 'https://clicktale.pantherssl.com/' : 'http://s.clicktale.net/') + "WRc3.js'%20type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://clicktale.pantherssl.com/WRc3.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var ClickTaleSSL = 1;
+        if (typeof ClickTale == 'function') ClickTale(9960, 0.5, "www07");
+    </script>
+<!-- ClickTale end of Bottom part -->
+
     <!-- Start of Google Analytics  -->
     <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-1574251-9']);
         _gaq.push(['_trackPageview']);
 
-        (function() {
+        (function () {
             var ga = document.createElement('script');
             ga.type = 'text/javascript';
             ga.async = true;
@@ -257,7 +292,6 @@
     </script>
     <!-- End of Google Analytics  -->
 
-    
     <!-- Start of HubSpot Logging Code  -->
     <script type="text/javascript" language="javascript">
         var hs_portalid = 70717;
@@ -266,11 +300,7 @@
         document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://starkey.app7.hubspot.com/salog.js.aspx" type="text/javascript"></script>
     <!-- End of HubSpot Logging Code -->  
-    
-
-
-   
     <!--EndNoIndex-->
 
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
