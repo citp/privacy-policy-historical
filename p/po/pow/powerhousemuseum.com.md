@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629071137id_/http%3A//www.powerhousemuseum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213013639id_/http%3A//www.powerhousemuseum.com/privacy) for the most accurate reproduction.*
 
 # Powerhouse Museum - Online privacy statement
 
