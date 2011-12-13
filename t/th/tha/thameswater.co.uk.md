@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thameswater.co.uk privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612051058id_/http%3A//www.thameswater.co.uk/cps/rde/xchg/corp/hs.xsl/4444.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thameswater.co.uk privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213194241id_/http%3A//www.thameswater.co.uk/cps/rde/xchg/corp/hs.xsl/4444.htm) for the most accurate reproduction.*
 
-# Privacy policy - - Thames Water
+# Privacy policy - Thames Water
 
-## Our privacy policy
+Last updated: 11.7.2011 - 8.17pm
 
 Thames Water is committed to protecting your privacy and complying with the Data Protection Act 1998. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  
 
@@ -14,7 +14,7 @@ We may collect store and process the following information that you provide to u
 
   * Any personal details you submit to us such as name, address, email address etc. This includes information provided when you enter a competition or promotion; 
   * Any information you provide to us when we ask you to complete surveys that we use for research purposes, although you do not have to respond to them; 
-  * Payment details in respect of payments that you make via this website including payment card details and other transaction details (Please note that we do not retain credit verification numbers (CVCs)).; 
+  * Payment details in respect of payments that you make via this website including payment card details and other transaction details. Please note - we do not retain credit verification numbers (CVCs); 
   * Opt in and opt out preferences that you provide to us via this website confirming whether you wish us (and selected third parties) to contact you with information and offers that may be of interest to you; 
 
 
@@ -71,6 +71,6 @@ RG1 8DB
 
 or complete our online enquiry form:
 
-[Online enquiry form](https://web.archive.org/cps/rde/xchg/corp/hs.xsl/12968_9518.htm "Online enquiry form")
+[Online enquiry form](https://web.archive.org/cps/rde/xchg/corp/hs.xsl/14109.htm "Online enquiry form")
 
    Last updated: June 2011
