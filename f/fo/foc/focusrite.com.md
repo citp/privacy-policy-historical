@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the focusrite.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225051019id_/http%3A//www.focusrite.com/media/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusrite.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213220436id_/http%3A//focusrite.com/policy) for the most accurate reproduction.*
 
-# Focusrite.com Privacy Policy
-
-### Privacy Policy
+# Privacy Policy
 
 Focusrite Audio Engineering Limited ("We") are committed to protecting and respecting your privacy.
 
@@ -22,7 +20,7 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 Details of transactions you carry out through our site and of the fulfilment of your orders.
 
-Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access. 
+Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
 
 **IP addresses and cookies**
 
@@ -38,7 +36,8 @@ To speed up your searches.
 
 To recognise you when you return to our site. 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
+  
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
 **Where we store your personal data**
 
@@ -62,7 +61,7 @@ To allow you to participate in interactive features of our service, when you cho
 
 To notify you about changes to our products.
 
-We will not disclose any information to third party companies. 
+We will not disclose any information to third party companies.
 
 **Disclosure of your information**
 
@@ -74,11 +73,12 @@ In the event that we sell or buy any business or assets, in which case we may di
 
 If Focusrite Audio Engineering Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
+  
 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/media/site/tou.html) and other agreements; or to protect the rights, property, or safety of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **Your rights**
 
-We will not disclose any information to third party companies unless required to do so under the terms of any contract between us. 
+We will not disclose any information to third party companies unless required to do so under the terms of any contract between us.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
