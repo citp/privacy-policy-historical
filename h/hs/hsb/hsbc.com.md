@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013511id_/http%3A//www.hsbc.com./1/2/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213043300id_/http%3A//www.hsbc.com/1/2/terms-and-conditions/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement
 
