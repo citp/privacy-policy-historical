@@ -1,57 +1,48 @@
-> *The following text is extracted and transformed from the ready.gov privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623091610id_/http%3A//www.ready.gov/america/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ready.gov privacy policy that was archived on 2011-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111213011941id_/http%3A//www.fema.gov/help/privacy.shtm) for the most accurate reproduction.*
 
-# Ready.gov: Privacy Policy
+# FEMA: FEMA Privacy Policy
 
-Thanks for visiting the _Ready_.gov website and reviewing our privacy policy! Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information. 
+## Introduction
 
-We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website. 
-
-###  Information Collected and Stored Automatically 
-
-When you browse, read pages or download information on the _Ready_.gov website, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below: 
-
-  * The Internet domain (for example, "example.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website; 
-  * The type of browser (e.g., Netscape, Internet Explorer) and operating system (Windows, Unix) used to access our site; 
-  * The date and time you access our site; 
-  * The pages you visit; and 
-  * If you linked to the _Ready_.gov website from another website, the address of that website. 
+  1. This World Wide Web (WWW) site is provided as a public service by the Federal Emergency Management Agency, FEMA.
+  2. Information presented on this FEMA WWW site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested.
 
 
 
-This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits. 
+## Information collected and stored automatically
 
-###  Cookies 
+  1. The information we learn about you from your visit to our website depends upon what functions you perform when visiting our site.
+  2. For site management, information is collected for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+  3. If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store the following information about your visit:
+    * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
+    * The type of browser and operating system used to access our site; 
+    * The date and time you access our site;
+    * The pages you visit; and 
+    * If you linked to the FEMA website from another website, the address of that website.
 
-_Ready_.gov uses cookies on its websites solely to allow complex, software user-driven applications to function correctly. Currently _Ready_ only uses session cookies, which only stores information based on a user's current session and does not store the information to compare with a user's future sessions. _Ready_ 's use of cookie technology is not otherwise designed, intended or used to collect, store or analyze information pertaining to Internet users. 
-
-###  If You Send Us Personal Information 
-
-If you choose to provide us with personal information -- like filling out a Contact Us form with personal information and submitting it to us through the website -- we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give it to any private organizations. Ready.gov never collects information for commercial marketing. 
-
-###  Site Security 
-
-  * For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
-  * Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. 
-  * Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
+We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits. 
 
 
 
-###  _Ready_.gov Linking Policy 
 
-_Ready_.gov links to many websites created and maintained by other public and/or private organizations. _Ready_.gov provides these links as a service to our users. When users link to an outside website, they are leaving the Ready.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). 
+## Cookies
 
-###  Prohibitions 
+FEMA uses cookies on its websites solely to allow complex, software user-driven applications to function correctly. For example, FEMA's online ordering services for U.S. Fire Administration and the FEMA Flood Map Store publications allow users to shop through online catalogs. When a user "checks off" a publication, the transaction consists of a separate "signal" that is sent by the user's computer to FEMA's site. In order to maintain a complete record of the total order, the FEMA server sends a "cookie" back to the user's computer solely for the purposes of identifying that user's order. The only information collected during this process is related to that particular publication order. This information is not retained after the online order is sent or completed. FEMA's use of cookie technology is not otherwise designed, intended or used to collect, store or analyze information pertaining to Internet users.
 
-Ready.gov will not link to any website that exhibits hate, bias or discrimination. Furthermore, we reserve the right to deny or remove any link that contains misleading information or unsubstantiated claims, or is determined to be in conflict with Ready.gov's mission or policies. 
+## Security and Intrusion Detection
 
-###  Disclaimer of Endorsement 
+Unauthorized attempts to defeat or circumvent security features, to use the system for other than intended purposes, to deny service to authorized users, to access, obtain, alter, damage, or destroy information, or otherwise to interfere with the system or its operation is prohibited. Evidence of such acts may be disclosed to law enforcement authorities and result in criminal prosecution under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996 (Pub. L. 104-294), (18 U.S.C. 1030), or other applicable criminal laws.
 
-The information posted on the _Ready_.gov website includes hypertext links or pointers to information created and maintained by other public and/or private organizations. _Ready_.gov provides these links and pointers solely for our users' information and convenience. When users select a link to an outside website, they are leaving the _Ready_.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website. 
-
-  * _Ready_.gov does not control or guarantee the accuracy, relevance, timeliness or completeness of information contained on a linked website. 
-  * _Ready_.gov does not endorse the organizations sponsoring linked websites and we do not endorse the views they express or the products/services they offer. 
-  * _Ready_.gov does not and cannot authorize the use of copyrighted materials contained in linked websites. Users must request such authorization from the sponsor of the linked website. 
-  * _Ready_.gov is not responsible for transmissions users receive from linked websites. 
-  * _Ready_.gov does not guarantee that outside websites comply with the requirements of Section 508 (Accessibility Requirements) of the Rehabilitation Act. 
+  1. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor host and network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+  2. Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. 
+  3. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act."
 
 
+
+## Social Media
+
+FEMA has been engaging in Web 2.0 tools and on social media sites nationwide as part of its mission to prepare the nation for disasters. To view how FEMA is using Web 2.0 tools and for a complete list of FEMA’s on and off network Web 2.0 tools please see [www.fema.gov/help/social_media.shtm](https://web.archive.org/help/social_media.shtm).
+
+FEMA is not collecting or retaining any privacy information from our use of third party Web 2.0 application. We are however, retaining a copy of all comments posted to our sites as required by our records retention policy and will only be releasing them when required by Federal law. We ask that you do not provide any personally identifiable information such as: a FEMA case number, social security number, or any other information you do not want available to the general public in your comments to FEMA when using these applications. FEMA will attempt to remove any personally identifiable information from these sites, but may not be able to do so until after it has been made publically available. If you choose to post personally identifiable information on any public site you do so at your own risk. FEMA disclaims any liability for any loss or damage resulting from any comments posted on these applications. The privacy policies of all third party sites apply in the collection and dissemination of user data. FEMA encourages all users to read the privacy policies before registering or posting to any application. If you have any comments that you wish to share with FEMA involving personally identifiable information please contact the appropriate [FEMA program](http://faq.fema.gov/cgi-bin/fema.cfg/php/enduser/doc_serve.php?2=home).
+
+Last Modified: Wednesday, 11-Aug-2010 10:53:58 EDT
