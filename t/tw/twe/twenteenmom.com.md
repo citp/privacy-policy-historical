@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twenteenmom.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521063208id_/http%3A//www.twenteenmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenteenmom.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193957id_/http%3A//www.twenteenmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Twen TEEN Mom » Privacy Policy
 
