@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 604republic.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626021552id_/http%3A//www.604republic.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 604republic.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214195223id_/http%3A//www.604republic.com/info/privacypolicy) for the most accurate reproduction.*
 
 # 604Republic - Privacy Policy
 
