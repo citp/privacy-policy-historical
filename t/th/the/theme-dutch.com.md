@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the theme-dutch.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508183520id_/http%3A//theme-dutch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theme-dutch.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214024955id_/http%3A//theme-dutch.com/privacy) for the most accurate reproduction.*
 
-# Theme Dutch I High End Wordpress themes » Privacy
+# Privacy | Theme-dutch I Wordpress Theme Development
 
 THEME DUTCH knows how our clients and visitors like you value your privacy, and we have created this privacy policy to ensure that you understand our policies and procedures, what personally identifiable information you must provide if you wish to use the Site and, ultimately, just how we use such personally identifiable information.
 
-This policy applies only to the web site located at www.theme-dutch.com, and not to any other web site or service. If you do not agree with this policy, then you should not use the Site.
+This policy applies only to the web site located at www.theme-dutch.com, and not to any other web site or service. If you do not agree with this policy, then you should not use the Site. 
 
 ## Personally Identifiable Information Collected By THEME DUTCH
 
-THEME DUTCH may collect and store personally identifiable information about you if you voluntarily submit such information to THEME DUTCH. Personally identifiable information may include your name, email address, physical address and other information that specifically identifies you.
+THEME DUTCH may collect and store personally identifiable information about you if you voluntarily submit such information to THEME DUTCH. Personally identifiable information may include your name, email address, physical address and other information that specifically identifies you. 
 
 ## Non-Personally Identifiable Information Collected by THEME DUTCH
 
-THEME DUTCH may also automatically collect (through cookies, described below, and other methods) and store aggregate or anonymous information about user contact with and use of the Site. Examples of this type of information include demographic information, the type of internet browser you are using, the type of computer operating system application software and peripherals you are using, the domain name of the web site from which you linked to our Site and your browsing habits on and usage of the Site. Non-Personally identifiable information may also include personally identifiable information that has been aggregated so that no one individual is specifically identifiable (such as, how many users in a particular city access the Site).
+THEME DUTCH may also automatically collect (through cookies, described below, and other methods) and store aggregate or anonymous information about user contact with and use of the Site. Examples of this type of information include demographic information, the type of internet browser you are using, the type of computer operating system application software and peripherals you are using, the domain name of the web site from which you linked to our Site and your browsing habits on and usage of the Site. Non-Personally identifiable information may also include personally identifiable information that has been aggregated so that no one individual is specifically identifiable (such as, how many users in a particular city access the Site). 
 
 ## How We Use Your Personally Identifiable Information
 
@@ -22,11 +22,11 @@ Information obtained in connection with the Site may be intermingled with and us
 
 We reserve the right to transfer any information to our successors in business and purchasers of Site assets or a particular division or line of business.
 
-We also reserve the right to access and/or disclose any information as required by courts or administrative agencies and to the extent necessary to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Site rules or policies, or the rights of third parties or to investigate any suspected conduct which THEME DUTCH deems improper.
+We also reserve the right to access and/or disclose any information as required by courts or administrative agencies and to the extent necessary to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Site rules or policies, or the rights of third parties or to investigate any suspected conduct which THEME DUTCH deems improper. 
 
 ## How We Use Your Non-Personally Identifiable Information
 
-We may share non-personally identifiable information with third parties for any number of reasons, including advertising, promotional and/or other purposes.
+We may share non-personally identifiable information with third parties for any number of reasons, including advertising, promotional and/or other purposes. 
 
 ## Cookies
 
@@ -38,32 +38,32 @@ At times, some of our advertisers and their ad service providers set cookies whe
 
 ## Links
 
-The Site may contain links to web sites maintained by third parties. THEME DUTCH is not responsible for the privacy practices of such third party sites. You should carefully read their own privacy policies before providing any information to such third parties.
+The Site may contain links to web sites maintained by third parties. THEME DUTCH is not responsible for the privacy practices of such third party sites. You should carefully read their own privacy policies before providing any information to such third parties. 
 
 ## Opt Out Procedures
 
 You have the option to opt out of receiving information from THEME DUTCH. This opt out messaging will appear at the bottom of every promotional email that is sent out to you by THEME DUTCH in relation to this Site. THEME DUTCH also gives you the option to remove your information from its database of active users. If you no longer wish to take advantage of this Site or to receive any form of direct contact from THEME DUTCH, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personally identifiable information from our database of active users, send us a request marked “Privacy-Urgent”, and contact us.
 
 However, THEME DUTCH is not responsible for removing information from third party lists or databases of any kind if we have shared your information with such third parties as permitted by this policy.  
-Please note that, notwithstanding the fact that we may have removed your information from our list of active users, we reserve the right to keep any information submitted or collected for business reasons, such as archiving data.
+Please note that, notwithstanding the fact that we may have removed your information from our list of active users, we reserve the right to keep any information submitted or collected for business reasons, such as archiving data. 
 
 ## Reviewing or changing your information
 
 In order to ensure that the information we maintain is accurate, THEME DUTCH gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please contact us.
 
-THEME DUTCH is not responsible for updating information contained in third party lists or databases.
+THEME DUTCH is not responsible for updating information contained in third party lists or databases. 
 
 ## Security
 
-We are committed to taking reasonable steps to ensure the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put into place physical, electronic, and managerial procedures to help safeguard and secure the information we collect online. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and us or information stored on the Site or our servers, will be completely free from unauthorized access by third parties such as hackers and your use of the Site demonstrates your assumption of this risk.
+We are committed to taking reasonable steps to ensure the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put into place physical, electronic, and managerial procedures to help safeguard and secure the information we collect online. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and us or information stored on the Site or our servers, will be completely free from unauthorized access by third parties such as hackers and your use of the Site demonstrates your assumption of this risk. 
 
 ## The Netherlands
 
-Our Site is maintained in The Netherlands. By using the Site, you freely and specifically give us your consent to export your personally identifiable information to The Netherlands and to store and use it in The Netherlands as specified in this policy.
+Our Site is maintained in The Netherlands. By using the Site, you freely and specifically give us your consent to export your personally identifiable information to The Netherlands and to store and use it in The Netherlands as specified in this policy. 
 
 ## Your Consent
 
-We may amend our privacy policy at any time and will post those changes on this page, so you are always aware of what information we collect, how we use it and under what circumstances we may disclose it. However, if we plan to materially change the way in which we use or disclose your personally identifiable information, we will provide you with prior notice and a chance to opt-out of such differing uses.
+We may amend our privacy policy at any time and will post those changes on this page, so you are always aware of what information we collect, how we use it and under what circumstances we may disclose it. However, if we plan to materially change the way in which we use or disclose your personally identifiable information, we will provide you with prior notice and a chance to opt-out of such differing uses. 
 
 ## Contacting Us
 
@@ -71,4 +71,4 @@ If you have any questions about this privacy policy, the practices of this Site,
 
 In addition, our mailing address is: THEME DUTCH  
 Headquarters : Koningin Regentesselaan 44, 6043 CM ROERMOND  
-Effective Date: This privacy policy was last updated on August 04, 2010. 
+Effective Date: This privacy policy was last updated on August 04, 2010.
