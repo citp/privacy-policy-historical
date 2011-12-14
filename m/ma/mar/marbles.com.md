@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marbles.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505014350id_/http%3A//marbles.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marbles.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214063843id_/http%3A//www.marbles.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -24,7 +24,7 @@ Organisations must lodge a notification with the Information Commissioner descri
 
 Unless you have given us your consent, we will not provide information about you to companies outside our group to use for their own marketing purposes. Sometimes we need to give information to our agents and subcontractors so that they can provide a particular service for us. Sometimes, these companies may be located abroad in countries that do not have adequate data protection laws. In these circumstances we always take great care to ensure that your personal information is kept safe and secure. If you hold a credit or debit card with us, we will share transaction details with our scheme providers (e.g. MasterCard). Other members of our group may also share your information to help keep their records up to date and administer your relationship with them.
 
-We are also committed to meeting the standards set by the Banking Code, copies of which are available in branches of Halifax or on their website ([www.bba.org.uk](http://www.bba.org.uk/)). Occasionally, the Banking Code Standards Board's compliance monitoring body audits a sample of our customer records to assess our compliance with the Code. Whenever this happens, strict confidentiality conditions are always imposed.
+We also subscribe to The Lending Code; copies of the Code can be obtained from [www.lendingstandardsboard.org.uk](http://www.lendingstandardsboard.org.uk/)
 
 Some Acts of Parliament oblige us to disclose information about our customers to certain bodies with statutory powers. For example, we must give information to authorised benefit fraud investigators where fraudulent benefit claims are suspected. In addition, the Inland Revenue has the statutory authority to audit our customers' accounts from time to time.
 
@@ -72,7 +72,7 @@ A:** Credit reference agencies (CRAs) collect and maintain information on consum
 A:** Fraud Prevention Agencies (FPAs) collect, maintain and share information on known and suspected fraudulent. Some CRAs also act as FPAs.
 
  **Q: Why do you use them when I have applied to your organisation?**  
- **A:** Although you have applied to aqua and we will check our own records, we will also contact CRAs to get information on your credit behaviour with other organisations. This will help us make the best possible assessment of your overall situation before we make a decision.
+ **A:** Although you have applied to marbles and we will check our own records, we will also contact CRAs to get information on your credit behaviour with other organisations. This will help us make the best possible assessment of your overall situation before we make a decision.
 
  **Q: Where do they get the information?  
 A:** Publicly available information:  
