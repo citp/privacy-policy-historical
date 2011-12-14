@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614190055id_/http%3A//www.djintelligence.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214034424id_/http%3A//www.djintelligence.com/privacy.asp) for the most accurate reproduction.*
 
 # DJ Intelligence® - Privacy Statement
 
 |   
   
 ---  
-**Tuesday, June 14, 2011   **  
+**Tuesday, December 13, 2011   **  
    
 | **   [Home Page](http://www.djintelligence.com/)**  
 | **   [Live Demo Sites](http://www.djintelligence.com/demo.asp)**  
@@ -26,11 +26,11 @@
 **Professional DJs Speak Up   **  
  
 
-|  "I have to tell after only one evening of checking out the site with the trial subscription and I was convinced." |    
+|  "So far my client list has grown 20% and I have clients telling me how easy it is to plan their wedding or special event." |    
 ---|---  
   
    
-[Just For Fun Mobile Music](http://www.djintelligence.com/success.asp)    
+[Whitman Events](http://www.djintelligence.com/success.asp)    
    
   
 ---  
@@ -99,6 +99,6 @@ Intelligence, Inc. takes your privacy seriously. Please read the following to le
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20110614190055id_/http%3A//www.djintelligence.com/contact.asp).
+  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20111214034424id_/http%3A//www.djintelligence.com/contact.asp).
 
 
