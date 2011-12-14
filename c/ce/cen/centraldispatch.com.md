@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centraldispatch.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422172421id_/http%3A//www.centraldispatch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraldispatch.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214010943id_/http%3A//www.centraldispatch.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for CentralDispatch | The Auto Industry's Vehicle Shipping Marketplace
 
@@ -36,4 +36,4 @@ This Privacy Policy is effective as of March 22, 2006. We reserve the right to c
 
 ###### Contact Us
 
-If you have any questions about our company, this Web site or this Privacy Policy, please contact us by clicking on the [Contact Us](https://web.archive.org/contactus.htm) link on this Web site.
+If you have any questions about our company, this Web site or this Privacy Policy, please contact us by clicking on the [Contact Us](https://web.archive.org/external/contact-us) link on this Web site.
