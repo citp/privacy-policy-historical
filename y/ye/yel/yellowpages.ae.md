@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yellowpages.ae privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303200226id_/http%3A//www.yellowpages.ae/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.ae privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214011051id_/http%3A//www.yellowpages.ae/Privacy_Policy.htm) for the most accurate reproduction.*
 
-# Yellow Pages – UAE’s Official Local Search Engine/Business Listings – Privacy Policy
+# Yellow Pages – UAE’s Official Business Listings – Privacy Policy
 
 This Privacy and Security Policy addresses the privacy of visitors to the YellowPages.ae website. It identifies the type of data and information Etisalat and Al Wahda-Express L.L.C. (Etisalat’s Official Publisher) collects from visitors, how we use and disclose it, and the steps we take to secure your privacy.
 
