@@ -1,23 +1,25 @@
-> *The following text is extracted and transformed from the otcstockexchange.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222140922id_/http%3A//www.otcstockexchange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otcstockexchange.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214031449id_/http%3A//otcstockexchange.com/privacy-policy) for the most accurate reproduction.*
 
-# OTCStockExchange - Privacy
+# Privacy-Policy : OTCStockExchange
 
-**OTCStockexchange.com is strongly committed to protecting the privacy of its user community.**
+You are here: [Home](http://otcstockexchange.com/) / Privacy-Policy
 
-The intent of this privacy policy is to detail the information OTCStockexchange.com may gather about individuals who visit its Web sites, how that information is used, and OTCStockexchange.com's disclosure practices. Please note that this policy applies only to OTCStockexchange.com's Web sites and not to the Web sites of other companies or organizations to which we provide links.
+OTCStockExchange.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
-**SITE USAGE INFORMATION**  
-OTCStockexchange.com gathers "site usage" information from all visitors to the OTCStockexchange.com Web sites. Such data is used in the aggregate, to help determine general usage patterns and fine-tune layout in order to ensure that our sites are as useful and enjoyable as possible. This "site usage" and statistical information may be made public information at OTCStockexchange.com's discretion. 
+#### Routine Information Collection
 
-Please note that OTCStockexchange.com does not control all HTML served in conjunction with its sites. OTCStockexchange.com sites may include content from other parties that may perform user activity tracking other than that described herein. In particular, some of our partners may use "cookies" in ways that we do not. 
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-**INDIVIDUAL USER INFORMATION**  
-Individually identifiable information will not be released without that individual's prior consent. Visitors are specifically asked for individually identifiable information when signing up to use certain OTCStockexchange.com services. In some instances, users may be asked for personal interest and demographic information in order to create a more customized user experience; however these fields will generally be optional and not shared. 
+#### Cookies and Web Beacons
 
-From time to time OTCStockexchange.com and/or its partners may wish to contact individual users regarding community news or to make promotional offers. However, such communications will only be delivered to users who have previously approved them. 
+Where necessary, Quick Auction Cash uses cookies to store information about a visitor�s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-**DISCLOSURE**  
-OTCStockexchange.com reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, OTCStockexchange.com will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregate "site usage" information with third parties. 
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-**OUR PURPOSE**  
-OTCStockexchange.com's purpose is to provide an educational forum for investment ideas. Our articles and columns should not be construed as investment advice, nor does their appearance imply an endorsement by OTCStockexchange.com of any specific security or trading strategy. An investor's best course of action must be based on individual circumstances. This material is for personal use only.
+#### Controlling Your Privacy
+
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+
+#### Contact Information
+
+If you have any questions or concerns about this privacy policy you can contact us from **Contact Page** for further clarification.
