@@ -1,33 +1,7 @@
-<!--The following is the downloaded HTML source of the travelreveal.com privacy policy that was archived on 2011-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615200656id_/http%3A//www.travelreveal.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelreveal.com privacy policy that was archived on 2011-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214033028id_/http%3A//www.travelreveal.com/privacy-policy) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><div id="fb-root"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId   : '115137445210730',
-          session : null, // don't refetch the session when PHP already has it
-          status  : true, // check login status
-          cookie  : true, // enable cookies to allow the server to access the session
-          xfbml   : true // parse XFBML
-        });
-
-        // whenever the user logs in, we refresh the page
-        FB.Event.subscribe('auth.login', function() {
-          window.location.reload();
-        });
-      };
-
-      (function() {
-        var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-      }());
-    </script> 
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy of Travelreveal.com – deny unauthorized access to application.</title>
  
 
@@ -44,14 +18,52 @@
 <meta name="author" content="travelreveal.com team">
 <meta name="copyright" content="www.travelrevealreveal.com">
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8">
-<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"><link href="http://www.travelreveal.com/css/common.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.travelreveal.com/images/fevicon.gif"><link href="http://www.travelreveal.com/css/common.css" rel="stylesheet" type="text/css">
 <link href="http://www.travelreveal.com/css/destination.css" rel="stylesheet" type="text/css"> 
+</head>
+<body> <div id="fb-root"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId   : '115137445210730',
+          session : null, // don't refetch the session when PHP already has it
+          status  : true, // check login status
+          cookie  : true, // enable cookies to allow the server to access the session
+          xfbml   : true // parse XFBML
+        });
 
+        // whenever the user logs in, we refresh the page
+        FB.Event.subscribe('auth.login', function() {  
+		  if(document.getElementById("valSess").value==0)
+			{
+			  if(document.getElementById("registerPopUp").style.display=="block")
+				popup('registerPopUp');
+			  if(document.getElementById("loginPopUp").style.display=="block")  
+				popup('loginPopUp');
+			  document.getElementById("valSess").value=2; 
+			  
+			  if (document.getElementById("revewFor").value=="hotel")
+				  validateHotelRating(1);
+			  else if (document.getElementById("revewFor").value=="attraction")
+				  validateAttractionRating(1);
+			  else if (document.getElementById("revewFor").value=="city")
+				  validateCityRating(1);   
+			  else
+			     window.location.reload();
+			}
+		  else
+		    {  window.location.reload(); }
+        });
+      };
 
-<div id="mainWrapper" style="height:auto;"> 
-
-
-
+      (function() {
+        var e = document.createElement('script');
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+      }());
+    </script>
+<div id="mainWrapper" style="height:auto;">   
 <link href="http://www.travelreveal.com/css/popup.css" rel="stylesheet" type="text/css">
 <script language="javascript" type="text/javascript" src="http://www.travelreveal.com/commonJavascript/popup.js"></script>
 <script language="javascript" type="text/javascript" src="http://www.travelreveal.com/commonJavascript/validation.js"></script>
@@ -79,9 +91,10 @@
 		} 
 }
 </script>
+
 <div id="banner">
 <div id="logoBox">
-<div id="logo" style="cursor:pointer;" title="TravelReveal" onclick="window.location='http://www.travelreveal.com/'"></div>
+<div id="logo" style="cursor:pointer;" title="Travel Reveal" onclick="window.location='http://www.travelreveal.com/'"></div>
 </div>
 <div style="width:160px;height:18px; float:right; margin:5px 0px 0 0;"><fb:login-button perms="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests">
          Login with Facebook
@@ -92,14 +105,14 @@
 </div>
 </div>
 
-
+	<input type="hidden" name="valSess" id="valSess" value="0">
 <!--LOGIN START--> 
   <div id="blanket" style="display:none;"></div> 
   
 <div id="loginPopUp" style="display:none;">
 <div id="popupDiv">
-
-<div id="popupCloseButton" onclick="popup('loginPopUp')"><img src="http://www.travelreveal.com/images/common/tr.png" alt="Close" title="Close" hspace="0" align="absmiddle" class="closeImg"></div>
+ 
+<div id="popupCloseButton" onclick="popup('loginPopUp')"><img src="http://www.travelreveal.com/images/common/tr.png" alt="Close" title="Close" hspace="0" align="absmiddle" class="closeImg"></div> 
 <div class="popupCommonDiv">
   <h1>Sign in to TravelReveal</h1>
 </div>
@@ -110,16 +123,7 @@
   <p>Easily find your friend’s travel advice, and share your own.</p>
 </div>
 <div class="popupCommonDiv">
- <div id="fb-root"></div>
-      <script src="http://connect.facebook.net/en_US/all.js">
-      </script>
-      <script>
-         FB.init({ 
-            appId:'115137445210730', cookie:true, 
-            status:true, xfbml:true 
-         });
-      </script>
-      <fb:login-button perms="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests">
+       <fb:login-button perms="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests" onclick="popup('loginPopUp')">
          Login with Facebook
       </fb:login-button>
 </div>
@@ -159,52 +163,38 @@
 </div>
 <div class="popupCommonDiv">&nbsp;</div>
 <div style="width:500px; height:30px;">
-<div class="buttonSignIn" style="float:left; margin:0px; margin-left:150px;"><a href="javascript:void(0)" id="siginWait" onclick="login(0)" class="buttonClass">Sign In</a>&nbsp;</div>
+<div class="buttonSignIn" style="float:left; margin:0px; margin-left:150px; _margin-left:70px;"><a href="javascript:void(0)" id="siginWait" onclick="login(0)" class="buttonClass">Sign In</a>&nbsp;</div>
 <div style="width:120px; float:left; margin-left:40px; padding-left:5px;text-decoration:none; font-weight:normal; font-family:Arial; font-size:12px; color:#4b4b4b; text-align:justify; line-height:1.5em;">&nbsp;Don't have account?</div>
 <div class="buttonSignIn" style="float:left; margin:0px;" onclick="popup('registerPopUp');popup('loginPopUp')"><a href="#" class="buttonClass">Sign Up</a></div></div>
 </div>
 
-<input type="hidden" name="logintoken" id="logintoken" value="29780">
+<input type="hidden" name="logintoken" id="logintoken" value="83313">
     
+<input type="hidden" name="revewFor" id="revewFor" value="">
 </div>
  
 <!--LOGIN END-->
 <!--REGISTRATION START-->
 
 <div id="registerPopUp" style="display:none;">
-<div id="popupDiv">
-
-
-
+<div id="popupDiv"> 
 <div id="popupCloseButton" onclick="popup('registerPopUp')">
 <img src="http://www.travelreveal.com/images/common/tr.png" alt="Close" title="Close" hspace="0" align="absmiddle" class="closeImg">
-</div>
-
-
-
-
-
+</div> 
+  
 <div class="popupCommonDiv">
   <h1>Sign in to TravelReveal</h1>
 </div>
 <div class="popupCommonDiv">
- <div id="fb-root"></div>
-      <script src="http://connect.facebook.net/en_US/all.js">
-      </script>
-      <script>
-         FB.init({ 
-            appId:'115137445210730', cookie:true, 
-            status:true, xfbml:true 
-         });
-      </script>
-      <fb:login-button perms="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests">
+ 
+      <fb:login-button perms="email,user_checkins,friends_checkins,user_birthday,friends_birthday,user_about_me,user_hometown,friends_hometown,user_location,friends_location,user_likes,friends_likes,user_work_history,friends_work_history,user_education_history,friends_education_history,user_interests,friends_interests" onclick="popup('registerPopUp')">
          Login with Facebook
       </fb:login-button>
 </div>
 <div class="popupCommonDiv">
   <h2>...or fill out the form below</h2>
 </div>
-<div class="popupInformationDiv" style="margin-bottom:10px;">
+		<div class="popupInformationDiv" style="margin-bottom:10px;">
 <span class="error" id="validationServerError" style="width:200px; font-size:12px; margin-left:150px; text-align:center;"></span>
 
 <div class="textAndField">
@@ -216,7 +206,7 @@
 <div class="textAndField">
 <div class="textDiv">E-mail address:</div>
 <div class="textFieldDiv">
- <input name="emailCk" type="hidden" class="textFielClass" id="emailCk" value=""> <input name="email_h" type="text" class="textFielClass" id="email_h" onkeyup="emailIdCheck(this.value)" onblur="validation(1)" value="">&nbsp;&nbsp;&nbsp;<span class="error" id="errorEmail"> </span><span class="error" id="errorEmail2"> </span>
+ <input name="emailCk" type="hidden" class="textFielClass" id="emailCk" value=""> <input name="email_h" type="text" class="textFielClass" id="email_h" onkeyup="emailIdCheck(this.value)" maxlength="120" onblur="validation(1)" value="">&nbsp;&nbsp;&nbsp;<span class="error" id="errorEmail"> </span><span class="error" id="errorEmail2"> </span>
 </div>
 </div>
 <div class="textAndField">
@@ -250,7 +240,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="error" id="erroruserTNCChk"></span>
 <div class="popupCommonDiv" style="margin-top:5px;">  
   <div style="width:500px; height:30px;">
-<div class="buttonSignIn" style="float:left; margin:0px; width:70px; margin-left:110px;"><a href="javascript:void(0)" id="siginUpWait" onclick="validation(0)" class="buttonClass">Sign&nbsp;Up</a>&nbsp;</div>
+<div class="buttonSignIn" style="float:left; margin:0px; width:70px; margin-left:110px; _margin-left:70px;"><a href="javascript:void(0)" id="siginUpWait" onclick="validation(0)" class="buttonClass">Sign&nbsp;Up</a>&nbsp;</div>
 <div style="width:120px; float:left; margin-left:40px; padding-left:5px;text-decoration:none; font-weight:normal; font-family:Arial; font-size:12px; color:#4b4b4b; text-align:justify; line-height:1.5em;">&nbsp;Already a member?</div>
 <div class="buttonSignIn" style="float:left; margin:0px;" onclick="popup('registerPopUp');popup('loginPopUp')"> <a href="#" class="buttonClass">Sign In</a></div></div>
 </div>
@@ -337,28 +327,7 @@
 <!--MANAGE BUSINESSES START -->
 
 <div id="manageBusinessesPopUp" style="display:none;">
-<div id="popupDiv">
 
-<div class="popupCommonDiv" style="height:30px;">
- <div style="float:left;"> <h1>Business Accounts</h1></div><div onclick="popup('manageBusinessesPopUp')" style="float:right;"><img src="../images/common/tr.png" alt="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" title="Close" hspace="0" align="absmiddle" class="closeImg"></div>
-</div>
-<div class="popupInformationDiv" style="background:none; width:510px; height:300px; overflow:auto; padding:0px;">
-
-
-</div>
-
-
-
-
-
-
-<div class="popupCommonDiv" style="width:491px;">&nbsp;</div>
-<div class="textFieldDiv">
-  <div class="buttonSignInTwo" onclick="popup('manageBusinessesPopUp')" style="height:auto;"><a href="#" class="buttonClass">Cancel</a></div>
-</div>
-<div class="popupCommonDiv" style="width:491px;">&nbsp;</div>
-
-</div>
 </div>
 
 <!--MANAGE BUSINESSES END-->
@@ -376,7 +345,86 @@
 </div>
 </div>
  
-<!--MESSAGE POPUP END-->
+<!--MESSAGE POPUP END--> 
+
+<div id="feedBackPopUp" style="display:none;">
+	<div id="popupDiv"> 
+<div id="popupCloseButton" onclick="popup('feedBackPopUp')">
+<img src="http://www.travelreveal.com/images/common/tr.png" alt="Close" title="Close" hspace="0" align="absmiddle" class="closeImg">
+</div> 
+    <div class="popupCommonDiv">
+  <h1>Feedback</h1>
+</div>
+<span id="feedback_thanks"> 
+	<div class="popupInformationDiv" style="margin-bottom:10px;">
+
+	<div class="textAndField">
+<div class="textDiv">Name:</div>
+<div class="textFieldDiv"> <input name="feedback_name" type="text" class="textFielClass" id="feedback_name" maxlength="50" value="">&nbsp;&nbsp;&nbsp;<span class="error" id="feedback_errorName"></span>
+</div>
+</div>	
+
+	<div class="textAndField">
+<div class="textDiv">E-mail address:</div>
+<div class="textFieldDiv">  <input name="feedback_email" type="text" class="textFielClass" id="feedback_email" maxlength="120" value="">&nbsp;&nbsp;&nbsp;<span class="error" id="feedback_errorEmail"></span> 
+</div>
+</div>
+
+	<div class="textAndField">
+<div class="textDiv">Feedback:</div>
+<div class="textFieldDiv">
+    <textarea name="feedback_content" cols="60" class="distance" style="color:#434343" rows="8" id="feedback_content" onkeyup="limiter('5000','feedback_content_lim','feedback_content')" onblur="limiter('5000','review_content_lim','review_content')"></textarea>     
+   <br>
+   <span class="filterSearch" id="feedback_content_lim">(5000 chars. left)</span> <br>
+<span id="feedback_content_error" class="error"></span>
+
+
+</div>
+</div> 
+
+</div> 
+	    
+    <div class="popupCommonDiv" style="margin-top:5px;">  
+      <div style="width:500px; height:30px;"> 
+  		  <div class="buttonSignIn" style="float:right; margin:0px;"> <span onclick="valfeedback()" id="feedbackWait" class="buttonClass">Submit</span></div> 
+    </div> 
+</div>  
+</span>
+
+<span id="feedback_thanks1" style="display:none;">
+	<div class="popupInformationDiv" style="margin-bottom:10px;"><div class="textAndField"><h2><span id="thanksContent">Thanks for feedback !</span>
+    </h2></div></div>
+</span>
+
+</div>
+</div>
+<style type="text/css">
+      *{margin:0px;padding:0px;}
+      #suggestPost
+      {
+        background:transparent url(http://www.travelreveal.com/images/common/feedback.png) no-repeat scroll 0px 0px;
+        height:170px;
+        left:0;
+        position:fixed;
+		_position:absolute;
+        top:200px;
+        width:40px;
+      }
+      
+      #suggestPost a
+      {
+        display:block;
+        height:170px;
+        width:40px;
+      }
+    </style><div id="suggestPost"><a href="javascript:void(0)" onclick="feedback()"></a></div>
+    <script language="javascript">
+function chkVal(val1,id1,str1)
+{ 
+	if(val1==str1)
+	  document.getElementById(id1).value = ""; 
+}
+</script>
 <script language="javascript" src="http://www.travelreveal.com/javascript/dmsAutoComplete.js"></script>
 <div id="menuBox">
 <div id="menu">
@@ -385,13 +433,15 @@
 <li><a href="http://www.travelreveal.com/hotels/" class="menu">Hotel</a></li>
 <li><a href="http://www.travelreveal.com/attractions/" class="menu">Attraction</a></li> 
 <li><a href="http://www.travelreveal.com/photos/" class="menu">Photos</a></li>
-<li><a href="javascript:void(0);" class="menu">Forums</a></li>
+<li><a href="http://www.travelreveal.com/offers/" class="menu">Offers</a></li>
 <li><a href="http://www.travelreveal.com/writereview/" class="menu">Write a Review</a></li>
+ 
+  
 </ul>
 </div>
 <div id="searchBox">
 <div id="searchLeft">
-    <input type="text" class="searchBox" name="globalsearch" id="globalsearch" value="Search city, hotel, attraction" onblur="globalSarchVal(this.value,this.id,'Search city, hotel, attraction')" onfocus="globalSarchVal(this.value,this.id,'Search city, hotel, attraction')">
+    <input type="text" class="searchBox" name="globalsearch" id="globalsearch" onfocus="chkVal(this.value,this.id,'Search city, hotel, attraction')" value="Search city, hotel, attraction" onpaste="globalSarchVal(this.value,this.id,'')"> 
           <input type="hidden" name="city_id" id="city_id" value="0">
 
       <div id="acDiv_globalsearch"></div>
@@ -462,8 +512,6 @@
 
 <!-- End Add Box -->
 <!-- Start FOOTER SECTION Here -->
-
-<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript">
 
 var _gaq = _gaq || [];
@@ -478,9 +526,12 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 })();
 
 </script>
+
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+ 
  <div id="footer">
 	<div id="footerLeftDiv">
-  <p><span class="a1"><a href="http://www.travelreveal.com/about-us/" class="a1">About Us</a>&nbsp;  |&nbsp;  <a href="http://www.travelreveal.com/careers/" class="a1">Careers</a>&nbsp;  |&nbsp;  <a href="http://www.travelreveal.com/contact-us/" class="a1">Contact Us</a> &nbsp;   |&nbsp;  <a href="http://blog.travelreveal.com/" class="a1">Blog</a> &nbsp;|&nbsp;  <a href="http://www.travelreveal.com/terms-n-conditions/" class="a1">Terms &amp; Conditions</a>&nbsp; |&nbsp;<a href="http://www.travelreveal.com/privacy-policy/" class="a1"> Privacy Policy</a>&nbsp; |&nbsp; <a href="http://www.travelreveal.com/disclaimer/" class="a1">Disclaimer </a> |&nbsp; <a href="http://www.travelreveal.com/user/hotelOwner/businessVerification2.php" class="a1">Hoteliers</a></span><br>
+  <p><span class="a1"><a href="http://www.travelreveal.com/about-us/" class="a1">About Us</a>&nbsp;  |&nbsp;  <a href="http://www.travelreveal.com/careers/" class="a1">Careers</a>&nbsp;  |&nbsp;  <a href="http://www.travelreveal.com/contact-us/" class="a1">Contact Us</a> &nbsp;   |&nbsp;  <a href="http://blog.travelreveal.com/" class="a1">Blog</a> &nbsp;|&nbsp;  <a href="http://www.travelreveal.com/terms-n-conditions/" class="a1">Terms &amp; Conditions</a>&nbsp; |&nbsp;<a href="http://www.travelreveal.com/privacy-policy/" class="a1"> Privacy Policy</a>&nbsp; |&nbsp; <a href="http://www.travelreveal.com/disclaimer/" class="a1">Disclaimer </a> &nbsp;|&nbsp; <a href="http://www.travelreveal.com/user/hotelOwner/businessVerification2.php" class="a1">Hoteliers</a> &nbsp;|&nbsp; <a href="http://www.travelreveal.com/help/" class="a1">Help</a></span><br>
      
   </p>
  <span id="common"> <p>Best Viewed in IE7+ &amp; Firefox 3.5 1024*768 Resolution. All brands are trademarks of their respective owners.<br>
@@ -504,14 +555,15 @@ AC.ajaxTarget = 'http://www.travelreveal.com/ajax/autocompleteglobalsearch.php';
 
 AC.chooseFunc = function(id,label){ 
 	}
+ 
 
 </script>
 <script language="javascript">	  
-function changeBackground() {  
-    //document.body.style.background = color;
-   document.getElementById("mainWrapper").style.height='auto';
+ function changeBackground() {    
+
+    document.getElementById("mainWrapper").style.height='auto'; 
 }
-changeBackground();  
+changeBackground();   
 </script><!-- End FOOTER SECTION Here -->
 
 </div> 
