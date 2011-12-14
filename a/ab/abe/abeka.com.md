@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abeka.com privacy policy that was archived on 2010-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100828084059id_/http%3A//www.abeka.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abeka.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214010417id_/http%3A//www.abeka.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# ABB Privacy Policy
+# A Beka Book :: Privacy Policy
 
-ABeka.com is operated by _A Beka Book, Inc._ (“ _A Beka Book_ ”), an affiliate of Pensacola Christian College (“PCC”).
+ABeka.com is operated by _A Beka Book, Inc._ (“ _A Beka Book_ ”), an affiliate of [Pensacola Christian College](http://www.pcci.edu/) (“PCC”).
 
 We respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the ABeka.com website and related applications.
 
@@ -12,7 +12,7 @@ Last Updated: November 4, 2009
 
 We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us, or (ii) from other PCC affiliates. We may combine the personal information that we receive from different sources.
 
-We also may collect other types of information in the following ways when you visit our website: 
+We also may collect other types of information in the following ways when you visit our website:
 
   * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users’ movements around our site and understand trends
   * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
