@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the lyrics.com privacy policy that was archived on 2011-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110608022943id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lyrics.com privacy policy that was archived on 2011-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214091816id_/http%3A//www.lyrics.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html xmlns:lyricscom="http://www.lyrics.com/ns#"><head>
 		  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		  <meta name="verify-v1" content="k1br6sikEUd0k3G96/qOGGoQOfCbjtZUn+oT10GDsHc=">
           <meta property="og:site_name" content="Lyrics.com">
@@ -9,7 +9,7 @@
           <meta property="og:type" content="">
           <meta property="og:image" content="">
           <meta property="og:url" content="http://www.lyrics.com/about/privacy">
-          <meta property="fb:app_id" content="121433871232565">
+                    <meta property="fb:app_id" content="121433871232565">
           <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 		  		  <meta name="keywords" content="lyric, lyrics, song, music, song lyrics, music lyrics">
 		  <meta name="description" content="Lyrics.com is a music community with the largest searchable lyrics database.">
@@ -19,7 +19,7 @@
 		  
 		  
 		            
-		  <script type="text/javascript" src="http://www.lyrics.com/js/prototype.js"></script>
+		  <script type="text/javascript" src="http://www.lyrics.com/js/prototype.js?20110910"></script>
 		  <script type="text/javascript" src="http://www.lyrics.com/js/overlay.js"></script>
 		  <script type="text/javascript" src="http://www.lyrics.com/js/common.js?v=20100714"></script>
 		  <script type="text/javascript" src="http://www.lyrics.com/js/lyrics.js"></script>
@@ -55,7 +55,18 @@
           #browsebutton_div{margin-top:-15px;}
           </style>
           <![endif]-->
-		  <!-- about privacy -->		  		  <script type="text/javascript">
+		  <!-- about privacy -->		  
+		  <!--[if IE 7]>
+			  <link href="/stylesheets/sticky_footer-ie7.css" type="text/css" rel="stylesheet" />
+		  <![endif]-->
+		  
+		  <!--[if lte IE 6]>
+			  <link href="/stylesheets/sticky_footer-ie6.css" type="text/css" rel="stylesheet" />
+		  <![endif]-->
+		  
+		  <!-- END OF PRESENCE BAR CSS -->
+		            
+		  <script type="text/javascript">
 		  function init_start()
 		  {
 			  try
@@ -64,19 +75,21 @@
 			  } catch (err) {}
 		  }
 		  </script>
-		  <script type="text/javascript" src="http://cdn1.predictad.com/scripts/publishers/lyrics/combined.js"></script></head>
+          <style type="text/css">
+		  #lyric_space { line-height:1.8em; }
+		  </style>
+		  <script type="text/javascript" src="http://cdn1.predictad.com/scripts/publishers/lyrics/combined.js?20110906"></script></head>
 		  
 		  		  <body onload=";init_start(); " id="bodytag" class="bodyContent  userbg" oncontextmenu=""> 
 		  		  <!-- PredictAd Code (can this be the cause?) -->
-		  <div id="predictad_div" class="predictad" style="display:none;z-index:1000;border:1px solid red;"></div>
+		  <div id="predictad_div" class="predictad" style="display:none;z-index:1000;"></div>
 		  <!-- End Of PredictAd Code --> 
 		  
 		  <div id="overlay" class="hide" style="border:3px solid #aaa;">
 			  <div style="text-align:right;"><a href="javascript:void(0);" onclick="ol_close();">close</a></div>
 			  <div id="overlay_content"></div>
 		  </div>
-		             
-          
+		  
 			
           <div id="mainwrappercontent">
           	  <style type="text/css">
@@ -86,79 +99,29 @@
 			  </style>
                             <div id="topnav" style="padding-top:12px;z-index:1000;position:relative;top:0;left:0;">
                   <div class="topnavleft" style="position:relative;">
-                  	                        <div style="float: left; margin-top: -11px; margin-right: 20px; margin-left: 5px;"><a href="/" class="none"><img src="/images/new/logo_sm.png" class="logo" alt="Lyrics.com" border="0"></a></div>
-                                            
-                      <a href="/">Home</a>
-<a href="http://www.lyrics.com/user">People</a>
-<a href="http://www.lyrics.com/tophits">Charts</a>
-
-<a href="http://www.lyrics.com/submit">Submit</a>
-<a href="http://www.lyrics.com/login">Login</a>                      <!-- SEARCH -->
-                      <div style="float: right;">
-                      <form action="http://www.lyrics.com/search.php" method="get">                      
+                  	  
+                      <div style="float: left; margin-top: -11px; margin-right: 20px; margin-left: 5px;"><a href="/" class="none"><img src="/images/new/logo_sm.png" class="logo" alt="Lyrics.com" border="0"></a></div>
+                      <div style="float:left">
+                      <form action="http://www.lyrics.com/search.php" method="get">                      	<input id="predictadInput" autocomplete="off" type="text" name="keyword" maxlength="60" value="" class="gray fields" style="border:0; margin-left:5px; width:400px; margin-right:0;" onfocus="this.className='fields';if(this.value=='') this.value='';"><input type="hidden" name="what" id="what" value="all"><input type="submit" name="search_btn" id="search_btn" value="Search" style="margin-left:0;">
+					  </form>                      </div>
+                                            <!-- SEARCH -->
+                      <div style="float: right; padding-top:5px;">
+                      
+                      
+                      <form action="http://www.lyrics.com/search.php" method="get" onsubmit="return searchAjax();">                      
                       
                         <table cellpadding="0" cellspacing="0" border="0">
                             <tbody><tr>
-                                <td class="search_left"></td>
-                                <td class="search_mid" style="padding-top:0;">
-                                    <input id="predictadInput" autocomplete="off" type="text" name="keyword" maxlength="60" value="" class="gray fields" style="border:0; margin-left:5px; width:310px;" onfocus="this.className='fields';if(this.value=='') this.value='';"><input type="hidden" name="what" id="what" value="all">
-                                </td>
-                                <td class="search_mid"><input type="image" name="search_btn" id="search_btn" src="/images/btn_search_icon.png"></td>
-                                <td class="search_right"></td>
-                                <td><div style="position:relative;left:0;width:69px;" id="browsebutton_div">
-                                    	<div style="position:absolute;top:0;left:0;"><a href="javascript:void(0);" class="none"><img src="/images/btn_browse.png" class="searchbutton" alt="" border="0" id="browsebutton"></a></div>
-                                        <style type="text/css">
-										.browsebox ul, .browsebox li { list-style-type:none;padding:0;margin:0; }
-										#topnav .browsebox ul li a { width:54px;padding-left:10px;color:#333;margin:0; }
-										#topnav .browsebox ul li a:hover { width:54px;padding-left:10px;color:#fff;margin:0; }
-										</style>
-                                        <script type="text/javascript">
-										function toggleBrowseBox() 
-										{ 
-											if($('browsebox').hasClassName('hide'))
-											{
-												$('browsebox').removeClassName('hide'); 
-											}
-											else
-											{
-												$('browsebox').addClassName('hide'); 
-											}
-										}
-										</script>
-                                    	<div id="browsebox" style="position:absolute;top:29px;left:2px;padding:0;margin:0;width:69px;height:566px;border:1px solid #ccc;overflow:none;background:#fff;" class="browsebox hide">
-                                        	<ul>
-                                            	<li><a href="http://www.lyrics.com/artists/start/a">Artists: A</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/b">Artists: B</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/c">Artists: C</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/d">Artists: D</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/e">Artists: E</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/f">Artists: F</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/g">Artists: G</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/h">Artists: H</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/i">Artists: I</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/j">Artists: J</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/k">Artists: K</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/l">Artists: L</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/m">Artists: M</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/n">Artists: N</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/o">Artists: O</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/p">Artists: P</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/q">Artists: Q</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/r">Artists: R</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/s">Artists: S</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/t">Artists: T</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/u">Artists: U</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/v">Artists: V</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/w">Artists: W</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/x">Artists: X</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/y">Artists: Y</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/z">Artists: Z</a></li>
-                                                <li><a href="http://www.lyrics.com/artists/start/num">Artists: #</a></li>
-                                            </ul>                                                
-                                    	</div>
-                                    </div>
-                                </td>
-                            </tr>
+                            	<td>
+																
+								<a href="/">Home</a>
+<a href="http://www.lyrics.com/user">Profiles</a>
+<a href="http://www.lyrics.com/artists/start/num">Browse</a>
+
+<a href="http://www.lyrics.com/submit">Submit</a>
+<a href="http://www.lyrics.com/login">Login</a>                                
+                            </td></tr>
+							
                         </tbody></table>		
                                                                   
                       </form></div> 
@@ -170,7 +133,7 @@
                 
               </div>
               <div style="margin:10px 0;text-align:center;">
-			                <script type="text/javascript"><!--
+			 	              <script type="text/javascript"><!--
 			google_ad_client = "pub-3044889097204573";
 			/* 728x90, created 1/16/08 */
 			google_ad_slot = "5211954746";
@@ -185,11 +148,8 @@
               <div id="wrapper">
                   
                   <div class="inner">
-                  	  
-                      
-                      
-                      
-					                <div id="content"><div style="width:870px; padding:10px;">
+                  	  <div id="content">
+                  	                <!--<div id="content">--><div style="width:870px; padding:10px;">
 <h3>Privacy Policy </h3>
 <p>With Lyrics.com, you and your friends can find song lyrics, join forums, post
   comments and images, and dedications. The sole purpose of this site is for
@@ -227,33 +187,42 @@
 <p> This privacy policy only applies to information collected on this web site. </p>
 </div>
 		  <br class="clear">
-		  <div style="margin-top:0; margin-bottom:15px; text-align:center">	 
-		  		  <!-- ValueClick Media 468x60 and 728x90 Banner CODE for Lyrics.com -->
-<script language="javascript" src="http://media.fastclick.net/w/get.media?sid=25384&amp;m=1&amp;tp=5&amp;d=j&amp;t=n"></script>
-<noscript><a href="http://media.fastclick.net/w/click.here?sid=25384&m=1&c=1" target="_blank">
-<img src="http://media.fastclick.net/w/get.media?sid=25384&m=1&tp=5&d=s&c=1" width=728 height=90 border=1></a></noscript>
-<!-- ValueClick Media 468x60 and 728x90 Banner CODE for Lyrics.com -->		  </div>
-          <style type="text/css">
-		  table.footer tr td a,table.footer tr td  {color:#999;}
-		  </style>
-          <table cellspacing="0" cellpadding="0" width="920" class="footer"> 
-              <tbody><tr>
-                  <td width="450"> 
-                      <a href="http://www.lyrics.com/about/contact">Contact Us</a> | <a href="http://www.lyrics.com/about/terms_of_use">Terms of Use</a> | <a href="http://www.lyrics.com/about/privacy">Privacy Policy</a>
-                  </td>
-                  <td style="text-align:right;">
-                      © 2008 Lyrics.com | All rights reserved. | 0.0143(US)                  </td>
-              </tr>
-          </tbody></table>
-		  </div> <!-- END OF DIV ID CONTENT --> 
+          </div><!-- #content -->
+		  </div><!-- #inner -->
+          
+		  </div><!-- #wrapper --> 
 				  
 		  
-	  </div><!-- INNER -->
-	  </div><!-- WRAPPER -->
-	  </div><!-- WRAPPER BG -->
-	  </div>
-      </div>
+	  </div><!-- #wrapper_bg -->
+	  </div><!-- #wrappercontent-->
       
+      
+      
+          <div style="margin-top:15px; text-align:center; width:920px; margin:15px auto;">	 
+          	  <div style="margin:0 auto 15px; width:728px;">
+				                    <!-- ValueClick Media 468x60 and 728x90 Banner CODE for Lyrics.com -->
+				  <script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:25384,media_id:1,media_type:5,version:"1.1"});} catch(e){document.write(\'<scr\' + \'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=25384&m=1&tp=5&d=j&t=n&exc=1"></scr\' + \'ipt>\');}}());</scr' + 'ipt>');</script><script type="text/javascript">(function () {try{VCM.media.render({sid:25384,media_id:1,media_type:5,version:"1.1"});} catch(e){document.write('<scr' + 'ipt type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=25384&m=1&tp=5&d=j&t=n&exc=1"></scr' + 'ipt>');}}());</script><script type="text/javascript" src="http://media.fastclick.net/w/get.media?sid=25384&amp;m=1&amp;tp=5&amp;d=j&amp;t=n&amp;exc=1"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=25384&m=1&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=25384&m=1&tp=5&d=s&c=1&vcm_acv=1.1" width=728 height=90 border=1></a></noscript>
+				  <!-- ValueClick Media 468x60 and 728x90 Banner CODE for Lyrics.com -->
+
+              </div>
+              <style type="text/css">
+              table.footer tr td a,table.footer tr td  {color:#999;}
+              </style>
+              <table cellspacing="0" cellpadding="0" width="920" class="footer" align="center" style="margin-top:15px;"> 
+                  <tbody><tr>
+                      <td width="450" align="left"> 
+                          <a href="http://www.lyrics.com/about/contact">Contact Us</a> | <a href="http://www.lyrics.com/about/terms_of_use">Terms of Use</a> | <a href="http://www.lyrics.com/about/privacy">Privacy Policy</a> | <a href="http://www.lyrics.com/user/api/docs/">Developers</a>
+                      </td>
+                      <td style="text-align:right;">
+                          © 2008 Lyrics.com | All rights reserved. | 0.0228(US)                      </td>
+                  </tr>
+              </tbody></table>
+          </div>
+      
+      
+      
+	  </div><!-- #mainwrappercontent -->
+      <!-- Google Analytics and other scripts here -->
 	  <script type="text/javascript">
 	  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -289,8 +258,7 @@
 <!-- end Vibrant Media IntelliTXT script section -->
       
 	  <!-- PredictAd Code --> 
-      
-	  <script type="text/javascript">function runPredictor(){predictad_input_id='predictadInput';predictad_ads_mode='0';predictad_db='2';predictad_site='4699';predictad_cs='7000-380';predictad_box_id='1';predictad_skin='graysmooth';predictad_align='left';predictad_sn='16807';predictad_mm=false;predictad_show_close=false;predictad_show_personal_history=false;predictad_show_se_teaser=false;if(typeof(predictor)=='function') predictor();}try{var html_doc =document.getElementsByTagName('head')[0];predictad_js =document.createElement('script');predictad_js.setAttribute('type','text/javascript');predictad_js.setAttribute('src','http://cdn1.predictad.com/scripts/publishers/lyrics/combined.js');html_doc.appendChild(predictad_js);predictad_js.onreadystatechange = function() {if (predictad_js.readyState == 'complete'||predictad_js.readyState== 'loaded') {runPredictor();}};predictad_js.onload = function (){runPredictor();};}catch(pex){ };</script>
+	  <script type="text/javascript">function runPredictor(){predictad_input_id='predictadInput';predictad_ads_mode='0';predictad_db='2';predictad_site='4699';predictad_cs='7000-380';predictad_box_id='1';predictad_skin='graysmooth';predictad_align='left';predictad_sn='16807';predictad_mm=false;predictad_show_close=false;predictad_show_personal_history=false;predictad_show_se_teaser=false;if(typeof(predictor)=='function') predictor();}try{var html_doc =document.getElementsByTagName('head')[0];predictad_js =document.createElement('script');predictad_js.setAttribute('type','text/javascript');predictad_js.setAttribute('src','http://cdn1.predictad.com/scripts/publishers/lyrics/combined.js?20110906');html_doc.appendChild(predictad_js);predictad_js.onreadystatechange = function() {if (predictad_js.readyState == 'complete'||predictad_js.readyState== 'loaded') {runPredictor();}};predictad_js.onload = function (){runPredictor();};}catch(pex){ };</script>
       <!-- End PredictAd Code -->
 	  <!-- Begin comScore Tag -->
 	  <script type="text/javascript">
@@ -311,8 +279,13 @@
           <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035055&c3=&c4=&c5=&c6=&c15=&cj=1" />
       </noscript>
       <!-- End comScore Tag -->
+	  <!-- MEEBO CODE -->
+      <script type="text/javascript">
+    	Meebo('domReady');
+	  </script>
+      <!-- END OFF MEEBO CODE -->
 
 	  
 	  
 	  	  
-	  </body></html>
+	</body></html>
