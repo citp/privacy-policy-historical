@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414015702id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214075744id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Aviva - Legal - Privacy Policy
+# Legal - Privacy Policy - Aviva
 
   * _You are currently within_[Homepage](https://web.archive.org/ "Homepage")
   * [Legal](https://web.archive.org/legal/ "Legal")
@@ -43,7 +43,7 @@ Further details are available on our [Aviva Cookie Policy](https://web.archive.o
 What we do with your information
     
 
-Your information may be used for the purposes of insurance administration by the insurer, its associated companies and agents, by reinsurers and your intermediary. It may be disclosed to regulatory bodies for the purposes of monitoring and/or enforcing the insurer's compliance with any regulatory rules/codes.
+Your information may be used for the purposes of insurance administration by the insurer, its associated companies, agents and business partners, by reinsurers and your intermediary. It may be disclosed to regulatory bodies for the purposes of monitoring and/or enforcing the insurer's compliance with any regulatory rules/codes.
 
 Your information may also be used for offering renewal, research and statistical purposes and crime prevention. It may be transferred to any country, including countries outside the European Economic Area for any of these purposes and for systems administration. Where this happens, we will ensure that anyone to whom we pass your information agrees to treat your information with the same level of protection as if we were dealing with it.
 
@@ -54,7 +54,7 @@ In the case of personal data, with limited exceptions, and on payment of the app
 Marketing
     
 
-[Aviva group](https://web.archive.org/legal/aviva-group-products-and-services.html) and its agents may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed. By providing us with your contact details, you consent to being contacted for these purposes. At that time, we will provide you with a means of opting-out and in addition, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes.
+[Aviva group](https://web.archive.org/legal/aviva-group-products-and-services.html) and its agents or business partners may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed. By providing us with your contact details, you consent to being contacted for these purposes. At that time, we will provide you with a means of opting-out and in addition, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes.
 
 Your rights
     
