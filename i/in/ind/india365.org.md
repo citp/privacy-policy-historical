@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india365.org privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615205226id_/http%3A//www.india365.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india365.org privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193718id_/http%3A//www.india365.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | India 365
 
@@ -29,6 +29,15 @@ Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
+**Links to third party Websites**
+
+****  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. You should carefully checkout the[privacy policy](http://www.india365.org/privacy/ "privacy policy") of external sites before disclosing any personal information.
+
+**Stats:**
+
+We uses Analytics software called Google analytics powered by Google for the purpose of statistics only. Analytics collects IP address, browser, screen resolution, operating system etc. The information collected is strictly not shared to any third party.
+
 **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
@@ -37,7 +46,7 @@ Childrens Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Online [Privacy Policy](http://www.india365.org/privacy/ "Privacy Policy") Only
+Online Privacy Policy Only
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
