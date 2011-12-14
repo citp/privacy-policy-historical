@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickflirt.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615021031id_/http%3A//www.quickflirt.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickflirt.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214032322id_/http%3A//www.quickflirt.com/privacy.cfm) for the most accurate reproduction.*
 
 # Your privacy and safety at Quick Flirt Online Dating
 
@@ -32,7 +32,7 @@ We use the information we hold about you in the following ways:
   * To allow you to participate in any interactive features of the Site(including the features that require the mobile phone number).
   * To help personalise your repeat visits to the Site.
   * To notify you of any compatible matches or any matches who are near your location.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing** ' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number).
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes (see below under ' **Marketing by us and third parties** ' for more information). Such information may be sent to you by email or by SMS (if you provided your mobile phone number).
   * To answer any questions you may raise or respond to any comments you may send to us.
   * To notify you about changes to our service or the functionality of the Site.
   * To carry out market analysis and research.
@@ -71,9 +71,13 @@ We may also share information about you with third parties that we engage to hel
 
 We may also provide information about you to other users of the Site as reasonably required in order to provide the services that you order from us. 
 
-**Marketing**
+**Marketing and other uses of your non-personal data by us and by third parties**
 
-We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@quickflirt.com](mailto:unsubscribe@quickflirt.com)
+We may share non-personal information we collect under any of the above circumstances. We may share it with our own companies or other third parties to develop and deliver targeted advertising to you, or to help us prepare or share aggregate business and marketing reports.
+
+We would like to send you information about goods and services offered by us and selected third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided can be used.
+
+If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes please tick the appropriate boxes situated in the ' **my account** ' area of the Site. You can also ask us to not to use your personal information, or to pass your details on to third parties for marketing purposes, by e-mailing us at: [unsubscribe@quickflirt.com](mailto:unsubscribe@quickflirt.com)
 
 **Cookies**
 
