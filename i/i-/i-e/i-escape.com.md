@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the i-escape.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313013459id_/http%3A//www.i-escape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-escape.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214044907id_/http%3A//www.i-escape.com/privacy-policy) for the most accurate reproduction.*
 
-# Boutique Hotels and Hip Hideaways | i-escape.com
+# Privacy Policy | Boutique Hotels and Hip Hideaways | i-escape.com
 
 We are committed to protecting your privacy. We do not sell, trade or rent your personal information to other companies, except to the provider of your selected accommodation or trip. We use the information we collect about you to process your bookings with the relevant provider.
 
