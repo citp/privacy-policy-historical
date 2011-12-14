@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kanyetothe.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503043400id_/http%3A//www.kanyetothe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanyetothe.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214092955id_/http%3A//www.kanyetothe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Kanye To The
+
+Oct 30th, 2010
 
 This Privacy Policy governs the manner in which KanyeToThe.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.kanyetothe.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by KanyeToThe.com.
 
