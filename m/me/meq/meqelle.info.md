@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meqelle.info privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513051813id_/http%3A//www.meqelle.info/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meqelle.info privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214054430id_/http%3A//www.meqelle.info/policy.html) for the most accurate reproduction.*
 
 # Meqelle
 
@@ -84,3 +84,43 @@ This Privacy Policy may change from time to time to reflect our changing busines
 **VII. SOLE STATEMENT**
 
 This Privacy Policy and our Terms of Use , both as posted on our Sites and through our Services, contain all of the material terms of regarding your use of our Websites and Services. No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Sites and Services. 
+
+nov11
+
+[Financial Management](http://www.regionsbankadvice.com/everyday-banking.html) Learn more about financial management and everyday banking with helpful advice from Regions Bank. Visit our website today.
+
+[Indemnity insurance](http://www.coulsonpritchard.com/) As coulsonpritchard insurance specialists, we understand the unique nature of freelancing, the particular risks you face and how best to protect you and your business.
+
+[Pipeline integrity management](http://eaglemap.com/services/pipeline-integrity-management/) Pipeline Integrity Management Services. High Consequence Area (HCA) Analysis, Class Location, MAOP &amp; Risk Analysis and PHIMSA/FERC Audit Support
+
+[B2business Product Manufacturer](http://b2business-productmanufacturer.com/) Product Marketing – B2Business Product Manufacturer - Business-to-business describes commerce transactions between businesses, such as between a manufacturer and a wholesaler, or between a wholesaler and a retailer.
+
+[online forex broker](http://www.tadawulfx.com/public/about-tdfx/about-us.html) Online forex broker Tadawul FX is a leading Swiss and European online forex and commodity trading broker. TDFX is an investment firm licensed and regulated by CySec.
+
+[sell digital products](http://www.digitaldeliveryapp.com/) Test product ideas before investing time creating them. We'll capture conversion rates and save interested parties details. Clic here!
+
+[Chris Cobb Scam](http://www.chriscobbcharity.com/) Increase your profits in your business. Learn from the advice we give you Chris Cobb
+
+Dec
+
+[guaranteed personal loans](http://www.badcreditguaranteedloan.com/) Cash loans for people with bad credit score with cash up to $2500 right away.!
+
+[headstones](http://www.mainlandmemorials.co.uk/) Mainland Memorials brings a world of traditional, personalised, engraved headstone memorials at affordable prices.
+
+[partner recruitment](http://www.channelpartnering.com/) Provides IT channel & partner recruitment services, matching technology vendors with resellers, ISV's and system integrators worldwide. Covers EMEA, USA, Canada, Latin America, ASEAN, CEE, CIS, UK, Russia, Poland
+
+[Credit card processing business](http://www.creditcardprocessingaccount.com/) Since decades, we have been providing competitive rates and unbeatable customer service in credit cards processing business. Schedule your free consultation with our experts to discover the most affordable payment processing solution.  
+
+[Axis Bank Credit Cards](http://www.financemasala.com/india-credit-cards/indian-banks/axis-bank-credit-cards.html) Need Axis Bank credit cards? Axis bank provide different types of credit card like silver, gold, and platinum credit card, find detail here.
+
+[State Bank Of India](http://www.info2india.com/finance/banks/nationalised-banks/the-state-bank-of-india.html) State bank of India is offering best online banking services in India. It is one of the best nationalized banks in India. Find more about here.
+
+[accounting and bookkeeping services](http://www.virtualisbookkeeping.com/pricing.html) Virtualis offers various accounting and bookkeeping service packages to serve your business needs. Check out the one that best suites your business.
+
+[BJOM News](http://www.bjom.com/) We bring you the best stories. We filter the news from different sources so that you can read the best stuff and save your time.
+
+[Price Suggest](http://www.pricesuggest.in/) Get the latest information about prices of Electronics, Automobiles, Internet Packages, Mobile Phones and lots of other products.
+
+[moving](http://www.moversonthego.net/) Movers On the Go are Boston movers that provide their customers excellent service with integrity, honesty and fair prices. Our movers and packers are hand-picked for competence, professionalism and courtesy and will supervise your move from packing to unpacking to ensure everything goes smoothly.
+
+Oct11 | [Machinery Removals](http://www.jwieu.com/) | Dec | [Chris Cobb Scam](http://chriscobbscam.org/) | [infusionsoft consultant](http://www.launchmyproductnow.com/) | [Europe Business](http://www.befreiensie.de/) | [Business Travel](http://www.southern-traveler.com/) | [Latest Business](http://www.webmastergeneral.net/) | [online foreign currency exchange](http://www.voltrexfx.com/) | [foreign exchange rates uk](http://www.bestexchangeratesuk.com/) | [foreign exchange currency rates](http://www.baydonhillfx.com/)
