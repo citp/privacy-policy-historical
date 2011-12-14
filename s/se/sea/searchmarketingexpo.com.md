@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchmarketingexpo.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625050940id_/http%3A//searchmarketingexpo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchmarketingexpo.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214080857id_/http%3A//searchmarketingexpo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for SMX
 
