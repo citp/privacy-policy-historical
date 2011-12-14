@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookatable.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629085107id_/http%3A//www.bookatable.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookatable.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214064959id_/http%3A//www.bookatable.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Restaurant Reservations - Quick & Free
+# Privacy Policy | Bookatable.com
 
 **Introduction**
 
@@ -8,9 +8,9 @@ Livebookings Holdings Limited, with its registered address at 5th Floor, Elizabe
 
 This privacy policy (the “ **Privacy Policy** ”) explains our policy regarding any information you might supply to us (or that we might collect from you) when you visit the Website or use certain services offered via the Website. Any such information shall be used in accordance with the permissions granted by you and in accordance with the Data Protection Act 1998 (the “ **Act** ”). We are the data controller for the purposes of the Act.
 
- **Please note** that the _Review_ feature on the Website is provided by one of our business partners, Shopzilla (Europe) Limited, and not by Livebookings. As such, any information you provide in the course of submitting reviews on the Website will be subject to [Shopzilla’s Privacy Policy](http://reviews.shopzilla.eu/uk/privacy-policy), which is available [here](http://reviews.shopzilla.eu/uk/privacy-policy). There are important differences between how your personal information is handled by Shopzilla in the context of that service, and how we handle information relating to you in the context of your use of the Website generally, so please read that Privacy Policy carefully. For the purposes of the Act, Shopzilla is the data controller of – and therefore responsible for safeguarding – any personal information you provide in the course of using the _Review_ feature of this Website.
+**Please note** that the _Review_ feature on the Website is provided by one of our business partners, Shopzilla (Europe) Limited, and not by Livebookings. As such, any information you provide in the course of submitting reviews on the Website will be subject to [Shopzilla’s Privacy Policy](http://reviews.shopzilla.eu/uk/privacy-policy), which is available [here](http://reviews.shopzilla.eu/uk/privacy-policy). There are important differences between how your personal information is handled by Shopzilla in the context of that service, and how we handle information relating to you in the context of your use of the Website generally, so please read that Privacy Policy carefully. For the purposes of the Act, Shopzilla is the data controller of – and therefore responsible for safeguarding – any personal information you provide in the course of using the _Review_ feature of this Website.
 
- **Summary of Key Principles**
+**Summary of Key Principles**
 
 We’ve set out below a summary of the key points of our Privacy Policy, so that you can get a quick understand of how we use your information and how it is protected. For more information on these points, please read the remainder of this Privacy Policy in full.
 
@@ -26,7 +26,7 @@ We’ve set out below a summary of the key points of our Privacy Policy, so that
 
 Our Privacy Policy is intended to assist you in making informed decisions when using our Website and our services. Please take a minute to read and understand the policy in full.
 
- **What Information Do We Collect?**
+**What Information Do We Collect?**
 
 The information that we collect about you falls into two categories, (together, the “ **Information** ”):
 
@@ -35,11 +35,11 @@ The information that we collect about you falls into two categories, (together, 
 
 
 
- **Your Consent**
+**Your Consent**
 
 By using our Website you consent to our collection and use of your Information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post an updated version of this Policy on our Website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
 
- **How Do We Use the Information That You Provide to Us?**
+**How Do We Use the Information That You Provide to Us?**
 
 We use your Information for the purposes of:
 
@@ -51,15 +51,15 @@ We use your Information for the purposes of:
 
 
 
- **What Are Cookies?**
+**What Are Cookies?**
 
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. You may refuse to accept cookies by changing the setting on your browser so that it will not accept cookies. However, if you select this setting you may be unable to access certain current or future parts of our Website. For more information about cookies including how to set your internet browser to reject cookies please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
- **How Do We Use Website Use Information?**
+**How Do We Use Website Use Information?**
 
 As you browse on our Website, we use cookies to differentiate you from other users and, in conjunction with our Web server’s log files, to allow us to calculate the aggregate number of people visiting our Website. Website Use Information helps us gather feedback in order to constantly improve our Website and better serve our users. Website Use Information does not allow us to gather any personal information about you and we do not generally store any personal information that you provide to us in your cookies.
 
- **Sharing Information with Third Parties**
+**Sharing Information with Third Parties**
 
 We may share your Information with our third party business partners for the purposes of fulfilling services you request (such as passing on your details to restaurants with whom you wish to make a booking) or for operating and maintaining our Website.
 
@@ -67,21 +67,21 @@ Those third parties may wish to contact you from time to time with information a
 
 We may also disclose your Information to third parties where we are required to do so by law, or where it is necessary for the purpose of or in connection with legal proceedings or in order to exercise or defend legal rights. Finally, if our company or our assets are acquired by another company, then your Information may be one of the assets that is transferred or acquired.
 
- **Protecting Your Information**  
- **How Can You Access and Correct Your Information?**
+**Protecting Your Information**   
+**How Can You Access and Correct Your Information?**
 
 You have a right to receive a copy of Information we hold about you by emailing us at [privacy@bookatable.com](mailto:privacy@bookatable.com) or by writing to us at the address stated at the start of this Privacy Policy, addressed to **_Operations Director_**.
 
 We are permitted under English law to charge a small fee to meet the administrative costs associated with meeting such requests.
 
- **What About Other Websites Linked to Our Website?**
+**What About Other Websites Linked to Our Website?**
 
 Please remember that when you use a link to go from our Website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites which have a link on our Website, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
 
- **Information Transmissions**
+**Information Transmissions**
 
 Unfortunately, the transmission of information via the internet is not completely secure. So, whilst we will do our best to protect your Information, we cannot ensure the security of your data transmitted to our Website. Any transmission is at your own risk. Once we have received your Information we will use strict procedures and security features to prevent unauthorized access.
 
- **Further Information**
+**Further Information**
 
 Questions about this Privacy Policy or any complaints relating to this policy can be addressed to [privacy@bookatable.com](mailto:privacy@bookatable.com) or by writing to **_Operations Director_** at the above address.
