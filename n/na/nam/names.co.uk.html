@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the names.co.uk privacy policy that was archived on 2011-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527204436id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the names.co.uk privacy policy that was archived on 2011-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214054238id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	
@@ -17,15 +17,15 @@
 
         <!-- css: all -->
 	<link rel="stylesheet" href="/css/cdn-frame.css">
-	<link rel="stylesheet" href="/css/extra.css">
+	<link rel="stylesheet" href="/css/extra.css?v=7">
 	<link rel="stylesheet" href="/css/order.css">
 	<link rel="stylesheet" href="/css/mh.css">
-    	<link rel="stylesheet" href="/css/nco_interim_style.css">
+    	<link rel="stylesheet" href="/css/nco_interim_style.css?v=7">
 
 	<!-- css: ie -->
 	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/css/ie.css" /><![endif]-->
 	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/ie7b.css" /><![endif]-->
-	<!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="/css/ie-eight-and-below.css" /><![endif]-->
+	<!--[if IE]><link rel="stylesheet" type="text/css" href="/css/ie-eight-and-below.css" /><![endif]--> <!-- was lte IE 8  -->
 
 	<!-- css: ie CDN / NCO Interim specific-->
 	<!--[if IE]><link rel="stylesheet" type="text/css" href="/css/cdn-ie.css" /><![endif]-->
@@ -66,25 +66,26 @@
         
         <div id="logo">
             <a href="/" title="Namesco"><img src="/img/NCO-interim/nco-interim-logo.jpg" alt="Namesco"></a>
-		<h3>Order online or call <span>0845 363 3630</span></h3>
+		<h3>For Sales or Support call <span>0845 363 3630</span></h3>
             <form id="head-domain-search" action="/order/domains/search.php" method="post">
                 <fieldset>
                     <label for="header-search">Find a domain</label>
                     <input type="text" name="keyword" id="header-search">
                     <select id="header-tld" name="suffix">
                        	<option selected="selected" value=".com">.com</option>
-			<option value=".co.uk">.co.uk</option>
+			<option value=".xxx">.xxx</option>
+                        <option value=".co.uk">.co.uk</option>
+                        <option value=".biz">.biz</option>
                         <option value=".co">.co</option>
                         <option value=".uk.com">.uk.com</option>
                         <option value=".net">.net</option>
                         <option value=".org">.org</option>
                         <option value=".eu">.eu</option>
                         <option value=".me">.me</option>
-                        <option value=".biz">.biz</option>
                         <option value=".info">.info</option>
                         <option value=".org.uk">.org.uk</option>
                         <option value=".me.uk">.me.uk</option>
-                        <option value=".in">.in</option>
+	               <option value=".fr">.fr</option>
                         <option value=".mobi">.mobi</option>
                     </select>
 		    <input type="hidden" name="source" value="header">
@@ -97,8 +98,8 @@
             <li><a class="nav-home" href="/" title="Home">Home</a></li>
             <li><a class="nav-domains" href="/domains.html">Domains</a></li>
             <li><a class="nav-hosting" href="/hosting.html">Hosting</a></li>
-            <li><a class="nav-email" href="/email.html">Email</a></li>
-	    <li><a class="nav-ecommerce" href="/ecommerce.html">Ecommerce <span>New</span></a></li>
+            <li><a class="nav-email" href="/email.html">Email <span>New</span></a></li>
+	    <li><a class="nav-ecommerce" href="/ecommerce.html">Ecommerce</a></li>
             <li><a class="nav-sitemaker" href="/sitemaker.html">SiteMaker</a></li>
             <li><a class="nav-servers" href="/servers-dedicated.html">Servers</a></li>
             <li><a class="nav-adv" href="/adv-home.html">Advertising</a></li>
@@ -111,6 +112,7 @@
     
 <script type="text/javascript">
 $(document).ready(function(){	
+  if($("#promo").is(':visible')) {
     $("#slider2").sudoSlider({ 
         numeric:true,
         prevNext:false,
@@ -121,22 +123,51 @@ $(document).ready(function(){
 	crossFade:false,
 	fadespeed:'500'
     });
+  };
 });
 </script>
 
 <div id="promo">
 	
-	<div id="slider2" class="slider">
-		<ul>				
-			<li><a href="/ecommerce.html" title="Ecommerce Made Easy - Take your business online today!"><img src="/img/NCO-interim/ecommerce-slider.jpg" alt="More Information on Ecommerce from Namesco"></a></li>
-			<li><a href="hosting.html" title="Choose from over 100+ 1-click Installs with Hosting from Namesco"><img src="/img/NCO-interim/NCO-interim-slider-100plus.jpg" alt="More information on Hosting from Namesco"></a></li>
-			<li><img src="/img/NCO-interim/NCO-HP-Expand-the-reach.jpg" alt="Expand the reach of your business - Buy a .co.uk and get 20% off business domains"></li>
-			<li><a href="/sitemaker.html" title="Build your own Professional Website"><img src="/img/NCO-interim/NCO_004.jpg" alt="Try SiteMaker for FREE - Its never been this easy!"></a></li>
-
+	<!-- Summer Sale - INACTIVE 
+	<div id="summer-sale">
+		<ul>
+			<li><a title="Save 20% off selected Domains" href="/domains.html">Domains</a></li>
+			<li><a title="Save 25% off SiteMaker" href="/sitemaker.html">SiteMaker</a></li>
+			<li><a title="Save 25% off Ecommerce" href="/ecommerce.html">Ecommerce</a></li>
+			<li><a title="Save 25% off Hosting" href="/hosting.html">Hosting</a></li>
+			<li><a title="Save 33% off Email" href="/email.html">Email</a></li>
+			<li><a title="Save 33% off SSL Certificates" href="/ssl-certificates.html">SSL</a></li>
+			<li><a title="Save 33% off Hypersubmit" href="/hypersubmit.html">Hypersubmit</a></li>
 		</ul>
-	</div>
+	</div> -->
+
+
+<div id="slider2" class="slider">
+	<ul>					
+		<li id="slider_03">
+			<a href="/xxx.html" title=".XXX is here">
+				<img src="/img/NCO-interim/NCO-xxxLaunch_Dec2011.jpg" alt="Learn why you should secure the new XXX domain now."></a>
+		</li>
+		<li id="slider_04">
+			<a href="/email.html" title="Bigger and Better Email - try it now!">
+				<img src="/img/NCO-interim/NCO-HP-email-nov2011.jpg" alt="Bigger and better email - Up to 7 times more storage! - Try it now!">
+			</a>
+		</li>
+		<li id="slider_01">
+			<a href="/hosting.html" title="160+ 1-Click installs with Hosting from Namesco"><img src="/img/NCO-interim/NCO-interim-slider-160plus.jpg" alt="Hosting from Namesco includes the WordPress blogging platform"></a>
+		</li>
+		<li id="slider_02">
+			<a href="/ecommerce.html" title="Ecommerce Made Easy - Take your business online today!">
+				<img src="/img/NCO-interim/ecommerce-slider.jpg" alt="More Information on Ecommerce from Namesco">
+			</a>
+		</li>
+	</ul>
+</div>
 	
 </div>
+
+
         
         <div id="index-search">
             <form method="post" action="/order/domains/search.php" class="jqtransform" id="main-search">
@@ -144,19 +175,20 @@ $(document).ready(function(){
 	            <label for="main-search-text">www.</label>
                     <input type="text" onfocus="javascript: this.value='';" value="enter your domain name..." id="main-search-text" name="keyword">
                     <select name="suffix" id="main-search-tld">
-                       <option selected="selected" value=".com">.com</option>
-			<option value=".co.uk">.co.uk</option>
+                       	<option selected="selected" value=".com">.com</option>
+			<option value=".xxx">.xxx</option>						
+                        <option value=".co.uk">.co.uk</option>
+                        <option value=".biz">.biz</option>
                         <option value=".co">.co</option>
                         <option value=".uk.com">.uk.com</option>
                         <option value=".net">.net</option>
                         <option value=".org">.org</option>
                         <option value=".eu">.eu</option>
                         <option value=".me">.me</option>
-                        <option value=".biz">.biz</option>
                         <option value=".info">.info</option>
                         <option value=".org.uk">.org.uk</option>
                         <option value=".me.uk">.me.uk</option>
-                        <option value=".in">.in</option>
+	               <option value=".fr">.fr</option>
                         <option value=".mobi">.mobi</option>
                     </select>
 		    <input type="hidden" name="source" value="home">
@@ -258,18 +290,18 @@ $(document).ready(function(){
 	        </div>
             
                 <div id="sidebar">
-		        <ul id="nav2"><li><a href="/domains.html">Domain Names</a></li><li><a href="/hosting.html">Web Hosting Plans</a></li><li><a href="/ecommerce.html">Ecommerce</a></li><li><a href="/servers-dedicated.html">Dedicated Servers</a></li><li><a href="/servers-vps.html">Virtual Servers</a></li><li><a href="/email.html">Email Services</a></li><li><a href="/adsl.html">Broadband ADSL</a></li><li><a href="/obp-domain-management.html">Domain Management</a></li><li><a href="/adv-home.html">Advertising</a></li><li><a href="/other-services.html">Other Services</a></li><li><a href="/affiliate-scheme.html">Affiliate Scheme</a></li></ul>
+		        <ul id="nav2"><li><a href="/domains.html">Domain Names</a></li><li><a href="/hosting.html">Web Hosting Plans</a></li><li><a href="/ecommerce.html">Ecommerce</a></li><li><a href="/sitemaker.html">SiteMaker</a></li><li><a href="/servers-dedicated.html">Dedicated Servers</a></li><li><a href="/servers-vps.html">Virtual Servers</a></li><li><a href="/email.html">Email Services</a></li><li><a href="/adsl.html">Broadband ADSL</a></li><li><a href="/obp-domain-management.html">Domain Management</a></li><li><a href="/adv-home.html">Advertising</a></li><li><a href="/other-services.html">Other Services</a></li><li><a href="/affiliate-scheme.html">Affiliate Scheme</a></li></ul>
                 </div>
         
         </div> 
         
 	<div id="secondary">
-            <h4>Dada.pro Figures and Stats</h4>
+            <h4>Dada Group Figures and Stats</h4>
             <ul>
-                <li>1,600,000 <span>domains registered in over 250 extensions</span></li>
+                <li>1,700,000 <span>domains registered in over 250 extensions</span></li>
                 <li>35,000 <span>new registrations per month</span></li>
                 <li>500,000 <span>websites hosted on our platforms</span></li>
-                <li class="last">450,000 <span>clients are using our products</span></li>
+                <li class="last">480,000 <span>clients are using our products</span></li>
             </ul>
         </div>    
     
@@ -284,26 +316,88 @@ $(document).ready(function(){
                 <dl class="sitemap">
                     <dt><a title="Services" href="/index.html">Services</a></dt>
                     <dd><a title="Home Page" href="/index.html">Home Page</a></dd>
-                    <dd><a title="Control Panel" href="http://admin.names.co.uk">Control Panel</a></dd>
-                    <dd><a title="WebMail" href="http://webmail4.names.co.uk">WebMail</a></dd>
+                    <dd><a title="Control Panel" href="http://admin.names.co.uk">Online Control Panel</a></dd>
+                    <dd><a title="WebMail" href="http://webmail4.names.co.uk">WebMail Login</a></dd>
                     <dd><a title="Knowledge Base" href="/knowledge/">Knowledge Base</a></dd>
-                    <dd><a title="Cart" href="/order/">Cart</a></dd>
+                    <dd><a title="Cart" href="/order/">Shopping Basket</a></dd>
+					<dd><a title="Network Status" href="/network_status.html">Network Status</a></dd>
                 </dl>
                 <dl class="sitemap">
                     <dt><a title="Domains" href="/domains.html">Domains</a></dt>
                     <dd><a title="Getting started" href="/domains.html">Getting Started</a></dd>
-                    <dd><a title="Domain Recovery" href="/obp-domain-recovery.html">Domain Recovery</a></dd>
                     <dd><a title="Transfer to Us" href="/transfers.html">Transfer to Us</a></dd>
+                    <dd><a title="Domain Renewals" href="https://admin.names.co.uk/billing/renewals.php">Renew your Domain</a></dd>                    
                     <dd><a title="Domain Management" href="/obp-domain-management.html">Domain Management</a></dd>
+                    <dd><a title="Domain Protection" href="/obp-domain-protection.html">Domain Protection</a></dd>                    
+                    <dd><a title="Domain Recovery" href="/obp-domain-recovery.html">Domain Recovery</a></dd>
                 </dl>
                 <dl class="sitemap">
-                    <dt><a title="Hosting" href="/hosting.html">Hosting</a></dt>
-                    <dd><a title="Platinum" href="/hosting-platinum.html">Platinum</a></dd>
-                    <dd><a title="Premium" href="/hosting-premium.html">Premium</a></dd>
+                    <dt><a title="Hosting" href="/hosting.html">Web Hosting</a></dt>
+                    <dd><a title="Starter" href="/hosting-starter.html">Starter</a></dd>                      
                     <dd><a title="Professional" href="/hosting-professional.html">Professional</a></dd>
-                    <dd><a title="Starter" href="/hosting-starter.html">Starter</a></dd>
+                    <dd><a title="Premium" href="/hosting-premium.html">Premium</a></dd>
+                    <dd><a title="Platinum" href="/hosting-platinum.html">Platinum</a></dd>
                     <dd><a title="Compare" href="/hosting-compare.html">Compare</a></dd>
-                    <dd><a title="100+ 1-Click Installs" href="/hosting-free-scripts.html">100+ 1-Click Installs</a></dd>
+                    <dd><a title="160+ 1-Click Installs" href="/hosting-free-scripts.html">160+ 1-Click Installs</a></dd>
+                </dl>
+                <dl class="sitemap">
+                    <dt><a title="Ecommerce" href="/ecommerce.html">Ecommerce</a></dt>
+                    <dd><a title="View Ecommerce Packages" href="/ecommerce-products.html">View Packages</a></dd>
+                    <dd><a title="Compare Ecommerce Packages" href="/ecommerce-compare.html">Compare</a></dd>
+                    <dd><a title="Setup &amp; Admin" href="/ecommerce-setup.html">Setup &amp; Admin</a></dd>
+                    <dd><a title="Payments &amp; Shipping" href="/ecommerce-payments.html">Payments &amp; Shipping</a></dd>
+                    <dd><a title="Marketplace Integrations" href="/ecommerce-integration.html">Marketplace Integration</a></dd>
+					<dd><a title="Marketing Tools" href="/ecommerce-tools.html">Marketing Tools</a></dd>
+					<dd><a title="Shop Demo" href="/ecommerce-demo.html">Shop Demo</a></dd>                    
+                </dl>      
+                <dl class="sitemap">
+                    <dt><a title="SiteMaker" href="/sitemaker.html">Sitemaker</a></dt>
+                    <dd><a title="View SiteMaker Packages" href="/sitemaker-products.html">View Packages</a></dd>
+ 					<dd><a title="Compare SiteMaker Packages" href="/sitemaker-compare.html">Compare</a></dd>
+                    <dd><a title="Easy Design" href="/sitemaker-easy-design.html">Easy Design</a></dd>
+ 					<dd><a title="Top Features" href="/sitemaker-top-features.html">Top Features</a></dd>                    
+                </dl>           
+                <dl class="sitemap">
+                    <dt><a title="Company" href="/aboutus.html">Company</a></dt>
+                    <dd><a title="About Us" href="/aboutus.html">About Us</a></dd>
+                    <dd><a title="Contact Us" href="/contact.html">Contact Us</a></dd>
+                    <dd><a title="Blog" href="http://blog.names.co.uk">Blog</a></dd>
+                    <dd><a title="Work for Us" href="/work-for-us.html">Work for Us</a></dd>
+                    <dd><a title="Affiliate Scheme" href="/affiliate-scheme.html">Affiliate Scheme</a></dd>
+                    <dd><a title="Facebook" href="http://www.facebook.com/namesco">Facebook</a></dd>
+                    <dd><a title="Twitter" href="http://twitter.com/namesco">Twitter</a></dd>                 
+                </dl>
+                <dl class="sitemap">
+                    <dt><a title="Legal" href="/legal.html">Legal</a></dt>
+                    <dd><a title="Terms &amp; Conditions" href="/legal.html">Terms &amp; Conditions</a></dd>
+                    <dd><a title="Acceptable Use Policy" href="/acceptable_use_policy.html">Acceptable Use Policy</a></dd>
+                    <dd><a title="Privacy Policy" href="/privacy.html">Privacy Policy</a></dd>
+                </dl> 
+                <dl class="sitemap">
+                    <dt><a title="Email Services" href="/email.html">Email</a></dt>
+                    <dd><a title="Webmail" href="http://webmail4.names.co.uk/">Webmail</a></dd>
+                    <dd><a title="Virus &amp; Spam Filter" href="/email_protection.html">Virus &amp; Spam Filter</a></dd>
+                    <dd><a title="MX Protect" href="/mx-protect.html">MX Protect</a></dd>
+					<dd><a title="MX Standby" href="/mx-standby.html">MX Standby</a></dd>
+                </dl>                                 
+                <dl class="sitemap">
+                    <dt><a title="Servers" href="/servers-dedicated.html">Servers</a></dt>
+                    <dd><a title="NCOM I" href="/servers-ncom1.html">NCOM I</a></dd>
+                    <dd><a title="NCOM 2" href="/servers-ncom2.html">NCOM II</a></dd>
+                    <dd><a title="NCOM 3" href="/servers-ncom3.html">NCOM III</a></dd>
+                    <dd><a title="Load Balancing" href="/servers-loadbalanced.html">Load Balancing</a></dd>
+                    <dd><a title="SSL Certificates" href="/ssl-certificates.html">SSL Certificates</a></dd>                                       
+                    <dd><a title="Virtual Private Servers" href="/adv-home.html">Virtual Private Servers</a></dd>
+                    <dd><a title="Plesk Control Panel" href="/plesk-cp.html">Plesk Control Panel</a></dd>
+                </dl>           
+                <dl class="sitemap">
+                    <dt><a title="Broadband ADSL" href="/adsl.html">Broadband ADSL</a></dt>
+                    <dd><a title="Bronze Package" href="/broadband-bronze.html">Bronze Package</a></dd>
+                    <dd><a title="Silver Package" href="/broadband-silver.html">Silver Package</a></dd>
+                    <dd><a title="Gold Package" href="/broadband-gold.html">Gold Package</a></dd>
+                    <dd><a title="Platinum Package" href="/broadband-platinum.html">Platinum Package</a></dd>
+                    <dd><a title="Platinum Plus Package" href="/broadband-platinum-plus.html">Platinum Plus Package</a></dd>                    
+		    		<dd><a title="Enterprise Services" href="/enterprise-services.html">Enterprise Services</a></dd>
                 </dl>
                 <dl class="sitemap">
                     <dt><a title="Advertising" href="/adv-home.html">Advertising</a></dt>
@@ -311,23 +405,7 @@ $(document).ready(function(){
                     <dd><a title="Simply Network" href="/advertising-network.html">Simply Network</a></dd>
                     <dd><a title="Simply Select" href="/advertising-select.html">Simply Select</a></dd>
                     <dd><a title="Simply Publishing" href="/simply-publisher.html">Simply Publishing</a></dd>
-		    <dd><a title="HyperSubmit" href="/hypersubmit.html">HyperSubmit</a></dd>
-                </dl>
-                <dl class="sitemap">
-                    <dt><a title="Servers" href="/servers-dedicated.html">Servers</a></dt>
-                    <dd><a title="Virtual private servers" href="/servers-vps.html">Virtual private servers</a></dd>
-                    <dd><a title="Dedicated Servers" href="/servers-dedicated.html">Dedicated Servers</a></dd>
-                    <dd><a title="Load Balancing" href="/servers-loadbalanced.html">Load Balancing</a></dd>
-                    <dd><a title="Plesk Control Panel" href="/plesk-cp.html">Plesk Control Panel</a></dd>
-                    <dd><a title="SSL Certificates" href="/ssl-certificates.html">SSL Certificates</a></dd>
-                </dl>           
-                <dl class="sitemap">
-                    <dt><a title="Company" href="/aboutus.html">Company</a></dt>
-                    <dd><a title="About Us" href="/aboutus.html">About Us</a></dd>
-                    <dd><a title="Contact Us" href="/contact.html">Contact Us</a></dd>
-                    <dd><a title="Terms &amp; Conditions" href="/legal.html">Terms &amp; Conditions</a></dd>
-                    <dd><a title="Acceptable Use Policy" href="/company-acceptable.html">Acceptable Use Policy</a></dd>
-                    <dd><a title="Privacy Policy" href="/privacy.html">Privacy Policy</a></dd>
+		    		<dd><a title="HyperSubmit" href="/hypersubmit.html">HyperSubmit</a></dd>
                 </dl>
                 <div class="sitemap-button-second on"><a title="Site Map" href="#" class="hide-show-sitemap down">Hide site map</a></div>
                 
@@ -350,15 +428,16 @@ $(document).ready(function(){
                     <li><a title="Terms &amp; Conditions" href="/legal.html">Terms &amp; Conditions</a></li>
                     <li><a title="Network Status" href="/network_status.html">Network Status</a></li>
 		    <li><a title="Blog" href="http://blog.names.co.uk/">Blog</a></li>
+		    <li><a title="Work for Namesco" href="/work-for-us.html">Work for Us</a></li>
                 </ul>
                 <p>Copyright ©2011 Namesco Limited. <br>All rights reserved. All prices exclude VAT.</p>
-		<p>Namesco is part of Dada.pro, a Dada Business Unit</p>
+		<p>Namesco is part of the <a href="http://dada.pro">Dada Group</a>.  Read more on the Dada <a href="http://blog.dadapro.net/">Blog</a></p>
              </div>
             
             <div class="column last">
                 <h5>Information</h5>
-                <p>Get instant help and advice by using our online knowledge base and enhance your Namesco experience.</p>
-                <p>Contact us via our Support Ticket System in your Online Control Panel or alternatively call us on the number below:</p>
+                <p>Get instant help and advice by using our online <a href="/support/">support centre</a> and enhance your Namesco experience.</p>
+                <p>Contact us via our Support Ticket System in your <a href="http://admin.names.co.uk/">Online Control Panel</a> or alternatively call us on the number below:</p>
                 <strong>0845 363 3630</strong>
                 <p>International customers: <strong>+44 (0) 1905 342342</strong></p>
             </div>
