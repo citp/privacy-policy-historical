@@ -1,163 +1,108 @@
-<!--The following is the downloaded HTML source of the eldercarelink.com privacy policy that was archived on 2011-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523063703id_/http%3A//www.eldercarelink.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eldercarelink.com privacy policy that was archived on 2011-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214020221id_/http%3A//www.eldercarelink.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link href="styles/OrganicStyle.css" type="text/css" rel="stylesheet">
-    <!-- Modal styles -->
-    <link href="styles/simpleModal.css" type="text/css" rel="stylesheet">    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
-    <!--[if IE 6]>
-        <link href="styles/IE6.css" type="text/css" rel="stylesheet" />
-    <![endif]-->
-    <!--[if IE 7]>
-        <link href="styles/IE7.css" type="text/css" rel="stylesheet" />
-    <![endif]-->
-    
-    <link href="styles/validationEngine.jquery.css" type="text/css" rel="stylesheet">     
-    
-    <script src="js/jquery.intellisense.js" type="text/javascript"></script>
-   
-   <script language="javascript" src="js/jquery-1.4.2.js" type="text/javascript"></script>
-    <script src="js/bookmark.js" type="text/javascript"></script>
-    <script src="/behaviour.js" type="text/javascript"></script>
-    <script src="/popunder.js" type="text/javascript"></script>
-    <script type="text/javascript" id="wa_u"></script>
-    <script src="/hitslink_track.js" type="text/javascript" language="javascript"></script>
-    <script src="js/jquery.simplemodal.js" type="text/javascript"></script>    
-    <script src="js/jquery.validationEngine-en.js" type="text/javascript"></script>
-	<script src="js/jquery.validationEngine.js" type="text/javascript"></script>
-	<script src="js/jquery.maskedinput.js" type="text/javascript"></script>		
-	<script src="js/json2.js" type="text/javascript"></script>	
-	<script src="js/dataCaptureService.js" type="text/javascript"></script>	
-	<script src="js/jquery.regex.js" type="text/javascript"></script>	
-    
-    
-    <link href="styles/article.css" type="text/css" rel="stylesheet">
-    <link href="styles/jquery.rating.css" type="text/css" rel="stylesheet">    
-	<script src="js/jquery.MetaData.js" type="text/javascript" language="javascript"></script>
-    <script src="js/jquery.rating.js" type="text/javascript" language="javascript"></script>
-    <script src="js/jquery.blockUI.js" type="text/javascript"></script>
-    
-     <script type="text/javascript">
-         $(document).ready(function() {
-             $('.star').rating();
-             $('.starRate').rating({
-                 callback: function(value, link) {
-                     //alert(value);
+	<meta name="WT.qs_dlk" content="whioaQrIZy4AAEHniV8AAAAa">
 
-                     blurbKey = $('.articleBlurb').attr("blurbKey");
-                     rating = value.replace("star", "")
+	<meta name="WT.qs_shmv" content="lv20100812-willie.sf.quinstreet.net">
+	<meta http-equiv="Set-Cookie" content="WMUUID=whioaQrIZy4AAEHniV8AAAAa; path=/;   domain=eldercarelink.com;">
 
-                     var data = "{\"blurbKey\":\"" + blurbKey + "\",\"rating\":\"" + rating + "\"}";
-                     RateArticle(data, RatingSuccess)                     
-                 },
-                 required: true
-             }
-            );
-         });
+	<meta name="inject_params" content="WT.qs_dlk=whioaQrIZy4AAEHniV8AAAAa&amp;">
 
-         function RatingSuccess() {
-             $('.starRate').rating('disable');
-             $('.ratingTitle').text('Thanks for Voting!');
-         }
-    </script>   
-    
-		
-    
-     <script type="text/javascript">
-        $(document).ready(function() {	
-	        $('.surveyLink').click(function (e) {	    
-	                var url = $('.primaryPurposeOptions input:radio:checked').get(0);
-	                if(url != null)
-	                {
-                        window.location =  url.value;
-                        return false;
-                    }
-                    else
-                        return true;
-                });
+	<meta http-equiv="Set-Cookie" content="inject_params=WT.qs_dlk=whioaQrIZy4AAEHniV8AAAAa&amp;; path=/;   domain=eldercarelink.com;">
 
-                $(".bookPromo").click(bookPromoPopup);
-        });
+<link type="text/css" rel="stylesheet" href="/_combine.php?common.css,default.css,anythingslider.css,validationEngine.jquery.css,simpleModal.css,article.css,OrganicStyle.css,articleCategory.css,resources.css">
 
-		function checkInput() {
-			if ($('#cse-search-box [name="q"]').val() == '') {
-				alert('You must enter a valid query.');
-				return false;
+</head>
+<body>            <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript">
+			$(document).ready(function() {	
+				
+				$('#slider')
+					.anythingSlider({	
+						height:245,
+						width:589,
+						expand: false,
+						hashTags	   : false,
+						toggleControls : false,
+						startStopped   : false,
+						startPanel          : 1,  
+						buildNavigation     : true,
+						enableNavigation    : true,
+						autoPlay			: true,
+						delay               : 5000,
+						animationTime       : 900
+					})				
+			});
+
+
+			/*$(function() {
+				$('.textGuidance').focus(function() {     
+			$(this).val('');
+				});
+			});*/
+			
+			function checkInput() {
+				var value = $('#cse-search-box [name="q"]').val();
+				value = value.replace(/^\s+|\s+$/g,'')
+				if (value == '' ) {
+					alert('You must enter a valid query.');
+					return false;
+				}
 			}
-		} 
-    
-    </script>    
-    
-     <script type="text/javascript">
-        $(document).ready(function () 
-        {
-            if($("#lnkJoinNetworkCta").lenght > 0)
-                $("#lnkJoinNetworkCta").validationEngine();
-                
-            if($("#lnkGuidance").lenght > 0)
-                $("#lnkGuidance").validationEngine();
-            
-            $("#lnkJoinNetworkCta").click(JoinNetworkCta);            
-            $("#lnkGuidance").click(Guidance);
 
-            $('.divJoinNetworkTY').hide();            
+			</script>
+
+			
+	<script type="text/javascript">
+		$(document).ready(function () 
+		{           
+			//$("#lnkSmallGuidance").click(SmallG);       
 
 			$('.cleanText').focus(function() {     
-		            $(this).val('');
-			    });            
+					$(this).val('');
+				});
+			
+			//$(".bookPromo").click(bookPromoPopup);		
             
-            $(".phone").mask("(999) 999-9999");
-            
-                $('.FirstNameNotSet').hide();
-                $('.LastNameNotSet').hide();
-                $('.addressInvalid').hide();
-            
-            $(".downloadImage").click(RegisterContestCTA);
-        });
-    </script>    
-    
-     <script type="text/javascript">    
-           
-     function Guidance()
-     {             
-        var data = "{'emailAddress':'" + $("textGuidance").val() + "'}"; 
-        
-        RegisterAjaxECLModal(".guidance", data, "#basic-modal-content", "#lnkGuidance", "lnkGuidance", "lnkGuidanceDisabled");
-     }
-                  
-      function JoinNetworkCta()
-         {
-           var cp = $(".txtContactPersonCta").val();
-           var cn = $(".txtCompanyNameCta").val();
-           var em = $(".txtEmailCta").val();
-           var ph = $(".txtPhoneCta").val();
-                      
-           var data = "{\"contactPerson\":\""+cp+"\",\"companyName\":\""+cn+"\",\"email\":\""+em+"\",\"phone\":\""+ph+"\"}";
-           
-           RegisterAjaxECL("#divJoinNetworkCtaInput", data, ".divJoinNetworkCta", 
-                           ".divJoinNetworkTY", "#lnkJoinNetworkCta", "lnkJoinNetworkCta", "lnkJoinNetworkCtaDisabled");
-       }
-
-       function bookPromoPopup() {
-           $('#bookPromoModalWindow').modal({	
-               containerCss:{
-		            height:350,
-		            width:400
-	            }
-	        });
-       }
-       
-       function RegisterContestCTA() 
-       {       
             $('.FirstNameNotSet').hide();
             $('.LastNameNotSet').hide();
             $('.addressInvalid').hide();
+            
+            $(".downloadImage").click(RegisterContestCTA); 
+
+
+			$("#rem-art").live('click',function(){
+			var ch=$(this).attr("title");
+			//$("#more_article"+ch).css("display","block");
+			$("#more_article"+ch).removeClass('thide');
+			$("#more_article"+ch).addClass('tshow');
+			$(this).css("display","none");
+
+			})
+                   
+		});
+        
+		function bookPromoPopup() {
+		    $('#bookPromoModalWindow').modal({
+		        containerCss: {
+		            height: 365,
+		            width: 400
+		        }
+		    });
+		}
+       
+       function RegisterContestCTA() {
+       
+                $('.FirstNameNotSet').hide();
+                $('.LastNameNotSet').hide();
+                $('.addressInvalid').hide();
                 
              var firstname = $(".txtFirstName").val();
              var lastName = $(".txtLastName").val();
              var emailAddress = $(".txtChapterEmail").val();
              var success = true;                    
-                
                 if (lastName == '') {
                     $('.LastNameNotSet').show();
                     success = false;
@@ -172,7 +117,7 @@
                 if (!pattern.test($('.txtChapterEmail').val())) {
                     $('.addressInvalid').show();
                     success = false;
-                }             
+                }              
              
              if(success)
              {
@@ -180,27 +125,71 @@
                  RegisterContestCTAAjaxECL(data);
              }
              else
-                return false;
+                 return false;
        }
        
        function obtainPDF()
        {
-            $.modal.close();
-            window.open('/011011_Minding_Our_Elders_BookExcerpt.pdf');
+            $.modal.close();            
+			window.open('/011011_Minding_Our_Elders_BookExcerpt.pdf');
        }
-                
-   </script>  
-<meta name="description" content="ElderCarelink Privacy Policy"><meta name="keywords" content="ElderCarelink Privacy Policy"><meta name="title" content="ElderCarelink Privacy Policy"><title>
-	ElderCarelink Privacy Policy - www.ElderCareLink.com
-</title></head>
-<body>
-    <div id="container">
-        <div id="header">
+       function RegisterContestCTAAjaxECL(dataList) {
+    	   $.ajax({
+    	   type: "POST",
+    	   url: urlWebService + "RegisterContestCTA",
+    	   data: dataList,
+    	   dataType: "json",
+    	   contentType: "application/json; charset=utf-8",
+    	   beforeSend: function() {
+    	  
+    	   },
+    	    complete: function() {
+    	    $.unblockUI();
+    	    },
+    	    success: function(response) {
+    	    obtainPDF();
+    	    },
+    	    error: function() {
+    	    alert("Communication error, please try again");
+    	    }
+    	    });
+    	    }         
+	</script>
+         	    
+	<script type="text/javascript">    
+	        
+		/*function SmallG()
+		{
+		    var data = "{'emailAddress':'" + $(".textGuidance").val() + "'}";
+		    RegisterAjaxECLModal(".guidance", data, "#basic-modal-content", "#lnkSmallGuidance", "lnkSmallGuidance", "lnkSmallGuidanceDisabled");
+		}*/
+	                
+	</script>
+
+
+
+	<title> ElderCarelink Privacy Policy -  - www.ElderCareLink.com</title>
+ 	
+	
+	
+
+
+
+
+
+
+
+
+
+
+<div id="container">
+<div id="headerMain">
+ 		<div id="header">
             <div id="logo">
                 <a href="/"><em>ElderCare</em>link</a>
             </div>
             <div id="areYouProvider">
-                <a href="/Go/network.htm"></a>
+                <a href="/network.htm"></a>
             </div>
             <div id="headerToolBar">
                 <div id="newsletter">
@@ -209,7 +198,7 @@
 	                        <li class="first"><a href="#">Subscribe to our newsletter</a></li>
 	                        <li><a href="#">See past issues</a></li> 
 	                        -->
-                        
+                        <!--<li id="liProviderLogin" runat="server" class="last"><a href="/provider"><img alt="Provider Login" src="images/index_Header_providerLogin.jpg"/></a></li> -->
                     </ul>
                 </div>
                 <div id="searchToolBar">
@@ -233,63 +222,79 @@
                     </ul>
                 </div>
                 <div id="googleSearch">
-                    <form action="http://www.eldercarelink.com/Go/search.aspx" id="cse-search-box">
-                    <input type="hidden" name="cx" value="012617363458268890500:sykar9rexti">
-                    <input type="hidden" name="cof" value="FORID:10">
-                    <input type="hidden" name="ie" value="UTF-8">
-                    <input type="text" name="q" size="19">
-                    <input type="submit" name="sa" onclick="return checkInput()" value="Search">
-
-                    <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-
-                    </form>
-                </div>
+					<form id="cse-search-box" action="http://www.eldercarelink.com/searchpage.php">
+						<input type="hidden" value="012617363458268890500:sykar9rexti" name="cx">
+						<input type="hidden" value="FORID:10" name="cof">
+						<input type="hidden" value="UTF-8" name="ie">
+						<input size="19" name="q" style="border: 1px solid rgb(126, 157, 185); padding: 2px; background: url(&quot;http://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif&quot;) no-repeat scroll left center rgb(255, 255, 255);">
+						<input type="submit" value="Search" name="sa" onclick="return checkInput()">
+						<script src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript">
+						</script>
+						<input type="hidden" name="siteurl" value="www.eldercarelink.com/">
+					</form>
+			  </div>
             </div>
-        </div>
-        <form name="aspnetForm" method="post" action="/Go/privacy.htm" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+          </div>
 
 
-<script src="/Go/ScriptResource.axd?d=vc2GHSQR19G24l_0JYySo3-QmARCNbsnTrG-_gV8_zdqNSQdwpx3sDP9Xh9vt5tU0&amp;t=ffffffffbd2983fc" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
-//]]>
-</script>
+			<div id="mainNav">
+			<ul id="navMenu" class="horizontalList">
+				<li class="first single">
+					<a href="/">Home</a>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="cTIDauNFAZJBiMNclfhR3c7+UYSufsFiF8YUOSWV9oQNVsvnkdOpc4L77XdZwKIH8C0h0AYYsy9IHyHXPojxmlSy9w0zjURFO9ZwK76POGnEoLYEn2y1xEdJGe1uwYEJH6sNDIqdz3s=">
-        
-        <div id="mainNav">
-            <ul id="navMenu" class="horizontalList">
-                <li class="first single"><a href="/">Home</a></li>
-                <li><a href="/In-Home-Care" id="ctl00_InHomeCareLink">In-Home Care</a></li>
-                <li><a href="/Adult-Day-Care" id="ctl00_AdultDayCareLink">Adult DayCare</a></li>
-                <li><a href="/Assisted-Living" id="ctl00_AssistedLivingLink">Assisted Living</a></li>
-                <li><a href="/Nursing-Homes" id="ctl00_NursingHomesLink">Nursing Homes</a></li>
-                <!--<li><a href="/Hospice-Care" id="ctl00_HospiceCareLink">Hospice Care</a></li>-->
-                <li class="single"><a href="/Alzheimers-and-Dementia" id="ctl00_AlzheimersandDementiaLink">
-                    Alzheimer's</a></li>
-                <li><a href="/elder-mobility" id="ctl00_MobilityLink">Elder Mobility</a></li>
-                <li><a href="/Legal-and-Financial" id="ctl00_LegalandFinancialLink">Legal &amp;
-                    Financial</a></li>
-                <li><a href="/Other-Resources" id="ctl00_ResourcesLink">Other Resources</a></li>
-                <li class="last single"><a href="http://blog.eldercarelink.com">Blog</a></li>
-            </ul>
-        </div>
-        <div id="columns">
-            <div id="leftColumn">
+				</li>
+				<li>
+					<a href="/In-Home-Care" id="InHomeCareLink">In-Home Care</a>
+				</li>
+				<li>
+					<a href="/Adult-Day-Care" id="AdultDayCareLink">Adult DayCare</a>
+				</li>
+				<li>
+
+					<a href="/Assisted-Living" id="AssistedLivingLink">Assisted Living</a>
+				</li>
+				<li>
+					<a href="/Nursing-Homes" id="NursingHomesLink">Nursing Homes</a>
+				</li>
+				<!--<li>
+					<a href="/Hospice-Care" id="HospiceCareLink">Hospice Care</a></li>-->
+				<li class="single">
+					<a href="/Alzheimers-and-Dementia" id="AlzheimersandDementiaLink">Alzheimer's</a>
+
+				</li>
+				<li>
+					<a href="/elder-mobility" id="MobilityLink">Elder Mobility</a>
+				</li>	
+				
+				<li>
+					<a href="/Legal-and-Financial" id="LegalandFinancialLink">Legal 
+						&amp; Financial</a>
+				</li>
+
+				<li>
+					<a href="/Other-Resources" id="ResourcesLink">Other Resources</a>
+				</li>						
+				<li class="last single">
+					<a href="http://blog.eldercarelink.com">Blog</a>
+				</li>
+			</ul>
+		</div>
+
+</div>
+            <div class="page-middle">
                 
-    <div id="crumbTrail">
-        <a href="/">Home </a>  | ElderCarelink Privacy Policy
-    </div>    
-    
-    <div id="recent">
-        <h1><span id="ctl00_mainContent_articleTitle">ElderCarelink Privacy Policy</span></h1>
-        <div id="articleHead">
-            
-        </div>
-        <div id="ctl00_mainContent_articleLeader" class="articleLeader"></div>
-        <div id="ctl00_mainContent_articleBlurb" class="articleBlurb" blurbkey="1098270"><h2><strong>QuinStreet, Inc.</strong></h2>
+                                                     <div id="content">
+							
+<div id="leftColumn">
+		    	<div id="crumbTrail"> <a href="/">Home</a> |
+			<a href="http://www.eldercarelink.com/privacy.htm">Privacy</a>
+						 
+	 		| ElderCarelink Privacy Policy		</div>
+    	 
+	    <div id="recent">
+	        <h1><span id="ctl00_mainContent_articleTitle">ElderCarelink Privacy Policy</span></h1>
+	      	        <div class="articleLeader" id="ctl00_mainContent_articleLeader"></div>
+	        <div class="articleBlurb" id="ctl00_mainContent_articleBlurb"><h2><strong>QuinStreet, Inc.</strong></h2>
 <h2><strong>Company Practices Regarding Your Privacy</strong></h2>
 <p>&nbsp;</p>
 <p>We at QuinStreet, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.</p>
@@ -379,200 +384,198 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <p><span class="F40">Foster City, CA 94404</span></p>
 <p>&nbsp;</p>
 <p>Date:&nbsp; November 23, 2010</p></div>
-    </div>
-    
-        
+	    </div>
+				 		
+		
+		
+</div>
 
-            </div>
-            <div id="rightColumn">
-                <div id="ctl00_quickSurvey" class="quickSurvey showRadio">
-                    <div id="divOrganicRadio">
-                        <div id="ctl00_surveyTop" class="surveyTop"></div>	
-                        
-                        <div id="ctl00_surveyQuestion" class="surveyQuestion">What kind of care do you need?</div>
-                        <div id="ctl00_selectOpt" class="selectOpt">(select one)</div>                     
-                        <div class="primaryPurposeOptions">
-                             <span id="ctl00_rblPrimaryPurpose"><input id="ctl00_rblPrimaryPurpose_0" type="radio" name="ctl00$rblPrimaryPurpose" value="http://www.eldercarelink.com/organicPPCSurvey1.aspx?pp=0&amp;source=eclsite&amp;cpgn=privacy-short"><label for="ctl00_rblPrimaryPurpose_0">Homecare, Adult Daycare, and/or Other In-Home Services or Products</label><br><input id="ctl00_rblPrimaryPurpose_1" type="radio" name="ctl00$rblPrimaryPurpose" value="http://www.eldercarelink.com/organicPPCSurvey1.aspx?pp=1&amp;source=eclsite&amp;cpgn=privacy-short"><label for="ctl00_rblPrimaryPurpose_1">Senior Housing, Assisted Living, or Nursing Homes</label></span>
-                        </div>
-                            <a href="http://www.eldercarelink.com/organicPPCSurvey1.aspx?pp=1&amp;source=eclsite&amp;cpgn=privacy-short" id="ctl00_surveyLink" class="surveyLink">
-                                <img alt="" src="Images/index_form_next_button.jpg">
-                            </a>
-                        <div id="ctl00_surveyBotton" class="surveyBottom"></div>
-                    </div>
-                    
-                    <div id="divJoinNetwork">
-                       <div>
-                            <a href="http://www.eldercarelink.com/provider/providerapply.html">
-                                <img src="images/joinOurNetwork.png"></a>
-                        </div>
+							</div>
+                          <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<style>
+#answertxt {
+    clear: both;
+    color: #000000;
+    font-family: Arial;
+    font-size: 14px;
+    padding-top: 4px;
+    width: 404px;
+}
+.q-option {
+    font-weight: bold;
+}
+#surveyLink{
+margin-left: 95px;
+margin-top: 5px;
+}
+.required {
+    color: #DD0000;
+    }
+</style>
 
-                        <div id="ctl00_divJoinNetworkCta" class="divJoinNetworkCta">                            
 
-                            <div id="divJoinNetworkCtaInput">                               
-                                <div class="spaceBetweenTextBox">                          
-	                                <span id="ctl00_lblContactPersonCta">Contact Person</span>
-	                                <input name="ctl00$txtContactPersonCta" type="text" id="ctl00_txtContactPersonCta" class="validate[required,custom[onlyLetter]] txtContactPersonCta">
+<div id="right">
+				<div id="rightColumn">
+						<div id="quickIframe">
+							<div id="Ifupborder">
+							</div>
+							<div id="IfMiddle">
+								<div id="Ifleftborder">
+								</div>
+								<div id="IfMiddleBody">
+									<div id="IfQuestion">
+									</div>
+									<form method="POST" action="/medicaliframe.htm" name="form" onsubmit="return validate_form(this)">
+									<div id="IfInputZipCode">
+										<div id="Ifzipcode">
+											<div id="zipcode">
+													<input type="text" id="step2_PC" name="PC" style="width: 100px" minlength="6" maxlength="7">
+											</div>
+										</div>
+										<span id="PCe" class="required"> Enter valid postal code</span>
+										
+									</div>
+									<div id="IfGoButton">
+										<div id="goButton">
+											<input name="submit" value="submit" type="image" src="/images/ifgobutton.jpg" alt="">
+										</div>
+									</div>
+									</form>
+								
+								</div>
+								<div id="Ifrightborder">
+								</div>
+								
+							</div>
+							<div id="Iflowerborder">
+							</div>
+						</div>
+						<a href="/011011_Minding_Our_Elders_BookExcerpt.pdf" class="conversationGuide">
+						<img class="bookPromo" style="width: 310px;" src="/images/ECL_BookPromoBanner_image.png"></a>
+
+						<a href="/downloads/Senior_living_conversation_guide.pdf" class="conversationGuide">
+						<img src="/images/Senior_Living_conversation_guide.jpg" alt="Senior Living conversation guide"></a>
+						
+											<!-- modal content -->
+					<div id="basic-modal-content">
+						<div id="imageHeader"><img src="images/ModalLogo.jpg" alt""=""></div>
+						<div id="modalContent">
+							<p>Thank you for signing up for our newletter. Your email has been added to our mailing list. To ensure that you receive our email, please add the following address to your address book.</p>									
+							<p>customersupport@eldercarelink.com</p>
+							<p>Note: if you do not receive our emails in your inbox, check your junk mail folder in case it was sent there by your spam filters.</p>								
+						</div>
+
+					</div>
+					
+					<!-- modal content -->            
+					<div id="bookPromoModalWindow">	            
+						   <div id="bookPromoModalContent">
+	                            <h2>Download a Free Chapter Now</h2>
+		                        <p class="bookPromoModalContentTitle"> To download your free chapter of <i>Minding Our Elders</i>, please subscribe to our newsletter:</p>		                       
+                               <div id="bookPromoModalContentInput">
+                                    <div>		             
+		                                <span>First Name:</span>
+
+		                                <input name="txtFirstName" type="text" id="txtFirstName" class="txtFirstName"> 
+		                            </div>
+                                    <p class="errorMessage">
+                                       <label class="FirstNameNotSet">First Name is required.</label>
+                                    </p>
+		                            <div>		                
+		                                <span>Last Name:</span>
+		                                <input name="txtLastName" type="text" id="txtLastName" class="txtLastName">
+		                            </div>
+
+                                    <p class="errorMessage">
+                                        <label class="LastNameNotSet">Last Name is required.</label>
+                                    </p>
+		                            <div>		            
+		                                <span>E-Mail:</span>
+		                                <input name="txtChapterEmail" type="text" id="txtChapterEmail" class="txtChapterEmail">
+		                            </div>	
+                                    <p class="errorMessage">
+                                        <label class="addressInvalid">E-Mail address is not valid.</label>
+
+                                    </p>
                                 </div>
-                                <div class="spaceBetweenTextBox">
-	                                <span id="ctl00_lblCompanyNameCta">Company Name</span>
-	                                <input name="ctl00$txtCompanyNameCta" type="text" id="ctl00_txtCompanyNameCta" class="validate[required,custom[onlyLetter]] txtCompanyNameCta">
-                                </div>
-                                <div class="spaceBetweenTextBox">    
-	                                <span id="ctl00_lblPhoneCta">Phone</span>
-	                                <input name="ctl00$txtPhoneCta" type="text" id="ctl00_txtPhoneCta" class="validate[required] phone txtPhoneCta">
-                                </div>
-                                <div class="spaceBetweenTextBox">
-	                                <span id="ctl00_lbltEmailCta">Email</span>
-	                                <input name="ctl00$txtEmailCta" type="text" id="ctl00_txtEmailCta" class="validate[required,custom[email]] txtEmailCta">                                                                 
-                                </div>
-                             </div>   
-                                                     
-                            <p id="lnkJoinNetworkCta" class="lnkJoinNetworkCta">    
-                                                    
-                        </p></div>
+                                <div id="bookPromoModalContentBottom">
+		                            <img alt="download" class="downloadImage" src="images/orange_download.png">
+		                            <div class="divFooter"><a href="/tos.htm">Terms and Conditions</a></div>
+                                </div>		            	            
+	                        </div>
+					</div>
 
-                        <div id="ctl00_divJoinNetworkTY" class="divJoinNetworkTY" style="display: none;"></div>                           
-                    </div>
-                  
-                    <div id="divMobilityBanner">
-                        <script language="JavaScript" type="text/javascript">
-                            var zflag_nid = "203";
-                            var zflag_cid = "670150/507878/14";
-                            var zflag_sid = "7835";
-                            var zflag_width = "300";
-                            var zflag_height = "250"; 
-                            var zflag_sz = "9";
-                        </script>
-
-                        <script type="text/javascript" src="http://k.klert.com/jsc/dr/fl.js"> </script>
-
-                        <noscript> 
-                            <a href="http://s.sigze.com/cgi/r?;n=203;c=670150/507878/14;s=7835;x=2304;f=201008301759450;u=j;z=TIMESTAMP" target="_blank"><img border="0" width="300" height="250" src="http://s.sigze.com/cgi/x?;n=203;c=670150/507878/14;s=7835;x=2304;u=j;z=TIMESTAMP" alt="Click here"></a> 
-                        </noscript>
-                    </div>                                      
-                    
-                </div>
-                <div id="ctl00_defaultSection" class="showRadio">
-				<img src="images/ECL_BookPromoBanner_image.png" style="width:310px;" class="bookPromo">
-                <a href="/downloads/Senior_living_conversation_guide.pdf"><img alt="Senior Living conversation guide" src="images/Senior_Living_conversation_guide.jpg"></a>
-                    <div id="ctl00_guidance" class="guidance">
+					<!-- modal close button-->
+					<div id="clodeDiv">
+						<img src="images/x.png" alt="">
+					</div>					
+						
+						
+											<div class="guide" id="ctl00_guidance">
                             <h1>Get Free Guidance</h1>
                             <h2>Sign up for our newsletter to get caregiving tips, advice, and more.</h2>
-                            <input name="ctl00$txtEmail" type="text" value="Your email address" id="ctl00_txtEmail" class="validate[required,custom[email]] cleanText textGuidance">                            
-                            <p id="lnkGuidance" class="lnkGuidance">                            
-                    </p></div>
-                    <div id="ctl00_quinStreetBox" class="quinStreetBox">
-                        <script type="text/javascript">
-                            var zflag_nid="203"; 
-                            var zflag_cid="704540/507878/14"; 
-                            var zflag_sid="7835"; 
-                            var zflag_width="330"; 
-                            var zflag_height="250"; 
-                            var zflag_sz="9";
-                        </script>
-                        <script type="text/javascript" src="http://s.supiy.com/jsc/dr/fl.js"></script>
-                        <noscript> 
-                            <a href="http://b.blesp.com/cgi/r?;n=203;c=704540/507878/14;s=7835;x=2304;f=201011042149260;u=j;z=TIMESTAMP" target="_blank">
-                                <img border="0" width="300" height="250" src="http://b.blesp.com/cgi/x?;n=203;c=704540/507878/14;s=7835;x=2304;u=j;z=TIMESTAMP" alt="Click here" />
-                            </a>
-                        </noscript>
-                    </div>
-                    <div id="expertsAdvice">
-                        <h2 class="related">
-                            Ask an expert</h2>
-                        <div id="expertAdvice">
-                            <p>
-                                <img src="images/rightimage.jpg" alt="expert">
-                                <strong>Carol Bradley Bursack<br>
-                                    Editor-in-Chief
-                                    <br>
-                                </strong>
-                                <br>
-                                <!--Over the span of two decades, author, columnist and speaker Carol Bradley Bursack cared for a neighbor and six elderly family members. Carol speaks at workshops and conferences and has been interviewed by national radio, newspapers and magazines.-->
-                                <a href="http://www.npr.org/templates/story/story.php?storyId=126167767">LISTEN NOW:
-                                    Hear Carol’s recent interview on NPR’s Talk of the Nation</a>
-                            </p>
-                            <p id="expertAdviceImages">
-                                <!--Temp-->
-                                <img class="npr" src="images/NPRLogo.jpg" alt="NPR">
-                                <!--Temp-->
-                                <a href="/contributors.htm" class="more">Read more&gt;</a>
-                            </p>
-                            <!--Temp-->
-                        </div>
-
-                        <div id="partners">
-                            <!--<h2 class="related_without_border">Featured partners</h2>-->
-                            <div class="partner">
-
-
-                                <!--<a href="http://r.raoernt.com/cgi/r?;n=203;c=561965;s=7835;x=7936;f=201002121139080;u=j;z=TIMESTAMP;"
-									    target="_blank"><img src="images/DiabeticConsumer.jpg" alt=""></a><br>
-								    <a href="http://r.raoernt.com/cgi/r?;n=203;c=561965;s=7835;x=7936;f=201002121139080;u=j;z=TIMESTAMP;"
-									    target="_blank">Diabetic Consumer</a>-->
-                            </div>
-                            <!-- <div class="partner">
-							    <p>
-								    <a href="http://p.psdftxt.com/cgi/r?;n=203;c=561966;s=7835;x=7936;f=201002121141000;u=j;z=TIMESTAMP;"
-									    target="_blank"><img src="images/GTSL_Mobility.jpg" alt=""></a><br>
-								    <a href="http://p.psdftxt.com/cgi/r?;n=203;c=561966;s=7835;x=7936;f=201002121141000;u=j;z=TIMESTAMP;"
-									    target="_blank">Guide to Senior Life</a>
-							    </p>
-						    </div>-->
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- modal content -->
-            <div id="basic-modal-content">
-	            <div id="imageHeader"><img align="" src="images/ModalLogo.jpg"></div>
-	            <div id="modalContent">
-		            <p>Thank you for signing up for our newletter. Your email has been added to our mailing list. To ensure that you receive our email, please add the following address to your address book.</p>									
-		            <p>customersupport@eldercarelink.com</p>
-		            <p>Note: if you do not receive our emails in your inbox, check your junk mail folder in case it was sent there by your spam filters.</p>								
-	            </div>
-            </div>
-            
-            <!-- modal content -->            
-			<div id="bookPromoModalWindow">	            
-					<div id="bookPromoModalContent">
-	                    <h2>Download a Free Chapter Now</h2>
-		                <p class="bookPromoModalContentTitle"> To download your free chapter of <i>Minding Our Elders</i>, please subscribe to our newsletter:</p>		                       
-                        <div id="bookPromoModalContentInput">
-                            <div>		             
-		                        <span>First Name:</span>
-		                        <input name="ctl00$txtFirstName" type="text" id="ctl00_txtFirstName" class="txtFirstName"> 
-		                    </div>
-                            <p class="errorMessage">
-                                <label class="FirstNameNotSet" style="display: none;">First Name is required.</label>
-                            </p>
-		                    <div>		                
-		                        <span>Last Name:</span>
-		                        <input name="ctl00$txtLastName" type="text" id="ctl00_txtLastName" class="txtLastName">
-		                    </div>
-                            <p class="errorMessage">
-                                <label class="LastNameNotSet" style="display: none;">Last Name is required.</label>
-                            </p>
-		                    <div>		            
-		                        <span>E-Mail:</span>
-		                        <input name="ctl00$txtChapterEmail" type="text" id="ctl00_txtChapterEmail" class="txtChapterEmail">
-		                    </div>	
-                            <p class="errorMessage">
-                                <label class="addressInvalid" style="display: none;">E-Mail address is not valid.</label>
-                            </p>
-                        </div>
-                        <div id="bookPromoModalContentBottom">
-		                    <img alt="download" class="downloadImage" src="images/orange_download.png">
-		                    <div class="divFooter"><a href="/tos.htm">Terms and Conditions</a></div>
-                        </div>		            	            
-	                </div>
+                            <input type="text" class="validate[required,custom[email]] cleanText textGuide" id="ctl00_txtEmail" value="Your email address" name="ctl00$txtEmail">                            
+                            <p class="lnkGuidance" id="lnkGuidance">                            
+                    		</p>
+                    	</div>
+                    	
+                    	
+                    	<div class="quinStreetBox" id="ctl00_quinStreetBox">
+                        <a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=whioaQrIZy4AAEHniV8AAAAa;;;n=203;c=704540/507878/14;s=7835;x=2304;f=20697849;u=j;z=TIMESTAMP" target="_blank"><img border="0" width="300" height="250" src="http://o1.qnsr.com/cgi/x?;n=203;c=704540/507878/14;s=7835;x=2304;u=j;z=TIMESTAMP" alt="Click here"></a>
+                    	</div>
+											<div id="expertsAdvice">
+							<h2 class="related">Ask an expert</h2>
+							<div id="expertAdvice">
+								<p>
+									<img alt="expert" src="/images/rightimage.jpg"> <strong>Carol Bradley Bursack<br>
+										Editor-in-Chief
+										<br>
+									</strong>
+									<br>
+									<a href="http://www.npr.org/templates/story/story.php?storyId=126167767">LISTEN 
+										NOW: Hear Carol's recent interview on NPR's Talk of the Nation</a>
+								</p>
+								<p id="expertAdviceImages">
+									<img alt="NPR" src="/images/NPRLogo.jpg" class="npr"> <a class="more" href="/contributors.htm">
+										Read more&gt;</a>
+								</p>
+							</div>
+						</div>
+						
 			</div>
+</div>
 
-            <!-- modal close button-->
-            <div id="clodeDiv">
-	            <img src="images/x.png" alt="">
-            </div>	
-            <div id="footBanner">
+
+<script language="JavaScript" type="text/javascript">
+function validate_form(thisform) {
+/*
+	 if(($("#home").is(':checked')) || ($("#elder").is(':checked')) || ($("#adult").is(':checked'))){
+		 return true;
+	 }else{
+		 document.getElementById("CurrentRequirements").style.display = 'inline';
+		 document.getElementById("CurrentRequirements").focus();
+		 return false;
+	 }
+*/
+	 var pc = $("#step2_PC").val();
+
+	// var regEx = /[a-zA-Z][0-9][a-zA-Z](-| |)[0-9][a-zA-Z][0-9]/;
+	 var regEx = /(^\d{5}$)|(^\d{5}-\d{4}$)/;
+
+	 	if(!regEx.test(pc))
+	 	{
+	 		document.getElementById("PCe").className = 'requiredNew';
+	 		document.form.step2_PC.focus();
+	 		return false;		
+	 	}else{
+	 		document.getElementById("PCe").className = 'required';
+	 	}
+}
+</script>
+                
+           </div>
+            
+		<div id="footBanner">
 
                 <script language="JavaScript">
                     var zflag_nid="203"; var zflag_cid="566316/509307/507878/14"; var zflag_sid="7835"; var zflag_width="728"; var zflag_height="90"; var
@@ -582,49 +585,110 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <script language="JavaScript" src="http://e1.cdn.qnsr.com/jsc/e1/fl.js"></script>
 
                 <noscript>
-                    <a href="http://o1.qnsr.com/cgi/r?;n=203;c=566316/509307/507878/14;s=7835;x=3584;f=201001201522180;u=j;z=TIMESTAMP"
+                    <a href="http://o1.qnsr.com/cgi/r?WT.qs_dlk=whioaQrIZy4AAEHniV8AAAAa;;;n=203;c=566316/509307/507878/14;s=7835;x=3584;f=201001201522180;u=j;z=TIMESTAMP"
                         target="_blank">
                         <img border="0" width="728" height="90" src="http://o1.qnsr.com/cgi/x?;n=203;c=566316/509307/507878/14;s=7835;x=3584;u=j;z=TIMESTAMP"
                             alt="Click here"></a>
                 </noscript>
             </div>
+            <!-- modal content -->
+					<div id="basic-modal-content">
+						<div id="imageHeader"><img src="images/ModalLogo.jpg" alt""=""></div>
+						<div id="modalContent">
+							<p>Thank you for signing up for our newletter. Your email has been added to our mailing list. To ensure that you receive our email, please add the following address to your address book.</p>									
+							<p>customersupport@eldercarelink.com</p>
+							<p>Note: if you do not receive our emails in your inbox, check your junk mail folder in case it was sent there by your spam filters.</p>								
+						</div>
+
+					</div>
+					
+					<!-- modal content -->            
+					<div id="bookPromoModalWindow">	            
+						   <div id="bookPromoModalContent">
+	                            <h2>Download a Free Chapter Now</h2>
+		                        <p class="bookPromoModalContentTitle"> To download your free chapter of <i>Minding Our Elders</i>, please subscribe to our newsletter:</p>		                       
+                               <div id="bookPromoModalContentInput">
+                                    <div>		             
+		                                <span>First Name:</span>
+
+		                                <input name="txtFirstName" type="text" id="txtFirstName" class="txtFirstName"> 
+		                            </div>
+                                    <p class="errorMessage">
+                                       <label class="FirstNameNotSet">First Name is required.</label>
+                                    </p>
+		                            <div>		                
+		                                <span>Last Name:</span>
+		                                <input name="txtLastName" type="text" id="txtLastName" class="txtLastName">
+		                            </div>
+
+                                    <p class="errorMessage">
+                                        <label class="LastNameNotSet">Last Name is required.</label>
+                                    </p>
+		                            <div>		            
+		                                <span>E-Mail:</span>
+		                                <input name="txtChapterEmail" type="text" id="txtChapterEmail" class="txtChapterEmail">
+		                            </div>	
+                                    <p class="errorMessage">
+                                        <label class="addressInvalid">E-Mail address is not valid.</label>
+
+                                    </p>
+                                </div>
+                                <div id="bookPromoModalContentBottom">
+		                            <img alt="download" class="downloadImage" src="images/orange_download.png">
+		                            <div class="divFooter"><a href="/tos.htm">Terms and Conditions</a></div>
+                                </div>		            	            
+	                        </div>
+					</div>
+
+					<!-- modal close button-->
+					<div id="clodeDiv">
+						<img src="images/x.png" alt="">
+					</div>			
             <div id="footer">
                 <div id="footerImg">
                 </div>
                 <div id="footerContent">
                     <ul id="footerNav">
-                        <li><a href="/about.aspx">About Us</a></li>
+                        <li><a href="/about.htm">About Us</a></li>
                         <li><a href="http://www.eldercarelinkdirectory.com" target="_blank">Caregiver Directory</a></li>
-                        <li><a href="/tos.htm" id="ctl00_TermsOfUseLink">Terms of Use</a></li>
-                        <li><a href="/network.htm" id="ctl00_BusinessLink" class="strong yellowText">
-                            Business Registration &gt;&gt;</a></li>
-                        <!--<li><a href="/specialoffers.aspx">Special Offers</a></li>-->
-                        <li><a href="/provider/listing/" target="_blank">Listings</a></li>
-                        <li><a href="/privacy.htm" id="ctl00_PrivacyPolicyLink">Privacy Policy</a></li>
-                        <li><a href="/network.htm" id="ctl00_JoinOurNetworkLink" class="strong yellowText">
+                        <li><a runat="server" id="TermsOfUseLink" href="/tos.htm">Terms of Use</a></li>
+                        <li><a runat="server" id="PrivacyPolicyLink" href="/privacy.htm">Privacy Policy</a></li>
+                        <li><a id="JoinOurNetworkLink" href="/network.htm" class="strong yellowText">
                             Join Our Network &gt;&gt;</a></li>
-                        
-                        <li><a href="/contact.htm" id="ctl00_ContactUsLink">Contact Us</a></li>
-                        <li><a href="/sitemap.aspx">Site Map</a></li>
-                        <li id="ctl00_liProviderLoginFooter"><a href="/provider" class="strong">Provider
+                        <li><a runat="server" id="ContactUsLink" href="/contact.htm">Contact Us</a></li>
+                        <li><a href="/sitemap.htm">Site Map</a></li>
+                        <li id="liProviderLoginFooter"><a href="http://clientservices.quinstreet.com/Login.do?method=externalAutoLogin" class="strong">Provider
                             Login</a></li>
                         
                     </ul>
                     <div id="certificates">
                         <a href="http://www.ALFA.org" target="_blank">
-                            <img id="alfaImage" src="images/ALFA_Logo.png" border="0" style="margin-left: 10px"></a>
+                            <img id="alfaImage" src="/images/ALFA_Logo.png" border="0" style="margin-left: 10px"></a>
                         <a href="http://www.bbbonline.org/cks.asp?id=105042594048" target="_blank">
-                            <img src="images/ReliabilitySeal4.gif" alt="" hspace="5" vspace="2" border="0" class="footer_bb_Logo"></a>
+                            <img src="/images/bbbseal.png" alt="" hspace="5" vspace="2" border="0" class="footer_bb_Logo"></a>
                     </div>
                     <div id="copyright">
                         ©Copyright 2004-2011
                         - <em>ElderCare</em>link a division of QuinStreet, Inc.</div>
                 </div>
             </div>
-        </div>
-        </form>
-		<div id="footer_ssl">
-		</div>
+      
+</div><script type="text/javascript" src="/_combine.php?jquery-1.4.2.js,bookmark.js,jquery.simplemodal.js,jquery.validationEngine.js,jquery.validationEngine-en.js,jquery.maskedinput.js,json2.js,dataCaptureService.js,jquery.easing.1.2.js,jquery.anythingslider.js,jquery.anythingslider.fx.js,behaviour.js,popunder.js,common.js"></script>
 
+    <script language="JavaScript" type="text/javascript">
+	var gDomain="www.qsstats.com";
+	var gDcsId="dcsiz50k2s4tuuz2unex7e9c8_2e9v";
+	var gFpc="WT_FPC";
+	var gConvert=true;
+	var gFpcDom = "eldercarelink.com";
+	if ((typeof(gConvert) != "undefined") && gConvert && (document.cookie.indexOf(gFpc + "=") == -1) && (document.cookie.indexOf("WTLOPTOUT=")==-1)) {
+	    document.write("<SCR"+"IPT TYPE='text/javascript' SRC='http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
+	}
+	function dcsAdditionalParameters() {}
+    </script><script type="text/javascript" src="https://www.qsstats.com/dcsiz50k2s4tuuz2unex7e9c8_2e9v/wtid.js"></script>
 
-</div></body></html>
+    <script type="text/javascript" src="/imageserver/common/webtrends.js"></script>
+
+    <noscript><img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://www.qsstats.com/dcsiz50k2s4tuuz2unex7e9c8_2e9v/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2" /></noscript>
+
+</body></html>
