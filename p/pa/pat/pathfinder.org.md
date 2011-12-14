@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathfinder.org privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520022337id_/http%3A//www.pathfind.org/site/PageServer%3Fpagename%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathfinder.org privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214033919id_/http%3A//www.pathfind.org/site/PageServer%3Fpagename%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Pathfinder International: Privacy Policy
 
@@ -13,14 +13,14 @@
   * We do not share email addresses.
   * We do not retain the email address of anyone to whom you send an eCard or Tell-a-Friend link.
   * **We do not store your credit card information after processing a donation.**
-  * Donor names and mailing addresses may be exchanged with other groups working on similar issues. You may request that your name and address not be exchanged with other groups, however, we ask that our donors allow us to use their names in this way to ensure us a reliable, low-cost source of new supporters. Learn more about why this is important here [link]. To request that your name not be used in our exchange program, please [email](mailto:communications@pathfinder.org "Contact us") or call 617-924-7200 x262.
+  * Donor names and mailing addresses may be exchanged with other groups working on similar issues. You may request that your name and address not be exchanged with other groups, however, we ask that our donors allow us to use their names in this way to ensure us a reliable, low-cost source of new supporters. Learn more about why this is important here [link]. To request that your name not be used in our exchange program, please [email](mailto:communications@pathfinder.org "Contact us") or call 617-972-1234.
 
 
 
 **    COMMUNICATION PREFERENCES:**
 
   * You may [update your information online](http://www.pathfind.org/site/ConsInterestsUser) at any time to personalize your online communication preferences including opting out of all online communications.
-  * If you have other preferences or have questions about our communications practices please [contact us](mailto:communications@pathfinder.org "Contact us") and we will respond to your questions.  If you prefer to call, please call 617-922-2699 x262.
+  * If you have other preferences or have questions about our communications practices please [contact us](mailto:communications@pathfinder.org "Contact us") and we will respond to your questions.  If you prefer to call, please call 617-972-1234.
 
 
 
@@ -45,7 +45,7 @@ By visiting our website, you are accepting the practices described in this priva
 
 We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a survey or making a donation. The types of information that may be requested include your name, address, email address, and telephone number to respond to a specific request for further information. 
 
-You may request a record of your information by calling (617) 924-7200  during normal business hours, Monday-Friday, 9:00am-5:00pm EST or by e-mail at [communications@pathfind.org](mailto:communications@pathfind.org).
+You may request a record of your information by calling (617) 924-7200 during normal business hours, Monday-Friday, 9:00am-5:00pm EST or by e-mail at [communications@pathfind.org](mailto:communications@pathfind.org).
 
 **Additional Personal Information you may provide:**
 
@@ -67,7 +67,7 @@ Pathfinder respects your privacy and has instituted policies intended to ensure 
 
 **We do not store your credit card information after processing a donation.** Pathfinder assumes no responsibility for the data collection and use practices of third parties that process online credit card donation transactions.
 
-Personal information you choose to provide will be used for the purpose it was intended. We may also use this information to deliver to you information about Pathfinder International, related activities or as otherwise disclosed to you at the point of collection, as well as for trend analysis, pattern detection, and website administration. Donor names and mailing addresses may be exchanged with other groups working on similar issues. You may request that your name and address not be exchanged with other groups, however, we ask that our donors allow us to use their names in this way to ensure us a reliable source of new donors. [Learn more about why this is important here](http://www.pathfind.org/site/PageServer?pagename=PrivacyPolicy_donorexchange "Learn more about why this important here"). To request that your name not be used in our exchange program, please [email](mailto:communications@pathfinder.org "Contact us") or call 617-924-7200  x262.
+Personal information you choose to provide will be used for the purpose it was intended. We may also use this information to deliver to you information about Pathfinder International, related activities or as otherwise disclosed to you at the point of collection, as well as for trend analysis, pattern detection, and website administration. Donor names and mailing addresses may be exchanged with other groups working on similar issues. You may request that your name and address not be exchanged with other groups, however, we ask that our donors allow us to use their names in this way to ensure us a reliable source of new donors. [Learn more about why this is important here](http://www.pathfind.org/site/PageServer?pagename=PrivacyPolicy_donorexchange "Learn more about why this important here"). To request that your name not be used in our exchange program, please [email](mailto:communications@pathfinder.org "Contact us") or call 617-972-1234.
 
 We will only disclose personally identifiable information to other third parties when (i) the person submitting the information authorizes us to do so; (ii) sharing the information is a necessary operation of the website (i.e. to process credit card information); and/or (iii) we are required to do so by law or in the good-faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Pathfinder or the website; (b) protect and defend the rights or property of Pathfinder, the website or the visitors to the website, and/or (c) act under exigent circumstances to protect the personal safety of visitors to the website or the public.
 
@@ -98,7 +98,7 @@ This Privacy Policy only applies to Pathfinder International maintained websites
 
 **COMMUNICATION PREFERENCES**
 
-You may [update your account online](http://www.pathfind.org/site/ConsInterestsUser) to personalize your online communication preferences including opting out of all online communications. If you have other preferences or have questions about our communications practices please [contact us](mailto:communications@pathfinder.org "Contact us") and we will respond to your questions.  If you prefer to call, please call 617-922-2699 x262.
+You may [update your account online](http://www.pathfind.org/site/ConsInterestsUser) to personalize your online communication preferences including opting out of all online communications. If you have other preferences or have questions about our communications practices please [contact us](mailto:communications@pathfinder.org "Contact us") and we will respond to your questions.  If you prefer to call, please call 617-972-1234.
 
 **DISCLAIMER**
 
