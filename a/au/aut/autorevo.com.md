@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autorevo.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508162758id_/http%3A//www.autorevo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autorevo.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214035926id_/http%3A//www.autorevo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AutoRevo | Auto Dealer Websites | Internet Marketing | Inventory Management | Vehicle Pricing Tools
 
