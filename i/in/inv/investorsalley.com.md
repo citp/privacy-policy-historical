@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorsalley.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228053535id_/http%3A//www.investorsalley.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorsalley.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214064332id_/http%3A//www.investorsalley.com/info/privacy.html) for the most accurate reproduction.*
 
 # Investors Alley: Privacy Policy
 
