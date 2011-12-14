@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020237id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecompleteuniversityguide.co.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214134637id_/http%3A//www.thecompleteuniversityguide.co.uk/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Complete University Guide
 
-[www.thecompleteuniversityguide.co.uk](http://www.thecompleteuniversityguide.co.uk/) is committed to protecting your privacy online. Our policy explains how we will do this.
+[www.thecompleteuniversityguide.co.uk](https://web.archive.org/) is committed to protecting your privacy online. Our policy explains how we will do this.
 
 ### What information do we collect?
 
@@ -11,6 +11,8 @@ We collect email addresses.
 Registration: on some parts of the site we may ask you to register, and if you do we ask for your name, email address, geographical address and other personal information. 
 
 From time to time we will ask you for further information, for example if you make a purchase or enter a competition.
+
+If you use the contact us form or submit a review we collect and store your [IP address](http://en.wikipedia.org/wiki/IP_address) and the time you submit your details. We do this to help us resolve questions and to control spam.
 
 We may also use cookies. For an explanation, see the section on cookies below. 
 
