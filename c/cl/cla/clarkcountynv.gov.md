@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarkcountynv.gov privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616013717id_/http%3A//www.clarkcountynv.gov/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarkcountynv.gov privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215002958id_/http%3A//www.clarkcountynv.gov/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,13 +8,13 @@ Clark County takes your privacy seriously and complies with all applicable priva
 
 This notice covers the following topics: 
 
-  * Section A. Information Collected and How it is Used 
+  * Section A. Information Collected and How it is Used
 
   * Section B. Personal Information and Choice
 
-  * Section C. Children's Privacy Protection 
+  * Section C. Children's Privacy Protection
 
-Section D. Public Access to Information
+  * Section D. Public Access to Information
 
   * Section E. Third-Party Links
 
@@ -39,7 +39,7 @@ Contact us if you have any questions concerning this privacy statement at [webma
   
    
   
-****Section A. Information Collected and How it is Used****    
+******Section A. Information Collected and How it is Used**  
   
 **Information collected if you only browse this site.** PRIVACY DISCLAIMER:  For each visitor to our Web page, our Web server automatically recognizes only the visitor’s domain name. We collect the Internet Protocol (IP) address of visitors to our Web page and the E-mail addresses of those who communicated with us via the E-mail.  Aggregate information on what pages visitors access and information volunteered in the survey information and/or site registrations is collected and used only for internal review to improve the content of our Web page.
 
@@ -81,7 +81,7 @@ Information provided for a transaction is used only for the purpose of completin
   
    
   
-********Section B. Personal Information and Choice****  ****  
+************************Section B. Personal Information and Choice********  
   
 You may choose whether to provide personal information on-line.
 
@@ -99,13 +99,13 @@ Users are cautioned that the collection of personal information requested from o
   
    
   
-**Section C. Children's Privacy Protection**  
+**********Section C. Children's Privacy Protection**  
   
 Protecting children's privacy on-line is extremely important. Clark County respects national and international laws, including the Children's On-line Privacy Protection Act ("COPPA"), which applies in the United States.   
   
    
   
-**Section D. Public Access to Information**  
+******Section D. Public Access to Information**  
   
 Nevada Revised Statute 239.010 states that, “All public books and public records of a governmental entity, the contents of which are not otherwise declared by law to be confidential, must be open at all times during office hours to inspection by any person …” “Public records” are regarded as those records which we generate or receive and then maintain in order to conduct business. Some confidential personal identifiers, such as Social Security numbers and date of birth, are not available on-line, for privacy protection. Questions concerning what specific information is available will be addressed by the individual departments maintaining the data. Check the appropriate departmental web pages for details.
 
@@ -113,7 +113,7 @@ Any data mining effort that impairs access to our website or negatively impacts 
   
    
   
-**Section E. Third-Party Links and Disclaimers**  
+******Section E. Third-Party Links and Disclaimers**  
   
 The County’s website has many links to other websites. These include links to websites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on the County’s website and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site. Visitors linking to another site are encouraged to examine the privacy policy of that site.
 
@@ -121,7 +121,7 @@ Neither the County, department, officer, or employee of the County warrants the 
   
    
   
-**Section F. Use of Cookies**  
+******Section F. Use of Cookies**  
   
 Clark County generally, does not use "persistent cookies." Cookies are text files, or entries in larger files, utilized to distinguish between visitors to a website, and to track information during multiple visits to a website. The County uses "temporary cookies" on some parts of its site, and such temporary cookies expire upon termination of the browsing session. Persistent cookies, as an example, may be used to remember the user login.
 
@@ -129,13 +129,13 @@ The use of cookies is a standard practice among Internet websites. Most Internet
   
    
   
-****Section G. Security****  
+************Section G. Security****  
   
 Clark County, as developer and manager of its website, has taken a number of steps to safeguard the integrity of its data and prevent unauthorized access to information that is maintained in its computer systems. Security measures have been integrated into the entire web environment and are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, ensure the integrity of information that is transmitted between users of government applications and the County, and to provide reasonable protection of private information that is in our possession. The transmission of registration IDs, passwords, and payment information to this website is encrypted. For security purposes, to make sure this service remains available to all users, and to meet the needs of our users, Clark County uses special software programs for monitoring and auditing network traffic to measure the level of demand and topics of interest to help us improve our site for users and to identify unauthorized attempts to upload or change information or otherwise cause damage to this government computer system. By accessing this system, users expressly consent to these monitoring activities. Clark County also uses industry-standard software tools to control access to specific applications and services and to protect data that is transmitted electronically between users and the County. These programs help us identify someone attempting to gain unauthorized access to this website. If security monitoring reveals possible evidence of criminal activity, information pertaining to such activity may be provided to law enforcement officials. Unauthorized attempts to upload information and/or change information on the Clark County website or its composite websites are strictly prohibited and are subject to prosecution under the federal Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.  
   
    
   
-**Section H. Electronic Commerce**  
+******Section H. Electronic Commerce**  
   
 Increasingly, you have the option to do business with the County over the Web including making electronic payments for goods and services. Such transactions are allowed only under tightly controlled circumstances, where there are appropriate technological and other safeguards in place to protect financial and other sensitive data.
 
@@ -147,18 +147,18 @@ The provision of this information shall not be construed in any way as giving bu
   
    
   
-**Section I. Health Care Information**  
+******Section I. Health Care Information**  
   
 Any agency providing personally identifiable health care information via the County’s web site is required to certify that its health care data handling and security procedures are in compliance with the Health Insurance Portability and Accountability Act of 1996 ("HIPAA") and the County’s HIPPA and security policies. If such data and security services are provided to such agency(ies) by a third-party provider, the agency(ies) shall be responsible for such third party's compliance with HIPAA.  
   
    
   
-**Section J. Intellectual Property**  
+******Section J. Intellectual Property**  
   
 The content of Clark County's web pages is copyrighted, and may contain some third-party images/graphics that are used with permission. Users are notified, therefore, that one should presume the need to obtain permission from the copyright holder before reproducing or otherwise using images/graphics from this website.  Please send an email to [webmaster@ClarkCountyNV.gov](mailto:webmaster@ClarkCountyNV.gov) if you have questions regarding the use or reproduction of specific images/graphics from this site.  
   
    
   
-**Section K. Contact Information**  
+******Section K. Contact Information**  
   
 If you have any questions or concerns about Clark County's use of your information or about this Privacy Statement, please send an email to [webmaster@ClarkCountyNV.gov](mailto:webmaster@ClarkCountyNV.gov) and note "Privacy" in the subject line.
