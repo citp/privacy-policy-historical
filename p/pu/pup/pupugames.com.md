@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pupugames.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610105048id_/http%3A//www.pupugames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pupugames.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214070441id_/http%3A//www.pupugames.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Play Free Games
+# Privacy Policy - pupugames.com
 
 We respect the privacy of of all internet users. 
 
