@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the davidstea.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629165443id_/http%3A//www.davidstea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidstea.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214151439id_/http%3A//www.davidstea.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy
+
+|   | 
+
+##### Privacy
 
 Davids Tea Inc. (hereinafter referred to as “Davids Tea”) strongly believes in providing you with a webpage that respects your privacy. To access certain portions of this webpage, you will first be asked to provide us with personal information, which we will do our utmost to protect. This privacy policy will help you understand how Davids Tea collects, uses and discloses your information.
 
-By accessing this webpage, you are consenting to the collection and the use of your information by Davids Tea, but only to the extent described in this Privacy Policy. 
+By accessing this webpage, you are consenting to the collection and the use of your information by Davids Tea, but only to the extent described in this Privacy Policy.
 
-As the terms of this Privacy Policy may be modified at Davids Tea’s sole discretion, without any obligation to notify you, we advise that from time to time you check this webpage to review the changes. Your continued use of this webpage shall constitute your consent to any changes. 
+As the terms of this Privacy Policy may be modified at Davids Tea’s sole discretion, without any obligation to notify you, we advise that from time to time you check this webpage to review the changes. Your continued use of this webpage shall constitute your consent to any changes.
 
   * 1\. Type and Purpose of Collection: Davids Tea collects information to facilitate the use of our webpage by you, our customer. On our webpage, we collect two types of information:
 
@@ -19,18 +23,20 @@ As the terms of this Privacy Policy may be modified at Davids Tea’s sole discr
 
 Davids Tea expressly acknowledges that we will not use any Personal Information for any other purposes without your consent or as required by law. The Personal Information we collect will vary depending on how you are using the webpage, but may include your name, address, email address, credit card information, credit information, and telephone number.
 
-  * 2\. Withdrawal of Consent: We will not collect any Personal Information from you without your knowledge and consent. You may withdraw your consent at any time by sending a written request to david@DAVIDsTEA.com. Upon receiving notice that you have revoked your consent, we will stop using your Personal Information within a reasonable time, which will vary depending on what information we have collected and for what purpose, and we will send you a confirmation email stating same.
+  * 2\. Withdrawal of Consent: We will not collect any Personal Information from you without your knowledge and consent. You may withdraw your consent at any time by sending a written request to customerservice[at]DAVIDsTEA.com. Upon receiving notice that you have revoked your consent, we will stop using your Personal Information within a reasonable time, which will vary depending on what information we have collected and for what purpose, and we will send you a confirmation email stating same.
+
+
   * 3\. Sharing Information: Davids Tea will only use your information in connection with the purposes described herein. Further, Davids Tea will not sell, trade, or disclose to third parties any of the information collected on this webpage, except as follows: 
     1. Affiliated Service Providers: Davids Tea may share your information with our affiliated service providers, with whom we are affiliated so as to better serve you. For example, we may share your credit card information with the credit card service provider to process your purchase. When Davids Tea uses affiliated service providers, it requires them to have the same level of privacy protection as we have, and therefore we expect that your information will be handled with the same level of care that we employ.
     2. Where required by law: Davids Tea may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
     3. Statistical Analysis: We may share aggregated statistical information with third parties for advertising or marketing purposes. No Personal Information will be shared in this manner.
   * 4\. Protection of Your Information: We take very seriously our responsibility to protect the information that you are entrusting us with. As such, we limit access and use state of the art technologies to safeguard Personal Information from unauthorized intrusions. It should be noted that while we will do our utmost to protect your information, no security procedure is currently 100% effective. Should any breach of your personal information occur, we will inform you as soon as possible.
-  * 5\. Right to Examine Information: You have the right to examine any of your Personal Information that we collect. Should you wish to examine the information, please send us a written request to: david@DAVIDsTEA.com. We reserve the right to charge you a reasonable administrative fee to access your information.
+  * 5\. Right to Examine Information: You have the right to examine any of your Personal Information that we collect. Should you wish to examine the information, please send us a written request to: customerservice[at]DAVIDsTEA.com. We reserve the right to charge you a reasonable administrative fee to access your information.
   * 6\. Children Under 13: Given our concern for the privacy of children, it is our policy not to collect information from children under the age of 13. 
   * 7\. Miscellaneous: This Privacy Policy shall be governed and construed by the laws applicable to the Province of Quebec, without regard to conflict of law rules. Both Davids Tea and you agree to the exclusive jurisdiction of the Province of Quebec.
 
 
 
-This Privacy Policy and the Terms and Conditions Agreement shall constitute the entire agreement between the parties and there are no other written or verbal agreements or representations relating to the subject matters described herein.
-
- 
+This Privacy Policy and the Terms and Conditions Agreement shall constitute the entire agreement between the parties and there are no other written or verbal agreements or representations relating to the subject matters described herein.  
+  
+---|---|---
