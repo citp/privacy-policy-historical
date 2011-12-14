@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emuparadise.me privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625134843id_/http%3A//www.emuparadise.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emuparadise.me privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214065532id_/http%3A//www.emuparadise.me/privacy.php) for the most accurate reproduction.*
 
 # Emuparadise - N64 Playstation Dreamcast SNES Genesis NES MAME ROMs ISOs
 
