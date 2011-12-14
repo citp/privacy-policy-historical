@@ -1,44 +1,82 @@
-> *The following text is extracted and transformed from the army.mod.uk privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629185751id_/http%3A//www.army.mod.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army.mod.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214055426id_/http%3A//www.army.mod.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - British Army Website
+# Privacy and Cookies - British Army Website
 
-The Army (as part of the Ministry of Defence) is committed to protecting your privacy. 
+## Cookies
 
-When you contact us, or visit our websites, your personal information is stored securely and processed fairly as required by the Data Protection Act 1998. 
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally. These pieces of information are used to improve services for you through, for example: 
 
-Occasionally, we may update the information provided in this statement, so please check here for the latest version.
+  * enabling a service to recognise your device so you don't have to give the same information several times during one task 
+  * recognising that you may already have given a username and password so you don't need to do it for every web page requested 
+  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast 
 
-## How we collect information 
 
-We collect personal details when you complete forms, questionnaires and coupons and each time you contact us by phone, post, email, text message or through our websites. 
 
-We may collect additional information automatically each time you visit our websites. This information is the used to get statistics on the number of people visiting the website. 
+You can manage these small files yourself and learn more about them via the 'Internet browser cookies - what they are and how to manage them' link on the right. [](http://www.army.mod.uk/)
 
-## What we do with this information 
+## Our Privacy Policy
 
-We use the information you give us to answer your enquiries, provide the information you want about the Army and to help us make improvements to our websites. 
+The Army, as part of the Ministry of Defence, is committed to protecting your privacy. 
 
-From time to time, we may send additional information about the Army and Army careers to people who have ticked the box giving us permission to do so. You'll be given the choice to receive this by post, phone, email or text messages and you can change these preferences each time you provide your contact details. Please read the privacy notices displayed on each form for further information about these options. 
+When you contact us or visit our websites, your personal information is stored securely and processed fairly as required by the Data Protection Act 1998. 
 
-## We do not share personal information 
+This Privacy Policy explains the following 
 
-The Army will not share your personal details with other organisations. 
+  * What information the Army may collect about you 
+  * How the Army will use your information and ensure this is not shared with organisations outside the Ministry of Defence 
+  * How long your information may be held on our systems 
+  * Your choices regarding the personal information you provide to us 
+  * How cookies are used on our websites and the options available to reject these 
 
-Your information may be handled by companies that provide data processing and marketing services to Army Recruiting. 
 
-## What information do we hold about you 
 
-You can request a report detailing all the information we hold about you by writing to the address below. 
+### Changes to our privacy policy 
 
-## What if you don't want us to contact you in the future 
+We may update our Privacy Policy from time to time, so you may want to check the latest version before providing personal data to the Army. This version was last updated on 19 October 2011. 
 
-Simply write to the address below asking us not to contact you again. 
+### How we collect information
 
-## What if you would like your details removed from our records 
+ We collect personal information when you
 
-Again, write to the address below asking us to delete your details from our records. 
+  * Register online, request an information pack or submit an application through our websites 
+  * Complete a printed form, questionnaire or coupon 
+  * Contact us by phone, post, email or text message 
 
-## Advice for parents and young people
+
+
+In addition, information is automatically captured each time you visit our websites. We use cookies (as described above) and collect IP addresses (that can uniquely identify a specific computer or network device on the internet) to track visitors to our websites and prepare management reports. 
+
+### What we do with this information
+
+We use the personal information you provide to answer your enquiries, fulfil information pack requests, process applications to join the Army, and to make improvements to our websites. 
+
+### We do not share personal information 
+
+The Army will not share your personal details with other organisations outside the Ministry of Defence. 
+
+Your information may be handled by the companies we use to provide data processing and marketing services. These third-parties are required to comply strictly with our privacy policies that prohibit the use of personal data for their own business purposes. 
+
+Individuals applying to join the Army should be aware that their personal information may be shared with other MOD organisations and Services \- including the Royal Air Force and Royal Navy. 
+
+### How long do we keep your information
+
+Your information will be held on our systems for as long as is necessary to answer your requests and maintain a dialogue with those individuals who remain interested in the Army and Army careers. 
+
+If you are under the age of 25 years, we will keep your personal information for no more than 3 years. If you are 25 years or older, we will keep your personal information for no more than 2 years. 
+
+This period starts on the day you last made contact with the Army, and is reset each time you make an enquiry, request an information pack, complete an application, register/logon to our website, or change your recruiting status as a candidate. 
+
+At the end of this period, we will remove your personal information from our systems or treat the data to remove any personal identifiers that could be used to identify you as an individual. 
+
+### Will I be contacted by the Army for marketing purposes? 
+
+We will only contact or send information about the Army and Army careers to those people who have given us permission to do so. 
+
+We will only provide information that is relevant to you. Further details are provided in our [Communications Policy](https://web.archive.org/25527.aspx). 
+
+If you choose to receive these communications, you will be given the opportunity to select your preferences for post, phone, email or text messages. You can change these preferences whenever you provide us with your contact details or at any time by logging on to My Account (if you have registered online). Please read the privacy notices displayed on each form for further information about these options. 
+
+### Advice for parents and young people 
 
 Many young people are interested in information about the Army. The privacy and security of their personal data is very important to us. 
 
@@ -46,48 +84,39 @@ We do not process or store personal data about children under 14 years and will 
 
 We ask individuals under 16 years to confirm that they have spoken to a parent/guardian and obtained their permission before providing us with personal data. We will not accept or process requests or store personal data about 14 and 15 year olds without this confirmation. 
 
-We encourage all parents to supervise their children’s use of the Internet and for young people to always get the permission of a parent/guardian before entering any personal information in any website. 
+We encourage all parents to supervise their children’s use of the internet and for young people to always get the permission of a parent/guardian before entering any personal information in any website. 
 
-## Use of cookies
+### What information do we hold about you 
 
-We use 'cookies' to identify you when you visit our websites. Cookies are small files sent to your browser and stored on your computer. These files are then accessed by our web server each time you visit our website. 
+You can request a report detailing all the information we hold about you by writing to the address below. 
 
-For details about controlling and deleting cookies, visit www.aboutcookies.org 
+### What to do if you don't want us to contact you in the future 
 
-## Transparent GIF files
+Write to the address below asking us not to contact you again. 
 
-Sometimes pixels, or transparent GIF files, are used to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognise a unique cookie on your Web browser, which tells us which adverts bring users to our website. The cookie will have been placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information we collect and share does not contain anything that's personally identifiable. 
+### What to do if you want us to remove your details from our records 
 
-For more information about DoubleClick, and how to opt-out, go to: http://emea.doubleclick.com/uk/privacy 
+Write to the address below asking us to delete your details from our records. 
 
-## Website analytics
+### Data Protection 
 
-The Army website uses Sitestat, a Nedstat product, to measure and analyse visitor information related to our website. To enable us to do that, we use your IP-address to collect, among other things, Internet traffic data and information regarding your browser type and computer. 
+More information about the Data Protection Act 1998 and your rights can be found at [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)
 
-In addition, cookies are used. If you visit the website again, the cookie shows that it is a repeat visit. Because the visitor is recognised through the cookie, cookies are considered personal data. In addition, cookies may contain personal data themselves. 
+### Freedom of Information 
 
-Cookies issued by Nedstat contain a unique number and therefore no personal data. They have a lifetime of 5 years. 
+More information about the Freedom of Information Act 2000, and the information made available to the public by the Ministry of Defence, can be found at [www.foi.mod.uk](http://www.foi.mod.uk/)
 
-Nedstat does not link cookies to individuals and only uses them to recognise repeat visits. Cookies issued by Nedstat cannot be used to trace your surfing behaviour across non-Nedstat websites. 
+### Contacting the Army about personal information 
 
-It is often possible to configure your web browser to refuse cookies or to be informed if a cookie is set. Refer to your web browser guide for configuration settings. 
+If you have any questions about this Privacy Policy or the information we hold about you, please write to 
 
-## Data Protection 
+Data Protection Officer,   
+Army Recruiting and Training Division (MIS),   
+Building 370,   
+Trenchard Lines,   
+Upavon,   
+Pewsey,   
+Wiltshire   
+SN9 6BE 
 
-For more information about the Data Protection Act 1998 and your rights, visit www.informationcommissioner.gov.uk 
-
-## Freedom of Information 
-
-For more information about the Freedom of Information Act 2000, and the information the Ministry of Defence makes available to the public, visit www.foi.mod.uk 
-
-## Further questions 
-
-If you have any more questions, write to: 
-
-Recruiting Operations WO   
-Army Recruiting and Training Division (Ops)   
-Building 370   
-Trenchard Lines   
-Upavon   
-Pewsey   
-Wiltshire SN9 6BE 
+Email: [ARTD-DPO@mod.uk](mailto:ARTD-DPO@mod.uk)
