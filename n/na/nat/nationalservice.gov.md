@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625033602id_/http%3A//www.nationalservice.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalservice.gov privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193334id_/http%3A//www.nationalservice.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
 
 # NationalService.gov > Security and Privacy Policy
 
