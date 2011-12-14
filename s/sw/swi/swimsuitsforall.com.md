@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616130957id_/http%3A//www.swimsuitsforall.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swimsuitsforall.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214185810id_/http%3A//www.swimsuitsforall.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
    [](https://web.archive.org/)
 
-[www.swimsuitsforall.com](https://web.archive.org/web/20110616130957id_/http%3A//www.swimsuitsforall.com/customer-service/www.swimsuitsforall.com) (the "Site") is brought to you by Swimsuits for All inc. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.
+[www.swimsuitsforall.com](https://web.archive.org/web/20111214185810id_/http%3A//www.swimsuitsforall.com/customer-service/www.swimsuitsforall.com) (the "Site") is brought to you by Swimsuits for All inc. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.
 
 ## Collection of Information
 
 ### Personal Information
 
-We collect personal information from you when you submit it to us, including by: (1) registering on the Site; (2) placing an order; (3) signing up for our newsletter; (4) contacting us; or (5) participating in a Site promotion or survey. This information may include, for example, your name, email address, address, telephone number, date of birth and credit card information. We may combine the information we collect from you with information we receive about you from other sources, such as address update services.
+We collect personal information from you when you submit it to us, including by: (1) registering on the Site; (2) placing an order; (3) signing up for our newsletter; (4) contacting us; or (5) participating in a Site promotion or survey. This information may include, for example, your name, email address, home address, telephone number, date of birth and credit card information. We may combine the information we collect from you with information we receive about you from other sources, such as address update services.
 
 If you use the Site's refer-a-friend mechanism, we will collect your friend's email address, for the purpose of sending them email.
 
@@ -64,6 +64,6 @@ Swimsuits for All Inc. 265 Route 36 West. Suite 205A West Long Branch, N.J. 0776
 
 ## Contact Us
 
-If you have questions or concerns about this Privacy Policy, contact us at [**privacy@swimsuitsforall.com**](https://web.archive.org/web/20110616130957id_/http%3A//www.swimsuitsforall.com/customer-service/privacy@swimsuitsforall.com)
+If you have questions or concerns about this Privacy Policy, contact us at [**privacy@swimsuitsforall.com**](https://web.archive.org/web/20111214185810id_/http%3A//www.swimsuitsforall.com/customer-service/privacy@swimsuitsforall.com)
 
 [](https://web.archive.org/)
