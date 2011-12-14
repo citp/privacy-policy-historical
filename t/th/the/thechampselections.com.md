@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechampselections.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225144207id_/http%3A//www.thechampselections.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechampselections.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214200830id_/http%3A//www.thechampselections.com/privacy_statement.html) for the most accurate reproduction.*
 
 # 
 
