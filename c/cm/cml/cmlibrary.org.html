@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cmlibrary.org privacy policy that was archived on 2011-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110530010451id_/http%3A//www.cmlibrary.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cmlibrary.org privacy policy that was archived on 2011-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214170532id_/http%3A//www.cmlibrary.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 <link rel="stylesheet" type="text/css" href="/plcmcStyle.css" title="plcmcStyle">
@@ -11,10 +11,6 @@
 
 
 <body onfocus="document.catalogForm.q.focus();">
-<!--OnLoad="document.catalogForm.q.focus();"-->
-
-<script language="javascript" type="text/javascript" src="/public/feedback.js"></script>
-
 <script language="javascript" type="text/javascript">
 <!--
 function submitTheForm()
@@ -42,135 +38,8 @@ function submitTheForm()
 		}
 	}
 }
-
-function validatecomment(form){
-var alertTxt
-alertTxt = ""
-
-	var invalidChars = " /:,;"
-			
-	var emailErrors = 0
-
-	var badChar = ""
-			
-	for (i=0;i < invalidChars.length; i++){
-			
-		badChar = invalidChars.charAt(i)
-				
-		if (form.emailaddr.value.indexOf(badChar,0) != -1) {
-				
-			emailErrors = emailErrors + 1
-				
-		}
-			
-	}
-			
-	var atPos = form.emailaddr.value.indexOf("@",1)
-			
-	if (atPos == -1) {
-			
-		emailErrors = emailErrors + 1
-			
-	}
-
-	if (form.emailaddr.value.indexOf("@",atPos+1) != -1) {
-	
-	
-		emailErrors = emailErrors + 1
-			
-	}
-			
-	periodPos = form.emailaddr.value.indexOf(".",atPos)
-			
-	if (periodPos == -1) {
-			
-		emailErrors = emailErrors + 1
-			
-	}
-
-	if(periodPos+3 > form.emailaddr.value.length){
-			
-		emailErrors = emailErrors + 1
-			
-	}
-
-	if (form.emailaddr.value != "" && emailErrors != 0) {
-			
-		alertTxt = alertTxt + "You have entered an invalid email address.\n"
-
-	}
-	if(alertTxt != ""){
-	alert(alertTxt);
-	return false;
-	}
-	else{
-	callServer();
-	form.reset();
-	return true;
-	}
-
-}
 //-->
 </script>
-
-	<!-- *** PAGE COMMENT FORM *** -->
-<div id="feedback" style="position: absolute; z-index:-1;visibility: hidden; left:0; top:0;"><br>
-<form method="post" name="feedbackForm" action="javascript:void%200" onsubmit="return validatecomment(this)">
-<table width="500" style="background-color:#CCCCCC; border:solid gray 1px;" border="0" cellpadding="4" cellspacing="0">
-<tbody><tr>
-<td colspan="5" class="font12" style="border-bottom: solid gray 1px;"><b>Please send us your comments about this Web page:</b></td>
-<td align="right" style="border-bottom: solid gray 1px;"><a href="javascript:void(0)" onclick="hideLayer('feedback')"><b>X Close</b></a></td>
-</tr>
-<tr>
-<td width="50" class="font12"></td>
-<td width="50" class="font12" align="center">Excellent<br>5</td>
-<td width="50" class="font12" align="center">&nbsp;<br>4</td>
-<td width="50" class="font12" align="center">&nbsp;<br>3</td>
-<td width="50" class="font12" align="center">&nbsp;<br>2</td>
-<td width="50" class="font12" align="center">Poor<br>1</td>
-</tr>
-
-<tr class="bggrey01">
-<td class="font12"><nobr>Page Organization:</nobr></td>
-<td align="center"><input type="radio" name="findInfo" id="findInfo" value="5"></td>
-<td align="center"><input type="radio" name="findInfo" id="findInfo" value="4"></td>
-<td align="center"><input type="radio" name="findInfo" id="findInfo" value="3"></td>
-<td align="center"><input type="radio" name="findInfo" id="findInfo" value="2"></td>
-<td align="center"><input type="radio" name="findInfo" id="findInfo" value="1"></td>
-</tr>
-
-<tr class="bggrey02">
-<td class="font12"><nobr>Ease of Reading:</nobr></td>
-<td align="center"><input type="radio" name="easyRead" value="5"></td>
-<td align="center"><input type="radio" name="easyRead" value="4"></td>
-<td align="center"><input type="radio" name="easyRead" value="3"></td>
-<td align="center"><input type="radio" name="easyRead" value="2"></td>
-<td align="center"><input type="radio" name="easyRead" value="1"></td>
-</tr>
-<tr class="bggrey01">
-<td class="font12"><nobr>Overall satisfaction:</nobr></td>
-<td align="center"><input type="radio" name="overall" value="5"></td>
-<td align="center"><input type="radio" name="overall" value="4"></td>
-<td align="center"><input type="radio" name="overall" value="3"></td>
-<td align="center"><input type="radio" name="overall" value="2"></td>
-<td align="center"><input type="radio" name="overall" value="1"></td>
-</tr>
-
-<tr><td colspan="6" class="font12" style="border-bottom: solid gray 1px;"><br><b>We welcome your comments. Please let us know how can improve this page.</b></td></tr>
-
-<tr><td colspan="6" class="font12">Please enter name(optional): <input class="form02" type="text" name="name" size="40"><br><br>Please provide an email address(optional): <input class="form02" type="text" name="emailaddr" size="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-
-<tr><td colspan="6"><textarea class="form02" id="comments" name="comments" cols="75" rows="5"></textarea></td></tr>
-
-<tr>
-<td colspan="6" align="center">
-<input class="form02" type="submit" value="Send">
-<input type="hidden" name="pageName" id="pageName" value="/About_Us/policiesPrivacy.asp"><input type="hidden" name="pageReferer" id="pageReferer" value="">
-</td>
-</tr>
-</tbody></table>
-</form>
-</div>
 
 <table id="cml_outerTable" cellpadding="0" cellspacing="0" width="740">
 
@@ -185,6 +54,8 @@ alertTxt = ""
 		<a href="http://twitter.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_twitter_16.png" alt="Twitter" width="16" height="16"></a>
 		<a href="http://youtube.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_youtube_16.png" alt="YouTube" width="16" height="16"></a>
 		<a href="http://www.flickr.com/photos/plcmc" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_flickr_16.png" alt="Flickr" width="16" height="16"></a>
+		<a href="http://cmlibrarycommunity.tumblr.com/" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_tumblr_16.png" alt="Tumblr" width="16" height="16"></a>
+		<a href="https://foursquare.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_4square_16.png" alt="Tumblr" width="16" height="16"></a>
 		<a href="/programs/rsslist.asp"><img border="0" hspace="2" vspace="0" src="/images/icon_rss_16.png" alt="Get Library RSS Feeds" width="16" height="16"></a>
 		<a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=xa-4bc4924b35e747d4"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4bc4924b35e747d4"></script>
 		<br><br>
@@ -212,7 +83,7 @@ alertTxt = ""
 			<li><a href="/catalog/getcard.asp">Get Library Card</a></li>
 			<li><a href="http://hip.plcmc.org/">Classic Catalog</a></li>
 			<li><a href="/catalog/">Catalog Resources</a></li>
-			<li><a href="/catalog/audiobookoptions.asp">Media Downloads</a></li>
+			<li><a href="/catalog/audiobookoptions.asp">eBooks, Audiobooks &amp;<br>Digital Downloads</a></li>
 			<li><a href="/readers_club">Adult Book Reviews</a></li>
 			<li><a href="/bookhive/">Kid Book Reviews</a></li>
  		</ul>
@@ -355,10 +226,7 @@ alertTxt = ""
 
 	<hr class="red">
 	<strong class="font12red">
-	HOLIDAY HOURS - All libraries will be closed Monday, May 30 2011 for Memorial Day.
-<hr class="red">
-Summer Hours begin June 5; all libraries closed Sundays. <a class="link12red" href="http://ow.ly/53tLC">Learn more</a>
-
+	
 
 	</strong>
 	<hr class="red">
@@ -426,19 +294,30 @@ Summer Hours begin June 5; all libraries closed Sundays. <a class="link12red" hr
 	<tr>
 	<td id="footer">
 	<hr>
-	<a class="link10grey" href="/catalog/">CATALOG</a> | <a class="link10grey" href="/locations/">LOCATIONS</a> | <a class="link10grey" href="/programs/">CLASSES / EVENTS</a> | <a class="link10grey" href="/online/">RESEARCH / HOMEWORK</a> | <a class="link10grey" href="/services/">SERVICES</a> | <a class="link10grey" href="/kids/">KIDS</a> | <a class="link10grey" href="/teens/">TEENS</a> | <a class="link10grey" href="/about_us/">ABOUT US</a> | <a class="link10grey" href="/online/ask_a_librarian/">CONTACT US</a>
+	<div align="center"><a class="link10grey" href="/catalog/">CATALOG</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link10grey" href="/locations/">LOCATIONS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link10grey" href="/programs/">CLASSES / EVENTS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link10grey" href="/online/">RESEARCH / HOMEWORK</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link10grey" href="/services/">SERVICES</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link10grey" href="/kids/">KIDS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link10grey" href="/teens/">TEENS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link10grey" href="/about_us/">ABOUT US</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link10grey" href="/online/ask_a_librarian/">CONTACT US</a></div>
 	<br><br>
-	<a href="http://www.systranlinks.com/trans?lp=en_es&amp;url=http%3A%2F%2Fplcmc.org%2F" class="link10">ESPAÑOL</a> | <a href="http://www.systranlinks.com/trans?lp=en_fr&amp;url=http%3A%2F%2Fplcmc.org%2F " class="link10">FRANÇAIS</a> | <a href="http://www.systranlinks.com/trans?lp=en_de&amp;url=http%3A%2F%2Fplcmc.org%2F" class="link10">DEUTSCH</a> |  <a href="http://www.systranlinks.com/trans?lp=en_pt&amp;url=http%3A%2F%2Fplcmc.org%2F" class="link10">PORTUGUÊSE</a>&nbsp;&nbsp;&nbsp;Powered by SYSTRAN<br><br>
-	<a href="http://www.facebook.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_facebook_16.png" alt="Facebook" width="16" height="16"></a>
-	<a href="http://twitter.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_twitter_16.png" alt="Twitter" width="16" height="16"></a>
-	<a href="http://youtube.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_youtube_16.png" alt="YouTube" width="16" height="16"></a>
-	<a href="http://www.flickr.com/photos/plcmc" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_flickr_16.png" alt="Flickr" width="16" height="16"></a>
-	<a href="/programs/rsslist.asp"><img border="0" hspace="2" vspace="0" src="/images/icon_rss_16.png" alt="Get Library RSS Feeds" width="16" height="16"></a>
-	<a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=xa-4bc4924b35e747d4"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4bc4924b35e747d4"></script>
-	<br><br>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tbody><tr>
+		<td class="font10" align="left">
+		
+		<a href="http://www.systranlinks.com/trans?lp=en_es&amp;url=http%3A%2F%2Fwww.cmlibrary.org/About_Us/policiesPrivacy.asp" class="link10">ESPAÑOL</a> | <a href="http://www.systranlinks.com/trans?lp=en_fr&amp;url=http%3A%2F%2F%2Fwww.cmlibrary.org/About_Us/policiesPrivacy.asp" class="link10">FRANÇAIS</a> | <a href="http://www.systranlinks.com/trans?lp=en_de&amp;url=http%3A%2F%2F%2Fwww.cmlibrary.org/About_Us/policiesPrivacy.asp" class="link10">DEUTSCH</a> |  <a href="http://www.systranlinks.com/trans?lp=en_pt&amp;url=http%3A%2F%2F%2Fwww.cmlibrary.org/About_Us/policiesPrivacy.asp" class="link10">PORTUGUÊSE</a>&nbsp;&nbsp;&nbsp;Powered by SYSTRAN</td>
+		
+		<td align="right">
+		<a href="http://www.facebook.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_facebook_16.png" alt="Facebook" width="16" height="16"></a>
+		<a href="http://twitter.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_twitter_16.png" alt="Twitter" width="16" height="16"></a>
+		<a href="http://youtube.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_youtube_16.png" alt="YouTube" width="16" height="16"></a>
+		<a href="http://www.flickr.com/photos/plcmc" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_flickr_16.png" alt="Flickr" width="16" height="16"></a>
+		<a href="http://cmlibrarycommunity.tumblr.com/"><img border="0" hspace="2" vspace="0" src="/images/icon_tumblr_16.png" alt="Tumblr" width="16" height="16"></a>
+		<a href="https://foursquare.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_4square_16.png" alt="Tumblr" width="16" height="16"></a>
+		<a href="/programs/rsslist.asp"><img border="0" hspace="2" vspace="0" src="/images/icon_rss_16.png" alt="Get Library RSS Feeds" width="16" height="16"></a>
+		<a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=xa-4bc4924b35e747d4"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4bc4924b35e747d4"></script>
+		</td>
+		</tr>
+	</tbody></table>
+	<br>
 	© 2011 Charlotte Mecklenburg Library | 310 N. Tryon Street, Charlotte, NC 28202 | 704.416.0100
 	<br>
-	<a class="link10" href="/Online/Ask_a_Librarian/default.asp">Contact Us</a> | <a href="javascript:void(0)" class="link10" onclick="showLayer('feedback');">Comment on this page</a> | <a class="link10" href="/services/plcmcwebsites.asp">Library Websites</a> | <a class="link10" href="/About_Us/policiesPrivacy.asp">Privacy Notice</a> | <a class="link10" href="/about_us/policiesInternet.asp">Internet Policy</a>
+	<a class="link10" href="/Online/Ask_a_Librarian/default.asp">Contact Us</a> | <a class="link10" href="/services/plcmcwebsites.asp">Library Websites</a> | <a class="link10" href="/About_Us/policiesPrivacy.asp">Privacy Notice</a> | <a class="link10" href="/about_us/policiesInternet.asp">Internet Policy</a>
 	</td>
 	</tr>
 </tbody></table>
