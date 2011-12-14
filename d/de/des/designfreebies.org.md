@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designfreebies.org privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605014718id_/http%3A//www.designfreebies.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designfreebies.org privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214090625id_/http%3A//www.designfreebies.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Designfreebies
 
