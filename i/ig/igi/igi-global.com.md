@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the igi-global.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507060307id_/http%3A//www.igi-global.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igi-global.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214190624id_/http%3A//www.igi-global.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # IGI Global - Privacy Policy
 
 This is the web site of IGI Global.
 
-Our postal address is 701 E Chocolate Ave Hershey, PA 17033
+Our postal address is701 E Chocolate AveHershey, PA 17033
 
-We can be reached via e-mail at newsletter@igi-global.com or you can reach us by telephone at (717)533-8845
+We can be reached via e-mail at newsletter@igi-global.comor you can reach us by telephone at (717)533-8845
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
