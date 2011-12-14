@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesheep.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528074041id_/http%3A//www.gamesheep.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesheep.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214060405id_/http%3A//www.gamesheep.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ GameSheep.com will not sell, distribute or lease your personal information to th
 You may request details of personal information which we hold about you. A small fee will be payable. If you would like a copy of the information held on you please write to the address listed at the bottom of this page. 
 
 **Newsletters**  
-GameSheep.com uses email as the main method of contact with its users. When signing up to become a member of GameSheep.com, the user must agree to accept and cannot unsubscribe from non-promotional emails (e.g. emails containing invoices, support correspondence and subscriptioninformation).
+GameSheep.com uses email as the main method of contact with its users. When signing up to become a member of GameSheep.com, the user must agree to accept and cannot unsubscribe from non-promotional emails (e.g. emails containing invoices, support correspondence and subscription information).
 
 These emails are transactional emails and usually occur each time an action is triggered on the site:
 
@@ -67,7 +67,7 @@ These emails are transactional emails and usually occur each time an action is t
 \- password reminder  
 \- internal messages from other users
 
-GameSheep.com also sends newsletters, periodically. Subscribing to the newsletters is optional and free for all users. GameSheep.com newsletters contain new site games and top members. Ocasionally GameSheep.com sends promotional newsletters on behalf of our customers. Your personal information is NOT shared to any third party without your prior consent.
+GameSheep.com also sends newsletters, periodically. Subscribing to the newsletters is optional and free for all users. GameSheep.com newsletters contain new site games and top members. Occasionally GameSheep.com sends promotional newsletters on behalf of our customers. Your personal information is NOT shared to any third party without your prior consent.
 
 Additional information collected for each sent newsletter is:
 
