@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the higheroneaccount.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624003826id_/https%3A//higheroneaccount.com/info/outprivacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higheroneaccount.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214121118id_/https%3A//higheroneaccount.com/info/outprivacypolicy.jsp) for the most accurate reproduction.*
 
 # Higher One: Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.higheroneaccount.com&sealid=101) **YOUR PRIVACY IS OUR PRIORITY**
 
-At Higher One, we take your privacy and online security very seriously. During card set up, you’re providing us with personal information about yourself. Higher One understands the importance of protecting the safety and confidentiality of the information you provide and we treat this information with the utmost security and respect. This Privacy Statement (this 'Statement') details what personal information we collect from our users’ as well as how we use it and safeguard it. This Statement applies exclusively to [www.higheroneaccount.com](http://www.higheroneaccount.com/) (the ‘Site’). 
+At Higher One, Inc. (further referred to as "Higher One," "We," "Us," and "Our"), we take your privacy and online security very seriously. During card set up, you’re providing us with personal information about yourself. Higher One understands the importance of protecting the safety and confidentiality of the information you provide and we treat this information with the utmost security and respect. This Privacy Statement (this 'Statement') details what personal information we collect from our users’ as well as how we use it and safeguard it. This Statement applies exclusively to [www.higheroneaccount.com](http://www.higheroneaccount.com/) (the ‘Site’). 
 
 In addition to any legal compliance associated with the handling of your information, Higher One wants to earn your trust. Therefore, we’ve taken a number of steps to make sure that your information is as safe as possible, including but not limited to: 
 
@@ -17,21 +17,21 @@ In addition to any legal compliance associated with the handling of your informa
 
 
 
-Higher One is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the internet by promoting the use of fair information practices. Higher One has elected to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Higher One has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
-If you have questions or concerns regarding this Statement, you should first contact us at [privacy@higherone.com](mailto:privacy@higherone.com). If you do not receive acknowledgement of your inquiry, or the inquiry is not addressed to your satisfaction, contact [TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this Statement, you should first contact us at [privacy@higherone.com](mailto:privacy@higherone.com). If you do not receive acknowledgement of your inquiry, or the inquiry is not addressed to your satisfaction, contact [TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns. The TRUSTe program covers only information collected through this Web site. 
 
 **Information Collection and Use**  
 When you visit the Site as a user, you can browse anonymously. When you visit the Site to activate your debit card, we require certain personal information from you. Specifically, we request your card number and require you to establish a username and passcode. We also collect your banking information including account number and routing number, which is stored as a part of your user account record, which includes information such as your name, email and physical address, phone number, social security number, government issued ID, and date of birth. This collected information establishes your online account profile. Please note that we use this collected information to service your account needs as they arise. Higher One does not share your personal information with any third parties for their promotional purposes. We may also use your email depending on your selected preferences to send you promotional emails with news of our contests and new product offerings. 
 
-Higher One collects certain information from visitors and users of the Site including, but not limited to, Internet addresses. This web site navigational information is collected and retained to help diagnose technical problems, to analyze trends, to track users' movements and to administer the Site in order to constantly improve the quality of the Site and our service. Higher One may also track and analyze individual usage and volume statistical information from our visitors and customers. 
+Higher One collects certain information from visitors and users of the Site including, but not limited to, Internet addresses. This web site navigational information is collected and retained to help diagnose technical problems, to analyze trends, to track users' movements and to administer the Site in order to constantly improve the quality of the Site and our service. Higher One may also track and analyze individual usage and volume statistical information from our visitors and customers. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@higherone.com](mailto:privacy@higherone.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **Information Sharing and Disclosure**  
 Under certain circumstances, Higher One may disclose collected information to third parties or government agencies where necessary to comply with (i) a formal request or (ii) applicable law including, but not limited to, responding to a subpoena, a judicial proceeding, or a court order. We also reserve the right to disclose information to our service providers where necessary in allowing us to facilitate services to you on our behalf. 
 
-Higher One may disclose and transfer the information obtained from you through this Site or the service as part of a merger, acquisition or other sale of its assets or business. In such an event, the users shall be notified of any material changes to the information practices governing your information by email, or a prominent notice on the Site. 
+Higher One may disclose and transfer the information obtained from you through this Site or the service as part of a merger, acquisition or other sale of its assets or business. In such an event, the users shall be notified of any material changes to the information practices governing your information by email, or a prominent notice on the Site. If Higher One is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
-Higher One uses a third party agent to fulfill your transactional and payment processing banking needs made on the Site. This third party agent is a financial banking institution in compliance with all the legal requirements of operating in this capacity and is authorized to use your shared personal information specifically and exclusively for fulfilling banking transactions on our behalf. We also employ the services of a third party agent in hosting our FAQ section. 
+Higher One uses third party agents, such as financial banking institutions and financial services companies, to fulfill your transactional and payment processing banking needs made on the Site. These third party agents provide services for Higher One in compliance with all the legal requirements of operating in this capacity and are authorized to use your shared personal information specifically and exclusively for fulfilling banking transactions on our behalf. We also employ the services of a third party agent in hosting our FAQ section. 
 
 When a user elects to transfer money to another Higher One account holder, we request the third party’s name, email, mailing address and banking information such as account and routing number to fulfill the requested transaction. We do not use or share this third party personal information for any purposes beyond fulfilling your request. 
 
@@ -56,22 +56,18 @@ The Site contains links to other websites. Higher One is not responsible for the
 **Third Party Partnership Disclosure**  
 When you open an account with Higher One, you are automatically enrolled in a rewards program. This program is hosted by a third party service provider (Edhance) with whom we share your personal information to facilitate this service and is only open to current students. The information shared is Higher One UserID, Name, Birth Year, Gender (if available), Role at University (if available), Enrollment Status (if available), Primary Email Address, School Affiliation, Card Number, Card Status, and Last Activity Date. Our third party agent is authorized to access this information for the explicit purpose of fulfilling a service on our behalf; consequently your personal information is not used for any promotional purposes. You will receive administrative communications via email from the third party service provider to confirm your enrollment in the program, confirm earnings, and for verification purposes. You can opt-out of such OneRewards emails by navigating through the following steps: (a) logging-in to your Account website, (b) clicking on the OneRewards menu option, (c) clicking on "Enter OneRewards.com", (d) clicking on the "My Account" menu option, and (e) selecting the Preferences tab. You can opt out of the rewards program by either (a) logging-in to your program website at [www.higheronecard.com](http://www.higheronecard.com/), clicking on Higher One's internet-based customer service system "EasyHelp" and then opening an "incident" requesting removal from the Program or (b) by calling a Higher One customer service representative at 1-866-309-7452. 
 
+**Targeted Ads Disclosure**  
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving your targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+
 **Security and Data Storage**  
 Our Site has security measures in place to help protect against the loss, misuse, and alteration of the personal information and data under our control. Higher One hosts the Site in a secure server environment that uses a firewall and other industry-standard technology to help prevent interference or access from outside intruders including the use of Secure Socket Layer technology during the transmission of sensitive information. Higher One also requires that unique user names and passwords must be entered each time a user logs on to the Site. 
 
 **Changes to this Statement**  
-Higher One may update this Statement at any time so please review it frequently. If we make any material changes, we will notify you, by email or by a notice posted on the home page of the Site. 
+Higher One may update this Statement at any time so please review it frequently. If we make any material changes, we will notify you, by email or by a notice posted on the home page of the Site prior to such changes becoming effective. . 
 
 **Questions**  
-If you have any questions about this Statement or the practices of this Site, please contact us using the address below. 
-
-**Customer Service Mailing Address:**   
-Higher One, Inc.  
-25 Science Park  
-#201  
-New Haven, CT 06511  
-
+If you have any questions about this Statement or the practices of this Site, please contact us using one of the methods listed below. 
 
 Your trust in Higher One is essential to us and that is why it is critical that Higher One goes above and beyond what is required of us to assure you and your family that we’re concerned and proactive with your online security. If you have problems or concerns, you can contact Customer Service at anytime (24 hours a day). Log on to your program website, and click on the link for "EasyHelp", where you can find answers to frequently asked questions, or even submit a question or concern. 
 
-Privacy Policy last updated: 9/30/2009 
+Privacy Policy last updated: 8/11/2011 
