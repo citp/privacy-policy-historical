@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbinternet.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614211231id_/http%3A//www.itbinternet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbinternet.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214012105id_/http%3A//www.itbinternet.com/privacy) for the most accurate reproduction.*
 
 # IT Backbones - Commerce, Featuring News, Press Releases, IT Directory & Links
 
