@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206103452id_/http%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/main.data/filename/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214101526id_/http%3A//www.cotswoldoutdoor.com/index.cfm/fuseaction/main.data/filename/privacy_policy.html) for the most accurate reproduction.*
 
-# | Cotswold Outdoor
+# 
 
 This privacy policy covers the Cotswold Outdoor Ltd Group and its Web sites. 
 
