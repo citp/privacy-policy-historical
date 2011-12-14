@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatapower.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521221453id_/http%3A//www.tatapower.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatapower.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214172942id_/http%3A//www.tatapower.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Tata Power :: Privacy Policy
 
