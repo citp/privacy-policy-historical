@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-allergies.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523063655id_/http%3A//www.all-allergies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-allergies.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214212227id_/http%3A//www.all-allergies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : All Allergies
 
@@ -66,3 +66,5 @@ All Allergies reserves the right, at any time and without notice, to add to, upd
 If you do not accept the terms of this Policy, we ask that you do not visit or register with All Allergies.
 
 Please [Contact Us](http://www.all-allergies.com/about-us/contact-us/) if you have any further questions.
+
+[Content Created/Medically Reviewed by our Expert Doctors](http://www.all-allergies.com/experts/)
