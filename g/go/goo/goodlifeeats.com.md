@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goodlifeeats.com privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223115134id_/http%3A//www.goodlifeeats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifeeats.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214095536id_/http%3A//www.goodlifeeats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Good Life Eats
 
-## Privacy Policy
+## [Privacy Policy](http://www.goodlifeeats.com/privacy-policy "Privacy Policy")
 
 ### Your Privacy
 
