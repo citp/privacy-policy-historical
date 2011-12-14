@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the viagra.com privacy policy that was archived on 2011-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616050909id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viagra.com privacy policy that was archived on 2011-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214010823id_/http%3A//www.pfizer.com/general/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -15,6 +15,8 @@
 
 
 <link rel="stylesheet" type="text/css" href="/include/css/style.css">
+<link rel="stylesheet" type="text/css" href="/include/css/country.css">
+<!--link rel="stylesheet" type="text/css" href="/include/css/ui.css"-->
 <link rel="stylesheet" type="text/css" href="/include/css/ui.all.css">
 <link rel="stylesheet" type="text/css" href="/include/css/jquery.autocomplete.css">
 <link rel="stylesheet" type="text/css" href="/include/css/rss_styles.css">
@@ -190,7 +192,7 @@
 var axel = Math.random()+"";
 var a = axel * 10000000000000;
 document.write('<IFRAME SRC="http://fls.doubleclick.net/activityi;src=1318171;type=corp3;cat=pageview;ord='+ a + '?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0 style="display:none"></IFRAME>');
-</script><iframe src="http://fls.doubleclick.net/activityi;src=1318171;type=corp3;cat=pageview;ord=2774526064723.215?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</script><iframe src="http://fls.doubleclick.net/activityi;src=1318171;type=corp3;cat=pageview;ord=2862598340842.186?" width="1" height="1" frameborder="0" style="display:none"></iframe>
 <noscript>
 <IFRAME SRC="http://fls.doubleclick.net/activityi;src=1318171;type=corp3;cat=pageview;ord=1?" WIDTH=1 HEIGHT=1 FRAMEBORDER=0 style="display:none"></IFRAME>
 </noscript>
@@ -219,40 +221,118 @@ var currYear = 2011
 
 <div id="bkgcontainer">
 <div id="maincontainer">
-
 <div id="searchnav">
-
 <a href="http://www.pfizerpro.com" id="head-health">Health Care Professionals</a>
-<a href="/careers/" id="head-careers">Careers</a>
+<a href="http://www.pfizercareers.com" id="head-careers">Careers</a>
 <a href="/contact/" id="head-contact">Contact Us</a>
-
 <script type="text/javascript" language="javascript">
-function GoogleSearch()
-{
-	var searchString = document.getElementById('cse-search-box').qtemp.value;
-	//searchString = searchString.replace('&','%26');
-	
-	if (searchString == "") {
-		return false;
-	} else {
-		var replaceq = searchString.split(' ').join('+');
-		document.getElementById('cse-search-box').q.value = replaceq;
+	function GoogleSearch()
+	{
+		var searchString = document.getElementById('cse-search-box').qtemp.value;
+		//searchString = searchString.replace('&','%26');
+		
+		if (searchString == "") 
+		{
+			return false;
+		} 
+		else 
+		{
+			var replaceq = searchString.split(' ').join('+');
+			document.getElementById('cse-search-box').q.value = replaceq;
+		}
 	}
-}
+	
+	function OneLink(sHostname)
+	{
+		document.location.href = document.location.protocol + "//" + sHostname + document.location.pathname + document.location.search;
+	}
 </script>
-
 <form action="/general/search_results.jsp" id="cse-search-box" onsubmit="return GoogleSearch();"> 
-<div id="site-search">
-<input type="hidden" name="cx" value="013769243196555347095:l8x3wfkll-i">
-<input type="hidden" name="cof" value="FORID:9">
-<input type="hidden" name="ie" value="UTF-8">
-<input type="hidden" name="q" class="searchinput" size="15">
-<input type="text" name="qtemp" class="searchinput" size="15" onfocus="javascript:this.value='';" onblur="javascript:if (this.value=='') this.value='Search Pfizer.com';" value="Search Pfizer.com">
-</div> <!-- Close id="site-search" --> 
-<input type="image" src="/img/btn_search.jpg" name="sa" value="Search" onclick="return GoogleSearch();" id="submit-search">
+    <div id="site-search">
+    <input type="hidden" name="cx" value="012390703595722449228:rtvx5nj8aua">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="hidden" name="q" class="searchinput" size="15">
+    <input type="text" name="qtemp" class="searchinput" size="15" onfocus="javascript:this.value='';" onblur="javascript:if (this.value=='') this.value='Search Pfizer.com';" value="Search Pfizer.com">
+    </div> <!-- Close id="site-search" --> 
+    <input type="image" src="/img/btn_search.jpg" name="sa" value="Search" onclick="return GoogleSearch();" id="submit-search">
 </form>
 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-</div><!-- Close id="searchnav" --> 
+<div id="head-country">
+<a href="#" id="contentlink3" rel="country_finder"><span id="country_finder_btn" class="off" onclick="togglePFinder('country_finder_btn');">Country Finder</span></a>
+</div>
+</div><!-- Close id="searchnav" -->
+<!-- <div id="prod_finder"> -->
+<div id="country_finder">
+	<!-- <div class="country_finder_content"> -->
+	
+	<ul class="arrowlist">
+		<li><a href="javascript:OneLink('espanol.pfizer.com');">Pfizer.com Español</a></li>
+		<li><a href="javascript:OneLink('www.pfizer.com');">Pfizer.com English</a></li>
+	</ul>
+	<img src="/img/1x1.gif">
+	<div id="country-listing">
+		<ul>
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.ar&amp;display=Argentina">Argentina</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizer.fi&amp;display=Finland">Finland</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizer.co.jp&amp;display=Japan">Japan</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.sn&amp;display=Senegal">Senegal</a></li>
+            
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.pfizer-pappl-sg.com&amp;display=Asia%20Pacific">Asia Pacific</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizer.fr&amp;display=France">France</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizerkorea.co.kr&amp;display=Korea">Korea</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.sk&amp;display=Slovakia">Slovakia</a></li>
+            
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.au&amp;display=Australia">Australia</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizer.de&amp;display=Germany">Germany</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.my&amp;display=Malaysia/Singapore">Malaysia/Singapore</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.co.za&amp;display=South Africa">South Africa</a></li>
+            
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.pfizer.at&amp;display=Austria">Austria</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizer.gr&amp;display=Greece">Greece</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.mx&amp;display=Mexico">Mexico</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.es&amp;display=Spain">Spain</a></li>
+            
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.pfizer.be&amp;display=Belgium">Belgium</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.hk&amp;display=Hong%20Kong">Hong Kong</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizer.nl&amp;display=Netherlands">Netherlands</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.se&amp;display=Sweden">Sweden</a></li>
+            
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.Pfizer.com.br&amp;display=Brazil">Brazil</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizer.hu&amp;display=Hungary">Hungary</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizer.co.nz&amp;display=New%20Zealand">New Zealand</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.ch&amp;display=Switzerland">Switzerland</a></li>
+            
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.pfizer.ca&amp;display=Canada">Canada</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizerindia.com&amp;display=India">India</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizer.no&amp;display=Norway">Norway</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.tw&amp;display=Taiwan">Taiwan</a></li>
+            
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.cn&amp;display=China">China</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizerpeduli.com&amp;display=Indonesia">Indonesia</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.pk&amp;display=Pakistan">Pakistan</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.co.th&amp;display=Thailand">Thailand</a></li>
+            
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.co&amp;display=Colombia">Colombia</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizer.ie&amp;display=Ireland">Ireland</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.ph&amp;display=Philippines">Philippines</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.tr&amp;display=Turkey">Turkey</a></li>
+            
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.pfizer.cz&amp;display=Czech%20Republic">Czech Republic</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizer.co.il&amp;display=Israel">Israel</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.pl&amp;display=Poland">Poland</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.co.uk&amp;display=United%20Kingdom">United Kingdom</a></li>
+            
+            <li class="col-one"><a href="/general/jump_country.jsp?url=http://www.pfizer.dk&amp;display=Denmark">Denmark</a></li>
+            <li class="col-two"><a href="/general/jump_country.jsp?url=http://www.pfizer.it&amp;display=Italy">Italy</a></li>
+            <li class="col-three"><a href="/general/jump_country.jsp?url=http://www.pfizer.pt&amp;display=Portugal">Portugal</a></li>
+            <li class="col-four"><a href="/general/jump_country.jsp?url=http://www.pfizer.com.ve&amp;display=Venezuela">Venezuela</a></li>
+		</ul>
+	</div>
+</div>
+<script type="text/javascript">
+dropdowncontent.init("contentlink3", "left-bottom", 300, "click")
+</script>
  <div id="main-nav"> 
 
 <ul>
@@ -283,9 +363,9 @@ function GoogleSearch()
 <li><a href="/health/" title="Health &amp; Wellness" id="menu-health">Health &amp; Wellness</a>
 <ul class="health-drop">
 <li><a href="/health/medicine_safety/medicine_safety.jsp">Medicine Safety</a></li>
-<li><a href="/health/patient_resources/">Patient Resources</a></li>
 <li><a href="/health/financial_assistance_programs/patient_assistance_programs.jsp">Patient Assistance Programs</a></li>
 <li><a href="/health/senior_health/">Senior Health</a></li>
+<li><a href="/health/cmo/">Chief Medical Officer</a></li>
 </ul>
 </li>
 
@@ -301,16 +381,16 @@ function GoogleSearch()
 
 <li><a href="/products/" title="Pfizer Products" id="menu-products">Pfizer Pharmaceutical Products</a>
 <ul class="products-drop">
-<li><a href="/products/rx/prescription.jsp">Product Finder</a></li>
-<li><a href="/products/animal_health/animal_health.jsp">Animal Health</a></li>
 <li><a href="/products/counterfeit_and_importation/counterfeit_importation.jsp">Counterfeit &amp; Importation</a></li>
-<li><a href="/products/hcp/healthcare.jsp">Health Care Professionals</a></li>
+<li><a href="/products/hcp/healthcare.jsp">Authorized Distributors</a></li>
+<li><a href="/products/msds/material_safety_data_sheets.jsp">Material Safety Data Sheets</a></li>
+<li><a href="/products/animal_health/animal_health.jsp">Animal Health</a></li>
 </ul>
 </li>
 
 <li><a href="/investors/" title="Pfizer Investors" id="menu-investors">Investors</a>
 <ul class="investors-drop">
-<li><a href="/investors/shareholder_services/king_transaction.jsp">Information for King Shareholders</a></li>
+<li><a href="/investors/shareholder_services/icagen_transaction.jsp">Information for Icagen Shareholders</a></li>
 <li><a href="/investors/shareholder_services/shareholder_services.jsp">Shareholder Services</a></li>
 <li><a href="/investors/financial_reports/financial_reports.jsp">Financial Reports</a></li>
 <li><a href="/investors/sec_filings/sec_filings.jsp">SEC Filings</a></li>
@@ -326,7 +406,6 @@ function GoogleSearch()
 	<li><a href="/news/video_gallery.jsp">Video Gallery</a></li>
     <li><a href="/news/info_for_journalists/information_journalists.jsp">Frequently Requested Info</a></li>
 	<li><a href="/news/press_kits/press_kits.jsp">Press Kits</a></li>
-    <li><a href="http://pfizer.mediaseed.tv/">Download Multimedia</a></li>
 	<li><a href="/news/social_media/social_media.jsp">Social Media</a></li>	
 	<li><a href="/news/contact/contact_pfizer.jsp">Contact Pfizer Media Relations</a></li>
 	</ul>
@@ -576,29 +655,21 @@ document.write('<span id="share"><a href="javascript:void(0);">Share</a></span>'
 
 
 <!-- START FOOTER INCLUDE -->
-
 <div id="new-footer">
-
-<img src="/img/pfizer_logo_footer.jpg" alt="Pfizer, the World’s Largest Pharmaceutical Company" width="51" height="31" id="footer-logo">
-
-<ul>
-<li class="col-one"><a href="/contact/">Contact Us</a></li>
-<li class="col-two"><a href="/investors/">Investors</a></li>
-<li class="col-three"><a href="/general/sitemap.jsp">Sitemap</a></li>
-<li class="col-one"><a href="/careers/">Careers</a></li>
-<li class="col-two"><a href="/b2b/index.jsp">Business to Business</a></li>
-<li class="col-three"><a href="/general/terms.jsp">Terms of Use</a></li>
-<li class="col-one"><a href="/general/global_sites.jsp">Global Network</a></li>
-<li class="col-two"><a href="http://www.pfizerpro.com">Health Care Professionals</a></li>
-<li class="col-three"><a href="/general/privacy.jsp">Privacy Policy</a></li>
-</ul>
-
-
-
-<p class="copyright">Copyright © 2002–2011 Pfizer Inc. All rights reserved. This information is intended only for residents of the United States. The product information provided in this site is intended only for residents of the United States. The products discussed herein may have different product labeling in different countries. Pfizer Inc is a pharmaceutical company committed to helping people improve their health by discovering and developing medicines.</p>
-
-
-
+	<img src="/img/pfizer_logo_footer.jpg" alt="Pfizer, the World’s Largest Pharmaceutical Company" width="51" height="31" id="footer-logo">
+	<ul>
+        <li class="col-one"><a href="/contact/">Contact Us</a></li>
+        <li class="col-two"><a href="/investors/">Investors</a></li>
+        <li class="col-three"><a href="/general/sitemap.jsp">Sitemap</a></li>
+        <li class="col-one"><a href="http://www.pfizercareers.com">Careers</a></li>
+        <li class="col-two"><a href="/b2b/index.jsp">Business to Business</a></li>
+        <li class="col-three"><a href="/general/terms.jsp">Terms of Use</a></li>
+        <li class="col-one"><a href="/general/global_sites.jsp">Global Network</a></li>
+        <li class="col-two"><a href="http://www.pfizerpro.com">Health Care Professionals</a></li>
+        <li class="col-three"><a href="/general/privacy.jsp">Privacy Policy</a></li>
+    </ul>
+    <p class="copyright">Copyright © 2002–2011 Pfizer Inc. All rights reserved. This information is intended only for residents of the United States. The product information provided in this site is intended only for residents of the United States. The products discussed herein may have different product labeling in different countries. Pfizer Inc is a pharmaceutical company committed to helping people improve their health by discovering and developing medicines.</p>
+</div>
 <!-- END FOOTER INCLUDE -->
 
 
@@ -620,4 +691,4 @@ document.write('<span id="share"><a href="javascript:void(0);">Share</a></span>'
 <!-- end omniture -->
 
 
-</div></body></html>
+</body></html>
