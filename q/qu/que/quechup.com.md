@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quechup.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418204151id_/http%3A//www.quechup.com/help/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quechup.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193612id_/http%3A//www.quechup.com/help/terms/privacy) for the most accurate reproduction.*
 
 # Quechup Privacy Policy
 
 #### Quechup Privacy Policy
 
-This site is owned and operated by iDate Ltd. Your privacy on the Internet is of the utmost importance to us. At iDate, we want to make your experience online satisfying and safe. 
+This site is owned and operated by Quechup Ltd. Your privacy on the Internet is of the utmost importance to us. At Quechup, we want to make your experience online satisfying and safe. 
 
 Because we gather certain types of information about our users, we feel you should fully understand how we gather and use of that information. 
 
@@ -76,7 +76,7 @@ There may be a number of services offered by external service providers that hel
 
 ####  Other Corporate Entities. 
 
-We share much of our data, including personally identifiable information about you, with our parent and/or subsidiaries that are committed to serving your online needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other members. Our parent and/or subsidiaries will follow privacy practices no less protective of all members than our practices described in this document, to the extent allowed by applicable law. It is possible that iDate and/or its subsidiaries, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that Quechup would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent it occurs) and we will require that the new combined entity follow the practices disclosed in this Privacy Policy. 
+We share much of our data, including personally identifiable information about you, with our parent and/or subsidiaries that are committed to serving your online needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other members. Our parent and/or subsidiaries will follow privacy practices no less protective of all members than our practices described in this document, to the extent allowed by applicable law. It is possible that Quechup and/or its subsidiaries, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that Quechup would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent it occurs) and we will require that the new combined entity follow the practices disclosed in this Privacy Policy. 
 
 #### Legal Requests. 
 
@@ -123,7 +123,7 @@ This website contains links to other sites. Please be aware that we, Quechup, ar
 
 All voluntary information collected on Quechup is stored on a different, non-public access, area of our servers to the website and employs secure data networks protected by industry standard firewalls, Secure Socket Layers and password protection systems. Quechup treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by members inside and outside the company. However, "perfect security" does not exist on the Internet. If users have questions or concerns regarding this statement, they should first contact Quechup by sending an e-mail to [privacy@quechup.com](mailto:privacy@quechup.com?subject=Quechup%0A%20Privacy) or to: 
 
-iDate Ltd, 24-32 London Rd, Newbury, RG14 1JX, United Kingdom. 
+Quechup Ltd, Suite 162-168 Regent St, London, W1B 5TD, United Kingdom. 
 
 #### Notification of Changes
 
