@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615153227id_/http%3A//illinoishomepage.net/about-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214134413id_/http%3A//illinoishomepage.net/about-privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
