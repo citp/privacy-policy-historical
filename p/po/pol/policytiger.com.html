@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the policytiger.com privacy policy that was archived on 2011-03-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110304020421id_/http%3A//policytiger.com/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the policytiger.com privacy policy that was archived on 2011-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214081223id_/http%3A//policytiger.com/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -23,11 +23,38 @@
 			xmlhttp.send();
 			window.open("http://www.icicilombard.com/app/ilom-en/PersonalProducts/Motor/Four_wheeler.aspx?utm_source=indiatimes&utm_medium=cpc_finance&utm_campaign=225");				
 		}
+		else if(forwardTo == 'metlife')
+		{
+			xmlhttp.open("POST","qsscontroller.do?action=trackAdClick&adName=metlife",true);
+			xmlhttp.send();
+			window.open("http://124.247.226.76/Met/MetLifeBannerIndex.aspx");				
+		}
 		else
 		{
 			xmlhttp.open("POST","qsscontroller.do?action=trackAdClick&adName=metlife",true);
 			xmlhttp.send();
 			window.open("http://www.metlifeonline.co.in/wps/portal/metprotect/buyonline");				
+		}
+	}
+	var searchStr = 'Search...';
+	function resetSearch(obj)
+	{
+		if(obj.value == searchStr)
+		{
+			obj.value = "";
+			obj.style.color = "#000";
+		}
+		else
+		{
+			obj.select();
+		} 
+	}
+	function setSearch(obj)
+	{
+		if(obj.value == '')
+		{
+			obj.value = searchStr;
+			obj.style.color = "#888";
 		}
 	}
 	</script>
@@ -56,14 +83,14 @@ pageTracker._trackPageview();
 </head>
 
 <body class="soria">
-
+<div style="visibility: hidden; display: none">30460</div>
 <table border="0" align="center">
 	<tbody><tr>
 		<td><!-- start of page -->
 		<div id="wrapper"><!-- start of header -->
 			<div id="header">
 				<div id="logo">
-					<a href="/index.jsp"><img src="/images/transparent_logo.png" alt="Policy Tiger" style="margin-top: 10px;"></a>Beta
+					<a href="/index.jsp"><img src="/images/transparent_logo.png" alt="Policy Tiger" style="margin-top: 10px;"></a>
 				</div>
 				<div id="top_menu">
 					
@@ -75,7 +102,18 @@ pageTracker._trackPageview();
 						<li><a href="/lifeinsurance.jsp" class="a1">Life Insurance</a> | </li>
 						<li><a href="/carinsurance.jsp">Car Insurance</a></li>
 					</ul>
-                      <iframe src="http://www.facebook.com/plugins/like.php?href=www.policytiger.com&amp;layout=button_count&amp;show_faces=true&amp;width=50&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>					
+					<table border="0" style="float: right">
+					<tbody><tr>
+					<td>
+                    <form action="search.jsp" method="post">
+					<input type="text" name="searchParam" value="Search..." style="color: #888; width: 140px;" onfocus="resetSearch(this);" onblur="setSearch(this);">
+					</form>
+					</td>
+					<td>
+                    <iframe src="http://www.facebook.com/plugins/like.php?href=www.policytiger.com&amp;layout=button_count&amp;show_faces=true&amp;width=50&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
+					</td>
+					</tr>
+					</tbody></table>
 					
 				</div>
 				<div style="clear: both; height: 0px;">&nbsp;</div>
@@ -88,7 +126,7 @@ pageTracker._trackPageview();
 				<h1>Request a call back!!</h1>
 				</div>
 				
-				<div id="request_content"><label id="displayCallback" class="callback" style="display: none;"></label> <label id="displayErrorCallback" class="red_color_callback" for="phone_number" style="display: none;"></label> <input type="text" name="phone_number" id="phone_number" value="+91" maxlength="13" style="height: 25px;"> <input type="image" src="/images/submit.jpg" alt="Submit&quot;" style="width: 76px; height: 29px;" onclick="submitCallback('null');">
+				<div id="request_content"><label id="displayCallback" class="callback" style="display: none;"></label> <label id="displayErrorCallback" class="red_color_callback" for="phone_number" style="display: none;"></label> <input type="text" name="phone_number" id="phone_number" value="+91" maxlength="13" style="height: 25px;"> <input type="image" name="i" src="/images/submit.jpg" alt="Submit" style="width: 76px; height: 29px;" onclick="submitCallback('null');">
 				</div>
 				</div>
 				
@@ -101,6 +139,16 @@ pageTracker._trackPageview();
 				
 				<img src="/images/call_us.jpg" alt="Call Us at"></div>
 				
+				<div class="left_panel_mn_box">
+					<div class="left_panel_mn_box_hdng">
+						<a href="http://compareinsurance.policytiger.com" target="_blank"><img src="/images/news.jpg" alt="News"></a>
+					</div>
+					<div class="left_panel_mn_box_cntnt">
+						<marquee id="newsScroller" scrollamount="1" direction="up" loop="true" height="86" style="visibility: visible;">
+						<a href="http://compareinsurance.policytiger.com/2011/10/lic-joins-online-term-plan-bandwagon.html" target="_blank" style="font-weight: bold; color: #26B9E7">LIC joins the Online Term plan...</a><br>Oct 17, 2011: Life Insurance...<br><a href="http://compareinsurance.policytiger.com/2011/09/sanlam-group-invests-in-shriram-capital.html" target="_blank" style="font-weight: bold; color: #26B9E7">Sanlam Group invests in Shriram...</a><br>Sep 12, 2011: Shriram Group has...<br><a href="http://compareinsurance.policytiger.com/2011/09/motor-insurance-india-registers-22.html" target="_blank" style="font-weight: bold; color: #26B9E7">Motor Insurance India registers 22%...</a><br>Sep 09, 2011: Motor Insurance...<br><a href="http://compareinsurance.policytiger.com/2011/09/irda-withdraws-controversial-45.html" target="_blank" style="font-weight: bold; color: #26B9E7">IRDA withdraws the controversial...</a><br>Sep 09, 2011: Life Insurance...<br><a href="http://compareinsurance.policytiger.com/2011/08/attrition-amongst-agents-in-insurance.html" target="_blank" style="font-weight: bold; color: #26B9E7">Attrition amongst agents in the...</a><br>Aug 30, 2011: The changed...<br><a href="http://compareinsurance.policytiger.com/2011/08/lic-comes-out-with-its-new-single.html" target="_blank" style="font-weight: bold; color: #26B9E7">LIC comes out with its new Single...</a><br>Aug 26, 2011: Not many companies...<br><a href="http://compareinsurance.policytiger.com/2011/08/india-first-targets-high-from-new.html" target="_blank" style="font-weight: bold; color: #26B9E7">India First targets high from new...</a><br>Aug 23, 2011: One insurance...<br><a href="http://compareinsurance.policytiger.com/2011/08/hike-in-premium-for-air-india.html" target="_blank" style="font-weight: bold; color: #26B9E7">Hike in premium for Air India....</a><br>Aug 23, 2011: The woes for Air...<br><a href="http://compareinsurance.policytiger.com/2011/08/m-ramadoss-faces-suspension.html" target="_blank" style="font-weight: bold; color: #26B9E7">M Ramadoss faces suspension...</a><br>Aug 19, 2011: Government has...<br><a href="http://compareinsurance.policytiger.com/2011/08/syndicate-bank-plans-tie-up-with-aviva.html" target="_blank" style="font-weight: bold; color: #26B9E7">Syndicate Bank plans a tie-up with...</a><br>Aug 19, 2011: Not too long ago,...<br><a href="http://compareinsurance.policytiger.com/2011/08/future-generalli-indias-new-ad-mantra.html" target="_blank" style="font-weight: bold; color: #26B9E7">Future Generalli India?s new Ad...</a><br>Aug 12, 2011: For those who do not...<br><a href="http://compareinsurance.policytiger.com/2011/08/while-financial-markets-cry-lic-india.html" target="_blank" style="font-weight: bold; color: #26B9E7">While the Financial Markets cry,...</a><br>Aug 10, 2011: While the stock...<br><a href="http://compareinsurance.policytiger.com/2011/07/metlife-india-sells-30-stake-to-pnb.html" target="_blank" style="font-weight: bold; color: #26B9E7">Metlife India sells 30% stake to...</a><br>Jul 29, 2011: Very soon Metlife...<br><a href="http://compareinsurance.policytiger.com/2011/07/irda-penalizes-new-india-assurance.html" target="_blank" style="font-weight: bold; color: #26B9E7">IRDA Penalizes New India Assurance...</a><br>Jul 28, 2011: Insurance Regulatory...<br><a href="http://compareinsurance.policytiger.com/2011/07/ambani-brothers-may-meet-head-on-in.html" target="_blank" style="font-weight: bold; color: #26B9E7">Ambani brothers may meet head on in...</a><br>Jul 27, 2011: The strife between...<br><a href="http://compareinsurance.policytiger.com/2011/07/irda-plans-to-change-lock-in-period-for.html" target="_blank" style="font-weight: bold; color: #26B9E7">IRDA plans to change lock in period...</a><br>Jul 26, 2011: Effectively managing...<br><a href="http://compareinsurance.policytiger.com/2011/07/this-weeks-top-investment-news-in.html" target="_blank" style="font-weight: bold; color: #26B9E7">This week?s top Investment News in...</a><br>Jul 22, 2011: Some of the top...<br><a href="http://compareinsurance.policytiger.com/2011/07/sbi-launches-flexi-smart-insurance.html" target="_blank" style="font-weight: bold; color: #26B9E7">SBI launches Flexi Smart Insurance...</a><br>Jul 12, 2011: SBI Life, the joint...<br><a href="http://compareinsurance.policytiger.com/2011/07/sbi-life-faces-regulators-ire.html" target="_blank" style="font-weight: bold; color: #26B9E7">SBI Life Faces Regulator's Ire...</a><br>Jul 09, 2011: IRDA, the insurance...<br><a href="http://compareinsurance.policytiger.com/2011/07/hdfc-life-insurance.html" target="_blank" style="font-weight: bold; color: #26B9E7">HDFC Life Insurance...</a><br>Jul 09, 2011: HDFC Life has stated...<br><a href="http://compareinsurance.policytiger.com/2011/07/pnb-which-is-in-final-stages-of.html" target="_blank" style="font-weight: bold; color: #26B9E7">Delay in Life Insurance Partner...</a><br>Jul 08, 2011: PNB, which is in the...<br><a href="http://compareinsurance.policytiger.com/2011/07/irda-guidelines-for-life-insurance.html" target="_blank" style="font-weight: bold; color: #26B9E7">IRDA guidelines for Life Insurance...</a><br>Jul 08, 2011: It is learnt that...<br><a href="http://compareinsurance.policytiger.com/2011/07/irdas-guidelines-on-ipo-of-life.html" target="_blank" style="font-weight: bold; color: #26B9E7">IRDA's guidelines on IPO of Life...</a><br>Jul 04, 2011: The Insurance...<br><a href="http://compareinsurance.policytiger.com/2011/06/quoted-in-financial-express.html" target="_blank" style="font-weight: bold; color: #26B9E7">Quoted in Financial Express...</a><br>Jun 23, 2011: http://www.financial...<br><a href="http://compareinsurance.policytiger.com/2011/06/few-disturbing-facts.html" target="_blank" style="font-weight: bold; color: #26B9E7">A few disturbing facts...</a><br>Jun 06, 2011: A few disturbing...<br>
+						</marquee>
+					</div>
+				</div>
 				<div class="left_panel_mn_box">
 					<div class="left_panel_mn_box_hdng">
 						<img src="/images/customer_speak.jpg" alt="Customer Speak">
@@ -154,7 +202,7 @@ pageTracker._trackPageview();
 		<div id="aboutusPanel">
 			<p>
 				<strong>PolicyTiger.com respects your</strong> privacy. By accessing this site, certain information about you, such as Internet protocol (IP) addresses, navigation through the site, the systems and programs used and the time spent, along with other similar information, may be stored on our servers. <br><br>
-				Please be informed that the same may be used by us for web site traffic analysis or for such other purposes as we may deem appropriate.<br><br>
+				By availing of our services to generate a quote, you agree to being contacted by insurance companies over the phone with the relevant product(s) even though you might have subscribed to NDNC registry.<br><br>Please be informed that the same may be used by us for web site traffic analysis or for such other purposes as we may deem appropriate.<br><br>
 				Unique  identifying information, such as name, address and other information to us, such information may be used for statistical and/or other purposes.<br><br>
 				Any personally identifiable information you submit while using PolicyTiger.com  will only be disclosed to  companies who are linked to the services that you are interested in.<br><br>
 				We want you to feel confident about using PolicyTiger .com and we  are committed to protecting the information we collect. While no Web site can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies.<br><br>
@@ -175,20 +223,16 @@ pageTracker._trackPageview();
 			<div style="clear:both"></div>
 		</div>
 			
-				<div id="hot_topics">
+			
+
+<div id="hot_topics">
 <div id="hot_topics_heading"><h1>Policy<span class="color_red">Tiger</span>.com - Hot Topics</h1></div>
 <div id="hot_topics_bottom">
-
-<div class="hot_content_heading"><span class="content_title">Blogs</span></div>
 <div class="hot_content">
 	<!-- news -->
 	<div id="newsArticlesPanel" class="hot_content_text">
 	<ul>
-		<li><a href="http://compareinsurance.policytiger.com/2010/12/claim-settlement-record-of-indian.html">Claim settlement record of Indian Insurance Companies</a></li>
-		<li><a href="http://compareinsurance.policytiger.com/2010/12/tax-savings-through-insurance-plans.html">Tax Savings through Insurance Plans</a></li>
-		<li><a href="http://compareinsurance.policytiger.com/2010/12/growth-of-medical-tourism-in-india.html">Growth of medical tourism in India</a></li>
-		<li><a href="http://compareinsurance.policytiger.com/2010/11/ways-to-resolve-your-grievances-against.html">Ways to resolve your grievances against insurance companies</a></li>
-		<li><a href="http://compareinsurance.policytiger.com/2010/11/inclusion-of-ayurveda-unani-siddha-in.html">Inclusion of Ayurveda, Unani &amp; Siddha in Health Insurance : A Possibility </a></li>
+	<li><a href="http://compareinsurance.policytiger.com/2011/10/lic-joins-online-term-plan-bandwagon.html" target="_blank" style="color: #26B9E7">LIC joins the Online Term plan bandwagon</a><br>Monday, Oct 17, 2011 10:17 AM<br><br>Life Insurance corporation of India (LIC) finally plans to release their first online term product. While this<a href="http://compareinsurance.policytiger.com/2011/10/lic-joins-online-term-plan-bandwagon.html" target="_blank" style="font-size: 10px; font-weight: normal; text-decoration: none">[...]</a></li><li><a href="http://compareinsurance.policytiger.com/2011/09/motor-insurance-india-registers-22.html" target="_blank" style="color: #26B9E7">Motor Insurance India registers 22% growth this quarter</a><br>Friday, Sep 09, 2011 07:14 PM<br><br>Motor Insurance India has had a shining last quarter as they registered a 22% growth in the topline with a<a href="http://compareinsurance.policytiger.com/2011/09/motor-insurance-india-registers-22.html" target="_blank" style="font-size: 10px; font-weight: normal; text-decoration: none">[...]</a></li><li><a href="http://compareinsurance.policytiger.com/2011/08/attrition-amongst-agents-in-insurance.html" target="_blank" style="color: #26B9E7">Attrition amongst agents in the insurance industry.</a><br>Tuesday, Aug 30, 2011 09:44 PM<br><br>The changed guidelines on ULIPs has resulted not only in the decrease in premium but also has led to a high<a href="http://compareinsurance.policytiger.com/2011/08/attrition-amongst-agents-in-insurance.html" target="_blank" style="font-size: 10px; font-weight: normal; text-decoration: none">[...]</a></li><li><a href="http://compareinsurance.policytiger.com/2011/08/india-first-targets-high-from-new.html" target="_blank" style="color: #26B9E7">India First targets high from new business</a><br>Tuesday, Aug 23, 2011 09:21 PM<br><br>One insurance company which has been making news these days is the India First Life Insurance. Apart from the<a href="http://compareinsurance.policytiger.com/2011/08/india-first-targets-high-from-new.html" target="_blank" style="font-size: 10px; font-weight: normal; text-decoration: none">[...]</a></li>
 	</ul>
 	</div>
 </div>
@@ -197,13 +241,9 @@ pageTracker._trackPageview();
 	<!-- health articles -->
 	<div id="healthArticlesPanel" class="hot_content_text">
 	<ul>
-		<li><a href="http://compareinsurance.policytiger.com/2010/10/mediclaim-portability-soon-reality.html">Mediclaim Portability: Soon a Reality</a></li>
-		<li><a href="http://compareinsurance.policytiger.com/2010/10/health-insurance-claims-to-get-time.html">Health Insurance Claims to get time-bound</a></li>
-		<li><a href="http://compareinsurance.policytiger.com/2010/10/insurance-premiums-stay-fit-and-pay.html">Insurance Premiums: Stay fit and pay less</a></li>
-		<li><a href="http://compareinsurance.policytiger.com/2010/10/how-to-save-on-insurance-premium.html">How to save on Insurance premium </a></li>
-		<li><a href="http://compareinsurance.policytiger.com/2010/10/family-floater-health-insurance-is-it.html">Family Floater Health Insurance : Is it the best choice always?</a></li>
+	<li><a href="http://compareinsurance.policytiger.com/2011/09/sanlam-group-invests-in-shriram-capital.html" target="_blank" style="color: #26B9E7">Sanlam Group invests in Shriram Capital</a><br>Monday, Sep 12, 2011 10:45 PM<br><br>Shriram Group has entered into a joint venture with Sanlam Group of South Africa. This deal involves a Rs 2000<a href="http://compareinsurance.policytiger.com/2011/09/sanlam-group-invests-in-shriram-capital.html" target="_blank" style="font-size: 10px; font-weight: normal; text-decoration: none">[...]</a></li><li><a href="http://compareinsurance.policytiger.com/2011/09/irda-withdraws-controversial-45.html" target="_blank" style="color: #26B9E7">IRDA withdraws the controversial 4.5% guaranteed return on pension products</a><br>Friday, Sep 09, 2011 07:09 PM<br><br>Life Insurance Companies in India can rejoice at the IRDA?s withdrawal from the controversial 4.5 per cent<a href="http://compareinsurance.policytiger.com/2011/09/irda-withdraws-controversial-45.html" target="_blank" style="font-size: 10px; font-weight: normal; text-decoration: none">[...]</a></li><li><a href="http://compareinsurance.policytiger.com/2011/08/lic-comes-out-with-its-new-single.html" target="_blank" style="color: #26B9E7">LIC comes out with its new Single Premium Product</a><br>Friday, Aug 26, 2011 12:11 AM<br><br>Not many companies remain so active during a pessimistic phase in the market as Life Insurance Corporation of<a href="http://compareinsurance.policytiger.com/2011/08/lic-comes-out-with-its-new-single.html" target="_blank" style="font-size: 10px; font-weight: normal; text-decoration: none">[...]</a></li><li><a href="http://compareinsurance.policytiger.com/2011/08/hike-in-premium-for-air-india.html" target="_blank" style="color: #26B9E7">Hike in premium for Air India.</a><br>Tuesday, Aug 23, 2011 09:18 PM<br><br>The woes for Air India don?t seem to wean off this year. After suffering a series of operational issues, the<a href="http://compareinsurance.policytiger.com/2011/08/hike-in-premium-for-air-india.html" target="_blank" style="font-size: 10px; font-weight: normal; text-decoration: none">[...]</a></li>
 	</ul>
-	<a href="http://compareinsurance.policytiger.com" style="float: right;">Learn More...</a>
+	<a href="/hot-topics.jsp" style="float: right;">Learn More...</a>
 	</div>
 	<!-- end of health articles -->
 </div>
@@ -218,106 +258,106 @@ pageTracker._trackPageview();
 		<marquee style="width: 960px;" loop="infinite" scrollamount="5">
 			<table border="0"><tbody><tr valign="middle">
 				<td>
-					<img src="/images/Bajaj_Allianz.gif">
+					<img src="/images/Bajaj_Allianz.gif" alt="Bajaj Allianz">
 				</td>
 				<td>
-					<img src="/images/Bharti_Axa_General.gif">
+					<img src="/images/Bharti_Axa_General.gif" alt="Bharti Axa General">
 				</td>
 				<td>
-					<img src="/images/Cholamandalam.gif">
+					<img src="/images/Cholamandalam.gif" alt="Cholamandalam">
 				</td>
 				<td>
-					<img src="/images/Future_Genrali.gif">
+					<img src="/images/Future_Genrali.gif" alt="Future Genrali">
 				</td>
 				<td>
-					<img src="/images/HDFC.gif">
+					<img src="/images/HDFC.gif" alt="HDFC">
 				</td>
 				<td>
-					<img src="/images/ICICI.gif">
+					<img src="/images/ICICI.gif" alt="ICICI">
 				</td>
 				<td>
-					<img src="/images/Iffco_Tokio.gif">
+					<img src="/images/Iffco_Tokio.gif" alt="Iffco Tokio">
 				</td>
 				<td>
-					<img src="/images/National_Insurance.gif">
+					<img src="/images/National_Insurance.gif" alt="National Insurance">
 				</td>
 				<td>
-					<img src="/images/New_India_Assurance.gif">
+					<img src="/images/New_India_Assurance.gif" alt="New India Assurance">
 				</td>
 				<td>
-					<img src="/images/Oriental.gif">
+					<img src="/images/Oriental.gif" alt="Oriental">
 				</td>
 				<td>
-					<img src="/images/Reliance.gif">
+					<img src="/images/Reliance.gif" alt="Reliance">
 				</td>
 				<td>
-					<img src="/images/Royal_Sundaram.gif">
+					<img src="/images/Royal_Sundaram.gif" alt="Royal Sundaram">
 				</td>
 				<td>
-					<img src="/images/shriram-logo.gif">
+					<img src="/images/shriram-logo.gif" alt="Shriram">
 				</td>
 				<td>
-					<img src="/images/Tata_aig.gif">
+					<img src="/images/Tata_aig.gif" alt="Tata aig">
 				</td>
 				<td>
-					<img src="/images/United_Insurance.gif">
+					<img src="/images/United_Insurance.gif" alt="United Insurance">
 				</td>
 				<td>
-					<img src="/images/star_health.gif">
+					<img src="/images/star_health.gif" alt="Star Health">
 				</td>
 				<td>
-					<img src="/images/apollo_dkv.gif">
+					<img src="/images/apollo_dkv.gif" alt="Apollo Dkv">
 				</td>
 				<td>
-					<img src="/images/birlasunlife.gif">
+					<img src="/images/birlasunlife.gif" alt="birlasunlife">
 				</td>
 				<td>
-					<img src="/images/hdfcStandard.gif">
+					<img src="/images/hdfcStandard.gif" alt="hdfcStandard">
 				</td>
 				<td>
-					<img src="/images/ICICI_Prudential.gif">
+					<img src="/images/ICICI_Prudential.gif" alt="ICICI_Prudential">
 				</td>
 				<td>
-					<img src="/images/ING.gif">
+					<img src="/images/ING.gif" alt="ING">
 				</td>
 				<td>
-					<img src="/images/LIC.gif">
+					<img src="/images/LIC.gif" alt="LIC">
 				</td>
 				<td>
-					<img src="/images/maxnewyork.gif">
+					<img src="/images/maxnewyork.gif" alt="Maxnewyork">
 				</td>
 				<td>
-					<img src="/images/metlife.gif">
+					<img src="/images/metlife.gif" alt="Metlife">
 				</td>
 				<td>
-					<img src="/images/kotak.gif">
+					<img src="/images/kotak.gif" alt="Kotak">
 				</td>
 				<td>
-					<img src="/images/SBI.gif">
+					<img src="/images/SBI.gif" alt="SBI">
 				</td>
 				<td>
-					<img src="/images/Tata_aig1.gif">
+					<img src="/images/Tata_aig1.gif" alt="Tata AIG">
 				</td>
 				<td>
-					<img src="/images/Reliance.gif">
+					<img src="/images/Reliance.gif" alt="Reliance">
 				</td>
 				<td>
-					<img src="/images/Aviva.gif">
+					<img src="/images/Aviva.gif" alt="Aviva">
 				</td>
 				<td>
-					<img src="/images/SaharaLife.gif">
+					<img src="/images/SaharaLife.gif" alt="SaharaLife">
 				</td>
 				<td>
-					<img src="/images/bharti-axa.gif">
+					<img src="/images/bharti-axa.gif" alt="Bharti Axa">
 				</td>
 				<td>
-					<img src="/images/IDBI.gif">
+					<img src="/images/IDBI.gif" alt="IDBI">
 				</td>
 				<td>
-					<img src="/images/Canara_HSBC.gif">
+					<img src="/images/Canara_HSBC.gif" alt="Canara HSBC">
 				</td>
 				<td>
-					<img src="/images/aegon_religare.gif">
+					<img src="/images/aegon_religare.gif" alt="Aegon Religare">
 			</td></tr></tbody></table>
 		</marquee></div>
 		</td>
@@ -330,7 +370,7 @@ pageTracker._trackPageview();
 			<div id="footer">
 				<div id="footer_content"><!-- left -->
 					<div id="footer_right">
-						Copyright 2010 Policytiger.com | All Rights Reserved Direct Care Solutions | Powered by 
+						Copyright 2010 Policytiger.com | All Rights Reserved Direct Care Solutions | Insurance is the subject matter of the solicitation | Powered by 
 						<a href="http://www.qsstechnologies.com" style="text-decoration: none; " target="_blank">QSS Technologies</a>
 						<br>
 					</div>
@@ -341,12 +381,17 @@ pageTracker._trackPageview();
 						<a href="/healthinsurance.jsp">Health Insurance</a> | 
 						<a href="/lifeinsurance.jsp">Life Insurance</a> | 
 						<a href="/carinsurance.jsp">Car Insurance</a> | 
-						<a href=" http://www.policytiger.com/articles/faq/healthinsurance-faq-page1.jsp">Health Insurance FAQ</a> |
-						<a href="http://www.policytiger.com/articles/healthinsurance/learnmorehealth.jsp">Health Insurance Article</a> | <a href="/faq.jsp">FAQ</a> <br>
+						<a href=" /articles/faq/healthinsurance-faq-page1.jsp">Health Insurance FAQ</a> |
+						<a href=" /articles/faq/lifeinsurance-faq-page1.jsp">Life Insurance FAQ</a> |
+						<a href="/life-insurance-player-in-india.jsp">Life Insurance Players in India</a> | <br>
+						<a href="/lifeinsurance-glossary.jsp">Glossary </a> | 
+						<a href=" /general-insurance-companies.jsp">General Insurance Companies</a> |
+						<a href="/articles/healthinsurance/learnmorehealth.jsp">Health Insurance Article</a> | <a href="/faq.jsp">FAQ</a>| 
+						<a href="/hot-topics.jsp">Hot Topics</a> | 
 						<a href="/process.jsp">Process</a> | 
 						<a href="/ourpromise.jsp">Our Promise</a> | 		
 						<a href="/careers.jsp">Careers</a> | 
-						<a href="/sitemap.jsp">Site Map</a> | 
+						<a href="/sitemap.jsp">Site Map</a> | <br>
 						<a href="/privacypolicy.jsp">Privacy Policy</a> | 
 						<a href="/disclaimer.jsp">Disclaimer</a> | 
 						<a href="/privacypolicy.jsp">Terms &amp; Conditions</a>
@@ -365,6 +410,9 @@ pageTracker._trackPageview();
           var elm = document.getElementById("scroller");
     	  if(elm)
         	  elm.style.visibility = "visible";
+          elm = document.getElementById("newsScroller");
+    	  if(elm)
+        	  elm.style.visibility = "visible";
       }
       window.onload=init;
     </script>
@@ -372,20 +420,6 @@ pageTracker._trackPageview();
 
 <script type="text/javascript">
 document.getElementById("left_panel").style.display = "";
-</script>
-<script type="text/javascript">
-<!--
-_sokClient = '87';
-//-->
-</script>
-<script type="text/javascript">
-var protocol = ("https:" == document.location.protocol) ? "https:" : "http:";
-var sokratiJS = protocol + '//tracking.sokrati.com/javascripts/tracker.js';
-document.write(unescape("%3Cscript src='" + sokratiJS + "' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://tracking.sokrati.com/javascripts/tracker.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {sokrati.beacon('search', '1');}
-catch(err) {}
 </script>
 
 
