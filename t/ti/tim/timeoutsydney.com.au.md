@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321015410id_/http%3A//www.timeoutsydney.com.au/Global/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutsydney.com.au privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214230018id_/http%3A//www.au.timeout.com/sydney/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Time Out Sydney
+# Privacy policy - Time Out Sydney
 
-TIME OUT SYDNEY WEBSITE PRIVACY STATEMENT  
-[www.timeout.com/sydney](http://www.timeout.com/sydney) and [www.timeoutsydney.com.au](http://www.timeout.com/sydney)
+TIME OUT WEBSITE PRIVACY STATEMENT  
+[www.au.timeout.com](http://www.au.timeout.com/)
 
-Print & Digital Publishing Pty Ltd (ABN 50 125 441 812) trading as Time Out Sydney and its related and associated bodies corporate (us, we, our) promise to serve our audience with integrity and honesty. We have developed this privacy policy concerning your (you, your) personal information (Privacy Statement) which demonstrates our firm commitment to privacy and to disclose our information-gathering and disclosure practices for www.timeout.com/sydney and www.timeoutsydney.com.au (together, the Site). By visiting the Site, you are accepting the practices described in this Privacy Statement.
+Print & Digital Publishing Pty Ltd (ABN 50 125 441 812) trading as Time Out and its related and associated bodies corporate (us, we, our) promise to serve our audience with integrity and honesty. We have developed this privacy policy concerning your (you, your) personal information (Privacy Statement) which demonstrates our firm commitment to privacy and to disclose our information-gathering and disclosure practices for au.timeout.com and [www.au.timeout.com](http://www.au.timeout.com/) (together, the Site). By visiting the Site, you are accepting the practices described in this Privacy Statement.
 
 This Privacy Statement has been developed in accordance with the Privacy Act 1988 (Cth) (Privacy Act). The Privacy Statement applies to the collection, storage, use and dissemination by us of your personal information. Access to this Site is conditional on your acceptance of the terms of this Privacy Statement.
 
@@ -18,13 +18,13 @@ The information you provide to us is collected to enhance your use of the Site, 
 We use cookies to track your use of our Site. This ensures that, for example, if you are a subscriber, you can roam freely within our subscriber-based Site without typing in a password to access each page. We do not track any of your activity as it relates to your individual movements throughout our Site, only as an aggregate of data in conjunction with users to our Site as a whole. Your movements are not tracked once you leave our Site. You should be able to configure your computer so that it disables "cookies" or does not accept them, however this may affect your ability to use all the functions contained on the Site.
 
 Our Site uses ad servers (such as DoubleClick) to serve the advertisements that you see on pages of our Site (Advertisers). The Advertisers may use cookies to help target ads to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Advertisers please contact us (see below).  
- **  
+**  
 3\. Use and disclosure of information**  
 We will not disclose information that personally identifies you to any third party other than as set out in this Privacy Statement.
 
 We may provide certain information about you including your personal information to our related bodies corporate, or to third parties, were necessary in the normal course of business, for example, to facilitate prize fulfilment.
 
-If you enter any competitions, we may share your details that you enter with the sponsor/prize provider for that competition. See our **[Standard terms and conditions of entry](http://www.timeoutsydney.com.au/competitions/standard-terms-and-conditions.aspx)**.
+If you enter any competitions, we may share your details that you enter with the sponsor/prize provider for that competition. See our **Standard terms and conditions of entry**. We always name the winner as initial and surname but no other identifier.
 
 **4\. Access to your personal information**  
 If you wish to access your personal information held by us, you may contact us (see below) to see what personal information we hold and if it is up to date. This will be subject to any exemptions allowed under the Privacy Act.
@@ -47,6 +47,4 @@ We will use all reasonable endeavours to keep your personal information in a sec
 We may at any time vary the terms of this Privacy Statement. You should check this Privacy Statement regularly so that you are aware of any variations made to this Privacy Statement. You will be deemed to have consented to such variations by your continued use of the Site following such changes being made.
 
 **10\. Contacting us**  
-If you wish to access your personal information, have a complaint as you believe your privacy has been breached or wish to update your details, please contact our Privacy Officer at [privacy@timeoutsydney.com.au](mailto:privacy@timeoutsydney.com.au)
-
-**© Print & Digital Publishing Pty Ltd 2007.**
+If you wish to access your personal information, have a complaint as you believe your privacy has been breached or wish to update your details, please contact our Privacy Officer at [privacy@au.timeout.com](mailto:privacy@au.timeout.com) **© Print & Digital Publishing Pty Ltd 2007.**
