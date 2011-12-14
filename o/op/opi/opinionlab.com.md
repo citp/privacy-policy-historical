@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624010636id_/http%3A//www.opinionlab.com/content/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionlab.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214032839id_/http%3A//www.opinionlab.com/content/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « OpinionLab
+# Privacy Policy « OpinionLab—Voice of Customer Feedback Anytime Anywhere
 
 General Statement for the OpinionLab Website ([http://www.opinionlab.com](http://www.opinionlab.com/)): OpinionLab, Inc. has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the Website: [http://www.opinionlab.com](http://www.opinionlab.com/).
 
@@ -8,48 +8,48 @@ We track IP addresses and host names to associate gathered data with a unique In
 
 We also collect aggregate information on pages that users access or visit and information volunteered by the user, such as page specific feedback. The information we collect is used to improve the content of our Web page and not shared with other organizations for commercial purposes.
 
-For those who register to use or participate in our OnlineOpinion® line of products, we have Privacy Policies that specifically address the unique privacy concerns related to OnlineOpinion. We use cookies within [http://www.opinionlab.com](http://www.opinionlab.com/) to remember returning users and to store basic account information such as login ID and password (if the subscriber chooses this option). Cookies must be active in order to use our reporting system. The user establishes their unique login ID and password when they register. 
+For those who register to use or participate in our OnlineOpinion line of products, we have Privacy Policies that specifically address the unique privacy concerns related to OnlineOpinion. We use cookies within [http://www.opinionlab.com](http://www.opinionlab.com/) to remember returning users and to store basic account information such as login ID and password (if the subscriber chooses this option). Cookies must be active in order to use our reporting system. The user establishes their unique login ID and password when they register.
 
-Privacy Statement for Users Who Submit Feedback on a Subscriber Website: OpinionLab, Inc. has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the websites: [http://www.opinionlab.com](http://www.opinionlab.com/) and [https://secure.opinionlab.com](https://secure.opinionlab.com%22/).
+Privacy Statement for Users Who Submit Feedback on a Subscriber Website: OpinionLab, Inc. has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the websites: [http://www.opinionlab.com](http://www.opinionlab.com/) and https://secure.opinionlab.com
 
-IP addresses and host names are tracked to associate gathered data with a unique Internet entity. It is also used to determine if multiple requests are coming from the same host and to perform top-level domain reporting. 
+IP addresses and host names are tracked to associate gathered data with a unique Internet entity. It is also used to determine if multiple requests are coming from the same host and to perform top-level domain reporting.
 
-We also collect aggregate information on what pages users access. This information we collect is used to improve the content of our Web page and is not shared with other organizations for commercial purposes. 
+We also collect aggregate information on what pages users access. This information we collect is used to improve the content of our Web page and is not shared with other organizations for commercial purposes.
 
-We use cookie technology when we accept page-rating data using the OnlineOpinion icon to determine if a page has already been rated. Additionally, we plant a cookie to remember if the user has ever rated any page using OnlineOpinion. Inside this cookie, we assign a unique ID that is associated with every future rating. 
+We use cookie technology when we accept page-rating data using the OnlineOpinion icon to determine if a page has already been rated. Additionally, we plant a cookie to remember if the user has ever rated any page using OnlineOpinion. Inside this cookie, we assign a unique ID that is associated with every future rating.
 
-Information provided by website users through the OnlineOpinion icon is collected by OpinionLab, Inc. and is made available to the website manager according to the type of reporting service they request. The information may also be used by OpinionLab to develop proprietary case studies, benchmarks or algorithms in which data may be published anonymously in aggregate form. 
+Information provided by website users through the OnlineOpinion icon is collected by OpinionLab, Inc. and is made available to the website manager according to the type of reporting service they request. The information may also be used by OpinionLab to develop proprietary case studies, benchmarks or algorithms in which data may be published anonymously in aggregate form.
 
-This site has security measures (SSL encryption) in place to protect the loss, misuse and alteration of the information under our control. 
+This site has security measures (SSL encryption) in place to protect the loss, misuse and alteration of the information under our control.
 
-Privacy Statement for Subscribers to the OnlineOpinion System: OpinionLab, Inc. has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the websites: [http://www.opinionlab.com](http://www.opinionlab.com/) and [https://secure.opinionlab.com](https://secure.opinionlab.com%22/).
+Privacy Statement for Subscribers to the OnlineOpinion System: OpinionLab, Inc. has created this statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for the websites: http://www.opinionlab.com and https://secure.opinionlab.com
 
-IP addresses and host names are tracked to associate gathered data with a unique Internet entity. It is also used to determine if multiple requests are coming from the same host and to perform top-level domain reporting. 
+IP addresses and host names are tracked to associate gathered data with a unique Internet entity. It is also used to determine if multiple requests are coming from the same host and to perform top-level domain reporting.
 
-We also collect aggregate information on pages that users access or visit. This information we collect is used to improve the content of our Web page and is not shared with other organizations for commercial purposes. 
+We also collect aggregate information on pages that users access or visit. This information we collect is used to improve the content of our Web page and is not shared with other organizations for commercial purposes.
 
-When a user registers to create an account with us or requests files, we collect the user’s name, job title, phone number, email address, company name, industry and mailing address. In addition, if a user purchases our products, we collect their billing information such as credit card number, credit card type, credit card expiration date and billing address. We only use billing information to process your order. We use subscriber contact information from the registration forms to send information about our company should the subscriber request to receive such information. Subscribers may opt-out of receiving future mailings (see the choice/opt-out section below). All information is kept confidential. 
+When a user registers to create an account with us or requests files, we collect the user’s name, job title, phone number, email address, company name, industry and mailing address. In addition, if a user purchases our products, we collect their billing information such as credit card number, credit card type, credit card expiration date and billing address. We only use billing information to process your order. We use subscriber contact information from the registration forms to send information about our company should the subscriber request to receive such information. Subscribers may opt-out of receiving future mailings (see the choice/opt-out section below). All information is kept confidential.
 
-Under no circumstances will we use this information for anything not described in this privacy policy. 
+Under no circumstances will we use this information for anything not described in this privacy policy.
 
-**Choice/Opt-Out:**  
-Our site provides subscribers the opportunity to opt-out of receiving communications from us at the point where we request information about them. They may uncheck the box that grants us permission to send them additional company information before they submit their contact information. After they have submitted their contact information, we provide subscribers the following options for removing their information from our database, at any time, to prevent receiving future communications or to no longer receive our service: 
+**Choice/Opt-Out** : Our site provides subscribers the opportunity to opt-out of receiving communications from us at the point where we request information about them. They may uncheck the box that grants us permission to send them additional company information before they submit their contact information. After they have submitted their contact information, we provide subscribers the following options for removing their information from our database, at any time, to prevent receiving future communications or to no longer receive our service:
 
   * Subscribers can send email to [info@opinionlab.com](mailto:info@opinionlab.com).
   * Subscribers can login to their account and edit their profile online at our website.
 
 
 
-**Change/Modify:**  
-Users may access, review and/or correct all their personally identifiable information that we collect online by the following methods:
+**Change/Modify** : Users may access, review and/or correct all their personally identifiable information that we collect online by the following methods:
 
   * Subscribers can send email to [info@opinionlab.com](mailto:info@opinionlab.com).
 
 
 
 OpinionLab, Inc.  
-600 Central Avenue  
-Suite 265  
-Highland Park, IL 60035
+600 Central Avenue
 
-[info@opinionlab.com](mailto:info@opinionlab.com)
+Suite 265
+
+Highland Park, IL 60035  
+[info@opinionlab.com](mailto:info@opinionlab.com)  
+United States of America
