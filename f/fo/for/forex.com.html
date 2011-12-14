@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the forex.com privacy policy that was archived on 2010-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101127154506id_/http%3A//www.forex.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the forex.com privacy policy that was archived on 2011-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214091756id_/http%3A//www.forex.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,10 +9,10 @@
 <meta name="keywords" content="gain capital groups privacy statement,forex privacy policy">
 <meta name="language" scheme="ISO639-2" content="eng">
 <meta name="date.created" content="October 15, 2008">
-<meta name="date.modified" content="May 11, 2010">
+<meta name="date.modified" content="August 24, 2011">
 <meta name="robots" content="index,follow">
 
-	<title>Risk Warning | Forex &amp; Trade Risk Factors | FOREX.com</title>
+	<title>GAIN Capital Group's Privacy Statement | Forex World Currency Trading | FOREX.com</title>
 	<base href="http://www.forex.com/">
 	
 	<link rel="stylesheet" type="text/css" href="/css/ForexCss.css.aspx">
@@ -38,16 +38,20 @@
     var PageInitialized = false;
     var InitFunctionList = [];
     function tryInitialization(){if (GAIN_ExtOnReadyFired && GAIN_TradingManagerReady){if (!PageInitialized){PageInitialized = true;for (var i =0; i < InitFunctionList.length ;i++){try{InitFunctionList[i]();}catch(e){};};};};};  
+
     function TradingManagerReady(){GAIN_TradingManagerReady = true;tryInitialization();ctl00_TradingManagerJS_ShowDock()};
     function TradingMangerLogout(){;}
     function TradingManagerNetworkFailure(){;}
+    function TradingManagerTimeoutAlert(){;}
     function ctl00_TradingManagerJS_ShowDock()
     {
         
     }
-    Ext.onReady(function() {aTradingManager = new GAIN.TradingManager({},{AccountSettings:{url:'/UIService.asmx/GetAccountSettings',refreshInterval:200000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},Deals:{url:'/UIService.asmx/GetProductDeals',refreshInterval:30000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},Margin:{url:'/UIService.asmx/GetMargins',refreshInterval:30000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},Orders:{url:'/UIService.asmx/GetOrders',refreshInterval:30000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},Positions:{url:'/UIService.asmx/GetPositions',refreshInterval:30000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},ProductSettings:{url:'/UIService.asmx/GetProductSettings',refreshInterval:200000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},Rates:{url:'/UIService.asmx/GetUserRates',refreshInterval:5000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},LoginStatus:false});aTradingManager.addListener('Initialized',TradingManagerReady);aTradingManager.addListener('Logout',TradingMangerLogout);aTradingManager.addListener('NetworkFailure', TradingManagerNetworkFailure);GAIN_ExtOnReadyFired = true;tryInitialization();});
+    Ext.onReady(function() {aTradingManager = new GAIN.TradingManager({},{AccountSettings:{url:'/UIService.asmx/GetAccountSettings',refreshInterval:200000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},Deals:{url:'/UIService.asmx/GetProductDeals',refreshInterval:30000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},Margin:{url:'/UIService.asmx/GetMargins',refreshInterval:30000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},Orders:{url:'/UIService.asmx/GetOrders',refreshInterval:30000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},Positions:{url:'/UIService.asmx/GetPositions',refreshInterval:30000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},ProductSettings:{url:'/UIService.asmx/GetProductSettings',refreshInterval:200000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},Rates:{url:'/UIService.asmx/GetUserRates',refreshInterval:5000,status:{requesting:false,dataReady:false,init:false,repeatable:false,dataInit:false,enabled:false}},LoginStatus:false});aTradingManager.addListener('Initialized',TradingManagerReady);aTradingManager.addListener('Logout',TradingMangerLogout);aTradingManager.addListener('NetworkFailure', TradingManagerNetworkFailure);aTradingManager.addListener('TimeoutAlert',TradingManagerTimeoutAlert);GAIN_ExtOnReadyFired = true;tryInitialization();});
 </script>
 
+
+    
 	<script type="text/javascript">
 		window.addEvent('domready', imageZoom.init);
 	</script>
@@ -103,14 +107,16 @@
 	</div>
 
 	<form name="aspnetForm" method="post" action="/Default.aspx?DN=4241dc0b-4ed8-455c-8f9f-38a8eaf3768b&amp;l=English" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE1MTQxNTQ5OGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFJGN0bDAwJE5ld3NMZXR0ZXJTaWduVXAxJGNoa05ld1VwZGF0ZQUrY3RsMDAkTG9naW5WaWV3MiRjdHJsTG9naW5NYXN0ZXIkUmVtZW1iZXJNZQUoY3RsMDAkY3RsMDQkU2VhcmNoMSRoZWFkZXJfc2VhcmNoX2J1dHRvbg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU1MTUzNTk5MWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFJGN0bDAwJE5ld3NMZXR0ZXJTaWduVXAxJGNoa05ld1VwZGF0ZQUrY3RsMDAkTG9naW5WaWV3MiRjdHJsTG9naW5NYXN0ZXIkUmVtZW1iZXJNZQUoY3RsMDAkY3RsMDQkU2VhcmNoMSRoZWFkZXJfc2VhcmNoX2J1dHRvbgVBY3RsMDAkQ29udGVudEFyZWFQbGFjZUhvbGRlciRNZXRhVHJhZGVyUmVnaXN0cmF0aW9uJHN1Ym1pdF9idXR0b24=">
 
+			
 		
 <script type="text/javascript">
-InitFunctionList.push( 
+    InitFunctionList.push(
 function() {
-    aTradingManager.addListener('Logout', function(){popLayer.popLayerFade = 'AlertFade';popLayer.popLayerContent = 'AlertShadow';popLayer.shim = 'AlertShim';popLayer.shimYOffset = 30;popLayer.shimXOffset = 23;popLayer.show();});
-    aTradingManager.addListener('NetworkFailure', function(){popLayer.popLayerFade = 'AlertFade';popLayer.popLayerContent = 'AlertShadow';popLayer.shim = 'AlertShim';popLayer.shimYOffset = 30;popLayer.shimXOffset = 23;popLayer.show();});
+    aTradingManager.addListener('Logout', function() { popLayer.popLayerFade = 'AlertFade'; popLayer.popLayerContent = 'AlertShadow'; popLayer.shim = 'AlertShim'; popLayer.shimYOffset = 30; popLayer.shimXOffset = 23; popLayer.show(); });
+    aTradingManager.addListener('TimeoutAlert', function() { popLayer.popLayerFade = 'AlertFade'; popLayer.popLayerContent = 'TimeoutAlertShadow'; popLayer.shim = 'AlertShim'; popLayer.shimYOffset = 30; popLayer.shimXOffset = 23; popLayer.show(); });
+    aTradingManager.addListener('NetworkFailure', function() { popLayer.popLayerFade = 'AlertFade'; popLayer.popLayerContent = 'AlertShadow'; popLayer.shim = 'AlertShim'; popLayer.shimYOffset = 30; popLayer.shimXOffset = 23; popLayer.show(); });
 });
 </script>
 <div id="AlertFade"></div>
@@ -120,6 +126,13 @@ function() {
 <tr><td><div id="alert_timeout"><h1>Timeout</h1><br><p class="info">For the safety of your account, your session has been timed out. </p><p><a id="lnkLogout" onclick="clearAllCookies();" href="/login.html?ReturnUrl=%2fprivacy-policy.html">Click here</a> to log back in to your account.</p></div></td></tr>
 <tr><td class="bottomLeft">&nbsp;</td><td class="bottom">&nbsp;</td><td class="bottomRight">&nbsp;</td></tr></tbody>
 </table>
+<table style="display: none; visibility: visible; top: 298px; left: 465px; position: fixed; float: left;" id="TimeoutAlertShadow" border="0" cellpadding="0" cellspacing="0"><tbody>
+<tr><td class="topLeft">&nbsp;</td><td class="top">&nbsp;</td><td class="topRight">&nbsp;</td></tr>
+<tr><td rowspan="2" class="left">&nbsp;</td><td class="close_row">
+<a href="javascript:%20popLayer.hide();" style="display:none;" class="close_link">Close <img src="/resources/images/buttons/btn_close_x_zoom_image_off.gif" alt="x"></a>
+</td><td rowspan="2" class="right">&nbsp;</td></tr><tr><td><div id="pre_timeout_alert"><h1>Timeout Alert</h1><br><p class="info">Your trading session has timed out. Would you like to continue trading?</p>
+<p></p><div class="center_text"><input type="button" id="Button1" onclick="stayConnected();" value="  Yes  ">&nbsp;&nbsp;&nbsp;&nbsp;<input type="button" id="btn_stay_connected" onclick="disConnectNow();" value="  No  "></div><p></p>
+</div></td></tr><tr><td class="bottomLeft">&nbsp;</td><td class="bottom">&nbsp;</td><td class="bottomRight">&nbsp;</td></tr></tbody></table>
 <iframe style="top: 328px; left: 488px; height: 185px; display: block; position: fixed; float: left;" id="AlertShim" frameborder="0"></iframe>
 <script type="text/javascript">
     function clearAllCookies() {
@@ -131,9 +144,189 @@ function() {
             document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT";
         }
     }
+    function stayConnected(){
+        _timer = _start * 1; 
+        popLayer.hide();
+    }
+    function disConnectNow() {
+        _timer = 1 * 1;
+        popLayer.hide();
+        timeOut();
+    }
 </script>	
 
 		
+		
+
+<table cellspacing="0" cellpadding="0" border="0" id="ZoomShadowEAHosting">
+    <tbody>
+        <tr>
+            <td class="topLeft">
+            </td>
+            <td class="top">
+            </td>
+            <td class="topRight">
+            </td>
+        </tr>
+        <tr>
+            <td class="left" rowspan="2">
+            </td>
+            <td class="close_row">
+                <a class="close_link" href="javascript: popLayer.hide();">Close
+                    <img alt="x" src="/resources/images/buttons/btn_close_x_zoom_image_off.gif"></a>
+            </td>
+            <td class="right" rowspan="2">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div id="ea_hosting_confirm" style="display: none;">
+                    <h1>Thank you</h1>
+                    <br>
+                        Your request has been successfuly submited.
+                    <br>
+                </div>
+                <div id="divError" style="display: none"></div>
+                <div id="ea_hosting_signup">
+                    <h1>Expert Advisor Hosting Request</h1>
+                    <p>Please provide the following information:<br><em>(All Fields Required)</em></p>                            
+                    <p>
+                        <label for="email_id">
+			                <font color="red">*</font>Email:
+                        </label>
+                        <input name="ctl00$EAhostingRequest1$txtEmail" type="text" id="ctl00_EAhostingRequest1_txtEmail" maxlength="50" size="30">
+                        <input type="hidden" id="txtEmailField" value="ctl00_EAhostingRequest1_txtEmail">
+                        <span class="note">
+                        </span> 
+                        <span class="note">
+                        </span> 
+                    </p>
+                    <p>
+                        <label for="user_id">
+			                <font color="red">*</font>Username:
+                        </label>
+                        <input name="ctl00$EAhostingRequest1$txtUserId" type="text" id="ctl00_EAhostingRequest1_txtUserId" maxlength="100">
+                        <span class="note">
+                        </span>                     
+                        <span class="note">
+                        </span> 
+                    </p>
+                    <div align="center" style="margin-top:20px">
+                        <input type="image" alt="submit" class="hover_button" causesvalidation="true" validationgroup="EAHosting" onclick="return ShowAnimation();" src="/resources/images/buttons/btn_submit_large_off.gif">&nbsp;&nbsp;                        
+                        <img id="divSpinner" src="/resources/images/icons/icn_loading_spinner.gif" alt="" style="display:none;">                            
+                    </div>                         
+                </div>                         
+            </td>
+        </tr>
+        <tr>
+            <td class="bottomLeft">
+            </td>
+            <td class="bottom">
+            </td>
+            <td class="bottomRight">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div id="ZoomFadeEAHosting"></div>
+<iframe frameborder="0" id="ZoomShimEAHosting"></iframe>
+<div id="script_div"></div>
+
+<script language="javascript" type="text/javascript">
+
+    function displayEuHostingRequestForm() {
+        resetEuHostingRequestForm(); // reset form
+
+        popLayer.popLayerFade = 'ZoomFadeEAHosting';
+        popLayer.popLayerContent = 'ZoomShadowEAHosting';
+        popLayer.shim = 'ZoomShimEAHosting';
+        popLayer.shimYOffset = 30;
+        popLayer.shimXOffset = 23;
+        popLayer.show();
+    }
+
+    function resetEuHostingRequestForm() {
+        Ext.get('ea_hosting_signup').dom.style.display = 'block';
+        Ext.get('divError').dom.style.display = 'none';
+        Ext.get('ea_hosting_confirm').dom.style.display = 'none';
+    }
+     
+    function ShowAnimation() {
+
+        playAnimation(false);
+
+        if (typeof (Page_ClientValidate) == 'function') {
+            var validationResult = Page_ClientValidate("EAHosting");
+            if (validationResult == true) {                
+                submitForm();                                
+            }
+            else {
+                playAnimation(true);
+            }
+        }
+        return false;
+    }
+
+    function submitForm() {
+
+        playAnimation(false);
+        
+        var email = Ext.get('ctl00_EAhostingRequest1_txtEmail').dom.value;
+        var userId = Ext.get('ctl00_EAhostingRequest1_txtUserId').dom.value;
+
+        var aConnection = new Ext.data.Connection();
+
+        aConnection.request(
+        {
+            url: '/UIService.asmx/EAHostingRequest',
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            scope: this,
+            jsonData: { aEmail: email, aUserId: userId },
+            callback: function(options, success, response) {
+                if (success) {
+
+                    data = Ext.util.JSON.decode(response.responseText).d;
+
+                    if (data == null || data == '' || data == 'false' || data == "error") {
+
+                        var msg = 'Error occurred while submitting your information. please try again or contact customer service.';
+
+                        Ext.get('ea_hosting_confirm').dom.style.display = 'none';
+                        Ext.get('ea_hosting_signup').dom.style.display = 'none';
+
+                        var div = Ext.get('divError').dom;
+                        div.innerHTML = msg;
+
+                        div.style.color = '#ff0000';
+                        div.style.display = 'block';
+                        div.style.padding = '15px';
+                        div.style.background = 'rgb(255, 255, 255) none repeat scroll 0pt 0pt';
+                        div.style.width = '450px;';
+                        
+                        playAnimation(true);
+                    }
+                    else {
+                        playAnimation(true);
+                        showConfirmation();
+                    }
+                }
+            }
+        });                
+    }
+
+    function showConfirmation() {
+        Ext.get('ea_hosting_signup').dom.style.display = 'none';
+        Ext.get('divError').dom.style.display = 'none';
+        Ext.get('ea_hosting_confirm').dom.style.display = 'block';        
+    }
+    
+    function playAnimation(inBool) {
+        Ext.get("divSpinner").setStyle('display', inBool ? 'none' : 'inline');
+    }
+
+</script>
 		
             
 
@@ -177,7 +370,7 @@ function() {
                                         
                     <input type="hidden" name="ctl00$NewsLetterSignUp1$hdnId" id="ctl00_NewsLetterSignUp1_hdnId" value="WeeklyStrategy">
                     <input type="hidden" name="ctl00$NewsLetterSignUp1$hdnLanguage" id="ctl00_NewsLetterSignUp1_hdnLanguage" value="English">
-                    <input type="hidden" name="ctl00$NewsLetterSignUp1$hdnIP" id="ctl00_NewsLetterSignUp1_hdnIP" value="72.44.53.187">
+                    <input type="hidden" name="ctl00$NewsLetterSignUp1$hdnIP" id="ctl00_NewsLetterSignUp1_hdnIP" value="174.129.228.67">
                     <input type="hidden" name="ctl00$NewsLetterSignUp1$hdnAdvCookie" id="ctl00_NewsLetterSignUp1_hdnAdvCookie">
                     <input type="hidden" name="ctl00$NewsLetterSignUp1$hdnElqCookieFound" id="ctl00_NewsLetterSignUp1_hdnElqCookieFound" value="0">
                     <input type="hidden" name="ctl00$NewsLetterSignUp1$hdnElqFormName" id="ctl00_NewsLetterSignUp1_hdnElqFormName" value="Newsletter">
@@ -206,7 +399,7 @@ function() {
                                         <font color="red">*</font>Email:
                                     </label>
                                     <input name="ctl00$NewsLetterSignUp1$txtEmail" type="text" maxlength="50" id="ctl00_NewsLetterSignUp1_txtEmail" class="account_register_form_email">
-                                    <input type="hidden" id="txtEmailField" value="ctl00_NewsLetterSignUp1_txtEmail">
+                                    <input type="hidden" id="txtNewsEmailField" value="ctl00_NewsLetterSignUp1_txtEmail">
                                     <span class="note">
                                     </span>
                                     <span class="note"></span>
@@ -340,7 +533,6 @@ function() {
 	<option value="LB">Lebanon</option>
 	<option value="LS">Lesotho</option>
 	<option value="LR">Liberia</option>
-	<option value="LY">Libya</option>
 	<option value="LI">Liechtenstein</option>
 	<option value="LT">Lithuania</option>
 	<option value="LU">Luxembourg</option>
@@ -352,6 +544,7 @@ function() {
 	<option value="MV">Maldives</option>
 	<option value="ML">Mali</option>
 	<option value="MT">Malta</option>
+	<option value="MH">Marshall Islands</option>
 	<option value="MQ">Martinique</option>
 	<option value="MR">Mauritania</option>
 	<option value="MU">Mauritius</option>
@@ -359,7 +552,7 @@ function() {
 	<option value="MD">Moldova</option>
 	<option value="MC">Monaco</option>
 	<option value="MN">Mongolia</option>
-	<option value=" ME">Montenegro</option>
+	<option value="ME">Montenegro</option>
 	<option value="MA">Morocco</option>
 	<option value="MZ">Mozambique</option>
 	<option value="MM">Myanmar</option>
@@ -515,6 +708,7 @@ function() {
     
     function writeEntity() {
         setwsEntityLow('NA');
+        setEntityPlatform('FOREXTRADER');
     }
     
     function LoadInitialData() {
@@ -1023,10 +1217,10 @@ To provide the fastest access to the trading platforms, we have made signing in 
 				<div class="login_info" id="login_info"><div id="login_info_web">
 					<div id="userid_div" style="width:50%;float:left;">
 						<label for="userid" id="userIDLabel" style="width:50px;">
-							User ID
+							Username
 						</label>
 						<input name="LoginControlUserName" type="text" id="LoginControlUserName" tabindex="1" onkeypress="mainLoginViaEnter(event);" style="width:105px;">
-						<span id="requname" class="error" style="display: none;"><br>UserID is required</span>
+						<span id="requname" class="error" style="display: none;"><br>Username is required</span>
 					</div>
 					<div id="password_div" style="width:50%;float:right;">
 						<label for="password" id="passLabel" style="width:100px;">
@@ -1055,7 +1249,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
 							</label>
 						</div>					
 					</div></div>
-					<div id="login_info_pro" style="display:none">You will be prompted for your User ID and Password after you launch the platform.</div>
+					<div id="login_info_pro" style="display:none">You will be prompted for your Username and Password after you launch the platform.</div>
 				</div>
 				<div class="account_type">
 					<div style="float: left;">
@@ -1066,7 +1260,10 @@ To provide the fastest access to the trading platforms, we have made signing in 
 					</div>
 					<div style="float: right;">
 						<a href="javascript:void(0);" onclick="openJavaPlatForm();" style="color:#aec2d8;text-decoration:underline;font-size:11px;">
-							Login to FOREXTrader.java
+							Login to FOREXTrader PRO.web
+						</a><br><br>
+						<a href="javascript:void(0);" onclick="openMetaPlatform();" style="color:#aec2d8;text-decoration:underline;font-size:11px;">
+						   
 						</a>
 					</div>
 				</div>
@@ -1101,7 +1298,11 @@ To provide the fastest access to the trading platforms, we have made signing in 
     function openJavaPlatForm() {
       document.location = "/login.html?type=java";
     }
-
+    
+    function openMetaPlatform(){
+        document.location = 'https://secure.efxnow.com/forex2/metatrader/forex_my_account.html';
+    }
+    
     function assignFXTraderLink()
     {
 	    if (Ext.get('forex_trader_pro').dom.checked){
@@ -1220,6 +1421,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
 
     function writeEntity() {
         setwsEntityHigh('NA');
+        setEntityPlatform('FOREXTRADER');
     }
 
     // determine install/download link.
@@ -1261,7 +1463,10 @@ To provide the fastest access to the trading platforms, we have made signing in 
 </script>
 
 
-					
+					<input type="hidden" name="ctl00$UtilityNavBase$requestId" id="ctl00_UtilityNavBase_requestId">
+<input type="hidden" name="ctl00$UtilityNavBase$requestTarget" id="ctl00_UtilityNavBase_requestTarget">
+<input type="submit" name="ctl00$UtilityNavBase$byPassRequest" value="byPass" id="ctl00_UtilityNavBase_byPassRequest" class="hidden" style="display:none">
+
 <div id="utility_nav" class="anonymous">
     <span class="welcome"></span>
     <div class="bar">
@@ -1269,12 +1474,12 @@ To provide the fastest access to the trading platforms, we have made signing in 
             
             <li><a href="javascript:openLoginPanel();"><img id="header_account_login_button" src="/resources/images/buttons/btn_account_login_header_off.gif" alt="Account Login" class="hover_button"></a></li>
             
-            <li><a href="support.html">Support</a> </li>
+            <li><a href="support.html" style="font-weight: bold">SUPPORT</a> </li>
         </ul>
         <div class="drop_navs">
         
         <ul id="country_drop" class="drop_nav">
-  <li class="first parent-of-current">
+  <li class="first">
     <div style="float:left">
       <a href="/index.html"><img border="0" class="hover_button" src="/adx/aspx/adxGetMedia.aspx?DocID=2077,34,Documents&amp;MediaID=8a5cf927-0de7-487b-a8f2-cc2c38cc7d50&amp;Filename=flag_small_us.gif" width="16" height="13" alt=""></a>
     </div>
@@ -1307,7 +1512,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
 </ul>
 
         <ul id="language_drop" class="drop_nav">
-  <li class="first parent-of-current">
+  <li class="first">
     <a href="/index.html">ENG</a>
   </li>
   <li>
@@ -1332,12 +1537,25 @@ To provide the fastest access to the trading platforms, we have made signing in 
 </div>
 
 <script type="text/javascript">
+    function reloadAccountsHomeBase(obj) {
+        reloadAccountsDD(obj, "ctl00_UtilityNavBase_LoginView1_accountsSection");
+    }
+    function updateNickNameHomeBase(nickName) {
+        var obj = $("ctl00_UtilityNavBase_LoginView1_accountsSection");
+        if (obj.getChildren().length > 0) {
+            obj = obj.getChildren()[0].options;
+            obj[obj.selectedIndex].text = nickName;
+        }
+        else
+            obj.set({ 'html': nickName });
+    }
     function openLoginPanel() {
         accountLoginPanel.show(539, 10);
         document.getElementById('LoginControlUserName').focus();
         if (Pnl_State == 0){Pnl_State = 1;}
     }
-    function timeOut() {var aConnection = new Ext.data.Connection();aConnection.request({url: '/UIService.asmx/TimeOut',method: "POST",headers: { "Content-Type": "application/json" },scope: this,callback: function(options, success, response) {var temp = null;if (success) {aTradingManager.fireEvent("Logout");}}})};
+    function timeOut() { var aConnection = new Ext.data.Connection(); aConnection.request({ url: '/UIService.asmx/TimeOut', method: "POST", headers: { "Content-Type": "application/json" }, scope: this, callback: function(options, success, response) { var temp = null; if (success) { aTradingManager.fireEvent("Logout"); } } }) };
+    function timeOutAlert() { aTradingManager.fireEvent("TimeoutAlert"); }
 </script>
 <div id="nav_bar">
     <div id="primary_nav" style="">
@@ -1383,7 +1601,7 @@ To provide the fastest access to the trading platforms, we have made signing in 
     </div>
     <div id="secondary_nav" style="" class="">
         
-            <ul><li><a docguid="aad8739c-e9dc-451f-a643-e087410c1721" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="bfd87760-065d-45a0-ae28-2055257a4fa3" href="/index.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=b3ce5888-2fce-46aa-a351-bf6676c7b53c&amp;DocID=aad8739c-e9dc-451f-a643-e087410c1721&amp;Filename=btn_welcome_sprite.gif" alt="Welcome"></a></li><li><a docguid="209cbe2f-8487-49e3-bf8a-568672e6c2e3" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/trading_forex_home.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=32&amp;DocID=209cbe2f-8487-49e3-bf8a-568672e6c2e3&amp;Filename=btn_why_us_sprite.gif" alt="Why Us?"></a></li><li><a docguid="392dda2c-9d99-4058-b326-24cb9cb0ff4a" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/getting-started.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=a3d065a2-0bbd-48e7-9171-1e2b7bd09e14&amp;DocID=392dda2c-9d99-4058-b326-24cb9cb0ff4a&amp;Filename=btn_getting_started_sprite.gif" alt="Getting Started"></a></li><li><a docguid="d06d2291-42a1-47f6-aede-66a50bd50688" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/open-account.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=790&amp;DocID=d06d2291-42a1-47f6-aede-66a50bd50688&amp;Filename=btn_open_an_account_sprite.gif" alt="Open an Account"></a></li><li><a docguid="fdd83b2d-31b9-40e8-97a6-4b2cc258111d" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="eef2ee01-6ae3-4953-9d18-1d1899ec744c" href="/ways-to-trade.html?Anc=eef2ee01-6ae3-4953-9d18-1d1899ec744c&amp;Pa=bfd87760-065d-45a0-ae28-2055257a4fa3"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=d97e6551-d46d-489d-ab16-8f640e72601c&amp;DocID=fdd83b2d-31b9-40e8-97a6-4b2cc258111d&amp;Filename=btn_ways_to_trade_sprite.gif" alt="Ways to Trade"></a></li><li><a docguid="1e865929-10e4-4d48-8d49-036f350c1893" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/pricing.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=784&amp;DocID=1e865929-10e4-4d48-8d49-036f350c1893&amp;Filename=btn_pricing_sprite.gif" alt="Pricing"></a></li><li><a docguid="56182746-08a9-4078-a996-467e812b1b88" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/institutional-services.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=fcbc64ff-9aa6-457c-9344-bd736e457d3a&amp;DocID=56182746-08a9-4078-a996-467e812b1b88&amp;Filename=btn_institutional_services_sprite.gif" alt="Institutional Services"></a></li><li><a docguid="bf92d3a9-7e99-4d68-8361-4451d6b1a006" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/MyAccount.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=82664eb9-adbe-4ab3-8543-b0b2e0010caa&amp;DocID=bf92d3a9-7e99-4d68-8361-4451d6b1a006&amp;Filename=btn_my_account_sprite.gif" alt="btn_my_account_sprite.gif"></a></li></ul>
+            <ul><li><a docguid="aad8739c-e9dc-451f-a643-e087410c1721" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="bfd87760-065d-45a0-ae28-2055257a4fa3" href="/index.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=b3ce5888-2fce-46aa-a351-bf6676c7b53c&amp;DocID=aad8739c-e9dc-451f-a643-e087410c1721&amp;Filename=btn_welcome_sprite.gif" alt="Welcome"></a></li><li><a docguid="209cbe2f-8487-49e3-bf8a-568672e6c2e3" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/trading_forex_home.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=32&amp;DocID=209cbe2f-8487-49e3-bf8a-568672e6c2e3&amp;Filename=btn_why_us_sprite.gif" alt="Why Us?"></a></li><li><a docguid="392dda2c-9d99-4058-b326-24cb9cb0ff4a" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/getting-started.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=a3d065a2-0bbd-48e7-9171-1e2b7bd09e14&amp;DocID=392dda2c-9d99-4058-b326-24cb9cb0ff4a&amp;Filename=btn_getting_started_sprite.gif" alt="Getting Started"></a></li><li><a docguid="d06d2291-42a1-47f6-aede-66a50bd50688" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/open-account.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=790&amp;DocID=d06d2291-42a1-47f6-aede-66a50bd50688&amp;Filename=btn_open_an_account_sprite.gif" alt="Open an Account"></a></li><li><a docguid="fdd83b2d-31b9-40e8-97a6-4b2cc258111d" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="eef2ee01-6ae3-4953-9d18-1d1899ec744c" href="/ways-to-trade.html?Anc=eef2ee01-6ae3-4953-9d18-1d1899ec744c&amp;Pa=bfd87760-065d-45a0-ae28-2055257a4fa3"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=d97e6551-d46d-489d-ab16-8f640e72601c&amp;DocID=fdd83b2d-31b9-40e8-97a6-4b2cc258111d&amp;Filename=btn_ways_to_trade_sprite.gif" alt="Ways to Trade"></a></li><li><a docguid="1e865929-10e4-4d48-8d49-036f350c1893" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/pricing-top.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=40a1a474-7aa7-4554-96ef-2c0e61b3b590&amp;DocID=1e865929-10e4-4d48-8d49-036f350c1893&amp;Filename=btn_pricing_sprite.gif" alt="Pricing"></a></li><li><a docguid="d0b9251e-4b81-4cb3-b6b4-ebc734c2d8a7" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="/execution.html"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=7fafffd5-9dda-4b65-a7f8-df1c246a822f&amp;DocID=d0b9251e-4b81-4cb3-b6b4-ebc734c2d8a7&amp;Filename=btn_execution_sprite.gif" alt="btn_execution_sprite.gif"></a></li><li><a docguid="87676ec0-fccc-48bc-b39d-e62b47481955" currentguid="4241dc0b-4ed8-455c-8f9f-38a8eaf3768b" otherdocguid="" href="http://www.gaincapital.com/partners-index.shtml" target="_blank"><img src="/adx/aspx/adxGetMedia.aspx?MediaID=9de6a406-64a6-4582-84f2-658ec4608191&amp;DocID=87676ec0-fccc-48bc-b39d-e62b47481955&amp;Filename=btn_institutional_services_sprite.gif" alt="btn_institutional_services_sprite.gif"></a></li></ul>
         
     </div>
     <div id="tertiary_nav" style="">
@@ -1407,6 +1625,8 @@ To provide the fastest access to the trading platforms, we have made signing in 
 
 </div>
 <!-- nav bar -->
+
+
 
 
 
@@ -1444,36 +1664,38 @@ To provide the fastest access to the trading platforms, we have made signing in 
 					<!-- Displays all content sections current document -->
 					
 					
-					<p>Protecting the privacy and safeguarding the personal and financial information of our clients and website visitors is one of our highest priorities. The following Privacy Statement explains how GAIN Capital collects and protects your personal information. References to "GAIN Capital" in this Privacy Statement include all GAIN Capital companies and divisions, including FOREX.com.</p>
-<p>By opening a GAIN Capital account or by using GAIN Capital Web sites, you give your consent to the collection and use of personal information by GAIN Capital as explained in this privacy statement.</p>
-<p><strong>Collection of personal information</strong><br>We collect information required to open an account, to transact business effectively and to safeguard your privacy. To do this, we gather information to help us assess your needs and preferences.</p>
-<p>The information we collect directly from you includes information required to communicate with you, including your name, mailing address, telephone number, e-mail address. In addition, we collect information required by law to identify who you are, including your Social Security number, Passport number or Tax Identification number. We also collect demographic information when you open an account, including gender, birth date, occupation and employment status. Our regulatory bodies also require us to assess your trading experience, your approximate annual income, approximate net worth, and available risk capital, all to assess your financial position.</p>
-<p>You directly provide to us the majority of information we collect. You do this by completing the account application and related documentation, by placing a trade, by sending us an e-mail, or by submitting information in response to a promotion or special offer. Other ways we obtain information are by (1) observing your usage of the Web site, and (2) providing products and services to you. This information enables us to offer you products and services that should be of interest to you.</p>
-<p>The information we collect indirectly from you includes your Internet protocol ("IP") address, browser type, operating system, Internet service provider (ISP), time stamps, transactions placed, and banner ads you click. We do this through the use of cookies, which are small text files sent from the Web server and may be stored on your computer. Cookies help us to know you better by providing operational data we can use to aid your interaction with our Web site and improve its navigation and usability.</p>
-<p><strong>Usage of personal information</strong><br>GAIN Capital may use the information collected from you to verify your identity and contact information. We may also use this information to establish and set up your trading account, issue an account number and a secure password, maintain your account activity, and contact you with account information. This information helps us improve our services to you, customize your browsing experience and inform you about additional products, services or promotions that may be of interest to you.</p>
-<p>Should you close your account with us, GAIN Capital will retain your information, but only use it to comply with regulatory requirements and to periodically contact you to offer you the opportunity to reactivate your account or participate in other valuable offers.</p>
-<p><strong>GAIN Capital affiliates and partners</strong><br>GAIN Capital may share information with affiliates if the information is required to provide the product or service you have requested or to provide you the opportunity to participate in the products or services our affiliates offer. GAIN Capital also forges partnerships and alliances, which may include joint marketing agreements, with other companies who offer high-quality products and services that might be of value to our clients. In order to ensure that these products and services meet your needs and are delivered in a manner that is useful and relevant, GAIN Capital may share some personal information with partners, affiliates and alliances. This allows them to better understand the offers that are most relevant and useful. In our strategic relationships, we will require that it be identified that an offer is being extended because of the relationship with us. The use of your personal information is limited to the purposes identified in our relationship with the partner or affiliate.</p>
-<p><strong>Non-affiliated third parties</strong><br>GAIN Capital does not sell, license, lease or otherwise disclose your personal information to any third party for any reason, except as described below.</p>
-<p>GAIN Capital reserves the right to disclose your personal information to third parties where required by law to regulatory, law enforcement or other government authorities. We may also disclose your information as necessary to credit reporting or collection agencies, or when necessary to protect our rights or property.</p>
-<p>To help us improve our services to you, we may engage another business to help us to carry out certain internal functions such as account processing, fulfillment, client service, client satisfaction surveys or other data collection activities relevant to our business. We may also provide a party with client information from our database to help us to analyze and identify client needs and notify clients of product and service offerings. Use of the information shared is strictly limited to the performance of the task we request and for no other purpose. All third parties with which we share personal information are required to protect personal information in a manner similar to the way we protect personal information. Examples of information shared are identifying information such as name, mailing address, e-mail address and, telephone number, and information on account activity.</p>
-<p>If at any time you choose to purchase a product or service offered by another company, for example by clicking on an advertisement on a Web site owned or controlled by GAIN Capital, any personal information you share with that company will no longer be controlled under our Privacy Statement. We are not responsible for the privacy policies or the content of sites we link to and we have no control of the use or protection of information provided by you or collected by those sites. Whenever you elect to link to a co-branded Web site or to a linked Web site, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third party, and you should familiarize yourself with the privacy policy published by that third party.</p>
-<p><strong>Opting out of disclosures of non-public personal information</strong><br>You may direct us not to disclose non-public personal information to certain third parties. To opt out of sharing non-public personal information with third parties, please contact GAIN Capital as stated in the contact information listed below. Note that for joint accounts, an opt out election made by one account owner of a Joint account is applicable to all account owners of the Joint account. An opt-out election must be made for each separate account you hold at GAIN Capital.</p>
-<p>If we propose to share information in a manner not covered in this Privacy Statement, we will notify you of this change by posting an addendum on the GAIN Capital Web site, a notice in the "What's New" section of the Web site, and if appropriate, provide you an opportunity to opt out of such use.</p>
-<p><strong>The security of your personal information</strong><br>We employ security software, systems, and procedures to offer you a safe and secure trading environment and protect your personal, financial and trading information.</p>
-<p>When you open an account with us, you are issued a unique account number, User ID and a password. Only a limited number of GAIN Capital employees who have a need to know this information will have access to your account number, UserID, and password. Remember: you are ultimately responsible for maintaining the secrecy of your account number, UserID, and password. We strongly recommend that you do not disclose this information to any one else.</p>
-<p>On our Web site and on our online account application, we use technology to encrypt information transmitted by or to you through our Web site. We use VeriSign™ certificates to authenticate our Web site and secure trading and customer-facing applications, allowing you to verify that you are connected to our Web site.</p>
-<p><strong>Use of "cookies"</strong><br>We use cookies to assist us in securing your trading activities and to enhance the performance of our Web site. (Cookies are small text files sent from the Web server to your computer.) Cookies used by GAIN Capital do not contain any personal information nor do they contain account or password information. They are used by GAIN Capital to allow the site to recognize that a page request comes from a person who has already logged on.</p>
-<p>GAIN Capital may share Web site usage information about visitors to the Web site with reputable advertising companies for targeting our Internet banner advertisements on this site and other sites. For this purpose, pixel tags (also called clear gifs or web beacons) may be used to note the pages you've visited. The information collected by the advertising company through the use of these pixel tags is not personally identifiable.</p>
-<p>To administer and improve the GAIN Capital Web site, we may use a third party to track and analyze usage and volume statistical information, including page requests, form requests, and click paths. The third party may use cookies to track behavior and may set cookies on behalf of GAIN Capital. These cookies do not contain any personally identifiable information.</p>
-<p><strong>Changes to this Privacy Statement</strong><br>In the event GAIN Capital materially changes this Privacy Statement, the revised Privacy Statement will promptly be posted to the Web sites and we will post a notice on our Web sites informing you of such changes. You agree to accept posting of a revised Privacy Statement electronically on the Web site as actual notice to you. Any dispute over our Privacy Statement is subject to this notice and the GAIN Capital Customer Agreement. If you have any questions that this statement does not address, please contact a Client Services representative.</p>
-<p>You may contact GAIN Capital for any reason under this Privacy Policy, or otherwise, as follows:</p>
-<p><strong>Toll Free (US) Call</strong><br>1.877.GAINCAP (1.877.424.6227)</p>
-<p><strong>International Call</strong><br>+1.908.731.0700</p>
-<p><strong>Email</strong><br><a href="mailto:clientservices@gaincapital.com">clientservices@gaincapital.com</a> </p>
+					<p>Protecting the privacy and safeguarding the personal and financial information of our clients and website visitors is one of our highest priorities. The following Privacy Statement explains how GAIN Capital collects and protects your personal information. References to "GAIN Capital" in this Privacy Statement include all GAIN Capital companies and divisions, including FOREX.com. </p>
+<p>By opening a GAIN Capital account or by using GAIN Capital websites, you give your consent to the collection and use of personal information by GAIN Capital as explained in this Privacy Statement.</p>
+<p><strong>Collection of personal information</strong><br>We collect your personal information directly from you and indirectly as a result of your relationship with us. GAIN Capital may use the information collected from you to verify your identity and contact information, establish your trading account, issue you an account number and a secure password, maintain your account activity and contact you with account information, among other reasons. This information also helps us improve our services to you, customize your browsing experience and inform you about additional products, services or promotions that may be of interest to you. </p>
+<p>You directly provide us with the majority of information we collect. This information includes your contact details, including name, mailing address, telephone number and e-mail address, personal identification data we are required by law to collect, including your social security number, passport number and/or tax identification number, and information required by law to assess your trading experience and risk tolerance, including your annual income, net worth and available risk capital. We also collect demographic information when you open an account, including gender, birth date, occupation and employment status. </p>
+<p>You provide us with this information by completing the account application and related documentation, by sending us an e-mail or by submitting information in response to a promotion or special offer. </p>
+<p>The information we collect indirectly from you includes your Internet protocol (IP) address, browser type, operating system, Internet service provider (ISP), time stamps, transaction history and banner ads you click. We collect this information through the use of cookies, which are small text files sent from Web servers that may be stored on your computer. Cookies help us to know you better and provide us with data we can use to improve your experience using our websites. Cookies are also used by GAIN Capital to allow our websites to recognize that when we receive a page request, you have already logged on. Cookies used by GAIN Capital do not contain any personal information nor do they contain account or password information. </p>
+<p>Should you close your account with us, GAIN Capital will retain your information, but only use it to comply with regulatory requirements and to periodically contact you to offer you the opportunity to reactivate your account or participate in other offers.</p>
+<p><strong>Sharing Personal Information with GAIN Capital affiliates and Non-affiliated third parties<br></strong>GAIN Capital does not sell, license, lease or otherwise disclose your personal information to any affiliate or third party for any reason, except as described below.</p>
+<p>GAIN Capital may share information with affiliates if the information is required to provide the product or service you have requested or to provide you the opportunity to participate in the products or services our affiliates offer. </p>
+<p>To help us improve our services to you, we may engage another business to help us carry out certain internal functions, such as account processing, fulfillment, client service, client satisfaction surveys or other data collection activities relevant to our business. We may also provide a non-affiliated third party with client information from our database, including your name, address, phone number, and/or e-mail address, to help us analyze and identify client needs, notify clients of product and service offerings or conduct general marketing and market research for us. </p>
+<p>GAIN Capital also forges partnerships and alliances with non-affiliated third parties which offer high-quality products and services that might be of value to our clients. In order to ensure that these products and services meet your needs and are delivered in a manner that is useful and relevant, GAIN Capital may share some personal information with these non-affiliated third parties. </p>
+<p>In addition, we may share usage information about visitors to our websites with reputable advertising companies for the purpose of targeting our Internet banner advertisements. For this purpose, pixel tags (also called clear gifs or web beacons) may be used to note the pages you have visited. The information collected by the advertising company through the use of these pixel tags is not personally identifiable.</p>
+<p>To administer and improve the GAIN Capital website, we may use a third party to track and analyze usage and volume statistical information, including page requests, form requests and click paths. The third party may use cookies to track behavior and may set cookies on behalf of GAIN Capital. These cookies do not contain any personally identifiable information.</p>
+<p>We generally require that all non-affiliated third parties to which we provide your nonpublic personal information agree to keep your information confidential and use such information solely for the limited purpose for which we have engaged them, or as otherwise required by law. In addition, where offers are made to you by non-affiliated third parties, we generally require that they disclose that the offer is being extended because of your relationship with us. We also seek to ensure that these non-affiliated third parties maintain appropriate data security procedures to guard against unauthorized use of, or access to, your personal information.</p>
+<p>When required by law, GAIN Capital reserves the right to disclose your personal information to third parties or regulatory, law enforcement or other government authorities. We may also disclose your information to credit reporting or collection agencies, or when necessary to protect our rights or property.</p>
+<p>If at any time you choose to purchase a product or service offered by another company, for example by clicking on an advertisement on a website owned or controlled by GAIN Capital, any personal information you share with that company will no longer be governed by our Privacy Statement. We are not responsible for the privacy policies or the content of sites we link to and we have no control over the use or protection of information provided by you to, or collected by, those websites. Whenever you elect to link to a co-branded website or to a linked website, you may be asked to provide registration or other information. Please note that the information you are providing is going to a third party, and you should familiarize yourself with the privacy policy published by that third party.</p>
+<p><strong>The security of your personal information<br></strong>We employ physical, electronic, and procedural safeguards to to guard your nonpublic personal information.. When you open an account with us, you are issued a unique account number, User ID and a password. Only a limited number of GAIN Capital employees who have a need to know this information will have access to it. Remember that you are ultimately responsible for maintaining the secrecy of your account number, UserID and password. We strongly recommend that you do not disclose this information to anyone.</p>
+<p>On our websites and online account application we use technology to encrypt information transmitted by or to you. We use VeriSign™ certificates to authenticate our websites and secure trading and customer-facing applications, allowing you to verify that you are connected to our websites. </p>
+<p>We conduct regular internal audits of our business practices and procedures, examining confidentiality standards and information access in order to protect your personal information.</p>
+<p><strong>Changes to this Privacy Statement and Opting Out</strong><br>In the event GAIN Capital materially changes this Privacy Statement, the revised Privacy Statement will promptly be posted to our websites. By opening an account with us, you are deemed to agree to accept posting of a revised Privacy Statement electronically on our website as actual notice to you. </p>
+<p>Under certain circumstances, such as with respect to our sharing of your personal information with non-affiliated third parties, you may inform us that you would like to “opt out” by contacting us through the contact information listed below. Note that for joint accounts, an-opt out election made by one account owner of a joint account is applicable to all account owners of the joint account. An opt-out election must be made for each separate account you hold at GAIN Capital.</p>
+<p>Any dispute over our Privacy Statement is subject to this notice and the GAIN Capital Customer Agreement. If you have any questions that this Privacy Statement does not address, please contact a Client Services representative.</p>
+<p>You may contact GAIN Capital for any reason under this Privacy Statement, or otherwise, as follows:</p>
+<p><strong>Toll Free (US) Call<br></strong>1.877.GAINCAP (1.877.424.6227)</p>
+<p><strong>International Call<br></strong>+1.908.731.0700</p>
+<p><strong>Email<br></strong><a href="mailto:clientservices@gaincapital.com">clientservices@gaincapital.com</a> </p>
 <p><strong>Postal</strong><br>GAIN Capital<br>Attention: Privacy Issues<br>Bedminster One<br>135 US Highway 202/206<br>Suite 11<br>Bedminster, NJ 07921</p><div class="clearer" style="clear:both;height:0;visibility:hidden"></div>
-										
 					
-					 
+                    
+                    
+                    
+                    
 					<!-- Tagging is implemented here to display the related pairs for a given document -->
                     
 				</div>
@@ -1584,62 +1806,189 @@ To provide the fastest access to the trading platforms, we have made signing in 
 <div id="upper_footer">
 	<div class="float_wrapper">
 		<div class="links float_wrapper">
-			<ul>
-				<li class="title">
-					<a id="ctl00_ctl05_HyperLink1" href="/index.html">Welcome </a></li>
-				<li><a href="/index.html">Welcome </a></li><li><a href="/trading_forex_home.html">Why Us?</a></li><li><a href="/getting-started.html">Getting Started</a></li><li><a href="/open-account.html">Open an Account</a></li><li><a href="/ways-to-trade.html?Anc=eef2ee01-6ae3-4953-9d18-1d1899ec744c&amp;Pa=bfd87760-065d-45a0-ae28-2055257a4fa3">Ways to Trade</a></li><li><a href="/pricing.html">Pricing</a></li><li><a href="/institutional-services.html">Institutional Services</a></li><li><a href="/MyAccount.html">MyAccount </a></li>
-			</ul>
-			
-			
-					<ul>
-						<li class="title">
-							<a href="/Learn" class="title">Learn</a>
-						</li>
-						<li><a href="/Learn">Overview</a></li><li><a href="/Default.aspx?DN=87237a5d-35e7-4074-be87-875dcdd88c21">Video Tutorials</a></li><li><a href="/forex-webinars.html">Webinars</a></li><li><a href="/online-forex-courses.html">Online Courses</a></li><li><a href="/forex-events.html">Events</a></li><li><a href="/articles.html">Articles</a></li>
-
-					</ul>
-				
-					<ul>
-						<li class="title">
-							<a href="/trade.html" class="title">Trade</a>
-						</li>
-						<li><a href="/trade-overview.html">Overview</a></li><li><a href="/ways-to-trade.html">Ways to Trade</a></li><li><a href="/trade-currencies.html">Currencies</a></li><li><a href="/trade-metals.html">Metals </a></li>
-
-					</ul>
-				
-					<ul>
-						<li class="title">
-							<a href="/forex_research.html" class="title">Research &amp; Ideas</a>
-						</li>
-						<li><a href="/forex_research_overview.html">Research &amp; Ideas</a></li><li><a href="/latest-forex-research.html">Latest Research</a></li><li><a href="/research-weekly.html">Weekly Research</a></li><li><a href="/independent-research.html">Independent Research </a></li><li><a href="/economic_calendar.html">Economic Calendar</a></li>
-
-					</ul>
-				
-					<ul>
-						<li class="title">
-							<a href="/products.html" class="title">Products &amp; Services</a>
-						</li>
-						<li><a href="/products.html">Overview</a></li><li><a href="/forex-metatrader.html">MetaTrader 4</a></li><li><a href="/system-trading.html">System Trading</a></li><li><a href="/market-strategists.html">Market Strategists </a></li><li><a href="/forex_charting.html">Charting Packages </a></li>
-
-					</ul>
-				
-					<ul>
-						<li class="title">
-							<a href="/about.html" class="title">About Us</a>
-						</li>
-						<li><a href="/company.html">Company</a></li><li><a href="/press.html">Press Releases</a></li><li><a href="/awards.html">Awards</a></li><li><a href="/forex-jobs.html">Careers</a></li>
-
-					</ul>
-				
+		    
+                    
+	                    <ul>
+		                    <li class="title">
+			                    <a href="/index.html">Welcome</a>
+		                    </li>
+		                    
+				                    <li>
+					                    <a href="/index.html">Welcome</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/trading_forex_home.html">Why Us?</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/getting-started.html">Getting Started</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/open-account.html">Open an Account</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/ways-to-trade.html">Ways to Trade</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/pricing.html">Pricing</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/trade-execution-statistics.html">Execution</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="http://www.gaincapital.com/partners-index.shtml">Institutional Services</a>
+				                    </li>
+			                    
+	                    </ul>
+                    
+	                    <ul>
+		                    <li class="title">
+			                    <a href="/Learn">Learn</a>
+		                    </li>
+		                    
+				                    <li>
+					                    <a href="/Learn">Overview</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/forex-video-tutorials.html">Video Tutorials</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/webinars-beginners.html">Webinars</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/learn-to-trade-forex.html">Online Courses</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/events.html">Events</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/intro-forex-market.html">Articles</a>
+				                    </li>
+			                    
+	                    </ul>
+                    
+	                    <ul>
+		                    <li class="title">
+			                    <a href="/trade.html">Trade</a>
+		                    </li>
+		                    
+				                    <li>
+					                    <a href="/trade-overview.html">Overview</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/ways-to-trade.html">Ways to Trade</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/trade-currencies.html">Currencies</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/pricing.html">Pricing</a>
+				                    </li>
+			                    
+	                    </ul>
+                    
+	                    <ul>
+		                    <li class="title">
+			                    <a href="/forex_research.html">Research &amp; Ideas</a>
+		                    </li>
+		                    
+				                    <li>
+					                    <a href="/forex_research_overview.html">Research &amp; Ideas</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/latest-forex-research.html">Latest Research</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/trade-research-weekly-live.html">Weekly Research</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/independent-research.html">Premium Research</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/economic_calendar.html">Economic Calendar</a>
+				                    </li>
+			                    
+	                    </ul>
+                    
+	                    <ul>
+		                    <li class="title">
+			                    <a href="/products.html">Products &amp; Services</a>
+		                    </li>
+		                    
+				                    <li>
+					                    <a href="/products.html">Overview</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/forex-metatrader.html">MetaTrader 4</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/market-strategists.html">Market Strategists</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/forex_charting.html">Charting Packages</a>
+				                    </li>
+			                    
+	                    </ul>
+                    
+	                    <ul>
+		                    <li class="title">
+			                    <a href="/about.html">Corporate Info</a>
+		                    </li>
+		                    
+				                    <li>
+					                    <a href="http://ir.gaincapital.com/phoenix.zhtml?c=241648&amp;p=irol-govManage">Executive Team</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="/forex-jobs.html">Careers</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="http://ir.gaincapital.com/phoenix.zhtml?c=241648&amp;p=irol-irhome">Investor Relations</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="http://ir.gaincapital.com/phoenix.zhtml?c=241648&amp;p=irol-news&amp;nyo=0">Press Releases</a>
+				                    </li>
+			                    
+				                    <li>
+					                    <a href="http://www.gaincapital.com/index.shtml">Institutional Services</a>
+				                    </li>
+			                    
+	                    </ul>
+                    
+                
+            
 			
 			<div class="tagline">
-				    </div>
+				<span style="font-weight: bold; font-size: 14px ;">Follow us on</span> <a href="http://facebook.com/forex.com" target="_blank" onclick="pageTracker._trackPageview('outbound/facebook');"><img src="resources/images/common/btn_social_facebook_off.gif" align="absbottom" class="hover_button" border="0"></a> <a href="http://twitter.com/forexresearch" target="_blank" onclick="pageTracker._trackPageview('outbound/twitter');"><img src="resources/images/common/btn_social_twitter_off.gif" align="absbottom" class="hover_button" border="0"></a> <a href="http://www.forex.com/weekly.xml" target="_blank" onclick="pageTracker._trackPageview('outbound/rss');"><img src="resources/images/common/btn_social_rss_off.gif" align="absbottom" class="hover_button" border="0"></a></div>
 		</div>
 		
 		<div class="address_container">
-			<div class="account_box">
-				Ready to Get Started?
-				<a href="open-account.html?type=practice"><img alt="Open a free practice account" class="hover_button" src="resources/images/buttons/btn_open_free_account_off.gif"></a>
+			<div class="account_box" style="line-height:10px;">
+				Ready to Get Started?<br>
+				<a href="open-account.html?type=live"><img alt="Open a free practice account" class="hover_button" src="resources/images/buttons/btn_open_free_account_off.gif"></a>
 			</div>
 			<div class="vcard address">
 								<div class="adr">
@@ -1666,21 +2015,39 @@ To provide the fastest access to the trading platforms, we have made signing in 
 	</div>
 	
 
+
 				
 
 <div id="lower_footer">
 	<div class="float_wrapper">
 		<div class="legal">
-			Member, National Futures Association (NFA # 0339826).  
-Forex trading involves significant risk of loss and is not suitable for all investors. <a href="risk-warning.html" title="full disclosure">Full disclosure</a>.   Spot Gold contracts are not subject to regulation under the U.S. Commodity Exchange Act.  *Increasing leverage increases risk.<br>© 2010 FOREX.com<br><br>
+			FOREX.com is a registered FCM and RFED with the CFTC and member of the National Futures Association (NFA # 0339826). Forex trading involves significant risk of loss and is not suitable for all investors. <a href="risk-warning.html">Full Disclosure</a>. Spot Gold and Silver contracts are not subject to regulation under the U.S. Commodity Exchange Act. *Increasing leverage increases risk.<br>© 2011 FOREX.com<br><br>
 			<ul><li><a href="javascript:openWin();">Customer Agreement</a></li><li><a href="privacy-policy.html">Privacy Policy</a></li><li><a href="risk-warning.html">Risk Warning</a></li><li><a href="sitemap.html">Site Map</a></li><li class="last"><a href="pages/land-international.html">International</a></li></ul>
 		</div>
 		<div class="disclaimer_container">
 			<div class="disclaimer"></div>
-			<div class="company_info">FOREX.com is a division of <a href="http://www.gaincapital.com" title="GAIN Capital" target="_blank">GAIN Capital Group, LLC</a> </div>
-			<div>
-				
-						<script type="text/javascript" language="JavaScript" src="elqNow/elqCfg.js"></script>
+			<div class="company_info"><a href="http://www.gaincapital.com" title="GAIN Capital" target="_blank">GAIN Capital Holdings, Inc. (NYSE: GCAP)</a> </div>
+		</div>
+	</div>
+	<!-- do not remove -->
+	<div style="color:#EFEFEF">1103</div>
+	<!--do not remove -->
+</div>
+
+
+
+			</div>
+		</div>
+		
+	</form>
+	
+		
+    
+
+
+
+
+	    <script type="text/javascript" language="JavaScript" src="elqNow/elqCfg.js"></script>
 <script type="text/javascript" language="JavaScript" src="elqNow/elqImg.js"></script>
 <script type="text/javascript" language="JavaScript">
     var elqPPS = '70';
@@ -1704,21 +2071,5 @@ Forex trading involves significant risk of loss and is not suitable for all inve
 </script>
 
 <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-15450811-1");pageTracker._setDomainName("none");pageTracker._setAllowLinker(true);pageTracker._trackPageview();} catch(err) {}</script>
-                    				
-			</div>
-		</div>
-	</div>
-</div>
-
-
-			</div>
-		</div>
-		
-	</form>
-	
-		
-    
-
-
-
+     
 </body></html>
