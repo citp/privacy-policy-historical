@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funnyzela.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614220305id_/http%3A//funnyzela.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyzela.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214215059id_/http%3A//funnyzela.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Funnyzela.com - You will laugh so hard!
+# Privacy Policy | Funnyzela.com
 
 **Funnyzela** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
