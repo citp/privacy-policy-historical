@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casttv.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604202328id_/http%3A//www.casttv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casttv.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214050307id_/http%3A//www.casttv.com/privacy) for the most accurate reproduction.*
 
 # CastTV Video Search
 
