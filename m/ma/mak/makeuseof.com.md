@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the makeuseof.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625111500id_/http%3A//www.makeuseof.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeuseof.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214044441id_/http%3A//www.makeuseof.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy | MakeUseOf
-
-**Get 30+ Exclusive MakeUseOf Guides. Click Like to[Download](http://www.facebook.com/makeuseof?sk=app_4949752878) Now**
 
   * MakeUseOf.com recommends dozens of [cool websites](http://www.makeuseof.com/) and free products/services on a daily basis. In most cases we check the services and apps thoroughly beforehand. However sometimes we are not able to completely check the app as much as we would like to. Hence we would like to state that we can’t be held liable/responsible for any loss/damage/discomfort occurred as a result of using a MakeUseOf recommended product/service.
   * Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of MakeUseOf.com. The only possible exception to this is if you enter a MakeUseOf Giveaway contest. In some of these contests, it is clearly stated in the contest terms and conditions that your email address **may** be passed to the contest sponsor so they can contact you directly. Entering the contest implies that you give your consent to this happening.
