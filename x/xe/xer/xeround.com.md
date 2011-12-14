@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xeround.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629192024id_/http%3A//xeround.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeround.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214110347id_/http%3A//xeround.com/privacy-policy) for the most accurate reproduction.*
 
-# MySQL Cloud DBaaS Website and Service Privacy Policy | Xeround
+# Xeround Cloud DBaaS Website and Service Privacy Policy | Xeround
 
-LAST UPDATED: AUGUST 23, 2010
+Privacy policy for Xeround’s Cloud Database-as-a-Service ([DBaaS](http://xeround.com/mysql-cloud-db-overview/dbaas/)): LAST UPDATED: AUGUST 23, 2010
 
 Xeround, Inc. and its affiliates (“we, our or us”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit www.xeround.com (including any subdomains of this site or other sites owned by or operated on behalf of Xeround, Inc. and its affiliates., the “Site”) and when you use any part of our service or software via our Site (collectively, the “Service”). This Policy applies only to information that you provide to us through the Site or the Service or when you access or use any content appearing on the Site or made available through the Service, or that we collect on your behalf as part of the Service.
 
