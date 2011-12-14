@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the fantasyjewelrybox.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/faqs.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyjewelrybox.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/faqs.html) for the most accurate reproduction.*
 
 # Frequently Asked Questions — Fantasy Jewelry Box
+
+For the holiday season, Fantasy Jewelry Box will extend the period allowed for returns to accept all non-clearance items purchased after November 1st to be returned for a full refund by January 15th, 2012.
+
+Holiday Shipping
+
+For delivery prior to December 24th:
+
+USPS First Class Mail – Order by December 19th  
+USPS Priority Mail – Order by December 20th  
+Fedex 2nd Business Day – Order by December 21st  
+Fedex Next Business Day – Order by December 22nd
+
+USPS International Air – Order by December 12th  
+USPS International Express – Order by December 18th
 
 **Contact Information**
 
@@ -59,7 +73,7 @@
   
 Jewelry Glossary  
 
-  * [Click here for jewelry terms and definitions](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/jewelryglossary.html)
+  * [Click here for jewelry terms and definitions](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/jewelryglossary.html)
 
 
 
@@ -79,7 +93,7 @@ Jewelry Glossary
 
 **A:** Fantasy Jewelry Box takes your privacy seriously. We do not sell, lease or rent any of your personal information to any outside parties. Your information is stored securely and may be used internally by our company for contacting you regarding an order placed.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/www.networkadvertising.org/managing/opt_out.asp).
 
 **Q: When should I expect my items to arrive after my order is placed? How do you ship your items? What is your Shipping& Handling Charge?**
 
@@ -89,45 +103,45 @@ Delays may occur for products on back order, in limited availability or on speci
 
 **Q: What is your return& exchange policy?**
 
-**A:**[Click here](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/returnexchanges.html) for detailed return and exchange information.
+**A:**[Click here](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/returnexchanges.html) for detailed return and exchange information.
 
 **Q: What does your gift box look like?**
 
 **A:** If you choose to have your item gift wrapped, your order will arrive in an attractive pink 3 ½” x 3 ½” jewelry box topped with an elegant white satin bow. Your piece(s) will be placed inside a small black velvet pouch within the box. Additionally, the jewelry box will be nested inside an attractive 5”x5” white shipping box surrounded by elegant pearl white striped tissue paper. Perfect for gift-giving! We are extremely proud of our gift wrapping services and we promise you will be amazed at the response you will get from the lucky recipient!  
-To see an example of our gift boxing please [click here](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/giftboxing.html).
+To see an example of our gift boxing please [click here](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/giftboxing.html).
 
 **Q: How can I determine my ring size?**
 
-**A:**[Click here](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/ringsizer.html) for more information on determining your ring size.
+**A:**[Click here](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/ringsizer.html) for more information on determining your ring size.
 
 **  
 Q: How do I take care of my jewelry?**
 
-[Click here](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/jewelrycare.html) for more information on how to take care of your new jewelry.
+[Click here](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/jewelrycare.html) for more information on how to take care of your new jewelry.
 
 **  
 Q: What is Sterling Silver?**
 
-**A:**[Click here](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/aboutsilver.html) for more information about .925 Sterling Silver.
+**A:**[Click here](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/aboutsilver.html) for more information about .925 Sterling Silver.
 
 **  
 Q: What is cubic zirconia?**
 
-**A:**[Click here](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/aboutcz.html) for more information on cubic zirconias.
+**A:**[Click here](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/aboutcz.html) for more information on cubic zirconias.
 
 **  
 Q: What is rhodium?**
 
-**A:**[Click here](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/aboutrhodium.html) for more information on rhodium plating.
+**A:**[Click here](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/aboutrhodium.html) for more information on rhodium plating.
 
 **  
 Q: What is stainless steel?**
 
-**A:**[Click here](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/aboutst.html) for more information on stainless steel.
+**A:**[Click here](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/aboutst.html) for more information on stainless steel.
 
 **  
 Q: What is titanium?**
 
-**A:**[Click here](https://web.archive.org/web/20110630071619id_/http%3A//www.fantasyjewelrybox.com/aboutst.html) for more information on titanium.
+**A:**[Click here](https://web.archive.org/web/20111214080643id_/http%3A//www.fantasyjewelrybox.com/aboutst.html) for more information on titanium.
 
  
