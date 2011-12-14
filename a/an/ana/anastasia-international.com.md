@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anastasia-international.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624125616id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anastasia-international.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193736id_/http%3A//www.anastasiadate.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -123,7 +123,7 @@ Please note that whenever you submit any information to us in connection with an
 
 If you have any questions, comments or complaints about AnastasiaDate’s privacy policy and/or the way it affects you, please feel free to contact our [Customer Support](https://web.archive.org/pages/customersupport/questioncategories.aspx)
 
-**+1 (207) 262-9595**  
+**+1 (207) 262-0199**  
 **+1 (800) 356-3130**  
 **+1 (800) 234-0036**  
 
