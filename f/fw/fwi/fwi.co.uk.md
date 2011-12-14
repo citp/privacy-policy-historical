@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231233431id_/http%3A//www.fwi.co.uk/staticpages/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214195950id_/http%3A//www.fwi.co.uk/staticpages/Privacypolicy) for the most accurate reproduction.*
 
-# FarmersWeekly - Privacy policy
+# Privacy policy - Farmers Weekly
 
 _**Privacy Statement**_
 
@@ -51,3 +51,9 @@ You have the option to decline cookies, but if you decline you may not be able t
 _We strongly recommend you accept any cookies used by this site._
 
 In addition, the third party companies who sell and provide advertisements to the site make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: <http://www.adtech.info/privacy_en.php.>   [www.webtrendslive.com](http://www.webtrendslive.com/)
+
+Third party vendors, including Google, show our ads on sites on the internet.
+
+Third party vendors, including Google, use cookies to serve ads based on your prior visits to our website.
+
+Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html") – Or you can opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp").
