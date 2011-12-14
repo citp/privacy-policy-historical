@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629161040id_/http%3A//www.ddiworld.com/privacy/default%3Fid%3Den-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddiworld.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215003726id_/http%3A//www.ddiworld.com/privacy/default%3Fid%3Den-us) for the most accurate reproduction.*
 
 # Talent Management Expert | Development Dimensions International's Privacy Statement | DDI
 
