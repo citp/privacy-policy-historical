@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sparktrust.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525083448id_/http%3A//www.sparktrust.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparktrust.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214135654id_/http%3A//sparktrust.com/privacy) for the most accurate reproduction.*
 
-# SparkTrust
+# SparkTrust Systems
 
-SparkTrust Systems Inc. (“SparkTrust Systems”), makers of CommunityReviewed, is committed to protecting the privacy of any personal information you may submit and provide to us when visiting this website and/or using any of our services. This Privacy Policy describes SparkTrust Systems’ policy with respect to its collection, use, and disclosure of any personal information.
+SparkTrust Systems Inc. (“SparkTrust Systems”), makers of eTrue, is committed to protecting the privacy of any personal information you may submit and provide to us when visiting this website and/or using any of our services. This Privacy Policy describes SparkTrust Systems’ policy with respect to its collection, use, and disclosure of any personal information.
 
 Information Collection
 
@@ -53,6 +53,6 @@ By using the SparkTrust Systems Services, accessing the SparkTrust Systems web s
 
 If you have any questions regarding this privacy policy, please contact us at [info@sparktrust.com](mailto:info@sparktrust.com).
 
-### Safeguarding your online marketplace.
+### Hands free hacker protection.
 
-SparkTrust can provide you with a complete security and trust-building solution.
+SparkTrust provides a complete security and trust-building solution. 
