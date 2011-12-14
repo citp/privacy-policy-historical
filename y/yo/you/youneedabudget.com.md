@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616111331id_/http%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youneedabudget.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214195906id_/http%3A//www.youneedabudget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
