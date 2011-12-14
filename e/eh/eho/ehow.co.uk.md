@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320034759id_/http%3A//www.ehow.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214034217id_/http%3A//www.ehow.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eHow.co.uk
 
-**Effective Date: February 01, 2011**
+**Effective Date: February 2, 2011**
 
 We are Demand Media, Inc (" **Demand Media** ", "we", "us" or "our").
 
