@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the netobjects.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206133655id_/http%3A//netobjects.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netobjects.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214045546id_/http%3A//netobjects.com/html/privacy.html) for the most accurate reproduction.*
 
 # NetObjects Privacy Policy
 
 **NetObjects Privacy Policy**   
 The following is the privacy policy for the www.netobjects.com Site. In this policy, NetObjects Incorporated ("NetObjects") describes what personal information NetObjects collects on our site, how NetObjects uses it, and your options regarding information NetObjects may collect about you. Where more details are needed to explain our privacy practices as to a particular NetObjects product or service, we may post separate privacy notices to describe how a particular NetObjects product or service processes personal information which is accessible from the topic index to the right of this Policy and/or links to the same. NetObjects strives to adhere to U.S. privacy laws and internationally accepted privacy principles established by the European Union Data Protection Directive, and the U.S. Department of Commerce and the European Union Safe Harbor Privacy Principles and this Policy is registered and certified by the U.S. Department of Commerce Safe Harbor program to ensure that your personal information is protected adequately. Should you desire more information on the safe harbor principles, please go to www.export.gov/safeharbor. 
 
-If you have questions about this policy, please feel free to contact us at:  
-NetObjects Corporation   
- 4295 Point Pleasant Pike  
-P.O. Box 367  
-Danboro, PA 18916
+If you have questions about this policy, please feel free to contact us at:
+
+NetObjects Inc.  
+99 Lantern Drive  
+Suite 302  
+Doylestown, PA 18901
 
  **NetObjects's Use of Cookies and E-mail**  
 NetObjects collects cookies on our Web site to capture information about page visits. This information is anonymous and NetObjects uses this information only internally - to deliver the most effective content to our visitors. Information from the cookies is used to gauge page popularity, analyze traffic patterns on our site and guide development of other improvements to our site. NetObjects does not require that you accept cookies, however, some functionality on our Web site, our product or service check-out process, and products and services may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. You may also change your cookie settings through preferences options in our products and/or services, where applicable. NetObjects never gives away information about our users. If you choose to e-mail us and provide personally identifiable information about yourself, NetObjects will use this information only to respond to your inquiry. NetObjects will not sell, rent or otherwise disclose that information to third parties unless such disclosure is necessary for the purposes set forth in this Policy, by law or a policy or notice contained or associated with a specific NetObjects product or service. If you have any questions about our privacy practices, please contact our webmaster. 
@@ -74,11 +75,11 @@ NetObjects may create links to the sites of other parties. Independently operate
 Personal information that is not collected on the site is not generally subject to this Privacy Policy. 
 
   **NON-U.S. CUSTOMER INFORMATION**  
-If you are a customer or individual who is logging on from outside the United States, the personal information you submit to NetObjects will be sent to and stored in servers in our U.S. headquarters in Okemos, Michigan, U.S.A. The personal information practices set out in this Privacy Policy apply to all NetObjects products, services, and customers worldwide. You have a right of access and to correct such data and/or personal information. To exercise these rights, or for other data privacy questions, please contact/send an email to support@netobjects.com. 
+If you are a customer or individual who is logging on from outside the United States, the personal information you submit to NetObjects will be sent to and stored in servers in our U.S. headquarters. The personal information practices set out in this Privacy Policy apply to all NetObjects products, services, and customers worldwide. You have a right of access and to correct such data and/or personal information. To exercise these rights, or for other data privacy questions, please contact/send an email to support@netobjects.com. 
 
   **ENFORCEMENT**  
-NetObjects regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or NetObjects' treatment of personal information by contacting us through this Site at support@netObjects.com or by writing to us at Customer Relations, c/o NetObjects Incorporated, 4295 Point Pleasant Pike P.O. Box 367 Danboro, PA 18916, USA. When NetObjects receives a formal written complaint at this address, it is NetObjects' policy to contact the complaining party regarding his or her concerns. NetObjects will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by NetObjects and an individual. 
+NetObjects regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or NetObjects' treatment of personal information by contacting us through this Site at support@netObjects.com or by writing to us at Customer Relations, c/o NetObjects Inc., 99 Lantern Drive Suite 302, Doylestown, PA 18901,  USA. When NetObjects receives a formal written complaint at this address, it is NetObjects' policy to contact the complaining party regarding his or her concerns. NetObjects will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by NetObjects and an individual. 
 
   **NO ERROR FREE PERFORMANCE**  
 NetObjects does not guarantee error-free performance under this Privacy Policy. NetObjects will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when NetObjects learns of any failure to comply with our Privacy Policy. NetObjects shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the Commonwealth of Pennsylvania and the United States to the extent applicable.   
-Last Updated: 12/10/2009 07:56:52
+Last Updated: 06/08/2011 07:00:52
