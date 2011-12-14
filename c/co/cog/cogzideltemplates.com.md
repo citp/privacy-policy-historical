@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cogzideltemplates.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612155944id_/http%3A//www.cogzideltemplates.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cogzideltemplates.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193753id_/http%3A//www.cogzideltemplates.com/privacy_policy) for the most accurate reproduction.*
 
 # Cogzidel Templates - Ready to use Templates, Logos, Fonts, Headers, Flash Intros
 
@@ -28,7 +28,7 @@ We use this data to tailor our visitor's experience at our site showing them con
 
 **Security**
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We use strong SSL encryption to ensure your privacy. 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We use strong SSL encryption to ensure your privacy.
 
 **Third Parties**
 
@@ -36,7 +36,7 @@ Information collected on this site is strictly for our use, NO OTHER OUTSIDE PER
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: major@cogzideltemplates.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [major@cogzidel.com.](mailto:major@cogzidel.com)
 
 **Acceptable Use Policy**
 
@@ -44,7 +44,7 @@ Revision date: 11/19/2008
 
 As a provider of web site hosting and other Internet-related services, Cogzidel Templates offers its customer (also known as "Subscribers") and their customers and users the means to acquire and disseminate a wealth of public, private, commercial and non-commercial information. Cogzidel Templates respects that the Internet provides a forum for free and open discussion and dissemination of information. However, when there are competing interests at issue, Cogzidel Templates reserves the right to take certain preventive or corrective actions. In order to protect these competing interests, Cogzidel Templates has developed an Acceptable Use Policy ("AUP"), which supplements and explains certain terms of each customer's respective service agreement, and is intended as a guide to the customer's rights and obligations when using Cogzidel Templates' services. This AUP will be revised from time to time. 
 
-One important aspect of the Internet is that no one party owns or controls it. This fact accounts for much of the Internet's openness and value, but it also places a high premium on the judgment and responsibility of those who use it, both in the information they acquire and in the information they disseminate to others. When subscribers obtain information through the Internet, they must keep in mind that Cogzidel Templates cannot monitor, verify, warrant or vouch for the accuracy and quality of the information they acquire. For this reason, the subscriber must exercise his or her best judgment in relying on information obtained from the Internet, and also should be aware that some material posted to the Internet may be sexually explicit or otherwise offensive. Because Cogzidel Templates cannot monitor or censor the Internet, and will not attempt to do so, Cogzidel Templates cannot accept any responsibility for injury to its subscribers resulting from inaccurate, unsuitable, offensive or illegal Internet communications. 
+One important aspect of the Internet is that no one party owns or controls it. This fact accounts for much of the Internet's openness and value, but it also places a high premium on the judgment and responsibility of those who use it, both in the information they acquire and in the information they disseminate to others. When subscribers obtain information through the Internet, they must keep in mind that Cogzidel Templates cannot monitor, verify, warrant or vouch for the accuracy and quality of the information they acquire. For this reason, the subscriber must exercise his or her best judgment in relying on information obtained from the Internet, and also should be aware that some material posted to the Internet may be sexually explicit or otherwise offensive. Because Cogzidel Templates cannot monitor or censor the Internet, and will not attempt to do so, Cogzidel Templates cannot accept any responsibility for injury to its subscribers resulting from inaccurate, unsuitable, offensive or illegal Internet communications.
 
 When subscribers disseminate information from the Internet, they must keep in mind that Cogzidel Templates does not review, edit, censor or take responsibility for any information its subscribers may create. When users place information on the Internet, they have the same liability as other authors for copyright infringement, defamation and other harmful speech. Also, because the information created is carried over Cogzidel Templates' network and may reach a large number of people, including both subscribers and non-subscribers of Cogzidel Templates, subscribers' postings to the Internet may affect other subscribers and may affect Cogzidel Templates' goodwill, business, reputation or operations. For these reasons, subscribers violate Cogzidel Templates policy and the Service Agreement when they, their customers, affiliates or subsidiaries engage in the following prohibited activities:
 
@@ -102,7 +102,9 @@ Engaging in activities that are determined to be illegal, including, but not lim
 
 **Other Activities:**
 
-Engaging in activities, whether lawful or unlawful, that Cogzidel Templates determines to be harmful to its subscribers, operations, reputation, goodwill or customer relations. As we have pointed out, the responsibility for avoiding harmful activities just described rests primarily with the subscriber. Cogzidel Templates will not, as an ordinary practice, monitor the communications of its subscribers to ensure that the comply with Cogzidel Templates' policy or applicable law. However, when Cogzidel Templates becomes aware of harmful activities, it may take any action to stop the harmful activity, including, but not limited to, removal of information, shutting down a web site, implementing screening software designed to block offending transmissions, denying access to the Internet, or any other action deemed appropriate by Cogzidel Templates. 
+Engaging in activities, whether lawful or unlawful, that Cogzidel Templates determines to be harmful to its subscribers, operations, reputation, goodwill or customer relations. 
+
+As we have pointed out, the responsibility for avoiding harmful activities just described rests primarily with the subscriber. Cogzidel Templates will not, as an ordinary practice, monitor the communications of its subscribers to ensure that the comply with Cogzidel Templates' policy or applicable law. However, when Cogzidel Templates becomes aware of harmful activities, it may take any action to stop the harmful activity, including, but not limited to, removal of information, shutting down a web site, implementing screening software designed to block offending transmissions, denying access to the Internet, or any other action deemed appropriate by Cogzidel Templates. 
 
 Cogzidel Templates is also aware that many of its subscribers are themselves providers of Internet services, and that information reaching Cogzidel Templates' facilities from those subscribers may have originated from a customer of the subscriber or from another third party. Cogzidel Templates does not require its subscribers who offer Internet services to monitor or censor transmissions or web sites created by customers of its subscribers. Cogzidel Templates reserves the right to directly take action against a customer of its subscribers. Also, Cogzidel Templates may take action against the Cogzidel Templates' subscriber because of activities of a customer of the subscriber, even though the action may affect other customers of the subscriber. Similarly, Cogzidel Templates anticipates that subscribers who offer Internet services will cooperate with Cogzidel Templates in any corrective or preventive action that Cogzidel Templates deems necessary. Failure to cooperate with such corrective or preventive measures is a violation of Cogzidel Templates policy. 
 
