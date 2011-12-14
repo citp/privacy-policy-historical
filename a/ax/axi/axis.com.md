@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axis.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605093738id_/http%3A//www.axis.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axis.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214081423id_/http%3A//www.axis.com/privacy.htm) for the most accurate reproduction.*
 
 # Axis Communications - Privacy policy
 
@@ -42,7 +42,7 @@ Sometimes you will find links to third party sites on our Web pages. Please note
 
 Cookies
 
-A cookie is a piece of text that a Web site can store on your computer to enable it to recognize you when you return to the site. At Axis, we first ask for your permission to store cookies on your computer. Cookies help us to analyze visiting patterns on our Web site. It also helps us support customer relations by enabling us, for instance, to simplify your login procedure when you want to download software upgrades. Sometimes we use cookies to make your browsing experience easier or to enable us to make Web site usage analysis on an aggregated level (i.e. on a non-personal, collective manner for the purpose of tracking overall movements and visits to certain pages on our Web site, for example). 
+A cookie is a piece of text that a Web site can store on your computer to enable it to recognize you when you return to the site. At Axis, we first ask for your permission to store cookies on your computer. Cookies help us to analyze visiting patterns on our Web site. It also helps us support customer relations by enabling us, for instance, to simplify your login procedure when you want to download software upgrades. Sometimes we use cookies to make your browsing experience easier or to enable us to make Web site usage analysis on an aggregated level (i.e. on a non-personal, collective manner for the purpose of tracking overall movements and visits to certain pages on our Web site, for example). By visiting axis.com you thereby allow us to store cookies from Axis and third party companies acting on our behalf on your computer. 
 
-If you have any questions regarding this policy, please [contact us](https://web.archive.org/web/20110605093738id_/http%3A//www.axis.com/request/index.php?r=Privacy%20policy).  
+If you have any questions regarding this policy, please [contact us](https://web.archive.org/web/20111214081423id_/http%3A//www.axis.com/request/index.php?r=Privacy%20policy).  
  
