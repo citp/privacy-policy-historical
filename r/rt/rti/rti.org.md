@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615050932id_/http%3A//www.rti.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rti.org privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214230755id_/http%3A//rti.org/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - RTI International
 
@@ -8,7 +8,7 @@ The commitment of RTI International (RTI) to the protection of your information 
 
 We will not obtain personally identifying information about you when you visit our Site, unless you choose to provide such information to us.
 
-We will not share any personally identifying information about you with any third party without your permission, unless required by law (see [Terms of Use](https://web.archive.org/terms.cfm) page).
+We will not share any personally identifying information about you with any third party without your permission, unless required by law (see [Terms of Use](http://www.rti.org/terms.cfm) page).
 
 ###  Google Analytics
 
@@ -34,7 +34,7 @@ We collect and store only the following information about you:
 
 We use the information we collect to measure the number of visitors to the different sections of our Site, find out what information is most viewed, and to help us make our Site more useful to visitors.
 
-The information gathered is used for two purposes: management of the Site and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution (see [Terms of Use](https://web.archive.org/terms.cfm) page).
+The information gathered is used for two purposes: management of the Site and, in the case of suspected unauthorized activity, for law enforcement and possible criminal prosecution (see [Terms of Use](http://www.rti.org/terms.cfm) page).
 
 ###  If you decide to provide identifying information about yourself
 
