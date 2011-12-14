@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623115851id_/http%3A//www.anandtech.com/Home/Terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214025353id_/http%3A//www.anandtech.com/Home/Terms) for the most accurate reproduction.*
 
 # AnandTech - Terms
 
@@ -30,16 +30,20 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Latest from AnandTech
 
-[@JGallo02](http://twitter.com/JGallo02) awesome :) enjoy it! we're giving away two of them on the site next month, they really are great Honeycomb tablets for the price
+[@craziplaya21](http://twitter.com/craziplaya21) oh wow, that's a strange thing to remove
 
-[@JGallo02](http://twitter.com/JGallo02) the updated firmware makes such a big difference, did you get it with the dock?
+[@craziplaya21](http://twitter.com/craziplaya21) wow! that's totally it! I bet they fixed it, it's about time!
 
-[@JGallo02](http://twitter.com/JGallo02) yeah I was disappointed in it, overall the Eee Pad is great though. The Transformer 2 should be even better...
+[@craziplaya21](http://twitter.com/craziplaya21) older style, did they finally change it??? do you have a photo?
 
-[@JGallo02](http://twitter.com/JGallo02) we covered that in our review :-P <http://bit.ly/iB3ek8> it's actually trace-input by Nuance, similar to Swype but not as good imho
+About to go in the studio and record another video review after a bit of a hiatus, should do two this week
 
-[@jasonjoo](http://twitter.com/jasonjoo) most of them stay here and are used for further testing until they stop being useful
+[@jp_powers](http://twitter.com/jp_powers) for reliability? Intel, Samsung or Crucial/Micron - I've been pleased with the Samsung SSD 830 <http://t.co/GCCp8EC7> as of late
 
-Looks like it'll be this evening on those two reviews (still need some clarification on the BSOD situation from OCZ)
+RT [@intel](http://twitter.com/intel): Today we celebrate the 84th birthday of the late "Mayor of Silicon Valley," integrated circuit pioneer Robert Noyce <http://t.co/qO2M5RWE>
 
-Coming later today that is
+[@LinhN](http://twitter.com/LinhN) it really is, I checked continuity bxt the connector and the conductors in the cable and there literally was none, full DIN failure
+
+[@trevortinker](http://twitter.com/trevortinker) absolutely worth it, you'll get the same random read/write speed, just lower sequential speed, but still way faster than a HDD
+
+[@KikassAssassin](http://twitter.com/KikassAssassin) I agree on their home theater stuff, it's great, I do like the promedia sound, just hate the electrical probs :)
