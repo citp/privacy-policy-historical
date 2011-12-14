@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suite703.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515002208id_/http%3A//www.suite703.com/703-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suite703.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214095828id_/http%3A//www.suite703.com/703-privacy-policy.html) for the most accurate reproduction.*
 
 # Suite703 Privacy Policy
 
