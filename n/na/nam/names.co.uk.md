@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527204436id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214054238id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Namesco
 
