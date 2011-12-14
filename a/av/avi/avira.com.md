@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avira.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624080919id_/http%3A//www.avira.com/en/general-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avira.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214081114id_/http%3A//www.avira.com/en/general-privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -120,14 +120,14 @@ Please take into consideration the fact that the information sent to some forums
 
 For further questions or comments we are willing to provide you free information, directly and on request about your personal data stored by us. If requested, the information can also be provided in a digital form.
 
-Avira GmbH  
-Data security officer  
+Avira  
+Data Privacy Officer  
 Kaplaneiweg 1  
 D-88069 Tettnang  
 Germany  
 Phone: 07542/500-0  
 Email: [privacy@avira.com](mailto:privacy@avira.com)
 
-The following regulations include the Avira GmbH and its websites.
+The following regulations include Avira and its websites.
 
-Privacy declaration of Avira GmbH: stand March 2006
+Status August 2011
