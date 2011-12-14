@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotland.gov.uk privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608070131id_/http%3A//www.scotland.gov.uk/Disclaimers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotland.gov.uk privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214161606id_/http%3A//www.scotland.gov.uk/Disclaimers) for the most accurate reproduction.*
 
 # devolved government scotland – scottish assembly, civil service – Scottish Government Privacy Policy
 
@@ -24,24 +24,18 @@ Users have the opportunity to set their computers to accept all cookies, to noti
 
 Log files stored on the Government's web server allow the recording and analysis of users' use of the website. Log files do not contain any personal information.
 
-### Copyright
-
-The information and publications on the Scottish Government's website are subject to Crown Copyright. Material may be reproduced without formal permission or charge for personal or in-house use only. For other use or if in doubt, further information is available from <http://www.hmso.gov.uk/copyright.htm>.
-
-Guidance notes on publishing and copyright, including those from the Queen's Printer for Scotland, are available at <http://www.hmso.gov.uk/guides.htm>.
-
 ### Collection and Use of Personal Information
 
 ###   
 Information Collection
 
-The Scottish Government is the sole owner of the information collected on [www.scotland.gov.uk](https://web.archive.org/Home). The Scottish Government processes personal data for the purposes of aiding its work with the Scottish Ministers to improve the well-being of Scotland and its people.
+The Scottish Government is the sole owner of the information collected on [www.scotland.gov.uk](https://web.archive.org/Topics/Statistics/Browse/Economy/GDP/research). The Scottish Government processes personal data for the purposes of aiding its work with the Scottish Ministers to improve the well-being of Scotland and its people.
 
 ### Registration
 
 A user does not have to register to use the Scottish Government website, but a user must register if they wish to receive daily, weekly or monthly news, information and updates about the Government via email and mobile.
 
- **The registration information we require to allow a user to register is the full name and email address of the user if they wish to receive email updates, and mobile details including the mobile telephone number and network provider if a user wishes to receive messages to their mobile.**
+The registration information we require to allow a user to register is the full name and email address of the user if they wish to receive email updates, and mobile details including the mobile telephone number and network provider if a user wishes to receive messages to their mobile.
 
 It is optional for the user to provide demographic information such as occupation and gender, and other preferences such as regions or topics of interest, but encouraged so we can provide a more personalized experience to the user.
 
@@ -83,7 +77,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 Phone: 08457 741 741 [charged at the local call rate from any landline within the United Kingdom]   
 Email: [newswebsite@scotland.gsi.gov.uk](mailto:newswebsite@scotland.gsi.gov.uk),   
 Postal address: News Website, 3W.03, St Andrew's House, Regent Road, Edinburgh, EH1 3DG, U.K.   
-Web site URL: [http://www.scotland.gov.uk](https://web.archive.org/Home)
+Web site URL: [http://www.scotland.gov.uk](https://web.archive.org/Topics/Statistics/Browse/Economy/GDP/research)
 
 ### Blogs
 
@@ -91,4 +85,4 @@ All comments submitted are moderated in advance of being made public. There may 
 
 Please note that comments will usually be limited to a maximum of approximately 500 words.
 
-Page updated: Monday, May 17, 2010
+Page updated: Friday, August 5, 2011
