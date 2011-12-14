@@ -1,86 +1,50 @@
-> *The following text is extracted and transformed from the bibit.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318111638id_/http%3A//www.worldpay.us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bibit.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214083247id_/http%3A//www.worldpay.com/about_us/index.php%3Fpage%3Dprivacy%26c%3DWW) for the most accurate reproduction.*
 
-# WorldPay | Privacy Policy
+# About Us | Secure Online Global Payment Processing | WorldPay
 
-**Online Privacy Policy**
+We are committed to protecting your privacy. We recognise our responsibility to keep confidential at all times any information about you which we acquire in connection with your application. We protect your personal information to an equivalent high standard to that which you would experience through any other channels of the bank, such as bank branches, cash machines or on the telephone. Please note however that our responsibility is necessarily limited to protection by us of information which we obtain.
 
-We respect and value your privacy. Our Online Privacy Policy (“Privacy Policy”) describes and applies to the information we collect from you when you visit this website (“Website”). The terms “we,” “our,” and “us” in this Privacy Policy refer to WorldPay US, Inc. Our Privacy Policy generally describes how we collect, share, use, and protect your information.
+## Collection of Information
 
-**1\. Information That We Collect**
+To enable us to process your application we will typically acquire information which includes your name, your e-mail and business addresses, and other relevant business details.
 
-When you visit our Website, we receive and collect certain information about you. The information that we receive and collect depends in part on what you do when you visit our Website. You may be able to improve your experience on our Website when you tell us who you are – for example, by signing up for e-mail or newsletters, applying for products, making inquiries, or requesting further information about a product or service.
+## Use and disclosure of Information
 
-Some of the information you may submit is personally identifiable information, but much of it is not. Personally identifiable information is information that identifies a particular person. Examples include your name, phone number, address, and social security number. It is possible to browse our Website without actively submitting any personally identifiable information.
+Your information includes information about your transactions.
 
-We may use this information for a number of purposes, for example, to better service your requests and/or inquiries, monitor Website usage and/or performance, improve the customer experience of our Website, ensure technological compatibility with your computer, protect against fraud or identity theft, or conduct aggregate analyses on usage patterns.
+We may use and share your information with other members of the WorldPay group to help us and them:
 
-Automatically Collected Information  
-Every time you visit a website, some information is automatically collected from you. For example, this information may include some or all of the following items: your computer’s Internet protocol (IP) address and/or domain; type and version of Internet browser software and operating system you use; date, time, and duration of your Website access; specific pages, buttons, images, videos, links, or forms that you access while visiting the Website; and demographic information concerning the country of origin of your computer and the language(s) used by it.
-
-Information Collected via Cookies and Other Similar Technology  
-“Cookies” are small text files that are placed on your computer to distinguish you from other visitors to our Website. The use of cookies is a standard practice among websites to collect or track information about your activities while using the website. We or our third party advertising service providers may place cookies or similar files on your hard drive for many of the reasons listed above while visiting our Website. Most people do not know that cookies are being placed on their computers when they visit websites because browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can choose not to accept cookies. You can also delete cookies from your computer at any time. If you refuse cookies, the functionality of our Website may be impacted or become non-functional.
-
-In addition to using cookies, we or our third party advertising service providers may also use similar technologies to track users’ interactions with our Website. Some of these technologies include web beacons (transparent graphical images placed on a website) and flash objects.
-
-We may use these technologies on our Website to verify your identity, remember personal settings including your preferences, to offer you additional options or enhance your online experience, and to improve our products and services. We may also use them for marketing site personalization, and tracking of online applications and programs and/or track the effectiveness of advertisements for our products and services, referred to as banner ads, that we may place on our Website or other linked and/or partner websites. Cookies used for tracking advertising effectiveness do not collect personally identifiable information. In order to better serve you, some of these technologies allow us the ability to view your past interactions with our Websites and/or online banking environment for customer service, troubleshooting, risk analysis and fraud detection, as well as other related purposes.
-
-**2\. Information You Choose to Submit**
-
-For most of the browsing on our Website, we neither require nor collect personally identifiable information. You can browse our Website and take as much time as you want to review our services without having to submit such information.
-
-**3\. E-Mail Communications**
-
-Forms of communication such as, e-mail, text messaging, our Website Contact Us or similar forms, or other forms of electronic communication are inherently insecure. Please refrain from submitting sensitive personal information (such as account number, social security number, or credit card account number) via e-mail or similar method of communication.
-
-When you send an e-mail to us, you are communicating with us electronically and consent to receive reply communications from us or our providers electronically. We may retain the content of the e-mail, your e-mail address, and our response in order to better service your needs or for legal and regulatory reasons.
-
-**4\. Personal Information on Children**
-
-We respect the privacy of your children and encourage all parents to supervise their children’s computer usage. We do not knowingly collect or retain personal information from children under the age of thirteen. We advise all visitors to our Website under the age of 13 not to disclose or provide any personally identifiable information on our Website. To learn more about the Children’s Online Privacy Protect Act (COPPA) please visit the Federal Trade Commission’s website at [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy).
-
-**5\. Third Party Websites**
-
-Our Website may contain links to third party websites. These links and pointers to third party websites are not part of our Website. We do not make any representations or warranties regarding these third party websites. We are not responsible for any losses or damages in connection with the information, security, privacy practices, availability, content or accuracy of materials of such third party websites. These third party websites might have privacy policies different from us and third party websites may provide less privacy and/or security than our Website. We encourage you to review the privacy and security policies of all third party websites before you share any personally identifiable information.
-
-**6\. Additional Uses or Sharing of Your Information**
-
-In addition to those methods discussed in this Privacy Policy, we may use and share your information, including personally identifiable information, without limitation, in the following manner:
-
-  * In response to judicial or other governmental subpoenas, warrants and court orders served on us in accordance with their terms, or as otherwise required by applicable law;
-  * To comply with legal, regulatory or administrative requirements of governmental authorities;
-  * To protect our rights or property, protect our legitimate business interests, to enforce the provisions of our terms or policies, in cases of customer fraud/disputes, and/or to prevent harm to you or others;
-  * To protect or defend us, our subsidiaries, affiliates, or parent company and any of their officers, directors, employees, agents, contractors and partners, in connection with any legal action, claim or dispute;
-  * As disclosed in other applicable policies, terms of use, or other agreements; or
-  * As permitted or required by law or as authorized by you.
+  * assess financial and insurance risks;
+  * recover debt;
+  * prevent and detect crime;
+  * understand our customers' requirements;
+  * develop and test products and services
 
 
 
-**7\. Online Security**
+We do not disclose your information to anyone outside the Group except:
 
-We maintain security standards that are designed to protect your information as it is transmitted from your computer to our network. This technology is called Secure Socket Layer (SSL). SSL is the leading security protocol for data transfer on the Internet and helps to protect the safety and confidentiality of your online banking information.
+  * where we have your permission; or
+  * where we are required or permitted to do so by law; or
+  * to other companies who provide a service to us or you 
+  * where we may transfer rights and obligations under this agreement.
 
-**8\. How to Protect Your Personally Identifiable Information**
 
-You have a role in helping us by safeguarding your information from others. You have several options when deciding how you can best protect your personally identifiable information. One option is simply not to volunteer it. The Federal Trade Commission’s websites (www.ftc.gov, www.ftc.gov/idtheft, and www.onguardonline.gov) offer useful information about how to protect your personally identifiable information.
 
-**9\. Suspicious E-Mail**
+We may transfer your information to other countries. If we do this we will ensure that anyone to whom we pass it provides an adequate level of protection.
 
-We will never e-mail you to request personal account information over the Internet or by any other means. Help protect yourself against online fraud – if you suspect that an unsolicited e-mail is fraudulent, please contact us.
+From time to time we may change the way we use your information. Where we believe you may not reasonably expect such a change we shall write to you. If you do not object to the change within 60 days, you consent to that change.
 
-**10\. Notice to Persons Accessing this Website Outside the United States**
+If you would like a copy of the information we hold about you, please write to: WorldPay Limited, Units 270 -289, The Science Park, Milton Road, Cambridge, CB4 0WE. A fee may be payable.
 
-If you reside outside the U.S., any information you provide to us on our Website will be transferred out of your country and into the U.S. If you do not want your personally identifiable information to leave your country, do not provide the information to us. By providing personally identifiable information to us, you explicitly consent to the transfer of your information to the U.S.
+## Security
 
-**11\. Changes to our Online Privacy Policy**
+WorldPay is committed to protecting the security of your data. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities.
 
-Please note that we will periodically make changes to our Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of our Website constitutes your acceptance of any amendments to and the most recent versions of this Privacy Policy.
+## Cookies
 
-**12\. Questions or Comments**
+Cookies are text files, used by your computer's browser, that store visitor session data. Cookies, by themselves, do not identify the individual user. Cookies are commonly used on the Internet and do not harm your system.
 
-If you have any questions or comments concerning our Privacy Policy please let us know by emailing [privacy@worldpay.us](mailto:privacy@worldpay.us).
+We currently use cookies to collate general management data which is used to plan enhancements to our services. WorldPay **never** stores any personal information in cookies (on any computer that you may use) that can be used to identify you, such as your name or account numbers.
 
-PRINTING INSTRUCTIONS  
-For a copy of this document, use the print command on your web browser.
-
-_This Privacy Policy was last updated on: December 10, 2010_  
-
+If you do not want us to use cookies you may be able to configure your browser not to accept them. Please refer to your browser's 'help' facility for further information. However, you should bear in mind that this may affect our ability to process the transactions you wish to have authorised.
