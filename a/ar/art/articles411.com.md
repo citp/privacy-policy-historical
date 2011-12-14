@@ -1,25 +1,7 @@
-> *The following text is extracted and transformed from the articles411.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515003834id_/http%3A//www.articles411.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles411.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214153441id_/http%3A//www.articles411.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Niche Articles
+# Privacy Policy Submit Your Niche Articles
 
-889 Views
-
-* * *
-
-887 Views
-
-* * *
-
-842 Views
-
-| Active Users: | 43  
----|---  
-Accounts: | 0  
-Guests: | 43  
-Visits last 24h: | 3923  
-  
-* * *  
-  
 **Your Privacy**
 
 Your privacy is important to us.
@@ -39,5 +21,3 @@ When visiting Articles411, the IP address used to access the site will be logged
 **Changes to this Privacy Statement** The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of Articles411.com then you may contact us at privacy@articles411.com
 
 Last updated Thu, 01 Dec 2010 05:04
-
-| 
