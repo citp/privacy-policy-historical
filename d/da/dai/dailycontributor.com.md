@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dailycontributor.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624002825id_/http%3A//dailycontributor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycontributor.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214200200id_/http%3A//dailycontributor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Contributor
+
+## Privacy Policy
 
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
