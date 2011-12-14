@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unf.edu privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616110113id_/http%3A//www.unf.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D4294967533) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unf.edu privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214195822id_/http%3A//www.unf.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D4294967533) for the most accurate reproduction.*
 
 # University of North Florida - Privacy Policy
 
