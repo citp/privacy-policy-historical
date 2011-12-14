@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yahawaha.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616131532id_/http%3A//www.yahawaha.com%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahawaha.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193405id_/http%3A//www.yahawaha.com%3Fmenu%3Dprivacy) for the most accurate reproduction.*
 
 # Yaha Waha : Hot Bollywood News from All Over
 
