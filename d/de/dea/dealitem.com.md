@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the dealitem.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214152944id_/http%3A//dealitem.com/view/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealitem.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214043821id_/http%3A//dealitem.com/view/Privacy.aspx) for the most accurate reproduction.*
 
 # Dealitem.com - Privacy
 
-|   |    
----|---  
-  
 Dealitem.com respects the privacy and security of its users. Our goal is to provide you with a personalized Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. In order to achieve this goal, we sometimes collect information during your visits to understand what differentiates you from each of our millions of other users. 
 
 In order to demonstrate our commitment to your privacy, we have prepared this statement disclosing the privacy practices for the entire Dealitem.com site. Additional terms and conditions regarding the collection and use of your information are also be provided to you before you register for our site. Here, you will learn what personally identifiable information of yours is collected, how and when we might use your information, how we protect your information, who has access to your information, and how you can correct any inaccuracies in the information. 
@@ -55,16 +52,5 @@ If you use another Dealitem.com service, we may send you a confirmation e-mail c
 
 We welcome any questions or comments you have about Dealitem.com: please direct them to [our Contact Us Page](https://web.archive.org/EmailLink/?feedback=1). 
 
-|  |  |  My Coupon, Deal & Bargain Alerts  
----  
-   
-   
----  
-Social shopping with friends   
-   
-   
----  
-We chase deals and coupons   
-   
   
 
