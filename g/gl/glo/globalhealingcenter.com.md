@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the globalhealingcenter.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614210930id_/http%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalhealingcenter.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214010805id_/http%3A//www.globalhealingcenter.com/privacy) for the most accurate reproduction.*
 
-# Global Healing Center
+# Global Healing Center Privacy Policy
 
 This privacy notice discloses the privacy practices for www.ghchealth.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
@@ -54,4 +54,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 713-476-0016 or support@ghchealth.com.
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 713-476-0016 or support@globalhealingcenter.com.
