@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anothermag.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515171815id_/http%3A//www.anothermag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anothermag.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214211924id_/http%3A//www.anothermag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnOther
 
