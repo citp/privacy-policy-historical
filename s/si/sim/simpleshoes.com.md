@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the simpleshoes.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526200247id_/http%3A//www.simpleshoes.com/CustomerService/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleshoes.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214071150id_/http%3A//www.simpleshoes.com/CustomerService/privacy.aspx) for the most accurate reproduction.*
 
-# Simple Shoes - Privacy Policy
+# Simple Shoes – Privacy Policy
 
 ### Privacy Policy of Deckers Outdoor Corporation, Deckers Consumer Direct Corporation and Deckers Europe Limited ("Deckers") - United States
 
-The Deckers family of product lines (UGG® Australia, Teva®, Simple® Shoes, and Tsubo®) and accompanying domestic (uggaustralia.com, teva.com, simpleshoes.com and tsubo.com) and international websites takes the protection and proper use of your personal information seriously. We respect your privacy and take great care to safeguard information in our possession. Your preferences with regard to how we use your information are our highest priority.
+The Deckers family of product lines (UGG® Australia, Teva®, Simple® Shoes, Tsubo® and Ahnu®) and accompanying domestic (uggaustralia.com, teva.com, simpleshoes.com, tsubo.com and ahnu.com) and international websites takes the protection and proper use of your personal information seriously. We respect your privacy and take great care to safeguard information in our possession. Your preferences with regard to how we use your information are our highest priority.
 
 ### What personal information about our customers does Deckers gather and how does Deckers utilize such information?
 
 The information we obtain from customers and those that visit our sites helps us personalize and continually improve your shopping experience at Deckers' websites. Listed below are the types of information we gather and utilize.
 
-  * **Information you provide :** We receive and securely store any information you enter on our websites or provide to us in any other way. You can choose not to provide voluntary information. We use the information that you provide for purposes such as responding to your requests, customizing future shopping for you, improving our websites, and communicating with you. 
+  * **Information you provide:** We receive and securely store any information you enter on our websites or provide to us in any other way. You can choose not to provide voluntary information. We use the information that you provide for purposes such as responding to your requests, customizing future shopping for you, improving our websites, and communicating with you. 
 
-  * **Automatic Information :** Deckers and its affiliates that control third-party advertising on our sites receive and store certain types of information whenever you interact with us. This allows us to enhance your online shopping experience to an easier and more personalized level. For example, like many websites, we use "cookies" to obtain certain types of information when your web browser accesses a Deckers website. A "cookie" is a small information file that is sent to your computer and is stored on your hard drive. We use this information to remember you once you have logged into your account and to remember your shopping cart. No personally identifiable information is stored in the cookie and our cookies do not retrieve any other information from your hard drive. For further information about cookies, controlling and deleting them, please visit [ www.allaboutcookies.org](http://www.allaboutcookies.org/). Without cookies technology, we would not be able to recognize you and provide a personalized experience through the Deckers websites. 
+  * **Automatic Information:** Deckers and its affiliates that control third-party advertising on our sites receive and store certain types of information whenever you interact with us. This allows us to enhance your online shopping experience to an easier and more personalized level. For example, like many websites, we use "cookies" to obtain certain types of information when your web browser accesses a Deckers website. A "cookie" is a small information file that is sent to your computer and is stored on your hard drive. We use this information to remember you once you have logged into your account and to remember your shopping cart. No personally identifiable information is stored in the cookie and our cookies do not retrieve any other information from your hard drive. For further information about cookies, controlling and deleting them, please visit [ www.allaboutcookies.org](http://www.allaboutcookies.org/). Without cookies technology, we would not be able to recognize you and provide a personalized experience through the Deckers websites. 
 
-  * **Email Communications :** If you visit one of our sites and provide personal information, Deckers will often receive notice of your browsing activity on our sites and may send targeted marketing communication to you based on such activity. In addition, we often communicate with customers in connection with marketing and other related purposes based on your marketing preferences. If you change your mind later and do not want to receive email or other mail from us, please log-in to your account and change your preferences, in which case your email address will be used strictly for transactional and informational purposes regarding your purchases and/or inquiries. There will also be an opt out option in each email marketing communication we send.
+  * **Email Communications:** If you visit one of our sites and provide personal information, Deckers will often receive notice of your browsing activity on our sites and may send targeted marketing communication to you based on such activity. In addition, we often communicate with customers in connection with marketing and other related purposes based on your marketing preferences. If you change your mind later and do not want to receive email or other mail from us, please log-in to your account and change your preferences, in which case your email address will be used strictly for transactional and informational purposes regarding your purchases and/or inquiries. There will also be an opt out option in each email marketing communication we send.
 
-  * **Traditional Mail Marketing :** From time to time, Deckers utilizes personal information for traditional mail marketing purposes. If you do not want to receive mail from us, please log-in to your account and change your preferences, in which case your address will be used strictly for transactional and informational purposes regarding your purchases and/or inquiries.
+  * **Traditional Mail Marketing:** From time to time, Deckers utilizes personal information for traditional mail marketing purposes. If you do not want to receive mail from us, please log-in to your account and change your preferences, in which case your address will be used strictly for transactional and informational purposes regarding your purchases and/or inquiries.
 
 
 
@@ -25,13 +25,13 @@ The information we obtain from customers and those that visit our sites helps us
 
 Information about our customers is an important part of our business. We share customer information only as described below.
 
-  * **Agents :** We employ other firms to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but are contractually obligated to protect personal information. 
+  * **Agents:** We employ other firms to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but are contractually obligated to protect personal information. We may pass your personal information to credit referencing agencies (who may keep a record of your information) for the purposes of carrying out identity verification checks.
 
-  * **Trading Partners :** Deckers product lines are offered internationally in conjunction with select international trading partners. Any personal information shared with these trading partners is protected and may be used only according to the guidelines contained herein. 
+  * **Trading Partners:** Deckers product lines are offered internationally in conjunction with select international trading partners. Any personal information shared with these trading partners is protected and may be used only according to the guidelines contained herein. 
 
-  * **Protection of Deckers and Others :** We release account and other personal information when we believe release is appropriate to comply with the law or pursuant to potential or actual legal action. 
+  * **Protection of Deckers and Others:** We release account and other personal information when we believe release is appropriate to comply with the law or pursuant to potential or actual legal action. 
 
-  * **With your consent :** Other than as set out above, you will receive notice when information about you might go to third parties, except as provided below, and you will have the opportunity to choose not to share the information. The exception to this is if Deckers is ordered to produce such information through valid subpoena or court order. In those situations, Deckers will comply with the subpoena and/or court order and will not be required to provide you with any notice. 
+  * **With your consent:** Other than as set out above, you will receive notice when information about you might go to third parties, except as provided below, and you will have the opportunity to choose not to share the information. The exception to this is if Deckers is ordered to produce such information through valid subpoena or court order. In those situations, Deckers will comply with the subpoena and/or court order and will not be required to provide you with any notice. 
 
 
 
@@ -56,15 +56,15 @@ If you made a purchase from one of our sites, Deckers gives you access to inform
 
 ### Can I update, correct, or delete my personal information?
 
-Yes, if you made a purchase from one of our sites, you can log-in to your account to make changes to your personal information or change preferences. If you submitted personal information without making a purchase, if you email Deckers to change or delete your personal information, we will uphold your request. Deckers may retain changed or deleted information for archival purposes. 
+Yes, if you made a purchase from one of our sites, you can log-in to your account to make changes to your personal information or change preferences. If you submitted personal information without making a purchase, if you email Deckers at [info@simpleshoes.com](mailto:info@simpleshoes.com) to change or delete your personal information, we will uphold your request. Deckers may retain changed or deleted information for archival purposes. 
 
 ### How do I get in touch with Deckers?
 
-If you have any questions regarding this Privacy Policy, please contact us.
+If you have any questions regarding this Privacy Policy, please contact us by email at [info@simpleshoes.com](mailto:info@simpleshoes.com).
 
 ### What happens when the Privacy Policy changes?
 
-This Privacy Policy was last changed on 10-18-2009. Future changes will be noted on new editions of the Privacy Policy. We recommend that you refer back to this page often to become familiar with new changes in the policy. 
+This Privacy Policy was last changed on 9-29-2010. Future changes will be noted on new editions of the Privacy Policy. We recommend that you refer back to this page often to become familiar with new changes in the policy. 
 
 ### Children
 
