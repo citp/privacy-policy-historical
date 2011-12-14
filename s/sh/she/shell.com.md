@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618112241id_/http%3A//www.shell.com/home/content/footer/about_this_site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214230623id_/http%3A//www.shell.com/home/content/footer/about_this_site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Global
+# Privacy Policy | Global
 
   * What does this privacy policy cover? 
   * Who is responsible for the personal information collected on this site? 
