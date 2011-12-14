@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dare.co.in privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205143403id_/http%3A//dare.co.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dare.co.in privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214092225id_/http%3A//dare.co.in/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Privacy Policy | Home | DARE - Because Entrepreneurs Do |
+# Privacy Policy
 
 **Our commitment to your privacy **  
 Your privacy is important to us. This document outlines  what information we collect about you and how we use it.
