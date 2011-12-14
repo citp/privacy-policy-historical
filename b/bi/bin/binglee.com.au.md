@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228082158id_/http%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214063425id_/http%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bing Lee
+# Privacy Policy
 
 ## RESPECTING YOUR PRIVACY
 
