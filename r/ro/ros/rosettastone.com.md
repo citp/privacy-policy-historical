@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosettastone.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301140802id_/http%3A//www.rosettastone.com/content/dam/rosettastonecom/pdfs/US_Privacy_Policy_1025102.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosettastone.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214082238id_/http%3A//www.rosettastone.com/content/dam/rosettastonecom/pdfs/US_Privacy_Policy_1025102.pdf) for the most accurate reproduction.*
 
 # Overview
 
