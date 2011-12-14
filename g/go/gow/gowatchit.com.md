@@ -1,100 +1,67 @@
-> *The following text is extracted and transformed from the gowatchit.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowatchit.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214185543id_/http%3A//www.gowatchit.com/pages/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy | Watch It
 
-**Go Daddy Respects Your Privacy**
+Plexus Entertainment, LLC, a New York limited liability company (“Plexus”) is the owner and operator of GoWatchIt.com. We take the privacy of your personal information seriously. This Privacy Policy tells you how Plexus collects, uses and protects the information you provide in visiting GoWatchIt.com and using the services offered and the circumstances under which Plexus may disclose such information to third parties. This Privacy Policy, together with the Terms of Use posted elsewhere on GoWatchIt.com, sets forth the general rules and policies governing your use of GoWatchit.com and the services offered thereby. Depending on your activities when visiting GoWatchIt.com, you may be required to agree to additional terms and conditions. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+WHEN YOU ACCESS GOWATCHIT.COM, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING GOWATCHIT.COM. By accepting this Privacy Policy and the Terms of Use in registration, you expressly consent to the management of your personal information by Plexus as described herein. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**What This Privacy Policy Covers**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Policy covers the treatment by Plexus of information we collect when you register to use GoWatchIt.com and use the services offered. This policy does not describe the information collection and/or use policies on third party websites, including those linked on GoWatchIt.com.
 
-**Information Collection and Use**
+**The Information We Collect**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Personal Information You Provide to Us:** Plexus receives and stores any information you provide to us. The types of personal information collected may include your name, email address, zip code or other elective demographic information. The personal information you provide is used for such purposes as allowing you to set up a user account, responding to your requests, improving the content of the services offered, customizing the advertising and content you see and communicating with you about specials and new features.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Information Collected Automatically:** When you use the services offered at GoWatchIt.com, we automatically collect certain non-personally identifiable information, including your IP address, cookie information, the time and date of your visit, the pages that you access, browser type and configuration, the number of times you return to the website, your viewing preferences and your purchase history on third party sites. This information is not used to specifically identify you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Other Sources:** Plexus may periodically receive information about you from other sources such as updated address information. Any such information is then added to our account information.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**How We Use the Personally Identifiable Information We Collect**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or services or to communicate with you about content or other information you have posted or shared with us on GoWatchIt.com. You may opt-out from receiving future promotional information from Plexus at any time. In certain instances we may also share your personally identifiable information with third party vendors performing functions on our behalf (e.g., vendors that process credit card orders, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc.). Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via GoWatchIt.com, and with third parties who assist us in using the content or other information you have posted or shared with us via GoWatchIt.com. Further, Plexus may share your personally identifiable information with third parties such as co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**How We Use the Non-Personally Identifiable Information We Collect**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Plexus uses non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you.
 
-**Security**
+**Other Uses and Information:**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**IP Addresses:** An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that “serve up” web pages) automatically identify your computer by its IP address. When visitors request pages from GoWatchIt.com, our servers typically log their IP addresses. Plexus collects IP addresses for purposes of system administration, to report non-personal aggregate information to others and to track the use of GoWatchIt.com. IP addresses are considered non-personal information and may also be shared as provided above. It is not our practice to link IP addresses to anything personally identifiable. However, Plexus reserves the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; or (c) protect or defend our legal rights or property, GoWatchIt.com, or other users.
 
-**Updating Your Information**
+**Cookies, etc.:** “Cookies” are small text files from a website that are stored on your hard drive. These text files make using a website more convenient by, among other things, saving your passwords and preferences for you. Cookies themselves do not typically contain any personally identifiable information. Plexus may analyze the information derived from these cookies and other technological tools we employ and match this information with data provided by you or another party. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information. Please note that advertisers that serve advertisements on GoWatchIt.com may also use their own cookies and other technological tools which are subject to the advertiser’s privacy policies, not this Privacy Policy. If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of GoWatchIt.com may not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Email Communications:** If you send us an email with questions or comments, Plexus may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers or bank account information to us by email. However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us, we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, agree to some communications but not others. You may “opt out” of receiving future commercial email communications from us by clicking the “unsubscribe” link included at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Other:** Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counter-notices pursuant to our DMCA notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; or (c) protect or defend our legal rights or property, GoWatchIt.com or other users.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Children:** The features, programs, promotions and other aspects of GoWatchIt.com requiring the submission of personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at info@Plexusentertainment.com. A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof. 
 
-      iii.      You may call us at: (480) 505-8800
+**Affiliated Businesses We Do Not Control:** Plexus works closely with affiliated businesses that may offer and sell products or services to you or provide promotions to you through the GoWatchIt.com platform. You can easily recognize when one of these businesses is associated with your transaction, and Plexus will share your personal information with that business as needed to complete the transaction. At times, Plexus may share your personally identifiable information among different affiliated businesses. This information will be used to improve the content of GoWatchIt.com and to customize the content you see.
 
-       iv.      You may fax us at: (480) 505-8844
+**Advertising Partners We Do Not Control:** GoWatchIt.com may include third-party advertising and links to other websites. We do not provide any personally identifiable information to these advertisers or third-party websites. These third-party advertisers may use “cookies” or web beacons to measure the effectiveness of their ads and to personalize advertising content. Plexus does not have access to or control over “cookies” or other features that such third-party advertisers may use and the information practices of such third-party advertisers and third-party websites are not covered by this Privacy Policy.
 
-**Sending Emails**
+**Public Forums:** Plexus may offer chat rooms, message boards, bulletin boards or similar public forums where you and other users of GoWatchIt.com can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to this Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through GoWatchIt.com.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**Data Control Options**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+You can always choose not to provide information, even if it means that you will no longer be able to receive certain updated information from us or participate in the services that we provide. You may choose to opt out of promotional correspondence, such as newsletters, by indicating your preference on the registration page or by adjusting your preferences after you have registered. You may also select “private” when registering as a new user to opt out of sharing your personalized movie queue with social media sites. If you have already registered, you may adjust your preferences at any time.
 
-**Compliance with Laws and Law Enforcement**
+**How we protect the Security of Your Information**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Plexus maintains an information security program that uses reasonable and appropriate measures to protect the security, confidentiality and integrity of your personal information. All of your personal information, including user names and passwords, is encrypted. While Plexus strives to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and expressly disclaim responsible and/or liability for the theft, destruction or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as that term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by email (in our sole and absolute discretion) to the last email address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation.
 
-**Third Party Service Providers**
+**Changes to This Privacy Policy**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Plexus reserves the right to modify the terms of this Privacy Policy at any time and from time to time and your continued use of the services offered by GoWatchIt.com after the institution of any such changes will constitute your acceptance of such changes. If at any point we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify you of this change by email to the last email address provided to us. Users will have a choice (by means of an opt out opportunity) as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected if you opt out of the new policy.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**Contact Information**
 
-**Supplementation of Information**
+Questions or comments regarding this Privacy Policy should be sent by e-mail to info@plexusentertainment.com or by U.S. mail to Plexus Entertainment, 295 Greenwich St., #173, NY, NY 10007. You may also contact us if: (a) you have questions or comments about this Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our partners; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of GoWatchIt.com.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**This Privacy Policy as posted hereon is the sole statement of the Plexus privacy policy with respect to GoWatchIt.com and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless Plexus posts a new or revised policy on GoWatchIt.com.
 
-**Contests/Surveys**
+Last Updated October 17, 2011
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**
