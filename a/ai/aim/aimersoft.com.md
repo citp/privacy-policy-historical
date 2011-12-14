@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aimersoft.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203070604id_/http%3A//www.aimersoft.com/other/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimersoft.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214182345id_/http%3A//www.aimersoft.com/other/privacy-policy.html) for the most accurate reproduction.*
 
 # Aimersoft Software Privacy Policy
 
