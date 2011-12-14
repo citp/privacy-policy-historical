@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bagsnob.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623111723id_/http%3A//www.bagsnob.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagsnob.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214083141id_/http%3A//www.bagsnob.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Bag Snob: Reviews of Designer Handbags, Authentic Designer Purses, and Leather Bags
+# Privacy Policy - Bag Snob
 
 Please read this statement carefully before proceeding to access the Bag Snob web site. Your use of the Bag Snob web site indicates your agreement to abide by the Terms in effect.
 
@@ -20,7 +20,7 @@ Bag Snob maintains a mailing list. In order to sign up to receive regular emails
 
 In order to further enhance the Bag Snob user experience, Bag Snob may launch a discussion board service where users can discuss common topics of interest. Users will have the option of signing up for this service, and to do so must submit information including a valid email address. Bag Snob uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Bag Snob will not pass this information to any other organization except in aggregate form.
 
-The discussion board service may use cookies. A cookie is a piece of data stored on the user?s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+The discussion board service may use cookies. A cookie is a piece of data stored on the user?s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
 By setting a cookie on Bag Snob, users will not have to log in a password more than once, thereby saving time while on the Bag Snob discussion board. We store a cookie on each user?s machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Bag Snob products or services that require you to sign in and you may not be able to take full advantage of all offerings. However, not all Bag Snob services require that you accept cookies.
 
@@ -30,7 +30,7 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 **Third Party Advertising**
 
-The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, [please click here](http://www.google.com/privacy.html).
+The ads appearing on this Web site are delivered to users by Google, among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, [please click here](http://www.google.com/privacy.html).
 
 **Log Files**
 
