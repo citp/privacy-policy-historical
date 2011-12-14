@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synnd.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623044935id_/http%3A//synnd.com/social-media-science-llc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synnd.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214193728id_/http%3A//synnd.com/social-media-science-llc-privacy-policy) for the most accurate reproduction.*
 
 # SOCIAL MEDIA SCIENCE, LLC PRIVACY POLICY | Synnd: The Content Syndication Network
 
