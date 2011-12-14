@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mamaway.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605193910id_/http%3A//www.mamaway.com/ec99/Rgcj10/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamaway.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214110126id_/http%3A//www.mamaway.com/ec99/Rgcj10/Privacy.asp) for the most accurate reproduction.*
 
-# Mamaway Maternity and Nursing wear, Nusing in comfort.discretion and style
+# www.mamaway.com
 
 |   
 ---  
