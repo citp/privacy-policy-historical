@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxnewsradio.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605101146id_/http%3A//radio.foxnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxnewsradio.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214194337id_/http%3A//radio.foxnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « FOX News Radio
 
@@ -22,7 +22,7 @@ Summary of the FOX News Privacy Policy:
 
 Fox News Network, L.L.C. (“FOX News” or “we”) operates foxnews.com, foxbusiness.com, foxnews.mobi, m.foxbusiness.com, the FOX News iPhone application, the FOX Business iPhone application, the FOX News Android application, the FOX Business Android application, and any other FOX News owned and controlled URL, WAP site and mobile application (collectively, the “Site”), FOX News messaging services, video services, RSS feeds, podcasting services, mobile services, and any other feature, content, or applications offered from time to time by FOX News in connection with FOX News’ business (collectively, the “FOX News Services”).  FOX News is part of the United States based operations of News Corporation.
 
-As set forth in our [Terms of Use](https://web.archive.org/web/20110605101146id_/http://radio.foxnews.com/terms-of-use), FOX News is a general audience site, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
+As set forth in our [Terms of Use](https://web.archive.org/web/20111214194337id_/http%3A//terms-of-use), FOX News is a general audience site, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age.
 
 This Privacy Policy describes FOX News’s collection and use of users’ personal information (e.g., information that identifies a specific person, such as full name or email address).  It also describes generally FOX News’s practices for handling non-personally identifiable information (e.g., user interests, demographics and site usage) to the extent such information is associated with a particular user or user account.  This Privacy Policy applies to all “users,” including both visitors (users who use some of the FOX News Services without being registered) and “Members” (users who have registered with FOX News).
 
