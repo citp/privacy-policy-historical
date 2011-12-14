@@ -1,0 +1,37 @@
+> *The following text is extracted and transformed from the 9luxe.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215002958id_/http%3A//www.9luxe.com/en/privacy.php) for the most accurate reproduction.*
+
+# 9Luxe.com|privacy
+
+1\. Disclaimer & Privacy Policy.
+
+The information we collect through our Site helps us provide you with information specific to your needs and interests. This privacy policy (the "Privacy Policy") covers the 9Luxe website (the "Site"). Please read below to review our Privacy Policy and the types of information we gather through our Site. In this Privacy Policy, "we", "us", "our" and other similar references mean 9Luxe and "you" and "your" and other similar references mean a specific user of the Site. By visiting the Site, you accept the practices described in this Privacy Policy.
+
+2\. How Does 9Luxe Gather and Use Information?
+
+(i) Cookies. Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Websites typically use temporary cookies called "session" cookies to ensure that you are recognised when you move from page to page within one site and that any information you have entered is remembered. For example, if an e-commerce site did not use session cookies then items placed in a shopping basket would disappear by the time you reach the checkout. Websites also use cookies called "persistent" cookies to enable a website to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. 9Luxe attempts to install both persistent and session cookies when a user arrives at our Site. Cookies enable our systems to gather information about your navigational patterns through the site. Viewers have the option to accept or disable cookies at any time through their browsers. Visit the "help" portion of your toolbar for more information. If you block or refuse to accept cookies, or delete cookies between visits to the site, you may not be able to access or use certain features or functions of our Site.
+
+(ii) Server Statistics. We collect general statistics to track user trends on our Site. These statistics include hits to our server, the types of browsers used to access our Site, page views, and navigational patterns. The information that is collected in this manner does NOT provide us with any personally identifiable information about our users. It helps us track "where" our users are coming from. This allows us to pinpoint high traffic areas and determine the most effective ways to communicate with our users. As part of that ongoing analysis, 9Luxe also uses devices called "web beacons" to help us identify when emails sent to you have been received and read. In order to prevent the introduction of viruses and hackers into the 9Luxe site we may collect information, such as IP addresses, into a log file to be used to identify potential hackers of the 9Luxe site.
+
+(iii) Personal Information You Provide Us. For the purposes of this Privacy Policy, "Personal Information" is any information that identifies you, would enable someone to contact you, or that describes your relationship with 9Luxe. We collect and store Personal Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. While you are not required to submit any information to our Site, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Site and we may not be able to provide you with certain services. 9Luxe uses your Personal Information to complete transactions, respond to your requests, deliver the products and services you request, and notify you of promotions, updates, or special offers (which may be offered by 9Luxe or one of its Site Affiliates via email) that we think may interest you. If you are already receiving 9luxe.com emails and no longer wish to receive such communications, simply follow the "unsubscribe" instructions that appear in every 9luxe.com e-email, or contact us through the preference center to modify subscriptions.
+
+3\. What Security Procedures Does 9Luxe Use To Protect Personal Information?
+
+We use physical, electronic, and administrative safeguards to assist us in preventing unauthorized access, maintaining data accuracy, and correctly using your Personal Information. Except as specified in this Privacy Policy, we use commercially reasonable efforts to limit access to your Personal Information to the employees, agents, and officers of 9Luxe who need the information for their jobs.
+
+4\. Will 9Luxe Disclose The Information It Collects To Outside Parties?
+
+9Luxe may share information with its subsidiaries and other affiliated companies, and with other carefully selected vendors and business partners with whom we work (collectively, "Site Affiliates"). This includes companies that offer affinity, frequent-user, and reward programs; and, companies that perform marketing services and other business operations for us (including providing goods and services to our users, as necessary to complete transactions you request). All companies that act on our behalf are contractually obligated to keep all information confidential and to use the customer information only to provide the services we ask them to perform for you and us. We may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third party vendors, but these statistics do not include Personal Information. We may disclose Personal Information we collect from you if required to do so by law or in the good-faith belief that disclosure is necessary (a) to obey the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or the rights or property of other users of our Site; or (c) to act in an emergency to protect the personal safety of users of our Site or the public. On a limited basis, we may also disclose your Personal Information to certain Site Affiliates for their use in contacting you, when we reasonably believe their products or services are complementary to your interests or 9Luxe business.
+
+5\. External Links. Other companies or organizations may have links to their Sites on our Site.
+
+We are not responsible for how these other companies or organizations collect, use, disclose, or secure the information that you provide them. If you choose to access a third party Site linked to our Site, you do so at your own risk and subject to any terms of service or privacy policy (if any) associated with such third party Sites.
+
+6\. Collection Of Information From Children.
+
+9Luxe does not direct any of our content specifically to children. Users of our Site are required to be at least 18 years old, and any user under 18 is not an authorized user. If we learn that a user is under thirteen (13) years of age, we will promptly delete any Personal Information we have collected about that user.
+
+7\. In Summary.
+
+9Luxe is committed to protecting your privacy. The information collected from our Site helps us better understand our market and consumer interests. This allows us to serve our customers and business associates with the level of satisfaction they deserve.
+
+9If you have questions or suggestions regarding this Privacy Policy or our privacy practices please send an email message to privacy@9luxe.com.
