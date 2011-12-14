@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430131036id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesallen.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214215412id_/http%3A//www.jamesallen.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Learn about JamesAllen.com and our diamonds and engagement rings.
 
