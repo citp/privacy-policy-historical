@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224034313id_/http%3A//teamer.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamer.net privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214231025id_/http%3A//teamer.net/pages/privacy) for the most accurate reproduction.*
 
 # teamer: sports team management - teamer.net privacy statement
 
@@ -76,6 +76,6 @@ Teamer.net may update this privacy policy by posting a new version on this websi
 If you have any questions about this privacy policy or Teamer.net treatment of your personal information, please write to:
 
   * By email to help@teamer.net or 
-  * By post to Unit 4, Minehill Business Centre, Kilternan, Co Dublin. Ireland
+  * By post to 1st Floor, 63 Deerpark Road, Mount Merrion, Co Dublin. Ireland
 
 
