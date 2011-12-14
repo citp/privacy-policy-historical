@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deluxetemplates.net privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131190824id_/http%3A//www.deluxetemplates.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deluxetemplates.net privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214020753id_/http%3A//www.deluxetemplates.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Blogger Template | DeluxeTemplates
 
