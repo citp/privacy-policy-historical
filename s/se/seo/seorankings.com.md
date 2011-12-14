@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seorankings.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603071128id_/http%3A//www.seorankings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seorankings.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214180506id_/http%3A//www.seorankings.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Rankings.com
 
@@ -22,4 +22,4 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to certain services or programs, such as logging into forums or accounts.
 
 **Policy Changes, Questions & Comments**  
-Our privacy policy may change at any time. We’ll post changes to this policy on this page. Additional questions about this policy should be emailed using [this form](http://www.seorankings.com/contact/).
+Our privacy policy may change at any time. We’ll post changes to this policy on this page. Additional questions about this policy should be emailed using [this form](http://www.seorankings.com/contact).
