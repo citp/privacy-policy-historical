@@ -1,8 +1,25 @@
-> *The following text is extracted and transformed from the 1mobile.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221112156id_/http%3A//1mobile.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1mobile.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214120133id_/http%3A//www.1mobile.com/info/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Terms of Use
 
-As you visit the 1mobile.com, some personal information may be collected passively, including your Internet protocol address, browser type, access time, and mobile phone mode.   
-The User agrees to use Cookies, which we send to your phone or device to store certain information about your use of our Services. The User is also free to de-activate and/or delete Cookies by following their Internet browser instructions. Most web browsers accept Cookies by default, but If you have changed your browser preferences to reject Cookies, some services of our site may not work properly.  
-Our software and the site’s traffic analyzer use IP trackers to collect data for statistical purposes. We track IP protocol addresses to analyze our web page flow, session information, and click stream data.  
-We use your Personal Information to provide Services to you, to respond to requests that you make, to personalize your online experience on the 1mobile.com, and to optimize the features, performance, and support of the sites.
+1Mobile.com is serious about protecting the privacy of its users. We know the success of our business depends on our ability to maintain our user trust.
+
+If you have any concerns with our products or privacy policy, please [click here](mailto:contact@1mobile.com) to contact us. We read every message submitted and try to reply to each one promptly. We may also file your comments to improve the program and site.
+
+When does 1mobile collect personally- identifiable information? 
+
+1mobile will only collect your information if it is already licensed to us, for example, new software release subscriptions for users, software submissions from developers, or orders from customers. We won't collect any personally- identifiable information about you, such as your name, address, phone number, or email address without your knowledge, and will take measures to protect your privacy.
+
+How does 1mobile use the information?
+
+When you authorize us to provide you with new software releases, you��re granting us permission to send information to you via email on a daily, weekly or other time basis. If you would rather not receive this information, you can always easily remove your email address from our mailing list.
+
+When you submit software to our download library, we may offer the product information and other available information to the users. Because of complaints about spamming, your email address is no longer included on our web pages and is not published in the New Upload Digests, etc. However, our hands are tied and we simply MUST request your email address because we will be forwarding messages, complaints, etc. from users and audience to that address.
+
+We may also need to contact you about upload problems, etc. You can always easily remove your software and information from our library via email.
+
+When you purchase products from us, additional information is needed to fill your order. Any information provided will NOT be sold or given to any third party(ies) by any means, and will only be used for sending you the Registration Information and free upgrades via email. If you email us for help, your email address will only be used to send you replies.
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice or your regarding the use of this information by these companies, please visit http://www.networkadvertising.org/managing/opt_out.asp.
+
+Please do not hesitate to [contact us](mailto:contact@1mobile.com)with any questions or concerns.
