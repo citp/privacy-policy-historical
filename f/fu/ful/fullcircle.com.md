@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fullcircle.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616013718id_/http%3A//www.fullcircle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcircle.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215003141id_/http%3A//www.fullcircle.com/privacy-policy) for the most accurate reproduction.*
 
-# Full Circle | Privacy Policy
+# Privacy Policy - Full Circle
 
 **Our Commitment to Your Privacy** Protecting your privacy is important to us. We hope the following statement will help you understand how Full Circle collects, uses and safeguards the personal information you provide.
 
@@ -19,4 +19,4 @@ Full Circle does not disclose, sell, trade, rent, or otherwise reveal credit car
 
 E-mail addresses on file are the property of our members and will never be used by Full Circle other than to contact the owner of the e-mail address in regard to Full Circle related business. Full Circle will not disclose, sell, trade, rent, or otherwise reveal individuals’ e-mail addresses to a third party.
 
-**Disclosure and Updates** The Full Circle Privacy Policy outlined above is subject to any legal requirements of disclosure dictated by statute or by an order of an appropriate court of law. The most current version of this Privacy Policy may always be found at www.fullcircle.com/privacy.html.
+**Disclosure and Updates** The Full Circle Privacy Policy outlined above is subject to any legal requirements of disclosure dictated by statute or by an order of an appropriate court of law. The most current version of this Privacy Policy may always be found at [www.fullcircle.com/privacy-policy/](https://web.archive.org/privacy-policy/).
