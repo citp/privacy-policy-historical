@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldpay.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226054357id_/http%3A//www.worldpay.com/about_us/index.php%3Fpage%3Dprivacy%26c%3DWW) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpay.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214083247id_/http%3A//www.worldpay.com/about_us/index.php%3Fpage%3Dprivacy%26c%3DWW) for the most accurate reproduction.*
 
 # About Us | Secure Online Global Payment Processing | WorldPay
 
