@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the couponconnections.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515163731id_/http%3A//couponconnectionsnw.com/2010/04/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponconnections.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214023108id_/http%3A//couponconnections.com/2010/04/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Extreme Couponing - Coupon Connections
 
-Privacy Policy for Couponconnectionsnw.com
+Privacy Policy for Couponconnections.com
 
-The privacy of our visitors to Couponconnectionsnw.com is important to us.
+The privacy of our visitors to Couponconnections.com is important to us.
 
-At Couponconnectionsnw.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Couponconnectionsnw.com, and how we safeguard your information. We never sell your personal information to third parties.
+At Couponconnectionsnw.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit Couponconnections.com, and how we safeguard your information. We never sell your personal information to third parties.
 
 **Log Files**  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
@@ -23,6 +23,13 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
+**Third-Party Adverting**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
 AdSense Privacy Policy Provided by [JenSense](http://draft.blogger.com/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
 
-[](http://www.printfriendly.com/)
+[](http://www.printfriendly.com/print/v2?url=http://couponconnections.com/2010/04/privacy-policy/)
+
+_[Disclosure](http://couponconnections.com/disclosure-policy/): This post may contain affiliate links. When you use them, you help support this site. Thanks!_
+
+Tagged as: [privacy policy](http://couponconnections.com/tag/privacy-policy/)
