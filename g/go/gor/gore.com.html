@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gore.com privacy policy that was archived on 2011-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110511054625id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gore.com privacy policy that was archived on 2011-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111214031811id_/http%3A//www.gore.com/en_xx/footer/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="cufon-active cufon-ready"><head>		
   <link rel="stylesheet" type="text/css" href="/common/css/global.css">
@@ -8,6 +8,9 @@
   <link rel="stylesheet" type="text/css" href="/common/css/sIFR-print.css" media="print">
   <link rel="stylesheet" type="text/css" href="/common/css/en_xx/localization.css">
     
+	<link rel="stylesheet" type="text/css" href="/common/css/shadowbox.css">
+	 <link rel="stylesheet" type="text/css" href="/common/css/shadowbox_custom.css">
+	 
   <!--[if IE 6]><link rel="stylesheet" type="text/css" href='/common/css/ie6.css'/><![endif]-->
   <!--[if IE 6]><link rel="stylesheet" type="text/css" href='/common/css/ie6_en_xx.css'/><![endif]-->
   <!--[if IE]>
@@ -105,20 +108,17 @@ myWind.focus()
 				<div id="ctrl">
 							
 				
-            <form id="search" action="http://www.gore.com/searchgore/Content" style="{margin: 0px 0px 0px 0px;}" name="search_terms_form" onsubmit="return(validateSearchTerm(this))">
-                <label class="search" for="query">Search</label>
-                <input type="hidden" name="N" value="0">
-                <input type="hidden" name="Ntx" value="mode+matchallpartial">
-                <input type="hidden" name="Ntk" value="all">
-                <input type="hidden" name="Nty" value="0">
-                <input type="hidden" name="Nr" value="p_locale:en_xx">
-				<input type="hidden" name="site" value="en_xx">
-                <input type="hidden" name="action" value="search">
-                <input type="text" name="Ntt" value="" id="searchterms" maxlength="50">
-               <input type="image" class="go" src="/images/btn-go.gif" alt="Go">
-            </form>
-            
-            <script language="javascript">
+            <form id="search" action="http://www.gore.com/search/index" style="{margin: 0px 0px 0px 0px;}" name="search_terms_form" onsubmit="return(validateSearchTerm(this))">
+				   <label class="search" for="query">Search</label>	   
+					<input type="hidden" name="N" value="0">
+					<input type="hidden" name="Ntx" value="mode+matchallpartial">
+					<input type="hidden" name="Ntk" value="all">
+					<input type="hidden" name="Nty" value="1"> 
+					<input type="hidden" name="site" value="en_xx">						
+					<input type="text" name="Ntt" size="25" value="" id="searchterms" maxlength="50">	       
+					<input type="image" src="/images/btn-go.gif" alt="Go">	   		
+				</form>
+		   <script language="javascript">
                 function validateSearchTerm() {	
                     //check for blank values	
                     var searchTerm = document.search_terms_form.Ntt.value;
@@ -144,6 +144,7 @@ myWind.focus()
                       <option value="/ja_jp/">Japan / 日本</option>
                       <option value="/ko_kr/">Korea / 한국</option>
                       <option value="/zh_cn/">China / 中国</option>
+                      <option value="/zh_tw/">Taiwan / 台灣</option>
                       </select>
 					</form>
 				</div><div id="menubar">
@@ -259,7 +260,7 @@ myWind.focus()
       © Copyright 2011 W. L. Gore &amp; Associates, Inc.</p>
   </div>
 <!-- 
-	date/time:  May 10, 20113:02:38 PM EST  
+	date/time:  December 9, 20116:32:52 PM EST  
 	 - gore_landing_c - 1090407417410
 -->
 
@@ -298,6 +299,12 @@ myWind.focus()
 			<script type="text/javascript" src="/common/js/cufon/Meta_500-Meta_700.font.js"></script>
 			<!--/Cufon-->		
 			<script type="text/javascript" src="/common/js/gore_dot_com.js"></script>
+		<script type="text/javascript" src="/common/js/shadowbox.js"></script>
+
+		<script type="text/javascript">
+			Shadowbox.init();
+		</script>
+		
 		<script>
 			GORECOM.pages.home.init();
 		</script>
@@ -406,4 +413,4 @@ myWind.focus()
 	
 
 
-</body></html>
+<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
