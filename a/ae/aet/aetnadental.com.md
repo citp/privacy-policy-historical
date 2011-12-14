@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aetnadental.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129221829id_/http%3A//www.aetna.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetnadental.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214083205id_/http%3A//www.aetna.com/about/privacy.html) for the most accurate reproduction.*
 
 # Web Privacy Statement -- Aetna
 
