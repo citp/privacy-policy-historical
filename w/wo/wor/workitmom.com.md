@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workitmom.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020126id_/http%3A//www.workitmom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workitmom.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214134715id_/http%3A//www.workitmom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Work It, Mom!
 
