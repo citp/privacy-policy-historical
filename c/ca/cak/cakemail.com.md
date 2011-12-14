@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cakemail.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212195509id_/http%3A//www.cakemail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakemail.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215003440id_/http%3A//www.cakemail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CakeMail
 
-## Preamble
+### Privacy Policy
 
 This privacy policy declaration applies to the following parties:
 
@@ -79,6 +79,6 @@ The following person is responsible for assuring that all parties conform to the
 
 Mr. François Lane  
 CakeMail Inc.  
-145 - 4020 St-Ambroise  
+145 – 4020 St-Ambroise  
 Montréal, Quebec, Canada, H4G 1R4  
 Complaints or concerns: [privacy@cakemail.com](mailto:privacy@cakemail.com)
