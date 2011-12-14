@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the policytiger.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304020421id_/http%3A//policytiger.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policytiger.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214081223id_/http%3A//policytiger.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Health Insurance Plans, Online Health Insurance Policy, Life Insurance Plans, Health Insurance Premium, Car Insurance Premium, Travel Insurance Premium
 
 **PolicyTiger.com respects your** privacy. By accessing this site, certain information about you, such as Internet protocol (IP) addresses, navigation through the site, the systems and programs used and the time spent, along with other similar information, may be stored on our servers. 
+
+By availing of our services to generate a quote, you agree to being contacted by insurance companies over the phone with the relevant product(s) even though you might have subscribed to NDNC registry.
 
 Please be informed that the same may be used by us for web site traffic analysis or for such other purposes as we may deem appropriate.
 
