@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconarchive.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610154122id_/http%3A//www.iconarchive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconarchive.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214040021id_/http%3A//www.iconarchive.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,11 +9,10 @@ IconArchive.com respects the privacy and rights of its visitors. We do not colle
 
 ## Visitor Stats
 
-We are using two different web analytics services to improve and optimize our website.  
-Both services use cookies to track visitor behaviour. For further details please visit their privacy policies. 
+We are using one web analytics services to improve and optimize our website.  
+This service uses cookies to track visitor behaviour. For further details please visit the privacy policy. 
 
   1. [Google Analytics](http://www.google.com/analytics/) ([Privacy Policy](http://www.google.com/privacy.html)) 
-  2. [Quantcast](http://www.quantcast.com/) ([Privacy Policy](http://www.quantcast.com/privacy)). [View our Quantcast stats.](http://www.quantcast.com/iconarchive.com)
 
 
 
@@ -22,11 +21,12 @@ Both services use cookies to track visitor behaviour. For further details please
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).  
 We use the following ad networks: 
 
-  1. Burst! Media ([Privacy Policy](http://www.burstmedia.com/isl/privacy.asp)) 
-  2. Casale Media ([Privacy Policy](http://www.casalemedia.com/privacy.html)) 
-  3. Google Adsense ([Privacy Policy](http://www.google.com/privacy.html)) 
-  4. Tribal Fusion ([Privacy Policy](http://www.exponential.com/who-we-are/privacy-policy.jsp)) 
-  5. Valueclickmedia ([Privacy Policy](http://www.valueclickmedia.com/privacy.shtml)) 
+  1. Google Adsense ([Privacy Policy](http://www.google.com/privacy.html)) 
+  2. Tribal Fusion ([Privacy Policy](http://www.exponential.com/who-we-are/privacy-policy.jsp)) 
+  3. BuySellAds ([Privacy Policy](http://buysellads.com/about/privacy)) 
+  4. Burst! Media ([Privacy Policy](http://www.burstmedia.com/isl/privacy.asp)) 
+  5. Lijit ([Privacy Policy](http://www.lijit.com/company/privacy-policy)) 
+  6. Valueclickmedia ([Privacy Policy](http://www.valueclickmedia.com/privacy.shtml)) 
 
 
 
@@ -35,6 +35,12 @@ We use the following ad networks:
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+## Social Networks
+
+  * Facebook: We display a facebook box with the "I like this" button feature on most pages. ([Privacy Policy](http://www.facebook.com/about/privacy/)) 
 
 
 
