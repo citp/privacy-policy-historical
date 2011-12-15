@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the memrise.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604163842id_/http%3A//www.memrise.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memrise.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215165200id_/http%3A//www.memrise.com/privacy) for the most accurate reproduction.*
 
-# Memrise vocabulary learning and memorable dictionary
+# Memrise - the fun way to learn anything
 
-## Privacy Policy
-
-Last Updated 20th July 2010
-
-The following is our Privacy Policy, which outlines our responsibilities toward your personal information. It is kept here at [http://www.memrise.com/privacypolicy/](https://web.archive.org/privacypolicy/). For our terms of use, please visit [http://www.memrise.com/termsofuse/](https://web.archive.org/termsofuse/). 
+The following is our Privacy Policy, which outlines our responsibilities toward your personal information. It is kept here at [http://www.memrise.com/privacypolicy/](https://web.archive.org/privacy/). For our terms of use, please visit [http://www.memrise.com/termsofuse/](https://web.archive.org/terms/). 
 
 Memrise collects personal information, such as your name and email address, from you at the point of “User Registration” (as defined in our terms of use). Moreover, we track many of the actions you perform on our site in order to improve the quality of our service. Unless required by law, we will not share this information with anybody. We’ll let you know about any significant changes by putting a notice up here 30 days before they become effective, and by emailing all Registered Users 30 days in advance where any changes are material.
 
