@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the housecleaningcentral.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629141723id_/http%3A//www.housecleaningcentral.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housecleaningcentral.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215064629id_/http%3A//www.housecleaningcentral.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
 
-# Mrs Clean Privacy Policy | Mrs Clean | Cleaning Services
+# Mrs Clean Privacy Policy | Mrs Clean
 
 Your privacy is protected with us. We will not sell, rent, release, or otherwise disseminate your personal information without your permission.
 
@@ -20,8 +20,8 @@ PO Box 12001,
 Mill Creek, WA. 98082  
 USA.
 
-3223 164th ST SW Suite 2  
-Lynnwood, WA. 98037  
+3223 164th St SW # M  
+Lynnwood, WA. 98087-3214  
 USA.
 
 ## Dispute Resolution
@@ -63,8 +63,6 @@ We use third-party advertising companies to serve ads when you visit our website
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with selected companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
   * [Amazon privacy policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
-  * [Kontera privacy policy](http://www.kontera.com/em-privacy-policy).
-  * [Commission Junction privacy policy](https://www.cj.com/privacy.html).
   * [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
 
 
