@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtickets24.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521042932id_/http%3A//www.airtickets24.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtickets24.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215062247id_/http%3A//www.airtickets24.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Airtickets24.com
 
