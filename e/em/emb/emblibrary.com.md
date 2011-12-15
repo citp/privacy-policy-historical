@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525062056id_/http%3A//www.emblibrary.com/EL/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215061520id_/http%3A//www.emblibrary.com/EL/Privacy.aspx) for the most accurate reproduction.*
 
-# Embroidery Library - Privacy Policy
+# Machine Embroidery Designs at Embroidery Library! - Privacy Policy
 
 ## Privacy Statement for Embroidery Library Inc.  
 This page was last edited on 04/20/2011
