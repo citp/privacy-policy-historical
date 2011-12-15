@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsatisfaction.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125000957id_/http%3A//getsatisfaction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsatisfaction.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215023214id_/http%3A//getsatisfaction.com/privacy) for the most accurate reproduction.*
 
 # Get Satisfaction Privacy Policy - Get Satisfaction
 
