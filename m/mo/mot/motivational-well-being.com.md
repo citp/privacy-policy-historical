@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivational-well-being.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125234308id_/http%3A//www.motivational-well-being.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivational-well-being.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215033929id_/http%3A//www.motivational-well-being.com/legal.html) for the most accurate reproduction.*
 
 # Legal Disclaimer | Privacy Policy
 
@@ -44,11 +44,15 @@ This Blog contains links to other sites. Please be aware that I am not responsib
 
 Advertisers
 
-I use outside ad companies to display ads on this site. These ads may contain cookies and are collected by the advertising companies and I do not have access to this information. I work with the following advertising companies: Google Adsense, Allposters, Shareasale. Please check the advertisers websites for respective privacy policies.
+I use outside ad companies to display ads on this site. These ads may contain cookies and are collected by the advertising companies and I do not have access to this information. The following are some of the advertising companies I use: Google Adsense, Allposters, Shareasale, Amazon, and CJ.com. Please check the advertisers websites for respective privacy policies.
+
+Affiliate
+
+The products that are recommended on this site are through affiliate programs which means I get paid a commission if a visitor buys the product(s) using my link. 
 
 Contact Information
 
-If you have any questions or concerns please contact me on the contacts page. This privacy policy was updated in April 2009.
+If you have any questions or concerns please contact me on the contacts page. This privacy policy was updated in February 2011.
 
-[](http://www.motivational-well-being.com/)  
+  
 
