@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3essentials.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513071836id_/http%3A//3essentials.com/tos-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3essentials.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215024115id_/http%3A//www.3essentials.com/tos-privacy.asp) for the most accurate reproduction.*
 
 # 3Essentials Hosting - Privacy Policy
 
