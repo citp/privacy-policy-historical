@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewsoniceurope.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617050812id_/http%3A//www.viewsoniceurope.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewsoniceurope.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215181912id_/http%3A//www.viewsoniceurope.com/uk/privacy) for the most accurate reproduction.*
 
 # ViewSonic - Contact us
 
