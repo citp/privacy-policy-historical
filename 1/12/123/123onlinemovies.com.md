@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 123onlinemovies.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516151923id_/http%3A//www.123onlinemovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123onlinemovies.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215123908id_/http%3A//movies.rangu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Free Online Movies, Bollywood News, Gossips, Telugu Movies, Hindi Movies, TV Shows, Cricket, Watch Free Online Hindi Movies, Tollywood News
 
-We at 123OnlineMovies.com respect the privacy concerns of the users of this site and have created this privacy policy to explain a)what information we gather from you when you visit our site, b) how we may use such information, c) your choices concerning how we may use such information and d) the security measures we take to protect such information. 
+We at rangu.com respect the privacy concerns of the users of this site and have created this privacy policy to explain a)what information we gather from you when you visit our site, b) how we may use such information, c) your choices concerning how we may use such information and d) the security measures we take to protect such information. 
 
 **WHAT INFORMATION WE COLLECT**  
 Some information is collected on this site automatically through our technology, other information is collected only when you choose to give it to us. 
@@ -30,6 +30,6 @@ We reserve the right to modify, alter or otherwise update this Privacy Policy at
 
 **QUESTIONS**
 
-If you have any questions related to this Privacy Policy, please contact us using the [Contact Us page](http://www.123onlinemovies.com/contact-us) . 
+If you have any questions related to this Privacy Policy, please contact us using the [Contact Us page](http://movies.rangu.com/contact-us) . 
 
 .
