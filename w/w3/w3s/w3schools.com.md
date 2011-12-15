@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611172631id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215080423id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
@@ -57,20 +57,4 @@ For any questions about this privacy statement, please contact:
   
 
 
-* * *
-
-* * *
-
-## Make your web applications look like a million bucks
-
-[ ](http://www.fusioncharts.com/flash?utm_source=w3schools&utm_medium=web&utm_content=prod_spotlight_million_bucks&utm_campaign=FC_v3_2_Mktg) |    | 
-
-Most web applications today use boring methods to present data to their viewers using grids or simple HTML tables. FusionCharts induces "life" into the web applications by converting monotonous data into lively charts, gauges & maps.
-
-FusionCharts works with all technologies like ASP, ASP.NET, PHP, ColdFusion, Ruby on Rails, JSP, HTML pages etc. and connects to any database to render animated & interactive charts. It takes less than 15 minutes and no expertise whatsoever to build your first chart and just a glance of it to captivate your audience. This fact is endorsed by our 17,000 customers and 330,000 users which include a majority of the Fortune 500 companies. And yeah, your applications could look like a million bucks by spending just $199.
-
-So go ahead, [ download your copy of FusionCharts](http://www.fusioncharts.com/flash?utm_source=w3schools&utm_medium=web&utm_content=prod_spotlight_million_bucks&utm_campaign=FC_v3_2_Mktg) and start "wow-ing" your customers now!  
-  
----|---|---  
-  
 * * *
