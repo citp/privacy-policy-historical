@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esmartstart.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617033252id_/http%3A//www.esmartstart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmartstart.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215223852id_/http%3A//www.esmartstart.com/privacy.php) for the most accurate reproduction.*
 
-# eSmartStart - Free Web Hosting!
+# eSmartStart - Smart Web Hosting!
 
 Privacy Statement  
 **Commitment to Privacy:**
