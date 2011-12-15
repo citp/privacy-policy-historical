@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tubely.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626061944id_/http%3A//www.tubely.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tubely.com privacy policy that was archived on 2011-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215070717id_/http%3A//www.tubely.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,13 +10,18 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 	<link href="http://staticstore.tubely.com/css/styles_v3.css" type="text/css" rel="stylesheet">
 	<link href="http://staticstore.tubely.com/images/common/favicon.ico" rel="shortcut icon" type="image/x-icon">
-	<link href="http://staticstore.tubely.com/css/header_v4.css" type="text/css" rel="stylesheet">
+	<link href="http://staticstore.tubely.com/css/hdr.css" type="text/css" rel="stylesheet">
+	<link href="http://staticstore.tubely.com/css/tbar.css" type="text/css" rel="stylesheet">
 	<script type="text/javascript">var formData	= "GET:::###~###POST:::";</script>
-	<script src="http://staticstore.tubely.com/javascript/header_v1.js" type="text/javascript"></script>
+	<script src="http://staticstore.tubely.com/javascript/hdr.js" type="text/javascript"></script>
 	<script src="http://staticstore.tubely.com/javascript/functions_v8.js" type="text/javascript"></script>
 	<script src="http://staticstore.tubely.com/javascript/flashobject.js" type="text/javascript"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>	
+	<script type="text/javascript" src="http://staticstore.tubely.com/javascript/tbar.js"></script>
+<style type="text/css">.g_d{display:none;height:0;overflow:visible;position:fixed;top:0;z-index:101;}</style>
 <!--[if lte IE 6]>
 <style type="text/css">
+.g_d{height:0;overflow:visible;position:absolute;top:0;width:500px; z-index:101;}
 #address{position:absolute;top:expression(fixedIE('Top',0));right:expression(fixedIE('right',0));z-index:101;}
 #div_feedback {display:none;height:0;overflow:visible;position:absolute;top:expression(fixedIE('Top',0));width:450px;z-index:101;}
 #greybg {background-color:#666666;opacity:0.8;position:absolute;height:100%;width:100%;z-index:100;top:expression(fixedIE('Top',100));visibility:hidden;}
@@ -142,48 +147,111 @@
 </div>
 <script type="text/javascript">irmenu();</script>
 <div id="hdrBrk"></div>
+<style>
+.fbHeadLink{text-decoration:none;color:#005BBB; font-weight:bold; font-size:12px;}
+.fbHeadLink:hover{text-decoration:underline;color:#005BBB; font-weight:bold; font-size:12px;}
+.fbButton{-moz-border-radius: 4px 4px 4px 4px;background-color: #098BD6;border-color: #5EB6E8 #0B77B7 #0B77B7;border-right: 2px solid #0B77B7;border-style: solid;border-width: 2px;color: white;cursor: pointer;font-size: 130%;font-weight: bold;margin-right: 5px;overflow: visible;padding: 1px 15px;}
+</style>
+<script>
+function FHead(opt)
+{
+	if(opt == "idea")
+	{
+		document.getElementById('dvFHead').innerHTML = "Share an idea";
+		document.getElementById('feed_commnets').value = "Describe your idea";
+		document.getElementById('feed_commnets').style.color = "#999999";
+	}	
+	else if(opt == "question")
+	{
+		document.getElementById('dvFHead').innerHTML = "Ask a question";
+		document.getElementById('feed_commnets').value = "Describe your question";
+		document.getElementById('feed_commnets').style.color = "#999999";
+	}	
+	else if(opt == "problem")
+	{
+		document.getElementById('dvFHead').innerHTML = "Report a problem";
+		document.getElementById('feed_commnets').value = "Describe your problem";
+		document.getElementById('feed_commnets').style.color = "#999999";
+	}	
+	else if(opt == "praise")
+	{
+		document.getElementById('dvFHead').innerHTML = "Give praise";
+		document.getElementById('feed_commnets').value = "Describe your praise";
+		document.getElementById('feed_commnets').style.color = "#999999";
+	}	
+}
+
+function validateFbComment()
+{
+	chFeedback();
+	add_feedback();
+}	
+function chFeedback()
+{
+	sComment = document.getElementById('feed_commnets').value;
+	if(sComment == "Describe your idea" || sComment == "Describe your question" || sComment == "Describe your problem" || sComment == "Describe your praise")
+	{
+		document.getElementById('feed_commnets').style.color = "#000000";
+		document.getElementById('feed_commnets').value = "";
+	}	
+	else	
+		document.getElementById('feed_commnets').style.color = "#000000";
+}
+</script>
 <div id="address"><img src="http://staticstore.tubely.com/images/common/feedback.gif" style="cursor:pointer;" onclick="show_feedback('block');"></div>
-	<div id="div_feedback">
-	<table class="pdt" id="pdt" style="width: 532px;">
-	<tbody><tr>
-		<td class="p_tl"></td><td class="p_b p_t"></td><td class="p_tr"></td>
-	</tr>
-	<tr>
-		<td class="p_b p_s"></td>
-		<td id="p_c" class="p_c">
-			<div style="float:right; padding:5px;"><a style="color:#000000; text-decoration:none" href="javascript:close_feedback()">X</a></div>
-			<h2 class="dialog_title"><span>Enter your comment:</span></h2>
-			<table width="100%" border="0" cellspacing="5" cellpadding="5" id="tblFeed">
-			<tbody><tr>
-				<td><textarea id="feed_commnets" cols="55" rows="5"></textarea></td>
-			</tr>
-			<tr>
-				<td style="padding:5px;">
-					<div id="feed_sbmt"><input type="button" onclick="add_feedback();" value="Submit" class="inputsubmit"></div>
-					<div id="feed_ldng" style="display:none; padding:5px;"><img src="http://staticstore.tubely.com/images/common/progress_bar.gif"></div>
-				</td>
-			</tr>
-			</tbody></table>
-		</td>
-		<td class="p_b p_s"></td>
-	</tr>
-	<tr>
-		<td class="p_bl"></td><td class="p_b p_b"></td><td class="pop_br"></td>
-	</tr>
-	</tbody></table>
-	</div>
-<div id="greybg"></div>
-<div class="g_d" id="dlg-alert">
-<div class="g_d_p">
-<a name="#afr"></a>
-<table class="pdt" id="pdt" style="width: 532px;">
+<div id="div_feedback">
+<table class="pdt" id="pdt" style="width: 400px;">
 <tbody><tr><td class="p_tl"></td><td class="p_b p_t"></td><td class="p_tr"></td></tr>
-<tr><td class="p_b p_s"></td><td id="p_c" class="p_c"><div id="frndData"></div></td><td class="p_b p_s"></td></tr>
+<tr>
+	<td class="p_b p_s"></td>
+	<td id="p_c" class="p_c">
+		<table width="100%" bgcolor="#EDEDED">
+		<tbody><tr>
+			<td>
+				<div id="dvFHead" style=" float:left;font-family: Arial; font-size: 14px; color: #40454F; font-weight: bold">Share an idea</div><div style="float:right; padding:5px;"><a style="color:#000000; text-decoration:none" href="javascript:close_feedback()">X</a></div><table border="0" width="100%" style="padding:5px;">
+				
+				
+				<tbody><tr>
+				<td>
+					<table width="100%" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td><a href="javascript:FHead('idea')"><img border="0" align="absmiddle" src="http://staticstore.tubely.com/images/feedback/feedback_tab_idea.png" height="16" width="16" style="padding-right:5px;"></a>
+							<a class="fbHeadLink" href="javascript:FHead('idea')">Idea</a>
+						</td>
+						<td><a href="javascript:FHead('question')"><img border="0" align="absmiddle" src="http://staticstore.tubely.com/images/feedback/feedback_tab_question.png" height="16" width="16" style="padding-right:5px;"></a>
+							<a class="fbHeadLink" href="javascript:FHead('question')">Question</a>
+						</td>
+						<td><a href="javascript:FHead('problem')"><img border="0" align="absmiddle" src="http://staticstore.tubely.com/images/feedback/feedback_tab_problem.png" height="16" width="16" style="padding-right:5px;"></a>
+							<a class="fbHeadLink" href="javascript:FHead('problem')">Problem</a>
+						</td>
+						<td>
+							<a href="javascript:FHead('praise')"><img border="0" align="absmiddle" src="http://staticstore.tubely.com/images/feedback/feedback_tab_praise.png" height="16" width="16" style="padding-right:5px;"></a>	
+							<a class="fbHeadLink" href="javascript:FHead('praise')">Praise</a>
+						</td>
+					</tr>
+					</tbody></table>	
+				</td>
+				</tr>
+				<tr>
+					<td><textarea id="feed_commnets" onfocus="javascript:chFeedback()" onblur="javascript:chFeedback()" onkeydown="javascript:chFeedback()" style="color: #999999; font-size: 120%; border: 1px solid #666666; padding: 1px; width: 97%; height:100px;">Describe your idea</textarea>
+					</td>
+				</tr>
+				<tr>
+					<td><div id="feed_sbmt" style="padding-top:4px;"><span class="fbButton" onclick="validateFbComment();">Continue</span></div><div id="feed_ldng" style="display:none; padding:5px;"><img src="http://staticstore.tubely.com/images/common/progress_bar.gif"></div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+		</tbody></table>
+	</td>
+	<td class="p_b p_s"></td>
+</tr>
 <tr><td class="p_bl"></td><td class="p_b p_b"></td><td class="pop_br"></td></tr>
 </tbody></table>
 </div>
-</div>
-<script type="text/javascript">window.google_analytics_uacct = "UA-7187003-1";</script><table width="980" border="0" align="center">
+<div id="greybg"></div><div class="g_d" id="dlg-alert"><div onclick="closePop()" class="pop_closebtn"><img src="http://staticstore.tubely.com/images/common/Close-button.png"></div><a name="#afr"></a><table class="pdt" id="pdt" style="width:532px;"><tbody><tr><td class="p_tl"></td><td class="p_b p_t"></td><td class="p_tr"></td></tr><tr><td class="p_b p_s"></td><td id="p_c" class="p_c"><div id="frndData"></div></td><td class="p_b p_s"></td></tr><tr><td class="p_bl"></td><td class="p_b p_b"></td><td class="pop_br"></td></tr></tbody></table></div>
+<script type="text/javascript">window.google_analytics_uacct = "UA-7187003-1";</script>
+<table width="980" border="0" align="center">
 <tbody><tr>
 	<td style="border:#CCCCCC 1px solid; padding:5px;">
 		<b><span class="text1">Tubely Privacy Policy</span></b>
@@ -254,11 +322,39 @@
 <table width="980" cellpadding="0" cellspacing="5" align="center">
 <tbody><tr>
 	<td align="left" style="color:#000000">Copyright ©2006-2011 Tubely. All rights reserved</td>
-	<td align="right">
-		<a href="http://www.tubely.com/privacy.php">Privacy Policy</a> | <a href="http://www.tubely.com/faq.php">Help</a> | <a href="http://www.tubely.com/contactus.php">Contact Us</a> | <a href="http://www.tubely.com/terms.php">Terms</a> | <a href="http://www.tubely.com/investors.php">Investors</a>
-	</td>
+	<td align="right"><a href="http://www.tubely.com/privacy.php">Privacy Policy</a> | <a href="http://www.tubely.com/faq.php">Help</a> | <a href="http://www.tubely.com/contactus.php">Contact Us</a> | <a href="http://www.tubely.com/terms.php">Terms</a> | <a href="http://www.tubely.com/investors.php">Investors</a> | </td>
 </tr>
 </tbody></table><br><br>
+<div id="footpanel">
+	<ul id="mainpanel">    	
+        <li><a href="http://www.tubely.com" class="home"><small>Tubely</small></a></li>
+        <li><a href="http://www.tubely.com/chat/flashversion.php?frm=tbar" class="chat"><small>Chat</small></a></li>
+		<li><a href="http://www.tubely.com/updateaccount.php" class="editprofile"><small>Edit Profile</small></a></li>
+		<li><a href="http://www.tubely.com/mygifts.php" class="gifts"><small>My Gifts</small></a></li>
+		<li><a href="http://www.tubely.com/transactions.php" class="money"><small>Tubely Money</small></a></li>
+		<li><a href="http://www.tubely.com/onlineusers.php" class="online"><small id="online_users_count">0</small></a></li>
+		<li><a href="http://games.tubely.com/games.php" class="games"><small>Games</small></a></li>	
+		<li><a href="http://video.tubely.com" class="videos"><small>Video</small></a></li>	
+        <li id="alertpanel">
+        	<a href="#" style="color:#FFFFFF" class="alerts"><div id="alert_counter">0</div></a>
+            <div class="subpanel">
+            <h3><span> – </span>Notifications</h3>
+            <ul id="tbar_alerts">
+            	<!--<li class="view"><a href="#">View All</a></li> -->
+            </ul>
+            </div>
+        </li>
+        <li id="chatpanel">
+        	<a href="#" class="onlineFriends">Friends (<strong><div id="online_friends_count">0</div></strong>) </a>
+            <div class="subpanel">
+            <h3><span> – </span>Friends Online</h3>
+			<div style="padding:5px;">
+							</div>
+			<div id="friends_list"></div>
+            </div>
+        </li>        
+	</ul>
+</div>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -272,16 +368,5 @@ pageTracker._setDomainName(".tubely.com");
 pageTracker._trackPageview();
 } catch(err) {}
 </script>
-<script src="http://cdn.wibiya.com/Toolbars/dir_0599/Toolbar_599659/Loader_599659.js" type="text/javascript"></script><!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-bebFFWlq5IOLs"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<a href="http://www.quantcast.com/p-bebFFWlq5IOLs" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-bebFFWlq5IOLs.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->
-<script type="text/javascript" src="http://adserving.cpxadroit.com/slider/cpxslidein_tubely.js"></script>
+
 </body></html>
