@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlemediaz.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420004109id_/http%3A//www.articlemediaz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlemediaz.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215225431id_/http%3A//www.articlemediaz.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
