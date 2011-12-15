@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemonepisode.org privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511114850id_/http%3A//pokemonepisode.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemonepisode.org privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215071138id_/http%3A//pokemonepisode.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
