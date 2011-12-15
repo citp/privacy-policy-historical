@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extrabux.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226024811id_/http%3A//extrabux.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extrabux.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215084735id_/http%3A//www.extrabux.com/help/privacy) for the most accurate reproduction.*
 
 # Extrabux.com Privacy Policy
 
@@ -52,4 +52,4 @@ Everything on our website is copyrighted (unless otherwise noted) and may not be
 
 Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
 
-If you have any questions about our Privacy Policy or privacy policies, please feel free to e-mail your questions to us at information@Extrabux.com
+If you have any questions about our Privacy Policy or privacy policies, please feel free to e-mail your questions to us at info@extrabux.com
