@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpshoppingpages.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130201841id_/http%3A//wpshoppingpages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpshoppingpages.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215064749id_/http%3A//wpshoppingpages.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « WP Shopping Pages Plugin
 
