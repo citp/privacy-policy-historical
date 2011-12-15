@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennystockprophet.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515160736id_/http%3A//pennystockprophet.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennystockprophet.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215054634id_/http%3A//pennystockprophet.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy | The Penny Stock Prophet
 
