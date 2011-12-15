@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offlinearbitrage.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129022331id_/http%3A//www.offlinearbitrage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offlinearbitrage.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215144507id_/http%3A//www.newfreetrafficsource.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Offline Arbitrage
+# New Free Traffic Source - Privacy Policy
 
 Infomastery LLC Privacy Policy
 
