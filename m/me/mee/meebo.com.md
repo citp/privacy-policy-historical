@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meebo.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623145928id_/http%3A//www.meebo.com/privacy/full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meebo.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215012653id_/http%3A//www.meebo.com/privacy/full) for the most accurate reproduction.*
 
 # Privacy Policy | meebo
 
@@ -7,13 +7,13 @@
 
 Last Updated: November 16, 2010
 
-_On November 16, 2010, we launched[Meebo Alpha](http://www.meebo.com/new), which introduced a variety of new features to Meebo. We took this opportunity to update our privacy policy to take into account these new features and to reorganize the policy to make it easier to use._
+_On November 16, 2010, we launched[Meebo Alpha](https://web.archive.org/new), which introduced a variety of new features to Meebo. We took this opportunity to update our privacy policy to take into account these new features and to reorganize the policy to make it easier to use._
 
  _If you had a Meebo account prior to that date and you don't sign up for Meebo Alpha, we will not use the data you previously provided to Meebo in a manner that is materially different from our prior privacy policy._
 
 **What this Privacy Policy covers**
 
-This Privacy Policy applies to all of the websites and services offered by Meebo, including those listed [here](http://www.meebo.com/products), [Meebo Alpha](http://www.meebo.com/new) and the [Meebo MiniBar](http://www.meebo.com/download). By visiting or using Meebo, you agree to this Privacy Policy.
+This Privacy Policy applies to all of the websites and services offered by Meebo, including those listed [here](https://web.archive.org/products/), [Meebo Alpha](https://web.archive.org/new) and the [Meebo MiniBar](https://web.archive.org/download). By visiting or using Meebo, you agree to this Privacy Policy.
 
 This Privacy Policy does not apply to any websites, products or services that are not owned or operated by Meebo or to actions taken by Meebo users. For example, this Privacy Policy does not apply to third-party websites where the Meebo Bar appears, to third-party applications that are available through Meebo, or to any social networks or IM service providers that you associate with your Meebo account, all of which are governed by their own privacy policies.
 
@@ -32,7 +32,7 @@ _Demographic data_
 Meebo asks for your age and gender at registration and may collect additional demographic information about you, such as your location and interests. Meebo may receive this information from you or from outside sources, such as websites where the Meebo Bar is present, ad networks and other providers, or we may make assumptions based on the other information that we collect. 
 
 _Log data_  
-When you use Meebo via a browser, mobile application or other application, like most other websites we automatically collect information about you and your activity (known as "log data"), including your Internet Protocol (IP) address, our browser or device type, your interactions with Meebo, your interactions with third party IM and social networks through Meebo, your geographic region and Meebo cookies associated with your browser. If you visit a site that has the Meebo Bar, we also collect information about the website or web page that you view and your interactions with that site. If you are using the MiniBar, we do not record the websites you visit unless you interact with the MiniBar on that site. Meebo stores and uses this log data based on an anonymous identifier, except as described under "Check-in and sharing."
+When you use Meebo via a browser, mobile application or other application, like most other websites we automatically collect information about you and your activity (known as "log data"), including your Internet Protocol (IP) address, your browser or device type, your mobile device ID, your interactions with Meebo, your interactions with third party IM and social networks through Meebo, your geographic region and Meebo cookies associated with your browser. If you visit a site that has the Meebo Bar, we also collect information about the website or web page that you view and your interactions with that site. If you are using the MiniBar, we do not record the websites you visit unless you interact with the MiniBar on that site. Meebo stores and uses this log data based on an anonymous identifier, except as described under "Check-in and sharing."
 
 _Check-in and sharing_  
 We store your Meebo check-in activity, including the sites you check in to, your VIP status, and the people you follow and who follow you. We also retain information about the web pages, photos, files, or other data that you share through the sharing functionality of Meebo. This information is associated with your Meebo account.
@@ -90,11 +90,11 @@ We use these cookies to provide you with a better Meebo experience, such as by r
 
 Meebo also allows third parties to place cookies on your browser in order to help us with our analytics, to deliver and report on advertising that runs on Meebo and to measure whether you’ve seen or interacted with an ad on Meebo or other sites. Meebo does not allow these third parties to collect any personally identifiable information about you through their cookies on Meebo.
 
-Sometimes the cookies that we and our third-party advertising partners set are used to provide customized advertising to you on Meebo and on the other websites that you visit. You can learn more about customized advertising on Meebo or opt out [here](http://www.meebo.com/privacy/advertising). 
+Sometimes the cookies that we and our third-party advertising partners set are used to provide customized advertising to you on Meebo and on the other websites that you visit. You can learn more about customized advertising on Meebo or opt out [here](https://web.archive.org/privacy/advertising/). 
 
 You can also disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages.
 
-Meebo uses cookies to block users that indicate that they are under the age of 13 who are attempting to use the services again giving a different age.In Meebo Rooms, these cookies are based on "local stored objects" from the Adobe Flash Player, which can be removed by visiting Adobe's [web site](http://kb2.adobe.com/cps/526/52697ee8.html). 
+Meebo uses cookies to block users that indicate that they are under the age of 13 who are attempting to use the services again giving a different age.In Meebo Rooms, these cookies are based on "local stored objects" from the Adobe Flash Player, which can be removed by visiting Adobe's [web site](http://kb2.adobe.com/cps/526/52697ee8.html). Local stored objects are also used in Meebo Rooms to recognize users and remember their settings when they visit a Room. 
 
 **Meebo Platform**
 
@@ -114,7 +114,7 @@ Meebo uses the information it collects:
   * To provide you with the Meebo services; 
   * To enhance and improve the Meebo services; 
   * To recommend to you or other Meebo users potential friends or websites that may be of interest;
-  * To provide customized advertising to you (opt out [here](http://meebo.com/privacy/advertising));
+  * To provide customized advertising to you (opt out [here](https://web.archive.org/privacy/advertising/));
   * To conduct research; 
   * To determine your geographic location or other demographic information about you;
   * To create reports and to analyze usage patterns; and
@@ -163,7 +163,7 @@ Email: eusafeharbor@council.bbb.org
 
 **Changes to this Privacy Policy**
 
-Any changes to this policy will be posted at this URL (<http://www.meebo.com/privacy/full/>). We will not use data we collect in a manner that is materially different from promises made in this Privacy Policy without your consent.
+Any changes to this policy will be posted at this URL ([http://www.meebo.com/privacy/full/](https://web.archive.org/privacy/full/)). We will not use data we collect in a manner that is materially different from promises made in this Privacy Policy without your consent.
 
 **Editing and deleting your account information**
 
@@ -173,13 +173,13 @@ Deleting your Meebo account does not currently automatically remove your persona
 
 **Children**
 
-Meebo does not knowingly permit children under 13 to create a Meebo account or to use Meebo Rooms. In addition, Meebo does not store the personal information of users who access their third-party IM accounts and indicate to us that they are under 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information. If you are a parent of a child under 13 and you believe that your child has created a Meebo account in violation of our policy, please contact us immediately at <http://meebo.com/support/contact/>.
+Meebo does not knowingly permit children under 13 to create a Meebo account or to use Meebo Rooms. In addition, Meebo does not store the personal information of users who access their third-party IM accounts and indicate to us that they are under 13. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information. If you are a parent of a child under 13 and you believe that your child has created a Meebo account in violation of our policy, please contact us immediately at [www.meebo.com/support/contact/](https://web.archive.org/support/contact/).
 
 **Comments and Questions**
 
 Meebo periodically reviews its privacy practices and this privacy policy. We encourage interested persons to raise any concerns using the contact information provided below and we will investigate and attempt to resolve any concerns or complaints.
 
 Meebo Customer Service  
-Email Form: [http://meebo.com/support/contact/](http://meebo.com/support/contact)  
+Email Form: [www.meebo.com/support/contact/](https://web.archive.org/support/contact/)  
 Mail: Customer Service, Meebo, Inc., 215 Castro Street, Mountain View, CA 94041   
 Phone: (650) 237-3130 
