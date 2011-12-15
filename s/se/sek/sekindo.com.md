@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the sekindo.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612124940id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sekindo.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215163153id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
 
 # SekiNdo - Privacy Policy
 
    
-|   |  [](http://www.sekindo.co.il/) |  [](http://www.sekindo.com/) |  [ Register a New User ](https://www.sekindo.com/account/registerNewUser.php) |    
----|---|---|---|---  
-|   |  ﻿  |   
+|   |  [](http://www.sekindo.co.il/) |  [](http://www.sekindo.com/) |      |  [ Register a New User ](https://www.sekindo.com/account/registerNewUser.php) |    
+---|---|---|---|---|---  
+|   |  |   
 ---  
 |  [   Define Campaigns & Ads](https://web.archive.org/advertiser/adStep1.php)  
 ---  
-[   Manage Campaigns](https://web.archive.org/advertiser/myCampaigns.php)  
 [   Pending Publishers' Requests](https://web.archive.org/main/managePendingReq.php?id1=0)  
 [   Tool Box](https://web.archive.org/advertiser/adTools.php)  
 [   Create Ad](https://web.archive.org/advertiser/creative.php)  
@@ -22,7 +21,7 @@
    
 |  [   Register a New User](https://web.archive.org/account/registerNewUser.php)  
 ---  
-[   Personal Info](https://web.archive.org/account/personalInfo.php)  
+[   Personal Info and Configuration](https://web.archive.org/account/personalInfo.php)  
 [   Billing](https://web.archive.org/account/myBilling.php)  
    
 |  [   Terms of Service](https://web.archive.org/help/terms.php)  
@@ -53,7 +52,7 @@
    
   |  What does SekiNdo do with your personally identifiable information?   
    
-  |  SekiNdo may use personally identifiable information for the following purposes: 
+  |  SekiNdo may use personally identifiable information for the following purposes:
 
   * to provide the Service and operate the Website;
   * to improve and customize your experience with the Service and the Website;
@@ -64,7 +63,7 @@
   * to contact you as and when SekiNdo believes it to be necessary;
   * to comply with any applicable law and assist law enforcement agencies as required;
   * to collect fees and debts, and to prevent fraud, misappropriation, infringements, identity thefts and any other misuse of the Website or the Service;
-  * to take any action in any case of dispute, or legal proceeding of any kind between you and SekiNdo, or between you and other users or third parties with respect to, or in relation with the Service or with the use of the Website;
+  * to take any action in any case of dispute, or legal proceeding of any kind between you and SekiNdo, or between you and other users or third parties with respect to, or in relation with the Service or with the use of the Website.
 
   
   |  How does SekiNdo use aggregated information?   
@@ -75,9 +74,9 @@
    
   |  How does SekiNdo Share information with others?   
    
-  |  SekiNdo does not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes. SekiNdo may share personally identifiable information with others in any of the following instances, or subject to your explicit consent: 
+  |  SekiNdo does not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes. SekiNdo may share personally identifiable information with others in any of the following instances, or subject to your explicit consent:
 
-  * When you use the Service. In this case, SekiNdo will share your information only to the extent required to facilitate your use of the Service.
+  * When you use the Service. In this case, SekiNdo will share your information only to the extent required to facilitate your use of the Service;
   * If SekiNdo believes that you have breached the Terms of Service, or abused your rights to use the Service or the Website, or performed any act or omission that SekiNdo believes to be violating any applicable law, rules, or regulations. SekiNdo may share your information in these cases, with law enforcement and other competent authorities as well as other third parties, as may be required to handle any result of your wrongdoing;
   * If SekiNdo is required, or believes that it is required by law to share or disclose your information;
   * In any case of dispute, or legal proceeding of any kind between you and SekiNdo, or between you and other users or third parties with respect to, or in relation with the Service or the Website;
@@ -119,5 +118,5 @@
   |  You may send requests, responses, questions and complaints, by sending an e-mail message to: [contact@sekindo.com](mailto:contact@sekindo.com).   
    
    
-[Affiliate Network](https://web.archive.org/)     [Terms of Service](https://web.archive.org/help/terms.php)     [About Us](https://web.archive.org/help/aboutUs.php)     [Contact Us](https://web.archive.org/help/contact.php)     [Press & News](https://web.archive.org/help/press.php)     [How It Works](https://web.archive.org/help/howItWorks.php)     [Q&A](https://web.archive.org/help/faqs.php)     [Privacy Policy](https://web.archive.org/help/privacy.php)     [Fee Schedule](https://web.archive.org/help/fee.php)     [Copyright Policy](https://web.archive.org/help/copyright.php)     [Blog](http://sekindoblog.com/)     [Creative Solutions](https://web.archive.org/advertiser/creative.php)  
+[Affiliate Network](https://web.archive.org/)     [Terms of Service](https://web.archive.org/help/terms.php)     [About Us](https://web.archive.org/help/aboutUs.php)     [Contact Us](https://web.archive.org/help/contact.php)     [Press & News](https://web.archive.org/help/press.php)     [How It Works](https://web.archive.org/help/howItWorks.php)     [Q&A](https://web.archive.org/help/faqs.php)     [Privacy Policy](https://web.archive.org/help/privacy.php)     [Fee Schedule](https://web.archive.org/help/fee.php)     [Copyright Policy](https://web.archive.org/help/copyright.php)     [Blog](http://sekindo.wordpress.com/)     [Creative Solutions](https://web.archive.org/advertiser/creative.php)  
 © 2007-2011 SekiNdo LTD. All Rights Reserved 
