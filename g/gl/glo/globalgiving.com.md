@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503234057id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215082542id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalGiving
 
@@ -121,6 +121,6 @@ Washington, DC 20005
 
 Phone: (202) 232-5784   
 Toll Free: (877) 605-2314   
-Fax: (202) 232-0534 
+Fax: (202) 315-2558 
 
-Last Modified: 2009/09/15 
+Last Modified: 2011/04/20 
