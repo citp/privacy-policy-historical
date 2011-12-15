@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412054121id_/http%3A//www.siliconexpert.com/CMOMFX/footer_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconexpert.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215071203id_/http%3A//www.siliconexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SiliconExpert
 
@@ -14,7 +14,7 @@ We collect the domain name and e-mail address (where possible) of visitors to ou
 
 The information we collect is used to improve the content of our web page, used to customize the content and/or layout of our page for each individual visitor and used by us to contact visitors for marketing purposes.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, customize web page content based on visitors' browser type or other information that the visitor sends.
+With respect to cookies: We use cookies to store visitor preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, customize web page content based on visitors' browser type or other information that the visitor sends.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address.
 
@@ -34,6 +34,6 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated privacy policy, you may contact us at the above addresses or phone number. For more information please 
 
-[_contact us_](https://web.archive.org/web/20110412054121id_/http%3A//www.siliconexpert.com/CMOMFX/footer_contactus.html)
+[_contact us_](https://web.archive.org/contact-us)
 
 . 
