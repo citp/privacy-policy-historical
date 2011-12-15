@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the economywatch.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526151932id_/http%3A//www.economywatch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economywatch.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215073637id_/http%3A//www.economywatch.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Economy Watch
 
@@ -9,17 +9,17 @@ Please read our Privacy Policy carefully. If you have any other questions, you c
 **When is information collected from you?**   
  
 
-  * Google Analytics collects anonymous data on all users and the pages they access, which is then made available to us through our Google Analytics reports 
-  * When you register for our newsletters or any other interactive services, the data is collected by our partners at Responsys, and is then made available to us through reports 
+  * Google Analytics collects anonymous data on all users and the pages they access, which is then made available to us through our Google Analytics reports
+  * When you register for our newsletters or any other interactive services, the data is collected by our partners at Responsys, and is then made available to us through reports
   * When you take part in any contest, survey or promotion conducted by EconomyCloud and/or its business partners
 
 
 
 **What is the information used for?**
 
-  * To provide goods and services by EconomyWatch or its designated representatives and/or business partners to you or parties designated by you 
-  * To verify and process payment if you purchase goods and services from EconomyCloud Group's sites 
-  * For analytics purposes, we use anonymous data to understand user and visitor numbers, geographical and technical trends, pages viewed and for how long, entrance and exist paths, time spent on pages, and search terms used to find the site 
+  * To provide goods and services by EconomyWatch or its designated representatives and/or business partners to you or parties designated by you
+  * To verify and process payment if you purchase goods and services from EconomyCloud Group's sites
+  * For analytics purposes, we use anonymous data to understand user and visitor numbers, geographical and technical trends, pages viewed and for how long, entrance and exist paths, time spent on pages, and search terms used to find the site
   * For the above purposes by third parties if they are offering goods and services on our behalf or sponsoring contests or other promotional programs on our site
 
 
@@ -46,9 +46,9 @@ EconomyCloud uses "cookies", where a small data file is sent to your browser to 
 
 Like many web site operators, EconomyWatch uses Google Analytics to track usage of our website, including:
 
-  * The number of page views, visits and unique users recorded on EconomyCloud including EconomyWatch 
-  * How long users spend on EconomyCloud web sites on average 
-  * Common entry and exit points into EconomyCloud web sites 
+  * The number of page views, visits and unique users recorded on EconomyCloud including EconomyWatch
+  * How long users spend on EconomyCloud web sites on average
+  * Common entry and exit points into EconomyCloud web sites
   * Search terms used to access the sites
 
 
