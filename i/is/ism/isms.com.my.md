@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isms.com.my privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628144354id_/http%3A//www.isms.com.my/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isms.com.my privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215094826id_/http%3A//www.isms.com.my/policy.php) for the most accurate reproduction.*
 
-# Malaysia bulk sms, lowest price & most reliable SMS marketing tool
+# Find out more about iSMS detail rates
 
 MobiWeb respects your privacy. Across our business, we will only collect, store or use your personal information for specific purposes. We use your information to support and enhance our relationship with you, for example to process your purchase, provide service and support, and share product, service and company news and offerings with you, or for other legitimate reasons described by law. We do not sell your personal information. We only share your personal data outside MobiWeb with your consent, as required by law, or with companies that help MobiWeb fulfill its obligations with you, and then, only with partners who share MobiWeb's commitment to protecting your privacy and data. At any time you may contact MobiWeb with any questions or concerns you may have with respect to this privacy policy. You may also ask at any time to be informed about the personal data that MobiWeb holds about you and request, as appropriate, correction or deletion. Our goal is to ensure the highest levels of security and confidentiality. 
 
@@ -40,24 +40,24 @@ Newsletters, Mailing lists, Requests For Information
 If you request, we (or any other MobiWeb entity or any agent working on behalf of MobiWeb entities) will send you information about our various services, or other products and services that may be of interest to you. Such information may encompass alerts to upgrades, special offers, updated information and other new products and services from MobiWeb. Only MobiWeb (or agents working on behalf of MobiWeb) will send you these mailings. If you do not want to receive such mailings any longer, simply notify us by contacting us
 
 **By phone**  
-Malaysia, Penang +604-6420621 / +604-6158100  
+Malaysia, Penang +604-6420621  
 Malaysia, Kuala Lumpur +603-77285158
 
 **By fax**  
-Malaysia, Penang +604-6427197  
+Malaysia, Penang +604-6468367  
 Malaysia, Kuala Lumpur +603-77286158
 
 **By email**  
 Email: [sales@mobiweb.com.my](mailto:sales@mobiweb.com.my)
 
 Malaysia, Penang  
-Unit No 1-5-31, Krystal Point Corporate Park, Lebuh Kecil 6,  
-off Jalan Tun Dr Awang, 11900 Bayan Lepas, Penang, Malaysia.  
+No.40-1, Persiaran Bayan Indah  
+Bayan Bay, 11900 Bayan Lepas, Penang, Malaysia.  
 Helpline: 1300 88 7389
 
 Malaysia, Kuala Lumpur  
 No. A-125 Block A, Level 1, Damansara Intan,  
-No. 1 Jalan SS 20/27, 47400 Petaling Jaya Selangor Darul Ehsan, Malaysia.
+No. 1 Jalan SS 20/27, 47400 Petaling Jaya, Selangor Darul Ehsan, Malaysia.
 
 When MobiWeb Will Share Your Personal Information
 
@@ -79,7 +79,7 @@ Contact MobiWeb
 
 If you would like to contact us, or have questions or suggestions regarding our Privacy Policies, please write, or e-mail us at the following address
 
-Unit No 1-5-31, Krystal Point Corporate Park, Lebuh Kecil 6,  
-off Jalan Tun Dr Awang, 11900 Bayan Lepas, Penang, Malaysia.  
-Tel: +604-6420621 / +604-6158100 Fax: +604-6427197  
+No.40-1, Persiaran Bayan Indah  
+Bayan Bay, 11900 Bayan Lepas, Penang, Malaysia.  
+Tel: +604-6420621 Fax: +604-6468367  
 Email: [sales@mobiweb.com.my](mailto:sales@mobiweb.com.my)
