@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531100830id_/http%3A//www.prometric.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prometric.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215060706id_/http%3A//www.prometric.com/Privacy.htm) for the most accurate reproduction.*
 
 # Prometric Services: Testing an Assessment
 
@@ -25,7 +25,7 @@ When you visit our Web Site, you may provide us with two types of information: (
 
 Personally Identifiable Information You Choose to Provide.
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. Personal information is defined as any information that identifies or can be used to identify the person to whom such information pertains.  For example, we request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.  Prometric collects personal information from test takers for the purpose of registering and scheduling for tests or assessments and in order to administer tests/assessments and process results.  Prometric may also collect payment information such as a credit card number in order to pay for tests/assessments you order. [If a testing program uses a biometric enabled check in process at the test center, please click here to see specific privacy policy statements regarding biometrics at Prometric.](https://web.archive.org/NR/rdonlyres/eabngcic7fkunchteyosp6tdd7gcxo6jnp3acxzulzmdbzt5xkgptekapciftkjdv4fdsj23ngcavtxtierqhio5a3h/CandidateBiometricGeneralWebNoticeForm71510.pdf)
+We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. Personal information is defined as any information that identifies or can be used to identify the person to whom such information pertains.  For example, we request your name and e-mail address each time you contact us by clicking on the "Contact Us" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.  Prometric collects personal information from test takers for the purpose of registering and scheduling for tests or assessments and in order to administer tests/assessments and process results.  Prometric may also collect payment information such as a credit card number in order to pay for tests/assessments you order. [If a testing program uses a biometric enabled check in process at the test center, please click here to see specific privacy policy statements regarding biometrics at Prometric.](https://web.archive.org/NR/rdonlyres/eabngcic7fkunchteyosp6tdd7gcxo6jnp3acxzulzmdbzt5xkgptekapciftkjdv4fdsj23ngcavtxtierqhio5a3h/CandidateBiometricGeneralNoticeConsentForm2011.pdf)
 
 Non-Personally Identifiable Information We Collect.
 
@@ -35,7 +35,7 @@ You can, of course, disable cookies on your computer by indicating this in the p
 
 Biometric Enabled Check In
 
-Some testing programs enable enhanced check in services using fingerprints.  Not all programs use biometric enabled check in.  For information regarding the collection, use, and protection of biometric information, [please click here](https://web.archive.org/NR/rdonlyres/eabngcic7fkunchteyosp6tdd7gcxo6jnp3acxzulzmdbzt5xkgptekapciftkjdv4fdsj23ngcavtxtierqhio5a3h/CandidateBiometricGeneralWebNoticeForm71510.pdf).
+Some testing programs enable enhanced check in services using fingerprints.  Not all programs use biometric enabled check in.  For information regarding the collection, use, and protection of biometric information, [please click here](https://web.archive.org/NR/rdonlyres/eabngcic7fkunchteyosp6tdd7gcxo6jnp3acxzulzmdbzt5xkgptekapciftkjdv4fdsj23ngcavtxtierqhio5a3h/CandidateBiometricGeneralNoticeConsentForm2011.pdf).
 
 HOW DO WE USE THE INFORMATION WE COLLECT?
 
