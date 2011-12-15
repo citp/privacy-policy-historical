@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mindmeister.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228075224id_/http%3A//www.mindmeister.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmeister.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215115052id_/http%3A//www.mindmeister.com/privacy) for the most accurate reproduction.*
 
-# Online Mind Mapping and Brainstorming - MindMeister
+# Privacy Statement - MindMeister
 
-## Privacy Statement
+We do not sell, trade, exchange or otherwise make available any personally identifiable information to any other team or organization. We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. 
 
-We do not sell, trade, exchange or otherwise make available any personally identifiable information to any other company or organization. We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site. 
+## Sharing Mind Maps
 
-If you share a mind map with other users, they are part of your friend network and can access your name, email and skype information. 
+If you share a mind map with other users, they are part of your friend network and can access your name, email and Skype information. 
 
 ## Intellectual Property
 
