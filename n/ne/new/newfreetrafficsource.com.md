@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newfreetrafficsource.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616185901id_/http%3A//www.newfreetrafficsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newfreetrafficsource.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215144507id_/http%3A//www.newfreetrafficsource.com/privacy-policy) for the most accurate reproduction.*
 
 # New Free Traffic Source - Privacy Policy
 
