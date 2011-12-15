@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the v.gd privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121041021id_/http%3A//v.gd/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v.gd privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215071250id_/http%3A//v.gd/privacy.php) for the most accurate reproduction.*
 
-# v.gd - Privacy Policy
+# v.gd - Privacy policy
 
 ## v.gd Privacy Policy
 
-We do not collect any personally identifying information from users of this v.gd. We store only the information necessary to provide our URL shortening service (such as original long URLs), information necessary to identify and track abuse of our service (such as IP addresses) and aggregate information to compile statistics on how individual links are used (such as browser and country of residence).
+We do not collect any personally identifying information from users of v.gd. We store only the information necessary to provide our URL shortening service (such as original long URLs), information necessary to identify and track abuse of our service (such as IP addresses) and aggregate information to compile statistics on how individual links are used (such as browser and country of residence).
 
 We do not share information with 3rd parties except where required to identify or track abuse or prevent future abuse (e.g. we may check submitted URLs against 3rd party blacklists and may share information on malicious URLs or abusive users with 3rd parties). The sole exception to this is when you create a QR code - we pass the relevant shortened URL (but no other data) to Google since we use their Charts API to generate these.
 
