@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theorchidboutique.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913232606id_/http%3A//www.theorchidboutique.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theorchidboutique.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215103218id_/http%3A//www.theorchidboutique.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | The Orchid Boutique
 
