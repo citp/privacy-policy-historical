@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102110519id_/http%3A//indianastrologysoftware.com/astrology-software-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianastrologysoftware.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216002918id_/http%3A//www.indianastrologysoftware.com/astrology-software-privacypolicy.php) for the most accurate reproduction.*
 
-# Indian Astrology Software - horoscope charts, horoscope predictions and remedies, panchangam, gemology, numerology software
+# More Details about IndianAstrologySoftware.com
 
 This privacy policy sets out how www.indianastrologysoftware.com uses and protects any information that you give www.indianastrologysoftware.com when you use this website. www.indianastrologysoftware.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -31,7 +31,9 @@ We require this information to understand your needs and provide you with a bett
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 **How we use cookies**  
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+We use cookies to deliver various services and to keep track of your personal preferences. A cookie is a small text file that can be entered into the memory of your browser to help a website recognize repeat users, facilitate the user's ongoing access to and use of the site, allow a site to track usage behavior, compile aggregate data for content improvements and undertake targeted advertising. If you do not want information collected through the use of cookies, most browsers contain a function that allows a user to deny the cookie feature. You can also delete cookie files from your computer at your discretion. 
+
+We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit http://www.networkadvertising.org/managing/opt_out.asp and http://www.google.com/privacy/ads/ 
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -42,16 +44,8 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 **Links to other websites**  
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Controlling your personal information**  
-You may choose to restrict the collection or use of your personal information in the following ways:
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@indianastrologysoftware.com](mailto:info@indianastrologysoftware.com)
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Astro-Vision Futuretech Pvt.Ltd, 36/674,675, Elamkulam Road, Kaloor,Kochi-682017 Ph:No: 91-484-2535482, 2343925, E-mail:[cochin@astrovisiononline.com ](mailto:cochin@astrovisiononline.com)
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Astro-Vision Futuretech Pvt.Ltd., Door No. 31/2165-A3, 1st Floor, White Tower, Kuthappadi Road, Thammanam P O, Cochin - 682 032, Kerala, India, Phone: +91 484 2343925, 3390000, E-mail:[cochin@astrovisiononline.com ](mailto:cochin@astrovisiononline.com)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
