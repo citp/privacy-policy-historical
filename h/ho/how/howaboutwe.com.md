@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howaboutwe.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627204122id_/http%3A//www.howaboutwe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howaboutwe.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215033522id_/http%3A//www.howaboutwe.com/privacy-policy) for the most accurate reproduction.*
 
 # | HowAboutWe
 
@@ -6,7 +6,7 @@
 
 _Last Updated: April 15, 2011_
 
-www.howaboutwe.com (the " _Site_ "), operated solely by This Life, Inc. (" _we_ " or " _us_ "), respects the privacy of our users and has developed this privacy policy (the " _Privacy Policy_ ") to articulate our commitment to protecting your privacy. 
+howaboutwe.com (the " _Site_ "), operated solely by This Life, Inc. (" _we_ " or " _us_ "), respects the privacy of our users and has developed this privacy policy (the " _Privacy Policy_ ") to articulate our commitment to protecting your privacy. 
 
 The Privacy Policy is intended to describe for you, as an individual who is a user of the Site or of the services offered on the Site (collectively with the Site, the " _Services_ "), the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. 
 
