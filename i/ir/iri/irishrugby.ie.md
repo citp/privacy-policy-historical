@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishrugby.ie privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616162100id_/http%3A//www.irishrugby.ie/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrugby.ie privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215014439id_/http%3A//www.irishrugby.ie/legal.php) for the most accurate reproduction.*
 
 # Irish Rugby : The IRFU : Legal Notice & Privacy Policy
 
