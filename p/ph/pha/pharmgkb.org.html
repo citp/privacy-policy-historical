@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pharmgkb.org privacy policy that was archived on 2011-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519144841id_/http%3A//www.pharmgkb.org/home/policies/website_privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pharmgkb.org privacy policy that was archived on 2011-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215142745id_/http%3A//www.pharmgkb.org/home/policies/website_privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="yui3-js-enabled"><head>
   <title>Website Privacy Policy [PharmGKB]</title>
@@ -7,14 +7,14 @@
   <meta http-equiv="X-UA-COMPATIBLE" content="IE=8">
   <link rel="SHORTCUT ICON" href="/favicon.ico">
   <link rel="search" type="application/opensearchdescription+xml" title="Search PharmGKB" href="/downloads/PharmGkbSearch.xml">
-  <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build//reset-fonts-grids/reset-fonts-grids.css">
-  <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build//assets/skins/sam/skin.css">
+  <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build//reset-fonts-grids/reset-fonts-grids.css">
+  <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build//assets/skins/sam/skin.css">
   <link rel="stylesheet" type="text/css" href="/style/pyui.css">
   
 
 
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/utilities/utilities.js"></script>
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/button/button-min.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/utilities/utilities.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/button/button-min.js"></script>
   <script type="text/javascript" src="/js/dispatcher-min.js"></script>
   <script type="text/javascript" src="/js/zebrastripe.js"></script>
   
@@ -45,7 +45,7 @@
       <div id="hdSearch" class="yui-u searchBar">
         
         <form action="/search/search.action" onsubmit="return doSearch('hdQuery', 'Search PharmGKB');" method="get">
-          <input type="hidden" name="exactMatch" value="false">
+          <input type="hidden" name="exactMatch" value="true">
           <input type="text" id="hdQuery" name="query" value="Search PharmGKB" onfocus="if (this.value == 'Search PharmGKB') { this.className = ''; this.value = ''; }" onblur="if (this.value == '') { this.className = 'placeholder'; this.value = 'Search PharmGKB'; }">
           <input type="hidden" id="hdQueryFlag" name="autoFlag" value="false">
           <button type="submit" onmouseover="this.className='hover';" onmouseout="this.className='';"><img src="/images/icon-search.png" alt="Do Search"></button>
@@ -81,44 +81,15 @@
   <div class="yuimenu">  <div class="bd"><ul class="first-of-type">
     <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="/search/index.jsp">Search</a></li>
     <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/query/index.jsp">Queries</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=allGenes">Genes</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=allDrugs">Drugs</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=allDiseases">Diseases</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=annotatedGenes">Genes</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=variantDrug">Drugs</a></li>
+    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browseAlpha.action?browseKey=variantDisease">Diseases</a></li>
     <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/search/browse/pathways.action">Pathways</a></li>
   </ul></div></div>
 </li>
-<li class="yuimenubaritem"><span class="yuimenubaritemlabel" "="">Submit</span>
-  <div class="yuimenu">  <div class="bd"><ul class="first-of-type">
-    <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="/submit/index.jsp">Overview</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/submit/genotypeData/index.jsp">Genotype Data</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/submit/phenotypeData/index.jsp">Phenotype Data</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/submit/pathwayData/index.jsp">Pathway Data</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/submit/microarrayData/index.jsp">Microarray Data</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/submit/snpArrayData/index.jsp">SNP Array Data</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/submit/otherData/index.jsp">Other Data</a></li>
-  </ul></div></div>
-</li>
 <li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/resources/downloads_and_web_services.jsp">Download</a>
-</li><li class="yuimenubaritem"><span class="yuimenubaritemlabel" "="">Help</span>
-  <div class="yuimenu">  <div class="bd"><ul class="first-of-type">
-    <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="/resources/index.jsp">Overview</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/resources/forScientificUsers/index.jsp">Resources for Scientific Users</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/resources/additionalResourcesforInformaticsUsers/index.jsp">Additional Resources for Informatics Users</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/resources/forGeneralUsers/index.jsp">Resources for General Users</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/resources/forSubmitters/index.jsp">Resources for Submitters</a></li>
-  </ul></div></div>
-</li>
-<li class="yuimenubaritem"><span class="yuimenubaritemlabel" "="">Contributors</span>
-  <div class="yuimenu">  <div class="bd"><ul class="first-of-type">
-    <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="/views/loadContributors.action">All Contributors</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/views/loadConsortia.action">Consortia</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/redirect.jsp?p=http%3A%2F%2Fwww.pgrn.org" target="_blank">PGRN</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/views/loadNhlbiMembers.action">NHLBI</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/views/loadPgrnAffiliates.action">PGRN Affiliate</a></li>
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="/views/loadIndividualContributors.action">Individual Contributors</a></li>
-  </ul></div></div>
-</li>
-<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/clinical/index.jsp">Clinical PGx</a>
+</li><li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/resources/index.jsp">Help</a>
+</li><li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/views/loadConsortia.action">Consortia</a>
 
         </li></ul>
       </div>
@@ -241,14 +212,14 @@
 
 <script type="text/javascript" src="/yui?3.3.0/build/yui/yui-min.js"></script>
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/json/json-min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/json/json-min.js"></script>
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/container/container-min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/menu/menu-min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/tabview/tabview-min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/container/container-min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/menu/menu-min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/tabview/tabview-min.js"></script>
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/datasource/datasource-min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/autocomplete/autocomplete-min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/datasource/datasource-min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/autocomplete/autocomplete-min.js"></script>
 <script type="text/javascript" src="/js/pyui.js"></script>
 <!-- start page-specific stuff -->
 
@@ -270,13 +241,14 @@
   autoComplete("hdQuery", "all");
   
   YUI({
-    gallery: 'gallery-2011.01.18-21-05'
-  }).use('gallery-event-konami', function(Y) {
-    Y.one('#hdQuery').on('konami', function (e) {
-      var i,s,ss=['http://kathack.com/js/kh.js','http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js'];
-      for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
-    });
-  });
+        gallery: 'gallery-2011.01.18-21-05'
+      }).use('gallery-event-konami', function(Y) {
+        Y.one('#hdQuery').on('konami', function (e) {
+          var i,s,ss=['http://kathack.com/js/kh.js','http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js'];
+          for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
+        });
+      });
+  
 </script>
 
 
