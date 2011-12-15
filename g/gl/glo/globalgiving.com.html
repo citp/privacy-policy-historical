@@ -1,15 +1,20 @@
-<!--The following is the downloaded HTML source of the globalgiving.com privacy policy that was archived on 2011-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110503234057id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgiving.com privacy policy that was archived on 2011-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215082542id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Privacy Policy - GlobalGiving</title>  
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
 <!-- ****** TITLE ET AL ***** -->
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
+
+
+    <meta property="og:image" content="http://www.globalgiving.org/img/logos/gg_stacked_color_small.jpg">
+
+
 <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">  
 
 <!-- ****** STYLESHEETS ***** -->
@@ -27,15 +32,33 @@
 <![endif]--> 
 
 <!-- ****** JAVASCRIPT ***** -->
-<script type="text/javascript" src="/javascript/commonScripts.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/commonScripts.js"></script>
+
+<!-- *** GOOGLE ANALYTICS TRACKING CODE ***-->    
+<!-- Async Tracking Code - http://code.google.com/intl/en-US/apis/analytics/docs/tracking/asyncTracking.html -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1836649-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']); // note: only works in HTML5 browsers (Chrome & IE 9+ as of May 2011)
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
 
 
 
 
  
+ 
 
   
-   <!-- undef -->
+    
 </head> 
 
 <!-- ###############
@@ -77,7 +100,7 @@
 
 		<div id="headerMargins">
 			<div id="logo">
-				<a id="logoLink" href="/">GlobalGiving</a>
+				<a id="logoLink" href="/" onclick="trackHeaderClick(this)" ;="">GlobalGiving</a>
 			</div> 
             
 			<div id="topnav">
@@ -100,9 +123,9 @@
 		<div id="login_name"></div>
 		<ul>
 						
-			<li><a href="/dy/cart/view/gg.html?cmd=gcart" class="cart">giving cart</a></li>
-			<li><a href="/dy/user/view/gg.html?cmd=showprof" class="profile">my profile</a></li>
-			<li><a href="javascript:void(0);" onclick="Logout();" class="logout">logout</a></li>
+			<li><a href="/dy/cart/view/gg.html?cmd=gcart" class="cart" onclick="trackHeaderClick(this)" ;="">giving cart</a></li>
+			<li><a href="/dy/user/view/gg.html?cmd=showprof" class="profile" onclick="trackHeaderClick(this)" ;="">my profile</a></li>
+			<li><a href="javascript:void(0);" onclick="Logout();" class="logout" ;="">logout</a></li>
 		</ul>
 	</div>  
 	<!--end logged in area-->
@@ -110,9 +133,9 @@
 	<!--login area-->
 	<div id="nologindiv" style="display: inline;">
 		<ul>
-			<li><a href="/dy/cart/view/gg.html?cmd=gcart" id="givingCartLink" class="cart">giving cart</a></li>
-			<li><a href="/dy/v2/login/form.html?show=createAccount" class="profile">create an account</a></li>
-			<li><span id="loginRef"><a href="/dy/v2/login/form.html" class="login">login</a></span></li>
+			<li><a href="/dy/cart/view/gg.html?cmd=gcart" id="givingCartLink" class="cart" onclick="trackHeaderClick(this)" ;="">giving cart</a></li>
+			<li><span id="signupRef"><a href="/dy/v2/login/form.html?show=createAccount" class="profile" onclick="trackHeaderClick(this)" ;="">create an account</a></span></li>
+			<li><span id="loginRef"><a href="/dy/v2/login/form.html" class="login" onclick="trackHeaderClick(this)" ;="">login</a></span></li>
 		</ul>
 	</div> 
 	<!--end login area-->
@@ -121,7 +144,11 @@
 			</div>
 
 		    
-		          
+		            <!-- Gift Card Callout -->
+					<div id="giftCardPromo">
+						 <!--<a href="/redeem"  onclick="trackHeaderClick(this)";></a>-->
+					     <a href="/dy/gifts/personalize/gg.html?selectedDesign=63&amp;isGiftCertificate=true" onclick="trackGiftClick(this)" ;=""></a>
+					</div>
 		    
 
 			<div id="nav"> 
@@ -134,8 +161,10 @@
 
 <!-- non-profits -->
  
+ 
 
 
+ 
  
  
 
@@ -176,16 +205,16 @@
 	<!--************* TABS *************-->
 	<ul id="global_nav_ul">
 		<li id="donors">
-			<a href="/index.html">Donors</a>
+			<a href="/index.html" onclick="trackHeaderClick(this)" ;="">Donors</a>
 		</li>
 		<li id="nonprofits">
-			<a href="/non-profits/">Non-Profits</a>
+			<a href="/non-profits/" onclick="trackHeaderClick(this)" ;="">Non-Profits</a>
 		</li>
 		<li id="corporate">
-			<a href="/corporate-partners/">Corporate Partners</a>
+			<a href="/corporate-partners/" onclick="trackHeaderClick(this)" ;="">Corporate Partners</a>
 		</li>
 		<li id="about">
-			<a href="/aboutus/">About</a>
+			<a href="/aboutus/" onclick="trackHeaderClick(this)" ;="">About</a>
 		</li>
 	</ul>
 </div>
@@ -198,59 +227,62 @@
 		<!--************* DONOR NAV *************-->
 		<ul id="ul_donors" style="display:none;">
 		<li id="find">
-			<a href="/dy/v2/content/browse.html">Find a Project</a>
+			<a href="/dy/v2/content/browse.html" onclick="trackHeaderClick(this)" ;="">Find a Project</a>
 		</li>
 		<li id="gifts">
-			<a href="/gifts/">Gift Cards</a>
+			<a href="/gifts/" onclick="trackHeaderClick(this)" ;="">Gift Cards</a>
 		</li>
 		<li id="getInvolved">
-			<a href="/get-involved/">Get Involved</a>
+			<a href="/get-involved/" onclick="trackHeaderClick(this)" ;="">Get Involved</a>
 		</li>
 		</ul>
 		
 		<!--************* NON-PROFIT NAV *************-->
 
 		<ul id="ul_nonprofits" style="display:none;">
+		<li id="features">
+			<a href="/non-profits/features-and-benefits/" onclick="trackHeaderClick(this)" ;="">Features &amp; Benefits</a>
+		</li>
 		<li id="join">
-			<a href="/non-profits/join-globalgiving/">Join GlobalGiving</a>
+			<a href="/non-profits/join-globalgiving/" onclick="trackHeaderClick(this)" ;="">Join GlobalGiving</a>
 		</li>
 		<li id="manage">
-			<a href="/dy/v2/pe/dashboard/overview.html">Manage Project(s)</a>
+			<a href="/dy/v2/pe/dashboard/overview.html" onclick="trackHeaderClick(this)" ;="">Manage Project(s)</a>
 		</li>
 		<li id="tools">
-			<a href="http://tools.blog.globalgiving.org/">Tools &amp; Training</a>
+			<a href="http://tools.blog.globalgiving.org/" onclick="trackHeaderClick(this)" ;="">Tools &amp; Training</a>
 		</li>
 		</ul>
 		<!--************* CORPORATE PARTNER NAV *************-->
 		
 		<ul id="ul_corporate" style="display:none;">
 		<li id="services">
-			<a href="/corporate-partners/services-we-offer">Services We Offer</a>
+			<a href="/corporate-partners/services-we-offer" onclick="trackHeaderClick(this)" ;="">Services We Offer</a>
 		</li>
 		<li id="currentPartners">
-			<a href="/corporate-partners/current-partners/">Current Partners</a>
+			<a href="/corporate-partners/current-partners/" onclick="trackHeaderClick(this)" ;="">Current Partners</a>
 		</li>
 		<li id="giftcards">
-			<a href="/corporate-partners/order-gift-cards">Order Gift Cards</a>
+			<a href="/corporate-partners/order-gift-cards" onclick="trackHeaderClick(this)" ;="">Order Gift Cards</a>
 		</li>
 		<li id="corportateContactus">
-			<a href="/corporate-partners/contact-us/">Contact Us</a>
+			<a href="/corporate-partners/contact-us/" onclick="trackHeaderClick(this)" ;="">Contact Us</a>
 		</li>
 		</ul>
 		<!--************* ABOUT US NAV *************-->
 		
 		<ul id="ul_about" style="display:block;"> 
 		<li id="howitworks">
-			<a href="/howitworks.html">How It Works</a>
+			<a href="/howitworks.html" onclick="trackHeaderClick(this)" ;="">How It Works</a>
 		</li>
 		<li id="team">
-			<a href="/aboutus/bios.html">Our Team</a>
+			<a href="/aboutus/bios.html" onclick="trackHeaderClick(this)" ;="">Our Team</a>
 		</li>
 		<li id="jobs">
-			<a href="/aboutus/jobs/">Jobs</a>
+			<a href="/aboutus/jobs/" onclick="trackHeaderClick(this)" ;="">Jobs</a>
 		</li>
 		<li id="contactus">
-			<a href="/contactus/">Contact Us</a>
+			<a href="/contactus/" onclick="trackHeaderClick(this)" ;="">Contact Us</a>
 		</li>
 		</ul>
 		
@@ -285,6 +317,8 @@
         
     
     <!--************* NON-PROFITS > MANAGE PROJECTS > SUBNAV *************-->
+        
+
         
 
         
@@ -348,41 +382,6 @@
 	<a href="/index.html">Home</a>&nbsp;&gt;&nbsp;Privacy Policy
 	</div>
 
-<script type="text/javascript" charset="utf-8">   
-    var matchTag = /<(?:.|\s)*?>/g; 
-    var homeTag = "Home&nbsp;&gt;&nbsp;" 
-    var spacerTag =  /(&nbsp;&gt;&nbsp;)/g;
-    var singleSpace = /(\&nbsp\;)+/g; 
-	var ggPageName;
-if($('#breadcrumbs').html()!=null){
-	//alert($('#breadcrumbs').html().replace(matchTag, "").replace(homeTag,"").replace(spacerTag," ").replace(singleSpace," "));
-	ggPageName = $('#breadcrumbs').html().replace(matchTag, "").replace(homeTag,"").replace(spacerTag," ").replace(singleSpace," ");
-	ggPageName = jQuery.trim(ggPageName); 
-	
-}
-else{ 
-	var nonBreadcrumbLocation = document.location.pathname;   
-	// assign the index manually
-	if(nonBreadcrumbLocation =="/")
-	{
-		nonBreadcrumbLocation = "index";
-	} 
-	// strip the first occurence of the '/'
-	else{
-		nonBreadcrumbLocation = nonBreadcrumbLocation.substring(1,nonBreadcrumbLocation.length);
-	} 
-	//chop of the last char if it is a '/' 
-	var lastChar = nonBreadcrumbLocation.substring(nonBreadcrumbLocation.length-1,nonBreadcrumbLocation.length);  
-	if(lastChar=="/")  {
-		nonBreadcrumbLocation = nonBreadcrumbLocation.substring(0,nonBreadcrumbLocation.length-1);
-	}
-	var slashTag = /\/+/g;
-	nonBreadcrumbLocation = nonBreadcrumbLocation.replace(slashTag,",") ;
-	//alert("the last char: "+nonBreadcrumbLocation.substring(nonBreadcrumbLocation.length-1,nonBreadcrumbLocation.length));
-	//alert(nonBreadcrumbLocation);    
-	ggPageName = jQuery.trim(nonBreadcrumbLocation);  
-}
-</script>
 	
 	
 	<a name="content" class="hidden"></a> 
@@ -391,22 +390,11 @@ else{
 
 
 
-<!--privacy policy-->
-
-  <div class="grid_12 alpha omega">
-      <h1>GlobalGiving Privacy Policy</h1>  
- <img alt="privacy policy banner" src="http://cloud.globalgiving.org/img/banner_collages/banner_collage2.jpg"> 
-  </div>
-  <!--page title-->
-   
-
-   
-
-  <!--end page title-->
-
-  <!--content-->
-
-  <div class="grid_9 alpha">
+  <div class="grid_12 alpha omega bigText">
+      <h1>GlobalGiving Privacy Policy</h1>
+      <p>
+      <img alt="privacy policy banner" src="http://cloud.globalgiving.org/img/banner_collages/banner_collage2.jpg"> 
+    </p>
   <p>
 	GlobalGiving values you and respects your privacy. We collect information to support our 
 	relationship with you, improve our services, and communicate about promotions or special 
@@ -425,13 +413,10 @@ else{
 
   <p>This policy describes what personal information we collect and how we use it. You can always 
 	find the most current version of our privacy policy at <a href="/aboutus/privacypol.html">www.globalgiving.org/aboutus/privacypol.html</a>. 
-</p>
-   </div>  
-<div class="clear960">
-	     &nbsp;
-</div> 
+  </p>
+ </div>
  
- <div class="grid_3 alpha">
+ <div class="grid_4 alpha bigText">
  	<ul class="noListStyle">
      <li><a href="#0">Information Collection</a></li>
 	 <li><a href="#1">Creating globalgiving.org Account</a></li>
@@ -441,7 +426,7 @@ else{
 	 <li><a href="#4">Contests, Promotions, and Surveys</a></li>  
 	</ul>
  </div>
-  <div class="grid_3">
+  <div class="grid_4 bigText">
   	<ul class="noListStyle">
      <li><a href="#4a">Creating a Fundraiser or Registry</a></li>
 	 <li><a href="#5">Technical Information</a></li>
@@ -451,7 +436,7 @@ else{
 	 <li><a href="#7">Viewing and Updating Your Information on GlobalGiving</a></li>
 	</ul>
   </div>
-  <div class="grid_3 omega">
+  <div class="grid_4 omega  bigText">
     <ul class="noListStyle"> 	
      <li><a href="#8">Links to Other Websites</a></li>
 	 <li><a href="#8a">Security</a></li>
@@ -460,7 +445,7 @@ else{
 	</ul>
   </div> 
 
-<div class="grid_9 alpha">
+    <div class="grid_12 alpha omega bigText">
 
   <h4>
   <a name="0"></a>
@@ -757,18 +742,14 @@ make changes to your information and update your account at any time.
 <br>Washington, DC 20005<br>
   <br>Phone: (202) 232-5784
 <br>Toll Free: (877) 605-2314
-<br>Fax: (202) 232-0534 
+<br>Fax: (202) 315-2558 
 
   </p>
   
   <p>
-  Last Modified:  2009/09/15
+  Last Modified:  2011/04/20
   </p> 
 </div>
-
-  <!--end content-->
-
-<!--end privacy policy-->
 
   
 </div> <!-- END container 12 for content -->
@@ -793,67 +774,80 @@ make changes to your information and update your account at any time.
 		<div class="grid_12 alpha omega">
 			<div class="grid_2 alpha">
 				<ul class="footText">
-					<li class="footTitle"><a href="/aboutus/">About Us</a></li>
-					<li><a href="/howitworks.html">How GlobalGiving Works</a></li>
-					<!--<li><a href="/aboutus/media">GlobalGiving in the News</a></li>-->
-					<li><a href="/aboutus/bios.html">Our Team</a></li>
-					<li><a href="/aboutus/jobs/">Jobs &amp; Internships</a></li>
-                    <li><a href="/aboutus/privacypol.html">Privacy Policy</a></li>
-					<li><a href="/help.html">Help &amp; FAQ</a></li>
-					<li><a href="/contactus/">Contact us</a></li>
+					<li class="footTitle"><a href="/aboutus/" onclick="trackFooterClick(this)" ;="">About Us</a></li>
+					<li><a href="/howitworks.html" onclick="trackFooterClick(this)" ;="">How GlobalGiving Works</a></li>
+					<!--<li><a href="/aboutus/media" onclick="trackFooterClick(this)";>GlobalGiving in the News</a></li>-->
+					<li><a href="/aboutus/bios.html" onclick="trackFooterClick(this)" ;="">Our Team</a></li>
+					<li><a href="/aboutus/jobs/" onclick="trackFooterClick(this)" ;="">Jobs &amp; Internships</a></li>
+                    <li><a href="/aboutus/privacypol.html" onclick="trackFooterClick(this)" ;="">Privacy Policy</a></li>
+                    <li><a href="/aboutus/terms-of-service.html" onclick="trackFooterClick(this)" ;="">Terms of Service</a></li>
+					<li><a href="/help.html" onclick="trackFooterClick(this)" ;="">Help &amp; FAQ</a></li>
+					<li><a href="/contactus/" onclick="trackFooterClick(this)" ;="">Contact us</a></li>
 				</ul>
 			</div>
 
 			<div class="grid_2">
 				<ul class="footText"> 
-					<li class="footTitle"><a href="/non-profits/join-globalgiving/">Post A Project</a></li> 
-					<li><a href="/dy/v2/pe/nomination/start.html">Nominate Your Project</a></li>
-					<li><a href="/non-profits/join-globalgiving/recommend.html">Recommend a Project</a></li>
-					<li><a href="/aboutus/dd.html">Application Documents &amp; Due Diligence</a></li>
-					<li><a href="/non-profits/join-globalgiving/">Learn How To Join</a></li>
+					<li class="footTitle"><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this)" ;="">Post A Project</a></li> 
+					<li><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this)" ;="">Add Your Project</a></li>
+					<li><a href="/non-profits/join-globalgiving/recommend.html" onclick="trackFooterClick(this)" ;="">Recommend a Project</a></li>
+					<li><a href="/aboutus/dd.html" onclick="trackFooterClick(this)" ;="">Application Documents &amp; Due Diligence</a></li>
+					<li><a href="/non-profits/features-and-benefits/" onclick="trackFooterClick(this)" ;="">Features &amp; Benefits</a></li>
+					<li><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this)" ;="">How To Join</a></li>
 				</ul>
 			</div>
 
 			<div class="grid_2">
 				<ul class="footText">
-					<li class="footTitle"><a href="/dy/v2/content/browse.html">Ways To Give</a></li>
-					<li><a href="/dy/v2/content/browse.html">Donate to a Project</a></li>
-					<li><a href="/gifts">Gift Cards</a></li>
-					<li><a href="/project-of-the-month-club/">Project of the Month Club</a></li>
-					<li><a href="/gifts/inhonor.html">Donate In Honor</a></li>
-					<li><a href="/givingtools/">Registries &amp; Fundraisers</a></li>
-					<li><img src="/img/flags/gb.gif" alt="UK Flag" style="width:16px; height:11px"> <a href="http://www.globalgiving.co.uk/">GlobalGiving UK</a></li>
+					<li class="footTitle"><a href="/dy/v2/content/browse.html" onclick="trackFooterClick(this)" ;="">Ways To Give</a></li>
+					<li><a href="/dy/v2/content/browse.html" onclick="trackFooterClick(this)" ;="">Donate to a Project</a></li>
+					<li><a href="/gifts/" onclick="trackFooterClick(this)" ;="">Gift Cards</a></li>
+					<li><a href="/project-of-the-month-club/" onclick="trackFooterClick(this)" ;="">Project of the Month Club</a></li>
+					<li><a href="/gifts/inhonor.html" onclick="trackFooterClick(this)" ;="">Donate In Honor</a></li>
+					<li><a href="/givingtools/" onclick="trackFooterClick(this)" ;="">Registries &amp; Fundraisers</a></li>
+					<li><img src="/img/flags/gb.gif" alt="UK Flag" style="width:16px; height:11px"> <a href="http://www.globalgiving.co.uk/" onclick="trackFooterClick(this)" ;="">GlobalGiving UK</a></li>
 				</ul>
 			</div>
 			<div class="grid_2">
 				<ul class="footText">
-					<li class="footTitle"><a href="/get-involved/">Learn &amp; Do More</a></li>
-					<li><a href="/to-go">API</a></li>
-					<li><a href="/guaranteed/">GlobalGiving Guaranteed</a></li>
-					<li><a href="/seeresults.html">Our Impact to Date</a></li>
-					<li><a href="/inthefield/">In the Field</a></li>
-					<!--<li><a href="/news/">Newsletter</a></li>-->
+					<li class="footTitle"><a href="/get-involved/" onclick="trackFooterClick(this)" ;="">Learn &amp; Do More</a></li>
+					<li><a href="/to-go/" onclick="trackFooterClick(this)" ;="">API</a></li>
+					<li><a href="/guaranteed/" onclick="trackFooterClick(this)" ;="">GlobalGiving Guaranteed</a></li>
+					<li><a href="/seeresults.html" onclick="trackFooterClick(this)" ;="">Our Impact to Date</a></li>
+					<li><a href="http://inthefield.globalgiving.org/" onclick="trackFooterClick(this)" ;="">In the Field</a></li>
+					<li><a href="/newsletter/" onclick="trackFooterClick(this)" ;="">Newsletter</a></li>
 					<li><a href="http://blog.globalgiving.org">Blog</a></li>
-					<li><a href="/aboutus/logos.html">Logos</a></li>
+					<li><a href="/aboutus/logos.html" onclick="trackFooterClick(this)" ;="">Logos</a></li>
 				</ul>
 			</div>
 			<div class="grid_4 omega">
+				<div class="newsletterSignup">
+					<div class="footLogoTitle"><a href="/newsletter/" onclick="trackFooterClick(this)" ;="">Sign up for our monthly newsletter</a></div> 
+                    <form action="http://globalgiving.us1.list-manage1.com/subscribe/post?u=3cd22f53c66be5c139fe0dc7a&amp;id=7bd2052374" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onsubmit="_gaq.push(['_trackEvent', 'Newslettler', 'Email Submitted']);">						
+				        <div class="ctrlHolder">    
+                        <input type="text" value="e-mail" name="EMAIL" class="required email" size="30" maxlength="200" id="mce-EMAIL" style="color: #777777;" onclick="clearEmail(this);" onfocus="clearEmail(this);" onblur="fillEmail(this);"> 
+				        <input type="image" src="/img/buttons/sign_up_footer.gif" name="submitbutton" value="Submit" style="position: relative; bottom: 2px; vertical-align: top;">
+				        <div class="footText"><em><a href="/newsletter/" onclick="trackFooterClick(this)" ;="">Not sure? Read samples of previous newsletters</a></em></div> 
+				        </div> 
+				    </form>
+				</div>
+				
 				<div id="facebookFooterLogo" class="logoDiv">
 				<ul class="footSocialLogos">  
-					<li class="footLogoTitle"><a href="http://www.facebook.com/globalgiving">Become a fan on</a></li>
-					<li><a href="http://www.facebook.com/globalgiving"><img src="/img/navigation/footer/facebook.gif" alt="Facebook" style="width:105px; height:39px"></a></li> 
+					<li class="footLogoTitle"><a href="http://www.facebook.com/GlobalGiving" onclick="trackFooterClick(this)" ;="">Become a fan on</a></li>
+					<li><a href="http://www.facebook.com/GlobalGiving" onclick="trackFooterClick(this)" ;=""><img src="/img/navigation/footer/facebook.gif" alt="Facebook" style="width:105px; height:39px"></a></li> 
 				</ul>
 				</div>
 				<div class="logoDiv">
 				<ul class="footSocialLogos">  
-					<li class="footLogoTitle twitter"><a href="http://www.twitter.com/globalgiving">Follow us on</a></li> 
-					<li><a href="http://www.twitter.com/globalgiving"><img src="/img/navigation/footer/twitter.gif" alt="Twitter" style="width:97px; height:25px"></a></li> 
+					<li class="footLogoTitle twitter"><a href="http://www.twitter.com/GlobalGiving" onclick="trackFooterClick(this)" ;="">Follow us on</a></li> 
+					<li><a href="http://www.twitter.com/GlobalGiving" onclick="trackFooterClick(this)" ;=""><img src="/img/navigation/footer/twitter.gif" alt="Twitter" style="width:97px; height:25px"></a></li> 
 				</ul>
 				</div>
 				<div class="logoDiv">
 				<ul class="footSocialLogos">  
-					<li class="footLogoTitle"><a href="/rss.html">RSS</a></li>
-					<li><a href="/rss.html"><img src="/img/navigation/footer/rss.gif" alt="RSS" style="width:41px; height:42px"></a></li> 
+					<li class="footLogoTitle"><a href="/rss.html" onclick="trackFooterClick(this)" ;="">RSS</a></li>
+					<li><a href="/rss.html" onclick="trackFooterClick(this)" ;=""><img src="/img/navigation/footer/rss.gif" alt="RSS" style="width:41px; height:42px"></a></li> 
 				</ul>
 				</div> 
 			</div>
@@ -866,7 +860,7 @@ make changes to your information and update your account at any time.
 		<div class="grid_12 noMargin alpha omega"> 
 			<div class="grid_7 alpha" id="trustlogos">
 				<div class="grid_3 alpha omega">
-				<span class="footTitle"><a href="/aboutus/media/index.html#3">Featured In</a></span><br>
+				<span class="footTitle"><a href="/aboutus/media/index.html#3" onclick="trackFooterClick(this)" ;="">Featured In</a></span><br>
 				<a href="/aboutus/media/index.html#3"><img src="/img/navigation/footer/logos.gif" alt="Media Logos" style="width:220px; height:69px"></a> 
 				</div>
 				<div id="lineDiv">
@@ -884,19 +878,18 @@ make changes to your information and update your account at any time.
 			</div>
 			<div class="grid_5 omega">
 				<div id="finePrint">
-					<div class="footTitle finePrint"><a href="/aboutus/dd.html">The Fine Print</a></div>
+					<div class="footTitle finePrint"><a href="/aboutus/dd.html" onclick="trackFooterClick(this)" ;="">The Fine Print</a></div>
 					<p class="footText notPrinted">
-						<a href="/aboutus/dd.html">
+						<a href="/aboutus/dd.html" onclick="trackFooterClick(this)" ;="">
 						Projects on globalgiving.org undergo compliance checks to ensure they have a bona fide charitable purpose and meet
-						applicable laws relating to international philanthropy. Organizations listed as partners do not necessarily endorse or
-						support any particular project listed on globalgiving.org. The GlobalGiving Foundation is a 501(c)3 organization (EIN: 30-0108263).
-						</a>
+						applicable laws relating to international philanthropy.</a> Organizations listed as partners do not necessarily endorse or
+						support any particular project listed on globalgiving.org. <a href="/aboutus">The GlobalGiving Foundation is a 501(c)3 organization</a> (EIN: 30-0108263).
 					</p>
 					<p class="footText">
 						GlobalGiving<br>
 						1023 15th Street, NW, 12th Floor, Washington, DC 20005<br>
-						Phone: (202) 232-5784  &nbsp;&nbsp; Fax: (202) 232-0534<br>
-						<a href="/contactus/" class="contactus">Contact us</a>
+						Phone: (202) 232-5784  &nbsp;&nbsp; Fax: (202) 315-2558<br>
+						<a href="/contactus/" class="contactus" onclick="trackFooterClick(this)" ;="">Contact us</a>
 					</p>
 
 					<div id="copyright" class="footText">
@@ -915,162 +908,18 @@ make changes to your information and update your account at any time.
 	</div>
 </div>
 
+
+
 <noscript>
 <div id="noscript">
 <div>WARNING: Javascript is currently disabled or is not available in your browser. GlobalGiving makes extensive use of Javascript and will not function properly with Javascript disabled. <a href="http://www.google.com/support/bin/answer.py?hl=en&amp;answer=23852" target="_blank">Please enable Javascript</a> and refresh this page.</div>
 </div>  
 </noscript>
 
+<!--
 <div id="tracking" class="hidden">
-    <!-- *** START TRACKING CODE ***-->    
-    <!-- NOT ACTIVE can be used to change to a different suite id and currency -->
-    <!-- #set var="omn_account"   value="var c_s_account='globalgivingcom2,globalgivingcom,globalgivingcom-global'" -->
-    <!-- #set var="omn_currency"   value="var c_currency='USD'" --> 
-    <!-- END NOT ACTIVE -->
-    
-    <!--omniture analytics javascript-->
-
-<div style="position:absolute; top:-1px; left:-1px; width:1px; height:1px; overflow: hidden;">
-
-<!--SiteCatalyst code version: H.5.-->
-<!--Copyright 1997-2006 Omniture, Inc. More info available at www.omniture.com-->  
-<script type="text/javascript"> 
-	
-	
-</script>
-<script src="/javascript/omntrx.js" type="text/javascript"></script><img name="s_i_globalgivingcom" height="1" width="1" border="0" alt="" src="https://omntrx2.globalgiving.com/b/ss/globalgivingcom,globalgivingcom-global/1/H.5-pdv-2/s54148711953033?[AQB]&amp;ndh=1&amp;t=30/0/2020%2021%3A40%3A34%204%200&amp;ns=manyfutures&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20110503234057id_/http%253A//www.globalgiving.org/aboutus/privacypol.html&amp;cc=USD&amp;ch=about&amp;c2=Privacy%20Policy&amp;c4=Privacy%20Policy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-<script type="text/javascript">
-/* Any vars that we set should be added here so they can be cleared
-   Before any subsequent micro-link calls (or macrolink from ajax)
-   calls made on same page.
-*/
-if (typeof ggPageName=="undefined") {
-    ggPageName="";
-}
-
-s.events='';
-s.products='';
-s.purchaseID='';
-s.eVar1='';
-s.eVar2='';
-s.eVar3='';
-s.eVar4="";
-s.eVar5="";
-s.eVar6="";
-s.eVar7="";
-s.eVar8="";
-s.eVar9="";
-s.eVar10="";
-s.eVar11="";
-s.eVar12="";    
-s.eVar13="";    
-s.eVar14="";    
-s.eVar15="";    
-s.eVar16="";    
-s.eVar17="";    
-s.eVar18="";    
-s.eVar19="";    
-s.eVar20="";    
-s.pageName='';
-s.server='';
-s.prop1='';
-s.prop2='';
-s.prop3='';
-s.prop4="";
-s.prop5="";
-s.prop6="";
-s.prop7="";
-s.prop8="";
-s.prop9="";
-s.prop10="";
-s.channel="";
-
-s.pageName=ggPageName;
-s.prop2=ggPageName;
-s.prop4=(getCookie('omniture_session_browse_abtestid_cookie_value')==null?ggPageName:getCookie('omniture_session_browse_abtestid_cookie_value')+"_"+ggPageName);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-s.channel='about';
-</script>
-<script type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageType="";
-/* E-commerce Variables */
-s.campaign="";
-s.state="";
-s.zip="";
-//s.events=""
-//s.products=""
-//s.purchaseID=""
-//s.eVar1=""
-if (document.referrer&&document.referrer!="") s.eVar2=document.referrer;
-//s.eVar4=""
-//s.eVar5="";
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><!--/DO NOT REMOVE/-->
-<!--end SiteCatalyst code version: H.5.-->
 </div>
-
-  
-    <!-- Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-// make sure that google loaded
-if (typeof(_gat) != "undefined") {
-	var pageTracker = _gat._getTracker("UA-1836649-1");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-}
-</script>
-
-
-    <!-- *** END TRACKING CODE ***-->
-</div>
-
+-->
    
 
  
