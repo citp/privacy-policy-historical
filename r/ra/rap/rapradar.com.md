@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapradar.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514171215id_/http%3A//rapradar.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapradar.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215064139id_/http%3A//rapradar.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Rap Radar :: Privacy Policy
 
@@ -108,4 +108,4 @@ This information may be provided in a standardized format that is not specific t
 
 **CONTACT US**
 
-If you would like to update or correct your information or modify your communication preferences, or if you have questions regarding our Privacy Policy or the use of information collected, you can contact us by email:  privacy@rapradar.com or by writing to us at: Rap Radar, 400 Garden City Plaza, Suite 202, Garden City, NY 11530 – Attention:  Privacy Policy 
+If you would like to update or correct your information or modify your communication preferences, or if you have questions regarding our Privacy Policy or the use of information collected, you can contact us by email:  privacy@rapradar.com or by writing to us at: Rap Radar, 400 Garden City Plaza, Suite 202, Garden City, NY 11530 – Attention:  Privacy Policy
