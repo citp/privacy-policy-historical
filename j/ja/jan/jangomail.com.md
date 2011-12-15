@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429194859id_/https%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215194049id_/https%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.*
 
 # JangoMail Email Marketing Privacy Policy
 
@@ -108,6 +108,6 @@ JangoMail Inquiries
 JangoMail  
 P.O. Box 751024  
 Dayton, OH 45475  
-Or see the [Contact Us](https://web.archive.org/web/20110429194859id_/https%3A//www.jangomail.com/contactus.asp) page 
+Or see the [Contact Us](https://web.archive.org/web/20111215194049id_/https%3A//www.jangomail.com/contactus.asp) page 
 
 Last Updated December 2010 
