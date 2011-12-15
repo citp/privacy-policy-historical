@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cndb.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604140346id_/http%3A//www.cndb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cndb.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215141000id_/http%3A//cndb.com/privacy.html) for the most accurate reproduction.*
 
-# Celebrity Nudity Database, nude celeb movie and television reviews | CNdb.com
+# Celebrity Nudity Database Privacy Policy, nude celeb movie and television reviews | CNdb.com
 
 At CNDB.com, we respect and protect your privacy. Our site is a safe environment for anyone who visits and becomes a member or purchases items from us. As an entertainment-related products and services provider, we are committed to providing you the best possible online service and experience, as well as the best products. The purpose of this policy statement is to fully share with you how we feel about the most important aspects of using this site. 
 
 #### What information does CNDB.com collect and how is it used?
 
-**A.** When you visit the CNDB.com site, we collect some basic information that does not identify individual users. This includes which pages are visited and any feedback from our visitors. We then aggregate this information with thousands of other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible. 
+**A.** When you visit the CNDB.com site, we collect some basic information that does not identify individual users. This includes which pages are visited and any feedback from our visitors. We then aggregate this information with thousands of other pieces of information to improve our site and make your experience on the site as valuable and efficient as possible.
 
 **B.** Our site will eventually use cookies to speed navigation, keep track of items, and provide you with custom-tailored content. We also use cookies to remember information you gave us so you don't have to reenter it each time you visit the site. By showing us how and when visitors use the site, cookies also help us see which areas are popular and which are not. Many improvements and updates to the site are based on data such as total number of visitors and pages viewed. 
 
