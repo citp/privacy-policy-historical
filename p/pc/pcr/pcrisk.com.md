@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrisk.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218082215id_/http%3A//www.pcrisk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrisk.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215201600id_/http%3A//www.pcrisk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Information, Privacy, Site, Policy, Online
 
@@ -27,9 +27,10 @@ After a transaction, your private information (credit cards, social security num
  **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.  
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.  
+www.pcrisk.com shows advertisements and 3-rd party content which might use cookies. This includes, but is not limited to: Google adsense advertising network, Add this content sharing platform, Affiliate networks: Revenuewire.com, OneNetworkDirect.com, cj.com, linkshare.com, cleverbridge.com and others. Cookies are collected to identify visitor arrival source or provide customized browsing experience. www.pcrisk.com is not responsible for the information they collect.
 
- **Do we disclose any information to outside parties?**
+**Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -64,3 +65,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 
  **www.pcrisk.com**  
 [info@pcrisk.com](mailto:info@pcrisk.com)
+
+**Thank You for using our site!**
