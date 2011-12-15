@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303204451id_/https%3A//www.encoding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215015112id_/http%3A//www.encoding.com/privacy) for the most accurate reproduction.*
 
-# On Demand Video Encoding
+# Video Encoding Software - Transcoding Platform - Cloud Encoder
 
 We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
 
