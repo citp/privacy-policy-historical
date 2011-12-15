@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipnut.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625124728id_/http%3A//tipnut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipnut.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215150212id_/http%3A//tipnut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : TipNut.com
 
@@ -6,7 +6,7 @@
 
 TipNut.com will not sell your email address to a third party. At no time is personal information collected without explicit consent.
 
-Email subscriptions are managed and delivered by [Google’s Feedburner Service](https://www.google.com/accounts/ServiceLogin?service=feedburner). Subscribers and users of the Feedburner service are subject to Google’s terms and privacy policies, you can review their [Privacy Policy](http://www.google.com/intl/en/privacy/) and [TOS](http://www.google.com/accounts/TOS) before subscribing by email. Tipnut.com is not responsible or liable for the actions, service failures, security measures or policies and procedures of Feedburner.com.
+Email subscriptions are managed and delivered by [Google’s Feedburner Service](http://www.google.com/intl/en/privacy/). Subscribers and users of the Feedburner service are subject to Google’s terms and privacy policies, you can review their [Privacy Policy](http://www.google.com/intl/en/privacy/) and [TOS](http://www.google.com/accounts/TOS) before subscribing by email. Tipnut.com is not responsible or liable for the actions, service failures, security measures or policies and procedures of Feedburner.com.
 
  **Information Logged**
 
