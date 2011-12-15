@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085245id_/http%3A//www.edfenergy.com/products-services/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215074254id_/http%3A//www.edfenergy.com/products-services/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for www.edfenergy.com (the “Website”)
 
 The privacy of your personal data is important to EDF Energy.
 
-We are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.
+We are dedicated to safeguarding and preserving your privacy when you are visiting our site or communicating electronically with us.
 
-This Privacy Policy  (in conjunction with our general Website Terms and Conditions [hyperlink] and any supplementary terms and conditions that can be found on, and may apply, to specific parts of the Website), provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.
+This Privacy Policy (in conjunction with our general [Website Terms and Conditions](https://web.archive.org/products-services/terms-conditions.shtml) and any supplementary terms and conditions that can be found on, and may apply to, specific parts of the Website) explains what happens to any personal data that you provide to us, or that we collect from you.
 
 We do update this Privacy Policy from time to time so please review it regularly.
 
 **Information We Collect  
 **In operating the Website we may collect and process the following data about you:  
 i. details of your visits to the Website and the resources that you access;  
-ii. information that you provide by filling in forms on the Website, such as when you registered for information or make a purchase; or  
+ii. information that you provide by filling in forms on the Website, such as when you register for information or make a purchase; or  
 iii. information provided to us when you communicate with us for any reason.  
 
 
@@ -42,7 +42,7 @@ If you are an existing customer, we may contact you with information about goods
 **Storing Your Personal Data  
 **Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure their safety.
 
-The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
+The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically. Transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
 **Disclosing Your Information  
 **Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).
@@ -57,8 +57,8 @@ iii. to assist fraud protection and minimise credit risk.
 
 
 **Access To Information  
-**The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 at our discretion which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.  
+**The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 at our discretion which covers the cost to us of providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.  
 
 
 **Contacting Us  
-**We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to use our ‘contact us’ facility on our EDF Energy website or by logging into MyAccount, your personal energy account service.
+**We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us using the [Contact Us](https://web.archive.org/contact-us/index.shtml) facility on this Website or by logging into MyAccount, your personal energy account service.
