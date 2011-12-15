@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wparchive.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617063532id_/http%3A//wparchive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wparchive.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215180450id_/http%3A//wparchive.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
