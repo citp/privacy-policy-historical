@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveatc.net privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208224216id_/http%3A//www.liveatc.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveatc.net privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215042544id_/http%3A//www.liveatc.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LiveATC.net
 
@@ -78,8 +78,8 @@ If you have questions or suggestions, you can contact us at:
 
 LiveATC.net   
 c/o Dave Pascoe   
-P.O. Box 86   
-Leominster, MA 01453   
+P.O. Box 178   
+Amherst, NH 03031   
 Or send an electronic message via the [site contact form](http://www.liveatc.net/ct/contact.php)
 
 _Last update: February 1, 2009_
@@ -116,6 +116,6 @@ If you have any questions about this Notice or about the collection or maintenan
 
 Dave Pascoe   
 c/o LiveATC.net   
-P.O. Box 86   
-Leominster, MA 01453   
+P.O. Box 178   
+Amherst, NH 03031   
 Or send an electronic message via the [site contact form](http://www.liveatc.net/ct/contact.php)
