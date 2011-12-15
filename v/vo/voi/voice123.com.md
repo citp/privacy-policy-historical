@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voice123.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617071549id_/http%3A//about.voice123.com/voice/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice123.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215030617id_/http%3A//about.voice123.com/voice/content/privacy_policy) for the most accurate reproduction.*
 
 # Voice123 Privacy Statement
 
