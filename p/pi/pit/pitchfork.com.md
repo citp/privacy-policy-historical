@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pitchfork.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612173129id_/http%3A//pitchfork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchfork.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215171829id_/http%3A//www.pitchfork.com/privacy) for the most accurate reproduction.*
 
-# Pitchfork: Privacy Policy
+# Privacy Policy | Pitchfork
 
 Last updated: March 2009
 
