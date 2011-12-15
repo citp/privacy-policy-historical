@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the nandos.co.uk privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226112956id_/http%3A//www.nandos.co.uk/default/PP/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandos.co.uk privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215102919id_/http%3A//www.nandos.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Nando's Chicken Restaurants, famous for our Peri-Peri Chicken Recipes
-
-| 
+# Privacy Policy | Nando's
 
 **Privacy Policy (9.12.2010)**
 
-In a nut shell we will retain any personal information you share with us, we won’t pass it onto anyone else and you can always [contact us ](http://www.nandos.co.uk/contactus)to find out what information we have about you.  If you want to know more you can read the legal stuff below … 
+In a nut shell we will retain any personal information you share with us, we won’t pass it onto anyone else and you can always [contact us ](https://web.archive.org/contact-us)to find out what information we have about you.  If you want to know more you can read the legal stuff below … 
 
 1\. Introduction and General Terms
 
@@ -87,5 +85,3 @@ In a nut shell we will retain any personal information you share with us, we won
 
   
 15\. **How can I contact Nando’s?** If you have any questions or comments about this Privacy Policy please feel free to contact us via the contact us forms on our website ([www.nandos.co.uk/contactus](http://www.nandos.co.uk/contactus)) or write to Nando’s Customer Care, Erico House, 93-99 Upper Richmond Road, Putney, London SW15 2TG. If any provision of this Privacy Policy is judged to be illegal, void or unenforceable due to applicable law [or by order of a court of competent jurisdiction] it shall be deemed deleted and the continuation in full force and effect of the remainder of the provisions will not be prejudiced unless a court of competent jurisdiction determines that the substantive purpose of this Privacy Policy is then frustrated, in which case you may contact Nando’s at the above address in order to opt-out of the Privacy Policy.
-
-| 
