@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1-webmarks.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429200127id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1-webmarks.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215125327id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html) for the most accurate reproduction.*
 
 # Privacy Policy - A1-Webmarks
 
@@ -39,4 +39,4 @@ If you have any further questions about privacy, please contact us by sending an
 August 31, 2010
 
   
-[Terms of Use](https://web.archive.org/web/20110429200127id_/http%3A//www.a1-webmarks.com/terms_of_use_en.html)   [Privacy Policy](https://web.archive.org/web/20110429200127id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html)   [Feedback](https://web.archive.org/web/20110429200127id_/http%3A//www.a1-webmarks.com/feedback_en.html)Copyright © 2006-2011 Q-Success
+[Terms of Use](https://web.archive.org/web/20111215125327id_/http%3A//www.a1-webmarks.com/terms_of_use_en.html)   [Privacy Policy](https://web.archive.org/web/20111215125327id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html)   [Feedback](https://web.archive.org/web/20111215125327id_/http%3A//www.a1-webmarks.com/feedback_en.html)Copyright © 2006-2011 Q-Success
