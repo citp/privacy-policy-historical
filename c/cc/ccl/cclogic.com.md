@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cclogic.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413151244id_/http%3A//www.cclogic.com/cyprus-company-formation/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclogic.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215064521id_/http%3A//www.cclogic.com/home/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | cyprus-company-formation
+# Privacy Policy
 
 In order to provide you with interactive computer billing services, offshore company formation services and offshore banking, cclogic.com collects, uses, and shares certain information about you. This policy explains what we collect, with whom we share it, and how you can interact with cclogic.Com in order to ensure the accuracy of the data we collect, use, and share. A. The information cclogic.Com collects from you helps cclogic.Com better serve the online community by continually personalizing the offshore services cclogic.Com provides. cclogic.Com collects and maintains the following data:
 
