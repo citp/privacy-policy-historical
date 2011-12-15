@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the involver.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629064152id_/http%3A//www.involver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the involver.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215122439id_/http%3A//www.involver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Involver: The Web's Most Trusted Social Marketing Platform
 
