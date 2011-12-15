@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appup.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624213535id_/http%3A//www.intel.com/sites/sitewide/en_US/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appup.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215123939id_/http%3A//www.intel.com/sites/sitewide/en_US/privacy/privacy.htm) for the most accurate reproduction.*
 
 # Intel® Online Privacy Notice Summary
 
