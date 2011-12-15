@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607140841id_/http%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ace2three.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215065852id_/http%3A//www.ace2three.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Ace2Three - Privacy Policy
-
-Privacy Policy
-
-Home >> Privacy Policy
+# Play free Rummy on highly secured, reliable online Rummy portal
 
 At Ace2Three.com, we provide online skill games for fun and excitement in an accessible,understandable and trust-worthy environment. As part of this we are committed to protecting the privacy of our members and users. The privacy statement explains what information we collect from our members and users, how we use the information, and what choices are available to our users and members. 
 
@@ -21,3 +17,13 @@ Ace2Three.com is committed to protecting the privacy of children and to complyin
 
 
 By using our website, it is understood that you have given your consent to the collection and use of this information by Ace2Three.com and its partners and affiliates. From time to time, we may change our methods of collecting information and modify our privacy policy. We will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+_“If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any PII that we have collected about you, please e-mail your request to[info@ace2three.com](mailto:info@ace2three.com).”_
+
+“We use cookies and other technologies such as pixel tags and clear gifs to store certain types of information each time you visit any page on our website. Cookies enable this website to recognize the information you have consented to give to this website and help us determine what portions of this website are most appropriate for your professional needs. We may also use cookies to serve advertising banners to you. These banners may be served by us or by a third party on our behalf. These cookies will not contain any personal information.” 
+
+“Whether you want your web browser to accept cookies or not is up to you. If you haven't changed your computer's settings, most likely your browser already accepts cookies. If you choose to decline cookies, you may not be able to fully experience all features of the website. You can also delete your browser cookies of disable them entirely. But this may significantly impact your experience with our website and may make parts of our website non functional or inaccessible. We recommend that you leave them turned on.” 
+
+“We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.” 
+
+_“If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click[ http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp) You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by clicking [http://www.networkadvertising.org/.](http://www.networkadvertising.org/)”_
