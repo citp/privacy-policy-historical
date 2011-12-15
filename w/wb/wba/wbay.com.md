@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbay.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417024403id_/http%3A//www.wbay.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbay.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215031853id_/http%3A//www.wbay.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WBAY-TV Green Bay-Fox Cities-Northeast Wisconsin News
 
