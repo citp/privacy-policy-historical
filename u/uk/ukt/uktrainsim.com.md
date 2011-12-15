@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the uktrainsim.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616143705id_/http%3A//www.uktrainsim.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktrainsim.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215165328id_/http%3A//www.uktrainsim.com/privacy.php) for the most accurate reproduction.*
 
 # UKTrainSim
 
 **Options** _(see also the menu on the left)_  
 ---  
-  
-[](http://www.railsimulator.com/)
-
 Hereafter, the following definitions will be used to simplify the following document
 
 **'We', 'Us'** \- Refers to us, Atomic Systems IP Ltd.  
