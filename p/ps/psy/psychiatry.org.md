@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychiatry.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222191144id_/http%3A//www.psych.org/Footer/Privacy-Policy.aspx%3FFT%3D.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiatry.org privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215210517id_/http%3A//psych.org/Footer/Privacy-Policy.aspx%3FFT%3D.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
