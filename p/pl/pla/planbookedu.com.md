@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planbookedu.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128043300id_/http%3A//planbookedu.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbookedu.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215190454id_/http%3A//planbookedu.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - PlanbookEdu.com
 
 ## Privacy Policy
 
@@ -14,7 +14,7 @@ Your privacy is critically important to us. At PlanbookEdu we have a few fundame
 
 Below is our privacy policy which incorporates these goals:
 
-PlanbookEdu LLC (" **PlanbookEdu** ") operates several websites including [PlanbookEdu.com](http://www.planbookedu.com/) and [free-bingo-cards.com](http://www.free-bingo-cards.com/). It is PlanbookEdu's policy to respect your privacy regarding any information we may collect while operating our websites.
+PlanbookEdu LLC (" **PlanbookEdu** ") operates several websites including [PlanbookEdu.com](http://www.planbookedu.com/). It is PlanbookEdu's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
