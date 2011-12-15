@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapeboxunderground.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218192241id_/http%3A//scrapeboxunderground.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapeboxunderground.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215105117id_/http%3A//scrapeboxunderground.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scrapebox Underground
 
