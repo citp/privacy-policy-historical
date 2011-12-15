@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extendoffice.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611223333id_/http%3A//www.extendoffice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendoffice.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215103342id_/http%3A//extendoffice.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy of Extend Office
+# Privacy Policy
 
 ExtendOffice is committed to protecting your privacy. Your privacy is a priority at ExtendOffice. 
 
@@ -17,11 +17,7 @@ We collect your personal information because it helps us deliver a superior leve
  **What information do we collect? What do we use it for?**
 
   * ExtendOffice takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
-
-
   * ExtebdOffice uses secure server hosted by RegNow and other 3rd party credit card processors that encrypt the entire customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information.
-
-
   * You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser like FireFox.
 
 
@@ -43,10 +39,3 @@ ExtendOffice may amend this Privacy Policy from time-to-time. We will notify you
  **ExtendOffice Contact Information**
 
 If you would like to contact us with questions or comments concerning our Privacy Policy or if you feel your inquiry or request has not been addressed to your satisfaction, please contact ExtendOffice via e-mail: support@extendoffice.com. 
-
-We are online at  
-18:00-03:00
-
-Contact us by YM  
----  
-[](ymsgr:sendim?extendoffice@yahoo.com "Send IM To extendoffice")
