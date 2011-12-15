@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game1games.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630062641id_/http%3A//www.idealinternet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game1games.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215024211id_/http%3A//www.idealinternet.com/privacy.html) for the most accurate reproduction.*
 
 # Ideal Internet
 
