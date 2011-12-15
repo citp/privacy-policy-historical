@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adperk.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516023507id_/http%3A//www.adperk.com/docs/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adperk.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215210658id_/http%3A//business.adperk.com/docs/privacypolicy.pdf) for the most accurate reproduction.*
 
 # AdPerk Privacy Policy (last modified: January 31, 2011)
 
