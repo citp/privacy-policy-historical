@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the liveatc.net privacy policy that was archived on 2010-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101208224216id_/http%3A//www.liveatc.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liveatc.net privacy policy that was archived on 2011-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215042544id_/http%3A//www.liveatc.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -18,21 +18,20 @@
 
 <td width="500" align="center" valign="center">
 <font class="purSep"><a href="/contactform/form.php">Contact LiveATC.net</a> for advertising information<br>
-  <script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://ads.liveatc.net/www/delivery/ajs.php':'http://ads.liveatc.net/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=2&amp;withtext=1&amp;blockcampaign=1");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.liveatc.net/www/delivery/ajs.php?zoneid=2&amp;withtext=1&amp;blockcampaign=1&amp;cb=72628225446&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101208224216id_/http%3A//www.liveatc.net/privacy/"></script><noscript><a href='http://ads.liveatc.net/www/delivery/ck.php?n=a6f572b6&amp;cb={random}' target='_blank'><img src='http://ads.liveatc.net/www/delivery/avw.php?zoneid=2&amp;cb={random}&amp;n=a6f572b6' border='0' alt='' /></a></noscript>
+  <script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-5499700168635752");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-5499700168635752", "Front-728x90");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+<!-- Front-728x90 -->
+<script type="text/javascript">
+GA_googleFillSlot("Front-728x90");
+</script>
 </font>
 </td>
 
@@ -45,17 +44,36 @@
 	    <td width="156" valign="top"><!--
 <link href="global.css" rel="stylesheet" type="text/css">
 -->
-<table width="175" border="0">
+<table width="170" border="0">
 
   
 <tbody><tr>
 <td align="left">
 <form method="get" action="/search/">
 <font class="nav">
-<strong>Find LiveATC Streams<br> (by airport/ARTCC codes)</strong>
-<input type="text" name="icao" size="8">
+<strong><p class="style4">Find LiveATC.net Audio Streams</p>
+
+By airport/ARTCC code</strong>
+<br>
+<input type="text" name="icao" size="8" maxlength="4">
 <br>
 <small>(e.g., KBOS, JFK, EHAM, ZBW)</small>
+</font>
+</form>
+</td>
+</tr> <tr>
+<td align="left">
+<form method="get" action="/search/f.php">
+<font class="nav">
+<strong>
+By frequency
+</strong>
+<br>
+<input type="text" name="freq" size="7" maxlength="7">
+<br>
+<small>(e.g., 124.400, 128.75, 6.577)</small>
+<br>
+(partial freq ok)
 </font>
 </form>
 </td>
@@ -66,18 +84,35 @@
 </tr>
 
 <tr>
+<td>
+</td>
+</tr>
+
+<tr>
 <td align="left">
+<font class="nav">
+Site-wide search
+</font>
 <!-- SiteSearch Google -->
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  google.load('search', '1');
+  google.setOnLoadCallback(function() {
+    google.search.CustomSearchControl.attachAutoCompletion(
+      'partner-pub-5499700168635752:w7sh3cu04mn',
+      document.getElementById('q'),
+      'cse-search-box');
+  });
+</script>
 <form action="http://www.liveatc.net/googlesearchresults.php" id="cse-search-box">
   <div>
     <input type="hidden" name="cx" value="partner-pub-5499700168635752:w7sh3cu04mn">
     <input type="hidden" name="cof" value="FORID:11">
     <input type="hidden" name="ie" value="ISO-8859-1">
-    <input type="text" name="q" size="17">
-    <input type="submit" name="sa" value="Search LiveATC.net">
+    <input type="text" name="q" id="q" autocomplete="off" size="15">
   </div>
 </form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 <!-- SiteSearch Google -->
 
 </td></tr>
@@ -94,7 +129,7 @@
 &nbsp;<a href="/topfeeds.php">Top 50 LiveATC Feeds</a><br>
 &nbsp;<a href="/badwxfeeds.php">Bad Weather Areas</a><br>
 <br>
-&nbsp;<a href="/forums/frequently-asked-questions-(faq)">LiveATC FAQ</a><br>
+&nbsp;<a href="/faq">LiveATC FAQ</a><br>
 &nbsp;<a href="/ct/fcontact.php">Offer a LiveATC Feed</a>
 <br>
 &nbsp;<a href="/ct/contact.php">Contact LiveATC.net</a>
@@ -103,7 +138,7 @@
 <br>
 <br>
 &nbsp;<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=317809458&amp;mt=8" target="_blank">LiveATC on iPhone/iPad</a><br>
-&nbsp;Blackberry/Android coming!<br>
+&nbsp;<a href="https://market.android.com/details?id=net.liveatc.liveatc_app" target="_blank">LiveATC on Android</a><br>
 <br>
 &nbsp;<a href="http://m.liveatc.net">LiveATC Mobile</a>
 <br>
@@ -180,9 +215,8 @@
       <font class="nav">
       <a href="http://www.icecast.org" rel="nofollow" target="top"><img src="http://img.liveatc.net/icecast.png" border="0" alt="Icecast.org"></a>
       <br>
-      <small>
-Icecast Media Server
-</small>
+      <a href="http://savonet.sourceforge.net/" rel="nofollow" target="top"><img src="http://img.liveatc.net/liquidsoap.png" border="0" alt="Savonet/Liquidsoap"></a>
+      <br>
 </font>
       <p>&nbsp;</p>
       <p><span class="nav">
@@ -323,9 +357,9 @@ LiveATC.net
 <br>
 c/o Dave Pascoe
 <br>
-P.O. Box 86
+P.O. Box 178
 <br>
-Leominster, MA 01453
+Amherst, NH 03031
 <br>
 Or send an electronic message via the <a href="http://www.liveatc.net/ct/contact.php">site contact form</a>
 <br>
@@ -384,9 +418,9 @@ Dave Pascoe
 <br>
 c/o LiveATC.net
 <br>
-P.O. Box 86
+P.O. Box 178
 <br>
-Leominster, MA 01453
+Amherst, NH 03031
 <br>
 Or send an electronic message via the <a href="http://www.liveatc.net/ct/contact.php">site contact form</a>
 
@@ -401,7 +435,6 @@ Or send an electronic message via the <a href="http://www.liveatc.net/ct/contact
 
 
     <td width="120" valign="top">
-
 <font class="body">
 <a href="/donations.php">Please make a donation to help us keep growing!</a><br><br>
 </font>
@@ -416,15 +449,15 @@ Or send an electronic message via the <a href="http://www.liveatc.net/ct/contact
 
 <br>
 
-<script type="text/javascript"><!--
-google_ad_client = "pub-5499700168635752";
-/* front-page-right-column */
-google_ad_slot = "4940899397";
-google_ad_width = 120;
-google_ad_height = 600;
-//-->
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-5499700168635752", "RightColumn-160x600");
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+<!-- RightColumn-160x600 -->
+<script type="text/javascript">
+GA_googleFillSlot("RightColumn-160x600");
 </script>
 
 <br>
@@ -438,7 +471,7 @@ google_ad_height = 600;
 
 
 <div class="footer">
-<p>All Content Copyright© 2003-2010, LiveATC.net and Dave Pascoe, All Rights Reserved.  
+<p>All Content Copyright© 2003-2011, LiveATC.net and Dave Pascoe, All Rights Reserved.  
 <br>
 <font color="red">
 <b>
