@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113134547id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215125909id_/http%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -37,7 +37,7 @@ This site has security measures in place to protect the loss, misuse, and altera
 **Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. 
 
-You can send opt out requests by clicking here 
+You can opt out by logging in [here](https://www.valuemags.com/member/login.asp) and selecting the "Edit Email Address/Password" option at the bottom left. Please note that ValueMags Express customers will need to use the password retrieval functionality to get their password. 
 
 **Data Quality/Access**  
 This site gives users the following options for changing and modifying information previously provided: 
