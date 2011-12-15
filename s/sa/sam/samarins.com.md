@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the samarins.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128231449id_/http%3A//samarins.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samarins.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215101849id_/http%3A//samarins.com/privacy.html) for the most accurate reproduction.*
 
 # Samarins.com Privacy Policy
+
+| 
 
 • What information do we collect?    
 • How do we use collected information   
@@ -16,7 +18,7 @@ We only collect and store the following non-personal aggregate information: your
 
 ## How do we use collected information
 
-We use this non-personal aggregate information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors are using. We do not track or record information about individuals and their visits. We may use the information you provide in [Contact form](https://web.archive.org/web/20101128231449id_/http%3A//samarins.com/contact3.html) to respond to your questions or comments and we reserve the right to retain whatever information you submit, including your name, e-mail address and any questions or comments submitted. We will not send you any other email unless you contact us first and specifically request information, technical help, or assistance. We do not share, sell or rent this information to any third parties unless this will be required by law. 
+We use this non-personal aggregate information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors are using. We do not track or record information about individuals and their visits. We may use the information you provide in [Contact form](https://web.archive.org/web/20111215101849id_/http%3A//samarins.com/contact3.html) to respond to your questions or comments and we reserve the right to retain whatever information you submit, including your name, e-mail address and any questions or comments submitted. We will not send you any other email unless you contact us first and specifically request information, technical help, or assistance. We do not share, sell or rent this information to any third parties unless this will be required by law. 
 
 ## Links to Third Parties 
 
@@ -24,7 +26,7 @@ Samarins.com web sites contain links to other web sites. When accessing the web 
 
 ## Cookies and Web Beacons
 
-Cookies are small pieces of information that a Web site transfers to a visitor's computer for record-keeping purposes while at the site. The use of cookies is an industry standard, and you'll find cookies at most major Web sites. We do use cookies to store information, such as your personal preferences when you visit our site. We also use third party advertisements on Samarins.com to support our website. Some of these advertisers may use technology such as cookies and/or web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Canadian ads to someone in Canada, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).   
+Cookies are small pieces of information that a Web site transfers to a visitor's computer for record-keeping purposes while at the site. The use of cookies is an industry standard and you'll find cookies at most major Web sites. We do use cookies to store information, such as your personal preferences when you visit our site. We also use third party advertisements on Samarins.com to support our website. Some of these advertisers may use technology such as cookies and/or web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing Canadian ads to someone in Canada, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).   
 
 
 ## DART Cookies
@@ -34,9 +36,11 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 ## How can you contact us
 
-You can contact us using our [Contact form](https://web.archive.org/web/20101128231449id_/http%3A//samarins.com/contact3.html) or through the mail:  
+You can contact us using our [Contact form](https://web.archive.org/web/20111215101849id_/http%3A//samarins.com/contact3.html) or through the mail:  
 Samarins.com  
-311-22 Oakmount rd.   
-Toronto ON M6P 2M7  
+136 Fletcher cir.   
+Cambridge ON N3C 0B6  
 Canada  
 
+
+| 
