@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdbooster.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119140919id_/http%3A//crowdbooster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdbooster.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215083417id_/http%3A//crowdbooster.com/privacy) for the most accurate reproduction.*
 
 # Crowdbooster Privacy Policy
 
