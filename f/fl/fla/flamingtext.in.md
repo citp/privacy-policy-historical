@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the flamingtext.in privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106043210id_/http%3A//www.flamingtext.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingtext.in privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215025856id_/http%3A//flamingtext.in/privacy.html) for the most accurate reproduction.*
 
-# FlamingText.com
+# Logo Design Tool. Free and Online.
 
-We will not sell or give away **any** individual information that we collecti to any other companies or individuals. 
+### FlamingText.com: Privacy Policy
+
+We will not sell or give away **any** individual information that we collect to any other companies or individuals. 
 
 Only aggregated user information (if any) is provided to advertisers. 
 
@@ -23,7 +25,3 @@ In the course of serving advertisements to this site, our third-party advertiser
 Some services on this web site require that you are a registered user. To determine if you are registered, we use "Session Cookies" which will last while you are currently active on the site. 
 
 To report a violation by third parties, or if you have questions about this policy or suggestions on how to make it better, please [Contact Us](https://web.archive.org/contactus/). 
-
-* * *
-
-**[FlamingText.com](https://web.archive.org/cgi-bin/click.cgi?http://www.flamingtext.com/) \- [Contact Us](https://web.archive.org/contactus/). **
