@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanjames.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617035240id_/http%3A//www.stanjames.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanjames.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215150022id_/http%3A//www.stanjames.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # StanJames.com - Help: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Please read the following carefully to understand our views and practices regarding your personal data (" **Information** ") and how we will treat it. For the purpose of the Data Protection Act 2004 (" **Act** "), the data controller is Stan James plc of 1 The Square, Marina Bay, Gibraltar.
 
-This Privacy Policy (" **Policy** ") (together with our [Terms and Conditions](https://web.archive.org/web/20110617035240id_/http%3A//www.stanjames.com/help/help/termsandconditions.asp "Terms and Conditions") and any other documents referred to on it) sets out the basis on which any Information we collect from you, or that you provide to us, will be processed by us to enable us to manage your relationship with Stan James. By submitting your Information to us and/ or using Stan James' services you confirm your consent to the use of your Information as set out in this Policy.
+This Privacy Policy (" **Policy** ") (together with our [Terms and Conditions](http://www.stanjames.com/help/d.asp?show=standard-terms_sports "Terms and Conditions") and any other documents referred to on it) sets out the basis on which any Information we collect from you, or that you provide to us, will be processed by us to enable us to manage your relationship with Stan James. By submitting your Information to us and/ or using Stan James' services you confirm your consent to the use of your Information as set out in this Policy.
 
 ### Information Collection
 
@@ -14,7 +14,7 @@ We may collect and process the following Information about you:
 
 (i) Information that you provide when registering for a Stan James' account, posting material or requesting further services. We may also ask you for Information when you enter a competition or promotion, and if you report a problem with our Services.
 
-(ii) If you contact us, we may keep a record of that correspondence. Telephone calls to and from our Call Centre are recorded for training and security purposes along with the resolution of any queries arising from the service you receive.
+(ii) If you contact us, we may keep a record of that correspondence. Telephone calls to and from our Contact Centre are recorded for training and security purposes along with the resolution of any queries arising from the service you receive.
 
 (iii) Details of transactions you carry out in respect of our services and of the fulfilment of your orders.
 
