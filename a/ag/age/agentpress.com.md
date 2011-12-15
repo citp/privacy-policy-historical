@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agentpress.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602181103id_/http%3A//www.studiopress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agentpress.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215070822id_/http%3A//www.studiopress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
