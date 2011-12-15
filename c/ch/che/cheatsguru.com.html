@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cheatsguru.com privacy policy that was archived on 2011-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605234111id_/http%3A//www.cheatsguru.com/help/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheatsguru.com privacy policy that was archived on 2011-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215120043id_/http%3A//www.cheatsguru.com/help/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -26,6 +26,7 @@ img.src		=	'http://www.cheatsguru.com/?i=my_stats&' + rnd;
 </script>
 </head>
 <body id="upprofile">
+<div id="opaco" class="dn"></div>
 <!--cgAlert / main.js-->
 <div style="background:#000;visibility:hidden;padding:2px; position:absolute; left:38%; top:55%; z-index:2" id="popUp">
 <div style="background:#24314a; border:solid 1px #364a6f; padding:10px; font-size:11px; text-align: center">
@@ -37,7 +38,7 @@ img.src		=	'http://www.cheatsguru.com/?i=my_stats&' + rnd;
 <div style="text-align: center">
 <div class="maxmin" style="text-align: left; margin-left: auto; margin-right: auto">
 <div class="blackwrap-h">
-<div id="header"> <!--<div id="header" style="background-image:url(/img/marryxmas.jpg)">-->
+<div id="header" style="background-image:url(/img/marryxmas.jpg)"> <!--<div id="header">-->
 <a href="http://www.cheatsguru.com/" class="logolink" title="CheatsGuru - 250,000+ cheats, q&amp;a, walkthroughs and hints for PC, Xbox, Xbox360, PS2, GBA, PSP, Sony DS, DVD, WII and PS3.">&nbsp;</a>
 <div id="AUTH" style="text-align: center" class="dn">
 <div class="upanel_tc upanel_corners">
@@ -80,7 +81,14 @@ Please login
 <label for="upass">Password:</label>
 <input type="password" name="upass" id="upass" class="loginput">
 <div class="clearfix" style="margin-top:5px">
-<div class="float_l" style="margin-right:20px"><a href="http://www.cheatsguru.com/register.php" rel="nofollow">Register</a></div> <div class="f-left"><input name="Submit" type="submit" value="Sign-in"></div>
+<div class="float_l" style="margin-right:20px"><a href="http://www.cheatsguru.com/register.php" rel="nofollow">Register</a></div>
+<div class="f-left">
+<input name="Submit" type="submit" value="Sign-in">
+<span id="fb-root"></span>
+<a href="#" onclick="$.get('/?i=click_share&amp;type=fb_connect'); FB.login(function() { location.href = 'http://www.cheatsguru.com/fb_login.php'; }, {perms:'email,friends_about_me,publish_stream '}); return false;" class="fb_login">&nbsp;</a>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>FB.init({appId: '117144865031662', status: true, cookie: true, xfbml: true});</script>
+</div>
 </div>
 </div>
 </form>
@@ -133,10 +141,10 @@ authForm()
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
 <td id="current"><div class="mitwr"><p></p><a href="http://www.cheatsguru.com/" title="Video Game Cheats">Home</a></div></td>
-<td><div class="mitwr"><p></p><a class="yellow" href="http://www.cheatsguru.com/pc/" title="PC cheats"><strong>PC</strong></a></div></td>
-<td><div class="mitwr"><p></p><a class="yellow" href="http://www.cheatsguru.com/xbox360/" title="X360 cheats"><strong>X360</strong></a></div></td>
-<td><div class="mitwr"><p></p><a class="yellow" href="http://www.cheatsguru.com/ps3/" title="PS3 cheats"><strong>PS3</strong></a></div></td>
-<td><div class="mitwr"><p></p><a class="yellow" href="http://www.cheatsguru.com/wii/" title="WII cheats"><strong>WII</strong></a></div></td>
+<td><div class="mitwr"><p></p><a class="yellow" href="http://www.cheatsguru.com/pc/" title="PC cheats">PC</a></div></td>
+<td><div class="mitwr"><p></p><a class="yellow" href="http://www.cheatsguru.com/xbox360/" title="X360 cheats">X360</a></div></td>
+<td><div class="mitwr"><p></p><a class="yellow" href="http://www.cheatsguru.com/ps3/" title="PS3 cheats">PS3</a></div></td>
+<td><div class="mitwr"><p></p><a class="yellow" href="http://www.cheatsguru.com/wii/" title="WII cheats">WII</a></div></td>
 <td><div class="mitwr"><p></p><a href="http://www.cheatsguru.com/nds/" title="NDS cheats">NDS</a></div></td>
 <td><div class="mitwr"><p></p><a href="http://www.cheatsguru.com/ps2/" title="PS2 cheats">PS2</a></div></td>
 <td class="plts_drop_list">
@@ -177,9 +185,14 @@ jQuery('#supernavwrap .plts_drop_list .otherplat').hide();
 </div>		<table style="width: 99%; height: 120px; text-align: center" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td align="center" valign="middle">
-<!-- BEGIN STANDARD TAG - 728 x 90/468 x 60 - CheatsGuru: ROS - DO NOT MODIFY -->
-<script type="text/javascript" src="http://ad.yieldmanager.com/st?ad_type=ad&amp;ad_size=728x90,468x60&amp;section=298639"></script>
+<!-- BEGIN STANDARD TAG - 728 x 90 - CheatsGuru: ROS - DO NOT MODIFY -->
+<script type="text/javascript" src="http://ad.yieldmanager.com/st?ad_type=safee&amp;ad_size=728x90&amp;section=2652488"></script>
 <!-- END TAG -->
+</td>
+<td style="width:100px">
+<div style="width:100px; position: relative; top: 10px">
+<iframe src="http://www.facebook.com/plugins/like.php?app_id=221956021175604&amp;href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FCheatsGurucom%2F188070804567313&amp;send=false&amp;layout=box_count&amp;width=1000&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:90px;" allowtransparency="true"></iframe>
+</div>
 </td>
 </tr>
 </tbody></table>		<div class="blackwrap-sc">
@@ -193,9 +206,9 @@ jQuery('#supernavwrap .plts_drop_list .otherplat').hide();
 <div>
 <div>
 <span class="last"><a href="http://www.cheatsguru.com/submit_cheat.php" rel="nofollow">Cheat &amp; Hint</a></span>
-<span><a href="http://www.cheatsguru.com/submit_review.php" rel="nofollow">Review</a></span>
+<span><a onclick="if (!isLogged &amp;&amp; !isNotActivated) {redirectUrl = this.href; showLoginPopup(this, 30, -350); $.get('/?i=click_share&amp;type=please_login'); return false}" href="http://www.cheatsguru.com/submit_review.php" rel="nofollow">Review</a></span>
 <span><a href="http://www.cheatsguru.com/question_ask/" rel="nofollow">Question</a></span>
-<span><a href="http://www.cheatsguru.com/submit_file.php" rel="nofollow">File</a></span>
+<span><a onclick="if (!isLogged &amp;&amp; !isNotActivated) {redirectUrl = this.href; showLoginPopup(this, 30, -450); $.get('/?i=click_share&amp;type=please_login'); return false}" href="http://www.cheatsguru.com/submit_file.php" rel="nofollow">File</a></span>
 </div>
 </div>
 <b class="r2"></b>
@@ -276,15 +289,10 @@ jQuery("#search_game").autocomplete();
 <div id="main_content">
 <div id="left_sidebar">
 <div style="width:160px;overflow:hidden;">
-<div>
-<div style="margin: 5px 0px 0px 11px"><b>Follow Us!:</b></div>
-<div>
-<div style="margin: 5px 0px 0px 10px"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FCheatsGurucom%2F188070804567313&amp;layout=button_count&amp;show_faces=true&amp;width=450&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowtransparency="true"></iframe></div>
-<div style="margin: 5px 0px 0px 10px"><a href="http://www.twitter.com/CheatsGuru" onclick="this.target='_blank'"><img src="http://twitter-badges.s3.amazonaws.com/twitter-a.png" alt="Follow CheatsGuru on Twitter"></a></div>
-</div>
-</div>
 <div style="margin:10px">
-<script type="text/javascript" src="http://ad.yieldmanager.com/st?ad_type=ad&amp;ad_size=160x600,120x600&amp;section=298639"></script>
+<!-- BEGIN STANDARD TAG - 160 x 600 - CheatsGuru: ROS - DO NOT MODIFY -->
+<script type="text/javascript" src="http://ad.yieldmanager.com/st?ad_type=safee&amp;ad_size=160x600&amp;section=2652488"></script>
+<!-- END TAG -->
 </div>
 <table style="padding-left:10px; padding-bottom:10px">
 <tbody><tr>
@@ -381,7 +389,7 @@ jQuery("#search_game").autocomplete();
 <div id="seobar">
 <div style="text-align: center">
 <strong>
-• <a href="http://www.cheatsguru.com/pc/plants_vs_zombies/" title="Plants vs. Zombies cheats PC">Plants vs. Zombies cheats</a>, <a href="http://www.cheatsguru.com/nds/plants_vs_zombies/" title="Plants vs. Zombies cheats NDS">NDS</a>, <a href="http://www.cheatsguru.com/xbox360/plants_vs_zombies/" title="Plants vs. Zombies cheats XBOX 360">XBOX 360</a>, <a href="http://www.cheatsguru.com/ps3/plants_vs_zombies/" title="Plants vs. Zombies cheats PS3">PS3</a>, <a href="http://www.cheatsguru.com/iphone/plants_vs_zombies/" title="Plants vs. Zombies cheats IPHONE">IPHONE</a>, <a href="http://www.cheatsguru.com/android/plants_vs_zombies/" title="Plants Vs. Zombies cheats Android">Android</a>											• <a href="http://www.cheatsguru.com/nds/pokemon_white/" title="Pokemon White cheats NDS">Pokemon White cheats</a>, <a href="http://www.cheatsguru.com/pc/pokemon_white/" title="Pokemon White cheats PC">PC</a>											• <a href="http://www.cheatsguru.com/pc/the_witcher_2_assassins_of_kings/" title="The Witcher 2: Assassins of Kings cheats PC">The Witcher 2: Assassins of Kings cheats</a>, <a href="http://www.cheatsguru.com/xbox360/the_witcher_2_assassins_of_kings/" title="The Witcher 2: Assassins Of Kings cheats XBOX 360">XBOX 360</a>																				• <a href="http://www.cheatsguru.com/pc/fable_iii/" title="Fable III cheats PC">Fable III cheats</a>, <a href="http://www.cheatsguru.com/xbox360/fable_iii/" title="Fable III cheats XBOX 360">XBOX 360</a>											• <a href="http://www.cheatsguru.com/xbox360/red_faction_armageddon/" title="Red Faction: Armageddon cheats XBOX 360">Red Faction: Armageddon cheats</a>, <a href="http://www.cheatsguru.com/pc/red_faction_armageddon/" title="Red Faction: Armageddon cheats PC">PC</a>, <a href="http://www.cheatsguru.com/ps3/red_faction_armageddon/" title="Red Faction: Armageddon cheats PS3">PS3</a>											• <a href="http://www.cheatsguru.com/xbox360/hunted_the_demons_forge/" title="Hunted: The Demon's Forge cheats XBOX 360">Hunted: The Demon's Forge cheats</a>, <a href="http://www.cheatsguru.com/pc/hunted_the_demons_forge/" title="Hunted: The Demon's Forge cheats PC">PC</a>, <a href="http://www.cheatsguru.com/ps3/hunted_the_demons_forge/" title="Hunted: The Demon's Forge cheats PS3">PS3</a>																				• <a href="http://www.cheatsguru.com/pc/shogun_2_total_war/" title="Shogun 2: Total War cheats PC">Shogun 2: Total War cheats</a>											• <a href="http://www.cheatsguru.com/pc/the_sims_medieval/" title="The Sims Medieval cheats PC">The Sims Medieval cheats</a>											• <a href="http://www.cheatsguru.com/pc/the_sims_3_generations/" title="The Sims 3: Generations cheats PC">The Sims 3: Generations cheats</a>																				• <a href="http://www.cheatsguru.com/xbox360/operation_flashpoint_red_river/" title="Operation Flashpoint: Red River cheats XBOX 360">Operation Flashpoint: Red River cheats</a>, <a href="http://www.cheatsguru.com/pc/operation_flashpoint_red_river/" title="Operation Flashpoint: Red River cheats PC">PC</a>, <a href="http://www.cheatsguru.com/ps3/operation_flashpoint_red_river/" title="Operation Flashpoint: Red River cheats PS3">PS3</a>													</strong>
+• <a href="http://www.cheatsguru.com/pc/moshi_monsters/" title="Moshi Monsters cheats PC">Moshi Monsters cheats</a>, <a href="http://www.cheatsguru.com/android/moshi_monsters/" title="Moshi Monsters cheats Android">Android</a>											• <a href="http://www.cheatsguru.com/pc/plants_vs_zombies/" title="Plants vs. Zombies cheats PC">Plants vs. Zombies cheats</a>, <a href="http://www.cheatsguru.com/nds/plants_vs_zombies/" title="Plants vs. Zombies cheats NDS">NDS</a>, <a href="http://www.cheatsguru.com/xbox360/plants_vs_zombies/" title="Plants vs. Zombies cheats XBOX 360">XBOX 360</a>, <a href="http://www.cheatsguru.com/ps3/plants_vs_zombies/" title="Plants vs. Zombies cheats PS3">PS3</a>, <a href="http://www.cheatsguru.com/iphone/plants_vs_zombies/" title="Plants vs. Zombies cheats IPHONE">IPHONE</a>, <a href="http://www.cheatsguru.com/android/plants_vs_zombies/" title="Plants Vs. Zombies cheats Android">Android</a>											• <a href="http://www.cheatsguru.com/nds/pokemon_heart_gold_version/" title="Pokemon Heart Gold Version cheats NDS">Pokemon Heart Gold Version cheats</a>																				• <a href="http://www.cheatsguru.com/nds/pokemon_soul_silver/" title="Pokemon Soul Silver cheats NDS">Pokemon Soul Silver cheats</a>											• <a href="http://www.cheatsguru.com/pc/deus_ex_human_revolution/" title="Deus Ex: Human Revolution cheats PC">Deus Ex: Human Revolution cheats</a>, <a href="http://www.cheatsguru.com/xbox360/deus_ex_human_revolution/" title="Deus Ex: Human Revolution cheats XBOX 360">XBOX 360</a>, <a href="http://www.cheatsguru.com/ps3/deus_ex_human_revolution/" title="Deus Ex: Human Revolution cheats PS3">PS3</a>											• <a href="http://www.cheatsguru.com/pc/the_lord_of_the_rings_war_in_the_north/" title="The Lord of the Rings: War in the North cheats PC">The Lord of the Rings: War in the North cheats</a>, <a href="http://www.cheatsguru.com/xbox360/the_lord_of_the_rings_war_in_the_north/" title="The Lord of the Rings: War in the North cheats XBOX 360">XBOX 360</a>, <a href="http://www.cheatsguru.com/ps3/the_lord_of_the_rings_war_in_the_north/" title="The Lord of the Rings: War in the North cheats PS3">PS3</a>																				• <a href="http://www.cheatsguru.com/pc/stronghold_3/" title="Stronghold 3 cheats PC">Stronghold 3 cheats</a>											• <a href="http://www.cheatsguru.com/wii/the_legend_of_zelda_skyward_sword/" title="The Legend of Zelda: Skyward Sword cheats WII">The Legend of Zelda: Skyward Sword cheats</a>, <a href="http://www.cheatsguru.com/pc/the_legend_of_zelda_skyward_sword/" title="The Legend of Zelda: Skyward Sword cheats PC">PC</a>											• <a href="http://www.cheatsguru.com/pc/shogun_2_total_war/" title="Shogun 2: Total War cheats PC">Shogun 2: Total War cheats</a>																				• <a href="http://www.cheatsguru.com/pc/star_wars_the_old_republic/" title="Star Wars: The Old Republic cheats PC">Star Wars: The Old Republic cheats</a>											• <a href="http://www.cheatsguru.com/pc/elder_scrolls_v_skyrim/" title="Elder Scrolls V: Skyrim cheats PC">Elder Scrolls V: Skyrim cheats</a>, <a href="http://www.cheatsguru.com/xbox360/elder_scrolls_v_skyrim/" title="Elder Scrolls V: Skyrim cheats XBOX 360">XBOX 360</a>, <a href="http://www.cheatsguru.com/ps3/elder_scrolls_v_skyrim/" title="Elder Scrolls V: Skyrim cheats PS3">PS3</a>											• <a href="http://www.cheatsguru.com/pc/trine_2/" title="Trine 2 cheats PC">Trine 2 cheats</a>, <a href="http://www.cheatsguru.com/xbox360/trine_2/" title="Trine 2 cheats XBOX 360">XBOX 360</a>, <a href="http://www.cheatsguru.com/ps3/trine_2/" title="Trine 2 cheats PS3">PS3</a>																				• <a href="http://www.cheatsguru.com/ps3/wwe_12/" title="WWE '12 cheats PS3">WWE '12 cheats</a>, <a href="http://www.cheatsguru.com/xbox360/wwe_12/" title="WWE '12 cheats XBOX 360">XBOX 360</a>, <a href="http://www.cheatsguru.com/wii/wwe_12/" title="WWE '12 cheats WII">WII</a>											• <a href="http://www.cheatsguru.com/pc/defenders_of_ardania/" title="Defenders of Ardania cheats PC">Defenders of Ardania cheats</a>, <a href="http://www.cheatsguru.com/xbox360/defenders_of_ardania/" title="Defenders of Ardania cheats XBOX 360">XBOX 360</a>, <a href="http://www.cheatsguru.com/ps3/defenders_of_ardania/" title="Defenders of Ardania cheats PS3">PS3</a>, <a href="http://www.cheatsguru.com/iphone/defenders_of_ardania/" title="Defenders of Ardania cheats IPHONE">IPHONE</a>											• <a href="http://www.cheatsguru.com/xbox360/gears_of_war_3_raams_shadow/" title="Gears of War 3: RAAM's Shadow cheats XBOX 360">Gears of War 3: RAAM's Shadow cheats</a>													</strong>
 </div>
 </div>
 <div class="hr2"></div>
@@ -390,7 +398,7 @@ jQuery("#search_game").autocomplete();
 <div style="margin: 3px 0px 0px 10px; width:50%">
 <a href="http://www.cheatsguru.com/" title="Video game cheats">Video game cheats</a> | <a href="http://www.cheatsguru.com/pc/cheatsgurucom/">CG Underground</a> | <a href="http://www.cheatsguru.com/pc/cg_community/">CG Community</a> | <a href="http://www.cheatsguru.com/help/about.htm">About</a> | <a href="http://www.cheatsguru.com/help/terms.htm" rel="nofollow">Terms of Use</a> | <a href="http://www.cheatsguru.com/help/privacy.htm" rel="nofollow">Privacy policy</a> | <a href="http://www.cheatsguru.com/help/contact.htm" rel="nofollow">Contact</a> | <a href="http://www.cheatsguru.com/pc/" title="PC cheats">PC cheats</a> | <a href="http://www.cheatsguru.com/top/">Top Cheats</a> | <a href="http://www.cheatsguru.com/upcoming_top/">Hot Games</a>
 </div>
-<small><b>© 2011 CheatsGuru.com.</b> <br>This site is not affiliated in any way with Microsoft, Sony, Sega, Nintendo
+<small>© <span class="bolder">2011 CheatsGuru.com.</span> <br>This site is not affiliated in any way with Microsoft, Sony, Sega, Nintendo
 or any video game publishers.</small>
 </div>
 </div>
