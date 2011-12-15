@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivytech.edu privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620114320id_/http%3A//www.ivytech.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivytech.edu privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215010526id_/http%3A//www.ivytech.edu/privacy) for the most accurate reproduction.*
 
 # Ivy Tech Community College Website Privacy Policy - Ivy Tech Community College
 
