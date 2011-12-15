@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keenobservers.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510085533id_/http%3A//www.keenobservers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keenobservers.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215125134id_/http%3A//www.keenobservers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Keen Observers
 
