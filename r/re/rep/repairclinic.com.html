@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the repairclinic.com privacy policy that was archived on 2011-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110512020751id_/http%3A//www.repairclinic.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the repairclinic.com privacy policy that was archived on 2011-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111215050742id_/http%3A//www.repairclinic.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
    
@@ -13,20 +13,60 @@ Privacy Policy - RepairClinic.com
 
 
    </title> 
-   
+   <link type="text/css" href="/asset.axd?id=GAEAAB-LCAAAAAAABADtvQdgHEmWJSYvbcp7f0r1StfgdKEIgGATJNiQQBDswYjN5pLsHWlHIymrKoHKZVZlXWYWQMztnbz33nvvvffee--997o7nU4n99__P1xmZAFs9s5K2smeIYCqyB8_fnwfPyJ-8Uezjx597xd_tPro0Ucn1bLNl-1Ho4_O-bMlffZq-kVWLMfTpqGPq48e7fySkXwxrSbu013zaTOt89xrvme-aPMyr4u342m1WFReg_1ug1l-nq3L1rW4_0u-jzZA8Fm2nF5PqncBhj_9i9Z5fT0-1--2d8f3xrvu9Xv0-vdHH01b7uNde1e-uaQ_98efjnfGu_v36e8pkeHeDv386FFbr_Nf8v8AJ0yufxgBAAA%3d" rel="stylesheet">
+
 
  <link rel="stylesheet" type="text/css" media="print" href="/Content/print.css"> 
     
    
    <meta name="ROBOTS" content="NOODP">
      
-      
+      <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="/asset.axd?id=PgIAAB-LCAAAAAAABADtvQdgHEmWJSYvbcp7f0r1StfgdKEIgGATJNiQQBDswYjN5pLsHWlHIymrKoHKZVZlXWYWQMztnbz33nvvvffee--997o7nU4n99__P1xmZAFs9s5K2smeIYCqyB8_fnwfPyJ-8Uezjx597xd_tPro0Uevp3WxapuPRh-d82dL-uynf9E6r6_HP41Pq48e7fySkXz-RTGtq6Y6b49_Ontnv943X_90Uy337Mf3zcf19PefVotFtbRffWq-aq7Oq8lP59P2998buzcf9Pr74nIadHkQa_GTWVnMsrbwOnpoUZMRXUqTfLwoltuXzaya2qa7dpTz4mJe0v9b993uL_k-vvXodfdNXuZ18TagWyufjXW41IkDYaCbNkBjVUzf5nXQbq_bbpqV-XKWha3uOXyeZcvp9aR6F5vAc_1ue3d8b7zrcNmj178_-mjacj_v2rs_nV1mDQ-MWlzSp_vjT8c74939-_T3lJjl3g79_OhRW6_zX_L_AHmDOSs-AgAA"></script>
+
+   <script type="text/javascript">
+   //<![CDATA[
+      var test;
+      $.rcJsonPost(
+      {
+         url: "/general/GetNonCachedData",
+         data: { "PageUrl": document.location.pathname + document.location.search },
+         success: function (data)
+         {
+            $(document).ready(function ()
+            {
+               $("#headerCartItems").text(data.CartMessage);
+               $("#ccrNameItem").text(data.CcrName);
+
+               if (data.ClientLoggedIn == true)
+               {
+                  $("#userNameItem").text(data.ClientName).css("display", "inline");
+                  $("#userNameItemDivider").css("display", "inline");
+                  $("#loginLogoutItem").css("display", "inline");
+                  $("#loginLogoutLink").attr("href", data.LogInReturnUrl);
+                  $("#loginLogoutLink").text("Logout");
+                  $("#loginLogoutLink").css("display", "inline");
+                  $("#loginLogoutItemDivider").css("display", "inline");
+               }
+               else
+               {
+                  $("#loginLogoutItem").css("display", "inline");
+                  $("#loginLogoutLink").attr("href", data.LogInReturnUrl);
+                  $("#loginLogoutLink").text("Login");
+                  $("#loginLogoutLink").css("display", "inline");
+                  $("#loginLogoutItemDivider").css("display", "inline");
+               }
+            })
+         }
+      });
+   //]]>
+   </script>
    
-<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 //<![CDATA[
    var _gaq = _gaq || [];
    _gaq.push(['_setAccount', 'UA-439964-1']);
    _gaq.push(['_trackPageview']);
+   _gaq.push(['_trackPageLoadTime']);
 
    (function () {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -49,6 +89,7 @@ Privacy Policy - RepairClinic.com
 <div id="siteHeader">
    <div class="siteLayoutFrame">
       <div id="defaultHeader">
+         
          <div class="logo">
          
                <a href="/" class="noBorder">
@@ -57,21 +98,21 @@ Privacy Policy - RepairClinic.com
          <div class="content fr">
             <ul class="linksTop borderBottom">
                <li>
-<a href="javascript: var e = window.open('https://www.repairclinic.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=1&amp;queueID=4','chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" class="noBorder">
+<a href="javascript: var e = window.open('https://www.rcappliancepartsimages.com/PreChatSurvey.aspx?accountID=1&amp;siteID=1&amp;queueID=4','chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" class="noBorder">
    <img class="inlineImage" src="/images/btn/btn-liveChatSmall.rcchatjpg?args=accountID%3d1%26siteID%3d1%26queueID%3d4" alt="Live Chat">
 </a></li>
-               <li>1-800-269-2609, 8 am to midnight ET, 7 days</li>
+               <li>1-800-269-2609, 8 a.m. to midnight ET, 7 days</li>
                <li class="divider">&nbsp;</li>
                <li><a href="/Spanish">En Español</a></li>
                <li class="divider">&nbsp;</li>
-               <li><a href="/Shopping-Cart" class="noBorder"><img class="inlineImage" src="/images/img/img-shoppingCart.png" alt="shopping cart"></a><span class="bold"><a href="/Shopping-Cart" class="noBorder">Shopping Cart</a></span></li>
-               <li id="headerCartItems">0 item(s)</li>
+               <li><a href="/Shopping-Cart" class="noBorder shoppingCartSprite"></a><span class="bold"><a href="/Shopping-Cart">Shopping Cart</a></span></li>
+               <li id="headerCartItems"></li>
             </ul>
             <ul>
-               
-               <li><a href="https://www.repairclinic.com/Login/Account-Login?Page=Privacy-Policy">Log In</a></li>               
-               <li class="divider">&nbsp;</li>
-               
+               <li id="userNameItem"></li>
+               <li id="userNameItemDivider" class="divider">&nbsp;</li>
+               <li id="loginLogoutItem"><a href="#" id="loginLogoutLink"></a></li>
+               <li id="loginLogoutItemDivider" class="divider">&nbsp;</li>
                <li><a href="/Customer-Service">Customer Service</a></li>
                <li class="divider">&nbsp;</li>
                <li><a href="https://www.repairclinic.com/My-Account">My Account</a></li>
@@ -99,7 +140,7 @@ Privacy Policy - RepairClinic.com
       <div class="siteLayoutFrame">
          
    <script type="text/javascript">
-                                             $(function () {
+                                             $(document).ready(function () {
                                                 $("#searchText").keypress(function (e) {
                                                    if (e.keyCode == "13") {
                                                       $("#searchButton").click();
@@ -110,23 +151,23 @@ Privacy Policy - RepairClinic.com
 <div id="tabs">
    <div>
       <div class="helpTab">
-         <a href="/Repair-Help"><img src="/images/btn/btn-repairHelp-off.png" alt="Get Repair Help"></a>
+         <h2 class="tabLink-off"><a href="/RepairHelp/Repair-Help">Get Repair Help</a></h2>
       </div>
    </div>
    <div class="shopTab">
-      <a href="/Shop-For-Parts"><img src="/images/btn/btn-shopForParts-on.png" alt="Shop for Parts"></a>
+      <h2 class="tabLink-on"><a href="/Shop-For-Parts">Shop for Parts</a></h2>
    </div>
    <div class="searchFormWrap">
       <div class="helpText">
-         <img class="inlineImage" src="/images/txt/txt-enterPartNumber.png" alt="Enter your part or model number for best results">
+         <div class="helpTextSprite">Enter your part or model number for best results</div>
       </div>
       <input type="text" name="searchField" class="searchField" id="searchText" maxlength="80">
       <div class="searchButton">
-         <input id="searchButton" type="image" class="noBorder" src="/images/btn/btn-search.jpg" alt="search" onclick="javascript:onSearchClicked('searchText', '/Shop-For-Parts?s=t-{0}-%3d%3d');">
+          <div id="searchButton" class="noBorder searchButtonSprite" onclick="javascript:onSearchClicked('searchText', '/Shop-For-Parts?s=t-{0}-%3d%3d', 'searchButton', 'btnInactive');">Search</div>
       </div>
       <div class="helpText">
          
-            <a href="/Layer/Help-Me-Find-My-Model-Number" id="modelNumberHelp" class="modelHelpLayer"><img class="inlineImage" src="/images/txt/txt-helpMeFind.png" alt="Help Me Find My Model Number" onclick="_gaq.push(['_trackEvent', 'Model Number Help', 'Clicked']);"></a>
+            <a href="/Layer/Help-Me-Find-My-Model-Number" id="modelNumberHelp" class="modelHelpLayer modelNoSprite" onclick="_gaq.push(['_trackEvent', 'Model Number Help', 'Clicked']);">Help Me Find My Model Number</a>
          
       </div>
    </div>   
@@ -153,54 +194,54 @@ Privacy Policy - RepairClinic.com
 
 <a name="top"></a>          
 		      <div id="confidenceAccountNav" class="pngFix">
-			      <h2><img src="/images/txt/txt-onThisPage.png" alt="On This Page"></h2>
+			      <h2>On This Page</h2>
 			      <ul>
-				      <li><a href="#yourAcceptance" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-on.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';">Your acceptance of our privacy policy</a></li>
+				      <li><a href="#yourAcceptance" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-on.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';">Your acceptance of our privacy policy</a></li>
 				      
-                  <li><a href="#personallyIdentifiable" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-on.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';">What we collect about you that is personally identifiable</a></li>
+                  <li><a href="#personallyIdentifiable" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-on.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';">What we collect about you that is personally identifiable</a></li>
                       
-				      <li><a href="#notPersonallyIdentifiable" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-on.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';">Other data we collect<br> that is not personally<br> identifiable</a></li>
+				      <li><a href="#notPersonallyIdentifiable" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-on.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';">Other data we collect<br> that is not personally<br> identifiable</a></li>
                       
-				      <li><a href="#howWeUsePI" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-on.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';">How we use personal information and<br> other data</a></li>
+				      <li><a href="#howWeUsePI" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-on.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';">How we use personal information and<br> other data</a></li>
 
-                  <li><a href="#nondisclosurePI" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-on.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';">Nondisclosure of personal information</a></li>
+                  <li><a href="#nondisclosurePI" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-on.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';">Nondisclosure of personal information</a></li>
 
-                  <li><a href="#contact" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-on.png';">Contact</a></li>
+                  <li><a href="#contact" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-on.jpg';">Contact</a></li>
                   </ul>
                   
 		      </div>
         <div class="confidenceWrapper">
 		      <div class="shopConfidenceContent">
 			     
-							<div class="confidenceHeader"><h2><img src="/images/txt/txt-privacyPolicy.jpg" alt="Privacy Policy"></h2></div>
-<a name="yourAcceptance"></a><div class="title"><img src="/images/ppImages/pp-1-off.png" id="pp1" alt="Your acceptance of our privacy policy"></div>
+							<div class="confidenceHeader"><h1>Privacy Policy</h1></div>
+<a name="yourAcceptance"></a><div class="title"><img class="orangeBullet" src="/images/txt/txt-orangeBullet-off.jpg" id="pp1" alt="Bullet"><h2 class="obText">Your acceptance of our privacy policy</h2></div>
                             <p class="confidenceCopy">
 By using the web site http://www.repairclinic.com (Site), you agree to the collection and use of your personal information as described in this policy.  If we make any significant changes to this policy, we will notify you by email, or post a notice of such changes on the Site, or flag our Privacy Policy on the Site as updated. 
 </p>
 <div class="dividerWrap">
 <img src="/images/bkg/bkg-shopConfidenceDivider.jpg" alt="divider">
-<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
+<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
 </div>
 <br>
-<a name="personallyIdentifiable"></a><div class="title"><img src="/images/ppImages/pp-2-off.png" id="pp2" alt="What we collect about you that is personally identifiable"></div>
+<a name="personallyIdentifiable"></a><div class="title"><img class="orangeBullet" src="/images/txt/txt-orangeBullet-off.jpg" id="pp2" alt="Bullet"><h2 class="obText">What we collect about you that is personally identifiable</h2></div>
                             <p class="confidenceCopy">
 We collect the information that you provide us when you become a customer of RepairClinic.com, including your email address and password.  All passwords are stored on our server in encrypted form.  If you lose your password, we will generate a new one and send it to you.
 </p>
 <div class="dividerWrap">
 <img src="/images/bkg/bkg-shopConfidenceDivider.jpg" alt="divider">
-<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
+<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
 </div>
 <br>
-<a name="notPersonallyIdentifiable"></a><div class="title"><img src="/images/ppImages/pp-3-off.png" id="pp3" alt="Other data we collect that is not personally identifiable"></div>
+<a name="notPersonallyIdentifiable"></a><div class="title"><img class="orangeBullet" src="/images/txt/txt-orangeBullet-off.jpg" id="pp3" alt="Bullet"><h2 class="obText">Other data we collect that is not personally identifiable</h2></div>
                             <p class="confidenceCopy">
 We collect information regarding use of the Site, such as login information, computer-related information (browser type you used, your Internet Protocol address, last URL visited, and the date and time of day of your login).  We send a “cookie” or “pixel tag” to your computer which contains an identification number that is unique to the computer you are using.  You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result, and some services may not be available.
 </p>
 <div class="dividerWrap">
 <img src="/images/bkg/bkg-shopConfidenceDivider.jpg" alt="divider">
-<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
+<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
 </div>
 <br>
-<a name="howWeUsePI"></a><div class="title"><img src="/images/ppImages/pp-4-off.png" id="pp4" alt="How we use personal information and other data"></div>
+<a name="howWeUsePI"></a><div class="title"><img class="orangeBullet" src="/images/txt/txt-orangeBullet-off.jpg" id="pp4" alt="Bullet"><h2 class="obText">How we use personal information and other data</h2></div>
                             <p class="confidenceCopy">
 We use the information we gather to transact business over the Site, enhance the experience of using the Site, to understand how our Site is used, to communicate with our visitors about information and services relating to the Site, to investigate and verify proper conduct at the Site, and to monitor the security and integrity of the Site.
 </p>
@@ -209,19 +250,19 @@ We use data in the aggregate for our business purposes, but we do not use it in 
 </p>
 <div class="dividerWrap">
 <img src="/images/bkg/bkg-shopConfidenceDivider.jpg" alt="divider">
-<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
+<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
 </div>
 <br>
-<a name="nondisclosurePI"></a><div class="title"><img src="/images/ppImages/pp-5-off.png" id="pp5" alt="Nondisclosure of personal information"></div>
+<a name="nondisclosurePI"></a><div class="title"><img class="orangeBullet" src="/images/txt/txt-orangeBullet-off.jpg" id="pp5" alt="Bullet"><h2 class="obText">Nondisclosure of personal information</h2></div>
                             <p class="confidenceCopy">
 We will not disclose your personal information to third parties without your permission unless required by law and/or in response to service of legal process.  We will not send you unsolicited emails.  
 </p>
 <div class="dividerWrap">
 <img src="/images/bkg/bkg-shopConfidenceDivider.jpg" alt="divider">
-<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
+<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
 </div>
 <br>
-<a name="contact"></a><div class="title"><img src="/images/ppImages/pp-6-off.png" id="pp6" alt="Contact"></div>
+<a name="contact"></a><div class="title"><img class="orangeBullet" src="/images/txt/txt-orangeBullet-off.jpg" id="pp6" alt="Bullet"><h2 class="obText">Contact</h2></div>
                             <p class="confidenceCopy">
 Please contact us with any questions and/or comments you<br> may have:
 </p>
@@ -237,7 +278,7 @@ Fax:  1-734-495-3842<br>
 </p>
 <div class="dividerWrap">
 <img src="/images/bkg/bkg-shopConfidenceDivider.jpg" alt="divider">
-<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/ppImages/pp-1-off.png'; document.getElementById('pp2').src='/images/ppImages/pp-2-off.png'; document.getElementById('pp3').src='/images/ppImages/pp-3-off.png'; document.getElementById('pp4').src='/images/ppImages/pp-4-off.png'; document.getElementById('pp5').src='/images/ppImages/pp-5-off.png'; document.getElementById('pp6').src='/images/ppImages/pp-6-off.png';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
+<div class="returnTop"><a href="#top" onclick="document.getElementById('pp1').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp2').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp3').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp4').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp5').src='/images/txt/txt-orangeBullet-off.jpg'; document.getElementById('pp6').src='/images/txt/txt-orangeBullet-off.jpg';"><img src="/images/txt/txt-goToTop.jpg" alt="Go To Top"></a></div>
 </div>
 <br>
 <p class="confidenceCopy">
@@ -256,10 +297,10 @@ Dated:  September 1, 2010
 		          <li>Call us at <b>1-800-269-2609</b></li>
 		          <li class="or"><img height="1" width="84" alt="" src="/images/img/img-line.png" class="imgCenter"> OR <img height="1" width="91" alt="" src="/images/img/img-line.png" class="imgCenter"></li>
 		          <li>
-<a href="javascript: var e = window.open('https://www.repairclinic.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=1&amp;queueID=4','chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" class="noBorder">
+<a href="javascript: var e = window.open('https://www.rcappliancepartsimages.com/PreChatSurvey.aspx?accountID=1&amp;siteID=1&amp;queueID=4','chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" class="noBorder">
    <img class="inlineImage" src="/images/btn/btn-liveChatMyAccount.rcchatjpg?args=accountID%3d1%26siteID%3d1%26queueID%3d4" alt="Live Chat">
 </a></li>
-		          <li class="hours">8 am to midnight ET, 7 days</li>
+		          <li class="hours">8 a.m. to midnight ET, 7 days</li>
 	            </ul>
 	        </div>
             
@@ -300,7 +341,7 @@ Dated:  September 1, 2010
       <div id="defaultFooter">
          <div class="logo">
             
-               <img src="/images/img/img-logoFooter2.png" alt="logo">
+               <div class="logoFooterSprite">RepairClinic.com</div>
             
          </div>
          <div class="content">
@@ -318,28 +359,32 @@ Dated:  September 1, 2010
                <li class="last"><a href="/General/Contact-Us">Contact Us</a></li>
             </ul>
             
-               <div class="centerTerms"><p><a href="/General/Terms-Of-Sale">Terms of Sale</a> &nbsp;&nbsp;&nbsp; <a href="/Trademark-Copyright">© 1999 - 2011 RepairClinic.com, Inc. All rights reserved. (3)</a></p></div>
+               <div class="centerTerms"><p><a href="/General/Terms-Of-Sale">Terms of Sale</a> &nbsp;&nbsp;&nbsp; <a href="/Trademark-Copyright">© 1999 - 2011 RepairClinic.com, Inc. All rights reserved. (2)</a></p></div>
             
             <div id="facebookBadgeLink">
+               
+               <div id="googleFooterPlusOne"></div>
+               
                <div id="facebookBadgeImg">
-                  <a onclick="FacebookFanPageLink()"><img src="/images/facebookBadge-19px.png" alt="Facebook"></a>
+                  <a class="facebookSprite" onclick="javascript:_gaq.push(['_trackEvent', 'Facebook', 'Join Us Clicked']); FacebookFanPageLink();">Facebook Icon</a>
                </div>
                <div id="facebookBadgeText">
-                  <a onclick="FacebookFanPageLink()">Join us on Facebook</a>               
+                  <a onclick="javascript:_gaq.push(['_trackEvent', 'Facebook', 'Join Us Clicked']); FacebookFanPageLink();">Join us on Facebook</a>               
                </div>
             </div>
             
          </div>
          <div class="emailSignupArea">
-         <form action="https://www.repairclinic.com/email/footernewslettersignup" method="post">
+         <form id="newsletterForm" action="https://www.repairclinic.com/email/footernewslettersignup" method="post">
             <div class="formArea">
                <div class="formEntry">
                   <label>Sign Up for our Newsletter:</label>
                   <input class="emailField" id="emailFooter" maxlength="40" name="email.FooterEmail" type="text" value="Enter email address">
                   <input id="email_URL" name="email.URL" type="hidden" value="Privacy-Policy">
                   <div class="submitButton">
-                     <input type="image" id="newsletterButton" class="noBorder" src="/images/btn/btn-signUp.jpg" alt="Sign Up">
+                     <span id="newsletterButton" class="noBorder signupSprite" onclick="TrackFooterEmailAndPost();">Sign Up</span>
                   </div>
+                  <div class="clr"></div>
                   <div id="newsletterValidationMessageBlock">
                      <span id="emailFootValidationMsg"></span>
                   </div>
@@ -347,6 +392,7 @@ Dated:  September 1, 2010
             </div>
             </form>
          </div>
+         
       </div>
       <input type="hidden" id="bottom">
    </div>
@@ -361,6 +407,11 @@ Dated:  September 1, 2010
    $(document).ready(function () {
       ValidateFooterEmail();
    });
+
+   function TrackFooterEmailAndPost(){
+     _gaq.push(['_trackEvent', 'Footer NL Signup', 'Clicked']);
+      $("#newsletterForm").submit();
+   }
 
    function ValidateFooterEmail() {
      
