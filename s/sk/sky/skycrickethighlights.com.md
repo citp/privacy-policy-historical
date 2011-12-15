@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skycrickethighlights.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610040932id_/http%3A//www.skycrickethighlights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skycrickethighlights.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215165214id_/http%3A//www.skycrickethighlights.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CricketHighlights
+# Privacy Policy
 
 Keeping in mind the importance of privacy of personal information of visitors to this site, the following details the kinds of information that is collected as part of the process of serving Advertisements on this site, and how this information is safeguarded. By visiting OnlineCricketVideos, you are accepting the practices outlined in this Privacy Policy. This Privacy Policy covers OnlineCricketVideos’s treatment of personal information that OnlineCricketVideos gathers when you are on the OnlineCricketVideos website and when you use OnlineCricketVideos services. This policy does not apply to the practices of third parties that OnlineCricketVideos does not own or control, or to individuals that OnlineCricketVideos does not employ or manage.
 
