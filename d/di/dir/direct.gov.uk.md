@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the direct.gov.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611221320id_/http%3A//www.direct.gov.uk/en/SiteInformation/DG_020456) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct.gov.uk privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215125516id_/http%3A//www.direct.gov.uk/en/SiteInformation/DG_020456) for the most accurate reproduction.*
 
 # Your privacy - cookies, personal information and data protection when using Directgov : Directgov - Site information
 
@@ -49,7 +49,7 @@ When you go to another website, read the privacy policy on that website if you w
 
 When you come to Directgov from another website, Directgov may get personal information about you from the other website. You should read the privacy policy of websites you visit that link you to Directgov if you want to know about this.
 
-These policies will explain how they collect and use your personal information and if they pass this onto websites they link you to.
+These policies will explain how they collect and use your personal information, and whether they pass this on to websites they link you to.
 
 #### Social networking websites
 
@@ -85,21 +85,38 @@ All personal information received is treated confidentially. By submitting perso
 
 Personal information you submit may be passed on to the appropriate government department, executive agency or non-departmental public body to help resolve any query raised. Directgov may also give personal information to law enforcement authorities as part of a criminal investigation.
 
-Personal data will be available to selected employees, contractors and service providers who are associated with Directgov in order for them to complete their responsibilities for Directgov.
+Personal data will be available to selected employees, contractors and service providers who are associated with Directgov, for them to complete their responsibilities for Directgov.
 
 Where Directgov uses the services of other organisations, they are contractually obliged to process your data securely and confidentially under strict instructions.
 
-#### Asking for information Directgov holds about you  
+### Asking for information Directgov holds about you
+
+#### Information held by Directgov central administration
+
+If you submit personal information through one of the following features of Directgov, it may be collected and stored by the team that administers Directgov:
+
+  * enquiries sent in through the 'contact us' form
+  * forms hosted on the forms.direct.gov.uk domain
+  * the 'Was this information useful?' form on the bottom of every page
 
 
-Under the Data Protection Act you have the right to ask for a copy of the information Directgov holds about you. Requests should be made in writing addressed to Directgov’s Data Protection Officer:
 
-Tony Singleton  
-Hercules House  
-Hercules Road  
-London  
-SE1 7DU  
+For a copy of any information collected about you through any of the above methods, please email:
 
+[foi.team@cabinet-office.x.gsi.gov.uk](mailto:foi.team@cabinet-office.x.gsi.gov.uk)
+
+#### Information held by Directgov’s service providers
+
+Other online services available on the Directgov website may also require you to enter personal information. In these cases, your information will be processed by the government department or agency that operates that particular service.
+
+You can find out which department or agency operates the service by checking the logo on the relevant page. For example:
+
+  * getting a Pension Credit estimate is provided by The Pension Service
+  * applying for a vehicle tax disc is provided by the Driver and Vehicle Licensing Agency (DVLA)
+
+
+
+If you would like to ask for a copy of the information held about you, please write to the Data Protection Officer of that organisation.
 
 ### Changes to this privacy policy
 
@@ -108,5 +125,18 @@ If this privacy policy changes Directgov will update this page. You should visit
   * what personal information Directgov collects
   * how Directgov uses your personal information
   * when (if ever) Directgov shares your personal information with someone else
+
+
+
+###  Was this information useful?
+
+[ Your Privacy Opens new window](https://web.archive.org/en/SiteInformation/DG_020456)
+
+#### Why are we asking for this information?
+
+  * we want to hear what you think about the quality and usefulness of our pages
+  * your comments will help us improve our pages
+  * your comments will also help with the future development of Directgov
+  * telling us what you think will help make sure we give you the very best service
 
 
