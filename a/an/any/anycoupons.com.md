@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anycoupons.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213001154id_/http%3A//www.anycoupons.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anycoupons.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215072322id_/http%3A//www.anycoupons.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy :: Any Coupons
 
@@ -28,13 +28,13 @@ Does 77Blue collect personally identifying information from or about children?
      77Blue uses reasonable efforts not to collect, use or disclose individually identifiable information from children under the age of 13. The Services are not targeted at children, and children may not register for any portions of the Services that require registration. 
 
 How can I access or correct any personally identifying information about me?  
-     To request a copy of the personally identifiable information you have sent to 77Blue, please submit this [form](https://web.archive.org/web/20110213001154id_/http%3A//www.anycoupons.com/contact_us.php) containing your request. You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with 77Blue. You may then correct or delete such information using the procedures specified in the e-mail. 
+     To request a copy of the personally identifiable information you have sent to 77Blue, please submit this [form](https://web.archive.org/web/20111215072322id_/http%3A//www.anycoupons.com/contact_us.php) containing your request. You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with 77Blue. You may then correct or delete such information using the procedures specified in the e-mail. 
 
 What happens when I click on links from the site?  
      When you click on a link from the site, whether it is a coupon link, coupon button, a banner ad, a product link or image, or a search ad, you will be redirected to another website that is not owned or operated by 77Blue. This external site may appear in the same browser window/tab or in a new browser or tab.
 
 How do I find out more about 77Blue's information practices?  
-     If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please [contact us](https://web.archive.org/web/20110213001154id_/http%3A//www.anycoupons.com/contact_us.php). 
+     If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please [contact us](https://web.archive.org/web/20111215072322id_/http%3A//www.anycoupons.com/contact_us.php). 
 
 You may also use the above contact information if you think any information about you is inaccurate, incomplete, or if you want to change the sort of information about you that 77Blue may have collected. 
 
