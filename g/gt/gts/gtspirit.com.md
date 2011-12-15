@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609204453id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215124024id_/http%3A//www.gtspirit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GTSPIRIT.COM
 
@@ -31,6 +31,8 @@ When you visit our websites, we may send one or more cookies – small, removabl
 Cookies, by themselves, do not provide us with any personally-identifying information. However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to the data stored in the cookie.
 
 On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs. These tiny images help us to analyze our users’ online behavior and collect other data, such as page views or advertising responses. Pixel tags also allow us to send you e-mail in a format that you can read, and let us know when you have opened an e-mail message from us. Pixel tags may also be used to deliver cookies.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this website](http://www.networkadvertising.org/managing/opt_out.asp).
 
 We work with reputable third parties that provide data tracking and collection technologies in order to:
 
