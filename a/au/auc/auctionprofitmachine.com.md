@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionprofitmachine.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224193645id_/http%3A//www.auctionprofitmachine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionprofitmachine.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215143139id_/http%3A//www.auctionprofitmachine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
