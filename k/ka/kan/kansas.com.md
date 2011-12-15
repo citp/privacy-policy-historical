@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kansas.com privacy policy that was archived on 2010-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100316102202id_/http%3A//www.kansas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansas.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215035519id_/http%3A//www.kansas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wichita Eagle
+# Privacy Policy | The Wichita Eagle
 
-##### Effective Date: 10-26-09
+##### Effective Date: 01-03-11
 
 Kansas.com ("Kansas.com", "we", "our") has a firm commitment to privacy. We take your privacy concerns seriously and want to make reasonable efforts to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. This Privacy Policy explains our position on information gathering and how we intend to use and share any information we collect. This Privacy Policy applies only to information collected by Kansas.com and does not apply to information obtained or used by The Wichita Eagle or its affiliates through other means.
 
@@ -34,11 +34,13 @@ Some of Kansas.com's third-party content providers also may place a cookie on yo
 
 We use services provided by Yahoo! to display advertising on Kansas.com, and we may use cookies in conjunction with displaying those ads. Please refer to Yahoo!'s privacy policy at <http://privacy.yahoo.com/> for further information concerning Yahoo!'s use of cookies.
 
-We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <http://www.platform-a.com/privacy-policy/tacoda>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.
+We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <http://www.platform-a.com/privacy>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.
 
 In addition, advertisers may elect to use other advertising companies to serve their ads on Kansas.com, and advertisers themselves may also place a cookie on a user's computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies. We, therefore, recommend that you read the privacy policy of each and every Web site you visit or with which you interact.
 
 Users may elect to be excluded from these and other targeted-advertising networks by following this link: <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+Also, Kansas.com uses services provided by the the News Licensing Groups's News Registry ("News Registry"). News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of Kansas.com means you accept the privacy policy of News Registry. Please refer to the News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
 
 Pages on Kansas.com may contain tiny electronic images known as web beacons. We use web beacons to assist us in delivering cookies on Kansas.com and to allow us to count users who have visited those pages. We may include web beacons in promotional e-mail messages in order to determine whether messages have been opened and acted upon. Many of our web beacons are provided by Omniture, which uses the domain 2o7.net. Please refer to Omniture's privacy policy at <http://www.omniture.com/en/privacy> for more information concerning the use of web beacons. Users may elect to opt out of Omniture cookie tracking by following this link <http://www.omniture.com/en/privacy/2o7> and clicking on the "Click Here To Opt-Out of 2o7.net Cookie Tracking Now" link at the bottom of the page.
 
@@ -68,7 +70,7 @@ To describe our services to prospective partners, advertisers and others, we may
 
 Kansas.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of Kansas.com in order to access general Kansas.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
 
-Kansas.com, 825 East Douglas Avenue, Wichita, KS 67201-0820, or 316-268-6351, or [webmaster@kansas.com](mailto:webmaster@kansas.com)
+Kansas.com, 825 East Douglas Avenue, Wichita, KS 67202, or 316-268-6351, or [webmaster@kansas.com](mailto:webmaster@kansas.com)
 
 ### Member mail and e-mail offers
 
@@ -112,4 +114,4 @@ Kansas.com supports P3P, the Platform for Privacy Preferences, which allows us t
 
 ### Contact Information
 
-If you have any questions or comments about our policies, we may be reached at Kansas.com, 825 East Douglas Avenue, Wichita, KS 67201-0820, at 316-268-6351 or at [webmaster@kansas.com](mailto:webmaster@kansas.com).
+If you have any questions or comments about our policies, we may be reached at Kansas.com, 825 East Douglas Avenue, Wichita, KS 67202, at 316-268-6351 or at [webmaster@kansas.com](mailto:webmaster@kansas.com).
