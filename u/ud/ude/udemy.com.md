@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628143513id_/http%3A//www.udemy.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215062700id_/http%3A//www.udemy.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Udemy
 
@@ -81,7 +81,7 @@ If you have questions or concerns regarding this Policy, you should contact Educ
 ### Address
 
 Udemy, Inc.  
-444 Castro St (12th floor)  
-Mountain View, CA
+425 2nd St. Suite 250  
+San Francisco, CA 94107
 
 Effective: March 8, 2010
