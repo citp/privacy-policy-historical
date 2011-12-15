@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the nitobi.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627205237id_/http%3A//www.nitobi.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitobi.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215090846id_/http%3A//nitobi.com/about/privacy) for the most accurate reproduction.*
 
 # Nitobi: Privacy Policy
 
+**"As part the transition to Adobe, the[Adobe Online Privacy Policy](http://www.adobe.com/misc/privacy.html) applies to information collected on this site, effective October 26, 2011. Any personal information you submitted prior to October 26, 2011 will not be used in a materially different manner than described in the Nitobi Privacy Policy, below (which will remain available for reference for 30 days)"**
+
+  
 [](https://web.archive.org/about)
 
 Nitobi Software Inc is committed to respecting your online privacy and recognize the need for appropriate protection and management of personal identification information ("Personal Information") you share with us.
