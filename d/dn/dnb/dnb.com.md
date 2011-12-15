@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519135120id_/http%3A//www.dnb.com/about-dnb/privacy-policy/14950282-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215104809id_/http%3A//www.dnb.com/about-dnb/privacy-policy/14950282-1.html) for the most accurate reproduction.*
 
-# D&B - Dun & Bradstreet Privacy Policy
+# Privacy Policy | D&B
 
 ## About Dun & Bradstreet 
 
@@ -125,11 +125,11 @@ If we make material changes to our information management and Data Privacy pract
 
 By using our website, you hereby consent to our collection, use, management, retention and disclosure of your information as described in this notice. 
 
-## EU Privacy Safe Harbor Framework 
+## EU and Swiss Privacy Safe Harbor Framework 
 
-We participate in the EU Privacy Safe Harbor Framework as established by the U.S. Department of Commerce and as it relates to the transfer of personal data from the European Union to the United States. As part of our participation in the EU Privacy Safe Harbor Framework, we have partnered with TRUSTe in order to address and resolve potential disputes regarding our compliance with the Safe Harbor Framework. 
+We participate in the EU Privacy Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as established by the U.S. Department of Commerce and as it relates to the transfer of personal data from the European Union and Switzerland to the United States. As part of our participation in the EU Privacy Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, we have partnered with TRUSTe in order to address and resolve potential disputes regarding our compliance with these Safe Harbor Frameworks. 
 
-This dispute resolution program covers both offline data collection (e.g. personal information collected through our call centers or via postal mail) and online data collection (e.g. personal information collected via the Internet). If you have any complaints regarding our compliance with relevant aspects of the EU Privacy Safe Harbor Framework, you should first contact us at: 
+This dispute resolution program covers both offline data collection (e.g. personal information collected through our call centers or via postal mail) and online data collection (e.g. personal information collected via the Internet). If you have any complaints regarding our compliance with relevant aspects of the EU Privacy Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, you should first contact us at: 
 
 Privacy Office   
 D&B   
@@ -148,7 +148,7 @@ TRUSTe Watchdog Dispute Resolution
 55 2nd Street, 2nd Floor   
 San Francisco, CA U.S.A. 94105 
 
-If you are submitting a complaint to TRUSTe regarding our collection or management of EU personal data, you must include the following information in your submission: our company name; the nature of the alleged Data Privacy violation, including details about how your data was collected and what causes you to believe that a violation occurred; the resolution you are requesting; your contact information; and whether you give permission to TRUSTe to share the details of your complaint, including your name, with us. For additional information about TRUSTe and/or TRUSTe's dispute resolution process, please visit [TRUSTe Watchdog Dispute Resolution](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe by using any of the contact options listed above. 
+If you are submitting a complaint to TRUSTe regarding our collection or management of EU or Swiss personal data, you must include the following information in your submission: our company name; the nature of the alleged Data Privacy violation, including details about how your data was collected and what causes you to believe that a violation occurred; the resolution you are requesting; your contact information; and whether you give permission to TRUSTe to share the details of your complaint, including your name, with us. For additional information about TRUSTe and/or TRUSTe's dispute resolution process, please visit [TRUSTe Watchdog Dispute Resolution](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe by using any of the contact options listed above. 
 
 ## Contact D&B 
 
@@ -166,4 +166,4 @@ This online privacy notice is applicable to the following U.S. D&B websites: [ww
 
 **Privacy Policy Effective Date: March 31, 2010**
 
-© Dun & Bradstreet, Inc., 2020. All rights reserved. 
+© Dun & Bradstreet, Inc., 2020 2011 2011 2011 2011. All rights reserved. 
