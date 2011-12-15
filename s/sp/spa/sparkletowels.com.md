@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615023409id_/http%3A//www.gp.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2011-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111215022649id_/http%3A//www.gp.com/privacy/index.asp) for the most accurate reproduction.*
 
 # Georgia-Pacific Privacy Notice
 
 California Residents[Click here]
 
-Georgia-Pacific and its subsidiaries and affiliates (collectively "Georgia-Pacific") respect your concerns about privacy and value their relationship with you. This Privacy Notice applies to the Georgia-Pacific websites [[listed here]. ](https://web.archive.org/web/20110615023409id_/http%3A//www.gp.com/privacy/privacysites.asp) The Notice describes the types of information we collect at these sites, how we may use that information and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. We also tell you how you can reach us to update your contact information, remove your name from our mailing lists or get answers to questions you may have about our privacy practices at these sites. 
+Georgia-Pacific and its subsidiaries and affiliates (collectively "Georgia-Pacific") respect your concerns about privacy and value their relationship with you. This Privacy Notice applies to the Georgia-Pacific websites [[listed here]. ](https://web.archive.org/web/20111215022649id_/http%3A//www.gp.com/privacy/privacysites.asp) The Notice describes the types of information we collect at these sites, how we may use that information and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. We also tell you how you can reach us to update your contact information, remove your name from our mailing lists or get answers to questions you may have about our privacy practices at these sites. 
 
 Click on one of the links below to jump to the listed section:
 
@@ -150,7 +150,7 @@ We do not sell or otherwise disclose information about our website visitors, exc
 
 If you are a California resident, you may ask us to refrain from sharing your information (whether collected online or offline) among our affiliates for their marketing purposes, if the affiliates are separate legal entities. Please tell us your preference by contacting us as indicated in the "How to Contact Us" section of this Notice. 
 
-If you are located in the European Economic Area, please visit our Safe Harbor Privacy Notice [[Click here]](https://web.archive.org/web/20110615023409id_/http%3A//www.gp.com/privacy/safeharbor.asp) to learn how you can exercise and amend your choices. 
+If you are located in the European Economic Area, please visit our Safe Harbor Privacy Notice [[Click here]](https://web.archive.org/web/20111215022649id_/http%3A//www.gp.com/privacy/safeharbor.asp) to learn how you can exercise and amend your choices. 
 
 We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use information you have provided through our websites in a manner that is consistent with this Privacy Notice.
 
@@ -180,7 +180,7 @@ Websites to which this Safe Harbor Privacy Notice ("Notice") applies are United 
 
 
 
-[[Click here]](https://web.archive.org/web/20110615023409id_/http%3A//www.gp.com/privacy/safeharbor.asp) to view our Safe Harbor Privacy Notice. 
+[[Click here]](https://web.archive.org/web/20111215022649id_/http%3A//www.gp.com/privacy/safeharbor.asp) to view our Safe Harbor Privacy Notice. 
 
 Return To Top **Access and Correction**
 
@@ -188,7 +188,7 @@ Georgia-Pacific provides website visitors with reasonable access to personal inf
 
 Return To Top **Your Choices**
 
-If you would like to update your contact information or preferences, or have your information removed from our mailing lists, please [[click here]](https://web.archive.org/web/20110615023409id_/http%3A//www.gp.com/contactus/generalInfo_pr.asp) or write to: 
+If you would like to update your contact information or preferences, or have your information removed from our mailing lists, please [[click here]](https://web.archive.org/web/20111215022649id_/http%3A//www.gp.com/contactus/generalInfo_pr.asp) or write to: 
 
 Georgia-Pacific LLC  
 Attention: Privacy Office  
@@ -205,7 +205,7 @@ Return To Top **How to Contact Us**
 
 If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by:
 
-Contacting us through our website: [ Click here](https://web.archive.org/web/20110615023409id_/http%3A//www.gp.com/contactus/generalInfo_pr.asp) or
+Contacting us through our website: [ Click here](https://web.archive.org/web/20111215022649id_/http%3A//www.gp.com/contactus/generalInfo_pr.asp) or
 
 Writing to: 
 
