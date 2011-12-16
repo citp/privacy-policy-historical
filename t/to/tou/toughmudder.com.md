@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the toughmudder.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616015627id_/http%3A//toughmudder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toughmudder.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216182313id_/http%3A//toughmudder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tough Mudder
 
-## TOUGH MUDDER PRIVACY POLICY
-
-We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to Tough Mudder LLC’s website: [ToughMudder.com](http://toughmudder.com/).
+We are strongly committed to protecting the privacy of your personal information. The policies below are applicable to Tough Mudder Limited’s website: [ToughMudder.com](http://toughmudder.com/).
 
 ### 1\. Purpose.
 
