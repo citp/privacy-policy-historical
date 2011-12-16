@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolutionarypolitics.tv privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618141251id_/http%3A//revolutionarypolitics.tv/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolutionarypolitics.tv privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216214910id_/http%3A//revolutionarypolitics.tv/staticPage.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Revolutionary Politics::staticpage title
 
