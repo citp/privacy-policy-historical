@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earmaster.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618060603id_/http%3A//www.earmaster.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earmaster.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216220838id_/http%3A//www.earmaster.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # EarMaster Privacy Policy
 
@@ -10,9 +10,10 @@
     * [Ear training lessons](https://web.archive.org/eartraining/lessons.htm)
   * [Products](https://web.archive.org/products/)
     * [Features](https://web.archive.org/products/)
-    * [Screenshots and videos](https://web.archive.org/eartraining/exercises.htm)
     * [Comparison chart](https://web.archive.org/comparison.htm)
-    * [Lesson list](https://web.archive.org/eartraining/lessons.htm)
+    * [Description of activities](https://web.archive.org/eartraining/exercises.htm)
+    * [Video presentations](https://web.archive.org/presentation/)
+    * [Included lessons](https://web.archive.org/eartraining/lessons.htm)
     * [Reviews in the press](https://web.archive.org/press/reviews.htm)
   * [For Teachers](https://web.archive.org/school/)
     * [EarMaster School](https://web.archive.org/school/)
@@ -30,6 +31,7 @@
     * [Special offers](https://web.archive.org/offers.htm)
     * [Affiliate plan](https://web.archive.org/affiliate/)
     * [Reseller Area](https://web.archive.org/reseller/)
+    * [Distributors](https://web.archive.org/distributors.htm)
   * [Community](https://web.archive.org/community/)
     * [Community forum](https://web.archive.org/community/)
     * [User comments](https://web.archive.org/user-comments.htm)
