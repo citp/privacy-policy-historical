@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the peacecorps.gov privacy policy that was archived on 2011-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110617203440id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dabout.policies.general) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the peacecorps.gov privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216105602id_/http%3A//www.peacecorps.gov/index.cfm%3Fshell%3Dabout.policies.general) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -52,7 +52,8 @@
 	
 
 	<!-- Scripts -->
-	<script type="text/javascript" src="/scripts/global.js"></script>
+	<script type="text/javascript" async="" src="https://web.archive.org/web/20120322184017/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/global.js"></script>
+    <script type="text/javascript" src="/scripts/gaq.js"></script>
 
 
 	
@@ -72,7 +73,7 @@
 	<li class="nav-ig"><a href="/index.cfm?shell=about.leadership.inspgen">Inspector General</a></li>
 	<li class="nav-contact"><a href="/index.cfm?shell=about.contact">Contact Us</a></li>
 </ul>
-<form name="globalsearch" method="get" action="http://search.peacecorps.gov/search" id="globalsearch">
+<form name="globalsearch" method="get" action="http://search.peacecorps.gov/search" id="globalsearch" onsubmit="checkSearchQuery();">
 
 	<fieldset>
 		<div>
@@ -86,8 +87,11 @@
 	<input type="hidden" name="output" value="xml_no_dtd">
     <input type="hidden" name="filter" value="p">
     <input type="hidden" name="proxystylesheet" value="default_frontend"> 
+
+    <input type="hidden" name="proxycustom" value="">
    
 </form>
+
 
 
 
@@ -99,7 +103,7 @@
 
 <div class="section" id="banners">
 	<div class="container">
-		<div class="span_photo"><img src="/images/global/headers/header_11.jpg" width="910" height="107" alt="Scenic images from the field"></div>
+		<div class="span_photo"><img src="/images/global/headers/header_10.jpg" width="910" height="107" alt="Scenic images from the field"></div>
 	</div>
 </div>
 
@@ -216,10 +220,11 @@
 <div class="stay-connected">
 	<h3>Stay Connected</h3>
 	<ul>
-		<li class="fb"><a href="http://www.facebook.com/peacecorps" target="_blank">Facebook</a></li>
-		<li class="twitter"><a target="_blank" href="http://twitter.com/peacecorps">Twitter</a></li>
-		<li class="flickr"><a target="_blank" href="http://www.flickr.com/photos/peacecorps">Flickr</a></li>
-		<li class="yt"><a target="_blank" href="http://www.youtube.com/peacecorps">YouTube</a></li>
+		<li class="fb"><a href="http://www.facebook.com/peacecorps" onclick="recordOutboundLink(this, 'SocialMedia', 'Link', 'Facebook', true);return false;" target="_blank">Facebook</a></li>
+		<li class="twitter"><a target="_blank" href="http://twitter.com/peacecorps" onclick="recordOutboundLink(this, 'SocialMedia', 'Link', 'Twitter', true);return false;">Twitter</a></li>
+		<li class="flickr"><a target="_blank" href="http://www.flickr.com/photos/peacecorps" onclick="recordOutboundLink(this, 'SocialMedia', 'Link', 'Flickr', true);return false;">Flickr</a></li>
+		<li class="yt"><a target="_blank" href="http://www.youtube.com/peacecorps" onclick="recordOutboundLink(this, 'SocialMedia', 'Link', 'YouTube', true);return false;">YouTube</a></li>
+		<li class="tumblr"><a href="http://peacecorps.tumblr.com/" target="_blank" onclick="recordOutboundLink(this, 'SocialMedia', 'Link', 'Tumblr', true);return false;">Tumblr</a></li>
 		<li class="rss"><a href="/index.cfm?shell=resources.media.rss">RSS</a></li>
 	</ul>
 </div>
@@ -307,10 +312,11 @@
 
         
         <div id="quicklinks">
-    <div class="container">
-        <h3 style="margin:-14px 0 0; padding-bottom:5px; padding-left:5px; background-color:#e1dec7; color:#685744;">Fraud Advisory <span style="font-weight:normal;">- Peace Corps Inspector General Warning About a Telephone Scam Targeting Grandparents - <a target="_blank" style="color:#cd621a;" href="http://multimedia.peacecorps.gov/multimedia/pdf/policies/PC_Fraud_Alert_Grandmother_Scam_2011.pdf">Read More</a></span></h3></div>
-    <div class="container">
 
+    <div class="container">
+        <h3 style="margin:-14px 0 0; padding-bottom:5px; padding-left:5px; background-color:#e1dec7; color:#685744;"><span style="font-weight:normal;">Operations Plan in the Absence of Current Year Appropriations (12/15/2011) - <a target="_blank" style="color:#cd621a;" href="http://multimedia.peacecorps.gov/multimedia/pdf/documents/pc_operating_plan_2011_1215.pdf">Read More</a></span></h3>
+    </div>
+    <div class="container">
         <div class="column col1">
             <h3>Learn About Volunteering</h3>
             <ul>
@@ -390,7 +396,7 @@
             </ul>
         </div>
         <div class="column col3">
-        <h3>Programs</h3>
+            <h3>Programs</h3>
             <ul>
                 <li><a href="/index.cfm?shell=response">Peace
                     Corps Response</a></li>
@@ -401,8 +407,9 @@
             <ul>
                 <li><a href="/open">Open Government
                     Initiative</a></li>
-                    <li><a href="http://pcoverseasjobs.avuedigital.us" target="_blank">Overseas
+                <li><a href="http://pcoverseasjobs.avuedigital.us" target="_blank">Overseas
                     Positions for U.S. Citizens</a></li>
+                <li><a href="/index.cfm?shell=jobs.contracts.domestic_contracts">Business Opportunities</a></li>
                 <li><a href="/index.cfm?shell=about.policies.FOIA">Freedom
                     of Information Act (FOIA)</a></li>
                 <li><a href="/index.cfm?shell=about.leadership.inspgen">Office
@@ -416,7 +423,7 @@
             </ul>
             <h3>Agency Documents (PDF)</h3>
             <ul>
-                <li><a target="_blank" href="http://multimedia.peacecorps.gov/multimedia/pdf/policies/annrept2010.pdf">Annual Report (PAR) FY 2010</a></li>
+                <li><a target="_blank" href="http://multimedia.peacecorps.gov/multimedia/pdf/policies/annrept2011.pdf">Annual Report (PAR) FY 2011</a></li>
                 <li><a href="/policies/pdf/hipaa.pdf" target="_blank">HIPAA
                     Privacy Policy </a></li>
                 <li><a href="/policies/pdf/hipaafaq.pdf" target="_blank">HIPAA
@@ -430,10 +437,14 @@
             </ul>
         </div>
         <div class="column col4">
-        <h3>Safety and Security</h3>
+            <h3>Safety and Security</h3>
             <ul>
+                <li><a href="/index.cfm?shell=resources.media.press.view&amp;news_id=1846">Statement from<br>
+                    Director Aaron S. Williams</a> (09/02/11)</li>
                 <li><a href="/index.cfm?shell=learn.safety">What about Safety?</a></li>
                 <li><a href="/index.cfm?shell=learn.safety.safeandsec" target="_blank">Safety and Security in Depth</a></li>
+                <li><a href="http://multimedia.peacecorps.gov/multimedia/pdf/documents/safety_and_security_highlights.pdf" target="_blank">Safety and Security:<br>
+                    Highlights to Help You Prepare for Peace Corps Service 2011</a> (PDF)</li>
                 <li><a href="http://multimedia.peacecorps.gov/multimedia/pdf/policies/volsafety2009.pdf" target="_blank">Volunteer Safety Report 2009</a> (PDF)</li>
                 <li><a href="/index.cfm?shell=about.policies.docs#volsafety">Archive Safety Reports</a></li>
                 <li><a href="http://multimedia.peacecorps.gov/multimedia/pdf/documents/Commitment to Sexual Assault Victims.pdf" target="_blank">Peace Corps' Commitment to Sexual Assault Victims</a> (PDF)</li>
