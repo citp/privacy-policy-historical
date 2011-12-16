@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fcreview.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429050655id_/http%3A//www.fcreview.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcreview.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216130220id_/http%3A//www.fcreview.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy - 我的网站
+# Privacy policy - Flying Car Review
 
 ## Our Commitment To Privacy
 
