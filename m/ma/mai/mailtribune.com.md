@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mailtribune.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617054405id_/http%3A//www.mailtribune.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailtribune.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216075408id_/http%3A//www.mailtribune.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Mailtribune.com -
 
 ## Dow Jones Local Media Group Privacy Policy
 
-**Effective as of January 12, 2010**
+**Effective as of July 6, 2011**
 
 ## INTRODUCTION:
 
@@ -22,11 +22,11 @@ We do not, however, knowingly collect PII from children under the age of thirtee
 
 When you provide PII to us, we will make sure you are informed about the types of uses we will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy. 
 
-**Cookies.** Cookies are small bits of information that our web sites place on the hard drive of your computer. We use cookies to, among other things, facilitate our login processes; allow you to personalize and store your settings; collect usage information; determine our total audience size and traffic; and help us improve our sites by measuring which areas are of greatest interest to users. 
+**Cookies.** Cookies are small bits of information that our web sites place on the hard drive of your computer. We use cookies (including browser cookies and Adobe Flash technology including cookies) to, among other things, facilitate our login processes; allow you to personalize and store your settings; collect usage information; determine our total audience size and traffic; and help us improve our sites by measuring which areas are of greatest interest to users. 
 
 Third party advertisements displayed on our sites may also contain cookies set by Internet advertising companies or advertisers. We do not control these cookies and visitors to our web sites should check the privacy policy of the advertiser to see whether and how it uses cookies. (See the "Notice" section below for more information on third party advertisements). 
 
-You can set the browser on your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on our web sites. 
+You can set the browser on your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website, see <http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html>. However, by blocking any or all cookies you may not have access to certain features on our web sites. 
 
 We also use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our sites in order to recognize users and assess traffic patterns, and we include web beacons and cookies in our e-mail messages, including newsletters, in order to count how many e-mail messages have been opened. 
 
@@ -34,7 +34,7 @@ When you view an ad for our publications on other sites, our third-party adverti
 
 We may use cookies and similar tools to relate your use of our web sites to PII obtained from you or a reputable third party. For example, if you've asked us to send you information about our upcoming products or promotions, cookie and/or click stream data about your activities on our web sites may allow us to limit the materials we send you to items we think you will find interesting, based on your prior online activities and preferences. However, if we wish to combine your personal and cookie or click stream information in this manner, we will obtain your express affirmative consent. 
 
-**Third Party Ad Servers.** Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp)
+**Third Party Ad Servers.** Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising companies. These companies utilize certain technologies including cookies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites and other web sites. If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
 ## NOTICE
 
