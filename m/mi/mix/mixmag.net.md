@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mixmag.net privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605192824id_/http%3A//www.mixmag.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixmag.net privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216153448id_/http%3A//www.mixmag.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Mixmag
+# Mixmag | Privacy Policy
 
 Information submitted to MIXMAG through forms of this website is governed by the following Electronic Personal Information Privacy Policy (the "Policy"). Please read the following policy to understand how your personal information will be treated as you make full use of MIXMAG’s service. This Policy may be updated from time to time. Therefore, we ask you to check back periodically. This Policy discloses the privacy practices for MIXMAG’s website and describes the information MIXMAG collects about you and what may happen to such information.
 
@@ -19,21 +19,19 @@ MIXMAG uses industry standard efforts to safeguard the confidentiality of the co
 **Disclosure of collected data:**  
 MIXMAG will not disclose, sell or transfer any of the collected data, to any third parties (e.g., advertisers or business partners), except in the following cases:
 
-  * MIXMAG receives your permission;
-  * If MIXMAG believes in good faith that the law requires such disclosure or transfer; or
-  * If required by third party contractors and service providers who work with MIXMAG, to provide the website’s service. 
-
-
+• MIXMAG receives your permission;  
+• If MIXMAG believes in good faith that the law requires such disclosure or transfer; or  
+• If required by third party contractors and service providers who work with MIXMAG, to provide the website’s service.
 
 Notwithstanding the aforesaid, MIXMAG may also disclose collected data, in special cases when it has reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who may be violating MIXMAG’s License Agreement or may be causing injury to or interference with (either intentionally or unintentionally), MIXMAG’s rights or property, other Users, or anyone else that could be harmed by such activities. You thus authorize MIXMAG to disclose any collected data about you to law enforcement or other government officials if, in its sole and absolute discretion, believes that such disclosure is necessary or appropriate. Although, MIXMAG uses industry standard practices to protect your privacy, MIXMAG does not ensure, and you should not expect, that your collected data or any private communications will always remain private. Since MIXMAG’s Site may contain links to other sites, MIXMAG is not responsible for the privacy practices or the content of such linked sites.
 
 **Advertising**  
-In order to continue offering our content to you for free, we are paid for banner ads on our site, and by some retailers if you buy something as a result of clicking through from the site. We commit that this does not affect our editorial integrity or the quality of our content: we believe that writing honest fair content will mean you trust us more, and return to us often, which is what we aim for. 
+In order to continue offering our content to you for free, we are paid for banner ads on our site, and by some retailers if you buy something as a result of clicking through from the site. We commit that this does not affect our editorial integrity or the quality of our content: we believe that writing honest fair content will mean you trust us more, and return to us often, which is what we aim for.
 
 **Unsubscribing:**  
 At anytime you can remove yourself from the MIXMAG mailing list database. Just send an email to [info@mixmag.net](mailto:info@mixmag.net)
 
 **General**  
-We take privacy very seriously and are therefore committed to protecting the privacy of our users. If you have any queries regarding these issues please contact us at [info@mixmag.net](mailto:info@mixmag.net). Information on the Data Protection Act 1998 is also on the Data Protection Commissioner’s website at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/).
+We take privacy very seriously and are therefore committed to protecting the privacy of our users. If you have any queries regarding these issues please contact us at [info@mixmag.net](mailto:info@mixmag.net). Information on the Data Protection Act 1998 is also on the Data Protection Commissioner’s website at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/ "www.dataprotection.gov.uk").
 
 MIXMAG may amend this information from time to time, but changes will be posted here.
