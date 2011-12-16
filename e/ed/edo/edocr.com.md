@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edocr.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623222037id_/http%3A//www.edocr.com/edocr-ltd-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edocr.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217002315id_/http%3A//www.edocr.com/edocr-ltd-privacy-policy) for the most accurate reproduction.*
 
 # edocr Ltd - Privacy Policy | edocr
 
@@ -29,4 +29,4 @@ We may update this Privacy Policy from time to time. The current version will be
 
 Effective 1 October 2007
 
-9517 reads
+11306 reads
