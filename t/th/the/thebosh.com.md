@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebosh.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122130545id_/http%3A//thebosh.com/archives/2004/08/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebosh.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217002150id_/http%3A//thebosh.com/archives/2004/08/disclaimer.php) for the most accurate reproduction.*
 
 # Disclaimer
 
