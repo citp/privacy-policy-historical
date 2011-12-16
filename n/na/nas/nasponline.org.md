@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the nasponline.org privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617025353id_/http%3A//www.nasponline.org/about_nasp/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasponline.org privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216121219id_/http%3A//nasponline.org/about_nasp/privacy-policy.aspx) for the most accurate reproduction.*
 
 # NASP - Website Privacy Policy
 
-|   
----  
-|   
-  
+| 
+
 We respect your privacy. Any personal information you provide to us including and similar to your name, address, telephone number, and e-mail address will not be intentionally released, sold, or rented to any entities or individuals outside of our organization except as noted below. 
 
 ## With Whom Do We Share the Personal Information We Collect Through This Site? 
@@ -33,4 +31,4 @@ A “cookie” is a small data text file that is placed in your browser and allo
 
 While we have taken steps to protect your personal information, we cannot guarantee the security of any information that you transmit to us and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, other Internet sites or services that may be accessible through our site have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. Please contact those vendors and others directly if you have any questions about their privacy policies. 
 
-For any other information, please [contact the NASP office](https://web.archive.org/web/20110617025353id_/http%3A//www.nasponline.org/about_nasp/meet_staff.aspx).
+For any other information, please [contact the NASP office](https://web.archive.org/web/20111216121219id_/http%3A//nasponline.org/about_nasp/meet_staff.aspx).
