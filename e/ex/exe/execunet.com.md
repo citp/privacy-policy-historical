@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516065218id_/http%3A//www.execunet.com/e_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the execunet.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216173549id_/http%3A//www.execunet.com/e_privacy.cfm) for the most accurate reproduction.*
 
 # ExecuNet - Executive Job Search, Networking & Career Advancement
 
@@ -50,7 +50,7 @@ ExecuNet allows you to change or correct your personal information at any time. 
 
 When you place an order online, your personal details and credit card information are scrambled using SSL encryption technology before being sent over the Internet. Although we cannot guarantee encryption or the privacy of your personal details and credit card information, SSL makes it very difficult for your information to be stolen or intercepted while being transferred.
 
-Our credit card transactions are processed by PayPal (http://www.paypal.com/). All information sent to PayPal is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For further information about PayPal's privacy statement, please [click here](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside).
+Our credit card transactions are processed by Litle & Co (http://www.litle.com/). All information sent to Litle & Co is in the secure SSL environment, which will protect it against disclosure to third parties. When we receive your order, it is on an SSL server. For further information about Litle & Co's terms of use, please [click here](http://www.litle.com/about-us/terms-of-use).
 
 **Cookies**
 
@@ -58,7 +58,7 @@ To enhance your experience at ExecuNet, we use a feature on your Internet browse
 
 **Feedback**
 
-ExecuNet has an area on the site where you can submit [feedback](https://web.archive.org/web/20110516065218id_/http%3A//www.execunet.com/e_contactus.cfm). Any feedback that is submitted through this area becomes the property of ExecuNet. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
+ExecuNet has an area on the site where you can submit [feedback](https://web.archive.org/web/20111216173549id_/http%3A//www.execunet.com/e_contactus.cfm). Any feedback that is submitted through this area becomes the property of ExecuNet. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
 
 **Privacy Commitment Changes**
 
