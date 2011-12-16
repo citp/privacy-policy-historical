@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the orbitcast.com privacy policy that was archived on 2011-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618032147id_/http%3A//www.orbitcast.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orbitcast.com privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216203952id_/http%3A//www.orbitcast.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -187,83 +187,7 @@ ch_query = ch_queries[ch_selected];
                             </div>
 
 
-                    <div id="comments" class="comments">
-
-
-    
-    
-
-
-    
-    
-    <div class="comments-open" id="comments-open">
-
-
-
-        <h2 class="comments-open-header">Do you have this receiver? Write a Review!</h2>
-
-        <div class="comments-open-content">
-
-        
-            <div id="comment-greeting"></div>
-
-            <form method="post" action="http://www.orbitcast.com/mt4/mt-comments.cgi" name="comments_form" id="comments-form" onsubmit="return mtCommentOnSubmit(this)">
-                <input type="hidden" name="static" value="1">
-                <input type="hidden" name="entry_id" value="5210">
-                <input type="hidden" name="__lang" value="en">
-                <input type="hidden" name="parent_id" value="" id="comment-parent-id">
-                <input type="hidden" name="armor" value="1">
-                <input type="hidden" name="preview" value="">
-                <input type="hidden" name="sid" value="">
-                <div id="comments-open-data">
-                    <div id="comment-form-name">
-                        <label for="comment-author">Name</label>
-                        <input id="comment-author" name="author" size="30" value="" onfocus="mtCommentFormOnFocus()">
-                    </div>
-                    <div id="comment-form-email">
-                        <label for="comment-email">Email Address</label>
-                        <input id="comment-email" name="email" size="30" value="" onfocus="mtCommentFormOnFocus()">
-                    </div>
-                    <div id="comment-form-url">
-                        <label for="comment-url">URL</label>
-                        <input id="comment-url" name="url" size="30" value="" onfocus="mtCommentFormOnFocus()">
-                    </div>
-                    <div id="comment-form-remember-me">
-                        <input type="checkbox" id="comment-bake-cookie" name="bakecookie" onclick="mtRememberMeOnClick(this)" value="1" accesskey="r">
-                        <label for="comment-bake-cookie">Remember personal info?</label>
-                    </div>
-                </div>
-                <div id="comment-form-reply" style="display:none">
-                    <input type="checkbox" id="comment-reply" name="comment_reply" value="" onclick="mtSetCommentParentID()">
-                    <label for="comment-reply" id="comment-reply-label"></label>
-                </div>
-                <div id="comments-open-text">
-                    <label for="comment-text">Comments
-                    (You may use HTML tags for style)</label>
-                    <textarea id="comment-text" name="text" rows="15" cols="50" onfocus="mtCommentFormOnFocus()"></textarea>
-                </div>
-                <div id="comments-open-captcha"></div>
-                <div id="comments-open-footer">
-                    <input type="submit" accesskey="v" name="preview_button" id="comment-preview" value="Preview Your Comment" onclick="this.form.preview.value='1';">
-
-                </div>
-            </form>
-
-
-        </div>
-    </div>
-    <script type="text/javascript">
-    <!--
-    mtAttachEvent("load", mtEntryOnLoad);
-    mtAttachEvent("unload", mtEntryOnUnload);
-    //-->
-    </script>
-    
-
-
-</div>
-
-
+                    
 
                         </div>
                     </div>
@@ -274,60 +198,7 @@ ch_query = ch_queries[ch_selected];
 
 
     
-    <div class="widget-sign-in widget">
-    <h3 class="widget-header">Sign In</h3>
-    <div id="signin-widget-content" class="widget-content"></div>
-</div>
-<script type="text/javascript">
-/* <![CDATA[ */
-function mtUpdateSignInWidget(u) {
-    var el = document.getElementById('signin-widget-content');
-    var content = '';
-    if (!el) return;
-    if (u) {
-        if (u && u.is_authenticated) {
-            user = u;
-            mtSaveUser();
-        } else {
-            // user really isn't logged in; so let's do this!
-            return mtSignIn();
-        }
-    } else {
-        u = mtGetUser();
-    }
-    if (u && u.name) {
-        var url;
-        if (u.is_authenticated) {
-            if (u.is_author) {
-                url = 'http://www.orbitcast.com/mt4/mt-comments.cgi?__mode=edit_profile';
-                url += '&return_url=' + encodeURIComponent( location.href );
-            } else {
-                url = u.url;
-            }
-        } else if (u.url) {
-            url = u.url;
-        } else {
-            url = null;
-        }
-        var content = 'You are signed in as ';
-        if (url)
-            content += '<a href="' + url + '">' + u.name + '</a>';
-        else
-            content += u.name;
-        content += '.  (<a href="javascript:void(0)" onclick="return mtSignOutOnClick()">sign out</a>)';
-    } else if (u && u.is_banned) {
-        content = 'You do not have permission to sign in to this blog.';
-    } else {
-        content = '<a href="javascript:void(0)" onclick="return mtSignInOnClick(\'signin-widget-content\')">Sign In</a>';
-    }
-    el.innerHTML = content;
-}
-mtAttachEvent('usersignin', mtUpdateSignInWidget);
-mtUpdateSignInWidget();
-/* ]]> */
-</script>
-
-<div class="widget-syndication widget">
+    <div class="widget-syndication widget">
 <h3 class="widget-header">Subscribe to Orbitcast</h3>
     <div class="widget-content">
         <ul>
@@ -356,34 +227,6 @@ mtUpdateSignInWidget();
         </ul>
     </div>
 </div>
-<div class="widget-link-blog widget">
-    <div class="widget-content">
-<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/3799826.js"></script>
-<noscript>
-	<a href="http://polldaddy.com/poll/3799826/">Would you drop Sirius XM if Opie & Anthony aren't renewed?</a><span style="font-size:9px;"><a href="http://polldaddy.com/features-surveys/">online survey</a></span>
-</noscript>
-</div>
-</div>
-
-
-<div class="widget-link-blog widget">
-    <h3 class="widget-header"><a href="http://www.orbitcast.com/reviews/">Satellite Radio Reviews</a></h3>
-    <div class="widget-content">
-
-<a href="http://www.orbitcast.com/skydock/"><img alt="XM SkyDock Review" src="http://www.orbitcast.com/archives/skydock.jpg" height="164" width="160" border="0"></a>
-<br>
-Read our satellite radio reviews on the <a href="http://www.orbitcast.com/skydock/">XM SkyDock</a>, 
-<a href="http://www.orbitcast.com/xpressrci/">XpressRCi</a>, 
-<a href="http://www.orbitcast.com/onyx/">XM onyX</a>, 
-<a href="http://www.orbitcast.com/stiletto-2/">Sirius Stiletto 2</a>, 
-<a href="http://www.orbitcast.com/stratus-6/">Stratus 6</a>, 
-<a href="http://www.orbitcast.com/xmp3/">XMP3</a> and many more.
-<br><br></div>
-</div>
-
-
-
-
 <script type="text/javascript">
 var jbb_widget_domain = 'http://jobs.orbitcast.com';
 var jbb_widget_list_count = 5;
@@ -648,21 +491,39 @@ var jbb_widget_title = '<span style="font-size: 125%;">Recent Job Listings</span
     </div>
 </div>
 
-<div id="adrotator">
-
-<a href="http://www.tss-radio.com" onclick="javascript: pageTracker._trackPageview('/outgoing/ads/tss/general');" rel="nofollow"><img src="http://www.orbitcast.com/Orbitcast-TSS-General.jpg" width="170" height="430" alt="" border="0"></a><br><br>
-<a href="http://www.tss-radio.com/t/xm-in-dash" onclick="javascript: pageTracker._trackPageview('/outgoing/ads/tss/xm_indash');" rel="nofollow"><img src="http://www.orbitcast.com/Orbitcast-XM_InDash.jpg" width="170" height="430" alt="" border="0"></a><br><br>
-<a href="http://www.tss-radio.com/t/sirius-in-dash" onclick="javascript: pageTracker._trackPageview('/outgoing/ads/tss/sirius_indash');" rel="nofollow"><img src="http://www.orbitcast.com/Orbitcast-SIRIUS_InDash.jpg" width="170" height="430" alt="" border="0"></a><br><br>
-
-
-
-
-</div>
 <!-- Skyscraper -->
 <script language="javascript" type="text/javascript" src="http://ads.sixapart.com/custom?id=1000001383807&amp;width=160&amp;height=600&amp;js=1"></script>
 
 
-<!-- /Skyscraper -->
+<!-- /Skyscraper --><div class="widget-link-blog widget">
+    <div class="widget-content">
+<script type="text/javascript" charset="utf-8" src="http://static.polldaddy.com/p/3799826.js"></script>
+<noscript>
+	<a href="http://polldaddy.com/poll/3799826/">Would you drop Sirius XM if Opie & Anthony aren't renewed?</a><span style="font-size:9px;"><a href="http://polldaddy.com/features-surveys/">online survey</a></span>
+</noscript>
+</div>
+</div>
+
+
+<div class="widget-link-blog widget">
+    <h3 class="widget-header"><a href="http://www.orbitcast.com/reviews/">Satellite Radio Reviews</a></h3>
+    <div class="widget-content">
+
+<a href="http://www.orbitcast.com/skydock/"><img alt="XM SkyDock Review" src="http://www.orbitcast.com/archives/skydock.jpg" height="164" width="160" border="0"></a>
+<br>
+Read our satellite radio reviews on the <a href="http://www.orbitcast.com/skydock/">XM SkyDock</a>, 
+<a href="http://www.orbitcast.com/xpressrci/">XpressRCi</a>, 
+<a href="http://www.orbitcast.com/onyx/">XM onyX</a>, 
+<a href="http://www.orbitcast.com/stiletto-2/">Sirius Stiletto 2</a>, 
+<a href="http://www.orbitcast.com/stratus-6/">Stratus 6</a>, 
+<a href="http://www.orbitcast.com/xmp3/">XMP3</a> and many more.
+<br><br></div>
+</div>
+
+
+
+
+
     </div>
 </div>
 
