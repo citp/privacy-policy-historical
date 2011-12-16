@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tessuti.co.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624232851id_/http%3A//www.tessuti.co.uk/store/information.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tessuti.co.uk privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216140424id_/http%3A//www.tessuti.co.uk/store/information.php) for the most accurate reproduction.*
 
 # Tessuti.co.uk, Store Information
 
