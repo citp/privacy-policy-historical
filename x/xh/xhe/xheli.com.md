@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xheli.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227025623id_/http%3A//www.xheli.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xheli.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216144746id_/http%3A//www.xheli.com/privacypolicy.html) for the most accurate reproduction.*
 
-# xHeli.com - #1 Source for RC Helicopters
+# xHeli.com - #1 Source for RC Helicopters Mini Micro Helicopter Syma Double Horse Esky Walkera Exceed RC
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
