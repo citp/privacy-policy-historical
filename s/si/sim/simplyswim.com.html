@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the simplyswim.com privacy policy that was archived on 2011-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618041026id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the simplyswim.com privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216211114id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Simply Swim - Website Privacy Policy
@@ -16,7 +16,7 @@
     <div id="Header">
       
 <a href="/"><img src="/images/Header/Logo.jpg" style="left: 30px; top: 15px; position: absolute" alt="Simply Swim"></a>
-<div id="HeaderText"> <a href="/WishList.aspx">WISH LIST <span id="Header1_lblItems">(0)</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/ReturnsPolicy.aspx">RETURNS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/DeliveryInformation.aspx">DELIVERY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/CustomerServices.aspx">HELP</a></div>
+<div id="HeaderText"><div style="position:absolute; top:7px; left:-250px;"><a href="/docs/ChristmasGifts.aspx"><img src="/Images/Header/XmasSticker.png" alt="Shop Christmas Gift Ideas" width="112" height="111"></a></div><a href="/WishList.aspx">WISH LIST <span id="Header1_lblItems">(0)</span></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/ReturnsPolicy.aspx">RETURNS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/DeliveryInformation.aspx">DELIVERY</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/docs/CustomerServices.aspx">HELP</a></div>
 <div id="HeaderButtons">
 <a href="/MyAccount.aspx"><img src="/images/header/MyAccount.jpg" alt="View my account" style="float:left"></a>
 <a href="/ShoppingBasket.aspx"><img src="/images/header/MyBag.jpg" alt="view my basket" style="float:right;"></a>
@@ -31,116 +31,55 @@
 <div id="AutoCompleteContainer"><div id="AutoComplete"></div></div>
 <script type="text/javascript" src="/js/soapclient.js"></script>
 <script type="text/javascript">
-//<![CDATA[
-if(document.getElementById){var obj=document.getElementById('txtSearch');if(obj.setAttribute)obj.setAttribute('autocomplete','off');}
-function clearSearch(textbox){if(textbox.value=='Search for a product'){textbox.value='';}}
-function resetSearch(textbox){if(textbox.value==''){textbox.value='Search for a product';}}
-function doSearch(textbox, e){
-var key; if(window.event){key = window.event.keyCode} else {key = e.which}; //alert(key);
-if (key==13) {searchSite()} else {if(textbox.value.length>=2){var pl=new SOAPClientParameters();pl.add("CompanyID",4);pl.add("SearchFor",textbox.value);SOAPClient.invoke('/search.asmx',"textSearch",pl,true,doSearchCallback);}else{document.getElementById("AutoComplete").innerHTML='Nothing found';document.getElementById("AutoCompleteContainer").style.display='none';}}}
-function doSearchCallback(result){if(result==null){document.getElementById("AutoComplete").innerHTML='Nothing found';document.getElementById("AutoCompleteContainer").style.display='none';}else{document.getElementById("AutoComplete").innerHTML=result;document.getElementById("AutoCompleteContainer").style.display='block';}}
-function closeAutoComplete(){document.getElementById("AutoCompleteContainer").style.display='none';}
-function searchSite() {var searchStr=document.getElementById("txtSearch").value.replace(/ /gi,'+');if(searchStr!=undefined){window.location.href='/SearchResults.aspx?Reset=1&SearchString='+searchStr;}}
-//]]>
+  //<![CDATA[
+  if (document.getElementById) { var obj = document.getElementById('txtSearch'); if (obj.setAttribute) obj.setAttribute('autocomplete', 'off'); }
+  function clearSearch(textbox) { if (textbox.value == 'Search for a product') { textbox.value = ''; } }
+  function resetSearch(textbox) { if (textbox.value == '') { textbox.value = 'Search for a product'; } }
+  function doSearch(textbox, e) {
+    var key; if (window.event) { key = window.event.keyCode } else { key = e.which }; //alert(key);
+    if (key == 13) { searchSite() } else { if (textbox.value.length >= 2) { var pl = new SOAPClientParameters(); pl.add("CompanyID", 4); pl.add("SearchFor", textbox.value); SOAPClient.invoke('/search.asmx', "textSearch", pl, true, doSearchCallback); } else { document.getElementById("AutoComplete").innerHTML = 'Nothing found'; document.getElementById("AutoCompleteContainer").style.display = 'none'; } } 
+  }
+  function doSearchCallback(result) { if (result == null) { document.getElementById("AutoComplete").innerHTML = 'Nothing found'; document.getElementById("AutoCompleteContainer").style.display = 'none'; } else { document.getElementById("AutoComplete").innerHTML = result; document.getElementById("AutoCompleteContainer").style.display = 'block'; } }
+  function closeAutoComplete() { document.getElementById("AutoCompleteContainer").style.display = 'none'; }
+  function searchSite() { var searchStr = document.getElementById("txtSearch").value.replace(/ /gi, '+'); if (searchStr != undefined) { window.location.href = '/SearchResults.aspx?Reset=1&SearchString=' + searchStr; } }
+  //]]>
 </script>
 <img src="/images/header/DSLeft.jpg" alt="" style="position: absolute; left: 0px; top: 125px">
 <img src="/images/header/DSRight.jpg" alt="" style="position: absolute; right: 0px; top: 125px">
-<div id="Header1_HomePageScroller" style="display:none;">
-  <div class="main_view">
-    <div class="window">
-      <div class="image_reel">
-        <a href="http://www.facebook.com/pages/Simply-Swim/184370618278889"><img src="/Images/Home/reel_1c.jpg" alt="Join us on Facebook to get 5 pounds off"></a>
-        <a href="/manufacturers/Speedo/WomensSwimwear.aspx?reset=1&amp;orderBy=7"><img src="/Images/Home/reel_1a.jpg" alt="New Speedo Range"></a>
-        <a href="/departments/Goggles.aspx"><img src="/Images/Home/reel_2a.jpg" alt="Fantastic Goggle Range"></a>
-                <a href="/departments/WomensSwimwear/Bodyshaping.aspx"><img src="/Images/Home/reel_4a.jpg" alt="Sculpture Swimwear"></a>
-      </div>
-    </div>
-    <div class="paging">
-      <a href="#" rel="1"><img src="/Images/Home/spacer.png" alt=""></a>
-      <a href="#" rel="2"><img src="/Images/Home/spacer.png" alt=""></a>
-      <a href="#" rel="3"><img src="/Images/Home/spacer.png" alt=""></a>
-      <a href="#" rel="4"><img src="/Images/Home/spacer.png" alt=""></a>
-    </div>
-  </div>
-</div>
+
 <div id="HeaderDepartments"><ul>
 <li><a href="/Manufacturers.aspx">brands</a>
 <ul>
+<li><a href="/manufacturers/Animal.aspx">Animal</a></li>
 <li><a href="/manufacturers/AquaSphere.aspx">Aqua Sphere</a></li>
 <li><a href="/manufacturers/Arena.aspx">Arena</a></li>
+<li><a href="/manufacturers/BananaMoon.aspx">Banana Moon</a></li>
 <li><a href="/manufacturers/Camelbak.aspx">Camelbak</a></li>
-<li><a href="/manufacturers/CoPharma.aspx">Co Pharma</a></li>
 <li><a href="/manufacturers/Cressi.aspx">Cressi</a></li>
 <li><a href="/manufacturers/Diana.aspx">Diana</a></li>
 <li><a href="/manufacturers/Fashy.aspx">Fashy</a></li>
 <li><a href="/manufacturers/Finis.aspx">Finis</a></li>
+<li><a href="/manufacturers/FreyaActive.aspx">Freya Active</a></li>
 <li><a href="/manufacturers/Funkita.aspx">Funkita</a></li>
 <li><a href="/manufacturers/FunkyTrunks.aspx">Funky Trunks</a></li>
 <li><a href="/manufacturers/H2OAudio.aspx">H2O Audio</a></li>
+<li><a href="/manufacturers/Head.aspx">Head</a></li>
 </ul>
 <ul style="left: 162px">
-<li><a href="/manufacturers/Head.aspx">Head</a></li>
+<li><a href="/manufacturers/Hurley.aspx">Hurley</a></li>
 <li><a href="/manufacturers/Maru.aspx">Maru</a></li>
 <li><a href="/manufacturers/ONeill.aspx">O Neill</a></li>
+<li><a href="/manufacturers/Protest.aspx">Protest</a></li>
+<li><a href="/manufacturers/SeafollyGirl.aspx">Seafolly Girl</a></li>
 <li><a href="/manufacturers/Sevylor.aspx">Sevylor</a></li>
 <li><a href="/manufacturers/Shimmsuit.aspx">Shimmsuit</a></li>
 <li><a href="/manufacturers/ShockAbsorber.aspx">Shock Absorber</a></li>
+<li><a href="/manufacturers/SimplySwim.aspx">Simply Swim</a></li>
 <li><a href="/manufacturers/Speedo.aspx">Speedo</a></li>
 <li><a href="/manufacturers/Swimovate.aspx">Swimovate</a></li>
+<li><a href="/manufacturers/TigerJoebySeafolly.aspx">Tiger Joe by Seafolly</a></li>
 <li><a href="/manufacturers/Tyr.aspx">Tyr</a></li>
 <li><a href="/manufacturers/Zoggs.aspx">Zoggs</a></li>
-<li><a href="/\Manufacturers.aspx">...See all brands</a></li>
-</ul>
-</li>
-<li class="header_divider"><a href="/docs/ChoosingSwimEquipment.aspx">Equipment</a>
-<div style="height:292px"><ul>
-<li><a href="/departments/Accessories.aspx" class="multi_header">Accessories</a></li>
-<li><a class="multi" href="/departments/Accessories/EarProtection.aspx">Ear Protection</a></li>
-<li><a class="multi" href="/departments/Accessories/General.aspx">General</a></li>
-<li><a class="multi" href="/departments/Accessories/NoseClips.aspx">Nose Clips</a></li>
-<li><a class="multi" href="/departments/Accessories/WaterBottles.aspx">Water Bottles</a></li>
-<li><a href="/departments/Bags.aspx" class="multi_header">Bags</a></li>
-<li><a href="/departments/PoolFootwear.aspx" class="multi_header">Pool Footwear</a></li>
-<li><a class="multi" href="/departments/PoolFootwear/Childrens.aspx">Childrens</a></li>
-<li><a class="multi" href="/departments/PoolFootwear/Ladies.aspx">Ladies</a></li>
-<li><a class="multi" href="/departments/PoolFootwear/LatexSocks.aspx">Latex Socks</a></li>
-<li><a class="multi" href="/departments/PoolFootwear/Mens.aspx">Mens</a></li>
-<li><a href="/departments/PoolGamesandToys.aspx" class="multi_header">Pool Games and Toys</a></li>
-</ul>
-<ul style="left:185px;height:292px">
-<li><a href="/departments/SwimmingAids.aspx" class="multi_header">Swimming Aids</a></li>
-<li><a class="multi" href="/departments/SwimmingAids/Armbands.aspx">Armbands</a></li>
-<li><a class="multi" href="/departments/SwimmingAids/Floats.aspx">Floats</a></li>
-<li><a class="multi" href="/departments/SwimmingAids/SwimJackets.aspx">Swim Jackets</a></li>
-<li><a class="multi" href="/departments/SwimmingAids/SwimRings.aspx">Swim Rings</a></li>
-<li><a class="multi" href="/departments/SwimmingAids/SwimSeats.aspx">Swim Seats</a></li>
-<li><a href="/departments/SwimmingCaps.aspx" class="multi_header">Swimming Caps</a></li>
-<li><a class="multi" href="/departments/SwimmingCaps/Junior.aspx">Junior</a></li>
-<li><a class="multi" href="/departments/SwimmingCaps/LatexCaps.aspx">Latex Caps</a></li>
-<li><a class="multi" href="/departments/SwimmingCaps/NylonLycraCaps.aspx">Nylon Lycra Caps</a></li>
-<li><a class="multi" href="/departments/SwimmingCaps/PolyesterCaps.aspx">Polyester Caps</a></li>
-<li><a class="multi" href="/departments/SwimmingCaps/SiliconeCaps.aspx">Silicone Caps</a></li>
-</ul>
-<ul style="left:365px;height:292px">
-<li><a href="/departments/Towels.aspx" class="multi_header">Towels</a></li>
-<li><a href="/departments/TrainingAids.aspx" class="multi_header">Training Aids</a></li>
-<li><a class="multi" href="/departments/TrainingAids/LowerBody.aspx">Lower Body</a></li>
-<li><a class="multi" href="/departments/TrainingAids/UpperBody.aspx">Upper Body</a></li>
-<li><a href="/departments/Triathlon.aspx" class="multi_header">Triathlon</a></li>
-<li><a class="multi" href="/departments/Triathlon/LadiesWetsuits.aspx">Ladies Wetsuits</a></li>
-<li><a class="multi" href="/departments/Triathlon/MensWetsuits.aspx">Mens Wetsuits</a></li>
-<li><a href="/departments/Watches.aspx" class="multi_header">Watches</a></li>
-<li><a href="/departments/WaterproofMusic.aspx" class="multi_header">Waterproof Music</a></li>
-</ul></div>
-</li>
-<li class="header_divider"><a href="/departments/Goggles.aspx">goggles</a>
-<ul>
-<li><a href="/departments/Goggles/Accessories.aspx">Accessories</a></li>
-<li><a href="/departments/Goggles/Junior.aspx">Junior</a></li>
-<li><a href="/departments/Goggles/Leisure.aspx">Leisure</a></li>
-<li><a href="/departments/Goggles/Masks.aspx">Masks</a></li>
-<li><a href="/departments/Goggles/Optical.aspx">Optical</a></li>
-<li><a href="/departments/Goggles/Performance.aspx">Performance</a></li>
 </ul>
 </li>
 <li class="header_divider"><a href="/departments/WomensSwimwear.aspx">womens swimwear</a>
@@ -153,19 +92,8 @@ function searchSite() {var searchStr=document.getElementById("txtSearch").value.
 <li><a href="/departments/WomensSwimwear/Maternity.aspx">Maternity</a></li>
 <li><a href="/departments/WomensSwimwear/Performance.aspx">Performance</a></li>
 <li><a href="/departments/WomensSwimwear/SportsAndLeisure.aspx">Sports And Leisure</a></li>
-<li><a href="/departments/WomensSwimwear/Swimsuit.aspx">Swimsuit</a></li>
+<li><a href="/departments/WomensSwimwear/Swimsuits.aspx">Swimsuits</a></li>
 <li><a href="/departments/WomensSwimwear/TankinisandTwoPieces.aspx">Tankinis and Two Pieces</a></li>
-</ul>
-</li>
-<li class="header_divider"><a href="/departments/GirlsSwimwear.aspx">girls swimwear</a>
-<ul>
-<li><a href="/departments/GirlsSwimwear/BabyGirls.aspx">Baby Girls</a></li>
-<li><a href="/departments/GirlsSwimwear/ChlorineResistant.aspx">Chlorine Resistant</a></li>
-<li><a href="/departments/GirlsSwimwear/CompetitionSwimwear.aspx">Competition Swimwear</a></li>
-<li><a href="/departments/GirlsSwimwear/Performance.aspx">Performance</a></li>
-<li><a href="/departments/GirlsSwimwear/SportsandLeisure.aspx">Sports and Leisure</a></li>
-<li><a href="/departments/GirlsSwimwear/Swimsuit.aspx">Swimsuit</a></li>
-<li><a href="/departments/GirlsSwimwear/TankinisandTwoPieces.aspx">Tankinis and Two Pieces</a></li>
 </ul>
 </li>
 <li class="header_divider"><a href="/departments/MensSwimwear.aspx">mens swimwear</a>
@@ -178,6 +106,17 @@ function searchSite() {var searchStr=document.getElementById("txtSearch").value.
 <li><a href="/departments/MensSwimwear/Performance.aspx">Performance</a></li>
 <li><a href="/departments/MensSwimwear/SportsandLeisure.aspx">Sports and Leisure</a></li>
 <li><a href="/departments/MensSwimwear/SwimShorts.aspx">Swim Shorts</a></li>
+</ul>
+</li>
+<li class="header_divider"><a href="/departments/GirlsSwimwear.aspx">girls swimwear</a>
+<ul>
+<li><a href="/departments/GirlsSwimwear/BabyGirls.aspx">Baby Girls</a></li>
+<li><a href="/departments/GirlsSwimwear/ChlorineResistant.aspx">Chlorine Resistant</a></li>
+<li><a href="/departments/GirlsSwimwear/CompetitionSwimwear.aspx">Competition Swimwear</a></li>
+<li><a href="/departments/GirlsSwimwear/Performance.aspx">Performance</a></li>
+<li><a href="/departments/GirlsSwimwear/SportsandLeisure.aspx">Sports and Leisure</a></li>
+<li><a href="/departments/GirlsSwimwear/Swimsuit.aspx">Swimsuit</a></li>
+<li><a href="/departments/GirlsSwimwear/TankinisandTwoPieces.aspx">Tankinis and Two Pieces</a></li>
 </ul>
 </li>
 <li class="header_divider"><a href="/departments/BoysSwimwear.aspx">boys swimwear</a>
@@ -193,17 +132,78 @@ function searchSite() {var searchStr=document.getElementById("txtSearch").value.
 <li><a href="/departments/BoysSwimwear/WaterShorts.aspx">Water Shorts</a></li>
 </ul>
 </li>
+<li class="header_divider"><a href="/departments/Goggles.aspx">goggles</a>
+<ul>
+<li><a href="/departments/Goggles/Accessories.aspx">Accessories</a></li>
+<li><a href="/departments/Goggles/Junior.aspx">Junior</a></li>
+<li><a href="/departments/Goggles/Leisure.aspx">Leisure</a></li>
+<li><a href="/departments/Goggles/Masks.aspx">Masks</a></li>
+<li><a href="/departments/Goggles/Optical.aspx">Optical</a></li>
+<li><a href="/departments/Goggles/Performance.aspx">Performance</a></li>
+</ul>
+</li>
+<li class="header_divider"><a href="/docs/ChoosingSwimEquipment.aspx">Equipment</a>
+<div style="height:315px;left:-365px;"><ul>
+<li><a href="/departments/Accessories.aspx" class="multi_header">Accessories</a></li>
+<li><a class="multi" href="/departments/Accessories/EarProtection.aspx">Ear Protection</a></li>
+<li><a class="multi" href="/departments/Accessories/General.aspx">General</a></li>
+<li><a class="multi" href="/departments/Accessories/NoseClips.aspx">Nose Clips</a></li>
+<li><a class="multi" href="/departments/Accessories/WaterBottles.aspx">Water Bottles</a></li>
+<li><a href="/departments/Bags.aspx" class="multi_header">Bags</a></li>
+<li><a href="/departments/PoolFootwear.aspx" class="multi_header">Pool Footwear</a></li>
+<li><a class="multi" href="/departments/PoolFootwear/Childrens.aspx">Childrens</a></li>
+<li><a class="multi" href="/departments/PoolFootwear/Ladies.aspx">Ladies</a></li>
+<li><a class="multi" href="/departments/PoolFootwear/LatexSocks.aspx">Latex Socks</a></li>
+<li><a class="multi" href="/departments/PoolFootwear/Mens.aspx">Mens</a></li>
+<li><a href="/departments/PoolGamesandToys.aspx" class="multi_header">Pool Games and Toys</a></li>
+</ul>
+<ul style="left:180px;height:305px">
+<li><a href="/departments/SwimmingAids.aspx" class="multi_header">Swimming Aids</a></li>
+<li><a class="multi" href="/departments/SwimmingAids/Armbands.aspx">Armbands</a></li>
+<li><a class="multi" href="/departments/SwimmingAids/Floats.aspx">Floats</a></li>
+<li><a class="multi" href="/departments/SwimmingAids/SwimJackets.aspx">Swim Jackets</a></li>
+<li><a class="multi" href="/departments/SwimmingAids/SwimRings.aspx">Swim Rings</a></li>
+<li><a class="multi" href="/departments/SwimmingAids/SwimSeats.aspx">Swim Seats</a></li>
+<li><a href="/departments/SwimmingCaps.aspx" class="multi_header">Swimming Caps</a></li>
+<li><a class="multi" href="/departments/SwimmingCaps/Junior.aspx">Junior</a></li>
+<li><a class="multi" href="/departments/SwimmingCaps/LatexCaps.aspx">Latex Caps</a></li>
+<li><a class="multi" href="/departments/SwimmingCaps/NylonLycraCaps.aspx">Nylon Lycra Caps</a></li>
+<li><a class="multi" href="/departments/SwimmingCaps/PolyesterCaps.aspx">Polyester Caps</a></li>
+<li><a class="multi" href="/departments/SwimmingCaps/SiliconeCaps.aspx">Silicone Caps</a></li>
+<li><a href="/departments/Towels.aspx" class="multi_header">Towels</a></li>
+</ul>
+<ul style="left:360px;height:305px">
+<li><a href="/departments/TrainingAids.aspx" class="multi_header">Training Aids</a></li>
+<li><a class="multi" href="/departments/TrainingAids/AquaAerobics.aspx">Aqua Aerobics</a></li>
+<li><a class="multi" href="/departments/TrainingAids/DragShorts.aspx">Drag Shorts</a></li>
+<li><a class="multi" href="/departments/TrainingAids/HandPaddles.aspx">Hand Paddles</a></li>
+<li><a class="multi" href="/departments/TrainingAids/KickBoards.aspx">Kick Boards</a></li>
+<li><a class="multi" href="/departments/TrainingAids/PullBuoys.aspx">Pull Buoys</a></li>
+<li><a class="multi" href="/departments/TrainingAids/SwimGloves.aspx">Swim Gloves</a></li>
+<li><a class="multi" href="/departments/TrainingAids/TrainingFins.aspx">Training Fins</a></li>
+<li><a href="/departments/Triathlon.aspx" class="multi_header">Triathlon</a></li>
+<li><a class="multi" href="/departments/Triathlon/LadiesWetsuits.aspx">Ladies Wetsuits</a></li>
+<li><a class="multi" href="/departments/Triathlon/MensWetsuits.aspx">Mens Wetsuits</a></li>
+<li><a href="/departments/Watches.aspx" class="multi_header">Watches</a></li>
+<li><a href="/departments/WaterproofMusic.aspx" class="multi_header">Waterproof Music</a></li>
+</ul></div>
+</li>
 <li class="header_divider"><a href="/departments/PopularSearches.aspx">popular searches</a>
 <ul>
 <li><a href="/departments/PopularSearches/ArenaPowerskin.aspx">Arena Powerskin</a></li>
 <li><a href="/departments/PopularSearches/ArenaXFlat.aspx">Arena X Flat</a></li>
+<li><a href="/departments/PopularSearches/CompetitionSwimwear.aspx">Competition Swimwear</a></li>
+<li><a href="/departments/PopularSearches/CupSizedSwimwear.aspx">Cup Sized Swimwear</a></li>
 <li><a href="/departments/PopularSearches/DianaSubmarine.aspx">Diana Submarine</a></li>
 <li><a href="/departments/PopularSearches/FINAApprovedSuits.aspx">FINA Approved Suits</a></li>
 <li><a href="/departments/PopularSearches/MaruMX1.aspx">Maru MX1</a></li>
 <li><a href="/departments/PopularSearches/MaruMX2.aspx">Maru MX2</a></li>
+<li><a href="/departments/PopularSearches/PlusSizeSwimwear.aspx">Plus Size Swimwear</a></li>
+<li><a href="/departments/PopularSearches/SpeedoBiofuse.aspx">Speedo Biofuse</a></li>
 <li><a href="/departments/PopularSearches/SpeedoEndurance.aspx">Speedo Endurance</a></li>
 <li><a href="/departments/PopularSearches/SpeedoLZR.aspx">Speedo LZR</a></li>
 <li><a href="/departments/PopularSearches/SpeedoSculpture.aspx">Speedo Sculpture</a></li>
+<li><a href="/departments/PopularSearches/TummyControlSwimwear.aspx">Tummy Control Swimwear</a></li>
 <li><a href="/departments/PopularSearches/TYRFusion.aspx">TYR Fusion</a></li>
 <li><a href="/departments/PopularSearches/TYRTracer.aspx">TYR Tracer</a></li>
 <li><a href="/departments/PopularSearches/Zoggy.aspx">Zoggy</a></li>
@@ -213,6 +213,7 @@ function searchSite() {var searchStr=document.getElementById("txtSearch").value.
 </li>
 </ul>
 </div>
+
 
     </div>
     <div id="Content1000">
@@ -230,7 +231,7 @@ function searchSite() {var searchStr=document.getElementById("txtSearch").value.
   <a href="/docs/ReturnsPolicy.aspx">Returns Policy</a><br>
   
   <h2>Here to help</h2>
-  <a href="/docs/iPhone.aspx">Shop on your iPhone</a><br>
+  <a href="/docs/Mobile.aspx">Shop on your Mobile</a><br>
   <a href="/docs/HowToSwim.aspx">How To Swim</a><br>
   <a href="/docs/ChoosingGoggles.aspx">Choosing Swimming Goggles</a><br>
   <a href="/docs/ChoosingSwimEquipment.aspx">Choosing Swimming Kit</a><br>
@@ -287,7 +288,7 @@ function searchSite() {var searchStr=document.getElementById("txtSearch").value.
               <div style="float:right; margin: 10px 10px">
                 
 <!-- BEGIN LivePerson Button Code -->
-<a rel="nofollow" id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/92183954/?cmd=file&amp;file=visitorWantsToChat&amp;site=92183954&amp;byhref=1&amp;imageUrl=https://www.simplyscuba.com/images/liveperson" target="chat92183954" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/92183954/?cmd=file&amp;file=visitorWantsToChat&amp;site=92183954&amp;imageUrl=https://www.simplyscuba.com/images/liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat92183954','width=500,height=400,resizable=yes');return false;"><img name="hcIcon" src="https://server.iad.liveperson.net/hc/92183954/?cmd=repstate&amp;amp;site=92183954&amp;amp;channel=web&amp;amp;ver=1&amp;amp;imageUrl=https://www.simplyscuba.com/images/liveperson&amp;amp;d=1580352474651" style="border: 0px;"></a>
+<a rel="nofollow" id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/92183954/?cmd=file&amp;file=visitorWantsToChat&amp;site=92183954&amp;byhref=1&amp;imageUrl=https://www.simplyscuba.com/images/liveperson" target="chat92183954" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/92183954/?cmd=file&amp;file=visitorWantsToChat&amp;site=92183954&amp;imageUrl=https://www.simplyscuba.com/images/liveperson&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat92183954','width=500,height=400,resizable=yes');return false;"><img name="hcIcon" src="https://server.iad.liveperson.net/hc/92183954/?cmd=repstate&amp;amp;site=92183954&amp;amp;channel=web&amp;amp;ver=1&amp;amp;imageUrl=https://www.simplyscuba.com/images/liveperson&amp;amp;d=1580352475746" style="border: 0px;"></a>
 
 <script type="text/javascript"> var img=new Image();img.style.border='0';img.name='hcIcon';img.src='https://server.iad.liveperson.net/hc/92183954/?cmd=repstate&amp;site=92183954&amp;channel=web&amp;ver=1&amp;imageUrl=https://www.simplyscuba.com/images/liveperson'+'&amp;d='+((new Date()).getTime());var par=document.getElementById('_lpChatBtn');if(par!=null){par.appendChild(img);}</script>
 
@@ -304,129 +305,145 @@ var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "92183
 
               </div>
               <div style="width: 760px;" class="Advice" id="divContent">
-                <div id="Advice"><h1>Website Privacy Policy</h1><br>
-  <br>
-Simply Swim Limited (Company Number 3053307) ("Simply Swim, we or us") is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. We are notified under the Data Protection Act 1998 and ensure we comply with all protection the Act affords to you.<br>
-<h2 style="margin-top: 15px"> The information we collect and how we use it</h2>
-<table cellspacing="2" border="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" width="20"> 1 </td>
-    <td valign="top"> When you buy goods or services from our website, or one of our affiliated websites we need to know basic information about you, including your name, postal address, e-mail address, telephone number, credit card number and expiry date. We also need your e-mail address to send you information about the status of your order. We will never collect sensitive information about you without your explicit consent. </td>
-  </tr>
-  <tr>
-    <td valign="top"> 2 </td>
-    <td valign="top"> We gather this information to allow us to process any orders you make and, if you have requested us to, to send you our newsletter. The relevant information is then used by us, our agents and sub-contractors to provide you with statements of your account and to communicate with you on any matter relating to the conduct of your account and the provision of the goods or services Ordered. </td>
-  </tr>
-  <tr>
-    <td valign="top"> 3 </td>
-    <td valign="top"> We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop our website, our range of products and our services and we may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual. </td>
-  </tr>
-  <tr>
-    <td valign="top"> 4 </td>
-    <td valign="top"> From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve our goods or the services we provide. We or our agents and sub-contractors may contact you by post, e-mail or telephone to ask you for your feedback and comments on our goods or services. </td>
-  </tr>
-  <tr>
-    <td valign="top"> 5 </td>
-    <td valign="top"> We may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you. We will gain your consent to receiving this information in advance and you can easily remove yourself from future mailings by following the instructions on the bottom of the first mail you will receive. </td>
-  </tr>
-  <tr>
-    <td valign="top"> 6 </td>
-    <td valign="top"> Except as otherwise stated in this policy we will never provide your information to any third party company, unless you have expressly permitted us to do so. </td>
-  </tr>
-</tbody></table>
-<h2 style="margin-top: 15px"> Our use of cookies</h2>
-<table cellspacing="2" border="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" width="20"> 1 </td>
-    <td valign="top"> We use "cookies" on our websites to enhance your visit. This site relies on cookies being enabled to store criteria between pages. The only information stored within the cookie is an encrypted non personal identifier that is used to allow this. The cookie will be deleted automatically when you leave the site. These "cookies" are not used to store or gather any personal information about you or your activities. </td>
-  </tr>
-</tbody></table>
-<h2 style="margin-top: 15px"> How we protect your information</h2>
-<table cellspacing="2" border="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" width="20"> 1 </td>
-    <td valign="top"> The internet is not a secure medium. However, we have put in place various technological and security procedures to ensure the security of your information as set out below:<br>
-        <br>
-        <table cellspacing="2" border="0" cellpadding="0" id="Table">
-          <tbody><tr>
-            <td></td>
-            <td valign="top" width="150"> Web site firewall: </td>
-            <td valign="top"> High End Cisco firewalls </td>
-          </tr>
-          <tr>
-            <td></td>
-            <td valign="top"> Web site secure certificate: </td>
-            <td valign="top"> Thwate Server CA 128bit SSL </td>
-          </tr>
-          <tr>
-            <td></td>
-            <td valign="top"> Web server security: </td>
-            <td valign="top"> Hosted by Level 3 in their secure data centre </td>
-          </tr>
-          <tr>
-            <td></td>
-            <td valign="top"> Encryption </td>
-            <td valign="top"> All personal data held is encrypted to industry leading standards </td>
-          </tr>
-          <tr>
-            <td></td>
-            <td valign="top"> Internal Firewall: </td>
-            <td valign="top"> High End Cisco firewalls </td>
-          </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
-<h2 style="margin-top: 15px"> Sale of business</h2>
-<table cellspacing="2" border="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" width="20"> 1 </td>
-    <td valign="top"> If our business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business. </td>
-  </tr>
-</tbody></table>
-<h2 style="margin-top: 15px"> Updating your details</h2>
-<table cellspacing="2" border="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" width="20"> 1 </td>
-    <td valign="top"> If any of the information that you have provided to Simply Swim changes, for example of you change your e-mail address, name or payment details or if you wish to cancel your subscription to our newsletter, please log into your account and make any necessary changes or from the UK call us on 0844 567 7070 or internationally on +44 1227 284347. </td>
-  </tr>
-  <tr>
-    <td valign="top"> 2 </td>
-    <td valign="top"> We wish to only maintain accurate and up to date information on you. You can check and amend all the information we currently hold about you by logging into your account and make any necessary changes or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808. </td>
-  </tr>
-</tbody></table>
-<h2 style="margin-top: 15px"> Your consent</h2>
-<table cellspacing="2" border="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" width="20"> 1 </td>
-    <td valign="top"> By submitting your information you consent to the use of that information as set out in this privacy policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. We will also e-mail you should we make any changes so that you may consent to our use of your information in that way. Continued use of the service will signify that you agree to any such changes. </td>
-  </tr>
-  <tr>
-    <td valign="top"> 2 </td>
-    <td valign="top"> Owing to the global nature of the Internet infrastructure, the information you provide may be transferred in transit to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. However, we have taken the steps outlined above to try to improve the security of your information. By submitting your information you consent to these transfers. </td>
-  </tr>
-</tbody></table>
-<h2 style="margin-top: 15px"> How to contact Simply Swim</h2>
-<table cellspacing="2" border="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" width="20"> 1 </td>
-    <td valign="top"> We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to <a href="mailto:customer.services@simplyswim.com">customer.services@simplyswim.com</a> or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808. </td>
-  </tr>
-</tbody></table>
-<h2 style="margin-top: 15px"> General</h2>
-<table cellspacing="2" border="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top" width="20"> 1 </td>
-    <td valign="top"> Further information on the Data Protection Act 1998 can also be found on the Information Commissioner's web site at <strong><a href="http://www.informationcommissioner.gov.uk/" target="_blank">http://www.informationcommissioner.gov.uk</a></strong> </td>
-  </tr>
-  <tr>
-    <td valign="top"> 2 </td>
-    <td valign="top"> Use of this website is subject to our Terms and Conditions. </td>
-  </tr>
-  <tr>
-    <td valign="top"> 3 </td>
-    <td valign="top"> Data Protection registration number Z7449228. </td>
-  </tr>
-</tbody></table>
+                <div class="AdviceHeadWithFooter">
+<h1>Website Privacy Policy</h1>
+<p>Simply Scuba Limited (Company Number 3053307) ("Simply Scuba, we or us") is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. We are notified under the Data Protection Act 1998 and ensure we comply with all protection the Act affords to you.</p>
+</div>
+<div class="AdviceSection">
+  <h2><span style="margin-top: 15px">The information we collect and how we use it</span></h2>
+  <table cellspacing="2" border="0" cellpadding="0">
+    <tbody><tr>
+      <td valign="top" width="20"> 1 </td>
+      <td valign="top"> When you buy goods or services from our website, or one of our affiliated websites we need to know basic information about you, including your name, postal address, e-mail address, telephone number, credit card number and expiry date. We also need your e-mail address to send you information about the status of your order. We will never collect sensitive information about you without your explicit consent. </td>
+    </tr>
+    <tr>
+      <td valign="top"> 2 </td>
+      <td valign="top"> We gather this information to allow us to process any orders you make and, if you have requested us to, to send you our newsletter. The relevant information is then used by us, our agents and sub-contractors to provide you with statements of your account and to communicate with you on any matter relating to the conduct of your account and the provision of the goods or services Ordered. </td>
+    </tr>
+    <tr>
+      <td valign="top"> 3 </td>
+      <td valign="top"> We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop our website, our range of products and our services and we may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual. </td>
+    </tr>
+    <tr>
+      <td valign="top"> 4 </td>
+      <td valign="top"> From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve our goods or the services we provide. We or our agents and sub-contractors may contact you by post, e-mail or telephone to ask you for your feedback and comments on our goods or services. </td>
+    </tr>
+    <tr>
+      <td valign="top"> 5 </td>
+      <td valign="top"> We may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you. We will gain your consent to receiving this information in advance and you can easily remove yourself from future mailings by following the instructions on the bottom of the first mail you will receive. </td>
+    </tr>
+    <tr>
+      <td valign="top"> 6 </td>
+      <td valign="top"> Except as otherwise stated in this policy we will never provide your information to any third party company, unless you have expressly permitted us to do so. </td>
+    </tr>
+  </tbody></table>
+  </div>
+<div class="AdviceSection">
+  <h2><span style="margin-top: 15px">Our Use Of Cookies</span></h2>
+  <table cellspacing="2" border="0" cellpadding="0">
+    <tbody><tr>
+      <td valign="top" width="20"> 1 </td>
+      <td valign="top"> We use "cookies" on our websites to enhance your visit. This site relies on cookies being enabled to store criteria between pages. The only information stored within the cookie is an encrypted non personal identifier that is used to allow this. The cookie will be deleted automatically when you leave the site. These "cookies" are not used to store or gather any personal information about you or your activities. </td>
+    </tr>
+  </tbody></table>
+</div>
+<div class="AdviceSection">
+  <h2><span style="margin-top: 15px">How we protect your information</span></h2>
+  <table cellspacing="2" border="0" cellpadding="0">
+    <tbody><tr>
+      <td valign="top" width="20"> 1 </td>
+      <td valign="top"> The internet is not a secure medium. However, we have put in place various technological and security procedures to ensure the security of your information as set out below:<br>
+          <br>
+          <table cellspacing="2" border="0" cellpadding="0" id="Table2">
+            <tbody><tr>
+              <td></td>
+              <td valign="top" width="150"> Web site firewall: </td>
+              <td valign="top"> High End Cisco firewalls </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td valign="top"> Web site secure certificate: </td>
+              <td valign="top"> Thwate Server CA 128bit SSL </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td valign="top"> Web server security: </td>
+              <td valign="top"> Hosted by Level 3 in their secure data centre </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td valign="top"> Encryption </td>
+              <td valign="top"> All personal data held is encrypted to industry leading standards </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td valign="top"> Internal Firewall: </td>
+              <td valign="top"> High End Cisco firewalls </td>
+            </tr>
+        </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+<div class="AdviceSection">
+  <h2><span style="margin-top: 15px">Sale of business</span></h2>
+  <table cellspacing="2" border="0" cellpadding="0">
+    <tbody><tr>
+      <td valign="top" width="20"> 1 </td>
+      <td valign="top"> If our business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business. </td>
+    </tr>
+  </tbody></table>
+</div>
+<div class="AdviceSection">
+  <h2><span style="margin-top: 15px">Updating your details</span></h2>
+  <table cellspacing="2" border="0" cellpadding="0">
+    <tbody><tr>
+      <td valign="top" width="20"> 1 </td>
+      <td valign="top"> If any of the information that you have provided to Simply Scuba changes, for example of you change your e-mail address, name or payment details or if you wish to cancel your subscription to our newsletter, please log into your account and make any necessary changes or from the UK call us on 0844 567 7070 or internationally on +44 1227 284347. </td>
+    </tr>
+    <tr>
+      <td valign="top"> 2 </td>
+      <td valign="top"> We wish to only maintain accurate and up to date information on you. You can check and amend all the information we currently hold about you by logging into your account and make any necessary changes or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808. </td>
+    </tr>
+  </tbody></table>
+</div>
+<div class="AdviceSection">
+  <h2><span style="margin-top: 15px">Your consent</span></h2>
+  <table cellspacing="2" border="0" cellpadding="0">
+    <tbody><tr>
+      <td valign="top" width="20"> 1 </td>
+      <td valign="top"> By submitting your information you consent to the use of that information as set out in this privacy policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. We will also e-mail you should we make any changes so that you may consent to our use of your information in that way. Continued use of the service will signify that you agree to any such changes. </td>
+    </tr>
+    <tr>
+      <td valign="top"> 2 </td>
+      <td valign="top"> Owing to the global nature of the Internet infrastructure, the information you provide may be transferred in transit to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. However, we have taken the steps outlined above to try to improve the security of your information. By submitting your information you consent to these transfers. </td>
+    </tr>
+  </tbody></table>
+</div>
+<div class="AdviceSection">
+  <h2><span style="margin-top: 15px">How to contact Simply Snorkel</span></h2>
+  <table cellspacing="2" border="0" cellpadding="0">
+    <tbody><tr>
+      <td valign="top" width="20"> 1 </td>
+      <td valign="top"> We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to <a href="mailto:customer.services@thesimplygroup.com">customer.services@thesimplygroup.com</a>  or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808. </td>
+    </tr>
+  </tbody></table>
+</div>
+<div class="AdviceSection">
+  <h2><span style="margin-top: 15px">General</span></h2>
+  <table cellspacing="2" border="0" cellpadding="0">
+    <tbody><tr>
+      <td valign="top" width="20"> 1 </td>
+      <td valign="top"> Further information on the Data Protection Act 1998 can also be found on the Information Commissioner's web site at <strong><a href="http://www.informationcommissioner.gov.uk/" target="_blank">http://www.informationcommissioner.gov.uk</a></strong> </td>
+    </tr>
+    <tr>
+      <td valign="top"> 2 </td>
+      <td valign="top"> Use of this website is subject to our Terms and Conditions. </td>
+    </tr>
+    <tr>
+      <td valign="top"> 3 </td>
+      <td valign="top"> Data Protection registration number Z7449228. </td>
+    </tr>
+  </tbody></table>
 </div>
 
               </div>
@@ -463,7 +480,7 @@ Simply Swim Limited (Company Number 3053307) ("Simply Swim, we or us") is commit
 </div>
 <div style="float: left; margin-left: 25px; margin-top: 10px; text-align: left">
 Simply Swim - Copyright © 2011 - All Rights Reserved<br>
-92-93 John Wilson Business Park, Whitstable, Kent, CT5 3QT, England
+5 Jubilee Way, Eurocentre, Whitstable Road, Faversham, ME13 8GD, United Kingdom
 </div>
 </div>
 <input id="txtFirstName" name="txtFirstName" type="text" style="border-style: none; border-color: inherit; background: transparent; border-width: 0px; left: 276px; top: 15px; width: 140px; height: 13px; position: absolute; font-size: 10px; color: #606060" onclick="clearEmail()" onblur="resetEmail()" onfocus="clearEmail()" value="First name">
@@ -495,6 +512,23 @@ var pageTracker = _gat._getTracker("UA-602826-4");
 pageTracker._trackPageview();
 </script>
 
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072228200;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "kqYFCLqR8wEQ6M6j_wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1072228200/?label=kqYFCLqR8wEQ6M6j_wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
     </div>
   </div>
 
