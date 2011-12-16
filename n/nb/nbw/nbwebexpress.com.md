@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618141836id_/http%3A//www.shopnewbalance.com/information/security_privacy.asp%3FpageType%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216215231id_/http%3A//www.shopnewbalance.com/information/security_privacy.asp%3FpageType%3Dprivacy) for the most accurate reproduction.*
 
 # New Balance Shoes - Shop New Balance - Privacy Policy
 
