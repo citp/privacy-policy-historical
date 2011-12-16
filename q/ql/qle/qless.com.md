@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the qless.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206071844id_/http%3A//qless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qless.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217004604id_/http%3A//qless.com/privacy) for the most accurate reproduction.*
 
 # QLess Privacy Policy
 
-Our postal address is   
-**1080 Rubio  
-Altadena, CA 91001**
+Our postal address is  
+**Suite 211  
+2450 N Lake Ave.  
+Altadena, CA 91001-2442**
 
 We can be reached via e-mail at [sales@qless.com](mailto:sales@qless.com)   
-or you can reach us by telephone at **877-4-0-LINES**
+or you can reach us by telephone at **800-4-0-LINES**
 
 ## WE PROMISE TO NEVER SELL YOUR CUSTOMERS' PHONE NUMBERS.
 
