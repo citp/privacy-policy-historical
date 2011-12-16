@@ -1,60 +1,49 @@
-> *The following text is extracted and transformed from the poetry.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501073119id_/http%3A//www.poetry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetry.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216113236id_/http%3A//www.poetry.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Lulu Poetry Privacy Policy
+# Poetry.com : The creative place for poets and writers
 
-### What this Privacy Pledge covers:
+**This notice describes our privacy policy ("Notice"). By visiting our Web Site, you are accepting the practices described in this Notice.**
 
-This privacy pledge covers how Lulu Poetry treats personal information that we collect and receive, including information related to your use of Lulu Poetry services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+**Please Note:** Our Privacy Policy changes from time to time and changes are effective upon posting. Please check back frequently for updates as it is your sole responsibility to be aware of changes. We do not provide notices of changes in any manner other then by posting the changes at this website.
 
-At Lulu Poetry, we value our customers and respect their privacy. When you register, we may collect personal information in an effort to improve your overall experience. Once you register and sign in to Lulu Poetry, you are not anonymous to us. Lulu Poetry may combine information about you that we have with information we obtain from business partners or other companies in order to provide services you have requested from us. We do not purchase any personal data from other companies.
+If you do not agree with the terms of this privacy policy, please do not provide any information to us or use any of the services or products offered or provided on this website. 
 
-Lulu Poetry may collect usage information when you visit our site. Website usage information is not personally identifiable information. It describes how our website is used and navigated, including the number and frequency of visitors to each web page and the length of their stay. It also includes the domain names of users and browser types that visit our website, the time of day the website was visited, and other non-personally identifiable information.
+**Section 1.01 -- Principles**
 
-Lulu Poetry automatically receives and records information on our server logs from your browser, including your IP address, browser settings, and pages requested. Lulu Poetry also requires a cookie, used only to keep track of your login status.
+**Notice:** We may gather and use information as follows: Volunteered Information: We will receive and store any information you enter on the Web Site or give us in any other way that personally identifies you to improve your experience at the Web Site, to get a better general understanding of the type of individuals visiting the Web Site, and to enable us to contact you when needed. Typically you will provide information such as name, email address, postal address, birth date and gender. By submitting this personally identifiable information to us you agree to receive email and postal mail communication from us and our marketing partners. This privacy policy applies to users who register on our website or on the websites of our media partners. We believe in 100% permission based marketing. Members have the option of completely removing their information from our database by sending the request to [datadelete@Poetry.com](mailto:datadelete@Poetry.com). 
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Lulu Poetry will set and access Lulu Poetry cookies on your computer. The information stored by our cookies is linked only to your email and password. We do not link other personally identifiable information you provide to cookies. Lulu Poetry uses session ID cookies to ensure that you are recognized when you move from page to page within Lulu Poetry. These cookies are deleted when you close your browser. You can manually delete cookies at any time by following the directions given in your Internet browser’s Help file. If you reject cookies, you will only be able to browse the site. Lulu Poetry uses information for the following general purposes:
+**Automatic Information / Login:**
 
-  * To fulfill your requests for products and services
-  * To improve our services
-  * To contact you, conduct research, and provide anonymous reporting for internal and external clients
+To enable us to provide content that users need and desire, we might collect aggregated site-visitation statistics using cookies. A Cookie is simply a small data file we place on your computer's hard drive when you first visit the Web Site ("Cookie"). This file contains a unique number that helps us identify you when you return to the Web Site. Cookies are employed by thousands of web sites to enhance users' web viewing experience. Cookies can neither damage user files nor can they read information from users' hard drives. We combine all usage information provided by such Cookies and we do not monitor your use of the Web Site. Allowing us to create a Cookie on your hard drive will not give us or any other site access to the rest of your computer's hard drive, and only we will be able to read the Cookie that the Web Site creates.
 
+**Information Use:**
 
+We use information for personal identification; to provide advertisements from us or our third party marketing partners; to get a better general understanding of the type of individuals visiting the Web Site; to respond to your requests for purchases, comments, or questions; to improve your experience at the Web Site; to collect aggregated site-visitation statistics; to alert you to product enhancements, special offers and updated information. 
 
-At the registration stage, you also have the opportunity to opt-in to news and updates from Lulu Poetry. If you choose to opt-in, we may send you email communications such as newsletters and special site updates.
+**Limits of Confidentiality:**
 
-Whether or not you opt-in to news and updates from us, there are still certain (very rare) types of email communications you will receive from Lulu Poetry. These communications include site-critical announcements, changes to our Member Agreement, and any other communication it is necessary for all of our members to receive.
+We may disclose certain information about our database to third parties including our advertising partners. Below are the circumstances under which we may disclose information to third parties. 
 
-Lulu Poetry takes reasonable precautions to safeguard information transmitted between users and the websites. Certain pages of the websites, including those that offer users the opportunity to provide credit card information for purchases, use Secured Socket Layers (SSL) encryption. However, due to the inherent nature of the Internet as an open communications network, we cannot guarantee that communications between you and Lulu Poetry and information stored on our servers will be free from unauthorized access. Users understand and acknowledge this risk when communicating with and providing information to the Site. Verisign LogoVerisign provides authentication that you are communicating over a secure connection with Lulu Poetry.
+We will disclose user information and aggregate level information about our database to marketers as necessary to convey the services that we have the ability to offer, or to report on the advertising campaigns that we have launched over the course of our existence. 
 
-We provide the information to trusted partners who work on behalf of or with Lulu Poetry under confidentiality agreements. These companies may only use your data as directed by Lulu Poetry. However, these companies do not have any independent right to share this information, nor do they have any right to contact you for matters not pertaining to Lulu Poetry.
+We may release any user information if required to comply with law; to enforce or to apply the Web Site Terms and Conditions; or under the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights, properties, or safety of us or our users. 
 
-Otherwise, Lulu Poetry does not share personal information about you with other people or nonaffiliated companies, and we only share your personal information with third parties in the following circumstances:
+**Choice:**
 
-  * We may disclose your personal information in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims, or as otherwise required by law
-  * We may disclose your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Lulu Poetry’s terms of use
-  * We share information about you if Lulu Poetry or Lulu.com is acquired by or merged with another company. In this event, Lulu Poetry will notify you before information about you is transferred and becomes subject to a different privacy pledge.
+We give you a choice as to the type and amount of private information we have, as follows: 
 
+Volunteered Information: You can always choose not to provide certain information to us, however, you will not be able to take advantage of many of our offers and site features. If you have previously provided certain information to us and you desire to remove such information from our databases, or if you do not wish for your information to be disclosed to third parties, you may contact us at [datadelete@Poetry.com](mailto:datadelete@Poetry.com) to remove such information. Once information has been disclosed to third parties, you will have to contact the third party directly to remove or modify your information. 
 
+**Automatic Information:** Most web browsers automatically accept Cookies, but if you prefer, you can edit your browser options to block Cookies in the future. The "Help" portion of the toolbar on most browsers will explain how you can prevent your browser from accepting new Cookies, how to set the browser to inform you when you receive a new Cookie, or how to reject Cookies altogether.
 
-If you include your personal information in content that you upload for posting on Lulu Poetry, that information may be widely available to other users. We do not exercise control over those users and cannot guarantee that your personal information will be protected as described in this Privacy Pledge if you make it available as part of content posted on Lulu Poetry. We do not delete or redact your personal information from content you provide. If you do not want your personal information to be displayed as part of the content you share, then you must delete it prior to sharing it.
+**Security:**
 
-Lulu Poetry will transfer personal information about you to other countries where Lulu Poetry does business. In particular, Lulu will transfer personal information from the EU to the United States for the purposes of providing users in the EU with the services Lulu Poetry offers. Although other countries may not have the same data protection laws as the country where you reside, Lulu Poetry will apply the terms of this Privacy Pledge to all personal information that it collects.
+We protect the security of your personal information. We take steps to protect your data from loss, misuse, alteration, destruction, or unauthorized access. While we use security technologies to secure users' information, we cannot guarantee that any electronic communications is totally secure. 
 
-  * You can edit your account information at any time. Certain communications from Lulu Poetry, such as critical service announcements and administrative messages, are considered part of Lulu Poetry membership and you may not opt out of receiving them.
-  * You may correct, update, delete, or deactivate personal information by contacting us [here](mailto:help@poetry.com), or at the mailing address listed below.
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
-  * Your Lulu Account Information is password-protected. You are responsible for not sharing your password.
+**Section 2.01** \-- Children: Users of the Web Site must be at least 13 years old. If a child has provided us with personal information, that child's parent or guardian should contact us at datadelete@Poetry.com to delete such information from our records. 
 
+**Section 3.01** \-- Third Party Web Sites: Please be aware that the Web Site may have links to third party web sites that may collect personally identifiable information about you. When you click on one of these third party links, you are entering another web site for which we have no responsibility. You may be directed to a third party website in the process of completing offers on our website and should be aware of this. Always check the privacy policies for each page as you may be on a third party website not owned or operated by us. This Notice does not cover the information practices or policies of such third party web sites. We encourage you to read the privacy statements of all such web sites since their privacy policies may be materially different from our Notice. 
 
+**Section 4.01** \-- Agreement and Modification: By using this site, including, without limitation, submitting information on the registration page, signing up for additional advertiser offers and/or continuing to receive communication from us, you indicate that you have read and understand this Notice and you consent to the collection and use of information by us in the manner explained in this Notice. This Privacy Policy Notice, including without limitation, provisions covering limitations on damages, arbitration of disputes, and the application of Utah law govern any dispute over privacy. By using and accessing the Web Site you agree to indemnify us for any and all third party claims resulting from your breach of this Notice. If you have any questions or concerns about your privacy at the Web Site, please email a thorough description of the issue to [datadelete@Poetry.com](mailto:datadelete@Poetry.com). If you do not accept this Notice, do not access and use the Web Site. We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check this page periodically for changes. Your continued use of the Site or acceptance of our communication following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving communication from us. If you do not agree to the terms of this Privacy Policy, please unsubscribe by clicking here. 
 
-If you have any questions about our privacy policy or information security, you can contact Lulu Poetry by emailing help@poetry.com
-
-Lulu Poetry may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address you have provided us or by placing a prominent notice on our site.
-
-**2009**
-
-Lulu Poetry Customer Care - Privacy Policy Issues  
-3101 Hillsborough St  
-Raleigh, NC 27607-5436  
-(919) 459-5858
+Updated 5/13/11 
