@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617063911id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncix.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216013903id_/http%3A//www.ncix.com/privacy) for the most accurate reproduction.*
 
 # NCIX.com - Canada's Premier Computer Store - Online PC Discount Store, Buy Computer Accessories
 
@@ -14,7 +14,7 @@
 
   * **Browser type.** We collect information about the browser you are using to help optimize our Web site for visitors.   
 
-  * **Navigation on the Web site.** We keep track of pages you visit to help provide you with a more personalized shopping experience.
+  * **Navigation on the Web site.** We keep track of pages you visit to help provide you with a more personalized shopping experience. 
 
 
 
@@ -26,10 +26,6 @@ We collect your name, address and payment information to process your order. How
 
 We collect your user name, password, e-mail address, to protect your account. You can help us ensure your privacy by not sharing your user name or password. 
 
-**When you subscribe to our e-mail newsletter through our Web site**
-
-We use your e-mail information in connection with your subscription to our e-mail newsletter and other materials only. To manage your e-mail newsletter subscription, [click here](https://web.archive.org/web/20110617063911id_/http://www.ncix.com/newsletter). 
-
 **When you submit your e-mail address with NCIX.com**
 
 When you e-mail product information to a friend or colleague through our Web site NCIX.com collect's your e-mail address and the e-mail address of the person to whom you are sending the product information. 
@@ -38,7 +34,7 @@ When you communicate with us through our Web site we collect your e-mail address
 
 When you enter contests, participate in surveys, or register for other activities on our Web site we collect your name, e-mail address and telephone number, and the other information that is required for entry or participation, which varies depending on the activity. 
 
-In any of the situations where we do collect your e-mail address related to customer service, orders, and other such correspondence, we will automatically subscribe you to our weekly newsletters. We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by [clicking here](https://web.archive.org/web/20110617063911id_/http://www.ncix.com/newsletter) and unsubscribing to our e-mail subscriptions.
+In any of the situations where we do collect your e-mail address related to customer service, orders, and other such correspondence, we will automatically subscribe you to our weekly newsletters. We may occasionally send you promotional or product information. If you do not wish to receive promotional or product information, you may opt out of future communications by [clicking here](http://newsletter.ncix.com/unsubscribe.html) and unsubscribing to our e-mail subscriptions.
 
 **Is my personal or account information used for any other purpose?**
 
