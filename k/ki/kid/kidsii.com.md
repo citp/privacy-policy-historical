@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsii.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsii.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216142534id_/http%3A//www.kidsii.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
   
 Questions & Feedback   
   
-We welcome your questions, comments, and concerns about privacy. Please [send ](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/t-contact.aspx)us any and all feedback pertaining to privacy, or any other issue.  
+We welcome your questions, comments, and concerns about privacy. Please [send ](https://web.archive.org/web/20111216142534id_/http%3A//www.kidsii.com/t-contact.aspx)us any and all feedback pertaining to privacy, or any other issue.  
   
 Online Policy Only   
   
@@ -82,11 +82,11 @@ This online privacy policy applies only to information collected through our web
   
 Terms and Conditions   
   
-Please also visit our[ Terms and Conditions](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.  
+Please also visit our[ Terms and Conditions](https://web.archive.org/web/20111216142534id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.  
   
 Severability  
   
-In the event that any part or provision of these [Terms and Conditions](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) is declared fully or partially invalid, unlawful, void or unenforceable by a court of competent jurisdiction, the remainder of these [Terms and Conditions](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) will remain in full force and effect.  
+In the event that any part or provision of these [Terms and Conditions](https://web.archive.org/web/20111216142534id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) is declared fully or partially invalid, unlawful, void or unenforceable by a court of competent jurisdiction, the remainder of these [Terms and Conditions](https://web.archive.org/web/20111216142534id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) will remain in full force and effect.  
   
 Inventor Submissions & Communications   
   
@@ -104,7 +104,7 @@ Further, we may use selected reputable third parties for marketing, targeting an
   
 Online Surveys  
   
-Kids II, Inc. (and its branded websites "[www.kidsii.com](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/default.aspx "Kids II Website")" or "[www.brightstarts.com](http://www.brightstarts.com/ "Bright Starts Website")") administers online surveys in connection with the Site in which we ask you for demographic information and opinions. We do not ask you for personally identifiable information as part of a survey. We use the collected survey data on an aggregated basis to better understand the needs of all of our customers.   
+Kids II, Inc. (and its branded websites "[www.kidsii.com](https://web.archive.org/web/20111216142534id_/http%3A//www.kidsii.com/default.aspx "Kids II Website")" or "[www.brightstarts.com](http://www.brightstarts.com/ "Bright Starts Website")") administers online surveys in connection with the Site in which we ask you for demographic information and opinions. We do not ask you for personally identifiable information as part of a survey. We use the collected survey data on an aggregated basis to better understand the needs of all of our customers.   
   
 |  |   
 |  |  |  
