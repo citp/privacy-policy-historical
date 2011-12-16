@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pokervip.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616210114id_/http%3A//pokervip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokervip.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216124925id_/http%3A//www.pokervip.com/privacy-policy) for the most accurate reproduction.*
 
-# PokerVIP.com - Privacy Policy
+# Privacy Policy - PokerVIP.com
 
-## Privacy Policy of PokerVip.com
+##  Privacy Policy of PokerVip.com
 
 At PokerVip.com we respect your privacy. Please read the following to learn more about our privacy policy.
 
-## What This Privacy Policy Covers 
+##  What This Privacy Policy Covers
 
 This policy covers the PokerVip.com’s use of personal information that the PokerVip.com collects when you use PokerVip.com. Personal information is information about you that is personally identifiable, like your name, address, e-mail address, or phone number, and that is not otherwise publicly available.
 
-## Information Collection 
+##  Information Collection
 
 Providing Information to Us. We collect Personal Information from you when you provide it to us. For example, if you register to our loyalty program, we collect Your name, email, username and poker room related information.
 
@@ -18,7 +18,7 @@ Communications With Us. If you communicate with us regarding the Web Site or the
 
 Analytic and Reporting Technologies. Like the operators of most web sites, we use analytic and reporting technologies to record Non-Personal Information such as Internet domain and host names, Internet protocol (IP) addresses, browser software and operating system types, clickstream patterns, and the dates and times that the Web Site and the PokerVip.com Services are accessed.
 
-## Information Use 
+##  Information Use
 
 PokerVip.com uses the information it collects from you in a variety of ways, ncluding using the information to customize features and advertising that appear on the PokerVip.com website. We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes. For example, we may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors.
 
@@ -32,14 +32,14 @@ PokerVip.com does not rent, sell, or share personal information about you with o
 
 \- We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of PokerVip.com’s terms of use, or as otherwise required by law.
 
-## Cookies 
+##  Cookies
 
 PokerVip.com may set and access PokerVip.com cookies on your computer.
 
-## Confidentiality and Security 
+##  Confidentiality and Security
 
 Only PokerVip.com employees who need your personal information in their tasks have access to this information.
 
-## Changes to this Privacy Policy 
+##  Changes to this Privacy Policy
 
 If we change our Privacy Statement, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes.
