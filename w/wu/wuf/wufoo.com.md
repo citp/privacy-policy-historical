@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wufoo.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615103014id_/http%3A//wufoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wufoo.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216021815id_/http%3A//wufoo.com/privacy) for the most accurate reproduction.*
 
 # Wufoo · Privacy Policy
 
@@ -31,7 +31,7 @@ The information we collect is not shared with or sold to other organizations for
 
 ### Safe Harbor
 
-Infinity Box complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Infinity Box has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more by visiting the [Safe Harbor Program Website](http://www.export.gov/safeharbor/) and checking out our [certification page](http://safeharbor.export.gov/companyinfo.aspx?id=10847).
+Infinity Box complies with the U.S.-EU and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Infinity Box has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. You can learn more by visiting the [Safe Harbor Program Website](http://www.export.gov/safeharbor/) and checking out our [certification page](http://safeharbor.export.gov/companyinfo.aspx?id=13613).
 
 Our computer systems are currently based in the United States, so your personal data will be processed by us in the United States. As a visitor from outside the United States, by using the Site you agree to this privacy policy and you consent to the transfer of all such information to the United States and to the processing of that information as described in this privacy policy.
 
@@ -41,10 +41,9 @@ In compliance with the Safe Harbor Principles, Infinity Box commits to resolve c
 
 [privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at:
 
-**Andrew Gosnell, Privacy Minister**   
-Infinity Box, Inc.   
-12157 W. Linebaugh Ave. PMB 327   
-Tampa, FL 33626 USA.
+**Stuart Loh , Attorney**  
+285 Hamilton Avenue, Suite 500  
+Palo Alto, CA 94301
 
 Infinity Box has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by (your business name), you may contact:
 
@@ -86,4 +85,4 @@ Infinity Box may periodically update this policy. We will notify you about signi
 
 Any questions about this Privacy Policy should be addressed to [privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at: Infinity Box, Inc., 12157 W. Linebaugh Ave., PMB 327 Tampa, FL 33626 USA.
 
-**Updated :** December 28th, 2010 
+**Updated :** December 7th, 2011 
