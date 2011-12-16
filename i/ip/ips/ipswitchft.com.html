@@ -1,105 +1,47 @@
-<!--The following is the downloaded HTML source of the ipswitchft.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231232524id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ipswitchft.com privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216205202id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0172.js?438992" async="" type="text/javascript"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <script type="text/javascript" src="http://use.typekit.com/did0jtb.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
     <title>Privacy Statement - Ipswitch File Transfer </title>
-    <meta name="keywords" content="FTP server, WS_FTP, Secure File Transfer, Secure FTP Server, File transfer, managed file transfer, managed file transfer servers, MOVEit, enterprise file transfer, HTTPS, SSH, SSH client, SSH Server for windows, SSL">
-    <meta name="description" content="Ipswitch develops Managed File Transfer (MFT) solutions for Business and FTP client software for all WSFTP or MOVEit we have the FT solution for you.">
-<link rel="image_src" href="http://www.ipswitchft.com/images/ift_logo.png"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"><meta name="robots" content="index, follow"><link href="../css/StyleSheet.css" media="screen" type="text/css" rel="Stylesheet"><link href="../css/mbTooltip.css" media="screen" type="text/css" rel="Stylesheet"><link type="text/css" href="../css/jq-1-7-2/themes/base/ui.all.css" rel="stylesheet"><link rel="alternate" type="application/rss+xml" title="Ipswitch File Transfer RSS" href="http://www.ipswitchft.com/Rss/news.xml"><link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/scripts/jquery.hoverIntent.minified.js"></script>
+    <meta name="keywords" content="Managed File Transfer software, enterprise application, B2B integration, FTP Servers and FTP Software">
+    <meta name="description" content="Ipswitch File Transfer develops managed file transfer, enterprise application &amp; B2B integration software solutions.">
+<link rel="image_src" href="http://www.ipswitchft.com/images/ift_logo.png"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"><meta name="robots" content="index, follow"><link href="../css/navstyles.css" media="screen" type="text/css" rel="Stylesheet"><link href="../css/StyleSheet.css" media="screen" type="text/css" rel="Stylesheet"><link type="text/css" href="../css/jq-1-7-2/themes/base/ui.all.css" rel="stylesheet"><link rel="alternate" type="application/rss+xml" title="Ipswitch File Transfer RSS" href="http://www.ipswitchft.com/Rss/news.xml"><link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/jquery/jquery.timers.js"></script>
 <script type="text/javascript" src="/jquery/jquery.dropshadow.js"></script>
-<script type="text/javascript" src="/jquery/jquery.mbTooltip.js"></script>
 <script type="text/javascript" src="/jquery/jquery.pngFix.js"></script>
+<script type="text/javascript" src="/scripts/modernizr-1.7.min.js"></script> 
 
 
-<script type="text/javascript">     
-$(document).ready(function(){
+<script type="text/javascript">
+    $(document).ready(function() {
 
-$(function() {
-    $("[title]").mbTooltip({// also $([domElement]).mbTooltip  >>  in this case only children element are involved
-      opacity : .97,        // opacity
-      wait:100,             // before show
-      cssClass:"default",   // default = default
-      timePerWord:70,       // time to show in milliseconds per word
-      hasArrow:false,       // if you want a little arrow on the corner
-      hasShadow:true,
-      imgPath:"images/",
-      ancor:"parent",        // "parent"  you can ancor the tooltip to the mouse position or at the bottom of the element
-      shadowColor:"black",   // the color of the shadow
-      mb_fade:10            // the time to fade-in
-    });
-  });
+/* drop down nav */
+$('#nav li, #header li.drop').hover(function() {
+    $(this).addClass('on');
+    $(this).find('div.sub').show();
+}, function() {
+    $(this).removeClass('on');
+    $(this).find('div.sub').hide();
+})
+$.each($('#nav li>a').not('#nav li li a'), function(i, el) {
+    var offset = (parseInt($(el).width() / 2) - 10) * -1
+    if (i > 0) {
+        offset += -30;
+        $(el).parent().find('div.sub').css('margin-left', -30)
+    }
+    $(el).parent().find('div.carrot').css('right', offset)
+});
+ 
 
 }); 
-</script>
-<script type="text/javascript">
-$(document).ready(function() {
-
-	function megaHoverOver(){
-		$(this).find(".sub").stop().fadeTo('fast', 1).show();
-		$("#wideslide").css({ 'z-index': '-1' });    	// ie is soooo awesome. 
-		//Calculate width of all ul's
-		(function($) { 
-			jQuery.fn.calcSubWidth = function() {
-				rowWidth = 0;
-				//Calculate row
-				$(this).find("ul").each(function() {					
-					rowWidth += $(this).width(); 
-				});	
-			};
-		})(jQuery); 
-		
-		if ( $(this).find(".row").length > 0 ) { //If row exists...
-			var biggestRow = 0;	
-			//Calculate each row
-			$(this).find(".row").each(function() {							   
-				$(this).calcSubWidth();
-				//Find biggest row
-				if(rowWidth > biggestRow) {
-					biggestRow = rowWidth;
-				}
-			});
-			//Set width
-			$(this).find(".sub").css({'width' :biggestRow});
-			$(this).find(".row:last").css({'margin':'0'});
-			
-		} else { //If row does not exist...
-			
-			$(this).calcSubWidth();
-			//Set Width
-			$(this).find(".sub").css({'width' : rowWidth});
-			
-		}
-	}
-
-	function megaHoverOut(){ 
-	  $(this).find(".sub").stop().fadeTo('fast', 0, function() {
-	  $(this).hide();
-	  $("#wideslide").css({ 'z-index': '2' });    	// ie is soooo awesome. 
-
-	  });
-	}
-	var config = {    
-		 sensitivity: 2, // number = sensitivity threshold (must be 1 or higher)    
-		 interval: 20, // number = milliseconds for onMouseOver polling interval    
-		 over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
-		 timeout: 100, // number = milliseconds delay before onMouseOut    
-		 out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
-	};
-
-	$("ul#topnav li .sub").css({'opacity':'0'});
-	$("ul#topnav li").hoverIntent(config);
-	$("ul#topnav li .sub").css({ 'z-index': '1' });
-
-});
-</script>
+</script> 
 <script type="text/javascript">
 $(function() {
     $("#accordion").accordion({
@@ -111,215 +53,25 @@ $(function() {
 });
 </script>
 
+<!-- T&T Mbox JS -->
+<script src="/scripts/mbox.js" type="text/javascript"></script><style>.mboxDefault { visibility:hidden; }</style>
+<!-- // T&T Mbox JS -->
 
-<title>
-
-</title><script src="/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
+<!-- Start Kampyle Css -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css">
+<!-- End Kampyle Css -->
+ 
+</head>
 <body>
-    <form name="aspnetForm" method="post" action="/Company/Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTQzODAyMTE4D2QWAmYPZBYEAgEPZBYCAgEPZBYGAgEPFgIeBFRleHQFOjx0aXRsZT5Qcml2YWN5IFN0YXRlbWVudCAtIElwc3dpdGNoIEZpbGUgVHJhbnNmZXIgPC90aXRsZT5kAgMPFgIfAAX4ATxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJGVFAgc2VydmVyLCBXU19GVFAsIFNlY3VyZSBGaWxlIFRyYW5zZmVyLCBTZWN1cmUgRlRQIFNlcnZlciwgRmlsZSB0cmFuc2ZlciwgbWFuYWdlZCBmaWxlIHRyYW5zZmVyLCBtYW5hZ2VkIGZpbGUgdHJhbnNmZXIgc2VydmVycywgTU9WRWl0LCBlbnRlcnByaXNlIGZpbGUgdHJhbnNmZXIsIEhUVFBTLCBTU0gsIFNTSCBjbGllbnQsIFNTSCBTZXJ2ZXIgZm9yIHdpbmRvd3MsIFNTTCI+ZAIFDxYCHwAFuQE8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iSXBzd2l0Y2ggZGV2ZWxvcHMgTWFuYWdlZCBGaWxlIFRyYW5zZmVyIChNRlQpIHNvbHV0aW9ucyBmb3IgQnVzaW5lc3MgYW5kIEZUUCBjbGllbnQgc29mdHdhcmUgZm9yIGFsbCBXU0ZUUCBvciBNT1ZFaXQgd2UgaGF2ZSB0aGUgRlQgc29sdXRpb24gZm9yIHlvdS4iPmQCAw9kFgICCQ9kFgICAw8WAh8ABcVHICAgIDxkaXYgaWQ9InJpZ2h0X2NvbCI+IAo8ZGl2IGlkPSJicmVhZGNydW1iIj48YSBocmVmPSIvSW5kZXguYXNweCI+SG9tZTwvYT4gPiA8YSBocmVmPSIvQ29tcGFueS9BYm91dC5hc3B4Ij5Db21wYW55PC9hPiA+IDxzdHJvbmc+UHJpdmFjeSBQb2xpY3k8L3N0cm9uZz4gPC9kaXY+CjxkaXYgaWQ9ImNvbnRlbnRfdG9wIj48L2Rpdj4gCjxkaXYgaWQ9InByb2R1Y3Rfb3ZlcnZpZXciPiAKCjxoMT5Qcml2YWN5IFBvbGljeTwvaDE+IAogICAgICAgICAgICAgICAgCTxwPldlIHRha2UgIHlvdXIgcHJpdmFjeSB2ZXJ5IHNlcmlvdXNseS4gV2UgY29sbGVjdCBpbmR1c3RyeS1zdGFuZGFyZCBpbmZvcm1hdGlvbiB0byBpbiAgb3JkZXIgdG8gcHJvdmlkZSB5b3Ugd2l0aCBzdXBlcmlvciBwcm9kdWN0cyBhbmQgY3VzdG9tZXIgc2VydmljZS4gT3VyIHByaXZhY3kgIHBvbGljaWVzIGFyZSBkZXNjcmliZWQgaW4gdGhlIGZvbGxvd2luZyBwYWdlczwvcD4gCiAgICAgICAgICAgICAgICAJPHVsPiAKICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iUHJpdmFjeS5hc3B4I3BlcnNvbmFsaW5mbyI+UGVyc29uYWwgSW5mb3JtYXRpb248L2E+PC9saT4gCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IlByaXZhY3kuYXNweCN3ZWJ2aXNpdGluZm8iPldlYiBWaXNpdCBJbmZvcm1hdGlvbjwvYT48L2xpPiAKICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iUHJpdmFjeS5hc3B4I3RoaXJkcGFydGllcyI+U2hhcmluZyBvZiBJbmZvcm1hdGlvbiB3aXRoIFRoaXJkIFBhcnRpZXM8L2E+PC9saT4gCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IlByaXZhY3kuYXNweCNzZWN1cml0eSI+U2VjdXJpdHk8L2E+PC9saT4gCiAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IlByaXZhY3kuYXNweCNjaGlsZHJlbnMiPkNoaWxkcmVu4oCZcyBPbmxpbmUgUHJpdmFjeSBQcm90ZWN0aW9uPC9hPjwvbGk+IAogICAgICAgICAgICAgICAgICA8L3VsPiAKICAgICAgICAgICAgICAgICAgPGEgbmFtZT0icGVyc29uYWxpbmZvIj48L2E+IAogICAgICAgICAgICAgICAgCTxoMj5QZXJzb25hbCBJbmZvcm1hdGlvbjwvaDI+IAogICAgICAgICAgICAgICAgCTxwPldlIG1heSAgYXNrIHlvdSBmb3IgcGVyc29uYWwgaW5mb3JtYXRpb24gd2hlbiB5b3UgZG93bmxvYWQgb3VyIHNvZnR3YXJlLCByZWdpc3RlciBmb3IgYSAgdHJpYWwgbGljZW5zZSwgb3IgcHVyY2hhc2UgYSBwZXJtYW5lbnQgbGljZW5zZS4gRm9yIGV4YW1wbGUsIHdlIG1heSBhc2sgeW91IGZvciAgeW91ciBlbWFpbCBhZGRyZXNzLCB5b3VyIG5hbWUsIGNvbXBhbnkgbmFtZSwgYWRkcmVzcywgYW5kIGNyZWRpdC1jYXJkIGJpbGxpbmcgIGluZm9ybWF0aW9uLjwvcD4gCiAgICAgICAgICAgICAgICAJPHA+V2UgdXNlICB5b3VyIGVtYWlsIGFkZHJlc3MgdG8gc2VuZCByZWdpc3RyYXRpb24gcmVtaW5kZXJzLCB0byBub3RpZnkgeW91IG9mIG5ldyAgc29mdHdhcmUgcmVsZWFzZXMsIHVwZGF0ZXMsIHNwZWNpYWwgb2ZmZXJzLCBuZXdzLCBhbmQgcG9zc2libHkgdG8gc2VuZCBpbnZlc3RvciAgY29tbXVuaWNhdGlvbnMuIDwvcD4gCiAgICAgICAgICAgICAgICAJPHA+V2UgdXNlICB5b3VyIG5hbWUgYW5kIG90aGVyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIGlkZW50aWZ5IHlvdSBhcyBhIHJlZ2lzdGVyZWQgdXNlciAgaW4gb3JkZXIgdG8gZ2l2ZSB5b3UgdGhlIGZ1bGwgYmVuZWZpdHMgb2YgcmVnaXN0cmF0aW9uIGluY2x1ZGluZyB0ZWNobmljYWwgIHN1cHBvcnQgYW5kIHVwZ3JhZGUgZWxpZ2liaWxpdHkuIDwvcD4gCiAgICAgICAgICAgICAgICAJPHA+V2UgdXNlICB5b3VyIGNyZWRpdCBjYXJkIGJpbGxpbmcgaW5mb3JtYXRpb24gb25seSB0byBvYnRhaW4gcGF5bWVudCBmb3Igb3VyIHNvZnR3YXJlICBidXQgb25seSBmb3IgdGhlIG9uZS10aW1lIHB1cmNoYXNlIHRoYXQgeW91IGluaXRpYXRlZC4gPC9wPiAKICAgICAgICAgICAgICAgIAk8cD5Gb3IgIHlvdXIgY29udmVuaWVuY2UsIGVhY2ggYW5ub3VuY2VtZW50IGNvbnRhaW5zIGluc3RydWN0aW9ucyBvbiBob3cgdG8gYmUgcmVtb3ZlZCAgZnJvbSBhbGwgZnV0dXJlIG1haWxpbmdzLiBZb3UgY2FuIGNvcnJlY3QgZmFjdHVhbCBlcnJvcnMgaW4geW91ciBwZXJzb25hbCAgaW5mb3JtYXRpb24gb3IgcmVtb3ZlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gYnkgYWNjZXNzaW5nIHlvdXIgTXlJcHN3aXRjaCAgY3VzdG9tZXIgYWNjb3VudDwvcD4gCiAgICAgICAgICAgICAgICAgIDxhIG5hbWU9IndlYnZpc2l0aW5mbyI+PC9hPiAKICAgICAgICAgICAgICAgIAk8aDI+V2ViLVZpc2l0IEluZm9ybWF0aW9uPC9oMj4gCiAgICAgICAgICAgICAgICAJPHA+V2hlbiAgeW91IHZpc2l0IG91ciB3ZWJzaXRlLCBvdXIgc2VydmVyIGxvZ3MgeW91ciBJUCBhZGRyZXNzLCB0aGUgdGltZSBhbmQgZHVyYXRpb24gIG9mIHlvdXIgdmlzaXQsIGFuZCB0aGUgdGltZSBhbmQgZHVyYXRpb24gb2YgdGhlIHBhZ2VzIG9uIG91ciB3ZWJzaXRlIHRoYXQgeW91ICB2aWV3LiA8L3A+IAogICAgICAgICAgICAgICAgCTxwPldlIHdpbGwgIGFsc28gcGxhY2UgYSBjb29raWUgb24geW91ciBjb21wdXRlcuKAmXMgaGFyZCBkcml2ZS4gQSBjb29raWUgaXMgYW4gYWxwaGFudW1lcmljIGlkZW50aWZpZXIgIHRoYXQgaXMgdW5pcXVlIHRvIHlvdXIgYnJvd3Nlci4gVGhpcyBjb29raWUgd2lsbCBpZGVudGlmeSB5b3VyIGJyb3dzZXIgd2hlbiB5b3UgIHZpc2l0IG91ciBzaXRlIGFnYWluIHNvIHRoYXQgd2UgbWF5IGN1c3RvbWl6ZSB5b3VyIHZpc2l0LiBJZiB5b3UgZG8gbm90IHdpc2ggdG8gIGhhdmUgYSBjb29raWUgb24geW91ciBjb21wdXRlciwgY2hlY2sgdGhlIGhlbHAgZmVhdHVyZSBvZiB5b3VyIGJyb3dzZXIgZm9yICBpbnN0cnVjdGlvbnMuIE1vc3QgYnJvd3NlcnMgY2FuIGJlIHNldCB0byByZWZ1c2UgY29va2llcy4gPC9wPiAKICAgICAgICAgICAgICAgICAgPHA+V2ViLXZpc2l0ICBpbmZvcm1hdGlvbiBpcyB1c2VkIHRvIGdlbmVyYXRlIGFnZ3JlZ2F0ZSBzdGF0aXN0aWNhbCBkYXRhIHRoYXQgd2UgdXNlIHRvICBtZWFzdXJlIGludGVyZXN0IGluIG91ciBXZWIgcGFnZXMuIFdlIG1heSBhbHNvIHRpZSB0aGlzIGluZm9ybWF0aW9uIHRvIHlvdXIgIHBlcnNvbmFsIGluZm9ybWF0aW9uLiBXZWItdmlzaXQgaW5mb3JtYXRpb24gY2FuIGluY2x1ZGUgdGhlIGZvbGxvd2luZzo8L3A+IAogICAgICAgICAgICAgICAgICA8cD5XZWIgQmVhY29uczogQSBXZWIgYmVhY29uIGlzIGEgIHNtYWxsIGltYWdlIHdlIHBsYWNlIGluIG91ciBXZWItYmFzZWQgZS1tYWlsIGNvbW11bmljYXRpb25zLiBXZWIgYmVhY29ucyBhbGxvdyAgdXMgdG8gYWNjZXNzIG91ciBjb29raWUgdG8gdGVsbCB1cyB3aGV0aGVyIHlvdSBoYXZlIHZpZXdlZCBvdXIgZS1tYWlsLiBJZiB5b3UgIHNldCB5b3VyIGJyb3dzZXIgdG8gcmVmdXNlIGNvb2tpZXMsIHRoZSBXZWIgYmVhY29uIHdpbGwgcHJvdmlkZSB1cyBvbmx5IHdpdGggIGluZm9ybWF0aW9uIHRoYXQgYW4gZW1haWwgaGFzIGJlZW4gdmlld2VkLCBidXQgd2Ugd2lsbCBub3QgYmUgYWJsZSB0byBpZGVudGlmeSAgdGhlIHZpc2l0IHdpdGggeW91ciBicm93c2VyLiA8L3A+IAogICAgICAgICAgICAgICAgICA8cD5Vc2VyIFN1cnZleXM6IFlvdXIgcGFydGljaXBhdGlvbiAgaW4gc3VydmV5cyBpcyBvcHRpb25hbCwgYWx0aG91Z2ggd2UgbWF5IHJlcXVpcmUgeW91ciBwYXJ0aWNpcGF0aW9uIGFzIGEgY29uZGl0aW9uICB0byBhIHRyaWFsIHVzZSBvZiBvdXIgc29mdHdhcmUuIFdlIG1heSBhc2sgeW91IHRvIGRlc2NyaWJlIHRoZSB3YXlzIGluIHdoaWNoICB5b3UgYW5kIHlvdXIgY29tcGFueSBtYW5hZ2UgeW91ciBJVCByZXNvdXJjZXMgb3IgeW91ciBleHBlcmllbmNlIHdpdGggb3VyICBzb2Z0d2FyZSBvciB3ZWJzaXRlcy4gV2UgbWF5IGFsc28gYXNrIHlvdSBmb3IgZGVtb2dyYXBoaWMgaW5mb3JtYXRpb24gc3VjaCBhcyAgYWdlLCBnZW5kZXIsIG9yIGFyZWFzIG9mIGludGVyZXN0LiBXZSB1c2UgdGhpcyBpbmZvcm1hdGlvbiB0byBoZWxwIHVzIGltcHJvdmUgIG91ciBzb2Z0d2FyZSwgcGxhbiBtYXJrZXRpbmcgaW5pdGlhdGl2ZXMsIGFuZCBkZXZlbG9wIG5ldyBwcm9kdWN0cyB0aGF0IG1heSAgaW50ZXJlc3QgeW91LiA8L3A+IAogICAgICAgICAgICAgICAgICA8cD5TaG9wcGluZyBDYXJ0OiBXZSB1c2UgY29va2llcyB0byAgaWRlbnRpZnkgeW91IGFzIGEgcHJldmlvdXMgdmlzaXRvciB0byBvdXIgV2ViIHNpdGUgYW5kIGtlZXAgdHJhY2sgb2YgaXRlbXMgaW4gIHlvdXIgc2hvcHBpbmcgY2FydC4gV2UgbWF5IHRpZSB0aGUgY29va2llIHRvIGFueSBwZXJzb25hbCBpbmZvcm1hdGlvbiB3ZSBoYXZlICBhYm91dCB5b3UuIDwvcD4gCiAgICAgICAgICAgICAgICAgIDxwPlNvZnR3YXJlIFJlcG9ydGluZzogVGhlIHNvZnR3YXJlICBpbmNsdWRlcyBhIGZlYXR1cmUgd2hpY2ggYXNzaWducyBhIHVuaXF1ZSBudW1iZXIgdG8geW91ciBjb21wdXRlciBiYXNlZCBvbiAgc3lzdGVtIGluZm9ybWF0aW9uLiBUaGUgc29mdHdhcmUgcmVwb3J0cyB0aGlzIG51bWJlciB0byB1cyB3aGVuIHlvdSB1c2UgdGhlIHNvZnR3YXJlICBkdXJpbmcgdGhlIHRyaWFsIHBlcmlvZC4gVGhlIHNvZnR3YXJlIG1heSBhbHNvIGlkZW50aWZ5IGFuZCByZXBvcnQgdG8gdXMgeW91ciAgV2luZG93cyBsYW5ndWFnZSBpZGVudGlmaWVyIHNldHRpbmcsIElQIGFkZHJlc3MsIGFuZCB0aGUgZGF0ZSBhbmQgdGltZSBvZiAgcHJvZ3JhbSB1c2UuPC9wPiAKICAgICAgICAgICAgICAgICAgPHA+V2UgdXNlICB0aGlzIGluZm9ybWF0aW9uIHRvIGNvdW50IHRoZSBudW1iZXIgb2YgaW5zdGFsbGF0aW9ucywgbWVhc3VyZSBmcmVxdWVuY3kgb2YgIHVzZSwgZGV0ZWN0IHBpcmFjeSBvZiBvdXIgc29mdHdhcmUsIGFuZCBkZXZlbG9wIHJvdWdoIHN0YXRpc3RpY2FsIGRhdGEgIHJlZ2FyZGluZyB0aGUgZ2VvZ3JhcGhpYyBsb2NhdGlvbiBvZiBvdXIgdXNlcnMuIElmIHlvdSByZWdpc3RlciBvdXIgc29mdHdhcmUsICB3ZSBtYXkgdGllIHRoaXMgaW5mb3JtYXRpb24gdG8gYW55IHBlcnNvbmFsIGluZm9ybWF0aW9uIHRoYXQgd2UgaGF2ZSBhYm91dCB5b3UuIDwvcD4gCiAgICAgICAgICAgICAgICAgIDxwPlB1cmNoYXNlOiBJbiBhZGRpdGlvbiB0byBvYnRhaW5pbmcgeW91ciBuYW1lICBhbmQgb3RoZXIgcGVyc29uYWwgaW5mb3JtYXRpb24sIHdlIHdpbGwgaWRlbnRpZnkgYW5kIGxvZyB5b3VyIGJyb3dzZXIgdHlwZSB3aGVuICB5b3UgcHVyY2hhc2Ugb3VyIHNvZnR3YXJlIG9ubGluZS4gV2UgdXNlIHRoaXMgaW5mb3JtYXRpb24gdG8gaGVscCB1cyBkZXRlY3QgIHBpcmFjeSBvZiBvdXIgc29mdHdhcmUuIDwvcD4gCiAgICAgICAgICAgICAgICAgIDxwPldlYiBTdXJ2ZXk6IFlvdXIgV2ViIFN1cnZleSAgcmVzdWx0cyBhcmUgY29sbGVjdGVkIGFuZCB0cmFuc21pdHRlZCB0byB5b3UgYnkgb3VyIHNlcnZlci4gVGhlIHJlc3VsdHMgYW5kICBjZXJ0YWluIHN0YXRpc3RpY3MgcmVnYXJkaW5nIHRoZSByZXN1bHRzIGFyZSBzdG9yZWQgb24gb3VyIHNlcnZlciBmb3IgdGhlICBwdXJwb3NlIG9mIGZhY2lsaXRhdGluZyB0aGUgcmVwb3J0aW5nIGZlYXR1cmVzIG9mIHRoZSBzb2Z0d2FyZS4gV2UgZG8gbm90IHZpZXcgIHRoZSByZXN1bHRzIG9yIHN0YXRpc3RpY3Mgb3Igc2hhcmUgdGhhdCBpbmZvcm1hdGlvbiB3aXRoIGFueSBwZXJzb24uPC9wPiAKICAgICAgICAgICAgICAgICAgPGEgbmFtZT0idGhpcmRwYXJ0aWVzIj48L2E+IAogICAgICAgICAgICAgICAgICA8aDI+U2hhcmluZyBvZiBJbmZvcm1hdGlvbiB3aXRoIFRoaXJkIFBhcnRpZXM8L2gyPiAKICAgICAgICAgICAgICAgICAgPHA+V2Ugd2lsbCAgbm90IGRpc2Nsb3NlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gZXhjZXB0IGFzIGZvbGxvd3M6IDwvcD4gCiAgICAgICAgICAgICAgICAgIDx1bD4gCiAgICAgICAgICAgICAgICAgICAgPGxpPlRvIHByb3RlY3QgSXBzd2l0Y2ggRmlsZSBUcmFuc2ZlciBhbmQgb3RoZXJzLCB3ZSBtYXkgcmVsZWFzZSAgcGVyc29uYWwgaW5mb3JtYXRpb24gYW5kIElQIGFkZHJlc3NlcyB3aGVuIHdlIGJlbGlldmUgcmVsZWFzZSBpcyBhcHByb3ByaWF0ZSB0byAgY29tcGx5IHdpdGggdGhlIGxhdywgdG8gZW5mb3JjZSBvdXIgc29mdHdhcmUgbGljZW5zZXMgYW5kIG90aGVyIHJpZ2h0cywgb3IgdG8gIHByb3RlY3QgdGhlIHJpZ2h0cyBhbmQgc2FmZXR5IG9mIG90aGVycy4gVGhpcyBtYXkgaW5jbHVkZSBleGNoYW5naW5nICBpbmZvcm1hdGlvbiB3aXRoIGxhdyBlbmZvcmNlbWVudCBhZ2VuY2llcywgb3Igd2l0aCBvdGhlciBjb21wYW5pZXMgYW5kIG9yZ2FuaXphdGlvbnMgIGZvciBmcmF1ZCBwcm90ZWN0aW9uIGFuZCBjcmVkaXQgcmlzayByZWR1Y3Rpb24uPC9saT4gCiAgICAgICAgICAgICAgICAgICAgPGxpPlRvIHBlcnNvbnMgd2hvIGhlbHAgdXMgcHJvdmlkZSBvdXIgcHJvZHVjdHMgYW5kIHNlcnZpY2VzIHRvICB5b3UuIFdlIG1heSBwcm92aWRlIHBlcnNvbmFsIGFuZCBvdGhlciBpbmZvcm1hdGlvbiB0byB0aGlyZCBwYXJ0aWVzIHdobyB3b3JrICBmb3IgdXMsIHN1Y2ggYXMgY29tcGFuaWVzIHRoYXQgdmVyaWZ5IGNyZWRpdCBjYXJkIGluZm9ybWF0aW9uLCBwcm9jZXNzIGNyZWRpdCAgY2FyZCBwYXltZW50cywgZnVsZmlsbCBvcmRlcnMsIHByb3ZpZGUgY3VzdG9tZXIgc2VydmljZSwgYW5hbHl6ZSBjdXN0b21lciBkYXRhLCAgcmVtb3ZlIHJlcGV0aXRpdmUgaW5mb3JtYXRpb24gZnJvbSBjdXN0b21lciBsaXN0cywgYW5kIHByb3ZpZGUgbWFya2V0aW5nICBzZXJ2aWNlcy4gV2UgZG8gbm90IHBlcm1pdCB0aGVzZSBwZXJzb25zIHRvIHVzZSB0aGlzIGluZm9ybWF0aW9uIGZvciBhbnkgb3RoZXIgIHB1cnBvc2UuPC9saT4gCiAgICAgICAgICAgICAgICAgICAgPGxpPkFzIHBhcnQgb2YgYSBzYWxlIG9mIG91ciBhc3NldHMgb3IgYSBtZXJnZXIgb2Ygb3VyIGNvbXBhbnkuICBXZSBtYXkgaW4gdGhlIGZ1dHVyZSBzZWxsIGFsbCBvciBwYXJ0IG9mIG91ciBhc3NldHMgb3IgYmUgaW52b2x2ZWQgaW4gYSBtZXJnZXIuICBJdCBpcyBjdXN0b21hcnkgZm9yIHVzZXIgaW5mb3JtYXRpb24gdG8gYmUgaW5jbHVkZWQgd2l0aCB0aGUgdHJhbnNmZXJyZWQgYXNzZXRzICBpbiB0aGVzZSB0eXBlcyBvZiB0cmFuc2FjdGlvbnMuPC9saT4gCiAgICAgICAgICAgICAgICAgICAgPGxpPlRvIHRoZSBCdXJlYXUgb2YgRXhwb3J0IEFkbWluaXN0cmF0aW9uLiBXZSBhcmUgcmVxdWlyZWQgYnkgIGxhdyB0byBmdXJuaXNoIGEgcmVwb3J0IHRvIHRoZSBVbml0ZWQgU3RhdGVzIEJ1cmVhdSBvZiBFeHBvcnQgQWRtaW5pc3RyYXRpb24gIHN0YXRpbmcgdGhlIG5hbWVzIGFuZCBhZGRyZXNzZXMgb2YgYWxsIG5vbi1VLlMuIGJ1c2luZXNzZXMgb3Igb3JnYW5pemF0aW9ucyAgKGJ1dCBub3QgaW5kaXZpZHVhbCBjb25zdW1lcnMpIHdobyBwdXJjaGFzZSBvbmxpbmUgb3IgcmVnaXN0ZXIgYW55IG9mIG91ciAgc29mdHdhcmUgdGhhdCBjb250YWlucyBhbiBlbmNyeXB0aW9uIGZlYXR1cmUuIDwvbGk+IAogICAgICAgICAgICAgICAgICA8L3VsPiAKICAgICAgICAgICAgICAgICAgPHA+V2UgbWF5IHNlbmQgcHJvbW90aW9uYWwgbWVzc2FnZXMgb24gYmVoYWxmIG9mIG90aGVyIGNvbXBhbmllcy4gSWYgd2UgZG8gdGhpcywgd2Ugd2lsbCAgbm90IHByb3ZpZGUgdGhlbSB3aXRoIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24uIDwvcD4gCiAgICAgICAgICAgICAgICAgIDxwPldlIGRvIG5vdCBzaGFyZSB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHdpdGggdGhpcmQgcGFydGllcyB1bmRlciBvdGhlciAgY2lyY3Vtc3RhbmNlcy4gSWYgd2UgZXZlciB3aXNoIHRvIHNoYXJlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gd2l0aCB0aGlyZCAgcGFydGllcyB1bmRlciBvdGhlciBjaXJjdW1zdGFuY2VzLCB3ZSB3aWxsIGdpdmUgeW91IGEgY2hhbmNlIHRvIG9wdCBvdXQgYmVmb3JlICB3ZSBkbyBzby4gPC9wPiAKICAgICAgICAgICAgICAgICAgPHA+V2UgbWF5IHNoYXJlIG5vbi1wZXJzb25hbGx5IGlkZW50aWZpYWJsZSBhZ2dyZWdhdGUgc3RhdGlzdGljYWwgaW5mb3JtYXRpb24gYWJvdXQgb3VyICB1c2VycyB3aXRoIHRoaXJkIHBhcnRpZXMuIDwvcD4gCiAgICAgICAgICAgICAgICAgIDxhIG5hbWU9InNlY3VyaXR5Ij48L2E+IAogICAgICAgICAgICAgICAgICA8aDI+U2VjdXJpdHkgPC9oMj4gCiAgICAgICAgICAgICAgICAgIDxwPllvdXIgY3JlZGl0IGNhcmQgaW5mb3JtYXRpb24gaXMgZW5jcnlwdGVkIGJlZm9yZSB0cmFuc21pc3Npb24gb3ZlciB0aGUgSW50ZXJuZXQgIHRocm91Z2ggdGhlIHVzZSBvZiBhIHNlY3VyaXR5IHByb3RvY29sIGtub3duIGFzIFNlY3VyZSBTb2NrZXRzIExheWVyIChTU0wpLCBhbmQgIHdlIGhhdmUgc2VjdXJpdHkgbWVhc3VyZXMgaW4gcGxhY2UgdG8gcHJvdGVjdCB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRoYXQgd2UgIG1haW50YWluIGhlcmUuIDwvcD4gCiAgICAgICAgICAgICAgICAgCTxhIG5hbWU9ImNoaWxkcmVucyI+PC9hPiAKICAgICAgICAgICAgICAgICAgPGgyPkNoaWxkcmVuJ3MgT25saW5lIFByaXZhY3kgUHJvdGVjdGlvbjwvaDI+IAogICAgICAgICAgICAgICAgICA8cD5OZWl0aGVyICBvdXIgd2Vic2l0ZXMgbm9yIG91ciBwcm9kdWN0cyBhcmUgZGVzaWduZWQgZm9yIG9yIGRpcmVjdGVkIHRvIGNoaWxkcmVuIHVuZGVyICB0aGUgYWdlIG9mIDEzLCBhbmQgd2Ugd2lsbCBub3QgaW50ZW50aW9uYWxseSBtYWludGFpbiBpbmZvcm1hdGlvbiBhYm91dCBhbnlvbmUgIHVuZGVyIHRoZSBhZ2Ugb2YgMTMuIDwvcD4gCiAgICAgICAgICAgICAgICAgIDxwPkNvbnRhY3QgSW5mb3JtYXRpb24gPGJyIC8+IAogICAgICAgICAgICAgICAgICAgIElmIHlvdSAgaGF2ZSBhIGNvbmNlcm4gYWJvdXQgeW91ciBwcml2YWN5LCBwbGVhc2UgPGEgaHJlZj0iL0NvbXBhbnkvQ29udGFjdC5hc3B4Ij5jb250YWN0ICB1czwvYT4uPC9wPgo8L2Rpdj4KPGRpdiBpZD0iY29udGVudF9ib3R0b20iPjwvZGl2PiAKPC9kaXY+PGRpdiBzdHlsZT0ndmlzaWJpbGl0eTpoaWRkZW47ZGlzcGxheTpub25lOyc+KGRiKTwvZGl2PmRk+ewiSZvk97YDTlyNJDyfj+PCNdk=">
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm" class="nothome">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTQzODAyMTE4D2QWAmYPZBYEAgEPZBYCAgEPZBYGAgEPFgIeBFRleHQFOjx0aXRsZT5Qcml2YWN5IFN0YXRlbWVudCAtIElwc3dpdGNoIEZpbGUgVHJhbnNmZXIgPC90aXRsZT5kAgMPFgIfAAWGATxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJNYW5hZ2VkIEZpbGUgVHJhbnNmZXIgc29mdHdhcmUsIGVudGVycHJpc2UgYXBwbGljYXRpb24sIEIyQiBpbnRlZ3JhdGlvbiwgRlRQIFNlcnZlcnMgYW5kIEZUUCBTb2Z0d2FyZSI+ZAIFDxYCHwAFlwE8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iSXBzd2l0Y2ggRmlsZSBUcmFuc2ZlciBkZXZlbG9wcyBtYW5hZ2VkIGZpbGUgdHJhbnNmZXIsIGVudGVycHJpc2UgYXBwbGljYXRpb24gJiBCMkIgaW50ZWdyYXRpb24gc29mdHdhcmUgc29sdXRpb25zLiI+ZAIDD2QWBgIDD2QWDAIPDxYCHwAFCHByb2R1Y3RzZAIpDxYCHwAFDmNvbXBhbnkgYWN0aXZlZAJBDxYCHwAFB3N1cHBvcnRkAkkPFgIfAAUJcmVzb3VyY2VzZAJfDxYCHwAFCHBhcnRuZXJzZAJrDxYCHwAFBXN0b3JlZAIJD2QWAgIDDxYCHwAFxUcgICAgPGRpdiBpZD0icmlnaHRfY29sIj4gCjxkaXYgaWQ9ImJyZWFkY3J1bWIiPjxhIGhyZWY9Ii9JbmRleC5hc3B4Ij5Ib21lPC9hPiA+IDxhIGhyZWY9Ii9Db21wYW55L0Fib3V0LmFzcHgiPkNvbXBhbnk8L2E+ID4gPHN0cm9uZz5Qcml2YWN5IFBvbGljeTwvc3Ryb25nPiA8L2Rpdj4KPGRpdiBpZD0iY29udGVudF90b3AiPjwvZGl2PiAKPGRpdiBpZD0icHJvZHVjdF9vdmVydmlldyI+IAoKPGgxPlByaXZhY3kgUG9saWN5PC9oMT4gCiAgICAgICAgICAgICAgICAJPHA+V2UgdGFrZSAgeW91ciBwcml2YWN5IHZlcnkgc2VyaW91c2x5LiBXZSBjb2xsZWN0IGluZHVzdHJ5LXN0YW5kYXJkIGluZm9ybWF0aW9uIHRvIGluICBvcmRlciB0byBwcm92aWRlIHlvdSB3aXRoIHN1cGVyaW9yIHByb2R1Y3RzIGFuZCBjdXN0b21lciBzZXJ2aWNlLiBPdXIgcHJpdmFjeSAgcG9saWNpZXMgYXJlIGRlc2NyaWJlZCBpbiB0aGUgZm9sbG93aW5nIHBhZ2VzPC9wPiAKICAgICAgICAgICAgICAgIAk8dWw+IAogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJQcml2YWN5LmFzcHgjcGVyc29uYWxpbmZvIj5QZXJzb25hbCBJbmZvcm1hdGlvbjwvYT48L2xpPiAKICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iUHJpdmFjeS5hc3B4I3dlYnZpc2l0aW5mbyI+V2ViIFZpc2l0IEluZm9ybWF0aW9uPC9hPjwvbGk+IAogICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJQcml2YWN5LmFzcHgjdGhpcmRwYXJ0aWVzIj5TaGFyaW5nIG9mIEluZm9ybWF0aW9uIHdpdGggVGhpcmQgUGFydGllczwvYT48L2xpPiAKICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iUHJpdmFjeS5hc3B4I3NlY3VyaXR5Ij5TZWN1cml0eTwvYT48L2xpPiAKICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iUHJpdmFjeS5hc3B4I2NoaWxkcmVucyI+Q2hpbGRyZW7igJlzIE9ubGluZSBQcml2YWN5IFByb3RlY3Rpb248L2E+PC9saT4gCiAgICAgICAgICAgICAgICAgIDwvdWw+IAogICAgICAgICAgICAgICAgICA8YSBuYW1lPSJwZXJzb25hbGluZm8iPjwvYT4gCiAgICAgICAgICAgICAgICAJPGgyPlBlcnNvbmFsIEluZm9ybWF0aW9uPC9oMj4gCiAgICAgICAgICAgICAgICAJPHA+V2UgbWF5ICBhc2sgeW91IGZvciBwZXJzb25hbCBpbmZvcm1hdGlvbiB3aGVuIHlvdSBkb3dubG9hZCBvdXIgc29mdHdhcmUsIHJlZ2lzdGVyIGZvciBhICB0cmlhbCBsaWNlbnNlLCBvciBwdXJjaGFzZSBhIHBlcm1hbmVudCBsaWNlbnNlLiBGb3IgZXhhbXBsZSwgd2UgbWF5IGFzayB5b3UgZm9yICB5b3VyIGVtYWlsIGFkZHJlc3MsIHlvdXIgbmFtZSwgY29tcGFueSBuYW1lLCBhZGRyZXNzLCBhbmQgY3JlZGl0LWNhcmQgYmlsbGluZyAgaW5mb3JtYXRpb24uPC9wPiAKICAgICAgICAgICAgICAgIAk8cD5XZSB1c2UgIHlvdXIgZW1haWwgYWRkcmVzcyB0byBzZW5kIHJlZ2lzdHJhdGlvbiByZW1pbmRlcnMsIHRvIG5vdGlmeSB5b3Ugb2YgbmV3ICBzb2Z0d2FyZSByZWxlYXNlcywgdXBkYXRlcywgc3BlY2lhbCBvZmZlcnMsIG5ld3MsIGFuZCBwb3NzaWJseSB0byBzZW5kIGludmVzdG9yICBjb21tdW5pY2F0aW9ucy4gPC9wPiAKICAgICAgICAgICAgICAgIAk8cD5XZSB1c2UgIHlvdXIgbmFtZSBhbmQgb3RoZXIgcGVyc29uYWwgaW5mb3JtYXRpb24gdG8gaWRlbnRpZnkgeW91IGFzIGEgcmVnaXN0ZXJlZCB1c2VyICBpbiBvcmRlciB0byBnaXZlIHlvdSB0aGUgZnVsbCBiZW5lZml0cyBvZiByZWdpc3RyYXRpb24gaW5jbHVkaW5nIHRlY2huaWNhbCAgc3VwcG9ydCBhbmQgdXBncmFkZSBlbGlnaWJpbGl0eS4gPC9wPiAKICAgICAgICAgICAgICAgIAk8cD5XZSB1c2UgIHlvdXIgY3JlZGl0IGNhcmQgYmlsbGluZyBpbmZvcm1hdGlvbiBvbmx5IHRvIG9idGFpbiBwYXltZW50IGZvciBvdXIgc29mdHdhcmUgIGJ1dCBvbmx5IGZvciB0aGUgb25lLXRpbWUgcHVyY2hhc2UgdGhhdCB5b3UgaW5pdGlhdGVkLiA8L3A+IAogICAgICAgICAgICAgICAgCTxwPkZvciAgeW91ciBjb252ZW5pZW5jZSwgZWFjaCBhbm5vdW5jZW1lbnQgY29udGFpbnMgaW5zdHJ1Y3Rpb25zIG9uIGhvdyB0byBiZSByZW1vdmVkICBmcm9tIGFsbCBmdXR1cmUgbWFpbGluZ3MuIFlvdSBjYW4gY29ycmVjdCBmYWN0dWFsIGVycm9ycyBpbiB5b3VyIHBlcnNvbmFsICBpbmZvcm1hdGlvbiBvciByZW1vdmUgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBieSBhY2Nlc3NpbmcgeW91ciBNeUlwc3dpdGNoICBjdXN0b21lciBhY2NvdW50PC9wPiAKICAgICAgICAgICAgICAgICAgPGEgbmFtZT0id2VidmlzaXRpbmZvIj48L2E+IAogICAgICAgICAgICAgICAgCTxoMj5XZWItVmlzaXQgSW5mb3JtYXRpb248L2gyPiAKICAgICAgICAgICAgICAgIAk8cD5XaGVuICB5b3UgdmlzaXQgb3VyIHdlYnNpdGUsIG91ciBzZXJ2ZXIgbG9ncyB5b3VyIElQIGFkZHJlc3MsIHRoZSB0aW1lIGFuZCBkdXJhdGlvbiAgb2YgeW91ciB2aXNpdCwgYW5kIHRoZSB0aW1lIGFuZCBkdXJhdGlvbiBvZiB0aGUgcGFnZXMgb24gb3VyIHdlYnNpdGUgdGhhdCB5b3UgIHZpZXcuIDwvcD4gCiAgICAgICAgICAgICAgICAJPHA+V2Ugd2lsbCAgYWxzbyBwbGFjZSBhIGNvb2tpZSBvbiB5b3VyIGNvbXB1dGVy4oCZcyBoYXJkIGRyaXZlLiBBIGNvb2tpZSBpcyBhbiBhbHBoYW51bWVyaWMgaWRlbnRpZmllciAgdGhhdCBpcyB1bmlxdWUgdG8geW91ciBicm93c2VyLiBUaGlzIGNvb2tpZSB3aWxsIGlkZW50aWZ5IHlvdXIgYnJvd3NlciB3aGVuIHlvdSAgdmlzaXQgb3VyIHNpdGUgYWdhaW4gc28gdGhhdCB3ZSBtYXkgY3VzdG9taXplIHlvdXIgdmlzaXQuIElmIHlvdSBkbyBub3Qgd2lzaCB0byAgaGF2ZSBhIGNvb2tpZSBvbiB5b3VyIGNvbXB1dGVyLCBjaGVjayB0aGUgaGVscCBmZWF0dXJlIG9mIHlvdXIgYnJvd3NlciBmb3IgIGluc3RydWN0aW9ucy4gTW9zdCBicm93c2VycyBjYW4gYmUgc2V0IHRvIHJlZnVzZSBjb29raWVzLiA8L3A+IAogICAgICAgICAgICAgICAgICA8cD5XZWItdmlzaXQgIGluZm9ybWF0aW9uIGlzIHVzZWQgdG8gZ2VuZXJhdGUgYWdncmVnYXRlIHN0YXRpc3RpY2FsIGRhdGEgdGhhdCB3ZSB1c2UgdG8gIG1lYXN1cmUgaW50ZXJlc3QgaW4gb3VyIFdlYiBwYWdlcy4gV2UgbWF5IGFsc28gdGllIHRoaXMgaW5mb3JtYXRpb24gdG8geW91ciAgcGVyc29uYWwgaW5mb3JtYXRpb24uIFdlYi12aXNpdCBpbmZvcm1hdGlvbiBjYW4gaW5jbHVkZSB0aGUgZm9sbG93aW5nOjwvcD4gCiAgICAgICAgICAgICAgICAgIDxwPldlYiBCZWFjb25zOiBBIFdlYiBiZWFjb24gaXMgYSAgc21hbGwgaW1hZ2Ugd2UgcGxhY2UgaW4gb3VyIFdlYi1iYXNlZCBlLW1haWwgY29tbXVuaWNhdGlvbnMuIFdlYiBiZWFjb25zIGFsbG93ICB1cyB0byBhY2Nlc3Mgb3VyIGNvb2tpZSB0byB0ZWxsIHVzIHdoZXRoZXIgeW91IGhhdmUgdmlld2VkIG91ciBlLW1haWwuIElmIHlvdSAgc2V0IHlvdXIgYnJvd3NlciB0byByZWZ1c2UgY29va2llcywgdGhlIFdlYiBiZWFjb24gd2lsbCBwcm92aWRlIHVzIG9ubHkgd2l0aCAgaW5mb3JtYXRpb24gdGhhdCBhbiBlbWFpbCBoYXMgYmVlbiB2aWV3ZWQsIGJ1dCB3ZSB3aWxsIG5vdCBiZSBhYmxlIHRvIGlkZW50aWZ5ICB0aGUgdmlzaXQgd2l0aCB5b3VyIGJyb3dzZXIuIDwvcD4gCiAgICAgICAgICAgICAgICAgIDxwPlVzZXIgU3VydmV5czogWW91ciBwYXJ0aWNpcGF0aW9uICBpbiBzdXJ2ZXlzIGlzIG9wdGlvbmFsLCBhbHRob3VnaCB3ZSBtYXkgcmVxdWlyZSB5b3VyIHBhcnRpY2lwYXRpb24gYXMgYSBjb25kaXRpb24gIHRvIGEgdHJpYWwgdXNlIG9mIG91ciBzb2Z0d2FyZS4gV2UgbWF5IGFzayB5b3UgdG8gZGVzY3JpYmUgdGhlIHdheXMgaW4gd2hpY2ggIHlvdSBhbmQgeW91ciBjb21wYW55IG1hbmFnZSB5b3VyIElUIHJlc291cmNlcyBvciB5b3VyIGV4cGVyaWVuY2Ugd2l0aCBvdXIgIHNvZnR3YXJlIG9yIHdlYnNpdGVzLiBXZSBtYXkgYWxzbyBhc2sgeW91IGZvciBkZW1vZ3JhcGhpYyBpbmZvcm1hdGlvbiBzdWNoIGFzICBhZ2UsIGdlbmRlciwgb3IgYXJlYXMgb2YgaW50ZXJlc3QuIFdlIHVzZSB0aGlzIGluZm9ybWF0aW9uIHRvIGhlbHAgdXMgaW1wcm92ZSAgb3VyIHNvZnR3YXJlLCBwbGFuIG1hcmtldGluZyBpbml0aWF0aXZlcywgYW5kIGRldmVsb3AgbmV3IHByb2R1Y3RzIHRoYXQgbWF5ICBpbnRlcmVzdCB5b3UuIDwvcD4gCiAgICAgICAgICAgICAgICAgIDxwPlNob3BwaW5nIENhcnQ6IFdlIHVzZSBjb29raWVzIHRvICBpZGVudGlmeSB5b3UgYXMgYSBwcmV2aW91cyB2aXNpdG9yIHRvIG91ciBXZWIgc2l0ZSBhbmQga2VlcCB0cmFjayBvZiBpdGVtcyBpbiAgeW91ciBzaG9wcGluZyBjYXJ0LiBXZSBtYXkgdGllIHRoZSBjb29raWUgdG8gYW55IHBlcnNvbmFsIGluZm9ybWF0aW9uIHdlIGhhdmUgIGFib3V0IHlvdS4gPC9wPiAKICAgICAgICAgICAgICAgICAgPHA+U29mdHdhcmUgUmVwb3J0aW5nOiBUaGUgc29mdHdhcmUgIGluY2x1ZGVzIGEgZmVhdHVyZSB3aGljaCBhc3NpZ25zIGEgdW5pcXVlIG51bWJlciB0byB5b3VyIGNvbXB1dGVyIGJhc2VkIG9uICBzeXN0ZW0gaW5mb3JtYXRpb24uIFRoZSBzb2Z0d2FyZSByZXBvcnRzIHRoaXMgbnVtYmVyIHRvIHVzIHdoZW4geW91IHVzZSB0aGUgc29mdHdhcmUgIGR1cmluZyB0aGUgdHJpYWwgcGVyaW9kLiBUaGUgc29mdHdhcmUgbWF5IGFsc28gaWRlbnRpZnkgYW5kIHJlcG9ydCB0byB1cyB5b3VyICBXaW5kb3dzIGxhbmd1YWdlIGlkZW50aWZpZXIgc2V0dGluZywgSVAgYWRkcmVzcywgYW5kIHRoZSBkYXRlIGFuZCB0aW1lIG9mICBwcm9ncmFtIHVzZS48L3A+IAogICAgICAgICAgICAgICAgICA8cD5XZSB1c2UgIHRoaXMgaW5mb3JtYXRpb24gdG8gY291bnQgdGhlIG51bWJlciBvZiBpbnN0YWxsYXRpb25zLCBtZWFzdXJlIGZyZXF1ZW5jeSBvZiAgdXNlLCBkZXRlY3QgcGlyYWN5IG9mIG91ciBzb2Z0d2FyZSwgYW5kIGRldmVsb3Agcm91Z2ggc3RhdGlzdGljYWwgZGF0YSAgcmVnYXJkaW5nIHRoZSBnZW9ncmFwaGljIGxvY2F0aW9uIG9mIG91ciB1c2Vycy4gSWYgeW91IHJlZ2lzdGVyIG91ciBzb2Z0d2FyZSwgIHdlIG1heSB0aWUgdGhpcyBpbmZvcm1hdGlvbiB0byBhbnkgcGVyc29uYWwgaW5mb3JtYXRpb24gdGhhdCB3ZSBoYXZlIGFib3V0IHlvdS4gPC9wPiAKICAgICAgICAgICAgICAgICAgPHA+UHVyY2hhc2U6IEluIGFkZGl0aW9uIHRvIG9idGFpbmluZyB5b3VyIG5hbWUgIGFuZCBvdGhlciBwZXJzb25hbCBpbmZvcm1hdGlvbiwgd2Ugd2lsbCBpZGVudGlmeSBhbmQgbG9nIHlvdXIgYnJvd3NlciB0eXBlIHdoZW4gIHlvdSBwdXJjaGFzZSBvdXIgc29mdHdhcmUgb25saW5lLiBXZSB1c2UgdGhpcyBpbmZvcm1hdGlvbiB0byBoZWxwIHVzIGRldGVjdCAgcGlyYWN5IG9mIG91ciBzb2Z0d2FyZS4gPC9wPiAKICAgICAgICAgICAgICAgICAgPHA+V2ViIFN1cnZleTogWW91ciBXZWIgU3VydmV5ICByZXN1bHRzIGFyZSBjb2xsZWN0ZWQgYW5kIHRyYW5zbWl0dGVkIHRvIHlvdSBieSBvdXIgc2VydmVyLiBUaGUgcmVzdWx0cyBhbmQgIGNlcnRhaW4gc3RhdGlzdGljcyByZWdhcmRpbmcgdGhlIHJlc3VsdHMgYXJlIHN0b3JlZCBvbiBvdXIgc2VydmVyIGZvciB0aGUgIHB1cnBvc2Ugb2YgZmFjaWxpdGF0aW5nIHRoZSByZXBvcnRpbmcgZmVhdHVyZXMgb2YgdGhlIHNvZnR3YXJlLiBXZSBkbyBub3QgdmlldyAgdGhlIHJlc3VsdHMgb3Igc3RhdGlzdGljcyBvciBzaGFyZSB0aGF0IGluZm9ybWF0aW9uIHdpdGggYW55IHBlcnNvbi48L3A+IAogICAgICAgICAgICAgICAgICA8YSBuYW1lPSJ0aGlyZHBhcnRpZXMiPjwvYT4gCiAgICAgICAgICAgICAgICAgIDxoMj5TaGFyaW5nIG9mIEluZm9ybWF0aW9uIHdpdGggVGhpcmQgUGFydGllczwvaDI+IAogICAgICAgICAgICAgICAgICA8cD5XZSB3aWxsICBub3QgZGlzY2xvc2UgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBleGNlcHQgYXMgZm9sbG93czogPC9wPiAKICAgICAgICAgICAgICAgICAgPHVsPiAKICAgICAgICAgICAgICAgICAgICA8bGk+VG8gcHJvdGVjdCBJcHN3aXRjaCBGaWxlIFRyYW5zZmVyIGFuZCBvdGhlcnMsIHdlIG1heSByZWxlYXNlICBwZXJzb25hbCBpbmZvcm1hdGlvbiBhbmQgSVAgYWRkcmVzc2VzIHdoZW4gd2UgYmVsaWV2ZSByZWxlYXNlIGlzIGFwcHJvcHJpYXRlIHRvICBjb21wbHkgd2l0aCB0aGUgbGF3LCB0byBlbmZvcmNlIG91ciBzb2Z0d2FyZSBsaWNlbnNlcyBhbmQgb3RoZXIgcmlnaHRzLCBvciB0byAgcHJvdGVjdCB0aGUgcmlnaHRzIGFuZCBzYWZldHkgb2Ygb3RoZXJzLiBUaGlzIG1heSBpbmNsdWRlIGV4Y2hhbmdpbmcgIGluZm9ybWF0aW9uIHdpdGggbGF3IGVuZm9yY2VtZW50IGFnZW5jaWVzLCBvciB3aXRoIG90aGVyIGNvbXBhbmllcyBhbmQgb3JnYW5pemF0aW9ucyAgZm9yIGZyYXVkIHByb3RlY3Rpb24gYW5kIGNyZWRpdCByaXNrIHJlZHVjdGlvbi48L2xpPiAKICAgICAgICAgICAgICAgICAgICA8bGk+VG8gcGVyc29ucyB3aG8gaGVscCB1cyBwcm92aWRlIG91ciBwcm9kdWN0cyBhbmQgc2VydmljZXMgdG8gIHlvdS4gV2UgbWF5IHByb3ZpZGUgcGVyc29uYWwgYW5kIG90aGVyIGluZm9ybWF0aW9uIHRvIHRoaXJkIHBhcnRpZXMgd2hvIHdvcmsgIGZvciB1cywgc3VjaCBhcyBjb21wYW5pZXMgdGhhdCB2ZXJpZnkgY3JlZGl0IGNhcmQgaW5mb3JtYXRpb24sIHByb2Nlc3MgY3JlZGl0ICBjYXJkIHBheW1lbnRzLCBmdWxmaWxsIG9yZGVycywgcHJvdmlkZSBjdXN0b21lciBzZXJ2aWNlLCBhbmFseXplIGN1c3RvbWVyIGRhdGEsICByZW1vdmUgcmVwZXRpdGl2ZSBpbmZvcm1hdGlvbiBmcm9tIGN1c3RvbWVyIGxpc3RzLCBhbmQgcHJvdmlkZSBtYXJrZXRpbmcgIHNlcnZpY2VzLiBXZSBkbyBub3QgcGVybWl0IHRoZXNlIHBlcnNvbnMgdG8gdXNlIHRoaXMgaW5mb3JtYXRpb24gZm9yIGFueSBvdGhlciAgcHVycG9zZS48L2xpPiAKICAgICAgICAgICAgICAgICAgICA8bGk+QXMgcGFydCBvZiBhIHNhbGUgb2Ygb3VyIGFzc2V0cyBvciBhIG1lcmdlciBvZiBvdXIgY29tcGFueS4gIFdlIG1heSBpbiB0aGUgZnV0dXJlIHNlbGwgYWxsIG9yIHBhcnQgb2Ygb3VyIGFzc2V0cyBvciBiZSBpbnZvbHZlZCBpbiBhIG1lcmdlci4gIEl0IGlzIGN1c3RvbWFyeSBmb3IgdXNlciBpbmZvcm1hdGlvbiB0byBiZSBpbmNsdWRlZCB3aXRoIHRoZSB0cmFuc2ZlcnJlZCBhc3NldHMgIGluIHRoZXNlIHR5cGVzIG9mIHRyYW5zYWN0aW9ucy48L2xpPiAKICAgICAgICAgICAgICAgICAgICA8bGk+VG8gdGhlIEJ1cmVhdSBvZiBFeHBvcnQgQWRtaW5pc3RyYXRpb24uIFdlIGFyZSByZXF1aXJlZCBieSAgbGF3IHRvIGZ1cm5pc2ggYSByZXBvcnQgdG8gdGhlIFVuaXRlZCBTdGF0ZXMgQnVyZWF1IG9mIEV4cG9ydCBBZG1pbmlzdHJhdGlvbiAgc3RhdGluZyB0aGUgbmFtZXMgYW5kIGFkZHJlc3NlcyBvZiBhbGwgbm9uLVUuUy4gYnVzaW5lc3NlcyBvciBvcmdhbml6YXRpb25zICAoYnV0IG5vdCBpbmRpdmlkdWFsIGNvbnN1bWVycykgd2hvIHB1cmNoYXNlIG9ubGluZSBvciByZWdpc3RlciBhbnkgb2Ygb3VyICBzb2Z0d2FyZSB0aGF0IGNvbnRhaW5zIGFuIGVuY3J5cHRpb24gZmVhdHVyZS4gPC9saT4gCiAgICAgICAgICAgICAgICAgIDwvdWw+IAogICAgICAgICAgICAgICAgICA8cD5XZSBtYXkgc2VuZCBwcm9tb3Rpb25hbCBtZXNzYWdlcyBvbiBiZWhhbGYgb2Ygb3RoZXIgY29tcGFuaWVzLiBJZiB3ZSBkbyB0aGlzLCB3ZSB3aWxsICBub3QgcHJvdmlkZSB0aGVtIHdpdGggeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbi4gPC9wPiAKICAgICAgICAgICAgICAgICAgPHA+V2UgZG8gbm90IHNoYXJlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gd2l0aCB0aGlyZCBwYXJ0aWVzIHVuZGVyIG90aGVyICBjaXJjdW1zdGFuY2VzLiBJZiB3ZSBldmVyIHdpc2ggdG8gc2hhcmUgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiB3aXRoIHRoaXJkICBwYXJ0aWVzIHVuZGVyIG90aGVyIGNpcmN1bXN0YW5jZXMsIHdlIHdpbGwgZ2l2ZSB5b3UgYSBjaGFuY2UgdG8gb3B0IG91dCBiZWZvcmUgIHdlIGRvIHNvLiA8L3A+IAogICAgICAgICAgICAgICAgICA8cD5XZSBtYXkgc2hhcmUgbm9uLXBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGFnZ3JlZ2F0ZSBzdGF0aXN0aWNhbCBpbmZvcm1hdGlvbiBhYm91dCBvdXIgIHVzZXJzIHdpdGggdGhpcmQgcGFydGllcy4gPC9wPiAKICAgICAgICAgICAgICAgICAgPGEgbmFtZT0ic2VjdXJpdHkiPjwvYT4gCiAgICAgICAgICAgICAgICAgIDxoMj5TZWN1cml0eSA8L2gyPiAKICAgICAgICAgICAgICAgICAgPHA+WW91ciBjcmVkaXQgY2FyZCBpbmZvcm1hdGlvbiBpcyBlbmNyeXB0ZWQgYmVmb3JlIHRyYW5zbWlzc2lvbiBvdmVyIHRoZSBJbnRlcm5ldCAgdGhyb3VnaCB0aGUgdXNlIG9mIGEgc2VjdXJpdHkgcHJvdG9jb2wga25vd24gYXMgU2VjdXJlIFNvY2tldHMgTGF5ZXIgKFNTTCksIGFuZCAgd2UgaGF2ZSBzZWN1cml0eSBtZWFzdXJlcyBpbiBwbGFjZSB0byBwcm90ZWN0IHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gdGhhdCB3ZSAgbWFpbnRhaW4gaGVyZS4gPC9wPiAKICAgICAgICAgICAgICAgICAJPGEgbmFtZT0iY2hpbGRyZW5zIj48L2E+IAogICAgICAgICAgICAgICAgICA8aDI+Q2hpbGRyZW4ncyBPbmxpbmUgUHJpdmFjeSBQcm90ZWN0aW9uPC9oMj4gCiAgICAgICAgICAgICAgICAgIDxwPk5laXRoZXIgIG91ciB3ZWJzaXRlcyBub3Igb3VyIHByb2R1Y3RzIGFyZSBkZXNpZ25lZCBmb3Igb3IgZGlyZWN0ZWQgdG8gY2hpbGRyZW4gdW5kZXIgIHRoZSBhZ2Ugb2YgMTMsIGFuZCB3ZSB3aWxsIG5vdCBpbnRlbnRpb25hbGx5IG1haW50YWluIGluZm9ybWF0aW9uIGFib3V0IGFueW9uZSAgdW5kZXIgdGhlIGFnZSBvZiAxMy4gPC9wPiAKICAgICAgICAgICAgICAgICAgPHA+Q29udGFjdCBJbmZvcm1hdGlvbiA8YnIgLz4gCiAgICAgICAgICAgICAgICAgICAgSWYgeW91ICBoYXZlIGEgY29uY2VybiBhYm91dCB5b3VyIHByaXZhY3ksIHBsZWFzZSA8YSBocmVmPSIvQ29tcGFueS9Db250YWN0LmFzcHgiPmNvbnRhY3QgIHVzPC9hPi48L3A+CjwvZGl2Pgo8ZGl2IGlkPSJjb250ZW50X2JvdHRvbSI+PC9kaXY+IAo8L2Rpdj48ZGl2IHN0eWxlPSd2aXNpYmlsaXR5OmhpZGRlbjtkaXNwbGF5Om5vbmU7Jz4oZGIpPC9kaXY+ZAILD2QWAgIBD2QWAgItD2QWAgIDDw8WBB4ISW1hZ2VVcmwFDi9pbWFnZXMvZGUucG5nHg1BbHRlcm5hdGVUZXh0BQdEZXV0c2NoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFO2N0bDAwJGZvb3RlciR1Y0Zvb3RlckdlbmVyYWwkRm9vdGVyRXh0cmFzJGJ0blN3aXRjaExhbmd1YWdlGE13a+nQeMxeApGW85hfCcatfQA=">
 
-    <div id="container">
-        <div id="header">
-            <div id="logo"><a href="/Index.aspx"><img alt="" src="/images/ift_logo.png" title="Ipswitch File Transfer - We build software to securely move and store your most valuable data." style="border:0"></a></div>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKbwdncBAKJ+/eQDJPFeQ40zgGQrsTmt9XMHT0h1yOY">
+
+        
             
-    
-<div id="segments">
-    
-</div>    
-
             <!-- new temp nav -->
             
-  
-    <ul id="topnav">
- 
-        <li>
-        	<a href="/Products/Index.aspx" class="products"><div class="title">Products <span class="droparrow"><img src="/images/spacer.gif" border="0" style="border-width:0;width:14px;height:12px"></span></div></a>
-            <div class="shadow sub">
-        <p>   </p>
-       
-             <ul style="width: 180px">
-   				<h1>FTP Clients</h1>
-                <div class="productsBoxsm">
-                    <li><a href="/products/ws_ftp_pro/index.aspx?n=1">WS_FTP Professional</a></li> 
-                    </div>
-                    <div class="productsBoxsm">
-                    <li><a href="/products/fetch/index.aspx?n=1">Fetch for Mac</a></li> 
-			        </div>
-                    <div class="productsBox">
-                    <li><a href="/products/MOVEitEZ/index.aspx?n=1">MOVEit EZ</a></li> 
-			        </div>			        
-			 
-			    <h1 style="clear:both">On-demand File Transfer</h1>
- 
-                
-			    <div class="productsBox">
-             	<li><a href="/products/MOVEitDMZ/HostedServices.aspx?n=1">MOVEit DMZ Hosted Services</a></li> 
-                </div> 
-                
-          
-          </ul>
-          
-            
-             <ul style="width: 200px">
-			    <h1>Secure File Transfer Servers</h1>
-                <div class="productsBox">
-                 <li><a href="/products/WsFtpServer/index.aspx?n=1">WS_FTP Server</a>
- 
-                
-                </li></div>  				
-           
-                <div class="productsBox">
-                <li><a href="/products/WebTransferModule/index.aspx?n=1">WS_FTP Server Web Transfer Module</a>
- 
-                
-				</li></div>
-                
-                <div class="productsBox">
-                 <li><a href="/products/AdHocTransferModule/index.aspx?n=1">WS_FTP Server Ad Hoc Transfer Module</a></li> 
- 
-                 
-                </div>  
-          </ul>
-                
-     		<ul style="width: 235px">
-           	    <h1>Managed File Transfer Servers</h1> 
-           	    <h2>MOVEit</h2>
-                <div class="productsBoxsm">
-             	 <li><a href="/products/MOVEitDMZ/index.aspx?n=1">MOVEit DMZ</a></li> 
-                </div>
-                
-                <div class="productsBoxsm">
-            	 <li><a href="/products/MOVEitDMZ/AdHoc.aspx?n=1">MOVEIt DMZ Ad Hoc Transfer Module</a></li> 
-                </div>
-
-                <div class="productsBoxsm">
-            	  <li><a href="/products/MOVEitCentral/index.aspx?n=1">MOVEIt Central</a></li>            	   
-                </div>
-                
-           	<h2 style="clear:both">MessageWay</h2>                
-                <div class="productsBoxsm">
-             	 <li><a href="/products/MessageWayServer/index.aspx">MessageWay Server</a></li>      	             	
-                </div>
-                
- 				<div class="productsBoxsm">
-             	 <li><a href="/products/MessageWayTranslator/index.aspx?n=1">MessageWay Translator</a></li>           
-                </div>
-
-				<div class="productsBoxsm">
-             	 <li><a href="/products/ProjectServices/index.aspx?n=1">MessageWay Project Services</a></li> 
-                </div>   
-                
-       	 </ul>
-        
-       
-        
-        <ul></ul> <!-- do not delete this empty ul -->
- <!-- closing products sub--> 
-            </div>
-        </li>
-        <li>
-        	<a href="/Solutions/Index.aspx" class="solutions"><div class="title">Solutions <span class="droparrow"><img src="/images/spacer.gif" border="0" style="border-width:0;width:14px;height:12px"></span></div></a>
-            <div class="sub" style="max-width:400px">
-       <p></p>
-       <div class="row">
-            <ul>
-                 <h1>By Industry</h1> 
-                
-				<li><a href="/solutions/financialservices.aspx?n=1">Financial Services</a></li>
-				<li><a href="/solutions/healthcare.aspx?n=1">Healthcare</a></li>
-				<li><a href="/solutions/retail.aspx?n=1">Retail</a></li>
-				<li><a href="/solutions/government.aspx?n=1">Government</a></li>				
-          </ul>
-          <ul>
-                 <h1>By Delivery Options</h1>
-                 
-                 <li><a href="/products/moveitdmz/index.aspx?ns=1">On premises software</a></li>
-                 <li><a href="/products/MOVEitDMZ/HostedServices.aspx?ns=1">Hosted offering</a></li>
-                 <li><a href="/solutions/sendable.aspx?ns=1">Cloud-based SaaS</a></li>                 
-                 
-           </ul>
-                       
-          <ul style="clear:both">
-                 <h1>By Need</h1>
-                
-				<li><div style="width:300px"><a href="/products/ws_ftp_pro/index.aspx?ns=1">Transfer files to a server </a></div></li>
-				<li><div style="width:300px"><a href="/solutions/managecontrol.aspx?ns=1">Manage and secure file transfers</a></div></li>
-				<li><div style="width:300px"><a style="width:100%" href="/solutions/messageway.aspx?ns=1">Centralized MFT with governance and control</a></div></li>				
-          </ul>
-            </div>
-                  
-                
-            </div>
-        </li>
-        <li>
-        	<a href="/Company/About.aspx" class="company"><div class="title">Company <span class="droparrow"><img src="/images/spacer.gif" border="0" style="border-width:0;width:14px;height:12px"></span></div></a>
-   <div class="sub">
-            <ul>
-		<li><h3><a href="/company/whyipswitch.aspx?n=1">Why Ipswitch</a></h3></li>
-                <li><h3><a href="/company/management.aspx?n=1">Management Team</a></h3></li>
-                <li><h3><a href="/company/news.aspx?n=1">News and Events</a></h3></li>
-                <li><h3><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-company_ift_blog');" href="http://blog.ipswitchft.com/" target="_new">Blog</a></h3></li>
-                <li><h3><a href="/company/careers.aspx?n=1">Careers</a></h3></li>
-                <li><h3><a href="/company/privacy.aspx?n=1">Privacy</a></h3></li>
-                <li><h3><a href="/company/contact.aspx?n=1">Contact Us</a></h3></li>
-            </ul>
-        </div>
-        </li>
- 
-                
-         <li>
-        	<a href="/Resources/Index.aspx" class="resources"><div class="title">Resources <span class="droparrow"><img src="/images/spacer.gif" border="0" style="border-width:0;width:14px;height:12px"></span></div></a>
-            <div class="sub">
-                <ul>
-                    <li><h3><a href="/Resources/CaseStudies.aspx?n=1">Case Studies</a></h3></li>
-                    <li><h3><a href="/Resources/Index.aspx#2min">2 Minute Overviews</a></h3></li>
-                    <li><h3><a href="/Resources/Index.aspx#ebooks">eBooks</a></h3></li>
-                    <li><h3><a href="/Resources/Index.aspx#analystreports">Analyst Reports</a></h3></li>
-                    <li><h3><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-resources_ift_blog');" href="http://blog.ipswitchft.com/" target="_new">Blog</a></h3></li>             
-   				    <li><h3><a href="/Resources/Index.aspx#101">Videos</a></h3></li>
-                    <li><h3><a href="/Resources/Index.aspx#webinars">Webcasts</a></h3></li>
-                    <li><h3><a href="/Resources/Compliance.aspx?n=1">Compliance Matrices</a></h3></li>
-                    <li><h3><a href="/Resources/Index.aspx#whitepapers">Whitepapers</a></h3></li>
-                    
-                </ul>
-            </div>
-        </li>
-        <li>
-        	<a href="/Support/Index.aspx" class="support"><div class="title">Support <span class="droparrow"><img src="/images/spacer.gif" border="0" style="border-width:0;width:14px;height:12px"></span></div></a>
-    <div class="sub">
-            <ul style="width: 180px">
-                <li><h3><a href="/Support/MyIpswitch.aspx">MyIpswitch</a></h3></li>
-				<li><h3><a href="/Support/CustomerServiceCenter.aspx?n=1">Customer Service Center</a></h3></li>
-                <li><h3><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-support_myips_redl');" href="https://www.myipswitch.com/licensing/MyDownloadsNotLoggedIn.aspx" target="_new">Redownload a lost product</a></h3></li>
-                <li><h3><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-support_myips_renew');" href="https://www.myipswitch.com/licensing/Buy.aspx" target="_new">Renew My Support</a></h3></li>
-                <li><h3><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-support_kb');" href="http://ipswitchft.custhelp.com/app/answers/list/srchopen/true.php/p/82/r_id/166/search/1" target="_new">Knowledge Base</a></h3></li>
-                <li><h3><a href="/Support/Index.aspx?n=1">Product Support</a></h3></li>
-                <li><h3><a href="/Company/Contact.aspx?n=1">Contact Support</a></h3></li>
-            </ul>
-        </div>
-        </li>
-        <li>
-        	<a href="/Partners/Index.aspx" class="partners"><div class="title">Partners <span class="droparrow"><img src="/images/spacer.gif" border="0" style="border-width:0;width:14px;height:12px"></span></div></a>
-            <div class="sub">
-            	<div class="row">
-                                <ul>
-                <li><h3><a href="/Partners/index.aspx?n=1">Overview</a></h3></li>                                
-                <li><h3><a href="/Partners/Locator.aspx?n=1">Find a Partner</a></h3></li>
-                <li><h3><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-partners_apply');" href="http://partners.ipswitchft.com/index.php?fuseaction=partner-app.apply" target="_new">Become a Partner</a></h3></li>
-                <li><h3><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-partners_login');" href="http://partners.ipswitchft.com/" target="_new">Partner Login</a></h3></li>
-            </ul>
-                </div>
-            </div>
-        </li>        
-        <li>
-        	<a href="/Store/index.aspx?n=1" class="store" style="cursor: hand;"><div class="title">Store</div></a>          
-        </li>        
-    </ul>
-    
- 
-            
-
 <script type="text/javascript" src="http://www.google.com/jsapi"></script>
 <script type="text/javascript">
   google.load('search', '1');
@@ -328,63 +80,245 @@ $(function() {
       '003769288330040400578:ay2b5qdkrly',
       document.getElementById('q'),
       'cse-search-box');
-  });
+});
+  
+  
 </script>
-
-  <div id="cse-search-box">
  
-     <input id="q" type="text" size="30" style="border: 1px solid rgb(126, 157, 185); padding: 2px; font-size: 75%; border-radius: 3px; background: rgb(255, 255, 255);" onkeydown="searchkeydown();">
-    <a class="switcher" onclick="googlesearch();return false;" style="border:1px solid #eee;padding:2px;cursor:pointer;font-size:75%;border-radius:3px">go</a>
-  </div>
- 
-<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>
 
 
 <script type="text/javascript">
-     window.onload = function() {
-             var f = document.getElementById('cse-search-box');
-            if (f) {
-                var q = document.getElementById('q');
-                var n = navigator;
-                var l = location;
-                if (n.platform == 'Win32') {
-                    q.style.cssText = 'border: 1px solid #7e9db9; padding: 2px;font-size:75%;border-radius:3px';
+    window.onload = function() {
+        var f = document.getElementById('cse-search-box');
+        if (f) {
+            var q = document.getElementById('q');
+            var n = navigator;
+            var l = location;
+            if (n.platform == 'Win32') {
+                q.style.cssText = 'border: 1px solid #7e9db9; font-size:.95em;padding: 2px;border-radius:3px';
+            }
+            var b = function() {
+                if (q.value == '') {
+                    q.style.background = '#FFFFFF';
                 }
-                var b = function() {
-                    if (q.value == '') {
-                        q.style.background = '#FFFFFF';
-                    }
-                };
-                var f = function() {
-                    q.style.background = '#ffffff';
-                };
-                q.onfocus = f;
-                q.onblur = b;
-                if (!/[&?]q=[^&]/.test(l.search)) {
-                    b();
-                }
+            };
+            var f = function() {
+                q.style.background = '#ffffff';
+            };
+            q.onfocus = f;
+            q.onblur = b;
+            if (!/[&?]q=[^&]/.test(l.search)) {
+                b();
             }
         }
-        searchkeydown = function() {
-            if (window.event) {
-                key = window.event.keyCode;     //IE
-            }
-            else {
-                key = e.which;     //firefox
-            }
-            if (key == 13) {
-                event.returnValue = false;
-                event.cancel = true;
-                googlesearch();
-            }
+    }
+    searchkeydown = function() {
+        if (window.event) {
+            key = event.keyCode;     //IE
         }
-    
-        googlesearch = function() {
-        document.location.href='http://www2.ipswitchft.com/s/2062/558c79d7e5359529750751ef593895a2?q=' + escape(document.getElementById('q').value) + '&cof=FORID:9&ie=UTF-8&cx=003769288330040400578:ay2b5qdkrly' + '&sa=Search';
+        else {
+            key = e.which;     //firefox
         }
-    </script>
+        if (key == 13) {
+            event.returnValue = false;
+            event.cancel = true;
+            googlesearch();
+        }
+    }
+
+    googlesearch = function() {
+        document.location.href = 'http://www2.ipswitchft.com/s/2062/558c79d7e5359529750751ef593895a2?q=' + escape(document.getElementById('q').value) + '&cof=FORID:9&ie=UTF-8&cx=003769288330040400578:ay2b5qdkrly' + '&sa=Search';
+    }
+    </script>	
+
+<div id="header" class="container"> 
+	<div id="logo" class="span-15">
+		<a href="/Index.aspx"><img alt="" src="/images/ample/ipswitchft_logo.png" title="Ipswitch File Transfer - Enterprise Application Integration and Managed File Transfer Solutions" border="0"></a>
+		<h2>Enterprise Application Integration and Managed File Transfer Solutions</h2>
+	</div> 
+ 	<div class="prepend-1 span-8 last rj">
+		<ul class="drop">
+			<li class="drop"><a href="#"><span>I need a...</span></a>
+				<div class="sub">
+					<ul>
+						<li><a onclick="javascript: pageTracker._trackEvent('iNeed', 'Click', 'pro');" href="/products/ws_ftp_pro/index.aspx?ns=dd">Simple Way to Transfer Files to a Server</a></li>
+						<li><a onclick="javascript: pageTracker._trackEvent('iNeed', 'Click', 'server');" href="/products/WsFtpServer/index.aspx?ns=dd">Secure File Transfer Server </a></li>
+						<li><a onclick="javascript: pageTracker._trackEvent('iNeed', 'Click', 'moveit');" href="/solutions/managecontrol.aspx?ns=dd">Managed File Transfer Solution</a></li>
+						<li><a onclick="javascript: pageTracker._trackEvent('iNeed', 'Click', 'messageway');" href="/solutions/messageway.aspx?ns=dd">Centralized MFT Solution with Governance</a></li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+		<p><img src="/images/smooth-icons/touch_phone20.png" style="margin-bottom:-4px"> <strong><a href="/Company/Contact.aspx?n=h">Contact Sales</a></strong> <!-- |  <a href='http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=2161867&amp;lang=en&amp;form_id=68266'  target='kampyleWindow' id='kampylink' onclick="javascript:k_button.open_ff('site_code=2161867&amp;lang=en&amp;form_id=68266');return false;pageTracker._trackEvent('KampyleFeedback', 'Click', 'toplink');">Feedback</a> --> </p>
+ 	</div>
+</div> 
+
+<div id="nav">
+	<div class="container clearfix">
+		<div id="search" class="right">
+			<input type="text" placeholder="Search" class="text" style="max-height:10px" id="q" onkeydown="searchkeydown();">
+<a class="switcher" onclick="googlesearch();return false;" style="background:#fefefe;border:1px solid #eee;padding:2px;cursor:pointer;font-size:.95em;border-radius:3px">Search</a>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>
+	
+		</div>
+		<ul>
+			<li class=" products"><a href="/Products/Index.aspx?n=1">Products and Solutions </a>
+				<div class="sub span-18 last">
+					<div class="carrot"></div>
+					<div class="span-7 div">
+						<h2 class="tk-myriad-pro">Products</h2>
+
+						<ul>
+							<li><a href="/Products/WS_Ftp_Pro/Index.aspx?ps=1"><strong>WS_FTP Professional Client</strong></a></li>
+							<li><a href="/Products/WsFtpServer/Index.aspx?ps=1"><strong>WS_FTP Secure File Transfer Servers</strong></a>
+                             <br> - <a href="/Products/AdHocTransferModule/Index.aspx?ps=1">Ad Hoc Transfer module</a>
+                             <br> - <a href="/Products/WebTransferModule/Index.aspx?ps=1">Web Transfer module</a>
+                            </li>
+							<li><a href="/Products/MOVEitCentral/Index.aspx?ps=1"><strong>MOVEit Central</strong></a></li>
+							<li><a href="/Products/MOVEitDMZ/Index.aspx?ps=1"><strong>MOVEit DMZ</strong></a>
+                             <br> - <a href="/Products/MOVEitDMZ/AdHoc.aspx?ps=1">Ad Hoc Transfer module</a>
+                            </li>
+
+							<li><a href="/Solutions/Messageway.aspx?ps=1"><strong>MessageWay</strong></a>  
+                             <br> - <a href="/Products/ONEview/Index.aspx?ps=1">ONEview</a>                            
+                             <br> - <a href="/Products/MessageWayTranslator/Index.aspx?ps=1">Translator</a>
+                            </li>
+							 
+							
+							
+
+						</ul>
+
+						 
+					</div>
+					<div class="span-11 last">
+						<div class="clearfix">
+							<div class="span-7 div">
+								<h2 class="tk-myriad-pro">Solutions</h2>
+								<ul>
+									 <li><a href="/solutions/messageway.aspx?ps=2">Consolidate &amp; Integrate MFT, B2B, EDI</a></li>
+           	                        <li><a href="/solutions/managecontrol.aspx?ps=1">Managed File Transfer &amp; Workflow</a></li>
+          	                        <li><a href="/products/wsftpserver/index.aspx?ps=1">Secure Guaranteed File Transfer</a></li>
+                                    <li><a href="/products/ws_ftp_pro/index.aspx?ps=1">Simple File Transfer to a Server</a></li>
+								</ul>
+							</div>
+							<div class="span-4 last">
+								<h2 class="tk-myriad-pro">Industry</h2>
+								<ul>
+           	                       <li><a href="/solutions/financialservices.aspx?ps=1">Financial Services</a></li>
+           	                       <li><a href="/solutions/government.aspx?ps=1">Government</a></li>
+          	                       <li><a href="/solutions/healthcare.aspx?ps=1">Healthcare</a></li>
+                                   <li><a href="/solutions/retail.aspx?ps=1">Retail</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="promo clear">
+							<img src="http://www.ipswitchft.com/images/smooth-icons/arrow_left.png" style="float:left;margin-top:-10px;margin-right:10px" border="0">
+							<h3><a href="http://www.ipswitchft.com/moveit/demos.aspx" onclick="javascript: pageTracker._trackEvent('Moveit Demos', 'Click', 'CTA-main-nav');" style="text-decoration:underline">Register for a live demo</a></h3>
+							  of our MOVEit managed file transfer solutions 
+							
+							
+							
+						</div>
+					</div>
+				</div>
+			</li>
+			<li class=" company active"><a href="/Company/About.aspx?n=1">Company</a>
+				<div class="sub span-10 last">
+					<div class="padding span-10 last clearfix">
+						<div class="carrot"></div>
+						<div class="span-5 div">
+							<h2 class="tk-myriad-pro">Get in Touch</h2>
+							<ul>
+				                 <li><a href="/company/news.aspx?n=1">News</a></li>
+                                 <li><a href="/company/events.aspx?n=1">Upcoming Events</a></li>
+                                 <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-company_rss');" href="http://feeds.feedburner.com/IpswitchFileTransfer">RSS Feed</a></li>                
+                                 <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-company_ift_blog');" href="http://blog.ipswitchft.com/" target="_new">Blog</a></li>
+                                 <li><a href="/company/contact.aspx?n=1">Contact Sales
+                </a></li>
+                                 <li><a href="/company/contact.aspx?n=1&amp;section=1">Contact Support</a></li>
+							</ul>
+						</div>
+						<div class="span-4 last">
+							<h2 class="tk-myriad-pro">About Ipswitch</h2>
+							<ul>
+			                     <li><a href="/company/whyipswitch.aspx?n=1">Why Ipswitch</a></li>
+                                 <li><a href="/company/management.aspx?n=1">Management Team</a></li>
+                                 <li><a href="/company/careers.aspx?n=1">Careers</a></li>
+                                 <li><a href="/company/privacy.aspx?n=1">Privacy</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="reverse clearfix">
+						<ul>
+							<li class="rss"><a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/nav-company-rss');" href="http://feeds.feedburner.com/IpswitchFileTransfer">RSS Feed</a></li>
+							<li class="youtube"><a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/nav-company-youtube');" href="http://www.youtube.com/ipswitchft">Youtube</a></li>
+							<li class="facebook"><a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/nav-company-facebook');" href="http://www.facebook.com/ipswitchwsftp">Facebook</a></li>
+							<li class="twitter"><a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/nav-company-twitter');" href="http://www.twitter.com/ipswitchft">Twitter</a></li>
+							<li class="linkedin"><a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/nav-company-linkedin');" href="http://www.linkedin.com/company/ipswitch-file-transfer">LinkedIn</a></li>
+						</ul>
+						Follow Us:
+					</div>
+				</div>				
+			</li>
+			<li class=" support"><a href="/Support/Index.aspx?n=1">Support </a>
+				<div class="sub span-4 last">
+					<div class="carrot"></div>
+						<ul>
+                <li class="titlelink"><a class="mainlink" onclick="javascript: pageTracker._trackPageview('/outgoing/nav-support_kb');" href="http://ipswitchft.force.com/kb/knowledgeHome" target="_new">Knowledge Base</a></li>
+                              
+                 <li class="titlelink"><a class="mainlink" href="/Support/WsFtpPro/Index.aspx?n=1">WS_FTP Professional</a></li>    
+                <li class="titlelink"><a class="mainlink" href="/Support/WsFtpServer/Index.aspx?n=1">WS_FTP Server</a></li>                                   <li class="titlelink"><a class="mainlink" href="/Support/MOVEit/Index.aspx?n=1">MOVEit Products</a></li>    
+                <li class="titlelink"><a class="mainlink" href="/Support/Hosted/Index.aspx?n=1">Hosted</a></li>                       
+                <li class="titlelink"><a class="mainlink" href="/Support/Messageway/Index.aspx?n=1">Messageway</a></li>                      
+                <li class="titlelink"><a class="mainlink" href="/Company/Contact.aspx?n=1">Sales</a></li>       
+						</ul>
+		 
+				</div>
+			</li>
+			<li class=" resources"><a href="/Resources/Index.aspx?n=1">Resources</a>
+				<div class="sub span-9 last">
+					<div class="carrot"></div>
+					<div class="span-5 div">
+						<h2 class="tk-myriad-pro">Read</h2>
+						<ul>
+                            <li><a href="/Resources/CustomerStories.aspx?n=1">Customer Success Stories</a></li>  
+                            <li><a href="/Resources/Index.aspx#whitepapers">Whitepapers</a></li> 
+                            <li><a href="/Resources/Index.aspx#analystreports">Analyst Reports</a></li>
+                            <li><a href="/Resources/Index.aspx#ebooks">eBooks</a></li>
+                            <li><a href="/Resources/Compliance.aspx?n=1">Compliance Matrices</a></li>
+						</ul>
+					</div>
+					<div class="span-4 last">
+						<h2 class="tk-myriad-pro">Watch &amp; Interact</h2>
+						<ul>
+   				            <li><a href="/Resources/Index.aspx#101">Videos</a></li>
+                            <li><a href="/Resources/Index.aspx#2min">2 Minute Overviews</a></li>
+					        
+                            <li><a href="/Resources/Webcasts.aspx?n=1">On Demand Webcasts</a></li>
+                            <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-resources_ift_blog');" href="http://blog.ipswitchft.com/" target="_new">Blog</a></li>    
+						</ul>
+					</div>
+				</div>				
+			</li>
+			<li class=" partners"><a href="/Partners/Index.aspx?n=1">Partners</a>
+				<div class="sub span-3 last">
+					<div class="carrot"></div>
+					<ul>
+                        <li><a href="/Partners/Index.aspx?n=1">Overview</a></li>                                
+                        <li><a href="/Partners/Locator.aspx?n=1">Find a Partner</a></li>
+                        <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-partners_apply');" href="http://partners.ipswitchft.com/index.php?fuseaction=partner-app.apply" target="_new">Become a Partner</a></li>
+                        <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/nav-partners_login');" href="http://partners.ipswitchft.com/" target="_new">Partner Login</a></li>
+					</ul>
+				</div>				
+			</li>
+			<li class=" store"><a href="/Store/Index.aspx?n=1">Store</a></li>
+		</ul>
+	</div>
+</div> 
             
-        </div>
+    <div id="container">            
+       
         
     
 
@@ -409,8 +343,8 @@ $(function() {
             <li><a href="/Company/Contact.aspx">Contact Us</a></li>            
             <li><a href="/Company/SocialMedia.aspx"><img src="/images/icn_social.gif">Social Media</a></li>            
             <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/sidenav_twitter');" href="http://www.twitter.com/ipswitchft"><img src="/images/icn_twitter.gif">Twitter</a></li>
-            <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/sidenav_facebook');" href="http://www.facebook.com/pages/Ipswitch-WS_FTP/106965904924"><img src="/images/icn_facebook.gif">Facebook</a></li>
-            <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/sidenav_linkedin');" href="http://www.linkedin.com/in/ipswitchfiletransfer"><img src="/images/icn_linkedin.gif">Linkedin</a></li>            
+            <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/sidenav_facebook');" href="http://www.facebook.com/ipswitchwsftp"><img src="/images/icn_facebook.gif">Facebook</a></li>
+            <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/sidenav_linkedin');" href="http://www.linkedin.com/company/ipswitch-file-transfer"><img src="/images/icn_linkedin.gif">Linkedin</a></li>            
             <li><a onclick="javascript: pageTracker._trackPageview('/outgoing/sidenav_youtube');" href="http://www.youtube.com/ipswitchft"><img src="/images/icn_youtube.gif">YouTube</a></li>
             <li><a href="/Company/Privacy.aspx">Privacy</a></li>
             <li id="last_item"><a href="/Company/Copyright.aspx">Copyright</a></li>
@@ -481,70 +415,72 @@ $(function() {
     <!-- closes containter div -->
     
     
+
 <div class="footer">
+  <div>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css">
+    <a style="bottom:0px !important" href="http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=2161867&amp;lang=en&amp;form_id=68266" target="kampyleWindow" id="kampylink" class="k_float k_bottom_sl k_right" onclick="javascript:k_button.open_ff('site_code=2161867&amp;lang=en&amp;form_id=68266');return false;pageTracker._trackEvent('KampyleFeedback', 'Click', 'bottomright');"><img src="/images/feedback_tab.png" alt="Feedback Form" border="0"></a></div>    
     <div class="footerBg">
         <div class="container" id="footerText">
-            <div class="span-2">
-                <p> <span class="footerHeadline">About Ipswitch FT</span><br>
+            <div style="float: left;margin-right: 100px;">
+                <p> <span class="footerHeadline">About Ipswitch</span><br>
                     <a href="/Company/About.aspx">About</a><br>
                     <a href="/Company/Management.aspx">Management</a><br>
                     <a href="/Company/News.aspx">News</a><br>
                     <a href="/Company/Privacy.aspx">Privacy Policy</a><br>
                     <a href="/Company/Careers.aspx">Careers</a><br>
+                   
                 </p>
             </div>
-            <div class="span-2">
+            <div style="float: left;margin-right: 100px;">
                 <p><span class="footerHeadline">Help &amp; Info</span><br>
-                <a onclick="javascript: pageTracker._trackEvent('ContactUs', 'Click', 'FooterGeneral');" href="/company/contact.aspx">Contact Us</a><br>
-                    <a href="/Support/">Support</a><br>
-                    <a onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_kb');" href="http://ipswitchft.custhelp.com">Knowledge Base</a><br>
+                <a target="_new" onclick="javascript: pageTracker._trackEvent('ContactUs', 'Click', 'FooterGeneral');" href="/company/contact.aspx">Contact Us</a><br>
+                    <a target="_new" href="/Support/">Support</a><br>
+                    <a onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_kb');" href="http://ipswitchft.force.com/kb/knowledgeHome">Knowledge Base</a><br>
+                    <a onclick="javascript: pageTracker._trackEvent('MailPref', 'Click', 'FooterGeneral');" href="/tools/unsubscribe.aspx?k_id=footemailpref">Email Preferences</a><br>     
+
             </p></div>
-            <div class="span-2">
+            <div style="float: left;margin-right: 100px;">
                 <p><span class="footerHeadline">Partners &amp; Resellers</span><br>
                     <a href="/Partners/Locator.aspx">Partner Locator</a><br>
-                    <a onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_partnerlogin');" href="http://partners.ipswitchft.com/">Partner Login</a><br>
-                    <a onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_becomepartner');" href="http://partners.ipswitchft.com/index.php?fuseaction=partner-app.apply" target="_blank">Become a Partner</a><br>
-                    <a href="/Partners/GSAResellers.aspx">US Government / GSA Resellers</a><br>
+                    <a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_partnerlogin');" href="http://partners.ipswitchft.com/">Partner Login</a><br>
+                    <a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_becomepartner');" href="http://partners.ipswitchft.com/index.php?fuseaction=partner-app.apply">Become a Partner</a><br>
+                    <a href="/Partners/GSAResellers.aspx">US Government / GSA Resellers  </a><br>
             </p></div>
-            <div class="span-2">
+            <div style="float: left;margin-right: 100px;">
                 <p><span class="footerHeadline">Social Sites and Blogs</span><br>
-<img align="absmiddle" src="/images/icn_wordpress.png" valign="middle" class="footerIcon" alt="Blog">  <a onclick="javascript: pageTracker._trackPageview('/outgoing/ift_blog');" href="http://blog.ipswitchft.com">Blog</a><br>
-                  <img align="absmiddle" src="/images/icn_twitter.png" valign="middle" class="footerIcon" alt="twitter">  <a onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_twitter');" href="http://www.twitter.com/ipswitchft">Twitter</a><br>
-                  <img align="absmiddle" src="/images/icn_linkedin.png" valign="middle" class="footerIcon" alt="LinkedIn">  <a onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_linkedin');" href="http://www.linkedin.com/groups?gid=151362">LinkedIn</a><br>
-                  <img align="absmiddle" src="/images/icn_facebook.png" valign="middle" class="footerIcon" alt="Facebook">  <a onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_facebook');" href="http://www.facebook.com/pages/Ipswitch-WS_FTP/106965904924">Facebook</a><br>
-                  <img align="absmiddle" src="/images/icn_youtube.png" valign="middle" class="footerIcon" alt="Youtube">  <a onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_youtube');" href="http://www.youtube.com/ipswitchft">YouTube</a><br>                  
-                  <img align="absmiddle" src="/images/icn_planet.png" valign="middle" class="footerIcon" alt="Filetransferplanet.com">  <a onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_planet');" href="http://www.filetransferplanet.com">FileTransferPlanet.com</a> </p>
+<img align="absmiddle" src="/images/icn_wordpress.png" valign="middle" class="footerIcon" alt="Blog">  <a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/ift_blog');" href="http://blog.ipswitchft.com"> Blog</a><br>
+                  <img align="absmiddle" src="/images/icn_twitter.png" valign="middle" class="footerIcon" alt="twitter">  <a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_twitter');" href="http://www.twitter.com/ipswitchft"> Twitter</a><br>
+                  <img align="absmiddle" src="/images/icn_linkedin.png" valign="middle" class="footerIcon" alt="LinkedIn">  <a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_linkedin');" href="http://www.linkedin.com/company/ipswitch-file-transfer"> LinkedIn</a><br>
+                  <img align="absmiddle" src="/images/icn_facebook.png" valign="middle" class="footerIcon" alt="Facebook">  <a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_facebook');" href="https://www.facebook.com/ipswitchwsftp"> Facebook</a><br>
+                  <img align="absmiddle" src="/images/icn_youtube.png" valign="middle" class="footerIcon" alt="Youtube">  <a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_youtube');" href="http://www.youtube.com/ipswitchft"> YouTube</a><br>                  
+                  <img align="absmiddle" src="/images/icn_planet.png" valign="middle" class="footerIcon" alt="Filetransferplanet.com">  <a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/gen_footer_planet');" href="http://www.filetransferplanet.com">FileTransferPlanet.com</a> </p>
+
+
             </div>
         </div>
     </div>   
- 
-    
+
+</div>
+
 <script language="javascript" type="text/javascript">
 var d = new Date();
 var currYear = d.getFullYear();
 </script>
-<div id="footer_bottom_container" style="background:#111;border-top:1px solid #333;height:100px;padding:30px;">         
+
+<div id="footer_bottom_container" style="background:#111;border-top:1px solid #333;height:40px;padding:30px;">         
+
     <div id="footer_bottom" style="width:980px;margin:auto;">
         <div id="copy_right" style="float:right;">
-        Copyright © Ipswitch File Transfer, <script language="javascript" type="text/javascript">document.write(currYear);</script>2020 All rights reserved. <a onclick="javascript: pageTracker._trackPageview('/outgoing/extra_footer_deutsch');" href="http://de.wsftp.com" title="Deutsch"><img src="/images/de.png" alt="Deutsch" border="0"></a><br>
+        Copyright © Ipswitch File Transfer, <script language="javascript" type="text/javascript">document.write(currYear);</script>2020 All Rights Reserved.  <input type="image" name="ctl00$footer$ucFooterGeneral$FooterExtras$btnSwitchLanguage" id="ctl00_footer_ucFooterGeneral_FooterExtras_btnSwitchLanguage" src="/images/de.png" alt="Deutsch" border="0"><br>
         <p style="text-align:right">
 
         </p>
         </div>
-        <div id="browsers">
-            <h3>Protect yourself and others!</h3>
-            <p>Download the current version of your favorite <a target="_new" onclick="javascript: pageTracker._trackPageview('/outgoing/extra_footer_whatbrowser');" href="http://www.whatbrowser.org/">browser</a>.</p>
-            <a onclick="javascript: pageTracker._trackPageview('/outgoing/extra_footer_firefox');" href="http://www.mozilla.com/en-US/firefox/firefox.html?from=getfirefox" target="_blank"><img border="0" src="/images/icn_firefox.png" style="padding-right:10px;"></a>
-            <a onclick="javascript: pageTracker._trackPageview('/outgoing/extra_footer_ie');" href="http://www.microsoft.com/windows/internet-explorer/" target="_blank"><img border="0" src="/images/icn_ie.png" style="padding-right:10px;"></a>
-            <a onclick="javascript: pageTracker._trackPageview('/outgoing/extra_footer_chrome');" href="http://www.google.com/chrome" target="_blank"><img border="0" src="/images/icn_chrome.png" style="padding-right:10px;"></a>
-            <a onclick="javascript: pageTracker._trackPageview('/outgoing/extra_footer_safari');" href="http://www.apple.com/safari/download/" target="_blank"><img border="0" src="/images/icn_safari.png" style="padding-right:10px;"></a>
-        </div>
-    </div>
-</div>
- 
- 
-</div>
 
+    </div>
+
+</div>
 
     </form>
     <!--Google Analytics-->
@@ -574,23 +510,17 @@ var currYear = d.getFullYear();
 	</script>
 	<!--//Pardot Tracking Code-->
 		
-        <!-- Start of HubSpot Logging Code  -->
-        <script type="text/javascript" language="javascript">
-        var hs_portalid=41217; 
-        var hs_salog_version = "2.00";
-        var hs_ppa = "ipswitchft.demo.hubspot.com"
-        document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ipswitchft.demo.hubspot.com/salog.js.aspx" type="text/javascript"></script>
-    <!-- End of HubSpot Logging Code -->
+         
 
     <!-- CrazyEgg -->
-<script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0172.js"> </script> 
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0172.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
     <!-- //CrazyEgg -->
 
-<!--Start Foresee Trigger -->
-<script type="text/javascript" src="/foresee/foresee-trigger.js"></script> 
-<!--End Foresee Trigger -->
- 
 
     
 <!-- SiteCatalyst code version: H.13. Copyright 1997-2007 Omniture, Inc. More info available at http://www.omniture.com -->
@@ -627,22 +557,31 @@ var s_code=s.t();if(s_code)document.write(s_code)//-->
 
 
 <script type="text/javascript">
-var _sf_async_config={uid:5683,domain:"ipswitchft.com"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
+    var _sf_async_config = { uid: 5683, domain: "ipswitchft.com" };
+    (function() {
+        function loadChartbeat() {
+            window._sf_endpt = (new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src',
        (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
        "static.chartbeat.com/js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
      loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
+    })();
 
 </script>
+<!--Start Kampyle Feedback Form Button-->
+
+<div id="k_close_button" class="k_float kc_bottom_sl kc_right"></div>
+ 
+<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+<script src="http://cf.kampyle.com/k_push.js" type="text/javascript"></script>
+<!--End Kampyle Feedback Form Button--> 
+ 
+
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
