@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryofezines.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621061838id_/http%3A//www.directoryofezines.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryofezines.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216212116id_/http%3A//www.directoryofezines.com/privacy.html) for the most accurate reproduction.*
 
 # Directory of Ezines Privacy Policy
 
