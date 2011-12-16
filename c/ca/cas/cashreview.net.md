@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashreview.net privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614132528id_/http%3A//www.cashreview.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashreview.net privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216134353id_/http%3A//www.cashreview.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CashReview.net
 
@@ -12,11 +12,11 @@ I will not be putting up spammy-ass Adsense on this site, so you don’t have to
 
 Collection of Personal Information:
 
-When visiting CashReview.net, the IP address used to access the site will be logged along with the dates and times of access.  This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use.
+When visiting CashReview.net or any of my [Internet marketing coaching](http://www.cashreview.net/internet-marketing-coaching/) or product [review](http://www.cashreview.net/review/ "Review") posts, the IP address used to access the site will be logged along with the dates and times of access.  This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use.
 
-Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+Most importantly, any recorded IP addresses are not linked to personally identifiable information. I do have a hover pop and a multiple opt-in forms throughout the site.  Your information is 100% safe and secure and will never be rented, shared, sold or compromised in any other way.
 
-I do have a hover pop and a multiple opt-in forms throughout the site.  Your information is 100% safe and secure and will never be rented, shared, sold or compromised in any other way.  This is something I take very serious.  SPAM sucks and I would never contribute to the “shadeball” marketing movement.
+This is something I take very serious.  SPAM sucks and I would never contribute to the “shadeball” marketing movement.
 
 Links to Third Party Websites:
 
@@ -24,10 +24,8 @@ I’ve included links on this site for your use and reference.  I’m not respo
 
 Changes to This Privacy Statement:
 
-The contents of this statement may be altered at any time, at my totally powerful discretion.
-
-If you have any questions regarding the privacy policy of CashReview.net, then you may contact me by clicking on the “Contact” tab (go figure, right?) in the upper right hand corner of any page.
+The contents of this statement may be altered at any time, at my totally powerful discretion. If you have any questions regarding the privacy policy of **CashReview.net** , then you may contact me by clicking on the “Contact” tab (go figure, right?) in the upper right hand corner of any page.
 
 Be safe out there.
 
-B
+Brad Campbell
