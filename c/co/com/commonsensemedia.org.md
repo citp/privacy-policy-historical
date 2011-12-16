@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624074743id_/http%3A//www.commonsensemedia.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216054504id_/http%3A//www.commonsensemedia.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Common Sense Media
 
@@ -112,7 +112,7 @@ Except as expressly provided in this policy, we will never share any personally 
 
 Profile Information. Each Member has a user profile on the Site, which includes the Member’s user name and links to the Member’s reviews and comments. Members may choose to identify their city and state of residence, as well as the number and age of their children. Members may also choose to include other information about themselves in fields such as “What My Kids Love Now,” “Our House Rules,” “When the Kids are Asleep” and “My Biggest Challenge Is.” You also may choose to upload a photograph to your profile, which would displayed with your profile and reviews on the Site. Keep in mind that any information contained in your profile is available to other Members and users of the Site. You can change or remove any information from your profile by logging into the Site and using the “edit profile” function.
 
-Your Posted Reviews. If you post reviews, comments or ratings on our Site, their content may be displayed on our Site along with your screen name (unless you choose to remain anonymous) and other demographic information that you provided in your profile (i.e., city and state and, if 17 or younger, age). If you decide that would like your review deleted from our website, please send us an email at [privacy@commonsensemedia.org](mailto:privacy@commonsensemedia.org) with your screen name, date of submitted review and title of media type that was reviewed. We will notify you when your review has been deleted from our website. You do not need to be a registered member to read these user reviews.
+Your Posted Reviews. If you post reviews, comments or ratings on our Site, their content may be displayed on our Site along with your screen name (unless you choose to remain anonymous) and other demographic information that you provided in your profile (i.e., city and state and, if 17 or younger, age). If you decide that would like your review deleted from our website, please send us an email at [privacypolicy@commonsensemedia.org](mailto:privacypolicy@commonsensemedia.org) with your screen name, date of submitted review and title of media type that was reviewed. We will notify you when your review has been deleted from our website. You do not need to be a registered member to read these user reviews.
 
 Third Party Service Providers. We work with third parties who provide services such as data analysis, payment or donation processing, order fulfillment, infrastructure provision, IT services, email delivery services, market research, and other similar services. We may share PII about you with third parties solely for the purpose of enabling these third parties to provide these services. These service providers are given access to PII needed to perform their functions, but are restricted from using the PII for purposes other than providing services for us.
 
@@ -162,7 +162,7 @@ We do not disclose any Personally Identifiable Information collected from childr
 
 **D. How May Parents Raise Questions or Concerns?**
 
-If a parent has any questions or concerns about his or her child’s participation in the Site, the parent is encouraged to contact us at [privacy@commonsensemedia.org](mailto:privacy@commonsensemedia.org), or write to us at the address provided below.
+If a parent has any questions or concerns about his or her child’s participation in the Site, the parent is encouraged to contact us at [privacypolicy@commonsensemedia.org](mailto:privacypolicy@commonsensemedia.org), or write to us at the address provided below.
 
 **V. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION**
 
