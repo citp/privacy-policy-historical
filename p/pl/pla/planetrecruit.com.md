@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616200926id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrecruit.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216125015id_/http%3A//www.planetrecruit.com/static.cgi%3Fm%3Dprivacy) for the most accurate reproduction.*
 
 # IT jobs, Telecom jobs and Engineering jobs in London & the UK - PlanetRecruit
 
@@ -54,10 +54,19 @@ We do not disclose information about your individual visits to the PlanetRecruit
 ### Other ways of ensuring your privacy:
 
   * You may amend your personal details at any time or if you wish. These options are available from the "My Profile" page of our website.
-  * You may unsubscribe from any employment or promotional information that we may send to you by using the unsubscribe function at the bottom of the email.
+  * You may unsubscribe from any employment or promotional information that we may send to you by in any of the following ways: 
+    * Using the unsubscribe function at the bottom of the email
+    * Amending your account details in "My Profile" page of our website
+    * Contacting us on: 0845 468 0568
 
 
 
 ### Contact PlanetRecruit
 
-If you have any questions, concerns or comments regarding PlanetRecruit or this website, please contact us: PlanetRecruit, Trinity Mirror Digital Recruitment Ltd, One Canada Square, Canary Wharf, London, E14 5AP.
+If you have any questions, concerns or comments regarding PlanetRecruit or this website, please contact us:
+
+  * PlanetRecruit, Trinity Mirror Digital Recruitment Ltd, One Canada Square, Canary Wharf, London, E14 5AP.
+  * Email: [customerservices@tmdr.com](mailto:customerservices@tmdr.com)
+  * Tel: 0845 468 0568
+
+
