@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publictechnology.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621043117id_/http%3A//www.publictechnology.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publictechnology.net privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216212656id_/http%3A//www.publictechnology.net/privacy) for the most accurate reproduction.*
 
 # Privacy policy | PublicTechnology.net
 
