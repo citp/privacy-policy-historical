@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the struq.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520110626id_/http%3A//www.struq.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the struq.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216103428id_/http%3A//www.struq.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Struq | Privacy Policy - Struq's privacy policy
 
