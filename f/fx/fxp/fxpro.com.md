@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the fxpro.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230074952id_/http%3A//www.fxpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxpro.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216145958id_/http%3A//www.fxpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex Trading
 
-This privacy statement covers the website [www.fxpro.com](http://www.fxpro.com/ "FxPro"), any other related websites that are registered and operated by the Company as well as [direct.fxpro.com](https://direct.fxpro.com/ "FxPro Direct").
+This privacy statement covers the website [www.fxpro.com](https://www.fxpro.com/ "FxPro"), any other related websites that are registered and operated by the Company as well as [direct.fxpro.com](https://direct.fxpro.com/ "FxPro Direct").
 
 ## Application
 
 In order to open an account with FxPro, you must first complete and send the application form attaching the required documents. By completing the application form you are requested to give private information in order to enable the Company to evaluate your application and comply with Laws and Regulations governing the provision of financial services. This information is also used to contact you about the Company's services.
 
-## Personally identifiable information 
+## Confidentiality and Client's Personal Data Protection
 
-We DO Share Personally Identifiable Information with Third Parties solely for statistical purposes and in an effort to better improve the Company’s marketing campaign and to the extent allowed by the Terms and Conditions already accepted by you.
+FxPro is registered with the Office of the Commissioner for Personal Data Protection of the Republic of Cyprus ([http://www.dataprotection.gov.cy](http://www.dataprotection.gov.cy/)); therefore, any clients’ personal data is kept by FxPro according to the Processing of Personal Data (Protection of the Individual) Law of 2001, its amendment (Law No. 37(I)/2003) and the Regulation of Electronic Communications. 
+
+FxPro shall not disclose to a third party, any of its clients’ confidential information unless required to do so by a regulatory authority of a competent jurisdiction; such disclosure shall occur on a ‘need-to-know’ basis, unless otherwise instructed by a regulatory authority. Under such circumstances, the Firm shall expressly inform the third party regarding the confidential nature of the information.
+
+Clients accept and consent that FxPro may, from time to time, contractually engage companies for statistical purposes in order to improve the Firm’s marketing; as a result, some or all of the clients’ personal data may be disclosed on an anonymous and aggregated basis only. 
 
 ## Agents
 
@@ -18,7 +22,7 @@ We use a card processing company for your deposits and withdrawals to and from y
 
 ## Privacy
 
-Any personal information you provide us will be treated as confidential and shared only within the Company, its affiliates and its business partners and will not be disclosed to any third party except under any regulatory or legal proceedings as well as to third parties that solely provide statistical services to the Company to improve its marketing campaign. Web site tracking systems may also collect data detailing the pages you have accessed, how you discovered this site, the frequency of visits and so on. The information we obtain is used to improve the content of our web site and may be used by us to contact you, by any appropriate means, and to provide you with any information we believe may be useful to you.
+Web site tracking systems may also collect data detailing the pages you have accessed, how you discovered this site, the frequency of visits and so on. The information we obtain is used to improve the content of our web site and may be used by us to contact you, by any appropriate means, and to provide you with any information we believe may be useful to you.
 
 ## Choice/Opt-out 
 
@@ -63,4 +67,4 @@ Karyatidon 1, Ypsonas 4180, Cyprus
 Tel.: +357 25 969222   
 Fax.: +357 25 969233 
 
-**Last Updated: 12 December 2009**
+**Last Updated: 17 May 2011**
