@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campbellsoup.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512224323id_/http%3A//www.campbellsoupcompany.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campbellsoup.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216175628id_/http%3A//www.campbellsoupcompany.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # The Campbell Soup Company - Privacy Policy
 
@@ -42,7 +42,7 @@ We may use the personal information you provide us to improve our marketing and 
 
 We may also use your personal information to customize the content that our sites deliver to you. For example, we may customize the recipes, product information and promotions we deliver to you based upon the information you have previously provided to us. 
 
-As an added convenience to you, when you register on anyone of our sites, your id and password can be used across the family of Campbell sites. Visit the Our Brands page, on campbellsoup.com, for a list of our sites. 
+As an added convenience to you, when you register on anyone of our sites, your id and password can be used across the family of Campbell sites. Visit the Our Brands page, on campbellsoupcompany.com, for a list of our sites. 
 
 **Cookies**  
 Like most companies, we use “cookie” technology on our sites to collect aggregate information. When you log into one of our sites, the cookie tells us whether you've visited us before or are a new visitor. This allows us to measure the appeal of our sites to new and return visitors. The cookie doesn't track any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. Cookies are simply the best way for us to be able to offer you the most enjoyable and hassle-free online environment. 
