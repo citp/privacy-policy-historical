@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appletell.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618144529id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appletell.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216221504id_/http%3A//www.napco.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : NAPCO
 
