@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dog-obedience-training-review.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628233446id_/http%3A//www.dog-obedience-training-review.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dog-obedience-training-review.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216123021id_/http%3A//www.dog-obedience-training-review.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Dog-Obedience-Training-Review.com Privacy Policy and Disclaimer
 
@@ -60,7 +60,9 @@ If you do not agree to the dog-obedience-training-review.com Privacy Policy as p
 
 Your use of this site indicates acceptance of this privacy policy. 
 
-Thank-you! 
+Thank-you, 
+
+Chris Smith. 
 
 * * *
 
@@ -95,10 +97,5 @@ This site does contain content which might present a conflict of interest. This 
 
 * * *
 
-**Can I advertise on this website?**
-
-Yes! Please contact ads@offleashmedia.com for advertising information. Thank you!
-
-  
   
 
