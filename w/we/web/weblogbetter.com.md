@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weblogbetter.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418000525id_/http%3A//weblogbetter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblogbetter.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216213933id_/http%3A//weblogbetter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » We Blog Better
+# Privacy Policy
 
-**What information do we collect?** We collect information from you when you subscribe to our newsletter.
+**What information do we collect?** We collect information from you when you subscribe to our newsletter. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
 
