@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524214329id_/http%3A//www.zeenews.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeenews.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216160856id_/http%3A//zeenews.india.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-**[Home](https://web.archive.org/) »** **Privacy Policy**
+http://www.zeenews.com wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.
 
-**Privacy Policy**
-
-[ **http://www.zeenews.com**](http://www.zeenews.com/) wants to make your experience online satisfying and safe. Our data collection policies allow you to choose how much information to provide us and to control how we use whatever information you tell us. Our goal is to provide you with a robust experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have.
-
-Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like. On other occasions when we provide items for purchase online, we may request your credit card number to conclude the transaction or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you - a personalized online experience. Customer's who personalize our service come back more often - and it's the customers that visit us often who make us successful - so we do everything we can to make [**http://www.zeenews.com**](http://www.zeenews.com/) your service with your name all over it and give you just the content you need.
+Information is collected from you primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like. On other occasions when we provide items for purchase online, we may request your credit card number to conclude the transaction or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you - a personalized online experience. Customer's who personalize our service come back more often - and it's the customers that visit us often who make us successful - so we do everything we can to make http://www.zeenews.com your service with your name all over it and give you just the content you need.
 
 Information collected online is often defined as being either anonymous or personally identifiable:  
 
@@ -17,5 +13,3 @@ Information collected online is often defined as being either anonymous or perso
   * Personally Identifiable Information: Refers to information that lets us know the specifics of who you are such as your name, email address, or postal address. With this information, [**http://www.zeenews.co** m](http://www.zeenews.com/) can provide a variety of personalized and enhanced services that are not available to anonymous users. Examples would be the award-winning "My [**http://www.zeenews.com**](http://www.zeenews.com/) Start Page," which uses your mailing address to customize TV schedules, weather reports and sports scores; our commerce-enabled services which use this same address information to allow our partners to ship to you the products that you buy; or our free Zee Next Mail email service which uses your name as part of a security mechanism to protect you from having others read messages addressed to you. We hope that, like many of our customers, you will find it beneficial to provide individually identifiable information about yourself to us because it will make our services more valuable to you. 
 
 
-
-[](http://cricket.zeenews.com/ipl2011/)
