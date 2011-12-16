@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the enrollbusiness.com privacy policy that was archived on 2011-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602175908id_/http%3A//us.enrollbusiness.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the enrollbusiness.com privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216194718id_/http%3A//us.enrollbusiness.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -36,52 +36,45 @@
 <div id="header">
 	<div id="headerMiddle">
 		<div id="headerMiddleLeft">
-			<a href="/Home"><img style="margin-top:5px;border:0px" src="/Images/EBLogo.png"></a>
+			<a href="/Home"><img style="border:0px;margin-top:3px" src="/Images/EBLogo.png"></a>
+			<img src="/Images/us.png" title="USA">
 		</div>
-		<div id="headerMiddleRight" class="ui-corner-all">
-				<div class="HeaderLogIn">
-			<form action="#" method="post">
-				<label>Email:</label><input title="Enter Email Address. Your Email Address is your LoginID" type="text" name="txtUserName" maxlength="60">
-				<label>Password:</label><input type="password" name="txtPassword" maxlength="50">
-				<input class="button" type="submit" value="Login" title="Already Registered Users only" name="LogIn">
-				<a href="/Reset-Password">Forgot Password?</a>
-							</form>
-		</div>
-		<div style="margin:9px 0px 0px 0px;padding:0px">
-			<a id="btnRegisterUser" href="/RegisterUser" title="Click here to Register New User.">Register New User</a>
-		</div>
+		<div id="MainNav">
+		<ul>
+							<li><a href="javascript:OpenLoginForm();">Login</a></li>
+				<li><a>|</a></li>
+				<li><a href="/RegisterUser">Register User</a></li>
+				<li><a>|</a></li>
+						<li><a href="/Business-Profiles">Browse Business Profiles</a></li>
+			<li><a>|</a></li>
+			<li><a href="/CreateBusinessProfile">Create Business Profile</a></li>
+			<li><a>|</a></li>
+			<li><a href="/Home">Home</a></li>
+		</ul>
 				</div>
 	</div>
 </div>
-<div id="spacer"></div>
 <div id="OuterContainer">
-<div id="MainNavAndSearchContainer">
-	<div id="MainNav">
-
-			<ul>
-				<li style="border-left:0px solid #bbb;"><a href="/Home">Home</a></li>
-				
-				<li><a href="/CreateBusinessProfile">Create Business Profile</a></li>
-				<li><a href="/Business-Profiles">Browse Business Profiles</a></li>
-			</ul>
-
-	</div>
 	<div id="SearchContainer" class="ui-corner-all">
 		<form action="/Search-Business-Profiles" method="post">
-			<div style="float:left;width:33%">
-			<label>What are you looking for ?</label><br>
+			<div style="float:left;width:30%;margin-left:5px">
+			<strong>What are you looking for ?</strong><br>
 			<input type="text" id="txtSearchWhat" class="SearchTextBoxes" size="28" name="txtSearchWhat" value="">
 			</div>
-			<div style="float:left;width:33%">
-				<label>Where in </label><label id="lblCountrySearch">USA</label>?<br>
+			<div style="float:left;width:30%">
+				<strong>Where in USA ?</strong><br>
 				<input type="text" id="txtSearchWhere" class="SearchTextBoxes" size="28" name="txtSearchWhere" value="">
 			</div>
-			<div style="float:left;width:9%;padding-top:18px;text-align:left">
-				<input type="button" class="ButtonHighlight" value="Search" id="btnSearchBusinesses" name="btnSearchBusinesses">
-				
+			<div style="float:left;width:9%;padding-top:20px;text-align:left">
+				<button type="button" class="rounded" id="btnSearchBusinesses" name="btnSearchBusinesses">
+				<span>Search</span>
+				</button>
+			</div>
+			<div style="float:left;width:6%;padding-top:18px;text-align:left">
+			<a href="javascript:ShowAdvanceSearch();">Advance<br> Search</a>
 			</div>
 			<div class="SearchCountryContainer">
-				<label>Change Country</label><br>
+				<strong>Change Country</strong><br>
 				<div id="divCountryDropDown">
 					<div class="ContainerTextAndImage">
 						<div class="ImageContainer"><img id="imgCountryFlag" src="/Images/us.png"></div>
@@ -90,11 +83,13 @@
 					<div class="DropDownArrow"><img id="imgCloseCountryPopup" src="/Images/ArrowDropDown.png"></div>
 				</div>
             <input type="hidden" id="hiddencid" value="2">
+			<input type="hidden" id="hiddenTerritoryLevel" value="3">
+			<input type="hidden" id="hiddenCountryCode" value="us">
 			</div>
 			<div class="clear">&nbsp;</div>
 		</form>
 	</div>
-</div>
+	
 <div id="clear"></div>
 
 <!-- end #header -->
@@ -119,7 +114,7 @@
 			</p>
 			<h4>Information we gather and How we use that</h4>
 			<p>
-				</p><ul>
+				</p><ul class="ppListItem">
 					<li>
 						<span style="font-weight:bold">Information you provide - </span>We ask for certain personal information
 						like name, address, Email etc. to provide you better services, security and user experience.
@@ -164,137 +159,93 @@
 	<a href="/Terms-Of-Service">Terms of Service</a> |
 	<a href="/Business-Profiles">Sitemap</a>
 	</p>
-		<p style="clear:both">@Copyright 2011, All rights reserved by EnrollBusiness</p>	
+		<p style="clear:both;margin-top:9px">@Copyright 2011, All rights reserved by EnrollBusiness</p>	
 	</div>	
 	<!-- end #footer -->	
 </div>
 <!-- end #container -->
 <div class="clear">&nbsp;</div>
 </div>
+<div id="divAdvanceSearchCntr"></div>
 <div id="divCountryListPopup">
 			<ul>
 					<li>
-				<a href="http://AU.EnrollBusiness.com" id="linkCountry4" onclick="SelectCountry(4)">
-									<div class="ImageContainer">
-											<img src="/Images/au.png">
-											</div>
-					<div class="TextContainer">
-					Australia					</div>
-				</a>
+				<a href="http://AU.EnrollBusiness.com" id="linkCountry4" onclick="SelectCountry(4)" style="background:url('/Images/au.png') 0 50% no-repeat">
+				Australia				</a>
 			</li>
 						<li>
-				<a href="http://CA.EnrollBusiness.com" id="linkCountry6" onclick="SelectCountry(6)">
-									<div class="ImageContainer">
-											<img src="/Images/ca.png">
-											</div>
-					<div class="TextContainer">
-					Canada					</div>
-				</a>
+				<a href="http://CA.EnrollBusiness.com" id="linkCountry6" onclick="SelectCountry(6)" style="background:url('/Images/ca.png') 0 50% no-repeat">
+				Canada				</a>
 			</li>
 						<li>
-				<a href="http://CN.EnrollBusiness.com" id="linkCountry3" onclick="SelectCountry(3)">
-									<div class="ImageContainer">
-											<img src="/Images/cn.png">
-											</div>
-					<div class="TextContainer">
-					China					</div>
-				</a>
+				<a href="http://CN.EnrollBusiness.com" id="linkCountry3" onclick="SelectCountry(3)" style="background:url('/Images/cn.png') 0 50% no-repeat">
+				China				</a>
 			</li>
 						<li>
-				<a href="http://DE.EnrollBusiness.com" id="linkCountry5" onclick="SelectCountry(5)">
-									<div class="ImageContainer">
-											<img src="/Images/de.png">
-											</div>
-					<div class="TextContainer">
-					Germany					</div>
-				</a>
+				<a href="http://DE.EnrollBusiness.com" id="linkCountry5" onclick="SelectCountry(5)" style="background:url('/Images/de.png') 0 50% no-repeat">
+				Germany				</a>
 			</li>
 						<li>
-				<a href="http://HK.EnrollBusiness.com" id="linkCountry12" onclick="SelectCountry(12)">
-									<div class="ImageContainer">
-											<img src="/Images/hk.png">
-											</div>
-					<div class="TextContainer">
-					Hong Kong					</div>
-				</a>
+				<a href="http://HK.EnrollBusiness.com" id="linkCountry12" onclick="SelectCountry(12)" style="background:url('/Images/hk.png') 0 50% no-repeat">
+				Hong Kong				</a>
 			</li>
 						<li>
-				<a href="http://IN.EnrollBusiness.com" id="linkCountry1" onclick="SelectCountry(1)">
-									<div class="ImageContainer">
-											<img src="/Images/in.png">
-											</div>
-					<div class="TextContainer">
-					India					</div>
-				</a>
+				<a href="http://IN.EnrollBusiness.com" id="linkCountry1" onclick="SelectCountry(1)" style="background:url('/Images/in.png') 0 50% no-repeat">
+				India				</a>
 			</li>
 						<li>
-				<a href="http://PH.EnrollBusiness.com" id="linkCountry8" onclick="SelectCountry(8)">
-									<div class="ImageContainer">
-											<img src="/Images/ph.png">
-											</div>
-					<div class="TextContainer">
-					Philippines					</div>
-				</a>
+				<a href="http://MY.EnrollBusiness.com" id="linkCountry19" onclick="SelectCountry(19)" style="background:url('/Images/my.png') 0 50% no-repeat">
+				Malaysia				</a>
 			</li>
 						<li>
-				<a href="http://RU.EnrollBusiness.com" id="linkCountry9" onclick="SelectCountry(9)">
-									<div class="ImageContainer">
-											<img src="/Images/ru.png">
-											</div>
-					<div class="TextContainer">
-					Russian Federation					</div>
-				</a>
+				<a href="http://NZ.EnrollBusiness.com" id="linkCountry16" onclick="SelectCountry(16)" style="background:url('/Images/nz.png') 0 50% no-repeat">
+				New Zealand				</a>
 			</li>
 						<li>
-				<a href="http://ZA.EnrollBusiness.com" id="linkCountry15" onclick="SelectCountry(15)">
-									<div class="ImageContainer">
-											<img src="/Images/za.png">
-											</div>
-					<div class="TextContainer">
-					South Africa					</div>
-				</a>
+				<a href="http://PH.EnrollBusiness.com" id="linkCountry8" onclick="SelectCountry(8)" style="background:url('/Images/ph.png') 0 50% no-repeat">
+				Philippines				</a>
 			</li>
 						<li>
-				<a href="http://KR.EnrollBusiness.com" id="linkCountry11" onclick="SelectCountry(11)">
-									<div class="ImageContainer">
-											<img src="/Images/kr.png">
-											</div>
-					<div class="TextContainer">
-					South Korea					</div>
-				</a>
+				<a href="http://SG.EnrollBusiness.com" id="linkCountry18" onclick="SelectCountry(18)" style="background:url('/Images/sg.png') 0 50% no-repeat">
+				Singapore				</a>
 			</li>
 						<li>
-				<a href="http://ES.EnrollBusiness.com" id="linkCountry10" onclick="SelectCountry(10)">
-									<div class="ImageContainer">
-											<img src="/Images/es.png">
-											</div>
-					<div class="TextContainer">
-					Spain					</div>
-				</a>
+				<a href="http://ZA.EnrollBusiness.com" id="linkCountry15" onclick="SelectCountry(15)" style="background:url('/Images/za.png') 0 50% no-repeat">
+				South Africa				</a>
 			</li>
 						<li>
-				<a href="http://GB.EnrollBusiness.com" id="linkCountry14" onclick="SelectCountry(14)">
-									<div class="ImageContainer">
-											<img src="/Images/gb.png">
-											</div>
-					<div class="TextContainer">
-					United Kingdom					</div>
-				</a>
+				<a href="http://ES.EnrollBusiness.com" id="linkCountry10" onclick="SelectCountry(10)" style="background:url('/Images/es.png') 0 50% no-repeat">
+				Spain				</a>
 			</li>
 						<li>
-				<a href="http://US.EnrollBusiness.com" id="linkCountry2" onclick="SelectCountry(2)">
-									<div class="ImageContainer">
-											<img src="/Images/us.png">
-											</div>
-					<div class="TextContainer">
-					USA					</div>
-				</a>
+				<a href="http://AE.EnrollBusiness.com" id="linkCountry17" onclick="SelectCountry(17)" style="background:url('/Images/ae.png') 0 50% no-repeat">
+				United Arab Emirates				</a>
+			</li>
+						<li>
+				<a href="http://GB.EnrollBusiness.com" id="linkCountry14" onclick="SelectCountry(14)" style="background:url('/Images/gb.png') 0 50% no-repeat">
+				United Kingdom				</a>
+			</li>
+						<li>
+				<a href="http://US.EnrollBusiness.com" id="linkCountry2" onclick="SelectCountry(2)" style="background:url('/Images/us.png') 0 50% no-repeat">
+				USA				</a>
 			</li>
 					</ul>
 	</div>
 <div id="ToolTipPopupContainer">
 <span id="ToolTipArrowContainer">&nbsp;</span>
-<span id="ToolTipPopup"></span>
+<span id="ToolTipPopup" class="shadow"></span>
 </div>
+<div class="OverlayPopupOuter">
+	<div class="OverlayPopupContent">
+		<div class="OverlayHeader">
+		<span id="PopupTitleBar" class="PopupTitleBar"><h2></h2></span>
+		<span class="PopupClose" id="OverlayPopupCloseBtn" onclick="CloseOverlayPopup();">&nbsp;</span>
+		</div>
+		<div class="OverlayClientControlsContainer">Please wait</div>
+	</div>
+	<div class="OverlayPopup"></div>
+</div>
+<div id="divTempPopupParentCntr"></div>
+<div id="LogInControlsAndProgressContainer"></div>
 
 </body></html>
