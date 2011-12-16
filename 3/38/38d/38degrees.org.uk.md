@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624025531id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216160017id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.*
 
 # 38 Degrees | Privacy policy
 
