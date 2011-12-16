@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ninjasaga.com privacy policy that was archived on 2010-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100322234600id_/http%3A//www.ninjasaga.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ninjasaga.com privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216232402id_/http%3A//www.ninjasaga.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,6 +13,7 @@
 <script type="text/javascript" src="/js/jquery.swapimage.min.js"></script>
 <script type="text/javascript" src="/js/jquery.lightbox-0.5.pack.js"></script>
 <script type="text/javascript" src="/js/easySlider.packed.js"></script>
+<script type="text/javascript" src="/js/common_function.js"></script>
 <script type="text/javascript">
 	$.swapImage(".swapImage");
 	
@@ -29,6 +30,13 @@
 			containerResizeSpeed: 350
 	  })
 	}) 
+	
+	var lang = getParameter(window.location.href,'lang');
+	if(lang == '' || lang == null || lang == "null") {
+		lang = "en";
+	}
+
+	location.href = 'http://www.ninjasaga.com/policy/index.php?lang='+lang;
 </script>
 <script type="text/javascript" src="/js/stepcarousel.js"></script>
 <script type="text/javascript" src="/js/swfobject.js"></script>
@@ -193,7 +201,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try {
-var pageTracker = _gat._getTracker("UA-4829624-13");
+var pageTracker = _gat._getTracker("UA-4829624-12");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 <script type="text/javascript">
