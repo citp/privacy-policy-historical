@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucanews.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618140525id_/http%3A//www.ucanews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucanews.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216214618id_/http%3A//www.ucanews.com/privacy-policy) for the most accurate reproduction.*
 
-# Asia's Most Trusted Independent Catholic News Source | ucanews.com
+# Privacy Policy - ucanews.com
 
 **Contents**
 
