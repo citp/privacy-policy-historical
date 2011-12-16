@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629032953id_/http%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216143909id_/http%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
 
-# AHAlife : Privacy Policy
+# Privacy Policy | AHAlife
 
 Thank you for visiting Ahalife.com.  Ahalife Holdings Inc. ("AHAlife," "we" or "us"), is committed to keeping our customers informed about how we use the information we gather from you through the use of our website (the "Site").  Our commitment to you as a valued customer is to provide you with an exciting, safe and personalized experience.  As part of this commitment to you, we have created this privacy policy to inform you about how we collect, use and share your personal information.  In addition, we explain the steps we take to secure your personal information.  By visiting Ahalife.com, you accept the practices described in this Privacy Policy (the "Policy").  If you do not agree to this Policy, please do not use the Site.
 
