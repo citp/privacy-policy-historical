@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easily.co.uk privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616174204id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easily.co.uk privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216110759id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Easily Privacy Policy
 
@@ -42,7 +42,7 @@ Credit card payment for our services is processed by our secure payment service 
 
 4\. Easily Newsletter
 
-From time to time Easily will send newsletters to those customers who have opted to be included on our various customer mailing lists. New customers have the opportunity to decide to opt in or out of these mailing lists when they first sign up with us to create an account. Existing customers or other people who are interested in the newsletters may opt in or out on the easily.co.uk website or by sending an email request to our [helpdesk support team](https://web.archive.org/web/20110616174204id_/http://easily.co.uk/index.php3?exe=contact).
+From time to time Easily will send newsletters to those customers who have opted to be included on our various customer mailing lists. New customers have the opportunity to decide to opt in or out of these mailing lists when they first sign up with us to create an account. Existing customers or other people who are interested in the newsletters may opt in or out on the easily.co.uk website or by sending an email request to our [helpdesk support team](https://web.archive.org/web/20111216110759id_/http://easily.co.uk/index.php3?exe=contact).
 
 5\. Optional Services
 
@@ -66,7 +66,7 @@ The Easily website contains advertising and links to other websites. No personal
 
 10\. Changes to Personal Information
 
-If you need to change the information that we keep, for example because you have moved or to correct an error, please [contact us](https://web.archive.org/web/20110616174204id_/http://easily.co.uk/index.php3?exe=contact).
+If you need to change the information that we keep, for example because you have moved or to correct an error, please [contact us](https://web.archive.org/contactus.php).
 
 11\. Consent
 
