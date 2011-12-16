@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeandtimes.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410235727id_/http%3A//lifeandtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeandtimes.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216181214id_/http%3A//lifeandtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policyLife + Times | Life + Times
 
