@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideweddings.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617072814id_/http%3A//insideweddings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideweddings.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216210702id_/http%3A//insideweddings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InsideWeddings.com
 
