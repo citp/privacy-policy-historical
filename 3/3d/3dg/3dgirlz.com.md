@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dgirlz.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616114739id_/http%3A//www.3dgirlz.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dgirlz.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216233706id_/http%3A//3dgirlz.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Virtual Sex Game with Customizable Sluts - 3DGirlz.com
 
