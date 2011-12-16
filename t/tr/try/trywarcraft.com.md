@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trywarcraft.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613123048id_/http%3A//eu.blizzard.com/en-gb/company/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trywarcraft.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216131703id_/http%3A//eu.blizzard.com/en-gb/company/about/privacy.html) for the most accurate reproduction.*
 
 # Blizzard Entertainment: Privacy Policy
 
@@ -98,7 +98,7 @@ Blizzard allows you to monitor the way in which we use the personal information 
 
 You can also contact us if you wish to change the way in which we use your personal information, i.e. whether Blizzard, the parent company or any subsidiary company can send you e-mails or standard mail regarding our products or services. 
 
-You can contact us at the following address: Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy Villacoublay Cedex France. You can also reach us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling) or by e-mail at: [webmaster-en@blizzard.com](mailto:webmaster-en@blizzard.com). Please state which services or publications you no longer wish to receive so that we can respond to your needs more effectively. 
+You can contact us at the following address: Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy Villacoublay Cedex France. You can also reach us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling). Please state which services or publications you no longer wish to receive so that we can respond to your needs more effectively. 
 
 ### What level of security is applied to your personal information?
 
@@ -108,12 +108,12 @@ Blizzard deems it a point of honour that the information you send us should be p
 ### What you should do if you wish to amend or review your personal information?
 
   
-If, for any reason, you are concerned about the way in which we collect your personal information, if you wish to access, amend or correct it, or if you want us to delete it from our servers, please contact Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy Villacoublay Cedex, France. You can also contact us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling) or by e-mail at: [webmaster-en@blizzard.com](mailto:webmaster-en@blizzard.com). Please note that the deletion of your data will lead to the termination of your account and applicable services. 
+If, for any reason, you are concerned about the way in which we collect your personal information, if you wish to access, amend or correct it, or if you want us to delete it from our servers, please contact Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy Villacoublay Cedex, France. You can also contact us [by telephone](http://eu.blizzard.com/support/article.xml?locale=en_GB&tag=contactbilling). Please note that the deletion of your data will lead to the termination of your account and applicable services. 
 
 ### What you should do if you have any questions or complaints?
 
   
-If you have any questions or complaints, please send us an e-mail at the following address: [webmaster-en@blizzard.com](mailto:webmaster-en@blizzard.com) or write a letter to: Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy Villa-coublay Cedex, France. 
+If you have any questions or complaints, please write a letter to: Blizzard Entertainment SAS, TSA 60 001, 78143 Vélizy-Villacoublay Cedex, France. 
 
 ### Note to parents
 
