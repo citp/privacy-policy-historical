@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popularproductsonline.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220123909id_/http%3A//www.popularproductsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularproductsonline.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216122218id_/http%3A//www.popularproductsonline.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -29,11 +29,14 @@ WE RESERVE THE RIGHT TO REVISE THIS POLICY AT ANY TIME SIMPLY BY POSTING A REVIS
     5. **Reserving Right to Use New Technologies.** The use of web technologies is rapidly evolving and we reserve the right to use new technologies as they are developed and strongly urge you to revisit this privacy policy for any updates regarding its use of newer technologies. 
     6. **Anonymized Data.** We also collect anonymized data to calculate aggregate statistical information, to identify the number of users and participants in the Promotion, the number of users who clicked through specific advertising Offers on the Promotional Path, the numbers of users who completed such Offers, and to measure traffic patterns to our web site and through the Promotion path. This data does not identify individual users, but may be used for general statistical, marketing and auditing purposes. 
     7. **Preference Data –“Target or Behavioral Advertising”** If the Promotion path includes what is known as a “Coregistration or Coreg Path”, we will also collect data regarding your geographic location and Internet behavior (i.e. browsing, search, shopping, purchase and ad response behavior) known as “Preference Data” via the use of cookies and pixel tags explained above and communications with Advertisors on the Promotional Path. This Preference Data is generally used to present you with more useful and relevant advertising and advertiser Offers – for example by showing Los Angeles newspaper ads to someone from Los Angeles or by displaying book ads to someone who frequents online bookstores or someone who has just completed a book related offer in the Promotional path. 
-  2. **Ways that we use the information we collect from you:**
+  2. **Ways that we use the information, both Personally Identifiable and Non-Personally Identifiable.**
 
-WE MAY USE AN INDIVIDUAL’S INFORMATION FOR 
+WE MAY USE AN INDIVIDUAL'S PERSONALLY IDENTIFIABLE INFORMATION FOR 
 
-_ANY LEGALLY PERMISSIBLE PURPOSE IN THE COMPANY’S SOLE DISCRETION._ Currently, we use information for at least the following purposes: 
+_ANY LEGALLY PERMISSIBLE PURPOSE IN THE COMPANY’S SOLE DISCRETION_ INCLUDING PROVIDING TO THIRD PARTIES FOR SECONDARY MARKETING PURPOSES. 
+
+Currently, we use information for at least the following purposes: 
+
     1. **Administration of the Promotion** (sharing your personal info and other information with other advertisers involved in the Promotion – they may also share information about you with us), the fulfillment of the Promotion – contacting you or sending you the gift, confirming advertising Offers have been completed and verifying with third parties that you are a genuine bona fide consumer. 
     2. **Pre-selecting and pre-filling your contact and other information** for advertiser Offers which form part of the Promotional Path. 
     3. **Use in our own and our affiliated companies online and offline marketing programs** which may include email marketing, telephone marketing and SMS messaging to any cell phone number provided to us. 
@@ -49,7 +52,7 @@ IF YOU DO NOT WISH YOUR PERSONAL INFORMATION USED IN THIS WAY, PLEASE DO NOT REG
     1. **Sale or Transfer to third parties.**  
 COMPANY MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY’S SOLE DISCRETION. 
     2. **Promotion Fulfillment and Verification.**  
-Company will transfer individual information to third parties when necessary to provide a product or service that a person orders from such third party while using the Promotional Path or when responding to Offers provided by Company.
+Company will transfer individual information to third parties when necessary to provide a product or service that a person orders from such third party while using the Promotional Path or when responding to Sponsor Offers.
 
 We will also use third party verification services to verify your address and phone number and that you are in fact a legitimate consumer. 
 
