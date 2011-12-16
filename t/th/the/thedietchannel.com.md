@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedietchannel.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231063332id_/http%3A//www.thedietchannel.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedietchannel.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216124920id_/http%3A//www.thedietchannel.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | The Diet Channel
 
