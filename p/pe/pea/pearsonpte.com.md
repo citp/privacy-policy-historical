@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonpte.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617231821id_/http%3A//pearsonpte.com/privacy/Pages/home.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonpte.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216110627id_/http%3A//pearsonpte.com/privacy/Pages/home.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -8,9 +8,9 @@
 **1\. Introduction  
 **
 
-Pearson Language Tests (PLT) a division of Edexcel Ltd. (Company Number 4496750), of 80 Strand, London WC2R 0RL, a Pearson company , (“we”, “us”) has adopted the following Privacy Policy applicable to personal information that it may collect, store and use in the context of the provision of services related to language tests.
+Language Testing (LT), a division of Pearson Education Ltd (Company Number 872828), of 80 Strand, London WC2R 0RL, a Pearson company, (“we”, “us”) has adopted the following Privacy Policy applicable to personal information that it may collect, store and use in the context of the provision of services related to language tests.
 
-This Privacy Policy is accessible from [www.pearsonpte.com](https://web.archive.org/) and [www.pearsonvue.com/pte](http://www.pearsonvue.com/pte). When the Privacy Policy refers to “this website” it means either of the websites referred to above, depending on which one you accessed the Privacy Policy from, unless otherwise stated. We mainly collect or receive personal information to communicate with users about our services and to provide these services. Users can either be test takers signing up for our tests or individuals at institutions/organizations that recognize Pearson Tests of English qualifications. Both these types of users access this Privacy Policy from <http://www.pearsonvue.com/pte>. Users can also be visitors of [www.pearsonpte.com](https://web.archive.org/), where they will provide their personal data to PLT when they sign up to the services offered from the website (i.e. sending inquiries, participating in discussion forums, etc). This Privacy Policy applies equally to the personal data of test takers, individuals at institutions/organizations and visitors, unless otherwise stated. 
+This Privacy Policy is accessible from [www.pearsonpte.com](https://web.archive.org/) and [www.pearsonvue.com/pte](http://www.pearsonvue.com/pte). When the Privacy Policy refers to “this website” it means either of the websites referred to above, depending on which one you accessed the Privacy Policy from, unless otherwise stated. We mainly collect or receive personal information to communicate with users about our services and to provide these services. Users can either be test takers signing up for our tests or individuals at institutions/organizations that recognize Pearson Tests of English qualifications. Both these types of users access this Privacy Policy from <http://www.pearsonvue.com/pte>. Users can also be visitors of [www.pearsonpte.com](https://web.archive.org/), where they will provide their personal data to LT when they sign up to the services offered from the website (i.e. sending inquiries, participating in discussion forums, etc). This Privacy Policy applies equally to the personal data of test takers, individuals at institutions/organizations and visitors, unless otherwise stated. 
 
 The personal data we collect is limited to the information that we require to provide the services that you sign up for and for the purposes described in this Privacy Policy. We will handle and process all personal information collected and received by us from this website in the manner outlined in this Privacy Policy, and in accordance with UK Data Protection Act (DPA) 1998.
 
@@ -66,7 +66,7 @@ We use personal information collected via <http://www.pearsonvue.com/pte> for th
 
   * dealing with your inquiries and requests 
 
-  * processing the payment for the test fees or any query or cancellations of your registration for the test as described in the Test Taker’s Handbook - making your information (score and spoken personal introduction) available to the institutions of your choice, who have signed up for the service provided by PLT
+  * processing the payment for the test fees or any query or cancellations of your registration for the test as described in the Test Taker’s Handbook - making your information (score and spoken personal introduction) available to the institutions of your choice, who have signed up for the service provided by LT
 
   * understanding you as a test taker so that we can improve our tests, obtain statistics and send you commercial communications that are tailored to your interests
 
@@ -96,14 +96,14 @@ Your personal data will be disclosed to the business and suppliers we engage to 
 
 NCS Pearson may engage other third parties who will process your data, such us the organizations that run the test centers where you will go and take your test, which we call “third party testing centers”. These centers may also provide unrelated services and may collect and use personal data for other purposes under different terms and policies. If you have any questions or concerns about a third-party testing centers’ collection or use of any of your personal information, please feel free to talk to the third-party testing centers directly. If you have unaddressed concerns about an independent testing center and the processing of the data that they do for the purposes of running our test, please contact Pearson VUE at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com "link: document")Other tests centers will belong to NCS Pearson. In these cases, please refer your queries to the email address provided above. 
 
-Some of the organizations to whom we will disclose your data will be placed in jurisdictions without data protection legislation. PLT will endeavor to ensure that they protect your personal information as if they were established in the UK.  
+Some of the organizations to whom we will disclose your data will be placed in jurisdictions without data protection legislation. LT will endeavor to ensure that they protect your personal information as if they were established in the UK.  
 
-If you are a test taker, your score and spoken personal introduction will be shared with the institution/s of your choice only. In addition, anonymized content of your test and spoken personal introduction may also be used by PLT for the purposes of training internal or external members of staff involved in the management of language tests. PLT will endeavor to ensure that this information does not allow any person that accesses it to identify you as an individual. 
+If you are a test taker, your score and spoken personal introduction will be shared with the institution/s of your choice only. In addition, anonymized content of your test and spoken personal introduction may also be used by LT for the purposes of training internal or external members of staff involved in the management of language tests. LT will endeavor to ensure that this information does not allow any person that accesses it to identify you as an individual. 
 
 **  
 5\. Commercial communications**
 
-We may use your personal information to send you commercial communications about products and services of PLT. You may opt out of receiving information about our products and services by ticking the box in the registration form.
+We may use your personal information to send you commercial communications about products and services of LT. You may opt out of receiving information about our products and services by ticking the box in the registration form.
 
 You will find information about the practice test for PTE Academic on this website. The practice test is run by Pearson Education Inc, another Pearson company and when you register you will provide your information to Pearson Education Inc (please read Pearson Education Inc’s Privacy Policy).
 
@@ -115,11 +115,11 @@ Finally, you may also receive our RSS feeds if you have requested them.
 
 7\. Information from children
 
-** This website is not aimed at children. Some content will refer to the London Test of English for Children (to be known as PTE Young Learners from November 2009). However, it is aimed at teachers, parents or guardians, rather than the children themselves. PLT will not knowingly collect personal data of those aged under 16. **
+** This website is not aimed at children. Some content will refer to PTE Young Learners . However, it is aimed at teachers, parents or guardians, rather than the children themselves. LT will not knowingly collect personal data of those aged under 16. **
 
 8\. Information received from internet service providers through this website
 
-** This website receives information that is automatically generated by a user’s internet service provider (ISP). This information may include the IP address (a number automatically assigned to a computer by the ISP), the associated URLs, domain types, the browser type used to access our site, the country, state and telephone area code, the location of the ISP servers, the referring URL, the pages of our site that the user views during their visit, any search terms entered on this site, and the user’s website address and email address. This information may be collected for system administration purposes, to gather broad demographic information and to monitor the level of activity on the site. PLT does not link IP addresses to personally identifiable information. However, we reserve the right to link IP addresses and other information supplied by the ISP to personally identifiable information in order to protect the integrity of our system and for security purposes. **
+** This website receives information that is automatically generated by a user’s internet service provider (ISP). This information may include the IP address (a number automatically assigned to a computer by the ISP), the associated URLs, domain types, the browser type used to access our site, the country, state and telephone area code, the location of the ISP servers, the referring URL, the pages of our site that the user views during their visit, any search terms entered on this site, and the user’s website address and email address. This information may be collected for system administration purposes, to gather broad demographic information and to monitor the level of activity on the site. LT does not link IP addresses to personally identifiable information. However, we reserve the right to link IP addresses and other information supplied by the ISP to personally identifiable information in order to protect the integrity of our system and for security purposes. **
 
 9\. Security of your information
 
