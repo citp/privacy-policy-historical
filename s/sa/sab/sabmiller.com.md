@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617063527id_/http%3A//www.sabmiller.com/index.asp%3Fpageid%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabmiller.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216203820id_/http%3A//www.sabmiller.com/index.asp%3Fpageid%3D13) for the most accurate reproduction.*
 
 # SABMiller - Services - Privacy
 
@@ -30,7 +30,7 @@ Any personal information we collect will be stored in the country in which it is
 
   * ## 7\. Contact us
 
-Further questions? Contact our [E-Communications Manager](https://web.archive.org/web/20110617063527id_/http%3A//www.sabmiller.com/index.asp?pageid=176) for the sabmiller.com website.
+Further questions? Contact our [E-Communications Manager](https://web.archive.org/web/20111216203820id_/http%3A//www.sabmiller.com/index.asp?pageid=176) for the sabmiller.com website.
 
 
 
