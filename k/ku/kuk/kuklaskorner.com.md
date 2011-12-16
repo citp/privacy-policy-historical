@@ -1,34 +1,63 @@
-> *The following text is extracted and transformed from the kuklaskorner.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618125827id_/http%3A//www.kuklaskorner.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuklaskorner.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216220813id_/http%3A//www.kuklaskorner.com/index.php/privacy) for the most accurate reproduction.*
 
 # KuklasKorner
 
-## Privacy policy for Kukla’s Korner
+## Privacy Policy
 
-**Introduction**  
-Kukla’s Korner takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as “data” below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor to persons that are not employees or agents of the site editor, or that are not under the site editor’s control. Please take time to read this site’s terms of use.
+Kukla’s Korner knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
-**1\. Collection of data**  
-Registration of a user account on this site requires only a valid e-mail address and a user name that has not been used already. You are not required to provide any other information if do not want to. Please be aware that the user name you choose, the e-mail address you provide and other information you provide may render you personally identifiable, and may possibly be displayed on this web site intentionally (depending on choices you make during the registration process, or on the way in which the site is configured) or unintentionally (such as, but not limited to, subsequent to a successful act of intrusion by a third party). As on many web sites, the site editor may also automatically receive general information that is contained in server log files, such as your IP address, and cookie information. Information about how advertising may be served on this site (if it is the site editor’s policy to display advertising) is set forth below.
+This Privacy Policy covers Kukla’s Korner’s treatment of personal information that Kukla’s Korner gathers when you are on the Kukla’s Korner website and when you use Kukla’s Korner services. This policy does not apply to the practices of third parties that Kukla’s Korner does not own or control, or to individuals that Kukla’s Korner does not employ or manage. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/ "networkadvertising.org").
+**Information Collected by Kukla’s Korner**
 
-**2\. Use of data**  
-Data may be used to customize and improve your user experience on this site. Efforts will be made to prevent your data being made available to third parties unless provided for otherwise in this Privacy Policy; (ii) your consent is obtained, such as when you choose to opt-in or opt-out for the sharing of data; (iii) a service provided on our site requires interaction a third party with or is provided by a third party, such as an application service provider; (iv) pursuant to legal action or law enforcement; (v) it is found that your use of this site violates this policy, terms of service, or other usage guidelines, or if it is deemed reasonably necessary by the site editor to protect the site editor’s legal rights and/or property; or (vi) this site is purchased by a third party, in which case that third party will be able to use the data in the same manner as set forth in this Policy. In the event you choose to use links that appear on this web site to visit other web sites, you are advised to read the privacy policies that appear on those sites.
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Kukla’s Korner users: 
 
-**3\. Cookies**  
-Like many web sites, this web site sets and uses cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. However, the parties serving the advertising do not have access to this site’s cookies. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site.
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. 
 
-**4\. Minors**  
-People aged thirteen or younger are not allowed to become registered users of this site. For more information, please contact the [webmaster](mailto:pk@kuklaskorner.com).
+2\. Automatic Information: 
 
-**5\. Editing or deleting your account information**  
-This site provides you with the ability to edit the information in your user account that you provided to during the registration process, by visiting your personal home page configuration page. You may request deletion of your user account by contacting the webmaster. Content or other information that you may have provided, and that is not contained within your user account, such as posts that may appear within site forums, may continue to remain on the site at the site editor’s discretion, even though your user account is deleted. Please see the site’s Terms of Use for more information.
+• We receive and store certain types of information whenever you interact with us. Kukla’s Korner and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Kukla’s Korner cookie information, and the page you requested. Kukla’s Korner uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
+• Kukla’s Korner may collect and, on any page, display the total counts that page has been viewed.   
+• Many companies offer programs that help you to visit websites anonymously. While Kukla’s Korner will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
 
-**6\. Changes to this privacy policy**  
-Changes may be made to this policy from time to time. You will be notified of substantial changes to this policy either by through the posting of a prominent announcement on the site, and/or by a message being sent to the e-mail address you have provided, which is contained in your user settings.
+**E-mail Communications**
 
-**7\. NO GUARANTEES**  
-While this privacy policy states standards for maintenance of data, and while efforts will be made to meet the said standards, the site editor is not in a position to guarantee compliance with these standards. There may be factors beyond the site editor’s control that may result in disclosure of data. Consequently, the site editor offers no warranties or representations as regards maintenance or nondisclosure of data.
+Kukla’s Korner is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Kukla’s Korner may send out e-mails with Kukla’s Korner-related news, products, offers, surveys or promotions. 
 
-**8\. Contact information**  
-If you have any questions about this policy or this web site, please feel free to contact the [webmaster](mailto:pk@kuklaskorner.com). 
+**Cookies**
+
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Kukla’s Korner cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
+
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Kukla’s Korner’s coolest features. 
+
+Kukla’s Korner’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page. 
+
+**Sharing Your Information**
+
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below. 
+
+Kukla’s Korner Personnel: Kukla’s Korner personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Kukla’s Korner business. 
+
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Kukla’s Korner, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
+
+Protection of Kukla’s Korner and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Kukla’s Korner, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+
+Syndication: Kukla’s Korner allows for the RSS syndication of all of its public content within the Kukla’s Korner website. 
+
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
+
+**Children Under 18 Years of Age**
+
+You must be 13 years and older to register to use the Kukla’s Korner website. As a result, Kukla’s Korner does not specifically collect information about children. If we learn that Kukla’s Korner has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Kukla’s Korner or sending information about themselves or anyone else over the Internet. 
+
+**Changes to this Privacy Policy**
+
+Kukla’s Korner may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Kukla’s Korner website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
+
+**Conditions of Use**
+
+If you decide to visit Kukla’s Korner website, your visit and any possible dispute over privacy is subject to thisPrivacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
+
+**Effective Date of this Privacy Policy**
+
+This Privacy Policy is effective as of June 26, 2011, and last updated June 26, 2011. 
