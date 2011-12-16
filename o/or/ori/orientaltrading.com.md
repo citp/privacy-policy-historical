@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orientaltrading.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617065621id_/http%3A//www.orientaltrading.com/ui/shared/sharedFlowController.goToHelpController.do%3FrequestURI%3DhelpContent%26documentKey%3Dcaliforniainfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orientaltrading.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216210731id_/http%3A//www.orientaltrading.com/ui/shared/sharedFlowController.goToHelpController.do%3FrequestURI%3DhelpContent%26documentKey%3Dcaliforniainfo) for the most accurate reproduction.*
 
 # Welcome to Oriental Trading
 
