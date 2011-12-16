@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiphazard.com privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202130716id_/http%3A//www.chiphazard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiphazard.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217003219id_/http%3A//www.chiphazard.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chip Hazard
 
