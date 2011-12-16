@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the socialraves.com privacy policy that was archived on 2011-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618050347id_/http%3A//www.socialraves.com/footer/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialraves.com privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216144408id_/http%3A//www.socialraves.com/footer/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -111,7 +111,7 @@
 
 <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
 <!-- <script type="text/javascript">FB.init('6c0038bc1f26d147987a1a1a5f3b3039','http://www.socialraves.com/xd_receiver.htm');</script> -->
-<script type="text/javascript">FB.init('8fe46f24cd1f6213c35270544c5cc587','http://www.socialraves.com/xd_receiver.htm');</script>
+<script type="text/javascript">FB.init('115591334113','http://www.socialraves.com/xd_receiver.htm');</script>
 
 
 
@@ -288,7 +288,7 @@ FB.ensureInit(function() {
 
 
 <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
-<script type="text/javascript">FB.init('8fe46f24cd1f6213c35270544c5cc587','http://www.socialraves.com/xd_receiver.htm');</script>
+<script type="text/javascript">FB.init('115591334113','http://www.socialraves.com/xd_receiver.htm');</script>
 
 		<div id="maintabmenu" class="slidetabsmenu">
 	<ul>
@@ -533,7 +533,7 @@ Personal information excludes aggregated data which is data collected about usag
 	</p>
 	
 	<p class="footerlinks"><a href="http://www.socialraves.com/footer/aboutus" class="fo">About</a> | <a href="http://www.socialraves.com/footer/partnership">Partners</a> | <a href="http://www.socialraves.com/footer/affiliate">Become an Affiliate</a> | <a href="http://www.socialraves.com/footer/improve">How Can We Improve</a> | <a href="http://www.socialraves.com/footer/report">Report a Problem</a> | <a href="http://www.socialraves.com/footer/careers">Careers</a> | <a href="http://www.socialraves.com/footer/faq">FAQ</a> | <a href="http://www.socialraves.com/footer/sitemap">Sitemap</a></p>
-	<p class="copyright txtcntr">© 2009 Social Raves. All Rights Reserved. Social Raves <a href="http://www.socialraves.com/footer/termsofuse">Terms of Use</a> and <a href="http://www.socialraves.com/footer/privacy">Privacy Policy</a>. </p>
+	<p class="copyright txtcntr">© 2011 Social Raves. All Rights Reserved. Social Raves <a href="http://www.socialraves.com/footer/termsofuse">Terms of Use</a> and <a href="http://www.socialraves.com/footer/privacy">Privacy Policy</a>. </p>
     
     <!-- <p class="copyright txtcntr">Website Designed & Maintained by <a href="http://www.sdi.la/" target="_blank">SDI</a></p> -->
 
@@ -583,7 +583,7 @@ function fnSendCompliment(url){
 		document.frmCompliment.txtemailid.focus();
 		return false;
 	}
-	if(document.frmCompliment.txtZipcode.value == ''){
+	/*if(document.frmCompliment.txtZipcode.value == ''){
 		document.getElementById("erroremailid").innerHTML = "";	
 		document.getElementById("errorZipcode").innerHTML	=	'Please provide your zip code.';
 		document.getElementById("errorZipcode").style.paddingTop="5px";
@@ -592,7 +592,7 @@ function fnSendCompliment(url){
 		return false;
 	}
 	else
-	{
+	{*/
 		ajaxObj1 = creatAjaxObj();
 
 		var url1 = 'http://www.socialraves.com/signup/checkemail';			
@@ -617,7 +617,7 @@ function fnSendCompliment(url){
 					else 
 					if(response1 == "success")
 					{
-						if(document.frmCompliment.txtZipcode.value == '')
+						/*if(document.frmCompliment.txtZipcode.value == '')
 						{
 							document.getElementById("erroremailid").innerHTML = "";	
 							document.getElementById("errorZipcode").innerHTML	=	'Please provide your zip code.';
@@ -627,7 +627,7 @@ function fnSendCompliment(url){
 							return false;
 						}
 						else
-						{
+						{*/
 							ajaxObj = creatAjaxObj();
 					
 							var url1 = 'http://www.socialraves.com/signup/checkzip';			
@@ -672,7 +672,7 @@ function fnSendCompliment(url){
 							ajaxObj.open("GET",url_val1,true);
 							ajaxObj.send(null);
 							return true;	
-						}
+						//}
 					}
 				}
 			}
@@ -680,7 +680,7 @@ function fnSendCompliment(url){
 		ajaxObj1.open("GET",url_val,true);
 		ajaxObj1.send(null);
 		return true;	
-	}				
+	//}				
 }
 </script>
 
