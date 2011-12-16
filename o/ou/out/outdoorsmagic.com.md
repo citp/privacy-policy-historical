@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorsmagic.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217075601id_/http%3A//www.outdoorsmagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorsmagic.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216210752id_/http%3A//www.outdoorsmagic.com/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
 
 # OUTDOORSmagic - Privacy Policy
 
@@ -29,4 +29,20 @@ If you are a member of this website, we may also permit third parties to use you
 
 You should be aware that if we are requested by the police or any regulatory or government authority investigating suspected illegal activities to access and disclose individually identifiable information concerning your activities whilst using our web site, we shall do so. We also reserve the right to disclose individually identifiable information to third parties where a complaint arises concerning your use of our web site, and that use is deemed by us inconsistent with these conditions.
 
-In addition to the uses made of information collected outlined above, all of the information Magicalia collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by Magicalia and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.
+In addition to the uses made of information collected outlined above, all of the information Magicalia collects, both what you tell us and what we collect through the use of cookies, is aggregated, such that the information collected from many users is grouped together in a way that does not disclose the personal information of any particular individual user. This aggregated information may be used by Magicalia and may be transferred to third parties. Any such statistical or demographic information will not include personal details through which you could be identified.  
+  
+[](https://web.archive.org/members/join.asp)
+
+[](http://www.twitter.com/outdoorsmagic)
+
+  
+
+
+[ ](http://www.outdoorsmagic.com/advertorial/advent-calender-2011/8777.html)
+
+[**2011 Advent Calendar**](http://www.outdoorsmagic.com/advertorial/advent-calender-2011/8777.html)  
+OM have teamed up with KEEN to offer 24 daily prizes in the lead up to Christmas
+
+[ ](http://www.outdoorsmagic.com/competitions/win-a-vortex-200-tent-with-force-ten/321.html)
+
+[ ](http://www.outdoorsmagic.com/competitions/win-a-geigerrig-hydration-pack/296.html)
