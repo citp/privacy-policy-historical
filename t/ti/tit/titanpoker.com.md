@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001171719id_/http%3A//www.titanpoker.com/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanpoker.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216194050id_/http%3A//titanpoker.com/about-us/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Information about the Privacy Policy of Titan Poker
 
 Titan Poker and its subsidiaries are committed to respecting and protecting your privacy. The following statement discloses the information gathered by Titan Poker.
 
