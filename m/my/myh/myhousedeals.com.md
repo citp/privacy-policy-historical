@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myhousedeals.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204033443id_/http%3A//www.myhousedeals.com/PrivacyPolicy2.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhousedeals.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216195625id_/http%3A//www.myhousedeals.com/policies/privacy-policy.asp) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# MyHouseDeals.com Privacy Policy
 
 This privacy notice discloses the privacy practices for myhousedeals.com and REI Network, LP. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
@@ -40,4 +40,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (800) 973-0233 or via email at[info@myhousedeals.com](mailto:info@myhousedeals.com).**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (800) 973-1180 or via email at[info@myhousedeals.com](mailto:info@myhousedeals.com).**
