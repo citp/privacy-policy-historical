@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiostationworld.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616154115id_/http%3A//radiostationworld.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiostationworld.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216041928id_/http%3A//radiostationworld.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # RadioStationWorld - Privacy Policy
 
