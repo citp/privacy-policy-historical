@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knownsrv.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621031113id_/http%3A//www.knownsrv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knownsrv.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216135315id_/http%3A//knownsrv.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - KnownSRV :: Secure, Quality, and Fast Hosting Solutions
 
