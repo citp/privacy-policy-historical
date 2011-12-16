@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305060430id_/http%3A//www.potbelly.com/home/PrivacyPolicy.aspx%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D700%26width%3D900) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potbelly.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216160949id_/http%3A//www.potbelly.com/home/PrivacyPolicy.aspx%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D700%26width%3D900) for the most accurate reproduction.*
 
 # Potbelly Sandwich Shop | Privacy Policy
 
