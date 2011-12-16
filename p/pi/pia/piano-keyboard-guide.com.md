@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piano-keyboard-guide.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611074657id_/http%3A//www.piano-keyboard-guide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piano-keyboard-guide.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216090351id_/http%3A//www.piano-keyboard-guide.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Piano Keyboard Guide.com Privacy Policy
 
@@ -55,7 +55,11 @@ If you do not agree to Piano-Keyboard-Guide.com's PrivacyPolicy as posted here o
 Your use of this site indicates acceptance of this privacypolicy. 
 
   
-**Share this page:  **  
+
+
+### New! Comments
+
+Have your say about what you just read! Leave me a comment in the box below. **Share this page:  **  
 
 
 What's This?
