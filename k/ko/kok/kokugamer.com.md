@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kokugamer.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616220353id_/http%3A//kokugamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kokugamer.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216121305id_/http%3A//kokugamer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Koku Gamer
+# Koku Gamer » Privacy Policy
 
 What information do we collect?
 
