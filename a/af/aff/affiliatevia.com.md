@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatevia.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127051431id_/http%3A//affiliatevia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatevia.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216134216id_/http%3A//www.affiliatevia.com/privacy.html) for the most accurate reproduction.*
 
 # AffiliateVia | Innovative Publisher Affiliate Network & CPA/CPL Netowrk
 
