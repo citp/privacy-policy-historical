@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adap.tv privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624213732id_/http%3A//adap.tv/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adap.tv privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216152858id_/http%3A//www.adap.tv/policy.html) for the most accurate reproduction.*
 
 # Adap.tv | Powering Video Advertising
 
 ## Privacy Policy
 
-Adap.tv is committed to transparency and accountability in our privacy practices. The following statement describes Adap.tv’s Privacy Policy as it relates to the collection, use and disclosure of personal information Adap.tv receives from users of [http://www.adap.tv](http://www.adap.tv/) (this “Site”) and Adap.tv’s online video advertising platform services (the “Services”). The purpose of this Privacy Policy is to inform you of the following:
+Adap.tv is committed to transparency and accountability in our privacy practices. The following statement describes Adap.tv's Privacy Policy as it relates to the collection, use and disclosure of information Adap.tv receives from users of http://www.adap.tv (this "Site") and Adap.tv’s online video advertising platform services (the "Services"). The purpose of this Privacy Policy is to inform you of the following:
 
   * Who Adap.tv is and the services it provides so that you can understand how Adap.tv's business may impact your privacy;
   * What kind of information, including any personally-identifiable information, is collected from you;
@@ -20,11 +20,11 @@ Adap.tv is committed to transparency and accountability in our privacy practices
 
 Adap.tv provides products and services that help online publishers, agencies, and ad networks manage and deliver online advertising in their online videos. As a consumer, when you see an advertisement before you watch an online video, Adap.tv may help deliver that ad from or for an advertiser to the website that has made the video available to you. Adap.tv also provides a marketplace, where buyers and sellers of online video advertising space can connect and do business. 
 
-Adap.tv is not in the business of collecting, using, or selling consumer data; however it does offer tools and technologies to advertisers and publishers that allow them to collect and use user data. This is done primarily to enable these buyers and sellers of online video-advertising space to try and ensure that the audience they desire sees their ads and that the advertising itself is delivered and the performance of the advertising can be analyzed. 
+Adap.tv is not in the business of collecting, using, or selling consumer data; however it does offer tools and technologies to advertisers and publishers that allow them to collect and use user data. This is done primarily to enable these buyers and sellers of online video-advertising space to try and ensure that the audience they desire sees their ads and that the advertising itself is delivered and the performance of the advertising can be analyzed. Types of data that may be used for this purpose range from behavioral or interest-related information to geographical or demographical user data. 
 
 ### Information Collected, and How It Is Collected
 
-Personally-Identifiable Information. Adap.tv does not generally collect personally-identifiable information in order to help our clients buy, sell, and deliver online video advertising. "Personally-Identifiable Information" means information that alone or when in combination with other information that Adap.tv collects may be used to readily identify, contact, or locate you. There may be some opportunities, for example when you use this Site, where you may choose to enter your name, contact information, and other personal details. For example, if you were interested in becoming one of our clients or using our Services you could provide us with contact details through our Site. 
+Personally-Identifiable Information. Adap.tv does not collect personally-identifiable information in order to help our clients buy, sell, and deliver online video advertising. "Personally-Identifiable Information" means information that alone or when in combination with other information that Adap.tv collects may be used to readily identify, contact, or locate you. There may be some opportunities, for example when you use this Site, where you may choose to enter your name, contact information, and other personal details. For example, if you were interested in becoming one of our clients or using our Services you could provide us with contact details through our Site. 
 
 Where we collect personally-identifiable information you will have clear notification of what we are doing so that you can choose not to provide it. 
 
@@ -32,20 +32,19 @@ Non-Personally-Identifiable Information. Non-personally-identifiable information
 
 ### Technologies We May Use for Data Collection.
 
-Adap.tv and/or Adap.tv Associates use different types of technologies to collect non-personally-identifiable information, including cookies, action tags, Web beacons, and single pixel GIFs.   
-_Cookies._   A cookie is a small data file that is transferred to your computer’s hard disk for record-keeping purposes when you request through your browser to receive a particular Web page or content. Adap.tv uses cookies for three purposes. 
+Adap.tv and/or Adap.tv Associates use different types of technologies to collect non-personally-identifiable information, including cookies, action tags, Web beacons, and single pixel GIFs. _Cookies_.  A cookie is a small data file that is transferred to your computer’s hard disk for record-keeping purposes when you request through your browser to receive a particular Web page or content. Adap.tv uses cookies for three purposes. 
 
-  1. _Persistent Cookies for Adap.tv Associates Use of Our Site._ **  **For our Adap.tv Associates who login to our Site so that they may use our Services, Adap.tv utilizes persistent cookies to save your login information for future logins to the Site. This functionality works as it does on many websites that work to enable you to have an easier experience logging in and navigating their websites. _We do not use persistent cookies in connection with helping Adap.tv Associates buy, sell, and deliver online video advertising._
-  2. _Session Cookies to Help Ad Delivery and Accounting._ **  **Adap.tv utilizes session ID cookies to enable certain features of the Services, to better understand how you interact with the Services, and to monitor aggregate usage by Adap.tv users and Web traffic routing on the Services. Unlike persistent cookies, session cookies are deleted from your computer when you close your browser. 
+  1. _Persistent Cookies for Adap.tv Associates Use of Our Site._ **  ** For our Adap.tv Associates who login to our Site so that they may use our Services, Adap.tv utilizes persistent cookies to save your login information for future logins to the Site. This functionality works as it does on many websites that work to enable you to have an easier experience logging in and navigating their websites. _We do not use persistent cookies in connection with helping Adap.tv Associates buy, sell, and deliver online video advertising._
+  2. _Session Cookies to Help Ad Delivery and Accounting._ **  ** Adap.tv utilizes session ID cookies to enable certain features of the Services, to better understand how you interact with the Services, and to monitor aggregate usage by Adap.tv users and Web traffic routing on the Services. Unlike persistent cookies, session cookies are deleted from your computer when you close your browser.
   3. _User Data Cookies for Ad Targeting_.  Adap.tv utilizes cookies to store user data that can aid in targeting of advertisements. This data is usually collected by Adap.tv Associates and used to deliver advertisements that are more relevant to a user’s interests.
 
 
 
-_Use of Cookies By Others._   Also, the Web publisher or advertiser may use cookies, action tags, GIFs, or Web beacons to collect information when you are visiting their websites. The information they collect is governed by their individual privacy policies, not Adap.tv’s. You are encouraged to read the privacy policies or statements of the other websites that you visit. You can learn more about how cookies and related technologies are used in connection with online advertising and analytics by visiting: 
+_Use of Cookies By Others._   Also, the Web publisher or advertiser with whom we partner may use cookies, action tags, GIFs, or Web beacons to collect information when you are visiting their websites. The information they collect is governed by their individual privacy policies, not Adap.tv’s. You are encouraged to read the privacy policies or statements of the other websites that you visit. You can learn more about how cookies and related technologies are used in connection with online advertising and analytics by visiting: <http://www.aboutads.info/how-interest-based-ads-work>.
 
 ### Opt-Out Procedure and Cookie Control
 
-There are two ways to opt-out of data collection by Adap.tv. First, if you do not want to receive any cookies from Adap.tv, you can disable cookies in your browser. Second, if you prefer that Adap.tv not use any cookies for the purpose of collecting data and/or targeting advertisements, you can click on the “Opt-Out” button on the opt-out page on the website, available here: http://www.adap.tv/opt-out.html.
+There are two ways to opt-out of data collection by Adap.tv. First, if you do not want to receive any cookies from Adap.tv, you can disable cookies in your browser. Second, if you prefer that Adap.tv not use any cookies for the purpose of targeting advertisements, you can click on the “Opt-Out” button on the opt-out page on the website, available here: [](http://www.adap.tv/opt-out.html). If you have multiple Internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser. If you or your anti-virus or other software deletes the opt-out cookies from your computer, if you re-install your browser, or if you delete your cookies, then you will need to repeat the process. 
 
 ### Use of the Information We Collect
 
@@ -55,7 +54,7 @@ _Use of Non-Personally-Identifiable Information._
 
  _Use of Personally-Identifiable Information._
 
-  Adap.tv uses personally-identifiable information it receives primarily to communicate with our Adap.tv Associates and Practices as we provide the Services. Adap.tv uses information we receive from business customer prospects in the same ways.    
+  Adap.tv uses personally-identifiable information it receives primarily to communicate with our Adap.tv Associates and Practices as we provide the Services. Adap.tv uses information we receive from business customer prospects in the same ways.   
 
 
 _Data from Adap.tv Associates._   Adap.tv allows Adap.tv Associates to import data that they have collected or purchased to deliver advertisements to certain audiences through the Services. Adap.tv is not responsible for and does not control the collection of this data. If you wish to opt out of collection of your information by third parties, then you must do so directly with those third parties. 
@@ -78,6 +77,21 @@ Business Transfers._
 
   In addition to the above, there is also the possibility that Adap.tv may one day be purchased by, or merged with, another company or otherwise be reorganized or sold. If that’s the case, the acquiring (or merging) company will have access to your information. 
 
+### Data Retention
+
+The amount of time that we retain data we collect on our systems varies in length based on the type of data collected, but is only retained by us so long as necessary to fulfill our legitimate business needs. Specifically, we retain data as follows:
+
+_Personal Information_
+
+* We retain account information obtained from vendors and business partners we work with indefinitely, but reserve the right to delete such information at our convenience. 
+* Any personal information voluntarily provided to us via email communication or through our corporate website is maintained indefinitely until deleted by the corporate email account owner. 
+
+_Non-Personally Identifiable Information_
+
+* We retain click-stream data (such as IP address, date/time of visit, browser type, web pages visited, etc.) for up to two (2) years. After two (2) years, information may be stored in aggregate for statistical and analysis purposes or is deleted. 
+* We retain behavioral segment data for periods as short as thirty (30) days, but may retain some behavioral segment data for up to two (2) years. After two (2) years, information may be stored in aggregate for statistical analysis purposes or is deleted. 
+* We retain demographic data for periods as short as thirty (30) days, but may retain some demographic data for periods of five (5). After five (5) years, information may be stored in aggregate for statistical analysis purposes or is deleted. 
+
 ### Security Precautions
 
 Adap.tv makes efforts to maintain the security of its network and the data we collect. We use various technologies, including, in certain instances, encryption, to ensure security standards. Adap.tv treats data that is stored on its servers as confidential information. Adap.tv has an internal security policy with respect to the confidentiality of customer and other data, limiting access only to those employees who we reasonably believe need to know such information for the purpose of performing their jobs. Please keep in mind, however, that the Internet is not a 100% secure medium. Therefore, although Adap.tv uses reasonable efforts to protect information, the possibility of somebody defeating its security measures does exist and none of our security measures should be viewed as a guarantee.
@@ -99,7 +113,7 @@ Where Adap.tv processes personally-identifiable information on our own behalf, y
 
 ### Contacting Adap.tv
 
-If you have questions or concerns regarding this Privacy Policy, you should contact Adap.tv by sending email to “support@adap.tv” with “Privacy” in the subject line or you may write to:
+If you have questions or concerns regarding this Privacy Policy, you should contact Adap.tv by sending email to “support@adap.tv” with "Privacy" in the subject line or you may write to:
 
 Adap.tv, Inc.  
 One Waters Park Drive  
@@ -116,4 +130,4 @@ Adap.tv reserves the right to modify this Privacy Policy at any time by posting 
 
 ### Effective Date
 
-The Privacy Policy was last revised on January 18, 2011.
+The Privacy Policy was last revised on August 26, 2011. 
