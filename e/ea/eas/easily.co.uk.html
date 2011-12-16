@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the easily.co.uk privacy policy that was archived on 2011-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110616174204id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easily.co.uk privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216110759id_/http%3A//easily.co.uk/index.php3%3Fexe%3Dterms%26page%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Last-Modified" content="Thu, 16 Jun 2011 17:42:04 GMT">
-<meta http-equiv="Expires" content="Thu, 16 Jun 2011 17:46:04 GMT">
+<meta http-equiv="Last-Modified" content="Fri, 16 Dec 2011 11:07:58 GMT">
+<meta http-equiv="Expires" content="Fri, 16 Dec 2011 11:11:58 GMT">
 <meta name="revisit-after" content="15 days">
 <meta name="robots" content="all">
 <meta name="keywords" content="privacy policy, easily, web hosting, domains, email">
@@ -19,9 +19,6 @@
 <script type="text/javascript" src="/scripts/kjax2.js"></script>
 <script type="text/javascript">
 <!--
-var xmlHttp = null;
-var thisspanId = null;
-
 function GetXmlHttpObject() {
     try {
         // Firefox, Opera 8.0+, Safari
@@ -38,27 +35,33 @@ function GetXmlHttpObject() {
 }
 
 function ajax_update(spanId,url,value) {
+    var xmlHttp = null;
+    var thisspanId = null;
+
     document.getElementById(spanId).innerHTML='<img src="/images/ajax-loader.gif" /> loading...';
 
     if (value.length==0) {
         document.getElementById(spanId).innerHTML='';
     } else {
         xmlHttp=GetXmlHttpObject();
-        url=url+'?value='+value;
+        var regex = /[?].*$/g;
+        if (url.match(regex) == null) {
+            url=url+'?value='+value;
+        } else {
+            url=url+'&value='+value;
+        }
         if (xmlHttp==null) {
             alert('Your browser does not support AJAX!');
         } else {
             thisspanId = spanId;
-            xmlHttp.onreadystatechange=stateChanged;
+            xmlHttp.onreadystatechange= function () {
+                if (xmlHttp.readyState==4) {
+                    document.getElementById(thisspanId).innerHTML = xmlHttp.responseText;
+                }
+            }
             xmlHttp.open('GET',url,true);
             xmlHttp.send(null);
         }
-    }
-}
-
-function stateChanged() {
-    if (xmlHttp.readyState==4) {
-        document.getElementById(thisspanId).innerHTML = xmlHttp.responseText;
     }
 }
 -->
@@ -85,10 +88,10 @@ function stateChanged() {
 
     <div class="headereasilylogo">
         <a href="http://easily.co.uk/"><img src="/images/easily_03.gif" alt="Domain names from Easily.co.uk"></a><br>
-        <a href="http://twitter.com/#!/easilydomains"><img src="/images/Twitter-icon.png" alt="Twitter" title="Twitter"></a>&nbsp;
-        <a href="http://www.facebook.com/pages/Easilycouk/118256096900"><img src="/images/FaceBook-icon.png" alt="FaceBook" title="FaceBook"></a>&nbsp;
+        <a href="http://twitter.com/#!/easilydomains" target="_blank"><img src="/images/Twitter-icon.png" alt="Twitter" title="Twitter"></a>&nbsp;
+        <a href="http://www.facebook.com/pages/Easily-Getting-Business-Online/160482307354124" target="_blank"><img src="/images/FaceBook-icon.png" alt="FaceBook" title="FaceBook"></a>&nbsp;
         <a href="http://easily.co.uk/blog"><img src="/images/Blog-icon.png" alt="Blog" title="Blog"></a>&nbsp;
-        <a href="http://www.youtube.com/user/easilycouk"><img src="/images/YouTube-icon.png" alt="YouTube" title="YouTube"></a><br>
+        <a href="http://www.youtube.com/user/easilycouk" target="_blank"><img src="/images/YouTube-icon.png" alt="YouTube" title="YouTube"></a><br>
     </div>
 
     <div class="header0800nums">
@@ -116,13 +119,13 @@ function stateChanged() {
 <td><img src="/images/easily_14_a.gif" width="3" height="21" alt=""></td>
 <td><a href="/index.php3?exe=businessedition" class="pam_item">create your<br>own website</a></td>
 <td><img src="/images/easily_14_a.gif" width="3" height="21" alt=""></td>
-<td><a href="emailaccounts.php" class="pam_item">set up<br>your email</a></td>
+<td><a href="/emailaccounts.php" class="pam_item">set up<br>your email</a></td>
 <td><img src="/images/easily_14_a.gif" width="3" height="21" alt=""></td>
-<td><a href="whataremyoptions.php" class="pam_item">host your<br>website</a></td>
+<td><a href="/linuxhosting.php" class="pam_item">host your<br>website</a></td>
 <td><img src="/images/easily_14_a.gif" width="3" height="21" alt=""></td>
 <td><a href="/index.php3?exe=searchengine" class="pam_item">promote your<br>website</a></td>
 <td><img src="/images/easily_14_a.gif" width="3" height="21" alt=""></td>
-<td><a href="/index.php3?exe=easilyshop" class="pam_item">sell through<br>your website</a></td>
+<td><a href="/easilyshopmain" class="pam_item">sell through<br>your website</a></td>
 <td><img src="/images/easily_14_a.gif" width="3" height="21" alt=""></td>
 </tr></tbody></table>
 </div>
@@ -138,7 +141,7 @@ function stateChanged() {
         <span class="pom_sectionhead">Website Creator<br>(includes hosting)</span><br>
         &gt;<a href="/index.php3?exe=personaledition" class="navText"> Personal</a><br>
         &gt;<a href="/index.php3?exe=businessedition" class="navText"> Business</a><br>
-        &gt;<a href="/index.php3?exe=easilyshop" class="navText"> Easilyshop - Ecommerce</a><br>
+        &gt;<a href="/easilyshopmain" class="navText"> Easilyshop - Ecommerce</a><br>
         <span class="pom_sectionhead">Hosting</span><br>
         &gt; <a href="whataremyoptions.php" class="navText">What Are My Options?</a><br>
         &gt; <a href="linuxhosting.php" class="navText">Linux Hosting</a><br>
@@ -155,85 +158,79 @@ function stateChanged() {
         &gt; <a href="avg.php" class="navText">AVG Internet Security</a><br>
         &gt; <a href="/index.php3?exe=paypal" class="navText">PayPal Integration</a><br>
     </div>
-    <div class="pom_flash">
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="//download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="150" height="200"><param name="movie" value="images/3top-reasons.swf"><param name="quality" value="high"><embed src="/images/3top-reasons.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="150" height="200"></object>
-    </div>
 </div>
 
 </td><td valign="top">
 
 <div class="pagemaincontent"><!-- start of main page content section -->
-<h2 style="text-align: justify;" class="easy_title1">Privacy Policy<br><br></h2>  
-<p style="text-align: justify;" class="easy_subhead1">This website is provided by Easily Limited (also known as "Easily.co.uk").</p>  
-<p style="text-align: justify;">Easily Limited (hereinafter referred to as Easily) is committed to protecting the privacy of its customers. This privacy policy applies to the websites managed by Easily (including but not limited to easily.co.uk and all subdomains of these) as well as the services and products provided through those sites.
-
-From to time we may make alterations to our website and to the products and services provided through it. This, and our commitment to protecting the privacy of your personal information may result in periodic changes to the privacy policy. Any such changes will be posted on this page and we would ask that you refer back to it regularly in order to review any amendments.</p>  
-<p style="text-align: justify;">Use of the Easily websites and services indicates your consent to the collection and use of information as described below.</p>  
-<p style="text-align: justify;">Any questions which you may have regarding this privacy policy should be directed to <a href="mailto:helpdesk@easily.co.uk">helpdesk@easily.co.uk</a></p> 
-<div style="text-align: justify;">&nbsp;
-</div><hr noshade="1" style="margin-left: 0px; margin-right: 0px;"> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">1.What information is collected and how is it used?</p>  
-<p style="text-align: justify;">We ask you to supply certain information when you sign up with us as a customer. This information includes your name, the name of your business (if applicable), your postal address, email address, telephone number, fax number (if applicable) and how you heard of us. This information will be used in the management of our own database and to enable us to contact you about the service you have requested (for example, to confirm the registration of a domain name or to inform you of the need to renew your registration when it expires). <br><br>We may also use your email address to send you our regular Easily newsletters. If you wish you may opt out from receiving these newsletters (see "Easily Newsletter" below).<br><br>In addition, when you use our website we store your IP address and may use this information to administer our website and help to diagnose any network or server problems. Our website uses cookies to keep track of your use of our website and e-commerce system. Information passed to us from your web browser may be stored and used in our internal statistical analysis. We may also automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our website. You cannot be identified from this information and it is only used to assist us in providing an effective service on our website</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">2. Do we share the information with anyone else?</p>  
-<p style="text-align: justify;">Easily will not, without your consent, divulge your personal information to a third party except in the following circumstances:</p>  
-<ul style="text-align: justify;"> 
-  <li>in order to register a domain name we are required to send your name, business name (if applicable), postal address and email address to organisations that formally record the registration; this information may be available to others via a "Whois" search;</li> 
-  <li>if required to do so by law or by any organisation with appropriate authority;</li> 
-  <li>if you have signed up for optional services which require us to pass your personal information to another company (see "Optional Services" below);</li> 
-  <li> to any financial institution with whom we hold an account for the purpose of verifying credit status and / or validating financial transactions;</li> 
-  <li> we may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you;</li> 
-  <li> in order to assist us in understanding our customer base some anonymous information (i.e not name or specific address) may from time to time be passed on to a third party for data analysis. If you do not wish your details to be utilised in this way you should follow the instructions on the page where you submit your details or contact the helpdesk;</li> 
-  <li> as part of a sale or transfer of the shares and/or assets of Easily Limited.</li> 
-</ul> 
-<div style="text-align: justify;"> 
-Easily Limited is not responsible for the privacy practices of other companies or websites.
-</div> 
-<p style="text-align: justify;">&nbsp;</p>  
-<p style="text-align: justify;" class="easy_subhead1">3. Credit Cards</p>  
-<p style="text-align: justify;">Credit card payment for our services is processed by our secure payment service provider. We do not record your credit card details on our database and the payment service provider does not record any other information about you.</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">4. Easily Newsletter</p>  
-<p style="text-align: justify;">From time to time Easily will send newsletters to those customers who have opted to be included on our various customer mailing lists. New customers have the opportunity to decide to opt in or out of these mailing lists when they first sign up with us to create an account. Existing customers or other people who are interested in the newsletters may opt in or out on the easily.co.uk website or by sending an email request to our <a href="index.php3?exe=contact">helpdesk support team</a>.</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">5. Optional Services</p>  
-<p style="text-align: justify;">From time to time Easily will offer additional services to our customers. In some cases these services may require us to pass personal data held by us to a third party. Any such service will be optional and the opt-in process will clearly show that personal data will be shared with another company.</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">6. How long will we hold data on you?</p>  
-<p style="text-align: justify;">Easily will not hold data for longer than is reasonably necessary for the purposes of the proper conduct of its business or as required by law.</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">7. Where is the data we hold stored?</p>  
-<p style="text-align: justify;">Information which you submit via our website is stored on a computer and sometimes on paper at our offices located in the European Economic Area. This is necessary in order to process the information and to send you any information you have requested.</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">8. Security</p>  
-<p style="text-align: justify;">Easily places great importance on the security of all information associated with its customers and has security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to user information. With regard to our website, we may use secure server software (SSL) to encrypt information you input before it is sent to us. While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur, we use our best efforts to prevent this.</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">9. Links to Other Sites</p>  
-<p style="text-align: justify;">The Easily website contains advertising and links to other websites. No personal information is passed to other websites if you follow one of these links. Easily is not responsible for the privacy practices or content of linked websites. We would encourage you to read the privacy statements of other websites, since their privacy policy may differ from ours.</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">10. Changes to Personal Information</p>  
-<p style="text-align: justify;">If you need to change the information that we keep, for example because you have moved or to correct an error, please <a href="index.php3?exe=contact">contact us</a>.</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">11. Consent</p>  
-<p style="text-align: justify;">Use of the easily.co.uk website and services indicates your consent to the collection and use of information as described in this policy. Any changes to the policy will be posted on this page.</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;" class="easy_subhead1">12. Governing Law</p>  
-<p style="text-align: justify;">Easily Limited is a UK company and this privacy policy is intended to be interpreted under English law.</p> 
-<div style="text-align: justify;">&nbsp;
-</div> 
-<p style="text-align: justify;"><a href="#thetop"><b>^ top of page<br></b></a></p></div><!-- end of main content section -->
+<h2 style="TEXT-ALIGN: justify" class="easy_title1">Privacy Policy<br><br></h2>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">This website is provided by Easily Limited (also known as "Easily.co.uk").</p>
+<p style="TEXT-ALIGN: justify">Easily Limited (hereinafter referred to as Easily) is committed to protecting the privacy of its customers. This privacy policy applies to the websites managed by Easily (including but not limited to easily.co.uk and all subdomains of these) as well as the services and products provided through those sites. From to time we may make alterations to our website and to the products and services provided through it. This, and our commitment to protecting the privacy of your personal information may result in periodic changes to the privacy policy. Any such changes will be posted on this page and we would ask that you refer back to it regularly in order to review any amendments.</p>
+<p style="TEXT-ALIGN: justify">Use of the Easily websites and services indicates your consent to the collection and use of information as described below.</p>
+<p style="TEXT-ALIGN: justify">Any questions which you may have regarding this privacy policy should be directed to <a href="mailto:helpdesk@easily.co.uk" shape="rect">helpdesk@easily.co.uk</a></p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div><hr noshade="" style="MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px">
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">1.What information is collected and how is it used?</p>
+<p style="TEXT-ALIGN: justify">We ask you to supply certain information when you sign up with us as a customer. This information includes your name, the name of your business (if applicable), your postal address, email address, telephone number, fax number (if applicable) and how you heard of us. This information will be used in the management of our own database and to enable us to contact you about the service you have requested (for example, to confirm the registration of a domain name or to inform you of the need to renew your registration when it expires). <br><br>We may also use your email address to send you our regular Easily newsletters. If you wish you may opt out from receiving these newsletters (see "Easily Newsletter" below).<br><br>In addition, when you use our website we store your IP address and may use this information to administer our website and help to diagnose any network or server problems. Our website uses cookies to keep track of your use of our website and e-commerce system. Information passed to us from your web browser may be stored and used in our internal statistical analysis. We may also automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our website. You cannot be identified from this information and it is only used to assist us in providing an effective service on our website</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">2. Do we share the information with anyone else?</p>
+<p style="TEXT-ALIGN: justify">Easily will not, without your consent, divulge your personal information to a third party except in the following circumstances:</p>
+<ul style="TEXT-ALIGN: justify">
+  <li>in order to register a domain name we are required to send your name, business name (if applicable), postal address and email address to organisations that formally record the registration; this information may be available to others via a "Whois" search;</li>
+  <li>if required to do so by law or by any organisation with appropriate authority;</li>
+  <li>if you have signed up for optional services which require us to pass your personal information to another company (see "Optional Services" below);</li>
+  <li>to any financial institution with whom we hold an account for the purpose of verifying credit status and / or validating financial transactions;</li>
+  <li>we may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you;</li>
+  <li>in order to assist us in understanding our customer base some anonymous information (i.e not name or specific address) may from time to time be passed on to a third party for data analysis. If you do not wish your details to be utilised in this way you should follow the instructions on the page where you submit your details or contact the helpdesk;</li>
+  <li>as part of a sale or transfer of the shares and/or assets of Easily Limited.</li>
+</ul>
+<div style="TEXT-ALIGN: justify">Easily Limited is not responsible for the privacy practices of other companies or websites. 
+</div>
+<p style="TEXT-ALIGN: justify">&nbsp;</p>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">3. Credit Cards</p>
+<p style="TEXT-ALIGN: justify">Credit card payment for our services is processed by our secure payment service provider. We do not record your credit card details on our database and the payment service provider does not record any other information about you.</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">4. Easily Newsletter</p>
+<p style="TEXT-ALIGN: justify">From time to time Easily will send newsletters to those customers who have opted to be included on our various customer mailing lists. New customers have the opportunity to decide to opt in or out of these mailing lists when they first sign up with us to create an account. Existing customers or other people who are interested in the newsletters may opt in or out on the easily.co.uk website or by sending an email request to our <a href="index.php3?exe=contact" shape="rect">helpdesk support team</a>.</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">5. Optional Services</p>
+<p style="TEXT-ALIGN: justify">From time to time Easily will offer additional services to our customers. In some cases these services may require us to pass personal data held by us to a third party. Any such service will be optional and the opt-in process will clearly show that personal data will be shared with another company.</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">6. How long will we hold data on you?</p>
+<p style="TEXT-ALIGN: justify">Easily will not hold data for longer than is reasonably necessary for the purposes of the proper conduct of its business or as required by law.</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">7. Where is the data we hold stored?</p>
+<p style="TEXT-ALIGN: justify">Information which you submit via our website is stored on a computer and sometimes on paper at our offices located in the European Economic Area. This is necessary in order to process the information and to send you any information you have requested.</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">8. Security</p>
+<p style="TEXT-ALIGN: justify">Easily places great importance on the security of all information associated with its customers and has security measures in place to attempt to protect against the loss, misuse and alteration of customer data under our control. For example, our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised personnel have access to user information. With regard to our website, we may use secure server software (SSL) to encrypt information you input before it is sent to us. While we cannot ensure or guarantee that loss, misuse or alteration of data will not occur, we use our best efforts to prevent this.</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">9. Links to Other Sites</p>
+<p style="TEXT-ALIGN: justify">The Easily website contains advertising and links to other websites. No personal information is passed to other websites if you follow one of these links. Easily is not responsible for the privacy practices or content of linked websites. We would encourage you to read the privacy statements of other websites, since their privacy policy may differ from ours.</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">10. Changes to Personal Information</p>
+<p style="TEXT-ALIGN: justify">If you need to change the information that we keep, for example because you have moved or to correct an error, please <a href="/contactus.php" shape="rect">contact us</a>.</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">11. Consent</p>
+<p style="TEXT-ALIGN: justify">Use of the easily.co.uk website and services indicates your consent to the collection and use of information as described in this policy. Any changes to the policy will be posted on this page.</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify" class="easy_subhead1">12. Governing Law</p>
+<p style="TEXT-ALIGN: justify">Easily Limited is a UK company and this privacy policy is intended to be interpreted under English law.</p>
+<div style="TEXT-ALIGN: justify">&nbsp;
+</div>
+<p style="TEXT-ALIGN: justify"><a href="#thetop" shape="rect"><b>^ top of page<br></b></a></p></div><!-- end of main content section -->
 
 </td></tr></tbody></table>
 </td><td class="dropshadowright"><img src="/images/spacer.gif" width="4" height="1"></td></tr>
@@ -282,10 +279,10 @@ Easily Limited is not responsible for the privacy practices of other companies o
     <td valign="top">
       <p class="footer-header">Stay in touch</p>
       <ul class="footer">
-        <li class="footer"><a href="http://twitter.com/easilydomains" class="footer">Follow us on Twitter</a></li>
-        <li class="footer"><a href="http://www.facebook.com/pages/Easilycouk/118256096900" class="footer">FaceBook</a></li>
+        <li class="footer"><a href="http://twitter.com/easilydomains" class="footer" target="_blank">Follow us on Twitter</a></li>
+        <li class="footer"><a href="http://www.facebook.com/pages/Easily-Getting-Business-Online/160482307354124" class="footer" target="_blank">FaceBook</a></li>
         <li class="footer"><a href="http://easily.co.uk/blog" class="footer">Blog</a></li>
-        <li class="footer"><a href="http://www.youtube.com/user/easilycouk" class="footer">YouTube Channel</a></li>
+        <li class="footer"><a href="http://www.youtube.com/user/easilycouk" class="footer" target="_blank">YouTube Channel</a></li>
         <li class="footer"><a href="/index.php3?exe=maillist&amp;bignewslist=y" class="footer">Newsletter</a></li>
       </ul>
     </td>
@@ -293,7 +290,7 @@ Easily Limited is not responsible for the privacy practices of other companies o
     <td valign="top">
       <p class="footer-header">Customer Experience</p>
       <ul class="footer">
-        <li class="footer"><a href="/index.php3?exe=news&amp;bignewslist=n" class="footer">Testimonial</a></li>
+        <li class="footer"><a href="/testimonials" class="footer">Testimonials</a></li>
         <li class="footer"><a href="/easilytop5.php" class="footer">Top 5</a></li>
         <li class="footer"><a href="/survey/" class="footer">Help us improve</a></li>
         <li class="footer"><a href="/sitemap.xml" class="footer">Sitemap</a></li>
@@ -304,7 +301,7 @@ Easily Limited is not responsible for the privacy practices of other companies o
   <tr>
     <td align="center" width="100%" colspan="11">
       <br>
-Copyright © 1999 - 2011 Easily Limited, a Group NBT plc company,
+Copyright © 1999 - 2011 Easily Limited, a Group NBT company,
 registered in England (no: 03900580). All rights reserved.<br>Registered office: Third Floor, Prospero House,
 241 Borough High Street, London SE1 1GA. All
 prices exclude VAT unless otherwise stated.<br>
