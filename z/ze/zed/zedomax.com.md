@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zedomax.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617080159id_/http%3A//zedomax.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zedomax.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216112321id_/http%3A//zedomax.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy | zedomax.com
 
@@ -50,5 +50,4 @@ If we change our Privacy Policy, we will post those changes on zedomax.com.  If
 ## How to update, correct, or delete your information
 
 Email: To update or unsubscribe from our email newsletters or product announcements,  send email to sales zedomax.com.
-  
 
