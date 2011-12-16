@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinepax.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621190511id_/http%3A//cinepax.com/new/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinepax.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216152521id_/http%3A//cinepax.com/new/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
