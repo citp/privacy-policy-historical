@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonabit.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630014933id_/http%3A//www.gonabit.com/dubai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonabit.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216122859id_/http%3A//www.gonabit.com/dubai/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoNabit
 
@@ -138,6 +138,6 @@ All Inquiries:
 GoNabit (HQ)  
 PO Box 502352  
 Dubai, UAE  
-971-4-449-3150
+971-4-455-1600
 
 [mail@gonabit.com](mailto:mail@gonabit.com)
