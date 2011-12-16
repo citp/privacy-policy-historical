@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the driscolls.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510061329id_/http%3A//www.driscolls.com/footer/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driscolls.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216194953id_/http%3A//www.driscolls.com/footer/privacy-policy.php) for the most accurate reproduction.*
 
-# Driscoll's
+# Driscoll's®
 
 Last Updated: April 24, 2009 
 
@@ -51,7 +51,7 @@ By using this Site, you signify your assent to the Privacy Policy. If you do not
 
 ### 7\. TERMS OF USE
 
-Use of the Site is governed by the [Terms of Use](https://web.archive.org/web/20110510061329id_/http%3A//www.driscolls.com/footer/terms-of-use.php) viewable at [www.driscolls.com](https://web.archive.org/web/20110510061329id_/http%3A//www.driscolls.com/footer/terms-of-use.php).
+Use of the Site is governed by the [Terms of Use](https://web.archive.org/web/20111216194953id_/http%3A//www.driscolls.com/footer/terms-of-use.php) viewable at [www.driscolls.com](https://web.archive.org/web/20111216194953id_/http%3A//www.driscolls.com/footer/terms-of-use.php).
 
 ### 8\. CONTACT INFORMATION
 
