@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effectivemeasure.net privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610185818id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectivemeasure.net privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216213942id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
 
 # Effective Measure - Privacy Policy
 
@@ -21,7 +21,7 @@ We ask each of our customers to abide by all applicable laws, rules and regulati
 **Use of Cookies and Other Data Collection Methods**  
 In providing Effective Measure to our customers, it is Effective Measure's policy to use cookies and Rich Internet Applications (RIA) only for more accurate traffic analysis. The combination of information does not include personal data such as name, age, phone number, e-mail address or mailing address. Most browsers are initially set up to accept cookies.
 
-If you would prefer, you can set you're your browser to reject cookies.
+If you would prefer, you can set your browser to reject cookies.
 
 In two specific cases, 1) When a visitor opts in to complete a demographic survey or 2) when they elect to Opt Out of measurement, Effective Measure will utilise a Local Shared Object (a "Flash cookie") to help identify the users preference and ensure compliance with Opt Outs and privacy wishes. You can clear out or completely disable your local shared object by [visiting this page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
