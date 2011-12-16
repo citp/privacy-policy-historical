@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnmnewsnetwork.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615172744id_/http%3A//cnmnewsnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnmnewsnetwork.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217000048id_/http%3A//cnmnewsnetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy | CNM News Network
 
