@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the viraltweetbuilder.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628200156id_/http%3A//www.viraltweetbuilder.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraltweetbuilder.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216193918id_/http%3A//viralmediabuilder.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
 PRIVACY POLICY
 
-Welcome to VIRALTWEETBUILDER.com (the "Site").
+Welcome to ViralMediaBuilder.com (the "Site").
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Viraltweetbuilder.com (collectively, "Services") ("Authorized Customers"). 
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by ViralMediaBuilder.com (collectively, "Services") ("Authorized Customers"). 
 
 What Personally Identifiable Information is collected?
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell. 
 
-What organizations are collecting the information? In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+What organizations are collecting the information? In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them. 
 
 How does the Site use Personally Identifiable Information? We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
 
 With whom may the information may be shared? Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
 
-How is Personally Identifiable Information stored? Personally Identifiable Information collected by DownlineBuilderDirect.com is securely stored and is not accessible to third parties or employees of Viraltweetbuilder.com except for use as indicated above. TrafficAgentServer 1.01 
+How is Personally Identifiable Information stored? Personally Identifiable Information collected by DownlineBuilderDirect.com is securely stored and is not accessible to third parties or employees of ViralMediaBuilder.com except for use as indicated above. TrafficAgentServer 1.01 
 
 What choices are available to Visitors regarding collection, use and distribution of the information?? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at incbizzsupport@gmail.com 
 
 Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off. 
 
-Viraltweetbuilder.com.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+ViralMediaBuilder.com.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site? DownlineBuilderDirect.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
 
@@ -42,4 +42,6 @@ PLEASE NOTE: This Site is not directed at children. Visitors and Authorized Cust
 
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-Viraltweetbuilder.com , All rights reserved.. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+ViralMediaBuilder.com , All rights reserved.. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+
+TWITTER AND FACEBOOK ARE NOT ASSOCIATED WITH WWW.VIRALMEDIABUILDER.COM -ALL NAMES OF PRODUCTS AND/OR SERVICES MENTIONED ARE REGISTERED TRADEMARKS OR TRADEMARKS OF THEIR RESPECTIVE COMPANIES.
