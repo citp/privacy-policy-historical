@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jobinventory.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819091920id_/http%3A//www.jobinventory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobinventory.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217000129id_/http%3A//www.jobinventory.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - JobInventory.com
-
-## Privacy Policy
+# Privacy Policy // JobInventory.com
 
 **General**
 
