@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankflex.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618121258id_/http%3A//www.rankflex.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankflex.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216100740id_/http%3A//www.rankflex.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - RankFlex.com
 
