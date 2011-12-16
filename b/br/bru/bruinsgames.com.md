@@ -1,0 +1,7 @@
+> *The following text is extracted and transformed from the bruinsgames.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216180619id_/http%3A//www.bruinsgames.com/about) for the most accurate reproduction.*
+
+# Privacy Policy | Bruins Games
+
+July 26th, 2011   
+
+We use third-party advertising companies to serve ads when you visit our Web [site](http://www.bruinsgames.com/tag/site "site"). These companies may use aggregated [information](http://www.bruinsgames.com/tag/information "information") (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
