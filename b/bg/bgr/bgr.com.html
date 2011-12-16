@@ -1,9 +1,28 @@
-<!--The following is the downloaded HTML source of the bgr.com privacy policy that was archived on 2011-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628035815id_/http%3A//www.bgr.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bgr.com privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216202307id_/http%3A//www.bgr.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 <!-- ChartBeat Start -->
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://d1ros97qkrwjf5.cloudfront.net/25/eum/rum-staging.js" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+/** MMG - code to detect cookies and set a global (eww!) object that the cookie is detected. THROW AWAY CODE ***/
+var MMC_FAST_MODE=false, MMC_NOAD_MODE=false, MMC_NOSOCIAL_MODE=false, MMC_NOTAG_MODE=false;
+if(-1 !== document.cookie.indexOf("MMC_FAST_MODE")) {
+	MMC_FAST_MODE = true;
+}
+
+if(-1 !== document.cookie.indexOf("MMC_NOAD_MODE")) {
+	MMC_NOAD_MODE = true;
+}
+
+if(-1 !== document.cookie.indexOf("MMC_NOSOCIAL_MODE")) {
+	MMC_NOSOCIAL_MODE = true;
+}
+
+if(-1 !== document.cookie.indexOf("MMC_NOTAG_MODE")) {
+	MMC_NOTAG_MODE = true;
+}
+/** END THROW AWAY CODE **/
+
 var _sf_startpt=(new Date()).getTime();
 </script>
 <!-- ChartBeat End -->
@@ -12,7 +31,7 @@ var _sf_startpt=(new Date()).getTime();
 <meta property="fb:page_id" content="133848416626248">
 <title>
 Privacy Policy</title>
-<script type="text/javascript">
+<script type="text/javascript">var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script type="text/javascript">
 		var useragent_version= 1;	// the version of the JS
 		var useragent_cookie_name = "useragent";	//name of the cookie
 		var useragent_cookie_value = "";
@@ -36,6 +55,13 @@ Privacy Policy</title>
 		function wptouch_detect_mobile_useragent() {
 			var mobile_cookie_name = "wptouch-pro-view";
 			var mobile_cookie_value = "";
+
+			// Track the referrer for GA
+			if ( document.referrer == "" || document.referrer.indexOf("http://www.bgr.com") == -1 ) {
+				var exp_date=new Date();
+				exp_date.setDate(exp_date.getDate() + 1);
+				document.cookie = "mobile_referrer=" + encodeURIComponent(document.referrer) + ";expires=" + exp_date.toGMTString() + ";path=/;domain=.bgr.com";
+			}
 
 			// Check if the desktop switcher was used
 			var desktop_switcher_used = false;
@@ -67,7 +93,7 @@ Privacy Policy</title>
 										 return;
 				}
 			}else{
-				var mobile_user_agents = ["iPhone","iPod","Aspen","incognito","webmate","Android","2\.1\-update1","dream","CUPCAKE","froyo","BlackBerry9500","BlackBerry9520","BlackBerry9530","BlackBerry9550","BlackBerry 9800","webOS","s8000","bada","alcatel","amoi","android","audiovox","avantgo","benq","blackberry","cdm","danger","dopod","ericsson","fly","haier","htc","huawei","i\-mobile","iemobile\ 7","iphone","j\-phone","kddi","kwc","kyocera/wx310k","lenovo","lg/u990","lge\ vx","maemo","mot\-v","motorola","netfront","newt","nintendo\ ds","nitro","nokia","novarra","opera\ mini","palm","panasonic","pantech","philips","pixi","playstation\ portable","portalmmm","qtek","sagem","samsung","sanyo","sch-u960","scp6760","sharp","small","softbank","sonyericsson","sph\-m810","t\-mobile\ g1","toshiba","treo","treo850","vertu","windows\ phone","xda","zte"];
+				var mobile_user_agents = ["iPhone","iPod","incognito","webmate","Android","dream","CUPCAKE","froyo","BlackBerry9500","BlackBerry9520","BlackBerry9530","BlackBerry9550","BlackBerry 9800","BlackBerry 9780","webOS","s8000","bada","IEMobile/7\.0","Googlebot\-Mobile","alcatel","amoi","android","audiovox","avantgo","benq","blackberry","cdm","danger","dopod","ericsson","fly","haier","htc","huawei","i\-mobile","iemobile\ 7","iphone","j\-phone","kddi","kwc","kyocera/wx310k","lenovo","lg/u990","lge\ vx","maemo","mot\-v","motorola","netfront","newt","nintendo\ ds","nitro","nokia","novarra","opera\ mini","palm","panasonic","pantech","philips","pixi","playstation\ portable","portalmmm","qtek","sagem","samsung","sanyo","sch-u960","scp6760","sharp","small","softbank","sonyericsson","sph\-m810","t\-mobile\ g1","toshiba","treo","treo850","vertu","windows\ phone","xda","zte"];
 				var current_user_agent = navigator.userAgent.toLowerCase();
 				for (i = 0; i < mobile_user_agents.length; i++) {
 					var regex = new RegExp(mobile_user_agents[i], 'gi');
@@ -91,16 +117,45 @@ Privacy Policy</title>
 		function wptouch_set_switch_cookie(cookie_name, cookie_value) {
 			var exp_date=new Date();
 			exp_date.setDate(exp_date.getDate() + 365);
-			document.cookie = cookie_name + "=" + cookie_value + ";expires=Saturday, 30-Jun-12 00:00:00 UTC; path=/";
+			document.cookie = cookie_name + "=" + cookie_value + ";expires=Monday, 31-Dec-12 00:00:00 UTC; path=/";
 		}
-		</script><link rel="alternate" type="application/rss+xml" title="BGR » Feed" href="http://www.bgr.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="BGR » Comments Feed" href="http://www.bgr.com/comments/feed/">
+		</script>
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.0.2.2 - http://yoast.com/wordpress/seo/ -->
+<meta name="description" content="Effective: January 4, 2011 BGR Media, LLC&nbsp;(“BGR”) is committed to protecting your privacy and maintaining a safe online experience for all of our u">
+<link rel="canonical" href="http://www.bgr.com/privacy-policy/">
+<!-- / Yoast WordPress SEO plugin. -->
 
+<link rel="alternate" type="application/rss+xml" title="BGR: The Three Biggest Letters In Tech » Feed" href="http://www.bgr.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="BGR: The Three Biggest Letters In Tech » Comments Feed" href="http://www.bgr.com/comments/feed/">
+				
 	<script type="text/javascript">//<![CDATA[
-	// Google Analytics for WordPress by Yoast v4.0.10 | http://yoast.com/wordpress/google-analytics/
+	// Google Analytics for WordPress by Yoast v4.1.3 | http://yoast.com/wordpress/google-analytics/
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount','UA-1915907-32']);
-	_gaq.push(['_setAllowAnchor',true],['_setDomainName','.bgr.com'],['_setCustomVar',1,'author','boygenius',3],['_trackPageview']);
+	
+
+	var mobile_referrer_cookie_name = "mobile_referrer";
+	var mobile_referrer_cookie_value = "";
+	if (document.cookie.length > 0) {
+		cookie_start = document.cookie.indexOf(mobile_referrer_cookie_name + "=");
+		if (cookie_start != -1) {
+			cookie_start = cookie_start + mobile_referrer_cookie_name.length + 1;
+			cookie_end = document.cookie.indexOf(";", cookie_start);
+			if (cookie_end == -1)
+				cookie_end = document.cookie.length;
+			mobile_referrer_cookie_value = decodeURIComponent(document.cookie.substring(cookie_start, cookie_end));
+			if ( "" == mobile_referrer_cookie_value ) {
+				_gaq.push(['_addIgnoredRef', 'bgr.com']);
+				_gaq.push(['_addIgnoredRef', 'www.bgr.com']);
+			} else {
+				_gaq.push(['_setReferrerOverride',mobile_referrer_cookie_value]);
+			}
+			document.cookie = mobile_referrer_cookie_name + "=;expires=Thu, 01-Jan-1970 00:00:01 GMT;path=/;domain=.bgr.com";
+		}
+	}
+
+
+	_gaq.push(['_setAllowAnchor',true],['_setDomainName','.bgr.com'],['_setCustomVar',1,'author','boygenius',3],['_trackPageview'],['_trackPageLoadTime']);
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -108,17 +163,18 @@ Privacy Policy</title>
 	})();
 	//]]></script>
 <link rel="stylesheet" id="base-css" href="http://yui.yahooapis.com/combo?3.2.0/build/cssfonts/fonts-min.css&amp;3.2.0/build/cssreset/reset-min.css&amp;3.2.0/build/cssgrids/grids-min.css&amp;3.2.0/build/cssbase/base-min.css" type="text/css" media="all">
-<link rel="stylesheet" id="bgr2010-css" href="http://www.bgr.com/wp-content/themes/bgr2010/style.css?ver=111" type="text/css" media="all">
+<link rel="stylesheet" id="bgr2010-css" href="http://www.bgr.com/wp-content/themes/bgr2010/style.css?ver=129" type="text/css" media="all">
 <link rel="stylesheet" id="NextGEN-css" href="http://www.bgr.com/wp-content/plugins/nextgen-gallery/css/nggallery.css?ver=1.0.0" type="text/css" media="screen">
-<link rel="stylesheet" id="sociable-front-css-css" href="http://www.bgr.com/wp-content/plugins/sociable/sociable.css?ver=3.0.5" type="text/css" media="all">
-<link rel="stylesheet" id="sociable-sprite-css-css" href="http://www.bgr.com/wp-content/plugins/sociable/sociable-3.5.0.css?ver=3.0.5" type="text/css" media="all">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<link rel="stylesheet" id="sociable-front-css-css" href="http://www.bgr.com/wp-content/plugins/sociable/sociable.css?ver=3.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="sociable-sprite-css-css" href="http://www.bgr.com/wp-content/plugins/sociable/sociable-3.5.0.css?ver=3.2.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.bgr.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 <script type="application/x-javascript">!window.jQuery && document.write('<script type="text/javascript" src="/wp-includes/js/jquery/jquery.js"><\/script>')</script><script type="text/javascript" src="/wp-includes/js/jquery/jquery.js"></script>
 <script type="text/javascript">try{jQuery.noConflict();}catch(e){};</script>
 <script type="text/javascript" src="http://www.bgr.com/wp-content/themes/bgr2010/js/jquery.lazyload.mini.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.bgr.com/wp-content/themes/bgr2010/js/head.js?ver=8"></script>
+<script type="text/javascript" src="http://www.bgr.com/wp-content/themes/bgr2010/js/head.js?ver=9"></script>
 <script type="text/javascript" src="http://www.bgr.com/wp-content/themes/bgr2010/js/jcarousellite.js?ver=1.0.1"></script>
-<script type="text/javascript" src="http://www.bgr.com/wp-includes/js/json2.js?ver=20090817"></script>
+<script type="text/javascript" src="http://www.bgr.com/wp-includes/js/json2.js?ver=2011-02-23"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var live_blogging = {
@@ -127,14 +183,11 @@ var live_blogging = {
 };
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.bgr.com/wp-content/plugins/live-blogging/live-blogging.js?ver=3.0.5"></script>
+<script type="text/javascript" src="http://www.bgr.com/wp-content/plugins/live-blogging/live-blogging.js?ver=3.2.1"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 <script type="text/javascript" src="http://www.bgr.com/wp-content/plugins/vipers-video-quicktags/resources/jw-flv-player/jwplayer.js?ver=1"></script>
 <script type="text/javascript" src="http://www.bgr.com/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.88"></script>
 <script type="text/javascript" src="http://www.bgr.com/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.05"></script>
-<link rel="prev" title="HTC Hero hands on" href="http://www.bgr.com/gallery/handsets/htc-hero-hands-on/">
-<link rel="next" title="Terms of Service" href="http://www.bgr.com/terms-of-service/">
-<link rel="stylesheet" type="text/css" href="http://www.bgr.com/wp-content/plugins/aniga_gallery/gallery-style.css?ver=1" media="screen">
 
 <!-- start general-header header 0.5-6 -->
 <!-- Quantcast Tag, part 1 --> 
@@ -183,13 +236,7 @@ if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined'
 		text-align: center;
 	}
 	</style>
-	
-	<!-- This site is optimized with the Yoast WordPress SEO plugin v0.2.5.4 - http://yoast.com/wordpress/seo/ -->
-	<meta name="description" content="MMC’s Privacy Policy Effective: June 7, 2010 Mail.com Media Corporation (“MMC”) is committed to protecting your privacy and maintaining a safe">
-	<link rel="canonical" href="http://www.bgr.com/privacy-policy/">
-	<!-- / Yoast WordPress SEO plugin. -->
-
-<style type="text/css">
+	<style type="text/css">
 #wptouch-desktop-switch {
 		  padding: 15px 15px 30px;
 		  font-size: 200%;
@@ -224,7 +271,7 @@ if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined'
 // ]]>
 </script>
 <link rel="pingback" href="http://www.bgr.com/xmlrpc.php">
-</head>
+<script async="" type="text/javascript" src="http://disqus.com/forums/bgr/count.js"></script></head>
 <body>
 
 <!-- start general-header body 0.5-6 -->
@@ -240,15 +287,15 @@ if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined'
     	<a id="logo" href="/" title="Boy Genius Report">BGR</a>
     </div>
       <div id="header-leaderboard">
-        					<!-- begin ad tag -->
-					<iframe class="mmcAd_Iframe " src="http://ads.vimg.net/Ads.html#width=728&amp;height=90&amp;zonename=ros&amp;hostname=www.bgr.com&amp;sitename=bgr&amp;params=pos=top;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/&amp;tile=1&amp;ord=84088483672482800" width="728px" height="90px" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
-					<noscript>
-						<a href="http://ad.doubleclick.net/jump/bgr/ros;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=1;sz=728x90;&params=pos=top;ord=123456789?" target="_blank">
-						<img src="http://ad.doubleclick.net/ad/bgr/ros;kw=privacy-policy;kw=general;tile=1;sz=728x90;&params=pos=top;ord=123456789?" width="728px" height="90px" border="0" alt="">
-						</a>
-					</noscript>
-					<!-- End ad tag -->
-      </div>
+                                <!-- begin ad tag -->
+                        <iframe class="mmcAd_Iframe " src="http://ad.doubleclick.net/adi/bgr/ros;sz=728x90;host=www.bgr.com;pos=top;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=1;ord=43645256645084920" width="728px" height="90px" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+                        <noscript>
+                        <a href="http://ad.doubleclick.net/jump/bgr/ros;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=1;sz=728x90;&params=pos=top;ord=123456789?" target="_blank">
+                            <img src="http://ad.doubleclick.net/ad/bgr/ros;kw=privacy-policy;kw=general;tile=1;sz=728x90;&params=pos=top;ord=123456789?" width="728px" height="90px" border="0" alt="">
+                        </a>
+                        </noscript>
+                        <!-- End ad tag -->
+                              </div>
     </div>
   </div>
   <!-- END header -->
@@ -263,12 +310,11 @@ if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined'
           <input type="submit" class="search-btn" id="searchsubmit" value="">
         </form>
       </div>
-      <div id="primary-menu" class="yui3-u-2-3"><ul id="primary-menu" class="menu"><li id="menu-item-64816" class="menu-item menu-item-type-custom menu-item-home menu-item-64816 menu-item-class0"><a href="http://www.bgr.com/">Home</a></li>
-<li id="menu-item-78952" class="menu-item menu-item-type-custom menu-item-78952 menu-item-class1"><a href="http://www.bgr.com/topics/">Topics</a></li>
-<li id="menu-item-64818" class="menu-item menu-item-type-post_type menu-item-64818 menu-item-class2"><a href="http://www.bgr.com/gallery/">Gallery</a></li>
-<li id="menu-item-64819" class="menu-item menu-item-type-taxonomy menu-item-64819 menu-item-class3"><a href="http://www.bgr.com/category/sections/reviews/">Review</a></li>
-<li id="menu-item-94778" class="menu-item menu-item-type-post_type menu-item-94778 menu-item-class4"><a href="http://www.bgr.com/podcasts/">podcasts</a></li>
-<li id="menu-item-69138" class="menu-item menu-item-type-custom menu-item-69138 menu-item-class5"><a href="http://www.bgr.com/guide/">Buying Guides</a></li>
+      <div id="primary-menu" class="yui3-u-2-3"><ul id="primary-menu" class="menu"><li id="menu-item-64816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-64816 menu-item-class0"><a href="http://www.bgr.com/">Home</a></li>
+<li id="menu-item-78952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-78952 menu-item-class1"><a href="http://www.bgr.com/topics/">Topics</a></li>
+<li id="menu-item-64818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64818 menu-item-class2"><a href="http://www.bgr.com/gallery/">Gallery</a></li>
+<li id="menu-item-64819" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64819 menu-item-class3"><a href="http://www.bgr.com/category/sections/reviews/">Review</a></li>
+<li id="menu-item-94778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94778 menu-item-class4"><a href="http://www.bgr.com/podcasts/">podcasts</a></li>
 </ul></div>    </div>
         <div class="tip-div" style="display:none;">
     	<div class="shadow"></div>
@@ -285,13 +331,13 @@ if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined'
         <li><a href="javascript:showTipusForm();" class="tipus" title="Tip Us">Tip Us</a></li>
       </ul>
       <span class="right">Subscribe</span> <span class="hottopicstext">Hot Topics</span>
-      <div id="hottopicscontainer" class="yui3-u-2-3"><ul id="hot-topics" class="menu"><li id="menu-item-70001" class="menu-item menu-item-type-custom menu-item-70001 menu-item-class6"><a href="http://www.bgr.com/tag/apple/">Apple</a></li>
-<li id="menu-item-70002" class="menu-item menu-item-type-custom menu-item-70002 menu-item-class7"><a href="http://www.bgr.com/tag/android/">Android</a></li>
-<li id="menu-item-70003" class="menu-item menu-item-type-custom menu-item-70003 menu-item-class8"><a href="http://www.bgr.com/tag/blackberry/">BlackBerry</a></li>
-<li id="menu-item-64823" class="menu-item menu-item-type-taxonomy menu-item-64823 menu-item-class9"><a href="http://www.bgr.com/category/sections/business-sections/">Business</a></li>
-<li id="menu-item-70004" class="menu-item menu-item-type-taxonomy menu-item-70004 menu-item-class10"><a href="http://www.bgr.com/category/sections/exclusives/">Exclusives</a></li>
-<li id="menu-item-64825" class="menu-item menu-item-type-taxonomy menu-item-64825 menu-item-class11"><a href="http://www.bgr.com/category/sections/mobile-sections/">Mobile</a></li>
-<li id="menu-item-70005" class="menu-item menu-item-type-taxonomy menu-item-70005 menu-item-class12"><a href="http://www.bgr.com/category/sections/reviews/">Reviews</a></li>
+      <div id="hottopicscontainer" class="yui3-u-2-3"><ul id="hot-topics" class="menu"><li id="menu-item-70001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70001 menu-item-class5"><a href="http://www.bgr.com/tag/apple/">Apple</a></li>
+<li id="menu-item-70002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70002 menu-item-class6"><a href="http://www.bgr.com/tag/android/">Android</a></li>
+<li id="menu-item-70003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70003 menu-item-class7"><a href="http://www.bgr.com/tag/blackberry/">BlackBerry</a></li>
+<li id="menu-item-64823" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64823 menu-item-class8"><a href="http://www.bgr.com/category/sections/business-sections/">Business</a></li>
+<li id="menu-item-70004" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70004 menu-item-class9"><a href="http://www.bgr.com/category/sections/exclusives/">Exclusives</a></li>
+<li id="menu-item-64825" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64825 menu-item-class10"><a href="http://www.bgr.com/category/sections/mobile-sections/">Mobile</a></li>
+<li id="menu-item-106184" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-106184 menu-item-class11"><a href="http://www.bgr.com/tag/innovation/">Innovation</a></li>
 </ul></div>    </div>
   </div>
   <!-- END hot topics -->
@@ -309,59 +355,35 @@ if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined'
 				 	</div>
 				</div>
 				<div class="post-article">
-					<p>MMC’s Privacy Policy</p>
-<p>Effective: June 7, 2010</p>
-<p>Mail.com Media Corporation (“MMC”) is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while providing a quality user experience. Because we gather certain types of information about and from you, our users and customers, in order to fulfill your requests and better serve your needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our User Agreement, and contact us if you have any questions.</p>
-<p>When you register for an account:</p>
-<p>We Will: <br>
- 1. Collect personally identifiable (e.g. name, address) and demographic (e.g. age, gender) information about you. We will use the non-personally identifiable demographic data to serve ads (pertaining to your geographic location, age, or gender) on our Web site when you log in. The information is collected when you register for your e-mail account.</p>
-<p>2. Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for premium services, then your credit card information will be encrypted using SSL technology and will be stored on secure servers.</p>
-<p>3. Give you access to review and edit your personal and demographic information while it is in our possession.</p>
-<p>4. Send you service announcements notifying you of any new products or updates to the service. We may use your alternate e-mail address and home address to ensure that you receive important information about your account or information you have requested. If you do not wish to receive these announcements simply go to the bottom of the newsletter and follow the instructions to make sure you do not receive any further notifications.</p>
-<p>5. Send you monthly newsletters that highlight certain e-mail features and provide you with information about additional products and services we think might be of interest to you. We will provide you with the opportunity to “opt out” of the newsletter, beginning with the initial newsletter.</p>
-<p>6. Give you the choice of “opting in” to receive third party mailings.</p>
-<p>7. Make it easy for you to unsubscribe from any MMC-owned mailing list by following directions at the bottom of any e-mail that you receive from us (unless it is vital to the operation of your account).</p>
-<p>8. Bundle information to better design our Web site and to share with our advertisers and partners. This aggregate information will not be used to learn anything about any particular individual.</p>
-<p>9. In developing our business, we may engage in the sale of certain assets and the company itself, or parts of it, may be sold, merged or otherwise transferred. In such transactions and changes in ownership, user information, whether personally identifiable or otherwise, may constitute one of the transferred assets. MMC will notify affected users in accordance with the procedure for changing this Privacy Policy described below.</p>
-<p>We Won’t:</p>
-<p>1. Send you unsolicited commercial e-mail (spam).</p>
-<p>2. Do the following, without your explicit permission;</p>
-<p>i. Give anyone access to your e-mail or open or read messages in your account, unless such release is necessary to:<br>
- a. Satisfy any law, regulation, or legal request. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process.</p>
-<p>b. Conduct investigations of consumer complaints and possible breaches of law;</p>
-<p>c. Enforce or apply the terms of our user agreement, or</p>
-<p>d. Protect the rights, property, or safety of MMC, our users, or the public.</p>
-<p>3. Share any data with outside parties that would identify a specific user (except in those circumstances listed in 2(i) above).</p>
-<p>4. Knowingly collect any information from children under the age of 13. To find out more about the Children’s Online Privacy Protection Rule Click here</p>
-<p>5. Contact you via e-mail or any other method to ask you for your password. Do not share your password with anyone; you should only enter it directly into our Web site.</p>
-<p>6. Contact you via e-mail or any other method to ask you for your credit card information. You should only enter this information directly into our Web site.</p>
-<p>7. Materially change how we use your personally identifiable information without placing a prominent notice on our Web site first.</p>
-<p>Tell-A-Friend: If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. MMC stores this information for the sole purpose of sending this one-time email.</p>
-<p>You or your friend may contact us at onlinehelp@staff.mail.com to request that we remove this information from our database.</p>
-<p>Cookies: Our Web site uses cookies for the purpose of identifying you when you access your account. This allows us to pre-populate your E-mail address on the login page and to distinguish between your Web session and that of the many other people using our service in and allow us to offer other functionalities (such as screening for age and “recognizing” you to speed up your log-in when you visit our Web site). We may also automatically collect your IP and referring Web site addresses, browser type, domain name and Web site access times (as described below). Our web-based mail service will not function unless your browser is set to accept cookies. You can turn off cookies, but that will affect your online experience.</p>
-<p>We use third-party companies to serve ads and/or collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to our Web site in order to provide advertisements on our Web site, other sites and other forms of media about goods and services that may be of interest to you. They may also use this information to track the effectiveness of those ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to <a href="http://www.networkadvertising.org/optout_nonppii.asp" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','www.networkadvertising.org']);">http://www.networkadvertising.org/optout_nonppii.asp</a></p>
-<p>Links: Be aware that when you click on ad banners, you may be redirected to other sites not operated by MMC. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.</p>
+					<p><strong>Effective: January 4, 2011</strong></p>
+<p>BGR Media, LLC&nbsp;(“BGR”) is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while providing a quality user experience. Because we gather certain types of information about and from you, our users and customers, in order to fulfill your requests and better serve your needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our User Agreement, and contact us if you have any questions.</p>
+<p><strong>Cookies:</strong></p>
+<p>Our Web site uses cookies for the purpose of identifying you when you access your account. This allows us to pre-populate your E-mail address on the login page and to distinguish between your Web session and that of the many other people using our service inand allow us to offer other functionalities (such as screening for age and “recognizing” you to speed up your log-in when you visit our Web site). We may also automatically collect your IP and referring Web site addresses, browser type, domain name and Web site access times (as described below). Our web-based mail service will not function unless your browser is set to accept cookies. You can turn off cookies, but that will affect your online experience.</p>
+<p>We use third-party companies to serve ads and/or collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number)å about your visits to our Web site in order to provide advertisements on our Web site, other sites and other forms of media about goods and services that may be of interest to you. They may also use this information to track the effectiveness of those ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to&nbsp;<a href="http://www.networkadvertising.org/optout_nonppii.asp" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.networkadvertising.org']);">http://www.networkadvertising.org/optout_nonppii.asp.</a></p>
+<p>Links: Be aware that when you click on ad banners, you may be redirected to other sites not operated by BGR. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.</p>
 <p>General Information Collected: When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., Earthlink, Verizon).</p>
-<p>The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our products and services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.</p>
-<p>Third Party Service Providers: Agents and affiliates of MMC may occasionally process individual user data as required to provide services for which the user has registered. However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by MMC. Features on the Web site that utilize third party service providers include: e-mail notification services and credit card processing. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. We will not otherwise provide any personal data to your credit card company without your permission.</p>
-<p>From time to time we partner with third party service providers to offer additional products and services within the Web site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information. These services include: dating and personals, employment services, home loans, apartment rentals and other services, all of which are purely optional for the user.</p>
-<p>Personal Information: It is the responsibility of each user to provide MMC with accurate information at all times. Personal information collected during the account registration process includes: name, street address, city, state, zip code, country, age, gender as well as an alternate email address (optional). Payment information will also be collected if users have registered for a premium account. In order to update the personal information, users may do the following:</p>
-<p>Login to the account via the Web site<br>
- On the top navigation bar click on “My Account”<br>
- Make any changes and then click ““Finish”“ to save the changes</p>
-<p>Changes to our Privacy Policy:</p>
-<p>We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry.. We recommend that you check the Privacy Policy when you visit our Web site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Web site visitors information on material changes to this Privacy Policy.</p>
-<p>Your California Privacy Rights:</p>
-<p>Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information MMC shares with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: MMC, 9800 S. La Cienega Blvd, Los Angeles, CA 90301. In your request, please specify that you want a “Your MMC California Privacy Rights Notice”. Please allow at least 30 days for a response.</p>
-<p>Questions?</p>
-<p>For any questions or comments concerning MMC’s privacy policy, please write to: <a href="mailto:PrivacyDirector@mail.com">PrivacyDirector@mail.com</a></p>
-<p>Or send a letter to:<br>
- 9800 South La Cienega Blvd.<br>
- Los Angeles, CA 90301<br>
- (310) 321-5000</p>
-<p>Law Enforcement inquiries can be directed to <a href="mailto:LegalCompliance@corp.mail.com">LegalCompliance@corp.mail.com</a>.</p>
-<p>All spam, UCE and general abuse issues should be directed to: <a href="mailto:abuse@mail.com">abuse@mail.com</a>.</p>
-<p><br class="spacer_"></p>
+<p>The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web Site and to continually improve our products and services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.</p>
+<p><strong>Third Party Service Providers:</strong></p>
+<p>Agents and affiliates of BGR may occasionally process individual user data as required to provide services for which the user has registered. However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by BGR. Features on the Web Site that utilize third party service providers include: e-mail notification services and credit card processing. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. We will not otherwise provide any personal data to your credit card company without your permission.</p>
+<p>From time to time we partner with third party service providers to offer additional products and services within the Web Site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information. These services include: dating and personals, employment services, home loans, apartment rentals and other services, all of which are purely optional for the user.</p>
+<p><strong>Personal Information:</strong></p>
+<p>It is the responsibility of each user to provide BGR with accurate information at all times. Personal information collected during the account registration process includes: name, street address, city, state, zip code, country, age, gender as well as an alternate email address (optional). Payment information will also be collected if users have registered for a premium account. In order to update the personal information, users may do the following:</p>
+<p>Login to the account via the website</p>
+<p>On the top navigation bar click on “My Account”</p>
+<p>Make any changes and then click “Finish” to save the changes</p>
+<p><strong>Changes to our Privacy Policy:</strong></p>
+<p>We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. We recommend that you check the Privacy Policy when you visit our Web Site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Web Site visitors information on material changes to this Privacy Policy.</p>
+<p><strong>Your California Privacy Rights:</strong></p>
+<p>Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information BGR shares with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: BGR, 9800 South La Cienega Blvd., Los Angeles, CA 90301. In your request, please specify that you want a “BGR California Privacy Rights Notice”. Please allow at least 30 days for a response.</p>
+<p><strong>Questions?</strong></p>
+<p><strong>For any questions or comments concerning BGR’s privacy policy, please write to:</strong></p>
+<p>PrivacyDirector@pmc.com</p>
+<p>Or send a letter to:</p>
+<p>9800 South La Cienega Blvd.</p>
+<p>Los Angeles, CA 90301</p>
+<p>(310) 321-5000</p>
+<p>Law Enforcement inquiries can be directed to LegalCompliance@pmc.com.</p>
+<p>All spam,&nbsp;UCE&nbsp;and general abuse issues should be directed to: abuse@pmc.com.</p>
 				</div>
 			</div>
 			<!-- End Post -->
@@ -371,52 +393,54 @@ if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined'
 		 <!-- START sidebar -->
 		<div id="sidebar" class="yui3-u-1-3">
 		  <div class="sidebar-content">
-						<div class="mmc-ad ad-300x250">
-					<!-- begin ad tag -->
-					<iframe class="mmcAd_Iframe " src="http://ads.vimg.net/Ads.html#width=300&amp;height=250&amp;zonename=ros&amp;hostname=www.bgr.com&amp;sitename=bgr&amp;params=pos=top;dcopt=ist;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/&amp;tile=2&amp;ord=84088483672482800" width="300px" height="250px" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
-					<noscript>
-						<a href="http://ad.doubleclick.net/jump/bgr/ros;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=2;sz=300x250;&params=pos=top;dcopt=ist;ord=123456789?" target="_blank">
-						<img src="http://ad.doubleclick.net/ad/bgr/ros;kw=privacy-policy;kw=general;tile=2;sz=300x250;&params=pos=top;dcopt=ist;ord=123456789?" width="300px" height="250px" border="0" alt="">
-						</a>
-					</noscript>
-					<!-- End ad tag -->
-			</div>
-<div class="module" id="mostpopular"><span class="title"></span><div class="module-content"><ul><li><span class="rank-popular1"></span><a title="Google's" first="" ice="" cream="" sandwich="" phone="" to="" be="" manufactured="" by="" samsung,="" possibly="" dubbed="" 'nexus="" prime'="" href="http://www.bgr.com/2011/06/27/googles-first-ice-cream-sandwich-phone-to-be-manufactured-by-samsung-possibly-dubbed-nexus-prime/">Google's first Ice Cream Sandwich phone to be manufactured by Samsung, possibly dubbed 'Nexus Prime'</a><img src="http://www-bgr-com.vimg.net/wp-content/uploads/profiles/profile_thumb_active-3.jpg" alt=" " width="46" height="53" class="author-popular"><br clear="all/"></li><li><span class="rank-popular2"></span><a title="Apple" iphone="" 5="" to="" be="" major="" update="" after="" all;="" announcement="" and="" availability="" in="" august?="" href="http://www.bgr.com/2011/06/21/apple-iphone-5-to-be-major-update-after-all-announcement-and-availability-in-august/">Apple iPhone 5 to be major update after all; announcement and availability in August?</a><img src="http://www-bgr-com.vimg.net/wp-content/uploads/profiles/profile_thumb_active-3.jpg" alt=" " width="46" height="53" class="author-popular"><br clear="all/"></li><li><span class="rank-popular3"></span><a title="Full" change="" log="" from="" apple's="" ios="" 5="" beta="" 2="" release="" href="http://www.bgr.com/2011/06/24/full-change-log-from-apples-ios-5-beta-2-release/">Full change log from Apple's iOS 5 beta 2 release</a><img src="http://www-bgr-com.vimg.net/wp-content/uploads/profiles/profile_thumb_active-25.png" alt=" " width="46" height="53" class="author-popular"><br clear="all/"></li><li><span class="rank-popular4"></span><a title="Microsoft" to="" unveil="" new="" xbox="" at="" e3="" 2012="" href="http://www.bgr.com/2011/06/27/microsoft-to-unveil-new-xbox-at-e3-2012/">Microsoft to unveil new Xbox at E3 2012</a><img src="http://www-bgr-com.vimg.net/wp-content/uploads/profiles/profile_thumb_active-3.jpg" alt=" " width="46" height="53" class="author-popular"><br clear="all/"></li><li><span class="rank-popular5"></span><a title="Apple" will="" release="" iphone="" 5="" and="" second="" prepaid="" model="" in="" september,="" analyst="" claims="" href="http://www.bgr.com/2011/06/27/apple-will-release-iphone-5-and-second-prepaid-iphone-model-in-september-analyst-claims/">Apple will release iPhone 5 and second prepaid iPhone model in September, analyst claims</a><img src="http://www-bgr-com.vimg.net/wp-content/uploads/profiles/profile_thumb_active-25.png" alt=" " width="46" height="53" class="author-popular"><br clear="all/"></li></ul></div></div><div id="newsoftheday" class="module">
+			            <div class="mmc-ad ad-300x250">
+                                        <!-- begin ad tag -->
+                        <iframe class="mmcAd_Iframe " src="http://ad.doubleclick.net/adi/bgr/ros;sz=300x250;host=www.bgr.com;pos=top;dcopt=ist;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=2;ord=43645256645084920" width="300px" height="250px" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+                        <noscript>
+                        <a href="http://ad.doubleclick.net/jump/bgr/ros;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=2;sz=300x250;&params=pos=top;dcopt=ist;ord=123456789?" target="_blank">
+                            <img src="http://ad.doubleclick.net/ad/bgr/ros;kw=privacy-policy;kw=general;tile=2;sz=300x250;&params=pos=top;dcopt=ist;ord=123456789?" width="300px" height="250px" border="0" alt="">
+                        </a>
+                        </noscript>
+                        <!-- End ad tag -->
+                                    </div>
+            <div class="module" id="mostpopular"><span class="title"></span><div class="module-content"><ul><li><span class="rank-popular1"></span><a title="Verizon's" galaxy="" nexus="" to="" finally="" launch="" tomorrow="" for="" $299.99="" href="http://www.bgr.com/2011/12/14/verizons-galaxy-nexus-to-finally-launch-tomorrow-for-299-99/">Verizon's Galaxy Nexus to finally launch tomorrow for $299.99</a><img src="http://www-bgr-com.vimg.net/wp-content/uploads/profiles/111011131116_profile_thumb_active-3.jpg" alt="Jonathan S. Geller" width="46" height="53" class="author-popular"><br class="clear"></li><li><span class="rank-popular2"></span><a title="Verizon" galaxy="" nexus="" available="" for="" just="" $154.99="" from="" letstalk="" href="http://www.bgr.com/2011/12/14/verizon-galaxy-nexus-available-for-just-154-99-letstalk/">Verizon Galaxy Nexus available for just $154.99 from LetsTalk</a><img src="http://www-bgr-com.vimg.net/wp-content/uploads/profiles/111010131541_profile_thumb_active-25.jpg" alt="Zach Epstein" width="46" height="53" class="author-popular"><br class="clear"></li><li><span class="rank-popular3"></span><a title="Verizon" galaxy="" nexus="" hands-on="" href="http://www.bgr.com/2011/12/15/verizon-galaxy-nexus-hands-on/">Verizon Galaxy Nexus hands-on</a><img src="http://www-bgr-com.vimg.net/wp-content/uploads/profiles/111011131116_profile_thumb_active-3.jpg" alt="Jonathan S. Geller" width="46" height="53" class="author-popular"><br class="clear"></li><li><span class="rank-popular4"></span><a title="Home" theater="" install="" href="http://www.bgr.com/2011/12/15/home-theater-install/">Home Theater Install</a><img src="http://www-bgr-com.vimg.net/wp-content/uploads/profiles/111011131116_profile_thumb_active-3.jpg" alt="Jonathan S. Geller" width="46" height="53" class="author-popular"><br class="clear"></li><li><span class="rank-popular5"></span><a title="The" tablet="" apple="" tried="" to="" stop="" href="http://www.bgr.com/2011/12/15/the-tablet-apple-tried-to-stop/">The tablet Apple tried to stop</a><img src="http://www-bgr-com.vimg.net/wp-content/uploads/profiles/111010131541_profile_thumb_active-25.jpg" alt="Zach Epstein" width="46" height="53" class="author-popular"><br class="clear"></li></ul></div></div>			<div class="textwidget"><h2 style="font-size: 230%; margin-bottom: 6px;">iPhone / iPad App</h2>
+<div class="mmc-ad ad-300x100" style="padding-bottom: 0; height: 109px;"><a href="http://j.mp/kMlj3w" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://j.mp']);"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/2011/07/BGR-app-store110701180502.jpg" width="300" height="100" alt="BGR on the App Store"></a></div></div>
+		<div id="newsoftheday" class="module">
 <span class="title"></span>
 <ul>
 
 <li>
-<a href="http://www.bgr.com/2011/06/27/lulzsec-says-bon-voyage-after-50-day-hack-fest/" title="LulzSec says ‘bon voyage’ after 50-day hack fest"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/NPE8fta2QExuxJ2QnAQEQQP7bavior4u.jpg" alt="LulzSec says ‘bon voyage’ after 50-day hack fest" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/27/lulzsec-says-bon-voyage-after-50-day-hack-fest/" title="LulzSec says ‘bon voyage’ after 50-day hack fest">LulzSec says ‘bon voyage’ after 50-day hack fest</a>
-<span>9 hours ago</span>
+<a href="http://www.bgr.com/2011/12/16/sprint-we-have-disabled-carrier-iq-and-we-are-no-longer-collecting-data/" title="Sprint: We have disabled Carrier IQ and we are no longer collecting data"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/ObaixgrAXteXfOAtvOa7ZR2coOpWfMKh.jpg" alt="Sprint: We have disabled Carrier IQ and we are no longer collecting data" class="wppt_preset3 thumb6 " width="75" height="75"></a>
+<a href="http://www.bgr.com/2011/12/16/sprint-we-have-disabled-carrier-iq-and-we-are-no-longer-collecting-data/" title="Sprint: We have disabled Carrier IQ and we are no longer collecting data">Sprint: We have disabled Carrier IQ and we are no longer collecting data</a>
+<span>53 mins ago</span>
 <br clear="all">
 </li>
 
 <li>
-<a href="http://www.bgr.com/2011/06/27/apple-to-begin-building-iphone-5-mid-to-late-august-apple-branded-tv-in-the-works-analyst-says/" title="Apple to begin building iPhone 5 mid to late August, Apple-branded TV in the works, analyst says"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/gMvTdJtL1yO6CiVbQessBGzJAnOdW.jpg" alt="Apple to begin building iPhone 5 mid to late August, Apple-branded TV in the works, analyst says" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/27/apple-to-begin-building-iphone-5-mid-to-late-august-apple-branded-tv-in-the-works-analyst-says/" title="Apple to begin building iPhone 5 mid to late August, Apple-branded TV in the works, analyst says">Apple to begin building iPhone 5 mid to late August, Apple-branded TV in the works, analyst says</a>
-<span>11 hours ago</span>
+<a href="http://www.bgr.com/2011/12/16/google-wallet-running-on-verizon-samsung-galaxy-nexus/" title="Google Wallet hacked to run on Verizon’s Galaxy Nexus"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/gQzJjVkFJfwvyLG0gWx1sieudO7umqoO.jpg" alt="Google Wallet hacked to run on Verizon’s Galaxy Nexus" class="wppt_preset3 thumb6 " width="75" height="75"></a>
+<a href="http://www.bgr.com/2011/12/16/google-wallet-running-on-verizon-samsung-galaxy-nexus/" title="Google Wallet hacked to run on Verizon’s Galaxy Nexus">Google Wallet hacked to run on Verizon’s Galaxy Nexus</a>
+<span>4 hours ago</span>
 <br clear="all">
 </li>
 
 <li>
-<a href="http://www.bgr.com/2011/06/27/as-analysts-and-investors-jump-ship-macquarie-sees-opportunity-in-rim/" title="As analysts and investors jump ship, Macquarie sees opportunity in RIM"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/3GWx7lhuPogt2X3FRCwqA8mu4OX0HfV.jpg" alt="As analysts and investors jump ship, Macquarie sees opportunity in RIM" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/27/as-analysts-and-investors-jump-ship-macquarie-sees-opportunity-in-rim/" title="As analysts and investors jump ship, Macquarie sees opportunity in RIM">As analysts and investors jump ship, Macquarie sees opportunity in RIM</a>
-<span>12 hours ago</span>
+<a href="http://www.bgr.com/2011/12/16/blackberry-10-could-be-too-little-too-late/" title="BlackBerry 10 could be ‘too little, too late’"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/KxR8xs00aSDh2lxUB2pUsGS8xgZYOmSz.jpg" alt="BlackBerry 10 could be ‘too little, too late’" class="wppt_preset3 thumb6 " width="75" height="75"></a>
+<a href="http://www.bgr.com/2011/12/16/blackberry-10-could-be-too-little-too-late/" title="BlackBerry 10 could be ‘too little, too late’">BlackBerry 10 could be ‘too little, too late’</a>
+<span>5 hours ago</span>
 <br clear="all">
 </li>
 
 <li>
-<a href="http://www.bgr.com/2011/06/27/googles-first-ice-cream-sandwich-phone-to-be-manufactured-by-samsung-possibly-dubbed-nexus-prime/" title="Google’s first Ice Cream Sandwich phone to be manufactured by Samsung, possibly dubbed ‘Nexus Prime’"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/OwzIB3sl0y1ZAzkmOGJgaOtLTgOnZ1h.jpg" alt="Google’s first Ice Cream Sandwich phone to be manufactured by Samsung, possibly dubbed ‘Nexus Prime’" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/27/googles-first-ice-cream-sandwich-phone-to-be-manufactured-by-samsung-possibly-dubbed-nexus-prime/" title="Google’s first Ice Cream Sandwich phone to be manufactured by Samsung, possibly dubbed ‘Nexus Prime’">Google’s first Ice Cream Sandwich phone to be manufactured by Samsung, possibly dubbed ‘Nexus Prime’</a>
-<span>13 hours ago</span>
+<a href="http://www.bgr.com/2011/12/16/samsung-gives-up-on-iphone-4s-patent-suit-in-germany/" title="Samsung gives up on iPhone 4S patent suit in Germany"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/wyFXLgGOkqEDlpYkqCPrQDsJXcvWOR81.jpg" alt="Samsung gives up on iPhone 4S patent suit in Germany" class="wppt_preset3 thumb6 " width="75" height="75"></a>
+<a href="http://www.bgr.com/2011/12/16/samsung-gives-up-on-iphone-4s-patent-suit-in-germany/" title="Samsung gives up on iPhone 4S patent suit in Germany">Samsung gives up on iPhone 4S patent suit in Germany</a>
+<span>7 hours ago</span>
 <br clear="all">
 </li>
 
 <li>
-<a href="http://www.bgr.com/2011/06/27/apple-will-release-iphone-5-and-second-prepaid-iphone-model-in-september-analyst-claims/" title="Apple will release iPhone 5 and second prepaid iPhone model in September, analyst claims"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/dSWunaW0v0Q1oUWsaNYQqhn1TcRSv3jg.jpg" alt="Apple will release iPhone 5 and second prepaid iPhone model in September, analyst claims" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/27/apple-will-release-iphone-5-and-second-prepaid-iphone-model-in-september-analyst-claims/" title="Apple will release iPhone 5 and second prepaid iPhone model in September, analyst claims">Apple will release iPhone 5 and second prepaid iPhone model in September, analyst claims</a>
-<span>14 hours ago</span>
+<a href="http://www.bgr.com/2011/12/15/rim-reports-q3-earnings-beats-lowered-guidance/" title="RIM beats Q3 earnings; Q4 guidance worse than expected"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/1OOtv6bcqWqPGd2Js8J42dNmEFvtxWJT.jpg" alt="RIM beats Q3 earnings; Q4 guidance worse than expected" class="wppt_preset3 thumb6 " width="75" height="75"></a>
+<a href="http://www.bgr.com/2011/12/15/rim-reports-q3-earnings-beats-lowered-guidance/" title="RIM beats Q3 earnings; Q4 guidance worse than expected">RIM beats Q3 earnings; Q4 guidance worse than expected</a>
+<span>23 hours ago</span>
 <br clear="all">
 </li>
 
@@ -429,45 +453,45 @@ if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined'
 
 
 <li>
-<a href="http://www.bgr.com/2011/06/17/barnes-noble-all-new-nook-review/" title="Barnes &amp; Noble ‘All-New NOOK’ review"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/4n4rYmkGnxtRDYQFz77lj2SA2JF0l3K2.jpg" alt="Barnes &amp; Noble ‘All-New NOOK’ review" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/17/barnes-noble-all-new-nook-review/" title="Barnes &amp; Noble ‘All-New NOOK’ review">Barnes &amp; Noble ‘All-New NOOK’ review</a>
-<span>June 17, 2011 at 12:30pm</span>
+<a href="http://www.bgr.com/2011/11/22/amazon-kindle-fire-review-its-no-ipad-killer-and-that-is-why-it-will-succeed/" title="Amazon Kindle Fire review: It’s no iPad killer, and that is why it will succeed"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/j6xaVQm8Ubd8NLsqBg1rrxZux0Ss8SdP.jpg" alt="Amazon Kindle Fire review: It’s no iPad killer, and that is why it will succeed" class="wppt_preset3 thumb6 " width="75" height="75"></a>
+<a href="http://www.bgr.com/2011/11/22/amazon-kindle-fire-review-its-no-ipad-killer-and-that-is-why-it-will-succeed/" title="Amazon Kindle Fire review: It’s no iPad killer, and that is why it will succeed">Amazon Kindle Fire review: It’s no iPad killer, and that is why it will succeed</a>
+<span>November 22, 2011 at 01:35pm</span>
 <br clear="all">
 </li> 
 
 
 
 <li>
-<a href="http://www.bgr.com/2011/06/15/htc-evo-3d-review/" title="HTC EVO 3D review"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/idXncNCLS1EwMeiuzgojNXZb6e0dZo0N.jpg" alt="HTC EVO 3D review" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/15/htc-evo-3d-review/" title="HTC EVO 3D review">HTC EVO 3D review</a>
-<span>June 15, 2011 at 07:13pm</span>
+<a href="http://www.bgr.com/2011/11/22/samsung-galaxy-nexus-review/" title="Samsung Galaxy Nexus review"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/mwPjuRlFpv20lxz43RzCoe0sOSi8KKKZ.jpg" alt="Samsung Galaxy Nexus review" class="wppt_preset3 thumb6 " width="75" height="75"></a>
+<a href="http://www.bgr.com/2011/11/22/samsung-galaxy-nexus-review/" title="Samsung Galaxy Nexus review">Samsung Galaxy Nexus review</a>
+<span>November 22, 2011 at 10:59am</span>
 <br clear="all">
 </li> 
 
 
 
 <li>
-<a href="http://www.bgr.com/2011/06/14/htc-sensation-4g-review/" title="HTC Sensation 4G review"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/memRywV0Ev2O8EqCo3IiZgDREsxp8hS.jpg" alt="HTC Sensation 4G review" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/14/htc-sensation-4g-review/" title="HTC Sensation 4G review">HTC Sensation 4G review</a>
-<span>June 14, 2011 at 10:44am</span>
+<a href="http://www.bgr.com/2011/11/21/nokia-lumia-800-review/" title="Nokia Lumia 800 review"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/TboBUGBO01WEl1MbOuf3OzrBGwGWn7vs.jpg" alt="Nokia Lumia 800 review" class="wppt_preset3 thumb6 " width="75" height="75"></a>
+<a href="http://www.bgr.com/2011/11/21/nokia-lumia-800-review/" title="Nokia Lumia 800 review">Nokia Lumia 800 review</a>
+<span>November 21, 2011 at 03:30pm</span>
 <br clear="all">
 </li> 
 
 
 
 <li>
-<a href="http://www.bgr.com/2011/06/03/hp-veer-4g-review-2/" title="HP Veer 4G review"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/1xf64AHOYeauXGXJyxzynLse2QRk4Ch.jpg" alt="HP Veer 4G review" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/03/hp-veer-4g-review-2/" title="HP Veer 4G review">HP Veer 4G review</a>
-<span>June 03, 2011 at 02:45pm</span>
+<a href="http://www.bgr.com/2011/11/16/htc-vivid-review/" title="HTC Vivid review"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/CD2JxhGSnRFaftxZ2Tva4TgfICuVOolI.jpg" alt="HTC Vivid review" class="wppt_preset3 thumb6 " width="75" height="75"></a>
+<a href="http://www.bgr.com/2011/11/16/htc-vivid-review/" title="HTC Vivid review">HTC Vivid review</a>
+<span>November 16, 2011 at 11:00am</span>
 <br clear="all">
 </li> 
 
 
 
 <li>
-<a href="http://www.bgr.com/2011/06/01/lg-revolution-review/" title="LG Revolution review"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/sHW82ipYHNfxXLUfUjIBMKdq30PTyoEi.jpg" alt="LG Revolution review" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/01/lg-revolution-review/" title="LG Revolution review">LG Revolution review</a>
-<span>June 01, 2011 at 12:00pm</span>
+<a href="http://www.bgr.com/2011/11/15/htc-rezound-review/" title="HTC Rezound review"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/31jcKifKqcKJj7HQPXx4HOe8pPRkiw3J.jpg" alt="HTC Rezound review" class="wppt_preset3 thumb6 " width="75" height="75"></a>
+<a href="http://www.bgr.com/2011/11/15/htc-rezound-review/" title="HTC Rezound review">HTC Rezound review</a>
+<span>November 15, 2011 at 10:00am</span>
 <br clear="all">
 </li> 
 
@@ -475,247 +499,17 @@ if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined'
 <li class="last"><a href="http://www.bgr.com/editorial/editors-review/" class="viewall" title="View All"></a></li>
 </ul> 
 
-</div>		<div id="bgr-gallery" class="module">
-			<h2>BGR Gallery </h2>
-			<div id="bgr-gallery-wrap">
-				<ul id="bgr-gallery-items">
-		<li class="set-id-1">
-			<div class="bgrg-gallery-item">
-				<div class="bgrg-gallery-item-row">
-					<a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-66"><img class="bgrg-center" src="http://www-bgr-com.vimg.net/wp-content/uploads/gallery-widget/bgrg_hero_image_1.jpg"></a>
-					<br clear="all">
-    			<a href="javascript:void(0);" class="bgrg-left"><img style="float:left;" src="http://www.bgr.com/wp-content/themes/bgr2010/images/gallery_arrow_left2.gif"></a>
-    			<a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-66" class="gallery-image-title">MacBook Air</a>
-    			<a href="javascript:void(0);" class="bgrg-right"><img style="float:right;" src="http://www.bgr.com/wp-content/themes/bgr2010/images/gallery_arrow_right2.gif"></a>
-    			<br clear="all">
-				</div> <!-- //bgrg-gallery-item-row -->
-
-				<div class="bgrg-gallery-item-row">
-					<div class="gallery-thumbs gallery-thumb-left"><a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-73"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/gallery-widget/bgrg_left_image_1.jpg"></a><a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-73">Samsung Galaxy Tab</a></div>
-	    		<div class="gallery-thumbs gallery-thumb-right"><a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-74"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/gallery-widget/bgrg_right_image_1.jpg"></a><a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-74">BlackBerry Torch 9800 White</a></div>
-    			<br clear="all">
-				</div> <!-- //bgrg-gallery-item-row -->
-			</div> <!-- // bgrg-gallery-item -->
-</li><li class="set-id-2">
-			<div class="bgrg-gallery-item">
-				<div class="bgrg-gallery-item-row">
-					<a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-71"><img class="bgrg-center" src="http://www-bgr-com.vimg.net/wp-content/uploads/gallery-widget/bgrg_hero_image_2.jpg"></a>
-					<br clear="all">
-    			<a href="javascript:void(0);" class="bgrg-left"><img style="float:left;" src="http://www.bgr.com/wp-content/themes/bgr2010/images/gallery_arrow_left2.gif"></a>
-    			<a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-71" class="gallery-image-title">Microsoft Kinect</a>
-    			<a href="javascript:void(0);" class="bgrg-right"><img style="float:right;" src="http://www.bgr.com/wp-content/themes/bgr2010/images/gallery_arrow_right2.gif"></a>
-    			<br clear="all">
-				</div> <!-- //bgrg-gallery-item-row -->
-
-				<div class="bgrg-gallery-item-row">
-					<div class="gallery-thumbs gallery-thumb-left"><a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-65"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/gallery-widget/bgrg_left_image_2.jpg"></a><a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-65">Sony Blu-ray Internet TV</a></div>
-	    		<div class="gallery-thumbs gallery-thumb-right"><a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-67"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/gallery-widget/bgrg_right_image_2.jpg"></a><a href="http://www.bgr.com/nggallery/page-320/album-all/gallery-67">BlackBerry Style 9670</a></div>
-    			<br clear="all">
-				</div> <!-- //bgrg-gallery-item-row -->
-			</div> <!-- // bgrg-gallery-item -->
-</li>
-		    	
-		    </ul>
-			</div> <!-- //bgr-gallery-wrap -->
-	    <a href="http://www.bgr.com/gallery/" class="viewall">View All » </a>
-		</div> <!-- //bgr-gallery -->
-
-		<script type="text/javascript">
-			jQuery("#bgr-gallery-wrap").jCarouselLite({
-	        btnPrev: '.bgrg-left',
-	        btnNext: '.bgrg-right',
-	        speed: 200,
-	        circular: true,
-	        visible: 1,
-	        start: 0,
-	        scroll: 1
-	    });
-		</script>
-
-    <div class="module bgr-analysis" id="bgr-analysis">
-<span class="title"></span>
-  <a class="bgr-analysis-arrow-left jcprev"></a>
-  <div id="bgr-analysis-carousel" class="bgr-analysis-carousel">
-    <ul id="bgranalysisul" class="bgranalysisul">
-    
-      <li> <a href="http://www.bgr.com/2011/06/16/bgr-interview-verizon-wireless-cmo-marni-walden-on-android-apple-tablets-and-new-blackberry-phones/" title="BGR Interview: Verizon Wireless CMO Marni Walden on Android, Apple, tablets and new BlackBerry phones"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/jQU38Uu8NcePy2aWzBTpfEulxeiD6rhH.jpg"></a>
-        <h3><a href="http://www.bgr.com/2011/06/16/bgr-interview-verizon-wireless-cmo-marni-walden-on-android-apple-tablets-and-new-blackberry-phones/" title="BGR Interview: Verizon Wireless CMO Marni Walden on Android, Apple, tablets and new BlackBerry phones">BGR Interview: Verizon Wireless CMO Marni Walden on Android, Apple, tablets and new BlackBerry phones</a></h3>
-        <p>
-We recently sat down with …</p>
-        <div class="post-read-more"><a href="http://www.bgr.com/2011/06/16/bgr-interview-verizon-wireless-cmo-marni-walden-on-android-apple-tablets-and-new-blackberry-phones/">Read More »</a></div>
-        <br clear="all">
-      </li>
-    
-      <li> <a href="http://www.bgr.com/2010/12/02/verizon-to-offer-lte-data-plans-contract-free-for-same-monthly-rate/" title="Verizon to offer LTE data plans contract-free for same monthly rate"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/XJwCB7.jpg"></a>
-        <h3><a href="http://www.bgr.com/2010/12/02/verizon-to-offer-lte-data-plans-contract-free-for-same-monthly-rate/" title="Verizon to offer LTE data plans contract-free for same monthly rate">Verizon to offer LTE data plans contract-free for same monthly rate</a></h3>
-        <p>
-Here's a bit of good news for those folks who want to take …</p>
-        <div class="post-read-more"><a href="http://www.bgr.com/2010/12/02/verizon-to-offer-lte-data-plans-contract-free-for-same-monthly-rate/">Read More »</a></div>
-        <br clear="all">
-      </li>
-    
-      <li> <a href="http://www.bgr.com/2010/10/20/asymco-60-of-apple%e2%80%99s-q4-sales-came-from-products-that-did-not-exist-three-years-ago/" title="Asymco: 60% of Apple’s Q4 sales came from products that did not exist three years ago"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/z4ujzl.png"></a>
-        <h3><a href="http://www.bgr.com/2010/10/20/asymco-60-of-apple%e2%80%99s-q4-sales-came-from-products-that-did-not-exist-three-years-ago/" title="Asymco: 60% of Apple’s Q4 sales came from products that did not exist three years ago">Asymco: 60% of Apple’s Q4 sales came from products that did not exist three years ago</a></h3>
-        <p>
-Company Asymco -- a "unique hybrid of an app …</p>
-        <div class="post-read-more"><a href="http://www.bgr.com/2010/10/20/asymco-60-of-apple%e2%80%99s-q4-sales-came-from-products-that-did-not-exist-three-years-ago/">Read More »</a></div>
-        <br clear="all">
-      </li>
-    
-      <li> <a href="http://www.bgr.com/2010/09/28/isuppli-new-ipod-nano-costs-around-45-to-manufacture/" title="iSuppli: new iPod nano costs around $45 to manufacture"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/NKkwS2.jpg"></a>
-        <h3><a href="http://www.bgr.com/2010/09/28/isuppli-new-ipod-nano-costs-around-45-to-manufacture/" title="iSuppli: new iPod nano costs around $45 to manufacture">iSuppli: new iPod nano costs around $45 to manufacture</a></h3>
-        <p>
-Analytics company iSuppli has completed their analysis of Apple's …</p>
-        <div class="post-read-more"><a href="http://www.bgr.com/2010/09/28/isuppli-new-ipod-nano-costs-around-45-to-manufacture/">Read More »</a></div>
-        <br clear="all">
-      </li>
-      
-    </ul>
-  </div>
-  <a class="bgr-analysis-arrow-right jcnext"></a> <br clear="all">
-</div>
-<script type="text/javascript">
-jQuery("#bgr-analysis-carousel").jCarouselLite({
-       btnPrev: '.bgr-analysis-arrow-left',
-       btnNext: '.bgr-analysis-arrow-right',
-       speed: 200,
-       visible: 1,
-       start: 0,
-       scroll: 1,
-       circular: true
-});
-</script>
-			<div class="mmc-ad ad-160x600">
-					<!-- begin ad tag -->
-					<iframe class="mmcAd_Iframe " src="http://ads.vimg.net/Ads.html#width=160&amp;height=600&amp;zonename=ros&amp;hostname=www.bgr.com&amp;sitename=bgr&amp;params=pos=top;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/&amp;tile=3&amp;ord=84088483672482800" width="160px" height="600px" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
-					<noscript>
-						<a href="http://ad.doubleclick.net/jump/bgr/ros;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=3;sz=160x600;&params=pos=top;ord=123456789?" target="_blank">
-						<img src="http://ad.doubleclick.net/ad/bgr/ros;kw=privacy-policy;kw=general;tile=3;sz=160x600;&params=pos=top;ord=123456789?" width="160px" height="600px" border="0" alt="">
-						</a>
-					</noscript>
-					<!-- End ad tag -->
-			</div>
-<div id="bgr-techtrend" class="module">
- <span class="title"></span>
- <ul>
-
- <li>
-<a href="http://www.bgr.com/2011/06/14/ipad-3d-shown-off-in-taipei-by-third-party-video/" title="iPad 3D shown off in Taipei by third party [video]"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/xAEfQVbcbMMJzC0Ic2gTq7qUrH8YC2Sg.jpg" alt="iPad 3D shown off in Taipei by third party [video]" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/14/ipad-3d-shown-off-in-taipei-by-third-party-video/" title="iPad 3D shown off in Taipei by third party [video]">iPad 3D shown off in Taipei by third party [video]</a>
-<span>13 days ago</span><br clear="all"></li>
-
- <li>
-<a href="http://www.bgr.com/2011/06/06/research-in-motion-just-got-out-fruited/" title="Research In Motion just got out-fruited"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/iqUyx0GAZqa4M1SvP2SSicHoJeKBtBsB.jpg" alt="Research In Motion just got out-fruited" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/06/research-in-motion-just-got-out-fruited/" title="Research In Motion just got out-fruited">Research In Motion just got out-fruited</a>
-<span>21 days ago</span><br clear="all"></li>
-
- <li>
-<a href="http://www.bgr.com/2011/06/06/apple-icloud-coming-today-replaces-mobileme/" title="Apple iCloud announced for free, replaces MobileMe"><img src="http://www-bgr-com.vimg.net/wp-content/uploads/wp-post-thumbnail/mGQR8cpCuqaRUwzxQf0Ifnpiz2huZgOO.jpg" alt="Apple iCloud announced for free, replaces MobileMe" class="wppt_preset3 thumb6 " width="75" height="75"></a>
-<a href="http://www.bgr.com/2011/06/06/apple-icloud-coming-today-replaces-mobileme/" title="Apple iCloud announced for free, replaces MobileMe">Apple iCloud announced for free, replaces MobileMe</a>
-<span>21 days ago</span><br clear="all"></li>
-
-<li class="last"><a href="http://www.bgr.com/editorial/tech-trends/" class="viewall" title="View All"></a></li>
-</ul>
-</div><div id="buying-guide" class="module">
- <span class="title"></span>
- <a class="buying-guide-arrow-left jcprev"></a>
- <div class="buying-guide-wrap" id="buying-guide-wrap">
- <ul id="buying-guide-carousel">
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2011/01/motorola-xoom-th-80x80.jpg" title="Best Honeycomb Tablet" alt="Best Honeycomb Tablet" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-honeycomb-tablet/" title="Best Honeycomb Tablet">Best Honeycomb …</a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2011/01/motorola-Atrix-4G-80x80.jpg" title="Best Dual-core Smartphone" alt="Best Dual-core Smartphone" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-dual-core-smartphone/" title="Best Dual-core Smartphone">Best Dual-core …</a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2011/01/htc-thunderbolt-th-80x80.jpg" title="Best 4G Phone" alt="Best 4G Phone" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-4g-phone/" title="Best 4G Phone">Best 4G Phone </a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2010/11/htc-hd7-2-80x80.jpg" title="Best Supersized Smartphone" alt="Best Supersized Smartphone" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-supersized-smartphone/" title="Best Supersized Smartphone">Best Supersized …</a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2010/11/sonos-small-80x80.jpg" title="Best Home Audio Product" alt="Best Home Audio Product" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-home-audio-product/" title="Best Home Audio Product">Best Home Audio …</a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2010/11/iphone-screen-80x80.jpg" title="Best Phone Display" alt="Best Phone Display" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-phone-display/" title="Best Phone Display">Best Phone …</a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2010/11/MacBook-Air-2-80x80.jpg" title="Best Notebook Computer" alt="Best Notebook Computer" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-notebook-computer/" title="Best Notebook Computer">Best Notebook …</a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2010/11/UE-TripleFi-10vi-2-80x80.jpg" title="Best Earbuds" alt="Best Earbuds" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-earbuds/" title="Best Earbuds">Best Earbuds </a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2010/11/sony-small-80x80.jpg" title="Best 3D TV" alt="Best 3D TV" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-3d-tv/" title="Best 3D TV">Best 3D TV </a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2010/11/iphone-small-80x80.jpg" title="Best Camera Phone" alt="Best Camera Phone" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-camera-phone/" title="Best Camera Phone">Best Camera …</a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2010/11/blackberry-80x80.jpg" title="Best QWERTY Keyboard" alt="Best QWERTY Keyboard" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-qwerty-keyboard/" title="Best QWERTY Keyboard">Best QWERTY …</a>
-   </li>
- 
-   <li class="buying-guide-item">
-	<img src="http://www-bgr-com.vimg.net/wp-content/uploads/2010/11/kinect-small-80x80.jpg" title="Best New Gaming Accessory" alt="Best New Gaming Accessory" width="99" height="105">
-	<br>
-	<a href="http://www.bgr.com/guide/best-new-gaming-accessory/" title="Best New Gaming Accessory">Best New Gaming …</a>
-   </li>
- 
- </ul>
- </div>
- <a class="buying-guide-arrow-right jcnext"></a>
- <br clear="all">
- <ul>
-  <li></li>
-  <li class="last">
-   <a href="http://www.bgr.com/guide/" class="viewall"></a>
-  </li>
- </ul>
-</div>
-<script type="text/javascript">
-jQuery("#buying-guide-wrap").jCarouselLite({
-       btnPrev: '.buying-guide-arrow-left',
-       btnNext: '.buying-guide-arrow-right',
-       speed: 200,
-       visible: 2,
-       start: 0,
-       scroll: 1,
-       circular: true
-});
-</script>		  </div>
+</div>            <div class="mmc-ad ad-300x600">
+                                        <!-- begin ad tag -->
+                        <iframe class="mmcAd_Iframe " src="http://ad.doubleclick.net/adi/bgr/ros;sz=300x600;host=www.bgr.com;pos=top;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=3;ord=43645256645084920" width="300px" height="600px" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+                        <noscript>
+                        <a href="http://ad.doubleclick.net/jump/bgr/ros;kw=privacy-policy;kw=general;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=3;sz=300x600;&params=pos=top;ord=123456789?" target="_blank">
+                            <img src="http://ad.doubleclick.net/ad/bgr/ros;kw=privacy-policy;kw=general;tile=3;sz=300x600;&params=pos=top;ord=123456789?" width="300px" height="600px" border="0" alt="">
+                        </a>
+                        </noscript>
+                        <!-- End ad tag -->
+                                    </div>
+            		  </div>
 		</div>
 		<!-- END sidebar -->
 	</div>
@@ -729,38 +523,59 @@ jQuery("#buying-guide-wrap").jCarouselLite({
               <div class="footer">
                 <ul>
                   <li class="copyright"><span></span>Copyright 2011 BGR Media, LLC</li>
-                  <li> <a href="http://www.mail.com/" class="mail" alt="Mail.com" title="Mail.com"></a> <a href="http://www.hollywoodlife.com/" class="holly" alt="Hollywood Life" title="Hollywood Life"></a> <a href="http://www.movieline.com/" class="movieline" alt="MovieLine" title="MovieLine"></a> <a href="http://www.oncars.com/" class="oncars" alt="Oncars" title="Oncars"></a> <a href="http://www.deadline.com/" alt="Deadline" title="Deadline" class="deadline"></a> </li>
+                  <li> <a href="http://www.tvline.com/" class="mail" alt="TVLine.com" title="TVLine.com"></a> <a href="http://www.hollywoodlife.com/" class="holly" alt="Hollywood Life" title="Hollywood Life"></a> <a href="http://www.movieline.com/" class="movieline" alt="MovieLine" title="MovieLine"></a> <a href="http://www.oncars.com/" class="oncars" alt="Oncars" title="Oncars"></a> <a href="http://www.deadline.com/" alt="Deadline" title="Deadline" class="deadline"></a> </li>
                 </ul>
-                <div id="footer-menu" class="yui3-u-2-3"><ul id="footer-menu" class="menu"><li id="menu-item-64826" class="menu-item menu-item-type-post_type menu-item-64826 menu-item-class13"><a href="http://www.bgr.com/about-bgr/">About</a></li>
-<li id="menu-item-64827" class="menu-item menu-item-type-post_type menu-item-64827 menu-item-class14"><a href="http://www.bgr.com/advertise/">Advertise</a></li>
-<li id="menu-item-64828" class="menu-item menu-item-type-post_type current-menu-item page_item page-item-33194 current_page_item menu-item-64828 menu-item-class15"><a href="http://www.bgr.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-64829" class="menu-item menu-item-type-taxonomy menu-item-64829 menu-item-class16"><a href="http://www.bgr.com/category/sections/press-release/">Press Center</a></li>
-<li id="menu-item-64830" class="menu-item menu-item-type-post_type menu-item-64830 menu-item-class17"><a href="http://www.bgr.com/contact/">Contact Us</a></li>
+                <div id="footer-menu" class="yui3-u-2-3"><ul id="footer-menu" class="menu"><li id="menu-item-64826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64826 menu-item-class12"><a href="http://www.bgr.com/about-bgr/">About</a></li>
+<li id="menu-item-64827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64827 menu-item-class13"><a href="http://www.bgr.com/advertise/">Advertise</a></li>
+<li id="menu-item-64828" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-33194 current_page_item menu-item-64828 menu-item-class14"><a href="http://www.bgr.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-64829" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64829 menu-item-class15"><a href="http://www.bgr.com/category/sections/press-release/">Press Center</a></li>
+<li id="menu-item-64830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64830 menu-item-class16"><a href="http://www.bgr.com/contact/">Contact Us</a></li>
 </ul></div>              </div>
             </div>
         
 		<script type="text/javascript" src="http://platform.twitter.com/widgets.js?ver=1"></script>
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js?ver=1"></script>
-<script type="text/javascript" src="http://www.bgr.com/wp-content/themes/bgr2010/js/foot.js?ver=5"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js"></script>
-		<script type="text/javascript">
-		function rotateAd( cls ) {
+<script type="text/javascript" src="http://www.bgr.com/wp-content/themes/bgr2010/js/foot.js?ver=12"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
+    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'bgr';
+        var disqus_domain = 'disqus.com';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) url = url[0];
+                    else url = url[1]
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = 'http://' + disqus_domain + '/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+        <script type="text/javascript">
+            function rotateAd( cls ) {
 
-			var rotateClass = cls ? cls : 'mmc-reloadable';
-			rotateClass = '.' + rotateClass;
+                var rotateClass = cls ? cls : 'mmc-reloadable';
+                rotateClass = '.' + rotateClass;
 
-			jQuery( rotateClass ).each(function(){
-				sourceUrl 	= jQuery(this).attr("src");
-				var ordnum	= Math.random()*1000000000000000000;
-				sourceUrl	= sourceUrl.replace(/ord=[\.0-9]+/i, "ord=" + ordnum );
-				jQuery(this).attr({
-					src: sourceUrl
-				});
-			});
-		}
-		</script>
-<script type="text/javascript">
-	var agentType = ""; 
+                jQuery( rotateClass ).each(function(){
+                    sourceUrl 	= jQuery(this).attr("src");
+                    var ordnum	= Math.random()*1000000000000000000;
+                    sourceUrl	= sourceUrl.replace(/ord=[\.0-9]+/i, "ord=" + ordnum );
+                    jQuery(this).attr({
+                        src: sourceUrl
+                    });
+                });
+            }
+        </script>
+        <script type="text/javascript">
+	var agentType = "";
 	var cookie_name = "useragent";
 	cookie_start = document.cookie.indexOf(cookie_name + "=");
 	if (cookie_start != -1) {
@@ -774,48 +589,50 @@ jQuery("#buying-guide-wrap").jCarouselLite({
 	if (agentTypevalue[0]=="mobile") {
 				document.write('<div id="wptouch-desktop-switch">Desktop Version | <a onclick="wptouch_set_switch_cookie(\'wptouch-pro-view\', \'mobile\');" href="http://m.bgr.com/privacy-policy/?wptouch_switch=mobile">Switch To Mobile Version</a></div>');
 	}else if(agentTypevalue[0]!="desktop") {
-		var mobile_user_agents = ["iPhone","iPod","Aspen","incognito","webmate","Android","2\.1\-update1","dream","CUPCAKE","froyo","BlackBerry9500","BlackBerry9520","BlackBerry9530","BlackBerry9550","BlackBerry 9800","webOS","s8000","bada","alcatel","amoi","android","audiovox","avantgo","benq","blackberry","cdm","danger","dopod","ericsson","fly","haier","htc","huawei","i\-mobile","iemobile\ 7","iphone","j\-phone","kddi","kwc","kyocera/wx310k","lenovo","lg/u990","lge\ vx","maemo","mot\-v","motorola","netfront","newt","nintendo\ ds","nitro","nokia","novarra","opera\ mini","palm","panasonic","pantech","philips","pixi","playstation\ portable","portalmmm","qtek","sagem","samsung","sanyo","sch-u960","scp6760","sharp","small","softbank","sonyericsson","sph\-m810","t\-mobile\ g1","toshiba","treo","treo850","vertu","windows\ phone","xda","zte"];
+		var mobile_user_agents = ["iPhone","iPod","incognito","webmate","Android","dream","CUPCAKE","froyo","BlackBerry9500","BlackBerry9520","BlackBerry9530","BlackBerry9550","BlackBerry 9800","BlackBerry 9780","webOS","s8000","bada","IEMobile/7\.0","Googlebot\-Mobile"];
 		var current_user_agent = navigator.userAgent.toLowerCase();
 		for (i = 0; i < mobile_user_agents.length; i++) {
 			var regex = new RegExp(mobile_user_agents[i], 'gi');
 			if ( current_user_agent.match(regex) ) {
 				var exp_date=new Date();
 				exp_date.setDate(exp_date.getDate() + 365);
-				document.cookie = "useragent=mobile-1;expires=Saturday, 30-Jun-12 00:00:00 UTC; path=/";
+				document.cookie = "useragent=mobile-1;expires=Monday, 31-Dec-12 00:00:00 UTC; path=/";
 				document.write('<div id="wptouch-desktop-switch">Desktop Version | <a onclick="wptouch_set_switch_cookie(\'wptouch-pro-view\', \'mobile\');" href="http://m.bgr.com/privacy-policy/?wptouch_switch=mobile">Switch To Mobile Version</a></div>');
 				break;
 		  }
 		}
 	}
 </script>
-		<!-- begin ad loader -->
-		<script language="JavaScript" type="text/javascript">
-			if (typeof ord=='undefined') {
-				ord=Math.random()*100000000000000000;
-				//Forcing first Ad to load next after load
-				adIframeDiv=jQuery('.mmcAd_Iframe_div').eq(0);
-				adIframeDiv.attr('data-adrender', 0);
-			}
-			function mmc_load_ad() {
-				adIframeDiv=jQuery('.mmcAd_Iframe_div').eq(0);
-				if (adIframeDiv.length > 0){
-					adIframe=jQuery('<iframe class="mmcAd_Iframe '+ adIframeDiv.attr('data-adclass') +'" src="'+adIframeDiv.attr('data-adurl')+'&ord='+ord+'" width="'+adIframeDiv.attr('data-adWidth')+'px" height="'+adIframeDiv.attr('data-adHeight')+'px"	marginwidth="0" marginheight="0"  frameborder="0" scrolling="no"></ifr'+'ame>');
-					adIframeDiv.replaceWith(adIframe);
-					if (adIframeDiv.attr('data-adrender')>0)
-						setTimeout('mmc_load_ad()',adIframeDiv.attr('data-adrender'));
-					else
-						if (adIframeDiv.attr('data-adrender')==0)
-							adIframe.load(function(){
-							mmc_load_ad();
-						});
-					else
-						mmc_load_ad();
-				}
-			}
-			jQuery(document).ready(function(){mmc_load_ad();});
-		</script>
-		<!-- end ad loader -->
-	
+        <!-- begin ad loader -->
+        <script language="JavaScript" type="text/javascript">
+            if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOAD_MODE == 'undefined') || ( false === MMC_FAST_MODE && false === MMC_NOAD_MODE) ) {
+                if (typeof ord=='undefined') {
+                    ord=Math.random()*100000000000000000;
+                    //Forcing first Ad to load next after load
+                    adIframeDiv=jQuery('.mmcAd_Iframe_div').eq(0);
+                    adIframeDiv.attr('data-adrender', 0);
+                }
+                function mmc_load_ad() {
+                    adIframeDiv=jQuery('.mmcAd_Iframe_div').eq(0);
+                    if (adIframeDiv.length > 0){
+                        adIframe=jQuery('<iframe class="mmcAd_Iframe '+ adIframeDiv.attr('data-adclass') +'" src="'+adIframeDiv.attr('data-adurl')+';ord='+ord+'" width="'+adIframeDiv.attr('data-adWidth')+'px" height="'+adIframeDiv.attr('data-adHeight')+'px"	marginwidth="0" marginheight="0"  frameborder="0" scrolling="no"></ifr'+'ame>');
+                        adIframeDiv.replaceWith(adIframe);
+                        if (adIframeDiv.attr('data-adrender')>0)
+                            setTimeout('mmc_load_ad()',adIframeDiv.attr('data-adrender'));
+                        else
+                            if (adIframeDiv.attr('data-adrender')==0)
+                                adIframe.load(function(){
+                                    mmc_load_ad();
+                                });
+                        else
+                            mmc_load_ad();
+                    }
+                }
+                jQuery(document).ready(function(){mmc_load_ad();});
+            }
+        </script>
+        <!-- end ad loader -->
+        
 <!-- start general-header footer 0.5-6 -->
 <!-- Quantcast Tag, part 2 -->
 <script type="text/javascript">
@@ -859,14 +676,25 @@ if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined'
 <!-- start general-header footer desktop 0.5-6 -->
 <!-- this markup will go just before the </body> tag on every page for desktop -->
 <!-- end general-header footer desktop -->
-		<!-- DO NOT REMOVE, comment for engineering, 4BAfe4nkpyAktm3S -->
+<script type="text/javascript">(function(){var d=document;var e=d.createElement("script");e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/25/eum/rum-staging.js";e.type="text/javascript";var s=d.getElementsByTagName("script")[0];s.parentNode.insertBefore(e,s);})();NREUMQ.push(["nrf2","beacon-1.newrelic.com","7f8738de7c",243473,"SkQHUlM=",0,328,new Date().getTime()])</script>		<!-- DO NOT REMOVE, comment for engineering, 4BAfe4nkpyAktm3S -->
 
-<!-- Omniture s_code.js -->
+<!-- BEGIN Google +1 -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- END Google +1 -->
+
+<!-- Start Omniture s_code.js -->
 <script language="JavaScript" type="text/javascript" src="http://www.bgr.com/wp-content/themes/bgr2010/js/s_code_mmc.js?v6.4"></script>
 <script type="text/javascript">
 var s_code=s_mmc.t();if(s_code)document.write(s_code);
 /* End Omniture s_code.js */
 </script>
+
 <!-- ChartBeat Start -->
 <script type="text/javascript">
 	var _sf_async_config={uid:3308,domain:"bgr.com"};
@@ -894,7 +722,6 @@ loadChartbeat : function() { oldonload(); loadChartbeat(); };
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 2536/2554 objects using memcached
-Content Delivery Network via Amazon Web Services: CloudFront: Amazon Web Services: S3: www-bgr-com.vimg.net
+Content Delivery Network via Amazon Web Services: CloudFront: www-bgr-com.vimg.net
 
-Served from: www.bgr.com @ 2011-06-28 03:58:15 --><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+Served from: www.bgr.com @ 2011-12-16 15:23:07 --><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
