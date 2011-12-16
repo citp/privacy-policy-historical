@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629091545id_/http%3A//nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216021345id_/http%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -133,4 +133,4 @@ P.O. Box 5232
 SE-102 45 Stockholm, Sweden 
 
 TO CITE THIS PAGE:  
-MLA style: "Privacy Policy". Nobelprize.org. 29 Jun 2011 http://nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html
+MLA style: "Privacy Policy". Nobelprize.org. 16 Dec 2011 http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html
