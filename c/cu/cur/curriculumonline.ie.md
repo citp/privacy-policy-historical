@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curriculumonline.ie privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215221629id_/http%3A//www.curriculumonline.ie/en/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curriculumonline.ie privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216221703id_/http%3A//curriculumonline.ie/en/Privacy_Statement) for the most accurate reproduction.*
 
 # Curriculum Online - Websites of the National Council for Curriculum and Assessment (NCCA)
 
