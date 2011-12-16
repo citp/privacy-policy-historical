@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gmarket.com.sg privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624124217id_/http%3A//www.gmarket.com.sg/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmarket.com.sg privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216163151id_/http%3A//www.gmarket.com.sg/gmkt.inc/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Gmarket – Fun Shopping at Big Discounts
+# Gmarket – shopping Fun and be Colorful
 
 Privacy Policy
 
@@ -125,4 +125,4 @@ We appoint the following person as Personal Information Manager:
 
 General
 
-We may amend this Policy at any time by posting the amended terms on this Website. All amended terms automatically take effect 14 days after they are initially posted. If your questions are not answered online, you may write to us at: Giosis Gmarket International Pte. Ltd. Attn: Personal Information Manager, Valley Point #14-04, 491 River Valley Road, Singapore 248371 or using the Contact Us form.
+We may amend this Policy at any time by posting the amended terms on this Website. All amended terms automatically take effect 14 days after they are initially posted. If your questions are not answered online, you may write to us at: Giosis Gmarket International Pte. Ltd. Attn: Personal Information Manager, 5 Tampines Central 1 #04-04 Tampines Plaza Singapore 529541 or using the Contact Us form.
