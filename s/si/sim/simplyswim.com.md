@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618041026id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216211114id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
 
 # Simply Swim - Website Privacy Policy
 
-Simply Swim Limited (Company Number 3053307) ("Simply Swim, we or us") is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. We are notified under the Data Protection Act 1998 and ensure we comply with all protection the Act affords to you.
-
-##  The information we collect and how we use it
+## The information we collect and how we use it
 
 1  |  When you buy goods or services from our website, or one of our affiliated websites we need to know basic information about you, including your name, postal address, e-mail address, telephone number, credit card number and expiry date. We also need your e-mail address to send you information about the status of your order. We will never collect sensitive information about you without your explicit consent.   
 ---|---  
@@ -14,12 +12,12 @@ Simply Swim Limited (Company Number 3053307) ("Simply Swim, we or us") is commit
 5  |  We may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you. We will gain your consent to receiving this information in advance and you can easily remove yourself from future mailings by following the instructions on the bottom of the first mail you will receive.   
 6  |  Except as otherwise stated in this policy we will never provide your information to any third party company, unless you have expressly permitted us to do so.   
   
-##  Our use of cookies
+## Our Use Of Cookies
 
 1  |  We use "cookies" on our websites to enhance your visit. This site relies on cookies being enabled to store criteria between pages. The only information stored within the cookie is an encrypted non personal identifier that is used to allow this. The cookie will be deleted automatically when you leave the site. These "cookies" are not used to store or gather any personal information about you or your activities.   
 ---|---  
   
-##  How we protect your information
+## How we protect your information
 
 1  |  The internet is not a secure medium. However, we have put in place various technological and security procedures to ensure the security of your information as set out below: |  |  Web site firewall:  |  High End Cisco firewalls   
 ---|---|---  
@@ -28,29 +26,29 @@ Simply Swim Limited (Company Number 3053307) ("Simply Swim, we or us") is commit
 |  Encryption  |  All personal data held is encrypted to industry leading standards   
 |  Internal Firewall:  |  High End Cisco firewalls   
   
-##  Sale of business
+## Sale of business
 
 1  |  If our business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business.   
 ---|---  
   
-##  Updating your details
+## Updating your details
 
-1  |  If any of the information that you have provided to Simply Swim changes, for example of you change your e-mail address, name or payment details or if you wish to cancel your subscription to our newsletter, please log into your account and make any necessary changes or from the UK call us on 0844 567 7070 or internationally on +44 1227 284347.   
+1  |  If any of the information that you have provided to Simply Scuba changes, for example of you change your e-mail address, name or payment details or if you wish to cancel your subscription to our newsletter, please log into your account and make any necessary changes or from the UK call us on 0844 567 7070 or internationally on +44 1227 284347.   
 ---|---  
 2  |  We wish to only maintain accurate and up to date information on you. You can check and amend all the information we currently hold about you by logging into your account and make any necessary changes or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808.   
   
-##  Your consent
+## Your consent
 
 1  |  By submitting your information you consent to the use of that information as set out in this privacy policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. We will also e-mail you should we make any changes so that you may consent to our use of your information in that way. Continued use of the service will signify that you agree to any such changes.   
 ---|---  
 2  |  Owing to the global nature of the Internet infrastructure, the information you provide may be transferred in transit to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. However, we have taken the steps outlined above to try to improve the security of your information. By submitting your information you consent to these transfers.   
   
-##  How to contact Simply Swim
+## How to contact Simply Snorkel
 
-1  |  We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to [customer.services@simplyswim.com](mailto:customer.services@simplyswim.com) or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808.   
+1  |  We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to [customer.services@thesimplygroup.com](mailto:customer.services@thesimplygroup.com) or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808.   
 ---|---  
   
-##  General
+## General
 
 1  |  Further information on the Data Protection Act 1998 can also be found on the Information Commissioner's web site at **[http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)**  
 ---|---  
