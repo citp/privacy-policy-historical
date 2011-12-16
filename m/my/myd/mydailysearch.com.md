@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the mydailysearch.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521071050id_/http%3A//www.mydailysearch.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailysearch.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216144149id_/http%3A//www.mydailysearch.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**Privacy Policy:**
+# MyDailySearch Privacy Policy
 
 ## MyDailySearch.com Privacy Policy
 
+**Privacy Policy:**  
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted clearly on the website. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
 **Note:** The privacy practices set forth in this privacy policy are for this website only. If you link to other web sites, please review the privacy policies posted at those sites.  BY VISITING THIS WEBSITE AND REQUESTING INFORMATION, PRODUCTS OR SERVICES THERON, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.  PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO US OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED TO IN THIS PRIVACY POLICY.
@@ -28,6 +27,6 @@ Your personally identifiable information is kept secure. Only authorized employe
 **Privacy Contact Information**  
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-By e-mail: info [ at ] vyom.co.in 
+By e-mail: info [ at ] phoenixsoftwares.in 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
