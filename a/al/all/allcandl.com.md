@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcandl.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411134743id_/http%3A//www.allcandl.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcandl.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216155746id_/http%3A//allcandl.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » AllCanDL.Com All Warez Files Can Free Full Download Hotfile Fileserve Filesonic Rapidshare
 
