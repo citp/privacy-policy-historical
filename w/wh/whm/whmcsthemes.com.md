@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the whmcsthemes.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107063732id_/http%3A//www.whmcsthemes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whmcsthemes.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216180038id_/http%3A//www.whmcsthemes.com/billing/privacy.php) for the most accurate reproduction.*
 
-# WHMCS THEMES
+# WHMCS Themes
+
+### Privacy Policy
 
 The terms of our privacy policy shall govern any and all dealings between you (the customer) and us ([WHMCS Themes](htttp://www.whmcsthemes.com)). We agree to be bound by this privacy policy in order to ensure that you, as a buyer, can deal with us in confidence.
 
@@ -17,3 +19,7 @@ The information you provide us with will be used by us to keep in touch with you
 ## Retainment of Your Data
 
 The personal information you provide us with will be retained by us for as long as you are a customer. If you decide that you no longer want your personal information to reside with us, please open a support ticket from your client area expressing your wish for us to delete your client account. Once your account is deleted, so is any of your information we hold! 
+    
+    
+     
+     
