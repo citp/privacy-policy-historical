@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parkopedia.co.uk privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513063738id_/http%3A//en.parkopedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkopedia.co.uk privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216123749id_/http%3A//en.parkopedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,12 @@ The Website will only share personal information with a third party in the follo
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [contact us](https://web.archive.org/contact-us/).
 
-5\. Changes to the Policy
+5\. Payments
+    
+
+We do not store credit card details.
+
+6\. Changes to the Policy
     
 
 The Website may amend the Policy from time to time. If we make any material changes to the Policy, Users will be notified by a prominent message on the website.
