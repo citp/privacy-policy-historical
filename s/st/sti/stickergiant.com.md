@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127194241id_/http%3A//www.stickergiant.com/sec.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickergiant.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216173912id_/http%3A//www.stickergiant.com/sec.htm) for the most accurate reproduction.*
 
-# Stickers, Bumper Stickers - Sticker Giant - Shipping
+# Stickers, Bumper Stickers - Sticker Giant - Privacy
 
 ### CREDIT CARD CHARGES
 
@@ -21,7 +21,7 @@ or you can reach us by telephone at (866) 774-7900
 
 Email collected on this site via the order process is automatically included in our newsletter mailing list. Emails used in the "email this to a friend" functionality are not included on the email list. 
 
-Anybody can opt-out or opt-in to our newsletter list at any time by [_clicking here_](http://stickergiant.mail.zingstudios.net/mail/unsubscribe.php). 
+Anybody can opt-out or opt-in to our newsletter list at any time by [_clicking here_](http://stickergiant.mail.zingstudios.com/mail/unsubscribe.php). 
 
 We never share your email with anybody outside of this company, ever. 
 
