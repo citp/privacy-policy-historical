@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportchalet.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515175633id_/http%3A//www.sportchalet.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportchalet.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216171903id_/http%3A//www.sportchalet.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
-# Privacy Policy - Customer Service - Sport Chalet
+# Privacy Policy-Customer Service - Sport Chalet
 
 Sport Chalet, Inc. has created this privacy policy to inform you of the information gathering and dissemination practices for this Web site, www.sportchalet.com. Because we want to demonstrate our commitment to your privacy, by notifying you of:
 
