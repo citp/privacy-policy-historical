@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617071848id_/http%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childcare.co.uk privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216212800id_/http%3A//www.childcare.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Childcare.co.uk
 
@@ -39,7 +39,7 @@ We will never share or sell your email address with third parties unless you hav
 
 #### 3\. Financial information, including credit card details
 
-This information is used to obtain payment for goods and services you have ordered from us. This information is never actually received by us. The page where this information is given by you is controlled by our contract merchant service provider, PayPal. Such information is automatically encrypted, and later decrypted for use. It never touches our system.
+This information is used to obtain payment for goods and services you have ordered from us. This information is never actually received by us. The page where this information is given by you is controlled by our contract merchant service provider, PayPal. Such information is automatically encrypted, and later decrypted for use. It never touches our system. We do not store any financial information in our systems such as your credit card or debit card number or expiry date.
 
 #### 4\. Your childcare.co.uk personal profile
 
