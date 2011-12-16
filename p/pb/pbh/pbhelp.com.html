@@ -1,0 +1,587 @@
+<!--The following is the downloaded HTML source of the pbhelp.com privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216110308id_/http%3A//www.pbhelp.com/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>PBHelp Link Directory&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/templates/Gri/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/templates/Gri/style/main.css">
+<meta name="generator" content="PHP Link Directory 4.1.0">
+<script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+<!--[if IE]>
+<link rel="stylesheet" href="/templates/Gri/style/ie.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if IE 8.000]><!-->
+<link rel="stylesheet" href="/templates/Gri/style/ie8.css" type="text/css" media="all">
+<!--<![endif]-->
+<meta name="verifyownership" content="a89d61ba78102516964707beecdcf4dd">
+</head>
+<body><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+       document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.pbhelp.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		$("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		$("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<div id="wrapperall">
+<div class="log_reg">
+<a href="/login.php" title="Login" onclick="return showLogin();">Login</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/profile.php?mode=register" title="Register">Register</a>	
+</div>	
+<div id="wrapperBg">
+<div id="wrapperBottom">
+<div id="wrapperTop">
+<div id="wrapperLeft">
+<div id="wrapperRight">
+<div id="wrapper">
+<script type="text/javascript">
+var view1 = 0;
+var view2 = 0;
+</script><div class="content-top"></div><div id="content"><div class="header"><div class="dirname"><h1><a href="/" title="PBHelp Link Directory"> PBHelp Link Directory</a></h1></div><div class="search"><div id="searchin"><form action="/index.php" method="get"><span class="search"><span class="search_cnt"><table><tbody><tr><td><span class="cauta"><input name="search" type="text" size="18" alt="}" value="" onblur="if(this.value=='') this.value='';" onfocus="if(this.value=='') this.value='';"></span></td><td><span class="searchin"><button type="submit" title="Search">GO</button></span></td><td><div style="margin:0px 0px 0px 10px;"> <a rel="nofollow" href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4">Advanced<br>Search</a></div></td></tr></tbody></table></span></span></form></div></div></div> <!-- Header --><div id="meniu" class="fix"><ul class="fix menu"><li class="navfirst"><a class="home" href="/" title="PBHelp Link Directory">PBHelp Link Directory</a></li><li><a href="/submit.php" title="Submit your link to the directory">Submit Link</a></li><li><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a></li><li><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a></li><li><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a></li><li><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a></li><li class="ultim"><a href="/contact.php" title="Contact directory owner">Contact</a></li></ul><div style="width:66px;float:right;"><a class="rss" href="/rss.php?c= " title="RSS Feed"> </a><a class="twitter" href="http://twitter.com/nixservers" title="NixServers">NixServers</a> <!-- // Change this link with your twitter account. Eg: http://twitter.com/john  --></div></div><div id="sideleft" "="">
+<div style="text-align:center"><a href="http://www.vmoptions.com"><img src="http://www.jam2007.com/images/vmo100.png"></a></div><br>
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<li id="5">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Latest featured links</span></h3>
+<div class="box_pad2">			 <ul class="boxPopCats">
+<li><a href="http://bluestarsapphirering.org/">Blue Star Sapphire Ring</a></li>
+<li>
+<a href="                                                /detail/blinds-velux-40798/" title="Read more about: Blinds Velux">Blinds Velux</a>
+</li>
+<li>
+<a href="                                                /detail/tax-preparation-40135/" title="Read more about: Tax Preparation">Tax Preparation</a>
+</li>
+<li>
+<a href="                                                /detail/uppababy--uppababy-vista--uppababy-prams-37832/" title="Read more about: Uppababy | Uppababy Vista | Uppababy Prams">Uppababy | Uppababy Vista |...</a>
+</li>
+<li>
+<a href="                                                /detail/maui-campervan-hire-36917/" title="Read more about: Maui Campervan Hire">Maui Campervan Hire</a>
+</li>
+<li>
+<a href="                                                /detail/maui-motorhome-hire-36913/" title="Read more about: Maui Motorhome Hire">Maui Motorhome Hire</a>
+</li>
+<li>
+<a href="                                                /detail/britz-camper-hire-36909/" title="Read more about: Britz Camper Hire">Britz Camper Hire</a>
+</li>
+<li>
+<a href="                                                /detail/britz-campervan-hire-australia-36908/" title="Read more about: Britz Campervan Hire Australia">Britz Campervan Hire Australia</a>
+</li>
+<li>
+<a href="                                                /detail/luxury-4x4--compact-suv--4x4-dealers--range-rover-australia-36691/" title="Read more about: Luxury 4x4 - Compact SUV - 4x4 Dealers - Range Rover Australia">Luxury 4x4 - Compact SUV - ...</a>
+</li>
+<li>
+<a href="                                                /detail/dm-clinical-research-clinical-research-evolving-therapies-34248/" title="Read more about: DM Clinical Research|Clinical Research|Evolving Therapies">DM Clinical Research|Clinic...</a>
+</li>
+<li>
+<a href="                                                /detail/phils-seo-services-uk-32966/" title="Read more about: Phils Seo Services UK">Phils Seo Services UK</a>
+</li>
+<li>
+<a href="                                                /detail/sacramento-dumpster-rentals-and-roll-off-container-services-30265/" title="Read more about: Sacramento Dumpster Rentals &amp; Roll Off Container Services">Sacramento Dumpster Rentals...</a>
+</li>
+<li>
+<a href="                                                /detail/gentle-dentist-preston-26571/" title="Read more about: Gentle Dentist Preston">Gentle Dentist Preston</a>
+</li>
+<li>
+<a href="                                                /detail/naples-florida-sun-25113/" title="Read more about: Naples Florida Sun">Naples Florida Sun</a>
+</li>
+<li>
+<a href="                                                /detail/business-insurance-quotes--aami-business-insurance-22485/" title="Read more about: Business Insurance Quotes - AAMI Business Insurance">Business Insurance Quotes -...</a>
+</li>
+<li>
+<a href="                                                /detail/john-williams-home-improvements-ltd-21326/" title="Read more about: John Williams Home Improvements Ltd">John Williams Home Improvem...</a>
+</li>
+<li>
+<a href="                                                /detail/free-beats-20488/" title="Read more about: Free Beats">Free Beats</a>
+</li>
+<li>
+<a href="                                                /detail/free-online-scratch-cards-20019/" title="Read more about: Free Online Scratch Cards">Free Online Scratch Cards</a>
+</li>
+<li>
+<a href="                                                /detail/scratchcard-sites-18556/" title="Read more about: Scratchcard Sites">Scratchcard Sites</a>
+</li>
+<li>
+<a href="                                                /detail/new-zealand-web-hosting-18523/" title="Read more about: New Zealand Web Hosting">New Zealand Web Hosting</a>
+</li>
+<li>
+<a href="                                                /detail/studying-abroad-16572/" title="Read more about: studying abroad">studying abroad</a>
+</li>
+<li>
+<a href="                                                /detail/blackmores-vitamins-15161/" title="Read more about: Blackmores Vitamins">Blackmores Vitamins</a>
+</li>
+<li>
+<a href="                                                /detail/flooring-uk-8465/" title="Read more about: Flooring UK">Flooring UK</a>
+</li>
+<li>
+<a href="                                                /detail/car-insurance-772/" title="Read more about: Car Insurance">Car Insurance</a>
+</li>
+<li>
+<a href="                                                /detail/new-cars--volkswagen-australia-188/" title="Read more about: New Cars - Volkswagen Australia">New Cars - Volkswagen Austr...</a>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+<li id="44">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Statistics</span></h3>
+<div class="box_pad2">		<ul class="boxStats">
+<li><strong>Active Links:</strong> 41337</li>
+<li><strong>Pending Links:</strong> 256</li>
+<li><strong>Todays Links:</strong> 59</li>
+<li><strong>Active Articles:</strong> 358</li>
+<li><strong>Pending Articles:</strong> 3</li>
+<li><strong>Todays Articles:</strong> 0</li>
+<li><strong>Total Categories:</strong> 18</li>
+<li><strong>Sub Categories:</strong> 3483</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+<br>
+</ul>
+</div>
+<div style="display:none;">
+Sponsored by <a href="http://www.nixservers.com" title="Dedicated server Europe">Dedicated server hosting</a>  | Copywrite <a href="http://www.hostzilla.ro" title="Web Hosting, Gazduire web">Web Hosting, Gazduire web</a>
+</div>
+<div id="main"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li><center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span></span></h3>
+<div class="box_pad2">   
+<h3><span>Featured Links</span></h3>
+<div id="articles">
+<br><table>
+</table><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.blindsuk.net/velux-blinds.html"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_40798" href="http://www.blindsuk.net/velux-blinds.html" title="Blinds Velux"><span id="edittitle_40798" class="link">Blinds Velux</span></a><!--<span  id="edittitle_40798" class="link">Blinds Velux  </span>--><br><p id="description40798"><span id="editdescrip_40798">Offering affordable solutions for covering virtually any type of velux window, our online collection of velux blinds bring you numerous decors and customization options to choose from, all at more than affordable costs.</span> <br>-&nbsp;<a class="readMore" href="/detail/blinds-velux-40798/" title="Read more about: Blinds Velux">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.SmartTaxCPA.com"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_40135" href="http://www.SmartTaxCPA.com" title="Tax Preparation"><span id="edittitle_40135" class="link">Tax Preparation</span></a><!--<span  id="edittitle_40135" class="link">Tax Preparation  </span>--><br><p id="description40135"><span id="editdescrip_40135">Certified Public Accounting Firm offering services to both individuals and businesses.  Smart Tax Professional Services is a full service CPA firm servicing clients nationwide.  Monthly accounting and bookkeeping services, payroll services, insurance sales, tax return preparation, assurance services including audit, compilation and review, financial planning, business management consulting and insurance sales.</span> <br>-&nbsp;<a class="readMore" href="/detail/tax-preparation-40135/" title="Read more about: Tax Preparation">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.minikids.co.uk/index.php/baby-prams-pushchairs/brands/uppababy-vista-prams-pushchairs.html"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_37832" href="http://www.minikids.co.uk/index.php/baby-prams-pushchairs/brands/uppababy-vista-prams-pushchairs.html" title="Uppababy | Uppababy Vista | Uppababy Prams"><span id="edittitle_37832" class="link">Uppababy | Uppababy Vista | Uppababy Prams</span></a><!--<span  id="edittitle_37832" class="link">Uppababy | Uppababy Vista | Uppababy Prams  </span>--><br><p id="description37832"><span id="editdescrip_37832">Minikids pram showroom stock a large selection of prams and pushchairs including the Uppababy Vista Pushchair/Pram</span> <br>-&nbsp;<a class="readMore" href="/detail/uppababy--uppababy-vista--uppababy-prams-37832/" title="Read more about: Uppababy | Uppababy Vista | Uppababy Prams">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.maui.co.nz/"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_36917" href="http://www.maui.co.nz/" title="Maui Campervan Hire"><span id="edittitle_36917" class="link">Maui Campervan Hire</span></a><!--<span  id="edittitle_36917" class="link">Maui Campervan Hire  </span>--><br><p id="description36917"><span id="editdescrip_36917">Maui offers the widest range of 2WD and 4WD motorhomes, campervans and cars for hire in New Zealand with pick-up and drop-off branches dotted around the country.</span> <br>-&nbsp;<a class="readMore" href="/detail/maui-campervan-hire-36917/" title="Read more about: Maui Campervan Hire">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.maui.com.au/"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_36913" href="http://www.maui.com.au/" title="Maui Motorhome Hire"><span id="edittitle_36913" class="link">Maui Motorhome Hire</span></a><!--<span  id="edittitle_36913" class="link">Maui Motorhome Hire  </span>--><br><p id="description36913"><span id="editdescrip_36913">Maui offers the widest range of 2WD and 4WD motorhomes, campervans and cars for hire in Australia with pick-up and drop-off branches dotted around the country.</span> <br>-&nbsp;<a class="readMore" href="/detail/maui-motorhome-hire-36913/" title="Read more about: Maui Motorhome Hire">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.britz.co.nz/"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_36909" href="http://www.britz.co.nz/" title="Britz Camper Hire"><span id="edittitle_36909" class="link">Britz Camper Hire</span></a><!--<span  id="edittitle_36909" class="link">Britz Camper Hire  </span>--><br><p id="description36909"><span id="editdescrip_36909">Britz offers campervans and cars for hire in New Zealand.
+Britz New Zealand offers a wide range of campervans and cars for hire.
+Britz offers the widest range of 2WD and 4WD campervans and cars for hire in New Zealand with pick-up and drop-off branches dotted around the country.</span> <br>-&nbsp;<a class="readMore" href="/detail/britz-camper-hire-36909/" title="Read more about: Britz Camper Hire">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.britz.com.au/"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_36908" href="http://www.britz.com.au/" title="Britz Campervan Hire Australia"><span id="edittitle_36908" class="link">Britz Campervan Hire Australia</span></a><!--<span  id="edittitle_36908" class="link">Britz Campervan Hire Australia  </span>--><br><p id="description36908"><span id="editdescrip_36908">Britz offers campervans and cars for hire in Australia.
+Britz Australia offers a wide range of campervans and cars for hire.
+Britz offers the widest range of 2WD and 4WD campervans and cars for hire in Australia with pick-up and drop-off branches dotted around the country.</span> <br>-&nbsp;<a class="readMore" href="/detail/britz-campervan-hire-australia-36908/" title="Read more about: Britz Campervan Hire Australia">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.landrover.com/au/en/rr/"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_36691" href="http://www.landrover.com/au/en/rr/" title="Luxury 4x4 - Compact SUV - 4x4 Dealers - Range Rover Australia"><span id="edittitle_36691" class="link">Luxury 4x4 - Compact SUV - 4x4 Dealers - Range Rover Australia</span></a><!--<span  id="edittitle_36691" class="link">Luxury 4x4 - Compact SUV - 4x4 Dealers - Range Rover Australia  </span>--><br><p id="description36691"><span id="editdescrip_36691">Range Rover provides a range of compact SUV and luxury 4x4 cars. You can find the best off road cars options as well as the family car that suit your needs. If you already have a Range Rover, you can find some 4WD accessories and improve your car performance with good quality devices. In case you are looking for a new vehicle you should certainly find one of our 4x4 dealers and book a test drive to make sure that Range Rover will give you the driving pleasure you are looking for.</span> <br>-&nbsp;<a class="readMore" href="/detail/luxury-4x4--compact-suv--4x4-dealers--range-rover-australia-36691/" title="Read more about: Luxury 4x4 - Compact SUV - 4x4 Dealers - Range Rover Australia">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.dmclinicalresearch.com/"><br><div class="pr">
+PR: 2
+<div class="prg">
+<div class="prb" style="width: 8px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_34248" href="http://www.dmclinicalresearch.com/" title="DM Clinical Research|Clinical Research|Evolving Therapies"><span id="edittitle_34248" class="link">DM Clinical Research|Clinical Research|Evolving Therapies</span></a><!--<span  id="edittitle_34248" class="link">DM Clinical Research|Clinical Research|Evolving Therapies  </span>--><br><p id="description34248"><span id="editdescrip_34248">Opening Doors for a Chance to Try Evolving Therapies</span> <br>-&nbsp;<a class="readMore" href="/detail/dm-clinical-research-clinical-research-evolving-therapies-34248/" title="Read more about: DM Clinical Research|Clinical Research|Evolving Therapies">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.philsseoservices.co.uk"><br><div class="pr">
+PR: 2
+<div class="prg">
+<div class="prb" style="width: 8px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_32966" href="http://www.philsseoservices.co.uk" title="Phils Seo Services UK"><span id="edittitle_32966" class="link">Phils Seo Services UK</span></a><!--<span  id="edittitle_32966" class="link">Phils Seo Services UK  </span>--><br><p id="description32966"><span id="editdescrip_32966">I specialise in search engine optimisation (SEO) for your business or personal website, put in more simple terms I can make your website search engine friendly.My SEO services cover Cheshire, Merseyside,and the rest of the UK</span> <br>-&nbsp;<a class="readMore" href="/detail/phils-seo-services-uk-32966/" title="Read more about: Phils Seo Services UK">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://disposalbinrentals.com/find-dumpster-sacramento/"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_30265" href="http://disposalbinrentals.com/find-dumpster-sacramento/" title="Sacramento Dumpster Rentals &amp; Roll Off Container Services"><span id="edittitle_30265" class="link">Sacramento Dumpster Rentals &amp; Roll Off Container Services</span></a><!--<span  id="edittitle_30265" class="link">Sacramento Dumpster Rentals &amp; Roll Off Container Services  </span>--><br><p id="description30265"><span id="editdescrip_30265">Roll dumpster rentals in Sacramento, CA and surrounding areas with Dumpster Rentals Cooperative, the team of professional waste haulers.  Serving throughout the U.S. and Canada.</span> <br>-&nbsp;<a class="readMore" href="/detail/sacramento-dumpster-rentals-and-roll-off-container-services-30265/" title="Read more about: Sacramento Dumpster Rentals &amp; Roll Off Container Services">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.dentistspreston.co.uk"><br><div class="pr">
+PR: 3
+<div class="prg">
+<div class="prb" style="width: 12px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_26571" href="http://www.dentistspreston.co.uk" title="Gentle Dentist Preston"><span id="edittitle_26571" class="link">Gentle Dentist Preston</span></a><!--<span  id="edittitle_26571" class="link">Gentle Dentist Preston  </span>--><br><p id="description26571"><span id="editdescrip_26571">Gentle Dentists in Preston, Lancashire treating all aspects of modern cosmetic dentistry with a focus on patient care, pain free dental implants , Tooth Veneers and teeth whitening</span> <br>-&nbsp;<a class="readMore" href="/detail/gentle-dentist-preston-26571/" title="Read more about: Gentle Dentist Preston">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.naples-florida-sun.com"><br><div class="pr">
+PR: 2
+<div class="prg">
+<div class="prb" style="width: 8px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_25113" href="http://www.naples-florida-sun.com" title="Naples Florida Sun"><span id="edittitle_25113" class="link">Naples Florida Sun</span></a><!--<span  id="edittitle_25113" class="link">Naples Florida Sun  </span>--><br><p id="description25113"><span id="editdescrip_25113">Naples-Florida-Sun.com is a guide to the town of Naples Florida. Find information here about activities, sights, the beaches, culture and more.</span> <br>-&nbsp;<a class="readMore" href="/detail/naples-florida-sun-25113/" title="Read more about: Naples Florida Sun">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.aami.com.au/business-insurance/business-insurance-quote"><br><div class="pr">
+PR: 0
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_22485" href="http://www.aami.com.au/business-insurance/business-insurance-quote" title="Business Insurance Quotes - AAMI Business Insurance"><span id="edittitle_22485" class="link">Business Insurance Quotes - AAMI Business Insurance</span></a><!--<span  id="edittitle_22485" class="link">Business Insurance Quotes - AAMI Business Insurance  </span>--><br><p id="description22485"><span id="editdescrip_22485">AAMI's Public Liability Insurance covers your legal liability when you are found to be legally responsible for damage or personal injury to a third party. AAMI Business Insurance online quotes are available to a wide range of small businesses.</span> <br>-&nbsp;<a class="readMore" href="/detail/business-insurance-quotes--aami-business-insurance-22485/" title="Read more about: Business Insurance Quotes - AAMI Business Insurance">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.johnwilliams.co.uk/"><br><div class="pr">
+PR: 3
+<div class="prg">
+<div class="prb" style="width: 12px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_21326" href="http://www.johnwilliams.co.uk/" title="John Williams Home Improvements Ltd"><span id="edittitle_21326" class="link">John Williams Home Improvements Ltd</span></a><!--<span  id="edittitle_21326" class="link">John Williams Home Improvements Ltd  </span>--><br><p id="description21326"><span id="editdescrip_21326">[No Description]</span> <br>-&nbsp;<a class="readMore" href="/detail/john-williams-home-improvements-ltd-21326/" title="Read more about: John Williams Home Improvements Ltd">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.beatsmonster.com"><br><div class="pr">
+PR: 0
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_20488" href="http://www.beatsmonster.com" title="Free Beats"><span id="edittitle_20488" class="link">Free Beats</span></a><!--<span  id="edittitle_20488" class="link">Free Beats  </span>--><br><p id="description20488"><span id="editdescrip_20488">Download free rap beats, hip hop instrumental, club beat maker,  beats with hooks, dirty south beats, R&amp;B beats, old school rap, pop music from Beatsmonster.com</span> <br>-&nbsp;<a class="readMore" href="/detail/free-beats-20488/" title="Read more about: Free Beats">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.free-online-scratch-cards.com/"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_20019" href="http://www.free-online-scratch-cards.com/" title="Free Online Scratch Cards"><span id="edittitle_20019" class="link">Free Online Scratch Cards</span></a><!--<span  id="edittitle_20019" class="link">Free Online Scratch Cards  </span>--><br><p id="description20019"><span id="editdescrip_20019">There’s no need to leave your comfortable place in order to purchase a scratch card because you can now do it from the privacy of your own home where you can play a wide variety of games. This portal features a great collection of free online scratch cards no deposit games that will definitely a feast for your eyes.</span> <br>-&nbsp;<a class="readMore" href="/detail/free-online-scratch-cards-20019/" title="Read more about: Free Online Scratch Cards">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.scratchcard-sites.com/"><br><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_18556" href="http://www.scratchcard-sites.com/" title="Scratchcard Sites"><span id="edittitle_18556" class="link">Scratchcard Sites</span></a><!--<span  id="edittitle_18556" class="link">Scratchcard Sites  </span>--><br><p id="description18556"><span id="editdescrip_18556">This Online Scratchcard Sites offer complete information about the scratch cards and other related information that you might find useful. Here you will find the most comprehensive information to make it easy to choose your desired game. Get straightforward and above all honest guides to the online scratch cards market all in one site.</span> <br>-&nbsp;<a class="readMore" href="/detail/scratchcard-sites-18556/" title="Read more about: Scratchcard Sites">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.webhostingnz.com"><br><div class="pr">
+PR: 3
+<div class="prg">
+<div class="prb" style="width: 12px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_18523" href="http://www.webhostingnz.com" title="New Zealand Web Hosting"><span id="edittitle_18523" class="link">New Zealand Web Hosting</span></a><!--<span  id="edittitle_18523" class="link">New Zealand Web Hosting  </span>--><br><p id="description18523"><span id="editdescrip_18523">Web Hosting and cheap New Zealand domain names. Fast domain name registration. Also, large selection of global domains, and website hosting packages also available. 7-day sales and support with experienced and friendly technicians to help you.</span> <br>-&nbsp;<a class="readMore" href="/detail/new-zealand-web-hosting-18523/" title="Read more about: New Zealand Web Hosting">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.intelligentgulf.com/"><br><div class="pr">
+PR: 4
+<div class="prg">
+<div class="prb" style="width: 16px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_16572" href="http://www.intelligentgulf.com/" title="studying abroad"><span id="edittitle_16572" class="link">studying abroad</span></a><!--<span  id="edittitle_16572" class="link">studying abroad  </span>--><br><p id="description16572"><span id="editdescrip_16572">Learn about Universities in the US, the UK, Canada and Australia at IntelligentGulf.com, the leading international education consultants in Dubai and rest of the Middle East.</span> <br>-&nbsp;<a class="readMore" href="/detail/studying-abroad-16572/" title="Read more about: studying abroad">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>            
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div></center></li></ul><div class="path"><a href="/" id="firstPath">PBHelp Internet Web Directory</a><span>Privacy Policy</span></div>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><strong>Your Privacy</strong><br>Your privacy is important to us. To   better protect your privacy we provide this notice explaining our  online  information practices and the choices you can make about the way  your  information is collected and used. To make this notice easy to  find, we  make it available on our homepage and at every point where  personally  identifiable information may be requested.</p>
+<p><strong>Google Adsense and the DoubleClick DART Cookie</strong><br>Google,   as a third party advertisement vendor, uses cookies to serve ads on   this site. The use of DART cookies by Google enables them to serve   adverts to visitors that are based on their visits to this website as   well as other sites on the internet.</p>
+<p>To opt out of the DART cookies you may visit the Google ad and   content network privacy policy at the following url <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a> Tracking of users through the DART cookie mechanisms are subject to   Google’s own privacy policies.</p>
+<p>Other Third Party ad servers or ad networks may also use cookies to   track users activities on this website to measure advertisement   effectiveness and other reasons that will be provided in their own   privacy policies, PBHelp Web Directory has no access or control over  these  cookies that may be used by third party advertisers.</p>
+<p><strong>Collection of Personal Information</strong><br>When  visitingPBHelp Web Directory, the IP address used to access the site will be   logged along with the dates and times of access. This information is   purely used to analyze trends, administer the site, track users movement   and gather broad demographic information for internal use. Most   importantly, any recorded IP addresses are not linked to personally   identifiable information.</p>
+<p><strong>Links to third party Websites</strong><br>We have included   links on this site for your use and reference. We are not responsible   for the privacy policies on these websites. You should be aware that the   privacy policies of these sites may differ from our own.</p>
+<p><strong>Changes to this Privacy Statement</strong><br>The contents of   this statement may be altered at any time, at our discretion.</p>
+<p>If you have any questions regarding the privacy policy of PBHelp Web Directory then you may contact us at admin@pbhelp.com</p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div><li id="18"><div style="width: 468px; height: 60px; margin: 0px auto;">
+<script type="text/javascript">
+<!--
+google_ad_client = "pub-3344819360098873";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_type = "text";
+
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "505050";
+google_color_url = "505050";
+//-->
+
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</li></div> <div id="sideright">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="23">
+<div style="width: 160px; height: 600px; margin: 0px auto;">
+<script type="text/javascript">
+<!--
+google_ad_client = "pub-3344819360098873";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_type = "text";
+
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "505050";
+google_color_url = "505050";
+//-->
+
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+</li>
+<li id="26">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Pages</span></h3>
+<div class="box_pad2">		<ul class="boxPopCats">
+<li>
+<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a> 
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+<li id="45">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Popular Categories</span></h3>
+<div class="box_pad2">		<ul class="boxPopCats">
+<li>
+<a href="/Business/" title="Business">Business</a>
+</li>
+<li>
+<a href="/Shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/Computers_and_Internet/" title="Computers and Internet">Computers and Internet</a>
+</li>
+<li>
+<a href="/Health/" title="Health">Health</a>
+</li>
+<li>
+<a href="/Travel/" title="Travel">Travel</a>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+</ul>
+</div></div>
+<div class="content-bottom">
+</div>
+</div>
+</div> </div> </div> </div> </div><div id="footer"><div id="footercontent"></div></div></div></body></html>
