@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astroempires.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119134044id_/http%3A//astroempires.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroempires.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216164844id_/http%3A//www.astroempires.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Astro Empires
 
