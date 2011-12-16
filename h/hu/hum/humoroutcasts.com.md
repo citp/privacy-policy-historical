@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humoroutcasts.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618023609id_/http%3A//humoroutcasts.com/%3Fpage_id%3D109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humoroutcasts.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216215057id_/http%3A//humoroutcasts.com/%3Fpage_id%3D109) for the most accurate reproduction.*
 
 # Privacy Statement | HumorOutcasts
 
@@ -39,6 +39,14 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 **Security of your Personal Information**
 
 HumorOutcasts secures your personal information from unauthorized access, use or disclosure. HumorOutcasts secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+**Google and the DoubleClick DART cookie**
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+
+
 
 **Changes to this Statement**
 
