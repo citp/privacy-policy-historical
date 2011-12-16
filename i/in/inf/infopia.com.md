@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616185748id_/http%3A//www.infopia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216104910id_/http%3A//www.infopia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Ecommerce Shopping Cart Solutions – Ecommerce Store Hosting & Software
 
@@ -11,7 +11,6 @@ If you have any questions or concerns regarding submitting your information onli
 Infopia, Inc.  
 56 East Broadway, 4th Floor  
 Salt Lake City, Utah 84111  
-888-337-3210  
 [](mailto:privacy@infopia.com)  
 
 
