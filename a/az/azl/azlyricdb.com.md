@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azlyricdb.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527171122id_/http%3A//azlyricdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azlyricdb.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216112346id_/http%3A//www.azlyricdb.com/privacy) for the most accurate reproduction.*
 
-# A-Z Lyrics Database: Your Song Lyrics Database
+# Song Lyrics
 
 **Do we use cookies?**
 
