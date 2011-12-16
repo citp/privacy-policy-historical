@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymarkets.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617065725id_/http%3A//www.dailymarkets.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymarkets.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216211025id_/http%3A//www.dailymarkets.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
