@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the deal4loans.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530130245id_/http%3A//www.deal4loans.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deal4loans.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216204955id_/http%3A//www.deal4loans.com/Privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Deal4loans.com's Services | Online Loan Application And Information
 
-By registering yourself at [www.deal4loans.com ](https://web.archive.org/web/20110530130245id_/http%3A//www.deal4loans.com/index.php)you are authorizing us & our associate partners to give you a call to offer you their services for the product you have opted for, imparting product knowledge, offering promotional offers running on website & offers offered by the associated third parties. And Irrespective of the fact if also you have registered yourself under DND or DNC service still you authorize us to give you a call from the deal4loans.com & associate partners for the above mentioned purposes till 45 days of your registration with us. **Also based on your active opt-in you are open to receive promotional offers from advertiser/partnering website hence there is no DNC check required thereforth**
+By registering yourself at [www.deal4loans.com ](https://web.archive.org/web/20111216204955id_/http%3A//www.deal4loans.com/index.php)you are authorizing us & our associate partners to give you a call to offer you their services for the product you have opted for, imparting product knowledge, offering promotional offers running on website & offers offered by the associated third parties. And Irrespective of the fact if also you have registered yourself under DND or DNC service still you authorize us to give you a call from the deal4loans.com & associate partners for the above mentioned purposes till 45 days of your registration with us. **Also based on your active opt-in you are open to receive promotional offers from advertiser/partnering website hence there is no DNC check required thereforth**
 
 By accepting our 
 
 _"Terms and Conditions"_
 
 you authorize our partners to run a Cibil/Satyam check for your profile.
+
+Deal4loans.com doesn't provide Loans on its own but ensures your information is sent to bank which you have opted for.Deal4loans has no sales team on its own and we just help you to compare loans .All loans are on discretion of the associated Banks.
 
 This Privacy Policy covers **Deal4loans.com's** treatment of personally identifiable information that **Deal4loans.com** collects when you are on the Deal4loans.com site, and when you use **Deal4loans.com 's** services. This policy also covers Deal4loans.com's treatment of any personally identifiable information that Deal4loans.com's business partners share with **Deal4loans.com**. This policy does not apply to the practices of companies that **Deal4loans.com** does not own or control, or to people that **Deal4loans.com** does not employ or manage. 
 
