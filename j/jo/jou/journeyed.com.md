@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509223335id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216133422id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
 
 # JourneyEd.com - Academic Software Discounts!
 
-JourneyEd.com is the Web site of Journey Education Marketing, the leading post-secondary educational software reseller in North America. We hope you enjoy your visit. In order to better serve your needs and enhance your overall shopping experience at JourneyEd.com, we collect certain information about you when you visit us.
+JourneyEd.com is the Web site of Digital River Education Services, the leading post-secondary educational software reseller in North America. We hope you enjoy your visit. In order to better serve your needs and enhance your overall shopping experience at JourneyEd.com, we collect certain information about you when you visit us.
 
 ##### How We Protect Your Information
 
@@ -24,12 +24,12 @@ If you provide us with your postal address, e-mail address or telephone number, 
   
 
 
-##### How to Opt-Out of Journey Education Marketing's Direct Marketing Programs
+##### How to Opt-Out of Digital River Education Services's Direct Marketing Programs
 
 If you do not wish to receive e-mails from us, please let us know by sending an e-mail containing your exact e-mail address in the body text to Do Not Mail. For your convenience, we reprint this instruction at the bottom of each e-mail we send you so that you may opt-out of our program at any time. If you do not wish to receive postal mailings or telephone calls from us, please let us know by mailing or faxing a letter containing your name and address to:
 
   
-Journey Education Marketing   
+Digital River Education Services   
 Attention: Do Not Mail   
 13755 Hutton Drive   
 Suite 500   
@@ -47,7 +47,7 @@ To ensure that your request is handled accurately, please include a copy of your
 
 
 
-The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [optout@JourneyEd.com](https://web.archive.org/web/20110509223335id_/http%3A//www.journeyed.com/page/output@JourneyEd.com).
+The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [optout@JourneyEd.com](https://web.archive.org/web/20111216133422id_/http%3A//www.journeyed.com/page/output@JourneyEd.com).
 
   
 
@@ -68,7 +68,7 @@ A few of the companies that we represent require that we provide them a list of 
 
 ##### CONSENT
 
-By using our Web site, you consent to the collection and use of this information by Journey Education Marketing as described in this Policy. If we change our privacy policy we will post any change on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+By using our Web site, you consent to the collection and use of this information by Digital River Education Services as described in this Policy. If we change our privacy policy we will post any change on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
   
 
