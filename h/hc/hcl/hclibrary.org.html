@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hclibrary.org privacy policy that was archived on 2011-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618014548id_/http%3A//hclibrary.org/index.php%3Fpage%3D464) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hclibrary.org privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216220851id_/http%3A//hclibrary.org/index.php%3Fpage%3D464) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Howard County Library - Privacy Statement</title>
@@ -19,9 +19,9 @@
 .i3 { height:1px; }
 </style>
 <![endif]-->
-<script src="/js/effects.js" type="text/javascript"></script>
 <script src="/js/prototype.js" type="text/javascript"></script>
 <script src="/js/scriptaculous.js" type="text/javascript"></script>
+<script src="/js/effects.js" type="text/javascript"></script>
 <script src="/js/validation.js" type="text/javascript"></script>
 <script src="/js/lightwindow.js" type="text/javascript"></script>
 <script src="/js/functions.js" type="text/javascript"></script>
@@ -34,7 +34,7 @@
 <link type="text/css" rel="stylesheet" href="/css/niftyCorners.css" media="screen"></head>
 <body><div id="container">
 <div id="row1"> 
-  <div id="logo_text"><a href="/index.php?page=1"><img src="/images/logo_text.jpg" alt="Howard County Library" border="0"></a></div>
+  <div id="logo_text"><a href="/index.php?page=1"><img src="/images/HCLS_logo_text_web.png" alt="Howard County Library System" border="0"></a></div>
   <div id="logo"><a href="/index.php?page=1"><img src="/images/logo.jpg" alt="Hi Logo" border="0"></a></div>
     <div id="top_nav">
     <ul>
@@ -56,33 +56,32 @@
   </div>
 </div>
 <div id="row3">
-    <div id="search_bar">
-    	<form action="/modules/mod_polaris_search.php" method="post" name="search">
-            <strong>Search</strong>&nbsp;
-            <select name="hclquicksearch_format" id="hclquicksearch_format">
-                <option value="_all_">(all formats)</option>
-                <option value="1,2,24">Audiobooks</option>
-                <option value="3,4,5,6,19,23,25,26">Books</option>
-                <option value="8">Downloadable Audiobooks</option>
-                <option value="9,10,11">DVDs</option>
-                <option value="13">eBooks</option>
-                <option value="14,30">Electronic Resources</option>
-                <option value="19">Large Print</option>
-                <option value="20">Magazines/Newspapers</option>
-                <option value="15">Music</option>
-                <option value="27">Toys</option>
-                <option value="_all_">-----------------------------------</option>
-                <option value="available">Available Items Only</option>
-            </select>&nbsp;
-            <input type="text" name="hclquicksearch_term" id="hclquicksearch_term" size="45" value="">
-            <input type="submit" id="searchsubmit" value="" name="searchsubmit" alt="Search">
-            <a href="http://www.hclibrary.org/redir.php?page=advanced">&gt; Advanced Search</a>&nbsp;
-            <a href="http://www.hclibrary.org/redir.php?page=newsearch">&gt; New Search</a>
-        </form>
-    </div>
+	<div id="search_bar">
+		<form action="/modules/mod_polaris_search.php" method="post" name="search" autocomplete="off">
+			<div id="hclsearch_bar">
+				<strong>Search</strong>&nbsp; <select name="hclquicksearch_format" id="hclquicksearch_format">
+					<option value="_all_">(all formats)</option>
+					<option value="1,2,24">Audiobooks</option>
+					<option value="3,4,5,6,19,23,25,26">Books</option>
+					<option value="8">Downloadable Audiobooks</option>
+					<option value="9,10">DVDs</option>
+					<option value="13">eBooks</option>
+					<option value="14,30">Electronic Resources</option>
+					<option value="19">Large Print</option>
+					<option value="20">Magazines/Newspapers</option>
+					<option value="15">Music</option>
+					<option value="27">Toys</option>
+					<option value="_all_">-----------------------------------</option>
+					<option value="available">Available Items Only</option>
+					<option value="21,22">On Order Items Only</option>
+				</select>&nbsp; <span id="hclquicksearch_autosuggest_container"> <input type="text" name="hclquicksearch_term" id="hclquicksearch_term" size="40" value="" autocomplete="off"> <input name="hcl_showsuggestions" type="text" id="hcl_showsuggestions" title="Show Suggestions" class="AutoSuggestShowCold" value="1" style="border: 0px; cursor: pointer; width: 12px; margin-left: -20px; margin-top: 0px; margin-bottom: 0px; padding: 0px; visibility: hidden;" tabindex="-1">
+				</span> <input type="submit" id="hclquicksearch_button" value="" name="hclquicksearch_button" class="hclsearchsubmit"> <a href="http://www.hclibrary.org/redir.php?page=advanced">&gt;
+					Advanced Search</a>&nbsp; <a href="http://www.hclibrary.org/redir.php?page=newsearch">&gt; New
+					Search</a>
+			</div>
+		</form>
+	</div>
 </div>
-
-
 <div id="content" align="center">
 <div style="width:95%" align="left">
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:5px;">
@@ -184,6 +183,13 @@ If you have any questions about this privacy statement, the practices of HCL, or
         </div>
 	</div>
 </div>
+
+
+<script type="text/javascript" src="/js/polaris_widget.js"></script>
+<script type="text/javascript">
+var hclAutoSuggest = new ERMSRESTAutoSuggest({callback:null,containerID:'hclquicksearch_autosuggest_container',databaseName:'PAC',dataLink:'POLARIS',delay:100,enabled:true,filter:['AU','GENRE','KW','NOTE','PUB','SE','SU','TI'],qualifierName:'KW',queryInputID:'hclquicksearch_term',qualifierSelectID:'',showSuggestionsID:'hcl_showsuggestions',hideSuggestionsText:'Hide Suggestions'});
+</script>
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
