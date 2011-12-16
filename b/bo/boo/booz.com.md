@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the booz.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609193814id_/http%3A//www.booz.com/global/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booz.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216105516id_/http%3A//www.booz.com/global/home/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy Statement  
-
+Privacy Policy
 
 Booz & Company Inc. and its affiliates (collectively, “us”, “we” or “Booz & Company”) considers your privacy a high priority. This privacy statement explains what information Booz & Company gathers from you through this web site, its subdomains and mobile versions (the “Web Site”) and how we may use it. By using the Web Site you indicate your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, do not use or access the Web Site. If you have any questions, please contact our [webmaster](http://www.booz.com/global/home/44122980?Name=Webmaster).
 
