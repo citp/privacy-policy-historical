@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501184725id_/http%3A//www.bluetie.com/legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216082243id_/http%3A//www.bluetie.com/legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BlueTie
 
@@ -82,6 +82,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Privacy Policy  
 BlueTie, Inc.  
-220 Kenneth Drive  
-Rochester, NY 14623  
+189 N. Water Street, Suite 200  
+Rochester, NY 14604  
 Or, you may [contact us](http://support.bluetie.com/node/829 "Support Center") by email.
