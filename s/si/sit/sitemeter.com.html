@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sitemeter.com privacy policy that was archived on 2011-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110617073206id_/http%3A//www.sitemeter.com/%3Fa%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sitemeter.com privacy policy that was archived on 2011-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111216220120id_/http%3A//www.sitemeter.com/%3Fa%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -45,7 +45,7 @@ r = encodeURIComponent(document.referrer);
 }catch(e){}
 document.write("<scr"+"ipt type='text/javascript' src='http://afe.specificclick.net/?l=22018&sz=728x90&wr=j&t=j&u="+u+"&r="+r+"&rnd="+sm_random+"'></scr"+"ipt>");
 //-->
-</script><script type="text/javascript" src="http://afe.specificclick.net/?l=22018&amp;sz=728x90&amp;wr=j&amp;t=j&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110617073206id_%2Fhttp%253A%2F%2Fwww.sitemeter.com%2F%253Fa%253Dprivacy&amp;r=&amp;rnd=986980"></script>
+</script><script type="text/javascript" src="http://afe.specificclick.net/?l=22018&amp;sz=728x90&amp;wr=j&amp;t=j&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111216220120id_%2Fhttp%253A%2F%2Fwww.sitemeter.com%2F%253Fa%253Dprivacy&amp;r=&amp;rnd=470581"></script>
 </td>
 				<td><img src="images/BannerAd_BorderRight.jpg" width="25" height="92"></td>
 				</tr>
@@ -548,39 +548,38 @@ google_ad_height = 90;
 	
 </div>
 
-<!-- Specific/Rome Publisher Tag - to be placed directly before closing </body> tag -->
-
 <script type="text/javascript" language="javascript">
+
+var dloc = document.location.toString();
+if ((dloc == "http://sitemeter.com") | (dloc == "http://sitemeter.com/?a=home") | (dloc == "http://sitemeter.com/") | (dloc == "http://www.sitemeter.com/") | (dloc == "http://www.sitemeter.com") | (dloc == "http://www.sitemeter.com/?a=home"))
+{
+
 
 var cw = 840; // specify content width
 
-var cpad = 10; // specify the content padding if desired
-
-var bgc = "333333"; // specify the HTML color to use for background (ex. white would be "FFFFFF", leave blank for transparent)
+var cp = 10; // specify the content padding if desired
 
 
 
-var dloc = document.location.href.toString();
+try{
 
-if ((dloc == "http://sitemeter.com") | (dloc == "http://sitemeter.com/?a=home") | (dloc == "http://sitemeter.com/") | (dloc == "http://www.sitemeter.com/") | (dloc == "http://www.sitemeter.com") | (dloc == "http://www.sitemeter.com/?a=home"))
+var s=document.createElement('script');
 
-{
+s.id='specific_rome_js';
 
-	var s_rand = Math.round(Math.random()*1000000);var u='';var r='';var i=1;var sw=0;var sh=0;var h=0;var w=0;var scrh=0;var dc=0;
+s.type='text/javascript';
 
-	try{if (window == top) {i = 0;} sw = screen.width; sh = screen.height;
+s.src='http://rome.specificclick.net/rome/rome.js?l=28095&t=j&cw='+cw+'&cp='+cp;
 
-	h = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+document.body.appendChild(s);
 
-	w = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
-
-	scrh = document.body.scrollHeight; u = encodeURIComponent(document.location); r = encodeURIComponent(document.referrer);}catch(e){}
-
-	document.write("<scr"+"ipt id='specific_roam_js' type='text/javascript' src='http://afe.specificclick.net?l=26344&t=j&i="+i+"&cw="+cw+"&cp="+cpad+"&w="+w+"&h="+h+"&sw="+sw+"&sh="+sh+"&sch="+scrh+"&bgc="+bgc+"&u="+u+"&r="+r+"&rnd=" + s_rand + "'></scri"+"pt>");
-
+}catch(e){}
 }
 
+
 </script>
+
+
 
 
 
