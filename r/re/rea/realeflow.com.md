@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realeflow.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626191459id_/http%3A//realeflow.com/images/RFprivacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realeflow.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216054024id_/http%3A//www.realeflow.com/images/RFprivacy.pdf) for the most accurate reproduction.*
 
 # 
 
