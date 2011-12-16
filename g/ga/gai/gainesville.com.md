@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gainesville.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617202932id_/http%3A//www.gainesville.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainesville.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216112950id_/http%3A//www.gainesville.com/privacypolicy) for the most accurate reproduction.*
 
 # privacypolicy | Gainesville.com | The Gainesville Sun
 
@@ -185,3 +185,7 @@ In accordance with the Children's Online Privacy Protection Act (COPPA), The Gai
 ## Other Information: Changes to This Policy
 
 This Privacy Policy may be amended from time to time. Any such changes will be posted on this page. If we make a significant or material change in the way we use your personal information, the change will be posted on this page thirty (30) days prior to taking effect. Registered users will be notified via e-mail.
+
+## News Registry
+
+This Web site uses services provided by News Registry. News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of News Registry. Please refer to the News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
