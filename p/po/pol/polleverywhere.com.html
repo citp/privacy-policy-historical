@@ -1,40 +1,65 @@
-<!--The following is the downloaded HTML source of the polleverywhere.com privacy policy that was archived on 2011-01-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110119111415id_/http%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the polleverywhere.com privacy policy that was archived on 2011-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217002823id_/http%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <title>Poll Everywhere Privacy Policy | Poll Everywhere</title>
 <!--[if lt IE 9]>
-<script src="/javascripts/lt-ie9-html5-compat.js?8d1249bc9dda157f024bef4c4396f7ea" type="text/javascript"></script>
+<script src="/javascripts/lt-ie9-html5-compat-fp-8d1249bc9dda157f024bef4c4396f7ea.js" type="text/javascript"></script>
 <meta content='no' http-equiv='imagetoolbar' />
 <![endif]-->
 <!--[if lt IE 8]>
-<link href="/stylesheets/ie7_hacks.css?c66728fd9937f801af393dd7a22922a1" media="screen" rel="stylesheet" type="text/css" />
+<link href="/assets/ie7_hacks-fp-5399fe2b1620d72ce62252ee3326eab9.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
 <meta charset="UTF-8">
+<meta content="telephone=no" name="format-detection">
 
-<link href="/stylesheets/sparkle.css?e5ff5bd4621df30e7e85c6b4982d0ef4" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/overlay.css?37a97a4ec307439154d032fbf2a0fe56" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/jquery.qtip.css?546f450c0ae049f0e0ee7666cc298b79" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/sparkle-fp-c84368400563afc67d7b072128bdc3a8.css" media="screen" rel="stylesheet" type="text/css">
 
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/assets/app.js?506ad7388d5a9280a47c3da909cdcc5a" type="text/javascript"></script>
+<script src="/assets/app-fp-a918087676188e5f9427a7793e0d2a6b.js" type="text/javascript"></script>
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-type">
 
 <meta content="http://www.polleverywhere.com/images/facebook_icon.png" property="og:image">
 <meta content="Poll Everywhere" property="og:site_name">
 <meta content="" property="og:description">
+<meta content="180022809344" property="fb:page_id">
 <meta content="Poll Everywhere" property="og:title">
+
 
 <!-- Start Google Site Statistics -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2204221-1']);
+  _gaq.push(['_setAccount', 'UA-2204221-1']);           // Init GA
+  _gaq.push(['gwo._setAccount', 'UA-2204221-5']);       // Init GWO
   _gaq.push(['_setDomainName', 'polleverywhere.com']);  // Catch pe.com and www.pe.com
   _gaq.push(['_addIgnoredRef', 'blog.polleverywhere.com']);  // Treat blog as direct trafic
   _gaq.push(['_trackPageview']);
+  
+  
+  // Google Website Optimizer Tracking
+  
+  function countGoal(experiment_id, href) {
+    try {
+      // Goal achieved
+      _gaq.push(['gwo._trackPageview', '/' + experiment_id + '/goal']);
+      
+      // Delayed async execution of link following
+      // http://www.google.com/support/websiteoptimizer/bin/answer.py?hl=en-uk&answer=93181
+      if (!_.isUndefined(href)) {
+        setTimeout('document.location = "' + href + '"', 100);
+      }
+    } 
+    catch(err){};
+
+    // Links need return(false), forms need return(true)
+    return _.isUndefined(href);
+  }
+
+  // Google Analytics eCommerce tracking
 
   
+  
+  // Standard all-google script
   
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -44,8 +69,9 @@
 
 </script>
 <!-- End Google Site Statistics -->
+
 </head>
-<body>
+<body id="content_privacy_policy">
 <div class="outter wrapper">
 <div id="blue_stripes">
 <div id="notice"></div>
@@ -60,8 +86,8 @@
 </div>
 <div id="app_nav">
 <ul class="horizontal_menu">
-<li><a href="/signup/">Signup</a></li>
-<li><a href="/login">Login</a></li>
+<li><a href="https://www.polleverywhere.com/signup">Signup</a></li>
+<li><a href="https://www.polleverywhere.com/login">Login</a></li>
 </ul>
 </div>
 </div>
@@ -76,7 +102,9 @@
 </div>
 </div>
 <div id="main">
-<div class="inner wrapper"><section class="paper">
+<div class="inner wrapper">
+
+<section class="paper">
 <div class="one column">
 <h1 class="spacer">Privacy Policy</h1>
 <p>
@@ -125,6 +153,7 @@ Any questions about this Privacy Policy should be addressed to questions@polleve
 </p>
 </div>
 </section>
+
 </div>
 </div>
 </div>
@@ -137,6 +166,7 @@ Any questions about this Privacy Policy should be addressed to questions@polleve
 <li><a href="/refund-policy">Refund Policy</a></li>
 </ul>
 <ul>
+<li class="highlight"><a href="/jobs">Jobs</a></li>
 <li><a href="http://blog.polleverywhere.com/">Our Blog</a></li>
 <li><a href="http://twitter.com/polleverywhere">Twitter</a></li>
 <li><a href="http://facebook.com/polleverywhere">Facebook</a></li>
@@ -157,33 +187,32 @@ International:
 <li>
 <a class="contactInfo" data-behavior="overlay" rel="#guarded_contact_info">show the emails @polleverywhere.com</a>
 </li>
+<li><a href="http://status.polleverywhere.com/" target="_blank">Check System Status</a></li>
 </ul>
 <ul class="right">
-<li>
-<h3>
-Designed by
-<a href="http://conden.se/">Condense</a>
-</h3>
-</li>
+<li></li>
 </ul>
 </div>
 </div>
 </footer>
 <div class="overlay" id="guarded_contact_info" style="display: none;">
-<h2>One quick favor to make our conversation more productive</h2>
-<p>90% of the emails and calls we receive are easily answered online. Have you tried:</p>
+<h2>Let's make our conversation more productive</h2>
+<p>90% of the questions we receive are quickly answered online. Have you tried:</p>
 <ul>
 <li><a href="/faq" target="_parent">Frequently Asked Questions</a></li>
 <li><a href="/plans" target="_parent">Pricing Page</a></li>
 <li>
-<a href="/my/polls" target="_parent">Try it for free</a>
+<a href="/" target="_parent">Try it for free</a>
 without registering
 </li>
 </ul>
 <p>
-<a href="#" id="show_contact_info">I've already looked at those, show me the phone number and email...</a>
+<a data-ga-event-action="/privacy-policy" data-ga-event-category="Show Guarded Phone Number" href="#" id="show_contact_info">I've already looked at those. I want to contact customer service.</a>
 </p>
 <ul id="contactInfo" style="display:none;">
+<li>
+We're open from 5AM to 5PM PST. Give us a call!
+</li>
 <li>
 US:
 +1 (800) 388-2039
@@ -192,17 +221,42 @@ US:
 International:
 +1 (773) 382-0377
 </li>
-<li>
-Office Hours:
-8 AM to 5 PM Pacific Time
-</li>
-<li><script type="text/javascript">eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%73%61%6c%65%73%40%70%6f%6c%6c%65%76%65%72%79%77%68%65%72%65%2e%63%6f%6d%3f%73%75%62%6a%65%63%74%3d%53%61%6c%65%73%25%32%30%71%75%65%73%74%69%6f%6e%73%22%3e%73%61%6c%65%73%40%70%6f%6c%6c%65%76%65%72%79%77%68%65%72%65%2e%63%6f%6d%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:sales@polleverywhere.com?subject=Sales%20questions">sales@polleverywhere.com</a></li>
-<li><script type="text/javascript">eval(decodeURIComponent('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%49%41%6d%41%43%75%73%74%6f%6d%65%72%40%70%6f%6c%6c%65%76%65%72%79%77%68%65%72%65%2e%63%6f%6d%3f%73%75%62%6a%65%63%74%3d%50%61%69%64%25%32%30%43%75%73%74%6f%6d%65%72%25%32%30%73%75%70%70%6f%72%74%25%32%30%71%75%65%73%74%69%6f%6e%22%3e%49%41%6d%41%43%75%73%74%6f%6d%65%72%40%70%6f%6c%6c%65%76%65%72%79%77%68%65%72%65%2e%63%6f%6d%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:IAmACustomer@polleverywhere.com?subject=Paid%20Customer%20support%20question">IAmACustomer@polleverywhere.com</a></li>
+<li><a department="corporate" email="sales@polleverywhere.com" href="mailto:sales@polleverywhere.com?subject=Sales%20questions">sales@polleverywhere.com</a></li>
+<li><a department="corporate" email="IAmACustomer@polleverywhere.com" href="mailto:IAmACustomer@polleverywhere.com?body=%20%0A%0A----------------------------%0AThe%20stuff%20below%20is%20just%20technical%20info%20about%20your%20browser%20that%20will%20help%20us%20figure%20out%20what%27s%20up%20if%20you%27re%20having%20a%20problem.%20Please%20don%27t%20change%20or%20delete.%0A%0AURL%3A%20http%3A%2F%2Fwww.polleverywhere.com%2Fprivacy-policy%0ABrowser%3A%20ia_archiver%20%28%2Bhttp%3A%2F%2Fwww.alexa.com%2Fsite%2Fhelp%2Fwebmasters%3B%20crawler%40alexa.com%29%0A%0A----------------------------&amp;subject=Paid%20Customer%20support%20question">IAmACustomer@polleverywhere.com</a></li>
 </ul>
 </div>
 
 
+
 </div>
+<!-- Google Code for Homepage Visitors Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1064283045;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "_YG6CNf7vAIQpde--wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1064283045/?label=_YG6CNf7vAIQpde--wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrf2","beacon-1.newrelic.com","a1cf0179bb",177106,"elxXF0UNCl8BShZbXFdHXA1DTU5cEFBcSho=",6,28,new Date().getTime()])</script>
 
-</body></html>
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/26/eum/rum-staging.js"></script></body></html>
