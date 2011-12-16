@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloy.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606042101id_/http%3A//www.alloy.com/privacy/index.vm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloy.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216072414id_/http%3A//www.alloy.com/privacy/index.vm) for the most accurate reproduction.*
 
 # Privacy Policy - Alloy.com
 
@@ -16,7 +16,7 @@ REMEMBER IF YOU MAKE USE OF THE SITE, REGISTER WITH THE SITE, REQUEST INFORMATIO
 
 **The Information We Collect.**
 
-You can do a variety of things on the Site! You may be able to order products, enter contests, participate in surveys, vote in polls, subscribe to a service (like our ezine) or participate in a chat room. The types of personally identifiable information. We may collect personal information (i.e. information that can directly identify you or indicate where you might be contacted, including: name, address, age, date of birth, sex, grade level, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs and services) through these methods or other documents that you submit to us, transactions in which you may engage with us or our affiliated companies, or through visits that you may make to the Site. This policy applies to all personal information that we collect and maintain about our users, including any contact information (e.g., name and address), financial information (e.g., account and credit history) or identifying information (e.g., social security number, date of birth) that we may obtain in connection with providing services. You can view, update or change your information at any time. [Click here](http://www.alloy.com/profile/manager/) to edit your profile or send an email to [unsubscribe@alloy.com](mailto:unsubscribe@alloy.com). 
+You can do a variety of things on the Site! You may be able to order products, enter contests, participate in surveys, vote in polls, subscribe to a service (like our ezine) or participate in a chat room. We may collect personal information (i.e. information that can directly identify you or indicate where you might be contacted, including: name, address, age, date of birth, sex, grade level, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs and services) through these methods or other documents that you submit to us, transactions in which you may engage with us or our affiliated companies, or through visits that you may make to the Site. This policy applies to all personal information that we collect and maintain about our users, including any contact information (e.g., name and address), financial information (e.g., account and credit history) or identifying information (e.g., social security number, date of birth) that we may obtain in connection with providing services. You can view, update or change your information at any time. [Click here](http://www.alloy.com/profile/manager/) to edit your profile or send an email to [unsubscribe@alloy.com](mailto:unsubscribe@alloy.com). 
 
 Sometimes you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to a friend, you might submit the friend's name and address. The types of personally identifiable information that may be collected about other people at these pages may include: recipient's name, address, age, date of birth, grade level, e-mail address, sex and telephone number. 
 
@@ -46,7 +46,7 @@ Following your opt-out, please be aware that we, or our affiliates, may continue
 
 We sometimes use the non-personal information that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how the Site is used, as well as to offer you products, programs or services. Sometimes we share aggregate information with others, including affiliated companies and non-affiliated companies. 
 
-We may also allow third-party companies to serve advertisements and/or collect certain anonymous information when you visit the Site. Such companies may use non-personal information (e.g.: click stream information, browser type (Internet Explorer, Google Chrome, Firefox), time and date and/or subject of advertisements clicked or scrolled over) during your visits to the Site and other websites in order to make available advertisements about goods and services that such information indicates would likely be of greater interest to you. Such companies typically use a cookie or third party web beacons to collect this type of non-personal information. To learn more about this behavioral advertising practice or how you may opt-out of these types of advertising, you can visit www.networkadvertising.org. 
+We may also allow third-party companies to serve advertisements and/or collect certain anonymous information when you visit the Site. Such companies may use non-personal information (e.g.: click stream information, browser type (Internet Explorer, Google Chrome, Firefox), time and date and/or subject of advertisements clicked or scrolled over) during your visits to the Site and other websites in order to make available advertisements about goods and services that such information indicates would likely be of greater interest to you. Such companies typically use a cookie or third party web beacons to collect this type of non-personal information. To learn more about this behavioral advertising practice or how you may opt-out of these types of advertising, you can visit www.networkadvertising.org/managing/opt_out.asp. 
 
 If you would prefer not to receive marketing or promotional e-mails from us that may relate, for example, to new services or offerings, you may opt-out of receiving these communications by [CLICKING HERE](mailto:unsubscribe@alloy.com) to: (i) deregister your account; or (ii) change or edit your preferences. You may also use the opt-out mechanism that is contained in an email. 
 
@@ -94,7 +94,7 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 **Special Note for Parents.**
 
-We will not knowingly accept personal information from anyone under 13 years old in violation of applicable laws. If you believe that your child under 13 has gained access to the Site without your permission, please contact us at [unsubscribe@alloy.com](mailto:unsubscribe@alloy.com). We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. 
+We will not knowingly accept personal information from anyone under 13 years old. If you believe that your child under 13 has gained access to the Site without your permission, please contact us at [unsubscribe@alloy.com](mailto:unsubscribe@alloy.com). We have taken commercially reasonable steps to restrict use of the Site to those who are at least 13 years old. We do not market products or services for purchase by children and all children's products or services we market are for purchase by adults only, or with adult permission. 
 
 **Transfer of Business Assets.**
 
@@ -102,22 +102,20 @@ The personal information you provide is considered a company asset and may be in
 
 **Changes to this Policy.**
 
-Because our business needs may change over time, we reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If at any time in the future we plan to use your personal information in a way that differs from this policy, we will revise this policy as appropriate. Your continued use of the Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of 10/27/2009. 
+Because our business needs may change over time, we reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. If at any time in the future we plan to use your personal information in a way that differs from this policy, we will revise this policy as appropriate. Your continued use of the Site following the posting of any changes to this policy means you accept such changes. This policy is effective as of 2/10/2011. 
 
 **How to Contact Us.**
 
-The information you provide pursuant to this privacy policy is jointly owned by Alloy Media, LLC, a wholly-owned subsidiary of Alloy, Inc., and dELiA*s, Inc. 
+The information you provide pursuant to this privacy policy is owned by dELiA*s, Inc. 
 
 If you have any questions or concerns about this privacy policy you may e-mail [privacy@alloy.com](mailto:privacy@alloy.com) or contact us as follows: 
 
-Alloy, Inc.   
-151 W. 26th Street, 11th Floor   
-New York, NY 10001   
+dELiA*s, Inc.  
+50 West 23rd St.   
+New York, NY 10010   
 Attn: Privacy   
-
-
-Telephone: (212) 244-4307   
-Facsimile: (212) 244-4311  
+Telephone: (212) 590-6200  
+Facsimile: (212) 590-6310  
 
 
 If you have any questions about how dELiA*s, Inc. or any of its affiliates or subsidiaries will use or share your information you may email them at [questions@deliasmerch.com](mailto:questions@deliasmerch.com) or contact them as follows: 
@@ -126,6 +124,6 @@ dELiA*s, Inc.
 50 West 23rd St.   
 New York, NY 10010   
 Attn: Privacy   
-Telephone: (212) 807-9060  
+Telephone: (212) 590-6200  
 Facsimile: (212) 590-6310  
 
