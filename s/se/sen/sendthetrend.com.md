@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sendthetrend.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507080053id_/http%3A//www.sendthetrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendthetrend.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216164643id_/http%3A//www.sendthetrend.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEND THE TREND
+# 
 
 **Privacy Policy**
 
