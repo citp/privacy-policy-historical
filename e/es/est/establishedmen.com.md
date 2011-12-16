@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628051753id_/http%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216140529id_/http%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Established Men
 
 ## Privacy Statement
 
-Established Men Ontario Inc. ("we," "us" or "Established Men") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: August 26, 2009. 
+Established Men Inc. ("we," "us" or "Established Men") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: August 26, 2009. 
 
 The protection of your privacy is very important and we have adopted the following practices to safeguard the confidentiality of your personal information.
 
@@ -14,9 +14,9 @@ We collect two types of information: personally identifiable information ("PII")
 
 ### What information do you gather automatically from visitors?
 
-We use your IP address (the series of numbers associated with your individual computer) to help us maintain our site and identify problems with our server. Your IP address does not disclose any personally revealing information about you.
+We use your IP address (the series of numbers associated with your individual computer) to help us maintain our site, identify problems with our server, and to provide you with an enhanced experience.
 
-We do use cookies to identify traffic that comes through advertising and to facilitate a more user friendly experience. Cookies are small pieces of information that a web site places on your computer's hard drive so we know it's you when you visit. This helps us to create a personalized experience for you when you visit our site. The use of cookies is a very common practice on the Internet and provides for a more customized user experience of the Website. If you are uncomfortable with this, you can disable all cookies through your browser settings. Your enjoyment of our site won't be adversely affected if you have set your browser to reject cookies.
+We do use cookies (small pieces of removable data that is stored by the web browser on your computer, mobile phone or other device that identifies your computer, mobile phone, or other device when you visit our Site or Service) to identify traffic that comes through advertising, to facilitate a more user friendly experience, to track aggregate site usage patterns for analytics and troubleshooting purposes, detect fraud and to protect both You and Us. Cookies are small pieces of information that a web site places on your computer's hard drive so we know it's you when you visit. For example, we use cookies to store your login ID (but never your password) to make it easier for you to login whenever you come back to the Service. This helps us to create a personalized experience for you when you visit our site. The use of cookies is a very common practice on the Internet and provides for a more customized user experience of the Website. Most web browsers are initially set up to accept cookies. If you are uncomfortable with this, you can disable all cookies through your browser settings. However, should you choose to disable all cookies, this will impact and/or prevent your ability to access and use the Service.
 
 ### What information will you ask me for?
 
@@ -100,5 +100,5 @@ To contact us concerning Privacy issues, please use the [Contact Form](https://w
 Established Men Inc. 
 
 (DBA Established Men)   
-20 Eglinton Ave West, Suite 1200   
+20 Eglinton Ave West, Suite 1200  
 Toronto, ON Canada M4R 1K8 
