@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeimage.us privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618130012id_/http%3A//www.freeimage.us/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeimage.us privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216213732id_/http%3A//www.freeimage.us/content-privacy.html) for the most accurate reproduction.*
 
 # FreeImage.us - Free, Fast and Easy Image hosting
 
