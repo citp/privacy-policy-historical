@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get-search-results.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125055233id_/http%3A//get-search-results.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get-search-results.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216094317id_/http%3A//get-search-results.com/privacy.html) for the most accurate reproduction.*
 
 # Get-Search-Results.com
 
