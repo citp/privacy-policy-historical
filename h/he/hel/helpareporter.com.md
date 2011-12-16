@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helpareporter.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611071719id_/http%3A//www.helpareporter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpareporter.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216195414id_/http%3A//www.helpareporter.com/privacy) for the most accurate reproduction.*
 
-# HARO - Help a Reporter Out (TM) | Free Publicity
+# HARO - Help a Reporter Out ™
 
 ## 1\. Company
 
