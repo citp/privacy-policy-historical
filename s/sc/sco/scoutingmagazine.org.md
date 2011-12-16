@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the scoutingmagazine.org privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606232124id_/http%3A//www.scoutingmagazine.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutingmagazine.org privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216090914id_/http%3A//scoutingmagazine.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - www.scouting.org
+# Privacy Policy: www.scoutingmagazine.org - Scouting magazine
 
 _Scouting_ magazine and the Boy Scouts of America are committed to respecting and protecting the personal privacy of its members and those who visit this Web site. It is our policy to acquire personal information from users only by overt and voluntary means, only when it is in the interest of the user to provide it, and to utilize this information only for the purpose it was provided.
 
-The information that follows explains the kinds of information the _Scouting_ magazine Web site collects, how it is used, the conditions under which it is made available to third parties, how information is maintained, and our compliance with the Children's Online Privacy Protection Act.
+The information that follows explains the kinds of information the _Scouting_ magazine Web site collects, how it is used, the conditions under which it is made available to third parties, how information is maintained, and our compliance with the Children’s Online Privacy Protection Act.
 
 **NOTE:** This privacy policy applies only to `www.scoutingmagazine.org`. This privacy policy does not necessarily apply to any Web site to which we may link. Please contact the administrator of any other Web site for information about their own privacy policies and the information they collect about their site visitors.
 
 ## What information does this site collect?
 
-This site collects anonymous data that is not indicative of and cannot be traced to an individual without the cooperation of their Internet Service Provider. This data includes information about the user's remote IP address, referral data (which page "linked" to the present request), and the browser software's user-agent string. This information is accepted passively from the HTTP headers that are sent from the user when requesting any file from the server. Other anonymous data entered by the user may be collected in a common repository, including terms entered into the search engine, ZIP codes entered into the council locator, etc.
+This site collects anonymous data that is not indicative of and cannot be traced to an individual without the cooperation of their Internet Service Provider. This data includes information about the user’s remote IP address, referral data (which page “linked” to the present request), and the browser software’s user-agent string. This information is accepted passively from the HTTP headers that are sent from the user when requesting any file from the server. Other anonymous data entered by the user may be collected in a common repository, including terms entered into the search engine, ZIP codes entered into the council locator, etc.
 
 Personally identifiable data is collected only by means of form interfaces on the site, into which the user must voluntarily enter the information requested. This information is requested only when it is necessary to accomplish the overt purpose indicated by the interface containing the form that requests it. Such for interfaces require only the information reasonably necessary to accomplish the overt purpose indicated on the interface.
 
-No attempt is made to covertly or "quietly" collect personally identifiable information, nor are cookies or any other tracking technology used for the purpose of coordinating information that a user may opt to enter in various interfaces on the site.
+No attempt is made to covertly or “quietly” collect personally identifiable information, nor are cookies or any other tracking technology used for the purpose of coordinating information that a user may opt to enter in various interfaces on the site.
 
 ## What organization is collecting the information?
 
-Information entered by site visitors is retrieved directly by the Boy Scouts of America, National Council: 1325 West Walnut Hill Lane, Post Office Box 152079, Irving, TX, 75015-2079 - telephone (972) 580-2000.
+Information entered by site visitors is retrieved directly by the Boy Scouts of America, National Council: 1325 West Walnut Hill Lane, Post Office Box 152079, Irving, TX, 75015-2079 – telephone (972) 580-2000.
 
 ## How does the BSA use the information it collects?
 
-The anonymous information collected is used to monitor the usage of this Web site and the interests of those who use it. Data such as the volume of traffic to the server, the number of visitors a certain section of the site receives each month, or the most popular search terms are analyzed to derive general statistics about the site's reach and the audience's usage patterns.
+The anonymous information collected is used to monitor the usage of this Web site and the interests of those who use it. Data such as the volume of traffic to the server, the number of visitors a certain section of the site receives each month, or the most popular search terms are analyzed to derive general statistics about the site’s reach and the audience’s usage patterns.
 
-Personally identifiable information is used only for the express purpose for which it was submitted. For example, if a user enters their contact information in the "change of address" form for Scouting magazine, the information will be used only to change their address or to correspond with them regarding the change of address.
+Personally identifiable information is used only for the express purpose for which it was submitted. For example, if a user enters their contact information in the “change of address” form for Scouting magazine, the information will be used only to change their address or to correspond with them regarding the change of address.
 
 ## With whom does the BSA share the information that is collected?
 
@@ -38,7 +38,7 @@ Exception: the Boy Scouts of America reserves the right to use all information a
 
 In most cases, personally identifiable information is not maintained. Once it has been used for its intended purpose, it is deleted. Because of the brevity of this interval, no mechanism is provided to enable users to alter or delete information they have submitted.
 
-## How does the BSA comply with the Children's Online Privacy Protection Act (COPPA) of 1998?
+## How does the BSA comply with the Children’s Online Privacy Protection Act (COPPA) of 1998?
 
 _Scouting_ magazine, hence its Web site, is designed for and is expected to be of interest only to the adult leaders of the Scouting movement rather than a youth audience.
 
