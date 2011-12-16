@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the website-worth-value.com privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130032135id_/http%3A//www.website-worth-value.com/tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-worth-value.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216051351id_/http%3A//www.website-worth-value.com/tos.html) for the most accurate reproduction.*
 
 # Website-Worth-Value - Privacy Policy
 
