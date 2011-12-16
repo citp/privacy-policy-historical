@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fashionsnightout.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215012058id_/http%3A//www.fashionsnightout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionsnightout.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216114019id_/http%3A//www.fashionsnightout.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fashion's Night Out
+# Fashions Night Out
 
-The following Privacy Policy summarizes the various ways that Conde Nast Publications ("Service Provider," "we" or "our") treats the information you provide while using [www.fashionsnightout.com](https://web.archive.org/) ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+The following Privacy Policy summarizes the various ways that Condé Nast Publications ("Service Provider," "we" or "our") treats the information you provide while using [www.fashionsnightout.com](https://web.archive.org/) ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.fashionsnightout.com/privacy/](https://web.archive.org/privacy-policy/). Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
@@ -61,4 +61,4 @@ Condé Nast Digital
 Wilmington, DE 19801  
 [Privacy_administration@condenast.com](mailto:Privacy_administration@condenast.com)
 
-Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement and Privacy Policy © 2009 Conde Nast Publications and its licensors. All rights reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Conde Nast Publications.
+Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement and Privacy Policy © 2012 Condé Nast Publications and its licensors. All rights reserved. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast Publications.
