@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloomfire.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625104551id_/http%3A//www.bloomfire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomfire.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216111719id_/http%3A//www.bloomfire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Bloomfire / The Simplest Way to Spread Knowledge
+# Privacy Policy | Bloomfire
 
 * ## Introduction
 
