@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618013717id_/http%3A//www.thebiglot.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebiglot.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216210640id_/http%3A//www.thebiglot.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
