@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theinsuranceqoutes.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822131012id_/http%3A//www.theinsuranceqoutes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinsuranceqoutes.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216113955id_/http%3A//www.theinsuranceqoutes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Insurance Quotes
+# Privacy Policy | Cheap Car Insurance
 
 **Privacy Policy**
 
@@ -30,4 +30,4 @@ Our site may contain links to other websites of interest. However, once you use 
 
 ## Privacy Contact Information
 
-Should you have any questions, concerns, or comments about our privacy policy, please contact us by email directly at **braveheart1577@yahoo.com.**
+Should you have any questions, concerns, or comments about our privacy policy, please contact us by email directly at **cheema@theinsuranceqoutes.com.**
