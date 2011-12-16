@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancewriting.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317043925id_/http%3A//www.freelancewriting.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancewriting.com privacy policy that was archived on 2011-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111216164144id_/http%3A//www.freelancewriting.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
