@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the triplethreattrading.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619011828id_/http%3A//www.triplethreattrading.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplethreattrading.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217053913id_/http%3A//www.triplethreattrading.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Triple Threat Trading » Privacy Policy
+# Privacy Policy | Triple Threat Trading
 
 ## Information that is gathered from visitors
 
