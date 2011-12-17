@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010155835id_/http%3A//ncu.edu/northcentral-global/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncu.edu privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217092336id_/http%3A//www.ncu.edu/northcentral-global/privacy-statement) for the most accurate reproduction.*
 
-# Northcentral University | Online Degree Programs | Privacy Policy-Consumer Information
+# Privacy Policy and Consumer Information | Northcentral University
 
 ## Privacy Statement
 
@@ -12,9 +12,9 @@ Northcentral automatically collects information about your computer hardware and
 
   **Use of your Personal Information**   
 Northcentral University keeps track of visits to the Northcentral Web sites and pages in order to deliver customized content, and gauge the popularity and efficacy of sites, sections and services.   
-Northcentral does not sell, rent, lease or lend its lead, applicant, Learner, or Mentor lists to third parties. Northcentral may share data with trusted partners to help us perform statistical analyses. All such third parties are prohibited from using your personal information, except to provide such services to Northcentral, and are required to maintain the confidentiality of your information.   
+Northcentral does not sell, rent, lease or lend its lead, applicant, Student, or Mentor lists to third parties. Northcentral may share data with trusted partners to help us perform statistical analyses. All such third parties are prohibited from using your personal information, except to provide such services to Northcentral, and are required to maintain the confidentiality of your information.   
 Northcentral will not disclose your personal information, except as required to do so by law, or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Northcentral; (b) protect and defend the rights or property of Northcentral; or (c) act under exigent circumstances to protect the personal safety of users of Northcentral, its Web sites, or the public.   
-Under the Federal Family Educational Rights and Privacy Act of 1974, a Learner’s academic and financial files at Northcentral will not be released to any third party without the written consent of the Learner. 
+Under the Federal Family Educational Rights and Privacy Act of 1974, a Student’s academic and financial files at Northcentral will not be released to any third party without the written consent of the Student. 
 
 **Use of Cookies and Web Beacons**   
 A "cookie" is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you.   
@@ -24,7 +24,7 @@ Northcentral Web sites use cookies to help you personalize your online experienc
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Northcentral services or Web sites you visit. 
 
 **Control your Personal Information**   
-Northcentral offers its Learners choices for the collection, use and sharing of personal information. You may go to the Profile page to proactively make choices about the use and sharing of your personal information.
+Northcentral offers its Students choices for the collection, use and sharing of personal information. You may go to the Profile page to proactively make choices about the use and sharing of your personal information.
 
   **Security of your Personal Information**   
 Northcentral secures your personal information from unauthorized access, use or disclosure. Northcentral University secures the personally identifiable information you provide on computer servers in a controlled environment protected from unauthorized access, use or disclosure. Personal information (such as a credit card number) is transmitted to other Web sites through the use of encrypted Secure Socket Layer (SSL) protection. 
@@ -34,12 +34,12 @@ Northcentral secures your personal information from unauthorized access, use or 
 
 ## Consumer Information 
 
-Northcentral makes every effort to comply with federal, state and local laws and regulations. Here is a summary of our policies and procedures relating to a number of issues of concern to Learners, Faculty Mentors and Northcentral staff. 
+Northcentral makes every effort to comply with federal, state and local laws and regulations. Here is a summary of our policies and procedures relating to a number of issues of concern to Students, Faculty Mentors and Northcentral staff. 
 
-Northcentral policies are subject to change. For additional information about our policies and procedures, see our current [Course Catalog](http://www.ncu.edu/public_images/July%201%202010%20Catalog/July_1_2010_Catalog.htm).
+Northcentral policies are subject to change. For additional information about our policies and procedures, see our current [Course Catalog](http://www.ncu.edu/public_images/Northcentral%20University%20Catalog/Northcentral_University_Catalog.htm).
 
   **[Student Records](http://www.ncu.edu/northcentral-global/consumer-information/family-educational-rights-and-privacy-act)**    
-The Family Educational Rights and Privacy Act (FERPA) protects the privacy of Learner records. 
+The Family Educational Rights and Privacy Act (FERPA) protects the privacy of Student records. 
 
 **[Americans With Disabilities Act](http://www.ncu.edu/northcentral-global/consumer-information/Americans-with-disabilities)**    
 In accordance with the Americans with Disabilities Act of 1990 (ADA), the Rehabilitation Act of 1973 and subsequent regulations, Northcentral provides reasonable accommodation to a qualified individual with an appropriately documented disability, provided that such accommodation does not create an undue hardship. 
@@ -48,19 +48,30 @@ In accordance with the Americans with Disabilities Act of 1990 (ADA), the Rehabi
 The public Northcentral Web site is built to comply with Section 508 Accessibility Standards of the Rehabilitation Act of 1973, as amended in 1998. 
 
 [**Disclosure of Campus Crime Statistics (Jeanne Clery Act)**   
-](http://www.ncu.edu/northcentral-global/consumer-information/campus-crime-statistics)Northcentral provides statistics to inform its current and prospective Learners, Faculty Mentors and staff of campus crime. 
+](http://www.ncu.edu/northcentral-global/consumer-information/campus-crime-statistics)Northcentral provides statistics to inform its current and prospective Students, Faculty Mentors and staff of campus crime. 
 
 [**Alcohol and Drug Policy**](http://www.ncu.edu/northcentral-global/consumer-information/alcohol-and-drug-policy) **  
-** Northcentral is concerned about the use of alcohol, illegal drugs and controlled substances as it affects faculty, staff and Learners. 
+** Northcentral is concerned about the use of alcohol, illegal drugs and controlled substances as it affects faculty, staff and Students. 
 
 [**Sexual Harassment Policy**](http://www.ncu.edu/northcentral-global/consumer-information/sexual-harassment-policy)   
-Northcentral policy prohibits sexual harassment between and among all members, Learners, Faculty Mentors and staff of the Northcentral community in all areas of Northcentral’s work and educational environments. 
+Northcentral policy prohibits sexual harassment between and among all members, Students, Faculty Mentors and staff of the Northcentral community in all areas of Northcentral’s work and educational environments. 
 
 [**Technical Requirements**](http://www.ncu.edu/northcentral-global/consumer-information/technical-requirements)   
-Learners, Mentors and even visitors to Northcentral will get the maximum benefit of their experiences by using adequate and compatible hardware and software. 
+Students, Mentors and even visitors to Northcentral will get the maximum benefit of their experiences by using adequate and compatible hardware and software. 
 
 [Student Right-to-Know Graduation Rate Disclosure ](http://www.ncu.edu/northcentral-global/consumer-information/graduation-rate)  
-The Student Right to Know (SRTK) Act, passed by Congress in 1990, requires all institutions eligible for Title IV funding to disclose graduation rates of degree- or certificate-seeking Learners to all Learners and prospective Learners.   
+The Student Right to Know (SRTK) Act, passed by Congress in 1990, requires all institutions eligible for Title IV funding to disclose graduation rates of degree- or certificate-seeking Students to all Students and prospective Students.   
 **[  
 Higher Education Opportunity Act (HEOA)](http://www.ncu.edu/northcentral-global/consumer-information/higher-education-opportunity-act)**  
 Created in large part to help lower the prices students pay for textbooks, the Higher Education Opportunity Act (HEOA), went into effect July 1, 2010. 
+
+**Endorsements**   
+All viewpoints stated in the testimonial videos throughout the site are stated in their own words. It is not representative or an endorsement of their employer or military branch.
+
+Gainful Employment Disclosure Information Northcentral University strives to enable students to make informed choices about their academic program selection by making disclosures to prospective Students in a clear, timely, and meaningful way.
+
+  * [School of Business and Technology Management](https://web.archive.org/download/GE_Disclosure_BUS.pdf)
+  * [School of Education](https://web.archive.org/download/GE_Disclosure_EDU.pdf)
+  * [School of Behavioral and Health Sciences](https://web.archive.org/download/GE_Disclosure_BHS.pdf)
+
+
