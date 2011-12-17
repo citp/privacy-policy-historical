@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldcarfans.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613054916id_/http%3A//www.worldcarfans.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcarfans.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217090039id_/http%3A//www.worldcarfans.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacypolicy
 
 The following are the terms of the privacy statement of Black Falcon Media Group Oy ("BFMG") regarding use of BFMG's web site www.WorldCarFans.com ("The Site").
 
@@ -10,7 +10,7 @@ BFMG collects certain information in various ways from The Site and uses that in
 
 BFMG may use information from or provide information to such third parties including but not limited to statistics about members, traffic patterns and related information including but not limited to personally identifying information such as names, addresses, emails and the like as well as information gathered from the use of "cookie" or other technologies, whether from advertisements on The Site or otherwise but will not intentionally include such credit card information or account numbers, except as set forth above but BFMG will not be liable for any inadvertent disclosure. Such information may be used by BFMG in the aggregate or individually and may be combined with other information and may be in connection with marketing of such information or as part of a transaction related to any aspect of the business of BFMG including but not limited to sales, mergers, acquisitions, bankruptcies and the like. You agree that BFMG may use and provide to such third parties the said information that you provide except as indicated. If you do not agree with the provisions of this paragraph, you should not provide any information to BFMG.
 
-**Third Party Advertising :** We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+**Third Party Advertising :** We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp> .
 
 **Third Party Cookies :** In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
