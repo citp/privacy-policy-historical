@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adsandclassifieds.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531234929id_/http%3A//www.adsandclassifieds.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsandclassifieds.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217222721id_/http%3A//www.adsandclassifieds.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
-      Buy, sell, or trade your new or used items. **Classifieds** for free.  
+      Buy, sell, or trade your new or used items. **Classifieds** for **FREE**.  
 
 
 ## Privacy Policy
