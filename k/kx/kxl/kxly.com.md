@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618013220id_/http%3A//www.kxly.com/aboutkxly/21253586/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxly.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217080758id_/http%3A//www.kxly.com/aboutkxly/21253586/detail.html) for the most accurate reproduction.*
 
 # KXLY.com Privacy Policy - About KXLY News Story - KXLY Spokane
 
