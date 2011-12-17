@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reevoo.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609205254id_/http%3A//www.reevoo.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reevoo.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217084836id_/http%3A//www.reevoo.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,3 +88,9 @@ The Reevoo.com Team
 Revieworld Ltd
 
 **privacy@reevoo.com**
+
+0207 654 0331  
+Reevoo  
+61 Webber Street  
+London, SE1 0RF  
+UK
