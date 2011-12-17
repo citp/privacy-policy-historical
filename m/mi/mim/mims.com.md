@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the mims.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094024id_/http%3A//www.mims.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mims.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217213956id_/http%3A//www.mims.com/India/Viewer/Html/Privacy.htm) for the most accurate reproduction.*
 
-# MIMS Online - Privacy
+# Privacy Statement | CIMS
 
 Privacy Statement
 
   
 Use of Information 
 
-The pages on the website ("the website") are published by CMPMedica. 
+The pages on the website ("the website") are published by UBM Medica. 
 
-CMPMedica and its related companies (collectively, "CMPMedica") recognize the importance of protecting the information collected from Users in the operation of this website, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to CMPMedica you consent to the practices described herein. 
+UBM Medica and its related companies (collectively, "UBM Medica") recognize the importance of protecting the information collected from Users in the operation of this website, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to UBM Medica you consent to the practices described herein. 
 
 We will not collect any information about individuals, except where it is specifically and knowingly provided by them. Examples of such information are:   
 Your name   
@@ -33,4 +33,4 @@ Policy changes
 Any changes to this policy will be posted here. 
 
 Security   
-CMPMedica treats all the data held with the utmost care and security. Any details you give will remain completely confidential. 
+UBM Medica treats all the data held with the utmost care and security. Any details you give will remain completely confidential. 
