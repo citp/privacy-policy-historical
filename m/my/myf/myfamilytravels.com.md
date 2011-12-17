@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfamilytravels.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508164046id_/http%3A//www.myfamilytravels.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfamilytravels.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217042551id_/http%3A//www.myfamilytravels.com/Privacy) for the most accurate reproduction.*
 
-# FamilyTravelForum | Family Travel Forum Privacy Po | MyFamilyTravels.com
+# Family Travel Forum Privacy Policy
 
 Family Travel Forum Inc. is a New York based media company that has published print and online media, and provided information services to assist and promote world travel with family members of any age, since 1996. The company's websites, noted below and also operating under other URLs, are free services with travel and vacation content for all users and community features to be accessed by registered users. The Family Travel Forum Privacy Policy applies to all of the company's online properties including:
 
@@ -51,4 +51,4 @@ All users who receive an ad served by Family Travel Forum Inc.'s ad serving part
 
 If we decide to change our privacy policy, Family Travel Forum Inc. will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, Family Travel Forum Inc. will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
 
-Rest assured that we have deep respect for your privacy. If you believe we have not met this commitment to online privacy for you or your family, please contact Customer Service at 212/665-6124 or via email at [FTF@familytravelforum.com](mailto:FTF@familytravelforum.com).
+Rest assured that we have deep respect for your privacy. If you believe we have not met this commitment to online privacy for you or your family, please contact Customer Service at 212/595-6074 or via email at [FTF@familytravelforum.com](mailto:FTF@familytravelforum.com).
