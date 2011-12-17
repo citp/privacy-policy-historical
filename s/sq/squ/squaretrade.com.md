@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509100609id_/http%3A//www.squaretrade.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217162415id_/http%3A//www.squaretrade.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # SquareTrade | Privacy Policy | SquareTrade Warranties
 
