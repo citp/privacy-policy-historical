@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myplayyard.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414134808id_/http%3A//www.myplayyard.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplayyard.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217060939id_/http%3A//www.myplayyard.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - myplayyard.com
+
+## Privacy Policy
 
 MyPlayYard.com/ understands how important the privacy of personal information is to our users. We respect and are committed to protecting your privacy. This Privacy Policy will tell you what information we collect about you and about your use of Arcaderush and its services. 
 
