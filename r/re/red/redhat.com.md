@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redhat.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623092713id_/http%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redhat.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217155650id_/http%3A//www.redhat.com/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # redhat.com | Privacy Statement
 
@@ -30,7 +30,7 @@ Please note that our co-branded websites (websites where Red Hat has presented c
 
 At Red Hat, your privacy is important to us. To better protect your privacy, we have provided this Statement explaining our information practices and the choices you can make about the way your personal information is collected, used and disclosed. To make this Statement easy to find, we have made it available on our homepage and at every location where personally-identifiable information may be requested.
 
-Red Hat has self-certified its adherence to the European Union "Safe Harbor" Principles with the United States Department of Commerce, and has chosen to cooperate with the European Union Data Protection Authorities for unresolved privacy complaints.
+Red Hat has self-certified its adherence to the U.S.-European Union and U.S.-Swiss "Safe Harbor" Principles with the United States Department of Commerce, and has chosen to cooperate with the European Union Data Protection Authorities and the Swiss Federal Data Protection and Information Commissioner for unresolved privacy complaints.
 
 ### The Information We Collect
 
