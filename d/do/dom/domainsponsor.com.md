@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsponsor.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619134958id_/http%3A//www.domainsponsor.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsponsor.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217221905id_/http%3A//www.domainsponsor.com/en/privacy-policy) for the most accurate reproduction.*
 
 # DomainSponsor
 
