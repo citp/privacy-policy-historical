@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124134326id_/http%3A//www.stratfor.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratfor.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217051246id_/http%3A//www.stratfor.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | STRATFOR
 
-**Strategic Forecasting, Inc.** , publisher of STRATFOR, and its affiliates (hereafter referred to collectively as "STRATFOR") are committed to maintaining the privacy of personal information that you provide to us when using STRATFOR. This Privacy Policy describes how we treat personal information received about you when you visit STRATFOR. We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on STRATFOR. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy. 
+**STRATFOR Enterprises LLC** , publisher of STRATFOR, and its affiliates (hereafter referred to collectively as "STRATFOR") are committed to maintaining the privacy of personal information that you provide to us when using STRATFOR. This Privacy Policy describes how we treat personal information received about you when you visit STRATFOR. We may make content or services from other Web sites including our affiliated or co-branded Web sites available to you from links located on STRATFOR. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy. 
 
 ### Information We Collect
 
@@ -48,8 +48,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Attn: Marketing Department  
 STRATFOR  
-700 Lavaca Street  
-Suite 900  
+221 W. 6th Street  
+Suite 400  
 Austin, Texas 78701  
 service@stratfor.com  
 
