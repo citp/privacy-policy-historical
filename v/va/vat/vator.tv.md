@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vator.tv privacy policy that was archived on 2010-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100302185715id_/http%3A//vator.tv/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vator.tv privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217030136id_/http%3A//vator.tv/privacy_policy) for the most accurate reproduction.*
 
-# Vator.tv - Privacy Notice
+# Vator - Privacy Notice
 
 **Overview**
 
-Vator.tv respects your privacy. The Privacy Notice below details the measures taken by Vator.tv to protect your privacy in connection with your use of www.vator.tv and other websites owned by Vator.tv. Vator.tv provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Vator.tv's Sites. Your use of the Vator.tv Sites and any personal information you provide on the Vator.tv Sites remains subject to the terms of this Privacy Notice and our Terms of Use. **If you do not agree to the terms of this privacy policy or the Terms of Use, please do not provide Vator.tv with any information and do not use** **Vator.tv’s Site. Your continued use of the Sites after the privacy policy has been modified will signify your acceptance of the changes for information gathered after the date of the change.** Please note that any video, image, or other content posted at the direction of Users onto the Vator.tv Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice. 
+Vator.tv respects your privacy. The Privacy Notice below details the measures taken by Vator.tv to protect your privacy in connection with your use of vator.tv and other websites owned by Vator.tv. Vator.tv provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Vator.tv's Sites. Your use of the Vator.tv Sites and any personal information you provide on the Vator.tv Sites remains subject to the terms of this Privacy Notice and our Terms of Use. **If you do not agree to the terms of this privacy policy or the Terms of Use, please do not provide Vator.tv with any information and do not use** **Vator.tv’s Site. Your continued use of the Sites after the privacy policy has been modified will signify your acceptance of the changes for information gathered after the date of the change.** Please note that any video, image, or other content posted at the direction of Users onto the Vator.tv Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice. 
 
 This Privacy Notice discloses our privacy practices including the notification of:
 
@@ -59,7 +59,7 @@ If you would like more information about this practice and to know your choices 
 
 **Your Choices/Consent/Opt-out**
 
-You may, of course, decline to submit personally identifiable information through the Vator.tv Sites, in which case Vator.tv may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by visiting your [account page](https://web.archive.org/user/myaccount). Please note that media files uploaded by Users to the Vator.tv Sites cannot be removed and remain subject to our [Terms of Use](https://web.archive.org/terms_conditions).
+You may, of course, decline to submit personally identifiable information through the Vator.tv Sites, in which case Vator.tv may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by visiting your [account page](https://web.archive.org/settings). Please note that media files uploaded by Users to the Vator.tv Sites cannot be removed and remain subject to our [Terms of Use](https://web.archive.org/terms_conditions).
 
   
 
