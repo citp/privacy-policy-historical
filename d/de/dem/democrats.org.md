@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525015145id_/http%3A//www.democrats.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217162502id_/http%3A//www.democrats.org/privacy_policy) for the most accurate reproduction.*
 
 # Democrats.org
 
 ## The Democratic National Committee
 
-#### Last Revised: September 14, 2010
+#### Last Revised: April 2, 2010
 
-This website is operated by the Democratic National Committee (the “DNC”, “we” or “us”). This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by the DNC with respect to your use of the Web sites such as this which are operated by the DNC and which display this Policy (the “Sites”) so you can make an informed decision about using the Sites. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
+This website is operated by the Democratic National Committee (the "DNC", "we" or "us"). This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by the DNC with respect to your use of the Web sites such as this which are operated by the DNC and which display this Policy (the "Sites") so you can make an informed decision about using the Sites. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
 
 ### What Is Personal Information?
 
@@ -14,7 +14,7 @@ As used herein, the term "personal information" means information that specifica
 
 ### What Personal Information Do We Collect?
 
-Active Collection: Personal information may be collected in a number of ways when you visit our Sites. We collect certain information you voluntarily provide to us, such as when you create an account, make a donation, make a purchase, send us an email, fill out a form, sign up to be a volunteer, request information, or apply for an internship, or use the Voter Registration Form tool. Such information may include personal information, such as your name, mailing address, email address, phone number, and credit card information. Personal and demographic information may also be collected if you provide such information in connection with creating a profile or group, leaving comments, posting blog comments or other content, sending an email or message to another user, or participating in any interactive forums or features on the Sites. In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, contests, games, promotions, and other activities on the Sites.
+Active Collection: Personal information may be collected in a number of ways when you visit our Sites. We collect certain information you voluntarily provide to us, such as when you create an account or a profile, make a donation, make a purchase, send us an email or sign up to receive email or text message updates, fill out a form, connect through a social feed, sign up to be a volunteer or host an event, request information, or apply for an internship, or use the Voter Registration Form tool. Such information may include personal information, such as your name, mailing address, email address, phone number, and credit card information. Personal and demographic information may also be collected if you provide such information in connection with creating a profile or group, leaving comments, posting blog comments or other content, sending an email or message to another user, or participating in any interactive forums or features on the Sites. In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, contests, games, promotions, and other activities on the Sites.
 
 In addition, the Federal Election Commission (FEC) may require us to collect personal information from donors. For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per calendar year.
 
@@ -23,6 +23,8 @@ If you use our Voter Registration Form tool, you may also provide your driver's 
 Passive Collection: When you use the Sites, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on our Sites. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
 We may also automatically collect certain information through the use of "cookies" or web beacons. Cookies are small data files stored on your hard drive at the request of a website. Among other things, cookies help us improve our Sites and your experience. If we link cookies to any personally identifying information, we will treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features on our Sites. Web beacons are small, invisible graphic images that may be used on the Sites or in emails relating to the Sites to collect certain information and monitor user activity on the Sites.
+
+Third party vendors, such as Google DoubleClick, Yahoo Tremor and 24/7 RealMedia, may use cookies or other technologies to serve ads on other websites based on your visits to this site and other sites on the Internet. These third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising on other websites targeted to your interests and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs used by the third parties, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like to opt out of these cookies or obtain more information about this practice, click here: [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 ### How Do We Use the Personal Information We Collect?
 
@@ -39,6 +41,7 @@ We use personal information collected through our Sites for the purposes describ
   * to request feedback and to otherwise contact you about your use of the Sites;
   * to respond to your emails, submissions, questions, comments, and requests and to provide customer service;
   * to monitor and analyze site usage and trends, and to personalize and improve the Site and our users' experiences on the Site, such as providing ads, content, or features that match your profiles or interests, and to increase the Site's functionality and user friendliness;
+  * to serve ads, on this or other websites or media, based on the information you provide and the actions you take;
   * to notify and contact contest and sweepstakes entrants; and
   * for any other purpose for which the information was collected.
 
@@ -57,7 +60,7 @@ It is our policy not to share the personal information we collect from you throu
   * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
   * when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of the DNC, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site;
   * to enforce or apply this Policy, our Terms of Use, or our other policies or agreements; and
-  * in connection with, or during negotiations of, any merger, reorganization, acquisition, asset sale or in any other situation where personal information may be disclosed or transferred as one of the assets of the DNC.
+  * in connection with, or during negotiations of, any merger, reorganization, acquisition, asset sale, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of the DNC.
 
 
 
@@ -69,7 +72,7 @@ When you sign an online petition, you understand that such petition is public in
 
 #### Interactive Features:
 
-You understand that when you use the Sites, information you: post in your profile, blogs, forums and other interactive areas of the Sites, as well as any information you share with individuals through the Sites or share through social network sites, will be available to other users and, in some cases, may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums. We are not responsible for the actions of any third parties with whom you share personal information.
+You understand that when you use the Sites, information you: post in your profile, blogs, forums and other interactive areas of the Sites, as well as any information you share with individuals through the Sites or share through social network sites, will be available to other users and, in some cases, may be publicly available. In addition, when you sign up and create an account, certain information regarding actions you take through the Sites, such as joining a group or actions tracked under the "Making a Difference" section of your profile, may available to other users and, in some cases, may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums. We are not responsible for the actions of any third parties with whom you share personal information. In some cases, there may be privacy setting available regarding the information available to others, and we suggest you take time to familiarize yourself with these options and utilize these settings. 
 
 ### Links to Other Websites
 
@@ -81,7 +84,7 @@ We take reasonable measures to protect your personal information in an effort to
 
 ### What Choices Do You Have Regarding the Use of Your Information?
 
-You may "opt out" of receiving text messages, email updates and newsletters by following the instructions in those text messages and emails. Please note that we may still send you other types of emails such as emails about your use of our Sites even if you opt out of receiving email updates and newsletters.
+You may "opt out" of receiving text messages, email updates and newsletters by following the instructions in those text messages and emails. Please note that we may still send you other types of emails, such as emails about your use of our Sites, or use information as otherwise described in this Policy, even if you opt out of receiving email updates and newsletters. Changes to information in your account does not affect information provided to others as set forth in this policy, including in connection with petitions or donations or that has been previously shared with like-minded candidates, organizations, groups or causes.
 
 ### Questions?
 
