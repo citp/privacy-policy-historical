@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bigseagames.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514035944id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigseagames.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217041326id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Big Fish Games, Inc.
 
-Last modified: February 3, 2011
+Last modified: September 8, 2011
 
-We at Big Fish Games, Inc. ("Big Fish Games") have created this Privacy Policy to demonstrate our commitment to your privacy. The following discloses our information gathering and dissemination practices. **By accessing and/or using any Big Fish Games Web site, product or service (a "Big Fish Games Offering"), you are accepting the practices described in this Privacy Policy.**
+We at Big Fish Games have created this Privacy Policy to demonstrate our commitment to your privacy. The following discloses our information gathering and dissemination practices. **By accessing and/or using this Big Fish Games Web site or any Big Fish Games product or service available on or through this web site (each, a " **Big Fish Games Offering** "), you are accepting the practices described in this Privacy Policy.**
 
 ## INFORMATION THAT WE MAY COLLECT
 
@@ -75,7 +75,7 @@ As Big Fish Games continues to grow, we might sell or buy certain subsidiaries a
 
 ### Protection of Big Fish Games and Others:
 
-We may also disclose your information if there is a violation of the Terms of Use or other agreements; if we have a good faith belief that the law requires it; or if needed to protect the rights, property or safety of Big Fish Games, our customers or others. This includes exchanging information with entities for fraud protection and credit risk reduction.
+We may also disclose your information if there is a violation of the [Terms of Use](http://www.bigfishgames.com/company/terms.html) or other agreements; if we have a good faith belief that the law requires it; or if needed to protect the rights, property or safety of Big Fish Games, our customers or others. This includes exchanging information with entities for fraud protection and credit risk reduction.
 
 ### With Your Consent:
 
@@ -85,11 +85,11 @@ Apart from what is described above, you will receive notice when information abo
 
 ### Opt-Out:
 
-With the exception of our Social Games, when you create a customer account with a Big Fish Games Offering, you are automatically registered to receive one or more of our e- newsletters, even if you previously opted out of receiving newsletters at the time you downloaded any game for free trial play. At any time, you may opt-out of receiving these newsletters by selecting the "unsubscribe" link at the bottom of any newsletter. We treat each Big Fish Games Offering individually, so if you are receiving mailings from more than one area of our website, if you want to unsubscribe you must do so with respect to each such area individually.
+With the exception of our Social Games, when you create a customer account with a Big Fish Games Offering, you are automatically registered to receive one or more of our e- newsletters, even if you previously opted out of receiving newsletters at the time you downloaded any game for free trial play. At any time, you may opt-out of receiving these newsletters by selecting the " **unsubscribe** " link at the bottom of any newsletter. We treat each Big Fish Games Offering individually, so if you are receiving mailings from more than one area of our website, if you want to unsubscribe you must do so with respect to each such area individually.
 
 ### Opt-In:
 
-If you access a Social Game, you will have the option to receive one or more of our Social Games e-newsletters. If you elect to receive any of such newsletters, you may at any time opt-out of receiving them by selecting the "unsubscribe" link at the bottom of the newsletter.
+If you access a Social Game, you will have the option to receive one or more of our Social Games e-newsletters. If you elect to receive any of such newsletters, you may at any time opt-out of receiving them by selecting the " **unsubscribe** " link at the bottom of the newsletter.
 
 ### Cookies:
 
@@ -115,7 +115,7 @@ Big Fish Games respects the privacy of parents and children and is committed to 
 
 ## SAFE HARBOR PROGRAM
 
-Big Fish Games participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). To contact Big Fish Games directly about the Safe Harbor program, please e-mail us at [safeharbor@bigfishgames.com](mailto:safeharbor@bigfishgames.com).
+Big Fish Games participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). To contact Big Fish Games directly about the Safe Harbor program, please e-mail us at [](mailto:safeharbor@bigfishgames.com)[safeharbor@bigfishgames.com](mailto:safeharbor@bigfishgames.com).
 
 ## AGREEMENT WITH BIG FISH GAMES POLICIES
 
