@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wazala.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619055234id_/http%3A//www.wazala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wazala.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217111645id_/http%3A//www.wazala.com/privacy) for the most accurate reproduction.*
 
 # Wazala Privacy | Build an online store for your blog or website!
 
