@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedycentral.co.uk privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618142535id_/http%3A//www.comedycentral.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedycentral.co.uk privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217230009id_/http%3A//www.comedycentral.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Info | Comedy Central UK and Ireland
 
