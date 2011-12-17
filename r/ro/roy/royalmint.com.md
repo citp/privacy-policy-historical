@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614154727id_/http%3A//www.royalmint.com/guide/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217014946id_/http%3A//www.royalmint.com/guide/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ If you supply us with your postal address you may receive periodic mailings by p
 _Email  
 _ Persons who supply us with their email addresses may receive email contact from us with information regarding orders they have placed on-line. 
 
-In addition, persons who supply us with their email addresses may receive email contact from us about new products and services or upcoming events. If you do not want us to contact you by email, you can choose to "opt out", during the registration procedure and the Royal Mint will endeavour to respect your wishes. If you are a registered customer you can do so on-line or please let us know by sending email to us at the address above or calling us at the telephone number above or writing to us at the postal address above.
+In addition, persons who supply us with their email addresses and "opt in" may receive email contact from us about new products and services or upcoming events. If you decide that you no longer wish to receive e-mail communications, you can choose to "unsubscribe" by clicking the link at the footer of each e-mail or by sending an email to us at the address above. You can also call us at the telephone number above or write to us at the postal address above. The Royal Mint will endeavour to respect your wishes.
 
 _Cookies  
 _ Some Royal Mint web pages use "cookies", which are small files that may be placed on your hard disk for record-keeping purposes. For example, when you enter our online shop a cookie will be created to store your order. Cookies can make your subsequent visits to the web page simpler and more seamless. 
