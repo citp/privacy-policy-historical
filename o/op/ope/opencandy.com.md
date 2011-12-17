@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opencandy.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629141201id_/http%3A//www.opencandy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencandy.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217074442id_/http%3A//www.opencandy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OpenCandy
+# Opencandy Software Recommendations & Your Privacy | OpenCandy
 
 We (SweetLabs, Inc. or “SweetLabs”) know that you care about how your personal information is used and shared, and we take your privacy seriously. By visiting our website(s), including at [http://www.opencandy.com](http://www.opencandy.com/ "OpenCandy.com") and at [http://www.sweetlabs.com](http://www.sweetlabs.com/ "SweetLabs.com") (our “site” or “sites”), or using any of our services or products, including the OpenCandy recommendation network, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
