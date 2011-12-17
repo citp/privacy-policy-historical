@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the myecon.net privacy policy that was archived on 2011-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110615024304id_/http%3A//www.myecon.net/policies.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myecon.net privacy policy that was archived on 2011-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217062811id_/http%3A//www.myecon.net/policies.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Welcome to myEcon</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="source-name" content="policies.php">
@@ -15,8 +15,85 @@
 <meta name="Copyright" content="2011 Copyright">
 <meta name="robots" content="ALL,INDEX,FOLLOW">
 <meta name="revisit-after" content="7 days">
-<meta name="web host" content="iTonedog">
-<link rel="stylesheet" type="text/css" href="site_styles_2.css">
+<meta name="web host" content="Tone Dog Inc">
+<link rel="stylesheet" type="text/css" href="/css/site_styles_3.css">
+<script type="text/javascript">
+
+/***********************************************
+* Universal Countdown script- © Dynamic Drive (http://www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+function cdLocalTime(container, servermode, offsetMinutes, targetdate, debugmode){
+if (!document.getElementById || !document.getElementById(container)) return
+this.container=document.getElementById(container)
+var servertimestring=(servermode=="server-php")? 'December 17, 2011 01:28:10' : (servermode=="server-ssi")? '<!--#config timefmt="%B %d, %Y %H:%M:%S"--><!--#echo var="DATE_LOCAL" -->' : '<%= Now() %>'
+this.localtime=this.serverdate=new Date(servertimestring)
+this.targetdate=new Date(targetdate)
+this.debugmode=(typeof debugmode!="undefined")? 1 : 0
+this.timesup=false
+this.localtime.setTime(this.serverdate.getTime()+offsetMinutes*60*1000) //add user offset to server time
+this.updateTime()
+}
+
+cdLocalTime.prototype.updateTime=function(){
+var thisobj=this
+this.localtime.setSeconds(this.localtime.getSeconds()+1)
+setTimeout(function(){thisobj.updateTime()}, 1000) //update time every second
+}
+
+cdLocalTime.prototype.displaycountdown=function(baseunit, functionref){
+this.baseunit=baseunit
+this.formatresults=functionref
+this.showresults()
+}
+
+cdLocalTime.prototype.showresults=function(){
+var thisobj=this
+var debugstring=(this.debugmode)? "<p style=\"background-color: #FCD6D6; color: black; padding: 5px\"><big>Debug Mode on!</big><br /><b>Current Local time:</b> "+this.localtime.toLocaleString()+"<br />Verify this is the correct current local time, in other words, time zone of count down date.<br /><br /><b>Target Time:</b> "+this.targetdate.toLocaleString()+"<br />Verify this is the date/time you wish to count down to (should be a future date).</p>" : ""
+
+var timediff=(this.targetdate-this.localtime)/1000 //difference btw target date and current date, in seconds
+if (timediff<0){ //if time is up
+this.timesup=true
+this.container.innerHTML=debugstring+this.formatresults()
+return
+}
+var oneMinute=60 //minute unit in seconds
+var oneHour=60*60 //hour unit in seconds
+var oneDay=60*60*24 //day unit in seconds
+var dayfield=Math.floor(timediff/oneDay)
+var hourfield=Math.floor((timediff-dayfield*oneDay)/oneHour)
+var minutefield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour)/oneMinute)
+var secondfield=Math.floor((timediff-dayfield*oneDay-hourfield*oneHour-minutefield*oneMinute))
+if (this.baseunit=="hours"){ //if base unit is hours, set "hourfield" to be topmost level
+hourfield=dayfield*24+hourfield
+dayfield="n/a"
+}
+else if (this.baseunit=="minutes"){ //if base unit is minutes, set "minutefield" to be topmost level
+minutefield=dayfield*24*60+hourfield*60+minutefield
+dayfield=hourfield="n/a"
+}
+else if (this.baseunit=="seconds"){ //if base unit is seconds, set "secondfield" to be topmost level
+var secondfield=timediff
+dayfield=hourfield=minutefield="n/a"
+}
+this.container.innerHTML=debugstring+this.formatresults(dayfield, hourfield, minutefield, secondfield)
+setTimeout(function(){thisobj.showresults()}, 1000) //update results every second
+}
+
+//2) Display countdown 
+function formatresults2(){
+if (this.timesup==false){ //if target date/time not yet met
+var displaystring="<span class='lcdstyle' style='font-size:12pt; color:red;'>"+arguments[0]+" days, "+arguments[1]+" hours, "+arguments[2]+" minutes, "+arguments[3]+" seconds left</span>"  //
+}
+else{ //else if target date/time met
+var displaystring="" //Don't display any text
+}
+return displaystring
+}
+
+</script>
 </head>
 
 <body>
@@ -28,25 +105,26 @@
 	<tr>
 		<td>
 		
-
-
-	&nbsp;<table width="880" border="0" class="dontPrintMe" bgcolor="#00457C" style="margin-left:10px; margin-right:10px;">
-	<tbody><tr>
-	<td>&nbsp;</td>
-	<td class="nav" nowrap=""><a href="http://www.myecon.net/" class="nav">Home</a></td>
-	<td class="nav" nowrap=""><a href="http://www.myecon.net/about-myecon-inc.php" class="nav">About Us</a></td>
-	<td class="nav" nowrap=""><a href="http://www.myecon.net/opportunity-presentation.php" class="nav">Opportunity</a></td>
-	<td class="nav" nowrap=""><a href="http://www.myecon.net/success-stories-financial.php" class="nav">Success Stories</a></td>
-	<td class="nav" nowrap=""><a href="http://www.myecon.net/our-products.php" class="nav">Our Products</a></td>
-	<td class="nav" nowrap=""><a href="http://www.myecon.net/recognition.php" class="nav">Recognition</a></td>
-	<td class="nav" nowrap=""><a href="http://www.myecon.net/media-center.php" class="nav">Media Center</a></td>
-	<td class="nav" nowrap=""><a href="http://www.myecon.net/signup-msg.php" class="nav">Join Now</a></td>	<td width="70%">&nbsp;</td>
-		<td class="nav" align="right" nowrap="" style="padding-right:10px;">Login</td>
+<div style="position: relative;"><div style="position:absolute; left:450px; top: -110px;"><img src="/images/2006_christmas.gif" alt="Merry Christmas from myEcon!"></div></div><div style="position: relative;"><div style="position:absolute; left:558px; top: -50px; height:57px; width:330px; text-align:center; border:1px solid black;"><div style="font-size:24pt; color:white; background:#00457C; font-weight:bold;font-style:italic;">Cashflow Rush 2012!</div><div id="cdcontainer"><span class="lcdstyle" style="font-size:12pt; color:red;">48 days, 21 hours, 31 minutes, 49 seconds left</span></div><script type="text/javascript">
+var launchdate=new cdLocalTime("cdcontainer", "server-php", 0, "February 3, 2012 23:00:00")
+launchdate.displaycountdown("days", formatresults2)
+</script></div></div>
+			&nbsp;<table width="880" border="0" class="dontPrintMe" bgcolor="#00457C" style="margin-left:10px; margin-right:10px;">
+		<tbody><tr>
+		<td>&nbsp;</td>
+		<td class="nav" nowrap=""><a href="http://www.myecon.net/" class="nav">Home</a></td>
+		<td class="nav" nowrap=""><a href="http://www.myecon.net/about-myecon-inc.php" class="nav">About Us</a></td>
+		<td class="nav" nowrap=""><a href="http://www.myecon.net/opportunity-presentation.php" class="nav">Opportunity</a></td>
+		<td class="nav" nowrap=""><a href="http://www.myecon.net/success-stories-financial.php" class="nav">Success Stories</a></td>
+		<td class="nav" nowrap=""><a href="http://www.myecon.net/our-products.php" class="nav">Our Products</a></td>
+		<td class="nav" nowrap=""><a href="http://www.myecon.net/recognition.php" class="nav">Recognition</a></td>
+		<td class="nav" nowrap=""><a href="http://www.myecon.net/media-center.php" class="nav">Media Center</a></td>
+		<td class="nav" nowrap=""><a href="http://www.myecon.net/signup-msg.php" class="nav">Join Now</a></td>		<td width="70%">&nbsp;</td>
+				<td class="nav" align="right" nowrap="" style="padding-right:10px;">Login</td>
+		
+		</tr>
+		</tbody></table>
 	
-	</tr>
-	</tbody></table>
-
-
 
 
 
@@ -57,7 +135,7 @@
 <br>
 <table border="0" cellspacing="0" cellpadding="1" class="storehead" width="600">
 	<tbody><tr>
-		<th class="Bar"><p align="center">PRIVACY POLICY</p></th>
+		<th class="Bar" align="center">PRIVACY POLICY</th>
 	</tr>
 	<tr>
 		<td>
@@ -87,7 +165,7 @@ We will not share this information with outside parties except with those relate
 
 <table border="0" cellspacing="0" cellpadding="1" class="storehead" width="600">
 	<tbody><tr>
-		<th class="Bar"><p align="center">COMPANY INFORMATION</p></th>
+		<th class="Bar" align="center">COMPANY INFORMATION</th>
 	</tr>
 	<tr>
 		<td>
@@ -95,9 +173,9 @@ We will not share this information with outside parties except with those relate
 			<tbody><tr><td class="formtext" align="center"><strong>myEcon, Inc.</strong><br>3750 Hewatt Court<br>Suite E
 <br>Snellville, GA 30039
 <br></td></tr>
-			<tr><td class="formtext" align="center">Office:&nbsp;678-619-4924<br>
+			<tr><td class="formtext" align="center">Office:&nbsp;678-619-4929<br>
 			Fax:&nbsp;770-558-3941<br>
-			Customer Service:&nbsp;678-619-4924
+			Customer Service:&nbsp;678-619-4929
 			</td></tr>
 		</tbody></table>
 		</td>
@@ -121,7 +199,7 @@ We will not share this information with outside parties except with those relate
 </tbody></table>
 <table align="center" class="dontPrintMe" style="margin-top:4px;">
 	<tbody><tr>
-		<td><a href="https://www.securitymetrics.com/site_certificate.adp?s=70%2e87%2e113%2e7&amp;i=68516" target="_blank"><img src="https://www.securitymetrics.com/images/sm_ccsafe_whborder.gif" alt="SecurityMetrics Credit Card Safe" border="0"></a></td>
+		<td><a href="https://www.securitymetrics.com/site_certificate.adp?s=184%2e173%2e124%2e40&amp;i=68516" target="_blank"><img src="https://www.securitymetrics.com/images/sm_ccsafe_whborder.gif" alt="SecurityMetrics Credit Card Safe" border="0"></a></td>
 	</tr>
 </tbody></table>
 <br>
