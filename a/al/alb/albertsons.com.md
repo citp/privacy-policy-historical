@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the albertsons.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603070631id_/http%3A//www.albertsons.com/about/security-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertsons.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217090021id_/http%3A//www.albertsons.com/about/security-privacy.jsp) for the most accurate reproduction.*
 
 # Security & Privacy Policy | Albertsons Grocery Stores
 
-[HAGA CLICK AQUÍ PARA TRADUCCION AL ESPAÑOL DE LA POLÍTICA DE PRIVACIDAD (PDF Document)](https://web.archive.org/web/20110603070631id_/http%3A//www.albertsons.com/about/Spanish_Privacy_Policy.pdf)  
+[HAGA CLICK AQUÍ PARA TRADUCCION AL ESPAÑOL DE LA POLÍTICA DE PRIVACIDAD (PDF Document)](https://web.archive.org/web/20111217090021id_/http%3A//www.albertsons.com/about/Spanish_Privacy_Policy.pdf)  
 
 
 ## Privacy Policy Purpose
@@ -111,4 +111,4 @@ Spokane, WA 99201
 
  **Effective Date:** **August 1, 2009**
 
-© 2010 SUPERVALU INC. All rights reserved.
+© 2011 SUPERVALU INC. All rights reserved.
