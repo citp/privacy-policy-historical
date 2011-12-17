@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfnow.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424052620id_/http%3A//www.golfnow.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfnow.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217074701id_/http%3A//www.golfnow.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # GolfNow Privacy Policy
 
@@ -9,7 +9,8 @@ Your privacy is very important to Golf Channel (“Golf Channel,” “we,” or
 This Privacy Policy tells you how we collect information from you, how we use it and with whom we share it. When you access the Sites, we recognize you may be entrusting us with information that specifically identifies you or can be used to contact you, herein referred to as Personally Identifiable Information (“PII”), and we are committed to honoring that trust by working to safeguard your privacy. We encourage you to read this Privacy Policy, but you should know that **we are not in the business of selling or renting your PII to third parties.** This Privacy Policy describes the principles that govern our information practices and other privacy aspects of the Sites. This Privacy Policy applies only to information collected by Golf Channel online and does not apply to information collected or obtained by Golf Channel by any other means.
 
   * **Index:**
-  *   * Golf Channel’s Security Measures
+  *  
+  * Golf Channel’s Security Measures
   * The Information We Collect
   * Our Use of the Information
   * Third Party Use of the Information
@@ -55,7 +56,7 @@ We receive and store certain types of information whenever you interact with us.
 
       * **Email Communication**
 
-To help us make emails more useful and interesting, we often receive a confirmation when you open email from us if your computer supports such capabilities. If you do not want to receive email from us, please adjust your account Email Preferences when you sign in or click the unsubscribe link at the bottom of any email. 
+To help us make emails more useful and interesting, we often receive a confirmation when you open email from us if your computer supports such capabilities. If you do not want to receive email from us, please adjust your account Email Preferences when you sign in or click the unsubscribe link at the bottom of any email.
 
       * **Communications with Friends**
 
@@ -155,6 +156,8 @@ Golf Channel uses a feature of your browser called a “cookie.” Cookies are s
 Additionally, we may use IP address information to count and track aggregate visits to the Sites, to help diagnose problems with our server, and to administer the Sites. It is not our policy to link IP addresses to anything personally identifiable; while a particular user’s session can be tracked, the user remains completely anonymous.
 
 No PII is gathered or stored in the cookies used by the Sites and, as a result, none can be passed on to any third parties.
+
+Third-party vendors, including Google, show ads for our Sites on search engine results pages and other websites across the Internet. These third-party vendors, including Google, use cookies to serve ads based on a user’s prior visit to our Sites.  Our sites use analytics data to also inform and optimize such ad campaigns based on a user’s prior visits to our Sites.  Users may opt out of Google’s use of cookies by visiting the[ Google advertising opt-out page](http://www.google.com/privacy/ads/).  In addition, users may also opt out of a third party vendor’s use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).  Users may opt out of our use of Google Analytics by visiting the [Google Analytics Opt-out page](http://tools.google.com/dlpage/gaoptout).  We may report users’ aggregate interactions with our ads across the Google Display Network in conjunction with activity on the Sites.
 
   8. **_Children’s Privacy._**
 
