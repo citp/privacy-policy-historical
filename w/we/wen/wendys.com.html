@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the wendys.com privacy policy that was archived on 2010-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130051822id_/http%3A//wendys.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wendys.com privacy policy that was archived on 2011-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217061935id_/http%3A//wendys.com/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	
 
 
@@ -10,13 +10,152 @@
 
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
-<link rel="stylesheet" href="/theme/v3/css/main.css" media="all" type="text/css">
+<!-- Specify the language being displayed --> 
+
+	<!-- THIS META TAG SHOLD NOT BE USED FOR U.S. ENGLISH, IT IS ONLY FOR NON-U.S. ENGLISH SITES -->
+
+
+
+<link href="/scripts/home.css" rel="Stylesheet" type="text/css">
+<link href="/scripts/main.css" rel="Stylesheet" type="text/css">
+<link rel="publisher" href="https://plus.google.com/117233332742362932169">
+
+<script type="text/javascript" async="" src="https://web.archive.org/web/20120331063125/https://ssl.google-analytics.com/ga.js"></script><script src="/includes/google_tracking.js" type="text/javascript"></script>
+<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-7557226-1");
+	pageTracker._trackPageview();
+	//alert(pageTracker);
+	} catch(err) {}
+	
+	function trackEvent(category,action,label){
+		//alert(lang);
+		return _gaq.push(['_trackEvent', category, action, label]);
+		
+	}
+</script>
+
 <script src="/main.js" type="text/javascript"></script>
 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script src="/scripts/main.js" type="text/javascript"></script>
+
+
+
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+
+
 	<title>Wendy's</title>
+	
+	<style>
+	
+	.privacy #nav2
+	{
+		width: 195px;
+		background-image: url("/food/images/menu/left_nav_bkg.jpg");
+		background-repeat: repeat;
+	}
+  .no_rnav_bg #container #nav2
+  {
+    background-image:none;
+  }
+	.privacy #nav2 H2
+	{
+		padding:40px 23px 0 28px;
+		position:relative;
+		text-transform:none;
+		z-index:10;
+	}
+	.privacy #nav2 H3
+	{
+		padding: 25px 23px 0 28px;
+		text-transform: none;
+		font-size: 1em;
+		color: #333;
+		position: relative;
+		z-index: 10;
+	}
+	.privacy #nav2 .nav2Container
+	{
+		position: relative;
+		top: 0px;
+		left: 0px;
+	}
+	.privacy #nav2 UL
+	{
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	BODY.frca .privacy #nav2 UL
+	{
+		list-style: none;
+		padding: 15px 0 12px 0;
+		margin: 0;
+	}
+	.privacy #nav2 UL LI
+	{
+		text-transform: uppercase;
+		font-size: .92em;
+		position: relative;
+		z-index: 20;
+		width: 100%;
+	}
+	.privacy #nav2 ul li img {
+		display:block;
+		text-decoration:none;
+		width:auto;
+	}
+	.privacy #nav2 UL LI A
+	{
+		text-decoration: none;
+		color: #444;
+		padding: 8px 19px 8px 28px;
+		display: block;
+		width: 145px;
+	}
+	.privacy #nav2 UL LI A.on
+	{
+		color: #DF1630;
+		background-image: url(/images/arrow_small_red.gif);
+		background-repeat: no-repeat;
+		background-position: 18px 13px;
+	}
+	.privacy #nav2 UL LI A:hover
+	{
+		color: #000;
+	}
+	
+	.privacy #rtside 
+	{
+		padding: 50px 36px;
+	}
+	.privacy table p, .privacy table ol {
+	    font-size: 11px;
+	    line-height: 13px;
+		margin: 0 0 1em 0;
+	}
+	.privacy table a 
+	{
+		color: #444;
+		text-decoration: underline;
+	}
+	.privacy table a:hover 
+	{
+		color: #000;
+	}
+	
+	</style>
+	
 	<script src="/main.js" type="text/javascript"></script>
 </head>
-<body class="privacy">
+
+<body class="privacy no_rnav_bg">
+
 
 <div id="container">
 
@@ -25,135 +164,134 @@
 <script type="text/javascript" src="/scripts/mootools-1.11-min.js"></script>
 
 <script type="text/javascript">
-	//when the dom is ready...
-	window.addEvent('domready', function() {
+window.addEvent('domready', function() {
+	
+    $$('#nav-04').addEvent('click', function(){
+      trackEvent('Top Nav','Responsibilities','Exit to aboutwendys.com');
+    });
 
-		// food navigation
-		if($('nav-01')) {
-			$('nav-01').addEvents({
-				mouseenter: function(){
-					// This makes it visible
-					$('subnav-food').setStyle('display','block');
+    $$('#promos-04').addEvent('click', function(){
+        trackEvent('Top Nav','Ads Sub Nav','Wheel of Fortune Winners PDF');
+      });
+	
+    //$$('#nav-05').addEvent('click', function(){
+    //  trackEvent('Top Nav','About Us','Exit To aboutwendys.com');
+    //});
 
-				},
-				mouseleave: function(){
-					// Morphes back to the original style
-					$('subnav-food').setStyle('display','none');
+	 $$('#signUpLink').addEvent('click', function(){
+		trackEvent('Top Nav','Signup', 'Exit To mywendysonline.com',this.options[this.selectedIndex].value);
+    });
 
-				}
-			});
-		}
+    $$('#myAccountLink').addEvent('click', function(){
+          trackEvent('Top Nav','My Account', 'Exit To mywendysonline.com',this.options[this.selectedIndex].value);
+    });
+		
+    $$('#locale').addEvent('change', function(){
+        trackEvent('Language','Selected',this.options[this.selectedIndex].value);
+    });
 
-		// food navigation
-		if($('subnav-food')) {
-			$('subnav-food').addEvents({
-				mouseenter: function(){
-					// This makes it visible
-					$('subnav-food').setStyle('display','block');
-
-				},
-				mouseleave: function(){
-					// Morphes back to the original style
-					$('subnav-food').setStyle('display','none');
-
-				}
-			});
-		}
-
-		// hoverstates
-		$$('img.nav-link').each(function(img) {			
-			var src = img.getProperty('src');
-			var extension = src.substring(src.lastIndexOf('.'),src.length)
-
-			if (src.contains("-on")) {
-				// do nothing, it's the active state
-			} else {
-				img.addEvent('mouseenter', function() { img.setProperty('src',src.replace(extension,'-on' + extension)); });
-				img.addEvent('mouseleave', function() { img.setProperty('src',src); });
-			}
-		});
-
+    //$$('#zipfind').addEvent('submit', function(){
+    //    trackEvent('Top Nav','Search EN-US','Exit To web.sa.mapquest.com');
+    //});
+	
 	});
-</script>
+		
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  try {
+  var pageTracker = _gat._getTracker("UA-7557226-1");
+  pageTracker._trackPageview();
+  }
+  catch(err) {}
+	
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 
-	<h1><a href="/"><img src="/theme/v3/images/logo.png" style="width:103px; height:90px;" alt=""></a></h1>
-
-<div id="header">				
-	
-	<div id="nav">
-		<img src="/theme/v3/images/header_bg.png" style="" alt="">
-		<ul id="subnav-food">
-			<img class="right" width="10" alt="" src="/theme/v3/images/subnav-cap-right.jpg">
-			<img class="left" width="10" alt="" src="/theme/v3/images/subnav-cap-left.jpg">
-			<li id="food-01"><a href="/food/Menu.jsp"><img src="/theme/v3/images/en/subnav-food-ourmenu.jpg" alt="Our Menu"></a><img src="/theme/v3/images/subnav-sep.jpg" alt="" class="subnav-sep"></li>
-			<li id="food-02"><a href="/food/NutritionLanding.jsp"><img src="/theme/v3/images/en/subnav-food-nutritionfacts.jpg" alt="Nutrition Facts"></a><img src="/theme/v3/images/subnav-sep.jpg" alt="" class="subnav-sep"></li>
-			<li id="food-03"><a href="/quality/"><img src="/theme/v3/images/en/subnav-food-qualityrecipe.jpg" alt="Quality Is Our Recipe"></a><img src="/theme/v3/images/subnav-sep.jpg" alt="" class="subnav-sep"></li>
-			<li id="food-04"><a href="/food/healthy-options.jsp"><img src="/theme/v3/images/en/subnav-food-nutritiousoptions.jpg" alt="Nutritious Options"></a></li>
-		</ul>
-		<ul id="mainnav">						
-			<li id="nav-01" class="">
-				<a href="/food/Menu.jsp"><img src="/theme/v3/images/en/_toggles/nav-food.jpg" alt="Food" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">				
-			</li>	
-			<li id="nav-02" class="">
-				<a href="/careers/" target="_blank"><img src="/theme/v3/images/en/_toggles/nav-careers.jpg" alt="Careers" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
-			</li>
-			
-				<li id="nav-03" class="">
-					<a href="/ads/"><img src="/theme/v3/images/en/_toggles/nav-ads.jpg" alt="Ads" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
-				</li>
-			
-			<li id="nav-04" class="">
-				<a href="/community/"><img src="/theme/v3/images/en/_toggles/nav-community.jpg" alt="Community" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
-			</li>
-			<li id="nav-05" class="">
-				<a href="/about_us/"><img src="/theme/v3/images/en/_toggles/nav-aboutus.jpg" alt="About Us" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
-			</li>
-			<li id="nav-06" class="">
-				
-					<a href="https://wwws.givex.com/cws/wendys_us/" target="_blank"><img src="/theme/v3/images/en/_toggles/nav-giftcards.jpg" alt="Gift Cards" class="nav-link"></a><img src="/theme/v3/images/nav-sep.gif" alt="" class="nav-sep">
-				
-			</li>
-			<li id="nav-07" class="">
-				
-					<a href="/news/signUp.jsp"><img src="/theme/v3/images/en/_toggles/nav-wendymail.jpg" alt="Signup For Wendymail" class="nav-link"></a>
-				
-			</li>
-		</ul>
-	</div>
-	
-	<div id="language">
-		<form action="#" id="localeform" name="localeform" method="post">
-			<img src="/theme/v3/images/en/nav-countrylanguage.jpg" alt="Country / Language Selection">
-			<select id="locale" name="locale" size="1" onchange="document.localeform.submit()">
-				<option value="EN-US" selected="">US English</option>
-				<option value="ES-US">US Español</option>
-				<option value="EN-CA">Canada English</option>
-				<option value="FR-CA">Canada Français</option>
-			</select>
-		</form>
-	</div>
-	
-	<div id="search">					
-		<form id="zipfind" name="zipfind" action="http://web.sa.mapquest.com/wendys/advantage.adp" method="get" onsubmit="checkPostalCode(this); return false;">
-			<input type="hidden" value="search" id="transaction" name="transaction">
-			<input type="hidden" value="400" name="pWidth">
-			<input type="hidden" value="" id="county" name="county">
-			<input type="hidden" value="" id="country" name="country">
-			<input type="hidden" value="31" id="iconID" name="iconID">
-			<input type="hidden" value="400" id="proxIconId" name="proxIconId">
-			<input type="hidden" value="0" id="ambiguities" name="ambiguities">
-			<input type="hidden" value="en_search" id="tempset" name="tempset">
-			
-			<img src="/theme/v3/images/en/header-findawendys.jpg" alt="Find A Wendy's">
-			<input type="text" onfocus="clearField(this);" value="ZIP/Postal Code" name="postalCode" id="zip">
-			<input type="image" alt="" src="/theme/v3/images/header-findawendys-button.jpg" id="find">
-			
-		</form>										
-	</div>
+  <div id="header">
+    <h1 id="logo">
+        <a href="/">
+            <img src="/images/logo_Wendys.png" alt="Wendys">
+        </a>
+    </h1>
+    <div id="facebook">
+    	<fb:like href="http://www.facebook.com/wendys" send="false" width="450" show_faces="true" font="arial"></fb:like>
+    </div>
+    <ul id="intro_nav">
+        <li id="signup"><a id="signUpLink" href="https://www.mywendysonline.com/wpc/aMgr.do?pg=createPrefs&amp;src=wdotc" target="Wendys" onclick="trackEvent('Top Nav','Sign Up','Exit to mywendysonline.com');">Sign Up</a></li>
+        <li id="myaccount"><a id="myAccountLink" href="https://www.mywendysonline.com/wpc/aMgr.do?pg=login&amp;src=wdotc" onclick="trackEvent('Top Nav','My Account','Exit to mywendysonline.com');" target="Wendys">My Account</a></li>
+        <li id="language">
+            <div id="language_styled">
+                <span class="text"></span><span class="btn"></span>
+            </div>
+            <form action="#" id="localeform" name="localeform" method="post">
+            <select class="localeSelect" id="locale" name="locale" size="1" onchange="if (this.value == 'other') { this.value = 'EN-US'; window.location.href = 'http://www.aboutwendys.com/International/'; } else { document.localeform.submit(); }">
+                <option value="EN-US" selected="">US English</option>
+                <option value="ES-US">US Español</option>
+                <option value="EN-CA">Canada English</option>
+                <option value="FR-CA">Canada Français</option>
+                <option value="other">International</option>
+            </select>
+            </form>
+        </li>
+    </ul>
+    <div id="nav">
+        <ul id="mainnav">
+            <li id="nav-01"><a href="/food/Menu.jsp">Food</a>
+                <ul class="dropdown">
+                    <li><a href="/food/Menu.jsp">Our Menu</a></li>
+                    <li><a href="/food/NutritionLanding.jsp">Nutritional Facts</a></li>
+                    <li><a href="/quality">Quality Is Our Recipe ® </a></li>
+                    <li><a href="/food/nutritious-options.jsp">Nutritious Options</a></li>
+                </ul>
+            </li>
+            <li id="nav-02"><a href="/careers/">Careers</a></li>
+            <li id="nav-03"><a href="#" onclick="return false;">Promos</a>
+                <ul class="dropdown">
+                    <li><a href="/ads/">Ads</a></li>
+                    <li><a href="/kids_meal/">Wendy's Kids' Meal®</a></li>
+                    <li><a href="http://apps.facebook.com/tourofamerica/" target="Taste-Tour">Tour of America</a></li>
+                    <li id="promos-04"><a href="/food/pdf/us/WOFWINNER_popup.pdf" target="Wendys">Watch Wheel With Wendy's</a></li>
+                    <li><a href="http://www.aboutwendys.com/Responsibility/Veterans-Advantage/" target="Wendys">Veterans Advantage</a></li>
+                    <li><a href="http://www.twosthereason.com" target="_blank">Two's the Reason</a></li>
+                </ul>
+            </li>
+            <li id="nav-04"><a href="http://www.aboutwendys.com/responsibility/" onclick="trackEvent('Top Nav','Responsibilities','Exit to aboutwendys.com');" target="Wendys">Responsibility</a></li>
+            <li id="nav-05"><a href="http://www.aboutwendys.com/" onclick="trackEvent('Top Nav','About Us','Exit to aboutwendys.com');" target="Wendys">About Us</a>
+                <ul class="dropdown">
+                    <li><a onclick="trackEvent('Top Nav','Daves Legacy');" href="/about_us/daves_legacy/">Dave's Legacy</a></li>
+                    <li><a target="_blank" onclick="trackEvent('Top Nav','Our Company','Exit to aboutwendys.com');" href="http://www.aboutwendys.com">Our Company</a></li>
+                    <li><a target="_blank" onclick="trackEvent('Top Nav','Responsibilities','Exit to aboutwendys.com');" href="http://www.aboutwendys.com/Responsibility/">Responsibility</a></li>
+                    <li><a target="_blank" onclick="trackEvent('Top Nav','Investors','Exit to aboutwendys.com');" href="http://www.aboutwendys.com/Investors/">Investors</a></li>
+                    <li><a target="_blank" onclick="trackEvent('Top Nav','International','Exit to aboutwendys.com');" href="http://www.aboutwendys.com/International/">International</a></li>
+                    <li><a target="_blank" onclick="trackEvent('Top Nav','News','Exit to aboutwendys.com');" href="http://www.aboutwendys.com/News/">News</a></li>
+                </ul>
+            </li>
+        </ul>
+        <div id="search">
+            <img src="/images/nav_find_wendys.png" alt="Find A Wendy's">
+            <form id="zipfind" name="zipfind" action="http://web.sa.mapquest.com/wendys/advantage.adp" method="get" onsubmit="checkPostalCode(this); trackEvent('Top Nav','Search EN-US','Exit To web.sa.mapquest.com'); return false;">
+            <input type="hidden" value="search" id="transaction" name="transaction">
+            <input type="hidden" value="400" name="pWidth">
+            <input type="hidden" value="" id="county" name="county">
+            <input type="hidden" value="" id="country" name="country">
+            <input type="hidden" value="31" id="iconID" name="iconID">
+            <input type="hidden" value="400" id="proxIconId" name="proxIconId">
+            <input type="hidden" value="0" id="ambiguities" name="ambiguities">
+            <input type="hidden" value="en_search" id="tempset" name="tempset">
+            <input type="text" onfocus="clearField(this);" value="ZIP/Postal Code" name="postalCode" id="zip">
+            <input type="image" src="/images/field_zip_btn.png" id="find">
+            </form>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
 </div>
 
+
+
+
 <!-- END TOP NAV -->
+
 
 
 	<!-- BEGIN MAIN -->
@@ -168,101 +306,258 @@
 				<td width="741"><img src="/images/spacer.gif" alt="" width="741" height="1"></td>
 			</tr>
 			
-			<tr valign="top">				
-				<td id="nav2"><ul>
-					<li><h2>&nbsp;</h2></li>
-					<li><a href="contact.jsp">CONTACT US</a></li>
-					<li><a href="privacy.jsp" class="on">PRIVACY STATEMENT</a></li>
-					<li><a href="legal.jsp">TERMS &amp; CONDITIONS</a></li>
-				</ul></td>
-				
-				<td width="1" class="dots"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+			<tr valign="top">
+        
+                <td id="nav2">
+          <ul>
+            <li><h2>&nbsp;</h2></li>
+            <li><a href="contact.jsp">CONTACT US</a></li>
+            <li><a href="privacy.jsp" class="on">PRIVACY POLICY</a></li>
+            <li><a href="legal.jsp">TERMS OF USE</a></li>
+          </ul>
+        </td>
+        <td width="1" class="dots"><img src="/images/spacer.gif" alt="" width="1" height="1"></td>
+        <td id="rtside">
+          <h3><img src="images/hd_privacy.png" style="width:206px; height:25px;" alt="PRIVACY POLICY"></h3>
+          <p><a name="top"></a></p>
+          <p><strong>Wendy's International, Inc. Privacy Policy and Information Security Policy ("Privacy Policy" or "Policy")</strong></p>
+          <p>Effective Date: April 18th, 2011</p>
+          <p>Welcome. This Policy is designed to help you understand generally how wendys.com (the "Site") collects personally identifying information about you and how it uses and discloses personal information. Wendys.com is a Web site of Wendy's International, Inc. ("Wendy's," "we," "us"). You may contact us at our Address For Legal Notices below. This Policy applies to information that personally identifies you (other than publicly available information and certain aggregate information that does not expressly identify you individually) ("personal information") collected on wendys.com or other sites that appear to be controlled or managed by Wendy's or, where indicated, other information you provide to us.</p>
+          <p><strong>USE OF OUR SITE OR PROVISION OF ANY PERSONAL INFORMATION CONSTITUTES AGREEMENT TO THIS POLICY. DO NOT USE THE SITE OR PROVIDE INFORMATION (OR ALLOW OTHERS TO DO SO ON YOUR BEHALF) IF YOU (AND YOUR PRINCIPAL IF YOU ARE ACTING AS AGENT) DO NOT AGREE WITH ALL OF THE TERMS OF USE INCLUDING THIS POLICY AND ANY APPLICABLE SUPPLEMENTAL PRIVACY POLICY.</strong></p>
+          <p><strong>Table of Contents</strong></p>
+          <ol style="padding-left: 40px;">
+          <li><a href="#section_1">How Does This Policy Relate to Use of the Site?</a></li>
+          <li><a href="#section_2">Information We Automatically Collect</a></li>
+          <li><a href="#section_3">Information We Collect That You Provide</a></li>
+          <li><a href="#section_4">Other Websites</a></li>
+          <li><a href="#section_5">What We Generally Do with Personal Information Collected</a></li>
+          <li><a href="#section_6">Your Ability to Update Personal Information</a></li>
+          <li><a href="#section_7">Information Security</a></li>
+          <li><a href="#section_8">Your Particular Consents</a></li>
+          <li><a href="#section_9">Children</a></li>
+          <li><a href="#section_10">Theft</a></li>
+          <li><a href="#section_11">Amendments</a></li>
+          <li><a href="#section_12">Information About Enforcement of Our Policy</a></li>
+          <li><a href="#section_13">Privacy Policy—Careers</a></li>
+          </ol>
+          <p><a name="section_1"></a></p>
+          <h3>1. How Does This Policy Relate to Use of the Site?</h3>
+          <p>This Policy is part of and incorporated into the wendys.com Terms of Use ("Terms of Use"), which is the contract between you and Wendy's governing use of the Site. Parts of the <a href="legal.jsp">Terms of Use</a> affect this Policy, so, unless you have already done so, please review them prior to using the Site. Terms used but not defined in this Policy have the definitions in the Terms of Use.</p>
+          <p>This Policy is supplemented by additional policies relevant to particular activities, and each of the supplemental policies will also apply and should be read together with this Policy. Here are examples of areas in which you will encounter supplemental privacy policies but this list is not complete: a supplemental policy may be included within this Policy (e.g., the Careers Policy), elsewhere on the Site with respect to a particular activity, or on a third party site relating to Wendy's business (e.g., Wendy's Advisors Panel). To the extent the supplemental policies are not set forth within this Policy, they are incorporated into this Policy.</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_2"></a></p>
+          <h3>2. Information We Automatically Collect</h3>
+          <p>Wendy's collects some information automatically from visitors to the Site, for example through the use of "cookies", "web beacons", and other technologies. These technologies make your use of the Site or our operations more convenient. We use these technologies for a variety of purposes such as to improve your on-line experience, to manage Site traffic, to assess promotional effectiveness, to track information such as the total number of visitors, IP addresses and browser types, access times, pages viewed and referring website addresses. We may also employ these technologies so that we remember you when you return to the Site. For example, we may collect information about your activities on the Site so we may make product recommendations, to tailor content to your interests, or to provide shopping cart services during a future visit to our Site. We may also deliver ads or make recommendations in the context of your current visit to our Site or a single search query in our Site.</p>
+          <p>We generally do not share information from "cookies" and the like with third parties other than our service providers and within the Wendy's Organization (as defined in Section 8, below), but reserve the right to do so. For example, we may share information from "cookies" or other technologies used on our Site with our service providers or within the Wendy's Organization, but only on an aggregate basis or to facilitate our business or marketing purposes (or those of our affiliated entities). If we materially change the type of information we automatically collect or the way in which we share it, we will notify you.</p>
+          <p>If you do not want to receive cookies, you may set your browser to reject them. However, if you turn cookies off, you may not have access to some of the Site's services and features. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issues cookies when you access the Site.</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_3"></a></p>
+          <h3>3. Information We Collect That You Provide</h3>
+          <p>It is always your choice, or the choice of anyone acting for you, whether to provide personal information. However, some must be provided to participate in certain programs or activities (such as to apply for a job), so the decision not to provide information might limit or eliminate certain functions of the Site or the ability to participate. Other information is up to your good judgment, e.g., do not provide personal information about yourself that could be misused by others in a chat room, bulletin board, blog or similar forum and do not provide personal information about others without their permission. Depending on what you choose, the kinds of personal information we tend to request about you or others include but are not limited to your name, email address, telephone number, physical address, your preferences for products, programs or services and participation in our surveys, clubs, promotions, contests, sweepstakes or loyalty programs and other information relating to particular activities. We may also collect credit or debit card information if you are making a purchase. Additional information about what we collect is available in any supplemental privacy policies for particular activities (e.g., employment related information provided in the Career portion of our Site).</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_4"></a></p>
+          <h3>4. Other Websites</h3>
+          <p>Wendy's works with third parties on certain programs, and often those third parties own and/or are responsible for that program's Web site. In those cases, if you provide personal information, you will be giving it to a third party and their privacy policy will apply, in addition to ours. You agree that if they provide it to us then we may apply our Policy to what we receive.</p>
+          <p>In addition, many Wendy's restaurants are owned and operated by franchisees, who are independent business people. Wendy's franchisees are responsible for their Web sites and associated content. Your use of those sites is subject to different privacy policies and terms and conditions. We are not responsible for the practices and policies of franchisees.</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_5"></a></p>
+          <h3>5. What We Generally Do with Personal Information Collected</h3>
+          <p>In general, we use personal information we collect to respond to your inquiries or requests, administer surveys, clubs, promotions, contests, sweepstakes or loyalty programs, process and manage your purchases, consider your job application and to engage in the activity (and related activities) for which we collect it. For example (and without limitation), if you sign up for a newsletter, we'll send the newsletter; if you apply for a job, we'll use the information to find out about you and share it with service providers and others we view as relevant to the employment process; if you opt-in to receive emails, texts or other electronic communications from us, we may make recommendations or deliver advertisments about our products and services. Further information is available in the supplemental policies for some activities, but you should assume that we will use all information for all lawful purposes. Subject to applicable law, we reserve the right voluntarily or involuntarily to make all lawful, worldwide uses of personal information, including without limitation, to: collect, use, access (or bar access), process, fulfill, disclose, display, share, respond to legal process or otherwise exercise our rights under applicable law, transfer, store, sell, lease, retain, commingle, investigate, verify, prove, enforce, delete, and otherwise deal with personal information, and information other than personal information, voluntarily or involuntarily (collectively "<strong>Disclose</strong>").</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_6"></a></p>
+          <h3>6. Your Ability to Update Personal Information</h3>
+          <p>In general, our systems do not provide the ability for you to update your information at this time. If your information has changed, you may submit your new information as a new registration or subscription when appropriate (as determined by us). Some activities allow some updating, e.g., you may update your "Career" profile by using the functionality in that section of the Site.</p>
+          <p>We keep personal information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. We may discard personal information in our discretion, so you should retain your own records, and not rely upon our storage of any personal information or other data.</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_7"></a></p>
+          <h3>7. Information Security</h3>
+          <p>WE DO NOT GUARANTEE THE SECURITY OF PERSONAL INFORMATION OR OTHER INFORMATION IN ANY FORM. We make what we believe to be commercially reasonable efforts to provide a reasonable level of security for personal information we are required to protect, but this is not a promise that your information will never be disclosed except as provided herein. As you probably know, information can sometimes be intercepted or accessed in violation of law, contract or policy and technologies don't always work as anticipated.</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_8"></a></p>
+          <h3>8. Your Particular Consents</h3>
+          <p>In addition to consenting to the Terms of Use, including this Policy (and any relevant supplemental policies), Wendy's is interested in letting you know about, and receiving your particular consent to, a few activities relating to personal information that will help us to deal with personal information that is Disclosed in furtherance of our operations and programs. These are described immediately below.</p>
+          <p style="margin-left: 30px;"><strong>Consent to Share and Disclose Personal Information, Including Data Transfers Internationally.</strong> We may share information within the Wendy's Organization. The Wendy's Organization includes Wendy's International, Inc., our subsidiaries, affiliates and franchisees of any of them. We may also share information with companies that provide support services to us (such as credit card processors, mailing houses, web hosts, technical support providers, fulfillment centers or other services or for enforcing or investigating transactions or business operations). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose, but we do not control these companies. You agree that Wendy's and those with whom we share personal information ("<strong>Recipients</strong>") may Disclose and transfer your personal information worldwide (including in and outside the U.S, the European Union and other jurisdictions ) for any purpose relating to our operations, programs, or otherwise that is not allowed or prohibited by this Policy.</p>
+          <p style="margin-left: 30px;"><strong>Consent to Electronic Notice If There is a Security Breach.</strong> If we or a Recipient is required to provide notice of unauthorized access or other invasion of certain security systems, you agree that we (or they) may do so when required (or voluntarily) by posting notice on our Site or sending notice to any email address we have for you, in our (or their) good faith discretion. You agree that notice to you will count as notice to others for whom you are acting, and agree to pass the notice on to them.</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_9"></a></p>
+          <h3>9. Children</h3>
+          <p>We do not want to collect information from children. Do not provide any personal information unless you are at least 13 years of age, and please caution your children not to provide any. If a child under 13 has provided personal information, a parent or guardian may so inform us by writing us at Our Address for Legal Notices (see below) and we will use commercially reasonable efforts to delete it from our database, subject to applicable law and this Policy.</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_10"></a></p>
+          <h3>10. Identity Theft</h3>
+          <p>If anyone believes they're a victim of identity theft entitled by law to request information from us, write us at Our Address For Legal Notices and we'll explain what information we require in order to respond. After receiving that information, we'll supply (without charge) information we then have that we are legally required to provide (subject to applicable law and reserving all rights and defenses).</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_11"></a></p>
+          <h3>11. Amendments</h3>
+          <p>We will be changing what we do and how and why we Disclose data periodically—this Policy describes what we currently envision, but that will change as we change. You agree that this Policy amends and replaces any previous privacy policies and applies retroactively. We may further amend all or part of this Policy in the same way that we make amendments to our <a href="legal.jsp">Terms of Use</a> and such amended versions will be posted on this page. USE OF THE SITE AFTER THE EFFECTIVE DATE WILL CONSTITUTE YOUR CONSENT TO THE AMENDMENTS, SO IF YOU DO NOT WANT TO BE BOUND BY AN AMENDED VERSION, DO NOT USE THE SITE AND CEASE ALL USE OF THE CONTENT OR SERVICES.</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_12"></a></p>
+          <h3>12. Information About Enforcement of Our Policy</h3>
+          <p>This Policy is part of and supplemented by our Terms of Use, which together with any supplemental privacy policy form a contract. We and you are bound by the Terms of Use, including this Policy. If you think we are in default, you may contact us by writing to Our Address for Legal Notices. There are no third party beneficiaries of this Policy.</p>
+          <p>Our Address for Legal Notices:<br>Wendy's International, Inc.<br> One Dave Thomas Blvd.<br> Dublin, Ohio 43017<br> Attn: Legal</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+          <p><a name="section_13"></a></p>
+          <h3>13. Supplemental Privacy Policy—Careers</h3>
+          <p>Welcome. This Supplemental Privacy Policy—Careers ("Careers Policy") supplements the Privacy Policy for wendys.com ("Site"). It applies if you use the "Careers" section of the Site or if you allow or cause someone else to use it for you. We are an equal opportunity employer.</p>
+          <p>This Careers Policy is part of our Privacy and Information Security Policy ("Privacy Policy") which is part of our <a href="legal.jsp">Terms of Use</a>; terms used but not defined in this Careers Policy are defined in those documents. CREATING AN ACCOUNT, SUBMITTING ANY INFORMATION RELATING TO A POSSIBLE JOB OPPORTUNITY, MAKING ANY APPLICATION(S), OR ALLOWING SOMEONE ELSE TO DO THAT FOR YOU, WILL BE YOUR CONSENT TO OUR TERMS OF USE, INCLUDING OUR PRIVACY POLICY AND THIS SUPPLEMENTAL POLICY, ALL AS AMENDED FROM TIME TO TIME.</p>
+          <p><strong>Information That We Collect in Careers.</strong> In addition to the personal information that we collect on the Site generally, in the Careers section you may set up a "general account" so you can receive "job alerts." To create a general account, we will require you to supply your email address and create a user name, password and security question to allow you to access your account later. When you create a general account, we collect your name, address, education level. We also collect your job preferences such as, job level, schedule, availability to travel, job type and geographic area. If you create a general account, we will attempt to send you "job alerts" that might match your account, however, we have no obligation to do so.</p>
+          <p>If you want to apply for a job, you will need to establish an "application account" which will require you to supply your email address and create a password and secret question to allow you to access your account later. When you submit an application, or authorize us to obtain a "consumer report" (such as a background check), we tend to collect personal information, including but not limited to: name, address, telephone number, resume, employment history, reference information, compensation and educational history, social security number and so on. You are responsible for ensuring that that the information you submit is complete, accurate and up-to-date. You also agree that, to the extent allowed by us and our Site, you will review, maintain, correct, and update such information in a timely manner to maintain its accuracy and completeness.</p>
+          <p><strong>Access to Information.</strong> You may update your general account or your application account (collectively "account") information by using the "edit" functionality in the account area. Wendy's retains information submitted in the Careers section in accordance with its records retention policy. We reserve the right to delete information stored by or for you and sometimes information will need to be re-entered. Accounts may be deleted at any time by clicking the "My Account Options" link and selecting the "deactivate" function. Deactivating your account will also withdraw any existing applications. Because of the way we maintain accounts, residual copies of your account information and other information associated with your account may remain on our backup systems. Neither changes to or deletion of an account will alter information already submitted or relied upon.</p>
+          <p><strong>How We Use Information Collected in Careers.</strong> In addition to the uses of personal information allowed in the Privacy Policy, we make these kinds of uses of personal information submitted for a job. We Disclose it:</p>
+          <ul style="padding-left: 40px;">
+          <li>to our Wendy's recruiters and third parties who help us authenticate Applicants or review qualifications and credentials or to contact references and conduct background checks;</li>
+          <li>to our affiliates and other third parties or persons with whom Applicant might work if Applicant gets the job;</li>
+          <li>when we are looking for someone who might fit a job need of ours and to contact a previous Applicant to see if he or she might be interested in a job for which the Applicant did not apply. However, we do this in our discretion and without any obligation to do so;</li>
+          <li>to communicate about receiving the application or about the job for which application was made, or to deliver legal or other notices; and</li>
+          <li>to comply with applicable laws, including without limitation, checking names against anti-terrorism lists, complying with immigration restrictions or for statistical or reporting purposes.</li>
+          </ul>
+          &nbsp;
+          <p>If Applicant gets a job with us, we store the application and other information upon which we relied in Applicant's personnel file (or in an electronic format) and we may base post-employment decisions on it (including disciplinary actions) or we may use it to administer benefits, performance reviews, training, or for regulatory compliance.</p>
+          <p><strong>Consent to Share and Disclose Personal Information.</strong> In addition to consenting to the Terms of Use, Privacy Policy and Careers Policy, you agree that by providing us with personal information in the Careers part of our Site, you are consenting to the collection, retention, use and disclosure of your information in accordance with the terms of the Careers Policy and Privacy Policy. You also agree that you are consenting to Wendy's disclosing your information to third parties as stated in this Careers Policy (e.g., see the How We Use Information Collected in Careers" section above).</p>
+          <p><strong>Passwords; Redact Your Resume.</strong> The Terms of Use require you to keep secret your password and other access credentials confidential. That's especially important if you don't want persons obtaining your password to be able to see any resume or account or to see other information available (e.g., positions for which applications have been made). Also, take steps to create a safe resume: before uploading a resume, remove any sensitive information such as social security numbers, identification numbers (e.g., driver's license), financial information, dates of birth etc. – we don't need or want that information in a resume.</p>
+          <p><strong>Security.</strong> We store data associated with your account and application on a site provided by a service provider. The data is not necessarily encrypted but the service provider has agreed to provide a commercially reasonable level of security. Your resume and other data will also circulate through our offices and relevant third parties. As explained in the Terms of Use, we do not guarantee security; also, we do not control third parties. You should assume the Site, storage and use generally is not encrypted and you should take steps to promote security (e.g., see the "Passwords; Redact Your Resume" section above).</p>
+          <p><strong>Job Terms.</strong> Specific information about the terms and conditions of employment associated with a particular position, will be set forth on the date of hire and they may be different than information on the Site. Postings on the Site do not represent an offer of employment. Any offer of employment must be made in person by an authorized representative of a Company Store or a Franchise Store in accordance with their respective hiring policies and procedures.</p>
+          <p><strong>Franchise Career Opportunities.</strong> Some Wendy's locations are owned and operated by Wendy's third party franchisees (Franchise Stores). We do not list positions for Franchise Stores on the Careers section of the Site – we only list positions for locations owned and operated by Wendy's International, Inc. (Company Stores). The positions in Wendy's Company stores may be subject to different terms and conditions, including, but not limited to benefits and employment policies, than those positions in Franchise Stores. Wendy's International, Inc. accepts no responsibility or liability with respect to the terms and conditions of employment with Franchise Stores.</p>
+          <p class="back_to_top"><a href="#top">Back to top</a></p>
+        </td>
 
-				<td id="rtside">
-				<h2><img src="images/hd_privacy.png" style="width:206px; height:25px;" alt="Privacy Statement"></h2>
-				<p>This document describes Wendy's International, Inc.'s ("Wendy's") policy regarding information received about you during visits to our web site. The information received by Wendy's is dictated by the amount and type of information received during your visit. Wendy's respects the privacy concerns of the visitors to its site and accordingly, no personal information is automatically obtained by visiting the site. However, Wendy's may obtain certain non-personal information from its on-line visitors. Such information includes, but is not limited to, the total number of visitors to the site in the aggregate and the name of Internet server.</p>
-
-				<p>There may be occasions when Wendy's obtains personally identifiable information to provide the visitor with correspondence or otherwise. However, Wendy's only gathers personally identifiable information, such as names, addresses, e-mail addresses, etc., when a visitor voluntarily submits the same. Such personally identifiable information, which may be gathered in connection with Wendy's on-line visitors, is used solely by Wendy's and is not sold, transferred or otherwise disseminated to third parties outside Wendy's.</p>
-
-				<h3>Parents</h3>
-				<p>Wendy's strongly encourages all parents to supervise their children's on-line activities and regularly monitor their children's use of the Internet. Parents should consider using parental control tools and other services to assist them in supervising their children's on-line use or on-line disclosure of their name, address or other personal information without parental consent.</p>
-
-				<p>Wendy's reserves the right to change this policy at any time. Please check this page periodically for changes.</p>
-                
-				<h3>Career Site Privacy Policy</h3>
-				<p>Wendy's International, Inc., its affiliates and subsidiaries, ("Wendy's") endeavor to protect your privacy and safeguard your personally identifiable information. This Privacy Policy does not apply to public information and Wendy's may also collect certain aggregated information which does not identify you and, therefore, is not personal information.</p>
-
-				<p>By providing us with personally identifiable information, you acknowledge acceptance of the terms in the Privacy Policy.</p>
-
-				<p>When you submit an application or a profile, you authorize Wendy's to transmit and/or store your information for future consideration.  The information collected will be accessible by Wendy's employees or agents relevant to the recruitment process.  The information collection will be used to: (i) assess qualifications and personal experience to determine if it meets specific job requirements; and (ii) help us inform candidates of future openings at Wendy's.</p>
-
-				<p>© Oldemark, LLC. All Rights reserved. 2002</p></td>
+        
 			</tr>
 		</tbody></table>
 		<!-- END CONTENT -->
 
-<!-- BEGIN FOOTER -->
-<div id="footer-template"></div>
-<br>
-<div id="footer">
-	<div id="kidsmeals" style="padding:0 10px 0 0;"><a href="/kids_meal/index.jsp"><img src="/kids_meal/images/icon_footer.jpg" alt="Kids' Meal" width="60" height="28"></a>
-	<a href="/kids_meal/index.jsp">Kids' Meal</a></div>
-
-	<div id="careers"><a href="/careers/" target="_blank"><img src="/theme/v3/images/en/icon-careers.png" alt="Careers that are right for me"></a>
-	<a href="/careers/" target="_blank">Careers that are right for me</a></div>
-
-	<div id="subnav"><img src="/theme/v3/images/spacer.gif" alt="" height="28" width="1">©2010 
-		
-			<a href="http://www.wendys-invest.com/" target="_blank">Oldemark LLC.</a> 
-				
-		 | 
-		<a href="/legal.jsp">Legal</a> | 
-		<a href="/contact.jsp">Contact Us</a> | 
-		
-			<a href="/news/signUp.jsp">Sign Up</a> | 
-		
-		<a href="/news/unsubscribe.jsp">Unsubscribe</a>		
-	</div>
-	
-	<br clear="all">
-	
-	<div id="subfooter">
-		
-			<div class="marks" style="padding-left:120px;">
-				<img src="/images/social.png" style="width:136px; height:8px;" alt="BE SOCIAL WITH WENDY'S">
-				<a href="http://www.facebook.com/wendys" target="_blank"><img src="/images/facebook.png" style="width:24px; height:24px;" alt="Facebook"></a>
-				<a href="http://twitter.com/wendys" target="_blank"><img src="/images/twitter.png" style="width:24px; height:24px;" alt="Twitter"></a>
-				<a href="http://www.myspace.com/wendys" target="_blank"><img src="/images/myspace.png" style="width:24px; height:24px;" alt="MySpace"></a>
-				<a href="http://www.youtube.com/wendys" target="_blank"><img src="/images/youtube.png" style="width:24px; height:24px;" alt="YouTube"></a>
-			</div>
-	
-			<div class="cccards"><img src="/images/cards_us.gif" alt=""> At participating Wendy's</div>
-	
-			<br clear="all" class="clear">
-			The Wendy's name, Wendy's Kids' Meal design, and Pause. Play. Together. name and design are trademarks of Oldemark LLC and are licensed to Wendy's International, Inc. 
-		
-	</div>
-</div>
-<!-- END FOOTER -->
-
-<br clear="all">
-<br clear="all">
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-7557226-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 
 
 	</div>
 	<!-- END MAIN -->
 
 </div>
+
+<!-- BEGIN FOOTER -->
+<!-- BEGIN FOOTER -->
+		<script type="text/javascript">
+			window.addEvent('domready', function() {
+				$$('#giftcards1').addEvent('click', function(){
+					trackEvent('Bottom Nav','Gift Cards','Exit to givex.com');
+				});
+				
+				$$('#veteransAdvantage').addEvent('click', function(){
+					trackEvent('Bottom Nav','Veterans Advantage','Exit to aboutwendys.com');
+				});
+				
+		    	$$('#giftcards2').addEvent('click', function(){
+		      		trackEvent('Bottom Nav','Gift Cards','Exit to givex.com');
+		   		 });
+		
+				$$('#facebookAnch').addEvent('click', function(){
+					trackEvent('Bottom Nav','Facebook','Exit to facebook.com');
+				});
+
+				$$('#googlePlusAnch').addEvent('click', function(){
+          trackEvent('Bottom Nav','Google+','Exit to plus.google.com');
+        });
+				
+				$$('#twitterAnch').addEvent('click', function(){
+					trackEvent('Bottom Nav','Twitter','Exit to twitter.com');
+				});
+				
+				$$('#mySpaceAnch').addEvent('click', function(){
+					trackEvent('Bottom Nav','My Space','Exit to myspace.com');
+				});
+				
+				$$('#youtubeAnch').addEvent('click', function(){
+					trackEvent('Bottom Nav','Youtube','Exit to youtube.com');
+				});
+		
+		    $$('#compInfoAnch').addEvent('click', function(){
+		      trackEvent('Bottom Nav','Company Info','Exit to Company Info');
+		    });
+		
+		    $$('#unsubscribeAnch').addEvent('click', function(){
+		      trackEvent('Bottom Nav','Unsubscribe','Exit to Unsubscribe');
+		    });
+		    
+		    $$('#signUpAnch').addEvent('click', function(){
+		        trackEvent('Bottom Nav','Sign Up','Exit to SignUp');
+		      });
+		    
+		    $$('#signUpImg').addEvent('click', function(){
+		        trackEvent('Bottom Nav','Sign Up','Exit to SignUp');
+		      });
+			});
+		</script>
+
+
+	  
+	  <div id="container_footer">
+    <a id="signUpAnch" href="https://www.mywendysonline.com/wpc/aMgr.do?pg=createPrefs&amp;src=wdotc" target="Wendys">
+        <img src="/images/wendy_mail.png" alt="Sign up for Wendy Mail™">
+    </a>
+    <a id="veteransAdvantage" href="http://www.aboutwendys.com/Responsibility/Veterans-Advantage/" class="gift_card" target="Wendys">
+        <img src="/images/_es/veteran_card.png" alt="Veteran's Advantage Program">
+    </a>
+    <a id="giftcards1" href="https://wwws.givex.com/cws/wendys_us/" class="gift_card" target="Wendys">
+        <img src="/images/wendy_gift_card.png" alt="Wendy's Gift Cards">
+    </a>
+    <div id="social">
+        <a id="facebookAnch" href="http://www.facebook.com/wendys" class="social facebook_footer" target="Wendys">Facebook</a>
+        <a id="googlePlusAnch" href="https://plus.google.com/117233332742362932169?prsrc=3" class="social googlePlus_footer" target="Wendys">Google+</a>
+        <a id="twitterAnch" href="http://twitter.com/wendys" class="social twitter" target="Wendys">Twitter</a>
+        <a id="youtubeAnch" href="http://www.youtube.com/wendys" class="social youtube" target="Wendys">YouTube</a>
+        <!-- Place this tag where you want the badge to render -->
+        
+    </div>
+    <div class="nav_footer">
+    	 
+        <a href="/careers">Careers</a> | <a href="/privacy.jsp">Privacy Policy</a> | 
+        <a href="/legal.jsp">Terms of Use</a> | <a href="/contact.jsp">Contact Us</a> | 
+        <a id="unsubscribeAnch" href="https://www.mywendysonline.com/wpc/aMgr.do?pg=unsubscribe&amp;src=wdotc" target="Wendys">Unsubscribe</a>
+    </div>
+    
+    <p>
+        ©2011 Oldemark LLC.
+        <br>
+        Wendy's International, Inc.
+        <br>        
+        One Dave Thomas Boulevard, Dublin, OH 43017 / (614) 764-3100
+    </p>
+</div>
+
+
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script type="text/javascript">
+    window.fbAsyncInit = function () {
+        FB.init({ appId: '216267971763705', status: true, cookie: true, xfbml: true });
+    };
+    (function () {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol +
+					'//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    } ());
+</script>
+
+<!-- ClickTale Bottom part -->
+
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script src="/scripts/WRc5.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(448,0.00093,"www09");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+
+	  
+  
+  
+<!-- END FOOTER -->
+	
+<br clear="all">
+<br clear="all">
+
+
+
+<!-- END FOOTER -->
 
 <br><br>
 
