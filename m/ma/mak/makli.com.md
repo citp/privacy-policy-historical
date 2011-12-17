@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the makli.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102022557id_/http%3A//www.makli.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makli.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217012942id_/http%3A//www.makli.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Browse >
-
-[Home](http://www.makli.com/ "Browse to: Home") / Privacy Policy 
 
 ## Log Files
 
@@ -24,7 +20,7 @@ Please note that Makli.com Privacy Policy does not apply on any of the advertise
 Any individual can contact Makli.com if he/she has any question(s) / problem(s) regarding our Privacy Policy and terms and conditions.
 
 We are reachable through contact us form at  
-<http://www.makli.com/contact/>
+<http://www.makli.us/contact/>
 
 ## Privacy Policy Reviews
 
