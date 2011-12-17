@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthformula.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423145224id_/http%3A//www.healthformula.com/cs/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthformula.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217153847id_/http%3A//www.healthformula.com/cs/privacy_policy.html) for the most accurate reproduction.*
 
 # HealthFormula
 
-### At HealthFormula.com, we take your privacy very seriously. Here's our policy in brief:
+### At HealthFormula.com , we take your privacy very seriously. Here's our policy in brief:
 
 **We hate spam** , junk email, junk mail and unwanted phone calls. Therefore, **we won't email you or call you** unless we have a specific question about your order. **We don't collect your information** for any reason beyond your purchase -- and we won't release your information to other companies. **Period**.
 
@@ -12,7 +12,7 @@ Now -- here's the official version:
 
 We will never release any personally identifiable information such as your name, address, e-mail address, phone number or credit card information without your consent. During the checkout process, we collect personal information that we use only to process your order. 
 
-We will only share or disclose such information in order to conform to the edicts of the law; protect and defend the right or property of Health Formula, Inc.; or act under exigent circumstances to protect the personal safety of its members or the public.
+We will only share or disclose such information in order to conform to the edicts of the law; protect and defend the right or property of Health Formula, Inc .; or act under exigent circumstances to protect the personal safety of its members or the public.
 
 Secure ordering online  
 This website uses technology called Secure Socket Layer (SSL) to encrypt any personal information you transmit to us online. We use 128-bit encryption, currently the strongest commercially available, to encrypt your order information. Your order is encrypted on your computer and decoded after it reaches our secure server. This information cannot be decrypted during transit. 
@@ -41,11 +41,13 @@ Even without a cookie, you can still use most of the features on www.dermboutiqu
 
 You may write to us at:
 
-Health Formula  
-2495 Stirling Road # 70  
-Dania Beach, FL 33312 
+Health Formula, Inc
 
-Call us: 1-800-414-8009,
+3325 Griffin Rd. Suite E-285
 
-or send us an [email](https://web.archive.org/web/20100423145224id_/http%3A//www.healthformula.com/contact.html).  
+Ft Lauderdale, FL 33312 - USA
+
+Call us: 1-800-414-8009 
+
+or send us an [email](https://web.archive.org/web/20111217153847id_/http%3A//www.healthformula.com/contact.html).  
 
