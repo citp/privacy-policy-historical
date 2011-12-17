@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nimble.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630172419id_/http%3A//www.nimble.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimble.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217074339id_/http%3A//www.nimble.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Social CRM | Nimble
+# Privacy Policy | Nimble social CRM Nimble
 
-Nimble Software, LLC (also “Nimble”) respects your right to privacy with the use of our online products, called Nimble Contact and Nimble Team, and we are committed to protecting it. Accordingly, we abide by the following privacy principles for all the personally identifiable information we collect from you.
+Nimble, Inc. (also “Nimble”) respects your right to privacy with the use of our online products, called Nimble Contact and Nimble Team, and we are committed to protecting it. Accordingly, we abide by the following privacy principles for all the personally identifiable information we collect from you.
 
 ### Information Collection
 
