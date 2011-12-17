@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dateinasia.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224174123id_/http%3A//www.dateinasia.com/w3c/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateinasia.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217073311id_/http%3A//www.dateinasia.com/w3c/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for http://www.dateinasia.com
 
 **Validity**   
 This is a privacy policy for **http://www.dateinasia.com**.  
-This policy is effective from 5th of March 2008 
+This policy is effective from 12th of February 2011 
 
 **Contact Information**   
 Our homepage on the Internet is located at [http://www.dateinasia.com](http://www.dateinasia.com/)   
@@ -23,6 +23,9 @@ We collect the following information about our visitors:
   * user.bdate data
   * user.gender data
   * user.jobtitle data
+  * user.home-info data
+  * user.business-info data
+  * user.login data
   * dynamic.clickstream data
   * dynamic.http data
   * dynamic.clientevents data
