@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the finerdesign.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609170416id_/http%3A//www.finerdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finerdesign.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217062730id_/http%3A//www.finerdesign.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Website Design
+# Privacy Policy
+
+## **Privacy Policy**
 
 **What information do we collect?**
 
@@ -56,7 +58,7 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes at [http://www.finerdesign.com/privacy/](https://web.archive.org/web/20110609170416id_/http://www.finerdesign.com/privacy/).
+If we decide to change our privacy policy, we will post those changes at <http://www.finerdesign.com/privacy.php>.
 
 **Contacting Us**
 
@@ -66,5 +68,6 @@ Finer Design
 3970 Business U.S. 131  
 Suite C #124   
 Cadillac, MI 49601  
-US  
-support AT finerdesign DOT com
+US
+
+[info@finerdesign.com](mailto:info@finerdesign.com)
