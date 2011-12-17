@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitetailproperties.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619212536id_/http%3A//www.whitetailproperties.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitetailproperties.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217222232id_/http%3A//www.whitetailproperties.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Whitetail Properties
 
