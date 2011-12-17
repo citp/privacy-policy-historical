@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samknows.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924043323id_/http%3A//www.samknows.com/broadband/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samknows.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217062048id_/http%3A//www.samknows.com/broadband/privacy) for the most accurate reproduction.*
 
 # SamKnows - Privacy Policy
 
