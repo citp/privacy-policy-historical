@@ -1,63 +1,181 @@
-> *The following text is extracted and transformed from the laserspineinstitute.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419102137id_/http%3A//www.laserspineinstitute.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laserspineinstitute.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217075229id_/http%3A//www.laserspineinstitute.com/privacy_policy) for the most accurate reproduction.*
 
 # Laser Spine Institute Privacy policy
 
+1- 
+
+  * [Contact Laser Spine Institute](https://web.archive.org/contact "Contact Laser Spine Institute")
+  * [Request MRI Review](https://web.archive.org/learn_more/mrireview "Request a Free MRI Review")
+  * [Spine Seminars](https://web.archive.org/learn_more/back_seminars "Medical Seminars")
+
+
+
 ### Notice of Privacy Policy
 
-## THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. YOU SHOULD REVIEW IT CAREFULLY.
+## THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-The Laser Spine Institute, LLC ("LSI") is required by law to maintain the privacy and confidentiality of your protected health information. LSI is also required by law to provide our patients with notice of our legal duties and privacy practices with respect to your protected health information. This notice is not meant to be a substitute for the applicable law nor should it be taken as a complete statement of the law. Rather this notice is meant to provide a summary of the applicable law and LSI's policies.
+Laser Spine Institute, LLC and its affiliates (LSI) understand the importance of privacy, and are committed to maintaining the confidentiality of your medical information. We make a record of the medical care we provide, and may receive such records from others. We use these records to provide or enable other health care providers to provide quality medical care, to obtain payment for services provided to you as allowed by your health plan and to enable use to meet out professional and legal obligations to operate this medical practice properly.
 
-### 1\. Disclosure of Your Health Care Information 
+We are required by law to provide you with this notice explaining LSI's privacy practices with regard to your medical information and how we may use and disclose your protected health information (PHI) for treatment, payment, and for health care operations, as well as for other purposes that are permitted or required by law. You have certain rights regarding the privacy of your protected health information and we also describe those rights in this notice.
 
-_**Treatment**_. We may disclose your health care information to other healthcare professionals within our practice for the purpose of treatment, payment, healthcare operations and outside our practice to medical providers whose opinion or treatment is medically necessary.
+We are required by law to make sure that medical information about you is kept private. We are required to give you this notice of our legal duties and privacy practices with respect to medical information about you. We are required to abide by the terms of the notice currently in effect; and 
 
-_**Payment**_. We may disclose your health information to your insurance provider or other third party payee on your behalf for the purpose of obtaining payment.
+LSI reserves the right to change the provisions of our Notice and make new provisions effective for all PHI we maintain. If LSI makes a material change to our Notice, we will post the changes promptly on our website at http://www.laserspineinstitute.com.
 
-_**Emergencies**_. We may disclose your health information to (a) notify or assist in notifying a family member or another person responsible for your care about your medical condition or (b) in the event of a medical emergency.
+## What is Protected Health Information?
 
-_**Workers' Compensation**_. We may disclose your health information as necessary to comply with Workers' Compensation Laws. Such information will generally only be released to a public agency having jurisdiction or to your employer who employed you in their workforce. Such information will be provided if LSI provided you health care, at the request of your employer, and such information is necessary to evaluate whether you have a work-related illness or injury.
+Protected Health Information (PHI) consists of individually identifiable health information, which may include demographic information LSI collects from you or creates or receives by a health care provider, a health plan, your employer, or a health care clearinghouse and that relates to: (1) your past, present or future physical or mental health or condition; (2) the provision of health care to you; or (3) the past, present or future payment for the provision of health care to you. 
 
-_**Public Health Purposes**_. We may disclose your health information to (a) a public health authority that is authorized by law to collect information for the purpose of preventing or controlling disease, injury, or disability, including, but not limited to, the reporting of disease, injury, vital events such as birth or death, and the conduct of public health surveillance, public health investigations, and public health interventions; or, at the direction of a public health authority, to an official of a foreign government agency that is acting in collaboration with a public health authority, (b) a public health authority or other appropriate government authority authorized by law to receive reports of child abuse or neglect, (c) to a person subject to the jurisdiction of the Food and Drug Administration (FDA) with respect to a FDA-regulated product or activity for which that person has responsibility, for the purpose of activities related to the quality, safety or effectiveness of such FDA-regulated product or activity such as the collection or reporting of adverse events, product defects or problems, the tracking of FDA-regulated products, to enable product recalls, repairs, or replacement, or to conduct post marketing surveillance or (d) in relation to a public health investigation into whether a person who may have been exposed to a communicable disease or may otherwise be at risk of contracting or spreading a disease or condition so long as the investigating health authority is authorized by law to notify such person as necessary in the conduct of a public health intervention or investigation.
+## Effective Date
 
-_**Legal Proceedings**_. We may disclose your health information in the course of any administrative or judicial proceeding. However, LSI will respond only to a lawfully entered order or subpoena issued by or under the authority of an administrative body or judge having jurisdiction over LSI or the patient and so long as other requirements of law have been met.
+This Notice of Privacy Practices became effective on April 14, 2003 and was amended on October 18, 2011. 
 
-_**Issues Relating to Law Enforcement**_. We may disclose your health information to law enforcement agencies for purposes such as identifying or locating a suspect, fugitive, material witness or missing person, complying with a court order or subpoena, and other law enforcement purposes.
+## Ways in Which We May Use and Disclose Your Protected Health Information
 
-_**Public Organizations**_. We may disclose your health information to public agencies such as military forces and agencies related to national security and governmental benefits in order to prevent or lessen a serious and imminent threat to the health or safety of a particular person or to the general public.
+**_Treatment_**
 
-_**In Support of Medical Research**_. We may disclose your health information to researchers conducting medical research who hold appropriate authorizations.
+We will use and disclose your protected health information to provide, coordinate, or manage your health care and any related services. We will also disclose your health information to other providers who may be treating you. Additionally we may from time to time disclose your health information to another provider who has been requested to be involved in your care. For example - we may share information about you with: referring physicians, your primary care physician, a specialist, or pharmacy. 
 
-_**Event of Death**_. In the event of your death, we may disclose your health information to coroners or medical examiners.
+**_Payment_**
 
-### 2\. Your Health Information Rights
+We will use and disclose your protected health information to obtain payment for the health care services we provide you. For example - we may include information with a bill to a third-party payer that identifies you, your diagnosis, procedures performed, and supplies used in rendering the service. 
 
-You have the right to request that the use and disclosure of your health information be restricted. Be advised however that LSI is not required to agree to the restriction that you requested if it does not comply with applicable law or other government directives.
+**_Health Care Operations_**
 
-You have the right to have your health information received or communicated through an alternative method or sent to an alternative location other than the usual method of communication or delivery, upon your request.
+We will use and disclose your protected health information to support the business activities of our facilities. For example - we may use medical information about you to review and evaluate our treatment and services or to evaluate our staff's performance while caring for you. In addition, we may disclose your health information to third party business associates who perform billing, consulting, or transcription, or other services for our facility.
 
-You have the right to inspect and copy your health information.
+## Other Ways We May Use and Disclose Your Protected Health Information
 
-You have a right to request that LSI amend your protected health information. Be advised however that LSI is not required to agree to amend your protected health information. If your request to amend your health information has been denied, you will be provided with an explanation of the reason your request was denied and information about how you can disagree with the denial.
+**_As Required by Law_**
 
-You have a right to receive an accounting of any disclosure of your protected health information by LSI.
+We will use and disclose your protected health information when required to by federal, state, or local law.
 
-You have a right to a paper copy of this Notice of Privacy Practices at any time upon request.
+**_Appointment Reminders_**
 
-### 3\. Notice of Privacy Practices Changes
+We may use and disclose protected health information to remind you about appointments. If you are not home, we may leave this information with the person answering the phone or on your answering machine. 
 
-LSI may revise this Notice of Privacy Practices at any time. This Notice of Privacy Practices does not constitute, and should not be taken, as a contractual obligation of LSI. Rather this Notice of Privacy Practices is meant to disclose to patients generally what their rights are with respect to LSI and their protected health information. In the event of any doubt of what the law provides beyond the general statements contained in this document, a patient should consult the underlying law including, but not limited to, 45 CFR 164.512 through a legal professional of their own choosing. 
+**_Business Associates_**
 
-### 4\. Questions and Complaints
+There are some services provided in our organization through contracts with business associates. Examples include Radiography services, laboratory tests, billing clearinghouses, attorney/legal services. When these services are contracted, we may disclose your health information so that they can perform the job we've asked them to do and bill you or your third-party payer for services rendered. We require the business associate to appropriately safeguard your information.
 
-If you have questions about any part of this notice, if you want more information about your privacy rights, or if you have a complaint about how LSI has handled your health information please contact Lester Morales at LSI at 813-289-9613. If Lester Morales is not available by telephone, you may make an appointment for a personal conference in person or by telephone within 5 working days after LSI's receipt of a written request for such conference. That request should be addressed to the attention of Lester Morales, Laser Spine Institute, LLC, 3001 N. Rocky Point Drive East, Tampa, Florida 33607.
+**_Lawsuits and Disputes_**
 
-## If you are not satisfied with the manner in which this office handles your complaint, you may submit a formal complaint to:
+We may disclose medical information about you in response to a court or administrative order. We may also disclose medical information about you in response to a subpoena, discovery request, or other lawful process by someone else involved in the dispute, but only if efforts have been made to tell you about the request or to obtain a court order protecting the information requested.
 
-Office for Civil Rights  
-U.S. Department of Health & Human Services  
-61 Forsyth Street, SW. - Suite 3B70  
-Atlanta, GA 30323  
+**_Health Oversight Activities_**
 
+When authorized by law, we may disclose your protected health information to a health oversight agency for purposes of audits, civil or criminal investigations, licensure, and other inspections.
+
+**_Victims of Abuse, Neglect, or Domestic Violence_**
+
+When required by law or if you agree to the report and if we believe that you have been a victim of abuse, neglect, or domestic violence, we may use and disclose your protected health information to notify a government agency.
+
+**_To Avert a Serious Threat to Public Health or Safety_**
+
+We may disclose your health information to (a) a public health authority that is authorized by law to collect information for the purpose of preventing or controlling disease, injury, or disability, including, but not limited to, the reporting of disease, injury, vital events such as birth or death, and the conduct of public health surveillance, public health investigations, and public health interventions; or, at the direction of a public health authority, to an official of a foreign government agency that is acting in collaboration with a public health authority, (b) a public health authority or other appropriate government authority authorized by law to receive reports of child abuse or neglect, (c) to a person subject to the jurisdiction of the Food and Drug Administration (FDA) with respect to a FDA-regulated product or activity for which that person has responsibility, for the purpose of activities related to the quality, safety or effectiveness of such FDA-regulated product or activity such as the collection or reporting of adverse events, product defects or problems, the tracking of FDA-regulated products, to enable product recalls, repairs, or replacement, or to conduct post marketing surveillance or (d) in relation to a public health investigation into whether a person who may have been exposed to a communicable disease or may otherwise be at risk of contracting or spreading a disease or condition so long as the investigating health authority is authorized by law to notify such person as necessary in the conduct of a public health intervention or investigation.
+
+**_Research_**
+
+We may disclose information to researchers when their research has been approved by an Institutional Review Board that has reviewed the research proposal and established protocols to ensure the privacy of your health information.
+
+**_Worker's Compensation_**
+
+We will use and disclose your protected health information for worker's compensation or similar programs that provide benefits for work-related injuries or illness.
+
+## Uses and disclosures that require LSI give you the opportunity to object or "opt out"
+
+**_Others Involved in Your Care_**
+
+We may provide relevant portions of your Protected Health Information (PHI) to a family member, a relative, a close friend, or any other person you identify as being involved in your medical care or payment for care. In an emergency or when you are not capable of agreeing or objecting to these disclosures, we will disclose PHI as we determine is in your best interest, but will tell you about it after the emergency, and give you the opportunity to object to future disclosures to family and friends.
+
+**_Facility Directory_**
+
+Unless you object, we may use and disclose certain limited information about you in our directory while you are in our facilities. This information may include your name and your location within our facility, but will not include specific medical information about you and we may disclose directory information to people who ask for you by name.
+
+## Uses or Disclosures Not Covered by this Notice
+
+Uses or disclosures of your health information not covered by this notice or the laws that apply to us may only be made with your written authorization. You may revoke such authorization in writing at any time and we will no longer disclose health information about you for the reasons stated in your revocation. Disclosures made in reliance on the authorization prior to the revocation are not affected by the revocation. 
+
+## Patient Rights Related to Protected Health Information
+
+Although your health record is the physical property of the facility that compiled it, the information belongs to you. You have the right to: 
+
+**_Request an Amendment_**
+
+You have the right to request that we amend your medical information if you feel that it is incomplete or inaccurate. You must make this request in writing to our Director of Health Information Management, stating what information is incomplete or inaccurate and the reasoning that supports your request. 
+
+We are permitted to deny your request if it is not in writing or does not include a reason to support the request. We may also deny your request if: 
+
+  * The information was not created by us, or the person who created it is no longer available to make the amendment. 
+  * The information is not part of the record which you are permitted to inspect and copy. 
+  * The information is not part of the designated record set kept by this facility or if it is the opinion of the health care provider that the information is accurate and complete. 
+
+
+
+**_Request Restrictions_**
+
+You have the right to request a restriction of how we use or disclose your medical information for treatment, payment, or health care operations. For example - you could request that we not disclose information about a prior treatment to a family member or friend who may be involved in your care or payment for care. Your request must be made in writing to the Director of Health Information Management. 
+
+We are not required to agree to your request if we feel it is in your best interest to use or disclose that information. If we do agree, we will comply with your request except for emergency treatment. 
+
+As stated later in this notice, under HITECH, if a patient pays in full for their services out of pocket they can demand that the information regarding the service not be disclosed to the patient's third party payer since no claim is being made against the third party payer. 
+
+**_Inspect and Copy_**
+
+You have the right to inspect and copy the protected health information that we maintain about you in our designated record set for as long as we maintain that information. This designated record set includes your medical and billing records, as well as any other records we use for making decisions about you. We may charge you a fee for the costs of copying, mailing, or other supplies used in fulfilling your request. 
+
+If you wish to inspect or copy your medical information, you must submit your request in writing to our Director of HIM: Laser Spine Institute, Attention: Mary Mayer, Director of HIM, 3001 N. Rocky Point Drive E., Suite 300, Tampa, FL 33607. You may mail your request, or bring it to the Health Information Management office. We will have 30 days to respond to your request for information that we maintain at our facility. If the information is stored off-site, we are allowed up to 60 days to respond but must inform you of this delay. 
+
+As stated later, HITECH expands this right, giving individuals the right to access their own e-health record in an electronic format and to direct LSI to send the e-health record directly to a third party. LSI may only charge for labor costs under electronic transfers of e-health records. 
+
+**_An Accounting of Disclosures_**
+
+You have the right to request a list of the disclosures of your health information we have made outside of our facility that were not for treatment, payment, or health care operations. Your request must be in writing and must state the time period for the requested information. You may not request information for any dates prior to April 14, 2003, nor for a period of time greater than six years (our legal obligation to retain information). 
+
+Your first request for a list of disclosures within a 12-month period will be free. If you request an additional list within 12-months of the first request, we may charge you a fee for the costs of providing the subsequent list. We will notify you of such costs and afford you the opportunity to withdraw your request before any costs are incurred. 
+
+**_Request Confidential Communications_**
+
+You have the right to request how we communicate with you to preserve your privacy. For example - you may request that we call you only at your work number, e-mail or by mail at a special address or postal box. Your request must be made in writing and must specify how or where we are to contact you. We will accommodate all reasonable requests. 
+
+**_File a Complaint_**
+
+If you believe we have violated your medical information privacy rights, you have the right to file a complaint with our facility or directly to the Secretary of the United States Department of Health and Human Services: U.S. Department of Health & Human Services | 200 Independence Avenue, S.W. | Washington, D.C. 20201. Phone: (202) 619-0257 Toll Free: (877) 696-6775. 
+
+To file a complaint with our facility, you must make it in writing. Provide as much detail as you can about the suspected violation and send it to Laser Spine Institute, c/o Todd Hapiuk, Privacy Officer, at 3001 N. Rocky Point Drive E., Suite 300, Tampa, FL 33607 You will not be retaliated against for filing a complaint. 
+
+**_A Paper Copy of This Notice_**
+
+You have the right to receive a paper copy of this notice, even if you agreed to receive this Notice electronically. You may request a copy of this Notice at any time by contacting our office in writing or by phone.
+
+## HITECH Amendments
+
+LSI is including HITECH Act provisions to its Notice as follows:
+
+**_HITECH Notification Requirements_**
+
+Under HITECH, LSI is required to notify patients whose PHI has been breached. Notification must occur by first class mail within 60 days of the event. A breach occurs when an unauthorized use or disclosure that compromises the privacy or security of PHI poses a significant risk for financial, reputational, or other harm to the individual.   
+This notice must:  
+(1) Contain a brief description of what happened, including the date of the breach and the date of discovery;   
+(2) The steps the individual should take to protect themselves from potential harm resulting from the breach;   
+(3) A brief description of what LSI is doing to investigate the breach, mitigate losses, and to protect against further breaches. 
+
+**_Business Associates_**
+
+LSI's Business Associate Agreements have been amended to provide that all HIPAA security administrative safeguards, physical safeguards, technical safeguards and security policies, procedures, and documentation requirements apply directly to the business associate.
+
+**_Cash Patients/Clients_**
+
+HITECH states that if a patient pays in full for their services out of pocket they can demand that the information regarding the service not be disclosed to the patient's third party payer since no claim is being made against the third party payer.
+
+**_Access to E-Health Records_**
+
+HITECH expands this right, giving individuals the right to access their own e-health record in an electronic format and to direct LSI to send the e-health record directly to a third party. LSI may only charge for labor costs under the new rules.
+
+**_Accounting of E-Health Records for Treatment, Payment, and Health_**
+
+LSI does not currently have to provide an accounting of disclosures of PHI to carry out treatment, payment, and health care operations. However, starting January 1, 2014, the Act will require LSI to provide an accounting of disclosures through an e-health record to carry out treatment, payment, and health care operations. This new accounting requirement is limited to disclosures within the three-year period prior to the individual's request. 
+
+LSI must either: (1) provide an individual with an accounting of such disclosures it made and all of its business associates disclosures; or (2) provide an individual with an accounting of the disclosures made by LSI and a list of business associates, including their contact information, who will be responsible for providing an accounting of such disclosures upon request.
 
 ### Thank You
