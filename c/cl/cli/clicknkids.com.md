@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clicknkids.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310073904id_/http%3A//www.clicknkids.com/Public/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicknkids.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217073138id_/http%3A//www.clicknkids.com/Public/Privacy.php) for the most accurate reproduction.*
 
-# ClickN KIDS® - Privacy Policy
+# Our Privacy Policy : Reading Programs for Kids : Spelling Program : ClickN KIDS, Inc.
 
 ClickN KIDS, Inc., its subsidiaries and affiliates ("ClickN KIDS") values and protects your privacy. We thank you for the trust that you place in us and we want you to know that the information you share with us will be treated with care.
 
