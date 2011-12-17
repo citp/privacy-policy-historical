@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thismamacooks.com privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023120604id_/http%3A//www.thismamacooks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thismamacooks.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217065516id_/http%3A//www.thismamacooks.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy for This Mama Cook! On a Diet and This Mama Cooks! Reviews | This Mama Cooks!
+# Privacy policy for This Mama Cook! On a Diet and This Mama Cooks! Reviews | This Mama Cooks! On a Diet™
 
 This Mama Cooks LLC has created this privacy statement in order to demonstrate a firm commitment to privacy. The following discloses my information gathering and dissemination practices for [thismamacooks.com](https://web.archive.org/) and [thismamacooks.net](http://www.thismamacooks.net/).
 
@@ -29,7 +29,5 @@ This site gives users the option to remove their information from our mailing li
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this blog, fill out my [contact form](http://www.thismamacooks.com/contact-me).
 
 _**Updated 8/25/10**_
-
-[](http://www.naturalgrocers.com/index.php?ref=202&affiliate_banner_id=2)
 
 Posted on August 12, 2008 in 
