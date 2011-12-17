@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vexxhost.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421230059id_/http%3A//vexxhost.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vexxhost.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217061621id_/http%3A//vexxhost.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # WEB HOSTING : Privacy Policy : Affordable & Reliable | vexxhost.com
 
