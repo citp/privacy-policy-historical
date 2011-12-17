@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5min.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629170100id_/http%3A//www.5min.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5min.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217024213id_/http%3A//www.5min.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # 5min - Life Videopedia
 
@@ -10,7 +10,7 @@ We may update this Privacy Policy from time to time. We will advise you that cha
 
 If you have any questions regarding 5min's policies or practices relating to privacy, please direct them to [privacy@5min.com](mailto:privacy@5min.com)
 
-This Privacy Policy was last updated on February 14, 2007. 
+This Privacy Policy was last updated on August 15, 2011. 
 
 Collection and Use of Information 
 
@@ -19,6 +19,8 @@ While using the 5min Service you may, among other things, gather information on 
 We may automatically collect certain aggregated data regarding use of the 5min Service, like the number of users and frequency and manner of usage of the 5min Service. We may also collect aggregated information regarding the use of our subscription-based service network, such as the extent to which certain features are used. Aggregated information is anonymous, statistical information that reflects the scope of our user base, sales, customer patterns and related site information. We use this information to better understanding how the 5min Service is used, and to improve the online experience of our users. This information is not used in a way that will personally identify you. 
 
 Similarly, we may also use cookies to track and understand the traffic on our website. Cookies are alphanumeric identifiers that our website places onto your computer's hard drive. Cookies identify your computer hard drive so that we can recognize you the next time you visit us. We use cookies to collect and store some information about you, such as the name of the domain and host from which you access the Internet, the Internet Protocol (IP) address of the computer you are using, the date and time you access our website and the Internet address of the website from which you linked directly to our website. We use this information to better understand our users and customize our site for users' particular preferences. In the same manner, we may also engage third parties to monitor the usage of the 5min Service. These third parties may use cookies and web beacons (which collect non-personally identifiable information regarding user behavior on our website) to collect such information, which is also used to better understand our users and customize our site for users' particular preferences. You may disable cookies by following directions on your web browser. Disabling cookies also disables web beacons. You should be aware, however, that by disabling cookies you may be unable to access certain services and features of the 5min Service. 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (such as click stream information, browser type, time and date, subject of advertisements viewed or clicked) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the [Network Advertising Initiative Opt-Out page.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 We may collect personally identifiable information from you when you seek access to certain portions of the 5min Service, publish content, and/or register for our services. This information may include, but is not limited to, your name, physical and e-mail addresses, phone and/or fax numbers, Internet address, type of computer or other payment information, as well as your preferences and usage patterns. This information may be used to fulfill your requests for services, to communicate with you about your account, to support your online activities, to respond to your questions, to customize your experience and to customize the content or features of the 5min Service. We may use your personally identifiable information to notify you of changes to the 5min Service, Terms of Use and/or Privacy Policy. We may also use your personally identifiable information to personalize your interactive experience on the 5min Service. For example, if you have given us permission, we may use your information to inform you of other products or services that you may find valuable. We may also use the information you provide to make improvements that better serve our users' needs. 
 
@@ -60,7 +62,7 @@ Contact Information for 5min
 You can contact us at: 
 
 5min Media  
-10 West 18th Street  
-New York, 10011 
+770 Broadway, 5th floor  
+New York, NY, 10003 
 
 You may also use the [Contact Us](http://www.5min.com/Info/ContactUs.aspx) page 
