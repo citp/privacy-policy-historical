@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329230031id_/http%3A//www.lifetips.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetips.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217080316id_/http%3A//www.lifetips.com/about/privacy.html) for the most accurate reproduction.*
 
 # LifeTips Privacy Statement
-
-  
-  
-| 
-
-### Privacy Statement
 
   * We care about protecting your privacy, especially the privacy of children under the age of 13. 
   * We will not rent, sell or give away your e-mail address to any marketer or spammer. You will not wind up on any spam list by signing-up for a lifetips.com newsletter. **Guaranteed**. 
@@ -30,11 +24,11 @@ This notice is to inform you about the policies for collection and use of person
 
 6\. You can terminate your membership at any time. If you wish to unsubscribe, just log on to your MyLifetips account and click on the trash can for each newsletter you wish to unsubscribe from. 
 
-To request that we not share your personal information with third parties (in cases where you previously granted us permission to share such information - we do not share your personal information with third parties without your permission), you can call our office at 617-886-9001. The request will be honored as soon as we receive it, but does not affect any information which you provided to us and which we shared with third parties with your consent prior to our receipt of such request. 
+To request that we not share your personal information with third parties (in cases where you previously granted us permission to share such information - we do not share your personal information with third parties without your permission), you can call our office at 617-227-8800. The request will be honored as soon as we receive it, but does not affect any information which you provided to us and which we shared with third parties with your consent prior to our receipt of such request. 
 
-To request that we not share your personal information with sponsors (in cases where you previously granted us permission to share such information - we do not share your personal information with sponsors without your permission), you can call our office at 617-886-9001. The request will be honored as soon as we receive it, but does not affect any information which you provided to us and which we shared with sponsors with your consent prior to our receipt of such request. 
+To request that we not share your personal information with sponsors (in cases where you previously granted us permission to share such information - we do not share your personal information with sponsors without your permission), you can call our office at 617-227-8800. The request will be honored as soon as we receive it, but does not affect any information which you provided to us and which we shared with sponsors with your consent prior to our receipt of such request. 
 
-To have all of your personal information removed from our database, you can call our office at 617-886-9001. At the current time, we are not able to offer users the direct ability to delete their personal information from our database, but we will be happy to delete such information after we receive a request to that effect. 
+To have all of your personal information removed from our database, you can call our office at 617-227-8800. At the current time, we are not able to offer users the direct ability to delete their personal information from our database, but we will be happy to delete such information after we receive a request to that effect. 
 
 7\. We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features. 
 
@@ -46,9 +40,7 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 LifeTips.com  
-One First Avenue  
-Bldg 34, Suite 200  
-Charlestown, MA 02129  
-617-886-9001  
-  
----|---
+240 Commercial St  
+Suite 3B  
+Boston, MA 02109  
+617-227-8800
