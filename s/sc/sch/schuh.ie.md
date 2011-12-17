@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schuh.ie privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617034615id_/http%3A//ie.schuh.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schuh.ie privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217215413id_/http%3A//ie.schuh.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Schuh
 
@@ -10,7 +10,7 @@ We are committed to protecting your privacy and the security of any information 
 
 We will not gather or hold personal information about you unless you have given your express permission for us to do so. By placing an order, you will consent to the use of such personal information.
 
-Any personal information held or processed will be kept up-to-date and will be destroyed as soon as the reason for its collection or processing has lapsed. No personal data about customers will be passed to any third party, except to fulfil the delivery of the goods to you, and as is necessary to process credit or debit card payments.
+Any personal information held or processed will be kept up-to-date and will be destroyed as soon as the reason for its collection or processing has lapsed. No personal data about customers will be passed to any third party, except to offer you the opportunity to purchase from us, to fulfil the delivery of the goods to you, and as is necessary to process credit or debit card payments.
 
 Your privacy and confidence will be respected at all times.
 
@@ -22,9 +22,13 @@ This information may be provided to third party service providers for the purpos
 
 We may use your e-mail address to provide you with information on products, services, promotions and special offers where you have indicated that this is acceptable by checking the box on the ‘Delivery details page.
 
+If you supply your email address without placing an order, we may pass your email to a third party organisation in order to offer you the opportunity to purchase from us. Your email address will not be used for any other purpose and will not be held on file by ourselves or any third parties after the reason for collecting it has lapsed.
+
+Should you wish to stop recieving emails from schuh, you can unsubscribe using the 'unsubscribe' link at the bottom of the emails, by changing your update preferences in the 'My Details' section of 'My Account' at www.schuh.co.uk, or by emailing whatsnew@schuh.co.uk with your unsubscribe request. 
+
 #### Third parties
 
-We will not sell or pass your details to third party organisations except for the purpose of processing your offer to purchase the goods.
+We will not sell or pass your details to third party organisations except to offer you the opportunity to purchase from us, to fulfil delivery of the goods to you and for the purpose of processing your offer to purchase the goods.
 
 #### Consent
 
@@ -32,13 +36,62 @@ By making offer to purchase Goods you consent to the information you provide to 
 
 #### Cookies
 
-Cookies are small pieces of information that are sent from your browser to our web server.
+Cookies are small pieces of information in the form of text files that are sent to your browser from our web server and are stored on your computer.
 
-On this web site, cookies are used to keep track of the items you place in your shopping basket. These cookies expire after 2 days.
+Cookies are essential to using the Schuh website, as they gather information on the type of platform you’re using to view our website e.g. Windows, IPhone, PS3. We use this information to optimise our website for your particular platform, so that you have the best experience no matter which platform you use. Below are some examples of how we use cookies to do this:
 
-We do not store any personal information in the cookie; they are designed only to collect information of an anonymous nature. We will not combine such anonymous information with your personal details.
+  * To gather information which allows us to identify your platform and record sales so we may improve customer experience and identify issues on the site.
+  * To ensure you are provided with correct and useful information during your visit to our site. 
+  * To allow you to add items to the basket and proceed through our checkout. 
+  * To collect data which allows us to improve our services based on purchases and site usage.
 
-You will need to ensure your cookies are enabled to allow you to purchase from our site.
+
+
+There are three different categories these cookies are split into: 
+
+  * Essential to Site function cookies – these cookies allow you to browse the site, search for products and add items to the basket.
+  * Helpful, non intrusive cookies – these help improve your experience on the site, for example by recognising your location therefore displaying appropriate delivery options in a banner, and reminding you of your recently viewed items.
+  * Third Party Cookies – to help us record customer experience and to allow us to test new services, to help us improve the customer journey on the website.
+
+Essential to site function  
+---  
+Cookie Name | Function | Duration  
+ASP.Net_Sessionid | A cookie generated by our ASP .NET development platform to allow the site to display properly. | Browser close  
+cookieTest | A test to see if the customers browser accepts cookies | 100 years  
+schuhBasket | Used to allow customers to add items to their basket and checkout | 4 hours  
+schuhCookieLogin | Allows the customer to remain logged into the ‘My Account’ area | 20 minutes / Indefinite(depending on option selected at login)  
+searchRefineBrand | Allows the customer to refine their search results | 1 day  
+searchRefineCat2 | Allows the customer to refine their search results | 1 day  
+searchRefineCat3 | Allows the customer to refine their search results | 1 day  
+searchRefineColour | Allows the customer to refine their search results | 1 day  
+searchRefineGender | Allows the customer to refine their search results | 1 day  
+searchRefineHeelHeight | Allows the customer to refine their search results | 1 day  
+searchRefineLastPage | Allows the customer to refine their search results | 1 day  
+searchRefineMaterial | Allows the customer to refine their search results | 1 day  
+searchRefinePrice | Allows the customer to refine their search results | 1 day  
+searchRefineSize | Allows the customer to refine their search results | 1 day  
+SchWeb | Allows for friendly URL’s, and detecting whether the customer has entered via the Irish or UK site. | 100 years  
+schuhApplication | Allows application form validation and allows the customer to resume an application | 1 hour  
+Helpful, Non-Intrusive cookies  
+---  
+Cookie Name | Function | Duration  
+schuhGeo | Allows us to ascertain the customers current location | 100 years  
+schuhMobile | Allows us to determain if the customer has chosen to view the mobile site or full site | 100 years  
+schuhRecentlyViewed | Allows the customer to see their recently viewed products | 1 day  
+searchCount | Allows us to capture useful information on how many results a customers search returns, to better improve the search facility. | 1 minute  
+affiliateTrackingCookie | If you’ve ever used an affiliate during your purchase at Schuh, this cookie will remember the affiliate. | 30 days  
+schuhSession | Holds a randomly generated string of characters, which is used to uniquely gather information on your site activity, to allow for a better customer experience in future. | 360 days  
+Third party cookies  
+---  
+Cookie Name | Function | Duration  
+Google | Google Analytics - site analytics to gather user information to improve the customer experience | Either closes on browser close, or varies between 30 mins and 1 year  
+Adobe | Test & Target – testing content to give the customer the best experience | 20 minutes  
+Adobe | SiteCatalyst – site analytics to gather user information to improve the customer experience | Browser close  
+Criteo | Displays Schuh products similar to those customers have recently viewed on the Schuh site in ad banners on participating websites. | Either closes on browser close, or varies between 1 month and 20 years  
+  
+We have detailed each of the cookies we use, the reason and their duration in the three tables below – split into the groups detailed above.
+
+You can choose not to allow cookies in your browser settings, but to be able to purchase from our site you will need to ensure your cookies are enabled. More information on cookies, their use and how to accept or reject them can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
 #### Security
 
@@ -46,6 +99,12 @@ The security of your transaction is important to us and to prevent any details b
 
 #### Subject Access Request
 
-On your written request, we will (within 40 days of such a request being received by us) supply to you details of the personal information which we hold about you. You must explain to us clearly the information you require to be supplied: we are not obliged to supply to you information which is not specifically requested by you. Under the terms of the Data Protection Act 1998, we are entitled to charge you £10.00 for the provision of information following our receipt of such a request. Once we have received your written request and payment of the fee, we will respond to your request within 40 days.
+On your written request, we will (within 40 days of such a request being received by us) supply to you details of the personal information which we hold about you. You must explain to us clearly the information you require to be supplied: we are not obliged to supply to you information which is not specifically requested by you. Under the terms of the Data Protection Act 1998, we are entitled to charge you €10.00 for the provision of information following our receipt of such a request. Once we have received your written request and payment of the fee, we will respond to your request within 40 days.
 
 You should note that, under certain circumstances, we will not be obliged to disclose the requested information to you, in which case we will explain to you the reasons for our refusal.
+
+#### Contact Details
+
+If you have any queries about these terms and conditions, or any other aspect of our website, or you have a complaint, you can phone us on 0845 307 2484 (local rate), or e-mail us at [help@schuh.co.uk](mailto:help@schuh.co.uk) or write to us at: Schuh Customer Service Team, 1 Neilson Square, Deans Industrial Estate, Livingston, EH54 8RQ.
+
+We shall respond to any communication received by us as quickly as we can.
