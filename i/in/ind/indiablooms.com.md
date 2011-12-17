@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiablooms.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123210253id_/http%3A//indiablooms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiablooms.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217123239id_/http%3A//www.indiablooms.com/privacy.php) for the most accurate reproduction.*
 
 # Portal on Indian News | Indian News Portal | Indian News Online | Latest Indian News |Current Indian News | News From India
 
