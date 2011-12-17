@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the carowinds.com privacy policy that was archived on 2010-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100924232323id_/http%3A//www.carowinds.com/public/news/general/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carowinds.com privacy policy that was archived on 2011-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217033314id_/http%3A//www.carowinds.com/public/news/general/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" class="cufon-active cufon-ready"><head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 		
 		
@@ -18,30 +18,47 @@
 		<link rel="stylesheet" media="screen" href="/_includes/styles/quickmenu.css" type="text/css">
 		<link rel="stylesheet" media="screen" href="/_includes/styles/carousel.css" type="text/css">
 		<link rel="stylesheet" media="screen" href="/_includes/styles/colorbox.css" type="text/css">
-		<link rel="stylesheet" type="text/css" href="/_includes/styles/jquery-ui-cc.css">
+		<link rel="stylesheet" media="screen" href="/_includes/styles/jquery-ui-cc.css" type="text/css">
 		
-		
-			<link rel="stylesheet" media="screen" href="/_includes/styles/full_graphics.css" type="text/css">
-		
-		
-		<script src="/_c4/_scripts/flash_obj.js" type="text/javascript"></script><script type="text/javascript" src="/_c4/_scripts/swfobject.js"></script>
-		<script src="/_includes/javascript/mm.js" type="text/javascript"></script>
-		<script src="/_includes/javascript/popup.js" type="text/javascript"></script>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/_c4/_scripts/flash_obj.js" type="text/javascript"></script><script type="text/javascript" src="/_c4/_scripts/swfobject.js"></script>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
-		<script src="/_includes/javascript/jquery.sifr.min.js" type="text/javascript"></script>
-		<script src="/_includes/javascript/jquery.flash.min.js" type="text/javascript"></script>
-		<script type="text/javascript" src="/_includes/javascript/colorbox.js"></script> 
+		<script type="text/javascript" src="/_includes/javascript/cufon.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style> 
+		<script type="text/javascript" src="/_includes/javascript/Syntax_LT_Std_700-Syntax_LT_Std_800.font.js"></script> 
+		<script src="/_includes/javascript/colorbox.js" type="text/javascript"></script> 
+		<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 		<script src="http://www.google.com/jsapi" type="text/javascript"></script>
-	    <script type="text/javascript">
-	      google.load("swfobject", "2.1");
-	    </script>   
+		<script src="/_includes/javascript/jcarousellite_1.0.1.pack.js" type="text/javascript"></script>
 		
 		<script language="javascript" type="text/javascript">
+			Cufon.replace('h1');
+			
+			function popupVideoYT(id) {
+					$('#popupVideoYT').html('<iframe width="800" height="450" frameborder="0" title="YouTube video player" type="text/html" src="http://www.youtube.com/embed/'+id+'?theme=light&amp;autohide=1&amp;rel=0&amp;showinfo=0&amp;modestbranding=1&amp;fs=1&amp;color=white&amp;enablejsapi=1&amp;autoplay=1&amp;origin=http://www.carowinds.com"></iframe>');
+					$.colorbox({width:"900", height:"650",inline:true, href:"#popupVideoYT",onCleanup:function() { $('#popupVideoYT').html(''); }});
+				}
+			
 			$(document).ready(function() {
-				$("h1").sifr({path: '/_includes/flash/fonts/', font: 'syntaxltstd-bold', color: '#00529b', width: '500', fontSize: '32px', height: '36'})
+				$(document).ready(function() {
+					if ($('#leftSidebar')[0]) { 
+						var maxSidebarPanelHeight = $('#textArea').height() + $('#textArea').position().top;
+						/*if (($('#socialMediaPanels').offset().top+$('#socialMediaPanels').height()) > maxSidebarPanelHeight) {
+							$('#socialMediaPanels').hide();
+						}*/
+						$('.panelAutoHide').each(function(panel) {
+							var panelBottomY = $(this).offset().top+$(this).height();
+							if (panelBottomY > maxSidebarPanelHeight) {
+								$(this).hide();
+							}
+						})
+						$('#leftSidebarPanelSet').css('position','static')
+						$('.leftSidebarPanel').css('visibility','visible');
+					}
+				})
 			});
 		</script>
+		
+		
 
 		<link rel="icon" type="image/png" href="/_includes/images/favicon.png">
 	
@@ -49,10 +66,99 @@
 	<script>
 		mediaserver_path = 'http://cfcc.media.cfnslb1.cedarfair.com'
 	</script>
+	
+	<script type="text/javascript">
+	/* <![CDATA[ */	
+	var _gaq = _gaq || [];
+	_gaq.push(
+		['_setAccount', 'UA-30018-8'],
+		['_setDomainName', 'carowinds.com'],
+		['_setAllowLinker', true],
+		['_trackPageview']
+	);
+	
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	
+	
+	try {
+	
+		function appendEvent() {
+			var bep = document.links;
+			var hrf = "";
+			var ext = [".jpg",".jpeg",".gif",".pdf",".avi",".zip",".png",".doc",".xls",".docx",".xlsx",".txt",".mov",".flv",".mpg",".m4v"];
+			for (i=0; i < bep.length; i++) {
+				var isLinkTrackable = false;
+				hrf = bep[i].href.toLowerCase();
+				// if the link is not of type javascript nor a mail tag, check the extension to see if match occurs; 
+				// if so, append an onClick event
+				if (hrf.indexOf("javascript:") < 0 && hrf.indexOf("mailto:") < 0) {
+					for (j=0; j < ext.length; j++) {
+						if (hrf.indexOf(ext[j]) >= 0)  {
+							isLinkTrackable = true;
+							bep[i].onclick = trackLink;
+							if (bep[i].captureEvents) bep[i].captureEvents(Event.CLICK);
+						} 
+					} 
+					// if the link goes to an external site, append an onClick event
+					if (!isLinkTrackable && (getDomain(hrf) != document.domain) && String(bep[i].rel).toLowerCase() != "noga" && String(bep[i].rel).toLowerCase() != "nofollow") {
+						//if (bep[i].target != "") {
+						//	bep[i].onclick = domainTarget;
+						//} 
+						//else {
+						//	bep[i].onclick = domainLink;
+						//}
+						if (bep[i].captureEvents) bep[i].captureEvents(Event.CLICK);
+					}
+				} 
+			}
+		}
+	
+		function trackLink() {
+			var link = this.href;
+			var linkArray = link.split(".");
+			var fileExt = linkArray[linkArray.length-1];
+			_gaq.push(['_trackPageView', '/downloads/'+fileExt+'/'+link]);
+		}
+		
+		function domainLink() {
+			_gaq.push(['_link', this.href]);
+		}
+		
+		function domainTarget() {
+			_gaq.push(['_link', this.href]);
+		}
+		
+		function getDomain(str) {
+			if (str.indexOf("http://") == 0) {
+				str = str.substring(7,str.length);
+			}
+			str = str.split('/')[0];
+			return str;
+		}
+	
+		$(document).ready(function() {
+			appendEvent();
+		});
+	} 
+	catch (err) {
+	}
+	
+	
+	/* ]]> */
+	</script>
 	</head>
 	<body>
+	<div style="display:none">
+		<div id="popupVideoYT" style="padding:10px; background:#fff; height: 550px;">
+		</div>
+	</div>
 		<div id="content"><div id="header">
 				<div id="topArea">
+					
 					<div id="logo">
 						<a href="/">
 							<img src="/_includes/images/logo_cc.png" alt="Carowinds" width="238" height="56">
@@ -63,14 +169,16 @@
                     	<div class="ecommerce">
 					         <div class="nav"><a href="http://tickets.carowinds.com/shop/shopping_general_admission.cfm" target="_blank"><img height="30" width="117" src="/_includes/images/navigation/nav_btn_tickets.gif" alt="Buy Tickets"></a><a href="http://tickets.carowinds.com/shop/shopping_season_pass.cfm" target="_blank"><img height="30" width="134" src="/_includes/images/navigation/nav_btn_seasonpasses.gif" alt="Buy Season Passes"></a><a href="https://secure.bookyoursite.com/Go?park=campwilderness" target="_blank"><img height="30" width="195" src="/_includes/images/navigation/nav_btn_campground.gif" alt="Campground Reservations"></a></div>
 <div class="corporate"><img src="/_includes/images/navigation/nav_corporatepartners.gif" alt="Corporate Partner / Promo Code">
-<form name="corpForm" method="post" action="/_programs/forms/corporate_partners/corpFormProcess.cfm" target="_blank">
-    <input type="text" name="product_corporate_id" size="16" id="product_corporate_id"><input type="submit" name="button" value="" class="go"><input type="hidden" name="corpPost" value="1">
+<form name="corpForm" target="_blank" action="/_programs/forms/corporate_partners/corpFormProcess.cfm" method="post">
+    <input type="text" name="product_corporate_id" size="16" id="product_corporate_id"><input type="submit" value="" name="button" class="go"><input type="hidden" value="1" name="corpPost">
 </form>
 </div> 
             
        					 </div>
 						<div id="hours">
-							<strong>Today's Hours</strong> <span>7:00pm - midnight</span> 
+							
+								<strong>Carowinds is closed today.</strong>
+							
 						</div>
 					</div>
 				</div>
@@ -128,7 +236,7 @@
 
 		<!-- This is a stub for Site Map-->
 
-<div class="qmmc" id="qm0" style="zoom: 1; z-index: 11;"><a class="qmparent" id="navmenu_3" href="/public/admission/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Admission.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_3" style="z-index: 21;"><a target="_blank" href="http://tickets.carowinds.com/" id="navmenu_95">Buy Online</a><a href="/public/admission/prices/index.cfm" id="navmenu_96">Pricing</a><a href="/public/admission/prices/deals.cfm" id="navmenu_97">Deals and Discounts</a><a href="/public/admission/passes/index.cfm" id="navmenu_98">Season Pass Central</a><a href="/public/admission/groups/index.cfm" id="navmenu_99">Group Sales</a></div><a class="qmparent" id="navmenu_4" href="/public/visit/schedule/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_ParkHours.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_4" style="z-index: 21;"><a href="/public/visit/schedule/index.cfm" id="navmenu_188">Carowinds Hours</a><a href="/public/visit/schedule/boomerang_bay.cfm" id="navmenu_85">Boomerang Bay Hours</a><a href="/public/visit/schedule/scarowinds.cfm" id="navmenu_177">Scarowinds Hours</a><a href="/public/visit/schedule/events.cfm" id="navmenu_86">Events Calendar</a></div><a class="qmparent" id="navmenu_5" href="/public/visit/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Planning.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_5" style="z-index: 21;"><a href="/public/visit/today/index.cfm" id="navmenu_87">Today in the Park</a><a href="/public/visit/schedule/events.cfm" id="navmenu_88">Events Calendar</a><a href="/public/visit/brochures.cfm" id="navmenu_89">Brochures</a><a href="/public/visit/directions/index.cfm" id="navmenu_90">Getting Here</a><a href="/public/visit/trip_tips.cfm" id="navmenu_91">Trip Tips</a><a href="/public/visit/pet_kennel.cfm" id="navmenu_92">Pet Kennel</a><a href="/public/visit/about_the_area.cfm" id="navmenu_94">About the Area</a><a href="/public/visit/howlofest.cfm" id="navmenu_388">Howl-O-Fest's Boo Blast</a></div><a class="qmparent" id="navmenu_6" href="/public/visit/accommodations/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Accommodations.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_6" style="z-index: 21;"><a href="/public/visit/accommodations/camp_wilderness/index.cfm" id="navmenu_78">Camp Wilderness Campground</a><a target="_blank" href="http://www.carolinavisitor.com/packages/view/00000001/false/" id="navmenu_79">Preferred Hotels &amp; Attractions</a></div><a class="qmparent" id="navmenu_7" href="/public/park/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_InsidethePark.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_7" style="z-index: 21;"><a href="/public/park/map/index.cfm" id="navmenu_57">Park Map</a><a href="/public/park/rides/index.cfm" id="navmenu_187">Rides</a><a href="/public/park/boomerang_bay/index.cfm" id="navmenu_58">Boomerang Bay</a><a href="/public/park/shows/index.cfm" id="navmenu_59">Live Shows</a><a href="/public/park/food/index.cfm" id="navmenu_60">Food</a><a href="/public/park/shopping/index.cfm" id="navmenu_61">Shopping</a><a href="/public/park/games/index.cfm" id="navmenu_62">Games</a><a href="/public/park/kids/index.cfm" id="navmenu_63">Kids</a></div><a class="qmparent" id="navmenu_8" href="/public/park/rides/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Attractions.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_8" style="z-index: 21;"><a href="/public/park/rides/roller_coasters/index.cfm" id="navmenu_13">Roller Coasters</a><a href="/public/park/rides/thrill_rides/index.cfm" id="navmenu_14">Thrill Rides</a><a href="/public/park/rides/childrens_rides/index.cfm" id="navmenu_15">Children's Rides</a><a href="/public/park/rides/family_rides/index.cfm" id="navmenu_16">Family Rides</a><a href="/public/park/rides/water_rides/index.cfm" id="navmenu_17">Water Rides</a><a href="/public/park/rides/boomerang_bay/index.cfm" id="navmenu_64">Boomerang Bay</a><a href="/public/park/rides/height_guide.cfm" id="navmenu_387">Height Guide</a><a href="/public/park/rides/policies.cfm" id="navmenu_18">Policies and Procedures</a></div><a class="qmparent" id="navmenu_9" href="/public/news/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_News.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_9" style="z-index: 21;"><a href="/public/news/whats_new_2011.cfm" id="navmenu_390">What's New for 2011</a><a href="/public/news/media/index.cfm" id="navmenu_148">Media Center</a><a href="/public/news/charitable/index.cfm" id="navmenu_149">Carowinds Cares Charitable Program</a><a href="/public/news/funtimes/index.cfm" id="navmenu_150">FUNtimes Newsletter</a><a href="/public/news/company/index.cfm" id="navmenu_152">Company Information</a></div><a class="qmparent" id="navmenu_10" href="/public/fun/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_OnlineFun.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_10" style="z-index: 21;"><a href="/public/fun/webcams/index.cfm" id="navmenu_133">Webcams</a><a href="/public/fun/blog/index.cfm" id="navmenu_134">Caro-Blog!</a><a href="/public/fun/downloads/index.cfm" id="navmenu_135">Downloads</a><a href="/public/news/funtimes/index.cfm" id="navmenu_136">FUNtimes Newsletter</a><a target="_blank" href="http://www.facebook.com/pages/Charlotte-NC/Carowinds-Amusement-Park/91085023598" id="navmenu_137">Facebook</a><a target="_blank" href="http://twitter.com/carowindsPR" id="navmenu_138">Twitter</a><a target="_blank" href="http://www.youtube.com/CarowindsPR" id="navmenu_139">YouTube</a><a href="http://m.carowinds.com" id="navmenu_140">Mobile Site</a></div><a class="qmparent" id="navmenu_11" href="http://tickets.carowinds.com/"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Store.gif" target="_blank" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_11" style="z-index: 21;"><a target="_blank" href="http://tickets.carowinds.com/" id="navmenu_129">Tickets &amp; Passes</a><a target="new" href="http://marketplace.carowinds.com" id="navmenu_130">Merchandise</a><a href="http://tickets.carowinds.com/shopping_corporate_partners.cfm" id="navmenu_132">Corporate Partners</a></div><a class="qmparent" id="navmenu_12" href="/public/jobs/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Jobs.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_12" style="z-index: 21;"><a href="/public/jobs/applying/index.cfm" id="navmenu_141">Apply Online Now</a><a href="/public/jobs/positions/index.cfm" id="navmenu_142">Available Positions</a><a href="/public/jobs/internships.cfm" id="navmenu_145">Internships</a><a href="/public/jobs/workamper.cfm" id="navmenu_144">Workamper Program</a><a href="/public/jobs/scarowinds.cfm" id="navmenu_180">Scarowinds Jobs</a><a href="/public/jobs/schedule/index.cfm" id="navmenu_181">Associate Scheduling</a><a href="/public/jobs/fundraising/index.cfm" id="navmenu_143">Fundraising</a></div><span class="qmclear"> </span></div> 
+<div class="qmmc" id="qm0" style="zoom: 1; z-index: 11;"><a class="qmparent" id="navmenu_3" href="/public/admission/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Admission.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_3" style="z-index: 21;"><a target="_blank" href="http://tickets.carowinds.com/" id="navmenu_95">Buy Online</a><a href="/public/admission/prices/index.cfm" id="navmenu_96">Pricing</a><a href="/public/admission/prices/deals.cfm" id="navmenu_97">Deals and Discounts</a><a href="/public/admission/passes/2012.cfm" id="navmenu_98">Season Pass Central</a><a href="/public/admission/groups/index.cfm" id="navmenu_99">Group Sales</a></div><a class="qmparent" id="navmenu_4" href="/public/visit/schedule/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_ParkHours.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_4" style="z-index: 21;"><a href="/public/visit/schedule/index.cfm" id="navmenu_188">Carowinds Hours</a><a href="/public/visit/schedule/boomerang_bay.cfm" id="navmenu_85">Boomerang Bay Hours</a><a href="/public/visit/schedule/scarowinds.cfm" id="navmenu_177">Scarowinds Hours</a><a href="/public/visit/schedule/events.cfm" id="navmenu_86">Events Calendar</a></div><a class="qmparent" id="navmenu_5" href="/public/visit/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Planning.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_5" style="z-index: 21;"><a href="/public/visit/today/index.cfm" id="navmenu_87">Today in the Park</a><a href="/public/visit/schedule/events.cfm" id="navmenu_88">Events Calendar</a><a href="/public/visit/brochures.cfm" id="navmenu_89">Brochures</a><a href="/public/visit/directions/index.cfm" id="navmenu_90">Getting Here</a><a href="/public/visit/trip_tips.cfm" id="navmenu_91">Trip Tips</a><a href="/public/visit/pet_kennel.cfm" id="navmenu_92">Pet Kennel</a><a href="/public/visit/about_the_area.cfm" id="navmenu_94">About the Area</a><a href="/public/visit/howlofest.cfm" id="navmenu_388">Howl-O-Fest's Boo Blast</a></div><a class="qmparent" id="navmenu_6" href="/public/visit/accommodations/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Accommodations.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_6" style="z-index: 21;"><a href="/public/visit/accommodations/camp_wilderness/index.cfm" id="navmenu_78">Camp Wilderness Campground</a><a target="_blank" href="http://www.carolinavisitor.com/packages/view/00000001/false/" id="navmenu_79">Preferred Hotels &amp; Attractions</a></div><a class="qmparent" id="navmenu_7" href="/public/park/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_InsidethePark.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_7" style="z-index: 21;"><a href="/public/park/map/index.cfm" id="navmenu_57">Park Map</a><a href="/public/park/rides/index.cfm" id="navmenu_187">Rides</a><a href="/public/park/boomerang_bay/index.cfm" id="navmenu_58">Boomerang Bay</a><a href="/public/park/shows/index.cfm" id="navmenu_59">Live Shows</a><a href="/public/park/food/index.cfm" id="navmenu_60">Food</a><a href="/public/park/shopping/index.cfm" id="navmenu_61">Shopping</a><a href="/public/park/games/index.cfm" id="navmenu_62">Games</a><a href="/public/park/kids/index.cfm" id="navmenu_63">Kids</a></div><a class="qmparent" id="navmenu_8" href="/public/park/rides/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Attractions.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_8" style="z-index: 21;"><a href="/public/park/rides/roller_coasters/index.cfm" id="navmenu_13">Roller Coasters</a><a href="/public/park/rides/thrill_rides/index.cfm" id="navmenu_14">Thrill Rides</a><a href="/public/park/rides/childrens_rides/index.cfm" id="navmenu_15">Children's Rides</a><a href="/public/park/rides/family_rides/index.cfm" id="navmenu_16">Family Rides</a><a href="/public/park/rides/water_rides/index.cfm" id="navmenu_17">Water Rides</a><a href="/public/park/rides/boomerang_bay/index.cfm" id="navmenu_64">Boomerang Bay</a><a href="/public/park/rides/height_guide.cfm" id="navmenu_387">Height Guide</a><a href="/public/park/rides/policies.cfm" id="navmenu_18">Policies and Procedures</a></div><a class="qmparent" id="navmenu_9" href="/public/news/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_News.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_9" style="z-index: 21;"><a href="/public/news/whats_new_2011.cfm" id="navmenu_390">What's New for 2011</a><a href="/public/news/media/index.cfm" id="navmenu_148">Media Center</a><a href="/public/news/charitable/index.cfm" id="navmenu_149">Carowinds Cares Charitable Program</a><a href="/public/news/funtimes/index.cfm" id="navmenu_150">FUNtimes Newsletter</a><a href="/public/news/company/index.cfm" id="navmenu_152">Company Information</a></div><a class="qmparent" id="navmenu_10" href="/public/fun/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_OnlineFun.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_10" style="z-index: 21;"><a href="/public/fun/webcams/index.cfm" id="navmenu_133">Webcams</a><a href="/public/fun/blog/index.cfm" id="navmenu_134">Caro-Blog!</a><a href="/public/fun/downloads/index.cfm" id="navmenu_135">Socialize</a><a href="/public/news/funtimes/index.cfm" id="navmenu_136">FUNtimes Newsletter</a><a href="http://m.carowinds.com" id="navmenu_140">Mobile Site</a></div><a class="qmparent" id="navmenu_11" href="http://tickets.carowinds.com/"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Store.gif" target="_blank" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_11" style="z-index: 21;"><a target="_blank" href="http://tickets.carowinds.com/" id="navmenu_129">Tickets &amp; Passes</a><a target="new" href="http://marketplace.carowinds.com" id="navmenu_130">Merchandise</a><a href="http://tickets.carowinds.com/shopping_corporate_partners.cfm" id="navmenu_132">Corporate Partners</a></div><a class="qmparent" id="navmenu_12" href="/public/jobs/index.cfm"><img class="qm-is qm-ih" src="/_includes/images/navigation/menu_Jobs.gif" qmvafter="1" style="visibility: inherit;"></a><div id="navmenu_ul_12" style="z-index: 21;"><a href="/public/jobs/applying/index.cfm" id="navmenu_141">Apply Online Now</a><a href="/public/jobs/positions/index.cfm" id="navmenu_142">Available Positions</a><a href="/public/jobs/internships.cfm" id="navmenu_145">Internships</a><a href="/public/jobs/workamper.cfm" id="navmenu_144">Workamper Program</a><a href="/public/jobs/scarowinds.cfm" id="navmenu_180">Scarowinds Jobs</a><a href="/public/jobs/schedule/index.cfm" id="navmenu_181">Associate Scheduling</a><a href="/public/jobs/fundraising/index.cfm" id="navmenu_143">Fundraising</a></div><span class="qmclear"> </span></div> 
 
 
 
@@ -144,19 +252,331 @@
 			<a name="top"></a>
 			<div id="mainImage">
 		
-			<div id="mainImageImage"><img src="/_upload/images/page_headers/privacy.jpg" alt="Privacy"></div>
+			<div id="mainImageImage"><img src="http://cfcc.media.cfnslb1.cedarfair.com/_upload/images/page_headers/privacy.jpg" alt="Privacy"></div>
 			<div id="mainImageSection"><img src="/_includes/images/navigation/header_news.png" alt="news" width="54" height="420">
 			<div id="mainImageCurve"><img src="/_includes/images/inside_curve.png" alt="Inside Curve" width="890" height="420">
-			<div id="mainImageHeading"><h1>PRIVACY</h1>
+			<div id="mainImageHeading"><h1><cufon class="cufon cufon-canvas" alt="PRIVACY" style="width: 138px; height: 34px;"><canvas width="152" height="35" style="width: 152px; height: 35px; top: -1px; left: -1px;"></canvas><cufontext>PRIVACY</cufontext></cufon></h1>
 			<div id="mainImageOverlay">
 			</div></div></div></div>
 		
 	</div>
 
 	<div id="mainContent">
-		<div id="rightSidebar">
-			<img src="/_includes/images/blank.gif" alt="Spacer Image" width="1" height="1" class="noBorder">
+		
+		<div id="leftSidebar">
 			
+			<div id="leftSidebarNav">
+			 
+	  <ul>
+		<li id="navHome"><a href="/">Home</a></li>
+	  </ul>
+	  	  
+	  
+	  	<ul>
+		  	
+				
+		
+		
+		
+		<ul class="subMenuDeepest">
+   
+		
+							<li class="subCatCurrent">
+								Privacy Policy
+							</li>
+							
+						
+					
+		
+			
+		</ul>
+	
+				
+			
+		</ul>
+	  
+			</div>
+			<div id="leftSidebarNavBottom"></div>
+			<div id="leftSidebarPanelSet" style="visibility: hidden;">
+				
+					<div id="socialMediaPanels">
+					
+						
+						
+			<div class="leftSidebarPanel panelAutoHide">
+				
+				
+					<div class="leftSidebarPanelIcon">
+						<img src="http://cfcc.media.cfnslb1.cedarfair.com/_upload/images/icons/icon_facebook.png" width="36" height="36">
+					</div>
+				
+					<div class="leftSidebarPanelTitle">
+						Facebook
+					</div>
+				
+				<div class="leftSidebarPanelContent">
+					 
+					<div class="panelFacebook">
+						 <div class="dateBlockSmall">
+			<div class="dateBlockSmallMonth">
+				<img src="/_includes/images/date_block/months_Small.png" width="26" height="120" style="clip:rect(110px 26px 120px 0);
+						 position: absolute; margin-top: -110px" alt="December">
+			</div>
+			<div class="dateBlockSmallDay">
+				<img src="/_includes/images/date_block/dates_Small.png" width="26" height="465" style="clip:rect(105px 26px 120px 0); 
+						position: absolute; margin-top: -105px" alt="7">
+			</div>
+		</div> 	
+						<div class="panelContent">
+							<p>Hey fans! We are hard at work here at the park gearing up for what is sure to be an AWESOME 2012 season (you thought we went on a 5-month vacation, didn't you?)! Because we value you, our fans, so much, in the coming year you'll see tons of insider news, contests and deals JUST for our Facebook family. Be sure you and your friends "like" this page in order to take advantage of all the excitement headed your way in 2012! Oh, and in case you think we forgot-here's your "Time Machine Thursday" picture-any guesses?<br><br><a href="http://www.facebook.com/photo.php?fbid=10150451337553599&amp;set=a.125492718598.106289.91085023598&amp;type=1" id="" title="" target="" onclick="" style=""><img class="img" src="http://photos-e.ak.fbcdn.net/hphotos-ak-snc7/380927_10150451337553599_91085023598_8716391_114587189_s.jpg" alt=""></a> <a href="http://www.facebook.com/photo.php?fbid=10150451337553599&amp;set=a.125492718598.106289.91085023598&amp;type=1" target="_blank">More</a></p>
+						</div>
+					</div>
+				
+							<hr>
+							<p><a href="http://www.facebook.com/carowindspark" target="_blank">Join us on Facebook!</a></p> 
+				</div>
+			</div>
+		
+			<div class="leftSidebarPanel panelAutoHide">
+				
+				
+					<div class="leftSidebarPanelIcon">
+						<img src="http://cfcc.media.cfnslb1.cedarfair.com/_upload/images/icons/icon_twitter.png" width="36" height="36">
+					</div>
+				
+					<div class="leftSidebarPanelTitle">
+						Twitter
+					</div>
+				
+				<div class="leftSidebarPanelContent">
+					
+					<div class="panelTwitter">
+						<div class="dateBlockSmall">
+			<div class="dateBlockSmallMonth">
+				<img src="/_includes/images/date_block/months_Small.png" width="26" height="120" style="clip:rect(110px 26px 120px 0);
+						 position: absolute; margin-top: -110px" alt="December">
+			</div>
+			<div class="dateBlockSmallDay">
+				<img src="/_includes/images/date_block/dates_Small.png" width="26" height="465" style="clip:rect(105px 26px 120px 0); 
+						position: absolute; margin-top: -105px" alt="7">
+			</div>
+		</div> 	
+						<div class="panelContent">
+							<p>Hey fans! We are hard at work here at the park gearing up for what is sure to be an AWESOME 2012 season (you... <a href="http://t.co/EdG7a3gk">http://t.co/EdG7a3gk</a> </p>
+						</div>
+					</div>
+				
+					<div class="panelTwitter">
+						<div class="dateBlockSmall">
+			<div class="dateBlockSmallMonth">
+				<img src="/_includes/images/date_block/months_Small.png" width="26" height="120" style="clip:rect(110px 26px 120px 0);
+						 position: absolute; margin-top: -110px" alt="December">
+			</div>
+			<div class="dateBlockSmallDay">
+				<img src="/_includes/images/date_block/dates_Small.png" width="26" height="465" style="clip:rect(105px 26px 120px 0); 
+						position: absolute; margin-top: -105px" alt="7">
+			</div>
+		</div> 	
+						<div class="panelContent">
+							<p>Hey fans! We are hard at work here at the park gearing up for what is sure to be an AWESOME 2012 season (you... <a href="http://t.co/EdG7a3gk">http://t.co/EdG7a3gk</a> </p>
+						</div>
+					</div>
+				
+					<div class="panelTwitter">
+						<div class="dateBlockSmall">
+			<div class="dateBlockSmallMonth">
+				<img src="/_includes/images/date_block/months_Small.png" width="26" height="120" style="clip:rect(110px 26px 120px 0);
+						 position: absolute; margin-top: -110px" alt="December">
+			</div>
+			<div class="dateBlockSmallDay">
+				<img src="/_includes/images/date_block/dates_Small.png" width="26" height="465" style="clip:rect(105px 26px 120px 0); 
+						position: absolute; margin-top: -105px" alt="7">
+			</div>
+		</div> 	
+						<div class="panelContent">
+							<p>It’s that time of year again folks-time for our annual 12 Days of Christmas…Carowinds style! Each weekday between... <a href="http://t.co/Erz66HnS">http://t.co/Erz66HnS</a> </p>
+						</div>
+					</div>
+				
+							<hr>
+							<p><a href="http://twitter.com/carowindspr" target="_blank">Follow us on Twitter!</a></p> 
+				</div>
+			</div>
+		
+			<div class="leftSidebarPanel panelAutoHide">
+				
+				
+					<div class="leftSidebarPanelIcon">
+						<img src="http://cfcc.media.cfnslb1.cedarfair.com/_upload/images/icons/icon_youtube.png" width="36" height="36">
+					</div>
+				
+					<div class="leftSidebarPanelTitle">
+						YouTube
+					</div>
+				
+				<div class="leftSidebarPanelContent">
+					
+
+<script type="text/javascript">
+   // Update a particular HTML element with a new value
+    var totalResults = 25;
+    var videoCounter = 1;
+    
+    if (totalResults > 2) {
+    	$(document).ready(function() {
+    		$('#topPanelYouTubeEntryScrollDown').css('visibility','visible');
+    	});
+    }
+   
+	// Loads the selected video into the player.
+	function loadVideo(videoID,title) {
+		$.colorbox({width:"800", height: "500", iframe: "true", href:"http://www.youtube.com/v/"+videoID, title: title});
+	}
+   
+    function youTubeScroll(direction) {
+    	switch(direction) {
+    		case "up":
+				$('#topPanelYouTubeEntryContainerMover').animate({'top':'+=140px'},0);
+				videoCounter -= 1;
+				break;
+			case "down":
+				$('#topPanelYouTubeEntryContainerMover').animate({'top':'-=140px'},0);
+				videoCounter += 1;
+				break;
+		   }
+    	//alert(videoCounter +' '+ (totalResults-2))
+    	if (videoCounter < 2) {
+    		$('#topPanelYouTubeEntryScrollDown').css('display','block');
+    		$('#topPanelYouTubeEntryScrollUp').css('display','none');
+    	}
+    	if (videoCounter >= 2 && videoCounter < (totalResults-1)) {
+    		$('#topPanelYouTubeEntryScrollDown').css('display','block');
+    		$('#topPanelYouTubeEntryScrollUp').css('display','block');
+    	}
+    	if (videoCounter >= (totalResults-1)) {
+    		$('#topPanelYouTubeEntryScrollUp').css('display','block');
+    		$('#topPanelYouTubeEntryScrollDown').css('display','none');
+    	}
+    }
+   
+</script>
+<div id="topPanelYouTubeEntryContainer">
+	<div id="topPanelYouTubeEntryContainerMover">
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('E7W7jwAD-7o','Want to Look Like a SCarowinds Monster? Here\'s Your Chance! (Part 2)');"><img src="http://i.ytimg.com/vi/E7W7jwAD-7o/1.jpg" width="120" height="90" alt="Want to Look Like a SCarowinds Monster? Here's Your Chance! (Part 2)"></a> <p class="youTubeEntryTitle">Want to Look Like a SCarowinds Monster? Here's Your Chance! (Part 2)</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('qkJLfhZpa7Q','Want to Look Like a SCarowinds Monster? Here\'s Your Chance! (Part 1)');"><img src="http://i.ytimg.com/vi/qkJLfhZpa7Q/1.jpg" width="120" height="90" alt="Want to Look Like a SCarowinds Monster? Here's Your Chance! (Part 1)"></a> <p class="youTubeEntryTitle">Want to Look Like a SCarowinds Monster? Here's Your Chance! (Part 1)</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('r1ywYMKR6Jg','I Love My Carowinds Season Pass Because...');"><img src="http://i.ytimg.com/vi/r1ywYMKR6Jg/1.jpg" width="120" height="90" alt="I Love My Carowinds Season Pass Because..."></a> <p class="youTubeEntryTitle">I Love My Carowinds Season Pass Because...</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('wGxU2K0k7rc','What I Like Best About Carowinds\' Howl-O-Fest Boo Blast');"><img src="http://i.ytimg.com/vi/wGxU2K0k7rc/1.jpg" width="120" height="90" alt="What I Like Best About Carowinds' Howl-O-Fest Boo Blast"></a> <p class="youTubeEntryTitle">What I Like Best About Carowinds' Howl-O-Fest Boo Blast</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('PMug_acjwOo','Overlord Director\'s Cut for SCarowinds\' Halloween Haunt XI');"><img src="http://i.ytimg.com/vi/PMug_acjwOo/1.jpg" width="120" height="90" alt="Overlord Director's Cut for SCarowinds' Halloween Haunt XI"></a> <p class="youTubeEntryTitle">Overlord Director's Cut for SCarowinds' Halloween Haunt XI</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('_FsoGMXmWQI','SCarowinds\' Halloween Haunt XI Media Preview Part 2');"><img src="http://i.ytimg.com/vi/_FsoGMXmWQI/1.jpg" width="120" height="90" alt="SCarowinds' Halloween Haunt XI Media Preview Part 2"></a> <p class="youTubeEntryTitle">SCarowinds' Halloween Haunt XI Media Preview Part 2</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('IwVRi8GI-o8','SCarowinds\' Halloween Haunt XI Media Event Part 1');"><img src="http://i.ytimg.com/vi/IwVRi8GI-o8/1.jpg" width="120" height="90" alt="SCarowinds' Halloween Haunt XI Media Event Part 1"></a> <p class="youTubeEntryTitle">SCarowinds' Halloween Haunt XI Media Event Part 1</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('ec8F5UuIDcQ','Carowinds Unveils New Maze: Fury');"><img src="http://i.ytimg.com/vi/ec8F5UuIDcQ/1.jpg" width="120" height="90" alt="Carowinds Unveils New Maze: Fury"></a> <p class="youTubeEntryTitle">Carowinds Unveils New Maze: Fury</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('HTlrdbgb8q0','Carowinds announces WindSeeker for 2012 - Part 2');"><img src="http://i.ytimg.com/vi/HTlrdbgb8q0/1.jpg" width="120" height="90" alt="Carowinds announces WindSeeker for 2012 - Part 2"></a> <p class="youTubeEntryTitle">Carowinds announces WindSeeker for 2012 - Part 2</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('fYj88C_4WKs','Carowinds announces WindSeeker for 2012 - Part 1');"><img src="http://i.ytimg.com/vi/fYj88C_4WKs/1.jpg" width="120" height="90" alt="Carowinds announces WindSeeker for 2012 - Part 1"></a> <p class="youTubeEntryTitle">Carowinds announces WindSeeker for 2012 - Part 1</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('vXU2M3ni3ck','WindSeeker - New for 2012 at Carowinds');"><img src="http://i.ytimg.com/vi/vXU2M3ni3ck/1.jpg" width="120" height="90" alt="WindSeeker - New for 2012 at Carowinds"></a> <p class="youTubeEntryTitle">WindSeeker - New for 2012 at Carowinds</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('fJ8FGaJ5Ubs','WindSeeker - New for 2012 at Carowinds');"><img src="http://i.ytimg.com/vi/fJ8FGaJ5Ubs/1.jpg" width="120" height="90" alt="WindSeeker - New for 2012 at Carowinds"></a> <p class="youTubeEntryTitle">WindSeeker - New for 2012 at Carowinds</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('vuKxPRFAtGY','WindSeeker in 3D - New for 2012 at Carowinds');"><img src="http://i.ytimg.com/vi/vuKxPRFAtGY/1.jpg" width="120" height="90" alt="WindSeeker in 3D - New for 2012 at Carowinds"></a> <p class="youTubeEntryTitle">WindSeeker in 3D - New for 2012 at Carowinds</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('P1EVUDRily0','Intimidator Wedding at Carowinds');"><img src="http://i.ytimg.com/vi/P1EVUDRily0/1.jpg" width="120" height="90" alt="Intimidator Wedding at Carowinds"></a> <p class="youTubeEntryTitle">Intimidator Wedding at Carowinds</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('ShNXFDffhTE','Carowinds for the Cure " lucky="" duck"="" winner="" gets="" the="" keys="" to="" her="" new="" car!');"=""><img src="http://i.ytimg.com/vi/ShNXFDffhTE/1.jpg" width="120" height="90" alt="Carowinds for the Cure " lucky="" duck"="" winner="" gets="" the="" keys="" to="" her="" new="" car!"=""></a> <p class="youTubeEntryTitle">Carowinds for the Cure "Lucky Duck" Winner Gets the Keys to Her New Car!</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('rnM739Qvl_c','Billy the Exterminator Visits Carowinds');"><img src="http://i.ytimg.com/vi/rnM739Qvl_c/1.jpg" width="120" height="90" alt="Billy the Exterminator Visits Carowinds"></a> <p class="youTubeEntryTitle">Billy the Exterminator Visits Carowinds</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('IlgMIcY-5-M','A message from breast cancer survivor, Mary Geneva Brackett');"><img src="http://i.ytimg.com/vi/IlgMIcY-5-M/1.jpg" width="120" height="90" alt="A message from breast cancer survivor, Mary Geneva Brackett"></a> <p class="youTubeEntryTitle">A message from breast cancer survivor, Mary Geneva Brackett</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('OLefyGvUhsQ','One " lucky"="" duck="" arrives="" at="" carowinds');"=""><img src="http://i.ytimg.com/vi/OLefyGvUhsQ/1.jpg" width="120" height="90" alt="One " lucky"="" duck="" arrives="" at="" carowinds"=""></a> <p class="youTubeEntryTitle">One "Lucky" Duck Arrives at Carowinds</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('FozCYwVO8zQ','A " thrilling"="" engagement="" at="" carowinds!');"=""><img src="http://i.ytimg.com/vi/FozCYwVO8zQ/1.jpg" width="120" height="90" alt="A " thrilling"="" engagement="" at="" carowinds!"=""></a> <p class="youTubeEntryTitle">A "Thrilling" Engagement at Carowinds!</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('qxpVXG_LqXQ','Preview of Snoopy\'s Starlight Spectacular');"><img src="http://i.ytimg.com/vi/qxpVXG_LqXQ/1.jpg" width="120" height="90" alt="Preview of Snoopy's Starlight Spectacular"></a> <p class="youTubeEntryTitle">Preview of Snoopy's Starlight Spectacular</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('mRfosUqlNNA','Magician Jonathan Frost at Carowinds');"><img src="http://i.ytimg.com/vi/mRfosUqlNNA/1.jpg" width="120" height="90" alt="Magician Jonathan Frost at Carowinds"></a> <p class="youTubeEntryTitle">Magician Jonathan Frost at Carowinds</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('aNxviWcX9Nw','SCarowinds Interview with WBTV');"><img src="http://i.ytimg.com/vi/aNxviWcX9Nw/1.jpg" width="120" height="90" alt="SCarowinds Interview with WBTV"></a> <p class="youTubeEntryTitle">SCarowinds Interview with WBTV</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('ohNWCRwO8Kw','Intimidator');"><img src="http://i.ytimg.com/vi/ohNWCRwO8Kw/1.jpg" width="120" height="90" alt="Intimidator"></a> <p class="youTubeEntryTitle">Intimidator</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('DggUn3wrwjM','Ride the Intimidator POV');"><img src="http://i.ytimg.com/vi/DggUn3wrwjM/1.jpg" width="120" height="90" alt="Ride the Intimidator POV"></a> <p class="youTubeEntryTitle">Ride the Intimidator POV</p>
+		</div>
+		
+		<div class="youTubeEntrySidebar">
+			<a href="javascript:onClick=loadVideo('vLi3ABQ4yhs','2010 Education Days at Carowinds');"><img src="http://i.ytimg.com/vi/vLi3ABQ4yhs/1.jpg" width="120" height="90" alt="2010 Education Days at Carowinds"></a> <p class="youTubeEntryTitle">2010 Education Days at Carowinds</p>
+		</div>
+		
+	</div>
+	<a href="javascript:youTubeScroll('up');"><img src="/_includes/images/icons/arrow_left.png" width="15" height="17" alt="Scroll Up" id="topPanelYouTubeEntryScrollUp"></a>
+	<a href="javascript:youTubeScroll('down');"><img src="/_includes/images/icons/arrow_right.png" width="15" height="17" alt="Scroll Down" id="topPanelYouTubeEntryScrollDown"></a>
+</div>
+
+							<hr>
+							<p><a href="http://www.youtube.com/carowindspr" target="_blank">Check out our YouTube channel!</a></p> 
+				</div>
+			</div>
+			
+					
+					</div>
+				
+			</div>
 		</div>
 		<div id="textArea">
 			<p>Carowinds.com is committed to protecting your privacy and helping you make the most of your experience on the Internet. This policy explains how we collect, protect, use and share information gathered about you on this website.</p>
@@ -178,149 +598,68 @@
 <p>Please check back periodically for any changes we may make to the policy. Your continued use of this site following the posting of changes to these terms will mean you accept these changes.</p>
 <p>Thank you for visiting our site.</p>
 		</div>
-		<div id="leftSidebar">
-			 
-	  <ul>
-		<li id="navHome"><a href="/">Home</a></li>
-	  </ul>
-	  	  
-	  
-	  	<ul>
-		  	
-				
-		
-		
-		
-		<ul class="subMenuDeepest">
-   
-		
-						<li>
-							Privacy Policy 
-						</li>
-					
-		
-			
-		</ul>
-	
-				
-			
-		</ul>
-	  
-		</div>
+		<div class="clearfix"></div>
 	</div>
-			<div id="footer">
-				<div id="cfecLogo">
+			<div id="footerConnect">
+				<div id="footerFuntimes">
+					<h3>FUNtimes Newsletter</h3>
+					<form action="/public/news/funtimes/" method="post">
+						<input type="submit" value="sign up!" id="footerFuntimesSubmit">
+						<input type="text" name="email" value="enter your email address" id="footerFuntimesEmail" onclick="this.value == 'enter your email address' ? this.value='' : null" onblur="this.value == '' ? this.value = 'enter your email address' : null">
+					</form>
+				</div>
+				<div id="footerSocial">
+					<a href="http://www.ridewarriornation.com" target="_blank">
+						<img src="http://cfcc.media.cfnslb1.cedarfair.com/_upload/images/icons/icon_rwn.png" width="24" height="24" alt="Ride Warrion Nation">
+					</a>
+					<a href="http://www.facebook.com/carowindspark" target="_blank">
+						<img src="http://cfcc.media.cfnslb1.cedarfair.com/_upload/images/icons/icon_facebook.png" width="24" height="24" alt="Facebook">
+					</a>
+					<a href="http://twitter.com/carowindspr" target="_blank">
+						<img src="http://cfcc.media.cfnslb1.cedarfair.com/_upload/images/icons/icon_twitter.png" width="24" height="24" alt="Twitter">
+					</a>
+					<a href="http://www.youtube.com/carowindspr" target="_blank">
+						<img src="http://cfcc.media.cfnslb1.cedarfair.com/_upload/images/icons/icon_youtube.png" width="24" height="24" alt="YouTube">
+					</a>
+				</div>
+			</div>
+		</div>
+		<div id="footer">
+			
+<div id="footerCopyright">
    	<a target="_blank" href="http://www.cedarfair.com/">
 		<img src="/_includes/images/logo_cedar_fair_stacked.png" alt="Cedar Fair Entertainment Company" width="163" height="61">
 	</a>
+	<p><a target="_blank" href="http://www.cedarfair.com">© 2011 CFEC</a> <span>|</span>
+		<a target="_blank" href="http://cedarfair.com/ir/company/properties/">Cedar Fair Parks</a></p>
+	<p>© 2011 Peanuts Worldwide LLC</p>
 </div>
-<div id="socialbar">
-	
-	<span><a href="http://www.ridewarriornation.com" target="_blank"><img src="/_upload/images/icons/icon_rwn.png" width="36" height="36" alt="Ride Warrion Nation"></a></span><a href="http://www.ridewarriornation.com" target="_blank">
-	<span></span></a><a href="http://www.facebook.com/pages/Charlotte-NC/Carowinds-Amusement-Park/91085023598" target="_blank"><img src="/_upload/images/icons/icon_facebook.png" width="36" height="36" alt="Facebook">
-	<span></span></a><a href="http://twitter.com/carowindsPR" target="_blank"><img src="/_upload/images/icons/icon_twitter.png" width="36" height="36" alt="Twitter">
-	<span></span></a><a href="http://www.youtube.com/CarowindsPR" target="_blank"><img src="/_upload/images/icons/icon_youtube.png" width="36" height="36" alt="YouTube">
-	<span>&nbsp;</span>
-	<span></span></a><a href="/public/news/funtimes/"><img src="/_upload/images/icons/icon_funtimes.png" width="36" height="36" alt="FUNtimes">
-</a></div><a href="/public/news/funtimes/">
-</a><div id="directions"><a href="/public/news/funtimes/">
-	</a><a href="/public/visit/directions/"><span>Carowinds</span> |
-	<span>14523 Carowinds Blvd.</span> |
-	<span>Charlotte, NC 28273</span></a> |
-	<span>704-588-2600 (From NC) 803-548-5300 (From SC)</span>
+<div id="footerPromoArea">
+	<img src="/_includes/images/logo_tc.png" alt="Thrill Capital of the Southeast" width="173" height="70" style="margin-top: 25px;">
 </div>
-<div id="links">
-      	<span><a target="_blank" href="http://www.cedarfair.com">© 2010 Cedar Fair Entertainment Company</a></span> |
-	<span> © 2010 Peanuts Worldwide LLC </span> |
+<div id="footerQuickLinks">
+	<h3>Quick Links</h3>
+	<p><a href="/public/park/rides/">Rides &amp; Attractions</a></p>
+	<p><a href="/public/admission/">Tickets &amp; Season Passes</a></p>
+	<p><a href="/public/visit/schedule/">Hours and Events</a></p>
+	<p><a href="/public/news/general/partners.cfm">Partners</a></p>
+	<p>
+		<a href="/public/news/general/legal.cfm">Legal</a> <span>|</span>
+		<a href="/public/news/general/privacy.cfm">Privacy Policy</a> <span>|</span>
+		<a href="/public/news/general/sitemap.cfm">Site Map</a>
+	</p>
+</div>
+<div id="footerContactUs">
+	<h3>Contact Us</h3>
+	<p><a href="/public/news/general/contact.cfm">Submit a Comment / Question</a></p>
+	<p>14523 Carowinds Blvd.</p>
+	<p>Charlotte, NC 28273
+		(<a href="/public/visit/directions/">Directions</a>)</p>
+	<p>704.588.2600 (From NC)</p>
+	<p>803.548.5300 (From SC)</p>
 	
-	<span><a href="/public/news/general/legal.cfm">Legal</a></span> |
-	<span><a href="/public/news/general/privacy.cfm">Privacy Policy</a></span> |
-	<span><a href="/public/news/general/sitemap.cfm">Site Map</a></span> |
-	
-	<span><a href="/public/news/general/contact.cfm">Contact Us</a></span>
 </div>
 
-
-
-
-
-
-<script type="text/javascript">
-	/* <![CDATA[ */
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-30018-8");
-	pageTracker._setDomainName("carowinds.com");
-	pageTracker._setAllowLinker(true);
-	pageTracker._setAllowHash(false);
-	pageTracker._trackPageview();
-	
-	
-		function appendEvent() {
-			var bep = document.links;
-			var hrf = "";
-			var ext = [".jpg",".jpeg",".gif",".pdf",".avi",".zip",".png",".doc",".xls",".docx",".xlsx",".txt",".mov",".flv",".mpg",".m4v"];
-			for (i=0; i < bep.length; i++) {
-				var isLinkTrackable = false;
-				hrf = bep[i].href.toLowerCase();
-				// if the link is not of type javascript nor a mail tag, check the extension to see if match occurs; 
-				// if so, append an onClick event
-				if (hrf.indexOf("javascript:") < 0 && hrf.indexOf("mailto:") < 0) {
-					for (j=0; j < ext.length; j++) {
-						if (hrf.indexOf(ext[j]) >= 0)  {
-							isLinkTrackable = true;
-							bep[i].onclick = trackLink;
-							if (bep[i].captureEvents) bep[i].captureEvents(Event.CLICK);
-						} 
-					} 
-					// if the link goes to an external site, append an onClick event
-					if (!isLinkTrackable && (getDomain(hrf) != document.domain) && String(bep[i].rel).toLowerCase() != "noga" && String(bep[i].rel).toLowerCase() != "nofollow" && String(bep[i].rel).toLowerCase() != "nofollow" ) {
-						if (bep[i].target != "") {
-							bep[i].onclick = domainTarget;
-						} 
-						else {
-							bep[i].onclick = domainLink;
-						}
-						if (bep[i].captureEvents) bep[i].captureEvents(Event.CLICK);
-					}
-				} 
-			}
-		}
-		
-		function trackLink() {
-			var link = this.href;
-			var linkArray = link.split(".");
-			var fileExt = linkArray[linkArray.length-1];
-			pageTracker._trackPageview('/downloads/'+fileExt+'/'+link);
-		}
-		
-		function domainLink() {
-			pageTracker._link(this.href); 
-		}
-		
-		function domainTarget() {
-			pageTracker._target(this.target);
-			pageTracker._link(this.href);
-		}
-		
-		function getDomain(str) {
-			if (str.indexOf("http://") == 0) {
-				str = str.substring(7,str.length)
-			}
-			str = str.split('/')[0];
-			return str;
-		}
-		
-		appendEvent();
-		
-	
-	} catch (err) {
-	}
-	/* ]]> */
-</script> 
 <!--[if lte IE 6]>
 <script src="/_c4/_scripts/ie6/ie6warn.js"></script>
 <script type="text/javascript">
@@ -337,8 +676,7 @@ window.onload = function() {
 </script>
 <![endif]-->
 
-			</div>
 		</div>
-
+		<script type="text/javascript"> Cufon.now(); </script>
 	
  </body></html>
