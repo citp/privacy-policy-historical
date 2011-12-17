@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonfloor.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229030145id_/http%3A//www.commonfloor.com/public/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonfloor.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217041220id_/http%3A//www.commonfloor.com/public/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy at CommonFloor.com
 
