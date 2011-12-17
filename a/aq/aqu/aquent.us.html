@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aquent.us privacy policy that was archived on 2011-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618015744id_/http%3A//aquent.us/services/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aquent.us privacy policy that was archived on 2011-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217171618id_/http%3A//aquent.us/services/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,42 +7,48 @@
 <meta name="verify-v1" content="zQv6+OTqMx5xTDRgTjCAuuzo2gOiny8rJKU0ywrg1go=">
 <meta name="verify-v1" content="tBVIKFiujbd1I3ehN3lLqMkFFcBrFNkOeGlGlvdMo3U=">
 <meta name="msvalidate.01" content="C297F6A1DD23093C010966EE8A5355E9">
+<meta name="google-site-verification" content="_dT3eyWdVdGL49zHq7zt_eW359XCfa_b2b2ElOrCQbM">
+<meta name="google-site-verification" content="3YRN-L8XST1DLTddFDgQZAyZVcXuhLAg3HobAsee44s">
 <link rel="icon" type="image/png" href="/global/images/flags/en_GL.png">
-<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss/press-releases-rss.htm?">
-                                      <title>Aquent : Privacy Policy</title>
-                                                <meta name="description" content="	
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss/press-releases-rss.htm?language_id=32">
+                                                    <title>Privacy Policy : Aquent</title>
+                                <meta name="description" content="">
+    <meta name="keywords" content="	
 ">
-            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js" type="text/javascript"></script>
+    <meta property="og:title" content="Privacy Policy : Aquent">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="">
+        <meta property="og:image" content="http://aquent.us/common/images/aquent_logo.jpg">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
 <script src="/common/js/global.js" type="text/javascript"></script>
 <script src="/common/js/jquery-ui-1.8.5.custom.min.js" type="text/javascript"></script>
 <script src="/common/js/plugins.js" type="text/javascript"></script>
 <script src="/global/js/utils.js" type="text/javascript"></script>
 <script src="/dwr/interface/SearchJobsAjax.js" type="text/javascript"></script>
 <script src="/dwr/engine.js" type="text/javascript"></script>
-
 <style type="text/css">
 <!--
-@import url("/common/css/em_reset.css");
-@import url("/common/css/960.css");
-@import url("/common/css/styles.css");
+@import url("/common/css/em_reset.css?1285259418000");
+@import url("/common/css/960.css?1285259391000");
+@import url("/common/css/styles.css?1324092227000");
 -->
 </style>
-<link href="/global/css/print.css" rel="stylesheet" type="text/css" media="print">
-<!--[if lt IE 8]>
-<link href="/common/css/ie.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/common/css/styles.css?1259088346000" rel="stylesheet" type="text/css" media="print">
+<!--[if lt IE 9]>
+<link href="/common/css/ieformreset.css?1311968887000" rel="stylesheet" type="text/css" media="screen" />
+<link href="/common/css/ie.css?1316116158000" rel="stylesheet" type="text/css" media="screen" />
 <![endif]-->
 <link rel="stylesheet" media="only screen and (min-device-width: 768px)
-and (max-device-width: 1024px)" href="/common/css/ipad.css" type="text/css">
+and (max-device-width: 1024px)" href="/common/css/ipad.css?1288882974000" type="text/css">
 </head>
-   <body id="32" class="subpages">
-<div id="wrapper" class="container_12 clearfix">
-<div id="header" class="grid_12">
-   		<script language="JavaScript" src="http://j.maxmind.com/app/geoip.js"></script>
+                   <body id="US" class="subpages">
+                    <div id="wrapper" class="container_12 clearfix">
+                <div id="header" class="grid_12">
+                                           		<script language="JavaScript" src="http://j.maxmind.com/app/geoip.js"></script>
 <script language="JavaScript">
-
 /* returns the MyAquent hostname (and protocol) appropriate for the longitude of the client passed in */
 function getMyAquentRegion() {
-  var myAquentServers = ["https://my.aquent.com/mat/myaquent?PROC=Login","https://my2.aquent.com/mat/myaquent?PROC=Login","https://my3.aquent.com/mat/myaquent?PROC=Login"];
+  var myAquentServers = ["https://my.aquent.com/mat/myaquent?PROC=Login","https://my2.aquent.com/mat/myaquent?PROC=Login","https://my3.aquent.com/mat/myaquent?PROC=Login", "https://my4.aquent.com/mat/myaquent?PROC=Login"];
   var longitude =  geoip_longitude();
   try{
      if (-30<=longitude&&longitude<=60) {
@@ -51,8 +57,10 @@ function getMyAquentRegion() {
       } else if (60<=longitude&&longitude<=180) {
         // Apac
         document.myAquentLoginForm.action = myAquentServers[1];
-      } else {
-        // NA
+      } else if (-180<=longitude&&longitude<=-90) {
+        // NA West
+        document.myAquentLoginForm.action = myAquentServers[3];
+      } else {        // NA
         document.myAquentLoginForm.action = myAquentServers[0];
       }
   }catch(e){
@@ -61,250 +69,57 @@ function getMyAquentRegion() {
       document.myAquentLoginForm.submit();
 }
 </script>
-
 <div id="navigation" class="clearfix">
-    <div id="aq_login" class="clearfix">
-    <ul>
-              <li class="myaquent"><a href="#" class="login">MyAquent Login</a>
-            <ul class="myAquentSection">
-                <div id="myAquentLogin">
-                  <form id="myAquentLoginForm" name="myAquentLoginForm" method="post" action="https://my.aquent.com/mat/myaquent?PROC=Login">
-                        <input type="hidden" name="PROC" value="Login">
-                        <input type="hidden" name="from" value="1">
-                        <input type="hidden" value="Login" name="PROC">
-                        <input type="hidden" value="agent" name="loginType">
-                        <div class="hint">                        
-                        <label for="USERID">Username</label><input type="text" name="USERID" id="USERID">
-                        </div>
-                        <div class="hint">
-                        <label for="PSWD">Password</label><input type="password" name="PSWD" id="PSWD">
-                        </div>
-                        <input value="Submit" type="submit" class="submit">
-                    </form>
-                    <a class="myAquentURL" href="http://apply.aquent.com/myaquent?PROC=AWUIDrawForgotUsernamePassword" target="_blank">Forget your username or password?</a>
-              </div>
-            </ul>
-        </li>
-                <li style="padding-right:0;" class="dropme">
-            <ul id="language_drop" class="custom-select">
-                <li class="option selected"><a title="English" href="http://www.aquent.us">English</a></li>
-                <li class="option "><a title="Français" href="http://www.aquent.fr">Français</a></li>
-                <li class="option "><a title="日本語" href="http://www.aquent.co.jp">日本語</a></li>
-            </ul>
-  </li>
-    </ul>
-  </div>
-  <div id="site-nav" class="clearfix">
-  <ul>
-        <li class="logo" style="padding-left:0;"><img src="/common/images/logos/aquent_logo.png" height="22" width="160">
-            <ul>
-                <li><a href="/services/" class="selected">Services</a></li>
-                <li><a href="/newsroom/">Newsroom</a></li>
-                <li><a href="/resources/">Resources</a></li>
-                <li style="padding-right:0;"><a href="/contact-us/">Contact Us</a></li>
-            </ul>
-    </li>
-  </ul>
-  </div>
-</div>
-   </div>
-<div id="content-body">
-   		<div id="widget-body">
-  
-   		<div class="tab_container">
-  <div class="close"><img src="/common/images/source/close.png" width="16" height="16"></div>
-  <div id="hire" class="tab_content widget-sub-pages">
-      <h1>More than talent, a great fit for your organization.</h1>
-        <form action="/hire-talent/index.htm" name="widget-hire-talent" id="widget-hire-talent">
-          <select class="select-field" id="location-widget" name="location" onchange="this.form.submit()">
-        <option value="">Location</option>
-                                                                                                                
-                        <option value="mrkt_0036">AU - Melbourne</option>
-                                                                                                                    
-                        <option value="mrkt_0039">AU - Sydney</option>
-                                                                                                                    
-                        <option value="mrkt_0040">CA - Toronto</option>
-                                                                                                                    
-                                                                                                                
-                        <option value="mrkt_0099">MY - Kuala Lumpur</option>
-                                                                                                                    
-                        <option value="mrkt_0043">NL - Amsterdam</option>
-                                                                                                                    
-                        <option value="mrkt_0029">UK - London</option>
-                                                                                                                    
-                        <option value="mrkt_0031">US - AZ - Phoenix</option>
-                                                                                                                    
-                        <option value="mrkt_0013">US - CA - Los Angeles</option>
-                                                                                                                    
-                        <option value="mrkt_0019">US - CA -  Orange County</option>
-                                                                                                                    
-                        <option value="mrkt_0016">US - CA - San Diego</option>
-                                                                                                                    
-                        <option value="mrkt_0012">US - CA - San Francisco</option>
-                                                                                                                    
-                        <option value="mrkt_0015">US - CA - Silicon Valley</option>
-                                                                                                                    
-                        <option value="mrkt_0027">US - CO -  Denver</option>
-                                                                                                                    
-                        <option value="mrkt_0034">US - Connecticut</option>
-                                                                                                                    
-                        <option value="mrkt_0025">US - DC - Washington</option>
-                                                                                                                    
-                        <option value="mrkt_0033">US - FL - Miami</option>
-                                                                                                                    
-                        <option value="mrkt_0072">US - FL - Orlando</option>
-                                                                                                                    
-                        <option value="mrkt_0068">US - FL - Tampa</option>
-                                                                                                                    
-                        <option value="mrkt_0023">US - GA - Atlanta</option>
-                                                                                                                    
-                        <option value="mrkt_0014">US - IL - Chicago</option>
-                                                                                                                    
-                                                                                                                
-                        <option value="mrkt_0058">US - IN - Indianapolis</option>
-                                                                                                                    
-                        <option value="mrkt_0010">US - MA - Boston</option>
-                                                                                                                    
-                        <option value="mrkt_0046">US - MD - Baltimore</option>
-                                                                                                                    
-                        <option value="mrkt_0024">US - MI - Detroit</option>
-                                                                                                                    
-                        <option value="mrkt_0020">US - MN - Minneapolis</option>
-                                                                                                                    
-                        <option value="mrkt_0061">US - NC - Charlotte</option>
-                                                                                                                    
-                        <option value="mrkt_0803">US - NC - Raleigh/Durham</option>
-                                                                                                                    
-                        <option value="mrkt_0030">US - New Jersey</option>
-                                                                                                                    
-                        <option value="mrkt_0011">US - NY - New York City</option>
-                                                                                                                    
-                        <option value="mrkt_0032">US - Ohio</option>
-                                                                                                                    
-                        <option value="mrkt_0041">US - OR - Portland</option>
-                                                                                                                    
-                        <option value="mrkt_0018">US - PA - Philadelphia</option>
-                                                                                                                    
-                        <option value="mrkt_0038">US - PA - Pittsburgh</option>
-                                                                                                                    
-                                                                                                                
-                        <option value="mrkt_0060">US - TX -  Austin</option>
-                                                                                                                    
-                        <option value="mrkt_0022">US - TX - Dallas</option>
-                                                                                                                    
-                        <option value="mrkt_0826">US - TX - Houston</option>
-                                                                                                                    
-                        <option value="mrkt_0051">US - Northern Virginia</option>
-                                                                                                                    
-                        <option value="mrkt_0078">US - VA - Richmond</option>
-                                                                                                                    
-                        <option value="mrkt_0017">US - WA - Seattle</option>
-                                                                                                                    
-                        <option value="mrkt_0881">US - Wisconsin</option>
-                                 </select>
-               </form>
-  </div>
-  <div id="find" class="tab_content widget-sub-pages">
-   <h1>More than work, an advocate for your career.</h1>
-     <form action="/find-work/index.htm" name="widget-find-work" id="widget-find-work">
-                <select class="select-field" id="specialty-widget-find" name="specialty-find" onchange="this.form.submit()">
-            <option value="">Specialty</option>
-                        <option value="SPCT_0006">Online Marketing</option>
-                                    <option value="SPCT_0002">Interactive Design</option>
-                                    <option value="SPCT_0004">Marketing</option>
-                                    <option value="SPCT_0001">Graphic Design</option>
-                                                <option value="SPCT_0023">User Experience</option>
-                                </select>
-                
-                  <select class="select-field" id="location-widget-find" name="location-find" onchange="this.form.submit()">
-            <option value="">Location</option>
-                                            <option value="mrkt_0036">AU - Melbourne</option>
-                            <option value="mrkt_0039">AU - Sydney</option>
-                            <option value="mrkt_0040">CA - Toronto</option>
-                            <option value="mrkt_0047">CA - Vancouver</option>
-                            <option value="mrkt_0099">MY - Kuala Lumpur</option>
-                            <option value="mrkt_0043">NL - Amsterdam</option>
-                            <option value="mrkt_0029">UK - London</option>
-                            <option value="mrkt_0031">US - AZ - Phoenix</option>
-                            <option value="mrkt_0013">US - CA - Los Angeles</option>
-                            <option value="mrkt_0019">US - CA -  Orange County</option>
-                            <option value="mrkt_0016">US - CA - San Diego</option>
-                            <option value="mrkt_0012">US - CA - San Francisco</option>
-                            <option value="mrkt_0015">US - CA - Silicon Valley</option>
-                            <option value="mrkt_0027">US - CO -  Denver</option>
-                            <option value="mrkt_0034">US - Connecticut</option>
-                            <option value="mrkt_0025">US - DC - Washington</option>
-                            <option value="mrkt_0033">US - FL - Miami</option>
-                            <option value="mrkt_0072">US - FL - Orlando</option>
-                            <option value="mrkt_0068">US - FL - Tampa</option>
-                            <option value="mrkt_0023">US - GA - Atlanta</option>
-                            <option value="mrkt_0014">US - IL - Chicago</option>
-                            <option value="mrkt_0807">US - IL -  Moline</option>
-                            <option value="mrkt_0058">US - IN - Indianapolis</option>
-                            <option value="mrkt_0010">US - MA - Boston</option>
-                            <option value="mrkt_0046">US - MD - Baltimore</option>
-                            <option value="mrkt_0024">US - MI - Detroit</option>
-                            <option value="mrkt_0020">US - MN - Minneapolis</option>
-                            <option value="mrkt_0061">US - NC - Charlotte</option>
-                            <option value="mrkt_0803">US - NC - Raleigh/Durham</option>
-                            <option value="mrkt_0030">US - New Jersey</option>
-                            <option value="mrkt_0011">US - NY - New York City</option>
-                            <option value="mrkt_0032">US - Ohio</option>
-                            <option value="mrkt_0041">US - OR - Portland</option>
-                            <option value="mrkt_0018">US - PA - Philadelphia</option>
-                            <option value="mrkt_0038">US - PA - Pittsburgh</option>
-                            <option value="mrkt_0073">US - Rhode Island</option>
-                            <option value="mrkt_0060">US - TX -  Austin</option>
-                            <option value="mrkt_0022">US - TX - Dallas</option>
-                            <option value="mrkt_0826">US - TX - Houston</option>
-                            <option value="mrkt_0051">US - Northern Virginia</option>
-                            <option value="mrkt_0078">US - VA - Richmond</option>
-                            <option value="mrkt_0017">US - WA - Seattle</option>
-                            <option value="mrkt_0881">US - Wisconsin</option>
-                         </select>
-                     
-     </form>
-  </div>
-  <div id="how" class="tab_content widget-sub-pages">
-   <h1>We speak the language of marketing and design.</h1>
-    <script type="text/javascript">
-    function MM_jumpMenu(targ,selObj,restore){ //v3.0
-      eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-      if (restore) selObj.selectedIndex=0;
-    }
-    </script>
-  <form name="widget-specialty" id="widget-specialty">
-  <select class="select-field" id="specialty-widget-spct" name="specialty-spct" onchange="MM_jumpMenu('parent',this,0)">
-        <option value="">Specialty</option>
-                <option value="/our-specialties/online-marketing/">Online Marketing</option>
-                        <option value="/our-specialties/interactive-design/">Interactive Design</option>
-                        <option value="/our-specialties/marketing/">Marketing</option>
-                        <option value="/our-specialties/graphic-design/">Graphic Design</option>
-                                <option value="/our-specialties/user-experience/">User Experience</option>
-                     </select>
-     </form>
-  </div>
+  <div id="aq_login" class="clearfix">
+      <ul>
+                  <li class="myaquent"><a href="#" class="login">Login</a>
+              <ul class="myAquentSection">
+                    <div id="myAquentLogin">
+                        <form id="myAquentLoginForm" name="myAquentLoginForm" method="post" onsubmit="javascript:getMyAquentRegion()">
+                            <input type="hidden" name="PROC" value="Login">
+                            <input type="hidden" name="from" value="1">
+                            <input type="hidden" value="Login" name="PROC">
+                            <input type="hidden" value="agent" name="loginType">
+                            <div class="hint">                        
+                            <label for="USERID">Username</label><input type="text" name="USERID" id="USERID">
+                            </div>
+                            <div class="hint">
+                            <label for="PSWD">Password</label><input type="password" name="PSWD" id="PSWD">
+                            </div>
+                            <input value="Submit" type="submit" class="submit">
+                        </form>
+                        <a class="myAquentURL" href="http://apply.aquent.com/myaquent?PROC=AWUIDrawForgotUsernamePassword" target="_blank">Forget your username or password?</a>
+                    </div>
+              </ul>
+          </li>
+                                <li class="introVT"><span style="float:left;">Introducing our new division</span> <a href="http://vitamintalent.com" target="_blank"><img src="/common/images/source/vitamin-t-mini.jpg" alt="Vitamin T" width="73" height="26"></a></li>
+                </ul>
+    </div>
+    <div id="site-nav" class="clearfix">
+        <ul>
+            <li class="logo" style="padding-left:0;"><img src="/common/images/logos/aquent_logo.png" height="22" width="160">
+                <ul>
+                    <li><a href="/hire-talent/">Hire Talent</a></li>
+                    <li><a href="/find-work/">Find Work</a></li>
+                    <li><a href="/services/" class="selected">Services</a></li>
+                                        <li style="padding-right:0;"><a href="/contact-us/">Contact Us</a></li>
+                                       <li style="padding-right:0;" class="dropme">
+                        <ul id="language_drop" class="custom-select dropdown">
+                            <li class="option selected"><a title="English" href="http://aquent.us">English</a></li>
+                            <li class="option "><a title="Français" href="http://aquent.fr">Français</a></li>
+                            <li class="option "><a title="日本語" href="http://aquent.co.jp">日本語</a></li>
+                        </ul>
+                    </li>
+                                     </ul>
+            </li>
+        </ul>
+    </div>
 </div>
 
-     
-</div>
-<div id="widget-nav">
-  <ul>
-      <li class="start" style="display:none;">
-      <a href="#start">Aquent</a>
-    </li>
-        <li class="talent">
-      <a href="#hire" onclick="javascript:pageTracker._trackPageview('/homepage/hireTalent');">Hire Talent</a>
-    </li>
-    <li class="job">
-      <a href="#find" onclick="javascript:pageTracker._trackPageview('/homepage/findWork');">Find Work</a>
-    </li>
-    <li class="work">
-      <a href="#how" onclick="javascript:pageTracker._trackPageview('/homepage/specialties');">Our Specialties</a>
-    </li>
-</ul></div>
-   <div id="page-content">
-   		<ul id="sub-pages-navbar">
+                   </div>
+                <div id="content-body">
+                                                                                <div id="page-content" class="clearfix">
+                                                                       		<ul id="sub-pages-navbar">
   <li>
         <a href="/services/index.htm">Staffing</a>
     </li>
@@ -319,9 +134,9 @@ function getMyAquentRegion() {
     </li>
 </ul>
 
-   <div id="content" class="clearfix">
-<div id="left-column" style="overflow:hidden;">
-   		
+                                                                   <div id="content" class="clearfix">
+                            <div id="left-column" style="overflow:hidden;">
+                                                           		
 
 
 	
@@ -391,7 +206,7 @@ function getMyAquentRegion() {
 
 <p>When hiring employees Aquent must collect and transfer Personal Data in order to comply with statutes, rules and regulations pertaining to employment. It is necessary for Aquent to collect, store and in some cases transfer personal data to third parties such as payroll service companies, health insurance organizations or government agencies as required by law. Any such transfers will be solely for the purposes of fulfilling Aquent’s obligations to its employees, such as payroll and insurance. Concerned individuals may withhold consent to such transfers and will be informed of the impact such opt-out will have on their employment within Aquent (ex. inability to process benefits or payroll data in a timely or appropriate fashion).</p>
 
-<p>Individuals may “opt out” of having their Personal Data used in Aquent promotions by emailing <a href="mailto:unsubscribe@aquent.com">unsubscribe@aquent.com</a>.</p>
+<p>Individuals may “opt out” of having their Personal Data used in Aquent promotions by clicking <a target="_blank" href="http://forms.aquent.com/manage/subscription/unsubscribe">here</a>.</p>
 
 <h2>Data Integrity</h2>
 
@@ -417,17 +232,9 @@ function getMyAquentRegion() {
 
 
 
-   </div>
-<div id="right-column">
-   		    
-  
-      
-              
-        
-                
-      
-  
-  
+                               </div>
+                            <div id="right-column">
+                                                                                                                                       		           
             <!-- Clients -->
         <div class="side-container clearfix">
           <h4>Clients</h4>
@@ -440,25 +247,6 @@ function getMyAquentRegion() {
   		
 	
 					    	
-    
-		   
-			             				      	   								   		   	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	   	   		       
-						    	
     
 		   
 			             				      	   								   		   	
@@ -1235,7 +1023,6 @@ function getMyAquentRegion() {
                             <li><img src="/dotAsset/313082.gif" width="75" height="75" alt="DirectTV"></li>
                             <li><img src="/dotAsset/276894.gif" width="75" height="75" alt="EA Sports"></li>
                             <li><img src="/dotAsset/276898.gif" width="75" height="75" alt="Ebay"></li>
-                            <li><img src="/dotAsset/276902.gif" width="75" height="75" alt="Expedia"></li>
                             <li><img src="/dotAsset/321913.gif" width="75" height="75" alt="ExxonMobil"></li>
                             <li><img src="/dotAsset/276859.gif" width="75" height="75" alt="Fidelity"></li>
                             <li><img src="/dotAsset/313086.gif" width="75" height="75" alt="Ford"></li>
@@ -1296,6 +1083,8 @@ function getMyAquentRegion() {
 
 
 
+
+
 	   	   		       
 						    	
     
@@ -1323,52 +1112,119 @@ function getMyAquentRegion() {
 
 
 
+
+
 	   	   		       
-													                                        <a href="/elqNow/elqRedir.htm?ref=http://aquent.us/rewards/" onclick="javascript:pageTracker._trackPageview('/workwithus/rewardsbannerad/');" target="_blank"><img src="/dotAsset/659643.jpg" width="189" height="225" alt="Aquent Rewards" border="0"></a>
+													                                        <a href="http://internetonlinewebsite.com" onclick="javascript:pageTracker._trackPageview('/workwithus/iowbannerad/');" target="_blank"><img src="/dotAsset/435881.jpg" width="189" height="225" alt="InternetOnlineWebsite.com" border="0"></a>
                                     </div>
     
 
-   </div>
-</div>
-</div>
-</div>
-</div>
-<div id="footer" class="container_12 clearfix">
-<!-- START the footer -->
-   		    <ul class="social">
-        <li id="facebook">
-            <a href="/elqNow/elqRedir.htm?ref=http://www.facebook.com/aquent/" onclick="javascript:pageTracker._trackPageview('/footer/facebook/');" target="_blank" class="trigger facebook">Facebook</a>
-        </li>
-        <li id="twitter">
-            <a href="/elqNow/elqRedir.htm?ref=http://twitter.com/Aquent" onclick="javascript:pageTracker._trackPageview('/footer/twitter/');" target="_blank" class="trigger twitter">Twitter</a>
-        </li>
-        <li id="linkedin">
-            <a href="/elqNow/elqRedir.htm?ref=http://www.linkedin.com/groups?gid=149282" onclick="javascript:pageTracker._trackPageview('/footer/linkedin/');" target="_blank" class="trigger linkedin">LinkedIn</a>
-        </li>
-        <li id="blog">
-            <a href="/elqNow/elqRedir.htm?ref=http://blogs.aquent.com/" onclick="javascript:pageTracker._trackPageview('/footer/blog/');" target="_blank" class="trigger wordpress">My Blog</a>
-        </li>
-        <li id="share">
-        <!-- AddToAny BEGIN -->
-        <div class="a2a_kit a2a_default_style">
-        <a class="a2a_dd share trigger" href="http://www.addtoany.com/share_save#url=http%3A%2F%2Fwww.aquent.com&amp;title=Aquent%20%3A%20Creative%20staffing%20agency%20for%20marketing%2C%20design%20talent%20and%20freelance%20contract%20jobs&amp;description=" style="text-indent:0;"><span>Share</span>
-        </a><div style="clear: both;"></div><div style="clear: both;"></div></div>
-        <script type="text/javascript">
-        var a2a_config = a2a_config || {};
-        a2a_config.linkname = "Aquent : Creative staffing agency for marketing, design talent and freelance contract jobs";
-        a2a_config.linkurl = "http://www.aquent.com";
-        </script>
-        <script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
-        <!-- AddToAny END -->
-        </li>
-    </ul>
-    <ul class="grid_12"><li class="copyright">© Copyright 2010 Aquent.&nbsp;<ul class="copyright_links">
-              <li><a href="/services/privacy.htm">Privacy Policy</a></li>
-        <li><a href="/resources/faq.htm">FAQ</a></li>
-        <li><a href="/services/site-map.htm">Site Map</a></li></ul></li>
-   </ul>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2969&amp;ref2=elqNone&amp;tzo=0&amp;ms=671" border="0" width="1" height="1"></layer>
+                                                                   <!-- DEBUG:  -->
+                                                        </div>
+                        </div>
+                                        </div>
+                </div>
+            </div>
+            <div id="footer" class="container_12 clearfix">
+                                   		<ul class="column jobsweplace">
+    <li><h3>Jobs We Place</h3></li>
+            		
+		  
+  		
+	  
+  		
+	
+					    	
+    
+		   
+			             				         		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   		   		       
+						    	
+    
+		   
+			             				         		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   		   		       
+						    	
+    
+		   
+			             				         		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   		   		       
+											                                <li><a href="/jobs-we-place/creative.htm?src=footer">Interactive Design / Creative / Digital / UX</a></li>
+                                            <li><a href="/jobs-we-place/marketing.htm?src=footer">Marketing / Internet Marketing / Social Media</a></li>
+                                             </ul>
+<ul class="column locations">
+    <li><h3>Our Locations</h3></li>
+    <div class="column">
+        <li><a href="/contact-us/index.htm#AU">Australia</a></li>
+        <li><a href="/contact-us/index.htm#CA">Canada</a></li>
+        <li><a href="/contact-us/index.htm#FR">France</a></li>
+        <li><a href="/contact-us/index.htm#JP">Japan</a></li>
+    </div>
+    <div class="column">
+        <li><a href="/contact-us/index.htm#NL">Netherlands</a></li>
+        <li><a href="/contact-us/index.htm#UK">United Kingdom</a></li>
+        <li><a href="/contact-us/index.htm#US">United States</a></li>
+    </div>
+</ul>
+<ul class="column connect">
+    <li><h3>Connect</h3></li>
+    <div class="column">
+        <li><a href="http://www.facebook.com/aquent/">Facebook</a></li>
+        <li><a href="http://twitter.com/Aquent">Twitter</a></li>
+    </div>
+    <div class="column">
+        <li><a href="http://blogs.aquent.com/">Blog</a></li>
+        <li><a href="http://www.linkedin.com/groups?gid=149282">LinkedIn</a></li>
+    </div>
+</ul>
+<ul class="grid_12"><li class="copyright">© Copyright 2011 Aquent.&nbsp;<ul class="copyright_links">
+                <li><a href="/services/eos.htm">Applicant Accommodation Request</a></li>
+        <li><a href="/services/privacy.htm">Privacy Policy</a></li>
+    <li><a href="/resources/faq.htm">FAQ</a></li>
+    <li><a href="/services/site-map.htm">Site Map</a></li></ul></li>
+</ul>
 <script type="text/javascript" language="JavaScript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -1380,10 +1236,53 @@ function getMyAquentRegion() {
   } catch(err) {}
 </script>
 <script src="http://content.mkt51.net/lp/static/js/iMAWebCookie.js?596fde80-12f0cd2ab83-d7c8ec57ae636c7258d3eb0ef0e531f2&amp;h=www.pages05.net" type="text/javascript"></script>
-
-   <!-- END the footer -->
+<script type="text/javascript" language="javascript">llactid=20745</script> 
+<script type="text/javascript" language="javascript" src="http://t3.trackalyzer.com/trackalyze.js"></script>
+         <style>
+#vt-shareToggle {background: url("/common/images/share-tag-closed.jpg") no-repeat scroll top right;position: fixed;left: 0;top:40%;height: 218px;width: 28px;}
+#vt-share {position: fixed;left: 0;top:40%;height: 176px;margin-left: -100%;background: url("/common/images/share-tag-open.jpg") no-repeat scroll right top transparent;z-index: 5;padding: 42px 30px 0 5px;}
+#vt-share div {display: block; margin-bottom: 15px;}
+#vt-share div div {margin: 0;}
+#vt-share div:last-child {margin-left: 3px;}
+#vt-share:hover {cursor: pointer;}
+#vt-share-small {width: 382px;clear: both;overflow: hidden;margin: 0 auto;text-align: center;display: none;}
+#vt-share-small div { }
+.vt-imgReplace { display: block; font-size: .1em; line-height: 0em; overflow: hidden; text-indent: -9999px;}    
+</style>
+<a href="javascript:void();" id="vt-shareToggle" class="vt-imgReplace">Share the Love</a>
+<div id="vt-share">
+    <script type="text/javascript">var switchTo5x=true;</script>
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+    <script type="text/javascript">stLight.options({publisher:'79d02b65-2897-49ea-89f1-f974e9041ac4'});</script>
+    <div><span class="st_twitter_hcount" displaytext="Tweet"></span></div>
+    <div><span class="st_linkedin_hcount" displaytext="LinkedIn"></span></div>
+    <div><span class="st_fblike_hcount"></span></div>
+    <div><span class="st_plusone_hcount"></span></div>
 </div>
-
-
+<script type="text/javascript">
+$('#vt-shareToggle').click(function() {
+    $("#vt-share").animate({
+    width: "115px",
+    opacity: 1,
+    marginLeft: "0",
+    }, 100 );
+    $("#shareToggle").animate({
+    opacity: 0,
+    }, 100 );
+});
+$('#vt-share').click(function() {
+    $('#vt-share').animate({
+    width: "115px",
+    opacity: 1,
+    marginLeft: "-100%",
+    }, 100 );
+    $("#vt-shareToggle").animate({
+    opacity: 1,
+    }, 100 );
+});
+</script>
+               </div>
+        
+    
 
 </body></html>
