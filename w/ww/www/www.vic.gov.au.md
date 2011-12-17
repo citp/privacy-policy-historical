@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422072056id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217130722id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy (Victoria Online)
-
-## Victoria Online - Who we are
-
-Victoria Online is the entry point website of the government of the State of Victoria, Australia (here referred to as "the Victorian Government"), operated by the Department of Business and Innovation. This is a portal website with links to external websites. If you have any queries about this website, please contact the Manager, eServices as follows: 
-
-by email at:
-    [victoria.online@diird.vic.gov.au](mailto:%76%69%63%74%6f%72%69%61%2e%6f%6e%6c%69%6e%65%40%64%69%69%72%64%2e%76%69%63%2e%67%6f%76%2e%61%75)
-by post at:   
-
-    Manager, eServices  
-Victoria Online  
-Department of Business and Innovation  
-GPO Box 4509  
-Melbourne Vic 3001
 
 ## Application of this Privacy Statement
 
@@ -33,19 +19,19 @@ You may request access to any personal information that Victoria Online may have
 The Manager, eServices may be contacted about access to, and correction of, personal information collected by Victoria Online or for any questions or concerns you may have arising out of this privacy statement,
 
 by email at:
-    [victoria.online@diird.vic.gov.au](mailto:%76%69%63%74%6f%72%69%61%2e%6f%6e%6c%69%6e%65%40%64%69%69%72%64%2e%76%69%63%2e%67%6f%76%2e%61%75)
+    [victoria.online@diird.vic.gov.au](mailto:victoria.online@diird.vic.gov.au)
 by post at:
-    Manager, eServices  
-Victoria Online  
+    Manager Online Strategy  
+Information Victoria  
 Department of Business and Innovation  
-GPO Box 2392  
+GPO Box 4509  
 Melbourne Vic 3001  
 
 
 The Privacy Officer for the Department of Business and Innovation may also be contacted about access to, and correction of, personal information collected by Victoria Online or for any questions or concerns you may have arising out of this privacy statement:
 
 by email at:
-    [privacy@diird.vic.gov.au](mailto:%76%69%63%74%6f%72%69%61%2e%6f%6e%6c%69%6e%65%40%64%69%69%72%64%2e%76%69%63%2e%67%6f%76%2e%61%75)
+    [privacy@diird.vic.gov.au](mailto:privacy@diird.vic.gov.au)
 by telephone on:
     03 9651 9749 (between 9.00 am and 5.00 pm on weekdays except public holidays in Melbourne) 
 by post at:
