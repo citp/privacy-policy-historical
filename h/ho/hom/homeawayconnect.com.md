@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeawayconnect.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619040620id_/https%3A//www.homeawayconnect.com/popup.aspx%3Ftype%3D1%26control%3Dprivacypolicytxt.ascx%26culturename%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeawayconnect.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217220518id_/https%3A//www.homeawayconnect.com/popup.aspx%3Ftype%3D1%26control%3Dprivacypolicytxt.ascx%26culturename%3Den-US) for the most accurate reproduction.*
 
 # HomeAway Connect Privacy Policy
 
