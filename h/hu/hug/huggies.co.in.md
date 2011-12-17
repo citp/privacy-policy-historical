@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huggies.co.in privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502125824id_/http%3A//huggies.co.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.co.in privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217094436id_/http%3A//www.huggies.co.in/privacy.aspx) for the most accurate reproduction.*
 
 # Your Privacy - Huggies India
 
