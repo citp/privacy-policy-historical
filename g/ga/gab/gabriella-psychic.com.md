@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabriella-psychic.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606002023id_/http%3A//www.gabriella-psychic.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabriella-psychic.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217021339id_/http%3A//www.gabriella-psychic.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,6 +78,8 @@ We may share or disclose your PII with:
 We provide notice about our use of PII in this Policy, in our web pages, and in other locations where we collect information. You can choose whether or not to provide your PII to us. If you choose not to provide PII, you may be not be able to take advantage of certain offers, options, events and Services that depend upon accurate PII.
 
 If you have chosen to receive personalized messages, newsletters, or promotional communications by e-mail, you can at any time cancel this, or “opt-out”, by following the unsubscribe instructions provided in every e-mail you receive.
+
+You may unsubscribe directly from our site by following this link: <http://www.gabriella-psychic.com/desinscription.php> Put your email in the indicated field, press “Send” and your opt-out will be immediately effective
 
 **5\. ONWARD TRANSFER**
 
