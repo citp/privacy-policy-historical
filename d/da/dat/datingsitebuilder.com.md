@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingsitebuilder.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303175258id_/http%3A//www.datingsitebuilder.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingsitebuilder.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217115457id_/http%3A//www.datingsitebuilder.com/privacy.asp) for the most accurate reproduction.*
 
 # Dating Site Builder Privacy Policy
 
@@ -10,7 +10,7 @@ For customers, once you choose to provide us personally identifiable information
 
 Visitors To Our Web Site
 
-**What information do we collect?**
+ **What information do we collect?**
 
 When you visit our web site, our web server collects basic user information about you that includes your ISP's domain, the time you accessed our web site, and the pages from within our web site that you visit. 
 
@@ -28,7 +28,7 @@ Note that our site provides links to products and services offered by other comp
 
 Dating Site Builder Signed Up Members
 
-**What information do we collect?**
+ **What information do we collect?**
 
 When you sign up for Dating Site Builder's services, you provide us with both contact and payment information. Contact information typically includes your name, address, and phone number. Payment information typically includes your credit card number will be kept by our credit card payment gateway - InternetSecure. 
 
