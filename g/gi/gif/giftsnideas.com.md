@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the giftsnideas.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615140741id_/http%3A//www.giftsnideas.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsnideas.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217173626id_/http%3A//www.giftsnideas.com/info/privacy-policy) for the most accurate reproduction.*
 
-# | Giftsnideas.com
+# Privacy Policy of
 
-At Giftsnideas we are committed to protecting your privacy. We collect your personal information that you voluntarily provide to us while using our Web site features. Your privacy is important to us and we do not share your information with any third-party.
+At Giftsnideas we are committed to protecting your privacy. We collect your personal information that you voluntarily provide to us while using our Web site features for updating regarding [**Gifts**](http://www.giftsnideas.com/ "Gifts"). Your privacy is important to us and we do not share your information with any third-party.
 
   * The kinds of Personal Information we collect from users - Name, Address, Telephone number(optional), Email, Credit Card information and personal details like date of birth and gender (optional. When you visit our Site, we also collect some basic non-personally identifiable information about you. This information may include information regarding your operating system, browser software, and IP (Internet Protocol) address. Non-Personally Identifiable Information is collected in order to provide you with satisfactory service and cannot be used to identify you in any way.
   * How we use Personal Information - We use Personally Identifiable Information for internal purposes, such as confirming and tracking your order, subscription or registration, informing you of our new products, services and offers
