@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumecraze.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429022138id_/http%3A//www.costumecraze.com/_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecraze.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217073208id_/http%3A//www.costumecraze.com/_privacy.html) for the most accurate reproduction.*
 
 # Costume Craze Privacy Policy
 
@@ -28,7 +28,7 @@ Questions? Comments? We'd love to hear from you!
 
 ## Phone: 
 
-888-922-7293 or (801) 796-1053 ( **Se Habla Español** )
+888-922-7293 or (801) 796-1053
 
 ## Mailing Address:
 
