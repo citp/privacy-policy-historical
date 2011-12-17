@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhinsights.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501185901id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhinsights.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217123558id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
 
 # Privacy & Security | B&H Photo Video
 
@@ -104,7 +104,7 @@ We never collect or maintain information at our website from those we actually k
 
 If Security or privacy is still of concern to you
 
-If you do not want to receive promotional email from B&H, please [ click here](https://secure.bhphotovideo.com/bnh/controller/home?O=privacy&A=changeSubscribtion&Q=)
+If you do not want to receive promotional email from B&H, please [ click here](https://secure.bhphotovideo.com/bnh/controller/?O=privacy&A=changeSubscribtion&Q=)
 
 Note: Once you have submitted your request you should assume that it has been successfully received and your request is being processed. Please allow us a reasonable period from when the request was received to complete the removal.
 
