@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2006-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061203020536id_/http%3A//inflationdata.com/Inflation/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inflationdata.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217091105id_/http%3A//www.inflationdata.com/Inflation/PrivacyStatement.asp) for the most accurate reproduction.*
 
-# Inflation Data .com's Privacy Statement
+# InflationData: Privacy Statement
+
+Last Updated April 15, 2011
 
 Capital Professional Services is committed to protecting your privacy. This privacy statement explains data collection and use practices of the www.inflationdata.com site (the “Site”). By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
 
@@ -33,7 +35,7 @@ Please be aware that this Privacy Statement and the choices you make on the Site
 
 ### Access to your Personal Information
 
-Customer information is by Capital Professional Services via a web site hosted at Intermedia.net. It is stored at Intermedia.net, plus sent back to Capital Professional Services. You can review and edit information stored at Capital Professional Services by sending us e-mail at idadmin@inflationdata.com.
+Customer information is by Capital Professional Services via a web site hosted at HostGator.com. It is stored at HostGator.com, plus sent back to Capital Professional Services. You can review and edit information stored at Capital Professional Services by sending us e-mail at [idadmin@InflationData.com](mailto:idadmin@InflationData.com) .
 
 ### Security of your Personal Information 
 
@@ -43,6 +45,8 @@ Capital Professional Services strictly protects the security of your personal in
 
 We use cookies on this Site to ensure the integrity of the registration process. We use a session cookie, meaning it expires soon after you leave the registration process, and is not placed on your hard drive unless you specify you wish to "log on automatically." 
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/pdfs/NAI_principles.pdf).
+
 ### Links to Other Web Sites 
 
 This Site may contain links to other Web sites. Please be aware that this Privacy Statement applies solely to the information collected on the Site. We are not responsible for the privacy practices or the content of other Web sites. We encourage you to be aware when you are leaving this Site and read the privacy statements of each and every Web site that you visit before providing any personally identifiable information. 
@@ -50,15 +54,3 @@ This Site may contain links to other Web sites. Please be aware that this Privac
 ### Changes to This Privacy Statement 
 
 We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are protecting the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
-
-### Contact Information
-
-If you have questions about our privacy statement or our use of your information, or if you need help changing your personal information, please contact us by sending e-mail to idadmin@inflationdata.com or writing us at: 
-
-inflationdata.com  
-7283 Yahley Mill Road  
-Richmond, Virginia 23231-6422  
-(804) 795-5794  
-
-
- 
