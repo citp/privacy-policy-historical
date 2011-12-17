@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kensavage.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510163518id_/http%3A//www.kensavage.com/contact-ken-savage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kensavage.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217124932id_/http%3A//www.kensavage.com/contact-ken-savage/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
