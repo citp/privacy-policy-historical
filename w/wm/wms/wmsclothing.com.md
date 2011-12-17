@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wmsclothing.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619192431id_/http%3A//www.wmsclothing.com/cgi-bin/category.cgi%3Fcategory%3Dsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmsclothing.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218004112id_/http%3A//www.wmsclothing.com/cgi-bin/category.cgi%3Fcategory%3Dsecurity) for the most accurate reproduction.*
 
-# Wholesale Lingerie Sexy Shoes Teen Junior Clothing Jewelry Accessories
+# Wholesale Lingerie Shoes Dropship Women Sexy Trendy Accessories Plus Size Jewelry Clothes Clubwear
 
   
 
