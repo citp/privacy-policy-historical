@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperswide.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626053440id_/http%3A//wallpaperswide.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperswide.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217093702id_/http%3A//wallpaperswide.com/policy.html) for the most accurate reproduction.*
 
 # WallpapersWide.com - Free High Quality Wallpapers
 
