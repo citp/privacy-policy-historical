@@ -1,0 +1,37 @@
+> *The following text is extracted and transformed from the yeepgame.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217192746id_/http%3A//www.yeepgame.com/support/Privacy_Policy) for the most accurate reproduction.*
+
+# Support-Yeepgame.com-Harness the Power of Yeep!
+
+Privacy Policy
+
+    
+
+Privacy Policy
+
+GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY)
+
+[www.yeepgame.com](http://www.yeepgame.com/) absolutely respects and ensures the privacy of your information on the internet and your own personal privacy. To better help you understand how we collect, use, and protect the information you give to us, please read the following Privacy Policy.
+
+**1\. What information we need and how we use it  
+**When you sign up to become one of our registered users, we will request personal information from you such as your email address. We will only use this information to assist you with purchases, inform you of purchases and other account history, and simply to contact you.
+
+**2\. About Cookies  
+**For better personal service, GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY) may use cookies to save certain information and track data. This site uses cookies to track the number of visitors to the site, as well as their current web browser. This information is collected for market analysis purposes only. Cookies also serve as a third-party user: when ad agencies place ads on the site, the market analysis, information and other data they collect comes from cookies, and not directly from you.
+
+**3\. Data Sharing  
+**GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY) will never sell your personal information to any other individual or organization. GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY) will adhere to this Privacy Policy when sharing certain information with third-party users, except in the following situations.  
+1\. To provide you with better service, when we are required to share your information or other data in order to provide you with certain services or benefits (such as a special event, giveaway or in-game competition), these services or benefits will be explained in the News section of our website. You have the choice to decide whether or not to accept these services.  
+2\. Judicial requirements; or when we find that your behavior on our site is illegal. For public safety, this site will cooperate with the respective agent of law by providing them with whatever information they require.
+
+4\. Links  
+If you follow links or ads on our site that link to other websites, please be sure that you are familiar with their own privacy policies; our privacy policy does not apply to any external sites.
+
+5\. Protecting Yourself  
+Please keep your account and password private and do not give such information to anyone else. If you're using a shared computer, log out and close out of all game windows to protect your personal information.
+
+6\. Changes to this Privacy Policy  
+GAMEWAVE CHINA HOLDINGS LIMITED (THE COMPANY) reserves the right to change or delete portions of this Privacy Policy at any time, as well as make any additions to it, which will be announced and made effective on the Home page's News section.
+
+Last modified: April, 2011.     
+
+GAMEWAVE CHINA HOLDINGS LIMITED
