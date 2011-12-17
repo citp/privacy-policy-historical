@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430042617id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217053125id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
 
 # RV.Net : Privacy Policy
 
