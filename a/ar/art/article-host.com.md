@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-host.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607201631id_/http%3A//www.article-host.com/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-host.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217022746id_/http%3A//www.article-host.com/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Free Article-host
 
