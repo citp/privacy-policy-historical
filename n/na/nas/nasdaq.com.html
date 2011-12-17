@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the nasdaq.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630012932id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nasdaq.com privacy policy that was archived on 2011-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217044108id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8850.js?438995" async="" type="text/javascript"></script><script>
 
 myPage='privacy';
 sectionId = 'liHome';//section tab
@@ -60,13 +60,14 @@ propVar15 = "Home and our company";
 <!-- {{{{{{{{{{{{{{{{{{{ NOTE: update includes/masthead_partner.inc with new changes as well }}}}}}}}}}}}}}}}}}}}}}}} -->
 
 <script type="text/javascript" language="javascript" src="http://www.nasdaq.com/includes/masthead_default.js"></script>
-<script type="text/javascript" language="javascript" src="http://content.nasdaq.com/includes/DartAdEngine.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.nasdaq.com/includes/DartAdEngine.js"></script>
+<script type="text/javascript" language="javascript" src="http://www.nasdaq.com/dynamic_includes/marketstatus.js"></script>
 <script type="text/javascript" language="javascript" src="http://content.nasdaq.com/services/onlineopinionS3tS/oo_engine.js" charset="windows-1252"></script>
 
 <!-- master and base stylesheets -->
 <link rel="stylesheet" type="text/css" href="http://content.nasdaq.com/includes/master.css">
 <link rel="stylesheet" type="text/css" href="http://content.nasdaq.com/includes/ListedCompanies.css">
-<link rel="stylesheet" type="text/css" href="http://www.nasdaq.com/includes/consolidated/base_08.css">
+<link rel="stylesheet" type="text/css" href="http://content.nasdaq.com/includes/consolidated/base_11.css">
 
 <!-- favicon and shortcut icons -->
 <link rel="icon" href="http://content.nasdaq.com/images/qfav.ico" type="image/x-icon">
@@ -110,13 +111,31 @@ propVar15 = "Home and our company";
 		}
 	}		
    
-	
+
 //]]>
 </script>
 
 <script type="text/javascript" src="http://psf.pointroll.com/pointroll/script/psf.js"></script>
 
 <!--******************************************** End Stylesheets *********************************************-->
+
+<!-- 
+show Blackberry Playbook qfolio app download links for blackberry devices, also hide the feedback button 
+-->
+<script type="text/javascript">
+
+if(navigator.userAgent.match(/playbook/i)) 
+{
+	bodyEle = document.getElementsByTagName("body")[0];
+	var messagebox = document.createElement('div');
+	messagebox.setAttribute("style","text-align: left; font:12px arial; margin-left: 10px; padding-left: 9px; width: 980px; background-color: rgb(255, 255, 126); padding-bottom: 5px; margin-top: 5px; border-width: 3px; border-color: yellow; border-style: solid; padding-top: 5px;");
+	messagebox.innerHTML = '<b style="text-align:left">Looks like you are using the Blackberry Playbook,</b> <a target="_blank" href="http://appworld.blackberry.com/webstore/content/59913?lang=en ">download the Qfolio - NASDAQ OMX Portfolio Manager </a>';
+	bodyEle.insertBefore(messagebox,document.getElementById("container"));
+	document.write("<style>#oo_feedback_float{display:none;}</style>");
+}
+
+</script>
+
 <!-- 
 show ipad/iphone qfolio app download links for these devices, also hide the feedback button 
 -->
@@ -141,11 +160,14 @@ else if(navigator.userAgent.match(/iPad/i))
 	document.write("<style>#oo_feedback_float{display:none;}</style>");
 }
 </script>
+
+
 <!--***************************************** NASDAQ Branding ****************************************************-->
 <div id="branding">
 
   <div id="branding-logo">
-    <a href="http://www.nasdaq.com" title="NASDAQ"></a>
+    <a href="http://www.nasdaq.com/" title="NASDAQ Stock Market"></a>
+	
   </div>
 
   <!-- old google search stuff start -->
@@ -155,24 +177,31 @@ else if(navigator.userAgent.match(/iPad/i))
     <script type="text/javascript" language="JavaScript">makeAd('1','728x90',is_dartSite,is_dartZone,'','');</script>
   </div>
   <!--*********************End Masthead Ad******************************-->
-
+  
 </div>
 <!--******************************************End NASDAQ Branding************************************************-->
 
 
 <!-- start Quick Find section -->
+
+<script type="text/javascript" language="javascript">
+	setQuickFindQuoteLink();
+</script>
+
 <div id="quick-find">
 
-  <div class="quick-find-text" style="width:470px">
-    QUICK FIND:
+  <div class="quick-find-text" style="width:485px">
+    
     <span class="quick-find-links" style="padding-left: 4px;">
-      <a href="http://www.nasdaq.com/investing/etfs/">ETFs</a> |
+	  <a href="http://www.nasdaq.com"><img src="http://content.nasdaq.com/images/home_img-c.gif" style="width:12px;height:12px;margin-right:4px;margin-top:1px;"><b>Home</b></a> |
+ 	  <a href="http://community.nasdaq.com/MyNasdaq.aspx">My NASDAQ</a> |
       <a href="http://www.nasdaq.com/investing/tools.aspx">Tools</a> |
-      <a href="http://dynamic.nasdaq.com/aspx/extendedTrading.aspx">After Hours</a> |
-      <a href="http://www.nasdaq.com/markets/global-indices.aspx">Global Indices</a> |
-	  <!--<a href="http://www.esignal.com/marketview/" target="_blank">Pro Market Data</a> |-->
-	  <a href="http://nasdaq.elearners.com/colleges/">Earn a Degree</a> | 
-     <a href="http://www.nasdaq.com/screening/company-list.aspx">Company List</a>
+      <a href="http://www.nasdaq.com/about/iphone/">Mobile</a> | 
+      <a href="http://www.nasdaq.com/screening/company-list.aspx">Company List</a> |
+	  <a href="http://www.nasdaq.com/investing/etfs">ETFs</a> |
+	  <a id="qfPMlink" href="http://www.nasdaq.com/quotes/premarket.aspx">Pre-Market Quotes</a>
+	  <a id="qfRTlink" href="http://www.nasdaq.com/quotes/real-time.aspx">Real-Time Quotes</a>
+	  <a id="qfAHlink" href="http://www.nasdaq.com/quotes/after-hours.aspx">After Hours Quotes</a>
     </span>
   </div>
 
@@ -195,17 +224,20 @@ else if(navigator.userAgent.match(/iPad/i))
 
       <div class="search-box">
 
-		<div id="dropdown-container">
-			<img class="arrow-dropdown" src="http://www.nasdaq.com/images/arrow-btn-down-2.jpg" alt="" onclick="handleSearchDropClick();">
-			<input class="searchbox" id="input-search-text" type="text" name="search" value="Site Search" style="color:#838383" onfocus="if(this.value=='Site Search'){this.value='';this.style.color='black';}" onkeypress="return handleSearchKeyPress(event);">
-			<input class="searchbox_submit" type="image" src="http://www.nasdaq.com/images/eyeglass-1.png" value="submit" alt="Search" onclick="javascript:Cis_submitSearch()">
-		</div>
-		<ul id="dropdown-look" style="display:none">
-			<li style="text-indent:0px" id="nSearchOption" class="see-highlight" onclick="selectSearchType(0,'nasdaqImg');" onmouseover="setST('nSearchOption','wSearchOption','wSearchOption')"><img src="http://www.nasdaq.com/images/check-box.jpg" id="nasdaqImg"> Search NASDAQ</li>
-			<li style="text-indent:0px" id="wSearchOption" class="see-option" onclick="selectSearchType(1,'webImg');" onmouseover="setST('wSearchOption','nSearchOption','nSearchOption')"><img src="http://www.nasdaq.com/images/blank-box.jpg" id="webImg"> Search Web</li>
-			<li style="text-indent:0px" id="lSearchOption" class="see-option" onclick="selectSearchType(2,'localImg');" onmouseover="setST('lSearchOption','nSearchOption','wSearchOption')"><img src="http://www.nasdaq.com/images/blank-box.jpg" id="localImg"> Search Local</li>
-		</ul>
+<div id="dropdown-container">
+	<img class="arrow-dropdown" src="http://www.nasdaq.com/images/arrow-btn-down-2.jpg" alt="" onclick="handleSearchDropClick();">
+	<input class="searchbox" id="input-search-text" type="text" name="search" value="Site Search" style="color:#838383" onfocus="if(this.value=='Site Search'){this.value='';this.style.color='black';}" onkeypress="return handleSearchKeyPress(event);">
+	<input class="searchbox_submit" type="image" src="http://www.nasdaq.com/images/eyeglass-1.png" value="submit" alt="Search" onclick="javascript:Cis_submitSearch()">
+</div>
+<ul id="dropdown-look" style="display:none">
+	<li style="text-indent:0px" id="nSearchOption" class="see-highlight" onclick="selectSearchType(0,'nasdaqImg');" onmouseover="setST('nSearchOption','wSearchOption','lSearchOption')"><img src="http://www.nasdaq.com/images/check-box.jpg" id="nasdaqImg"> Search NASDAQ</li>
+	<li style="text-indent:0px" id="wSearchOption" class="see-option" onclick="selectSearchType(1,'webImg');" onmouseover="setST('wSearchOption','nSearchOption','lSearchOption')"><img src="http://www.nasdaq.com/images/blank-box.jpg" id="webImg"> Search Web</li>
+	<li style="text-indent:0px" id="lSearchOption" class="see-option" onclick="selectSearchType(2,'localImg');" onmouseover="setST('lSearchOption','nSearchOption','wSearchOption')"><img src="http://www.nasdaq.com/images/blank-box.jpg" id="localImg"> Search Local</li>
+</ul>
+
+        
       </div>
+
     </div>
   </div>
 
@@ -213,15 +245,9 @@ else if(navigator.userAgent.match(/iPad/i))
   <div class="register-login">
     <div class="register">
       <!--<span href="#">Register</span> | <span href="#" style="font-weight: bold;">Login</span>-->
-      <script>
-		  var passurl = document.location.href;
-		  urlFilt = /[;)(]|%27|%22|%3C|%3E|%uFF1C|%uFF1E|%u003C|%u003E|%u0028|%u0029|%u0027|%u0022|%u003B/g;
-		  if(!urlFilt.test(passurl))
-		  {
-			  var ltsp = new Date();
-			  document.write("<script src='http://www.nasdaq.com/aspx/communitylogin.aspx?turl="+passurl+"&"+ltsp.getTime()+"'><\/script>");
-		  }
-        </script><script src="http://www.nasdaq.com/aspx/communitylogin.aspx?turl=https://web.archive.org/web/20110630012932id_/http%3A//www.nasdaq.com/sitespecific/privacy.stm&amp;1580382406394"></script>
+      <script type="text/javascript">
+		  showLoginStatus();
+       </script>
       </div>
   </div>
 
@@ -229,179 +255,809 @@ else if(navigator.userAgent.match(/iPad/i))
 
 <!-- END includes/masthead_default.inc //-->
 
+
+
+
+
+
 <!--*****************************Begin includes/MainNav.inc**************************************************-->
 
 <!-- {{{{{{{{{{{{{{{{{{{ NOTE: update includes/MainNavPartner.inc with new changes as well }}}}}}}}}}}}}}}}}}}}}}}} -->
 
 <!--*****************************************Navigation Tabs ***************************************************-->
 
-<!-- INCLUDE file="../includes/mainnavlinks.inc" -->
+<!-- start nav--> 
 
-<ul id="navigation"> 
+<div id="main-nav-container"><!-- start main-nav-container--> 
 
-    <li id="liHome" class="off"><a href="http://www.nasdaq.com"><span id="varPadding">Home</span></a>
-        <ul>
-            <li id="LiSM"><a class="singleline" href="http://www.nasdaq.com/help/sitemap.stm"><span>Site Map</span></a></li>
-            <li id="Li6"><a class="singleline" href="http://www.nasdaq.com/services/insidenasdaq.stm"><span>Listing Center</span></a></li>
-            <li id="LiNS"><a class="singleline" href="http://www.nasdaq.com/screening/company-list.aspx"><span>Company List</span></a></li>
-            <li id="rtPT"><a class="singleline" href="http://porttracker.nasdaq.com/portfolio/portfoliotracking.aspx"><span>Portfolio Tracker</span></a></li>
-			<li><a class="singleline" href="http://www.nasdaq.com/alerts/AlertManager.aspx"><span>Custom Stock Alerts</span></a></li>
-            <li id="rtMyNas"><a class="singleline" href="http://www.nasdaq.com?view=mynasdaq"><span>My List – (My NASDAQ)</span></a></li>
-            <li id="rtTicker"><a class="singleline" href="http://ticker.nasdaq.com/reference/TickerNewLogin.stm"><span>Ticker</span></a></li>
-            <li><a class="singleline" href="http://screening.nasdaq.com/heatmaps/heatmapcustom.asp"><span>My Heatmap</span></a></li>
-            <li id="Li7" class="bot_link"><a class="singleline" href="http://www.nasdaq.com/help/sitemap.stm#othersites"><span>NASDAQ OMX Sites</span></a></li>
-			<li><a class="singleline" href="http://www.nasdaq.com/marketsite/marketsite_events.stm"><span>MarketSite</span></a></li>
-            <li id="Li8"><a class="singleline" href="http://www.nasdaq.com/help/helpfaq.stm"><span>Help</span></a></li>
-			<li id="Li9" class="bot_link"><a class="singleline" href="http://www.nasdaq.com/help/nasdaq_advertising.stm"><span>Advertise with us</span></a></li>
-        </ul>
-        </li>
-    
-    <li id="liQuotes" class="off"><a href="http://www.nasdaq.com/includes/quotes_hub.stm"><span>Quotes &amp; Research</span></a>
-        <ul>
-            <li><a class="singleline" href="http://www.nasdaq.com/includes/quotes_hub.stm"><span>Quotes +</span></a></li>
-            <li id="qCharts"><a class="singleline" href="http://www.nasdaq.com/quotes/interactive-charts.aspx"><span>Charts</span></a></li>
-            <li id="qHolders"><a class="singleline" href="http://www.nasdaq.com/reference/ownership.stm"><span>Institutional Holdings</span></a></li>	
-            <li class="doubleline" id="qInternational"><a class="singleline" href="http://www.nasdaq.com/markets/global-markets.aspx"><span>Global Indexes and Quotes </span></a></li>
-            <li id="qLive"><a class="singleline" href="http://www.esignal.com/livequotes/" target="_blank"><span>LiveQuotes Service</span></a></li>
-			<li id="marketview"><a class="singleline" href="http://www.esignal.com/marketview/"><span>Marketview</span></a></li>
-		    </ul>
-        </li>
+<ul id="main-nav"><!-- start main-nav-ul-->
+<!-- start Quotes and Research Section-->
+	<li id="liQuotes" class="mega"><a href="http://www.nasdaq.com/quotes/"><span id="liQuotes-span">Quotes &amp; Research</span></a>
+		<iframe></iframe>
+		<div class="mega-open"><span class="mega-open-top-border span-right"></span>
+			<div class="mega-open-column1" style="margin-left:10px;"><!--start mega-open-column1 (QR)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb" style="list-style-image: url('http://www.nasdaq.com/images/qh_quotes_on1_small.png')">
+						<h3>
+							<a href="http://www.nasdaq.com/quotes/">Stock Quotes</a>
 
-	  <li id="liExtended" class="off"><a href="http://dynamic.nasdaq.com/aspx/extendedTrading.aspx"><span>Extended Trading</span></a>
-        <ul>
-			<li><a class="singleline" href="http://dynamic.nasdaq.com/aspx/extendedTrading.aspx"><span>Extended Trading Home</span></a></li>  
-			<li id="etAHQ" class="bot_link"><a class="singleline" href="http://www.nasdaq.com/quotes/after-hours.aspx"><span>After Hours Quotes</span></a></li>  
-            <li id="etPMQ"><a class="singleline" href="http://www.nasdaq.com/quotes/premarket.aspx"><span>Pre-Market Quotes</span></a></li>  
-      <li id="etAHMA"><a class="singleline" href="http://www.nasdaq.com/extended-trading/afterhours-mostactive.aspx"><span>After Hours Most Active</span></a></li>  
-            <li id="etPMMA"><a class="singleline" href="http://www.nasdaq.com/extended-trading/premarket-mostactive.aspx"><span>Pre-Market Most Active</span></a></li>
-            <li id="etPMHM"><a class="singleline" href="http://screening.nasdaq.com/heatmaps/heatmap_pmi.asp"><span>Pre-Market Heatmap</span></a></li>
-		    </ul>
-        </li>
+						</h3>
+					</li>
+				</ul>
+				<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/stock-quotes.aspx" class="a-mega">Summary Quotes</a>
 
-    <li id="liActivity" class="off"><a href="http://dynamic.nasdaq.com/aspx/majorindices.aspx"><span>Market Activity</span></a>
-        <ul>
-          <li><a class="singleline" href="http://dynamic.nasdaq.com/aspx/majorindices.aspx"><span>Market Activity Home</span></a></li>
-          <li id="maMi"><a class="singleline" href="http://quotes.nasdaq.com/aspx/marketindices.aspx"><span>Market Indices</span></a></li>
-		  <li id="maMA"><a class="singleline" href="http://dynamic.nasdaq.com/aspx/mostactive.aspx"><span>Most Active</span></a></li>
-          <li id="maComm"><a class="singleline" href="http://www.nasdaq.com/markets/commodities.aspx"><span>Commodities</span></a></li>
-          <li id="maSector"><a class="singleline" href="http://www.nasdaq.com/reference/BarChartSectors.stm"><span>Sector Analysis</span></a></li>
-          <li id="maUnusual"><a class="singleline" href="http://www.nasdaq.com/aspx/unusualvolume.aspx"><span>Unusual Volume</span></a></li>
-		  <li id="maGlobal"><a class="singleline" href="http://www.nasdaq.com/markets/global-indices.aspx"><span>Global Indices</span></a></li>
-          <li id="maSi"><a class="singleline" href="http://quotes.nasdaq.com/aspx/sectorindices.aspx"><span>Sector Indices</span></a></li>
-          <li id="ma52"><a class="singleline" href="http://dynamic.nasdaq.com/asp/52weekshilow.asp?exchange=NASDAQ"><span>52 Wk Hi/Low</span></a></li>
-          <li id="maTot" class="bot_link"><a class="singleline" href="http://www.nasdaq.com/aspx/TotalReturn.aspx"><span>Total Returns</span></a></li>
-	     </ul>
-        </li>
-  
- <li id="liMarket" class="off"><a href="http://www.nasdaq.com/news/"><span>News</span></a>
-     <ul>
-			<li><a class="singleline" href="http://www.nasdaq.com/news/"><span>News Home</span></a></li>
-            <li id="miMovingTheMarket"><a class="singleline" href="http://www.nasdaq.com/aspx/market-summary.aspx"><span>Moving the Market</span></a></li>
-            <li id="miHeadlines"><a class="singleline" href="http://www.nasdaq.com/aspx/market-headlines.aspx"><span>Market Headlines</span></a></li>
-            <li><a class="singleline" href="http://www.nasdaq.com/aspx/bond-market-update.aspx"><span>Bond Market News</span></a></li>			     
-            <li id="miEconomic" class="bot_link"><a class="singleline" href="http://www.nasdaq.com/markets/us-economic-calendar.aspx"><span>Economic Calendar</span></a></li>			     
-            <li id="miBVideo"><a class="singleline" href="http://www.nasdaq.com/asp/video-clips.asp?channel=current-news"><span>Business Video</span></a></li> 
-        </ul>
-        </li>
-  
-      <li id="liCommunity" class="off"><a href="http://community.nasdaq.com"><span>Community</span></a>
-        <ul>
-          <li><a class="singleline" href="http://community.nasdaq.com"><span>Community Home</span></a></li>
-          <li><a class="singleline" href="http://community.nasdaq.com/MyNasdaq.aspx"><span>My NASDAQ</span></a></li>
-		  <li><a class="singleline" href="http://community.nasdaq.com/Profiles/Profile.aspx"><span>My Profile</span></a></li>
-		  <li><a class="singleline" href="http://community.nasdaq.com/MyPortfolio.aspx"><span>My Portfolio</span></a></li>
-          <li><a class="singleline" href="http://community.nasdaq.com/MyRatings.aspx"><span>Stock Ratings</span></a></li>
-		  <li><a class="singleline" href="http://community.nasdaq.com/most-rated-stocks.aspx"><span>Most Rated Stocks</span></a></li>
-		  <li><a class="singleline" href="http://community.nasdaq.com/HighestRatedArticles.aspx"><span>Most Rated Articles</span></a></li>
-		 </ul>
-        </li>
-    
-    <li id="liInvestment" class="off"><a href="http://www.nasdaq.com/investing/"><span>Investing</span></a>
-        <ul>
-		  <li><a class="singleline" href="http://www.nasdaq.com/investing/"><span>Investing Home</span></a></li>
-		  <li><a class="singleline" href="http://www.nasdaq.com/investing/online-brokers.stm"><span>Broker Comparison</span></a></li>
-		  <li id="ipClosed"><a class="singleline" href="http://quotes.nasdaq.com/asp/closedendfunds.asp"><span>Closed End Funds</span></a></li>
-		  <li><a class="singleline" href="http://www.nasdaq.com/investing/etfs/"><span>ETFs</span></a></li>
-		  <li><a class="singleline" href="http://www.nasdaq.com/advisor/"><span>Financial Advisor Center</span></a></li>
-		  <li><a class="singleline" href="http://www.nasdaq.com/investing/forex/"><span>Forex</span></a></li>
-		  <li><a class="singleline" href="http://www.nasdaq.com/investing/investing-basics.stm"><span>Investing Basics</span></a></li>
-          <li class="doubleline" id="rtIPO"><a class="singleline" href="http://www.nasdaq.com/reference/IPOs.stm"><span>Initial Public Offerings (IPO)</span></a></li>
-          <li id="qMutual"><a class="singleline" href="http://www.nasdaq.com/investing/mutual-funds.stm"><span>Mutual Funds</span></a></li>
-          <li id="ipNFP"><a class="singleline" href="http://www.nasdaq.com/indexes" target="_blank"><span>NASDAQ OMX Indexes</span></a></li>
-          <li><a class="singleline" href="http://www.nasdaq.com/investing/newsletter-signup.stm"><span>NASDAQ Newsletter</span></a></li>
-          <li id="qEquity"><a class="singleline" href="http://www.nasdaq.com/investing/options.aspx"><span>Options</span></a></li>
-          <li id="qStocks"><a class="singleline" href="http://www.nasdaq.com/investing/stocks.stm"><span>Stock Trading</span></a></li>
-          <li id="ipStructured"><a class="singleline" href="http://quotes.nasdaq.com/indexshares/index_shares_over.stm"><span>Structured Products</span></a></li>
-          <li><a class="singleline" href="http://www.nasdaq.com/investing/tools.aspx"><span>Trading Tools</span></a></li>
-		  <li><a class="singleline" href="http://www.nasdaq.com/MarketReplay"><span>Market Replay LITE</span></a></li>
-		 </ul>
-        </li>
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/real-time.aspx" class="a-mega">Real Time Quotes</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/extended-trading/" class="a-mega">Extended Trading</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/options-chain.aspx" class="a-mega">Options Chain</a>
+
+								</p>
+							</li>
+							
+				</ul>
+				<ul class="mega-open-list">
+
+					
+					<li class="mega_bb" style="list-style-image: url('http://www.nasdaq.com/images/qh_charts_on1_small.png')">
+						<h3>
+							<a href="http://www.nasdaq.com/quotes/stock-charts.aspx">Charts</a>
+
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/stock-charts.aspx" class="a-mega">Basic Charts</a>
+
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/interactive-charts.aspx" class="a-mega">Interactive Charts</a>
+
+								</p>
+							</li>
+						</ul>
+				<ul class="mega-open-list">
+					<li class="mega_bb" style="list-style-image: url('http://www.nasdaq.com/images/qh_news_on1_small.png')">
+
+						<h3>
+							<a href="http://www.nasdaq.com/quotes/company-news.aspx">Company News</a>
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/company-news.aspx" class="a-mega">News</a>
+
+								</p>
+							</li>
+							
+
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/press-releases.aspx" class="a-mega">Press Releases</a>
+								</p>
+							</li>
+						</ul>
+
+			</div><!--end mega-open-column1 (QR)-->
+			<div class="mega-open-column2"><!--start mega-open-column2 (QR)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb" style="list-style-image: url('http://www.nasdaq.com/images/qh_news_on1_small.png')">
+						<h3>
+							<a class="no-link-no-hover">Company Profile</a>
+						</h3>
+					</li>
+
+				</ul>	
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/stock-reports.aspx" class="a-mega">Stock Reports</a>
+								</p>
+							</li>
+							<li>
+
+								<p>
+									<a href="http://www.nasdaq.com/quotes/sec-filings.aspx" class="a-mega">SEC Fillings</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/short-interest.aspx" class="a-mega">Short Interest</a>
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/business-competitors.aspx" class="a-mega">Competitors</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/ownership.aspx" class="a-mega">Ownership</a>
+
+								</p>
+							</li>
+						</ul>
+				<ul class="mega-open-list">
+					<li class="mega_bb" style="list-style-image: url('http://www.nasdaq.com/images/qh_fundamentals_on1_small.png')">
+						<h3>
+							<a class="no-link-no-hover">Fundamentals</a>
+						</h3>
+
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/company-financials.aspx" class="a-mega">Financials</a>
+								</p>
+							</li>
+
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/revenue-eps.aspx" class="a-mega">Revenue EPS</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/analyst-research.aspx" class="a-mega">Analyst Research</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/quotes/stock-guru-analysis.aspx" class="a-mega">Guru Analysis</a>
+								</p>
+							</li>
+						</ul>
+
+			</div><!--end mega-open-column2 (QR)-->
+		</div>
+	</li>
+	<!-- end Quotes and Research Section-->
 	
-    <li id="liPersonal" class="off"><a href="http://www.nasdaq.com/personal-finance/"><span>Personal Finance</span></a>
+	<!-- start Market Activity Section-->
+	<li id="liMarket" class="mega"><a href="http://www.nasdaq.com/markets/"><span id="liMarket-span">Market Activity</span></a>
+		<iframe></iframe>
+		<div class="mega-open"><span class="mega-open-top-border span-right"></span>
+			<div class="mega-open-column1"><!--start mega-open-column1 (MA)-->
+				<ul class="mega-open-list">
+			
 
-       <ul>
-            <li><a class="singleline" href="http://www.nasdaq.com/personal-finance/"><span>Personal Finance Home</span></a></li>
-            <li><a class="singleline" href="http://www.nasdaq.com/personal-finance/banking-loans.aspx"><span>Banking &amp; Loans</span></a></li>
-			<li><a class="singleline" href="http://careers.nasdaq.com"><span>Careers</span></a></li>
-			<li><a class="singleline" href="http://www.nasdaq.com/personal-finance/college.aspx"><span>College</span></a></li>
-            <li><a class="singleline" href="http://www.nasdaq.com/personal-finance/credit-debt.aspx"><span>Credit &amp; Debt</span></a></li>
-            <li><a class="singleline" href="http://www.nasdaq.com/personal-finance/insurance.aspx"><span>Insurance</span></a></li>
-            <li><a class="singleline" href="http://porttracker.nasdaq.com/portfolio/portfoliotracking.aspx"><span>Portfolio Tracker</span></a></li>
-			<li><a class="singleline" href="http://www.nasdaq.com/personal-finance/real-estate.aspx"><span>Real Estate</span></a></li>
-            <li><a class="singleline" href="http://www.nasdaq.com/personal-finance/retirement.aspx"><span>Retirement</span></a></li>
-			<li><a class="singleline" href="http://www.nasdaq.com/personal-finance/small-business.aspx"><span>Small Business</span></a></li>
-			<li><a class="singleline" href="http://www.nasdaq.com/personal-finance/taxes.aspx"><span>Taxes</span></a></li>
-	    </ul>
-        </li>
-</ul>
+					<li class="mega_bb">			
+						<h3>
+							<a href="http://www.nasdaq.com/extended-trading/">Extended Hours</a>
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/extended-trading/premarket-mostactive.aspx" class="a-mega">Pre-Market Activity</a>
 
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/extended-trading/afterhours-mostactive.aspx" class="a-mega">After Hours Activity</a>
+								</p>
+							</li>
+
+						</ul>
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a class="no-link-no-hover">Stocks</a>
+
+						</h3>
+					</li>
+				</ul>
+				
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://dynamic.nasdaq.com/aspx/mostactive.aspx" class="a-mega">Most Active</a>
+								</p>
+							</li>
+
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/aspx/unusualvolume.aspx" class="a-mega">Unusual Volume</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/aspx/52-week-high-low.aspx" class="a-mega">52 Week High/Low</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/reference/upcoming_splits.stm" class="a-mega">Upcoming Splits</a>
+								</p>
+							</li>
+							<li>
+
+								<p>
+									<a href="http://www.nasdaq.com/reference/sec_filings_n.stm" class="a-mega">New SEC Filings</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/markets/ipos" class="a-mega">IPO Summary</a>
+								</p>
+
+							</li>
+						</ul>
+					
+			</div><!--end mega-open-column1 (MA)-->
+			<div class="mega-open-column2"><!--start mega-open-column2 (MA)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/markets/commodities.aspx">Commodities</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/etfs/">ETFs</a>
+						</h3>
+					</li>
+
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/reference/BarChartSectors.stm">Sector Analysis</a>
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/markets/global-markets.aspx">Global Markets</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a class="no-link-no-hover">Analyst Activity</a>
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/earnings/daily-analyst-recommendations.aspx" class="a-mega">Upgrades/Downgrades</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/earnings/analyst-forecast-change.aspx" class="a-mega">Forecast Changes</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/earnings/daily-earnings-surprise.aspx" class="a-mega">Earning Surprises</a>
+								</p>
+							</li>
+
+						</ul>
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a class="no-link-no-hover">Indices</a>
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/markets/indices/major-indices.aspx" class="a-mega">Market Indices</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/markets/indices/sector-indices.aspx" class="a-mega">Sector Indices</a>
+
+								</p>
+							</li>
+						</ul>
+					
+			</div><!--end mega-open-column2 (MA)-->
+		</div>   
+    </li>
+
+	<!-- end Market Activity Section-->
+	
+	<!-- start News and Commentary Section-->
+    <li id="liNews" class="mega"><a href="http://www.nasdaq.com/news/"><span id="liNews-span">News &amp; Commentary</span></a>
+		<iframe></iframe>
+		<div class="mega-open"><span class="mega-open-top-border span-right"></span>
+			<div class="mega-open-column1"><!--start mega-open-column1 (NI)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/quotes/company-news.aspx">Company News</a>
+						</h3>
+					</li>
+					<li class="mega_bb" style="list-style-image: url('')">
+
+						<h3>
+							<a href="http://www.nasdaq.com/aspx/market-headlines.aspx">Market Headlines</a>
+						</h3>
+					</li>
+					<li class="mega_bb no-border-dotted">			
+						<h3>
+							<a href="http://www.nasdaq.com/aspx/market-summary.aspx">Moving the Market</a>
+						</h3>
+
+					</li>
+				</ul>
+			</div><!--end mega-open-column1 (NI)-->
+			<div class="mega-open-column2" style="padding-right:20px;"><!--start mega-open-column2 (NI)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/markets/us-economic-calendar.aspx">Economic Calendar</a>
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/aspx/weekly-wrap.aspx">Weekly Wrap</a>
+
+						</h3>
+					</li>
+                       <li class="mega_bb no-border-dotted">
+						<h3>
+							<a href="http://www.nasdaq.com/aspx/video-clips.aspx?channel=current-news">Business Video</a>
+						</h3>
+					</li>
+				</ul>
+
+			</div><!--end mega-open-column2 (NI)-->
+			<div id="CommunityNewID"><!--start Featured Articles Section (NI)-->
+	<h3 class="featured-articles-header background">Featured Content</h3>
+
+<!--************* START News and Commentary Featured Articles section **************************-->
+	<!-- START includes/main-navigation-featured-acticle.inc -->
+
+	<img style="margin: 0px 20px;float:left" src="http://www.nasdaq.com/images/top-five-series3.png" align="left" alt="Top Five Logo" border="0">
+	
+<span style="font-size: .75em;">
+	
+	<p>
+	<b>New entries from our <em>Top Five Series</em> of list-based articles:</b>
+	</p>
+	<p>
+		<a href="http://community.nasdaq.com/News/2011-11/five-companies-worth-a-second-look-in-2012.aspx?storyid=102781" onclick="
+		var s=s_gi('nasdaqprod'); 
+		s.tl(this,'o','FeatureContent_Extra1');">Top 5 Second-Look Companies</a>
+	<br>
+		<a href="http://community.nasdaq.com/News/2011-11/five-retirement-strategies-to-start-right-now.aspx?storyid=102784" onclick="
+		var s=s_gi('nasdaqprod'); 
+		s.tl(this,'o','FeatureContent_Extra2');">Top 5 Hot Retirement Strategies</a>  
+	<br>
+		<a href="http://community.nasdaq.com/News/2011-11/top-apps-for-investing-and-finance.aspx?storyid=102783" onclick="
+		var s=s_gi('nasdaqprod'); 
+		s.tl(this,'o','FeatureContent_Extra3');">Top 5 Mobile Finance Apps</a>  
+	</p>
+	
+	
+	<p>
+	<b>Bullish on Gadgets:</b><br>
+	<a href="http://community.nasdaq.com/News/2011-11/bullish-on-gadgets-should-i-purchase-a-macbook-air-or-an-ipad-2.aspx?storyid=102203">MacBook Air vs. iPad 2</a></p>
+
+</span>
+		
+	<!-- END includes/main-navigation-featured-acticle.inc -->
+<!--************* END News and Commentary Featured Articles section **************************-->
+
+
+ 
+
+            </div><!--end Featured Articles Section (NI)-->
+		</div>    
+    </li>
+	<!-- end News and Commentary Section-->
+	
+	<!-- start Investing Insight Section-->
+	<li id="liInvesting" class="mega"><a href="http://www.nasdaq.com/investing/"><span id="liInvesting-span">Investing Insight</span></a>
+		<iframe></iframe>
+		<div class="mega-open"><span class="mega-open-top-border span-left"></span>
+			<div class="mega-open-column1"><!--start mega-open-column1 (IS)-->
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/how-to-invest.aspx">How to Invest</a>
+						</h3>
+					</li>
+				</ul>
+
+						<ul class="sub-mega-open-list">
+							
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/investing/how-to-invest.aspx" class="a-mega">Investing Basics</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/reference/dozen/dozen-intro.stm" class="a-mega">The NASDAQ Dozen</a>
+								</p>
+							</li>
+
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/investing/online-brokers.stm" class="a-mega">Broker Comparision</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/investing/glossary/" class="a-mega">Glossary</a>
+
+								</p>
+							</li>
+						</ul>
+	
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/stocks.aspx">Stocks</a>
+						</h3>
+					</li>
+
+					<li class="mega_bb" style="list-style-image: url('')">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/etfs/">ETFs</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb" style="list-style-image: url('')">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/options.aspx">Options</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb" style="list-style-image: url('')">
+						<h3>
+							<a href="http://www.nasdaq.com/investing/forex/">Forex</a>
+						</h3>
+					</li>
+					<li class="mega_bb" style="list-style-image: url('')">
+
+						<h3>
+							<a href="http://www.nasdaq.com/investing/mutual-funds.aspx">Mutual Funds</a>
+						</h3>
+					</li>
+					<li class="mega_bb no-border-dotted" style="list-style-image: url('')">
+
+						<h3>
+							<a href="http://www.nasdaq.com/advisor/">Financial Advisor Center</a>
+						</h3>
+					</li>
+				</ul>
+			</div><!--end mega-open-column1 (IS)-->
+			<div class="mega-open-column2"><!--start mega-open-column2 (IS)-->
+				<ul class="mega-open-list">
+
+					<li class="mega_bb">
+						<h3>
+							<a href="http://www.nasdaq.com/personal-finance/">Personal Finance</a>
+						</h3>
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/retirement.aspx" class="a-mega">Retirement</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/real-estate.aspx" class="a-mega">Real Estate</a>
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/college.aspx" class="a-mega">College</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/franchise.aspx" class="a-mega">Franchising</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/insurance.aspx" class="a-mega">Insurance</a>
+								</p>
+							</li>
+
+							<li>
+								<p>
+									<a href="http://careers.nasdaq.com/" class="a-mega">Careers</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/personal-finance/small-business.aspx" class="a-mega">Small Business</a>
+
+								</p>
+							</li>
+						</ul>
+				<ul class="mega-open-list">
+					<li class="mega_bb">
+						<h3>
+						<a href="http://www.nasdaq.com/investing/tools.aspx">Investing Tools</a>
+						</h3>
+
+					</li>
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/reference/StockScreener.stm" class="a-mega">Stock Screener</a>
+								</p>
+							</li>
+
+							<li>
+								<p>
+									<a href="http://www.nasdaq.com/investing/guru/guru-stock-screener.aspx" class="a-mega">Guru Screener</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://quotes.nasdaq.com/screening/heatmaps.stm" class="a-mega">Heatmaps</a>
+
+								</p>
+							</li>
+						</ul>
+					
+			</div><!--end mega-open-column2 (IS)-->
+		</div> 
+	</li>
+	<!-- end Investing Insight Section-->
+
+	
+	<!-- start My NASDAQ Section-->
+    <li id="liCommunity" class="mega"><a href="http://community.nasdaq.com/MyNasdaq.aspx"><span id="liCommunity-span">My NASDAQ</span></a>
+		<iframe></iframe>
+		<div class="mega-open"><span class="mega-open-top-border span-left" style="*margin-top:0;"></span>
+			<div class="mega-open-column1"><!--start mega-open-column1 (MS)-->
+				<ul class="mega-open-list">
+					
+					<li class="mega_bb">			
+						<h3>
+							<a href="http://community.nasdaq.com/MyPortfolio.aspx">My Portfolio</a>
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a href="http://community.nasdaq.com/MyRatings.aspx">Stock Ratings</a>
+
+						</h3>
+					</li>
+					<li class="mega_bb">
+						<h3>
+							<a href="http://community.nasdaq.com/community-settings.aspx">Settings</a>
+						</h3>
+					</li>
+
+				</ul>
+						<ul class="sub-mega-open-list">
+							<li>
+								<p>
+									<a href="http://community.nasdaq.com/community-settings.aspx?tab=account" class="a-mega">My Account</a>
+								</p>
+
+							</li>
+							<li>
+
+								<p>
+									<a href="http://community.nasdaq.com/community-settings.aspx?tab=profile" class="a-mega">Edit Profile</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://community.nasdaq.com/manage-connections.aspx" class="a-mega">Connnections</a>
+								</p>
+
+							</li>
+							<li>
+								<p>
+									<a href="http://community.nasdaq.com/community-settings.aspx?tab=photo" class="a-mega">Profile Photo</a>
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://community.nasdaq.com/community-settings.aspx?tab=articles" class="a-mega">Articles</a>
+
+								</p>
+							</li>
+							<li>
+								<p>
+									<a href="http://community.nasdaq.com/community-settings.aspx?tab=alerts" class="a-mega">Alerts</a>
+								</p>
+							</li>
+
+						</ul>
+
+			</div><!--end mega-open-column1 (MS)-->
+
+			<script type="text/javascript" language="javascript">
+				displayLoginStatus();
+			</script>
+			
+			<div id="communityNotLoggedIn" class="mega-open-column2" style="width:180px;"><!--start mega-open-column2(MS)-->
+				<ul class="mega-open-list">
+
+					<li class="mega_bb">
+						<h3>
+							<a href="http://community.nasdaq.com/">Community Home</a>
+						</h3>
+
+					</li>
+				
+					<li class="mega-community-text">
+						<p>
+							Join the NASDAQ Community today and get free, instant access to portfolios, stock ratings, real-time alerts, and more!
+
+
+						</p>
+					</li>
+	
+					<li class="mega-community-btn">
+						<a href="http://community.nasdaq.com/register.aspx" class="button bold" id="join-today">
+							<span>Join Today</span>
+						</a>
+					</li>
+					
+					<li class="mega_bb" style="padding-top:30px;">
+
+						<h3>
+							<a class="no-link-no-hover">Already a member?</a>
+						</h3>
+					</li>
+					<li class="mega-community-btn" style="width:45px;">
+						<a href="http://community.nasdaq.com/login.aspx" class="button bold" id="login">
+							<span>Login</span>
+						</a>
+
+					</li>
+				</ul>	
+			</div><!--end mega-open-column2(MS)-->
+
+			<div id="communityLoggedIn">
+				<ul id="communityLoggedIn-ul" class="mega-open-list">
+
+					<li class="mega_bb no-border-dotted">
+						<h3>
+							<a href="http://community.nasdaq.com/">Community Home</a>
+						</h3>
+
+					</li>
+				</ul>
+			
+				<div class="mega-open-column-bg" style="width:170px;"><!--start mega-open-column2(MS) user logged in-->
+				<ul class="mega-open-list" style="text-align:center;width:150px;">
+
+					<li class="mega_bb">
+						<h3>
+							<a href="http://community.nasdaq.com/Profiles/Profile.aspx">Hello, 
+								<script type="text/javascript" language="javascript">
+									displayName();
+								</script>
+							</a>
+						</h3>
+
+					</li>
+					<li class="mega_bb" style="padding-bottom:5px;">
+							<script type="text/javascript" language="javascript">
+								displayAvatar();
+							</script>
+					</li>
+					<li class="mega-community-text">
+						<p><a href="http://community.nasdaq.com/Profiles/Profile.aspx">View Profile</a></p>
+					</li>
+					<li class="mega-community-btn" style="width:45px;padding-left:35px; *padding-left:0;">
+						<a href="http://community.nasdaq.com/common/templates/logout.aspx" class="button bold">
+							<span>Logout</span>
+						</a>
+					</li>
+				</ul>
+			</div><!--end mega-open-column-bg-->	
+			</div><!--communityLoggedIn div user logged in-->
+
+		</div><!--end mega-open div-->   
+
+    </li>
+	<!-- end My NASDAQ Section-->
+	
+</ul><!-- end main-nav-->
+</div><!-- end main-nav-containter-->
+<!-- end main-nav-->
 <!--*****************************************End Navigation Tabs ***************************************************-->
 
 <!--*****************************************End Main Page Header ***************************************************-->
 
-<script type="text/javascript" src="http://www.nasdaq.com/includes/mainnav.js"></script>
+<script type="text/javascript" src="http://www.nasdaq.com/includes/mainnav-2.js"></script>
 
 <!--[if IE 6]>
 <script type="text/javascript">
-sfHover();
+ie6Hover();
 </script>
 <![endif]-->
 
+
 <div class="IR">
+
 <table id="index_row_us">
 	<tbody><tr>         
-		<td id="index_row_time"><script type="text/javascript" src="http://content.nasdaq.com/asp/indexrowhtml.asp?indexname=time"></script></td>					
-		<td><script type="text/javascript" src="http://content.nasdaq.com/asp/indexrowhtml.asp?indexname=NasdaqDjiaspx"></script></td>
+		<td id="index_row_time"><script type="text/javascript" src="http://www.nasdaq.com/aspx/indexrowhtml.aspx?indexname=time"></script></td>					
+		<td><script type="text/javascript" src="http://www.nasdaq.com/aspx/indexrowhtml.aspx?indexname=NasdaqDjiaspx"></script></td>
     </tr>
 </tbody></table>
 
 <div id="index_row_ad_us">
 <script type="text/javascript" language="javascript">makeAd('2','185x35','home','ROSToolbar','','');</script>
 </div>
-</div>
-<!-- Begin comScore Tag -->
-<script>
-    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+	<!-- Begin comScore Tag -->
+	<script type="text/javascript">
+	    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+	</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+	
+	<script type="text/javascript">
+	  COMSCORE.beacon({
+	    c1:2,
+	    c2:6927109,
+	    c3:"",
+	    c4:"",
+	    c5:"",
+	    c6:"",
+	    c15:""
+	  });
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6927109&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore Tag" />
+	</noscript>
+	<!-- End comScore Tag -->
+</div><!--end IR div-->
 
-<script>
-  COMSCORE.beacon({
-    c1:2,
-    c2:6927109,
-    c3:"",
-    c4:"",
-    c5:"",
-    c6:"",
-    c15:""
-  });
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6927109&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" />
-</noscript>
-<!-- End comScore Tag -->
 
 <!--*****************************End includes/MainNav.inc**************************************************-->
-<!-- end includes/mainnav.inc -->
+
+
+
+
+
+
+
 
 <!--**************************************End Masthead and navigation**************************-->
 
@@ -745,9 +1401,9 @@ Flash cookies are different from browser cookies because of the amount of, type 
 
 </div>
 
-<div style="margin-right:30px;float:left;width:120px;height:60px">
+<!-- <div style="margin-right:30px;float:left;width:120px;height:60px">
 <script type="text/javascript" language="javascript">makeAd('11','120x60','footer','fidelity','','');</script>
-</div>
+</div> -->
 
 <div style="float:left;width:120px;height:60px;padding-top:15px;padding;left:15px">
 <script type="text/javascript" language="javascript">makeAd('12','88x31','quotes','','','');</script>
@@ -766,150 +1422,196 @@ Flash cookies are different from browser cookies because of the amount of, type 
 		googleSetFooterAdSlotAndHints();//set ad slot and hints fields
 	</script>
 	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
   </div>
 
 </div>
 
 
-<div id="textLinkFooter">
-  <div id="footerLines">
+<!--***************************************** END includes/bottomlinks.inc ******************************-->
 
-    <ul>
-      <li class="footerHeading" style="border-left:none;">Popular Sections:</li>
-      <li>
-        <a title="Careers" href="http://careers.nasdaq.com/">Careers</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="Fast Stock Quotes" href="http://www.nasdaq.com/quotes/flash-quotes.aspx">Flash Quotes</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="Free Stock Tickers" href="http://www.nasdaq.com/services/stock-ticker.stm">Stock Ticker</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="NASDAQ100" href="http://dynamic.nasdaq.com/dynamic/nasdaq100_activity.stm">Nasdaq 100</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="exchange traded funds" href="http://www.nasdaq.com/asp/investmentproducts.asp">ETFs</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="Breaking Company News" href="http://www.nasdaq.com/quotes/company-news.aspx">Company News</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="Stock Chart" href="http://www.nasdaq.com/quotes/stock-charts.aspx">Stock Charts</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="SEC Filing" href="http://www.nasdaq.com/reference/sec_filings_n.stm">SEC Filings</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a href="http://www.nasdaq.com/services/annual-reports.stm">Get Free Annual Reports</a>
-      </li>
-    </ul>
+<div id="mega-footer-wrap">
+	<div id="mega-top-wrap">
+		<div class="mega-footer-about">    
+			<h3 class="border-bottom">NASDAQ OMX</h3>
+			<a href="http://www.nasdaqomx.com/">About NASDAQ OMX</a>
+			<a href="http://www.nasdaqomx.com/whatwedo/markettechnology/">NASDAQ OMX Technology</a>
+			<a href="https://listingcenter.nasdaqomx.com/home.aspx">Nasdaq OMX Listing Center</a>
+			<a href="http://ir.nasdaqomx.com/index.cfm">Investor Relations</a>
+			<a href="http://www.nasdaqomx.com/whatwedo/publicpolicy/">Public Policy Advocacy</a>
+		</div>
 
-    <ul>
-      <li class="footerHeading" style="border-left:none;">Popular Tags:</li>
-      <li>
-        <a title="stock quotes" href="http://www.nasdaq.com/">stock quote</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="universal currency converter" href="http://www.nasdaq.com/aspx/currency-converter.aspx">currency converter</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="credit card" href="http://www.nasdaq.com/personal-finance/credit-debt.stm">credit cards</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="investing online" href="http://www.nasdaq.com/services/onlineInvesting.stm">online investing</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="crossword puzzles" href="http://www.nasdaq.com/personal-finance/financial-crossword-puzzle.stm">crosswords</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="research stocks" href="http://www.nasdaq.com/reference/dozen/dozen-intro.stm">stock research</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="cisco stock quote" href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=CSCO&amp;selected=CSCO">csco</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="after hours quotes" href="http://dynamic.nasdaq.com/aspx/extendedTrading.aspx">after hours trading</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="mutual fund" href="http://www.nasdaq.com/investing/mutual-funds.stm">mutual funds</a>
-      </li>
-    </ul>
+		<div class="mega-footer-key-links">   
+			<h3 class="border-bottom">NASDAQ.com</h3>
+			<a href="http://community.nasdaq.com">Join Our Community</a>
+			<a href="http://www.nasdaq.com/help/sitemap.aspx">Sitemap</a>
+			<a href="http://www.nasdaq.com/help/nasdaq-advertising.aspx">Advertise With Us</a>
+			<a href="http://www.nasdaq.com/help/linkinfo.stm">Link to Us</a>
+			<!--oobegin --><!--this it the feedback object that is on the right side of all pages -->
+						<script language="javascript" type="text/javascript" charset="windows-1252" src="http://content.nasdaq.com/services/onlineopinionS3tS/oo_engine.js"></script>
+						<script language="javascript" type="text/javascript" charset="windows-1252">
+							//<![CDATA[
+						  O_GoT('<img src="http://content.nasdaq.com/services/onlineopinionS3tS/sm_1E5395_oo.gif" border="0" title="Please provide feedback" style="margin-right:5px;" alt="Feedback">Feedback');
+							//]]>
+						</script>
+				<!--ooend-->
+		</div>
+<!-- suggested start of footer-social.inc -->
+		<div class="footer-social">
+			<h3 class="border-bottom">Stay Connected</h3>
+			<span class="footer-social-links">
+				<a id="facebook" rel="nofollow" title="Become a fan on Facebook" href="http://www.facebook.com/NASDAQ" style="margin-left: 6px !important;">
+					<img src="http://content.nasdaq.com/images/Facebook_48x48-newb.gif" alt="Become a fan on Facebook!" class="social-media-icon"><!--style="margin-left: 6px !important;"-->
+				</a>
+				<a id="twitter" title="Follow NASDAQ on Twitter" href="http://twitter.com/nasdaq">
+					<img src="http://content.nasdaq.com/images/Twitter_48x48-newb.gif" alt="Follow us on Twitter!" class="social-media-icon">
+				</a>
+				<a id="linkedin" title="Follow NASDAQ on LinkedIn" href="http://www.linkedin.com/company/nasdaq">
+					<img src="http://content.nasdaq.com/images/linked-in-48-new.gif" alt="Follow us on LinkedIn!" class="social-media-icon">
+				</a>
+				<a id="rss" title="Subscribe to our RSS Feed" href="http://www.nasdaq.com/services/rss.aspx">
+					<img src="http://content.nasdaq.com/images/Feed_48x48-new.gif" alt="Subscribe to our RSS Feed!" class="social-media-icon">
+				</a>
+			</span>
+			<img alt="twitter bird" src="http://content.nasdaq.com/images/twitter_newbird_blue-24.gif" class="footer-twitter-bird">
+			<h3 class="twitter-header">The latest from <a href="http://twitter.com/nasdaq" style="color:#006699">@NASDAQ</a>:</h3>
+			<div class="icon-tweet-wrap">
+				<div class="twitter-tweet-wrap">
+					<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+					<script>
+							new TWTR.Widget({
+							  version: 2,
+							  type: 'profile',
+							  rpp: 1,
+							  interval: 30000,
+							  height: '70',
+							  width: '290',
+							  theme: {
+							    shell: {
+     							 background: '#ffffff',
+     							 color: '#ffffff'
+    							},
+    							tweets: {
+      								background: '#ffffff',
+      								color: '#777777',
+      								links: '#555555'
+    								}
+  								},
+  								features: {
+  								  scrollbar: false,
+  								  loop: false,
+  								  live: true,
+  								  hashtags: true,
+  								  timestamp: true,
+  								  avatars: false,
+  								  behavior: 'default'
+  								}
+								}).render().setUser('NASDAQ').start();
+					</script>
+				</div>
+			</div>
+		</div>
+	</div><!--end mega-top-wrap-->
+
+<!-- suggested end of footer-social.inc -->
+
+<!-- suggested start of footer-search.inc -->
+
+	<div class="clear-fix"></div>
+	<div class="footer-search-wrap">
+		<div class="footer-alpha-list-wrap">
+			<h3>Browse The Financial Glossary: </h3>
+			<!-- START alpha-list.inc -->
+			<div id="alpha-list">
+			    <ul>
+					<li><a href="http://www.nasdaq.com/investing/glossary/numbers">123</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/a">A</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/b">B</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/c">C</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/d">D</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/e">E</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/f">F</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/g">G</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/h">H</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/i">I</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/j">J</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/k">K</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/l">L</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/m">M</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/n">N</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/o">O</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/p">P</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/q">Q</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/r">R</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/s">S</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/t">T</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/u">U</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/v">V</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/w">W</a></li>	
+			        <li><a href="http://www.nasdaq.com/investing/glossary/x">X</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/y">Y</a></li>
+			        <li><a href="http://www.nasdaq.com/investing/glossary/z">Z</a></li>
+			    </ul>
+			</div>
+		</div>
+		<div class="clear-fix"></div>
+		<div id="footer-search"> 
+			<h3>Search the site: </h3>
+			<div class="search_container_bottom">
+				<select name="nasdaq search" id="nasdaq_footer_search" class="footer-search-dropdown">
+					<option value="nasdaq">NASDAQ.com only</option>
+					<option value="web">Web Search</option>
+					<option value="local">Local Search</option>
+				</select>
+			</div>
+			<div class="key-word-lookup">
+					<input id="footer_search_keywords" onfocus="if(this.value=='enter keywords'){this.value='';}" onkeypress="return handleFooterSearchKeyPress(event);" value="enter keywords">
+					<input class="footer_search_submit" type="image" alt="Search" value="submit" src="http://content.nasdaq.com/images/eyeglass-1.png" onclick="javascript:footersubmitSearch()">
+			</div>
+		</div><!--end footer-search-->
+	</div><!--end footer-search-wrap-->
+
+<!-- suggested end of footer-search.inc -->
+
+	<div class="clear-fix"></div>
+	<div id="footer-mega">
+		<div id="footer-link-container">	
+
+			<div id="footer-section-links-wrap-top">
+				<a title="Company List" href="http://www.nasdaq.com/screening/company-list.aspx">Company List</a>&nbsp;|
+				<a title="Copyright" href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm">Copyright</a>&nbsp;|
+				<a title="Disclaimer" href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm#disclaimer">Disclaimer</a>&nbsp;|
+				<a title="Trademarks" href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm#trademark">Trademarks</a>&nbsp;|
+				<a title="Privacy Statement" href="http://www.nasdaq.com/sitespecific/privacy.stm">Privacy Statements</a>&nbsp;|
+				<a title="Contact" href="http://www.nasdaq.com/help/contactInformation.stm">Contact</a>
+			</div>
+				
+			<div id="footer-section-links-wrap-bottom">	
+				<a title="Annual Report" href="http://www.nasdaq.com/services/annual-reports.aspx">Annual Reports</a>&nbsp;| 
+				<a title="Careers" href="http://careers.nasdaq.com/">Careers</a>&nbsp;|
+				<a title="toolbar" href="http://www.nasdaq.com/services/stock-ticker.stm">Custom Logo Ticker</a>&nbsp;|
+				<a title="toolbar" href="http://www.nasdaq.com/services/nasdaq_toolbar.stm">NASDAQ Toolbar</a>
+	      	</div>
+
+			<div class="app-link-div">
+				<img src="http://www.nasdaq.com/images/phone-b.gif" alt="mobile apps">
+				<a class="app-link-after-img" href="http://www.nasdaq.com/about/iphone/">Qfolio for the iPhone</a>
+				<span>|&nbsp;</span>
+				<a href="http://www.nasdaq.com/about/iphone/">Qfolio HD for the iPad</a>
+				<span>|&nbsp;</span>
+				<a href="http://appworld.blackberry.com/webstore/content/59913?lang=en">Qfolio for the Blackberry Playbook Tablet</a>
+			</div>	
+
+	  	</div><!--end footer-link-container-->
+	</div><!--end footer div-->
+</div><!--end mega-footer-wrap-->				
 
 
+<script type="text/javascript"> setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName('script')[0]; a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/8850.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1); </script>
 
-    <ul style="border-bottom:none;">
-      <li style="border-left:none;">
-        <img id="footerLogo" src="http://content.nasdaq.com/images/nasdaq_logo1.jpg" align="left">
-        </li>
-      <li>
-        <a href="http://www.nasdaq.com/sitespecific/privacy.stm" rel="nofollow">Privacy Statement</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm#copyright" rel="nofollow">Copyright</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm#disclaimer" rel="nofollow">Disclaimer</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a href="http://www.nasdaq.com/sitespecific/IndexPromptDisclaimer.stm#trademark" rel="nofollow">Trademarks</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a title="Company Information" href="http://www.nasdaq.com/screening/company-list.aspx">List of Companies</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a href="http://www.nasdaq.com/help/helpfaq.stm">Help</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a href="http://www.nasdaq.com/reference/glossary.stm">Glossary</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a href="http://www.nasdaq.com/help/contactInformation.stm" rel="nofollow">Contact Us</a>
-        <span>|</span>
-      </li>
-      <li>
-        <a href="http://www.nasdaq.com/help/sitemap.stm">Site Map</a>
-        <span>|</span>
-      </li>
-      <!--<li><a href="../services/search.stm">Search</a><span>|</span></li>-->
-      <li>
+<!--***************************************** END includes/bottomlinks.inc ******************************-->
 
-        <!--oobegin -->
-        <script language="javascript" type="text/javascript" charset="windows-1252" src="http://content.nasdaq.com/services/onlineopinionS3tS/oo_engine.js"></script>
-        <script language="javascript" type="text/javascript" charset="windows-1252">
-          O_GoT('<img src="http://content.nasdaq.com/services/onlineopinionS3tS/sm_1E5395_oo.gif" border="0" title="Please provide feedback" style="margin-right:5px;" />Feedback');
-        </script>
-        <!--ooend-->
-
-      </li>
-    </ul>
-
-
-  </div>
-</div>
 
 
 <!-- BEGIN: OnlineOpinion v4.1 -->
@@ -951,7 +1653,11 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
 <script>setSectionName(propVar);</script>
 
 <!--*******************************************End omniture *******************************************************-->
+
 <!-- END includes/footerTextLinks.inc -->
+
+
+
 
 </div> <!--end Container div-->
 
