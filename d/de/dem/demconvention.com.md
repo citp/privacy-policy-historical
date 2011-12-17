@@ -1,70 +1,94 @@
-> *The following text is extracted and transformed from the demconvention.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221013539id_/http%3A//www.demconvention.com/democratic-national-convention-committee-inc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demconvention.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217162502id_/http%3A//www.democrats.org/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Democratic National Convention
+# Democrats.org
 
-**The Democratic National Convention Committee, Inc. (DNCC) is committed to protecting your privacy online. While using our website, you do not have to identify yourself or divulge personal information. If you should choose to give us your personal information, you decide the amount of information you provide.**
+## The Democratic National Committee
 
-The DNCC is continually trying to expand online activism and to give online users the information they need in a timely manner. As a result, you may be invited to subscribe to our online newsletters or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these web pages include your name, address, phone number and/or email address in an effort to enhance our ability to work with you as an online activist. If you choose not to give us any information, we may not be able to provide you with timely information regarding events and issues important to you as an interested and active citizen.
+#### Last Revised: April 2, 2010
 
-The DNCC maintains several interconnected websites at any given time. The DNCC’s principal website is DemConvention.com. Any website owned and operated by the DNCC is identified by the text "Paid for by the 2008 Democratic National Convention Committee, Inc."  
+This website is operated by the Democratic National Committee (the "DNC", "we" or "us"). This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by the DNC with respect to your use of the Web sites such as this which are operated by the DNC and which display this Policy (the "Sites") so you can make an informed decision about using the Sites. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
+
+### What Is Personal Information?
+
+As used herein, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card number) and information about that individual or his or her activities that is directly linked to personally identifiable information. Personal information does not include "aggregate" information, which is data we collect about the use of the Sites or about a group or category of services or users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information.
+
+### What Personal Information Do We Collect?
+
+Active Collection: Personal information may be collected in a number of ways when you visit our Sites. We collect certain information you voluntarily provide to us, such as when you create an account or a profile, make a donation, make a purchase, send us an email or sign up to receive email or text message updates, fill out a form, connect through a social feed, sign up to be a volunteer or host an event, request information, or apply for an internship, or use the Voter Registration Form tool. Such information may include personal information, such as your name, mailing address, email address, phone number, and credit card information. Personal and demographic information may also be collected if you provide such information in connection with creating a profile or group, leaving comments, posting blog comments or other content, sending an email or message to another user, or participating in any interactive forums or features on the Sites. In addition, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, contests, games, promotions, and other activities on the Sites.
+
+In addition, the Federal Election Commission (FEC) may require us to collect personal information from donors. For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per calendar year.
+
+If you use our Voter Registration Form tool, you may also provide your driver's license number, your social security number or the last four digits of your social security number, but that information is deleted after the form is printed, so we do not retain it.
+
+Passive Collection: When you use the Sites, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring web site, and your activity on our Sites. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
+
+We may also automatically collect certain information through the use of "cookies" or web beacons. Cookies are small data files stored on your hard drive at the request of a website. Among other things, cookies help us improve our Sites and your experience. If we link cookies to any personally identifying information, we will treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if you choose to remove or reject cookies, this could affect certain features on our Sites. Web beacons are small, invisible graphic images that may be used on the Sites or in emails relating to the Sites to collect certain information and monitor user activity on the Sites.
+
+Third party vendors, such as Google DoubleClick, Yahoo Tremor and 24/7 RealMedia, may use cookies or other technologies to serve ads on other websites based on your visits to this site and other sites on the Internet. These third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, email address or telephone number). They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising on other websites targeted to your interests and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs used by the third parties, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like to opt out of these cookies or obtain more information about this practice, click here: [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
+
+### How Do We Use the Personal Information We Collect?
+
+We use personal information collected through our Sites for the purposes described in this Policy or elsewhere on the Sites. For example, we may use personal information we collect:
+
+  * to provide the services, products, or information you request, and to process and complete such requests and any related transactions;
+  * to send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Sites;
+  * to notify you about important changes to the Sites;
+  * to send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;
+  * to help connect you with other supporters, and to solicit volunteers, donations and support for the DNC and for candidates, issues and organizations that we support;
+  * to remind you to send in your voter registration form and to vote;
+  * to assist you in finding your registration information and polling location;
+  * to contact you if other information is necessary under Federal election laws;
+  * to request feedback and to otherwise contact you about your use of the Sites;
+  * to respond to your emails, submissions, questions, comments, and requests and to provide customer service;
+  * to monitor and analyze site usage and trends, and to personalize and improve the Site and our users' experiences on the Site, such as providing ads, content, or features that match your profiles or interests, and to increase the Site's functionality and user friendliness;
+  * to serve ads, on this or other websites or media, based on the information you provide and the actions you take;
+  * to notify and contact contest and sweepstakes entrants; and
+  * for any other purpose for which the information was collected.
 
 
-  
-Our privacy policy explains the information practices we use at DemConvention.com. Our site links to a number of other websites. The DNCC is not responsible for the content or the privacy policies of those websites. We recommend you consult the other sites’ privacy notices as the DNCC has no control over information that is submitted to, or collected by, these third parties while you are on their site.   
+
+We may store and process personal information in the United States and other countries.
+
+### What Personal Information Do We Share With Third Parties?
+
+It is our policy not to share the personal information we collect from you through our Sites with third parties, except as described in this Policy or as otherwise disclosed on the Sites. For example, we may share personal information as follows:
+
+  * with vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us;
+  * with candidates, organizations, groups or causes that we believe have similar political viewpoints, principles or objectives;
+  * to report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in a calendar year (for additional information, visit the FEC website at http://www.fec.gov);
+  * when you give us your consent to do so, including if we notify you on the Sites, that the information you provide will be shared in a particular manner and you provide such information;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
+  * when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of the DNC, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site;
+  * to enforce or apply this Policy, our Terms of Use, or our other policies or agreements; and
+  * in connection with, or during negotiations of, any merger, reorganization, acquisition, asset sale, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of the DNC.
 
 
-  
-**How does the DNCC protect your information?**
 
-The DNCC has in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+We are not responsible for the actions of any service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties, and we encourage you to become familiar with their privacy practices before disclosing information directly to any such parties. Nothing herein restricts the sharing of aggregated or anonymized information, which may be shared with third parties without your consent. 
 
-  
-**How does the DNCC use information you provide?**  
+#### Online petitions:
 
+When you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available. In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press.
 
-  
-The information we collect in connection with our website, online forums, and communities is used primarily to communicate with you and provide an interactive experience. We may use your email address to send you email newsletters, announcements, and other notices to which you subscribed or to which we believe may be of interest to you. We may also use the information that we collect to improve the design and content of our site, analyze site usage, and enable us to personalize your Internet experience.
+#### Interactive Features:
 
-If you choose to submit content for publication (e.g., a posting to a blog or a discussion board), the DNCC may publish your screen name and other information you have provided us. 
+You understand that when you use the Sites, information you: post in your profile, blogs, forums and other interactive areas of the Sites, as well as any information you share with individuals through the Sites or share through social network sites, will be available to other users and, in some cases, may be publicly available. In addition, when you sign up and create an account, certain information regarding actions you take through the Sites, such as joining a group or actions tracked under the "Making a Difference" section of your profile, may available to other users and, in some cases, may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums. We are not responsible for the actions of any third parties with whom you share personal information. In some cases, there may be privacy setting available regarding the information available to others, and we suggest you take time to familiarize yourself with these options and utilize these settings. 
 
-The DNCC respects your privacy. We will not give, sell or rent your email address or any other personal information to any other organization for commercial purposes. 
+### Links to Other Websites
 
-The DNCC may share your name, contact information, email address, and certain other information with the Democratic Party, the Democratic National Committee, and their affiliated organizations. We may also be obligated to disclose certain information in response to legal process, including but not limited to, a response to a court order, subpoena, or a law enforcement agency’s request.   
+Our Sites may contain links to other websites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. This Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from our Sites. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
 
+### What Steps Do We Take To Protect Your Information Online?
 
-**Cookies**
+We take reasonable measures to protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission that can be guaranteed against any interception or other type of misuse. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web sites by any person using your password. Please advise us immediately if you believe your password has been misused.
 
-  
-A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site and stored on your computer's hard drive. A web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+### What Choices Do You Have Regarding the Use of Your Information?
 
-We use cookies to tailor your experience on the DNCC web site according to the preferences you have specified. When you visit DemConvention.com, we only access the cookie file that we have stored on your computer. We cannot and do not access any information stored in a cookie by other non-DNCC websites. 
+You may "opt out" of receiving text messages, email updates and newsletters by following the instructions in those text messages and emails. Please note that we may still send you other types of emails, such as emails about your use of our Sites, or use information as otherwise described in this Policy, even if you opt out of receiving email updates and newsletters. Changes to information in your account does not affect information provided to others as set forth in this policy, including in connection with petitions or donations or that has been previously shared with like-minded candidates, organizations, groups or causes.
 
-You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.  
+### Questions?
 
+If you have any questions about this Policy, please contact us at [info@democrats.org](mailto:info@democrats.org).
 
-  
-**IP Addresses and Log File Data**
-
-We log IP addresses—the location of your computer or network on the Internet—for systems administration and troubleshooting purposes. We also use page hits in the aggregate to track the popularity of pages that people visit in order to improve the quality of the site. There is no personal identifiable information collected in our log files.
-
-  
-**Information on Children**
-
-The DNCC cares about the safety and privacy of children online. Accordingly, the DNCC complies with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not directed to or intended to solicit information of any kind from children under 13.
-
-  
-**Contacting the DNCC about Privacy**
-
-  
-If you have any questions about our privacy policy, the information we have collected from you online, the practices of this site or your interaction with this website, you may reach us via email at [info@demconvention.com](mailto:info@demconvention.com)
-
-or U.S. Mail at:  
-Online Communications Department  
-Democratic National Convention Committee, Inc.  
-1560 Broadway, Suite 400  
-Denver, Colorado 80202
-
-**Updates**
-
-  
-From time to time, the DNCC may update its privacy policy without notice other than the posting of any changes on this site. We encourage you to periodically check back and review this policy so that you are always aware what information is collected and the DNCC uses the information.
+Paid for by the Democratic National Committee -- 430 South Capitol Street SE, Washington, DC, 20003.  
+This communication is not authorized by any candidate or candidate's committee. 
