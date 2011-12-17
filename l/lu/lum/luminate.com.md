@@ -1,46 +1,51 @@
-> *The following text is extracted and transformed from the luminate.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408080507id_/http%3A//www.luminate.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luminate.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217085205id_/http%3A//www.luminate.com/privacy-policy) for the most accurate reproduction.*
 
-# Company Overview
+# Privacy Policy - Luminate
 
-|   
-|    
+This is the website of **Luminate, Inc.**
 
+Our postal address is  
+100 View St, Suite 201  
+Mountain View, CA 94041
 
-We will not sell, reveal or share your personal information.
+We can be reached via e-mail at [info@luminate.com](mailto:info@luminate.com), or you can reach us by telephone at 800-831-1278. 
 
-|  |  | **We believe customer privacy and data security are essential to our business.**  
-The Luminate Web site is designed to give you as much control as possible over your personal information. In general, you can visit Luminate on the Web without telling who you are or revealing any personal information about yourself. However, when you engage in certain activities on this site, such as downloading software or registering to subscribe to one of the Luminate.Net services, we may ask you to provide certain information about yourself such as your name, mailing address, e-mail address and personally identifying information. We use your Personal Information primarily to: 
+For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
 
-  * Provide you with information about Luminate's products, services, news and events 
-  * Allow you to purchase and/or download products, and 
-  * Gather broad demographic information about user trends 
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number. 
 
-Should you or your company subscribe to Luminate.Net, performance related information specific to your network, enterprise application and/or database will be communicated via the web to Luminate's hosted environment. As the following examples demonstrate, any and all information you give us related to you or your company is handled with care.   
----|---|---  
-   
-  |  | **Acquisition of Information:**  
-Luminate acquires only the information about you in the registration process that is necessary to provide our products and service efficiently and securely.   
-   
-  |  | **Corporate / Personal Information:**  
-We will not sell, reveal or share your corporate or personal information to third parties, unless we have your consent or are required to do so by law.   
-   
-  |  | **Use of Cookies:**  
-Our downloaded software use "cookies." A cookie is a small file that is sent to your browser. This file is then stored on your hard drive. A cookie does not contain any Personal Information, but it does enable Luminate to record how and when customers use our site and our software.   
-   
-  |  | **Secure Technology:**  
-We use SSL encryption, which is the industry standard for secure data transfer software, to ensure data you transmit through the Internet is protected against unauthorized access. 
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Website, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, shared with other reputable organizations to help them contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website. 
 
-Any more questions? [Contact us](https://web.archive.org/web/20010408080507id_/http%3A//www.luminate.com/company/contact_us.html)… 
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends. 
 
-Please feel free to contact us if you have further question about our privacy and security policies, or if you just would like to give us suggestions for improving it. You can reach us at the following address: [Info@luminate.com](mailto:info@luminate.com)  
-  
-|  | | [Management Team](https://web.archive.org/company/facts.html)  
----|---  
-| [Contact Us](https://web.archive.org/company/contact_us.html)  
-| [Investor Relations](https://web.archive.org/company/investor_rel/)  
-| [MSP Advantage](https://web.archive.org/company/msp_adv.html)  
-| [How Luminate.Net Works](https://web.archive.org/company/luminate_net.html)  
-| [Driving Directions](https://web.archive.org/company/directions.html)  
-| [Partners](https://web.archive.org/company/partners/)  
-| [Luminate Germany](https://web.archive.org/company/germany/)  
-| [Privacy Policy](https://web.archive.org/company/privacy.html)
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
+
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above. 
+
+From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above. 
+
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address. 
+
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
+
+Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address. 
+
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses. 
+
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
+
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, a description of information that we maintain about them. 
+
+Consumers can access this information by visiting us at <http://www.luminate.com/login/>. 
+
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information. 
+
+Consumers can have this information corrected by visiting us at <http://www.luminate.com/login/>. 
+
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
