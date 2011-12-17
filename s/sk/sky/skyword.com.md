@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skyword.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131075838id_/http%3A//www.skyword.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyword.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217044833id_/http%3A//www.skyword.com/privacy.html) for the most accurate reproduction.*
 
-# Skyword™ - The leader in Search-Driven Media™
+# Privacy Policy
 
 At Skyword Inc. (“Skyword”), we strive to develop innovative products to benefit our users and partners.  We recognize that privacy is an important issue, so we design and operate our products with your privacy in mind.  This Privacy Policy outlines the types of personal information we may collect when you use our Platform (“Platform”), which is further described in the Terms of Service (“TOS”) available at http://www.skyword.com/userterms.html, as well as some of the steps we take to secure it.
 
@@ -48,7 +48,7 @@ At Skyword Inc. (“Skyword”), we strive to develop innovative products to ben
 
 **Your Ability to Edit and Delete Account Information**
 
-  * You may delete your account by contacting Skyword at support@skyword.com. ****
+  * You may delete your account by contacting Skyword at [support@skyword.com](mailto:support@skyword.com). ****
 
 
 
