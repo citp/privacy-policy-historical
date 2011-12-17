@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the tera-europe.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523075540id_/http%3A//tera-europe.com/en/data_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tera-europe.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217064555id_/http%3A//tera-europe.com/en/data-privacy-policy.html) for the most accurate reproduction.*
 
-# TERA Europe › Data Privacy Policy › Frogster
+# Data Privacy Policy
 
-**Version-Nr.: 1.2 from May 27th 2010**
+Version-Nr.: 1.2 from May 27th 2010
 
 Frogster Online Gaming GmbH – the company on whose website this data protection policy is displayed - strives to offer you excellent service for all products and support. We respect your right to privacy and would therefore like to inform you about how we handle your private data.
 
-**1\. General information**
+1\. General information
 
 For many internet users the protection of private data is of great importance and a fundamental part of a satisfactory internet experience. Frogster Online Gaming GmbH pays great attention to questions and doubts customers and other visitors to our website may have concerning data protection, and we observe the applicable data protection laws and rules of the EU.
 
 Please note that our website contains hyperlinks (‘links’) to other websites. For these other websites Frogster Online Gaming GmbH disclaims any liability with regard to data protection, statements on data protection and any other contents.
 
-**Please consult our special instructions for voice chat.**
+Please consult our special instructions for voice chat.
 
-**2\. Data that we collect, save and process about you**
+2\. Data that we collect, save and process about you
 
 The following section will give you an overview of the personal data that we collect, save, and process about you.
 
 We never collect personal data which relates to racial and ethnic origins, political opinions, religious or philosophical worldviews, trade union membership, health, or sexual orientation.
 
-**2.1 Data which you knowingly and explicitly provide us with**
+2.1 Data which you knowingly and explicitly provide us with
 
 You can explicitly and knowingly make personal information available to us and agree for us to gather it in the following cases:
 
@@ -40,7 +40,7 @@ Communication:
 
 You can communicate with other people on our websites and within our products using a pseudonym. If you do not want your communications to be traceable to you we advise you select a pseudonym which can in no way be linked to you personally. We reserve the right to save all communication including communication using more transient methods such as chat channels.
 
-**2.2 Statistical data relating to your visit**
+2.2 Statistical data relating to your visit
 
 Our computers automatically collect data if you visit our website or use our products (‘usage data’). We keep statistics about the number of visitors to our website, the geographical location of the user, the date and time of the visit, the pages visited, the domain the visitor uses to access our websites, and the browser the visitor uses.
 
@@ -50,7 +50,7 @@ We may also display statistics regarding your activities and successes on our we
 
 This statistical data will only be matched to your personal details if it is necessary to prevent or uncover wrongdoing or a breach of our rules. In all other cases the information will solely be evaluated anonymously and then deleted within a certain timeframe. The statistics help us to improve the efficiency of our websites and products.
 
-**2.3 Use of Cookies**
+2.3 Use of Cookies
 
 We use cookies only in the way as described in this paragraph. A ‘cookie’ contains information which is sent from our website to your browser; this subsequently stores the information on your system. If cookies are used, our website can ‘memorize’ information about you and your settings, either until you close the current browser window (temporary cookies), or until you disable or erase the cookie.
 
@@ -60,23 +60,23 @@ If you are a licensee of Frogster Online Gaming GmbH and go to a domain of the w
 
 The second situation in which we use cookies is requests for product information, documents, services or other enquiries in the course of your visit to our website. If you fill in a form you can choose if our website may send a cookie to you local hard disk (insofar as your browser is not set-up to always accept cookies of this variety). In this case it is not a temporary cookie, but you can disable it at anytime using your browser settings. If you do not wish to accept this kind of cookie you can still use our website. However you can save time by accepting this kind of cookie because there is no need to refill in forms and/or make repeat a visit to our website. Even if you accept this kind of cookie, you can set your browser at anytime to notify you if a cookie is sent to you. Thus you always have the choice whether to accept the cookie or not.
 
-**3\. How we treat the collected private data and who we pass it on to**
+3\. How we treat the collected private data and who we pass it on to
 
 Your private data is used for the purposes listed below:
 
-**3.1 Sending replies**
+3.1 Sending replies
 
 We usually respond to all electronically sent questions, requests for product information and services and other enquiries. We store this correspondence for the purpose of improving our products, our service, our website and for own business affairs. We often save contact information for individuals in order to send updates or other important information concerning our products and services as well as newsletters.
 
-**3.2 Support, renewal and purchase of our products and services**
+3.2 Support, renewal and purchase of our products and services
 
 e use the data transmitted by you to inform you about support, renewing and purchasing of our products and services. In addition we pass on the data you transmit to affiliated companies, business partners or representatives of Frogster Online Gaming GmbH (inside and outside the European Economic Area) so that they can contact you directly with respect to support, renewing or purchasing of products and services from Frogster Online Gaming GmbH. Our affiliated companies, business partners or representatives may contact you directly.
 
-**3.3 Providing information on products and services which may be of interest to you**
+3.3 Providing information on products and services which may be of interest to you
 
 If at all, we only pass on the transmitted data to trustworthy business partners and suppliers of Frogster Online Gaming GmbH (inside and outside the E.U.) whose products or services, in our opinion, beneficially add to Frogster Online Gaming GmbH products and services and might be of interest to you. Our trustworthy business partners or suppliers may contact you directly.
 
-**3.4 Providing products and services included in the scope of service**
+3.4 Providing products and services included in the scope of service
 
 (In case of having requested specific services or management services)
 
@@ -84,39 +84,39 @@ Within our scope of service certain services provided by Frogster Online Gaming 
 
 After having paid for such services we may pass on your data partly or fully to a third party (inside or outside the EU) so that they can provide the product or service and can inform you about this product or service or notify you of any upgrades. We assure you that we have agreements with these suppliers to ensure that your data will not be passed on to other parties (according to data protection law).
 
-**3.5 Authenticating your identity**
+3.5 Authenticating your identity
 
 For certain services supplied by Frogster Online Gaming GmbH it is necessary to compare certain data supplied in your request/order with third party databases or other sources of information. We do this to verify your identity and additional attributes as well as to make sure that your identity is not abused.
 
-**3.6 Legal obligation to disclose and protect licenses**
+3.6 Legal obligation to disclose and protect licenses
 
 We shall comply with any legal obligation to pass on data to local authorities, government authorities, national or international authorities (for example informing the Office of Export Surveillance, the Bureau of Export Administration, or the U.S. Ministry of International Trade and Industry) about a customer’s identity who purchases certain software products according to our export license. If prevailing laws and regulations stipulate disclosure of data to third parties we shall comply. In addition Frogster Online Gaming GmbH can disclose information to verify or detect illegal activities or suspected fraud in order to prevent it or to take appropriate measures, or to enforce or implement Frogster Online Gaming GmbH’s contracts and license rights.
 
-**3.7 Opinion Surveys**
+3.7 Opinion Surveys
 
 We may occasionally request data from our customers in order to carry out opinion surveys. Participation is completely voluntary and the customer retains the right to refuse participation or to put this data at our disposal. These opinion polls are used for monitoring and improving our website and products as well as for improving our level of service.
 
-**3.8 Investigations into breaches of our rules, Product improvement**
+3.8 Investigations into breaches of our rules, Product improvement
 
 If we discover that a user breaches our rules of conduct or the rules stipulated in our General Terms and Conditions, such as running a script without permission, we retain the right to combine the available user data with the user’s IP address and other usage data to make the user aware of their illicit actions or to implement further measures in order to reinstate a well-regulated game operation.
 
 We also evaluate this usage data in order to improve our products.
 
-**3.9 Advertisement and market research**
+3.9 Advertisement and market research
 
 If you have supplied us with your email address in the course of a normal customer relationship we may send you information by email about Frogster Online Gaming GmbH or services similar to those you have previously utilized. You can withdraw your consent for this at any time in written form (e.g. email) without incurring any costs except the expense of transmitting the withdrawal of consent (in line with basic tariffs). You will be given the opportunity to reject receiving any further information from us with every form of information we send you such as newsletters and, in doing so, lodge a formal withdrawal of consent.
 
 Frogster Online Gaming GmbH can use the stored data concerning you for internal analysis on demographic data, and user interests and behavior but your identity will remain anonymous. This data may also be evaluated in an anonymous and aggregated form for advertisement and market research purposes. If, and in so far as Frogster Online Gaming GmbH uses user data to create user profiles, this process can be terminated if you object to it.
 
-**3.10 Transferral of the Game**
+3.10 Transferral of the Game
 
 If the game for which you have registered must be transferred to a third party, either fully or partially (respective language version), we retain the right to supply this third party with your personal data to allow further operation of the game.
 
-**3.11 Affiliated Companies**
+3.11 Affiliated Companies
 
 Frogster Online Gaming GmbH has the right to supply your personal data to affiliated companies (see Chapter 15 and onwards of the AktienG (German Corporation Law)). This may occur in particular if the duties and responsibilities within the group of companies are changed during a restructuring, for example to improve service quality or the optimization of internal processes. These affiliated companies will also use this data within the framework of these data privacy regulations.
 
-**4\. Special Instructions on using voice chat**
+4\. Special Instructions on using voice chat
 
 Some of our games offer the possibility of communicating with other players using voice chat. The voice chat is provided by Vivox in the USA which is one of the world’s leading businesses for voice chat solutions.
 
@@ -130,25 +130,25 @@ Voice content is saved by us and Vivox only if we are required to by law.
 
 Please be aware that international data privacy standards can vary. The European Union assumes that the same standard does not always apply in the USA as it does within the European Union.
 
-**5\. Objection to future correspondence**
+5\. Objection to future correspondence
 
 We will occasionally inform our customers about new products, events, upgrades and updates - mostly by newsletter. If you do not wish to receive this please let us know either by clicking the button ‘Unsubscribe’ on the respective page or, in the case of newsletters, the ‘Unsubscribe Newsletter’ link. You can also write to us at the address at the end of this Data Privacy Policy. You will incur no costs if you object to correspondence. Please note that you cannot reject messages concerning safety, first use, date of expiry, product improvement or services sent by us or on our behalf. If you receive correspondence from one of our trustworthy business partners or suppliers, or if we already passed on your data to them, you must to contact them directly stating your wish to no longer receive correspondence.
 
-**6\. Our security measures**
+6\. Our security measures
 
 The protection of all private data which we collect from the visitors to our website and from our customers is an important part of our company philosophy. We employ security measures which protect your private data from loss, abuse and alteration. Nevertheless a minor risk when transmitting private data via internet remains. In order to minimize this risk we encode your data with the help of Secure Sockets Layer (SSL).
 
-**7\. Retrieving, Amending, or Updating your data**
+7\. Retrieving, Amending, or Updating your data
 
 If you wish to update or amend private data, or if you want to know what data we have collected, or would like to have it deleted, please contact us at the address given at the end of this Data Privacy Policy.
 
 If you use this function your email address will appear as the sender of this email. However, neither your email address nor that of the recipient will be used for any other purposes.
 
-**8\. Alterations**
+8\. Alterations
 
 Essential modifications to this Data Privacy Policy will be published on our website.
 
-**9\. How to contact us or our data protection officer**
+9\. How to contact us or our data protection officer
 
 All interested parties and customers of Frogster Online Gaming GmbH can contact us as below:  
 Frogster Online Gaming GmbH  
@@ -158,4 +158,4 @@ GERMANY
 
 Please contact our Data Protection Officer if you have any queries concerning data protection. You can contact them via:
 
-[datenschutz@ads-forstmann.de](mailto:datenschutz@ads-forstmann.de)
+[datenschutz@frogster.de](mailto:datenschutz@frogster.de)
