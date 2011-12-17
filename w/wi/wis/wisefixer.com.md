@@ -1,42 +1,69 @@
-> *The following text is extracted and transformed from the wisefixer.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209201806id_/http%3A//www.wisefixer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisefixer.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217143835id_/http%3A//www.wisefixer.com/privacy.php) for the most accurate reproduction.*
 
 # WiseFixer - Privacy
 
-WiseFixer.com respects the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy. 
+### **FoxthSoft the privacy of all its users and is committed to protecting such privacy in accordance with this Privacy Policy.**
 
-This Privacy Policy explains WiseFixer.com treatment of your personally identifiable information collected in connection with your activities on the WiseFixer.com web site. 
+FoxthSoft's Customer Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by FoxthSoft anytime you interact with FoxthSoft, such as when you visit our website, when you purchase FoxthSoft products and services, or when you contact our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at FoxthSoft, and we go to great lengths to protect it.
 
-**1\. COLLECTION OF YOUR PERSONAL INFORMATION**  
-WiseFixer.com will not collect or use any information about the visitors to the Web Site and your visit to the Web Site is anonymous. The only exception is when we will need information that personally identifies in order to fulfill a contractual obligation towards you pursuant to what is set forth in section 2 below. 
+## Why we collect personal information
 
-**2\. CONTRACTUAL OBLIGATION**  
-If you make a purchase from the Web Site, you will be asked to provide your name, email and payment information. We may use information collected in the following ways: 
+We collect your personal information because it helps us deliver a superior level of customer service. It enables us to give you convenient access to our products and services and focus on categories of greatest interest to you. In addition, your personal information helps us keep you posted on the latest product announcements, software updates, special offers, and events that you might like to hear about.
 
-  1. To process, validate and verify purchases. 
-  2. To contact you to reconfirm or verify accuracy of information provided. 
-  3. To register you as a customer. 
-  4. To open and maintain a support account for you. 
-  5. To send email notifications about new, existing, enhanced products or services. 
-  6. To send information on special offers, or to obtain your feedback to help enhance existing features or provide added products and services. 
-  7. To enable us to personalize content, advertising and promotions based on preferences, needs, suggestions, or recommendations. 
-  8. To provide advance notice of termination of a trial period or an opportunity to extend a trial period, or advance notice of expiration of your software license. 
+## What information we collect and how we may use it
 
+There are a number of situations in which your personal information may help us give you better products or service. For example:
+
+  * We may ask for your personal information when you're discussing a service issue on the phone with an associate, downloading a software update, registering for a seminar, participating in an online survey, registering your products, or purchasing a product.
+  * When you interact with FoxthSoft, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and information about the FoxthSoft products you own, such as their serial numbers and date of purchase; and information relating to a support or service issue.
+  * We also collect information for market research purposes — such as your occupation and where you use your computer - to gain a better understanding of our customers and thus provide more valuable service.
+  * We collect information regarding customer activities on our websites. This helps us to determine how best to provide useful information to customers and to understand which parts of our websites, products, and Internet services are of most interest to them.
+  * We may use personal information to provide products that you have requested as well as for auditing, research, and analysis to improve FoxthSoft's products and service.
 
 
-We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example protect our intellectual property rights), and your compliance with the applicable End User License Agreement(s) contained within the RegWinner software. We may also disclose or use your personal information when we, in good faith, believe that the applicable law may require us to do so.
 
-The information you provide will not be used for any other commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party with the exception of our sales processor ClickBank, who will process your orders and distribute the goods or services that you have requested. 
+### Publicly displayed information is public
 
-**3\. THE USE OF COOKIES**  
-Our websites does use "cookies" for the sole purpose of tracking affiliate referrals and conversion. We do not save any personally identifiable information in cookies sent to your browser.  
-Cookies are identifiers that a web site can send to your browser to keep on your computer to facilitate your next visit to the site. The use of cookies is an industry standard, and many web sites use them.  
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. All parts of our website will function correctly if you disable cookies. 
+If you use a bulletin board or chat room on FoxthSoft website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. FoxthSoft is not responsible for the personally identifiable information you choose to submit in these forums. For example, if you choose to make information, which was previously non-public, available by enabling certain user features, FoxthSoft will collect that information from your interaction and the information will become publicly available.
 
-**4\. LINKS TO OTHER SITES**  
-The Web Site may contain links to other web sites. WiseFixer.com does not monitor or control the content of such web sites or whether such web sites collect or process your personal data. Accordingly, WiseFixer.com assumes no responsibility or liability whatsoever for any kind of material available at such sites and recommends that you review the separate privacy policies of such sites. 
+## When we disclose your information
 
-**5\. CHANGES TO THIS POLICY**  
-WiseFixer.com may occasionally update this Privacy Policy. Any changes will be posted to this site, so we encourage you to continuously review our Privacy Policy. 
+FoxthSoft takes your privacy very seriously. FoxthSoft does not sell or rent your contact information to other marketers.
 
-**6\. CONTACT INFORMATION**  
-For questions regarding this Privacy Policy please [**Contact us**](http://www.wisefixer.com/about.php). 
+### Within the FoxthSoft Corporation
+
+To help us provide superior service, your personal information may be shared with legal entities within the FoxthSoft Corporation globally who will take steps to safeguard it in accordance with FoxthSoft's privacy policy.
+
+### With our service providers, vendors, and strategic partners
+
+There are also times when it may be advantageous for FoxthSoft to make certain personal information about you available to companies that FoxthSoft has a strategic relationship with or that perform work for FoxthSoft to provide products and services to you on our behalf. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. These companies are also obligated to protect your personal information in accordance with FoxthSoft's policies, except if we inform you otherwise at the time of collection.
+
+At times we may be required by law or litigation to disclose your personal information. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
+
+## How we protect your personal information
+
+FoxthSoft takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
+
+FoxthSoft uses secure server hosted by Paypal, SWREG and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information.
+
+You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser like Safari.
+
+## Kids
+
+FoxthSoft recognizes that parents, guardians, or other adults often purchase our products for family use, including use by minors. We do not knowingly collect personal information from children under 13 for marketing purposes, but because some information is collected electronically, it can appear to be the personal information of the FoxthSoft purchaser of the product, and will be treated as such by this privacy policy. If a child under 13 submits personal information to FoxthSoft and we learn that that personal information is the information of a child under 13, we will attempt to delete the information as soon as possible.
+
+## Cookies and other technologies
+
+As is standard practice on many corporate websites, FoxthSoft's website uses "cookies" and other technologies to help us understand which parts of our websites are the most popular, where our visitors are going, and how much time they spend there. We also use cookies and other technologies to make sure that our online advertising is bringing customers to our products and services. We use cookies and other technologies to study traffic patterns on our website, to make it even more rewarding as well as to study the effectiveness of our customer communications. And we use cookies to customize your experience and provide greater convenience each time you interact with us.
+
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. FoxthSoft will not use the information collected to market directly to that person.
+
+## Anti-malware statement
+
+FoxthSoft STRONGLY OPPPOSES all forms of malware. FoxthSoft applications will never intentionally jeopardize our customers' privacy or security. All applications are designed to be easily removable from the computer through an uninstall utility. FoxthSoft does not employ the use of reinstallers and avoids all features that may be found in any type of malware. No FoxthSoft application is designed to collect any personally identifiable information from any user. FoxthSoft applications do not contain, nor are they bundled with, any third party applications (spyware, adware, malware, etc.) that would jeopardize our customers' security or their privacy. All FoxthSoft applications pass both Kaspersky and Rising vigorous anti-virus/malware tests before public release.
+
+## Our companywide commitment to your privacy
+
+This policy covers the Intel Corporate website and is applicable worldwide. To make sure your personal information is secure, we communicate these guidelines to FoxthSoft employees and strictly enforce privacy safeguards within the company.
