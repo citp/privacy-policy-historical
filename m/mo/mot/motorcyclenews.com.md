@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorcyclenews.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502085835id_/http%3A//www.motorcyclenews.com/MCN/Other/Copyright/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorcyclenews.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217023236id_/http%3A//www.motorcyclenews.com/MCN/Other/Copyright) for the most accurate reproduction.*
 
 # Privacy policy
 
