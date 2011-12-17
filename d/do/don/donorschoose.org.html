@@ -1,25 +1,26 @@
-<!--The following is the downloaded HTML source of the donorschoose.org privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229090523id_/http%3A//www.donorschoose.org/help/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the donorschoose.org privacy policy that was archived on 2011-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217175340id_/http%3A//www.donorschoose.org/help/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
  <title>DonorsChoose.org: Privacy Policy</title>
  
  
- <link rel="shortcut icon" href="http://www.donorschoose.org/images/favicon.ico">
- <link type="text/css" rel="stylesheet" href="http://www.donorschoose.org/styles/style.css?version=201012361105742">
- <link type="text/css" rel="stylesheet" href="http://www.donorschoose.org/styles/style.css?version=201012361105742">
- <link type="text/css" rel="stylesheet" href="http://www.donorschoose.org/styles/global.css?version=201012361105742">
+ <link rel="shortcut icon" href="http://cdn.donorschoose.net/images/favicon.ico">
+ <link type="text/css" rel="stylesheet" href="http://cdn.donorschoose.net/styles/style.css?version=201112350110950">
+ <link type="text/css" rel="stylesheet" href="http://cdn.donorschoose.net/styles/style.css?version=201112350110950">
+ <link type="text/css" rel="stylesheet" href="http://cdn.donorschoose.net/styles/global.css?version=201112350110950">
 
  
- <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.donorschoose.org/js/styles.js?version=201012361105742"></script>       
+ <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" src="http://cdn.donorschoose.net/js/styles.js?version=201112350110950"></script>       
 <!--[if lt IE 7]>
 <style type="text/css">
 .bodyCorners .corners {background-image:url(../images/cnr_body.gif)}
 </style>
 <![endif]-->
- <script type="text/javascript" src="http://www.donorschoose.org/js/util.js?version=201012361105742"></script>   
- <script type="text/javascript" src="http://www.donorschoose.org/js/jquery/jquery-1.3.2.min.js"></script>
+ <script type="text/javascript" src="http://cdn.donorschoose.net/js/util.js?version=201112350110950"></script>   
+ <script type="text/javascript" src="http://cdn.donorschoose.net/js/jquery/jquery-latest.min.js"></script>
+ <script type="text/javascript" src="http://cdn.donorschoose.net/js/jquery/jquery-ui-1.7.3.custom.min.js"></script>
  <script type="text/javascript">/* <![CDATA[ */ self.name = "_orig"; /* ]]> */ </script>
  
  
@@ -83,7 +84,10 @@
 
 
 
-			
+
+	
+
+	  	
 
 
 
@@ -95,6 +99,13 @@
   _gaq.push(['_setAccount', 'UA-2016540-1']);
   _gaq.push(['_setDomainName', '.donorschoose.org']);
 
+	<!-- SET userType BACK TO DONOR -->
+	if (window.location.pathname.indexOf("lastingImpact") == -1 && window.location.pathname.indexOf("cartThankYou") == -1 && window.location.pathname.indexOf("cartDonationMessage") == -1 && readCookie("v") != null && readCookie("v") == "donated") {
+		//pageTracker._setVar("donor");
+		_gaq.push(['_setCustomVar',1,'visitorType','donor',1]);
+		createCookie("v","donor",365);
+	}
+	
 	
 	
    	
@@ -104,12 +115,13 @@
    	_gaq.push(['_trackPageview']);  	 
    	
    	
+   	_gaq.push(['_trackPageLoadTime']);
 
 </script>
 
 <!-- /GOOGLE ANALYTICS TRACKING FOOTER -->
 
-</head>    
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>    
 <body>
  <div align="center" id="body1">
 
@@ -184,7 +196,10 @@
 
 
 
-			
+
+	
+
+	  	
 
 
 
@@ -193,7 +208,7 @@
 
 
 
-<script type="text/javascript">/* <![CDATA[ */
+<script type="text/javascript">
 
 var baseURL = "http://www.donorschoose.org/";
 
@@ -203,7 +218,7 @@ var secureBaseURL = "https://secure.donorschoose.org/";
 
 
 
-var baseCacheURL = "http://www.donorschoose.org/";
+var baseCacheURL = "http://cdn.donorschoose.net/";
 
 
 
@@ -230,159 +245,266 @@ function Get_Cookie( name ) {
 	if ( end == -1 ) end = document.cookie.length;
 	return unescape( document.cookie.substring( len, end ) );
 }
-/* ]]> */</script>
 
-<div id="headerLeft">
-<div id="headerRight">
-
-<a id="logoLink" target="_top" href="http://www.donorschoose.org/homepage/main.html" onclick="getReturnHomePage(this);"><img name="logo" id="logo" onmouseover="this.src='http://www.donorschoose.org/images/header/donorschoose_org.gif'" onmouseout="this.src='http://www.donorschoose.org/images/header/donorschoose_org.gif'" style="margin:10px 0px 0px 0px;" align="left" src="http://www.donorschoose.org/images/header/donorschoose_org.gif" border="0" alt="DonorsChoose.org: Teachers ask. You choose. Students learn."></a>
-
-
-<div class="topNav">
-<div id="topNavTextLinks">
-
-	 <div style="float:left;float:left;height:30px;line-height:30px;padding:0px;margin:5px 0px">
-     <a target="_top" href="http://help.donorschoose.org/">Help Center</a>
-     </div>     
-          
-     <div id="miniAccount">
-     <div id="accountDropdownHolder" style="position:relative;z-index:1000">
-     <div id="accountDropdown" onmouseover="showAccountDropdown()" onmouseout="hideAccountDropdown()">
-     <a id="subAccountLink" target="_top" href="https://secure.donorschoose.org/common/myaccount.html">My Account</a>
-     <a id="createAccountLink" target="_top" href="https://secure.donorschoose.org/donors/create_password.html" style="display:none">Activate account</a>
-     <a id="signOutLink" target="_top" href="https://secure.donorschoose.org/common/signout.html">Sign Out</a>
-     <a id="notYouLink" target="_top" href="https://secure.donorschoose.org/common/signout.html" onclick="notYou()">Not You?</a>
-     </div>    
-     </div>     
-     
-     <span id="sep1" class="sep">|</span><a id="myAccountLink" target="_top" href="https://secure.donorschoose.org/common/myaccount.html">My Account</a><span id="sep2" class="sep">|</span>
-     
-     <span id="noCookieSignoutLink" style="padding:0px"></span>
-     <style type="text/css">
+var userId = "";
+var userName = "";
+var userHasPW = "";
+var userHash = "";
+		
+</script>
+<style type="text/css">
      #topNavTextLinks #accountDropdown {line-height:1.3em}
      #topNavTextLinks span.sep {padding:0px}
      #myAccountLink {padding:0px 10px}
-     #miniAccount {cursor:pointer;float:left;height:14px;line-height:26px;margin:7px 10px 0px 10px;padding:0px 0px 12px 0px;-moz-border-radius:5px 5px 0px 0px;border-radius:5px 5px 0px 0px;}
-     #accountDropdown {-moz-border-radius:5px;border-radius:5px;display:none;white-space:nowrap;background-color:#ffffff;z-index:1000;position:absolute;top:25px;left:0px;padding:5px 13px;text-align:left;width:180px;}
+     #miniAccount {cursor:pointer;float:left;height:14px;line-height:26px;margin:7px 10px 0px 10px;padding:0px 0px 18px 0px;-moz-border-radius:5px 5px 0px 0px;border-radius:5px 5px 0px 0px;}
+     #accountDropdown {-moz-border-radius:5px;border-radius:5px;display:none;white-space:nowrap;background-color:#ffffff;z-index:1000;position:absolute;top:23px;left:0px;padding:5px 13px;text-align:left;width:180px;}
      #accountDropdown a {display:block;padding:0px;line-height:1.5em}
-     </style>         
-     </div>
-     
+</style>
+
+
+<script type="text/javascript">
+if (readCookie("hasHeaderHIW") == null) {
+    createCookie("hasHeaderHIW","true",0);
+} else if (readCookie("hasHeaderHIW").length < 8) {
+    createCookie("hasHeaderHIW",readCookie("hasHeaderHIW") + "1",0);
+}
+</script>
+
+
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Ubuntu+Condensed::latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();</script>
+<style type="text/css">
+#headerHIW {display:none;padding:5px 0px;background:#b1e1e8;text-align:center;font-size:14px;font-family:arial,helvetica;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ddeff3', endColorstr='#b1e1e8'); /* for IE */
+background: -webkit-gradient(linear, left top, left bottom, from(#ddeff3), to(#b1e1e8)); /* for webkit browsers */
+background: -moz-linear-gradient(top,  #ddeff3,  #b1e1e8); /* for firefox 3.6+ */ 
+border-style:solid;border-color:#becdd3;border-width:0px 0px 1px 0px}
+#headerHIWHolder {width:954px;margin:0px auto;text-align:left}
+#headerLeft {background:url() transparent}
+#hiwDonors {padding:0px 5px 0px 0px;color:#000000;font-size:1.5em;text-align:right;}
+#hiwDonors div {padding:40px 30px 0px 0px;}
+#hiwDonors span {line-height:4em;}
+#hiwDonors .stat {line-height:1em;white-space:nowrap}
+#hiwDonors strong {font-family:'Ubuntu Condensed',arial,helvetica;font-size:1.8em;font-weight:bold;letter-spacing:-1px}
+#hiwDonors a {text-decoration:none;font-size:.8em}
+
+</style>
+<div id="headerHIW" style="display:none">
+<div id="headerHIWHolder">
+<div style="float:left;width:347px;margin-left:30px">
+    <!-- VIDEO -->
+    <script type="text/javascript" src="http://cdn.donorschoose.net/js/swfobject.js"></script>
     <script type="text/javascript">/* <![CDATA[ */
+        swfobject.registerObject("homePageVideo", "8.0.0", "/images/misc/expressInstall.swf");
+    /* ]]> */</script>
+    <div style="width:347px;height:166px" id="video">
+        <!--  old video = CfKamEdZ1sI -->
+        <a href="#" onclick="toggleLargeVideo();"><img src="http://cdn.donorschoose.net/images/header/oprah_colbert.png" style="width:347px;height:166px;position:absolute;" border="0"></a>       
+    </div>
+    <div id="videoOverlay" style="display:none;top:3px;left:0px;position:absolute; background-color: black; width: 100%; height: 100%; z-index:199;" onclick="toggleLargeVideo();">&nbsp;</div>
+    <div style="position:absolute;">
+    <div style="display:none;width:347px;height:166px;position:absolute;z-index:200;margin-top:-170px;left:0px;" id="largeVideo">
+        <div id="largeVideoInner" style="position:absolute;display:none;z-index:202;">
+            <div class="close_button" style="position:absolute;top:-15px;right:-15px;z-index:300;"><a href="#" onclick="toggleLargeVideo()"><img src="http://cdn.donorschoose.net/images/close_button.png" height="29" width="29" border="0" alt="youtube video"></a></div>
+            <iframe id="homepage_player" class="youtube-player" type="text/html" width="505" height="438" src="http://cdn.donorschoose.net/images/empty.gif" frameborder="0"></iframe>
+        </div>
+    </div>
+    </div>
     
-	var userId = "";
-	var userName = "";
-	var userHasPW = "";
-	var userHash = "";
+    <script type="text/javascript">
+    function toggleLargeVideo() {    	
+    	if (document.getElementById('largeVideo').style.display=='none') {
+            document.getElementById('homepage_player').src='http://www.youtube.com/embed/PUSdjfh2YjM?autoplay=1&wmode=opaque';
+            $('#videoOverlay').height($(document).height());
+            $('#videoOverlay').fadeTo('slow',0.5);
+            $('#largeVideo').show();
+            
+            
+            $('#largeVideo').animate({'left':'+=0px','top':'+=10px','width':'+=152px','height':'+=272px','background-color':'white'}, 'slow', function() { $('#homepage_player').show(); $('#largeVideoInner').fadeIn('slow'); });
+            
+            _gaq.push(['_trackEvent','HIW Video','Obama Oprah','privacy_policy']);
+        } else {
+            $('#videoOverlay').fadeOut('fast');
+            
+            
+            $('#largeVideoInner').fadeOut('fast', function() { $('#largeVideo').animate({'left':'+=0px','top':'+=-10px','width':'+=-152px','height':'+=-272px'}, 'slow'); document.getElementById('homepage_player').src=''; $('#largeVideo').fadeOut(); });
+            
+        }
+    }
+    </script>
+</div>
+
+<div id="hiwDonors">
+<a target="_top" id="imATeacher" href="/teacher">I'm a teacher »</a>
+<div><span class="stat"><strong>26,796</strong> <span>donors helped</span></span> <span class="stat"><strong>144,345</strong> <span>students this week</span></span></div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<script type="text/javascript">
+if (readCookie("v") == null && (readCookie("hasHeaderHIW") == null || readCookie("hasHeaderHIW") == "true")) {
+	$('#headerHIW').insertBefore('#body2');
+	$('#headerHIW').show();
+}
+</script>
+
+
+
+<div id="headerBackground" style="background:url(/images/misc/body_bg.jpg) top center repeat-x #abd8ed;">
+<div id="headerLeft">
+<div id="headerRight">
+	<div class="topNav">
+		<div id="topNavTextLinks">
+			<div style="float:left;float:left;height:30px;line-height:30px;padding:0px;margin:5px 0px"><a target="_blank" href="http://help.donorschoose.org/">Help Center</a></div>     
+	        <div id="miniAccount">
+	        	<div id="accountDropdownHolder" style="position:relative;z-index:1000">
+	        		<div id="accountDropdown" onmouseover="showAccountDropdown()" onmouseout="hideAccountDropdown()">
+	        			<a id="subAccountLink" target="_top" href="https://secure.donorschoose.org/common/myaccount.html">My Account</a>
+	        			<a id="createAccountLink" target="_top" href="https://secure.donorschoose.org/donors/create_password.html" style="display:none">Activate account</a>
+	        			<a id="signOutLink" target="_top" href="https://secure.donorschoose.org/common/signout.html">Sign Out</a>
+	        			<a id="notYouLink" target="_top" href="https://secure.donorschoose.org/common/signout.html" onclick="notYou()">Not You?</a>
+	        		</div><!--  /accountDropdown -->
+	        	</div><!-- /accountDropdownHolder  -->
+	        	<span id="sep1" class="sep">|</span><span id="facebookHeaderPhoto" style="display:none"></span><a id="myAccountLink" target="_top" href="https://secure.donorschoose.org/common/myaccount.html">My Account</a><span id="sep2" class="sep">|</span>
+	        	
+	        	<span id="noCookieSignoutLink" style="padding:0px"></span>
+	        </div><!-- /miniAccount -->
+	    </div><!-- /topNavTextLinks -->
+		<div id="miniCart" onclick="parent.location.href='https://secure.donorschoose.org/donors/givingCart.html?traction=clickCartHeaderLink'" class="miniCart"></div>
+		
+	</div><!-- /topNav -->
 	
-	function setUpUserCookies() {
-		if (readCookie("userId") != null && readCookie("userId") != "") {
-			var userCookie = readCookie("userId");
-			var userCookieSplit = userCookie.split("##");
-			if  (userCookieSplit.length > 0) {
-				userId = userCookieSplit[0];
-				userName = userCookieSplit[1];
-				userHasPW = userCookieSplit[2];
-				userHash = userCookieSplit[3];
-				if (userName != "") userName = unescape(userName);
-				if (userName.length > 23) userName = userName.substring(0,20) + "...";
-			}
-			if (!isNaN( parseInt(userName) ) || (false && userId != "" )) {
-				eraseCookie("userId");		
-				userId = "";
-				userName = "";
-				userHasPW = "";
-				userHash = "";			
-			}
-			
+	<div class="topNavBtmRow">
+		<div id="nav2">
+			<a target="_top" class="chooseAProject" href="http://www.donorschoose.org/donors/search.html"><span>Projects</span></a>
+			<a target="_top" class="gifts" href="http://www.donorschoose.org/donors/giftoptions.html"><span>Gift Ideas</span></a>
+			<a target="_top" class="about" href="http://www.donorschoose.org/about"><span>About</span></a>
+		</div><!-- /nav2 -->
+	</div><!-- /topNavBtmRow -->
+</div><!-- /headerRight -->
+<a id="logoLink" target="_top" href="http://www.donorschoose.org/homepage/main.html" onclick="getReturnHomePage(this);"><img name="logo" id="logo" style="margin:10px 0px 0px 0px;" src="http://cdn.donorschoose.net/images/header/donorschoose_org.gif" border="0" alt="DonorsChoose.org"></a><br>
+<a id="taglineNewLink" target="_top" href="http://www.donorschoose.org/homepage/main.html"><img name="taglineNew" id="taglineNew" align="left" src="http://cdn.donorschoose.net/images/header/online_charity.gif" border="0" alt="An online charity connecting you to classrooms in need."></a>
+<a id="taglineReturnLink" target="_top" href="http://www.donorschoose.org/homepage/main.html"><img name="taglineReturn" id="taglineReturn" align="left" src="http://cdn.donorschoose.net/images/header/teachers_ask.gif" border="0" alt="Teachers ask. You choose. Students learn."></a>
+<div style="clear:both"></div>
+<script type="text/javascript">
+function setUpUserCookies() {
+	if (readCookie("userId") != null && readCookie("userId") != "") {
+		var userCookie = readCookie("userId");
+		var userCookieSplit = userCookie.split("##");
+		if  (userCookieSplit.length > 0) {
+			userId = userCookieSplit[0];
+			userName = userCookieSplit[1];
+			userHasPW = userCookieSplit[2];
+			userHash = userCookieSplit[3];
+			if (userName != "") userName = unescape(userName);
+			if (userName.length > 23) userName = userName.substring(0,20) + "...";
 		}
+		if (!isNaN( parseInt(userName) ) || (false && userId != "" )) {
+			eraseCookie("userId");		
+			userId = "";
+			userName = "";
+			userHasPW = "";
+			userHash = "";			
+		}
+		
+	}
+}
+
+setUpUserCookies();
+function showSignOutLink() {
+  	if (isLoggedIn()) { 
+		document.getElementById("signOutLink").style.display = "";
+	} else {
+		document.getElementById("signOutLink").style.display = "none";
+		if (readCookie("userId") == null  || readCookie("userId") == "") document.getElementById("subAccountLink").innerHTML = "Sign In";
+	}
+
+	personalizeAccountLinks();
+
+}
+
+function showAccountDropdown() {
+	document.getElementById("accountDropdown").style.display = "block";
+	document.getElementById("miniAccount").style.backgroundColor = "#ffffff";
+}
+function hideAccountDropdown() {
+	document.getElementById("accountDropdown").style.display = "none";
+	document.getElementById("miniAccount").style.backgroundColor = "transparent";
+}		
+
+function personalizeAccountLinks() {
+	if (readCookie("userId") != null && readCookie("userId") != "") {
+		if (userName != null && userName != "") {
+			if (isLoggedIn()) {
+				document.getElementById("myAccountLink").href = "https://secure.donorschoose.org/common/myaccount.html";		
+				document.getElementById("subAccountLink").href = "https://secure.donorschoose.org/common/myaccount.html";								
+			} else if (readCookie("v") != "teacher") {
+				document.getElementById("myAccountLink").href = "http://www.donorschoose.org/donor/" + userId + "?pageType=account";
+				document.getElementById("subAccountLink").href = "http://www.donorschoose.org/donor/" + userId + "?pageType=account";
+				document.getElementById("subAccountLink").innerHTML = "My Account / Sign In";		
+			}
+			document.getElementById("myAccountLink").innerHTML = "<b>Hi, " + userName + "</b>";
+			document.getElementById("notYouLink").innerHTML = "Not " + userName + "?";
+			document.getElementById("miniAccount").onmouseover = showAccountDropdown;
+			document.getElementById("miniAccount").onmouseout = hideAccountDropdown;
+			document.getElementById("accountDropdownHolder").style.display = "";	
+		}
+		if (userHasPW == null || userHasPW == "0") {
+			document.getElementById("createAccountLink").style.display = "block";
+			document.getElementById("subAccountLink").style.display = "none";					
+		}
+		document.getElementById("noCookieSignoutLink").innerHTML = '';
+		document.getElementById("noCookieSignoutLink").style.padding = '0px';									
+	} else {
+		document.getElementById("myAccountLink").href = "https://secure.donorschoose.org/common/myaccount.html";
+		document.getElementById("subAccountLink").href = "https://secure.donorschoose.org/common/myaccount.html";	
+		document.getElementById("myAccountLink").innerHTML = "My Account";
+		document.getElementById("notYouLink").innerHTML = "";
+		document.getElementById("miniAccount").onmouseover = null;
+		document.getElementById("miniAccount").onmouseout = null;
+		document.getElementById("accountDropdownHolder").style.display = "none";				
 	}
 	
-	setUpUserCookies();     
-     	function showSignOutLink() {
-     		if (isLoggedIn()) { 
-				document.getElementById("signOutLink").style.display = "";
-			} else {
-				document.getElementById("signOutLink").style.display = "none";
-				document.getElementById("subAccountLink").innerHTML = "Sign in";
-			}
-			
-			personalizeAccountLinks();
-			
-		}
+	if (isLoggedIn() && readCookie("userId") == null) { 
+		document.getElementById("noCookieSignoutLink").innerHTML = '<a href="https://secure.donorschoose.org/common/signout.html" style="padding:0px 9px 0px 4px">Sign Out</a> <span class="sep">!</span>';
 		
-		function showAccountDropdown() {
-			document.getElementById("accountDropdown").style.display = "block";
-			document.getElementById("miniAccount").style.backgroundColor = "#ffffff";
-		}
-		function hideAccountDropdown() {
-			document.getElementById("accountDropdown").style.display = "none";
-			document.getElementById("miniAccount").style.backgroundColor = "transparent";
-		}		
-		
-		function personalizeAccountLinks() {
-			if (readCookie("userId") != null && readCookie("userId") != "") {
-				if (userName != null && userName != "") {
-					document.getElementById("myAccountLink").innerHTML = "<b>Hi, " + userName + "</b>";
-					document.getElementById("notYouLink").innerHTML = "Not " + userName + "?";
-					document.getElementById("miniAccount").onmouseover = showAccountDropdown;
-					document.getElementById("miniAccount").onmouseout = hideAccountDropdown;
-				}
-				if (userHasPW == null || userHasPW == "0") {
-					document.getElementById("createAccountLink").style.display = "block";
-					document.getElementById("subAccountLink").style.display = "none";
-				}
-				document.getElementById("noCookieSignoutLink").innerHTML = '';
-				document.getElementById("noCookieSignoutLink").style.padding = '0px';
-			} else {
-				document.getElementById("myAccountLink").innerHTML = "My Account";
-				document.getElementById("notYouLink").innerHTML = "";
-				document.getElementById("miniAccount").onmouseover = null;
-				document.getElementById("miniAccount").onmouseout = null;
-				document.getElementById("accountDropdownHolder").style.display = "none";				
-			}
-			
-			if (isLoggedIn() && readCookie("userId") == null) { 
-				document.getElementById("noCookieSignoutLink").innerHTML = '<a href="https://secure.donorschoose.org/common/signout.html" style="padding:0px 9px 0px 4px">Sign Out</a> <span class="sep">!</span>';
+	}			
+	
+}
+
+function notYou() {
+	eraseCookie("userId");
+	personalizeAccountLinks();
+	hideAccountDropdown();	
+	if (location.href.indexOf("header.html") > -1) {
+		document.getElementById("notYouLink").href += "?go=" + escape("http://www.donorschoose.org/");
+	} else {
+	    document.getElementById("notYouLink").href += "?go=" + escape(location.href); 
+	}
 				
-			}			
-			
-		}
-		
-		function notYou() {
-			eraseCookie("userId");
-			personalizeAccountLinks();
-			hideAccountDropdown();	
-			document.getElementById("notYouLink").href += "?go=" + escape(location.href); 
-						
-		}
-		showSignOutLink();
-		
-		
-	 /* ]]> */</script> 
-	 
-	 
-</div>
-<div id="miniCart" onclick="parent.location.href='https://secure.donorschoose.org/donors/givingCart.html'" class="miniCart"></div>
+}
+showSignOutLink();
 
-</div>
-		
-<div class="topNavBtmRow">
-	<div style="clear:right"></div> 
+</script>
 
-	<div id="nav2">
-	<a target="_top" class="chooseAProject" href="http://www.donorschoose.org/donors/search.html"><span>Projects</span></a> 
-	<a target="_top" class="gifts" href="http://www.donorschoose.org/donors/giftoptions.html"><span>Gift Ideas</span></a> 
-	<a target="_top" class="about" href="http://www.donorschoose.org/about/about.html"><span>About</span></a>
-	</div>
-</div>
-
-<div align="left" style="clear:left">
-<a id="taglineNewLink" target="_top" href="http://www.donorschoose.org/homepage/main.html"><img name="taglineNew" id="taglineNew" align="left" src="http://www.donorschoose.org/images/header/online_charity.gif" border="0" alt="An online charity connecting you to classrooms in need."></a>
-<a id="taglineReturnLink" target="_top" href="http://www.donorschoose.org/homepage/main.html"><img name="taglineReturn" id="taglineReturn" align="left" src="http://www.donorschoose.org/images/header/teachers_ask.gif" border="0" alt="Teachers ask. You choose. Students learn."></a>
-</div>
-
-<div style="clear:both"></div>
+<div id="ie6_header_error_holder" style="display:none;">&nbsp;</div>
+<!--[if lt IE 7]>
+<script type="text/javascript">
+checkDonorUserAgent(navigator.userAgent);
+</script>
+<![endif]-->
 
 <!-- HOMEPAGE PROMO STRIPE: zone 10001 -->
 
@@ -394,33 +516,7 @@ function Get_Cookie( name ) {
 
 <!-- /SITE-WIDE PROMO STRIPE -->
 
-
-<div id="headerHIW" style="display:none;">
-<ul class="youGivePic">
-<li class="hiw1"><strong>1. You give</strong> <span>to a classroom project.</span></li>
-<li class="hiw2"><strong>2. We deliver</strong> <span>the materials to the class.</span></li>
-<li class="hiw3"><strong>3. Kids learn</strong> <span>and show it in<br>photos and thank-you notes.</span></li>
-<li class="hiw4"><span class="number">65<span style="font-size:70%">%</span></span><br><span class="line1">of projects reach completion!</span><br><div class="line2">If the one you support doesn't,<br>you get to pick another.</div></li>
-
-</ul>
-</div>
-<style type="text/css">
-#headerSearchMessage {width:950px;height:37px;background:url(http://www.donorschoose.org/images/misc/65_header_background.jpg) top center no-repeat; margin:10px 0 10px 0;text-align:center;padding-top:5px;}
-</style>
-<div id="headerSearchMessage" style="display:none">
-<span style="font-size:18px;"><strong><span style="font-size:24px;">65</span>% of projects reach completion!</strong></span>&nbsp;<span style="font-size:14px;color:#555555">If yours doesn't, you get to pick another.</span>
-</div>
-<script type="text/javascript">/* <![CDATA[ */
-if (readCookie('v') == null && readCookie('hasHeaderHIW') == null && (window.parent.location.href.search('help.donorschoose.org') == -1)) {
-	document.getElementById("headerHIW").style.display = "block";
-	// track this event in the page footer
-}
-/* ]]> */</script>
-
-
-
-
-<script type="text/javascript">/* <![CDATA[ */
+<script type="text/javascript">
 getMiniCart();
 if (readCookie("v") != null) {
 	document.getElementById("taglineNew").style.display = "none";
@@ -429,10 +525,51 @@ if (readCookie("v") != null) {
 	document.getElementById("taglineNew").style.display = "block";
 	document.getElementById("taglineReturn").style.display = "none";	
 }
-/* ]]> */</script>
+</script>
 
-</div>
-</div>
+
+<script type="text/javascript">
+
+var loggedIn = readCookie("isLoggedIn");
+var fbIdMatch = false;
+var fbcookie = readCookie("fbs_44550081712");
+var fbid = readCookie("fbid");
+
+if (loggedIn && fbid && fbcookie != null && fbcookie.indexOf(fbid) > -1)
+	fbIdMatch = true;
+
+if (fbIdMatch) {
+	var fbcookieSplit = fbcookie.split("&");
+	var uid = "";
+	if  (fbcookieSplit.length > 0) {
+		var uidString = fbcookieSplit[6];
+		uid = uidString.split("=")[1];
+	}
+	document.getElementById("facebookHeaderPhoto").innerHTML = '<img width="20" src="'+location.protocol+'//graph.facebook.com/'+uid+'/picture?return_ssl_resources=1" /><img src="http://cdn.donorschoose.net/images/header/fb_tn.gif" alt="" />';
+	document.getElementById("facebookHeaderPhoto").style.display = "inline";
+}
+</script>
+
+
+<div id="fb-root"></div>
+<script type="text/javascript">
+var ajaxRequest = $.getScript("https://connect.facebook.net/en_US/all.js",
+  function(){
+    clearTimeout(facebookScriptTimeout);
+});
+var facebookScriptTimeout = setTimeout(function() {ajaxRequest.abort();clearTimeout(facebookScriptTimeout);}, 1000);
+</script>
+
+<script>
+window.fbAsyncInit = function() {
+	FB.init({appId: '44550081712', status: true, cookie: true, xfbml: true, channelUrl: 'https://secure.donorschoose.org//html/facebookInitChannelUrl.htm'});
+};
+</script>
+
+
+
+</div><!-- /headerLeft -->
+</div><!-- /headerBackground -->
 <!-- /HEADER -->
     
 
@@ -450,11 +587,37 @@ if (readCookie("v") != null) {
 
 
 <!-- TOP_NAV -->
+     
+
+
+
 
 <!-- /TOP_NAV -->
 
   <!-- MESSAGES -->
   <div class="errorbar">
+
+
+
+<div id="backgroundOpacity" style="display:none"></div>	
+<div id="errorMessagePopupHolder"><div id="errorMessagePopup" style="display:none">
+<div id="errorMessageText">
+
+
+
+
+</div>
+
+<div id="messagesCloseBtn" style="text-align:right"><a class="OK" href="#" onclick="hideErrorMessagePopup();return false;"><img style="border:0px" src="../images/cart/btn_ok.gif" alt="OK"></a></div>
+
+</div>
+</div>
+<script type="text/javascript">
+
+</script>
+
+
+
 
 </div>
   <!-- /MESSAGES -->
@@ -490,7 +653,7 @@ if (readCookie("v") != null) {
 </p><p>DC exerts reasonable efforts to protect personal information received from users of our Sites from unauthorized use or disclosure. We do not allow unauthorized access via the Internet to the portion of our server that contains personally identifiable user information. All credit card information provided as requested on the Sites for donations is encrypted using the SSL protocol and we do not retain any end-user credit card information after the processing of the transaction is complete. 
 </p><p>3.	<em>How Does DC Use Information? </em>
 </p><p>3.1	<u>General</u>.  DC uses information for the following general purposes: to evaluate proposals to fund student projects, provide information regarding approved proposals to the Sites' visitors and potential donors, to customize the content and/or layout of the Sites for each individual user, to improve the content of our Sites, our services or programs, and to contact you. 
-</p><p>3.2	<u>Contacting You</u>. By creating an account on a Site, you agree to receive emails based on transactional activity, which may include confirmation emails, receipts, acknowledgement messages, updates on proposals you've funded, or updates on teacher feedback. You can also sign up for extra email updates and news ("Extra Email Updates and News") from the Sites. You can unsubscribe from those Extra Email Updates and News at any time by contacting DC or logging into your Site account and adjusting your "Email Preferences" settings or by using the link found on the email message to unsubscribe.
+</p><p>3.2	<u>Contacting You</u>. By creating an account on a Site, you agree to receive emails based on transactional activity, which may include confirmation emails, receipts, acknowledgment messages, updates on proposals you've funded, or updates on teacher feedback. You can also sign up for extra email updates and news ("Extra Email Updates and News") from the Sites. You can unsubscribe from those Extra Email Updates and News at any time by contacting DC or logging into your Site account and adjusting your "Email Preferences" settings or by using the link found on the email message to unsubscribe.
 </p><p>Email addresses provided by users of the Sites will only be used to send email from or related to DC and its programs. DC strictly enforces e-mail privacy, and e-mail addresses are not sold, leased or bartered to or with any third parties.
 </p><p>Postal addresses collected on-line may be used for various mailings from DC and its affiliates, including the forwarding of student and teacher thank you letters or other correspondence and pictures in appreciation of your donation.   Postal addresses are not sold, leased or bartered to or with any third parties.
 </p><p>3.3	<u>Donations, Registries and Other Services</u>. By voluntarily providing us with your name, credit card information, e-mail address, postal address, telephone number, billing address, and any other personally identifiable information, you consent to our use of such information for the purpose(s) for which it was collected, such as processing your donations, issuing or redeeming gift cards, opening a gift registry, funding a project in someone's honor, and/or for providing any other service or product you request. 
@@ -524,8 +687,7 @@ if (readCookie("v") != null) {
 <br>Attn: Financial Operations
 <br>	213 West 35th Street<br>
 		2nd Floor East<br>
-		New York, NY 10001e 503
-<br>New York, NY 10018
+		New York, NY 10001
 </p><p>The request should include your name, address, social security number, telephone number, and the recorded information to which you would like access or the specific information in dispute and the identity of the document or record that contains the disputed information.  The request should state whether you would like access in person or a copy of the information sent to you by mail.  Upon receipt of your request, we will contact you within thirty (30) business days to arrange providing you access in person or the copies that you have requested or to notify you either that we have made the correction, amendment or deletion or that we refuse to do so and the reasons for the refusal, which you will have an opportunity to challenge.   
 </p><p>8.	<em>Contact DC</em>
 </p><p>If you have any questions about our Privacy Policy or practices, you may contact us at <a href="http://www.donorschoose.org/contact">www.donorschoose.org/contact</a> or at:
@@ -562,6 +724,8 @@ if (qsParam["zone"] != null) {
 } else if (true) {
 	createCookie("zone", "0", null);
 }
+
+
 </script>
 
  
@@ -635,7 +799,10 @@ if (qsParam["zone"] != null) {
 
 
 
-			
+
+	
+
+	  	
 
 
 
@@ -647,7 +814,7 @@ if (qsParam["zone"] != null) {
 
 <div class="footer1" align="center">
 <a target="_top" href="http://help.donorschoose.org/">Help Center</a> <span class="sep">|</span>
-<a target="_top" href="http://www.donorschoose.org/about/about.html">About</a> <span class="sep">|</span>
+<a target="_top" href="http://www.donorschoose.org/about">About</a> <span class="sep">|</span>
 <a target="_top" href="http://www.donorschoose.org/donors/search.html">Projects</a> <span class="sep">|</span>
 <a target="_top" href="http://www.donorschoose.org/blog/">Blog</a> <span class="sep">|</span>
 <a target="_top" href="http://www.donorschoose.org/help/privacy_policy.html">Privacy</a> &amp; 
@@ -666,38 +833,43 @@ Follow on <a target="_new" onclick="_gaq.push(['_trackEvent','Footer','Links', '
 <td align="center">
 <div class="footerLabel">Featured by</div>
 </td>
-<td align="center" id="leaderLabelTD">
-<div class="footerLabel" id="leaderLabel">National Leadership Partners</div>
+<td align="center" id="leaderLabelTD" style="width:210px;">
+<div class="footerLabel" id="leaderLabel" style="width:210px;text-align:center">Partners</div>
 </td>
 </tr>
 <tr>
 <td align="center" class="logos">
 	
-	<a target="_top" href="http://www.donorschoose.org/help/popup_faq.html?name=charity_nav" onclick="g_openWindow(this.href, 600, 950, 'fulfillwindow');return false;"><img border="0" src="http://www.donorschoose.org/images/footer_bbb.png" width="52" height="87" alt="Better Business Bureau: Accredited Charity" style="margin-right:15px;"></a>
-	<a target="_top" href="http://www.donorschoose.org/help/popup_faq.html?name=charity_nav" onclick="g_openWindow(this.href, 600, 950, 'fulfillwindow');return false;"><img border="0" src="http://www.donorschoose.org/images/footer_charity_navigator.png" width="79" height="87" alt="Charity Navigator: Highest Rating"></a>
+	<a target="_top" href="http://www.donorschoose.org/help/popup_faq.html?name=charity_nav" onclick="g_openWindow(this.href, 600, 950, 'fulfillwindow');return false;"><div style="width:141px; height:87px; background-image: url(http://cdn.donorschoose.net/images/sprites/header_footer_sprite.png); background-position: -10px -204px; margin-left:40px;">&nbsp;</div></a>
 	
 	
 </td>
 <td align="center" class="logos">
 	
-	<a target="_top" href="http://www.donorschoose.org/about/press_center.html"><img border="0" src="http://www.donorschoose.org/images/footer_media.png" width="180" height="87" alt="Wall Street Journal, CNN, NPR"></a>
+	<a target="_top" href="http://www.donorschoose.org/about/press_center.html"><div style="width:180px; height:87px; background-image: url(http://cdn.donorschoose.net/images/sprites/header_footer_sprite.png); background-position: -9.5px -311px; margin-left:30px;">&nbsp;</div></a>
 	
 	
 </td>
-<script type="text/javascript" src="http://www.donorschoose.org/js/jquery/jquery.cycle.all.latest.js"></script>
+
+
+
+<script type="text/javascript" src="http://cdn.donorschoose.net/js/jquery/jquery.cycle.all.latest.js"></script>
 <script type="text/javascript">
 
 function createFooterLogo(sponsorThumbnail, sponsorName) {
-	slideshowDiv=document.getElementById('logo_slideshow');
-	var newDiv = document.createElement('div');
-	newDiv.setAttribute('class','logo_holder');
-	
-	
-		newDiv.innerHTML='<a href="http://www.donorschoose.org/about/our_supporters.html"><img src="http://www.donorschoose.org/images/logos/'+sponsorThumbnail+'" alt="'+sponsorName+'" border="0" /></a>';
-	
-	
-	
-	slideshowDiv.appendChild(newDiv);
+	if (sponsorThumbnail) {
+		slideshowDiv=document.getElementById('logo_slideshow');
+		var newDiv = document.createElement('div');
+		newDiv.setAttribute('class','logo_holder');
+		newDiv.style.width="200px";
+		
+		
+			newDiv.innerHTML='<center><a href="http://www.donorschoose.org/about/our_supporters.html"><img src="http://cdn.donorschoose.net/images/logos/'+sponsorThumbnail+'" alt="'+sponsorName+'" border="0" style="margin:0px auto;" /></a></center>';
+		
+		
+		
+		slideshowDiv.appendChild(newDiv);
+	}
 }
 
 $(document).ready(function() {
@@ -732,8 +904,8 @@ $(document).ready(function() {
 		
 	
 		tierTwoSponsors[3]=new Array();
-		tierTwoSponsors[3]['logo'] = 'hp_bw.png';
-		tierTwoSponsors[3]['name'] = 'HP';
+		tierTwoSponsors[3]['logo'] = 'Wasserman_bw.png';
+		tierTwoSponsors[3]['name'] = 'Wasserman Foundation';
 		
 	
 		tierTwoSponsors[4]=new Array();
@@ -746,11 +918,6 @@ $(document).ready(function() {
 		tierTwoSponsors[5]['name'] = 'Townsend Press';
 		
 	
-		tierTwoSponsors[6]=new Array();
-		tierTwoSponsors[6]['logo'] = 'us_cellular_bw.png';
-		tierTwoSponsors[6]['name'] = 'U.S. Cellular';
-		
-	
 	tierTwoSponsors.sort(function() {return 0.5 - Math.random()});
 	for (var j in tierTwoSponsors) {
 		createFooterLogo(tierTwoSponsors[j]['logo'], tierTwoSponsors[j]['name']);
@@ -759,23 +926,28 @@ $(document).ready(function() {
 	
 	
 		tierThreeSponsors[0]=new Array();
-		tierThreeSponsors[0]['logo'] = 'bing_bw.png';
-		tierThreeSponsors[0]['name'] = 'Bing';
+		tierThreeSponsors[0]['logo'] = 'chase_bw.png';
+		tierThreeSponsors[0]['name'] = 'Chase';
 		
 	
 		tierThreeSponsors[1]=new Array();
-		tierThreeSponsors[1]['logo'] = 'chase_bw.png';
-		tierThreeSponsors[1]['name'] = 'Chase';
+		tierThreeSponsors[1]['logo'] = 'horacemann_small3.png';
+		tierThreeSponsors[1]['name'] = 'Horace Mann';
 		
 	
 		tierThreeSponsors[2]=new Array();
-		tierThreeSponsors[2]['logo'] = 'experian_bw.png';
-		tierThreeSponsors[2]['name'] = 'Experian';
+		tierThreeSponsors[2]['logo'] = 'sonic_bw.png';
+		tierThreeSponsors[2]['name'] = 'SONIC Drive-In';
 		
 	
 		tierThreeSponsors[3]=new Array();
-		tierThreeSponsors[3]['logo'] = 'sonic_bw.png';
-		tierThreeSponsors[3]['name'] = 'SONIC Drive-In';
+		tierThreeSponsors[3]['logo'] = 'starbucks_morningjoe_small_bw.png';
+		tierThreeSponsors[3]['name'] = 'Starbucks & MSNBC';
+		
+	
+		tierThreeSponsors[4]=new Array();
+		tierThreeSponsors[4]['logo'] = 'oo_bw.png';
+		tierThreeSponsors[4]['name'] = 'OO.com';
 		
 	
 	tierThreeSponsors.sort(function() {return 0.5 - Math.random()});
@@ -799,8 +971,8 @@ $(document).ready(function() {
 <td align="center" class="logos">
 	<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
 	<tbody><tr>
-	<td height="80" valign="middle" id="leaderLogos" style="text-align:center;">
-		<div id="logo_slideshow" class="slideshow" style="height:87px;">
+	<td height="80" valign="middle" id="leaderLogos" style="text-align:center;width:210px;">
+		<div id="logo_slideshow" class="slideshow" style="height:87px;width:210px;">
 		</div>	
 	</td>
 	</tr>
@@ -879,7 +1051,10 @@ We’re open to every public school in America thanks to <a target="_top" style=
 
 
 
-			
+
+	
+
+	  	
 
 
 
@@ -895,10 +1070,6 @@ document.write(thisYear);
 
 
 <!-- GOOGLE ANALYTICS MOVED TO GATRACKINGHEADER AND GATRACKINGFOOTER -->
-
-<script type="text/javascript"> /* <![CDATA[ */
-createCookie("hasHeaderHIW","true",0);
-/* ]]> */</script>
 
 <!-- EXACT TARGET -->
 
@@ -984,11 +1155,11 @@ break;
 
 -->
 
-<div id="oLab">
+<div id="oLab" style="position:absolute; left: -20px; top: -1px;">
 
-<script language="javascript" type="text/javascript" charset="windows-1252" src="../onlineopinionF3cS/oo_engine.js"></script>
+<script language="javascript" type="text/javascript" charset="windows-1252" src="http://cdn.donorschoose.net/onlineopinionF3cS/oo_engine.js"></script>
 
-<script language="javascript" type="text/javascript" charset="windows-1252" src="../onlineopinionF3cS/oo_conf_en-US.js"></script><div id="O_o" style="position: absolute; z-index: 999; visibility: visible; left: 1282px; top: 716px;" onmouseover="_Ps(&quot;O_c&quot;,_Gd(&quot;O_o&quot;,0)-91,_Gd(&quot;O_o&quot;,1)-39);if(!_stop){_Sh(&quot;O_o&quot;,0);_Sh(&quot;O_c&quot;,1)}"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td align="center" style="text-align:center"><a href="#" onmouseover="_stop=0" onmouseout="_stop=1;_Sh('O_c',0);_Sh('O_o',1);return 1"><img src="https://a248.e.akamai.net/f/248/48906/2d/w.donorschoose.org/onlineopinionF3cS/en-US/black_oo.gif" border="0" width="19" height="17" alt="" title=""></a></td></tr><tr><td align="center" style="text-align:center"><a href="#" onmouseover="_stop=1" onmouseout="_stop=1;_Sh('O_c',0);_Sh('O_o',1);return 1"><img src="https://a248.e.akamai.net/f/248/48906/2d/w.donorschoose.org/onlineopinionF3cS/en-US/black_fb_en-US.gif" border="0"></a></td></tr></tbody></table></div><br><div id="O_c" style="position:absolute;top:0px;left:0px;visibility:hidden;z-index:999"><table cellpadding="0" cellspacing="0" border="0" valign="top" align="left" width="138"><tbody><tr><td><a onclick="javascript:{_fW(_ht,1);_hdn=1;O_LC();_Sh(&quot;O_c&quot;,0)}" onmouseover="_Ps(&quot;O_c&quot;,_Gd(&quot;O_o&quot;,0)-91,_Gd(&quot;O_o&quot;,1)-39);_Sh(&quot;O_o&quot;,0);_Sh(&quot;O_c&quot;,1)" onmouseout="_Sh(&quot;O_c&quot;,0);_Sh(&quot;O_o&quot;,1);return 1"><img src="https://a248.e.akamai.net/f/248/48906/2d/w.donorschoose.org/onlineopinionF3cS/en-US/black_popns_en-US.gif" alt="Click here to share your feedback" title="Click here to share your feedback" border="0" width="115" height="56"></a><a onclick="javascript:{_fW(_ht,1);_hdn=1;O_LC();_Sh(&quot;O_c&quot;,0)}" onmouseover="_Ps(&quot;O_c&quot;,_Gd(&quot;O_o&quot;,0)-91,_Gd(&quot;O_o&quot;,1)-39);_Sh(&quot;O_o&quot;,0);_Sh(&quot;O_c&quot;,1)" onmouseout="_Sh(&quot;O_c&quot;,0);_Sh(&quot;O_o&quot;,1);return 1"><img src="https://a248.e.akamai.net/f/248/48906/2d/w.donorschoose.org/onlineopinionF3cS/en-US/black_dot.gif" alt="" title="" width="4" height="17" border="0"><img src="https://a248.e.akamai.net/f/248/48906/2d/w.donorschoose.org/onlineopinionF3cS/en-US/black_comment.gif" alt="Your Opinion" title="Your Opinion" border="0" width="19" height="17"></a></td></tr></tbody></table></div>
+<script language="javascript" type="text/javascript" charset="windows-1252" src="http://cdn.donorschoose.net/onlineopinionF3cS/oo_conf_en-US.js"></script>
 
 </div>
 
@@ -1012,22 +1183,13 @@ break;
 
 <!-- End comScore Tag -->
 
-<!-- SET userType BACK TO DONOR -->
-<script type="text/javascript">/* <![CDATA[ */
-if (window.location.pathname.indexOf("lastingImpact") == -1 && window.location.pathname.indexOf("cartThankYou") == -1 && window.location.pathname.indexOf("cartDonationMessage") == -1 && readCookie("v") != null && readCookie("v") == "donated") {
-	//pageTracker._setVar("donor");
-	_gaq.push(['_setCustomVar',1,'visitorType','donor',1]);
-	createCookie("v","donor",365);
-}
-/* ]]> */</script>
-
 <!-- SET VARS FOR DONATION ACQ. TRACKING -->
 <script type="text/javascript">/* <![CDATA[ */
 var genLandingURL = location.href;
 
 
 
-if (readCookie("referringURL") == null && document.referrer.indexOf("donorschoose.org") == -1  && document.referrer.indexOf("localhost") == -1 && (document.referrer.indexOf("https://www.paypal.com") == -1 && document.referrer.indexOf("/cgi-bin/webscr?cmd=_flow") == -1) && document.referrer.indexOf("https://authorize.payments.amazon.com") == -1) {
+if (readCookie("referringURL") == null && document.referrer.indexOf("localhost") == -1 && (document.referrer.indexOf("https://www.paypal.com") == -1 && document.referrer.indexOf("/cgi-bin/webscr?cmd=_flow") == -1) && document.referrer.indexOf("https://authorize.payments.amazon.com") == -1) {
 	var locString = escape(document.referrer) + "###" + escape(genLandingURL) + "###" + (new Date()).getTime();
 	createCookie("referringURL",locString,45);
 	//alert(locString);
@@ -1048,7 +1210,7 @@ if (readCookie("referringURL") == null && document.referrer.indexOf("donorschoos
 <script type="text/javascript"> /* <![CDATA[ */
 
 if (geoZoneId != null && geoZoneId > 0 && readCookie("showRegionalFooter")) {
-	document.write('<scri'+'pt type="text/javascript" src="http://www.donorschoose.org/common/regional_supporter.html?zone='+geoZoneId+'&callback=getRegionalSupporters"></sc'+'ript>');
+	document.write('<scri'+'pt type="text/javascript" src="http://cdn.donorschoose.net/common/regional_supporter.html?zone='+geoZoneId+'&callback=getRegionalSupporters"></sc'+'ript>');
 }
 
 function getRegionalSupporters(s) {	
@@ -1118,6 +1280,28 @@ function keepAliveCart() {
 }
 keepAliveCart();
 /* ]]> */ </script>
+
+<!-- AddRoll Retargeting Pixel -->
+
+<script type="text/javascript">
+adroll_adv_id = "MLTXT2Z6CBB4LBZUNDBMFX";
+adroll_pix_id = "ULQO36I2GRBZ3GGYEQVVE4";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+  __adroll_loaded=true;
+  var scr = document.createElement("script");
+  var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+  scr.setAttribute('async', 'true');
+  scr.type = "text/javascript";
+  scr.src = host + "/j/roundtrip.js";
+  document.documentElement.firstChild.appendChild(scr);
+  if(oldonload){oldonload()}};
+}());
+</script>
+
+<!-- /AddRoll Retargeting Pixel -->
+
 <!-- /FOOTER -->
 
     
@@ -1193,7 +1377,10 @@ keepAliveCart();
 
 
 
-			
+
+	
+
+	  	
 
 
 <!-- GOOGLE ANALYTICS TRACKING FOOTER -->
