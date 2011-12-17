@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildmortgage.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531144901id_/http%3A//www.guildmortgage.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildmortgage.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217235737id_/http%3A//www.guildmortgage.com/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
