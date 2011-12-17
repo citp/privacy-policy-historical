@@ -1,30 +1,43 @@
-> *The following text is extracted and transformed from the reviewgamezone.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513054807id_/http%3A//reviewgamezone.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewgamezone.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217112902id_/http%3A//www.reviewgamezone.com/site/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**March 2009**
+**Updated: April 2011**
 
-As used herein “this site”, refers to ReviewGameZone.com. By using any part of this site you are accepting the terms of this Privacy Policy, and the Terms & Conditions of this site. If you do not agree to these terms, you are not permitted to access any portion of this site at anytime. 
+  
+**Overview**
 
-ReviewGameZone.com reserves the right to change or update this Privacy Policy at anytime, as long as proper notification, such as posting on this site is given. At such a time, the new or updated Privacy Policy immediately goes into effect. If you do not agree to the terms of the new or updated Privacy Policy, you are not permitted to access any portion of this site at anytime. 
+  
+As used herein “site”, refers to ReviewGameZone.com which is owned and operated by Holocene Holdings LLC (HoloceneHoldings.com) a Limited Liability Company established to foster and manage the development of educational related websites and products. By using any part of this site you are accepting the terms of this Privacy Policy and the Terms & Conditions of this site. If you do not agree to these terms, you are not permitted to access any portion of this site at anytime.
 
+  
+**E-Mail Address and Personal Information**
+
+  
+ReviewGameZone is dedicated to the privacy of its users. Your personal details are kept confidential and will not be shared or sold onto third parties. ReviewGameZone.com maintains a strict "no-spam" policy. Your e-mail address will not be sold or rented to a third party.
+
+**Collection of Personal Information**
+
+ReviewGameZone.com does not require the collection of personal information in order to use this site.  However, personal information is collected when an adult user creates an account.  This information is not shared, sold, posted or otherwise disseminated to other third parties, however, when this information is requested in circumstances where law enforcement agencies, court orders, or subpoenas, or any other circumstance that is part of a criminal investigation arises from use of this site, this site will fully comply.
+
+**Registration**
+
+By clicking the ‘Agree & Sign Up’ button during registration for an account you agree to all of our terms of service and privacy policy. If you do not agree to the terms of service or privacy policy please do not create an account. 
+
+There are sections of this Site that require a User ID and Password.  To obtain this you must become a registered member. Registration is free, (each section of this Site that requires registration might require a different User ID and Password then another. Information needed varies within this Site, so registration will also vary), but Personal Information is collected. ReviewGameZone.com only uses this information in order to regulate usage of this Site. Personal Information is not sold, rented, or given to third party sources. 
+
+ReviewGameZone.com also collects the IP Address of your computer when accessing these sections of this Site. ReviewGameZone.com reserves the right to use this information in circumstances where law enforcement agencies, court orders, or subpoenas, or any other circumstance that is part of a criminal investigation arises from use of this Site.
+
+  
 **Policy for Minors**
 
-Use of any section of the site by minors is prohibited without permission by a parent or legal guardian of the minor. Minors are not permitted to submit personal information at any time to this site. Any such information will be immediately discarded. ReviewGameZone.com does not knowingly accept, print or process information submitted by minors, and cannot be held responsible for such actions. 
+Use of any section of the site by minors is prohibited without permission by a parent or legal guardian of the minor. Minors are not permitted to submit personal information at any time to this site other than their first name provided they are 13 years old or greater. Any other information or data submitted from minors under 13 will be immediately discarded upon discovery. ReviewGameZone.com does not knowingly accept, print or process information submitted by minors under 13 years old, and cannot be held responsible for such actions. 
 
 PLEASE NOTE: That upon giving your child consent to access the Internet; they are being exposed to certain material that may not be appropriate for minors. They are also being exposed to areas where they may have communication with adults, where personal information such as phone numbers and addresses, could be voluntarily revealed. Please talk to your children about these areas, before you grant them consent. ReviewGameZone.com cannot be held responsible for situations that arise from such situations where personal information is disclosed while using this site. 
 
 **Policy for Adults**
 
 Do not attempt to make contact with any minor using portions of this site. You should not voluntarily disclose personal information. ReviewGameZone.com cannot be held responsible for situations that arise from such situations where personal information is disclosed while using areas on this site. 
-
-**Collection of Personal Information**
-
-ReviewGameZone.com does not require the collection of personal information such as name, address, city, state, zip code, or school district, in order to use this site.  Any personal information submitted to create an account is not shared, sold, posted or other wise disseminated to other third parties, however, when this information is requested in circumstances where law enforcement agencies, court orders, or subpoenas, or any other circumstance that is part of a criminal investigation arises from use of this site, this site will fully comply. 
-
-**Registration**
-
-There are sections of this Site that require a User ID, and Password.  To obtain this you must become a registered member. Registration is free, (each section of this Site that requires registration might require a different User ID, and Password then another. Information needed varies within this Site, so registration will also vary), but Personal Information is collected. ReviewGameZone.com only uses this information in order to regulate usage of this Site. Personal Information is not sold, rented, or given to third party sources. ReviewGameZone.com also collects the IP Address of your computer when accessing these sections of this Site. ReviewGameZone.com reserves the right to use this information in circumstances where law enforcement agencies, court orders, or subpoenas, or any other circumstance that is part of a criminal investigation arises from use of this Site.
 
 **Security for Personal Information**
 
@@ -38,8 +51,9 @@ You have the ability to disable cookies from your web-browser. By doing this, so
 
 **Advertising Cookie and Privacy Policies**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-**Links**
+**Updates to this Policy**
 
-ReviewGameZone.com may incorporate outside links within this site. These links are not under the control of ReviewGameZone.com; therefore the contents of such sites are not the opinion, view, or control of ReviewGameZone.com which can in no way be held responsible for any situation that arises from viewing such a site. If you feel there is a problematic link within this site, please contact us. 
+  
+ReviewGameZone.com reserves the right to change or update this Privacy Policy at anytime, as long as proper notification, such as posting on this page showing a new updated date on the top.  At such a time, the new or updated Privacy Policy immediately goes into effect. If you do not agree to the terms of the new or updated Privacy Policy, you are not permitted to access any portion of this site at anytime. 
