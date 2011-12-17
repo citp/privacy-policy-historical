@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reliablesite.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223110835id_/http%3A//reliablesite.net/v3/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablesite.net privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217104945id_/http%3A//reliablesite.net/v4/pp.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - ReliableSite.Net LLC
+# Privacy Policy :: ReliableSite.Net LLC
 
 **Introduction**  
 ReliableSite.Net maintains this Privacy Policy in order to demonstrate our firm commitment to your privacy and the protection of your information. As part of our normal operations, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. ReliableSite.Net reserves the right to make changes to this Privacy Policy at any time. You agree that any changes will be effective when posted on-line at this location and that your continued use of ReliableSite.Net LLC's Services will constitute your acceptance of any changes or additions to this Privacy Policy. You may identify whether ReliableSite.Net has revised this Privacy Policy by noting the "Effective Date" below. 
