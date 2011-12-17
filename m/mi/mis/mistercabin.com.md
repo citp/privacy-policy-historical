@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mistercabin.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610171705id_/http%3A//mistercabin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mistercabin.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217170858id_/http%3A//mistercabin.com/privacy-policy) for the most accurate reproduction.*
 
 # Mister Cabin - cabins rentals: cabin, Cottage, Lake home, Chalet, Vacation Rental
 
@@ -167,7 +167,7 @@ We will retain your personal data only as long as is necessary for the purposes 
   
 If you have any questions about this Privacy Policy, the practices of the Site or your dealings with the Site, we encourage you to contact us at [support@mistercabin.com](mailto:support@mistercabin.com) or
 
-‘Contact us’ form at the following address:[contact-us](https://web.archive.org/web/20110610171705id_/http%3A//mistercabin.com/%3C?php%20echo%20SITE_URL;%20?%3Econtact-us)  
+‘Contact us’ form at the following address:[contact-us](https://web.archive.org/web/20111217170858id_/http%3A//mistercabin.com/%3C?php%20echo%20SITE_URL;%20?%3Econtact-us)  
   
    
  
