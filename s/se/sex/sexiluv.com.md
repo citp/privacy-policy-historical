@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexiluv.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127123508id_/http%3A//www.sexiluv.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexiluv.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217060347id_/http%3A//www.sexiluv.com/privacy.htm) for the most accurate reproduction.*
 
 # SexiLuv.com - Sexy & romantic images & comments for MySpace, Orkut, Hi5, Friendster, Facebook - Latino & Portuguese Comments
 
