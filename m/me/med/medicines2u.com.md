@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicines2u.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617045147id_/http%3A//www.medicines2u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicines2u.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217012230id_/http%3A//www.medicines2u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Medicines2U - Online Pharmacy
 
