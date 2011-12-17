@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513110501id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217234012id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Operation Smile
 
@@ -9,7 +9,7 @@ If you have any questions about our Privacy Policy, you can contact us at:
 **Operation Smile  
 ** 6435 Tidewater Drive  
 Norfolk, VA 23509 USA  
-Tel: (757) 321-7645  
+Tel: 888-677-6453  
 Fax: (757) 321-7660
 
 ### NOTE TO PARENTS AND CHILDREN
@@ -32,7 +32,7 @@ In addition to maintaining privacy and security controls over information you sh
 
 **Communications Preferences**
 
-We strive for accurate, respectful and relevant communications with our donors.  We occasionally exchange donor lists with select nonprofit groups. If you would like to correct or update your personal information, modify your mailing preferences, or if you do not wish to participate in our list exchange activities, please contact our Donor Relations Team at 757-321-7645, Monday-Friday, 8:30-5:30 p.m. EST, please [contact us](http://www.operationsmile.org/about_us/contact-us/) or alert us via postal mail at our headquarters.
+We strive for accurate, respectful and relevant communications with our donors.  We occasionally exchange donor lists with select nonprofit groups. If you would like to correct or update your personal information, modify your mailing preferences, or if you do not wish to participate in our list exchange activities, please contact our Donor Relations Team at 888-677-6453, Monday - Saturday 8:30 a.m. - 11:00 p.m. EST, Sunday 8:30 a.m. - 5:00 p.m. EST, please [contact us](http://www.operationsmile.org/about_us/contact-us/) or alert us via postal mail at our headquarters.
 
 ### EXTERNAL LINKS
 
