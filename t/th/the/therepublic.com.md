@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therepublic.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616131750id_/http%3A//www.therepublic.com/view/page/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therepublic.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217044349id_/http%3A//www.therepublic.com/view/page/Privacy_Policy) for the most accurate reproduction.*
 
 # The Republic - Privacy Policy
 
