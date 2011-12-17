@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619035852id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforancestors.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217110938id_/http%3A//www.searchforancestors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement at Ancestor Search
 
@@ -39,23 +39,22 @@ If you have any questions about this privacy statement, the practices of this si
 |    
 
 
-  
 |  Site Features   
 ---  
   
   
 
-*   [Learn](http://www.searchforancestors.com/learn.html)   
-Online lessons to research your family ancestry and find your ancestors. 
-*   [Share](http://www.searchforancestors.com/share.html)   
-Register your surnames and find out who else is researching the same family names. 
-*   [Record](http://www.searchforancestors.com/record.html)   
-Genealogy software, forms, charts and templates. 
+*   [Genealogy Records Search](http://www.searchforancestors.com/records/)   
+Search for your ancestors by record type. 
+*   [Search by Location](http://www.searchforancestors.com/locality/)   
+Search for your ancestors by country. 
+*   [Mormon Genealogy](http://www.searchforancestors.com/mormongenealogy.html)   
+Find your family in the online databases of original world-wide records. 
 *   [Free Genealogy](http://www.searchforancestors.com/genealogyfreebies.html)   
 Free genealogy resources: charts, lessons, software, databases, look ups, relationship charts, form letters, translation services. 
 *   [Genealogy Database Free Trials](http://www.searchforancestors.com/freetrials.html)   
 Free trial to Ancestry.com. Why pay when you can view for free? 
 *   [Ancestry.com Coupons & Deals](http://www.searchforancestors.com/ancestrycoupon.html)   
 Special offers, coupons, coupon codes, discounts, sales & deals 
-*   [FTM 2011](http://ancestorsearch.blogspot.com/2010/08/family-tree-maker-2011-available-for.html)   
-Family Tree Maker 2011 list of improvements 
+*   [FTM 2012](http://ancestorsearch.blogspot.com/2011/09/family-tree-maker-2012-list-of.html)   
+Family Tree Maker 2012 list of improvements 
