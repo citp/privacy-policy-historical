@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the prizes.co.uk privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628030921id_/http%3A//prizes.co.uk/media/prizesuk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizes.co.uk privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217011943id_/http%3A//prizes.co.uk/media/prizesuk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 If you received an email with an advertisement from Prizes.co.uk and no longer wish to receive offers from us, please click [here](http://www.dnelist.com/u/566f1c928d695e3cf2e9d5892a0e41a9718) and follow the instructions to unsubscribe from our list. 
 
 **Privacy Policy**   
-Last Updated January 15, 2009
+Last Updated October 21, 2011
 
 This Privacy Policy governs your use of this web site and any content, products or services made available from or through this website including any sub domains thereof (“Web Site”). The Website is made available by prizes.co.uk owned by Intela Networks Limited hereafter referred to as (“Company”). We are registered with the Office of the Information Commissioner under the Data Protection Act in the United Kingdom. Our UK Registration number is Z121162X. We adhere to all privacy and prize promotion legislation and practice 100% opt-in marketing. Should you have any concerns at all you can contact Intela Networks Ltd. at Suite 305, Princess House, 50-60 EastCastle Street, London, W1W 8EA.
 
