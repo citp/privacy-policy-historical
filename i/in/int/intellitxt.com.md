@@ -1,91 +1,115 @@
-> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2007-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070623072907id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217045559id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
 
-# Vibrant Media - The In-Text Advertising Leader - Privacy Statement
+# Vibrant Privacy Statement
 
-Privacy Statement
+Vibrant Media, Inc. (“Vibrant Media” “we” or “us”) is a Publisher-side Technology Company. We help many of the websites that you visit serve advertisements. We provide this privacy policy so we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services (our "Clients"). This policy also outlines our privacy practices on our corporate Website ("Website"), www.VibrantMedia.com. If you have any questions regarding our privacy practices, please feel free to contact us by [clicking here](https://web.archive.org/about/contact.asp?ref=privacy).
 
-[](http://www.truste.org/ivalidate.php?url=www.vibrantmedia.com&sealid=101)
+If you'd like to opt-out from having Vibrant Media collect your Non-PII in connection with our Technology, please   
+[click here](http://intellitxt.com/opt_out/ch_optout.asp). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
 
-Vibrant Media Product Privacy Statement:  
-Vibrant Media is a Publisher-side Technology Company.   
-Publisher-side means that all of our solutions reside on the individual server of the websites we partner with.
+**Collection and use of information on the Website**
 
-  * Vibrant Media’s technologies are not downloaded to a user’s desktop.
-  * Vibrant Media’s technologies do not upload personally identifiable information from a user’s desktop.
-  * Vibrant Media’s technologies do not collect or store any personally identifiable user information.
+_Personally Identifiable Information_
+
+This Website is directed to our Clients and prospective Clients, who are businesses. The Website is not directed to consumers. We collect Personally Identifiable Information (“PII”) via this Website. PII is information that may be used to identify a particular person or entity, and includes, by way of example, name, postal address, email address and telephone number. Generally speaking, we only collect PII on the Website when you choose to provide it to us and use that information for the purposes that you’ve provided it. The following are some specific use cases: 
+
+  * _Vibrant Media’s Inquiry Form_ \- The Vibrant Media Website contains an “inquiry form” for Clients and prospective Clients to request additional information about Vibrant Media’s products and services. The inquiry form requires web publishers to give contact information (such as name and email address.) Vibrant Media uses this information to contact such Clients and prospective Clients about the services on the Website in which they have expressed interest, and to help us provide excellent customer service to our Clients. 
+  * _Client Contracts_ – We generally require both our advertising and web publisher Clients to provide PII as part of their Client registration process. We generally use this information to contact the Client if there’s billing or order processing issue, and to help us process invoices. 
+  * _Testimonials_ \- Some of our Clients agree to allow us to use their name and comments on the Website as part of testimonials. If you’ve agreed to have your name appear in a testimonial on this Website, you should be aware that any PII displayed there can be read, collected, or used by other users of this Website. 
 
 
 
-Vibrant Media Corporate Website Privacy Statement (www.vibrantmedia.com):  
-Vibrant Media, Inc. (“Vibrant Media”) respects the privacy concerns of the users of its Website, www.vibrantmedia.com (the “Website”). Vibrant Media thus provides this privacy statement to explain what information is gathered during a visit to the Website and how such information may be used
+_Non-Personally Identifiable Information_
 
-Use of Information: As a general policy no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from your visit to the Website. However, certain non-personal information is recorded by the standard operation of Vibrant Media’s Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. 
+We collect Non-Personally Identifiable Information ("Non-PII") from visitors to this Website. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer's operating system. 
 
-The Website may request that you give us contact information such as your name, mailing and/or e-mail address; demographic information such as your age and gender; and personal preference information. Information submitted at the time of submission will be used by Vibrant Media only as necessary for our legitimate business interests, including without limitation the improvement of our products, services and the contents of the Website. Vibrant Media may also share such information with our business and promotional partners to further those interests. Personally identifiable information is never sold or leased to any third parties.
+_Cookies_
 
-Access to Personally Identifiable Information: If your personally identifiable information changes, or if you no longer desire our service, you may update it by emailing our Customer Support at [info@vibrantmedia.com](mailto:info@vibrantmedia.com) or by contacting us by telephone or postal mail at the contact information listed below.
+We use cookies on this Website. Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record keeping purposes. Cookies make using our Website easier for our Clients by, among other things, saving their login preferences. These cookies are restricted for use only on our Website, and do not transfer any PII to any other party. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. Please consult the technical information relevant to your browser for instructions. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Website may not function properly or may be considerably slower. For more information about cookies please visit http://www.allaboutcookies.org/cookies/. No PII is collected by or associated with cookies from this Website. 
 
-Specific uses of information on the Website may include:
+_Third Party Websites_
 
-Vibrant Media’s Inquiry Form  
-The Vibrant Media Website contains an “inquiry form” for web publishers to request additional information about Vibrant Media’s products/services. The inquiry form requires web publishers to give contact information (such as name and email address.) Vibrant Media uses this information to contact Web Publishers about the services on the Website in which they have expressed interest.
+The Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from ours. While we endeavor to associate only with reputable entities, Vibrant Media cannot be responsible for the privacy practices of these other websites. We encourage you to check the privacy policies of all websites that you visit. 
 
-Web Publishers have the option to provide demographic information (such as website address and vertical sector) to Vibrant Media. Vibrant Media encourages them to submit this information so it can provide them a more customized reply to their inquiry.
+_Updating / Deleting your PII_
 
-Insertion Orders  
-If an advertiser purchases a service from Vibrant Media, Vibrant Media requests certain personal and company identity information from the advertiser on the insertion form. Advertisers must provide contact information (such as name, company name, street address, email and telephone number) and financial information. Vibrant Media uses this information to provide services and for billing purposes. If Vibrant Media has trouble processing an order, it will use this information to contact the advertiser.
+If you'd like us to update, correct, delete, or deactivate any PII that you have provided to us on this Website, please send your request to us by [clicking here](https://web.archive.org/about/contact.asp?ref=privacy) and we will process your request within a reasonable period of time after receipt. 
 
-Web Publisher Service Agreement  
-If a Web Publisher signs a service agreement, Vibrant Media requires the Web Publisher to provide certain identifiable information including: name, company name, street address, email and telephone number. This information is necessary to process the Web Publisher’s agreement.
+_United States_
 
-Web Publisher Sign-up form  
-When a Web Publisher signs a service agreement with Vibrant Media, the Web Publisher is also required to provide company and personal identity information, commercial information, technical contact information and customization information to start their contextual advertising services. Vibrant Media uses this information to provide services and for payment purposes. If Vibrant Media has trouble processing an order, it will use this information to contact the Web Publisher.
+This Website is hosted in the United States, and any information collected or provided via the Website may be stored on our servers, currently located in the U.S. By using the Website, you authorize the transfer (if applicable) of your information to the U.S. and its storage and use as specified in this policy. 
 
-Advertising Network Service Agreement   
-When a Advertising Network signs a service agreement with Vibrant Media, the Advertising Network is also required to provide company, personal identity information and commercial information. Vibrant Media uses this information to provide services and for payment purposes. If Vibrant Media has trouble processing an order, it will use this information to contact the Advertising Network.
+**Collection and use of Information via our Technology**
 
-Service-related Announcements  
-Vibrant Media will send Web Publishers service-related announcements on rare occasions when it is necessary to do so. The only other e-mails we send out are in response to feedback, contact and sign-up form submissions.
+_Overview of the Technology_
 
-Generally, a Web Publisher may not opt-out of these communications, which are not promotional in nature. If a Web Publisher does not wish to receive these communications, they have the option to deactivate their account according to the terms of their Web Services Agreement.
+Our Technology is primarily designed to facilitate the delivery of online advertisements. The Technology highlights certain words or phrases on our Client’s websites. And when a user scrolls over those words or phrases, our Technology displays ads. For a complete description of how our Technology works, please [click here](http://www.vibrantmedia.com/about/index.asp). 
 
-Customer Service  
-Based upon the provided personally identifiable information, Vibrant Media will send Web Publishers a welcoming email to verify their username and password and to set up their account. Vibrant Media will also communicate with them in response to their inquiries, to provide the services they request, and to manage their account. Vibrant Media will communicate with Web Publishers by email or telephone, in accordance with their wishes.
+Vibrant aims to deliver advertisements that align with your current interests called "Interest Matching". Our Technology identifies your interests by the words that you have recently seen and read while online, along with the advertisements that you have viewed and clicked on. There is no PII transmitted or used whatsoever. The goal is simply to deliver advertisements that are more relevant, interesting and useful for you. You may encounter our Technology: when our text based advertising solution is enabled on the website of one of our Clients; when Vibrant Media, or one of our Clients purchases online advertisements on a website that you visit; and/or when one of our Clients places one of our web beacons on its website, which you visit. 
 
-Testimonials  
-If your name appears in a testimonial on this site, you should be aware that any personally identifiable information displayed there can be read, collected, or used by other users of this website, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these testimonials.
+We use the information collected by our Technology in order to help make the online advertisements you see more relevant to you, and for ad delivery and reporting purposes.
 
-Legal Disclaimer: Vibrant Media may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with Vibrant Media’s rights or property, other users of the Website, or anyone else that could be harmed by such activities. Vibrant Media may also disclose user information when necessary to comply with a court order, legal process or other legal proceeding.
+**Types of information we collect via our Technology**
 
-Children Age 12 and Under: Vibrant Media recognizes the special obligation to protect personally identifiable information obtained from children age 12 and under. AS SUCH, IF YOU ARE 12 YEARS OLD OR YOUNGER, VIBRANT MEDIA REQUESTS THAT YOU NOT SUBMIT ANY PERSONAL INFORMATION TO THE WEBSITE OR TO VIBRANT MEDIA. If Vibrant Media discovers that a child age 12 or younger has provided us with personally identifiable information, we will delete that child’s personally identifiable information from our records.
+_Personally Identifiable Information_
 
-Use of Cookies: Cookies are pieces of information that a website transfers to an individual’s computer hard drive for record keeping purposes. Cookies make using our Website easier by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on our Website, and do not transfer any personal information to any other party. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. Please consult the technical information relevant to your browser for instructions. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of the Website may not function properly or may be considerably slower.
+We don't collect Personally Identifiable Information ("PII") via our Technology. 
 
-Links to External Websites: Vibrant Media is not responsible for the content or practices of third party websites not owned or controlled by Vibrant Media. Vibrant Media is also not responsible for any information that you might share with such linked websites. You should refer to each such website’s respective privacy policy and practices prior to disclosing any such information.
+_Non-Personally Identifiable Information_
 
-Choice/Opt-Out: The Website may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any e-mail list in order to discontinue any such future communications. In order to ensure immediate removal from any list, please follow the specific instructions set forth within the communications you receive from Vibrant Media which you no longer wish to receive. If you are unsuccessful in completing the instructions specified in any such communication, please e-mail us at [info@vibrantmedia.com](mailto:info@vibrantmedia.com), including a copy of the undesired email attached to the request, and state you wish to be removed from the mailing list.
+We collect Non-Personally Identifiable Information ("Non-PII") via our Technology, including but not limited to your IP host address, pages viewed, browser type, the referring URL, Internet Service Provider, and your computer's operating system. 
 
-Contact Information for Questions, Comments and Complaints: If you have any questions, comments or complaints about www.vibrantmedia.com or about this privacy statement, please contact:
+_Cookies and Web beacons_
 
-Via mail:  
+Our Technology uses cookies in conjunction with Web beacons in order to help make the online advertisements you see more relevant to you. 
+
+_Storage of Non-Personally Identifiable Information_
+
+We retain the Non-PII collected via our Technology for up to 13 months. After 13 months, we render this information anonymous and store it for up to five years. 
+
+**Controlling the use of your information**
+
+_Deleting your PII_
+
+Although we don’t collect any PII via our Technology, If you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website, please send your request to us by [clicking here](https://web.archive.org/about/contact.asp?ref=privacy) and we will process your request within a reasonable period of time after receipt.
+
+_Opting out from Cookies_
+
+If you'd like to opt-out from having Vibrant Media collect your Non-PII in connection with our Technology, please [click here](http://intellitxt.com/opt_out/ch_optout.asp). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
+
+**Information Security**
+
+The security of your information is important to us, including but not limited to the PII collected via the Website. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to the use of firewalls and encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security. 
+
+**Disclosure of Information to Third Parties**
+
+We generally do not rent or share information collected via the Website or Technology with non-affiliated third parties without your consent. We may, however, share such information with trusted third party contractors who provide services for us. These third party contractors are prohibited from using the information we provide for purposes other than performing services for us. 
+
+We may share Non-PII collected on the Website or via our Technology with unaffiliated third parties. For example, we may disclose that ‘blue banner ads’ receive more clicks than ‘orange banner ads.’ This information cannot be used to contact or identify any person individually. 
+
+We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person. Vibrant Media may also disclose user information when necessary to comply with a court order, legal process or other legal proceeding.
+
+Finally, we may transfer information, including any PII, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. 
+
+**Changes to this Privacy Policy**
+
+This privacy policy is subject to change. If we make any material or substantive changes in the way that we use the information collected through this Website or Technology, we will post a clear and conspicuous notice of those changes on the Website and in this privacy policy. 
+
+**Who can I ask if I have additional questions?**
+
+If you have any questions, comments or complaints about www.vibrantmedia.com or about this privacy statement, please contact:
+
+**Via mail:**  
 Vibrant Media, Inc.  
 75 Hawthorne Street, Suite 2000  
 San Francisco, CA 94105
 
-Via email:  
-[info@vibrantmedia.com](mailto:info@vibrantmedia.com)
+**Via email:**  
+info@vibrantmedia.com
 
-Via telephone:  
-646 312-6100
+**Via telephone:**  
+646 312-6100 
 
-Information provided by you via general e-mail inquiries to Vibrant Media such as your e-mail address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
+Your Acceptance of These Terms: By using the Website, you accept the policies and restrictions set forth in this Privacy Policy. If you do not agree to this policy, please do not use the Website. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
-Security: Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Vibrant Media cannot ensure or warrant the security of any information you transmit via the Internet. By transmitting any such information to Vibrant Media, you accept that you do so at your own risk.
-
-TRUSTe: Vibrant Media is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.vibrantmedia.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact [marketing@vibrantmedia.com](mailto:marketing@vibrantmedia.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-Your Acceptance of These Terms: By using the Website, you accept the policies and restrictions set forth in this Online Privacy Policy. If you do not agree to this policy, please do not use the Website. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
-
-Last updated March 28th, 2007
+Last updated January 07, 2010
