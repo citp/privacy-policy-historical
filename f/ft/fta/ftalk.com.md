@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ftalk.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617221746id_/http%3A//www.ftalk.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftalk.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217010729id_/http%3A//www.ftalk.com/privacy_policy.php) for the most accurate reproduction.*
 
 # fTalk – Free Facebook Chat Messenger for your desktop.
 
 ## Privacy Policy
 
-Bandoo Media, Inc ("fTalk") takes your privacy very seriously. Please read the following to learn more about fTalk's Privacy Policy ("Policy"). This Policy details how fTalk receives, collects and uses information in connection with their website located at ftalk.com and software provided on the ftalk.com website (the website and software collectively referred to herein as "Site").
+("fTalk") takes your privacy very seriously. Please read the following to learn more about fTalk's Privacy Policy ("Policy"). This Policy details how fTalk receives, collects and uses information in connection with their website located at ftalk.com and software provided on the ftalk.com website (the website and software collectively referred to herein as "Site").
 
 **Collection and Use of Information**
 
@@ -38,8 +38,6 @@ From time to time, fTalk may revise this Policy. fTalk will post the revised Pol
 
 If a user's e-mail address changes, a user may correct such information by sending an e-mail to [support@ftalk.com](mailto:support@ftalk.com) with the request or by contacting us by telephone or postal mail at the contact information listed below.
 
-If a user no longer wishes to receive e-mail communication from fTalk, such as offers, updates and newsletters, a user may opt-out of receiving such communications by following the instructions included in each newsletter or communication. In addition, a user can remove their e-mail address at any time by sending an e-mail with the subject line of OPT-OUT to [support@ftalk.com](mailto:support@ftalk.com)
-
 **Contact Information**
 
-Please direct all questions in connection with this Policy via e-mail to [privacy@ftalk.com](mailto:privacy@ftalk.com) or by writing to Bandoo Media, Inc, Attention: Privacy Policy Administrator, 40 kimonos st.3095 Limassol, Cyprus
+Please direct all questions in connection with this Policy via e-mail to [privacy@ftalk.com](mailto:privacy@ftalk.com) or by writing to , Attention: Privacy Policy Administrator, 40 Kimonos St.3095 Limassol, Cyprus
