@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123191104id_/http%3A//www.snorgtees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217124313id_/http%3A//www.snorgtees.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SnorgTees
 
 ### Privacy
 
- **Your Email:**  
+**Your Email:**  
 You don't like spam. We don't like spam. Because of this, we only send our newsletter to email addresses that have opted in, and they may opt out at any time. If you place an order with us, we send email messages pertaining to your order. We do not sell your email address to other parties. 
 
 **Your Personal Information:**  
