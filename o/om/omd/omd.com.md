@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omd.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520113321id_/http%3A//www.omd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omd.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217014713id_/http%3A//www.omd.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to OMD
 
