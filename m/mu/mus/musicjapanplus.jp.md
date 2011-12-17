@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musicjapanplus.jp privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617065529id_/http%3A//www.musicjapanplus.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicjapanplus.jp privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217030015id_/http%3A//www.musicjapanplus.jp/privacy) for the most accurate reproduction.*
 
-# MUSIC JAPAN+ -Privacy policy+-
+# musicJAPANplus -Privacy policy+-
 
 Personal Information Protection Policy  
 Cool Japan Inc prescribes this Privacy Policy based on the ethical codes of the company for the necessary operation of personal information. It is for us to found a personal data administration system and realize the obligation as the enterprise side.
