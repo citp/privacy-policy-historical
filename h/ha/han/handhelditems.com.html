@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the handhelditems.com privacy policy that was archived on 2010-01-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100117190802id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the handhelditems.com privacy policy that was archived on 2011-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217174728id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="LTR" lang="en"><head>
 <!-- <script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/trustlogo.js" type="text/javascript">
 </script> -->
+
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
   <title>HandHelditems.com Privacy Policy</title>
  <meta name="Title" content="HandHelditems.com Privacy Policy">
@@ -13,6 +14,7 @@
 <base href="http://www.handhelditems.com/">
 <link rel="icon" href="favicon.ico" type="image/x-icon"> 
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
 <link rel="stylesheet" type="text/css" href="stylesheet.css">
 <link rel="stylesheet" type="text/css" href="stylesheet-org.css">
 <link rel="stylesheet" type="text/css" href="print.css" media="print">
@@ -21,32 +23,38 @@
 <script language="javascript" src="header.js"></script>
 <link rel="stylesheet" type="text/css" href="style.20090803.css">
 <script language="javascript" src="jquery.min.js"></script>
+<script type="text/javascript" src="includes/javascript/jquery.lazyload.mini.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+        jQuery("td.productListing-data > a > img").lazyload({placeholder : "ajax-stuff/indicator-search.gif", effect : "fadeIn", threshold : 100, failurelimit : 30});
+    });
+</script>
+<script src="includes/javascript/jquery.tools.min.js"></script>
+<link rel="stylesheet" type="text/css" href="includes/javascript/jquery.suggest.css">
+<script type="text/javascript" src="includes/javascript/jquery.suggest.js"></script>
+
 <script type="text/javascript">
 <!--
 
 function hhi_show_allcategories(triggerid){
-	var trigger = jQuery('#'+triggerid);
 	
 	var popup = jQuery('#hhi_popup_allcategories');
 	var cssProp = {
 		position: 'absolute'
 	};
-	var top = jQuery(trigger).offset().top;
-	var left = jQuery(trigger).offset().left;
 	
 	var positionType = popup.parent().css("position");
 	
 	cssProp.zIndex = 10000;
-	cssProp.left = '0px';
 	cssProp.top = '27px';
-	cssProp.width = '900px';
-	cssProp.height = 'auto';
+	cssProp.width = '300px';
+	cssProp.height = '400px';
 	
 	if(positionType == 'static') {
 		popup.parent().css("position","relative");
 	}
 	popup.css(cssProp);
-	popup.show();
+	popup.toggle();
 }
 
 function hhi_hide_allcategories(){
@@ -335,13 +343,18 @@ function CVVPopUpWindow(url) {
 }
 //-->
 </script>
-<style>
+<style type="text/css">
 <!--
 a.linkSeachBar:link,a.linkSeachBar:hover,a.linkSeachBar:actived,a.linkSeachBar:visited { color: #FFFFFF; font-family: Verdana; font-size: 12px; font-weight: bold; text-decoration: none;}
 a.linkSeachBar:hover { color: #EFEFEF; text-decoration: underline; }
 //-->
 </style>
-
+<style type="text/css">
+a.top_header_link {color:#FFFFFF; text-decoration:none; font-weight:bold; font-size:12px;}
+a.top_header_link:active {color:#FFFFFF; }
+a.top_header_link:visited {color:#FFFFFF; }
+a.top_header_link:link {color:#FFFFFF; }
+</style>
 <script src="ajax-stuff/handheld-ajax.js" type="text/javascript"></script><script src="ajax-stuff/news-block-ajax.js" type="text/javascript"></script><script src="player/images/swfobj.js" type="text/javascript"></script><script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -355,41 +368,78 @@ pageTracker._trackPageview();
 
 
 
-<body width="100%">
+<body width="100%" style="background:#F3F9FF;">
+<table width="100%" height="28" cellspacing="0" cellpadding="0" bordercolor="#111111" border="0" id="AutoNumber2" style="border-collapse: collapse; overflow-x:hidden;">
+      <tbody><tr>
+        <td width="100%" background="images/header/top-long-bar2.gif">
+        <div>
+          <table align="center" width="1002" height="28" cellspacing="0" cellpadding="0" bordercolor="#111111" border="0" background="images/header/top-long-bar2.gif" id="AutoNumber7" style="border-collapse: collapse;">
+            <tbody><tr>
+              <td width="100%">
+              <table width="100%" cellspacing="0" cellpadding="0" bordercolor="#111111" border="0" id="AutoNumber8" style="border-collapse: collapse;">
+                <tbody><tr>
+                  <td width="53%" align="right">
+				  <a class="top_header_link" href="https://www.handhelditems.com/login.php"><b style="color:#FFFFFF;">Log In or Register</b></a>                  </td>
+                  <td width="12%" align="center">
+                  <a class="top_header_link" href="https://www.handhelditems.com/account.php">My Account</a></td>
+                  <td width="12%" align="center">
+                  <a class="top_header_link" href="https://www.handhelditems.com/track_order.php">Track your Order</a></td>
+                  <td width="10%" align="center">
+                  <a class="top_header_link" href="http://www.handhelditems.com/contact_us.php">Contact Us</a></td>
+                  <td width="7%" align="center">
+                  <a class="top_header_link" href="http://www.handhelditems.com/aboutus.html">About Us</a></td>
+                  <td width="" align="center">
+                  <a class="top_header_link" href="http://www.handhelditems.com/faqs">Help</a></td>
+                </tr>
+              </tbody></table>
+              </td>
+            </tr>
+          </tbody></table>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+</table>
 <table class="topcontainer" align="center" cellpadding="0" cellspacing="0">
 <!-- header //-->
 <!-- Page Header BOF //-->
 <tbody><tr>
- <td id="header">
-   <table cellpadding="0" cellspacing="0" width="100%">
+ <td id="header" style="height:auto;">
+   <table cellspacing="0" cellpadding="0" align="center" width="100%" bordercolor="#111111" border="0" bgcolor="#f3f9ff" style="border-collapse: collapse;">
      <tbody><tr>
 	 	<td style="height:85px;">
 			
 		   <div id="header_logo">
-			  <a href="http://www.handhelditems.com"><img src="images/header/handheld_logo.gif" border="0" width="190" height="75" align="absmiddle"></a>
+			  <a href="http://www.handhelditems.com"><img src="images/header/logo4.gif" border="0" align="absmiddle"></a>
 		   </div>
-			
-		</td>
+		  
+		   		    		   <div style="float: left; width: 350px; text-align: center;">
+		   	
+		   
+			   				<a href="http://www.handhelditems.com/credit_card_instructions.php"><img src="images/header/new-free-middle-credit-ban.gif"></a>
+				</div>
+			   		   
+		   	
+		   
+		   		</td>
 		
 		<td style="height:85px;">
 		
 		   <div id="header_cart">
-			 <div id="header_cart_box">
+			 <div id="header_cart_box" style="padding-top:15px;">
 				<table align="right" cellpadding="0" cellspacing="0">
 				  <tbody><tr>
 					<td valign="bottom"><!--<a href="http://www.handhelditems.com/deal-page.html"><img src="images/header/holiday-deals-bf161.gif" border="0"/></a>//-->&nbsp;</td>
-					<td id="header_account" style="width: 200px; text-align: right; padding-right: 10px; padding-bottom: 2px;">
-						<a href="https://www.handhelditems.com/account.php">Account</a> <font style="font-size:13px;">|</font>&nbsp;
-						<a href="https://www.handhelditems.com/login.php">Login</a>					</td>
 					
-					<td style="width: 12px; height: 75px; background:url(images/header_cart_left.jpg) no-repeat;"></td>
-					<td style="height: 75px; text-align: left; background:url(images/header_cart_center.jpg) repeat-x; color: #836E51; font-size: 12px; font-weight: bold;">
+<!--				<td style="width: 12px; height: 75px; background:url(images/header_cart_left.jpg) no-repeat;"></td>-->
+					<td style="width:350px; height: 55px; text-align: left; background:url(images/header/view-cart-box3.gif) no-repeat; color: #836E51; font-size: 12px; font-weight: bold;">
 						
 						<table align="right" cellpadding="0" cellspacing="0" width="100%">
 						   <tbody><tr>
-							 <td style="font-size: 13px; width: 220px;">
+						     <td width="50">&nbsp;</td>
+							 <td style="font-size: 13px; ">
 							   <a class="view_cart_link" href="https://www.handhelditems.com/shopping_cart.php">
-								<img src="images/header_cart_view.jpg" align="absmiddle">&nbsp;<span>View cart:</span> (<span id="jsTopCartInfo_numProducts">0</span> items)
+								&nbsp;<span>View cart:</span> (<span id="jsTopCartInfo_numProducts">0</span> items)
 							   </a>
 							   <script defer="defer">
 							   <!--
@@ -398,14 +448,21 @@ pageTracker._trackPageview();
 							   </script>
 							 </td>
 							 
-							 <td><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.handhelditems.com">
-		<img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.handhelditems.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></td>
+							 <td>
+<!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.handhelditems.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.handhelditems.com/12.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+<!-- END SCANALERT CODE --> 
+<!--
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.handhelditems.com">
+<img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.handhelditems.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+//-->
+							 </td>
 						   </tr>
 						</tbody></table>
 						
 					
 					</td>
-					<td style="width: 12px; height: 75px; background:url(images/header_cart_right.jpg) no-repeat;"></td>
+<!--					<td style="width: 12px; height: 75px; background:url(images/header_cart_right.jpg) no-repeat;"></td> -->
 				  </tr>
 				</tbody></table>
 			 </div>
@@ -419,151 +476,157 @@ pageTracker._trackPageview();
 	 	<td colspan="2" style="height:5px;"></td>
 	 </tr>
 	 <tr>
-	 	<td colspan="2" id="header-mainnavi">
-			<table cellpadding="0" cellspacing="0" width="100%" style="height:65px;">
+	 	<td colspan="2" id="header-mainnavi" style="height:35px;background:url(&quot;images/header/mid-bar-grn88.gif&quot;) no-repeat scroll 0 0 transparent;">
+			<table cellpadding="0" cellspacing="0" width="100%">
 				<tbody><tr>
-					<td valign="top">
-
+					<td valign="top" width="420">
 						<table cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr style="height: 40px;">
-								<td style="padding-left: 25px; padding-top: 8px;">
-									<div class="categories" onmouseover="hhi_show_allcategories('allcategories_trigger');" onmouseout="hhi_hide_allcategories();">
-										<img id="allcategories_trigger" src="images/headerx/header-menu-departments.jpg" style="cursor:pointer;">
-										
-										<div id="hhi_popup_allcategories" style="position:absolute; overflow: hidden; height:auto; display:block; display: none; z-index:1000000; *z-index:1000000; background-color:#EBE9E6; border: 1px solid #789E73; padding: 5px 10px 5px 10px; line-height: 150%;">
-											<table align="right" cellpadding="0" cellspacing="0" style="width:900px;">
+							<tbody><tr>
+								<td style="padding-left: 25px;">
+									<div style="widows:300px;z-index:110;" class="categories">
+										<!--<img id="allcategories_trigger" src="images/headerx/header-menu-departments.jpg" style="cursor:pointer;"/>-->
+										<div style="margin-left:17px;margin-top:13px;cursor:pointer;" onclick="hhi_show_allcategories('allcategories_trigger');" ondblclick="hhi_hide_allcategories();"><img src="images/header/shop-all-dep-header-2010.gif"></div>
+										<div id="hhi_popup_allcategories" style="position:absolute; margin-left:-20px; height:auto; display:block; display: none; z-index:110; *z-index:110; background-color:#EBE9E6; padding: 5px 10px 5px 10px; line-height: 150%; background:url(images/header/drop-down-cate-header.gif) no-repeat;">
+											<table align="left" cellpadding="0" cellspacing="0">
 											   <tbody><tr>
-												  <td style="vertical-align:top; width: 280px;">
+												  <td style="vertical-align:top; width: 220px;">
+													<a href="http://www.handhelditems.com/ipad-accessories-c-7631.html">iPad Accessories</a><br>
 													<a href="http://www.handhelditems.com/mp3-c-4.html">iPod &amp; MP3 Player Accessories</a><br>
 										
 													<a href="http://www.handhelditems.com/cellular-c-3524.html">Cellphone Accessories</a><br>
+													<a href="http://www.handhelditems.com/tablet-accessories-c-7966.html">Tablet Accessories</a><br>
 													<a href="http://www.handhelditems.com/ink-and-toner-c-4826.html">Inks &amp; Toners &amp; Printers</a><br>
 													<a href="http://www.handhelditems.com/video-games-c-4642.html">Video Games</a><br>
-												  </td>
-												  <td style="vertical-align:top; width: 190px;">
+												  
 													<a href="http://www.handhelditems.com/camera-and-photo-c-4807.html">Camera &amp; Photo</a><br>
 										
 													<a href="http://www.handhelditems.com/electronics-c-4644.html">Electronics</a><br>
 													<a href="http://www.handhelditems.com/funfunfactory-gifts-toys-c-4631.html">Toys &amp; Gifts</a><br>
 													<a href="http://www.handhelditems.com/sports-c-4640.html">Sports</a><br>
-												  </td>
-												  <td style="vertical-align:top; width: 200px;">
+												  
 													<a href="http://www.handhelditems.com/auto-parts-c-5778.html">Auto Parts</a><br>
-										
-													<a href="http://www.handhelditems.com/jewelry-and-watches-c-6254.html">Watches &amp; Jewelry</a><br>
+													
 													<a href="http://www.handhelditems.com/health-and-beauty-c-6362.html">Health &amp; Beauty</a><br>
 													<a href="http://www.handhelditems.com/home-and-garden-c-6461.html">Home &amp; Garden</a><br>
-												  </td>
-												  <td style="vertical-align:top; width: 220px;">
+												  
 													<a href="http://www.handhelditems.com/apparel-and-accessories-c-6289.html">Apparel &amp; Accessories</a><br>
 										
 													<a href="http://www.handhelditems.com/babys-c-6870.html">Baby &amp; Toddler</a><br>
 													<a href="http://www.handhelditems.com/pet-carrier-c-5670.html">Pet</a><br>
-													<a href="http://www.handhelditems.com/as-seen-on-tv-c-6788.html">As Seen On TV Products</a><br>
 												  </td>
 											   </tr>
 											</tbody></table>
 										</div>
 									</div>
 								</td>
-							</tr>
-							
-							<tr style="height: 25px;">
-								<td style="padding-left: 10px; _padding-bottom: 5px;">
-									<ul id="header-subnavi">
-										<li><a href="http://www.handhelditems.com/contact_us.php">Contact Us</a>&nbsp;|&nbsp;</li>
-										<li><a href="http://www.handhelditems.com/aboutus.html">About Us</a>&nbsp;|&nbsp;</li>
-										<li><a href="http://www.handhelditems.com/faqs">Need Help?</a>&nbsp;|&nbsp;</li>
-										<li><a href="https://www.handhelditems.com/track_order.php">Track your Order</a></li>
-									</ul>
-								</td>
-							</tr>
+							</tr>							
 						</tbody></table>
 						
 					</td>
-					
-					<td style="width: 180px; padding-top: 20px;">
-						<a href="http://www.handhelditems.com/deal-page.html"><img src="images/headerx/header-menu-specials.jpg"></a>
+					<script type="text/javascript">
+						jQuery(document).ready(function(){
+							jQuery("#q").suggest("ajax-stuff/suggest-search.php",{
+							});
+						});
+					</script>
+					<form style="margin: 0px; padding: 0px;" name="quick_find" method="get" action="http://www.handhelditems.com/search/"></form>
+					<td width="495">
+						<input id="q" type="text" name="q" autocomplete="off" style="margin-left:4px;width: 485px; height: 24px; font-size: 16px; font-weight: bold;" value=""><input type="hidden" name="search_in_description" value="1">
 					</td>
+					<td><input type="image" src="images/header/go-button-2010.gif" border="0"></td>
+					
+					<td align="right"><img src="images/header/rightheader-2010.gif"></td>
+<!--					
+					<td  style="width: 180px; padding-top: 20px;">
+						<a href="http://www.handhelditems.com/deal-page.html"><img src="images/headerx/header-menu-specials.jpg" /></a>
+					</td>
+-->
 				</tr>
 			</tbody></table>
 	 
-	 
-	 </td></tr><tr>
+<!--
+	 <tr>
 	 	<td colspan="2">
    
 		   <div id="header_search">
 			  <table align="center" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
+				<tr>
 				  <td style="width: 65%; padding-left: 2px; ">
 					<table align="center" cellpadding="0" cellspacing="0" width="100%">
-					  <tbody><tr>
+					  <tr>
 						<td style="width: 11px; height: 48px; background:url(images/grey_round_left.jpg) no-repeat;"></td>
 						<td style="height: 48px; background:url(images/grey_round_center.jpg) repeat-x;">
 						  <table align="center" cellpadding="0" cellspacing="0" width="100%">
-							 <form style="margin: 0px; padding: 0px;" name="quick_find" method="get" action="search/"></form>
-							 <tbody><tr>
-								<td style="padding-right:5px; padding-left: 2px; font-size: 20px; color: #598A66; font-weight: bold;"><img src="images/header_search_title.jpg"></td>
+							 <form style="margin: 0px; padding: 0px;" name="quick_find" method="get" action="http://www.handhelditems.com/search/">
+							 <tr>
+								<td style="padding-right:5px; padding-left: 2px; font-size: 20px; color: #598A66; font-weight: bold;"><img src="images/header_search_title.jpg" /></td>
 								<td>
 								<select name="categories_id" style="height: 27px; font-size: 12px; padding: 3px 5px; _padding: 6px 5px; ">
 									<option value="">All Categories</option>
-									<option value="4">iPod &amp; Zune</option>
+									<option value="7631">iPad Accessories</option>
+									<option value="4">iPod & Zune</option>
 									<option value="3524">Cellphone Accessories</option>
-									<option value="4826">Inks &amp; Toners &amp; Printers</option>
+									<option value="4826">Inks & Toners & Printers</option>
 									<option value="4642">Video Games</option>
 									
-									<option value="4807">Camera &amp; Photo</option>
+									<option value="4807">Camera & Photo</option>
 									<option value="4644">Electronics</option>
-									<option value="4631">Toys &amp; Gifts</option>
+									<option value="4631">Toys & Gifts</option>
 									<option value="4640">Sports</option>
 									
 									<option value="5778">Auto Parts</option>
-									<option value="6254">Watches &amp; Jewelry</option>
-									<option value="6362">Health &amp; Beauty</option>
-									<option value="6461">Home &amp; Garden</option>
+									<option value="6254">Watches & Jewelry</option>
+									<option value="6362">Health & Beauty</option>
+									<option value="6461">Home & Garden</option>
 									
-									<option value="6289">Apparel &amp; Accessories</option>
-									<option value="6870">Baby &amp; Toddler</option>
+									<option value="6289">Apparel & Accessories</option>
+									<option value="6870">Baby & Toddler</option>
 									<option value="5670">Pet</option>
 									<option value="6788">As Seen on TV Products</option>
 								</select>
 								</td>
-								<td><input type="text" name="q" style="width: 270px; height: 27px; font-size: 16px; font-weight: bold;" value=""><input type="hidden" name="search_in_description" value="1"></td>
+								<script type="text/javascript">
+									jQuery(document).ready(function(){
+										jQuery("#q").suggest("ajax-stuff/suggest-search.php",{
+										});
+									});
+								</script>
+								<td><input id="q" type="text" name="q" autocomplete="off" style="width: 270px; height: 27px; font-size: 16px; font-weight: bold;" value=""><input type="hidden" name="search_in_description" value="1"></td>
 								<td style="padding-right: 10px;"><input type="image" src="images/header_search_go.jpg" border="0"></td>
 							 </tr>
-							 
-						  </tbody></table>
+							 </form>
+						  </table>
 						</td>
 						<td style="width: 12px; height: 48px; background:url(images/grey_round_right.jpg) no-repeat;"></td>
 					  </tr>
-					</tbody></table>
+					</table>
 				  </td>
 				  
 				  <td style="padding-left: 2px; padding-right: 2px;">
 					<table align="center" cellpadding="0" cellspacing="0" width="100%">
-					  <tbody><tr>
+					  <tr>
 						<td style="width: 11px; height: 48px; background:url(images/grey_round_left.jpg) no-repeat;"></td>
 						<td style="height: 48px; background:url(images/grey_round_center.jpg) repeat-x;">
 															<div id="hotdeals" style="width:auto; height:28px; padding-top: 10px; _padding-top: 6px;">
 									&nbsp;
 								</div>
 								<script defer="defer">
-								<!--
+
 									var hotdeals_itemList = [
-										{index:0, link: 'iphone-ipod-travel-charger-white-compatible-with-iphone-ipod-iphone-ipod-p-20883.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">iPhone and iPod Travel Charger For $3.15</font>'},
-{index:1, link: 'sports-bicycle-c-4640_6519.html', title: '<b><font face="Verdana" style="font-size: 12">Shop over hundreds of Bicycles with discounts starting from $45.00</font></b>'},
-{index:2, link: 'sound-activated-blue-devil-wings-tshirt-large-preorder-only-p-122217.html', title: '<b><font face="Verdana" style="font-size: 12">LED Sound Activated Devil Wings T-Shirt For $21.99</font></b>'},
-{index:3, link: 'funfunfactory-gifts-toys-remote-control-toys-c-4631_4643.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">Save up 65% on Huge Selection of RC Toys</font>'},
-{index:4, link: 'home-garden-bedding-quilts-c-6461_6577.html', title: '<b><font face="Verdana" style="font-size: 12">Hundreds of Bedding and Quilts Starts from $17.54</font></b>'},
-{index:5, link: 'iphone-3g3gs-apocket-mutifunction-1750mah-backup-battery-case-p-121596.html', title: '<b><font face="Verdana" style="font-size: 12">iPhone Muti-Function Back Up Battery Case For $24.99</font></b>'},
-{index:6, link: 'deal-page.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">Gift Ideas</font>'},
-{index:7, link: 'funfunfactory-gifts-toys-c-4631.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">Huge Discount on our Toys and Gift Categories</font>'},
-{index:8, link: 'team-hawk-talon-infrared-micro-helicopter-comes-redblueand-yellow-p-119313.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">3 Channel Mini RC Helicopter HAWK Talon For $22.99</font>'},
-{index:9, link: 'home-garden-home-decor-c-6461_6467.html', title: '<b><font face="Verdana" style="font-size: 12">Shop Discount Home and Decor Products</font></b>'},
-{index:10, link: 'western-digital-m-101.html', title: '<b><font face="Verdana" style="font-size: 12">Recertified Western Digital External Hard Drive Start From $45.99</font></b>'},
-{index:11, link: 'iphone-c-4_5165.html', title: '<b><font face="Verdana" style="font-size: 12">Shop Thousands of iPhone Accessories and Save up to 90% off</font></b>'},
-{index:12, link: 'cellular-bluetooth-headsets-c-3524_4911.html', title: '<b><font face="Verdana" style="font-size: 12">Save up to 35% off on Hundred of Bluetooth Headsets</font></b>'},
-{index:13, link: 'cellular-screen-protector-c-3524_7144.html', title: '<b><font face="Verdana" style="font-size: 12">Save up to 85% off on Screen Protectors For Cellphone, iPhone and More</font></b>'}
+										{index:0, link: 'ipad-accessories-ipad-cases-c-7631_7659.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">Shop iPad Cases Here!<br>Wide Selections with Discounted Prices</font>'},
+{index:1, link: 'iphone-c-4_5165.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">Accessorize Your iPhone 4 Here! Thousands of Accessories For iPhone.</font>'},
+{index:2, link: 'cellular-screen-protector-c-3524_7144.html', title: '<b><font face="Verdana" style="font-size: 12">Save up to 85% off on Screen Protectors For Cellphone, iPhone and More</font></b>'},
+{index:3, link: 'iphone-cases-iphone-cases-c-4_5165_5169_7798.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">Shop Wide Selections iPhone 4 Cases</font>'},
+{index:4, link: 'auto-parts-c-5778.html', title: '<b><font face="Verdana" style="font-size: 12">Performance Auto Part - save up to 40% off or more</font></b>'},
+{index:5, link: 'home-garden-bedding-quilts-c-6461_6577.html', title: '<b><font face="Verdana" style="font-size: 12">Hundreds of Bedding and Quilts Starts from $17.54</font></b>'},
+{index:6, link: 'sports-bicycle-c-4640_6519.html', title: '<b><font face="Verdana" style="font-size: 12">Shop over hundreds of Bicycles with discounts starting from $45.00</font></b>'},
+{index:7, link: 'cellular-bluetooth-headsets-c-3524_4911.html', title: '<b><font face="Verdana" style="font-size: 12">Save up to 35% off on Hundred of Bluetooth Headsets</font></b>'},
+{index:8, link: 'cellular-c-3524.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">Save up to 90% off on over ten thousands of cellphone accessories</font>'},
+{index:9, link: 'iphone-c-4_5165.html', title: '<b><font face="Verdana" style="font-size: 12">Shop Thousands of iPhone Accessories and Save up to 90% off</font></b>'},
+{index:10, link: 'funfunfactory-gifts-toys-c-4631.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">Huge Discount on our Toys and Gift Categories</font>'},
+{index:11, link: 'ipad-accessories-c-7631.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">iPad Accessories - Accessorize your Apple iPad Here!</font>'},
+{index:12, link: 'home-garden-home-decor-c-6461_6467.html', title: '<b><font face="Verdana" style="font-size: 12">Shop Discount Home and Decor Products</font></b>'},
+{index:13, link: 'funfunfactory-gifts-toys-remote-control-toys-c-4631_4643.html', title: '<font face="Verdana" style="font-size: 12; font-weight: 700">Save up 65% on Huge Selection of RC Toys</font>'}
 									];
 								
 									var hotdeals_idx = 0;
@@ -590,20 +653,20 @@ pageTracker._trackPageview();
 										hotdeals_idx++;
 									}
 									hotdealsAuto();
-							  //-->
+
 							  </script>
 													</td>
 						<td style="width: 12px; height: 48px; background:url(images/grey_round_right.jpg) no-repeat;"></td>
 					  </tr>
-					</tbody></table>
+					</table>
 				  </td>
 				</tr>
-			  </tbody></table>
+			  </table>
 		   </div>
 		 </td>
 	   </tr>
-   	
-     </tbody></table>
+-->   	
+     </td></tr></tbody></table>
    
   </td>
 </tr>
@@ -611,17 +674,18 @@ pageTracker._trackPageview();
 
 
 
+
 <tr>
   <td>
-	<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="1000" align="center" height="5" bgcolor="#EDEDFF">
+	<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" align="center" height="5" bgcolor="#EDEDFF">
 	  <tbody><tr>
 		<td width="100%" height="8" bgcolor="#FFFFFF"></td>
 	  </tr>
 	</tbody></table>  
   </td>
 </tr>
-<!-- Page Header EOF //-->
 
+<!-- Page Header EOF //-->
 <!-- header_eof //-->
 
 <!-- body //-->
@@ -633,9 +697,9 @@ pageTracker._trackPageview();
   
 <script type="text/javascript">
 <!--
-	var nowTime = '1263755282';
-	var frameTime = '172800';
-	var startTime = '50594';
+	var nowTime = '1324144049';
+	//var frameTime = '259200';
+	var startTime = '137611';
 	var timerID = null;
 	var timerRunning = true;
 	var delay = 1000;
@@ -690,182 +754,38 @@ pageTracker._trackPageview();
 	}
 //-->
 </script>
-			<td width="192" valign="top" id="handheld_left_content">
-			<!-- left_navigation //-->
-			<br>
-			<link rel="stylesheet" style="text/css" href="home-menu-style.css">
-<script language="javascript">
-<!--
-function hhiMenuClick(current_main_id, main_count){
-	var current_menu_el = document.getElementById(current_main_id);
-
-	if(current_menu_el.className == "main-category off"){
-		current_menu_el.className = "main-category";
-		var current_sub_count_el = document.getElementById(current_main_id + "_subs");
-		for(var k = 0; k <= current_sub_count_el.value; k++){
-			var current_sub_menu_el = document.getElementById(current_main_id + "_" + k);
-			current_sub_menu_el.className = "sub-category";
-		}
-	}else{
-		current_menu_el.className = "main-category off";
-		var current_sub_count_el = document.getElementById(current_main_id + "_subs");
-		for(var k = 0; k <= current_sub_count_el.value; k++){
-			var current_sub_menu_el = document.getElementById(current_main_id + "_" + k);
-			current_sub_menu_el.className = "sub-category hide";
-		}
-	}
-	
-	for(var i = 1; i <= main_count; i++){
-		var main_menu_id = "menu_" + i;
-		if(main_menu_id != current_main_id){
-			var menu_el = document.getElementById(main_menu_id);
-			if(menu_el.className != "main-category off"){
-				menu_el.className = "main-category off";
-				var sub_count_el = document.getElementById(main_menu_id + "_subs");
-				for(var j = 0; j <= sub_count_el.value; j++){
-					var sub_menu_el = document.getElementById(main_menu_id + "_" + j);
-					sub_menu_el.className = "sub-category hide";
-				}
-			}
-		}
-	}
-}
-//-->
-</script>
-<div class="hhi-home-left-menu hhi-home-left-menu-nohome" id="hhi-home-left-menu">
-   <ul>
-<li class="top-title">Product Categories</li><li class="main-category off" id="menu_1"><input type="hidden" id="menu_1_subs" value="16"><div onclick="hhiMenuClick('menu_1', 19);">iPod &amp; iPhone &amp; Zune</div></li><li class="sub-category hide" id="menu_1_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/mp3-c-4.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_1_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/iphone-c-4_5165.html"><div>Apple iPhone</div></a></li><li class="sub-category hide" id="menu_1_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apple-ipod-nano-c-4_4682.html"><div>iPod Nano</div></a></li><li class="sub-category hide" id="menu_1_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/ipod-touch-c-4_5289.html"><div>iPod Touch</div></a></li><li class="sub-category hide" id="menu_1_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/ipod-classic-c-4_5290.html"><div>iPod Classic</div></a></li><li class="sub-category hide" id="menu_1_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apple-ipod-shuffle-c-4_1861.html"><div>iPod Shuffle</div></a></li><li class="sub-category hide" id="menu_1_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apple-ipod-video-c-4_4719.html"><div>iPod Video</div></a></li><li class="sub-category hide" id="menu_1_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apple-ipod-mini-c-4_1862.html"><div>iPod Mini</div></a></li><li class="sub-category hide" id="menu_1_8"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apple-ipod-generation-c-4_1864.html"><div>iPod 4G</div></a></li><li class="sub-category hide" id="menu_1_9"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apple-ipod-generation-c-4_1865.html"><div>iPod 3G</div></a></li><li class="sub-category hide" id="menu_1_10"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apple-ipod-special-edition-c-4_1860.html"><div>iPod U2</div></a></li><li class="sub-category hide" id="menu_1_11"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apple-ipod-photo-c-4_1863.html"><div>iPod Photos</div></a></li><li class="sub-category hide" id="menu_1_12"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/zune-c-4_4816.html"><div>Zune</div></a></li><li class="sub-category hide" id="menu_1_13"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/sansa-c-4_5319.html"><div>Sandisk Sansa</div></a></li><li class="sub-category hide" id="menu_1_14"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/Creative-Zen-c-4_5471.html"><div>Creative Zen</div></a></li><li class="sub-category hide" id="menu_1_15"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/sony-walkman-c-4_5476.html"><div>Sony Walkman</div></a></li><li class="sub-category hide" id="menu_1_16"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/iriver-c-4_5620.html"><div>iRiver</div></a></li><li class="main-category off" id="menu_2"><input type="hidden" id="menu_2_subs" value="24"><div onclick="hhiMenuClick('menu_2', 19);">Cellphones</div></li><li class="sub-category hide" id="menu_2_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-c-3524.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_2_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/iphone-c-4_5165.html"><div>Apple iPhone</div></a></li><li class="sub-category hide" id="menu_2_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-blackberry-c-3524_4862.html"><div>BlackBerry</div></a></li><li class="sub-category hide" id="menu_2_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-samsung-c-3524_3773.html"><div>Samsung</div></a></li><li class="sub-category hide" id="menu_2_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-htc-c-3524_5132.html"><div>HTC</div></a></li><li class="sub-category hide" id="menu_2_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-palm-treo-c-3524_4942.html"><div>Palm Pre &amp; Treo &amp; Centro</div></a></li><li class="sub-category hide" id="menu_2_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-lg-c-3524_4365.html"><div>LG</div></a></li><li class="sub-category hide" id="menu_2_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-nokia-c-3524_3832.html"><div>Nokia</div></a></li><li class="sub-category hide" id="menu_2_8"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-motorola-c-3524_4179.html"><div>Motorola</div></a></li><li class="sub-category hide" id="menu_2_9"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-sony-ericsson-c-3524_3583.html"><div>Sony Ericsson</div></a></li><li class="sub-category hide" id="menu_2_10"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-siemens-c-3524_3677.html"><div>Siemens</div></a></li><li class="sub-category hide" id="menu_2_11"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-audiovox-c-3524_3544.html"><div>Audiovox</div></a></li><li class="sub-category hide" id="menu_2_12"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-sanyo-c-3524_4548.html"><div>Sanyo</div></a></li><li class="sub-category hide" id="menu_2_13"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-nextel-c-3524_4923.html"><div>Nextel</div></a></li><li class="sub-category hide" id="menu_2_14"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-hp-c-3524_5353.html"><div>HP</div></a></li><li class="sub-category hide" id="menu_2_15"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-danger-c-3524_4959.html"><div>Danger Sidekick</div></a></li><li class="sub-category hide" id="menu_2_16"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-qualcomm-kyocera-c-3524_4950.html"><div>Qualcomm / Kyocera</div></a></li><li class="sub-category hide" id="menu_2_17"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/camera-photo-digital-camera-memory-card-c-4807_5123.html"><div>Memory Cards</div></a></li><li class="sub-category hide" id="menu_2_18"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-universal-accessories-c-3524_5135.html"><div>Universal Cellphone Accessories</div></a></li><li class="sub-category hide" id="menu_2_19"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-bluetooth-headsets-c-3524_4911.html"><div>Bluetooth</div></a></li><li class="sub-category hide" id="menu_2_20"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-unlock-cellular-phones-c-3524_5477.html"><div>Unlock Cellular Phones</div></a></li><li class="sub-category hide" id="menu_2_21"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-pantech-cell-phone-accessories-c-3524_6249.html"><div>Pantech</div></a></li><li class="sub-category hide" id="menu_2_22"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-screen-protector-c-3524_7144.html"><div>Screen Protectors</div></a></li><li class="sub-category hide" id="menu_2_23"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-cricket-cell-phone-accessories-c-3524_6425.html"><div>Cricket</div></a></li><li class="sub-category hide" id="menu_2_24"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cellular-garmin-ique-cell-phone-accessories-c-3524_5138.html"><div>iQue</div></a></li><li class="main-category off" id="menu_3"><input type="hidden" id="menu_3_subs" value="5"><div onclick="hhiMenuClick('menu_3', 19);">Printer &amp; Toners &amp; Inks</div></li><li class="sub-category hide" id="menu_3_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/ink-and-toner-c-4826.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_3_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-printer-c-4826_5487.html"><div>Printers</div></a></li><li class="sub-category hide" id="menu_3_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/printers-inkjet-c-4826_5491.html"><div>Inkjet Printers</div></a></li><li class="sub-category hide" id="menu_3_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/printer-laser-black-and-white-c-4826_5492.html"><div>Laser Printers - Black and White</div></a></li><li class="sub-category hide" id="menu_3_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/printer-laser-color-c-4826_5501.html"><div>Laser Printers - Color</div></a></li><li class="sub-category hide" id="menu_3_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/photo-paper-c-4826_5283.html"><div>Photo Paper</div></a></li><li class="main-category off" id="menu_4"><input type="hidden" id="menu_4_subs" value="12"><div onclick="hhiMenuClick('menu_4', 19);">Toners &amp; Drums</div></li><li class="sub-category hide" id="menu_4_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-c-4826_4827.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_4_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-brother-c-4826_4827_4831.html"><div>Brother</div></a></li><li class="sub-category hide" id="menu_4_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-xerox-toners-drums-c-4826_4827_5047.html"><div>Xerox</div></a></li><li class="sub-category hide" id="menu_4_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-sharp-toners-drums-c-4826_4827_5043.html"><div>Sharp</div></a></li><li class="sub-category hide" id="menu_4_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-samsung-c-4826_4827_5044.html"><div>Samsung</div></a></li><li class="sub-category hide" id="menu_4_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-panasonic-c-4826_4827_5272.html"><div>Panasonic</div></a></li><li class="sub-category hide" id="menu_4_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-lexmark-c-4826_4827_5035.html"><div>Lexmark</div></a></li><li class="sub-category hide" id="menu_4_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-kyocera-mita-c-4826_4827_5271.html"><div>Kyocera Mita</div></a></li><li class="sub-category hide" id="menu_4_8"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-konica-minolta-c-4826_4827_5037.html"><div>Konica Minolta</div></a></li><li class="sub-category hide" id="menu_4_9"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-c-4826_4827_5273.html"><div>HP</div></a></li><li class="sub-category hide" id="menu_4_10"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-dell-c-4826_4827_4985.html"><div>Dell</div></a></li><li class="sub-category hide" id="menu_4_11"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-canon-c-4826_4827_4845.html"><div>Canon</div></a></li><li class="sub-category hide" id="menu_4_12"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-toner-cartridges-oki-c-4826_4827_5524.html"><div>OKI</div></a></li><li class="main-category off" id="menu_5"><input type="hidden" id="menu_5_subs" value="8"><div onclick="hhiMenuClick('menu_5', 19);">Ink</div></li><li class="sub-category hide" id="menu_5_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/ink-cartridges-c-4826_5359.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_5_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-ink-cartridges-brother-c-4826_5359_5362.html"><div>Brother</div></a></li><li class="sub-category hide" id="menu_5_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-ink-cartridges-canon-c-4826_5359_5363.html"><div>Canon</div></a></li><li class="sub-category hide" id="menu_5_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-ink-cartridges-dell-c-4826_5359_5364.html"><div>Dell</div></a></li><li class="sub-category hide" id="menu_5_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-ink-cartridges-epson-c-4826_5359_5365.html"><div>Epson</div></a></li><li class="sub-category hide" id="menu_5_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-ink-cartridges-hp-c-4826_5359_5366.html"><div>HP</div></a></li><li class="sub-category hide" id="menu_5_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-ink-cartridges-ibm-c-4826_5359_5479.html"><div>IBM</div></a></li><li class="sub-category hide" id="menu_5_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-ink-cartridges-lexmark-c-4826_5359_5367.html"><div>Lexmark</div></a></li><li class="sub-category hide" id="menu_5_8"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/laser-ink-cartridges-xerox-c-4826_5359_5368.html"><div>Xerox</div></a></li><li class="main-category off" id="menu_6"><input type="hidden" id="menu_6_subs" value="13"><div onclick="hhiMenuClick('menu_6', 19);">Video Games</div></li><li class="sub-category hide" id="menu_6_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-c-4642.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_6_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-c-4642_4806.html"><div>Nintendo DSi &amp; NDS Lite</div></a></li><li class="sub-category hide" id="menu_6_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-nintendo-wii-c-4642_4833.html"><div>Nintendo Wii</div></a></li><li class="sub-category hide" id="menu_6_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-guitar-hero-c-4642_4824.html"><div>Guitar Hero</div></a></li><li class="sub-category hide" id="menu_6_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-dance-dance-revolution-c-4642_4690.html"><div>DDR</div></a></li><li class="sub-category hide" id="menu_6_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-c-4642_4692.html"><div>PSP 3000, 2000 or PSP</div></a></li><li class="sub-category hide" id="menu_6_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-playstation-c-4642_4691.html"><div>Playstation 1, 2 or 3</div></a></li><li class="sub-category hide" id="menu_6_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-c-4642_4693.html"><div>XBox 360</div></a></li><li class="sub-category hide" id="menu_6_8"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-games-c-4642_4696.html"><div>TV Games</div></a></li><li class="sub-category hide" id="menu_6_9"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-computer-gaming-c-4642_6224.html"><div>Computer Gaming</div></a></li><li class="sub-category hide" id="menu_6_10"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-sega-saturn-c-4642_6637.html"><div>Sega Saturn</div></a></li><li class="sub-category hide" id="menu_6_11"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-nes-c-4642_6638.html"><div>NES</div></a></li><li class="sub-category hide" id="menu_6_12"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/video-games-n64-c-4642_6639.html"><div>N64</div></a></li><li class="sub-category hide" id="menu_6_13"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/handheld-games-c-4642_4795.html"><div>HandHeld Games</div></a></li><li class="main-category off" id="menu_7"><input type="hidden" id="menu_7_subs" value="5"><div onclick="hhiMenuClick('menu_7', 19);">Camera &amp; Photo</div></li><li class="sub-category hide" id="menu_7_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/camera-and-photo-c-4807.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_7_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cameras-c-4807_5242.html"><div>Digital Cameras</div></a></li><li class="sub-category hide" id="menu_7_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/camera-photo-digital-camera-accessories-c-4807_4962.html"><div>Digital Camera Accessories</div></a></li><li class="sub-category hide" id="menu_7_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/camera-photo-lighting-studio-c-4807_4808.html"><div>Studio Lighting</div></a></li><li class="sub-category hide" id="menu_7_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/camera-photo-camera-bags-c-4807_4809.html"><div>Camera Bags</div></a></li><li class="sub-category hide" id="menu_7_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/camera-photo-digital-camera-memory-card-c-4807_5123.html"><div>Digital Camera Memory Card</div></a></li><li class="main-category off" id="menu_8"><input type="hidden" id="menu_8_subs" value="26"><div onclick="hhiMenuClick('menu_8', 19);">Electronics</div></li><li class="sub-category hide" id="menu_8_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-c-4644.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_8_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronic-dictionaries-c-4644_6514.html"><div>Electronic Dictionaries and Translator</div></a></li><li class="sub-category hide" id="menu_8_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/ebook-reader-c-4644_6288.html"><div>eBook Reader Accessories</div></a></li><li class="sub-category hide" id="menu_8_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-laptop-notebook-c-4644_5118.html"><div>Laptop Notebook</div></a></li><li class="sub-category hide" id="menu_8_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/digital-picture-frames-c-4644_5723.html"><div>Digital Picture Frames</div></a></li><li class="sub-category hide" id="menu_8_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-gps-c-4644_5354.html"><div>GPS Navigation</div></a></li><li class="sub-category hide" id="menu_8_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-camera-c-4644_5242.html"><div>Digital Cameras</div></a></li><li class="sub-category hide" id="menu_8_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-players-c-4644_5355.html"><div>MP3 Players</div></a></li><li class="sub-category hide" id="menu_8_8"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-printer-c-4644_5487.html"><div>Printers</div></a></li><li class="sub-category hide" id="menu_8_9"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/cables-c-4644_4815.html"><div>Cables</div></a></li><li class="sub-category hide" id="menu_8_10"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-projectors-c-4644_5369.html"><div>Projectors</div></a></li><li class="sub-category hide" id="menu_8_11"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-computer-c-4644_5089.html"><div>Computer</div></a></li><li class="sub-category hide" id="menu_8_12"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/network-wireless-cameras-c-4644_5486.html"><div>Network Wireless Camera</div></a></li><li class="sub-category hide" id="menu_8_13"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-voip-skype-phones-c-4644_5128.html"><div>VOIP / Skype</div></a></li><li class="sub-category hide" id="menu_8_14"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/usb-accessories-c-4644_5153.html"><div>USB Accessories</div></a></li><li class="sub-category hide" id="menu_8_15"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-cases-electronics-c-4644_5350.html"><div>Cases For Electronics</div></a></li><li class="sub-category hide" id="menu_8_16"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/software-c-4644_5375.html"><div>Software</div></a></li><li class="sub-category hide" id="menu_8_17"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-tv-mounts-c-4644_6225.html"><div>TV Mounts</div></a></li><li class="sub-category hide" id="menu_8_18"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronic-network-products-c-4644_6226.html"><div>Network Products</div></a></li><li class="sub-category hide" id="menu_8_19"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronic-voice-recorders-c-4644_6227.html"><div>Voice Recorders</div></a></li><li class="sub-category hide" id="menu_8_20"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronic-video-editing-hardware-c-4644_6228.html"><div>Video Editing Hardware</div></a></li><li class="sub-category hide" id="menu_8_21"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronic-graphics-tablets-c-4644_6229.html"><div>Graphics Tablets</div></a></li><li class="sub-category hide" id="menu_8_22"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronic-recordable-cd-dvd-media-c-4644_6230.html"><div>Recordable CD/DVD Media</div></a></li><li class="sub-category hide" id="menu_8_23"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronic-batteries-c-4644_6231.html"><div>Batteries</div></a></li><li class="sub-category hide" id="menu_8_24"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronic-storage-devices-c-4644_6232.html"><div>Storage Devices</div></a></li><li class="sub-category hide" id="menu_8_25"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-music-electronics-c-4644_6627.html"><div>Music Electronics</div></a></li><li class="sub-category hide" id="menu_8_26"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/electronics-storage-accessories-c-4644_6767.html"><div>Storage Accessories</div></a></li><li class="main-category off" id="menu_9"><input type="hidden" id="menu_9_subs" value="23"><div onclick="hhiMenuClick('menu_9', 19);">Toys &amp; Gifts</div></li><li class="sub-category hide" id="menu_9_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/funfunfactory-gifts-toys-c-4631.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_9_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/gifts-novelties-childrens-gifts-c-4670_7575.html"><div>Children Gifts</div></a></li><li class="sub-category hide" id="menu_9_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/funfunfactory-gifts-toys-remote-control-toys-c-4631_4643.html"><div>RC Toys &amp; Vehicles</div></a></li><li class="sub-category hide" id="menu_9_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/usb-gadgets-c-4631_5593.html"><div>USB Gadgets</div></a></li><li class="sub-category hide" id="menu_9_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-and-garden-c-4631_5591.html"><div>Home and Garden</div></a></li><li class="sub-category hide" id="menu_9_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/watch-winder-products-c-4631_5589.html"><div>Watch Winder Products</div></a></li><li class="sub-category hide" id="menu_9_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/poker-products-c-4631_5588.html"><div>Poker Products</div></a></li><li class="sub-category hide" id="menu_9_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/gifts-novelties-c-4670.html"><div>Gifts &amp; Novelties</div></a></li><li class="sub-category hide" id="menu_9_8"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/musical-instruments-c-4636.html"><div>Musical Instruments</div></a></li><li class="sub-category hide" id="menu_9_9"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/plush-toys-c-4631_5158.html"><div>Plush Animals &amp; Toys</div></a></li><li class="sub-category hide" id="menu_9_10"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/joke-items-c-4631_5159.html"><div>Joke Items</div></a></li><li class="sub-category hide" id="menu_9_11"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/light-up-toys-c-4631_5160.html"><div>Light Up Toys</div></a></li><li class="sub-category hide" id="menu_9_12"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/learning-toys-c-4631_5164.html"><div>Learning Toys</div></a></li><li class="sub-category hide" id="menu_9_13"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/tubby-scrubby-bathtub-animals-c-4631_5161.html"><div>Bathtub Toys</div></a></li><li class="sub-category hide" id="menu_9_14"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/battery-operated-toys-c-4631_5162.html"><div>Battery Operated Toys</div></a></li><li class="sub-category hide" id="menu_9_15"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/pretend-play-c-4631_5252.html"><div>Pretend Play</div></a></li><li class="sub-category hide" id="menu_9_16"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/puppets-toys-c-4631_5253.html"><div>Puppets</div></a></li><li class="sub-category hide" id="menu_9_17"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/funfunfactory-gifts-toys-safe-c-4631_6808.html"><div>Can Safe</div></a></li><li class="sub-category hide" id="menu_9_18"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/body-c-4631_5548.html"><div>Body</div></a></li><li class="sub-category hide" id="menu_9_19"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/party-toys-c-4631_5538.html"><div>Party Toys</div></a></li><li class="sub-category hide" id="menu_9_20"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/fashion-c-4631_5566.html"><div>Fashion</div></a></li><li class="sub-category hide" id="menu_9_21"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/gear-c-4631_5550.html"><div>Gear</div></a></li><li class="sub-category hide" id="menu_9_22"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/jewelry-c-4631_5535.html"><div>Jewelry</div></a></li><li class="sub-category hide" id="menu_9_23"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/my-space-c-4631_5533.html"><div>My Space</div></a></li><li class="main-category off" id="menu_10"><input type="hidden" id="menu_10_subs" value="7"><div onclick="hhiMenuClick('menu_10', 19);">Sports</div></li><li class="sub-category hide" id="menu_10_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/sports-c-4640.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_10_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/sports-airsoft-c-4640_5213.html"><div>Airsoft</div></a></li><li class="sub-category hide" id="menu_10_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/sports-bicycle-c-4640_6519.html"><div>Bicycles</div></a></li><li class="sub-category hide" id="menu_10_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/sports-hunting-sports-c-4640_5182.html"><div>Hunting Sports</div></a></li><li class="sub-category hide" id="menu_10_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/sports-outdoor-knives-c-4640_5736.html"><div>Outdoor Knives</div></a></li><li class="sub-category hide" id="menu_10_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/sports-self-defense-c-4640_6805.html"><div>Self Defense</div></a></li><li class="sub-category hide" id="menu_10_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/sports-swords-c-4640_6806.html"><div>Swords</div></a></li><li class="sub-category hide" id="menu_10_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/[下午 05:50:59] Iggfactory - Tony: sports-weapons-c-4640_6807.html"><div>Weapons</div></a></li><li class="main-category off" id="menu_11"><input type="hidden" id="menu_11_subs" value="7"><div onclick="hhiMenuClick('menu_11', 19);">Pet</div></li><li class="sub-category hide" id="menu_11_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/pet-c-5670.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_11_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/pet-dog-c-5670_7225.html"><div>Dog</div></a></li><li class="sub-category hide" id="menu_11_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/pet-cat-c-5670_7227.html"><div>Cat</div></a></li><li class="sub-category hide" id="menu_11_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/pet-pet-carriers-c-5670_7223.html"><div>Pet Carrier</div></a></li><li class="sub-category hide" id="menu_11_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/pet-bird-c-5670_7285.html"><div>Bird</div></a></li><li class="sub-category hide" id="menu_11_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/small-animal-c-5670_7251.html"><div>Small Animal</div></a></li><li class="sub-category hide" id="menu_11_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/pet-pet-electronics-c-5670_7224.html"><div>Pet Electronics</div></a></li><li class="sub-category hide" id="menu_11_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/pet-jewelry-c-5670_7537.html"><div>Jewelry</div></a></li><li class="main-category off" id="menu_12"><input type="hidden" id="menu_12_subs" value="14"><div onclick="hhiMenuClick('menu_12', 19);">Auto Parts</div></li><li class="sub-category hide" id="menu_12_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-c-5778.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_12_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-hdi-kits-c-5778_5781.html"><div>HID Kits</div></a></li><li class="sub-category hide" id="menu_12_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-headlights-c-5778_6180.html"><div>Headlights</div></a></li><li class="sub-category hide" id="menu_12_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-taillights-c-5778_6159.html"><div>Taillights</div></a></li><li class="sub-category hide" id="menu_12_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-performance-parts-c-5778_6323.html"><div>Performance Parts</div></a></li><li class="sub-category hide" id="menu_12_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-exterior-accessories-c-5778_6308.html"><div>Exterior Accessories</div></a></li><li class="sub-category hide" id="menu_12_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-interior-accessories-c-5778_6321.html"><div>Interior Accessories</div></a></li><li class="sub-category hide" id="menu_12_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-corner-bumper-lens-c-5778_6660.html"><div>Corner &amp; Bumper Lens</div></a></li><li class="sub-category hide" id="menu_12_8"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/tools-c-5778_6527.html"><div>Tools</div></a></li><li class="sub-category hide" id="menu_12_9"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-lights-c-5778_6673.html"><div>Fog Lights</div></a></li><li class="sub-category hide" id="menu_12_10"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-suspension-c-5778_6691.html"><div>Suspension</div></a></li><li class="sub-category hide" id="menu_12_11"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-brake-lights-c-5778_7505.html"><div>Brake Lights</div></a></li><li class="sub-category hide" id="menu_12_12"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-racing-seats-c-5778_7486.html"><div>Racing Seats</div></a></li><li class="sub-category hide" id="menu_12_13"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-spoiler-c-5778_7489.html"><div>Spoiler</div></a></li><li class="sub-category hide" id="menu_12_14"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/auto-parts-steering-wheel-c-5778_7506.html"><div>Steering Wheel</div></a></li><li class="main-category off" id="menu_13"><input type="hidden" id="menu_13_subs" value="0"><div onclick="hhiMenuClick('menu_13', 19);">Books</div></li><li class="sub-category hide" id="menu_13_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/books-c-6864.html"><div>...All</div></a></li><li class="main-category off" id="menu_14"><input type="hidden" id="menu_14_subs" value="2"><div onclick="hhiMenuClick('menu_14', 19);">Jewelry And Watches</div></li><li class="sub-category hide" id="menu_14_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/jewelry-and-watches-c-6254.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_14_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/jewelry-c-6254_5807.html"><div>Jewelry</div></a></li><li class="sub-category hide" id="menu_14_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/watches-c-6254_5803.html"><div>Watches</div></a></li><li class="main-category off" id="menu_15"><input type="hidden" id="menu_15_subs" value="10"><div onclick="hhiMenuClick('menu_15', 19);">Health &amp; Beauty</div></li><li class="sub-category hide" id="menu_15_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-and-beauty-c-6362.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_15_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-and-beauty-cosmetics-c-6362_6363.html"><div>Cosmetics</div></a></li><li class="sub-category hide" id="menu_15_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-and-beauty-bath-and-body-c-6362_6366.html"><div>Bath &amp; Body</div></a></li><li class="sub-category hide" id="menu_15_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-and-beauty-nutrition-c-6362_6373.html"><div>Nutrition</div></a></li><li class="sub-category hide" id="menu_15_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-beauty-nail-c-6362_6369.html"><div>Nail</div></a></li><li class="sub-category hide" id="menu_15_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-and-beauty-hair-c-6362_6365.html"><div>Hair</div></a></li><li class="sub-category hide" id="menu_15_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-beauty-aromatherapy-c-6362_6822.html"><div>Aromatherapy</div></a></li><li class="sub-category hide" id="menu_15_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-beauty-candles-c-6362_6821.html"><div>Candles</div></a></li><li class="sub-category hide" id="menu_15_8"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-beauty-fragrance-c-6362_6816.html"><div>Fragrance</div></a></li><li class="sub-category hide" id="menu_15_9"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-beauty-grooming-products-c-6362_6769.html"><div>Grooming Products</div></a></li><li class="sub-category hide" id="menu_15_10"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/health-beauty-reed-diffusers-c-6362_7179.html"><div>Reed Diffusers</div></a></li><li class="main-category off" id="menu_16"><input type="hidden" id="menu_16_subs" value="14"><div onclick="hhiMenuClick('menu_16', 19);">Home &amp; Garden</div></li><li class="sub-category hide" id="menu_16_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-and-garden-c-6461.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_16_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-bath-c-6461_7571.html"><div>Bath</div></a></li><li class="sub-category hide" id="menu_16_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-bathroom-decor-c-6461_6576.html"><div>Bathroom Decor</div></a></li><li class="sub-category hide" id="menu_16_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-bedding-quilts-c-6461_6577.html"><div>Bedding and Quilts</div></a></li><li class="sub-category hide" id="menu_16_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-curtains-blinds-c-6461_6588.html"><div>Curtains and Blinds</div></a></li><li class="sub-category hide" id="menu_16_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-dining-c-6461_6462.html"><div>Dining</div></a></li><li class="sub-category hide" id="menu_16_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-furniture-c-6461_6604.html"><div>Furniture</div></a></li><li class="sub-category hide" id="menu_16_7"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-garden-decor-c-6461_6611.html"><div>Garden Decor</div></a></li><li class="sub-category hide" id="menu_16_8"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-holiday-special-occasion-c-6461_6478.html"><div>Holiday &amp; Special Occasion</div></a></li><li class="sub-category hide" id="menu_16_9"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-home-decor-c-6461_6467.html"><div>Home Decor</div></a></li><li class="sub-category hide" id="menu_16_10"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-kitchen-c-6461_6465.html"><div>Kitchen</div></a></li><li class="sub-category hide" id="menu_16_11"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-lamps-c-6461_6613.html"><div>Lamps</div></a></li><li class="sub-category hide" id="menu_16_12"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-outdoors-c-6461_6614.html"><div>Outdoors</div></a></li><li class="sub-category hide" id="menu_16_13"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-plumbing-hardware-c-6461_7152.html"><div>Plumbing Hardware</div></a></li><li class="sub-category hide" id="menu_16_14"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/home-garden-tools-c-6461_6527.html"><div>Tools</div></a></li><li class="main-category off" id="menu_17"><input type="hidden" id="menu_17_subs" value="6"><div onclick="hhiMenuClick('menu_17', 19);">Apparel &amp; Accessories</div></li><li class="sub-category hide" id="menu_17_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apparel-and-accessories-c-6289.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_17_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apparel-accessories-handbags-c-6289_6291.html"><div>Handbags</div></a></li><li class="sub-category hide" id="menu_17_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/designs-tshirts-c-6729_6730_6735.html"><div>Designed T-Shirts</div></a></li><li class="sub-category hide" id="menu_17_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apparel-accessories-hats-caps-beanies-c-6289_6290.html"><div>Hats, Caps&amp; Beanies</div></a></li><li class="sub-category hide" id="menu_17_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apparel-accessories-clothing-c-6289_6643.html"><div>Clothing</div></a></li><li class="sub-category hide" id="menu_17_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apparel-accessories-headbands-c-6289_6658.html"><div>Headbands</div></a></li><li class="sub-category hide" id="menu_17_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/apparel-accessories-snow-c-6289_6659.html"><div>Ski &amp; Snow</div></a></li><li class="main-category off" id="menu_18"><input type="hidden" id="menu_18_subs" value="6"><div onclick="hhiMenuClick('menu_18', 19);">Baby &amp; Toddler</div></li><li class="sub-category hide" id="menu_18_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/babys-c-6870.html"><div>...All</div></a></li><li class="sub-category hide" id="menu_18_1"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/babys-baby-bedding-c-6870_6878.html"><div>Baby Bedding</div></a></li><li class="sub-category hide" id="menu_18_2"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/babys-baby-clothing-c-6870_6875.html"><div>Baby Clothing</div></a></li><li class="sub-category hide" id="menu_18_3"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/babys-baby-gift-baskets-c-6870_6871.html"><div>Baby Gift Baskets</div></a></li><li class="sub-category hide" id="menu_18_4"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/babys-baby-toys-c-6870_6880.html"><div>Baby Toys</div></a></li><li class="sub-category hide" id="menu_18_5"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/babys-nursery-furniture-c-6870_6886.html"><div>Nursery Furniture</div></a></li><li class="sub-category hide" id="menu_18_6"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/babys-personalized-baby-gifts-c-6870_6872.html"><div>Personalized Baby Gifts</div></a></li><li class="main-category off" id="menu_19"><input type="hidden" id="menu_19_subs" value="0"><div onclick="hhiMenuClick('menu_19', 19);">As Seen On TV</div></li><li class="sub-category hide" id="menu_19_0"><a class="hhi-home-left-menu-link" href="http://www.handhelditems.com/as-seen-on-tv-c-6788.html"><div>...All</div></a></li>   </ul>
-</div><table border="0" cellpadding="0" cellspacing="0" style="margin-bottom:10px;"><tbody><tr><td><a href="quakin.html"><img src="images/header/whats_quakin_small-banner.gif" border="0"></a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-  <td>
-
-    <table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#979CFF">
-	
-	  <tbody><tr>
-		<td height="124" align="center" valign="top" bgcolor="#F4F4FE">
-		  <table width="100%" border="0" cellspacing="0" cellpadding="0" height="133">
-		    
-			<tbody><tr>
-			  <td bgcolor="#F4F4FE" height="25" style="padding-left:10px;">
-              <font face="Verdana" style="font-size: 12" color="#4D4D4D"><b>MORE CATEGORIES</b></font></td>
-		    </tr>
-
-			<tr>
-			   <td class="main" style="padding-left: 10px;">•&nbsp;<a class="link_newsletter" style="color=&quot;#4D4D4D&quot;; font-size: 12px;" href="http://www.handhelditems.com/products_new.php">New Products</a></td>
-			</tr>
-
-			<tr>
-			   <td height="5"></td>
-			</tr>
-
-			<tr>
-			   <td class="main" style="padding-left: 10px;">•&nbsp;<a class="link_newsletter" style="color=&quot;#4D4D4D&quot;;font-size: 12px;" href="https://www.handhelditems.com/specials.php">Special Prices</a></td>
-			</tr>
-
-			<tr>
-			   <td height="5"></td>
-			</tr>
-
-			<tr>
-			   <td class="main" style="padding-left: 10px;">•&nbsp;<a class="link_newsletter" style="color=&quot;#4D4D4D&quot;;font-size: 12px;" href="javascript:addBookmark(location.href,'www.handhelditems.com iPod &amp; HandHeld Accessories');">Bookmark us</a></td>
-			</tr>
-
-			<tr>
-			   <td height="5"></td>
-			</tr>
-
-			<tr>
-			   <td class="main" style="padding-left: 10px;">•&nbsp;<a class="link_newsletter" style="color=&quot;#4D4D4D&quot;;font-size: 12px;" href="http://www.handhelditems.com/reviews.php">Product Reviews</a></td>
-			</tr>
-
-			<tr>
-			   <td height="5"></td>
-			</tr>
-
-
-			<tr>
-			   <td class="main" style="padding-left: 10px;">•&nbsp;<a class="link_newsletter" style="color=&quot;#4D4D4D&quot;;font-size: 12px;" href="http://www.handhelditems.com/affiliate_affiliate.php">Affiliate Program</a></td>
-			</tr>
-
-			<tr>
-			   <td height="5"></td>
-			</tr>
-			
-			
-			
-			
-			<tr>
-			  <td bgcolor="#F4F4FE" height="25" style="padding-left:10px;">
-              <font face="Verdana" style="font-size: 12" color="#4D4D4D"><b>BEST DEALS ALERT!</b></font></td>
-		    </tr>
-		  <tr>
-			<td height="42" style="font-family: Verdana; font-size:9pt; padding-left: 5px; padding-right: 5px;">
-			<font color="#4D4D4D"><font size="1">s</font><font style="font-size: 10">ign up now to be alerted of our great deals!<br>
-            </font>&nbsp;<br><font style="font-size: 10; font-weight: 700">eMail Address:</font></font></td>
-		  </tr>
-		  <tr>
-			<td height="5"></td>
-		  </tr>
-		  <form name="newsletter" method="post" action="https://www.handhelditems.com/newsletter.php?action=subscribe"></form>
-			  <tr>
-				<td height="27" align="left" style="padding-left:10px;"><input type="text" name="email_address1" style="width:160px;"></td>
-			  </tr>
-			  <tr>
-				<td style="font-size:10px; font-family:Verdana;padding-left:10px;">Subscribe to our newsletter</td>
-			  </tr>
-			  <tr>
-				<td height="27" align="right" style="padding-right:5px;"><input type="image" src="includes/languages/english/images/buttons/button_submit.gif" border="0" alt="Join Newsletter" title=" Join Newsletter "></td>
-			  </tr>
-		  
-		 
-		  <!-- 
-		  <tr>
-			<td height="5"></td>
-		  </tr>
-		  <form name="newsletter" method="post" action="https://www.handhelditems.com/newsletter.php?action=unsubscribe">
-			  <tr>
-				<td height="27" align="left" style="padding-left:10px;"><input type="text" name="email_address2" style="width:160px;"></td>
-			  </tr>
-			  <tr>
-				<td style="font-size:10px; font-family:Verdana;padding-left:10px;">to unscbscribe to our newsletter</td>
-			  </tr>
-			  <tr>
-				<td height="27" align="right" style="padding-right:5px;"><input type="image" src="includes/languages/english/images/buttons/button_submit.gif" border="0" alt="Join Newsletter" title=" Join Newsletter "></td>
-			  </tr>
-		  </form>
-		  //-->
-
-
-		</tbody></table></td>
-	   </tr>
-
-
-
-	 
-	</tbody></table><br>
-
-  </td>
-</tr>
-</tbody></table>
-			<!-- left_navigation_eof //-->
-		</td>
 <!-- content //-->
     <td width="100%" valign="top" id="handheld_main_content" class="body">
     <table border="0" width="100%" cellspacing="0" cellpadding="0">
+
       <tbody><tr>
+
         <td><table border="0" width="100%" cellspacing="0" cellpadding="0">
+
           <tbody><tr>
+
             <td class="pageHeading">Privacy Notice</td>
+
             <td class="pageHeading" align="right"></td>
+
           </tr>
+
         </tbody></table></td>
+
       </tr>
+
       <tr>
+
         <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+
       </tr>
+
       <tr>
+
         <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+
           <tbody><tr>
+
             <td class="main"><table border="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#6666FF" width="100%" id="AutoNumber1" cellpadding="10">
   <tbody><tr>
     <td width="126" style="border-right-style: solid; border-right-width: 1; border-bottom-style:solid; border-bottom-width:1">&nbsp;</td>
@@ -951,7 +871,7 @@ function hhiMenuClick(current_main_id, main_count){
     8. How users can correct any inaccuracies in the information. </font>
     <p><font style="font-size: 12" face="Verdana">If users have questions or 
     concerns regarding this statement, they should first contact our Customer 
-    Service Department by sales@Handhelditems.com.</font></p>
+    Service Department by sales<img src="images/at.gif" align="absmiddle">Handhelditems.com.</font></p>
     <p><font style="font-size: 12" face="Verdana"><b>Information Collection and 
     Use</b> <br>
     <br>
@@ -1014,8 +934,13 @@ function hhiMenuClick(current_main_id, main_count){
     advertisers). However, we have no access to or control over these cookies, 
     once we have given permission for them to set cookies for advertising. <br>
     <br>
-    This privacy statement covers the use of cookies byHandhelditems.com only 
+    This privacy statement covers the use of cookies( byHandhelditems.com )only 
     and does not cover the use of cookies by any advertisers. <br>
+    <br>
+	<b>Third Party Cookies</b> <br>
+    IGG Factory, Inc. and its advertisers may also use ad network providers and other service providers to help present customized content and advertisements on IGG Factory, Inc. and its sites. These providers may use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their content and advertisements, 
+ using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. IGG Factory, Inc. may share certain non-personally identifiable information about you as a user (such as user age and zip code) with certain ad network and service providers to help them deliver more relevant content and advertisements through
+ their networks. The use of cookies, web beacons, or similar technologies by ad network and content providers is subject to their own privacy policies, not that of IGG Factory, Inc.<br>
     <br>
     <b>Log Files</b> <br>
     Like most standard Web site servers we use log files. This includes internet 
@@ -1074,7 +999,7 @@ function hhiMenuClick(current_main_id, main_count){
     Users who no longer wish to receive our newsletter and promotional 
     communications may opt-out of receiving these communications by replying to 
     unsubscribe in the subject line in the email or email us at <br>
-    sales@Handhelditems.com<br>
+    sales<img src="images/at.gif" align="absmiddle">Handhelditems.com<br>
     Users of our site are always notified when their information is being 
     collected by any outside parties. We do this so our users can make an 
     informed choice as to whether or not they should proceed with services that 
@@ -1110,7 +1035,7 @@ function hhiMenuClick(current_main_id, main_count){
     inviting them to visit the site. Handhelditems.com does not store this 
     information for the sole purpose of sending this one-time email and tracking 
     the success of our referral program. The friend may contact 
-    Handhelditems.com at sales@Handhelditems.com to request the removal of this 
+    Handhelditems.com at sales<img src="images/at.gif" align="absmiddle">Handhelditems.com to request the removal of this 
     information from our database. <br>
     <br>
     <b>Security</b> <br>
@@ -1140,7 +1065,7 @@ function hhiMenuClick(current_main_id, main_count){
     identifiable information are in a secure environment, in a locked facility.
     <br>
     If users have any questions about the security at our Web site, users can 
-    send an email to sales@Handhelditems.com<br>
+    send an email to sales<img src="images/at.gif" align="absmiddle">Handhelditems.com<br>
     <br>
     <b>Supplementation of Information </b><br>
     <br>
@@ -1154,7 +1079,7 @@ function hhiMenuClick(current_main_id, main_count){
     phone, email or postal address), or if a user no longer desires our service, 
     we provide a way to correct, update or delete/deactivate users' personally 
     identifiable information. This can usually be done at the [member 
-    information page] or by emailing our Customer Support at sales@Handhelditems.com 
+    information page] or by emailing our Customer Support at sales<img src="images/at.gif" align="absmiddle">Handhelditems.com 
     Or, log in to your account on our website to change it yourself or contact 
     us by telephone or postal mail at the contact information listed below. <br>
     <br>
@@ -1171,7 +1096,7 @@ function hhiMenuClick(current_main_id, main_count){
     please contact us at: <br>
     <br>
     Phone : 909-595-3326<br>
-    Email : sales@Handhelditems.com<br>
+    Email : sales<img src="images/at.gif" align="absmiddle">Handhelditems.com<br>
     Postal Address <br>
     1211 John Reed Court<br>
 City of Industry, California 91745<br>
@@ -1180,106 +1105,52 @@ City of Industry, California 91745<br>
   </tr>
 </tbody></table>
 </td>
+
           </tr>
+
         </tbody></table></td>
+
+      </tr>
+
+
+
+
+      <tr>
+
+        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
+
       </tr>
 
       <tr>
-        <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="10"></td>
-      </tr>
-      <tr>
+
         <td><table border="0" width="100%" cellspacing="1" cellpadding="2" class="infoBox">
+
           <tbody><tr class="infoBoxContents">
+
             <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+
               <tbody><tr>
+
                 <td width="10"><img src="images/pixel_trans.gif" border="0" alt="" width="10" height="1"></td>
+
                 <td align="right"><a href="http://www.handhelditems.com/index.php"><img src="includes/languages/english/images/buttons/button_continue.gif" border="0" alt="Continue" title=" Continue "></a></td>
+
                 <td width="10"><img src="images/pixel_trans.gif" border="0" alt="" width="10" height="1"></td>
+
               </tr>
+
             </tbody></table></td>
+
           </tr>
+
         </tbody></table></td>
+
       </tr>
+
+
     </tbody></table>	   
     </td>
 <!-- content_eof //-->
-	<td width="150" valign="top" id="handheld_right_content">
-		<table border="0" width="150" cellspacing="0" cellpadding="0">
-		
-		 
-		
-
-		
-		<!-- call me on line#2 //-->		
-		
-				  
-		  <tbody><tr>
-			<td>
-		  			</td>
-		  </tr>
-		
-				  <tr>
-			<td><br>
-<table width="160" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td height="50" width="100%" class="main" valign="top" align="center">
-		<table width="90%" border="0" cellspacing="0" cellpadding="0" align="center">
-		  
-		  <tbody><tr>
-			<td class="main" align="center">
-			  <a href="http://www.handhelditems.com/mp3-c-4.html"><img src="images/banners/podbanner_right.gif" border="0"></a>
-			</td>
-		  </tr>
-
-		  <tr><td height="10"></td></tr>
-
-		  <tr>
-			<td class="main" align="center">
-			  <a href="http://www.handhelditems.com/slingshot-flying-with-sound-p-5064.html"><img src="images/banners/cowbanner_right.jpg" border="0"></a>
-			</td>
-		  </tr>
-
-		  <tr><td height="10"></td></tr>
-		  
-		  
-		  <tr>
-			<td class="main" align="center">
-			  <a href="http://www.handhelditems.com/video-games-nintendo-wii-c-4642_4833.html"><img src="images/banners/wiiaccessorieebanner_right.jpg" border="0"></a>
-			</td>
-		  </tr>
-
-		  <tr><td height="10"></td></tr>
-
-		  <tr>
-			<td class="main" align="center">
-			  <a href="http://www.handhelditems.com/ink-and-toner-c-4826.html"><img src="images/banners/tonerbanner_right.jpg" border="0"></a>
-			</td>
-		  </tr>
-
-		  <tr><td height="10"></td></tr>
-
-		  <tr>
-			<td class="main" align="center">
-			  <a href="http://www.handhelditems.com/electronics-cables-c-4644_4815.html"><img src="images/banners/hdmibanner_right.jpg" border="0"></a>
-			</td>
-		  </tr>
-
-		  <tr><td height="10"></td></tr>
-
-		  <tr>
-			<td class="main" align="center">
-			  <a href="http://www.handhelditems.com/cellular-c-3524.html"><img src="images/banners/cellphonebanner_right.jpg" border="0"></a>
-			</td>
-		  </tr>
-
-		</tbody></table>
-	</td>
-  </tr>
-</tbody></table>
-<br></td>
-		  </tr>
-				</tbody></table>
-	</td>
 
   </tr>
 </tbody></table>
@@ -1366,7 +1237,7 @@ City of Industry, California 91745<br>
 		  <td>
 			<a href="https://www.handhelditems.com/login.php">Login My Account</a><br>
 			<a href="http://www.handhelditems.com/newsletter.php?">Newsletters</a><br>
-			<a href="http://www.handhelditems.com/create_account.php">Create New Account</a><br>
+			<a href="https://www.handhelditems.com/create_account.php">Create New Account</a><br>
 		  </td>
 		  
 		  <td>
@@ -1383,7 +1254,7 @@ City of Industry, California 91745<br>
    <div id="time">
 	 <table align="right" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-		  <td style="text-align: right; height: 16px; padding-bottom:5px; padding-top: 10px;"><font face="Verdana" style="font-size: 12px" color="#FFFFFF">&nbsp;Sunday 17 January, 2010&nbsp;&nbsp;</font></td>
+		  <td style="text-align: right; height: 16px; padding-bottom:5px; padding-top: 10px;"><font face="Verdana" style="font-size: 12px" color="#FFFFFF">&nbsp;Saturday 17 December, 2011&nbsp;&nbsp;</font></td>
 		</tr>
 	 </tbody></table>
    </div>
@@ -1405,11 +1276,12 @@ City of Industry, California 91745<br>
 	Microsoft Corporation. Sony, PSP, Playstation 2, PS2 and the PS2 logos are 
 	registered trademarks or the Sony Corp. The Nintendo GameCube, DS, GameBoy 
 	Advance and GameBoy Advance SP logos are trademarks of Nintendo of America. 
-	iPOD?is a trademark of Apple Computer, Inc., registered in the U.S. and 
+	iPOD is a trademark of Apple Computer, Inc., registered in the U.S. and 
 	other countries. All other trademarks are the properties of their respective 
 	owners.</font></td>
 </tr><!-- footer_eof //-->
 </tbody></table>
+
 
 
 </body></html>
