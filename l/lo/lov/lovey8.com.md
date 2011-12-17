@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lovey8.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513171730id_/http%3A//www.lovey8.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovey8.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217014028id_/http%3A//www.lovey8.com/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy - Y8 Games
 
 **Personal Information**  
-FreeGames14.com is committed to protecting your privacy online. FreeGames14.com does not collect any personal information. 
+Lovey8.com is committed to protecting your privacy online. Lovey8.com does not collect any personal information. 
 
 **IP address and logging**  
 Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).
@@ -15,7 +15,7 @@ We use third-party advertising companies to serve ads when you visit FreeGames14
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 **Liability**  
-It is FreeGames14.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, FreeGames14.com will immediately disable and remove games in question.
+It is Lovey8.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, Lovey8.com will immediately disable and remove games in question.
 
 **Contact**  
-info@freegames14.com
+info@Lovey8.com
