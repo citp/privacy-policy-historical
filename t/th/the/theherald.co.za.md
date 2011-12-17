@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theherald.co.za privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619023453id_/http%3A//www.peherald.com/content/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theherald.co.za privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217105038id_/http%3A//www.peherald.com/content/8) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,42 +54,42 @@
 
 **9.  E-Mail The Owner may periodically send e-mails to You about services, products or promotions offered by the Owner and its advertisers to the e-mail address provided by You.**
 
-[dokhotelo](http://www.peherald.com/news/article/1733) _17 June 2011 10:42 pm_
+[Peter](http://www.peherald.com/news/article/3307) _17 December 2011 11:16 am_
 
-...All right!.....But you should show same determination in dealing with Nceba Faku's threats......Jelly-O reporting and criticism is not enough............
+Christmas is in the air. During this season, i love to do some creative stuff for the holiday. I do gift wrapping every year (for the sake of my nephews, nieces and godchildren as well!...) In our hou...
 
-[dokhotelo](http://www.peherald.com/news/article/1740) _17 June 2011 10:38 pm_
+[thirsty](http://www.peherald.com/news/article/4101) _17 December 2011 8:42 am_
 
-......we are seeing Malema/ANCYL's "putsch" against Zuma/Mantashe et al........The old satyr doesn't have enough energy to stamp out the rebellion in the farm neh????................
+Included in the problem of climate change we also have numerous other problems in the world that we choose not to tackle, where there is a simple solution to them all. Look at water becoming scarce, c...
 
-[Dejoka's comment removed](http://www.peherald.com/news/article/1733) _17 June 2011 11:55 am_
+[thirsty](http://www.peherald.com/news/article/4100) _15 December 2011 5:02 pm_
 
-Please stick to commenting on articles and please refrain from using our forum to promote your own or other causes. Repeat offenders will be suspended - Web Manager...
+give that man a "Bells" not often i agree with the ANC but i agree with this!...
 
-[Dejoka](http://www.peherald.com/news/article/1746) _17 June 2011 11:48 am_
+[aheseanL](http://www.peherald.com/news/article/3530) _15 December 2011 12:13 pm_
 
-shocking that such hateful rhetoric can spew forth from the mouth of a South African, who should know well enough the effects of human prejudice against a race. This Matsha clearly has NO idea what h...
+Holiday season is here and I'm really excited to spend it with my whole family somewhere peaceful, beautiful and far. Right now I'm reading some holiday travel articles to give some tips on where and ...
 
-[Malefani](http://www.peherald.com/news/article/1700) _17 June 2011 9:26 am_
+[EuniceB](http://www.peherald.com/news/article/3656) _15 December 2011 11:34 am_
 
-A fw things ratepayers should look at, over paid senior staff who do very little, food and drink for mayoral and other ANC functions, irregular expenditure by executive directors and the fact that no ...
+Tax evasion is one of the main concerns not only in Italy, but as well as in other countries. In U.S., 30 large American companies spent more cash to lobby lawmakers and impact political elections tha...
 
-[Dubbelduwwel](http://www.peherald.com/news/article/1709) _16 June 2011 11:16 am_
+[FongKongTiger](http://www.peherald.com/news/article/4039) _15 December 2011 10:09 am_
 
-I fully agree, BUT, she'll probably be traumatized anew by being charged with murder. May the prosecutor refuse to prosecute....
+'Barcelona ... replace them at the top of La Liga on goal difference. ' Actually, no. While it is true that FCB's goal difference is better than RM's, that's not the reason FCB replaced them at the to...
 
-[Claddagh](http://www.peherald.com/news/article/1417) _15 June 2011 9:51 pm_
+[thirsty](http://www.peherald.com/news/article/3966) _14 December 2011 1:02 pm_
 
-She must have been a very young pivotal role. Serriously, if she s 68 now, she was 12 when the march took place. How instrumental could she have been in organising it? ...
+Sagebrush you are correct but what the author of the article is trying to get at is that it must be a black african i presume( otherwise he definitely doesn't know anything about SA rugby). Hey Pieter...
 
-[mastermindPE](http://www.peherald.com/news/article/1700) _15 June 2011 10:24 am_
+[shosholoza](http://www.peherald.com/news/article/4057) _13 December 2011 10:07 pm_
 
-Cut back or pay for your worst run Metro woes useless ANCpf !!! We will bring you to your knees one way or another, come on people go to http://www.nmbratepayers.co.za and give us the strength to fig...
+Here's a fact for you Barbara Nixon. You can take the entire population of the world and put them into Mexico and it would be as dense as a major city - with the rest of the world empty! There are not...
 
-[BigSus](http://www.peherald.com/news/article/1696) _15 June 2011 10:08 am_
+[Peter](http://www.peherald.com/news/article/3076) _13 December 2011 12:28 pm_
 
-Amen to that Basil ! You've hit the nail on the head ...
+Even if we budget our money properly, unexpected expenses come along the way and the only thing that can save us is to have some loans. Or sometimes, if we want to buy something quite expensive but we...
 
-[Vidoc](http://www.peherald.com/news/article/1695) _14 June 2011 7:53 pm_
+[Peter](http://www.peherald.com/news/article/3891) _13 December 2011 12:25 pm_
 
-Linda, I would like to know as a citizen of the area and generous donor, what happens to all the funds being received by the Care Centre? Surely this cannot just be absorbed by the day to day running ...
+Even if we budget our money perfectly, unexpected expenses come along the way and the only thing that can save us is to have some loans. Or sometimes, if we want to buy something quite expensive but w...
