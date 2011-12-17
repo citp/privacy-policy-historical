@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225153623id_/http%3A//www.surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyclub.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217120440id_/http%3A//www.surveyclub.com/misc/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Survey Club - Take Paid Surveys Online and Get Paid!
 
@@ -22,13 +22,15 @@ While both of these activities depend on the use of a "cookie," visitors to this
 
 **Information Gathering**
 
-This web site collects online contact information in various ways, including inquiry forms, registration forms, surveys, and contests. The information collected may be used to send the user information about our company, or to get in touch with the user when necessary. Emails may come from SurveyClub.com, SurveyClubMarketing.com, and/or SurveyClubOffers.com.
+This Privacy Policy applies to end-users that access the Site, and/or register for the products and/or services offered by and through the Site. The types of personally identifiable information that we collect at the Site, during registration and when you participate in surveys or contest may include, without limitation, any of the following: your full name, street address, e-mail address, password, date of birth, ethnicity, and gender. In addition, we may request information about your use of, or interest in, the types of products and services offered by the third party sellers with whom we have partnered to offer you the products and services available at the Site.
+
+Email communication may come from SurveyClub.com, SurveyClubMarketing.com, and/or SurveyClubOffers.com. 
 
 Users may opt-out of receiving future mailings; see the opt-out/modify section below.
 
-**Information Dissemination**
+**Information Dissemination and Use**
 
-We may use the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via email. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
+All information SurveyClub collects, as described above, is used to tailor our content and help our advertisers and partners understand the demographic breakdown of SurveyClub’s members. These practices are essential to keep SurveyClub’s membership free. All personally identifiable information submitted to SurveyClub remains your property, however, all information you submit to SurveyClub grants SurveyClub the right to use that information as set forth herein. Without limitation, Survey Club may user your personal information, within and subject to state and federal law, for legal purposes to: (a) bring selected market research, retail, and other opportunities and promotional offers to you via direct mail marketing, e-mail marketing, telemarketing and/or online banner advertising; (b) when responding to offers and opportunities provided by SurveyClub or when necessary and; (d) for validation, suppression, content improvement and feedback purposes. SurveyClub uses the information you provide to provide you free information and personalized content about products and services that may be of interest to you. Additionally, we use contact information collected from our Site to send you information about the company, to keep you informed of products and services that may be of interest to you, and to notify you of changes to this policy or changes/improvements to the site itself. In addition, you agree that we may contact you with updates and/or any other information that we may deem appropriate for you to receive in connection with your account and/or the Site. We also use this information to personalize your experience with SurveyClub. Contact information is also used to reach you, when necessary, regarding the use of our Site, products and/or services. None of the personal information collected will be sold or distributed to third party companies except on an aggregate basis to help our advertisers and partners understand the demographic breakdown of SurveyClub’s members or if required by law. 
 
 **Links to Other Sites**
 
@@ -46,11 +48,12 @@ This web site has security measures in place to protect against loss, misuse and
 
 **Opt-Out/Modify**
 
-SurveyClub.com provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in any of the following ways:
+SurveyClub.com provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may contact us to do so in any of the following ways:
 
 1\. Email: [support@surveyclub.com](mailto:support@surveyclub.com)  
 2\. Website: [contact](http://surveyclub.helpserve.com/)  
-3\. Postal Mail: 1675 Larimer Street, Suite 640, Denver, CO 80202 USA
+3\. Postal Mail: 1675 Larimer Street, Suite 640, Denver, CO 80202 USA  
+4\. Phone: 303-895-3614
 
 If you're a SurveyClub member and you simply wish to cancel your account, you are encouraged to visit our [Account Cancellation](https://web.archive.org/misc/CancelAccount.aspx) page. Upon entering your User ID and Password your account - and all information we have on file for you - will be instantly and permanently deleted from SurveyClub.
 
@@ -58,4 +61,4 @@ If you're a SurveyClub member and you simply wish to cancel your account, you ar
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
 
-This Privacy Policy was last updated May 26, 2010.
+This Privacy Policy was last updated August 18, 2011.
