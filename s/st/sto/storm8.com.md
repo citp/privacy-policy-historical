@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storm8.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104024704id_/http%3A//www.storm8.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storm8.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217064629id_/http%3A//www.storm8.com/privacy) for the most accurate reproduction.*
 
 # 
 
