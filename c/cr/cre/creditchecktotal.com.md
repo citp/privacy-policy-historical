@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditchecktotal.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629154724id_/http%3A//www.creditchecktotal.com/Message.aspx%3FPageTypeID%3DPrivacy%26WT.svl%3Dprivacy%26SiteVersionID%3D752%26SiteID%3D100244%26sc%3D668269%26bcd%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditchecktotal.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217214047id_/http%3A//www.creditchecktotal.com/Message.aspx%3FPageTypeID%3DPrivacy%26WT.svl%3Dprivacy%26SiteVersionID%3D752%26SiteID%3D100244%26sc%3D668269%26bcd%3D) for the most accurate reproduction.*
 
 # CreditCheck(R) Total
 
