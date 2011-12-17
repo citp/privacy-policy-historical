@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615142600id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starpulse.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217063321id_/http%3A//www.starpulse.com/Company/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Starpulse.com
 
 Starpulse.com created this Privacy Statement to demonstrate our commitment to Internet users privacy. The following policy discloses Starpulse.com's information collecting, use, and disclosure practices for our Web site. Our employees are required to follow our privacy policies. Those employees who violate our privacy policies are subject to disciplinary measures up to and including termination. 
 
-Starpulse.com reserves the right to revise this Privacy Statement at any time at our discretion. Changes to our Privacy Statement will become effective upon posting to our Web site. Starpulse.com will endeavor to notify current registered users of our services of changes in our Privacy Statement by sending an e-mail to their last known e-mail address. Changes with respect to current registered users will become effective upon transmission of the e-mail notifying them of such statement. 
+Starpulse.com reserves the right to revise this Privacy Statement at any time at our discretion. Changes to our Privacy Statement will become effective upon posting to our Web site. Starpulse.com will endeavor to notify current registered users of our services of changes in our Privacy Statement by sending a private message using the Starpulse.com private message system. Changes with respect to current registered users will become effective upon transmission of the message notifying them of such statement. 
 
 Starpulse.com collects different types of information in connection with the rendering of our services and the administration of our Web site. Starpulse.com will not voluntarily disclose or sell any information gathered about our users (Personal Information) to third parties for solicitation or other reasons unless you consent, and except as otherwise provided below. 
 
@@ -12,7 +12,11 @@ Starpulse.com may from time to time approach its users regarding product, servic
 
 Our additional practices and policies with respect to our collection and usage practices are addressed as follows: 
 
-**Online Surveys/Polls** \- From time to time, Starpulse.com Users may answer online surveys through the Starpulse.com Web site. Our online surveys may ask visitors for contact information (such as their e-mail address). Our surveys are designed to obtain broad demographic information regarding our services and the desires and concerns of our customers and visitors. **Contests** \- From time to time, Starpulse.com Users may participate in contests through the Starpulse.com Web site. Starpulse.com runs contests on our site in which Starpulse.com may ask visitors for contact information (such as their e-mail address) and demographic information (such as their zip code, age, or income level). 
+**Public Comment System and Community Features** \- Starpulse.com may use third-party contributors and partners or connect directly to social networks to enhance the user's experience. To allow this, it is sometimes necessary for us to provide non-public user profile information to certain third-party contributors and partners.
+
+**Online Surveys/Polls** \- From time to time, Starpulse.com Users may answer online surveys through the Starpulse.com Web site. Our online surveys may ask visitors for contact information (such as their e-mail address). Our surveys are designed to obtain broad demographic information regarding our services and the desires and concerns of our customers and visitors.
+
+**Contests** \- From time to time, Starpulse.com Users may participate in contests through the Starpulse.com Web site. Starpulse.com runs contests on our site in which Starpulse.com may ask visitors for contact information (such as their e-mail address) and demographic information (such as their zip code, age, or income level). 
 
 **Outside Ad Company** \- Starpulse.com may use an outside advertising or marketing company to display ads on our site. These ads may contain cookies. While Starpulse.com use cookies in other parts of our Web site, cookies received with banner, or text ads are collected by our marketing company, and Starpulse.com does not have access to this information. (For more information on our use of cookies, see the Cookies section below.) In addition, our site may contain links to other Web sites. Starpulse.com does not endorse and are not responsible for the content of third-party Web sites accessed through our site or for any privacy practices with respect to such sites. 
 
@@ -36,8 +40,10 @@ Only those employees of Starpulse.com who require access to data concerning User
 
 **International Information** \- Personal data that you have voluntarily entered is delivered electronically to servers located in the United States. By using Starpulse.com, you consent to the transfer of this data and to Starpulse.com's use of such data as outlined in this policy. 
 
-**Users Consent** \- Users consent to the collection and use of their information as described herein. Users will be notified by e-mail in the event of any fundamental changes to the uses of information that are described herein. **Data Quality and Access** \- In accordance with the Fair Information Practices defined by the U.S. government, Starpulse.com encourages Users to correct any inaccuracies in personal information that has been previously provided to the Web site. Users may correct or update their information by sending an e-mail to feedback@starpulse.com. 
+**Users Consent** \- Users consent to the collection and use of their information as described herein. Users will be notified by e-mail in the event of any fundamental changes to the uses of information that are described herein.
+
+**Data Quality and Access** \- In accordance with the Fair Information Practices defined by the U.S. government, Starpulse.com encourages Users to correct any inaccuracies in personal information that has been previously provided to the Web site. Users may correct or update their information by sending an e-mail to feedback@starpulse.com. 
 
 **Feedback** \- Users may provide feedback (e.g., input and suggestions) to Starpulse.com regarding the Starpulse.com Web site. Users providing feedback must provide their name and e-mail address. Any contact information entered when providing feedback will only be used to acknowledge or respond to that feedback. 
 
-If you have any questions regarding our Privacy Statement and policies or your dealings with our Web site, please [contact us](https://web.archive.org/web/20110615142600id_/http%3A//www.starpulse.com/Company/contact.html)
+If you have any questions regarding our Privacy Statement and policies or your dealings with our Web site, please [contact us](https://web.archive.org/web/20111217063321id_/http%3A//www.starpulse.com/Company/contact.html)
