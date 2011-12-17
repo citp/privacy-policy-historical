@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the everymantravel.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007091957id_/http%3A//www.everymantravel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everymantravel.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217063328id_/http%3A//www.everymantravel.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Everyman Travel
 
-### Last Updated: Jan 15, 2009
+### Last Updated: March 29, 2011
 
 _Generally EverymanTravel.com ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII")._
 
-_EverymanTravel.com is owned by ValueClick Publishing (a division of ValueClick, Inc.). For EverymanTravel.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us._
+_EverymanTravel.com is owned by ValueClick Brands, Inc. (a division of ValueClick, Inc.). For EverymanTravel.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us._
 
 ## What does this Privacy Policy cover?
 
@@ -16,7 +16,7 @@ Please be aware that, as part of the service provided by this Site, we may provi
 
 ## What information does EverymanTravel.com collect and how is it used? Does EverymanTravel.com disclose information to third parties? 
 
-We may collect any or all of the following three types of information: (i) traffic or clickstream data, or (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"). Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of ValueClick Publishing (a division of ValueClick, Inc.). 
+We may collect any or all of the following three types of information: (i) traffic or clickstream data, or (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"). Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of ValueClick Brands, Inc. (a division of ValueClick, Inc.). 
 
 **(a) Traffic or Clickstream Data ("Clickstream Data").** Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and ValueClick Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and ValueClick Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or ValueClick Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services. 
 
@@ -24,7 +24,7 @@ We may collect any or all of the following three types of information: (i) traff
 
 There are two classes of Cookies based on how long they remain on your system: (i) "Session Cookies" may be used only during your visit to the Site and are erased once you close your browser, and (ii) "Persistent Cookies" (if applicable) remain on your browser for one (1) year from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site. 
 
-There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer. 
+There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer. Most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of your browser and browser add-ons for more information. 
 
 A useful resource on understanding Cookies may be found at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
@@ -42,9 +42,7 @@ We may find it necessary or be legally obligated to update this Privacy Policy f
 
 If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows: 
 
-Business and Legal Affairs   
-EverymanTravel.com/ValueClick Inc.   
-30699 Russell Ranch Road  
-Suite 250  
-Westlake Village, CA 91362  
-E-Mail: [privacy@valueclick.com ](mailto:privacy@valueclick.com)
+EverymanTravel.com  
+PO Box 168  
+Monrovia, CA 91017  
+E-Mail: [contact us](https://web.archive.org/contact.html)
