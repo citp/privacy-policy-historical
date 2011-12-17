@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615111058id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencast.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217061840id_/http%3A//www.screencast.com/privacy.aspx) for the most accurate reproduction.*
 
 # TechSmith | Screencast.com, online video sharing, Privacy Policy
 
@@ -80,7 +80,7 @@ As our website evolves over time or our data handling policies change, we will u
 
 If you are logging on from outside the United States, the personal information you submit to TechSmith will be sent to and stored in servers in our U.S. headquarters in Okemos, Michigan, U.S.A. The personal information practices set out in this Privacy Policy apply to SCREENCAST.COM services, and customers worldwide.
 
-If you are in the European Union and you choose to purchase the TechSmith Screencast.com services, please be aware that payment for such services will be handled by [asknet AG](http://www.asknet.com/). The following data may be turned over to this company solely for the purpose of processing the payment transaction: your name, credit card number or account, and amount to be charged. You have a right to access and correct such data. To exercise these rights, or for other data privacy questions, please contact us using the contact information set forth at the beginning of this policy. 
+If you are in the European Union and you choose to purchase the TechSmith Screencast.com services, please be aware that payment for such services will be handled by [Digital River](http://www.digitalriver.com/). The following data may be turned over to this company solely for the purpose of processing the payment transaction: your name, credit card number or account, and amount to be charged. You have a right to access and correct such data. To exercise these rights, or for other data privacy questions, please contact us using the contact information set forth at the beginning of this policy. 
 
 ### SPECIAL NOTE TO CHILDREN
 
