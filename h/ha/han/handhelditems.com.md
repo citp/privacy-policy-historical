@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117190802id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handhelditems.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217174728id_/http%3A//www.handhelditems.com/privacy.php) for the most accurate reproduction.*
 
 # HandHelditems.com Privacy Policy
 
@@ -13,7 +13,7 @@
 7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under Handhelditems.com control.   
 8\. How users can correct any inaccuracies in the information. 
 
-If users have questions or concerns regarding this statement, they should first contact our Customer Service Department by sales@Handhelditems.com.
+If users have questions or concerns regarding this statement, they should first contact our Customer Service Department by salesHandhelditems.com.
 
 **Information Collection and Use**
 
@@ -43,7 +43,10 @@ We use cookies to personalize the site for your ease of use. By setting a cookie
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
-This privacy statement covers the use of cookies byHandhelditems.com only and does not cover the use of cookies by any advertisers. 
+This privacy statement covers the use of cookies( byHandhelditems.com )only and does not cover the use of cookies by any advertisers. 
+
+**Third Party Cookies**   
+IGG Factory, Inc. and its advertisers may also use ad network providers and other service providers to help present customized content and advertisements on IGG Factory, Inc. and its sites. These providers may use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their content and advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. IGG Factory, Inc. may share certain non-personally identifiable information about you as a user (such as user age and zip code) with certain ad network and service providers to help them deliver more relevant content and advertisements through their networks. The use of cookies, web beacons, or similar technologies by ad network and content providers is subject to their own privacy policies, not that of IGG Factory, Inc.
 
 **Log Files**   
 Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
@@ -75,7 +78,7 @@ In the event Handhelditems.com goes through a business transition, such as a mer
 **Choice/Opt-out**   
 Our users are given the opportunity to ~Qopt-out~R of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ~Qopt-out~R mechanism so users who buy a product from us, but don~Rt want any marketing material, can keep their email address off of our lists.   
 Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at   
-sales@Handhelditems.com  
+salesHandhelditems.com  
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
 **Links**   
@@ -85,20 +88,20 @@ This Web site contains links to other sites. Please be aware that we, Handheldit
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users~R personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users~R personally identifiable information for any secondary purposes. 
 
 **Tell-A-Friend**   
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Handhelditems.com will automatically send the friend a one-time email inviting them to visit the site. Handhelditems.com does not store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Handhelditems.com at sales@Handhelditems.com to request the removal of this information from our database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Handhelditems.com will automatically send the friend a one-time email inviting them to visit the site. Handhelditems.com does not store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Handhelditems.com at salesHandhelditems.com to request the removal of this information from our database. 
 
 **Security**   
 This Web site takes every precaution to protect our users~R information. When users submit sensitive information via the Web site, their information is protected both online and off-line.   
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just surfing.  
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users~R information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every [quarter], as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users~R information is protected. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.   
-If users have any questions about the security at our Web site, users can send an email to sales@Handhelditems.com
+If users have any questions about the security at our Web site, users can send an email to salesHandhelditems.com
 
 **Supplementation of Information**
 
 In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources. 
 
 **Correcting / Updating / Deleting / Deactivating Personal Information**   
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at sales@Handhelditems.com Or, log in to your account on our website to change it yourself or contact us by telephone or postal mail at the contact information listed below. 
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done at the [member information page] or by emailing our Customer Support at salesHandhelditems.com Or, log in to your account on our website to change it yourself or contact us by telephone or postal mail at the contact information listed below. 
 
 **Notification of Changes**   
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   
@@ -108,7 +111,7 @@ If, however, we are going to use users' personally identifiable information in a
 If users have any questions or suggestions regarding our privacy policy, please contact us at: 
 
 Phone : 909-595-3326  
-Email : sales@Handhelditems.com  
+Email : salesHandhelditems.com  
 Postal Address   
 1211 John Reed Court  
 City of Industry, California 91745  
