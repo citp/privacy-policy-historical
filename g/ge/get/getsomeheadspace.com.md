@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getsomeheadspace.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820005711id_/http%3A//www.getsomeheadspace.com/Privacy-policy%23Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsomeheadspace.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217070936id_/http%3A//www.getsomeheadspace.com/Privacy-policy%23Privacy-Policy) for the most accurate reproduction.*
 
-# Headspace : Privacy Policy
+# Headspace : Meditation and Mindfulness. Meditate, be mindful. Learn How To Meditate with Headspace.
 
 ## headspace meditation limited   
 company no. 07094561 trading as ‘headspace’
@@ -218,7 +218,7 @@ Writing or written: includes e-mail.
 
 This acceptable use policy sets out the terms between you and us under which you may access our website www.getsomeheadspace.com (our site). This acceptable use policy applies to all users of, and visitors to, our site.
 
-Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our [terms of website use](https://web.archive.org/web/20100820005711id_/http%3A//www.getsomeheadspace.com/terms).
+Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our [terms of website use](https://web.archive.org/web/20111217070936id_/http%3A//www.getsomeheadspace.com/terms?phpMyAdmin=vYuhmDj-DJcPS0VhBp501ERi3eb).
 
 [www.getsomeheadspace.com](http://www.getsomeheadspace.com/) is a site operated by Headspace Meditation Limited („We“ or „Us“). We are registered in England and Wales under company number 07094561 and have our registered office at Unit 73, 135 Sherpherdess Walk, London, N1 7RR . Our main trading address is 1 Hamilton Mews, Mayfair, London, W1J 7HA]. Our VAT number is 984592170.
 
@@ -239,7 +239,7 @@ You may use our site only for lawful purposes. You may not use our site:
 
 You also agree:
 
-  * Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our [terms of website use](https://web.archive.org/web/20100820005711id_/http%3A//www.getsomeheadspace.com/terms).
+  * Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our [terms of website use](https://web.archive.org/web/20111217070936id_/http%3A//www.getsomeheadspace.com/terms?phpMyAdmin=vYuhmDj-DJcPS0VhBp501ERi3eb).
   * Not to access without authority, interfere with, damage or disrupt:
   * any part of our site;
   * any equipment or network on which our site is stored;
@@ -305,7 +305,7 @@ Contributions must not:
 
 We will determine, in our discretion, whether there has been a breach of this acceptable use policy through your use of our site. When a breach of this policy has occurred, we may take such action as we deem appropriate.
 
-Failure to comply with this acceptable use policy constitutes a material breach of the [terms of use](https://web.archive.org/web/20100820005711id_/http%3A//www.getsomeheadspace.com/terms) upon which you are permitted to use our site, and may result in our taking all or any of the following actions:
+Failure to comply with this acceptable use policy constitutes a material breach of the [terms of use](https://web.archive.org/web/20111217070936id_/http%3A//www.getsomeheadspace.com/terms?phpMyAdmin=vYuhmDj-DJcPS0VhBp501ERi3eb) upon which you are permitted to use our site, and may result in our taking all or any of the following actions:
 
   * Immediate, temporary or permanent withdrawal of your right to use our site.
   * Immediate, temporary or permanent removal of any posting or material uploaded by you to our site.
