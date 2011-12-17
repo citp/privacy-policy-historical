@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aquent.us privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618015744id_/http%3A//aquent.us/services/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.us privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217171618id_/http%3A//aquent.us/services/privacy.htm) for the most accurate reproduction.*
 
-# Aquent : Privacy Policy
+# Privacy Policy : Aquent
 
 **Please read this Privacy Policy carefully. When you submit your Personal Data to Aquent via and by using the Websites and Aquent services, you are giving your consent to the use of your Personal Data in the manner described in this Privacy Policy and to the transfer of Personal Data outside the European Economic Area (“EEA”) to a country or territory whose laws may not provide adequate levels of protection to Personal Data.**
 
@@ -52,7 +52,7 @@ In disclosing Personal Data in any of the circumstances described above, Aquent 
 
 When hiring employees Aquent must collect and transfer Personal Data in order to comply with statutes, rules and regulations pertaining to employment. It is necessary for Aquent to collect, store and in some cases transfer personal data to third parties such as payroll service companies, health insurance organizations or government agencies as required by law. Any such transfers will be solely for the purposes of fulfilling Aquent’s obligations to its employees, such as payroll and insurance. Concerned individuals may withhold consent to such transfers and will be informed of the impact such opt-out will have on their employment within Aquent (ex. inability to process benefits or payroll data in a timely or appropriate fashion).
 
-Individuals may “opt out” of having their Personal Data used in Aquent promotions by emailing [unsubscribe@aquent.com](mailto:unsubscribe@aquent.com).
+Individuals may “opt out” of having their Personal Data used in Aquent promotions by clicking [here](http://forms.aquent.com/manage/subscription/unsubscribe).
 
 ## Data Integrity
 
