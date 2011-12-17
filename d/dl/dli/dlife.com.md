@@ -1,48 +1,84 @@
-> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214131817id_/http%3A//www.dlife.com/diabetes/information/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217060654id_/http%3A//www.dlife.com/diabetes/information/policy/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - dLife.com - For Your Diabetes Life
+# dLife Privacy Policy
 
-  
-www.dlife.com  
-  
-Welcome www.dlife.com (collectively the "Website") operated by or on behalf of LifeMed Media, Inc., a Delaware corporation located at 101 Franklin Street, Westport, CT 06880 ("dLife", "we", "our", or "us"). This privacy policy is intended to inform you about how your personally identifiable information ("PII") and other information is collected and used by us in operating the Website. 
+dLife values the privacy of all of our users. We take very seriously the need to respect and protect your privacy and the security of the information you share with us. This privacy policy is intended to inform you about how your personally identifiable information ("PII") and other information is collected on dLife ([www.dLife.com](http://www.dlife.com/) and [MyDiabetesOffers.com](https://mydiabetesoffers.dlife.com/)) and used by us in operating the Website.
 
-How does the Website work?   
-  
-The Website offers visitors ("you" or "your") the opportunity to browse the Website and use certain features on the Website. By using the Website, you consent to the collection and use of your PII by dLife as described herein. dLife reserves the right to change how we handle the information we collect through the Website at any time. We will update this privacy policy to reflect any changes in our privacy collection and handling practices, and will indicate that changes to this privacy policy have been made by listing a new date under “Last Modified” at the end of this privacy policy. Such changes will take effect immediately once they are posted to the Website. 
+This privacy policy applies only to information collected online through the site and does not apply to the practices of companies that dLife does not own or control. Please note that we supply content to other websites who promote our products. You will always know when dLife is collecting your information, as our privacy policy will be linked from that page. This information is not shared with any third party Web Sites. Please read this Policy carefully. Should any questions arise about this Policy or our data collection, use or disclosure practices, please contact us in any of the ways listed at the end of this Policy.
 
-What type of PII does dLife collect from you and how do we use it?   
-  
-dLife does not require you to provide us with any PII in order to use the Website. Unless you provide PII to dLife through the Website, we will not collect any PII from you. However, in order to sign-up for newsletters, participate in sweepstakes and participate in certain features like message boards and other chat features, you will need to provide certain PII to us. We will share your PII with our service providers who assist us in fulfilling requests made by you. 
+dLife has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy if you are not satisfied with our response you can contact TRUSTe here.
 
-We also may share your PII with third parties for direct marketing and other purposes, and you acknowledge that the handling of your PII by such third parties will not be governed by the terms of this Privacy Policy. If you would rather us not share your PII with any third party for direct marketing purposes, please either (1) do not submit PII to us or (2) indicate your desire for us not to share your PII with third parties for direct marketing purposes (an “Opt-Out Request”)as follows: (i) click on the “My Profile” tab, (ii) select the “Edit MY Profile” link, and (iii) uncheck the checkbox that says “Yes! I would like to opt in for information from dLife partners” under the heading “dLife Offers and Promotions”. Please note that it may take several weeks for us to comply with your Opt-Out Request, and until we are able to comply with such request we may continue to use your PII as described in this Privacy Policy. Please note that after receiving your Opt-Out Request, we may continue to maintain your name and other PII to help us ensure that we can honor such request, to communicate to you about your account, and for other purposes not related to direct marketing. 
+The TRUSTe program does not cover information that may be collected through mobile applications.
 
-Please note that if we receive your Opt-Out Request after having shared your PII with a third party for direct marketing purposes or having otherwise transferred or disposed of your PII, we may not have the ability to control the use of such PII by any third party, and in such an event you agree that we shall not be responsible or liable, directly or indirectly, for any damages or loss caused or alleged to be caused by or in connection with the use of such PII by any such third party or resulting from any such transfer or disposition. If you are concerned about us sharing your PII with third parties or otherwise transferring or disposing your PII, you should not provide your PII to us.
+**How our site works**  
+dLife offers visitors the opportunity to browse the Website and use certain features on the Website. By using the Website, you consent to the collection and use of your PII by dLife as described herein. We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-We take no responsibility for PII that you post to publicly viewable portions of the Website (like message boards). Please think carefully before posting any PII to such parts of the Website.
+**How we collect and use your Personally Identifiable Information**  
+dLife does not require you to provide us with any PII in order to use the Website. Unless you provide PII to dLife through the Website, we will not collect any PII from you. However, in order to sign-up for newsletters, qualify for offers from marketing partners, participate in sweepstakes and participate in certain features like message boards and other chat features, you will need to provide certain PII to us (for example; your name, physical address, email address, date of birth, personal health information). We use this data to tailor your site experience, display relevant content, and display the content according to your preferences. dLife also tracks and collects aggregate behavioral information regarding how visitors use our sites, the areas of our site that are visited, geolocation, browser operating system, domain names, access times and referring web site addresses. This information is used for analyzing the use of our resources, troubleshooting problems, preventing fraud, and improving our services. We may use information collected in numerous ways, including but not limited to:
 
-We will also release your PII to third parties if we believe the release of such information is necessary (i) to comply with the law (e.g. a legal process or a statutory authorization), (ii) to protect or enforce our rights, or (iii) as part of a reorganization, consolidation, merger, or transfer of substantially all of the assets of dLife. 
+  * Targeted and relevant advertising
+  * Providing personalized information via electronic delivery and/or postal mail
+  * Providing general and administrative information about membership
+  * Feedback on editorial, marketing, and promotional purposes
+  * Targeting advertising messages to visitors using dLife third party technology partners once visitors leave dLife.com
+  * To information you of other services or websites available from dLife or its affiliates
+  * Providing contact information to dLife marketing partners that you have explicitly authorized us to share your information with, and whose offers you have elected to receive via electronic delivery, telemarketing and direct mail
+  * Contacting visitors about account status and changes to the Terms and Conditions, Privacy Statement, Terms of Use and other policies and agreements
 
-What other information does dLife collect?   
-  
-We also may collect anonymous and aggregate information from you about your preferences in navigating the Website by using cookies, action tags and other methods. Cookies are small text files that identify your computer. We may use cookies to, among other things, monitor Website usage, customize Website features, identify your computer's operating system and browser, and complete transactions. An action tag is a small, graphic image on a webpage that is designed to allow a website owner or a third party to monitor who is visiting a website by collecting the IP address of the computer to which the tag is sent, the URL of the webpage that the tag comes from and the time that such webpage was viewed. Tags may be associated with cookie information. We may also use such non-PII for promotional purposes. 
+
+
+You may choose to stop receiving our newsletter or marketing email by following the unsubscribe instructions included in these emails or you can contact us at
+
+Visitors who have provided personally identifiable information may elect to have their data deactivated from our files, or kept from being used for purposes other than the service requested, by following the instructions described in the “Contact Us” section of this policy. If you elect to have your data deactivated from our files this will compromise your future ability to log into dLife.com.
+
+Once you have registered we give you the option to create a profile with more detailed information. Please be aware that any information you select to include in your profile will be publicly available to other users of the site and other users may contact you with unsolicited messages. dLife is not responsible for the personal information that you select to include in your public profile. You may at anytime change your privacy settings by logging into your account and choosing My Profile, and then choose My Settings. We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities (e.g., to provide email newsletters). These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+**Customer Testimonials/Comments/Reviews**  
+We post customer testimonials/comments/reviews on our Website, which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+
+**Advertising**  
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp "NAI"). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+**Content and Advertising**  
+dLife content is not influenced by advertisements or any other commercial influence.
+
+**Legal Disclosure**  
+We will also release your PII to third parties if we believe the release of such information is necessary (i) to comply with the law (e.g. a legal process or a statutory authorization), (ii) to protect or enforce our rights, or (iii) as part of a reorganization, consolidation, merger, or transfer of substantially all of the assets of dLife.
+
+**Surveys or Contests**  
+From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
+
+**Updating/Accessing/Amending/Correcting Personally Identifiable Information**  
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at [privacy_items@dlife.com](mailto:privacy_items@dlife.com). 
+
+Please note that users cannot update or delete previously submitted information on [mydiabetesoffers.dlife.com](https://mydiabetesoffers.dlife.com/). If your information (such as your email address) should change, we ask that you re-submit a registration form or request.
+
+**Cookies and other tracking technologies**  
+We also may collect anonymous and aggregate information from you about your preferences in navigating the Website by using cookies, action tags, and other methods. Cookies are small text files that identify your computer. We may use cookies to, among other things, monitor Website usage, customize Website features, and identify your computer's operating system and browser, and complete transactions. An action tag is a small, graphic image on a webpage that is designed to allow a website owner or a third party to monitor who is visiting a website by collecting the IP address of the computer to which the tag is sent, the URL of the webpage that the tag comes from and the time that such webpage was viewed. Tags may be associated with cookie information. We may also use such non-PII for promotional purposes.
 
 If you do not want us to track such non-PII about you, you can set your browser to warn you before accepting cookies and refuse cookies when your browser alerts you to their presence. You can also adjust the settings in your browser to refuse all cookies. Please keep in mind that if you make such adjustments, you may not be able to use certain features of the Website.
 
-How is PII protected?
+**Web beacons**  
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns
 
-We care about the safety and security of your PII. While we take commercially reasonable precautions to safeguard PII provided to us, we cannot guarantee that such information will not be lost, disclosed or accessed by accidental circumstances or by the unauthorized acts of others. 
+**Security**  
+We care about the safety and security of your PII. We use industry-standard technology to keep your personal information and information you have entered into our site as secure as possible. We have also put in place privacy protection control systems designed to ensure that your personal data remains safe and private. When you enter sensitive information (Personal Health Information) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-Does dLife provide links to other websites?
+Please note that dLife will never request your personal information by sending e-mails. We only collect such information on our website. If you receive an e-mail solicitation purporting to be from us, please do not respond to it. Instead, please contact us immediately at [privacy_items@dlife.com](mailto:privacy_items@dlife.com).
 
-dLife may provide links to other websites or resources of possible interest to you. Because we do not control unaffiliated websites to which we provide links, the collection and use of your PII and other information by such websites shall be subject to the policies and procedures of such websites and not this privacy policy. 
+**Data Retention**  
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy_items@dlife.com](mailto:privacy_items@dlife.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-What are our policies regarding children?
+**Children**  
+dLife does not knowingly collect PII from anyone under thirteen (13) years of age.
 
-dLife does not knowingly collect PII from anyone under thirteen (13) years of age. 
+**Links to other Web Sites**  
+dLife may provide links to other websites or resources of possible interest to you. Because we do not control unaffiliated websites to which we provide links, the collection and use of your PII and other information by such websites shall be subject to the policies and procedures of such websites and not this privacy policy.
 
-Do we have a mechanism to address questions and complaints about the handling of information that we collect?  
-  
-If you have questions or concerns about any of our information collection or handling practices, or if you wish to change or remove any PII provided to us, please contact us by e-mail at  or by postal mail at dLife, a LifeMed Media, Inc., 101 Franklin Street, Westport, CT 06880 ATTN: David Lee.
+**Contact us**  
+If you have questions or concerns about any of our information collection or handling practices, or if you wish to change or remove any PII provided to us, please contact us by e-mail at [privacy_items@dlife.com](mailto:privacy_items@dlife.com) or by postal mail at dLife, a LifeMed Media, Inc., 101 Franklin Street, Westport, CT 06880 ATTN: David Lee.
 
-User Agreement
+**User Agreement**  
+Your access to and use of the Site requires acceptance of dLife’s User agreement. Read more about our User Agreement [ here.](https://web.archive.org/diabetes/information/policy/forum.html)
