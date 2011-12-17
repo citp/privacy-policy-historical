@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniclips.biz privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630122355id_/http%3A//www.miniclip.com/games/en/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniclips.biz privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217040208id_/http%3A//www.miniclip.com/games/en/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Games at Miniclip.com - Play Free Online Games
 
@@ -34,7 +34,7 @@ Parents, if you would like to review your child's personal information, ask to h
 
 ### Changes to this Privacy Policy
 
-This Privacy Policy is part of Miniclip’s main Terms and Conditions which you agree to by accessing the Miniclip.com website and/or services. You agree that Miniclip may change this Privacy Policy and the main Miniclip Terms and Conditions at any time. Our current Privacy Policy will be posted here: <http://www.miniclip.com/games/en/privacy-policy.php> which is part of our Terms and Conditions posted here: <http://www.miniclip.com/games/en/terms-and-conditions.php>. Our contact email for questions is [support@miniclip.com](https://web.archive.org/web/20110630122355id_/http%3A//www.miniclip.com/games/en/support@miniclip.com).
+This Privacy Policy is part of Miniclip’s main Terms and Conditions which you agree to by accessing the Miniclip.com website and/or services. You agree that Miniclip may change this Privacy Policy and the main Miniclip Terms and Conditions at any time. Our current Privacy Policy will be posted here: <http://www.miniclip.com/games/en/privacy-policy.php> which is part of our Terms and Conditions posted here: <http://www.miniclip.com/games/en/terms-and-conditions.php>. Our contact email for questions is [support@miniclip.com](https://web.archive.org/web/20111217040208id_/http%3A//www.miniclip.com/games/en/support@miniclip.com).
 
 ### Internet Safety
 
