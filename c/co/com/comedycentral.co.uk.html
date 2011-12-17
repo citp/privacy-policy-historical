@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comedycentral.co.uk privacy policy that was archived on 2011-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618142535id_/http%3A//www.comedycentral.co.uk/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comedycentral.co.uk privacy policy that was archived on 2011-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111217230009id_/http%3A//www.comedycentral.co.uk/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-uk" xml:lang="en-uk"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,7 +19,7 @@ window.onerror = handleError;
 <script type="text/javascript" src="/scripts/jquery/jquery-1.4.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery/jquery.cookies.2.2.0.min.js"></script>
 <script type="text/javascript">
-/* <![CDATA[ */ var localHatTotal = 4;
+/* <![CDATA[ */ var localHatTotal = 2;
 var FluxCommentFocus = false;
 var adRegion = "US";
 /* ]]> */
@@ -73,12 +73,13 @@ jQuery(window).load(insertHatLink);
 <!-- Zone Start: Page[pageContainer] -->
 
 
-<body class="page2columns section_info abc_1" id="infobody">
+<body class="page2columns section_info  abc_1" id="infobody">
 <div id="pageWrapper">
 <div id="innerWrapper">
 <script type="text/javascript" src="http://widgetsak.flux.com/runtime.js"></script>
 <script type="text/javascript" src="http://widgetsak.flux.com/context.js?communityUcid=C3D9FFFF01A6276C0002FFFFD9C3&amp;disableCommunityCommonCss=on"></script>
 <script type="text/javascript" src="http://widgets3.flux.com/Loader" id="C3D9FFFF01A6276C0002FFFFD9C3"></script>
+<script src="http://widgets3.flux.com/context/short/C3D9FFFF01A6276C0002FFFFD9C3" type="text/javascript"></script>
 <script type="text/javascript">
 /* <![CDATA[ */ Flux.DataAccess.UrlBuilder.initialize({"contentUsage":"http://daapiak-mtv.flux.com/2.0/00001/Json/C3D9FFFF01A6276C0002FFFFD9C3/Feeds/Content/Usage?q=(permalink)","quickMenu":"http://daapiak-mtv.flux.com/2.0/00001/Json/C3D9FFFF01A6276C0002FFFFD9C3/UI/Menu/0(UserUcid)/QuickMenu","commentsByPermalink":"http://daapiak-mtv.flux.com/2.0/00001/Json/C3D9FFFF01A6276C0002FFFFD9C3/Feeds/Comments/-/(viewtype)?q=(permalink)&start-index=(startindex)&max-results=(maxresults)","commentsByUcid":"http://daapiak-mtv.flux.com/2.0/00001/Json/C3D9FFFF01A6276C0002FFFFD9C3/Feeds/Comments/0(ucid)/-/(viewtype)?start-index=(startindex)&max-results=(maxresults)","categories":"http://daapiak-mtv.flux.com/2.0/00001/Json/C3D9FFFF01A6276C0002FFFFD9C3/Feeds/Categories/(contenttype)?start-index=(startindex)&max-results=(maxresults)"});
 /* ]]> */
@@ -147,11 +148,34 @@ if (MTVNI.qsData.s_cid) params.campaign = MTVNI.qsData.s_cid;
 mtvn.btg.Controller.sendPageCall(params);
 var _demo = "null";
 var _age = 0;
+var _gender = '';
 try {
 if (Flux) {
-var _adFluxCheck = Flux.Context.isUserAuthenticated()? 1 : 0;
-if(_adFluxCheck == 1) {
-_age = Flux.Context.getCurrentUserSettings().UserAge;
+var _adFluxCheck = ( Flux.context.user != null );
+if( _adFluxCheck ) {
+_age = Flux.context.user.age;
+_gender = Flux.context.user.gender;
+if (_gender=='female') {
+if(_age == 6) {_demo = "lil";}
+else if(_age == 7) {_demo = "susie";}
+else if (_age == 8) {_demo = "kimi";}
+else if (_age == 9) {_demo = "angelica";}
+else if (_age == 10) {_demo = "didi";}
+else if (_age == 11) {_demo = "kira";}
+else if (_age == 12) {_demo = "betty";}
+else if (_age == 13) {_demo = "minka";}
+else if (_age == 14) {_demo = "hilary";}
+else if (_age == 15) {_demo = "barbara";}
+else if (_age == 16) {_demo = "jackie";}
+else if (_age == 17) {_demo = "rosalyn ";}
+else if (_age >= 18 && _age < 25) {_demo = "nancy";}
+else if (_age >= 25 && _age < 35) {_demo = "aly";}
+else if (_age >= 35 && _age < 45) {_demo = "kelly";}
+else if (_age >= 45 && _age < 55) {_demo = "amy";}
+else if (_age >= 55 && _age < 65) {_demo = "susan";}
+else if (_age >= 65) {_demo = "ruth";}
+else {_demo = "null";}
+} else {
 if(_age == 6) {_demo = "dil";}
 else if(_age == 7) {_demo = "tommy";}
 else if (_age == 8) {_demo = "phil";}
@@ -168,9 +192,10 @@ else if (_age >= 18 && _age < 25) {_demo = "ron";}
 else if (_age >= 25 && _age < 35) {_demo = "bryan";}
 else if (_age >= 35 && _age < 45) {_demo = "ed";}
 else if (_age >= 45 && _age < 55) {_demo = "dan";}
-else if (_age >= 55 && _age < 65) {_demo = "susan";}
-else if (_age >= 65) {_demo = "ruth";}
+else if (_age >= 55 && _age < 65) {_demo = "damon";}
+else if (_age >= 65) {_demo = "irving";}
 else {_demo = "null";}
+}
 }
 }
 else {var _adFluxCheck = 0;}
@@ -227,7 +252,7 @@ region:"US"
 
 
 
-<div class="flux-menu">
+<div class="flux-menu ">
 <script type="text/javascript">
 /* <![CDATA[ */ Flux.createWidget('QuickMenu',
 {
@@ -306,40 +331,40 @@ this.document.location = searchUrl;
 	</script>
 <!-- Zone End: HeaderUtilities[searchbox] -->
 <!-- Zone Start: HeaderUtilities[browsealpha] -->
-
-
 	;
 
-<p class="alpha-list">
-	<span class="alphaHeader">Browse Comedians</span>
-		<a href="/comedians/browse/a/" class="">A</a>
-		<a href="/comedians/browse/b/" class="">B</a>
-		<a href="/comedians/browse/c/" class="">C</a>
-		<a href="/comedians/browse/d/" class="">D</a>
-		<a href="/comedians/browse/e/" class="">E</a>
-		<a href="/comedians/browse/f/" class="">F</a>
-		<a href="/comedians/browse/g/" class="">G</a>
-		<a href="/comedians/browse/h/" class="">H</a>
-		<a href="/comedians/browse/i/" class="">I</a>
-		<a href="/comedians/browse/j/" class="">J</a>
-		<a href="/comedians/browse/k/" class="">K</a>
-		<a href="/comedians/browse/l/" class="">L</a>
-		<a href="/comedians/browse/m/" class="">M</a>
-		<a href="/comedians/browse/n/" class="">N</a>
-		<a href="/comedians/browse/o/" class="">O</a>
-		<a href="/comedians/browse/p/" class="">P</a>
-		<a href="/comedians/browse/q/" class="">Q</a>
-		<a href="/comedians/browse/r/" class="">R</a>
-		<a href="/comedians/browse/s/" class="">S</a>
-		<a href="/comedians/browse/t/" class="">T</a>
-		<a href="/comedians/browse/u/" class="">U</a>
-		<a href="/comedians/browse/v/" class="">V</a>
-		<a href="/comedians/browse/w/" class="">W</a>
-		<a href="/comedians/browse/x/" class="">X</a>
-		<a href="/comedians/browse/y/" class="">Y</a>
-		<a href="/comedians/browse/z/" class="">Z</a>
-	<a href="/comedians/browse/0/">#</a>
-</p><!-- Zone End: HeaderUtilities[browsealpha] -->
+
+	<p class="alpha-list">
+		<span class="alphaHeader">Browse Comedians</span>
+			<a href="/comedians/browse/a/" class="">A</a>
+			<a href="/comedians/browse/b/" class="">B</a>
+			<a href="/comedians/browse/c/" class="">C</a>
+			<a href="/comedians/browse/d/" class="">D</a>
+			<a href="/comedians/browse/e/" class="">E</a>
+			<a href="/comedians/browse/f/" class="">F</a>
+			<a href="/comedians/browse/g/" class="">G</a>
+			<a href="/comedians/browse/h/" class="">H</a>
+			<a href="/comedians/browse/i/" class="">I</a>
+			<a href="/comedians/browse/j/" class="">J</a>
+			<a href="/comedians/browse/k/" class="">K</a>
+			<a href="/comedians/browse/l/" class="">L</a>
+			<a href="/comedians/browse/m/" class="">M</a>
+			<a href="/comedians/browse/n/" class="">N</a>
+			<a href="/comedians/browse/o/" class="">O</a>
+			<a href="/comedians/browse/p/" class="">P</a>
+			<a href="/comedians/browse/q/" class="">Q</a>
+			<a href="/comedians/browse/r/" class="">R</a>
+			<a href="/comedians/browse/s/" class="">S</a>
+			<a href="/comedians/browse/t/" class="">T</a>
+			<a href="/comedians/browse/u/" class="">U</a>
+			<a href="/comedians/browse/v/" class="">V</a>
+			<a href="/comedians/browse/w/" class="">W</a>
+			<a href="/comedians/browse/x/" class="">X</a>
+			<a href="/comedians/browse/y/" class="">Y</a>
+			<a href="/comedians/browse/z/" class="">Z</a>
+		<a href="/comedians/browse/0/">#</a>
+	</p>
+<!-- Zone End: HeaderUtilities[browsealpha] -->
 <!-- Template End: HeaderUtilities Master null -->
 
 </div>
@@ -370,16 +395,16 @@ this.document.location = searchUrl;
 <ul>
 <li class="childnode"><a href="/shows/">Shows Main </a>
 <ul>
-<li class="childnode"><a href="/shows/two-and-a-half-men-season-8/">Two and a Half Men - Season 8</a></li>
-<li class="childnode"><a href="/shows/mike-and-molly/">Mike &amp; Molly</a></li>
+<li class="childnode"><a href="/shows/featured/friends/">Friends</a></li>
+<li class="childnode"><a href="/shows/two-and-a-half-men-season-9/">Two and a Half Men (NEW)</a></li>
+<li class="childnode"><a href="/shows/threesome/">Threesome</a></li>
 <li class="childnode"><a href="/shows/30-rock-season-05/">30 Rock (NEW)</a></li>
 <li class="childnode"><a href="/shows/the-office-season-6/">The Office (NEW)</a></li>
-<li class="childnode"><a href="/shows/dirty-sexy-funny-oliva-lee-season-2/">Dirty Sexy Funny: Olivia Lee (NEW)</a></li>
+<li class="childnode"><a href="/shows/mike-and-molly-season-02/">Mike &amp; Molly - Season 2</a></li>
+<li class="childnode"><a href="/shows/roast-of-charlie-sheen/">The Roast of Charlie Sheen</a></li>
 <li class="childnode"><a href="/shows/south-park-season-1/">South Park</a></li>
 <li class="childnode"><a href="/shows/scrubs-season-1/">Scrubs</a></li>
-<li class="childnode"><a href="/shows/michael-mcintyres-comedy-roadshow-season-1/">Michael McIntyre's Comedy Roadshow</a></li>
 <li class="childnode"><a href="/shows/sex-and-the-city-season-1/">Sex and the City</a></li>
-<li class="childnode"><a href="/shows/frasier/">Frasier</a></li>
 </ul>
 </li>
 <li class="childnode"><a href="/shows/browse/">Browse Shows</a></li>
@@ -391,22 +416,23 @@ this.document.location = searchUrl;
 <ul>
 <li class="childnode"><a href="/comedians/browse/a">Top Comedians</a>
 <ul>
-<li class="childnode"><a href="/comedians/michael-mcintyre">Michael McIntyre</a></li>
-<li class="childnode"><a href="/comedians/jim-jefferies">Jim Jefferies</a></li>
-<li class="childnode"><a href="/comedians/lee-evans">Lee Evans</a></li>
-<li class="childnode"><a href="/comedians/sean-lock">Sean Lock</a></li>
-<li class="childnode"><a href="/comedians/ed-byrne">Ed Byrne</a></li>
-<li class="childnode"><a href="/comedians/stewart-lee">Stewart Lee</a></li>
-<li class="childnode"><a href="/comedians/dara-o-briain">Dara O Briain</a></li>
-<li class="childnode"><a href="/comedians/robin-ince">Robin Ince</a></li>
-<li class="childnode"><a href="/comedians/josie-long">Josie Long</a></li>
-<li class="childnode"><a href="/comedians/peter-kay">Peter Kay</a></li>
+<li class="childnode"><a href="/comedians/peter-kay/">Peter Kay</a></li>
+<li class="childnode"><a href="/comedians/rufus-hound/">Rufus Hound</a></li>
+<li class="childnode"><a href="/comedians/stewart-lee/">Stewart Lee</a></li>
+<li class="childnode"><a href="/comedians/jim-jefferies/">Jim Jefferies</a></li>
+<li class="childnode"><a href="/comedians/michael-mcintyre/">Michael McIntyre</a></li>
+<li class="childnode"><a href="/comedians/lee-evans/">Lee Evans</a></li>
+<li class="childnode"><a href="/comedians/sean-lock/">Sean Lock</a></li>
+<li class="childnode"><a href="/comedians/dara-o-briain/">Dara O Briain</a></li>
+<li class="childnode"><a href="/comedians/josie-long/">Josie Long</a></li>
+<li class="childnode"><a href="/comedians/robin-ince/">Robin Ince</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li class="parentnode n_competition"><a href="/downloads">Downloads</a>
 <ul>
+<li class="childnode"><a href="/buy">Buy</a></li>
 <li class="childnode"><a href="/podcasts">Podcasts</a></li>
 </ul>
 </li>
@@ -573,6 +599,7 @@ region:"US"
 <dl class="footerLinks clearAfter">
 <dt>Our Shows: </dt>
 <dd>
+<a href="/shows/featured/friends/">Friends</a> |
 <a href="/shows/30-rock-season-04">30 Rock</a> |
 <a href="/shows/dirty-sexy-funny-oliva-lee-season-1">Dirty Sexy Funny: Olivia Lee</a> |
 <a href="/shows/frasier">Frasier</a> |
@@ -582,11 +609,14 @@ region:"US"
 <a href="/shows/michael-mcintyres-comedy-roadshow-season-1">Michael McIntyre's Comedy Roadshow</a> |
 <a href="/shows/mike-and-molly/">Mike &amp; Molly</a> |
 <a href="/shows/the-office-season-1">The Office</a> |
+<a href="/shows/roast-of-charlie-sheen/">The Roast of Charlie Sheen</a> |
+<a href="/podcasts">Robin &amp; Josie's Utter Shambles</a> |
 <a href="/shows/rules-of-engagement-season-1">Rules of Engagement</a> |
 <a href="/shows/samantha-who-season-1">Samantha Who?</a> |
 <a href="/shows/scrubs-season-1">Scrubs</a> |
 <a href="/shows/sex-and-the-city-season-1">Sex and the City</a> |
 <a href="/shows/south-park-season-1">South Park</a> |
+<a href="/shows/threesome">Threesome</a> |
 <a href="/shows/two-and-a-half-men-season-1">Two and a Half Men</a>
 </dd>
 </dl>
@@ -620,8 +650,15 @@ region:"US"
 </dd>
 </dl>
 <dl class="footerLinks clearAfter">
+<dt>We Support: </dt>
+<dd>
+<a href="/info/comedy-central-supports-youth-at-risk">Youth at Risk</a>
+</dd>
+</dl>
+<dl class="footerLinks clearAfter">
 <dt>Top Searches: </dt>
 <dd>
+<a href="/search/?query=threesome">Threesome</a> |
 <a href="/search/?query=south park">South Park</a> |
 <a href="/search/?query=Futurama">Futurama</a> |
 <a href="/search/?query=two and a half men">Two and a Half Men</a> |
@@ -647,13 +684,14 @@ region:"US"
 <dl class="footerLinks clearAfter">
 <dt>Most Popular: </dt>
 <dd>
-<a href="/shows/two-and-a-half-men-season-1">Two and a Half Men</a> |
+<a href="/shows/two-and-a-half-men-season-9">Two and a Half Men</a> |
+<a href="/podcasts">Podcasts</a> |
 <a href="/shows/browse/">Browse Shows</a> |
+<a href="/shows/featured/friends">Friends</a> |
 <a href="/info/downloads">Downloads</a> |
 <a href="/video">Videos</a> |
 <a href="/shows/dirty-sexy-funny-oliva-lee-season-1">Dirty Sexy Funny</a> |
-<a href="/where-are-they-now">Where are they now</a> |
-<a href="/shows/grouchy-young-men-season-1">Grouchy Young Men</a>
+<a href="/where-are-they-now">Where are they now</a>
 </dd>
 </dl>
 <dl class="footerLinks clearAfter">
