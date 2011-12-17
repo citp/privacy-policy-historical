@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the response-o-matic.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501113215id_/http%3A//www.response-o-matic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the response-o-matic.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217094606id_/http%3A//www.response-o-matic.com/privacy.html) for the most accurate reproduction.*
 
 # .: Response-o-matic :.
 
