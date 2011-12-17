@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mondinion.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619040404id_/http%3A//www.mondinion.com/International_Property/def/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondinion.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217110835id_/http%3A//www.mondinion.com/International_Property/def/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - International Real Estate at Mondinion.com, Free International Real Estate Listings & Global Property Portal
+# Privacy Policy - International Real Estate @ Mondinion.com & Global Property Listings
 
 ## Privacy Policy
 
@@ -33,6 +33,10 @@ Disclosure. We don't sell or rent users' personal information to third parties f
 * service providers who help with our business operations.
 
 If you submit a real estate for sale or real estate for rent classified ad all of the information except for your email address will be displayed for everyone to see (including the email address and other contact details you specify in your classified ad description).
+
+If you provide us your E-Mail Address you might receive controlled emails from our members, but you always have the chance to unsubscribe from these emails by clicking on one link which is present on every email you receive through us. Your E-Mail address will never be shared with or disclosed to other members unless:  
+* you respond to a listing  
+* you respond to an email you received from a member.
 
 If you make use of any section of our website that requires payment (ie: premium listings, or paid advertisements) we will collect the information necessary to conduct the transaction and that information may be shared with our vendors, contractors, etc only as necessary to complete the transaction. If you participate in a fraudulent transcation, attempt to, or abuse the services or network resources any and all information we have or can collect may be shared with anyone we feel is necessary to resolve the problem.
 
