@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618123931id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultdvdempire.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217235038id_/http%3A//www.dvdempire.com/Exec/Cust_Service/v4_index.asp%3Ftab%3D13%26site%3D1) for the most accurate reproduction.*
 
 # Adult DVD Empire -
 
@@ -83,7 +83,7 @@ Do not share your password with anyone. Other than requested on the Website, DVD
 
 **5\. How you can decide what marketing communication you receive from us**
 
-We may periodically send you email messages describing new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails from dvdempire.com, please click on [Your Account](https://web.archive.org/exec/cust_service/accounts/index.asp?userid=-1&site=1), log-in, go to “Account Section”, click on “Notification Options” and remove the check in the box next to the “Sales & Specials” notification option. You can also opt-out of receiving these messages by clicking the ‘Unsubscribe” link in the email message itself. 
+We may periodically send you email messages describing new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails from DVD Empire, please click on [Your Account](https://web.archive.org/exec/cust_service/accounts/index.asp?userid=-1&site=1), log-in, go to “Account Section”, click on “Notification Options” and remove the check in the box next to the “Sales & Specials” notification option. You can also opt-out of receiving these messages by clicking the ‘Unsubscribe” link in the email message itself. 
 
 The only email messages you will receive from DVD Empire when you elect not to receive informational emails will be to confirm any purchases you make on our site, let you know your order has been shipped, respond to your Help Desk inquiries and to answer any other questions you may have about our site. We may also need to send operational emails to inform you of any changes to our site that might affect your personal information, or to announce product recalls. 
 
@@ -109,4 +109,4 @@ If you have comments or questions regarding our privacy policy, please [Email Us
 
 Thank you for your support of our policies.  [Back to Top]
 
-Last updated: May 3, 2011 
+Last updated: November 16, 2011 
