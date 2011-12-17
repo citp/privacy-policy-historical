@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229090523id_/http%3A//www.donorschoose.org/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217175340id_/http%3A//www.donorschoose.org/help/privacy_policy.html) for the most accurate reproduction.*
 
 # DonorsChoose.org: Privacy Policy
 
@@ -19,7 +19,7 @@ DC exerts reasonable efforts to protect personal information received from users
 
 3.1 _General_. DC uses information for the following general purposes: to evaluate proposals to fund student projects, provide information regarding approved proposals to the Sites' visitors and potential donors, to customize the content and/or layout of the Sites for each individual user, to improve the content of our Sites, our services or programs, and to contact you. 
 
-3.2 _Contacting You_. By creating an account on a Site, you agree to receive emails based on transactional activity, which may include confirmation emails, receipts, acknowledgement messages, updates on proposals you've funded, or updates on teacher feedback. You can also sign up for extra email updates and news ("Extra Email Updates and News") from the Sites. You can unsubscribe from those Extra Email Updates and News at any time by contacting DC or logging into your Site account and adjusting your "Email Preferences" settings or by using the link found on the email message to unsubscribe. 
+3.2 _Contacting You_. By creating an account on a Site, you agree to receive emails based on transactional activity, which may include confirmation emails, receipts, acknowledgment messages, updates on proposals you've funded, or updates on teacher feedback. You can also sign up for extra email updates and news ("Extra Email Updates and News") from the Sites. You can unsubscribe from those Extra Email Updates and News at any time by contacting DC or logging into your Site account and adjusting your "Email Preferences" settings or by using the link found on the email message to unsubscribe. 
 
 Email addresses provided by users of the Sites will only be used to send email from or related to DC and its programs. DC strictly enforces e-mail privacy, and e-mail addresses are not sold, leased or bartered to or with any third parties. 
 
@@ -81,8 +81,7 @@ DonorsChoose.org
 Attn: Financial Operations   
 213 West 35th Street  
 2nd Floor East  
-New York, NY 10001e 503   
-New York, NY 10018 
+New York, NY 10001 
 
 The request should include your name, address, social security number, telephone number, and the recorded information to which you would like access or the specific information in dispute and the identity of the document or record that contains the disputed information. The request should state whether you would like access in person or a copy of the information sent to you by mail. Upon receipt of your request, we will contact you within thirty (30) business days to arrange providing you access in person or the copies that you have requested or to notify you either that we have made the correction, amendment or deletion or that we refuse to do so and the reasons for the refusal, which you will have an opportunity to challenge. 
 
