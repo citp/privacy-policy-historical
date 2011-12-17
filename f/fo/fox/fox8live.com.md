@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox8live.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024172011id_/http%3A//www.fox8live.com/sites/wvue/content/legal/PRIVACY_STATEMENT.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox8live.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217205420id_/http%3A//www.fox8live.com/sites/wvue/content/legal/PRIVACY_STATEMENT.pdf) for the most accurate reproduction.*
 
 # 
 
