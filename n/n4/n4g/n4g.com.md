@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n4g.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425164907id_/http%3A//n4g.com/site/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n4g.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218002515id_/http%3A//n4g.com/site/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | N4G
 
