@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608020311id_/http%3A//www.burke.com/About/index.cfm%3Fpri%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218094928id_/http%3A//www.burke.com/About/index.cfm%3Fpri%3D1) for the most accurate reproduction.*
 
-# Burke
+# 
 
-  
-Privacy Policy   
-  
+---  
   | 
 
 Founded in 1931, Burke is an international leader in decision support services. We are committed to quality, honesty, and integrity in all endeavors. 
@@ -13,22 +11,19 @@ As one of the founding members of the Council of American Survey Research Organi
 
 We place the same high value on the trust of the people who use our Web site. Therefore we want you to know what our policy is regarding information we obtain from you while you are visiting our site.   
   
-  
-Usage Information   
+## Usage Information   
   
   | 
 
 We use software-tracking packages to collect information about how you use our site. This includes what parts of the site you visit and how long your visits last. We use this information to make improvements to our site. These data are used only in aggregate and contains no personal identification information. We do not disclose, sell, trade or rent any information obtained in this way to outside parties. We may disclose certain aggregate data, such as the number of visitors in a given time period or the most frequently accessed pages, to others.   
   
-  
-Cookies   
+## Cookies  
   
   | 
 
 Like many companies, we use "cookie" technology on our site. These cookies may tell us whether you have visited our site before or are a new visitor and what material on our site you have viewed. The cookies we use do not collect any personal identification information or extract any information from your computer. The help option on most browser toolbars will tell you how to prevent your browser from accepting new cookies, or to have the browser notify you when you receive a new cookie or how to disable cookies all together.   
   
-  
-Children's privacy protection   
+## Children's privacy protection  
   
   | 
 
