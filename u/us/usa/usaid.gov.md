@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605181323id_/http%3A//www.usaid.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218155621id_/http%3A//www.usaid.gov/privacy.html) for the most accurate reproduction.*
 
 # USAID: Privacy and Security Information
 
@@ -113,7 +113,7 @@ USAID maintains a blog and profiles on several third-party social media sites. W
 
 While we encourage commenting and conversation on our social media profiles, please remember that they are a public forum and any information provided will be visible to the public. Please do not include personal details such as your telephone number, email address, or any other personal information that you do not want available to the general public. 
 
-While some Personally Identifying Information (PII) may become available to USAID through your use of social media (i.e. we can see your name and picture if you post a comment), we will not be collecting, sharing, or storing that information. 
+While some Personally Identifying Information (PII) may become available to USAID through your use of social media (i.e. we can see your name and picture if you post a [comment](https://web.archive.org/privacy/comment/)), we will not be collecting, sharing, or storing that information. 
 
 Our presence on social media sites is not intended to endorse, recommend, or favor any third-party company or service provider. 
 
