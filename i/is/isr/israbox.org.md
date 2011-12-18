@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the israbox.org privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227092218id_/http%3A//www.israbox.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the israbox.org privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218223500id_/http%3A//www.israbox.com/policy.html) for the most accurate reproduction.*
 
-# IsraBox.com - Privacy Policy :: download fast, rapidshare, megaupload, hotfile
+# IsraBox.com - Privacy Policy Filesonic, Hotfile, Rapidshare & Letitbit
 
 ### IsraBox.com - Privacy Policy
 
