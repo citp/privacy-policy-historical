@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaspersky.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228000731id_/http%3A//www.kaspersky.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.uk privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218222851id_/http%3A//www.kaspersky.co.uk/privacy) for the most accurate reproduction.*
 
 # Kaspersky Lab UK :: Antivirus software
 
