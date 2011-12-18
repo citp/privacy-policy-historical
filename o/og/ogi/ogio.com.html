@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ogio.com privacy policy that was archived on 2011-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110619215605id_/http%3A//ogio.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ogio.com privacy policy that was archived on 2011-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218015705id_/http%3A//ogio.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy</title>
@@ -12,6 +12,7 @@
 <link rel="stylesheet" type="text/css" href="http://ogio.com/skin/frontend/enterprise/ogio/css/ui-lightness/jquery-ui-1.8.10.custom.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://ogio.com/skin/frontend/enterprise/ogio/css/override.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://ogio.com/skin/frontend/enterprise/ogio/css/custom.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://ogio.com/skin/frontend/base/default/css/opt_in.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://ogio.com/skin/frontend/enterprise/default/css/print.css" media="print">
 <script type="text/javascript" src="http://ogio.com/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://ogio.com/js/lib/ccard.js"></script>
@@ -29,7 +30,10 @@
 <script type="text/javascript" src="http://ogio.com/skin/frontend/enterprise/default/js/jqzoom/jquery-1.3.1.min.js"></script>
 <script type="text/javascript" src="http://ogio.com/skin/frontend/enterprise/ogio/js/jquery.cycle.all.min.js"></script>
 <script type="text/javascript" src="http://ogio.com/skin/frontend/enterprise/ogio/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://ogio.com/skin/frontend/base/default/js/jquery.opt_in.js"></script>
+<script type="text/javascript" src="http://ogio.com/skin/frontend/enterprise/ogio/js/jquery-ui-1.8.10.custom.min.js"></script>
 <script type="text/javascript" src="http://ogio.com/skin/frontend/enterprise/default/js/scripts.js"></script>
+<script type="text/javascript" src="http://ogio.com/skin/frontend/base/default/js/referrers.js"></script>
 <script type="text/javascript" src="http://ogio.com/skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://ogio.com/skin/frontend/enterprise/default/css/styles-ie.css" media="all" />
@@ -51,27 +55,32 @@ Mage.Cookies.domain   = '.ogio.com';
 optionalZipCountries = [];
 //]]>
 </script>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<meta name="description" content="OGIO is an innovative designer of bags with unique styling that is infused with intelligent designs."><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class=" cms-page-view cms-privacy">
 
 <!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
 //<![CDATA[
+
+var _gaq = _gaq || [];
+
+
+	_gaq.push(function() {
+    // the global variable is created intentionally
+    pageTracker = _gat._createTracker('UA-3859129-1', 'myTracker');
+    pageTracker._trackPageview();
+    
+   	});
+
+
+
+
     (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
     })();
-
-    var _gaq = _gaq || [];
-
-_gaq.push(function() {
-    // the global variable is created intentionally
-    pageTracker = _gat._getTracker('UA-3859129-1');
-    pageTracker._trackPageview();
-});
-
-
+    
 //]]>
 </script>
 <!-- END GOOGLE ANALYTICS CODE --><div class="wrapper">
@@ -95,7 +104,7 @@ _gaq.push(function() {
 					
 		if(hash = window.location.hash){
 			if(hash == '#selected'){
-				$j.cookie('selected_region', "usa-international", { expires: 999 });
+				$j.cookie('selected_region', "usa-international", { expires: 999, path: "/" });
 			}
 		}
 		var selected_region = $j.cookie('selected_region');
@@ -104,10 +113,10 @@ _gaq.push(function() {
 			window.location.href = "http://ogio.ca/#canada";
 		}
 		$j('#flag_usa a').click(function() {
-			$j.cookie('selected_region', "usa-international", { expires: 999 });
+			$j.cookie('selected_region', "usa-international", { expires: 999, path: "/" });
 		});
 		$j('#flag_canada a').click(function() {
-			$j.cookie('selected_region', "canada", { expires: 999 }); 
+			$j.cookie('selected_region', "canada", { expires: 999, path: "/" }); 
 			window.location.href = "http://ogio.ca/#canada";
 			false;
 		});
@@ -118,7 +127,7 @@ _gaq.push(function() {
 	<ul class="links">
                         <li class="first"><a href="http://ogio.com/company/" title="Company">Company</a></li>
                                 <li><a href="http://ogio.com/team/" title="Friends of OGIO">Friends of OGIO</a></li>
-                                <li><a href="http://ogio.com/video/" title="Video">Video</a></li>
+                                <li><a href="http://ogio.com/videos/" title="Videos">Videos</a></li>
                                 <li class=" last"><a href="http://ogio.com/blog/" title="Reviews">Reviews</a></li>
             </ul>
 		<div id="country-selector">
@@ -128,7 +137,6 @@ _gaq.push(function() {
 			<li id="flag_canada"><a href="http://ogio.ca/#selected" title="Canada">Canada</a></li>
 		</ul>
 	</div>
-		<a href="http://ogio.com/ambassador-program/" title="OGIO Backpacks Golf Bags and Work Bags" id="ambassador-program">Ambassador Program</a>
 	
 </div>
 
@@ -139,7 +147,7 @@ _gaq.push(function() {
                     <a href="http://ogio.com/" title="OGIO Backpacks Golf Bags and Work Bags" class="logo"><strong>OGIO Backpacks Golf Bags and Work Bags</strong><img src="http://ogio.com/skin/frontend/enterprise/ogio/images/ogio_logo.png" alt="OGIO Backpacks Golf Bags and Work Bags"></a>
                     </div>
         <div class="quick-access">
-			            
+			            <!--{CART_SIDEBAR_32e79a17ed684c5b159ff524412dcb17}-->
 
 
 <div class="top-cart">
@@ -151,7 +159,7 @@ _gaq.push(function() {
         </ul>
     </div>
 </div>
-
+<!--/{CART_SIDEBAR_32e79a17ed684c5b159ff524412dcb17}-->
             <form id="search_mini_form" action="http://ogio.com/catalogsearch/result/" method="get">
 <div class="form-search">
     <label for="search">Search site:</label><input id="search" type="text" name="q" value="" class="input-text">&nbsp;<button type="submit" title="Go" class="button"><span><span>Go</span></span></button><a href="http://ogio.com/catalogsearch/advanced/">Advanced Search</a>
@@ -173,36 +181,36 @@ _gaq.push(function() {
 		<div class="phone-number">
 			<span>Need Help?</span> 800-922-1944
 		</div>
-        <div class="nav-container">
+        <!--{CATALOG_NAVIGATION_7a1ebdbee8ab5b5429882156051af191}--><div class="nav-container">
     <ul id="nav">
         <li class="level0 nav-1 level-top first parent">
-<a href="http://ogio.com/golf" class="level-top">
+<a href="http://ogio.com/golf-4" class="level-top">
 <span>Golf</span>
 </a>
 <ul class="level0">
 <li class="level1 nav-1-1 first">
-<a href="http://ogio.com/golf/ultralite">
+<a href="http://ogio.com/golf-4/ultralite">
 <span>Ultralite</span>
 </a>
 </li><li class="level1 nav-1-2">
-<a href="http://ogio.com/golf/mens-golf">
-<span>Men's</span>
+<a href="http://ogio.com/golf-4/stand-bags">
+<span>Stand Bags</span>
 </a>
 </li><li class="level1 nav-1-3">
-<a href="http://ogio.com/golf/womens-golf">
-<span>Women's</span>
+<a href="http://ogio.com/golf-4/mens-golf">
+<span>Men's</span>
 </a>
 </li><li class="level1 nav-1-4">
-<a href="http://ogio.com/golf/travel">
-<span>Travel</span>
+<a href="http://ogio.com/golf-4/womens-golf">
+<span>Women's</span>
 </a>
 </li><li class="level1 nav-1-5">
-<a href="http://ogio.com/golf/golf-accessories">
-<span>Accessories</span>
+<a href="http://ogio.com/golf-4/travel">
+<span>Travel</span>
 </a>
 </li><li class="level1 nav-1-6 last">
-<a href="http://ogio.com/golf/tournament">
-<span>Tournament</span>
+<a href="http://ogio.com/golf-4/golf-accessories">
+<span>Accessories</span>
 </a>
 </li>
 </ul>
@@ -230,40 +238,40 @@ _gaq.push(function() {
 <span>Work</span>
 </a>
 </li><li class="level0 nav-4 level-top parent">
-<a href="http://ogio.com/moto" class="level-top">
-<span>Moto</span>
+<a href="http://ogio.com/power" class="level-top">
+<span>Power</span>
 </a>
 <ul class="level0">
 <li class="level1 nav-4-1 first">
-<a href="http://ogio.com/moto/gear-bags">
+<a href="http://ogio.com/power/gear-bags">
 <span>Gear Bags</span>
 </a>
 </li><li class="level1 nav-4-2">
-<a href="http://ogio.com/moto/hydration-packs">
+<a href="http://ogio.com/power/hydration-packs">
 <span>Hydration Packs</span>
 </a>
 </li><li class="level1 nav-4-3">
-<a href="http://ogio.com/moto/back-packs">
+<a href="http://ogio.com/power/back-packs">
 <span>Backpacks</span>
 </a>
 </li><li class="level1 nav-4-4">
-<a href="http://ogio.com/moto/helmet-gear">
+<a href="http://ogio.com/power/helmet-gear">
 <span>Helmet Gear</span>
 </a>
 </li><li class="level1 nav-4-5">
-<a href="http://ogio.com/moto/street-bike">
+<a href="http://ogio.com/power/street-bike">
 <span>Street Bike</span>
 </a>
 </li><li class="level1 nav-4-6">
-<a href="http://ogio.com/moto/atv">
+<a href="http://ogio.com/power/atv">
 <span>ATV</span>
 </a>
 </li><li class="level1 nav-4-7">
-<a href="http://ogio.com/moto/ramps-stands">
+<a href="http://ogio.com/power/ramps-stands">
 <span>Ramps &amp; Stands</span>
 </a>
 </li><li class="level1 nav-4-8 last">
-<a href="http://ogio.com/moto/specialty">
+<a href="http://ogio.com/power/specialty">
 <span>Specialty</span>
 </a>
 </li>
@@ -277,43 +285,47 @@ _gaq.push(function() {
 <span>Athletic</span>
 </a>
 </li><li class="level0 nav-7 level-top last parent">
-<a href="http://ogio.com/specials" class="level-top">
-<span>Summer Sale</span>
+<a href="http://ogio.com/hot-deals" class="level-top">
+<span>Hot Deals</span>
 </a>
 <ul class="level0">
 <li class="level1 nav-7-1 first">
-<a href="http://ogio.com/specials/golf">
-<span>Golf</span>
-</a>
-</li><li class="level1 nav-7-2">
-<a href="http://ogio.com/specials/backpacks">
+<a href="http://ogio.com/hot-deals/backpacks">
 <span>Backpacks</span>
 </a>
+</li><li class="level1 nav-7-2">
+<a href="http://ogio.com/hot-deals/work">
+<span>Work</span>
+</a>
 </li><li class="level1 nav-7-3">
-<a href="http://ogio.com/specials/girls">
+<a href="http://ogio.com/hot-deals/girls">
 <span>Women's &amp; Girls</span>
 </a>
 </li><li class="level1 nav-7-4">
-<a href="http://ogio.com/specials/work">
-<span>Work</span>
-</a>
-</li><li class="level1 nav-7-5">
-<a href="http://ogio.com/specials/travel">
+<a href="http://ogio.com/hot-deals/travel">
 <span>Travel</span>
 </a>
+</li><li class="level1 nav-7-5">
+<a href="http://ogio.com/hot-deals/athletic">
+<span>Athletic</span>
+</a>
 </li><li class="level1 nav-7-6">
-<a href="http://ogio.com/specials/moto">
+<a href="http://ogio.com/hot-deals/moto">
 <span>Moto</span>
 </a>
-</li><li class="level1 nav-7-7 last">
-<a href="http://ogio.com/specials/apparel">
+</li><li class="level1 nav-7-7">
+<a href="http://ogio.com/hot-deals/apparel">
 <span>Apparel</span>
+</a>
+</li><li class="level1 nav-7-8 last">
+<a href="http://ogio.com/hot-deals/golf-2">
+<span>Golf</span>
 </a>
 </li>
 </ul>
 </li>    </ul>
 </div>
-        		<div class="header-free-ground-shipping"><span>Free</span> ground shipping on orders over $75</div>
+<!--/{CATALOG_NAVIGATION_7a1ebdbee8ab5b5429882156051af191}-->        		<div class="header-free-ground-shipping"><span>Free</span> ground shipping order over $75.  Orders Ships SAME day or within 24 Hours.</div>
 		<div id="ambassador-program-banner"></div>
     </div>
     
@@ -337,7 +349,7 @@ _gaq.push(function() {
 <div class="footer-container">
     <div class="footer">
         <div id="footer_links_col_1" class="column">
-<h3>Shop OGIO</h3>
+<h3>OGIO.COM</h3>
 <ul>
 <li><a href="http://www.ogioonline.com/">Dealer Portal</a></li>
 <li><a href="http://ogio.com/international">International Distributors</a></li>
@@ -354,14 +366,13 @@ _gaq.push(function() {
 <li><a href="http://ogio.com/backpacks">All Backpacks</a></li>
 <li><a href="http://ogio.com/backpacks/street-packs">Street Backpacks</a></li>
 <li><a href="http://ogio.com/backpacks/sleek-packs">Sleek Backpacks</a></li>
-<li class="last"><a href="http://ogio.com/backpacks/snow">Snow Backpacks</a></li>
+<li><a href="http://ogio.com/work">Work Bags</a><br><br></li>
 </ul>
 <ul>
-<li><a href="http://ogio.com/work">Work Bags</a></li>
 <li><a href="http://ogio.com/travel">Travel Bags</a></li>
 <li><a href="http://ogio.com/athletic">Athletic Bags</a></li>
-<li><a href="http://ogio.com/web-specials">Web Specials</a></li>
-<li><a href="http://ogio.com/moto">All Motor Sports</a></li>
+<li><a href="http://ogio.com/web-specials">Hot Deals</a></li>
+<li><a href="http://ogio.com/moto">All Power Sports</a></li>
 <li><a href="http://ogio.com/moto/street-bike">Street Bike Gear</a></li>
 </ul>
 </div><div id="footer_links_col_3" class="column">
