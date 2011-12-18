@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totalsend.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620044114id_/http%3A//www.totalsend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalsend.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218084951id_/http%3A//www.totalsend.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Total Send
+# Privacy Policy « Total Send – Email Marketing
 
 ### We respect the privacy needs of our valued customers and members. This Privacy Policy outlines what specific information is gathered on the Total Send site and how that information is used.
 
