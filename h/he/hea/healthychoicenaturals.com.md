@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthychoicenaturals.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008132432id_/http%3A//shop.healthychoicenaturals.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthychoicenaturals.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218212556id_/http%3A//shop.healthychoicenaturals.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -50,14 +50,14 @@ Questions and feedback
 
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
-Website: http://healthychoicenaturals.com
+Website: http://shop.healthychoicenaturals.com
 
 Mailing Address:  
 Healthy Choice Naturals  
 940 Calle Amanecer Suite P  
 San Clemente, CA 92673
 
-Telephone: (800) 541-7318  
+Customer Service Telephone: (800) 541-7318  
 Email: cs@healthychoicenaturals.com
 
 Online Policy Only
@@ -66,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20101008132432id_/http%3A//shop.healthychoicenaturals.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20111218212556id_/http%3A//shop.healthychoicenaturals.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
