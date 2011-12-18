@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cleeng.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410115249id_/http%3A//cleeng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleeng.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218092901id_/http%3A//cleeng.com/us/privacy) for the most accurate reproduction.*
 
-# Cleeng Privacy Policy Cleeng
+# Cleeng Privacy Policy - Cleeng
 
 **IMPORTANT – PLEASE READ CAREFULY**
 
@@ -18,14 +18,15 @@ Other than the information you have provided to Cleeng, Cleeng also stores certa
 
 **3- Never sell customer data**
 
-Cleeng will not sell your personal information and data to any third party. Personal data will only be made available to a third party if, and in so far as, is needed for providing you with, or for improving, the Cleeng Service (for example for processing payment done with the company Adyen B.V., or if needed for customer service purposes). Third parties are at all times obliged to respect the confidentiality of your personal information and data. We don’t sell or share user data for marketing purpose.
+Cleeng WILL NOT SELL your personal information and data to any third party. We also don’t sell or share user data for marketing purpose. Personal data will only be made available to a third party if, and in so far as, is needed for providing you with, or for improving, the Cleeng Service. At the present time, Cleeng may share your personal information with Ayden B.V. and/or Paypal if, and in so far as, this is needed for the correct completion of the payment process. This information can include: user name, last name, registered email, purchase date, price of the item bought. Cleeng may also share certain personal information with the Enterprise Publishers (those using our White Label services) &/or with publishers where you bought recurring subscriptions (weekly, monthly, quarterly or yearly subscriptions). This information can include: username, purchase date, content ID purchased, registered email and purchase price.  
+Third parties are at all times obliged to respect the confidentiality of your personal information and data. Third parties are not allowed make use of your data for marketing purposes except if you have explicitly authorized them to do so.
 
 **4- Clear opt-in policy**
 
-Only if you have permitted Cleeng to use your personal information to inform you about the Cleeng Service or otherwise Cleeng is allowed to do so. If you no longer wish to be informed by Cleeng please send an e-mail to unsubscribe@cleeng.com
+Only if you have permitted Cleeng to use your personal information to inform you about the Cleeng Service or otherwise Cleeng is allowed to do so. If you no longer wish to be informed by Cleeng, either you can change your privacy setting in MyAccount, or please send an e-mail to [theteam@cleeng.com](mailto:theteam@cleeng.com) subject “Unsubscribe”
 
-Note: if you have Questions regarding the Cleeng Privacy Policy, we are pleased to answer them. Your questions to can be directed to myaccount@cleeng.com. The most recent version of the Cleeng Privacy Policy can be found on this page.
+Note: if you have Questions regarding the Cleeng Privacy Policy, we are pleased to answer them. Your questions to can be directed to [theteam@cleeng.com](mailto:theteam@cleeng.com). The most recent version of the Cleeng Privacy Policy can be found on this page.
 
 By agreeing to the Cleeng User Agreement and/or the Cleeng Publisher Agreement you agree with the use of your personal information and data in accordance with the Cleeng Privacy Policy.
 
-_Version: November 30, 2010_
+Last version : 15 April 2011
