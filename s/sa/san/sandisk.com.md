@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623074635id_/http%3A//sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandisk.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218232910id_/http%3A//www.sandisk.com/about-sandisk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ Please click [here](https://web.archive.org/about-sandisk/privacy-policy/faq) to
 SanDisk may amend this policy from time to time, and may do so at our discretion, consistent with applicable data protection laws and rules. If we change our privacy policy, we will post the revised policy here, as well as a notice in a prominent location on our website and, if we have a way and are legally permitted to do so, we will contact you by email in the event this privacy policy is materially changed. The revised policy will supersede and replace any previous privacy policies effective as of the date on which it is posted. Your use of the SanDisk Sites after any change represents and confirms your consent and agreement to any such changes.
 
 Last updated:  
-The last updated version of this privacy policy can be seen [ here](https://web.archive.org/about-sandisk/privacy-policy/archived-privacypolicy).
+The last updated version of this privacy policy can be seen [here](https://web.archive.org/about-sandisk/privacy-policy/archived-privacypolicy).
 
 **Information we collect**
 
@@ -103,7 +103,7 @@ Please remember that any information you choose to disclose in public areas of t
 
 We want to be sure the personal information we keep for you is up to date and accurate. We will take reasonable steps to ensure that any personal information you have submitted through the Sites is accurate, complete and up to date. You have the right under applicable data protection laws to access the personal information that SanDisk keeps for you, on request to SanDisk, except in certain limited circumstances (for example, where an applicable law requires us to deny such access). You can use the links immediately below or contact us by email or mail (see the "Contact Us" section at the end of this policy for details) to request access to your personal information.
 
-  * UNSUBSCRIBE: To unsubscribe from SanDisk promotional communications, click [here](https://ebm.cheetahmail.com/r/webunsub?n=200&t=hAAAAAAAajgk5B74XfAAAAAAAkz "Unsubscribe Link"). 
+  * UNSUBSCRIBE: To unsubscribe from SanDisk promotional communications, click [here](http://kb.sandisk.com/ci/documents/detail/2/unsub-us "Unsubscribe Link"). 
   * UPDATE PREFERENCES: Update your SanDisk communications preferences any time online [here](https://reg.cheetahmail.com/regp?aid=445516089&n=400 "Update Profile"). 
   * "MY SANDISK" PRODUCT REGISTRATION: To update or change contact information you provided in connection with product registration or customer support through the My SanDisk feature, you can click [here](http://kb.sandisk.com/app/home "SanDisk Support"). (If this feature is not available in your country, the link may not be active.)
   * WAKE UP YOUR PHONE: To update your marketing preferences on WakeUpYourPhone.com, you will need to log in to your account. Log in here. Once you are logged in, go to your profile and you can update your marketing preferences, change your profile, or delete your account.
