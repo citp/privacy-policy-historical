@@ -1,0 +1,542 @@
+<!--The following is the downloaded HTML source of the awdev.com privacy policy that was archived on 2011-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218115058id_/http%3A//www.awdev.com/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Web Directory | AwDev.com&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/templates/Gri/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/templates/Gri/style/main.css">
+<meta name="generator" content="PHP Link Directory 4.1.0">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+<!--[if IE]>
+<link rel="stylesheet" href="/templates/Gri/style/ie.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if IE 8.000]><!-->
+<link rel="stylesheet" href="/templates/Gri/style/ie8.css" type="text/css" media="all">
+<!--<![endif]-->
+<meta name="verifyownership" content="249fa4878190567d63b545d87e6da2b9">
+</head>
+<body><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+       document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.awdev.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		$("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		$("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<div id="wrapperall">
+<div class="log_reg">
+<a href="/login.php" title="Login" onclick="return showLogin();">Login</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/profile.php?mode=register" title="Register">Register</a>	
+</div>	
+<div id="wrapperBg">
+<div id="wrapperBottom">
+<div id="wrapperTop">
+<div id="wrapperLeft">
+<div id="wrapperRight">
+<div id="wrapper">
+<script type="text/javascript">
+var view1 = 0;
+var view2 = 0;
+</script><div class="content-top"></div><div id="content"><div class="header"><div class="dirname"><h1><a href="/" title="Web Directory | AwDev.com"> Web Directory | AwDev.com</a></h1></div><div class="search"><div id="searchin"><form action="/index.php" method="get"><span class="search"><span class="search_cnt"><table><tbody><tr><td><span class="cauta"><input name="search" type="text" size="18" alt="}" value="" onblur="if(this.value=='') this.value='';" onfocus="if(this.value=='') this.value='';"></span></td><td><span class="searchin"><button type="submit" title="Search">GO</button></span></td><td><div style="margin:0px 0px 0px 10px;"> <a rel="nofollow" href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4">Advanced<br>Search</a></div></td></tr></tbody></table></span></span></form></div></div></div> <!-- Header --><div id="meniu" class="fix"><ul class="fix menu"><li class="navfirst"><a class="home" href="/" title="Web Directory | AwDev.com">Web Directory | AwDev.com</a></li><li><a href="/submit.php" title="Submit your link to the directory">Submit Link</a></li><li><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a></li><li><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a></li><li><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a></li><li><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a></li><li class="ultim"><a href="/contact.php" title="Contact directory owner">Contact</a></li></ul><div style="width:66px;float:right;"><a class="rss" href="/rss.php?c= " title="RSS Feed"> </a><a class="twitter" href="http://twitter.com/nixservers" title="NixServers">NixServers</a> <!-- // Change this link with your twitter account. Eg: http://twitter.com/john  --></div></div><div id="sideleft" "="">
+<div style="text-align:center"><a href="http://www.vmoptions.com"><img src="http://www.jam2007.com/images/vmo100.png"></a></div><br>
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<li id="37">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Site Spotlight</span></h3>
+<div class="box_pad2">		<center><br>
+<img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.flooring2floors.co.uk/"><br>
+<a href="                                            /detail/flooring-2-floors-22407/" title="Read more about: Flooring 2 Floors">Flooring 2 Floors</a>
+</center>
+<br>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+<li id="5">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Latest featured links</span></h3>
+<div class="box_pad2">			 <ul class="boxPopCats">
+<li><a href="http://www.bestrcboats.com">rc boats</a></li>
+<li><a href="http://www.OrderBrinkGame.com">Brink Game</a></li>
+<li><a href="http://www.manchesterpaving.com">Block Paving Manchester</a></li>
+<li><a href="http://www.integratedway.com/psychotherapy/">Psychotherapy Online</a></li>
+<li>
+<a href="                                                /detail/icicle-light-storage-30703/" title="Read more about: Icicle Light Storage">Icicle Light Storage</a>
+</li>
+<li>
+<a href="                                                /detail/home-improvement-23578/" title="Read more about: Home Improvement">Home Improvement</a>
+</li>
+<li>
+<a href="                                                /detail/pathology-microscope-18540/" title="Read more about: Pathology Microscope">Pathology Microscope</a>
+</li>
+<li>
+<a href="                                                /detail/mitsubishi-motors--small-cars--used-vehicles-17379/" title="Read more about: Mitsubishi Motors - small cars - used vehicles">Mitsubishi Motors - small c...</a>
+</li>
+<li>
+<a href="                                                /detail/hand-tools-16301/" title="Read more about: Hand Tools">Hand Tools</a>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+<br>
+</ul>
+</div>
+<div style="display:none;">
+Sponsored by <a href="http://www.nixservers.com" title="Dedicated server Europe">Dedicated server hosting</a>  | Copywrite <a href="http://www.hostzilla.ro" title="Web Hosting, Gazduire web">Web Hosting, Gazduire web</a>
+</div>
+<div id="main"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li><center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span></span></h3>
+<div class="box_pad2">   
+<h3><span>Featured Links</span></h3>
+<div id="articles">
+<br><table>
+</table><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.holidaystoragesolutions.com"><br><div class="pr">
+PR: 2
+<div class="prg">
+<div class="prb" style="width: 8px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_30703" href="http://www.holidaystoragesolutions.com" title="Icicle Light Storage"><span id="edittitle_30703" class="link">Icicle Light Storage</span></a><!--<span  id="edittitle_30703" class="link">Icicle Light Storage  </span>--><br><p id="description30703"><span id="editdescrip_30703"></span></p><p>Patented and made in the USA, the Holiday Light Saver&nbsp;is the best way to store and save your&nbsp;party lights.&nbsp;</p> <br>-&nbsp;<a class="readMore" href="/detail/icicle-light-storage-30703/" title="Read more about: Icicle Light Storage">Read&nbsp;more</a><p></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.johnwilliams.co.uk"><br><div class="pr">
+PR: 3
+<div class="prg">
+<div class="prb" style="width: 12px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_23578" href="http://www.johnwilliams.co.uk" title="Home Improvement"><span id="edittitle_23578" class="link">Home Improvement</span></a><!--<span  id="edittitle_23578" class="link">Home Improvement  </span>--><br><p id="description23578"><span id="editdescrip_23578">Award-winning windows and doors, stylish conservatories, veranda glass extensions, and other products to improve your home.
+John Williams have been supplying conservatories in North Wales for over 40 years and have a first class reputation.</span> <br>-&nbsp;<a class="readMore" href="/detail/home-improvement-23578/" title="Read more about: Home Improvement">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.leica-microsystems.com/products/digital-pathology/"><br><div class="pr">
+PR: 0
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_18540" href="http://www.leica-microsystems.com/products/digital-pathology/" title="Pathology Microscope"><span id="edittitle_18540" class="link">Pathology Microscope</span></a><!--<span  id="edittitle_18540" class="link">Pathology Microscope  </span>--><br><p id="description18540"><span id="editdescrip_18540">With the help of technology, glass slides can be converted into digital slides for viewing and analysis. To learn more about digital pathology, visit Leica Microsystems.com.</span> <br>-&nbsp;<a class="readMore" href="/detail/pathology-microscope-18540/" title="Read more about: Pathology Microscope">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.mitsubishi-motors.com.au/vehicles/4wd/asx"><br><div class="pr">
+PR: 0
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_17379" href="http://www.mitsubishi-motors.com.au/vehicles/4wd/asx" title="Mitsubishi Motors - small cars - used vehicles"><span id="edittitle_17379" class="link">Mitsubishi Motors - small cars - used vehicles</span></a><!--<span  id="edittitle_17379" class="link">Mitsubishi Motors - small cars - used vehicles  </span>--><br><p id="description17379"><span id="editdescrip_17379">Visit the Mitsubishi Motors website for Australia and view our range of new cars and 4wd vehicles.</span> <br>-&nbsp;<a class="readMore" href="/detail/mitsubishi-motors--small-cars--used-vehicles-17379/" title="Read more about: Mitsubishi Motors - small cars - used vehicles">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.matcotools.com/"><br><div class="pr">
+PR: 4
+<div class="prg">
+<div class="prb" style="width: 16px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_16301" href="http://www.matcotools.com/" title="Hand Tools"><span id="edittitle_16301" class="link">Hand Tools</span></a><!--<span  id="edittitle_16301" class="link">Hand Tools  </span>--><br><p id="description16301"><span id="editdescrip_16301">Matco Tools is a manufacturer &amp; supplier of professional hand tools &amp; automotive service equipment. Learn more about our business franchise programs now!</span> <br>-&nbsp;<a class="readMore" href="/detail/hand-tools-16301/" title="Read more about: Hand Tools">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.videojet.com/usa/continuous-inkjet-ink"><br><div class="pr">
+PR: 0
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_14467" href="http://www.videojet.com/usa/continuous-inkjet-ink" title="Continuous Ink Jet Ink"><span id="edittitle_14467" class="link">Continuous Ink Jet Ink</span></a><!--<span  id="edittitle_14467" class="link">Continuous Ink Jet Ink  </span>--><br><p id="description14467"><span id="editdescrip_14467"></span></p><p>Videojet’s continuous ink jet ink is designed to reduce maintenance  costs and downtime. Contact us today for more information.</p> <br>-&nbsp;<a class="readMore" href="/detail/continuous-ink-jet-ink-14467/" title="Read more about: Continuous Ink Jet Ink">Read&nbsp;more</a><p></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.kabrinissecret.com/"><br><div class="pr">
+PR: 2
+<div class="prg">
+<div class="prb" style="width: 8px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_9477" href="http://www.kabrinissecret.com/" title="Women's Lingerie, Shapewear, Swimwear &amp; Clothing from Kabrini's"><span id="edittitle_9477" class="link">Women's Lingerie, Shapewear, Swimwear &amp; Clothing from Kabrini's</span></a><!--<span  id="edittitle_9477" class="link">Women&#039;s Lingerie, Shapewear, Swimwear &amp; Clothing from Kabrini&#039;s  </span>--><br><p id="description9477"><span id="editdescrip_9477">The webs best selection of sexy lingerie, women's clothing, shapewear, shoes boots, swimsuits for women, clubwear, costumes, &amp; romantic gifts.</span> <br>-&nbsp;<a class="readMore" href="/detail/womens-lingerie-shapewear-swimwear-and-clothing-from-kabrinis-9477/" title="Read more about: Women's Lingerie, Shapewear, Swimwear &amp; Clothing from Kabrini's">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.mitsubishi-motors.com.au/microsites/welcometotomorrow"><br><div class="pr">
+PR: 0
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_9052" href="http://www.mitsubishi-motors.com.au/microsites/welcometotomorrow" title="New Cars - Mitsubishi Motors"><span id="edittitle_9052" class="link">New Cars - Mitsubishi Motors</span></a><!--<span  id="edittitle_9052" class="link">New Cars - Mitsubishi Motors  </span>--><br><p id="description9052"><span id="editdescrip_9052">View new cars and 4wd vehicles from the official Mitsubishi Motors website for Australia.</span> <br>-&nbsp;<a class="readMore" href="/detail/new-cars--mitsubishi-motors-9052/" title="Read more about: New Cars - Mitsubishi Motors">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>               <br><table cellpadding="5" cellspacing="5"><tbody><tr><td valign="top"><img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.videojet.com/usa/track_and_trace_solutions"><br><div class="pr">
+PR: 2
+<div class="prg">
+<div class="prb" style="width: 8px"></div>
+</div>
+</div>   </td><td valign="top"><a class="link" id="id_368" href="http://www.videojet.com/usa/track_and_trace_solutions" title="Anti Diversion"><span id="edittitle_368" class="link">Anti Diversion</span></a><!--<span  id="edittitle_368" class="link">Anti Diversion  </span>--><br><p id="description368"><span id="editdescrip_368">Product Traceability - Track and trace solutions from Videojet are a cost effective mean to addressing counterfeiting, diversion, and product recalls.</span> <br>-&nbsp;<a class="readMore" href="/detail/anti-diversion-368/" title="Read more about: Anti Diversion">Read&nbsp;more</a></p><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"><div class="dot"></div></td></tr></tbody></table>            
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div></center><div style="width: 336px; height: 280px; margin: 0px auto;">
+<script type="text/javascript">
+<!--
+google_ad_client = "ca-pub-6408099282267218";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_type = "text";
+google_ad_slot = "1794911831";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "505050";
+google_color_url = "505050";
+//-->
+
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</li></ul><div class="path"><a href="/" id="firstPath">AwDev.com</a><span>Privacy Policy</span></div>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><strong>Your Privacy</strong><br>Your privacy is important to us. To   better protect your privacy we provide this notice explaining our  online  information practices and the choices you can make about the way  your  information is collected and used. To make this notice easy to  find, we  make it available on our homepage and at every point where  personally  identifiable information may be requested.</p>
+<p><strong>Google Adsense and the DoubleClick DART Cookie</strong><br>Google,   as a third party advertisement vendor, uses cookies to serve ads on   this site. The use of DART cookies by Google enables them to serve   adverts to visitors that are based on their visits to this website as   well as other sites on the internet.</p>
+<p>To opt out of the DART cookies you may visit the Google ad and   content network privacy policy at the following url <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a> Tracking of users through the DART cookie mechanisms are subject to   Google’s own privacy policies.</p>
+<p>Other Third Party ad servers or ad networks may also use cookies to   track users activities on this website to measure advertisement   effectiveness and other reasons that will be provided in their own   privacy policies, AwDEV Web Directory has no access or control over  these  cookies that may be used by third party advertisers.</p>
+<p><strong>Collection of Personal Information</strong><br>When  visiting AwDEV Web Directory, the IP address used to access the site will be   logged along with the dates and times of access. This information is   purely used to analyze trends, administer the site, track users movement   and gather broad demographic information for internal use. Most   importantly, any recorded IP addresses are not linked to personally   identifiable information.</p>
+<p><strong>Links to third party Websites</strong><br>We have included   links on this site for your use and reference. We are not responsible   for the privacy policies on these websites. You should be aware that the   privacy policies of these sites may differ from our own.</p>
+<p><strong>Changes to this Privacy Statement</strong><br>The contents of   this statement may be altered at any time, at our discretion.</p>
+<p>If you have any questions regarding the privacy policy of AwDEV Web Directory then you may contact us at admin@awdev.com</p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div> <div id="sideright">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="26">
+<div style="width: 160px; height: 600px; margin: 0px auto;">
+<script type="text/javascript">
+<!--
+google_ad_client = "ca-pub-6408099282267218";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_type = "text";
+google_ad_slot = "1648984539";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "505050";
+google_color_url = "505050";
+//-->
+
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</li>
+<li id="8">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Latest links</span></h3>
+<div class="box_pad2">		 <ul class="boxPopCats">
+<li>
+<a href="                                            /detail/domestic-violence-laws-child-custody-georgia-30948/" title="Read more about: Domestic Violence Laws, Child Custody Georgia">Domestic Violence Laws, Chi...</a>
+</li>
+<li>
+<a href="                                            /detail/ich-dien-solutions-30944/" title="Read more about: ICH DIEN SOLUTIONS">ICH DIEN SOLUTIONS</a>
+</li>
+<li>
+<a href="                                            /detail/bulk-sms-provider-30907/" title="Read more about: Bulk Sms Provider">Bulk Sms Provider</a>
+</li>
+<li>
+<a href="                                            /detail/pouch-underwear-30763/" title="Read more about: Pouch Underwear">Pouch Underwear</a>
+</li>
+<li>
+<a href="                                            /detail/voice-training-30754/" title="Read more about: Voice Training">Voice Training</a>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+<li id="11">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Popular Categories</span></h3>
+<div class="box_pad2">		<ul class="boxPopCats">
+<li>
+<a href="/Business/" title="Business">Business</a>
+</li>
+<li>
+<a href="/Shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/Computers_and_Internet/" title="Computers and Internet">Computers and Internet</a>
+</li>
+<li>
+<a href="/Health/" title="Health">Health</a>
+</li>
+<li>
+<a href="/Travel/" title="Travel">Travel</a>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+<li id="14">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Popular Links</span></h3>
+<div class="box_pad2">		<ul class="boxPopCats">
+<li>
+<a href="           &#9;&#9;/detail/anticaduta-2678/" title="Read more about: Anticaduta">Anticaduta</a>
+</li>
+<li>
+<a href="           &#9;&#9;/detail/lattonieri-28164/" title="Read more about: Lattonieri">Lattonieri</a>
+</li>
+<li>
+<a href="           &#9;&#9;/detail/sistemi-anticaduta-2580/" title="Read more about: Sistemi anticaduta">Sistemi anticaduta</a>
+</li>
+<li>
+<a href="           &#9;&#9;/detail/ristoranti-cinesi-17018/" title="Read more about: Ristoranti cinesi">Ristoranti cinesi</a>
+</li>
+<li>
+<a href="           &#9;&#9;/detail/pannelli-fotovoltaici-5668/" title="Read more about: Pannelli fotovoltaici">Pannelli fotovoltaici</a>
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+<li id="29">
+<center>
+<div style="width:100%; text-align:left;">
+<div class="box br box_pad1">
+<div class="bl"><div class="tr"><div class="tl">
+<h3><span>Pages</span></h3>
+<div class="box_pad2">		<ul class="boxPopCats">
+<li>
+<a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a> 
+</li>
+</ul>
+</div>
+</div></div>
+</div>
+</div>
+</div></center>		</li>
+</ul>
+</div></div>
+<div class="content-bottom">
+</div>
+</div>
+</div> </div> </div> </div> </div><div id="footer"><div id="footercontent"></div></div></div><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8906480-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body></html>
