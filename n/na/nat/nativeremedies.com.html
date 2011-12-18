@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nativeremedies.com privacy policy that was archived on 2011-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523022349id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nativeremedies.com privacy policy that was archived on 2011-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218102226id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/Native_Remedies.dwt" codeOutsideHTMLIsLocked="false" --><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -31,43 +31,35 @@
 	
     <meta property="og:image" content="http://www.nativeremedies.com/images/nr_logo_100x50.jpg">
     <link rel="image_src" href="http://www.nativeremedies.com/images/nr_logo_100x50.jpg">
-	
-<!-- Google Website Optimizer Control Script -->
-<script>
-_udn="nativeremedies.com";
-function utmx_section(){}function utmx(){}
-(function(){var k='1236966139',d=document,l=d.location,c=d.cookie;function f(n){
-if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return escape(c.substring(i+n.
-length+1,j<0?c.length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
-d.write('<sc'+'ript src="'+
-'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
-+'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
-+new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
-</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=1236966139&amp;utmx=&amp;utmxx=&amp;utmxtime=1580389803216" type="text/javascript" charset="utf-8"></script>
-<!-- End of Google Website Optimizer Control Script -->
 
-
-	<!-- Begin Hiconversion Head -->
-	<script id="hiconversion_head_include" type="text/javascript" src="https://www.hiconversion.com/enabling/update.jsp?external=&amp;version=1.0"></script>
-	<script id="hiconversion_head_script" type="text/javascript">if (typeof hiconversion_head_update == 'function') hiconversion_head_update()</script>
-	<!-- End Hiconversion -->
-
-    
-	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.1/jquery-ui.min.js"></script>
-    <script type="text/javascript" src="/scripts/libs/jqexts/cookies.js"></script>
-    <script type="text/javascript" src="/scripts/libs/jqexts/pubsub.js"></script>
-    <script type="text/javascript" src="/scripts/libs/php.js"></script>
-    <script type="text/javascript" src="/scripts/nrCore.js"></script>
-    
     <script type="text/javascript">
-        nrCore.init({
-            "plugins" : [
-                "Affiliate"
-            ]
-        });
-    </script>
+		function nrCoreReady() {
+			if (typeof window.nrCore == 'undefined') {
+				setTimeout(function() {
+					nrCoreReady();
+				}, 500);
+			} else {
+				nrCore.init({
+					"plugins" : [
+						"Affiliate"
+					]
+				});
+			}
+		}
+		
+		jQuery.ajax({
+			type: "GET",
+			cache: true,
+			url: "/scripts/minify/?g=baseScripts",
+			dataType: 'script',
+			async: true,
+			complete: function() {
+				nrCoreReady();
+			}
+		});
+	</script>
 	
 	<!-- BEGIN: Google Analytics Include -->
 
@@ -111,6 +103,11 @@ if(gup('cj')!=""){
 location.hash = "#ysmtac=cj&ysmchn=affiliate&ysmcpn=cj&ysmgrp="+gup('cj');
 pageTracker._setAllowAnchor(true);
 var AffTrue="CJ:"+gup('cj');
+}
+if(gup('gan')!=""){
+location.hash = "#ysmtac=gan&ysmchn=affiliate&ysmcpn=gan&ysmgrp="+gup('gan');
+pageTracker._setAllowAnchor(true);
+var AffTrue="GAN:"+gup('gan');
 }
 </script> 
  
@@ -175,17 +172,6 @@ var fT=pageTracker._getVisitorCustomVar(3);
 if(!fT){
 	pageTracker._setCustomVar(3,'FT',utmString,1);
 }
-
-//Begin GA-GWO integration Code using Custom Var in SLOT 2 at Session Level
-if(typeof(utmx) !== 'undefined') {
-	var comboNum=utmx('combination');
-	if(comboNum==0){
-		comboNum="control";
-	}
-	pageTracker._setCustomVar(2,"combo",comboNum,2);
-}
-//End GA-GWO integration Code
-
 //content grouping
 var _pageTrackerContentSection = /\.(?:net|com)\/([a-zA-Z]*?)\//.exec(document.location);
 if(_pageTrackerContentSection == null) _pageTrackerContentSection = new Array(null, 'Main');
@@ -202,7 +188,7 @@ pageTracker._setCustomVar(1,'ContentSection',_pageTrackerContentSection[1],3);
 <script type="text/javascript">
 var k_push_vars = {
     "display_after": 60,
-	"view_percentage": 20,
+	"view_percentage": 0,
 	"popup_font_color": "#000000",
 	"popup_background": "#ffffff",
 	"popup_separator": "#D4E2F0",
@@ -224,394 +210,13 @@ var k_push_vars = {
 
 	
 	<script language="JavaScript" type="text/javascript">
-	// Tell A Friend Javascript
-
-var initialsubj="Native Remedies - a recommendation from one of your friends"
-var initialmsg="One of your friends has entered your e-mail address into the tell a friend section of www.nativeremedies.com in order for us to send you a very short note recommending this site as they feel it may be of interest to you. At Native Remedies, you will find the highest quality natural herbal remedies for your health, professionally formulated in therapeutic dosages by a leading clinical psychologist for her own patients over the last 12 years. " +window.location
-var good;
-function checkEmailAddress(field) {
-var goodEmail = field.value.match(/\b(^(\S+@).+((\.com)|(\.net)|(\.edu)|(\.mil)|(\.gov)|(\.org)|(\.info)|(\.sex)|(\.biz)|(\.aero)|(\.coop)|(\.museum)|(\.name)|(\.pro)|(\..{2,2}))$)\b/gi);
-if (goodEmail) {
-good = true;
-}
-else {
-alert('Please enter a valid address.');
-field.focus();
-field.select();
-good = false;
- }
-}
-u = window.location;
-function mailThisUrl() {
-good = false
-checkEmailAddress(document.eMailer.email);
-if (good) {
-//window.location = "mailto:"+document.eMailer.email.value+"?subject="+initialsubj+"&body="+document.title+" "+u;
-window.location = "mailto:"+document.eMailer.email.value+"?subject="+initialsubj+"&body="+initialmsg
- }
-}
-//validate newsletter form
-
-function checkForm()
-{
- var cname, clname, cemail;
- with(window.document.form)
- {
- cname = First_Name;
- clname = Last_Name;
- cemail = email;
- }
-
- if(trim(cname.value) == '')
- {
- alert('Please enter your First Name');
- cname.focus();
- return false;
- }
- if(trim(clname.value) == '')
- {
- alert('Please enter your Last Name');
- cname.focus();
- return false;
- }
- else if(trim(cemail.value) == '')
- {
- alert('Please enter your email');
- cemail.focus();
- return false;
- }
- else if(!isEmail(trim(cemail.value)))
- {
- alert('Email address is not valid');
- cemail.focus();
- return false;
- }
- else
- {
- cname.value = trim(cname.value);
- clname.value = trim(clname.value);
- cemail.value = trim(cemail.value);
- return true;
- }
-}
- function trim(str)
-{
- return str.replace(/^\s+|\s+$/g,'');
-}
-
-function isEmail(str)
-{
- var regex = /^[-_.a-z0-9]+@(([-a-z0-9]+\.)+(ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|at|au|aw|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cs|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|in|info|int|io|iq|ir|is|it|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|mg|mh|mil|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nt|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tf|tg|th|tj|tk|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|um|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)|(([0-9][0-9]?|[0-1][0-9][0-9]|[2][0-4][0-9]|[2][5][0-5])\.){3}([0-9][0-9]?|[0-1][0-9][0-9]|[2][0-4][0-9]|[2][5][0-5]))$/i;
- //regex = /^[-_.abcdefghijklmnopqrstuvwxyz0123456789]+@(([-abcdefghijklmnopqrstuvwxyz0123456789]+\.)+(ad|ae|aero|af|ag|ai|al|am|an|ao|aq|ar|arpa|as|at|au|aw|az|ba|bb|bd|be|bf|bg|bh|bi|biz|bj|bm|bn|bo|br|bs|bt|bv|bw|by|bz|ca|cc|cd|cf|cg|ch|ci|ck|cl|cm|cn|co|com|coop|cr|cs|cu|cv|cx|cy|cz|de|dj|dk|dm|do|dz|ec|edu|ee|eg|eh|er|es|et|eu|fi|fj|fk|fm|fo|fr|ga|gb|gd|ge|gf|gh|gi|gl|gm|gn|gov|gp|gq|gr|gs|gt|gu|gw|gy|hk|hm|hn|hr|ht|hu|id|ie|il|in|info|int|io|iq|ir|is|it|jm|jo|jp|ke|kg|kh|ki|km|kn|kp|kr|kw|ky|kz|la|lb|lc|li|lk|lr|ls|lt|lu|lv|ly|ma|mc|md|mg|mh|mil|mk|ml|mm|mn|mo|mp|mq|mr|ms|mt|mu|museum|mv|mw|mx|my|mz|na|name|nc|ne|net|nf|ng|ni|nl|no|np|nr|nt|nu|nz|om|org|pa|pe|pf|pg|ph|pk|pl|pm|pn|pr|pro|ps|pt|pw|py|qa|re|ro|ru|rw|sa|sb|sc|sd|se|sg|sh|si|sj|sk|sl|sm|sn|so|sr|st|su|sv|sy|sz|tc|td|tf|tg|th|tj|tk|tm|tn|to|tp|tr|tt|tv|tw|tz|ua|ug|uk|um|us|uy|uz|va|vc|ve|vg|vi|vn|vu|wf|ws|ye|yt|yu|za|zm|zw)|(([0-9][0-9]?|[0-1][0-9][0-9]|[2][0-4][0-9]|[2][5][0-5])\.){3}([0-9][0-9]?|[0-1][0-9][0-9]|[2][0-4][0-9]|[2][5][0-5]))$/i;
-return regex.test(str);
-}
-// Jump product list
-
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
- eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
- if (restore) selObj.selectedIndex=0;
-}
-
-function MM_findObj(n, d) { //v4.01
- var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
- d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
- if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
- for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
- if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_jumpMenuGo(selName,targ,restore){ //v3.0
- var selObj = MM_findObj(selName); if (selObj) MM_jumpMenu(targ,selObj,restore);
-}
-
-jQuery.preloadImages = function()
-{
- for(var i = 0; i<arguments.length; i++)
- {
- jQuery("<img>").attr("src", arguments[i]);
- }
-}
-$.preloadImages(
- "/images/design/ailmentBarClose.gif",
- "/images/design/ailmentBarOpen.gif"
-);
-
-
-function validate()
-{
- var pass = true;
- jQuery('.required').each(function(){
- if(jQuery(this).val() == '' ||
- (jQuery(this).hasClass('validate-email') && !/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/.test(jQuery(this).val())))
- {
- jQuery(this).addClass('invalid');
- pass = false;
- }
- else
- {
- jQuery(this).removeClass('invalid');
- }
- 
- });
-
- if(pass==false)
- {
- jQuery('#formError').css('display', 'block');
- window.location = "#formErrorAnchor";
- return false; 
- }
- else
- {
- jQuery('#formError').css('display', 'none');
- }
-
-/*
- var sendPost = "recaptcha_challenge_field="+jQuery('#recaptcha_challenge_field').val()+"&recaptcha_response_field="+jQuery('#recaptcha_response_field').val();
- jQuery.ajax({ url: "/scripts/recaptcha/captcha.php", type: 'POST', async: false, data: sendPost, success: 
- function(response)
- {
- if(response == 0)
- {
- Recaptcha.failsauce = true;
- Recaptcha.reload();
- }
- else
- {
- Recaptcha.failsauce = false;
- }
- }
- 
- });
- 
- if(Recaptcha.failsauce==true)
- {
- alert('Please enter the correct CAPTCHA.');
- return false;
- }
-*/
- 
- return true;
- 
-}
-
- 
-$(document).ready(function() {
-
- $('p.comboselection a').click(function(){
- document.location = $(this).attr('href');
- });
-
- $('#tabnav').infotabs();
- $('#bottom-tabs').infotabs({
- 'tabSelector': 'tab-selector2', 
- 'tabContent': 'tab-content2', 
- 'tabContainer': 'whiteBox', 
- 'tabExclude': '',
- 'opacityEffect' : .33,
- 'selectedTab' : 'betterCombos'
- });
-});
-
-//This was herp derped to no tomorrow - fixed it Daniel Keneny
-(function($)
- {
- $.fn.infotabs = function(options)
- {
- var opts = $.extend({}, $.fn.infotabs.defaults, options);
- 
- return this.each(function() {
- $this = $(this);
- var opt = $.meta ? $.extend({}, options, $this.data()) : opts;
- var tab = $('.'+opt.tabSelector);
- var tabContent = $('.'+opt.tabContent);
- tabContent.hide();
- 
- /// Css for fading div 
- cssFade =
- {
- 'background-color': '#fff',
- '-ms-filter':'progid:DXImageTransform.Microsoft.Alpha(Opacity='+(opt.opacityEffect*100)+')',
- 'filter':'alpha(opacity='+(opt.opacityEffect*100)+')',
- 'opacity': ''+opt.opacityEffect+'',
- '-moz-opacity':''+opt.opacityEffect+''
- };
- 
- /// Css for taking out fading div 
- cssNoFade =
- {
- 'background-color': '#fff',
- '-ms-filter':'progid:DXImageTransform.Microsoft.Alpha(Opacity=100)',
- 'filter':'alpha(opacity=100)',
- 'opacity': '1',
- '-moz-opacity':'1'
- };
- 
- /// This will execute when dom loads
- if(tab.hasClass(opt.tabHighlightClass) && tab.hasClass('active'))
- { 
- var defaultId = tab.children().attr('href');
- var sT = $('#'+tab.attr('id'));
- // hack, otherwise design will have to redo all the 
- // product pages =( - Wut.
- if('betterCombos' == opt.selectedTab)
- {
- opt.selectedTab = 'soloProduct';
- }
- if(opt.selectedTab)
- {
- sT = $('#'+opt.selectedTab);
- defaultId = sT.children().attr('href');
- }
- $(defaultId).show();
- if(opt.opacityEffect)
- {
- sT.css(cssFade);
- sT.css({"border":"1px solid #"+opt.afterFade+""});
- }
- }
- 
- // display massage
- $.fn.infotabs.comboMsg(opt, defaultId);
- 
- // when tabs are clicked
- tab.click(function(){ 
- var obj = $(this);
- if(obj.attr('id') == 'LI-COMBOPACKS')
- {
- // hack =(
- // if the combo tab was clicked
- $.fn.infotabs.clickk(opt, obj, 'betterCombos','tab-selector2','tab-content2');
- }
- else if(obj.attr('id')=='LI-HOW' || obj.attr('id')=='LI-INGREDIENTS' || obj.attr('id')=='LI-TESTIMONIALS' || obj.attr('id')=='DETAILS')
- {
- // hack =(
- // if the combo tab was clicked
- $.fn.infotabs.clickk(opt, obj,'','',''); 
- $.fn.infotabs.clickk(opt, obj, 'soloProduct','tab-selector2','tab-content2');
- }
- else
- {
- $.fn.infotabs.clickk(opt, obj,'','',''); 
- }
- 
- return false; 
- });
- });
- };
- 
- $.fn.infotabs.comboMsg = function(options, id)
- {
- if(options.tabExclude)
- {
- if(options.tabExclude == id)
- {
- $('#'+options.tabContainer).hide();
- var url = String(window.location);
- var petaliveurl = /petalive/gi;
- var matched = url.match(petaliveurl);
- if(matched=='petalive')
- {
- $('#combotext').html('<h3>Getting better, faster</h3><p>Our natural remedies are formulated to relieve your pet\'s symptoms and to support their specific body functions. Did you know a holistic approach to your pet\'s health combines remedies that can provide a more complete solution? Below are several effective combos that will leverage your treatment choices for your pet while saving you money.</p>');
- }
- else
- {
- $('#combotext').html('<h3>Getting better, faster</h3><p>Our natural remedies are formulated to relieve your ailment symptoms and to support specific body function. Did you know a holistic approach to your health combines remedies which can provide a more complete solution? Below are several effective combos that will leverage your treatment choices while saving you money.</p>');
- }
- 
- }
- else
- { 
- $('#combotext').html('');
- $('#'+options.tabContainer).show(); 
- }
- }
- };
- 
- $.fn.infotabs.clickk = function(options, obj, selTab, selector, content)
- {
- var tab = $('.'+options.tabSelector);
- var tabContent = $('.'+options.tabContent);
- /// Css for fading div 
- cssFade =
- {
- 'background-color': '#fff',
- '-ms-filter':'progid:DXImageTransform.Microsoft.Alpha(Opacity='+(options.opacityEffect*100)+')',
- 'filter':'alpha(opacity='+(options.opacityEffect*100)+')',
- 'opacity': ''+options.opacityEffect+'',
- '-moz-opacity':''+options.opacityEffect+''
- };
- 
- /// Css for taking out fading div 
- cssNoFade =
- {
- 'background-color': '#fff',
- '-ms-filter':'progid:DXImageTransform.Microsoft.Alpha(Opacity=100)',
- 'filter':'alpha(opacity=100)',
- 'opacity': '1',
- '-moz-opacity':'1'
- };
- 
- var tabId = obj.attr('id'); //addClass 
-
- tab.removeClass(options.tabHighlightClass);
- if(options.opacityEffect)
- { 
- // take out opacity first
- tab.css(cssNoFade);
- }
- if(selTab)
- {
- $('.'+selector).css(cssNoFade);
- }
- obj.addClass(options.tabHighlightClass);
- if(options.opacityEffect)
- {
- obj.css(cssFade);
- tab.css({"border":"1px solid #"+options.beforeFade+""});
- obj.css({"border":"1px solid #"+options.afterFade+""});
- }
- if( selTab)
- {
- $('#'+selTab).css(cssFade);
- $("#" + selTab).trigger("click");
- $('.'+selector).css({"border":"1px solid #"+options.beforeFade+""});
- $('#'+selTab).css({"border":"1px solid #"+options.afterFade+""});
- }
- 
- var ref = obj.children().attr('href');
- if(selTab)
- { 
- ref = $('#'+selTab).children().attr('href');
- }
- $.fn.infotabs.comboMsg(options, tabId);
- if(selTab)
- {
- $('.'+content).hide();
- }
- else
- {
- tabContent.hide();
- }
- $(ref).show();
- return false; 
- };
- 
- $.fn.infotabs.defaults =
- { 
- tabSelector: 'tab-selector', 
- tabContent: 'tab-content', 
- tabContainer: 'productDetail', 
- tabExclude: 'LI-COMBOPACKS',
- tabHighlightClass: 'active',
- opacityEffect : 0,
- beforeFade: 'EAEEDA',
- afterFade: 'B9BF95',
- selectedTab: ''
- };
- })(jQuery); 
-
-	
-	
+		jQuery.ajax({
+			type: "GET",
+			cache: true,
+			url: "/scripts/minify/?g=mainScripts",
+			dataType: 'script',
+			async: true
+		});		
 	var w = "home";var x = "hqmnvsj7";
 	</script>
 </head>
@@ -619,97 +224,48 @@ $(document).ready(function() {
 <body>
 	<div id="wrap">
 	
-		<script type="text/javascript" src="/scripts/mageService.js"></script>
-<!-- socialize.js script should only be included once -->
-<script type="text/javascript" src="//cdns.gigya.com/js/socialize.js?apiKey=2_0D3bP3WevGko7URo4JFY1tqTKSYGTrechpc7Uawej4VXc8uoEv4y5Yxn-TEaYpFF"></script>
-<script type="text/javascript">
-var conf=
-{
-	APIKey: MagentoService.getGigyaApiKey()
-	,enabledProviders: 'facebook,twitter,yahoo,messenger,google,openid'
-}
-</script>
-
-<!--PICOSEARCH_SKIPTEXTSTART-->
-<div id="header">
-
-	<div id="logoLink"><a href="/" onclick="s_objectID='top_logoLink';">&nbsp;</a></div>				   
-	<div class="phoneNumbers">
-		<p>Toll-Free <span class="number">1.877.289.1235</span></p>
-		<p>International <span class="number">1.561.999.8857</span></p>
-	</div><!--close: #phoneNumbers -->
-    
-    
-  <!--Login magento -->
-
-<script type="text/javascript">
-var login_params=
-{
-	useHTML: 'true'
-	,showTermsLink: 'false'
-	,height: 15
-	,width: 80
-	,containerID: 'componentDiv2'
-	,UIConfig: '<config><body><controls><snbuttons buttonsize="15"></snbuttons></controls></body></config>'
-	,redirectURL: "/cart/services/gigya/login?redirect="+ location.pathname + MagentoService.splitGetParams()
-}
-</script>
-<script type="text/javascript">
-$(function(){
-var gigya = MagentoService.getGigyaData();
-if(gigya != null)
-{
-	jQuery("#gigyaAccountList #gigyaName").html(gigya.name);
-	jQuery('#gigyaAccountList #gigyaImg').attr('src', 'https://cdns.gigya.com/proxy/photos.ashx?u='+ gigya.img);
-	jQuery('#gigyaRightBar').hide();
-	jQuery('#accountList').hide();
-	jQuery('#gigyaAccountList').show();
-}
-});
-</script>
-
- <div id="accountBar" style="width: auto; min-width: 385px;">
-		<ul id="accountList">
-			<li class="myCart first"><a rel="nofollow" href="/cart/checkout/cart" onclick="s_objectID='top_MyCart';">My Cart</a></li>
-			<li class="OrderStatus"><a rel="nofollow" href="/cart/sales/order/history/" onclick="s_objectID='top_OrderStatus';">Order Status</a></li>
-			<li class="myAccount"><a rel="nofollow" href="/cart/customer/account/" onclick="s_objectID='top_MyAccount';">My Account</a></li>
-			<li class="Help"><a href="/contact_us.shtml" class="thickbox">Help</a></li>
-		</ul>
-		<ul id="gigyaAccountList" style="display: none; float: right; padding-right: 10px;">
-            <li style="padding-left: 0;"><img src="/images/guy_normal.png" id="gigyaImg" width="12" height="12"> Hi <span id="gigyaName">guest</span>. Connection</li>
-			<li style="padding-left: 0;">
-<div id="componentDiv2"></div>
-<script type="text/javascript">
-   gigya.services.socialize.showLoginUI(conf,login_params);
-</script></li>
-			<li class="myCart"><a rel="nofollow" href="/cart/checkout/cart" onclick="s_objectID='top_MyCart';">My Cart</a></li>
-			<li class="OrderStatus"><a rel="nofollow" href="/cart/checkout/onepage" onclick="s_objectID='top_OrderStatus';">Check Out</a></li>
-			<li class="Help"><a href="/cart/customer/account/logout" class="thickbox">Logout</a></li>
-		</ul>
-  </div>
-
-
-
-</div><!--close: #header -->
-		<div id="mainNav">
+		<!--PICOSEARCH_SKIPTEXTSTART-->
+<div id="header"> 
+    <div id="logopromo"><a href="/"><img src="/images/design/nr-logo.jpg" width="371" height="56" style=" margin-top: 5px;"></a>
+</div>  <!--End Logo & Banner-->
+    <div class="affilate"></div>
+    <div id="moreinfo"> 
+      <ul>
+        <li class="greycart"><a href="/cart/checkout/cart">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cart</a></li>
+        <li><a href="/cart/index.php/customer/account/login/">order status</a></li>
+        <li><a href="/cart/index.php/customer/account/login/">my account</a></li>
+        <li><a href="/contact_us.shtml">contact us</a></li>
+      </ul>
+      <p class="tollintern">24/7 Toll-Free <span class="bignumbers">1.877.289.1235</span></p>
+      <p class="tollintern">International <span class="bignumbers">1.561.999.8857</span></p>
+      <p class="flatshipping"><strong>$5.95 Flat Rate Shipping</strong></p>     
+    </div><!--End More Info-->
+  <div class="clear"></div>
+</div> <!--End Header-->
+<!--PICOSEARCH_SKIPTEXTEND-->
+		<!--PICOSEARCH_SKIPALLSTART-->
+<div id="mainNav">
   <ul>
     <li class="first"><a href="/" onclick="s_objectID='top_Home';">Home</a></li>
     <li><a href="/ask_us.shtml" onclick="s_objectID='top_AskUS';">Ask Our Experts</a></li>
     <li><a href="/browse.shtml" onclick="s_objectID='top_Products';">Products</a></li>
     <li><a href="/testimonials/index.html" onclick="s_objectID='top_Testimonials';">Testimonials</a></li>
     <li><a href="/ailment-disease-list-remedy.html" onclick="s_objectID='top_Health';">Health A-Z</a></li>
-    <li><a href="/blog/" onclick="s_objectID='top_BLOG';">BLOG</a></li>
+    <li><a href="/blog/" onclick="s_objectID='top_BLOG';">Blog</a></li>
     <li><a href="/about_us.shtml" onclick="s_objectID='top_AboutUs';">About Us</a></li>
+    <li><a href="/contact_us.shtml" onclick="s_objectID='top_AboutUs';">Customer Service</a></li>
     <li class="mainNavLast"><a href="/petalive/index.html" onclick="s_objectID='top_ForPets';">For Pets</a></li>
   </ul>
 </div>
+<img src="/images/promo-bar.gif" width="982" height="40" border="0" style="margin-top: 5px;">
 <!--close: #mainNav -->
-<img src="/images/promo-banner.jpg" width="982" height="55">
+<!--PICOSEARCH_SKIPALLEND-->
 
 		
 		<div id="content">
 			<div id="mainSideColumn">
-                <div id="searchBoxsp">
+                <!--PICOSEARCH_SKIPALLSTART--> 
+<div id="searchBoxsp">
 <div class="sideBox">
 <p class="sideBoxHeader">Search Our Site</p>
 <div class="sideBoxContentSearch">
@@ -728,10 +284,10 @@ if(gigya != null)
 				<div class="sideBoxContent2" id="selectAProduct">
 				<form name="form1" method="post" action="">
 					<select name="ProductJumpList" class="searchbox" onchange="MM_jumpMenu('parent',this,1)">
-				   <option selected="selected" value="#" class="seclecttext">---- Product List ----</option>
-				   <option value="/products/a+testcalmer-maintain-calm-nerves.html">A+ TestCalmer</option>
-				   <option value="/products/acidfreeflux-acid-indigestion-heartburn-remedy.html">Acid Free-Flux</option>
-				   <option value="/products/adaptozen-adaptogens-ph-balance-body.html">AdaptoZen</option>
+				    <option selected="selected" value="#" class="seclecttext">---- Product List ----</option>
+				    <option value="/products/a+testcalmer-maintain-calm-nerves.html">A+ TestCalmer</option>
+				    <option value="/products/acidfreeflux-acid-indigestion-heartburn-remedy.html">Acid Free-Flux</option>
+				    <option value="/products/adaptozen-adaptogens-ph-balance-body.html">AdaptoZen</option>
 					<option value="/products/adrenoboost-adrenal-glands-function.html">AdrenoBoost</option>					
 					<option value="/products/afterbirthdrops-natural-oxytocin-placenta-delivery.html">AfterBirth Drops</option>
 					<option value="/products/agora-fear-leaving-house-crowds.html">AgoraFear Relief</option>
@@ -860,6 +416,21 @@ if(gigya != null)
 					<option value="/products/newmama-drops-natural-labor-recovery.html">NewMama Drops</option>
 					<option value="/products/nicotonic-stop-smoking-naturally.html">NicoTonic</option>
 					<option value="/products/nippleconditioningcream-cracked-nipples-breastfeeding.html">Nipple Conditioning Cream</option>
+                    <option value="/products/nressentials-bio-5-probiotic-blend.html">NR Essentials Bio-5 Probiotic Blend</option>
+                    <option value="/products/nressentials-calcium-magnesium-support-bones.html">NR Essentials Calcium/Magnesium</option>
+                    <option value="/products/nressentials-coq10-maintain-cellular-health.html">NR Essentials CoQ10</option>
+                    <option value="/products/nressentials-dha-support-brain-nerve-health.html">NR Essentials DHA</option>
+                    <option value="/products/nressentials-garlic-promote-immune-system-health.html">NR Essentials Garlic</option>
+                    <option value="/products/nressentials-multivitamin-provide-daily-nutritional-needs.html">NR Essentials Multivitamin</option>
+                    <option value="/products/nressentials-multivitamin-for-men.html">NR Essentials Multivitamin for Men</option>
+                    <option value="/products/nressentials-multivitamin-for-women.html">NR Essentials  Multivitamin for Women</option>
+                    <option value="/products/nressentials-omega-lemonade-smoothie-adults.html">NR Essentials Omega Lemonade Smoothie</option>
+                    <option value="/products/nressentials-omega-lemonade-smoothie-kids.html">NR Essentials Omega Lemonade Smoothie for Kids</option>
+                    <option value="/products/nressentials-vitamin-b12-methylcobalamin-support-metabolism.html">NR Essentials Vitamin B12 Methylcobalamin</option>
+                    <option value="/products/nressentials-vitamin-b-complex-metabolic-health.html">NR Essentials Vitamin B-Complex</option>
+                    <option value="/products/nressentials-vitamin-c-enhanced-formula.html">NR Essentials Vitamin C Enhanced Formula</option>
+                    <option value="/products/nressentials-vitmain-d3-bone-muscle-strength.html">NR Essentials Vitamin D3</option>
+                    <option value="/products/nressentials-vitmain-e-tocopherols-tocotrienols.html">NR Essentials Vitamin E </option>
 					<option value="/products/oralassist-toothache-pain-relief-remedy.html">Oral-Assist</option>
 					<option value="/products/oralsoothe-natural-herbal-teething-remedy.html">OralSoothe</option>
 					<option value="/products/pre-party-protect-liver-detox.html">Pre-Party Protect</option>
@@ -940,7 +511,9 @@ if(gigya != null)
 				</div><!--close: #sideBoxContent -->
 </div>
 </div><!--End SearchBox-->
-                <div class="sideBox">
+<!--PICOSEARCH_SKIPALLEND--> 
+                <!--PICOSEARCH_SKIPTEXTSTART-->
+<div class="sideBox">
 <p class="sideBoxHeader">Categories</p>
 				<ul id="categories">
 				
@@ -955,6 +528,11 @@ if(gigya != null)
 						<a href="/category/psychological-remedies-health-natural-herbal.html" onclick="s_objectID='cat_Psychological';">Psychological<p>Mood Support, Stress &amp; Sleep, Learning &amp; Concentration…</p>
 						<div class="categoryBkgdBottom"></div></a>
 				  </li><!--End Psychological-->
+                  
+                    	<li><a href="    /nr-essentials-daily-vitamins-and-supplements.html"><img src="/images/new.gif" alt="" border="0"> Vitamins &amp; Supplements
+                    	    <p>Multivitamins, CoQ10, Omegas, D3, E, B-Ccomplex, Probiotics…</p>
+					    <div class="categoryBkgdBottom"></div></a>
+				  </li> <!-- End Vitamins-->
 				  
 				
 					<li>
@@ -1018,10 +596,13 @@ if(gigya != null)
 						<p>Immunity &amp; General Support, Digestive Support, Minor Travel Injuries…</p>
 					    <div class="categoryBkgdBottom"></div></a>
 				  </li> <!-- End Travel-->
+                  
+                
 
 
 				</ul>
-</div>	
+</div>
+<!--PICOSEARCH_SKIPTEXTEND-->	
               
 			</div><!--close: mainSideColumn -->
              <div id="mainColumn">
@@ -1056,8 +637,14 @@ if(gigya != null)
 			<h3>How You Can Access Or Correct   Your Information  </h3>
 			<p>You can access all your personally identifiable   information that we collect online and maintain by accessing Your Account on any   page. You can correct factual errors in your personally identifiable information   by editing it online. To protect your privacy and security, we require that you   select a password, and then log on using that password to access or change your   information. </p>
 			<h3>How To Contact Us  </h3>
-			<p>Should you have other   questions or concerns about these privacy policies, please call us at +1.561.544.6006 Ext. 2 or send us an email at <a href="mailto:service@nativeremedies.com">service@nativeremedies.com</a> </p>
-			
+		
+     <div style="font-size:13px; font:andale mono, times;">If  you have any questions about our privacy policy, please contact us using
+       <!-- BEGIN LivePerson Button Code --><div id="lpButDivID-1313677060884" style="font-size:13px; width:62px; height:14px; display:inline-block; margin-left:1px"></div>
+<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/77392797/?cmd=mTagRepstate&amp;site=77392797&amp;buttonID=7&amp;divID=lpButDivID-1313677060884&amp;bt=3&amp;c=1"></script>
+,
+  <a href="/contact-us-form.html" style="font:andale mono, times"><strong><u>email</u></strong></a> or  call customer service at +1.561.544.6006 Option 1.<br>
+  <br>
+			  </div>
 			</div>
             <script type="text/javascript">
 pageTracker._setCustomVar(1,'ContentSection','company-info',3);
@@ -1069,73 +656,24 @@ pageTracker._setCustomVar(1,'ContentSection','company-info',3);
             
 	
             <div id="secondarySideColumn">
-				<!--Login magento -->
-
-<div id="searchBoxsp">
-<div class="sideBox2" id="gigyaRightBar">
-<p class="sideBoxHeader2">Quick Sign-In With Your:</p>
-<div class="sideBoxContentSearch">
-<script type="text/javascript">
-var login_params=
-{
-	useHTML: 'true'
-	,showTermsLink: 'false'
-	,hideGigyaLink: 'true'
-	,height: 50
-	,width: 175
-	,containerID: 'componentDiv3'
-	,redirectURL: "/cart/services/gigya/login?redirect="+ location.pathname + MagentoService.splitGetParams()
-}
-</script>
-<div id="componentDiv3"></div>
-<script type="text/javascript">
-   gigya.services.socialize.showLoginUI(conf,login_params);
-</script>
-				</div><!--close: #sideBoxContent -->
-</div>
-</div>
-
-<!--Login magento -->
-
-
+				<!--PICOSEARCH_SKIPALLSTART-->
 
 <div id="guarantee" class="sideBox">
 	<div class="sideBoxContentGuarantee">
-		<a class="guarantee-link" href="/AJAX/money_back_guarantee.html"><img src="/cart/skin/frontend/nativeremedies/default/images/moneybackguarantee.gif" alt="One Year Guarantee" border="0" onclick="s_objectID='right_GuaranteeImage';"></a>
-  		<p><a class="guarantee-link" href="/AJAX/guarantee.html?height=485&amp;width=420" onclick="s_objectID='right_Guarantee';">1-Year Guarantee!</a></p>			
-		<div class="guaranteeRow"><p class="privacy"><a href="/privacy.shtml" onclick="s_objectID='right_privacy';">Privacy Secured</a></p></div>
-		<div class="guaranteeRow"><p class="shipping"><a href="/shippingpolicy.shtml" onclick="s_objectID='right_Shipping';">Worldwide Shipping</a></p></div>				
+		<a class="guarantee-link dialog" href="/AJAX/money_back_guarantee.html"><img src="/cart/skin/frontend/nativeremedies/nativeremedies/images/moneybackguarantee.gif" alt="One Year Guarantee" border="0" onclick="s_objectID='right_GuaranteeImage';"></a>
+  		<p><a class="guarantee-link dialog" href="/AJAX/money_back_guarantee.html" onclick="s_objectID='right_Guarantee';">1-Year Guarantee!</a>
+	  </p>
+      <p class="privacy"><a href="/privacy.shtml" onclick="s_objectID='right_privacy';">Privacy Secured</a></p>
 	</div><!-- close: #sideBoxContent -->
-</div><!--close: #sideBox -->
-<div id="guarantee-dialog-modal" title="">
+</div>
+<div id="guarantee" class="sideBox">
+<a href="/nr-essentials-daily-vitamins-and-supplements.html"><img src="/images/side-bar.jpg" border="0"></a></div>
+<!--close: #sideBox -->
+<div id="guarantee-dialog-modal" style="display:none">
 <div id="guarantee-content"></div>
 </div>
-<script>
-	// JavaScript Document
-jQuery(document).ready(function()
-{
-		jQuery('.guarantee-link').live('click', function() {
-			jQuery.ajax({
-			  url: '/AJAX/money_back_guarantee.html',
-			  success: function(data, e) {
-				  
-				jQuery("#guarantee-dialog-modal").dialog({
-					height: 380,
-					width: 500,
-					modal: true//,
-					//position : 'right'
-				}); // end modal
-				jQuery('#guarantee-content').html(data);
-			  } // end success
-			}); // end ajax 
-			return false;
-		});	
-});	
-</script>	
 
-
-                 <!--PICOSEARCH_SKIPTEXTSTART-->
-<div id="newsletter" class="sideBox">
+                 <div id="newsletter" class="sideBox">
 	<div class="sideBoxContentNewsletter">
 		<img src="/images/design/newsletterBoxHeader.gif" alt="Free Newsletter">  
     	<form action="/newsletter.php?form=newsletter" method="post" name="newsletterForm" id="form">	
@@ -1148,7 +686,7 @@ jQuery(document).ready(function()
 				<div align="center">
 				<input class="searchButton" id="newsletterSignupSubmit" type="image" src="/images/design/btAddMe.gif" value="Add Me!">
 				</div>
-		        <p>Privacy Assured - We   don't share your email address with <u>anyone</u>! &nbsp;Unsubscribe at any time.</p>
+		      
     	</form>
     	
     </div><!--close: #sideBoxContent -->
@@ -1156,40 +694,39 @@ jQuery(document).ready(function()
 
 
 <script>
-jQuery(document).ready(function()
-{
-		jQuery('input#newsletterSignupSubmit').live('click', function() {
-			name = jQuery('#newsletter_name').val();
-			email = jQuery('#newsletter_email').val();
-			
-			if(!/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/.test(email) || email.length < 5)
-			{
-				alert('Please enter a valid email address.');
-				return false;
-			}
-			
-			if(name.length < 3)
-			{
-				alert('Please enter your name.');
-				return false;
-			}
-			
-			jQuery.ajax({
-			  url: '/AJAX/nl_captcha.php?domain=pa',
-			  success: function(data, e) {
-				  
-				jQuery("#guarantee-dialog-modal").dialog({
-					height: 350,
-					width: 400,
-					modal: true//,
-					//position : 'right'
-				}); // end modal
-				jQuery('#guarantee-content').html(data);
-			  } // end success
-			}); // end ajax 
-			return false;
-		});	
-});
+	$(function() {
+						jQuery('input#newsletterSignupSubmit').click(function() {
+							name = jQuery('#newsletter_name').val();
+							email = jQuery('#newsletter_email').val();
+							
+							if(!/^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/.test(email) || email.length < 5)
+							{
+								alert('Please enter a valid email address.');
+								return false;
+							}
+							
+							if(name.length < 3)
+							{
+								alert('Please enter your name.');
+								return false;
+							}
+							
+							jQuery.ajax({
+							  url: '/AJAX/nl_captcha.php?domain=pa',
+							  success: function(data, e) {
+								  
+								jQuery("#guarantee-dialog-modal").dialog({
+									height: 350,
+									width: 400,
+									modal: true//,
+									//position : 'right'
+								}); // end modal
+								jQuery('#guarantee-content').html(data);
+							  } // end success
+							}); // end ajax 
+							return false;
+						});	
+		 });
 //pageTracker._trackEvent('pa_newsletter', 'submit', 'pa_newsletter_subscribe'); return checkForm();
 </script>
                  <div id="socialmedia"> 
@@ -1197,13 +734,15 @@ jQuery(document).ready(function()
     <a href="http://twitter.com/nativeremedies" target="_blank"><img src="/images/twitter.jpg" alt="twitter" width="45" height="45"></a> 
     <a href="http://feeds.feedburner.com/nativeremedies/ItMs" target="_blank"><img src="/images/rss.jpg" alt="RSS" width="45" height="45"></a>
 </div>
+<!--PICOSEARCH_SKIPALLEND-->
 
             </div><!--close: #secondaryColumn -->
         	<div class="clear"></div>
     	</div><!--close: #content -->
 		
-		<div id="footerUpdate">
-    <div id="footerLogo"><a href="http://www.nativeremedies.com"><img src="/images/design/logoFooter.gif"></a></div>
+		<!--PICOSEARCH_SKIPTEXTSTART-->
+<div id="footerUpdate">
+    <div id="footerLogo"><a href="http://www.nativeremedies.com"><img src="/images/design/logoFooter.gif.png"></a></div>
     <div id="footerUpdateNav">
     <div style="background: #4e3114; padding: 10px;">
         <div class="footerUpdateColumn1">
@@ -1227,9 +766,11 @@ jQuery(document).ready(function()
                   <li><a href="/ebooks/index.html">Download eBook</a></li>
                   <li><a href="/news-natural-herbal-remedies-index.shtml">Newsletter Archives</a></li>
                   <li><a href="/ailment-disease-list-remedy.html">Health A-Z</a></li>
+                  <li><a href="/ingredients/index.html">Ingredients</a></li>
                   <li><a href="/testimonials/index.html">Testimonials</a></li>
                   <li><a href="/faqs/index.html">FAQs</a></li>
                   <li><a href="/specials.shtml">Product Specials</a></li>
+                  <li><a href="/natural-remedies-bargains-discounts-and-specials.html">Top Bargains</a></li>
             </ul>   
         </div>
         
@@ -1237,7 +778,6 @@ jQuery(document).ready(function()
             <p class="footerUpdateHeader">Services</p>
                 <ul>
                   <li><a href="/cart/index.php/customer/account/login/">Account Login</a></li>
-                  <li><a href="/auto-ship.html">EasyShip Program</a></li>
                   <li><a href="/shippingpolicy.shtml">Worldwide Shipping</a></li>
                   <li><a href="/currency-converter.shtml">Currency Converter</a></li>
                   <li><a href="/site_map.shtml">Site Map</a></li>
@@ -1248,7 +788,7 @@ jQuery(document).ready(function()
             <p class="footerUpdateHeader">Partner with Us</p>
                 <ul>
                   <li><a href="/native-remedies-affiliate-program.shtml">Become an Affiliate</a></li>
-                  <li><a href="/wholesale-drop-ship-distributor.html">Become a Distributor</a></li>
+                  <li><a href="/wholesale-drop-ship-distributor.html">Reseller Inquiries</a></li>
             </ul>     
         </div>
         
@@ -1267,37 +807,49 @@ jQuery(document).ready(function()
     </div><!-- close: #footerUpdateNav -->
 </div><!-- close: #footerUpdate -->
 
-
+<!--PICOSEARCH_SKIPTEXTEND-->
 		<div class="clear"></div>
 	</div><!--close: #wrapper -->
-    <div id="confidenceBadges" align="center">
-<!-- START SCANALERT CODE -->
-        <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.nativeremedies.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.nativeremedies.com/12.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
-    <!-- END SCANALERT CODE --> 
+    <!--PICOSEARCH_SKIPALLSTART-->
+<div id="confidenceBadges" align="center">
+<!-- Start Shopping Rating -->
+<a href="http://www.shopping.com/xMR-Native Remedies~MRD-307492~S-1" target="_blank"><img src="http://www.shopping.com/merchant_logo?ID=307492" alt="Read Our Store Reviews" width="150"></a>
+<!-- End Shopping Rating -->
         <a href="http://www.bbb.org/south-east-florida/business-reviews/information-search-retrieval-services/native-remedies-in-boca-raton-fl-31002086" lang="31002086" id="bbb-report-link" title="Click to verify BBB accreditation and to see a BBB report for Native Remedies LLC" target="_blank"><img src="/images/design/bbb.jpg" height="57" width="150" title="Click to verify BBB accreditation and to see a BBB report for Native Remedies LLC" border="0" alt="Click to verify BBB accreditation and to see a BBB report for Native Remedies LLC"></a>
         <a href="http://www.safeshoppingnetwork.com/detail.cfm?lstid=11355" target="_blank"><img src="/images/design/ssn2.gif" alt="Tested for Safety"></a>
     <!-- GeoTrust Smart Icon tag. Do not edit. -->
-    <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+  <script type="text/javascript" src="https://smarticon.geotrust.com/si.js"></script>
     <!-- end GeoTrust Smart Icon tag -->
-</div><!-- close: sideBox -->
-
-	
+</div><!-- close: sideBox -->	
 	<div id="disclaimer">
 		<p>The statements regarding these products have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. The information on this Web site or in emails is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding your or your child’s condition.</p>
 		<p>All images on this site are property of Native Remedies LLC and/or the original image licensors. The content of these images is not meant to suggest that the person depicted uses or endorses our products or services. Informational material and representations have been provided by the manufacturers of the listed products. Copyright © 1997-2011 Native Remedies, LLC. All rights reserved.</p>
 	</div><!--close: #disclaimer -->
+<!--PICOSEARCH_SKIPALLEND-->
 	<!-- InstanceBeginEditable name="TestingScript" -->
 	<!-- InstanceEndEditable -->
 <!--Google Analytics _trackPageview call -->
 
 <script> 
+//Begin GA-GWO integration Code using Custom Var in SLOT 2 at Session Level
+if(typeof(utmx) !== 'undefined') {
+	var comboNum=utmx('combination');
+	if(comboNum==0){
+		comboVal="control";
+	} else {
+		comboVal="testcombo"+comboNum;
+	}
+	pageTracker._setCustomVar(2,"combo",comboVal,2);
+}
+//End GA-GWO integration Code
+
+
 pageTracker._trackPageview();
+pageTracker._trackPageLoadTime();
 </script>
 
 <!--END Google Analytics NEW -->
 
-
-<!--PICOSEARCH_SKIPTEXTEND-->
 
 <!--CRAZYEGG START-->
 <script type="text/javascript" src="//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/1753.js"> </script>
@@ -1305,18 +857,12 @@ pageTracker._trackPageview();
 
 <!--Start Kampyle Feedback Form Button-->
 
-<div id="k_close_button" class="k_float kc_bottom_sl kc_right" style="display: block;">X</div><div><a href="https://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=2428881&amp;lang=en&amp;form_id=63786" target="kampyleWindow" id="kampylink" class="k_float k_bottom_sl k_right" onclick="javascript:k_button.open_ff('site_code=2428881&amp;lang=en&amp;form_id=63786');return false;"><img src="/images/en-orange-corner-low-right.gif" alt="Feedback Form" border="0"></a></div>
+<div id="k_close_button" class="k_float kc_bottom_sl kc_right"></div><div><a href="https://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=2428881&amp;lang=en&amp;form_id=63786" target="kampyleWindow" id="kampylink" class="k_float k_bottom_sl k_right" onclick="javascript:k_button.open_ff('site_code=2428881&amp;lang=en&amp;form_id=63786');return false;"><img src="/images/en-orange-corner-low-right.gif" alt="Feedback Form" border="0"></a></div>
 <div id="k_slogan" class="k_float k_bottom k_right">
 				<a href="https://www.kampyle.com/" target="_blank">Feedback Form</a></div>
-<script src="/scripts/k_button.js" type="text/javascript"></script>
-<script src="/scripts/k_push.js" type="text/javascript"></script>
 <!--End Kampyle Feedback Form Button-->
 
-<!-- Begin Hiconversion Body -->
-<script id="hiconversion_body_script" type="text/javascript">if (typeof hiconversion_body_update == 'function') hiconversion_body_update()</script>
-<!-- End Hiconversion Body -->
 
-<script language="JavaScript" type="text/javascript" src="/scripts/overture.js"></script><script language="JavaScript" src="//srv.perf.overture.com/collweb/ScriptServlet?ver=1.4&amp;aid=OBFV5AJ8UAQ6SM2B78CVG78KJ4"></script>
 
 <!-- InstanceEnd -->
 </body></html>
