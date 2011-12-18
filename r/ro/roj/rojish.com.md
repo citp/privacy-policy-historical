@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the rojish.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419205041id_/http%3A//www.rojish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rojish.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218111050id_/http%3A//www.rojish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rojish dot Com
 
+## [ Privacy Policy ](http://www.rojish.com/privacy-policy/ "Permanent Link to Privacy Policy")
+
 Privacy Policy for www.rojish.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at rojishroy@yahoo.co.in.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact](http://www.rojish.com/contact/ "contact") us by email at rojishroy[at]yahoo.co.in.
 
 At www.rojish.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.rojish.com and how it is used.
 
