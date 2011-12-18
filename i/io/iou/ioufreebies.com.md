@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ioufreebies.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619204421id_/http%3A//ioufreebies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ioufreebies.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218192612id_/http%3A//www.ioufreebies.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
