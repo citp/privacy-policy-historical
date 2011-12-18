@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ksl.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619200227id_/http%3A//ksl.com/index.php%3Fnid%3D250%26sid%3D95314) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksl.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218084800id_/http%3A//ksl.com/index.php%3Fnid%3D250%26sid%3D95314) for the most accurate reproduction.*
 
-# Privacy Statement - ksl.com
+# Privacy Statement | ksl.com
 
 (Last revised January 5, 2009)  
 
