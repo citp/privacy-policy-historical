@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the buzzinn.net privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619113858id_/http%3A//buzzinn.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzinn.net privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218203935id_/http%3A//buzzinn.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buzz Inn
-
-[](http://www.google.com/reader/link?url=http://buzzinn.net/privacy-policy/&title=Privacy+Policy&srcURL=http://buzzinn.net)
 
 **BuzzInn** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
