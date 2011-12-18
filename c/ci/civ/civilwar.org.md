@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilwar.org privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618223700id_/http%3A//www.civilwar.org/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilwar.org privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218084926id_/http%3A//www.civilwar.org/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
 # Civil War Trust's Privacy Policy
 
@@ -46,3 +46,5 @@ Our system gathers server log data which may include an IP address, the type of 
 While the Civil War Trust is highly selective about which sites we provide links to, we do not control their websites. We encourage you to review the privacy policies posted on these third party sites.
 
 Due to the rapidly evolving technologies on the Internet, we may update this policy. All revisions will be posted to this site. A revised Privacy Policy will apply only to data collected subsequent to its effective date.
+
+**Want the Latest?** Follow us on Twitter and Facebook:
