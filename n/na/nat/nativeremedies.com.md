@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523022349id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nativeremedies.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218102226id_/http%3A//www.nativeremedies.com/privacy.shtml) for the most accurate reproduction.*
 
 # Native Remedies Privacy Policy
 
@@ -48,4 +48,6 @@ You can access all your personally identifiable information that we collect onli
 
 ### How To Contact Us 
 
-Should you have other questions or concerns about these privacy policies, please call us at +1.561.544.6006 Ext. 2 or send us an email at [service@nativeremedies.com](mailto:service@nativeremedies.com)
+If you have any questions about our privacy policy, please contact us using 
+
+, [**_email_**](https://web.archive.org/contact-us-form.html) or call customer service at +1.561.544.6006 Option 1.
