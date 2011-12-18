@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the animationmagazine.net privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516023620id_/http%3A//www.animationmagazine.net/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animationmagazine.net privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218022038id_/http%3A//www.animationmagazine.net/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 Last updated:
-July 16, 2004
+October 8, 2011
 Overview
 Animation Magazine recognizes the importance of protecting the
 privacy of all information provided by users of our web sites,
@@ -15,7 +15,7 @@ users. This Privacy Policy describes the policies of Animation
 Magazine, regarding the collection, use, disclosure and protection of
 the following types of information:
 • Information obtained when you and other users visit the
-www.animationmagazine.com web site.
+www.animationmagazine.net web site.
 • Information obtained through email communications with you related
 to the site.
 This privacy policy does not apply to information that we may collect
@@ -24,8 +24,8 @@ Your use of this site constitutes your acceptance of all of the terms and
 conditions contained in this Privacy Policy and your consent to any
 action we take with respect to your information that is in compliance
 with this Privacy Policy.
-We may change the terms of this Privacy Policy, so users are
-encouraged to review this page from time to time. Your continued use
+We may change the terms of this Privacy Policy, so users are encour-
+aged to review this page from time to time. Your continued use
 of this site following the posting of changes to the Privacy Policy
 means that you accept the changes.
 If you do not agree to this Privacy Policy, as modified from time to
@@ -155,6 +155,6 @@ We encourage you to refer to the privacy policies, if any, of those
 sites.
 This Site is operated by:
 Animation Magazine
-30941 West Agoura Road, Suite 102
-Westlake Village, CA 91361
+26500 West Agoura Road Suite 102-651
+Calabasas, CA 91302
 Email: webmaster@animationmagazine.net
