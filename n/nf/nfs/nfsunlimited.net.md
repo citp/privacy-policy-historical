@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2008-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080622105919id_/http%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219004252id_/http%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
 
-# NFSUnlimited.net - covering Need for Speed Pro Street, Carbon and more - Privacy Policy
+# NFSUnlimited.net - Need for Speed The Run, Hot Pursuit, World, SHIFT and more - Privacy Policy
 
 **NFS Unlimited** has created this privacy statement in order to demonstrate our  commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [NFS Unlimited](http://www.nfsunlimited.net/)
 
 ### Advertisers
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ### Personal Information
 
