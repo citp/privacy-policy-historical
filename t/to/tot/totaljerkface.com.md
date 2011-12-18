@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totaljerkface.com privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227050527id_/http%3A//www.totaljerkface.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaljerkface.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218200846id_/http%3A//www.totaljerkface.com/privacy.php) for the most accurate reproduction.*
 
-# Total Jerkface
+# Privacy
 
 **Privacy Policy for Totaljerkface.com.**
 
