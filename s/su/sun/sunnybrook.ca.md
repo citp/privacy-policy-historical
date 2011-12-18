@@ -1,54 +1,97 @@
-> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620090616id_/http%3A//sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218204344id_/http%3A//sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
 
-# Privacy & Confidentiality - Sunnybrook Hospital
+# Important information for patients and families - Privacy & Confidentiality - Sunnybrook Hospital
 
-At Sunnybrook Health Sciences Centre, we are responsible for personal health information under our control and are committed to a high standard of privacy for our information practices. We are committed to ensuring that staff and patients understand the importance of privacy rights and obligations.
+## Personal Health Information Protection Act
 
-The Personal Health Information Protection Act (PHIPA) balances an individual's right to privacy with the need of health care providers to access and share this information. PHIPA gives an individual the ability to control how his/her own personal health information is collected, used and disclosed.
+The Ontario Government has legislation, the Personal Health Information Protection Act (PHIPA) that came into effect on November 1, 2004. This act has been established to set out rules for the collection and utilization of information that is collected about patients. This page is intended to provide you with information on the new Personal Health Information Protection Act.
 
-#### What Information Do We Collect About You?
+## Collection of personal information
 
-At Sunnybrook we collect personal health information about you directly from you or from the person acting on your behalf.
+We collect personal health information about you. We collect this information either from you directly or from the person acting on your behalf. The information that we collect may include your name, date of birth, address, health history, records of your visits and the care that you received. Occasionally, when we have received your consent, we receive and collect information about you from other sources.
 
-This information may include, for example:
+## Use and disclosure of personal health information
 
-  * Name
-  * Date of birth
-  * Address
-  * Health card & extended health insurance numbers
-  * Health history
-  * Records of your visits to Sunnybrook and the care that you received during those visits. 
+We use and disclose your personal health information as follows:
 
-
-
-Occasionally, we collect personal health information about you from other sources, if we have obtained your consent to do so or if the law permits.
-
-#### We may collect, use or disclose personal health information for the purposes of:
-
-  * Providing health care or assisting in providing health care to an individual;
-  * Planning or delivering patient care programs or services funded by Sunnybrook;
-  * Evaluating, monitoring and allocating resources to programs and services;
-  * Activities to improve the quality of care or quality of any related program or service;
-  * Processing, monitoring, verifying or reimbursing claims for payment;
-  * Research, as approved by a Research Ethics Board;
-  * Teaching and education;
-  * Fundraising to improve healthcare services and programs,
-  * As otherwise consented to by the individual.
+  * To treat and care for you.
+  * To get payment for your treatment and care (from OHIP, WSIB, your private insurer or others).
+  * To conduct risk management activities.
+  * To conduct quality improvement activities, such as completing surveys.
+  * For teaching purposes.
+  * To conduct research.
+  * To compile statistics.
+  * For fundraising to improve our programs and services.
+  * To comply with legal and regulatory requirements.
+  * To fulfill other purposes permitted or required by law.
 
 
 
-#### How to contact Sunnybrook's Privacy Office:
+## It's your choice
 
-If you need more information about how the hospital protects the privacy of your information or if you have concerns with our information handling practices, please contact us: 
+With regard to the above uses and disclosures of your personal health records, you have a choice. You may access and correct your personal health records, or withdraw your consent for some of the above (subject to certain legal exceptions). To do this, please contact us as outlined below.
 
-Sunnybrook Privacy Office  
+## Our pledge to protect your personal health information
+
+The following are a list of pledges to you that we have made to protect your personal health information:
+
+  * We will take steps to protect your personal health information from theft, loss and unauthorized access, copying, modification, use, disclosure and disposal.
+  * We will conduct audits and complete investigations to monitor and manage our privacy compliance.
+  * We will take steps to ensure that everyone who performs services for us protects your privacy and only uses your personal health information for the purposes you have consented to.
+
+
+
+## Contact information
+
+For more information about our privacy protection practices, or to raise a concern you may have about our practices, please contact:
+
+Jeff Curtis, Chief Privacy Officer  
+SHSC Privacy Office  
 2075 Bayview Avenue  
-Toronto, ON M4N 3M5  
-(416) 480-6100 ext. 1236
+Toronto, Ontario M4K 3G9  
+416-480-6100 ext. 1236  
+[privacy@sunnybrook.ca](mailto:privacy@sunnybrook.ca)
 
- **We will ensure that your concerns are investigated and a response is provided to you in a timely manner.**
+You also have the right to complain to the Information and Privacy Commissioner of Ontario if you think we have violated your rights. The Commissioner can be reached as follows:
 
- [Privacy Brochure](http://sunnybrook.ca/uploads/PrivacyPatientNotificationDec2006.pdf)   
- [Patient Privacy Notice  ](http://sunnybrook.ca/uploads/Protecting_Your_Personal_Health_Information.pdf)  
- [Privacy Lockbox Brochure](http://sunnybrook.ca/uploads/privacy_lockbox_july2008.pdf)   
- [Wait Time Information System Privacy FAQ](http://sunnybrook.ca/uploads/PrivacyFAQWaitTimes.pdf) 
+Dr. Ann Cavoukian  
+Information and Privacy Commissioner of Ontario  
+2 Bloor Street East, Suite 1400  
+Toronto, Ontario M4W 1A8  
+416-326-3333  
+[commissioner@ipc.on.ca](mailto:commissioner@ipc.on.ca)  
+[www.ipc.on.ca](http://www.ipc.on.ca/)
+
+## Download this page as a PDF in the following languages:   
+
+
+_(will open a PDF file in a new window)_
+
+[French](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_French_-_For_Print.pdf "will open French PDF in a new window")  
+[  
+](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_French_-_For_Print.pdf "will open French PDF in a new window")
+
+[Arabic](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")  
+[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")
+
+[Chinese - Simplified](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")  
+[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")
+
+[Chinese - Traditional](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")  
+[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")[  
+](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")
+
+[Portugese](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")  
+[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")
+
+[Punjabi](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Punjabi_-_For_Print.pdf "will open a Punjabi PDF in a new window")  
+[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Punjabi_-_For_Print.pdf "will open a Punjabi PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Punjabi_-_For_Print.pdf "will open a Punjabi PDF in a new window")
+
+[Spanish](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Spanish_-_For_Print.pdf "will open a Spanish PDF in a new window")  
+[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Spanish_-_For_Print.pdf "will open a Spanish PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Spanish_-_For_Print.pdf "will open a Spanish PDF in a new window")
+
+[Tamil](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Tamil_-_For_Print.pdf "will open a Tamil PDF in a new window")  
+[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Tamil_-_For_Print.pdf "will open a Tamil PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Tamil_-_For_Print.pdf "will open a Tamil PDF in a new window")
+
+[Urdu](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Urdu_-_For_Print.pdf "will open a Urdu PDF in a new window")  
+[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Urdu_-_For_Print.pdf "will open a Urdu PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Urdu_-_For_Print.pdf "will open a Urdu PDF in a new window")
