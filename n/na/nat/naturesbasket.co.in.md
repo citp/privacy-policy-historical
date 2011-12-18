@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturesbasket.co.in privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618003519id_/http%3A//www.naturesbasket.co.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturesbasket.co.in privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218232012id_/http%3A//www.naturesbasket.co.in/privacy.php) for the most accurate reproduction.*
 
 # Nature's Basket - Management
 
