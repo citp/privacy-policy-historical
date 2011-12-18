@@ -1,47 +1,37 @@
-> *The following text is extracted and transformed from the corero.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430162345id_/http%3A//corero.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corero.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218062452id_/http%3A//www.corero.com/content/privacy.jsp) for the most accurate reproduction.*
 
-# Corero.com - Privacy
+# Privacy Statement
 
-This policy sets out our policy on the privacy of the individual. Corero Systems Limited takes your privacy seriously and information will be used in accordance with the Data Protection Act 1998.
+  
 
-## Your consent
 
-Your use of this website signifies your consent to us collecting and using personal data about you as specified below in accordance with this policy statement. Should we choose to change these terms for any reason, the changes will be posted here so that you are always kept informed about the collection and use of your personal information, and when we disclose it.
+We regard our visitors' privacy as one of our most important values. To protect your personal information, we will limit its collection and use to what is necessary to administer our business, provide you with the highest quality service, and continue to offer you information and opportunities we think will be of interest. **We will not disclose any individual information to other organizations**.
 
-## How do we collect personal information about you and how is it used?
+The company web site contains links to other sites. While we make every effort to link only to sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by other sites. 
 
-You may provide personal information when communicating with us.
+Should you have any questions about the company's Privacy Policy, please e-mail us here: [info@toplayer.com](mailto:info@toplayer.com). 
 
-You may use our services and give your name and e-mail address to make a comment about our services or Web site.
+**General Statement**   
+The company collects personal information from our visitors for three primary purposes: 
 
-If you enter a competition or promotion we will ask your name, address and e-mail address.
+  1. To send/process the information you request quickly and accurately. 
+  2. To help us create web site content most relevant to you. 
+  3. To alert you to new products and services offered by the company. 
 
-We will collect information about your tastes and preferences, both when you tell us and by analysis of customer traffic, including using "cookies".
 
-It may be that some of the personal information you give us (for example, about your health and age) is sensitive personal data within the meaning of the Data Protection Act 1998. Such information ("sensitive information") will only be disclosed with your express consent.
 
-It may be that you provide us details of credit or debit cards or bank accounts in making payment to us. Any such information (confidential financial information) will be disclosed only in accordance with the disclosure policy below.
+**We do not sell, rent, or transmit personal information to other organizations.**
 
-We may use personal information collected about you to help us develop the layout of our website to ensure that our site is as useful and enjoyable as possible.
+**Collection and Use**   
+Our web server tracks and collects general information about the visits to our web site. For example, we compile statistics that show the daily number of visitors to our site, the daily requests we receive for particular web pages, the types of browsers visitors use, the visitors' domain names, etc.
 
-We may use personal information collected about you to let you know about functions on our Web site or changes to our terms and conditions of use.
+The data you provide helps us to customize our web site to better meet your needs. The company may also retain electronic communications you send to our employees. These may be shared only within the company as a means to continually improve customer service. 
 
-## Traffic data
+**Storage and Access**  
+All personal information you provide to the company is secured on our server with restricted access. The company reserves the right to use agents, who are bound by strict confidentiality guidelines, to perform storage and processing functions. Only designated employees or agents who need to carry out legitimate business functions are permitted to view your personal data. Employees or agents who violate the company's Privacy Policy are subject to disciplinary actions, up to and including termination. 
 
-We may provide aggregate statistics about sales, customers, traffic patterns and information to third parties, but these statistics will not include any information that identifies you.
+**Disclosure**  
+Because the company considers the individual information we maintain to be confidential, our policy is to disclose no personal information to third parties unless release is required by law or is pertinent to judicial or government investigations or proceedings. 
 
-## Disclosure policy
+  
 
-We reserve the right to access and disclose individually identifiable information to enable us to comply with applicable laws and lawful government requests to operate its systems and to protect itself or its users.
-
-## How do we protect your information?
-
-We have strict security procedures covering the storage of your information in order to prevent unauthorised access and to comply with the terms of the Data Protection Act 1998. This means that sometimes we may ask you for proof of identity or for other personal information before we can process your call or enquiry further.
-
-## What are cookies and how do we deal with them?
-
-A cookie is a piece of information that is stored on your computer's hard drive. It is normally sent by a web server to you and enables the server to collect information back from your site visit.
-
-## How to contact us
-
-If you have any questions or concerns about this policy, please call us on +44 (0)1923 897 333 or email to [info@corero.com](mailto:info@corero.com)
