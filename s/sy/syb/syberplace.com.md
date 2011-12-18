@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the syberplace.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620232551id_/http%3A//www.syberplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syberplace.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218200128id_/http%3A//www.syberplace.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-**SyberPlace privacy policy for the internet**
+# SyberPlace | Privacy Policy
 
 **Personal Information**
 
