@@ -1,17 +1,20 @@
-<!--The following is the downloaded HTML source of the kuow.org privacy policy that was archived on 2010-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218003539id_/http%3A//www.kuow.org/listen/online_security.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kuow.org privacy policy that was archived on 2011-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218190852id_/http%3A//www.kuow.org/listen/online_security.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	
 		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 		<title>Privacy Policy</title>
 		<meta name="keywords" content="KUOW, public radio, seattle public radio, news, talk, npr, local news, washington state, northwest, puget sound, homepage, home, kuow website, national public radio, kuow.org, www.kuow.org, information, art, arts, entertainment, politics, current events, public broadcasting, awards">
 		<meta name="title" content="Privacy Policy">
 		<meta name="description" content="KUOW Puget Sound Public Radio: NPR News and Information">
+		<link rel="image_src" href="http://www.kuow.org/images/pod/logo_144.jpg">
 		<link href="http://feeds2.feedburner.com/KUOW" type="application/rss+xml" rel="alternate" title="KUOW 94.9 Puget Sound Public Radio">
 		<link href="/css/screen.css" type="text/css" rel="stylesheet" media="screen, projection">
 		<link href="/css/topnav.css" type="text/css" rel="stylesheet" media="screen, projection">
 		<link href="/css/lists.css" type="text/css" rel="stylesheet" media="screen, projection">		
 		<link href="/css/print.css" type="text/css" rel="stylesheet" media="print">
+		<link href="/css/pledge.css" type="text/css" rel="stylesheet" media="screen, projection">
 		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 		<script type="text/javascript">
 		  _uacct = "UA-1741309-109";
@@ -22,25 +25,151 @@
 		</script>
 		<script type="text/javascript" src="/js/c_config.js"></script><!--top nav function-->
 		<script type="text/javascript" src="/js/c_smartmenus.js"></script><!--top nav function-->
-	</head>
-	<body>
+		
+<!--
+INCLUDE THIS CSS FILE ON THE PAGE YOU'RE INCLUDING THIS SCRIPT ON:
+		<link href="css/pledge.css" type="text/css" rel="stylesheet" media="screen" />
+-->
+
+		<!--Pledge Overlay-->
+		</head><body><div id="pledgeOverlay">	
+				<div class="yui3-widget-hd">
+						 <p id="pledgetitle">GIVE TODAY</p>
+						<div id="hide-pledgeOverlay"><img src="/splash/close_up.png" name="pic1" onmouseover="up('pic1')" onmouseout="off('pic1')" width="41px" height="38px"></div>
+				</div>
+				<div class="yui3-widget-bd">
+					<p id="pledge">Bright ideas to keep you thinking all year! Make your tax–deductible gift by 12/31 to keep the programs you value going strong in 2012.</p>
+					<a href="https://www.kuow.org/pledge" onclick="javascript:urchinTracker('/clicks/pledgeoverlay');"><img src="/splash/pledge_but.png" name="pic2" onmouseover="up('pic2')" onmouseout="off('pic2')" width="246px" height="61px" style="padding:230px 0 0 420px; position:absolute;"></a>
+				</div>
+				<div class="yui3-widget-ft">
+					<div>
+						<img src="/splash/pledge_no_but.png" id="hide-pledgeOverlay1" name="pic3" onmouseover="up('pic3')" onmouseout="off('pic3')" width="245px" height="62px">
+					</div>
+				</div>
+		</div>
+		<!--End Pledge Overlay-->
+
+		<script src="http://yui.yahooapis.com/3.1.1/build/yui/yui-min.js"></script>
+
+		<script>
+			YUI({
+				gallery: 'gallery-2010.05.12-19-08'
+				}).use('gallery-overlay-extras', 'cookie', 'event-base', function(Y){
+							
+					Y.on('contentready', function(){
+								  
+						var ppc = Y.Cookie.get("KUOWpledge");
+						
+						if ( ppc == null ) {
+							
+							Y.one('#pledgeOverlay').setStyle("display", "block");
+							
+							var pledgeOverlay = new Y.Overlay({
+									srcNode           : '#pledgeOverlay',
+									width             : '770px',
+									height            : '520px',
+									zIndex            : 10001,
+									centered          : true,
+									constrain         : true,
+									render            : true,
+									visible           : true,
+									plugins           : [
+										{ fn: Y.Plugin.OverlayModal },
+										{ fn: Y.Plugin.OverlayKeepaligned }
+									]
+								});
+							
+							Y.one('#hide-pledgeOverlay').on('click', Y.bind(pledgeOverlay.hide, pledgeOverlay));
+							Y.one('#hide-pledgeOverlay1').on('click', Y.bind(pledgeOverlay.hide, pledgeOverlay));
+							
+							var expire_time = new Date();
+							expire_time.setMinutes(expire_time.getMinutes()+60); 
+							
+							Y.Cookie.set("KUOWpledge", "sleep", {
+								expires: expire_time
+								});
+						}
+						else{
+							Y.one('#pledgeOverlay').setStyle("display", "none");
+							
+							var pledgeOverlay = new Y.Overlay({
+									srcNode           : '#pledgeOverlay',
+									width             : '770px',
+									height            : '520px',
+									zIndex            : 10001,
+									centered          : true,
+									constrain         : true,
+									render            : true,
+									visible           : false, 
+									plugins           : [
+										{ fn: Y.Plugin.OverlayModal },
+										{ fn: Y.Plugin.OverlayKeepaligned }
+									]
+								});
+						}
+					}, '#pledgeOverlay');
+				}); <!-- End YUI -->
+</script>
+<script>
+		<!-- Rollover Buttons -->
+		if (document.images)
+		   {
+		     pic1on= new Image;
+			 pic1on.src="http://128.208.34.45/splash/close_down.png";
+
+			 pic1off= new Image;
+			 pic1off.src="http://128.208.34.45/splash/close_up.png";
+			 
+			 pic2on= new Image;
+			 pic2on.src="http://128.208.34.45/splash/pledge_but_down.png";
+
+			 pic2off= new Image;
+			 pic2off.src="http://128.208.34.45/splash/pledge_but.png";
+			 
+			 pic3on= new Image;
+			 pic3on.src="http://128.208.34.45/splash/pledge_no_but_down.png";
+	
+			 pic3off= new Image;
+			 pic3off.src="http://128.208.34.45/splash/pledge_no_but.png";
+		   }
+		function up(imgName,imgName2)
+		 {
+		   if (document.images)
+			{
+			  imgOn=eval(imgName + "on.src");
+			  document[imgName].src= imgOn;
+			}
+		  }
+		function off(imgName,imgName2)
+		  {
+		   if (document.images)
+			{
+			  imgOff=eval(imgName + "off.src");
+			  document[imgName].src= imgOff;
+			}
+		 }
+		</script>
+		
+			
+	
 		<a id="hidden" title="skip navigation" href="#body">skip navigation</a>
 		<div id="wrap">
 			<div id="head"><!--all "head" content should be an include file-->
 			  <a href="/index.php"><img src="/images/bg/kuow_home.gif" alt="KUOW.org 94.9 FM" class="left" style="margin-top:50px;"></a>
 			  <div id="listen_box">
 				<img src="/images/bg/listenlive.gif" alt="listen live to KUOW streams" class="listenhead" width="97" height="14">
-				<p><a href="http://www.kuow.org/stream/kuow.ram" title="real audio stream" tabindex="100"><img src="/images/bg/real.gif" alt="real audio stream" height="22" width="78"></a><a href="http://www.kuow.org/stream/kuow.asx" target="_blank" title="windows stream"><img src="/images/bg/windows.gif" alt="windows stream" width="78" height="22"></a></p>
+				<p><a href="http://www.kuow.org/real.ram" title="real audio stream" tabindex="100"><img src="/images/bg/real.gif" alt="real audio stream" height="22" width="78"></a><a href="http://www.kuow.org/kuow.asx" target="_blank" title="windows stream"><img src="/images/bg/windows.gif" alt="windows stream" width="78" height="22"></a></p>
 				<p><a href="http://128.208.34.80:8002/listen.pls" title="mp3 high stream"><img src="/images/bg/mp3hi.gif" alt="mp3 high stream" width="69" height="20"></a><a href="http://128.208.34.80:8000/listen.pls" title="mp3 low stream"><img src="/images/bg/mp3lo.gif" alt="mp3 low stream" width="21" height="20"></a></p>
 				<img src="/images/bg/ondemand.gif" alt="KUOW on demand" class="listenhead2" width="113" height="13">
 				<p><a href="/podcasts" title="KUOW podcasts"><img src="/images/bg/pod.gif" alt="KUOW podcasts" width="39" height="25"></a><a href="/podcasts/rss.php" title="KUOW RSS feeds"><img src="/images/bg/rss.gif" alt="KUOW RSS feeds" width="37" height="25"></a></p>
+				<p><a href="/socialmedia.php" title="KUOW social media"><img src="/images/bg/socialmedia.gif" alt="KUOW social media" width="154" height="30"></a></p>
 			</div><!--listen_box-->
 				<ul id="Menu1" class="MM">
 					<li><a href="/listen" class="rollover" id="listen" title="listen"><span class="alt">Listen</span><img src="/images/rollover/blank.gif" alt="Listen" name="Listen" height="21" width="58"></a>
 						<ul>
-							<li><a href="/listen" accesskey="l" title="listen">Listen Live</a></li> 
-							<li><a href="/podcasts" title="podcasts">Podcasts</a></li>	
-							<li><a href="/mobile" title="mobile">Mobile</a></li>									
+							<li><a href="/listen" accesskey="l" title="listen">Listen Live</a></li>
+							<li><a href="/mobile" title="podcasts">Mobile</a></li> 
+							<li><a href="/podcasts" title="podcasts">Podcasts</a></li>			
 							<li><a href="/about/servicearea.php" title="service area">Service Area</a></li>
 							<li><a href="/listen/reception.php" title="reception">Radio Reception</a></li> 															
 							<li><a href="/about/digitalradio.php" title="hd radio">HD Radio</a></li> 
@@ -58,7 +187,8 @@
 							<li><a href="/speakersforum" title="Speakers' Forum">Speakers' Forum</a></li>
 							<li><a href="/swingyears" title="Swing Years">Swing Years</a></li>
 							<li><a href="http://kuow2.org" accesskey="x" title="KUOW2">KUOW2</a></li>
-							<li><a href="/pvf" title="Programming Grant">Program Venture Fund</a></li>  		
+							<li><a href="/pvf" title="Programming Grant">Program Venture Fund</a></li>
+							<li><a href="/radioactive" title="RadioActive">RadioActive</a></li> 							
 						</ul>
 					</li>
 					<li><a href="/news" class="rollover" id="news" title="news"><span class="alt">News</span><img src="/images/rollover/blank.gif" alt="News" name="News" height="21" width="56"></a>
@@ -90,6 +220,7 @@
 						<ul>
 							<li><a href="/about" title="about KUOW">About KUOW</a></li>
 							<li><a href="/contact.php" accesskey="c" title="contact">Contact Us</a></li>
+							<li><a href="/socialmedia.php" title="social media">Social Media</a></li>
 							<li><a href="/about/staff.php" title="program staff">Program Staff</a></li> 
 							<li><a href="/about/biz_staff.php" title="business staff">Business &amp; Technical Staff</a></li>
 							<li><a href="/about/volunteer.php" title="volunteer">Volunteer</a></li> 
@@ -154,29 +285,29 @@
   </div><!--end page-->
   </div><!--end main-->  
   <div id="sub_sidebar">
-    <p id="date">12.17.10</p>
+    <p id="date">12.18.11</p>
 		<h3 style="margin-left:20px;">Today's Schedule</h3>
 		<div id="schedule">
     	<table cellspacing="0" cellpadding="0">
                     <tbody><tr>
-                        <td class="time">4:00 p.m.</td>
-                        <td><a title="All Things Considered" href="http://www.npr.org" onclick="javascript:urchinTracker('/outgoing/ATC');">All Things Considered</a></td>
+                        <td class="time">10:00 a.m.</td>
+                        <td><a title="A Prairie Home Companion" href="http://prairiehome.publicradio.org/" onclick="javascript:urchinTracker('/outgoing/PHC');">A Prairie Home Companion</a></td>
                     </tr>
                     <tr>
-                        <td class="time">6:30 p.m.</td>
-                        <td><a title="Marketplace" href="http://marketplace.publicradio.org/" onclick="javascript:urchinTracker('/outgoing/MP');">Marketplace</a></td>
+                        <td class="time">12:00 p.m.</td>
+                        <td><a title="Vinyl Cafe" href="http://www.cbc.ca/vinylcafe/" onclick="javascript:urchinTracker('/outgoing/VC');">Vinyl Cafe</a></td>
                     </tr>
                     <tr>
-                        <td class="time">7:00 p.m.</td>
-                        <td><a title="Radiolab" href="http://www.wnyc.org/shows/radiolab/" onclick="javascript:urchinTracker('/outgoing/RL');">Radiolab</a></td>
+                        <td class="time">1:00 p.m.</td>
+                        <td><a title="The Tobolowsky Files" href="http://www.tobolowskyfiles.com" onclick="javascript:urchinTracker('/outgoing/TF');">The Tobolowsky Files</a></td>
                     </tr>
                     <tr>
-                        <td class="time">8:00 p.m.</td>
-                        <td><a title="To The Best Of Our Knowledge" href="http://www.wpr.org/book/" onclick="javascript:urchinTracker('/outgoing/TBK');">To The Best Of Our Knowledge</a></td>
+                        <td class="time">2:00 p.m.</td>
+                        <td><a title="Snap Judgment" href="http://snapjudgment.org/" onclick="javascript:urchinTracker('/outgoing/SJ');">Snap Judgment</a></td>
                     </tr>
                     <tr>
-                        <td class="time">10:00 p.m.</td>
-                        <td><a title="L.A. Theatre Works" href="http://latw.org/radio/radio.aspx" onclick="javascript:urchinTracker('/outgoing/PTT');">L.A. Theatre Works</a></td>
+                        <td class="time">3:00 p.m.</td>
+                        <td><a title="Splendid Table" href="http://splendidtable.publicradio.org/" onclick="javascript:urchinTracker('/outgoing/ST');">Splendid Table</a></td>
                     </tr>
 	        </tbody></table>
     <h3>Schedules</h3>
@@ -188,11 +319,23 @@
     <li><a href="/rss.php?program=news" onclick="javascript:urchinTracker('/downloads/newsfeed');">KUOW News</a></li>
     <li><a href="/rss.php?program=specials" onclick="javascript:urchinTracker('/downloads/specialsfeed');">KUOW Specials</a></li>
   </ul>
+  </div>
+<div class="sidebar_res">
+<a href="http://www.twitter.com/KUOW" title="Follow KUOW News on Twitter"><img src="/images/icons/twitter_32.png" alt="Follow KUOW News on Twitter"> </a><a href="http://www.facebook.com/kuownews" title="follow KUOW News on Facebook"><img src="/images/icons/facebook_32.png" alt="follow KUOW News on Facebook"></a>
+<a href="http://earthfix.kuow.org/"><img src="/images/icons/earthfix.gif" alt="KUOW's Earthfix: News Fixed on the Environment" style="margin:5px 0;"></a>
 </div>
 <div class="sidebar_res"> <a href="/specials/">
 	    </a><a href="/specials/"><h3>KUOW Specials</h3></a>
  		<select name="KUOW Specials" class="dropdown" size="1" onchange="if(this.selectedIndex!=0) self.location=this.options[this.selectedIndex].value">
 			<option value="">Select a Special</option>
+			<option value="/specials/changing-sound.php">Changing The Sound</option>	
+			<option value="/specials/cascade-curtain.php">Behind The Cascade Curtain</option>
+			<option value="/specials/danger-at-work.php">Danger At Work</option>
+			<option value="/specials/paramountduty.php">Paramount Duty</option>
+			<option value="/specials/soundsfamiliar.php">Sounds Familiar</option>				
+			<option value="/specials/livingwithoutanet.php">Living Without A Net</option>			
+			<option value="/specials/weightofwar.php">The Weight Of War</option>
+			<option value="/specials/culture.php">Culture Shock</option>
 			<option value="/specials/aguidetovisitors.php">A Guide To Visitors</option>
 			<option value="/specials/pugetsoundpartnership.php">The Puget Sound Partnership</option>
 			<option value="/specials/viaduct.php">The Viaduct</option>
@@ -250,10 +393,17 @@
   <h3>News</h3>
   <ul>
     <li><a href="/news">KUOW Regional News</a></li>
+	<li><a href="http://earthfix.kuow.org/">KUOW's EarthFix: News Fixed On The Environment</a></li>
     <li><a href="/npr_news.php" onclick="javascript:urchinTracker('/outgoing/nprnews');">NPR Top Stories</a></li>
     <li><a href="http://news.bbc.co.uk/2/hi/default.stm" onclick="javascript:urchinTracker('/outgoing/bbcnews');">BBC World News</a></li>
     <li><a href="http://www.nwnewsnetwork.org/">NW News Network</a></li>
   </ul>
+</div>
+<div class="sidebar_res">
+ <h3><a href="/elections/">Election 2011</a></h3>
+  	<a href="/publicinsight/"><img class="icon" src="/images/icons/check_cream.gif" alt="vote icon"></a>
+ <p>Follow KUOW's <a href="/elections/">Election 2011</a> coverage.</p>
+
 </div>
 <div class="sidebar_res">
   <h3>State House Blogs</h3>
@@ -277,13 +427,13 @@
   <!--sidebar-->  
 
   			<div id="sub_tiles"> <img src="/images/hdrs/support_from.gif" alt="Support for KUOW comes from:" width="165" height="25">
-				<a href="http://www.fireworksgallery.net/" title="Fireworks Gallery" onclick="javascript:urchinTracker('/outgoing/fireworks');"><img src="/images/tiles/fireworks.gif" alt="Fireworks Gallery"></a>
-				<a href="http://ewmba.haas.berkeley.edu" title="Haas School of Business: Berkeley" onclick="javascript:urchinTracker('/outgoing/BerkeleyHaas');"><img src="/images/tiles/haas.gif" alt="Haas School of Business: Berkeley"></a>
+				<a href="http://www.get.wa.gov/" title="GET" onclick="javascript:urchinTracker('/outgoing/get');"><img src="/images/tiles/20111024_GET.JPG" alt="GET"></a>
+				<a href="http://www.rentonsubaru.com" title="Walker's Renton Subaru" onclick="javascript:urchinTracker('/outgoing/subaru');"><img src="/images/tiles/subaru.gif" alt="Walker's Renton Subaru"></a>
 				</div>
 				<div id="footer">								
 				<div id="legal_int">
 					<a href="/"><img src="/images/kuow_45.gif" alt="KUOW 94.9 FM" class="left" width="45" height="71"></a>
-					<p style="margin-top:20px;">© 2010 KUOW Puget Sound Public Radio. A service of the <a title="University of Washington" href="http://www.washington.edu/" target="_blank">University of Washington</a> <a title="University of Washington" href="http://www.washington.edu/" target="_blank"><img src="/images/icons/w2.gif" alt="University of Washington logo" width="25" height="17"></a></p>
+					<p style="margin-top:20px;">© 2011 KUOW Puget Sound Public Radio. A service of the <a title="University of Washington" href="http://www.washington.edu/" target="_blank">University of Washington</a> <a title="University of Washington" href="http://www.washington.edu/" target="_blank"><img src="/images/icons/w2.gif" alt="University of Washington logo" width="25" height="17"></a></p>
 					<p><a title="FCC EEO Employment Report Statement" href="http://www.kuow.org/reports/statement.pdf" target="_blank">FCC EEO Statement.</a> <a title="Privacy Policy" href="http://www.kuow.org/listen/online_security.php">Privacy Policy.</a> Support for kuow.org provided in part by the Otto Haas Charitable Trust.</p>
 					<p><a href="/">home</a> | <a href="/about">about</a> | <a href="/listen">listen</a> | <a href="/programs">programs</a> | <a href="/news">news</a> | <a href="/support">support</a> | <a href="/inthecommunity.php">events</a> | <a href="/contact.php">contact</a> | <a href="/sitemap.php">site map</a></p>
 				</div>
