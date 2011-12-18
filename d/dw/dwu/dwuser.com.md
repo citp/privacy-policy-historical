@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwuser.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619064429id_/http%3A//www.dwuser.com/popups/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwuser.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218204207id_/http%3A//dwuser.com/popups/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 _[View in Separate Window](https://web.archive.org/popups/privacy_policy.php)_
 
-#### Effective July 1, 2008.
+#### Effective July 1, 2008. Last updated October 11, 2011.
 
 #### Privacy Notice Table Of Contents:
 
@@ -55,6 +55,8 @@ We offer gift-cards by which you can personalize a product you order for another
 **We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.**
 
 You can register with our website to save purchase records, as well as receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you specifically 'sign up' or 'create a DWUSer.com account'. 
+
+When you register some of our software programs (such as [EasyRotator](http://www.dwuser.com/easyrotator/)), we ask for information such as your name and email address. This information is used to provide you with occasional news, updates, product-related offers directly from us, and/or educational content. We only send you email containing content we believe you will genuinely value, find useful, and appreciate. We hate spam; we'd never dream of spamming you. Your information is NEVER shared with outside parties.
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
