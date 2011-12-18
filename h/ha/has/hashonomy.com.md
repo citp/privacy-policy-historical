@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hashonomy.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619225625id_/http%3A//hashonomy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hashonomy.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218190801id_/http%3A//hashonomy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hashonomy - Social bookmarking via Twitter
 
