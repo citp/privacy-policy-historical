@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612064509id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthetests.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218200658id_/http%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.*
 
 # AllTheTests.com -» Privacy Policy Statement
 
 Our postal address is   
 **Happy Light Bulb BV**  
-Reeweg 16  
-2623 CE Delft (The Netherlands)
+Kastanjewetering 2  
+2614 KE Delft (The Netherlands)
 
 We can be reached via e-mail at [info@testedich.de](mailto:info@testedich.de)
 
