@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629123247id_/http%3A//www.oneplace.com/account/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneplace.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218220313id_/http%3A//www.oneplace.com/account/privacy-policy.html) for the most accurate reproduction.*
 
 # Christian Ministry Help Topics, Internet, Radio, Ministries, Listen Free Online, Bible
 
