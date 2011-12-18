@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182759id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218024740id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
 [](http://www.rustyzipper.com/)   
 
 
+Fast Holiday Delivery Times  
+---  
+Receive Dec 20th: Choose Overnight delivery ($29) | Receive Dec 21st: Choose 2-Day delivery ($19) | Delivery by Dec 24th: Select Priority Mail  
+  
 **What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or respond to an email. 
@@ -96,18 +100,17 @@ jen@rustyzipper.com
 503-980-1929  
 
 
-* **Orders placed before 11:30am** Pacific Mon-Fri, are shipped that day. After 11:30, orders are shipped the next business day.
+* **Orders placed before 11:30am** Pacific Mon-Fri, are shipped that day. After 11:30am, orders are shipped the next business day.
 * We ship US Orders via Ground, 2nd day, or Overnight Delivery. We also ship to most countries worldwide.
 * **Shipping rates** and options are shown upon adding items to your order.
 * **Returns** : We want you to love your purchase - if you don't, return it within 15 days for a refund (shipping not refundable)
-* **Extended Holiday Returns** : Items purchased now may be returned through Jan 15th 2011 (except for Christmas Sweaters).
 * Copyright 1995-2011 Rusty Zipper™ Vintage Clothing - [Privacy Policy](http://www.rustyzipper.com/shop.cfm?page=privacy)
 
 **Questions? View our[Help Page](http://www.rustyzipper.com/shop.cfm?page=contact&type=&ERA=ALL&GENDER=ALL&PRICE=ALL&ERA=ALL&SIZE=&SEARCH=&SITE=RUSTYZIPPER&QPRICE=ALL&startshow=1) or contact Jen at [jen@rustyzipper.com](mailto:jen@rustyzipper.com)**
 
  **  
 Phone 866-387-5944 in US, or 503-980-1929 outside US (Mon-Fri 8am-3pm PST)**  
-UK (020) 3002-8263 (Mon-Fri 5pm-11pm London time) [Join our Facebook Group](http://www.facebook.com/group.php?gid=56131519594)
+UK (020) 3002-8263 (Mon-Fri 5pm-11pm London time) [Join our Facebook Group](http://www.facebook.com/groups/rustyzipper/)
 
 |   
 ---|---
