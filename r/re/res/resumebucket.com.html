@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the resumebucket.com privacy policy that was archived on 2011-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110528211454id_/http%3A//www.resumebucket.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the resumebucket.com privacy policy that was archived on 2011-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218205506id_/http%3A//www.resumebucket.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>Online Resume Storage - ResumeBucket.com</title>
         
-        <link rel="stylesheet" type="text/css" href="/cssjs/style-min,container,menu,datatable,88.css">
+        <link rel="stylesheet" type="text/css" href="/cssjs/style-min,container,menu,datatable,92.css">
         
         
         <!--[if lt IE 7]>
@@ -54,7 +54,7 @@
     
     
     <div class="ResumeCount">
-        Resumes Online: <span class="Count">906,024</span>
+        Resumes Online: <span class="Count">1,428,836</span>
     </div>
     
 </div>
@@ -403,7 +403,7 @@
     <div id="overlay" style="display: 'none'; height: 0px; width: 0px;"></div>
     
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/cssjs/yuiloader-dom-event,newsignup-min,json-min,connection-min,container-min,36.js"></script>
+<script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/cssjs/yuiloader-dom-event,newsignup-min,json-min,connection-min,container-min,36.js"></script>
 
     <script type="text/javascript">
     Y = YAHOO; U = Y.util; D = U.Dom; E = U.Event;
@@ -438,6 +438,50 @@ RB.tInputs.push( { 'id': 'login_email',    'default_val': 'Your Email',  'pat': 
 
 
 E.on(window, "load", function() {
+
+    var more = D.getElementsByClassName('more', 'span');
+    E.addListener(more, 'click', function() {
+        var target = this.getAttribute('showelems');
+        if(target) {
+            var targets = target.split(/,\s*/);
+            var elems = [];
+            for(var i = 0; i < targets.length; i++) {
+                var fchar = targets[i].substr(0,1);
+                var class_id = targets[i].substr(1);
+                if(fchar=='#') {
+                    elems.push(D.get(class_id));
+                }
+                else if(fchar=='.') {
+                    var tmp =  D.getElementsByClassName(class_id);
+                    elems = elems.concat(tmp);
+                }
+            }
+            if(elems.length) {
+                D.addClass(this, 'hide');
+                for( var i = 0; i < elems.length; i++) {
+                    D.removeClass(elems[i], 'hide');
+                }
+            }
+            target = this.getAttribute('hideelems');
+            if(target) {
+                elems = [];
+                var fchar = target.substr(0,1);
+                var class_id = target.substr(1);
+                if(fchar=='#') {
+                    elems.push(D.get(class_id));
+                }
+                else if(fchar=='.') {
+                    var tmp =  D.getElementsByClassName(class_id);
+                    elems = elems.concat(tmp);
+                }
+                for( var i = 0; i < elems.length; i++) {
+                    D.addClass(elems[i], 'hide');
+                }
+
+            }
+        }
+
+    });
 
 
     for(var j=0;j<RB.tInputs.length;j++) {
@@ -790,6 +834,12 @@ function get_blog_feed(function_to_format_result){
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
     </script>
+    <script type="text/javascript">
+      var _bizo_data_partner_id = "1568";  
+    </script>
+    <script type="text/javascript">
+    (function(){(function(){var b,a;a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=""+(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/insight.min.js";b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)})();})();
+    </script>
 
 
 
@@ -809,7 +859,7 @@ function get_blog_feed(function_to_format_result){
         <li><a href="/collegesearch/">College Search</a> | </li>
         <li><a href="/sample-cover-letters/">Sample Cover Letters</a> | </li>
         <li><a href="/jobs/">Job Search</a> | </li>
-        <li><a href="http://www.resumebucketblog.com/category/press/">Press</a> | </li>
+        <li><a href="/press-coverage">Press</a> | </li>
         <li><a href="/privacy/">Privacy Policy</a> | </li>
         <li><a href="/terms/">Terms of Use</a></li>
     </ul>    
@@ -820,10 +870,14 @@ function get_blog_feed(function_to_format_result){
 </div>
  
             
-            <span id="fblike" style="position: absolute; top: 15px; left: 260px;">
+            <span id="fblike" style="position: absolute; top: 15px; left: 350px;">
                 <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.resumebucket.com%2F&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light (http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.resumebucket.com%2F&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light)" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:450px; height:35px">
                 </iframe>
-            </span>
+            </span>            
+            <span id="gplike" style="position: absolute; top: 15px; left: 260px;">
+            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+            <g:plusone></g:plusone>
+            </span>            
             
         </div>
 
