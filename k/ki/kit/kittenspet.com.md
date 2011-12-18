@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kittenspet.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505072939id_/http%3A//www.kittenspet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kittenspet.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218224136id_/http%3A//www.kittenspet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cats Pictures, Pet Cat Kittens and More
 
