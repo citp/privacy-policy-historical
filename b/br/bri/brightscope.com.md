@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightscope.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618014521id_/http%3A//www.brightscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightscope.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218085327id_/http%3A//www.brightscope.com/privacy) for the most accurate reproduction.*
 
 # BrightScope Privacy Policy
 
@@ -120,7 +120,7 @@ BrightScope sends only verified, double-opt-in e-mail newsletters, specifically 
 
 We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. You are responsible for maintaining the security of your Login ID and password. We recommend that you change your password periodically. You may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at support@brightscope.com to request a change. We are not responsible if someone else accesses your account through information they have obtained from you or through a violation by you of this Privacy Policy or any other agreement between you and BrightScope. If you have a security-related concern, please contact us at support@brightscope.com.
 
-## Back to Top15\. We comply with CAN-SPAM regulations for our newsletters
+## Back to Top15\. We Will Notify You Of Changes To This Privacy Policy
 
 We may amend this Privacy Policy from time to time. Use of information we collect is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our website or sending you an email. You are bound by any changes to the Privacy Policy when you use the website or the Service after such changes have been first posted. 
 
