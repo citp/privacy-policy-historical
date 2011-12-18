@@ -1,10 +1,15 @@
-> *The following text is extracted and transformed from the livetvcenter.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202131350id_/http%3A//www.livetvcenter.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livetvcenter.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218202433id_/http%3A//www.livetvcenter.com/privacy.asp) for the most accurate reproduction.*
 
 # LIVE TV CENTER - PRIVACY POLICY
 
 This is the web site of **LiveTvCenter**.
 
 We can be reached via e-mail at 
+
+Livetvcenter.com is just a guide to streaming media available on the web. We do not provide streaming content ourselves.
+
+If you want to restrict access to your streaming media on the web,  
+please contact us from 
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
