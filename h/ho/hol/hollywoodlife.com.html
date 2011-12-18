@@ -1,46 +1,279 @@
-<!--The following is the downloaded HTML source of the hollywoodlife.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623062250id_/http%3A//www.hollywoodlife.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hollywoodlife.com privacy policy that was archived on 2011-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218125122id_/http%3A//www.hollywoodlife.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
+	<script src="//cdn.linksmart.com/linksmart_2.0.0.min.js" async=""></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		/** MMC - code to detect cookies and set a global (eww!) object that the cookie is detected. THROW AWAY CODE ***/
+		var MMC_FAST_MODE=false, MMC_NOAD_MODE=false, MMC_NOSOCIAL_MODE=false, MMC_NOTAG_MODE=false;
+		if(-1 !== document.cookie.indexOf("MMC_FAST_MODE")) {
+			MMC_FAST_MODE = true;
+		}
+
+		if(-1 !== document.cookie.indexOf("MMC_NOAD_MODE")) {
+			MMC_NOAD_MODE = true;
+		}
+
+		if(-1 !== document.cookie.indexOf("MMC_NOSOCIAL_MODE")) {
+			MMC_NOSOCIAL_MODE = true;
+		}
+
+		if(-1 !== document.cookie.indexOf("MMC_NOTAG_MODE")) {
+			MMC_NOTAG_MODE = true;
+		}
+		/** END THROW AWAY CODE **/
+	</script>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="keywords" content="Hollywood, Celebrities, Celeb, TV Guide, Oscars, Hollywood Star, Red Carpet, Grammys, Celebrity Gossip, Celebrity Photos, Entertainment News, Celebrity News, Academy Awards, Celebrity Hairstyles, Emmys, Hollywood Stars, Hollywood Life, HollywoodLife.com, Bonnie Fuller, Hollywood Celebrity News, Hollywood Videos, Celebrity Style, Hollywood Style, Golden Globes, People's Choice Awards, Fashion Rocks">
-    <meta description="HollywoodLife.com provides the most up-to-date commentary on hot celebrity news, exclusive photos and videos of stars, plus tips on romance, beauty, style, fashion and shopping.">
 	<meta property="fb:page_id" content="126281330722826">
 	    <title>
     Privacy Policy    </title>
     
-	<link rel="alternate" type="application/rss+xml" title="Hollywood Life » Feed" href="http://www.hollywoodlife.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Hollywood Life » Comments Feed" href="http://www.hollywoodlife.com/comments/feed/">
+			<script type="text/javascript">
+		detect_mobile_useragent();
+		function detect_mobile_useragent() {
+			var mobile_cookie_name = "show_mobile";
+			var mobile_cookie_value = "";
 
-	<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">//<![CDATA[
-	// Google Analytics for WordPress by Yoast v4.0.10 | http://yoast.com/wordpress/google-analytics/
+			if (document.cookie.length > 0) {
+				cookie_start = document.cookie.indexOf(mobile_cookie_name + "=");
+				if (cookie_start != -1) {
+					cookie_start = cookie_start + mobile_cookie_name.length + 1;
+					cookie_end = document.cookie.indexOf(";", cookie_start);
+					if (cookie_end == -1)
+						cookie_end = document.cookie.length;
+					mobile_cookie_value = unescape(document.cookie.substring(cookie_start, cookie_end));
+				}
+			}
+
+			if ( document.referrer == "" || document.referrer.indexOf("http://www.hollywoodlife.com") == -1 ) {
+				var exp_date=new Date();
+				exp_date.setDate(exp_date.getDate() + 1);
+				document.cookie = "mobile_referrer=" + encodeURIComponent(document.referrer) + ";expires=" + exp_date.toGMTString() + ";path=/;domain=.hollywoodlife.com";
+			}
+
+			if ( "1" == mobile_cookie_value ) {
+				// Redirect to mobile
+				//console.log("Cookie == 1, will redirect");
+				window.parent.location.replace("http://m.hollywoodlife.com/privacy-policy/");
+				return;
+			} else if ( "0" == mobile_cookie_value ) {
+				// Will not redirect, cookie already set
+				//console.log("Cookie == 0, will not redirect");
+				return;
+			}
+
+			// Cookie not found
+			var mobile_user_agents = ["alcatel","amoi","android","audiovox","avantgo","benq","blackberry","cdm","danger","dopod","ericsson","fly","haier","htc","huawei","i\-mobile","iemobile\ 7","iphone","j\-phone","kddi","kwc","kyocera/wx310k","lenovo","lg/u990","lge\ vx","maemo","mot\-v","motorola","netfront","newt","nintendo\ ds","nitro","nokia","novarra","opera\ mini","palm","panasonic","pantech","philips","pixi","playstation\ portable","portalmmm","qtek","sagem","samsung","sanyo","sch-u960","scp6760","sharp","small","softbank","sonyericsson","sph\-m810","t\-mobile\ g1","toshiba","treo","treo850","vertu","windows\ phone","xda","zte"];
+			var current_user_agent = navigator.userAgent.toLowerCase();
+			for (i = 0; i < mobile_user_agents.length; i++) {
+				var regex = new RegExp(mobile_user_agents[i], 'gi');
+				if ( current_user_agent.match(regex) ) {
+					// Set is_mobile cookie
+					var exp_date=new Date();
+					exp_date.setDate(exp_date.getDate() + 365);
+					document.cookie = mobile_cookie_name + "=" + escape(1) + ";expires=Monday, 31-Dec-12 00:00:00 EST";
+
+					// Redirect to mobile
+					//console.log("Cookie set to 1, will redirect");
+					window.parent.location.replace("http://m.hollywoodlife.com/privacy-policy/");
+					return;
+				}
+			}
+
+			// Set is_mobile=0 cookie
+			var exp_date=new Date();
+			exp_date.setDate(exp_date.getDate() + 365);
+			document.cookie = mobile_cookie_name + "=" + escape(0) + ";expires=Monday, 31-Dec-12 00:00:00 EST";
+			//console.log("Cookie set to 0, will not redirect");
+			return;
+		}
+		</script>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.0.2.2 - http://yoast.com/wordpress/seo/ -->
+<meta name="description" content="Effective: January 4, 2011 PMC is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while">
+<meta name="keywords" content="Hollywood, Celebrities, Celeb, TV Guide, Oscars, Hollywood Star, Red Carpet, Grammys, Celebrity Gossip, Celebrity Photos, Entertainment News, Celebrity News, Academy Awards, Celebrity Hairstyles, Emmys, Hollywood Stars, Hollywood Life, HollywoodLife.com, Bonnie Fuller, Hollywood Celebrity News, Hollywood Videos, Celebrity Style, Hollywood Style, Golden Globes, People's Choice Awards, Fashion Rocks">
+<link rel="canonical" href="http://www.hollywoodlife.com/privacy-policy/">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Hollywood Life » Feed" href="http://www.hollywoodlife.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Hollywood Life » Comments Feed" href="http://www.hollywoodlife.com/comments/feed/">
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.1.3 | http://yoast.com/wordpress/google-analytics/
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount','UA-1915907-6']);
-	_gaq.push(['_setAllowAnchor',true],['_setDomainName','.hollywoodlife.com'],['_setCustomVar',1,'author','admin',3],['_trackPageview']);
+	_gaq.push(['_setAllowAnchor',true],['_setDomainName','.hollywoodlife.com'],['_setCustomVar',1,'author','admin',3],['_trackPageview'],['_trackPageLoadTime']);
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined') || ( false === MMC_FAST_MODE && false === MMC_NOTAG_MODE) ) {
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
+}	})();
 	//]]></script>
-<link rel="alternate" type="application/rss+xml" title="Hollywood Life » Privacy Policy Comments Feed" href="http://www.hollywoodlife.com/privacy-policy/feed/">
-<link rel="stylesheet" id="galleryview-css" href="http://www.hollywoodlife.com/wp-content/plugins/mmc-gallery/themes/hollywoodlife/mmc-gallery.css?v26&amp;ver=3.0.5" type="text/css" media="all">
-<script type="text/javascript" src="http://www.hollywoodlife.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<link rel="stylesheet" id="Topper_Stylesheet-css" href="http://www.hollywoodlife.com/wp-content/plugins/PMC_Topper_Plugin/css/pmc_topper.css?ver=0.5" type="text/css" media="all">
+<link rel="stylesheet" id="galleryview-css" href="http://www.hollywoodlife.com/wp-content/plugins/mmc-gallery/themes/hollywoodlife/mmc-gallery.css?v27&amp;ver=3.2.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.hollywoodlife.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.hollywoodlife.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
 <script type="text/javascript" src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/js/jsloader.jquery.js?ver=0.1"></script>
 <script type="text/javascript" src="http://www.hollywoodlife.com/wp-includes/js/swfobject.js?ver=2.2"></script>
 <script type="text/javascript" src="http://www.hollywoodlife.com/wp-content/plugins/vipers-video-quicktags/resources/jw-flv-player/jwplayer.js?ver=1"></script>
 <script type="text/javascript" src="http://www.hollywoodlife.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<link rel="prev" title="Log In" href="http://www.hollywoodlife.com/login/">
-<link rel="next" title="Terms of service" href="http://www.hollywoodlife.com/terms-of-service/">
 
 <!--ChartBeat Start -->
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <!--ChartBeat End -->
 
 <!-- start general-header header 0.5-7 -->
+<style type="text/css">
+.facebookLikeDiv { margin-top: 0; }
+
+.topperyellowtext {
+text-shadow: 3px 2px 4px black, black 1px 2px 27px;
+}
+
+.topperwhitetext {
+
+text-shadow: 3px 2px 4px black, black 1px 2px 27px;
+
+}
+
+.newsmodright {
+
+padding: 0 0 7px;
+
+}
+
+
+.topstorieshead {
+
+width 178px;
+padding: 0 5px 0 3px;
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+-moz-border-top-left-radius: 3px;
+	-moz-border-top-right-radius: 3px;
+	-moz-box-shadow: 1px 3px 4px #888;
+	-webkit-box-shadow: 1px 3px 4px #888;
+	box-shadow: 1px 3px 4px #888;
+	
+	}
+
+.todayonhl {
+
+width:300px;
+float: left;
+position: relative;
+padding:1px 0px 3px 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 3px;
+
+
+}
+
+.arrow {
+background: url('http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/07/Untitled-1110713164042.png') no-repeat scroll center top;
+}
+
+.topstoriesbox {
+
+width:280px;
+height: 94px;
+overflow: hidden;
+float: left;
+padding:3px 5px 3px 5px;
+margin: 0 0 3px 0;
+background:#f6f6f6;
+-moz-box-shadow: 1px 3px 4px #888;
+-webkit-box-shadow: 1px 3px 4px #888;
+box-shadow: 1px 3px 4px #888;
+
+}
+
+.topstoriescta {
+
+width:181px;
+position: absolute;
+bottom: 5px; top: 75px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 13px;
+font-style: italic;
+font-weight: normal;
+left: 100px;
+float: right;
+font-size:13px;
+display: inline;
+float: right;
+text-align: right;
+clear: both;
+padding: 1px 5px 0px 2px;
+margin: 3px 0 0 5px;
+text-decoration: none;
+
+}
+
+
+.topstoriestxt {
+
+display:inline;
+color: #000;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 13px; 
+font-weight: normal;
+text-decoration: none; 	
+position: absolute;
+top: 6px;
+font-style: normal;
+margin: 0px 13px 0px 1px;
+text-align: left;
+
+}
+
+.topstoriesimg {
+
+
+padding: 3px;
+border: 1px solid #8b8b8b;
+margin: 0 5px 0 0;
+width: 85px;
+height: 85px;
+
+}
+
+a.topstoriesbar{
+
+color: #ffffff;
+font-weight:bold;
+font-size: 19px
+
+}
+
+a.topstoriesmod:hover {
+
+text-decoration: none;
+
+
+}
+
+p.topstoriesbar{
+
+width: 300px;
+text-shadow: black 0.1em 0.1em 0em;
+
+}
+
+.barfont{
+padding: 0px 2px 1px 2px;
+color: #ffffff;
+font-weight:bold;
+font-size: 19px;
+}
+
+
+</style>
+
 <!-- Quantcast Tag, part 1 --> 
 <script type="text/javascript">
-  var _qevents = _qevents || [];
+if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined') || ( false === MMC_FAST_MODE && false === MMC_NOTAG_MODE) ) {
+		  var _qevents = _qevents || [];
 
   (function() {
    var elem = document.createElement('script');
@@ -50,7 +283,7 @@
    elem.type = "text/javascript";
    var scpt = document.getElementsByTagName('script')[0];
    scpt.parentNode.insertBefore(elem, scpt);  
-  })();
+  })();}
 </script>
 <!-- Quantcast tag End, part 1 -->
 <!-- end general-header header -->
@@ -58,16 +291,20 @@
 <!-- start general-header header desktop 0.5-7 -->
 <!-- Begin comScore Tag -->
 <script type="text/javascript">
+if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined') || ( false === MMC_FAST_MODE && false === MMC_NOTAG_MODE) ) {
 	var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "6035310", c3: "", c4: "", c5: "", c6: "", c15: "" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })(); 
+}
 </script>
 <!-- End comScore Tag -->
+<style type="text/css">
+#searchresultpage #teaser_container {
+   float: left;
+   height: 173px;
+   padding-right: 10px;
+   width: 300px !important;
+}
+</style>
 <!-- end general-header header desktop -->
-
-	<!-- This site is optimized with the Yoast WordPress SEO plugin v0.2.5.4 - http://yoast.com/wordpress/seo/ -->
-	<meta name="description" content="Mail.com's Privacy Policy Last updated: March 22, 2010 Mail.com Media Corporation (“Mail.com”) is committed to protecting your privacy and maintainin">
-	<link rel="canonical" href="http://www.hollywoodlife.com/privacy-policy/">
-	<!-- / Yoast WordPress SEO plugin. -->
-
 <!-- Vipers Video Quicktags v6.3.1.1 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
 <style type="text/css">
 .vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
@@ -87,7 +324,7 @@
 	var vvqexpressinstall = "http://www.hollywoodlife.com/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
 // ]]>
 </script>
-	<link rel="stylesheet" href="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/style.css?v=167" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/style.css?v=189" type="text/css" media="screen">
 	        <!--[if IE 7]>
             <link rel="stylesheet" href="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/styles-ie7.css?v=3" type="text/css" media="screen" />
         <![endif]-->
@@ -95,7 +332,16 @@
             <link rel="stylesheet" href="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/styles-ie6.css?v2" type="text/css" media="screen" />
         <![endif]-->
 	<link rel="shortcut icon" href="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/favicon.ico">
-	</head>
+	
+	<!-- Mobile HTML additions that need to be hidden on regular site -->
+	<style type="text/css">
+		#mobile_header,
+		#mobile_nav
+			{ display: none; }
+	</style>
+    
+
+</head>
 <body id="">
 
 <!-- start general-header body 0.5-7 -->
@@ -122,8 +368,13 @@
 								<img src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/images/theme/spacer.gif" alt="Hot" class="gap-fix">
 							</div>
 																			<!-- Header New Teasers -->
-								<div class="hl-tease-cont left"><div class="hl-logo-tease-l left"><div class="hl-lteaser-cont left"><div class="hl-lteaser"><a href="http://www.hollybaby.com/2011/06/22/casey-anthony-could-walk-free-caylee-anthony/"><img height="115" width="130" alt="Casey Anthony Could Walk Free!" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/casey_chip110622143513.jpg"></a><h2><a href="http://www.hollybaby.com/2011/06/22/casey-anthony-could-walk-free-caylee-anthony/">Casey Anthony Could Walk Free!</a></h2></div></div><div class="hl-lteaser-cont left"><div class="hl-lteaser"><a href="http://www.hollywoodlife.com/2011/06/22/jackass-ryan-dunn-car-crash-drunk/"><img height="115" width="130" alt="'Jackass' Star Ryan Dunn Was Drunk During Car Crash." src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/ryan_dunn_chip110620124315.jpg"></a><h2><a href="http://www.hollywoodlife.com/2011/06/22/jackass-ryan-dunn-car-crash-drunk/">'Jackass' Star Ryan Dunn Was Drunk During Car Crash.</a></h2></div></div><div class="hl-lteaser-cont left"><div class="hl-lteaser"><a href="http://www.hollywoodlife.com/2011/06/22/kellan-lutz-breaking-dawn-wedding-scene/"><img height="115" width="130" alt="'Breaking Dawn' Wedding Was 'Miserable' For Kristen!" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/kristen_kellan_new_chip110622123910.jpg"></a><h2><a href="http://www.hollywoodlife.com/2011/06/22/kellan-lutz-breaking-dawn-wedding-scene/">'Breaking Dawn' Wedding Was 'Miserable' For Kristen!</a></h2></div></div>
-<div class="hl-lteaser-cont left"><div class="hl-lteaser"><a href="http://www.hollywoodlife.com/2011/06/22/kim-kardashians-kris-humphries-second-thoughts-family-wedding/"><img height="115" width="130" alt="Kris H. Having 2nd Thoughts About Marrying Kim K?" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/060111_kim_kris_chip2110601171357.jpg"></a><h2><a href="http://www.hollywoodlife.com/2011/06/22/kim-kardashians-kris-humphries-second-thoughts-family-wedding/">Kris H. Having 2nd Thoughts About Marrying Kim K?</a></h2></div></div></div></div>						<!-- Header New Teasers -->
+								<!-- Begin Top Stories Code -->
+<link href="http://fonts.googleapis.com/css?family=Waiting+for+the+Sunrise" rel="stylesheet" type="text/css">
+<style>.topstories{background: white;overflow: hidden;}.topstories a{display: inline-block;padding-right: 6px;vertical-align: top;width: 130px;color: black;text-decoration: none;}.topstories img{height: 115px;width: 130px;}.topstories h2{font: italic 12px Georgia;}.topstories h2:hover{	background: #ffe5f4; }.topstories span{text-align:center; background: #fff200; height: 24px;overflow: hidden;width: 130px; position: absolute;font-size: 18px;
+font-family: 'Waiting for the Sunrise', cursive;line-height: 20px;}</style>
+<script type="text/javascript">jQuery(document).ready(function() {jQuery('.topstories > a').each(function(index){ yt=jQuery(this).attr('data-yellowtag'); if (yt!='') jQuery(this).prepend('<span>'+yt+'</span>');});});</script>
+<div class="topstories"><a href="http://www.hollywoodlife.com/2011/12/17/selena-gomez-mother-miscarriage/" data-yellowtag="BREAKING NEWS"><img alt="Selena Gomez’s Mother Miscarried — So Sad." src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/08/selena-gomez_chip110810142703.jpg"><h2>Selena Gomez’s Mother Miscarried — So Sad.</h2></a><a href="http://www.hollywoodlife.com/2011/12/17/breaking-dawn-justin-bieber-kiss-pics/" data-yellowtag="VOTE!"><img alt="Justin Bieber, Kristen Stewart &amp; More: The Best Kisses Of 2011! PICS!" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/121711_justin_kristen_chip111217085436.jpg"><h2>Justin Bieber, Kristen Stewart &amp; More: The Best Kisses Of 2011! PICS!</h2></a><a href="http://www.hollywoodlife.com/2011/12/17/justin-bieber-kiss-video-interview/" data-yellowtag="NEW VIDEO!"><img alt="Justin Bieber Gets Kissed By A Girl &amp; It’s NOT Selena Gomez!" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/justin_selena_chip_02111216110228.jpg"><h2>Justin Bieber Gets Kissed By A Girl &amp; It’s NOT Selena Gomez!</h2></a><a href="http://www.hollywoodlife.com/2011/12/17/sexiest-vampires-2011-pics-robert-pattinson-ian-somerhalder/" data-yellowtag="PICS!"><img alt="Sexiest Vampires Of 2011: Robert Pattinson, Nina Dobrev &amp; More! VOTE!" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/121711_vampires_chip111217085438.jpg"><h2>Sexiest Vampires Of 2011: Robert Pattinson, Nina Dobrev &amp; More! VOTE!</h2></a></div>
+<!-- End Top Stories Code -->						<!-- Header New Teasers -->
 					</div>
 				</div>
 				<div class="hl-top-ad left">
@@ -131,45 +382,40 @@
                     <div id="companionAd" style="visibility:hidden"></div>
 					<!-- Header Ad -->
 					<div class="inner">
-                        				<!-- begin ad tag -->
-				<script language="JavaScript" type="text/javascript">
-						jQuery(document).ready(function(){
-							var firstIframe = jQuery('.mmcAd_Iframe').eq(0);
-							firstIframe.attr('src',firstIframe.attr('rel'))
-							firstIframe.load(function(){
-								jQuery('.mmcAd_Iframe:gt(0)').each(function(){
-									jQuery(this).attr('src',jQuery(this).attr('rel'));
-								});
-							});
-						});
-
-					if (typeof ord=='undefined') {
-						ord=Math.random()*10000000000000000;
-					}
-					document.write('<iframe class="mmcAd_Iframe  " rel="http://ads.vimg.net/Ads.html#width=300&height=250&zonename=ros&hostname=www.hollywoodlife.com&sitename=Hollywoodlife&params=pos=top;dcopt=ist;kw=uncategorized;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/&tile=1&ord='+ord+'" width="300px" height="250px"	marginwidth="0" marginheight="0"  frameborder="0" scrolling="no">');
-					document.write('</iframe>');
-				</script>
-				<noscript>
-					<a href="http://ad.doubleclick.net/jump/Hollywoodlife/ros;kw=uncategorized;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=1;sz=300x250;ord=123456789?" target="_blank">
-					<img src="http://ad.doubleclick.net/ad/Hollywoodlife/ros;kw=uncategorized;tile=1;sz=300x250;ord=123456789?" width="300px" height="250px" border="0" alt="">
-					</a>
-				</noscript>
-				<!-- End ad tag -->
+                        					<!-- begin ad tag -->
+					<div class="mmcAd_Iframe_div" data-adclass="" data-adurl="http://ad.doubleclick.net/adi/Hollywoodlife/ros;sz=300x250;host=www.hollywoodlife.com;pos=top;dcopt=ist;kw=uncategorized;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=1" data-adheight="250" data-adwidth="300"></div>
+					<noscript>
+						<a href="http://ad.doubleclick.net/jump/Hollywoodlife/ros;kw=uncategorized;mtfInline=TRUE;mtfIFPath=/partner/doubleclick/;tile=1;sz=300x250;&params=pos=top;dcopt=ist;ord=123456789?" target="_blank">
+						<img src="http://ad.doubleclick.net/ad/Hollywoodlife/ros;kw=uncategorized;tile=1;sz=300x250;&params=pos=top;dcopt=ist;ord=123456789?" width="300px" height="250px" border="0" alt="">
+						</a>
+					</noscript>
+					<!-- End ad tag -->
 					</div>
 					<!-- Header Ad -->
 				</div>
 			</div>
 			<!-- navbar -->
 					<div id="hl-nav" class="all">
-				<div class="hl-nav-l left">
+				<div id="mobile_nav">
+					<table>
+						<tbody><tr>
+						<td><a href="/">News &amp; Gossip</a></td>
+						<td><a href="/topics/style/">Style</a></td>
+						<td><a href="/topics/beauty/">Beauty</a></td>
+						<td><a href="/pics/">Pics</a></td>
+						<td id="mobile_nav_more"><a>More</a></td>
+						</tr>
+					</tbody></table>
+				</div>
+				<div id="main_nav" class="hl-nav-l left">
 					<div class="inner">
-                        <ul id="menu-primary-menu" class="menu"><li id="menu-item-388261" class="menu-item menu-item-type-custom menu-item-home menu-item-388261"><a href="http://www.hollywoodlife.com/">NEWS&amp;GOSSIP</a></li>
-<li id="menu-item-388262" class="menu-item menu-item-type-custom menu-item-388262"><a href="http://www.hollywoodlife.com/topics/style/">STYLE</a></li>
-<li id="menu-item-388263" class="menu-item menu-item-type-custom menu-item-388263"><a href="http://www.hollywoodlife.com/topics/beauty/">BEAUTY</a></li>
-<li id="menu-item-388265" class="menu-item menu-item-type-custom menu-item-388265"><a href="http://www.hollybaby.com/">HOLLYBABY</a></li>
-<li id="menu-item-388264" class="menu-item menu-item-type-custom menu-item-388264"><a href="http://www.hollywoodlife.com/pics/">PICS</a></li>
-<li id="menu-item-388266" class="menu-item menu-item-type-custom menu-item-388266"><a href="http://www.hollywoodlife.com/topics/TV/">TV</a></li>
-<li id="menu-item-388400" class="menu-item menu-item-type-custom menu-item-388400"><a href="http://www.hollywoodlife.com/hollyscopes/">HOLLYSCOPES</a></li>
+                        <ul id="menu-primary-menu" class="menu"><li id="menu-item-388261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-388261"><a href="http://www.hollywoodlife.com/">NEWS&amp;GOSSIP</a></li>
+<li id="menu-item-388262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-388262"><a href="http://www.hollywoodlife.com/topics/style/">FASHION</a></li>
+<li id="menu-item-388263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-388263"><a href="http://www.hollywoodlife.com/topics/beauty/">BEAUTY</a></li>
+<li id="menu-item-388265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-388265"><a href="http://www.hollybaby.com/">HOLLYBABY</a></li>
+<li id="menu-item-388264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-388264"><a href="http://www.hollywoodlife.com/pics/">PICS</a></li>
+<li id="menu-item-471837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-471837"><a href="http://www.hollywoodlife.com/topics/bonnies-take/">BONNIE SAYS</a></li>
+<li id="menu-item-508405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-508405"><a href="http://www.hollywoodlife.com/topics/gift-guide/">HOLIDAY GIFTS</a></li>
 </ul>					</div>
 				</div>
 				<div class="hl-nav-r right">
@@ -187,13 +433,13 @@
 			<div id="hb-nav" class="all">
 				<div class="hl-nav-l left">
 					<div class="inner">
-                        <ul id="menu-secondary-menu" class="menu"><li id="menu-item-388268" class="menu-item menu-item-type-custom menu-item-388268"><a href="http://www.hollywoodlife.com/topics/robert-pattinson-kristen-stewart/">RPATZ&amp;KSTEW</a></li>
-<li id="menu-item-388269" class="menu-item menu-item-type-custom menu-item-388269"><a href="http://www.hollywoodlife.com/topics/kardashians/">KARDASHIANS</a></li>
-<li id="menu-item-388270" class="menu-item menu-item-type-custom menu-item-388270"><a href="http://www.hollywoodlife.com/topics/justin-bieber/">BIEBER</a></li>
-<li id="menu-item-388271" class="menu-item menu-item-type-custom menu-item-388271"><a href="http://www.hollywoodlife.com/topics/real-housewives/">HOUSEWIVES</a></li>
-<li id="menu-item-388273" class="menu-item menu-item-type-custom menu-item-388273"><a href="http://www.hollywoodlife.com/topics/love/">LOVE</a></li>
-<li id="menu-item-388274" class="menu-item menu-item-type-custom menu-item-388274"><a href="http://www.hollywoodlife.com/topics/bonnies-take/">BONNIE SAYS</a></li>
-<li id="menu-item-388275" class="menu-item menu-item-type-custom menu-item-388275"><a href="http://www.hollywoodlife.com/topics/out-about/">OUT&amp;ABOUT</a></li>
+                        <ul id="menu-secondary-menu" class="menu"><li id="menu-item-388268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-388268"><a href="http://www.hollywoodlife.com/topics/robert-pattinson-kristen-stewart/">RPATZ&amp;KSTEW</a></li>
+<li id="menu-item-388270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-388270"><a href="http://www.hollywoodlife.com/topics/justin-bieber/">BIEBER</a></li>
+<li id="menu-item-388273" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-388273"><a href="http://www.hollywoodlife.com/topics/love/">LOVE</a></li>
+<li id="menu-item-388274" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-388274"><a href="http://www.hollywoodlife.com/topics/kardashians/">KARDASHIANS</a></li>
+<li id="menu-item-474990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-474990"><a href="http://www.hollywoodlife.com/topics/tv/">MOVIES&amp;TV</a></li>
+<li id="menu-item-514926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-514926"><a href="http://www.hollywoodlife.com/topics/x-factor-tv/">X FACTOR</a></li>
+<li id="menu-item-521872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-521872"><a href="http://www.hollybaby.com/topics/teen-mom-tv/">TEEN MOM</a></li>
 </ul>                    </div>
 				</div>
 				<div class="right hl-follow">
@@ -210,70 +456,67 @@
 						<h1 class="win">Privacy Policy</h1>
 
 						<div class="entry">
-							<h3>Mail.com’s Privacy Policy</h3>
-<p><em><strong>Last updated: March 22, 2010</strong></em></p>
-<p class="policy-section">Mail.com Media Corporation (“Mail.com”) is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while providing a quality user experience. Because we gather certain types of information about and from you, our users and customers, in order to fulfill your requests and better serve your needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our User Agreement, and contact us if you have any questions.</p>
-<h3>When you register for an account:</h3>
-<p><strong>We Will:</strong></p>
-<ol style="margin: 20px 0 20px 20px;">
-<li style="margin-top: 10px;">Collect personally identifiable (e.g. name, address) and demographic(e.g. age, gender) information about you. We will use the non-personally identifiable demographic data to serve ads (pertaining to your geographic location, age, or gender) on our Web site when you log in. The information is collected when you register for your e-mail account.</li>
-<li style="margin-top: 10px;">Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for premium services, then your credit card information will be encrypted using SSL technology and will be stored on secure servers.</li>
-<li style="margin-top: 10px;">Give you access to review and edit your personal and demographic information while it is in our possession.</li>
-<li style="margin-top: 10px;">Send you service announcements notifying you of any new products or updates to the service. We may use your alternate e-mail address and home address to ensure that you receive important information about your account or information you have requested. If you do not wish to receive these announcements simply go to the bottom of the newsletter and follow the instructions to make sure you do not receive any further notifications.</li>
-<li style="margin-top: 10px;">Send you monthly newsletters that highlight certain e-mail features and provide you with information about additional products and services we think might be of interest to you. We will provide you with the opportunity to “opt out” of the newsletter, beginning with the initial newsletter.</li>
-<li style="margin-top: 10px;">Give you the choice of “opting in” to receive third party mailings.</li>
-<li style="margin-top: 10px;">Make it easy for you to unsubscribe from any mail.com-owned mailing list by following directions at the bottom of any e-mail that you receive from us (unless it is vital to the operation of your account).</li>
-<li style="margin-top: 10px;">Bundle information to better design our Web site and to share with our advertisers and partners. This aggregate information will not be used to learn anything about any particular individual.</li>
-<li style="margin-top: 10px;">In developing our business, we may engage in the sale of certain assets and the company itself, or parts of it, may be sold, merged or otherwise transferred. In such transactions and changes in ownership, user information, whether personally identifiable or otherwise, may constitute one of the transferred assets. Mail.com will notify affected users in accordance with the procedure for changing this</li>
-</ol>
-<p><strong>We Won’t:</strong></p>
-<ol style="margin: 20px 0 20px 20px;">
-<li style="margin-top: 10px;">Send you unsolicited commercial e-mail (spam).</li>
-<li style="margin-top: 10px;">Do the following, without your explicit permission:
-<ol style="margin: 20px 0 0 20px;">
-<li style="margin-top: 10px;">Give anyone access to your e-mail or open or read messages in your account, unless such release is necessary to:
-<ol style="margin: 20px 0 0 20px;" type="a">
-<li style="margin-top: 10px;">Satisfy any law, regulation, or legal request. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process.</li>
-<li style="margin-top: 10px;">Conduct investigations of consumer complaints and possible breaches of law;</li>
-<li style="margin-top: 10px;">Enforce or apply the terms of our user agreement, or</li>
-<li style="margin-top: 10px;">Protect the rights, property, or safety of Mail.com, our users, or the public.</li>
-</ol>
-</li>
-</ol>
-</li>
-<li style="margin-top: 10px;">Share any data with outside parties that would identify a specific user (except in those circumstances listed in 2(i) above).</li>
-<li style="margin-top: 10px;">Knowingly collect any information from children under the age of 13. To find out more about the Children’s Online Privacy Protection Rule Click here</li>
-<li style="margin-top: 10px;">Contact you via e-mail or any other method to ask you for your password. Do not share your password with anyone; you should only enter it directly into our Web site.</li>
-<li style="margin-top: 10px;">Contact you via e-mail or any other method to ask you for your credit card information. You should only enter this information directly into our Web site.</li>
-<li style="margin-top: 10px;">Materially change how we use your personally identifiable information without placing a prominent notice on our Web site first.</li>
-</ol>
-<h3>Privacy Policy described below.</h3>
-<p><strong>Tell-A-Friend:</strong> If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Mail.com stores this information for the sole purpose of sending this one-time email.</p>
-<p class="policy-section">You or your friend may contact us at onlinehelp@staff.mail.com to request that we remove this information from our database.</p>
-<p><strong>Cookies:</strong> Our Web site uses cookies for the purpose of identifying you when you access your account. This allows us to pre-populate your E-mail address on the login page and to distinguish between your Web session and that of the many other people using our service inand allow us to offer other functionalities (such as screening for age and “recognizing” you to speed up your log-in when you visit our Web site). We may also automatically collect your IP and referring Web site addresses, browser type, domain name and Web site access times (as described below). Our web-based mail service will not function unless your browser is set to accept cookies. You can turn off cookies, but that will affect your online experience.</p>
-<p class="policy-section">We use third-party companies to serve ads and/or collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to our Web site in order to provide advertisements on our Web site, other sites and other forms of media about goods and services that may be of interest to you. They may also use this information to track the effectiveness of those ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to http://www.networkadvertising.org/optout_nonppii.asp.</p>
-<p class="policy-section"><strong>Links:</strong> Be aware that when you click on ad banners, you may be redirected to other sites not operated by Mail.com. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.</p>
-<p><strong>General Information Collected:</strong> When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., Earthlink, Verizon).</p>
-<p class="policy-section">The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web site and to continually improve our products and services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.</p>
-<p><strong>Third Party Service Providers:</strong> Agents and affiliates of Mail.com may occasionally process individual user data as required to provide services for which the user has registered. However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by Mail.com. Features on the Web site that utilize third party service providers include: e-mail notification services and credit card processing. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. We will not otherwise provide any personal data to your credit card company without your permission.</p>
-<p class="policy-section">From time to time we partner with third party service providers to offer additional products and services within the Web site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information. These services include: dating and personals, employment services, home loans, apartment rentals and other services, all of which are purely optional for the user.</p>
-<p><strong>Personal Information:</strong> It is the responsibility of each user to provide Mail.com with accurate information at all times. Personal information collected during the account registration process includes: name, street address, city, state, zip code, country, age, gender as well as an alternate email address (optional). Payment information will also be collected if users have registered for a premium account. In order to update the personal information, users may do the following:</p>
-<p class="policy-section">Login to the account via the Web site</p>
-<p>On the top navigation bar click on “My Account”</p>
-<p>Make any changes and then click ““Finish”“ to save the changes</p>
-<h3>Changes to our Privacy Policy:</h3>
-<p class="policy-section">We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry.. We recommend that you check the Privacy Policy when you visit our Web site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Web site visitors information on material changes to this Privacy Policy.</p>
-<h3>Your California Privacy Rights:</h3>
-<p>Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information Mail.com shares with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Mail.com, 200 N. Sepulveda Blvd, 2nd Floor, El Segundo, CA 90245. In your request, please specify that you want a “Your Mail.com California Privacy Rights Notice”. Please allow at least 30 days for a response.</p>
-<p class="policy-section">
-</p><h3>Questions?</h3>
-<p></p><p>For any questions or comments concerning Mail.com’s privacy policy, please write to: <a href="mailto:PrivacyDirector@mail.com">PrivacyDirector@mail.com</a></p>
-<p>Or send a letter to:</p>
-<p>9800 South La Cienega Blvd.</p>
-<p>Los Angeles, CA 90301</p>
-<p>(310) 321-5000</p>
-<p>Law Enforcement inquiries can be directed to <a href="mailto:LegalCompliance@corp.mail.com">LegalCompliance@corp.mail.com</a>.</p>
-<p>All spam, UCE and general abuse issues should be directed to: <a href="mailto:abuse@mail.com">abuse@mail.com</a>.</p>
+							<p><em><strong>Effective: January 4, 2011</strong></em><br>
+<br></p>
+<p>PMC is committed to protecting your privacy and maintaining a safe online experience for all of our users and customers while providing a quality user experience. Because we gather certain types of information about and from you, our users and customers, in order to fulfill your requests and better serve your needs, you should fully understand the terms and conditions surrounding the collection and use of this information. This Privacy Policy discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please read the complete Privacy Policy below, as well as our User Agreement, and contact us if you have any questions.</p>
+<p><br><br>
+<strong><em>Cookies:</em></strong><br>
+<br></p>
+<p>Our Web site uses cookies for the purpose of identifying you when you access your account. This allows us to pre-populate your E-mail address on the login page and to distinguish between your Web session and that of the many other people using our service inand allow us to offer other functionalities (such as screening for age and “recognizing” you to speed up your log-in when you visit our Web site). We may also automatically collect your IP and referring Web site addresses, browser type, domain name and Web site access times (as described below). Our web-based mail service will not function unless your browser is set to accept cookies. You can turn off cookies, but that will affect your online experience.<br>
+<br><br>
+We use third-party companies to serve ads and/or collect information when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number)å about your visits to our Web site in order to provide advertisements on our Web site, other sites and other forms of media about goods and services that may be of interest to you. They may also use this information to track the effectiveness of those ads. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to&nbsp;<a href="http://www.networkadvertising.org/optout_nonppii.asp" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.networkadvertising.org']);">http://www.networkadvertising.org/optout_nonppii.asp.</a><br>
+<br><br>
+Links: Be aware that when you click on ad banners, you may be redirected to other sites not operated by PMC. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information. Note that this policy does not cover the privacy practices of these linked sites.<br>
+<br><br>
+General Information Collected: When visiting our site, some general information is collected including: IP address (your computer’s unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., Earthlink, Verizon).<br>
+<br><br>
+The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit our Web Site and to continually improve our products and services. In addition, like many other sites with paid advertising, we disclose some of this non- personally identifiable, aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.
+</p>
+<p><br><br>
+<strong><em>Third Party Service Providers:</em><em></em></strong><br>
+<br></p>
+<p>Agents and affiliates of PMC may occasionally process individual user data as required to provide services for which the user has registered. However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by PMC. Features on the Web Site that utilize third party service providers include: e-mail notification services and credit card processing. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, date, total cost and other information necessary to process the transaction. We will not otherwise provide any personal data to your credit card company without your permission.<br>
+<br><br>
+From time to time we partner with third party service providers to offer additional products and services within the Web Site. To participate in these offerings, you may be asked to provide personal information and agree to terms and conditions relating to the third party service provider. Such requests for information will be displayed and requested by the third party in a straightforward manner with explanation as to whose privacy statement governs the collection of such information. These services include: dating and personals, employment services, home loans, apartment rentals and other services, all of which are purely optional for the user.
+</p>
+<p><br><br>
+<strong><em>Personal Information:</em></strong><br>
+<br></p>
+<p>It is the responsibility of each user to provide PMC with accurate information at all times. Personal information collected during the account registration process includes: name, street address, city, state, zip code, country, age, gender as well as an alternate email address (optional). Payment information will also be collected if users have registered for a premium account. In order to update the personal information, users may do the following:<br>
+<br><br>
+Login to the account via the website<br>
+<br><br>
+On the top navigation bar click on “My Account”<br>
+<br><br>
+Make any changes and then click “Finish” to save the changes
+</p>
+<p><br><br>
+<strong><em>Changes to our Privacy Policy:</em></strong><br>
+<br></p>
+<p>We will occasionally update this Privacy Policy as necessary to protect our users and to comply with best practices employed by other publishers and regulatory organizations across the industry. We recommend that you check the Privacy Policy when you visit our Web Site to be sure that you are aware of and understand our current policy. If we make material changes to this policy, or in how we use or collect your personally identifiable information, we will prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected personal information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will e-mail registered Web Site visitors information on material changes to this Privacy Policy.</p>
+<p><br><br>
+<strong><em>Your California Privacy Rights:</em></strong><br>
+<br></p>
+<p>Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information PMC shares with third parties or corporate affiliates for those third parties or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: PMC, 9800 South La Cienega Blvd., Los Angeles, CA 90301. In your request, please specify that you want a “PMC California Privacy Rights Notice”. Please allow at least 30 days for a response.
+</p>
+<p><br><br>
+<strong><em>Questions?</em></strong><br>
+<br><br>
+<strong><em>For any questions or comments concerning PMC’s privacy policy, please write to:</em></strong><br>
+<br><br>
+PrivacyDirector@pmc.com<br>
+<br><br>
+Or send a letter to:<br>
+<br><br>
+9800 South La Cienega Blvd.<br>
+<br><br>
+Los Angeles, CA 90301<br>
+<br><br>
+(310) 321-5000<br>
+<br><br>
+Law Enforcement inquiries can be directed to LegalCompliance@pmc.com.<br>
+<br><br>
+All spam,&nbsp;UCE&nbsp;and general abuse issues should be directed to: abuse@pmc.com.</p>
 
 							<div class="clear"></div>
 						</div>
@@ -289,245 +532,181 @@
 
 		<div class="inner">
 
-			<div class="hl-std-left"><div class="ampmpics" style="width:190px; height: 679px; padding:62px 0 0px 0; margin:0 0 20px 0; overflow:hidden; background:#fff200 url(http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2010/08/082410_pm_ampm_title.png) no-repeat center top;">
-	<img style="margin:0px 0 0 5px; position:absolute;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/03/022911_triangle110301092647.gif" width="45" height="23" alt="">
-	<div>
-		<a href="http://www.hollywoodlife.com/2011/06/20/week-of-pictures-june-20th-2011/?cmpid=ampmpics_pic_1B061911" style="display:block; width:190px; margin:0px 0px 10px 0px; overflow:hidden;"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062211_pmpic_thumb_117106687110622144234.jpg" width="190" height="570" alt="P.M. Pics"></a>
-	</div>
-	<p style="padding:10px 12px 12px 12px;">Selena Gomez visits Y 100 radio station on June 22, 2011 in Miami, Florida. <a href="http://www.hollywoodlife.com/2011/06/20/week-of-pictures-june-20th-2011/?cmpid=ampmpics_pic_1B061911">More Pics! <img style="top:2px; left:3px; position:relative;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2009/11/btn_readmore_black.gif" width="7" height="14" alt=">"></a></p>
-</div></div><div class="hl-std-left"><div style="width:190px; padding: 0px; margin-bottom: 20px;">
-	<img style=" margin-bottom: 5px" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/04/042811_today_on_HL110428220633.jpg">
+			<div class="hl-std-left"><div class="newsmodright" style="padding:54px 0 10px 0; background:#ffffff url(http://www-hollywoodlife-com.vimg.net/theme/sat_pics_title.png) no-repeat center top;">
+
+	<a href="http://www.hollywoodlife.com/2011/12/12/the-week%E2%80%99s-hottest-pics-dec-12-dec-18/?cmpid=ampmpics_pic_1B" class="more-link">
+		<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/121711_justin_bieber_am_pics_AP111216028147111217101502.jpg">
+		<span class="mod-text">Justin Bieber gave back to the students of Whitney Elementary School in Las Vegas on Dec. 16. (AP) </span>
+		<span id="modcta">Click For More Pics! </span>
+	</a>
+</div></div><div class="hl-std-left">			<div class="textwidget"><div class="hl-hed-right" style="background: #ffffff url(http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/HL_Logo_small111214124244.png) no-repeat scroll left top; margin-bottom: 0px; border: 1px solid #cccccc; margin-bottom: 20px;">
+				
+				<p style="padding: 28px 6px 4px; color: #292929; font-size: 34px; line-height: 28px; text-shadow: #F3F3F9 1px 3px 1px; font-family: arial; font-weight: bold; letter-spacing: -1px;">tell us what you think!</p>
+				
+				<a style="text-decoration:none" href="http://www.surveymonkey.com/s/WTYJSB2" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.surveymonkey.com']);" target="_blank">
+				<span class="mod-text" style="padding: 3px 7px 6px; margin: 5px; margin: 5px;"><h3>&amp; Win a gift bag worth $1571!</h3>
+			</span>
+			
+			<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/121411_giveaway_mod_img111214121245.jpg" style="
+    margin: 5px 5px 5px 9px;
+    box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -webkit-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; moz-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px;
+"></a>
+			
+		
+	
+				
+				<p style="padding: 10px 12px 12px;"><a class="more-link" style="" href="http://www.surveymonkey.com/s/WTYJSB2" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.surveymonkey.com']);" target="_blank">Take Survey Now! </a>
+			</p>
+				</div>
+			</div>
+		</div><div class="hl-std-left"><div style="width:170px; padding: 10px 10px 10px 10px; margin:0 0 20px 0; background:#fff200; text-align: center;">
+
+      <a style="text-decoration: none;" href="http://www.hollywoodlife.com/2011/12/08/twelve-days-of-someday-by-justin-bieber-daily-giveaway/?cmpid=http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120811_title111208125022.jpg_win__"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120811_title111208125022.jpg" height="113px" width="170px" alt="" align="center">
+
+      </a><div style="background-color:#ffffff;"><a style="text-decoration: none;" href="http://www.hollywoodlife.com/2011/12/08/twelve-days-of-someday-by-justin-bieber-daily-giveaway/?cmpid=http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120811_title111208125022.jpg_win__">
+              <h4 style="padding: 0px 0px 10px 0px;"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120811_justin_assets111208151407.jpg"></h4>
+            
+             
+              <span class="mod-text">Twelve days of Someday by Justin Bieber Daily giveaway</span>
+			  
+			  <div style="clear: both; border-bottom: 1px solid #ccc; margin: 7px 10px 7px 10px; height: 1px; text-indent: -9999px; color: #ffffff;">.</div>
+			  
+			<p style="padding: 0px 10px 0px 14px; line-height: 16px; text-align: left;"><span style="color: #ff0099; font-size: 48px; font-weight: bold; font-style: italic; font-family: georgia; text-decoration: none;">enter</span><span style="color: #000; font-size: 35px; font-family: georgia; font-style: italic; line-height: 35px;"> to win!</span></p></a>
+             
+      </div>
+
+</div></div><div class="hl-std-left"><div class="ampmpics" style="width:190px; margin-bottom: 10px;">
+<p style="width: 190px; font-weight:bold;"><span style="padding: 2px 2px 0px 2px; color: #ff4200; font-weight:bold; margin-left: 0px; margin-top: 0px; font-size: 69px; letter-spacing : -3px;">today</span> <span style="color: #000; margin-left: 0px; font-size: 45px; line-height: 16px;">on</span><span style="color: #ff0099; margin-left: 0px; font-size: 85px; line-height: 37px; letter-spacing : -3px;">HL!</span></p></div>
 
 
-<!-- Gossip 1 -->
-	<div style="width: 190px; border-left: 1px solid #cccccc; border-bottom: 1px solid #cccccc; margin-bottom: 10px;">
-		<div id="mydiv" style="width 178px; Padding-bottom: 0px; padding-top: 0px; padding-right: 5px; padding-left: 0px; background-color: #ff0099;">
+<div style="width: 190px; border-left: 1px solid #cccccc; border-bottom: 1px solid #cccccc; margin-bottom: 10px;">
+
+		<div id="mydiv" style="width 178px; Padding-bottom: 0px; padding-top: 0px; padding-right: 5px; padding-left: 0px; background-color: #ff0099; -webkit-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -moz-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px;">
 			<p style="width: 190px; font-weight:bold; font-size:17px; text-shadow: black 0.1em 0.1em 0em">
 				<font style="padding: 0px 2px 1px 2px; color: #ffffff; font-weight:bold;">
-					NEWS &amp; GOSSIP!
+					News &amp; Gossip!
 				</font>
 			</p>
 		</div>
-		<div style="position:absolute; z-index:3;">
-			<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/05/hl_shadow110505143804.png">
-		</div>
-		<div id="mydiv" style="width: 187px; padding: 0px 0px 0px 0px;">
-			<a href="http://www.hollywoodlife.com/2011/06/21/kristen-stewart-garrett-hedlund-taylor-lautner-chris-weitz-a-better-life-premiere/">
-				<img style="width: 180px; height: 110px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062211_kstew_taylor110622105548.jpg" alt="" class="gap-fix" width="180" height="110">
-			</a>
-		</div>
-		<ul>
-			<li style="Padding-bottom: 7px; padding-top: 7px; padding-right: 5px; padding-left: 5px; margin-top: 0px;">
-				<p style="font-size:14px; font-weight: heavy;">
-					<a style="color: #000" href="http://www.hollywoodlife.com/2011/06/21/kristen-stewart-garrett-hedlund-taylor-lautner-chris-weitz-a-better-life-premiere/">
-						Kristen Stewart, Garrett Hedlund &amp; Taylor Lautner Are Attending ‘New Moon’ Director Chris Weitz’s Premiere Tonight! 
-					</a>
-					
-				</p>
-				<p style="font-size:12px; display: inline; float: right; text-align: right; color: #ff0099; clear: both; padding: 1px 5px 1px 2px; margin-top: 3px; margin-left: 5px; margin-bottom: 10px;">
-					<a href="http://www.hollywoodlife.com/2011/06/21/kristen-stewart-garrett-hedlund-taylor-lautner-chris-weitz-a-better-life-premiere/" class="more-link">
-						Read More!
-					</a>
-				</p>
-			</li>
-		</ul>
-		<div style="clear: both; width: 150px; margin-left: 20px; border-top: 1px solid #cccccc; margin-bottom: 10px; margin-top: 5px; height: 1px; text-indent: -9999px;">
-		</div>
+		
+		
+		
 
 
-<!-- Gossip 2 -->
-		<div id="mydiv" style="width: 187px; padding: 0px 0px 0px 0px;">
-			<a href="http://www.hollywoodlife.com/2011/06/22/ashley-hebert-bachelorette-weight-loss-wedding/">
-				<img style="width: 180px; height: 110px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062211_hl2110622105545.jpg" alt="" class="gap-fix" width="180" height="110">
-			</a>
-			<ul>
-				<li style="Padding-bottom: 7px; padding-top: 7px; padding-right: 5px; padding-left: 5px; margin-top: 0px;">
-					<p style="font-size:14px; font-weight: heavy;">
-						<a style="color: #000" href="http://www.hollywoodlife.com/2011/06/22/ashley-hebert-bachelorette-weight-loss-wedding/">
-							‘Bachelorette’ Ashley Hebert Dropped 10 Pounds For Her Wedding!</a>
-						
-					</p>
-					<p style="font-size:12px; display: inline; float: right; text-align: right; color: #ff0099; clear: both; padding: 1px 5px 1px 2px; margin-top: 3px; margin-left: 5px; margin-bottom: 10px;">
-						<a href="http://www.hollywoodlife.com/2011/06/22/ashley-hebert-bachelorette-weight-loss-wedding/" class="more-link">
-							Read More!
-						</a>
-					</p>
-				</li>
-			</ul>
-		</div>
-		<div style="clear: both; height: 1px; text-indent: -9999px; color: #ffffff;">
-		</div>
-	</div>
+<div class="newsmodright" style="background: url(http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/05/hl_shadow110505143804.png) no-repeat scroll center top; border: none;">
+
+	<a href="http://www.hollywoodlife.com/2011/12/16/kris-humphries-kim-kardashian-reality-show-fake/" class="more-link">
+		<img style="box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -webkit-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -moz-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/hl1_large111216102210.jpg" width="180px" height="110px">
+		<span class="mod-text" style="text-transform: capitalize;">Kris Humphries: Kim Kardashian’s Reality Shows Are Fake </span>
+		<span id="modcta">read more!</span>
+	</a>
+</div>
 
 
-<!-- Hollybaby 1 -->
-	<div style="width: 190px; border-left: 1px solid #cccccc; border-bottom: 1px solid #cccccc; margin-bottom: 10px;">
-		<div id="mydiv" style="width 178px; Padding-bottom: 0px; padding-top: 0px; padding-right: 5px; padding-left: 0px; background-color: #00c9ff;">
+
+
+
+
+
+
+
+
+<div class="newsmodright" style="border: none;">
+
+	<a href="http://www.hollywoodlife.com/2011/12/16/kristen-stewart-snow-white-and-the-huntsman-nick-frost-interview/" class="more-link">
+		<img style="box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -webkit-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/hl2_large111216102212.jpg" width="180px" height="110px">
+		<span class="mod-text" style="text-transform: capitalize;">Kristen Stewart’s ‘Snow White’ Co-Star Calls Her A ‘Warrior’ </span>
+		<span id="modcta">watch!</span>
+	</a>
+</div>
+
+
+
+
+</div>
+
+
+
+
+<div style="width: 190px; border-left: 1px solid #cccccc; border-bottom: 1px solid #cccccc; margin-bottom: 10px;">
+
+		<div id="mydiv" style="width 178px; Padding-bottom: 0px; padding-top: 0px; padding-right: 5px; padding-left: 0px; background-color: #ff4200; -webkit-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -moz-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px;">
 			<p style="width: 190px; font-weight:bold; font-size:17px; text-shadow: black 0.1em 0.1em 0em">
 				<font style="padding: 0px 2px 1px 2px; color: #ffffff; font-weight:bold;">
-					HOLLYBABY NEWS!
+					Style &amp; Beauty!
 				</font>
 			</p>
 		</div>
-		<div style="position:absolute; z-index:3;">
-			<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/05/hl_shadow110505143804.png">
-		</div>
-		<div id="mydiv" style="width: 187px; padding: 0px 0px 0px 0px;">
-			<a href="http://www.hollybaby.com/2011/06/22/pink-baby-willow-sage-pics-carey-hart/">
-				<img style="width: 180px; height: 110px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062211_hb3110622105547.jpg" alt="" class="gap-fix" width="180" height="110">
-			</a>
-		</div>
-		<ul>
-			<li style="Padding-bottom: 7px; padding-top: 7px; padding-right: 5px; padding-left: 5px; margin-top: 0px;">
-				<p style="font-size:14px; font-weight: heavy;">
-					<a style="color: #000" href="http://www.hollybaby.com/2011/06/22/pink-baby-willow-sage-pics-carey-hart/">
-						Meet Pink &amp; Carey Hart’s Baby Girl, Willow Sage!
-					</a>
-				</p>
-				<p style="font-size:12px; display: inline; float: right; text-align: right; clear: both; padding: 1px 5px 1px 2px; margin-top: 3px; margin-left: 5px; margin-bottom: 10px;">
-					<a href="http://www.hollybaby.com/2011/06/22/pink-baby-willow-sage-pics-carey-hart/" class="more-link">
-						Read More!
-					</a>
-				</p>
-			</li>
-		</ul>
-		<div style="clear: both; width: 150px; margin-left: 20px; border-top: 1px solid #cccccc; margin-bottom: 10px; margin-top: 5px; height: 1px; text-indent: -9999px;">
-		</div>
+		
+		
+		
 
 
-<!-- Hollybaby 2 -->
-		<div id="mydiv" style="width: 187px; padding: 0px 0px 0px 0px;">
-			<a href="http://www.hollybaby.com/2011/06/22/angelina-jolie-zahara-shiloh-visit-brad-pitt-world-war-z-set/#263547-1-062211_brad_angelina_zahara_shiloh_FP_7493829_ANG_PittJolieKids_Set_EXCL_13_35">
-				<img style="width: 187px; height: 120px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062211_shiloh110622105546.jpg" alt="" class="gap-fix" width="180" height="110">
-			</a>
-			<ul>
-				<li style="Padding-bottom: 7px; padding-top: 7px; padding-right: 5px; padding-left: 5px; margin-top: 0px;">
-					<p style="font-size:14px; font-weight: heavy;">
-						<a style="color: #000" href="http://www.hollybaby.com/2011/06/22/angelina-jolie-zahara-shiloh-visit-brad-pitt-world-war-z-set/#263547-1-062211_brad_angelina_zahara_shiloh_FP_7493829_ANG_PittJolieKids_Set_EXCL_13_35">
-							Angelina Jolie, Zahara &amp; Shiloh Visit Daddy Brad Pitt On The Set Of His New Zombie Film!
-						</a>
-					</p>
-					<p style="font-size:12px; display: inline; float: right; text-align: right; clear: both; padding: 1px 5px 1px 2px; margin-top: 3px; margin-left: 5px; margin-bottom: 10px;">
-						<a href="http://www.hollybaby.com/2011/06/22/angelina-jolie-zahara-shiloh-visit-brad-pitt-world-war-z-set/#263547-1-062211_brad_angelina_zahara_shiloh_FP_7493829_ANG_PittJolieKids_Set_EXCL_13_35" class="more-link">
-							Read More &amp; See Pics!
-						</a>
-					</p>
-				</li>
-			</ul>
-		</div>
-		<div style="clear: both; height: 1px; text-indent: -9999px; color: #ffffff;">
-		</div>
-	</div>
+<div class="newsmodright" style="background: url(http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/05/hl_shadow110505143804.png) no-repeat scroll center top; border: none;">
+
+	<a href="http://www.hollywoodlife.com/2011/12/15/jennifer-aniston-eyelash-beauty/" class="more-link">
+		<img style="box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -webkit-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -moz-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/beauty_large111216102214.jpg" width="180px" height="110px">
+		<span class="mod-text" style="text-transform: capitalize;">Jennifer Aniston’s Eyelash Secret Revealed </span>
+		<span id="modcta">read more!</span>
+	</a>
+</div>
 
 
-<!-- Style 1 -->
-	<div style="width: 190px; border-left: 1px solid #cccccc; border-bottom: 1px solid #cccccc; margin-bottom: 10px;">
-		<div id="mydiv" style="width 178px; Padding-bottom: 0px; padding-top: 0px; padding-right: 5px; padding-left: 0px; background-color: #ff4200;">
+<div class="newsmodright" style="border: none;">
+
+	<a href="http://www.hollywoodlife.com/2011/12/16/paula-abdul-sexy-mini-the-x-factor-pics/" class="more-link">
+		<img style="box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -webkit-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/style_large111216102216.jpg" width="180px" height="110px">
+		<span class="mod-text" style="text-transform: capitalize;">X Factor Feud: Paula Abdul Uses Huge Cleavage &amp; Tiny Mini To Upstage Nicole Scherzinger </span>
+		<span id="modcta">read more!</span>
+	</a>
+</div>
+
+
+
+
+</div>
+
+
+
+<div style="width: 190px; border-left: 1px solid #cccccc; border-bottom: 1px solid #cccccc; margin-bottom: 10px;">
+
+		<div id="mydiv" style="width 178px; Padding-bottom: 0px; padding-top: 0px; padding-right: 5px; padding-left: 0px; background-color: #00c9ff; -webkit-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -moz-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px;">
 			<p style="width: 190px; font-weight:bold; font-size:17px; text-shadow: black 0.1em 0.1em 0em">
 				<font style="padding: 0px 2px 1px 2px; color: #ffffff; font-weight:bold;">
-					STYLE &amp; BEAUTY!
+					HollyBaby News!
 				</font>
 			</p>
 		</div>
-		<div style="position:absolute; z-index:3;">
-			<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/05/hl_shadow110505143804.png">
-		</div>
-		<div id="mydiv" style="width: 187px; padding: 0px 0px 0px 0px;">
-			<a href="http://www.hollywoodlife.com/2011/06/22/john-galliano-trial-paris-christian-dior-anti-semitic-rant/">
-				<img style="width: 180px; height: 110px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062211_style_5110622125351.jpg" alt="" class="gap-fix" width="180" height="110">
-			</a>
-		</div>
-		<ul>
-			<li style="Padding-bottom: 7px; padding-top: 7px; padding-right: 5px; padding-left: 5px; margin-top: 0px;">
-				<p style="font-size:14px; font-weight: heavy;">
-					<a style="color: #000" href="http://www.hollywoodlife.com/2011/06/22/john-galliano-trial-paris-christian-dior-anti-semitic-rant/">
-						John Galliano Trial In Paris Set To Start Today
-					</a>
-				</p>
-				<p style="font-size:12px; display: inline; float: right; text-align: right; clear: both; padding: 1px 5px 1px 2px; margin-top: 3px; margin-left: 5px; margin-bottom: 10px;">
-					<a href="http://www.hollywoodlife.com/2011/06/22/john-galliano-trial-paris-christian-dior-anti-semitic-rant/" class="more-link">
-						Read More!
-					</a>
-				</p>
-			</li>
-		</ul>
-		<div style="clear: both; width: 150px; margin-left: 20px; border-top: 1px solid #cccccc; margin-bottom: 10px; margin-top: 5px; height: 1px; text-indent: -9999px;">
-		</div>
+		
+		
+		
 
 
-<!-- beauty 2 -->
-		<div id="mydiv" style="width: 187px; padding: 0px 0px 0px 0px;">
-			<a href="http://www.hollywoodlife.com/2011/06/22/kristen-stewart-makeup/">
-				<img style="width: 180px; height: 110px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062211_hl_beauty110622125350.jpg" alt="" class="gap-fix" width="180" height="110">
-			</a>
-			<ul>
-				<li style="Padding-bottom: 7px; padding-top: 7px; padding-right: 5px; padding-left: 5px; margin-top: 0px;">
-					<p style="font-size:14px; font-weight: heavy;">
-						<a style="color: #000" href="http://www.hollywoodlife.com/2011/06/22/kristen-stewart-makeup/">
-							Kristen Stewart Red Carpet Beauty — Get Her Exact Look!
-						</a>
-					</p>
-					<p style="font-size:12px; display: inline; float: right; text-align: right; clear: both; padding: 1px 5px 1px 2px; margin-top: 3px; margin-left: 5px; margin-bottom: 10px;">
-						<a href="http://www.hollywoodlife.com/2011/06/22/kristen-stewart-makeup/" class="more-link">
-							Get Her Look!
-						</a>
-					</p>
-				</li>
-			</ul>
-		</div>
-		<div style="clear: both; height: 1px; text-indent: -9999px; color: #ffffff;">
-			. 
-		</div>
-	</div>
-</div></div><div class="hl-std-left"><h2 class="widgettitle">beauty Promo Mod</h2>
-			<div class="textwidget"><div class="ampmpics" style="width:190px; border: 1px solid #cccccc; margin-bottom: 10px; margin-top: 0px;"><img style="padding-bottom: 3px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/060811_sunprotectors_title110608164947.jpg"><a href="http://www.hollywoodlife.com/2011/06/08/selena-gomez-sun-protection/#393490-0-060711_sun_tan_lotion_544_gallery_IIMG_3327"><img style="padding-bottom: 0px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/060911_sunprotectors110608164948.jpg">
+<div class="newsmodright" style="background: url(http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/05/hl_shadow110505143804.png) no-repeat scroll center top; border: none;">
 
-<img style="padding-bottom: 0px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/060811_sunprotector_product110608164946.jpg"></a>
-
-<div style="padding:5px 12px 5px 12px;">
-
-<p style="color: #000;">Selena Gomez Is A Total Beach Bunny! Be Beach-Ready Yourself With These 11 Amazing Sun Protectors! <a href="http://www.hollywoodlife.com/2011/06/08/selena-gomez-sun-protection/#393490-0-060711_sun_tan_lotion_544_gallery_IIMG_3327" style="color: #ff0099" class="more-link">Click For More Sunscreens &amp; SHOP!</a></p></div>
+	<a href="http://www.hollybaby.com/2011/12/16/suri-cruise-katie-holmes-dinner/" class="more-link">
+		<img style="box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -webkit-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -moz-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/baby1_large111216102218.jpg" width="180px" height="110px">
+		<span class="mod-text" style="text-transform: capitalize;">Suri Cruise Out For A Late Dinner With Katie Holmes AGAIN </span>
+		<span id="modcta">read more!</span>
+	</a>
+</div>
 
 
+<div class="newsmodright" style="border: none;">
 
-
-
-
+	<a href="http://www.hollybaby.com/2011/12/15/jay-z-beyonce-pregnant-diet/" class="more-link">
+		<img style="box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px; -webkit-box-shadow: rgb(136, 136, 136) 0.8px 0.6px 8px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/baby2_large111216102219.jpg" width="180px" height="110px">
+		<span class="mod-text" style="text-transform: capitalize;">Jay-Z Is On Beyonce’s Pregnancy Diet </span>
+		<span id="modcta">read more!</span>
+	</a>
+</div>
 
 
 
 
 </div>
-<div style="clear: both; height: 1px; text-indent: -9999px; color: #ffffff;">.</div>
-</div>
-		</div><div class="hl-std-left"><h2 class="widgettitle">style promo mod</h2>
-			<div class="textwidget"><div class="ampmpics" style="width:190px; border: 1px solid #cccccc; margin-bottom: 10px; margin-top: 0px;"><img style="padding-bottom: 3px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062211_summer_dresses_mod_title110622175943.jpg"><a href="http://www.hollywoodlife.com/2011/06/17/get-your-own-super-cute-summer-dresses-just-like-blake-livelys-kate-middletons-and-more/?cmpid=summer_dresses_edi_2A_051611"><img style="padding-bottom: 0px;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062211_dresses_mod_img_190110622175944.jpg">
 
-</a>
-
-<div style="padding:5px 12px 5px 12px;">
-
-<p style="color: #000;">See Summer Cutest Dresses On Blake Lively, Kate Middleton And More! Shop For Your Own! <a href="http://www.hollywoodlife.com/2011/06/17/get-your-own-super-cute-summer-dresses-just-like-blake-livelys-kate-middletons-and-more/?cmpid=summer_dresses_edi_2A_051611" style="color: #ff0099" class="more-link">Click For More Dresses &amp; SHOP!</a></p></div>
-
-
-
-
-
-
-
-
-
-
-</div>
-<div style="clear: both; height: 1px; text-indent: -9999px; color: #ffffff;">.</div>
-</div>
-		</div><div class="hl-std-left"><div style="width:190px; height: auto; padding:0; margin:0 0 20px 0; border: 1px solid #cccccc; background:#ffffff;">
-	<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062111_bieber_mod_title110621172223.jpg" width="190" style="padding:0 0 3px 0;" alt="celebs get hacked!">
-	<div>
-		<a href="http://www.hollywoodlife.com/2011/06/20/justin-bieber-performs-with-jaden-smith-usher-scooter-braun-birthday-video/?cmpid=bieber_exclusive_video_edi_6B_030811" style="display:block; width:190px; margin:0px 0px 10px 0px; overflow:hidden;"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062111_bieber_mod_img110621172224.jpg" width="190" alt=""></a>
-	</div>
-	<p style="color: #000; padding:0 12px 12px;">Justin Bieber Performs ‘Baby,’ ‘Never Say Never’ &amp; More With Usher And Jaden Smith At Scooter’s Birthday! <a href="http://www.hollywoodlife.com/2011/06/20/justin-bieber-performs-with-jaden-smith-usher-scooter-braun-birthday-video/?cmpid=bieber_exclusive_video_edi_6B_030811" style="color: #ff0099;" class="more-link">Click To Watch! </a></p>
-</div></div><div class="hl-std-left">			<div class="hl-hed-right">
+<div style="clear: both; height: 1px; text-indent: -9999px; color: #ffffff;">.</div></div><div class="hl-std-left">			<div class="hl-hed-right">
 				<img src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/images/theme/hed_mostpopular.png" alt="A.M. Pics" class="gap-fix">
 			</div>
 			<ul>
@@ -536,85 +715,96 @@
 							<img src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/images/theme/mp-1.png" alt="1" class="gap-fix">
 						</div>
 						<div class="left">
-							<a href="http://www.hollywoodlife.com/2011/06/20/justin-bieber-selena-gomez-miley-cyrus/"> <img width="148" height="90" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062011_miley_selena110620155249.jpg" class="attachment-popular_post_thumb wp-post-image" alt="062011_miley_selena" title="062011_miley_selena"> </a>
+							<a href="http://www.hollywoodlife.com/2011/12/16/robert-pattinson-kristen-stewart-holidays-los-angeles/">  </a>
 						</div>
-						<h4><a href="http://www.hollywoodlife.com/2011/06/20/justin-bieber-selena-gomez-miley-cyrus/">Selena Gomez V. Miley Cyrus -- Who Was The Better MuchMusic Video Awards Host?</a></h4>
+						<h4><a href="http://www.hollywoodlife.com/2011/12/16/robert-pattinson-kristen-stewart-holidays-los-angeles/">Robert Pattinson &amp; Kristen Stewart Spending The Holidays Together In LA</a></h4>
 					</li>
 														<li class="mp-item">
 						<div class="left">
 							<img src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/images/theme/mp-2.png" alt="2" class="gap-fix">
 						</div>
 						<div class="left">
-							<a href="http://www.hollywoodlife.com/2011/06/20/selena-gomez-miley-cyrus-role-model-justin-bieber-disney/"> <img width="148" height="90" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/miley-selena110621085305.jpg" class="attachment-popular_post_thumb wp-post-image" alt="miley-selena" title="miley-selena"> </a>
+							<a href="http://www.hollywoodlife.com/2011/12/16/kylie-jenner-sexy-dress-kardashians-las-vegas-pics/">  </a>
 						</div>
-						<h4><a href="http://www.hollywoodlife.com/2011/06/20/selena-gomez-miley-cyrus-role-model-justin-bieber-disney/">Bonnie Says: Miley Cyrus Learn A Lesson From Selena Gomez — Stop Alienating Your Fans In Bondagewear!</a></h4>
+						<h4><a href="http://www.hollywoodlife.com/2011/12/16/kylie-jenner-sexy-dress-kardashians-las-vegas-pics/">Kylie Jenner's Super Sexy Bandage Dress &amp; Cleavage: Too Much at 14!</a></h4>
 					</li>
 														<li class="mp-item">
 						<div class="left">
 							<img src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/images/theme/mp-3.png" alt="3" class="gap-fix">
 						</div>
 						<div class="left">
-							<a href="http://www.hollywoodlife.com/2011/06/21/kristen-stewart-garrett-hedlund-taylor-lautner-chris-weitz-a-better-life-premiere/"> <img width="148" height="90" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062211_kstew_taylor110622091456.jpg" class="attachment-popular_post_thumb wp-post-image" alt="062211_kstew_taylor" title="062211_kstew_taylor"> </a>
+							<a href="http://www.hollywoodlife.com/2011/12/16/justin-bieber-selena-gomez-charity-helping-children-philanthropy/">  </a>
 						</div>
-						<h4><a href="http://www.hollywoodlife.com/2011/06/21/kristen-stewart-garrett-hedlund-taylor-lautner-chris-weitz-a-better-life-premiere/">Kristen Stewart, Garrett Hedlund &amp; Taylor Lautner Are Attending 'New Moon' Director Chris Weitz's Premiere Tonight!</a></h4>
+						<h4><a href="http://www.hollywoodlife.com/2011/12/16/justin-bieber-selena-gomez-charity-helping-children-philanthropy/">Justin Bieber &amp; Selena Gomez Are Heroes For Helping Children Desperately In Need</a></h4>
 					</li>
 														<li class="mp-item">
 						<div class="left">
 							<img src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/images/theme/mp-4.png" alt="4" class="gap-fix">
 						</div>
 						<div class="left">
-							<a href="http://www.hollywoodlife.com/2011/06/20/doug-hutchison-courtney-alexis-stodden-mother-married/"> <img width="148" height="90" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062111_16110621085227.jpg" class="attachment-popular_post_thumb wp-post-image" alt="062111_16" title="062111_16"> </a>
+							<a href="http://www.hollywoodlife.com/2011/12/16/lauren-scruggs-eye-surgery-update-mom/">  </a>
 						</div>
-						<h4><a href="http://www.hollywoodlife.com/2011/06/20/doug-hutchison-courtney-alexis-stodden-mother-married/">16-Year-Old Pageant Bride's Mother Speaks Out: She Supports Daughter's Marriage To A 51-Year-Old Actor!</a></h4>
+						<h4><a href="http://www.hollywoodlife.com/2011/12/16/lauren-scruggs-eye-surgery-update-mom/">Lauren Scruggs' Mom Says: Lauren Was In 'Excruciating' Pain Last Night</a></h4>
 					</li>
 														<li class="mp-item">
 						<div class="left">
 							<img src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/images/theme/mp-5.png" alt="5" class="gap-fix">
 						</div>
 						<div class="left">
-							<a href="http://www.hollywoodlife.com/2011/06/20/courtney-stodden-might-not-be-16-years-old-music-videos-married/"> <img width="145" height="90" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/courtney_teaser110620191520110622092041.png" class="attachment-popular_post_thumb wp-post-image" alt="courtney_teaser110620191520" title="courtney_teaser110620191520"> </a>
+							<a href="http://www.hollywoodlife.com/2011/12/15/kristen-stewart-robert-pattinson-revenge/"> <img width="148" height="90" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/marcus-foster-1111215181653.jpg" class="attachment-popular_post_thumb wp-post-image" alt="marcus-foster-1" title="marcus-foster-1"> </a>
 						</div>
-						<h4><a href="http://www.hollywoodlife.com/2011/06/20/courtney-stodden-might-not-be-16-years-old-music-videos-married/">Watch 16-Year-Old Bride Courtney Stodden's Hilarious (And Inappropriate) Country Music Videos!</a></h4>
+						<h4><a href="http://www.hollywoodlife.com/2011/12/15/kristen-stewart-robert-pattinson-revenge/">Kristen Stewart's Revenge On Robert Pattinson For Hanging Out With Sarah Roemer</a></h4>
 					</li>
 							</ul>
 			<!--<a href="#"><img src="/images/theme/mp-button.png" alt="1" class="gap-fix hl-bot-image" /></a>-->
-			</div><div class="hl-std-left"><div style="width:190px; height: auto; padding:0; margin:0 0 20px 0; border: 1px solid #cccccc; background:#ffffff;">
-	<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062011_kim_kris_romance_title110620082347.jpg" width="190" style="padding:0 0 3px 0;" alt="">
-	<div>
-		<a href="http://www.hollywoodlife.com/2011/06/18/kim-kardashian-kris-humphries-romance-pictures/#400601-17-061611_kim_kris_spl261302_027?cmpid=kim_kris_pics_edi__062011" style="display:block; width:190px; margin:0px 0px 10px 0px; overflow:hidden;"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/062011_kim_kris_romance_pics110620082348.jpg" width="190" alt=""></a>
-	</div>
-	<p style="color: #000; padding:0 12px 12px;">Kim Kardashian &amp; Kris Humphries’ Whirlwind Romance In Pics! <a href="http://www.hollywoodlife.com/2011/06/18/kim-kardashian-kris-humphries-romance-pictures/#400601-17-061611_kim_kris_spl261302_027?cmpid=kim_kris_pics_edi__062011" style="color: #ff0099;" class="more-link">Read More &amp; See Pics! </a></p>
+			</div><div class="hl-std-left"><div class="newsmodright">
+	<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/121211_fan_friendly_mod_title111212080340.jpg" alt="" width="190px" heigh="auto">
+	<a href="http://www.hollywoodlife.com/2011/12/10/justin-bieber-robert-pattinson-pics-fans/?cmpid=___" class="more-link">
+		<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/121211_fan_friendly_mod_img111212080342.jpg">
+		<span class="mod-text" style="text-transform: capitalize;">Hollywood’s 8 Most Fan-Friendly Celebs! </span>
+		<span id="modcta">See Pics &amp; VOTE!</span>
+	</a>
 </div></div><div class="hl-std-left"><div style="width:170px; padding: 10px 10px 10px 10px; margin:0 0 20px 0; background:#fff200; text-align: center;">
-      <a href="http://www.hollywoodlife.com/2011/06/02/win-billboard-awards-giftbag-giveaway/?cmpid=http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/060211_giveaway_title110602154122.jpg_win_12B_050211"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/060211_giveaway_title110602154122.jpg" height="158px" width="170px" alt="" align="center"></a>
 
-      <div style="background-color:#ffffff;">
-              <h4 style="padding: 0px 0px 10px 0px;"><a href="http://www.hollywoodlife.com/2011/06/02/win-billboard-awards-giftbag-giveaway/?cmpid=_win_12B_050211"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/06/060211_bieber_win_mod_img110602154124.jpg"></a></h4>
-              <a href="http://www.hollywoodlife.com/2011/06/02/win-billboard-awards-giftbag-giveaway/?cmpid=_win_12B_050211"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2009/11/win_enter_170.png"></a>
-              <h4 style="padding: 0px 10px 10px 14px; line-height: 16px; text-align: left;">Enter to Win A Giftbag Including a SRS Labs iWOW 3D Adaptor, Bolzano Handbag, &amp; BiGR Audio Headphones!<a href="http://www.hollywoodlife.com/2011/06/02/win-billboard-awards-giftbag-giveaway/?cmpid=_win_12B_050211" style="display:inline;"> Click to Enter now!<img style="top:2px; left:3px; position:relative;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2009/11/btn_readmore_black.gif"></a></h4>
+      <a style="text-decoration: none;" href="http://www.hollywoodlife.com/2011/12/02/ice-watch-reader-giveaway/?cmpid=http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120211_win_title111202165631.jpg_win__"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120211_win_title111202165631.jpg" height="113px" width="170px" alt="" align="center">
+
+      </a><div style="background-color:#ffffff;"><a style="text-decoration: none;" href="http://www.hollywoodlife.com/2011/12/02/ice-watch-reader-giveaway/?cmpid=http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120211_win_title111202165631.jpg_win__">
+              <h4 style="padding: 0px 0px 10px 0px;"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120211_mod_img111202165633.jpg"></h4>
+            
+             
+              <span class="mod-text">Win XYZ’s Ice-Watch from backstage at the AMAs</span>
+			  
+			  <div style="clear: both; border-bottom: 1px solid #ccc; margin: 7px 10px 7px 10px; height: 1px; text-indent: -9999px; color: #ffffff;">.</div>
+			  
+			<p style="padding: 0px 10px 0px 14px; line-height: 16px; text-align: left;"><span style="color: #ff0099; font-size: 48px; font-weight: bold; font-style: italic; font-family: georgia; text-decoration: none;">enter</span><span style="color: #000; font-size: 35px; font-family: georgia; font-style: italic; line-height: 35px;"> to win!</span></p></a>
+             
       </div>
 
-</div></div><div class="hl-std-left">    <div class="h1-rss-top">
-      <h4>News From PopEater</h4>
-      <img src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/images/theme/popeater/popeater.jpg?v1" alt="News From PopEater" width="190" height="69">
-      <ul>
-              <li><a href="http://www.popeater.com/2011/06/22/jennifer-aniston-snuggles-up-to-new-man-justin-theroux-photo/" target="_blank">Jennifer Aniston Get Cozy With New Man (Photo)</a></li>
-              <li><a href="http://www.popeater.com/2011/06/22/glee-ryan-murphy-season-3/" target="_blank">'Glee' Creator Ryan Murphy Talks Season 3</a></li>
-              <li><a href="http://www.popeater.com/2011/06/22/paris-hilton-nicole-richie-hug-friendship-photos/" target="_blank">Paris Hilton and Nicole Richie Hug it Out</a></li>
-              <li><a href="http://www.popeater.com/2011/06/22/wilmer-valderrama-career-larry-crowne-stride-awake/" target="_blank">Is Wilmer Valderrama the Screech of the 2000's?</a></li>
-            </ul>
-    </div>
-    	<div class="h1-rss-top">
-      <h4>News From MovieFone</h4>
-      <img src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/images/theme/moviefone.jpg" alt="News From MovieFone" width="190" height="66">
-      <ul>
-              <li><a href="http://feedproxy.google.com/~r/InsideMovies/~3/4yFSjCe_hCU/" target="_blank">First Posters for 'Contagion,' 'Final Destination 5,' 'J. Edgar,' 'New Year's Eve,' 'A Very Harold and Kumar Christmas' and 'Extremely Loud and Incredibly Close'</a></li>
-              <li><a href="http://feedproxy.google.com/~r/InsideMovies/~3/5XGafaDl49Q/" target="_blank">Michael Bay to Theater Owners: Stop Underlighting 3D Movies! Especially Mine!</a></li>
-              <li><a href="http://feedproxy.google.com/~r/InsideMovies/~3/eyMLc8CUTqg/" target="_blank">'Superman II': The Last Great Superman Movie Turns 30</a></li>
-              <li><a href="http://feedproxy.google.com/~r/InsideMovies/~3/SwJWrNBPgEY/" target="_blank">4 New Posters for 'Immortals'</a></li>
-            </ul>
-    </div>
-    <!-- Scheduling cache update for aoltelevision module @ 2011-06-22 20:37:38 America/New_York --><div class="hl-std-left"><h2 class="widgettitle">send us scoop</h2>
-			<div class="textwidget"><div class="widgetwrapper"> <div class="sc-widget"> <div class="sc-topimg"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2009/11/send_scoop.png"></div> <div class="sc-content"> <h2>If you see something, <br>Send us something.</h2> <div class="sc-report"> <a class="iframe" href="http://www.hollywoodlife.com/send-us-your-scoop/" id="hl-scoop-form">Info...pics..tips...</a><br> <strong>Report for us!</strong> </div> </div> </div> </div> <script type="text/javascript"> jQuery(document).ready(function(){ jQuery("#hl-scoop-form").fancybox({hideOnContentClick:false, type: "iframe"}); }); </script></div>
+</div></div><div class="hl-std-left"><div style="width:170px; padding: 10px 10px 10px 10px; margin:0 0 20px 0; background:#fff200; text-align: center;">
+
+      <a style="text-decoration: none;" href="http://www.hollywoodlife.com/2011/12/01/iphone-4s-giveaway/?cmpid=http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120111_win_mod_title111201183050.jpg_win__"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120111_win_mod_title111201183050.jpg" height="113px" width="170px" alt="" align="center">
+
+      </a><div style="background-color:#ffffff;"><a style="text-decoration: none;" href="http://www.hollywoodlife.com/2011/12/01/iphone-4s-giveaway/?cmpid=http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120111_win_mod_title111201183050.jpg_win__">
+              <h4 style="padding: 0px 0px 10px 0px;"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/120111_win_mod_img111201183051.jpg"></h4>
+            
+             
+              <span class="mod-text">Win An iPhone 4S!</span>
+			  
+			  <div style="clear: both; border-bottom: 1px solid #ccc; margin: 7px 10px 7px 10px; height: 1px; text-indent: -9999px; color: #ffffff;">.</div>
+			  
+			<p style="padding: 0px 10px 0px 14px; line-height: 16px; text-align: left;"><span style="color: #ff0099; font-size: 48px; font-weight: bold; font-style: italic; font-family: georgia; text-decoration: none;">enter</span><span style="color: #000; font-size: 35px; font-family: georgia; font-style: italic; line-height: 35px;"> to win!</span></p></a>
+             
+      </div>
+
+</div></div><div class="hl-std-left"><div class="newsmodright">
+	<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/121211_romantic_couple_title111212082123.jpg" alt="" width="190px" heigh="auto">
+	<a href="http://www.hollywoodlife.com/2011/12/11/robert-pattinson-kristen-stewart-pics-edward-bella/?cmpid=___081111" class="more-link">
+		<img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/12/121211_rob_kristen111212082124.jpg">
+		<span class="mod-text" style="text-transform: capitalize;">Robert Pattinson &amp; Kristen Stewart V. Edward &amp; Bella: Which Couple Is More Romantic? </span>
+		<span id="modcta">see pics!</span>
+	</a>
+</div></div><div class="hl-std-left"><h2 class="widgettitle">send us scoop</h2>
+			<div class="textwidget"><div class="widgetwrapper"> <div class="sc-widget"> <div class="sc-topimg"><img style="width:190px; height:auto;" src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2009/11/send_scoop.png"></div> <div class="sc-content"> <h2>If you see something, <br>Send us something.</h2> <div class="sc-report"> <a class="iframe" href="http://www.hollywoodlife.com/send-us-your-scoop/" id="hl-scoop-form">Info...pics..tips...</a><br> <strong>Report for us!</strong> </div> </div> </div> </div> <script type="text/javascript"> jQuery(document).ready(function(){ jQuery("#hl-scoop-form").fancybox({hideOnContentClick:false, type: "iframe"}); }); </script></div>
 		</div>
 		</div>
 	</div>
@@ -622,40 +812,30 @@
 					<!--other news-->
 				<div class="module-full">
 					<ul class="module-content">
-					<div style="padding-top:5px; padding-bottom:5px; width:187px; float:left; overflow: hidden;"><ul><p align="center"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/01/ml-logo110128183056.jpg" alt="movieline" width="109" height="39"></p><li><span><a style="color:#373737;" href="http://www.movieline.com/2011/06/new-britney-spears-video-riffs-on-terminator-2-half-baked-and-crossroads.php" title="New Britney Spears Video Riffs on Terminator 2, Half Baked and Crossroads" target="_blank">New Britney Spears Video Riffs on Terminator 2, Half Baked and Crossroads</a></span></li><li><span><a style="color:#373737;" href="http://www.movieline.com/2011/06/fox-hires-john-landiss-son-to-adapt-frankenstein-for-the-screen.php" title="Fox Hires Max Landis to Adapt Frankenstein For the Screen" target="_blank">Fox Hires Max Landis to Adapt Frankenstein For the Screen</a></span></li><li><span><a style="color:#373737;" href="http://www.movieline.com/2011/06/tree-of-life-vs-the-social-network-and-more-golden-trailer-award-match-ups.php" title="Tree of Life vs. The Social Network, and More Golden Trailer Awards Match-Ups" target="_blank">Tree of Life vs. The Social Network, and More Golden Trailer Awards Match-Ups</a></span></li></ul></div><div style="padding-top:5px; padding-bottom:5px; width:187px; float:left; overflow: hidden;"><ul><p align="center"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/01/dl-logo110128183051.jpg" alt="deadline" width="109" height="39"></p><li><span><a style="color:#373737;" href="http://www.deadline.com/2011/06/paramount-making-too-many-3d-demands/" title="Paramount Making Too Many 3D Demands?" target="_blank">Paramount Making Too Many 3D Demands?</a></span></li><li><span><a style="color:#373737;" href="http://www.deadline.com/2011/06/nbc-comedy-executive-jane-wiseman-joins-chernin-entertainment-as-svp-comedy/" title="NBC Comedy Executive Jane Wiseman Joins Chernin Entertainment As SVP Comedy" target="_blank">NBC Comedy Executive Jane Wiseman Joins Chernin Entertainment As SVP Comedy</a></span></li><li><span><a style="color:#373737;" href="http://www.deadline.com/2011/06/hammond-toy-story-jumps-back-into-theatres-and-2011-oscar-race/" title="Hammond: 'Toy Story' Jumps Back Into Theatres - And 2011 Oscar Race?" target="_blank">Hammond: 'Toy Story' Jumps Back Into Theatres - And 2011 Oscar Race?</a></span></li></ul></div><div style="padding-top:5px; padding-bottom:5px; width:187px; float:left; overflow: hidden;"><ul><p align="center"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/01/tl-logo110128183058.jpg" alt="BGR" width="109" height="39"></p><li><span><a style="color:#373737;" href="http://www.tvline.com/2011/06/rookie-blue-season-2-preview/" title="Rookie Blue's Missy Peregrym Previews Season 2: The Love Triangle 'Gets Really Heavy'" target="_blank">Rookie Blue's Missy Peregrym Previews Season 2: The Love Triangle 'Gets Really Heavy'</a></span></li><li><span><a style="color:#373737;" href="http://www.tvline.com/2011/06/eye-on-emmy-justified-timothy-olyphant/" title="Eye on Emmy: Justified's Timothy Olyphant Has 5 'Fantastic Acceptance Speeches' on Standby" target="_blank">Eye on Emmy: Justified's Timothy Olyphant Has 5 'Fantastic Acceptance Speeches' on Standby</a></span></li><li><span><a style="color:#373737;" href="http://www.tvline.com/2011/06/americas-got-talent-recap-season-6-atlanta-auditions-anna-graceman/" title="America's Got Talent: Precocious Child Singing!" target="_blank">America's Got Talent: Precocious Child Singing!</a></span></li></ul></div><div style="padding-top:5px; padding-bottom:5px; width:187px; float:left; overflow: hidden;"><ul><p align="center"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/01/bgr-logo110128183050.jpg" alt="BGR" width="109" height="39"></p><li><span><a style="color:#373737;" href="http://www.bgr.com/2011/06/22/verizons-tiered-data-plans-reaffirmed-by-leak/" title="Verizon’s tiered data plans reaffirmed by leak" target="_blank">Verizon’s tiered data plans reaffirmed by leak</a></span></li><li><span><a style="color:#373737;" href="http://www.bgr.com/2011/06/22/nokia-might-unveil-first-windows-phone-on-october-26th/" title="Nokia might unveil first Windows Phone on October 26th" target="_blank">Nokia might unveil first Windows Phone on October 26th</a></span></li><li><span><a style="color:#373737;" href="http://www.bgr.com/2011/06/22/att-t-mobile-acquisition-on-schedule-for-march-2012-approval/" title="AT&amp;T: T-Mobile acquisition on schedule for March 2012 approval" target="_blank">AT&amp;T: T-Mobile acquisition on schedule for March 2012 approval</a></span></li></ul></div><div style="padding-top:5px; padding-bottom:5px; width:187px; float:left; overflow: hidden;"><ul><p align="center"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/01/hb-logo110128183053.jpg" alt="hollybaby" width="109" height="39"></p><li><span><a style="color:#373737;" href="http://www.hollybaby.com/2011/06/22/16-and-pregnant-season-three-teen-mom-stars/" title="Which Four ’16 and Pregnant’ Stars Do You Want To See On ‘Teen Mom?’" target="_blank">Which Four ’16 and Pregnant’ Stars Do You Want To See On ‘Teen Mom?’</a></span></li><li><span><a style="color:#373737;" href="http://www.hollybaby.com/2011/06/22/janelle-clouse-baby-amish-farmhouse-fire/" title="Baby Joy For Couple Who Lost SEVEN Children In A House Fire!" target="_blank">Baby Joy For Couple Who Lost SEVEN Children In A House Fire!</a></span></li><li><span><a style="color:#373737;" href="http://www.hollybaby.com/2011/06/22/toddlers-tiaras-tlc-episode-clip-chloe/" title="‘Toddlers &amp; Tiaras’ Preview: Chloe Gets Highlights &amp; Waxing For The Pageant: Is It Wrong?" target="_blank">‘Toddlers &amp; Tiaras’ Preview: Chloe Gets Highlights &amp; Waxing For The Pageant: Is It Wrong?</a></span></li></ul></div>					</ul>
+					<div style="padding-top:5px; padding-bottom:5px; width:187px; float:left; overflow: hidden;"><ul><p align="center"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/01/ml-logo110128183056.jpg" alt="movieline" width="109" height="39"></p><li><span><a style="color:#373737;" href="http://www.movieline.com/2011/12/how-to-knock-out-daniel-craig-and-8-other-revelations-from-the-girl-with-the-dragon-tattoo-team.php" title="How to Knock Out Daniel Craig, and 8 Other Revelations From the Girl With the Dragon Tattoo Team" target="_blank">How to Knock Out Daniel Craig, and 8 Other Revelations From the Girl With the Dragon Tattoo Team</a></span></li><li><span><a style="color:#373737;" href="http://www.movieline.com/2011/12/friday-box-office-sherlock-stomps-alvin-on-another-sleepy-friday.php" title="Friday Box Office: Sherlock Stomps Alvin on Another Sleepy Friday" target="_blank">Friday Box Office: Sherlock Stomps Alvin on Another Sleepy Friday</a></span></li><li><span><a style="color:#373737;" href="http://www.movieline.com/2011/12/week-in-review-the-golden-globes-try-sanity-for-a-change.php" title="Week in Review: The Golden Globes Try Sanity for a Change" target="_blank">Week in Review: The Golden Globes Try Sanity for a Change</a></span></li></ul></div><div style="padding-top:5px; padding-bottom:5px; width:187px; float:left; overflow: hidden;"><ul><p align="center"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/01/dl-logo110128183051.jpg" alt="deadline" width="109" height="39"></p><li><span><a style="color:#373737;" href="http://www.deadline.com/2011/12/first-box-office-mission-impossible-ghost-protocol-1-1m-from-only-425-screens-helped-by-dark-knight-rising-preview/" title="XMAS SLUMP, TOO! ‘Sherlock Holmes 2′ And ‘Alvin And The Chipmunks 3′ Badly Trail; ‘Mission: Impossible 4′ Best Screen Average Thanks To ‘Dark Knight Rises’ Prologue" target="_blank">XMAS SLUMP, TOO! ‘Sherlock Holmes 2′ And ‘Alvin And The Chipmunks 3′ Badly Trail; ‘Mission: Impossible 4′ Best Screen Average Thanks To ‘Dark Knight Rises’ Prologue</a></span></li><li><span><a style="color:#373737;" href="http://www.deadline.com/2011/12/saturday-night-live-spoofs-war-horse/" title="‘Saturday Night Live’ Spoofs ‘War Horse’" target="_blank">‘Saturday Night Live’ Spoofs ‘War Horse’</a></span></li><li><span><a style="color:#373737;" href="http://www.deadline.com/2011/12/opinion-work-it-is-not-anti-transgender-it-is-just-a-silly-cross-dressing-sitcom/" title="OPINION: ‘Work It’ Is Not Anti-Transgender, It Is Just A Silly Cross-Dressing Sitcom" target="_blank">OPINION: ‘Work It’ Is Not Anti-Transgender, It Is Just A Silly Cross-Dressing Sitcom</a></span></li></ul></div><div style="padding-top:5px; padding-bottom:5px; width:187px; float:left; overflow: hidden;"><ul><p align="center"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/08/tl-logo110801185222.jpg" alt="BGR" width="109" height="39"></p><li><span><a style="color:#373737;" href="http://www.tvline.com/2011/12/sunday-tv-worth-watching-4/" title="The TVLine-Up: TV Worth Watching This Sunday" target="_blank">The TVLine-Up: TV Worth Watching This Sunday</a></span></li><li><span><a style="color:#373737;" href="http://www.tvline.com/2011/12/law-enforcement-crushes-tournament-x-files-scully-ncis-abby/" title="'Law-Enforcement Crushes' Quarterfinals Begin: X-Files' Scully Vs. NCIS' Abby!" target="_blank">'Law-Enforcement Crushes' Quarterfinals Begin: X-Files' Scully Vs. NCIS' Abby!</a></span></li><li><span><a style="color:#373737;" href="http://www.tvline.com/2011/12/once-upon-a-time-amy-acker/" title="Once Upon a Time Casts Amy Acker as Love Interest for [Spoiler] – Get Exclusive Details" target="_blank">Once Upon a Time Casts Amy Acker as Love Interest for [Spoiler] – Get Exclusive Details</a></span></li></ul></div><div style="padding-top:5px; padding-bottom:5px; width:187px; float:left; overflow: hidden;"><ul><p align="center"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/01/bgr-logo110128183050.jpg" alt="BGR" width="109" height="39"></p><li><span><a style="color:#373737;" href="http://feedproxy.google.com/~r/TheBoyGeniusReport/~3/_yyRog36nhA/" title="Apple’s A5 chip reportedly now manufactured by Samsung in Texas" target="_blank">Apple’s A5 chip reportedly now manufactured by Samsung in Texas</a></span></li><li><span><a style="color:#373737;" href="http://feedproxy.google.com/~r/TheBoyGeniusReport/~3/Psc1UTuJWik/" title="iPhone 4S now available in 20 additional countries" target="_blank">iPhone 4S now available in 20 additional countries</a></span></li><li><span><a style="color:#373737;" href="http://feedproxy.google.com/~r/TheBoyGeniusReport/~3/6f7lt8V-22U/" title="Samsung Galaxy Note may be headed to AT&amp;T early next year" target="_blank">Samsung Galaxy Note may be headed to AT&amp;T early next year</a></span></li></ul></div><div style="padding-top:5px; padding-bottom:5px; width:187px; float:left; overflow: hidden;"><ul><p align="center"><img src="http://www-hollywoodlife-com.vimg.net/wp-content/uploads/2011/01/hb-logo110128183053.jpg" alt="hollybaby" width="109" height="39"></p><li><span><a style="color:#373737;" href="http://www.hollybaby.com/2011/12/17/disney-sweepstakes/" title="Win Hot Holiday Toys In Disney’s Winter Winfall Sweepstakes" target="_blank">Win Hot Holiday Toys In Disney’s Winter Winfall Sweepstakes</a></span></li><li><span><a style="color:#373737;" href="http://www.hollybaby.com/2011/12/17/babies-lying-study/" title="Babies Know When You’re Lying — New Report" target="_blank">Babies Know When You’re Lying — New Report</a></span></li><li><span><a style="color:#373737;" href="http://www.hollybaby.com/2011/12/17/kate-gosselin-jon-gosselin-girlfriend/" title="Kate Gosselin Is Jealous Of Ex-Husband Jon Gosselin’s Girlfriend Ellen Ross" target="_blank">Kate Gosselin Is Jealous Of Ex-Husband Jon Gosselin’s Girlfriend Ellen Ross</a></span></li></ul></div>					</ul>
 				</div>
 				<!-- other news end -->
 			
 		<div id="hl-boilerplate">
-				<p class="hl-copyright">Copyright © 2009 Mail.com Media Corporation. All rights reserved.</p>
-				<span><a href="/hl-feedback/">Feedback</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="mailto:info@hollywoodlife.com">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/advertise-with-us/">Advertise with Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://corp.mail.com/" target="_blank">Corporate</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy-policy/">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/terms-of-service/">Terms of Service</a></span>
+				<p class="hl-copyright">Copyright © 2011 PMC. All rights reserved.</p>
+				<ul>
+					<li><a href="/hl-feedback/">Feedback</a></li>
+					<li><a href="mailto:info@hollywoodlife.com">Contact Us</a></li>
+					<li><a href="/advertise-with-us/">Advertise with Us</a></li>
+					<li><a href="http://www.pmc.com/" target="_blank">Corporate</a></li>
+					<li><a href="/privacy-policy/">Privacy Policy</a></li>
+					<li><a href="/terms-of-service/">Terms of Service</a></li>
+				</ul>
 			</div><!--close hl-boilerplate-->
 
 		</div><!--close hl-page-->
 	</div><!--close hl-outer-->
 
-	<script type="text/javascript">
-// @custom Display username on Profile page
-// @since 2001-04-07 Satyanarayan verma
-function wp_attempt_focus() {
-setTimeout( function() {
-try {
-d = document.getElementById('user_login');
-if(d.disabled != true){
-	d.value = '';
-}
-d.focus();
-} catch(e){}
-}, 200 );
-}
-wp_attempt_focus();
-if(typeof wpOnload=='function')wpOnload()
-</script>
-<script type="text/javascript" src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/js/jquery.cookie.js?ver=1.0"></script>
+	<script type="text/javascript" src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/js/jquery.cookie.js?ver=1.0"></script>
 <script type="text/javascript" src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/js/jquery.marquee.min.js?ver=1.0"></script>
 <script type="text/javascript" src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/js/jquery.fancybox.js?ver=1.3.4"></script>
 <script type="text/javascript" src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/js/jquery.form.js?ver=2.37"></script>
-<script type="text/javascript" src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/js/main.js?ver=5"></script>
+<script type="text/javascript" src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/js/main.js?ver=6"></script>
 <script type="text/javascript" src="http://www.hollywoodlife.com/wp-content/themes/hollywoodlife/js/s_code_mmc.js?ver=3"></script>
 <!-- ChartBeat Start -->
 <script type="text/javascript">
@@ -679,14 +859,14 @@ var _sf_async_config={uid:12313, domain:"hollywoodlife.com"};
 </script>
 <!-- ChartBeat End -->
 		<script type="text/javascript">
-		function rotateAd(class_new) 
-		{
-			var rotateClass = class_new ? class_new : 'mmc-reloadable';
+		function rotateAd( cls ) {
+
+			var rotateClass = cls ? cls : 'mmc-reloadable';
 			rotateClass = '.' + rotateClass;
-			
-			jQuery(rotateClass).each(function(){
+
+			jQuery( rotateClass ).each(function(){
 				sourceUrl 	= jQuery(this).attr("src");
-				var ordnum	= Math.random()*10000000000000000;
+				var ordnum	= Math.random()*1000000000000000000;
 				sourceUrl	= sourceUrl.replace(/ord=[\.0-9]+/i, "ord=" + ordnum );
 				jQuery(this).attr({
 					src: sourceUrl
@@ -694,17 +874,49 @@ var _sf_async_config={uid:12313, domain:"hollywoodlife.com"};
 			});
 		}
 		</script>
-
+		<!-- begin ad loader -->
+		<script language="JavaScript" type="text/javascript">
+			if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOAD_MODE == 'undefined') || ( false === MMC_FAST_MODE && false === MMC_NOAD_MODE) ) {
+				if (typeof ord=='undefined') {
+					ord=Math.random()*100000000000000000;
+					//Forcing first Ad to load next after load
+					adIframeDiv=jQuery('.mmcAd_Iframe_div').eq(0);
+					adIframeDiv.attr('data-adrender', 0);
+				}
+				function mmc_load_ad() {
+					adIframeDiv=jQuery('.mmcAd_Iframe_div').eq(0);
+					if (adIframeDiv.length > 0){
+						adIframe=jQuery('<iframe class="mmcAd_Iframe '+ adIframeDiv.attr('data-adclass') +'" src="'+adIframeDiv.attr('data-adurl')+';ord='+ord+'" width="'+adIframeDiv.attr('data-adWidth')+'px" height="'+adIframeDiv.attr('data-adHeight')+'px"	marginwidth="0" marginheight="0"  frameborder="0" scrolling="no"></ifr'+'ame>');
+						adIframeDiv.replaceWith(adIframe);
+						if (adIframeDiv.attr('data-adrender')>0)
+							setTimeout('mmc_load_ad()',adIframeDiv.attr('data-adrender'));
+						else
+							if (adIframeDiv.attr('data-adrender')==0)
+								adIframe.load(function(){
+								mmc_load_ad();
+							});
+						else
+							mmc_load_ad();
+					}
+				}
+				jQuery(document).ready(function(){mmc_load_ad();});
+			}
+		</script>
+		<!-- end ad loader -->
+	
 <!-- start general-header footer 0.5-7 -->
 <!-- Quantcast Tag, part 2 -->
 <script type="text/javascript">
+if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined') || ( false === MMC_FAST_MODE && false === MMC_NOTAG_MODE) ) {
 _qevents.push( { qacct:"p-6fKiDaopTGEQg"} );
-</script>
+}</script>
 <noscript>
-<div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-6fKiDaopTGEQg.gif" height="1" width="1" alt="Quantcast"/></div>
+<div style="display: none;">
+<img src="http://pixel.quantserve.com/pixel/p-6fKiDaopTGEQg.gif" height="1" width="1" alt="Quantcast"/></div>
 </noscript>
 <!-- Quantcast tag End, part 2 --><!--Heatmapping JS tag - using CrazyEgg Start -->
-<script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js"></script>
+<script type="text/javascript">if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined') || ( false === MMC_FAST_MODE && false === MMC_NOTAG_MODE) ) {
+document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js"%3E%3C%2Fscript%3E'))}</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4414.js"></script>
 <!--Heatmapping JS tag - using CrazyEgg End --><!-- Acudeo companion banner loader script Start -->
 <script type="text/javascript" src="http://objects.tremormedia.com/embed/js/banners.js"></script>
 <script type="text/javascript">
@@ -718,6 +930,7 @@ function hideCompanionBanners(banners) {
 <!-- Acudeo companion banner loader script End --><!-- START Nielsen Online SiteCensus V6.0 -->
 <!-- COPYRIGHT 2010 Nielsen Online -->
 <script type="text/javascript">
+if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined') || ( false === MMC_FAST_MODE && false === MMC_NOTAG_MODE) ) {
 (function () {
 var d = new Image(1, 1);
 d.onerror = d.onload = function () {
@@ -726,7 +939,7 @@ d.onerror = d.onload = function () {
 
 d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203220h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
 
-})();
+})();}
 </script>
 
 <noscript>
@@ -736,7 +949,7 @@ d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203220h&cg=0&cc=1&si=", e
 </noscript>
 <!-- END Nielsen Online SiteCensus V6.0 --><!--  Buzz Feed BuzzBox code begins -->
 <script type="text/javascript">
-	BF_BB_DATA = null;
+if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined') || ( false === MMC_FAST_MODE && false === MMC_NOTAG_MODE) ) {	BF_BB_DATA = null;
 	(function( ){
 	document.write('<div id="BF_BUZZBOX" style="height: 0px; width:0px;"></div>');
 	var sid="75UGJ7";    var c=""; var b="";
@@ -747,9 +960,22 @@ d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203220h&cg=0&cc=1&si=", e
 			document.getElementById('BF_BUZZBOX').appendChild(BF_BB_SCRIPT);
 			BF_BB_SCRIPT.src=BF_BB_SRC;
 		},1);
-	})();
-</script><div id="BF_BUZZBOX" style="height: 0px; width:0px;"><script type="text/javascript" src="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=75UGJ7&amp;it=1&amp;cb=1580447225914"></script></div>
+	})();}
+</script><div id="BF_BUZZBOX" style="height: 0px; width:0px;"><script type="text/javascript" src="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=75UGJ7&amp;it=1&amp;cb=1580447228028"></script></div>
 <!-- / Buzz Feed BuzzBox code ends -->
+<!-- Link Smart Code Starts -->
+<script type="text/javascript">
+// <![CDATA[
+if( (typeof MMC_FAST_MODE == 'undefined' || typeof MMC_NOTAG_MODE == 'undefined') || ( false === MMC_FAST_MODE && false === MMC_NOTAG_MODE) ) {var _mb_site_guid = "8a96b3e433776e889353c23be4271088b01ccacfc22914716401e2aca359f031";
+(function(d, t){
+var mb = d.createElement(t), s = d.getElementsByTagName(t)[0];
+mb.async = mb.src = '//cdn.linksmart.com/linksmart_2.0.0.min.js';
+s.parentNode.insertBefore(mb, s);
+}(document, 'script'));
+// ]]>
+}
+</script>
+<!-- / Link Smart Code Ends -->
 <!-- end general-header footer -->
 
 <!-- start general-header footer desktop 0.5-7 -->
@@ -835,6 +1061,17 @@ function global_urlhashchanged() {
 </script>
 
 <script>
+/* Implementing << click to keep reading!
+ * on Pics Page Ticket #1819
+ *
+ * @Since 2011-07-15 Vicky Biswas
+ */
+
+var picsbackregex = new RegExp("ref=(.*)pos=");
+var picsbackurl   = picsbackregex.exec(location.hash);
+if (picsbackurl != null && /.+:\/\//.exec(picsbackurl) == null)
+	jQuery('#picsback').attr('href',picsbackurl[1]).css('display','block');
+
 var beaconflag=0;
 
 /* Check loggedinuser cookies for admin login status */
@@ -907,7 +1144,7 @@ function change_comment_form_to_login(){
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 966/989 objects using memcached
+Object Caching 936/950 objects using memcached
 Content Delivery Network via Amazon Web Services: CloudFront: Amazon Web Services: S3: www-hollywoodlife-com.vimg.net
 
-Served from: www.hollywoodlife.com @ 2011-06-22 20:37:38 --></div><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+Served from: www.hollywoodlife.com @ 2011-12-18 07:51:21 --><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
