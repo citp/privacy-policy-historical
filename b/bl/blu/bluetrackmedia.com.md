@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bluetrackmedia.com privacy policy that was archived on 2011-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110302184914id_/http%3A//bluetrackmedia.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetrackmedia.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218092931id_/http%3A//www.bluetrackmedia.com/%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Blue Track Media, LLC : CPA Affiliate Network
-
-  
-
+# Blue Track Media : Your Incentive Friendly Affiliate Network with Innovative Proprietary Technology
 
 **Blue Track Media, LLC, Privacy Policy**
 
@@ -24,7 +21,7 @@ Blue Track Media collects information from individuals by various methods, inclu
 
 **Other information collected.**  
 Other occasions when Blue Track Media obtains information from individuals include: (a) when an individual is making a claim for a prize or seeking to redeem an incentive offered by Blue Track Media or by a Third Party,  
-(b) when an individual requests assistance through Blue Track Media's customer service department,   
+(b) when an individual requests assistance through Blue Track Media's customer service department,   
 (c) when an individual voluntarily subscribes to a Blue Track Media service or newsletter (together, Other Information).
 
 **Cookies.**  
@@ -58,9 +55,9 @@ Blue Track Media uses Individual Information to provide promotional offers by em
 Blue Track Media stores the Individual Information in a database on Blue Track Media computers and our hosting servers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Blue Track Media's control. Although we have these security measures, Blue Track Media cannot guarantee that its security measures will prevent Blue Track Media computers from being illegally accessed, and the Individual Information on them stolen or altered. By signing up you have agreed to understand that Blue Track Media will not be liable for any information that has been hacked from our computers or servers.
 
 **Sell to Third Parties.**  
-Blue Track Media holds the right to sell or transfer any type of information (individual, summary, etc) to third parties for any reason necessary. ****  
+Blue Track Media holds the right to sell or transfer any type of information (individual, summary, etc) to third parties for any reason necessary.  
 **Deleting and Updating Your Information.**  
-If you would like to delete or update the personally identifiable information that we have collected from you (name, address, etc.), simply send your request to Blue Track Media, LLC at support@bluetrackmedia.com.   
+If you would like to delete or update the personally identifiable information that we have collected from you (name, address, etc.), simply send your request to Blue Track Media, LLC at support@bluetrackmedia.com.   
 We will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  
 **Legal Process.**  
 Blue Track Media may disclose Individual Information to respond to subpoenas, court orders, and other legal processes.
@@ -78,4 +75,4 @@ The Website and email messages sometimes contain hypertext links to the web site
 Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by Blue Track Media in the United States. By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States.
 
 **Contact.**  
-If you have any questions or comments on this privacy policy, please feel free to contact us at [support@bluetrackmedia.com](mailto:support@bluetrackmedia.com).Â  You may also write to us at: **[insert mailing address]**. 
+If you have any questions or comments on this privacy policy, please feel free to contact us at [support@bluetrackmedia.com](mailto:support@bluetrackmedia.com). You may also write to us at:  **[insert mailing address]**.
