@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the directoryoftheweb.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620012859id_/http%3A//www.directoryoftheweb.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryoftheweb.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218202854id_/http%3A//www.directoryoftheweb.com/policy.html) for the most accurate reproduction.*
 
 # Privacy
 
 Featured 
 
-[Send Flowers to China](http://www.directoryoftheweb.com/shopping/flowers/florists/Send-Flowers-to-China-l1.html)
-
-[Florist Directory](http://www.directoryoftheweb.com/reference/directories/Florist-Directory-l68.html)
+[Industrial Sweeper](http://www.directoryoftheweb.com/business/construction-and-maintenance/tools-and-equipment/Industrial-Sweeper-l4804.html)
 
 [Adeptel](http://www.directoryoftheweb.com/business/telecommunications/Call-Centers/Adeptel-l4586.html)
+
+[Send Flowers to China](http://www.directoryoftheweb.com/shopping/flowers/florists/Send-Flowers-to-China-l1.html)
 
 Top categories 
 
@@ -34,69 +34,21 @@ Top categories
 
 PageRanks 
 
-|  [
+No listings with Pagerank yet.
 
-10/10
-
-](http://www.directoryoftheweb.com/pagerank10-listings.html) | **1**  
----|---  
-[
-
-9/10
-
-](http://www.directoryoftheweb.com/pagerank9-listings.html) | **35**  
-[
-
-8/10
-
-](http://www.directoryoftheweb.com/pagerank8-listings.html) | **171**  
-[
-
-7/10
-
-](http://www.directoryoftheweb.com/pagerank7-listings.html) | **401**  
-[
-
-6/10
-
-](http://www.directoryoftheweb.com/pagerank6-listings.html) | **710**  
-[
-
-5/10
-
-](http://www.directoryoftheweb.com/pagerank5-listings.html) | **770**  
-[
-
-4/10
-
-](http://www.directoryoftheweb.com/pagerank4-listings.html) | **1230**  
-[
-
-3/10
-
-](http://www.directoryoftheweb.com/pagerank3-listings.html) | **640**  
-[
-
-2/10
-
-](http://www.directoryoftheweb.com/pagerank2-listings.html) | **72**  
-[
-
-1/10
-
-](http://www.directoryoftheweb.com/pagerank1-listings.html) | **20**  
-  
 New listings 
 
-[Pirates Fireworks](http://www.directoryoftheweb.com/business/arts-and-entertainment/tools-and-equipment/Effects/Pyrotechnics/Manufacturers/Pirates-Fireworks-l4598.html)
+[Part Time Finance Director](http://www.directoryoftheweb.com/business/accounting/business-to-business/Part-Time-Finance-Director-l5435.html)
 
-[Harvey World Travel](http://www.directoryoftheweb.com/Recreation/Travel/Travel-Agents/Harvey-World-Travel-l4594.html)
+[Flash Drive Data Recovery](http://www.directoryoftheweb.com/computers/data-formats/Flash-Drive-Data-Recovery-l5103.html)
 
-[Streaming List](http://www.directoryoftheweb.com/computers/internet/broadcasting/Streaming-List-l4593.html)
+[Cheap Contact Lenses](http://www.directoryoftheweb.com/health/senses/Cheap-Contact-Lenses-l5052.html)
 
-[Adeptel](http://www.directoryoftheweb.com/business/telecommunications/Call-Centers/Adeptel-l4586.html)
+[Industrial Sweeper](http://www.directoryoftheweb.com/business/construction-and-maintenance/tools-and-equipment/Industrial-Sweeper-l4804.html)
 
-[Home Decor Resource](http://www.directoryoftheweb.com/home/home-improvement/Decorating/Home-Decor-Resource-l4584.html)
+[Organic Hydroponic Store](http://www.directoryoftheweb.com/shopping/home-and-garden/hydroponics/Organic-Hydroponic-Store-l4786.html)
+
+| 
 
 [Directory of the Web](http://www.directoryoftheweb.com/) /  **Privacy**
 
@@ -118,33 +70,35 @@ This privacy statement is subject to change at any time.
 
 Tags 
 
-[Association](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Association) [Center](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Center) [Health](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Health) [for](http://www.directoryoftheweb.com/mod/tagcloud/?tag=for) [Science](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Science) [Press](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Press) [Art](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Art) [Society](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Society) [News](http://www.directoryoftheweb.com/mod/tagcloud/?tag=News) [Resources](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Resources) [Museum](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Museum) [Library](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Library) [International](http://www.directoryoftheweb.com/mod/tagcloud/?tag=International) [Books](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Books) [Institute](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Institute) [Games](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Games) [National](http://www.directoryoftheweb.com/mod/tagcloud/?tag=National) [Arts](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Arts) [new](http://www.directoryoftheweb.com/mod/tagcloud/?tag=new) [Archive](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Archive) [University](http://www.directoryoftheweb.com/mod/tagcloud/?tag=University) [the](http://www.directoryoftheweb.com/mod/tagcloud/?tag=the) [Sports](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Sports) [and](http://www.directoryoftheweb.com/mod/tagcloud/?tag=and) [Information](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Information) [World](http://www.directoryoftheweb.com/mod/tagcloud/?tag=World) [Online](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Online) [American](http://www.directoryoftheweb.com/mod/tagcloud/?tag=American) [business](http://www.directoryoftheweb.com/mod/tagcloud/?tag=business) [Inc.](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Inc.)
+[new](http://www.directoryoftheweb.com/mod/tagcloud/?tag=new) [International](http://www.directoryoftheweb.com/mod/tagcloud/?tag=International) [University](http://www.directoryoftheweb.com/mod/tagcloud/?tag=University) [Association](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Association) [for](http://www.directoryoftheweb.com/mod/tagcloud/?tag=for) [Books](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Books) [Information](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Information) [Library](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Library) [Society](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Society) [American](http://www.directoryoftheweb.com/mod/tagcloud/?tag=American) [Inc.](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Inc.) [Online](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Online) [World](http://www.directoryoftheweb.com/mod/tagcloud/?tag=World) [Museum](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Museum) [Art](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Art) [Center](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Center) [Institute](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Institute) [Archive](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Archive) [Science](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Science) [National](http://www.directoryoftheweb.com/mod/tagcloud/?tag=National) [Press](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Press) [Games](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Games) [the](http://www.directoryoftheweb.com/mod/tagcloud/?tag=the) [business](http://www.directoryoftheweb.com/mod/tagcloud/?tag=business) [Resources](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Resources) [Sports](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Sports) [Arts](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Arts) [Health](http://www.directoryoftheweb.com/mod/tagcloud/?tag=Health) [News](http://www.directoryoftheweb.com/mod/tagcloud/?tag=News) [and](http://www.directoryoftheweb.com/mod/tagcloud/?tag=and)
 
 [All Tags](http://www.directoryoftheweb.com/mod/tagcloud/)
 
 Most searched 
 
-**[manufacturer](http://www.directoryoftheweb.com/search.php?what=manufacturer&type=1)**  
-**Results:** 53 **Count:** 371 
-
-* * *
-
 **[alphaSearch](http://www.directoryoftheweb.com/search.php?what=alphaSearch&type=1)**  
-**Results:** 20 **Count:** 367 
-
-* * *
-
-**[flower](http://www.directoryoftheweb.com/search.php?what=flower&type=1)**  
-**Results:** 34 **Count:** 281 
+**Results:** 142 **Count:** 5626 
 
 * * *
 
 **[free book](http://www.directoryoftheweb.com/search.php?what=free%20book&type=1)**  
-**Results:** 647 **Count:** 279 
+**Results:** 649 **Count:** 971 
+
+* * *
+
+**[manufacturer](http://www.directoryoftheweb.com/search.php?what=manufacturer&type=1)**  
+**Results:** 53 **Count:** 703 
+
+* * *
+
+**[flower](http://www.directoryoftheweb.com/search.php?what=flower&type=1)**  
+**Results:** 33 **Count:** 576 
 
 * * *
 
 **[shopping](http://www.directoryoftheweb.com/search.php?what=shopping&type=1)**  
-**Results:** 27 **Count:** 228 
+**Results:** 27 **Count:** 496 
 
-* * *
+* * *  
+  
+---|---|---
