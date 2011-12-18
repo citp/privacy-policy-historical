@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimbol.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618203453id_/http%3A//www.kimbol.com/articles/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimbol.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218085002id_/http%3A//www.kimbol.com/articles/privacy.php) for the most accurate reproduction.*
 
 # Kimbol.com, Niche Articles Directory | Information Organizer | Free Articles | Search Engine
 
