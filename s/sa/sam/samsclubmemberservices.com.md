@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsclubmemberservices.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619040558id_/http%3A//www.samsclub.com/sams/pagedetails/content.jsp%3FpageName%3DprivacyPolicy%26iid%3DTHIRDPARTY_NAME%7CTHIRD_PARTY_PAGE%7C3PFooter%7CPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsclubmemberservices.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218092122id_/http%3A//www.samsclub.com/sams/pagedetails/content.jsp%3FpageName%3DprivacyPolicy%26iid%3DTHIRDPARTY_NAME%7CTHIRD_PARTY_PAGE%7C3PFooter%7CPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
