@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getinstyler.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201060508id_/http%3A//getinstyler.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinstyler.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218121243id_/http%3A//www.getinstyler.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Instyler® Rotating Hot Iron Hair Straightener
+# InStyler® Privacy Policy
 
 ### Overview 
 
-The privacy practices of this statement apply to our services available under the domain and sub-domains of getinstyler.com. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our services. 
+The privacy practices of this statement apply to our services available under the domain and sub-domains of instyler.com. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our services. 
 
 As described below, as part of the normal operation of our services, your information is collected by us, may be disclosed to third parties and might be used by third parties and us. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about Instyler®'s practices so that you can make informed decisions. Subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout the Instyler® web site. 
 
