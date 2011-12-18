@@ -1,40 +1,97 @@
-> *The following text is extracted and transformed from the realitytea.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508141429id_/http%3A//www.realitytea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitytea.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218141932id_/http%3A//www.realitytea.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Reality Tea
 
+www.RealityTea.com (the “Site”)
+
 **Privacy Policy**
 
-This Privacy Policy applies only to RealityTea.com (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), or other interactive features that are accessible or downloadable through RealityTea.com and that post a link to this Privacy Policy (collectively, the “Web Site”). This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Site, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use, and disclosure of such information.
+This privacy policy was last modified on August 22, 2011.
 
-Please read this Privacy Policy carefully.
+AtomicOnline, LLC (“Company,” “we,” or “us”) knows that you care how information about you is used and shared.  This Privacy Policy explains what information of yours will be collected by Company when you use the Site and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information.   We will not use or share your information with anyone except as described in this Privacy Policy.
 
-TYPES OF INFORMATION THAT MAY BE COLLECTED  
-The following are the types of information we may collect:  
-Information You Provide Us  
-We may ask you to provide us with two types of information: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, e-mail address cell phone number and physical address; and (2) demographic information, such as gender, zip code, or similar information. We may collect this information at various places and forms on the Web Sites, including registration forms for magazine; when you enter or participate in contests, sweepstakes, surveys or voting; or when you purchase a product or service through the Web Site. You may also be asked to choose a user name and password in order to identify yourself during future visits to the Web Site. Do not use your real name or the name of any other actual person as your user name. Providing us with information about yourself is your choice, and you can always choose not to provide certain information, but then you may not be able to take advantage of some of the Web Site’s features.
+Information We Collect
 
-HOW INFORMATION MAY BE COLLECTED  
-Cookies  
-The Web Site uses standard technology called “cookies,” which are small data files that are transferred to your computer (or other Internet-accessing device) when you visit the Web Site and allow your browser to accept cookies. Cookies automatically identify your web browser to the Web Site whenever you visit the Web Site, and may make navigating and using the Web Site easier for you. Also, by tracking how and when you use the Web Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Web Site are based on data obtained from cookies. Additionally, accepting cookies may allow you to, among other things, personalize your experience on the Web Site. Cookies may also allow the Web Site to present to you advertising that may be of interest to you as well as limit how often you see certain ads that may detract from your user experience on our Web Site. If you do not want to allow information to be collected through the use of cookies, you can generally opt out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Site may not provide you with an acceptable user experience if you have disabled the use of cookies.
+**User-Provided Information:** You provide us information about yourself, such as your name and e-mail address, when you register with the Service.  If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
-THIRD PARTY AD SERVING & AUDIENCE AND TRAFFIC MEASUREMENT SERVICES  
-The Web Site may use third party network advertisers to serve advertisements on the Web Site and may use a traffic measurement service to analyze traffic on the Web Site. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. Although advertisers and other companies do not have access to cookies set by the Web Site, the Web Site’s third party ad network providers, the advertisers, the sponsors, and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have cookies enabled in your browser or they may otherwise have access to information. These third party cookies, are set to, among other things, help deliver advertisements to you that you might be interested in, to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies and web beacons are governed by each third party’s specific privacy policy, not this one.
+**Cookies Information:** When you visit the Site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site.  A cookie does not collect personal information about you.  Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-WITH WHOM INFORMATION MAY BE SHARED  
-We do not share your personal information with third parties for those third parties’ marketing purposes unless you opt-in to such sharing at the time you provide your personal information. We may share non-personal information, such as aggregate user statistics, demographic information, and web site usage information with third parties. In addition, we may share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:  
-Third parties providing services on our behalf  
-We employ third parties to perform functions on our behalf; examples include hosting or operating Web Site, fulfilling orders for products and services purchased through the Web Site, sending e-mail and/or other communications, providing wireless services, removing repetitive information from customer lists, data analysis, marketing assistance, credit card payment processing, and customer service. These third parties may have access to your personal information for the purpose of performing such functions on the Web Site’s behalf.  
-Sweepstakes, Contests and Promotions  
-We may offer sweepstakes, contests, and other promotions through the Web Site that may require registration. If you choose to enter a sweepstakes, contest or other promotion, your personal information may be disclosed to third parties in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law, such as on a winners list. Also, by entering a promotion, you are agreeing to the official rules that govern that promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion.  
-Legal Protections and Law Enforcement  
-We may disclose information about our users, including your personal information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Web Site and applicable laws; or to protect the legal rights, interests, or safety of the Web Site, our users or others. We may also use Device Identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers, wireless service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
+**Log File Information:** Log file information is automatically reported by your browser each time you access a web page.  When you register with or view our Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-THIRD PARTY CONTENT AND LINKS TO OTHER WEB SITES  
-When you are on the Web Site you may be directed to other sites that are operated and controlled by third parties that are beyond our control. For example, if you “click” on a banner advertisement, the “click” may take you off the Web Site onto a different web site. This includes links from advertisers, sponsors and partners that may use the Web Site’s logo as part of a co-branding agreement. These other web sites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a web site that is linked from our Web Site, you should consult that web site’s privacy policy before providing any personal information.  
-CONSENT TO TRANSFER  
-The Web Site is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Site or providing us with your information, you consent to this transfer.
+**Clear Gifs Information:** When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously.  No personally identifiable information from your Company account is collected using these clear gifs.  In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients.  The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
 
-SECURITY  
-Company incorporates reasonable safeguards to help protect and secure your personal information. However, no data transmission over the Internet, or wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that Company cannot ensure or warrant the security of any information you transmit to Company via its Web Site, and you do so at your own risk.  
-NOTIFICATION OF CHANGES AND YOUR ACCEPTANCE OF THE PRIVACY POLICY  
-By using the Web Site, you acknowledge your agreement to the terms of this Privacy Policy. From time to time, Company may update this Privacy Policy. However, Company will use your personal information in a manner consistent with the Privacy Policy in effect at the time you submitted the information, unless you consent to the new or revised policy.
+How We Use Your Information
+
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
+
+Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public.  If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
+
+By providing Company your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers.  If you do not want to receive such email messages, you may opt out by sending an email message to [legal[at]atomiconline.com](mailto:legal@atomiconline.com) with the word “No email” in the subject field.  Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.
+
+Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+
+Company reserves the right, but has no obligation, to monitor the User Content you post on the site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party.  Company also reserves the right to remove information upon the request of any third party.
+
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+
+How We Share Your Information
+
+**Personally Identifiable Information:** Company will not rent or sell your personally identifiable information to others.  Company may share your personally identifiable information with third parties solely for the purpose of providing services to you.  If we do this, such third parties’ use of your information will be bound by this Privacy Policy.  We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
+
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
+
+Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users or others.
+
+**Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services.
+
+Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Company site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+
+Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers.
+
+How We Protect Your Information
+
+Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.
+
+Compromise of Personal Information
+
+In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+Your Choices About Your Information
+
+You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you.
+
+**Children’s Privacy**
+
+Protecting the privacy of young children is especially important.  For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at legal[at]atomiconline.com.
+
+Links to Other Web Sites
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.  Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
+
+Third Party Advertisements and Technologies
+
+We use third-party advertising companies to serve advertisements when you visit our Site as is explained in detail in our Site’s Terms of Use.  The third-party advertising technology that we use on this Site uses information derived from your visits to this site to target advertising within this Site.  In addition, our advertisers may use other third-party advertising technology to target advertising on this Site and other websites.  In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser.  In addition, we use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser’s cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.  You may “opt-out” of certain third party programs by following the instructions located at  <http://www.doubleclick.com/privacy/index.aspx>.
+
+Notification Procedures
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Site page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+Changes to Our Privacy Policy
+
+If we change our privacy policies and procedures, we will post those changes on our Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Site, please contact us at [legal[at]atomiconline.com](mailto:legal@atomiconline.com) , or send mail to:
+
+Momtastic.com [or] BabyandBump.com
+
+c/o AtomicOnline, LLC
+
+5140 W. Goldleaf Circle, 3rd Floor
+
+Los Angeles, CA  90056
+
+Attn:  General Counsel
