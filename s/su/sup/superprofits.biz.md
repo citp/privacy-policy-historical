@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superprofits.biz privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619202609id_/http%3A//www.superprofits.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superprofits.biz privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218230503id_/http%3A//www.superprofits.biz/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
