@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pikaba.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620190205id_/http%3A//www.pikaba.com/Info.aspx%3Fmode%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikaba.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218204118id_/http%3A//www.pikaba.com/info.aspx%3Fmode%3Dpolicy) for the most accurate reproduction.*
 
-# Pikaba Privacy Policy - Social Shopping, Marketplace, Online Merchant Network, Privacy Policy
+# Privacy Policy | Pikaba
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
