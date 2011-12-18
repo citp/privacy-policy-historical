@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faith.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506031133id_/http%3A//www.faith.com/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faith.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218211925id_/http%3A//www.faith.com/common/privacy/index.html) for the most accurate reproduction.*
 
 # Faith.com: Privacy
 
@@ -36,27 +36,27 @@ We also provide the opportunity to register houses of worship and web sites on o
 
 ### Order
 
-We request information from the user on our order forms. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user. 
+We request information from the user on our order forms. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer�s orders. If we have trouble processing an order, the information is used to contact the user. 
 
 ### Cookies
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information, such as name or address, while on our site. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If you want to learn more about cookies, click [ http://www.truste.org/consumers/users_faqs.html#cookies](http://www.truste.org/consumers/users_faqs.html#cookies). 
+A cookie is a piece of data stored on the user�s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information, such as name or address, while on our site. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user�s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If you want to learn more about cookies, click [ http://www.truste.org/consumers/users_faqs.html#cookies](http://www.truste.org/consumers/users_faqs.html#cookies). 
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
 
 ### Third Party Advertising 
 
-The ads that may appear on this Web site from time to time are delivered to users by a number of third party companies, our Web advertising partners. Information about users’ visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. 
+The ads that may appear on this Web site from time to time are delivered to users by a number of third party companies, our Web advertising partners. Information about users� visits to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site. 
 
 This privacy statement covers the use of cookies by FOL Inc. sites only and does not cover the use of cookies by any advertisers.
 
 ### Log Files 
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user�s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
 
 ### Clear Gifs (Web Beacons/Web Bugs)
 
-We employ a software technology called clear gifs, that helps us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs on the site are not tied to users’ personally identifiable information. 
+We employ a software technology called clear gifs, that helps us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs on the site are not tied to users� personally identifiable information. 
 
 In addition, we may in the future, use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
@@ -98,13 +98,13 @@ We partner with other third parties to provide specific services. When the user 
 
 ### Business Transitions
 
-In the event FOL Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
+In the event FOL Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users� personal information will, in most instances, be part of the assets transferred. If as a result of the business transition, the users� personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
 
 ### Choice/Opt-out
 
-Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site. 
+Our users are given the opportunity to �opt-out� of having their information used for purposes not directly related to our site. 
 
-Users who no longer wish to receive our newsletter or promotional communications may opt-out of receiving these communications by emailing Admin@faith.com and putting “opt-out” in the subject line of the email.
+Users who no longer wish to receive our newsletter or promotional communications may opt-out of receiving these communications by emailing Admin@faith.com and putting �opt-out� in the subject line of the email.
 
 ### Links
 
@@ -112,11 +112,11 @@ This Web site contains links to other sites. Please be aware that we, FOL Inc., 
 
 ### Surveys &Contests
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information may be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes. 
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information may be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Though we may use an intermediary to conduct these surveys or contests, they may not use users� personally identifiable information for any secondary purposes. 
 
 ### Send A Card
 
-If a user elects to use our referral service for informing a friend about our site, we might ask them for the friend’s name and email address. FOL Inc. might send the friend a one-time email inviting them to visit the site. FOL Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact FOL Inc. to request the removal of this information from our database, as described above. 
+If a user elects to use our referral service for informing a friend about our site, we might ask them for the friend�s name and email address. FOL Inc. might send the friend a one-time email inviting them to visit the site. FOL Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact FOL Inc. to request the removal of this information from our database, as described above. 
 
 ### Chat Rooms, Message Boards, and Public Forums
 
@@ -124,11 +124,11 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 ## Security
 
-This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
+This Web site takes every precaution to protect our users� information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
 
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is stored in a secure, protected fashion. 
 
-We also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk, if they are working on anything that contains confidential information. When they return, they must re-enter their password to re-gain access to user information in these instances. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in an extremely secure environment, behind a locked cage in a locked facility. 
+We also do everything in our power to protect user-information off-line. All of our users� information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk, if they are working on anything that contains confidential information. When they return, they must re-enter their password to re-gain access to user information in these instances. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users� information is protected. Finally, the servers that store personally identifiable information are in an extremely secure environment, behind a locked cage in a locked facility. 
 
 ## Supplementation of Information 
 
@@ -136,11 +136,11 @@ In order for this Web site to properly fulfill its obligation to users it is nec
 
 ### Credit Check
 
-For example, in the future we may host credit card processing ourselves, and to determine if users qualify for use of one of their credit cards, we will use their name and credit card number to request a credit authorization. Once we determine a user’s credit-worthiness, this document is destroyed. 
+For example, in the future we may host credit card processing ourselves, and to determine if users qualify for use of one of their credit cards, we will use their name and credit card number to request a credit authorization. Once we determine a user�s credit-worthiness, this document is destroyed. 
 
 ### ID Address Verification
 
-We use Authorize.net software and other third party services to verify a user’s address to make sure we can process orders accurately. 
+We use Authorize.net software and other third party services to verify a user�s address to make sure we can process orders accurately. 
 
 ### Screening Houses of Worship
 
@@ -148,11 +148,11 @@ Before including houses of worship in our directory, we verify the accuracy of s
 
 ### Enhancement of Marketing Profile 
 
-We may in the future purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in. We use this information to enhance our ability to provide users with relevant information. This aggregate data may be tied to the users’ personally identifiable information. 
+We may in the future purchase third party marketing data and add it to our existing user database to better target our advertising and provide pertinent offers we think our users would be interested in. We use this information to enhance our ability to provide users with relevant information. This aggregate data may be tied to the users� personally identifiable information. 
 
 ### Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the “contact us” page or by emailing our Customer Support at admin@faith.com with “address update” in the subject field. 
+If a user�s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users� personally identifiable information. This can usually be done at the �contact us� page or by emailing our Customer Support at admin@faith.com with �address update� in the subject field. 
 
 ### Notification of Changes
 
