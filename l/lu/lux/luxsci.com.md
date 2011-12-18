@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522195923id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218131602id_/http%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LuxSci
 
@@ -92,11 +92,11 @@ We reserve the right to disclose your personal information as required by law an
 
 If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. Testimonials are also posted on our site and users have given permission to have their personal information submitted in these testimonials. 
 
-For Customers using Basic Dedicated Servers: 
+For Customers using Basic Dedicated Servers and Basic Shared Server Environments: 
 
-> The Lux Scientiae Acceptable Use Policies specifically prohibit the use of our service for illegal activities. Therefore, you agree that Lux Scientiae may disclose any and all of your information including assigned IP numbers, account history, account use, etc. to any law enforcement agent who makes a verified written request, without further consent or notification to you. LuxSci, or its Basic Dedicated Server Partner, will verify the legitimacy and authenticity of any such request and determine if compliance with the request is required by local, state, or federal law or if, in its sole discretion, the request should be filled even if it is not required by local, state, or federal law. In addition, Lux Scientiae shall have the right to suspend or terminate all services, at its sole discretion, during such a legal investigation.
+> The Lux Scientiae Acceptable Use Policies specifically prohibit the use of our service for illegal activities. Therefore, you agree that Lux Scientiae may disclose any and all of your information including assigned IP numbers, account history, account use, etc. to any law enforcement agent who makes a verified written request, without further consent or notification to you. LuxSci, or its Basic Server Provider Partners, will verify the legitimacy and authenticity of any such request and determine if compliance with the request is required by local, state, or federal law or if, in its sole discretion, the request should be filled even if it is not required by local, state, or federal law. In addition, Lux Scientiae shall have the right to suspend or terminate all services, at its sole discretion, during such a legal investigation.
 
-For all other Customers (i.e. shared hosting, dedicated Cloud, and Premium Dedicated): 
+For all other Customers (i.e. Premium Shared Server Environments, Private Cloud Server, and Premium Dedicated Servers): 
 
 > You agree that Lux Scientiae may disclose any and all of your information including assigned IP numbers, account history, account use, etc. to any law enforcement agent who makes a verified written request, without further consent or notification to you. LuxSci will verify the legitimacy and authenticity of any such request and determine if compliance with the request is required by local, state, or federal law. Only if the request is verified and compliance is required will the request be filled. In addition, Lux Scientiae shall have the right to suspend or terminate all services, at its sole discretion, during such a legal investigation.
 
@@ -112,7 +112,7 @@ Lux Scientiae staff will not examine the following classes of data without Custo
   2. WebAides: The content of all WebAides, including comments and attachments 
   3. Widgets: The content of all Widgets, except the content of custom or third party widgets that is defined directly as part of the widget definition. 
   4. Databases: The content of all databases hosted by Customer in its web hosting account. 
-  5. Files: The content of all files saved to the Customers web/FTP space, except as they may otherwise be publically accessible on the Internet via Customer's web site. Note that this covers only the content of the files, not the list of what files are present and what directories they are located in. 
+  5. Files: The content of all files saved to the Customers web/FTP space, except as they may otherwise be publicly accessible on the Internet via Customer's web site. Note that this covers only the content of the files, not the list of what files are present and what directories they are located in. 
 
 
 
@@ -130,13 +130,13 @@ Clients that are legally required to abide by the regulations of HIPAA (i.e. HIP
 
 Due to the Security and Privacy restrictions imposed by the BAA and by HIPAA that are not required for other types of accounts, this Addendum is not automatically incorporated into new or existing Lux Scientiae accounts. If you require a BAA with Lux Scientiae, please print out and sign the BAA and Account Restrictions Agreement using the links below and return them to Lux Scientiae for review and acceptance. LUX SCIENTIAE WILL NOT BE DEEMED A BUSINESS ASSOCIATE OF ANY CUSTOMER FOR PURPOSES OF HIPAA UNLESS AND UNTIL A SIGNED ADDENDUM IS RECEIVED, REVIEWED, AND ACCEPTED BY THE LUX SCIENTIAE HIPAA PRIVACY OFFICER.
 
-  * [Standard Lux Scientiae HIPAA Business Associate Agreement](https://web.archive.org/extranet/hipaa-baa-standard.html)
-  * [Standard Lux Scientiae HIPAA Account Restrictions Agreement](https://web.archive.org/extranet/hipaa-account-restrictions.html)
+  * [Standard Lux Scientiae HIPAA Agreements](https://web.archive.org/extranet/hipaa-baa-standard.html)
 
 
 
 You may return signed versions of these documents to Lux Scientiae by:
 
+  * Using the [Online Signature Form](https://web.archive.org/extranet/hipaa-baa-standard.html)
   * FAXing to 413-332-0598 
   * Mailing to Lux Scientiae at PO Box 326 Westwood, MA 02090 USA 
   * Scanning and attaching digital copies to a support ticket in your Lux Scientiae account. 
