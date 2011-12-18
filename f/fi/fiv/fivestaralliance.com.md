@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428204916id_/http%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218205440id_/http%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Five Star Alliance
 
-Last Updated 4/10/2011
+Last Updated 4/10/2011 [Physical Address Change 5/5/2011]
 
 [ ](http://www.truste.org/ivalidate.php?url=www.fivestaralliance.com&sealid=101)
 
@@ -70,7 +70,7 @@ The information you provide when you sign up for our newsletter, including email
 
 ### Updating your information
 
-We strive to give you full control over the information you provide to us. To unsubscribe from our newsletter and all promotional communications, we provide clear instructions on our web site (via the newsletter link found on every page). You may also unsubscribe via the link at the bottom of all emails delivered to you, or you may unsubscribe by sending us [by email](https://web.archive.org/luxury-hotel-experts/contact-us). 
+We strive to give you full control over the information you provide to us. To unsubscribe from our newsletter and all promotional communications, we provide clear instructions on our web site (via the newsletter link found on every page). You may also unsubscribe via the link at the bottom of all emails delivered to you, or you may unsubscribe by sending us [by email](https://web.archive.org/luxury-hotel-experts/contact-us).
 
 Due to the nature of the hotel industry's Global Distribution System (GDS), it is not currently feasible to automatically update the details of a reservation over our web site. Thus, should you need to make an update to your booking information, we ask that you [contact us](https://web.archive.org/luxury-hotel-experts/contact-us). We will be happy to assist you. You may reach us by phone at (703) 836-0692, and links to our [our contact information](https://web.archive.org/luxury-hotel-experts/contact-us), are provided on every page of our site.
 
@@ -85,7 +85,7 @@ In addition, as our business changes, we may buy or sell various assets. In the 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Five Star Alliance  
-One Wales Alley, Suite 300  
-Alexandria, VA 22314  
+1900 L Street NW, Suite 401  
+Washington, DC 20036 USA  
 (703) 836-0692  
 <http://www.fivestaralliance.com/>
