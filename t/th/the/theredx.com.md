@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120223455id_/http%3A//www.theredx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theredx.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218190342id_/http%3A//www.theredx.com/home/privacy_policy) for the most accurate reproduction.*
 
-# Real Estate Data X-Change (The REDX) | REDX Privacy Policy
+# Real Estate Data X-Change (The REDX) | Privacy Policy | The REDX
 
 At Real Estate Data X-Change, Inc, we recognize that privacy is important.
 
@@ -14,7 +14,7 @@ USA
 
 www.theREDX.com  
 support@theredx.com  
-800-731-7339
+800-731-7339 
 
 You may visit our website anonymously. However, when subscribing or using our services we collect information.
 
@@ -56,7 +56,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 ## Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/policy.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.theredx.com](http://www.theredx.com/)
+Please also visit our [Terms and Conditions](https://web.archive.org/home/terms_of_use) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.theredx.com](http://www.theredx.com/)
 
 ## Your Consent 
 
