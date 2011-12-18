@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430135431id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayer.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218175804id_/http%3A//www.bayer.com/en/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Bayer
 
@@ -65,6 +65,6 @@ Building K56
 51368 Leverkusen, Germany  
 Phone: +49 (0) 214 30 2 05 22  
 Fax: +49 (0) 214 30 2 03 46  
-E-mail: cor.privacy@bayer.com
+[E-Mail](https://secure.bayer.com/bayer/ContactDataprotectionOfficer.aspx?lang=en)
 
 The constant development of the internet requires occasional adjustments to our privacy statement. We retain the right to make changes when necessary. 
