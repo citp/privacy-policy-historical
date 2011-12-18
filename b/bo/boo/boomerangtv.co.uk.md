@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomerangtv.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229030705id_/http%3A//www.boomerangtv.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerangtv.co.uk privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218205007id_/http%3A//www.boomerangtv.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boomerang
 
@@ -58,7 +58,8 @@ If you have any questions or comments about this Privacy Policy please feel free
 
 It is important to us that children can enjoy our sites in a responsible fashion. We, therefore, encourage children to consult with their parents before providing personal information. We also encourage parents to supervise their children's online activities by, for example, adopting parental control tools available from online services and software manufacturers that help provide a child-friendly online environment. These tools can also prevent children from disclosing online their name, address, and other personal information without parental permission.
 
-Cartoon Network Online Turner Entertainment Networks International Limited  
+Cartoon Network Online  
+Turner Broadcasting System Europe Limited  
 16 Great Marlborough Street  
 London  
 W1F 7HS  
