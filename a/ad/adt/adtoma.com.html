@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adtoma.com privacy policy that was archived on 2011-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110313042745id_/http%3A//www.adtoma.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adtoma.com privacy policy that was archived on 2011-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111218220600id_/http%3A//www.adtoma.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 		<meta name="keywords" content="ad, ads, adserving, adtoma, AdToma, annons, annonser, annonssystem, richmedia, rich media, advantage, AdVantage, rmm, RMM">
@@ -21,6 +21,34 @@
 <link rel="next" title="Search Results" href="http://www.adtoma.com/search-results/">
 <meta name="generator" content="WordPress 3.0.5">
 <link rel="canonical" href="http://www.adtoma.com/privacy/">
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('#sendit_subscribe_button').click(function(){
+		jQuery.ajax({
+		beforeSend: function() { jQuery('#sendit_wait').show(); jQuery('#sendit_subscribe_button').hide();},
+        complete: function() { jQuery('#sendit_wait').hide(); jQuery('#sendit_subscribe_button').show(); },
+		type: "POST",
+      	data: ({email_add : jQuery('#email_add').val(),lista : jQuery('#lista').val()}),  		
+      	url: 'http://www.adtoma.com/wp-content/plugins/sendit/submit.php',
+  		success: function(data) {
+    	/*jQuery('#dati').html(data);*/
+   		alert(data);
+   		
+  }
+});
+	});
+});
+
+</script>
+
+<script type="text/javascript">
+function clearText(thefield){
+if (thefield.defaultValue==thefield.value)
+thefield.value = ""
+}
+</script>
+
+<style type="text/css">#sendit_wait{background:url(http://www.adtoma.com/wp-content/plugins/sendit/images/loading.gif) no-repeat; height:40px;margin:10px;display:block;}</style><link rel="stylesheet" type="text/css" href="http://www.adtoma.com/wp-content/plugins/sendit/sendit.css">
 		
 		<!-- Animated menu -->
 		<link rel="stylesheet" href="/site_images/kwicks/style.css" type="text/css" media="screen">
@@ -79,7 +107,7 @@
 					</tr>
 				</tbody></table>
 				<marquee style="white-space: nowrap;" onmouseover="this.setAttribute('scrollamount', 0, 0);" onmouseout="this.setAttribute('scrollamount', 2, 0);" scrolldelay="30" scrollamount="2" width="720" direction="left" loop="true">
-					Latest news post: <a href="http://www.adtoma.com/walla-chooses-adtomas-fusion-online-advertising-solution/">Walla! Chooses Adtoma’s Fusion Online Advertising Solution</a> | Book an online demo of Fusion: <a href="http://www.adtoma.com/book_demo/">click here!</a>
+					Latest news post: <a href="http://www.adtoma.com/mediehuset-nettavisen-valjer-adtomas-fusion-som-plattform-for-hela-sin-online-annonsering/">Mediehuset Nettavisen väljer Adtomas Fusion som plattform för hela sin online-annonsering</a> | Book an online demo of Fusion: <a href="http://www.adtoma.com/book_demo/" title="Visit us at ad:tech London 21-22 September!">Click here!</a>
 				</marquee>
 			</div>
 			<div class="clear"></div>
