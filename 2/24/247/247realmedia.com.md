@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624024407id_/http%3A//www.247realmedia.com/EN-US/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218232218id_/http%3A//www.247realmedia.com/EN-US/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy protection - Internet Privacy - 24/7 Real Media
 
@@ -40,15 +40,15 @@ We may disclose Non-PII collected through our Services, and information derived 
 
 We may disclose a user’s information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.
 
-### User Choice - Opting Out of Receiving Cookies
+### User Choice
 
 We use technology, which includes cookies, in the delivery of our Services.  We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience.
 
 You may at all times adjust your computer’s web browser settings to refuse all cookies, but by doing so you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest based advertising.  You can remove cookies by following directions provided in your Internet browser’s "help" file.
 
-You may also simply opt out of receiving our ad delivery, audience management and behavioral targeting cookies by [clicking here](http://www.247realmedia.com/EN-US/opt-out.html).
+You may also simply opt out of receiving interest-based advertising by [clicking here](http://www.247realmedia.com/EN-US/opt-out.html).
 
-Our opt-out cookies are programmed to expire ten years after they are initially issued.  If you buy a new computer, upgrade or change Web browsers or delete this "opt out" cookie, you will need to perform this opt-out process again.  In order for the opt out to work, your browser must be set to accept 3rd party cookies.
+Our opt-out cookies are programmed to expire ten years after they are initially issued.  If you buy a new computer, upgrade or change Web browsers or delete this "opt out" cookie, you will need to perform this opt-out process again.  In order for the opt out to work, your browser must be set to accept 3rd party cookies. Opting out does not necessarily delete or replace all cookies from our domain.
 
 ### Data Retention
 
@@ -62,9 +62,13 @@ We follow generally accepted industry standards to protect against the unauthori
 
 We are committed to following the [Code of Conduct](http://www.networkadvertising.org/networks/2008%20NAI%20Principles_final%20for%20Website.pdf) of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/), of which we are a member.  In accordance with the Code of Conduct, we require our Global Web Alliance clients to provide conspicuous access to their privacy policy statements.  Additionally, we require that our network affiliates disclose any and all information that is being collected from Internet users on their Web sites, including data gathered from banners and other forms of advertising, as well as content delivered or other transactions occurring on their Web sites.  We periodically monitor the Web sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
 
-You can also click the link below to reach the Network Advertising Initiative site, a central location for information about Internet advertising and the choices available to you and opt out of our cookies and other NAI member companies.
+You can also click the link below to reach the Network Advertising Initiative site, a central location for information about Internet advertising and the choices available to you and opt out of receiving interest-based advertising from us and other NAI member companies.
 
 ### [](http://www.networkadvertising.org/managing/opt_out.asp)
+
+### Ad Choices 
+
+24/7 Real Media supports deployment of Advertising Option icon (Ad Choices), in partnership with Evidon, as part of its compliance with Digital Advertising Alliance self-regulation program.
 
 ### Change to this Privacy Policy
 
@@ -74,9 +78,9 @@ Please note that because of the changing nature of privacy laws, user needs, and
 
 24/7 Real Media has been awarded TRUSTe’s Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.   TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@247realmedia.com](mailto:privacy@247realmedia.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). ****
 
-### Your Correspondence on this Site
+### Your Use and Correspondence on this Site
 
-If you provide us information through our “[contact us](http://www.247realmedia.com/EN-US/contact/contact-form.html)” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material.  This information will never be shared with third parties without your consent. 
+We use cookies to understand and analyze the usage trends of our users on our corporate website. We do not collect the online user’s PII through these cookies, only non-PII. If you provide us information through our “[contact us](http://www.247realmedia.com/EN-US/contact/contact-form.html)” link on our corporate website, we will keep a record of the information you provide including your email address and any other personal information you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing material.  This information will never be shared with third parties without your consent. 
 
   
 PII collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities.  You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside.  Providing such information will constitute your consent to any such transfer.
@@ -125,4 +129,4 @@ Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
 
 If you have questions or concerns regarding this statement, you should first contact us through email. You can address your general questions and comments by e-mail to [privacy@247realmedia.com](mailto:privacy@247realmedia.com) or by mail: 24/7 Real Media, Inc., 132 West 31st Street, 9th Floor, New York, New York 10001, Attn: Legal Department.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
-  _Updated on February 9, 2011_
+  _Updated on August 22, 2011_
