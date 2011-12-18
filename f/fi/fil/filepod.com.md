@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filepod.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526234008id_/http%3A//filepod.com/page.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filepod.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219004705id_/http%3A//filepod.com/page.php%3Fprivacy) for the most accurate reproduction.*
 
 # filepod.com - FilePod.com - Privacy Policies page
 
