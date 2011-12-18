@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidemex.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529113824id_/http%3A//www.insidemex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidemex.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218101808id_/http%3A//insidemex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inside Mexico
 
