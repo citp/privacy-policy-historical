@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizzy.co.uk privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512041836id_/http%3A//bizzy.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizzy.co.uk privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218192928id_/http%3A//bizzy.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: bizzy.co.uk
 
