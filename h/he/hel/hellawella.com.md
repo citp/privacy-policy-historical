@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellawella.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620042859id_/http%3A//www.hellawella.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellawella.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218220156id_/http%3A//www.hellawella.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › HellaWella.com
 
@@ -55,3 +55,6 @@ If your children disclose information about themselves in our public discussion 
 This Privacy Policy may be modified from time to time; notice of changes will appear on this page, so check back often. Any such changes will be prospective, never retroactive.
 
 If you have concerns or questions about any aspect of this policy, please e-mail our Privacy Policy Coordinator at info@hellawella.com. We welcome your feedback.
+
+  
+
