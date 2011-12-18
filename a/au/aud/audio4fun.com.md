@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616211733id_/http%3A//www.audio4fun.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218045051id_/http%3A//www.audio4fun.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Audio4fun.com privacy policy
 
