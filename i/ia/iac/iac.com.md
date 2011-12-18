@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iac.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624024922id_/http%3A//www.iac.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iac.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218224829id_/http%3A//www.iac.com/Privacy-Policy) for the most accurate reproduction.*
 
-# IAC > Privacy Policy
+# IAC > privacy policy
 
-Last Updated: August 21, 2008
+Last Updated: October 12, 2011
 
-IAC owns many business with more than 40 online brands including Ask.com, Match.com, Citysearch, Evite, Shoebuy, ServiceMagic, Gifts.com, Pronto and many others.
+IAC owns many business with more than 50 online brands including Ask.com, Match.com, CityGrid Media, Shoebuy, ServiceMagic, Electus, CollegeHumor Media, Pronto and many others.
 
 At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on www.iac.com and all IAC websites.
 
