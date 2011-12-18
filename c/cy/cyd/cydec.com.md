@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620001846id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cydec.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218203304id_/http%3A//cydec.com/privacy-policy) for the most accurate reproduction.*
 
 # CYDEC — Privacy Policy
 
@@ -51,56 +51,32 @@ name=”*” value=”*” domain=”*” path=”*”
 
 ### Product Highlight
 
-Discover how the 1-Click Upsell System increases sale from up to 266% to over 1000%
-
-### Free Training
-
-Enter your email below and we'll send you are 7-part training series entitled "Automate for Success" You'll learn how to increase profit up to 1500% automatically!
-
-We respect your privacy and will not share your information See our [Privacy Policy](https://web.archive.org/19567/wordpress/privacy-policy.html)
-
-[G-Lock opt-in manager](http://www.glockeasymail.com/wordpress-email-newsletter-plugin-for-double-opt-in-subscription/) for [bulk email software](http://www.glockeasymail.com/).
+Use our advanced affiliate reporting to see who sent the most subscribers & run a JV contest.
 
 ### Company News
 
-  * Feb09
+  * Oct08
 
-#### [Custom Upsell Pages](http://cydec.com/blog/news/custom-upsell-pages/)
+#### [Order Cancels Order](http://cydec.com/blog/news/order-cancels-order/)
 
-The new custom upsell pages mark a new era in back-end sales!  
-Here’s what you can do with them:
+We’ve just rolled out some exciting new functionality. Simply setup the OCO at the product level. Then, if a customer upgrades from one subscription to another, the system will cancel the initial subscription and associated billing. This will also automatically unsubscribe your customer from old mailing lists and subscribe to new ones attached to each [...]
 
-Full Design Control – HTML & CSS  
-Multiple Products – sell as many products as you want on a single upsell page  
-Multiple Product Types – sell one-time, recurring, trial, physical, optional and / or bundled products on a single [...]
+  * Sep21
 
-  * Jul17
+#### [Improved “Quick Buy” Custom Order Form](http://cydec.com/uncategorized/improved-%e2%80%9cquick-buy%e2%80%9d-custom-order-form/)
 
-#### [Custom Order Forms](http://cydec.com/blog/news/custom-order-forms/)
+Now, you can have the increased functionality of the Custom Order Form (COF) without having to create a new form for each product.  
+All you have to do is set up one Custom Order Form Template then you have a specialized order form for each product. Just drop the product’s COF link into your website [...]
 
-The new Custom Order Forms feature allows you to do some pretty cool stuff!  
-Product Bundles  
-Now you can include any number of different products on a single order form. They can be a combination of physical and digital. They can be required or optional. They can free or any price you want. They can even be [...]
+  * Jul25
 
-  * Jun28
+#### [Send Test Message in Broadcast](http://cydec.com/blog/news/send-test-message-in-broadcast/)
 
-#### [Advanced List Segmentation](http://cydec.com/blog/news/advanced-list-segmentation/)
-
-Today we are very excited to announce what may be the biggest money-making feature we’ve released since the 1-Click Upsell System. It’s called “Groups” and we know you it will put money in your pocket, so prepare to be excited…  
-What is “Groups”?  
-Groups is a brand new feature like nothing you’ve seen before. It allows you [...]
+See exactly what your subscribers will see. Now, when you are preparing a broadcast you can easily send a test message to your email to check delivery. 
 
 
 
 
 [Older News](http://cydec.com/category/blog/news/)
-
-### Free Training
-
-Enter your email below and we'll send you are 7-part training series entitled "Automate for Success" You'll learn how to increase profit up to 1500% automatically!
-
-We respect your privacy and will not share your information See our [Privacy Policy](https://web.archive.org/19567/wordpress/privacy-policy.html)
-
-[G-Lock opt-in manager](http://www.glockeasymail.com/wordpress-email-newsletter-plugin-for-double-opt-in-subscription/) for [bulk email software](http://www.glockeasymail.com/).
 
 Free Marketing Newsletter
