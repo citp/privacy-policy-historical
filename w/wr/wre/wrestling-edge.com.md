@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestling-edge.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620162253id_/http%3A//www.wrestling-edge.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestling-edge.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218202516id_/http%3A//www.wrestling-edge.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wrestling-Edge.com
 
@@ -7,6 +7,8 @@ Wrestling-Edge.com knows that you care about how your personal information is us
 This Privacy Policy covers Wrestling-Edge.com’s treatment of personal information that Wrestling-Edge.com gathers when you are on the Wrestling-Edge.com website and when you use Wrestling-Edge.com services. This policy does not apply to the practices of third parties that Wrestling-Edge.com does not own or control, or to individuals that Wrestling-Edge.com does not employ or manage. 
 
 Information Collected by Wrestling-Edge.com
+
+[](http://www.partycasino.com/)
 
 We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Wrestling-Edge.com users: 
 
