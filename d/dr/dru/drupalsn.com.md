@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupalsn.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618022921id_/http%3A//drupalsn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalsn.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218202456id_/http%3A//drupalsn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DrupalSN.com
 
