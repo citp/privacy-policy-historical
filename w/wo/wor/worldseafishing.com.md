@@ -1,6 +1,23 @@
-> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107060419id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldseafishing.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218014657id_/http%3A//www.worldseafishing.com/about/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Sea Fishing and Sea Angling Online
+# Privacy Policy - Sea Fishing and Sea Angling Online
+
+* * *
+
+  
+| 
+
+[](http://www.worldseafishing.com/click/4/url/aHR0cDovL2Fkcy5ldS5lLXBsYW5uaW5nLm5ldC9laS8zLzJiNS83NjdiOTEzMzk4ODBjOWI2P2l0PWkmcm5kPScgKyBybmQgKyAn)
+
+| 
+
+  *   * [ Print version](http://www.worldseafishing.com/about/privacy.html?print)
+
+  
+---|---  
+Privacy Policy
+
+* * *
 
 This privacy policy is applicable to any personal information which is given by You to World Sea Fishing ("User Information") via the web site located at www.worldseafishing.com and all its related domains, the World Sea Fishing web site.
 
@@ -20,10 +37,20 @@ You may notify World Sea Fishing of any updates, amendments and corrections to p
 
 World Sea Fishing reserves the right, at any time, to modify, alter, or update this privacy policy and any changes shall be notified to all users.
 
-Our web site uses third party advert servers (such as DoubleClick, ValueClick, Google) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you.
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [www.networkadvertising.org](http://www.networkadvertising.org/)
 
-  * Google, as a third-party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
+  
 
 
+|   
+---  
+  
+### SHOP DEPARTMENTS  
+  
+---  
+  
+The WSF Newsletter keeps you informed with all the latest happenings at WSF including brand new articles, tips and the latest deals in the WSF Shop.
+
+The list is now sponsored by Tronix Pro and each members will have the chance to win a selection of Tronix Pro Kit worth £40 in our random draw!  
+  
+---
