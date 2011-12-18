@@ -1,75 +1,123 @@
-> *The following text is extracted and transformed from the fox31news.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627083121id_/http%3A//www.myfoxphilly.com/myfox/pages/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox31news.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218152958id_/http%3A//privacy.tribune.com) for the most accurate reproduction.*
 
-# MyFox Philadelphia | Footer Privacy Policy
+# Privacy Policy - Tribune - privacy.tribune.com
 
-**_Effective as of June 15, 2006_**
+Tribune Company is a diverse multimedia company and, together with its Affiliates, operates daily newspapers, television stations, a digital broadcast program network, and news, entertainment, and information websites. In this Privacy Policy, “Affiliates” refers to our subsidiaries and entities that Tribune or its subsidiaries operate or have an ownership interest in. 
 
-Fox Interactive Media, Inc. ("FIM") is part of the News America Group, which has adopted a set of Privacy Principles available at <http://www.newscorp.com/privacy.html> applicable to all its U.S.-based companies. FIM operates the Internet Web site located at. FIM has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. FIM operates general audience Web sites, and does not knowingly collect PII from children under 13 years of age. From time to time, FIM may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our Web sites or technology. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of this Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If FIM materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change.
+This Privacy Policy applies only to the information we collect through the websites, mobile applications, electronic devices, kiosks, and all other interactive services (except electronic mail) whereby data is transmitted (hereinafter “the Services”) operated by Tribune Company and its subsidiaries (collectively “we” or “us”) regardless of how you access the Services, unless such website, mobile application, electronic device, kiosk, or other interactive service has a separate Privacy Policy specific to such website, application, device, kiosk, or interactive service. The Policy describes: 
 
-**COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY FIM.**
-
- **General.** FIM collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address or telephone number) in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, in connection with content or suggestions you submit to us, chats or bulletin boards, or because you want us to furnish you with products, services or information. We may also obtain PII from reputable third parties.
-
-**Cookies.** Cookies are small bits of information that the FIM Web sites place on the hard drive of your computer. Cookies remember information about your activities on our site(s) and enable FIM to make your visits to our site(s) more enjoyable. For example, cookies can store your password for easy logon to a site you have previously visited, can save your preferences for a personalized home page or can track the items you have placed in your "shopping cart" during a visit to our online store. Information about your activities on FIM sites and other non-personally identifiable information about you may also be used to limit the online ads you encounter to those we believe are consistent with your interests.
-
-Third party advertisements displayed on FIM sites may also contain cookies set by Internet advertising companies or advertisers. FIM does not control these cookies and visitors to our Web site(s) should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. See the "Notice" section below for more information on third party advertisements. FIM may use cookies and similar tools to relate your use of our Web site(s) to PII obtained from you or a reputable third party. For example, if you've asked us to provide you information about our upcoming products or promotions, cookie and/or click stream data about your activities on FIM Web sites may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences. However, if FIM wishes to combine your personal and cookie or click stream information in this manner, we will obtain your express affirmative consent.
-
-You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you may not have access to certain features on News America Group's Web site(s), such as the Fox Movie Channel Backlot.
-
-**NOTICE: FIM WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES**  
-
-
-When you voluntarily provide PII to FIM, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses FIM will make of the information. At the time you provide your PII, FIM will notify you of your options regarding our use of your PII, including whether we will share it with outside companies (See "Choice" below). This Policy describes the types of other companies that may want to send you information about their products and services and therefore may want to share your personal information, provided you have given FIM permission to do so (See "Use" below).
-
-Sometimes we collect PII from consumers in manual format or off-line, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us.
-
-FIM's Web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with the logo of FIM or an affiliated entity, even though they are not operated or maintained by FIM (for example, the co-sponsored chat pages, or advertising sponsor pages). FIM's Web site(s) also carry advertisements from other companies. FIM is not responsible for the privacy practices of Web sites operated by third parties that are linked to our sites or for the privacy practices of third party or national Internet advertising companies. Once you've left a FIM site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
-
-FIM's Web site(s) may also be linked to sites operated by companies affiliated with FIM (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group's Privacy Principles located at http://www.newscorp.com/privacy.html, visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
-
-Some of the advertisements that appear on FIM's Web site(s) are delivered to you by national Internet advertising companies such as Doubleclick and 24/7Real Media. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our sites, including information about the banner ads they display, any cookie they place on your computer and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit:  
-
-
-  * <http://www.247realmedia.com/privacy.html>
-  * <http://www.doubleclick.net/privacy_policy>
-  * <http://www.networkadvertising.org/optout_nonppii.asp>
+  * The information we collect and how we collect it;
+  * What we do with the information we collect;
+  * Information sharing and disclosure;
+  * How you can access and update your information;
+  * How we protect information;
+  * Linked sites and advertisements;
+  * How to contact us;
+  * Your California privacy rights; and
+  * Changes to this policy.
 
 
 
-**CHOICE: FIM WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**
+**The information we collect and how we collect it.**
 
-FIM will not use the PII you provide to us for purposes different from the purpose for which it was submitted, or share your PII with third parties that are not affiliated with FIM (i.e., not part of the News America Group), unless we obtain your permission.
+How we collect and store information depends on the websites you visit, the activities in which you participate and the Services you use. You can use some of the Services without providing any information other than that automatically collected as described below. 
 
-**USE: FIM'S USE OF PII**
+We may collect information about you during your use of the Services, including your name, username, password, email address, postal address, phone number, mobile phone number, payment information, gender, birth year, and information you provide or post on our Services or allow us to access when you do certain things, such as:
 
-FIM will use your PII provided under this Policy in a manner that is consistent with this Policy. If FIM obtains PII from a third party, such as a business partner, our use of that information is governed by this Policy. FIM may share your PII with companies that are affiliated with us, that is, are part of the News America Group of companies. Provided you have given us permission, FIM may also share your PII with advertisers and business partners that are not affiliated with FIM, but would like to send you information about their products and services. For example, some of the companies who supply prizes for FIM's contests may have special offers or promotions that might be of interest to users of the FIM Web site. However, you will always have the opportunity to instruct us not to share your information with third parties when PII is collected. Moreover, we will never share your credit card information with third parties except those FIM uses to perform tasks (such as order fulfillment and payment processing) required to complete purchases you make through FIM Web sites. FIM employees, agents and contractors must have a legitimate business reason to obtain access to your PII. FIM may share your PII with outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses), but they may only use your PII to provide FIM with a specific service and not for any other purpose.
+  * Enter registration information for one or more of our Services;
+  * Enter a sweepstakes or contest or register for a promotion;
+  * Participate in voting or polling activities;
+  * Make a purchase;
+  * Request certain features (e.g., newsletters, updates, and other products);
+  * Sign up to receive SMS (text message) notifications;
+  * Download or use one of our mobile applications;
+  * Connect with the Services or otherwise allow us to access certain information about you via a social networking site (“SNS”); or
+  * Post user-generated content to any of our websites.
 
-FIM may also enter into agreements with outside companies that possess the technology that allows FIM to customize the advertising and marketing messages you receive on our Web sites. Your non-PII and click stream data about your activities on our sites may be shared with these companies so this customization can be accomplished. These companies will not share your information with any third party or use it for any other purpose. Anonymous click stream and demographic information may also be shared with FIM's advertisers and business partners.
 
-There may be instances when FIM may disclose PII without providing you with a choice in order to protect the legal rights of FIM, other companies within the News America Group or their employees, agents and contractors; to protect the safety and security of visitors to our Web sites; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if FIM sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, FIM may transfer your PII to a third party as part of that transaction.
 
-**SECURITY: FIM PROTECTS THE SECURITY OF PII**
+We may collect and store your user ID associated with a SNS account that you use to sign in to your Tribune account or connect or use with the Services. When you sign in to your Tribune account or mobile application with your SNS account information or otherwise connect to your SNS account with the Services, you authorize Tribune to collect, store, and use in accordance with this Privacy Policy any and all information available to Tribune through the SNS interface. 
 
-FIM uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, FIM uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. Passwords and other sensitive information stored by FIM are encrypted both in transit and when stored within FIM's online databases.
+We may also combine information that we collect from you with information we obtain about you from third parties and Affiliates and information derived from any other subscription, product, or service we provide.
 
-**ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII**
+Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose information through the Services, such as via SNSs, on message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. 
 
-FIM has implemented procedures for you to access, correct or delete your PII. If you are a registered user at FIM's Web site, you can view and change your user preferences by following the procedure detailed below.
+When you use the Services, we use persistent and session cookies and other tracking technologies to: (a) store your username and password; (b) analyze the usage of our sites and services; (c) customize the Services to your preferences; and (d) control the advertising displayed by the Services. We may also use other Internet technologies, such as Flash technologies, Web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of the Services (including to serve you ads when you are on other websites or the Internet when we can access those cookies). We also may include web beacons in e-mail messages or newsletters to determine whether the message has been opened. As we adopt additional technology, we may also gather additional information through other methods.
 
-To access your PII, send an e-mail with the word "Privacy" in the subject line to [FIMprivacy@fox.com](mailto:FIMprivacy@fox.com), or write to the FIM Internet Privacy Information at Fox Interactive Media, Inc., Business and Legal Affairs, 407 North Maple Drive, Beverly Hills, California 90210, requesting a listing of the PII that is on file that you have provided or that has been obtained from a third party. FIM will provide you with a list of your PII within thirty (30) calendar days from receipt of your request. There may be certain instances when FIM may not be able to provide the PII, such as when access would violate the privacy of another individual or when access is prohibited by law.
+We use these automated technologies to collect and analyze certain types of information we consider to be non-personal information, including: (a) information related to the devices you use to access or interact with our services, such as: IP addresses, geolocation information (as described further below), unique device identifiers and other information about your mobile phone or other mobile device(s), browser types, browser language; and (b) information related to the ways in which you interact with the Services, such as: referring and exit pages and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, and other similar information. We may also capture other data, such as search criteria and results. In some cases, we will associate this information with a unique Tribune identifier (that cannot be used by itself to identify you) for our internal use, in which case your Tribune identifier will be considered Tribune information and the use of it is not covered by this Privacy Policy. 
 
-In the event the PII on file is incorrect, you may correct the PII by sending a written request for correction to FIM Internet Privacy Information at Fox Interactive Media, Inc., Business and Legal Affairs, 407 North Maple Drive, Beverly Hills, California 90210, including (1) all of the incorrect PII, (2) the corrections that you wish to make to your PII, and (3) your signature authorizing such changes. FIM will then correct the PII in its database and send a written confirmation to you within forty-five (45) business days.
+We may collect different types of information about your location, including general information (e.g., IP address, zip code) and more specific information (e.g., GPS-based functionality on mobile devices used to access the Services), and may use that information to customize the Services with location-based information, advertising, and features. For example, if you provide a zip code that indicates that you live in Chicago, the Services may be customized with Chicago-specific information and advertisements. In order to do this, your location information may be passed along to our Affiliates, agents, vendors or advertisers. If you access the Services through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided your device allows you to do this. See your device manufacturer’s instructions for further details.
 
-If for any reason you wish to stop all future communications from this site, you may send an e-mail with the word "Privacy" in the subject line to [FIMprivacy@fox.com](mailto:FIMprivacy@fox.com), or write to FIM Internet Privacy Information at Fox Interactive Media, Inc., Business and Legal Affairs, 407 North Maple Drive, Beverly Hills, California 90210, requesting that your PII be permanently removed from this site's database. FIM will send a written confirmation of such removal to you within thirty (30) calendar days of receipt of your request. E-mails sent to [FIMprivacy@fox.com](mailto:FIMprivacy@fox.com) for purposes other than communication about PII may not be acknowledged or responded to.
+Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline cookies, please note that you may not be able to sign in, customize, or use some of the interactive features of the Services. Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the [Adobe website](http://www.adobe.com/) and make changes at the [Global Privacy Settings Panel.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html)
 
-**REMEDIES AND COMPLIANCE: HOW TO CONTACT FIM ABOUT PRIVACY CONCERNS**
+Third parties whose products or services are accessible or advertised via the Services may also place cookies on your browser to collect non-personal information about your use of the Services. We also allow other third parties (e.g., ad networks and ad servers) to serve ads to you on the Services, and to access their own cookies on your computer, mobile phone, or other device you use to access the Services. We neither have access to, nor does this Policy govern, the use of cookies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers or ad networks. Those parties that use cookies may offer you a way to opt out of ad targeting. If you would like more information about this practice and how to control how this information may used by these third-party companies, please visit the [Network Advertising Initiative’s website](http://www.networkadvertising.org/managing/opt_out.asp) or the [Digital Advertising Alliance’s website](http://www.aboutads.info/choices/).
 
-If you have concerns regarding privacy, your use of the FIM Web sites, or the collection and use of PII, you may contact the following FIM representative:  
-Sean Chuang  
-Fox Interactive Media, Inc.  
-Privacy Liason, Business & Legal Affairs  
-407 North Maple Drive, Suite 352  
-Beverly Hills, California 90210  
-Telephone: (310) 969-7200  
-e-mail: [FIMprivacy@fox.com](mailto:FIMprivacy@fox.com)  
-You may also request a written response to your concerns, which will be made no later than thirty (30) days after you contact FIM.
+**What we do with the information we collect.**
+
+We use the information that we collect for the following purposes:
+
+  * For the purposes for which you provided it;
+  * To send you information about your relationship or transactions with us;
+  * To send you alerts or other communications via SMS messages or other media or networks;
+  * To notify you about new features of the Services, special events, or products, services, and special offers;
+  * To administer sweepstakes and contests;
+  * To process and respond to your inquiries;
+  * To contact you with information that we believe will be of interest to you;
+  * To attribute content that you make available through the Services;
+  * To generate and review reports and data about our user base and Service usage patterns;
+  * To analyze the accuracy, effectiveness, usability, or popularity of the Services;
+  * To improve the content and features of the Services or develop new Services;
+  * To allow us to personalize the content and advertising that you see on the Services;
+  * To enforce the legal terms that govern your use of the Services; and
+  * To administer and troubleshoot the Services.
+
+
+
+The Services are supported by advertising revenue. We will send you commercial email on behalf of ourselves, our Affiliates, and advertisers. Each such email we send you will have an opt-out that you can use to stop receiving such communications. 
+
+We may aggregate and/or anonymize information collected by the Services or via other means so that the information does not identify you. Our use and disclosure of aggregated, anonymized, and other non-personal information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
+
+**Information sharing and disclosure.**
+
+We will make your information available to other companies, websites, applications or people in the circumstances described below:
+
+  * We may rent, sell, or share your information with non-affiliated third parties: (a) in order to provide services or products that you have requested; (b) when we have your permission; or (c) as described in this Privacy Policy.
+  * We may share your information with any Affiliate or agent of Tribune Company in order to provide the Services or advertising or to communicate with you on our behalf.
+  * When you sign up to participate in a contest or sweepstakes, your information may also be provided to our sweepstakes or contest advertisers, operators, or sponsors and the use of that information will be also governed by those advertisers’, operators’, or sponsors’ privacy policies or practices.
+  * We may disclose your information in response to any subpoenas, court orders, or other legal process we receive, or to establish or exercise our legal rights or to defend against legal claims.
+  * We may share your information with third-party advertisers and advertising networks or others with which we have a contractual relationship.
+  * We may disclose your information when we believe it appropriate in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](http://www.chicagotribune.com/terms), and/or to protect our rights and property.
+
+
+
+As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. 
+
+**How you can access and update your information.**
+
+To ensure that you have some control over the information we have about you, you may review and update certain user profile information by logging in to the relevant portions of the Services where such information may be updated (may be available on some Services and not others) or by contacting us at [privacy@tribune.com](mailto:privacy@tribune.com).
+
+**How we protect information.**
+
+We have implemented reasonable administrative, technical, and physical security measures to protect against the loss, misuse and alteration of your information. Despite our best efforts, however, no security measures are completely impenetrable. 
+
+**Linked sites and advertisements.**
+
+The Services may contain links to third-party websites. We are not responsible for the privacy practices or the content of those third-party websites. 
+
+We have relationships with third-party providers to provide content, products, services, and functionality through the Services. When you visit sites or use any Services provided in conjunction with one or more of these third-party providers and the brands of those providers appear on the site or Services in connection with such content, products, services, or functionality, we may share any information you provide or that is collected during your use of those Services with those providers. In some cases, the provider may collect information from you directly, in which case the provider’s privacy policy (which may differ from this Privacy Policy) would apply. If you have any questions regarding the privacy policy of any of our providers, you should contact the provider directly for more information. 
+
+**How to contact us.**
+
+If you have any questions, comments, or concerns regarding our Privacy Policy or practices, please send an email to [privacy@tribune.com](mailto:privacy@tribune.com).
+
+**Your California privacy rights.**
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@tribune.com](mailto:privacy@tribune.com). 
+
+**Changes to this policy.**
+
+Tribune Company reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this policy will mean you accept those changes. 
+
+Copyright © 2011 Tribune Company.
+
+**_Last updated on October 19, 2011._**
