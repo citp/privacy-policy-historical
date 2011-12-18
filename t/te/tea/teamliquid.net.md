@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamliquid.net privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519064112id_/http%3A//www.teamliquid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamliquid.net privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219002323id_/http%3A//www.teamliquid.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ We use non-identifying and aggregate information to better design our website an
 
 The web server logs are used to troubleshoot issues with the website and to generate aggregate site statistics. Should we determine that a problem with the site is being caused by a particular IP address, we may match the IP address in the log files with registered user accounts in order to initiate contact with the user causing problems.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+Except as where required by law, we will never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 ## Use Of Cookies
 
