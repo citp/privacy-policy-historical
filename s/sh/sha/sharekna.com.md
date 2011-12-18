@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharekna.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219113600id_/http%3A//www.sharekna.com/en/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharekna.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218203454id_/http%3A//www.sharekna.com/en/pages/privacy) for the most accurate reproduction.*
 
 # Sharekna :: The free online Video and Photo sharing for the Arab world
 
@@ -31,4 +31,4 @@ The website makes use of cookies. Cookies are data files that are stored on your
 
 
 
-Version 0.2 - © 2008 - 2010 Sharekna 
+Version 0.2 - © 2008 - 2011 Sharekna 
