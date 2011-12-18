@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americangirl.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625215815id_/http%3A//store.americangirl.com/static/popups/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangirl.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219004123id_/http%3A//store.americangirl.com/static/popups/privacyPolicy.html) for the most accurate reproduction.*
 
 # American Girl - Privacy Policy
 
-**American Girl has a new Privacy Policy in effect as of November 1, 2005.**
+**This version of the American Girl Privacy Policy has been in effect since November 1, 2005.**
 
 Use of this site signifies your acceptance of the terms and conditions.
 
@@ -66,7 +66,7 @@ We also use other technology, called clear GIFs (sometimes called pixel tags or 
 
 For administrative purposes, we also collect IP addresses, which is the automatic number assigned to your computer when you surf the web. Your IP address and cookies are not connected to any personally identifiable or on-line contact information like a name and address unless you order or register at our site; however, if you register, all information we have about you will be associated with your customer file. 
 
-American Girl may work with third party network advertisers who use cookies, pixels, or transparent GIF files to help us manage our online advertising. These GIF files enable them to recognize a unique cookie on your Web browser. This in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with our third party network advertisers. The information that we collect and share in this fashion is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. However, it may tell us what other sites you have visited that are associated with the network advertiser. For more information about our network advertisers, including information about how to opt out of technologies that they control, [click here](http://acerno.com/privacy.html).
+American Girl may work with third party network advertisers who use cookies, pixels, or transparent GIF files to help us manage our online advertising. These GIF files enable them to recognize a unique cookie on your Web browser. This in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with our third party network advertisers. The information that we collect and share in this fashion is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. However, it may tell us what other sites you have visited that are associated with the network advertiser. For more information about our network advertisers, including information about how to opt out of technologies that they control, [click here](http://www.akamai.com/html/policies/adnotice.html).
 
 Return to Top
 
@@ -117,16 +117,17 @@ Thank you for reading our privacy statement. We are genuinely committed to safeg
 If you have concerns about your child’s use of our service, please contact us using our [feedback form](http://store.americangirl.com/pls/ag/pc_qc.comment_page). You and your child’s use of this site is also governed by our [Terms and Conditions](http://store.americangirl.com/pls/ag/icm_terms) statement. Please read it.
     
     
-    American Girl
-    
-    8400 Fairway Place
-    
-    Middleton, WI 53562
-    
-    608-836-4848
-    
-    e-mail: [im_cs@americangirl.com](mailto:im_cs@americangirl.com)
-    
-    		
+    	
+    	American Girl
+    	
+    	8400 Fairway Place
+    	
+    	Middleton, WI 53562
+    	
+    	608-836-4848
+    	
+    	e-mail: [im_cs@americangirl.com](mailto:im_cs@americangirl.com)
+    	
+    			
 
 Return to Top
