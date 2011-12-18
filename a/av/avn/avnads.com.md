@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avnads.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521220101id_/http%3A//www.avnmedianetwork.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avnads.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218203815id_/http%3A//www.avnmedianetwork.com/privacy-policy.html) for the most accurate reproduction.*
 
 # AVN Media Network
 
