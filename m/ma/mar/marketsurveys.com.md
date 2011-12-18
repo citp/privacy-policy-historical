@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketsurveys.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519230318id_/http%3A//marketsurveys.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketsurveys.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218185916id_/http%3A//marketsurveys.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
