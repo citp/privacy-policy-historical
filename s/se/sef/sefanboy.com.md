@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sefanboy.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510122001id_/http%3A//sefanboy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sefanboy.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218073259id_/http%3A//sefanboy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Phone Blog
 
@@ -21,3 +21,5 @@ sefanboy.com has no access to or control over these cookies that are used by thi
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. sefanboy.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+You can leave a response, or [trackback](http://sefanboy.com/privacy-policy-statement/trackback/) from your own site. Follow any responses to this page through the [RSS 2.0](http://sefanboy.com/privacy-policy-statement/feed/) feed. 
