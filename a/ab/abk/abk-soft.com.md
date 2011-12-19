@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abk-soft.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523184538id_/http%3A//abk-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abk-soft.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219220021id_/http%3A//www.abk-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy And Policy : Matchmaking Software : Abk-Soft
 
