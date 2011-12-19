@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230003246id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219064801id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
 
 # Jabil Circuit - Privacy policy
 
