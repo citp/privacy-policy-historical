@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodis.com privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211011125id_/http%3A//www.bodis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodis.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219190811id_/http%3A//www.bodis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bodis.com
 
@@ -84,9 +84,9 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 
 Bodis  
 Attention: Privacy Statement Personnel  
-Suite E1806-18825, East Tower  
-Nanshan Software Park, 10128, Shennan Blvd  
-Nanshan District, Shenzhen 518052  
+Suite 502A-18825, Block A  
+Shekou Technology Building 2  
+Nanshan District, Shenzhen 518067  
 China 
 
 Bodis will use commercially reasonable efforts to promptly respond and resolve any problem or question.
