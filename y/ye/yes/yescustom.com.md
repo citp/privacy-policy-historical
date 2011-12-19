@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yescustom.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622193123id_/http%3A//www.yescustom.com/article-center/aid/74) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yescustom.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219032646id_/http%3A//www.yescustom.com/article-center/aid/74) for the most accurate reproduction.*
 
-# Privacy Policy - Custom T-Shirts - Custom You Own T-Shirt Online At YesCustom
+# Privacy Policy - Custom T-Shirts Online - YesCustom
 
 * * *
 
@@ -50,4 +50,4 @@ Yescustom is intended for users aged 13 or older. We will not knowingly collect 
 
 A cookie is a small text file that is placed on your hard disk by a webpage server. Cookies contain information that can later be read by a web server in the domain that issued the cookie. Cookies cannot be used to run programs or deliver viruses to your computer. Yescustom uses cookies to store information that uniquely identifies our users and secures their personal information. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can modify this in your browser settings if you prefer to decline cookies.
 
-We welcome your comments regarding our Privacy Policy. If you have questions or comments, please feel free to e-mail us at [admin@yescustom.com](mailto:admin@yescustom.com) .
+If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at [order.yescustom@yahoo.com](mailto:order.yescustom@yahoo.com) .We welcome your comments regarding our Privacy Policy. If you have questions or comments, please feel free to e-mail us at [order.yescustom@yahoo.com](mailto:order.yescustom@yahoo.com).
