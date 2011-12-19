@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definitivedeals.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618112937id_/http%3A//definitivedeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitivedeals.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219054156id_/http%3A//www.definitivedeals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DefinitiveDeals.com - Privacy Policy Statement for this website
 
@@ -6,7 +6,7 @@ We respect our user's privacy and make every effort to protect the privacy of th
 
   * 1\. Site Information & Contact
 
-This website is owned and operated by DefinitiveDeals.com. The administrator for this site can be reached via email at [contact@definitivedeals.com](mailto:contact@definitivedeals.com?subject=privacy) All efforts will be made to respond to any e-mail inquires within 48 hours. Our address is 4712 Admiralty Way #811, Marina del Rey, CA 90292. 
+This website is owned and operated by Centeer, Inc. The administrator for this site can be reached via email at [contact@definitivedeals.com](mailto:contact@definitivedeals.com?subject=privacy) All efforts will be made to respond to any e-mail inquires within 48 hours. 
 
   * 2\. Information that is collected
 
@@ -22,7 +22,7 @@ DefinitiveDeals links to several external sites such as merchants, advertisers, 
 
   * 5\. E-mail addresses
 
-DefinitiveDeals only collects and stores names and e-mail addresses that are submitted voluntarily to us by our visitors. The e-mail addresses are used to send out newsletters and other related information and are **never** shared with outside parties except as detailed in section 9. Providing your e-mail address to DefinitiveDeals is voluntary and is not required to browse or use this site. If you have previously submitted your e-mail address to DefinitiveDeals but no longer wish to receive e-mails from us, please send an e-mail to [remove@definitivedeals.com](mailto:remove@definitivedeals.com?subject=remove) and we will promptly remove your e-mail information. 
+DefinitiveDeals only collects and stores names and e-mail addresses that are submitted voluntarily to us by our visitors. The e-mail addresses are used to send out newsletters and other related information and are **never** shared with outside parties except as detailed in section 9. Providing your e-mail address to DefinitiveDeals is voluntary and is not required to browse or use this site. If you have previously submitted your e-mail address to DefinitiveDeals but no longer wish to receive e-mails from us, please send an e-mail to [contact@definitivedeals.com](mailto:contact@definitivedeals.com?subject=remove) and we will promptly remove your e-mail information. 
 
   * 6\. Financial Information
 
@@ -51,4 +51,4 @@ Your continued use of this site means that you understand this Privacy Policy an
 
 
 
-This Privacy Policy was last updated on October 8, 2010
+This Privacy Policy was last updated on July 20, 2011
