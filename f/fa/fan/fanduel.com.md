@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanduel.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620233643id_/http%3A//www.fanduel.com/p/OutsidePrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanduel.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219215532id_/http%3A//www.fanduel.com/p/OutsidePrivacy) for the most accurate reproduction.*
 
 # Privacy | FanDuel
 
@@ -8,10 +8,10 @@ Your use of FanDuel.com and any personal information you provide on FanDuel.com 
 
 Please note that any video, image, or other content posted at the direction of Users onto FanDuel.com becomes published content and is not considered personally identifiable information subject to this Privacy Notice. 
 
-Any questions, comments or complaints that you might have should be forwarded in writing to: FanDuel   
-PO Box 7775 # 34590  
-San Francisco  
-CA 94120-7775  
+Any questions, comments or complaints that you might have should be forwarded in writing to: FanDuel.com,   
+1375 Broadway,  
+New York,  
+NY 10018   
 
 
 #### Information We Collect
@@ -72,9 +72,10 @@ Except where prohibited, participation in a contest constitutes the player's con
 
 If you reside in California and have provided us with your personal information, you may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: 
 
-PO Box 7775 # 34590  
-San Francisco  
-CA 94120-7775
+FanDuel.com,   
+1375 Broadway,  
+New York,  
+NY 10018 
 
 #### Changes and updates
 
