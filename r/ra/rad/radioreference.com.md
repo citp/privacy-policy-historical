@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioreference.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618204431id_/http%3A//www.radioreference.com/apps/content/%3Fcid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioreference.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219195947id_/http%3A//www.radioreference.com/apps/content/%3Fcid%3D1) for the most accurate reproduction.*
 
 # Privacy Policy
 
