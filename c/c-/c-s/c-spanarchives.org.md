@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c-spanarchives.org privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414184221id_/http%3A//www.c-spanvideo.org/videoLibrary/assets/documents/C-SPANVLprivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c-spanarchives.org privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219174629id_/http%3A//www.c-spanvideo.org/videoLibrary/assets/documents/C-SPANVLprivacyStatement.pdf) for the most accurate reproduction.*
 
 # 
 
