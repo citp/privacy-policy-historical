@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozmodchips.com privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204184136id_/http%3A//www.ozmodchips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozmodchips.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219191716id_/http%3A//www.ozmodchips.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : OzModChips.com, Australian Supplier of WiiKey, Drivekey, M3, R4DS and CycloDS
 
@@ -24,6 +24,10 @@ We may place a text file called a "cookie" in the browser files of your computer
 **USE OF INFORMATION**  
 Ozmodchips.com uses any information voluntarily given by our users to enhance their experience on our website.  
 As stated above, we use information that users voluntarily provide in order to send out electronic newsletters to subscribers once in a while. Newsletters might have important information about your console, or might be informing you of a new product. Ozmodchips.com NEVER shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.  
+
+
+**Order Fulfillment**  
+If by any chance we are unable to send your order due to stock shortages or other reasons, we may need to share your information (just the address and item ordered) to an overseas company. If the companies we sometimes use do not have the item in stock then we have to sell your address to someone that does. If we do this, the warranty will be with the 3rd party company. This is extremely rare, and usually only happened with wholesale orders .  
 
 
   
