@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620095204id_/http%3A//www.liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveaquaria.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050458id_/http%3A//www.liveaquaria.com/general/general.cfm%3Fgeneral_pagesid%3D36) for the most accurate reproduction.*
 
 # LiveAquaria.com Privacy & Security Policies
 
----  
-Our friendly customer service representatives are always ready to help you, 7:30 a.m. - 10:00 p.m. CST, 7 days a week.  
- **1-800-334-3699**  
-or [**E-mail Us**](https://web.archive.org/forms/contact_us.cfm)  
-  
 LiveAquaria.com is very sensitive to the issues of online privacy and electronic security. As we establish and maintain an online relationship with you, we want you to know we will always do whatever possible to ensure a secure and private environment to maintain your unquestioned trust.
 
 **Privacy Policy**  
