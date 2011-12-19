@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macaronikid.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524101836id_/http%3A//national.macaronikid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macaronikid.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219220041id_/http%3A//national.macaronikid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Macaroni Kid
 
