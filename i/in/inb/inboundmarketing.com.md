@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inboundmarketing.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205043441id_/http%3A//www.inboundmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundmarketing.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219032952id_/http%3A//www.inboundmarketing.com/privacy) for the most accurate reproduction.*
 
-# InboundMarketing.com Privacy Policy | InboundMarketing.com
+# InboundMarketing.com Privacy Policy | Inbound Marketing University
 
 Last Updated: May 15, 2009
 
