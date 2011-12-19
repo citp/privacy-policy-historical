@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620191449id_/http%3A//www.eventzilla.net/pub_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219053503id_/http%3A//www.eventzilla.net/privacy) for the most accurate reproduction.*
 
-# Need help? Visit Eventzilla Support section for help
+# Online Event Registration, Management and Planning Software | Eventzilla
 
 This Privacy Policy governs the manner in which Thoughthub Solutions collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.eventzilla.net](http://www.eventzilla.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Thoughthub Solutions.
 
@@ -77,4 +77,4 @@ Plot-80, First Cross Street, Mogappair West Garden, Chennai, India - 600037
 [support@thoughthub.net](mailto:support@thoughthub.net)  
 
 
-This document was last updated on August 31, 2010
+This document was last updated on July 7, 2011
