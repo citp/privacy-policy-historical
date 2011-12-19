@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kontactr.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624023153id_/http%3A//kontactr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kontactr.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219211908id_/http%3A//kontactr.com/help/privacy) for the most accurate reproduction.*
 
 # Kontactr
-
-## Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors. This policy sets out how we will treat your personal information.
 
