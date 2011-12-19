@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604210127id_/http%3A//www.klove.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219100652id_/http%3A//www.klove.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Positive Encouraging K-LOVE
 
@@ -31,4 +31,4 @@ If you ever feel that this site is not following the privacy policy we have desc
 
 
 
-[Donate Now »](https://secure.klove.com/signin.aspx?returnurl=checkoutexpress.aspx&utm_source=internal&utm_medium=banner&utm_content=rightdonate&utm_campaign=ongoing)
+[Donate Now »](https://secure.klove.com/signin.aspx?returnurl=checkoutexpress.aspx&ici=donate-rt-bnr_rt-bnr)
