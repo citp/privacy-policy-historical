@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the intermatwrestle.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513231752id_/http%3A//intermatwrestle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermatwrestle.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219080754id_/http%3A//www.intermatwrestle.com/privacy) for the most accurate reproduction.*
 
-# InterMat - Powered By RevWrestling
+# InterMat Wrestling
 
-**InterMat Privacy Statement  
+**InterMat Privacy Statement** **  
 **
 
 InterMat is owned and operated by Rev Wrestling Corporation. Privacy on the Internet is of the utmost importance to InterMat. InterMat wants to make the online experience both satisfying and safe. 
@@ -19,5 +19,5 @@ These are voluntary submissions to register for an InterMat Platinum membership,
 
 This information is derived by tracking page views throughout our site. This information allows InterMat to better tailor its content to the needs of the visitors, as well as the needs of the advertisers.
 
-InterMat takes privacy very seriously and will never divulge any information about individual users to third parties.   
+InterMat takes privacy very seriously and will never divulge or sell any information about individual users to third parties.   
 **  **
