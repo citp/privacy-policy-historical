@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectfastcash.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203034855id_/http%3A//www.projectfastcash.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectfastcash.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219061016id_/http%3A//projectfastcash.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Project Fast Cash Privicy Policy
 
