@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afghan123.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626062435id_/http%3A//www.afghan123.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afghan123.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082923id_/http%3A//www.afghan123.com/privacy) for the most accurate reproduction.*
 
 # Afghan123.com Privacy Policy
 
@@ -16,7 +16,7 @@ Afghan123.com will not sell, trade or disclose your personal information to any 
   
 Security  
   
-Afghan123.com take necessary steps to protect personal information you share with us.
+Afghan123.com takes necessary steps to protect personal information you share with us.
 
 Registered users of our subscription services will occasionally receive information on Updates and new features provided by us to respect the privacy of our users we present the option not to receive these types of alerts.  
   
