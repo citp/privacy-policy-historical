@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606091342id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfstitch.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219070449id_/http%3A//www.surfstitch.com/info/footer_privacy_policy) for the most accurate reproduction.*
 
 # SURFSTITCH - AUSTRALIA'S #1 FOR SURF & FASHION | Boardshorts, Bikinis, Tees, Dresses & Surfing Gear
 
-[](http://www.surfstitch.com/home)
+[](https://server.iad.liveperson.net/hc/8012262/?cmd=file&file=visitorWantsToChat&site=8012262&byhref=1&imageUrl=https://www.surfstitch.com/images/static/benliveperson.jpg)[](http://www.surfstitch.com/home)
 
   
 
@@ -77,9 +77,9 @@ We offer a number of free newsletters to share content information about our sit
 
 SurfStitch utilizes a variety of security measures to maintain the safety of your personal information. All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. 
 
-Passwords and credit card numbers are encrypted in SurfStitch's secure database, which is also located behind a firewall. When purchasing from Surfstitch your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.
+Credit card numbers are not stored in our systems in accordance with the highest of PCI-DSS standards. When purchasing from Surfstitch your financial details are passed through to a secure server using the latest 256-bit SSL (secure sockets layer) encryption technology.
 
-If you choose to modify your personal information or you have forgotten your password, you may do so by visiting the SurfStitch member page. You will be required to submit a valid member ID and password for authentication before you will be able to modify your file. Because password and credit card information has been encrypted, it is completely invisible to any employee who accesses it, including our customer service team. If you desire to change your password, the customer service representative will reset to a new one after you have properly identified yourself.
+If you choose to modify your personal information or you have forgotten your password, you may do so by visiting the SurfStitch member page. You will be required to submit a valid member ID and password for authentication before you will be able to modify your file. Because password and credit card information has been encrypted, it is completely invisible, including our customer service team. If you desire to change your password, the customer service representative will reset to a new one after you have properly identified yourself. 
 
 SurfStitch's technology department conducts frequent site security audits and employs a third party audit company to perform additional site security audits.
 
@@ -91,16 +91,18 @@ For more information about the National Privacy Principles, see the Federal Priv
 
 WHAT'S IN STORE | SHIPPING & RETURNS | HOW CAN WE HELP? | FURTHER INFORMATION  
 ---|---|---|---  
-[Mens](http://www.surfstitch.com/category/mens-clothing) | [Footwear](http://www.surfstitch.com/category/footwear) | [Gift Wrapping](http://www.surfstitch.com/info/Gift_Wrapping) | [Contact Us](http://www.surfstitch.com/info/footer_contact_us) | [Promotions](http://www.surfstitch.com/info/footer_promotions) | [Testimonials](https://web.archive.org/info/Testimonials)  
+[Mens Clothing](https://web.archive.org/category/mens-clothing) | [Footwear](https://web.archive.org/category/footwear) | [Gift Wrapping](https://web.archive.org/info/Gift_Wrapping) | [Contact Us](https://web.archive.org/info/footer_contact_us) | [Promotions](https://web.archive.org/info/footer_promotions) | [Testimonials](https://web.archive.org/info/Testimonials)  
 ---|---|---|---|---|---  
-[Womens](http://www.surfstitch.com/category/womens-clothing) | [Bags](http://www.surfstitch.com/category/bags) | [Free Australian Shipping](http://www.surfstitch.com/info/Australian_Delivery) | [My Account](https://www.surfstitch.com/myAccount/myAccountLogin.jsp) | [Gift Card](http://www.surfstitch.com/gift/buyGiftCertificate.jsp) | [Affiliate Program](https://web.archive.org/info/Affiliate_Program)  
-[Kids](http://www.surfstitch.com/category/kids-clothing) | [Watches](http://www.surfstitch.com/category/watches) | [Express New Zealand Shipping](http://www.surfstitch.com/info/New_Zealand_Delivery) | [General FAQ](http://www.surfstitch.com/info/General_FAQ) | [About Us](http://www.surfstitch.com/info/footer_about_us) | [Partners](https://web.archive.org/info/Partners)  
-[Accessories](http://www.surfstitch.com/category/accessories) | [Wetsuits](http://www.surfstitch.com/category/wetsuits) | [Express International Shipping](http://www.surfstitch.com/info/International_Delivery) | [Ordering FAQ](http://www.surfstitch.com/info/Ordering_FAQ) | [Terms and Conditions](http://www.surfstitch.com/info/footer_terms_and_conditions) | [Popular Searches](http://search.surfstitch.com/)  
-[Sale](http://www.surfstitch.com/category/sale) | [Surf](http://www.surfstitch.com/category/surf) | [Australian Returns](http://www.surfstitch.com/info/Australian_Returns) | [Shipping FAQ](http://www.surfstitch.com/info/Shipping_FAQ) | [Site Map](http://www.surfstitch.com/info/footer_site_map) | [This and That Magazine](http://www.surfstitch.com/info/This_And_That)  
-[Brands A-Z](http://www.surfstitch.com/brand) | [Snow](http://www.surfstitch.com/category/snow) | [International Returns](http://www.surfstitch.com/info/International_Returns) | [Returns FAQ](http://www.surfstitch.com/info/Returns_FAQ) | [Privacy Policy](http://www.surfstitch.com/info/footer_privacy_policy) | [This and That Blog](http://blog.surfstitch.com/)  
+[Womens Clothing](https://web.archive.org/category/womens-clothing) | [Bags](https://web.archive.org/category/bags) | [Free Australian Shipping](https://web.archive.org/info/Australian_Delivery) | [My Account](https://www.surfstitch.com/myAccount/myAccountLogin.jsp) | [Gift Card](https://web.archive.org/gift/buyGiftCertificate.jsp) | [Affiliate Program](https://web.archive.org/info/Affiliate_Program)  
+[Kids Clothing](https://web.archive.org/category/kids-clothing) | [Watches](https://web.archive.org/category/watches) | [Express New Zealand Shipping](https://web.archive.org/info/New_Zealand_Delivery) | [General FAQ](https://web.archive.org/info/General_FAQ) | [About Us](https://web.archive.org/info/footer_about_us) | [Partners](https://web.archive.org/info/Partners)  
+[Accessories](https://web.archive.org/category/accessories) | [Wetsuits](https://web.archive.org/category/wetsuits) | [Express International Shipping](https://web.archive.org/info/International_Delivery) | [Ordering FAQ](https://web.archive.org/info/Ordering_FAQ) | [Careers](http://careers.surfstitch.com/) | [Terms and Conditions](https://web.archive.org/info/footer_terms_and_conditions)  
+[Sale](https://web.archive.org/category/sale) | [Surf Gear](https://web.archive.org/category/surf) | [Australian Returns](https://web.archive.org/info/Australian_Returns) | [Shipping FAQ](https://web.archive.org/info/Shipping_FAQ) | [Site Map](https://web.archive.org/info/footer_site_map) | [Look Book](https://web.archive.org/info/Look_book)  
+[Brands A-Z](https://web.archive.org/brand) | [Snow Gear](https://web.archive.org/category/snow) | [International Returns](https://web.archive.org/info/International_Returns) | [Returns FAQ](https://web.archive.org/info/Returns_FAQ) | [Privacy Policy](https://web.archive.org/info/footer_privacy_policy) | [This and That Fashion Blog](http://blog.surfstitch.com/)  
   
 Copyright SurfStitch 2011 All rights reserved
 
 [](http://www.verisign.com.au/ssl-certificate/)
 
 [](https://www.mcafeesecure.com/RatingVerify?ref=www.surfstitch.com)
+
+[ ](http://m.surfstitch.com/)
