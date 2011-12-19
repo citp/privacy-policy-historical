@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the np.edu.sg privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324033719id_/http%3A//www.np.edu.sg/home/TermsAndPrivacy/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the np.edu.sg privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219100043id_/http%3A//www.np.edu.sg/home/TermsAndPrivacy/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Ngee Ann Polytechnic Privacy Statement
 
