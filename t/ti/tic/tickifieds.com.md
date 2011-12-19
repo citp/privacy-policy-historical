@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the tickifieds.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627023142id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickifieds.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219182636id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
 
-# Tickifieds - Post and Browse Event Ticket Classified Ads
+# Tickifieds - Free Event Ticket Classified Ads
+
+**The ad has been added to your favorites.**  
+
 
 Tickifieds is committed to safeguarding your online privacy. The following policy outlines how your personal information will be treated as you use our website.
 
