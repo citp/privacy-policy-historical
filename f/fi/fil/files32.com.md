@@ -1,53 +1,34 @@
-> *The following text is extracted and transformed from the files32.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208164832id_/http%3A//www.files32.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the files32.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219192948id_/http%3A//www.files32.com/privacy.asp) for the most accurate reproduction.*
 
-# Files32.com | Terms of Use
+# Welcome to Files32.com! Free, beta, and shareware software downloads.
 
-### Information Collection and Use
+Thank you for visiting [files32.com](https://web.archive.org/). We are committed to protecting the information about our visitors. This privacy policy states how we collect and use the information collected at our site. 
 
-Files32.com is the sole owner of the information collected at this website. We collect information from users at several different points on our website. We will not sell, share, or rent this information in any way other than what is outlined in this statement.
+Please note that we do not collect personally identifiable information about our visitors without their consent. The personal information that we have available was submitted to us by the visitors knowingly. This happens in the following cases: 
 
-### Registration
+\- A person is placing an advertisement with our site under his/her personal name  
+\- A person is nominating him/herself to be a contact person  
+\- A person is sending us an inquiry about our site, services, opportunities to place an ad, etc.
 
-To use some parts of this website, users must complete the registration form. During registration, users must give contact information, such as a name and e-mail address. We use this information to contact the user about the services on our site for which they have expressed interest.
+The collection of personal information is stipulated only by the conditions stated above and may include the following data: name, address, telephone and fax numbers, e-mail, business contact details. 
 
-### Orders
+Personal information is used for the creation of our customers’ base, services delivery and information distribution about updates or modifications of our services. The information collected is not used for marketing purposes, neither is it shared, sold or bartered with third parties, nor distributed in any other manner unless it is required by law, governmental or police structures. 
 
-We request information from the user on our order form, such as a name and shipping address, and financial information, including a credit card number and expiration date. Files32.com uses this information for billing and filling that customer's orders. If we have trouble processing an order, we use the contact information to get in touch with the user. All orders are processed over a secure order form, and user information is protected by the strongest means possible.
+To assure the proper functioning of the site and its services, we at [files32.com](https://web.archive.org/) collect the following technical data from the site visitors: 
 
-### Log Files
+\- IP address used to connect a visitor’s computer to the Internet  
+\- Browser type and version  
+\- Operating system type and version, screen resolution  
+\- Date and time of visit  
+\- Pages accessed and links followed  
+\- Search engine and search keyword use
 
-We use IP addresses to analyze trends, administer the site, track a user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to information that personally identifies the user.
+The collection of the given information helps us to ensure site usability and accessibility. It also allows us to organize our web resource to the utmost convenient degree for users to navigate around the site, download information, and use its resources. We analyze how people are finding our site, what technologies are used to access it and which pages interest them to provide with the smooth and effective service and information. 
 
-### Sharing
+We use external advertising companies to serve ads when you visit our Website. These companies will generally store cookies on your computer to record non-personally identifiable information about your visits to find out how you reached the advertiser’s website and the date visited.
 
-We will share aggregated demographic information with our partners and advertisers. The broad demographic information is not linked to any personal information that can identify an individual. We contract with a separate credit card processing company to bill users for goods and services. This company does not retain, share, store or use personally identifiable information for any other purposes.
+We also use Google [Adsense](http://www.google.com/privacy_ads.html) advertising service on our site. Ads provided by Google [Adsense](http://www.google.com/privacy_ads.html) retrieve the information from the website contents not the visitors themselves. Google [Adsense](http://www.google.com/privacy_ads.html) uses cookies to serve ads on our site. Google’s use of DART cookies enables it to serve ads to the users based on their visit to the current site and to other sites on the Internet. A user may opt out of the use of the DART cookie by visiting [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-### Links
+This Web site contains links to other sites. Please be aware that [files32.com](https://web.archive.org/) is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-This privacy statement applies only to information collected by this website. This website contains links to other sites. Files32.com is not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website that collects information that might personally identify them.
-
-### Newsletter
-
-If a user indicates that they want to subscribe to our newsletter, we ask for an e-mail address.
-
-### Surveys & Contests
-
-Occasionally, we request information from users through surveys or contests. Users participate on a voluntary basis and can choose whether to disclose personal information. This personal information includes the following items: name, shipping address, and demographic information, such as a zip code or age level. We use contact information to notify the winners and award prizes. We use survey information to monitor the website and improve customer satisfaction with the website.
-
-### Security
-
-Files32.com takes every precaution to protect our users' information. When users submit sensitive information through the website, we protect this information in all ways. When our forms ask users to enter sensitive information, such as a credit card number we encrypt the information, protecting it with the best encryption software in the industry - SSL.
-
-While on a secure page, such as our order form, users can see the lock icon in the lower left corner of their web browser, including Netscape Navigator and Microsoft Internet Explorer. This icon displays as locked, as opposed to un-locked, or open, when the user is surfing. To learn more about SSL, click the following link: [http://www.ssl.com](http://www.ssl.com/)
-
-### Site and Service Update
-
-We also send site updates and service announcements to users. Users are able to un-subscribe from service announcements. We communicate with the user through e-mail to provide requested services and discuss issues relating to his or her account.
-
-### Choice/Opt-out
-
-Users can easily choose not to receive our newsletter by clicking the unsubscribe link provided in every newsletter.
-
-### Notification of Changes
-
-We post changes to our privacy policy on our home page so that our users are always aware of how we collect, use, and disclose their information. If we decide to use personally identifiable information differently from the manner stated at the time the information was collected, we will notify users by e-mail. Users will have an opportunity to indicate whether or not we can use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact.asp). 
