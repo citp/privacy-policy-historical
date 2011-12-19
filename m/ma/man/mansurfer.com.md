@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mansurfer.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620190203id_/http%3A//www.mansurfer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansurfer.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219170550id_/http%3A//www.mansurfer.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
