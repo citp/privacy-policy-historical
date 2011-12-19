@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the buxp.org privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625133912id_/http%3A//buxp.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxp.org privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219072408id_/http%3A//www.buxp.org/privacy.php) for the most accurate reproduction.*
 
 # BUXP - Exclusive Revenue Sharing Network
-
-BUXP is one of the largest revenue sharing networks of its kind, providing excellent earning opportunities for our affiliates, and high quality advertising options for our advertisers. We have more than 190,000 affiliates and 12,500 advertisers who agree with us. 
 
 Privacy Policy
 
 This is the website of BUXP, Ltd. 
 
-We can be reached via [contact](https://web.archive.org/web/20110625133912id_/http%3A//buxp.org/contact.php) form. 
+We can be reached via [contact](https://web.archive.org/web/20111219072408id_/http%3A//www.buxp.org/contact.php) form. 
 
 **Cookies:** With respect to cookies: We use cookies to store visitors preferences. 
 
