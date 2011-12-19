@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myinsuranceclub.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517071001id_/http%3A//www.myinsuranceclub.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinsuranceclub.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219052530id_/http%3A//www.myinsuranceclub.com/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security - Our Privacy Policy | MyInsuranceClub.com
 
