@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heavyrainps3.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524015158id_/http%3A//uk.playstation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavyrainps3.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219024241id_/http%3A//uk.playstation.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal - Website Privacy Policy
+# Website Privacy Policy - Legal information and notices
 
 This website is operated by, or on behalf of, Sony Computer Entertainment Europe Limited of 10 Great Marlborough Street, London W1F 7LP, United Kingdom ("SCEE"). We operate, or have operated on our behalf, a number of websites, some of which give you an opportunity to register or provide us with personal information about yourself. Registration may be required to access certain features or promotions. This privacy policy explains how this information is used and how to contact us if you have any queries or concerns.
 
