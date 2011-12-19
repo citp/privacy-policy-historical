@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630055052id_/http%3A//costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219085904id_/http%3A//costco.com.au/Common/Privacy.shtml) for the most accurate reproduction.*
 
 # Costco Wholesale Corporation - Privacy Statement
 
@@ -57,9 +57,9 @@ We have put into place security measures in an effort to protect personal inform
 
 We give you the opportunity to opt-out of receiving certain information or to request that certain information not be shared with third parties by giving you numerous methods to inform us of your decision. Your choice to opt-out will not apply to your spouse or any other individual, including other family members. 
 
-If you do not want to receive Promotional Information (see Use of Personal Information by Costco) or information about Member Services, you can: (a) visit us at our Membership desk at any Costco warehouse location; (b) call us at 02-94697999; (c) e-mail us at membership@costco.com.au or (d) write us at Costco Wholesale Australia Pty Ltd, Australian Home Office, Ground Floor 82 Waterloo Road, North Ryde NSW 2113 
+If you do not want to receive Promotional Information (see Use of Personal Information by Costco) or information about Member Services, you can: (a) visit us at our Membership desk at any Costco warehouse location; (b) call us at 02-94697999; (c) e-mail us at membership@costco.com.au or (d) write us at Costco Wholesale Australia Pty Ltd, Australian Home Office, 17-21 Parramatta Road, Lidcombe NSW 2141. 
 
-If you do not want to receive promotional e-mails, you can: (a) call us at 02-94697999; (b) e-mail us at membership@costco.com.au or (c) write us at Costco Wholesale Australia Pty Ltd, Australian Home Office, Ground Floor 82 Waterloo Road, North Ryde NSW 2113.You also have the option of utilising the unsubscribe facility. 
+If you do not want to receive promotional e-mails, you can: (a) call us at 02-94697999; (b) e-mail us at membership@costco.com.au or (c) write us at Costco Wholesale Australia Pty Ltd, Australian Home Office, 17-21 Parramatta Road, Lidcombe NSW 2141. You also have the option of utilising the unsubscribe facility. 
 
 In the case of telemarketing calls, you should familiarise yourself with any rights which you may have under the _Do Not Call Register Act 2006 (Cth)_. 
 
@@ -70,7 +70,7 @@ If you have any questions or concerns about this privacy statement or would like
   * Visit us at our Membership desk at any Costco warehouse location; 
   * Call us at **02-94697999**
   * E-mail us at **membership@costco.com.au** or 
-  * Write us at Costco Wholesale Australia Pty Ltd, Australian Home Office, Ground Floor 82 Waterloo Road, North Ryde NSW 2113 
+  * Write us at Costco Wholesale Australia Pty Ltd, Australian Home Office, 17-21 Parramatta Road, Lidcombe NSW 2141 
 
 
 
