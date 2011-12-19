@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrods.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509020936id_/http%3A//www.harrods.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrods.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219193635id_/http%3A//www.harrods.com/content/shopping/terms-and-conditions/privacy) for the most accurate reproduction.*
 
 # Security & Privacy Policy at Harrods London
 
@@ -70,7 +70,7 @@ If you no longer wish to receive e-mails from us, each email we send contains a 
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal details to these websites.
 
-We will not keep your personal information processed by us for any purpose or purposes for longer than is necessary for that purpose or for those purposes. The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act 1998. Any access request may be subject to a small fee to meet our costs in providing you with details of the information we hold about you.
+We will not keep your personal information processed by us for any purpose or purposes for longer than is necessary for that purpose or for those purposes. The Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act 1998\. Any access request may be subject to a small fee to meet our costs in providing you with details of the information we hold about you.
 
 ### Security Policy
 
