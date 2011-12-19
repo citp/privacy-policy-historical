@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammsoft.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320210713id_/http%3A//www.sammsoft.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammsoft.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219231928id_/http%3A//www.sammsoft.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Sammsoft - Privacy, Utility and Security Software for the PC
 
@@ -79,6 +79,6 @@ Contact Us
 
 Sammsoft may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address in our file for you or by placing a prominent notice on our site. 
 
-If you have any questions about this Privacy Policy, please email us at [ support@Sammsoft.com](mailto:support@Sammsoft.com) or write to us at Privacy Concerns, c/o Sammsoft, 23316 NE Redmond-Fall City Road, #667, Redmond, WA 98053. 
+If you have any questions about this Privacy Policy, please [contact us](http://support-request.sammsoft.com/csrcreateticket.html) or write to us at Privacy Concerns, c/o Sammsoft, 23316 NE Redmond-Fall City Road, #667, Redmond, WA 98053. 
 
 Last Updated August 25, 2010
