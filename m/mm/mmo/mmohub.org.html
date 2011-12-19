@@ -1,27 +1,34 @@
-<!--The following is the downloaded HTML source of the mmohub.org privacy policy that was archived on 2010-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221024534id_/http%3A//mmogames.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mmohub.org privacy policy that was archived on 2011-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219054320id_/http%3A//mmogames.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<!-- Graham Owens, Liverpool -->
 <title>Privacy Policy MMO LIFE</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="en-US">
-<meta name="Author" content="Hatimo Games Ltd, http://www.hatimogames.com/">
-<meta name="copyright" content="&amp;copy; 2010 MMO LIFE">
+<meta name="Author" content="MMOgames.com, MMOGAMES.COM">
+<meta name="copyright" content="&amp;copy; 2011 IQU GROUP">
 <meta name="date" content="2009-11-2615:00:14+00:00">
 <meta name="revisit-after" content="1 days">
 <meta name="description" content="Privacy Policy MMO LIFE">
 <meta name="keywords" content="privacy policy, mmolife">
-<link href="/css/main.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/news.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/css/hotGames.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" src="/js/general.js"></script>
+
+<link href="/css/themes/mmogamesredesign/main2.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/themes/mmogamesredesign/news.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/themes/mmogamesredesign/hotGames.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" src="/js/general.js"></script>
 <script type="text/javascript" src="/js/jquery-latest.js"></script>
 <script type="text/javascript" src="/js/jquery.min.js"></script>
 <script type="text/javascript" src="/js/showHide.js"></script>
 <script type="text/javascript" src="/js/AC_RunActiveContent.js"></script>
 <script type="text/javascript"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+google.load("swfobject", "2.2");    //]]>
+</script>
 <style type="text/css">
 <!--
-    @import "http://ajax.googleapis.com/ajax/libs/dojo/1.3.2/dijit/themes/tundra/tundra.css";
+    @import "http://ajax.googleapis.com/ajax/libs/dojo/1.6/dijit/themes/tundra/tundra.css";
 -->
 </style>
 <script type="text/javascript">
@@ -29,12 +36,13 @@
     var djConfig = {"parseOnLoad":true};
 //]]>
 </script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/dojo/1.3.2/dojo/dojo.xd.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/dojo/1.6/dojo/dojo.xd.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
 dojo.require("dijit.form.Form");
     dojo.require("dijit.Dialog");
+    dojo.require("dijit.Tooltip");
     dojo.require("dojo.parser");
 dojo.addOnLoad(function() {
     dojo.forEach(zendDijits, function(info) {
@@ -49,19 +57,52 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
 //]]>
 
 </script>
-<style type="text/css" media="screen">body {background:#000 url(/images/backgrounds/vikings-of-thule-game-image.en.jpg) no-repeat center top; }</style>
-
-
+<style type="text/css" media="screen">body {background:#000000 url(/images/backgrounds/site-skins/spiral_knights_siteskin_v1.jpg) no-repeat center top; }</style>
     <link rel="alternate" type="application/rss+xml" title="mmogames.com/rss/mmohub Feed" href="http://mmogames.com/rss/mmohub">
 </head>
 <!-- Start of body -->
 
-<body class="tundra">
+<body class="tundra" onload="init()">
 
     <div id="main-content">
         <!-- Facebook login and country links -->
-                   <!--  <div id="entire-content"> -->
+                   <!--  <div id="can you see this - content"> -->
            <div class="top-bar-links">
+                              <ul>
+                   <li> | Select a Language : </li>
+                   <li>
+                        <select name="country-select" id="countrySelect" onchange="gotoCountry(this);" onclick="pageTracker._trackEvent(&quot;CountryMenu&quot;, &quot;CountrySelect&quot;, this);">
+                            <option value="noCountry" label="Select a Language">Select a Language</option>
+                            <option value="http://mmogames.com" label="MMOGames.com">MMOGames.com</option>
+                            <option value="http://mmospiele.de" label="MMOSpiele.de">MMOSpiele.de</option>
+                            <option value="http://mmojuegos.es" label="MMOJuegos.es">MMOJuegos.es</option>
+
+                            <option value="http://mmojogos.com.br" label="MMOJogos.com.br">MMOJogos.com.br</option>
+                            <option value="http://mmorpg.co.uk" label="MMORPG.uk">MMORPG.uk</option>
+                            <option value="http://mmorpg.cn" label="MMORPG.cn">MMORPG.cn</option>
+                            <option value="http://mmojeux.fr" label="MMOJeux.fr">MMOJeux.fr</option>
+                            <option value="http://freemmo.ru" label="FreeMMO.ru">FreeMMO.ru</option>
+                            <option value="http://mmogry.pl" label="MMOGry.pl">MMOGry.pl</option>
+                            <option value="http://mmorpg.in" label="MMORPG.in">MMORPG.in</option>
+                            <option value="http://mmogioco.it" label="MMOGioco.it">MMOGioco.it</option>
+                            <option value="http://mmospelletjes.nl" label="MMOSpelletjes.nl">MMOSpelletjes.nl</option>
+                        </select>
+                     </li>
+                <!--
+                   <li><a href="http://mmogames.com" title="Go to mmogames.com"><img src="/images/site/gifs/flag-us.gif" title="American USA mmogames.com"></a></li>
+                   <li><a href="http://mmospiele.de" title="Go to mmospiele.de"><img src="/images/site/gifs/flag-de.gif" title="German DE mmospiele.de"></a></li>
+                   <li><a href="http://mmojuegos.es" title="Go to mmojuegos.es"><img src="/images/site/gifs/flag-es.gif" title="Spanish ES mmojuegos.es"></a></li>
+                   <li><a href="http://mmojogos.com.br" title="Go to mmojogos.com.br"><img src="/images/site/gifs/flag-br.gif" title="Brazilian BR mmojogos.com.br"></a></li>
+                   <li><a href="http://mmorpg.co.uk" title="Go to mmorpg.co.uk"><img src="/images/site/gifs/flag-uk.gif" title="British mmorpg.co.uk"></a></li>
+                   <li><a href="http://mmorpg.cn" title="Go to mmorpg.cn"><img src="/images/site/gifs/flag-cn.gif" title="Chinese CN mmohub.cn"></a></li>
+                   <li><a href="http://mmojeux.fr" title="Go to mmojeux.fr"><img src="/images/site/gifs/flag-fr.gif" title="French mmojeux.fr"></a></li>
+                   <li><a href="http://freemmo.ru" title="Go to freemmo.ru"><img src="/images/site/gifs/flag-ru.gif" title="Russia freemmo.ru"></a></li>
+                   <li><a href="http://mmogry.pl" title="Go to mmogry.pl"><img src="/images/site/gifs/flag-pl.gif" title="Poland mmogry.pl"></a></li>
+                   <li><a href="http://mmorpg.in" title="Go to mmorpg.in"><img src="/images/site/gifs/flag-in.gif" title="India mmorpg.in"></a></li>
+                   <li><a href="http://mmogioco.it" title="Go to mmogioco.it"><img src="/images/site/gifs/flag-it.gif" title="Italian mmogioco.it"></a></li>
+                   <li><a href="http://mmospelletjes.nl" title="Go to mmospelletjes.nl"><img src="/images/site/gifs/flag-nl.gif" title="Dutch mmospelletjes.nl"></a></li>
+                  -->
+               </ul>
                           </div>
            <div class="facebook-links">
                  <ul>
@@ -69,7 +110,7 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
                    <!-- <li><a href="javascript:bookmarkthis(document.title,location.href);">Bookmark</a></li>-->
                    
                    <li><a href="javascript:bookmarksite('mmogames.com', 'http://mmogames.com');" onclick="pageTracker._trackEvent('Bookmark', 'TopBarLink - mmogames.com', 'Bookmark link top of page');">Bookmark</a></li>
-                    
+
                     <!--<li><a href="#" onclick="FacebookLogin(); return false;" title="Connect with us on facebook"><img src="/images/site/gifs/facebook-connect.gif" title="Connect with us on facebook"></a></li>-->
                                     </ul>
            </div>
@@ -77,222 +118,313 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
                 
             </div>
         <!-- Top Nav -->
-             
+        
 	<div id="top-header">
 		<div id="top-country-nav">
 		</div>
 		<div id="top-logo-holder">
                     <a href="/" title="MMO Games.com - Free Online MMO &amp; MMORPG Games" onclick="pageTracker._trackEvent('Logo', 'Image', '');">
-			<img src="/images/logo/xmas-logos/mmo-hub-logo-christmas.us.png" alt="MMO Games.com - Free Online MMO &amp; MMORPG Games">
+			<img src="/images/logo/portalLogo-1-spiral_siteskin_logo.png" alt="MMO Games.com - Free Online MMO &amp; MMORPG Games">
                     </a>
 		</div>
 		<div id="top-centre">
+                    <div id="bgflashContent">
+                        
+
+		</div>
 		</div>
 		<div id="top-nav">
+                        <!--
 			<div id="search-form">
-				<form enctype="application/x-www-form-urlencoded" action="/search/results" method="post" sitename="MMOGames" class="search-box" name=""><div class="search-box">
+				<form enctype="application/x-www-form-urlencoded" action="/search/results" method="post" sitename="MMOGames" class="search-box"><div class="search-box">
 <div class="search-input">
-<input type="text" name="search" id="search" value="Search Your MMO..." size="10" onclick="this.value=&quot;&quot;;"></div>
+<input type="text" name="search" id="search" value="Find Your MMO..." size="10" onclick='this.value="";' /></div>
 <div class="submit-search">
-<input type="image" name="submit" id="submit" src="/images/site/gifs/search-icon.gif" alt=""></div></div></form>			</div>
+<input type="image" name="submit" id="submit" src="/images/site/gifs/search-icon.png" alt="" /></div></div></form>			</div>
+                        -->
+                        <div id="top-nav-menu">
 			<ul>
-                            <li><a href="/" target="_self" title="HOME" onclick="pageTracker._trackEvent('Menu', 'Main', 'HOME');">HOME</a></li><li>|</li><li><a href="/gamenews" target="_self" title="NEWS" onclick="pageTracker._trackEvent('Menu', 'Main', 'NEWS');">NEWS</a></li><li>|</li><li><a href="/gameslist" target="_self" title="GAMES LIST" onclick="pageTracker._trackEvent('Menu', 'Main', 'GAMES LIST');">GAMES LIST</a></li><li>|</li><li><a href="/gamecharts" target="_self" title="CHARTS" onclick="pageTracker._trackEvent('Menu', 'Main', 'CHARTS');">CHARTS</a></li><li>|</li><li><a href="http://www.facebook.com/group.php?gid=18560342066&amp;ref=nf" target="_new" title="COMMUNITY" onclick="pageTracker._trackEvent('Menu', 'Main', 'COMMUNITY');">COMMUNITY<img src="/images/site/png/external.png"></a></li><li>|</li>			</ul>
+
+                            <li class="home"><a href="/" target="_self" title="HOME" onclick="pageTracker._trackEvent('Menu', 'Main', 'HOME');">HOME</a></li><li class="normal"><a href="/gamenews" target="_self" title="NEWS" onclick="pageTracker._trackEvent('Menu', 'Main', 'NEWS');">NEWS</a></li><li class="normal"><a href="/gameslist" target="_self" title="GAMES LIST" onclick="pageTracker._trackEvent('Menu', 'Main', 'GAMES LIST');">GAMES LIST</a></li><li class="normal"><a href="/gamecharts" target="_self" title="CHARTS" onclick="pageTracker._trackEvent('Menu', 'Main', 'CHARTS');">CHARTS</a></li><li class="community"><a href="/giveaways" target="_new" title="GIVEAWAYS" onclick="pageTracker._trackEvent('Menu', 'Main', 'GIVEAWAYS');">GIVEAWAYS</a></li>			</ul>
+                    </div>
 		</div>
 		<div id="top-sub-nav">
-			<div id="sub-nav">
-				<ul>
-                                        <li><a href="/mmorpggames" title="MMORPG" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '1');">MMORPG</a></li><li>|</li><li><a href="/fantasygames" title="FANTASY" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '2');">FANTASY</a></li><li>|</li><li><a href="/sci-figames" title="SCI-FI" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '3');">SCI-FI</a></li><li>|</li><li><a href="/racinggames" title="RACING" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '4');">RACING</a></li><li>|</li><li><a href="/browsergames" title="BROWSER" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '5');">BROWSER</a></li><li>|</li><li><a href="/sportsgames" title="SPORTS" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '6');">SPORTS</a></li><li>|</li><li><a href="/strategygames" title="STRATEGY" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '7');">STRATEGY</a></li><li>|</li><li><a href="/actiongames" title="ACTION" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '8');">ACTION</a></li><li>|</li><li><a href="/fightinggames" title="FIGHTING" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '9');">FIGHTING</a></li><li>|</li><li><a href="/shootergames" title="SHOOTER" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '10');">SHOOTER</a></li><li>|</li><li><a href="/minigames" title="MINIGAMES" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '11');">MINIGAMES</a></li>				</ul>
-			</div>
+                        <div id="sub-nav"><ul><li><a href="/mmorpggames" title="MMORPG" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '1');">MMORPG</a></li><li><a href="/fantasygames" title="FANTASY" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '2');">FANTASY</a></li><li><a href="/sci-figames" title="SCI-FI" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '3');">SCI-FI</a></li><li><a href="/racinggames" title="RACING" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '4');">RACING</a></li><li><a href="/browsergames" title="BROWSER" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '5');">BROWSER</a></li><li><a href="/sportsgames" title="SPORTS" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '6');">SPORTS</a></li><li><a href="/strategygames" title="STRATEGY" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '7');">STRATEGY</a></li><li><a href="/actiongames" title="ACTION" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '8');">ACTION</a></li><li><a href="/fightinggames" title="FIGHTING" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '9');">FIGHTING</a></li><li><a href="/shootergames" title="SHOOTER" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '10');">SHOOTER</a></li><li><a href="/minigames" title="MINIGAMES" onclick="pageTracker._trackEvent('Menu', 'CategoryPosition', '11');">MINIGAMES</a></li></ul></div>
+
 			<div id="jump-box">
 				<dd id="quickJump-element">
 <select name="quickJump" id="quickJump" onchange="gotoGame(this);" onclick="pageTracker._trackEvent(&quot;Menu&quot;, &quot;QuickJump&quot;, this);">
     <option value="noGame" label="Select a Game">Select a Game</option>
-    <option value="1100ad,-darkswords" label="1100AD">1100AD</option>
-    <option value="2029-online" label="2029 Online">2029 Online</option>
+    <option value="1100ad" label="1100AD">1100AD</option>
+    <option value="11x11-com" label="11x11.com">11x11.com</option>
     <option value="2moons-bad-moon-rising" label="2Moons: Bad Moon Rising">2Moons: Bad Moon Rising</option>
+    <option value="3dchat" label="3DChat">3DChat</option>
     <option value="4story" label="4Story">4Story</option>
     <option value="9dragons" label="9Dragons">9Dragons</option>
+    <option value="a-mystical-land" label="A Mystical Land">A Mystical Land</option>
     <option value="absolute-terror" label="Absolute Terror">Absolute Terror</option>
     <option value="ace-online" label="Ace Online">Ace Online</option>
     <option value="adventure-quest-worlds" label="Adventure Quest Worlds">Adventure Quest Worlds</option>
     <option value="age-of-armor" label="Age of Armor">Age of Armor</option>
-    <option value="age-of-conan" label="Age of Conan">Age of Conan</option>
-    <option value="age-of-lore" label="Age of Lore">Age of Lore</option>
+    <option value="age-of-conan-unrated" label="Age of Conan: Unchained">Age of Conan: Unchained</option>
+    <option value="age-of-empires-online" label="Age of Empires Online">Age of Empires Online</option>
     <option value="aika-online" label="Aika Online">Aika Online</option>
     <option value="air-rivals" label="Air Rivals">Air Rivals</option>
-    <option value="all-points-bulletin" label="All Points Bulletin">All Points Bulletin</option>
+    <option value="alganon" label="Alganon">Alganon</option>
+    <option value="all-points-bulletin" label="All Points Bulletin: Reloaded">All Points Bulletin: Reloaded</option>
     <option value="allods-online" label="Allods Online">Allods Online</option>
     <option value="altis-gates" label="Altis Gates">Altis Gates</option>
+    <option value="anarchy-online" label="Anarchy Online">Anarchy Online</option>
+    <option value="angels-online" label="Angels Online">Angels Online</option>
     <option value="arcanists" label="Arcanists">Arcanists</option>
     <option value="archlord" label="Archlord">Archlord</option>
+    <option value="argo" label="Argo">Argo</option>
     <option value="armies-of-gielinor" label="Armies of Gielinor">Armies of Gielinor</option>
+    <option value="army-rage" label="Army Rage">Army Rage</option>
     <option value="asda-story" label="Asda Story">Asda Story</option>
+    <option value="ashen-empires" label="Ashen Empires">Ashen Empires</option>
+    <option value="athanaton" label="Athanaton">Athanaton</option>
     <option value="atlantica-online" label="Atlantica Online">Atlantica Online</option>
     <option value="audition-online" label="Audition Online">Audition Online</option>
     <option value="aurora-blade" label="Aurora Blade">Aurora Blade</option>
     <option value="avalon-heroes" label="Avalon Heroes">Avalon Heroes</option>
-    <option value="banish-land" label="Banish Land">Banish Land</option>
+    <option value="basketdudes" label="BasketDudes">BasketDudes</option>
+    <option value="batheo" label="Batheo">Batheo</option>
     <option value="battlefield-heroes" label="Battlefield Heroes">Battlefield Heroes</option>
+    <option value="battlefield-play4free" label="Battlefield Play4Free">Battlefield Play4Free</option>
     <option value="battleforge" label="Battleforge">Battleforge</option>
     <option value="battleknight" label="Battleknight">Battleknight</option>
+    <option value="battlestar-galactica-online" label="Battlestar Galactica Online">Battlestar Galactica Online</option>
     <option value="bb-tanks" label="BB Tanks">BB Tanks</option>
     <option value="berserk-online" label="Berserk Online">Berserk Online</option>
     <option value="bitefight" label="BiteFight ">BiteFight </option>
+    <option value="black-prophecy" label="Black Prophecy">Black Prophecy</option>
+    <option value="black-shot" label="Black Shot">Black Shot</option>
     <option value="blade-wars" label="Blade Wars">Blade Wars</option>
-    <option value="bots" label="Bots">Bots</option>
+    <option value="bounty-bay-online" label="Bounty Bay Online">Bounty Bay Online</option>
+    <option value="brawl-busters" label="Brawl Busters">Brawl Busters</option>
     <option value="bright-shadow" label="Bright Shadow">Bright Shadow</option>
     <option value="bulletstar" label="Bulletstar">Bulletstar</option>
     <option value="business-tycoon-online" label="Business Tycoon Online">Business Tycoon Online</option>
     <option value="cabal-online" label="Cabal Online">Cabal Online</option>
     <option value="caesary" label="Caesary">Caesary</option>
+    <option value="call-of-gods" label="Call of Gods">Call of Gods</option>
     <option value="canaan-online" label="Canaan Online">Canaan Online</option>
     <option value="case-white" label="Case White">Case White</option>
+    <option value="castle-empire-online" label="Castle Empire">Castle Empire</option>
     <option value="castle-fight" label="Castle Fight">Castle Fight</option>
     <option value="castle-of-heroes" label="Castle of Heroes">Castle of Heroes</option>
+    <option value="castlot" label="Castlot">Castlot</option>
+    <option value="celtic-heroes" label="Celtic Heroes">Celtic Heroes</option>
     <option value="chaos-online" label="Chaos Online">Chaos Online</option>
+    <option value="chronicles-of-merlin" label="Chronicles of Merlin">Chronicles of Merlin</option>
     <option value="city-of-eternals" label="City of Eternals">City of Eternals</option>
     <option value="cloud-nine" label="Cloud Nine">Cloud Nine</option>
     <option value="club-galactik" label="Club Galactik">Club Galactik</option>
     <option value="combat-arms" label="Combat Arms">Combat Arms</option>
     <option value="conquer-online" label="Conquer Online">Conquer Online</option>
+    <option value="conquer-online-mobile" label="Conquer Online (Mobile)">Conquer Online (Mobile)</option>
     <option value="corum" label="Corum">Corum</option>
     <option value="crazy-tao" label="Crazy Tao">Crazy Tao</option>
     <option value="crimecraft" label="CrimeCraft">CrimeCraft</option>
     <option value="cronous" label="Cronous">Cronous</option>
     <option value="cross-fire" label="Cross Fire">Cross Fire</option>
-    <option value="dance-groove-online" label="Dance Groove Online">Dance Groove Online</option>
-    <option value="dance-online" label="Dance Online">Dance Online</option>
+    <option value="crystal-saga" label="Crystal Saga">Crystal Saga</option>
+    <option value="cultures-online" label="Cultures Online">Cultures Online</option>
     <option value="dark-orbit" label="Dark Orbit">Dark Orbit</option>
     <option value="darkswords" label="DarkSwords">DarkSwords</option>
+    <option value="dc-universe" label="DC Universe">DC Universe</option>
+    <option value="ddtank" label="DDTank">DDTank</option>
     <option value="deco-online" label="Deco Online">Deco Online</option>
     <option value="deepolis" label="Deepolis">Deepolis</option>
     <option value="dekaron" label="Dekaron">Dekaron</option>
     <option value="desert-blitz" label="Desert Blitz">Desert Blitz</option>
     <option value="desert-operations" label="Desert Operations">Desert Operations</option>
-    <option value="divine-souls" label="Divine Souls">Divine Souls</option>
+    <option value="digimon-masters-online" label="Digimon Masters Online">Digimon Masters Online</option>
     <option value="dofus" label="Dofus">Dofus</option>
     <option value="dogs-of-the-seas" label="Dogs of the Seas ">Dogs of the Seas </option>
+    <option value="dragon-nest" label="Dragon Nest">Dragon Nest</option>
     <option value="dragon-oath" label="Dragon Oath">Dragon Oath</option>
     <option value="dragon-raja" label="Dragon Raja">Dragon Raja</option>
-    <option value="dragon-sky" label="Dragon Sky">Dragon Sky</option>
     <option value="dragonfable" label="Dragonfable">Dragonfable</option>
     <option value="dragonica-online" label="Dragonica Online">Dragonica Online</option>
     <option value="dragons-call" label="Dragons Call">Dragons Call</option>
+    <option value="dragon-of-atlantis" label="Dragons of Atlantis">Dragons of Atlantis</option>
+    <option value="dragonsoul" label="DragonSoul">DragonSoul</option>
+    <option value="drakensang" label="Drakensang">Drakensang</option>
     <option value="dream-of-mirror-online-domo" label="Dream of Mirror Online (DOMO)">Dream of Mirror Online (DOMO)</option>
     <option value="drift-city" label="Drift City">Drift City</option>
     <option value="dungeon-fighter-online" label="Dungeon Fighter Online">Dungeon Fighter Online</option>
     <option value="dungeon-party" label="Dungeon Party">Dungeon Party</option>
     <option value="dungeon-runners" label="Dungeon Runners">Dungeon Runners</option>
     <option value="dungeons--dragons-online-eberron-unlimited" label="Dungeons &amp; Dragons Online: Eberron Unlimited">Dungeons &amp; Dragons Online: Eberron Unlimited</option>
+    <option value="dungeons-and-dragons-heroes-of-neverwinter" label="Dungeons &amp; Dragons: Heroes of Neverwinter">Dungeons &amp; Dragons: Heroes of Neverwinter</option>
     <option value="earth-eternal" label="Earth Eternal">Earth Eternal</option>
     <option value="ecobuddies" label="EcoBuddies">EcoBuddies</option>
+    <option value="eden-eternal" label="Eden Eternal">Eden Eternal</option>
+    <option value="eldoran-realms-of-battle" label="Eldoran: Realms of Battle">Eldoran: Realms of Battle</option>
+    <option value="elsword" label="Elsword">Elsword</option>
+    <option value="empire-and-state" label="Empire and State">Empire and State</option>
     <option value="empire-craft" label="Empire Craft">Empire Craft</option>
-    <option value="erebus-travia-reborn" label="Erebus: Travia Reborn">Erebus: Travia Reborn</option>
+    <option value="empire-rising" label="Empire Rising">Empire Rising</option>
     <option value="erepublik" label="eRepublik">eRepublik</option>
     <option value="ether-saga" label="Ether Saga">Ether Saga</option>
     <option value="eudemons-online" label="Eudemons Online">Eudemons Online</option>
+    <option value="everquest-ii-extended" label="Everquest II Extended">Everquest II Extended</option>
     <option value="evony" label="Evony">Evony</option>
-    <option value="exteel" label="Exteel">Exteel</option>
     <option value="face-of-mankind" label="Face of Mankind">Face of Mankind</option>
     <option value="fairy-story" label="Fairy Story">Fairy Story</option>
+    <option value="fallen-earth" label="Fallen Earth">Fallen Earth</option>
     <option value="fallen-sword" label="Fallen Sword">Fallen Sword</option>
+    <option value="fantage" label="Fantage">Fantage</option>
+    <option value="farm-kingdom" label="Farm Kingdom">Farm Kingdom</option>
+    <option value="farmerama" label="Farmerama">Farmerama</option>
     <option value="fast-and-furious" label="Fast And Furious">Fast And Furious</option>
     <option value="fiesta" label="Fiesta">Fiesta</option>
-    <option value="fists-of-fu" label="Fists of Fu">Fists of Fu</option>
+    <option value="fire911-net" label="Fire911.net">Fire911.net</option>
+    <option value="fliplife" label="Fliplife">Fliplife</option>
     <option value="florensia" label="Florensia">Florensia</option>
     <option value="fly-for-fun-flyff" label="Fly For Fun (FLYFF)">Fly For Fun (FLYFF)</option>
     <option value="football-superstars" label="Football Superstars">Football Superstars</option>
+    <option value="forsaken-world" label="Forsaken World">Forsaken World</option>
+    <option value="forsakia" label="Forsakia">Forsakia</option>
     <option value="franktown-rocks" label="Franktown Rocks">Franktown Rocks</option>
     <option value="free-realms" label="Free Realms">Free Realms</option>
-    <option value="freesky-online" label="FreeSky Online">FreeSky Online</option>
     <option value="freestyle-street-basketball" label="FreeStyle Street Basketball">FreeStyle Street Basketball</option>
     <option value="gaia-online" label="Gaia Online">Gaia Online</option>
     <option value="galaxy-online" label="Galaxy Online">Galaxy Online</option>
+    <option value="galaxy-online-ii" label="Galaxy Online II">Galaxy Online II</option>
     <option value="gates-of-andaron" label="Gates of Andaron">Gates of Andaron</option>
     <option value="gladiatus" label="Gladiatus">Gladiatus</option>
     <option value="gladius-2" label="Gladius 2">Gladius 2</option>
+    <option value="global-warfare" label="Global Warfare">Global Warfare</option>
     <option value="goal-line-blitz" label="Goal Line Blitz">Goal Line Blitz</option>
+    <option value="godfather-five-families" label="Godfather Five Families">Godfather Five Families</option>
     <option value="godswar-online" label="GodsWar Online">GodsWar Online</option>
     <option value="golemizer" label="Golemizer">Golemizer</option>
     <option value="goodgame-poker" label="GoodGame Poker">GoodGame Poker</option>
+    <option value="graalonline-classic" label="GraalOnline Classic ">GraalOnline Classic </option>
     <option value="grand-chase" label="Grand Chase">Grand Chase</option>
     <option value="grand-fantasia" label="Grand Fantasia">Grand Fantasia</option>
     <option value="greedinc" label="GreedInc">GreedInc</option>
     <option value="grepolis" label="Grepolis">Grepolis</option>
     <option value="gunbound" label="Gunbound">Gunbound</option>
+    <option value="gunshine.net" label="Gunshine.net">Gunshine.net</option>
     <option value="gunz-the-duel" label="GunZ: The Duel">GunZ: The Duel</option>
     <option value="habbo-hotel" label="Habbo Hotel">Habbo Hotel</option>
     <option value="hello-kitty-online" label="Hello Kitty Online">Hello Kitty Online</option>
     <option value="heroes-of-gaia" label="Heroes of Gaia">Heroes of Gaia</option>
     <option value="heroes-of-kung-fu" label="Heroes of Kung Fu">Heroes of Kung Fu</option>
     <option value="heroes-of-might-and-magic-online" label="Heroes of Might and Magic Online">Heroes of Might and Magic Online</option>
-    <option value="holic-online" label="Holic Online">Holic Online</option>
     <option value="hovorun" label="Hovorun">Hovorun</option>
+    <option value="howrse" label="Howrse">Howrse</option>
     <option value="ikariam" label="Ikariam">Ikariam</option>
+    <option value="illyriad" label="Illyriad">Illyriad</option>
     <option value="iris" label="Iris Online">Iris Online</option>
+    <option value="iron-grip-marauders" label="Iron Grip: Marauders">Iron Grip: Marauders</option>
     <option value="jade-dynasty" label="Jade Dynasty">Jade Dynasty</option>
+    <option value="jumpstart" label="JumpStart">JumpStart</option>
     <option value="kos-secret-operations" label="K.O.S. Secret Operations">K.O.S. Secret Operations</option>
+    <option value="kapihospital" label="KapiHospital">KapiHospital</option>
+    <option value="karma-online-prisoners-of-the-dead" label="Karma Online: Prisoners of the Dead">Karma Online: Prisoners of the Dead</option>
     <option value="karos-online" label="Karos Online">Karos Online</option>
-    <option value="kartrider" label="KartRider">KartRider</option>
+    <option value="khan-wars" label="Khan Wars ">Khan Wars </option>
     <option value="king-of-kings-3" label="King of Kings 3">King of Kings 3</option>
+    <option value="kingdom-conquest" label="Kingdom Conquest">Kingdom Conquest</option>
     <option value="kingdom-heroes" label="Kingdom Heroes">Kingdom Heroes</option>
     <option value="kingdom-of-loathing" label="Kingdom of Loathing">Kingdom of Loathing</option>
+    <option value="kingdoms-of-camelot" label="Kingdoms of Camelot">Kingdoms of Camelot</option>
     <option value="kingory" label="Kingory">Kingory</option>
     <option value="kingsage" label="Kingsage">Kingsage</option>
+    <option value="kitsu-saga" label="Kitsu Saga">Kitsu Saga</option>
     <option value="knight-online" label="Knight Online">Knight Online</option>
     <option value="kuso-party" label="Kuso Party">Kuso Party</option>
     <option value="last-chaos" label="Last Chaos">Last Chaos</option>
     <option value="latale" label="LaTale">LaTale</option>
+    <option value="league-of-legends" label="League of Legends">League of Legends</option>
     <option value="legend-legacy-of-the-dragons" label="Legend: Legacy of the Dragons">Legend: Legacy of the Dragons</option>
+    <option value="lego-universe" label="LEGO Universe">LEGO Universe</option>
     <option value="lineage-2" label="Lineage 2">Lineage 2</option>
+    <option value="little-horrors" label="Little Horrors">Little Horrors</option>
+    <option value="little-space-heroes" label="Little Space Heroes">Little Space Heroes</option>
     <option value="loco" label="LOCO - Land of Chaos Online">LOCO - Land of Chaos Online</option>
+    <option value="loong-–-the-power-of-the-dragon" label="Loong – The Power of the Dragon">Loong – The Power of the Dragon</option>
     <option value="lord-of-the-rings-online" label="Lord of the Rings Online">Lord of the Rings Online</option>
+    <option value="lords-and-knights" label="Lords and Knights">Lords and Knights</option>
     <option value="lords-of-evil" label="Lords of Evil">Lords of Evil</option>
     <option value="lords-online" label="Lords Online">Lords Online</option>
     <option value="lost-saga" label="Lost Saga">Lost Saga</option>
+    <option value="lucent-heart" label="Lucent Heart">Lucent Heart</option>
     <option value="luminary-rise-of-the-goonzu" label="Luminary: Rise of the GoonZu">Luminary: Rise of the GoonZu</option>
     <option value="luna" label="Luna">Luna</option>
     <option value="lunia--record-of-lunia-war" label="Lunia">Lunia</option>
     <option value="mabinogi" label="Mabinogi">Mabinogi</option>
+    <option value="maestia" label="Maestia">Maestia</option>
     <option value="mafiacreator" label="MafiaCreator">MafiaCreator</option>
+    <option value="mafiaxl-donville" label="MafiaXL Donville">MafiaXL Donville</option>
+    <option value="magic-campus" label="Magic Campus">Magic Campus</option>
     <option value="magic-world-online-mwo" label="Magic World Online (MWO)">Magic World Online (MWO)</option>
     <option value="majesty" label="Majesty">Majesty</option>
     <option value="manga-fighter" label="Manga Fighter">Manga Fighter</option>
+    <option value="maplestory-adventures" label="MapleStory Adventures">MapleStory Adventures</option>
     <option value="martial-heroes" label="Martial Heroes">Martial Heroes</option>
+    <option value="marvel-super-hero-squad-online" label="Marvel Super Hero Squad Online">Marvel Super Hero Squad Online</option>
     <option value="mech-hero" label="Mech Hero">Mech Hero</option>
     <option value="mechquest" label="MechQuest">MechQuest</option>
     <option value="metin2" label="Metin2">Metin2</option>
+    <option value="microvolts" label="MicroVolts">MicroVolts</option>
+    <option value="milmo" label="Milmo">Milmo</option>
     <option value="mini-fighter" label="Mini Fighter">Mini Fighter</option>
+    <option value="mini-ninja" label="Mini Ninja">Mini Ninja</option>
     <option value="mir-ii" label="Mir II">Mir II</option>
     <option value="mission-against-terror-(m.a.t)" label="Mission Against Terror (M.A.T)">Mission Against Terror (M.A.T)</option>
     <option value="mission-cobra" label="Mission Cobra">Mission Cobra</option>
     <option value="mlb-dugout-heroes" label="MLB Dugout Heroes">MLB Dugout Heroes</option>
     <option value="molehill-empire" label="Molehill Empire">Molehill Empire</option>
     <option value="mondozoo" label="MondoZoo">MondoZoo</option>
+    <option value="monkey-quest" label="Monkey Quest">Monkey Quest</option>
     <option value="moshi-monsters" label="Moshi Monsters">Moshi Monsters</option>
     <option value="muniz-online" label="Muniz Online">Muniz Online</option>
+    <option value="muonline" label="MuOnline">MuOnline</option>
+    <option value="my-lands" label="My Lands">My Lands</option>
+    <option value="myfreefarm" label="MyFreeFarm">MyFreeFarm</option>
+    <option value="mythos-europe" label="Mythos Europe">Mythos Europe</option>
     <option value="neo-online" label="N.E.O Online">N.E.O Online</option>
+    <option value="nadirim" label="Nadirim">Nadirim</option>
     <option value="nanovor" label="Nanovor">Nanovor</option>
+    <option value="napoleonic-war" label="Napoleonic War">Napoleonic War</option>
     <option value="neo-steam" label="Neo Steam">Neo Steam</option>
     <option value="nida-online" label="Nida Online">Nida Online</option>
     <option value="nodiatis" label="Nodiatis">Nodiatis</option>
+    <option value="nooja" label="Nooja">Nooja</option>
     <option value="nord" label="Nord">Nord</option>
     <option value="nostale" label="Nostale">Nostale</option>
+    <option value="og41" label="OG41">OG41</option>
     <option value="ogame" label="OGame">OGame</option>
+    <option value="ojo-agent" label="OJO Agent">OJO Agent</option>
+    <option value="oloko" label="Oloko">Oloko</option>
     <option value="ondarun-2" label="Ondarun 2">Ondarun 2</option>
+    <option value="operation-7" label="Operation 7">Operation 7</option>
+    <option value="order-and-chaos-online" label="Order and Chaos Online">Order and Chaos Online</option>
     <option value="osu" label="Osu!">Osu!</option>
+    <option value="pandora-saga" label="Pandora Saga">Pandora Saga</option>
     <option value="pangya" label="Pangya">Pangya</option>
+    <option value="parallel-kingdom" label="Parallel Kingdom">Parallel Kingdom</option>
     <option value="perfect-world-international" label="Perfect World Int'l">Perfect World Int'l</option>
     <option value="pi-story" label="Pi Story">Pi Story</option>
     <option value="pirate-galaxy" label="Pirate Galaxy">Pirate Galaxy</option>
     <option value="pirates-1709" label="Pirates 1709">Pirates 1709</option>
     <option value="pirates-of-scurvy-pond" label="Pirates of Scurvy Pond">Pirates of Scurvy Pond</option>
     <option value="pirates-of-the-caribbean-online" label="Pirates of the Caribbean Online">Pirates of the Caribbean Online</option>
+    <option value="pit-of-war" label="Pit of War">Pit of War</option>
     <option value="pit-stop-boss" label="Pit Stop Boss">Pit Stop Boss</option>
+    <option value="pocket-legends" label="Pocket Legends">Pocket Legends</option>
     <option value="power-soccer" label="Power Soccer">Power Soccer</option>
     <option value="priston-tale-2" label="Priston Tale 2">Priston Tale 2</option>
+    <option value="prius-online" label="Prius Online">Prius Online</option>
     <option value="project-powder" label="Project Powder">Project Powder</option>
     <option value="project-torque" label="Project Torque">Project Torque</option>
+    <option value="r2-online" label="R2 Online">R2 Online</option>
     <option value="ragnarok-online" label="Ragnarok Online">Ragnarok Online</option>
     <option value="rakion" label="Rakion">Rakion</option>
     <option value="ran-online" label="RAN Online">RAN Online</option>
@@ -300,14 +432,18 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
     <option value="rappelz" label="Rappelz">Rappelz</option>
     <option value="red-stone" label="Red Stone">Red Stone</option>
     <option value="regnum-online" label="Regnum Online">Regnum Online</option>
+    <option value="reign-of-steel" label="Reign of Steel">Reign of Steel</option>
     <option value="rf-online" label="RF Online">RF Online</option>
     <option value="richman-online" label="Richman Online">Richman Online</option>
+    <option value="rinksters" label="Rinksters">Rinksters</option>
+    <option value="rise-of-immortals" label="Rise of Immortals">Rise of Immortals</option>
     <option value="roblox" label="ROBLOX">ROBLOX</option>
     <option value="rockfree" label="RockFree">RockFree</option>
-    <option value="rohan-online-blood-feud" label="Rohan Online: Blood Feud">Rohan Online: Blood Feud</option>
+    <option value="rohan-online-vendetta" label="Rohan Online: Vendetta">Rohan Online: Vendetta</option>
     <option value="rumble-fighter" label="Rumble Fighter">Rumble Fighter</option>
     <option value="runes-of-magic" label="Runes of Magic">Runes of Magic</option>
     <option value="runescape" label="Runescape">Runescape</option>
+    <option value="rusty-hearts" label="Rusty Hearts">Rusty Hearts</option>
     <option value="s4-league" label="S4 League">S4 League</option>
     <option value="saga" label="Saga">Saga</option>
     <option value="savage-2-a-tortured-soul" label="Savage 2: A Tortured Soul">Savage 2: A Tortured Soul</option>
@@ -315,31 +451,47 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
     <option value="seafight" label="Seafight">Seafight</option>
     <option value="seal-online-evolution" label="Seal Online: Evolution">Seal Online: Evolution</option>
     <option value="secret-of-the-solstice" label="Secret of the Solstice">Secret of the Solstice</option>
+    <option value="shadowland-online" label="Shadowland Online">Shadowland Online</option>
     <option value="shadowtale" label="Shadowtale">Shadowtale</option>
     <option value="shaiya" label="Shaiya">Shaiya</option>
     <option value="shattered-galaxy" label="Shattered Galaxy">Shattered Galaxy</option>
     <option value="shidonni" label="Shidonni">Shidonni</option>
     <option value="shin-megami-tensei-imagine-online-megaten" label="Shin Megami Tensei: Imagine Online (MegaTen)">Shin Megami Tensei: Imagine Online (MegaTen)</option>
     <option value="sho-online" label="Sho Online">Sho Online</option>
+    <option value="shot-online" label="Shot Online">Shot Online</option>
     <option value="silk-road-online" label="Silk Road Online">Silk Road Online</option>
+    <option value="skyrama" label="Skyrama">Skyrama</option>
+    <option value="slick-sleeve-com" label="Slick-Sleeve.com">Slick-Sleeve.com</option>
+    <option value="smeet" label="Smeet">Smeet</option>
     <option value="soldier-front" label="Soldier Front">Soldier Front</option>
     <option value="soul-of-the-ultimate-nation" label="Soul of the Ultimate Nation">Soul of the Ultimate Nation</option>
     <option value="spineworld" label="Spineworld">Spineworld</option>
+    <option value="spiral-knights" label="Spiral Knights">Spiral Knights</option>
+    <option value="star-corsairs" label="Star Corsairs">Star Corsairs</option>
     <option value="star-fever-agency" label="Star Fever Agency">Star Fever Agency</option>
+    <option value="star-supremacy" label="Star Supremacy">Star Supremacy</option>
     <option value="stardoll" label="Stardoll">Stardoll</option>
     <option value="starport-galactic-empires" label="Starport Galactic Empires">Starport Galactic Empires</option>
+    <option value="steel-legions" label="Steel Legions">Steel Legions</option>
     <option value="stone-age-2" label="Stone Age 2">Stone Age 2</option>
     <option value="superstar-racing" label="Superstar Racing">Superstar Racing</option>
+    <option value="supremacy-1914" label="Supremacy 1914">Supremacy 1914</option>
     <option value="sword-2" label="Sword 2">Sword 2</option>
     <option value="tales-of-fantasy" label="Tales of Fantasy">Tales of Fantasy</option>
     <option value="tales-runner" label="Tales Runner">Tales Runner</option>
     <option value="talisman-online" label="Talisman Online">Talisman Online</option>
+    <option value="tauri-world" label="Tauri World">Tauri World</option>
+    <option value="terra-militaris" label="Terra Militaris">Terra Militaris</option>
+    <option value="the-chase" label="The Chase">The Chase</option>
+    <option value="the-chosen" label="The Chosen">The Chosen</option>
     <option value="the-chronicles-of-spellborn" label="The Chronicles of Spellborn">The Chronicles of Spellborn</option>
     <option value="the-hunter" label="The Hunter">The Hunter</option>
     <option value="the-legacy-of-holy-castle" label="The Legacy of Holy Castle">The Legacy of Holy Castle</option>
     <option value="the-pimps" label="The Pimps">The Pimps</option>
+    <option value="the-stratagems" label="The Stratagems">The Stratagems</option>
     <option value="the-west" label="The West">The West</option>
     <option value="three-kingdoms" label="Three Kingdoms">Three Kingdoms</option>
+    <option value="tibiame" label="TibiaME">TibiaME</option>
     <option value="tlbb" label="TLBB">TLBB</option>
     <option value="trackmania-nations-forever" label="TrackMania Nations Forever">TrackMania Nations Forever</option>
     <option value="transforce" label="TransForce">TransForce</option>
@@ -347,34 +499,48 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
     <option value="travian" label="Travian">Travian</option>
     <option value="tribal-trouble-2" label="Tribal Trouble 2">Tribal Trouble 2</option>
     <option value="tribal-wars" label="Tribal Wars">Tribal Wars</option>
+    <option value="trickster" label="Trickster">Trickster</option>
     <option value="turf-battles" label="Turf Battles">Turf Battles</option>
-    <option value="twelve-sky-2" label="Twelve Sky 2">Twelve Sky 2</option>
+    <option value="twelve-sky-2-europe" label="Twelve Sky 2 Europe">Twelve Sky 2 Europe</option>
     <option value="uncharted-waters-online-(uwo)" label="Uncharted Waters Online (UWO)">Uncharted Waters Online (UWO)</option>
     <option value="upshift-strike-racer" label="Upshift Strike Racer">Upshift Strike Racer</option>
     <option value="urban-rivals" label="Urban Rivals">Urban Rivals</option>
     <option value="valkyrie-sky" label="Valkyrie Sky">Valkyrie Sky</option>
+    <option value="venizia" label="Venizia">Venizia</option>
+    <option value="victory-the-age-of-racing" label="Victory: The Age of Racing">Victory: The Age of Racing</option>
     <option value="vikings-of-thule" label="Vikings of Thule">Vikings of Thule</option>
+    <option value="vindictus-xtreme-edition-europe" label="Vindictus Xtreme Edition Europe">Vindictus Xtreme Edition Europe</option>
     <option value="wanted" label="Wanted">Wanted</option>
     <option value="war-2-dawn-of-nations" label="War 2: Dawn of Nations">War 2: Dawn of Nations</option>
+    <option value="war-of-2012" label="War of 2012">War of 2012</option>
     <option value="war-of-angels" label="War of Angels">War of Angels</option>
+    <option value="war-of-dragons" label="War of Dragons">War of Dragons</option>
     <option value="war-of-legends" label="War of Legends">War of Legends</option>
+    <option value="war-of-the-immortals" label="War of the Immortals">War of the Immortals</option>
     <option value="war-of-titans" label="War of Titans">War of Titans</option>
     <option value="war-rock" label="War Rock">War Rock</option>
+    <option value="war2-glory" label="WAR2 Glory">WAR2 Glory</option>
+    <option value="warflow" label="WarFlow">WarFlow</option>
     <option value="warrior-epic" label="Warrior Epic">Warrior Epic</option>
+    <option value="warstory" label="WarStory">WarStory</option>
     <option value="weeworld" label="WeeWorld">WeeWorld</option>
-    <option value="wind-slayer" label="Wind Slayer">Wind Slayer</option>
     <option value="wizard-101" label="Wizard 101">Wizard 101</option>
     <option value="wolf-team" label="Wolf Team">Wolf Team</option>
     <option value="wonderking" label="Wonderking">Wonderking</option>
     <option value="wonderland-online" label="Wonderland Online">Wonderland Online</option>
+    <option value="woozworld" label="Woozworld">Woozworld</option>
+    <option value="world-golf-tour" label="World Golf Tour">World Golf Tour</option>
+    <option value="world-of-ants-fb" label="World of Ants FB">World of Ants FB</option>
     <option value="world-of-kung-fu" label="World of Kung Fu">World of Kung Fu</option>
     <option value="world-of-lordcraft" label="World of LordCraft">World of LordCraft</option>
     <option value="world-of-tanks" label="World of Tanks">World of Tanks</option>
     <option value="wwii-warfare" label="WWII Warfare">WWII Warfare</option>
     <option value="xblaster" label="XBlaster">XBlaster</option>
     <option value="zero-online" label="Zero Online">Zero Online</option>
+    <option value="zoo-mumba" label="Zoo Mumba">Zoo Mumba</option>
     <option value="zu-online" label="Zu Online">Zu Online</option>
 </select></dd>			</div>
+
 		</div>
 
 	</div>
@@ -383,7 +549,7 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
 	<div id="central-content">
             <div id="left-content">
 		<div id="news-listing-holder">
-                    <div id="crum"><p><a href="/" title="Home">Home</a></p></div>                   <h1>Privacy Policy</h1>
+                    <div id="crum"><p><a href="/" title="Home">Home</a> » <a href="/privacy-policy/" title="privacy-policy">Privacy-policy</a></p></div>                   <h1>Privacy Policy</h1>
 
                         <div class="news-title-holder">
                                                         <span style="line-height: 16px; font-size: 12px; "><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 5px; padding-right: 2px; padding-bottom: 5px; padding-left: 5px; font-size: 11px; color: rgb(0, 0, 0); ">This privacy policy (hereinafter the "Privacy Policy") is applicable to this website and to all games and other activities that are offered by MMO LIFE BV. with its offices at Kenaupark 2, 2011 MS Haarlem, The Netherlands, (hereinafter referred to as "MMO LIFE") on or through this website (this website and such games and activities hereinafter collectively referred to as the "Website"). MMO LIFE is the responsible party as referred to in the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens). MMO LIFE may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Website.</p><ol><li><h2 style="margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; color: rgb(85, 85, 85); ">General data of visitors of the Website</h2><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 5px; padding-right: 2px; padding-bottom: 5px; padding-left: 5px; font-size: 11px; color: rgb(0, 0, 0); ">When you visit the Website, our servers automatically save your computer's IP address. IP addresses will be collected along with information about the actual webpages that you visit on the Website. If you arrived at the Website via a link from another website, the URL of the linking website and the website that you might link to next will also be collected.</p></li><li><h2 style="margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; color: rgb(85, 85, 85); ">Cookies and web beacons</h2><ol><li>MMO LIFE may use cookies, web beacons, or similar technologies to enhance and personalize your experience on the Website, including to<ol><li>operate and improve offerings through the Website;</li><li>help authenticate you when you are on the Website;</li><li>remember your preferences and registration information, as the case may be;</li><li>present and help measure and research the effectiveness of MMO LIFE's offerings, advertisements, and e-mail communications and;</li><li>customize the content and advertisements provided to you through the Website.</li></ol></li><li>MMO LIFE may also use ad network providers, to help present advertisements on the Website. These ad network providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audience. MMO LIFE offers some services in connection with other web sites. Personal information that you provide to those sites may be sent to MMO LIFE in order to deliver the service. MMO LIFE processes such information in accordance with this Privacy Policy.</li><li>MMO LIFE may share certain non-personally identifiable information about you as a user (such as user age and zip code) with certain ad network providers, to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy.</li><li>Most browsers are initially set to accept cookies, but you can (re-)set your browser to refuse all cookies or indicate when a cookie is being sent. However, some features and services may not function properly if the cookies are disabled.</li></ol></li><li><h2 style="margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; color: rgb(85, 85, 85); ">Email Addresses</h2><ol><li>We only collect those email addresses that were provided to us directly by the addressee or when it is beyond doubt that the addresses were provided to or on behalf of us.</li><li>Email addresses will only be used for the purposes for which the email addresses were provided and for those promotion-, service- and other purposes that you expressly approved of.</li><li>Without your approval we shall not use your email address for commercial purposes.</li></ol></li><li><h2 style="margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; color: rgb(85, 85, 85); ">Combination of personal data</h2><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 5px; padding-right: 2px; padding-bottom: 5px; padding-left: 5px; font-size: 11px; color: rgb(0, 0, 0); ">For optimizing our services and the Website and for the purposes mentioned in the articles 1, 2 and 3 of this Privacy Policy, we are entitled to combine your personal data, including your email address as the case may be, with other information about you collected by or provided to us.</p></li><li><h2 style="margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; color: rgb(85, 85, 85); ">Access to the information we collected about you</h2><p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 5px; padding-right: 2px; padding-bottom: 5px; padding-left: 5px; font-size: 11px; color: rgb(0, 0, 0); ">If you wish to have access to the information that we collect about you, please send a written request thereto to MMO LIFE GAMES BV, Kenaupark 2, 2011 MS Haarlem, The Netherlands, together with a copy of your passport (to prevent misuse of requests for information).</p></li><li><h2 style="margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 5px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; font-size: 14px; color: rgb(85, 85, 85); ">Miscellaneous</h2><ol><li>We reserve the right to amend our Privacy Policy. Amendments will be effective as of the moment of publication on the Website. You should check the Website regularly for amendments.</li><li>Internet is a global environment and using the internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using the Website you acknowledge and agree to our processing of personal data in this way.</li><li>MMO LIFE does not intentionally collect any personal data from individuals under the age of 13. When necessary, underage users will be told not to submit any personal details and we will make every effort to delete any details of such users where a parent or guardian has informed us that these details have been collected.</li><li>This Privacy Policy shall be governed by the laws of the Netherlands and submitted to the exclusive jurisdiction of the courts in the Netherlands.</li></ol></li></ol></span>
@@ -401,7 +567,81 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
 
 		<div id="newsletter">
 
-                    <a title="More MMO's and MMORPG's for free here!!!" href="http://Tastemylife.com" onclick="pageTracker._trackEvent('HomeTopRight', 'More MMO's and MMORPG's for free here!!!', 'http://Tastemylife.com');"><img src="/images/site/toolbarlink/2010-11-04-1-tastemylife.png" alt="Best list of MMO's and MMORPG's"></a>
+                    <script language="JavaScript">
+//<![CDATA[
+
+    // www.hatimogames.com
+    // Number of giveaways is 6
+    var theDiv                           = "giveawayrotate";
+
+    var giveawaybannerImages            = new Array('keygivaway-35.jpg', 'keygivaway-31.png', 'keygivaway-37.png', 'keygivaway-33.jpg', 'keygivaway-34.jpg', 'keygivaway-36.jpg');
+    var giveawayanchorTags              = new Array('/giveaways/conquer-online-ipad-gift-pack-giveaway', '/giveaways/dragonica-online-lottery-pack-giveaway', '/giveaways/heroes-of-neverwinter-item-pack-giveaway', '/giveaways/roll-n-rock-closed-beta-key-giveaway', '/giveaways/sword-girls-closed-beta-key-giveaway', '/giveaways/the-missing-ink-alpha-key-giveaway');
+    var giveawayimageRef                = '/images/keygivaways/';
+    var giveawayalts                    = new Array('Conquer Online iPad Gift Pack Giveaway', 'Dragonica Online Lottery Pack Giveaway', 'Heroes of Neverwinter Item Pack Giveaway', 'Roll n Rock Closed Beta Key Giveaway', 'Sword Girls Closed Beta Key Giveaway', 'The Missing Ink Alpha Key Giveaway');
+    
+    function callGiveAways()
+    {
+        //Giveaways(bannerImages, anchorTags, alts, imageRef);
+    }
+
+    function Giveaways(p_urlBanners, p_aHrefs, p_alts, p_imageRef)
+    {
+        //alert("I have been called");
+        this.bannerImg = p_urlBanners;
+        this.anchors = p_aHrefs;
+        this.alts = p_alts;
+        this.newBanner = 0;
+        this.totalBan = this.bannerImg.length;
+        this.imageRefs =  p_imageRef;
+        this.giveawaycallRotate();
+
+    }
+
+    function giveawaywriteString()
+    {
+        //alert("the new banner is here " +newBanner);
+        document.getElementById(theDiv).innerHTML ='<a href="'+this.anchors[newBanner]+'" title="MMOHub Promotions" onClick="pageTracker._trackEvent(\'GiveawayHomePage\', \''+this.alts[this.newBanner]+'\', \'\');"><img src="'+this.imageRefs+this.bannerImg[newBanner]+'" alt="MMO Promotions"  width="305" height="75" /></a>';
+    }
+    
+    function giveawaycycle()
+    {
+      if (this.newBanner == this.totalBan) {
+          this.newBanner = 0;
+      }
+      //alert("the new banner is here " +newBanner);
+      document.getElementById(theDiv).innerHTML ='<a href="'+this.anchors[this.newBanner]+'" title="'+this.alts[this.newBanner]+'" target="_self" onrel="nofollow" onClick="pageTracker._trackEvent(\'GiveawayHomePage\', \''+this.alts[this.newBanner]+'\', \'\');" ><img src="'+this.imageRefs+this.bannerImg[this.newBanner]+'" alt="'+this.alts[this.newBanner]+'" width="305" height="75" /></a>';
+      this.newBanner++;
+    }
+
+    function giveawaycallRotate()
+    {
+        this.theinterval = setInterval("this.giveawaycycle()", 3000);
+    }
+
+
+
+    $(document).ready(function(){
+        
+        if (giveawaybannerImages.length > 0)
+        {
+            // There are 6 give aways
+            //alert("There are 6 giveaways");
+            Giveaways.prototype.giveawaycycle               = giveawaycycle;
+            Giveaways.prototype.giveawaywriteString         = giveawaywriteString;
+            Giveaways.prototype.giveawaycallRotate          = giveawaycallRotate;
+            var givetheseAway   = Giveaways(giveawaybannerImages, giveawayanchorTags, giveawayalts, giveawayimageRef);
+        }
+        else
+        {
+            document.getElementById(theDiv).innerHTML ='<img src="/images/site/languages/siteid-1/keygiveawayNewsLetter.jpg" alt="MMOGames News Letter" />';
+        }
+
+    });
+//]]>
+</script>
+<span id="giveawayrotate">
+   
+</span>
                    
 			<form id="emailform" enctype="application/x-www-form-urlencoded" action="/newsletter" method="post" sitename="MMOGames" class="newsletter-form"><div class="newsletter-box">
 <div class="newsletter-input">
@@ -414,7 +654,7 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
                 		<div id="charts">
                     			<h3>Top 5 MMO Games</h3>
                         <h4><a href="/gamecharts" onclick="pageTracker._trackEvent('Recommended', 'SeeMoreCharts', '');" title="MMOHub Charts">more MMO games &gt;</a></h4>
-                                            <div class="charts-box"><a href="/game/vikings-of-thule" title="Vikings of Thule" onclick="pageTracker._trackEvent('Recommended', 'Image', 'Vikings of Thule');"><img src="/images/games/charts-thumbs/vikings-of-thule-game-image.jpg" alt="Vikings of Thule - MMO Game"></a><h3><a href="/game/vikings-of-thule" title="Vikings of Thule" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Vikings of Thule');">Vikings of Thule</a></h3><div class="charts-review-number"><a href="/game/vikings-of-thule" title="Vikings of Thule" onclick="pageTracker._trackEvent('Recommended', 'PlayNow', 'Vikings of Thule');"><img src="/images/site/gifs/recommended-1.gif" alt="Vikings of Thule"></a></div><h4><a href="/game/vikings-of-thule" title="Vikings of Thule" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Vikings of Thule');">is a unique immersive Facebook-based MMO</a></h4></div><div class="charts-box"><a href="/game/cabal-online" title="Cabal Online" onclick="pageTracker._trackEvent('Recommended', 'Image', 'Cabal Online');"><img src="/images/games/charts-thumbs/cabal-online-game-image.jpg" alt="Cabal Online - MMO Game"></a><h3><a href="/game/cabal-online" title="Cabal Online" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Cabal Online');">Cabal Online</a></h3><div class="charts-review-number"><a href="/game/cabal-online" title="Cabal Online" onclick="pageTracker._trackEvent('Recommended', 'PlayNow', 'Cabal Online');"><img src="/images/site/gifs/recommended-2.gif" alt="Cabal Online"></a></div><h4><a href="/game/cabal-online" title="Cabal Online" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Cabal Online');">A 3D Fantasy MMORPG</a></h4></div><div class="charts-box"><a href="/game/shaiya" title="Shaiya" onclick="pageTracker._trackEvent('Recommended', 'Image', 'Shaiya');"><img src="/images/games/charts-thumbs/shaiya-game-image.jpg" alt="Shaiya - MMO Game"></a><h3><a href="/game/shaiya" title="Shaiya" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Shaiya');">Shaiya</a></h3><div class="charts-review-number"><a href="/game/shaiya" title="Shaiya" onclick="pageTracker._trackEvent('Recommended', 'PlayNow', 'Shaiya');"><img src="/images/site/gifs/recommended-3.gif" alt="Shaiya"></a></div><h4><a href="/game/shaiya" title="Shaiya" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Shaiya');">3D Fantasy MMO, Slay terrible beasts, powerful weapons and dont die</a></h4></div><div class="charts-box"><a href="/game/uncharted-waters-online-(uwo)" title="Uncharted Waters Online (UWO)" onclick="pageTracker._trackEvent('Recommended', 'Image', 'Uncharted Waters Online (UWO)');"><img src="/images/games/charts-thumbs/uncharted-waters-online-uwo-game-image.jpg" alt="Uncharted Waters Online (UWO) - MMO Game"></a><h3><a href="/game/uncharted-waters-online-(uwo)" title="Uncharted Waters Online (UWO)" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Uncharted Waters Online (UWO)');">Uncharted Waters Online</a></h3><div class="charts-review-number"><a href="/game/uncharted-waters-online-(uwo)" title="Uncharted Waters Online (UWO)" onclick="pageTracker._trackEvent('Recommended', 'PlayNow', 'Uncharted Waters Online (UWO)');"><img src="/images/site/gifs/recommended-4.gif" alt="Uncharted Waters Online (UWO)"></a></div><h4><a href="/game/uncharted-waters-online-(uwo)" title="Uncharted Waters Online (UWO)" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Uncharted Waters Online (UWO)');">is a MMORPG set within several timelines during the Age of Exploration</a></h4></div><div class="charts-box"><a href="/game/4story" title="4Story" onclick="pageTracker._trackEvent('Recommended', 'Image', '4Story');"><img src="/images/games/charts-thumbs/4story-game-image.jpg" alt="4Story - MMO Game"></a><h3><a href="/game/4story" title="4Story" onclick="pageTracker._trackEvent('Recommended', 'Name', '4Story');">4Story</a></h3><div class="charts-review-number"><a href="/game/4story" title="4Story" onclick="pageTracker._trackEvent('Recommended', 'PlayNow', '4Story');"><img src="/images/site/gifs/recommended-5.gif" alt="4Story"></a></div><h4><a href="/game/4story" title="4Story" onclick="pageTracker._trackEvent('Recommended', 'Name', '4Story');">4 Story is a fantasy MMORPG similar in style to World of Warcraft</a></h4></div>
+                                            <div class="charts-box"><a href="/game/spiral-knights" title="Spiral Knights" onclick="pageTracker._trackEvent('Recommended', 'Image', 'Spiral Knights');"><img src="/images/games/charts-thumbs/spiral-knights-game-image.jpg" alt="Spiral Knights - MMO Game"></a><h3><a href="/game/spiral-knights" title="Spiral Knights" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Spiral Knights');">Spiral Knights</a></h3><div class="charts-review-number"><a href="/game/spiral-knights" title="Spiral Knights" onclick="pageTracker._trackEvent('Recommended', 'PlayNow', 'Spiral Knights');"><img src="/images/site/gifs/recommended-1.gif" alt="Spiral Knights"></a></div><h4><a href="/game/spiral-knights" title="Spiral Knights" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Spiral Knights');">A high-quality Free to Play MMORPG from SEGA.</a></h4></div><div class="charts-box"><a href="/game/dragonsoul" title="DragonSoul" onclick="pageTracker._trackEvent('Recommended', 'Image', 'DragonSoul');"><img src="/images/games/charts-thumbs/dragonsoul-game-image.jpg" alt="DragonSoul - MMO Game"></a><h3><a href="/game/dragonsoul" title="DragonSoul" onclick="pageTracker._trackEvent('Recommended', 'Name', 'DragonSoul');">DragonSoul</a></h3><div class="charts-review-number"><a href="/game/dragonsoul" title="DragonSoul" onclick="pageTracker._trackEvent('Recommended', 'PlayNow', 'DragonSoul');"><img src="/images/site/gifs/recommended-2.gif" alt="DragonSoul"></a></div><h4><a href="/game/dragonsoul" title="DragonSoul" onclick="pageTracker._trackEvent('Recommended', 'Name', 'DragonSoul');">A Traditional, 3D Fantasy MMORPG with intense PvP battles.</a></h4></div><div class="charts-box"><a href="/game/league-of-legends" title="League of Legends" onclick="pageTracker._trackEvent('Recommended', 'Image', 'League of Legends');"><img src="/images/games/charts-thumbs/league-of-legends-game-image.jpg" alt="League of Legends - MMO Game"></a><h3><a href="/game/league-of-legends" title="League of Legends" onclick="pageTracker._trackEvent('Recommended', 'Name', 'League of Legends');">League of Legends</a></h3><div class="charts-review-number"><a href="/game/league-of-legends" title="League of Legends" onclick="pageTracker._trackEvent('Recommended', 'PlayNow', 'League of Legends');"><img src="/images/site/gifs/recommended-3.gif" alt="League of Legends"></a></div><h4><a href="/game/league-of-legends" title="League of Legends" onclick="pageTracker._trackEvent('Recommended', 'Name', 'League of Legends');">A Free to Play MOBA inspired by the popular WC3 map DotA.</a></h4></div><div class="charts-box"><a href="/game/jumpstart" title="JumpStart" onclick="pageTracker._trackEvent('Recommended', 'Image', 'JumpStart');"><img src="/images/games/charts-thumbs/jumpstart-game-image.jpg" alt="JumpStart - MMO Game"></a><h3><a href="/game/jumpstart" title="JumpStart" onclick="pageTracker._trackEvent('Recommended', 'Name', 'JumpStart');">JumpStart</a></h3><div class="charts-review-number"><a href="/game/jumpstart" title="JumpStart" onclick="pageTracker._trackEvent('Recommended', 'PlayNow', 'JumpStart');"><img src="/images/site/gifs/recommended-4.gif" alt="JumpStart"></a></div><h4><a href="/game/jumpstart" title="JumpStart" onclick="pageTracker._trackEvent('Recommended', 'Name', 'JumpStart');">An online virtual world for kids with educational fun.</a></h4></div><div class="charts-box"><a href="/game/monkey-quest" title="Monkey Quest" onclick="pageTracker._trackEvent('Recommended', 'Image', 'Monkey Quest');"><img src="/images/games/charts-thumbs/monkey-quest-game-image.jpg" alt="Monkey Quest - MMO Game"></a><h3><a href="/game/monkey-quest" title="Monkey Quest" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Monkey Quest');">Monkey Quest</a></h3><div class="charts-review-number"><a href="/game/monkey-quest" title="Monkey Quest" onclick="pageTracker._trackEvent('Recommended', 'PlayNow', 'Monkey Quest');"><img src="/images/site/gifs/recommended-5.gif" alt="Monkey Quest"></a></div><h4><a href="/game/monkey-quest" title="Monkey Quest" onclick="pageTracker._trackEvent('Recommended', 'Name', 'Monkey Quest');">A new MMO from Nickelodeon that's great for younger players.</a></h4></div>
 
 		</div>
                 <!-- Top 5 Games End -->
@@ -424,7 +664,7 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
            <div class="promo-block-hotgames">
                <h3>Top 20 hot games</h3>
 
-                                                              <div class="hot-one-holder"><div class="top-pos"><img src="/images/site/gifs/up-hot-games.gif" alt="Game Position 1"><h4>1</h4></div><div class="top-pos-title"><a href="/game/vikings-of-thule" title="Vikings of Thule" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Vikings of Thule');"><img src="/images/games/games-listing-thumbs/vikings-of-thule-game-image.jpg" alt="Vikings of Thule Image"></a><h3><a href="/game/vikings-of-thule" title="Vikings of Thule game review" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Vikings of Thule');"> Vikings of Thule</a></h3><p><a href="/game/vikings-of-thule" title="About Vikings of Thule" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Vikings of Thule');">Vikings of Thule is a unique i...</a></p></div><p class="linkage"><a href="/game/vikings-of-thule" title="More Vikings of Thule Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Vikings of Thule');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 2"><h4>2</h4></div><a href="/game/ogame" title="OGame" onclick="pageTracker._trackEvent('HotGames', 'Image', 'OGame');"><img src="/images/games/charts-thumbs/ogame-game-image.jpg" alt="OGame - MMO Game"></a><h3><a href="/game/ogame" title="OGame" onclick="pageTracker._trackEvent('HotGames', 'Name', 'OGame');">OGame</a></h3><p><a href="/game/ogame" title="More OGame Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'OGame');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 3"><h4>3</h4></div><a href="/game/lords-online" title="Lords Online" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Lords Online');"><img src="/images/games/charts-thumbs/lords-online-game-image.jpg" alt="Lords Online - MMO Game"></a><h3><a href="/game/lords-online" title="Lords Online" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Lords Online');">Lords Online</a></h3><p><a href="/game/lords-online" title="More Lords Online Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Lords Online');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/down-hot-games-rest.gif" alt="Game Position 4"><h4>4</h4></div><a href="/game/dark-orbit" title="Dark Orbit" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Dark Orbit');"><img src="/images/games/charts-thumbs/darkorbit-game-image.jpg" alt="Dark Orbit - MMO Game"></a><h3><a href="/game/dark-orbit" title="Dark Orbit" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Dark Orbit');">Dark Orbit</a></h3><p><a href="/game/dark-orbit" title="More Dark Orbit Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Dark Orbit');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 5"><h4>5</h4></div><a href="/game/tlbb" title="TLBB" onclick="pageTracker._trackEvent('HotGames', 'Image', 'TLBB');"><img src="/images/games/charts-thumbs/TLBB-game-image.jpg" alt="TLBB - MMO Game"></a><h3><a href="/game/tlbb" title="TLBB" onclick="pageTracker._trackEvent('HotGames', 'Name', 'TLBB');">TLBB</a></h3><p><a href="/game/tlbb" title="More TLBB Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'TLBB');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 6"><h4>6</h4></div><a href="/game/fiesta" title="Fiesta" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Fiesta');"><img src="/images/games/charts-thumbs/fiesta-game-image.jpg" alt="Fiesta - MMO Game"></a><h3><a href="/game/fiesta" title="Fiesta" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Fiesta');">Fiesta</a></h3><p><a href="/game/fiesta" title="More Fiesta Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Fiesta');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 7"><h4>7</h4></div><a href="/game/gladiatus" title="Gladiatus" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Gladiatus');"><img src="/images/games/charts-thumbs/gladiatus-game-image.jpg" alt="Gladiatus - MMO Game"></a><h3><a href="/game/gladiatus" title="Gladiatus" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Gladiatus');">Gladiatus</a></h3><p><a href="/game/gladiatus" title="More Gladiatus Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Gladiatus');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 8"><h4>8</h4></div><a href="/game/war-of-legends" title="War of Legends" onclick="pageTracker._trackEvent('HotGames', 'Image', 'War of Legends');"><img src="/images/games/charts-thumbs/war-of-legends-game-image.jpg" alt="War of Legends - MMO Game"></a><h3><a href="/game/war-of-legends" title="War of Legends" onclick="pageTracker._trackEvent('HotGames', 'Name', 'War of Legends');">War of Legends</a></h3><p><a href="/game/war-of-legends" title="More War of Legends Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'War of Legends');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 9"><h4>9</h4></div><a href="/game/mafiacreator" title="MafiaCreator" onclick="pageTracker._trackEvent('HotGames', 'Image', 'MafiaCreator');"><img src="/images/games/charts-thumbs/mafiacreator-game-image.png" alt="MafiaCreator - MMO Game"></a><h3><a href="/game/mafiacreator" title="MafiaCreator" onclick="pageTracker._trackEvent('HotGames', 'Name', 'MafiaCreator');">MafiaCreator</a></h3><p><a href="/game/mafiacreator" title="More MafiaCreator Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'MafiaCreator');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/same-hot-games-rest.gif" alt="Game Position 10"><h4>10</h4></div><a href="/game/darkswords" title="DarkSwords" onclick="pageTracker._trackEvent('HotGames', 'Image', 'DarkSwords');"><img src="/images/games/charts-thumbs/darkswords-game-image.jpg" alt="DarkSwords - MMO Game"></a><h3><a href="/game/darkswords" title="DarkSwords" onclick="pageTracker._trackEvent('HotGames', 'Name', 'DarkSwords');">DarkSwords</a></h3><p><a href="/game/darkswords" title="More DarkSwords Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'DarkSwords');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 11"><h4>11</h4></div><a href="/game/s4-league" title="S4 League" onclick="pageTracker._trackEvent('HotGames', 'Image', 'S4 League');"><img src="/images/games/charts-thumbs/s4-league-game-image.jpg" alt="S4 League - MMO Game"></a><h3><a href="/game/s4-league" title="S4 League" onclick="pageTracker._trackEvent('HotGames', 'Name', 'S4 League');">S4 League</a></h3><p><a href="/game/s4-league" title="More S4 League Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'S4 League');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/down-hot-games-rest.gif" alt="Game Position 12"><h4>12</h4></div><a href="/game/4story" title="4Story" onclick="pageTracker._trackEvent('HotGames', 'Image', '4Story');"><img src="/images/games/charts-thumbs/4story-game-image.jpg" alt="4Story - MMO Game"></a><h3><a href="/game/4story" title="4Story" onclick="pageTracker._trackEvent('HotGames', 'Name', '4Story');">4Story</a></h3><p><a href="/game/4story" title="More 4Story Details" onclick="pageTracker._trackEvent('HotGames', 'Description', '4Story');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/new-hot-games-rest.gif" alt="Game Position 13"><h4>13</h4></div><a href="/game/shaiya" title="Shaiya" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Shaiya');"><img src="/images/games/charts-thumbs/shaiya-game-image.jpg" alt="Shaiya - MMO Game"></a><h3><a href="/game/shaiya" title="Shaiya" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Shaiya');">Shaiya</a></h3><p><a href="/game/shaiya" title="More Shaiya Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Shaiya');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 14"><h4>14</h4></div><a href="/game/darkswords" title="DarkSwords" onclick="pageTracker._trackEvent('HotGames', 'Image', 'DarkSwords');"><img src="/images/games/charts-thumbs/darkswords-game-image.jpg" alt="DarkSwords - MMO Game"></a><h3><a href="/game/darkswords" title="DarkSwords" onclick="pageTracker._trackEvent('HotGames', 'Name', 'DarkSwords');">DarkSwords</a></h3><p><a href="/game/darkswords" title="More DarkSwords Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'DarkSwords');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 15"><h4>15</h4></div><a href="/game/galaxy-online" title="Galaxy Online" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Galaxy Online');"><img src="/images/games/charts-thumbs/galaxy-online-game-image.jpg" alt="Galaxy Online - MMO Game"></a><h3><a href="/game/galaxy-online" title="Galaxy Online" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Galaxy Online');">Galaxy Online</a></h3><p><a href="/game/galaxy-online" title="More Galaxy Online Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Galaxy Online');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/down-hot-games-rest.gif" alt="Game Position 16"><h4>16</h4></div><a href="/game/godswar-online" title="GodsWar Online" onclick="pageTracker._trackEvent('HotGames', 'Image', 'GodsWar Online');"><img src="/images/games/charts-thumbs/godswar-online-game-image.jpg" alt="GodsWar Online - MMO Game"></a><h3><a href="/game/godswar-online" title="GodsWar Online" onclick="pageTracker._trackEvent('HotGames', 'Name', 'GodsWar Online');">GodsWar Online</a></h3><p><a href="/game/godswar-online" title="More GodsWar Online Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'GodsWar Online');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/new-hot-games-rest.gif" alt="Game Position 17"><h4>17</h4></div><a href="/game/caesary" title="Caesary" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Caesary');"><img src="/images/games/charts-thumbs/caesary-game-image.jpg" alt="Caesary - MMO Game"></a><h3><a href="/game/caesary" title="Caesary" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Caesary');">Caesary</a></h3><p><a href="/game/caesary" title="More Caesary Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Caesary');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/down-hot-games-rest.gif" alt="Game Position 18"><h4>18</h4></div><a href="/game/perfect-world-international" title="Perfect World Int'l" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Perfect World Int'l');"><img src="/images/games/charts-thumbs/perfect-world-international-game-image.jpg" alt="Perfect World Int'l - MMO Game"></a><h3><a href="/game/perfect-world-international" title="Perfect World Int'l" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Perfect World Int'l');">Perfect World Int'l</a></h3><p><a href="/game/perfect-world-international" title="More Perfect World Int'l Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Perfect World Int'l');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/down-hot-games-rest.gif" alt="Game Position 19"><h4>19</h4></div><a href="/game/wizard-101" title="Wizard 101" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Wizard 101');"><img src="/images/games/charts-thumbs/wizard101-game-image.jpg" alt="Wizard 101 - MMO Game"></a><h3><a href="/game/wizard-101" title="Wizard 101" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Wizard 101');">Wizard 101</a></h3><p><a href="/game/wizard-101" title="More Wizard 101 Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Wizard 101');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/down-hot-games-rest.gif" alt="Game Position 20"><h4>20</h4></div><a href="/game/runes-of-magic" title="Runes of Magic" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Runes of Magic');"><img src="/images/games/charts-thumbs/runes-of-magic-game-image.jpg" alt="Runes of Magic - MMO Game"></a><h3><a href="/game/runes-of-magic" title="Runes of Magic" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Runes of Magic');">Runes of Magic</a></h3><p><a href="/game/runes-of-magic" title="More Runes of Magic Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Runes of Magic');">More details &gt;&gt;</a></p></div>               </div>
+                                                              <div class="hot-one-holder"><div class="top-pos"><img src="/images/site/gifs/new-hot-games.gif" alt="Game Position 1"><h4>1</h4></div><div class="top-pos-title"><a href="/game/spiral-knights" title="Spiral Knights" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Spiral Knights');"><img src="/images/games/games-listing-thumbs/spiral-knights-game-image.jpg" alt="Spiral Knights Image"></a><h3><a href="/game/spiral-knights" title="Spiral Knights game review" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Spiral Knights');"> Spiral Knights</a></h3><p><a href="/game/spiral-knights" title="About Spiral Knights" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Spiral Knights');">Spiral Knights is a high-quali...</a></p></div><p class="linkage"><a href="/game/spiral-knights" title="More Spiral Knights Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Spiral Knights');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 2"><h4>2</h4></div><a href="/game/league-of-legends" title="League of Legends" onclick="pageTracker._trackEvent('HotGames', 'Image', 'League of Legends');"><img src="/images/games/charts-thumbs/league-of-legends-game-image.jpg" alt="League of Legends - MMO Game"></a><h3><a href="/game/league-of-legends" title="League of Legends" onclick="pageTracker._trackEvent('HotGames', 'Name', 'League of Legends');">League of Legends</a></h3><p><a href="/game/league-of-legends" title="More League of Legends Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'League of Legends');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/down-hot-games-rest.gif" alt="Game Position 3"><h4>3</h4></div><a href="/game/dragonsoul" title="DragonSoul" onclick="pageTracker._trackEvent('HotGames', 'Image', 'DragonSoul');"><img src="/images/games/charts-thumbs/dragonsoul-game-image.jpg" alt="DragonSoul - MMO Game"></a><h3><a href="/game/dragonsoul" title="DragonSoul" onclick="pageTracker._trackEvent('HotGames', 'Name', 'DragonSoul');">DragonSoul</a></h3><p><a href="/game/dragonsoul" title="More DragonSoul Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'DragonSoul');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/down-hot-games-rest.gif" alt="Game Position 4"><h4>4</h4></div><a href="/game/age-of-conan-unrated" title="Age of Conan: Unchained" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Age of Conan: Unchained');"><img src="/images/games/charts-thumbs/age-of-conan-unchained-game-image.jpg" alt="Age of Conan: Unchained - MMO Game"></a><h3><a href="/game/age-of-conan-unrated" title="Age of Conan: Unchained" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Age of Conan: Unchained');">Age of Conan: Unchained</a></h3><p><a href="/game/age-of-conan-unrated" title="More Age of Conan: Unchained Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Age of Conan: Unchained');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/new-hot-games-rest.gif" alt="Game Position 5"><h4>5</h4></div><a href="/game/jumpstart" title="JumpStart" onclick="pageTracker._trackEvent('HotGames', 'Image', 'JumpStart');"><img src="/images/games/charts-thumbs/jumpstart-game-image.jpg" alt="JumpStart - MMO Game"></a><h3><a href="/game/jumpstart" title="JumpStart" onclick="pageTracker._trackEvent('HotGames', 'Name', 'JumpStart');">JumpStart</a></h3><p><a href="/game/jumpstart" title="More JumpStart Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'JumpStart');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/same-hot-games-rest.gif" alt="Game Position 6"><h4>6</h4></div><a href="/game/monkey-quest" title="Monkey Quest" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Monkey Quest');"><img src="/images/games/charts-thumbs/monkey-quest-game-image.jpg" alt="Monkey Quest - MMO Game"></a><h3><a href="/game/monkey-quest" title="Monkey Quest" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Monkey Quest');">Monkey Quest</a></h3><p><a href="/game/monkey-quest" title="More Monkey Quest Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Monkey Quest');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/same-hot-games-rest.gif" alt="Game Position 7"><h4>7</h4></div><a href="/game/wizard-101" title="Wizard 101" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Wizard 101');"><img src="/images/games/charts-thumbs/wizard-101-game-image.jpg" alt="Wizard 101 - MMO Game"></a><h3><a href="/game/wizard-101" title="Wizard 101" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Wizard 101');">Wizard 101</a></h3><p><a href="/game/wizard-101" title="More Wizard 101 Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Wizard 101');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/down-hot-games-rest.gif" alt="Game Position 8"><h4>8</h4></div><a href="/game/rise-of-immortals" title="Rise of Immortals" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Rise of Immortals');"><img src="/images/games/charts-thumbs/rise-of-immortals-game-image.jpg" alt="Rise of Immortals - MMO Game"></a><h3><a href="/game/rise-of-immortals" title="Rise of Immortals" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Rise of Immortals');">Rise of Immortals</a></h3><p><a href="/game/rise-of-immortals" title="More Rise of Immortals Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Rise of Immortals');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 9"><h4>9</h4></div><a href="/game/dragon-nest" title="Dragon Nest" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Dragon Nest');"><img src="/images/games/charts-thumbs/dragon-nest-game-image.jpg" alt="Dragon Nest - MMO Game"></a><h3><a href="/game/dragon-nest" title="Dragon Nest" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Dragon Nest');">Dragon Nest</a></h3><p><a href="/game/dragon-nest" title="More Dragon Nest Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Dragon Nest');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 10"><h4>10</h4></div><a href="/game/empire-rising" title="Empire Rising" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Empire Rising');"><img src="/images/games/charts-thumbs/empire-rising-game-image.jpg" alt="Empire Rising - MMO Game"></a><h3><a href="/game/empire-rising" title="Empire Rising" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Empire Rising');">Empire Rising</a></h3><p><a href="/game/empire-rising" title="More Empire Rising Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Empire Rising');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 11"><h4>11</h4></div><a href="/game/s4-league" title="S4 League" onclick="pageTracker._trackEvent('HotGames', 'Image', 'S4 League');"><img src="/images/games/charts-thumbs/s4-league-game-image.jpg" alt="S4 League - MMO Game"></a><h3><a href="/game/s4-league" title="S4 League" onclick="pageTracker._trackEvent('HotGames', 'Name', 'S4 League');">S4 League</a></h3><p><a href="/game/s4-league" title="More S4 League Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'S4 League');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 12"><h4>12</h4></div><a href="/game/savage-2-a-tortured-soul" title="Savage 2: A Tortured Soul" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Savage 2: A Tortured Soul');"><img src="/images/games/charts-thumbs/savage-2-a-tortured-soul-game-image.jpg" alt="Savage 2: A Tortured Soul - MMO Game"></a><h3><a href="/game/savage-2-a-tortured-soul" title="Savage 2: A Tortured Soul" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Savage 2: A Tortured Soul');">Savage 2: A Tortured Soul</a></h3><p><a href="/game/savage-2-a-tortured-soul" title="More Savage 2: A Tortured Soul Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Savage 2: A Tortured Soul');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/new-hot-games-rest.gif" alt="Game Position 13"><h4>13</h4></div><a href="/game/star-supremacy" title="Star Supremacy" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Star Supremacy');"><img src="/images/games/charts-thumbs/star-supremacy-game-image.jpg" alt="Star Supremacy - MMO Game"></a><h3><a href="/game/star-supremacy" title="Star Supremacy" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Star Supremacy');">Star Supremacy</a></h3><p><a href="/game/star-supremacy" title="More Star Supremacy Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Star Supremacy');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/new-hot-games-rest.gif" alt="Game Position 14"><h4>14</h4></div><a href="/game/basketdudes" title="BasketDudes" onclick="pageTracker._trackEvent('HotGames', 'Image', 'BasketDudes');"><img src="/images/games/charts-thumbs/basketdudes-game-image.jpg" alt="BasketDudes - MMO Game"></a><h3><a href="/game/basketdudes" title="BasketDudes" onclick="pageTracker._trackEvent('HotGames', 'Name', 'BasketDudes');">BasketDudes</a></h3><p><a href="/game/basketdudes" title="More BasketDudes Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'BasketDudes');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/new-hot-games-rest.gif" alt="Game Position 15"><h4>15</h4></div><a href="/game/battlefield-play4free" title="Battlefield Play4Free" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Battlefield Play4Free');"><img src="/images/games/charts-thumbs/battlefield-play4free-game-image.jpg" alt="Battlefield Play4Free - MMO Game"></a><h3><a href="/game/battlefield-play4free" title="Battlefield Play4Free" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Battlefield Play4Free');">Battlefield Play4Free</a></h3><p><a href="/game/battlefield-play4free" title="More Battlefield Play4Free Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Battlefield Play4Free');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/new-hot-games-rest.gif" alt="Game Position 16"><h4>16</h4></div><a href="/game/drakensang" title="Drakensang" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Drakensang');"><img src="/images/games/charts-thumbs/drakensang-game-image.jpg" alt="Drakensang - MMO Game"></a><h3><a href="/game/drakensang" title="Drakensang" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Drakensang');">Drakensang</a></h3><p><a href="/game/drakensang" title="More Drakensang Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Drakensang');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/new-hot-games-rest.gif" alt="Game Position 17"><h4>17</h4></div><a href="/game/forsaken-world" title="Forsaken World" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Forsaken World');"><img src="/images/games/charts-thumbs/forsaken-world-game-image.jpg" alt="Forsaken World - MMO Game"></a><h3><a href="/game/forsaken-world" title="Forsaken World" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Forsaken World');">Forsaken World</a></h3><p><a href="/game/forsaken-world" title="More Forsaken World Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Forsaken World');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/down-hot-games-rest.gif" alt="Game Position 18"><h4>18</h4></div><a href="/game/perfect-world-international" title="Perfect World Int'l" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Perfect World Int'l');"><img src="/images/games/charts-thumbs/perfect-world-intl-game-image.jpg" alt="Perfect World Int'l - MMO Game"></a><h3><a href="/game/perfect-world-international" title="Perfect World Int'l" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Perfect World Int'l');">Perfect World Int'l</a></h3><p><a href="/game/perfect-world-international" title="More Perfect World Int'l Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Perfect World Int'l');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/up-hot-games-rest.gif" alt="Game Position 19"><h4>19</h4></div><a href="/game/maplestory-adventures" title="MapleStory Adventures" onclick="pageTracker._trackEvent('HotGames', 'Image', 'MapleStory Adventures');"><img src="/images/games/charts-thumbs/maplestory-adventures-game-image.jpg" alt="MapleStory Adventures - MMO Game"></a><h3><a href="/game/maplestory-adventures" title="MapleStory Adventures" onclick="pageTracker._trackEvent('HotGames', 'Name', 'MapleStory Adventures');">MapleStory Adventures</a></h3><p><a href="/game/maplestory-adventures" title="More MapleStory Adventures Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'MapleStory Adventures');">More details &gt;&gt;</a></p></div><div class="hot-box"><div class="chart-num"><img src="/images/site/gifs/new-hot-games-rest.gif" alt="Game Position 20"><h4>20</h4></div><a href="/game/rise-of-immortals" title="Rise of Immortals" onclick="pageTracker._trackEvent('HotGames', 'Image', 'Rise of Immortals');"><img src="/images/games/charts-thumbs/rise-of-immortals-game-image.jpg" alt="Rise of Immortals - MMO Game"></a><h3><a href="/game/rise-of-immortals" title="Rise of Immortals" onclick="pageTracker._trackEvent('HotGames', 'Name', 'Rise of Immortals');">Rise of Immortals</a></h3><p><a href="/game/rise-of-immortals" title="More Rise of Immortals Details" onclick="pageTracker._trackEvent('HotGames', 'Description', 'Rise of Immortals');">More details &gt;&gt;</a></p></div>               </div>
         </div>
         <div class="clearer">
         </div>
@@ -442,7 +682,7 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
                     <div class="direct-nav-block">
                             <h6>Friends</h6>
                             <ul>
-                                    <li><a href="http://www.tastemylife.com" title="Best MMO &amp; MMORPG Games" target="_blank">TasteMyLife.com</a></li><li><a href="http://FreeToPlay.org" title="free 2 play MMORPGs" target="_blank">free 2 play MMORPGs</a></li>
+                                    <li><a href="http://mmoraid.com" title="Raiding the web for the latest MMO gaming news, reviews, trailers and more." target="_blank">MMORaid</a></li><li><a href="http://freemmogamer.com" title="Free MMO Games" target="_blank">Free MMO Games</a></li><li><a href="http://FreeToPlay.org" title="Free 2 Play MMORPGs" target="_blank">Free 2 Play MMORPGs</a></li>
                             </ul>
                     </div>
                     <div class="direct-nav-block">
@@ -463,44 +703,17 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
                     <div class="direct-nav-block">
                             <h6>Latest MMO News</h6>
                             <ul>
-                                    <li><a href="/gamenews/3131/cardmon-hero-announces-second-closed-beta" title="CardMon Hero Announces Second Closed Beta news article">CardMon Hero Annou..</a></li><li><a href="/gamenews/3076/action-mmorpg-divine-souls-available-now" title="Action MMORPG Divine Souls Available Now news article">Action MMORPG Divi..</a></li><li><a href="/gamenews/3059/godswar-online-available-now-on-facebook" title="GodsWar Online Available Now on Facebook news article">GodsWar Online Ava..</a></li><li><a href="/gamenews/3033/allods-online-announces-latest-expansion---volume-3:-the-fury-of-war" title="Allods Online Announces Latest Expansion - Volume 3 The Fury of War  news article">Allods Online Anno..</a></li><li><a href="/gamenews/3029/the-art-of-the-troll" title="The Art of the Troll news article">The Art of the Tro..</a></li>                            </ul>
+                                    <li><a href="/gamenews/4898/aika-online-announces-winter-holiday-events" title="Aika Online Announces Winter Holiday Events news article">Aika Online Announ..</a></li><li><a href="/gamenews/4896/conquer-online-reveals-new-pirate-class" title="Conquer Online Reveals New Pirate Class news article">Conquer Online Rev..</a></li><li><a href="/gamenews/4894/dungeons--dragons-heroes-of-neverwinter-item-pack-giveaway" title="Dungeons &amp; Dragons: Heroes of Neverwinter Item Pack Giveaway news article">Dungeons &amp; Dragons..</a></li><li><a href="/gamenews/4890/free-to-play-command--conquer-enters-beta-tomorrow" title="Free To Play Command &amp; Conquer Enters Beta Tomorrow news article">Free To Play Comma..</a></li><li><a href="/gamenews/4889/runes-of-magic-announces-score-for-more-rewards" title="Runes Of Magic Announces Score For More Rewards news article">Runes Of Magic Ann..</a></li>                            </ul>
                     </div>
                     <div class="direct-nav-block">
                             <h6>Latest MMOs Added</h6>
                             <ul>
-                                <li><a href="/game/iris" title="Iris Online game">Iris Online..</a></li><li><a href="/game/molehill-empire" title="Molehill Empire game">Molehill Empire..</a></li><li><a href="/game/king-of-kings-3" title="King of Kings 3 game">King of Kings 3..</a></li><li><a href="/game/war-of-angels" title="War of Angels game">War of Angels..</a></li><li><a href="/game/majesty" title="Majesty game">Majesty..</a></li>                            </ul>
-                    </div>
-            </div>
-            <div class="footer-blocks-left">
-                    <div class="footer-nav-block">
-                            <h6>MMOLIFE Network</h6>
-                            <ul>
-                                                                </ul>
-                    </div>
-            </div>
-            <div class="footer-blocks-left">
-                    <div class="footer-nav-block">
-                            <h6>MMO Categories</h6>
-                            <ul>
-                                    <li><a href="http://mmogames.com/fantasygames" title="Play Free MMO Fantasy Games on MMO Games.com" target="_blank">Fantasy Games</a></li><li><a href="http://mmogames.com/actiongames" title="Play free MMO Action Games on MMO Games.com" target="_blank">Action Games</a></li><li><a href="http://mmogames.com/shootergames" title="Play free MMO Shooting Games on MMO Games.com" target="_blank">Shooting Games</a></li><li><a href="http://mmogames.com/sci-figames" title="Play Free MMO Sci-Fi Games on MMO Games.com" target="_blank">Sci-Fi Games</a></li><li><a href="http://mmogames.com/minigames" title="Play Free MMO minigames on MMO Games.com" target="_blank">Minigames</a></li>                            </ul>
-                    </div>
-            </div>
-            <div class="footer-blocks-left">
-                    <div class="footer-nav-block">
-                            <h6>MMO Categories</h6>
-                            <ul>
-                                    <li><a href="http://mmogames.com/mmorpggames" title="Play MMORPG Games on MMO Games.com" target="_blank">MMORPG Games</a></li><li><a href="http://mmogames.com/browsergames" title="Play Free Browsergames on MMO Games.com" target="_blank">Browsergames</a></li><li><a href="http://mmogames.com/strategygames" title="Play Free MMO Strategy Games on MMO Games.com" target="_blank">Strategy Games</a></li><li><a href="http://mmogames.com/fightinggames" title="Play Free MMO Fighting Games on MMO Games.com" target="_blank">Fighting Games</a></li><li><a href="http://mmogames.com/mmorpggames" title="MMO" target="_blank">MMO</a></li><li><a href="http://mmogames.com/gamecharts" title="Free Online Top Best MMO and MMORPG games" target="_blank">Free Online Top Best MMO and MMORPG games</a></li>                            </ul>
-                    </div>
-            </div>
-            <div class="footer-blocks-right">
-                    <div class="footer-nav-block">
-                            <h6>Kids MMO Games</h6>
-                            <ul>
-                                    <li><a href="http://mmogames.com/gameslist/?category=Virtual-Worlds" title="Play Free Virtual Worlds on MMO Games.com" target="_blank">Virtual Worlds</a></li><li><a href="http://mmogames.com/gameslist/?category=Pets" title="Play Free MMO Pet Games on MMO Games.com" target="_blank">Pet Games</a></li>                            </ul>
+                                <li><a href="/game/3dchat" title="3DChat game">3DChat..</a></li><li><a href="/game/conquer-online-mobile" title="Conquer Online (Mobile) game">Conquer Online (Mo..</a></li><li><a href="/game/fantage" title="Fantage game">Fantage..</a></li><li><a href="/game/farm-kingdom" title="Farm Kingdom game">Farm Kingdom..</a></li><li><a href="/game/illyriad" title="Illyriad game">Illyriad..</a></li>                            </ul>
                     </div>
             </div>
 
-        <div id="openTwitterback" class="ir"><a href="http://twitter.com/mmohub" title="Follow MMOGames on Twitter" id="twitterbackOpener" target="_blank"><img src="/images/site/languages/siteid-1/side_twitter.png" alt="Twitter"></a></div>
+            
+    
                                 
     <!-- Footer End -->
     
@@ -510,7 +723,7 @@ var zendDijits = [{"id":"emailform","params":{"dojoType":"dijit.form.Form"}}];
 
 <!-- Entire Content End 
 <div><a href="/game/age-of-conan/"  id="background-image" title="Play Age of Conan Online now" target="_self" ></a></div>-->
-<div><a href="http://www.vikingsofthule.com/ad1/?kt_type=ad&amp;kt_st1=mmolife&amp;kt_st2=US" id="background-image" title="Play Vikings of Thule Online now" onclick="pageTracker._trackEvent('Background', 'PlayNow', 'Vikings of Thule');" target="_blank" rel="nofollow"></a></div><!-- </div> -->
+<div><a href="/game/spiral-knights" id="background-image" title="Play Spiral Knights now" onclick="pageTracker._trackEvent('Background', 'PlayNow', 'Spiral Knights');" target="_self"></a></div><!-- </div> -->
 <!-- Slam the Anchor Tag for background click over here ! -->
 <!-- <div><a href="/"game/dragon-oath/ id="background-image" title="Play Dragon Oath Online now" onclick="GA_tracker_thisDomain._trackEvent('home', 'click', 'background');"  target="_self" ></a></div> -->
 <!-- <div><a href="/game/dragon-oath/"  id="background-image" title="Play Dragon Oath Online now" target="_self" >Me</a></div> -->
