@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadc.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512010544id_/http%3A//www.uploadc.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadc.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219204111id_/http%3A//www.uploadc.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Uploadc - Easy way to share your files
 
