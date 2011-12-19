@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the optimalprint.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504023116id_/http%3A//www.optimalprint.com/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalprint.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219064945id_/http%3A//www.optimalprint.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: Optimalprint
+# Privacy Policy
 
   
 
 
-## Part of Optimalprint's [Terms and Conditions](https://web.archive.org/en-US/terms)
+## Part of Optimalprint's [Terms and Conditions](https://web.archive.org/terms)
 
 Optimalprint knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting our Site and any of the sites offered by Optimalprint, you are accepting the practices described in this Privacy Policy. For question on the Privacy Policy please contact [privacypolicy@optimalprint.com](mailto:privacypolicy@optimalprint.com). 
 
