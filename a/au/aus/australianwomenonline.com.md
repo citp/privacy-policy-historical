@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the australianwomenonline.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230055958id_/http%3A//www.australianwomenonline.com/about-australian-women-online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianwomenonline.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082240id_/http%3A//www.australianwomenonline.com/about-australian-women-online/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Australian Women Online
 
 Australian Women Online operates the websites australianwomenonline.com and australianwomenonline.com.au. It is Australian Women Online’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -32,5 +32,17 @@ Although most changes are likely to be minor, Australian Women Online may change
 
 _The above has been adapted from the Privacy Policy on the WordPress.com website which has been made available to Australian Women Online under a Creative Commons Sharealike license._
 
-[](http://www.australianwomenonline.com/about-australian-women-online/privacy-policy/printpage/ "Print This Article") [Print This Article](http://www.australianwomenonline.com/about-australian-women-online/privacy-policy/printpage/ "Print This Article")   
+**CONTACT US**  
+Australian Women Online  
+Suite F, Level 1  
+Octagon  
+110 George Street  
+Parramatta, NSW 2150 Australia
+
+Telephone: +61 2 9615 9603  
+Email: Please use contact form below
+
+[_cforms_ contact form by delicious:days](http://www.deliciousdays.com/cforms-plugin)
+
+[](http://www.australianwomenonline.com/about-australian-women-online/privacy-policy/printpage/ "Print This Page") [Print This Page](http://www.australianwomenonline.com/about-australian-women-online/privacy-policy/printpage/ "Print This Page")   
 
