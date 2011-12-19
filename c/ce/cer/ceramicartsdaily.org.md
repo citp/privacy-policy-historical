@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceramicartsdaily.org privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620092527id_/http%3A//ceramicartsdaily.org/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceramicartsdaily.org privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219050258id_/http%3A//ceramicartsdaily.org/account/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
@@ -14,4 +14,4 @@ ACerS is fully committed to data security. To prevent unauthorized access, maint
 
 **Commitment to Privacy**
 
-The American Ceramic Society is actively committed to preserve individual privacy rights on the Internet and in all aspects of electronic commerce. If you have a question specific to privacy, please contact us at [customerservice@ceramics.org](mailto:customerservice@ceramics.org). If we decide to change our privacy policy, those changes will be posted on this page. [ ](http://ceramicartsdaily.org/ContactUs/ContactUs.aspx)
+The American Ceramic Society is actively committed to preserve individual privacy rights on the Internet and in all aspects of electronic commerce. If you have a question specific to privacy, please contact us at [customerservice@ceramics.org](mailto:customerservice@ceramics.org). If we decide to change our privacy policy, those changes will be posted on this page. [ ](https://web.archive.org/ContactUs/ContactUs.aspx)
