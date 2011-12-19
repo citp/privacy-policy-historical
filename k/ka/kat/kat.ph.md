@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kat.ph privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610164115id_/http%3A//www.kat.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kat.ph privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219042422id_/http%3A//www.kat.ph/privacy) for the most accurate reproduction.*
 
 # Privacy policy - KickassTorrents
 
