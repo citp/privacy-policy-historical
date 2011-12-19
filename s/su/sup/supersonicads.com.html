@@ -1,9 +1,27 @@
-<!--The following is the downloaded HTML source of the supersonicads.com privacy policy that was archived on 2011-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110209202755id_/http%3A//www.supersonicads.com/index.php/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the supersonicads.com privacy policy that was archived on 2011-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111219101439id_/http%3A//www.supersonicads.com/index.php/Privacy_Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-		<script type="text/javascript" src="http://jsd.supersonicads.com/offerPanel/js/jquery/jquery-1.4.2.min.js"></script>
-		<script type="text/javascript" src="http://s.supersonicads.com/portal/new/js/jquery.cycle.all.min.js"></script>
+		<!--link rel="stylesheet" type="text/css" href="http://s.supersonicads.com/portal/new/css/outer.20.css" /-->
+		<link rel="stylesheet" type="text/css" href="http://s.ssacdn.com/portal/new/css/outer.28.min.gz.css">
+		<style type="text/css">
+		@font-face{
+			font-family: 'DINWebBlack';
+			src: url('/skins/supersonicads_new/webfontkit/dinweb-black-webfont.eot');
+			src: url('/skins/supersonicads_new/webfontkit/dinweb-black-webfont.woff') format('woff'), url('/skins/supersonicads_new/webfontkit/dinweb-black-webfont.ttf') format('truetype'), url('/skins/supersonicads_new/webfontkit/dinweb-black-webfont.svg#webfont5Tiyt788') format('svg');
+		}
+		@font-face{
+			font-family: 'DINWeb-Medium';
+			src: url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.eot');
+			src: url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.woff') format('woff'), url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.ttf') format('truetype'), url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.svg#webfontUGgemgEY') format('svg');
+		}
+		.brandconnect-slide{position:relative;}
+		.mini-banner{position: absolute;left:527px;top:35px;}
+		.regularCase{text-transform:none;}
+		</style>
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+		<script type="text/javascript" src="http://s.ssacdn.com/portal/new/js/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="http://s.ssacdn.com/portal/new/js/custom.min.gz.js"></script>
 				<script type="text/javascript">
 		$(document).ready(function(){
 			var navigation = $(".menu a");
@@ -17,13 +35,13 @@
 				}
 			});
 			navigation.mouseover(function(){
-				if(!$(this).hasClass("current")){					  
+				if(!$(this).hasClass("current")){
 					var src = $(this).css("background-image");
 					var arr = src.split(".png");
 					var hoverSrc = arr[0]+"Hover.png"+arr[1];
 					this.style.backgroundImage = hoverSrc;
 					$(this).stop().animate(
-						{backgroundPosition:"100% 1px"}, 
+						{backgroundPosition:"100% 1px"},
 						{duration:600});
 				}
 			})
@@ -31,17 +49,19 @@
 				if(!$(this).hasClass("current")){
 					var src = $(this).css("background-image");
 					var arr = src.split("Hover.png");
-					var hoverSrc = arr[0]+".png"+arr[1];
+					if(typeof arr[1] !== "undefined"){
+						var hoverSrc = arr[0]+".png"+arr[1];
+					} else {
+						arr = src.split("Curr.png");
+						var hoverSrc = arr[0]+".png"+arr[1];
+					}
 					this.style.backgroundImage = hoverSrc;
 					$(this).stop().animate(
-						{backgroundPosition:"100% 100%"}, 
+						{backgroundPosition:"100% 100%"},
 						{duration:100});
 				}
 			}).mousedown(function(){
-				//var curr = "";
-				//if($(this).hasClass("current")){
-				var	curr = "Curr";
-				//}	
+				var curr = "Curr";
 				var src = $(this).css("background-image");
 				var arr = src.split("Hover.png");
 				var hoverSrc = arr[0]+curr+".png"+arr[1];
@@ -57,23 +77,59 @@
 				speed: '600',
 				cleartype: true, cleartypeNoBg: true
 			});
+			$.fn.cycle.updateActivePagerLink = function(pager, currSlideIndex) {
+				$('.bannerPaging > div').removeClass('active');
+				$('#b' + (currSlideIndex+1) ).addClass('active');
+			};
 			$('.banner').cycle({
 				fx: 'scrollLeft',
 				speed: '700',
-				timeout: '10000'
+				timeout: '5000',
+				pager: '.bannerPaging',
+				pagerAnchorBuilder: function(idx, slide) {
+				return '';
+				},
+				timeoutFn: function(currSlideElement, nextSlideElement, options, forwardFlag) {
+					// Make the first slide delay x3 times than a usual frame
+					if (options.currSlide == 0) {
+						return options.timeout * 2;
+					} else {
+						return options.timeout;
+					};
+				},
+				before: function(currSlideElement, nextSlideElement, options, forwardFlag) {
+					if (options.nextSlide == 0) {
+						$('.mini-banner').cycle(0);
+						$('.mini-banner').cycle('resume');
+					} else {
+						$('.mini-banner').cycle(0);
+						$('.mini-banner').cycle('pause');
+					};
+				}
 			});
-			$('#b1').click(function() { 
-				$('.banner').cycle(0); 
-				return false; 
-			}); 
-			$('#b2').click(function() {  
-				$('.banner').cycle(1);  
-				return false;  
-			}); 
-			$('#b3').click(function() {  
-				$('.banner').cycle(2);  
-				return false;  
-			}); 
+			$('#b1').click(function() {
+				$('.banner').cycle(0);
+				return false;
+			});
+			$('#b2').click(function() {
+				$('.banner').cycle(1);
+				return false;
+			});
+			$('#b3').click(function() {
+				$('.banner').cycle(2);
+				return false;
+			});
+			$('#b4').click(function() {
+				$('.banner').cycle(3);
+				return false;
+			});
+			$('#b5').click(function() {
+				$('.banner').cycle(4);
+				return false;
+			});
+			$('.mini-banner').cycle({
+				timeout: 3333
+			});
 			if(document.getElementById("aboutUsSideBarBullets")){
 				$("#aboutUsSideBarBullets li").hover(
 					function(){if(!$(this).hasClass("current"))$(this).animate({textIndent:"5px"},{duration:200});},
@@ -81,29 +137,16 @@
 				)
 				$("#aboutUsSideBarBullets li.current").css("text-indent","5px");
 			}
-			$("#password").keypress(function (e) {  
-				if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {  
+			$("#password").keypress(function (e) {
+				if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
 					document.topSignin.submit();
-				}  
-			}); 
+				}
+			});
 		});
-		
+
 		</script>
 				<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 				<title>Privacy Policy - SupersonicAds</title>
-		<link rel="stylesheet" type="text/css" href="http://s.supersonicads.com/portal/new/css/outer.19.css">
-		<style type="text/css">
-		@font-face{
-			font-family: 'DINWebBlack';
-			src: url('/skins/supersonicads_new/webfontkit/dinweb-black-webfont.eot');
-			src: url('/skins/supersonicads_new/webfontkit/dinweb-black-webfont.woff') format('woff'), url('/skins/supersonicads_new/webfontkit/dinweb-black-webfont.ttf') format('truetype'), url('/skins/supersonicads_new/webfontkit/dinweb-black-webfont.svg#webfont5Tiyt788') format('svg');
-		}
-		@font-face{
-			font-family: 'DINWeb-Medium';
-			src: url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.eot');
-			src: url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.woff') format('woff'), url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.ttf') format('truetype'), url('/skins/supersonicads_new/webfontkit/dinweb-medium-webfont.svg#webfontUGgemgEY') format('svg');
-		}
-		</style>
 				<script type="text/javascript">/*<![CDATA[*/
 var skin = "supersonicads_new";
 var stylepath = "/skins";
@@ -112,7 +155,7 @@ var wgScriptPath = "";
 var wgScript = "/index.php";
 var wgVariantArticlePath = false;
 var wgActionPaths = [];
-var wgServer = "http://supersonicads.com";
+var wgServer = "http://www.supersonicads.com";
 var wgCanonicalNamespace = "";
 var wgCanonicalSpecialPageName = false;
 var wgNamespaceNumber = 0;
@@ -126,17 +169,23 @@ var wgUserGroups = null;
 var wgUserLanguage = "en";
 var wgContentLanguage = "en";
 var wgBreakFrames = false;
-var wgCurRevisionId = "331";
+var wgCurRevisionId = "965";
 var wgVersion = "1.13.0";
 var wgEnableAPI = true;
 var wgEnableWriteAPI = false;
 var wgRestrictionEdit = [];
 var wgRestrictionMove = [];
 /*]]>*/</script>
-			</head>
+				<meta property="og:title" content="SupersonicAds - virtual currency monetization.">
+		<meta property="og:type" content="product">
+		<meta property="og:image" content="http://s.ssacdn.com/portal/new/images/logo-260x90.png">
+		<meta property="fb:admins" content="100001035232703">
+		<meta property="og:site_name" content="SupersonicAds.com">
+		<meta name="description" content="SupersonicAds is a leading social in-game advertising platform utilizing virtual currency monetization">
+	</head>
 	<body>
 	<div class="wrapper">
-    	<div class="header">
+		<div class="header">
 						<div class="login">
 			<form name="topSignin" id="topSignin" method="post" action="/index.php?title=Special:UserLogin&amp;action=submitlogin&amp;type=login">
 			Publisher Login:
@@ -147,27 +196,27 @@ var wgRestrictionMove = [];
 			<a href="/index.php?title=Special:UserLogin&amp;action=submitlogin&amp;type=signup" class="btn">Sign Up Now</a>
 			</form>
 			</div>
-			        </div>
-        <div class="content">
-        	<div class="top">
-            	<a href="/index.php/Main_Page" class="logo"></a>
-            	<div class="menu">
+					</div>
+		<div class="content">
+			<div class="top">
+				<a href="/index.php/Main_Page" class="logo"></a>
+				<div class="menu">
 					
 				<a href="/index.php/Publishers" id="menuPublishers">Publishers</a>
-                <a href="/index.php/Advertisers" id="menuAdvertisers">Advertisers</a>
-                <a href="/index.php/Platform" id="menuPlatform">Platform</a>
-                <a href="/index.php/Company" id="menuAboutus">About Us</a>
-                <a href="/index.php/Special:ContactUs" id="menuContactus">Contact Us</a>
-			                </div>
-            </div>
-            <div class="middle">
-				
-				
-							
-				
-				
+				<a href="/index.php/Advertisers" id="menuAdvertisers">Advertisers</a>
+				<a href="/index.php/Company" id="menuAboutus">About Us</a>
+				<a href="/index.php/Special:ContactUs" id="menuContactus">Contact Us</a>
+							</div>
+			</div>
+			<div class="middle">
+
+
+			
+
+
 				<p>
 </p><div class="hr"></div>
+<div style="width:700px;">
 <h1>PRIVACY POLICY</h1>
 
 <h4>General</h4>
@@ -214,7 +263,8 @@ SupersonicAds shall not disclose to any third parties your personal information 
 (a)	In the event that you shall breach any terms set forth in these Terms of Use and/or if you perform via the Website and/or Services, or in connection with the Website and/or Services, any acts that are illegal (including act that, in the sole opinion of SupersonicAds, may be illegal), or any attempt to perform any of the foregoing. It is clarified that SupersonicAds shall be entitled to disclose personal information that identifies you as may be required under applicable law including, without limitation, in the event that a court or administrative order to provide such personal information and/or your personal details to any third party in the foregoing circumstances.<br>
 (b)	In the event of any dispute, claim, suit, or other legal proceedings of any kind between you and SupersonicAds.<br>
 (c)	In any event that, in the opinion of SupersonicAds, the disclosure of such information is required in order to prevent damage to your body or to your property, or to the property or body of any other third party. In such event, SupersonicAds shall use its reasonable best efforts in order to notify you of such disclosure.<br>
-(d)	  In any event where the Website and/or Services and/or any rights related to the Website and/or Services and/or in the event that the operation of the Website and/or Services is transferred by SupersonicAds to any other entity including, without limitation, in the event that the Website and/or Services is sold, of the merger of SupersonicAds with any third party and/or any restructuring in connection with SupersonicAds, provided however that the entity to whom the information is disclosed shall undertake to comply with the provisions of this privacy policy or a privacy policy substantially similar to this privacy policy.
+(d)	  In any event where the Website and/or Services and/or any rights related to the Website and/or Services and/or in the event that the operation of the Website and/or Services is transferred by SupersonicAds to any other entity including, without limitation, in the event that the Website and/or Services is sold, of the merger of SupersonicAds with any third party and/or any restructuring in connection with SupersonicAds, provided however that the entity to whom the information is disclosed shall undertake to comply with the provisions of this privacy policy or a privacy policy substantially similar to this privacy policy.<br>
+(e)	  We use third-party advertising companies to serve ads on this Site, which may, directly or indirectly, collect or use information about your visits to this site to display advertisements more tailored to your interests. If you wish to know more about this practice or would like to know more about your options, you can visit the Network Advertising Initiative (“NAI”) web-site: http://www.networkadvertising.org. The NAI is a cooperative of online advertising companies who are committed to responsible practices and consumer protection.
 <br><br>
 
 <h4>Collection of Information by Use of Technological Means. </h4>   
@@ -237,7 +287,7 @@ In such case, please note that the information required by SupersonicAds for the
 Please note that SupersonicAds retains its right to change, from time to time, without being required to provide any notification, and at its sole discretion the provisions of the privacy policy as detailed herein. Accordingly, it is advised to visit this Web page from time to time in order to see any such changes and to view the Terms of Use.
 <br>
 
-
+</div>
 
 <p></p>
 <!-- 
@@ -248,50 +298,47 @@ Template argument size: 0/2097152 bytes
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key main:pcache:idhash:30-0!1!0!!en!2 and timestamp 20110209160606 -->
+<!-- Saved in parser cache with key main:pcache:idhash:30-0!1!0!!en!2!edit=0 and timestamp 20111218160625 -->
 <div class="printfooter">
-Retrieved from "<a href="http://supersonicads.com/index.php/Privacy_Policy">http://supersonicads.com/index.php/Privacy_Policy</a>"</div>
-				
-            </div>
-        </div>
+Retrieved from "<a href="http://www.supersonicads.com/index.php/Privacy_Policy">http://www.supersonicads.com/index.php/Privacy_Policy</a>"</div>
+
+			</div>
+		</div>
 		<div class="push"></div>
-    </div>
-	
+	</div>
+
 	
 		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
-	
-    <div class="footer">
-    	<div class="copyrights">© Supersonicads.com 2009-2010</div>
-        <div class="bottomMenu">
+
+	<div class="footer">
+		<div class="copyrights">© SupersonicAds.com 2009-2011</div>
+		<div class="bottomMenu">
 			<a href="/index.php/Main_Page">Home</a> |
-			<a href="/index.php/Company">About us</a> | 
+			<a href="/index.php/Company">About us</a> |
 			<a href="/index.php/Publishers">Publishers</a> |
 			<a href="/index.php/Advertisers">Advertisers</a> |
-			<a href="/index.php/Platform">Platform</a> |
 			<a href="/index.php/Special:ContactUs">Contact us</a> |
 			<a href="/index.php/News">News</a> |
 			<a href="/index.php/Privacy_Policy" rel="nofollow">Privacy policy</a> |
 			<a href="/index.php/Terms_Of_Use" rel="nofollow">Terms of use</a>
-        </div>
+		</div>
 	</div>
- 
- 
- 
- 
- 	
-<!-- Served in 0.078 secs. --><script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-9627481-1");pageTracker._trackPageview();} catch(err) {}</script>
+
+
+
+
+
+<!-- Served in 0.208 secs. --><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-25932734-1']);_gaq.push(['_setDomainName', 'supersonicads.com']);_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function() { var ga = document.createElement('script');ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
 <div class="preloading">
-		<img src="http://s.supersonicads.com/portal/new/images/menu/menuPublishersHover.png" alt="">
-	<img src="http://s.supersonicads.com/portal/new/images/menu/menuAdvertisersHover.png" alt="">
-	<img src="http://s.supersonicads.com/portal/new/images/menu/menuPlatformHover.png" alt="">
-	<img src="http://s.supersonicads.com/portal/new/images/menu/menuAboutusHover.png" alt="">
-	<img src="http://s.supersonicads.com/portal/new/images/menu/menuContactusHover.png" alt="">
-	<img src="http://s.supersonicads.com/portal/new/images/menu/menuPublishersCurr.png" alt="">
-	<img src="http://s.supersonicads.com/portal/new/images/menu/menuAdvertisersCurr.png" alt="">
-	<img src="http://s.supersonicads.com/portal/new/images/menu/menuPlatformCurr.png" alt="">
-	<img src="http://s.supersonicads.com/portal/new/images/menu/menuAboutusCurr.png" alt="">
-	<img src="http://s.supersonicads.com/portal/new/images/menu/menuContactusCurr.png" alt="">
-		<img src="http://s.supersonicads.com/portal/new/images/btnBg.hover.png" alt="">
+		<img src="http://s.ssacdn.com/portal/new/images/menu/menuPublishersHover.png" alt="">
+	<img src="http://s.ssacdn.com/portal/new/images/menu/menuAdvertisersHover.png" alt="">
+	<img src="http://s.ssacdn.com/portal/new/images/menu/menuAboutusHover.png" alt="">
+	<img src="http://s.ssacdn.com/portal/new/images/menu/menuContactusHover.png" alt="">
+	<img src="http://s.ssacdn.com/portal/new/images/menu/menuPublishersCurr.png" alt="">
+	<img src="http://s.ssacdn.com/portal/new/images/menu/menuAdvertisersCurr.png" alt="">
+	<img src="http://s.ssacdn.com/portal/new/images/menu/menuAboutusCurr.png" alt="">
+	<img src="http://s.ssacdn.com/portal/new/images/menu/menuContactusCurr.png" alt="">
+		<img src="http://s.ssacdn.com/portal/new/images/btnBg.hover.png" alt="">
 </div>
 
 
