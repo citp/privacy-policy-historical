@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awpcp.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619214309id_/http%3A//awpcp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awpcp.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219070347id_/http%3A//www.awpcp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AWPCP.com
 
@@ -54,7 +54,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://awpcp.com/terms-service>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.awpcp.com/terms-service>
 
 **Your Consent**
 
