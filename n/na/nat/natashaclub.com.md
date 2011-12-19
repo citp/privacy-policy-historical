@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natashaclub.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220013524id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natashaclub.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219104643id_/http%3A//www.natashaclub.com/privacy.html) for the most accurate reproduction.*
 
 # Natasha Club privacy statement
 
@@ -53,8 +53,8 @@ We may amend this Privacy Policy at any time by posting the amended terms on the
 If you have any questions about this privacy statement and the practices of its usage, please contact: 
 
 **Natasha Club  
-429 Weber Rd #288  
-Romeoville, IL 60446  
+228 Park Ave S #80849  
+New York, NY 10003  
 USA **
 
 **Toll free phone: 1-866-Y-SINGLE (1-866-974-6453)**  
