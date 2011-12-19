@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scriptreaderpro.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602083733id_/http%3A//www.scriptreaderpro.com/%3Fpage_id%3D478) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptreaderpro.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219231142id_/http%3A//www.scriptreaderpro.com/%3Fpage_id%3D478) for the most accurate reproduction.*
 
-# scriptreaderpro.com » Privacy Policy
+# Screenplay coverage for the aspiring writer — SCRIPTREADERPRO.COM
 
 This privacy policy sets out how ScriptReaderPro uses and protects any information that you give ScriptReaderPro when you use this website.
 
