@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fapdu.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206085739id_/http%3A//fapdu.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fapdu.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082535id_/http%3A//fapdu.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy of fapdu
 
-This document details the usage of data collected by fapdu.com
-
-We do not collect any personal information from our users, registered or unregistered. We do not even require an email address in order to sign up.
+We do **not** collect any personal information from our unregistered users. Registered users may provide information on an opt-in basis. We do not require an email address in order to sign up. 
 
 ## Data collected
 
@@ -22,7 +20,7 @@ Registration is required in order to upload image galleries and favorite videos.
 
 ## Disclosure of information
 
-Fapdu will not disclose or use any of your information unless required to do so by a law enforcement agency or in the event of a [Terms of Use](https://web.archive.org/terms) violation.
+Fapdu will not disclose or use any of your information unless required to do so by a law enforcement agency or in the event of a [terms of use](https://web.archive.org/terms) violation.
 
 ## Security
 
