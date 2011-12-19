@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alwaysastrology.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506141048id_/http%3A//www.alwaysastrology.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alwaysastrology.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219175051id_/http%3A//www.alwaysastrology.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
