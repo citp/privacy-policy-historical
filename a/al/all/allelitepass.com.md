@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the allelitepass.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414143617id_/http%3A//secure.allelitepass.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allelitepass.com privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219082436id_/http%3A//track.elitedollarz.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **All Elite Pass**
 
 **PRIVACY POLICY STATEMENT**  
+  
   
 
 
