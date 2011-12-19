@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noadware.net privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502083626id_/http%3A//noadware.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noadware.net privacy policy that was archived on 2011-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111219161611id_/http%3A//www.noadware.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # NoAdware.net Privacy Policy
 
